@@ -1,4 +1,4 @@
-#All
+# All
 
 | id | 中文 | 英文 | 日文 |
 | --- | --- | --- | --- |
@@ -412,6 +412,43 @@
 | trap_098_mire | 沼泽控制 | - | - |
 | trap_103_ymdgct | 地形增伤控制 | - | - |
 | trap_104_dplant | 改性植物激素 | - | - |
+| trap_400_xbfarm | 便携式种植槽 | - | - |
+| trap_401_xbfato | 采集实习站 | - | - |
+| trap_403_wfactory | 蟹蟹抽水泵 | - | - |
+| trap_404_xbfortress | 坚固筑台 | - | - |
+| trap_405_xbroadblock | 都市风壁障 | - | - |
+| trap_406_xboverwatch | 监控塔 | - | - |
+| trap_408_xbbase | 基地 | - | - |
+| trap_409_xbwood | 杂木林 | - | - |
+| trap_410_xbstone | 巨大岩石 | - | - |
+| trap_411_xbiron | 奇异矿脉 | - | - |
+| trap_412_redtower | 移动战塔 | - | - |
+| trap_413_hiddenstone | 遗迹残骸 | - | - |
+| trap_414_vegetation | 灌木丛 | - | - |
+| trap_415_trademan | 联络员 | - | - |
+| trap_416_gtreasure | 埋没金属箱 | - | - |
+| trap_417_shielder | 护盾遥控器 | - | - |
+| trap_418_smokebomb | 安眠迷香 | - | - |
+| trap_419_enhancer | 醒神秘药 | - | - |
+| trap_420_umbrella | 反侦察藏匿机 | - | - |
+| trap_421_repairman | 应急修理车 | - | - |
+| trap_422_streasure | 宝刺金属箱 | - | - |
+| trap_423_bondtw | 缚网发射台 | - | - |
+| trap_424_pushtw | 喷拒器 | - | - |
+| trap_425_xbwall | 防御工事 | - | - |
+| trap_426_xbmrcl | 模块演算设施 | - | - |
+| trap_427_xbprsh | 资源规划站 | - | - |
+| trap_428_xblrsh | 备勤激活站 | - | - |
+| trap_429_xbescp | 跨地块通讯站 | - | - |
+| trap_430_wdescp | 逃脱点 | - | - |
+| trap_431_xbgldn | 冶铸台 | - | - |
+| trap_432_oldisin | 老伊辛 | - | - |
+| trap_433_sandsdr | “沙卒” | - | - |
+| trap_434_klmantc | 曼提柯杀手 | - | - |
+| trap_435_trsrhuntr | 寻宝人 | - | - |
+| trap_437_poachr | 老练猎手 | - | - |
+| trap_438_xbfato2 | 采集专员站 | - | - |
+| trap_439_xbfato3 | 采集主任站 | - | - |
 | trap_700_cdabyss | 阿戈尔示波器 | - | - |
 | trap_701_cdabyssa | 阿戈尔示波器 | - | - |
 | trap_702_cdabyssb | 阿戈尔示波器 | - | - |
@@ -641,6 +678,7 @@
 | char_479_sleach@epoque#14 | 识芳 | Appreciate Fragrance | 満開 |
 | char_484_robrta@summer#10 | 夏卉 FA374 | Summer Flowers FA374 | 夏の花弁FA374 |
 | char_485_pallas@epoque#12 | 传承 | Heritage | 伝承 |
+| char_485_pallas@epoque#19 | 山川的酿造 | - | - |
 | char_486_takila@ambienceSynesthesia#2 | 开牌制胜 | Cardwinner | ショーダウン |
 | char_492_quercu@epoque#17 | 遥乡之径 | - | - |
 | char_496_wildmn@epoque#16 | 正义缔造者 | - | - |
@@ -1353,6 +1391,27 @@
 | enemy_6010_boxing | “年轻人”桑德尔 | - | - |
 | enemy_6011_planty | “自然的妥协” | - | - |
 | enemy_6012_plants | 小型共生体 | - | - |
+| enemy_7001_blwzad | 部族巫术师 | - | - |
+| enemy_7001_blwzad_2 | 王酋巫术师 | - | - |
+| enemy_7002_veingd | 矿脉守卫 | - | - |
+| enemy_7002_veingd_2 | 狂化矿脉守卫 | - | - |
+| enemy_7003_catapt | “都可以砸” | - | - |
+| enemy_7003_catapt_2 | “都应该砸” | - | - |
+| enemy_7004_xbdeer | 小角跳兽 | - | - |
+| enemy_7004_xbdeer_2 | 大角跳兽 | - | - |
+| enemy_7005_xbbull | 苔生兽 | - | - |
+| enemy_7005_xbbull_2 | 茂密苔生兽 | - | - |
+| enemy_7006_xbcrab | 岩壳蟹 | - | - |
+| enemy_7006_xbcrab_2 | 结晶岩壳蟹 | - | - |
+| enemy_7007_xbbird | 落沙晶蹄兽 | - | - |
+| enemy_7008_wrkwrk | 采集实习生 | - | - |
+| enemy_7009_mtmoun | “不朽之人” | - | - |
+| enemy_7010_bldrgn | 巨翼兽 | - | - |
+| enemy_7011_paki | 萨尔贡契约刺客 | - | - |
+| enemy_7012_wilder | 无阻冲锋官 | - | - |
+| enemy_7013_slwazd | “召毁者” | - | - |
+| enemy_7014_dva | “搭档” | - | - |
+| enemy_7015_xbcrab2 | “钳钳生风” | - | - |
 | 0D5act | 限时任务 | Limited-time Mission | 期間限定任務 |
 | 1stact | 赏金猎人金币 | Bounty Coin | ラッキーコイン |
 | act10d5 | 乌萨斯的孩子们 | Children of Ursus | ウルサスの子供たち |
@@ -1415,6 +1474,7 @@
 | act1d5 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act1float | 纽莱堡市产业合作洽谈会 | - | - |
 | act1lock | 荷谟伊智境 | Hymnoi Wisdom | ヒュムノイの叡智 |
+| act1sandbox | 生息演算：沙中之火 | - | - |
 | act20side | 理想城：长夏狂欢季 | Ideal City: Carnival in the Endless Summer | 理想都市-エンドレスカーニバル- |
 | act20sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act21side | 叙拉古人 | - | - |
@@ -1722,6 +1782,7 @@
 | act1bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
 | act1d0_token_gold_rep_1 | 赏金猎人金币 | Bounty Coin | ラッキーコイン |
 | act1lock_point_reward | 赛事奖章 | Competition Medals | 競技メダル |
+| act1sandbox_milestone_point | 繁荣证章 | - | - |
 | act20side_token_book | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
 | act21side_token_permesso | 进货通行证 | - | - |
 | act22side_token_manuscript | 手抄歌谣集 | - | - |
@@ -2946,6 +3007,7 @@
 | sktok_blkngt_hypnos_s_2 | 食梦 | Dream Eater | 夢喰い |
 | sktok_blower | 气流 | Airflow | 源石気流 |
 | sktok_bomb | 坏脾气 | Ill Temper | 大癇癪 |
+| sktok_bondtw | 发射缚网 | - | - |
 | sktok_bouncy_1 | 圣徒之手 | Hand of the Saint | 聖徒の御手 |
 | sktok_bouncy_2 | 圣徒之手·清理模式 | Hand of the Saint - Purification | 聖徒の御手・清掃モード |
 | sktok_bouncy_3 | 圣徒之手·巡回模式 | Hand of the Saint - Patrol | 聖徒の御手・巡回モード |
@@ -2992,6 +3054,7 @@
 | sktok_electric | 通电！ | Energized! | 通電！ |
 | sktok_emp | EMP爆炸 | EMP Blast | 電磁パルス |
 | sktok_emperor | Punchline | Punchline | Punchline |
+| sktok_enhancer | 释放秘药 | - | - |
 | sktok_factory_1 | 生产线 | Production Line | 生産ライン |
 | sktok_factory_2 | 生产线 | Production Line | 生産ライン |
 | sktok_farm | 启动！ | Startup! | アクティベート！ |
@@ -3003,11 +3066,16 @@
 | sktok_garage_1 | 自走车出击！ | Self-Driving Cart, Forward! | セルカー発進！ |
 | sktok_garage_2 | 自走车出击！ | Self-Driving Cart, Forward! | セルカー発進！ |
 | sktok_gate | 关闭闸门 | Gate Closing | シャッター |
+| sktok_gtreasure | 可被击破 | - | - |
 | sktok_gunctrl | 开火 | Open Fire | 発射 |
+| sktok_hiddenstone | 可被击破 | - | - |
 | sktok_inverter | 撼动现实 | Warping Reality | 事象震動 |
 | sktok_ironmn_pile1 | 极致火力 | - | - |
 | sktok_ironmn_pile2 | 高效补给 | - | - |
 | sktok_ironmn_pile3 | 铁钳号·原型机 | - | - |
+| sktok_klmantc_1 | 触发对话 | - | - |
+| sktok_klmantc_2 | 触发对话 | - | - |
+| sktok_klmantc_3 | 触发对话 | - | - |
 | sktok_larva | 汲营枯枝 | - | - |
 | sktok_ling_soul1 | 重进酒 | Sips of Wine | 重ねて酒を進み |
 | sktok_ling_soul2 | 笑鸣瑟 | Amidst Pleasant Melodies | 笑いて瑟を鼓せ |
@@ -3026,6 +3094,7 @@
 | sktok_neonlamp | 文明的光芒 | The Light of Civilization | 「文明の灯火」 |
 | sktok_normbox | 诱人珍宝 | - | - |
 | sktok_npcsld | 列阵！ | Form Up! | 構え！ |
+| sktok_oldisin_1 | 触发对话 | - | - |
 | sktok_ore | 脉冲波 | Pulse Wave | 源石衝撃波 |
 | sktok_ore_friend | 脉冲波 | Pulse Wave | 源石衝撃波 |
 | sktok_oxygen | 防水蚀镀膜装置 | Erosion-Resistant Coating Application Device | 耐水蝕コーティング装置 |
@@ -3034,13 +3103,17 @@
 | sktok_phatom_1 | 暗夜魅影 | Phantom of the Night | 闇夜の影法師 |
 | sktok_phatom_2 | 血色乐章 | Bloody Opus | 血染めの楽章 |
 | sktok_phatom_3 | 夜幕突袭 | Night Raid | 襲来の悪夢 |
+| sktok_poachr | 盗猎食材 | - | - |
 | sktok_poison_1 | 关闭阀门 | Close Valve | 放出停止 |
 | sktok_poison_2 | 开启阀门 | Open Valve | ガス放出 |
 | sktok_prison | 启动禁锢！ | Lock 'em Up! | 禁固機能起動！ |
+| sktok_pushtw | 气体爆喷 | - | - |
 | sktok_rarebox | 更诱人珍宝 | - | - |
 | sktok_recodr_1 | 实体程式 | Entitative Program | 実体プログラム |
 | sktok_recodr_2 | 实体程式 | Entitative Program | 実体プログラム |
 | sktok_recyclecard | 蓄锐 | Withdraw | 温存 |
+| sktok_redtower | 敌方人员运送 | - | - |
+| sktok_repairman | 修理 | - | - |
 | sktok_revivecard | 回召 | Recall | 召還 |
 | sktok_rfrost_1 | 陷阱部署 | Trap Deployment | トラップセット |
 | sktok_rfrost_2 | 击倒猎物 | Incapacitated Prey | リーサルパシュート |
@@ -3052,15 +3125,20 @@
 | sktok_robrta | 全自动造型仪 | Full Auto Modeler | メイクアップマシン |
 | sktok_rosmon | 战术装备召唤 | Call Tactical Equipment | 戦術装備配置 |
 | sktok_salecard | 临调 | Retreat | 撤去 |
+| sktok_sandsdr_1 | 触发对话 | - | - |
+| sktok_sandsdr_2 | 触发对话 | - | - |
 | sktok_sbomb | 起爆 | Detonate | 起爆 |
 | sktok_sensor | 反隐 | Detection | アンチステルス |
+| sktok_shielder | 护盾提供 | - | - |
 | sktok_skadi2_1 | 共鸣 | Resonance | 共鳴 |
 | sktok_skadi2_2 | 共鸣 | Resonance | 共鳴 |
 | sktok_skadi2_3 | 共鸣 | Resonance | 共鳴 |
 | sktok_sleep | 救援绳索 | Rescue Rope | 救援ロープ |
 | sktok_slowfd | 高压喷射 | High-Pressure Spray | 高圧ガス |
+| sktok_smokebomb | 释放迷香 | - | - |
 | sktok_stone | 阻挡路线 | Obstruct | 進路妨害 |
 | sktok_storm | 沙尘暴 | Sandstorm | 砂嵐 |
+| sktok_streasure | 宝刺伤人 | - | - |
 | sktok_supplycard | 新遣 | Dispatch | 派遣 |
 | sktok_tbattbc | 钳兽壳粉 | - | - |
 | sktok_tbpsnc | 高效泡打粉 | - | - |
@@ -3070,19 +3148,42 @@
 | sktok_tidectrl_3 | 深水 | Deep Water | 「深水区域」 |
 | sktok_tileblock | 不可部署 | Deployment Forbidden | 配置不可 |
 | sktok_tower | 法术传输协议 | Arts Transfer Protocol | アーツ転送プロトコル |
+| sktok_trademan_1 | 触发对话 | - | - |
 | sktok_tree | 天然隐蔽 | Natural Camouflage | きのこガード |
+| sktok_trsrhuntr_1 | 触发对话 | - | - |
 | sktok_turngear | 自走车定向！ | Self-Driving Cart, This Way! | 方向転換！ |
+| sktok_umbrella | 协助隐藏 | - | - |
+| sktok_vegetation | 可供开采 | - | - |
 | sktok_vgctrl | 复仇黑手 | - | - |
 | sktok_vigil_wolf_1 | 狼群 | - | - |
 | sktok_vigil_wolf_2 | 狼群 | - | - |
 | sktok_vigil_wolf_3 | 狼群 | - | - |
 | sktok_vodfox_token | 诅咒娃娃 | Cursed Doll | 呪いの人形 |
 | sktok_vultres | 诱人珍宝 | Alluring Treasures | 財宝のいざない |
+| sktok_wdescp | 建立通讯 | - | - |
 | sktok_weedy_token | 液氮大炮 | Liquid Nitrogen Cannon | LN2キャノン |
+| sktok_wfactory | 抽水 | - | - |
 | sktok_windft_wrench_1 | 可靠电池 | Reliable Battery | 高信頼性バッテリー |
 | sktok_windft_wrench_2 | 可靠电池 | Reliable Battery | 高信頼性バッテリー |
 | sktok_wpnsts_1 | 拉特兰式冰淇淋 | Laterano-Style Gelato | ジェラート供給 |
 | sktok_wpnsts_2 | 拉特兰式冰淇淋 | Laterano-Style Gelato | ジェラート供給 |
+| sktok_xbbase | 能源设备 | - | - |
+| sktok_xbescp | 建立通讯 | - | - |
+| sktok_xbfarm | 稻谷种植 | - | - |
+| sktok_xbfato | 采集 | - | - |
+| sktok_xbfato2 | 采集 | - | - |
+| sktok_xbfato3 | 采集 | - | - |
+| sktok_xbfortress | 搭建高台 | - | - |
+| sktok_xbgldn | 冶铸 | - | - |
+| sktok_xbiron | 可供开采 | - | - |
+| sktok_xblrsh | 人员状态改善 | - | - |
+| sktok_xbmrcl | 演算 | - | - |
+| sktok_xboverwatch | 监控 | - | - |
+| sktok_xbprsh | 资源规划 | - | - |
+| sktok_xbroadblock | 阻断道路 | - | - |
+| sktok_xbstone | 可供开采 | - | - |
+| sktok_xbwall | 防御支撑 | - | - |
+| sktok_xbwood | 可供开采 | - | - |
 | a001_01 | 日正当中 | High Noon | 真昼の太陽 |
 | a001_02 | 察言观色 | Sophistication | 八方美人 |
 | a001_03 | 意外之旅 | An Unexpected Journey | 思わぬ旅 |

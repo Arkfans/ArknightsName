@@ -1,4 +1,4 @@
-#Item
+# Item
 
 | id | 中文 | 英文 | 日文 |
 | --- | --- | --- | --- |
@@ -208,6 +208,7 @@
 | act1bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
 | act1d0_token_gold_rep_1 | 赏金猎人金币 | Bounty Coin | ラッキーコイン |
 | act1lock_point_reward | 赛事奖章 | Competition Medals | 競技メダル |
+| act1sandbox_milestone_point | 繁荣证章 | - | - |
 | act20side_token_book | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
 | act21side_token_permesso | 进货通行证 | - | - |
 | act22side_token_manuscript | 手抄歌谣集 | - | - |

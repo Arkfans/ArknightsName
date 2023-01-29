@@ -1,4 +1,4 @@
-#Trap
+# Trap
 
 | id | 中文 | 英文 | 日文 |
 | --- | --- | --- | --- |
@@ -98,6 +98,43 @@
 | trap_098_mire | 沼泽控制 | - | - |
 | trap_103_ymdgct | 地形增伤控制 | - | - |
 | trap_104_dplant | 改性植物激素 | - | - |
+| trap_400_xbfarm | 便携式种植槽 | - | - |
+| trap_401_xbfato | 采集实习站 | - | - |
+| trap_403_wfactory | 蟹蟹抽水泵 | - | - |
+| trap_404_xbfortress | 坚固筑台 | - | - |
+| trap_405_xbroadblock | 都市风壁障 | - | - |
+| trap_406_xboverwatch | 监控塔 | - | - |
+| trap_408_xbbase | 基地 | - | - |
+| trap_409_xbwood | 杂木林 | - | - |
+| trap_410_xbstone | 巨大岩石 | - | - |
+| trap_411_xbiron | 奇异矿脉 | - | - |
+| trap_412_redtower | 移动战塔 | - | - |
+| trap_413_hiddenstone | 遗迹残骸 | - | - |
+| trap_414_vegetation | 灌木丛 | - | - |
+| trap_415_trademan | 联络员 | - | - |
+| trap_416_gtreasure | 埋没金属箱 | - | - |
+| trap_417_shielder | 护盾遥控器 | - | - |
+| trap_418_smokebomb | 安眠迷香 | - | - |
+| trap_419_enhancer | 醒神秘药 | - | - |
+| trap_420_umbrella | 反侦察藏匿机 | - | - |
+| trap_421_repairman | 应急修理车 | - | - |
+| trap_422_streasure | 宝刺金属箱 | - | - |
+| trap_423_bondtw | 缚网发射台 | - | - |
+| trap_424_pushtw | 喷拒器 | - | - |
+| trap_425_xbwall | 防御工事 | - | - |
+| trap_426_xbmrcl | 模块演算设施 | - | - |
+| trap_427_xbprsh | 资源规划站 | - | - |
+| trap_428_xblrsh | 备勤激活站 | - | - |
+| trap_429_xbescp | 跨地块通讯站 | - | - |
+| trap_430_wdescp | 逃脱点 | - | - |
+| trap_431_xbgldn | 冶铸台 | - | - |
+| trap_432_oldisin | 老伊辛 | - | - |
+| trap_433_sandsdr | “沙卒” | - | - |
+| trap_434_klmantc | 曼提柯杀手 | - | - |
+| trap_435_trsrhuntr | 寻宝人 | - | - |
+| trap_437_poachr | 老练猎手 | - | - |
+| trap_438_xbfato2 | 采集专员站 | - | - |
+| trap_439_xbfato3 | 采集主任站 | - | - |
 | trap_700_cdabyss | 阿戈尔示波器 | - | - |
 | trap_701_cdabyssa | 阿戈尔示波器 | - | - |
 | trap_702_cdabyssb | 阿戈尔示波器 | - | - |

@@ -1,4 +1,4 @@
-#Enemy
+# Enemy
 
 | id | 中文 | 英文 | 日文 |
 | --- | --- | --- | --- |
@@ -690,3 +690,24 @@
 | enemy_6010_boxing | “年轻人”桑德尔 | - | - |
 | enemy_6011_planty | “自然的妥协” | - | - |
 | enemy_6012_plants | 小型共生体 | - | - |
+| enemy_7001_blwzad | 部族巫术师 | - | - |
+| enemy_7001_blwzad_2 | 王酋巫术师 | - | - |
+| enemy_7002_veingd | 矿脉守卫 | - | - |
+| enemy_7002_veingd_2 | 狂化矿脉守卫 | - | - |
+| enemy_7003_catapt | “都可以砸” | - | - |
+| enemy_7003_catapt_2 | “都应该砸” | - | - |
+| enemy_7004_xbdeer | 小角跳兽 | - | - |
+| enemy_7004_xbdeer_2 | 大角跳兽 | - | - |
+| enemy_7005_xbbull | 苔生兽 | - | - |
+| enemy_7005_xbbull_2 | 茂密苔生兽 | - | - |
+| enemy_7006_xbcrab | 岩壳蟹 | - | - |
+| enemy_7006_xbcrab_2 | 结晶岩壳蟹 | - | - |
+| enemy_7007_xbbird | 落沙晶蹄兽 | - | - |
+| enemy_7008_wrkwrk | 采集实习生 | - | - |
+| enemy_7009_mtmoun | “不朽之人” | - | - |
+| enemy_7010_bldrgn | 巨翼兽 | - | - |
+| enemy_7011_paki | 萨尔贡契约刺客 | - | - |
+| enemy_7012_wilder | 无阻冲锋官 | - | - |
+| enemy_7013_slwazd | “召毁者” | - | - |
+| enemy_7014_dva | “搭档” | - | - |
+| enemy_7015_xbcrab2 | “钳钳生风” | - | - |
