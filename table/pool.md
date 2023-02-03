@@ -105,6 +105,7 @@
 | _NORM_17_1_1 | - | Roaring Cliffrunner | 断崖咆号 |
 | _NORM_17_4_1 | - | Joint Operation | 連合作戦 |
 | _NORM_18_1_1 | - | Dissonanzen | 不協和音程 |
+| _NORM_19_2_1 | - | - | 連合作戦 |
 | _NORM_1_0_1 | - | Behold the Sword of Tide | 潮汐断ちし剣 |
 | _NORM_2_0_1 | - | Chi Xiao, the Hidden Dragon | 赤龍乗雲 |
 | _NORM_2_0_3 | - | Lungmen Spec Ops Headhunting | 龍門特別行動要員 |

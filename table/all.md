@@ -627,7 +627,7 @@
 | char_350_surtr@it#1 | 自由//失效 | Liberté//Échec | 自由//失效 |
 | char_350_surtr@summer#9 | 缤纷奇境 CW03 | Colorful Wonderland CW03 | 極彩の楽園CW03 |
 | char_355_ethan@epoque#7 | 渗透 | Infiltrator | 同化 |
-| char_356_broca@marthe#4 | 组间休息 | - | - |
+| char_356_broca@marthe#4 | 组间休息 | - | インターバル |
 | char_358_lisa@lxh#1 | 春之颂 | - | - |
 | char_358_lisa@wild#3 | 弃土花开 | Lostlands Flowering | 荒地に咲く花 |
 | char_365_aprl@wild#3 | 远望 | Faraway Gaze | 遠望 |
@@ -1730,7 +1730,7 @@
 | act11d0_token_currency | 老旧贵族领铸币 | Aristocrat's Antique Aureus | 貴族領の古き鋳貨 |
 | act11d0_token_currency_rep_1 | 老旧贵族领铸币 | Aristocrat's Antique Aureus | 貴族領の古き鋳貨 |
 | act11d0_token_warrant | 沃伦姆德搜查令 | Wolumonde Search Warrant | 捜査令状 |
-| act11mini_token_card | 借阅证 | - | - |
+| act11mini_token_card | 借阅证 | - | 閲覧証 |
 | act12d0_token_components | 机械零件 | Mechanical Parts | 機械のパーツ |
 | act12d0_token_components_rep_1 | 机械零件 | Mechanical Parts | 機械のパーツ |
 | act12d6_token_mushroom | 好看的蘑菇 | Magnificent Mushroom | きれいな茸 |
@@ -2157,7 +2157,7 @@
 | randomDiamondShd_2 | 庆典礼盒 | Celebratory Box | 感謝祭ギフトボックス |
 | randomMaterialRune_0 | 荒芜行动物资补给 | Operation Barrenland Supplies | 補給物資・「荒廃」 |
 | randomMaterialRune_1 | 黄铁行动物资补给 | Operation Pyrite Supplies | 補給物資・「黄鉄」 |
-| randomMaterialRune_10 | 尘环行动物资补给 | - | - |
+| randomMaterialRune_10 | 尘环行动物资补给 | - | 補給物資・「塵環」 |
 | randomMaterialRune_11 | 赝波行动物资补给 | - | - |
 | randomMaterialRune_2 | 利刃行动物资补给 | Operation Blade Supplies | 補給物資・「利刃」 |
 | randomMaterialRune_3 | 燃灰行动物资补给 | Operation Cinder Supplies | 補給物資・「灰燼」 |
@@ -2268,7 +2268,7 @@
 | voucher_full_folnic | 亚叶的私人信件 | Folinic's Personal Letter | フォリニックの手紙 |
 | voucher_full_grani | 格拉尼的私人信件 | Grani's Personal Letter | グラニの手紙 |
 | voucher_full_lava2 | 炎狱炎熔的私人信件 | - | - |
-| voucher_full_mint | 薄绿的私人信件 | - | - |
+| voucher_full_mint | 薄绿的私人信件 | - | ミントの手紙 |
 | voucher_full_robin | 罗宾的私人信件 | - | - |
 | voucher_full_sidero | 铸铁的私人信件 | Sideroca's Personal Letter | シデロカの手紙 |
 | voucher_full_snsant | 雪雉的私人信件 | Snowsant's Personal Letter | スノーズントの手紙 |
@@ -2421,6 +2421,7 @@
 | _NORM_17_1_1 | - | Roaring Cliffrunner | 断崖咆号 |
 | _NORM_17_4_1 | - | Joint Operation | 連合作戦 |
 | _NORM_18_1_1 | - | Dissonanzen | 不協和音程 |
+| _NORM_19_2_1 | - | - | 連合作戦 |
 | _NORM_1_0_1 | - | Behold the Sword of Tide | 潮汐断ちし剣 |
 | _NORM_2_0_1 | - | Chi Xiao, the Hidden Dragon | 赤龍乗雲 |
 | _NORM_2_0_3 | - | Lungmen Spec Ops Headhunting | 龍門特別行動要員 |
