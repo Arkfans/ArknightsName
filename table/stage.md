@@ -482,8 +482,6 @@
 | camp_r_12 | 巧克力大街 | - | - |
 | camp_r_13 | 昏黑造船厂 | - | - |
 | camp_r_14 | 实验基地机库 | - | - |
-| guide_01 | None | None | None |
-| guide_02 | None | None | None |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |
 | hard_05-02 | 炼狱行动-2 | Operation Inferno-2 | 煉獄作戦-2 |
 | hard_05-03 | 炼狱行动-3 | Operation Inferno-3 | 煉獄作戦-3 |
