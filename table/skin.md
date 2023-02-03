@@ -166,7 +166,7 @@
 | char_350_surtr@it#1 | 自由//失效 | Liberté//Échec | 自由//失效 |
 | char_350_surtr@summer#9 | 缤纷奇境 CW03 | Colorful Wonderland CW03 | 極彩の楽園CW03 |
 | char_355_ethan@epoque#7 | 渗透 | Infiltrator | 同化 |
-| char_356_broca@marthe#4 | 组间休息 | - | インターバル |
+| char_356_broca@marthe#4 | 组间休息 | Rest Between Sets | インターバル |
 | char_358_lisa@lxh#1 | 春之颂 | - | - |
 | char_358_lisa@wild#3 | 弃土花开 | Lostlands Flowering | 荒地に咲く花 |
 | char_365_aprl@wild#3 | 远望 | Faraway Gaze | 遠望 |
