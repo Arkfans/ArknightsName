@@ -1,5 +1,8 @@
 # All
 
+tip: 请善用浏览器的搜索功能
+
+
 | id | 中文 | 英文 | 日文 |
 | --- | --- | --- | --- |
 | char_002_amiya | 阿米娅 | Amiya | アーミヤ |
@@ -225,6 +228,8 @@
 | char_4072_ironmn | 白铁 | - | - |
 | char_4078_bdhkgt | 截云 | - | - |
 | char_4080_lin | 林 | - | - |
+| char_4082_qiubai | 仇白 | - | - |
+| char_4083_chimes | 铎铃 | - | - |
 | char_411_tomimi | 特米米 | Tomimi | トミミ |
 | char_415_flint | 燧石 | Flint | フリント |
 | char_416_zumama | 森蚺 | Eunectes | ユーネクテス |
@@ -484,6 +489,7 @@
 | char_108_silent@sweep#1 | 漆匠 | Lacquer | 漆匠 |
 | char_108_silent@winter#2 | 霜息 | Frosted Breath | 白い息 |
 | char_109_fmout@epoque#2 | 未知的旅行 | Unknown Journey | 未知なる旅 |
+| char_110_deepcl@winter#3 | 绘声绘影 | - | - |
 | char_112_siege@striker#2 | 摧城 | City Destroyer | 破城 |
 | char_112_siege@wild#2 | 遗石 | Legacy | 永き石 |
 | char_113_cqbw@epoque#7 | 恍惚 | Fugue | うわの空 |
@@ -531,6 +537,7 @@
 | char_180_amgoat@summer#5 | 夏卉 FA018 | Summer Flower FA018 | 夏の花弁FA018 |
 | char_181_flower@daily#1 | 植物种志 | Species Plantarum | 植物紀年 |
 | char_181_flower@epoque#9 | 闲适午后 | Leisurely Afternoon | うららか |
+| char_185_frncat@wild#7 | 营地炊烟 | - | - |
 | char_187_ccheal@epoque#2 | 战医 | Combat Medic | 戦医 |
 | char_188_helage@boc#2 | 歧路幻影 | Octopath Illusion | 岐路幻影 |
 | char_193_frostl@boc#4 | 破冰 | Breaking the Ice | 砕氷 |
@@ -558,6 +565,7 @@
 | char_212_ansel@summer#1 | 悠然假日 HDm06 | Casual Vacation HDm06 | ホリデーHDm06 |
 | char_213_mostma@epoque#5 | 除魅 | Spellbreaker | 魑魅払い |
 | char_214_kafka@snow#3 | 纸板仙子 | Cardboard Fairy | 紙細工の妖精 |
+| char_215_mantic@epoque#19 | 面纱之下 | - | - |
 | char_215_mantic@epoque#4 | 无形悼挽 | Invisible Dirge | 無形の深悼 |
 | char_218_cuttle@epoque#12 | 暗矢 | Silent Arrow | 暗矢 |
 | char_219_meteo@sweep#1 | 石墨 | Graphite | 石墨 |
@@ -646,8 +654,10 @@
 | char_401_elysm@snow#2 | 雪夜回音 | Snowy Echo | 雪夜の思い出 |
 | char_401_elysm@summer#9 | 灿阳朝露 SDm11 | Shimmering Dew SDm11 | 炎陽煌く露SDm11 |
 | char_402_tuye@epoque#14 | 培翠 | Cultivate Vegetation | 緑化 |
+| char_4032_provs@wild#7 | 秋高气爽 | - | - |
 | char_4040_rockr@lxh#1 | 欢唱之前 | - | - |
 | char_4043_erato@snow#5 | 未讲述的故事 | - | - |
+| char_4055_bgsnow@wild#7 | 字句中的雪原 | - | - |
 | char_411_tomimi@summer#5 | 静谧午夜 DN04 | Silent Night DN04 | 安息の午夜DN04 |
 | char_415_flint@boc#3 | 绚烂夏花 | Gorgeous Flower | 紫藤繚乱 |
 | char_416_zumama@boc#3 | 熔锻铸匠 | Forgemaster | 熔冶工匠 |
@@ -1442,6 +1452,7 @@
 | act14d0d1 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act14d0d2 | 登录领取奖励 | Sign-in Campaign | ログイン報酬 |
 | act14d7 | 喧闹法则·复刻 | Code of Brawl - Rerun | 喧騒の掟・復刻 |
+| act14mini | 春分 | - | - |
 | act14side | 风雪过境 | Break the Ice | 風雪一過 |
 | act14sre | 风雪过境·复刻 | - | - |
 | act15d0 | 孤岛风云 | Mansfield Break | 孤島激震 |
@@ -1755,6 +1766,7 @@
 | act13side_token_key | 卷宗管理员的钥匙 | File Manager's Key | 機密ファイル管理人の鍵 |
 | act13side_token_model | 骑士领纪念模型 | G.K.T. Commemorative Model | 騎士領記念モデル |
 | act13side_token_model_rep_1 | 骑士领纪念模型 | - | - |
+| act14mini_token_fu | 平安符 | - | - |
 | act14side_token_stone | 耶拉冈德之石 | Stone of Kjeragandr | イェラガンドの護石 |
 | act14side_token_stone_rep_1 | 耶拉冈德之石 | - | - |
 | act15d0_token_ironSheet | 工厂铁片 | Factory Steel | 工場の鉄片 |
@@ -2110,6 +2122,8 @@
 | p_char_4072_ironmn | 白铁的信物 | - | - |
 | p_char_4078_bdhkgt | 截云的信物 | - | - |
 | p_char_4080_lin | 林的信物 | - | - |
+| p_char_4082_qiubai | 仇白的信物 | - | - |
+| p_char_4083_chimes | 铎铃的信物 | - | - |
 | p_char_411_tomimi | 特米米的信物 | Tomimi's Token | トミミの印 |
 | p_char_415_flint | 燧石的信物 | Flint's Token | フリントの印 |
 | p_char_416_zumama | 森蚺的信物 | Eunectes' Token | ユーネクテスの印 |
@@ -2378,6 +2392,7 @@
 | NORM_32_0_3 | 轴承与火星 | - | - |
 | NORM_33_0_5 | 雪融之诺 | - | - |
 | NORM_34_0_1 | 枯焰生花 | - | - |
+| NORM_35_0_4 | 春江逢雪 | - | - |
 | NORM_3_0_1 | 深夏的守夜人 | - | - |
 | NORM_3_0_3 | 久铸尘铁 | - | - |
 | NORM_3_0_5 | 火舞之人 | - | - |
@@ -2553,6 +2568,7 @@
 | skchr_chen_2 | 赤霄·拔刀 | Chi Xiao - Unsheath | 赤霄・抜刀 |
 | skchr_chen_3 | 赤霄·绝影 | Chi Xiao - Shadowless | 赤霄・絶影 |
 | skchr_chiave_2 | 火焰剥离 | Blazing Wire Stripper | 火炎剥離 |
+| skchr_chimes_2 | 乡心无改 | - | - |
 | skchr_chnut_1 | 积微成著 | Little by Little | 積土成山 |
 | skchr_chnut_2 | 厚土迸发 | Rising Earth | 厚土の脈動 |
 | skchr_chyue_1 | 冲盈 | - | - |
@@ -2827,6 +2843,9 @@
 | skchr_puzzle_2 | 疑点追踪 | - | - |
 | skchr_qanik_1 | 冻风 | - | - |
 | skchr_qanik_2 | 坠雪 | - | - |
+| skchr_qiubai_1 | 留羽 | - | - |
+| skchr_qiubai_2 | 承影 | - | - |
+| skchr_qiubai_3 | 问雪 | - | - |
 | skchr_quartz_2 | 全力相搏 | - | - |
 | skchr_quercu_1 | 大地的慈悲 | Earth's Benevolence | 大地の慈悲 |
 | skchr_quercu_2 | 生灵的回响 | Echo of Life | 生命の木霊 |
@@ -3340,6 +3359,16 @@
 | act13side_st04 | 未知与未来 | Uncharted and Hereafter | 未知と未来 |
 | act13side_tr01 | 城市之光 | City Lights | 都市の光 |
 | act13side_tr02 | 骑士流氓 | Rogue Knights | ならず者 |
+| act14mini_01 | 未竟长路 | - | - |
+| act14mini_02 | 奔突难止 | - | - |
+| act14mini_03 | 水涨池深 | - | - |
+| act14mini_04 | 无从逃逸 | - | - |
+| act14mini_05 | 且停且行 | - | - |
+| act14mini_06 | 枯生 | - | - |
+| act14mini_07 | 冻土坚石 | - | - |
+| act14mini_08 | 硝烟四起 | - | - |
+| act14mini_s01 | 水悠悠 | - | - |
+| act14mini_s02 | 路迢迢 | - | - |
 | act14side_01 | 不欢而聚 | Starting on a Sour Note | 三家会議 |
 | act14side_02 | 息事宁人 | Smoothing Things Over | 鎮静化 |
 | act14side_03 | 人心难测 | Inscrutable | 測り難きは人心 |
@@ -4073,6 +4102,7 @@
 | act13sre_zone3 | 城市霓虹 | - | - |
 | act14d7_zone1 | 下城区 | Downtown  | 繁華街 |
 | act14d7_zone2 | 东部郊区 | Eastern Suburbs | 東部郊外 |
+| act14mini_zone1 | 仗剑何为 | - | - |
 | act14side_zone1 | 雪山大典 | The Grand Ceremony | 雪境大典 |
 | act14side_zone2 | 圣猎 | Holy Hunt | 狩猟の儀 |
 | act14sre_zone1 | 雪山大典 | - | - |

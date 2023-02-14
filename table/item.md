@@ -1,5 +1,8 @@
 # Item
 
+tip: 请善用浏览器的搜索功能
+
+
 | id | 中文 | 英文 | 日文 |
 | --- | --- | --- | --- |
 | 1stact | 赏金猎人金币 | Bounty Coin | ラッキーコイン |
@@ -181,6 +184,7 @@
 | act13side_token_key | 卷宗管理员的钥匙 | File Manager's Key | 機密ファイル管理人の鍵 |
 | act13side_token_model | 骑士领纪念模型 | G.K.T. Commemorative Model | 騎士領記念モデル |
 | act13side_token_model_rep_1 | 骑士领纪念模型 | - | - |
+| act14mini_token_fu | 平安符 | - | - |
 | act14side_token_stone | 耶拉冈德之石 | Stone of Kjeragandr | イェラガンドの護石 |
 | act14side_token_stone_rep_1 | 耶拉冈德之石 | - | - |
 | act15d0_token_ironSheet | 工厂铁片 | Factory Steel | 工場の鉄片 |
@@ -536,6 +540,8 @@
 | p_char_4072_ironmn | 白铁的信物 | - | - |
 | p_char_4078_bdhkgt | 截云的信物 | - | - |
 | p_char_4080_lin | 林的信物 | - | - |
+| p_char_4082_qiubai | 仇白的信物 | - | - |
+| p_char_4083_chimes | 铎铃的信物 | - | - |
 | p_char_411_tomimi | 特米米的信物 | Tomimi's Token | トミミの印 |
 | p_char_415_flint | 燧石的信物 | Flint's Token | フリントの印 |
 | p_char_416_zumama | 森蚺的信物 | Eunectes' Token | ユーネクテスの印 |

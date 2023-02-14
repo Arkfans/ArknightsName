@@ -1,5 +1,8 @@
 # Activity
 
+tip: 请善用浏览器的搜索功能
+
+
 | id | 中文 | 英文 | 日文 |
 | --- | --- | --- | --- |
 | 0D5act | 限时任务 | Limited-time Mission | 期間限定任務 |
@@ -32,6 +35,7 @@
 | act14d0d1 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act14d0d2 | 登录领取奖励 | Sign-in Campaign | ログイン報酬 |
 | act14d7 | 喧闹法则·复刻 | Code of Brawl - Rerun | 喧騒の掟・復刻 |
+| act14mini | 春分 | - | - |
 | act14side | 风雪过境 | Break the Ice | 風雪一過 |
 | act14sre | 风雪过境·复刻 | - | - |
 | act15d0 | 孤岛风云 | Mansfield Break | 孤島激震 |

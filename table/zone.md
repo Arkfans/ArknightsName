@@ -1,5 +1,8 @@
 # Zone
 
+tip: 请善用浏览器的搜索功能
+
+
 | id | 中文 | 英文 | 日文 |
 | --- | --- | --- | --- |
 | A001_zone1 | 滴水村周边 | Dewville Outskirts | 滴水村周辺 |
@@ -43,6 +46,7 @@
 | act13sre_zone3 | 城市霓虹 | - | - |
 | act14d7_zone1 | 下城区 | Downtown  | 繁華街 |
 | act14d7_zone2 | 东部郊区 | Eastern Suburbs | 東部郊外 |
+| act14mini_zone1 | 仗剑何为 | - | - |
 | act14side_zone1 | 雪山大典 | The Grand Ceremony | 雪境大典 |
 | act14side_zone2 | 圣猎 | Holy Hunt | 狩猟の儀 |
 | act14sre_zone1 | 雪山大典 | - | - |

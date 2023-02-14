@@ -1,5 +1,8 @@
 # Skill
 
+tip: 请善用浏览器的搜索功能
+
+
 | id | 中文 | 英文 | 日文 |
 | --- | --- | --- | --- |
 | skchr_absin_1 | 执法模式 | Enforcement Mode | 執行態勢 |
@@ -103,6 +106,7 @@
 | skchr_chen_2 | 赤霄·拔刀 | Chi Xiao - Unsheath | 赤霄・抜刀 |
 | skchr_chen_3 | 赤霄·绝影 | Chi Xiao - Shadowless | 赤霄・絶影 |
 | skchr_chiave_2 | 火焰剥离 | Blazing Wire Stripper | 火炎剥離 |
+| skchr_chimes_2 | 乡心无改 | - | - |
 | skchr_chnut_1 | 积微成著 | Little by Little | 積土成山 |
 | skchr_chnut_2 | 厚土迸发 | Rising Earth | 厚土の脈動 |
 | skchr_chyue_1 | 冲盈 | - | - |
@@ -377,6 +381,9 @@
 | skchr_puzzle_2 | 疑点追踪 | - | - |
 | skchr_qanik_1 | 冻风 | - | - |
 | skchr_qanik_2 | 坠雪 | - | - |
+| skchr_qiubai_1 | 留羽 | - | - |
+| skchr_qiubai_2 | 承影 | - | - |
+| skchr_qiubai_3 | 问雪 | - | - |
 | skchr_quartz_2 | 全力相搏 | - | - |
 | skchr_quercu_1 | 大地的慈悲 | Earth's Benevolence | 大地の慈悲 |
 | skchr_quercu_2 | 生灵的回响 | Echo of Life | 生命の木霊 |

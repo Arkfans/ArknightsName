@@ -1,5 +1,8 @@
 # Operator
 
+tip: 请善用浏览器的搜索功能
+
+
 | id | 中文 | 英文 | 日文 |
 | --- | --- | --- | --- |
 | char_002_amiya | 阿米娅 | Amiya | アーミヤ |
@@ -225,6 +228,8 @@
 | char_4072_ironmn | 白铁 | - | - |
 | char_4078_bdhkgt | 截云 | - | - |
 | char_4080_lin | 林 | - | - |
+| char_4082_qiubai | 仇白 | - | - |
+| char_4083_chimes | 铎铃 | - | - |
 | char_411_tomimi | 特米米 | Tomimi | トミミ |
 | char_415_flint | 燧石 | Flint | フリント |
 | char_416_zumama | 森蚺 | Eunectes | ユーネクテス |

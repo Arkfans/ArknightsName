@@ -1,5 +1,8 @@
 # Skin
 
+tip: 请善用浏览器的搜索功能
+
+
 | id | 中文 | 英文 | 日文 |
 | --- | --- | --- | --- |
 | char_002_amiya@epoque#4 | 见习联结者 | Fresh Fastener | 見習い宅配人 |
@@ -23,6 +26,7 @@
 | char_108_silent@sweep#1 | 漆匠 | Lacquer | 漆匠 |
 | char_108_silent@winter#2 | 霜息 | Frosted Breath | 白い息 |
 | char_109_fmout@epoque#2 | 未知的旅行 | Unknown Journey | 未知なる旅 |
+| char_110_deepcl@winter#3 | 绘声绘影 | - | - |
 | char_112_siege@striker#2 | 摧城 | City Destroyer | 破城 |
 | char_112_siege@wild#2 | 遗石 | Legacy | 永き石 |
 | char_113_cqbw@epoque#7 | 恍惚 | Fugue | うわの空 |
@@ -70,6 +74,7 @@
 | char_180_amgoat@summer#5 | 夏卉 FA018 | Summer Flower FA018 | 夏の花弁FA018 |
 | char_181_flower@daily#1 | 植物种志 | Species Plantarum | 植物紀年 |
 | char_181_flower@epoque#9 | 闲适午后 | Leisurely Afternoon | うららか |
+| char_185_frncat@wild#7 | 营地炊烟 | - | - |
 | char_187_ccheal@epoque#2 | 战医 | Combat Medic | 戦医 |
 | char_188_helage@boc#2 | 歧路幻影 | Octopath Illusion | 岐路幻影 |
 | char_193_frostl@boc#4 | 破冰 | Breaking the Ice | 砕氷 |
@@ -97,6 +102,7 @@
 | char_212_ansel@summer#1 | 悠然假日 HDm06 | Casual Vacation HDm06 | ホリデーHDm06 |
 | char_213_mostma@epoque#5 | 除魅 | Spellbreaker | 魑魅払い |
 | char_214_kafka@snow#3 | 纸板仙子 | Cardboard Fairy | 紙細工の妖精 |
+| char_215_mantic@epoque#19 | 面纱之下 | - | - |
 | char_215_mantic@epoque#4 | 无形悼挽 | Invisible Dirge | 無形の深悼 |
 | char_218_cuttle@epoque#12 | 暗矢 | Silent Arrow | 暗矢 |
 | char_219_meteo@sweep#1 | 石墨 | Graphite | 石墨 |
@@ -185,8 +191,10 @@
 | char_401_elysm@snow#2 | 雪夜回音 | Snowy Echo | 雪夜の思い出 |
 | char_401_elysm@summer#9 | 灿阳朝露 SDm11 | Shimmering Dew SDm11 | 炎陽煌く露SDm11 |
 | char_402_tuye@epoque#14 | 培翠 | Cultivate Vegetation | 緑化 |
+| char_4032_provs@wild#7 | 秋高气爽 | - | - |
 | char_4040_rockr@lxh#1 | 欢唱之前 | - | - |
 | char_4043_erato@snow#5 | 未讲述的故事 | - | - |
+| char_4055_bgsnow@wild#7 | 字句中的雪原 | - | - |
 | char_411_tomimi@summer#5 | 静谧午夜 DN04 | Silent Night DN04 | 安息の午夜DN04 |
 | char_415_flint@boc#3 | 绚烂夏花 | Gorgeous Flower | 紫藤繚乱 |
 | char_416_zumama@boc#3 | 熔锻铸匠 | Forgemaster | 熔冶工匠 |

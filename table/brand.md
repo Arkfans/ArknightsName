@@ -1,5 +1,8 @@
 # Brand
 
+tip: 请善用浏览器的搜索功能
+
+
 | id | 中文 | 英文 | 日文 |
 | --- | --- | --- | --- |
 | ambienceSynesthesia | 音律联觉 | Ambience Synesthesia | 音律聯覚 |

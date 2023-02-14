@@ -1,5 +1,8 @@
 # Stage
 
+tip: 请善用浏览器的搜索功能
+
+
 | id | 中文 | 英文 | 日文 |
 | --- | --- | --- | --- |
 | a001_01 | 日正当中 | High Noon | 真昼の太陽 |
@@ -157,6 +160,16 @@
 | act13side_st04 | 未知与未来 | Uncharted and Hereafter | 未知と未来 |
 | act13side_tr01 | 城市之光 | City Lights | 都市の光 |
 | act13side_tr02 | 骑士流氓 | Rogue Knights | ならず者 |
+| act14mini_01 | 未竟长路 | - | - |
+| act14mini_02 | 奔突难止 | - | - |
+| act14mini_03 | 水涨池深 | - | - |
+| act14mini_04 | 无从逃逸 | - | - |
+| act14mini_05 | 且停且行 | - | - |
+| act14mini_06 | 枯生 | - | - |
+| act14mini_07 | 冻土坚石 | - | - |
+| act14mini_08 | 硝烟四起 | - | - |
+| act14mini_s01 | 水悠悠 | - | - |
+| act14mini_s02 | 路迢迢 | - | - |
 | act14side_01 | 不欢而聚 | Starting on a Sour Note | 三家会議 |
 | act14side_02 | 息事宁人 | Smoothing Things Over | 鎮静化 |
 | act14side_03 | 人心难测 | Inscrutable | 測り難きは人心 |

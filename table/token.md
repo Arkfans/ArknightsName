@@ -1,5 +1,8 @@
 # Token
 
+tip: 请善用浏览器的搜索功能
+
+
 | id | 中文 | 英文 | 日文 |
 | --- | --- | --- | --- |
 | token_10000_silent_healrb | 医疗探机 | Medic Drone | 医療ドローン |

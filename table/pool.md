@@ -1,5 +1,8 @@
 # Pool
 
+tip: 请善用浏览器的搜索功能
+
+
 **各服务器卡池id并不相同，非简中服id已用`_`前缀标出，详细请查看[Kengxxiao/ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData)**  
 常规轮换池以特殊ID `COMMON` 代替，不再展示重复数据
 
@@ -62,6 +65,7 @@
 | NORM_32_0_3 | 轴承与火星 | - | - |
 | NORM_33_0_5 | 雪融之诺 | - | - |
 | NORM_34_0_1 | 枯焰生花 | - | - |
+| NORM_35_0_4 | 春江逢雪 | - | - |
 | NORM_3_0_1 | 深夏的守夜人 | - | - |
 | NORM_3_0_3 | 久铸尘铁 | - | - |
 | NORM_3_0_5 | 火舞之人 | - | - |
