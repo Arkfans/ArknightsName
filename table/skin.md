@@ -20,7 +20,7 @@ tip: 请善用浏览器的搜索功能
 | char_102_texas@epoque#7 | 意志 | Willpower | 意志 |
 | char_102_texas@winter#1 | 寒冬信使 | Winter Messenger | 冬の使者 |
 | char_103_angel@kfc#1 | 城市骑手 | - | - |
-| char_103_angel@sale#8 | - | - | 真夜中の配達人 |
+| char_103_angel@sale#8 | - | Midnight Delivery | 真夜中の配達人 |
 | char_103_angel@wild#1 | 野地秘行 | Wild Operation | 荒野潜行 |
 | char_107_liskam@nian#2 | 春竜 | Spring Vouivre | 春竜 |
 | char_107_liskam@striker#1 | 超载 | Overload | オーバーロード |
@@ -99,7 +99,7 @@ tip: 请善用浏览器的搜索功能
 | char_208_melan@epoque#1 | 威塞克斯的信件 | Letters from Wessex | ウェセックスレター |
 | char_209_ardign@snow#1 | 快乐卫士 | Cheerful Guardian | ハッピーナイト |
 | char_210_stward@sale#6 | 风雪邀请 | - | - |
-| char_211_adnach@sale#5 | 无痕行者 | - | 足跡なき使者 |
+| char_211_adnach@sale#5 | 无痕行者 | Traceless Walker | 足跡なき使者 |
 | char_212_ansel@summer#1 | 悠然假日 HDm06 | Casual Vacation HDm06 | ホリデーHDm06 |
 | char_213_mostma@epoque#5 | 除魅 | Spellbreaker | 魑魅払い |
 | char_214_kafka@snow#3 | 纸板仙子 | Cardboard Fairy | 紙細工の妖精 |
