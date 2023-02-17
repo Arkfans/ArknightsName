@@ -483,6 +483,7 @@ tip: 请善用浏览器的搜索功能
 | char_102_texas@epoque#7 | 意志 | Willpower | 意志 |
 | char_102_texas@winter#1 | 寒冬信使 | Winter Messenger | 冬の使者 |
 | char_103_angel@kfc#1 | 城市骑手 | - | - |
+| char_103_angel@sale#8 | - | - | 真夜中の配達人 |
 | char_103_angel@wild#1 | 野地秘行 | Wild Operation | 荒野潜行 |
 | char_107_liskam@nian#2 | 春竜 | Spring Vouivre | 春竜 |
 | char_107_liskam@striker#1 | 超载 | Overload | オーバーロード |
@@ -561,7 +562,7 @@ tip: 请善用浏览器的搜索功能
 | char_208_melan@epoque#1 | 威塞克斯的信件 | Letters from Wessex | ウェセックスレター |
 | char_209_ardign@snow#1 | 快乐卫士 | Cheerful Guardian | ハッピーナイト |
 | char_210_stward@sale#6 | 风雪邀请 | - | - |
-| char_211_adnach@sale#5 | 无痕行者 | - | - |
+| char_211_adnach@sale#5 | 无痕行者 | - | 足跡なき使者 |
 | char_212_ansel@summer#1 | 悠然假日 HDm06 | Casual Vacation HDm06 | ホリデーHDm06 |
 | char_213_mostma@epoque#5 | 除魅 | Spellbreaker | 魑魅払い |
 | char_214_kafka@snow#3 | 纸板仙子 | Cardboard Fairy | 紙細工の妖精 |
@@ -1432,14 +1433,14 @@ tip: 请善用浏览器的搜索功能
 | act11d0 | 沃伦姆德的薄暮 | Twilight of Wolumonde | ウォルモンドの薄暮 |
 | act11d7 | 火蓝之心·复刻 | Heart of Surging Flame - Rerun | 青く燃ゆる心・復刻 |
 | act11login | 《明日方舟：黎明前奏》开播纪念活动 | - | - |
-| act11mini | 未尽篇章 | - | - |
+| act11mini | 未尽篇章 | - | 未完の断章 |
 | act11sre | 覆潮之下·复刻 | Under Tides - Rerun | 潮汐の下・復刻 |
 | act12d0 | 密林悍将归来 | The Great Chief Returns | 帰還！密林の長 |
 | act12d6 | 刻俄柏的灰蕈迷境 | Ceobe's Fungimist | ケオベの茸狩迷界 |
 | act12login | 登录领取奖励 | - | - |
 | act12mini | 日暮寻路 | - | - |
 | act12side | 多索雷斯假日 | Dossoles Holiday | ドッソレスホリデー |
-| act12sre | 多索雷斯假日·复刻 | - | - |
+| act12sre | 多索雷斯假日·复刻 | - | ドッソレスホリデー |
 | act13d0 | 踏寻往昔之风 | Rewinding Breeze | 在りし日の風を求めて |
 | act13d2 | 骑兵与猎人·复刻 | Grani and the Knights' Treasure - Rerun | 騎兵と狩人・復刻 |
 | act13d2d1 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
@@ -1748,9 +1749,9 @@ tip: 请善用浏览器的搜索功能
 | act12d6_token_pancake | 美味的蜜饼 | Delicious Honey Biscuit | はちみつクッキー |
 | act12mini_token_component | 制式器械零件 | - | - |
 | act12side_point_cmemomedal | 陈小姐纪念奖牌 | Miss Ch'en Commemorative Medal | チェンの記念メダル |
-| act12side_point_cmemomedal_rep_1 | 陈小姐纪念奖牌 | - | - |
+| act12side_point_cmemomedal_rep_1 | 陈小姐纪念奖牌 | - | チェンの記念メダル |
 | act12side_token_coupon | 约翰老妈代金券 | Mama John's Voucher | ママジョンズクーポン |
-| act12side_token_coupon_rep_1 | 约翰老妈代金券 | - | - |
+| act12side_token_coupon_rep_1 | 约翰老妈代金券 | - | ママジョンズクーポン |
 | act12side_token_key01 | 《鬼虎双星》 | [Oni and Tiger Twinned Stars] | 『鬼虎双星』 |
 | act12side_token_key02 | 《龙鼠相争》 | [Dragon and Rat in Conflict] | 『龍鼠競合』 |
 | act12side_token_key03 | 《“黄金拍档”》 | ['Golden Partner'] | 『ゴールデンコンビ』 |
@@ -2270,6 +2271,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_penguin | 喧闹法则家具收藏包 | Code of Brawl Furniture Pack | 喧騒の掟家具パック |
 | uni_set_pizza | 骑兵与猎人家具收藏包 | Grani and the Knights' Treasure Furniture Pack | 騎兵と狩人家具パック |
 | uni_set_prison | 孤岛风云家具收藏包 | - | - |
+| uni_set_reception | - | - | 龍門茶室家具パック |
 | voucher_chip | 芯片自助打印盒 | Automatic Chip Printer | 初級SoCセルフプリンター |
 | voucher_chipPack | 芯片组自助打印盒 | Automatic Chip Pack Printer | 中級SoCセルフプリンター |
 | voucher_chipPackage | 自助芯片组印刻仪 | - | - |
@@ -2298,6 +2300,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_item_pick601 | 高级干员调用凭证 | Top Operator Transfer Permit | ★6招聘指名券 |
 | voucher_levelmax_5 | 资深干员特训装置 | - | - |
 | voucher_levelmax_6 | 高级资深干员特训装置 | - | - |
+| voucher_pcharPack | - | - | ★6印交換券 |
 | voucher_recruitR3_1 | 公开招募★3兑换券·I | ★3 Recruitment Voucher I | 公開求人★3指名券 I |
 | voucher_recruitR4_1 | 公开招募★4兑换券·I | ★4 Recruitment Voucher I | 公開求人★4指名券 I |
 | voucher_recruitR5_pick1803 | 资深干员调用凭证 | Senior Operator Transfer Permit | ★5招聘指名券 |
@@ -3259,14 +3262,14 @@ tip: 请善用浏览器的搜索功能
 | act11d0_st02 | 余烬之上 | Above the Embers | 燃え滓の上で |
 | act11d0_tr01 | 争夺装置 | Contested Devices | 装置争奪 |
 | act11d7_st01 | 邂逅潮声 | Seaside Serendipity | 潮音との邂逅 |
-| act11mini_01 | 雪地冰天 | - | - |
-| act11mini_02 | 看一场戏 | - | - |
-| act11mini_03 | 飞沙走石 | - | - |
-| act11mini_04 | 最后的青金 | - | - |
-| act11mini_05 | 去度假 | - | - |
-| act11mini_06 | 跋山涉水 | - | - |
-| act11mini_07 | 事到如今 | - | - |
-| act11mini_08 | 万众瞩目 | - | - |
+| act11mini_01 | 雪地冰天 | - | 氷雪の地 |
+| act11mini_02 | 看一场戏 | - | 芝居見物 |
+| act11mini_03 | 飞沙走石 | - | 砂嵐 |
+| act11mini_04 | 最后的青金 | - | ラスト・ラズライト |
+| act11mini_05 | 去度假 | - | バカンス |
+| act11mini_06 | 跋山涉水 | - | 波濤を越えて |
+| act11mini_07 | 事到如今 | - | 事ここに至る |
+| act11mini_08 | 万众瞩目 | - | 衆人環視 |
 | act12d0_01 | 高空坠物 | Falling Objects | 墜落 |
 | act12d0_02 | 粗细有别 | Thick Versus Thin | 太さ比べ |
 | act12d0_03 | 往昔 | Old Times | 昔話 |
@@ -3691,7 +3694,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_09 | 小丘郡郊野 | County Hillock Countryside | ヒロック郡郊外 |
 | camp_r_10 | 黑夜锦标秀 | Night Champion Show | 「ナイトチャンピオン」 |
 | camp_r_11 | 盘桓蜀道 | Lingering Shangshu Trails | 蜿蜒たる蜀道 |
-| camp_r_12 | 巧克力大街 | - | - |
+| camp_r_12 | 巧克力大街 | - | チョコストリート |
 | camp_r_13 | 昏黑造船厂 | - | - |
 | camp_r_14 | 实验基地机库 | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |
@@ -4076,7 +4079,7 @@ tip: 请善用浏览器的搜索功能
 | act11d7_zone1 | 主舞台 | Main Stage | メインステージ |
 | act11d7_zone2 | 嘉年华 | Carnival | フェスティバル |
 | act11d7_zone3 | 额外节目 | Extra Show | エクストラ |
-| act11mini_zone1 | 行动摘选 | - | - |
+| act11mini_zone1 | 行动摘选 | - | 記録抜粋 |
 | act11sre_zone1 | 荒败盐风 | Deserted Salviento | 潮風の廃都 |
 | act11sre_zone2 | 浪蚀哀墟 | Choppy Ruin | 海蝕の荒墟 |
 | act12d0_zone1 | 大酋长之路 | Great Chief's Path | 大族長への道 |
@@ -4085,9 +4088,9 @@ tip: 请善用浏览器的搜索功能
 | act12side_zone1 | 极限铁人大奖赛 | Dossoles Warrior Champion | 大会エントリー |
 | act12side_zone2 | 赛后余波 | Afterwinds | 大会の余波 |
 | act12side_zone3 | 暗流涌动 | Tidings Unseen | 蠢く濁流 |
-| act12sre_zone1 | 极限铁人大奖赛 | - | - |
-| act12sre_zone2 | 赛后余波 | - | - |
-| act12sre_zone3 | 暗流涌动 | - | - |
+| act12sre_zone1 | 极限铁人大奖赛 | - | 大会エントリー |
+| act12sre_zone2 | 赛后余波 | - | 大会の余波 |
+| act12sre_zone3 | 暗流涌动 | - | 蠢く濁流 |
 | act13d0_zone1 | 时光长河 | River of Time | 追憶の船旅 |
 | act13d2_zone1 | 滴水村周边 | Dewville Outskirts | 滴水村周辺 |
 | act13d2_zone2 | 宝藏之路 | Path to Treasure | 宝への道 |
@@ -4207,9 +4210,9 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_7_zone2 | 狱中生活 | Mansfield Daily Life | 獄中生活 |
 | permanent_sidestory_8_zone1 | 入画 | Leave From Yourself | 入画 |
 | permanent_sidestory_8_zone2 | 出画 | Come To Yourself | 出画 |
-| permanent_sidestory_9_zone1 | 极限铁人大奖赛 | - | - |
-| permanent_sidestory_9_zone2 | 赛后余波 | - | - |
-| permanent_sidestory_9_zone3 | 暗流涌动 | - | - |
+| permanent_sidestory_9_zone1 | 极限铁人大奖赛 | - | 大会エントリー |
+| permanent_sidestory_9_zone2 | 赛后余波 | - | 大会の余波 |
+| permanent_sidestory_9_zone3 | 暗流涌动 | - | 蠢く濁流 |
 | permanent_sub_1_zone1 | 阵中往事 | Tales of Battle | 昔日の戦陣 |
 | permanent_sub_1_zone2 | 破败前线 | Shattered Front | 敗色の戦線 |
 | permanent_sub_1_zone3 | 战火回想 | Memories of War | 戦火の追想 |

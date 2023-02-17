@@ -20,7 +20,7 @@ tip: 请善用浏览器的搜索功能
 | act11d7_zone1 | 主舞台 | Main Stage | メインステージ |
 | act11d7_zone2 | 嘉年华 | Carnival | フェスティバル |
 | act11d7_zone3 | 额外节目 | Extra Show | エクストラ |
-| act11mini_zone1 | 行动摘选 | - | - |
+| act11mini_zone1 | 行动摘选 | - | 記録抜粋 |
 | act11sre_zone1 | 荒败盐风 | Deserted Salviento | 潮風の廃都 |
 | act11sre_zone2 | 浪蚀哀墟 | Choppy Ruin | 海蝕の荒墟 |
 | act12d0_zone1 | 大酋长之路 | Great Chief's Path | 大族長への道 |
@@ -29,9 +29,9 @@ tip: 请善用浏览器的搜索功能
 | act12side_zone1 | 极限铁人大奖赛 | Dossoles Warrior Champion | 大会エントリー |
 | act12side_zone2 | 赛后余波 | Afterwinds | 大会の余波 |
 | act12side_zone3 | 暗流涌动 | Tidings Unseen | 蠢く濁流 |
-| act12sre_zone1 | 极限铁人大奖赛 | - | - |
-| act12sre_zone2 | 赛后余波 | - | - |
-| act12sre_zone3 | 暗流涌动 | - | - |
+| act12sre_zone1 | 极限铁人大奖赛 | - | 大会エントリー |
+| act12sre_zone2 | 赛后余波 | - | 大会の余波 |
+| act12sre_zone3 | 暗流涌动 | - | 蠢く濁流 |
 | act13d0_zone1 | 时光长河 | River of Time | 追憶の船旅 |
 | act13d2_zone1 | 滴水村周边 | Dewville Outskirts | 滴水村周辺 |
 | act13d2_zone2 | 宝藏之路 | Path to Treasure | 宝への道 |
@@ -151,9 +151,9 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_7_zone2 | 狱中生活 | Mansfield Daily Life | 獄中生活 |
 | permanent_sidestory_8_zone1 | 入画 | Leave From Yourself | 入画 |
 | permanent_sidestory_8_zone2 | 出画 | Come To Yourself | 出画 |
-| permanent_sidestory_9_zone1 | 极限铁人大奖赛 | - | - |
-| permanent_sidestory_9_zone2 | 赛后余波 | - | - |
-| permanent_sidestory_9_zone3 | 暗流涌动 | - | - |
+| permanent_sidestory_9_zone1 | 极限铁人大奖赛 | - | 大会エントリー |
+| permanent_sidestory_9_zone2 | 赛后余波 | - | 大会の余波 |
+| permanent_sidestory_9_zone3 | 暗流涌动 | - | 蠢く濁流 |
 | permanent_sub_1_zone1 | 阵中往事 | Tales of Battle | 昔日の戦陣 |
 | permanent_sub_1_zone2 | 破败前线 | Shattered Front | 敗色の戦線 |
 | permanent_sub_1_zone3 | 战火回想 | Memories of War | 戦火の追想 |

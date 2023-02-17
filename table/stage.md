@@ -60,14 +60,14 @@ tip: 请善用浏览器的搜索功能
 | act11d0_st02 | 余烬之上 | Above the Embers | 燃え滓の上で |
 | act11d0_tr01 | 争夺装置 | Contested Devices | 装置争奪 |
 | act11d7_st01 | 邂逅潮声 | Seaside Serendipity | 潮音との邂逅 |
-| act11mini_01 | 雪地冰天 | - | - |
-| act11mini_02 | 看一场戏 | - | - |
-| act11mini_03 | 飞沙走石 | - | - |
-| act11mini_04 | 最后的青金 | - | - |
-| act11mini_05 | 去度假 | - | - |
-| act11mini_06 | 跋山涉水 | - | - |
-| act11mini_07 | 事到如今 | - | - |
-| act11mini_08 | 万众瞩目 | - | - |
+| act11mini_01 | 雪地冰天 | - | 氷雪の地 |
+| act11mini_02 | 看一场戏 | - | 芝居見物 |
+| act11mini_03 | 飞沙走石 | - | 砂嵐 |
+| act11mini_04 | 最后的青金 | - | ラスト・ラズライト |
+| act11mini_05 | 去度假 | - | バカンス |
+| act11mini_06 | 跋山涉水 | - | 波濤を越えて |
+| act11mini_07 | 事到如今 | - | 事ここに至る |
+| act11mini_08 | 万众瞩目 | - | 衆人環視 |
 | act12d0_01 | 高空坠物 | Falling Objects | 墜落 |
 | act12d0_02 | 粗细有别 | Thick Versus Thin | 太さ比べ |
 | act12d0_03 | 往昔 | Old Times | 昔話 |
@@ -492,7 +492,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_09 | 小丘郡郊野 | County Hillock Countryside | ヒロック郡郊外 |
 | camp_r_10 | 黑夜锦标秀 | Night Champion Show | 「ナイトチャンピオン」 |
 | camp_r_11 | 盘桓蜀道 | Lingering Shangshu Trails | 蜿蜒たる蜀道 |
-| camp_r_12 | 巧克力大街 | - | - |
+| camp_r_12 | 巧克力大街 | - | チョコストリート |
 | camp_r_13 | 昏黑造船厂 | - | - |
 | camp_r_14 | 实验基地机库 | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |

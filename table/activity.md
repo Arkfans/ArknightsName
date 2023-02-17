@@ -15,14 +15,14 @@ tip: 请善用浏览器的搜索功能
 | act11d0 | 沃伦姆德的薄暮 | Twilight of Wolumonde | ウォルモンドの薄暮 |
 | act11d7 | 火蓝之心·复刻 | Heart of Surging Flame - Rerun | 青く燃ゆる心・復刻 |
 | act11login | 《明日方舟：黎明前奏》开播纪念活动 | - | - |
-| act11mini | 未尽篇章 | - | - |
+| act11mini | 未尽篇章 | - | 未完の断章 |
 | act11sre | 覆潮之下·复刻 | Under Tides - Rerun | 潮汐の下・復刻 |
 | act12d0 | 密林悍将归来 | The Great Chief Returns | 帰還！密林の長 |
 | act12d6 | 刻俄柏的灰蕈迷境 | Ceobe's Fungimist | ケオベの茸狩迷界 |
 | act12login | 登录领取奖励 | - | - |
 | act12mini | 日暮寻路 | - | - |
 | act12side | 多索雷斯假日 | Dossoles Holiday | ドッソレスホリデー |
-| act12sre | 多索雷斯假日·复刻 | - | - |
+| act12sre | 多索雷斯假日·复刻 | - | ドッソレスホリデー |
 | act13d0 | 踏寻往昔之风 | Rewinding Breeze | 在りし日の風を求めて |
 | act13d2 | 骑兵与猎人·复刻 | Grani and the Knights' Treasure - Rerun | 騎兵と狩人・復刻 |
 | act13d2d1 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |

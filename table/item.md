@@ -166,9 +166,9 @@ tip: 请善用浏览器的搜索功能
 | act12d6_token_pancake | 美味的蜜饼 | Delicious Honey Biscuit | はちみつクッキー |
 | act12mini_token_component | 制式器械零件 | - | - |
 | act12side_point_cmemomedal | 陈小姐纪念奖牌 | Miss Ch'en Commemorative Medal | チェンの記念メダル |
-| act12side_point_cmemomedal_rep_1 | 陈小姐纪念奖牌 | - | - |
+| act12side_point_cmemomedal_rep_1 | 陈小姐纪念奖牌 | - | チェンの記念メダル |
 | act12side_token_coupon | 约翰老妈代金券 | Mama John's Voucher | ママジョンズクーポン |
-| act12side_token_coupon_rep_1 | 约翰老妈代金券 | - | - |
+| act12side_token_coupon_rep_1 | 约翰老妈代金券 | - | ママジョンズクーポン |
 | act12side_token_key01 | 《鬼虎双星》 | [Oni and Tiger Twinned Stars] | 『鬼虎双星』 |
 | act12side_token_key02 | 《龙鼠相争》 | [Dragon and Rat in Conflict] | 『龍鼠競合』 |
 | act12side_token_key03 | 《“黄金拍档”》 | ['Golden Partner'] | 『ゴールデンコンビ』 |
@@ -688,6 +688,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_penguin | 喧闹法则家具收藏包 | Code of Brawl Furniture Pack | 喧騒の掟家具パック |
 | uni_set_pizza | 骑兵与猎人家具收藏包 | Grani and the Knights' Treasure Furniture Pack | 騎兵と狩人家具パック |
 | uni_set_prison | 孤岛风云家具收藏包 | - | - |
+| uni_set_reception | - | - | 龍門茶室家具パック |
 | voucher_chip | 芯片自助打印盒 | Automatic Chip Printer | 初級SoCセルフプリンター |
 | voucher_chipPack | 芯片组自助打印盒 | Automatic Chip Pack Printer | 中級SoCセルフプリンター |
 | voucher_chipPackage | 自助芯片组印刻仪 | - | - |
@@ -716,6 +717,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_item_pick601 | 高级干员调用凭证 | Top Operator Transfer Permit | ★6招聘指名券 |
 | voucher_levelmax_5 | 资深干员特训装置 | - | - |
 | voucher_levelmax_6 | 高级资深干员特训装置 | - | - |
+| voucher_pcharPack | - | - | ★6印交換券 |
 | voucher_recruitR3_1 | 公开招募★3兑换券·I | ★3 Recruitment Voucher I | 公開求人★3指名券 I |
 | voucher_recruitR4_1 | 公开招募★4兑换券·I | ★4 Recruitment Voucher I | 公開求人★4指名券 I |
 | voucher_recruitR5_pick1803 | 资深干员调用凭证 | Senior Operator Transfer Permit | ★5招聘指名券 |
