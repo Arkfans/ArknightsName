@@ -304,7 +304,7 @@ tip: 请善用浏览器的搜索功能
 | et_ObsidianPass | 黑曜石节门票 | Obsidian Festival Ticket | フェスチケット |
 | et_ObsidianPass_rep_1 | 黑曜石节门票 | Obsidian Festival Ticket | フェスチケット |
 | itempack_mod_10 | 狙击芯片组印刻仪 | - | - |
-| itempack_mod_11 | 术士芯片组印刻仪 | - | - |
+| itempack_mod_11 | 术师芯片组印刻仪 | - | - |
 | itempack_mod_12 | 医疗芯片组印刻仪 | - | - |
 | itempack_mod_13 | 辅助芯片组印刻仪 | - | - |
 | itempack_mod_14 | 特种芯片组印刻仪 | - | - |
@@ -688,7 +688,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_penguin | 喧闹法则家具收藏包 | Code of Brawl Furniture Pack | 喧騒の掟家具パック |
 | uni_set_pizza | 骑兵与猎人家具收藏包 | Grani and the Knights' Treasure Furniture Pack | 騎兵と狩人家具パック |
 | uni_set_prison | 孤岛风云家具收藏包 | - | - |
-| uni_set_reception | - | Lungmen Tearoom Furniture Collection Set | 龍門茶室家具パック |
+| uni_set_reception | 龙门风情茶室家具收藏包 | Lungmen Tearoom Furniture Collection Set | 龍門茶室家具パック |
 | voucher_chip | 芯片自助打印盒 | Automatic Chip Printer | 初級SoCセルフプリンター |
 | voucher_chipPack | 芯片组自助打印盒 | Automatic Chip Pack Printer | 中級SoCセルフプリンター |
 | voucher_chipPackage | 自助芯片组印刻仪 | - | - |

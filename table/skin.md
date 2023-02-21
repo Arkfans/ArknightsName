@@ -20,7 +20,7 @@ tip: 请善用浏览器的搜索功能
 | char_102_texas@epoque#7 | 意志 | Willpower | 意志 |
 | char_102_texas@winter#1 | 寒冬信使 | Winter Messenger | 冬の使者 |
 | char_103_angel@kfc#1 | 城市骑手 | - | - |
-| char_103_angel@sale#8 | - | Midnight Delivery | 真夜中の配達人 |
+| char_103_angel@sale#8 | 午夜邮差 | Midnight Delivery | 真夜中の配達人 |
 | char_103_angel@wild#1 | 野地秘行 | Wild Operation | 荒野潜行 |
 | char_107_liskam@nian#2 | 春竜 | Spring Vouivre | 春竜 |
 | char_107_liskam@striker#1 | 超载 | Overload | オーバーロード |
@@ -193,6 +193,7 @@ tip: 请善用浏览器的搜索功能
 | char_401_elysm@summer#9 | 灿阳朝露 SDm11 | Shimmering Dew SDm11 | 炎陽煌く露SDm11 |
 | char_402_tuye@epoque#14 | 培翠 | Cultivate Vegetation | 緑化 |
 | char_4032_provs@wild#7 | 秋高气爽 | - | - |
+| char_4036_forcer@epoque#20 | 拾翼 | - | - |
 | char_4040_rockr@lxh#1 | 欢唱之前 | - | - |
 | char_4043_erato@snow#5 | 未讲述的故事 | - | - |
 | char_4055_bgsnow@wild#7 | 字句中的雪原 | - | - |

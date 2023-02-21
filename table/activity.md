@@ -48,6 +48,7 @@ tip: 请善用浏览器的搜索功能
 | act16d5d2 | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |
 | act16d6 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act16side | 吾导先路 | Guide Ahead | 吾れ先導者たらん |
+| act16sre | 吾导先路·复刻 | - | - |
 | act17d0 | 源石尘行动 | Operation Originium Dust | OP:OD |
 | act17d0d1 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act17d0d2 | 登录领取奖励 | Sign-in Campaign | ログイン報酬 |

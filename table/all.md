@@ -483,7 +483,7 @@ tip: 请善用浏览器的搜索功能
 | char_102_texas@epoque#7 | 意志 | Willpower | 意志 |
 | char_102_texas@winter#1 | 寒冬信使 | Winter Messenger | 冬の使者 |
 | char_103_angel@kfc#1 | 城市骑手 | - | - |
-| char_103_angel@sale#8 | - | Midnight Delivery | 真夜中の配達人 |
+| char_103_angel@sale#8 | 午夜邮差 | Midnight Delivery | 真夜中の配達人 |
 | char_103_angel@wild#1 | 野地秘行 | Wild Operation | 荒野潜行 |
 | char_107_liskam@nian#2 | 春竜 | Spring Vouivre | 春竜 |
 | char_107_liskam@striker#1 | 超载 | Overload | オーバーロード |
@@ -656,6 +656,7 @@ tip: 请善用浏览器的搜索功能
 | char_401_elysm@summer#9 | 灿阳朝露 SDm11 | Shimmering Dew SDm11 | 炎陽煌く露SDm11 |
 | char_402_tuye@epoque#14 | 培翠 | Cultivate Vegetation | 緑化 |
 | char_4032_provs@wild#7 | 秋高气爽 | - | - |
+| char_4036_forcer@epoque#20 | 拾翼 | - | - |
 | char_4040_rockr@lxh#1 | 欢唱之前 | - | - |
 | char_4043_erato@snow#5 | 未讲述的故事 | - | - |
 | char_4055_bgsnow@wild#7 | 字句中的雪原 | - | - |
@@ -1466,6 +1467,7 @@ tip: 请善用浏览器的搜索功能
 | act16d5d2 | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |
 | act16d6 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act16side | 吾导先路 | Guide Ahead | 吾れ先導者たらん |
+| act16sre | 吾导先路·复刻 | - | - |
 | act17d0 | 源石尘行动 | Operation Originium Dust | OP:OD |
 | act17d0d1 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act17d0d2 | 登录领取奖励 | Sign-in Campaign | ログイン報酬 |
@@ -1887,7 +1889,7 @@ tip: 请善用浏览器的搜索功能
 | et_ObsidianPass | 黑曜石节门票 | Obsidian Festival Ticket | フェスチケット |
 | et_ObsidianPass_rep_1 | 黑曜石节门票 | Obsidian Festival Ticket | フェスチケット |
 | itempack_mod_10 | 狙击芯片组印刻仪 | - | - |
-| itempack_mod_11 | 术士芯片组印刻仪 | - | - |
+| itempack_mod_11 | 术师芯片组印刻仪 | - | - |
 | itempack_mod_12 | 医疗芯片组印刻仪 | - | - |
 | itempack_mod_13 | 辅助芯片组印刻仪 | - | - |
 | itempack_mod_14 | 特种芯片组印刻仪 | - | - |
@@ -2271,7 +2273,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_penguin | 喧闹法则家具收藏包 | Code of Brawl Furniture Pack | 喧騒の掟家具パック |
 | uni_set_pizza | 骑兵与猎人家具收藏包 | Grani and the Knights' Treasure Furniture Pack | 騎兵と狩人家具パック |
 | uni_set_prison | 孤岛风云家具收藏包 | - | - |
-| uni_set_reception | - | Lungmen Tearoom Furniture Collection Set | 龍門茶室家具パック |
+| uni_set_reception | 龙门风情茶室家具收藏包 | Lungmen Tearoom Furniture Collection Set | 龍門茶室家具パック |
 | voucher_chip | 芯片自助打印盒 | Automatic Chip Printer | 初級SoCセルフプリンター |
 | voucher_chipPack | 芯片组自助打印盒 | Automatic Chip Pack Printer | 中級SoCセルフプリンター |
 | voucher_chipPackage | 自助芯片组印刻仪 | - | - |
@@ -2396,6 +2398,7 @@ tip: 请善用浏览器的搜索功能
 | NORM_33_0_5 | 雪融之诺 | - | - |
 | NORM_34_0_1 | 枯焰生花 | - | - |
 | NORM_35_0_4 | 春江逢雪 | - | - |
+| NORM_35_0_6 | 炽焰无霾 | - | - |
 | NORM_3_0_1 | 深夏的守夜人 | - | - |
 | NORM_3_0_3 | 久铸尘铁 | - | - |
 | NORM_3_0_5 | 火舞之人 | - | - |
@@ -4121,6 +4124,8 @@ tip: 请善用浏览器的搜索功能
 | act16d5_zone2 | 出画 | Come To Yourself | 出画 |
 | act16side_zone1 | 万国峰会 | Summit of Nations | 万国サミット |
 | act16side_zone2 | 圣殿之路 | Road to the Shrine | 聖堂へ至る道 |
+| act16sre_zone1 | 万国峰会 | - | - |
+| act16sre_zone2 | 圣殿之路 | - | - |
 | act17d0_zone1 | 行动记录 | Task Records | 作戦記録 |
 | act17d0_zone2 | 备战训练 | Para Bellum | 戦闘訓練 |
 | act17d5_zone1 | 阵中往事 | Tales of Battle | 昔日の戦陣 |
@@ -4192,6 +4197,8 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_11_zone2 | 圣猎 | - | - |
 | permanent_sidestory_12_zone1 | 三山奇闻 | - | - |
 | permanent_sidestory_12_zone2 | 一十八峰 | - | - |
+| permanent_sidestory_13_zone1 | 万国峰会 | - | - |
+| permanent_sidestory_13_zone2 | 圣殿之路 | - | - |
 | permanent_sidestory_1_zone1 | 滴水村周边 | Dewville Outskirts | 滴水村周辺 |
 | permanent_sidestory_1_zone2 | 宝藏之路 | Path to Treasure | 宝への道 |
 | permanent_sidestory_2_zone1 | 主舞台 | Main Stage | メインステージ |

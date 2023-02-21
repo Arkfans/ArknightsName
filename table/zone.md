@@ -62,6 +62,8 @@ tip: 请善用浏览器的搜索功能
 | act16d5_zone2 | 出画 | Come To Yourself | 出画 |
 | act16side_zone1 | 万国峰会 | Summit of Nations | 万国サミット |
 | act16side_zone2 | 圣殿之路 | Road to the Shrine | 聖堂へ至る道 |
+| act16sre_zone1 | 万国峰会 | - | - |
+| act16sre_zone2 | 圣殿之路 | - | - |
 | act17d0_zone1 | 行动记录 | Task Records | 作戦記録 |
 | act17d0_zone2 | 备战训练 | Para Bellum | 戦闘訓練 |
 | act17d5_zone1 | 阵中往事 | Tales of Battle | 昔日の戦陣 |
@@ -133,6 +135,8 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_11_zone2 | 圣猎 | - | - |
 | permanent_sidestory_12_zone1 | 三山奇闻 | - | - |
 | permanent_sidestory_12_zone2 | 一十八峰 | - | - |
+| permanent_sidestory_13_zone1 | 万国峰会 | - | - |
+| permanent_sidestory_13_zone2 | 圣殿之路 | - | - |
 | permanent_sidestory_1_zone1 | 滴水村周边 | Dewville Outskirts | 滴水村周辺 |
 | permanent_sidestory_1_zone2 | 宝藏之路 | Path to Treasure | 宝への道 |
 | permanent_sidestory_2_zone1 | 主舞台 | Main Stage | メインステージ |
