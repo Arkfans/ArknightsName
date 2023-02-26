@@ -3,7 +3,7 @@
 tip: 请善用浏览器的搜索功能
 
 
-| id | 中文 | 英文 | 日文 |
+| id | 中文 | English | 日文 |
 | --- | --- | --- | --- |
 | 0D5act | 限时任务 | Limited-time Mission | 期間限定任務 |
 | 1stact | 骑兵与猎人 | Grani and the Knights' Treasure | 騎兵と狩人 |

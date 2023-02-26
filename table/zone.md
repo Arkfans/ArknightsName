@@ -3,7 +3,7 @@
 tip: 请善用浏览器的搜索功能
 
 
-| id | 中文 | 英文 | 日文 |
+| id | 中文 | English | 日文 |
 | --- | --- | --- | --- |
 | A001_zone1 | 滴水村周边 | Dewville Outskirts | 滴水村周辺 |
 | A001_zone2 | 宝藏之路 | Path to Treasure | 宝への道 |

@@ -3,7 +3,7 @@
 tip: 请善用浏览器的搜索功能
 
 
-| id | 中文 | 英文 | 日文 |
+| id | 中文 | English | 日文 |
 | --- | --- | --- | --- |
 | char_002_amiya@epoque#4 | 见习联结者 | Fresh Fastener | 見習い宅配人 |
 | char_002_amiya@test#1 | 播种者 | - | - |

@@ -3,7 +3,7 @@
 tip: 请善用浏览器的搜索功能
 
 
-| id | 中文 | 英文 | 日文 |
+| id | 中文 | English | 日文 |
 | --- | --- | --- | --- |
 | token_10000_silent_healrb | 医疗探机 | Medic Drone | 医療ドローン |
 | token_10001_deepcl_tentac | 触手 | Tentacle | 触手 |

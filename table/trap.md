@@ -3,7 +3,7 @@
 tip: 请善用浏览器的搜索功能
 
 
-| id | 中文 | 英文 | 日文 |
+| id | 中文 | English | 日文 |
 | --- | --- | --- | --- |
 | trap_001_crate | 障碍物 | Roadblock | 障害物 |
 | trap_002_emp | 震撼装置 | Stun Generator | EMP発生装置 |

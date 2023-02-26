@@ -3,7 +3,7 @@
 tip: 请善用浏览器的搜索功能
 
 
-| id | 中文 | 英文 | 日文 |
+| id | 中文 | English | 日文 |
 | --- | --- | --- | --- |
 | 1stact | 赏金猎人金币 | Bounty Coin | ラッキーコイン |
 | 2001 | 基础作战记录 | Drill Battle Record | 入門作戦記録 |

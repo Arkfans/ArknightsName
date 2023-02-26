@@ -3,7 +3,7 @@
 tip: 请善用浏览器的搜索功能
 
 
-| id | 中文 | 英文 | 日文 |
+| id | 中文 | English | 日文 |
 | --- | --- | --- | --- |
 | abyssal | 深海猎人 | Abyssal Hunters | アビサル |
 | action4 | 行动组A4 | Op Team A4 | 行動隊A4 |

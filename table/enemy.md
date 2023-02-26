@@ -3,7 +3,7 @@
 tip: 请善用浏览器的搜索功能
 
 
-| id | 中文 | 英文 | 日文 |
+| id | 中文 | English | 日文 |
 | --- | --- | --- | --- |
 | enemy_1000_gopro | 猎狗 | Hound | 猟犬 |
 | enemy_1000_gopro_2 | 猎狗pro | Hound Pro | 上級猟犬 |

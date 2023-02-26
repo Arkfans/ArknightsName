@@ -6,7 +6,7 @@ tip: 请善用浏览器的搜索功能
 **各服务器卡池id并不相同，非简中服id已用`_`前缀标出，详细请查看[Kengxxiao/ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData)**  
 常规轮换池以特殊ID `COMMON` 代替，不再展示重复数据
 
-| id | 中文 | 英文 | 日文 |
+| id | 中文 | English | 日文 |
 | --- | --- | --- | --- |
 | ATTAIN_24_0_3 | 跨年欢庆·回首 | - | - |
 | ATTAIN_34_0_3 | 跨年欢庆·相逢 | - | - |

@@ -3,7 +3,7 @@
 tip: 请善用浏览器的搜索功能
 
 
-| id | 中文 | 英文 | 日文 |
+| id | 中文 | English | 日文 |
 | --- | --- | --- | --- |
 | ambienceSynesthesia | 音律联觉 | Ambience Synesthesia | 音律聯覚 |
 | boc | 斗争血脉 | Bloodline of Combat | 闘争の血脈 |
