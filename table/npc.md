@@ -27,8 +27,7 @@ tip: 请善用浏览器的搜索功能
 | avg_110_deepcl_1 | 怪异的画家 | - | - |
 | avg_115_headbr_1 | 凛冬 | Zima | ズィマー |
 | avg_117_myrrh_1 | 末药 | Myrrh | ミルラ |
-| avg_123_fang_1 | 芬 | Aciddrop | アシッドドロップ |
-|   | 酸糖 | Fang | フェン |
+| avg_123_fang_1 | 芬 | Fang | フェン |
 | avg_126_shotst_1 | 流星 | Meteor | メテオ |
 | avg_127_estell_1 | 艾丝黛尔 | Estelle | エステル |
 | avg_128_plosis_1 | 不太走运的人？ | Joyce | フィリオプシス |
@@ -43,7 +42,6 @@ tip: 请善用浏览器的搜索功能
 | avg_134_ifrit_1 | 伊芙利特 | Ifrit | 伊芙利特 |
 | avg_135_halo_1 | 埃琳娜 | - | - |
 |   | 星源 |   |   |
-|   | 赫默 |   |   |
 | avg_137_brownb_1 | 猎蜂 | Shura | シュラ |
 |   | 舒拉 |   |   |
 | avg_141_nights_1 | 夜烟 | Haze | ヘイズ |
@@ -67,8 +65,7 @@ tip: 请善用浏览器的搜索功能
 | avg_199_yak_1 | 角峰 | Matterhorn | マッターホルン |
 | avg_201_moeshd_1 | 可颂 | - | - |
 | avg_2023_ling_1 | 令 | Ling | リィン |
-| avg_2024_chyue_1 | 录武官 | - | - |
-|   | 朔 |   |   |
+| avg_2024_chyue_1 | 朔 | - | - |
 |   | 重岳 |   |   |
 | avg_202_demkni_1 | 塞雷娅 | - | - |
 | avg_206_gnosis_1 | 诺希斯 | Gnosis | ノーシス |
@@ -80,8 +77,6 @@ tip: 请善用浏览器的搜索功能
 | avg_220_grani_1 | 格拉尼 | Grani | グラニ |
 | avg_222_bpipe_1 | 风笛 | Bagpipe | バグパイプ |
 | avg_225_haak_1 | 医生 | - | - |
-|   | 强壮的男人 |   |   |
-|   | 槐琥 |   |   |
 |   | 阿 |   |   |
 | avg_226_hmau_1 | 吽 | Hung | ウン |
 | avg_226_weed_1 | “领袖” | Reed | リード |
@@ -114,8 +109,7 @@ tip: 请善用浏览器的搜索功能
 |   | 蜜蜡 |   |   |
 | avg_346_aosta_1 | 奥斯塔 | Aosta | アオスタ |
 | avg_348_ceylon_1 | 锡兰 | Ceylon | セイロン |
-| avg_349_chiave_1 | 林顿 | - | - |
-|   | 贾维 |   |   |
+| avg_349_chiave_1 | 贾维 | - | - |
 | avg_362_saga_1 | 嵯峨 | - | - |
 | avg_363_toddi_1 | 熔泉 | Toddifons | トギフォンス |
 | avg_365_aprl_1 | 爱尔莉 | Aerlie | エルリー |
@@ -193,8 +187,7 @@ tip: 请善用浏览器的搜索功能
 | avg_474_gladiia_1 | 歌蕾蒂娅 | Gladiia | グレイディーア |
 | avg_475_akafyu_1 | 赤冬 | - | - |
 | avg_476_blkngt_1 | 夜半 | Blacknight | イェバン |
-|   | 桑葚 | Travel-Weary Woman | 急いでいる女性 |
-|   | 风尘仆仆的女性 |   |   |
+|   | 风尘仆仆的女性 | Travel-Weary Woman | 急いでいる女性 |
 | avg_478_kirara_1 | 云母 | Kirara | キララ |
 |   | 绮良 |   |   |
 | avg_479_sleach_1 | 琴柳 | Janie | ジェニー |
@@ -348,12 +341,11 @@ tip: 请善用浏览器的搜索功能
 |   | 河刃小队佣兵队长 | Riverblade Squad Mercenary | 捜索中の傭兵 |
 |   | 混混B | Riverblade Squad Mercenary B | 物好きなバウンティハンター |
 |   | 王酋据点驻扎人员 | Riverblade Squad Mercenary Captain | 短気な傭兵 |
-|   | 粗暴的佣兵 | Rusthammer Warrior | 粗暴な賞金稼ぎ |
-|   | 粗暴的赏金猎人 | Searching Mercenary | 荒野の男 |
-|   | 精明的劫掠者 | Violent Bounty Hunter | 負傷した傭兵 |
-|   | 老乔 | Wastelander | 賞金稼ぎ |
-|   | 老队长 | Wounded Mercenary | 錆槌戦士 |
-|   | 荒地人 |   |   |
+|   | 粗暴的赏金猎人 | Rusthammer Warrior | 粗暴な賞金稼ぎ |
+|   | 精明的劫掠者 | Searching Mercenary | 荒野の男 |
+|   | 老乔 | Violent Bounty Hunter | 負傷した傭兵 |
+|   | 老队长 | Wastelander | 賞金稼ぎ |
+|   | 荒地人 | Wounded Mercenary | 錆槌戦士 |
 |   | 负伤的雇佣兵 |   |   |
 |   | 贪婪的佣兵 |   |   |
 |   | 赏金猎人 |   |   |
@@ -728,9 +720,8 @@ tip: 请善用浏览器的搜索功能
 |   | 汽水商人 | Soda Hawker | 感染者戦士 |
 | avg_npc_081 | 乌萨斯农民 | Muscular Man | ウルサス村人 |
 |   | 乌萨斯村民 | Shadow | ウルサス農民 |
-|   | 于里安 | Ursus Farmer | 屈強な男 |
-|   | 强壮的男人 | Ursus Villager | 黒い影 |
-|   | 憔悴的工人 |   |   |
+|   | 强壮的男人 | Ursus Farmer | 屈強な男 |
+|   | 憔悴的工人 | Ursus Villager | 黒い影 |
 |   | 雷蒙德 |   |   |
 |   | 黑影 |   |   |
 | avg_npc_082 | 乌萨斯军官 | Infected Patrol Unit | ウルサス兵士 |
@@ -865,7 +856,8 @@ tip: 请善用浏览器的搜索功能
 |   | 狱警B | Saria | 看守B |
 | avg_npc_137 | 杰斯顿 | Jailer | ジェッセルトン |
 |   | 狱警 | Jesselton | 看守 |
-| avg_npc_138 | 说书人 | Storyteller | 講談師 |
+| avg_npc_138 | 掌柜 | Storyteller | 講談師 |
+|   | 说书人 |   |   |
 | avg_npc_139 | 掌柜 | Dawn | レイ |
 |   | 黎 | Shopkeeper | 女将 |
 | avg_npc_140 | 二师兄 | First Apprentice | 一番弟子 |
@@ -902,7 +894,6 @@ tip: 请善用浏览器的搜索功能
 |   | 镜头 | M.P.M No. 1 | レンズ |
 |   | 镜子 |   |   |
 | avg_npc_151 | 贝娜 | Bena | ベナ |
-|   | 雷蒙德 |   |   |
 | avg_npc_152 | 安妮 | Annie | アニー |
 | avg_npc_155_1 | 芙兰卡 | Franka | フランカ |
 | avg_npc_156_1 | 雷蛇 | Liskarm | リスカム |
@@ -1171,7 +1162,6 @@ tip: 请善用浏览器的搜索功能
 |   | 克雷格 |   |   |
 |   | 寒酸的小贩 |   |   |
 |   | 瘦弱的孩子 |   |   |
-|   | 雷蒙德 |   |   |
 |   | 顽皮的孩子 |   |   |
 |   | 骑士 |   |   |
 | avg_npc_241 | 严肃的军官 | Guards Member | ヴィクトリア兵 |
@@ -1228,7 +1218,6 @@ tip: 请善用浏览器的搜索功能
 |   | 尖刻的军官 | Victorian Soldier B | 副官ヒル |
 |   | 巡逻队士兵 |   |   |
 |   | 巡逻队队员 |   |   |
-|   | 深池士兵？ |   |   |
 |   | 维多利亚军人A |   |   |
 |   | 维多利亚军人B |   |   |
 | avg_npc_249_1 | Touch | Touch | Touch |
@@ -1335,10 +1324,9 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_305_1 | 可疑的路人 | Hoodlum | チンピラ |
 |   | 市井混混 | Plated Fist Practitioner | 怪しい市民 |
 |   | 年轻的镖客 | Street Loafer | 街の青年 |
-|   | 强壮的男人 | Street Youth | 街の青年B |
-|   | 混混 | Street Youth B | 鉄甲門弟子 |
-|   | 街头混混 | Suspicious Passerby |   |
-|   | 街头青年 |   |   |
+|   | 混混 | Street Youth | 街の青年B |
+|   | 街头混混 | Street Youth B | 鉄甲門弟子 |
+|   | 街头青年 | Suspicious Passerby |   |
 |   | 街头青年B |   |   |
 |   | 铁甲拳门人 |   |   |
 |   | 黑帮打手 |   |   |
@@ -1713,8 +1701,7 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_694_1 | 文 | - | - |
 | avg_npc_695_1 | 瓦拉赫 | - | - |
 |   | 莱昂图索 |   |   |
-| avg_npc_696_1 | 兴奋的市民 | - | - |
-|   | 场务人员 |   |   |
+| avg_npc_696_1 | 场务人员 | - | - |
 |   | 小文员 |   |   |
 |   | 恐惧的服务员 |   |   |
 | avg_npc_697_1 | 书记员 | - | - |
@@ -1731,7 +1718,6 @@ tip: 请善用浏览器的搜索功能
 |   | 萨卢佐家族成员 |   |   |
 |   | 贝洛内家护卫 |   |   |
 |   | 贝洛内家族成员 |   |   |
-|   | 贾维 |   |   |
 |   | 轻佻的家族成员 |   |   |
 | avg_npc_699_1 | 坚定的法庭护卫 | - | - |
 |   | 愤怒的法庭护卫 |   |   |
@@ -1881,6 +1867,9 @@ tip: 请善用浏览器的搜索功能
 |   |   | Vanguard Operator |   |
 |   |   | Vanguard Operator B |   |
 | char_014_riope | Ace | Ace | Ace |
+|   | 杜宾 | Dobermann | ドーベルマン |
+| char_014_riope" ,name2="char_130_doberm_ex | Ace | Ace | Ace |
+|   | 杜宾 | Dobermann | ドーベルマン |
 | char_015_lmg | 兵俑 | Exhausted L.G.D. Officer | ジン警官 |
 |   | 循兽训练员 | Frivolous L.G.D. Officer | ベテラン近衛局員 |
 |   | 疲惫的近卫局成员 | Guard | 幻影兵 |
@@ -2123,9 +2112,7 @@ tip: 请善用浏览器的搜索功能
 |   |   |   | 宴 |
 | char_337_utage_story_1 | 宴 | Utage | ウタゲ |
 | char_337_utage_summer_1 | 宴 | Utage | ウタゲ |
-| char_338_iris | 于里安 | Iris | アイリス |
-|   | 爱丽丝 |   |   |
-|   | 雷蒙德 |   |   |
+| char_338_iris | 爱丽丝 | Iris | アイリス |
 | char_340_shwaz_2 | 黑 | Schwarz | シュヴァルツ |
 | char_341_amona_2 | 西蒙娜 | Simone | シモーネ |
 | char_343_tsukinogi_1 | 月禾 | Tsukinogi | ツキノギ |
