@@ -113,9 +113,8 @@ tip: 请善用浏览器的搜索功能
 | avg_362_saga_1 | 嵯峨 | - | - |
 | avg_363_toddi_1 | 熔泉 | Toddifons | トギフォンス |
 | avg_365_aprl_1 | 爱尔莉 | Aerlie | エルリー |
-| avg_377_gdglow_1 | 夏栎 | Goldenglow | ゴールデングロー |
-|   | 澄闪 | Susie | スージー |
-|   | 苏茜 |   |   |
+| avg_377_gdglow_1 | 澄闪 | Goldenglow | ゴールデングロー |
+|   | 苏茜 | Susie | スージー |
 | avg_378_asbest_1 | 石棉 | Asbestos | アスベストス |
 | avg_388_mint_1 | 焦急的研究者 | - | - |
 |   | 薄绿 |   |   |
