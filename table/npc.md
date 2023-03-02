@@ -8,7 +8,6 @@ tip: 请善用浏览器的搜索功能
 | --- | --- | --- | --- |
 | AVG_char_501_Durin_1 | 杜林 | Durin | ドゥリン |
 | avg_007_closre_1 | 可露希尔 | - | - |
-|   | 服务生 |   |   |
 | avg_1012_skadiSP_1 | 斯卡蒂 | Skadi | スカジ |
 | avg_1013_spchen_1 | 陈 | Ch'en | チェン |
 | avg_1014_nearl2_1 | 临光 | Margaret | ニアール |
@@ -116,8 +115,7 @@ tip: 请善用浏览器的搜索功能
 | avg_377_gdglow_1 | 澄闪 | Goldenglow | ゴールデングロー |
 |   | 苏茜 | Susie | スージー |
 | avg_378_asbest_1 | 石棉 | Asbestos | アスベストス |
-| avg_388_mint_1 | 焦急的研究者 | - | - |
-|   | 薄绿 |   |   |
+| avg_388_mint_1 | 薄绿 | - | - |
 | avg_4000_jnight_1 | “正义骑士号” | 'Justice Knight' | 「ジャスティスナイト」 |
 |   | 机械凶兽 | Archbeast Mechanica | ジャスティスナイト |
 |   | 正义骑士号 | Justice Knight | 機械凶獣 |
@@ -133,10 +131,7 @@ tip: 请善用浏览器的搜索功能
 | avg_402_tuye_1 | 图耶 | - | - |
 | avg_4032_provs_1 | 黛丝特 | - | - |
 | avg_4036_forcer_1 | 艾泽尔 | Ezell | エゼル |
-| avg_4039_horn_1 | 号角 | Dublinn Comms | ダブリン兵士B |
-|   | 深池士兵B | Dublinn Soldier B | ダブリン通信音 |
-|   | 深池通讯声 | Horn | ホルン |
-|   | 蔓德拉 | Mandragora | マンドラゴラ |
+| avg_4039_horn_1 | 号角 | Horn | ホルン |
 | avg_4040_rockr_1 | 洛洛 | Rockrock | ロックロック |
 |   | 罗谢尔 |   |   |
 | avg_4042_lumen_1 | 乔迪 | Jordi | ジョディ |
@@ -178,7 +173,6 @@ tip: 请善用浏览器的搜索功能
 | avg_440_pinecn_1 | 松果 | Pinecone | パインコーン |
 | avg_449_glider_1 | 蜜莓 | Honeyberry | ハニーベリー |
 | avg_452_bstalk_1 | 豆苗 | - | - |
-|   | 野生磐蟹 |   |   |
 | avg_469_indigo_1 | 艾莉亚 | Aria | アリア |
 | avg_473_mberry_1 | 夜半 | Mulberry | マルベリー |
 |   | 桑葚 |   |   |
@@ -211,7 +205,6 @@ tip: 请善用浏览器的搜索功能
 | avg_NPC_460_1 | 费利佩 | Felipe | フェリペ |
 | avg_NPC_462_1 | 友善的女性 | Friendly Woman | 親切な女性 |
 | avg_lolxh_4067_1 | 小黑 | - | - |
-|   | 黑咻 |   |   |
 | avg_npc_001 | 凹眼眶的掘墓人 | A Kazimierz Villager | フェロン |
 |   | 卡西米尔村民 | A Shopkeeper | 住民 |
 |   | 奇怪的路人？ | A Strange Passerby | 労働者 |
@@ -677,15 +670,14 @@ tip: 请善用浏览器的搜索功能
 |   | 兴奋的阿达克利斯人 | Archosauria A | アダクリス人 |
 |   | 受伤的部族人 | Archosauria B | アダクリス人A |
 |   | 尤塔 | Archosauria Warrior | アダクリス人B |
-|   | 族长A | Clan Leader A | アダクリス人たち |
-|   | 流泪的部族人 | Excited Archosauria | ウダイ |
-|   | 认真的阿达克利斯人 | Group of Archosauria | ヨタ |
-|   | 部族人 | Serious Archosauria | 族長A |
-|   | 部族人B | Uda | 真面目なアダクリス人 |
-|   | 阿达克利斯人 | Yota | 興奮したアダクリス人 |
-|   | 阿达克利斯人A |   | 興奮するアダクリス人 |
+|   | 族长A | Clan Leader A | ウダイ |
+|   | 流泪的部族人 | Excited Archosauria | ヨタ |
+|   | 认真的阿达克利斯人 | Serious Archosauria | 族長A |
+|   | 部族人 | Uda | 真面目なアダクリス人 |
+|   | 部族人B | Yota | 興奮したアダクリス人 |
+|   | 阿达克利斯人 |   | 興奮するアダクリス人 |
+|   | 阿达克利斯人A |   |   |
 |   | 阿达克利斯人B |   |   |
-|   | 阿达克利斯人们 |   |   |
 |   | 阿达克利斯勇士 |   |   |
 | avg_npc_072 | 伤心的部族人 | Archosauria B | アダクリス人B |
 |   | 害羞的阿达克利斯人 | Archosauria C | アダクリス人C |
@@ -994,9 +986,8 @@ tip: 请善用浏览器的搜索功能
 |   | 无言的达里奥 | Inquisitor Irene | 言葉なきダリオ |
 | avg_npc_184 | 主教 | Bishop | 司教 |
 |   | 盐风主教 | Sal Viento Bishop | 潮風の司教 |
-| avg_npc_186 | 主教 | Bishop | 「シーボーン」 |
-|   | 海嗣 | Seaborn | シーボーン |
-|   |   |   | 司教 |
+| avg_npc_186 | 海嗣 | Seaborn | 「シーボーン」 |
+|   |   |   | シーボーン |
 | avg_npc_187 | 男性居民B | Male Inhabitant B | 男性住民B |
 | avg_npc_189 | 男性居民D | Male Inhabitant D | 男性住民D |
 | avg_npc_190_1 | 艾雅法拉 | Eyjafjalla | エイヤフィヤトラ |
@@ -1470,10 +1461,9 @@ tip: 请善用浏览器的搜索功能
 |   | 诡异的教徒 | Strange Adherent | 緊張気味の深海教徒 |
 |   | 负责拷问的教徒 | Torturer Cultist |   |
 | avg_npc_454_1 | 受伤的教徒 | Church of the Deep Cultist B | 傷付いた深海教徒 |
-|   | 外来的教士 | Deceased Sea Terror | 寡黙な深海教徒 |
-|   | 奇怪的外来人 | Silent Cultist | 死んだ恐魚 |
-|   | 寡言的教徒 | Tight-Lipped Adherent | 深海教徒B |
-|   | 死去的恐鱼 | Wounded Cultist | 物静かな深海教徒 |
+|   | 外来的教士 | Silent Cultist | 寡黙な深海教徒 |
+|   | 奇怪的外来人 | Tight-Lipped Adherent | 深海教徒B |
+|   | 寡言的教徒 | Wounded Cultist | 物静かな深海教徒 |
 |   | 沉默的教徒 |   |   |
 |   | 深海教徒B |   |   |
 | avg_npc_455_1 | 海嗣 | Seaborn | シーボーン |
@@ -1866,9 +1856,7 @@ tip: 请善用浏览器的搜索功能
 |   |   | Vanguard Operator |   |
 |   |   | Vanguard Operator B |   |
 | char_014_riope | Ace | Ace | Ace |
-|   | 杜宾 | Dobermann | ドーベルマン |
 | char_014_riope" ,name2="char_130_doberm_ex | Ace | Ace | Ace |
-|   | 杜宾 | Dobermann | ドーベルマン |
 | char_015_lmg | 兵俑 | Exhausted L.G.D. Officer | ジン警官 |
 |   | 循兽训练员 | Frivolous L.G.D. Officer | ベテラン近衛局員 |
 |   | 疲惫的近卫局成员 | Guard | 幻影兵 |
@@ -1929,9 +1917,8 @@ tip: 请善用浏览器的搜索功能
 |   | 能天使 | Exusiai | エンペラー |
 | char_105_emper | 大帝 | Emperor | エンペラー |
 | char_106_franka_1 | 芙兰卡 | Franka | フランカ |
-| char_107_liskam_1 | 测试负责人 | Franka | テスト責任者 |
-|   | 芙兰卡 | Liskarm | フランカ |
-|   | 雷蛇 | Testing Supervisor | リスカム |
+| char_107_liskam_1 | 芙兰卡 | Franka | フランカ |
+|   | 雷蛇 | Liskarm | リスカム |
 | char_108_silent_1 | 赫默 | Silence | サイレンス |
 | char_109_fmout_1 | 远山 | Gitano | ギターノ |
 | char_112_seige_1 | 推进之王 | Siege | シージ |
@@ -2085,8 +2072,7 @@ tip: 请善用浏览器的搜索功能
 | char_285_medic2_1 | Lancet-2 | Lancet-2 | Lancet-2 |
 | char_290_vigna | 红豆 | Vigna | ヴィグナ |
 | char_291_aglina_1 | 安洁莉娜 | Angelina | アンジェリーナ |
-| char_293_thorns_1 | 不起眼的游客 | Elysium | エリジウム |
-|   | 极境 | Thorns | ソーンズ |
+| char_293_thorns_1 | 不起眼的游客 | Thorns | ソーンズ |
 |   | 棘刺 | Unremarkable Tourist | 冴えない観光客 |
 | char_293_thorns_n_1 | 棘刺 | Thorns | ソーンズ |
 | char_294_ayer | 断崖 | Ayerscarpe | エアースカーペ |
@@ -2174,7 +2160,6 @@ tip: 请善用浏览器的搜索功能
 |   | 哭泣的老人 |   |   |
 | npc_10002 | Mon3tr | Mon3tr | Mon3tr |
 | npc_2001_Aya_1 | Aya | Aya | Aya |
-|   | 幽灵鲨？ | Specter? | スペクター？ |
 | npc_2001_Aya_rock | Aya | Aya | Aya |
 | npc_2002_Dan_1 | Dan | Dan | Dan |
 | npc_2002_Dan_rock | Dan | Dan | Dan |
