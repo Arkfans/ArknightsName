@@ -589,6 +589,24 @@ tip: 请善用浏览器的搜索功能
 | enemy_1301_ymcnon_2 | “碎壁” | - | - |
 | enemy_1302_ymtro | “履平沙” | - | - |
 | enemy_1302_ymtro_2 | “越长尘” | - | - |
+| enemy_1303_mhshep | 角兽 | - | - |
+| enemy_1303_mhshep_2 | 亢角兽 | - | - |
+| enemy_1304_mhwolf | 鬣犄兽 | - | - |
+| enemy_1304_mhwolf_2 | 利齿鬣犄兽 | - | - |
+| enemy_1305_mhslim | 灼热源石虫 | - | - |
+| enemy_1305_mhslim_2 | 炽焰源石虫 | - | - |
+| enemy_1306_mhtrtl | 硬甲爪兽 | - | - |
+| enemy_1306_mhtrtl_2 | 刚甲爪兽 | - | - |
+| enemy_1307_mhrhcr | 岩冠兽 | - | - |
+| enemy_1307_mhrhcr_2 | 坚岩冠兽 | - | - |
+| enemy_1308_mheagl | 锋羽兽 | - | - |
+| enemy_1308_mheagl_2 | 迅猛锋羽兽 | - | - |
+| enemy_1309_mhboar | 凶豕兽 | - | - |
+| enemy_1309_mhboar_2 | 狂暴凶豕兽 | - | - |
+| enemy_1310_mhprpn | 棘兽 | - | - |
+| enemy_1310_mhprpn_2 | 箭棘兽 | - | - |
+| enemy_1311_mhkryk | 狡兽 | - | - |
+| enemy_1311_mhkryk_2 | 恶狡兽 | - | - |
 | enemy_1312_ymillu | “无念之冬” | - | - |
 | enemy_1500_skulsr | 碎骨 | Skullshatterer | SkullShredder |
 | enemy_1501_demonk | 萨卡兹百夫长 | Sarkaz Centurion | サルカズケントゥリオ |
@@ -626,6 +644,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1533_stmkgt | “最后的蒸汽骑士” | - | - |
 | enemy_1535_wlfmster | 扎罗，“狼之主”  | - | - |
 | enemy_1536_ncrmcr | “领袖”  | - | - |
+| enemy_1537_mhrors | 火龙 | - | - |
 | enemy_1538_ymmons | “睚” | - | - |
 | enemy_1538_ymmons_2 | 蜃景 | - | - |
 | enemy_1538_ymmons_3 | 妄境 | - | - |

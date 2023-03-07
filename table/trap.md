@@ -99,8 +99,13 @@ tip: 请善用浏览器的搜索功能
 | trap_096_gflag | 山海密语仪 | - | - |
 | trap_097_hstone | 城防路障 | - | - |
 | trap_098_mire | 沼泽控制 | - | - |
+| trap_099_mhflsb | 眩光手雷 | - | - |
+| trap_100_mhlbmb | 高能源石爆桶 | - | - |
+| trap_101_mhshok | 高压脉冲诡雷 | - | - |
+| trap_102_mhwrbg | 滞空牵引无人机 | - | - |
 | trap_103_ymdgct | 地形增伤控制 | - | - |
 | trap_104_dplant | 改性植物激素 | - | - |
+| trap_105_mhwrct | 滞空牵引无人机 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | - | - |
 | trap_401_xbfato | 采集实习站 | - | - |
 | trap_403_wfactory | 蟹蟹抽水泵 | - | - |

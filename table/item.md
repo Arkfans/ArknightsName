@@ -138,6 +138,8 @@ tip: 请善用浏览器的搜索功能
 | LIMITED_TKT_GACHA_10_3501 | 长风万里寻访凭证 | - | - |
 | LIMITED_TKT_GACHA_10_903 | 苏醒纪念寻访凭证 | Awakening Commemoration Permit | 1周年記念10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_1701 | 特勤专家寻访凭证 | Elite Forces Headhunting Permit | 精鋭小隊10回スカウト券 |
+| LINKAGE_TKT_GACHA_10_3601 | 指引明路寻访凭证 | - | - |
+| LINKAGE_TKT_GACHA_10_3602 | 合作限定十连寻访凭证 | - | - |
 | LMTGS_COIN_1401 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_1601 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_1803 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
@@ -217,6 +219,12 @@ tip: 请善用浏览器的搜索功能
 | act21side_token_permesso | 进货通行证 | - | - |
 | act22side_token_manuscript | 手抄歌谣集 | - | - |
 | act23side_token_spirit | 新酿烈刀子 | - | - |
+| act24side_melding_1 | 破碎的骨片 | - | - |
+| act24side_melding_2 | 源石虫的硬壳 | - | - |
+| act24side_melding_3 | 鬣犄兽的尖锐齿 | - | - |
+| act24side_melding_4 | 凶豕兽的厚实皮 | - | - |
+| act24side_melding_5 | “兽之泪” | - | - |
+| act24side_melding_6 | 火龙的红玉 | - | - |
 | act2bossrush_milestone_point | 试炼经验 | - | - |
 | act2bossrush_relic_01 | 修复套件 | - | - |
 | act2bossrush_relic_02 | 维续补丁 | - | - |
@@ -303,6 +311,7 @@ tip: 请善用浏览器的搜索功能
 | clue_Rap_5_rep_1 | 说唱动态5 | Rap Trend 5 | ラップサイド5 |
 | et_ObsidianPass | 黑曜石节门票 | Obsidian Festival Ticket | フェスチケット |
 | et_ObsidianPass_rep_1 | 黑曜石节门票 | Obsidian Festival Ticket | フェスチケット |
+| itempack_gacha_1 | 福运鼓鼓礼袋 | - | - |
 | itempack_mod_10 | 狙击芯片组印刻仪 | - | - |
 | itempack_mod_11 | 术师芯片组印刻仪 | - | - |
 | itempack_mod_12 | 医疗芯片组印刻仪 | - | - |
@@ -337,7 +346,9 @@ tip: 请善用浏览器的搜索功能
 | p_char_1026_gvial2 | 百炼嘉维尔的信物 | Gavial the Invincible's Token | 百錬ガヴィルの印 |
 | p_char_1027_greyy2 | 承曦格雷伊的信物 | - | - |
 | p_char_1028_texas2 | 缄默德克萨斯的信物 | - | - |
+| p_char_1029_yato2 | 麒麟X夜刀的信物 | - | - |
 | p_char_102_texas | 德克萨斯的信物 | Texas's Token | テキサスの印 |
+| p_char_1030_noirc2 | 火龙S黑角的信物 | - | - |
 | p_char_103_angel | 能天使的信物 | Exusiai's Token | エクシアの印 |
 | p_char_106_franka | 芙兰卡的信物 | Franka's Token | フランカの印 |
 | p_char_107_liskam | 雷蛇的信物 | Liskarm's Token | リスカムの印 |
@@ -538,6 +549,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4066_highmo | 海沫的信物 | - | - |
 | p_char_4071_peper | 明椒的信物 | - | - |
 | p_char_4072_ironmn | 白铁的信物 | - | - |
+| p_char_4077_palico | 泰拉大陆调查团的信物 | - | - |
 | p_char_4078_bdhkgt | 截云的信物 | - | - |
 | p_char_4080_lin | 林的信物 | - | - |
 | p_char_4082_qiubai | 仇白的信物 | - | - |

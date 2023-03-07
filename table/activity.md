@@ -35,6 +35,7 @@ tip: 请善用浏览器的搜索功能
 | act14d0d1 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act14d0d2 | 登录领取奖励 | Sign-in Campaign | ログイン報酬 |
 | act14d7 | 喧闹法则·复刻 | Code of Brawl - Rerun | 喧騒の掟・復刻 |
+| act14login | 登录领取奖励 | - | - |
 | act14mini | 春分 | - | - |
 | act14side | 风雪过境 | Break the Ice | 風雪一過 |
 | act14sre | 风雪过境·复刻 | - | - |
@@ -67,6 +68,7 @@ tip: 请善用浏览器的搜索功能
 | act19sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act1bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act1d5 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
+| act1flip | 哗啦啦祈愿牌 | - | - |
 | act1float | 纽莱堡市产业合作洽谈会 | - | - |
 | act1lock | 荷谟伊智境 | Hymnoi Wisdom | ヒュムノイの叡智 |
 | act1sandbox | 生息演算：沙中之火 | - | - |
@@ -78,6 +80,7 @@ tip: 请善用浏览器的搜索功能
 | act22sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act23side | 登临意 | - | - |
 | act23sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
+| act24side | 落叶逐火 | - | - |
 | act24sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act25sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act26sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |

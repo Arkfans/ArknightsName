@@ -96,6 +96,8 @@ tip: 请善用浏览器的搜索功能
 | act22side_zone2 | 记忆灰烬 | - | - |
 | act23side_zone1 | 城中调查 | - | - |
 | act23side_zone2 | 关外追凶 | - | - |
+| act24side_zone1 | 苍暮山地 | - | - |
+| act24side_zone2 | 艾露猫的委托柜台 | - | - |
 | act2bossrush_zone1 | 强敌当前 | - | - |
 | act5d0_zone1 | 下城区 | Downtown | 繁華街 |
 | act5d0_zone2 | 东部郊区 | Eastern Suburbs | 東部郊外 |

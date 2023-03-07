@@ -22,7 +22,9 @@ tip: 请善用浏览器的搜索功能
 | char_1026_gvial2 | 百炼嘉维尔 | Gavial the Invincible | 百錬ガヴィル |
 | char_1027_greyy2 | 承曦格雷伊 | - | - |
 | char_1028_texas2 | 缄默德克萨斯 | - | - |
+| char_1029_yato2 | 麒麟X夜刀 | - | - |
 | char_102_texas | 德克萨斯 | Texas | テキサス |
+| char_1030_noirc2 | 火龙S黑角 | - | - |
 | char_103_angel | 能天使 | Exusiai | エクシア |
 | char_106_franka | 芙兰卡 | Franka | フランカ |
 | char_107_liskam | 雷蛇 | Liskarm | リスカム |
@@ -226,6 +228,7 @@ tip: 请善用浏览器的搜索功能
 | char_4067_lolxh | 罗小黑 | - | - |
 | char_4071_peper | 明椒 | - | - |
 | char_4072_ironmn | 白铁 | - | - |
+| char_4077_palico | 泰拉大陆调查团 | - | - |
 | char_4078_bdhkgt | 截云 | - | - |
 | char_4080_lin | 林 | - | - |
 | char_4082_qiubai | 仇白 | - | - |

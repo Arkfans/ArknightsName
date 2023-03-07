@@ -160,6 +160,7 @@ tip: 请善用浏览器的搜索功能
 | char_328_cammou@witch#2 | 安息处的怪盗 | Grave Thief | 霊園の怪盗 |
 | char_332_archet@shining#1 | 宣传策略 | Publicity Strategy | PR戦略 |
 | char_333_sidero@summer#6 | 轻风 LB03 | Light Breeze LB03 | そよ風LB03 |
+| char_336_folivo@epoque#22 | 别枝 | - | - |
 | char_337_utage@epoque#15 | 伪装 | - | - |
 | char_337_utage@summer#4 | 夏卉 FA661 | Summer Flowers FA661 | 夏の花弁FA661 |
 | char_338_iris@witch#3 | 镜中来访 | - | - |
@@ -174,6 +175,7 @@ tip: 请善用浏览器的搜索功能
 | char_350_surtr@summer#9 | 缤纷奇境 CW03 | Colorful Wonderland CW03 | 極彩の楽園CW03 |
 | char_355_ethan@epoque#7 | 渗透 | Infiltrator | 同化 |
 | char_356_broca@marthe#4 | 组间休息 | Rest Between Sets | インターバル |
+| char_358_lisa@epoque#22 | 雪霁 | - | - |
 | char_358_lisa@lxh#1 | 春之颂 | - | - |
 | char_358_lisa@wild#3 | 弃土花开 | Lostlands Flowering | 荒地に咲く花 |
 | char_365_aprl@wild#3 | 远望 | Faraway Gaze | 遠望 |
@@ -184,6 +186,7 @@ tip: 请善用浏览器的搜索功能
 | char_377_gdglow@snow#5 | 喜夜侍者 | - | - |
 | char_378_asbest@whirlwind#3 | 幽谷奏鸣 | Glen Sonata | グレンソナタ |
 | char_383_snsant@witch#2 | 天命勇者 | Fated Hero | 宿命の勇者 |
+| char_388_mint@epoque#22 | 月宵 | - | - |
 | char_391_rosmon@epoque#17 | 拥抱新生 | - | - |
 | char_4004_pudd@snow#5 | 火树灵 | - | - |
 | char_400_weedy@snow#2 | 糖果仙子 | Candy Cape | キャンディフェアリー |
@@ -197,6 +200,7 @@ tip: 请善用浏览器的搜索功能
 | char_4040_rockr@lxh#1 | 欢唱之前 | - | - |
 | char_4043_erato@snow#5 | 未讲述的故事 | - | - |
 | char_4055_bgsnow@wild#7 | 字句中的雪原 | - | - |
+| char_4077_palico@mh#1 | 跃上街头 | - | - |
 | char_411_tomimi@summer#5 | 静谧午夜 DN04 | Silent Night DN04 | 安息の午夜DN04 |
 | char_415_flint@boc#3 | 绚烂夏花 | Gorgeous Flower | 紫藤繚乱 |
 | char_416_zumama@boc#3 | 熔锻铸匠 | Forgemaster | 熔冶工匠 |

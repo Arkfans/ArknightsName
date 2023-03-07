@@ -341,6 +341,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_nightm_1 | 灵魂汲取 | Drain Soul | ソウルドレイン |
 | skchr_nightm_2 | 夜魇魔影 | Night Phantom | ナイトシャドウ |
 | skchr_nights_2 | 赤色之瞳 | Crimson Eyes | 赤色の瞳 |
+| skchr_noirc2_1 | 居合拔刀气刃斩 | - | - |
+| skchr_noirc2_2 | 气刃兜割 | - | - |
 | skchr_nothin_1 | 知难而退 | Cautious Retreat | 引き際の心得 |
 | skchr_nothin_2 | 阴晴圆缺 | Wax and Wane | 諸行無常 |
 | skchr_otter_1 | 迷惑装置 | Bionic Device | 攪乱装置 |
@@ -512,6 +514,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_wyvern_1 | 冲锋号令·援军 | Command - Reinforcement | 突撃指令・援軍 |
 | skchr_yak_1 | 体能强化 | Stamina Enhancement | 肉体強化 |
 | skchr_yak_2 | 抗寒体质 | Cold Resistance | 寒冷順化 |
+| skchr_yato2_1 | 鬼人化 | - | - |
+| skchr_yato2_2 | 乱舞 | - | - |
+| skchr_yato2_3 | 空中回旋乱舞 | - | - |
 | skchr_yuki_1 | 敌飙 | Shuriken | ユキケムリ |
 | skchr_yuki_2 | 凝武 | Fatal Shuriken | カザグルマ |
 | skchr_zebra_1 | 应急迷彩 | Emergency Camouflage | 応急迷彩 |
@@ -643,6 +648,11 @@ tip: 请善用浏览器的搜索功能
 | sktok_mgllan_drone1 | 回收 | Recycle | 回収 |
 | sktok_mgllan_drone2 | 回收 | Recycle | 回収 |
 | sktok_mgllan_drone3 | 回收 | Recycle | 回収 |
+| sktok_mhflsb | 眩光手雷 | - | - |
+| sktok_mhlbmb | 高能源石爆桶 | - | - |
+| sktok_mhshok | 高压脉冲诡雷 | - | - |
+| sktok_mhwrbg | 滞空牵引无人机 | - | - |
+| sktok_mhwrct | 滞空牵引无人机 | - | - |
 | sktok_mine | 触爆 | Detonate | 接触式起爆 |
 | sktok_mire | 沼泽控制 | - | - |
 | sktok_motter_1 | 迷惑装置 | Bionic Device | 攪乱装置 |

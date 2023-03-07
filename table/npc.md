@@ -20,6 +20,8 @@ tip: 请善用浏览器的搜索功能
 | avg_1026_gvial2_1 | 嘉维尔 | Gavial | ガヴィル |
 | avg_1027_greyy2_1 | 格雷伊 | Greyy | 格雷伊 |
 | avg_1028_texas2_1 | 德克萨斯 | - | - |
+| avg_1029_Yato2_1 | 夜刀 | - | - |
+| avg_1030_noirc2_1 | 黑角 | - | - |
 | avg_103_angel_1 | 能天使 | Exusiai | エクシア |
 | avg_106_franka_1 | 芙兰卡 | Franka | フランカ |
 | avg_108_silent_1 | 赫默 | Silence | 赫默 |
@@ -115,6 +117,7 @@ tip: 请善用浏览器的搜索功能
 | avg_377_gdglow_1 | 澄闪 | Goldenglow | ゴールデングロー |
 |   | 苏茜 | Susie | スージー |
 | avg_378_asbest_1 | 石棉 | Asbestos | アスベストス |
+| avg_383_snsant_1 | 雪雉 | - | - |
 | avg_388_mint_1 | 薄绿 | - | - |
 | avg_4000_jnight_1 | “正义骑士号” | 'Justice Knight' | 「ジャスティスナイト」 |
 |   | 机械凶兽 | Archbeast Mechanica | ジャスティスナイト |
@@ -194,6 +197,8 @@ tip: 请善用浏览器的搜索功能
 |   | 夏栎？ |   |   |
 | avg_496_wdmane_1 | 狂野的骑士 | A Wild Knight | イヴォナ |
 |   | 艾沃娜 | Iwona | ワイルドな騎士 |
+| avg_502_Yato_1 | 夜刀 | - | - |
+|   | 黑角 |   |   |
 | avg_502_nblade_1 | 夜刀 | Yato | ヤトウ |
 | avg_NPC_017_3 | D.D.D. | D.D.D. | D.D.D. |
 | avg_NPC_178 | 画店店主 | Skeptical Townsfolk | 懐疑的な村人 |
@@ -483,34 +488,36 @@ tip: 请善用浏览器的搜索功能
 |   | 路过的旅人 | Staged(?) Female Passerby | 通りすがりの旅人 |
 |   | 路过的游客A | Trapped Lungmen Citizen | 通りすがりの観光客A |
 |   | 邻居 | Young Citizen A | 騒がしい観客 |
+|   | 阿尔瓦 |   |   |
 |   | 青年市民A |   |   |
 | avg_npc_033 | 一般龙门市民 | A Spectator | イベント参加者？ |
-|   | 冷静下来的粉丝 | A Spectator B | ケガした滷水幇 |
-|   | 凶恶的卤水帮成员 | A Tourist | スラム住民感染者 |
-|   | 受伤的卤水帮成员 | A Tourist B | スラム街住民 |
-|   | 年轻的受困者 | An Audience Member B | ロドス事務員 |
-|   | 惊慌的龙门市民 | An Excited Spectator | 市民B |
-|   | 愤怒的卤水帮成员 | Angry Lou Seoi Member | 強面な滷水幇 |
-|   | 手下 | Drunk | 普通そうな住民 |
-|   | 无辜的路人 | Hapless Man | 激怒した滷水幇 |
-|   | 普通办事员 | Infected Slum Dweller | 無実の通行人 |
-|   | 游客 | Injured Lou Seoi Member | 男性住人 |
-|   | 游客B | Innocent Passerby | 男性旅行客 |
-|   | 潦倒的男人 | Lungmenite? | 興奮する観客 |
-|   | 激动的粉丝 | Male Lungmenite | 落ちぶれた男 |
-|   | 激动的观众 | Male Resident | 観光客 |
-|   | 男性居民 | Male Tourist | 観光客B |
-|   | 男性游客 | Noodle Shop Owner | 観客 |
-|   | 男性路人 | Ordinary Clerk | 観客B |
-|   | 疑惑的粉丝 | Ordinary Lungmen Citizen | 通りすがりの客 |
-|   | 看似普通的居民 | Panicked Lungmen Citizen | 部下 |
-|   | 观众 | Passerby Customer | 驚いた龍門市民 |
-|   | 观众B | Rat King's Henchman | 麵屋の店長 |
-|   | 贫民区感染者 | Seemingly Ordinary Resident | 鼠王の部下 |
-|   | 贫民窟居民 | Slum Dweller | 龍門の一般市民 |
-|   | 路过的客人 | Subordinate | 龍門の人？ |
-|   | 酒保 | Vicious-Looking Lou Seoi Member | 龍門の男性 |
-|   | 酒客？ | Young Citizen B |   |
+|   | 主持人 | A Spectator B | ケガした滷水幇 |
+|   | 冷静下来的粉丝 | A Tourist | スラム住民感染者 |
+|   | 凶恶的卤水帮成员 | A Tourist B | スラム街住民 |
+|   | 受伤的卤水帮成员 | An Audience Member B | ロドス事務員 |
+|   | 年轻的受困者 | An Excited Spectator | 市民B |
+|   | 惊慌的龙门市民 | Angry Lou Seoi Member | 強面な滷水幇 |
+|   | 愤怒的卤水帮成员 | Drunk | 普通そうな住民 |
+|   | 手下 | Hapless Man | 激怒した滷水幇 |
+|   | 无辜的路人 | Infected Slum Dweller | 無実の通行人 |
+|   | 普通办事员 | Injured Lou Seoi Member | 男性住人 |
+|   | 游客 | Innocent Passerby | 男性旅行客 |
+|   | 游客B | Lungmenite? | 興奮する観客 |
+|   | 潦倒的男人 | Male Lungmenite | 落ちぶれた男 |
+|   | 激动的粉丝 | Male Resident | 観光客 |
+|   | 激动的观众 | Male Tourist | 観光客B |
+|   | 男性居民 | Noodle Shop Owner | 観客 |
+|   | 男性游客 | Ordinary Clerk | 観客B |
+|   | 男性路人 | Ordinary Lungmen Citizen | 通りすがりの客 |
+|   | 疑惑的粉丝 | Panicked Lungmen Citizen | 部下 |
+|   | 看似普通的居民 | Passerby Customer | 驚いた龍門市民 |
+|   | 观众 | Rat King's Henchman | 麵屋の店長 |
+|   | 观众B | Seemingly Ordinary Resident | 鼠王の部下 |
+|   | 贫民区感染者 | Slum Dweller | 龍門の一般市民 |
+|   | 贫民窟居民 | Subordinate | 龍門の人？ |
+|   | 路过的客人 | Vicious-Looking Lou Seoi Member | 龍門の男性 |
+|   | 酒保 | Young Citizen B |   |
+|   | 酒客？ |   |   |
 |   | 青年市民B |   |   |
 |   | 面馆老板 |   |   |
 |   | 鼠王的部下 |   |   |
@@ -713,6 +720,7 @@ tip: 请善用浏览器的搜索功能
 |   | 乌萨斯村民 | Shadow | ウルサス農民 |
 |   | 强壮的男人 | Ursus Farmer | 屈強な男 |
 |   | 憔悴的工人 | Ursus Villager | 黒い影 |
+|   | 陌生人 |   |   |
 |   | 雷蒙德 |   |   |
 |   | 黑影 |   |   |
 | avg_npc_082 | 乌萨斯军官 | Infected Patrol Unit | ウルサス兵士 |
@@ -735,6 +743,7 @@ tip: 请善用浏览器的搜索功能
 |   | 沉稳的罗德岛干员 | Steady Rhodes Island Operator | 摆摊的干员 |
 |   | 着急的小干员 | Young Studying Operator | 支援オペレーター |
 |   | 罗德岛外勤干员 |   | 術師オペレーター |
+|   | 罗德岛干员 |   |   |
 |   | 闲聊的干员 |   |   |
 |   | 领航员A |   |   |
 | avg_npc_089 | 办事处干员B | Field Operator | シュレッダー |
@@ -962,8 +971,9 @@ tip: 请善用浏览器的搜索功能
 |   | 威廉 | Officer-in-Charge | 派手に着飾った男 |
 |   | 富有的男性 | Pretentious Man | 現地の裁判官B |
 |   | 年长的项目经理 | Wealthily-Dressed Man | 貴族の男性 |
-|   | 本地法官B | Wildly Ambitious Baron | 野心に満ちた男爵 |
-|   | 看不清脸的商人 | William | 風流人ぶる男 |
+|   | 库珀议员 | Wildly Ambitious Baron | 野心に満ちた男爵 |
+|   | 本地法官B | William | 風流人ぶる男 |
+|   | 看不清脸的商人 |   |   |
 |   | 精明的贵族 |   |   |
 |   | 衣着富贵的男人 |   |   |
 |   | 贝希曼 |   |   |
@@ -1503,10 +1513,11 @@ tip: 请善用浏览器的搜索功能
 |   | 贵族侍卫 | Spire Caster | 高塔の術師 |
 |   | 高塔术师 |   | 高塔術師 |
 | avg_npc_492_1 | 冷漠的贵族 | Aloof Noble | ルイス |
-|   | 畏首畏尾的贵族 | Cowardly Noble | 冷淡な貴族 |
-|   | 路易斯 | Frivolous Noble | 心配性な貴族 |
-|   | 轻浮的贵族 | Louis | 軽薄な貴族 |
-|   | 附庸风雅的贵族 | Pretentious Noble | 風流人ぶる貴族 |
+|   | 德夫林 | Cowardly Noble | 冷淡な貴族 |
+|   | 畏首畏尾的贵族 | Frivolous Noble | 心配性な貴族 |
+|   | 路易斯 | Louis | 軽薄な貴族 |
+|   | 轻浮的贵族 | Pretentious Noble | 風流人ぶる貴族 |
+|   | 附庸风雅的贵族 |   |   |
 | avg_npc_493_1 | 匆忙的贵族 | Calm Noble | 急いでいる貴族 |
 |   | 挑剔的评论家 | Fretful Noble | 無表情な貴族 |
 |   | 沉稳的贵族 | Nitpicking Critic | 落ち着いた貴族 |
@@ -1535,21 +1546,24 @@ tip: 请善用浏览器的搜索功能
 |   | 迟疑的感染者 | Schneider | 興奮する感染者 |
 |   | 醉酒的感染者 | Skittish Infected | 酔っぱらった感染者 |
 |   | 颓废的感染者 |   |   |
-| avg_npc_499_1 | 兴奋的夕照区居民 | Excited Afterglow Resident | バッハマンの娘 |
-|   | 小店老板 | Leithanian Woman | リターニアの女性 |
-|   | 巴赫曼小姐 | Miss Bachmann | 疲れ切った感染者 |
-|   | 疲惫的感染者 | Passerby Infected | 興奮するアフターグロー区住民 |
-|   | 莱塔尼亚女性 | Worn-out Infected | 興奮する住民 |
-|   | 路过的感染者 |   | 通りすがりの感染者 |
+| avg_npc_499_1 | 佩里太太 | Excited Afterglow Resident | バッハマンの娘 |
+|   | 兴奋的夕照区居民 | Leithanian Woman | リターニアの女性 |
+|   | 小店老板 | Miss Bachmann | 疲れ切った感染者 |
+|   | 巴赫曼小姐 | Passerby Infected | 興奮するアフターグロー区住民 |
+|   | 疲惫的感染者 | Worn-out Infected | 興奮する住民 |
+|   | 莱塔尼亚女性 |   | 通りすがりの感染者 |
+|   | 路过的感染者 |   |   |
 | avg_npc_501_1 | 干员装束的女性 | Andante | アンダンテ |
 |   | 行板 | Woman in Operator Attire | オペレーター姿の女性 |
 | avg_npc_521_1 | Mechanist | - | - |
 | avg_npc_522_1 | 斐尔迪南 | - | - |
 | avg_npc_523_1 | 停尸间员工 | - | - |
 |   | 愉快的哥伦比亚人 |   |   |
+|   | 警察 |   |   |
 |   | 轻佻的哥伦比亚人 |   |   |
 |   | 醉醺醺的男人 |   |   |
-| avg_npc_524_1 | 活泼的女性 | Cheery Woman | 活泼的女性 |
+| avg_npc_524_1 | 工作人员 | Cheery Woman | 活泼的女性 |
+|   | 活泼的女性 |   |   |
 |   | 特里蒙市民 |   |   |
 |   | 酒吧客人 |   |   |
 |   | 高瘦的女人 |   |   |
@@ -1593,32 +1607,37 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_572_1 | 特米米 | Tomimi | トミミ |
 | avg_npc_573_1 | 不甚敏锐的杜林人 | Astute Durin | うるさいドゥリン |
 |   | 兴奋的杜林人 | Chatty Durin | ふらふらなドゥリン人 |
-|   | 摇晃的杜林人 | Durin | ドゥリン人 |
-|   | 敏锐的杜林人 | Inebriated Durin | 興奮するドゥリン人 |
-|   | 敏锐起来的杜林人 | Not Very Astute Durin | 酔ったドゥリン人 |
-|   | 杜林人 | Starting-to-be-Astute Durin | 鈍いドゥリン |
-|   | 絮叨的杜林人 | Thrilled Durin | 鋭いドゥリン |
-|   | 醉醺醺的杜林人 | Wobbly Durin | 鋭くなったドゥリン |
+|   | 抱着酒桶的杜林人 | Durin | ドゥリン人 |
+|   | 摇晃的杜林人 | Inebriated Durin | 興奮するドゥリン人 |
+|   | 敏锐的杜林人 | Not Very Astute Durin | 酔ったドゥリン人 |
+|   | 敏锐起来的杜林人 | Starting-to-be-Astute Durin | 鈍いドゥリン |
+|   | 杜林人 | Thrilled Durin | 鋭いドゥリン |
+|   | 絮叨的杜林人 | Wobbly Durin | 鋭くなったドゥリン |
+|   | 醉醺醺的杜林人 |   |   |
 | avg_npc_574_1 | 不甚敏锐的杜林人 | Cheerful Durin | しつこいドゥリン |
 |   | 不甚清醒的杜林人 | Clear-headed Durin | ひどく酔ったドゥリン人 |
 |   | 东倒西歪的杜林人 | Excited Durin | ぼんやりしたドゥリン |
-|   | 大醉的杜林人 | Not Very Astute Durin | 上機嫌なドゥリン |
-|   | 执着的杜林人 | Not Very Clear-headed Durin | 冴えてるドゥリン |
-|   | 欢快的杜林人 | Piss-Drunk Durin | 冴え始めたドゥリン |
-|   | 清醒的杜林人 | Starting-to-be-Clear-headed Durin | 千鳥足のドゥリン人 |
-|   | 清醒起来的杜林人 | Stubborn Durin | 感動するドゥリン人 |
-|   | 激动的杜林人 | Topsy-Turvy Durin | 鈍いドゥリン |
+|   | 兴奋的杜林人 | Not Very Astute Durin | 上機嫌なドゥリン |
+|   | 大醉的杜林人 | Not Very Clear-headed Durin | 冴えてるドゥリン |
+|   | 执着的杜林人 | Piss-Drunk Durin | 冴え始めたドゥリン |
+|   | 放松的杜林人 | Starting-to-be-Clear-headed Durin | 千鳥足のドゥリン人 |
+|   | 欢快的杜林人 | Stubborn Durin | 感動するドゥリン人 |
+|   | 清醒的杜林人 | Topsy-Turvy Durin | 鈍いドゥリン |
+|   | 清醒起来的杜林人 |   |   |
+|   | 激动的杜林人 |   |   |
 | avg_npc_575_1 | 不甚客气的杜林人 | Absent-Minded Durin | そわそわしたドゥリン人 |
-|   | 冷静的杜林人 | Cool-Headed Durin | のんきなドゥリン人 |
-|   | 客气的杜林人 | Courteous Durin | わくわくするドゥリン人 |
-|   | 客气起来的杜林人 | Enthusiastic Durin | 冷静なドゥリン人 |
-|   | 恍惚的杜林人 | Excited Durin | 少し丁寧なドゥリン |
-|   | 悠哉的杜林人 | Imaginative Durin | 情熱的なドゥリン人 |
-|   | 搓手的杜林人 | Nervous Durin | 朦朧としたドゥリン |
-|   | 热情的杜林人 | Not Very Courteous Durin | 理性的なドゥリン |
-|   | 理性的杜林人 | Rational Durin | 礼儀正しいドゥリン |
-|   | 畅想的杜林人 | Relaxed Durin | 礼儀正しくなったドゥリン |
-|   | 紧张的杜林人 | Starting-to-be-Courteous Durin | 緊張するドゥリン人 |
+|   | 严谨的杜林人 | Cool-Headed Durin | のんきなドゥリン人 |
+|   | 严谨的杜林人？ | Courteous Durin | わくわくするドゥリン人 |
+|   | 冷静的杜林人 | Enthusiastic Durin | 冷静なドゥリン人 |
+|   | 客气的杜林人 | Excited Durin | 少し丁寧なドゥリン |
+|   | 客气起来的杜林人 | Imaginative Durin | 情熱的なドゥリン人 |
+|   | 恍惚的杜林人 | Nervous Durin | 朦朧としたドゥリン |
+|   | 悠哉的杜林人 | Not Very Courteous Durin | 理性的なドゥリン |
+|   | 搓手的杜林人 | Rational Durin | 礼儀正しいドゥリン |
+|   | 热情的杜林人 | Relaxed Durin | 礼儀正しくなったドゥリン |
+|   | 理性的杜林人 | Starting-to-be-Courteous Durin | 緊張するドゥリン人 |
+|   | 畅想的杜林人 |   |   |
+|   | 紧张的杜林人 |   |   |
 | avg_npc_576_1 | 奇怪的机械 | Strange Machine | 奇怪なロボ0429 |
 |   | 奇怪的机械0429 | Strange Machine #0429 | 奇怪なロボット |
 | avg_npc_596_1 | 小黑 | - | - |
@@ -1726,6 +1745,33 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_728_1 | 莫兰 | - | - |
 | avg_npc_729_1 | 受伤的塔拉人 | - | - |
 |   | 受伤的流民 |   |   |
+| avg_npc_750_1 | 随从艾露猫 | - | - |
+| avg_npc_751_1 | 工匠猫 | - | - |
+|   | 黄色的奇怪生物 |   |   |
+| avg_npc_752_1 | 学者猫 | - | - |
+|   | 工匠猫 |   |   |
+|   | 白色的奇怪生物 |   |   |
+| avg_npc_753_1 | 泷居应 | - | - |
+| avg_npc_755_1 | 年老的猎人 | - | - |
+|   | 柏生义冈 |   |   |
+| avg_npc_756_1 | 和也 | - | - |
+|   | 猎人打扮的幼童 |   |   |
+| avg_npc_757_1 | 严肃的村民 | - | - |
+|   | 利藤裕 |   |   |
+| avg_npc_758_1 | 不再愤怒的村民 | - | - |
+|   | 强壮的村民 |   |   |
+|   | 悲伤的村民 |   |   |
+|   | 惊恐的村民 |   |   |
+|   | 愤怒的村民 |   |   |
+|   | 慌张的村民 |   |   |
+|   | 老实的村民 |   |   |
+|   | 茫然的村民 |   |   |
+| avg_npc_759_1 | 悲伤的村民 | - | - |
+|   | 慌乱的村民 |   |   |
+|   | 焦急的村民 |   |   |
+| avg_npc_760_1 | 柏生明 | - | - |
+| avg_npc_761_1 | 泷居未来 | - | - |
+| avg_npc_762_1 | 走失的幼童 | - | - |
 | avg_npc_785_1 | 槐天裴 | - | - |
 |   | 槐姓男子 |   |   |
 |   | 魁梧的男人 |   |   |

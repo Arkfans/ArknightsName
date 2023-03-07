@@ -22,7 +22,9 @@ tip: 请善用浏览器的搜索功能
 | char_1026_gvial2 | 百炼嘉维尔 | Gavial the Invincible | 百錬ガヴィル |
 | char_1027_greyy2 | 承曦格雷伊 | - | - |
 | char_1028_texas2 | 缄默德克萨斯 | - | - |
+| char_1029_yato2 | 麒麟X夜刀 | - | - |
 | char_102_texas | 德克萨斯 | Texas | テキサス |
+| char_1030_noirc2 | 火龙S黑角 | - | - |
 | char_103_angel | 能天使 | Exusiai | エクシア |
 | char_106_franka | 芙兰卡 | Franka | フランカ |
 | char_107_liskam | 雷蛇 | Liskarm | リスカム |
@@ -226,6 +228,7 @@ tip: 请善用浏览器的搜索功能
 | char_4067_lolxh | 罗小黑 | - | - |
 | char_4071_peper | 明椒 | - | - |
 | char_4072_ironmn | 白铁 | - | - |
+| char_4077_palico | 泰拉大陆调查团 | - | - |
 | char_4078_bdhkgt | 截云 | - | - |
 | char_4080_lin | 林 | - | - |
 | char_4082_qiubai | 仇白 | - | - |
@@ -415,8 +418,13 @@ tip: 请善用浏览器的搜索功能
 | trap_096_gflag | 山海密语仪 | - | - |
 | trap_097_hstone | 城防路障 | - | - |
 | trap_098_mire | 沼泽控制 | - | - |
+| trap_099_mhflsb | 眩光手雷 | - | - |
+| trap_100_mhlbmb | 高能源石爆桶 | - | - |
+| trap_101_mhshok | 高压脉冲诡雷 | - | - |
+| trap_102_mhwrbg | 滞空牵引无人机 | - | - |
 | trap_103_ymdgct | 地形增伤控制 | - | - |
 | trap_104_dplant | 改性植物激素 | - | - |
+| trap_105_mhwrct | 滞空牵引无人机 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | - | - |
 | trap_401_xbfato | 采集实习站 | - | - |
 | trap_403_wfactory | 蟹蟹抽水泵 | - | - |
@@ -623,6 +631,7 @@ tip: 请善用浏览器的搜索功能
 | char_328_cammou@witch#2 | 安息处的怪盗 | Grave Thief | 霊園の怪盗 |
 | char_332_archet@shining#1 | 宣传策略 | Publicity Strategy | PR戦略 |
 | char_333_sidero@summer#6 | 轻风 LB03 | Light Breeze LB03 | そよ風LB03 |
+| char_336_folivo@epoque#22 | 别枝 | - | - |
 | char_337_utage@epoque#15 | 伪装 | - | - |
 | char_337_utage@summer#4 | 夏卉 FA661 | Summer Flowers FA661 | 夏の花弁FA661 |
 | char_338_iris@witch#3 | 镜中来访 | - | - |
@@ -637,6 +646,7 @@ tip: 请善用浏览器的搜索功能
 | char_350_surtr@summer#9 | 缤纷奇境 CW03 | Colorful Wonderland CW03 | 極彩の楽園CW03 |
 | char_355_ethan@epoque#7 | 渗透 | Infiltrator | 同化 |
 | char_356_broca@marthe#4 | 组间休息 | Rest Between Sets | インターバル |
+| char_358_lisa@epoque#22 | 雪霁 | - | - |
 | char_358_lisa@lxh#1 | 春之颂 | - | - |
 | char_358_lisa@wild#3 | 弃土花开 | Lostlands Flowering | 荒地に咲く花 |
 | char_365_aprl@wild#3 | 远望 | Faraway Gaze | 遠望 |
@@ -647,6 +657,7 @@ tip: 请善用浏览器的搜索功能
 | char_377_gdglow@snow#5 | 喜夜侍者 | - | - |
 | char_378_asbest@whirlwind#3 | 幽谷奏鸣 | Glen Sonata | グレンソナタ |
 | char_383_snsant@witch#2 | 天命勇者 | Fated Hero | 宿命の勇者 |
+| char_388_mint@epoque#22 | 月宵 | - | - |
 | char_391_rosmon@epoque#17 | 拥抱新生 | - | - |
 | char_4004_pudd@snow#5 | 火树灵 | - | - |
 | char_400_weedy@snow#2 | 糖果仙子 | Candy Cape | キャンディフェアリー |
@@ -660,6 +671,7 @@ tip: 请善用浏览器的搜索功能
 | char_4040_rockr@lxh#1 | 欢唱之前 | - | - |
 | char_4043_erato@snow#5 | 未讲述的故事 | - | - |
 | char_4055_bgsnow@wild#7 | 字句中的雪原 | - | - |
+| char_4077_palico@mh#1 | 跃上街头 | - | - |
 | char_411_tomimi@summer#5 | 静谧午夜 DN04 | Silent Night DN04 | 安息の午夜DN04 |
 | char_415_flint@boc#3 | 绚烂夏花 | Gorgeous Flower | 紫藤繚乱 |
 | char_416_zumama@boc#3 | 熔锻铸匠 | Forgemaster | 熔冶工匠 |
@@ -1299,6 +1311,24 @@ tip: 请善用浏览器的搜索功能
 | enemy_1301_ymcnon_2 | “碎壁” | - | - |
 | enemy_1302_ymtro | “履平沙” | - | - |
 | enemy_1302_ymtro_2 | “越长尘” | - | - |
+| enemy_1303_mhshep | 角兽 | - | - |
+| enemy_1303_mhshep_2 | 亢角兽 | - | - |
+| enemy_1304_mhwolf | 鬣犄兽 | - | - |
+| enemy_1304_mhwolf_2 | 利齿鬣犄兽 | - | - |
+| enemy_1305_mhslim | 灼热源石虫 | - | - |
+| enemy_1305_mhslim_2 | 炽焰源石虫 | - | - |
+| enemy_1306_mhtrtl | 硬甲爪兽 | - | - |
+| enemy_1306_mhtrtl_2 | 刚甲爪兽 | - | - |
+| enemy_1307_mhrhcr | 岩冠兽 | - | - |
+| enemy_1307_mhrhcr_2 | 坚岩冠兽 | - | - |
+| enemy_1308_mheagl | 锋羽兽 | - | - |
+| enemy_1308_mheagl_2 | 迅猛锋羽兽 | - | - |
+| enemy_1309_mhboar | 凶豕兽 | - | - |
+| enemy_1309_mhboar_2 | 狂暴凶豕兽 | - | - |
+| enemy_1310_mhprpn | 棘兽 | - | - |
+| enemy_1310_mhprpn_2 | 箭棘兽 | - | - |
+| enemy_1311_mhkryk | 狡兽 | - | - |
+| enemy_1311_mhkryk_2 | 恶狡兽 | - | - |
 | enemy_1312_ymillu | “无念之冬” | - | - |
 | enemy_1500_skulsr | 碎骨 | Skullshatterer | SkullShredder |
 | enemy_1501_demonk | 萨卡兹百夫长 | Sarkaz Centurion | サルカズケントゥリオ |
@@ -1336,6 +1366,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1533_stmkgt | “最后的蒸汽骑士” | - | - |
 | enemy_1535_wlfmster | 扎罗，“狼之主”  | - | - |
 | enemy_1536_ncrmcr | “领袖”  | - | - |
+| enemy_1537_mhrors | 火龙 | - | - |
 | enemy_1538_ymmons | “睚” | - | - |
 | enemy_1538_ymmons_2 | 蜃景 | - | - |
 | enemy_1538_ymmons_3 | 妄境 | - | - |
@@ -1454,6 +1485,7 @@ tip: 请善用浏览器的搜索功能
 | act14d0d1 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act14d0d2 | 登录领取奖励 | Sign-in Campaign | ログイン報酬 |
 | act14d7 | 喧闹法则·复刻 | Code of Brawl - Rerun | 喧騒の掟・復刻 |
+| act14login | 登录领取奖励 | - | - |
 | act14mini | 春分 | - | - |
 | act14side | 风雪过境 | Break the Ice | 風雪一過 |
 | act14sre | 风雪过境·复刻 | - | - |
@@ -1486,6 +1518,7 @@ tip: 请善用浏览器的搜索功能
 | act19sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act1bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act1d5 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
+| act1flip | 哗啦啦祈愿牌 | - | - |
 | act1float | 纽莱堡市产业合作洽谈会 | - | - |
 | act1lock | 荷谟伊智境 | Hymnoi Wisdom | ヒュムノイの叡智 |
 | act1sandbox | 生息演算：沙中之火 | - | - |
@@ -1497,6 +1530,7 @@ tip: 请善用浏览器的搜索功能
 | act22sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act23side | 登临意 | - | - |
 | act23sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
+| act24side | 落叶逐火 | - | - |
 | act24sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act25sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act26sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
@@ -1723,6 +1757,8 @@ tip: 请善用浏览器的搜索功能
 | LIMITED_TKT_GACHA_10_3501 | 长风万里寻访凭证 | - | - |
 | LIMITED_TKT_GACHA_10_903 | 苏醒纪念寻访凭证 | Awakening Commemoration Permit | 1周年記念10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_1701 | 特勤专家寻访凭证 | Elite Forces Headhunting Permit | 精鋭小隊10回スカウト券 |
+| LINKAGE_TKT_GACHA_10_3601 | 指引明路寻访凭证 | - | - |
+| LINKAGE_TKT_GACHA_10_3602 | 合作限定十连寻访凭证 | - | - |
 | LMTGS_COIN_1401 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_1601 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_1803 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
@@ -1802,6 +1838,12 @@ tip: 请善用浏览器的搜索功能
 | act21side_token_permesso | 进货通行证 | - | - |
 | act22side_token_manuscript | 手抄歌谣集 | - | - |
 | act23side_token_spirit | 新酿烈刀子 | - | - |
+| act24side_melding_1 | 破碎的骨片 | - | - |
+| act24side_melding_2 | 源石虫的硬壳 | - | - |
+| act24side_melding_3 | 鬣犄兽的尖锐齿 | - | - |
+| act24side_melding_4 | 凶豕兽的厚实皮 | - | - |
+| act24side_melding_5 | “兽之泪” | - | - |
+| act24side_melding_6 | 火龙的红玉 | - | - |
 | act2bossrush_milestone_point | 试炼经验 | - | - |
 | act2bossrush_relic_01 | 修复套件 | - | - |
 | act2bossrush_relic_02 | 维续补丁 | - | - |
@@ -1888,6 +1930,7 @@ tip: 请善用浏览器的搜索功能
 | clue_Rap_5_rep_1 | 说唱动态5 | Rap Trend 5 | ラップサイド5 |
 | et_ObsidianPass | 黑曜石节门票 | Obsidian Festival Ticket | フェスチケット |
 | et_ObsidianPass_rep_1 | 黑曜石节门票 | Obsidian Festival Ticket | フェスチケット |
+| itempack_gacha_1 | 福运鼓鼓礼袋 | - | - |
 | itempack_mod_10 | 狙击芯片组印刻仪 | - | - |
 | itempack_mod_11 | 术师芯片组印刻仪 | - | - |
 | itempack_mod_12 | 医疗芯片组印刻仪 | - | - |
@@ -1922,7 +1965,9 @@ tip: 请善用浏览器的搜索功能
 | p_char_1026_gvial2 | 百炼嘉维尔的信物 | Gavial the Invincible's Token | 百錬ガヴィルの印 |
 | p_char_1027_greyy2 | 承曦格雷伊的信物 | - | - |
 | p_char_1028_texas2 | 缄默德克萨斯的信物 | - | - |
+| p_char_1029_yato2 | 麒麟X夜刀的信物 | - | - |
 | p_char_102_texas | 德克萨斯的信物 | Texas's Token | テキサスの印 |
+| p_char_1030_noirc2 | 火龙S黑角的信物 | - | - |
 | p_char_103_angel | 能天使的信物 | Exusiai's Token | エクシアの印 |
 | p_char_106_franka | 芙兰卡的信物 | Franka's Token | フランカの印 |
 | p_char_107_liskam | 雷蛇的信物 | Liskarm's Token | リスカムの印 |
@@ -2123,6 +2168,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4066_highmo | 海沫的信物 | - | - |
 | p_char_4071_peper | 明椒的信物 | - | - |
 | p_char_4072_ironmn | 白铁的信物 | - | - |
+| p_char_4077_palico | 泰拉大陆调查团的信物 | - | - |
 | p_char_4078_bdhkgt | 截云的信物 | - | - |
 | p_char_4080_lin | 林的信物 | - | - |
 | p_char_4082_qiubai | 仇白的信物 | - | - |
@@ -2356,6 +2402,7 @@ tip: 请善用浏览器的搜索功能
 | LIMITED_35_0_1 | 万象伶仃 | - | - |
 | LIMITED_9_0_3 | 遗愿焰火 | - | - |
 | LINKAGE_17_0_1 | 进攻·防守·战术交汇 | - | - |
+| LINKAGE_36_0_1 | 砺火成锋 | - | - |
 | NORM_0_1_3 | 银灰色的荣耀 | - | - |
 | NORM_10_0_1 | 雾漫荒林 | - | - |
 | NORM_10_0_3 | 雪落晨心 | - | - |
@@ -2809,6 +2856,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_nightm_1 | 灵魂汲取 | Drain Soul | ソウルドレイン |
 | skchr_nightm_2 | 夜魇魔影 | Night Phantom | ナイトシャドウ |
 | skchr_nights_2 | 赤色之瞳 | Crimson Eyes | 赤色の瞳 |
+| skchr_noirc2_1 | 居合拔刀气刃斩 | - | - |
+| skchr_noirc2_2 | 气刃兜割 | - | - |
 | skchr_nothin_1 | 知难而退 | Cautious Retreat | 引き際の心得 |
 | skchr_nothin_2 | 阴晴圆缺 | Wax and Wane | 諸行無常 |
 | skchr_otter_1 | 迷惑装置 | Bionic Device | 攪乱装置 |
@@ -2980,6 +3029,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_wyvern_1 | 冲锋号令·援军 | Command - Reinforcement | 突撃指令・援軍 |
 | skchr_yak_1 | 体能强化 | Stamina Enhancement | 肉体強化 |
 | skchr_yak_2 | 抗寒体质 | Cold Resistance | 寒冷順化 |
+| skchr_yato2_1 | 鬼人化 | - | - |
+| skchr_yato2_2 | 乱舞 | - | - |
+| skchr_yato2_3 | 空中回旋乱舞 | - | - |
 | skchr_yuki_1 | 敌飙 | Shuriken | ユキケムリ |
 | skchr_yuki_2 | 凝武 | Fatal Shuriken | カザグルマ |
 | skchr_zebra_1 | 应急迷彩 | Emergency Camouflage | 応急迷彩 |
@@ -3111,6 +3163,11 @@ tip: 请善用浏览器的搜索功能
 | sktok_mgllan_drone1 | 回收 | Recycle | 回収 |
 | sktok_mgllan_drone2 | 回收 | Recycle | 回収 |
 | sktok_mgllan_drone3 | 回收 | Recycle | 回収 |
+| sktok_mhflsb | 眩光手雷 | - | - |
+| sktok_mhlbmb | 高能源石爆桶 | - | - |
+| sktok_mhshok | 高压脉冲诡雷 | - | - |
+| sktok_mhwrbg | 滞空牵引无人机 | - | - |
+| sktok_mhwrct | 滞空牵引无人机 | - | - |
 | sktok_mine | 触爆 | Detonate | 接触式起爆 |
 | sktok_mire | 沼泽控制 | - | - |
 | sktok_motter_1 | 迷惑装置 | Bionic Device | 攪乱装置 |
@@ -3619,6 +3676,19 @@ tip: 请善用浏览器的搜索功能
 | act23side_st02 | 信我所信 | - | - |
 | act23side_st03 | 粘劫收后 | - | - |
 | act23side_tr01 | 塞上孤城 | - | - |
+| act24side_01 | 森林里的麻烦家伙 | - | - |
+| act24side_02 | 坚硬磐石 | - | - |
+| act24side_03 | 迎头痛击 | - | - |
+| act24side_04 | 破空的飞羽 | - | - |
+| act24side_05 | 野蛮肇事者 | - | - |
+| act24side_06 | 禁飞区 | - | - |
+| act24side_07 | 锥心之刺 | - | - |
+| act24side_08 | 奸诈者必自食恶果 | - | - |
+| act24side_09 | 决战！燃烧的狩魂！ | - | - |
+| act24side_st01 | 噩梦 | - | - |
+| act24side_st02 | 林昏焰明 | - | - |
+| act24side_st03 | 晨曦 | - | - |
+| act24side_tr01 | 来袭！天空王者！ | - | - |
 | act2bossrush_01 | 困顿囚徒 | - | - |
 | act2bossrush_02 | 大块头和小不点 | - | - |
 | act2bossrush_03 | 裂地重击 | - | - |
@@ -4159,6 +4229,8 @@ tip: 请善用浏览器的搜索功能
 | act22side_zone2 | 记忆灰烬 | - | - |
 | act23side_zone1 | 城中调查 | - | - |
 | act23side_zone2 | 关外追凶 | - | - |
+| act24side_zone1 | 苍暮山地 | - | - |
+| act24side_zone2 | 艾露猫的委托柜台 | - | - |
 | act2bossrush_zone1 | 强敌当前 | - | - |
 | act5d0_zone1 | 下城区 | Downtown | 繁華街 |
 | act5d0_zone2 | 东部郊区 | Eastern Suburbs | 東部郊外 |
