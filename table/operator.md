@@ -20,7 +20,7 @@ tip: 请善用浏览器的搜索功能
 | char_1023_ghost2 | 归溟幽灵鲨 | Specter the Unchained | 帰溟スペクター |
 | char_1024_hbisc2 | 濯尘芙蓉 | Hibiscus the Purifier | 濯塵ハイビスカス |
 | char_1026_gvial2 | 百炼嘉维尔 | Gavial the Invincible | 百錬ガヴィル |
-| char_1027_greyy2 | 承曦格雷伊 | - | 承曦グレイ |
+| char_1027_greyy2 | 承曦格雷伊 | Greyy the Lightningbearer | 承曦グレイ |
 | char_1028_texas2 | 缄默德克萨斯 | - | - |
 | char_1029_yato2 | 麒麟X夜刀 | - | - |
 | char_102_texas | 德克萨斯 | Texas | テキサス |
@@ -49,7 +49,7 @@ tip: 请善用浏览器的搜索功能
 | char_131_flameb | 炎客 | Flamebringer | エンカク |
 | char_133_mm | 梅 | May | メイ |
 | char_134_ifrit | 伊芙利特 | Ifrit | イフリータ |
-| char_135_halo | 星源 | - | アステジーニ |
+| char_135_halo | 星源 | Astgenne | アステジーニ |
 | char_136_hsguma | 星熊 | Hoshiguma | ホシグマ |
 | char_137_brownb | 猎蜂 | Beehunter | ビーハンター |
 | char_140_whitew | 拉普兰德 | Lappland | ラップランド |
@@ -216,7 +216,7 @@ tip: 请善用浏览器的搜索功能
 | char_4045_heidi | 海蒂 | Heidi | ハイディ |
 | char_4046_ebnhlz | 黑键 | Ebenholz | エーベンホルツ |
 | char_4047_pianst | 车尔尼 | Czerny | ツェルニー |
-| char_4048_doroth | 多萝西 | - | ドロシー |
+| char_4048_doroth | 多萝西 | Dorothy | ドロシー |
 | char_4054_malist | 至简 | Minimalist | ミニマリスト |
 | char_4055_bgsnow | 鸿雪 | Pozëmka | パゼオンカ |
 | char_405_absin | 苦艾 | Absinthe | アブサント |
@@ -287,4 +287,4 @@ tip: 请善用浏览器的搜索功能
 | char_511_asnipe | Stormeye | Stormeye | Stormeye |
 | char_512_aprot | 暮落 | Shalem | シャレム |
 | char_513_apionr | 郁金香 | - | - |
-| char_514_rdfend | 预备干员-重装 | - | 予備隊員-重装 |
+| char_514_rdfend | 预备干员-重装 | Reserve Operator - Defender | 予備隊員-重装 |

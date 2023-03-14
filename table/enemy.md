@@ -488,23 +488,23 @@ tip: 请善用浏览器的搜索功能
 | enemy_1246_aslime | 黑水源石虫 | Blackwater Originium Slug | ドブオリジムシ |
 | enemy_1246_aslime_2 | 黑水源石虫·α | Blackwater Originium Slug α | ドブオリジムシα |
 | enemy_1247_ltgtld | 格特鲁德女士 | Dame Gertrude | ゲルトルーデ |
-| enemy_1249_lysdb | 莱茵生命防卫科成员 | - | ライン生命警備課職員 |
-| enemy_1249_lysdb_2 | 莱茵生命防卫科高级成员 | - | ライン生命警備課上級職員 |
-| enemy_1250_lyengs | 莱茵生命工程科成员 | - | ライン生命エンジニア |
-| enemy_1250_lyengs_2 | 莱茵生命高级工程科成员 | - | ライン生命上級エンジニア |
-| enemy_1251_lysyta | Dor-1号失败品 | - | Dor-1号失敗作 |
-| enemy_1251_lysyta_2 | Dor-α号失败品 | - | Dor-α号失敗作 |
-| enemy_1252_lysytb | Dor-2号复制体 | - | Dor-2号複製体 |
-| enemy_1252_lysytb_2 | Dor-β号复制体 | - | Dor-β号複製体 |
-| enemy_1253_lysytc | Dor-3号改造体 | - | Dor-3号改造体 |
-| enemy_1253_lysytc_2 | Dor-γ号改造体 | - | Dor-γ号改造体 |
-| enemy_1254_lypa | 实验用动力装甲 | - | 実験用パワードスーツ |
-| enemy_1254_lypa_2 | 测试用动力装甲 | - | テスト用パワードスーツ |
-| enemy_1255_lybgpa | R-31重型动力装甲 | - | R-31大型パワードスーツ |
-| enemy_1255_lybgpa_2 | R-31a重型动力装甲 | - | R-31a大型パワードスーツ |
-| enemy_1256_lyacpa | R-11突击动力装甲 | - | R-11突撃型パワードスーツ |
-| enemy_1256_lyacpa_2 | R-11a突击动力装甲 | - | R-11a突撃型パワードスーツ |
-| enemy_1257_lydrty | 多萝西 | - | Dorothy |
+| enemy_1249_lysdb | 莱茵生命防卫科成员 | Rhine Defense Member | ライン生命警備課職員 |
+| enemy_1249_lysdb_2 | 莱茵生命防卫科高级成员 | Rhine Defense Senior Member | ライン生命警備課上級職員 |
+| enemy_1250_lyengs | 莱茵生命工程科成员 | Rhine Engineering Member | ライン生命エンジニア |
+| enemy_1250_lyengs_2 | 莱茵生命高级工程科成员 | Rhine Engineering Senior Member | ライン生命上級エンジニア |
+| enemy_1251_lysyta | Dor-1号失败品 | Dor-1 Failure | Dor-1号失敗作 |
+| enemy_1251_lysyta_2 | Dor-α号失败品 | Dor-α Failure | Dor-α号失敗作 |
+| enemy_1252_lysytb | Dor-2号复制体 | Dor-2 Replica | Dor-2号複製体 |
+| enemy_1252_lysytb_2 | Dor-β号复制体 | Dor-β Replica | Dor-β号複製体 |
+| enemy_1253_lysytc | Dor-3号改造体 | Dor-3 Bionic | Dor-3号改造体 |
+| enemy_1253_lysytc_2 | Dor-γ号改造体 | Dor-γ Bionic | Dor-γ号改造体 |
+| enemy_1254_lypa | 实验用动力装甲 | Experimental Power Armor | 実験用パワードスーツ |
+| enemy_1254_lypa_2 | 测试用动力装甲 | Test Power Armor | テスト用パワードスーツ |
+| enemy_1255_lybgpa | R-31重型动力装甲 | R-31 Heavy Power Armor | R-31大型パワードスーツ |
+| enemy_1255_lybgpa_2 | R-31a重型动力装甲 | R-31a Heavy Power Armor | R-31a大型パワードスーツ |
+| enemy_1256_lyacpa | R-11突击动力装甲 | R-11 Assault Power Armor | R-11突撃型パワードスーツ |
+| enemy_1256_lyacpa_2 | R-11a突击动力装甲 | R-11a Assault Power Armor | R-11a突撃型パワードスーツ |
+| enemy_1257_lydrty | 多萝西 | Dorothy | Dorothy |
 | enemy_1258_durman | 酒类爱好者 | Alcohol Lover | 酒類愛好家 |
 | enemy_1258_durman_2 | 酒类协会会员 | Alcohol Association Member | 酒類愛好協会員 |
 | enemy_1259_durwar | 湖畔志愿者 | Lakeside Volunteer | 湖畔のボランティア |
@@ -639,7 +639,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1528_manfri | 曼弗雷德 | Manfred | Manfred |
 | enemy_1529_dsdevr | 屠谕者，大群意志 | The Endspeaker, Will of We Many | 「ディヴィニティエンド」、大群の意思 |
 | enemy_1530_white | 白垩，“尘世遗骸” | Kreide, 'Worldly Remains' | クライデ、「塵界の遺骸」 |
-| enemy_1531_bbrain | “唤醒” | - | 「覚醒」 |
+| enemy_1531_bbrain | “唤醒” | 'Awaken' | 「覚醒」 |
 | enemy_1532_minima | “物欲拮抗者” | 'Materialist Antagonizer' | 「物欲の拮抗者」 |
 | enemy_1533_stmkgt | “最后的蒸汽骑士” | - | - |
 | enemy_1535_wlfmster | 扎罗，“狼之主”  | - | - |

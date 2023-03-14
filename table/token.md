@@ -34,7 +34,7 @@ tip: 请善用浏览器的搜索功能
 | token_10022_kazema_shadow | 纸偶 | Kaminingyo | 紙人形 |
 | token_10023_windft_wrench | 可靠电池 | Reliable Battery | 高信頼性バッテリー |
 | token_10024_ebnhlz_rcube | 旧日残影 | Remnants of Days Past | 過去の残像 |
-| token_10025_doroth_recttp | 共振装置 | - | 共振装置 |
+| token_10025_doroth_recttp | 共振装置 | Resonator | 共振装置 |
 | token_10026_bgsnow_subbow | “打字机” | 'Typewriter' | 「タイプライター」 |
 | token_10027_ironmn_pile1 | 白铁™多功能平台 | - | - |
 | token_10027_ironmn_pile2 | 白铁™多功能平台 | - | - |

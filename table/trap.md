@@ -76,10 +76,10 @@ tip: 请善用浏览器的搜索功能
 | trap_072_revivecard | 休整区发讯器 | Recuperation Area Transmitter | 休憩エリア送信機 |
 | trap_073_btauntcard | 污染晶石 | Contaminated Mineral | 汚染晶石 |
 | trap_074_bbombcard | 聚热晶簇 | Heat Cluster | 集熱晶洞 |
-| trap_075_bgarmn | R-31重型动力装甲 | - | R-31大型パワードスーツ |
-| trap_076_bgarms | R-31a重型动力装甲 | - | R-31a大型パワードスーツ |
-| trap_077_rmtarmn | R-11突击动力装甲 | - | R-11突撃型パワードスーツ |
-| trap_078_rmtarms | R-11a突击动力装甲 | - | R-11a突撃型パワードスーツ |
+| trap_075_bgarmn | R-31重型动力装甲 | R-31 Heavy Power Armor | R-31大型パワードスーツ |
+| trap_076_bgarms | R-31a重型动力装甲 | R-31a Heavy Power Armor | R-31a大型パワードスーツ |
+| trap_077_rmtarmn | R-11突击动力装甲 | R-11 Assault Power Armor | R-11突撃型パワードスーツ |
+| trap_078_rmtarms | R-11a突击动力装甲 | R-11a Assault Power Armor | R-11a突撃型パワードスーツ |
 | trap_080_garage | 自走车出发点 | Self-Driving Cart Launchpoint | セルカースターター |
 | trap_081_turngear | 自走车单行道 | Self-Driving Cart One-Way Road | ターンテーブル |
 | trap_082_salecard | 改派发讯器 | Reassignment Transmitter | 再配置送信機 |

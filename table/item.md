@@ -205,7 +205,7 @@ tip: 请善用浏览器的搜索功能
 | act18d3_token_record | 腐蚀的伊比利亚唱片 | Corrupted Iberian Record | 腐食したレコード |
 | act18d3_token_record_rep_1 | 腐蚀的伊比利亚唱片 | Corrupted Iberian Record | 腐食したレコード |
 | act18side_token_pieces | 乐谱草稿 | Sheet Music | 手書きの楽譜 |
-| act19side_token_reagents | 神秘试剂 | - | 謎の試薬 |
+| act19side_token_reagents | 神秘试剂 | Mysterious Reagent | 謎の試薬 |
 | act1bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act1bossrush_relic_01 | 模块复用 | Reuse Module | マルチプレキシング |
 | act1bossrush_relic_02 | 迅捷处理 | Fast Processing | アクセラレーション |
@@ -344,7 +344,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_1023_ghost2 | 归溟幽灵鲨的信物 | Specter the Unchained's Token | 帰溟スペクターの印 |
 | p_char_1024_hbisc2 | 濯尘芙蓉的信物 | Hibiscus the Purifier's Token | 濯塵ハイビスカスの印 |
 | p_char_1026_gvial2 | 百炼嘉维尔的信物 | Gavial the Invincible's Token | 百錬ガヴィルの印 |
-| p_char_1027_greyy2 | 承曦格雷伊的信物 | - | 承曦グレイの印 |
+| p_char_1027_greyy2 | 承曦格雷伊的信物 | Greyy the Lightningbearer's Token | 承曦グレイの印 |
 | p_char_1028_texas2 | 缄默德克萨斯的信物 | - | - |
 | p_char_1029_yato2 | 麒麟X夜刀的信物 | - | - |
 | p_char_102_texas | 德克萨斯的信物 | Texas's Token | テキサスの印 |
@@ -373,7 +373,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_131_flameb | 炎客的信物 | Flamebringer's Token | エンカクの印 |
 | p_char_133_mm | 梅的信物 | May's Token | メイの印 |
 | p_char_134_ifrit | 伊芙利特的信物 | Ifrit's Token | イフリータの印 |
-| p_char_135_halo | 星源的信物 | - | アステジーニの印 |
+| p_char_135_halo | 星源的信物 | Astgenne's Token | アステジーニの印 |
 | p_char_136_hsguma | 星熊的信物 | Hoshiguma's Token | ホシグマの印 |
 | p_char_137_brownb | 猎蜂的信物 | Beehunter's Token | ビーハンターの印 |
 | p_char_140_whitew | 拉普兰德的信物 | Lappland's Token | ラップランドの印 |
@@ -538,7 +538,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4045_heidi | 海蒂的信物 | Heidi's Token | ハイディの印 |
 | p_char_4046_ebnhlz | 黑键的信物 | Ebenholz's Token | エーベンホルツの印 |
 | p_char_4047_pianst | 车尔尼的信物 | Czerny's Token | ツェルニーの印 |
-| p_char_4048_doroth | 多萝西的信物 | - | ドロシーの印 |
+| p_char_4048_doroth | 多萝西的信物 | Dorothy's Token | ドロシーの印 |
 | p_char_4054_malist | 至简的信物 | Minimalist's Token | ミニマリストの印 |
 | p_char_4055_bgsnow | 鸿雪的信物 | Pozëmka's Token | パゼオンカの印 |
 | p_char_405_absin | 苦艾的信物 | Absinthe's Token | アブサントの印 |

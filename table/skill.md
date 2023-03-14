@@ -132,9 +132,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_demkni_3 | 钙质化 | Calcification | 硬質化 |
 | skchr_doberm_1 | 强力击·β型 | Power Strike β | 強撃β |
 | skchr_doberm_2 | 鞭策 | Spur | 鞭撻 |
-| skchr_doroth_1 | 危险目标清除 | - | 脅威排除 |
-| skchr_doroth_2 | 流沙区域生成 | - | 流砂生成 |
-| skchr_doroth_3 | 高速共振排障 | - | 高周波共振 |
+| skchr_doroth_1 | 危险目标清除 | Dangerous Entity Removal | 脅威排除 |
+| skchr_doroth_2 | 流沙区域生成 | Quicksand Generation | 流砂生成 |
+| skchr_doroth_3 | 高速共振排障 | High-speed Resonating Troubleshooter | 高周波共振 |
 | skchr_durnar_2 | 起盾回击 | Shielded Counterattack | カウンターシールド |
 | skchr_dusk_1 | 工笔入化 | Transcendental Stroke | 工筆入魂 |
 | skchr_dusk_2 | 泼墨淋漓 | Flowing Ink | 潑墨淋漓 |
@@ -203,7 +203,7 @@ tip: 请善用浏览器的搜索功能
 | skchr_grani_2 | 永不后退！ | Press the Attack! | 引かない！ |
 | skchr_gravel_1 | 影袭 | Shadow Assault | スニークガード |
 | skchr_gravel_2 | 鼠群 | Rat Swarm | 鼠の縄張り |
-| skchr_greyy2_2 | 晨曦信标 | - | 明けの明星 |
+| skchr_greyy2_2 | 晨曦信标 | Beacon of Dawn | 明けの明星 |
 | skchr_greyy_2 | 静电释放 | Electrostatic Discharge | 帯電 |
 | skchr_gvial2_1 | 精准痛击 | Precise Thrashing | ピンポイントヒット |
 | skchr_gvial2_2 | 链锯强袭 | Chainsaw Assault | ブレイクラッシュ |
@@ -212,8 +212,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_haak_1 | 快速射击 | Rapid Fire | 高速射撃 |
 | skchr_haak_2 | 爆发剂·γ型 | Type-γ Stimpack | 劇性増強剤・γ |
 | skchr_haak_3 | 爆发剂·榴莲味 | Durian-Flavored Stimpack | 劇性増強剤・ドリアン |
-| skchr_halo_1 | 双端导流 | - | ボルテージダブラー |
-| skchr_halo_2 | 星束交汇 | - | アストラルバースト |
+| skchr_halo_1 | 双端导流 | Double Diversion | ボルテージダブラー |
+| skchr_halo_2 | 星束交汇 | Starlight Intersection | アストラルバースト |
 | skchr_hamoni_1 | 轻巧舞步 | - | - |
 | skchr_hamoni_2 | 沉溺之灾 | - | - |
 | skchr_hbisc2_2 | 抚业之触 | Nurturing Touch | 業の救済 |
@@ -560,8 +560,8 @@ tip: 请善用浏览器的搜索功能
 | sktok_ballis | 发射弩箭 | Bolt Launching | 射撃 |
 | sktok_bbombcard | 爆炸 | Explode | 爆発 |
 | sktok_beewax | 沙之碑召唤 | Summon Sand Obelisk | オベリスクの激震 |
-| sktok_bgarmn_1 | 研究成功 | - | 研究成功 |
-| sktok_bgarms_1 | 研究成功 | - | 研究成功 |
+| sktok_bgarmn_1 | 研究成功 | Research Success | 研究成功 |
+| sktok_bgarms_1 | 研究成功 | Research Success | 研究成功 |
 | sktok_bgsnow_1 | 抑扬格 | Iamb | イアンボス |
 | sktok_bgsnow_2 | 点题 | Précis | リフレイン |
 | sktok_bgsnow_3 | 锐笔速写 | Opprobrium | レザーシャープペン |
@@ -604,9 +604,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_dice | 掷骰 | - | - |
 | sktok_dice2 | 掷骰 | - | - |
 | sktok_dice3 | 掷骰 | - | - |
-| sktok_doroth_1 | 危险目标清除 | - | 脅威排除 |
-| sktok_doroth_2 | 流沙区域生成 | - | 流砂生成 |
-| sktok_doroth_3 | 高速共振排障 | - | 高周波共振 |
+| sktok_doroth_1 | 危险目标清除 | Dangerous Entity Removal | 脅威排除 |
+| sktok_doroth_2 | 流沙区域生成 | Quicksand Generation | 流砂生成 |
+| sktok_doroth_3 | 高速共振排障 | High-speed Resonating Troubleshooter | 高周波共振 |
 | sktok_dplant | 抑制生长 | - | - |
 | sktok_dsbell | 应急治疗协议 | Emergency Medical Agreement | 応急治療プロトコル |
 | sktok_dstnta | 摄食 | Devour | 摂食 |
@@ -685,8 +685,8 @@ tip: 请善用浏览器的搜索功能
 | sktok_revivecard | 回召 | Recall | 召還 |
 | sktok_rfrost_1 | 陷阱部署 | Trap Deployment | トラップセット |
 | sktok_rfrost_2 | 击倒猎物 | Incapacitated Prey | リーサルパシュート |
-| sktok_rmtarmn_1 | 研究成功 | - | 研究成功 |
-| sktok_rmtarms_1 | 研究成功 | - | 研究成功 |
+| sktok_rmtarmn_1 | 研究成功 | Research Success | 研究成功 |
+| sktok_rmtarms_1 | 研究成功 | Research Success | 研究成功 |
 | sktok_roadblock | 道路阻塞 | Obstruction | 進路封鎖 |
 | sktok_robin_1 | 束缚“夹子” | Binding 'Clip' | バインド「クリップ」 |
 | sktok_robin_2 | 弹射“夹子” | Launching 'Clip' | バースト「クリップ」 |
