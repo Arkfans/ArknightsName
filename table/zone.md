@@ -80,8 +80,8 @@ tip: 请善用浏览器的搜索功能
 | act18d3_zone2 | 浪蚀哀墟 | Choppy Ruin | 海蝕の荒墟 |
 | act18side_zone1 | 夕照大厅 | Afterglow Hall | 光差す音楽堂 |
 | act18side_zone2 | 小巷深处 | Back Alleys | 暗き裏路地 |
-| act19side_zone1 | 实验基地 | - | - |
-| act19side_zone2 | 莱茵总部 | - | - |
+| act19side_zone1 | 实验基地 | - | 実験基地 |
+| act19side_zone2 | 莱茵总部 | - | ライン生命本社 |
 | act1bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act1lock_zone1 | 始发营地 | Base Camp | 始発拠点 |
 | act20side_zone1 | 地底观光 | Underground Sightseeing | 地底観光 |

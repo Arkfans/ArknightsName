@@ -43,7 +43,7 @@ tip: 请善用浏览器的搜索功能
 | char_128_plosis@epoque#3 | 幽静 | Serenity | 幽静 |
 | char_129_bluep@marthe#3 | 浅滩律动 | Shoal Beat | 浅瀬のリズム |
 | char_130_doberm@epoque#7 | 少尉 | Lieutenant | 少尉 |
-| char_131_flameb@summer#8 | 悠然假日 HDm04 | - | - |
+| char_131_flameb@summer#8 | 悠然假日 HDm04 | - | ホリデーHDm04 |
 | char_134_ifrit@kfc#1 | 儿童派对 | - | - |
 | char_134_ifrit@summer#1 | 日晒 SS.SP | Sunburn SS.SP | サンライトSS.SP |
 | char_136_hsguma@nian#3 | 狩标浪人 | Ronin Huntress | 流離いの旗印 |
@@ -209,7 +209,7 @@ tip: 请善用浏览器的搜索功能
 | char_422_aurora@boc#4 | 极昼捕手 | Polar Catcher | 白夜踏破 |
 | char_423_blemsh@witch#2 | 异月灾裔 | Moon Catastrborn | 異月の災裔 |
 | char_426_billro@snow#3 | 霍恩洛厄的寒沙 | Hohenlohe Chillysand | ホーエンローエの氷砂 |
-| char_426_billro@summer#8 | 灿阳朝露 SD08 | - | - |
+| char_426_billro@summer#8 | 灿阳朝露 SD08 | - | 炎陽煌く露SD08 |
 | char_436_whispr@nian#4 | 孤寒峭 | Tremble Cold | 孤料峭 |
 | char_437_mizuki@sale#7 | 夏日餮宴 | - | - |
 | char_440_pinecn@shining#1 | 倾声歌唱 | Sing a Song | 歌声よ届け |
@@ -226,7 +226,7 @@ tip: 请善用浏览器的搜索功能
 | char_474_glady@boc#5 | 返航 | Return | 帰航 |
 | char_475_akafyu@epoque#15 | 心性 | - | - |
 | char_476_blkngt@nian#8 | 枝头馥 | - | - |
-| char_476_blkngt@summer#8 | 夏卉 FA641 | - | - |
+| char_476_blkngt@summer#8 | 夏卉 FA641 | - | 夏の花弁FA641 |
 | char_478_kirara@game#2 | 前沿玩家 | Trendsetting Player | トレンディゲーマー |
 | char_479_sleach@epoque#14 | 识芳 | Appreciate Fragrance | 満開 |
 | char_484_robrta@summer#10 | 夏卉 FA374 | Summer Flowers FA374 | 夏の花弁FA374 |

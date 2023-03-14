@@ -64,7 +64,7 @@ tip: 请善用浏览器的搜索功能
 | act18d3d3 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act18side | 尘影余音 | Lingering Echoes | 塵影に交わる残響 |
 | act18sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
-| act19side | 绿野幻梦 | - | - |
+| act19side | 绿野幻梦 | - | 翠玉の夢 |
 | act19sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act1bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act1d5 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
