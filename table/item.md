@@ -603,6 +603,7 @@ tip: 请善用浏览器的搜索功能
 | randomMaterialRune_1 | 黄铁行动物资补给 | Operation Pyrite Supplies | 補給物資・「黄鉄」 |
 | randomMaterialRune_10 | 尘环行动物资补给 | Operation Ashring Supplies | 補給物資・「塵環」 |
 | randomMaterialRune_11 | 赝波行动物资补给 | - | - |
+| randomMaterialRune_12 | 起源行动物资补给 | - | - |
 | randomMaterialRune_2 | 利刃行动物资补给 | Operation Blade Supplies | 補給物資・「利刃」 |
 | randomMaterialRune_3 | 燃灰行动物资补给 | Operation Cinder Supplies | 補給物資・「灰燼」 |
 | randomMaterialRune_4 | 铅封行动物资补给 | Operation Lead Seal Supplies | 補給物資・「鉛封」 |

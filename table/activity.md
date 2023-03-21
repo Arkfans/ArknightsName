@@ -71,6 +71,7 @@ tip: 请善用浏览器的搜索功能
 | act1flip | 哗啦啦祈愿牌 | - | - |
 | act1float | 纽莱堡市产业合作洽谈会 | - | - |
 | act1lock | 荷谟伊智境 | Hymnoi Wisdom | ヒュムノイの叡智 |
+| act1mainbuff | 战备支援 | - | - |
 | act1sandbox | 生息演算：沙中之火 | - | - |
 | act20side | 理想城：长夏狂欢季 | Ideal City: Endless Carnival | 理想都市-エンドレスカーニバル- |
 | act20sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |

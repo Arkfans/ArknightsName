@@ -648,6 +648,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1538_ymmons | “睚” | - | - |
 | enemy_1538_ymmons_2 | 蜃景 | - | - |
 | enemy_1538_ymmons_3 | 妄境 | - | - |
+| enemy_1539_reid | “复仇者” | - | - |
 | enemy_2001_duckmi | 鸭爵 | Duck Lord | ダック卿 |
 | enemy_2002_bearmi | 高普尼克 | Gopnik | ゴプニク |
 | enemy_2003_rockman | 迷路的巨像 | Lost Colossus | 迷子の巨像 |

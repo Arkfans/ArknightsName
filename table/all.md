@@ -607,6 +607,7 @@ tip: 请善用浏览器的搜索功能
 | char_265_sophia@epoque#11 | 荣耀之紫 | Glory Purple | グローリーパープル |
 | char_271_spikes@winter#2 | 随性 | Casual | 気儘 |
 | char_272_strong@summer#6 | 沙滩护卫 GT002 | Beach Guard GT002 | 砂浜の番人GT002 |
+| char_274_astesi@epoque#23 | 奇工妙想 | - | - |
 | char_274_astesi@epoque#5 | 寻耀 | Starseeker | 星尋ね |
 | char_274_astesi@shining#1 | 殿堂上的游禽 | Frlibe on the Palace | 翼広げしフレリーべ |
 | char_277_sqrrel@ghost#1 | 古堡清洁专家 | Cleansweeper in the Castle | 古城の掃除屋 |
@@ -1370,6 +1371,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1538_ymmons | “睚” | - | - |
 | enemy_1538_ymmons_2 | 蜃景 | - | - |
 | enemy_1538_ymmons_3 | 妄境 | - | - |
+| enemy_1539_reid | “复仇者” | - | - |
 | enemy_2001_duckmi | 鸭爵 | Duck Lord | ダック卿 |
 | enemy_2002_bearmi | 高普尼克 | Gopnik | ゴプニク |
 | enemy_2003_rockman | 迷路的巨像 | Lost Colossus | 迷子の巨像 |
@@ -1521,6 +1523,7 @@ tip: 请善用浏览器的搜索功能
 | act1flip | 哗啦啦祈愿牌 | - | - |
 | act1float | 纽莱堡市产业合作洽谈会 | - | - |
 | act1lock | 荷谟伊智境 | Hymnoi Wisdom | ヒュムノイの叡智 |
+| act1mainbuff | 战备支援 | - | - |
 | act1sandbox | 生息演算：沙中之火 | - | - |
 | act20side | 理想城：长夏狂欢季 | Ideal City: Endless Carnival | 理想都市-エンドレスカーニバル- |
 | act20sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
@@ -2222,6 +2225,7 @@ tip: 请善用浏览器的搜索功能
 | randomMaterialRune_1 | 黄铁行动物资补给 | Operation Pyrite Supplies | 補給物資・「黄鉄」 |
 | randomMaterialRune_10 | 尘环行动物资补给 | Operation Ashring Supplies | 補給物資・「塵環」 |
 | randomMaterialRune_11 | 赝波行动物资补给 | - | - |
+| randomMaterialRune_12 | 起源行动物资补给 | - | - |
 | randomMaterialRune_2 | 利刃行动物资补给 | Operation Blade Supplies | 補給物資・「利刃」 |
 | randomMaterialRune_3 | 燃灰行动物资补给 | Operation Cinder Supplies | 補給物資・「灰燼」 |
 | randomMaterialRune_4 | 铅封行动物资补给 | Operation Lead Seal Supplies | 補給物資・「鉛封」 |
@@ -2446,6 +2450,7 @@ tip: 请善用浏览器的搜索功能
 | NORM_34_0_1 | 枯焰生花 | - | - |
 | NORM_35_0_4 | 春江逢雪 | - | - |
 | NORM_35_0_6 | 炽焰无霾 | - | - |
+| NORM_36_0_4 | 前路回响 | - | - |
 | NORM_3_0_1 | 深夏的守夜人 | - | - |
 | NORM_3_0_3 | 久铸尘铁 | - | - |
 | NORM_3_0_5 | 火舞之人 | - | - |
