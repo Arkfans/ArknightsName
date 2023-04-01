@@ -106,6 +106,7 @@ tip: 请善用浏览器的搜索功能
 | act4d0 | 战地秘闻 | Operational Intelligence | 戦地の逸話 |
 | act4d2 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act4d5 | 限时积分任务 | - | - |
+| act4fun | 愚人节活动 | - | - |
 | act4pray | 际崖城惊奇墙登录活动 | Zeruertza Amazing Wall Login Event | 宝くじ
 イベント |
 | act5d0 | 喧闹法则 | Code of Brawl | 喧騒の掟 |

@@ -233,6 +233,7 @@ tip: 请善用浏览器的搜索功能
 | char_4080_lin | 林 | - | - |
 | char_4082_qiubai | 仇白 | - | - |
 | char_4083_chimes | 铎铃 | - | - |
+| char_4091_ulika | U-Official | - | - |
 | char_411_tomimi | 特米米 | Tomimi | トミミ |
 | char_415_flint | 燧石 | Flint | フリント |
 | char_416_zumama | 森蚺 | Eunectes | ユーネクテス |

@@ -106,6 +106,7 @@ tip: 请善用浏览器的搜索功能
 |   | 老鲤？ | Lee? | リー？ |
 | avg_325_bison_1 | 拜松 | - | - |
 | avg_326_glacus_1 | 格劳克斯 | Glaucus | グラウコス |
+| avg_328_cammou_1 | 卡达 | - | - |
 | avg_344_beewax_1 | 安克赫娜 | Ankhesena | 安克赫娜 |
 |   | 蜜蜡 | Beeswax | 蜜蜡 |
 | avg_346_aosta_1 | 奥斯塔 | Aosta | アオスタ |
@@ -162,6 +163,10 @@ tip: 请善用浏览器的搜索功能
 | avg_4080_lin_1 | 林雨霞 | - | - |
 | avg_4083_chimes_1 | 信使 | - | - |
 |   | 铎铃 |   |   |
+| avg_4091_ulika2_1 | 主播U | - | - |
+|   | 尤里卡 |   |   |
+| avg_4091_ulika_1 | U-Gigamax | - | - |
+|   | 主播U |   |   |
 | avg_421_laplum_1 | 拉菲艾拉 | Rafaela | ラファエラ |
 | avg_422_aurora_1 | 极光 | Aurora | オーロラ |
 | avg_426_billro_1 | 卡涅利安 | Carnelian | 卡涅利安 |

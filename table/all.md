@@ -233,6 +233,7 @@ tip: 请善用浏览器的搜索功能
 | char_4080_lin | 林 | - | - |
 | char_4082_qiubai | 仇白 | - | - |
 | char_4083_chimes | 铎铃 | - | - |
+| char_4091_ulika | U-Official | - | - |
 | char_411_tomimi | 特米米 | Tomimi | トミミ |
 | char_415_flint | 燧石 | Flint | フリント |
 | char_416_zumama | 森蚺 | Eunectes | ユーネクテス |
@@ -425,6 +426,7 @@ tip: 请善用浏览器的搜索功能
 | trap_103_ymdgct | 地形增伤控制 | - | - |
 | trap_104_dplant | 改性植物激素 | - | - |
 | trap_105_mhwrct | 滞空牵引无人机 | - | - |
+| trap_116_stdurk | “过去的我” | - | - |
 | trap_400_xbfarm | 便携式种植槽 | - | - |
 | trap_401_xbfato | 采集实习站 | - | - |
 | trap_403_wfactory | 蟹蟹抽水泵 | - | - |
@@ -1558,6 +1560,7 @@ tip: 请善用浏览器的搜索功能
 | act4d0 | 战地秘闻 | Operational Intelligence | 戦地の逸話 |
 | act4d2 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act4d5 | 限时积分任务 | - | - |
+| act4fun | 愚人节活动 | - | - |
 | act4pray | 际崖城惊奇墙登录活动 | Zeruertza Amazing Wall Login Event | 宝くじ
 イベント |
 | act5d0 | 喧闹法则 | Code of Brawl | 喧騒の掟 |
@@ -1933,6 +1936,7 @@ tip: 请善用浏览器的搜索功能
 | clue_Rap_5_rep_1 | 说唱动态5 | Rap Trend 5 | ラップサイド5 |
 | et_ObsidianPass | 黑曜石节门票 | Obsidian Festival Ticket | フェスチケット |
 | et_ObsidianPass_rep_1 | 黑曜石节门票 | Obsidian Festival Ticket | フェスチケット |
+| favor_add_ulika | 主播U的直播切片 | - | - |
 | itempack_gacha_1 | 福运鼓鼓礼袋 | - | - |
 | itempack_mod_10 | 狙击芯片组印刻仪 | - | - |
 | itempack_mod_11 | 术师芯片组印刻仪 | - | - |
@@ -2359,6 +2363,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_recruitR5_pick2 | 火神因陀罗招募券 | Vulcan and Indra Recruitment Voucher | 公開求人★5特別指名券 |
 | voucher_recruitR5_pick2701 | 资深干员调用凭证 | Senior Operator Transfer Permit | ★5招聘指名券 |
 | voucher_skin | 时装自选凭证 | Outfit Voucher | コーデ交換券 |
+| voucher_ulika | U-Official的文件夹 | - | - |
 | voucher_vigil | 伺夜的文件夹 | - | - |
 | 1 | 近卫干员 | Guard | 前衛タイプ |
 | 2 | 狙击干员 | Sniper | 狙撃タイプ |
@@ -3226,6 +3231,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_sleep | 救援绳索 | Rescue Rope | 救援ロープ |
 | sktok_slowfd | 高压喷射 | High-Pressure Spray | 高圧ガス |
 | sktok_smokebomb | 释放迷香 | - | - |
+| sktok_stdurk_1 | “咔嚓！” | - | - |
 | sktok_stone | 阻挡路线 | Obstruct | 進路妨害 |
 | sktok_storm | 沙尘暴 | Sandstorm | 砂嵐 |
 | sktok_streasure | 宝刺伤人 | - | - |

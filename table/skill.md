@@ -704,6 +704,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_sleep | 救援绳索 | Rescue Rope | 救援ロープ |
 | sktok_slowfd | 高压喷射 | High-Pressure Spray | 高圧ガス |
 | sktok_smokebomb | 释放迷香 | - | - |
+| sktok_stdurk_1 | “咔嚓！” | - | - |
 | sktok_stone | 阻挡路线 | Obstruct | 進路妨害 |
 | sktok_storm | 沙尘暴 | Sandstorm | 砂嵐 |
 | sktok_streasure | 宝刺伤人 | - | - |

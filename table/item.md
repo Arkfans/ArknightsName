@@ -311,6 +311,7 @@ tip: 请善用浏览器的搜索功能
 | clue_Rap_5_rep_1 | 说唱动态5 | Rap Trend 5 | ラップサイド5 |
 | et_ObsidianPass | 黑曜石节门票 | Obsidian Festival Ticket | フェスチケット |
 | et_ObsidianPass_rep_1 | 黑曜石节门票 | Obsidian Festival Ticket | フェスチケット |
+| favor_add_ulika | 主播U的直播切片 | - | - |
 | itempack_gacha_1 | 福运鼓鼓礼袋 | - | - |
 | itempack_mod_10 | 狙击芯片组印刻仪 | - | - |
 | itempack_mod_11 | 术师芯片组印刻仪 | - | - |
@@ -737,4 +738,5 @@ tip: 请善用浏览器的搜索功能
 | voucher_recruitR5_pick2 | 火神因陀罗招募券 | Vulcan and Indra Recruitment Voucher | 公開求人★5特別指名券 |
 | voucher_recruitR5_pick2701 | 资深干员调用凭证 | Senior Operator Transfer Permit | ★5招聘指名券 |
 | voucher_skin | 时装自选凭证 | Outfit Voucher | コーデ交換券 |
+| voucher_ulika | U-Official的文件夹 | - | - |
 | voucher_vigil | 伺夜的文件夹 | - | - |
