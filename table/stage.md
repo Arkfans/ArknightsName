@@ -80,16 +80,16 @@ tip: 请善用浏览器的搜索功能
 | act12d0_st01 | 悍将之心 | Titan's Heart | 密林の長 |
 | act12d0_st02 | 休息时间 | Momentary Rest | 憩いのひと時 |
 | act12d0_tr01 | 巨蕈 | Giant Mushroom | おばけ茸 |
-| act12mini_01 | 迂回狭道 | - | - |
-| act12mini_02 | 圆心徘徊 | - | - |
-| act12mini_03 | 苦笑灯光 | - | - |
-| act12mini_04 | 凭空出现 | - | - |
-| act12mini_05 | 比比皆是 | - | - |
-| act12mini_06 | 请君入瓮 | - | - |
-| act12mini_07 | 篡改前路 | - | - |
-| act12mini_08 | 夹缝生存 | - | - |
-| act12mini_s01 | 入鞘 | - | - |
-| act12mini_s02 | 行路 | - | - |
+| act12mini_01 | 迂回狭道 | Winding Path | 隘路迂回 |
+| act12mini_02 | 圆心徘徊 | Wandering Circles | 離心徘徊 |
+| act12mini_03 | 苦笑灯光 | Chagrined Light | 徒労の灯り |
+| act12mini_04 | 凭空出现 | Into Existence | 不意の出現 |
+| act12mini_05 | 比比皆是 | A Dime A Dozen | どこもかしこも |
+| act12mini_06 | 请君入瓮 | Turnabout is Fair Play | 墓穴を掘る |
+| act12mini_07 | 篡改前路 | Tampered Path | 進路改竄 |
+| act12mini_08 | 夹缝生存 | Surviving In Cracks | 耐え忍ぶ |
+| act12mini_s01 | 入鞘 | Sheathe | 納剣 |
+| act12mini_s02 | 行路 | The Journey | 道を行く |
 | act12side_01 | 意外入选 | Accidental Participation | 思いがけぬ参戦 |
 | act12side_02 | 首轮竞赛 | First Round | 第一ラウンド |
 | act12side_03 | 拔铳相助 | Timely Assistance | 銃を手に |
@@ -130,15 +130,15 @@ tip: 请善用浏览器的搜索功能
 | act13d5_st02 | 酒杯 | Wineglass | ワイングラス |
 | act13d5_st03 | 缄默启程 | Silent Departure | 静かなる旅立ち |
 | act13d5_tr01 | 模拟竞赛 | Mock Competition | 練習試合 |
-| act13mini_01 | 危楼渐溃 | - | - |
-| act13mini_02 | 冷箭炙弹 | - | - |
-| act13mini_03 | 歧路彷徨 | - | - |
-| act13mini_04 | 霓虹之夜 | - | - |
-| act13mini_05 | 一夫当关 | - | - |
-| act13mini_06 | 雨中蜃景 | - | - |
-| act13mini_07 | 雪天路滑 | - | - |
-| act13mini_08 | 凌空而过 | - | - |
-| act13mini_s01 | 保卫阿根 | - | - |
+| act13mini_01 | 危楼渐溃 | Teetering Tower | 崩れゆくビル |
+| act13mini_02 | 冷箭炙弹 | Scorch and Frost | 矢と砲弾 |
+| act13mini_03 | 歧路彷徨 | Lost at Crossroads | 岐路を彷徨う |
+| act13mini_04 | 霓虹之夜 | Neon Nights | ネオンの夜 |
+| act13mini_05 | 一夫当关 | An Army of One | 万夫不当 |
+| act13mini_06 | 雨中蜃景 | Rain Mirage | 雨の中の蜃気楼 |
+| act13mini_07 | 雪天路滑 | Slippery Snow | 滑りやすい雪の日 |
+| act13mini_08 | 凌空而过 | Rush Through the Sky | 空高くよぎる |
+| act13mini_s01 | 保卫阿根 | Protect Ah Gen | アグンを守れ |
 | act13side_01 | 金盏花 | Marigold | カレンデュラ |
 | act13side_02 | 垂死的刺 | Last-Ditch Thrust | 瀕死な棘 |
 | act13side_03 | 筹备着 | Preparing | それぞれの準備 |

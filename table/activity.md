@@ -20,7 +20,7 @@ tip: 请善用浏览器的搜索功能
 | act12d0 | 密林悍将归来 | The Great Chief Returns | 帰還！密林の長 |
 | act12d6 | 刻俄柏的灰蕈迷境 | Ceobe's Fungimist | ケオベの茸狩迷界 |
 | act12login | 登录领取奖励 | - | - |
-| act12mini | 日暮寻路 | - | - |
+| act12mini | 日暮寻路 | An Obscure Wanderer | 夕景に影ありて |
 | act12side | 多索雷斯假日 | Dossoles Holiday | ドッソレスホリデー |
 | act12sre | 多索雷斯假日·复刻 | Dossoles Holiday | ドッソレスホリデー |
 | act13d0 | 踏寻往昔之风 | Rewinding Breeze | 在りし日の風を求めて |
@@ -29,7 +29,7 @@ tip: 请善用浏览器的搜索功能
 | act13d2d2 | 骑兵与猎人复刻签到 | Grani and the Knights' Treasure Rerun Sign-in | 騎兵と狩人・復刻ログボ |
 | act13d5 | 玛莉娅·临光 | Maria Nearl | マリア・ニアール |
 | act13login | 登录领取奖励 | - | - |
-| act13mini | 好久不见 | - | - |
+| act13mini | 好久不见 | It's Been a While | また会えたね |
 | act13side | 长夜临光 | Near Light | ニアーライト |
 | act13sre | 长夜临光·复刻 | - | - |
 | act14d0d1 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
@@ -87,7 +87,7 @@ tip: 请善用浏览器的搜索功能
 | act26sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act27sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act28sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
-| act29sign | 桂时逢月——月饼烘焙小教程 | - | - |
+| act29sign | 桂时逢月——月饼烘焙小教程 | Encounter At The Osmanthus Blossom - Mooncake-Making Tutorial | 円満団楽-ロドス点心教室 |
 | act2bossrush | 引航者试炼 | - | - |
 | act2d5 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act2d8 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
@@ -100,7 +100,7 @@ tip: 请善用浏览器的搜索功能
 | act3d0 | 火蓝之心 | Heart of Surging Flame | 青く燃ゆる心 |
 | act3d5 | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
 | act3d7 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
-| act3fun | 愚人节活动 | - | - |
+| act3fun | 愚人节活动 | April Fools' Day Event | エイプリルフール |
 | act3mine | 葫芦谷矿区登录活动 | Gourd Valley Mining Area Login Event | ゴードバレー採鉱区 |
 | act3pray | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |
 | act4d0 | 战地秘闻 | Operational Intelligence | 戦地の逸話 |

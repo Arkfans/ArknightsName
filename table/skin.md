@@ -61,7 +61,7 @@ tip: 请善用浏览器的搜索功能
 | char_155_tiger@striker#2 | 悍将 | Valiant General | 猛将 |
 | char_158_milu@snow#2 | 覆雪 | Snowywatch | 白い狩人 |
 | char_158_milu@wild#2 | 枯柏 | Wilted Cypress | 枯れ柏 |
-| char_159_peacok@game#1 | 超级断罪朋友 | - | - |
+| char_159_peacok@game#1 | 超级断罪朋友 | Your Superconvicting Friend | スーパー断罪フレンズ |
 | char_164_nightm@epoque#5 | 光影 | Light and Shadow | 光と影 |
 | char_166_skfire@summer#1 | 温差 RT.RX01 | Temperature Difference RT.RX01 | 温度差RT.RX01 |
 | char_171_bldsk@summer#7 | 悠然假日 HD31 | Casual Vacation HD31 | ホリデーHD31 |
@@ -132,7 +132,7 @@ tip: 请善用浏览器的搜索功能
 | char_261_sddrag@ambienceSynesthesia#2 | 翡翠假日 | Emerald Holiday | エメラルドホリデー |
 | char_263_skadi@summer#3 | 驭浪 WR04 | Waverider WR04 | ウェーブライダーWR04 |
 | char_264_f12yin@boc#3 | 乌云 | Dark Cloud | 烏雲 |
-| char_264_f12yin@epoque#15 | 读者 | - | - |
+| char_264_f12yin@epoque#15 | 读者 | Book Reader | 読書家 |
 | char_265_sophia@epoque#11 | 荣耀之紫 | Glory Purple | グローリーパープル |
 | char_271_spikes@winter#2 | 随性 | Casual | 気儘 |
 | char_272_strong@summer#6 | 沙滩护卫 GT002 | Beach Guard GT002 | 砂浜の番人GT002 |
@@ -162,7 +162,7 @@ tip: 请善用浏览器的搜索功能
 | char_332_archet@shining#1 | 宣传策略 | Publicity Strategy | PR戦略 |
 | char_333_sidero@summer#6 | 轻风 LB03 | Light Breeze LB03 | そよ風LB03 |
 | char_336_folivo@epoque#22 | 别枝 | - | - |
-| char_337_utage@epoque#15 | 伪装 | - | - |
+| char_337_utage@epoque#15 | 伪装 | Disguise | 偽装 |
 | char_337_utage@summer#4 | 夏卉 FA661 | Summer Flowers FA661 | 夏の花弁FA661 |
 | char_338_iris@witch#3 | 镜中来访 | - | - |
 | char_340_shwaz@snow#1 | 厚礼 | Presents | ギフト |
@@ -177,7 +177,7 @@ tip: 请善用浏览器的搜索功能
 | char_355_ethan@epoque#7 | 渗透 | Infiltrator | 同化 |
 | char_356_broca@marthe#4 | 组间休息 | Rest Between Sets | インターバル |
 | char_358_lisa@epoque#22 | 雪霁 | - | - |
-| char_358_lisa@lxh#1 | 春之颂 | - | - |
+| char_358_lisa@lxh#1 | 春之颂 | Spring Praise | 春陽讃歌 |
 | char_358_lisa@wild#3 | 弃土花开 | Lostlands Flowering | 荒地に咲く花 |
 | char_365_aprl@wild#3 | 远望 | Faraway Gaze | 遠望 |
 | char_366_acdrop@whirlwind#4 | “下午茶时光” | - | - |
@@ -198,7 +198,7 @@ tip: 请善用浏览器的搜索功能
 | char_402_tuye@epoque#14 | 培翠 | Cultivate Vegetation | 緑化 |
 | char_4032_provs@wild#7 | 秋高气爽 | - | - |
 | char_4036_forcer@epoque#20 | 拾翼 | - | - |
-| char_4040_rockr@lxh#1 | 欢唱之前 | - | - |
+| char_4040_rockr@lxh#1 | 欢唱之前 | Before Singing | 歌の前に |
 | char_4043_erato@snow#5 | 未讲述的故事 | - | - |
 | char_4055_bgsnow@wild#7 | 字句中的雪原 | - | - |
 | char_4077_palico@mh#1 | 跃上街头 | - | - |
@@ -225,7 +225,7 @@ tip: 请善用浏览器的搜索功能
 | char_473_mberry@epoque#14 | 植药 | Plant Crude Drug | 薬師 |
 | char_473_mberry@nian#9 | 照冰轮 | - | - |
 | char_474_glady@boc#5 | 返航 | Return | 帰航 |
-| char_475_akafyu@epoque#15 | 心性 | - | - |
+| char_475_akafyu@epoque#15 | 心性 | Temperament | 心技 |
 | char_476_blkngt@nian#8 | 枝头馥 | - | - |
 | char_476_blkngt@summer#8 | 夏卉 FA641 | Summer Flower FA641 | 夏の花弁FA641 |
 | char_478_kirara@game#2 | 前沿玩家 | Trendsetting Player | トレンディゲーマー |

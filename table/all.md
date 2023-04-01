@@ -206,7 +206,7 @@ tip: 请善用浏览器的搜索功能
 | char_401_elysm | 极境 | Elysium | エリジウム |
 | char_4025_aprot2 | 暮落 | Shalem | シャレム |
 | char_402_tuye | 图耶 | Tuye | トゥイエ |
-| char_4032_provs | 但书 | - | - |
+| char_4032_provs | 但书 | Proviso | プロヴァイゾ |
 | char_4036_forcer | 见行者 | Enforcer | エンフォーサー |
 | char_4039_horn | 号角 | Horn | ホルン |
 | char_4040_rockr | 洛洛 | Rockrock | ロックロック |
@@ -222,10 +222,10 @@ tip: 请善用浏览器的搜索功能
 | char_405_absin | 苦艾 | Absinthe | アブサント |
 | char_4062_totter | 铅踝 | - | - |
 | char_4063_quartz | 石英 | - | - |
-| char_4064_mlynar | 玛恩纳 | - | - |
+| char_4064_mlynar | 玛恩纳 | Młynar | ムリナール |
 | char_4065_judge | 斥罪 | - | - |
 | char_4066_highmo | 海沫 | - | - |
-| char_4067_lolxh | 罗小黑 | - | - |
+| char_4067_lolxh | 罗小黑 | Luo Xiaohei | 羅小黒 |
 | char_4071_peper | 明椒 | - | - |
 | char_4072_ironmn | 白铁 | - | - |
 | char_4077_palico | 泰拉大陆调查团 | - | - |
@@ -532,7 +532,7 @@ tip: 请善用浏览器的搜索功能
 | char_155_tiger@striker#2 | 悍将 | Valiant General | 猛将 |
 | char_158_milu@snow#2 | 覆雪 | Snowywatch | 白い狩人 |
 | char_158_milu@wild#2 | 枯柏 | Wilted Cypress | 枯れ柏 |
-| char_159_peacok@game#1 | 超级断罪朋友 | - | - |
+| char_159_peacok@game#1 | 超级断罪朋友 | Your Superconvicting Friend | スーパー断罪フレンズ |
 | char_164_nightm@epoque#5 | 光影 | Light and Shadow | 光と影 |
 | char_166_skfire@summer#1 | 温差 RT.RX01 | Temperature Difference RT.RX01 | 温度差RT.RX01 |
 | char_171_bldsk@summer#7 | 悠然假日 HD31 | Casual Vacation HD31 | ホリデーHD31 |
@@ -603,7 +603,7 @@ tip: 请善用浏览器的搜索功能
 | char_261_sddrag@ambienceSynesthesia#2 | 翡翠假日 | Emerald Holiday | エメラルドホリデー |
 | char_263_skadi@summer#3 | 驭浪 WR04 | Waverider WR04 | ウェーブライダーWR04 |
 | char_264_f12yin@boc#3 | 乌云 | Dark Cloud | 烏雲 |
-| char_264_f12yin@epoque#15 | 读者 | - | - |
+| char_264_f12yin@epoque#15 | 读者 | Book Reader | 読書家 |
 | char_265_sophia@epoque#11 | 荣耀之紫 | Glory Purple | グローリーパープル |
 | char_271_spikes@winter#2 | 随性 | Casual | 気儘 |
 | char_272_strong@summer#6 | 沙滩护卫 GT002 | Beach Guard GT002 | 砂浜の番人GT002 |
@@ -633,7 +633,7 @@ tip: 请善用浏览器的搜索功能
 | char_332_archet@shining#1 | 宣传策略 | Publicity Strategy | PR戦略 |
 | char_333_sidero@summer#6 | 轻风 LB03 | Light Breeze LB03 | そよ風LB03 |
 | char_336_folivo@epoque#22 | 别枝 | - | - |
-| char_337_utage@epoque#15 | 伪装 | - | - |
+| char_337_utage@epoque#15 | 伪装 | Disguise | 偽装 |
 | char_337_utage@summer#4 | 夏卉 FA661 | Summer Flowers FA661 | 夏の花弁FA661 |
 | char_338_iris@witch#3 | 镜中来访 | - | - |
 | char_340_shwaz@snow#1 | 厚礼 | Presents | ギフト |
@@ -648,7 +648,7 @@ tip: 请善用浏览器的搜索功能
 | char_355_ethan@epoque#7 | 渗透 | Infiltrator | 同化 |
 | char_356_broca@marthe#4 | 组间休息 | Rest Between Sets | インターバル |
 | char_358_lisa@epoque#22 | 雪霁 | - | - |
-| char_358_lisa@lxh#1 | 春之颂 | - | - |
+| char_358_lisa@lxh#1 | 春之颂 | Spring Praise | 春陽讃歌 |
 | char_358_lisa@wild#3 | 弃土花开 | Lostlands Flowering | 荒地に咲く花 |
 | char_365_aprl@wild#3 | 远望 | Faraway Gaze | 遠望 |
 | char_366_acdrop@whirlwind#4 | “下午茶时光” | - | - |
@@ -669,7 +669,7 @@ tip: 请善用浏览器的搜索功能
 | char_402_tuye@epoque#14 | 培翠 | Cultivate Vegetation | 緑化 |
 | char_4032_provs@wild#7 | 秋高气爽 | - | - |
 | char_4036_forcer@epoque#20 | 拾翼 | - | - |
-| char_4040_rockr@lxh#1 | 欢唱之前 | - | - |
+| char_4040_rockr@lxh#1 | 欢唱之前 | Before Singing | 歌の前に |
 | char_4043_erato@snow#5 | 未讲述的故事 | - | - |
 | char_4055_bgsnow@wild#7 | 字句中的雪原 | - | - |
 | char_4077_palico@mh#1 | 跃上街头 | - | - |
@@ -696,7 +696,7 @@ tip: 请善用浏览器的搜索功能
 | char_473_mberry@epoque#14 | 植药 | Plant Crude Drug | 薬師 |
 | char_473_mberry@nian#9 | 照冰轮 | - | - |
 | char_474_glady@boc#5 | 返航 | Return | 帰航 |
-| char_475_akafyu@epoque#15 | 心性 | - | - |
+| char_475_akafyu@epoque#15 | 心性 | Temperament | 心技 |
 | char_476_blkngt@nian#8 | 枝头馥 | - | - |
 | char_476_blkngt@summer#8 | 夏卉 FA641 | Summer Flower FA641 | 夏の花弁FA641 |
 | char_478_kirara@game#2 | 前沿玩家 | Trendsetting Player | トレンディゲーマー |
@@ -1472,7 +1472,7 @@ tip: 请善用浏览器的搜索功能
 | act12d0 | 密林悍将归来 | The Great Chief Returns | 帰還！密林の長 |
 | act12d6 | 刻俄柏的灰蕈迷境 | Ceobe's Fungimist | ケオベの茸狩迷界 |
 | act12login | 登录领取奖励 | - | - |
-| act12mini | 日暮寻路 | - | - |
+| act12mini | 日暮寻路 | An Obscure Wanderer | 夕景に影ありて |
 | act12side | 多索雷斯假日 | Dossoles Holiday | ドッソレスホリデー |
 | act12sre | 多索雷斯假日·复刻 | Dossoles Holiday | ドッソレスホリデー |
 | act13d0 | 踏寻往昔之风 | Rewinding Breeze | 在りし日の風を求めて |
@@ -1481,7 +1481,7 @@ tip: 请善用浏览器的搜索功能
 | act13d2d2 | 骑兵与猎人复刻签到 | Grani and the Knights' Treasure Rerun Sign-in | 騎兵と狩人・復刻ログボ |
 | act13d5 | 玛莉娅·临光 | Maria Nearl | マリア・ニアール |
 | act13login | 登录领取奖励 | - | - |
-| act13mini | 好久不见 | - | - |
+| act13mini | 好久不见 | It's Been a While | また会えたね |
 | act13side | 长夜临光 | Near Light | ニアーライト |
 | act13sre | 长夜临光·复刻 | - | - |
 | act14d0d1 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
@@ -1539,7 +1539,7 @@ tip: 请善用浏览器的搜索功能
 | act26sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act27sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act28sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
-| act29sign | 桂时逢月——月饼烘焙小教程 | - | - |
+| act29sign | 桂时逢月——月饼烘焙小教程 | Encounter At The Osmanthus Blossom - Mooncake-Making Tutorial | 円満団楽-ロドス点心教室 |
 | act2bossrush | 引航者试炼 | - | - |
 | act2d5 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act2d8 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
@@ -1552,7 +1552,7 @@ tip: 请善用浏览器的搜索功能
 | act3d0 | 火蓝之心 | Heart of Surging Flame | 青く燃ゆる心 |
 | act3d5 | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
 | act3d7 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
-| act3fun | 愚人节活动 | - | - |
+| act3fun | 愚人节活动 | April Fools' Day Event | エイプリルフール |
 | act3mine | 葫芦谷矿区登录活动 | Gourd Valley Mining Area Login Event | ゴードバレー採鉱区 |
 | act3pray | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |
 | act4d0 | 战地秘闻 | Operational Intelligence | 戦地の逸話 |
@@ -1788,7 +1788,7 @@ tip: 请善用浏览器的搜索功能
 | act12d0_token_components_rep_1 | 机械零件 | Mechanical Parts | 機械のパーツ |
 | act12d6_token_mushroom | 好看的蘑菇 | Magnificent Mushroom | きれいな茸 |
 | act12d6_token_pancake | 美味的蜜饼 | Delicious Honey Biscuit | はちみつクッキー |
-| act12mini_token_component | 制式器械零件 | - | - |
+| act12mini_token_component | 制式器械零件 | Standard-Issue Component | 制式機械パーツ |
 | act12side_point_cmemomedal | 陈小姐纪念奖牌 | Miss Ch'en Commemorative Medal | チェンの記念メダル |
 | act12side_point_cmemomedal_rep_1 | 陈小姐纪念奖牌 | Miss Ch'en Commemorative Medal | チェンの記念メダル |
 | act12side_token_coupon | 约翰老妈代金券 | Mama John's Voucher | ママジョンズクーポン |
@@ -1800,7 +1800,7 @@ tip: 请善用浏览器的搜索功能
 | act13d0_token_dial | 废弃时钟表盘 | Discarded Clock Dial | 棄てられた文字盤 |
 | act13d5_token_securities | 梅什科竞技证券 | Mieszko Sports Securities | ミェシュコ競技証券 |
 | act13d5_token_securities_rep_1 | 梅什科竞技证券 | Mieszko Sports Securities | ミェシュコ競技証券 |
-| act13mini_token_can | 宠物营养罐头 | - | - |
+| act13mini_token_can | 宠物营养罐头 | Nutritional Pet Food Tin | ペットフード缶 |
 | act13side_prestige_armorless | 无胄盟声望 | Armorless Union Prestige | 無冑盟からの評判 |
 | act13side_prestige_commerce | 商业联合会声望 | General Chamber of Commerce Prestige | 商業連合会からの評判 |
 | act13side_prestige_kazimierz | 监正会声望 | Adeptus Sprawiedliwi Prestige | 監査会からの評判 |
@@ -1893,10 +1893,10 @@ tip: 请善用浏览器的搜索功能
 | ap_supply_lt_100_2023_4 | 金糖年糕 | - | - |
 | ap_supply_lt_100_2023_5 | 木瓜叶馅饼 | - | - |
 | ap_supply_lt_120 | 应急理智浓缩液 | Emergency Sanity Concentrate | 上級理性回復剤+ |
-| ap_supply_lt_120_2022_1 | 满颜色 | - | - |
-| ap_supply_lt_120_2022_2 | 正圆月 | - | - |
-| ap_supply_lt_120_2022_3 | 笑靥开 | - | - |
-| ap_supply_lt_120_2022_4 | 桂子落 | - | - |
+| ap_supply_lt_120_2022_1 | 满颜色 | Full Color | 一家団欒 |
+| ap_supply_lt_120_2022_2 | 正圆月 | Full Moon | 仲秋名月 |
+| ap_supply_lt_120_2022_3 | 笑靥开 | Smiley Face | 喜色満面 |
+| ap_supply_lt_120_2022_4 | 桂子落 | Osmanthus | 天香桂花 |
 | ap_supply_lt_60 | 应急理智合剂 | Emergency Sanity Potion | 初級理性回復剤 |
 | ap_supply_lt_80 | 应急理智加强剂 | Emergency Sanity Booster | 初級理性回復剤+ |
 | base_ap | 无人机 | Drone | ドローン |
@@ -2150,7 +2150,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_401_elysm | 极境的信物 | Elysium's Token | エリジウムの印 |
 | p_char_4025_aprot2 | 暮落的信物 | Shalem's Token | シャレムの印 |
 | p_char_402_tuye | 图耶的信物 | Tuye's Token | トゥイエの印 |
-| p_char_4032_provs | 但书的信物 | - | - |
+| p_char_4032_provs | 但书的信物 | Proviso's Token | プロヴァイゾの印 |
 | p_char_4036_forcer | 见行者的信物 | Enforcer's Token | エンフォーサーの印 |
 | p_char_4039_horn | 号角的信物 | Horn's Token | ホルンの印 |
 | p_char_4040_rockr | 洛洛的信物 | Rockrock's Token | ロックロックの印 |
@@ -2166,7 +2166,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_405_absin | 苦艾的信物 | Absinthe's Token | アブサントの印 |
 | p_char_4062_totter | 铅踝的信物 | - | - |
 | p_char_4063_quartz | 石英的信物 | - | - |
-| p_char_4064_mlynar | 玛恩纳的信物 | - | - |
+| p_char_4064_mlynar | 玛恩纳的信物 | Młynar's Token | ムリナールの印 |
 | p_char_4065_judge | 斥罪的信物 | - | - |
 | p_char_4066_highmo | 海沫的信物 | - | - |
 | p_char_4071_peper | 明椒的信物 | - | - |
@@ -2314,7 +2314,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_bolivar | 密林悍将归来家具收藏包 | The Great Chief Returns Furniture Pack | 帰還！密林の長家具パック |
 | uni_set_castle_1 | 古堡印象家具收藏包一 | Castlesque Furniture Pack I | 古城風家具パックvol.1 |
 | uni_set_castle_2 | 古堡印象家具收藏包二 | Castlesque Furniture Pack II | 古城風家具パックvol.2 |
-| uni_set_fNearl | 玛莉娅·临光家具收藏包 | - | - |
+| uni_set_fNearl | 玛莉娅·临光家具收藏包 | Maria Nearl Furniture Pack | マリア・ニアール家具パック |
 | uni_set_guitar | 火蓝之心家具收藏包 | Heart of Surging Flame Furniture Pack | 青く燃ゆる心家具パック |
 | uni_set_inkArt | 画中人家具收藏包 | - | - |
 | uni_set_nightView | 沃伦姆德的薄暮家具收藏包 | Twilight of Wolumonde Furniture Pack | ウォルモンドの薄暮家具パック |
@@ -2340,7 +2340,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_full_robin | 罗宾的私人信件 | - | - |
 | voucher_full_sidero | 铸铁的私人信件 | Sideroca's Personal Letter | シデロカの手紙 |
 | voucher_full_snsant | 雪雉的私人信件 | Snowsant's Personal Letter | スノーズントの手紙 |
-| voucher_full_sophia | 鞭刃的私人信件 | - | - |
+| voucher_full_sophia | 鞭刃的私人信件 | Whislash's Personal Letter | ウィスラッシュの手紙 |
 | voucher_full_tomimi | 特米米的私人信件 | Tomimi's Personal Letter | トミミの手紙 |
 | voucher_item_4pick1 | 干员兑换券 | Operator Voucher | オペレーター指名券 |
 | voucher_item_4pick1_1803 | 干员兑换券 | Operator Voucher | オペレーター指名券 |
@@ -2497,6 +2497,7 @@ tip: 请善用浏览器的搜索功能
 | _NORM_19_2_1 | - | Joint Operation | 連合作戦 |
 | _NORM_1_0_1 | - | Behold the Sword of Tide | 潮汐断ちし剣 |
 | _NORM_20_1_1 | - | Pathfinder of Sands | 砂漠の導き手 |
+| _NORM_20_2_1 | - | - | 騎士に非ず |
 | _NORM_2_0_1 | - | Chi Xiao, the Hidden Dragon | 赤龍乗雲 |
 | _NORM_2_0_3 | - | Lungmen Spec Ops Headhunting | 龍門特別行動要員 |
 | _NORM_3_0_1 | - | Frozen Land | 果てなき氷原 |
@@ -2810,8 +2811,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_lmlee_1 | 小惩大诫 | Stern Admonishment | 邪気退散 |
 | skchr_lmlee_2 | 驱凶辟邪 | Exorcise Evil | 辟邪除災 |
 | skchr_lmlee_3 | 贵客盈门 | Honored Guest | 千客万来 |
-| skchr_lolxh_1 | 掠光尾影 | - | - |
-| skchr_lolxh_2 | 碎金为刃 | - | - |
+| skchr_lolxh_1 | 掠光尾影 | Tail Afterimage | 変化自在 |
+| skchr_lolxh_2 | 碎金为刃 | Broken Blade | 金属操作 |
 | skchr_lumen_1 | 沐雨 | In Drizzle, Privation | 恵みの慈雨 |
 | skchr_lumen_2 | 沛霖 | In Downpour, Grace | 清めの沛雨 |
 | skchr_lumen_3 | 灯火不灭 | This Lantern Undying | 不滅の灯火 |
@@ -2835,9 +2836,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_mizuki_1 | 唤醒 | Awaken | 呼び声 |
 | skchr_mizuki_2 | 囚徒困境 | Prisoner's Dilemma | ジレンマ |
 | skchr_mizuki_3 | 镜花水月 | Moon in the Water | 鏡花水月 |
-| skchr_mlynar_1 | 未声张的怒火 | - | - |
-| skchr_mlynar_2 | 未宽解的悲哀 | - | - |
-| skchr_mlynar_3 | 未照耀的荣光 | - | - |
+| skchr_mlynar_1 | 未声张的怒火 | Unvoiced Anger | 秘めたる怒り |
+| skchr_mlynar_2 | 未宽解的悲哀 | Unresolved Sorrow | 癒えぬ悲しみ |
+| skchr_mlynar_3 | 未照耀的荣光 | Unbrilliant Glory | 輝かざる栄光 |
 | skchr_mm_1 | 麻痹弹 | Paralyzing Shell | ストップショット |
 | skchr_mm_2 | 束缚电击 | Binding Shock | スタンショック |
 | skchr_moeshd_1 | 自动防御 | Auto Defense | 防御態勢 |
@@ -2897,8 +2898,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_podego_2 | 孢子扩散 | Spread Spores | 胞子飛散 |
 | skchr_prove_1 | 狼眼 | Wolf's Eye | ウルフアイ |
 | skchr_prove_2 | 杀戮嗅觉 | Prey Seeker | 鮮血の匂い |
-| skchr_provs_1 | 纠纷起诉 | - | - |
-| skchr_provs_2 | 致胜立论 | - | - |
+| skchr_provs_1 | 纠纷起诉 | Dispute Litigation | 訴訟提起 |
+| skchr_provs_2 | 致胜立论 | Prevailing Argument | 論理展開 |
 | skchr_pudd_2 | 扩散电流 | Diffusion Current | 電子流拡散 |
 | skchr_puzzle_1 | 关键线索 | - | - |
 | skchr_puzzle_2 | 疑点追踪 | - | - |
@@ -3348,16 +3349,16 @@ tip: 请善用浏览器的搜索功能
 | act12d0_st01 | 悍将之心 | Titan's Heart | 密林の長 |
 | act12d0_st02 | 休息时间 | Momentary Rest | 憩いのひと時 |
 | act12d0_tr01 | 巨蕈 | Giant Mushroom | おばけ茸 |
-| act12mini_01 | 迂回狭道 | - | - |
-| act12mini_02 | 圆心徘徊 | - | - |
-| act12mini_03 | 苦笑灯光 | - | - |
-| act12mini_04 | 凭空出现 | - | - |
-| act12mini_05 | 比比皆是 | - | - |
-| act12mini_06 | 请君入瓮 | - | - |
-| act12mini_07 | 篡改前路 | - | - |
-| act12mini_08 | 夹缝生存 | - | - |
-| act12mini_s01 | 入鞘 | - | - |
-| act12mini_s02 | 行路 | - | - |
+| act12mini_01 | 迂回狭道 | Winding Path | 隘路迂回 |
+| act12mini_02 | 圆心徘徊 | Wandering Circles | 離心徘徊 |
+| act12mini_03 | 苦笑灯光 | Chagrined Light | 徒労の灯り |
+| act12mini_04 | 凭空出现 | Into Existence | 不意の出現 |
+| act12mini_05 | 比比皆是 | A Dime A Dozen | どこもかしこも |
+| act12mini_06 | 请君入瓮 | Turnabout is Fair Play | 墓穴を掘る |
+| act12mini_07 | 篡改前路 | Tampered Path | 進路改竄 |
+| act12mini_08 | 夹缝生存 | Surviving In Cracks | 耐え忍ぶ |
+| act12mini_s01 | 入鞘 | Sheathe | 納剣 |
+| act12mini_s02 | 行路 | The Journey | 道を行く |
 | act12side_01 | 意外入选 | Accidental Participation | 思いがけぬ参戦 |
 | act12side_02 | 首轮竞赛 | First Round | 第一ラウンド |
 | act12side_03 | 拔铳相助 | Timely Assistance | 銃を手に |
@@ -3398,15 +3399,15 @@ tip: 请善用浏览器的搜索功能
 | act13d5_st02 | 酒杯 | Wineglass | ワイングラス |
 | act13d5_st03 | 缄默启程 | Silent Departure | 静かなる旅立ち |
 | act13d5_tr01 | 模拟竞赛 | Mock Competition | 練習試合 |
-| act13mini_01 | 危楼渐溃 | - | - |
-| act13mini_02 | 冷箭炙弹 | - | - |
-| act13mini_03 | 歧路彷徨 | - | - |
-| act13mini_04 | 霓虹之夜 | - | - |
-| act13mini_05 | 一夫当关 | - | - |
-| act13mini_06 | 雨中蜃景 | - | - |
-| act13mini_07 | 雪天路滑 | - | - |
-| act13mini_08 | 凌空而过 | - | - |
-| act13mini_s01 | 保卫阿根 | - | - |
+| act13mini_01 | 危楼渐溃 | Teetering Tower | 崩れゆくビル |
+| act13mini_02 | 冷箭炙弹 | Scorch and Frost | 矢と砲弾 |
+| act13mini_03 | 歧路彷徨 | Lost at Crossroads | 岐路を彷徨う |
+| act13mini_04 | 霓虹之夜 | Neon Nights | ネオンの夜 |
+| act13mini_05 | 一夫当关 | An Army of One | 万夫不当 |
+| act13mini_06 | 雨中蜃景 | Rain Mirage | 雨の中の蜃気楼 |
+| act13mini_07 | 雪天路滑 | Slippery Snow | 滑りやすい雪の日 |
+| act13mini_08 | 凌空而过 | Rush Through the Sky | 空高くよぎる |
+| act13mini_s01 | 保卫阿根 | Protect Ah Gen | アグンを守れ |
 | act13side_01 | 金盏花 | Marigold | カレンデュラ |
 | act13side_02 | 垂死的刺 | Last-Ditch Thrust | 瀕死な棘 |
 | act13side_03 | 筹备着 | Preparing | それぞれの準備 |
@@ -4165,7 +4166,7 @@ tip: 请善用浏览器的搜索功能
 | act11sre_zone2 | 浪蚀哀墟 | Choppy Ruin | 海蝕の荒墟 |
 | act12d0_zone1 | 大酋长之路 | Great Chief's Path | 大族長への道 |
 | act12d0_zone2 | 嘉维尔足迹 | Gavial's Footprints | ガヴィルの軌跡 |
-| act12mini_zone1 | 假日旅程 | - | - |
+| act12mini_zone1 | 假日旅程 | Holiday Trip | 休暇の旅程 |
 | act12side_zone1 | 极限铁人大奖赛 | Dossoles Warrior Champion | 大会エントリー |
 | act12side_zone2 | 赛后余波 | Afterwinds | 大会の余波 |
 | act12side_zone3 | 暗流涌动 | Tidings Unseen | 蠢く濁流 |
@@ -4177,7 +4178,7 @@ tip: 请善用浏览器的搜索功能
 | act13d2_zone2 | 宝藏之路 | Path to Treasure | 宝への道 |
 | act13d5_zone1 | 大竞技场 | Jousting Arena | 大競技場 |
 | act13d5_zone2 |  钳兽牢笼 | Cage of Gloompincer | 死闘の檻 |
-| act13mini_zone1 | 晚安，咪！ | - | - |
+| act13mini_zone1 | 晚安，咪！ | Good Evenyan! | おやすみニャ！ |
 | act13side_zone1 | 大骑士领 | Kawalerielki | 大騎士領 |
 | act13side_zone2 | 零号地块 | Area 0 | 零号地 |
 | act13side_zone3 | 城市霓虹 | City Neon | 都市のネオン |

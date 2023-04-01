@@ -206,7 +206,7 @@ tip: 请善用浏览器的搜索功能
 | char_401_elysm | 极境 | Elysium | エリジウム |
 | char_4025_aprot2 | 暮落 | Shalem | シャレム |
 | char_402_tuye | 图耶 | Tuye | トゥイエ |
-| char_4032_provs | 但书 | - | - |
+| char_4032_provs | 但书 | Proviso | プロヴァイゾ |
 | char_4036_forcer | 见行者 | Enforcer | エンフォーサー |
 | char_4039_horn | 号角 | Horn | ホルン |
 | char_4040_rockr | 洛洛 | Rockrock | ロックロック |
@@ -222,10 +222,10 @@ tip: 请善用浏览器的搜索功能
 | char_405_absin | 苦艾 | Absinthe | アブサント |
 | char_4062_totter | 铅踝 | - | - |
 | char_4063_quartz | 石英 | - | - |
-| char_4064_mlynar | 玛恩纳 | - | - |
+| char_4064_mlynar | 玛恩纳 | Młynar | ムリナール |
 | char_4065_judge | 斥罪 | - | - |
 | char_4066_highmo | 海沫 | - | - |
-| char_4067_lolxh | 罗小黑 | - | - |
+| char_4067_lolxh | 罗小黑 | Luo Xiaohei | 羅小黒 |
 | char_4071_peper | 明椒 | - | - |
 | char_4072_ironmn | 白铁 | - | - |
 | char_4077_palico | 泰拉大陆调查团 | - | - |

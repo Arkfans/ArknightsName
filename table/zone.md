@@ -25,7 +25,7 @@ tip: 请善用浏览器的搜索功能
 | act11sre_zone2 | 浪蚀哀墟 | Choppy Ruin | 海蝕の荒墟 |
 | act12d0_zone1 | 大酋长之路 | Great Chief's Path | 大族長への道 |
 | act12d0_zone2 | 嘉维尔足迹 | Gavial's Footprints | ガヴィルの軌跡 |
-| act12mini_zone1 | 假日旅程 | - | - |
+| act12mini_zone1 | 假日旅程 | Holiday Trip | 休暇の旅程 |
 | act12side_zone1 | 极限铁人大奖赛 | Dossoles Warrior Champion | 大会エントリー |
 | act12side_zone2 | 赛后余波 | Afterwinds | 大会の余波 |
 | act12side_zone3 | 暗流涌动 | Tidings Unseen | 蠢く濁流 |
@@ -37,7 +37,7 @@ tip: 请善用浏览器的搜索功能
 | act13d2_zone2 | 宝藏之路 | Path to Treasure | 宝への道 |
 | act13d5_zone1 | 大竞技场 | Jousting Arena | 大競技場 |
 | act13d5_zone2 |  钳兽牢笼 | Cage of Gloompincer | 死闘の檻 |
-| act13mini_zone1 | 晚安，咪！ | - | - |
+| act13mini_zone1 | 晚安，咪！ | Good Evenyan! | おやすみニャ！ |
 | act13side_zone1 | 大骑士领 | Kawalerielki | 大騎士領 |
 | act13side_zone2 | 零号地块 | Area 0 | 零号地 |
 | act13side_zone3 | 城市霓虹 | City Neon | 都市のネオン |

@@ -289,8 +289,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_lmlee_1 | 小惩大诫 | Stern Admonishment | 邪気退散 |
 | skchr_lmlee_2 | 驱凶辟邪 | Exorcise Evil | 辟邪除災 |
 | skchr_lmlee_3 | 贵客盈门 | Honored Guest | 千客万来 |
-| skchr_lolxh_1 | 掠光尾影 | - | - |
-| skchr_lolxh_2 | 碎金为刃 | - | - |
+| skchr_lolxh_1 | 掠光尾影 | Tail Afterimage | 変化自在 |
+| skchr_lolxh_2 | 碎金为刃 | Broken Blade | 金属操作 |
 | skchr_lumen_1 | 沐雨 | In Drizzle, Privation | 恵みの慈雨 |
 | skchr_lumen_2 | 沛霖 | In Downpour, Grace | 清めの沛雨 |
 | skchr_lumen_3 | 灯火不灭 | This Lantern Undying | 不滅の灯火 |
@@ -314,9 +314,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_mizuki_1 | 唤醒 | Awaken | 呼び声 |
 | skchr_mizuki_2 | 囚徒困境 | Prisoner's Dilemma | ジレンマ |
 | skchr_mizuki_3 | 镜花水月 | Moon in the Water | 鏡花水月 |
-| skchr_mlynar_1 | 未声张的怒火 | - | - |
-| skchr_mlynar_2 | 未宽解的悲哀 | - | - |
-| skchr_mlynar_3 | 未照耀的荣光 | - | - |
+| skchr_mlynar_1 | 未声张的怒火 | Unvoiced Anger | 秘めたる怒り |
+| skchr_mlynar_2 | 未宽解的悲哀 | Unresolved Sorrow | 癒えぬ悲しみ |
+| skchr_mlynar_3 | 未照耀的荣光 | Unbrilliant Glory | 輝かざる栄光 |
 | skchr_mm_1 | 麻痹弹 | Paralyzing Shell | ストップショット |
 | skchr_mm_2 | 束缚电击 | Binding Shock | スタンショック |
 | skchr_moeshd_1 | 自动防御 | Auto Defense | 防御態勢 |
@@ -376,8 +376,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_podego_2 | 孢子扩散 | Spread Spores | 胞子飛散 |
 | skchr_prove_1 | 狼眼 | Wolf's Eye | ウルフアイ |
 | skchr_prove_2 | 杀戮嗅觉 | Prey Seeker | 鮮血の匂い |
-| skchr_provs_1 | 纠纷起诉 | - | - |
-| skchr_provs_2 | 致胜立论 | - | - |
+| skchr_provs_1 | 纠纷起诉 | Dispute Litigation | 訴訟提起 |
+| skchr_provs_2 | 致胜立论 | Prevailing Argument | 論理展開 |
 | skchr_pudd_2 | 扩散电流 | Diffusion Current | 電子流拡散 |
 | skchr_puzzle_1 | 关键线索 | - | - |
 | skchr_puzzle_2 | 疑点追踪 | - | - |

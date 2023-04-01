@@ -166,7 +166,7 @@ tip: 请善用浏览器的搜索功能
 | act12d0_token_components_rep_1 | 机械零件 | Mechanical Parts | 機械のパーツ |
 | act12d6_token_mushroom | 好看的蘑菇 | Magnificent Mushroom | きれいな茸 |
 | act12d6_token_pancake | 美味的蜜饼 | Delicious Honey Biscuit | はちみつクッキー |
-| act12mini_token_component | 制式器械零件 | - | - |
+| act12mini_token_component | 制式器械零件 | Standard-Issue Component | 制式機械パーツ |
 | act12side_point_cmemomedal | 陈小姐纪念奖牌 | Miss Ch'en Commemorative Medal | チェンの記念メダル |
 | act12side_point_cmemomedal_rep_1 | 陈小姐纪念奖牌 | Miss Ch'en Commemorative Medal | チェンの記念メダル |
 | act12side_token_coupon | 约翰老妈代金券 | Mama John's Voucher | ママジョンズクーポン |
@@ -178,7 +178,7 @@ tip: 请善用浏览器的搜索功能
 | act13d0_token_dial | 废弃时钟表盘 | Discarded Clock Dial | 棄てられた文字盤 |
 | act13d5_token_securities | 梅什科竞技证券 | Mieszko Sports Securities | ミェシュコ競技証券 |
 | act13d5_token_securities_rep_1 | 梅什科竞技证券 | Mieszko Sports Securities | ミェシュコ競技証券 |
-| act13mini_token_can | 宠物营养罐头 | - | - |
+| act13mini_token_can | 宠物营养罐头 | Nutritional Pet Food Tin | ペットフード缶 |
 | act13side_prestige_armorless | 无胄盟声望 | Armorless Union Prestige | 無冑盟からの評判 |
 | act13side_prestige_commerce | 商业联合会声望 | General Chamber of Commerce Prestige | 商業連合会からの評判 |
 | act13side_prestige_kazimierz | 监正会声望 | Adeptus Sprawiedliwi Prestige | 監査会からの評判 |
@@ -271,10 +271,10 @@ tip: 请善用浏览器的搜索功能
 | ap_supply_lt_100_2023_4 | 金糖年糕 | - | - |
 | ap_supply_lt_100_2023_5 | 木瓜叶馅饼 | - | - |
 | ap_supply_lt_120 | 应急理智浓缩液 | Emergency Sanity Concentrate | 上級理性回復剤+ |
-| ap_supply_lt_120_2022_1 | 满颜色 | - | - |
-| ap_supply_lt_120_2022_2 | 正圆月 | - | - |
-| ap_supply_lt_120_2022_3 | 笑靥开 | - | - |
-| ap_supply_lt_120_2022_4 | 桂子落 | - | - |
+| ap_supply_lt_120_2022_1 | 满颜色 | Full Color | 一家団欒 |
+| ap_supply_lt_120_2022_2 | 正圆月 | Full Moon | 仲秋名月 |
+| ap_supply_lt_120_2022_3 | 笑靥开 | Smiley Face | 喜色満面 |
+| ap_supply_lt_120_2022_4 | 桂子落 | Osmanthus | 天香桂花 |
 | ap_supply_lt_60 | 应急理智合剂 | Emergency Sanity Potion | 初級理性回復剤 |
 | ap_supply_lt_80 | 应急理智加强剂 | Emergency Sanity Booster | 初級理性回復剤+ |
 | base_ap | 无人机 | Drone | ドローン |
@@ -528,7 +528,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_401_elysm | 极境的信物 | Elysium's Token | エリジウムの印 |
 | p_char_4025_aprot2 | 暮落的信物 | Shalem's Token | シャレムの印 |
 | p_char_402_tuye | 图耶的信物 | Tuye's Token | トゥイエの印 |
-| p_char_4032_provs | 但书的信物 | - | - |
+| p_char_4032_provs | 但书的信物 | Proviso's Token | プロヴァイゾの印 |
 | p_char_4036_forcer | 见行者的信物 | Enforcer's Token | エンフォーサーの印 |
 | p_char_4039_horn | 号角的信物 | Horn's Token | ホルンの印 |
 | p_char_4040_rockr | 洛洛的信物 | Rockrock's Token | ロックロックの印 |
@@ -544,7 +544,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_405_absin | 苦艾的信物 | Absinthe's Token | アブサントの印 |
 | p_char_4062_totter | 铅踝的信物 | - | - |
 | p_char_4063_quartz | 石英的信物 | - | - |
-| p_char_4064_mlynar | 玛恩纳的信物 | - | - |
+| p_char_4064_mlynar | 玛恩纳的信物 | Młynar's Token | ムリナールの印 |
 | p_char_4065_judge | 斥罪的信物 | - | - |
 | p_char_4066_highmo | 海沫的信物 | - | - |
 | p_char_4071_peper | 明椒的信物 | - | - |
@@ -692,7 +692,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_bolivar | 密林悍将归来家具收藏包 | The Great Chief Returns Furniture Pack | 帰還！密林の長家具パック |
 | uni_set_castle_1 | 古堡印象家具收藏包一 | Castlesque Furniture Pack I | 古城風家具パックvol.1 |
 | uni_set_castle_2 | 古堡印象家具收藏包二 | Castlesque Furniture Pack II | 古城風家具パックvol.2 |
-| uni_set_fNearl | 玛莉娅·临光家具收藏包 | - | - |
+| uni_set_fNearl | 玛莉娅·临光家具收藏包 | Maria Nearl Furniture Pack | マリア・ニアール家具パック |
 | uni_set_guitar | 火蓝之心家具收藏包 | Heart of Surging Flame Furniture Pack | 青く燃ゆる心家具パック |
 | uni_set_inkArt | 画中人家具收藏包 | - | - |
 | uni_set_nightView | 沃伦姆德的薄暮家具收藏包 | Twilight of Wolumonde Furniture Pack | ウォルモンドの薄暮家具パック |
@@ -718,7 +718,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_full_robin | 罗宾的私人信件 | - | - |
 | voucher_full_sidero | 铸铁的私人信件 | Sideroca's Personal Letter | シデロカの手紙 |
 | voucher_full_snsant | 雪雉的私人信件 | Snowsant's Personal Letter | スノーズントの手紙 |
-| voucher_full_sophia | 鞭刃的私人信件 | - | - |
+| voucher_full_sophia | 鞭刃的私人信件 | Whislash's Personal Letter | ウィスラッシュの手紙 |
 | voucher_full_tomimi | 特米米的私人信件 | Tomimi's Personal Letter | トミミの手紙 |
 | voucher_item_4pick1 | 干员兑换券 | Operator Voucher | オペレーター指名券 |
 | voucher_item_4pick1_1803 | 干员兑换券 | Operator Voucher | オペレーター指名券 |
