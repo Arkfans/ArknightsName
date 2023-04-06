@@ -608,6 +608,27 @@ tip: 请善用浏览器的搜索功能
 | enemy_1311_mhkryk | 狡兽 | - | - |
 | enemy_1311_mhkryk_2 | 恶狡兽 | - | - |
 | enemy_1312_ymillu | “无念之冬” | - | - |
+| enemy_1313_wdfmr | 诺伯特平民 | - | - |
+| enemy_1313_wdfmr_2 | 诺伯特暗探 | - | - |
+| enemy_1314_wdnjd | 寻路密探 | - | - |
+| enemy_1314_wdnjd_2 | 寻路密探长 | - | - |
+| enemy_1315_wdyjd | 岗哨密探 | - | - |
+| enemy_1315_wdyjd_2 | 岗哨密探长 | - | - |
+| enemy_1316_wdpjd | 武装密探 | - | - |
+| enemy_1316_wdpjd_2 | 武装密探长 | - | - |
+| enemy_1317_wdexg | 萨卡兹悖谬谍报官 | - | - |
+| enemy_1317_wdexg_2 | 萨卡兹悖谬谍报长 | - | - |
+| enemy_1318_wdsmgc | 萨卡兹悖谬裂变学徒 | - | - |
+| enemy_1318_wdsmgc_2 | 萨卡兹悖谬裂变术师 | - | - |
+| enemy_1319_wdfmpm | 叛乱煽动者 | - | - |
+| enemy_1319_wdfmpm_2 | 叛乱鼓动者 | - | - |
+| enemy_1320_wdrrl | 萨卡兹悖谬暴虐兵 | - | - |
+| enemy_1320_wdrrl_2 | 萨卡兹悖谬暴虐兵长 | - | - |
+| enemy_1321_wdarft | 枯朽萃聚使徒 | - | - |
+| enemy_1321_wdarft_2 | 腐败萃聚使徒 | - | - |
+| enemy_1322_wdgyht | “灰礼帽” | - | - |
+| enemy_1322_wdgyht_2 | “见习灰礼帽” | - | - |
+| enemy_1323_wdbshd | 解构畸变体 | - | - |
 | enemy_1500_skulsr | 碎骨 | Skullshatterer | SkullShredder |
 | enemy_1501_demonk | 萨卡兹百夫长 | Sarkaz Centurion | サルカズケントゥリオ |
 | enemy_1502_crowns | 弑君者 | Crownslayer | CrownSlayer |
@@ -649,6 +670,9 @@ tip: 请善用浏览器的搜索功能
 | enemy_1538_ymmons_2 | 蜃景 | - | - |
 | enemy_1538_ymmons_3 | 妄境 | - | - |
 | enemy_1539_reid | “复仇者” | - | - |
+| enemy_1540_wdncr | 爱布拉娜 | - | - |
+| enemy_1541_wdslms | “变形者集群” | - | - |
+| enemy_1542_wdslm | “变形者集群” | - | - |
 | enemy_2001_duckmi | 鸭爵 | Duck Lord | ダック卿 |
 | enemy_2002_bearmi | 高普尼克 | Gopnik | ゴプニク |
 | enemy_2003_rockman | 迷路的巨像 | Lost Colossus | 迷子の巨像 |

@@ -137,6 +137,9 @@
     "ja_JP": "荒野への呼びかけ",
     "zh_CN": "呼唤荒野"
   },
+  "story_cammou_set_1_story_1": {
+    "zh_CN": "无人工房"
+  },
   "story_cast3_set_1_story_1": {
     "en_US": "Immortal",
     "ja_JP": "不朽",
@@ -491,6 +494,9 @@
   "story_moeshd_set_1_story_1": {
     "zh_CN": "生意场"
   },
+  "story_morgan_set_1_story_1": {
+    "zh_CN": "巨轮之下"
+  },
   "story_mostma_set_1_story_1": {
     "en_US": "Atop the Skyscrapers",
     "ja_JP": "高層ビルの上で",
@@ -727,6 +733,9 @@
     "en_US": "Roll With Your Mistakes",
     "ja_JP": "勘違いを押し通して",
     "zh_CN": "将错就错"
+  },
+  "story_strong_set_2_story_1": {
+    "zh_CN": "关键人物"
   },
   "story_sunbr_set_1_story_1": {
     "en_US": "Lost Companion",

@@ -92,6 +92,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_catap_1 | 爆破范围提升·α型 | Blast Range Up α | 爆破範囲拡大α |
 | skchr_ccheal_1 | 活力再生 | Vitality Restoration | 回復力促進 |
 | skchr_ccheal_2 | 活力再生·广域 | Vitality Restoration - Wide Range | 回復力促進・広域 |
+| skchr_cement_1 | 突破矿层 | - | - |
+| skchr_cement_2 | 结构加固 | - | - |
 | skchr_cerber_1 | “很冰的斧” | 'Really Cold Axe' | 「つめたいおの」 |
 | skchr_cerber_2 | “很热的刀” | 'Really Hot Knives' | 「あついないふ」 |
 | skchr_cerber_3 | “很重的枪” | 'Really Heavy Spear' | 「おもたいやり」 |
@@ -238,11 +240,16 @@ tip: 请善用浏览器的搜索功能
 | skchr_huang_1 | 强力击·γ型 | Power Strike γ | 強撃γ |
 | skchr_huang_2 | 链锯延伸模块 | Chainsaw Extension Module | 鎖鋸拡張モジュール |
 | skchr_huang_3 | 沸腾爆裂 | Boiling Burst | ボイリングバースト |
+| skchr_humus_1 | 固废切割 | - | - |
+| skchr_humus_2 | 高效处理 | - | - |
 | skchr_ifrit_1 | 狂热 | Fanaticism | 猛火 |
 | skchr_ifrit_2 | 炎爆 | Pyroclasm | 爆炎 |
 | skchr_ifrit_3 | 灼地 | Scorched Earth | 灼獄 |
 | skchr_indigo_1 | 灯塔守卫者 | Lighthouse Guardian | 導灯の守護者 |
 | skchr_indigo_2 | 光影迷宫 | Labyrinth of Light | 光と影の迷路 |
+| skchr_ines_1 | 淬影突袭 | - | - |
+| skchr_ines_2 | 暗夜无明 | - | - |
+| skchr_ines_3 | 独影归途 | - | - |
 | skchr_irene_1 | 起风 | Gust | 舞風 |
 | skchr_irene_2 | 裂潮 | Shattertide | 裂潮 |
 | skchr_irene_3 | 判决 | Judgment | 判決 |
@@ -321,6 +328,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_mm_2 | 束缚电击 | Binding Shock | スタンショック |
 | skchr_moeshd_1 | 自动防御 | Auto Defense | 防御態勢 |
 | skchr_moeshd_2 | 磁爆锤 | Magnetic Hammer | テスラハンマー |
+| skchr_morgan_1 | 街头好手 | - | - |
+| skchr_morgan_2 | 无畏招架 | - | - |
 | skchr_mostma_2 | 荒时之锁 | Lock of Shattered Time | 時荒びの黒き錠 |
 | skchr_mostma_3 | 序时之匙 | Key of Chronology | 時闢きの白き鍵 |
 | skchr_mudrok_2 | 岩崩锤 | Crag Splitter | 岩崩し |
@@ -730,6 +739,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_vodfox_token | 诅咒娃娃 | Cursed Doll | 呪いの人形 |
 | sktok_vultres | 诱人珍宝 | Alluring Treasures | 財宝のいざない |
 | sktok_wdescp | 建立通讯 | - | - |
+| sktok_wdfarm | 补给 | - | - |
 | sktok_weedy_token | 液氮大炮 | Liquid Nitrogen Cannon | LN2キャノン |
 | sktok_wfactory | 抽水 | - | - |
 | sktok_windft_wrench_1 | 可靠电池 | Reliable Battery | 高信頼性バッテリー |

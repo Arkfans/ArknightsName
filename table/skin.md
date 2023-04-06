@@ -151,6 +151,7 @@ tip: 请善用浏览器的搜索功能
 | char_291_aglina@summer#5 | 夏卉 FA017 | Summer Flower FA017 | 夏の花弁FA017 |
 | char_293_thorns@it#1 | 惬意 | Cómodo | 満喫 |
 | char_294_ayer@boc#3 | 受验者 | Tested One | 潜入者 |
+| char_297_hamoni@epoque#24 | 邀约 | - | - |
 | char_298_susuro@summer#6 | 夏卉 FA026 | Summer Flower FA026 | 夏の花弁FA026 |
 | char_304_zebra@wild#6 | 幽苔 | Tranquil Moss | 幽谷の緑苔 |
 | char_308_swire@nian#2 | 富贵荣华 | Honor and Splendor | 富貴栄華 |
@@ -198,8 +199,10 @@ tip: 请善用浏览器的搜索功能
 | char_402_tuye@epoque#14 | 培翠 | Cultivate Vegetation | 緑化 |
 | char_4032_provs@wild#7 | 秋高气爽 | - | - |
 | char_4036_forcer@epoque#20 | 拾翼 | - | - |
+| char_4039_horn@epoque#24 | 化花 | - | - |
 | char_4040_rockr@lxh#1 | 欢唱之前 | Before Singing | 歌の前に |
 | char_4043_erato@snow#5 | 未讲述的故事 | - | - |
+| char_4045_heidi@epoque#24 | 书信零落 | - | - |
 | char_4055_bgsnow@wild#7 | 字句中的雪原 | - | - |
 | char_4077_palico@mh#1 | 跃上街头 | - | - |
 | char_411_tomimi@summer#5 | 静谧午夜 DN04 | Silent Night DN04 | 安息の午夜DN04 |

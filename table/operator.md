@@ -62,6 +62,7 @@ tip: 请善用浏览器的搜索功能
 | char_149_scave | 清道夫 | Scavenger | スカベンジャー |
 | char_150_snakek | 蛇屠箱 | Cuora | クオーラ |
 | char_151_myrtle | 桃金娘 | Myrtle | テンニンカ |
+| char_154_morgan | 摩根 | - | - |
 | char_155_tiger | 因陀罗 | Indra | インドラ |
 | char_157_dagda | 达格达 | - | - |
 | char_158_milu | 守林人 | Firewatch | ファイヤーウォッチ |
@@ -233,6 +234,7 @@ tip: 请善用浏览器的搜索功能
 | char_4080_lin | 林 | - | - |
 | char_4082_qiubai | 仇白 | - | - |
 | char_4083_chimes | 铎铃 | - | - |
+| char_4087_ines | 伊内丝 | - | - |
 | char_4091_ulika | U-Official | - | - |
 | char_411_tomimi | 特米米 | Tomimi | トミミ |
 | char_415_flint | 燧石 | Flint | フリント |
@@ -257,6 +259,7 @@ tip: 请善用浏览器的搜索功能
 | char_457_blitz | 闪击 | Blitz | Blitz |
 | char_458_rfrost | 霜华 | Frost | Frost |
 | char_459_tachak | 战车 | Tachanka | Tachanka |
+| char_464_cement | 洋灰 | - | - |
 | char_466_qanik | 雪绒 | - | - |
 | char_469_indigo | 深靛 | Indigo | インディゴ |
 | char_472_pasngr | 异客 | Passenger | パッセンジャー |
@@ -270,6 +273,7 @@ tip: 请善用浏览器的搜索功能
 | char_485_pallas | 帕拉斯 | Pallas | パラス |
 | char_486_takila | 龙舌兰 | Tequila | テキーラ |
 | char_489_serum | 蚀清 | Corroserum | コロセラム |
+| char_491_humus | 休谟斯 | - | - |
 | char_492_quercu | 夏栎 | Quercus | クエルクス |
 | char_493_firwhl | 火哨 | - | - |
 | char_496_wildmn | 野鬃 | Wild Mane | ワイルドメイン |

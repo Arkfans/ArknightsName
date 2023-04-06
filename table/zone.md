@@ -122,6 +122,7 @@ tip: 请善用浏览器的搜索功能
 | main_1 | 黑暗时代·下 | Evil Time Part 2 | 暗黒時代・下 |
 | main_10 | 破碎日冕 | Shatterpoint | 光冠残蝕 |
 | main_11 | 淬火尘霾 | - | - |
+| main_12 | 惊霆无声 | - | - |
 | main_2 | 异卵同生 | Separated Hearts | 相思相殺 |
 | main_3 | 二次呼吸 | Stinging Shock | 起死回生 |
 | main_4 | 急性衰竭 | Burning Run | 急転直下 |
