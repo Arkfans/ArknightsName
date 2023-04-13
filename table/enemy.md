@@ -713,6 +713,8 @@ tip: 请善用浏览器的搜索功能
 | enemy_2038_sydonq | 最后的骑士 | - | - |
 | enemy_2039_syskad | 伊莎玛拉，腐化之心 | - | - |
 | enemy_2040_syrott | 伊莎玛拉之泪 | - | - |
+| enemy_2041_syjely | 伊祖米克的子代 | - | - |
+| enemy_2042_syboss | 伊祖米克，生态泉源 | - | - |
 | enemy_3001_upeopl | 乌萨斯平民 | Ursus Civilian | ウルサス民間人 |
 | enemy_3002_ftrtal | 斗士塔露拉 | Talulah, the Fighter | 闘士タルラ |
 | enemy_3003_alymot | 大奖赛运输艇 | Competition Transport Vessel | 大会輸送艇 |
@@ -737,6 +739,8 @@ tip: 请善用浏览器的搜索功能
 | enemy_6010_boxing | “年轻人”桑德尔 | - | - |
 | enemy_6011_planty | “自然的妥协” | - | - |
 | enemy_6012_plants | 小型共生体 | - | - |
+| enemy_6013_smith | 老妈的“逆女” | - | - |
+| enemy_6014_crzgas | “毒瘤” | - | - |
 | enemy_7001_blwzad | 部族巫术师 | - | - |
 | enemy_7001_blwzad_2 | 王酋巫术师 | - | - |
 | enemy_7002_veingd | 矿脉守卫 | - | - |

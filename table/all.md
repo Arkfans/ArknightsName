@@ -431,6 +431,10 @@ tip: 请善用浏览器的搜索功能
 | trap_104_dplant | 改性植物激素 | - | - |
 | trap_105_mhwrct | 滞空牵引无人机 | - | - |
 | trap_111_wdfarm | 街头应急储备 | - | - |
+| trap_112_crsbow | 解雇者清债程序 | - | - |
+| trap_113_snflwr | 全自动划账器 | - | - |
+| trap_114_smkbmb | 爆裂毒气罐 | - | - |
+| trap_115_gasctrl | 毒雾塔控制 | - | - |
 | trap_116_stdurk | “过去的我” | - | - |
 | trap_400_xbfarm | 便携式种植槽 | - | - |
 | trap_401_xbfato | 采集实习站 | - | - |
@@ -483,6 +487,15 @@ tip: 请善用浏览器的搜索功能
 | trap_711_cdbeaconb | 干扰波长 | - | - |
 | trap_712_cdhvrk | 超重绝缘水泥 | - | - |
 | trap_713_cdflsb | 劣质闪光弹 | - | - |
+| trap_714_cdaltar | 能量扰动放大器 | - | - |
+| trap_715_cdaltara | 能量扰动放大器 | - | - |
+| trap_716_cdaltarb | 能量扰动放大器 | - | - |
+| trap_717_cddiff | 战术装备整理箱 | - | - |
+| trap_718_cddiffa | 战术装备整理箱 | - | - |
+| trap_719_cddiffb | 战术装备整理箱 | - | - |
+| trap_720_cdheal | 便携式医疗设备 | - | - |
+| trap_721_cdheala | 便携式医疗设备 | - | - |
+| trap_722_cdhealb | 便携式医疗设备 | - | - |
 | char_002_amiya@epoque#4 | 见习联结者 | Fresh Fastener | 見習い宅配人 |
 | char_002_amiya@test#1 | 播种者 | - | - |
 | char_002_amiya@winter#1 | 报童 | Newsgirl | 新聞配達員 |
@@ -1446,6 +1459,8 @@ tip: 请善用浏览器的搜索功能
 | enemy_2038_sydonq | 最后的骑士 | - | - |
 | enemy_2039_syskad | 伊莎玛拉，腐化之心 | - | - |
 | enemy_2040_syrott | 伊莎玛拉之泪 | - | - |
+| enemy_2041_syjely | 伊祖米克的子代 | - | - |
+| enemy_2042_syboss | 伊祖米克，生态泉源 | - | - |
 | enemy_3001_upeopl | 乌萨斯平民 | Ursus Civilian | ウルサス民間人 |
 | enemy_3002_ftrtal | 斗士塔露拉 | Talulah, the Fighter | 闘士タルラ |
 | enemy_3003_alymot | 大奖赛运输艇 | Competition Transport Vessel | 大会輸送艇 |
@@ -1470,6 +1485,8 @@ tip: 请善用浏览器的搜索功能
 | enemy_6010_boxing | “年轻人”桑德尔 | - | - |
 | enemy_6011_planty | “自然的妥协” | - | - |
 | enemy_6012_plants | 小型共生体 | - | - |
+| enemy_6013_smith | 老妈的“逆女” | - | - |
+| enemy_6014_crzgas | “毒瘤” | - | - |
 | enemy_7001_blwzad | 部族巫术师 | - | - |
 | enemy_7001_blwzad_2 | 王酋巫术师 | - | - |
 | enemy_7002_veingd | 矿脉守卫 | - | - |
@@ -3285,13 +3302,22 @@ tip: 请善用浏览器的搜索功能
 | sktok_cdabyss | 阿戈尔示波器 | - | - |
 | sktok_cdabyssa | 阿戈尔示波器 | - | - |
 | sktok_cdabyssb | 阿戈尔示波器 | - | - |
+| sktok_cdaltar | 能量扰动 | - | - |
+| sktok_cdaltara | 能量扰动 | - | - |
+| sktok_cdaltarb | 能量扰动 | - | - |
 | sktok_cdbeacon | 示踪信标 | - | - |
 | sktok_cdbeacona | 阻断波长 | - | - |
 | sktok_cdbeaconb | 干扰波长 | - | - |
 | sktok_cdcredit | 自适应补给 | - | - |
 | sktok_cdcredita | 自适应补给 | - | - |
 | sktok_cdcreditb | 自适应补给 | - | - |
+| sktok_cddiff | 战术装备整理 | - | - |
+| sktok_cddiffa | 战术装备整理 | - | - |
+| sktok_cddiffb | 战术装备整理 | - | - |
 | sktok_cdflsb | 劣质闪光弹 | - | - |
+| sktok_cdheal | 便携式医疗设备 | - | - |
+| sktok_cdheala | 便携式医疗设备 | - | - |
+| sktok_cdhealb | 便携式医疗设备 | - | - |
 | sktok_cdhvrk | 超重，绝缘 | - | - |
 | sktok_cdshield | 镀膜 | - | - |
 | sktok_cdshielda | 重整导能 | - | - |
@@ -3299,6 +3325,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_cqbw_token | 受害者启动模式 | Victim Seeker | バッドラックXD |
 | sktok_crate | 阻挡路线 | Obstruct | 進路妨害 |
 | sktok_creep | 溟痕 | Nethersea Brand | 溟痕 |
+| sktok_crsbow | 清债程序 | - | - |
 | sktok_dancdol | 剧目宣告 | Repertoire Announcement | カーテンコール |
 | sktok_dice | 掷骰 | - | - |
 | sktok_dice2 | 掷骰 | - | - |
@@ -3327,6 +3354,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_frosts_friend | 寒潮 | Frigid Tide | 氷結衝撃波 |
 | sktok_garage_1 | 自走车出击！ | Self-Driving Cart, Forward! | セルカー発進！ |
 | sktok_garage_2 | 自走车出击！ | Self-Driving Cart, Forward! | セルカー発進！ |
+| sktok_gasctrl | 毒雾控制 | - | - |
 | sktok_gate | 关闭闸门 | Gate Closing | シャッター |
 | sktok_gtreasure | 可被击破 | - | - |
 | sktok_gunctrl | 开火 | Open Fire | 発射 |
@@ -3402,7 +3430,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_skadi2_3 | 共鸣 | Resonance | 共鳴 |
 | sktok_sleep | 救援绳索 | Rescue Rope | 救援ロープ |
 | sktok_slowfd | 高压喷射 | High-Pressure Spray | 高圧ガス |
+| sktok_smkbmb | 爆裂 | - | - |
 | sktok_smokebomb | 释放迷香 | - | - |
+| sktok_snflwr | 全自动划账 | - | - |
 | sktok_stdurk_1 | “咔嚓！” | - | - |
 | sktok_stone | 阻挡路线 | Obstruct | 進路妨害 |
 | sktok_storm | 沙尘暴 | Sandstorm | 砂嵐 |
@@ -3987,6 +4017,10 @@ tip: 请善用浏览器的搜索功能
 | hard_11-02 | 尘霾行动-2 | - | - |
 | hard_11-03 | 尘霾行动-3 | - | - |
 | hard_11-04 | 尘霾行动-4 | - | - |
+| hard_12-01 | 惊霆行动-1 | - | - |
+| hard_12-02 | 惊霆行动-2 | - | - |
+| hard_12-03 | 惊霆行动-3 | - | - |
+| hard_12-04 | 惊霆行动-4 | - | - |
 | lt_01_01 | 五号矿洞 | Mine #5 | 5号坑道 |
 | lt_01_02 | 唯利是图 | Mercenary | 私利私欲 |
 | lt_01_03 | 恶势力 | Evil Forces | テロリスト |
@@ -4031,6 +4065,18 @@ tip: 请善用浏览器的搜索功能
 | lt_06_04 | 林间空地 | - | - |
 | lt_06_05 | 纠缠不休 | - | - |
 | lt_06_06 | 人与自然 | - | - |
+| lt_07_01 | 知难而进 | - | - |
+| lt_07_02 | 荒地的手段 | - | - |
+| lt_07_03 | 麻木前行 | - | - |
+| lt_07_04 | 混乱“派对” | - | - |
+| lt_07_05 | 消息传递 | - | - |
+| lt_07_06 | 力量的炫耀 | - | - |
+| lt_08_01 | 致命吸引 | - | - |
+| lt_08_02 | 烂醉铁锤 | - | - |
+| lt_08_03 | 为了生存 | - | - |
+| lt_08_04 | 混合毒气 | - | - |
+| lt_08_05 | 枯朽孕育 | - | - |
+| lt_08_06 | 窒息 | - | - |
 | lt_tr_01 | 7号训练场 | Training Ground #7 | 7号訓練場 |
 | lt_tr_02 | 9号训练场 | Training Ground #9 | 9号訓練場 |
 | lt_tr_03 | 10号训练场 | Training Ground #10 | 10号訓練場 |

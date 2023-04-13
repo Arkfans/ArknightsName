@@ -107,6 +107,10 @@ tip: 请善用浏览器的搜索功能
 | trap_104_dplant | 改性植物激素 | - | - |
 | trap_105_mhwrct | 滞空牵引无人机 | - | - |
 | trap_111_wdfarm | 街头应急储备 | - | - |
+| trap_112_crsbow | 解雇者清债程序 | - | - |
+| trap_113_snflwr | 全自动划账器 | - | - |
+| trap_114_smkbmb | 爆裂毒气罐 | - | - |
+| trap_115_gasctrl | 毒雾塔控制 | - | - |
 | trap_116_stdurk | “过去的我” | - | - |
 | trap_400_xbfarm | 便携式种植槽 | - | - |
 | trap_401_xbfato | 采集实习站 | - | - |
@@ -159,3 +163,12 @@ tip: 请善用浏览器的搜索功能
 | trap_711_cdbeaconb | 干扰波长 | - | - |
 | trap_712_cdhvrk | 超重绝缘水泥 | - | - |
 | trap_713_cdflsb | 劣质闪光弹 | - | - |
+| trap_714_cdaltar | 能量扰动放大器 | - | - |
+| trap_715_cdaltara | 能量扰动放大器 | - | - |
+| trap_716_cdaltarb | 能量扰动放大器 | - | - |
+| trap_717_cddiff | 战术装备整理箱 | - | - |
+| trap_718_cddiffa | 战术装备整理箱 | - | - |
+| trap_719_cddiffb | 战术装备整理箱 | - | - |
+| trap_720_cdheal | 便携式医疗设备 | - | - |
+| trap_721_cdheala | 便携式医疗设备 | - | - |
+| trap_722_cdhealb | 便携式医疗设备 | - | - |

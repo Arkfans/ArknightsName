@@ -3259,6 +3259,12 @@
   "enemy_2040_syrott": {
     "zh_CN": "伊莎玛拉之泪"
   },
+  "enemy_2041_syjely": {
+    "zh_CN": "伊祖米克的子代"
+  },
+  "enemy_2042_syboss": {
+    "zh_CN": "伊祖米克，生态泉源"
+  },
   "enemy_3001_upeopl": {
     "en_US": "Ursus Civilian",
     "ja_JP": "ウルサス民間人",
@@ -3368,6 +3374,12 @@
   },
   "enemy_6012_plants": {
     "zh_CN": "小型共生体"
+  },
+  "enemy_6013_smith": {
+    "zh_CN": "老妈的“逆女”"
+  },
+  "enemy_6014_crzgas": {
+    "zh_CN": "“毒瘤”"
   },
   "enemy_7001_blwzad": {
     "zh_CN": "部族巫术师"

@@ -3289,6 +3289,30 @@
       "zh_CN": "街头应急储备"
     }
   },
+  "trap_112_crsbow": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "解雇者清债程序"
+    }
+  },
+  "trap_113_snflwr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "全自动划账器"
+    }
+  },
+  "trap_114_smkbmb": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "爆裂毒气罐"
+    }
+  },
+  "trap_115_gasctrl": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "毒雾塔控制"
+    }
+  },
   "trap_116_stdurk": {
     "type": "TRAP",
     "names": {
@@ -3599,6 +3623,60 @@
     "type": "TRAP",
     "names": {
       "zh_CN": "劣质闪光弹"
+    }
+  },
+  "trap_714_cdaltar": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "能量扰动放大器"
+    }
+  },
+  "trap_715_cdaltara": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "能量扰动放大器"
+    }
+  },
+  "trap_716_cdaltarb": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "能量扰动放大器"
+    }
+  },
+  "trap_717_cddiff": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "战术装备整理箱"
+    }
+  },
+  "trap_718_cddiffa": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "战术装备整理箱"
+    }
+  },
+  "trap_719_cddiffb": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "战术装备整理箱"
+    }
+  },
+  "trap_720_cdheal": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "便携式医疗设备"
+    }
+  },
+  "trap_721_cdheala": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "便携式医疗设备"
+    }
+  },
+  "trap_722_cdhealb": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "便携式医疗设备"
     }
   },
   "char_002_amiya@epoque#4": {
@@ -10941,6 +11019,18 @@
       "zh_CN": "伊莎玛拉之泪"
     }
   },
+  "enemy_2041_syjely": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "伊祖米克的子代"
+    }
+  },
+  "enemy_2042_syboss": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "伊祖米克，生态泉源"
+    }
+  },
   "enemy_3001_upeopl": {
     "type": "ENEMY",
     "names": {
@@ -11121,6 +11211,18 @@
     "type": "ENEMY",
     "names": {
       "zh_CN": "小型共生体"
+    }
+  },
+  "enemy_6013_smith": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "老妈的“逆女”"
+    }
+  },
+  "enemy_6014_crzgas": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“毒瘤”"
     }
   },
   "enemy_7001_blwzad": {
@@ -24741,6 +24843,24 @@
       "zh_CN": "阿戈尔示波器"
     }
   },
+  "sktok_cdaltar": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "能量扰动"
+    }
+  },
+  "sktok_cdaltara": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "能量扰动"
+    }
+  },
+  "sktok_cdaltarb": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "能量扰动"
+    }
+  },
   "sktok_cdbeacon": {
     "type": "SKILL",
     "names": {
@@ -24777,10 +24897,46 @@
       "zh_CN": "自适应补给"
     }
   },
+  "sktok_cddiff": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "战术装备整理"
+    }
+  },
+  "sktok_cddiffa": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "战术装备整理"
+    }
+  },
+  "sktok_cddiffb": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "战术装备整理"
+    }
+  },
   "sktok_cdflsb": {
     "type": "SKILL",
     "names": {
       "zh_CN": "劣质闪光弹"
+    }
+  },
+  "sktok_cdheal": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "便携式医疗设备"
+    }
+  },
+  "sktok_cdheala": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "便携式医疗设备"
+    }
+  },
+  "sktok_cdhealb": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "便携式医疗设备"
     }
   },
   "sktok_cdhvrk": {
@@ -24829,6 +24985,12 @@
       "en_US": "Nethersea Brand",
       "ja_JP": "溟痕",
       "zh_CN": "溟痕"
+    }
+  },
+  "sktok_crsbow": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "清债程序"
     }
   },
   "sktok_dancdol": {
@@ -25043,6 +25205,12 @@
       "en_US": "Self-Driving Cart, Forward!",
       "ja_JP": "セルカー発進！",
       "zh_CN": "自走车出击！"
+    }
+  },
+  "sktok_gasctrl": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "毒雾控制"
     }
   },
   "sktok_gate": {
@@ -25595,10 +25763,22 @@
       "zh_CN": "高压喷射"
     }
   },
+  "sktok_smkbmb": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "爆裂"
+    }
+  },
   "sktok_smokebomb": {
     "type": "SKILL",
     "names": {
       "zh_CN": "释放迷香"
+    }
+  },
+  "sktok_snflwr": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "全自动划账"
     }
   },
   "sktok_stdurk_1": {
@@ -30017,6 +30197,30 @@
       "zh_CN": "尘霾行动-4"
     }
   },
+  "hard_12-01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "惊霆行动-1"
+    }
+  },
+  "hard_12-02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "惊霆行动-2"
+    }
+  },
+  "hard_12-03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "惊霆行动-3"
+    }
+  },
+  "hard_12-04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "惊霆行动-4"
+    }
+  },
   "lt_01_01": {
     "type": "STAGE",
     "names": {
@@ -30327,6 +30531,78 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "人与自然"
+    }
+  },
+  "lt_07_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "知难而进"
+    }
+  },
+  "lt_07_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "荒地的手段"
+    }
+  },
+  "lt_07_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "麻木前行"
+    }
+  },
+  "lt_07_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "混乱“派对”"
+    }
+  },
+  "lt_07_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "消息传递"
+    }
+  },
+  "lt_07_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "力量的炫耀"
+    }
+  },
+  "lt_08_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "致命吸引"
+    }
+  },
+  "lt_08_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "烂醉铁锤"
+    }
+  },
+  "lt_08_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "为了生存"
+    }
+  },
+  "lt_08_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "混合毒气"
+    }
+  },
+  "lt_08_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "枯朽孕育"
+    }
+  },
+  "lt_08_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "窒息"
     }
   },
   "lt_tr_01": {

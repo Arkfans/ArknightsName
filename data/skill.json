@@ -2809,6 +2809,15 @@
   "sktok_cdabyssb": {
     "zh_CN": "阿戈尔示波器"
   },
+  "sktok_cdaltar": {
+    "zh_CN": "能量扰动"
+  },
+  "sktok_cdaltara": {
+    "zh_CN": "能量扰动"
+  },
+  "sktok_cdaltarb": {
+    "zh_CN": "能量扰动"
+  },
   "sktok_cdbeacon": {
     "zh_CN": "示踪信标"
   },
@@ -2827,8 +2836,26 @@
   "sktok_cdcreditb": {
     "zh_CN": "自适应补给"
   },
+  "sktok_cddiff": {
+    "zh_CN": "战术装备整理"
+  },
+  "sktok_cddiffa": {
+    "zh_CN": "战术装备整理"
+  },
+  "sktok_cddiffb": {
+    "zh_CN": "战术装备整理"
+  },
   "sktok_cdflsb": {
     "zh_CN": "劣质闪光弹"
+  },
+  "sktok_cdheal": {
+    "zh_CN": "便携式医疗设备"
+  },
+  "sktok_cdheala": {
+    "zh_CN": "便携式医疗设备"
+  },
+  "sktok_cdhealb": {
+    "zh_CN": "便携式医疗设备"
   },
   "sktok_cdhvrk": {
     "zh_CN": "超重，绝缘"
@@ -2856,6 +2883,9 @@
     "en_US": "Nethersea Brand",
     "ja_JP": "溟痕",
     "zh_CN": "溟痕"
+  },
+  "sktok_crsbow": {
+    "zh_CN": "清债程序"
   },
   "sktok_dancdol": {
     "en_US": "Repertoire Announcement",
@@ -2986,6 +3016,9 @@
     "en_US": "Self-Driving Cart, Forward!",
     "ja_JP": "セルカー発進！",
     "zh_CN": "自走车出击！"
+  },
+  "sktok_gasctrl": {
+    "zh_CN": "毒雾控制"
   },
   "sktok_gate": {
     "en_US": "Gate Closing",
@@ -3312,8 +3345,14 @@
     "ja_JP": "高圧ガス",
     "zh_CN": "高压喷射"
   },
+  "sktok_smkbmb": {
+    "zh_CN": "爆裂"
+  },
   "sktok_smokebomb": {
     "zh_CN": "释放迷香"
+  },
+  "sktok_snflwr": {
+    "zh_CN": "全自动划账"
   },
   "sktok_stdurk_1": {
     "zh_CN": "“咔嚓！”"

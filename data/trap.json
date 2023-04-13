@@ -459,6 +459,18 @@
   "trap_111_wdfarm": {
     "zh_CN": "街头应急储备"
   },
+  "trap_112_crsbow": {
+    "zh_CN": "解雇者清债程序"
+  },
+  "trap_113_snflwr": {
+    "zh_CN": "全自动划账器"
+  },
+  "trap_114_smkbmb": {
+    "zh_CN": "爆裂毒气罐"
+  },
+  "trap_115_gasctrl": {
+    "zh_CN": "毒雾塔控制"
+  },
   "trap_116_stdurk": {
     "zh_CN": "“过去的我”"
   },
@@ -614,5 +626,32 @@
   },
   "trap_713_cdflsb": {
     "zh_CN": "劣质闪光弹"
+  },
+  "trap_714_cdaltar": {
+    "zh_CN": "能量扰动放大器"
+  },
+  "trap_715_cdaltara": {
+    "zh_CN": "能量扰动放大器"
+  },
+  "trap_716_cdaltarb": {
+    "zh_CN": "能量扰动放大器"
+  },
+  "trap_717_cddiff": {
+    "zh_CN": "战术装备整理箱"
+  },
+  "trap_718_cddiffa": {
+    "zh_CN": "战术装备整理箱"
+  },
+  "trap_719_cddiffb": {
+    "zh_CN": "战术装备整理箱"
+  },
+  "trap_720_cdheal": {
+    "zh_CN": "便携式医疗设备"
+  },
+  "trap_721_cdheala": {
+    "zh_CN": "便携式医疗设备"
+  },
+  "trap_722_cdhealb": {
+    "zh_CN": "便携式医疗设备"
   }
 }

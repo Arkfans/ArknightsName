@@ -595,13 +595,22 @@ tip: 请善用浏览器的搜索功能
 | sktok_cdabyss | 阿戈尔示波器 | - | - |
 | sktok_cdabyssa | 阿戈尔示波器 | - | - |
 | sktok_cdabyssb | 阿戈尔示波器 | - | - |
+| sktok_cdaltar | 能量扰动 | - | - |
+| sktok_cdaltara | 能量扰动 | - | - |
+| sktok_cdaltarb | 能量扰动 | - | - |
 | sktok_cdbeacon | 示踪信标 | - | - |
 | sktok_cdbeacona | 阻断波长 | - | - |
 | sktok_cdbeaconb | 干扰波长 | - | - |
 | sktok_cdcredit | 自适应补给 | - | - |
 | sktok_cdcredita | 自适应补给 | - | - |
 | sktok_cdcreditb | 自适应补给 | - | - |
+| sktok_cddiff | 战术装备整理 | - | - |
+| sktok_cddiffa | 战术装备整理 | - | - |
+| sktok_cddiffb | 战术装备整理 | - | - |
 | sktok_cdflsb | 劣质闪光弹 | - | - |
+| sktok_cdheal | 便携式医疗设备 | - | - |
+| sktok_cdheala | 便携式医疗设备 | - | - |
+| sktok_cdhealb | 便携式医疗设备 | - | - |
 | sktok_cdhvrk | 超重，绝缘 | - | - |
 | sktok_cdshield | 镀膜 | - | - |
 | sktok_cdshielda | 重整导能 | - | - |
@@ -609,6 +618,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_cqbw_token | 受害者启动模式 | Victim Seeker | バッドラックXD |
 | sktok_crate | 阻挡路线 | Obstruct | 進路妨害 |
 | sktok_creep | 溟痕 | Nethersea Brand | 溟痕 |
+| sktok_crsbow | 清债程序 | - | - |
 | sktok_dancdol | 剧目宣告 | Repertoire Announcement | カーテンコール |
 | sktok_dice | 掷骰 | - | - |
 | sktok_dice2 | 掷骰 | - | - |
@@ -637,6 +647,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_frosts_friend | 寒潮 | Frigid Tide | 氷結衝撃波 |
 | sktok_garage_1 | 自走车出击！ | Self-Driving Cart, Forward! | セルカー発進！ |
 | sktok_garage_2 | 自走车出击！ | Self-Driving Cart, Forward! | セルカー発進！ |
+| sktok_gasctrl | 毒雾控制 | - | - |
 | sktok_gate | 关闭闸门 | Gate Closing | シャッター |
 | sktok_gtreasure | 可被击破 | - | - |
 | sktok_gunctrl | 开火 | Open Fire | 発射 |
@@ -712,7 +723,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_skadi2_3 | 共鸣 | Resonance | 共鳴 |
 | sktok_sleep | 救援绳索 | Rescue Rope | 救援ロープ |
 | sktok_slowfd | 高压喷射 | High-Pressure Spray | 高圧ガス |
+| sktok_smkbmb | 爆裂 | - | - |
 | sktok_smokebomb | 释放迷香 | - | - |
+| sktok_snflwr | 全自动划账 | - | - |
 | sktok_stdurk_1 | “咔嚓！” | - | - |
 | sktok_stone | 阻挡路线 | Obstruct | 進路妨害 |
 | sktok_storm | 沙尘暴 | Sandstorm | 砂嵐 |
