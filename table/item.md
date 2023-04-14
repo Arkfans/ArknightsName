@@ -186,7 +186,7 @@ tip: 请善用浏览器的搜索功能
 | act13side_token_card | 联合会ID卡 | General Chamber ID Card | 連合会のIDカード |
 | act13side_token_key | 卷宗管理员的钥匙 | File Manager's Key | 機密ファイル管理人の鍵 |
 | act13side_token_model | 骑士领纪念模型 | G.K.T. Commemorative Model | 騎士領記念モデル |
-| act13side_token_model_rep_1 | 骑士领纪念模型 | - | 騎士領記念モデル |
+| act13side_token_model_rep_1 | 骑士领纪念模型 | G.K.T. Commemorative Model | 騎士領記念モデル |
 | act14mini_token_fu | 平安符 | - | - |
 | act14side_token_stone | 耶拉冈德之石 | Stone of Kjeragandr | イェラガンドの護石 |
 | act14side_token_stone_rep_1 | 耶拉冈德之石 | - | - |

@@ -5466,6 +5466,7 @@
   "char_496_wildmn@epoque#16": {
     "type": "SKIN",
     "names": {
+      "en_US": "Justice Maker",
       "ja_JP": "ジャスティスメーカー",
       "zh_CN": "正义缔造者"
     }
@@ -11557,6 +11558,7 @@
   "act13sre": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Near Light - Rerun",
       "ja_JP": "ニアーライト·復刻",
       "zh_CN": "长夜临光·复刻"
     }
@@ -14084,6 +14086,7 @@
   "act13side_token_model_rep_1": {
     "type": "ITEM",
     "names": {
+      "en_US": "G.K.T. Commemorative Model",
       "ja_JP": "騎士領記念モデル",
       "zh_CN": "骑士领纪念模型"
     }
@@ -20066,6 +20069,7 @@
   "_NORM_20_3_1": {
     "type": "POOL",
     "names": {
+      "en_US": "The Front That Was",
       "ja_JP": "先途追想"
     }
   },
@@ -33349,6 +33353,7 @@
   "act13sre_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Kawalerielki",
       "ja_JP": "大騎士領",
       "zh_CN": "大骑士领"
     }
@@ -33356,6 +33361,7 @@
   "act13sre_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Area 0",
       "ja_JP": "零号地",
       "zh_CN": "零号地块"
     }
@@ -33363,6 +33369,7 @@
   "act13sre_zone3": {
     "type": "ZONE",
     "names": {
+      "en_US": "City Neon",
       "ja_JP": "都市のネオン",
       "zh_CN": "城市霓虹"
     }
@@ -34028,6 +34035,7 @@
   "permanent_sidestory_10_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Kawalerielki",
       "ja_JP": "大騎士領",
       "zh_CN": "大骑士领"
     }
@@ -34035,6 +34043,7 @@
   "permanent_sidestory_10_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Area 0",
       "ja_JP": "零号地",
       "zh_CN": "零号地块"
     }
@@ -34042,6 +34051,7 @@
   "permanent_sidestory_10_zone3": {
     "type": "ZONE",
     "names": {
+      "en_US": "City Neon",
       "ja_JP": "都市のネオン",
       "zh_CN": "城市霓虹"
     }
@@ -35087,6 +35097,7 @@
   "story_kirara_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Secret Ending",
       "ja_JP": "隠しエンディング",
       "zh_CN": "隐藏结局"
     }
@@ -35094,6 +35105,7 @@
   "story_kirara_set_2_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "No-Damage Clear",
       "ja_JP": "ノーダメージクリア",
       "zh_CN": "无伤通关"
     }
@@ -35245,6 +35257,7 @@
   "story_moeshd_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "The Business",
       "ja_JP": "商売とは",
       "zh_CN": "生意场"
     }

@@ -41,9 +41,9 @@ tip: 请善用浏览器的搜索功能
 | act13side_zone1 | 大骑士领 | Kawalerielki | 大騎士領 |
 | act13side_zone2 | 零号地块 | Area 0 | 零号地 |
 | act13side_zone3 | 城市霓虹 | City Neon | 都市のネオン |
-| act13sre_zone1 | 大骑士领 | - | 大騎士領 |
-| act13sre_zone2 | 零号地块 | - | 零号地 |
-| act13sre_zone3 | 城市霓虹 | - | 都市のネオン |
+| act13sre_zone1 | 大骑士领 | Kawalerielki | 大騎士領 |
+| act13sre_zone2 | 零号地块 | Area 0 | 零号地 |
+| act13sre_zone3 | 城市霓虹 | City Neon | 都市のネオン |
 | act14d7_zone1 | 下城区 | Downtown  | 繁華街 |
 | act14d7_zone2 | 东部郊区 | Eastern Suburbs | 東部郊外 |
 | act14mini_zone1 | 仗剑何为 | - | - |
@@ -131,9 +131,9 @@ tip: 请善用浏览器的搜索功能
 | main_7 | 苦难摇篮 | The Birth of Tragedy | 苦難揺籃 |
 | main_8 | 怒号光明 | Roaring Flare | 怒号光明 |
 | main_9 | 风暴瞭望 | Stormwatch | 暴風眺望 |
-| permanent_sidestory_10_zone1 | 大骑士领 | - | 大騎士領 |
-| permanent_sidestory_10_zone2 | 零号地块 | - | 零号地 |
-| permanent_sidestory_10_zone3 | 城市霓虹 | - | 都市のネオン |
+| permanent_sidestory_10_zone1 | 大骑士领 | Kawalerielki | 大騎士領 |
+| permanent_sidestory_10_zone2 | 零号地块 | Area 0 | 零号地 |
+| permanent_sidestory_10_zone3 | 城市霓虹 | City Neon | 都市のネオン |
 | permanent_sidestory_11_zone1 | 雪山大典 | - | - |
 | permanent_sidestory_11_zone2 | 圣猎 | - | - |
 | permanent_sidestory_12_zone1 | 三山奇闻 | - | - |

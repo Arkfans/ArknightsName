@@ -475,6 +475,9 @@
     ]
   },
   "avg_201_moeshd_1": {
+    "en_US": [
+      "Croissant"
+    ],
     "ja_JP": [
       "クロワッサン"
     ],
@@ -1392,6 +1395,9 @@
     ]
   },
   "avg_475_akafyu_1": {
+    "en_US": [
+      "Akafuyu"
+    ],
     "ja_JP": [
       "アカフユ"
     ],
@@ -1608,6 +1614,7 @@
       "Filon",
       "Honest Villager",
       "Infected Employee?",
+      "Irritable Infected",
       "Neighbor A",
       "Pondering Follower",
       "Townsfolk",
@@ -1766,6 +1773,7 @@
       "Militiaman A",
       "Ordinary Infected B",
       "Porter",
+      "Tense Infected",
       "Uncle Wong",
       "Village Headman",
       "Villager",
@@ -1867,6 +1875,7 @@
       "Bounty Hunter",
       "Bounty Hunter A",
       "Cowardly Mercenary",
+      "Crumbling Bandit",
       "Elder Hunter",
       "Hunter",
       "Indignant Mercenary",
@@ -1882,6 +1891,7 @@
       "Riverblade Squad Mercenary A",
       "Rough Hooligan",
       "Searching Mercenary",
+      "Shrewd Bandit",
       "Strange Hunter",
       "Strange Townsfolk",
       "Sullen Bounty Hunter",
@@ -1987,6 +1997,7 @@
       "Rusthammer Warrior",
       "Searching Mercenary",
       "Shrewd Bandit",
+      "Vicious Bandit",
       "Violent Bounty Hunter",
       "Wastelander",
       "Wounded Mercenary"
@@ -2489,7 +2500,8 @@
       "Man in Black",
       "Shrewd-looking Char Siu Member",
       "Sly Black-Suit",
-      "Tommaso"
+      "Tommaso",
+      "Unfamiliar Man"
     ],
     "ja_JP": [
       "ずる賢い叉焼幇",
@@ -2621,6 +2633,7 @@
       "Innocent Passerby",
       "Lungmenite?",
       "Male Lungmenite",
+      "Male Passerby",
       "Male Resident",
       "Male Tourist",
       "Noodle Shop Owner",
@@ -5557,6 +5570,7 @@
       "A Corporate Employee",
       "An Arena Worker",
       "Angry Ambassador",
+      "Chang",
       "Commercial Agent",
       "Corporate Employee",
       "Hamm",
@@ -9808,6 +9822,7 @@
   },
   "char_016_medic": {
     "en_US": [
+      "HR Operator",
       "Human Resources Operator",
       "Logistics Operator",
       "Logistics Worker",
