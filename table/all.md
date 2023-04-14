@@ -729,7 +729,7 @@ tip: 请善用浏览器的搜索功能
 | char_485_pallas@epoque#19 | 山川的酿造 | - | - |
 | char_486_takila@ambienceSynesthesia#2 | 开牌制胜 | Cardwinner | ショーダウン |
 | char_492_quercu@epoque#17 | 遥乡之径 | - | - |
-| char_496_wildmn@epoque#16 | 正义缔造者 | - | - |
+| char_496_wildmn@epoque#16 | 正义缔造者 | - | ジャスティスメーカー |
 | char_497_ctable@nian#9 | 灯如昼 | - | - |
 | ambienceSynesthesia | 音律联觉 | Ambience Synesthesia | 音律聯覚 |
 | boc | 斗争血脉 | Bloodline of Combat | 闘争の血脈 |
@@ -1534,7 +1534,7 @@ tip: 请善用浏览器的搜索功能
 | act13login | 登录领取奖励 | - | - |
 | act13mini | 好久不见 | It's Been a While | また会えたね |
 | act13side | 长夜临光 | Near Light | ニアーライト |
-| act13sre | 长夜临光·复刻 | - | - |
+| act13sre | 长夜临光·复刻 | - | ニアーライト·復刻 |
 | act14d0d1 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act14d0d2 | 登录领取奖励 | Sign-in Campaign | ログイン報酬 |
 | act14d7 | 喧闹法则·复刻 | Code of Brawl - Rerun | 喧騒の掟・復刻 |
@@ -1860,7 +1860,7 @@ tip: 请善用浏览器的搜索功能
 | act13side_token_card | 联合会ID卡 | General Chamber ID Card | 連合会のIDカード |
 | act13side_token_key | 卷宗管理员的钥匙 | File Manager's Key | 機密ファイル管理人の鍵 |
 | act13side_token_model | 骑士领纪念模型 | G.K.T. Commemorative Model | 騎士領記念モデル |
-| act13side_token_model_rep_1 | 骑士领纪念模型 | - | - |
+| act13side_token_model_rep_1 | 骑士领纪念模型 | - | 騎士領記念モデル |
 | act14mini_token_fu | 平安符 | - | - |
 | act14side_token_stone | 耶拉冈德之石 | Stone of Kjeragandr | イェラガンドの護石 |
 | act14side_token_stone_rep_1 | 耶拉冈德之石 | - | - |
@@ -2683,6 +2683,7 @@ tip: 请善用浏览器的搜索功能
 | _NORM_1_0_1 | - | Behold the Sword of Tide | 潮汐断ちし剣 |
 | _NORM_20_1_1 | - | Pathfinder of Sands | 砂漠の導き手 |
 | _NORM_20_2_1 | - | - | 騎士に非ず |
+| _NORM_20_3_1 | - | - | 先途追想 |
 | _NORM_2_0_1 | - | Chi Xiao, the Hidden Dragon | 赤龍乗雲 |
 | _NORM_2_0_3 | - | Lungmen Spec Ops Headhunting | 龍門特別行動要員 |
 | _NORM_3_0_1 | - | Frozen Land | 果てなき氷原 |
@@ -4430,9 +4431,9 @@ tip: 请善用浏览器的搜索功能
 | act13side_zone1 | 大骑士领 | Kawalerielki | 大騎士領 |
 | act13side_zone2 | 零号地块 | Area 0 | 零号地 |
 | act13side_zone3 | 城市霓虹 | City Neon | 都市のネオン |
-| act13sre_zone1 | 大骑士领 | - | - |
-| act13sre_zone2 | 零号地块 | - | - |
-| act13sre_zone3 | 城市霓虹 | - | - |
+| act13sre_zone1 | 大骑士领 | - | 大騎士領 |
+| act13sre_zone2 | 零号地块 | - | 零号地 |
+| act13sre_zone3 | 城市霓虹 | - | 都市のネオン |
 | act14d7_zone1 | 下城区 | Downtown  | 繁華街 |
 | act14d7_zone2 | 东部郊区 | Eastern Suburbs | 東部郊外 |
 | act14mini_zone1 | 仗剑何为 | - | - |
@@ -4520,9 +4521,9 @@ tip: 请善用浏览器的搜索功能
 | main_7 | 苦难摇篮 | The Birth of Tragedy | 苦難揺籃 |
 | main_8 | 怒号光明 | Roaring Flare | 怒号光明 |
 | main_9 | 风暴瞭望 | Stormwatch | 暴風眺望 |
-| permanent_sidestory_10_zone1 | 大骑士领 | - | - |
-| permanent_sidestory_10_zone2 | 零号地块 | - | - |
-| permanent_sidestory_10_zone3 | 城市霓虹 | - | - |
+| permanent_sidestory_10_zone1 | 大骑士领 | - | 大騎士領 |
+| permanent_sidestory_10_zone2 | 零号地块 | - | 零号地 |
+| permanent_sidestory_10_zone3 | 城市霓虹 | - | 都市のネオン |
 | permanent_sidestory_11_zone1 | 雪山大典 | - | - |
 | permanent_sidestory_11_zone2 | 圣猎 | - | - |
 | permanent_sidestory_12_zone1 | 三山奇闻 | - | - |
@@ -4660,8 +4661,8 @@ tip: 请善用浏览器的搜索功能
 | story_irene_set_1_story_1 | 灯火微明 | Lantern's Twilight | ほのかな灯り |
 | story_iris_set_1_story_1 | 糖果屋 | - | - |
 | story_jesica_set_1_story_1 | 缓步前行 | The Slow Walk Ahead | ゆっくり進む者 |
-| story_kirara_set_1_story_1 | 隐藏结局 | - | - |
-| story_kirara_set_2_story_1 | 无伤通关 | - | - |
+| story_kirara_set_1_story_1 | 隐藏结局 | - | 隠しエンディング |
+| story_kirara_set_2_story_1 | 无伤通关 | - | ノーダメージクリア |
 | story_kroos_set_1_story_1 | 苹果 | Apples | 林檎 |
 | story_lava_set_1_story_1 | 姐妹 | 'Sisters' | 姉妹 |
 | story_lava_set_2_story_1 | 看护 | 'Caring' | 看病 |
@@ -4681,7 +4682,7 @@ tip: 请善用浏览器的搜索功能
 | story_mint_set_1_story_1 | 昔日重现 | Yesterday Once More | デジャヴ |
 | story_mizuki_set_1_story_1 | 第五类接触 | The Fifth Contact | 第五種接近遭遇 |
 | story_mm_set_1_story_1 | 大侦探探案集·卷一 | - | - |
-| story_moeshd_set_1_story_1 | 生意场 | - | - |
+| story_moeshd_set_1_story_1 | 生意场 | - | 商売とは |
 | story_morgan_set_1_story_1 | 巨轮之下 | - | - |
 | story_mostma_set_1_story_1 | 高楼之上 | Atop the Skyscrapers | 高層ビルの上で |
 | story_myrrh_set_1_story_1 | 护身符 | Lucky Charm | 御守り |

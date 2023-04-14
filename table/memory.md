@@ -94,8 +94,8 @@ tip: 请善用浏览器的搜索功能
 | story_irene_set_1_story_1 | 灯火微明 | Lantern's Twilight | ほのかな灯り |
 | story_iris_set_1_story_1 | 糖果屋 | - | - |
 | story_jesica_set_1_story_1 | 缓步前行 | The Slow Walk Ahead | ゆっくり進む者 |
-| story_kirara_set_1_story_1 | 隐藏结局 | - | - |
-| story_kirara_set_2_story_1 | 无伤通关 | - | - |
+| story_kirara_set_1_story_1 | 隐藏结局 | - | 隠しエンディング |
+| story_kirara_set_2_story_1 | 无伤通关 | - | ノーダメージクリア |
 | story_kroos_set_1_story_1 | 苹果 | Apples | 林檎 |
 | story_lava_set_1_story_1 | 姐妹 | 'Sisters' | 姉妹 |
 | story_lava_set_2_story_1 | 看护 | 'Caring' | 看病 |
@@ -115,7 +115,7 @@ tip: 请善用浏览器的搜索功能
 | story_mint_set_1_story_1 | 昔日重现 | Yesterday Once More | デジャヴ |
 | story_mizuki_set_1_story_1 | 第五类接触 | The Fifth Contact | 第五種接近遭遇 |
 | story_mm_set_1_story_1 | 大侦探探案集·卷一 | - | - |
-| story_moeshd_set_1_story_1 | 生意场 | - | - |
+| story_moeshd_set_1_story_1 | 生意场 | - | 商売とは |
 | story_morgan_set_1_story_1 | 巨轮之下 | - | - |
 | story_mostma_set_1_story_1 | 高楼之上 | Atop the Skyscrapers | 高層ビルの上で |
 | story_myrrh_set_1_story_1 | 护身符 | Lucky Charm | 御守り |

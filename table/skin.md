@@ -238,5 +238,5 @@ tip: 请善用浏览器的搜索功能
 | char_485_pallas@epoque#19 | 山川的酿造 | - | - |
 | char_486_takila@ambienceSynesthesia#2 | 开牌制胜 | Cardwinner | ショーダウン |
 | char_492_quercu@epoque#17 | 遥乡之径 | - | - |
-| char_496_wildmn@epoque#16 | 正义缔造者 | - | - |
+| char_496_wildmn@epoque#16 | 正义缔造者 | - | ジャスティスメーカー |
 | char_497_ctable@nian#9 | 灯如昼 | - | - |

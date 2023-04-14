@@ -31,7 +31,7 @@ tip: 请善用浏览器的搜索功能
 | act13login | 登录领取奖励 | - | - |
 | act13mini | 好久不见 | It's Been a While | また会えたね |
 | act13side | 长夜临光 | Near Light | ニアーライト |
-| act13sre | 长夜临光·复刻 | - | - |
+| act13sre | 长夜临光·复刻 | - | ニアーライト·復刻 |
 | act14d0d1 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act14d0d2 | 登录领取奖励 | Sign-in Campaign | ログイン報酬 |
 | act14d7 | 喧闹法则·复刻 | Code of Brawl - Rerun | 喧騒の掟・復刻 |
