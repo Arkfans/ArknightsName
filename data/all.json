@@ -4653,6 +4653,12 @@
       "zh_CN": "翡翠假日"
     }
   },
+  "char_263_skadi@marthe#5": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "下一顿午茶"
+    }
+  },
   "char_263_skadi@summer#3": {
     "type": "SKIN",
     "names": {
@@ -11753,6 +11759,12 @@
       "zh_CN": "愚人号"
     }
   },
+  "act17sre": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "愚人号·复刻"
+    }
+  },
   "act18d0": {
     "type": "ACTIVITY",
     "names": {
@@ -14192,6 +14204,12 @@
     "names": {
       "en_US": "Rusted Compass",
       "ja_JP": "錆びたコンパス",
+      "zh_CN": "锈蚀的罗盘"
+    }
+  },
+  "act17side_token_compass_rep_1": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "锈蚀的罗盘"
     }
   },
@@ -33600,6 +33618,36 @@
       "zh_CN": "镜前映像"
     }
   },
+  "act17sre_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "格兰法洛"
+    }
+  },
+  "act17sre_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "失落旗舰"
+    }
+  },
+  "act17sre_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "无名之海"
+    }
+  },
+  "act17sre_zone4": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "蒙尘图册"
+    }
+  },
+  "act17sre_zone5": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "镜前映像"
+    }
+  },
   "act18d0_zone1": {
     "type": "ZONE",
     "names": {
@@ -34542,6 +34590,12 @@
       "zh_CN": "她所见"
     }
   },
+  "story_ayer_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "黄沙觅迹"
+    }
+  },
   "story_beewax_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -35142,6 +35196,12 @@
       "zh_CN": "醒时梦长"
     }
   },
+  "story_lionhd_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "暗境求生"
+    }
+  },
   "story_liskam_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -35170,6 +35230,12 @@
       "en_US": "Sleepwalker Sailing",
       "ja_JP": "夜の艦内遊覧",
       "zh_CN": "夜游船"
+    }
+  },
+  "story_lumen_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "直到灯火明亮"
     }
   },
   "story_mantic_set_1_story_1": {
@@ -35434,6 +35500,12 @@
       "en_US": "A Perilous Road",
       "ja_JP": "険しき道を征く",
       "zh_CN": "崎路前行"
+    }
+  },
+  "story_quartz_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "无需遗憾"
     }
   },
   "story_quercu_set_1_story_1": {

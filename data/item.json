@@ -945,6 +945,9 @@
     "ja_JP": "錆びたコンパス",
     "zh_CN": "锈蚀的罗盘"
   },
+  "act17side_token_compass_rep_1": {
+    "zh_CN": "锈蚀的罗盘"
+  },
   "act18d0_token_page": {
     "en_US": "Scattered Sketches",
     "ja_JP": "古い標本図",

@@ -201,6 +201,7 @@ tip: 请善用浏览器的搜索功能
 | act16side_token_bolt_rep_1 | 蚀刻弹弹壳 | - | - |
 | act17d0_token_form | 罗德岛物资配给证书 | Rhodes Island Resource Allocation Certificate | ロドス物資配給許可書 |
 | act17side_token_compass | 锈蚀的罗盘 | Rusted Compass | 錆びたコンパス |
+| act17side_token_compass_rep_1 | 锈蚀的罗盘 | - | - |
 | act18d0_token_page | 手绘标本残页 | Scattered Sketches | 古い標本図 |
 | act18d0_token_page_rep_1 | 手绘标本残页 | Scattered Sketches | 古い標本図 |
 | act18d3_token_record | 腐蚀的伊比利亚唱片 | Corrupted Iberian Record | 腐食したレコード |

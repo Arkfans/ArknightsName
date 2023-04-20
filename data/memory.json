@@ -68,6 +68,9 @@
     "ja_JP": "彼女の見たいもの",
     "zh_CN": "她所见"
   },
+  "story_ayer_set_1_story_1": {
+    "zh_CN": "黄沙觅迹"
+  },
   "story_beewax_set_1_story_1": {
     "zh_CN": "黄沙归途"
   },
@@ -428,6 +431,9 @@
     "ja_JP": "白日の酔夢",
     "zh_CN": "醒时梦长"
   },
+  "story_lionhd_set_1_story_1": {
+    "zh_CN": "暗境求生"
+  },
   "story_liskam_set_1_story_1": {
     "en_US": "'Apple Pie Party, Now Preparing!'",
     "ja_JP": "リンゴパーティー準備中！",
@@ -445,6 +451,9 @@
     "en_US": "Sleepwalker Sailing",
     "ja_JP": "夜の艦内遊覧",
     "zh_CN": "夜游船"
+  },
+  "story_lumen_set_1_story_1": {
+    "zh_CN": "直到灯火明亮"
   },
   "story_mantic_set_1_story_1": {
     "en_US": "Dead Silence",
@@ -607,6 +616,9 @@
     "en_US": "A Perilous Road",
     "ja_JP": "険しき道を征く",
     "zh_CN": "崎路前行"
+  },
+  "story_quartz_set_1_story_1": {
+    "zh_CN": "无需遗憾"
   },
   "story_quercu_set_1_story_1": {
     "zh_CN": "终途"

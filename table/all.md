@@ -621,6 +621,7 @@ tip: 请善用浏览器的搜索功能
 | char_254_vodfox@witch#2 | 魔城回响 | Echo of the Horrorlair | 魔城の呼び声 |
 | char_258_podego@epoque#9 | 小憩初醒 | Wake Up From a Nap | おひるね |
 | char_261_sddrag@ambienceSynesthesia#2 | 翡翠假日 | Emerald Holiday | エメラルドホリデー |
+| char_263_skadi@marthe#5 | 下一顿午茶 | - | - |
 | char_263_skadi@summer#3 | 驭浪 WR04 | Waverider WR04 | ウェーブライダーWR04 |
 | char_264_f12yin@boc#3 | 乌云 | Dark Cloud | 烏雲 |
 | char_264_f12yin@epoque#15 | 读者 | Book Reader | 読書家 |
@@ -1560,6 +1561,7 @@ tip: 请善用浏览器的搜索功能
 | act17d5 | 生于黑夜·复刻 | Darknights Memoir - Rerun | 闇夜に生きる・復刻 |
 | act17d7 | 愚人节活动 | April Fools' Day Event | エイプリルフール |
 | act17side | 愚人号 | Stultifera Navis | 狂人号 |
+| act17sre | 愚人号·复刻 | - | - |
 | act18d0 | 遗尘漫步 | A Walk in the Dust | 遺塵の道を |
 | act18d3 | 覆潮之下 | Under Tides | 潮汐の下 |
 | act18d3d1 | 登录领取奖励 | Sign-in Campaign | ログイン報酬 |
@@ -1875,6 +1877,7 @@ tip: 请善用浏览器的搜索功能
 | act16side_token_bolt_rep_1 | 蚀刻弹弹壳 | - | - |
 | act17d0_token_form | 罗德岛物资配给证书 | Rhodes Island Resource Allocation Certificate | ロドス物資配給許可書 |
 | act17side_token_compass | 锈蚀的罗盘 | Rusted Compass | 錆びたコンパス |
+| act17side_token_compass_rep_1 | 锈蚀的罗盘 | - | - |
 | act18d0_token_page | 手绘标本残页 | Scattered Sketches | 古い標本図 |
 | act18d0_token_page_rep_1 | 手绘标本残页 | Scattered Sketches | 古い標本図 |
 | act18d3_token_record | 腐蚀的伊比利亚唱片 | Corrupted Iberian Record | 腐食したレコード |
@@ -4464,6 +4467,11 @@ tip: 请善用浏览器的搜索功能
 | act17side_zone3 | 无名之海 | Nameless Ocean | 名もなき海 |
 | act17side_zone4 | 蒙尘图册 | Dusty Picturebook | 古びた手記 |
 | act17side_zone5 | 镜前映像 | Mirror Image | 鏡写しの映像 |
+| act17sre_zone1 | 格兰法洛 | - | - |
+| act17sre_zone2 | 失落旗舰 | - | - |
+| act17sre_zone3 | 无名之海 | - | - |
+| act17sre_zone4 | 蒙尘图册 | - | - |
+| act17sre_zone5 | 镜前映像 | - | - |
 | act18d0_zone1 | 漫漫独行 | Walk Alone | 寂然独歩 |
 | act18d0_zone2 | 浩瀚之旅 | The Endless Road | 無辺の旅 |
 | act18d3_zone1 | 荒败盐风 | Deserted Salviento | 潮風の廃都 |
@@ -4587,6 +4595,7 @@ tip: 请善用浏览器的搜索功能
 | story_asbest_set_1_story_1 | 奇景 | Strange Sights | 奇景 |
 | story_astesi_set_1_story_1 | 启明 | - | - |
 | story_aurora_set_1_story_1 | 她所见 | What She Saw | 彼女の見たいもの |
+| story_ayer_set_1_story_1 | 黄沙觅迹 | - | - |
 | story_beewax_set_1_story_1 | 黄沙归途 | - | - |
 | story_bgsnow_set_1_story_1 | 墨迹已落 | - | - |
 | story_bibeak_set_1_story_1 | 破壳 | - | - |
@@ -4667,10 +4676,12 @@ tip: 请善用浏览器的搜索功能
 | story_lava_set_1_story_1 | 姐妹 | 'Sisters' | 姉妹 |
 | story_lava_set_2_story_1 | 看护 | 'Caring' | 看病 |
 | story_ling_set_1_story_1 | 醒时梦长 | From a Long Dream Woken | 白日の酔夢 |
+| story_lionhd_set_1_story_1 | 暗境求生 | - | - |
 | story_liskam_set_1_story_1 | 苹果派对准备中！ | 'Apple Pie Party, Now Preparing!' | リンゴパーティー準備中！ |
 | story_liskam_set_2_story_1 | 尚待 | 'Still Waiting' | 待つ |
 | story_lmlee_set_1_story_1 | 三餐一日 | - | - |
 | story_lolxh_set_1_story_1 | 夜游船 | Sleepwalker Sailing | 夜の艦内遊覧 |
+| story_lumen_set_1_story_1 | 直到灯火明亮 | - | - |
 | story_mantic_set_1_story_1 | 缄默 | Dead Silence | 黙して語らず |
 | story_mberry_set_1_story_1 | 平安祈愿 | - | - |
 | story_medic2_set_1_story_1 | 一个涂鸦 | A Piece of Graffiti | ある落書き |
@@ -4705,6 +4716,7 @@ tip: 请善用浏览器的搜索功能
 | story_popka_set_1_story_1 | 玩乐之间 | Funtime | お遊びの中で |
 | story_prove_set_1_story_1 | 同事们 | Coworkers | カンパニー |
 | story_prove_set_2_story_1 | 崎路前行 | A Perilous Road | 険しき道を征く |
+| story_quartz_set_1_story_1 | 无需遗憾 | - | - |
 | story_quercu_set_1_story_1 | 终途 | - | - |
 | story_quercu_set_2_story_1 | 生命的萌芽 | - | - |
 | story_robrta_set_1_story_1 | 挽歌 | - | - |
