@@ -2300,10 +2300,6 @@ tip: 请善用浏览器的搜索功能
 | char_472_pasngr_n_1 | 异客 | Passenger | パッセンジャー |
 | char_500_noirc_1 | 黑角 | Noir Corne | ノイルホーン |
 | char_503_rang | 巡林者 | Rangers | レンジャー |
-| char_empty_b |  | - | - |
-|   | 受伤的孩子 |   |   |
-|   | 受惊的孩子 |   |   |
-|   | 哭泣的老人 |   |   |
 | npc_10002 | Mon3tr | Mon3tr | Mon3tr |
 | npc_2001_Aya_1 | Aya | Aya | Aya |
 | npc_2001_Aya_rock | Aya | Aya | Aya |
