@@ -30004,6 +30004,12 @@
       "zh_CN": "龙门商业街"
     }
   },
+  "camp_r_16": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "休止符街道"
+    }
+  },
   "hard_05-01": {
     "type": "STAGE",
     "names": {
