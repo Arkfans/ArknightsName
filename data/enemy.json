@@ -2575,63 +2575,83 @@
     "zh_CN": "自走车"
   },
   "enemy_1266_nhapos": {
+    "ja_JP": "ナハツェーラーの使徒",
     "zh_CN": "食腐使徒"
   },
   "enemy_1267_nhpbr": {
+    "ja_JP": "枯朽サルカズ戦士",
     "zh_CN": "萨卡兹枯朽战士"
   },
   "enemy_1267_nhpbr_2": {
+    "ja_JP": "枯朽サルカズ戦士隊長",
     "zh_CN": "萨卡兹枯朽战士组长"
   },
   "enemy_1268_nhnrs": {
+    "ja_JP": "枯朽サルカズ術師",
     "zh_CN": "萨卡兹枯朽术师"
   },
   "enemy_1268_nhnrs_2": {
+    "ja_JP": "枯朽サルカズ術師隊長",
     "zh_CN": "萨卡兹枯朽术师组长"
   },
   "enemy_1269_nhfly": {
+    "ja_JP": "枯朽の種",
     "zh_CN": "枯朽之种"
   },
   "enemy_1269_nhfly_2": {
+    "ja_JP": "腐敗の種",
     "zh_CN": "腐败之种"
   },
   "enemy_1270_nhstlk": {
+    "ja_JP": "逐腐獣",
     "zh_CN": "逐腐兽"
   },
   "enemy_1270_nhstlk_2": {
+    "ja_JP": "狂った逐腐獣",
     "zh_CN": "疯狂的逐腐兽"
   },
   "enemy_1271_nhkodo": {
+    "ja_JP": "枯朽サルカズ吸収者",
     "zh_CN": "萨卡兹枯朽吞噬者"
   },
   "enemy_1271_nhkodo_2": {
+    "ja_JP": "枯朽サルカズ受容者",
     "zh_CN": "萨卡兹枯朽吸纳者"
   },
   "enemy_1272_nhtank": {
+    "ja_JP": "枯朽サルカズ戦車",
     "zh_CN": "萨卡兹枯朽战车"
   },
   "enemy_1272_nhtank_2": {
+    "ja_JP": "枯朽サルカズ精鋭戦車",
     "zh_CN": "尖端萨卡兹枯朽战车"
   },
   "enemy_1273_stmgun": {
+    "ja_JP": "都市防衛自走砲",
     "zh_CN": "伦蒂尼姆城防自行炮"
   },
   "enemy_1273_stmgun_2": {
+    "ja_JP": "高精度都市防衛自走砲",
     "zh_CN": "高准度伦蒂尼姆城防自行炮"
   },
   "enemy_1274_stmram": {
+    "ja_JP": "蒸気戦車",
     "zh_CN": "蒸汽战车"
   },
   "enemy_1274_stmram_2": {
+    "ja_JP": "高温蒸気戦車",
     "zh_CN": "极温蒸汽战车"
   },
   "enemy_1275_dwlock": {
+    "ja_JP": "サルカズ王庭軍術師",
     "zh_CN": "萨卡兹王庭军术师"
   },
   "enemy_1275_dwlock_2": {
+    "ja_JP": "サルカズ王庭軍精鋭術師",
     "zh_CN": "萨卡兹王庭军精锐术师"
   },
   "enemy_1276_telex": {
+    "ja_JP": "Theresis",
     "zh_CN": "特雷西斯"
   },
   "enemy_1277_sgman": {
@@ -3067,6 +3087,7 @@
     "zh_CN": "“物欲拮抗者”"
   },
   "enemy_1533_stmkgt": {
+    "ja_JP": "「最後の蒸気騎士」",
     "zh_CN": "“最后的蒸汽骑士”"
   },
   "enemy_1535_wlfmster": {
@@ -3364,6 +3385,7 @@
     "zh_CN": "荧壳源石虫"
   },
   "enemy_6009_nlkgtbs": {
+    "ja_JP": "「暴食の果実」",
     "zh_CN": "“暴食之果”"
   },
   "enemy_6010_boxing": {

@@ -59,7 +59,7 @@ tip: 请善用浏览器的搜索功能
 | 30125 | 双极纳米片 | Bipolar Nanoflake | ナノフレーク |
 | 30135 | D32钢 | D32 Steel | D32鋼 |
 | 30145 | 晶体电子单元 | Crystalline Electronic Unit | 結晶制御装置 |
-| 30155 | 烧结核凝晶 | - | - |
+| 30155 | 烧结核凝晶 | - | 焼結核凝晶 |
 | 31013 | 凝胶 | Coagulating Gel | 人工ゲル |
 | 31014 | 聚合凝胶 | Polymerized Gel | 融合ゲル |
 | 31023 | 炽合金 | Incandescent Alloy | 熾合金 |
@@ -71,8 +71,8 @@ tip: 请善用浏览器的搜索功能
 | 3105 | 龙骨 | Keel | 竜骨 |
 | 31053 | 化合切削液 | Compound Cutting Fluid | 切削液 |
 | 31054 | 切削原液 | Cutting Fluid Solution | 上級切削液 |
-| 31063 | 转质盐组 | - | - |
-| 31064 | 转质盐聚块 | - | - |
+| 31063 | 转质盐组 | - | 転化塩 |
+| 31064 | 转质盐聚块 | - | 上級転化塩 |
 | 3112 | 碳 | Carbon Stick | 初級炭素材 |
 | 3113 | 碳素 | Carbon Brick | 中級炭素材 |
 | 3114 | 碳素组 | Carbon Pack | 上級炭素材 |
@@ -513,7 +513,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_151_myrtle | 桃金娘的信物 | Myrtle's Token | テンニンカの印 |
 | p_char_154_morgan | 摩根的信物 | - | - |
 | p_char_155_tiger | 因陀罗的信物 | Indra's Token | インドラの印 |
-| p_char_157_dagda | 达格达的信物 | - | - |
+| p_char_157_dagda | 达格达的信物 | - | ダグザの印 |
 | p_char_158_milu | 守林人的信物 | Firewatch's Token | ファイヤーウォッチの印 |
 | p_char_163_hpsts | 火神的信物 | Vulcan's Token | ヴァルカンの印 |
 | p_char_164_nightm | 夜魔的信物 | Nightmare's Token | ナイトメアの印 |
@@ -668,13 +668,13 @@ tip: 请善用浏览器的搜索功能
 | p_char_4054_malist | 至简的信物 | Minimalist's Token | ミニマリストの印 |
 | p_char_4055_bgsnow | 鸿雪的信物 | Pozëmka's Token | パゼオンカの印 |
 | p_char_405_absin | 苦艾的信物 | Absinthe's Token | アブサントの印 |
-| p_char_4062_totter | 铅踝的信物 | - | - |
+| p_char_4062_totter | 铅踝的信物 | - | トターの印 |
 | p_char_4063_quartz | 石英的信物 | - | - |
 | p_char_4064_mlynar | 玛恩纳的信物 | Młynar's Token | ムリナールの印 |
 | p_char_4065_judge | 斥罪的信物 | - | - |
 | p_char_4066_highmo | 海沫的信物 | - | - |
-| p_char_4071_peper | 明椒的信物 | - | - |
-| p_char_4072_ironmn | 白铁的信物 | - | - |
+| p_char_4071_peper | 明椒的信物 | - | パプリカの印 |
+| p_char_4072_ironmn | 白铁的信物 | - | ステインレスの印 |
 | p_char_4077_palico | 泰拉大陆调查团的信物 | - | - |
 | p_char_4078_bdhkgt | 截云的信物 | - | - |
 | p_char_4080_lin | 林的信物 | - | - |
@@ -747,17 +747,17 @@ tip: 请善用浏览器的搜索功能
 | randomMaterial_4 | 感谢庆典物资补给 | Thank-You Celebration Supplies | 補給物資・「感謝祭」 |
 | randomMaterial_5 | 罗德岛物资补给II | Rhodes Island Supplies II | 補給物資・ロドスⅡ |
 | randomMaterial_6 | 罗德岛物资补给III | Rhodes Island Supplies III | 補給物資・ロドスIII |
-| randomMaterial_7 | 罗德岛物资补给IV | - | - |
+| randomMaterial_7 | 罗德岛物资补给IV | - | 補給物資・ロドスIV |
 | randomMaterial_8 | 罗德岛物资补给V | - | - |
 | renamingCard | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
 | renamingCard_0_018 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
 | renamingCard_0_023 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
 | renamingCard_0_027 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
-| renamingCard_0_033 | ID信息更新卡 | - | - |
+| renamingCard_0_033 | ID信息更新卡 | - | ID情報更新カード |
 | renamingCard_30_018 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
 | renamingCard_30_023 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
 | renamingCard_30_027 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
-| renamingCard_30_033 | ID信息更新卡 | - | - |
+| renamingCard_30_033 | ID信息更新卡 | - | ID情報更新カード |
 | return_credit_token | 二次认证徽记 | Second Authentication Emblem | 二次認証徽章 |
 | rogue_1_token_bp | 蜡烛 | Candle | キャンドル |
 | rogue_1_token_grow | 昏暗的灵感 | Caliginous Insights | 昏きセンス |

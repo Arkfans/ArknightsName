@@ -145,7 +145,7 @@ tip: 请善用浏览器的搜索功能
 | story_quercu_set_1_story_1 | 终途 | - | - |
 | story_quercu_set_2_story_1 | 生命的萌芽 | - | - |
 | story_robrta_set_1_story_1 | 挽歌 | - | - |
-| story_rockr_set_1_story_1 | 六百镑 | - | - |
+| story_rockr_set_1_story_1 | 六百镑 | - | 600ポンド |
 | story_rope_set_1_story_1 | 鲜花香水 | Floral Perfume | フラワーパフューム |
 | story_rope_set_1_story_2 | 鲜花香水 | Floral Perfume | フラワーパフューム |
 | story_savage_set_1_story_1 | 沉痛转机 | Painful Reversal | 痛ましい転機 |
@@ -187,7 +187,7 @@ tip: 请善用浏览器的搜索功能
 | story_tknogi_set_1_story_1 | 寻常夕阳 | - | - |
 | story_toddi_set_1_story_1 | 装甲与重弩 | Armor and Crossbow | 装甲と重弩 |
 | story_tomimi_set_1_story_1 | 崭新生活 | Brand New Life | 新たな生活 |
-| story_totter_set_1_story_1 | 计划 | - | - |
+| story_totter_set_1_story_1 | 计划 | - | 計画 |
 | story_tuye_set_1_story_1 | 沙漠之虹 | - | - |
 | story_vigil_set_1_story_1 | 未来将至 | - | - |
 | story_vigna_set_1_story_1 | 该做的事 | What You've Gotta Do | すべきこと |

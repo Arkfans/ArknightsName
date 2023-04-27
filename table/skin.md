@@ -98,7 +98,7 @@ tip: 请善用浏览器的搜索功能
 | char_206_gnosis@boc#4 | 先驱 | Forerunner | 先駆 |
 | char_208_melan@epoque#1 | 威塞克斯的信件 | Letters from Wessex | ウェセックスレター |
 | char_209_ardign@snow#1 | 快乐卫士 | Cheerful Guardian | ハッピーナイト |
-| char_210_stward@sale#6 | 风雪邀请 | - | - |
+| char_210_stward@sale#6 | 风雪邀请 | - | 風雪のいざない |
 | char_211_adnach@sale#5 | 无痕行者 | Traceless Walker | 足跡なき使者 |
 | char_212_ansel@summer#1 | 悠然假日 HDm06 | Casual Vacation HDm06 | ホリデーHDm06 |
 | char_213_mostma@epoque#5 | 除魅 | Spellbreaker | 魑魅払い |
@@ -158,7 +158,7 @@ tip: 请善用浏览器的搜索功能
 | char_308_swire@nian#2 | 富贵荣华 | Honor and Splendor | 富貴栄華 |
 | char_311_mudrok@ambienceSynesthesia#2 | 黑曜石 | Obsidian | オブシディアン |
 | char_311_mudrok@summer#6 | 静谧午夜 DN06 | Silent Night DN06 | 安息の午夜DN06 |
-| char_322_lmlee@witch#3 | 手到牌来 | - | - |
+| char_322_lmlee@witch#3 | 手到牌来 | - | お目を拝借 |
 | char_326_glacus@ghost#1 | 广场扫荡客 | Exterminator in the Square | 広場の掃討者 |
 | char_328_cammou@witch#2 | 安息处的怪盗 | Grave Thief | 霊園の怪盗 |
 | char_332_archet@shining#1 | 宣传策略 | Publicity Strategy | PR戦略 |
@@ -166,7 +166,7 @@ tip: 请善用浏览器的搜索功能
 | char_336_folivo@epoque#22 | 别枝 | - | - |
 | char_337_utage@epoque#15 | 伪装 | Disguise | 偽装 |
 | char_337_utage@summer#4 | 夏卉 FA661 | Summer Flowers FA661 | 夏の花弁FA661 |
-| char_338_iris@witch#3 | 镜中来访 | - | - |
+| char_338_iris@witch#3 | 镜中来访 | - | 鏡からの来訪者 |
 | char_340_shwaz@snow#1 | 厚礼 | Presents | ギフト |
 | char_340_shwaz@striker#1 | 天际线 | Skyline | スカイライン |
 | char_343_tknogi@epoque#9 | 伦式巫女 | Londinium Style Miko | ロンディニウム式巫女 |
@@ -194,7 +194,7 @@ tip: 请善用浏览器的搜索功能
 | char_4004_pudd@snow#5 | 火树灵 | - | - |
 | char_400_weedy@snow#2 | 糖果仙子 | Candy Cape | キャンディフェアリー |
 | char_4013_kjera@epoque#18 | 灵巧侍者 | - | - |
-| char_4016_kazema@witch#3 | 幻影轻悄 | - | - |
+| char_4016_kazema@witch#3 | 幻影轻悄 | - | 軽やかな幻影 |
 | char_401_elysm@snow#2 | 雪夜回音 | Snowy Echo | 雪夜の思い出 |
 | char_401_elysm@summer#9 | 灿阳朝露 SDm11 | Shimmering Dew SDm11 | 炎陽煌く露SDm11 |
 | char_402_tuye@epoque#14 | 培翠 | Cultivate Vegetation | 緑化 |

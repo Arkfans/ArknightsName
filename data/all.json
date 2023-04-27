@@ -464,6 +464,7 @@
   "char_157_dagda": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "ダグザ",
       "zh_CN": "达格达"
     }
   },
@@ -1710,6 +1711,7 @@
   "char_4062_totter": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "トター",
       "zh_CN": "铅踝"
     }
   },
@@ -1750,12 +1752,14 @@
   "char_4071_peper": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "パプリカ",
       "zh_CN": "明椒"
     }
   },
   "char_4072_ironmn": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "ステインレス",
       "zh_CN": "白铁"
     }
   },
@@ -2496,18 +2500,21 @@
   "token_10027_ironmn_pile1": {
     "type": "TOKEN",
     "names": {
+      "ja_JP": "ステインレス™多機能プラットフォーム",
       "zh_CN": "白铁™多功能平台"
     }
   },
   "token_10027_ironmn_pile2": {
     "type": "TOKEN",
     "names": {
+      "ja_JP": "ステインレス™多機能プラットフォーム",
       "zh_CN": "白铁™多功能平台"
     }
   },
   "token_10027_ironmn_pile3": {
     "type": "TOKEN",
     "names": {
+      "ja_JP": "鉄鉗号･プロトタイプ",
       "zh_CN": "铁钳号·原型机"
     }
   },
@@ -3162,12 +3169,14 @@
   "trap_086_larva": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "「渇欲の枯枝」 ",
       "zh_CN": "“汲营枯枝” "
     }
   },
   "trap_087_allady": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "アラデルの衛護",
       "zh_CN": "阿勒黛的卫护"
     }
   },
@@ -3208,18 +3217,21 @@
   "trap_093_tbattbc": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "鉗獣殻パウダー",
       "zh_CN": "钳兽壳粉"
     }
   },
   "trap_094_tbpsnc": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "ベーキングパウダー",
       "zh_CN": "高效泡打粉"
     }
   },
   "trap_095_tbsmmc": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "エッセンシャルオイル",
       "zh_CN": "芳香精油"
     }
   },
@@ -4404,6 +4416,7 @@
   "char_210_stward@sale#6": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "風雪のいざない",
       "zh_CN": "风雪邀请"
     }
   },
@@ -4874,6 +4887,7 @@
   "char_322_lmlee@witch#3": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "お目を拝借",
       "zh_CN": "手到牌来"
     }
   },
@@ -4934,6 +4948,7 @@
   "char_338_iris@witch#3": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "鏡からの来訪者",
       "zh_CN": "镜中来访"
     }
   },
@@ -5142,6 +5157,7 @@
   "char_4016_kazema@witch#3": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "軽やかな幻影",
       "zh_CN": "幻影轻悄"
     }
   },
@@ -9766,120 +9782,140 @@
   "enemy_1266_nhapos": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "ナハツェーラーの使徒",
       "zh_CN": "食腐使徒"
     }
   },
   "enemy_1267_nhpbr": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "枯朽サルカズ戦士",
       "zh_CN": "萨卡兹枯朽战士"
     }
   },
   "enemy_1267_nhpbr_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "枯朽サルカズ戦士隊長",
       "zh_CN": "萨卡兹枯朽战士组长"
     }
   },
   "enemy_1268_nhnrs": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "枯朽サルカズ術師",
       "zh_CN": "萨卡兹枯朽术师"
     }
   },
   "enemy_1268_nhnrs_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "枯朽サルカズ術師隊長",
       "zh_CN": "萨卡兹枯朽术师组长"
     }
   },
   "enemy_1269_nhfly": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "枯朽の種",
       "zh_CN": "枯朽之种"
     }
   },
   "enemy_1269_nhfly_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "腐敗の種",
       "zh_CN": "腐败之种"
     }
   },
   "enemy_1270_nhstlk": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "逐腐獣",
       "zh_CN": "逐腐兽"
     }
   },
   "enemy_1270_nhstlk_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "狂った逐腐獣",
       "zh_CN": "疯狂的逐腐兽"
     }
   },
   "enemy_1271_nhkodo": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "枯朽サルカズ吸収者",
       "zh_CN": "萨卡兹枯朽吞噬者"
     }
   },
   "enemy_1271_nhkodo_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "枯朽サルカズ受容者",
       "zh_CN": "萨卡兹枯朽吸纳者"
     }
   },
   "enemy_1272_nhtank": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "枯朽サルカズ戦車",
       "zh_CN": "萨卡兹枯朽战车"
     }
   },
   "enemy_1272_nhtank_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "枯朽サルカズ精鋭戦車",
       "zh_CN": "尖端萨卡兹枯朽战车"
     }
   },
   "enemy_1273_stmgun": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "都市防衛自走砲",
       "zh_CN": "伦蒂尼姆城防自行炮"
     }
   },
   "enemy_1273_stmgun_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "高精度都市防衛自走砲",
       "zh_CN": "高准度伦蒂尼姆城防自行炮"
     }
   },
   "enemy_1274_stmram": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "蒸気戦車",
       "zh_CN": "蒸汽战车"
     }
   },
   "enemy_1274_stmram_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "高温蒸気戦車",
       "zh_CN": "极温蒸汽战车"
     }
   },
   "enemy_1275_dwlock": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "サルカズ王庭軍術師",
       "zh_CN": "萨卡兹王庭军术师"
     }
   },
   "enemy_1275_dwlock_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "サルカズ王庭軍精鋭術師",
       "zh_CN": "萨卡兹王庭军精锐术师"
     }
   },
   "enemy_1276_telex": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "Theresis",
       "zh_CN": "特雷西斯"
     }
   },
@@ -10684,6 +10720,7 @@
   "enemy_1533_stmkgt": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「最後の蒸気騎士」",
       "zh_CN": "“最后的蒸汽骑士”"
     }
   },
@@ -11200,6 +11237,7 @@
   "enemy_6009_nlkgtbs": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「暴食の果実」",
       "zh_CN": "“暴食之果”"
     }
   },
@@ -12038,6 +12076,7 @@
   "act30sign": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "早春の風スタンプラリー",
       "zh_CN": "秋风送爽限时登录活动"
     }
   },
@@ -13102,6 +13141,7 @@
   "30155": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "焼結核凝晶",
       "zh_CN": "烧结核凝晶"
     }
   },
@@ -13196,12 +13236,14 @@
   "31063": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "転化塩",
       "zh_CN": "转质盐组"
     }
   },
   "31064": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "上級転化塩",
       "zh_CN": "转质盐聚块"
     }
   },
@@ -16382,6 +16424,7 @@
   "p_char_157_dagda": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ダグザの印",
       "zh_CN": "达格达的信物"
     }
   },
@@ -17612,6 +17655,7 @@
   "p_char_4062_totter": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "トターの印",
       "zh_CN": "铅踝的信物"
     }
   },
@@ -17644,12 +17688,14 @@
   "p_char_4071_peper": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "パプリカの印",
       "zh_CN": "明椒的信物"
     }
   },
   "p_char_4072_ironmn": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ステインレスの印",
       "zh_CN": "白铁的信物"
     }
   },
@@ -18208,6 +18254,7 @@
   "randomMaterial_7": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "補給物資・ロドスIV",
       "zh_CN": "罗德岛物资补给IV"
     }
   },
@@ -18252,6 +18299,7 @@
   "renamingCard_0_033": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ID情報更新カード",
       "zh_CN": "ID信息更新卡"
     }
   },
@@ -18282,6 +18330,7 @@
   "renamingCard_30_033": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ID情報更新カード",
       "zh_CN": "ID信息更新卡"
     }
   },
@@ -20091,6 +20140,12 @@
       "ja_JP": "先途追想"
     }
   },
+  "_NORM_20_4_1": {
+    "type": "POOL",
+    "names": {
+      "ja_JP": "軸受×火花"
+    }
+  },
   "_NORM_2_0_1": {
     "type": "POOL",
     "names": {
@@ -21239,12 +21294,14 @@
   "skchr_dagda_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "カウンターテクニック",
       "zh_CN": "反制技巧"
     }
   },
   "skchr_dagda_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "ハンティングタイム",
       "zh_CN": "精准捕杀"
     }
   },
@@ -22253,18 +22310,21 @@
   "skchr_ironmn_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "ハイパーブースト",
       "zh_CN": "极致火力"
     }
   },
   "skchr_ironmn_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "供給効率化システム",
       "zh_CN": "高效补给"
     }
   },
   "skchr_ironmn_3": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "鉄鉗号･プロトタイプ",
       "zh_CN": "铁钳号·原型机"
     }
   },
@@ -23111,6 +23171,7 @@
   "skchr_peper_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "仲間意識",
       "zh_CN": "同伴意识"
     }
   },
@@ -24107,12 +24168,14 @@
   "skchr_totter_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "貫日の一射",
       "zh_CN": "贯日"
     }
   },
   "skchr_totter_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "砕虹の勁弩",
       "zh_CN": "破虹"
     }
   },
@@ -24491,6 +24554,7 @@
   "skcom_heal_rage[3]": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "援護作戦γ",
       "zh_CN": "掩护作战·γ型"
     }
   },
@@ -24623,12 +24687,14 @@
   "sktok_allady": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "アラデルの衛護",
       "zh_CN": "阿勒黛的卫护"
     }
   },
   "sktok_allady_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "アラデルの衛護",
       "zh_CN": "阿勒黛的卫护"
     }
   },
@@ -25283,18 +25349,21 @@
   "sktok_ironmn_pile1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "ハイパーブースト",
       "zh_CN": "极致火力"
     }
   },
   "sktok_ironmn_pile2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "供給効率化システム",
       "zh_CN": "高效补给"
     }
   },
   "sktok_ironmn_pile3": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "鉄鉗号･プロトタイプ",
       "zh_CN": "铁钳号·原型机"
     }
   },
@@ -25319,6 +25388,7 @@
   "sktok_larva": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "渇欲の枯枝",
       "zh_CN": "汲营枯枝"
     }
   },
@@ -25851,18 +25921,21 @@
   "sktok_tbattbc": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "鉗獣殻パウダー",
       "zh_CN": "钳兽壳粉"
     }
   },
   "sktok_tbpsnc": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "ベーキングパウダー",
       "zh_CN": "高效泡打粉"
     }
   },
   "sktok_tbsmmc": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "エッセンシャルオイル",
       "zh_CN": "芳香精油"
     }
   },
@@ -29989,6 +30062,7 @@
   "camp_r_13": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "暗き造船所",
       "zh_CN": "昏黑造船厂"
     }
   },
@@ -30213,24 +30287,28 @@
   "hard_11-01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "煙塵作戦-1",
       "zh_CN": "尘霾行动-1"
     }
   },
   "hard_11-02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "煙塵作戦-2",
       "zh_CN": "尘霾行动-2"
     }
   },
   "hard_11-03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "煙塵作戦-3",
       "zh_CN": "尘霾行动-3"
     }
   },
   "hard_11-04": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "煙塵作戦-4",
       "zh_CN": "尘霾行动-4"
     }
   },
@@ -30453,48 +30531,56 @@
   "lt_04_01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "予想外の事態",
       "zh_CN": "无心插柳"
     }
   },
   "lt_04_02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "判別不能",
       "zh_CN": "真假难辨"
     }
   },
   "lt_04_03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "穏やかな夜",
       "zh_CN": "夜色温柔"
     }
   },
   "lt_04_04": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "対処しきれず",
       "zh_CN": "左支右绌"
     }
   },
   "lt_04_05": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "成れの果て",
       "zh_CN": "残枝败叶"
     }
   },
   "lt_04_06": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "道中の小休憩",
       "zh_CN": "旅途小憩"
     }
   },
   "lt_04_07": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "塵に同じ",
       "zh_CN": "泥尘零落"
     }
   },
   "lt_04_08": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "底なしの洞穴",
       "zh_CN": "无底洞"
     }
   },
@@ -31797,108 +31883,126 @@
   "main_11-01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "栄誉を守り抜く",
       "zh_CN": "维护荣耀"
     }
   },
   "main_11-02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "一筋の光",
       "zh_CN": "一丝光亮"
     }
   },
   "main_11-03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "蒸気噴出",
       "zh_CN": "蒸汽升腾"
     }
   },
   "main_11-04": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "等価交換",
       "zh_CN": "等价交换"
     }
   },
   "main_11-05": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "文明の変遷",
       "zh_CN": "演绎文明"
     }
   },
   "main_11-06": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "激流に呑まれる",
       "zh_CN": "卷入洪流"
     }
   },
   "main_11-07": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "停滞",
       "zh_CN": "停滞"
     }
   },
   "main_11-08": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "この命でもって",
       "zh_CN": "以命换命"
     }
   },
   "main_11-09": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "立場の違い",
       "zh_CN": "立场不同"
     }
   },
   "main_11-10": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "迫り来る荒波",
       "zh_CN": "汹涌而来"
     }
   },
   "main_11-11": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "止まらぬ歩み",
       "zh_CN": "无法停止"
     }
   },
   "main_11-12": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "相まみえる時",
       "zh_CN": "一场相见"
     }
   },
   "main_11-13": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "震える大地",
       "zh_CN": "土地震颤"
     }
   },
   "main_11-14": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "栄光の狩場",
       "zh_CN": "荣光猎场"
     }
   },
   "main_11-15": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "答えよ",
       "zh_CN": "回答我"
     }
   },
   "main_11-16": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "望まぬこと",
       "zh_CN": "非我所愿"
     }
   },
   "main_11-17": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "運命に立ち向かう",
       "zh_CN": "直指命运"
     }
   },
   "main_11-18": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "最後の蒸気騎士",
       "zh_CN": "最后的蒸汽骑士"
     }
   },
@@ -32293,18 +32397,21 @@
   "st_11-01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "理想とは",
       "zh_CN": "何谓理想"
     }
   },
   "st_11-02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "道を違えた者たち",
       "zh_CN": "异路相对"
     }
   },
   "st_11-03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "避けては通れない",
       "zh_CN": "不可避免"
     }
   },
@@ -32689,6 +32796,7 @@
   "sub_09-1-2": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "火焔に背を向けて",
       "zh_CN": "背向火灼"
     }
   },
@@ -32855,6 +32963,7 @@
   "tr_21": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "枯れ枝",
       "zh_CN": "枯枝"
     }
   },
@@ -34013,6 +34122,7 @@
   "main_11": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "淬火煙塵",
       "zh_CN": "淬火尘霾"
     }
   },
@@ -35535,6 +35645,7 @@
   "story_rockr_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "600ポンド",
       "zh_CN": "六百镑"
     }
   },
@@ -35853,6 +35964,7 @@
   "story_totter_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "計画",
       "zh_CN": "计划"
     }
   },

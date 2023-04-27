@@ -64,7 +64,7 @@ tip: 请善用浏览器的搜索功能
 | char_151_myrtle | 桃金娘 | Myrtle | テンニンカ |
 | char_154_morgan | 摩根 | - | - |
 | char_155_tiger | 因陀罗 | Indra | インドラ |
-| char_157_dagda | 达格达 | - | - |
+| char_157_dagda | 达格达 | - | ダグザ |
 | char_158_milu | 守林人 | Firewatch | ファイヤーウォッチ |
 | char_159_peacok | 断罪者 | Conviction | コンビクション |
 | char_163_hpsts | 火神 | Vulcan | ヴァルカン |
@@ -221,14 +221,14 @@ tip: 请善用浏览器的搜索功能
 | char_4054_malist | 至简 | Minimalist | ミニマリスト |
 | char_4055_bgsnow | 鸿雪 | Pozëmka | パゼオンカ |
 | char_405_absin | 苦艾 | Absinthe | アブサント |
-| char_4062_totter | 铅踝 | - | - |
+| char_4062_totter | 铅踝 | - | トター |
 | char_4063_quartz | 石英 | - | - |
 | char_4064_mlynar | 玛恩纳 | Młynar | ムリナール |
 | char_4065_judge | 斥罪 | - | - |
 | char_4066_highmo | 海沫 | - | - |
 | char_4067_lolxh | 罗小黑 | Luo Xiaohei | 羅小黒 |
-| char_4071_peper | 明椒 | - | - |
-| char_4072_ironmn | 白铁 | - | - |
+| char_4071_peper | 明椒 | - | パプリカ |
+| char_4072_ironmn | 白铁 | - | ステインレス |
 | char_4077_palico | 泰拉大陆调查团 | - | - |
 | char_4078_bdhkgt | 截云 | - | - |
 | char_4080_lin | 林 | - | - |

@@ -520,26 +520,26 @@ tip: 请善用浏览器的搜索功能
 | enemy_1264_durgrd | 蜜酿级醒酒助手 | Mead-Grade Waker-Upper | ミード級ソバーロボ |
 | enemy_1264_durgrd_2 | 烈酒级醒酒助手 | Whiskey-Grade Waker-Upper | スピリッツ級ソバーロボ |
 | enemy_1265_durcar | 自走车 | Self-Driving Cart | セルカー |
-| enemy_1266_nhapos | 食腐使徒 | - | - |
-| enemy_1267_nhpbr | 萨卡兹枯朽战士 | - | - |
-| enemy_1267_nhpbr_2 | 萨卡兹枯朽战士组长 | - | - |
-| enemy_1268_nhnrs | 萨卡兹枯朽术师 | - | - |
-| enemy_1268_nhnrs_2 | 萨卡兹枯朽术师组长 | - | - |
-| enemy_1269_nhfly | 枯朽之种 | - | - |
-| enemy_1269_nhfly_2 | 腐败之种 | - | - |
-| enemy_1270_nhstlk | 逐腐兽 | - | - |
-| enemy_1270_nhstlk_2 | 疯狂的逐腐兽 | - | - |
-| enemy_1271_nhkodo | 萨卡兹枯朽吞噬者 | - | - |
-| enemy_1271_nhkodo_2 | 萨卡兹枯朽吸纳者 | - | - |
-| enemy_1272_nhtank | 萨卡兹枯朽战车 | - | - |
-| enemy_1272_nhtank_2 | 尖端萨卡兹枯朽战车 | - | - |
-| enemy_1273_stmgun | 伦蒂尼姆城防自行炮 | - | - |
-| enemy_1273_stmgun_2 | 高准度伦蒂尼姆城防自行炮 | - | - |
-| enemy_1274_stmram | 蒸汽战车 | - | - |
-| enemy_1274_stmram_2 | 极温蒸汽战车 | - | - |
-| enemy_1275_dwlock | 萨卡兹王庭军术师 | - | - |
-| enemy_1275_dwlock_2 | 萨卡兹王庭军精锐术师 | - | - |
-| enemy_1276_telex | 特雷西斯 | - | - |
+| enemy_1266_nhapos | 食腐使徒 | - | ナハツェーラーの使徒 |
+| enemy_1267_nhpbr | 萨卡兹枯朽战士 | - | 枯朽サルカズ戦士 |
+| enemy_1267_nhpbr_2 | 萨卡兹枯朽战士组长 | - | 枯朽サルカズ戦士隊長 |
+| enemy_1268_nhnrs | 萨卡兹枯朽术师 | - | 枯朽サルカズ術師 |
+| enemy_1268_nhnrs_2 | 萨卡兹枯朽术师组长 | - | 枯朽サルカズ術師隊長 |
+| enemy_1269_nhfly | 枯朽之种 | - | 枯朽の種 |
+| enemy_1269_nhfly_2 | 腐败之种 | - | 腐敗の種 |
+| enemy_1270_nhstlk | 逐腐兽 | - | 逐腐獣 |
+| enemy_1270_nhstlk_2 | 疯狂的逐腐兽 | - | 狂った逐腐獣 |
+| enemy_1271_nhkodo | 萨卡兹枯朽吞噬者 | - | 枯朽サルカズ吸収者 |
+| enemy_1271_nhkodo_2 | 萨卡兹枯朽吸纳者 | - | 枯朽サルカズ受容者 |
+| enemy_1272_nhtank | 萨卡兹枯朽战车 | - | 枯朽サルカズ戦車 |
+| enemy_1272_nhtank_2 | 尖端萨卡兹枯朽战车 | - | 枯朽サルカズ精鋭戦車 |
+| enemy_1273_stmgun | 伦蒂尼姆城防自行炮 | - | 都市防衛自走砲 |
+| enemy_1273_stmgun_2 | 高准度伦蒂尼姆城防自行炮 | - | 高精度都市防衛自走砲 |
+| enemy_1274_stmram | 蒸汽战车 | - | 蒸気戦車 |
+| enemy_1274_stmram_2 | 极温蒸汽战车 | - | 高温蒸気戦車 |
+| enemy_1275_dwlock | 萨卡兹王庭军术师 | - | サルカズ王庭軍術師 |
+| enemy_1275_dwlock_2 | 萨卡兹王庭军精锐术师 | - | サルカズ王庭軍精鋭術師 |
+| enemy_1276_telex | 特雷西斯 | - | Theresis |
 | enemy_1277_sgman | 家族士兵 | - | - |
 | enemy_1277_sgman_2 | 家族精英士兵 | - | - |
 | enemy_1278_sgbow | 家族弩手 | - | - |
@@ -662,7 +662,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1530_white | 白垩，“尘世遗骸” | Kreide, 'Worldly Remains' | クライデ、「塵界の遺骸」 |
 | enemy_1531_bbrain | “唤醒” | 'Awaken' | 「覚醒」 |
 | enemy_1532_minima | “物欲拮抗者” | 'Materialist Antagonizer' | 「物欲の拮抗者」 |
-| enemy_1533_stmkgt | “最后的蒸汽骑士” | - | - |
+| enemy_1533_stmkgt | “最后的蒸汽骑士” | - | 「最後の蒸気騎士」 |
 | enemy_1535_wlfmster | 扎罗，“狼之主”  | - | - |
 | enemy_1536_ncrmcr | “领袖”  | - | - |
 | enemy_1537_mhrors | 火龙 | - | - |
@@ -735,7 +735,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_6006_fystone | 粗圆岩 | Crude Sphere | 粗い円岩 |
 | enemy_6007_mtslm | “漫游小屋” | 'Drifting Cabin' | 「ローミングハウス」 |
 | enemy_6008_mtslms | 荧壳源石虫 | Fluorescent Originium Slug | 蛍殻オリジムシ |
-| enemy_6009_nlkgtbs | “暴食之果” | - | - |
+| enemy_6009_nlkgtbs | “暴食之果” | - | 「暴食の果実」 |
 | enemy_6010_boxing | “年轻人”桑德尔 | - | - |
 | enemy_6011_planty | “自然的妥协” | - | - |
 | enemy_6012_plants | 小型共生体 | - | - |

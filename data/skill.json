@@ -582,9 +582,11 @@
     "zh_CN": "阻滞射击战术"
   },
   "skchr_dagda_1": {
+    "ja_JP": "カウンターテクニック",
     "zh_CN": "反制技巧"
   },
   "skchr_dagda_2": {
+    "ja_JP": "ハンティングタイム",
     "zh_CN": "精准捕杀"
   },
   "skchr_deepcl_1": {
@@ -1206,12 +1208,15 @@
     "zh_CN": "梦乡摇篮"
   },
   "skchr_ironmn_1": {
+    "ja_JP": "ハイパーブースト",
     "zh_CN": "极致火力"
   },
   "skchr_ironmn_2": {
+    "ja_JP": "供給効率化システム",
     "zh_CN": "高效补给"
   },
   "skchr_ironmn_3": {
+    "ja_JP": "鉄鉗号･プロトタイプ",
     "zh_CN": "铁钳号·原型机"
   },
   "skchr_jaksel_1": {
@@ -1731,6 +1736,7 @@
     "zh_CN": "创世纪"
   },
   "skchr_peper_2": {
+    "ja_JP": "仲間意識",
     "zh_CN": "同伴意识"
   },
   "skchr_phatom_1": {
@@ -2343,9 +2349,11 @@
     "zh_CN": "嘉维尔保护方案"
   },
   "skchr_totter_1": {
+    "ja_JP": "貫日の一射",
     "zh_CN": "贯日"
   },
   "skchr_totter_2": {
+    "ja_JP": "砕虹の勁弩",
     "zh_CN": "破虹"
   },
   "skchr_tuye_1": {
@@ -2577,6 +2585,7 @@
     "zh_CN": "防御力强化·γ型"
   },
   "skcom_heal_rage[3]": {
+    "ja_JP": "援護作戦γ",
     "zh_CN": "掩护作战·γ型"
   },
   "skcom_heal_self[1]": {
@@ -2658,9 +2667,11 @@
     "zh_CN": "派遣空援"
   },
   "sktok_allady": {
+    "ja_JP": "アラデルの衛護",
     "zh_CN": "阿勒黛的卫护"
   },
   "sktok_allady_2": {
+    "ja_JP": "アラデルの衛護",
     "zh_CN": "阿勒黛的卫护"
   },
   "sktok_allydonq": {
@@ -3042,12 +3053,15 @@
     "zh_CN": "撼动现实"
   },
   "sktok_ironmn_pile1": {
+    "ja_JP": "ハイパーブースト",
     "zh_CN": "极致火力"
   },
   "sktok_ironmn_pile2": {
+    "ja_JP": "供給効率化システム",
     "zh_CN": "高效补给"
   },
   "sktok_ironmn_pile3": {
+    "ja_JP": "鉄鉗号･プロトタイプ",
     "zh_CN": "铁钳号·原型机"
   },
   "sktok_klmantc_1": {
@@ -3060,6 +3074,7 @@
     "zh_CN": "触发对话"
   },
   "sktok_larva": {
+    "ja_JP": "渇欲の枯枝",
     "zh_CN": "汲营枯枝"
   },
   "sktok_ling_soul1": {
@@ -3376,12 +3391,15 @@
     "zh_CN": "新遣"
   },
   "sktok_tbattbc": {
+    "ja_JP": "鉗獣殻パウダー",
     "zh_CN": "钳兽壳粉"
   },
   "sktok_tbpsnc": {
+    "ja_JP": "ベーキングパウダー",
     "zh_CN": "高效泡打粉"
   },
   "sktok_tbsmmc": {
+    "ja_JP": "エッセンシャルオイル",
     "zh_CN": "芳香精油"
   },
   "sktok_tidectrl_1": {

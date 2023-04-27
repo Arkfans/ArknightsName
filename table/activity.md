@@ -94,7 +94,7 @@ tip: 请善用浏览器的搜索功能
 | act2d8 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act2mine | 波平谷矿区登录活动 | Popping Valley Mining Area Login Event | ポッピングバレー採鉱区 |
 | act2pray | 双日城惊奇墙 | Dossoles Amazing Wall | ドッソレススクラッチ |
-| act30sign | 秋风送爽限时登录活动 | - | - |
+| act30sign | 秋风送爽限时登录活动 | - | 早春の風スタンプラリー |
 | act31sign | 正逢雨季限时登录活动 | - | - |
 | act32sign | 限时累计签到 | - | - |
 | act33sign | 限时累计签到 | - | - |
