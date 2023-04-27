@@ -393,10 +393,12 @@
     "zh_CN": "荧光孢子"
   },
   "trap_086_larva": {
+    "en_US": "'Twigs That Crave'",
     "ja_JP": "「渇欲の枯枝」 ",
     "zh_CN": "“汲营枯枝” "
   },
   "trap_087_allady": {
+    "en_US": "Allerdale's Guard",
     "ja_JP": "アラデルの衛護",
     "zh_CN": "阿勒黛的卫护"
   },
@@ -420,14 +422,17 @@
     "zh_CN": "复仇黑手"
   },
   "trap_093_tbattbc": {
+    "en_US": "Gloompincer Shell Meal",
     "ja_JP": "鉗獣殻パウダー",
     "zh_CN": "钳兽壳粉"
   },
   "trap_094_tbpsnc": {
+    "en_US": "High-Efficiency Baking Powder",
     "ja_JP": "ベーキングパウダー",
     "zh_CN": "高效泡打粉"
   },
   "trap_095_tbsmmc": {
+    "en_US": "Fragrant Essential Oil",
     "ja_JP": "エッセンシャルオイル",
     "zh_CN": "芳香精油"
   },

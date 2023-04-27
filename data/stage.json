@@ -2334,6 +2334,7 @@
     "zh_CN": "巧克力大街"
   },
   "camp_r_13": {
+    "en_US": "Penumbra Shipyards",
     "ja_JP": "暗き造船所",
     "zh_CN": "昏黑造船厂"
   },
@@ -2472,18 +2473,22 @@
     "zh_CN": "日晕行动-3"
   },
   "hard_11-01": {
+    "en_US": "Operation Achlys-1",
     "ja_JP": "煙塵作戦-1",
     "zh_CN": "尘霾行动-1"
   },
   "hard_11-02": {
+    "en_US": "Operation Achlys-2",
     "ja_JP": "煙塵作戦-2",
     "zh_CN": "尘霾行动-2"
   },
   "hard_11-03": {
+    "en_US": "Operation Achlys-3",
     "ja_JP": "煙塵作戦-3",
     "zh_CN": "尘霾行动-3"
   },
   "hard_11-04": {
+    "en_US": "Operation Achlys-4",
     "ja_JP": "煙塵作戦-4",
     "zh_CN": "尘霾行动-4"
   },
@@ -2620,34 +2625,42 @@
     "zh_CN": "漫长的旅行"
   },
   "lt_04_01": {
+    "en_US": "Serendipity",
     "ja_JP": "予想外の事態",
     "zh_CN": "无心插柳"
   },
   "lt_04_02": {
+    "en_US": "True or False",
     "ja_JP": "判別不能",
     "zh_CN": "真假难辨"
   },
   "lt_04_03": {
+    "en_US": "Gentle Nights",
     "ja_JP": "穏やかな夜",
     "zh_CN": "夜色温柔"
   },
   "lt_04_04": {
+    "en_US": "Rock and a Hard Place",
     "ja_JP": "対処しきれず",
     "zh_CN": "左支右绌"
   },
   "lt_04_05": {
+    "en_US": "Battered Branches",
     "ja_JP": "成れの果て",
     "zh_CN": "残枝败叶"
   },
   "lt_04_06": {
+    "en_US": "Journey's Rest",
     "ja_JP": "道中の小休憩",
     "zh_CN": "旅途小憩"
   },
   "lt_04_07": {
+    "en_US": "Scattered Dirt",
     "ja_JP": "塵に同じ",
     "zh_CN": "泥尘零落"
   },
   "lt_04_08": {
+    "en_US": "Bottomless Pit",
     "ja_JP": "底なしの洞穴",
     "zh_CN": "无底洞"
   },
@@ -3444,74 +3457,92 @@
     "zh_CN": "坚城高墙"
   },
   "main_11-01": {
+    "en_US": "Keeping Up Honors",
     "ja_JP": "栄誉を守り抜く",
     "zh_CN": "维护荣耀"
   },
   "main_11-02": {
+    "en_US": "A Sliver of Light",
     "ja_JP": "一筋の光",
     "zh_CN": "一丝光亮"
   },
   "main_11-03": {
+    "en_US": "Steam Rising",
     "ja_JP": "蒸気噴出",
     "zh_CN": "蒸汽升腾"
   },
   "main_11-04": {
+    "en_US": "Equivalent Exchange",
     "ja_JP": "等価交換",
     "zh_CN": "等价交换"
   },
   "main_11-05": {
+    "en_US": "Culture Unfolding",
     "ja_JP": "文明の変遷",
     "zh_CN": "演绎文明"
   },
   "main_11-06": {
+    "en_US": "Unto the Flood",
     "ja_JP": "激流に呑まれる",
     "zh_CN": "卷入洪流"
   },
   "main_11-07": {
+    "en_US": "At a Standstill",
     "ja_JP": "停滞",
     "zh_CN": "停滞"
   },
   "main_11-08": {
+    "en_US": "A Life for a Life",
     "ja_JP": "この命でもって",
     "zh_CN": "以命换命"
   },
   "main_11-09": {
+    "en_US": "What We Know is Unalike",
     "ja_JP": "立場の違い",
     "zh_CN": "立场不同"
   },
   "main_11-10": {
+    "en_US": "Come as a Torrent",
     "ja_JP": "迫り来る荒波",
     "zh_CN": "汹涌而来"
   },
   "main_11-11": {
+    "en_US": "Ne'er to Stop",
     "ja_JP": "止まらぬ歩み",
     "zh_CN": "无法停止"
   },
   "main_11-12": {
+    "en_US": "A Face-to-Face Meeting",
     "ja_JP": "相まみえる時",
     "zh_CN": "一场相见"
   },
   "main_11-13": {
+    "en_US": "The Earth Shakes",
     "ja_JP": "震える大地",
     "zh_CN": "土地震颤"
   },
   "main_11-14": {
+    "en_US": "Glory's Hunting Grounds",
     "ja_JP": "栄光の狩場",
     "zh_CN": "荣光猎场"
   },
   "main_11-15": {
+    "en_US": "Answer Me",
     "ja_JP": "答えよ",
     "zh_CN": "回答我"
   },
   "main_11-16": {
+    "en_US": "This is Not What I Wished",
     "ja_JP": "望まぬこと",
     "zh_CN": "非我所愿"
   },
   "main_11-17": {
+    "en_US": "To Single Out Fate",
     "ja_JP": "運命に立ち向かう",
     "zh_CN": "直指命运"
   },
   "main_11-18": {
+    "en_US": "The Last Steam Knight",
     "ja_JP": "最後の蒸気騎士",
     "zh_CN": "最后的蒸汽骑士"
   },
@@ -3745,14 +3776,17 @@
     "zh_CN": "远方星火"
   },
   "st_11-01": {
+    "en_US": "The Stuff of Ideals",
     "ja_JP": "理想とは",
     "zh_CN": "何谓理想"
   },
   "st_11-02": {
+    "en_US": "Swords Crossed",
     "ja_JP": "道を違えた者たち",
     "zh_CN": "异路相对"
   },
   "st_11-03": {
+    "en_US": "Unavoidable",
     "ja_JP": "避けては通れない",
     "zh_CN": "不可避免"
   },
@@ -3991,6 +4025,7 @@
     "zh_CN": "废墟坚守"
   },
   "sub_09-1-2": {
+    "en_US": "Back to the Flames",
     "ja_JP": "火焔に背を向けて",
     "zh_CN": "背向火灼"
   },
@@ -4095,6 +4130,7 @@
     "zh_CN": "城墙之下"
   },
   "tr_21": {
+    "en_US": "Twigs",
     "ja_JP": "枯れ枝",
     "zh_CN": "枯枝"
   },

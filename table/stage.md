@@ -507,7 +507,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_10 | 黑夜锦标秀 | Night Champion Show | 「ナイトチャンピオン」 |
 | camp_r_11 | 盘桓蜀道 | Lingering Shangshu Trails | 蜿蜒たる蜀道 |
 | camp_r_12 | 巧克力大街 | Chocolate Street | チョコストリート |
-| camp_r_13 | 昏黑造船厂 | - | 暗き造船所 |
+| camp_r_13 | 昏黑造船厂 | Penumbra Shipyards | 暗き造船所 |
 | camp_r_14 | 实验基地机库 | - | - |
 | camp_r_15 | 龙门商业街 | - | - |
 | camp_r_16 | 休止符街道 | - | - |
@@ -536,10 +536,10 @@ tip: 请善用浏览器的搜索功能
 | hard_10-01 | 日晕行动-1 | Operation Helios-1 | 光冠作戦-1 |
 | hard_10-02 | 日晕行动-2 | Operation Helios-2 | 光冠作戦-2 |
 | hard_10-03 | 日晕行动-3 | Operation Helios-3 | 光冠作戦-3 |
-| hard_11-01 | 尘霾行动-1 | - | 煙塵作戦-1 |
-| hard_11-02 | 尘霾行动-2 | - | 煙塵作戦-2 |
-| hard_11-03 | 尘霾行动-3 | - | 煙塵作戦-3 |
-| hard_11-04 | 尘霾行动-4 | - | 煙塵作戦-4 |
+| hard_11-01 | 尘霾行动-1 | Operation Achlys-1 | 煙塵作戦-1 |
+| hard_11-02 | 尘霾行动-2 | Operation Achlys-2 | 煙塵作戦-2 |
+| hard_11-03 | 尘霾行动-3 | Operation Achlys-3 | 煙塵作戦-3 |
+| hard_11-04 | 尘霾行动-4 | Operation Achlys-4 | 煙塵作戦-4 |
 | hard_12-01 | 惊霆行动-1 | - | - |
 | hard_12-02 | 惊霆行动-2 | - | - |
 | hard_12-03 | 惊霆行动-3 | - | - |
@@ -568,14 +568,14 @@ tip: 请善用浏览器的搜索功能
 | lt_03_06 | 工程检查 | Engineering Checkup | 施工点検 |
 | lt_03_07 | 突然造访 | Sudden Visit | 唐突の来訪 |
 | lt_03_08 | 漫长的旅行 | Long Journey | 果てしない旅 |
-| lt_04_01 | 无心插柳 | - | 予想外の事態 |
-| lt_04_02 | 真假难辨 | - | 判別不能 |
-| lt_04_03 | 夜色温柔 | - | 穏やかな夜 |
-| lt_04_04 | 左支右绌 | - | 対処しきれず |
-| lt_04_05 | 残枝败叶 | - | 成れの果て |
-| lt_04_06 | 旅途小憩 | - | 道中の小休憩 |
-| lt_04_07 | 泥尘零落 | - | 塵に同じ |
-| lt_04_08 | 无底洞 | - | 底なしの洞穴 |
+| lt_04_01 | 无心插柳 | Serendipity | 予想外の事態 |
+| lt_04_02 | 真假难辨 | True or False | 判別不能 |
+| lt_04_03 | 夜色温柔 | Gentle Nights | 穏やかな夜 |
+| lt_04_04 | 左支右绌 | Rock and a Hard Place | 対処しきれず |
+| lt_04_05 | 残枝败叶 | Battered Branches | 成れの果て |
+| lt_04_06 | 旅途小憩 | Journey's Rest | 道中の小休憩 |
+| lt_04_07 | 泥尘零落 | Scattered Dirt | 塵に同じ |
+| lt_04_08 | 无底洞 | Bottomless Pit | 底なしの洞穴 |
 | lt_05_01 | 蜂拥而上 | - | - |
 | lt_05_02 | 见者有份 | - | - |
 | lt_05_03 | 产业升级 | - | - |
@@ -744,24 +744,24 @@ tip: 请善用浏览器的搜索功能
 | main_10-13 | 逃离炮火 | Fleeing Through Fire | 砲火より逃れる |
 | main_10-14 | 血刃高悬 | Bloodblade on High | 振りかぶられた刃 |
 | main_10-15 | 坚城高墙 | A Citadel and Its Walls | そびえたつ城壁 |
-| main_11-01 | 维护荣耀 | - | 栄誉を守り抜く |
-| main_11-02 | 一丝光亮 | - | 一筋の光 |
-| main_11-03 | 蒸汽升腾 | - | 蒸気噴出 |
-| main_11-04 | 等价交换 | - | 等価交換 |
-| main_11-05 | 演绎文明 | - | 文明の変遷 |
-| main_11-06 | 卷入洪流 | - | 激流に呑まれる |
-| main_11-07 | 停滞 | - | 停滞 |
-| main_11-08 | 以命换命 | - | この命でもって |
-| main_11-09 | 立场不同 | - | 立場の違い |
-| main_11-10 | 汹涌而来 | - | 迫り来る荒波 |
-| main_11-11 | 无法停止 | - | 止まらぬ歩み |
-| main_11-12 | 一场相见 | - | 相まみえる時 |
-| main_11-13 | 土地震颤 | - | 震える大地 |
-| main_11-14 | 荣光猎场 | - | 栄光の狩場 |
-| main_11-15 | 回答我 | - | 答えよ |
-| main_11-16 | 非我所愿 | - | 望まぬこと |
-| main_11-17 | 直指命运 | - | 運命に立ち向かう |
-| main_11-18 | 最后的蒸汽骑士 | - | 最後の蒸気騎士 |
+| main_11-01 | 维护荣耀 | Keeping Up Honors | 栄誉を守り抜く |
+| main_11-02 | 一丝光亮 | A Sliver of Light | 一筋の光 |
+| main_11-03 | 蒸汽升腾 | Steam Rising | 蒸気噴出 |
+| main_11-04 | 等价交换 | Equivalent Exchange | 等価交換 |
+| main_11-05 | 演绎文明 | Culture Unfolding | 文明の変遷 |
+| main_11-06 | 卷入洪流 | Unto the Flood | 激流に呑まれる |
+| main_11-07 | 停滞 | At a Standstill | 停滞 |
+| main_11-08 | 以命换命 | A Life for a Life | この命でもって |
+| main_11-09 | 立场不同 | What We Know is Unalike | 立場の違い |
+| main_11-10 | 汹涌而来 | Come as a Torrent | 迫り来る荒波 |
+| main_11-11 | 无法停止 | Ne'er to Stop | 止まらぬ歩み |
+| main_11-12 | 一场相见 | A Face-to-Face Meeting | 相まみえる時 |
+| main_11-13 | 土地震颤 | The Earth Shakes | 震える大地 |
+| main_11-14 | 荣光猎场 | Glory's Hunting Grounds | 栄光の狩場 |
+| main_11-15 | 回答我 | Answer Me | 答えよ |
+| main_11-16 | 非我所愿 | This is Not What I Wished | 望まぬこと |
+| main_11-17 | 直指命运 | To Single Out Fate | 運命に立ち向かう |
+| main_11-18 | 最后的蒸汽骑士 | The Last Steam Knight | 最後の蒸気騎士 |
 | main_12-01 | 静候驾临 | - | - |
 | main_12-02 | 善意背叛 | - | - |
 | main_12-03 | 团结就是奢望 | - | - |
@@ -815,9 +815,9 @@ tip: 请善用浏览器的搜索功能
 | st_10-02 | 交叉路口 | Crossroads | 交差点 |
 | st_10-03 | 理想的倒影 | Reflection of an Ideal | 理想の倒景 |
 | st_10-04 | 远方星火 | Sparks Afar | 遠くの星火 |
-| st_11-01 | 何谓理想 | - | 理想とは |
-| st_11-02 | 异路相对 | - | 道を違えた者たち |
-| st_11-03 | 不可避免 | - | 避けては通れない |
+| st_11-01 | 何谓理想 | The Stuff of Ideals | 理想とは |
+| st_11-02 | 异路相对 | Swords Crossed | 道を違えた者たち |
+| st_11-03 | 不可避免 | Unavoidable | 避けては通れない |
 | st_12-01 | 火光热浪 | - | - |
 | st_12-02 | 时不我待 | - | - |
 | st_12-03 | 战场静悄悄 | - | - |
@@ -866,7 +866,7 @@ tip: 请善用浏览器的搜索功能
 | sub_07-1-1 | 埋伏-1 | Ambush-1 | 潜伏-1 |
 | sub_07-1-2 | 埋伏-2 | Ambush-2 | 潜伏-2 |
 | sub_09-1-1 | 废墟坚守 | Holding Ruins | 廃墟防戦 |
-| sub_09-1-2 | 背向火灼 | - | 火焔に背を向けて |
+| sub_09-1-2 | 背向火灼 | Back to the Flames | 火焔に背を向けて |
 | tr_01 | 战地医疗  | Battlefield Treatment | 戦場医療 |
 | tr_02 | 定向瞄准 | Directed Aim | 精密射撃 |
 | tr_03 | 精确打击 | Precise Strike | 狙撃 |
@@ -887,7 +887,7 @@ tip: 请善用浏览器的搜索功能
 | tr_18 | 疏散平民 | Civilian Evacuation | 避難訓練 |
 | tr_19 | 废墟行动 | Ruins Operation | 廃墟戦闘訓練 |
 | tr_20 | 城墙之下 | Below the City Walls | 城壁の下 |
-| tr_21 | 枯枝 | - | 枯れ枝 |
+| tr_21 | 枯枝 | Twigs | 枯れ枝 |
 | tr_22 | 明辨是非 | - | - |
 | tr_23 | 恶魔诱惑 | - | - |
 | wk_armor_1 | 废墟清剿 | Ruins Siege | 廃墟殲滅 |

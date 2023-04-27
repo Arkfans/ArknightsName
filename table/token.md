@@ -36,8 +36,8 @@ tip: 请善用浏览器的搜索功能
 | token_10024_ebnhlz_rcube | 旧日残影 | Remnants of Days Past | 過去の残像 |
 | token_10025_doroth_recttp | 共振装置 | Resonator | 共振装置 |
 | token_10026_bgsnow_subbow | “打字机” | 'Typewriter' | 「タイプライター」 |
-| token_10027_ironmn_pile1 | 白铁™多功能平台 | - | ステインレス™多機能プラットフォーム |
-| token_10027_ironmn_pile2 | 白铁™多功能平台 | - | ステインレス™多機能プラットフォーム |
-| token_10027_ironmn_pile3 | 铁钳号·原型机 | - | 鉄鉗号･プロトタイプ |
+| token_10027_ironmn_pile1 | 白铁™多功能平台 | Stainless™ Multifunctional Platform | ステインレス™多機能プラットフォーム |
+| token_10027_ironmn_pile2 | 白铁™多功能平台 | Stainless™ Multifunctional Platform | ステインレス™多機能プラットフォーム |
+| token_10027_ironmn_pile3 | 铁钳号·原型机 | Prototype of Feist's Metal Crab | 鉄鉗号･プロトタイプ |
 | token_10028_vigil_wolf | 狼群 | - | - |
 | trap_079_allydonq | 猎潮的骑士 | - | - |

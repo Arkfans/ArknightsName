@@ -285,6 +285,7 @@
     "zh_CN": "因陀罗"
   },
   "char_157_dagda": {
+    "en_US": "Dagda",
     "ja_JP": "ダグザ",
     "zh_CN": "达格达"
   },
@@ -1061,6 +1062,7 @@
     "zh_CN": "苦艾"
   },
   "char_4062_totter": {
+    "en_US": "Totter",
     "ja_JP": "トター",
     "zh_CN": "铅踝"
   },
@@ -1084,10 +1086,12 @@
     "zh_CN": "罗小黑"
   },
   "char_4071_peper": {
+    "en_US": "Paprika",
     "ja_JP": "パプリカ",
     "zh_CN": "明椒"
   },
   "char_4072_ironmn": {
+    "en_US": "Stainless",
     "ja_JP": "ステインレス",
     "zh_CN": "白铁"
   },

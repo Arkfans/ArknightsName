@@ -125,8 +125,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_cutter_1 | 红移 | Redshift | レッドシフト |
 | skchr_cutter_2 | 绯红刺刀 | Crimson Crescent | スカーレットエッジ |
 | skchr_cuttle_2 | 阻滞射击战术 | Interdictive Sniping Tactics | 脅威妨害戦術 |
-| skchr_dagda_1 | 反制技巧 | - | カウンターテクニック |
-| skchr_dagda_2 | 精准捕杀 | - | ハンティングタイム |
+| skchr_dagda_1 | 反制技巧 | Counter Technique | カウンターテクニック |
+| skchr_dagda_2 | 精准捕杀 | Search and Destroy | ハンティングタイム |
 | skchr_deepcl_1 | 光影之触 | Shadow Tentacle | 光陰ノ触 |
 | skchr_deepcl_2 | 视觉陷阱 | Visual Trap | トロンプイユ |
 | skchr_demkni_1 | 急救 | First Aid | 応急処置 |
@@ -255,9 +255,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_irene_3 | 判决 | Judgment | 判決 |
 | skchr_iris_1 | 童话守卫者 | Fairytale Guardian | 童話の守り人 |
 | skchr_iris_2 | 梦乡摇篮 | Dreamland's Cradle | 夢想揺籃 |
-| skchr_ironmn_1 | 极致火力 | - | ハイパーブースト |
-| skchr_ironmn_2 | 高效补给 | - | 供給効率化システム |
-| skchr_ironmn_3 | 铁钳号·原型机 | - | 鉄鉗号･プロトタイプ |
+| skchr_ironmn_1 | 极致火力 | Extreme Firepower | ハイパーブースト |
+| skchr_ironmn_2 | 高效补给 | Efficient Resupply | 供給効率化システム |
+| skchr_ironmn_3 | 铁钳号·原型机 | Prototype of Feist's Metal Crab | 鉄鉗号･プロトタイプ |
 | skchr_jaksel_1 | 给你一拳！ | Grit Those Teeth! | 全力パンチ！ |
 | skchr_jaksel_2 | 全神贯注！ | Pay Close Attention! | 全神経集中！ |
 | skchr_jesica_1 | 强力击·β型 | Power Strike β | 強撃β |
@@ -366,7 +366,7 @@ tip: 请善用浏览器的搜索功能
 | skchr_pasngr_3 | 辉煌裂片 | Glorious Shards | ルミナスフラグメンツ |
 | skchr_peacok_1 | 断罪 | Judgment | 断罪 |
 | skchr_peacok_2 | 创世纪 | Genesis | 創世記 |
-| skchr_peper_2 | 同伴意识 | - | 仲間意識 |
+| skchr_peper_2 | 同伴意识 | Camaraderie | 仲間意識 |
 | skchr_phatom_1 | 暗夜魅影 | Phantom of the Night | 闇夜の影法師 |
 | skchr_phatom_2 | 血色乐章 | Bloody Opus | 血染めの楽章 |
 | skchr_phatom_3 | 夜幕突袭 | Night Raid | 襲来の悪夢 |
@@ -494,8 +494,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_toddi_2 | 便携破城矢 | Portable Fortcracker Arrows | 携帯破城矢 |
 | skchr_tomimi_1 | 部族技艺 | Tribal Techniques | 部族の教え |
 | skchr_tomimi_2 | 嘉维尔保护方案 | Gavial's Protection Plan | ガヴィル保護プラン |
-| skchr_totter_1 | 贯日 | - | 貫日の一射 |
-| skchr_totter_2 | 破虹 | - | 砕虹の勁弩 |
+| skchr_totter_1 | 贯日 | Sunpiercer | 貫日の一射 |
+| skchr_totter_2 | 破虹 | Prism Break | 砕虹の勁弩 |
 | skchr_tuye_1 | 水流环 | Aqua Loop | アクアリング |
 | skchr_tuye_2 | 强心剂 | Cardiac Stimulant | カンフル剤 |
 | skchr_utage_1 | 分神 | Space Out | サボり |
@@ -544,7 +544,7 @@ tip: 请善用浏览器的搜索功能
 | skcom_def_up[1] | 防御力强化·α型 | DEF Up α | 防御力強化α |
 | skcom_def_up[2] | 防御力强化·β型 | DEF Up β | 防御力強化β |
 | skcom_def_up[3] | 防御力强化·γ型 | DEF Up γ | 防御力強化γ |
-| skcom_heal_rage[3] | 掩护作战·γ型 | - | 援護作戦γ |
+| skcom_heal_rage[3] | 掩护作战·γ型 | Shielding Tactics γ | 援護作戦γ |
 | skcom_heal_self[1] | 生命回复·α型 | Regeneration α | HP回復α |
 | skcom_heal_self[2] | 生命回复·β型 | Regeneration β | HP回復β |
 | skcom_heal_self[3] | 生命回复·γ型 | Regeneration γ | HP回復γ |
@@ -561,8 +561,8 @@ tip: 请善用浏览器的搜索功能
 | sktok_aidkit | 急救 | - | - |
 | sktok_airbomb | 砰！ | Bang! | バン！ |
 | sktok_airsup | 派遣空援 | Dispatch Air Support | 空援派遣 |
-| sktok_allady | 阿勒黛的卫护 | - | アラデルの衛護 |
-| sktok_allady_2 | 阿勒黛的卫护 | - | アラデルの衛護 |
+| sktok_allady | 阿勒黛的卫护 | Allerdale's Guard | アラデルの衛護 |
+| sktok_allady_2 | 阿勒黛的卫护 | Allerdale's Guard | アラデルの衛護 |
 | sktok_allydonq | 冲锋 | - | - |
 | sktok_antidr | 无人机干扰 | Drone Interference | ドローン妨害 |
 | sktok_badbox | 极诱人珍宝 | - | - |
@@ -653,13 +653,13 @@ tip: 请善用浏览器的搜索功能
 | sktok_gunctrl | 开火 | Open Fire | 発射 |
 | sktok_hiddenstone | 可被击破 | - | - |
 | sktok_inverter | 撼动现实 | Warping Reality | 事象震動 |
-| sktok_ironmn_pile1 | 极致火力 | - | ハイパーブースト |
-| sktok_ironmn_pile2 | 高效补给 | - | 供給効率化システム |
-| sktok_ironmn_pile3 | 铁钳号·原型机 | - | 鉄鉗号･プロトタイプ |
+| sktok_ironmn_pile1 | 极致火力 | Extreme Firepower | ハイパーブースト |
+| sktok_ironmn_pile2 | 高效补给 | Efficient Resupply | 供給効率化システム |
+| sktok_ironmn_pile3 | 铁钳号·原型机 | Prototype of Feist's Metal Crab | 鉄鉗号･プロトタイプ |
 | sktok_klmantc_1 | 触发对话 | - | - |
 | sktok_klmantc_2 | 触发对话 | - | - |
 | sktok_klmantc_3 | 触发对话 | - | - |
-| sktok_larva | 汲营枯枝 | - | 渇欲の枯枝 |
+| sktok_larva | 汲营枯枝 | Twigs That Crave | 渇欲の枯枝 |
 | sktok_ling_soul1 | 重进酒 | Sips of Wine | 重ねて酒を進み |
 | sktok_ling_soul2 | 笑鸣瑟 | Amidst Pleasant Melodies | 笑いて瑟を鼓せ |
 | sktok_ling_soul3 | 宁作吾 | To Remain Oneself | 寧ろ吾をなさん |
@@ -731,9 +731,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_storm | 沙尘暴 | Sandstorm | 砂嵐 |
 | sktok_streasure | 宝刺伤人 | - | - |
 | sktok_supplycard | 新遣 | Dispatch | 派遣 |
-| sktok_tbattbc | 钳兽壳粉 | - | 鉗獣殻パウダー |
-| sktok_tbpsnc | 高效泡打粉 | - | ベーキングパウダー |
-| sktok_tbsmmc | 芳香精油 | - | エッセンシャルオイル |
+| sktok_tbattbc | 钳兽壳粉 | Gloompincer Shell Meal | 鉗獣殻パウダー |
+| sktok_tbpsnc | 高效泡打粉 | High-Efficiency Baking Powder | ベーキングパウダー |
+| sktok_tbsmmc | 芳香精油 | Fragrant Essential Oil | エッセンシャルオイル |
 | sktok_tidectrl_1 | 小幅涨潮 | Small Rising Tide | 引き潮 |
 | sktok_tidectrl_2 | 大幅涨潮 | Large Rising Tide | 満ち潮 |
 | sktok_tidectrl_3 | 深水 | Deep Water | 「深水区域」 |

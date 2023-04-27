@@ -264,6 +264,7 @@
     "zh_CN": "晶体电子单元"
   },
   "30155": {
+    "en_US": "Nucleic Crystal Sinter",
     "ja_JP": "焼結核凝晶",
     "zh_CN": "烧结核凝晶"
   },
@@ -323,10 +324,12 @@
     "zh_CN": "切削原液"
   },
   "31063": {
+    "en_US": "Transmuted Salt",
     "ja_JP": "転化塩",
     "zh_CN": "转质盐组"
   },
   "31064": {
+    "en_US": "Transmuted Salt Agglomerate",
     "ja_JP": "上級転化塩",
     "zh_CN": "转质盐聚块"
   },
@@ -2185,6 +2188,7 @@
     "zh_CN": "因陀罗的信物"
   },
   "p_char_157_dagda": {
+    "en_US": "Dagda's Token",
     "ja_JP": "ダグザの印",
     "zh_CN": "达格达的信物"
   },
@@ -2951,6 +2955,7 @@
     "zh_CN": "苦艾的信物"
   },
   "p_char_4062_totter": {
+    "en_US": "Totter's Token",
     "ja_JP": "トターの印",
     "zh_CN": "铅踝的信物"
   },
@@ -2969,10 +2974,12 @@
     "zh_CN": "海沫的信物"
   },
   "p_char_4071_peper": {
+    "en_US": "Paprika's Token",
     "ja_JP": "パプリカの印",
     "zh_CN": "明椒的信物"
   },
   "p_char_4072_ironmn": {
+    "en_US": "Stainless's Token",
     "ja_JP": "ステインレスの印",
     "zh_CN": "白铁的信物"
   },
@@ -3313,6 +3320,7 @@
     "zh_CN": "罗德岛物资补给III"
   },
   "randomMaterial_7": {
+    "en_US": "Rhodes Island Supplies IV",
     "ja_JP": "補給物資・ロドスIV",
     "zh_CN": "罗德岛物资补给IV"
   },
@@ -3340,6 +3348,7 @@
     "zh_CN": "ID信息更新卡"
   },
   "renamingCard_0_033": {
+    "en_US": "ID Info Update Card",
     "ja_JP": "ID情報更新カード",
     "zh_CN": "ID信息更新卡"
   },
@@ -3359,6 +3368,7 @@
     "zh_CN": "ID信息更新卡"
   },
   "renamingCard_30_033": {
+    "en_US": "ID Info Update Card",
     "ja_JP": "ID情報更新カード",
     "zh_CN": "ID信息更新卡"
   },

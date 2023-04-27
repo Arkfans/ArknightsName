@@ -1071,6 +1071,7 @@
   },
   "avg_4040_rockr_1": {
     "en_US": [
+      "Rochelle",
       "Rockrock"
     ],
     "ja_JP": [
@@ -1165,6 +1166,9 @@
     ]
   },
   "avg_4062_totter_1": {
+    "en_US": [
+      "Totter"
+    ],
     "ja_JP": [
       "トター"
     ],
@@ -1199,6 +1203,9 @@
     ]
   },
   "avg_4071_peper_1": {
+    "en_US": [
+      "Paprika"
+    ],
     "ja_JP": [
       "パプリカ"
     ],
@@ -1207,6 +1214,9 @@
     ]
   },
   "avg_4072_ironmn_1": {
+    "en_US": [
+      "Feist"
+    ],
     "ja_JP": [
       "フェイスト"
     ],
@@ -1635,6 +1645,7 @@
       "Honest Villager",
       "Infected Employee?",
       "Irritable Infected",
+      "Joyful Worker",
       "Neighbor A",
       "Pondering Follower",
       "Townsfolk",
@@ -1787,6 +1798,7 @@
   "avg_npc_005": {
     "en_US": [
       "A Kazimierz Villager",
+      "Aging Worker",
       "Elderly Villager",
       "Farm Owner",
       "Hurrying Worker",
@@ -3106,7 +3118,9 @@
       "Sarkaz Assassin",
       "Sarkaz Mercenary",
       "Sarkaz Mercenary B",
+      "Sarkaz Mercenary Captain",
       "Sarkaz Mercenary Leader",
+      "Sarkaz Overseer",
       "Sarkaz Robber",
       "Sarkaz Traitor",
       "Sarkaz Warrior",
@@ -3666,6 +3680,7 @@
   },
   "avg_npc_081": {
     "en_US": [
+      "Haggard Worker",
       "Muscular Man",
       "Shadow",
       "Ursus Farmer",
@@ -4623,7 +4638,8 @@
       "Infected Townsfolk",
       "Mayor's Secretary",
       "Swept-Up Trader",
-      "Swept-Up Trader?"
+      "Swept-Up Trader?",
+      "Vengeful Merchant"
     ],
     "ja_JP": [
       "ボロを纏った人",
@@ -4780,6 +4796,8 @@
       "Beautiful Noble",
       "Hesitant Ambassador",
       "Merry Noblewoman",
+      "Noble Lady",
+      "Noble?",
       "Pretentious Noblewoman",
       "Scathing Leithanian",
       "Self-Satisfied Noble Alumna",
@@ -4821,6 +4839,8 @@
       "Genial Noble",
       "Greedy Businessman",
       "Local Judge A",
+      "Noble Gentleman",
+      "Slimy Noble",
       "Tipsy Businessman",
       "Victorian Magnate"
     ],
@@ -4857,9 +4877,12 @@
   },
   "avg_npc_177": {
     "en_US": [
+      "Astute Noble",
       "Bishmer",
       "Local Judge B",
+      "Londinium Merchant",
       "Noble Man",
+      "Obscured Merchant",
       "Officer-in-Charge",
       "Pretentious Man",
       "Wealthily-Dressed Man",
@@ -5856,7 +5879,9 @@
   },
   "avg_npc_240": {
     "en_US": [
-      "Craig"
+      "Craig",
+      "Knight",
+      "Naughty Child"
     ],
     "ja_JP": [
       "やんちゃな子供",
@@ -7237,6 +7262,8 @@
   },
   "avg_npc_398_1": {
     "en_US": [
+      "Self-Salvation Corps Fighter",
+      "Self-Salvation Corps Member",
       "Self-Salvation Corps Soldier"
     ],
     "ja_JP": [
@@ -7386,6 +7413,7 @@
   },
   "avg_npc_409_1": {
     "en_US": [
+      "Victorian Officer",
       "Victorian Soldier"
     ],
     "ja_JP": [
@@ -7617,6 +7645,9 @@
     ]
   },
   "avg_npc_426_1": {
+    "en_US": [
+      "Damazti Cluster"
+    ],
     "ja_JP": [
       "変形者"
     ],
@@ -8934,6 +8965,9 @@
     ]
   },
   "avg_npc_647_1": {
+    "en_US": [
+      "Golding"
+    ],
     "ja_JP": [
       "ゴールディング"
     ],
@@ -8942,6 +8976,9 @@
     ]
   },
   "avg_npc_648_1": {
+    "en_US": [
+      "Catherine"
+    ],
     "ja_JP": [
       "キャサリン"
     ],
@@ -8950,6 +8987,9 @@
     ]
   },
   "avg_npc_649_1": {
+    "en_US": [
+      "Lt. Colonel Lettou"
+    ],
     "ja_JP": [
       "レト中佐"
     ],
@@ -8958,6 +8998,9 @@
     ]
   },
   "avg_npc_650_1": {
+    "en_US": [
+      "Logos"
+    ],
     "ja_JP": [
       "Logos"
     ],
@@ -8966,6 +9009,10 @@
     ]
   },
   "avg_npc_651_1": {
+    "en_US": [
+      "'Steam Armor'",
+      "'The Last Steam Knight'"
+    ],
     "ja_JP": [
       "「最後の蒸気騎士」",
       "「蒸気甲冑」"
@@ -8976,6 +9023,9 @@
     ]
   },
   "avg_npc_652_1": {
+    "en_US": [
+      "Duke of Wellington"
+    ],
     "ja_JP": [
       "ウェリントン公爵"
     ],
@@ -8984,6 +9034,9 @@
     ]
   },
   "avg_npc_653_1": {
+    "en_US": [
+      "Salus"
+    ],
     "ja_JP": [
       "サルース"
     ],
@@ -8992,6 +9045,9 @@
     ]
   },
   "avg_npc_654_1": {
+    "en_US": [
+      "Confessarius"
+    ],
     "ja_JP": [
       "聴罪師"
     ],
@@ -9000,6 +9056,9 @@
     ]
   },
   "avg_npc_655_1": {
+    "en_US": [
+      "Allerdale"
+    ],
     "ja_JP": [
       "アラデル"
     ],
@@ -9008,6 +9067,11 @@
     ]
   },
   "avg_npc_657_1": {
+    "en_US": [
+      "'Molly'",
+      "Damazti Cluster",
+      "Molly"
+    ],
     "ja_JP": [
       "「モリ―」",
       "モリー",
@@ -9020,6 +9084,9 @@
     ]
   },
   "avg_npc_658_1": {
+    "en_US": [
+      "Ailshie"
+    ],
     "ja_JP": [
       "執事エルシー"
     ],
@@ -9028,6 +9095,9 @@
     ]
   },
   "avg_npc_659_1": {
+    "en_US": [
+      "Londinium Worker"
+    ],
     "ja_JP": [
       "ロンディニウム工員"
     ],
@@ -9037,6 +9107,9 @@
     ]
   },
   "avg_npc_660_1": {
+    "en_US": [
+      "Londinium Worker"
+    ],
     "ja_JP": [
       "ロンディニウム工員"
     ],
@@ -9046,6 +9119,12 @@
     ]
   },
   "avg_npc_661_1": {
+    "en_US": [
+      "Farmer",
+      "Innocent Child",
+      "Old Man",
+      "Tyrant"
+    ],
     "ja_JP": [
       "暴君",
       "無邪気な子供",
@@ -9060,6 +9139,9 @@
     ]
   },
   "avg_npc_662_1": {
+    "en_US": [
+      "Ch'en"
+    ],
     "ja_JP": [
       "チェン"
     ],
@@ -9068,6 +9150,9 @@
     ]
   },
   "avg_npc_663_1": {
+    "en_US": [
+      "Maid Ailshie"
+    ],
     "ja_JP": [
       "侍女エルシー"
     ],

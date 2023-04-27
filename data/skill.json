@@ -582,10 +582,12 @@
     "zh_CN": "阻滞射击战术"
   },
   "skchr_dagda_1": {
+    "en_US": "Counter Technique",
     "ja_JP": "カウンターテクニック",
     "zh_CN": "反制技巧"
   },
   "skchr_dagda_2": {
+    "en_US": "Search and Destroy",
     "ja_JP": "ハンティングタイム",
     "zh_CN": "精准捕杀"
   },
@@ -1208,14 +1210,17 @@
     "zh_CN": "梦乡摇篮"
   },
   "skchr_ironmn_1": {
+    "en_US": "Extreme Firepower",
     "ja_JP": "ハイパーブースト",
     "zh_CN": "极致火力"
   },
   "skchr_ironmn_2": {
+    "en_US": "Efficient Resupply",
     "ja_JP": "供給効率化システム",
     "zh_CN": "高效补给"
   },
   "skchr_ironmn_3": {
+    "en_US": "Prototype of Feist's Metal Crab",
     "ja_JP": "鉄鉗号･プロトタイプ",
     "zh_CN": "铁钳号·原型机"
   },
@@ -1736,6 +1741,7 @@
     "zh_CN": "创世纪"
   },
   "skchr_peper_2": {
+    "en_US": "Camaraderie",
     "ja_JP": "仲間意識",
     "zh_CN": "同伴意识"
   },
@@ -2349,10 +2355,12 @@
     "zh_CN": "嘉维尔保护方案"
   },
   "skchr_totter_1": {
+    "en_US": "Sunpiercer",
     "ja_JP": "貫日の一射",
     "zh_CN": "贯日"
   },
   "skchr_totter_2": {
+    "en_US": "Prism Break",
     "ja_JP": "砕虹の勁弩",
     "zh_CN": "破虹"
   },
@@ -2585,6 +2593,7 @@
     "zh_CN": "防御力强化·γ型"
   },
   "skcom_heal_rage[3]": {
+    "en_US": "Shielding Tactics γ",
     "ja_JP": "援護作戦γ",
     "zh_CN": "掩护作战·γ型"
   },
@@ -2667,10 +2676,12 @@
     "zh_CN": "派遣空援"
   },
   "sktok_allady": {
+    "en_US": "Allerdale's Guard",
     "ja_JP": "アラデルの衛護",
     "zh_CN": "阿勒黛的卫护"
   },
   "sktok_allady_2": {
+    "en_US": "Allerdale's Guard",
     "ja_JP": "アラデルの衛護",
     "zh_CN": "阿勒黛的卫护"
   },
@@ -3053,14 +3064,17 @@
     "zh_CN": "撼动现实"
   },
   "sktok_ironmn_pile1": {
+    "en_US": "Extreme Firepower",
     "ja_JP": "ハイパーブースト",
     "zh_CN": "极致火力"
   },
   "sktok_ironmn_pile2": {
+    "en_US": "Efficient Resupply",
     "ja_JP": "供給効率化システム",
     "zh_CN": "高效补给"
   },
   "sktok_ironmn_pile3": {
+    "en_US": "Prototype of Feist's Metal Crab",
     "ja_JP": "鉄鉗号･プロトタイプ",
     "zh_CN": "铁钳号·原型机"
   },
@@ -3074,6 +3088,7 @@
     "zh_CN": "触发对话"
   },
   "sktok_larva": {
+    "en_US": "Twigs That Crave",
     "ja_JP": "渇欲の枯枝",
     "zh_CN": "汲营枯枝"
   },
@@ -3391,14 +3406,17 @@
     "zh_CN": "新遣"
   },
   "sktok_tbattbc": {
+    "en_US": "Gloompincer Shell Meal",
     "ja_JP": "鉗獣殻パウダー",
     "zh_CN": "钳兽壳粉"
   },
   "sktok_tbpsnc": {
+    "en_US": "High-Efficiency Baking Powder",
     "ja_JP": "ベーキングパウダー",
     "zh_CN": "高效泡打粉"
   },
   "sktok_tbsmmc": {
+    "en_US": "Fragrant Essential Oil",
     "ja_JP": "エッセンシャルオイル",
     "zh_CN": "芳香精油"
   },

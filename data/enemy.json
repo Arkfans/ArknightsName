@@ -2575,82 +2575,102 @@
     "zh_CN": "自走车"
   },
   "enemy_1266_nhapos": {
+    "en_US": "Rot Eater",
     "ja_JP": "ナハツェーラーの使徒",
     "zh_CN": "食腐使徒"
   },
   "enemy_1267_nhpbr": {
+    "en_US": "Sarkaz Witherer",
     "ja_JP": "枯朽サルカズ戦士",
     "zh_CN": "萨卡兹枯朽战士"
   },
   "enemy_1267_nhpbr_2": {
+    "en_US": "Sarkaz Witherer Captain",
     "ja_JP": "枯朽サルカズ戦士隊長",
     "zh_CN": "萨卡兹枯朽战士组长"
   },
   "enemy_1268_nhnrs": {
+    "en_US": "Sarkaz Wither Caster",
     "ja_JP": "枯朽サルカズ術師",
     "zh_CN": "萨卡兹枯朽术师"
   },
   "enemy_1268_nhnrs_2": {
+    "en_US": "Sarkaz Wither Caster Captain",
     "ja_JP": "枯朽サルカズ術師隊長",
     "zh_CN": "萨卡兹枯朽术师组长"
   },
   "enemy_1269_nhfly": {
+    "en_US": "Seed of Withering",
     "ja_JP": "枯朽の種",
     "zh_CN": "枯朽之种"
   },
   "enemy_1269_nhfly_2": {
+    "en_US": "Seed of Decay",
     "ja_JP": "腐敗の種",
     "zh_CN": "腐败之种"
   },
   "enemy_1270_nhstlk": {
+    "en_US": "Rotchaser",
     "ja_JP": "逐腐獣",
     "zh_CN": "逐腐兽"
   },
   "enemy_1270_nhstlk_2": {
+    "en_US": "Rampaging Rotchaser",
     "ja_JP": "狂った逐腐獣",
     "zh_CN": "疯狂的逐腐兽"
   },
   "enemy_1271_nhkodo": {
+    "en_US": "Sarkaz Wither Devourer",
     "ja_JP": "枯朽サルカズ吸収者",
     "zh_CN": "萨卡兹枯朽吞噬者"
   },
   "enemy_1271_nhkodo_2": {
+    "en_US": "Sarkaz Wither Maw",
     "ja_JP": "枯朽サルカズ受容者",
     "zh_CN": "萨卡兹枯朽吸纳者"
   },
   "enemy_1272_nhtank": {
+    "en_US": "Sarkaz Wither Tank",
     "ja_JP": "枯朽サルカズ戦車",
     "zh_CN": "萨卡兹枯朽战车"
   },
   "enemy_1272_nhtank_2": {
+    "en_US": "Advanced Sarkaz Wither Tank",
     "ja_JP": "枯朽サルカズ精鋭戦車",
     "zh_CN": "尖端萨卡兹枯朽战车"
   },
   "enemy_1273_stmgun": {
+    "en_US": "Londinium Mobile Defense Artillery",
     "ja_JP": "都市防衛自走砲",
     "zh_CN": "伦蒂尼姆城防自行炮"
   },
   "enemy_1273_stmgun_2": {
+    "en_US": "Londinium Precision Mobile Defense Artillery",
     "ja_JP": "高精度都市防衛自走砲",
     "zh_CN": "高准度伦蒂尼姆城防自行炮"
   },
   "enemy_1274_stmram": {
+    "en_US": "Steam Tank",
     "ja_JP": "蒸気戦車",
     "zh_CN": "蒸汽战车"
   },
   "enemy_1274_stmram_2": {
+    "en_US": "Scorching Steam Tank",
     "ja_JP": "高温蒸気戦車",
     "zh_CN": "极温蒸汽战车"
   },
   "enemy_1275_dwlock": {
+    "en_US": "Sarkaz Royal Court Caster",
     "ja_JP": "サルカズ王庭軍術師",
     "zh_CN": "萨卡兹王庭军术师"
   },
   "enemy_1275_dwlock_2": {
+    "en_US": "Sarkaz Royal Court Elite Caster",
     "ja_JP": "サルカズ王庭軍精鋭術師",
     "zh_CN": "萨卡兹王庭军精锐术师"
   },
   "enemy_1276_telex": {
+    "en_US": "Theresis",
     "ja_JP": "Theresis",
     "zh_CN": "特雷西斯"
   },
@@ -3087,6 +3107,7 @@
     "zh_CN": "“物欲拮抗者”"
   },
   "enemy_1533_stmkgt": {
+    "en_US": "'The Last Steam Knight'",
     "ja_JP": "「最後の蒸気騎士」",
     "zh_CN": "“最后的蒸汽骑士”"
   },
@@ -3385,6 +3406,7 @@
     "zh_CN": "荧壳源石虫"
   },
   "enemy_6009_nlkgtbs": {
+    "en_US": "'Fruit of Gluttony'",
     "ja_JP": "「暴食の果実」",
     "zh_CN": "“暴食之果”"
   },

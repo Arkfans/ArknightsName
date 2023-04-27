@@ -86,16 +86,16 @@ tip: 请善用浏览器的搜索功能
 | trap_083_bunker | 掩体 | - | - |
 | trap_084_aidkit | 急救包 | - | - |
 | trap_085_paras | 荧光孢子 | Fluorescent Spores | 蛍光胞子 |
-| trap_086_larva | “汲营枯枝”  | - | 「渇欲の枯枝」  |
-| trap_087_allady | 阿勒黛的卫护 | - | アラデルの衛護 |
+| trap_086_larva | “汲营枯枝”  | 'Twigs That Crave' | 「渇欲の枯枝」  |
+| trap_087_allady | 阿勒黛的卫护 | Allerdale's Guard | アラデルの衛護 |
 | trap_088_dice2 | 8面骰子 | - | - |
 | trap_089_dice3 | 12面骰子 | - | - |
 | trap_090_recodr | 实体程式 | Entitative Program | 実体プログラム |
 | trap_091_brctrl | 实体程式控制 | Entitative Program Controller | 実体プログラム制御 |
 | trap_092_vgctrl | 复仇黑手 | - | - |
-| trap_093_tbattbc | 钳兽壳粉 | - | 鉗獣殻パウダー |
-| trap_094_tbpsnc | 高效泡打粉 | - | ベーキングパウダー |
-| trap_095_tbsmmc | 芳香精油 | - | エッセンシャルオイル |
+| trap_093_tbattbc | 钳兽壳粉 | Gloompincer Shell Meal | 鉗獣殻パウダー |
+| trap_094_tbpsnc | 高效泡打粉 | High-Efficiency Baking Powder | ベーキングパウダー |
+| trap_095_tbsmmc | 芳香精油 | Fragrant Essential Oil | エッセンシャルオイル |
 | trap_096_gflag | 山海密语仪 | - | - |
 | trap_097_hstone | 城防路障 | - | - |
 | trap_098_mire | 沼泽控制 | - | - |
