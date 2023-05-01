@@ -3725,6 +3725,12 @@
       "zh_CN": "报童"
     }
   },
+  "char_003_kalts@boc#6": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "残余"
+    }
+  },
   "char_010_chen@nian#2": {
     "type": "SKIN",
     "names": {
@@ -3757,6 +3763,12 @@
       "zh_CN": "升华"
     }
   },
+  "char_1013_chen2@boc#6": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "万重山"
+    }
+  },
   "char_1014_nearl2@epoque#17": {
     "type": "SKIN",
     "names": {
@@ -3781,6 +3793,12 @@
     "type": "SKIN",
     "names": {
       "zh_CN": "廊下游 "
+    }
+  },
+  "char_1023_ghost2@boc#6": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "生而为一"
     }
   },
   "char_1027_greyy2@snow#5": {
@@ -4763,6 +4781,12 @@
       "zh_CN": "古堡清洁专家"
     }
   },
+  "char_278_orchid@boc#6": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "衣缕往昔"
+    }
+  },
   "char_279_excu@boc#1": {
     "type": "SKIN",
     "names": {
@@ -5155,6 +5179,12 @@
       "zh_CN": "火树灵"
     }
   },
+  "char_4009_irene@ambienceSynesthesia#3": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "飞羽"
+    }
+  },
   "char_400_weedy@snow#2": {
     "type": "SKIN",
     "names": {
@@ -5227,6 +5257,12 @@
       "zh_CN": "欢唱之前"
     }
   },
+  "char_4042_lumen@ambienceSynesthesia#3": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "灿海浮梦"
+    }
+  },
   "char_4043_erato@snow#5": {
     "type": "SKIN",
     "names": {
@@ -5237,6 +5273,12 @@
     "type": "SKIN",
     "names": {
       "zh_CN": "书信零落"
+    }
+  },
+  "char_4046_ebnhlz@boc#6": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "变奏"
     }
   },
   "char_4055_bgsnow@wild#7": {
@@ -5463,6 +5505,12 @@
       "en_US": "Appreciate Fragrance",
       "ja_JP": "満開",
       "zh_CN": "识芳"
+    }
+  },
+  "char_484_robrta@ambienceSynesthesia#3": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "待绘的作品"
     }
   },
   "char_484_robrta@summer#10": {
@@ -10489,6 +10537,120 @@
       "zh_CN": "解构畸变体"
     }
   },
+  "enemy_1325_cbgpro": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "军用猎狗"
+    }
+  },
+  "enemy_1325_cbgpro_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "高级军用猎狗"
+    }
+  },
+  "enemy_1326_cbagen": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "特里蒙城防军"
+    }
+  },
+  "enemy_1326_cbagen_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "特里蒙城防军队长"
+    }
+  },
+  "enemy_1327_cbrokt": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "弧光突击队"
+    }
+  },
+  "enemy_1327_cbrokt_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "弧光突击队队长"
+    }
+  },
+  "enemy_1328_cbjedi": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "弧光锋卫"
+    }
+  },
+  "enemy_1328_cbjedi_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "弧光锋卫长"
+    }
+  },
+  "enemy_1329_cbshld": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "弧光镜卫"
+    }
+  },
+  "enemy_1329_cbshld_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "弧光镜卫长"
+    }
+  },
+  "enemy_1330_cbrush": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“肇事者”量产型"
+    }
+  },
+  "enemy_1330_cbrush_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“肇事者”试做型"
+    }
+  },
+  "enemy_1331_cbsisy": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“十字路口”量产型"
+    }
+  },
+  "enemy_1331_cbsisy_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“十字路口”试做型"
+    }
+  },
+  "enemy_1332_cbterm": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“交通亭”量产型"
+    }
+  },
+  "enemy_1332_cbterm_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“交通亭”试做型"
+    }
+  },
+  "enemy_1333_cbbgen": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“交通警察”"
+    }
+  },
+  "enemy_1333_cbbgen_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“交通警长”"
+    }
+  },
+  "enemy_1334_ristar": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "行星碎屑"
+    }
+  },
   "enemy_1500_skulsr": {
     "type": "ENEMY",
     "names": {
@@ -10819,6 +10981,12 @@
     "type": "ENEMY",
     "names": {
       "zh_CN": "“变形者集群”"
+    }
+  },
+  "enemy_1543_cstlrs": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "克丽斯腾"
     }
   },
   "enemy_2001_duckmi": {
@@ -13789,6 +13957,12 @@
       "zh_CN": "长风万里寻访凭证"
     }
   },
+  "LIMITED_TKT_GACHA_10_3801": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "未来序曲寻访凭证"
+    }
+  },
   "LIMITED_TKT_GACHA_10_903": {
     "type": "ITEM",
     "names": {
@@ -13888,6 +14062,12 @@
     }
   },
   "LMTGS_COIN_3501": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "寻访数据契约"
+    }
+  },
+  "LMTGS_COIN_3801": {
     "type": "ITEM",
     "names": {
       "zh_CN": "寻访数据契约"
@@ -14475,6 +14655,24 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "火龙的红玉"
+    }
+  },
+  "act25side_token_fdrchips": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "飞行数据记录芯片"
+    }
+  },
+  "act25side_token_key01": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "特殊作战许可·α"
+    }
+  },
+  "act25side_token_key02": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "特殊作战许可·β"
     }
   },
   "act2bossrush_milestone_point": {
@@ -15599,6 +15797,18 @@
       "zh_CN": "休谟斯的中坚信物"
     }
   },
+  "classic_fes_pick_tier_5_3801": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "中坚甄选5星干员"
+    }
+  },
+  "classic_fes_pick_tier_6_3801": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "中坚甄选6星干员"
+    }
+  },
   "classic_gacha": {
     "type": "ITEM",
     "names": {
@@ -16151,6 +16361,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "火龙S黑角的信物"
+    }
+  },
+  "p_char_1031_slent2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "淬羽赫默的信物"
     }
   },
   "p_char_103_angel": {
@@ -16909,6 +17125,12 @@
       "zh_CN": "麦哲伦的信物"
     }
   },
+  "p_char_249_mlyss": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "缪尔赛思的信物"
+    }
+  },
   "p_char_250_phatom": {
     "type": "ITEM",
     "names": {
@@ -17515,6 +17737,12 @@
       "zh_CN": "布丁的信物"
     }
   },
+  "p_char_4006_melnte": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "玫拉的信物"
+    }
+  },
   "p_char_4009_irene": {
     "type": "ITEM",
     "names": {
@@ -17573,6 +17801,12 @@
       "en_US": "Shalem's Token",
       "ja_JP": "シャレムの印",
       "zh_CN": "暮落的信物"
+    }
+  },
+  "p_char_4027_heyak": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "霍尔海雅的信物"
     }
   },
   "p_char_402_tuye": {
@@ -18311,6 +18545,12 @@
       "zh_CN": "罗德岛物资补给V"
     }
   },
+  "randomMaterial_rhine2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "技术调查补给"
+    }
+  },
   "renamingCard": {
     "type": "ITEM",
     "names": {
@@ -18351,6 +18591,12 @@
       "zh_CN": "ID信息更新卡"
     }
   },
+  "renamingCard_0_038": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "ID信息更新卡"
+    }
+  },
   "renamingCard_30_018": {
     "type": "ITEM",
     "names": {
@@ -18380,6 +18626,12 @@
     "names": {
       "en_US": "ID Info Update Card",
       "ja_JP": "ID情報更新カード",
+      "zh_CN": "ID信息更新卡"
+    }
+  },
+  "renamingCard_30_038": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "ID信息更新卡"
     }
   },
@@ -18999,6 +19251,12 @@
       "zh_CN": "资深干员特训邀请函"
     }
   },
+  "voucher_elite_II_6": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "高级资深干员特训邀请函"
+    }
+  },
   "voucher_full_absin": {
     "type": "ITEM",
     "names": {
@@ -19165,6 +19423,12 @@
       "zh_CN": "感谢庆典干员凭证"
     }
   },
+  "voucher_item_pick3801": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "周年庆典干员凭证"
+    }
+  },
   "voucher_item_pick601": {
     "type": "ITEM",
     "names": {
@@ -19228,6 +19492,12 @@
     "names": {
       "en_US": "Senior Operator Transfer Permit",
       "ja_JP": "★5招聘指名券",
+      "zh_CN": "资深干员调用凭证"
+    }
+  },
+  "voucher_recruitR5_pick3801": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "资深干员调用凭证"
     }
   },
@@ -19575,6 +19845,12 @@
     "type": "POOL",
     "names": {
       "zh_CN": "万象伶仃"
+    }
+  },
+  "LIMITED_38_0_1": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "真理孑然"
     }
   },
   "LIMITED_9_0_3": {
@@ -34041,6 +34317,24 @@
       "zh_CN": "艾露猫的委托柜台"
     }
   },
+  "act25side_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "未来将至"
+    }
+  },
+  "act25side_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "过往未尽"
+    }
+  },
+  "act25side_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "紧握当下"
+    }
+  },
   "act2bossrush_zone1": {
     "type": "ZONE",
     "names": {
@@ -34623,6 +34917,24 @@
       "en_US": "Mirror Image",
       "ja_JP": "鏡写しの映像",
       "zh_CN": "镜前映像"
+    }
+  },
+  "permanent_sub_5_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "未来将至"
+    }
+  },
+  "permanent_sub_5_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "过往未尽"
+    }
+  },
+  "permanent_sub_5_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "紧握当下"
     }
   },
   "weekly_1": {

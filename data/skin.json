@@ -12,6 +12,9 @@
     "ja_JP": "新聞配達員",
     "zh_CN": "报童"
   },
+  "char_003_kalts@boc#6": {
+    "zh_CN": "残余"
+  },
   "char_010_chen@nian#2": {
     "en_US": "Ageless Afterglow",
     "ja_JP": "歳紅霞",
@@ -32,6 +35,9 @@
     "ja_JP": "昇華",
     "zh_CN": "升华"
   },
+  "char_1013_chen2@boc#6": {
+    "zh_CN": "万重山"
+  },
   "char_1014_nearl2@epoque#17": {
     "zh_CN": "复现荣光"
   },
@@ -45,6 +51,9 @@
   },
   "char_1021_kroos2@nian#8": {
     "zh_CN": "廊下游 "
+  },
+  "char_1023_ghost2@boc#6": {
+    "zh_CN": "生而为一"
   },
   "char_1027_greyy2@snow#5": {
     "zh_CN": "演出后的王子"
@@ -651,6 +660,9 @@
     "ja_JP": "古城の掃除屋",
     "zh_CN": "古堡清洁专家"
   },
+  "char_278_orchid@boc#6": {
+    "zh_CN": "衣缕往昔"
+  },
   "char_279_excu@boc#1": {
     "en_US": "Titleless Code",
     "ja_JP": "無題の密命",
@@ -890,6 +902,9 @@
   "char_4004_pudd@snow#5": {
     "zh_CN": "火树灵"
   },
+  "char_4009_irene@ambienceSynesthesia#3": {
+    "zh_CN": "飞羽"
+  },
   "char_400_weedy@snow#2": {
     "en_US": "Candy Cape",
     "ja_JP": "キャンディフェアリー",
@@ -932,11 +947,17 @@
     "ja_JP": "歌の前に",
     "zh_CN": "欢唱之前"
   },
+  "char_4042_lumen@ambienceSynesthesia#3": {
+    "zh_CN": "灿海浮梦"
+  },
   "char_4043_erato@snow#5": {
     "zh_CN": "未讲述的故事"
   },
   "char_4045_heidi@epoque#24": {
     "zh_CN": "书信零落"
+  },
+  "char_4046_ebnhlz@boc#6": {
+    "zh_CN": "变奏"
   },
   "char_4055_bgsnow@wild#7": {
     "zh_CN": "字句中的雪原"
@@ -1073,6 +1094,9 @@
     "en_US": "Appreciate Fragrance",
     "ja_JP": "満開",
     "zh_CN": "识芳"
+  },
+  "char_484_robrta@ambienceSynesthesia#3": {
+    "zh_CN": "待绘的作品"
   },
   "char_484_robrta@summer#10": {
     "en_US": "Summer Flowers FA374",

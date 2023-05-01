@@ -103,6 +103,9 @@ tip: 请善用浏览器的搜索功能
 | act23side_zone2 | 关外追凶 | - | - |
 | act24side_zone1 | 苍暮山地 | - | - |
 | act24side_zone2 | 艾露猫的委托柜台 | - | - |
+| act25side_zone1 | 未来将至 | - | - |
+| act25side_zone2 | 过往未尽 | - | - |
+| act25side_zone3 | 紧握当下 | - | - |
 | act2bossrush_zone1 | 强敌当前 | - | - |
 | act5d0_zone1 | 下城区 | Downtown | 繁華街 |
 | act5d0_zone2 | 东部郊区 | Eastern Suburbs | 東部郊外 |
@@ -178,6 +181,9 @@ tip: 请善用浏览器的搜索功能
 | permanent_sub_4_zone3 | 无名之海 | Nameless Ocean | 名もなき海 |
 | permanent_sub_4_zone4 | 蒙尘图册 | Dusty Picturebook | 古びた手記 |
 | permanent_sub_4_zone5 | 镜前映像 | Mirror Image | 鏡写しの映像 |
+| permanent_sub_5_zone1 | 未来将至 | - | - |
+| permanent_sub_5_zone2 | 过往未尽 | - | - |
+| permanent_sub_5_zone3 | 紧握当下 | - | - |
 | weekly_1 | 固若金汤 | Solid Defense | 重装/医療 |
 | weekly_2 | 摧枯拉朽 | Fierce Attack | 狙撃/術師 |
 | weekly_3 | 势不可挡 | Unstoppable Charge | 先鋒/補助 |

@@ -8,14 +8,17 @@ tip: 请善用浏览器的搜索功能
 | char_002_amiya@epoque#4 | 见习联结者 | Fresh Fastener | 見習い宅配人 |
 | char_002_amiya@test#1 | 播种者 | - | - |
 | char_002_amiya@winter#1 | 报童 | Newsgirl | 新聞配達員 |
+| char_003_kalts@boc#6 | 残余 | - | - |
 | char_010_chen@nian#2 | 岁红霞 | Ageless Afterglow | 歳紅霞 |
 | char_017_huang@as#1 | 爆裂菲林 | Burst Feline | 爆裂フェリーン |
 | char_1011_lava2@nian#6 | 暮影藤萝 | Dusk Wisteria | 紫藤麗姿 |
 | char_1012_skadi2@boc#4 | 升华 | Sublimation | 昇華 |
+| char_1013_chen2@boc#6 | 万重山 | - | - |
 | char_1014_nearl2@epoque#17 | 复现荣光 | - | - |
 | char_101_sora@epoque#17 | 如歌 | - | - |
 | char_101_sora@summer#1 | 夏卉 FA361 | Summer Flowers FA361 | 夏の花弁FA361 |
 | char_1021_kroos2@nian#8 | 廊下游  | - | - |
+| char_1023_ghost2@boc#6 | 生而为一 | - | - |
 | char_1027_greyy2@snow#5 | 演出后的王子 | - | - |
 | char_102_texas@epoque#7 | 意志 | Willpower | 意志 |
 | char_102_texas@winter#1 | 寒冬信使 | Winter Messenger | 冬の使者 |
@@ -141,6 +144,7 @@ tip: 请善用浏览器的搜索功能
 | char_274_astesi@epoque#5 | 寻耀 | Starseeker | 星尋ね |
 | char_274_astesi@shining#1 | 殿堂上的游禽 | Frlibe on the Palace | 翼広げしフレリーべ |
 | char_277_sqrrel@ghost#1 | 古堡清洁专家 | Cleansweeper in the Castle | 古城の掃除屋 |
+| char_278_orchid@boc#6 | 衣缕往昔 | - | - |
 | char_279_excu@boc#1 | 无题密令 | Titleless Code | 無題の密命 |
 | char_283_midn@boc#1 | 第七夜苏醒魔君 | Seventh Night's Awakened | 第七夜に覚醒めし魔王 |
 | char_284_spot@boc#3 | 专业人士 | Professional | プロフェッショナル |
@@ -192,6 +196,7 @@ tip: 请善用浏览器的搜索功能
 | char_388_mint@epoque#22 | 月宵 | - | - |
 | char_391_rosmon@epoque#17 | 拥抱新生 | - | - |
 | char_4004_pudd@snow#5 | 火树灵 | - | - |
+| char_4009_irene@ambienceSynesthesia#3 | 飞羽 | - | - |
 | char_400_weedy@snow#2 | 糖果仙子 | Candy Cape | キャンディフェアリー |
 | char_4013_kjera@epoque#18 | 灵巧侍者 | - | - |
 | char_4016_kazema@witch#3 | 幻影轻悄 | Like Illusion | 軽やかな幻影 |
@@ -202,8 +207,10 @@ tip: 请善用浏览器的搜索功能
 | char_4036_forcer@epoque#20 | 拾翼 | - | - |
 | char_4039_horn@epoque#24 | 化花 | - | - |
 | char_4040_rockr@lxh#1 | 欢唱之前 | Before Singing | 歌の前に |
+| char_4042_lumen@ambienceSynesthesia#3 | 灿海浮梦 | - | - |
 | char_4043_erato@snow#5 | 未讲述的故事 | - | - |
 | char_4045_heidi@epoque#24 | 书信零落 | - | - |
+| char_4046_ebnhlz@boc#6 | 变奏 | - | - |
 | char_4055_bgsnow@wild#7 | 字句中的雪原 | - | - |
 | char_4077_palico@mh#1 | 跃上街头 | - | - |
 | char_411_tomimi@summer#5 | 静谧午夜 DN04 | Silent Night DN04 | 安息の午夜DN04 |
@@ -234,6 +241,7 @@ tip: 请善用浏览器的搜索功能
 | char_476_blkngt@summer#8 | 夏卉 FA641 | Summer Flower FA641 | 夏の花弁FA641 |
 | char_478_kirara@game#2 | 前沿玩家 | Trendsetting Player | トレンディゲーマー |
 | char_479_sleach@epoque#14 | 识芳 | Appreciate Fragrance | 満開 |
+| char_484_robrta@ambienceSynesthesia#3 | 待绘的作品 | - | - |
 | char_484_robrta@summer#10 | 夏卉 FA374 | Summer Flowers FA374 | 夏の花弁FA374 |
 | char_485_pallas@epoque#12 | 传承 | Heritage | 伝承 |
 | char_485_pallas@epoque#19 | 山川的酿造 | - | - |

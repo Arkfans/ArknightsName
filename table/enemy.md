@@ -629,6 +629,25 @@ tip: 请善用浏览器的搜索功能
 | enemy_1322_wdgyht | “灰礼帽” | - | - |
 | enemy_1322_wdgyht_2 | “见习灰礼帽” | - | - |
 | enemy_1323_wdbshd | 解构畸变体 | - | - |
+| enemy_1325_cbgpro | 军用猎狗 | - | - |
+| enemy_1325_cbgpro_2 | 高级军用猎狗 | - | - |
+| enemy_1326_cbagen | 特里蒙城防军 | - | - |
+| enemy_1326_cbagen_2 | 特里蒙城防军队长 | - | - |
+| enemy_1327_cbrokt | 弧光突击队 | - | - |
+| enemy_1327_cbrokt_2 | 弧光突击队队长 | - | - |
+| enemy_1328_cbjedi | 弧光锋卫 | - | - |
+| enemy_1328_cbjedi_2 | 弧光锋卫长 | - | - |
+| enemy_1329_cbshld | 弧光镜卫 | - | - |
+| enemy_1329_cbshld_2 | 弧光镜卫长 | - | - |
+| enemy_1330_cbrush | “肇事者”量产型 | - | - |
+| enemy_1330_cbrush_2 | “肇事者”试做型 | - | - |
+| enemy_1331_cbsisy | “十字路口”量产型 | - | - |
+| enemy_1331_cbsisy_2 | “十字路口”试做型 | - | - |
+| enemy_1332_cbterm | “交通亭”量产型 | - | - |
+| enemy_1332_cbterm_2 | “交通亭”试做型 | - | - |
+| enemy_1333_cbbgen | “交通警察” | - | - |
+| enemy_1333_cbbgen_2 | “交通警长” | - | - |
+| enemy_1334_ristar | 行星碎屑 | - | - |
 | enemy_1500_skulsr | 碎骨 | Skullshatterer | SkullShredder |
 | enemy_1501_demonk | 萨卡兹百夫长 | Sarkaz Centurion | サルカズケントゥリオ |
 | enemy_1502_crowns | 弑君者 | Crownslayer | CrownSlayer |
@@ -673,6 +692,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1540_wdncr | 爱布拉娜 | - | - |
 | enemy_1541_wdslms | “变形者集群” | - | - |
 | enemy_1542_wdslm | “变形者集群” | - | - |
+| enemy_1543_cstlrs | 克丽斯腾 | - | - |
 | enemy_2001_duckmi | 鸭爵 | Duck Lord | ダック卿 |
 | enemy_2002_bearmi | 高普尼克 | Gopnik | ゴプニク |
 | enemy_2003_rockman | 迷路的巨像 | Lost Colossus | 迷子の巨像 |

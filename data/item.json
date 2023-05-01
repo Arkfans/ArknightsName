@@ -644,6 +644,9 @@
   "LIMITED_TKT_GACHA_10_3501": {
     "zh_CN": "长风万里寻访凭证"
   },
+  "LIMITED_TKT_GACHA_10_3801": {
+    "zh_CN": "未来序曲寻访凭证"
+  },
   "LIMITED_TKT_GACHA_10_903": {
     "en_US": "Awakening Commemoration Permit",
     "ja_JP": "1周年記念10回スカウト券",
@@ -704,6 +707,9 @@
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_3501": {
+    "zh_CN": "寻访数据契约"
+  },
+  "LMTGS_COIN_3801": {
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_601": {
@@ -1058,6 +1064,15 @@
   },
   "act24side_melding_6": {
     "zh_CN": "火龙的红玉"
+  },
+  "act25side_token_fdrchips": {
+    "zh_CN": "飞行数据记录芯片"
+  },
+  "act25side_token_key01": {
+    "zh_CN": "特殊作战许可·α"
+  },
+  "act25side_token_key02": {
+    "zh_CN": "特殊作战许可·β"
   },
   "act2bossrush_milestone_point": {
     "zh_CN": "试炼经验"
@@ -1662,6 +1677,12 @@
   "class_p_char_491_humus": {
     "zh_CN": "休谟斯的中坚信物"
   },
+  "classic_fes_pick_tier_5_3801": {
+    "zh_CN": "中坚甄选5星干员"
+  },
+  "classic_fes_pick_tier_6_3801": {
+    "zh_CN": "中坚甄选6星干员"
+  },
   "classic_gacha": {
     "zh_CN": "中坚寻访凭证"
   },
@@ -1993,6 +2014,9 @@
   },
   "p_char_1030_noirc2": {
     "zh_CN": "火龙S黑角的信物"
+  },
+  "p_char_1031_slent2": {
+    "zh_CN": "淬羽赫默的信物"
   },
   "p_char_103_angel": {
     "en_US": "Exusiai's Token",
@@ -2465,6 +2489,9 @@
     "ja_JP": "マゼランの印",
     "zh_CN": "麦哲伦的信物"
   },
+  "p_char_249_mlyss": {
+    "zh_CN": "缪尔赛思的信物"
+  },
   "p_char_250_phatom": {
     "en_US": "Phantom's Token",
     "ja_JP": "ファントムの印",
@@ -2843,6 +2870,9 @@
     "ja_JP": "プリンの印",
     "zh_CN": "布丁的信物"
   },
+  "p_char_4006_melnte": {
+    "zh_CN": "玫拉的信物"
+  },
   "p_char_4009_irene": {
     "en_US": "Irene's Token",
     "ja_JP": "アイリーニの印",
@@ -2878,6 +2908,9 @@
     "en_US": "Shalem's Token",
     "ja_JP": "シャレムの印",
     "zh_CN": "暮落的信物"
+  },
+  "p_char_4027_heyak": {
+    "zh_CN": "霍尔海雅的信物"
   },
   "p_char_402_tuye": {
     "en_US": "Tuye's Token",
@@ -3327,6 +3360,9 @@
   "randomMaterial_8": {
     "zh_CN": "罗德岛物资补给V"
   },
+  "randomMaterial_rhine2": {
+    "zh_CN": "技术调查补给"
+  },
   "renamingCard": {
     "en_US": "ID Info Update Card",
     "ja_JP": "ID情報更新カード",
@@ -3352,6 +3388,9 @@
     "ja_JP": "ID情報更新カード",
     "zh_CN": "ID信息更新卡"
   },
+  "renamingCard_0_038": {
+    "zh_CN": "ID信息更新卡"
+  },
   "renamingCard_30_018": {
     "en_US": "ID Info Update Card",
     "ja_JP": "ID情報更新カード",
@@ -3370,6 +3409,9 @@
   "renamingCard_30_033": {
     "en_US": "ID Info Update Card",
     "ja_JP": "ID情報更新カード",
+    "zh_CN": "ID信息更新卡"
+  },
+  "renamingCard_30_038": {
     "zh_CN": "ID信息更新卡"
   },
   "return_credit_token": {
@@ -3751,6 +3793,9 @@
     "ja_JP": "★5特訓招待状",
     "zh_CN": "资深干员特训邀请函"
   },
+  "voucher_elite_II_6": {
+    "zh_CN": "高级资深干员特训邀请函"
+  },
   "voucher_full_absin": {
     "en_US": "Absinthe's Personal Letter",
     "ja_JP": "アブサントの手紙",
@@ -3851,6 +3896,9 @@
   "voucher_item_pick3301": {
     "zh_CN": "感谢庆典干员凭证"
   },
+  "voucher_item_pick3801": {
+    "zh_CN": "周年庆典干员凭证"
+  },
   "voucher_item_pick601": {
     "en_US": "Top Operator Transfer Permit",
     "ja_JP": "★6招聘指名券",
@@ -3888,6 +3936,9 @@
   "voucher_recruitR5_pick2701": {
     "en_US": "Senior Operator Transfer Permit",
     "ja_JP": "★5招聘指名券",
+    "zh_CN": "资深干员调用凭证"
+  },
+  "voucher_recruitR5_pick3801": {
     "zh_CN": "资深干员调用凭证"
   },
   "voucher_skin": {

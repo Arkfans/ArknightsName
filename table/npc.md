@@ -22,9 +22,11 @@ tip: 请善用浏览器的搜索功能
 | avg_1028_texas2_1 | 德克萨斯 | - | - |
 | avg_1029_Yato2_1 | 夜刀 | - | - |
 | avg_1030_noirc2_1 | 黑角 | - | - |
+| avg_1031_slent2_1 | 赫默 | - | - |
 | avg_103_angel_1 | 能天使 | Exusiai | エクシア |
 | avg_106_franka_1 | 芙兰卡 | Franka | フランカ |
-| avg_108_silent_1 | 赫默 | Silence | サイレンス |
+| avg_108_silent_1 | 市民？ | Silence | サイレンス |
+|   | 赫默 |   |   |
 | avg_110_deepcl_1 | 怪异的画家 | - | - |
 | avg_115_headbr_1 | 凛冬 | Zima | ズィマー |
 | avg_117_myrrh_1 | 末药 | Myrrh | ミルラ |
@@ -89,6 +91,8 @@ tip: 请善用浏览器的搜索功能
 | avg_242_otter_1 | 梅尔 | Mayer | メイヤー |
 | avg_243_waaifu_1 | 槐琥 | Waai Fu | ワイフー |
 | avg_248_mgllan_1 | 麦哲伦 | Magallan | マゼラン |
+| avg_249_mlyss_1 | 缪尔赛思 | - | - |
+|   | 缪尔赛思？ |   |   |
 | avg_252_bibeak_1 | 柏喙 | Bibeak | 柏喙 |
 | avg_253_greyy_1 | 虚弱的佩洛男孩 | Frail Perro Boy | 虚弱なペッロー少年 |
 | avg_254_vodfox_1 | 巫恋 | - | - |
@@ -119,9 +123,11 @@ tip: 请善用浏览器的搜索功能
 | avg_377_gdglow_1 | 澄闪 | Goldenglow | ゴールデングロー |
 |   | 苏茜 | Susie | スージー |
 | avg_378_asbest_1 | 石棉 | Asbestos | アスベストス |
+| avg_379_sesa_1 | 慑砂 | - | - |
 | avg_383_snsant_1 | 雪雉 | - | - |
 | avg_388_mint_1 | 薄绿 | Mint | ミント |
 |   |   |   | 薄绿 |
+| avg_391_rosmon_1 | 迷迭香 | - | - |
 | avg_4000_jnight_1 | “正义骑士号” | 'Justice Knight' | 「ジャスティスナイト」 |
 |   | 机械凶兽 | Archbeast Mechanica | ジャスティスナイト |
 |   | 正义骑士号 | Justice Knight | 機械凶獣 |
@@ -273,19 +279,20 @@ tip: 请善用浏览器的搜索功能
 |   | 卡西米尔村民 | Aging Worker | ヨハン |
 |   | 工人吉姆斯 | Elderly Villager | ワン |
 |   | 年老的村民 | Farm Owner | 一般感染者B |
-|   | 年长的镇民 | Hurrying Worker | 労働者ジェームズ |
-|   | 感染者员工A | Infected Employee A | 年老いた農民 |
-|   | 搬运工 | James the Worker | 怯える感染者 |
-|   | 普通感染者B | Johnny | 感染者従業員A |
-|   | 村民 | Kazimierz Villager | 村人 |
-|   | 村民C | Militiaman A | 村民C |
-|   | 村长 | Ordinary Infected B | 村長 |
-|   | 民兵A | Porter | 民兵A |
-|   | 王阿伯 | Tense Infected | 老けている労働者 |
-|   | 紧张的感染者 | Uncle Wong | 農場主 |
-|   | 老板 | Village Headman | 運搬人 |
-|   | 老约翰 | Villager | 道を急ぐ労働者 |
-|   | 聒噪的老人 | Villager C |   |
+|   | 年长的居民 | Hurrying Worker | 労働者ジェームズ |
+|   | 年长的镇民 | Infected Employee A | 年老いた農民 |
+|   | 感染者员工A | James the Worker | 怯える感染者 |
+|   | 搬运工 | Johnny | 感染者従業員A |
+|   | 普通感染者B | Kazimierz Villager | 村人 |
+|   | 村民 | Militiaman A | 村民C |
+|   | 村民C | Ordinary Infected B | 村長 |
+|   | 村长 | Porter | 民兵A |
+|   | 民兵A | Tense Infected | 老けている労働者 |
+|   | 王阿伯 | Uncle Wong | 農場主 |
+|   | 紧张的感染者 | Village Headman | 運搬人 |
+|   | 老板 | Villager | 道を急ぐ労働者 |
+|   | 老约翰 | Villager C |   |
+|   | 聒噪的老人 |   |   |
 |   | 苍老的工人 |   |   |
 |   | 菜贩 |   |   |
 |   | 赶路的工人 |   |   |
@@ -343,6 +350,7 @@ tip: 请善用浏览器的搜索功能
 |   | 雇佣兵B |   |   |
 |   | 黑市商人 |   |   |
 |   | 黑市商人A |   |   |
+|   | 黑市打手 |   |   |
 | avg_npc_008 | “上尉” | 'Captain' | ジョー |
 |   | 不明势力的雇佣兵 | Bandit | チンピラB |
 |   | 佣兵A | Bandit Leader | バウンティハンター |
@@ -357,19 +365,20 @@ tip: 请善用浏览器的搜索功能
 |   | 感染者哥哥 | Infected Hooligan | 凶悪な強盗 |
 |   | 感染者暴徒 | Mercenary A | 喋らない賞金ハンター |
 |   | 搜索中的雇佣兵 | Mercenary Captain | 大尉 |
-|   | 暴徒雇佣兵 | Quiet Bounty Hunter | 強盗 |
-|   | 沉默的赏金猎人 | Rickety Joe | 強盗の頭目 |
-|   | 河刃小队佣兵 | Riverblade Squad Mercenary | 感染者の兄 |
-|   | 河刃小队佣兵B | Riverblade Squad Mercenary B | 感染者暴徒 |
-|   | 河刃小队佣兵队长 | Riverblade Squad Mercenary Captain | 捜索中の傭兵 |
-|   | 混混B | Rusthammer Warrior | 物好きなバウンティハンター |
-|   | 王酋据点驻扎人员 | Searching Mercenary | 短気な傭兵 |
-|   | 粗暴的赏金猎人 | Shrewd Bandit | 粗暴な賞金稼ぎ |
-|   | 精明的劫掠者 | Vicious Bandit | 精明的劫掠者 |
-|   | 老乔 | Violent Bounty Hunter | 荒野の男 |
-|   | 老队长 | Wastelander | 負傷した傭兵 |
-|   | 荒地人 | Wounded Mercenary | 賞金稼ぎ |
-|   | 负伤的雇佣兵 |   | 錆槌戦士 |
+|   | 新人佣兵 | Quiet Bounty Hunter | 強盗 |
+|   | 暴徒雇佣兵 | Rickety Joe | 強盗の頭目 |
+|   | 沉默的赏金猎人 | Riverblade Squad Mercenary | 感染者の兄 |
+|   | 河刃小队佣兵 | Riverblade Squad Mercenary B | 感染者暴徒 |
+|   | 河刃小队佣兵B | Riverblade Squad Mercenary Captain | 捜索中の傭兵 |
+|   | 河刃小队佣兵队长 | Rusthammer Warrior | 物好きなバウンティハンター |
+|   | 混混B | Searching Mercenary | 短気な傭兵 |
+|   | 王酋据点驻扎人员 | Shrewd Bandit | 粗暴な賞金稼ぎ |
+|   | 粗暴的赏金猎人 | Vicious Bandit | 精明的劫掠者 |
+|   | 精明的劫掠者 | Violent Bounty Hunter | 荒野の男 |
+|   | 老乔 | Wastelander | 負傷した傭兵 |
+|   | 老队长 | Wounded Mercenary | 賞金稼ぎ |
+|   | 荒地人 |   | 錆槌戦士 |
+|   | 负伤的雇佣兵 |   |   |
 |   | 贪婪的佣兵 |   |   |
 |   | 赏金猎人 |   |   |
 |   | 赏金猎人B |   |   |
@@ -379,6 +388,7 @@ tip: 请善用浏览器的搜索功能
 |   | 雇佣兵A |   |   |
 |   | 雇佣兵队长 |   |   |
 |   | 黑市商人B |   |   |
+|   | 黑市打手B |   |   |
 | avg_npc_009 | 赏金猎人 | Bounty Hunter | 賞金稼ぎ |
 |   | 锈锤成员 | Rusthammer Member | 錆槌メンバー |
 |   | 锈锤战士 | Rusthammer Warrior | 錆槌戦士 |
@@ -442,11 +452,14 @@ tip: 请善用浏览器的搜索功能
 |   | 保镖C | Cronin's Henchman | 社員A |
 |   | 克洛宁的保镖 | Organizing Committee Member | 警備員B |
 |   | 克洛宁的手下 | Security Chief | 警備隊長 |
-|   | 工作人员 | Security Guard B | 護衛 |
-|   | 工作人员A | Ship Guard | 護衛A |
-|   | 查理 | Staff | 護衛B |
-|   | 矿场打手 | Staff Worker | 護衛C |
-|   | 船长护卫 | Worker A |   |
+|   | 奥提 | Security Guard B | 護衛 |
+|   | 工作人员 | Ship Guard | 護衛A |
+|   | 工作人员A | Staff | 護衛B |
+|   | 查理 | Staff Worker | 護衛C |
+|   | 矿场打手 | Worker A |   |
+|   | 船长护卫 |   |   |
+|   | 调查员 |   |   |
+|   | 雷神工业保安 |   |   |
 | avg_npc_021 | 娱乐报记者 | Audience Member A | 客A |
 |   | 店主B | Audience Member C | 店主B |
 |   | 男性游客 | Customer A | 男性観光客 |
@@ -628,19 +641,21 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_054 | 凶恶的萨卡兹劫匪 | Burly Townsfolk | ガタイの良い町民 |
 |   | 奇怪的镇民 | Ferocious Sarkaz Bandit | サルカズ傭兵 |
 |   | 慌乱的萨卡兹劫匪 | Guerrilla Sarkaz | サルカズ傭兵B |
-|   | 游击队萨卡兹 | Panicking Sarkaz Bandit | サルカズ傭兵のリーダー |
-|   | 萨卡兹佣兵 | Sarkaz Assassin | サルカズ傭兵隊長 |
-|   | 萨卡兹佣兵领袖 | Sarkaz Mercenary | サルカズ強盗 |
-|   | 萨卡兹劫匪 | Sarkaz Mercenary B | サルカズ戦士 |
-|   | 萨卡兹头目 | Sarkaz Mercenary Captain | サルカズ戦士？ |
-|   | 萨卡兹战士 | Sarkaz Mercenary Leader | サルカズ殺し屋 |
-|   | 萨卡兹战士？ | Sarkaz Overseer | サルカズ謀反者 |
-|   | 萨卡兹杀手 | Sarkaz Robber | サルカズ頭目 |
-|   | 萨卡兹谋反者 | Sarkaz Traitor | 凶悪なサルカズ強盗 |
-|   | 萨卡兹雇佣兵 | Sarkaz Warrior | 奇妙な町民 |
-|   | 萨卡兹雇佣兵A | Sarkaz Warrior? | 慌てるサルカズ強盗 |
-|   | 萨卡兹雇佣兵B | Strange Townsfolk | 遊撃隊サルカズ戦士 |
-|   | 萨卡兹雇佣兵队长 |   | 風変わりな町民 |
+|   | 格林 | Panicking Sarkaz Bandit | サルカズ傭兵のリーダー |
+|   | 游击队萨卡兹 | Sarkaz Assassin | サルカズ傭兵隊長 |
+|   | 萨卡兹佣兵 | Sarkaz Mercenary | サルカズ強盗 |
+|   | 萨卡兹佣兵领袖 | Sarkaz Mercenary B | サルカズ戦士 |
+|   | 萨卡兹劫匪 | Sarkaz Mercenary Captain | サルカズ戦士？ |
+|   | 萨卡兹头目 | Sarkaz Mercenary Leader | サルカズ殺し屋 |
+|   | 萨卡兹战士 | Sarkaz Overseer | サルカズ謀反者 |
+|   | 萨卡兹战士？ | Sarkaz Robber | サルカズ頭目 |
+|   | 萨卡兹杀手 | Sarkaz Traitor | 凶悪なサルカズ強盗 |
+|   | 萨卡兹谋反者 | Sarkaz Warrior | 奇妙な町民 |
+|   | 萨卡兹雇佣兵 | Sarkaz Warrior? | 慌てるサルカズ強盗 |
+|   | 萨卡兹雇佣兵A | Strange Townsfolk | 遊撃隊サルカズ戦士 |
+|   | 萨卡兹雇佣兵B |   | 風変わりな町民 |
+|   | 萨卡兹雇佣兵队长 |   |   |
+|   | 雇佣兵队长 |   |   |
 |   | 魁梧的镇民 |   |   |
 | avg_npc_055 | 赦罪师 | Confessarius | 聴罪師 |
 | avg_npc_056 | 特蕾西娅 | Theresa | テレジア |
@@ -755,6 +770,7 @@ tip: 请善用浏览器的搜索功能
 |   | 强壮的男人 | Shadow | ウルサス農民 |
 |   | 憔悴的工人 | Ursus Farmer | 屈強な男 |
 |   | 皮克特大叔 | Ursus Villager | 黒い影 |
+|   | 达雷尔 |   |   |
 |   | 陌生人 |   |   |
 |   | 雷蒙德 |   |   |
 |   | 黑影 |   |   |
@@ -762,6 +778,8 @@ tip: 请善用浏览器的搜索功能
 |   | 乌萨斯军官B | Ursus Officer | ウルサス士官B |
 |   | 乌萨斯士兵 | Ursus Officer B | ウルサス将校 |
 |   | 感染者纠察队 | Ursus Soldier | 感染者監視隊 |
+| avg_npc_083 | 普瑞赛斯 | - | - |
+|   | 普瑞赛斯？ |   |   |
 | avg_npc_084 | 伊诺 | Eno | おずおずした子供 |
 |   | 怯生生的孩子 | Timid Child | イーノ |
 | avg_npc_085 | 萨沙 | Sasha | サーシャ |
@@ -817,6 +835,7 @@ tip: 请善用浏览器的搜索功能
 |   | 路过的老妇人 |   |   |
 | avg_npc_094 | 感染者 | An Infected Refugee | 感染者 |
 |   | 感染者难民 | Infected | 感染者難民 |
+|   | 胆小的居民 |   |   |
 | avg_npc_095 | Pith | Pith | Pith |
 | avg_npc_096 | 杰西卡 | Jessica | ジェシカ |
 | avg_npc_101 | 光头马丁 | Bald Marcin | 禿頭マーティン |
@@ -885,6 +904,7 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_134 | 狱警 | Jailer | 看守 |
 |   | 狱警A | Jailer A | 看守A |
 |   | 狱警B | Jailer B | 看守B |
+|   | 监狱负责人 |   |   |
 | avg_npc_135 | 巴顿 | Barton | バートン |
 | avg_npc_136 | 塞雷娅 | Jailer | サリア |
 |   | 杰斯顿 | Jailer B | ジェッセルトン |
@@ -943,12 +963,13 @@ tip: 请善用浏览器的搜索功能
 |   | 爱麦拉 | Passerby Sargon Townsfolk | 灰头土脸的女人 |
 |   | 路过的萨尔贡镇民 |   |   |
 |   | 阿诺 |   |   |
-| avg_npc_164 | 奋战的部族人 | Disheveled Person | ボロを纏った人 |
-|   | 感染者镇民 | Infected Townsfolk | 巻き込まれた行商人 |
-|   | 落魄商人 | Mayor's Secretary | 巻き込まれた行商人？ |
-|   | 衣衫褴褛者 | Swept-Up Trader | 感染者の町民 |
-|   | 被卷入的行商 | Swept-Up Trader? | 落ちぶれた商人 |
-|   | 被卷入的行商？ | Vengeful Merchant | 镇长秘书 |
+| avg_npc_164 | 傲慢的商人 | Disheveled Person | ボロを纏った人 |
+|   | 奋战的部族人 | Infected Townsfolk | 巻き込まれた行商人 |
+|   | 感染者镇民 | Mayor's Secretary | 巻き込まれた行商人？ |
+|   | 落魄商人 | Swept-Up Trader | 感染者の町民 |
+|   | 衣衫褴褛者 | Swept-Up Trader? | 落ちぶれた商人 |
+|   | 被卷入的行商 | Vengeful Merchant | 镇长秘书 |
+|   | 被卷入的行商？ |   |   |
 |   | 镇长秘书 |   |   |
 |   | 颓废的散兵 |   |   |
 | avg_npc_165 | 局促的使节 | Impatient Ambassador | サルゴン町民？ |
@@ -995,6 +1016,7 @@ tip: 请善用浏览器的搜索功能
 |   | 本地法官A | Tipsy Businessman | 男性貴族 |
 |   | 温和的贵族 | Victorian Magnate | 貪欲な商人 |
 |   | 热情的商人 |   |   |
+|   | 维多利亚伯爵 |   |   |
 |   | 维多利亚富商 |   |   |
 |   | 肥胖的商人 |   |   |
 |   | 莱塔尼亚男贵族 |   |   |
@@ -1016,6 +1038,7 @@ tip: 请善用浏览器的搜索功能
 |   | 精明的贵族 |   |   |
 |   | 胆怯的市民 |   |   |
 |   | 衣着富贵的男人 |   |   |
+|   | 谄媚的贵族 |   |   |
 |   | 贝希曼 |   |   |
 |   | 贵族女性&富有的男性 |   |   |
 |   | 贵族男性 |   |   |
@@ -1154,21 +1177,22 @@ tip: 请善用浏览器的搜索功能
 |   | 感染者骑士A | An Infected Knight A | 感染者騎士 |
 |   | 感染者骑士B | An Infected Knight B | 感染者騎士A |
 |   | 沙哑的骑士 | Infected Knight-Engineer | 感染者騎士B |
-| avg_npc_222 | 企业员工 | A Corporate Employee | カジミエーシュ代表 |
-|   | 卡西米尔代表 | An Arena Worker | ジャン |
-|   | 哈姆 | Angry Ambassador | スーツ姿の男 |
-|   | 商业间谍 | Chang | ハム |
-|   | 国民院代表 | Commercial Agent | マネージャー |
-|   | 客户方代表 | Corporate Employee | レイジアン工業代表 |
-|   | 张先生 | Hamm | 企業職員 |
-|   | 愤慨的使节 | Kazimierz Representative | 商業スパイ |
-|   | 秘书 | Man in a Suit | 国民議会代表 |
-|   | 竞技场员工 | Manager | 怒った使節 |
-|   | 经纪人 | National Council Representative | 真面目な企業職員 |
-|   | 职员模样的男人 | Raythean Industries Representative | 秘書 |
-|   | 西装革履的男人 | Secretary | 競技場職員 |
-|   | 认真的企业员工 | Serious Corporate Employee | 職員のような男 |
-|   | 雷神工业代表 | Staff |   |
+| avg_npc_222 | 人事部员工 | A Corporate Employee | カジミエーシュ代表 |
+|   | 企业员工 | An Arena Worker | ジャン |
+|   | 卡西米尔代表 | Angry Ambassador | スーツ姿の男 |
+|   | 哈姆 | Chang | ハム |
+|   | 商业间谍 | Commercial Agent | マネージャー |
+|   | 国民院代表 | Corporate Employee | レイジアン工業代表 |
+|   | 客户方代表 | Hamm | 企業職員 |
+|   | 张先生 | Kazimierz Representative | 商業スパイ |
+|   | 愤慨的使节 | Man in a Suit | 国民議会代表 |
+|   | 秘书 | Manager | 怒った使節 |
+|   | 竞技场员工 | National Council Representative | 真面目な企業職員 |
+|   | 经纪人 | Raythean Industries Representative | 秘書 |
+|   | 职员模样的男人 | Secretary | 競技場職員 |
+|   | 西装革履的男人 | Serious Corporate Employee | 職員のような男 |
+|   | 认真的企业员工 | Staff |   |
+|   | 雷神工业代表 |   |   |
 |   | 高傲的官员 |   |   |
 | avg_npc_223 | 下班的员工 | A Commuting Worker | 中間管理職 |
 |   | 中层经理 | A Corporate Employee | 仕事帰りの職員 |
@@ -1178,10 +1202,12 @@ tip: 请善用浏览器的搜索功能
 |   | 势利的官员 | Funeral Parlor Staff | 情報提供者 |
 |   | 工作人员 | Informant | 支店長 |
 |   | 报案人 | Knight Scout | 男性 |
-|   | 男生 | Mid-level Manager | 疲労した企業職員 |
-|   | 疲倦的企业员工 | Staff Worker | 職員 |
-|   | 礼仪社员工 | Tired Corporate Employee | 葬儀社社員 |
-|   | 线人 |   | 騎士スカウト |
+|   | 教授助理 | Mid-level Manager | 疲労した企業職員 |
+|   | 男生 | Staff Worker | 職員 |
+|   | 疲倦的企业员工 | Tired Corporate Employee | 葬儀社社員 |
+|   | 研究员 |   | 騎士スカウト |
+|   | 礼仪社员工 |   |   |
+|   | 线人 |   |   |
 |   | 骑探 |   |   |
 | avg_npc_224 | “银枪的天马” | 'A Silverlance Pegasus' | 「銀槍のペガサス」 |
 | avg_npc_225 | 逐魇骑士 | Nightmare Knight | 追魔騎士 |
@@ -1206,6 +1232,7 @@ tip: 请善用浏览器的搜索功能
 |   | 于里安 | Knight | クレイグ |
 |   | 克雷格 | Naughty Child | 騎士 |
 |   | 寒酸的小贩 |   |   |
+|   | 小孩子 |   |   |
 |   | 瘦弱的孩子 |   |   |
 |   | 顽皮的孩子 |   |   |
 |   | 骑士 |   |   |
@@ -1268,7 +1295,8 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_247 | “纵火家” | 'The Immolator' | 「放火魔」 |
 | avg_npc_248 | 严厉的军官 | Adjutant Hill | ヴィクトリア兵A |
 |   | 副官希尔 | Victorian Soldier A | ヴィクトリア兵B |
-|   | 尖刻的军官 | Victorian Soldier B | 副官ヒル |
+|   | 参谋 | Victorian Soldier B | 副官ヒル |
+|   | 尖刻的军官 |   |   |
 |   | 巡逻队士兵 |   |   |
 |   | 巡逻队队员 |   |   |
 |   | 维多利亚军人A |   |   |
@@ -1309,7 +1337,8 @@ tip: 请善用浏览器的搜索功能
 |   | 谢拉格平民D | Kjerag Merchant B | イェラグ民間人D |
 | avg_npc_279_1 | 小贩A | Hawker A | ララの父 |
 |   | 年长的领民 | Lara's Father | 年長の領民 |
-|   | 洛拉父亲 | Senior Subject | 露店商A |
+|   | 朝拜的老者 | Senior Subject | 露店商A |
+|   | 洛拉父亲 |   |   |
 | avg_npc_280_1 | 谢拉格平民B | Kjerag Civilian B | イェラグ民間人B |
 |   | 谢拉格贵族B | Kjerag Noble B | イェラグ貴族B |
 |   | 邻居 | Neighbor | 隣人 |
@@ -1388,6 +1417,7 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_327_1 | Guard | Guard | Guard |
 | avg_npc_328_1 | 雷德 | Red | レイド |
 | avg_npc_329_1 | 感染者毕恩 | Bean the Infected | 感染者ビーン |
+|   | 戈登 |   |   |
 | avg_npc_330_1 | 加勒斯 | Gareth | ガレス |
 |   | 整合运动战士 | Reunion Warrior | レユニオン戦士 |
 | avg_npc_331_1 | 医生 | Doc | 医者 |
@@ -1601,13 +1631,15 @@ tip: 请善用浏览器的搜索功能
 |   | 莱塔尼亚贵族 | Nitpicking Critic | 華やかな服装の貴族 |
 |   | 衣着华丽的贵族 | Resplendently Dressed Noble | 落ち着いた貴族 |
 |   | 面无表情的贵族 | Stoic-Looking Noble | 酷薄な批評家 |
+|   | 音乐家 |   |   |
 | avg_npc_494_1 | 小吃摊主 | Food Stall Owner | 露店の主人 |
 | avg_npc_495_1 | 爷爷 | Grandpa | おじいさん |
 |   |   | Old Man | お爺さん |
-| avg_npc_496_1 | 好事的感染者 | Despondent Infected | おどおどする演奏家 |
-|   | 悲伤的感染者 | Mannered Infected | 悲しむ感染者 |
-|   | 惴惴不安的乐手 | Meddlesome Infected | 物好きな感染者 |
-|   | 礼貌的感染者 | Nervous Musician | 礼儀正しい感染者 |
+| avg_npc_496_1 | 侍从 | Despondent Infected | おどおどする演奏家 |
+|   | 好事的感染者 | Mannered Infected | 悲しむ感染者 |
+|   | 悲伤的感染者 | Meddlesome Infected | 物好きな感染者 |
+|   | 惴惴不安的乐手 | Nervous Musician | 礼儀正しい感染者 |
+|   | 礼貌的感染者 |   |   |
 | avg_npc_497_1 | 丧气的感染者 | Cheerful Infected | うなだれる感染者 |
 |   | 和善的感染者 | Dispirited Infected | 優しい感染者 |
 |   | 坚强的感染者 | Expectant Audience Member | 明るい感染者 |
@@ -1636,36 +1668,57 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_521_1 | Mechanist | Mechanist | Mechanist |
 | avg_npc_522_1 | 斐尔迪南 | Ferdinand | フェルディナンド |
 | avg_npc_523_1 | 停尸间员工 | Drunkard | 酔っぱらった男 |
+|   | 副总统秘书 |   |   |
+|   | 司机 |   |   |
 |   | 愉快的哥伦比亚人 |   |   |
+|   | 米莱斯 |   |   |
+|   | 街边摊贩 |   |   |
 |   | 警察 |   |   |
+|   | 记者B |   |   |
+|   | 记者？ |   |   |
 |   | 轻佻的哥伦比亚人 |   |   |
 |   | 醉醺醺的男人 |   |   |
 | avg_npc_524_1 | 工作人员 | Bar Patron | トリマウンツ市民 |
 |   | 活泼的女性 | Cheery Woman | バーの客 |
 |   | 特里蒙市民 | Trimountarian | 活発な女性 |
+|   | 紧张的创业者 |   |   |
+|   | 记者 |   |   |
+|   | 记者A |   |   |
 |   | 酒吧客人 |   |   |
 |   | 高瘦的女人 |   |   |
-| avg_npc_526_1 | 哥伦比亚士兵 | Columbian Soldier | クルビア兵 |
-|   | 奇怪的动力甲 | Strange Power Armor | 奇妙なパワードスーツ |
-|   |   | Strange power armor |   |
+| avg_npc_526_1 | 动力甲士兵 | Columbian Soldier | クルビア兵 |
+|   | 动力甲士兵？ | Strange Power Armor | 奇妙なパワードスーツ |
+|   | 哥伦比亚士兵 | Strange power armor |   |
+|   | 奇怪的动力甲 |   |   |
+|   | 沉默的动力甲 |   |   |
 | avg_npc_527_1 | 玛丽 | Mary | メアリー |
 | avg_npc_528_1 | 莱茵防卫科成员 | Rhine Defense Member | ライン生命警備課職員 |
-|   |   | Rhine Defense Section Employee |   |
-| avg_npc_529_1 | 研究员B | Luli | ライン生命研究員 |
-|   | 研究员D | Researcher B | ル―リー |
-|   | 莱茵实验员 | Researcher D | 研究員B |
-|   | 莱茵研究员 | Rhine Lab Tech | 研究員D |
-|   | 露莉 | Rhine Researcher |   |
-| avg_npc_530_1 | 研究员A | Researcher A | ライン生命研究員 |
-|   | 研究员C | Researcher C | 研究員A |
-|   | 莱茵实验员 | Rhine Lab Tech | 研究員C |
+|   | 防卫科成员 | Rhine Defense Section Employee |   |
+|   | 防卫科成员？ |   |   |
+| avg_npc_529_1 | 商务科文员 | Luli | ライン生命研究員 |
+|   | 研究员B | Researcher B | ル―リー |
+|   | 研究员D | Researcher D | 研究員B |
+|   | 莱茵实验员 | Rhine Lab Tech | 研究員D |
+|   | 莱茵研究员 | Rhine Researcher |   |
+|   | 莱茵职员 |   |   |
+|   | 莱茵职员A |   |   |
+|   | 露莉 |   |   |
+| avg_npc_530_1 | 研究员 | Researcher A | ライン生命研究員 |
+|   | 研究员A | Researcher C | 研究員A |
+|   | 研究员C | Rhine Lab Tech | 研究員C |
+|   | 能量科研究员 |   |   |
+|   | 莱茵实验员 |   |   |
+|   | 莱茵职员B |   |   |
+|   | 莱茵职员？ |   |   |
 | avg_npc_531_1 | 帕尔维斯 | Parvis | パルヴィス |
 | avg_npc_532_1 | 塞雷娅 | Saria | サリア |
 | avg_npc_533_1 | 形状奇特的物体 | Strange Entity | 奇妙な形状の物体 |
+|   | 递质 |   |   |
 | avg_npc_534_1 | 参赛者B | Contestant B | 参加者B |
-|   | 拓荒队成员 | Frontier Team Member | 開拓隊の隊員 |
-|   |   | Pioneer |   |
-|   |   | Pioneer Team Member |   |
+|   | 市民？ | Frontier Team Member | 開拓隊の隊員 |
+|   | 拓荒队成员 | Pioneer |   |
+|   | 无家可归的居民 | Pioneer Team Member |   |
+|   | 普通市民？ |   |   |
 | avg_npc_535_1 | 桑尼 | Sonny | サニー |
 | avg_npc_536_1 | 霍尔海雅 | Ho'olheyak | ホルハイヤ |
 | avg_npc_537_1 | 克丽斯腾 | Kirsten | クリステン |
@@ -1734,7 +1787,8 @@ tip: 请善用浏览器的搜索功能
 |   | 贫民区青年 |   |   |
 |   | 魁梧的男人 |   |   |
 | avg_npc_602_1 | 扬尼 | Yangni | ヤニー |
-| avg_npc_603_1 | 鼷兽 | Musbeast | 鼷獣 |
+| avg_npc_603_1 | “生命” | Musbeast | 鼷獣 |
+|   | 鼷兽 |   |   |
 | avg_npc_604_1 | 比丢 | Biu | ビジュー |
 | avg_npc_605_1 | 大力士 | B.I.G. | ぴーちゃん |
 |   | 小冰 | Hammer | アイス |
@@ -1768,6 +1822,7 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_658_1 | 管家艾尔希 | Ailshie | 執事エルシー |
 | avg_npc_659_1 | 伦蒂尼姆工人 | Londinium Worker | ロンディニウム工員 |
 |   | 伦蒂尼姆工人B |   |   |
+|   | 维多利亚工人 |   |   |
 | avg_npc_660_1 | 伦蒂尼姆工人 | Londinium Worker | ロンディニウム工員 |
 |   | 伦蒂尼姆工人A |   |   |
 | avg_npc_661_1 | 农民 | Farmer | 暴君 |
@@ -1951,6 +2006,32 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_867_1 | “灰礼帽” | - | - |
 | avg_npc_868_1 | 温德米尔公爵 | - | - |
 | avg_npc_869_1 | 埃芒加德 | - | - |
+| avg_npc_890_1 | 斐尔迪南 | - | - |
+| avg_npc_891_1 | 娜斯提 | - | - |
+| avg_npc_892_1 | 小贾斯汀 | - | - |
+|   | 精英打扮的男性 |   |   |
+| avg_npc_893_1 | 玛丽安娜 | - | - |
+|   | 雅拉 |   |   |
+| avg_npc_894_1 | “洛肯” | - | - |
+|   | 三十号 |   |   |
+|   | 洛肯 |   |   |
+|   | 熟悉的影子 |   |   |
+| avg_npc_895_1 | 伊芙利特 | - | - |
+| avg_npc_896_1 | 塞雷娅 | - | - |
+| avg_npc_897_1 | 杰克逊 | - | - |
+| avg_npc_899_1 | 军士模样的人 | - | - |
+|   | 布莱克 |   |   |
+| avg_npc_900_1 | 锡人 | - | - |
+| avg_npc_901_1 | 哥伦比亚士兵 | - | - |
+|   | 哥伦比亚士兵A |   |   |
+|   | 哥伦比亚士兵B |   |   |
+|   | 特工A |   |   |
+|   | 特工B |   |   |
+|   | 狙击手 |   |   |
+| avg_npc_902_1 | 总辖构件科雇员 | - | - |
+|   | 总辖构件科雇员A |   |   |
+|   | 总辖构件科雇员B |   |   |
+|   | 总辖构件科雇员C |   |   |
 | avgnew_112_siege_1 | 推进之王 | - | - |
 | avgnew_126_shotst_1 | 流星 | Meteor | メテオ |
 | avgnew_129_bluep_1 | 蓝毒 | Blue Poison | アズリウス |
@@ -1961,6 +2042,7 @@ tip: 请善用浏览器的搜索功能
 |   | 铸剑师 | Swordsmith |   |
 | avgnew_2015_dusk_1 | 夕 | Dusk | シー |
 | avgnew_275_breeze_1 | 格蕾丝 | - | - |
+| avgnew_326_glacus_1 | 格劳克斯 | - | - |
 | avgnew_455_nothing_1 | “荆先生” | 'Mr. Chasteberry' | 「ジィンさん」 |
 |   | 乌有 | Mr. Nothing | ウユウ |
 | avgnew_469_indigo_1 | 深靛 | Indigo | インディゴ |
@@ -1969,6 +2051,7 @@ tip: 请善用浏览器的搜索功能
 | char_002_amiya_1 | 华法琳 | Amiya | アーミヤ |
 |   | 闪灵 | Shining | シャイニング |
 |   | 阿米娅 | Warfarin | ワルファリン |
+|   | 阿米娅？ |   |   |
 | char_002_amiya_summer_2 | 阿米娅 | Amiya | アーミヤ |
 | char_003_kalts_1 | 凯尔希 | Elysium | エリジウム |
 |   | 极境 | Kal'tsit | ケルシー |
