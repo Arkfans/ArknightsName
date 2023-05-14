@@ -1073,6 +1073,15 @@
     "ja_JP": "満月",
     "zh_CN": "满月"
   },
+  "skchr_heyak_1": {
+    "zh_CN": "但为求索"
+  },
+  "skchr_heyak_2": {
+    "zh_CN": "群星逶迤"
+  },
+  "skchr_heyak_3": {
+    "zh_CN": "博览者的狂语"
+  },
   "skchr_highmo_1": {
     "zh_CN": "回首，断舍"
   },
@@ -1458,6 +1467,12 @@
     "ja_JP": "セーフティゾーン",
     "zh_CN": "安全区域"
   },
+  "skchr_melnte_1": {
+    "zh_CN": "饱和脉冲"
+  },
+  "skchr_melnte_2": {
+    "zh_CN": "临界爆发"
+  },
   "skchr_meteo_1": {
     "en_US": "Buckshot",
     "ja_JP": "散弾装填",
@@ -1537,6 +1552,15 @@
     "en_US": "Unbrilliant Glory",
     "ja_JP": "輝かざる栄光",
     "zh_CN": "未照耀的荣光"
+  },
+  "skchr_mlyss_1": {
+    "zh_CN": "渐进性润化"
+  },
+  "skchr_mlyss_2": {
+    "zh_CN": "生态耦合"
+  },
+  "skchr_mlyss_3": {
+    "zh_CN": "浅层非熵适应"
   },
   "skchr_mm_1": {
     "en_US": "Paralyzing Shell",
@@ -2129,6 +2153,15 @@
     "en_US": "Glorious Banner",
     "ja_JP": "光輝の御旗",
     "zh_CN": "光辉旗帜"
+  },
+  "skchr_slent2_1": {
+    "zh_CN": "进取之心"
+  },
+  "skchr_slent2_2": {
+    "zh_CN": "俯瞰视界"
+  },
+  "skchr_slent2_3": {
+    "zh_CN": "无畏者协议"
   },
   "skchr_snakek_2": {
     "en_US": "Shell Defense",
@@ -3047,6 +3080,9 @@
     "ja_JP": "シャッター",
     "zh_CN": "关闭闸门"
   },
+  "sktok_gractrl": {
+    "zh_CN": "重力生成"
+  },
   "sktok_gtreasure": {
     "zh_CN": "可被击破"
   },
@@ -3154,6 +3190,15 @@
   },
   "sktok_mire": {
     "zh_CN": "沼泽控制"
+  },
+  "sktok_mlyss_wtrman_1": {
+    "zh_CN": "流形"
+  },
+  "sktok_mlyss_wtrman_2": {
+    "zh_CN": "流形"
+  },
+  "sktok_mlyss_wtrman_3": {
+    "zh_CN": "流形"
   },
   "sktok_motter_1": {
     "en_US": "Bionic Device",
@@ -3369,6 +3414,9 @@
     "en_US": "Rescue Rope",
     "ja_JP": "救援ロープ",
     "zh_CN": "救援绳索"
+  },
+  "sktok_slent2_protrb": {
+    "zh_CN": "夜灯"
   },
   "sktok_slowfd": {
     "en_US": "High-Pressure Spray",

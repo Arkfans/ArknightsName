@@ -52,6 +52,7 @@ tip: 请善用浏览器的搜索功能
 | story_chyue_set_1_story_1 | 昔我往矣 | - | - |
 | story_cutter_set_1_story_1 | 速食食品 | Meals, Ready-to-Eat | 携行食 |
 | story_deepcl_set_1_story_1 | 幽蓝怀想 | - | - |
+| story_doroth_set_1_story_1 | 何处是我朋友的家 | - | - |
 | story_durin_set_1_story_1 | 午休时间 | Lunchtime Nap | お昼休み |
 | story_durnar_set_1_story_1 | 额外训练 | Extra Training | 追加訓練 |
 | story_durnar_set_2_story_1 | 杯中旧事 | A Glass with Old Stories | グラスに注ぐ思い出 |
@@ -71,9 +72,11 @@ tip: 请善用浏览器的搜索功能
 | story_folivo_set_1_story_1 | 记录者 | Recorder | 記録者 |
 | story_franka_set_1_story_1 | 往日的象征 | Symbols of the Past | 在りし日の象徴 |
 | story_frncat_set_1_story_1 | 小点心 | - | - |
+| story_frostl_set_1_story_1 | 识字本 | - | - |
 | story_ghost2_set_1_story_1 | 自我 | Selfhood | 自分 |
 | story_ghost_set_1_story_1 | 圣诞快乐！ | Merry Christmas! | メリークリスマス！ |
 | story_ghost_set_2_story_1 | 我，即是“我” | I, Namely I | 私は「私」 |
+| story_glacus_set_1_story_1 | 以我双腿 | - | - |
 | story_glady_set_1_story_1 | 失水症 | Dehydration | 脱水症 |
 | story_glassb_set_1_story_1 | 走吧，走吧 | Let's Go, Let's Go | さあ、行こう |
 | story_glider_set_1_story_1 | 苦涩的根茎 | - | - |
@@ -132,6 +135,7 @@ tip: 请善用浏览器的搜索功能
 | story_otter_set_1_story_1 | 满满的日程表 | One Packed Daily Schedule | 仕事三昧 |
 | story_otter_set_2_story_1 | 造物之心 | Heart of Creation | 創り出す心 |
 | story_panda_set_1_story_1 | 一落千丈 | Nosedive | 一落千丈 |
+| story_peper_set_1_story_1 | 少年雇佣兵 | - | - |
 | story_phatom_set_1_story_1 | 合作 | Cooperation | 協力 |
 | story_phenxi_set_1_story_1 | 乐园 | Paradisus | 楽園 |
 | story_pinecn_set_1_story_1 | 展信好 | Yours Sincerely | 拝啓 |
@@ -153,6 +157,7 @@ tip: 请善用浏览器的搜索功能
 | story_savage_set_2_story_2 | 自有一“派” | No Less Than a Pie | パイはいかが？ |
 | story_scave_set_1_story_1 | 硬币的意志 | The Will of a Coin | コインの意志 |
 | story_serum_set_1_story_1 | 蚀清的工牌 | - | - |
+| story_sesa_set_1_story_1 | 致命诱惑 | - | - |
 | story_shotst_set_1_story_1 | 滚烫旧忆 | Scalding Old Memories | 熱傷の記憶 |
 | story_shotst_set_2_story_1 | 两难 | Dilemma | 板挟み |
 | story_shwaz_set_1_story_1 | 离乡之日 | 'The Day We Left Home' | 故郷を去る日 |

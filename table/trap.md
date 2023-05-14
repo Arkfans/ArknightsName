@@ -112,6 +112,7 @@ tip: 请善用浏览器的搜索功能
 | trap_114_smkbmb | 爆裂毒气罐 | - | - |
 | trap_115_gasctrl | 毒雾塔控制 | - | - |
 | trap_116_stdurk | “过去的我” | - | - |
+| trap_121_gractrl | 重力 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | - | - |
 | trap_401_xbfato | 采集实习站 | - | - |
 | trap_403_wfactory | 蟹蟹抽水泵 | - | - |

@@ -42,6 +42,7 @@ tip: 请善用浏览器的搜索功能
 | act15d0 | 孤岛风云 | Mansfield Break | 孤島激震 |
 | act15d1 | 跨年限时登录活动 | Limited-time Login Event | スタンプラリー |
 | act15d5 | 此地之外 | Beyond Here | 彼方を望む |
+| act15login | 登录领取奖励 | - | - |
 | act15side | 将进酒 | Invitation to Wine | 将進酒 |
 | act15sre | 将进酒·复刻 | - | - |
 | act16d5 | 画中人 | Who Is Real | 画中人 |
@@ -68,6 +69,7 @@ tip: 请善用浏览器的搜索功能
 | act19side | 绿野幻梦 | Dorothy's Vision | 翠玉の夢 |
 | act19sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act1bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
+| act1checkin | 未来序曲签到活动 | - | - |
 | act1d5 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act1flip | 哗啦啦祈愿牌 | - | - |
 | act1float | 纽莱堡市产业合作洽谈会 | - | - |
@@ -84,6 +86,7 @@ tip: 请善用浏览器的搜索功能
 | act23sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act24side | 落叶逐火 | - | - |
 | act24sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
+| act25side | 孤星 | - | - |
 | act25sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act26sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act27sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
@@ -108,6 +111,7 @@ tip: 请善用浏览器的搜索功能
 | act4d2 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act4d5 | 限时积分任务 | - | - |
 | act4fun | 愚人节活动 | - | - |
+| act4mine | 潘尼谷矿区登录活动 | - | - |
 | act4pray | 际崖城惊奇墙登录活动 | Zeruertza Amazing Wall Login Event | 宝くじ
 イベント |
 | act5d0 | 喧闹法则 | Code of Brawl | 喧騒の掟 |

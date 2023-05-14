@@ -172,6 +172,9 @@
     "ja_JP": "彼方を望む",
     "zh_CN": "此地之外"
   },
+  "act15login": {
+    "zh_CN": "登录领取奖励"
+  },
   "act15side": {
     "en_US": "Invitation to Wine",
     "ja_JP": "将進酒",
@@ -296,6 +299,9 @@
     "ja_JP": "導灯の試練",
     "zh_CN": "引航者试炼"
   },
+  "act1checkin": {
+    "zh_CN": "未来序曲签到活动"
+  },
   "act1d5": {
     "en_US": "Limited-time Cumulative Sign-in",
     "ja_JP": "期間限定ログインボーナス",
@@ -359,6 +365,9 @@
     "en_US": "Limited-time Cumulative Sign-in",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
+  },
+  "act25side": {
+    "zh_CN": "孤星"
   },
   "act25sign": {
     "en_US": "Limited-time Cumulative Sign-in",
@@ -467,6 +476,9 @@
   },
   "act4fun": {
     "zh_CN": "愚人节活动"
+  },
+  "act4mine": {
+    "zh_CN": "潘尼谷矿区登录活动"
   },
   "act4pray": {
     "en_US": "Zeruertza Amazing Wall Login Event",

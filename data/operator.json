@@ -91,6 +91,9 @@
   "char_1030_noirc2": {
     "zh_CN": "火龙S黑角"
   },
+  "char_1031_slent2": {
+    "zh_CN": "淬羽赫默"
+  },
   "char_103_angel": {
     "en_US": "Exusiai",
     "ja_JP": "エクシア",
@@ -567,6 +570,9 @@
     "ja_JP": "マゼラン",
     "zh_CN": "麦哲伦"
   },
+  "char_249_mlyss": {
+    "zh_CN": "缪尔赛思"
+  },
   "char_250_phatom": {
     "en_US": "Phantom",
     "ja_JP": "ファントム",
@@ -945,6 +951,9 @@
     "ja_JP": "プリン",
     "zh_CN": "布丁"
   },
+  "char_4006_melnte": {
+    "zh_CN": "玫拉"
+  },
   "char_4009_irene": {
     "en_US": "Irene",
     "ja_JP": "アイリーニ",
@@ -985,6 +994,9 @@
     "en_US": "Shalem",
     "ja_JP": "シャレム",
     "zh_CN": "暮落"
+  },
+  "char_4027_heyak": {
+    "zh_CN": "霍尔海雅"
   },
   "char_402_tuye": {
     "en_US": "Tuye",

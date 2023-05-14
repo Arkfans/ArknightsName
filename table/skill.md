@@ -225,6 +225,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_helage_1 | 新月 | Crescent Moon | 新月 |
 | skchr_helage_2 | 弦月 | Half Moon | 弦月 |
 | skchr_helage_3 | 满月 | Full Moon | 満月 |
+| skchr_heyak_1 | 但为求索 | - | - |
+| skchr_heyak_2 | 群星逶迤 | - | - |
+| skchr_heyak_3 | 博览者的狂语 | - | - |
 | skchr_highmo_1 | 回首，断舍 | - | - |
 | skchr_highmo_2 | 泡影，殆尽 | - | - |
 | skchr_hmau_1 | 反制治疗 | Treatment Countermeasure | 応急処置・受動 |
@@ -308,6 +311,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_mantic_2 | 蓄力毒尾击 | Toxic Overload | スコーピオンテール |
 | skchr_mberry_1 | 治愈云雾 | Healing Haze | ヒーリングミスト |
 | skchr_mberry_2 | 安全区域 | Safe Zone | セーフティゾーン |
+| skchr_melnte_1 | 饱和脉冲 | - | - |
+| skchr_melnte_2 | 临界爆发 | - | - |
 | skchr_meteo_1 | 霰射弹头 | Buckshot | 散弾装填 |
 | skchr_meteo_2 | 高爆弹头 | High-Explosive Shell | 榴弾装填 |
 | skchr_mgllan_1 | 高效制冷模块 | High-Efficiency Freezing Module | フリーズモジュール |
@@ -324,6 +329,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_mlynar_1 | 未声张的怒火 | Unvoiced Anger | 秘めたる怒り |
 | skchr_mlynar_2 | 未宽解的悲哀 | Unresolved Sorrow | 癒えぬ悲しみ |
 | skchr_mlynar_3 | 未照耀的荣光 | Unbrilliant Glory | 輝かざる栄光 |
+| skchr_mlyss_1 | 渐进性润化 | - | - |
+| skchr_mlyss_2 | 生态耦合 | - | - |
+| skchr_mlyss_3 | 浅层非熵适应 | - | - |
 | skchr_mm_1 | 麻痹弹 | Paralyzing Shell | ストップショット |
 | skchr_mm_2 | 束缚电击 | Binding Shock | スタンショック |
 | skchr_moeshd_1 | 自动防御 | Auto Defense | 防御態勢 |
@@ -448,6 +456,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_slchan_2 | 束缚链 | Binding Chains | アレストチェーン |
 | skchr_sleach_2 | 信仰传承 | Inheritance of Faith | 信念の義旗 |
 | skchr_sleach_3 | 光辉旗帜 | Glorious Banner | 光輝の御旗 |
+| skchr_slent2_1 | 进取之心 | - | - |
+| skchr_slent2_2 | 俯瞰视界 | - | - |
+| skchr_slent2_3 | 无畏者协议 | - | - |
 | skchr_snakek_2 | 壳状防御 | Shell Defense | シェルガード |
 | skchr_snsant_1 | 倒刺钩爪 | Barbed Clawhook | フックキャッチ |
 | skchr_snsant_2 | 伸缩式电捕网 | Telescoping Electric Net | ネットキャプチャー |
@@ -649,6 +660,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_garage_2 | 自走车出击！ | Self-Driving Cart, Forward! | セルカー発進！ |
 | sktok_gasctrl | 毒雾控制 | - | - |
 | sktok_gate | 关闭闸门 | Gate Closing | シャッター |
+| sktok_gractrl | 重力生成 | - | - |
 | sktok_gtreasure | 可被击破 | - | - |
 | sktok_gunctrl | 开火 | Open Fire | 発射 |
 | sktok_hiddenstone | 可被击破 | - | - |
@@ -675,6 +687,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_mhwrct | 滞空牵引无人机 | - | - |
 | sktok_mine | 触爆 | Detonate | 接触式起爆 |
 | sktok_mire | 沼泽控制 | - | - |
+| sktok_mlyss_wtrman_1 | 流形 | - | - |
+| sktok_mlyss_wtrman_2 | 流形 | - | - |
+| sktok_mlyss_wtrman_3 | 流形 | - | - |
 | sktok_motter_1 | 迷惑装置 | Bionic Device | 攪乱装置 |
 | sktok_motter_2 | 爆破回收 | Detonate and Recycle | ミーボ起爆 |
 | sktok_mound | 风沙掩体 | Sandstorm Protection | 防風壁 |
@@ -722,6 +737,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_skadi2_2 | 共鸣 | Resonance | 共鳴 |
 | sktok_skadi2_3 | 共鸣 | Resonance | 共鳴 |
 | sktok_sleep | 救援绳索 | Rescue Rope | 救援ロープ |
+| sktok_slent2_protrb | 夜灯 | - | - |
 | sktok_slowfd | 高压喷射 | High-Pressure Spray | 高圧ガス |
 | sktok_smkbmb | 爆裂 | - | - |
 | sktok_smokebomb | 释放迷香 | - | - |

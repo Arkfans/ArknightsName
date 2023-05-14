@@ -25,6 +25,7 @@ tip: 请善用浏览器的搜索功能
 | char_1029_yato2 | 麒麟X夜刀 | - | - |
 | char_102_texas | 德克萨斯 | Texas | テキサス |
 | char_1030_noirc2 | 火龙S黑角 | - | - |
+| char_1031_slent2 | 淬羽赫默 | - | - |
 | char_103_angel | 能天使 | Exusiai | エクシア |
 | char_106_franka | 芙兰卡 | Franka | フランカ |
 | char_107_liskam | 雷蛇 | Liskarm | リスカム |
@@ -121,6 +122,7 @@ tip: 请善用浏览器的搜索功能
 | char_242_otter | 梅尔 | Mayer | メイヤー |
 | char_243_waaifu | 槐琥 | Waai Fu | ワイフー |
 | char_248_mgllan | 麦哲伦 | Magallan | マゼラン |
+| char_249_mlyss | 缪尔赛思 | - | - |
 | char_250_phatom | 傀影 | Phantom | ファントム |
 | char_252_bibeak | 柏喙 | Bibeak | バイビーク |
 | char_253_greyy | 格雷伊 | Greyy | グレイ |
@@ -197,6 +199,7 @@ tip: 请善用浏览器的搜索功能
 | char_391_rosmon | 迷迭香 | Rosmontis | ロスモンティス |
 | char_4000_jnight | 正义骑士号 | 'Justice Knight' | ジャスティスナイト |
 | char_4004_pudd | 布丁 | Pudding | プリン |
+| char_4006_melnte | 玫拉 | - | - |
 | char_4009_irene | 艾丽妮 | Irene | アイリーニ |
 | char_400_weedy | 温蒂 | Weedy | ウィーディ |
 | char_4013_kjera | 耶拉 | Kjera | イェラ |
@@ -206,6 +209,7 @@ tip: 请善用浏览器的搜索功能
 | char_4019_ncdeer | 九色鹿 | Nine-Colored Deer | 九色鹿 |
 | char_401_elysm | 极境 | Elysium | エリジウム |
 | char_4025_aprot2 | 暮落 | Shalem | シャレム |
+| char_4027_heyak | 霍尔海雅 | - | - |
 | char_402_tuye | 图耶 | Tuye | トゥイエ |
 | char_4032_provs | 但书 | Proviso | プロヴァイゾ |
 | char_4036_forcer | 见行者 | Enforcer | エンフォーサー |

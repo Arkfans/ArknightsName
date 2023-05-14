@@ -40,4 +40,6 @@ tip: 请善用浏览器的搜索功能
 | token_10027_ironmn_pile2 | 白铁™多功能平台 | Stainless™ Multifunctional Platform | ステインレス™多機能プラットフォーム |
 | token_10027_ironmn_pile3 | 铁钳号·原型机 | Prototype of Feist's Metal Crab | 鉄鉗号･プロトタイプ |
 | token_10028_vigil_wolf | 狼群 | - | - |
+| token_10029_slent2_protrb | 夜灯 | - | - |
+| token_10030_mlyss_wtrman | 流形 | - | - |
 | trap_079_allydonq | 猎潮的骑士 | - | - |

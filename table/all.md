@@ -25,6 +25,7 @@ tip: 请善用浏览器的搜索功能
 | char_1029_yato2 | 麒麟X夜刀 | - | - |
 | char_102_texas | 德克萨斯 | Texas | テキサス |
 | char_1030_noirc2 | 火龙S黑角 | - | - |
+| char_1031_slent2 | 淬羽赫默 | - | - |
 | char_103_angel | 能天使 | Exusiai | エクシア |
 | char_106_franka | 芙兰卡 | Franka | フランカ |
 | char_107_liskam | 雷蛇 | Liskarm | リスカム |
@@ -121,6 +122,7 @@ tip: 请善用浏览器的搜索功能
 | char_242_otter | 梅尔 | Mayer | メイヤー |
 | char_243_waaifu | 槐琥 | Waai Fu | ワイフー |
 | char_248_mgllan | 麦哲伦 | Magallan | マゼラン |
+| char_249_mlyss | 缪尔赛思 | - | - |
 | char_250_phatom | 傀影 | Phantom | ファントム |
 | char_252_bibeak | 柏喙 | Bibeak | バイビーク |
 | char_253_greyy | 格雷伊 | Greyy | グレイ |
@@ -197,6 +199,7 @@ tip: 请善用浏览器的搜索功能
 | char_391_rosmon | 迷迭香 | Rosmontis | ロスモンティス |
 | char_4000_jnight | 正义骑士号 | 'Justice Knight' | ジャスティスナイト |
 | char_4004_pudd | 布丁 | Pudding | プリン |
+| char_4006_melnte | 玫拉 | - | - |
 | char_4009_irene | 艾丽妮 | Irene | アイリーニ |
 | char_400_weedy | 温蒂 | Weedy | ウィーディ |
 | char_4013_kjera | 耶拉 | Kjera | イェラ |
@@ -206,6 +209,7 @@ tip: 请善用浏览器的搜索功能
 | char_4019_ncdeer | 九色鹿 | Nine-Colored Deer | 九色鹿 |
 | char_401_elysm | 极境 | Elysium | エリジウム |
 | char_4025_aprot2 | 暮落 | Shalem | シャレム |
+| char_4027_heyak | 霍尔海雅 | - | - |
 | char_402_tuye | 图耶 | Tuye | トゥイエ |
 | char_4032_provs | 但书 | Proviso | プロヴァイゾ |
 | char_4036_forcer | 见行者 | Enforcer | エンフォーサー |
@@ -328,6 +332,8 @@ tip: 请善用浏览器的搜索功能
 | token_10027_ironmn_pile2 | 白铁™多功能平台 | Stainless™ Multifunctional Platform | ステインレス™多機能プラットフォーム |
 | token_10027_ironmn_pile3 | 铁钳号·原型机 | Prototype of Feist's Metal Crab | 鉄鉗号･プロトタイプ |
 | token_10028_vigil_wolf | 狼群 | - | - |
+| token_10029_slent2_protrb | 夜灯 | - | - |
+| token_10030_mlyss_wtrman | 流形 | - | - |
 | trap_079_allydonq | 猎潮的骑士 | - | - |
 | trap_001_crate | 障碍物 | Roadblock | 障害物 |
 | trap_002_emp | 震撼装置 | Stun Generator | EMP発生装置 |
@@ -436,6 +442,7 @@ tip: 请善用浏览器的搜索功能
 | trap_114_smkbmb | 爆裂毒气罐 | - | - |
 | trap_115_gasctrl | 毒雾塔控制 | - | - |
 | trap_116_stdurk | “过去的我” | - | - |
+| trap_121_gractrl | 重力 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | - | - |
 | trap_401_xbfato | 采集实习站 | - | - |
 | trap_403_wfactory | 蟹蟹抽水泵 | - | - |
@@ -1574,6 +1581,7 @@ tip: 请善用浏览器的搜索功能
 | act15d0 | 孤岛风云 | Mansfield Break | 孤島激震 |
 | act15d1 | 跨年限时登录活动 | Limited-time Login Event | スタンプラリー |
 | act15d5 | 此地之外 | Beyond Here | 彼方を望む |
+| act15login | 登录领取奖励 | - | - |
 | act15side | 将进酒 | Invitation to Wine | 将進酒 |
 | act15sre | 将进酒·复刻 | - | - |
 | act16d5 | 画中人 | Who Is Real | 画中人 |
@@ -1600,6 +1608,7 @@ tip: 请善用浏览器的搜索功能
 | act19side | 绿野幻梦 | Dorothy's Vision | 翠玉の夢 |
 | act19sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act1bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
+| act1checkin | 未来序曲签到活动 | - | - |
 | act1d5 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act1flip | 哗啦啦祈愿牌 | - | - |
 | act1float | 纽莱堡市产业合作洽谈会 | - | - |
@@ -1616,6 +1625,7 @@ tip: 请善用浏览器的搜索功能
 | act23sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act24side | 落叶逐火 | - | - |
 | act24sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
+| act25side | 孤星 | - | - |
 | act25sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act26sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act27sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
@@ -1640,6 +1650,7 @@ tip: 请善用浏览器的搜索功能
 | act4d2 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act4d5 | 限时积分任务 | - | - |
 | act4fun | 愚人节活动 | - | - |
+| act4mine | 潘尼谷矿区登录活动 | - | - |
 | act4pray | 际崖城惊奇墙登录活动 | Zeruertza Amazing Wall Login Event | 宝くじ
 イベント |
 | act5d0 | 喧闹法则 | Code of Brawl | 喧騒の掟 |
@@ -2983,6 +2994,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_helage_1 | 新月 | Crescent Moon | 新月 |
 | skchr_helage_2 | 弦月 | Half Moon | 弦月 |
 | skchr_helage_3 | 满月 | Full Moon | 満月 |
+| skchr_heyak_1 | 但为求索 | - | - |
+| skchr_heyak_2 | 群星逶迤 | - | - |
+| skchr_heyak_3 | 博览者的狂语 | - | - |
 | skchr_highmo_1 | 回首，断舍 | - | - |
 | skchr_highmo_2 | 泡影，殆尽 | - | - |
 | skchr_hmau_1 | 反制治疗 | Treatment Countermeasure | 応急処置・受動 |
@@ -3066,6 +3080,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_mantic_2 | 蓄力毒尾击 | Toxic Overload | スコーピオンテール |
 | skchr_mberry_1 | 治愈云雾 | Healing Haze | ヒーリングミスト |
 | skchr_mberry_2 | 安全区域 | Safe Zone | セーフティゾーン |
+| skchr_melnte_1 | 饱和脉冲 | - | - |
+| skchr_melnte_2 | 临界爆发 | - | - |
 | skchr_meteo_1 | 霰射弹头 | Buckshot | 散弾装填 |
 | skchr_meteo_2 | 高爆弹头 | High-Explosive Shell | 榴弾装填 |
 | skchr_mgllan_1 | 高效制冷模块 | High-Efficiency Freezing Module | フリーズモジュール |
@@ -3082,6 +3098,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_mlynar_1 | 未声张的怒火 | Unvoiced Anger | 秘めたる怒り |
 | skchr_mlynar_2 | 未宽解的悲哀 | Unresolved Sorrow | 癒えぬ悲しみ |
 | skchr_mlynar_3 | 未照耀的荣光 | Unbrilliant Glory | 輝かざる栄光 |
+| skchr_mlyss_1 | 渐进性润化 | - | - |
+| skchr_mlyss_2 | 生态耦合 | - | - |
+| skchr_mlyss_3 | 浅层非熵适应 | - | - |
 | skchr_mm_1 | 麻痹弹 | Paralyzing Shell | ストップショット |
 | skchr_mm_2 | 束缚电击 | Binding Shock | スタンショック |
 | skchr_moeshd_1 | 自动防御 | Auto Defense | 防御態勢 |
@@ -3206,6 +3225,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_slchan_2 | 束缚链 | Binding Chains | アレストチェーン |
 | skchr_sleach_2 | 信仰传承 | Inheritance of Faith | 信念の義旗 |
 | skchr_sleach_3 | 光辉旗帜 | Glorious Banner | 光輝の御旗 |
+| skchr_slent2_1 | 进取之心 | - | - |
+| skchr_slent2_2 | 俯瞰视界 | - | - |
+| skchr_slent2_3 | 无畏者协议 | - | - |
 | skchr_snakek_2 | 壳状防御 | Shell Defense | シェルガード |
 | skchr_snsant_1 | 倒刺钩爪 | Barbed Clawhook | フックキャッチ |
 | skchr_snsant_2 | 伸缩式电捕网 | Telescoping Electric Net | ネットキャプチャー |
@@ -3407,6 +3429,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_garage_2 | 自走车出击！ | Self-Driving Cart, Forward! | セルカー発進！ |
 | sktok_gasctrl | 毒雾控制 | - | - |
 | sktok_gate | 关闭闸门 | Gate Closing | シャッター |
+| sktok_gractrl | 重力生成 | - | - |
 | sktok_gtreasure | 可被击破 | - | - |
 | sktok_gunctrl | 开火 | Open Fire | 発射 |
 | sktok_hiddenstone | 可被击破 | - | - |
@@ -3433,6 +3456,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_mhwrct | 滞空牵引无人机 | - | - |
 | sktok_mine | 触爆 | Detonate | 接触式起爆 |
 | sktok_mire | 沼泽控制 | - | - |
+| sktok_mlyss_wtrman_1 | 流形 | - | - |
+| sktok_mlyss_wtrman_2 | 流形 | - | - |
+| sktok_mlyss_wtrman_3 | 流形 | - | - |
 | sktok_motter_1 | 迷惑装置 | Bionic Device | 攪乱装置 |
 | sktok_motter_2 | 爆破回收 | Detonate and Recycle | ミーボ起爆 |
 | sktok_mound | 风沙掩体 | Sandstorm Protection | 防風壁 |
@@ -3480,6 +3506,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_skadi2_2 | 共鸣 | Resonance | 共鳴 |
 | sktok_skadi2_3 | 共鸣 | Resonance | 共鳴 |
 | sktok_sleep | 救援绳索 | Rescue Rope | 救援ロープ |
+| sktok_slent2_protrb | 夜灯 | - | - |
 | sktok_slowfd | 高压喷射 | High-Pressure Spray | 高圧ガス |
 | sktok_smkbmb | 爆裂 | - | - |
 | sktok_smokebomb | 释放迷香 | - | - |
@@ -3957,6 +3984,24 @@ tip: 请善用浏览器的搜索功能
 | act24side_st02 | 林昏焰明 | - | - |
 | act24side_st03 | 晨曦 | - | - |
 | act24side_tr01 | 来袭！天空王者！ | - | - |
+| act25side_01 | 迷雾重重 | - | - |
+| act25side_02 | 无迹可寻 | - | - |
+| act25side_03 | 台前幕后 | - | - |
+| act25side_04 | 一波又起 | - | - |
+| act25side_05 | 柳暗花明 | - | - |
+| act25side_06 | 群英荟萃 | - | - |
+| act25side_07 | 空中楼阁 | - | - |
+| act25side_08 | 过去与现在的交会 | - | - |
+| act25side_09 | 恩怨纠葛 | - | - |
+| act25side_10 | 散于星辰之间 | - | - |
+| act25side_sp01 | 悬崖边缘 | - | - |
+| act25side_sp02 | 破釜沉舟 | - | - |
+| act25side_st01 | 阴云密布 | - | - |
+| act25side_st02 | 一波未平 | - | - |
+| act25side_st03 | 留下的人 | - | - |
+| act25side_st04 | 推开未来之门 | - | - |
+| act25side_tr01 | 先锋建筑 | - | - |
+| act25side_tr02 | 先锋工程 | - | - |
 | act2bossrush_01 | 困顿囚徒 | - | - |
 | act2bossrush_02 | 大块头和小不点 | - | - |
 | act2bossrush_03 | 裂地重击 | - | - |
@@ -4681,6 +4726,7 @@ tip: 请善用浏览器的搜索功能
 | story_chyue_set_1_story_1 | 昔我往矣 | - | - |
 | story_cutter_set_1_story_1 | 速食食品 | Meals, Ready-to-Eat | 携行食 |
 | story_deepcl_set_1_story_1 | 幽蓝怀想 | - | - |
+| story_doroth_set_1_story_1 | 何处是我朋友的家 | - | - |
 | story_durin_set_1_story_1 | 午休时间 | Lunchtime Nap | お昼休み |
 | story_durnar_set_1_story_1 | 额外训练 | Extra Training | 追加訓練 |
 | story_durnar_set_2_story_1 | 杯中旧事 | A Glass with Old Stories | グラスに注ぐ思い出 |
@@ -4700,9 +4746,11 @@ tip: 请善用浏览器的搜索功能
 | story_folivo_set_1_story_1 | 记录者 | Recorder | 記録者 |
 | story_franka_set_1_story_1 | 往日的象征 | Symbols of the Past | 在りし日の象徴 |
 | story_frncat_set_1_story_1 | 小点心 | - | - |
+| story_frostl_set_1_story_1 | 识字本 | - | - |
 | story_ghost2_set_1_story_1 | 自我 | Selfhood | 自分 |
 | story_ghost_set_1_story_1 | 圣诞快乐！ | Merry Christmas! | メリークリスマス！ |
 | story_ghost_set_2_story_1 | 我，即是“我” | I, Namely I | 私は「私」 |
+| story_glacus_set_1_story_1 | 以我双腿 | - | - |
 | story_glady_set_1_story_1 | 失水症 | Dehydration | 脱水症 |
 | story_glassb_set_1_story_1 | 走吧，走吧 | Let's Go, Let's Go | さあ、行こう |
 | story_glider_set_1_story_1 | 苦涩的根茎 | - | - |
@@ -4761,6 +4809,7 @@ tip: 请善用浏览器的搜索功能
 | story_otter_set_1_story_1 | 满满的日程表 | One Packed Daily Schedule | 仕事三昧 |
 | story_otter_set_2_story_1 | 造物之心 | Heart of Creation | 創り出す心 |
 | story_panda_set_1_story_1 | 一落千丈 | Nosedive | 一落千丈 |
+| story_peper_set_1_story_1 | 少年雇佣兵 | - | - |
 | story_phatom_set_1_story_1 | 合作 | Cooperation | 協力 |
 | story_phenxi_set_1_story_1 | 乐园 | Paradisus | 楽園 |
 | story_pinecn_set_1_story_1 | 展信好 | Yours Sincerely | 拝啓 |
@@ -4782,6 +4831,7 @@ tip: 请善用浏览器的搜索功能
 | story_savage_set_2_story_2 | 自有一“派” | No Less Than a Pie | パイはいかが？ |
 | story_scave_set_1_story_1 | 硬币的意志 | The Will of a Coin | コインの意志 |
 | story_serum_set_1_story_1 | 蚀清的工牌 | - | - |
+| story_sesa_set_1_story_1 | 致命诱惑 | - | - |
 | story_shotst_set_1_story_1 | 滚烫旧忆 | Scalding Old Memories | 熱傷の記憶 |
 | story_shotst_set_2_story_1 | 两难 | Dilemma | 板挟み |
 | story_shwaz_set_1_story_1 | 离乡之日 | 'The Day We Left Home' | 故郷を去る日 |

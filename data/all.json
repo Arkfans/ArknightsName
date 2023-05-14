@@ -151,6 +151,12 @@
       "zh_CN": "火龙S黑角"
     }
   },
+  "char_1031_slent2": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "淬羽赫默"
+    }
+  },
   "char_103_angel": {
     "type": "OPERATOR",
     "names": {
@@ -915,6 +921,12 @@
       "zh_CN": "麦哲伦"
     }
   },
+  "char_249_mlyss": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "缪尔赛思"
+    }
+  },
   "char_250_phatom": {
     "type": "OPERATOR",
     "names": {
@@ -1521,6 +1533,12 @@
       "zh_CN": "布丁"
     }
   },
+  "char_4006_melnte": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "玫拉"
+    }
+  },
   "char_4009_irene": {
     "type": "OPERATOR",
     "names": {
@@ -1587,6 +1605,12 @@
       "en_US": "Shalem",
       "ja_JP": "シャレム",
       "zh_CN": "暮落"
+    }
+  },
+  "char_4027_heyak": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "霍尔海雅"
     }
   },
   "char_402_tuye": {
@@ -2531,6 +2555,18 @@
       "zh_CN": "狼群"
     }
   },
+  "token_10029_slent2_protrb": {
+    "type": "TOKEN",
+    "names": {
+      "zh_CN": "夜灯"
+    }
+  },
+  "token_10030_mlyss_wtrman": {
+    "type": "TOKEN",
+    "names": {
+      "zh_CN": "流形"
+    }
+  },
   "trap_079_allydonq": {
     "type": "TOKEN",
     "names": {
@@ -3341,6 +3377,12 @@
     "type": "TRAP",
     "names": {
       "zh_CN": "“过去的我”"
+    }
+  },
+  "trap_121_gractrl": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "重力"
     }
   },
   "trap_400_xbfarm": {
@@ -11887,6 +11929,12 @@
       "zh_CN": "此地之外"
     }
   },
+  "act15login": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "登录领取奖励"
+    }
+  },
   "act15side": {
     "type": "ACTIVITY",
     "names": {
@@ -12089,6 +12137,12 @@
       "zh_CN": "引航者试炼"
     }
   },
+  "act1checkin": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "未来序曲签到活动"
+    }
+  },
   "act1d5": {
     "type": "ACTIVITY",
     "names": {
@@ -12199,6 +12253,12 @@
       "en_US": "Limited-time Cumulative Sign-in",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
+    }
+  },
+  "act25side": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "孤星"
     }
   },
   "act25sign": {
@@ -12379,6 +12439,12 @@
     "type": "ACTIVITY",
     "names": {
       "zh_CN": "愚人节活动"
+    }
+  },
+  "act4mine": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "潘尼谷矿区登录活动"
     }
   },
   "act4pray": {
@@ -22409,6 +22475,24 @@
       "zh_CN": "满月"
     }
   },
+  "skchr_heyak_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "但为求索"
+    }
+  },
+  "skchr_heyak_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "群星逶迤"
+    }
+  },
+  "skchr_heyak_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "博览者的狂语"
+    }
+  },
   "skchr_highmo_1": {
     "type": "SKILL",
     "names": {
@@ -23043,6 +23127,18 @@
       "zh_CN": "安全区域"
     }
   },
+  "skchr_melnte_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "饱和脉冲"
+    }
+  },
+  "skchr_melnte_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "临界爆发"
+    }
+  },
   "skchr_meteo_1": {
     "type": "SKILL",
     "names": {
@@ -23169,6 +23265,24 @@
       "en_US": "Unbrilliant Glory",
       "ja_JP": "輝かざる栄光",
       "zh_CN": "未照耀的荣光"
+    }
+  },
+  "skchr_mlyss_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "渐进性润化"
+    }
+  },
+  "skchr_mlyss_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "生态耦合"
+    }
+  },
+  "skchr_mlyss_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "浅层非熵适应"
     }
   },
   "skchr_mm_1": {
@@ -24133,6 +24247,24 @@
       "en_US": "Glorious Banner",
       "ja_JP": "光輝の御旗",
       "zh_CN": "光辉旗帜"
+    }
+  },
+  "skchr_slent2_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "进取之心"
+    }
+  },
+  "skchr_slent2_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "俯瞰视界"
+    }
+  },
+  "skchr_slent2_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "无畏者协议"
     }
   },
   "skchr_snakek_2": {
@@ -25655,6 +25787,12 @@
       "zh_CN": "关闭闸门"
     }
   },
+  "sktok_gractrl": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "重力生成"
+    }
+  },
   "sktok_gtreasure": {
     "type": "SKILL",
     "names": {
@@ -25839,6 +25977,24 @@
     "type": "SKILL",
     "names": {
       "zh_CN": "沼泽控制"
+    }
+  },
+  "sktok_mlyss_wtrman_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "流形"
+    }
+  },
+  "sktok_mlyss_wtrman_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "流形"
+    }
+  },
+  "sktok_mlyss_wtrman_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "流形"
     }
   },
   "sktok_motter_1": {
@@ -26195,6 +26351,12 @@
       "en_US": "Rescue Rope",
       "ja_JP": "救援ロープ",
       "zh_CN": "救援绳索"
+    }
+  },
+  "sktok_slent2_protrb": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "夜灯"
     }
   },
   "sktok_slowfd": {
@@ -29777,6 +29939,114 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "来袭！天空王者！"
+    }
+  },
+  "act25side_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "迷雾重重"
+    }
+  },
+  "act25side_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "无迹可寻"
+    }
+  },
+  "act25side_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "台前幕后"
+    }
+  },
+  "act25side_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "一波又起"
+    }
+  },
+  "act25side_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "柳暗花明"
+    }
+  },
+  "act25side_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "群英荟萃"
+    }
+  },
+  "act25side_07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "空中楼阁"
+    }
+  },
+  "act25side_08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "过去与现在的交会"
+    }
+  },
+  "act25side_09": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "恩怨纠葛"
+    }
+  },
+  "act25side_10": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "散于星辰之间"
+    }
+  },
+  "act25side_sp01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "悬崖边缘"
+    }
+  },
+  "act25side_sp02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "破釜沉舟"
+    }
+  },
+  "act25side_st01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "阴云密布"
+    }
+  },
+  "act25side_st02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "一波未平"
+    }
+  },
+  "act25side_st03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "留下的人"
+    }
+  },
+  "act25side_st04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "推开未来之门"
+    }
+  },
+  "act25side_tr01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "先锋建筑"
+    }
+  },
+  "act25side_tr02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "先锋工程"
     }
   },
   "act2bossrush_01": {
@@ -35353,6 +35623,12 @@
       "zh_CN": "幽蓝怀想"
     }
   },
+  "story_doroth_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "何处是我朋友的家"
+    }
+  },
   "story_durin_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -35497,6 +35773,12 @@
       "zh_CN": "小点心"
     }
   },
+  "story_frostl_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "识字本"
+    }
+  },
   "story_ghost2_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -35519,6 +35801,12 @@
       "en_US": "I, Namely I",
       "ja_JP": "私は「私」",
       "zh_CN": "我，即是“我”"
+    }
+  },
+  "story_glacus_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "以我双腿"
     }
   },
   "story_glady_set_1_story_1": {
@@ -35963,6 +36251,12 @@
       "zh_CN": "一落千丈"
     }
   },
+  "story_peper_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "少年雇佣兵"
+    }
+  },
   "story_phatom_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -36119,6 +36413,12 @@
     "type": "MEMORY",
     "names": {
       "zh_CN": "蚀清的工牌"
+    }
+  },
+  "story_sesa_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "致命诱惑"
     }
   },
   "story_shotst_set_1_story_1": {
