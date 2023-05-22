@@ -240,6 +240,7 @@ tip: 请善用浏览器的搜索功能
 | char_4083_chimes | 铎铃 | - | - |
 | char_4087_ines | 伊内丝 | - | - |
 | char_4091_ulika | U-Official | - | - |
+| char_4093_frston | Friston-3 | - | - |
 | char_411_tomimi | 特米米 | Tomimi | トミミ |
 | char_415_flint | 燧石 | Flint | フリント |
 | char_416_zumama | 森蚺 | Eunectes | ユーネクテス |
@@ -693,6 +694,7 @@ tip: 请善用浏览器的搜索功能
 | char_383_snsant@witch#2 | 天命勇者 | Fated Hero | 宿命の勇者 |
 | char_388_mint@epoque#22 | 月宵 | - | - |
 | char_391_rosmon@epoque#17 | 拥抱新生 | - | - |
+| char_4000_jnight@boc#7 | 竞技之梦改装 | - | - |
 | char_4004_pudd@snow#5 | 火树灵 | - | - |
 | char_4009_irene@ambienceSynesthesia#3 | 飞羽 | - | - |
 | char_400_weedy@snow#2 | 糖果仙子 | Candy Cape | キャンディフェアリー |
@@ -1640,6 +1642,7 @@ tip: 请善用浏览器的搜索功能
 | act31sign | 正逢雨季限时登录活动 | - | - |
 | act32sign | 限时累计签到 | - | - |
 | act33sign | 限时累计签到 | - | - |
+| act38d1 | 尖灭测试作战 | - | - |
 | act3d0 | 火蓝之心 | Heart of Surging Flame | 青く燃ゆる心 |
 | act3d5 | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
 | act3d7 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
@@ -1953,6 +1956,7 @@ tip: 请善用浏览器的搜索功能
 | act2bossrush_relic_03 | 减退模块 | - | - |
 | act2bossrush_relic_04 | 调优重载 | - | - |
 | act2bossrush_token_relic | 数据黑盒 | - | - |
+| act38d1_token_coin | 晶化源石 | - | - |
 | act4d0_intelligencepoint | 有效情报值 | Valid Intelligence Unit | 情報データ |
 | act4d5_point_kfc | KFC积分 | - | - |
 | act5d0_point_medal | 终极企鹅勋章 | Top Tier Penguin Medal | ウルトラPG勲章 |
@@ -2407,6 +2411,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4082_qiubai | 仇白的信物 | - | - |
 | p_char_4083_chimes | 铎铃的信物 | - | - |
 | p_char_4087_ines | 伊内丝的信物 | - | - |
+| p_char_4093_frston | Friston-3的信物 | - | - |
 | p_char_411_tomimi | 特米米的信物 | Tomimi's Token | トミミの印 |
 | p_char_415_flint | 燧石的信物 | Flint's Token | フリントの印 |
 | p_char_416_zumama | 森蚺的信物 | Eunectes' Token | ユーネクテスの印 |
@@ -4731,6 +4736,7 @@ tip: 请善用浏览器的搜索功能
 | story_chen_set_1_story_1 | 一鼓作气 | In One Effort | 一気呵成 |
 | story_chiave_set_1_story_1 | 代表作 | - | - |
 | story_chyue_set_1_story_1 | 昔我往矣 | - | - |
+| story_ctable_set_1_story_1 | 飞进窗的羽兽 | - | - |
 | story_cutter_set_1_story_1 | 速食食品 | Meals, Ready-to-Eat | 携行食 |
 | story_deepcl_set_1_story_1 | 幽蓝怀想 | - | - |
 | story_doroth_set_1_story_1 | 何处是我朋友的家 | - | - |
@@ -4740,6 +4746,7 @@ tip: 请善用浏览器的搜索功能
 | story_dusk_set_1_story_1 | 旦夕 | - | - |
 | story_ebnhlz_set_1_story_1 | 孤灯 | Lone Lamp | 灯の隻影 |
 | story_elysm_set_1_story_1 | 漫长旅途 | - | - |
+| story_erato_set_1_story_1 | 英雄们的叙事诗 | - | - |
 | story_estell_set_1_story_1 | 她的一小步 | One Small Step For Her | その小さな一歩 |
 | story_ethan_set_1_story_1 | 他乡故旧 | 'Old Friends in Foreign Places' | 異郷の旧友 |
 | story_f12yin_set_1_story_1 | 意外的烦恼 | Unexpected Annoyance | 予想外の悩み |
@@ -4769,6 +4776,7 @@ tip: 请善用浏览器的搜索功能
 | story_hamoni_set_1_story_1 | 孤独的舞者 | - | - |
 | story_hbisc2_set_1_story_1 | 无名之花 | Nameless Flower | 名もなき花 |
 | story_headbr_set_1_story_1 | 强中自有强中手 | Strong Meets Stronger | 強さに果てはなし |
+| story_headbr_set_2_story_1 | 在冬夜里燃烧 | - | - |
 | story_helage_set_1_story_1 | 命途 | Fate | 命の行方 |
 | story_hmau_set_1_story_1 | 南墙 | South Wall | 壊れない壁 |
 | story_horn_set_1_story_1 | 独奏曲 | Solo | 独奏曲 |
@@ -4778,7 +4786,9 @@ tip: 请善用浏览器的搜索功能
 | story_indigo_set_1_story_1 | 硬核饮品 | Hardcore Drink | ハードなドリンク |
 | story_irene_set_1_story_1 | 灯火微明 | Lantern's Twilight | ほのかな灯り |
 | story_iris_set_1_story_1 | 糖果屋 | - | - |
+| story_jaksel_set_1_story_1 | 无价的勋章 | - | - |
 | story_jesica_set_1_story_1 | 缓步前行 | The Slow Walk Ahead | ゆっくり進む者 |
+| story_kazema_set_1_story_1 | 应为必为 | - | - |
 | story_kirara_set_1_story_1 | 隐藏结局 | Secret Ending | 隠しエンディング |
 | story_kirara_set_2_story_1 | 无伤通关 | No-Damage Clear | ノーダメージクリア |
 | story_kroos_set_1_story_1 | 苹果 | Apples | 林檎 |

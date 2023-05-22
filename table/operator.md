@@ -240,6 +240,7 @@ tip: 请善用浏览器的搜索功能
 | char_4083_chimes | 铎铃 | - | - |
 | char_4087_ines | 伊内丝 | - | - |
 | char_4091_ulika | U-Official | - | - |
+| char_4093_frston | Friston-3 | - | - |
 | char_411_tomimi | 特米米 | Tomimi | トミミ |
 | char_415_flint | 燧石 | Flint | フリント |
 | char_416_zumama | 森蚺 | Eunectes | ユーネクテス |

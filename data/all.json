@@ -1833,6 +1833,12 @@
       "zh_CN": "U-Official"
     }
   },
+  "char_4093_frston": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "Friston-3"
+    }
+  },
   "char_411_tomimi": {
     "type": "OPERATOR",
     "names": {
@@ -5213,6 +5219,12 @@
     "type": "SKIN",
     "names": {
       "zh_CN": "拥抱新生"
+    }
+  },
+  "char_4000_jnight@boc#7": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "竞技之梦改装"
     }
   },
   "char_4004_pudd@snow#5": {
@@ -12365,6 +12377,12 @@
       "zh_CN": "限时累计签到"
     }
   },
+  "act38d1": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "尖灭测试作战"
+    }
+  },
   "act3d0": {
     "type": "ACTIVITY",
     "names": {
@@ -14775,6 +14793,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "数据黑盒"
+    }
+  },
+  "act38d1_token_coin": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "晶化源石"
     }
   },
   "act4d0_intelligencepoint": {
@@ -18079,6 +18103,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "伊内丝的信物"
+    }
+  },
+  "p_char_4093_frston": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "Friston-3的信物"
     }
   },
   "p_char_411_tomimi": {
@@ -35651,6 +35681,12 @@
       "zh_CN": "昔我往矣"
     }
   },
+  "story_ctable_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "飞进窗的羽兽"
+    }
+  },
   "story_cutter_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -35713,6 +35749,12 @@
     "type": "MEMORY",
     "names": {
       "zh_CN": "漫长旅途"
+    }
+  },
+  "story_erato_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "英雄们的叙事诗"
     }
   },
   "story_estell_set_1_story_1": {
@@ -35933,6 +35975,12 @@
       "zh_CN": "强中自有强中手"
     }
   },
+  "story_headbr_set_2_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "在冬夜里燃烧"
+    }
+  },
   "story_helage_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -36003,12 +36051,24 @@
       "zh_CN": "糖果屋"
     }
   },
+  "story_jaksel_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "无价的勋章"
+    }
+  },
   "story_jesica_set_1_story_1": {
     "type": "MEMORY",
     "names": {
       "en_US": "The Slow Walk Ahead",
       "ja_JP": "ゆっくり進む者",
       "zh_CN": "缓步前行"
+    }
+  },
+  "story_kazema_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "应为必为"
     }
   },
   "story_kirara_set_1_story_1": {

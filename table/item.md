@@ -238,6 +238,7 @@ tip: 请善用浏览器的搜索功能
 | act2bossrush_relic_03 | 减退模块 | - | - |
 | act2bossrush_relic_04 | 调优重载 | - | - |
 | act2bossrush_token_relic | 数据黑盒 | - | - |
+| act38d1_token_coin | 晶化源石 | - | - |
 | act4d0_intelligencepoint | 有效情报值 | Valid Intelligence Unit | 情報データ |
 | act4d5_point_kfc | KFC积分 | - | - |
 | act5d0_point_medal | 终极企鹅勋章 | Top Tier Penguin Medal | ウルトラPG勲章 |
@@ -692,6 +693,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4082_qiubai | 仇白的信物 | - | - |
 | p_char_4083_chimes | 铎铃的信物 | - | - |
 | p_char_4087_ines | 伊内丝的信物 | - | - |
+| p_char_4093_frston | Friston-3的信物 | - | - |
 | p_char_411_tomimi | 特米米的信物 | Tomimi's Token | トミミの印 |
 | p_char_415_flint | 燧石的信物 | Flint's Token | フリントの印 |
 | p_char_416_zumama | 森蚺的信物 | Eunectes' Token | ユーネクテスの印 |

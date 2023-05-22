@@ -1092,6 +1092,9 @@
   "act2bossrush_token_relic": {
     "zh_CN": "数据黑盒"
   },
+  "act38d1_token_coin": {
+    "zh_CN": "晶化源石"
+  },
   "act4d0_intelligencepoint": {
     "en_US": "Valid Intelligence Unit",
     "ja_JP": "情報データ",
@@ -3033,6 +3036,9 @@
   },
   "p_char_4087_ines": {
     "zh_CN": "伊内丝的信物"
+  },
+  "p_char_4093_frston": {
+    "zh_CN": "Friston-3的信物"
   },
   "p_char_411_tomimi": {
     "en_US": "Tomimi's Token",
