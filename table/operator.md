@@ -21,7 +21,7 @@ tip: 请善用浏览器的搜索功能
 | char_1024_hbisc2 | 濯尘芙蓉 | Hibiscus the Purifier | 濯塵ハイビスカス |
 | char_1026_gvial2 | 百炼嘉维尔 | Gavial the Invincible | 百錬ガヴィル |
 | char_1027_greyy2 | 承曦格雷伊 | Greyy the Lightningbearer | 承曦グレイ |
-| char_1028_texas2 | 缄默德克萨斯 | - | - |
+| char_1028_texas2 | 缄默德克萨斯 | - | 血掟テキサス |
 | char_1029_yato2 | 麒麟X夜刀 | - | - |
 | char_102_texas | 德克萨斯 | Texas | テキサス |
 | char_1030_noirc2 | 火龙S黑角 | - | - |
@@ -203,7 +203,7 @@ tip: 请善用浏览器的搜索功能
 | char_4009_irene | 艾丽妮 | Irene | アイリーニ |
 | char_400_weedy | 温蒂 | Weedy | ウィーディ |
 | char_4013_kjera | 耶拉 | Kjera | イェラ |
-| char_4014_lunacu | 子月 | - | - |
+| char_4014_lunacu | 子月 | - | ルナカブ |
 | char_4016_kazema | 风丸 | Kazemaru | カゼマル |
 | char_4017_puzzle | 谜图 | - | - |
 | char_4019_ncdeer | 九色鹿 | Nine-Colored Deer | 九色鹿 |
@@ -226,10 +226,10 @@ tip: 请善用浏览器的搜索功能
 | char_4055_bgsnow | 鸿雪 | Pozëmka | パゼオンカ |
 | char_405_absin | 苦艾 | Absinthe | アブサント |
 | char_4062_totter | 铅踝 | Totter | トター |
-| char_4063_quartz | 石英 | - | - |
+| char_4063_quartz | 石英 | - | クォーツ |
 | char_4064_mlynar | 玛恩纳 | Młynar | ムリナール |
-| char_4065_judge | 斥罪 | - | - |
-| char_4066_highmo | 海沫 | - | - |
+| char_4065_judge | 斥罪 | - | ペナンス |
+| char_4066_highmo | 海沫 | - | ハイモア |
 | char_4067_lolxh | 罗小黑 | Luo Xiaohei | 羅小黒 |
 | char_4071_peper | 明椒 | Paprika | パプリカ |
 | char_4072_ironmn | 白铁 | Stainless | ステインレス |
@@ -249,7 +249,7 @@ tip: 请善用浏览器的搜索功能
 | char_422_aurora | 极光 | Aurora | オーロラ |
 | char_423_blemsh | 瑕光 | Blemishine | ブレミシャイン |
 | char_426_billro | 卡涅利安 | Carnelian | カーネリアン |
-| char_427_vigil | 伺夜 | - | - |
+| char_427_vigil | 伺夜 | - | ヴィジェル |
 | char_430_fartth | 远牙 | Fartooth | ファートゥース |
 | char_431_ashlok | 灰毫 | Ashlock | アッシュロック |
 | char_433_windft | 掠风 | Windflit | ウインドフリット |
@@ -265,7 +265,7 @@ tip: 请善用浏览器的搜索功能
 | char_458_rfrost | 霜华 | Frost | Frost |
 | char_459_tachak | 战车 | Tachanka | Tachanka |
 | char_464_cement | 洋灰 | - | - |
-| char_466_qanik | 雪绒 | - | - |
+| char_466_qanik | 雪绒 | - | カニパラート |
 | char_469_indigo | 深靛 | Indigo | インディゴ |
 | char_472_pasngr | 异客 | Passenger | パッセンジャー |
 | char_473_mberry | 桑葚 | Mulberry | マルベリー |
@@ -296,5 +296,5 @@ tip: 请善用浏览器的搜索功能
 | char_510_amedic | Touch | Touch | Touch |
 | char_511_asnipe | Stormeye | Stormeye | Stormeye |
 | char_512_aprot | 暮落 | Shalem | シャレム |
-| char_513_apionr | 郁金香 | - | - |
+| char_513_apionr | 郁金香 | - | チューリップ |
 | char_514_rdfend | 预备干员-重装 | Reserve Operator - Defender | 予備隊員-重装 |

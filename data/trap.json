@@ -305,15 +305,19 @@
     "zh_CN": "“谐振器”"
   },
   "trap_065_normbox": {
+    "ja_JP": "宝箱",
     "zh_CN": "宝箱"
   },
   "trap_066_rarebox": {
+    "ja_JP": "トゲトゲ宝箱",
     "zh_CN": "尖刺宝箱"
   },
   "trap_067_dice": {
+    "ja_JP": "ダイス",
     "zh_CN": "骰子"
   },
   "trap_068_badbox": {
+    "ja_JP": "宝箱形恐魚",
     "zh_CN": "箱形恐鱼"
   },
   "trap_069_buffcard": {
@@ -382,9 +386,11 @@
     "zh_CN": "改派发讯器"
   },
   "trap_083_bunker": {
+    "ja_JP": "掩体",
     "zh_CN": "掩体"
   },
   "trap_084_aidkit": {
+    "ja_JP": "救急バッグ",
     "zh_CN": "急救包"
   },
   "trap_085_paras": {
@@ -403,9 +409,11 @@
     "zh_CN": "阿勒黛的卫护"
   },
   "trap_088_dice2": {
+    "ja_JP": "8面ダイス",
     "zh_CN": "8面骰子"
   },
   "trap_089_dice3": {
+    "ja_JP": "12面ダイス",
     "zh_CN": "12面骰子"
   },
   "trap_090_recodr": {
@@ -419,6 +427,7 @@
     "zh_CN": "实体程式控制"
   },
   "trap_092_vgctrl": {
+    "ja_JP": "報復の爪痕",
     "zh_CN": "复仇黑手"
   },
   "trap_093_tbattbc": {

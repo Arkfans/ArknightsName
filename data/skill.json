@@ -115,6 +115,7 @@
     "zh_CN": "影钉"
   },
   "skchr_apionr_1": {
+    "ja_JP": "残り香",
     "zh_CN": "只余芬芳"
   },
   "skchr_aprl_1": {
@@ -1083,9 +1084,11 @@
     "zh_CN": "博览者的狂语"
   },
   "skchr_highmo_1": {
+    "ja_JP": "懐古、別れ",
     "zh_CN": "回首，断舍"
   },
   "skchr_highmo_2": {
+    "ja_JP": "泡沫、破滅",
     "zh_CN": "泡影，殆尽"
   },
   "skchr_hmau_1": {
@@ -1254,12 +1257,15 @@
     "zh_CN": "掩护烟幕"
   },
   "skchr_judge_1": {
+    "ja_JP": "裁決のガベル",
     "zh_CN": "一锤定音"
   },
   "skchr_judge_2": {
+    "ja_JP": "確固たる決意",
     "zh_CN": "坚心苦修"
   },
   "skchr_judge_3": {
+    "ja_JP": "茨道を拓く",
     "zh_CN": "披荆斩棘"
   },
   "skchr_kafka_1": {
@@ -1437,9 +1443,11 @@
     "zh_CN": "灯火不灭"
   },
   "skchr_lunacu_1": {
+    "ja_JP": "狩猟開始",
     "zh_CN": "狩猎时刻"
   },
   "skchr_lunacu_2": {
+    "ja_JP": "影に潜む狩人",
     "zh_CN": "伏击之影"
   },
   "skchr_malist_2": {
@@ -1881,9 +1889,11 @@
     "zh_CN": "疑点追踪"
   },
   "skchr_qanik_1": {
+    "ja_JP": "吹きすさぶ凍風",
     "zh_CN": "冻风"
   },
   "skchr_qanik_2": {
+    "ja_JP": "駆けのぼる氷雪",
     "zh_CN": "坠雪"
   },
   "skchr_qiubai_1": {
@@ -1896,6 +1906,7 @@
     "zh_CN": "问雪"
   },
   "skchr_quartz_2": {
+    "ja_JP": "フルスイング",
     "zh_CN": "全力相搏"
   },
   "skchr_quercu_1": {
@@ -2324,12 +2335,15 @@
     "zh_CN": "剑走偏锋"
   },
   "skchr_texas2_1": {
+    "ja_JP": "ピオヴィッジネ",
     "zh_CN": "细雨无声"
   },
   "skchr_texas2_2": {
+    "ja_JP": "アクアツォーネ",
     "zh_CN": "阵雨连绵"
   },
   "skchr_texas2_3": {
+    "ja_JP": "ロヴェーショ",
     "zh_CN": "剑雨滂沱"
   },
   "skchr_texas_2": {
@@ -2418,12 +2432,15 @@
     "zh_CN": "落地斩·破门"
   },
   "skchr_vigil_1": {
+    "ja_JP": "統率者の一声",
     "zh_CN": "领袖的呼唤"
   },
   "skchr_vigil_2": {
+    "ja_JP": "統率者の恩賞",
     "zh_CN": "领袖的馈赠"
   },
   "skchr_vigil_3": {
+    "ja_JP": "統率者の威厳",
     "zh_CN": "领袖的尊严"
   },
   "skchr_vigna_1": {
@@ -2696,6 +2713,7 @@
     "zh_CN": "自我销毁"
   },
   "sktok_aidkit": {
+    "ja_JP": "応急処置",
     "zh_CN": "急救"
   },
   "sktok_airbomb": {
@@ -2719,6 +2737,7 @@
     "zh_CN": "阿勒黛的卫护"
   },
   "sktok_allydonq": {
+    "ja_JP": "突貫",
     "zh_CN": "冲锋"
   },
   "sktok_antidr": {
@@ -2727,6 +2746,7 @@
     "zh_CN": "无人机干扰"
   },
   "sktok_badbox": {
+    "ja_JP": "財宝の蕩めき",
     "zh_CN": "极诱人珍宝"
   },
   "sktok_ballis": {
@@ -2828,6 +2848,7 @@
     "zh_CN": "升格"
   },
   "sktok_bunker": {
+    "ja_JP": "障害物",
     "zh_CN": "障碍物"
   },
   "sktok_candle": {
@@ -2948,12 +2969,15 @@
     "zh_CN": "剧目宣告"
   },
   "sktok_dice": {
+    "ja_JP": "ダイスロール",
     "zh_CN": "掷骰"
   },
   "sktok_dice2": {
+    "ja_JP": "ダイスロール",
     "zh_CN": "掷骰"
   },
   "sktok_dice3": {
+    "ja_JP": "ダイスロール",
     "zh_CN": "掷骰"
   },
   "sktok_doroth_1": {
@@ -3226,6 +3250,7 @@
     "zh_CN": "文明的光芒"
   },
   "sktok_normbox": {
+    "ja_JP": "財宝のいざない",
     "zh_CN": "诱人珍宝"
   },
   "sktok_npcsld": {
@@ -3298,6 +3323,7 @@
     "zh_CN": "气体爆喷"
   },
   "sktok_rarebox": {
+    "ja_JP": "財宝の蠱惑",
     "zh_CN": "更诱人珍宝"
   },
   "sktok_recodr_1": {
@@ -3516,15 +3542,19 @@
     "zh_CN": "可供开采"
   },
   "sktok_vgctrl": {
+    "ja_JP": "報復の爪痕",
     "zh_CN": "复仇黑手"
   },
   "sktok_vigil_wolf_1": {
+    "ja_JP": "群狼",
     "zh_CN": "狼群"
   },
   "sktok_vigil_wolf_2": {
+    "ja_JP": "群狼",
     "zh_CN": "狼群"
   },
   "sktok_vigil_wolf_3": {
+    "ja_JP": "群狼",
     "zh_CN": "狼群"
   },
   "sktok_vodfox_token": {

@@ -19,7 +19,7 @@ tip: 请善用浏览器的搜索功能
 | act11sre | 覆潮之下·复刻 | Under Tides - Rerun | 潮汐の下・復刻 |
 | act12d0 | 密林悍将归来 | The Great Chief Returns | 帰還！密林の長 |
 | act12d6 | 刻俄柏的灰蕈迷境 | Ceobe's Fungimist | ケオベの茸狩迷界 |
-| act12login | 登录领取奖励 | - | - |
+| act12login | 登录领取奖励 | - | ログイン報酬 |
 | act12mini | 日暮寻路 | An Obscure Wanderer | 夕景に影ありて |
 | act12side | 多索雷斯假日 | Dossoles Holiday | ドッソレスホリデー |
 | act12sre | 多索雷斯假日·复刻 | Dossoles Holiday | ドッソレスホリデー |
@@ -72,13 +72,13 @@ tip: 请善用浏览器的搜索功能
 | act1checkin | 未来序曲签到活动 | - | - |
 | act1d5 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act1flip | 哗啦啦祈愿牌 | - | - |
-| act1float | 纽莱堡市产业合作洽谈会 | - | - |
+| act1float | 纽莱堡市产业合作洽谈会 | - | ニューライトバーグ市産業懇談会 |
 | act1lock | 荷谟伊智境 | Hymnoi Wisdom | ヒュムノイの叡智 |
 | act1mainbuff | 战备支援 | - | - |
 | act1sandbox | 生息演算：沙中之火 | - | - |
 | act20side | 理想城：长夏狂欢季 | Ideal City: Endless Carnival | 理想都市-エンドレスカーニバル- |
 | act20sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
-| act21side | 叙拉古人 | - | - |
+| act21side | 叙拉古人 | - | シラクザーノ |
 | act21sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act22side | 照我以火 | - | - |
 | act22sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
@@ -98,7 +98,7 @@ tip: 请善用浏览器的搜索功能
 | act2mine | 波平谷矿区登录活动 | Popping Valley Mining Area Login Event | ポッピングバレー採鉱区 |
 | act2pray | 双日城惊奇墙 | Dossoles Amazing Wall | ドッソレススクラッチ |
 | act30sign | 秋风送爽限时登录活动 | Snow Upon Autumnal Winds Limited Login Event | 早春の風スタンプラリー |
-| act31sign | 正逢雨季限时登录活动 | - | - |
+| act31sign | 正逢雨季限时登录活动 | - | 長雨の候スタンプラリー |
 | act32sign | 限时累计签到 | - | - |
 | act33sign | 限时累计签到 | - | - |
 | act38d1 | 尖灭测试作战 | - | - |

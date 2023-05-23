@@ -89,6 +89,7 @@ tip: 请善用浏览器的搜索功能
 | _LIMITED_15_3_1 | - | Unstrained Liquor, Pellucid Heart | 濁酒澄心 |
 | _LIMITED_17_2_1 | - | Abyss Corrosion | 海蝕 |
 | _LIMITED_19_1_1 | - | Great Axe and Pen Nib | 戦斧と万年筆 |
+| _LIMITED_21_1_1 | - | - | 茨道拓く一閃 |
 | _LIMITED_4_3_1 | - | Cremation Last Wish | 遺志に咲く火の華 |
 | _LIMITED_7_1_1 | - | Forget Me Not | 勿忘草 |
 | _LIMITED_8_3_1 | - | Earthborn Metals | 地生五金 |

@@ -94,9 +94,9 @@ tip: 请善用浏览器的搜索功能
 | act20side_zone3 | 升降梯整备 | Elevator Maintenance | 昇降機整備 |
 | act20side_zone4 | 表演赛道 | Exhibition Course | エキシビションコース |
 | act20side_zone5 | 终极赛道 | Ultimate Course | アルティメットコース |
-| act21side_zone1 | 连阴雨季 | - | - |
-| act21side_zone2 | 铳与秩序 | - | - |
-| act21side_zone3 | 自诩荒野 | - | - |
+| act21side_zone1 | 连阴雨季 | - | 暗い長雨 |
+| act21side_zone2 | 铳与秩序 | - | 銃と秩序 |
+| act21side_zone3 | 自诩荒野 | - | 荒野を名乗る者 |
 | act22side_zone1 | 荒烟林沼 | - | - |
 | act22side_zone2 | 记忆灰烬 | - | - |
 | act23side_zone1 | 城中调查 | - | - |

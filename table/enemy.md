@@ -108,8 +108,8 @@ tip: 请善用浏览器的搜索功能
 | enemy_1053_norgst_2 | 工蚁组长 | Ergate Leader | シロアリ隊長 |
 | enemy_1054_norshd | 重装防御者-N型 | Heavy Defender Type-N | 重装兵N型 |
 | enemy_1054_norshd_2 | 重装防御者-S型 | Heavy Defender Type-S | 重装兵S型 |
-| enemy_1055_ganman | 西西里人 | Sicilian | シシリアン |
-| enemy_1055_ganman_2 | 精锐西西里人 | Elite Sicilian | 凶悪シシリアン |
+| enemy_1055_ganman | 西西里人 | Sicilian | シチリアーノ |
+| enemy_1055_ganman_2 | 精锐西西里人 | Elite Sicilian | 凶悪シチリアーノ |
 | enemy_1056_ganwar | 打手 | Brawler | 拳闘士崩れ |
 | enemy_1056_ganwar_2 | 精干打手 | Elite Brawler | 凶悪拳闘士 |
 | enemy_1057_gansho | 射手 | Marksman | 射手 |
@@ -540,22 +540,22 @@ tip: 请善用浏览器的搜索功能
 | enemy_1275_dwlock | 萨卡兹王庭军术师 | Sarkaz Royal Court Caster | サルカズ王庭軍術師 |
 | enemy_1275_dwlock_2 | 萨卡兹王庭军精锐术师 | Sarkaz Royal Court Elite Caster | サルカズ王庭軍精鋭術師 |
 | enemy_1276_telex | 特雷西斯 | Theresis | Theresis |
-| enemy_1277_sgman | 家族士兵 | - | - |
-| enemy_1277_sgman_2 | 家族精英士兵 | - | - |
-| enemy_1278_sgbow | 家族弩手 | - | - |
-| enemy_1278_sgbow_2 | 家族精英弩手 | - | - |
-| enemy_1279_sgbdg | 家族恫吓者 | - | - |
-| enemy_1279_sgbdg_2 | 家族强暴恫吓者 | - | - |
-| enemy_1280_sgmag | 家族术师 | - | - |
-| enemy_1280_sgmag_2 | 家族精英术师 | - | - |
-| enemy_1281_sgcar | 家族专用轿车 | - | - |
-| enemy_1281_sgcar_2 | 家族豪华轿车 | - | - |
-| enemy_1282_sgelder | 家族角头 | - | - |
-| enemy_1282_sgelder_2 | 家族铁腕角头 | - | - |
-| enemy_1283_sgkill | 家族灭迹人 | - | - |
-| enemy_1283_sgkill_2 | 家族暗影灭迹人 | - | - |
-| enemy_1284_sgprst | 阿格尼尔神父 | - | - |
-| enemy_1285_sgwlf | “与我无关” | - | - |
+| enemy_1277_sgman | 家族士兵 | - | マフィアの準構成員 |
+| enemy_1277_sgman_2 | 家族精英士兵 | - | マフィアの構成員 |
+| enemy_1278_sgbow | 家族弩手 | - | マフィアの狙撃手 |
+| enemy_1278_sgbow_2 | 家族精英弩手 | - | マフィアの精鋭狙撃手 |
+| enemy_1279_sgbdg | 家族恫吓者 | - | マフィアの脅迫者 |
+| enemy_1279_sgbdg_2 | 家族强暴恫吓者 | - | マフィアの剛腕脅迫者 |
+| enemy_1280_sgmag | 家族术师 | - | マフィアの術師 |
+| enemy_1280_sgmag_2 | 家族精英术师 | - | マフィアの精鋭術師 |
+| enemy_1281_sgcar | 家族专用轿车 | - | マフィアの専用車 |
+| enemy_1281_sgcar_2 | 家族豪华轿车 | - | マフィアの専用高級車 |
+| enemy_1282_sgelder | 家族角头 | - | マフィアの幹部 |
+| enemy_1282_sgelder_2 | 家族铁腕角头 | - | マフィアの敏腕幹部 |
+| enemy_1283_sgkill | 家族灭迹人 | - | マフィアの掃除人 |
+| enemy_1283_sgkill_2 | 家族暗影灭迹人 | - | マフィアの一流掃除人 |
+| enemy_1284_sgprst | 阿格尼尔神父 | - | アグニル神父 |
+| enemy_1285_sgwlf | “与我无关” | - | 「関係ない」男 |
 | enemy_1286_dumcy | 特别行动队士兵 | - | - |
 | enemy_1286_dumcy_2 | 特别行动队队长 | - | - |
 | enemy_1287_ducrb | 沼泽钳兽 | - | - |
@@ -682,7 +682,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1531_bbrain | “唤醒” | 'Awaken' | 「覚醒」 |
 | enemy_1532_minima | “物欲拮抗者” | 'Materialist Antagonizer' | 「物欲の拮抗者」 |
 | enemy_1533_stmkgt | “最后的蒸汽骑士” | 'The Last Steam Knight' | 「最後の蒸気騎士」 |
-| enemy_1535_wlfmster | 扎罗，“狼之主”  | - | - |
+| enemy_1535_wlfmster | 扎罗，“狼之主”  | - | 「狼主」ザーロ |
 | enemy_1536_ncrmcr | “领袖”  | - | - |
 | enemy_1537_mhrors | 火龙 | - | - |
 | enemy_1538_ymmons | “睚” | - | - |
@@ -713,32 +713,32 @@ tip: 请善用浏览器的搜索功能
 | enemy_2018_csdoll | 伤心的大锁 | Big Sad Lock | 傷心の巨錠 |
 | enemy_2019_cshost | “剧团喉舌” | 'Troupe Mouthpiece' | 「劇団の喉舌」 |
 | enemy_2020_cswrtr | “剧作家” | 'Playwright' | 「劇作家」 |
-| enemy_2021_syfish | 骨海漂流体 | - | - |
-| enemy_2022_syzeni | 固海凿石者 | - | - |
-| enemy_2023_sypult | 投嗣育母 | - | - |
-| enemy_2024_synut | 注亡拟嗣 | - | - |
-| enemy_2025_syufo | 掠海漂移体 | - | - |
-| enemy_2026_syudg | 圣徒卡门 | - | - |
-| enemy_2027_syudg2 | 圣徒伊比利亚 | - | - |
-| enemy_2028_syevil | 接潮主教 | - | - |
-| enemy_2029_symon | 接潮蔑死体 | - | - |
-| enemy_2030_symon2 | 接潮斥亡体 | - | - |
-| enemy_2031_syboy | 塑路者 | - | - |
-| enemy_2032_syboy2 | 延命塑路者 | - | - |
-| enemy_2033_syboys | 塑路者分形 | - | - |
-| enemy_2034_sythef | 流泪小子 | - | - |
-| enemy_2035_sybox | 箱形恐鱼 | - | - |
-| enemy_2036_syshop | 坎诺特 | - | - |
-| enemy_2037_sygirl | “偏执泡影” | - | - |
-| enemy_2038_sydonq | 最后的骑士 | - | - |
-| enemy_2039_syskad | 伊莎玛拉，腐化之心 | - | - |
-| enemy_2040_syrott | 伊莎玛拉之泪 | - | - |
+| enemy_2021_syfish | 骨海漂流体 | - | 骨海のワンダラー |
+| enemy_2022_syzeni | 固海凿石者 | - | 固海のメイソン |
+| enemy_2023_sypult | 投嗣育母 | - | 仔を投げる母体 |
+| enemy_2024_synut | 注亡拟嗣 | - | 見放されたダミー |
+| enemy_2025_syufo | 掠海漂移体 | - | 掠海のフローター |
+| enemy_2026_syudg | 圣徒卡门 | - | 聖徒カルメン |
+| enemy_2027_syudg2 | 圣徒伊比利亚 | - | 聖徒イベリア |
+| enemy_2028_syevil | 接潮主教 | - | 験潮の司教 |
+| enemy_2029_symon | 接潮蔑死体 | - | 験潮の蔑死者 |
+| enemy_2030_symon2 | 接潮斥亡体 | - | 験潮の斥死者 |
+| enemy_2031_syboy | 塑路者 | - | パスファインダー |
+| enemy_2032_syboy2 | 延命塑路者 | - | 延命するパスファインダー |
+| enemy_2033_syboys | 塑路者分形 | - | パスファインダーの影 |
+| enemy_2034_sythef | 流泪小子 | - | 涙目の坊や |
+| enemy_2035_sybox | 箱形恐鱼 | - | 宝箱形恐魚 |
+| enemy_2036_syshop | 坎诺特 | - | キャノット |
+| enemy_2037_sygirl | “偏执泡影” | - | 「偏執の泡沫」 |
+| enemy_2038_sydonq | 最后的骑士 | - | 最後の騎士 |
+| enemy_2039_syskad | 伊莎玛拉，腐化之心 | - | イシャームラ、腐蝕された心 |
+| enemy_2040_syrott | 伊莎玛拉之泪 | - | イシャームラの涙 |
 | enemy_2041_syjely | 伊祖米克的子代 | - | - |
 | enemy_2042_syboss | 伊祖米克，生态泉源 | - | - |
 | enemy_3001_upeopl | 乌萨斯平民 | Ursus Civilian | ウルサス民間人 |
 | enemy_3002_ftrtal | 斗士塔露拉 | Talulah, the Fighter | 闘士タルラ |
 | enemy_3003_alymot | 大奖赛运输艇 | Competition Transport Vessel | 大会輸送艇 |
-| enemy_3004_speople | 叙拉古平民 | - | - |
+| enemy_3004_speople | 叙拉古平民 | - | シラクーザの市民 |
 | enemy_4001_toxcar | 改造瓦斯车 | Retrofitted Gastruck | 改造ガス車 |
 | enemy_4001_toxcar_2 | 高能瓦斯车 | Supercharged Gastruck | 拡容改造ガス車 |
 | enemy_4002_syokai | 二手廉价无人机 | Cheap Second-hand Drone | 中古低価ドローン |

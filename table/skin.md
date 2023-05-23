@@ -14,8 +14,8 @@ tip: 请善用浏览器的搜索功能
 | char_1011_lava2@nian#6 | 暮影藤萝 | Dusk Wisteria | 紫藤麗姿 |
 | char_1012_skadi2@boc#4 | 升华 | Sublimation | 昇華 |
 | char_1013_chen2@boc#6 | 万重山 | - | - |
-| char_1014_nearl2@epoque#17 | 复现荣光 | - | - |
-| char_101_sora@epoque#17 | 如歌 | - | - |
+| char_1014_nearl2@epoque#17 | 复现荣光 | - | 栄光の再臨 |
+| char_101_sora@epoque#17 | 如歌 | - | メロディオーソ |
 | char_101_sora@summer#1 | 夏卉 FA361 | Summer Flowers FA361 | 夏の花弁FA361 |
 | char_1021_kroos2@nian#8 | 廊下游  | - | - |
 | char_1023_ghost2@boc#6 | 生而为一 | - | - |
@@ -194,7 +194,7 @@ tip: 请善用浏览器的搜索功能
 | char_378_asbest@whirlwind#3 | 幽谷奏鸣 | Glen Sonata | グレンソナタ |
 | char_383_snsant@witch#2 | 天命勇者 | Fated Hero | 宿命の勇者 |
 | char_388_mint@epoque#22 | 月宵 | - | - |
-| char_391_rosmon@epoque#17 | 拥抱新生 | - | - |
+| char_391_rosmon@epoque#17 | 拥抱新生 | - | 始まりを抱く |
 | char_4000_jnight@boc#7 | 竞技之梦改装 | - | - |
 | char_4004_pudd@snow#5 | 火树灵 | - | - |
 | char_4009_irene@ambienceSynesthesia#3 | 飞羽 | - | - |
@@ -226,14 +226,14 @@ tip: 请善用浏览器的搜索功能
 | char_436_whispr@nian#4 | 孤寒峭 | Tremble Cold | 孤料峭 |
 | char_437_mizuki@sale#7 | 夏日餮宴 | - | - |
 | char_440_pinecn@shining#1 | 倾声歌唱 | Sing a Song | 歌声よ届け |
-| char_449_glider@epoque#17 | 荒野之后 | - | - |
+| char_449_glider@epoque#17 | 荒野之后 | - | 荒野のあとに |
 | char_451_robin@epoque#13 | 原野的馈赠 | Gift of Wild | 荒野の贈り物 |
 | char_452_bstalk@snow#4 | 未完成的礼物 | Gift Uncompleted | 未完成のギフト |
 | char_455_nothin@nian#7 | 冷山月 | Pale Rising Moon | 冷山月 |
 | char_456_ash@rainbow6#1 | 游侠 | Ranger | レンジャー |
 | char_459_tachak@rainbow6#1 | 领主 | Lord | ロード |
 | char_469_indigo@nian#7 | 待晴日 | Serene Day | 待晴日 |
-| char_472_pasngr@epoque#17 | 今昔须臾之梦 | - | - |
+| char_472_pasngr@epoque#17 | 今昔须臾之梦 | - | 玉響の今在 |
 | char_473_mberry@epoque#14 | 植药 | Plant Crude Drug | 薬師 |
 | char_473_mberry@nian#9 | 照冰轮 | - | - |
 | char_474_glady@boc#5 | 返航 | Return | 帰航 |
@@ -247,6 +247,6 @@ tip: 请善用浏览器的搜索功能
 | char_485_pallas@epoque#12 | 传承 | Heritage | 伝承 |
 | char_485_pallas@epoque#19 | 山川的酿造 | - | - |
 | char_486_takila@ambienceSynesthesia#2 | 开牌制胜 | Cardwinner | ショーダウン |
-| char_492_quercu@epoque#17 | 遥乡之径 | - | - |
+| char_492_quercu@epoque#17 | 遥乡之径 | - | 故郷は遠く |
 | char_496_wildmn@epoque#16 | 正义缔造者 | Justice Maker | ジャスティスメーカー |
 | char_497_ctable@nian#9 | 灯如昼 | - | - |

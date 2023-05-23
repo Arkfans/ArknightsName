@@ -21,11 +21,11 @@ tip: 请善用浏览器的搜索功能
 | story_astesi_set_1_story_1 | 启明 | - | - |
 | story_aurora_set_1_story_1 | 她所见 | What She Saw | 彼女の見たいもの |
 | story_ayer_set_1_story_1 | 黄沙觅迹 | - | - |
-| story_beewax_set_1_story_1 | 黄沙归途 | - | - |
+| story_beewax_set_1_story_1 | 黄沙归途 | - | 黄砂の帰路 |
 | story_bgsnow_set_1_story_1 | 墨迹已落 | - | - |
-| story_bibeak_set_1_story_1 | 破壳 | - | - |
+| story_bibeak_set_1_story_1 | 破壳 | - | 殻を破る |
 | story_bibeak_set_2_story_1 | 走出那条长长的走廊 | - | - |
-| story_billro_set_1_story_1 | 保护者的本性 | - | - |
+| story_billro_set_1_story_1 | 保护者的本性 | - | 保護者の本能 |
 | story_bison_set_1_story_1 | 充实的假期 | - | - |
 | story_bldsk_set_1_story_1 | 怪物 | 'Monster' | モンスター |
 | story_bldsk_set_2_story_1 | 难得认真 | Rarely Serious | たまには真剣に |
@@ -59,12 +59,12 @@ tip: 请善用浏览器的搜索功能
 | story_durnar_set_2_story_1 | 杯中旧事 | A Glass with Old Stories | グラスに注ぐ思い出 |
 | story_dusk_set_1_story_1 | 旦夕 | - | - |
 | story_ebnhlz_set_1_story_1 | 孤灯 | Lone Lamp | 灯の隻影 |
-| story_elysm_set_1_story_1 | 漫长旅途 | - | - |
+| story_elysm_set_1_story_1 | 漫长旅途 | - | 長き旅路 |
 | story_erato_set_1_story_1 | 英雄们的叙事诗 | - | - |
 | story_estell_set_1_story_1 | 她的一小步 | One Small Step For Her | その小さな一歩 |
 | story_ethan_set_1_story_1 | 他乡故旧 | 'Old Friends in Foreign Places' | 異郷の旧友 |
 | story_f12yin_set_1_story_1 | 意外的烦恼 | Unexpected Annoyance | 予想外の悩み |
-| story_f12yin_set_2_story_1 | 赴罪 | - | - |
+| story_f12yin_set_2_story_1 | 赴罪 | - | 罪へと赴く |
 | story_falco_set_1_story_1 | 远大理想 | A Grand, Distant Ideal | 遠大な理想 |
 | story_fang_set_1_story_1 | 二次冲锋 | Second Charge | 再チャレンジ |
 | story_flint_set_1_story_1 | 合格的战士 | Warrior's Due | 一人前の戦士 |
@@ -81,7 +81,7 @@ tip: 请善用浏览器的搜索功能
 | story_glacus_set_1_story_1 | 以我双腿 | - | - |
 | story_glady_set_1_story_1 | 失水症 | Dehydration | 脱水症 |
 | story_glassb_set_1_story_1 | 走吧，走吧 | Let's Go, Let's Go | さあ、行こう |
-| story_glider_set_1_story_1 | 苦涩的根茎 | - | - |
+| story_glider_set_1_story_1 | 苦涩的根茎 | - | 苦い根茎 |
 | story_gravel_set_1_story_1 | 梦中过往 | Past in Dreams | 過ぎ去りし日の夢 |
 | story_greyy2_set_1_story_1 | 撰写光明 | Light, He Wrote | 綴られる光 |
 | story_greyy_set_1_story_1 | 过滤星星 | Filter Stars | 濾される星屑 |
@@ -119,7 +119,7 @@ tip: 请善用浏览器的搜索功能
 | story_mberry_set_1_story_1 | 平安祈愿 | - | - |
 | story_medic2_set_1_story_1 | 一个涂鸦 | A Piece of Graffiti | ある落書き |
 | story_melan_set_1_story_1 | 小队长 | Team Captain | 小隊長 |
-| story_meteo_set_1_story_1 | 一星萤火 | - | - |
+| story_meteo_set_1_story_1 | 一星萤火 | - | 一灯の蛍火 |
 | story_mgllan_set_1_story_1 | 生生不息 | Cycle of Life | 命は巡る |
 | story_midn_set_1_story_1 | 一封家书 | Letter From Home | 故郷からの便り |
 | story_milu_set_1_story_1 | 在路上 | On My Way | 途上 |
@@ -178,7 +178,7 @@ tip: 请善用浏览器的搜索功能
 | story_snsant_set_1_story_1 | 数字问题 | - | - |
 | story_sophia_set_1_story_1 | 独家访谈 | - | - |
 | story_sora_set_1_story_1 | 距离 | Distance | 距離 |
-| story_spot_set_1_story_1 | 谁是英雄 | - | - |
+| story_spot_set_1_story_1 | 谁是英雄 | - | 英雄とは |
 | story_sqrrel_set_1_story_1 | 小心火烛 | Careful of Flammables | 火の用心 |
 | story_sqrrel_set_2_story_2 | 易燃品 | Flammables | 可燃物 |
 | story_strong_set_1_story_1 | 将错就错 | Roll With Your Mistakes | 勘違いを押し通して |
@@ -198,15 +198,15 @@ tip: 请善用浏览器的搜索功能
 | story_toddi_set_1_story_1 | 装甲与重弩 | Armor and Crossbow | 装甲と重弩 |
 | story_tomimi_set_1_story_1 | 崭新生活 | Brand New Life | 新たな生活 |
 | story_totter_set_1_story_1 | 计划 | A Plan | 計画 |
-| story_tuye_set_1_story_1 | 沙漠之虹 | - | - |
-| story_vigil_set_1_story_1 | 未来将至 | - | - |
+| story_tuye_set_1_story_1 | 沙漠之虹 | - | 砂漠にかかる虹 |
+| story_vigil_set_1_story_1 | 未来将至 | - | 訪れる未来 |
 | story_vigna_set_1_story_1 | 该做的事 | What You've Gotta Do | すべきこと |
 | story_vodfox_set_1_story_1 | 无字诅咒 | - | - |
 | story_waaifu_set_1_story_1 | 武为何物 | What Martial Arts Serve | 武とは何ぞや |
 | story_weedy_set_1_story_1 | 同舟 | Together Aboard | 同舟 |
 | story_whispr_set_1_story_1 | 雨落之前 | Before the Rain | 雨降る前に |
-| story_wildmn_set_1_story_1 | 憧憬 | - | - |
-| story_windft_set_1_story_1 | 老工厂里的一支舞 | - | - |
+| story_wildmn_set_1_story_1 | 憧憬 | - | 憧憬 |
+| story_windft_set_1_story_1 | 老工厂里的一支舞 | - | 古工場のダンス |
 | story_wyvern_set_1_story_1 | 源石虫与啤酒花 | Originium Slugs and Hops | オリジムシとホップ |
 | story_yak_set_1_story_1 | 一天 | One Day | 一日 |
 | story_yuki_set_1_story_1 | 忍者之道 | The Way of Shinobi | 忍びの道 |

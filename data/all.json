@@ -128,6 +128,7 @@
   "char_1028_texas2": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "血掟テキサス",
       "zh_CN": "缄默德克萨斯"
     }
   },
@@ -1566,6 +1567,7 @@
   "char_4014_lunacu": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "ルナカブ",
       "zh_CN": "子月"
     }
   },
@@ -1744,6 +1746,7 @@
   "char_4063_quartz": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "クォーツ",
       "zh_CN": "石英"
     }
   },
@@ -1758,12 +1761,14 @@
   "char_4065_judge": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "ペナンス",
       "zh_CN": "斥罪"
     }
   },
   "char_4066_highmo": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "ハイモア",
       "zh_CN": "海沫"
     }
   },
@@ -1906,6 +1911,7 @@
   "char_427_vigil": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "ヴィジェル",
       "zh_CN": "伺夜"
     }
   },
@@ -2030,6 +2036,7 @@
   "char_466_qanik": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "カニパラート",
       "zh_CN": "雪绒"
     }
   },
@@ -2272,6 +2279,7 @@
   "char_513_apionr": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "チューリップ",
       "zh_CN": "郁金香"
     }
   },
@@ -2558,6 +2566,7 @@
   "token_10028_vigil_wolf": {
     "type": "TOKEN",
     "names": {
+      "ja_JP": "狼の群れ",
       "zh_CN": "狼群"
     }
   },
@@ -2576,6 +2585,7 @@
   "trap_079_allydonq": {
     "type": "TOKEN",
     "names": {
+      "ja_JP": "猟潮の騎士",
       "zh_CN": "猎潮的骑士"
     }
   },
@@ -3070,24 +3080,28 @@
   "trap_065_normbox": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "宝箱",
       "zh_CN": "宝箱"
     }
   },
   "trap_066_rarebox": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "トゲトゲ宝箱",
       "zh_CN": "尖刺宝箱"
     }
   },
   "trap_067_dice": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "ダイス",
       "zh_CN": "骰子"
     }
   },
   "trap_068_badbox": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "宝箱形恐魚",
       "zh_CN": "箱形恐鱼"
     }
   },
@@ -3198,12 +3212,14 @@
   "trap_083_bunker": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "掩体",
       "zh_CN": "掩体"
     }
   },
   "trap_084_aidkit": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "救急バッグ",
       "zh_CN": "急救包"
     }
   },
@@ -3234,12 +3250,14 @@
   "trap_088_dice2": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "8面ダイス",
       "zh_CN": "8面骰子"
     }
   },
   "trap_089_dice3": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "12面ダイス",
       "zh_CN": "12面骰子"
     }
   },
@@ -3262,6 +3280,7 @@
   "trap_092_vgctrl": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "報復の爪痕",
       "zh_CN": "复仇黑手"
     }
   },
@@ -3820,12 +3839,14 @@
   "char_1014_nearl2@epoque#17": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "栄光の再臨",
       "zh_CN": "复现荣光"
     }
   },
   "char_101_sora@epoque#17": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "メロディオーソ",
       "zh_CN": "如歌"
     }
   },
@@ -5218,6 +5239,7 @@
   "char_391_rosmon@epoque#17": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "始まりを抱く",
       "zh_CN": "拥抱新生"
     }
   },
@@ -5444,6 +5466,7 @@
   "char_449_glider@epoque#17": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "荒野のあとに",
       "zh_CN": "荒野之后"
     }
   },
@@ -5498,6 +5521,7 @@
   "char_472_pasngr@epoque#17": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "玉響の今在",
       "zh_CN": "今昔须臾之梦"
     }
   },
@@ -5600,6 +5624,7 @@
   "char_492_quercu@epoque#17": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "故郷は遠く",
       "zh_CN": "遥乡之径"
     }
   },
@@ -6605,7 +6630,7 @@
     "type": "ENEMY",
     "names": {
       "en_US": "Sicilian",
-      "ja_JP": "シシリアン",
+      "ja_JP": "シチリアーノ",
       "zh_CN": "西西里人"
     }
   },
@@ -6613,7 +6638,7 @@
     "type": "ENEMY",
     "names": {
       "en_US": "Elite Sicilian",
-      "ja_JP": "凶悪シシリアン",
+      "ja_JP": "凶悪シチリアーノ",
       "zh_CN": "精锐西西里人"
     }
   },
@@ -10060,96 +10085,112 @@
   "enemy_1277_sgman": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "マフィアの準構成員",
       "zh_CN": "家族士兵"
     }
   },
   "enemy_1277_sgman_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "マフィアの構成員",
       "zh_CN": "家族精英士兵"
     }
   },
   "enemy_1278_sgbow": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "マフィアの狙撃手",
       "zh_CN": "家族弩手"
     }
   },
   "enemy_1278_sgbow_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "マフィアの精鋭狙撃手",
       "zh_CN": "家族精英弩手"
     }
   },
   "enemy_1279_sgbdg": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "マフィアの脅迫者",
       "zh_CN": "家族恫吓者"
     }
   },
   "enemy_1279_sgbdg_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "マフィアの剛腕脅迫者",
       "zh_CN": "家族强暴恫吓者"
     }
   },
   "enemy_1280_sgmag": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "マフィアの術師",
       "zh_CN": "家族术师"
     }
   },
   "enemy_1280_sgmag_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "マフィアの精鋭術師",
       "zh_CN": "家族精英术师"
     }
   },
   "enemy_1281_sgcar": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "マフィアの専用車",
       "zh_CN": "家族专用轿车"
     }
   },
   "enemy_1281_sgcar_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "マフィアの専用高級車",
       "zh_CN": "家族豪华轿车"
     }
   },
   "enemy_1282_sgelder": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "マフィアの幹部",
       "zh_CN": "家族角头"
     }
   },
   "enemy_1282_sgelder_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "マフィアの敏腕幹部",
       "zh_CN": "家族铁腕角头"
     }
   },
   "enemy_1283_sgkill": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "マフィアの掃除人",
       "zh_CN": "家族灭迹人"
     }
   },
   "enemy_1283_sgkill_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "マフィアの一流掃除人",
       "zh_CN": "家族暗影灭迹人"
     }
   },
   "enemy_1284_sgprst": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "アグニル神父",
       "zh_CN": "阿格尼尔神父"
     }
   },
   "enemy_1285_sgwlf": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「関係ない」男",
       "zh_CN": "“与我无关”"
     }
   },
@@ -10980,6 +11021,7 @@
   "enemy_1535_wlfmster": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「狼主」ザーロ",
       "zh_CN": "扎罗，“狼之主” "
     }
   },
@@ -11206,120 +11248,140 @@
   "enemy_2021_syfish": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "骨海のワンダラー",
       "zh_CN": "骨海漂流体"
     }
   },
   "enemy_2022_syzeni": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "固海のメイソン",
       "zh_CN": "固海凿石者"
     }
   },
   "enemy_2023_sypult": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "仔を投げる母体",
       "zh_CN": "投嗣育母"
     }
   },
   "enemy_2024_synut": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "見放されたダミー",
       "zh_CN": "注亡拟嗣"
     }
   },
   "enemy_2025_syufo": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "掠海のフローター",
       "zh_CN": "掠海漂移体"
     }
   },
   "enemy_2026_syudg": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "聖徒カルメン",
       "zh_CN": "圣徒卡门"
     }
   },
   "enemy_2027_syudg2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "聖徒イベリア",
       "zh_CN": "圣徒伊比利亚"
     }
   },
   "enemy_2028_syevil": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "験潮の司教",
       "zh_CN": "接潮主教"
     }
   },
   "enemy_2029_symon": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "験潮の蔑死者",
       "zh_CN": "接潮蔑死体"
     }
   },
   "enemy_2030_symon2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "験潮の斥死者",
       "zh_CN": "接潮斥亡体"
     }
   },
   "enemy_2031_syboy": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "パスファインダー",
       "zh_CN": "塑路者"
     }
   },
   "enemy_2032_syboy2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "延命するパスファインダー",
       "zh_CN": "延命塑路者"
     }
   },
   "enemy_2033_syboys": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "パスファインダーの影",
       "zh_CN": "塑路者分形"
     }
   },
   "enemy_2034_sythef": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "涙目の坊や",
       "zh_CN": "流泪小子"
     }
   },
   "enemy_2035_sybox": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "宝箱形恐魚",
       "zh_CN": "箱形恐鱼"
     }
   },
   "enemy_2036_syshop": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "キャノット",
       "zh_CN": "坎诺特"
     }
   },
   "enemy_2037_sygirl": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「偏執の泡沫」",
       "zh_CN": "“偏执泡影”"
     }
   },
   "enemy_2038_sydonq": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "最後の騎士",
       "zh_CN": "最后的骑士"
     }
   },
   "enemy_2039_syskad": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "イシャームラ、腐蝕された心",
       "zh_CN": "伊莎玛拉，腐化之心"
     }
   },
   "enemy_2040_syrott": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "イシャームラの涙",
       "zh_CN": "伊莎玛拉之泪"
     }
   },
@@ -11362,6 +11424,7 @@
   "enemy_3004_speople": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "シラクーザの市民",
       "zh_CN": "叙拉古平民"
     }
   },
@@ -11770,6 +11833,7 @@
   "act12login": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "ログイン報酬",
       "zh_CN": "登录领取奖励"
     }
   },
@@ -12172,6 +12236,7 @@
   "act1float": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "ニューライトバーグ市産業懇談会",
       "zh_CN": "纽莱堡市产业合作洽谈会"
     }
   },
@@ -12214,6 +12279,7 @@
   "act21side": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "シラクザーノ",
       "zh_CN": "叙拉古人"
     }
   },
@@ -12362,6 +12428,7 @@
   "act31sign": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "長雨の候スタンプラリー",
       "zh_CN": "正逢雨季限时登录活动"
     }
   },
@@ -14032,6 +14099,7 @@
   "LIMITED_TKT_GACHA_10_3301": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "感謝祭記念10回スカウト券",
       "zh_CN": "归狼踏影寻访凭证"
     }
   },
@@ -14142,6 +14210,7 @@
   "LMTGS_COIN_3301": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "限定契約証",
       "zh_CN": "寻访数据契约"
     }
   },
@@ -14690,6 +14759,7 @@
   "act21side_token_permesso": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "買付許可証",
       "zh_CN": "进货通行证"
     }
   },
@@ -16430,6 +16500,7 @@
   "p_char_1028_texas2": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "血掟テキサスの印",
       "zh_CN": "缄默德克萨斯的信物"
     }
   },
@@ -17860,6 +17931,7 @@
   "p_char_4014_lunacu": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ルナカブの印",
       "zh_CN": "子月的信物"
     }
   },
@@ -18030,6 +18102,7 @@
   "p_char_4063_quartz": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "クォーツの印",
       "zh_CN": "石英的信物"
     }
   },
@@ -18044,12 +18117,14 @@
   "p_char_4065_judge": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ペナンスの印",
       "zh_CN": "斥罪的信物"
     }
   },
   "p_char_4066_highmo": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ハイモアの印",
       "zh_CN": "海沫的信物"
     }
   },
@@ -18296,6 +18371,7 @@
   "p_char_466_qanik": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "カニパラートの印",
       "zh_CN": "雪绒的信物"
     }
   },
@@ -18758,12 +18834,14 @@
   "rogue_2_token_bp": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "有機細胞",
       "zh_CN": "生机细胞"
     }
   },
   "rogue_2_token_grow": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "主観的想像",
       "zh_CN": "主观想象"
     }
   },
@@ -19278,12 +19356,14 @@
   "uni_set_outdoor_1": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "海辺風家具パックvol.1",
       "zh_CN": "海滨印象家具收藏包一"
     }
   },
   "uni_set_outdoor_2": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "海辺風家具パックvol.2",
       "zh_CN": "海滨印象家具收藏包二"
     }
   },
@@ -19516,6 +19596,7 @@
   "voucher_item_pick3301": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "感謝祭記念★6招聘指名券",
       "zh_CN": "感谢庆典干员凭证"
     }
   },
@@ -19536,12 +19617,14 @@
   "voucher_levelmax_5": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "エリート特訓装置",
       "zh_CN": "资深干员特训装置"
     }
   },
   "voucher_levelmax_6": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "上級エリート特訓装置",
       "zh_CN": "高级资深干员特训装置"
     }
   },
@@ -19614,6 +19697,7 @@
   "voucher_vigil": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ヴィジェルの書類挟み",
       "zh_CN": "伺夜的文件夹"
     }
   },
@@ -20352,6 +20436,12 @@
       "ja_JP": "戦斧と万年筆"
     }
   },
+  "_LIMITED_21_1_1": {
+    "type": "POOL",
+    "names": {
+      "ja_JP": "茨道拓く一閃"
+    }
+  },
   "_LIMITED_4_3_1": {
     "type": "POOL",
     "names": {
@@ -20958,6 +21048,7 @@
   "skchr_apionr_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "残り香",
       "zh_CN": "只余芬芳"
     }
   },
@@ -22526,12 +22617,14 @@
   "skchr_highmo_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "懐古、別れ",
       "zh_CN": "回首，断舍"
     }
   },
   "skchr_highmo_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "泡沫、破滅",
       "zh_CN": "泡影，殆尽"
     }
   },
@@ -22808,18 +22901,21 @@
   "skchr_judge_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "裁決のガベル",
       "zh_CN": "一锤定音"
     }
   },
   "skchr_judge_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "確固たる決意",
       "zh_CN": "坚心苦修"
     }
   },
   "skchr_judge_3": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "茨道を拓く",
       "zh_CN": "披荆斩棘"
     }
   },
@@ -23108,12 +23204,14 @@
   "skchr_lunacu_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "狩猟開始",
       "zh_CN": "狩猎时刻"
     }
   },
   "skchr_lunacu_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "影に潜む狩人",
       "zh_CN": "伏击之影"
     }
   },
@@ -23834,12 +23932,14 @@
   "skchr_qanik_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "吹きすさぶ凍風",
       "zh_CN": "冻风"
     }
   },
   "skchr_qanik_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "駆けのぼる氷雪",
       "zh_CN": "坠雪"
     }
   },
@@ -23864,6 +23964,7 @@
   "skchr_quartz_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "フルスイング",
       "zh_CN": "全力相搏"
     }
   },
@@ -24556,18 +24657,21 @@
   "skchr_texas2_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "ピオヴィッジネ",
       "zh_CN": "细雨无声"
     }
   },
   "skchr_texas2_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "アクアツォーネ",
       "zh_CN": "阵雨连绵"
     }
   },
   "skchr_texas2_3": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "ロヴェーショ",
       "zh_CN": "剑雨滂沱"
     }
   },
@@ -24710,18 +24814,21 @@
   "skchr_vigil_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "統率者の一声",
       "zh_CN": "领袖的呼唤"
     }
   },
   "skchr_vigil_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "統率者の恩賞",
       "zh_CN": "领袖的馈赠"
     }
   },
   "skchr_vigil_3": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "統率者の威厳",
       "zh_CN": "领袖的尊严"
     }
   },
@@ -25162,6 +25269,7 @@
   "sktok_aidkit": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "応急処置",
       "zh_CN": "急救"
     }
   },
@@ -25200,6 +25308,7 @@
   "sktok_allydonq": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "突貫",
       "zh_CN": "冲锋"
     }
   },
@@ -25214,6 +25323,7 @@
   "sktok_badbox": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "財宝の蕩めき",
       "zh_CN": "极诱人珍宝"
     }
   },
@@ -25378,6 +25488,7 @@
   "sktok_bunker": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "障害物",
       "zh_CN": "障碍物"
     }
   },
@@ -25600,18 +25711,21 @@
   "sktok_dice": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "ダイスロール",
       "zh_CN": "掷骰"
     }
   },
   "sktok_dice2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "ダイスロール",
       "zh_CN": "掷骰"
     }
   },
   "sktok_dice3": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "ダイスロール",
       "zh_CN": "掷骰"
     }
   },
@@ -26070,6 +26184,7 @@
   "sktok_normbox": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "財宝のいざない",
       "zh_CN": "诱人珍宝"
     }
   },
@@ -26190,6 +26305,7 @@
   "sktok_rarebox": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "財宝の蠱惑",
       "zh_CN": "更诱人珍宝"
     }
   },
@@ -26558,24 +26674,28 @@
   "sktok_vgctrl": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "報復の爪痕",
       "zh_CN": "复仇黑手"
     }
   },
   "sktok_vigil_wolf_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "群狼",
       "zh_CN": "狼群"
     }
   },
   "sktok_vigil_wolf_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "群狼",
       "zh_CN": "狼群"
     }
   },
   "sktok_vigil_wolf_3": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "群狼",
       "zh_CN": "狼群"
     }
   },
@@ -29530,204 +29650,238 @@
   "act21side_01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "静かなる雨",
       "zh_CN": "雨落无声"
     }
   },
   "act21side_01_m": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "ウォルシーニ監獄",
       "zh_CN": "沃尔西尼监狱"
     }
   },
   "act21side_01_t": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "新市街の大通り",
       "zh_CN": "新城区大街"
     }
   },
   "act21side_02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "誉れある者",
       "zh_CN": "荣誉之人"
     }
   },
   "act21side_02_m": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "洗車屋",
       "zh_CN": "洗车店"
     }
   },
   "act21side_02_t": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "サルッツォの屋敷",
       "zh_CN": "萨卢佐家"
     }
   },
   "act21side_03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "衆矢の的",
       "zh_CN": "万箭所指"
     }
   },
   "act21side_03_m1": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "ベッローネの屋敷",
       "zh_CN": "贝洛内家"
     }
   },
   "act21side_03_m2": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "裏通り",
       "zh_CN": "后巷"
     }
   },
   "act21side_04": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "雷鳴の夜",
       "zh_CN": "苦夜惊雷"
     }
   },
   "act21side_04_m1": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "サルッツォの屋敷",
       "zh_CN": "萨卢佐家"
     }
   },
   "act21side_04_m2": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "ウォルシーニ裁判所",
       "zh_CN": "沃尔西尼法庭"
     }
   },
   "act21side_05": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "変わらざる掟",
       "zh_CN": "恒久法则"
     }
   },
   "act21side_05_m1": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "裏通り",
       "zh_CN": "后巷"
     }
   },
   "act21side_05_m2": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "ミラノ劇場",
       "zh_CN": "米兰剧场"
     }
   },
   "act21side_05_t": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "裏通り",
       "zh_CN": "后巷"
     }
   },
   "act21side_06": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "迫りくる過去",
       "zh_CN": "旧日碾轧"
     }
   },
   "act21side_06_m": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "ペンギン急便のアジト",
       "zh_CN": "企鹅物流据点"
     }
   },
   "act21side_06_t": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "新市街の大通り",
       "zh_CN": "新城区大街"
     }
   },
   "act21side_07": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "忘れえぬ記憶",
       "zh_CN": "何以忘却"
     }
   },
   "act21side_08": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "累卵の危機",
       "zh_CN": "危如累卵"
     }
   },
   "act21side_09": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "偽りの文明",
       "zh_CN": "文明的谎言"
     }
   },
   "act21side_09_t": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "シティホール",
       "zh_CN": "沃尔西尼市政中心"
     }
   },
   "act21side_10": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "「狼の主」",
       "zh_CN": "“狼之主”"
     }
   },
   "act21side_s01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "謀殺",
       "zh_CN": "谋杀"
     }
   },
   "act21side_s02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "翻弄",
       "zh_CN": "摆布"
     }
   },
   "act21side_s03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "報復",
       "zh_CN": "报复"
     }
   },
   "act21side_s04": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "褒賞",
       "zh_CN": "悬赏"
     }
   },
   "act21side_s05": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "懺悔",
       "zh_CN": "忏悔"
     }
   },
   "act21side_st01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "長患い",
       "zh_CN": "沉疴"
     }
   },
   "act21side_st02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "切開",
       "zh_CN": "切开"
     }
   },
   "act21side_st03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "摘出",
       "zh_CN": "剜刺"
     }
   },
   "act21side_st04": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "縫合",
       "zh_CN": "缝合"
     }
   },
   "act21side_tr01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "歯には歯を",
       "zh_CN": "以牙还牙"
     }
   },
@@ -34608,18 +34762,21 @@
   "act21side_zone1": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "暗い長雨",
       "zh_CN": "连阴雨季"
     }
   },
   "act21side_zone2": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "銃と秩序",
       "zh_CN": "铳与秩序"
     }
   },
   "act21side_zone3": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "荒野を名乗る者",
       "zh_CN": "自诩荒野"
     }
   },
@@ -35474,6 +35631,7 @@
   "story_beewax_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "黄砂の帰路",
       "zh_CN": "黄沙归途"
     }
   },
@@ -35486,6 +35644,7 @@
   "story_bibeak_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "殻を破る",
       "zh_CN": "破壳"
     }
   },
@@ -35498,6 +35657,7 @@
   "story_billro_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "保護者の本能",
       "zh_CN": "保护者的本性"
     }
   },
@@ -35748,6 +35908,7 @@
   "story_elysm_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "長き旅路",
       "zh_CN": "漫长旅途"
     }
   },
@@ -35784,6 +35945,7 @@
   "story_f12yin_set_2_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "罪へと赴く",
       "zh_CN": "赴罪"
     }
   },
@@ -35912,6 +36074,7 @@
   "story_glider_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "苦い根茎",
       "zh_CN": "苦涩的根茎"
     }
   },
@@ -36194,6 +36357,7 @@
   "story_meteo_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "一灯の蛍火",
       "zh_CN": "一星萤火"
     }
   },
@@ -36640,6 +36804,7 @@
   "story_spot_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "英雄とは",
       "zh_CN": "谁是英雄"
     }
   },
@@ -36792,12 +36957,14 @@
   "story_tuye_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "砂漠にかかる虹",
       "zh_CN": "沙漠之虹"
     }
   },
   "story_vigil_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "訪れる未来",
       "zh_CN": "未来将至"
     }
   },
@@ -36842,12 +37009,14 @@
   "story_wildmn_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "憧憬",
       "zh_CN": "憧憬"
     }
   },
   "story_windft_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "古工場のダンス",
       "zh_CN": "老工厂里的一支舞"
     }
   },
