@@ -66,10 +66,10 @@ tip: 请善用浏览器的搜索功能
 | trap_062_magicstart | “低音号” | 'Tuba' | 「チューバ」 |
 | trap_063_magicturn | L-7 “回音壁” | L-7 'Whisperer' | L-7「ウィスパラー」 |
 | trap_064_magiccircle | “谐振器” | 'Resonator' | 「レゾネーター」 |
-| trap_065_normbox | 宝箱 | - | 宝箱 |
-| trap_066_rarebox | 尖刺宝箱 | - | トゲトゲ宝箱 |
-| trap_067_dice | 骰子 | - | ダイス |
-| trap_068_badbox | 箱形恐鱼 | - | 宝箱形恐魚 |
+| trap_065_normbox | 宝箱 | Treasure Chest | 宝箱 |
+| trap_066_rarebox | 尖刺宝箱 | Spiked Treasure Chest | トゲトゲ宝箱 |
+| trap_067_dice | 骰子 | Dice | ダイス |
+| trap_068_badbox | 箱形恐鱼 | Chest Seaborn | 宝箱形恐魚 |
 | trap_069_buffcard | 战备激活阀 | Equipment Activation Valve | 装備起動用バルブ |
 | trap_070_supplycard | 预备区发讯器 | Preparation Area Transmitter | 準備エリア送信機 |
 | trap_071_recyclecard | 紧急召回情报箱 | Emergency Recall Box | 緊急召還情報ボックス |
@@ -83,16 +83,16 @@ tip: 请善用浏览器的搜索功能
 | trap_080_garage | 自走车出发点 | Self-Driving Cart Launchpoint | セルカースターター |
 | trap_081_turngear | 自走车单行道 | Self-Driving Cart One-Way Road | ターンテーブル |
 | trap_082_salecard | 改派发讯器 | Reassignment Transmitter | 再配置送信機 |
-| trap_083_bunker | 掩体 | - | 掩体 |
-| trap_084_aidkit | 急救包 | - | 救急バッグ |
+| trap_083_bunker | 掩体 | Barrier | 掩体 |
+| trap_084_aidkit | 急救包 | First-aid Kit | 救急バッグ |
 | trap_085_paras | 荧光孢子 | Fluorescent Spores | 蛍光胞子 |
 | trap_086_larva | “汲营枯枝”  | 'Twigs That Crave' | 「渇欲の枯枝」  |
 | trap_087_allady | 阿勒黛的卫护 | Allerdale's Guard | アラデルの衛護 |
-| trap_088_dice2 | 8面骰子 | - | 8面ダイス |
-| trap_089_dice3 | 12面骰子 | - | 12面ダイス |
+| trap_088_dice2 | 8面骰子 | 8-Sided Dice | 8面ダイス |
+| trap_089_dice3 | 12面骰子 | 12-Sided Dice | 12面ダイス |
 | trap_090_recodr | 实体程式 | Entitative Program | 実体プログラム |
 | trap_091_brctrl | 实体程式控制 | Entitative Program Controller | 実体プログラム制御 |
-| trap_092_vgctrl | 复仇黑手 | - | 報復の爪痕 |
+| trap_092_vgctrl | 复仇黑手 | Vengeful Mafioso | 報復の爪痕 |
 | trap_093_tbattbc | 钳兽壳粉 | Gloompincer Shell Meal | 鉗獣殻パウダー |
 | trap_094_tbpsnc | 高效泡打粉 | High-Efficiency Baking Powder | ベーキングパウダー |
 | trap_095_tbsmmc | 芳香精油 | Fragrant Essential Oil | エッセンシャルオイル |

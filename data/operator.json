@@ -78,6 +78,7 @@
     "zh_CN": "承曦格雷伊"
   },
   "char_1028_texas2": {
+    "en_US": "Texas the Omertosa",
     "ja_JP": "血掟テキサス",
     "zh_CN": "缄默德克萨斯"
   },
@@ -971,6 +972,7 @@
     "zh_CN": "耶拉"
   },
   "char_4014_lunacu": {
+    "en_US": "Lunacub",
     "ja_JP": "ルナカブ",
     "zh_CN": "子月"
   },
@@ -1081,6 +1083,7 @@
     "zh_CN": "铅踝"
   },
   "char_4063_quartz": {
+    "en_US": "Quartz",
     "ja_JP": "クォーツ",
     "zh_CN": "石英"
   },
@@ -1090,10 +1093,12 @@
     "zh_CN": "玛恩纳"
   },
   "char_4065_judge": {
+    "en_US": "Penance",
     "ja_JP": "ペナンス",
     "zh_CN": "斥罪"
   },
   "char_4066_highmo": {
+    "en_US": "Highmore",
     "ja_JP": "ハイモア",
     "zh_CN": "海沫"
   },
@@ -1177,6 +1182,7 @@
     "zh_CN": "卡涅利安"
   },
   "char_427_vigil": {
+    "en_US": "Vigil",
     "ja_JP": "ヴィジェル",
     "zh_CN": "伺夜"
   },
@@ -1254,6 +1260,7 @@
     "zh_CN": "洋灰"
   },
   "char_466_qanik": {
+    "en_US": "Qanipalaat",
     "ja_JP": "カニパラート",
     "zh_CN": "雪绒"
   },
@@ -1404,6 +1411,7 @@
     "zh_CN": "暮落"
   },
   "char_513_apionr": {
+    "en_US": "Tulip",
     "ja_JP": "チューリップ",
     "zh_CN": "郁金香"
   },

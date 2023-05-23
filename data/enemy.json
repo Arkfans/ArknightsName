@@ -2675,66 +2675,82 @@
     "zh_CN": "特雷西斯"
   },
   "enemy_1277_sgman": {
+    "en_US": "Famiglia Soldier",
     "ja_JP": "マフィアの準構成員",
     "zh_CN": "家族士兵"
   },
   "enemy_1277_sgman_2": {
+    "en_US": "Elite Famiglia Soldier",
     "ja_JP": "マフィアの構成員",
     "zh_CN": "家族精英士兵"
   },
   "enemy_1278_sgbow": {
+    "en_US": "Famiglia Crossbowman",
     "ja_JP": "マフィアの狙撃手",
     "zh_CN": "家族弩手"
   },
   "enemy_1278_sgbow_2": {
+    "en_US": "Elite Famiglia Crossbowman",
     "ja_JP": "マフィアの精鋭狙撃手",
     "zh_CN": "家族精英弩手"
   },
   "enemy_1279_sgbdg": {
+    "en_US": "Famiglia Intimidator",
     "ja_JP": "マフィアの脅迫者",
     "zh_CN": "家族恫吓者"
   },
   "enemy_1279_sgbdg_2": {
+    "en_US": "Famiglia Terrorizer",
     "ja_JP": "マフィアの剛腕脅迫者",
     "zh_CN": "家族强暴恫吓者"
   },
   "enemy_1280_sgmag": {
+    "en_US": "Famiglia Caster",
     "ja_JP": "マフィアの術師",
     "zh_CN": "家族术师"
   },
   "enemy_1280_sgmag_2": {
+    "en_US": "Elite Famiglia Caster",
     "ja_JP": "マフィアの精鋭術師",
     "zh_CN": "家族精英术师"
   },
   "enemy_1281_sgcar": {
+    "en_US": "Famiglia Limo",
     "ja_JP": "マフィアの専用車",
     "zh_CN": "家族专用轿车"
   },
   "enemy_1281_sgcar_2": {
+    "en_US": "Famiglia Luxury Limo",
     "ja_JP": "マフィアの専用高級車",
     "zh_CN": "家族豪华轿车"
   },
   "enemy_1282_sgelder": {
+    "en_US": "Famiglia Capo",
     "ja_JP": "マフィアの幹部",
     "zh_CN": "家族角头"
   },
   "enemy_1282_sgelder_2": {
+    "en_US": "Famiglia Heavy Capo",
     "ja_JP": "マフィアの敏腕幹部",
     "zh_CN": "家族铁腕角头"
   },
   "enemy_1283_sgkill": {
+    "en_US": "Famiglia Cleaner",
     "ja_JP": "マフィアの掃除人",
     "zh_CN": "家族灭迹人"
   },
   "enemy_1283_sgkill_2": {
+    "en_US": "Famiglia Silent Cleaner",
     "ja_JP": "マフィアの一流掃除人",
     "zh_CN": "家族暗影灭迹人"
   },
   "enemy_1284_sgprst": {
+    "en_US": "Father Agenir",
     "ja_JP": "アグニル神父",
     "zh_CN": "阿格尼尔神父"
   },
   "enemy_1285_sgwlf": {
+    "en_US": "'None of My Business'",
     "ja_JP": "「関係ない」男",
     "zh_CN": "“与我无关”"
   },
@@ -3185,6 +3201,7 @@
     "zh_CN": "“最后的蒸汽骑士”"
   },
   "enemy_1535_wlfmster": {
+    "en_US": "Zaaro, Signore dei Lupi",
     "ja_JP": "「狼主」ザーロ",
     "zh_CN": "扎罗，“狼之主” "
   },
@@ -3319,82 +3336,102 @@
     "zh_CN": "“剧作家”"
   },
   "enemy_2021_syfish": {
+    "en_US": "Bone Sea Drifter",
     "ja_JP": "骨海のワンダラー",
     "zh_CN": "骨海漂流体"
   },
   "enemy_2022_syzeni": {
+    "en_US": "Ocean Stonecutter",
     "ja_JP": "固海のメイソン",
     "zh_CN": "固海凿石者"
   },
   "enemy_2023_sypult": {
+    "en_US": "Retching Broodmother",
     "ja_JP": "仔を投げる母体",
     "zh_CN": "投嗣育母"
   },
   "enemy_2024_synut": {
+    "en_US": "Baleful Broodling",
     "ja_JP": "見放されたダミー",
     "zh_CN": "注亡拟嗣"
   },
   "enemy_2025_syufo": {
+    "en_US": "Skimming Sea Drifter",
     "ja_JP": "掠海のフローター",
     "zh_CN": "掠海漂移体"
   },
   "enemy_2026_syudg": {
+    "en_US": "Saint Carmen",
     "ja_JP": "聖徒カルメン",
     "zh_CN": "圣徒卡门"
   },
   "enemy_2027_syudg2": {
+    "en_US": "Saint Iberia",
     "ja_JP": "聖徒イベリア",
     "zh_CN": "圣徒伊比利亚"
   },
   "enemy_2028_syevil": {
+    "en_US": "Tidelinked Bishop",
     "ja_JP": "験潮の司教",
     "zh_CN": "接潮主教"
   },
   "enemy_2029_symon": {
+    "en_US": "Tidelinked Archon",
     "ja_JP": "験潮の蔑死者",
     "zh_CN": "接潮蔑死体"
   },
   "enemy_2030_symon2": {
+    "en_US": "Tidelinked Immortal",
     "ja_JP": "験潮の斥死者",
     "zh_CN": "接潮斥亡体"
   },
   "enemy_2031_syboy": {
+    "en_US": "Pathshaper",
     "ja_JP": "パスファインダー",
     "zh_CN": "塑路者"
   },
   "enemy_2032_syboy2": {
+    "en_US": "Lingering Pathshaper",
     "ja_JP": "延命するパスファインダー",
     "zh_CN": "延命塑路者"
   },
   "enemy_2033_syboys": {
+    "en_US": "Pathshaper Fractal",
     "ja_JP": "パスファインダーの影",
     "zh_CN": "塑路者分形"
   },
   "enemy_2034_sythef": {
+    "en_US": "Crying Thief",
     "ja_JP": "涙目の坊や",
     "zh_CN": "流泪小子"
   },
   "enemy_2035_sybox": {
+    "en_US": "Chest Seaborn",
     "ja_JP": "宝箱形恐魚",
     "zh_CN": "箱形恐鱼"
   },
   "enemy_2036_syshop": {
+    "en_US": "Cannot",
     "ja_JP": "キャノット",
     "zh_CN": "坎诺特"
   },
   "enemy_2037_sygirl": {
+    "en_US": "'Paranoia Illusion'",
     "ja_JP": "「偏執の泡沫」",
     "zh_CN": "“偏执泡影”"
   },
   "enemy_2038_sydonq": {
+    "en_US": "The Last Knight",
     "ja_JP": "最後の騎士",
     "zh_CN": "最后的骑士"
   },
   "enemy_2039_syskad": {
+    "en_US": "Ishar'mla, Heart of Corruption",
     "ja_JP": "イシャームラ、腐蝕された心",
     "zh_CN": "伊莎玛拉，腐化之心"
   },
   "enemy_2040_syrott": {
+    "en_US": "Ishar'mla's Tears",
     "ja_JP": "イシャームラの涙",
     "zh_CN": "伊莎玛拉之泪"
   },
@@ -3420,6 +3457,7 @@
     "zh_CN": "大奖赛运输艇"
   },
   "enemy_3004_speople": {
+    "en_US": "Siracusan Civilian",
     "ja_JP": "シラクーザの市民",
     "zh_CN": "叙拉古平民"
   },

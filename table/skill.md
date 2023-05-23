@@ -28,7 +28,7 @@ tip: 请善用浏览器的搜索功能
 | skchr_angel_2 | 扫射模式 | Shooting Mode | バーストモード |
 | skchr_angel_3 | 过载模式 | Overloading Mode | オーバーロード |
 | skchr_aosta_2 | 影钉 | Shadow Nails | 影縫い釘 |
-| skchr_apionr_1 | 只余芬芳 | - | 残り香 |
+| skchr_apionr_1 | 只余芬芳 | Lingering Scent | 残り香 |
 | skchr_aprl_1 | 精准射击 | Precise Shooting | 精密射撃 |
 | skchr_aprl_2 | 灵活伪装 | Flexible Camouflage | コンシールメント |
 | skchr_aprot2_1 | 速战速决 | Rapid Onslaught | 短期決戦 |
@@ -228,8 +228,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_heyak_1 | 但为求索 | - | - |
 | skchr_heyak_2 | 群星逶迤 | - | - |
 | skchr_heyak_3 | 博览者的狂语 | - | - |
-| skchr_highmo_1 | 回首，断舍 | - | 懐古、別れ |
-| skchr_highmo_2 | 泡影，殆尽 | - | 泡沫、破滅 |
+| skchr_highmo_1 | 回首，断舍 | Surrendrance from Hindsight | 懐古、別れ |
+| skchr_highmo_2 | 泡影，殆尽 | Evanescence from Paranoia | 泡沫、破滅 |
 | skchr_hmau_1 | 反制治疗 | Treatment Countermeasure | 応急処置・受動 |
 | skchr_hmau_2 | 反制医疗模式 | Medical Mode Countermeasure | 医療態勢・受動 |
 | skchr_horn_1 | 照明榴弹 | Flare Grenade | 照明榴弾 |
@@ -265,9 +265,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_jaksel_2 | 全神贯注！ | Pay Close Attention! | 全神経集中！ |
 | skchr_jesica_1 | 强力击·β型 | Power Strike β | 強撃β |
 | skchr_jesica_2 | 掩护烟幕 | Smokescreen | 煙幕 |
-| skchr_judge_1 | 一锤定音 | - | 裁決のガベル |
-| skchr_judge_2 | 坚心苦修 | - | 確固たる決意 |
-| skchr_judge_3 | 披荆斩棘 | - | 茨道を拓く |
+| skchr_judge_1 | 一锤定音 | Last Word | 裁決のガベル |
+| skchr_judge_2 | 坚心苦修 | Stoic Atonement | 確固たる決意 |
+| skchr_judge_3 | 披荆斩棘 | Trial of Thorns | 茨道を拓く |
 | skchr_kafka_1 | 怪异魔方 | Cube of Absurdism | ミステリーキューブ |
 | skchr_kafka_2 | 诡异剪刀 | Shears of Surrealism | カオスシザーズ |
 | skchr_kalts_1 | 指令：结构加固 | Command: Structural Fortification | 指令：構造強化 |
@@ -304,8 +304,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_lumen_1 | 沐雨 | In Drizzle, Privation | 恵みの慈雨 |
 | skchr_lumen_2 | 沛霖 | In Downpour, Grace | 清めの沛雨 |
 | skchr_lumen_3 | 灯火不灭 | This Lantern Undying | 不滅の灯火 |
-| skchr_lunacu_1 | 狩猎时刻 | - | 狩猟開始 |
-| skchr_lunacu_2 | 伏击之影 | - | 影に潜む狩人 |
+| skchr_lunacu_1 | 狩猎时刻 | Time to Hunt | 狩猟開始 |
+| skchr_lunacu_2 | 伏击之影 | Umbral Ambush | 影に潜む狩人 |
 | skchr_malist_2 | 神工意匠 | Prodigious Craftsmanship | マスターピース |
 | skchr_mantic_1 | 蝎毒 | Scorpion Venom | アジトキシン |
 | skchr_mantic_2 | 蓄力毒尾击 | Toxic Overload | スコーピオンテール |
@@ -398,12 +398,12 @@ tip: 请善用浏览器的搜索功能
 | skchr_pudd_2 | 扩散电流 | Diffusion Current | 電子流拡散 |
 | skchr_puzzle_1 | 关键线索 | - | - |
 | skchr_puzzle_2 | 疑点追踪 | - | - |
-| skchr_qanik_1 | 冻风 | - | 吹きすさぶ凍風 |
-| skchr_qanik_2 | 坠雪 | - | 駆けのぼる氷雪 |
+| skchr_qanik_1 | 冻风 | Frigid Wind | 吹きすさぶ凍風 |
+| skchr_qanik_2 | 坠雪 | Falling Snow | 駆けのぼる氷雪 |
 | skchr_qiubai_1 | 留羽 | - | - |
 | skchr_qiubai_2 | 承影 | - | - |
 | skchr_qiubai_3 | 问雪 | - | - |
-| skchr_quartz_2 | 全力相搏 | - | フルスイング |
+| skchr_quartz_2 | 全力相搏 | All-Out Clash | フルスイング |
 | skchr_quercu_1 | 大地的慈悲 | Earth's Benevolence | 大地の慈悲 |
 | skchr_quercu_2 | 生灵的回响 | Echo of Life | 生命の木霊 |
 | skchr_red_1 | 处决模式 | Execution Mode | 処刑の構え |
@@ -491,9 +491,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_tachak_2 | 倾泻弹药 | Spray and Pray | 制圧射撃 |
 | skchr_takila_1 | 当机立断 | Decisive Action | 即断即決 |
 | skchr_takila_2 | 剑走偏锋 | Esoteric Bladework | 極刃奇襲 |
-| skchr_texas2_1 | 细雨无声 | - | ピオヴィッジネ |
-| skchr_texas2_2 | 阵雨连绵 | - | アクアツォーネ |
-| skchr_texas2_3 | 剑雨滂沱 | - | ロヴェーショ |
+| skchr_texas2_1 | 细雨无声 | Silent Drizzle | ピオヴィッジネ |
+| skchr_texas2_2 | 阵雨连绵 | Unrelenting Downpour | アクアツォーネ |
+| skchr_texas2_3 | 剑雨滂沱 | Torrential Sword Rain | ロヴェーショ |
 | skchr_texas_2 | 剑雨 | Sword Rain | 剣雨 |
 | skchr_thorns_2 | 护身尖刺 | Protective Spikes | 迎撃針棘 |
 | skchr_thorns_3 | 至高之术 | Destreza | デストレッツァ |
@@ -511,9 +511,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_tuye_2 | 强心剂 | Cardiac Stimulant | カンフル剤 |
 | skchr_utage_1 | 分神 | Space Out | サボり |
 | skchr_utage_2 | 落地斩·破门 | Descending Strike - Earth Splitter | 落地斬・突破 |
-| skchr_vigil_1 | 领袖的呼唤 | - | 統率者の一声 |
-| skchr_vigil_2 | 领袖的馈赠 | - | 統率者の恩賞 |
-| skchr_vigil_3 | 领袖的尊严 | - | 統率者の威厳 |
+| skchr_vigil_1 | 领袖的呼唤 | Packleader's Call | 統率者の一声 |
+| skchr_vigil_2 | 领袖的馈赠 | Packleader's Gift | 統率者の恩賞 |
+| skchr_vigil_3 | 领袖的尊严 | Packleader's Dignity | 統率者の威厳 |
 | skchr_vigna_1 | 攻击力强化·β型 | ATK Up β | 攻撃力強化β |
 | skchr_vigna_2 | 槌音 | Hammer-On | ハンマリング・オン |
 | skchr_vodfox_1 | 病入膏肓 | Malediction | 不治の呪い |
@@ -569,14 +569,14 @@ tip: 请善用浏览器的搜索功能
 | skcom_quickattack[3] | 迅捷打击·γ型 | Swift Strike γ | 迅速攻撃γ |
 | skcom_range_extend | 治疗范围强化 | Healing Range Up | 回復範囲強化 |
 | skcom_withdraw | 自我销毁 | Self-Destruct | 自動消滅 |
-| sktok_aidkit | 急救 | - | 応急処置 |
+| sktok_aidkit | 急救 | First Aid | 応急処置 |
 | sktok_airbomb | 砰！ | Bang! | バン！ |
 | sktok_airsup | 派遣空援 | Dispatch Air Support | 空援派遣 |
 | sktok_allady | 阿勒黛的卫护 | Allerdale's Guard | アラデルの衛護 |
 | sktok_allady_2 | 阿勒黛的卫护 | Allerdale's Guard | アラデルの衛護 |
-| sktok_allydonq | 冲锋 | - | 突貫 |
+| sktok_allydonq | 冲锋 | Charge | 突貫 |
 | sktok_antidr | 无人机干扰 | Drone Interference | ドローン妨害 |
-| sktok_badbox | 极诱人珍宝 | - | 財宝の蕩めき |
+| sktok_badbox | 极诱人珍宝 | Really Alluring Treasures | 財宝の蕩めき |
 | sktok_ballis | 发射弩箭 | Bolt Launching | 射撃 |
 | sktok_bbombcard | 爆炸 | Explode | 爆発 |
 | sktok_beewax | 沙之碑召唤 | Summon Sand Obelisk | オベリスクの激震 |
@@ -597,7 +597,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_brctrl | 实体程式控制端 | Entitative Program Controller | 実体プログラム制御端末 |
 | sktok_btauntcard | 晶化 | Crystallize | 晶化 |
 | sktok_buffcard | 升格 | Upgrade | 強化 |
-| sktok_bunker | 障碍物 | - | 障害物 |
+| sktok_bunker | 障碍物 | Roadblock | 障害物 |
 | sktok_candle | 骑士的荣耀 | Knight's Honor | 「騎士の栄光」 |
 | sktok_cannon_1 | 脉冲束流 | Pulse Beam | 衝撃集束波 |
 | sktok_cannon_2 | 脉冲束流 | Pulse Beam | 衝撃集束波 |
@@ -631,9 +631,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_creep | 溟痕 | Nethersea Brand | 溟痕 |
 | sktok_crsbow | 清债程序 | - | - |
 | sktok_dancdol | 剧目宣告 | Repertoire Announcement | カーテンコール |
-| sktok_dice | 掷骰 | - | ダイスロール |
-| sktok_dice2 | 掷骰 | - | ダイスロール |
-| sktok_dice3 | 掷骰 | - | ダイスロール |
+| sktok_dice | 掷骰 | Roll A Die | ダイスロール |
+| sktok_dice2 | 掷骰 | Roll A Die | ダイスロール |
+| sktok_dice3 | 掷骰 | Roll A Die | ダイスロール |
 | sktok_doroth_1 | 危险目标清除 | Dangerous Entity Removal | 脅威排除 |
 | sktok_doroth_2 | 流沙区域生成 | Quicksand Generation | 流砂生成 |
 | sktok_doroth_3 | 高速共振排障 | High-speed Resonating Troubleshooter | 高周波共振 |
@@ -695,7 +695,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_mound | 风沙掩体 | Sandstorm Protection | 防風壁 |
 | sktok_nearl2_3 | "耀阳" | 'Blazing Sun' | 「ブレイジング・サン」 |
 | sktok_neonlamp | 文明的光芒 | The Light of Civilization | 「文明の灯火」 |
-| sktok_normbox | 诱人珍宝 | - | 財宝のいざない |
+| sktok_normbox | 诱人珍宝 | Alluring Treasures | 財宝のいざない |
 | sktok_npcsld | 列阵！ | Form Up! | 構え！ |
 | sktok_oldisin_1 | 触发对话 | - | - |
 | sktok_ore | 脉冲波 | Pulse Wave | 源石衝撃波 |
@@ -711,7 +711,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_poison_2 | 开启阀门 | Open Valve | ガス放出 |
 | sktok_prison | 启动禁锢！ | Lock 'em Up! | 禁固機能起動！ |
 | sktok_pushtw | 气体爆喷 | - | - |
-| sktok_rarebox | 更诱人珍宝 | - | 財宝の蠱惑 |
+| sktok_rarebox | 更诱人珍宝 | More Alluring Treasures | 財宝の蠱惑 |
 | sktok_recodr_1 | 实体程式 | Entitative Program | 実体プログラム |
 | sktok_recodr_2 | 实体程式 | Entitative Program | 実体プログラム |
 | sktok_recyclecard | 蓄锐 | Withdraw | 温存 |
@@ -761,10 +761,10 @@ tip: 请善用浏览器的搜索功能
 | sktok_turngear | 自走车定向！ | Self-Driving Cart, This Way! | 方向転換！ |
 | sktok_umbrella | 协助隐藏 | - | - |
 | sktok_vegetation | 可供开采 | - | - |
-| sktok_vgctrl | 复仇黑手 | - | 報復の爪痕 |
-| sktok_vigil_wolf_1 | 狼群 | - | 群狼 |
-| sktok_vigil_wolf_2 | 狼群 | - | 群狼 |
-| sktok_vigil_wolf_3 | 狼群 | - | 群狼 |
+| sktok_vgctrl | 复仇黑手 | Vengeful Mafioso | 報復の爪痕 |
+| sktok_vigil_wolf_1 | 狼群 | Wolfpack | 群狼 |
+| sktok_vigil_wolf_2 | 狼群 | Wolfpack | 群狼 |
+| sktok_vigil_wolf_3 | 狼群 | Wolfpack | 群狼 |
 | sktok_vodfox_token | 诅咒娃娃 | Cursed Doll | 呪いの人形 |
 | sktok_vultres | 诱人珍宝 | Alluring Treasures | 財宝のいざない |
 | sktok_wdescp | 建立通讯 | - | - |

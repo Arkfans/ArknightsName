@@ -68,6 +68,7 @@
     "zh_CN": "刻俄柏的灰蕈迷境"
   },
   "act12login": {
+    "en_US": "Sign-in Campaign",
     "ja_JP": "ログイン報酬",
     "zh_CN": "登录领取奖励"
   },
@@ -312,6 +313,7 @@
     "zh_CN": "哗啦啦祈愿牌"
   },
   "act1float": {
+    "en_US": "Nulaiteburgh Industry Cooperation Forum",
     "ja_JP": "ニューライトバーグ市産業懇談会",
     "zh_CN": "纽莱堡市产业合作洽谈会"
   },
@@ -337,6 +339,7 @@
     "zh_CN": "限时累计签到"
   },
   "act21side": {
+    "en_US": "IL Siracusano",
     "ja_JP": "シラクザーノ",
     "zh_CN": "叙拉古人"
   },
@@ -426,6 +429,7 @@
     "zh_CN": "秋风送爽限时登录活动"
   },
   "act31sign": {
+    "en_US": "Rain Season Limited Login Event",
     "ja_JP": "長雨の候スタンプラリー",
     "zh_CN": "正逢雨季限时登录活动"
   },

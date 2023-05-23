@@ -134,7 +134,7 @@ tip: 请善用浏览器的搜索功能
 | LIMITED_TKT_GACHA_10_2501 | 对酒当歌寻访凭证 | Sing while Drinking Headhunting Permit | 2.5周年記念10回スカウト券 |
 | LIMITED_TKT_GACHA_10_2701 | 晨雾灯塔寻访凭证 | Lighthouse in Morning Mist Headhunting Permit | 感謝祭記念10回スカウト券 |
 | LIMITED_TKT_GACHA_10_3001 | 淬火成诗寻访凭证 | Tempered into Poetry Headhunting Permit | 3周年記念10回スカウト券 |
-| LIMITED_TKT_GACHA_10_3301 | 归狼踏影寻访凭证 | - | 感謝祭記念10回スカウト券 |
+| LIMITED_TKT_GACHA_10_3301 | 归狼踏影寻访凭证 | Wolves Stalk Shadows Headhunting Permit | 感謝祭記念10回スカウト券 |
 | LIMITED_TKT_GACHA_10_3501 | 长风万里寻访凭证 | - | - |
 | LIMITED_TKT_GACHA_10_3801 | 未来序曲寻访凭证 | - | - |
 | LIMITED_TKT_GACHA_10_903 | 苏醒纪念寻访凭证 | Awakening Commemoration Permit | 1周年記念10回スカウト券 |
@@ -149,7 +149,7 @@ tip: 请善用浏览器的搜索功能
 | LMTGS_COIN_2501 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_2701 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_3001 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
-| LMTGS_COIN_3301 | 寻访数据契约 | - | 限定契約証 |
+| LMTGS_COIN_3301 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_3501 | 寻访数据契约 | - | - |
 | LMTGS_COIN_3801 | 寻访数据契约 | - | - |
 | LMTGS_COIN_601 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
@@ -220,7 +220,7 @@ tip: 请善用浏览器的搜索功能
 | act1lock_point_reward | 赛事奖章 | Competition Medals | 競技メダル |
 | act1sandbox_milestone_point | 繁荣证章 | - | - |
 | act20side_token_book | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
-| act21side_token_permesso | 进货通行证 | - | 買付許可証 |
+| act21side_token_permesso | 进货通行证 | Permesso di Importazione | 買付許可証 |
 | act22side_token_manuscript | 手抄歌谣集 | - | - |
 | act23side_token_spirit | 新酿烈刀子 | - | - |
 | act24side_melding_1 | 破碎的骨片 | - | - |
@@ -478,7 +478,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_1024_hbisc2 | 濯尘芙蓉的信物 | Hibiscus the Purifier's Token | 濯塵ハイビスカスの印 |
 | p_char_1026_gvial2 | 百炼嘉维尔的信物 | Gavial the Invincible's Token | 百錬ガヴィルの印 |
 | p_char_1027_greyy2 | 承曦格雷伊的信物 | Greyy the Lightningbearer's Token | 承曦グレイの印 |
-| p_char_1028_texas2 | 缄默德克萨斯的信物 | - | 血掟テキサスの印 |
+| p_char_1028_texas2 | 缄默德克萨斯的信物 | Texas the Omertosa's Token | 血掟テキサスの印 |
 | p_char_1029_yato2 | 麒麟X夜刀的信物 | - | - |
 | p_char_102_texas | 德克萨斯的信物 | Texas's Token | テキサスの印 |
 | p_char_1030_noirc2 | 火龙S黑角的信物 | - | - |
@@ -659,7 +659,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4009_irene | 艾丽妮的信物 | Irene's Token | アイリーニの印 |
 | p_char_400_weedy | 温蒂的信物 | Weedy's Token | ウィーディの印 |
 | p_char_4013_kjera | 耶拉的信物 | Kjera's Token | イェラの印 |
-| p_char_4014_lunacu | 子月的信物 | - | ルナカブの印 |
+| p_char_4014_lunacu | 子月的信物 | Lunacub's Token | ルナカブの印 |
 | p_char_4016_kazema | 风丸的信物 | Kazemaru's Token | カゼマルの印 |
 | p_char_4017_puzzle | 谜图的信物 | - | - |
 | p_char_401_elysm | 极境的信物 | Elysium's Token | エリジウムの印 |
@@ -681,10 +681,10 @@ tip: 请善用浏览器的搜索功能
 | p_char_4055_bgsnow | 鸿雪的信物 | Pozëmka's Token | パゼオンカの印 |
 | p_char_405_absin | 苦艾的信物 | Absinthe's Token | アブサントの印 |
 | p_char_4062_totter | 铅踝的信物 | Totter's Token | トターの印 |
-| p_char_4063_quartz | 石英的信物 | - | クォーツの印 |
+| p_char_4063_quartz | 石英的信物 | Quartz's Token | クォーツの印 |
 | p_char_4064_mlynar | 玛恩纳的信物 | Młynar's Token | ムリナールの印 |
-| p_char_4065_judge | 斥罪的信物 | - | ペナンスの印 |
-| p_char_4066_highmo | 海沫的信物 | - | ハイモアの印 |
+| p_char_4065_judge | 斥罪的信物 | Penance's Token | ペナンスの印 |
+| p_char_4066_highmo | 海沫的信物 | Highmore's Token | ハイモアの印 |
 | p_char_4071_peper | 明椒的信物 | Paprika's Token | パプリカの印 |
 | p_char_4072_ironmn | 白铁的信物 | Stainless's Token | ステインレスの印 |
 | p_char_4077_palico | 泰拉大陆调查团的信物 | - | - |
@@ -717,7 +717,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_458_rfrost | 霜华的信物 | Frost's Token | Frostの印 |
 | p_char_459_tachak | 战车的信物 | Tachanka's Token | Tachankaの印 |
 | p_char_464_cement | 洋灰的信物 | - | - |
-| p_char_466_qanik | 雪绒的信物 | - | カニパラートの印 |
+| p_char_466_qanik | 雪绒的信物 | Qanipalaat's Token | カニパラートの印 |
 | p_char_469_indigo | 深靛的信物 | Indigo's Token | インディゴの印 |
 | p_char_472_pasngr | 异客的信物 | Passenger's Token | パッセンジャーの印 |
 | p_char_473_mberry | 桑葚的信物 | Mulberry's Token | マルベリーの印 |
@@ -777,8 +777,8 @@ tip: 请善用浏览器的搜索功能
 | return_credit_token | 二次认证徽记 | Second Authentication Emblem | 二次認証徽章 |
 | rogue_1_token_bp | 蜡烛 | Candle | キャンドル |
 | rogue_1_token_grow | 昏暗的灵感 | Caliginous Insights | 昏きセンス |
-| rogue_2_token_bp | 生机细胞 | - | 有機細胞 |
-| rogue_2_token_grow | 主观想象 | - | 主観的想像 |
+| rogue_2_token_bp | 生机细胞 | Living Cells | 有機細胞 |
+| rogue_2_token_grow | 主观想象 | Subjective Imagination | 主観的想像 |
 | tier1_caster | 术师信物复制品 | Replicated Caster Token | ★1術師の印 |
 | tier1_guard | 近卫信物复制品 | Replicated Guard Token | ★1前衛の印 |
 | tier1_medic | 医疗信物复制品 | Replicated Medic Token | ★1医療の印 |
@@ -843,8 +843,8 @@ tip: 请善用浏览器的搜索功能
 | uni_set_icu | 遗尘漫步家具收藏包 | - | - |
 | uni_set_inkArt | 画中人家具收藏包 | - | - |
 | uni_set_nightView | 沃伦姆德的薄暮家具收藏包 | Twilight of Wolumonde Furniture Pack | ウォルモンドの薄暮家具パック |
-| uni_set_outdoor_1 | 海滨印象家具收藏包一 | - | 海辺風家具パックvol.1 |
-| uni_set_outdoor_2 | 海滨印象家具收藏包二 | - | 海辺風家具パックvol.2 |
+| uni_set_outdoor_1 | 海滨印象家具收藏包一 | Beachside Impressions Furniture Pack I | 海辺風家具パックvol.1 |
+| uni_set_outdoor_2 | 海滨印象家具收藏包二 | Beachside Impressions Furniture Pack II | 海辺風家具パックvol.2 |
 | uni_set_penguin | 喧闹法则家具收藏包 | Code of Brawl Furniture Pack | 喧騒の掟家具パック |
 | uni_set_pizza | 骑兵与猎人家具收藏包 | Grani and the Knights' Treasure Furniture Pack | 騎兵と狩人家具パック |
 | uni_set_prison | 孤岛风云家具收藏包 | - | - |
@@ -875,11 +875,11 @@ tip: 请善用浏览器的搜索功能
 | voucher_item_pick1803 | 周年庆典干员凭证 | Top Operator Transfer Permit | 感謝祭記念★6招聘指名券 |
 | voucher_item_pick2301 | 感谢庆典干员凭证 | Thank-You Celebration Operator Permit | 感謝祭記念★6招聘指名券 |
 | voucher_item_pick2701 | 周年庆典干员凭证 | Top Operator Transfer Permit | 感謝祭記念★6招聘指名券 |
-| voucher_item_pick3301 | 感谢庆典干员凭证 | - | 感謝祭記念★6招聘指名券 |
+| voucher_item_pick3301 | 感谢庆典干员凭证 | Thank-You Celebration Operator Permit | 感謝祭記念★6招聘指名券 |
 | voucher_item_pick3801 | 周年庆典干员凭证 | - | - |
 | voucher_item_pick601 | 高级干员调用凭证 | Top Operator Transfer Permit | ★6招聘指名券 |
-| voucher_levelmax_5 | 资深干员特训装置 | - | エリート特訓装置 |
-| voucher_levelmax_6 | 高级资深干员特训装置 | - | 上級エリート特訓装置 |
+| voucher_levelmax_5 | 资深干员特训装置 | Senior Operator Training Apparatus | エリート特訓装置 |
+| voucher_levelmax_6 | 高级资深干员特训装置 | Top Operator Training Apparatus | 上級エリート特訓装置 |
 | voucher_pcharPack | - | - | ★6印交換券 |
 | voucher_recruitR3_1 | 公开招募★3兑换券·I | ★3 Recruitment Voucher I | 公開求人★3指名券 I |
 | voucher_recruitR4_1 | 公开招募★4兑换券·I | ★4 Recruitment Voucher I | 公開求人★4指名券 I |
@@ -889,4 +889,4 @@ tip: 请善用浏览器的搜索功能
 | voucher_recruitR5_pick3801 | 资深干员调用凭证 | - | - |
 | voucher_skin | 时装自选凭证 | Outfit Voucher | コーデ交換券 |
 | voucher_ulika | U-Official的文件夹 | - | - |
-| voucher_vigil | 伺夜的文件夹 | - | ヴィジェルの書類挟み |
+| voucher_vigil | 伺夜的文件夹 | Vigil's Folder | ヴィジェルの書類挟み |

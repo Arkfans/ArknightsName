@@ -120,6 +120,9 @@
     ]
   },
   "avg_1028_texas2_1": {
+    "en_US": [
+      "Texas"
+    ],
     "ja_JP": [
       "テキサス"
     ],
@@ -304,6 +307,7 @@
   },
   "avg_137_brownb_1": {
     "en_US": [
+      "Beehunter",
       "Shura"
     ],
     "ja_JP": [
@@ -547,8 +551,7 @@
   },
   "avg_215_mantic_1": {
     "en_US": [
-      "Panicked Manticore Girl",
-      "惊慌的曼提柯女孩"
+      "Panicked Manticore Girl"
     ],
     "ja_JP": [
       "マンティコア族の少女"
@@ -558,6 +561,10 @@
     ]
   },
   "avg_219_meteo_1": {
+    "en_US": [
+      "Blunt Wedge",
+      "Meteorite"
+    ],
     "ja_JP": [
       "ブラントウェッジ",
       "メテオリーテ"
@@ -722,6 +729,9 @@
     ]
   },
   "avg_264_f12yin_1": {
+    "en_US": [
+      "Anthony"
+    ],
     "ja_JP": [
       "アンソニー"
     ],
@@ -1016,6 +1026,9 @@
     ]
   },
   "avg_4014_lunacu_1": {
+    "en_US": [
+      "Lunacub"
+    ],
     "ja_JP": [
       "ルナカブ"
     ],
@@ -1237,6 +1250,9 @@
     ]
   },
   "avg_4065_judge_1": {
+    "en_US": [
+      "Lavinia"
+    ],
     "ja_JP": [
       "ラヴィニア"
     ],
@@ -1245,6 +1261,9 @@
     ]
   },
   "avg_4066_highmo_1": {
+    "en_US": [
+      "Highmore"
+    ],
     "ja_JP": [
       "ハイモア"
     ],
@@ -1354,6 +1373,9 @@
     ]
   },
   "avg_427_vigil_1": {
+    "en_US": [
+      "Leontuzzo"
+    ],
     "ja_JP": [
       "レオントゥッツォ"
     ],
@@ -1404,6 +1426,9 @@
     ]
   },
   "avg_437_mizukisummer_1": {
+    "en_US": [
+      "Mizuki"
+    ],
     "ja_JP": [
       "ミヅキ"
     ],
@@ -1702,6 +1727,7 @@
       "A Kazimierz Villager",
       "A Shopkeeper",
       "A Strange Passerby",
+      "Drunkard",
       "Filon",
       "Honest Villager",
       "Infected Employee?",
@@ -1709,6 +1735,7 @@
       "Joyful Worker",
       "Neighbor A",
       "Pondering Follower",
+      "Strong Townsfolk",
       "Townsfolk",
       "Villager A",
       "Weary-eyed Gravedigger",
@@ -1870,6 +1897,7 @@
       "Johnny",
       "Kazimierz Villager",
       "Militiaman A",
+      "Old Townsfolk",
       "Ordinary Infected B",
       "Porter",
       "Tense Infected",
@@ -1924,6 +1952,7 @@
   "avg_npc_006": {
     "en_US": [
       "A Spectating Infected",
+      "Bar Owner",
       "Engineer Andrey",
       "Infected Employee B",
       "Merchant",
@@ -2240,6 +2269,7 @@
       "Logistics Operator A",
       "Logistics Operator A.",
       "Logistics Operator.",
+      "Masked Man",
       "Masked Rhodes Island Operator",
       "Navigator B",
       "Occphen",
@@ -2609,15 +2639,21 @@
   "avg_npc_031": {
     "en_US": [
       "Cadeddu",
+      "Calm Hitman",
       "Fierce-looking Char Siu Member",
+      "Flippant Security Guard",
       "Gang Member",
+      "Harsh Security Guard",
       "Mafia Boss",
       "Mafioso",
       "Mafioso A",
       "Mafioso B",
       "Man in Black",
+      "Pensive Hitman",
+      "Rossati Mafioso",
       "Shrewd-looking Char Siu Member",
       "Sly Black-Suit",
+      "Stony-Faced Bodyguard",
       "Tommaso",
       "Unfamiliar Man"
     ],
@@ -3042,8 +3078,7 @@
       "Infected Girl",
       "Little 'Witch' Minnie",
       "Little Girl",
-      "Xiaoyuan",
-      "感染者小女孩"
+      "Xiaoyuan"
     ],
     "ja_JP": [
       "「魔女」ミン",
@@ -3154,6 +3189,8 @@
       "Sarkaz Mercenary",
       "Sarkaz Mercenary A",
       "Sarkaz Mercenary B",
+      "Sarkaz Passerby",
+      "Sarkaz Teacher",
       "Sarkaz Warrior",
       "Sarkaz Warrior?",
       "Sarkaz Youth",
@@ -3200,6 +3237,7 @@
       "Panicking Sarkaz Bandit",
       "Sarkaz Assassin",
       "Sarkaz Mercenary",
+      "Sarkaz Mercenary A",
       "Sarkaz Mercenary B",
       "Sarkaz Mercenary Captain",
       "Sarkaz Mercenary Leader",
@@ -4275,6 +4313,7 @@
       "Flametail",
       "Flametail Knight",
       "Flametail' Sona",
+      "Iwona",
       "Passing Fan",
       "Sona"
     ],
@@ -4897,7 +4936,9 @@
   },
   "avg_npc_175": {
     "en_US": [
+      "Actress",
       "Beautiful Noble",
+      "Cheery Actress",
       "Hesitant Ambassador",
       "Merry Noblewoman",
       "Noble Lady",
@@ -4942,12 +4983,14 @@
   "avg_npc_176": {
     "en_US": [
       "A Leithanian Nobleman",
+      "Announcer",
       "Elegant Ambassador",
       "Genial Noble",
       "Greedy Businessman",
       "Local Judge A",
       "Noble Gentleman",
       "Slimy Noble",
+      "Theater Manager",
       "Tipsy Businessman",
       "Victorian Magnate"
     ],
@@ -5648,8 +5691,7 @@
       "An Escorting Knight",
       "Noble's Mercenary",
       "Patrolling Knight",
-      "Search Team Member",
-      "巡逻骑士"
+      "Search Team Member"
     ],
     "ja_JP": [
       "巡回騎士",
@@ -5756,6 +5798,7 @@
       "Commercial Agent",
       "Corporate Employee",
       "Hamm",
+      "Haughty Official",
       "Kazimierz Representative",
       "Man in a Suit",
       "Manager",
@@ -5813,8 +5856,10 @@
       "Informant",
       "Knight Scout",
       "Mid-level Manager",
+      "Snobby Official",
       "Staff Worker",
-      "Tired Corporate Employee"
+      "Tired Corporate Employee",
+      "Witness"
     ],
     "ja_JP": [
       "中間管理職",
@@ -8319,6 +8364,7 @@
       "Dispirited Infected",
       "Drunken Infected",
       "Emotional Infected",
+      "Hardware Shop Owner",
       "Neurotic Infected",
       "Passionate Infected",
       "Rude Infected",
@@ -8357,6 +8403,7 @@
       "Leithanian Woman",
       "Miss Bachmann",
       "Passerby Infected",
+      "Shopkeeper",
       "Worn-out Infected"
     ],
     "ja_JP": [
@@ -8418,7 +8465,9 @@
   },
   "avg_npc_523_1": {
     "en_US": [
-      "Drunkard"
+      "Cheerful Columbian",
+      "Drunkard",
+      "Frivolous Columbian"
     ],
     "ja_JP": [
       "ご機嫌なクルビア人",
@@ -9064,6 +9113,9 @@
     ]
   },
   "avg_npc_610_1": {
+    "en_US": [
+      "Cicero"
+    ],
     "ja_JP": [
       "キケロ"
     ],
@@ -9073,7 +9125,8 @@
   },
   "avg_npc_624_1": {
     "en_US": [
-      "Campaign Knight"
+      "Campaign Knight",
+      "Marsov"
     ],
     "ja_JP": [
       "マルショフ",
@@ -9328,6 +9381,9 @@
     ]
   },
   "avg_npc_683_1": {
+    "en_US": [
+      "Lappland"
+    ],
     "ja_JP": [
       "ラップランド"
     ],
@@ -9336,6 +9392,9 @@
     ]
   },
   "avg_npc_684_1": {
+    "en_US": [
+      "Sora"
+    ],
     "ja_JP": [
       "ソラ"
     ],
@@ -9344,6 +9403,9 @@
     ]
   },
   "avg_npc_685_1": {
+    "en_US": [
+      "Bernardo"
+    ],
     "ja_JP": [
       "ベルナルド"
     ],
@@ -9352,6 +9414,9 @@
     ]
   },
   "avg_npc_686_1": {
+    "en_US": [
+      "Alberto"
+    ],
     "ja_JP": [
       "アルベルト"
     ],
@@ -9360,6 +9425,10 @@
     ]
   },
   "avg_npc_687_1": {
+    "en_US": [
+      "Caterina",
+      "Giovanna"
+    ],
     "ja_JP": [
       "カタリナ",
       "ジョヴァンナ"
@@ -9370,6 +9439,9 @@
     ]
   },
   "avg_npc_688_1": {
+    "en_US": [
+      "Zaaro"
+    ],
     "ja_JP": [
       "ザーロ"
     ],
@@ -9378,6 +9450,9 @@
     ]
   },
   "avg_npc_689_1": {
+    "en_US": [
+      "Rubio"
+    ],
     "ja_JP": [
       "ルビオ"
     ],
@@ -9386,6 +9461,10 @@
     ]
   },
   "avg_npc_690_1": {
+    "en_US": [
+      "Bartender",
+      "Demetri"
+    ],
     "ja_JP": [
       "クソバーテン",
       "ディミトリ"
@@ -9396,6 +9475,10 @@
     ]
   },
   "avg_npc_691_1": {
+    "en_US": [
+      "Genial Old Lady",
+      "Signora Sicilia"
+    ],
     "ja_JP": [
       "ミズ・シチリア",
       "穏やかな老婦人"
@@ -9406,6 +9489,9 @@
     ]
   },
   "avg_npc_692_1": {
+    "en_US": [
+      "Agenir"
+    ],
     "ja_JP": [
       "アグニル"
     ],
@@ -9414,6 +9500,10 @@
     ]
   },
   "avg_npc_693_1": {
+    "en_US": [
+      "Carwash Worker",
+      "Danbrown"
+    ],
     "ja_JP": [
       "ダンブラウン",
       "洗車工"
@@ -9424,6 +9514,9 @@
     ]
   },
   "avg_npc_694_1": {
+    "en_US": [
+      "Ben"
+    ],
     "ja_JP": [
       "ベン"
     ],
@@ -9432,6 +9525,10 @@
     ]
   },
   "avg_npc_695_1": {
+    "en_US": [
+      "Leontuzzo",
+      "Wallach"
+    ],
     "ja_JP": [
       "ウォラック",
       "レオントゥッツォ"
@@ -9442,6 +9539,11 @@
     ]
   },
   "avg_npc_696_1": {
+    "en_US": [
+      "Clerk",
+      "Onsite Staff",
+      "Terrified Waiter"
+    ],
     "ja_JP": [
       "事務員",
       "劇場スタッフ",
@@ -9455,6 +9557,11 @@
     ]
   },
   "avg_npc_697_1": {
+    "en_US": [
+      "Calm Technician",
+      "Court Clerk",
+      "Rossati Mafioso"
+    ],
     "ja_JP": [
       "ロッサティの構成員",
       "冷静なエンジニア",
@@ -9469,6 +9576,19 @@
     ]
   },
   "avg_npc_698_1": {
+    "en_US": [
+      "Angry Mafioso",
+      "Bellone Bodyguard",
+      "Bellone Mafioso",
+      "Bodyguard",
+      "Frivolous Mafioso",
+      "Loyal Mafioso",
+      "Mafioso",
+      "Radical Mafioso",
+      "Saluzzo Guard",
+      "Saluzzo Mafioso",
+      "Skeptical Mafioso"
+    ],
     "ja_JP": [
       "サルッツォの構成員",
       "サルッツォの用心棒",
@@ -9498,6 +9618,13 @@
     ]
   },
   "avg_npc_699_1": {
+    "en_US": [
+      "Angry Bailiff",
+      "Bailiff",
+      "Bodyguard",
+      "Resolute Bailiff",
+      "Serious Bailiff"
+    ],
     "ja_JP": [
       "怒った裁判所守衛",
       "意志の固い裁判所守衛",
@@ -9516,6 +9643,9 @@
     ]
   },
   "avg_npc_700_1": {
+    "en_US": [
+      "Rubio's Daughter"
+    ],
     "ja_JP": [
       "ルビオの娘"
     ],
@@ -9524,6 +9654,9 @@
     ]
   },
   "avg_npc_701_1": {
+    "en_US": [
+      "Energetic Technician"
+    ],
     "ja_JP": [
       "快活なエンジニア"
     ],
@@ -9532,6 +9665,9 @@
     ]
   },
   "avg_npc_702_1": {
+    "en_US": [
+      "Fearful Waiter"
+    ],
     "ja_JP": [
       "臆病な店員"
     ],
@@ -10947,7 +11083,8 @@
   },
   "char_1502_crowns": {
     "en_US": [
-      "Crownslayer"
+      "Crownslayer",
+      "Lyudmila"
     ],
     "ja_JP": [
       "クラウンスレイヤー",
@@ -11880,7 +12017,8 @@
   "char_284_spot_1": {
     "en_US": [
       "Fan?",
-      "Spot"
+      "Spot",
+      "Youth"
     ],
     "ja_JP": [
       "スポット",
@@ -12264,6 +12402,7 @@
   },
   "char_358_lisa_1": {
     "en_US": [
+      "Croissant",
       "Folinic",
       "Suzuran"
     ],

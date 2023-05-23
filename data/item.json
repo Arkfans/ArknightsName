@@ -639,6 +639,7 @@
     "zh_CN": "淬火成诗寻访凭证"
   },
   "LIMITED_TKT_GACHA_10_3301": {
+    "en_US": "Wolves Stalk Shadows Headhunting Permit",
     "ja_JP": "感謝祭記念10回スカウト券",
     "zh_CN": "归狼踏影寻访凭证"
   },
@@ -705,6 +706,7 @@
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_3301": {
+    "en_US": "Headhunting Data Contract",
     "ja_JP": "限定契約証",
     "zh_CN": "寻访数据契约"
   },
@@ -1041,6 +1043,7 @@
     "zh_CN": "《奇谈怪论》复印本"
   },
   "act21side_token_permesso": {
+    "en_US": "Permesso di Importazione",
     "ja_JP": "買付許可証",
     "zh_CN": "进货通行证"
   },
@@ -2008,6 +2011,7 @@
     "zh_CN": "承曦格雷伊的信物"
   },
   "p_char_1028_texas2": {
+    "en_US": "Texas the Omertosa's Token",
     "ja_JP": "血掟テキサスの印",
     "zh_CN": "缄默德克萨斯的信物"
   },
@@ -2896,6 +2900,7 @@
     "zh_CN": "耶拉的信物"
   },
   "p_char_4014_lunacu": {
+    "en_US": "Lunacub's Token",
     "ja_JP": "ルナカブの印",
     "zh_CN": "子月的信物"
   },
@@ -3001,6 +3006,7 @@
     "zh_CN": "铅踝的信物"
   },
   "p_char_4063_quartz": {
+    "en_US": "Quartz's Token",
     "ja_JP": "クォーツの印",
     "zh_CN": "石英的信物"
   },
@@ -3010,10 +3016,12 @@
     "zh_CN": "玛恩纳的信物"
   },
   "p_char_4065_judge": {
+    "en_US": "Penance's Token",
     "ja_JP": "ペナンスの印",
     "zh_CN": "斥罪的信物"
   },
   "p_char_4066_highmo": {
+    "en_US": "Highmore's Token",
     "ja_JP": "ハイモアの印",
     "zh_CN": "海沫的信物"
   },
@@ -3162,6 +3170,7 @@
     "zh_CN": "洋灰的信物"
   },
   "p_char_466_qanik": {
+    "en_US": "Qanipalaat's Token",
     "ja_JP": "カニパラートの印",
     "zh_CN": "雪绒的信物"
   },
@@ -3445,10 +3454,12 @@
     "zh_CN": "昏暗的灵感"
   },
   "rogue_2_token_bp": {
+    "en_US": "Living Cells",
     "ja_JP": "有機細胞",
     "zh_CN": "生机细胞"
   },
   "rogue_2_token_grow": {
+    "en_US": "Subjective Imagination",
     "ja_JP": "主観的想像",
     "zh_CN": "主观想象"
   },
@@ -3769,10 +3780,12 @@
     "zh_CN": "沃伦姆德的薄暮家具收藏包"
   },
   "uni_set_outdoor_1": {
+    "en_US": "Beachside Impressions Furniture Pack I",
     "ja_JP": "海辺風家具パックvol.1",
     "zh_CN": "海滨印象家具收藏包一"
   },
   "uni_set_outdoor_2": {
+    "en_US": "Beachside Impressions Furniture Pack II",
     "ja_JP": "海辺風家具パックvol.2",
     "zh_CN": "海滨印象家具收藏包二"
   },
@@ -3913,6 +3926,7 @@
     "zh_CN": "周年庆典干员凭证"
   },
   "voucher_item_pick3301": {
+    "en_US": "Thank-You Celebration Operator Permit",
     "ja_JP": "感謝祭記念★6招聘指名券",
     "zh_CN": "感谢庆典干员凭证"
   },
@@ -3925,10 +3939,12 @@
     "zh_CN": "高级干员调用凭证"
   },
   "voucher_levelmax_5": {
+    "en_US": "Senior Operator Training Apparatus",
     "ja_JP": "エリート特訓装置",
     "zh_CN": "资深干员特训装置"
   },
   "voucher_levelmax_6": {
+    "en_US": "Top Operator Training Apparatus",
     "ja_JP": "上級エリート特訓装置",
     "zh_CN": "高级资深干员特训装置"
   },
@@ -3972,6 +3988,7 @@
     "zh_CN": "U-Official的文件夹"
   },
   "voucher_vigil": {
+    "en_US": "Vigil's Folder",
     "ja_JP": "ヴィジェルの書類挟み",
     "zh_CN": "伺夜的文件夹"
   }

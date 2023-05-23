@@ -115,6 +115,7 @@
     "zh_CN": "影钉"
   },
   "skchr_apionr_1": {
+    "en_US": "Lingering Scent",
     "ja_JP": "残り香",
     "zh_CN": "只余芬芳"
   },
@@ -1084,10 +1085,12 @@
     "zh_CN": "博览者的狂语"
   },
   "skchr_highmo_1": {
+    "en_US": "Surrendrance from Hindsight",
     "ja_JP": "懐古、別れ",
     "zh_CN": "回首，断舍"
   },
   "skchr_highmo_2": {
+    "en_US": "Evanescence from Paranoia",
     "ja_JP": "泡沫、破滅",
     "zh_CN": "泡影，殆尽"
   },
@@ -1257,14 +1260,17 @@
     "zh_CN": "掩护烟幕"
   },
   "skchr_judge_1": {
+    "en_US": "Last Word",
     "ja_JP": "裁決のガベル",
     "zh_CN": "一锤定音"
   },
   "skchr_judge_2": {
+    "en_US": "Stoic Atonement",
     "ja_JP": "確固たる決意",
     "zh_CN": "坚心苦修"
   },
   "skchr_judge_3": {
+    "en_US": "Trial of Thorns",
     "ja_JP": "茨道を拓く",
     "zh_CN": "披荆斩棘"
   },
@@ -1443,10 +1449,12 @@
     "zh_CN": "灯火不灭"
   },
   "skchr_lunacu_1": {
+    "en_US": "Time to Hunt",
     "ja_JP": "狩猟開始",
     "zh_CN": "狩猎时刻"
   },
   "skchr_lunacu_2": {
+    "en_US": "Umbral Ambush",
     "ja_JP": "影に潜む狩人",
     "zh_CN": "伏击之影"
   },
@@ -1889,10 +1897,12 @@
     "zh_CN": "疑点追踪"
   },
   "skchr_qanik_1": {
+    "en_US": "Frigid Wind",
     "ja_JP": "吹きすさぶ凍風",
     "zh_CN": "冻风"
   },
   "skchr_qanik_2": {
+    "en_US": "Falling Snow",
     "ja_JP": "駆けのぼる氷雪",
     "zh_CN": "坠雪"
   },
@@ -1906,6 +1916,7 @@
     "zh_CN": "问雪"
   },
   "skchr_quartz_2": {
+    "en_US": "All-Out Clash",
     "ja_JP": "フルスイング",
     "zh_CN": "全力相搏"
   },
@@ -2335,14 +2346,17 @@
     "zh_CN": "剑走偏锋"
   },
   "skchr_texas2_1": {
+    "en_US": "Silent Drizzle",
     "ja_JP": "ピオヴィッジネ",
     "zh_CN": "细雨无声"
   },
   "skchr_texas2_2": {
+    "en_US": "Unrelenting Downpour",
     "ja_JP": "アクアツォーネ",
     "zh_CN": "阵雨连绵"
   },
   "skchr_texas2_3": {
+    "en_US": "Torrential Sword Rain",
     "ja_JP": "ロヴェーショ",
     "zh_CN": "剑雨滂沱"
   },
@@ -2432,14 +2446,17 @@
     "zh_CN": "落地斩·破门"
   },
   "skchr_vigil_1": {
+    "en_US": "Packleader's Call",
     "ja_JP": "統率者の一声",
     "zh_CN": "领袖的呼唤"
   },
   "skchr_vigil_2": {
+    "en_US": "Packleader's Gift",
     "ja_JP": "統率者の恩賞",
     "zh_CN": "领袖的馈赠"
   },
   "skchr_vigil_3": {
+    "en_US": "Packleader's Dignity",
     "ja_JP": "統率者の威厳",
     "zh_CN": "领袖的尊严"
   },
@@ -2713,6 +2730,7 @@
     "zh_CN": "自我销毁"
   },
   "sktok_aidkit": {
+    "en_US": "First Aid",
     "ja_JP": "応急処置",
     "zh_CN": "急救"
   },
@@ -2737,6 +2755,7 @@
     "zh_CN": "阿勒黛的卫护"
   },
   "sktok_allydonq": {
+    "en_US": "Charge",
     "ja_JP": "突貫",
     "zh_CN": "冲锋"
   },
@@ -2746,6 +2765,7 @@
     "zh_CN": "无人机干扰"
   },
   "sktok_badbox": {
+    "en_US": "Really Alluring Treasures",
     "ja_JP": "財宝の蕩めき",
     "zh_CN": "极诱人珍宝"
   },
@@ -2848,6 +2868,7 @@
     "zh_CN": "升格"
   },
   "sktok_bunker": {
+    "en_US": "Roadblock",
     "ja_JP": "障害物",
     "zh_CN": "障碍物"
   },
@@ -2969,14 +2990,17 @@
     "zh_CN": "剧目宣告"
   },
   "sktok_dice": {
+    "en_US": "Roll A Die",
     "ja_JP": "ダイスロール",
     "zh_CN": "掷骰"
   },
   "sktok_dice2": {
+    "en_US": "Roll A Die",
     "ja_JP": "ダイスロール",
     "zh_CN": "掷骰"
   },
   "sktok_dice3": {
+    "en_US": "Roll A Die",
     "ja_JP": "ダイスロール",
     "zh_CN": "掷骰"
   },
@@ -3250,6 +3274,7 @@
     "zh_CN": "文明的光芒"
   },
   "sktok_normbox": {
+    "en_US": "Alluring Treasures",
     "ja_JP": "財宝のいざない",
     "zh_CN": "诱人珍宝"
   },
@@ -3323,6 +3348,7 @@
     "zh_CN": "气体爆喷"
   },
   "sktok_rarebox": {
+    "en_US": "More Alluring Treasures",
     "ja_JP": "財宝の蠱惑",
     "zh_CN": "更诱人珍宝"
   },
@@ -3542,18 +3568,22 @@
     "zh_CN": "可供开采"
   },
   "sktok_vgctrl": {
+    "en_US": "Vengeful Mafioso",
     "ja_JP": "報復の爪痕",
     "zh_CN": "复仇黑手"
   },
   "sktok_vigil_wolf_1": {
+    "en_US": "Wolfpack",
     "ja_JP": "群狼",
     "zh_CN": "狼群"
   },
   "sktok_vigil_wolf_2": {
+    "en_US": "Wolfpack",
     "ja_JP": "群狼",
     "zh_CN": "狼群"
   },
   "sktok_vigil_wolf_3": {
+    "en_US": "Wolfpack",
     "ja_JP": "群狼",
     "zh_CN": "狼群"
   },

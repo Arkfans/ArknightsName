@@ -354,40 +354,40 @@ tip: 请善用浏览器的搜索功能
 | act20side_st01 | 旅行前夕 | Eve of Journey | 旅行前夜 |
 | act20side_st02 | 失乐园 | Paradise Lost | 失楽園 |
 | act20side_tr01 | 引领潮流 | Trend Setter | トレンドの先駆け |
-| act21side_01 | 雨落无声 | - | 静かなる雨 |
-| act21side_01_m | 沃尔西尼监狱 | - | ウォルシーニ監獄 |
-| act21side_01_t | 新城区大街 | - | 新市街の大通り |
-| act21side_02 | 荣誉之人 | - | 誉れある者 |
-| act21side_02_m | 洗车店 | - | 洗車屋 |
-| act21side_02_t | 萨卢佐家 | - | サルッツォの屋敷 |
-| act21side_03 | 万箭所指 | - | 衆矢の的 |
-| act21side_03_m1 | 贝洛内家 | - | ベッローネの屋敷 |
-| act21side_03_m2 | 后巷 | - | 裏通り |
-| act21side_04 | 苦夜惊雷 | - | 雷鳴の夜 |
-| act21side_04_m1 | 萨卢佐家 | - | サルッツォの屋敷 |
-| act21side_04_m2 | 沃尔西尼法庭 | - | ウォルシーニ裁判所 |
-| act21side_05 | 恒久法则 | - | 変わらざる掟 |
-| act21side_05_m1 | 后巷 | - | 裏通り |
-| act21side_05_m2 | 米兰剧场 | - | ミラノ劇場 |
-| act21side_05_t | 后巷 | - | 裏通り |
-| act21side_06 | 旧日碾轧 | - | 迫りくる過去 |
-| act21side_06_m | 企鹅物流据点 | - | ペンギン急便のアジト |
-| act21side_06_t | 新城区大街 | - | 新市街の大通り |
-| act21side_07 | 何以忘却 | - | 忘れえぬ記憶 |
-| act21side_08 | 危如累卵 | - | 累卵の危機 |
-| act21side_09 | 文明的谎言 | - | 偽りの文明 |
-| act21side_09_t | 沃尔西尼市政中心 | - | シティホール |
-| act21side_10 | “狼之主” | - | 「狼の主」 |
-| act21side_s01 | 谋杀 | - | 謀殺 |
-| act21side_s02 | 摆布 | - | 翻弄 |
-| act21side_s03 | 报复 | - | 報復 |
-| act21side_s04 | 悬赏 | - | 褒賞 |
-| act21side_s05 | 忏悔 | - | 懺悔 |
-| act21side_st01 | 沉疴 | - | 長患い |
-| act21side_st02 | 切开 | - | 切開 |
-| act21side_st03 | 剜刺 | - | 摘出 |
-| act21side_st04 | 缝合 | - | 縫合 |
-| act21side_tr01 | 以牙还牙 | - | 歯には歯を |
+| act21side_01 | 雨落无声 | Silent Raindrops | 静かなる雨 |
+| act21side_01_m | 沃尔西尼监狱 | Volsinii Prison | ウォルシーニ監獄 |
+| act21side_01_t | 新城区大街 | Cittanova Main Street | 新市街の大通り |
+| act21side_02 | 荣誉之人 | The Honorable | 誉れある者 |
+| act21side_02_m | 洗车店 | Carwash | 洗車屋 |
+| act21side_02_t | 萨卢佐家 | Saluzzo Estate | サルッツォの屋敷 |
+| act21side_03 | 万箭所指 | Prime Target | 衆矢の的 |
+| act21side_03_m1 | 贝洛内家 | Bellone Estate | ベッローネの屋敷 |
+| act21side_03_m2 | 后巷 | Back Alley | 裏通り |
+| act21side_04 | 苦夜惊雷 | Crack of Thunder | 雷鳴の夜 |
+| act21side_04_m1 | 萨卢佐家 | Saluzzo Estate | サルッツォの屋敷 |
+| act21side_04_m2 | 沃尔西尼法庭 | Volsinii Courthouse | ウォルシーニ裁判所 |
+| act21side_05 | 恒久法则 | Old Rules | 変わらざる掟 |
+| act21side_05_m1 | 后巷 | Back Alley | 裏通り |
+| act21side_05_m2 | 米兰剧场 | Teatro di Milano | ミラノ劇場 |
+| act21side_05_t | 后巷 | Back Alley | 裏通り |
+| act21side_06 | 旧日碾轧 | Old Conflicts | 迫りくる過去 |
+| act21side_06_m | 企鹅物流据点 | Penguin Logistics Office | ペンギン急便のアジト |
+| act21side_06_t | 新城区大街 | Cittanova Main Street | 新市街の大通り |
+| act21side_07 | 何以忘却 | What to be Forgotten | 忘れえぬ記憶 |
+| act21side_08 | 危如累卵 | Walking on Eggshells | 累卵の危機 |
+| act21side_09 | 文明的谎言 | Lies of Civilization | 偽りの文明 |
+| act21side_09_t | 沃尔西尼市政中心 | Volsinii Municipal Center | シティホール |
+| act21side_10 | “狼之主” | Signore dei Lupi | 「狼の主」 |
+| act21side_s01 | 谋杀 | Murder | 謀殺 |
+| act21side_s02 | 摆布 | Manipulate | 翻弄 |
+| act21side_s03 | 报复 | Vengeance | 報復 |
+| act21side_s04 | 悬赏 | Bounty | 褒賞 |
+| act21side_s05 | 忏悔 | Repentance | 懺悔 |
+| act21side_st01 | 沉疴 | Lingering Illness | 長患い |
+| act21side_st02 | 切开 | Cut Open | 切開 |
+| act21side_st03 | 剜刺 | Troublemaker | 摘出 |
+| act21side_st04 | 缝合 | Sew Together | 縫合 |
+| act21side_tr01 | 以牙还牙 | Eye for an Eye | 歯には歯を |
 | act22side_01 | 逃离与追逐 | - | - |
 | act22side_02 | 不幸重逢 | - | - |
 | act22side_03 | 引燃草垛 | - | - |
