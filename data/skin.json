@@ -153,6 +153,9 @@
     "ja_JP": "除夜の者",
     "zh_CN": "守岁人"
   },
+  "char_121_lava@sale#9": {
+    "zh_CN": "一束阳光"
+  },
   "char_122_beagle@boc#1": {
     "en_US": "Dreadnaught",
     "ja_JP": "恐れ知らず",
@@ -861,6 +864,9 @@
     "ja_JP": "荒地に咲く花",
     "zh_CN": "弃土花开"
   },
+  "char_362_saga@sale#9": {
+    "zh_CN": "彼有"
+  },
   "char_365_aprl@wild#3": {
     "en_US": "Faraway Gaze",
     "ja_JP": "遠望",
@@ -937,6 +943,9 @@
     "ja_JP": "炎陽煌く露SDm11",
     "zh_CN": "灿阳朝露 SDm11"
   },
+  "char_4025_aprot2@whirlwind#5": {
+    "zh_CN": "结果"
+  },
   "char_402_tuye@epoque#14": {
     "en_US": "Cultivate Vegetation",
     "ja_JP": "緑化",
@@ -970,6 +979,9 @@
   },
   "char_4055_bgsnow@wild#7": {
     "zh_CN": "字句中的雪原"
+  },
+  "char_4071_peper@whirlwind#5": {
+    "zh_CN": "来路"
   },
   "char_4077_palico@mh#1": {
     "zh_CN": "跃上街头"
@@ -1018,6 +1030,9 @@
     "en_US": "Shimmering Dew SD08",
     "ja_JP": "炎陽煌く露SD08",
     "zh_CN": "灿阳朝露 SD08"
+  },
+  "char_430_fartth@whirlwind#5": {
+    "zh_CN": "捉风"
   },
   "char_436_whispr@nian#4": {
     "en_US": "Tremble Cold",

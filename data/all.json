@@ -159,6 +159,12 @@
       "zh_CN": "淬羽赫默"
     }
   },
+  "char_1032_excu2": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "圣约送葬人"
+    }
+  },
   "char_103_angel": {
     "type": "OPERATOR",
     "names": {
@@ -1573,6 +1579,12 @@
       "zh_CN": "子月"
     }
   },
+  "char_4015_spuria": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "空构"
+    }
+  },
   "char_4016_kazema": {
     "type": "OPERATOR",
     "names": {
@@ -2177,6 +2189,12 @@
       "en_US": "Cantabile",
       "ja_JP": "カンタービレ",
       "zh_CN": "晓歌"
+    }
+  },
+  "char_498_inside": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "隐现"
     }
   },
   "char_500_noirc": {
@@ -3423,6 +3441,30 @@
       "zh_CN": "“过去的我”"
     }
   },
+  "trap_117_ltstat": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "圣像"
+    }
+  },
+  "trap_118_rockfl": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "塌落的墙垣"
+    }
+  },
+  "trap_119_rdrepair": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "备用木材"
+    }
+  },
+  "trap_120_rdblock": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "破旧的木篱"
+    }
+  },
   "trap_121_gractrl": {
     "type": "TRAP",
     "names": {
@@ -4043,6 +4085,12 @@
       "en_US": "Night Watcher",
       "ja_JP": "除夜の者",
       "zh_CN": "守岁人"
+    }
+  },
+  "char_121_lava@sale#9": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "一束阳光"
     }
   },
   "char_122_beagle@boc#1": {
@@ -5191,6 +5239,12 @@
       "zh_CN": "弃土花开"
     }
   },
+  "char_362_saga@sale#9": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "彼有"
+    }
+  },
   "char_365_aprl@wild#3": {
     "type": "SKIN",
     "names": {
@@ -5321,6 +5375,12 @@
       "zh_CN": "灿阳朝露 SDm11"
     }
   },
+  "char_4025_aprot2@whirlwind#5": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "结果"
+    }
+  },
   "char_402_tuye@epoque#14": {
     "type": "SKIN",
     "names": {
@@ -5383,6 +5443,12 @@
     "type": "SKIN",
     "names": {
       "zh_CN": "字句中的雪原"
+    }
+  },
+  "char_4071_peper@whirlwind#5": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "来路"
     }
   },
   "char_4077_palico@mh#1": {
@@ -5461,6 +5527,12 @@
       "en_US": "Shimmering Dew SD08",
       "ja_JP": "炎陽煌く露SD08",
       "zh_CN": "灿阳朝露 SD08"
+    }
+  },
+  "char_430_fartth@whirlwind#5": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "捉风"
     }
   },
   "char_436_whispr@nian#4": {
@@ -10787,6 +10859,96 @@
       "zh_CN": "行星碎屑"
     }
   },
+  "enemy_1335_bldrat": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "啮齿兽"
+    }
+  },
+  "enemy_1335_bldrat_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "饥饿啮齿兽"
+    }
+  },
+  "enemy_1336_bldbat": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "伏翼兽"
+    }
+  },
+  "enemy_1336_bldbat_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "惊躁伏翼兽"
+    }
+  },
+  "enemy_1337_bhrknf": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "荒原窃盗者"
+    }
+  },
+  "enemy_1337_bhrknf_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "荒原窃盗者精英"
+    }
+  },
+  "enemy_1338_bhrjst": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "荒原潜伏者"
+    }
+  },
+  "enemy_1338_bhrjst_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "荒原潜伏者精英"
+    }
+  },
+  "enemy_1339_bhrgrd": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "荒原劫掠者"
+    }
+  },
+  "enemy_1339_bhrgrd_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "荒原劫掠者精英"
+    }
+  },
+  "enemy_1340_bthtbw": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "赏金猎人弩手"
+    }
+  },
+  "enemy_1340_bthtbw_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "赏金猎人弩手队长"
+    }
+  },
+  "enemy_1341_bthtms": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "赏金猎人扰乱者"
+    }
+  },
+  "enemy_1341_bthtms_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "赏金猎人扰乱者队长"
+    }
+  },
+  "enemy_1342_frtuna": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "堕天使福尔图娜"
+    }
+  },
   "enemy_1500_skulsr": {
     "type": "ENEMY",
     "names": {
@@ -10920,7 +11082,7 @@
     "names": {
       "en_US": "'The Deathless Black Snake'",
       "ja_JP": "「不死の黒蛇」",
-      "zh_CN": "\"不死的黑蛇\""
+      "zh_CN": "“不死的黑蛇”"
     }
   },
   "enemy_1516_jakill": {
@@ -11064,13 +11226,13 @@
     "names": {
       "en_US": "Zaaro, Signore dei Lupi",
       "ja_JP": "「狼主」ザーロ",
-      "zh_CN": "扎罗，“狼之主” "
+      "zh_CN": "扎罗，“狼之主”"
     }
   },
   "enemy_1536_ncrmcr": {
     "type": "ENEMY",
     "names": {
-      "zh_CN": "“领袖” "
+      "zh_CN": "“领袖”"
     }
   },
   "enemy_1537_mhrors": {
@@ -11125,6 +11287,12 @@
     "type": "ENEMY",
     "names": {
       "zh_CN": "克丽斯腾"
+    }
+  },
+  "enemy_1544_cledub": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“花匠”"
     }
   },
   "enemy_2001_duckmi": {
@@ -11491,6 +11659,18 @@
       "zh_CN": "叙拉古平民"
     }
   },
+  "enemy_3005_lpeopl": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "修道院居民"
+    }
+  },
+  "enemy_3005_lpeopl_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "修道院居民"
+    }
+  },
   "enemy_4001_toxcar": {
     "type": "ENEMY",
     "names": {
@@ -11536,7 +11716,7 @@
     "names": {
       "en_US": "-",
       "ja_JP": "-",
-      "zh_CN": "-"
+      "zh_CN": "艺术的慈悲!"
     }
   },
   "enemy_5009_shtrwd": {
@@ -11544,7 +11724,7 @@
     "names": {
       "en_US": "-",
       "ja_JP": "-",
-      "zh_CN": "-"
+      "zh_CN": "艺术的绝杀!"
     }
   },
   "enemy_5010_catrdg": {
@@ -11552,7 +11732,7 @@
     "names": {
       "en_US": "-",
       "ja_JP": "-",
-      "zh_CN": "-"
+      "zh_CN": "弱弹"
     }
   },
   "enemy_6001_trsgst": {
@@ -12411,6 +12591,12 @@
       "en_US": "Limited-time Cumulative Sign-in",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
+    }
+  },
+  "act26side": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "空想花庭"
     }
   },
   "act26sign": {
@@ -14899,6 +15085,12 @@
       "zh_CN": "特殊作战许可·β"
     }
   },
+  "act26side_token_fragmenta": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "圣像碎片"
+    }
+  },
   "act2bossrush_milestone_point": {
     "type": "ITEM",
     "names": {
@@ -16601,6 +16793,12 @@
       "zh_CN": "淬羽赫默的信物"
     }
   },
+  "p_char_1032_excu2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "圣约送葬人的信物"
+    }
+  },
   "p_char_103_angel": {
     "type": "ITEM",
     "names": {
@@ -18007,6 +18205,12 @@
       "zh_CN": "子月的信物"
     }
   },
+  "p_char_4015_spuria": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "空构的信物"
+    }
+  },
   "p_char_4016_kazema": {
     "type": "ITEM",
     "names": {
@@ -18581,6 +18785,12 @@
       "en_US": "Cantabile's Token",
       "ja_JP": "カンタービレの印",
       "zh_CN": "晓歌的信物"
+    }
+  },
+  "p_char_498_inside": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "隐现的信物"
     }
   },
   "p_char_500_noirc": {
@@ -19347,6 +19557,12 @@
       "zh_CN": "黑曜石节手环"
     }
   },
+  "uni_set_abyssal": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "覆潮之下家具收藏包"
+    }
+  },
   "uni_set_act10d5": {
     "type": "ITEM",
     "names": {
@@ -19557,6 +19773,12 @@
       "en_US": "Folinic's Personal Letter",
       "ja_JP": "フォリニックの手紙",
       "zh_CN": "亚叶的私人信件"
+    }
+  },
+  "voucher_full_glady": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "歌蕾蒂娅的私人信件"
     }
   },
   "voucher_full_grani": {
@@ -20469,6 +20691,12 @@
     "type": "POOL",
     "names": {
       "zh_CN": "犹在影中"
+    }
+  },
+  "SINGLE_39_0_1": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "执裁者"
     }
   },
   "_ATTAIN_15_2_1": {
@@ -22090,6 +22318,24 @@
       "zh_CN": "十字悬挂"
     }
   },
+  "skchr_excu2_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "遗嘱执行"
+    }
+  },
+  "skchr_excu2_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "近身铳斗"
+    }
+  },
+  "skchr_excu2_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "圣约决裁"
+    }
+  },
   "skchr_excu_1": {
     "type": "SKILL",
     "names": {
@@ -22888,6 +23134,18 @@
     "type": "SKILL",
     "names": {
       "zh_CN": "独影归途"
+    }
+  },
+  "skchr_inside_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“不惹麻烦”"
+    }
+  },
+  "skchr_inside_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“解决麻烦”"
     }
   },
   "skchr_irene_1": {
@@ -24574,6 +24832,18 @@
       "zh_CN": "次级治疗模式"
     }
   },
+  "skchr_spuria_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "见机行事"
+    }
+  },
+  "skchr_spuria_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "临场铳械改装"
+    }
+  },
   "skchr_sqrrel_1": {
     "type": "SKILL",
     "names": {
@@ -26148,6 +26418,12 @@
       "zh_CN": "宁作吾"
     }
   },
+  "sktok_ltstat": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "祈祷"
+    }
+  },
   "sktok_machst": {
     "type": "SKILL",
     "names": {
@@ -26420,6 +26696,18 @@
       "zh_CN": "更诱人珍宝"
     }
   },
+  "sktok_rdblock": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "阻拦"
+    }
+  },
+  "sktok_rdrepair": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "修复步道"
+    }
+  },
   "sktok_recodr_1": {
     "type": "SKILL",
     "names": {
@@ -26526,6 +26814,12 @@
       "en_US": "Full Auto Modeler",
       "ja_JP": "メイクアップマシン",
       "zh_CN": "全自动造型仪"
+    }
+  },
+  "sktok_rockfl": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "塌落"
     }
   },
   "sktok_rosmon": {
@@ -30422,6 +30716,84 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "先锋工程"
+    }
+  },
+  "act26side_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "我有一个荣美家乡"
+    }
+  },
+  "act26side_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "生命运河"
+    }
+  },
+  "act26side_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "岂可空手回天府？"
+    }
+  },
+  "act26side_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "我曾舍命为你"
+    }
+  },
+  "act26side_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "主在圣殿中"
+    }
+  },
+  "act26side_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "夜半歌声"
+    }
+  },
+  "act26side_07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "以爱相连"
+    }
+  },
+  "act26side_08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "愿跟随主"
+    }
+  },
+  "act26side_st01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "奉上冠冕"
+    }
+  },
+  "act26side_st02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "在花园里"
+    }
+  },
+  "act26side_st03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "慈光引导"
+    }
+  },
+  "act26side_tr01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "祷告良辰"
+    }
+  },
+  "act26side_tr02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "完全平安"
     }
   },
   "act2bossrush_01": {
@@ -34986,6 +35358,18 @@
       "zh_CN": "紧握当下"
     }
   },
+  "act26side_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "安布罗修修道院"
+    }
+  },
+  "act26side_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "废弃圣堂"
+    }
+  },
   "act2bossrush_zone1": {
     "type": "ZONE",
     "names": {
@@ -36090,6 +36474,12 @@
       "zh_CN": "他乡故旧"
     }
   },
+  "story_excu_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "送葬人"
+    }
+  },
   "story_f12yin_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -36160,6 +36550,12 @@
       "en_US": "Recorder",
       "ja_JP": "記録者",
       "zh_CN": "记录者"
+    }
+  },
+  "story_forcer_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "出行计划"
     }
   },
   "story_franka_set_1_story_1": {
@@ -36358,6 +36754,12 @@
       "zh_CN": "硬核饮品"
     }
   },
+  "story_inside_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "机密任务"
+    }
+  },
   "story_irene_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -36430,6 +36832,12 @@
       "en_US": "'Caring'",
       "ja_JP": "看病",
       "zh_CN": "看护"
+    }
+  },
+  "story_leizi_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "司雷霆者"
     }
   },
   "story_ling_set_1_story_1": {

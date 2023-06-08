@@ -96,6 +96,9 @@
   "char_1031_slent2": {
     "zh_CN": "淬羽赫默"
   },
+  "char_1032_excu2": {
+    "zh_CN": "圣约送葬人"
+  },
   "char_103_angel": {
     "en_US": "Exusiai",
     "ja_JP": "エクシア",
@@ -976,6 +979,9 @@
     "ja_JP": "ルナカブ",
     "zh_CN": "子月"
   },
+  "char_4015_spuria": {
+    "zh_CN": "空构"
+  },
   "char_4016_kazema": {
     "en_US": "Kazemaru",
     "ja_JP": "カゼマル",
@@ -1344,6 +1350,9 @@
     "en_US": "Cantabile",
     "ja_JP": "カンタービレ",
     "zh_CN": "晓歌"
+  },
+  "char_498_inside": {
+    "zh_CN": "隐现"
   },
   "char_500_noirc": {
     "en_US": "Noir Corne",

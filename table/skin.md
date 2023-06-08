@@ -39,6 +39,7 @@ tip: 请善用浏览器的搜索功能
 | char_117_myrrh@wild#1 | 辛味 | Bitter Herbs | 辛味 |
 | char_118_yuki@boc#2 | 曲刃晴风 | Wind of Breaking Blade | 曲刃晴風 |
 | char_120_hibisc@nian#1 | 守岁人 | Night Watcher | 除夜の者 |
+| char_121_lava@sale#9 | 一束阳光 | - | - |
 | char_122_beagle@boc#1 | 无畏 | Dreadnaught | 恐れ知らず |
 | char_123_fang@winter#1 | 十字郡 | Cruciata | 交差点 |
 | char_124_kroos@witch#1 | 魔术师 | the mag | マジシャン |
@@ -185,6 +186,7 @@ tip: 请善用浏览器的搜索功能
 | char_358_lisa@epoque#22 | 雪霁 | - | - |
 | char_358_lisa@lxh#1 | 春之颂 | Spring Praise | 春陽讃歌 |
 | char_358_lisa@wild#3 | 弃土花开 | Lostlands Flowering | 荒地に咲く花 |
+| char_362_saga@sale#9 | 彼有 | - | - |
 | char_365_aprl@wild#3 | 远望 | Faraway Gaze | 遠望 |
 | char_366_acdrop@whirlwind#4 | “下午茶时光” | - | - |
 | char_367_swllow@boc#1 | 归巢 | Homecoming | 帰巣 |
@@ -203,6 +205,7 @@ tip: 请善用浏览器的搜索功能
 | char_4016_kazema@witch#3 | 幻影轻悄 | Like Illusion | 軽やかな幻影 |
 | char_401_elysm@snow#2 | 雪夜回音 | Snowy Echo | 雪夜の思い出 |
 | char_401_elysm@summer#9 | 灿阳朝露 SDm11 | Shimmering Dew SDm11 | 炎陽煌く露SDm11 |
+| char_4025_aprot2@whirlwind#5 | 结果 | - | - |
 | char_402_tuye@epoque#14 | 培翠 | Cultivate Vegetation | 緑化 |
 | char_4032_provs@wild#7 | 秋高气爽 | - | - |
 | char_4036_forcer@epoque#20 | 拾翼 | - | - |
@@ -213,6 +216,7 @@ tip: 请善用浏览器的搜索功能
 | char_4045_heidi@epoque#24 | 书信零落 | - | - |
 | char_4046_ebnhlz@boc#6 | 变奏 | - | - |
 | char_4055_bgsnow@wild#7 | 字句中的雪原 | - | - |
+| char_4071_peper@whirlwind#5 | 来路 | - | - |
 | char_4077_palico@mh#1 | 跃上街头 | - | - |
 | char_411_tomimi@summer#5 | 静谧午夜 DN04 | Silent Night DN04 | 安息の午夜DN04 |
 | char_415_flint@boc#3 | 绚烂夏花 | Gorgeous Flower | 紫藤繚乱 |
@@ -223,6 +227,7 @@ tip: 请善用浏览器的搜索功能
 | char_423_blemsh@witch#2 | 异月灾裔 | Moon Catastrborn | 異月の災裔 |
 | char_426_billro@snow#3 | 霍恩洛厄的寒沙 | Hohenlohe Chillysand | ホーエンローエの氷砂 |
 | char_426_billro@summer#8 | 灿阳朝露 SD08 | Shimmering Dew SD08 | 炎陽煌く露SD08 |
+| char_430_fartth@whirlwind#5 | 捉风 | - | - |
 | char_436_whispr@nian#4 | 孤寒峭 | Tremble Cold | 孤料峭 |
 | char_437_mizuki@sale#7 | 夏日餮宴 | - | - |
 | char_440_pinecn@shining#1 | 倾声歌唱 | Sing a Song | 歌声よ届け |

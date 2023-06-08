@@ -63,6 +63,7 @@ tip: 请善用浏览器的搜索功能
 | story_erato_set_1_story_1 | 英雄们的叙事诗 | - | - |
 | story_estell_set_1_story_1 | 她的一小步 | One Small Step For Her | その小さな一歩 |
 | story_ethan_set_1_story_1 | 他乡故旧 | 'Old Friends in Foreign Places' | 異郷の旧友 |
+| story_excu_set_1_story_1 | 送葬人 | - | - |
 | story_f12yin_set_1_story_1 | 意外的烦恼 | Unexpected Annoyance | 予想外の悩み |
 | story_f12yin_set_2_story_1 | 赴罪 | Sinner's Path | 罪へと赴く |
 | story_falco_set_1_story_1 | 远大理想 | A Grand, Distant Ideal | 遠大な理想 |
@@ -72,6 +73,7 @@ tip: 请善用浏览器的搜索功能
 | story_flower_set_2_story_1 | 树犹如此 | How Old Trees Grow | 木々でさえ |
 | story_fmout_set_1_story_1 | 占卜 | 'Divination' | 占い |
 | story_folivo_set_1_story_1 | 记录者 | Recorder | 記録者 |
+| story_forcer_set_1_story_1 | 出行计划 | - | - |
 | story_franka_set_1_story_1 | 往日的象征 | Symbols of the Past | 在りし日の象徴 |
 | story_frncat_set_1_story_1 | 小点心 | - | - |
 | story_frostl_set_1_story_1 | 识字本 | - | - |
@@ -98,6 +100,7 @@ tip: 请善用浏览器的搜索功能
 | story_huang_set_1_story_1 | 你愿意吗 | Will You? | 意思を問う |
 | story_ifrit_set_1_story_1 | 小队长 | Team Captain | 小隊長 |
 | story_indigo_set_1_story_1 | 硬核饮品 | Hardcore Drink | ハードなドリンク |
+| story_inside_set_1_story_1 | 机密任务 | - | - |
 | story_irene_set_1_story_1 | 灯火微明 | Lantern's Twilight | ほのかな灯り |
 | story_iris_set_1_story_1 | 糖果屋 | - | - |
 | story_jaksel_set_1_story_1 | 无价的勋章 | - | - |
@@ -108,6 +111,7 @@ tip: 请善用浏览器的搜索功能
 | story_kroos_set_1_story_1 | 苹果 | Apples | 林檎 |
 | story_lava_set_1_story_1 | 姐妹 | 'Sisters' | 姉妹 |
 | story_lava_set_2_story_1 | 看护 | 'Caring' | 看病 |
+| story_leizi_set_1_story_1 | 司雷霆者 | - | - |
 | story_ling_set_1_story_1 | 醒时梦长 | From a Long Dream Woken | 白日の酔夢 |
 | story_lionhd_set_1_story_1 | 暗境求生 | - | - |
 | story_liskam_set_1_story_1 | 苹果派对准备中！ | 'Apple Pie Party, Now Preparing!' | リンゴパーティー準備中！ |

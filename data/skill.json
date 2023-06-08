@@ -708,6 +708,15 @@
     "ja_JP": "グラインドツイスター",
     "zh_CN": "十字悬挂"
   },
+  "skchr_excu2_1": {
+    "zh_CN": "遗嘱执行"
+  },
+  "skchr_excu2_2": {
+    "zh_CN": "近身铳斗"
+  },
+  "skchr_excu2_3": {
+    "zh_CN": "圣约决裁"
+  },
   "skchr_excu_1": {
     "en_US": "Muzzle's Elegy",
     "ja_JP": "フルチョーク",
@@ -1198,6 +1207,12 @@
   },
   "skchr_ines_3": {
     "zh_CN": "独影归途"
+  },
+  "skchr_inside_1": {
+    "zh_CN": "“不惹麻烦”"
+  },
+  "skchr_inside_2": {
+    "zh_CN": "“解决麻烦”"
   },
   "skchr_irene_1": {
     "en_US": "Gust",
@@ -2235,6 +2250,12 @@
     "ja_JP": "第二態勢・回復",
     "zh_CN": "次级治疗模式"
   },
+  "skchr_spuria_1": {
+    "zh_CN": "见机行事"
+  },
+  "skchr_spuria_2": {
+    "zh_CN": "临场铳械改装"
+  },
   "skchr_sqrrel_1": {
     "en_US": "Steam Pump",
     "ja_JP": "消火ポンプ",
@@ -3191,6 +3212,9 @@
     "ja_JP": "寧ろ吾をなさん",
     "zh_CN": "宁作吾"
   },
+  "sktok_ltstat": {
+    "zh_CN": "祈祷"
+  },
   "sktok_machst": {
     "en_US": "Strengthen and Reinforce",
     "ja_JP": "補強工事",
@@ -3352,6 +3376,12 @@
     "ja_JP": "財宝の蠱惑",
     "zh_CN": "更诱人珍宝"
   },
+  "sktok_rdblock": {
+    "zh_CN": "阻拦"
+  },
+  "sktok_rdrepair": {
+    "zh_CN": "修复步道"
+  },
   "sktok_recodr_1": {
     "en_US": "Entitative Program",
     "ja_JP": "実体プログラム",
@@ -3417,6 +3447,9 @@
     "en_US": "Full Auto Modeler",
     "ja_JP": "メイクアップマシン",
     "zh_CN": "全自动造型仪"
+  },
+  "sktok_rockfl": {
+    "zh_CN": "塌落"
   },
   "sktok_rosmon": {
     "en_US": "Call Tactical Equipment",

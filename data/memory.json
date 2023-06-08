@@ -255,6 +255,9 @@
     "ja_JP": "異郷の旧友",
     "zh_CN": "他乡故旧"
   },
+  "story_excu_set_1_story_1": {
+    "zh_CN": "送葬人"
+  },
   "story_f12yin_set_1_story_1": {
     "en_US": "Unexpected Annoyance",
     "ja_JP": "予想外の悩み",
@@ -299,6 +302,9 @@
     "en_US": "Recorder",
     "ja_JP": "記録者",
     "zh_CN": "记录者"
+  },
+  "story_forcer_set_1_story_1": {
+    "zh_CN": "出行计划"
   },
   "story_franka_set_1_story_1": {
     "en_US": "Symbols of the Past",
@@ -418,6 +424,9 @@
     "ja_JP": "ハードなドリンク",
     "zh_CN": "硬核饮品"
   },
+  "story_inside_set_1_story_1": {
+    "zh_CN": "机密任务"
+  },
   "story_irene_set_1_story_1": {
     "en_US": "Lantern's Twilight",
     "ja_JP": "ほのかな灯り",
@@ -461,6 +470,9 @@
     "en_US": "'Caring'",
     "ja_JP": "看病",
     "zh_CN": "看护"
+  },
+  "story_leizi_set_1_story_1": {
+    "zh_CN": "司雷霆者"
   },
   "story_ling_set_1_story_1": {
     "en_US": "From a Long Dream Woken",

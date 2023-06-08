@@ -3030,6 +3030,51 @@
   "enemy_1334_ristar": {
     "zh_CN": "行星碎屑"
   },
+  "enemy_1335_bldrat": {
+    "zh_CN": "啮齿兽"
+  },
+  "enemy_1335_bldrat_2": {
+    "zh_CN": "饥饿啮齿兽"
+  },
+  "enemy_1336_bldbat": {
+    "zh_CN": "伏翼兽"
+  },
+  "enemy_1336_bldbat_2": {
+    "zh_CN": "惊躁伏翼兽"
+  },
+  "enemy_1337_bhrknf": {
+    "zh_CN": "荒原窃盗者"
+  },
+  "enemy_1337_bhrknf_2": {
+    "zh_CN": "荒原窃盗者精英"
+  },
+  "enemy_1338_bhrjst": {
+    "zh_CN": "荒原潜伏者"
+  },
+  "enemy_1338_bhrjst_2": {
+    "zh_CN": "荒原潜伏者精英"
+  },
+  "enemy_1339_bhrgrd": {
+    "zh_CN": "荒原劫掠者"
+  },
+  "enemy_1339_bhrgrd_2": {
+    "zh_CN": "荒原劫掠者精英"
+  },
+  "enemy_1340_bthtbw": {
+    "zh_CN": "赏金猎人弩手"
+  },
+  "enemy_1340_bthtbw_2": {
+    "zh_CN": "赏金猎人弩手队长"
+  },
+  "enemy_1341_bthtms": {
+    "zh_CN": "赏金猎人扰乱者"
+  },
+  "enemy_1341_bthtms_2": {
+    "zh_CN": "赏金猎人扰乱者队长"
+  },
+  "enemy_1342_frtuna": {
+    "zh_CN": "堕天使福尔图娜"
+  },
   "enemy_1500_skulsr": {
     "en_US": "Skullshatterer",
     "ja_JP": "SkullShredder",
@@ -3113,7 +3158,7 @@
   "enemy_1515_bsnake": {
     "en_US": "'The Deathless Black Snake'",
     "ja_JP": "「不死の黒蛇」",
-    "zh_CN": "\"不死的黑蛇\""
+    "zh_CN": "“不死的黑蛇”"
   },
   "enemy_1516_jakill": {
     "en_US": "Jesselton Miller",
@@ -3203,10 +3248,10 @@
   "enemy_1535_wlfmster": {
     "en_US": "Zaaro, Signore dei Lupi",
     "ja_JP": "「狼主」ザーロ",
-    "zh_CN": "扎罗，“狼之主” "
+    "zh_CN": "扎罗，“狼之主”"
   },
   "enemy_1536_ncrmcr": {
-    "zh_CN": "“领袖” "
+    "zh_CN": "“领袖”"
   },
   "enemy_1537_mhrors": {
     "zh_CN": "火龙"
@@ -3234,6 +3279,9 @@
   },
   "enemy_1543_cstlrs": {
     "zh_CN": "克丽斯腾"
+  },
+  "enemy_1544_cledub": {
+    "zh_CN": "“花匠”"
   },
   "enemy_2001_duckmi": {
     "en_US": "Duck Lord",
@@ -3461,6 +3509,12 @@
     "ja_JP": "シラクーザの市民",
     "zh_CN": "叙拉古平民"
   },
+  "enemy_3005_lpeopl": {
+    "zh_CN": "修道院居民"
+  },
+  "enemy_3005_lpeopl_2": {
+    "zh_CN": "修道院居民"
+  },
   "enemy_4001_toxcar": {
     "en_US": "Retrofitted Gastruck",
     "ja_JP": "改造ガス車",
@@ -3489,17 +3543,17 @@
   "enemy_5008_cstrwd": {
     "en_US": "-",
     "ja_JP": "-",
-    "zh_CN": "-"
+    "zh_CN": "艺术的慈悲!"
   },
   "enemy_5009_shtrwd": {
     "en_US": "-",
     "ja_JP": "-",
-    "zh_CN": "-"
+    "zh_CN": "艺术的绝杀!"
   },
   "enemy_5010_catrdg": {
     "en_US": "-",
     "ja_JP": "-",
-    "zh_CN": "-"
+    "zh_CN": "弱弹"
   },
   "enemy_6001_trsgst": {
     "en_US": "Fleet-footed Thief",

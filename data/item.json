@@ -1080,6 +1080,9 @@
   "act25side_token_key02": {
     "zh_CN": "特殊作战许可·β"
   },
+  "act26side_token_fragmenta": {
+    "zh_CN": "圣像碎片"
+  },
   "act2bossrush_milestone_point": {
     "zh_CN": "试炼经验"
   },
@@ -2029,6 +2032,9 @@
   "p_char_1031_slent2": {
     "zh_CN": "淬羽赫默的信物"
   },
+  "p_char_1032_excu2": {
+    "zh_CN": "圣约送葬人的信物"
+  },
   "p_char_103_angel": {
     "en_US": "Exusiai's Token",
     "ja_JP": "エクシアの印",
@@ -2904,6 +2910,9 @@
     "ja_JP": "ルナカブの印",
     "zh_CN": "子月的信物"
   },
+  "p_char_4015_spuria": {
+    "zh_CN": "空构的信物"
+  },
   "p_char_4016_kazema": {
     "en_US": "Kazemaru's Token",
     "ja_JP": "カゼマルの印",
@@ -3254,6 +3263,9 @@
     "en_US": "Cantabile's Token",
     "ja_JP": "カンタービレの印",
     "zh_CN": "晓歌的信物"
+  },
+  "p_char_498_inside": {
+    "zh_CN": "隐现的信物"
   },
   "p_char_500_noirc": {
     "en_US": "Noir Corne's Token",
@@ -3728,6 +3740,9 @@
     "ja_JP": "リストバンド",
     "zh_CN": "黑曜石节手环"
   },
+  "uni_set_abyssal": {
+    "zh_CN": "覆潮之下家具收藏包"
+  },
   "uni_set_act10d5": {
     "en_US": "Children of Ursus Furniture Pack",
     "ja_JP": "ウルサスの子供たち家具パック",
@@ -3855,6 +3870,9 @@
     "en_US": "Folinic's Personal Letter",
     "ja_JP": "フォリニックの手紙",
     "zh_CN": "亚叶的私人信件"
+  },
+  "voucher_full_glady": {
+    "zh_CN": "歌蕾蒂娅的私人信件"
   },
   "voucher_full_grani": {
     "en_US": "Grani's Personal Letter",

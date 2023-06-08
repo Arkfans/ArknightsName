@@ -26,6 +26,7 @@ tip: 请善用浏览器的搜索功能
 | char_102_texas | 德克萨斯 | Texas | テキサス |
 | char_1030_noirc2 | 火龙S黑角 | - | - |
 | char_1031_slent2 | 淬羽赫默 | - | - |
+| char_1032_excu2 | 圣约送葬人 | - | - |
 | char_103_angel | 能天使 | Exusiai | エクシア |
 | char_106_franka | 芙兰卡 | Franka | フランカ |
 | char_107_liskam | 雷蛇 | Liskarm | リスカム |
@@ -204,6 +205,7 @@ tip: 请善用浏览器的搜索功能
 | char_400_weedy | 温蒂 | Weedy | ウィーディ |
 | char_4013_kjera | 耶拉 | Kjera | イェラ |
 | char_4014_lunacu | 子月 | Lunacub | ルナカブ |
+| char_4015_spuria | 空构 | - | - |
 | char_4016_kazema | 风丸 | Kazemaru | カゼマル |
 | char_4017_puzzle | 谜图 | - | - |
 | char_4019_ncdeer | 九色鹿 | Nine-Colored Deer | 九色鹿 |
@@ -283,6 +285,7 @@ tip: 请善用浏览器的搜索功能
 | char_493_firwhl | 火哨 | - | - |
 | char_496_wildmn | 野鬃 | Wild Mane | ワイルドメイン |
 | char_497_ctable | 晓歌 | Cantabile | カンタービレ |
+| char_498_inside | 隐现 | - | - |
 | char_500_noirc | 黑角 | Noir Corne | ノイルホーン |
 | char_501_durin | 杜林 | Durin | ドゥリン |
 | char_502_nblade | 夜刀 | Yato | ヤトウ |

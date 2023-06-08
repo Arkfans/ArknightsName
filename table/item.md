@@ -232,6 +232,7 @@ tip: 请善用浏览器的搜索功能
 | act25side_token_fdrchips | 飞行数据记录芯片 | - | - |
 | act25side_token_key01 | 特殊作战许可·α | - | - |
 | act25side_token_key02 | 特殊作战许可·β | - | - |
+| act26side_token_fragmenta | 圣像碎片 | - | - |
 | act2bossrush_milestone_point | 试炼经验 | - | - |
 | act2bossrush_relic_01 | 修复套件 | - | - |
 | act2bossrush_relic_02 | 维续补丁 | - | - |
@@ -483,6 +484,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_102_texas | 德克萨斯的信物 | Texas's Token | テキサスの印 |
 | p_char_1030_noirc2 | 火龙S黑角的信物 | - | - |
 | p_char_1031_slent2 | 淬羽赫默的信物 | - | - |
+| p_char_1032_excu2 | 圣约送葬人的信物 | - | - |
 | p_char_103_angel | 能天使的信物 | Exusiai's Token | エクシアの印 |
 | p_char_106_franka | 芙兰卡的信物 | Franka's Token | フランカの印 |
 | p_char_107_liskam | 雷蛇的信物 | Liskarm's Token | リスカムの印 |
@@ -660,6 +662,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_400_weedy | 温蒂的信物 | Weedy's Token | ウィーディの印 |
 | p_char_4013_kjera | 耶拉的信物 | Kjera's Token | イェラの印 |
 | p_char_4014_lunacu | 子月的信物 | Lunacub's Token | ルナカブの印 |
+| p_char_4015_spuria | 空构的信物 | - | - |
 | p_char_4016_kazema | 风丸的信物 | Kazemaru's Token | カゼマルの印 |
 | p_char_4017_puzzle | 谜图的信物 | - | - |
 | p_char_401_elysm | 极境的信物 | Elysium's Token | エリジウムの印 |
@@ -735,6 +738,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_493_firwhl | 火哨的信物 | - | - |
 | p_char_496_wildmn | 野鬃的信物 | Wild Mane's Token | ワイルドメインの印 |
 | p_char_497_ctable | 晓歌的信物 | Cantabile's Token | カンタービレの印 |
+| p_char_498_inside | 隐现的信物 | - | - |
 | p_char_500_noirc | 黑角的信物 | Noir Corne's Token | ノイルホーンの印 |
 | p_char_501_durin | 杜林的信物 | Durin's Token | ドゥリンの印 |
 | p_char_502_nblade | 夜刀的信物 | Yato's Token | ヤトウの印 |
@@ -832,6 +836,7 @@ tip: 请善用浏览器的搜索功能
 | token_ObsidianCoin_rep_1 | 黑曜石节抽奖代币 | Obsidian Festival Token | ガチャコイン |
 | token_Obsidian_rep_1 | 汐斯塔的黑曜石 | Siesta Obsidian | シエスタの黒曜石 |
 | token_Wristband | 黑曜石节手环 | Obsidian Festival Bracelet | リストバンド |
+| uni_set_abyssal | 覆潮之下家具收藏包 | - | - |
 | uni_set_act10d5 | 乌萨斯的孩子们家具收藏包 | Children of Ursus Furniture Pack | ウルサスの子供たち家具パック |
 | uni_set_act7d5 | 午间逸话家具收藏包 | Stories of Afternoon Furniture Pack | 午後の逸話家具パック |
 | uni_set_beerhouse | 生于黑夜家具收藏包 | Darknights Memoir Furniture Pack | 闇夜に生きる家具パック |
@@ -860,6 +865,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_full_ceylon | 锡兰的私人信件 | Ceylon's Personal Letter | セイロンの手紙 |
 | voucher_full_flameb | 炎客的私人信件 | Flamebringer's Personal Letter | エンカクの手紙 |
 | voucher_full_folnic | 亚叶的私人信件 | Folinic's Personal Letter | フォリニックの手紙 |
+| voucher_full_glady | 歌蕾蒂娅的私人信件 | - | - |
 | voucher_full_grani | 格拉尼的私人信件 | Grani's Personal Letter | グラニの手紙 |
 | voucher_full_lava2 | 炎狱炎熔的私人信件 | - | - |
 | voucher_full_mint | 薄绿的私人信件 | Mint's Personal Letter | ミントの手紙 |

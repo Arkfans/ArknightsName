@@ -82,6 +82,7 @@ tip: 请善用浏览器的搜索功能
 | NORM_8_0_1 | 草垛上的风笛声 | - | - |
 | NORM_9_0_1 | 往日幻象 | - | - |
 | SINGLE_37_0_1 | 犹在影中 | - | - |
+| SINGLE_39_0_1 | 执裁者 | - | - |
 | _ATTAIN_15_2_1 | - | Celebrate & Recollect | ロドスの道のり　回顧 |
 | _LIMITED_10_2_1 | - | Deep Drown Lament | 深悼 |
 | _LIMITED_12_1_1 | - | Holiday Stars | ホリデースター |

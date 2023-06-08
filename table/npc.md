@@ -23,6 +23,7 @@ tip: 请善用浏览器的搜索功能
 | avg_1029_Yato2_1 | 夜刀 | - | - |
 | avg_1030_noirc2_1 | 黑角 | - | - |
 | avg_1031_slent2_1 | 赫默 | - | - |
+| avg_1032_excu2_1 | 费德里科 | - | - |
 | avg_103_angel_1 | 能天使 | Exusiai | エクシア |
 | avg_106_franka_1 | 芙兰卡 | Franka | フランカ |
 | avg_108_silent_1 | 市民？ | Silence | サイレンス |
@@ -134,6 +135,7 @@ tip: 请善用浏览器的搜索功能
 |   | 艾丽妮 | Irene | 審問官アイリーニ |
 | avg_400_weedy_1 | 温蒂 | Weedy | ウィーディ |
 | avg_4014_lunacu_1 | 子月 | Lunacub | ルナカブ |
+| avg_4015_spuria_1 | 斯普莉雅 | - | - |
 | avg_4016_kazema_1 | 记录员凯特 | Kazemaru | カゼマル |
 |   | 风丸 | Kite the Recorder | 記録係ケイト |
 | avg_4017_puzzle_1 | 菲舍尔 | - | - |
@@ -142,6 +144,7 @@ tip: 请善用浏览器的搜索功能
 | avg_402_tuye_1 | 图耶 | Tuye | トゥイエ |
 | avg_4032_provs_1 | 黛丝特 | Deszcz | デーシュット |
 | avg_4036_forcer_1 | 艾泽尔 | Ezell | エゼル |
+|   | 见行者 |   |   |
 | avg_4039_horn_1 | 号角 | Horn | ホルン |
 | avg_4040_rockr_1 | 洛洛 | Rochelle | ロシェル |
 |   | 罗谢尔 | Rockrock | ロックロック |
@@ -600,8 +603,10 @@ tip: 请善用浏览器的搜索功能
 |   | 影卫 | Shadow Guard | 影衛 |
 | avg_npc_039_1 | 惊蛰 | Censor | レイズ |
 |   | 监察司 | Leizi | 監察官 |
+|   | 麟青砚 |   |   |
 | avg_npc_040 | 太合 | Imposing Man | ガタイのいい男性 |
 |   | 魁梧男性 | Taihe | タイホー |
+| avg_npc_041 | 解真 | - | - |
 | avg_npc_042 | Rosmontis | Rosmontis | Rosmontis |
 |   | 迷迭香 |   | ロスモンティス |
 | avg_npc_043_1 | 九 | Nine | ナイン |
@@ -1077,8 +1082,12 @@ tip: 请善用浏览器的搜索功能
 |   | 盐风主教 | Sal Viento Bishop | 潮風の司教 |
 | avg_npc_186 | 海嗣 | Seaborn | 「シーボーン」 |
 |   |   |   | シーボーン |
-| avg_npc_187 | 男性居民B | Male Inhabitant B | 男性住民B |
-| avg_npc_189 | 男性居民D | Male Inhabitant D | 男性住民D |
+| avg_npc_187 | 惊慌的居民 | Male Inhabitant B | 男性住民B |
+|   | 男性修道院居民 |   |   |
+|   | 男性居民B |   |   |
+| avg_npc_188 | 焦急的居民 | - | - |
+| avg_npc_189 | 修道院居民 | Male Inhabitant D | 男性住民D |
+|   | 男性居民D |   |   |
 | avg_npc_190_1 | 艾雅法拉 | Eyjafjalla | エイヤフィヤトラ |
 | avg_npc_192_1 | 潘乔 | Pancho | パンチョ |
 | avg_npc_193 | 机灵的潘乔手下 | Alert Pancho Subordinate | パンチョの賢い部下 |
@@ -1465,7 +1474,8 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_365_1 | 拉特兰市民？ | Devout Citizen | 信心深い市民 |
 |   | 拘谨的医院护工 | Lateran Citizen? | 市民？ |
 |   | 紧张的帕蒂亚手下 | Panicked Underling of Patia | 生真面目な看護師 |
-|   | 虔诚的市民 | Reserved Hospital Attendant | 緊張するパティアの手下 |
+|   | 紧张的青年 | Reserved Hospital Attendant | 緊張するパティアの手下 |
+|   | 虔诚的市民 |   |   |
 | avg_npc_366_1 | 冷静的拉特兰市民 | Candid Stall Owner | うれしそうな市民 |
 |   | 努力保持爽朗的摊主 | Cheerful Neighbor | にこやかな隣人 |
 |   | 喜悦的拉特兰市民 | Composed Lateran Citizen | 冷静な市民 |
@@ -1473,21 +1483,32 @@ tip: 请善用浏览器的搜索功能
 |   | 沉稳的拉特兰市民 | Joyous Lateran Citizen | 爽やかでいたい店主 |
 |   | 爽朗的摊主 | Not-So-Candid Stall Owner | 爽やかでいられない店主 |
 |   | 笑呵呵的邻居 | Sedate Lateran Citizen | 爽やかな店主 |
-|   | 认真的医生 | Still-Trying-to-be-Candid Stall Owner | 真面目な医者 |
-|   | 试图维持笑容的摊主 | Trying-to-Smile-Anyway Stall Owner | 穏やかな市民 |
+|   | 精神的拉特兰人 | Still-Trying-to-be-Candid Stall Owner | 真面目な医者 |
+|   | 老练的拉特兰特勤队成员 | Trying-to-Smile-Anyway Stall Owner | 穏やかな市民 |
+|   | 认真的医生 |   |   |
+|   | 试图维持笑容的摊主 |   |   |
+|   | 闲逛的路人 |   |   |
 | avg_npc_367_1 | 亲切的医院护工 | Amiable Hospital Attendant | 優しい市民 |
-|   | 热心的拉特兰市民 | Ardent Lateran Citizen | 焦るホテルの支配人 |
-|   | 焦急的酒店经理 | Hotel Manager | 親切な看護師 |
-| avg_npc_368_1 | 关切的拉特兰市民 | Agitated Citizen | おしゃべりな看護師 |
-|   | 快嘴的医院护工 | Blabbermouth Hospital Attendant | のんびりした市民 |
-|   | 悠哉的拉特兰市民 | Intellectual Lateran Citizen | 感動する市民 |
-|   | 激动的市民 | Relaxed Lateran Citizen | 知的な市民 |
-|   | 知性的拉特兰市民 | Troubled Lateran Citizen | 親切な市民 |
+|   | 快乐的拉特兰人 | Ardent Lateran Citizen | 焦るホテルの支配人 |
+|   | 热心的拉特兰市民 | Hotel Manager | 親切な看護師 |
+|   | 焦急的酒店经理 |   |   |
+|   | 闲聊的路人 |   |   |
+| avg_npc_368_1 | 公证所职员 | Agitated Citizen | おしゃべりな看護師 |
+|   | 关切的拉特兰市民 | Blabbermouth Hospital Attendant | のんびりした市民 |
+|   | 快嘴的医院护工 | Intellectual Lateran Citizen | 感動する市民 |
+|   | 悠哉的拉特兰市民 | Relaxed Lateran Citizen | 知的な市民 |
+|   | 激动的市民 | Troubled Lateran Citizen | 親切な市民 |
+|   | 知性的拉特兰市民 |   |   |
 | avg_npc_369_1 | 修士 | Friar | 修道士 |
 |   | 开朗的修士 | Sister | 温和な修道士 |
 |   | 温和的修士 | Warm Prioress |   |
 |   | 虔诚的修士 |   |   |
+|   | 路过的修士 |   |   |
+|   | 路过的修士？ |   |   |
 | avg_npc_370_1 | 冷静的修士 | Stoic Sister | 冷静な修道士 |
+| avg_npc_371_1 | 年轻的拉特兰特勤队成员 | - | - |
+|   | 戍卫队成员 |   |   |
+|   | 戍卫队成员？ |   |   |
 | avg_npc_372_1 | 公证所职员 | Notarial Hall Official | リケーレ |
 |   | 里凯莱 | Richele | 公証人役場職員 |
 | avg_npc_380_1 | 断罪者 | Conviction | コンビクション |
@@ -1631,10 +1652,11 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_488_1 | 可疑的感染者 | Lachmann | ラハマン |
 |   | 拉赫曼 | Suspicious Infected | 怪しい感染者 |
 | avg_npc_489_1 | 乌尔苏拉 | Ursula | ウルズラ |
-| avg_npc_491_1 | 肆无忌惮的术师 | Bodyguard | 自分勝手な術師 |
-|   | 贵族侍卫 | Reckless Caster | 貴族の護衛 |
-|   | 高塔术师 | Spire Caster | 高塔の術師 |
-|   |   |   | 高塔術師 |
+| avg_npc_490_1 | 阿尔图罗 | - | - |
+| avg_npc_491_1 | “大贵族使者” | Bodyguard | 自分勝手な術師 |
+|   | 肆无忌惮的术师 | Reckless Caster | 貴族の護衛 |
+|   | 贵族侍卫 | Spire Caster | 高塔の術師 |
+|   | 高塔术师 |   | 高塔術師 |
 | avg_npc_492_1 | 冷漠的贵族 | Aloof Noble | ルイス |
 |   | 德夫林 | Cowardly Noble | 冷淡な貴族 |
 |   | 畏首畏尾的贵族 | Frivolous Noble | 心配性な貴族 |
@@ -2051,6 +2073,49 @@ tip: 请善用浏览器的搜索功能
 |   | 总辖构件科雇员A |   |   |
 |   | 总辖构件科雇员B |   |   |
 |   | 总辖构件科雇员C |   |   |
+| avg_npc_923_1 | 修道院主教 | - | - |
+|   | 消瘦的老人 |   |   |
+| avg_npc_924_1 | 克莱芒 | - | - |
+|   | 消瘦的男人 |   |   |
+| avg_npc_925_1 | 蕾缪安 | - | - |
+| avg_npc_926_1 | 杰拉尔德 | - | - |
+|   | 沧桑的猎户 |   |   |
+| avg_npc_927_1 | 福尔图娜 | - | - |
+|   | 萨科塔少女 |   |   |
+| avg_npc_928_1 | 害羞的孩子&活泼的孩子 | - | - |
+|   | 活泼的孩子 |   |   |
+|   | 艾丝塔拉&艾伦戴尔 |   |   |
+|   | 艾伦戴尔 |   |   |
+|   | 衣衫破旧的男孩 |   |   |
+| avg_npc_929_1 | 害羞的孩子 | - | - |
+|   | 艾丝塔拉 |   |   |
+|   | 衣衫破旧的女孩 |   |   |
+| avg_npc_930_1 | “扭曲的怪物” | - | - |
+|   | 扭曲的怪物 |   |   |
+|   | 赫曼 |   |   |
+| avg_npc_931_1 | 强壮的青年 | - | - |
+|   | 莱蒙德 |   |   |
+| avg_npc_932_1 | 愠怒的萨卡兹居民 | - | - |
+|   | 谨慎的萨卡兹居民 |   |   |
+| avg_npc_933_1 | 暴躁的萨卡兹居民 | - | - |
+|   | 费尔南 |   |   |
+| avg_npc_934_1 | 修道院居民 | - | - |
+|   | 担忧的萨卡兹居民 |   |   |
+|   | 胆怯的萨卡兹居民 |   |   |
+| avg_npc_935_1 | 卡洛琳 | - | - |
+|   | 萨卡兹居民 |   |   |
+| avg_npc_936_1 | 严肃的少女 | - | - |
+|   | 德尔菲娜 |   |   |
+| avg_npc_937_1 | 冷静的居民 | - | - |
+|   | 女性修道院居民 |   |   |
+| avg_npc_939_1 | 瘦削的修道院居民 | - | - |
+|   | 约里 |   |   |
+| avg_npc_940_1 | 修道院居民 | - | - |
+|   | 受惊吓的居民 |   |   |
+|   | 朱利安 |   |   |
+| avg_npc_941_1 | 奥卢斯 | - | - |
+|   | 温和的教士 |   |   |
+| avg_npc_942_1 | 泥岩 | - | - |
 | avgnew_112_siege_1 | 推进之王 | - | - |
 | avgnew_126_shotst_1 | 流星 | Meteor | メテオ |
 | avgnew_129_bluep_1 | 蓝毒 | Blue Poison | アズリウス |
