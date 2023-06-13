@@ -28,7 +28,7 @@ tip: 请善用浏览器的搜索功能
 | avg_106_franka_1 | 芙兰卡 | Franka | フランカ |
 | avg_108_silent_1 | 市民？ | Silence | サイレンス |
 |   | 赫默 |   |   |
-| avg_110_deepcl_1 | 怪异的画家 | - | - |
+| avg_110_deepcl_1 | 怪异的画家 | - | 奇妙な画家 |
 | avg_115_headbr_1 | 凛冬 | Zima | ズィマー |
 | avg_117_myrrh_1 | 末药 | Myrrh | ミルラ |
 | avg_123_fang_1 | 芬 | Fang | フェン |
@@ -44,8 +44,8 @@ tip: 请善用浏览器的搜索功能
 | avg_133_mm_1 | 梅 | - | - |
 |   | 梅缇丝 |   |   |
 | avg_134_ifrit_1 | 伊芙利特 | Ifrit | イフリータ |
-| avg_135_halo_1 | 埃琳娜 | Elena | エレナ |
-|   | 星源 |   |   |
+| avg_135_halo_1 | 埃琳娜 | Elena | アステジーニ |
+|   | 星源 |   | エレナ |
 | avg_137_brownb_1 | 猎蜂 | Beehunter | シュラ |
 |   | 舒拉 | Shura | ビーハンター |
 | avg_141_nights_1 | 夜烟 | Haze | ヘイズ |
@@ -208,9 +208,9 @@ tip: 请善用浏览器的搜索功能
 |   | 简妮 |   |   |
 | avg_482_pallas_1 | 埃拉托&帕拉斯 | Pallas | パラス |
 |   | 帕拉斯 |   |   |
-| avg_484_robrta_1 | 罗比菈塔 | - | - |
+| avg_484_robrta_1 | 罗比菈塔 | - | ロベルタ |
 | avg_486_espumo_1 | 埃内斯托 | Ernesto | エルネスト |
-|   | 龙舌兰 |   |   |
+|   | 龙舌兰 |   | テキーラ |
 | avg_489_serum_1 | 蚀清 | - | - |
 | avg_492_quercu_1 | 夏栎 | Quercus | クエルクス |
 |   | 夏栎？ |   |   |
@@ -222,11 +222,11 @@ tip: 请善用浏览器的搜索功能
 | avg_502_nblade_1 | 夜刀 | Yato | ヤトウ |
 | avg_NPC_017_3 | D.D.D. | D.D.D. | D.D.D. |
 | avg_NPC_178 | 画店店主 | Skeptical Townsfolk | 懐疑的な村人 |
-|   | 疑惑的镇民 | Tense Townsfolk | 神経質な村人 |
-|   | 紧张的镇民 |   |   |
+|   | 疑惑的镇民 | Tense Townsfolk | 画廊のオーナー |
+|   | 紧张的镇民 |   | 神経質な村人 |
 | avg_NPC_187 | 苍老的镇民 | Old Townsfolk | 年配の村人 |
 | avg_NPC_189 | 警惕的顾客 | Cautious Customer | 警戒心の強い客 |
-| avg_NPC_459_1 | 大胆的镇民 | - | - |
+| avg_NPC_459_1 | 大胆的镇民 | - | 度胸のある町民 |
 | avg_NPC_460_1 | 费利佩 | Felipe | フェリペ |
 | avg_NPC_462_1 | 友善的女性 | Friendly Woman | 親切な女性 |
 | avg_lolxh_4067_1 | 小黑 | Xiaohei | シャオヘイ |
@@ -1022,17 +1022,17 @@ tip: 请善用浏览器的搜索功能
 |   | 面色和善的贵族 |   |   |
 |   | 风趣的贵族 |   |   |
 | avg_npc_176 | 剧场经理 | A Leithanian Nobleman | ほろ酔いな商人 |
-|   | 剧院经理 | Announcer | リターニア男性貴族 |
-|   | 夸夸其谈的商人 | Elegant Ambassador | ヴィクトリアの豪商 |
-|   | 市侩的贵族 | Genial Noble | 優雅な使節 |
-|   | 微醺的商人 | Greedy Businessman | 劇場の支配人 |
-|   | 情绪激动的议员 | Local Judge A | 司会者 |
-|   | 报幕人 | Noble Gentleman | 浅ましい貴族 |
-|   | 文雅的使节 | Slimy Noble | 温和な貴族 |
-|   | 本地法官A | Theater Manager | 現地の裁判官A |
-|   | 温和的贵族 | Tipsy Businessman | 男性貴族 |
-|   | 热情的商人 | Victorian Magnate | 貪欲な商人 |
-|   | 维多利亚伯爵 |   |   |
+|   | 剧院经理 | Announcer | カジノのオーナー |
+|   | 夸夸其谈的商人 | Elegant Ambassador | リターニア男性貴族 |
+|   | 市侩的贵族 | Genial Noble | ヴィクトリアの豪商 |
+|   | 微醺的商人 | Greedy Businessman | 優雅な使節 |
+|   | 情绪激动的议员 | Local Judge A | 劇場の支配人 |
+|   | 报幕人 | Noble Gentleman | 司会者 |
+|   | 文雅的使节 | Slimy Noble | 浅ましい貴族 |
+|   | 本地法官A | Theater Manager | 温和な貴族 |
+|   | 温和的贵族 | Tipsy Businessman | 現地の裁判官A |
+|   | 热情的商人 | Victorian Magnate | 男性貴族 |
+|   | 维多利亚伯爵 |   | 貪欲な商人 |
 |   | 维多利亚富商 |   |   |
 |   | 肥胖的商人 |   |   |
 |   | 莱塔尼亚男贵族 |   |   |
@@ -1096,12 +1096,12 @@ tip: 请善用浏览器的搜索功能
 |   | 警觉的潘乔手下 | Dim-witted Pancho Subordinate | パンチョの鋭い部下 |
 |   | 迟钝的潘乔手下 | Quick-witted Pancho Subordinate | ボリバルの軍人A |
 | avg_npc_194 | 伏兵A | Ambush A | カジノの下っ端 |
-|   | 图利奥 | Bar Owner | トゥーリオ |
-|   | 游客A？ | Casino Hotshot | バーのオーナー |
-|   | 罪犯 | Criminal | 伏兵A |
-|   | 赌场员工 | Tourist A? | 犯罪者 |
-|   | 赌场喽啰 | Tulio | 観光客？A |
-|   | 酒吧老板 |   |   |
+|   | 图利奥 | Bar Owner | カジノの従業員 |
+|   | 游客A？ | Casino Hotshot | トゥーリオ |
+|   | 罪犯 | Criminal | バーのオーナー |
+|   | 赌场员工 | Tourist A? | 伏兵A |
+|   | 赌场喽啰 | Tulio | 犯罪者 |
+|   | 酒吧老板 |   | 観光客？A |
 | avg_npc_195 | 伏兵B | Ambush B | ボイル区の暴徒 |
 |   | 大嗓门男人 | Boil Brawler | 伏兵B |
 |   | 沸区打手 | Loud-Mouthed Man | 大声の男 |
@@ -1115,12 +1115,12 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_200 | 工作人员 | Prelim MC | スタッフ |
 |   | 海选主持人 | Staff Worker | 予選司会者 |
 | avg_npc_201 | 害怕的男游客 | Bolívarian Tourist | せっかちな男性選手 |
-|   | 急躁的男游客 | Cheerful Male Tourist | ボリバルの観光客 |
-|   | 游客 | Impatient Male Tourist | 喜んでいる男性観光客 |
-|   | 玻利瓦尔游客 | Startled Male Tourist | 怖がっている男性観光客 |
-|   | 赌场客人 | Terrified Male Tourist | 観光客 |
-|   | 震惊的男游客 | Tourist | 驚いている男性観光客 |
-|   | 高兴的男游客 |   |   |
+|   | 急躁的男游客 | Cheerful Male Tourist | カジノの客 |
+|   | 游客 | Impatient Male Tourist | ボリバルの観光客 |
+|   | 玻利瓦尔游客 | Startled Male Tourist | 喜んでいる男性観光客 |
+|   | 赌场客人 | Terrified Male Tourist | 怖がっている男性観光客 |
+|   | 震惊的男游客 | Tourist | 観光客 |
+|   | 高兴的男游客 |   | 驚いている男性観光客 |
 | avg_npc_202 | 害怕的女游客 | Excited Female Tourist | 怖がっている女性観光客 |
 |   | 懒散的女游客 | Female Music-Loving Tourist | 興奮した女性観光客 |
 |   | 激动的女游客 | Sluggish Female Tourist | 面倒臭がりな女性観光客 |
@@ -1129,21 +1129,22 @@ tip: 请善用浏览器的搜索功能
 |   |   |   | 驚いている女性観光客 |
 | avg_npc_203_1 | 星熊 | Hoshiguma | ホシグマ |
 | avg_npc_204 | 兴奋的客人 | Angered Contestant | 怒っている選手 |
-|   | 急躁的参赛选手 | Irritated Contestant | 苛立っている選手 |
-|   | 愤怒的参赛选手 |   |   |
+|   | 急躁的参赛选手 | Irritated Contestant | 興奮する客 |
+|   | 愤怒的参赛选手 |   | 苛立っている選手 |
 | avg_npc_205 | 不屈的参赛选手 | Contestant | 不屈の選手 |
 |   | 参赛选手 | Contestant? | 参加選手？ |
 |   | 参赛选手？ | Drunkard A | 大会参加選手 |
-|   | 急躁的参赛选手 | Headstrong Contestant | 苛立っている選手 |
-|   | 疑惑的客人 | Irritated Contestant | 酔っ払いA |
-|   | 醉汉A |   |   |
+|   | 急躁的参赛选手 | Headstrong Contestant | 懐疑的な客 |
+|   | 疑惑的客人 | Irritated Contestant | 苛立っている選手 |
+|   | 醉汉A |   | 酔っ払いA |
 | avg_npc_206_1 | 铸铁 | Sideroca | シデロカ |
 | avg_npc_207 | 不耐烦的多索雷斯警察 | Bodyguard | なまけ者ドッソレス警察官 |
 |   | 市长保镖 | Casino Boss | カジノのオーナー |
 |   | 护卫 | Impatient Dossoles Police Officer | ゴマすりドッソレス警察官 |
 |   | 谄媚的多索雷斯 | Toady Dossoles Police Officer | 守衛 |
-|   | 谄媚的多索雷斯警察 |   | 衛兵 |
-|   | 赌场老板 |   | 諂いドッソレス警察官 |
+|   | 谄媚的多索雷斯警察 |   | 市長のボディーガード |
+|   | 赌场老板 |   | 衛兵 |
+|   |   |   | 諂いドッソレス警察官 |
 | avg_npc_208 | 坎诺特 | Cannot | キャノット |
 | avg_npc_208_1 | 莫妮克 | Monique | モニーク |
 | avg_npc_209_1 | “青金” | 'Lazurite' | 「ラズライト」 |
@@ -1612,11 +1613,11 @@ tip: 请善用浏览器的搜索功能
 |   | 诡异的教徒 | Strange Adherent | 緊張気味の深海教徒 |
 |   | 负责拷问的教徒 | Torturer Cultist |   |
 | avg_npc_454_1 | 受伤的教徒 | Church of the Deep Cultist B | 傷付いた深海教徒 |
-|   | 外来的教士 | Silent Cultist | 寡黙な深海教徒 |
-|   | 奇怪的外来人 | Tight-Lipped Adherent | 深海教徒B |
-|   | 寡言的教徒 | Wounded Cultist | 物静かな深海教徒 |
-|   | 沉默的教徒 |   |   |
-|   | 深海教徒B |   |   |
+|   | 外来的教士 | Silent Cultist | 宣教師 |
+|   | 奇怪的外来人 | Tight-Lipped Adherent | 寡黙な深海教徒 |
+|   | 寡言的教徒 | Wounded Cultist | 怪しげな訪問者 |
+|   | 沉默的教徒 |   | 深海教徒B |
+|   | 深海教徒B |   | 物静かな深海教徒 |
 | avg_npc_455_1 | 海嗣 | Seaborn | シーボーン |
 | avg_npc_456_1 | 海嗣 | Seaborn | シーボーン |
 | avg_npc_457_1 | 恐鱼 | Dying Sea Terror | 怪物 |
@@ -1707,9 +1708,9 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_521_1 | Mechanist | Mechanist | Mechanist |
 | avg_npc_522_1 | 斐尔迪南 | Ferdinand | フェルディナンド |
 | avg_npc_523_1 | 停尸间员工 | Cheerful Columbian | ご機嫌なクルビア人 |
-|   | 副总统秘书 | Drunkard | 軽薄なクルビア人 |
-|   | 司机 | Frivolous Columbian | 酔っぱらった男 |
-|   | 愉快的哥伦比亚人 |   |   |
+|   | 副总统秘书 | Drunkard | 死体安置所の従業員 |
+|   | 司机 | Frivolous Columbian | 軽薄なクルビア人 |
+|   | 愉快的哥伦比亚人 |   | 酔っぱらった男 |
 |   | 无礼的记者 |   |   |
 |   | 米莱斯 |   |   |
 |   | 街边摊贩 |   |   |
@@ -1721,7 +1722,7 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_524_1 | 工作人员 | Bar Patron | トリマウンツ市民 |
 |   | 急切的记者 | Cheery Woman | バーの客 |
 |   | 活泼的女性 | Trimountarian | 活発な女性 |
-|   | 特里蒙市民 |   |   |
+|   | 特里蒙市民 |   | 痩せた長身の女性 |
 |   | 紧张的创业者 |   |   |
 |   | 记者 |   |   |
 |   | 记者A |   |   |

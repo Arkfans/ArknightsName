@@ -49,8 +49,8 @@ tip: 请善用浏览器的搜索功能
 | act14mini_zone1 | 仗剑何为 | - | - |
 | act14side_zone1 | 雪山大典 | The Grand Ceremony | 雪境大典 |
 | act14side_zone2 | 圣猎 | Holy Hunt | 狩猟の儀 |
-| act14sre_zone1 | 雪山大典 | - | - |
-| act14sre_zone2 | 圣猎 | - | - |
+| act14sre_zone1 | 雪山大典 | - | 雪境大典 |
+| act14sre_zone2 | 圣猎 | - | 狩猟の儀 |
 | act15d0_zone1 | 越狱计划 | Escape Plan | 脱獄計画 |
 | act15d0_zone2 | 狱中生活 | Mansfield Daily Life | 獄中生活 |
 | act15d5_zone1 | 异地派遣 | Off-Site Dispatching | 外地派遣 |
@@ -144,8 +144,8 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_10_zone1 | 大骑士领 | Kawalerielki | 大騎士領 |
 | permanent_sidestory_10_zone2 | 零号地块 | Area 0 | 零号地 |
 | permanent_sidestory_10_zone3 | 城市霓虹 | City Neon | 都市のネオン |
-| permanent_sidestory_11_zone1 | 雪山大典 | - | - |
-| permanent_sidestory_11_zone2 | 圣猎 | - | - |
+| permanent_sidestory_11_zone1 | 雪山大典 | - | 雪境大典 |
+| permanent_sidestory_11_zone2 | 圣猎 | - | 狩猟の儀 |
 | permanent_sidestory_12_zone1 | 三山奇闻 | - | - |
 | permanent_sidestory_12_zone2 | 一十八峰 | - | - |
 | permanent_sidestory_13_zone1 | 万国峰会 | - | - |

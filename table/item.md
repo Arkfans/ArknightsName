@@ -191,7 +191,7 @@ tip: 请善用浏览器的搜索功能
 | act13side_token_model_rep_1 | 骑士领纪念模型 | G.K.T. Commemorative Model | 騎士領記念モデル |
 | act14mini_token_fu | 平安符 | - | - |
 | act14side_token_stone | 耶拉冈德之石 | Stone of Kjeragandr | イェラガンドの護石 |
-| act14side_token_stone_rep_1 | 耶拉冈德之石 | - | - |
+| act14side_token_stone_rep_1 | 耶拉冈德之石 | - | イェラガンドの護石 |
 | act15d0_token_ironSheet | 工厂铁片 | Factory Steel | 工場の鉄片 |
 | act15d0_token_ironSheet_rep_1 | 工厂铁片 | Factory Steel | 工場の鉄片 |
 | act15d5_token_postcard | 奇景明信片 | Wondrous Postcard | 奇景絵葉書 |
@@ -860,7 +860,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_elite_II_5 | 资深干员特训邀请函 | Senior Operator Training Invitation Letter | ★5特訓招待状 |
 | voucher_elite_II_6 | 高级资深干员特训邀请函 | - | - |
 | voucher_full_absin | 苦艾的私人信件 | Absinthe's Personal Letter | アブサントの手紙 |
-| voucher_full_bena | 贝娜的私人信件 | - | - |
+| voucher_full_bena | 贝娜的私人信件 | - | ベナの手紙 |
 | voucher_full_bison | 拜松的私人信件 | Bison's Personal Letter | バイソンの手紙 |
 | voucher_full_ceylon | 锡兰的私人信件 | Ceylon's Personal Letter | セイロンの手紙 |
 | voucher_full_flameb | 炎客的私人信件 | Flamebringer's Personal Letter | エンカクの手紙 |

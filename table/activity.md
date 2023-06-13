@@ -38,7 +38,7 @@ tip: 请善用浏览器的搜索功能
 | act14login | 登录领取奖励 | - | - |
 | act14mini | 春分 | - | - |
 | act14side | 风雪过境 | Break the Ice | 風雪一過 |
-| act14sre | 风雪过境·复刻 | - | - |
+| act14sre | 风雪过境·复刻 | - | 風雪一過・復刻 |
 | act15d0 | 孤岛风云 | Mansfield Break | 孤島激震 |
 | act15d1 | 跨年限时登录活动 | Limited-time Login Event | スタンプラリー |
 | act15d5 | 此地之外 | Beyond Here | 彼方を望む |
