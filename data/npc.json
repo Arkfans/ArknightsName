@@ -185,6 +185,9 @@
     ]
   },
   "avg_110_deepcl_1": {
+    "en_US": [
+      "Eccentric Artist"
+    ],
     "ja_JP": [
       "奇妙な画家"
     ],
@@ -303,6 +306,7 @@
   },
   "avg_135_halo_1": {
     "en_US": [
+      "Astgenne",
       "Elena"
     ],
     "ja_JP": [
@@ -1582,6 +1586,9 @@
     ]
   },
   "avg_484_robrta_1": {
+    "en_US": [
+      "Roberta"
+    ],
     "ja_JP": [
       "ロベルタ"
     ],
@@ -1591,7 +1598,8 @@
   },
   "avg_486_espumo_1": {
     "en_US": [
-      "Ernesto"
+      "Ernesto",
+      "Tequila"
     ],
     "ja_JP": [
       "エルネスト",
@@ -1668,6 +1676,7 @@
   },
   "avg_NPC_178": {
     "en_US": [
+      "Art Shop Owner",
       "Skeptical Townsfolk",
       "Tense Townsfolk"
     ],
@@ -1705,6 +1714,9 @@
     ]
   },
   "avg_NPC_459_1": {
+    "en_US": [
+      "Bold Townsfolk"
+    ],
     "ja_JP": [
       "度胸のある町民"
     ],
@@ -5013,6 +5025,7 @@
     "en_US": [
       "A Leithanian Nobleman",
       "Announcer",
+      "Casino Boss",
       "Elegant Ambassador",
       "Genial Noble",
       "Greedy Businessman",
@@ -5307,6 +5320,7 @@
       "Ambush A",
       "Bar Owner",
       "Casino Hotshot",
+      "Casino Worker",
       "Criminal",
       "Tourist A?",
       "Tulio"
@@ -5415,6 +5429,7 @@
   "avg_npc_201": {
     "en_US": [
       "Bolívarian Tourist",
+      "Casino Guest",
       "Cheerful Male Tourist",
       "Impatient Male Tourist",
       "Startled Male Tourist",
@@ -5478,6 +5493,7 @@
   "avg_npc_204": {
     "en_US": [
       "Angered Contestant",
+      "Excited Customer",
       "Irritated Contestant"
     ],
     "ja_JP": [
@@ -5497,7 +5513,8 @@
       "Contestant?",
       "Drunkard A",
       "Headstrong Contestant",
-      "Irritated Contestant"
+      "Irritated Contestant",
+      "Skeptical Customer"
     ],
     "ja_JP": [
       "不屈の選手",
@@ -5532,6 +5549,7 @@
       "Bodyguard",
       "Casino Boss",
       "Impatient Dossoles Police Officer",
+      "Mayor's Bodyguard",
       "Toady Dossoles Police Officer"
     ],
     "ja_JP": [
@@ -8025,7 +8043,9 @@
   "avg_npc_454_1": {
     "en_US": [
       "Church of the Deep Cultist B",
+      "Priest",
       "Silent Cultist",
+      "Strange Outsider",
       "Tight-Lipped Adherent",
       "Wounded Cultist"
     ],
@@ -8534,7 +8554,8 @@
     "en_US": [
       "Cheerful Columbian",
       "Drunkard",
-      "Frivolous Columbian"
+      "Frivolous Columbian",
+      "Morgue Worker"
     ],
     "ja_JP": [
       "ご機嫌なクルビア人",
@@ -8561,6 +8582,7 @@
     "en_US": [
       "Bar Patron",
       "Cheery Woman",
+      "Tall Woman",
       "Trimountarian"
     ],
     "ja_JP": [

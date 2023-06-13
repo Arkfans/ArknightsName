@@ -201,7 +201,7 @@ tip: 请善用浏览器的搜索功能
 | char_4004_pudd@snow#5 | 火树灵 | - | - |
 | char_4009_irene@ambienceSynesthesia#3 | 飞羽 | - | - |
 | char_400_weedy@snow#2 | 糖果仙子 | Candy Cape | キャンディフェアリー |
-| char_4013_kjera@epoque#18 | 灵巧侍者 | - | 腕利き侍女 |
+| char_4013_kjera@epoque#18 | 灵巧侍者 | Ingenious Servant | 腕利き侍女 |
 | char_4016_kazema@witch#3 | 幻影轻悄 | Like Illusion | 軽やかな幻影 |
 | char_401_elysm@snow#2 | 雪夜回音 | Snowy Echo | 雪夜の思い出 |
 | char_401_elysm@summer#9 | 灿阳朝露 SDm11 | Shimmering Dew SDm11 | 炎陽煌く露SDm11 |

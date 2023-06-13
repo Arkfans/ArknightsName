@@ -18,7 +18,7 @@ tip: 请善用浏览器的搜索功能
 | story_archet_set_1_story_1 | 偶像宣传 | - | - |
 | story_ardign_set_1_story_1 | 绝对能行！ | It'll Be Fine, Guaranteed! | 絶対大丈夫！ |
 | story_asbest_set_1_story_1 | 奇景 | Strange Sights | 奇景 |
-| story_astesi_set_1_story_1 | 启明 | - | 照らし出す光 |
+| story_astesi_set_1_story_1 | 启明 | Revelation | 照らし出す光 |
 | story_aurora_set_1_story_1 | 她所见 | What She Saw | 彼女の見たいもの |
 | story_ayer_set_1_story_1 | 黄沙觅迹 | - | - |
 | story_beewax_set_1_story_1 | 黄沙归途 | Trail of Sands | 黄砂の帰路 |
@@ -52,7 +52,7 @@ tip: 请善用浏览器的搜索功能
 | story_chyue_set_1_story_1 | 昔我往矣 | - | - |
 | story_ctable_set_1_story_1 | 飞进窗的羽兽 | - | - |
 | story_cutter_set_1_story_1 | 速食食品 | Meals, Ready-to-Eat | 携行食 |
-| story_deepcl_set_1_story_1 | 幽蓝怀想 | - | 深き青の追想 |
+| story_deepcl_set_1_story_1 | 幽蓝怀想 | Azure Memories | 深き青の追想 |
 | story_doroth_set_1_story_1 | 何处是我朋友的家 | - | - |
 | story_durin_set_1_story_1 | 午休时间 | Lunchtime Nap | お昼休み |
 | story_durnar_set_1_story_1 | 额外训练 | Extra Training | 追加訓練 |
@@ -157,7 +157,7 @@ tip: 请善用浏览器的搜索功能
 | story_quartz_set_1_story_1 | 无需遗憾 | - | - |
 | story_quercu_set_1_story_1 | 终途 | - | - |
 | story_quercu_set_2_story_1 | 生命的萌芽 | - | - |
-| story_robrta_set_1_story_1 | 挽歌 | - | 亡き者に捧ぐ歌 |
+| story_robrta_set_1_story_1 | 挽歌 | Elegy | 亡き者に捧ぐ歌 |
 | story_rockr_set_1_story_1 | 六百镑 | Six Hundred Pounds | 600ポンド |
 | story_rope_set_1_story_1 | 鲜花香水 | Floral Perfume | フラワーパフューム |
 | story_rope_set_1_story_2 | 鲜花香水 | Floral Perfume | フラワーパフューム |
@@ -193,7 +193,7 @@ tip: 请善用浏览器的搜索功能
 | story_svrash_set_1_story_1 | 难猜的人 | Unpredictable | 測り難き者 |
 | story_svrash_set_2_story_1 | 坚固的冰 | Unbreakable Ice | 堅固な氷 |
 | story_swire_set_1_story_1 | 就任前夕 | Day Before the Job | 就任前夜 |
-| story_takila_set_1_story_1 | 尖刺的滋味 | - | 「尖り」の味わい |
+| story_takila_set_1_story_1 | 尖刺的滋味 | Taste of Thorns | 「尖り」の味わい |
 | story_texas_set_1_story_1 | 使命必达 | Guaranteed Success | 絶対に、確実に |
 | story_therex_set_1_story_1 | 炙热冲击！ | Scorching-Hot Assault! | 灼熱のエネルギーショック！ |
 | story_thorns_set_1_story_1 | 纪念日 | Anniversary | 記念日 |

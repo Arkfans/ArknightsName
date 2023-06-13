@@ -5348,6 +5348,7 @@
   "char_4013_kjera@epoque#18": {
     "type": "SKIN",
     "names": {
+      "en_US": "Ingenious Servant",
       "ja_JP": "腕利き侍女",
       "zh_CN": "灵巧侍者"
     }
@@ -12223,6 +12224,7 @@
   "act14sre": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Break the Ice - Rerun",
       "ja_JP": "風雪一過・復刻",
       "zh_CN": "风雪过境·复刻"
     }
@@ -14794,6 +14796,7 @@
   "act14side_token_stone_rep_1": {
     "type": "ITEM",
     "names": {
+      "en_US": "Stone of Kjeragandr",
       "ja_JP": "イェラガンドの護石",
       "zh_CN": "耶拉冈德之石"
     }
@@ -19743,6 +19746,7 @@
   "voucher_full_bena": {
     "type": "ITEM",
     "names": {
+      "en_US": "Bena's Personal Letter",
       "ja_JP": "ベナの手紙",
       "zh_CN": "贝娜的私人信件"
     }
@@ -20978,6 +20982,7 @@
   "_NORM_21_2_1": {
     "type": "POOL",
     "names": {
+      "en_US": "Edelweiss' Vow",
       "ja_JP": "雪解けの誓い"
     }
   },
@@ -28669,7 +28674,7 @@
   "act14side_st02": {
     "type": "STAGE",
     "names": {
-      "en_US": "Winter Mountain is Coming",
+      "en_US": "Mountain Snow is Coming",
       "ja_JP": "山雪来る",
       "zh_CN": "山雪欲来"
     }
@@ -34955,6 +34960,7 @@
   "act14sre_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "The Grand Ceremony",
       "ja_JP": "雪境大典",
       "zh_CN": "雪山大典"
     }
@@ -34962,6 +34968,7 @@
   "act14sre_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Holy Hunt",
       "ja_JP": "狩猟の儀",
       "zh_CN": "圣猎"
     }
@@ -35669,6 +35676,7 @@
   "permanent_sidestory_11_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "The Grand Ceremony",
       "ja_JP": "雪境大典",
       "zh_CN": "雪山大典"
     }
@@ -35676,6 +35684,7 @@
   "permanent_sidestory_11_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Holy Hunt",
       "ja_JP": "狩猟の儀",
       "zh_CN": "圣猎"
     }
@@ -36161,6 +36170,7 @@
   "story_astesi_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Revelation",
       "ja_JP": "照らし出す光",
       "zh_CN": "启明"
     }
@@ -36412,6 +36422,7 @@
   "story_deepcl_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Azure Memories",
       "ja_JP": "深き青の追想",
       "zh_CN": "幽蓝怀想"
     }
@@ -37199,6 +37210,7 @@
   "story_robrta_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Elegy",
       "ja_JP": "亡き者に捧ぐ歌",
       "zh_CN": "挽歌"
     }
@@ -37474,6 +37486,7 @@
   "story_takila_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Taste of Thorns",
       "ja_JP": "「尖り」の味わい",
       "zh_CN": "尖刺的滋味"
     }

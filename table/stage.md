@@ -179,7 +179,7 @@ tip: 请善用浏览器的搜索功能
 | act14side_07 | 破冰 | Breaking the Ice | 砕氷 |
 | act14side_08 | 将军 | Check | チェックメイト |
 | act14side_st01 | 入乡随俗 | When in Kjerag... | 郷に入っては |
-| act14side_st02 | 山雪欲来 | Winter Mountain is Coming | 山雪来る |
+| act14side_st02 | 山雪欲来 | Mountain Snow is Coming | 山雪来る |
 | act14side_st03 | 一着不慎 | One Mindless Move | 敗着の一手 |
 | act14side_st04 | 封盘 | Adjournment | 封じ手 |
 | act14side_tr01 | 小心地滑 | Danger: Slippery Surface | 足下注意 |

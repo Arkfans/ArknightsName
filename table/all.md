@@ -707,7 +707,7 @@ tip: 请善用浏览器的搜索功能
 | char_4004_pudd@snow#5 | 火树灵 | - | - |
 | char_4009_irene@ambienceSynesthesia#3 | 飞羽 | - | - |
 | char_400_weedy@snow#2 | 糖果仙子 | Candy Cape | キャンディフェアリー |
-| char_4013_kjera@epoque#18 | 灵巧侍者 | - | 腕利き侍女 |
+| char_4013_kjera@epoque#18 | 灵巧侍者 | Ingenious Servant | 腕利き侍女 |
 | char_4016_kazema@witch#3 | 幻影轻悄 | Like Illusion | 軽やかな幻影 |
 | char_401_elysm@snow#2 | 雪夜回音 | Snowy Echo | 雪夜の思い出 |
 | char_401_elysm@summer#9 | 灿阳朝露 SDm11 | Shimmering Dew SDm11 | 炎陽煌く露SDm11 |
@@ -1609,7 +1609,7 @@ tip: 请善用浏览器的搜索功能
 | act14login | 登录领取奖励 | - | - |
 | act14mini | 春分 | - | - |
 | act14side | 风雪过境 | Break the Ice | 風雪一過 |
-| act14sre | 风雪过境·复刻 | - | 風雪一過・復刻 |
+| act14sre | 风雪过境·复刻 | Break the Ice - Rerun | 風雪一過・復刻 |
 | act15d0 | 孤岛风云 | Mansfield Break | 孤島激震 |
 | act15d1 | 跨年限时登录活动 | Limited-time Login Event | スタンプラリー |
 | act15d5 | 此地之外 | Beyond Here | 彼方を望む |
@@ -1940,7 +1940,7 @@ tip: 请善用浏览器的搜索功能
 | act13side_token_model_rep_1 | 骑士领纪念模型 | G.K.T. Commemorative Model | 騎士領記念モデル |
 | act14mini_token_fu | 平安符 | - | - |
 | act14side_token_stone | 耶拉冈德之石 | Stone of Kjeragandr | イェラガンドの護石 |
-| act14side_token_stone_rep_1 | 耶拉冈德之石 | - | イェラガンドの護石 |
+| act14side_token_stone_rep_1 | 耶拉冈德之石 | Stone of Kjeragandr | イェラガンドの護石 |
 | act15d0_token_ironSheet | 工厂铁片 | Factory Steel | 工場の鉄片 |
 | act15d0_token_ironSheet_rep_1 | 工厂铁片 | Factory Steel | 工場の鉄片 |
 | act15d5_token_postcard | 奇景明信片 | Wondrous Postcard | 奇景絵葉書 |
@@ -2609,7 +2609,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_elite_II_5 | 资深干员特训邀请函 | Senior Operator Training Invitation Letter | ★5特訓招待状 |
 | voucher_elite_II_6 | 高级资深干员特训邀请函 | - | - |
 | voucher_full_absin | 苦艾的私人信件 | Absinthe's Personal Letter | アブサントの手紙 |
-| voucher_full_bena | 贝娜的私人信件 | - | ベナの手紙 |
+| voucher_full_bena | 贝娜的私人信件 | Bena's Personal Letter | ベナの手紙 |
 | voucher_full_bison | 拜松的私人信件 | Bison's Personal Letter | バイソンの手紙 |
 | voucher_full_ceylon | 锡兰的私人信件 | Ceylon's Personal Letter | セイロンの手紙 |
 | voucher_full_flameb | 炎客的私人信件 | Flamebringer's Personal Letter | エンカクの手紙 |
@@ -2789,7 +2789,7 @@ tip: 请善用浏览器的搜索功能
 | _NORM_20_2_1 | - | - | 騎士に非ず |
 | _NORM_20_3_1 | - | The Front That Was | 先途追想 |
 | _NORM_20_4_1 | - | Bearings And Sparks | 軸受×火花 |
-| _NORM_21_2_1 | - | - | 雪解けの誓い |
+| _NORM_21_2_1 | - | Edelweiss' Vow | 雪解けの誓い |
 | _NORM_2_0_1 | - | Chi Xiao, the Hidden Dragon | 赤龍乗雲 |
 | _NORM_2_0_3 | - | Lungmen Spec Ops Headhunting | 龍門特別行動要員 |
 | _NORM_3_0_1 | - | Frozen Land | 果てなき氷原 |
@@ -3791,7 +3791,7 @@ tip: 请善用浏览器的搜索功能
 | act14side_07 | 破冰 | Breaking the Ice | 砕氷 |
 | act14side_08 | 将军 | Check | チェックメイト |
 | act14side_st01 | 入乡随俗 | When in Kjerag... | 郷に入っては |
-| act14side_st02 | 山雪欲来 | Winter Mountain is Coming | 山雪来る |
+| act14side_st02 | 山雪欲来 | Mountain Snow is Coming | 山雪来る |
 | act14side_st03 | 一着不慎 | One Mindless Move | 敗着の一手 |
 | act14side_st04 | 封盘 | Adjournment | 封じ手 |
 | act14side_tr01 | 小心地滑 | Danger: Slippery Surface | 足下注意 |
@@ -4611,8 +4611,8 @@ tip: 请善用浏览器的搜索功能
 | act14mini_zone1 | 仗剑何为 | - | - |
 | act14side_zone1 | 雪山大典 | The Grand Ceremony | 雪境大典 |
 | act14side_zone2 | 圣猎 | Holy Hunt | 狩猟の儀 |
-| act14sre_zone1 | 雪山大典 | - | 雪境大典 |
-| act14sre_zone2 | 圣猎 | - | 狩猟の儀 |
+| act14sre_zone1 | 雪山大典 | The Grand Ceremony | 雪境大典 |
+| act14sre_zone2 | 圣猎 | Holy Hunt | 狩猟の儀 |
 | act15d0_zone1 | 越狱计划 | Escape Plan | 脱獄計画 |
 | act15d0_zone2 | 狱中生活 | Mansfield Daily Life | 獄中生活 |
 | act15d5_zone1 | 异地派遣 | Off-Site Dispatching | 外地派遣 |
@@ -4706,8 +4706,8 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_10_zone1 | 大骑士领 | Kawalerielki | 大騎士領 |
 | permanent_sidestory_10_zone2 | 零号地块 | Area 0 | 零号地 |
 | permanent_sidestory_10_zone3 | 城市霓虹 | City Neon | 都市のネオン |
-| permanent_sidestory_11_zone1 | 雪山大典 | - | 雪境大典 |
-| permanent_sidestory_11_zone2 | 圣猎 | - | 狩猟の儀 |
+| permanent_sidestory_11_zone1 | 雪山大典 | The Grand Ceremony | 雪境大典 |
+| permanent_sidestory_11_zone2 | 圣猎 | Holy Hunt | 狩猟の儀 |
 | permanent_sidestory_12_zone1 | 三山奇闻 | - | - |
 | permanent_sidestory_12_zone2 | 一十八峰 | - | - |
 | permanent_sidestory_13_zone1 | 万国峰会 | - | - |
@@ -4770,7 +4770,7 @@ tip: 请善用浏览器的搜索功能
 | story_archet_set_1_story_1 | 偶像宣传 | - | - |
 | story_ardign_set_1_story_1 | 绝对能行！ | It'll Be Fine, Guaranteed! | 絶対大丈夫！ |
 | story_asbest_set_1_story_1 | 奇景 | Strange Sights | 奇景 |
-| story_astesi_set_1_story_1 | 启明 | - | 照らし出す光 |
+| story_astesi_set_1_story_1 | 启明 | Revelation | 照らし出す光 |
 | story_aurora_set_1_story_1 | 她所见 | What She Saw | 彼女の見たいもの |
 | story_ayer_set_1_story_1 | 黄沙觅迹 | - | - |
 | story_beewax_set_1_story_1 | 黄沙归途 | Trail of Sands | 黄砂の帰路 |
@@ -4804,7 +4804,7 @@ tip: 请善用浏览器的搜索功能
 | story_chyue_set_1_story_1 | 昔我往矣 | - | - |
 | story_ctable_set_1_story_1 | 飞进窗的羽兽 | - | - |
 | story_cutter_set_1_story_1 | 速食食品 | Meals, Ready-to-Eat | 携行食 |
-| story_deepcl_set_1_story_1 | 幽蓝怀想 | - | 深き青の追想 |
+| story_deepcl_set_1_story_1 | 幽蓝怀想 | Azure Memories | 深き青の追想 |
 | story_doroth_set_1_story_1 | 何处是我朋友的家 | - | - |
 | story_durin_set_1_story_1 | 午休时间 | Lunchtime Nap | お昼休み |
 | story_durnar_set_1_story_1 | 额外训练 | Extra Training | 追加訓練 |
@@ -4909,7 +4909,7 @@ tip: 请善用浏览器的搜索功能
 | story_quartz_set_1_story_1 | 无需遗憾 | - | - |
 | story_quercu_set_1_story_1 | 终途 | - | - |
 | story_quercu_set_2_story_1 | 生命的萌芽 | - | - |
-| story_robrta_set_1_story_1 | 挽歌 | - | 亡き者に捧ぐ歌 |
+| story_robrta_set_1_story_1 | 挽歌 | Elegy | 亡き者に捧ぐ歌 |
 | story_rockr_set_1_story_1 | 六百镑 | Six Hundred Pounds | 600ポンド |
 | story_rope_set_1_story_1 | 鲜花香水 | Floral Perfume | フラワーパフューム |
 | story_rope_set_1_story_2 | 鲜花香水 | Floral Perfume | フラワーパフューム |
@@ -4945,7 +4945,7 @@ tip: 请善用浏览器的搜索功能
 | story_svrash_set_1_story_1 | 难猜的人 | Unpredictable | 測り難き者 |
 | story_svrash_set_2_story_1 | 坚固的冰 | Unbreakable Ice | 堅固な氷 |
 | story_swire_set_1_story_1 | 就任前夕 | Day Before the Job | 就任前夜 |
-| story_takila_set_1_story_1 | 尖刺的滋味 | - | 「尖り」の味わい |
+| story_takila_set_1_story_1 | 尖刺的滋味 | Taste of Thorns | 「尖り」の味わい |
 | story_texas_set_1_story_1 | 使命必达 | Guaranteed Success | 絶対に、確実に |
 | story_therex_set_1_story_1 | 炙热冲击！ | Scorching-Hot Assault! | 灼熱のエネルギーショック！ |
 | story_thorns_set_1_story_1 | 纪念日 | Anniversary | 記念日 |
