@@ -215,6 +215,7 @@ tip: 请善用浏览器的搜索功能
 | char_4043_erato@snow#5 | 未讲述的故事 | - | - |
 | char_4045_heidi@epoque#24 | 书信零落 | - | - |
 | char_4046_ebnhlz@boc#6 | 变奏 | - | - |
+| char_4047_pianst@wild#8 | 荒野寻音 | - | - |
 | char_4055_bgsnow@wild#7 | 字句中的雪原 | - | - |
 | char_4071_peper@whirlwind#5 | 来路 | - | - |
 | char_4077_palico@mh#1 | 跃上街头 | - | - |

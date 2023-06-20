@@ -991,6 +991,9 @@
     "ja_JP": "手書きの楽譜",
     "zh_CN": "乐谱草稿"
   },
+  "act18side_token_pieces_rep_1": {
+    "zh_CN": "乐谱草稿"
+  },
   "act19side_token_reagents": {
     "en_US": "Mysterious Reagent",
     "ja_JP": "謎の試薬",

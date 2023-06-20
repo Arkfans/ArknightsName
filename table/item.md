@@ -209,6 +209,7 @@ tip: 请善用浏览器的搜索功能
 | act18d3_token_record | 腐蚀的伊比利亚唱片 | Corrupted Iberian Record | 腐食したレコード |
 | act18d3_token_record_rep_1 | 腐蚀的伊比利亚唱片 | Corrupted Iberian Record | 腐食したレコード |
 | act18side_token_pieces | 乐谱草稿 | Sheet Music | 手書きの楽譜 |
+| act18side_token_pieces_rep_1 | 乐谱草稿 | - | - |
 | act19side_token_reagents | 神秘试剂 | Mysterious Reagent | 謎の試薬 |
 | act1bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act1bossrush_relic_01 | 模块复用 | Reuse Module | マルチプレキシング |

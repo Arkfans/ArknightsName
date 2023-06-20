@@ -282,6 +282,9 @@
     "ja_JP": "再チャレンジ",
     "zh_CN": "二次冲锋"
   },
+  "story_firwhl_set_1_story_1": {
+    "zh_CN": "独行之人"
+  },
   "story_flint_set_1_story_1": {
     "en_US": "Warrior's Due",
     "ja_JP": "一人前の戦士",
@@ -446,6 +449,9 @@
     "en_US": "The Slow Walk Ahead",
     "ja_JP": "ゆっくり進む者",
     "zh_CN": "缓步前行"
+  },
+  "story_kafka_set_1_story_1": {
+    "zh_CN": "许以秘密"
   },
   "story_kazema_set_1_story_1": {
     "zh_CN": "应为必为"
@@ -674,6 +680,9 @@
     "ja_JP": "険しき道を征く",
     "zh_CN": "崎路前行"
   },
+  "story_pudd_set_1_story_1": {
+    "zh_CN": "远方的雪"
+  },
   "story_quartz_set_1_story_1": {
     "zh_CN": "无需遗憾"
   },
@@ -898,6 +907,9 @@
     "en_US": "Desert Rainbow",
     "ja_JP": "砂漠にかかる虹",
     "zh_CN": "沙漠之虹"
+  },
+  "story_utage_set_1_story_1": {
+    "zh_CN": "时髦把戏"
   },
   "story_vigil_set_1_story_1": {
     "en_US": "Future Coming",

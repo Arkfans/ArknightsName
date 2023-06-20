@@ -721,6 +721,7 @@ tip: 请善用浏览器的搜索功能
 | char_4043_erato@snow#5 | 未讲述的故事 | - | - |
 | char_4045_heidi@epoque#24 | 书信零落 | - | - |
 | char_4046_ebnhlz@boc#6 | 变奏 | - | - |
+| char_4047_pianst@wild#8 | 荒野寻音 | - | - |
 | char_4055_bgsnow@wild#7 | 字句中的雪原 | - | - |
 | char_4071_peper@whirlwind#5 | 来路 | - | - |
 | char_4077_palico@mh#1 | 跃上街头 | - | - |
@@ -1637,6 +1638,7 @@ tip: 请善用浏览器的搜索功能
 | act18d3d3 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act18side | 尘影余音 | Lingering Echoes | 塵影に交わる残響 |
 | act18sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
+| act18sre | 尘影余音·复刻 | - | - |
 | act19side | 绿野幻梦 | Dorothy's Vision | 翠玉の夢 |
 | act19sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act1bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
@@ -1647,6 +1649,7 @@ tip: 请善用浏览器的搜索功能
 | act1lock | 荷谟伊智境 | Hymnoi Wisdom | ヒュムノイの叡智 |
 | act1mainbuff | 战备支援 | - | - |
 | act1sandbox | 生息演算：沙中之火 | - | - |
+| act1signvs | 端阳正午签到活动 | - | - |
 | act20side | 理想城：长夏狂欢季 | Ideal City: Endless Carnival | 理想都市-エンドレスカーニバル- |
 | act20sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act21side | 叙拉古人 | IL Siracusano | シラクザーノ |
@@ -1958,6 +1961,7 @@ tip: 请善用浏览器的搜索功能
 | act18d3_token_record | 腐蚀的伊比利亚唱片 | Corrupted Iberian Record | 腐食したレコード |
 | act18d3_token_record_rep_1 | 腐蚀的伊比利亚唱片 | Corrupted Iberian Record | 腐食したレコード |
 | act18side_token_pieces | 乐谱草稿 | Sheet Music | 手書きの楽譜 |
+| act18side_token_pieces_rep_1 | 乐谱草稿 | - | - |
 | act19side_token_reagents | 神秘试剂 | Mysterious Reagent | 謎の試薬 |
 | act1bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act1bossrush_relic_01 | 模块复用 | Reuse Module | マルチプレキシング |
@@ -2750,6 +2754,7 @@ tip: 请善用浏览器的搜索功能
 | NORM_9_0_1 | 往日幻象 | - | - |
 | SINGLE_37_0_1 | 犹在影中 | - | - |
 | SINGLE_39_0_1 | 执裁者 | - | - |
+| SINGLE_39_0_2 | 不协和音程 | - | - |
 | _ATTAIN_15_2_1 | - | Celebrate & Recollect | ロドスの道のり　回顧 |
 | _LIMITED_10_2_1 | - | Deep Drown Lament | 深悼 |
 | _LIMITED_12_1_1 | - | Holiday Stars | ホリデースター |
@@ -4647,6 +4652,8 @@ tip: 请善用浏览器的搜索功能
 | act18d3_zone2 | 浪蚀哀墟 | Choppy Ruin | 海蝕の荒墟 |
 | act18side_zone1 | 夕照大厅 | Afterglow Hall | 光差す音楽堂 |
 | act18side_zone2 | 小巷深处 | Back Alleys | 暗き裏路地 |
+| act18sre_zone1 | 夕照大厅 | - | - |
+| act18sre_zone2 | 小巷深处 | - | - |
 | act19side_zone1 | 实验基地 | Test Site | 実験基地 |
 | act19side_zone2 | 莱茵总部 | Rhine Headquarters | ライン生命本社 |
 | act1bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
@@ -4712,6 +4719,8 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_12_zone2 | 一十八峰 | - | - |
 | permanent_sidestory_13_zone1 | 万国峰会 | - | - |
 | permanent_sidestory_13_zone2 | 圣殿之路 | - | - |
+| permanent_sidestory_14_zone1 | 夕照大厅 | - | - |
+| permanent_sidestory_14_zone2 | 小巷深处 | - | - |
 | permanent_sidestory_1_zone1 | 滴水村周边 | Dewville Outskirts | 滴水村周辺 |
 | permanent_sidestory_1_zone2 | 宝藏之路 | Path to Treasure | 宝への道 |
 | permanent_sidestory_2_zone1 | 主舞台 | Main Stage | メインステージ |
@@ -4820,6 +4829,7 @@ tip: 请善用浏览器的搜索功能
 | story_f12yin_set_2_story_1 | 赴罪 | Sinner's Path | 罪へと赴く |
 | story_falco_set_1_story_1 | 远大理想 | A Grand, Distant Ideal | 遠大な理想 |
 | story_fang_set_1_story_1 | 二次冲锋 | Second Charge | 再チャレンジ |
+| story_firwhl_set_1_story_1 | 独行之人 | - | - |
 | story_flint_set_1_story_1 | 合格的战士 | Warrior's Due | 一人前の戦士 |
 | story_flower_set_1_story_1 | 改建计划 | 'Refurbishment Plans' | 改装計画 |
 | story_flower_set_2_story_1 | 树犹如此 | How Old Trees Grow | 木々でさえ |
@@ -4857,6 +4867,7 @@ tip: 请善用浏览器的搜索功能
 | story_iris_set_1_story_1 | 糖果屋 | - | - |
 | story_jaksel_set_1_story_1 | 无价的勋章 | - | - |
 | story_jesica_set_1_story_1 | 缓步前行 | The Slow Walk Ahead | ゆっくり進む者 |
+| story_kafka_set_1_story_1 | 许以秘密 | - | - |
 | story_kazema_set_1_story_1 | 应为必为 | - | - |
 | story_kirara_set_1_story_1 | 隐藏结局 | Secret Ending | 隠しエンディング |
 | story_kirara_set_2_story_1 | 无伤通关 | No-Damage Clear | ノーダメージクリア |
@@ -4906,6 +4917,7 @@ tip: 请善用浏览器的搜索功能
 | story_popka_set_1_story_1 | 玩乐之间 | Funtime | お遊びの中で |
 | story_prove_set_1_story_1 | 同事们 | Coworkers | カンパニー |
 | story_prove_set_2_story_1 | 崎路前行 | A Perilous Road | 険しき道を征く |
+| story_pudd_set_1_story_1 | 远方的雪 | - | - |
 | story_quartz_set_1_story_1 | 无需遗憾 | - | - |
 | story_quercu_set_1_story_1 | 终途 | - | - |
 | story_quercu_set_2_story_1 | 生命的萌芽 | - | - |
@@ -4955,6 +4967,7 @@ tip: 请善用浏览器的搜索功能
 | story_tomimi_set_1_story_1 | 崭新生活 | Brand New Life | 新たな生活 |
 | story_totter_set_1_story_1 | 计划 | A Plan | 計画 |
 | story_tuye_set_1_story_1 | 沙漠之虹 | Desert Rainbow | 砂漠にかかる虹 |
+| story_utage_set_1_story_1 | 时髦把戏 | - | - |
 | story_vigil_set_1_story_1 | 未来将至 | Future Coming | 訪れる未来 |
 | story_vigna_set_1_story_1 | 该做的事 | What You've Gotta Do | すべきこと |
 | story_vodfox_set_1_story_1 | 无字诅咒 | - | - |

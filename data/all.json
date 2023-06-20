@@ -5441,6 +5441,12 @@
       "zh_CN": "变奏"
     }
   },
+  "char_4047_pianst@wild#8": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "荒野寻音"
+    }
+  },
   "char_4055_bgsnow@wild#7": {
     "type": "SKIN",
     "names": {
@@ -12437,6 +12443,12 @@
       "zh_CN": "限时累计签到"
     }
   },
+  "act18sre": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "尘影余音·复刻"
+    }
+  },
   "act19side": {
     "type": "ACTIVITY",
     "names": {
@@ -12507,6 +12519,12 @@
     "type": "ACTIVITY",
     "names": {
       "zh_CN": "生息演算：沙中之火"
+    }
+  },
+  "act1signvs": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "端阳正午签到活动"
     }
   },
   "act20side": {
@@ -14928,6 +14946,12 @@
     "names": {
       "en_US": "Sheet Music",
       "ja_JP": "手書きの楽譜",
+      "zh_CN": "乐谱草稿"
+    }
+  },
+  "act18side_token_pieces_rep_1": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "乐谱草稿"
     }
   },
@@ -20705,6 +20729,12 @@
     "type": "POOL",
     "names": {
       "zh_CN": "执裁者"
+    }
+  },
+  "SINGLE_39_0_2": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "不协和音程"
     }
   },
   "_ATTAIN_15_2_1": {
@@ -35227,6 +35257,18 @@
       "zh_CN": "小巷深处"
     }
   },
+  "act18sre_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "夕照大厅"
+    }
+  },
+  "act18sre_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "小巷深处"
+    }
+  },
   "act19side_zone1": {
     "type": "ZONE",
     "names": {
@@ -35711,6 +35753,18 @@
     "type": "ZONE",
     "names": {
       "zh_CN": "圣殿之路"
+    }
+  },
+  "permanent_sidestory_14_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "夕照大厅"
+    }
+  },
+  "permanent_sidestory_14_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "小巷深处"
     }
   },
   "permanent_sidestory_1_zone1": {
@@ -36539,6 +36593,12 @@
       "zh_CN": "二次冲锋"
     }
   },
+  "story_firwhl_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "独行之人"
+    }
+  },
   "story_flint_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -36813,6 +36873,12 @@
       "en_US": "The Slow Walk Ahead",
       "ja_JP": "ゆっくり進む者",
       "zh_CN": "缓步前行"
+    }
+  },
+  "story_kafka_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "许以秘密"
     }
   },
   "story_kazema_set_1_story_1": {
@@ -37189,6 +37255,12 @@
       "zh_CN": "崎路前行"
     }
   },
+  "story_pudd_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "远方的雪"
+    }
+  },
   "story_quartz_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -37559,6 +37631,12 @@
       "en_US": "Desert Rainbow",
       "ja_JP": "砂漠にかかる虹",
       "zh_CN": "沙漠之虹"
+    }
+  },
+  "story_utage_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "时髦把戏"
     }
   },
   "story_vigil_set_1_story_1": {

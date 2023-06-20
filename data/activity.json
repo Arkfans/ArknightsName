@@ -288,6 +288,9 @@
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
+  "act18sre": {
+    "zh_CN": "尘影余音·复刻"
+  },
   "act19side": {
     "en_US": "Dorothy's Vision",
     "ja_JP": "翠玉の夢",
@@ -329,6 +332,9 @@
   },
   "act1sandbox": {
     "zh_CN": "生息演算：沙中之火"
+  },
+  "act1signvs": {
+    "zh_CN": "端阳正午签到活动"
   },
   "act20side": {
     "en_US": "Ideal City: Endless Carnival",

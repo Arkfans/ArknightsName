@@ -379,6 +379,12 @@
     "ja_JP": "暗き裏路地",
     "zh_CN": "小巷深处"
   },
+  "act18sre_zone1": {
+    "zh_CN": "夕照大厅"
+  },
+  "act18sre_zone2": {
+    "zh_CN": "小巷深处"
+  },
   "act19side_zone1": {
     "en_US": "Test Site",
     "ja_JP": "実験基地",
@@ -669,6 +675,12 @@
   },
   "permanent_sidestory_13_zone2": {
     "zh_CN": "圣殿之路"
+  },
+  "permanent_sidestory_14_zone1": {
+    "zh_CN": "夕照大厅"
+  },
+  "permanent_sidestory_14_zone2": {
+    "zh_CN": "小巷深处"
   },
   "permanent_sidestory_1_zone1": {
     "en_US": "Dewville Outskirts",

@@ -68,6 +68,7 @@ tip: 请善用浏览器的搜索功能
 | story_f12yin_set_2_story_1 | 赴罪 | Sinner's Path | 罪へと赴く |
 | story_falco_set_1_story_1 | 远大理想 | A Grand, Distant Ideal | 遠大な理想 |
 | story_fang_set_1_story_1 | 二次冲锋 | Second Charge | 再チャレンジ |
+| story_firwhl_set_1_story_1 | 独行之人 | - | - |
 | story_flint_set_1_story_1 | 合格的战士 | Warrior's Due | 一人前の戦士 |
 | story_flower_set_1_story_1 | 改建计划 | 'Refurbishment Plans' | 改装計画 |
 | story_flower_set_2_story_1 | 树犹如此 | How Old Trees Grow | 木々でさえ |
@@ -105,6 +106,7 @@ tip: 请善用浏览器的搜索功能
 | story_iris_set_1_story_1 | 糖果屋 | - | - |
 | story_jaksel_set_1_story_1 | 无价的勋章 | - | - |
 | story_jesica_set_1_story_1 | 缓步前行 | The Slow Walk Ahead | ゆっくり進む者 |
+| story_kafka_set_1_story_1 | 许以秘密 | - | - |
 | story_kazema_set_1_story_1 | 应为必为 | - | - |
 | story_kirara_set_1_story_1 | 隐藏结局 | Secret Ending | 隠しエンディング |
 | story_kirara_set_2_story_1 | 无伤通关 | No-Damage Clear | ノーダメージクリア |
@@ -154,6 +156,7 @@ tip: 请善用浏览器的搜索功能
 | story_popka_set_1_story_1 | 玩乐之间 | Funtime | お遊びの中で |
 | story_prove_set_1_story_1 | 同事们 | Coworkers | カンパニー |
 | story_prove_set_2_story_1 | 崎路前行 | A Perilous Road | 険しき道を征く |
+| story_pudd_set_1_story_1 | 远方的雪 | - | - |
 | story_quartz_set_1_story_1 | 无需遗憾 | - | - |
 | story_quercu_set_1_story_1 | 终途 | - | - |
 | story_quercu_set_2_story_1 | 生命的萌芽 | - | - |
@@ -203,6 +206,7 @@ tip: 请善用浏览器的搜索功能
 | story_tomimi_set_1_story_1 | 崭新生活 | Brand New Life | 新たな生活 |
 | story_totter_set_1_story_1 | 计划 | A Plan | 計画 |
 | story_tuye_set_1_story_1 | 沙漠之虹 | Desert Rainbow | 砂漠にかかる虹 |
+| story_utage_set_1_story_1 | 时髦把戏 | - | - |
 | story_vigil_set_1_story_1 | 未来将至 | Future Coming | 訪れる未来 |
 | story_vigna_set_1_story_1 | 该做的事 | What You've Gotta Do | すべきこと |
 | story_vodfox_set_1_story_1 | 无字诅咒 | - | - |

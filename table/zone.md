@@ -85,6 +85,8 @@ tip: 请善用浏览器的搜索功能
 | act18d3_zone2 | 浪蚀哀墟 | Choppy Ruin | 海蝕の荒墟 |
 | act18side_zone1 | 夕照大厅 | Afterglow Hall | 光差す音楽堂 |
 | act18side_zone2 | 小巷深处 | Back Alleys | 暗き裏路地 |
+| act18sre_zone1 | 夕照大厅 | - | - |
+| act18sre_zone2 | 小巷深处 | - | - |
 | act19side_zone1 | 实验基地 | Test Site | 実験基地 |
 | act19side_zone2 | 莱茵总部 | Rhine Headquarters | ライン生命本社 |
 | act1bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
@@ -150,6 +152,8 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_12_zone2 | 一十八峰 | - | - |
 | permanent_sidestory_13_zone1 | 万国峰会 | - | - |
 | permanent_sidestory_13_zone2 | 圣殿之路 | - | - |
+| permanent_sidestory_14_zone1 | 夕照大厅 | - | - |
+| permanent_sidestory_14_zone2 | 小巷深处 | - | - |
 | permanent_sidestory_1_zone1 | 滴水村周边 | Dewville Outskirts | 滴水村周辺 |
 | permanent_sidestory_1_zone2 | 宝藏之路 | Path to Treasure | 宝への道 |
 | permanent_sidestory_2_zone1 | 主舞台 | Main Stage | メインステージ |

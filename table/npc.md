@@ -74,6 +74,7 @@ tip: 请善用浏览器的搜索功能
 | avg_202_demkni_1 | 塞雷娅 | Saria | サリア |
 | avg_206_gnosis_1 | 诺希斯 | Gnosis | ノーシス |
 | avg_213_mostma_1 | 莫斯提马 | Mostima | モスティマ |
+| avg_214_kafka_1 | 卡夫卡 | - | - |
 | avg_215_mantic_1 | 惊慌的曼提柯女孩 | Panicked Manticore Girl | マンティコア族の少女 |
 | avg_219_meteo_1 | 钝镝 | Blunt Wedge | ブラントウェッジ |
 |   | 陨星 | Meteorite | メテオリーテ |
@@ -131,6 +132,7 @@ tip: 请善用浏览器的搜索功能
 | avg_4000_jnight_1 | “正义骑士号” | 'Justice Knight' | 「ジャスティスナイト」 |
 |   | 机械凶兽 | Archbeast Mechanica | ジャスティスナイト |
 |   | 正义骑士号 | Justice Knight | 機械凶獣 |
+| avg_4004_pudd_1 | 布丁 | - | - |
 | avg_4009_irene_1 | 审判官艾丽妮 | Inquisitor Irene | アイリーニ |
 |   | 艾丽妮 | Irene | 審問官アイリーニ |
 | avg_400_weedy_1 | 温蒂 | Weedy | ウィーディ |
@@ -214,6 +216,7 @@ tip: 请善用浏览器的搜索功能
 | avg_489_serum_1 | 蚀清 | - | - |
 | avg_492_quercu_1 | 夏栎 | Quercus | クエルクス |
 |   | 夏栎？ |   |   |
+| avg_493_firwhl_1 | 阿格妮 | - | - |
 | avg_496_wdmane_1 | 狂野的骑士 | A Wild Knight | イヴォナ |
 |   | 艾沃娜 | Iwona | ワイルドな騎士 |
 | avg_497_ctable_1 | 晓歌 | - | - |
@@ -461,12 +464,14 @@ tip: 请善用浏览器的搜索功能
 |   | 克洛宁的保镖 | Organizing Committee Member | 警備員B |
 |   | 克洛宁的手下 | Security Chief | 警備隊長 |
 |   | 奥提 | Security Guard B | 護衛 |
-|   | 工作人员 | Ship Guard | 護衛A |
-|   | 工作人员A | Staff | 護衛B |
-|   | 查理 | Staff Worker | 護衛C |
-|   | 矿场打手 | Worker A |   |
+|   | 展会保安 | Ship Guard | 護衛A |
+|   | 工作人员 | Staff | 護衛B |
+|   | 工作人员A | Staff Worker | 護衛C |
+|   | 查理 | Worker A |   |
+|   | 矿场打手 |   |   |
 |   | 船长护卫 |   |   |
 |   | 调查员 |   |   |
+|   | 酒会保安 |   |   |
 |   | 雷神工业保安 |   |   |
 | avg_npc_021 | 娱乐报记者 | Audience Member A | 客A |
 |   | 店主B | Audience Member C | 店主B |
@@ -518,26 +523,27 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_032 | 兴奋的观众 | A Passing Tourist A | やけに感心する女性 |
 |   | 办事员 | A Rowdy Spectator | スラム街の感染者 |
 |   | 受困的龙门市民 | A Sensible Spectator | リンツ |
-|   | 女性居民 | A Spectator A | 事務員 |
-|   | 女性游客 | A Tourist | 女性 |
-|   | 女性路人 | A Tourist A | 女性住人 |
-|   | 女游客 | An Audience Member A | 女性旅行客 |
-|   | 女生 | An Enthusiastic Spectator | 女性観光客 |
-|   | 店员 | Clerk | 女性通行人 |
-|   | 拍摄队长 | Female Passerby | 市民A |
-|   | 游客 | Female Resident | 店員 |
-|   | 游客A | Female Tourist | 慎重な観客 |
-|   | 琳兹 | Girl | 興奮する観客 |
-|   | 疑似是托的女性路人 | Neighbor | 苦難の龍門市民 |
-|   | 聒噪的观众 | Passerby Girl | 観光客 |
-|   | 观众A | Passing Traveler | 観光客A |
-|   | 谨慎的观众 | Rinz | 観客A |
-|   | 贫民窟的感染者 | Shopkeeper | 通りすがりの女の子 |
-|   | 路过的女孩 | Slum Infected | 通りすがりの旅人 |
-|   | 路过的旅人 | Staged(?) Female Passerby | 通りすがりの観光客A |
-|   | 路过的游客A | Trapped Lungmen Citizen | 通行人の女性 |
-|   | 邻居 | Young Citizen A | 隣人 |
-|   | 阿尔瓦 |   | 騒がしい観客 |
+|   | 叶姿珍 | A Spectator A | 事務員 |
+|   | 女性居民 | A Tourist | 女性 |
+|   | 女性游客 | A Tourist A | 女性住人 |
+|   | 女性路人 | An Audience Member A | 女性旅行客 |
+|   | 女游客 | An Enthusiastic Spectator | 女性観光客 |
+|   | 女生 | Clerk | 女性通行人 |
+|   | 店员 | Female Passerby | 市民A |
+|   | 拍摄队长 | Female Resident | 店員 |
+|   | 游客 | Female Tourist | 慎重な観客 |
+|   | 游客A | Girl | 興奮する観客 |
+|   | 琳兹 | Neighbor | 苦難の龍門市民 |
+|   | 疑似是托的女性路人 | Passerby Girl | 観光客 |
+|   | 聒噪的观众 | Passing Traveler | 観光客A |
+|   | 观众A | Rinz | 観客A |
+|   | 谨慎的观众 | Shopkeeper | 通りすがりの女の子 |
+|   | 贫民窟的感染者 | Slum Infected | 通りすがりの旅人 |
+|   | 路过的女孩 | Staged(?) Female Passerby | 通りすがりの観光客A |
+|   | 路过的旅人 | Trapped Lungmen Citizen | 通行人の女性 |
+|   | 路过的游客A | Young Citizen A | 隣人 |
+|   | 邻居 |   | 騒がしい観客 |
+|   | 阿尔瓦 |   |   |
 |   | 青年市民A |   |   |
 | avg_npc_033 | 一般龙门市民 | A Spectator | イベント参加者？ |
 |   | 主持人 | A Spectator B | ケガした滷水幇 |
@@ -801,13 +807,15 @@ tip: 请善用浏览器的搜索功能
 |   | 后勤干员 | Field Operator A | ナビゲーターA |
 |   | 外勤干员A | Hawking Operator | 人事オペレーター |
 |   | 工程干员 | Human Resources Operator | 人事部オペレーター |
-|   | 摆摊的干员 | Logistics Operator | 冷静なオペレーター |
-|   | 术师干员 | Navigator A | 外勤オペレーター |
-|   | 沉稳的罗德岛干员 | Rhodes Island Field Operator | 外勤オペレーターA |
-|   | 着急的小干员 | Steady Rhodes Island Operator | 子供オペレーター |
-|   | 罗德岛外勤干员 | Young Studying Operator | 支援オペレーター |
-|   | 罗德岛干员 |   | 秘密の雑貨屋さん |
-|   | 罗德岛干员A |   | 術師オペレーター |
+|   | 工程部新任干员 | Logistics Operator | 冷静なオペレーター |
+|   | 摆摊的干员 | Navigator A | 外勤オペレーター |
+|   | 术师干员 | Rhodes Island Field Operator | 外勤オペレーターA |
+|   | 沉稳的罗德岛干员 | Steady Rhodes Island Operator | 子供オペレーター |
+|   | 着急的小干员 | Young Studying Operator | 支援オペレーター |
+|   | 罗德岛外勤干员 |   | 秘密の雑貨屋さん |
+|   | 罗德岛干员 |   | 術師オペレーター |
+|   | 罗德岛干员A |   |   |
+|   | 谢莉卡 |   |   |
 |   | 闲聊的干员 |   |   |
 |   | 领航员A |   |   |
 | avg_npc_089 | 办事处干员B | Field Operator | シュレッダー |
@@ -1007,32 +1015,34 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_174 | 万尼亚大公 | Grand Duke Vanya | ワーニャ公爵 |
 | avg_npc_175 | 刻薄的莱塔尼亚人 | Actress | ためらう使節 |
 |   | 商队首领 | Beautiful Noble | 女性貴族 |
-|   | 女演员 | Cheery Actress | 富裕層の女性 |
-|   | 富有的女性 | Hesitant Ambassador | 役者 |
-|   | 慢条斯理的议员 | Merry Noblewoman | 明るい女性貴族 |
-|   | 欢快的女贵族 | Noble Lady | 活発な役者 |
-|   | 活泼的女演员 | Noble? | 短気なリターニア人 |
-|   | 美丽的贵族 | Pretentious Noblewoman | 美しい貴族 |
-|   | 自满的贵族同学 | Scathing Leithanian | 自信溢れる貴族 |
-|   | 贵族女士 | Self-Satisfied Noble Alumna | 貴族？ |
-|   | 贵族女性 | Wealthy Woman | 風流人ぶった女性貴族 |
+|   | 女性设计师 | Cheery Actress | 富裕層の女性 |
+|   | 女演员 | Hesitant Ambassador | 役者 |
+|   | 富有的女性 | Merry Noblewoman | 明るい女性貴族 |
+|   | 慢条斯理的议员 | Noble Lady | 活発な役者 |
+|   | 欢快的女贵族 | Noble? | 短気なリターニア人 |
+|   | 活泼的女演员 | Pretentious Noblewoman | 美しい貴族 |
+|   | 美丽的贵族 | Scathing Leithanian | 自信溢れる貴族 |
+|   | 自满的贵族同学 | Self-Satisfied Noble Alumna | 貴族？ |
+|   | 贵族女士 | Wealthy Woman | 風流人ぶった女性貴族 |
+|   | 贵族女性 |   |   |
 |   | 贵族？ |   |   |
 |   | 迟疑的使节 |   |   |
 |   | 附庸风雅的女贵族 |   |   |
 |   | 面色和善的贵族 |   |   |
 |   | 风趣的贵族 |   |   |
-| avg_npc_176 | 剧场经理 | A Leithanian Nobleman | ほろ酔いな商人 |
-|   | 剧院经理 | Announcer | カジノのオーナー |
-|   | 夸夸其谈的商人 | Casino Boss | リターニア男性貴族 |
-|   | 市侩的贵族 | Elegant Ambassador | ヴィクトリアの豪商 |
-|   | 微醺的商人 | Genial Noble | 優雅な使節 |
-|   | 情绪激动的议员 | Greedy Businessman | 劇場の支配人 |
-|   | 报幕人 | Local Judge A | 司会者 |
-|   | 文雅的使节 | Noble Gentleman | 浅ましい貴族 |
-|   | 本地法官A | Slimy Noble | 温和な貴族 |
-|   | 温和的贵族 | Theater Manager | 現地の裁判官A |
-|   | 热情的商人 | Tipsy Businessman | 男性貴族 |
-|   | 维多利亚伯爵 | Victorian Magnate | 貪欲な商人 |
+| avg_npc_176 | 主持人 | A Leithanian Nobleman | ほろ酔いな商人 |
+|   | 剧场经理 | Announcer | カジノのオーナー |
+|   | 剧院经理 | Casino Boss | リターニア男性貴族 |
+|   | 夸夸其谈的商人 | Elegant Ambassador | ヴィクトリアの豪商 |
+|   | 市侩的贵族 | Genial Noble | 優雅な使節 |
+|   | 微醺的商人 | Greedy Businessman | 劇場の支配人 |
+|   | 情绪激动的议员 | Local Judge A | 司会者 |
+|   | 报幕人 | Noble Gentleman | 浅ましい貴族 |
+|   | 文雅的使节 | Slimy Noble | 温和な貴族 |
+|   | 本地法官A | Theater Manager | 現地の裁判官A |
+|   | 温和的贵族 | Tipsy Businessman | 男性貴族 |
+|   | 热情的商人 | Victorian Magnate | 貪欲な商人 |
+|   | 维多利亚伯爵 |   |   |
 |   | 维多利亚富商 |   |   |
 |   | 肥胖的商人 |   |   |
 |   | 莱塔尼亚男贵族 |   |   |
@@ -1206,15 +1216,16 @@ tip: 请善用浏览器的搜索功能
 |   | 商业间谍 | Commercial Agent | マネージャー |
 |   | 国民院代表 | Corporate Employee | レイジアン工業代表 |
 |   | 客户方代表 | Hamm | 企業職員 |
-|   | 张先生 | Haughty Official | 傲慢な役人 |
-|   | 愤慨的使节 | Kazimierz Representative | 商業スパイ |
-|   | 秘书 | Man in a Suit | 国民議会代表 |
-|   | 竞技场员工 | Manager | 怒った使節 |
-|   | 经纪人 | National Council Representative | 真面目な企業職員 |
-|   | 职员模样的男人 | Raythean Industries Representative | 秘書 |
-|   | 西装革履的男人 | Secretary | 競技場職員 |
-|   | 认真的企业员工 | Serious Corporate Employee | 職員のような男 |
-|   | 雷神工业代表 | Staff |   |
+|   | 工作人员 | Haughty Official | 傲慢な役人 |
+|   | 张先生 | Kazimierz Representative | 商業スパイ |
+|   | 愤慨的使节 | Man in a Suit | 国民議会代表 |
+|   | 秘书 | Manager | 怒った使節 |
+|   | 竞技场员工 | National Council Representative | 真面目な企業職員 |
+|   | 经纪人 | Raythean Industries Representative | 秘書 |
+|   | 职员模样的男人 | Secretary | 競技場職員 |
+|   | 西装革履的男人 | Serious Corporate Employee | 職員のような男 |
+|   | 认真的企业员工 | Staff |   |
+|   | 雷神工业代表 |   |   |
 |   | 高傲的官员 |   |   |
 | avg_npc_223 | 下班的员工 | A Commuting Worker | 中間管理職 |
 |   | 中层经理 | A Corporate Employee | 仕事帰りの職員 |
@@ -1665,11 +1676,12 @@ tip: 请善用浏览器的搜索功能
 |   | 轻浮的贵族 | Pretentious Noble | 風流人ぶる貴族 |
 |   | 附庸风雅的贵族 |   |   |
 | avg_npc_493_1 | 匆忙的贵族 | Calm Noble | リターニア貴族 |
-|   | 挑剔的评论家 | Fretful Noble | 急いでいる貴族 |
-|   | 沉稳的贵族 | Leithanian Noble | 無表情な貴族 |
-|   | 莱塔尼亚贵族 | Nitpicking Critic | 華やかな服装の貴族 |
-|   | 衣着华丽的贵族 | Resplendently Dressed Noble | 落ち着いた貴族 |
-|   | 面无表情的贵族 | Stoic-Looking Noble | 酷薄な批評家 |
+|   | 布兰切尔 | Fretful Noble | 急いでいる貴族 |
+|   | 挑剔的评论家 | Leithanian Noble | 無表情な貴族 |
+|   | 沉稳的贵族 | Nitpicking Critic | 華やかな服装の貴族 |
+|   | 莱塔尼亚贵族 | Resplendently Dressed Noble | 落ち着いた貴族 |
+|   | 衣着华丽的贵族 | Stoic-Looking Noble | 酷薄な批評家 |
+|   | 面无表情的贵族 |   |   |
 |   | 音乐家 |   |   |
 | avg_npc_494_1 | 小吃摊主 | Food Stall Owner | 露店の主人 |
 | avg_npc_495_1 | 爷爷 | Grandpa | おじいさん |
@@ -1702,7 +1714,8 @@ tip: 请善用浏览器的搜索功能
 |   | 莱塔尼亚女性 | Worn-out Infected | 興奮する住民 |
 |   | 路过的感染者 |   | 通りすがりの感染者 |
 | avg_npc_501_1 | 医疗干员 | Andante | アンダンテ |
-|   | 干员装束的女性 | Woman in Operator Attire | オペレーター姿の女性 |
+|   | 医疗部干员 | Woman in Operator Attire | オペレーター姿の女性 |
+|   | 干员装束的女性 |   |   |
 |   | 罗德岛干员 |   |   |
 |   | 行板 |   |   |
 | avg_npc_521_1 | Mechanist | Mechanist | Mechanist |
@@ -1745,9 +1758,10 @@ tip: 请善用浏览器的搜索功能
 |   | 莱茵职员 |   |   |
 |   | 莱茵职员A |   |   |
 |   | 露莉 |   |   |
-| avg_npc_530_1 | 研究员 | Researcher A | ライン生命研究員 |
-|   | 研究员A | Researcher C | 研究員A |
-|   | 研究员C | Rhine Lab Tech | 研究員C |
+| avg_npc_530_1 | 焦虑的莱茵实验员 | Researcher A | ライン生命研究員 |
+|   | 研究员 | Researcher C | 研究員A |
+|   | 研究员A | Rhine Lab Tech | 研究員C |
+|   | 研究员C |   |   |
 |   | 能量科研究员 |   |   |
 |   | 莱茵实验员 |   |   |
 |   | 莱茵职员B |   |   |
