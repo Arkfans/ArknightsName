@@ -5256,6 +5256,7 @@
   "char_366_acdrop@whirlwind#4": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "「アフタヌーンティー」",
       "zh_CN": "“下午茶时光”"
     }
   },
@@ -18898,6 +18899,7 @@
   "randomMaterialRune_11": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "補給物資・「贋波」",
       "zh_CN": "赝波行动物资补给"
     }
   },
@@ -21014,6 +21016,12 @@
     "names": {
       "en_US": "Edelweiss' Vow",
       "ja_JP": "雪解けの誓い"
+    }
+  },
+  "_NORM_21_3_1": {
+    "type": "POOL",
+    "names": {
+      "ja_JP": "連合作戦"
     }
   },
   "_NORM_2_0_1": {
