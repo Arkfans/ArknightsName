@@ -5256,6 +5256,7 @@
   "char_366_acdrop@whirlwind#4": {
     "type": "SKIN",
     "names": {
+      "en_US": "'Afternoon Teatime'",
       "ja_JP": "「アフタヌーンティー」",
       "zh_CN": "“下午茶时光”"
     }
@@ -18899,6 +18900,7 @@
   "randomMaterialRune_11": {
     "type": "ITEM",
     "names": {
+      "en_US": "Operation Fake Waves Supplies",
       "ja_JP": "補給物資・「贋波」",
       "zh_CN": "赝波行动物资补给"
     }
@@ -21021,6 +21023,7 @@
   "_NORM_21_3_1": {
     "type": "POOL",
     "names": {
+      "en_US": "Joint Operation",
       "ja_JP": "連合作戦"
     }
   },

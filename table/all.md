@@ -694,7 +694,7 @@ tip: 请善用浏览器的搜索功能
 | char_358_lisa@wild#3 | 弃土花开 | Lostlands Flowering | 荒地に咲く花 |
 | char_362_saga@sale#9 | 彼有 | - | - |
 | char_365_aprl@wild#3 | 远望 | Faraway Gaze | 遠望 |
-| char_366_acdrop@whirlwind#4 | “下午茶时光” | - | 「アフタヌーンティー」 |
+| char_366_acdrop@whirlwind#4 | “下午茶时光” | 'Afternoon Teatime' | 「アフタヌーンティー」 |
 | char_367_swllow@boc#1 | 归巢 | Homecoming | 帰巣 |
 | char_373_lionhd@snow#3 | 希望巡游 | Hope Cruise | 希望の運び手 |
 | char_373_lionhd@wild#3 | 宝藏行家 | Finder in the Rough | 秘宝の専門家 |
@@ -2501,7 +2501,7 @@ tip: 请善用浏览器的搜索功能
 | randomMaterialRune_0 | 荒芜行动物资补给 | Operation Barrenland Supplies | 補給物資・「荒廃」 |
 | randomMaterialRune_1 | 黄铁行动物资补给 | Operation Pyrite Supplies | 補給物資・「黄鉄」 |
 | randomMaterialRune_10 | 尘环行动物资补给 | Operation Ashring Supplies | 補給物資・「塵環」 |
-| randomMaterialRune_11 | 赝波行动物资补给 | - | 補給物資・「贋波」 |
+| randomMaterialRune_11 | 赝波行动物资补给 | Operation Fake Waves Supplies | 補給物資・「贋波」 |
 | randomMaterialRune_12 | 起源行动物资补给 | - | - |
 | randomMaterialRune_2 | 利刃行动物资补给 | Operation Blade Supplies | 補給物資・「利刃」 |
 | randomMaterialRune_3 | 燃灰行动物资补给 | Operation Cinder Supplies | 補給物資・「灰燼」 |
@@ -2795,7 +2795,7 @@ tip: 请善用浏览器的搜索功能
 | _NORM_20_3_1 | - | The Front That Was | 先途追想 |
 | _NORM_20_4_1 | - | Bearings And Sparks | 軸受×火花 |
 | _NORM_21_2_1 | - | Edelweiss' Vow | 雪解けの誓い |
-| _NORM_21_3_1 | - | - | 連合作戦 |
+| _NORM_21_3_1 | - | Joint Operation | 連合作戦 |
 | _NORM_2_0_1 | - | Chi Xiao, the Hidden Dragon | 赤龍乗雲 |
 | _NORM_2_0_3 | - | Lungmen Spec Ops Headhunting | 龍門特別行動要員 |
 | _NORM_3_0_1 | - | Frozen Land | 果てなき氷原 |

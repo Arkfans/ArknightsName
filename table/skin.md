@@ -188,7 +188,7 @@ tip: 请善用浏览器的搜索功能
 | char_358_lisa@wild#3 | 弃土花开 | Lostlands Flowering | 荒地に咲く花 |
 | char_362_saga@sale#9 | 彼有 | - | - |
 | char_365_aprl@wild#3 | 远望 | Faraway Gaze | 遠望 |
-| char_366_acdrop@whirlwind#4 | “下午茶时光” | - | 「アフタヌーンティー」 |
+| char_366_acdrop@whirlwind#4 | “下午茶时光” | 'Afternoon Teatime' | 「アフタヌーンティー」 |
 | char_367_swllow@boc#1 | 归巢 | Homecoming | 帰巣 |
 | char_373_lionhd@snow#3 | 希望巡游 | Hope Cruise | 希望の運び手 |
 | char_373_lionhd@wild#3 | 宝藏行家 | Finder in the Rough | 秘宝の専門家 |
