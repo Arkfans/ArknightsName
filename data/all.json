@@ -3875,6 +3875,12 @@
       "zh_CN": "爆裂菲林"
     }
   },
+  "char_1001_amiya2@casc#1": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "触及星辰"
+    }
+  },
   "char_1011_lava2@nian#6": {
     "type": "SKIN",
     "names": {
@@ -12527,6 +12533,12 @@
     "type": "ACTIVITY",
     "names": {
       "zh_CN": "端阳正午签到活动"
+    }
+  },
+  "act1switch": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "宿于繁星合作活动"
     }
   },
   "act20side": {

@@ -11,6 +11,7 @@ tip: 请善用浏览器的搜索功能
 | char_003_kalts@boc#6 | 残余 | - | - |
 | char_010_chen@nian#2 | 岁红霞 | Ageless Afterglow | 歳紅霞 |
 | char_017_huang@as#1 | 爆裂菲林 | Burst Feline | 爆裂フェリーン |
+| char_1001_amiya2@casc#1 | 触及星辰 | - | - |
 | char_1011_lava2@nian#6 | 暮影藤萝 | Dusk Wisteria | 紫藤麗姿 |
 | char_1012_skadi2@boc#4 | 升华 | Sublimation | 昇華 |
 | char_1013_chen2@boc#6 | 万重山 | - | - |

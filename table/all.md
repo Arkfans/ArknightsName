@@ -517,6 +517,7 @@ tip: 请善用浏览器的搜索功能
 | char_003_kalts@boc#6 | 残余 | - | - |
 | char_010_chen@nian#2 | 岁红霞 | Ageless Afterglow | 歳紅霞 |
 | char_017_huang@as#1 | 爆裂菲林 | Burst Feline | 爆裂フェリーン |
+| char_1001_amiya2@casc#1 | 触及星辰 | - | - |
 | char_1011_lava2@nian#6 | 暮影藤萝 | Dusk Wisteria | 紫藤麗姿 |
 | char_1012_skadi2@boc#4 | 升华 | Sublimation | 昇華 |
 | char_1013_chen2@boc#6 | 万重山 | - | - |
@@ -1650,6 +1651,7 @@ tip: 请善用浏览器的搜索功能
 | act1mainbuff | 战备支援 | - | - |
 | act1sandbox | 生息演算：沙中之火 | - | - |
 | act1signvs | 端阳正午签到活动 | - | - |
+| act1switch | 宿于繁星合作活动 | - | - |
 | act20side | 理想城：长夏狂欢季 | Ideal City: Endless Carnival | 理想都市-エンドレスカーニバル- |
 | act20sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act21side | 叙拉古人 | IL Siracusano | シラクザーノ |
