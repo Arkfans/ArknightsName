@@ -160,6 +160,7 @@ tip: 请善用浏览器的搜索功能
 | char_294_ayer@boc#3 | 受验者 | Tested One | 潜入者 |
 | char_297_hamoni@epoque#24 | 邀约 | - | - |
 | char_298_susuro@summer#6 | 夏卉 FA026 | Summer Flower FA026 | 夏の花弁FA026 |
+| char_302_glaze@summer#11 | 悠然假日 HD29 | - | - |
 | char_304_zebra@wild#6 | 幽苔 | Tranquil Moss | 幽谷の緑苔 |
 | char_308_swire@nian#2 | 富贵荣华 | Honor and Splendor | 富貴栄華 |
 | char_311_mudrok@ambienceSynesthesia#2 | 黑曜石 | Obsidian | オブシディアン |
@@ -177,6 +178,7 @@ tip: 请善用浏览器的搜索功能
 | char_340_shwaz@striker#1 | 天际线 | Skyline | スカイライン |
 | char_343_tknogi@epoque#9 | 伦式巫女 | Londinium Style Miko | ロンディニウム式巫女 |
 | char_344_beewax@epoque#9 | 白沙 | Weißer Sand | ホワイトサンド |
+| char_344_beewax@summer#11 | 悠然假日 HD61 | - | - |
 | char_345_folnic@wild#4 | 残葛 | Lasting Arrowroot | 残葛 |
 | char_346_aosta@game#2 | 光铳调试员 | Light Gun Adjuster | ライトガンテスター |
 | char_347_jaksel@whirlwind#2 | 纵身一跃 | Take a Leap | ひとっ飛び |
@@ -219,6 +221,7 @@ tip: 请善用浏览器的搜索功能
 | char_4047_pianst@wild#8 | 荒野寻音 | - | - |
 | char_4055_bgsnow@wild#7 | 字句中的雪原 | - | - |
 | char_4071_peper@whirlwind#5 | 来路 | - | - |
+| char_4072_ironmn@summer#11 | 沙滩护卫 GT003 | - | - |
 | char_4077_palico@mh#1 | 跃上街头 | - | - |
 | char_411_tomimi@summer#5 | 静谧午夜 DN04 | Silent Night DN04 | 安息の午夜DN04 |
 | char_415_flint@boc#3 | 绚烂夏花 | Gorgeous Flower | 紫藤繚乱 |
@@ -249,6 +252,7 @@ tip: 请善用浏览器的搜索功能
 | char_476_blkngt@summer#8 | 夏卉 FA641 | Summer Flower FA641 | 夏の花弁FA641 |
 | char_478_kirara@game#2 | 前沿玩家 | Trendsetting Player | トレンディゲーマー |
 | char_479_sleach@epoque#14 | 识芳 | Appreciate Fragrance | 満開 |
+| char_479_sleach@summer#11 | 夏卉 FA317 | - | - |
 | char_484_robrta@ambienceSynesthesia#3 | 待绘的作品 | - | - |
 | char_484_robrta@summer#10 | 夏卉 FA374 | Summer Flowers FA374 | 夏の花弁FA374 |
 | char_485_pallas@epoque#12 | 传承 | Heritage | 伝承 |

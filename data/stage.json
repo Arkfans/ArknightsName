@@ -969,6 +969,36 @@
     "ja_JP": "自然のままに",
     "zh_CN": "堵不如疏"
   },
+  "act15mini_01": {
+    "zh_CN": "繁荣滋长"
+  },
+  "act15mini_02": {
+    "zh_CN": "边境巡逻"
+  },
+  "act15mini_03": {
+    "zh_CN": "无序礼炮"
+  },
+  "act15mini_04": {
+    "zh_CN": "暗中摸索"
+  },
+  "act15mini_05": {
+    "zh_CN": "冻结痛觉"
+  },
+  "act15mini_06": {
+    "zh_CN": "古老歌谣"
+  },
+  "act15mini_07": {
+    "zh_CN": "背离法则"
+  },
+  "act15mini_08": {
+    "zh_CN": "向光探寻"
+  },
+  "act15mini_s01": {
+    "zh_CN": "冻土疆界 "
+  },
+  "act15mini_s02": {
+    "zh_CN": "非自然知觉 "
+  },
   "act15side_01": {
     "en_US": "Apparition",
     "ja_JP": "化物",
@@ -2528,6 +2558,9 @@
   },
   "camp_r_16": {
     "zh_CN": "休止符街道"
+  },
+  "camp_r_17": {
+    "zh_CN": "灰暗泥沼"
   },
   "hard_05-01": {
     "en_US": "Operation Inferno-1",

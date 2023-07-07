@@ -736,6 +736,9 @@
     "ja_JP": "夏の花弁FA026",
     "zh_CN": "夏卉 FA026"
   },
+  "char_302_glaze@summer#11": {
+    "zh_CN": "悠然假日 HD29"
+  },
   "char_304_zebra@wild#6": {
     "en_US": "Tranquil Moss",
     "ja_JP": "幽谷の緑苔",
@@ -818,6 +821,9 @@
     "en_US": "Weißer Sand",
     "ja_JP": "ホワイトサンド",
     "zh_CN": "白沙"
+  },
+  "char_344_beewax@summer#11": {
+    "zh_CN": "悠然假日 HD61"
   },
   "char_345_folnic@wild#4": {
     "en_US": "Lasting Arrowroot",
@@ -993,6 +999,9 @@
   "char_4071_peper@whirlwind#5": {
     "zh_CN": "来路"
   },
+  "char_4072_ironmn@summer#11": {
+    "zh_CN": "沙滩护卫 GT003"
+  },
   "char_4077_palico@mh#1": {
     "zh_CN": "跃上街头"
   },
@@ -1132,6 +1141,9 @@
     "en_US": "Appreciate Fragrance",
     "ja_JP": "満開",
     "zh_CN": "识芳"
+  },
+  "char_479_sleach@summer#11": {
+    "zh_CN": "夏卉 FA317"
   },
   "char_484_robrta@ambienceSynesthesia#3": {
     "zh_CN": "待绘的作品"

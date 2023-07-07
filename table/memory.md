@@ -9,6 +9,7 @@ tip: 请善用浏览器的搜索功能
 | story_acdrop_set_1_story_1 | 一面墙 | - | - |
 | story_aglina_set_1_story_1 | 没写收件人的包裹 | 'Package with No Recipient' | 受取人のない荷物 |
 | story_aglina_set_1_story_2 | 没写收件人的包裹 | 'Package with No Recipient' | 受取人のない荷物 |
+| story_akafyu_set_1_story_1 | 异乡剑士 | - | - |
 | story_amgoat_set_1_story_1 | 学者之心 | Heart of a Scholar | 学者の心 |
 | story_amgoat_set_2_story_1 | 火山 | Volcano | 火山 |
 | story_angel_set_1_story_1 | 来信 | Incoming Mail | 届いた手紙 |
@@ -131,6 +132,7 @@ tip: 请善用浏览器的搜索功能
 | story_milu_set_1_story_1 | 在路上 | On My Way | 途上 |
 | story_mint_set_1_story_1 | 昔日重现 | Yesterday Once More | デジャヴ |
 | story_mizuki_set_1_story_1 | 第五类接触 | The Fifth Contact | 第五種接近遭遇 |
+| story_mlyss_set_1_story_1 | 无根之雨 | - | - |
 | story_mm_set_1_story_1 | 大侦探探案集·卷一 | - | - |
 | story_moeshd_set_1_story_1 | 生意场 | The Business | 商売とは |
 | story_morgan_set_1_story_1 | 巨轮之下 | - | - |
@@ -156,7 +158,9 @@ tip: 请善用浏览器的搜索功能
 | story_popka_set_1_story_1 | 玩乐之间 | Funtime | お遊びの中で |
 | story_prove_set_1_story_1 | 同事们 | Coworkers | カンパニー |
 | story_prove_set_2_story_1 | 崎路前行 | A Perilous Road | 険しき道を征く |
+| story_provs_set_1_story_1 | 假定公正 | - | - |
 | story_pudd_set_1_story_1 | 远方的雪 | - | - |
+| story_qanik_set_1_story_1 | 风雪代为传达 | - | - |
 | story_quartz_set_1_story_1 | 无需遗憾 | - | - |
 | story_quercu_set_1_story_1 | 终途 | - | - |
 | story_quercu_set_2_story_1 | 生命的萌芽 | - | - |

@@ -91,6 +91,7 @@ tip: 请善用浏览器的搜索功能
 | char_197_poca | 早露 | Rosa | ロサ |
 | char_198_blackd | 讯使 | Courier | クーリエ |
 | char_199_yak | 角峰 | Matterhorn | マッターホルン |
+| char_2012_typhon | 提丰 | - | - |
 | char_2013_cerber | 刻俄柏 | Ceobe | ケオベ |
 | char_2014_nian | 年 | Nian | ニェン |
 | char_2015_dusk | 夕 | Dusk | シー |
@@ -171,6 +172,7 @@ tip: 请善用浏览器的搜索功能
 | char_337_utage | 宴 | Utage | ウタゲ |
 | char_338_iris | 爱丽丝 | Iris | アイリス |
 | char_340_shwaz | 黑 | Schwarz | シュヴァルツ |
+| char_341_sntlla | 寒檀 | - | - |
 | char_343_tknogi | 月禾 | Tsukinogi | ツキノギ |
 | char_344_beewax | 蜜蜡 | Beeswax | ビーズワクス |
 | char_345_folnic | 亚叶 | Folinic | フォリニック |

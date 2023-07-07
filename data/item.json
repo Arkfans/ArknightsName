@@ -927,6 +927,9 @@
     "ja_JP": "奇景絵葉書",
     "zh_CN": "奇景明信片"
   },
+  "act15mini_token_figurine": {
+    "zh_CN": "指木雕刻"
+  },
   "act15side_token_tea": {
     "en_US": "Canned Tea",
     "ja_JP": "正午茶",
@@ -1905,6 +1908,9 @@
   "itempack_mod_9": {
     "zh_CN": "重装芯片组印刻仪"
   },
+  "mcardVoucher": {
+    "zh_CN": "月卡"
+  },
   "medal_activity_15side_01": {
     "en_US": "'The Joys of Poetry and Wine'",
     "ja_JP": "「酔吟の興」",
@@ -1939,6 +1945,9 @@
     "en_US": "Data Supplement Instrument",
     "ja_JP": "データ補完マシン",
     "zh_CN": "数据增补仪"
+  },
+  "new_progress": {
+    "zh_CN": "开服累登券"
   },
   "p_char_002_amiya": {
     "en_US": "Amiya's Token",
@@ -2353,6 +2362,9 @@
     "ja_JP": "マッターホルンの印",
     "zh_CN": "角峰的信物"
   },
+  "p_char_2012_typhon": {
+    "zh_CN": "提丰的信物"
+  },
   "p_char_2013_cerber": {
     "en_US": "Ceobe's Token",
     "ja_JP": "ケオベの印",
@@ -2746,6 +2758,9 @@
     "en_US": "Schwarz's Token",
     "ja_JP": "シュヴァルツの印",
     "zh_CN": "黑的信物"
+  },
+  "p_char_341_sntlla": {
+    "zh_CN": "寒檀的信物"
   },
   "p_char_343_tknogi": {
     "en_US": "Tsukinogi's Token",
@@ -3462,6 +3477,12 @@
     "ja_JP": "二次認証徽章",
     "zh_CN": "二次认证徽记"
   },
+  "return_credit_token2": {
+    "zh_CN": "二次认证徽记"
+  },
+  "return_progress": {
+    "zh_CN": "回流累登券"
+  },
   "rogue_1_token_bp": {
     "en_US": "Candle",
     "ja_JP": "キャンドル",
@@ -3828,6 +3849,9 @@
     "en_US": "Lungmen Tearoom Furniture Collection Set",
     "ja_JP": "龍門茶室家具パック",
     "zh_CN": "龙门风情茶室家具收藏包"
+  },
+  "voucher_5chipPackage": {
+    "zh_CN": "自助芯片印刻仪"
   },
   "voucher_chip": {
     "en_US": "Automatic Chip Printer",

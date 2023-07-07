@@ -54,6 +54,7 @@ tip: 请善用浏览器的搜索功能
 | act15d0_zone1 | 越狱计划 | Escape Plan | 脱獄計画 |
 | act15d0_zone2 | 狱中生活 | Mansfield Daily Life | 獄中生活 |
 | act15d5_zone1 | 异地派遣 | Off-Site Dispatching | 外地派遣 |
+| act15mini_zone1 | 冻原狩猎 | - | - |
 | act15side_zone1 | 三山奇闻 | Tales of Three-Mountains | 三山奇聞 |
 | act15side_zone2 | 一十八峰 | Mountain Top | 一十八峰 |
 | act15sre_zone1 | 三山奇闻 | - | - |

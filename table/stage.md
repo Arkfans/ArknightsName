@@ -203,6 +203,16 @@ tip: 请善用浏览器的搜索功能
 | act15d5_06 | 光荣援助 | Glorious Aid | 栄光ある助力 |
 | act15d5_07 | 坚守阵地 | Stand Your Ground | 陣地堅守 |
 | act15d5_08 | 堵不如疏 | Be Like Water | 自然のままに |
+| act15mini_01 | 繁荣滋长 | - | - |
+| act15mini_02 | 边境巡逻 | - | - |
+| act15mini_03 | 无序礼炮 | - | - |
+| act15mini_04 | 暗中摸索 | - | - |
+| act15mini_05 | 冻结痛觉 | - | - |
+| act15mini_06 | 古老歌谣 | - | - |
+| act15mini_07 | 背离法则 | - | - |
+| act15mini_08 | 向光探寻 | - | - |
+| act15mini_s01 | 冻土疆界  | - | - |
+| act15mini_s02 | 非自然知觉  | - | - |
 | act15side_01 | 化物 | Apparition | 化物 |
 | act15side_02 | 无寻处 | Unseekable Place | 尋ぬる処無し |
 | act15side_03 | 光与影 | Light and Shadow | 光と影 |
@@ -549,6 +559,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_14 | 实验基地机库 | - | - |
 | camp_r_15 | 龙门商业街 | - | - |
 | camp_r_16 | 休止符街道 | - | - |
+| camp_r_17 | 灰暗泥沼 | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |
 | hard_05-02 | 炼狱行动-2 | Operation Inferno-2 | 煉獄作戦-2 |
 | hard_05-03 | 炼狱行动-3 | Operation Inferno-3 | 煉獄作戦-3 |

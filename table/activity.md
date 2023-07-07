@@ -43,6 +43,7 @@ tip: 请善用浏览器的搜索功能
 | act15d1 | 跨年限时登录活动 | Limited-time Login Event | スタンプラリー |
 | act15d5 | 此地之外 | Beyond Here | 彼方を望む |
 | act15login | 登录领取奖励 | - | - |
+| act15mini | 眠于树影之中 | - | - |
 | act15side | 将进酒 | Invitation to Wine | 将進酒 |
 | act15sre | 将进酒·复刻 | - | - |
 | act16d5 | 画中人 | Who Is Real | 画中人 |

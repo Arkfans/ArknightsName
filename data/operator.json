@@ -417,6 +417,9 @@
     "ja_JP": "マッターホルン",
     "zh_CN": "角峰"
   },
+  "char_2012_typhon": {
+    "zh_CN": "提丰"
+  },
   "char_2013_cerber": {
     "en_US": "Ceobe",
     "ja_JP": "ケオベ",
@@ -810,6 +813,9 @@
     "en_US": "Schwarz",
     "ja_JP": "シュヴァルツ",
     "zh_CN": "黑"
+  },
+  "char_341_sntlla": {
+    "zh_CN": "寒檀"
   },
   "char_343_tknogi": {
     "en_US": "Tsukinogi",

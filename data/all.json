@@ -675,6 +675,12 @@
       "zh_CN": "角峰"
     }
   },
+  "char_2012_typhon": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "提丰"
+    }
+  },
   "char_2013_cerber": {
     "type": "OPERATOR",
     "names": {
@@ -1307,6 +1313,12 @@
       "en_US": "Schwarz",
       "ja_JP": "シュヴァルツ",
       "zh_CN": "黑"
+    }
+  },
+  "char_341_sntlla": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "寒檀"
     }
   },
   "char_343_tknogi": {
@@ -5033,6 +5045,12 @@
       "zh_CN": "夏卉 FA026"
     }
   },
+  "char_302_glaze@summer#11": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "悠然假日 HD29"
+    }
+  },
   "char_304_zebra@wild#6": {
     "type": "SKIN",
     "names": {
@@ -5165,6 +5183,12 @@
       "en_US": "Weißer Sand",
       "ja_JP": "ホワイトサンド",
       "zh_CN": "白沙"
+    }
+  },
+  "char_344_beewax@summer#11": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "悠然假日 HD61"
     }
   },
   "char_345_folnic@wild#4": {
@@ -5467,6 +5491,12 @@
       "zh_CN": "来路"
     }
   },
+  "char_4072_ironmn@summer#11": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "沙滩护卫 GT003"
+    }
+  },
   "char_4077_palico@mh#1": {
     "type": "SKIN",
     "names": {
@@ -5695,6 +5725,12 @@
       "en_US": "Appreciate Fragrance",
       "ja_JP": "満開",
       "zh_CN": "识芳"
+    }
+  },
+  "char_479_sleach@summer#11": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "夏卉 FA317"
     }
   },
   "char_484_robrta@ambienceSynesthesia#3": {
@@ -12273,6 +12309,12 @@
       "zh_CN": "登录领取奖励"
     }
   },
+  "act15mini": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "眠于树影之中"
+    }
+  },
   "act15side": {
     "type": "ACTIVITY",
     "names": {
@@ -14857,6 +14899,12 @@
       "zh_CN": "奇景明信片"
     }
   },
+  "act15mini_token_figurine": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "指木雕刻"
+    }
+  },
   "act15side_token_tea": {
     "type": "ITEM",
     "names": {
@@ -16621,6 +16669,12 @@
       "zh_CN": "重装芯片组印刻仪"
     }
   },
+  "mcardVoucher": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "月卡"
+    }
+  },
   "medal_activity_15side_01": {
     "type": "ITEM",
     "names": {
@@ -16675,6 +16729,12 @@
       "en_US": "Data Supplement Instrument",
       "ja_JP": "データ補完マシン",
       "zh_CN": "数据增补仪"
+    }
+  },
+  "new_progress": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "开服累登券"
     }
   },
   "p_char_002_amiya": {
@@ -17345,6 +17405,12 @@
       "zh_CN": "角峰的信物"
     }
   },
+  "p_char_2012_typhon": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "提丰的信物"
+    }
+  },
   "p_char_2013_cerber": {
     "type": "ITEM",
     "names": {
@@ -17977,6 +18043,12 @@
       "en_US": "Schwarz's Token",
       "ja_JP": "シュヴァルツの印",
       "zh_CN": "黑的信物"
+    }
+  },
+  "p_char_341_sntlla": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "寒檀的信物"
     }
   },
   "p_char_343_tknogi": {
@@ -19147,6 +19219,18 @@
       "zh_CN": "二次认证徽记"
     }
   },
+  "return_credit_token2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "二次认证徽记"
+    }
+  },
+  "return_progress": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "回流累登券"
+    }
+  },
   "rogue_1_token_bp": {
     "type": "ITEM",
     "names": {
@@ -19737,6 +19821,12 @@
       "en_US": "Lungmen Tearoom Furniture Collection Set",
       "ja_JP": "龍門茶室家具パック",
       "zh_CN": "龙门风情茶室家具收藏包"
+    }
+  },
+  "voucher_5chipPackage": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "自助芯片印刻仪"
     }
   },
   "voucher_chip": {
@@ -20751,6 +20841,12 @@
     "type": "POOL",
     "names": {
       "zh_CN": "不协和音程"
+    }
+  },
+  "SINGLE_40_0_1": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "射落灾异的风暴"
     }
   },
   "_ATTAIN_15_2_1": {
@@ -24844,6 +24940,12 @@
       "zh_CN": "伸缩式电捕网"
     }
   },
+  "skchr_sntlla_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“女巫之泪”"
+    }
+  },
   "skchr_sophia_1": {
     "type": "SKILL",
     "names": {
@@ -25230,6 +25332,18 @@
       "en_US": "Cardiac Stimulant",
       "ja_JP": "カンフル剤",
       "zh_CN": "强心剂"
+    }
+  },
+  "skchr_typhon_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "冰原秩序"
+    }
+  },
+  "skchr_typhon_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“永恒狩猎”"
     }
   },
   "skchr_utage_1": {
@@ -28916,6 +29030,66 @@
       "zh_CN": "堵不如疏"
     }
   },
+  "act15mini_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "繁荣滋长"
+    }
+  },
+  "act15mini_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "边境巡逻"
+    }
+  },
+  "act15mini_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "无序礼炮"
+    }
+  },
+  "act15mini_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "暗中摸索"
+    }
+  },
+  "act15mini_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "冻结痛觉"
+    }
+  },
+  "act15mini_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "古老歌谣"
+    }
+  },
+  "act15mini_07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "背离法则"
+    }
+  },
+  "act15mini_08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "向光探寻"
+    }
+  },
+  "act15mini_s01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "冻土疆界 "
+    }
+  },
+  "act15mini_s02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "非自然知觉 "
+    }
+  },
   "act15side_01": {
     "type": "STAGE",
     "names": {
@@ -31512,6 +31686,12 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "休止符街道"
+    }
+  },
+  "camp_r_17": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "灰暗泥沼"
     }
   },
   "hard_05-01": {
@@ -35050,6 +35230,12 @@
       "zh_CN": "异地派遣"
     }
   },
+  "act15mini_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "冻原狩猎"
+    }
+  },
   "act15side_zone1": {
     "type": "ZONE",
     "names": {
@@ -36174,6 +36360,12 @@
       "zh_CN": "没写收件人的包裹"
     }
   },
+  "story_akafyu_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "异乡剑士"
+    }
+  },
   "story_amgoat_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -37084,6 +37276,12 @@
       "zh_CN": "第五类接触"
     }
   },
+  "story_mlyss_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "无根之雨"
+    }
+  },
   "story_mm_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -37278,10 +37476,22 @@
       "zh_CN": "崎路前行"
     }
   },
+  "story_provs_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "假定公正"
+    }
+  },
   "story_pudd_set_1_story_1": {
     "type": "MEMORY",
     "names": {
       "zh_CN": "远方的雪"
+    }
+  },
+  "story_qanik_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "风雪代为传达"
     }
   },
   "story_quartz_set_1_story_1": {

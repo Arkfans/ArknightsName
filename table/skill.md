@@ -467,6 +467,7 @@ tip: 请善用浏览器的搜索功能
 | skchr_snakek_2 | 壳状防御 | Shell Defense | シェルガード |
 | skchr_snsant_1 | 倒刺钩爪 | Barbed Clawhook | フックキャッチ |
 | skchr_snsant_2 | 伸缩式电捕网 | Telescoping Electric Net | ネットキャプチャー |
+| skchr_sntlla_2 | “女巫之泪” | - | - |
 | skchr_sophia_1 | 激励艺术 | Motivational Skills | 激励の美学 |
 | skchr_sophia_2 | 鞭刃 | Whip Sword | 鞭刃解放 |
 | skchr_sora_1 | 睡眠之歌 | Hymn of Respite | すやすやナンバー |
@@ -516,6 +517,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_totter_2 | 破虹 | Prism Break | 砕虹の勁弩 |
 | skchr_tuye_1 | 水流环 | Aqua Loop | アクアリング |
 | skchr_tuye_2 | 强心剂 | Cardiac Stimulant | カンフル剤 |
+| skchr_typhon_2 | 冰原秩序 | - | - |
+| skchr_typhon_3 | “永恒狩猎” | - | - |
 | skchr_utage_1 | 分神 | Space Out | サボり |
 | skchr_utage_2 | 落地斩·破门 | Descending Strike - Earth Splitter | 落地斬・突破 |
 | skchr_vigil_1 | 领袖的呼唤 | Packleader's Call | 統率者の一声 |

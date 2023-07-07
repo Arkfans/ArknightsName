@@ -195,6 +195,7 @@ tip: 请善用浏览器的搜索功能
 | act15d0_token_ironSheet | 工厂铁片 | Factory Steel | 工場の鉄片 |
 | act15d0_token_ironSheet_rep_1 | 工厂铁片 | Factory Steel | 工場の鉄片 |
 | act15d5_token_postcard | 奇景明信片 | Wondrous Postcard | 奇景絵葉書 |
+| act15mini_token_figurine | 指木雕刻 | - | - |
 | act15side_token_tea | 罐装晌午茶 | Canned Tea | 正午茶 |
 | act15side_token_tea_rep_1 | 罐装晌午茶 | - | - |
 | act16d5_token_inker | 夕墨 | Dusk Inkstick | 夕墨 |
@@ -457,6 +458,7 @@ tip: 请善用浏览器的搜索功能
 | itempack_mod_7 | 先锋芯片组印刻仪 | - | - |
 | itempack_mod_8 | 近卫芯片组印刻仪 | - | - |
 | itempack_mod_9 | 重装芯片组印刻仪 | - | - |
+| mcardVoucher | 月卡 | - | - |
 | medal_activity_15side_01 | “诗酒乘兴” | 'The Joys of Poetry and Wine' | 「酔吟の興」 |
 | medal_activity_15side_03 | “寒芒新淬” | 'Refreshed in Cold Light' | 「寒芒新たに淬ぐ」 |
 | medal_activity_15side_04 | “豪爽之人” | 'A Bold Individual' | 「豪快な者」 |
@@ -464,6 +466,7 @@ tip: 请善用浏览器的搜索功能
 | mod_unlock_token | 模组数据块 | Module Data Block | モジュールデータ |
 | mod_update_token_1 | 数据增补条 | Data Supplement Stick | データ補完チップ |
 | mod_update_token_2 | 数据增补仪 | Data Supplement Instrument | データ補完マシン |
+| new_progress | 开服累登券 | - | - |
 | p_char_002_amiya | 阿米娅的信物 | Amiya's Token | アーミヤの印 |
 | p_char_003_kalts | 凯尔希的信物 | Kal'tsit's Token | ケルシーの印 |
 | p_char_009_12fce | 12F的信物 | 12F's Token | 12Fの印 |
@@ -549,6 +552,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_197_poca | 早露的信物 | Rosa's Token | ロサの印 |
 | p_char_198_blackd | 讯使的信物 | Courier's Token | クーリエの印 |
 | p_char_199_yak | 角峰的信物 | Matterhorn's Token | マッターホルンの印 |
+| p_char_2012_typhon | 提丰的信物 | - | - |
 | p_char_2013_cerber | 刻俄柏的信物 | Ceobe's Token | ケオベの印 |
 | p_char_2014_nian | 年的信物 | Nian's Token | ニェンの印 |
 | p_char_2015_dusk | 夕的信物 | Dusk's Token | シーの印 |
@@ -629,6 +633,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_337_utage | 宴的信物 | Utage's Token | ウタゲの印 |
 | p_char_338_iris | 爱丽丝的信物 | Iris's Token | アイリスの印 |
 | p_char_340_shwaz | 黑的信物 | Schwarz's Token | シュヴァルツの印 |
+| p_char_341_sntlla | 寒檀的信物 | - | - |
 | p_char_343_tknogi | 月禾的信物 | Tsukinogi's Token | ツキノギの印 |
 | p_char_344_beewax | 蜜蜡的信物 | Beeswax's Token | ビーズワクスの印 |
 | p_char_345_folnic | 亚叶的信物 | Folinic's Token | フォリニックの印 |
@@ -780,6 +785,8 @@ tip: 请善用浏览器的搜索功能
 | renamingCard_30_033 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
 | renamingCard_30_038 | ID信息更新卡 | - | - |
 | return_credit_token | 二次认证徽记 | Second Authentication Emblem | 二次認証徽章 |
+| return_credit_token2 | 二次认证徽记 | - | - |
+| return_progress | 回流累登券 | - | - |
 | rogue_1_token_bp | 蜡烛 | Candle | キャンドル |
 | rogue_1_token_grow | 昏暗的灵感 | Caliginous Insights | 昏きセンス |
 | rogue_2_token_bp | 生机细胞 | Living Cells | 有機細胞 |
@@ -855,6 +862,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_pizza | 骑兵与猎人家具收藏包 | Grani and the Knights' Treasure Furniture Pack | 騎兵と狩人家具パック |
 | uni_set_prison | 孤岛风云家具收藏包 | - | - |
 | uni_set_reception | 龙门风情茶室家具收藏包 | Lungmen Tearoom Furniture Collection Set | 龍門茶室家具パック |
+| voucher_5chipPackage | 自助芯片印刻仪 | - | - |
 | voucher_chip | 芯片自助打印盒 | Automatic Chip Printer | 初級SoCセルフプリンター |
 | voucher_chipPack | 芯片组自助打印盒 | Automatic Chip Pack Printer | 中級SoCセルフプリンター |
 | voucher_chipPackage | 自助芯片组印刻仪 | - | - |

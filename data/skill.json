@@ -2215,6 +2215,9 @@
     "ja_JP": "ネットキャプチャー",
     "zh_CN": "伸缩式电捕网"
   },
+  "skchr_sntlla_2": {
+    "zh_CN": "“女巫之泪”"
+  },
   "skchr_sophia_1": {
     "en_US": "Motivational Skills",
     "ja_JP": "激励の美学",
@@ -2455,6 +2458,12 @@
     "en_US": "Cardiac Stimulant",
     "ja_JP": "カンフル剤",
     "zh_CN": "强心剂"
+  },
+  "skchr_typhon_2": {
+    "zh_CN": "冰原秩序"
+  },
+  "skchr_typhon_3": {
+    "zh_CN": "“永恒狩猎”"
   },
   "skchr_utage_1": {
     "en_US": "Space Out",
