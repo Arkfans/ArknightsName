@@ -1044,9 +1044,11 @@
     "zh_CN": "星束交汇"
   },
   "skchr_hamoni_1": {
+    "ja_JP": "舞は軽やかに",
     "zh_CN": "轻巧舞步"
   },
   "skchr_hamoni_2": {
+    "ja_JP": "耽溺の結末",
     "zh_CN": "沉溺之灾"
   },
   "skchr_hbisc2_2": {
@@ -1906,9 +1908,11 @@
     "zh_CN": "扩散电流"
   },
   "skchr_puzzle_1": {
+    "ja_JP": "証拠追跡",
     "zh_CN": "关键线索"
   },
   "skchr_puzzle_2": {
+    "ja_JP": "徹底追及",
     "zh_CN": "疑点追踪"
   },
   "skchr_qanik_1": {
@@ -1956,9 +1960,11 @@
     "zh_CN": "狼群"
   },
   "skchr_reed2_2": {
+    "ja_JP": "盛衰を共に",
     "zh_CN": "枯荣共息"
   },
   "skchr_reed2_3": {
+    "ja_JP": "命の火種",
     "zh_CN": "生命火种"
   },
   "skchr_rfrost_1": {
@@ -2928,12 +2934,15 @@
     "zh_CN": "放置平台"
   },
   "sktok_cdabyss": {
+    "ja_JP": "エーギル式振波計",
     "zh_CN": "阿戈尔示波器"
   },
   "sktok_cdabyssa": {
+    "ja_JP": "エーギル式振波計",
     "zh_CN": "阿戈尔示波器"
   },
   "sktok_cdabyssb": {
+    "ja_JP": "エーギル式振波計",
     "zh_CN": "阿戈尔示波器"
   },
   "sktok_cdaltar": {
@@ -2946,21 +2955,27 @@
     "zh_CN": "能量扰动"
   },
   "sktok_cdbeacon": {
+    "ja_JP": "追跡ビーコン",
     "zh_CN": "示踪信标"
   },
   "sktok_cdbeacona": {
+    "ja_JP": "遮断電波",
     "zh_CN": "阻断波长"
   },
   "sktok_cdbeaconb": {
+    "ja_JP": "妨害電波",
     "zh_CN": "干扰波长"
   },
   "sktok_cdcredit": {
+    "ja_JP": "多機能補給",
     "zh_CN": "自适应补给"
   },
   "sktok_cdcredita": {
+    "ja_JP": "多機能補給",
     "zh_CN": "自适应补给"
   },
   "sktok_cdcreditb": {
+    "ja_JP": "多機能補給",
     "zh_CN": "自适应补给"
   },
   "sktok_cddiff": {
@@ -2973,6 +2988,7 @@
     "zh_CN": "战术装备整理"
   },
   "sktok_cdflsb": {
+    "ja_JP": "粗悪なスタングレネード",
     "zh_CN": "劣质闪光弹"
   },
   "sktok_cdheal": {
@@ -2985,15 +3001,19 @@
     "zh_CN": "便携式医疗设备"
   },
   "sktok_cdhvrk": {
+    "ja_JP": "超過重・絶縁",
     "zh_CN": "超重，绝缘"
   },
   "sktok_cdshield": {
+    "ja_JP": "コーティング",
     "zh_CN": "镀膜"
   },
   "sktok_cdshielda": {
+    "ja_JP": "再稼働",
     "zh_CN": "重整导能"
   },
   "sktok_cdshieldb": {
+    "ja_JP": "コーティング",
     "zh_CN": "镀膜"
   },
   "sktok_cqbw_token": {
@@ -3050,6 +3070,7 @@
     "zh_CN": "高速共振排障"
   },
   "sktok_dplant": {
+    "ja_JP": "成長抑制",
     "zh_CN": "抑制生长"
   },
   "sktok_dsbell": {
@@ -3270,6 +3291,7 @@
     "zh_CN": "触爆"
   },
   "sktok_mire": {
+    "ja_JP": "沼地制御",
     "zh_CN": "沼泽控制"
   },
   "sktok_mlyss_wtrman_1": {

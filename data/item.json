@@ -26,47 +26,47 @@
   },
   "2020recruitment10_1": {
     "en_US": "Type-α Headhunting Permit",
-    "ja_JP": "2.5周年特別スカウト券α",
+    "ja_JP": "3.5周年特別スカウト券α",
     "zh_CN": "α类新年寻访凭证"
   },
   "2020recruitment10_2": {
     "en_US": "Type-β Headhunting Permit",
-    "ja_JP": "2.5周年特別スカウト券β",
+    "ja_JP": "3.5周年特別スカウト券β",
     "zh_CN": "β类新年寻访凭证"
   },
   "2020recruitment10_3": {
     "en_US": "Type-γ Headhunting Permit",
-    "ja_JP": "2.5周年特別スカウト券γ",
+    "ja_JP": "3.5周年特別スカウト券γ",
     "zh_CN": "γ类新年寻访凭证"
   },
   "2021recruitment10_1": {
     "en_US": "Type-α Headhunting Permit",
-    "ja_JP": "2.5周年特別スカウト券α",
+    "ja_JP": "3.5周年特別スカウト券α",
     "zh_CN": "α类新年寻访凭证"
   },
   "2021recruitment10_2": {
     "en_US": "Type-β Headhunting Permit",
-    "ja_JP": "2.5周年特別スカウト券β",
+    "ja_JP": "3.5周年特別スカウト券β",
     "zh_CN": "β类新年寻访凭证"
   },
   "2021recruitment10_3": {
     "en_US": "Type-γ Headhunting Permit",
-    "ja_JP": "2.5周年特別スカウト券γ",
+    "ja_JP": "3.5周年特別スカウト券γ",
     "zh_CN": "γ类新年寻访凭证"
   },
   "2022recruitment10_1": {
     "en_US": "Type-α Headhunting Permit",
-    "ja_JP": "2.5周年特別スカウト券α",
+    "ja_JP": "3.5周年特別スカウト券α",
     "zh_CN": "α类新年寻访凭证"
   },
   "2022recruitment10_2": {
     "en_US": "Type-β Headhunting Permit",
-    "ja_JP": "2.5周年特別スカウト券β",
+    "ja_JP": "3.5周年特別スカウト券β",
     "zh_CN": "β类新年寻访凭证"
   },
   "2022recruitment10_3": {
     "en_US": "Type-γ Headhunting Permit",
-    "ja_JP": "2.5周年特別スカウト券γ",
+    "ja_JP": "3.5周年特別スカウト券γ",
     "zh_CN": "γ类新年寻访凭证"
   },
   "2023recruitment10_1": {
@@ -954,6 +954,7 @@
     "zh_CN": "蚀刻弹弹壳"
   },
   "act16side_token_bolt_rep_1": {
+    "ja_JP": "エッチング弾薬莢",
     "zh_CN": "蚀刻弹弹壳"
   },
   "act17d0_token_form": {
@@ -1056,6 +1057,7 @@
     "zh_CN": "进货通行证"
   },
   "act22side_token_manuscript": {
+    "ja_JP": "民謡集の写本",
     "zh_CN": "手抄歌谣集"
   },
   "act23side_token_spirit": {
@@ -2000,6 +2002,7 @@
     "zh_CN": "空的信物"
   },
   "p_char_1020_reed2": {
+    "ja_JP": "焔影リードの印",
     "zh_CN": "焰影苇草的信物"
   },
   "p_char_1021_kroos2": {
@@ -2667,6 +2670,7 @@
     "zh_CN": "断崖的信物"
   },
   "p_char_297_hamoni": {
+    "ja_JP": "ハーモニーの印",
     "zh_CN": "和弦的信物"
   },
   "p_char_298_susuro": {
@@ -2939,6 +2943,7 @@
     "zh_CN": "风丸的信物"
   },
   "p_char_4017_puzzle": {
+    "ja_JP": "パズルの印",
     "zh_CN": "谜图的信物"
   },
   "p_char_401_elysm": {
@@ -3500,7 +3505,7 @@
   },
   "rogue_2_token_grow": {
     "en_US": "Subjective Imagination",
-    "ja_JP": "主観的想像",
+    "ja_JP": "主観的構想",
     "zh_CN": "主观想象"
   },
   "tier1_caster": {
@@ -3843,6 +3848,7 @@
     "zh_CN": "骑兵与猎人家具收藏包"
   },
   "uni_set_prison": {
+    "ja_JP": "孤島激震家具パック",
     "zh_CN": "孤岛风云家具收藏包"
   },
   "uni_set_reception": {
@@ -3921,6 +3927,7 @@
     "zh_CN": "薄绿的私人信件"
   },
   "voucher_full_robin": {
+    "ja_JP": "ロビンの手紙",
     "zh_CN": "罗宾的私人信件"
   },
   "voucher_full_sidero": {

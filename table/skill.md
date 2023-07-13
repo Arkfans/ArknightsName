@@ -219,8 +219,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_haak_3 | 爆发剂·榴莲味 | Durian-Flavored Stimpack | 劇性増強剤・ドリアン |
 | skchr_halo_1 | 双端导流 | Double Diversion | ボルテージダブラー |
 | skchr_halo_2 | 星束交汇 | Starlight Intersection | アストラルバースト |
-| skchr_hamoni_1 | 轻巧舞步 | - | - |
-| skchr_hamoni_2 | 沉溺之灾 | - | - |
+| skchr_hamoni_1 | 轻巧舞步 | - | 舞は軽やかに |
+| skchr_hamoni_2 | 沉溺之灾 | - | 耽溺の結末 |
 | skchr_hbisc2_2 | 抚业之触 | Nurturing Touch | 業の救済 |
 | skchr_headbr_2 | 乌萨斯战吼 | Ursus's Roar | ウルサスの雄叫び |
 | skchr_heidi_1 | 虚构故事·怒士 | Tale of Fiction: A Warrior's Anger | 架空の物語・怒れる者 |
@@ -401,8 +401,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_provs_1 | 纠纷起诉 | Dispute Litigation | 訴訟提起 |
 | skchr_provs_2 | 致胜立论 | Prevailing Argument | 論理展開 |
 | skchr_pudd_2 | 扩散电流 | Diffusion Current | 電子流拡散 |
-| skchr_puzzle_1 | 关键线索 | - | - |
-| skchr_puzzle_2 | 疑点追踪 | - | - |
+| skchr_puzzle_1 | 关键线索 | - | 証拠追跡 |
+| skchr_puzzle_2 | 疑点追踪 | - | 徹底追及 |
 | skchr_qanik_1 | 冻风 | Frigid Wind | 吹きすさぶ凍風 |
 | skchr_qanik_2 | 坠雪 | Falling Snow | 駆けのぼる氷雪 |
 | skchr_qiubai_1 | 留羽 | - | - |
@@ -413,8 +413,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_quercu_2 | 生灵的回响 | Echo of Life | 生命の木霊 |
 | skchr_red_1 | 处决模式 | Execution Mode | 処刑の構え |
 | skchr_red_2 | 狼群 | Wolfpack | 群狼 |
-| skchr_reed2_2 | 枯荣共息 | - | - |
-| skchr_reed2_3 | 生命火种 | - | - |
+| skchr_reed2_2 | 枯荣共息 | - | 盛衰を共に |
+| skchr_reed2_3 | 生命火种 | - | 命の火種 |
 | skchr_rfrost_1 | 陷阱部署 | Trap Deployment | トラップセット |
 | skchr_rfrost_2 | 击倒猎物 | Incapacitated Prey | リーサルパシュート |
 | skchr_robin_1 | 束缚“夹子” | Binding 'Clip' | バインド「クリップ」 |
@@ -613,29 +613,29 @@ tip: 请善用浏览器的搜索功能
 | sktok_cannon_2 | 脉冲束流 | Pulse Beam | 衝撃集束波 |
 | sktok_canoe_1 | 放置平台 | Deployment Platform | ボード設置 |
 | sktok_canoe_2 | 放置平台 | Deployment Platform | ボード設置 |
-| sktok_cdabyss | 阿戈尔示波器 | - | - |
-| sktok_cdabyssa | 阿戈尔示波器 | - | - |
-| sktok_cdabyssb | 阿戈尔示波器 | - | - |
+| sktok_cdabyss | 阿戈尔示波器 | - | エーギル式振波計 |
+| sktok_cdabyssa | 阿戈尔示波器 | - | エーギル式振波計 |
+| sktok_cdabyssb | 阿戈尔示波器 | - | エーギル式振波計 |
 | sktok_cdaltar | 能量扰动 | - | - |
 | sktok_cdaltara | 能量扰动 | - | - |
 | sktok_cdaltarb | 能量扰动 | - | - |
-| sktok_cdbeacon | 示踪信标 | - | - |
-| sktok_cdbeacona | 阻断波长 | - | - |
-| sktok_cdbeaconb | 干扰波长 | - | - |
-| sktok_cdcredit | 自适应补给 | - | - |
-| sktok_cdcredita | 自适应补给 | - | - |
-| sktok_cdcreditb | 自适应补给 | - | - |
+| sktok_cdbeacon | 示踪信标 | - | 追跡ビーコン |
+| sktok_cdbeacona | 阻断波长 | - | 遮断電波 |
+| sktok_cdbeaconb | 干扰波长 | - | 妨害電波 |
+| sktok_cdcredit | 自适应补给 | - | 多機能補給 |
+| sktok_cdcredita | 自适应补给 | - | 多機能補給 |
+| sktok_cdcreditb | 自适应补给 | - | 多機能補給 |
 | sktok_cddiff | 战术装备整理 | - | - |
 | sktok_cddiffa | 战术装备整理 | - | - |
 | sktok_cddiffb | 战术装备整理 | - | - |
-| sktok_cdflsb | 劣质闪光弹 | - | - |
+| sktok_cdflsb | 劣质闪光弹 | - | 粗悪なスタングレネード |
 | sktok_cdheal | 便携式医疗设备 | - | - |
 | sktok_cdheala | 便携式医疗设备 | - | - |
 | sktok_cdhealb | 便携式医疗设备 | - | - |
-| sktok_cdhvrk | 超重，绝缘 | - | - |
-| sktok_cdshield | 镀膜 | - | - |
-| sktok_cdshielda | 重整导能 | - | - |
-| sktok_cdshieldb | 镀膜 | - | - |
+| sktok_cdhvrk | 超重，绝缘 | - | 超過重・絶縁 |
+| sktok_cdshield | 镀膜 | - | コーティング |
+| sktok_cdshielda | 重整导能 | - | 再稼働 |
+| sktok_cdshieldb | 镀膜 | - | コーティング |
 | sktok_cqbw_token | 受害者启动模式 | Victim Seeker | バッドラックXD |
 | sktok_crate | 阻挡路线 | Obstruct | 進路妨害 |
 | sktok_creep | 溟痕 | Nethersea Brand | 溟痕 |
@@ -647,7 +647,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_doroth_1 | 危险目标清除 | Dangerous Entity Removal | 脅威排除 |
 | sktok_doroth_2 | 流沙区域生成 | Quicksand Generation | 流砂生成 |
 | sktok_doroth_3 | 高速共振排障 | High-speed Resonating Troubleshooter | 高周波共振 |
-| sktok_dplant | 抑制生长 | - | - |
+| sktok_dplant | 抑制生长 | - | 成長抑制 |
 | sktok_dsbell | 应急治疗协议 | Emergency Medical Agreement | 応急治療プロトコル |
 | sktok_dstnta | 摄食 | Devour | 摂食 |
 | sktok_dublst | 爆破 | Explode | 爆破 |
@@ -697,7 +697,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_mhwrbg | 滞空牵引无人机 | - | - |
 | sktok_mhwrct | 滞空牵引无人机 | - | - |
 | sktok_mine | 触爆 | Detonate | 接触式起爆 |
-| sktok_mire | 沼泽控制 | - | - |
+| sktok_mire | 沼泽控制 | - | 沼地制御 |
 | sktok_mlyss_wtrman_1 | 流形 | - | - |
 | sktok_mlyss_wtrman_2 | 流形 | - | - |
 | sktok_mlyss_wtrman_3 | 流形 | - | - |

@@ -556,23 +556,23 @@ tip: 请善用浏览器的搜索功能
 | enemy_1283_sgkill_2 | 家族暗影灭迹人 | Famiglia Silent Cleaner | マフィアの一流掃除人 |
 | enemy_1284_sgprst | 阿格尼尔神父 | Father Agenir | アグニル神父 |
 | enemy_1285_sgwlf | “与我无关” | 'None of My Business' | 「関係ない」男 |
-| enemy_1286_dumcy | 特别行动队士兵 | - | - |
-| enemy_1286_dumcy_2 | 特别行动队队长 | - | - |
-| enemy_1287_ducrb | 沼泽钳兽 | - | - |
-| enemy_1287_ducrb_2 | 狂暴沼泽钳兽 | - | - |
-| enemy_1288_duskls | 深池逐火战士 | - | - |
-| enemy_1288_duskls_2 | 深池逐火精锐战士 | - | - |
-| enemy_1289_dubmb | 深池弩炮手 | - | - |
-| enemy_1289_dubmb_2 | 深池弩炮队长 | - | - |
-| enemy_1290_duflm | 深池引火者 | - | - |
-| enemy_1290_duflm_2 | 深池引火者队长 | - | - |
-| enemy_1291_dusrch | 沼泽探照车 | - | - |
-| enemy_1291_dusrch_2 | 重型沼泽探照车 | - | - |
-| enemy_1292_duskld | 深池逐火护卫 | - | - |
-| enemy_1292_duskld_2 | 深池逐火精锐护卫 | - | - |
-| enemy_1293_duswrd | 深池护卫队成员 | - | - |
-| enemy_1293_duswrd_2 | 深池护卫队精锐成员 | - | - |
-| enemy_1293_duswrd_3 | “校官” | - | - |
+| enemy_1286_dumcy | 特别行动队士兵 | - | 特殊行動隊兵士 |
+| enemy_1286_dumcy_2 | 特别行动队队长 | - | 特殊行動隊隊長 |
+| enemy_1287_ducrb | 沼泽钳兽 | - | 沼地の鉗獣 |
+| enemy_1287_ducrb_2 | 狂暴沼泽钳兽 | - | 凶暴な沼地の鉗獣 |
+| enemy_1288_duskls | 深池逐火战士 | - | ダブリン追炎戦士 |
+| enemy_1288_duskls_2 | 深池逐火精锐战士 | - | ダブリン精鋭追炎戦士 |
+| enemy_1289_dubmb | 深池弩炮手 | - | ダブリン爆撃兵 |
+| enemy_1289_dubmb_2 | 深池弩炮队长 | - | ダブリン爆撃隊隊長 |
+| enemy_1290_duflm | 深池引火者 | - | ダブリン発火術師 |
+| enemy_1290_duflm_2 | 深池引火者队长 | - | ダブリン発火術師隊長 |
+| enemy_1291_dusrch | 沼泽探照车 | - | 沼地の偵察車 |
+| enemy_1291_dusrch_2 | 重型沼泽探照车 | - | 沼地の装甲偵察車 |
+| enemy_1292_duskld | 深池逐火护卫 | - | ダブリン追炎従兵 |
+| enemy_1292_duskld_2 | 深池逐火精锐护卫 | - | ダブリン精鋭追炎従兵 |
+| enemy_1293_duswrd | 深池护卫队成员 | - | ダブリン親衛隊隊員 |
+| enemy_1293_duswrd_2 | 深池护卫队精锐成员 | - | ダブリン親衛隊精鋭 |
+| enemy_1293_duswrd_3 | “校官” | - | 「将校」 |
 | enemy_1295_ymph | 谛兽 | - | - |
 | enemy_1295_ymph_2 | 躁怒谛兽 | - | - |
 | enemy_1296_ymknif | 山海众散兵 | - | - |
@@ -698,7 +698,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1532_minima | “物欲拮抗者” | 'Materialist Antagonizer' | 「物欲の拮抗者」 |
 | enemy_1533_stmkgt | “最后的蒸汽骑士” | 'The Last Steam Knight' | 「最後の蒸気騎士」 |
 | enemy_1535_wlfmster | 扎罗，“狼之主” | Zaaro, Signore dei Lupi | 「狼主」ザーロ |
-| enemy_1536_ncrmcr | “领袖” | - | - |
+| enemy_1536_ncrmcr | “领袖” | - | 「リーダー」 |
 | enemy_1537_mhrors | 火龙 | - | - |
 | enemy_1538_ymmons | “睚” | - | - |
 | enemy_1538_ymmons_2 | 蜃景 | - | - |
@@ -774,9 +774,9 @@ tip: 请善用浏览器的搜索功能
 | enemy_6007_mtslm | “漫游小屋” | 'Drifting Cabin' | 「ローミングハウス」 |
 | enemy_6008_mtslms | 荧壳源石虫 | Fluorescent Originium Slug | 蛍殻オリジムシ |
 | enemy_6009_nlkgtbs | “暴食之果” | 'Fruit of Gluttony' | 「暴食の果実」 |
-| enemy_6010_boxing | “年轻人”桑德尔 | - | - |
-| enemy_6011_planty | “自然的妥协” | - | - |
-| enemy_6012_plants | 小型共生体 | - | - |
+| enemy_6010_boxing | “年轻人”桑德尔 | - | 「ヤングガイ」サンデル |
+| enemy_6011_planty | “自然的妥协” | - | 「自然の妥協」 |
+| enemy_6012_plants | 小型共生体 | - | 小型共生体 |
 | enemy_6013_smith | 老妈的“逆女” | - | - |
 | enemy_6014_crzgas | “毒瘤” | - | - |
 | enemy_7001_blwzad | 部族巫术师 | - | - |

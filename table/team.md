@@ -12,7 +12,7 @@ tip: 请善用浏览器的搜索功能
 | bolivar | 玻利瓦尔 | Bolívar | ボリバル |
 | chiave | 贾维团伙 | Chiave Gang | キアーベ一味 |
 | columbia | 哥伦比亚 | Columbia | クルビア |
-| dublinn | 深池 | - | - |
+| dublinn | 深池 | - | ダブリン |
 | egir | 阿戈尔 | Ægir | エーギル |
 | elite | 罗德岛-精英干员 | Rhodes Island-Elite Operator | エリートオペレーター |
 | followers | 使徒 | Followers | 使徒 |

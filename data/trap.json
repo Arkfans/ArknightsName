@@ -461,6 +461,7 @@
     "zh_CN": "城防路障"
   },
   "trap_098_mire": {
+    "ja_JP": "沼地制御",
     "zh_CN": "沼泽控制"
   },
   "trap_099_mhflsb": {
@@ -479,6 +480,7 @@
     "zh_CN": "地形增伤控制"
   },
   "trap_104_dplant": {
+    "ja_JP": "改良型植物ホルモン",
     "zh_CN": "改性植物激素"
   },
   "trap_105_mhwrct": {
@@ -629,45 +631,59 @@
     "zh_CN": "采集主任站"
   },
   "trap_700_cdabyss": {
+    "ja_JP": "エーギル式振波計",
     "zh_CN": "阿戈尔示波器"
   },
   "trap_701_cdabyssa": {
+    "ja_JP": "エーギル式振波計",
     "zh_CN": "阿戈尔示波器"
   },
   "trap_702_cdabyssb": {
+    "ja_JP": "エーギル式振波計",
     "zh_CN": "阿戈尔示波器"
   },
   "trap_703_cdcredit": {
+    "ja_JP": "多機能補給デバイス",
     "zh_CN": "自适应补给元件"
   },
   "trap_704_cdcredita": {
+    "ja_JP": "多機能補給デバイス",
     "zh_CN": "自适应补给元件"
   },
   "trap_705_cdcreditb": {
+    "ja_JP": "多機能補給デバイス",
     "zh_CN": "自适应补给元件"
   },
   "trap_706_cdshield": {
+    "ja_JP": "コーティングデバイス",
     "zh_CN": "镀膜装置导能阀"
   },
   "trap_707_cdshielda": {
+    "ja_JP": "再稼働コンポーネント",
     "zh_CN": "重整导能组件"
   },
   "trap_708_cdshieldb": {
+    "ja_JP": "コーティングデバイス",
     "zh_CN": "镀膜装置导能阀"
   },
   "trap_709_cdbeacon": {
+    "ja_JP": "ジャングル用追跡ビーコン",
     "zh_CN": "丛林用示踪信标"
   },
   "trap_710_cdbeacona": {
+    "ja_JP": "遮断電波",
     "zh_CN": "阻断波长"
   },
   "trap_711_cdbeaconb": {
+    "ja_JP": "妨害電波",
     "zh_CN": "干扰波长"
   },
   "trap_712_cdhvrk": {
+    "ja_JP": "超過重絶縁セメント",
     "zh_CN": "超重绝缘水泥"
   },
   "trap_713_cdflsb": {
+    "ja_JP": "粗悪なスタングレネード",
     "zh_CN": "劣质闪光弹"
   },
   "trap_714_cdaltar": {

@@ -100,8 +100,8 @@ tip: 请善用浏览器的搜索功能
 | act21side_zone1 | 连阴雨季 | Stagione delle Piogge | 暗い長雨 |
 | act21side_zone2 | 铳与秩序 | Pistole e Ordine | 銃と秩序 |
 | act21side_zone3 | 自诩荒野 | Terra Desolata Autoproclamata | 荒野を名乗る者 |
-| act22side_zone1 | 荒烟林沼 | - | - |
-| act22side_zone2 | 记忆灰烬 | - | - |
+| act22side_zone1 | 荒烟林沼 | - | 煙たなびく沼 |
+| act22side_zone2 | 记忆灰烬 | - | 記憶の燃え殻 |
 | act23side_zone1 | 城中调查 | - | - |
 | act23side_zone2 | 关外追凶 | - | - |
 | act24side_zone1 | 苍暮山地 | - | - |

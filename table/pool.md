@@ -86,6 +86,7 @@ tip: 请善用浏览器的搜索功能
 | SINGLE_39_0_2 | 不协和音程 | - | - |
 | SINGLE_40_0_1 | 射落灾异的风暴 | - | - |
 | _ATTAIN_15_2_1 | - | Celebrate & Recollect | ロドスの道のり　回顧 |
+| _ATTAIN_22_1_2 | - | - | ロドスの道のり・邂逅 |
 | _LIMITED_10_2_1 | - | Deep Drown Lament | 深悼 |
 | _LIMITED_12_1_1 | - | Holiday Stars | ホリデースター |
 | _LIMITED_14_1_1 | - | Path of the Radiant | 光耀の騎士道 |
@@ -126,6 +127,7 @@ tip: 请善用浏览器的搜索功能
 | _NORM_20_4_1 | - | Bearings And Sparks | 軸受×火花 |
 | _NORM_21_2_1 | - | Edelweiss' Vow | 雪解けの誓い |
 | _NORM_21_3_1 | - | Joint Operation | 連合作戦 |
+| _NORM_22_1_1 | - | - | 枯火に咲く花 |
 | _NORM_2_0_1 | - | Chi Xiao, the Hidden Dragon | 赤龍乗雲 |
 | _NORM_2_0_3 | - | Lungmen Spec Ops Headhunting | 龍門特別行動要員 |
 | _NORM_3_0_1 | - | Frozen Land | 果てなき氷原 |

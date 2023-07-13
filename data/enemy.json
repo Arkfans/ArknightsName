@@ -2755,54 +2755,71 @@
     "zh_CN": "“与我无关”"
   },
   "enemy_1286_dumcy": {
+    "ja_JP": "特殊行動隊兵士",
     "zh_CN": "特别行动队士兵"
   },
   "enemy_1286_dumcy_2": {
+    "ja_JP": "特殊行動隊隊長",
     "zh_CN": "特别行动队队长"
   },
   "enemy_1287_ducrb": {
+    "ja_JP": "沼地の鉗獣",
     "zh_CN": "沼泽钳兽"
   },
   "enemy_1287_ducrb_2": {
+    "ja_JP": "凶暴な沼地の鉗獣",
     "zh_CN": "狂暴沼泽钳兽"
   },
   "enemy_1288_duskls": {
+    "ja_JP": "ダブリン追炎戦士",
     "zh_CN": "深池逐火战士"
   },
   "enemy_1288_duskls_2": {
+    "ja_JP": "ダブリン精鋭追炎戦士",
     "zh_CN": "深池逐火精锐战士"
   },
   "enemy_1289_dubmb": {
+    "ja_JP": "ダブリン爆撃兵",
     "zh_CN": "深池弩炮手"
   },
   "enemy_1289_dubmb_2": {
+    "ja_JP": "ダブリン爆撃隊隊長",
     "zh_CN": "深池弩炮队长"
   },
   "enemy_1290_duflm": {
+    "ja_JP": "ダブリン発火術師",
     "zh_CN": "深池引火者"
   },
   "enemy_1290_duflm_2": {
+    "ja_JP": "ダブリン発火術師隊長",
     "zh_CN": "深池引火者队长"
   },
   "enemy_1291_dusrch": {
+    "ja_JP": "沼地の偵察車",
     "zh_CN": "沼泽探照车"
   },
   "enemy_1291_dusrch_2": {
+    "ja_JP": "沼地の装甲偵察車",
     "zh_CN": "重型沼泽探照车"
   },
   "enemy_1292_duskld": {
+    "ja_JP": "ダブリン追炎従兵",
     "zh_CN": "深池逐火护卫"
   },
   "enemy_1292_duskld_2": {
+    "ja_JP": "ダブリン精鋭追炎従兵",
     "zh_CN": "深池逐火精锐护卫"
   },
   "enemy_1293_duswrd": {
+    "ja_JP": "ダブリン親衛隊隊員",
     "zh_CN": "深池护卫队成员"
   },
   "enemy_1293_duswrd_2": {
+    "ja_JP": "ダブリン親衛隊精鋭",
     "zh_CN": "深池护卫队精锐成员"
   },
   "enemy_1293_duswrd_3": {
+    "ja_JP": "「将校」",
     "zh_CN": "“校官”"
   },
   "enemy_1295_ymph": {
@@ -3251,6 +3268,7 @@
     "zh_CN": "扎罗，“狼之主”"
   },
   "enemy_1536_ncrmcr": {
+    "ja_JP": "「リーダー」",
     "zh_CN": "“领袖”"
   },
   "enemy_1537_mhrors": {
@@ -3601,12 +3619,15 @@
     "zh_CN": "“暴食之果”"
   },
   "enemy_6010_boxing": {
+    "ja_JP": "「ヤングガイ」サンデル",
     "zh_CN": "“年轻人”桑德尔"
   },
   "enemy_6011_planty": {
+    "ja_JP": "「自然の妥協」",
     "zh_CN": "“自然的妥协”"
   },
   "enemy_6012_plants": {
+    "ja_JP": "小型共生体",
     "zh_CN": "小型共生体"
   },
   "enemy_6013_smith": {

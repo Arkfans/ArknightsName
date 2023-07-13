@@ -82,6 +82,7 @@
   "char_1020_reed2": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "焔影リード",
       "zh_CN": "焰影苇草"
     }
   },
@@ -1168,6 +1169,7 @@
   "char_297_hamoni": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "ハーモニー",
       "zh_CN": "和弦"
     }
   },
@@ -1608,6 +1610,7 @@
   "char_4017_puzzle": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "パズル",
       "zh_CN": "谜图"
     }
   },
@@ -3372,6 +3375,7 @@
   "trap_098_mire": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "沼地制御",
       "zh_CN": "沼泽控制"
     }
   },
@@ -3408,6 +3412,7 @@
   "trap_104_dplant": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "改良型植物ホルモン",
       "zh_CN": "改性植物激素"
     }
   },
@@ -3708,84 +3713,98 @@
   "trap_700_cdabyss": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "エーギル式振波計",
       "zh_CN": "阿戈尔示波器"
     }
   },
   "trap_701_cdabyssa": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "エーギル式振波計",
       "zh_CN": "阿戈尔示波器"
     }
   },
   "trap_702_cdabyssb": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "エーギル式振波計",
       "zh_CN": "阿戈尔示波器"
     }
   },
   "trap_703_cdcredit": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "多機能補給デバイス",
       "zh_CN": "自适应补给元件"
     }
   },
   "trap_704_cdcredita": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "多機能補給デバイス",
       "zh_CN": "自适应补给元件"
     }
   },
   "trap_705_cdcreditb": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "多機能補給デバイス",
       "zh_CN": "自适应补给元件"
     }
   },
   "trap_706_cdshield": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "コーティングデバイス",
       "zh_CN": "镀膜装置导能阀"
     }
   },
   "trap_707_cdshielda": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "再稼働コンポーネント",
       "zh_CN": "重整导能组件"
     }
   },
   "trap_708_cdshieldb": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "コーティングデバイス",
       "zh_CN": "镀膜装置导能阀"
     }
   },
   "trap_709_cdbeacon": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "ジャングル用追跡ビーコン",
       "zh_CN": "丛林用示踪信标"
     }
   },
   "trap_710_cdbeacona": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "遮断電波",
       "zh_CN": "阻断波长"
     }
   },
   "trap_711_cdbeaconb": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "妨害電波",
       "zh_CN": "干扰波长"
     }
   },
   "trap_712_cdhvrk": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "超過重絶縁セメント",
       "zh_CN": "超重绝缘水泥"
     }
   },
   "trap_713_cdflsb": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "粗悪なスタングレネード",
       "zh_CN": "劣质闪光弹"
     }
   },
@@ -3954,6 +3973,7 @@
   "char_1027_greyy2@snow#5": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "終演後の王子様",
       "zh_CN": "演出后的王子"
     }
   },
@@ -5318,6 +5338,7 @@
   "char_377_gdglow@snow#5": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "しあわせの使い",
       "zh_CN": "喜夜侍者"
     }
   },
@@ -5360,6 +5381,7 @@
   "char_4004_pudd@snow#5": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "煌めく精霊",
       "zh_CN": "火树灵"
     }
   },
@@ -5458,6 +5480,7 @@
   "char_4043_erato@snow#5": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "語られざる物語",
       "zh_CN": "未讲述的故事"
     }
   },
@@ -10362,102 +10385,119 @@
   "enemy_1286_dumcy": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "特殊行動隊兵士",
       "zh_CN": "特别行动队士兵"
     }
   },
   "enemy_1286_dumcy_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "特殊行動隊隊長",
       "zh_CN": "特别行动队队长"
     }
   },
   "enemy_1287_ducrb": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "沼地の鉗獣",
       "zh_CN": "沼泽钳兽"
     }
   },
   "enemy_1287_ducrb_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "凶暴な沼地の鉗獣",
       "zh_CN": "狂暴沼泽钳兽"
     }
   },
   "enemy_1288_duskls": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "ダブリン追炎戦士",
       "zh_CN": "深池逐火战士"
     }
   },
   "enemy_1288_duskls_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "ダブリン精鋭追炎戦士",
       "zh_CN": "深池逐火精锐战士"
     }
   },
   "enemy_1289_dubmb": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "ダブリン爆撃兵",
       "zh_CN": "深池弩炮手"
     }
   },
   "enemy_1289_dubmb_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "ダブリン爆撃隊隊長",
       "zh_CN": "深池弩炮队长"
     }
   },
   "enemy_1290_duflm": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "ダブリン発火術師",
       "zh_CN": "深池引火者"
     }
   },
   "enemy_1290_duflm_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "ダブリン発火術師隊長",
       "zh_CN": "深池引火者队长"
     }
   },
   "enemy_1291_dusrch": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "沼地の偵察車",
       "zh_CN": "沼泽探照车"
     }
   },
   "enemy_1291_dusrch_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "沼地の装甲偵察車",
       "zh_CN": "重型沼泽探照车"
     }
   },
   "enemy_1292_duskld": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "ダブリン追炎従兵",
       "zh_CN": "深池逐火护卫"
     }
   },
   "enemy_1292_duskld_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "ダブリン精鋭追炎従兵",
       "zh_CN": "深池逐火精锐护卫"
     }
   },
   "enemy_1293_duswrd": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "ダブリン親衛隊隊員",
       "zh_CN": "深池护卫队成员"
     }
   },
   "enemy_1293_duswrd_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "ダブリン親衛隊精鋭",
       "zh_CN": "深池护卫队精锐成员"
     }
   },
   "enemy_1293_duswrd_3": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「将校」",
       "zh_CN": "“校官”"
     }
   },
@@ -11284,6 +11324,7 @@
   "enemy_1536_ncrmcr": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「リーダー」",
       "zh_CN": "“领袖”"
     }
   },
@@ -11862,18 +11903,21 @@
   "enemy_6010_boxing": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「ヤングガイ」サンデル",
       "zh_CN": "“年轻人”桑德尔"
     }
   },
   "enemy_6011_planty": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「自然の妥協」",
       "zh_CN": "“自然的妥协”"
     }
   },
   "enemy_6012_plants": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "小型共生体",
       "zh_CN": "小型共生体"
     }
   },
@@ -12618,6 +12662,7 @@
   "act22side": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "この炎が照らす先",
       "zh_CN": "照我以火"
     }
   },
@@ -12766,6 +12811,7 @@
   "act32sign": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
   },
@@ -13134,6 +13180,7 @@
   "dublinn": {
     "type": "TEAM",
     "names": {
+      "ja_JP": "ダブリン",
       "zh_CN": "深池"
     }
   },
@@ -13445,7 +13492,7 @@
     "type": "ITEM",
     "names": {
       "en_US": "Type-α Headhunting Permit",
-      "ja_JP": "2.5周年特別スカウト券α",
+      "ja_JP": "3.5周年特別スカウト券α",
       "zh_CN": "α类新年寻访凭证"
     }
   },
@@ -13453,7 +13500,7 @@
     "type": "ITEM",
     "names": {
       "en_US": "Type-β Headhunting Permit",
-      "ja_JP": "2.5周年特別スカウト券β",
+      "ja_JP": "3.5周年特別スカウト券β",
       "zh_CN": "β类新年寻访凭证"
     }
   },
@@ -13461,7 +13508,7 @@
     "type": "ITEM",
     "names": {
       "en_US": "Type-γ Headhunting Permit",
-      "ja_JP": "2.5周年特別スカウト券γ",
+      "ja_JP": "3.5周年特別スカウト券γ",
       "zh_CN": "γ类新年寻访凭证"
     }
   },
@@ -13469,7 +13516,7 @@
     "type": "ITEM",
     "names": {
       "en_US": "Type-α Headhunting Permit",
-      "ja_JP": "2.5周年特別スカウト券α",
+      "ja_JP": "3.5周年特別スカウト券α",
       "zh_CN": "α类新年寻访凭证"
     }
   },
@@ -13477,7 +13524,7 @@
     "type": "ITEM",
     "names": {
       "en_US": "Type-β Headhunting Permit",
-      "ja_JP": "2.5周年特別スカウト券β",
+      "ja_JP": "3.5周年特別スカウト券β",
       "zh_CN": "β类新年寻访凭证"
     }
   },
@@ -13485,7 +13532,7 @@
     "type": "ITEM",
     "names": {
       "en_US": "Type-γ Headhunting Permit",
-      "ja_JP": "2.5周年特別スカウト券γ",
+      "ja_JP": "3.5周年特別スカウト券γ",
       "zh_CN": "γ类新年寻访凭证"
     }
   },
@@ -13493,7 +13540,7 @@
     "type": "ITEM",
     "names": {
       "en_US": "Type-α Headhunting Permit",
-      "ja_JP": "2.5周年特別スカウト券α",
+      "ja_JP": "3.5周年特別スカウト券α",
       "zh_CN": "α类新年寻访凭证"
     }
   },
@@ -13501,7 +13548,7 @@
     "type": "ITEM",
     "names": {
       "en_US": "Type-β Headhunting Permit",
-      "ja_JP": "2.5周年特別スカウト券β",
+      "ja_JP": "3.5周年特別スカウト券β",
       "zh_CN": "β类新年寻访凭证"
     }
   },
@@ -13509,7 +13556,7 @@
     "type": "ITEM",
     "names": {
       "en_US": "Type-γ Headhunting Permit",
-      "ja_JP": "2.5周年特別スカウト券γ",
+      "ja_JP": "3.5周年特別スカウト券γ",
       "zh_CN": "γ类新年寻访凭证"
     }
   },
@@ -14946,6 +14993,7 @@
   "act16side_token_bolt_rep_1": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "エッチング弾薬莢",
       "zh_CN": "蚀刻弹弹壳"
     }
   },
@@ -15114,6 +15162,7 @@
   "act22side_token_manuscript": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "民謡集の写本",
       "zh_CN": "手抄歌谣集"
     }
   },
@@ -16820,6 +16869,7 @@
   "p_char_1020_reed2": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "焔影リードの印",
       "zh_CN": "焰影苇草的信物"
     }
   },
@@ -17898,6 +17948,7 @@
   "p_char_297_hamoni": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ハーモニーの印",
       "zh_CN": "和弦的信物"
     }
   },
@@ -18338,6 +18389,7 @@
   "p_char_4017_puzzle": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "パズルの印",
       "zh_CN": "谜图的信物"
     }
   },
@@ -19259,7 +19311,7 @@
     "type": "ITEM",
     "names": {
       "en_US": "Subjective Imagination",
-      "ja_JP": "主観的想像",
+      "ja_JP": "主観的構想",
       "zh_CN": "主观想象"
     }
   },
@@ -19812,6 +19864,7 @@
   "uni_set_prison": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "孤島激震家具パック",
       "zh_CN": "孤岛风云家具收藏包"
     }
   },
@@ -19944,6 +19997,7 @@
   "voucher_full_robin": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ロビンの手紙",
       "zh_CN": "罗宾的私人信件"
     }
   },
@@ -20856,6 +20910,12 @@
       "ja_JP": "ロドスの道のり　回顧"
     }
   },
+  "_ATTAIN_22_1_2": {
+    "type": "POOL",
+    "names": {
+      "ja_JP": "ロドスの道のり・邂逅"
+    }
+  },
   "_LIMITED_10_2_1": {
     "type": "POOL",
     "names": {
@@ -21133,6 +21193,12 @@
     "names": {
       "en_US": "Joint Operation",
       "ja_JP": "連合作戦"
+    }
+  },
+  "_NORM_22_1_1": {
+    "type": "POOL",
+    "names": {
+      "ja_JP": "枯火に咲く花"
     }
   },
   "_NORM_2_0_1": {
@@ -23027,12 +23093,14 @@
   "skchr_hamoni_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "舞は軽やかに",
       "zh_CN": "轻巧舞步"
     }
   },
   "skchr_hamoni_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "耽溺の結末",
       "zh_CN": "沉溺之灾"
     }
   },
@@ -24435,12 +24503,14 @@
   "skchr_puzzle_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "証拠追跡",
       "zh_CN": "关键线索"
     }
   },
   "skchr_puzzle_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "徹底追及",
       "zh_CN": "疑点追踪"
     }
   },
@@ -24521,12 +24591,14 @@
   "skchr_reed2_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "盛衰を共に",
       "zh_CN": "枯荣共息"
     }
   },
   "skchr_reed2_3": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "命の火種",
       "zh_CN": "生命火种"
     }
   },
@@ -26093,18 +26165,21 @@
   "sktok_cdabyss": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "エーギル式振波計",
       "zh_CN": "阿戈尔示波器"
     }
   },
   "sktok_cdabyssa": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "エーギル式振波計",
       "zh_CN": "阿戈尔示波器"
     }
   },
   "sktok_cdabyssb": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "エーギル式振波計",
       "zh_CN": "阿戈尔示波器"
     }
   },
@@ -26129,36 +26204,42 @@
   "sktok_cdbeacon": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "追跡ビーコン",
       "zh_CN": "示踪信标"
     }
   },
   "sktok_cdbeacona": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "遮断電波",
       "zh_CN": "阻断波长"
     }
   },
   "sktok_cdbeaconb": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "妨害電波",
       "zh_CN": "干扰波长"
     }
   },
   "sktok_cdcredit": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "多機能補給",
       "zh_CN": "自适应补给"
     }
   },
   "sktok_cdcredita": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "多機能補給",
       "zh_CN": "自适应补给"
     }
   },
   "sktok_cdcreditb": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "多機能補給",
       "zh_CN": "自适应补给"
     }
   },
@@ -26183,6 +26264,7 @@
   "sktok_cdflsb": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "粗悪なスタングレネード",
       "zh_CN": "劣质闪光弹"
     }
   },
@@ -26207,24 +26289,28 @@
   "sktok_cdhvrk": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "超過重・絶縁",
       "zh_CN": "超重，绝缘"
     }
   },
   "sktok_cdshield": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "コーティング",
       "zh_CN": "镀膜"
     }
   },
   "sktok_cdshielda": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "再稼働",
       "zh_CN": "重整导能"
     }
   },
   "sktok_cdshieldb": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "コーティング",
       "zh_CN": "镀膜"
     }
   },
@@ -26317,6 +26403,7 @@
   "sktok_dplant": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "成長抑制",
       "zh_CN": "抑制生长"
     }
   },
@@ -26687,6 +26774,7 @@
   "sktok_mire": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "沼地制御",
       "zh_CN": "沼泽控制"
     }
   },
@@ -30573,78 +30661,91 @@
   "act22side_01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "逃げる者に追う者",
       "zh_CN": "逃离与追逐"
     }
   },
   "act22side_02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "不幸な再会",
       "zh_CN": "不幸重逢"
     }
   },
   "act22side_03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "引火",
       "zh_CN": "引燃草垛"
     }
   },
   "act22side_04": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "灼熱の夢",
       "zh_CN": "热灼梦"
     }
   },
   "act22side_05": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "祝福の歌",
       "zh_CN": "祝福的歌谣"
     }
   },
   "act22side_06": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "知る者はなし",
       "zh_CN": "无人知晓"
     }
   },
   "act22side_07": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "生命の煌めき",
       "zh_CN": "生灵火花"
     }
   },
   "act22side_08": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "彼女の影",
       "zh_CN": "她的影子"
     }
   },
   "act22side_st01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "荒地に響く鐘",
       "zh_CN": "荒地钟声"
     }
   },
   "act22side_st02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "燃え殻より",
       "zh_CN": "自灰烬之中"
     }
   },
   "act22side_st03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "悲鳴が一つ",
       "zh_CN": "一声呜咽"
     }
   },
   "act22side_tr01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "湿った土壌",
       "zh_CN": "潮湿泥土"
     }
   },
   "act22side_tr02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "延焼",
       "zh_CN": "蔓延"
     }
   },
@@ -31673,6 +31774,7 @@
   "camp_r_14": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "実験基地の格納庫",
       "zh_CN": "实验基地机库"
     }
   },
@@ -32209,72 +32311,84 @@
   "lt_05_01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "押し寄せる大群",
       "zh_CN": "蜂拥而上"
     }
   },
   "lt_05_02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "見逃せない利益",
       "zh_CN": "见者有份"
     }
   },
   "lt_05_03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "産業アップデート",
       "zh_CN": "产业升级"
     }
   },
   "lt_05_04": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "悪に引き込まれ",
       "zh_CN": "同流合污"
     }
   },
   "lt_05_05": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "酔いどれの旅",
       "zh_CN": "酩酊之旅"
     }
   },
   "lt_05_06": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "一切れのステーキ",
       "zh_CN": "一块肉排"
     }
   },
   "lt_06_01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "密林流あいさつ",
       "zh_CN": "丛林式寒暄"
     }
   },
   "lt_06_02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "生物の多様性",
       "zh_CN": "生物多样性"
     }
   },
   "lt_06_03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "驚くこともない",
       "zh_CN": "习以为常"
     }
   },
   "lt_06_04": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "森の空き地",
       "zh_CN": "林间空地"
     }
   },
   "lt_06_05": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "しつこい相手",
       "zh_CN": "纠缠不休"
     }
   },
   "lt_06_06": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "人と大自然",
       "zh_CN": "人与自然"
     }
   },
@@ -35577,12 +35691,14 @@
   "act22side_zone1": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "煙たなびく沼",
       "zh_CN": "荒烟林沼"
     }
   },
   "act22side_zone2": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "記憶の燃え殻",
       "zh_CN": "记忆灰烬"
     }
   },
@@ -36871,6 +36987,7 @@
   "story_frncat_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "マイスウィーティ",
       "zh_CN": "小点心"
     }
   },
@@ -36975,6 +37092,7 @@
   "story_hamoni_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "孤独なダンサー",
       "zh_CN": "孤独的舞者"
     }
   },
@@ -37285,6 +37403,7 @@
   "story_mm_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "名探偵の事件簿・其の一",
       "zh_CN": "大侦探探案集·卷一"
     }
   },
@@ -37679,6 +37798,7 @@
   "story_sleach_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "つがいの羽獣",
       "zh_CN": "一双羽兽"
     }
   },
