@@ -84,7 +84,7 @@ tip: 请善用浏览器的搜索功能
 | act20sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act21side | 叙拉古人 | IL Siracusano | シラクザーノ |
 | act21sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
-| act22side | 照我以火 | - | この炎が照らす先 |
+| act22side | 照我以火 | What the Firelight Casts | この炎が照らす先 |
 | act22sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act23side | 登临意 | - | - |
 | act23sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
@@ -104,7 +104,7 @@ tip: 请善用浏览器的搜索功能
 | act2pray | 双日城惊奇墙 | Dossoles Amazing Wall | ドッソレススクラッチ |
 | act30sign | 秋风送爽限时登录活动 | Snow Upon Autumnal Winds Limited Login Event | 早春の風スタンプラリー |
 | act31sign | 正逢雨季限时登录活动 | Rain Season Limited Login Event | 長雨の候スタンプラリー |
-| act32sign | 限时累计签到 | - | 期間限定ログインボーナス |
+| act32sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act33sign | 限时累计签到 | - | - |
 | act38d1 | 尖灭测试作战 | - | - |
 | act3d0 | 火蓝之心 | Heart of Surging Flame | 青く燃ゆる心 |

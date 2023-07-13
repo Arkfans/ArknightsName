@@ -398,19 +398,19 @@ tip: 请善用浏览器的搜索功能
 | act21side_st03 | 剜刺 | Troublemaker | 摘出 |
 | act21side_st04 | 缝合 | Sew Together | 縫合 |
 | act21side_tr01 | 以牙还牙 | Eye for an Eye | 歯には歯を |
-| act22side_01 | 逃离与追逐 | - | 逃げる者に追う者 |
-| act22side_02 | 不幸重逢 | - | 不幸な再会 |
-| act22side_03 | 引燃草垛 | - | 引火 |
-| act22side_04 | 热灼梦 | - | 灼熱の夢 |
-| act22side_05 | 祝福的歌谣 | - | 祝福の歌 |
-| act22side_06 | 无人知晓 | - | 知る者はなし |
-| act22side_07 | 生灵火花 | - | 生命の煌めき |
-| act22side_08 | 她的影子 | - | 彼女の影 |
-| act22side_st01 | 荒地钟声 | - | 荒地に響く鐘 |
-| act22side_st02 | 自灰烬之中 | - | 燃え殻より |
-| act22side_st03 | 一声呜咽 | - | 悲鳴が一つ |
-| act22side_tr01 | 潮湿泥土 | - | 湿った土壌 |
-| act22side_tr02 | 蔓延 | - | 延焼 |
+| act22side_01 | 逃离与追逐 | Flight and Pursuit | 逃げる者に追う者 |
+| act22side_02 | 不幸重逢 | Unlucky Reunion | 不幸な再会 |
+| act22side_03 | 引燃草垛 | Burn the Haystacks | 引火 |
+| act22side_04 | 热灼梦 | Scorching Dream | 灼熱の夢 |
+| act22side_05 | 祝福的歌谣 | Hymn of Blessing | 祝福の歌 |
+| act22side_06 | 无人知晓 | Known by None | 知る者はなし |
+| act22side_07 | 生灵火花 | Soul Spark | 生命の煌めき |
+| act22side_08 | 她的影子 | Her Shadow | 彼女の影 |
+| act22side_st01 | 荒地钟声 | Wilderness Bells | 荒地に響く鐘 |
+| act22side_st02 | 自灰烬之中 | From the Ashes | 燃え殻より |
+| act22side_st03 | 一声呜咽 | A Sob | 悲鳴が一つ |
+| act22side_tr01 | 潮湿泥土 | Wet Earth | 湿った土壌 |
+| act22side_tr02 | 蔓延 | The Spread | 延焼 |
 | act23side_01 | 塞上春来 | - | - |
 | act23side_02 | 沙海黄尘 | - | - |
 | act23side_03 | 树犹如此 | - | - |
@@ -556,7 +556,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_11 | 盘桓蜀道 | Lingering Shangshu Trails | 蜿蜒たる蜀道 |
 | camp_r_12 | 巧克力大街 | Chocolate Street | チョコストリート |
 | camp_r_13 | 昏黑造船厂 | Penumbra Shipyards | 暗き造船所 |
-| camp_r_14 | 实验基地机库 | - | 実験基地の格納庫 |
+| camp_r_14 | 实验基地机库 | Research Base Hanger | 実験基地の格納庫 |
 | camp_r_15 | 龙门商业街 | - | - |
 | camp_r_16 | 休止符街道 | - | - |
 | camp_r_17 | 灰暗泥沼 | - | - |
@@ -625,18 +625,18 @@ tip: 请善用浏览器的搜索功能
 | lt_04_06 | 旅途小憩 | Journey's Rest | 道中の小休憩 |
 | lt_04_07 | 泥尘零落 | Scattered Dirt | 塵に同じ |
 | lt_04_08 | 无底洞 | Bottomless Pit | 底なしの洞穴 |
-| lt_05_01 | 蜂拥而上 | - | 押し寄せる大群 |
-| lt_05_02 | 见者有份 | - | 見逃せない利益 |
-| lt_05_03 | 产业升级 | - | 産業アップデート |
-| lt_05_04 | 同流合污 | - | 悪に引き込まれ |
-| lt_05_05 | 酩酊之旅 | - | 酔いどれの旅 |
-| lt_05_06 | 一块肉排 | - | 一切れのステーキ |
-| lt_06_01 | 丛林式寒暄 | - | 密林流あいさつ |
-| lt_06_02 | 生物多样性 | - | 生物の多様性 |
-| lt_06_03 | 习以为常 | - | 驚くこともない |
-| lt_06_04 | 林间空地 | - | 森の空き地 |
-| lt_06_05 | 纠缠不休 | - | しつこい相手 |
-| lt_06_06 | 人与自然 | - | 人と大自然 |
+| lt_05_01 | 蜂拥而上 | The Swarming Masses | 押し寄せる大群 |
+| lt_05_02 | 见者有份 | Passing Down the Profit | 見逃せない利益 |
+| lt_05_03 | 产业升级 | Industrial Improvement | 産業アップデート |
+| lt_05_04 | 同流合污 | Bad Company | 悪に引き込まれ |
+| lt_05_05 | 酩酊之旅 | Tipsy Trip | 酔いどれの旅 |
+| lt_05_06 | 一块肉排 | A Piece of Steak | 一切れのステーキ |
+| lt_06_01 | 丛林式寒暄 | Jungle Greetings | 密林流あいさつ |
+| lt_06_02 | 生物多样性 | Biodiversity | 生物の多様性 |
+| lt_06_03 | 习以为常 | Adaptation | 驚くこともない |
+| lt_06_04 | 林间空地 | Glade | 森の空き地 |
+| lt_06_05 | 纠缠不休 | Not Letting Go | しつこい相手 |
+| lt_06_06 | 人与自然 | Man And Nature | 人と大自然 |
 | lt_07_01 | 知难而进 | - | - |
 | lt_07_02 | 荒地的手段 | - | - |
 | lt_07_03 | 麻木前行 | - | - |

@@ -15,7 +15,7 @@ tip: 请善用浏览器的搜索功能
 | char_1013_chen2 | 假日威龙陈 | Ch'en the Holungday | 遊龍チェン |
 | char_1014_nearl2 | 耀骑士临光 | Nearl the Radiant Knight | 耀騎士ニアール |
 | char_101_sora | 空 | Sora | ソラ |
-| char_1020_reed2 | 焰影苇草 | - | 焔影リード |
+| char_1020_reed2 | 焰影苇草 | Reed the Flame Shadow | 焔影リード |
 | char_1021_kroos2 | 寒芒克洛丝 | Kroos the Keen Glint | 寒芒クルース |
 | char_1023_ghost2 | 归溟幽灵鲨 | Specter the Unchained | 帰溟スペクター |
 | char_1024_hbisc2 | 濯尘芙蓉 | Hibiscus the Purifier | 濯塵ハイビスカス |
@@ -153,7 +153,7 @@ tip: 请善用浏览器的搜索功能
 | char_291_aglina | 安洁莉娜 | Angelina | アンジェリーナ |
 | char_293_thorns | 棘刺 | Thorns | ソーンズ |
 | char_294_ayer | 断崖 | Ayerscarpe | エアースカーペ |
-| char_297_hamoni | 和弦 | - | ハーモニー |
+| char_297_hamoni | 和弦 | Harmonie | ハーモニー |
 | char_298_susuro | 苏苏洛 | Sussurro | ススーロ |
 | char_300_phenxi | 菲亚梅塔 | Fiammetta | フィアメッタ |
 | char_301_cutter | 刻刀 | Cutter | カッター |
@@ -209,7 +209,7 @@ tip: 请善用浏览器的搜索功能
 | char_4014_lunacu | 子月 | Lunacub | ルナカブ |
 | char_4015_spuria | 空构 | - | - |
 | char_4016_kazema | 风丸 | Kazemaru | カゼマル |
-| char_4017_puzzle | 谜图 | - | パズル |
+| char_4017_puzzle | 谜图 | Puzzle | パズル |
 | char_4019_ncdeer | 九色鹿 | Nine-Colored Deer | 九色鹿 |
 | char_401_elysm | 极境 | Elysium | エリジウム |
 | char_4025_aprot2 | 暮落 | Shalem | シャレム |
@@ -245,6 +245,7 @@ tip: 请善用浏览器的搜索功能
 | char_4087_ines | 伊内丝 | - | - |
 | char_4091_ulika | U-Official | - | - |
 | char_4093_frston | Friston-3 | - | - |
+| char_4102_threye | 凛视 | - | - |
 | char_411_tomimi | 特米米 | Tomimi | トミミ |
 | char_415_flint | 燧石 | Flint | フリント |
 | char_416_zumama | 森蚺 | Eunectes | ユーネクテス |

@@ -461,6 +461,7 @@
     "zh_CN": "城防路障"
   },
   "trap_098_mire": {
+    "en_US": "Mire Control",
     "ja_JP": "沼地制御",
     "zh_CN": "沼泽控制"
   },
@@ -480,11 +481,27 @@
     "zh_CN": "地形增伤控制"
   },
   "trap_104_dplant": {
+    "en_US": "Modified Phytohormone",
     "ja_JP": "改良型植物ホルモン",
     "zh_CN": "改性植物激素"
   },
   "trap_105_mhwrct": {
     "zh_CN": "滞空牵引无人机"
+  },
+  "trap_106_smtree": {
+    "zh_CN": "积雪银凇 "
+  },
+  "trap_107_smpow": {
+    "zh_CN": "空间稳定设施"
+  },
+  "trap_108_smbox": {
+    "zh_CN": "宝箱"
+  },
+  "trap_109_smrbox": {
+    "zh_CN": "尖刺宝箱"
+  },
+  "trap_110_smbbox": {
+    "zh_CN": "巨壳藤蔓"
   },
   "trap_111_wdfarm": {
     "zh_CN": "街头应急储备"
@@ -631,58 +648,72 @@
     "zh_CN": "采集主任站"
   },
   "trap_700_cdabyss": {
+    "en_US": "Ægirian Oscilloscope",
     "ja_JP": "エーギル式振波計",
     "zh_CN": "阿戈尔示波器"
   },
   "trap_701_cdabyssa": {
+    "en_US": "Ægirian Oscilloscope",
     "ja_JP": "エーギル式振波計",
     "zh_CN": "阿戈尔示波器"
   },
   "trap_702_cdabyssb": {
+    "en_US": "Ægirian Oscilloscope",
     "ja_JP": "エーギル式振波計",
     "zh_CN": "阿戈尔示波器"
   },
   "trap_703_cdcredit": {
+    "en_US": "Adaptive Supply Component",
     "ja_JP": "多機能補給デバイス",
     "zh_CN": "自适应补给元件"
   },
   "trap_704_cdcredita": {
+    "en_US": "Adaptive Supply Component",
     "ja_JP": "多機能補給デバイス",
     "zh_CN": "自适应补给元件"
   },
   "trap_705_cdcreditb": {
+    "en_US": "Adaptive Supply Component",
     "ja_JP": "多機能補給デバイス",
     "zh_CN": "自适应补给元件"
   },
   "trap_706_cdshield": {
+    "en_US": "Coating Device Conduction Valve",
     "ja_JP": "コーティングデバイス",
     "zh_CN": "镀膜装置导能阀"
   },
   "trap_707_cdshielda": {
+    "en_US": "Redeployment Conduction Component",
     "ja_JP": "再稼働コンポーネント",
     "zh_CN": "重整导能组件"
   },
   "trap_708_cdshieldb": {
+    "en_US": "Coating Device Conduction Valve",
     "ja_JP": "コーティングデバイス",
     "zh_CN": "镀膜装置导能阀"
   },
   "trap_709_cdbeacon": {
+    "en_US": "Eunectes' Beacon",
     "ja_JP": "ジャングル用追跡ビーコン",
     "zh_CN": "丛林用示踪信标"
   },
   "trap_710_cdbeacona": {
+    "en_US": "Block Wavelength",
     "ja_JP": "遮断電波",
     "zh_CN": "阻断波长"
   },
   "trap_711_cdbeaconb": {
+    "en_US": "Jam Wavelength",
     "ja_JP": "妨害電波",
     "zh_CN": "干扰波长"
   },
   "trap_712_cdhvrk": {
+    "en_US": "Heavy Insulated Concrete",
     "ja_JP": "超過重絶縁セメント",
     "zh_CN": "超重绝缘水泥"
   },
   "trap_713_cdflsb": {
+    "en_US": "Shoddy Flashbang",
     "ja_JP": "粗悪なスタングレネード",
     "zh_CN": "劣质闪光弹"
   },

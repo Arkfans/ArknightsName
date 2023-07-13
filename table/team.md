@@ -12,14 +12,14 @@ tip: 请善用浏览器的搜索功能
 | bolivar | 玻利瓦尔 | Bolívar | ボリバル |
 | chiave | 贾维团伙 | Chiave Gang | キアーベ一味 |
 | columbia | 哥伦比亚 | Columbia | クルビア |
-| dublinn | 深池 | - | ダブリン |
+| dublinn | 深池 | Dublinn | ダブリン |
 | egir | 阿戈尔 | Ægir | エーギル |
 | elite | 罗德岛-精英干员 | Rhodes Island-Elite Operator | エリートオペレーター |
 | followers | 使徒 | Followers | 使徒 |
 | glasgow | 格拉斯哥帮 | Glasgow | グラスゴー |
 | higashi | 东 | Higashi | 極東 |
 | iberia | 伊比利亚 | Iberia | イベリア |
-| karlan | 喀兰贸易 | Karlan Commercial | カランド貿易 |
+| karlan | 喀兰贸易 | Karlan Trade CO., LTD | カランド貿易 |
 | kazimierz | 卡西米尔 | Kazimierz | カジミエーシュ |
 | kjerag | 谢拉格 | Kjerag | イェラグ |
 | laterano | 拉特兰 | Laterano | ラテラーノ |

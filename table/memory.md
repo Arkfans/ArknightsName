@@ -77,7 +77,7 @@ tip: 请善用浏览器的搜索功能
 | story_folivo_set_1_story_1 | 记录者 | Recorder | 記録者 |
 | story_forcer_set_1_story_1 | 出行计划 | - | - |
 | story_franka_set_1_story_1 | 往日的象征 | Symbols of the Past | 在りし日の象徴 |
-| story_frncat_set_1_story_1 | 小点心 | - | マイスウィーティ |
+| story_frncat_set_1_story_1 | 小点心 | Sweetheart | マイスウィーティ |
 | story_frostl_set_1_story_1 | 识字本 | - | - |
 | story_ghost2_set_1_story_1 | 自我 | Selfhood | 自分 |
 | story_ghost_set_1_story_1 | 圣诞快乐！ | Merry Christmas! | メリークリスマス！ |
@@ -91,7 +91,7 @@ tip: 请善用浏览器的搜索功能
 | story_greyy_set_1_story_1 | 过滤星星 | Filter Stars | 濾される星屑 |
 | story_gvial2_set_1_story_1 | 以酒精之名！ | In the Name of Alcohol! | アルコールの名のもとに！ |
 | story_haak_set_1_story_1 | 惊弓一夜 | - | - |
-| story_hamoni_set_1_story_1 | 孤独的舞者 | - | 孤独なダンサー |
+| story_hamoni_set_1_story_1 | 孤独的舞者 | Solitary Dancer | 孤独なダンサー |
 | story_hbisc2_set_1_story_1 | 无名之花 | Nameless Flower | 名もなき花 |
 | story_headbr_set_1_story_1 | 强中自有强中手 | Strong Meets Stronger | 強さに果てはなし |
 | story_headbr_set_2_story_1 | 在冬夜里燃烧 | - | - |
@@ -133,7 +133,7 @@ tip: 请善用浏览器的搜索功能
 | story_mint_set_1_story_1 | 昔日重现 | Yesterday Once More | デジャヴ |
 | story_mizuki_set_1_story_1 | 第五类接触 | The Fifth Contact | 第五種接近遭遇 |
 | story_mlyss_set_1_story_1 | 无根之雨 | - | - |
-| story_mm_set_1_story_1 | 大侦探探案集·卷一 | - | 名探偵の事件簿・其の一 |
+| story_mm_set_1_story_1 | 大侦探探案集·卷一 | The Great Detective's Case Files - Volume I | 名探偵の事件簿・其の一 |
 | story_moeshd_set_1_story_1 | 生意场 | The Business | 商売とは |
 | story_morgan_set_1_story_1 | 巨轮之下 | - | - |
 | story_mostma_set_1_story_1 | 高楼之上 | Atop the Skyscrapers | 高層ビルの上で |
@@ -185,7 +185,7 @@ tip: 请善用浏览器的搜索功能
 | story_skgoat_set_2_story_1 | 远方遗物 | Distant Relic | 遠方の遺品 |
 | story_slbell_set_1_story_1 | 雪山外 | Beyond the Snowy Mountain | 雪山の外 |
 | story_slchan_set_1_story_1 | 崖上之心 | Heart of the Cliffs | 崖上の心 |
-| story_sleach_set_1_story_1 | 一双羽兽 | - | つがいの羽獣 |
+| story_sleach_set_1_story_1 | 一双羽兽 | A Pair of Fowlbeasts | つがいの羽獣 |
 | story_snsant_set_1_story_1 | 数字问题 | - | - |
 | story_sophia_set_1_story_1 | 独家访谈 | - | - |
 | story_sora_set_1_story_1 | 距离 | Distance | 距離 |

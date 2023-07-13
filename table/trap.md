@@ -98,14 +98,19 @@ tip: 请善用浏览器的搜索功能
 | trap_095_tbsmmc | 芳香精油 | Fragrant Essential Oil | エッセンシャルオイル |
 | trap_096_gflag | 山海密语仪 | - | - |
 | trap_097_hstone | 城防路障 | - | - |
-| trap_098_mire | 沼泽控制 | - | 沼地制御 |
+| trap_098_mire | 沼泽控制 | Mire Control | 沼地制御 |
 | trap_099_mhflsb | 眩光手雷 | - | - |
 | trap_100_mhlbmb | 高能源石爆桶 | - | - |
 | trap_101_mhshok | 高压脉冲诡雷 | - | - |
 | trap_102_mhwrbg | 滞空牵引无人机 | - | - |
 | trap_103_ymdgct | 地形增伤控制 | - | - |
-| trap_104_dplant | 改性植物激素 | - | 改良型植物ホルモン |
+| trap_104_dplant | 改性植物激素 | Modified Phytohormone | 改良型植物ホルモン |
 | trap_105_mhwrct | 滞空牵引无人机 | - | - |
+| trap_106_smtree | 积雪银凇  | - | - |
+| trap_107_smpow | 空间稳定设施 | - | - |
+| trap_108_smbox | 宝箱 | - | - |
+| trap_109_smrbox | 尖刺宝箱 | - | - |
+| trap_110_smbbox | 巨壳藤蔓 | - | - |
 | trap_111_wdfarm | 街头应急储备 | - | - |
 | trap_112_crsbow | 解雇者清债程序 | - | - |
 | trap_113_snflwr | 全自动划账器 | - | - |
@@ -154,20 +159,20 @@ tip: 请善用浏览器的搜索功能
 | trap_437_poachr | 老练猎手 | - | - |
 | trap_438_xbfato2 | 采集专员站 | - | - |
 | trap_439_xbfato3 | 采集主任站 | - | - |
-| trap_700_cdabyss | 阿戈尔示波器 | - | エーギル式振波計 |
-| trap_701_cdabyssa | 阿戈尔示波器 | - | エーギル式振波計 |
-| trap_702_cdabyssb | 阿戈尔示波器 | - | エーギル式振波計 |
-| trap_703_cdcredit | 自适应补给元件 | - | 多機能補給デバイス |
-| trap_704_cdcredita | 自适应补给元件 | - | 多機能補給デバイス |
-| trap_705_cdcreditb | 自适应补给元件 | - | 多機能補給デバイス |
-| trap_706_cdshield | 镀膜装置导能阀 | - | コーティングデバイス |
-| trap_707_cdshielda | 重整导能组件 | - | 再稼働コンポーネント |
-| trap_708_cdshieldb | 镀膜装置导能阀 | - | コーティングデバイス |
-| trap_709_cdbeacon | 丛林用示踪信标 | - | ジャングル用追跡ビーコン |
-| trap_710_cdbeacona | 阻断波长 | - | 遮断電波 |
-| trap_711_cdbeaconb | 干扰波长 | - | 妨害電波 |
-| trap_712_cdhvrk | 超重绝缘水泥 | - | 超過重絶縁セメント |
-| trap_713_cdflsb | 劣质闪光弹 | - | 粗悪なスタングレネード |
+| trap_700_cdabyss | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |
+| trap_701_cdabyssa | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |
+| trap_702_cdabyssb | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |
+| trap_703_cdcredit | 自适应补给元件 | Adaptive Supply Component | 多機能補給デバイス |
+| trap_704_cdcredita | 自适应补给元件 | Adaptive Supply Component | 多機能補給デバイス |
+| trap_705_cdcreditb | 自适应补给元件 | Adaptive Supply Component | 多機能補給デバイス |
+| trap_706_cdshield | 镀膜装置导能阀 | Coating Device Conduction Valve | コーティングデバイス |
+| trap_707_cdshielda | 重整导能组件 | Redeployment Conduction Component | 再稼働コンポーネント |
+| trap_708_cdshieldb | 镀膜装置导能阀 | Coating Device Conduction Valve | コーティングデバイス |
+| trap_709_cdbeacon | 丛林用示踪信标 | Eunectes' Beacon | ジャングル用追跡ビーコン |
+| trap_710_cdbeacona | 阻断波长 | Block Wavelength | 遮断電波 |
+| trap_711_cdbeaconb | 干扰波长 | Jam Wavelength | 妨害電波 |
+| trap_712_cdhvrk | 超重绝缘水泥 | Heavy Insulated Concrete | 超過重絶縁セメント |
+| trap_713_cdflsb | 劣质闪光弹 | Shoddy Flashbang | 粗悪なスタングレネード |
 | trap_714_cdaltar | 能量扰动放大器 | - | - |
 | trap_715_cdaltara | 能量扰动放大器 | - | - |
 | trap_716_cdaltarb | 能量扰动放大器 | - | - |

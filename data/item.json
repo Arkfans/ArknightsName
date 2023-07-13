@@ -954,6 +954,7 @@
     "zh_CN": "蚀刻弹弹壳"
   },
   "act16side_token_bolt_rep_1": {
+    "en_US": "Etched Bullet Casing",
     "ja_JP": "エッチング弾薬莢",
     "zh_CN": "蚀刻弹弹壳"
   },
@@ -1057,6 +1058,7 @@
     "zh_CN": "进货通行证"
   },
   "act22side_token_manuscript": {
+    "en_US": "Manuscripts of Ballads",
     "ja_JP": "民謡集の写本",
     "zh_CN": "手抄歌谣集"
   },
@@ -2002,6 +2004,7 @@
     "zh_CN": "空的信物"
   },
   "p_char_1020_reed2": {
+    "en_US": "Reed the Flame Shadow's Token",
     "ja_JP": "焔影リードの印",
     "zh_CN": "焰影苇草的信物"
   },
@@ -2670,6 +2673,7 @@
     "zh_CN": "断崖的信物"
   },
   "p_char_297_hamoni": {
+    "en_US": "Harmonie's Token",
     "ja_JP": "ハーモニーの印",
     "zh_CN": "和弦的信物"
   },
@@ -2943,6 +2947,7 @@
     "zh_CN": "风丸的信物"
   },
   "p_char_4017_puzzle": {
+    "en_US": "Puzzle's Token",
     "ja_JP": "パズルの印",
     "zh_CN": "谜图的信物"
   },
@@ -3089,6 +3094,9 @@
   },
   "p_char_4093_frston": {
     "zh_CN": "Friston-3的信物"
+  },
+  "p_char_4102_threye": {
+    "zh_CN": "凛视的信物"
   },
   "p_char_411_tomimi": {
     "en_US": "Tomimi's Token",
@@ -3508,6 +3516,12 @@
     "ja_JP": "主観的構想",
     "zh_CN": "主观想象"
   },
+  "rogue_3_token_bp": {
+    "zh_CN": "生态标本"
+  },
+  "rogue_3_token_grow": {
+    "zh_CN": "理性视阈"
+  },
   "tier1_caster": {
     "en_US": "Replicated Caster Token",
     "ja_JP": "★1術師の印",
@@ -3848,6 +3862,7 @@
     "zh_CN": "骑兵与猎人家具收藏包"
   },
   "uni_set_prison": {
+    "en_US": "Mansfield Break Furniture Pack",
     "ja_JP": "孤島激震家具パック",
     "zh_CN": "孤岛风云家具收藏包"
   },
@@ -3927,6 +3942,7 @@
     "zh_CN": "薄绿的私人信件"
   },
   "voucher_full_robin": {
+    "en_US": "Robin's Personal Letter",
     "ja_JP": "ロビンの手紙",
     "zh_CN": "罗宾的私人信件"
   },

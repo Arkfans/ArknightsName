@@ -2755,70 +2755,87 @@
     "zh_CN": "“与我无关”"
   },
   "enemy_1286_dumcy": {
+    "en_US": "Special Forces Soldier",
     "ja_JP": "特殊行動隊兵士",
     "zh_CN": "特别行动队士兵"
   },
   "enemy_1286_dumcy_2": {
+    "en_US": "Special Forces Captain",
     "ja_JP": "特殊行動隊隊長",
     "zh_CN": "特别行动队队长"
   },
   "enemy_1287_ducrb": {
+    "en_US": "Swamp Gloompincer",
     "ja_JP": "沼地の鉗獣",
     "zh_CN": "沼泽钳兽"
   },
   "enemy_1287_ducrb_2": {
+    "en_US": "Enraged Swamp Gloompincer",
     "ja_JP": "凶暴な沼地の鉗獣",
     "zh_CN": "狂暴沼泽钳兽"
   },
   "enemy_1288_duskls": {
+    "en_US": "Dublinn Flamechaser Soldier",
     "ja_JP": "ダブリン追炎戦士",
     "zh_CN": "深池逐火战士"
   },
   "enemy_1288_duskls_2": {
+    "en_US": "Dublinn Flamechaser Elite Soldier",
     "ja_JP": "ダブリン精鋭追炎戦士",
     "zh_CN": "深池逐火精锐战士"
   },
   "enemy_1289_dubmb": {
+    "en_US": "Dublinn Cannoneer",
     "ja_JP": "ダブリン爆撃兵",
     "zh_CN": "深池弩炮手"
   },
   "enemy_1289_dubmb_2": {
+    "en_US": "Dublinn Cannoneer Captain",
     "ja_JP": "ダブリン爆撃隊隊長",
     "zh_CN": "深池弩炮队长"
   },
   "enemy_1290_duflm": {
+    "en_US": "Dublinn Flamecaller",
     "ja_JP": "ダブリン発火術師",
     "zh_CN": "深池引火者"
   },
   "enemy_1290_duflm_2": {
+    "en_US": "Dublinn Flamecaller Captain",
     "ja_JP": "ダブリン発火術師隊長",
     "zh_CN": "深池引火者队长"
   },
   "enemy_1291_dusrch": {
+    "en_US": "Swamp Rover",
     "ja_JP": "沼地の偵察車",
     "zh_CN": "沼泽探照车"
   },
   "enemy_1291_dusrch_2": {
+    "en_US": "Heavy Swamp Rover",
     "ja_JP": "沼地の装甲偵察車",
     "zh_CN": "重型沼泽探照车"
   },
   "enemy_1292_duskld": {
+    "en_US": "Dublinn Flamechaser Guard",
     "ja_JP": "ダブリン追炎従兵",
     "zh_CN": "深池逐火护卫"
   },
   "enemy_1292_duskld_2": {
+    "en_US": "Dublinn Flamechaser Elite Guard",
     "ja_JP": "ダブリン精鋭追炎従兵",
     "zh_CN": "深池逐火精锐护卫"
   },
   "enemy_1293_duswrd": {
+    "en_US": "Dublinn Spec Ops",
     "ja_JP": "ダブリン親衛隊隊員",
     "zh_CN": "深池护卫队成员"
   },
   "enemy_1293_duswrd_2": {
+    "en_US": "Dublinn Elite Spec Ops",
     "ja_JP": "ダブリン親衛隊精鋭",
     "zh_CN": "深池护卫队精锐成员"
   },
   "enemy_1293_duswrd_3": {
+    "en_US": "'The Brigadier'",
     "ja_JP": "「将校」",
     "zh_CN": "“校官”"
   },
@@ -3268,6 +3285,7 @@
     "zh_CN": "扎罗，“狼之主”"
   },
   "enemy_1536_ncrmcr": {
+    "en_US": "'The Leader' ",
     "ja_JP": "「リーダー」",
     "zh_CN": "“领袖”"
   },
@@ -3507,6 +3525,51 @@
   "enemy_2042_syboss": {
     "zh_CN": "伊祖米克，生态泉源"
   },
+  "enemy_2043_smsbr": {
+    "zh_CN": "染污躯壳"
+  },
+  "enemy_2044_smwiz": {
+    "zh_CN": "歪曲施法者"
+  },
+  "enemy_2045_smdrn": {
+    "zh_CN": "坍缩构造体"
+  },
+  "enemy_2046_smwar": {
+    "zh_CN": "木裂战士"
+  },
+  "enemy_2047_smtree": {
+    "zh_CN": "积雪银凇"
+  },
+  "enemy_2048_smgrd": {
+    "zh_CN": "“邪魔的利刃”"
+  },
+  "enemy_2049_smgrd2": {
+    "zh_CN": "“邪魔的利刃”，游荡者"
+  },
+  "enemy_2050_smsha": {
+    "zh_CN": "陷落雪祀"
+  },
+  "enemy_2051_smsha2": {
+    "zh_CN": "空洞雪祀"
+  },
+  "enemy_2052_smgia": {
+    "zh_CN": "纠缠藤蔓"
+  },
+  "enemy_2053_smgia2": {
+    "zh_CN": "古老藤蔓"
+  },
+  "enemy_2054_smdeer": {
+    "zh_CN": "“萨米的意志”"
+  },
+  "enemy_2055_smlead": {
+    "zh_CN": "“木裂”埃克提尔尼尔"
+  },
+  "enemy_2056_smedzi": {
+    "zh_CN": "无垠回荡克雷松"
+  },
+  "enemy_2059_smbox": {
+    "zh_CN": "巨壳藤蔓"
+  },
   "enemy_3001_upeopl": {
     "en_US": "Ursus Civilian",
     "ja_JP": "ウルサス民間人",
@@ -3619,14 +3682,17 @@
     "zh_CN": "“暴食之果”"
   },
   "enemy_6010_boxing": {
+    "en_US": "'Boy Wonder' Sandel",
     "ja_JP": "「ヤングガイ」サンデル",
     "zh_CN": "“年轻人”桑德尔"
   },
   "enemy_6011_planty": {
+    "en_US": "'Nature's Compromise'",
     "ja_JP": "「自然の妥協」",
     "zh_CN": "“自然的妥协”"
   },
   "enemy_6012_plants": {
+    "en_US": "Small Symbiont",
     "ja_JP": "小型共生体",
     "zh_CN": "小型共生体"
   },

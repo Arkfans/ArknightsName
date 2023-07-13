@@ -1925,54 +1925,67 @@
     "zh_CN": "以牙还牙"
   },
   "act22side_01": {
+    "en_US": "Flight and Pursuit",
     "ja_JP": "逃げる者に追う者",
     "zh_CN": "逃离与追逐"
   },
   "act22side_02": {
+    "en_US": "Unlucky Reunion",
     "ja_JP": "不幸な再会",
     "zh_CN": "不幸重逢"
   },
   "act22side_03": {
+    "en_US": "Burn the Haystacks",
     "ja_JP": "引火",
     "zh_CN": "引燃草垛"
   },
   "act22side_04": {
+    "en_US": "Scorching Dream",
     "ja_JP": "灼熱の夢",
     "zh_CN": "热灼梦"
   },
   "act22side_05": {
+    "en_US": "Hymn of Blessing",
     "ja_JP": "祝福の歌",
     "zh_CN": "祝福的歌谣"
   },
   "act22side_06": {
+    "en_US": "Known by None",
     "ja_JP": "知る者はなし",
     "zh_CN": "无人知晓"
   },
   "act22side_07": {
+    "en_US": "Soul Spark",
     "ja_JP": "生命の煌めき",
     "zh_CN": "生灵火花"
   },
   "act22side_08": {
+    "en_US": "Her Shadow",
     "ja_JP": "彼女の影",
     "zh_CN": "她的影子"
   },
   "act22side_st01": {
+    "en_US": "Wilderness Bells",
     "ja_JP": "荒地に響く鐘",
     "zh_CN": "荒地钟声"
   },
   "act22side_st02": {
+    "en_US": "From the Ashes",
     "ja_JP": "燃え殻より",
     "zh_CN": "自灰烬之中"
   },
   "act22side_st03": {
+    "en_US": "A Sob",
     "ja_JP": "悲鳴が一つ",
     "zh_CN": "一声呜咽"
   },
   "act22side_tr01": {
+    "en_US": "Wet Earth",
     "ja_JP": "湿った土壌",
     "zh_CN": "潮湿泥土"
   },
   "act22side_tr02": {
+    "en_US": "The Spread",
     "ja_JP": "延焼",
     "zh_CN": "蔓延"
   },
@@ -2564,6 +2577,7 @@
     "zh_CN": "昏黑造船厂"
   },
   "camp_r_14": {
+    "en_US": "Research Base Hanger",
     "ja_JP": "実験基地の格納庫",
     "zh_CN": "实验基地机库"
   },
@@ -2894,50 +2908,62 @@
     "zh_CN": "无底洞"
   },
   "lt_05_01": {
+    "en_US": "The Swarming Masses",
     "ja_JP": "押し寄せる大群",
     "zh_CN": "蜂拥而上"
   },
   "lt_05_02": {
+    "en_US": "Passing Down the Profit",
     "ja_JP": "見逃せない利益",
     "zh_CN": "见者有份"
   },
   "lt_05_03": {
+    "en_US": "Industrial Improvement",
     "ja_JP": "産業アップデート",
     "zh_CN": "产业升级"
   },
   "lt_05_04": {
+    "en_US": "Bad Company",
     "ja_JP": "悪に引き込まれ",
     "zh_CN": "同流合污"
   },
   "lt_05_05": {
+    "en_US": "Tipsy Trip",
     "ja_JP": "酔いどれの旅",
     "zh_CN": "酩酊之旅"
   },
   "lt_05_06": {
+    "en_US": "A Piece of Steak",
     "ja_JP": "一切れのステーキ",
     "zh_CN": "一块肉排"
   },
   "lt_06_01": {
+    "en_US": "Jungle Greetings",
     "ja_JP": "密林流あいさつ",
     "zh_CN": "丛林式寒暄"
   },
   "lt_06_02": {
+    "en_US": "Biodiversity",
     "ja_JP": "生物の多様性",
     "zh_CN": "生物多样性"
   },
   "lt_06_03": {
+    "en_US": "Adaptation",
     "ja_JP": "驚くこともない",
     "zh_CN": "习以为常"
   },
   "lt_06_04": {
+    "en_US": "Glade",
     "ja_JP": "森の空き地",
     "zh_CN": "林间空地"
   },
   "lt_06_05": {
+    "en_US": "Not Letting Go",
     "ja_JP": "しつこい相手",
     "zh_CN": "纠缠不休"
   },
   "lt_06_06": {
+    "en_US": "Man And Nature",
     "ja_JP": "人と大自然",
     "zh_CN": "人与自然"
   },

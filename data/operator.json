@@ -50,6 +50,7 @@
     "zh_CN": "空"
   },
   "char_1020_reed2": {
+    "en_US": "Reed the Flame Shadow",
     "ja_JP": "焔影リード",
     "zh_CN": "焰影苇草"
   },
@@ -723,6 +724,7 @@
     "zh_CN": "断崖"
   },
   "char_297_hamoni": {
+    "en_US": "Harmonie",
     "ja_JP": "ハーモニー",
     "zh_CN": "和弦"
   },
@@ -996,6 +998,7 @@
     "zh_CN": "风丸"
   },
   "char_4017_puzzle": {
+    "en_US": "Puzzle",
     "ja_JP": "パズル",
     "zh_CN": "谜图"
   },
@@ -1155,6 +1158,9 @@
   },
   "char_4093_frston": {
     "zh_CN": "Friston-3"
+  },
+  "char_4102_threye": {
+    "zh_CN": "凛视"
   },
   "char_411_tomimi": {
     "en_US": "Tomimi",

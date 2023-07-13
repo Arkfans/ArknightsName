@@ -556,23 +556,23 @@ tip: 请善用浏览器的搜索功能
 | enemy_1283_sgkill_2 | 家族暗影灭迹人 | Famiglia Silent Cleaner | マフィアの一流掃除人 |
 | enemy_1284_sgprst | 阿格尼尔神父 | Father Agenir | アグニル神父 |
 | enemy_1285_sgwlf | “与我无关” | 'None of My Business' | 「関係ない」男 |
-| enemy_1286_dumcy | 特别行动队士兵 | - | 特殊行動隊兵士 |
-| enemy_1286_dumcy_2 | 特别行动队队长 | - | 特殊行動隊隊長 |
-| enemy_1287_ducrb | 沼泽钳兽 | - | 沼地の鉗獣 |
-| enemy_1287_ducrb_2 | 狂暴沼泽钳兽 | - | 凶暴な沼地の鉗獣 |
-| enemy_1288_duskls | 深池逐火战士 | - | ダブリン追炎戦士 |
-| enemy_1288_duskls_2 | 深池逐火精锐战士 | - | ダブリン精鋭追炎戦士 |
-| enemy_1289_dubmb | 深池弩炮手 | - | ダブリン爆撃兵 |
-| enemy_1289_dubmb_2 | 深池弩炮队长 | - | ダブリン爆撃隊隊長 |
-| enemy_1290_duflm | 深池引火者 | - | ダブリン発火術師 |
-| enemy_1290_duflm_2 | 深池引火者队长 | - | ダブリン発火術師隊長 |
-| enemy_1291_dusrch | 沼泽探照车 | - | 沼地の偵察車 |
-| enemy_1291_dusrch_2 | 重型沼泽探照车 | - | 沼地の装甲偵察車 |
-| enemy_1292_duskld | 深池逐火护卫 | - | ダブリン追炎従兵 |
-| enemy_1292_duskld_2 | 深池逐火精锐护卫 | - | ダブリン精鋭追炎従兵 |
-| enemy_1293_duswrd | 深池护卫队成员 | - | ダブリン親衛隊隊員 |
-| enemy_1293_duswrd_2 | 深池护卫队精锐成员 | - | ダブリン親衛隊精鋭 |
-| enemy_1293_duswrd_3 | “校官” | - | 「将校」 |
+| enemy_1286_dumcy | 特别行动队士兵 | Special Forces Soldier | 特殊行動隊兵士 |
+| enemy_1286_dumcy_2 | 特别行动队队长 | Special Forces Captain | 特殊行動隊隊長 |
+| enemy_1287_ducrb | 沼泽钳兽 | Swamp Gloompincer | 沼地の鉗獣 |
+| enemy_1287_ducrb_2 | 狂暴沼泽钳兽 | Enraged Swamp Gloompincer | 凶暴な沼地の鉗獣 |
+| enemy_1288_duskls | 深池逐火战士 | Dublinn Flamechaser Soldier | ダブリン追炎戦士 |
+| enemy_1288_duskls_2 | 深池逐火精锐战士 | Dublinn Flamechaser Elite Soldier | ダブリン精鋭追炎戦士 |
+| enemy_1289_dubmb | 深池弩炮手 | Dublinn Cannoneer | ダブリン爆撃兵 |
+| enemy_1289_dubmb_2 | 深池弩炮队长 | Dublinn Cannoneer Captain | ダブリン爆撃隊隊長 |
+| enemy_1290_duflm | 深池引火者 | Dublinn Flamecaller | ダブリン発火術師 |
+| enemy_1290_duflm_2 | 深池引火者队长 | Dublinn Flamecaller Captain | ダブリン発火術師隊長 |
+| enemy_1291_dusrch | 沼泽探照车 | Swamp Rover | 沼地の偵察車 |
+| enemy_1291_dusrch_2 | 重型沼泽探照车 | Heavy Swamp Rover | 沼地の装甲偵察車 |
+| enemy_1292_duskld | 深池逐火护卫 | Dublinn Flamechaser Guard | ダブリン追炎従兵 |
+| enemy_1292_duskld_2 | 深池逐火精锐护卫 | Dublinn Flamechaser Elite Guard | ダブリン精鋭追炎従兵 |
+| enemy_1293_duswrd | 深池护卫队成员 | Dublinn Spec Ops | ダブリン親衛隊隊員 |
+| enemy_1293_duswrd_2 | 深池护卫队精锐成员 | Dublinn Elite Spec Ops | ダブリン親衛隊精鋭 |
+| enemy_1293_duswrd_3 | “校官” | 'The Brigadier' | 「将校」 |
 | enemy_1295_ymph | 谛兽 | - | - |
 | enemy_1295_ymph_2 | 躁怒谛兽 | - | - |
 | enemy_1296_ymknif | 山海众散兵 | - | - |
@@ -698,7 +698,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1532_minima | “物欲拮抗者” | 'Materialist Antagonizer' | 「物欲の拮抗者」 |
 | enemy_1533_stmkgt | “最后的蒸汽骑士” | 'The Last Steam Knight' | 「最後の蒸気騎士」 |
 | enemy_1535_wlfmster | 扎罗，“狼之主” | Zaaro, Signore dei Lupi | 「狼主」ザーロ |
-| enemy_1536_ncrmcr | “领袖” | - | 「リーダー」 |
+| enemy_1536_ncrmcr | “领袖” | 'The Leader'  | 「リーダー」 |
 | enemy_1537_mhrors | 火龙 | - | - |
 | enemy_1538_ymmons | “睚” | - | - |
 | enemy_1538_ymmons_2 | 蜃景 | - | - |
@@ -751,6 +751,21 @@ tip: 请善用浏览器的搜索功能
 | enemy_2040_syrott | 伊莎玛拉之泪 | Ishar'mla's Tears | イシャームラの涙 |
 | enemy_2041_syjely | 伊祖米克的子代 | - | - |
 | enemy_2042_syboss | 伊祖米克，生态泉源 | - | - |
+| enemy_2043_smsbr | 染污躯壳 | - | - |
+| enemy_2044_smwiz | 歪曲施法者 | - | - |
+| enemy_2045_smdrn | 坍缩构造体 | - | - |
+| enemy_2046_smwar | 木裂战士 | - | - |
+| enemy_2047_smtree | 积雪银凇 | - | - |
+| enemy_2048_smgrd | “邪魔的利刃” | - | - |
+| enemy_2049_smgrd2 | “邪魔的利刃”，游荡者 | - | - |
+| enemy_2050_smsha | 陷落雪祀 | - | - |
+| enemy_2051_smsha2 | 空洞雪祀 | - | - |
+| enemy_2052_smgia | 纠缠藤蔓 | - | - |
+| enemy_2053_smgia2 | 古老藤蔓 | - | - |
+| enemy_2054_smdeer | “萨米的意志” | - | - |
+| enemy_2055_smlead | “木裂”埃克提尔尼尔 | - | - |
+| enemy_2056_smedzi | 无垠回荡克雷松 | - | - |
+| enemy_2059_smbox | 巨壳藤蔓 | - | - |
 | enemy_3001_upeopl | 乌萨斯平民 | Ursus Civilian | ウルサス民間人 |
 | enemy_3002_ftrtal | 斗士塔露拉 | Talulah, the Fighter | 闘士タルラ |
 | enemy_3003_alymot | 大奖赛运输艇 | Competition Transport Vessel | 大会輸送艇 |
@@ -774,9 +789,9 @@ tip: 请善用浏览器的搜索功能
 | enemy_6007_mtslm | “漫游小屋” | 'Drifting Cabin' | 「ローミングハウス」 |
 | enemy_6008_mtslms | 荧壳源石虫 | Fluorescent Originium Slug | 蛍殻オリジムシ |
 | enemy_6009_nlkgtbs | “暴食之果” | 'Fruit of Gluttony' | 「暴食の果実」 |
-| enemy_6010_boxing | “年轻人”桑德尔 | - | 「ヤングガイ」サンデル |
-| enemy_6011_planty | “自然的妥协” | - | 「自然の妥協」 |
-| enemy_6012_plants | 小型共生体 | - | 小型共生体 |
+| enemy_6010_boxing | “年轻人”桑德尔 | 'Boy Wonder' Sandel | 「ヤングガイ」サンデル |
+| enemy_6011_planty | “自然的妥协” | 'Nature's Compromise' | 「自然の妥協」 |
+| enemy_6012_plants | 小型共生体 | Small Symbiont | 小型共生体 |
 | enemy_6013_smith | 老妈的“逆女” | - | - |
 | enemy_6014_crzgas | “毒瘤” | - | - |
 | enemy_7001_blwzad | 部族巫术师 | - | - |

@@ -1044,10 +1044,12 @@
     "zh_CN": "星束交汇"
   },
   "skchr_hamoni_1": {
+    "en_US": "Lithe Steps",
     "ja_JP": "舞は軽やかに",
     "zh_CN": "轻巧舞步"
   },
   "skchr_hamoni_2": {
+    "en_US": "A Disastrous Drowning",
     "ja_JP": "耽溺の結末",
     "zh_CN": "沉溺之灾"
   },
@@ -1908,10 +1910,12 @@
     "zh_CN": "扩散电流"
   },
   "skchr_puzzle_1": {
+    "en_US": "Key Clue",
     "ja_JP": "証拠追跡",
     "zh_CN": "关键线索"
   },
   "skchr_puzzle_2": {
+    "en_US": "Follow a Lead",
     "ja_JP": "徹底追及",
     "zh_CN": "疑点追踪"
   },
@@ -1960,10 +1964,12 @@
     "zh_CN": "狼群"
   },
   "skchr_reed2_2": {
+    "en_US": "Wither and Thrive",
     "ja_JP": "盛衰を共に",
     "zh_CN": "枯荣共息"
   },
   "skchr_reed2_3": {
+    "en_US": "Ember of Life",
     "ja_JP": "命の火種",
     "zh_CN": "生命火种"
   },
@@ -2404,6 +2410,12 @@
     "en_US": "Destreza",
     "ja_JP": "デストレッツァ",
     "zh_CN": "至高之术"
+  },
+  "skchr_threye_1": {
+    "zh_CN": "我见崩毁之前"
+  },
+  "skchr_threye_2": {
+    "zh_CN": "我见枯朽之后"
   },
   "skchr_tiger_1": {
     "en_US": "Armorcrusher",
@@ -2934,14 +2946,17 @@
     "zh_CN": "放置平台"
   },
   "sktok_cdabyss": {
+    "en_US": "Ægirian Oscilloscope",
     "ja_JP": "エーギル式振波計",
     "zh_CN": "阿戈尔示波器"
   },
   "sktok_cdabyssa": {
+    "en_US": "Ægirian Oscilloscope",
     "ja_JP": "エーギル式振波計",
     "zh_CN": "阿戈尔示波器"
   },
   "sktok_cdabyssb": {
+    "en_US": "Ægirian Oscilloscope",
     "ja_JP": "エーギル式振波計",
     "zh_CN": "阿戈尔示波器"
   },
@@ -2955,26 +2970,32 @@
     "zh_CN": "能量扰动"
   },
   "sktok_cdbeacon": {
+    "en_US": "Tracer Beacon",
     "ja_JP": "追跡ビーコン",
     "zh_CN": "示踪信标"
   },
   "sktok_cdbeacona": {
+    "en_US": "Block Wavelength",
     "ja_JP": "遮断電波",
     "zh_CN": "阻断波长"
   },
   "sktok_cdbeaconb": {
+    "en_US": "Jam Wavelength",
     "ja_JP": "妨害電波",
     "zh_CN": "干扰波长"
   },
   "sktok_cdcredit": {
+    "en_US": "Adaptive Supply",
     "ja_JP": "多機能補給",
     "zh_CN": "自适应补给"
   },
   "sktok_cdcredita": {
+    "en_US": "Adaptive Supply",
     "ja_JP": "多機能補給",
     "zh_CN": "自适应补给"
   },
   "sktok_cdcreditb": {
+    "en_US": "Adaptive Supply",
     "ja_JP": "多機能補給",
     "zh_CN": "自适应补给"
   },
@@ -2988,6 +3009,7 @@
     "zh_CN": "战术装备整理"
   },
   "sktok_cdflsb": {
+    "en_US": "Shoddy Flashbang",
     "ja_JP": "粗悪なスタングレネード",
     "zh_CN": "劣质闪光弹"
   },
@@ -3001,18 +3023,22 @@
     "zh_CN": "便携式医疗设备"
   },
   "sktok_cdhvrk": {
+    "en_US": "Heavy, Insulated",
     "ja_JP": "超過重・絶縁",
     "zh_CN": "超重，绝缘"
   },
   "sktok_cdshield": {
+    "en_US": "Coating",
     "ja_JP": "コーティング",
     "zh_CN": "镀膜"
   },
   "sktok_cdshielda": {
+    "en_US": "Redeployment Conduction",
     "ja_JP": "再稼働",
     "zh_CN": "重整导能"
   },
   "sktok_cdshieldb": {
+    "en_US": "Coating",
     "ja_JP": "コーティング",
     "zh_CN": "镀膜"
   },
@@ -3070,6 +3096,7 @@
     "zh_CN": "高速共振排障"
   },
   "sktok_dplant": {
+    "en_US": "Suppress Growth",
     "ja_JP": "成長抑制",
     "zh_CN": "抑制生长"
   },
@@ -3291,6 +3318,7 @@
     "zh_CN": "触爆"
   },
   "sktok_mire": {
+    "en_US": "Mire Control",
     "ja_JP": "沼地制御",
     "zh_CN": "沼泽控制"
   },
@@ -3539,11 +3567,26 @@
     "ja_JP": "高圧ガス",
     "zh_CN": "高压喷射"
   },
+  "sktok_smbbox": {
+    "zh_CN": "诱人珍宝？"
+  },
+  "sktok_smbox": {
+    "zh_CN": "诱人珍宝"
+  },
   "sktok_smkbmb": {
     "zh_CN": "爆裂"
   },
   "sktok_smokebomb": {
     "zh_CN": "释放迷香"
+  },
+  "sktok_smpow": {
+    "zh_CN": "启动"
+  },
+  "sktok_smrbox": {
+    "zh_CN": "刺人珍宝"
+  },
+  "sktok_smtree": {
+    "zh_CN": "阻止部署"
   },
   "sktok_snflwr": {
     "zh_CN": "全自动划账"
