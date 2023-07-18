@@ -565,6 +565,7 @@ tip: 请善用浏览器的搜索功能
 | char_131_flameb@summer#8 | 悠然假日 HDm04 | Casual Vacation HDm04 | ホリデーHDm04 |
 | char_134_ifrit@kfc#1 | 儿童派对 | - | - |
 | char_134_ifrit@summer#1 | 日晒 SS.SP | Sunburn SS.SP | サンライトSS.SP |
+| char_135_halo@epoque#25 | 所愿 | - | - |
 | char_136_hsguma@nian#3 | 狩标浪人 | Ronin Huntress | 流離いの旗印 |
 | char_137_brownb@kitchen#1 | 掠蜜能手 | Honey Pilferer | ハチミツハンター |
 | char_140_whitew@boc#1 | 典雅噩兆 | Refined Horrormare | 典雅なる凶兆 |
@@ -1670,6 +1671,7 @@ tip: 请善用浏览器的搜索功能
 | act18sre | 尘影余音·复刻 | - | - |
 | act19side | 绿野幻梦 | Dorothy's Vision | 翠玉の夢 |
 | act19sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
+| act19sre | 绿野幻梦·复刻 | - | - |
 | act1bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act1checkin | 未来序曲签到活动 | - | - |
 | act1d5 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
@@ -1994,6 +1996,7 @@ tip: 请善用浏览器的搜索功能
 | act18side_token_pieces | 乐谱草稿 | Sheet Music | 手書きの楽譜 |
 | act18side_token_pieces_rep_1 | 乐谱草稿 | - | - |
 | act19side_token_reagents | 神秘试剂 | Mysterious Reagent | 謎の試薬 |
+| act19side_token_reagents_rep_1 | 神秘试剂 | - | - |
 | act1bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act1bossrush_relic_01 | 模块复用 | Reuse Module | マルチプレキシング |
 | act1bossrush_relic_02 | 迅捷处理 | Fast Processing | アクセラレーション |
@@ -2797,6 +2800,7 @@ tip: 请善用浏览器的搜索功能
 | SINGLE_39_0_1 | 执裁者 | - | - |
 | SINGLE_39_0_2 | 不协和音程 | - | - |
 | SINGLE_40_0_1 | 射落灾异的风暴 | - | - |
+| SINGLE_40_0_2 | 沙洲引路人 | - | - |
 | _ATTAIN_15_2_1 | - | Celebrate & Recollect | ロドスの道のり　回顧 |
 | _ATTAIN_22_1_2 | - | Celebration & Link-Up | ロドスの道のり・邂逅 |
 | _LIMITED_10_2_1 | - | Deep Drown Lament | 深悼 |
@@ -4723,6 +4727,8 @@ tip: 请善用浏览器的搜索功能
 | act18sre_zone2 | 小巷深处 | - | - |
 | act19side_zone1 | 实验基地 | Test Site | 実験基地 |
 | act19side_zone2 | 莱茵总部 | Rhine Headquarters | ライン生命本社 |
+| act19sre_zone1 | 实验基地 | - | - |
+| act19sre_zone2 | 莱茵总部 | - | - |
 | act1bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act1lock_zone1 | 始发营地 | Base Camp | 始発拠点 |
 | act20side_zone1 | 地底观光 | Underground Sightseeing | 地底観光 |
@@ -4788,6 +4794,8 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_13_zone2 | 圣殿之路 | - | - |
 | permanent_sidestory_14_zone1 | 夕照大厅 | - | - |
 | permanent_sidestory_14_zone2 | 小巷深处 | - | - |
+| permanent_sidestory_15_zone1 | 实验基地 | - | - |
+| permanent_sidestory_15_zone2 | 莱茵总部 | - | - |
 | permanent_sidestory_1_zone1 | 滴水村周边 | Dewville Outskirts | 滴水村周辺 |
 | permanent_sidestory_1_zone2 | 宝藏之路 | Path to Treasure | 宝への道 |
 | permanent_sidestory_2_zone1 | 主舞台 | Main Stage | メインステージ |
@@ -4913,12 +4921,14 @@ tip: 请善用浏览器的搜索功能
 | story_glacus_set_1_story_1 | 以我双腿 | - | - |
 | story_glady_set_1_story_1 | 失水症 | Dehydration | 脱水症 |
 | story_glassb_set_1_story_1 | 走吧，走吧 | Let's Go, Let's Go | さあ、行こう |
+| story_glassb_set_2_story_1 | 再见以前 | - | - |
 | story_glider_set_1_story_1 | 苦涩的根茎 | A Bitterest Rhizome | 苦い根茎 |
 | story_gravel_set_1_story_1 | 梦中过往 | Past in Dreams | 過ぎ去りし日の夢 |
 | story_greyy2_set_1_story_1 | 撰写光明 | Light, He Wrote | 綴られる光 |
 | story_greyy_set_1_story_1 | 过滤星星 | Filter Stars | 濾される星屑 |
 | story_gvial2_set_1_story_1 | 以酒精之名！ | In the Name of Alcohol! | アルコールの名のもとに！ |
 | story_haak_set_1_story_1 | 惊弓一夜 | - | - |
+| story_halo_set_1_story_1 | 实验进行中 | - | - |
 | story_hamoni_set_1_story_1 | 孤独的舞者 | Solitary Dancer | 孤独なダンサー |
 | story_hbisc2_set_1_story_1 | 无名之花 | Nameless Flower | 名もなき花 |
 | story_headbr_set_1_story_1 | 强中自有强中手 | Strong Meets Stronger | 強さに果てはなし |
@@ -4966,6 +4976,7 @@ tip: 请善用浏览器的搜索功能
 | story_morgan_set_1_story_1 | 巨轮之下 | - | - |
 | story_mostma_set_1_story_1 | 高楼之上 | Atop the Skyscrapers | 高層ビルの上で |
 | story_myrrh_set_1_story_1 | 护身符 | Lucky Charm | 御守り |
+| story_nblade_set_1_story_1 | 授刀 | - | - |
 | story_ncdeer_set_1_story_1 | 大慈恻隐 | Great Compassion | 大いなる慈悲 |
 | story_nearl2_set_1_story_1 | 起点 | Starting Point | 起点 |
 | story_nian_set_1_story_1 | 千年一叹 | A Thousand Years in a Sigh | 千年一嘆 |
@@ -5014,6 +5025,7 @@ tip: 请善用浏览器的搜索功能
 | story_slbell_set_1_story_1 | 雪山外 | Beyond the Snowy Mountain | 雪山の外 |
 | story_slchan_set_1_story_1 | 崖上之心 | Heart of the Cliffs | 崖上の心 |
 | story_sleach_set_1_story_1 | 一双羽兽 | A Pair of Fowlbeasts | つがいの羽獣 |
+| story_snakek_set_1_story_1 | 夺包奇遇 | - | - |
 | story_snsant_set_1_story_1 | 数字问题 | - | - |
 | story_sophia_set_1_story_1 | 独家访谈 | - | - |
 | story_sora_set_1_story_1 | 距离 | Distance | 距離 |

@@ -1004,6 +1004,9 @@
     "ja_JP": "謎の試薬",
     "zh_CN": "神秘试剂"
   },
+  "act19side_token_reagents_rep_1": {
+    "zh_CN": "神秘试剂"
+  },
   "act1bossrush_milestone_point": {
     "en_US": "Trial EXP",
     "ja_JP": "試練経験値",

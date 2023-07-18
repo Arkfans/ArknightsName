@@ -4265,6 +4265,12 @@
       "zh_CN": "日晒 SS.SP"
     }
   },
+  "char_135_halo@epoque#25": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "所愿"
+    }
+  },
   "char_136_hsguma@nian#3": {
     "type": "SKIN",
     "names": {
@@ -12729,6 +12735,12 @@
       "zh_CN": "限时累计签到"
     }
   },
+  "act19sre": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "绿野幻梦·复刻"
+    }
+  },
   "act1bossrush": {
     "type": "ACTIVITY",
     "names": {
@@ -15244,6 +15256,12 @@
     "names": {
       "en_US": "Mysterious Reagent",
       "ja_JP": "謎の試薬",
+      "zh_CN": "神秘试剂"
+    }
+  },
+  "act19side_token_reagents_rep_1": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "神秘试剂"
     }
   },
@@ -21099,6 +21117,12 @@
     "type": "POOL",
     "names": {
       "zh_CN": "射落灾异的风暴"
+    }
+  },
+  "SINGLE_40_0_2": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "沙洲引路人"
     }
   },
   "_ATTAIN_15_2_1": {
@@ -35898,6 +35922,18 @@
       "zh_CN": "莱茵总部"
     }
   },
+  "act19sre_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "实验基地"
+    }
+  },
+  "act19sre_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "莱茵总部"
+    }
+  },
   "act1bossrush_zone1": {
     "type": "ZONE",
     "names": {
@@ -36382,6 +36418,18 @@
     "type": "ZONE",
     "names": {
       "zh_CN": "小巷深处"
+    }
+  },
+  "permanent_sidestory_15_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "实验基地"
+    }
+  },
+  "permanent_sidestory_15_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "莱茵总部"
     }
   },
   "permanent_sidestory_1_zone1": {
@@ -37336,6 +37384,12 @@
       "zh_CN": "走吧，走吧"
     }
   },
+  "story_glassb_set_2_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "再见以前"
+    }
+  },
   "story_glider_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -37380,6 +37434,12 @@
     "type": "MEMORY",
     "names": {
       "zh_CN": "惊弓一夜"
+    }
+  },
+  "story_halo_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "实验进行中"
     }
   },
   "story_hamoni_set_1_story_1": {
@@ -37730,6 +37790,12 @@
       "en_US": "Lucky Charm",
       "ja_JP": "御守り",
       "zh_CN": "护身符"
+    }
+  },
+  "story_nblade_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "授刀"
     }
   },
   "story_ncdeer_set_1_story_1": {
@@ -38096,6 +38162,12 @@
       "en_US": "A Pair of Fowlbeasts",
       "ja_JP": "つがいの羽獣",
       "zh_CN": "一双羽兽"
+    }
+  },
+  "story_snakek_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "夺包奇遇"
     }
   },
   "story_snsant_set_1_story_1": {

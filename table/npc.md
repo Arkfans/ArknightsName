@@ -31,6 +31,7 @@ tip: 请善用浏览器的搜索功能
 | avg_109_fmout_1 | 远山 | - | - |
 | avg_110_deepcl_1 | 怪异的画家 | Eccentric Artist | 奇妙な画家 |
 | avg_115_headbr_1 | 凛冬 | Zima | ズィマー |
+|   | 凛冬&烈夏 |   |   |
 | avg_117_myrrh_1 | 末药 | Myrrh | ミルラ |
 | avg_123_fang_1 | 芬 | Fang | フェン |
 | avg_126_shotst_1 | 流星 | Meteor | メテオ |
@@ -428,34 +429,35 @@ tip: 请善用浏览器的搜索功能
 |   | 后勤部干员 | Engineering Operator | オクフェン |
 |   | 外勤干员 | Engineering Operator A | オペレーター |
 |   | 奥克芬 | Engineering Operator B | キーラン |
-|   | 工程干员 | Field Operator | グラインダー |
-|   | 工程干员A | Grace | グレース |
-|   | 工程部干员 | Guard Operator | スケール |
-|   | 工程部干员A | Hawk | ダリオ |
-|   | 工程部干员B | Logistics Operator | ディラン |
-|   | 巴蒂 | Logistics Operator A | ナビゲーターB |
-|   | 干员塞伦 | Logistics Operator A. | バティ |
-|   | 干员巴蒂 | Logistics Operator. | パイロット |
-|   | 干员弗雷德 | Masked Man | ビタールート |
-|   | 干员直尺 | Masked Rhodes Island Operator | フレッド |
-|   | 干员迪伦 | Navigator B | ホーク |
-|   | 格瑞斯 | Occphen | マスク姿の変わり者 |
-|   | 疲惫的罗德岛干员 | Office Operator | ロドスのオペレーター |
-|   | 砂轮 | Office Operator A | ロドスオペレーター |
-|   | 罗德岛外勤干员 | Operator Barty | ロドス外勤オペレーター |
-|   | 罗德岛外勤干员B | Operator Dylan | 事務所オペレーター |
-|   | 罗德岛干员 | Operator Fred | 事務所オペレーターA |
-|   | 罗德岛干员B | Operator Saren | 前衛オペレーター |
-|   | 罗德岛近卫干员 | Operator Straightedge | 前衛オペレーターA |
-|   | 苦根 | Pilot | 外勤オペレーター |
-|   | 蒙着脸的罗德岛干员 | Rhodes Island Field Operator | 外勤オペレーターB |
-|   | 蒙面怪人 | Rhodes Island Field Operator B | 後方支援オペレーター |
-|   | 达里奥 | Rhodes Island Field Personnel | 支援オペレーター |
-|   | 近卫干员 | Rhodes Island Guard | 支援オペレーターA |
-|   | 近卫干员A | Rhodes Island Operator | 疲弊したオペレーター |
-|   | 迪伦 | Sandwheel | 覆面のオペレーター |
-|   | 霍克 | Tired Rhodes Island Operator | 運転手 |
-|   | 领航员B | Vanguard Operator A |   |
+|   | 实习干员A | Field Operator | グラインダー |
+|   | 工程干员 | Grace | グレース |
+|   | 工程干员A | Guard Operator | スケール |
+|   | 工程部干员 | Hawk | ダリオ |
+|   | 工程部干员A | Logistics Operator | ディラン |
+|   | 工程部干员B | Logistics Operator A | ナビゲーターB |
+|   | 巴蒂 | Logistics Operator A. | バティ |
+|   | 干员塞伦 | Logistics Operator. | パイロット |
+|   | 干员巴蒂 | Masked Man | ビタールート |
+|   | 干员弗雷德 | Masked Rhodes Island Operator | フレッド |
+|   | 干员直尺 | Navigator B | ホーク |
+|   | 干员迪伦 | Occphen | マスク姿の変わり者 |
+|   | 格瑞斯 | Office Operator | ロドスのオペレーター |
+|   | 疲惫的罗德岛干员 | Office Operator A | ロドスオペレーター |
+|   | 砂轮 | Operator Barty | ロドス外勤オペレーター |
+|   | 罗德岛外勤干员 | Operator Dylan | 事務所オペレーター |
+|   | 罗德岛外勤干员B | Operator Fred | 事務所オペレーターA |
+|   | 罗德岛干员 | Operator Saren | 前衛オペレーター |
+|   | 罗德岛干员B | Operator Straightedge | 前衛オペレーターA |
+|   | 罗德岛近卫干员 | Pilot | 外勤オペレーター |
+|   | 苦根 | Rhodes Island Field Operator | 外勤オペレーターB |
+|   | 蒙着脸的罗德岛干员 | Rhodes Island Field Operator B | 後方支援オペレーター |
+|   | 蒙面怪人 | Rhodes Island Field Personnel | 支援オペレーター |
+|   | 达里奥 | Rhodes Island Guard | 支援オペレーターA |
+|   | 近卫干员 | Rhodes Island Operator | 疲弊したオペレーター |
+|   | 近卫干员A | Sandwheel | 覆面のオペレーター |
+|   | 迪伦 | Tired Rhodes Island Operator | 運転手 |
+|   | 霍克 | Vanguard Operator A |   |
+|   | 领航员B |   |   |
 |   | 飞行员 |   |   |
 |   | 驾驶员 |   |   |
 | avg_npc_013 | 线人 | Informant | スラム住民 |
@@ -487,14 +489,16 @@ tip: 请善用浏览器的搜索功能
 |   | 调查员 |   |   |
 |   | 酒会保安 |   |   |
 |   | 雷神工业保安 |   |   |
-| avg_npc_021 | 娱乐报记者 | Audience Member A | 客A |
-|   | 店主B | Audience Member C | 店主B |
-|   | 男性游客 | Customer A | 男性観光客 |
-|   | 男游客 | Male Tourist | 観光客の男性 |
-|   | 男游客A | Male Tourist A | 観光客の男性A |
-|   | 观众A | Passerby A | 観客A |
-|   | 观众C | Shopkeeper B | 観客C |
-|   | 路人A |   | 通りすがりA |
+| avg_npc_021 | 冒失的青年 | Audience Member A | 客A |
+|   | 娱乐报记者 | Audience Member C | 店主B |
+|   | 店主B | Customer A | 男性観光客 |
+|   | 电玩城员工？ | Male Tourist | 観光客の男性 |
+|   | 男性游客 | Male Tourist A | 観光客の男性A |
+|   | 男游客 | Passerby A | 観客A |
+|   | 男游客A | Shopkeeper B | 観客C |
+|   | 观众A |   | 通りすがりA |
+|   | 观众C |   |   |
+|   | 路人A |   |   |
 |   | 顾客A |   |   |
 | avg_npc_022 | 女性游客 | Audience Member B | 女性観光客 |
 |   | 女游客 | Customer B | 客B |
@@ -584,11 +588,13 @@ tip: 请善用浏览器的搜索功能
 |   | 男性路人 | Panicked Lungmen Citizen | 部下 |
 |   | 疑惑的粉丝 | Passerby Customer | 驚いた龍門市民 |
 |   | 看似普通的居民 | Rat King's Henchman | 麵屋の店長 |
-|   | 观众 | Seemingly Ordinary Resident | 鼠王の部下 |
-|   | 观众B | Slum Dweller | 龍門の一般市民 |
-|   | 贫民区感染者 | Subordinate | 龍門の人？ |
-|   | 贫民窟居民 | Vicious-Looking Lou Seoi Member | 龍門の男性 |
-|   | 路过的客人 | Young Citizen B |   |
+|   | 精明的青年 | Seemingly Ordinary Resident | 鼠王の部下 |
+|   | 街道管理员？ | Slum Dweller | 龍門の一般市民 |
+|   | 观众 | Subordinate | 龍門の人？ |
+|   | 观众B | Vicious-Looking Lou Seoi Member | 龍門の男性 |
+|   | 贫民区感染者 | Young Citizen B |   |
+|   | 贫民窟居民 |   |   |
+|   | 路过的客人 |   |   |
 |   | 酒保 |   |   |
 |   | 酒客？ |   |   |
 |   | 青年市民B |   |   |
@@ -823,45 +829,49 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_087 | 阿米娅 | Amiya | アーミヤ |
 | avg_npc_088 | 上课的小干员 | Anxious Young Operator | エンジニアオペレーター |
 |   | 人事干员 | Assistant Operator | サポートオペレーター |
-|   | 助理干员 | Caster Operator | ジーラ |
-|   | 后勤干员 | Engineering Operator | ナビゲーターA |
-|   | 外勤干员A | Field Operator A | 人事オペレーター |
-|   | 工程干员 | Hawking Operator | 人事部オペレーター |
-|   | 工程部新任干员 | Human Resources Operator | 冷静なオペレーター |
-|   | 摆摊的干员 | Logistics Operator | 外勤オペレーター |
-|   | 术师干员 | Navigator A | 外勤オペレーターA |
-|   | 沉稳的罗德岛干员 | Rhodes Island Field Operator | 子供オペレーター |
-|   | 着急的小干员 | Steady Rhodes Island Operator | 慌てるオペレーター |
-|   | 罗德岛外勤干员 | Young Studying Operator | 支援オペレーター |
-|   | 罗德岛干员 |   | 秘密の雑貨屋さん |
-|   | 罗德岛干员A |   | 術師オペレーター |
+|   | 人事部干员 | Caster Operator | ジーラ |
+|   | 助理干员 | Engineering Operator | ナビゲーターA |
+|   | 后勤干员 | Field Operator A | 人事オペレーター |
+|   | 外勤干员A | Hawking Operator | 人事部オペレーター |
+|   | 工程干员 | Human Resources Operator | 冷静なオペレーター |
+|   | 工程部新任干员 | Logistics Operator | 外勤オペレーター |
+|   | 席琳 | Navigator A | 外勤オペレーターA |
+|   | 摆摊的干员 | Rhodes Island Field Operator | 子供オペレーター |
+|   | 术师干员 | Steady Rhodes Island Operator | 慌てるオペレーター |
+|   | 沉稳的罗德岛干员 | Young Studying Operator | 支援オペレーター |
+|   | 着急的小干员 |   | 秘密の雑貨屋さん |
+|   | 罗德岛外勤干员 |   | 術師オペレーター |
+|   | 罗德岛干员 |   |   |
+|   | 罗德岛干员A |   |   |
 |   | 谢莉卡 |   |   |
 |   | 闲聊的干员 |   |   |
 |   | 领航员A |   |   |
 | avg_npc_089 | 办事处干员B | Field Operator | シュレッダー |
 |   | 外勤干员 | Hank | チャード |
-|   | 巡松 | Office Operator B | ハンク |
-|   | 干员查德 | Operator Chard | ベテランオペレーター |
-|   | 干员碎纸机 | Operator Shredder | ロドスオペレーター |
-|   | 汉克 | Rhodes Island Logistics Operator | ロドス後方支援オペレーター |
-|   | 狙击干员 | Rhodes Island Operator | 事務所オペレーターB |
-|   | 罗德岛后勤干员 | Seasoned Rhodes Island Operator | 外勤オペレーター |
-|   | 罗德岛干员 | Sniper Operator | 狙撃オペレーター |
+|   | 实习干员B | Office Operator B | ハンク |
+|   | 巡松 | Operator Chard | ベテランオペレーター |
+|   | 干员查德 | Operator Shredder | ロドスオペレーター |
+|   | 干员碎纸机 | Rhodes Island Logistics Operator | ロドス後方支援オペレーター |
+|   | 汉克 | Rhodes Island Operator | 事務所オペレーターB |
+|   | 狙击干员 | Seasoned Rhodes Island Operator | 外勤オペレーター |
+|   | 罗德岛后勤干员 | Sniper Operator | 狙撃オペレーター |
+|   | 罗德岛干员 |   |   |
 |   | 老练的罗德岛干员 |   |   |
 | avg_npc_090 | 办事处干员 | Chard | ウィル |
 |   | 办事处干员A | Engineering Operator | エンジニアA |
-|   | 工程部干员 | Engineering Operator A | エンジニアB |
-|   | 工程部干员A | Engineering Operator B | エンジニア部の先輩 |
-|   | 工程部干员B | Office Operator | チャード |
-|   | 干员威尔 | Office Operator A | バティ |
-|   | 干员巴蒂 | Operator Barty | ピストン |
-|   | 急促的罗德岛干员 | Operator Will | ロドスオペレーター |
-|   | 查德 | Panicked Rhodes Island Operator | 予備隊オペレーター |
-|   | 活塞 | Piston | 事務所オペレーター |
-|   | 罗德岛外勤干员A | Reserve Operator | 事務所オペレーターA |
-|   | 罗德岛干员 | Rhodes Island Field Operator A | 外勤オペレーターA |
-|   | 认真的干员 | Rhodes Island Operator | 慌てたオペレーター |
-|   | 路崎 | Serious Operator | 真面目なオペレーター |
+|   | 实习干员C | Engineering Operator A | エンジニアB |
+|   | 工程部干员 | Engineering Operator B | エンジニア部の先輩 |
+|   | 工程部干员A | Office Operator | チャード |
+|   | 工程部干员B | Office Operator A | バティ |
+|   | 干员威尔 | Operator Barty | ピストン |
+|   | 干员巴蒂 | Operator Will | ロドスオペレーター |
+|   | 急促的罗德岛干员 | Panicked Rhodes Island Operator | 予備隊オペレーター |
+|   | 查德 | Piston | 事務所オペレーター |
+|   | 活塞 | Reserve Operator | 事務所オペレーターA |
+|   | 罗德岛外勤干员A | Rhodes Island Field Operator A | 外勤オペレーターA |
+|   | 罗德岛干员 | Rhodes Island Operator | 慌てたオペレーター |
+|   | 认真的干员 | Serious Operator | 真面目なオペレーター |
+|   | 路崎 |   |   |
 |   | 重装干员 |   |   |
 |   | 预备干员 |   |   |
 | avg_npc_091 | 恶魔帮成员 | Fiends Gang Member | サルカズの群れ |
@@ -970,6 +980,7 @@ tip: 请善用浏览器的搜索功能
 |   | 粗犷的村民 |   |   |
 |   | 紧张的村民 |   |   |
 |   | 耕作的村民 |   |   |
+|   | 街边摊老板 |   |   |
 |   | 警惕的村民 |   |   |
 |   | 路过的村民A |   |   |
 | avg_npc_141 | 女侠？ | Clinician | 女侠？ |
@@ -1782,6 +1793,7 @@ tip: 请善用浏览器的搜索功能
 |   | 研究员B | Rhine Lab Tech | 研究員D |
 |   | 研究员D | Rhine Researcher |   |
 |   | 莱茵实验员 |   |   |
+|   | 莱茵实验员A |   |   |
 |   | 莱茵生命研究员 |   |   |
 |   | 莱茵研究员 |   |   |
 |   | 莱茵职员 |   |   |
@@ -1795,6 +1807,7 @@ tip: 请善用浏览器的搜索功能
 |   | 科考科成员 |   |   |
 |   | 能量科研究员 |   |   |
 |   | 莱茵实验员 |   |   |
+|   | 莱茵实验员B |   |   |
 |   | 莱茵职员B |   |   |
 |   | 莱茵职员？ |   |   |
 | avg_npc_531_1 | 帕尔维斯 | Parvis | パルヴィス |
@@ -2353,7 +2366,8 @@ tip: 请善用浏览器的搜索功能
 | char_1505_frstar_1 | 霜星 | FrostNova | フロストノヴァ |
 | char_1507_Mephisto_1 | 梅菲斯特 | Mephisto | メフィスト |
 | char_1508_Faust_1 | 浮士德 | Faust | ファウスト |
-| char_150_snakekiller_1 | 蛇屠箱 | Cuora | クオーラ |
+| char_150_snakekiller_1 | 卡缇&蛇屠箱 | Cuora | クオーラ |
+|   | 蛇屠箱 |   |   |
 | char_151_myrtle_1 | 桃金娘 | Myrtle | テンニンカ |
 | char_154_morgan_1 | 摩根 | Morgan | モーガン |
 | char_155_tiger_1 | 因陀罗 | Indra | インドラ |

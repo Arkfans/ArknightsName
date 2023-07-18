@@ -90,6 +90,8 @@ tip: 请善用浏览器的搜索功能
 | act18sre_zone2 | 小巷深处 | - | - |
 | act19side_zone1 | 实验基地 | Test Site | 実験基地 |
 | act19side_zone2 | 莱茵总部 | Rhine Headquarters | ライン生命本社 |
+| act19sre_zone1 | 实验基地 | - | - |
+| act19sre_zone2 | 莱茵总部 | - | - |
 | act1bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act1lock_zone1 | 始发营地 | Base Camp | 始発拠点 |
 | act20side_zone1 | 地底观光 | Underground Sightseeing | 地底観光 |
@@ -155,6 +157,8 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_13_zone2 | 圣殿之路 | - | - |
 | permanent_sidestory_14_zone1 | 夕照大厅 | - | - |
 | permanent_sidestory_14_zone2 | 小巷深处 | - | - |
+| permanent_sidestory_15_zone1 | 实验基地 | - | - |
+| permanent_sidestory_15_zone2 | 莱茵总部 | - | - |
 | permanent_sidestory_1_zone1 | 滴水村周边 | Dewville Outskirts | 滴水村周辺 |
 | permanent_sidestory_1_zone2 | 宝藏之路 | Path to Treasure | 宝への道 |
 | permanent_sidestory_2_zone1 | 主舞台 | Main Stage | メインステージ |

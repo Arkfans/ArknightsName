@@ -398,6 +398,12 @@
     "ja_JP": "ライン生命本社",
     "zh_CN": "莱茵总部"
   },
+  "act19sre_zone1": {
+    "zh_CN": "实验基地"
+  },
+  "act19sre_zone2": {
+    "zh_CN": "莱茵总部"
+  },
   "act1bossrush_zone1": {
     "en_US": "Threat Incoming",
     "ja_JP": "強敵襲来",
@@ -688,6 +694,12 @@
   },
   "permanent_sidestory_14_zone2": {
     "zh_CN": "小巷深处"
+  },
+  "permanent_sidestory_15_zone1": {
+    "zh_CN": "实验基地"
+  },
+  "permanent_sidestory_15_zone2": {
+    "zh_CN": "莱茵总部"
   },
   "permanent_sidestory_1_zone1": {
     "en_US": "Dewville Outskirts",
