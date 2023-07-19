@@ -2080,7 +2080,6 @@ tip: 请善用浏览器的搜索功能
 |   | 村民 |   |   |
 |   | 来客 |   |   |
 |   | 着急的村民 |   |   |
-|   | 紧张的村民&着急的村民 |   |   |
 |   | 荆先生 |   |   |
 |   | 退役的军士 |   |   |
 |   | 阮先生 |   |   |
@@ -2255,7 +2254,6 @@ tip: 请善用浏览器的搜索功能
 |   |   | Vanguard Operator |   |
 |   |   | Vanguard Operator B |   |
 | char_014_riope | Ace | Ace | Ace |
-| char_014_riope" ,name2="char_130_doberm_ex | Ace | Ace | Ace |
 | char_015_lmg | 兵俑 | Beckbeast Trainer | ジン警官 |
 |   | 循兽训练员 | Exhausted L.G.D. Officer | ベテラン近衛局員 |
 |   | 疲惫的近卫局成员 | Frivolous L.G.D. Officer | 幻影兵 |
