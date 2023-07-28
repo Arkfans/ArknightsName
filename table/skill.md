@@ -50,8 +50,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_aurora_2 | 人工降雪 | Artificial Snowfall | 人工降雪 |
 | skchr_ayer_1 | 多导向散射弹丸 | Shrapnel Burst | 多目標型散弾 |
 | skchr_ayer_2 | 浮游刃启动 | Activate Phase Blades | ブレイドビット起動 |
-| skchr_bdhkgt_1 | 探前路 | - | - |
-| skchr_bdhkgt_2 | 掷旧尘 | - | - |
+| skchr_bdhkgt_1 | 探前路 | - | 前路を調べ |
+| skchr_bdhkgt_2 | 掷旧尘 | - | 旧塵を擲つ |
 | skchr_beewax_1 | 沙暴扩散 | Growing Sandstorm | 砂嵐拡散 |
 | skchr_beewax_2 | 守卫尖碑 | Guardian Obelisk | オベリスク召喚 |
 | skchr_bena_1 | 奋力修剪 | Fervent Trimming | フルトリミング |
@@ -111,9 +111,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_chimes_2 | 乡心无改 | - | - |
 | skchr_chnut_1 | 积微成著 | Little by Little | 積土成山 |
 | skchr_chnut_2 | 厚土迸发 | Rising Earth | 厚土の脈動 |
-| skchr_chyue_1 | 冲盈 | - | - |
-| skchr_chyue_2 | 拂尘 | - | - |
-| skchr_chyue_3 | 我无 | - | - |
+| skchr_chyue_1 | 冲盈 | - | 満盈 |
+| skchr_chyue_2 | 拂尘 | - | 払塵 |
+| skchr_chyue_3 | 我无 | - | 我無 |
 | skchr_clour_2 | 双弦开弓 | Double Shot | デュアルアロー |
 | skchr_cqbw_1 | 红桃K | King of Hearts | ハートのK |
 | skchr_cqbw_2 | 惊吓盒子 | Jack in the Box | びっくり箱 |
@@ -162,8 +162,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_fartth_3 | 光羽箭 | Feathershine Arrows | フェザーアロー |
 | skchr_finlpp_1 | 治愈水波 | Healing Waves | ヒールウェーブ |
 | skchr_finlpp_2 | 涌泉 | Lifespring | ピュアスプリング |
-| skchr_firwhl_1 | 野火 | - | - |
-| skchr_firwhl_2 | 焦土 | - | - |
+| skchr_firwhl_1 | 野火 | - | ワイルドファイア |
+| skchr_firwhl_2 | 焦土 | - | バーングラウンド |
 | skchr_flameb_1 | 歃血 | Blood Pact | 血化粧 |
 | skchr_flameb_2 | 刃鬼 | Blade Demon | 刃鬼 |
 | skchr_flamtl_1 | 迅敏直觉 | Quick Intuition | 俊敏なる直覚 |
@@ -289,9 +289,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_lava2_1 | 焰淬匕首 | Flame Quenched Dagger | フレイムエンチャント |
 | skchr_lava2_2 | 狱火之环 | Ring of Hellfire | プルガトリオ |
 | skchr_leizi_2 | 初雷 | Thunderclap | 初雷 |
-| skchr_lin_1 | 玲珑 | - | - |
-| skchr_lin_2 | 荫庇 | - | - |
-| skchr_lin_3 | 流光乍裂 | - | - |
+| skchr_lin_1 | 玲珑 | - | 玲瓏 |
+| skchr_lin_2 | 荫庇 | - | 木陰 |
+| skchr_lin_3 | 流光乍裂 | - | 流光炸裂 |
 | skchr_ling_1 | 重进酒 | Sips of Wine | 重ねて酒を進み |
 | skchr_ling_2 | 笑鸣瑟 | Amidst Pleasant Melodies | 笑いて瑟を鼓せ |
 | skchr_ling_3 | 宁作吾 | To Remain Oneself | 寧ろ吾をなさん |

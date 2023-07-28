@@ -225,9 +225,11 @@
     "zh_CN": "浮游刃启动"
   },
   "skchr_bdhkgt_1": {
+    "ja_JP": "前路を調べ",
     "zh_CN": "探前路"
   },
   "skchr_bdhkgt_2": {
+    "ja_JP": "旧塵を擲つ",
     "zh_CN": "掷旧尘"
   },
   "skchr_beewax_1": {
@@ -520,12 +522,15 @@
     "zh_CN": "厚土迸发"
   },
   "skchr_chyue_1": {
+    "ja_JP": "満盈",
     "zh_CN": "冲盈"
   },
   "skchr_chyue_2": {
+    "ja_JP": "払塵",
     "zh_CN": "拂尘"
   },
   "skchr_chyue_3": {
+    "ja_JP": "我無",
     "zh_CN": "我无"
   },
   "skchr_clour_2": {
@@ -763,9 +768,11 @@
     "zh_CN": "涌泉"
   },
   "skchr_firwhl_1": {
+    "ja_JP": "ワイルドファイア",
     "zh_CN": "野火"
   },
   "skchr_firwhl_2": {
+    "ja_JP": "バーングラウンド",
     "zh_CN": "焦土"
   },
   "skchr_flameb_1": {
@@ -1374,12 +1381,15 @@
     "zh_CN": "初雷"
   },
   "skchr_lin_1": {
+    "ja_JP": "玲瓏",
     "zh_CN": "玲珑"
   },
   "skchr_lin_2": {
+    "ja_JP": "木陰",
     "zh_CN": "荫庇"
   },
   "skchr_lin_3": {
+    "ja_JP": "流光炸裂",
     "zh_CN": "流光乍裂"
   },
   "skchr_ling_1": {

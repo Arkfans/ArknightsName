@@ -2840,51 +2840,67 @@
     "zh_CN": "“校官”"
   },
   "enemy_1295_ymph": {
+    "ja_JP": "諦獣",
     "zh_CN": "谛兽"
   },
   "enemy_1295_ymph_2": {
+    "ja_JP": "怒れる諦獣",
     "zh_CN": "躁怒谛兽"
   },
   "enemy_1296_ymknif": {
+    "ja_JP": "山海衆雑兵",
     "zh_CN": "山海众散兵"
   },
   "enemy_1296_ymknif_2": {
+    "ja_JP": "山海衆遊撃隊",
     "zh_CN": "山海众游勇"
   },
   "enemy_1297_ymflag": {
+    "ja_JP": "山海衆伝令兵",
     "zh_CN": "山海众传令手"
   },
   "enemy_1297_ymflag_2": {
+    "ja_JP": "山海衆伝令官",
     "zh_CN": "山海众掌令使"
   },
   "enemy_1298_ymmonk": {
+    "ja_JP": "山海衆守護者",
     "zh_CN": "山海众冒矢者"
   },
   "enemy_1298_ymmonk_2": {
+    "ja_JP": "山海衆連陣守護者",
     "zh_CN": "山海众连阵者"
   },
   "enemy_1299_ymkilr": {
+    "ja_JP": "山海衆精鋭",
     "zh_CN": "山海众头目"
   },
   "enemy_1299_ymkilr_2": {
+    "ja_JP": "山海衆密使",
     "zh_CN": "山海众秘使"
   },
   "enemy_1300_ymmir": {
+    "ja_JP": "山海衆霊視者",
     "zh_CN": "山海众窥魅人"
   },
   "enemy_1300_ymmir_2": {
+    "ja_JP": "山海衆怪術師",
     "zh_CN": "山海众司魅人"
   },
   "enemy_1301_ymcnon": {
+    "ja_JP": "「破堅」",
     "zh_CN": "“破坚”"
   },
   "enemy_1301_ymcnon_2": {
+    "ja_JP": "「砕壁」",
     "zh_CN": "“碎壁”"
   },
   "enemy_1302_ymtro": {
+    "ja_JP": "「砂行」",
     "zh_CN": "“履平沙”"
   },
   "enemy_1302_ymtro_2": {
+    "ja_JP": "「長塵」",
     "zh_CN": "“越长尘”"
   },
   "enemy_1303_mhshep": {
@@ -2942,6 +2958,7 @@
     "zh_CN": "恶狡兽"
   },
   "enemy_1312_ymillu": {
+    "ja_JP": "「無我の冬」",
     "zh_CN": "“无念之冬”"
   },
   "enemy_1313_wdfmr": {
@@ -3293,12 +3310,15 @@
     "zh_CN": "火龙"
   },
   "enemy_1538_ymmons": {
+    "ja_JP": "「睚」",
     "zh_CN": "“睚”"
   },
   "enemy_1538_ymmons_2": {
+    "ja_JP": "蜃気楼",
     "zh_CN": "蜃景"
   },
   "enemy_1538_ymmons_3": {
+    "ja_JP": "妄境",
     "zh_CN": "妄境"
   },
   "enemy_1539_reid": {

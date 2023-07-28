@@ -28,7 +28,7 @@ tip: 请善用浏览器的搜索功能
 | act13d2d1 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act13d2d2 | 骑兵与猎人复刻签到 | Grani and the Knights' Treasure Rerun Sign-in | 騎兵と狩人・復刻ログボ |
 | act13d5 | 玛莉娅·临光 | Maria Nearl | マリア・ニアール |
-| act13login | 登录领取奖励 | - | - |
+| act13login | 登录领取奖励 | - | ログイン報酬 |
 | act13mini | 好久不见 | It's Been a While | また会えたね |
 | act13side | 长夜临光 | Near Light | ニアーライト |
 | act13sre | 长夜临光·复刻 | Near Light - Rerun | ニアーライト·復刻 |
@@ -45,7 +45,7 @@ tip: 请善用浏览器的搜索功能
 | act15login | 登录领取奖励 | - | - |
 | act15mini | 眠于树影之中 | - | - |
 | act15side | 将进酒 | Invitation to Wine | 将進酒 |
-| act15sre | 将进酒·复刻 | - | - |
+| act15sre | 将进酒·复刻 | - | 将進酒・復刻 |
 | act16d5 | 画中人 | Who Is Real | 画中人 |
 | act16d5d1 | 登录领取奖励 | Sign-in Campaign | ログイン報酬 |
 | act16d5d2 | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |
@@ -87,7 +87,7 @@ tip: 请善用浏览器的搜索功能
 | act21sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act22side | 照我以火 | What the Firelight Casts | この炎が照らす先 |
 | act22sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
-| act23side | 登临意 | - | - |
+| act23side | 登临意 | - | 登臨意 |
 | act23sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act24side | 落叶逐火 | - | - |
 | act24sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
@@ -106,7 +106,7 @@ tip: 请善用浏览器的搜索功能
 | act30sign | 秋风送爽限时登录活动 | Snow Upon Autumnal Winds Limited Login Event | 早春の風スタンプラリー |
 | act31sign | 正逢雨季限时登录活动 | Rain Season Limited Login Event | 長雨の候スタンプラリー |
 | act32sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
-| act33sign | 限时累计签到 | - | - |
+| act33sign | 限时累计签到 | - | 期間限定ログインボーナス |
 | act38d1 | 尖灭测试作战 | - | - |
 | act3d0 | 火蓝之心 | Heart of Surging Flame | 青く燃ゆる心 |
 | act3d5 | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
@@ -123,7 +123,7 @@ tip: 请善用浏览器的搜索功能
 イベント |
 | act5d0 | 喧闹法则 | Code of Brawl | 喧騒の掟 |
 | act5d1 | 危机合约 | Contingency Contract | 危機契約 |
-| act5pray | 龙门幸运墙登录活动 | - | - |
+| act5pray | 龙门幸运墙登录活动 | - | 龍門おみくじ |
 | act5sre | 沃伦姆德的薄暮·复刻 | Twilight of Wolumonde - Rerun | ウォルモンドの薄暮・復刻 |
 | act6d0 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act6d5 | 洪炉示岁 | Ancient Forge | 洪炉示歳 |

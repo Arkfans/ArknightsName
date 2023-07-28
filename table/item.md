@@ -19,9 +19,9 @@ tip: 请善用浏览器的搜索功能
 | 2022recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 3.5周年特別スカウト券α |
 | 2022recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 3.5周年特別スカウト券β |
 | 2022recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 3.5周年特別スカウト券γ |
-| 2023recruitment10_1 | α类新年寻访凭证 | - | - |
-| 2023recruitment10_2 | β类新年寻访凭证 | - | - |
-| 2023recruitment10_3 | γ类新年寻访凭证 | - | - |
+| 2023recruitment10_1 | α类新年寻访凭证 | - | 3.5周年特別スカウト券α |
+| 2023recruitment10_2 | β类新年寻访凭证 | - | 3.5周年特別スカウト券β |
+| 2023recruitment10_3 | γ类新年寻访凭证 | - | 3.5周年特別スカウト券γ |
 | 30011 | 源岩 | Orirock | 源岩鉱 |
 | 30012 | 固源岩 | Orirock Cube | 初級源岩 |
 | 30013 | 固源岩组 | Orirock Cluster | 中級源岩 |
@@ -135,7 +135,7 @@ tip: 请善用浏览器的搜索功能
 | LIMITED_TKT_GACHA_10_2701 | 晨雾灯塔寻访凭证 | Lighthouse in Morning Mist Headhunting Permit | 感謝祭記念10回スカウト券 |
 | LIMITED_TKT_GACHA_10_3001 | 淬火成诗寻访凭证 | Tempered into Poetry Headhunting Permit | 3周年記念10回スカウト券 |
 | LIMITED_TKT_GACHA_10_3301 | 归狼踏影寻访凭证 | Wolves Stalk Shadows Headhunting Permit | 感謝祭記念10回スカウト券 |
-| LIMITED_TKT_GACHA_10_3501 | 长风万里寻访凭证 | - | - |
+| LIMITED_TKT_GACHA_10_3501 | 长风万里寻访凭证 | - | 3.5周年記念10回スカウト券 |
 | LIMITED_TKT_GACHA_10_3801 | 未来序曲寻访凭证 | - | - |
 | LIMITED_TKT_GACHA_10_903 | 苏醒纪念寻访凭证 | Awakening Commemoration Permit | 1周年記念10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_1701 | 特勤专家寻访凭证 | Elite Forces Headhunting Permit | 精鋭小隊10回スカウト券 |
@@ -150,7 +150,7 @@ tip: 请善用浏览器的搜索功能
 | LMTGS_COIN_2701 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_3001 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_3301 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
-| LMTGS_COIN_3501 | 寻访数据契约 | - | - |
+| LMTGS_COIN_3501 | 寻访数据契约 | - | 限定契約証 |
 | LMTGS_COIN_3801 | 寻访数据契约 | - | - |
 | LMTGS_COIN_601 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_903 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
@@ -197,7 +197,7 @@ tip: 请善用浏览器的搜索功能
 | act15d5_token_postcard | 奇景明信片 | Wondrous Postcard | 奇景絵葉書 |
 | act15mini_token_figurine | 指木雕刻 | - | - |
 | act15side_token_tea | 罐装晌午茶 | Canned Tea | 正午茶 |
-| act15side_token_tea_rep_1 | 罐装晌午茶 | - | - |
+| act15side_token_tea_rep_1 | 罐装晌午茶 | - | 正午茶 |
 | act16d5_token_inker | 夕墨 | Dusk Inkstick | 夕墨 |
 | act16d5_token_inker_rep_1 | 夕墨 | Dusk Inkstick | 夕墨 |
 | act16side_token_bolt | 蚀刻弹弹壳 | Etched Bullet Casing | エッチング弾薬莢 |
@@ -225,7 +225,7 @@ tip: 请善用浏览器的搜索功能
 | act20side_token_book | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
 | act21side_token_permesso | 进货通行证 | Permesso di Importazione | 買付許可証 |
 | act22side_token_manuscript | 手抄歌谣集 | Manuscripts of Ballads | 民謡集の写本 |
-| act23side_token_spirit | 新酿烈刀子 | - | - |
+| act23side_token_spirit | 新酿烈刀子 | - | 烈刀子 |
 | act24side_melding_1 | 破碎的骨片 | - | - |
 | act24side_melding_2 | 源石虫的硬壳 | - | - |
 | act24side_melding_3 | 鬣犄兽的尖锐齿 | - | - |
@@ -277,11 +277,11 @@ tip: 请善用浏览器的搜索功能
 | ap_supply_lt_100_2022_3 | 喀兰炭烤肉排佐松露酱 | Karlan Chargrill Barbecue Ribs with Truffle Paste | カランド風炭焼きステーキ |
 | ap_supply_lt_100_2022_4 | 可食用立方体 | Edible Cubes | 食用立方体 |
 | ap_supply_lt_100_2022_5 | 雷姆必拓西瓜蛋糕 | Rim Billiton Watermelon Cake | レム・ビリトン式スイカケーキ |
-| ap_supply_lt_100_2023_1 | 摘自画卷的柿子 | - | - |
-| ap_supply_lt_100_2023_2 | 香脆桃酥饼 | - | - |
-| ap_supply_lt_100_2023_3 | 香辣火炉 | - | - |
-| ap_supply_lt_100_2023_4 | 金糖年糕 | - | - |
-| ap_supply_lt_100_2023_5 | 木瓜叶馅饼 | - | - |
+| ap_supply_lt_100_2023_1 | 摘自画卷的柿子 | - | 絵巻からもいだ柿 |
+| ap_supply_lt_100_2023_2 | 香脆桃酥饼 | - | カリカリの桃酥 |
+| ap_supply_lt_100_2023_3 | 香辣火炉 | - | 香辣火炉 |
+| ap_supply_lt_100_2023_4 | 金糖年糕 | - | 金糖もち |
+| ap_supply_lt_100_2023_5 | 木瓜叶馅饼 | - | パパイア葉のパイ |
 | ap_supply_lt_120 | 应急理智浓缩液 | Emergency Sanity Concentrate | 上級理性回復剤+ |
 | ap_supply_lt_120_2022_1 | 满颜色 | Full Color | 一家団欒 |
 | ap_supply_lt_120_2022_2 | 正圆月 | Full Moon | 仲秋名月 |
@@ -449,16 +449,16 @@ tip: 请善用浏览器的搜索功能
 | et_ObsidianPass_rep_1 | 黑曜石节门票 | Obsidian Festival Ticket | フェスチケット |
 | favor_add_ulika | 主播U的直播切片 | - | - |
 | itempack_gacha_1 | 福运鼓鼓礼袋 | - | - |
-| itempack_mod_10 | 狙击芯片组印刻仪 | - | - |
-| itempack_mod_11 | 术师芯片组印刻仪 | - | - |
-| itempack_mod_12 | 医疗芯片组印刻仪 | - | - |
-| itempack_mod_13 | 辅助芯片组印刻仪 | - | - |
-| itempack_mod_14 | 特种芯片组印刻仪 | - | - |
+| itempack_mod_10 | 狙击芯片组印刻仪 | - | 中級狙撃SoCプリンター |
+| itempack_mod_11 | 术师芯片组印刻仪 | - | 中級術師SoCプリンター |
+| itempack_mod_12 | 医疗芯片组印刻仪 | - | 中級医療SoCプリンター |
+| itempack_mod_13 | 辅助芯片组印刻仪 | - | 中級補助SoCプリンター |
+| itempack_mod_14 | 特种芯片组印刻仪 | - | 中級特殊SoCプリンター |
 | itempack_mod_4 | 模组数据整合块 | - | - |
 | itempack_mod_6 | 模组数据整合箱 | - | - |
-| itempack_mod_7 | 先锋芯片组印刻仪 | - | - |
-| itempack_mod_8 | 近卫芯片组印刻仪 | - | - |
-| itempack_mod_9 | 重装芯片组印刻仪 | - | - |
+| itempack_mod_7 | 先锋芯片组印刻仪 | - | 中級先鋒SoCプリンター |
+| itempack_mod_8 | 近卫芯片组印刻仪 | - | 中級前衛SoCプリンター |
+| itempack_mod_9 | 重装芯片组印刻仪 | - | 中級重装SoCプリンター |
 | mcardVoucher | 月卡 | - | - |
 | medal_activity_15side_01 | “诗酒乘兴” | 'The Joys of Poetry and Wine' | 「酔吟の興」 |
 | medal_activity_15side_03 | “寒芒新淬” | 'Refreshed in Cold Light' | 「寒芒新たに淬ぐ」 |
@@ -559,7 +559,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_2015_dusk | 夕的信物 | Dusk's Token | シーの印 |
 | p_char_201_moeshd | 可颂的信物 | Croissant's Token | クロワッサンの印 |
 | p_char_2023_ling | 令的信物 | Ling's Token | リィンの印 |
-| p_char_2024_chyue | 重岳的信物 | - | - |
+| p_char_2024_chyue | 重岳的信物 | - | チョンユエの印 |
 | p_char_202_demkni | 塞雷娅的信物 | Saria's Token | サリアの印 |
 | p_char_204_platnm | 白金的信物 | Platinum's Token | プラチナの印 |
 | p_char_206_gnosis | 灵知的信物 | Gnosis's Token | ノーシスの印 |
@@ -698,8 +698,8 @@ tip: 请善用浏览器的搜索功能
 | p_char_4071_peper | 明椒的信物 | Paprika's Token | パプリカの印 |
 | p_char_4072_ironmn | 白铁的信物 | Stainless's Token | ステインレスの印 |
 | p_char_4077_palico | 泰拉大陆调查团的信物 | - | - |
-| p_char_4078_bdhkgt | 截云的信物 | - | - |
-| p_char_4080_lin | 林的信物 | - | - |
+| p_char_4078_bdhkgt | 截云的信物 | - | ジエユンの印 |
+| p_char_4080_lin | 林的信物 | - | リンの印 |
 | p_char_4082_qiubai | 仇白的信物 | - | - |
 | p_char_4083_chimes | 铎铃的信物 | - | - |
 | p_char_4087_ines | 伊内丝的信物 | - | - |
@@ -743,7 +743,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_489_serum | 蚀清的信物 | Corroserum's Token | コロセラムの印 |
 | p_char_491_humus | 休谟斯的信物 | - | - |
 | p_char_492_quercu | 夏栎的信物 | Quercus's Token | クエルクスの印 |
-| p_char_493_firwhl | 火哨的信物 | - | - |
+| p_char_493_firwhl | 火哨的信物 | - | ファイヤーホイッスルの印 |
 | p_char_496_wildmn | 野鬃的信物 | Wild Mane's Token | ワイルドメインの印 |
 | p_char_497_ctable | 晓歌的信物 | Cantabile's Token | カンタービレの印 |
 | p_char_498_inside | 隐现的信物 | - | - |
@@ -858,7 +858,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_fNearl | 玛莉娅·临光家具收藏包 | Maria Nearl Furniture Pack | マリア・ニアール家具パック |
 | uni_set_guitar | 火蓝之心家具收藏包 | Heart of Surging Flame Furniture Pack | 青く燃ゆる心家具パック |
 | uni_set_icu | 遗尘漫步家具收藏包 | - | - |
-| uni_set_inkArt | 画中人家具收藏包 | - | - |
+| uni_set_inkArt | 画中人家具收藏包 | - | 画中人家具パック |
 | uni_set_nightView | 沃伦姆德的薄暮家具收藏包 | Twilight of Wolumonde Furniture Pack | ウォルモンドの薄暮家具パック |
 | uni_set_outdoor_1 | 海滨印象家具收藏包一 | Beachside Impressions Furniture Pack I | 海辺風家具パックvol.1 |
 | uni_set_outdoor_2 | 海滨印象家具收藏包二 | Beachside Impressions Furniture Pack II | 海辺風家具パックvol.2 |
@@ -869,7 +869,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_5chipPackage | 自助芯片印刻仪 | - | - |
 | voucher_chip | 芯片自助打印盒 | Automatic Chip Printer | 初級SoCセルフプリンター |
 | voucher_chipPack | 芯片组自助打印盒 | Automatic Chip Pack Printer | 中級SoCセルフプリンター |
-| voucher_chipPackage | 自助芯片组印刻仪 | - | - |
+| voucher_chipPackage | 自助芯片组印刻仪 | - | SoCセルフプリンター |
 | voucher_elite_II_5 | 资深干员特训邀请函 | Senior Operator Training Invitation Letter | ★5特訓招待状 |
 | voucher_elite_II_6 | 高级资深干员特训邀请函 | - | - |
 | voucher_full_absin | 苦艾的私人信件 | Absinthe's Personal Letter | アブサントの手紙 |
@@ -880,7 +880,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_full_folnic | 亚叶的私人信件 | Folinic's Personal Letter | フォリニックの手紙 |
 | voucher_full_glady | 歌蕾蒂娅的私人信件 | - | - |
 | voucher_full_grani | 格拉尼的私人信件 | Grani's Personal Letter | グラニの手紙 |
-| voucher_full_lava2 | 炎狱炎熔的私人信件 | - | - |
+| voucher_full_lava2 | 炎狱炎熔的私人信件 | - | 炎獄ラヴァの手紙 |
 | voucher_full_mint | 薄绿的私人信件 | Mint's Personal Letter | ミントの手紙 |
 | voucher_full_robin | 罗宾的私人信件 | Robin's Personal Letter | ロビンの手紙 |
 | voucher_full_sidero | 铸铁的私人信件 | Sideroca's Personal Letter | シデロカの手紙 |

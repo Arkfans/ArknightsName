@@ -70,12 +70,15 @@
     "zh_CN": "γ类新年寻访凭证"
   },
   "2023recruitment10_1": {
+    "ja_JP": "3.5周年特別スカウト券α",
     "zh_CN": "α类新年寻访凭证"
   },
   "2023recruitment10_2": {
+    "ja_JP": "3.5周年特別スカウト券β",
     "zh_CN": "β类新年寻访凭证"
   },
   "2023recruitment10_3": {
+    "ja_JP": "3.5周年特別スカウト券γ",
     "zh_CN": "γ类新年寻访凭证"
   },
   "30011": {
@@ -644,6 +647,7 @@
     "zh_CN": "归狼踏影寻访凭证"
   },
   "LIMITED_TKT_GACHA_10_3501": {
+    "ja_JP": "3.5周年記念10回スカウト券",
     "zh_CN": "长风万里寻访凭证"
   },
   "LIMITED_TKT_GACHA_10_3801": {
@@ -711,6 +715,7 @@
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_3501": {
+    "ja_JP": "限定契約証",
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_3801": {
@@ -936,6 +941,7 @@
     "zh_CN": "罐装晌午茶"
   },
   "act15side_token_tea_rep_1": {
+    "ja_JP": "正午茶",
     "zh_CN": "罐装晌午茶"
   },
   "act16d5_token_inker": {
@@ -1066,6 +1072,7 @@
     "zh_CN": "手抄歌谣集"
   },
   "act23side_token_spirit": {
+    "ja_JP": "烈刀子",
     "zh_CN": "新酿烈刀子"
   },
   "act24side_melding_1": {
@@ -1288,18 +1295,23 @@
     "zh_CN": "雷姆必拓西瓜蛋糕"
   },
   "ap_supply_lt_100_2023_1": {
+    "ja_JP": "絵巻からもいだ柿",
     "zh_CN": "摘自画卷的柿子"
   },
   "ap_supply_lt_100_2023_2": {
+    "ja_JP": "カリカリの桃酥",
     "zh_CN": "香脆桃酥饼"
   },
   "ap_supply_lt_100_2023_3": {
+    "ja_JP": "香辣火炉",
     "zh_CN": "香辣火炉"
   },
   "ap_supply_lt_100_2023_4": {
+    "ja_JP": "金糖もち",
     "zh_CN": "金糖年糕"
   },
   "ap_supply_lt_100_2023_5": {
+    "ja_JP": "パパイア葉のパイ",
     "zh_CN": "木瓜叶馅饼"
   },
   "ap_supply_lt_120": {
@@ -1886,18 +1898,23 @@
     "zh_CN": "福运鼓鼓礼袋"
   },
   "itempack_mod_10": {
+    "ja_JP": "中級狙撃SoCプリンター",
     "zh_CN": "狙击芯片组印刻仪"
   },
   "itempack_mod_11": {
+    "ja_JP": "中級術師SoCプリンター",
     "zh_CN": "术师芯片组印刻仪"
   },
   "itempack_mod_12": {
+    "ja_JP": "中級医療SoCプリンター",
     "zh_CN": "医疗芯片组印刻仪"
   },
   "itempack_mod_13": {
+    "ja_JP": "中級補助SoCプリンター",
     "zh_CN": "辅助芯片组印刻仪"
   },
   "itempack_mod_14": {
+    "ja_JP": "中級特殊SoCプリンター",
     "zh_CN": "特种芯片组印刻仪"
   },
   "itempack_mod_4": {
@@ -1907,12 +1924,15 @@
     "zh_CN": "模组数据整合箱"
   },
   "itempack_mod_7": {
+    "ja_JP": "中級先鋒SoCプリンター",
     "zh_CN": "先锋芯片组印刻仪"
   },
   "itempack_mod_8": {
+    "ja_JP": "中級前衛SoCプリンター",
     "zh_CN": "近卫芯片组印刻仪"
   },
   "itempack_mod_9": {
+    "ja_JP": "中級重装SoCプリンター",
     "zh_CN": "重装芯片组印刻仪"
   },
   "mcardVoucher": {
@@ -2400,6 +2420,7 @@
     "zh_CN": "令的信物"
   },
   "p_char_2024_chyue": {
+    "ja_JP": "チョンユエの印",
     "zh_CN": "重岳的信物"
   },
   "p_char_202_demkni": {
@@ -3081,9 +3102,11 @@
     "zh_CN": "泰拉大陆调查团的信物"
   },
   "p_char_4078_bdhkgt": {
+    "ja_JP": "ジエユンの印",
     "zh_CN": "截云的信物"
   },
   "p_char_4080_lin": {
+    "ja_JP": "リンの印",
     "zh_CN": "林的信物"
   },
   "p_char_4082_qiubai": {
@@ -3288,6 +3311,7 @@
     "zh_CN": "夏栎的信物"
   },
   "p_char_493_firwhl": {
+    "ja_JP": "ファイヤーホイッスルの印",
     "zh_CN": "火哨的信物"
   },
   "p_char_496_wildmn": {
@@ -3837,6 +3861,7 @@
     "zh_CN": "遗尘漫步家具收藏包"
   },
   "uni_set_inkArt": {
+    "ja_JP": "画中人家具パック",
     "zh_CN": "画中人家具收藏包"
   },
   "uni_set_nightView": {
@@ -3888,6 +3913,7 @@
     "zh_CN": "芯片组自助打印盒"
   },
   "voucher_chipPackage": {
+    "ja_JP": "SoCセルフプリンター",
     "zh_CN": "自助芯片组印刻仪"
   },
   "voucher_elite_II_5": {
@@ -3937,6 +3963,7 @@
     "zh_CN": "格拉尼的私人信件"
   },
   "voucher_full_lava2": {
+    "ja_JP": "炎獄ラヴァの手紙",
     "zh_CN": "炎狱炎熔的私人信件"
   },
   "voucher_full_mint": {

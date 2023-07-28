@@ -16,7 +16,7 @@ tip: 请善用浏览器的搜索功能
 | story_angel_set_2_story_1 | 改变中的不变 | Constants Within Changes | 変化中の不変 |
 | story_aosta_set_1_story_1 | 编织来日 | Future Woven | 明日を紡ぐ |
 | story_aprl_set_1_story_1 | 猎人的视线 | Hunter's Vision | 狩人の視線 |
-| story_archet_set_1_story_1 | 偶像宣传 | - | - |
+| story_archet_set_1_story_1 | 偶像宣传 | - | アイドルのプロモーション |
 | story_ardign_set_1_story_1 | 绝对能行！ | It'll Be Fine, Guaranteed! | 絶対大丈夫！ |
 | story_asbest_set_1_story_1 | 奇景 | Strange Sights | 奇景 |
 | story_astesi_set_1_story_1 | 启明 | Revelation | 照らし出す光 |
@@ -25,7 +25,7 @@ tip: 请善用浏览器的搜索功能
 | story_beewax_set_1_story_1 | 黄沙归途 | Trail of Sands | 黄砂の帰路 |
 | story_bgsnow_set_1_story_1 | 墨迹已落 | - | - |
 | story_bibeak_set_1_story_1 | 破壳 | Shell Break | 殻を破る |
-| story_bibeak_set_2_story_1 | 走出那条长长的走廊 | - | - |
+| story_bibeak_set_2_story_1 | 走出那条长长的走廊 | - | 長い廊下を抜けて |
 | story_billro_set_1_story_1 | 保护者的本性 | Protector's Nature | 保護者の本能 |
 | story_bison_set_1_story_1 | 充实的假期 | - | - |
 | story_bldsk_set_1_story_1 | 怪物 | 'Monster' | モンスター |
@@ -50,7 +50,7 @@ tip: 请善用浏览器的搜索功能
 | story_chen2_set_2_story_1 | 道路 | Pathways | 道 |
 | story_chen_set_1_story_1 | 一鼓作气 | In One Effort | 一気呵成 |
 | story_chiave_set_1_story_1 | 代表作 | - | - |
-| story_chyue_set_1_story_1 | 昔我往矣 | - | - |
+| story_chyue_set_1_story_1 | 昔我往矣 | - | 昔我往きて、君と携行す |
 | story_ctable_set_1_story_1 | 飞进窗的羽兽 | - | - |
 | story_cutter_set_1_story_1 | 速食食品 | Meals, Ready-to-Eat | 携行食 |
 | story_deepcl_set_1_story_1 | 幽蓝怀想 | Azure Memories | 深き青の追想 |
@@ -58,7 +58,7 @@ tip: 请善用浏览器的搜索功能
 | story_durin_set_1_story_1 | 午休时间 | Lunchtime Nap | お昼休み |
 | story_durnar_set_1_story_1 | 额外训练 | Extra Training | 追加訓練 |
 | story_durnar_set_2_story_1 | 杯中旧事 | A Glass with Old Stories | グラスに注ぐ思い出 |
-| story_dusk_set_1_story_1 | 旦夕 | - | - |
+| story_dusk_set_1_story_1 | 旦夕 | - | 一朝一夕 |
 | story_ebnhlz_set_1_story_1 | 孤灯 | Lone Lamp | 灯の隻影 |
 | story_elysm_set_1_story_1 | 漫长旅途 | Long Journey | 長き旅路 |
 | story_erato_set_1_story_1 | 英雄们的叙事诗 | - | - |
@@ -91,7 +91,7 @@ tip: 请善用浏览器的搜索功能
 | story_greyy2_set_1_story_1 | 撰写光明 | Light, He Wrote | 綴られる光 |
 | story_greyy_set_1_story_1 | 过滤星星 | Filter Stars | 濾される星屑 |
 | story_gvial2_set_1_story_1 | 以酒精之名！ | In the Name of Alcohol! | アルコールの名のもとに！ |
-| story_haak_set_1_story_1 | 惊弓一夜 | - | - |
+| story_haak_set_1_story_1 | 惊弓一夜 | - | 肝を冷やす夜　 |
 | story_halo_set_1_story_1 | 实验进行中 | - | - |
 | story_hamoni_set_1_story_1 | 孤独的舞者 | Solitary Dancer | 孤独なダンサー |
 | story_hbisc2_set_1_story_1 | 无名之花 | Nameless Flower | 名もなき花 |
@@ -121,11 +121,11 @@ tip: 请善用浏览器的搜索功能
 | story_lionhd_set_1_story_1 | 暗境求生 | - | - |
 | story_liskam_set_1_story_1 | 苹果派对准备中！ | 'Apple Pie Party, Now Preparing!' | リンゴパーティー準備中！ |
 | story_liskam_set_2_story_1 | 尚待 | 'Still Waiting' | 待つ |
-| story_lmlee_set_1_story_1 | 三餐一日 | - | - |
+| story_lmlee_set_1_story_1 | 三餐一日 | - | 一日三食 |
 | story_lolxh_set_1_story_1 | 夜游船 | Sleepwalker Sailing | 夜の艦内遊覧 |
 | story_lumen_set_1_story_1 | 直到灯火明亮 | - | - |
 | story_mantic_set_1_story_1 | 缄默 | Dead Silence | 黙して語らず |
-| story_mberry_set_1_story_1 | 平安祈愿 | - | - |
+| story_mberry_set_1_story_1 | 平安祈愿 | - | 安全祈願 |
 | story_medic2_set_1_story_1 | 一个涂鸦 | A Piece of Graffiti | ある落書き |
 | story_melan_set_1_story_1 | 小队长 | Team Captain | 小隊長 |
 | story_meteo_set_1_story_1 | 一星萤火 | Firefly's Light | 一灯の蛍火 |
@@ -175,7 +175,7 @@ tip: 请善用浏览器的搜索功能
 | story_savage_set_2_story_1 | 自有一“派” | No Less Than a Pie | パイはいかが？ |
 | story_savage_set_2_story_2 | 自有一“派” | No Less Than a Pie | パイはいかが？ |
 | story_scave_set_1_story_1 | 硬币的意志 | The Will of a Coin | コインの意志 |
-| story_serum_set_1_story_1 | 蚀清的工牌 | - | - |
+| story_serum_set_1_story_1 | 蚀清的工牌 | - | コロセラムのIDカード |
 | story_sesa_set_1_story_1 | 致命诱惑 | - | - |
 | story_shotst_set_1_story_1 | 滚烫旧忆 | Scalding Old Memories | 熱傷の記憶 |
 | story_shotst_set_2_story_1 | 两难 | Dilemma | 板挟み |
@@ -226,4 +226,4 @@ tip: 请善用浏览器的搜索功能
 | story_wyvern_set_1_story_1 | 源石虫与啤酒花 | Originium Slugs and Hops | オリジムシとホップ |
 | story_yak_set_1_story_1 | 一天 | One Day | 一日 |
 | story_yuki_set_1_story_1 | 忍者之道 | The Way of Shinobi | 忍びの道 |
-| story_zebra_set_1_story_1 | 不合时宜 | - | - |
+| story_zebra_set_1_story_1 | 不合时宜 | - | 場違い |

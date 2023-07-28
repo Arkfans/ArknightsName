@@ -96,14 +96,14 @@ tip: 请善用浏览器的搜索功能
 | trap_093_tbattbc | 钳兽壳粉 | Gloompincer Shell Meal | 鉗獣殻パウダー |
 | trap_094_tbpsnc | 高效泡打粉 | High-Efficiency Baking Powder | ベーキングパウダー |
 | trap_095_tbsmmc | 芳香精油 | Fragrant Essential Oil | エッセンシャルオイル |
-| trap_096_gflag | 山海密语仪 | - | - |
-| trap_097_hstone | 城防路障 | - | - |
+| trap_096_gflag | 山海密语仪 | - | 山海密令柱 |
+| trap_097_hstone | 城防路障 | - | 都市防衛柵 |
 | trap_098_mire | 沼泽控制 | Mire Control | 沼地制御 |
 | trap_099_mhflsb | 眩光手雷 | - | - |
 | trap_100_mhlbmb | 高能源石爆桶 | - | - |
 | trap_101_mhshok | 高压脉冲诡雷 | - | - |
 | trap_102_mhwrbg | 滞空牵引无人机 | - | - |
-| trap_103_ymdgct | 地形增伤控制 | - | - |
+| trap_103_ymdgct | 地形增伤控制 | - | 地形ダメージ制御 |
 | trap_104_dplant | 改性植物激素 | Modified Phytohormone | 改良型植物ホルモン |
 | trap_105_mhwrct | 滞空牵引无人机 | - | - |
 | trap_106_smtree | 积雪银凇  | - | - |
