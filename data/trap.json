@@ -455,10 +455,12 @@
     "zh_CN": "芳香精油"
   },
   "trap_096_gflag": {
+    "en_US": "Shanhaizhong Cipher Machine",
     "ja_JP": "山海密令柱",
     "zh_CN": "山海密语仪"
   },
   "trap_097_hstone": {
+    "en_US": "Roadblocks",
     "ja_JP": "都市防衛柵",
     "zh_CN": "城防路障"
   },
@@ -480,6 +482,7 @@
     "zh_CN": "滞空牵引无人机"
   },
   "trap_103_ymdgct": {
+    "en_US": "Mire Controller",
     "ja_JP": "地形ダメージ制御",
     "zh_CN": "地形增伤控制"
   },

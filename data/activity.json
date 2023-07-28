@@ -113,6 +113,7 @@
     "zh_CN": "玛莉娅·临光"
   },
   "act13login": {
+    "en_US": "Sign-in Campaign",
     "ja_JP": "ログイン報酬",
     "zh_CN": "登录领取奖励"
   },
@@ -189,6 +190,7 @@
     "zh_CN": "将进酒"
   },
   "act15sre": {
+    "en_US": "Invitation to Wine - Rerun",
     "ja_JP": "将進酒・復刻",
     "zh_CN": "将进酒·复刻"
   },
@@ -378,6 +380,7 @@
     "zh_CN": "限时累计签到"
   },
   "act23side": {
+    "en_US": "Where Vernal Winds Will Never Blow",
     "ja_JP": "登臨意",
     "zh_CN": "登临意"
   },
@@ -464,6 +467,7 @@
     "zh_CN": "限时累计签到"
   },
   "act33sign": {
+    "en_US": "Limited-time Cumulative Sign-in",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
@@ -535,6 +539,7 @@
     "zh_CN": "危机合约"
   },
   "act5pray": {
+    "en_US": "Lungmen Lucky Strips",
     "ja_JP": "龍門おみくじ",
     "zh_CN": "龙门幸运墙登录活动"
   },

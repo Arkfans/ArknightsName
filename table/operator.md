@@ -97,7 +97,7 @@ tip: 请善用浏览器的搜索功能
 | char_2015_dusk | 夕 | Dusk | シー |
 | char_201_moeshd | 可颂 | Croissant | クロワッサン |
 | char_2023_ling | 令 | Ling | リィン |
-| char_2024_chyue | 重岳 | - | チョンユエ |
+| char_2024_chyue | 重岳 | Chongyue | チョンユエ |
 | char_202_demkni | 塞雷娅 | Saria | サリア |
 | char_204_platnm | 白金 | Platinum | プラチナ |
 | char_206_gnosis | 灵知 | Gnosis | ノーシス |
@@ -238,8 +238,8 @@ tip: 请善用浏览器的搜索功能
 | char_4071_peper | 明椒 | Paprika | パプリカ |
 | char_4072_ironmn | 白铁 | Stainless | ステインレス |
 | char_4077_palico | 泰拉大陆调查团 | - | - |
-| char_4078_bdhkgt | 截云 | - | ジエユン |
-| char_4080_lin | 林 | - | リン |
+| char_4078_bdhkgt | 截云 | Jieyun | ジエユン |
+| char_4080_lin | 林 | Lin | リン |
 | char_4082_qiubai | 仇白 | - | - |
 | char_4083_chimes | 铎铃 | - | - |
 | char_4087_ines | 伊内丝 | - | - |
@@ -285,7 +285,7 @@ tip: 请善用浏览器的搜索功能
 | char_489_serum | 蚀清 | Corroserum | コロセラム |
 | char_491_humus | 休谟斯 | - | - |
 | char_492_quercu | 夏栎 | Quercus | クエルクス |
-| char_493_firwhl | 火哨 | - | ファイヤーホイッスル |
+| char_493_firwhl | 火哨 | Firewhistle | ファイヤーホイッスル |
 | char_496_wildmn | 野鬃 | Wild Mane | ワイルドメイン |
 | char_497_ctable | 晓歌 | Cantabile | カンタービレ |
 | char_498_inside | 隐现 | - | - |

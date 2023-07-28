@@ -70,14 +70,17 @@
     "zh_CN": "γ类新年寻访凭证"
   },
   "2023recruitment10_1": {
+    "en_US": "Type-α Headhunting Permit",
     "ja_JP": "3.5周年特別スカウト券α",
     "zh_CN": "α类新年寻访凭证"
   },
   "2023recruitment10_2": {
+    "en_US": "Type-β Headhunting Permit",
     "ja_JP": "3.5周年特別スカウト券β",
     "zh_CN": "β类新年寻访凭证"
   },
   "2023recruitment10_3": {
+    "en_US": "Type-γ Headhunting Permit",
     "ja_JP": "3.5周年特別スカウト券γ",
     "zh_CN": "γ类新年寻访凭证"
   },
@@ -647,6 +650,7 @@
     "zh_CN": "归狼踏影寻访凭证"
   },
   "LIMITED_TKT_GACHA_10_3501": {
+    "en_US": "Winds of Millennia Unyielding Headhunting Permit",
     "ja_JP": "3.5周年記念10回スカウト券",
     "zh_CN": "长风万里寻访凭证"
   },
@@ -715,6 +719,7 @@
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_3501": {
+    "en_US": "Headhunting Data Contract",
     "ja_JP": "限定契約証",
     "zh_CN": "寻访数据契约"
   },
@@ -941,6 +946,7 @@
     "zh_CN": "罐装晌午茶"
   },
   "act15side_token_tea_rep_1": {
+    "en_US": "Canned Tea",
     "ja_JP": "正午茶",
     "zh_CN": "罐装晌午茶"
   },
@@ -1072,6 +1078,7 @@
     "zh_CN": "手抄歌谣集"
   },
   "act23side_token_spirit": {
+    "en_US": "Freshly-Brewed Liedaozi",
     "ja_JP": "烈刀子",
     "zh_CN": "新酿烈刀子"
   },
@@ -1295,22 +1302,27 @@
     "zh_CN": "雷姆必拓西瓜蛋糕"
   },
   "ap_supply_lt_100_2023_1": {
+    "en_US": "Persimmons Picked from a Scroll",
     "ja_JP": "絵巻からもいだ柿",
     "zh_CN": "摘自画卷的柿子"
   },
   "ap_supply_lt_100_2023_2": {
+    "en_US": "Crisp Walnut Cookies",
     "ja_JP": "カリカリの桃酥",
     "zh_CN": "香脆桃酥饼"
   },
   "ap_supply_lt_100_2023_3": {
+    "en_US": "Spicy Hotpot(?)",
     "ja_JP": "香辣火炉",
     "zh_CN": "香辣火炉"
   },
   "ap_supply_lt_100_2023_4": {
+    "en_US": "Golden Syrup New Year's Cake",
     "ja_JP": "金糖もち",
     "zh_CN": "金糖年糕"
   },
   "ap_supply_lt_100_2023_5": {
+    "en_US": "Papaya Leaf Meat Pie",
     "ja_JP": "パパイア葉のパイ",
     "zh_CN": "木瓜叶馅饼"
   },
@@ -1898,22 +1910,27 @@
     "zh_CN": "福运鼓鼓礼袋"
   },
   "itempack_mod_10": {
+    "en_US": "Sniper Chip Pack Etcher",
     "ja_JP": "中級狙撃SoCプリンター",
     "zh_CN": "狙击芯片组印刻仪"
   },
   "itempack_mod_11": {
+    "en_US": "Caster Chip Pack Etcher",
     "ja_JP": "中級術師SoCプリンター",
     "zh_CN": "术师芯片组印刻仪"
   },
   "itempack_mod_12": {
+    "en_US": "Medic Chip Pack Etcher",
     "ja_JP": "中級医療SoCプリンター",
     "zh_CN": "医疗芯片组印刻仪"
   },
   "itempack_mod_13": {
+    "en_US": "Supporter Chip Pack Etcher",
     "ja_JP": "中級補助SoCプリンター",
     "zh_CN": "辅助芯片组印刻仪"
   },
   "itempack_mod_14": {
+    "en_US": "Specialist Chip Pack Etcher",
     "ja_JP": "中級特殊SoCプリンター",
     "zh_CN": "特种芯片组印刻仪"
   },
@@ -1924,14 +1941,17 @@
     "zh_CN": "模组数据整合箱"
   },
   "itempack_mod_7": {
+    "en_US": "Vanguard Chip Pack Etcher",
     "ja_JP": "中級先鋒SoCプリンター",
     "zh_CN": "先锋芯片组印刻仪"
   },
   "itempack_mod_8": {
+    "en_US": "Guard Chip Pack Etcher",
     "ja_JP": "中級前衛SoCプリンター",
     "zh_CN": "近卫芯片组印刻仪"
   },
   "itempack_mod_9": {
+    "en_US": "Defender Chip Pack Etcher",
     "ja_JP": "中級重装SoCプリンター",
     "zh_CN": "重装芯片组印刻仪"
   },
@@ -2420,6 +2440,7 @@
     "zh_CN": "令的信物"
   },
   "p_char_2024_chyue": {
+    "en_US": "Chongyue's Token",
     "ja_JP": "チョンユエの印",
     "zh_CN": "重岳的信物"
   },
@@ -3102,10 +3123,12 @@
     "zh_CN": "泰拉大陆调查团的信物"
   },
   "p_char_4078_bdhkgt": {
+    "en_US": "Jieyun's Token",
     "ja_JP": "ジエユンの印",
     "zh_CN": "截云的信物"
   },
   "p_char_4080_lin": {
+    "en_US": "Lin's Token",
     "ja_JP": "リンの印",
     "zh_CN": "林的信物"
   },
@@ -3311,6 +3334,7 @@
     "zh_CN": "夏栎的信物"
   },
   "p_char_493_firwhl": {
+    "en_US": "Firewhistle's Token",
     "ja_JP": "ファイヤーホイッスルの印",
     "zh_CN": "火哨的信物"
   },
@@ -3861,6 +3885,7 @@
     "zh_CN": "遗尘漫步家具收藏包"
   },
   "uni_set_inkArt": {
+    "en_US": "Who is Real Furniture Pack",
     "ja_JP": "画中人家具パック",
     "zh_CN": "画中人家具收藏包"
   },
@@ -3913,6 +3938,7 @@
     "zh_CN": "芯片组自助打印盒"
   },
   "voucher_chipPackage": {
+    "en_US": "Automatic Chip Pack Etcher",
     "ja_JP": "SoCセルフプリンター",
     "zh_CN": "自助芯片组印刻仪"
   },
@@ -3963,6 +3989,7 @@
     "zh_CN": "格拉尼的私人信件"
   },
   "voucher_full_lava2": {
+    "en_US": "Lava the Purgatory's Personal Letter",
     "ja_JP": "炎獄ラヴァの手紙",
     "zh_CN": "炎狱炎熔的私人信件"
   },

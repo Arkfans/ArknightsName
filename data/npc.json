@@ -556,6 +556,10 @@
     ]
   },
   "avg_2024_chyue_1": {
+    "en_US": [
+      "Chongyue",
+      "Shuo"
+    ],
     "ja_JP": [
       "シュオ",
       "チョンユエ"
@@ -651,6 +655,10 @@
     ]
   },
   "avg_225_haak_1": {
+    "en_US": [
+      "A Doctor",
+      "Aak"
+    ],
     "ja_JP": [
       "ア",
       "医者"
@@ -1380,6 +1388,11 @@
     ]
   },
   "avg_4078_bdhkgt_1": {
+    "en_US": [
+      "Exotically Dressed Girl",
+      "Injured Girl",
+      "Jieyun"
+    ],
     "ja_JP": [
       "ジエユン",
       "異民族の装いの少女",
@@ -1392,6 +1405,9 @@
     ]
   },
   "avg_4080_lin_1": {
+    "en_US": [
+      "Lin Yühsia"
+    ],
     "ja_JP": [
       "ユーシャ"
     ],
@@ -1581,6 +1597,7 @@
   },
   "avg_473_mberry_1": {
     "en_US": [
+      "Gu Ning-Ning",
       "Mulberry"
     ],
     "ja_JP": [
@@ -1694,6 +1711,9 @@
     ]
   },
   "avg_489_serum_1": {
+    "en_US": [
+      "Corroserum"
+    ],
     "ja_JP": [
       "コロセラム"
     ],
@@ -2027,6 +2047,7 @@
       "Old Townsfolk",
       "Ordinary Infected B",
       "Porter",
+      "Produce Vendor",
       "Tense Infected",
       "Uncle Wong",
       "Village Headman",
@@ -2090,6 +2111,7 @@
       "Ordinary Infected A",
       "Passerby B",
       "Passing Merchant",
+      "Produce Vendor",
       "Rowdy Stowaway",
       "Village Headman",
       "Wastelander B"
@@ -2154,6 +2176,7 @@
       "Riverblade Squad Mercenary",
       "Riverblade Squad Mercenary A",
       "Rough Hooligan",
+      "Sargonian Veteran",
       "Searching Mercenary",
       "Shrewd Bandit",
       "Strange Hunter",
@@ -2248,6 +2271,7 @@
   "avg_npc_008": {
     "en_US": [
       "'Captain'",
+      "Abi",
       "Bandit",
       "Bandit Leader",
       "Bounty Hunter",
@@ -2262,6 +2286,7 @@
       "Infected Hooligan",
       "Mercenary A",
       "Mercenary Captain",
+      "Old Captain",
       "Quiet Bounty Hunter",
       "Rickety Joe",
       "Riverblade Squad Mercenary",
@@ -2629,7 +2654,8 @@
       "Male Tourist",
       "Male Tourist A",
       "Passerby A",
-      "Shopkeeper B"
+      "Shopkeeper B",
+      "Tabloid Reporter"
     ],
     "ja_JP": [
       "客A",
@@ -2662,6 +2688,7 @@
       "Customer B",
       "Female Tourist",
       "Female Tourist A",
+      "Manager",
       "Shopkeeper A",
       "Tourist B"
     ],
@@ -2935,11 +2962,16 @@
       "An Excited Spectator",
       "Angry Lou Seoi Member",
       "Barkeep",
+      "Confused Fan",
       "Drunk",
+      "Excited Fan",
       "Hapless Man",
       "Infected Slum Dweller",
       "Injured Lou Seoi Member",
       "Innocent Passerby",
+      "Lungmen Agent",
+      "Lungmen Tourist",
+      "Lungmen Tourist?",
       "Lungmenite?",
       "Male Lungmenite",
       "Male Passerby",
@@ -2950,12 +2982,14 @@
       "Ordinary Lungmen Citizen",
       "Panicked Lungmen Citizen",
       "Passerby Customer",
+      "Perplexed Fan",
       "Rat King's Henchman",
       "Seemingly Ordinary Resident",
       "Slum Dweller",
       "Subordinate",
       "Vicious-Looking Lou Seoi Member",
-      "Young Citizen B"
+      "Young Citizen B",
+      "Young Victim"
     ],
     "ja_JP": [
       "イベント参加者？",
@@ -3241,6 +3275,7 @@
   "avg_npc_045_nn_1": {
     "en_US": [
       "Infected Girl",
+      "Innocent Girl",
       "Little 'Witch' Minnie",
       "Little Girl",
       "Xiaoyuan"
@@ -4082,6 +4117,7 @@
       "Field Operator A",
       "Hawking Operator",
       "Human Resources Operator",
+      "Idle Operator",
       "Logistics Operator",
       "Navigator A",
       "Rhodes Island Field Operator",
@@ -4252,6 +4288,7 @@
   "avg_npc_093": {
     "en_US": [
       "Old Granny",
+      "Old Lady",
       "Old Woman",
       "Ursus Civilian"
     ],
@@ -4691,6 +4728,7 @@
   },
   "avg_npc_138": {
     "en_US": [
+      "Proprietor",
       "Storyteller"
     ],
     "ja_JP": [
@@ -4719,6 +4757,8 @@
   "avg_npc_140": {
     "en_US": [
       "First Apprentice",
+      "Innkeeper",
+      "Proprietor",
       "Rough Villager",
       "Second Apprentice",
       "Stonemason",
@@ -4801,6 +4841,8 @@
   },
   "avg_npc_143": {
     "en_US": [
+      "Bitey",
+      "Bitey & Bitey?",
       "Ink Spirit"
     ],
     "ja_JP": [
@@ -4941,6 +4983,7 @@
   },
   "avg_npc_163": {
     "en_US": [
+      "Anum",
       "Calm Woman",
       "Grimed Woman",
       "Passerby Sargon Townsfolk"
@@ -4962,6 +5005,7 @@
   "avg_npc_164": {
     "en_US": [
       "Disheveled Person",
+      "Dispirited Straggler",
       "Infected Townsfolk",
       "Mayor's Secretary",
       "Swept-Up Trader",
@@ -4995,6 +5039,7 @@
       "Infected Townsfolk",
       "Mayor",
       "Sargon Townsfolk?",
+      "Sargonian Janissary",
       "Townsfolk"
     ],
     "ja_JP": [
@@ -5246,6 +5291,7 @@
       "Obscured Merchant",
       "Officer-in-Charge",
       "Pretentious Man",
+      "Senior Project Manager",
       "Wealthily-Dressed Man",
       "Wealthy Man",
       "Wildly Ambitious Baron",
@@ -6031,6 +6077,7 @@
       "Chang",
       "Commercial Agent",
       "Corporate Employee",
+      "Customer Representative",
       "Hamm",
       "Haughty Official",
       "Kazimierz Representative",
@@ -7062,6 +7109,7 @@
   },
   "avg_npc_296_1": {
     "en_US": [
+      "Du Yaoye",
       "Miss Du"
     ],
     "ja_JP": [
@@ -7146,15 +7194,18 @@
   },
   "avg_npc_303_1": {
     "en_US": [
+      "Agitated Hawker",
       "Curious Passerby",
       "Feeble Apprentice",
+      "Hawker",
       "Odd Traveler",
       "Street Youth",
       "Suspicious Townsfolk",
       "Tavern Assistant",
       "Tavern Owner",
       "Teahouse Stopperby",
-      "Traceless Fist Practitioner"
+      "Traceless Fist Practitioner",
+      "Waiter"
     ],
     "ja_JP": [
       "奇妙な客",
@@ -7219,9 +7270,12 @@
       "Hoodlum",
       "Plated Fist Practitioner",
       "Street Loafer",
+      "Street Thug",
       "Street Youth",
       "Street Youth B",
-      "Suspicious Passerby"
+      "Suspicious Passerby",
+      "Triad",
+      "Young Bodyguard"
     ],
     "ja_JP": [
       "チンピラ",
@@ -7617,7 +7671,9 @@
   },
   "avg_npc_369_1": {
     "en_US": [
+      "Cheerful Cleric",
       "Friar",
+      "Pious Cleric",
       "Sister",
       "Warm Prioress"
     ],
@@ -9386,6 +9442,9 @@
     ]
   },
   "avg_npc_600_1": {
+    "en_US": [
+      "Anguished Man"
+    ],
     "ja_JP": [
       "苦しそうな男"
     ],
@@ -9395,6 +9454,9 @@
   },
   "avg_npc_601_1": {
     "en_US": [
+      "Burly Man",
+      "Impoverished Young Man",
+      "Muscular Man",
       "Shelter Owner"
     ],
     "ja_JP": [
@@ -10204,6 +10266,11 @@
     ]
   },
   "avg_npc_785_1": {
+    "en_US": [
+      "Burly Man",
+      "Huai",
+      "Huai Tianpei"
+    ],
     "ja_JP": [
       "がたいのいい男",
       "ワイという名の男",
@@ -10216,6 +10283,12 @@
     ]
   },
   "avg_npc_786_1": {
+    "en_US": [
+      "Aloof Woman",
+      "Shanhaizhong Boss",
+      "Shanhaizhong Boss?",
+      "Ya"
+    ],
     "ja_JP": [
       "冷淡な女性",
       "山海衆首領",
@@ -10230,6 +10303,9 @@
     ]
   },
   "avg_npc_787_1": {
+    "en_US": [
+      "Qiubai"
+    ],
     "ja_JP": [
       "チュー・バイ"
     ],
@@ -10238,6 +10314,10 @@
     ]
   },
   "avg_npc_788_1": {
+    "en_US": [
+      "Stern Man",
+      "Zuo Xuanliao"
+    ],
     "ja_JP": [
       "ズオ・シュアンリャオ",
       "ズオ将軍",
@@ -10249,6 +10329,9 @@
     ]
   },
   "avg_npc_789_1": {
+    "en_US": [
+      "Meng Tieyi"
+    ],
     "ja_JP": [
       "モン・ティエイー"
     ],
@@ -10257,6 +10340,9 @@
     ]
   },
   "avg_npc_790_1": {
+    "en_US": [
+      "Ch'en"
+    ],
     "ja_JP": [
       "チェン"
     ],
@@ -10265,6 +10351,9 @@
     ]
   },
   "avg_npc_791_1": {
+    "en_US": [
+      "Record Keeper"
+    ],
     "ja_JP": [
       "録武官"
     ],
@@ -10273,6 +10362,9 @@
     ]
   },
   "avg_npc_792_1": {
+    "en_US": [
+      "Tourist in Sargon Garb"
+    ],
     "ja_JP": [
       "サルゴン風の服を着た人"
     ],
@@ -10281,6 +10373,9 @@
     ]
   },
   "avg_npc_793_1": {
+    "en_US": [
+      "Shanhaizhong Ringleader"
+    ],
     "ja_JP": [
       "山海衆頭目"
     ],
@@ -10289,6 +10384,19 @@
     ]
   },
   "avg_npc_794_1": {
+    "en_US": [
+      "Alert Shanhaizhong Member",
+      "Anxious Shanhaizhong Member",
+      "Calm Shanhaizhong Member",
+      "Cold Shanhaizhong Member",
+      "Greedy Shanhaizhong Member",
+      "Malicious Shanhaizhong Member",
+      "Mysterious Criminal",
+      "Ominous Shanhaizhong Member",
+      "Restless Shanhaizhong Member",
+      "Shanhaizhong Member",
+      "Vicious Shanhaizhong Member"
+    ],
     "ja_JP": [
       "冷酷な山海衆メンバー",
       "冷静な山海衆メンバー",
@@ -10318,6 +10426,11 @@
     ]
   },
   "avg_npc_795_1": {
+    "en_US": [
+      "Millenion",
+      "Patrol Battalion Soldier",
+      "Yumen Sentry A"
+    ],
     "ja_JP": [
       "千人隊長",
       "巡防営守備軍",
@@ -10330,6 +10443,12 @@
     ]
   },
   "avg_npc_796_1": {
+    "en_US": [
+      "Centurion",
+      "Patrol Battalion Soldier",
+      "Yumen Sentry",
+      "Yumen Sentry B"
+    ],
     "ja_JP": [
       "巡防営守備軍",
       "玉門守備軍",
@@ -10344,6 +10463,15 @@
     ]
   },
   "avg_npc_797_1": {
+    "en_US": [
+      "Blacksmith",
+      "Drinking Old Man",
+      "Nervous Passerby",
+      "Rescue Squad Member",
+      "Roadside Inn Staff",
+      "Wanderer",
+      "Warehouse Guard"
+    ],
     "ja_JP": [
       "付近の遊侠",
       "倉庫の見張り",
@@ -10371,6 +10499,10 @@
     ]
   },
   "avg_npc_798_1": {
+    "en_US": [
+      "Errand Runner",
+      "Rescue Squad Leader"
+    ],
     "ja_JP": [
       "使い走りの通行人",
       "救援隊隊長"
@@ -10383,6 +10515,14 @@
     ]
   },
   "avg_npc_799_1": {
+    "en_US": [
+      "Angry Martial Artist",
+      "Disappointed Martial Artist",
+      "Guest",
+      "Jing",
+      "Mr. Ruan",
+      "Retired Soldier"
+    ],
     "ja_JP": [
       "ジィン",
       "ルァン",
@@ -10405,6 +10545,10 @@
     ]
   },
   "avg_npc_800_1": {
+    "en_US": [
+      "Di Beast",
+      "Fierce Animal"
+    ],
     "ja_JP": [
       "見た目の恐ろしい生物",
       "諦獣"
@@ -11092,6 +11236,7 @@
       "L.G.D. Officer A",
       "L.G.D. Officer B",
       "L.G.D. Officer?",
+      "L.G.D. Supervisor",
       "Officer Kam",
       "Policeman A",
       "Policeman B",
@@ -12843,6 +12988,7 @@
   },
   "char_332_archet": {
     "en_US": [
+      "Archetto",
       "Hildegard"
     ],
     "ja_JP": [

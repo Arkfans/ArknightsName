@@ -573,22 +573,22 @@ tip: 请善用浏览器的搜索功能
 | enemy_1293_duswrd | 深池护卫队成员 | Dublinn Spec Ops | ダブリン親衛隊隊員 |
 | enemy_1293_duswrd_2 | 深池护卫队精锐成员 | Dublinn Elite Spec Ops | ダブリン親衛隊精鋭 |
 | enemy_1293_duswrd_3 | “校官” | 'The Brigadier' | 「将校」 |
-| enemy_1295_ymph | 谛兽 | - | 諦獣 |
-| enemy_1295_ymph_2 | 躁怒谛兽 | - | 怒れる諦獣 |
-| enemy_1296_ymknif | 山海众散兵 | - | 山海衆雑兵 |
-| enemy_1296_ymknif_2 | 山海众游勇 | - | 山海衆遊撃隊 |
-| enemy_1297_ymflag | 山海众传令手 | - | 山海衆伝令兵 |
-| enemy_1297_ymflag_2 | 山海众掌令使 | - | 山海衆伝令官 |
-| enemy_1298_ymmonk | 山海众冒矢者 | - | 山海衆守護者 |
-| enemy_1298_ymmonk_2 | 山海众连阵者 | - | 山海衆連陣守護者 |
-| enemy_1299_ymkilr | 山海众头目 | - | 山海衆精鋭 |
-| enemy_1299_ymkilr_2 | 山海众秘使 | - | 山海衆密使 |
-| enemy_1300_ymmir | 山海众窥魅人 | - | 山海衆霊視者 |
-| enemy_1300_ymmir_2 | 山海众司魅人 | - | 山海衆怪術師 |
-| enemy_1301_ymcnon | “破坚” | - | 「破堅」 |
-| enemy_1301_ymcnon_2 | “碎壁” | - | 「砕壁」 |
-| enemy_1302_ymtro | “履平沙” | - | 「砂行」 |
-| enemy_1302_ymtro_2 | “越长尘” | - | 「長塵」 |
+| enemy_1295_ymph | 谛兽 | Di Beast | 諦獣 |
+| enemy_1295_ymph_2 | 躁怒谛兽 | Raging Di Beast | 怒れる諦獣 |
+| enemy_1296_ymknif | 山海众散兵 | Shanhaizhong Skirmisher | 山海衆雑兵 |
+| enemy_1296_ymknif_2 | 山海众游勇 | Shanhaizhong Vigilante | 山海衆遊撃隊 |
+| enemy_1297_ymflag | 山海众传令手 | Shanhaizhong Relayer | 山海衆伝令兵 |
+| enemy_1297_ymflag_2 | 山海众掌令使 | Shanhaizhong Harbinger | 山海衆伝令官 |
+| enemy_1298_ymmonk | 山海众冒矢者 | Shanhaizhong Desperado | 山海衆守護者 |
+| enemy_1298_ymmonk_2 | 山海众连阵者 | Shanhaizhong Phalanx | 山海衆連陣守護者 |
+| enemy_1299_ymkilr | 山海众头目 | Shanhaizhong Ringleader | 山海衆精鋭 |
+| enemy_1299_ymkilr_2 | 山海众秘使 | Shanhaizhong Secret-Keeper | 山海衆密使 |
+| enemy_1300_ymmir | 山海众窥魅人 | Shanhaizhong Seer | 山海衆霊視者 |
+| enemy_1300_ymmir_2 | 山海众司魅人 | Shanhaizhong Oracle | 山海衆怪術師 |
+| enemy_1301_ymcnon | “破坚” | 'Wallbreaker' | 「破堅」 |
+| enemy_1301_ymcnon_2 | “碎壁” | 'Fortbreaker' | 「砕壁」 |
+| enemy_1302_ymtro | “履平沙” | 'Sandwalker' | 「砂行」 |
+| enemy_1302_ymtro_2 | “越长尘” | 'Sand Voyager' | 「長塵」 |
 | enemy_1303_mhshep | 角兽 | - | - |
 | enemy_1303_mhshep_2 | 亢角兽 | - | - |
 | enemy_1304_mhwolf | 鬣犄兽 | - | - |
@@ -607,7 +607,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1310_mhprpn_2 | 箭棘兽 | - | - |
 | enemy_1311_mhkryk | 狡兽 | - | - |
 | enemy_1311_mhkryk_2 | 恶狡兽 | - | - |
-| enemy_1312_ymillu | “无念之冬” | - | 「無我の冬」 |
+| enemy_1312_ymillu | “无念之冬” | 'Winter's Void' | 「無我の冬」 |
 | enemy_1313_wdfmr | 诺伯特平民 | - | - |
 | enemy_1313_wdfmr_2 | 诺伯特暗探 | - | - |
 | enemy_1314_wdnjd | 寻路密探 | - | - |
@@ -700,9 +700,9 @@ tip: 请善用浏览器的搜索功能
 | enemy_1535_wlfmster | 扎罗，“狼之主” | Zaaro, Signore dei Lupi | 「狼主」ザーロ |
 | enemy_1536_ncrmcr | “领袖” | 'The Leader'  | 「リーダー」 |
 | enemy_1537_mhrors | 火龙 | - | - |
-| enemy_1538_ymmons | “睚” | - | 「睚」 |
-| enemy_1538_ymmons_2 | 蜃景 | - | 蜃気楼 |
-| enemy_1538_ymmons_3 | 妄境 | - | 妄境 |
+| enemy_1538_ymmons | “睚” | 'Ya' | 「睚」 |
+| enemy_1538_ymmons_2 | 蜃景 | Mirage | 蜃気楼 |
+| enemy_1538_ymmons_3 | 妄境 | Delusion | 妄境 |
 | enemy_1539_reid | “复仇者” | - | - |
 | enemy_1540_wdncr | 爱布拉娜 | - | - |
 | enemy_1541_wdslms | “变形者集群” | - | - |

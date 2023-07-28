@@ -448,6 +448,7 @@
     "zh_CN": "令"
   },
   "char_2024_chyue": {
+    "en_US": "Chongyue",
     "ja_JP": "チョンユエ",
     "zh_CN": "重岳"
   },
@@ -1140,10 +1141,12 @@
     "zh_CN": "泰拉大陆调查团"
   },
   "char_4078_bdhkgt": {
+    "en_US": "Jieyun",
     "ja_JP": "ジエユン",
     "zh_CN": "截云"
   },
   "char_4080_lin": {
+    "en_US": "Lin",
     "ja_JP": "リン",
     "zh_CN": "林"
   },
@@ -1357,6 +1360,7 @@
     "zh_CN": "夏栎"
   },
   "char_493_firwhl": {
+    "en_US": "Firewhistle",
     "ja_JP": "ファイヤーホイッスル",
     "zh_CN": "火哨"
   },

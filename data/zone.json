@@ -256,10 +256,12 @@
     "zh_CN": "一十八峰"
   },
   "act15sre_zone1": {
+    "en_US": "Tales of Three-Mountains",
     "ja_JP": "三山奇聞",
     "zh_CN": "三山奇闻"
   },
   "act15sre_zone2": {
+    "en_US": "Mountain Top",
     "ja_JP": "一十八峰",
     "zh_CN": "一十八峰"
   },
@@ -467,10 +469,12 @@
     "zh_CN": "记忆灰烬"
   },
   "act23side_zone1": {
+    "en_US": "Case Investigation, Onsite",
     "ja_JP": "城内調査",
     "zh_CN": "城中调查"
   },
   "act23side_zone2": {
+    "en_US": "Criminal Pursuit, Offsite",
     "ja_JP": "関外追跡",
     "zh_CN": "关外追凶"
   },
@@ -682,10 +686,12 @@
     "zh_CN": "圣猎"
   },
   "permanent_sidestory_12_zone1": {
+    "en_US": "Tales of Three-Mountains",
     "ja_JP": "三山奇聞",
     "zh_CN": "三山奇闻"
   },
   "permanent_sidestory_12_zone2": {
+    "en_US": "Mountain Top",
     "ja_JP": "一十八峰",
     "zh_CN": "一十八峰"
   },

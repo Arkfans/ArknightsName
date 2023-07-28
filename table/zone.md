@@ -57,8 +57,8 @@ tip: 请善用浏览器的搜索功能
 | act15mini_zone1 | 冻原狩猎 | - | - |
 | act15side_zone1 | 三山奇闻 | Tales of Three-Mountains | 三山奇聞 |
 | act15side_zone2 | 一十八峰 | Mountain Top | 一十八峰 |
-| act15sre_zone1 | 三山奇闻 | - | 三山奇聞 |
-| act15sre_zone2 | 一十八峰 | - | 一十八峰 |
+| act15sre_zone1 | 三山奇闻 | Tales of Three-Mountains | 三山奇聞 |
+| act15sre_zone2 | 一十八峰 | Mountain Top | 一十八峰 |
 | act16d5_zone1 | 入画 | Leave From Yourself | 入画 |
 | act16d5_zone2 | 出画 | Come To Yourself | 出画 |
 | act16side_zone1 | 万国峰会 | Summit of Nations | 万国サミット |
@@ -104,8 +104,8 @@ tip: 请善用浏览器的搜索功能
 | act21side_zone3 | 自诩荒野 | Terra Desolata Autoproclamata | 荒野を名乗る者 |
 | act22side_zone1 | 荒烟林沼 | Swamp In The Mists | 煙たなびく沼 |
 | act22side_zone2 | 记忆灰烬 | Ashes of Memories | 記憶の燃え殻 |
-| act23side_zone1 | 城中调查 | - | 城内調査 |
-| act23side_zone2 | 关外追凶 | - | 関外追跡 |
+| act23side_zone1 | 城中调查 | Case Investigation, Onsite | 城内調査 |
+| act23side_zone2 | 关外追凶 | Criminal Pursuit, Offsite | 関外追跡 |
 | act24side_zone1 | 苍暮山地 | - | - |
 | act24side_zone2 | 艾露猫的委托柜台 | - | - |
 | act25side_zone1 | 未来将至 | - | - |
@@ -151,8 +151,8 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_10_zone3 | 城市霓虹 | City Neon | 都市のネオン |
 | permanent_sidestory_11_zone1 | 雪山大典 | The Grand Ceremony | 雪境大典 |
 | permanent_sidestory_11_zone2 | 圣猎 | Holy Hunt | 狩猟の儀 |
-| permanent_sidestory_12_zone1 | 三山奇闻 | - | 三山奇聞 |
-| permanent_sidestory_12_zone2 | 一十八峰 | - | 一十八峰 |
+| permanent_sidestory_12_zone1 | 三山奇闻 | Tales of Three-Mountains | 三山奇聞 |
+| permanent_sidestory_12_zone2 | 一十八峰 | Mountain Top | 一十八峰 |
 | permanent_sidestory_13_zone1 | 万国峰会 | - | - |
 | permanent_sidestory_13_zone2 | 圣殿之路 | - | - |
 | permanent_sidestory_14_zone1 | 夕照大厅 | - | - |

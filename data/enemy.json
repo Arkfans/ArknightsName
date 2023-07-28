@@ -2840,66 +2840,82 @@
     "zh_CN": "“校官”"
   },
   "enemy_1295_ymph": {
+    "en_US": "Di Beast",
     "ja_JP": "諦獣",
     "zh_CN": "谛兽"
   },
   "enemy_1295_ymph_2": {
+    "en_US": "Raging Di Beast",
     "ja_JP": "怒れる諦獣",
     "zh_CN": "躁怒谛兽"
   },
   "enemy_1296_ymknif": {
+    "en_US": "Shanhaizhong Skirmisher",
     "ja_JP": "山海衆雑兵",
     "zh_CN": "山海众散兵"
   },
   "enemy_1296_ymknif_2": {
+    "en_US": "Shanhaizhong Vigilante",
     "ja_JP": "山海衆遊撃隊",
     "zh_CN": "山海众游勇"
   },
   "enemy_1297_ymflag": {
+    "en_US": "Shanhaizhong Relayer",
     "ja_JP": "山海衆伝令兵",
     "zh_CN": "山海众传令手"
   },
   "enemy_1297_ymflag_2": {
+    "en_US": "Shanhaizhong Harbinger",
     "ja_JP": "山海衆伝令官",
     "zh_CN": "山海众掌令使"
   },
   "enemy_1298_ymmonk": {
+    "en_US": "Shanhaizhong Desperado",
     "ja_JP": "山海衆守護者",
     "zh_CN": "山海众冒矢者"
   },
   "enemy_1298_ymmonk_2": {
+    "en_US": "Shanhaizhong Phalanx",
     "ja_JP": "山海衆連陣守護者",
     "zh_CN": "山海众连阵者"
   },
   "enemy_1299_ymkilr": {
+    "en_US": "Shanhaizhong Ringleader",
     "ja_JP": "山海衆精鋭",
     "zh_CN": "山海众头目"
   },
   "enemy_1299_ymkilr_2": {
+    "en_US": "Shanhaizhong Secret-Keeper",
     "ja_JP": "山海衆密使",
     "zh_CN": "山海众秘使"
   },
   "enemy_1300_ymmir": {
+    "en_US": "Shanhaizhong Seer",
     "ja_JP": "山海衆霊視者",
     "zh_CN": "山海众窥魅人"
   },
   "enemy_1300_ymmir_2": {
+    "en_US": "Shanhaizhong Oracle",
     "ja_JP": "山海衆怪術師",
     "zh_CN": "山海众司魅人"
   },
   "enemy_1301_ymcnon": {
+    "en_US": "'Wallbreaker'",
     "ja_JP": "「破堅」",
     "zh_CN": "“破坚”"
   },
   "enemy_1301_ymcnon_2": {
+    "en_US": "'Fortbreaker'",
     "ja_JP": "「砕壁」",
     "zh_CN": "“碎壁”"
   },
   "enemy_1302_ymtro": {
+    "en_US": "'Sandwalker'",
     "ja_JP": "「砂行」",
     "zh_CN": "“履平沙”"
   },
   "enemy_1302_ymtro_2": {
+    "en_US": "'Sand Voyager'",
     "ja_JP": "「長塵」",
     "zh_CN": "“越长尘”"
   },
@@ -2958,6 +2974,7 @@
     "zh_CN": "恶狡兽"
   },
   "enemy_1312_ymillu": {
+    "en_US": "'Winter's Void'",
     "ja_JP": "「無我の冬」",
     "zh_CN": "“无念之冬”"
   },
@@ -3310,14 +3327,17 @@
     "zh_CN": "火龙"
   },
   "enemy_1538_ymmons": {
+    "en_US": "'Ya'",
     "ja_JP": "「睚」",
     "zh_CN": "“睚”"
   },
   "enemy_1538_ymmons_2": {
+    "en_US": "Mirage",
     "ja_JP": "蜃気楼",
     "zh_CN": "蜃景"
   },
   "enemy_1538_ymmons_3": {
+    "en_US": "Delusion",
     "ja_JP": "妄境",
     "zh_CN": "妄境"
   },

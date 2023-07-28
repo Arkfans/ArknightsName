@@ -726,6 +726,7 @@
   "char_2024_chyue": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Chongyue",
       "ja_JP": "チョンユエ",
       "zh_CN": "重岳"
     }
@@ -1841,6 +1842,7 @@
   "char_4078_bdhkgt": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Jieyun",
       "ja_JP": "ジエユン",
       "zh_CN": "截云"
     }
@@ -1848,6 +1850,7 @@
   "char_4080_lin": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Lin",
       "ja_JP": "リン",
       "zh_CN": "林"
     }
@@ -2199,6 +2202,7 @@
   "char_493_firwhl": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Firewhistle",
       "ja_JP": "ファイヤーホイッスル",
       "zh_CN": "火哨"
     }
@@ -3376,6 +3380,7 @@
   "trap_096_gflag": {
     "type": "TRAP",
     "names": {
+      "en_US": "Shanhaizhong Cipher Machine",
       "ja_JP": "山海密令柱",
       "zh_CN": "山海密语仪"
     }
@@ -3383,6 +3388,7 @@
   "trap_097_hstone": {
     "type": "TRAP",
     "names": {
+      "en_US": "Roadblocks",
       "ja_JP": "都市防衛柵",
       "zh_CN": "城防路障"
     }
@@ -3422,6 +3428,7 @@
   "trap_103_ymdgct": {
     "type": "TRAP",
     "names": {
+      "en_US": "Mire Controller",
       "ja_JP": "地形ダメージ制御",
       "zh_CN": "地形增伤控制"
     }
@@ -4023,6 +4030,7 @@
   "char_1021_kroos2@nian#8": {
     "type": "SKIN",
     "names": {
+      "en_US": "Along the Corridor",
       "ja_JP": "長廊遊",
       "zh_CN": "廊下游 "
     }
@@ -4638,6 +4646,7 @@
   "char_2023_ling@nian#9": {
     "type": "SKIN",
     "names": {
+      "en_US": "It Does Wash the Strings",
       "ja_JP": "濯冠纓",
       "zh_CN": "濯缨"
     }
@@ -5689,6 +5698,7 @@
   "char_437_mizuki@sale#7": {
     "type": "SKIN",
     "names": {
+      "en_US": "Summer Feast",
       "ja_JP": "真夏の饗宴",
       "zh_CN": "夏日餮宴"
     }
@@ -5776,6 +5786,7 @@
   "char_473_mberry@nian#9": {
     "type": "SKIN",
     "names": {
+      "en_US": "Reflection That of the Moons",
       "ja_JP": "照氷輪",
       "zh_CN": "照冰轮"
     }
@@ -5887,6 +5898,7 @@
   "char_497_ctable@nian#9": {
     "type": "SKIN",
     "names": {
+      "en_US": "Illumination That of Daylights",
       "ja_JP": "灯如昼",
       "zh_CN": "灯如昼"
     }
@@ -10598,6 +10610,7 @@
   "enemy_1295_ymph": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Di Beast",
       "ja_JP": "諦獣",
       "zh_CN": "谛兽"
     }
@@ -10605,6 +10618,7 @@
   "enemy_1295_ymph_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Raging Di Beast",
       "ja_JP": "怒れる諦獣",
       "zh_CN": "躁怒谛兽"
     }
@@ -10612,6 +10626,7 @@
   "enemy_1296_ymknif": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Shanhaizhong Skirmisher",
       "ja_JP": "山海衆雑兵",
       "zh_CN": "山海众散兵"
     }
@@ -10619,6 +10634,7 @@
   "enemy_1296_ymknif_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Shanhaizhong Vigilante",
       "ja_JP": "山海衆遊撃隊",
       "zh_CN": "山海众游勇"
     }
@@ -10626,6 +10642,7 @@
   "enemy_1297_ymflag": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Shanhaizhong Relayer",
       "ja_JP": "山海衆伝令兵",
       "zh_CN": "山海众传令手"
     }
@@ -10633,6 +10650,7 @@
   "enemy_1297_ymflag_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Shanhaizhong Harbinger",
       "ja_JP": "山海衆伝令官",
       "zh_CN": "山海众掌令使"
     }
@@ -10640,6 +10658,7 @@
   "enemy_1298_ymmonk": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Shanhaizhong Desperado",
       "ja_JP": "山海衆守護者",
       "zh_CN": "山海众冒矢者"
     }
@@ -10647,6 +10666,7 @@
   "enemy_1298_ymmonk_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Shanhaizhong Phalanx",
       "ja_JP": "山海衆連陣守護者",
       "zh_CN": "山海众连阵者"
     }
@@ -10654,6 +10674,7 @@
   "enemy_1299_ymkilr": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Shanhaizhong Ringleader",
       "ja_JP": "山海衆精鋭",
       "zh_CN": "山海众头目"
     }
@@ -10661,6 +10682,7 @@
   "enemy_1299_ymkilr_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Shanhaizhong Secret-Keeper",
       "ja_JP": "山海衆密使",
       "zh_CN": "山海众秘使"
     }
@@ -10668,6 +10690,7 @@
   "enemy_1300_ymmir": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Shanhaizhong Seer",
       "ja_JP": "山海衆霊視者",
       "zh_CN": "山海众窥魅人"
     }
@@ -10675,6 +10698,7 @@
   "enemy_1300_ymmir_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Shanhaizhong Oracle",
       "ja_JP": "山海衆怪術師",
       "zh_CN": "山海众司魅人"
     }
@@ -10682,6 +10706,7 @@
   "enemy_1301_ymcnon": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Wallbreaker'",
       "ja_JP": "「破堅」",
       "zh_CN": "“破坚”"
     }
@@ -10689,6 +10714,7 @@
   "enemy_1301_ymcnon_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Fortbreaker'",
       "ja_JP": "「砕壁」",
       "zh_CN": "“碎壁”"
     }
@@ -10696,6 +10722,7 @@
   "enemy_1302_ymtro": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Sandwalker'",
       "ja_JP": "「砂行」",
       "zh_CN": "“履平沙”"
     }
@@ -10703,6 +10730,7 @@
   "enemy_1302_ymtro_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Sand Voyager'",
       "ja_JP": "「長塵」",
       "zh_CN": "“越长尘”"
     }
@@ -10818,6 +10846,7 @@
   "enemy_1312_ymillu": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Winter's Void'",
       "ja_JP": "「無我の冬」",
       "zh_CN": "“无念之冬”"
     }
@@ -11449,6 +11478,7 @@
   "enemy_1538_ymmons": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Ya'",
       "ja_JP": "「睚」",
       "zh_CN": "“睚”"
     }
@@ -11456,6 +11486,7 @@
   "enemy_1538_ymmons_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Mirage",
       "ja_JP": "蜃気楼",
       "zh_CN": "蜃景"
     }
@@ -11463,6 +11494,7 @@
   "enemy_1538_ymmons_3": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Delusion",
       "ja_JP": "妄境",
       "zh_CN": "妄境"
     }
@@ -12452,6 +12484,7 @@
   "act13login": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Sign-in Campaign",
       "ja_JP": "ログイン報酬",
       "zh_CN": "登录领取奖励"
     }
@@ -12579,6 +12612,7 @@
   "act15sre": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Invitation to Wine - Rerun",
       "ja_JP": "将進酒・復刻",
       "zh_CN": "将进酒·复刻"
     }
@@ -12894,6 +12928,7 @@
   "act23side": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Where Vernal Winds Will Never Blow",
       "ja_JP": "登臨意",
       "zh_CN": "登临意"
     }
@@ -13037,6 +13072,7 @@
   "act33sign": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Limited-time Cumulative Sign-in",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
@@ -13156,6 +13192,7 @@
   "act5pray": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Lungmen Lucky Strips",
       "ja_JP": "龍門おみくじ",
       "zh_CN": "龙门幸运墙登录活动"
     }
@@ -13785,6 +13822,7 @@
   "2023recruitment10_1": {
     "type": "ITEM",
     "names": {
+      "en_US": "Type-α Headhunting Permit",
       "ja_JP": "3.5周年特別スカウト券α",
       "zh_CN": "α类新年寻访凭证"
     }
@@ -13792,6 +13830,7 @@
   "2023recruitment10_2": {
     "type": "ITEM",
     "names": {
+      "en_US": "Type-β Headhunting Permit",
       "ja_JP": "3.5周年特別スカウト券β",
       "zh_CN": "β类新年寻访凭证"
     }
@@ -13799,6 +13838,7 @@
   "2023recruitment10_3": {
     "type": "ITEM",
     "names": {
+      "en_US": "Type-γ Headhunting Permit",
       "ja_JP": "3.5周年特別スカウト券γ",
       "zh_CN": "γ类新年寻访凭证"
     }
@@ -14710,6 +14750,7 @@
   "LIMITED_TKT_GACHA_10_3501": {
     "type": "ITEM",
     "names": {
+      "en_US": "Winds of Millennia Unyielding Headhunting Permit",
       "ja_JP": "3.5周年記念10回スカウト券",
       "zh_CN": "长风万里寻访凭证"
     }
@@ -14823,6 +14864,7 @@
   "LMTGS_COIN_3501": {
     "type": "ITEM",
     "names": {
+      "en_US": "Headhunting Data Contract",
       "ja_JP": "限定契約証",
       "zh_CN": "寻访数据契约"
     }
@@ -15190,6 +15232,7 @@
   "act15side_token_tea_rep_1": {
     "type": "ITEM",
     "names": {
+      "en_US": "Canned Tea",
       "ja_JP": "正午茶",
       "zh_CN": "罐装晌午茶"
     }
@@ -15405,6 +15448,7 @@
   "act23side_token_spirit": {
     "type": "ITEM",
     "names": {
+      "en_US": "Freshly-Brewed Liedaozi",
       "ja_JP": "烈刀子",
       "zh_CN": "新酿烈刀子"
     }
@@ -15784,6 +15828,7 @@
   "ap_supply_lt_100_2023_1": {
     "type": "ITEM",
     "names": {
+      "en_US": "Persimmons Picked from a Scroll",
       "ja_JP": "絵巻からもいだ柿",
       "zh_CN": "摘自画卷的柿子"
     }
@@ -15791,6 +15836,7 @@
   "ap_supply_lt_100_2023_2": {
     "type": "ITEM",
     "names": {
+      "en_US": "Crisp Walnut Cookies",
       "ja_JP": "カリカリの桃酥",
       "zh_CN": "香脆桃酥饼"
     }
@@ -15798,6 +15844,7 @@
   "ap_supply_lt_100_2023_3": {
     "type": "ITEM",
     "names": {
+      "en_US": "Spicy Hotpot(?)",
       "ja_JP": "香辣火炉",
       "zh_CN": "香辣火炉"
     }
@@ -15805,6 +15852,7 @@
   "ap_supply_lt_100_2023_4": {
     "type": "ITEM",
     "names": {
+      "en_US": "Golden Syrup New Year's Cake",
       "ja_JP": "金糖もち",
       "zh_CN": "金糖年糕"
     }
@@ -15812,6 +15860,7 @@
   "ap_supply_lt_100_2023_5": {
     "type": "ITEM",
     "names": {
+      "en_US": "Papaya Leaf Meat Pie",
       "ja_JP": "パパイア葉のパイ",
       "zh_CN": "木瓜叶馅饼"
     }
@@ -16903,6 +16952,7 @@
   "itempack_mod_10": {
     "type": "ITEM",
     "names": {
+      "en_US": "Sniper Chip Pack Etcher",
       "ja_JP": "中級狙撃SoCプリンター",
       "zh_CN": "狙击芯片组印刻仪"
     }
@@ -16910,6 +16960,7 @@
   "itempack_mod_11": {
     "type": "ITEM",
     "names": {
+      "en_US": "Caster Chip Pack Etcher",
       "ja_JP": "中級術師SoCプリンター",
       "zh_CN": "术师芯片组印刻仪"
     }
@@ -16917,6 +16968,7 @@
   "itempack_mod_12": {
     "type": "ITEM",
     "names": {
+      "en_US": "Medic Chip Pack Etcher",
       "ja_JP": "中級医療SoCプリンター",
       "zh_CN": "医疗芯片组印刻仪"
     }
@@ -16924,6 +16976,7 @@
   "itempack_mod_13": {
     "type": "ITEM",
     "names": {
+      "en_US": "Supporter Chip Pack Etcher",
       "ja_JP": "中級補助SoCプリンター",
       "zh_CN": "辅助芯片组印刻仪"
     }
@@ -16931,6 +16984,7 @@
   "itempack_mod_14": {
     "type": "ITEM",
     "names": {
+      "en_US": "Specialist Chip Pack Etcher",
       "ja_JP": "中級特殊SoCプリンター",
       "zh_CN": "特种芯片组印刻仪"
     }
@@ -16950,6 +17004,7 @@
   "itempack_mod_7": {
     "type": "ITEM",
     "names": {
+      "en_US": "Vanguard Chip Pack Etcher",
       "ja_JP": "中級先鋒SoCプリンター",
       "zh_CN": "先锋芯片组印刻仪"
     }
@@ -16957,6 +17012,7 @@
   "itempack_mod_8": {
     "type": "ITEM",
     "names": {
+      "en_US": "Guard Chip Pack Etcher",
       "ja_JP": "中級前衛SoCプリンター",
       "zh_CN": "近卫芯片组印刻仪"
     }
@@ -16964,6 +17020,7 @@
   "itempack_mod_9": {
     "type": "ITEM",
     "names": {
+      "en_US": "Defender Chip Pack Etcher",
       "ja_JP": "中級重装SoCプリンター",
       "zh_CN": "重装芯片组印刻仪"
     }
@@ -17755,6 +17812,7 @@
   "p_char_2024_chyue": {
     "type": "ITEM",
     "names": {
+      "en_US": "Chongyue's Token",
       "ja_JP": "チョンユエの印",
       "zh_CN": "重岳的信物"
     }
@@ -18854,6 +18912,7 @@
   "p_char_4078_bdhkgt": {
     "type": "ITEM",
     "names": {
+      "en_US": "Jieyun's Token",
       "ja_JP": "ジエユンの印",
       "zh_CN": "截云的信物"
     }
@@ -18861,6 +18920,7 @@
   "p_char_4080_lin": {
     "type": "ITEM",
     "names": {
+      "en_US": "Lin's Token",
       "ja_JP": "リンの印",
       "zh_CN": "林的信物"
     }
@@ -19198,6 +19258,7 @@
   "p_char_493_firwhl": {
     "type": "ITEM",
     "names": {
+      "en_US": "Firewhistle's Token",
       "ja_JP": "ファイヤーホイッスルの印",
       "zh_CN": "火哨的信物"
     }
@@ -20093,6 +20154,7 @@
   "uni_set_inkArt": {
     "type": "ITEM",
     "names": {
+      "en_US": "Who is Real Furniture Pack",
       "ja_JP": "画中人家具パック",
       "zh_CN": "画中人家具收藏包"
     }
@@ -20178,6 +20240,7 @@
   "voucher_chipPackage": {
     "type": "ITEM",
     "names": {
+      "en_US": "Automatic Chip Pack Etcher",
       "ja_JP": "SoCセルフプリンター",
       "zh_CN": "自助芯片组印刻仪"
     }
@@ -20261,6 +20324,7 @@
   "voucher_full_lava2": {
     "type": "ITEM",
     "names": {
+      "en_US": "Lava the Purgatory's Personal Letter",
       "ja_JP": "炎獄ラヴァの手紙",
       "zh_CN": "炎狱炎熔的私人信件"
     }
@@ -21255,6 +21319,7 @@
   "_LIMITED_22_2_1": {
     "type": "POOL",
     "names": {
+      "en_US": "Solitude Universal",
       "ja_JP": "万象伶丁"
     }
   },
@@ -22061,6 +22126,7 @@
   "skchr_bdhkgt_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Seeking a Path",
       "ja_JP": "前路を調べ",
       "zh_CN": "探前路"
     }
@@ -22068,6 +22134,7 @@
   "skchr_bdhkgt_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Dust of Days Past",
       "ja_JP": "旧塵を擲つ",
       "zh_CN": "掷旧尘"
     }
@@ -22541,6 +22608,7 @@
   "skchr_chyue_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Abundant",
       "ja_JP": "満盈",
       "zh_CN": "冲盈"
     }
@@ -22548,6 +22616,7 @@
   "skchr_chyue_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Whisk",
       "ja_JP": "払塵",
       "zh_CN": "拂尘"
     }
@@ -22555,6 +22624,7 @@
   "skchr_chyue_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Anatta",
       "ja_JP": "我無",
       "zh_CN": "我无"
     }
@@ -22940,6 +23010,7 @@
   "skchr_firwhl_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Wildfire",
       "ja_JP": "ワイルドファイア",
       "zh_CN": "野火"
     }
@@ -22947,6 +23018,7 @@
   "skchr_firwhl_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Scorched Earth",
       "ja_JP": "バーングラウンド",
       "zh_CN": "焦土"
     }
@@ -23934,6 +24006,7 @@
   "skchr_lin_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Elegance",
       "ja_JP": "玲瓏",
       "zh_CN": "玲珑"
     }
@@ -23941,6 +24014,7 @@
   "skchr_lin_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Shelter",
       "ja_JP": "木陰",
       "zh_CN": "荫庇"
     }
@@ -23948,6 +24022,7 @@
   "skchr_lin_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Riving Lighttails",
       "ja_JP": "流光炸裂",
       "zh_CN": "流光乍裂"
     }
@@ -31133,6 +31208,7 @@
   "act23side_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Spring in the Borderlands",
       "ja_JP": "春の芽生え",
       "zh_CN": "塞上春来"
     }
@@ -31140,6 +31216,7 @@
   "act23side_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Yellow Sands",
       "ja_JP": "黄砂の荒波",
       "zh_CN": "沙海黄尘"
     }
@@ -31147,6 +31224,7 @@
   "act23side_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "How Old Trees Grow",
       "ja_JP": "樹も今や",
       "zh_CN": "树犹如此"
     }
@@ -31154,6 +31232,7 @@
   "act23side_04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Let the Old Times Go",
       "ja_JP": "往昔を念はず",
       "zh_CN": "不念往昔"
     }
@@ -31161,6 +31240,7 @@
   "act23side_05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Rain Forecast",
       "ja_JP": "風雨来たらんと欲す",
       "zh_CN": "风雨欲来"
     }
@@ -31168,6 +31248,7 @@
   "act23side_06": {
     "type": "STAGE",
     "names": {
+      "en_US": "Sight of Autumn",
       "ja_JP": "瑟々たる秋の華",
       "zh_CN": "瑟瑟秋华"
     }
@@ -31175,6 +31256,7 @@
   "act23side_07": {
     "type": "STAGE",
     "names": {
+      "en_US": "'Wind Aegis'",
       "ja_JP": "「屛風衛」",
       "zh_CN": "“屏风卫”"
     }
@@ -31182,6 +31264,7 @@
   "act23side_08": {
     "type": "STAGE",
     "names": {
+      "en_US": "Ancient Mutters",
       "ja_JP": "未曽有の一戦",
       "zh_CN": "旷古之晤"
     }
@@ -31189,6 +31272,7 @@
   "act23side_09": {
     "type": "STAGE",
     "names": {
+      "en_US": "'Hibernate'",
       "ja_JP": "「冬蔵」",
       "zh_CN": "“冬藏”"
     }
@@ -31196,6 +31280,7 @@
   "act23side_st01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Dream of Youth",
       "ja_JP": "忽ち夢むは年少の事",
       "zh_CN": "忽梦少年事"
     }
@@ -31203,6 +31288,7 @@
   "act23side_st02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Believe My Belief",
       "ja_JP": "我の信ずる所を信ず",
       "zh_CN": "信我所信"
     }
@@ -31210,6 +31296,7 @@
   "act23side_st03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Keep the Ploy",
       "ja_JP": "終わりのコウ",
       "zh_CN": "粘劫收后"
     }
@@ -31217,6 +31304,7 @@
   "act23side_tr01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Lone Redoubt",
       "ja_JP": "辺塞の孤城",
       "zh_CN": "塞上孤城"
     }
@@ -35776,6 +35864,7 @@
   "act15sre_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Tales of Three-Mountains",
       "ja_JP": "三山奇聞",
       "zh_CN": "三山奇闻"
     }
@@ -35783,6 +35872,7 @@
   "act15sre_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Mountain Top",
       "ja_JP": "一十八峰",
       "zh_CN": "一十八峰"
     }
@@ -36128,6 +36218,7 @@
   "act23side_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Case Investigation, Onsite",
       "ja_JP": "城内調査",
       "zh_CN": "城中调查"
     }
@@ -36135,6 +36226,7 @@
   "act23side_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Criminal Pursuit, Offsite",
       "ja_JP": "関外追跡",
       "zh_CN": "关外追凶"
     }
@@ -36484,6 +36576,7 @@
   "permanent_sidestory_12_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Tales of Three-Mountains",
       "ja_JP": "三山奇聞",
       "zh_CN": "三山奇闻"
     }
@@ -36491,6 +36584,7 @@
   "permanent_sidestory_12_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Mountain Top",
       "ja_JP": "一十八峰",
       "zh_CN": "一十八峰"
     }
@@ -36972,6 +37066,7 @@
   "story_archet_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Idol Promotion",
       "ja_JP": "アイドルのプロモーション",
       "zh_CN": "偶像宣传"
     }
@@ -37039,6 +37134,7 @@
   "story_bibeak_set_2_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Through the Long Hallway",
       "ja_JP": "長い廊下を抜けて",
       "zh_CN": "走出那条长长的走廊"
     }
@@ -37228,6 +37324,7 @@
   "story_chyue_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Once Upon a Time, I Wandered Afar",
       "ja_JP": "昔我往きて、君と携行す",
       "zh_CN": "昔我往矣"
     }
@@ -37287,6 +37384,7 @@
   "story_dusk_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Dawn and Dusk",
       "ja_JP": "一朝一夕",
       "zh_CN": "旦夕"
     }
@@ -37536,6 +37634,7 @@
   "story_haak_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "A Night of Terror",
       "ja_JP": "肝を冷やす夜　",
       "zh_CN": "惊弓一夜"
     }
@@ -37757,6 +37856,7 @@
   "story_lmlee_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Three Square Meals a Day",
       "ja_JP": "一日三食",
       "zh_CN": "三餐一日"
     }
@@ -37786,6 +37886,7 @@
   "story_mberry_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "A Prayer for Peace",
       "ja_JP": "安全祈願",
       "zh_CN": "平安祈愿"
     }
@@ -38165,6 +38266,7 @@
   "story_serum_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Corroserum's Badge",
       "ja_JP": "コロセラムのIDカード",
       "zh_CN": "蚀清的工牌"
     }
@@ -38556,6 +38658,7 @@
   "story_zebra_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Untimeliness",
       "ja_JP": "場違い",
       "zh_CN": "不合时宜"
     }
