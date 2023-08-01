@@ -13,6 +13,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_aglina_1 | 秘杖·速充模式 | Arcane Staff - Quick Charge Mode | 秘杖・急収束　 |
 | skchr_aglina_2 | 秘杖·微粒模式 | Arcane Staff - Particle Mode | 秘杖・微粒子 |
 | skchr_aglina_3 | 秘杖·反重力模式 | Arcane Staff - Anti-Gravity Mode | 秘杖・反重力 |
+| skchr_agoat2_1 | 无声润物 | - | - |
+| skchr_agoat2_2 | 云霭荫佑 | - | - |
+| skchr_agoat2_3 | 火山回响 | - | - |
 | skchr_aguard_1 | 亮剑 | Drawing Sword | 鋭刃 |
 | skchr_akafyu_1 | 信影流·雷刀之势 | Nobukage-ryu - Kaminari Gatana no Zei | 信影流・雷刀之勢 |
 | skchr_akafyu_2 | 信影流·十文字胜 | Nobukage-ryu - Juumonji Masaru | 信影流・十文字勝 |
@@ -85,9 +88,12 @@ tip: 请善用浏览器的搜索功能
 | skchr_broca_2 | 高压电流 | High-Voltage Current | ハイボルテージ |
 | skchr_brownb_1 | 高机动 | Flexibility | ウィービング |
 | skchr_brownb_2 | 急速拳 | Soaring Fists | ラッシュ |
+| skchr_bryota_1 | 强力击·β型 | - | - |
+| skchr_bryota_2 | 土石的恒心 | - | - |
 | skchr_bstalk_1 | 定点指令 | Sentinel Command | 出動指令 |
 | skchr_bstalk_2 | “大家一起上” | 'Everyone Together!' | 「全員集合！」 |
 | skchr_bubble_2 | “挨打” | 'Beaten Up' | 「かかってこい！」 |
+| skchr_buildr_2 | 工程者之愿 | - | - |
 | skchr_cammou_2 | 同步索敌攻击 | Synchronized Attack | 同調索敵攻撃 |
 | skchr_catap_1 | 爆破范围提升·α型 | Blast Range Up α | 爆破範囲拡大α |
 | skchr_ccheal_1 | 活力再生 | Vitality Restoration | 回復力促進 |
@@ -491,6 +497,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_svrash_1 | 强力击·γ型 | Power Strike γ | 強撃γ |
 | skchr_svrash_2 | 雪境生存法则 | Rules of Survival | 雪境生存戦略 |
 | skchr_svrash_3 | 真银斩 | Truesilver Slash | 真銀斬 |
+| skchr_swire2_1 | 仗义疏财 | - | - |
+| skchr_swire2_2 | “见面礼” | - | - |
+| skchr_swire2_3 | 千金一掷 | - | - |
 | skchr_swire_1 | 指挥调度 | Command and Dispatch | 統括指揮 |
 | skchr_swire_2 | 协同作战 | Cooperative Combat | 協同作戦 |
 | skchr_swllow_1 | 飞羽 | Flying Feathers | 風切 |
@@ -706,7 +715,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_motter_1 | 迷惑装置 | Bionic Device | 攪乱装置 |
 | sktok_motter_2 | 爆破回收 | Detonate and Recycle | ミーボ起爆 |
 | sktok_mound | 风沙掩体 | Sandstorm Protection | 防風壁 |
-| sktok_nearl2_3 | "耀阳" | 'Blazing Sun' | 「ブレイジング・サン」 |
+| sktok_nearl2_3 | “耀阳” | 'Blazing Sun' | 「ブレイジング・サン」 |
 | sktok_neonlamp | 文明的光芒 | The Light of Civilization | 「文明の灯火」 |
 | sktok_normbox | 诱人珍宝 | Alluring Treasures | 財宝のいざない |
 | sktok_npcsld | 列阵！ | Form Up! | 構え！ |
@@ -764,10 +773,13 @@ tip: 请善用浏览器的搜索功能
 | sktok_smtree | 阻止部署 | - | - |
 | sktok_snflwr | 全自动划账 | - | - |
 | sktok_stdurk_1 | “咔嚓！” | - | - |
+| sktok_stmbot | 水汽汽水瓶 | - | - |
+| sktok_stmpq | 景观喷泉 | - | - |
 | sktok_stone | 阻挡路线 | Obstruct | 進路妨害 |
 | sktok_storm | 沙尘暴 | Sandstorm | 砂嵐 |
 | sktok_streasure | 宝刺伤人 | - | - |
 | sktok_supplycard | 新遣 | Dispatch | 派遣 |
+| sktok_swire2_gdtrap | “见面礼” | - | - |
 | sktok_tbattbc | 钳兽壳粉 | Gloompincer Shell Meal | 鉗獣殻パウダー |
 | sktok_tbpsnc | 高效泡打粉 | High-Efficiency Baking Powder | ベーキングパウダー |
 | sktok_tbsmmc | 芳香精油 | Fragrant Essential Oil | エッセンシャルオイル |

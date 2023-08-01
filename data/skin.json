@@ -64,6 +64,9 @@
   "char_1023_ghost2@boc#6": {
     "zh_CN": "生而为一"
   },
+  "char_1026_gvial2@summer#12": {
+    "zh_CN": "悠然假日 HD26"
+  },
   "char_1027_greyy2@snow#5": {
     "en_US": "Aftershow",
     "ja_JP": "終演後の王子様",
@@ -273,6 +276,9 @@
     "en_US": "Light Gold Celebration",
     "ja_JP": "金色のマーチ",
     "zh_CN": "淡金庆典"
+  },
+  "char_151_myrtle@summer#12": {
+    "zh_CN": "夏卉 FA062"
   },
   "char_155_tiger@striker#2": {
     "en_US": "Valiant General",
@@ -915,6 +921,9 @@
     "ja_JP": "しあわせの使い",
     "zh_CN": "喜夜侍者"
   },
+  "char_377_gdglow@summer#12": {
+    "zh_CN": "夏卉 FA394"
+  },
   "char_378_asbest@whirlwind#3": {
     "en_US": "Glen Sonata",
     "ja_JP": "グレンソナタ",
@@ -990,6 +999,9 @@
     "en_US": "Before Singing",
     "ja_JP": "歌の前に",
     "zh_CN": "欢唱之前"
+  },
+  "char_4041_chnut@summer#12": {
+    "zh_CN": "悠然假日 HDm57"
   },
   "char_4042_lumen@ambienceSynesthesia#3": {
     "zh_CN": "灿海浮梦"

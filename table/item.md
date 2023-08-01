@@ -137,6 +137,7 @@ tip: 请善用浏览器的搜索功能
 | LIMITED_TKT_GACHA_10_3301 | 归狼踏影寻访凭证 | Wolves Stalk Shadows Headhunting Permit | 感謝祭記念10回スカウト券 |
 | LIMITED_TKT_GACHA_10_3501 | 长风万里寻访凭证 | Winds of Millennia Unyielding Headhunting Permit | 3.5周年記念10回スカウト券 |
 | LIMITED_TKT_GACHA_10_3801 | 未来序曲寻访凭证 | - | - |
+| LIMITED_TKT_GACHA_10_4101 | 云过天空寻访凭证 | - | - |
 | LIMITED_TKT_GACHA_10_903 | 苏醒纪念寻访凭证 | Awakening Commemoration Permit | 1周年記念10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_1701 | 特勤专家寻访凭证 | Elite Forces Headhunting Permit | 精鋭小隊10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_3601 | 指引明路寻访凭证 | - | - |
@@ -152,6 +153,7 @@ tip: 请善用浏览器的搜索功能
 | LMTGS_COIN_3301 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_3501 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_3801 | 寻访数据契约 | - | - |
+| LMTGS_COIN_4101 | 寻访数据契约 | - | - |
 | LMTGS_COIN_601 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_903 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | Logistics_Special_Permit | 后勤特别许可证 | - | - |
@@ -236,6 +238,7 @@ tip: 请善用浏览器的搜索功能
 | act25side_token_key01 | 特殊作战许可·α | - | - |
 | act25side_token_key02 | 特殊作战许可·β | - | - |
 | act26side_token_fragmenta | 圣像碎片 | - | - |
+| act27side_token_fur | 毛绒绒生物的毛 | - | - |
 | act2bossrush_milestone_point | 试炼经验 | - | - |
 | act2bossrush_relic_01 | 修复套件 | - | - |
 | act2bossrush_relic_02 | 维续补丁 | - | - |
@@ -258,6 +261,7 @@ tip: 请善用浏览器的搜索功能
 | act9d0_token_dogTag_rep_1 | 无名的识别牌 | Anonymous Tags | 名無しのタグ |
 | act9d4_point_token | 游击队员徽章 | Guerilla Squad Member Badge | 遊撃隊バッジ |
 | act9mini_token_ticket | 红松叶彩券 | Liść Ticket | パインリーフチケット |
+| advanced_material_issue_voucher | 高级材料提货券 | - | - |
 | ap_item_CaH_200 | 双人汉堡餐 | Burger Set for Two | ハンバーガーセット |
 | ap_item_SEC_60 | 咸蛋黄味巧克力 | Salted Egg Yolk Flavor Chocolate | 塩卵味チョコレート |
 | ap_item_amiya | 阿米娅的烧烤味饼干 | Amiya's Grilled Flavor Biscuit | アーミヤのクッキー |
@@ -477,6 +481,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_1012_skadi2 | 浊心斯卡蒂的信物 | Skadi the Corrupting Heart's Token | 濁心スカジの印 |
 | p_char_1013_chen2 | 假日威龙陈的信物 | Ch'en the Holungday's Token | 遊龍チェンの印 |
 | p_char_1014_nearl2 | 耀骑士临光的信物 | Nearl the Radiant Knight's Token | 耀騎士ニアールの印 |
+| p_char_1016_agoat2 | 纯烬艾雅法拉的信物 | - | - |
 | p_char_101_sora | 空的信物 | Sora's Token | ソラの印 |
 | p_char_1020_reed2 | 焰影苇草的信物 | Reed the Flame Shadow's Token | 焔影リードの印 |
 | p_char_1021_kroos2 | 寒芒克洛丝的信物 | Kroos the Keen Glint’s Token | 寒芒クルースの印 |
@@ -490,6 +495,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_1030_noirc2 | 火龙S黑角的信物 | - | - |
 | p_char_1031_slent2 | 淬羽赫默的信物 | - | - |
 | p_char_1032_excu2 | 圣约送葬人的信物 | - | - |
+| p_char_1033_swire2 | 琳琅诗怀雅的信物 | - | - |
 | p_char_103_angel | 能天使的信物 | Exusiai's Token | エクシアの印 |
 | p_char_106_franka | 芙兰卡的信物 | Franka's Token | フランカの印 |
 | p_char_107_liskam | 雷蛇的信物 | Liskarm's Token | リスカムの印 |
@@ -705,6 +711,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4087_ines | 伊内丝的信物 | - | - |
 | p_char_4093_frston | Friston-3的信物 | - | - |
 | p_char_4102_threye | 凛视的信物 | - | - |
+| p_char_4106_bryota | 苍苔的信物 | - | - |
 | p_char_411_tomimi | 特米米的信物 | Tomimi's Token | トミミの印 |
 | p_char_415_flint | 燧石的信物 | Flint's Token | フリントの印 |
 | p_char_416_zumama | 森蚺的信物 | Eunectes' Token | ユーネクテスの印 |
@@ -740,6 +747,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_484_robrta | 罗比菈塔的信物 | Roberta's Token | ロベルタの印 |
 | p_char_485_pallas | 帕拉斯的信物 | Pallas's Token | パラスの印 |
 | p_char_486_takila | 龙舌兰的信物 | Tequila's Token | テキーラの印 |
+| p_char_488_buildr | 青枳的信物 | - | - |
 | p_char_489_serum | 蚀清的信物 | Corroserum's Token | コロセラムの印 |
 | p_char_491_humus | 休谟斯的信物 | - | - |
 | p_char_492_quercu | 夏栎的信物 | Quercus's Token | クエルクスの印 |
@@ -751,6 +759,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_501_durin | 杜林的信物 | Durin's Token | ドゥリンの印 |
 | p_char_502_nblade | 夜刀的信物 | Yato's Token | ヤトウの印 |
 | p_char_503_rang | 巡林者的信物 | Rangers' Token | レンジャーの印 |
+| premium_material_issue_voucher | 特级材料提货券 | - | - |
 | randomDiamondShd_1 | 罗德岛迎春红包 | Half Year Anniversary Red Envelope | お祝いポチ袋 |
 | randomDiamondShd_2 | 庆典礼盒 | Celebratory Box | 感謝祭ギフトボックス |
 | randomMaterialRune_0 | 荒芜行动物资补给 | Operation Barrenland Supplies | 補給物資・「荒廃」 |
@@ -775,6 +784,7 @@ tip: 请善用浏览器的搜索功能
 | randomMaterial_7 | 罗德岛物资补给IV | Rhodes Island Supplies IV | 補給物資・ロドスIV |
 | randomMaterial_8 | 罗德岛物资补给V | - | - |
 | randomMaterial_rhine2 | 技术调查补给 | - | - |
+| randomMaterial_siesta2 | 峯联贸易物流补给 | - | - |
 | renamingCard | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
 | renamingCard_0_018 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
 | renamingCard_0_023 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
@@ -866,6 +876,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_pizza | 骑兵与猎人家具收藏包 | Grani and the Knights' Treasure Furniture Pack | 騎兵と狩人家具パック |
 | uni_set_prison | 孤岛风云家具收藏包 | Mansfield Break Furniture Pack | 孤島激震家具パック |
 | uni_set_reception | 龙门风情茶室家具收藏包 | Lungmen Tearoom Furniture Collection Set | 龍門茶室家具パック |
+| uni_set_westCoast | 多索雷斯假日家具收藏包 | - | - |
 | voucher_5chipPackage | 自助芯片印刻仪 | - | - |
 | voucher_chip | 芯片自助打印盒 | Automatic Chip Printer | 初級SoCセルフプリンター |
 | voucher_chipPack | 芯片组自助打印盒 | Automatic Chip Pack Printer | 中級SoCセルフプリンター |
@@ -886,6 +897,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_full_sidero | 铸铁的私人信件 | Sideroca's Personal Letter | シデロカの手紙 |
 | voucher_full_snsant | 雪雉的私人信件 | Snowsant's Personal Letter | スノーズントの手紙 |
 | voucher_full_sophia | 鞭刃的私人信件 | Whislash's Personal Letter | ウィスラッシュの手紙 |
+| voucher_full_takila | 龙舌兰的私人信件 | - | - |
 | voucher_full_tomimi | 特米米的私人信件 | Tomimi's Personal Letter | トミミの手紙 |
 | voucher_full_zebra | 暴雨的私人信件 | - | - |
 | voucher_item_4pick1 | 干员兑换券 | Operator Voucher | オペレーター指名券 |

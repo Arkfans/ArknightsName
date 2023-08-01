@@ -657,6 +657,9 @@
   "LIMITED_TKT_GACHA_10_3801": {
     "zh_CN": "未来序曲寻访凭证"
   },
+  "LIMITED_TKT_GACHA_10_4101": {
+    "zh_CN": "云过天空寻访凭证"
+  },
   "LIMITED_TKT_GACHA_10_903": {
     "en_US": "Awakening Commemoration Permit",
     "ja_JP": "1周年記念10回スカウト券",
@@ -724,6 +727,9 @@
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_3801": {
+    "zh_CN": "寻访数据契约"
+  },
+  "LMTGS_COIN_4101": {
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_601": {
@@ -1112,6 +1118,9 @@
   "act26side_token_fragmenta": {
     "zh_CN": "圣像碎片"
   },
+  "act27side_token_fur": {
+    "zh_CN": "毛绒绒生物的毛"
+  },
   "act2bossrush_milestone_point": {
     "zh_CN": "试炼经验"
   },
@@ -1205,6 +1214,9 @@
     "en_US": "Liść Ticket",
     "ja_JP": "パインリーフチケット",
     "zh_CN": "红松叶彩券"
+  },
+  "advanced_material_issue_voucher": {
+    "zh_CN": "高级材料提货券"
   },
   "ap_item_CaH_200": {
     "en_US": "Burger Set for Two",
@@ -2041,6 +2053,9 @@
     "ja_JP": "耀騎士ニアールの印",
     "zh_CN": "耀骑士临光的信物"
   },
+  "p_char_1016_agoat2": {
+    "zh_CN": "纯烬艾雅法拉的信物"
+  },
   "p_char_101_sora": {
     "en_US": "Sora's Token",
     "ja_JP": "ソラの印",
@@ -2097,6 +2112,9 @@
   },
   "p_char_1032_excu2": {
     "zh_CN": "圣约送葬人的信物"
+  },
+  "p_char_1033_swire2": {
+    "zh_CN": "琳琅诗怀雅的信物"
   },
   "p_char_103_angel": {
     "en_US": "Exusiai's Token",
@@ -3147,6 +3165,9 @@
   "p_char_4102_threye": {
     "zh_CN": "凛视的信物"
   },
+  "p_char_4106_bryota": {
+    "zh_CN": "苍苔的信物"
+  },
   "p_char_411_tomimi": {
     "en_US": "Tomimi's Token",
     "ja_JP": "トミミの印",
@@ -3320,6 +3341,9 @@
     "ja_JP": "テキーラの印",
     "zh_CN": "龙舌兰的信物"
   },
+  "p_char_488_buildr": {
+    "zh_CN": "青枳的信物"
+  },
   "p_char_489_serum": {
     "en_US": "Corroserum's Token",
     "ja_JP": "コロセラムの印",
@@ -3370,6 +3394,9 @@
     "en_US": "Rangers' Token",
     "ja_JP": "レンジャーの印",
     "zh_CN": "巡林者的信物"
+  },
+  "premium_material_issue_voucher": {
+    "zh_CN": "特级材料提货券"
   },
   "randomDiamondShd_1": {
     "en_US": "Half Year Anniversary Red Envelope",
@@ -3484,6 +3511,9 @@
   },
   "randomMaterial_rhine2": {
     "zh_CN": "技术调查补给"
+  },
+  "randomMaterial_siesta2": {
+    "zh_CN": "峯联贸易物流补给"
   },
   "renamingCard": {
     "en_US": "ID Info Update Card",
@@ -3924,6 +3954,9 @@
     "ja_JP": "龍門茶室家具パック",
     "zh_CN": "龙门风情茶室家具收藏包"
   },
+  "uni_set_westCoast": {
+    "zh_CN": "多索雷斯假日家具收藏包"
+  },
   "voucher_5chipPackage": {
     "zh_CN": "自助芯片印刻仪"
   },
@@ -4017,6 +4050,9 @@
     "en_US": "Whislash's Personal Letter",
     "ja_JP": "ウィスラッシュの手紙",
     "zh_CN": "鞭刃的私人信件"
+  },
+  "voucher_full_takila": {
+    "zh_CN": "龙舌兰的私人信件"
   },
   "voucher_full_tomimi": {
     "en_US": "Tomimi's Personal Letter",

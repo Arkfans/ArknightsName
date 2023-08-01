@@ -150,6 +150,9 @@
     "ja_JP": "決着のゴング",
     "zh_CN": "终场铃声"
   },
+  "story_bryota_set_1_story_1": {
+    "zh_CN": "风情街的日与夜"
+  },
   "story_bstalk_set_1_story_1": {
     "en_US": "The Wilds Do They Call",
     "ja_JP": "荒野への呼びかけ",
@@ -444,6 +447,9 @@
     "ja_JP": "意思を問う",
     "zh_CN": "你愿意吗"
   },
+  "story_humus_set_1_story_1": {
+    "zh_CN": "荒地巧匠"
+  },
   "story_ifrit_set_1_story_1": {
     "en_US": "Team Captain",
     "ja_JP": "小隊長",
@@ -613,6 +619,9 @@
     "en_US": "Lucky Charm",
     "ja_JP": "御守り",
     "zh_CN": "护身符"
+  },
+  "story_myrtle_set_1_story_1": {
+    "zh_CN": "任务报告填写指南"
   },
   "story_nblade_set_1_story_1": {
     "zh_CN": "授刀"
@@ -840,6 +849,9 @@
     "en_US": "A Pair of Fowlbeasts",
     "ja_JP": "つがいの羽獣",
     "zh_CN": "一双羽兽"
+  },
+  "story_sleach_set_2_story_1": {
+    "zh_CN": "鬓旁的花"
   },
   "story_snakek_set_1_story_1": {
     "zh_CN": "夺包奇遇"

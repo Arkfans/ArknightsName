@@ -44,6 +44,9 @@
     "ja_JP": "耀騎士ニアール",
     "zh_CN": "耀骑士临光"
   },
+  "char_1016_agoat2": {
+    "zh_CN": "纯烬艾雅法拉"
+  },
   "char_101_sora": {
     "en_US": "Sora",
     "ja_JP": "ソラ",
@@ -100,6 +103,9 @@
   },
   "char_1032_excu2": {
     "zh_CN": "圣约送葬人"
+  },
+  "char_1033_swire2": {
+    "zh_CN": "琳琅诗怀雅"
   },
   "char_103_angel": {
     "en_US": "Exusiai",
@@ -1168,6 +1174,9 @@
   "char_4102_threye": {
     "zh_CN": "凛视"
   },
+  "char_4106_bryota": {
+    "zh_CN": "苍苔"
+  },
   "char_411_tomimi": {
     "en_US": "Tomimi",
     "ja_JP": "トミミ",
@@ -1345,6 +1354,9 @@
     "en_US": "Tequila",
     "ja_JP": "テキーラ",
     "zh_CN": "龙舌兰"
+  },
+  "char_488_buildr": {
+    "zh_CN": "青枳"
   },
   "char_489_serum": {
     "en_US": "Corroserum",

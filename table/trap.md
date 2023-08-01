@@ -122,6 +122,8 @@ tip: 请善用浏览器的搜索功能
 | trap_119_rdrepair | 备用木材 | - | - |
 | trap_120_rdblock | 破旧的木篱 | - | - |
 | trap_121_gractrl | 重力 | - | - |
+| trap_122_stmpq | 景观喷泉 | - | - |
+| trap_123_stmbot | 水汽汽水瓶 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | - | - |
 | trap_401_xbfato | 采集实习站 | - | - |
 | trap_403_wfactory | 蟹蟹抽水泵 | - | - |

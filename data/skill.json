@@ -39,6 +39,15 @@
     "ja_JP": "秘杖・反重力",
     "zh_CN": "秘杖·反重力模式"
   },
+  "skchr_agoat2_1": {
+    "zh_CN": "无声润物"
+  },
+  "skchr_agoat2_2": {
+    "zh_CN": "云霭荫佑"
+  },
+  "skchr_agoat2_3": {
+    "zh_CN": "火山回响"
+  },
   "skchr_aguard_1": {
     "en_US": "Drawing Sword",
     "ja_JP": "鋭刃",
@@ -399,6 +408,12 @@
     "ja_JP": "ラッシュ",
     "zh_CN": "急速拳"
   },
+  "skchr_bryota_1": {
+    "zh_CN": "强力击·β型"
+  },
+  "skchr_bryota_2": {
+    "zh_CN": "土石的恒心"
+  },
   "skchr_bstalk_1": {
     "en_US": "Sentinel Command",
     "ja_JP": "出動指令",
@@ -413,6 +428,9 @@
     "en_US": "'Beaten Up'",
     "ja_JP": "「かかってこい！」",
     "zh_CN": "“挨打”"
+  },
+  "skchr_buildr_2": {
+    "zh_CN": "工程者之愿"
   },
   "skchr_cammou_2": {
     "en_US": "Synchronized Attack",
@@ -2361,6 +2379,15 @@
     "ja_JP": "真銀斬",
     "zh_CN": "真银斩"
   },
+  "skchr_swire2_1": {
+    "zh_CN": "仗义疏财"
+  },
+  "skchr_swire2_2": {
+    "zh_CN": "“见面礼”"
+  },
+  "skchr_swire2_3": {
+    "zh_CN": "千金一掷"
+  },
   "skchr_swire_1": {
     "en_US": "Command and Dispatch",
     "ja_JP": "統括指揮",
@@ -3369,7 +3396,7 @@
   "sktok_nearl2_3": {
     "en_US": "'Blazing Sun'",
     "ja_JP": "「ブレイジング・サン」",
-    "zh_CN": "\"耀阳\""
+    "zh_CN": "“耀阳”"
   },
   "sktok_neonlamp": {
     "en_US": "The Light of Civilization",
@@ -3614,6 +3641,12 @@
   "sktok_stdurk_1": {
     "zh_CN": "“咔嚓！”"
   },
+  "sktok_stmbot": {
+    "zh_CN": "水汽汽水瓶"
+  },
+  "sktok_stmpq": {
+    "zh_CN": "景观喷泉"
+  },
   "sktok_stone": {
     "en_US": "Obstruct",
     "ja_JP": "進路妨害",
@@ -3631,6 +3664,9 @@
     "en_US": "Dispatch",
     "ja_JP": "派遣",
     "zh_CN": "新遣"
+  },
+  "sktok_swire2_gdtrap": {
+    "zh_CN": "“见面礼”"
   },
   "sktok_tbattbc": {
     "en_US": "Gloompincer Shell Meal",

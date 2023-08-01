@@ -20,6 +20,7 @@ tip: 请善用浏览器的搜索功能
 | char_101_sora@summer#1 | 夏卉 FA361 | Summer Flowers FA361 | 夏の花弁FA361 |
 | char_1021_kroos2@nian#8 | 廊下游  | Along the Corridor | 長廊遊 |
 | char_1023_ghost2@boc#6 | 生而为一 | - | - |
+| char_1026_gvial2@summer#12 | 悠然假日 HD26 | - | - |
 | char_1027_greyy2@snow#5 | 演出后的王子 | Aftershow | 終演後の王子様 |
 | char_102_texas@epoque#7 | 意志 | Willpower | 意志 |
 | char_102_texas@winter#1 | 寒冬信使 | Winter Messenger | 冬の使者 |
@@ -64,6 +65,7 @@ tip: 请善用浏览器的搜索功能
 | char_149_scave@striker#2 | 生存 | Survive | 生存 |
 | char_150_snakek@wild#1 | 四边形 | Quadrangle | スクエア |
 | char_151_myrtle@epoque#12 | 淡金庆典 | Light Gold Celebration | 金色のマーチ |
+| char_151_myrtle@summer#12 | 夏卉 FA062 | - | - |
 | char_155_tiger@striker#2 | 悍将 | Valiant General | 猛将 |
 | char_158_milu@snow#2 | 覆雪 | Snowywatch | 白い狩人 |
 | char_158_milu@wild#2 | 枯柏 | Wilted Cypress | 枯れ柏 |
@@ -197,6 +199,7 @@ tip: 请善用浏览器的搜索功能
 | char_373_lionhd@snow#3 | 希望巡游 | Hope Cruise | 希望の運び手 |
 | char_373_lionhd@wild#3 | 宝藏行家 | Finder in the Rough | 秘宝の専門家 |
 | char_377_gdglow@snow#5 | 喜夜侍者 | Maiden for the Bright Night | しあわせの使い |
+| char_377_gdglow@summer#12 | 夏卉 FA394 | - | - |
 | char_378_asbest@whirlwind#3 | 幽谷奏鸣 | Glen Sonata | グレンソナタ |
 | char_383_snsant@witch#2 | 天命勇者 | Fated Hero | 宿命の勇者 |
 | char_388_mint@epoque#22 | 月宵 | - | - |
@@ -215,6 +218,7 @@ tip: 请善用浏览器的搜索功能
 | char_4036_forcer@epoque#20 | 拾翼 | - | - |
 | char_4039_horn@epoque#24 | 化花 | - | - |
 | char_4040_rockr@lxh#1 | 欢唱之前 | Before Singing | 歌の前に |
+| char_4041_chnut@summer#12 | 悠然假日 HDm57 | - | - |
 | char_4042_lumen@ambienceSynesthesia#3 | 灿海浮梦 | - | - |
 | char_4043_erato@snow#5 | 未讲述的故事 | Untold Stories | 語られざる物語 |
 | char_4045_heidi@epoque#24 | 书信零落 | - | - |

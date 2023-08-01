@@ -50,6 +50,7 @@ tip: 请善用浏览器的搜索功能
 | act16d5d1 | 登录领取奖励 | Sign-in Campaign | ログイン報酬 |
 | act16d5d2 | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |
 | act16d6 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
+| act16login | 登录领取奖励 | - | - |
 | act16side | 吾导先路 | Guide Ahead | 吾れ先導者たらん |
 | act16sre | 吾导先路·复刻 | - | - |
 | act17d0 | 源石尘行动 | Operation Originium Dust | OP:OD |
@@ -95,6 +96,7 @@ tip: 请善用浏览器的搜索功能
 | act25sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act26side | 空想花庭 | - | - |
 | act26sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
+| act27side | 火山旅梦 | - | - |
 | act27sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act28sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act29sign | 桂时逢月——月饼烘焙小教程 | Encounter At The Osmanthus Blossom - Mooncake-Making Tutorial | 円満団楽-ロドス点心教室 |
@@ -107,6 +109,7 @@ tip: 请善用浏览器的搜索功能
 | act31sign | 正逢雨季限时登录活动 | Rain Season Limited Login Event | 長雨の候スタンプラリー |
 | act32sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act33sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
+| act34sign | 限时累计签到 | - | - |
 | act38d1 | 尖灭测试作战 | - | - |
 | act3d0 | 火蓝之心 | Heart of Surging Flame | 青く燃ゆる心 |
 | act3d5 | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
@@ -130,6 +133,7 @@ tip: 请善用浏览器的搜索功能
 | act6d7 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act6d8 | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
 | act6login | 登录领取奖励 | Sign-in Campaign | ログイン報酬 |
+| act6pray | 龙门幸运墙登录活动 | - | - |
 | act6sre | 密林悍将归来·复刻 | The Great Chief Returns - Rerun | 帰還！密林の長・復刻 |
 | act7d1 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act7d5 | 午间逸话 | Stories of Afternoon | 午後の逸話 |

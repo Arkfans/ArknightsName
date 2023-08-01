@@ -71,6 +71,12 @@
       "zh_CN": "耀骑士临光"
     }
   },
+  "char_1016_agoat2": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "纯烬艾雅法拉"
+    }
+  },
   "char_101_sora": {
     "type": "OPERATOR",
     "names": {
@@ -165,6 +171,12 @@
     "type": "OPERATOR",
     "names": {
       "zh_CN": "圣约送葬人"
+    }
+  },
+  "char_1033_swire2": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "琳琅诗怀雅"
     }
   },
   "char_103_angel": {
@@ -1891,6 +1903,12 @@
       "zh_CN": "凛视"
     }
   },
+  "char_4106_bryota": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "苍苔"
+    }
+  },
   "char_411_tomimi": {
     "type": "OPERATOR",
     "names": {
@@ -2175,6 +2193,12 @@
       "en_US": "Tequila",
       "ja_JP": "テキーラ",
       "zh_CN": "龙舌兰"
+    }
+  },
+  "char_488_buildr": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "青枳"
     }
   },
   "char_489_serum": {
@@ -2474,7 +2498,7 @@
     "names": {
       "en_US": "'Clip'",
       "ja_JP": "「クリップ」",
-      "zh_CN": "\"夹子\""
+      "zh_CN": "“夹子”"
     }
   },
   "token_10014_bstalk_crab": {
@@ -2490,7 +2514,7 @@
     "names": {
       "en_US": "'Freeling'",
       "ja_JP": "「小自在」",
-      "zh_CN": "\"小自在\""
+      "zh_CN": "“小自在”"
     }
   },
   "token_10016_rfrost_mine": {
@@ -2639,6 +2663,12 @@
     "type": "TOKEN",
     "names": {
       "zh_CN": "流形"
+    }
+  },
+  "token_10031_swire2_gdtrap": {
+    "type": "TOKEN",
+    "names": {
+      "zh_CN": "香槟炸弹"
     }
   },
   "trap_079_allydonq": {
@@ -3543,6 +3573,18 @@
       "zh_CN": "重力"
     }
   },
+  "trap_122_stmpq": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "景观喷泉"
+    }
+  },
+  "trap_123_stmbot": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "水汽汽水瓶"
+    }
+  },
   "trap_400_xbfarm": {
     "type": "TRAP",
     "names": {
@@ -4041,6 +4083,12 @@
       "zh_CN": "生而为一"
     }
   },
+  "char_1026_gvial2@summer#12": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "悠然假日 HD26"
+    }
+  },
   "char_1027_greyy2@snow#5": {
     "type": "SKIN",
     "names": {
@@ -4381,6 +4429,12 @@
       "en_US": "Light Gold Celebration",
       "ja_JP": "金色のマーチ",
       "zh_CN": "淡金庆典"
+    }
+  },
+  "char_151_myrtle@summer#12": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "夏卉 FA062"
     }
   },
   "char_155_tiger@striker#2": {
@@ -5423,6 +5477,12 @@
       "zh_CN": "喜夜侍者"
     }
   },
+  "char_377_gdglow@summer#12": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "夏卉 FA394"
+    }
+  },
   "char_378_asbest@whirlwind#3": {
     "type": "SKIN",
     "names": {
@@ -5551,6 +5611,12 @@
       "en_US": "Before Singing",
       "ja_JP": "歌の前に",
       "zh_CN": "欢唱之前"
+    }
+  },
+  "char_4041_chnut@summer#12": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "悠然假日 HDm57"
     }
   },
   "char_4042_lumen@ambienceSynesthesia#3": {
@@ -11181,6 +11247,96 @@
       "zh_CN": "堕天使福尔图娜"
     }
   },
+  "enemy_1344_ddlamb": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "温泉“淘气包”"
+    }
+  },
+  "enemy_1344_ddlamb_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "温泉“乐淘淘气包”"
+    }
+  },
+  "enemy_1345_tplamb": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "风情街“操盘手”"
+    }
+  },
+  "enemy_1345_tplamb_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "风情街“健美操盘手”"
+    }
+  },
+  "enemy_1346_ynshp": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "温泉“流浪汉”"
+    }
+  },
+  "enemy_1346_ynshp_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "温泉“泥石流浪汉”"
+    }
+  },
+  "enemy_1347_fyshp": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "风情街“飞空员”"
+    }
+  },
+  "enemy_1347_fyshp_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "风情街“满天飞空员”"
+    }
+  },
+  "enemy_1348_rllamb": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "城市“风行者”"
+    }
+  },
+  "enemy_1348_rllamb_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "城市“龙卷风行者”"
+    }
+  },
+  "enemy_1349_rckshp": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“大个子”"
+    }
+  },
+  "enemy_1349_rckshp_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“大哥大个子”"
+    }
+  },
+  "enemy_1350_mgcshp": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "风情街“星术师”"
+    }
+  },
+  "enemy_1350_mgcshp_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "风情街“超新星术师”"
+    }
+  },
+  "enemy_1351_yhhshp": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“好朋友”"
+    }
+  },
   "enemy_1500_skulsr": {
     "type": "ENEMY",
     "names": {
@@ -11533,6 +11689,12 @@
     "type": "ENEMY",
     "names": {
       "zh_CN": "“花匠”"
+    }
+  },
+  "enemy_1545_shpkg": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "多利，“羊之主”"
     }
   },
   "enemy_2001_duckmi": {
@@ -12649,6 +12811,12 @@
       "zh_CN": "限时累计签到"
     }
   },
+  "act16login": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "登录领取奖励"
+    }
+  },
   "act16side": {
     "type": "ACTIVITY",
     "names": {
@@ -12983,6 +13151,12 @@
       "zh_CN": "限时累计签到"
     }
   },
+  "act27side": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "火山旅梦"
+    }
+  },
   "act27sign": {
     "type": "ACTIVITY",
     "names": {
@@ -13074,6 +13248,12 @@
     "names": {
       "en_US": "Limited-time Cumulative Sign-in",
       "ja_JP": "期間限定ログインボーナス",
+      "zh_CN": "限时累计签到"
+    }
+  },
+  "act34sign": {
+    "type": "ACTIVITY",
+    "names": {
       "zh_CN": "限时累计签到"
     }
   },
@@ -13243,6 +13423,12 @@
       "en_US": "Sign-in Campaign",
       "ja_JP": "ログイン報酬",
       "zh_CN": "登录领取奖励"
+    }
+  },
+  "act6pray": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "龙门幸运墙登录活动"
     }
   },
   "act6sre": {
@@ -14761,6 +14947,12 @@
       "zh_CN": "未来序曲寻访凭证"
     }
   },
+  "LIMITED_TKT_GACHA_10_4101": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "云过天空寻访凭证"
+    }
+  },
   "LIMITED_TKT_GACHA_10_903": {
     "type": "ITEM",
     "names": {
@@ -14870,6 +15062,12 @@
     }
   },
   "LMTGS_COIN_3801": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "寻访数据契约"
+    }
+  },
+  "LMTGS_COIN_4101": {
     "type": "ITEM",
     "names": {
       "zh_CN": "寻访数据契约"
@@ -15513,6 +15711,12 @@
       "zh_CN": "圣像碎片"
     }
   },
+  "act27side_token_fur": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "毛绒绒生物的毛"
+    }
+  },
   "act2bossrush_milestone_point": {
     "type": "ITEM",
     "names": {
@@ -15671,6 +15875,12 @@
       "en_US": "Liść Ticket",
       "ja_JP": "パインリーフチケット",
       "zh_CN": "红松叶彩券"
+    }
+  },
+  "advanced_material_issue_voucher": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "高级材料提货券"
     }
   },
   "ap_item_CaH_200": {
@@ -17165,6 +17375,12 @@
       "zh_CN": "耀骑士临光的信物"
     }
   },
+  "p_char_1016_agoat2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "纯烬艾雅法拉的信物"
+    }
+  },
   "p_char_101_sora": {
     "type": "ITEM",
     "names": {
@@ -17259,6 +17475,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "圣约送葬人的信物"
+    }
+  },
+  "p_char_1033_swire2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "琳琅诗怀雅的信物"
     }
   },
   "p_char_103_angel": {
@@ -18955,6 +19177,12 @@
       "zh_CN": "凛视的信物"
     }
   },
+  "p_char_4106_bryota": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "苍苔的信物"
+    }
+  },
   "p_char_411_tomimi": {
     "type": "ITEM",
     "names": {
@@ -19233,6 +19461,12 @@
       "zh_CN": "龙舌兰的信物"
     }
   },
+  "p_char_488_buildr": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "青枳的信物"
+    }
+  },
   "p_char_489_serum": {
     "type": "ITEM",
     "names": {
@@ -19315,6 +19549,12 @@
       "en_US": "Rangers' Token",
       "ja_JP": "レンジャーの印",
       "zh_CN": "巡林者的信物"
+    }
+  },
+  "premium_material_issue_voucher": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "特级材料提货券"
     }
   },
   "randomDiamondShd_1": {
@@ -19501,6 +19741,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "技术调查补给"
+    }
+  },
+  "randomMaterial_siesta2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "峯联贸易物流补给"
     }
   },
   "renamingCard": {
@@ -20215,6 +20461,12 @@
       "zh_CN": "龙门风情茶室家具收藏包"
     }
   },
+  "uni_set_westCoast": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "多索雷斯假日家具收藏包"
+    }
+  },
   "voucher_5chipPackage": {
     "type": "ITEM",
     "names": {
@@ -20367,6 +20619,12 @@
       "en_US": "Whislash's Personal Letter",
       "ja_JP": "ウィスラッシュの手紙",
       "zh_CN": "鞭刃的私人信件"
+    }
+  },
+  "voucher_full_takila": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "龙舌兰的私人信件"
     }
   },
   "voucher_full_tomimi": {
@@ -20873,6 +21131,12 @@
     "type": "POOL",
     "names": {
       "zh_CN": "真理孑然"
+    }
+  },
+  "LIMITED_41_0_1": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "云间清醒梦"
     }
   },
   "LIMITED_9_0_3": {
@@ -21827,6 +22091,24 @@
       "zh_CN": "秘杖·反重力模式"
     }
   },
+  "skchr_agoat2_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "无声润物"
+    }
+  },
+  "skchr_agoat2_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "云霭荫佑"
+    }
+  },
+  "skchr_agoat2_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "火山回响"
+    }
+  },
   "skchr_aguard_1": {
     "type": "SKILL",
     "names": {
@@ -22403,6 +22685,18 @@
       "zh_CN": "急速拳"
     }
   },
+  "skchr_bryota_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "强力击·β型"
+    }
+  },
+  "skchr_bryota_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "土石的恒心"
+    }
+  },
   "skchr_bstalk_1": {
     "type": "SKILL",
     "names": {
@@ -22425,6 +22719,12 @@
       "en_US": "'Beaten Up'",
       "ja_JP": "「かかってこい！」",
       "zh_CN": "“挨打”"
+    }
+  },
+  "skchr_buildr_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "工程者之愿"
     }
   },
   "skchr_cammou_2": {
@@ -25583,6 +25883,24 @@
       "zh_CN": "真银斩"
     }
   },
+  "skchr_swire2_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "仗义疏财"
+    }
+  },
+  "skchr_swire2_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“见面礼”"
+    }
+  },
+  "skchr_swire2_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "千金一掷"
+    }
+  },
   "skchr_swire_1": {
     "type": "SKILL",
     "names": {
@@ -27238,7 +27556,7 @@
     "names": {
       "en_US": "'Blazing Sun'",
       "ja_JP": "「ブレイジング・サン」",
-      "zh_CN": "\"耀阳\""
+      "zh_CN": "“耀阳”"
     }
   },
   "sktok_neonlamp": {
@@ -27655,6 +27973,18 @@
       "zh_CN": "“咔嚓！”"
     }
   },
+  "sktok_stmbot": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "水汽汽水瓶"
+    }
+  },
+  "sktok_stmpq": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "景观喷泉"
+    }
+  },
   "sktok_stone": {
     "type": "SKILL",
     "names": {
@@ -27683,6 +28013,12 @@
       "en_US": "Dispatch",
       "ja_JP": "派遣",
       "zh_CN": "新遣"
+    }
+  },
+  "sktok_swire2_gdtrap": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“见面礼”"
     }
   },
   "sktok_tbattbc": {
@@ -31619,6 +31955,102 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "完全平安"
+    }
+  },
+  "act27side_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "你的耳朵长不长？"
+    }
+  },
+  "act27side_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "小蓝孩"
+    }
+  },
+  "act27side_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "手指之家"
+    }
+  },
+  "act27side_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "一个水手出海了"
+    }
+  },
+  "act27side_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "我会唱一首彩虹"
+    }
+  },
+  "act27side_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "林中小木屋"
+    }
+  },
+  "act27side_07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "靠着我的肩膀哭泣"
+    }
+  },
+  "act27side_08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "爱之歌"
+    }
+  },
+  "act27side_sp01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "玛丽有只毛绒绒"
+    }
+  },
+  "act27side_sp02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "小农夫在小山谷"
+    }
+  },
+  "act27side_sp03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "划呀划呀划小船"
+    }
+  },
+  "act27side_st01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "到站旁"
+    }
+  },
+  "act27side_st02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "雨啊，雨啊，快离开"
+    }
+  },
+  "act27side_st03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "晴天"
+    }
+  },
+  "act27side_tr01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "黑咩咩"
+    }
+  },
+  "act27side_tr02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "跟着我拍拍手"
     }
   },
   "act2bossrush_01": {
@@ -36273,6 +36705,24 @@
       "zh_CN": "废弃圣堂"
     }
   },
+  "act27side_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "温泉假日"
+    }
+  },
+  "act27side_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "城市寻宝"
+    }
+  },
+  "act27side_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "岩浆冲浪"
+    }
+  },
   "act2bossrush_zone1": {
     "type": "ZONE",
     "names": {
@@ -37229,6 +37679,12 @@
       "zh_CN": "终场铃声"
     }
   },
+  "story_bryota_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "风情街的日与夜"
+    }
+  },
   "story_bstalk_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -37715,6 +38171,12 @@
       "zh_CN": "你愿意吗"
     }
   },
+  "story_humus_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "荒地巧匠"
+    }
+  },
   "story_ifrit_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -37997,6 +38459,12 @@
       "en_US": "Lucky Charm",
       "ja_JP": "御守り",
       "zh_CN": "护身符"
+    }
+  },
+  "story_myrtle_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "任务报告填写指南"
     }
   },
   "story_nblade_set_1_story_1": {
@@ -38371,6 +38839,12 @@
       "en_US": "A Pair of Fowlbeasts",
       "ja_JP": "つがいの羽獣",
       "zh_CN": "一双羽兽"
+    }
+  },
+  "story_sleach_set_2_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "鬓旁的花"
     }
   },
   "story_snakek_set_1_story_1": {

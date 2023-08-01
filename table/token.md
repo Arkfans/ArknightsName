@@ -20,9 +20,9 @@ tip: 请善用浏览器的搜索功能
 | token_10010_folivo_car | 移动摄影器 | Mobile Buggy Cam | 撮影ロボット |
 | token_10011_beewax_oblisk | 沙之碑 | Sand Obelisk | 砂の碑 |
 | token_10012_rosmon_shield | 迷迭香的战术装备 | Rosmontis's Tactical Equipment | ロスモンティスの戦術装備 |
-| token_10013_robin_mine | "夹子" | 'Clip' | 「クリップ」 |
+| token_10013_robin_mine | “夹子” | 'Clip' | 「クリップ」 |
 | token_10014_bstalk_crab | 磐蟹护卫队 | Metal Crab Guard Team | ハガネガニ守備隊 |
-| token_10015_dusk_drgn | "小自在" | 'Freeling' | 「小自在」 |
+| token_10015_dusk_drgn | “小自在” | 'Freeling' | 「小自在」 |
 | token_10016_rfrost_mine | 迎宾踏垫 | Welcome Mat | ウェルカムマット |
 | token_10017_skadi2_dedant | 斯卡蒂的海嗣 | Skadi's Seaborn | スカジのシーボーン |
 | token_10018_robrta_mach | 全自动造型仪 | Full Auto Modeler | メイクアップマシン |
@@ -42,4 +42,5 @@ tip: 请善用浏览器的搜索功能
 | token_10028_vigil_wolf | 狼群 | Wolfpack | 狼の群れ |
 | token_10029_slent2_protrb | 夜灯 | - | - |
 | token_10030_mlyss_wtrman | 流形 | - | - |
+| token_10031_swire2_gdtrap | 香槟炸弹 | - | - |
 | trap_079_allydonq | 猎潮的骑士 | Tide-Hunt Knight | 猟潮の騎士 |

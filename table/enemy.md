@@ -663,6 +663,21 @@ tip: 请善用浏览器的搜索功能
 | enemy_1341_bthtms | 赏金猎人扰乱者 | - | - |
 | enemy_1341_bthtms_2 | 赏金猎人扰乱者队长 | - | - |
 | enemy_1342_frtuna | 堕天使福尔图娜 | - | - |
+| enemy_1344_ddlamb | 温泉“淘气包” | - | - |
+| enemy_1344_ddlamb_2 | 温泉“乐淘淘气包” | - | - |
+| enemy_1345_tplamb | 风情街“操盘手” | - | - |
+| enemy_1345_tplamb_2 | 风情街“健美操盘手” | - | - |
+| enemy_1346_ynshp | 温泉“流浪汉” | - | - |
+| enemy_1346_ynshp_2 | 温泉“泥石流浪汉” | - | - |
+| enemy_1347_fyshp | 风情街“飞空员” | - | - |
+| enemy_1347_fyshp_2 | 风情街“满天飞空员” | - | - |
+| enemy_1348_rllamb | 城市“风行者” | - | - |
+| enemy_1348_rllamb_2 | 城市“龙卷风行者” | - | - |
+| enemy_1349_rckshp | “大个子” | - | - |
+| enemy_1349_rckshp_2 | “大哥大个子” | - | - |
+| enemy_1350_mgcshp | 风情街“星术师” | - | - |
+| enemy_1350_mgcshp_2 | 风情街“超新星术师” | - | - |
+| enemy_1351_yhhshp | “好朋友” | - | - |
 | enemy_1500_skulsr | 碎骨 | Skullshatterer | SkullShredder |
 | enemy_1501_demonk | 萨卡兹百夫长 | Sarkaz Centurion | サルカズケントゥリオ |
 | enemy_1502_crowns | 弑君者 | Crownslayer | CrownSlayer |
@@ -709,6 +724,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1542_wdslm | “变形者集群” | - | - |
 | enemy_1543_cstlrs | 克丽斯腾 | - | - |
 | enemy_1544_cledub | “花匠” | - | - |
+| enemy_1545_shpkg | 多利，“羊之主” | - | - |
 | enemy_2001_duckmi | 鸭爵 | Duck Lord | ダック卿 |
 | enemy_2002_bearmi | 高普尼克 | Gopnik | ゴプニク |
 | enemy_2003_rockman | 迷路的巨像 | Lost Colossus | 迷子の巨像 |
