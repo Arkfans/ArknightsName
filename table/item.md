@@ -246,6 +246,12 @@ tip: 请善用浏览器的搜索功能
 | act2bossrush_relic_04 | 调优重载 | - | - |
 | act2bossrush_token_relic | 数据黑盒 | - | - |
 | act38d1_token_coin | 晶化源石 | - | - |
+| act3bossrush_milestone_point | 试炼经验 | - | - |
+| act3bossrush_relic_01 | 恢复增幅 | - | - |
+| act3bossrush_relic_02 | 扩大化战略 | - | - |
+| act3bossrush_relic_03 | 经验习得 | - | - |
+| act3bossrush_relic_04 | 过热运转 | - | - |
+| act3bossrush_token_relic | 数据黑盒 | - | - |
 | act4d0_intelligencepoint | 有效情报值 | Valid Intelligence Unit | 情報データ |
 | act4d5_point_kfc | KFC积分 | - | - |
 | act5d0_point_medal | 终极企鹅勋章 | Top Tier Penguin Medal | ウルトラPG勲章 |
@@ -415,7 +421,9 @@ tip: 请善用浏览器的搜索功能
 | class_p_char_484_robrta | 罗比菈塔的中坚信物 | - | - |
 | class_p_char_491_humus | 休谟斯的中坚信物 | - | - |
 | classic_fes_pick_tier_5_3801 | 中坚甄选5星干员 | - | - |
+| classic_fes_pick_tier_5_4101 | 中坚甄选5星干员 | - | - |
 | classic_fes_pick_tier_6_3801 | 中坚甄选6星干员 | - | - |
+| classic_fes_pick_tier_6_4101 | 中坚甄选6星干员 | - | - |
 | classic_gacha | 中坚寻访凭证 | - | - |
 | classic_gacha_10 | 十连中坚寻访凭证 | - | - |
 | classic_normal_ticket | 通用凭证 | - | - |

@@ -810,6 +810,9 @@ tip: 请善用浏览器的搜索功能
 | enemy_6012_plants | 小型共生体 | Small Symbiont | 小型共生体 |
 | enemy_6013_smith | 老妈的“逆女” | - | - |
 | enemy_6014_crzgas | “毒瘤” | - | - |
+| enemy_6015_ictruck | “超甜微笑” | - | - |
+| enemy_6016_splash | 干渴者 | - | - |
+| enemy_6017_icdrone | 甜蜜派送机 | - | - |
 | enemy_7001_blwzad | 部族巫术师 | - | - |
 | enemy_7001_blwzad_2 | 王酋巫术师 | - | - |
 | enemy_7002_veingd | 矿脉守卫 | - | - |

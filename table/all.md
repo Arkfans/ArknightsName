@@ -526,6 +526,18 @@ tip: 请善用浏览器的搜索功能
 | trap_720_cdheal | 便携式医疗设备 | - | - |
 | trap_721_cdheala | 便携式医疗设备 | - | - |
 | trap_722_cdhealb | 便携式医疗设备 | - | - |
+| trap_723_cdcvrt | 溢能回收转化器 | - | - |
+| trap_724_cdcvrta | 溢能回收转化器 | - | - |
+| trap_725_cdcvrtb | 溢能回收转化器 | - | - |
+| trap_726_cdrone | 战地援护无人机 | - | - |
+| trap_727_cdronea | 战地援护无人机 | - | - |
+| trap_728_cdroneb | 战地援护无人机 | - | - |
+| trap_729_cdkzmr | 竞技记录分析仪 | - | - |
+| trap_730_truamr | “甜蜜狂搅” | - | - |
+| trap_732_ltnova | 神经再生 | - | - |
+| trap_733_cdkzmra | 竞技记录分析仪 | - | - |
+| trap_734_cdkzmrb | 竞技记录分析仪 | - | - |
+| trap_735_platre | 汲取体 | - | - |
 | char_002_amiya@epoque#4 | 见习联结者 | Fresh Fastener | 見習い宅配人 |
 | char_002_amiya@test#1 | 播种者 | - | - |
 | char_002_amiya@winter#1 | 报童 | Newsgirl | 新聞配達員 |
@@ -706,6 +718,7 @@ tip: 请善用浏览器的搜索功能
 | char_345_folnic@wild#4 | 残葛 | Lasting Arrowroot | 残葛 |
 | char_346_aosta@game#2 | 光铳调试员 | Light Gun Adjuster | ライトガンテスター |
 | char_347_jaksel@whirlwind#2 | 纵身一跃 | Take a Leap | ひとっ飛び |
+| char_348_ceylon@summer#13 | 悠然假日 HD49 | - | - |
 | char_350_surtr@it#1 | 自由//失效 | Liberté//Échec | 自由//失效 |
 | char_350_surtr@summer#9 | 缤纷奇境 CW03 | Colorful Wonderland CW03 | 極彩の楽園CW03 |
 | char_355_ethan@epoque#7 | 渗透 | Infiltrator | 同化 |
@@ -730,6 +743,7 @@ tip: 请善用浏览器的搜索功能
 | char_4009_irene@ambienceSynesthesia#3 | 飞羽 | - | - |
 | char_400_weedy@snow#2 | 糖果仙子 | Candy Cape | キャンディフェアリー |
 | char_4013_kjera@epoque#18 | 灵巧侍者 | Ingenious Servant | 腕利き侍女 |
+| char_4014_lunacu@yun#1 | 棠云巧梦 | - | - |
 | char_4016_kazema@witch#3 | 幻影轻悄 | Like Illusion | 軽やかな幻影 |
 | char_401_elysm@snow#2 | 雪夜回音 | Snowy Echo | 雪夜の思い出 |
 | char_401_elysm@summer#9 | 灿阳朝露 SDm11 | Shimmering Dew SDm11 | 炎陽煌く露SDm11 |
@@ -807,6 +821,7 @@ tip: 请善用浏览器的搜索功能
 | winter | 寒武纪™系列 | Cambrian Series | Cambrian |
 | witch | 巫异盛宴  | Witch Feast | WitchFeast  |
 | xmas | 冰原信使 | Icefield Messenger | I.M |
+| yun | 0011/韵系列 | - | - |
 | enemy_1000_gopro | 猎狗 | Hound | 猟犬 |
 | enemy_1000_gopro_2 | 猎狗pro | Hound Pro | 上級猟犬 |
 | enemy_1000_gopro_3 | 狂暴的猎狗pro | Rabid Hound Pro | 凶暴猟犬 |
@@ -1612,6 +1627,9 @@ tip: 请善用浏览器的搜索功能
 | enemy_6012_plants | 小型共生体 | Small Symbiont | 小型共生体 |
 | enemy_6013_smith | 老妈的“逆女” | - | - |
 | enemy_6014_crzgas | “毒瘤” | - | - |
+| enemy_6015_ictruck | “超甜微笑” | - | - |
+| enemy_6016_splash | 干渴者 | - | - |
+| enemy_6017_icdrone | 甜蜜派送机 | - | - |
 | enemy_7001_blwzad | 部族巫术师 | - | - |
 | enemy_7001_blwzad_2 | 王酋巫术师 | - | - |
 | enemy_7002_veingd | 矿脉守卫 | - | - |
@@ -1739,6 +1757,7 @@ tip: 请善用浏览器的搜索功能
 | act33sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act34sign | 限时累计签到 | - | - |
 | act38d1 | 尖灭测试作战 | - | - |
+| act3bossrush | 引航者试炼 | - | - |
 | act3d0 | 火蓝之心 | Heart of Surging Flame | 青く燃ゆる心 |
 | act3d5 | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
 | act3d7 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
@@ -2061,6 +2080,12 @@ tip: 请善用浏览器的搜索功能
 | act2bossrush_relic_04 | 调优重载 | - | - |
 | act2bossrush_token_relic | 数据黑盒 | - | - |
 | act38d1_token_coin | 晶化源石 | - | - |
+| act3bossrush_milestone_point | 试炼经验 | - | - |
+| act3bossrush_relic_01 | 恢复增幅 | - | - |
+| act3bossrush_relic_02 | 扩大化战略 | - | - |
+| act3bossrush_relic_03 | 经验习得 | - | - |
+| act3bossrush_relic_04 | 过热运转 | - | - |
+| act3bossrush_token_relic | 数据黑盒 | - | - |
 | act4d0_intelligencepoint | 有效情报值 | Valid Intelligence Unit | 情報データ |
 | act4d5_point_kfc | KFC积分 | - | - |
 | act5d0_point_medal | 终极企鹅勋章 | Top Tier Penguin Medal | ウルトラPG勲章 |
@@ -2230,7 +2255,9 @@ tip: 请善用浏览器的搜索功能
 | class_p_char_484_robrta | 罗比菈塔的中坚信物 | - | - |
 | class_p_char_491_humus | 休谟斯的中坚信物 | - | - |
 | classic_fes_pick_tier_5_3801 | 中坚甄选5星干员 | - | - |
+| classic_fes_pick_tier_5_4101 | 中坚甄选5星干员 | - | - |
 | classic_fes_pick_tier_6_3801 | 中坚甄选6星干员 | - | - |
+| classic_fes_pick_tier_6_4101 | 中坚甄选6星干员 | - | - |
 | classic_gacha | 中坚寻访凭证 | - | - |
 | classic_gacha_10 | 十连中坚寻访凭证 | - | - |
 | classic_normal_ticket | 通用凭证 | - | - |
@@ -3549,6 +3576,8 @@ tip: 请善用浏览器的搜索功能
 | sktok_cdcredit | 自适应补给 | Adaptive Supply | 多機能補給 |
 | sktok_cdcredita | 自适应补给 | Adaptive Supply | 多機能補給 |
 | sktok_cdcreditb | 自适应补给 | Adaptive Supply | 多機能補給 |
+| sktok_cdcvrt | 溢能回收 | - | - |
+| sktok_cdcvrta | 溢能回收 | - | - |
 | sktok_cddiff | 战术装备整理 | - | - |
 | sktok_cddiffa | 战术装备整理 | - | - |
 | sktok_cddiffb | 战术装备整理 | - | - |
@@ -3557,6 +3586,8 @@ tip: 请善用浏览器的搜索功能
 | sktok_cdheala | 便携式医疗设备 | - | - |
 | sktok_cdhealb | 便携式医疗设备 | - | - |
 | sktok_cdhvrk | 超重，绝缘 | Heavy, Insulated | 超過重・絶縁 |
+| sktok_cdkzmr | 竞技记录分析 | - | - |
+| sktok_cdrone | 战地援护 | - | - |
 | sktok_cdshield | 镀膜 | Coating | コーティング |
 | sktok_cdshielda | 重整导能 | Redeployment Conduction | 再稼働 |
 | sktok_cdshieldb | 镀膜 | Coating | コーティング |
@@ -3609,6 +3640,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_ling_soul1 | 重进酒 | Sips of Wine | 重ねて酒を進み |
 | sktok_ling_soul2 | 笑鸣瑟 | Amidst Pleasant Melodies | 笑いて瑟を鼓せ |
 | sktok_ling_soul3 | 宁作吾 | To Remain Oneself | 寧ろ吾をなさん |
+| sktok_ltnova | 神经再生 | - | - |
 | sktok_ltstat | 祈祷 | - | - |
 | sktok_machst | 强化加固 | Strengthen and Reinforce | 補強工事 |
 | sktok_magiccircle | 调谐 | Tuning | チューニング |
@@ -3704,6 +3736,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_trademan_1 | 触发对话 | - | - |
 | sktok_tree | 天然隐蔽 | Natural Camouflage | きのこガード |
 | sktok_trsrhuntr_1 | 触发对话 | - | - |
+| sktok_truamr | “甜蜜狂搅” | - | - |
 | sktok_turngear | 自走车定向！ | Self-Driving Cart, This Way! | 方向転換！ |
 | sktok_umbrella | 协助隐藏 | - | - |
 | sktok_vegetation | 可供开采 | - | - |
@@ -4217,6 +4250,12 @@ tip: 请善用浏览器的搜索功能
 | act27side_06 | 林中小木屋 | - | - |
 | act27side_07 | 靠着我的肩膀哭泣 | - | - |
 | act27side_08 | 爱之歌 | - | - |
+| act27side_mo01 | 乡间路带我回家 | - | - |
+| act27side_s01 | 慢船行至东 | - | - |
+| act27side_s02 | 南方从未雨 | - | - |
+| act27side_s03 | 我正向西去 | - | - |
+| act27side_s04 | 北境的森林 | - | - |
+| act27side_s05 | 答案在风中 | - | - |
 | act27side_sp01 | 玛丽有只毛绒绒 | - | - |
 | act27side_sp02 | 小农夫在小山谷 | - | - |
 | act27side_sp03 | 划呀划呀划小船 | - | - |
@@ -4229,6 +4268,10 @@ tip: 请善用浏览器的搜索功能
 | act2bossrush_02 | 大块头和小不点 | - | - |
 | act2bossrush_03 | 裂地重击 | - | - |
 | act2bossrush_04 | 骄阳之影 | - | - |
+| act3bossrush_01 | 适者生存 | - | - |
+| act3bossrush_02 | 惊惧与血色 | - | - |
+| act3bossrush_03 | 不测之渊 | - | - |
+| act3bossrush_04 | 虔信者的前路 | - | - |
 | act4d0_01 | 引爆 | Ignition | 起爆 |
 | act4d0_02 | 聚集 | Gathering | 集結 |
 | act4d0_03 | 斑驳 | Speckles | まだら模様 |
@@ -4398,6 +4441,18 @@ tip: 请善用浏览器的搜索功能
 | lt_08_04 | 混合毒气 | - | - |
 | lt_08_05 | 枯朽孕育 | - | - |
 | lt_08_06 | 窒息 | - | - |
+| lt_09_01 | 糖霜硬壳 | - | - |
+| lt_09_02 | 甜美派对 | - | - |
+| lt_09_03 | 干酪封锁 | - | - |
+| lt_09_04 | 先进工艺 | - | - |
+| lt_09_05 | 奶油四溅 | - | - |
+| lt_09_06 | 微笑必达 | - | - |
+| lt_10_01 | 海涎 | - | - |
+| lt_10_02 | 走肉 | - | - |
+| lt_10_03 | 驱逐 | - | - |
+| lt_10_04 | 幻景 | - | - |
+| lt_10_05 | 裂流 | - | - |
+| lt_10_06 | 落潮 | - | - |
 | lt_tr_01 | 7号训练场 | Training Ground #7 | 7号訓練場 |
 | lt_tr_02 | 9号训练场 | Training Ground #9 | 9号訓練場 |
 | lt_tr_03 | 10号训练场 | Training Ground #10 | 10号訓練場 |
@@ -4827,6 +4882,7 @@ tip: 请善用浏览器的搜索功能
 | act27side_zone2 | 城市寻宝 | - | - |
 | act27side_zone3 | 岩浆冲浪 | - | - |
 | act2bossrush_zone1 | 强敌当前 | - | - |
+| act3bossrush_zone1 | 强敌当前 | - | - |
 | act5d0_zone1 | 下城区 | Downtown | 繁華街 |
 | act5d0_zone2 | 东部郊区 | Eastern Suburbs | 東部郊外 |
 | act5sre_zone1 | 议事高塔 | Capitol Spire | 大議事塔 |

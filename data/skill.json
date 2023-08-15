@@ -3046,6 +3046,12 @@
     "ja_JP": "多機能補給",
     "zh_CN": "自适应补给"
   },
+  "sktok_cdcvrt": {
+    "zh_CN": "溢能回收"
+  },
+  "sktok_cdcvrta": {
+    "zh_CN": "溢能回收"
+  },
   "sktok_cddiff": {
     "zh_CN": "战术装备整理"
   },
@@ -3073,6 +3079,12 @@
     "en_US": "Heavy, Insulated",
     "ja_JP": "超過重・絶縁",
     "zh_CN": "超重，绝缘"
+  },
+  "sktok_cdkzmr": {
+    "zh_CN": "竞技记录分析"
+  },
+  "sktok_cdrone": {
+    "zh_CN": "战地援护"
   },
   "sktok_cdshield": {
     "en_US": "Coating",
@@ -3315,6 +3327,9 @@
     "en_US": "To Remain Oneself",
     "ja_JP": "寧ろ吾をなさん",
     "zh_CN": "宁作吾"
+  },
+  "sktok_ltnova": {
+    "zh_CN": "神经再生"
   },
   "sktok_ltstat": {
     "zh_CN": "祈祷"
@@ -3718,6 +3733,9 @@
   },
   "sktok_trsrhuntr_1": {
     "zh_CN": "触发对话"
+  },
+  "sktok_truamr": {
+    "zh_CN": "“甜蜜狂搅”"
   },
   "sktok_turngear": {
     "en_US": "Self-Driving Cart, This Way!",

@@ -3973,6 +3973,78 @@
       "zh_CN": "便携式医疗设备"
     }
   },
+  "trap_723_cdcvrt": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "溢能回收转化器"
+    }
+  },
+  "trap_724_cdcvrta": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "溢能回收转化器"
+    }
+  },
+  "trap_725_cdcvrtb": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "溢能回收转化器"
+    }
+  },
+  "trap_726_cdrone": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "战地援护无人机"
+    }
+  },
+  "trap_727_cdronea": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "战地援护无人机"
+    }
+  },
+  "trap_728_cdroneb": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "战地援护无人机"
+    }
+  },
+  "trap_729_cdkzmr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "竞技记录分析仪"
+    }
+  },
+  "trap_730_truamr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "“甜蜜狂搅”"
+    }
+  },
+  "trap_732_ltnova": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "神经再生"
+    }
+  },
+  "trap_733_cdkzmra": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "竞技记录分析仪"
+    }
+  },
+  "trap_734_cdkzmrb": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "竞技记录分析仪"
+    }
+  },
+  "trap_735_platre": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "汲取体"
+    }
+  },
   "char_002_amiya@epoque#4": {
     "type": "SKIN",
     "names": {
@@ -5369,6 +5441,12 @@
       "zh_CN": "纵身一跃"
     }
   },
+  "char_348_ceylon@summer#13": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "悠然假日 HD49"
+    }
+  },
   "char_350_surtr@it#1": {
     "type": "SKIN",
     "names": {
@@ -5547,6 +5625,12 @@
       "en_US": "Ingenious Servant",
       "ja_JP": "腕利き侍女",
       "zh_CN": "灵巧侍者"
+    }
+  },
+  "char_4014_lunacu@yun#1": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "棠云巧梦"
     }
   },
   "char_4016_kazema@witch#3": {
@@ -6127,6 +6211,12 @@
       "en_US": "Icefield Messenger",
       "ja_JP": "I.M",
       "zh_CN": "冰原信使"
+    }
+  },
+  "yun": {
+    "type": "BRAND",
+    "names": {
+      "zh_CN": "0011/韵系列"
     }
   },
   "enemy_1000_gopro": {
@@ -12335,6 +12425,24 @@
       "zh_CN": "“毒瘤”"
     }
   },
+  "enemy_6015_ictruck": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“超甜微笑”"
+    }
+  },
+  "enemy_6016_splash": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "干渴者"
+    }
+  },
+  "enemy_6017_icdrone": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "甜蜜派送机"
+    }
+  },
   "enemy_7001_blwzad": {
     "type": "ENEMY",
     "names": {
@@ -13261,6 +13369,12 @@
     "type": "ACTIVITY",
     "names": {
       "zh_CN": "尖灭测试作战"
+    }
+  },
+  "act3bossrush": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "引航者试炼"
     }
   },
   "act3d0": {
@@ -15759,6 +15873,42 @@
       "zh_CN": "晶化源石"
     }
   },
+  "act3bossrush_milestone_point": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "试炼经验"
+    }
+  },
+  "act3bossrush_relic_01": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "恢复增幅"
+    }
+  },
+  "act3bossrush_relic_02": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "扩大化战略"
+    }
+  },
+  "act3bossrush_relic_03": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "经验习得"
+    }
+  },
+  "act3bossrush_relic_04": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "过热运转"
+    }
+  },
+  "act3bossrush_token_relic": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "数据黑盒"
+    }
+  },
   "act4d0_intelligencepoint": {
     "type": "ITEM",
     "names": {
@@ -16867,7 +17017,19 @@
       "zh_CN": "中坚甄选5星干员"
     }
   },
+  "classic_fes_pick_tier_5_4101": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "中坚甄选5星干员"
+    }
+  },
   "classic_fes_pick_tier_6_3801": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "中坚甄选6星干员"
+    }
+  },
+  "classic_fes_pick_tier_6_4101": {
     "type": "ITEM",
     "names": {
       "zh_CN": "中坚甄选6星干员"
@@ -26967,6 +27129,18 @@
       "zh_CN": "自适应补给"
     }
   },
+  "sktok_cdcvrt": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "溢能回收"
+    }
+  },
+  "sktok_cdcvrta": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "溢能回收"
+    }
+  },
   "sktok_cddiff": {
     "type": "SKILL",
     "names": {
@@ -27017,6 +27191,18 @@
       "en_US": "Heavy, Insulated",
       "ja_JP": "超過重・絶縁",
       "zh_CN": "超重，绝缘"
+    }
+  },
+  "sktok_cdkzmr": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "竞技记录分析"
+    }
+  },
+  "sktok_cdrone": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "战地援护"
     }
   },
   "sktok_cdshield": {
@@ -27415,6 +27601,12 @@
       "en_US": "To Remain Oneself",
       "ja_JP": "寧ろ吾をなさん",
       "zh_CN": "宁作吾"
+    }
+  },
+  "sktok_ltnova": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "神经再生"
     }
   },
   "sktok_ltstat": {
@@ -28103,6 +28295,12 @@
     "type": "SKILL",
     "names": {
       "zh_CN": "触发对话"
+    }
+  },
+  "sktok_truamr": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“甜蜜狂搅”"
     }
   },
   "sktok_turngear": {
@@ -32005,6 +32203,42 @@
       "zh_CN": "爱之歌"
     }
   },
+  "act27side_mo01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "乡间路带我回家"
+    }
+  },
+  "act27side_s01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "慢船行至东"
+    }
+  },
+  "act27side_s02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "南方从未雨"
+    }
+  },
+  "act27side_s03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "我正向西去"
+    }
+  },
+  "act27side_s04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "北境的森林"
+    }
+  },
+  "act27side_s05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "答案在风中"
+    }
+  },
   "act27side_sp01": {
     "type": "STAGE",
     "names": {
@@ -32075,6 +32309,30 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "骄阳之影"
+    }
+  },
+  "act3bossrush_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "适者生存"
+    }
+  },
+  "act3bossrush_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "惊惧与血色"
+    }
+  },
+  "act3bossrush_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "不测之渊"
+    }
+  },
+  "act3bossrush_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "虔信者的前路"
     }
   },
   "act4d0_01": {
@@ -33389,6 +33647,78 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "窒息"
+    }
+  },
+  "lt_09_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "糖霜硬壳"
+    }
+  },
+  "lt_09_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "甜美派对"
+    }
+  },
+  "lt_09_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "干酪封锁"
+    }
+  },
+  "lt_09_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "先进工艺"
+    }
+  },
+  "lt_09_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "奶油四溅"
+    }
+  },
+  "lt_09_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "微笑必达"
+    }
+  },
+  "lt_10_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "海涎"
+    }
+  },
+  "lt_10_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "走肉"
+    }
+  },
+  "lt_10_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "驱逐"
+    }
+  },
+  "lt_10_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "幻景"
+    }
+  },
+  "lt_10_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "裂流"
+    }
+  },
+  "lt_10_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "落潮"
     }
   },
   "lt_tr_01": {
@@ -36724,6 +37054,12 @@
     }
   },
   "act2bossrush_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "强敌当前"
+    }
+  },
+  "act3bossrush_zone1": {
     "type": "ZONE",
     "names": {
       "zh_CN": "强敌当前"

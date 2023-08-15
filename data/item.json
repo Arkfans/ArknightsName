@@ -1142,6 +1142,24 @@
   "act38d1_token_coin": {
     "zh_CN": "晶化源石"
   },
+  "act3bossrush_milestone_point": {
+    "zh_CN": "试炼经验"
+  },
+  "act3bossrush_relic_01": {
+    "zh_CN": "恢复增幅"
+  },
+  "act3bossrush_relic_02": {
+    "zh_CN": "扩大化战略"
+  },
+  "act3bossrush_relic_03": {
+    "zh_CN": "经验习得"
+  },
+  "act3bossrush_relic_04": {
+    "zh_CN": "过热运转"
+  },
+  "act3bossrush_token_relic": {
+    "zh_CN": "数据黑盒"
+  },
   "act4d0_intelligencepoint": {
     "en_US": "Valid Intelligence Unit",
     "ja_JP": "情報データ",
@@ -1743,7 +1761,13 @@
   "classic_fes_pick_tier_5_3801": {
     "zh_CN": "中坚甄选5星干员"
   },
+  "classic_fes_pick_tier_5_4101": {
+    "zh_CN": "中坚甄选5星干员"
+  },
   "classic_fes_pick_tier_6_3801": {
+    "zh_CN": "中坚甄选6星干员"
+  },
+  "classic_fes_pick_tier_6_4101": {
     "zh_CN": "中坚甄选6星干员"
   },
   "classic_gacha": {

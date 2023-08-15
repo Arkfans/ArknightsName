@@ -636,6 +636,8 @@ tip: 请善用浏览器的搜索功能
 | sktok_cdcredit | 自适应补给 | Adaptive Supply | 多機能補給 |
 | sktok_cdcredita | 自适应补给 | Adaptive Supply | 多機能補給 |
 | sktok_cdcreditb | 自适应补给 | Adaptive Supply | 多機能補給 |
+| sktok_cdcvrt | 溢能回收 | - | - |
+| sktok_cdcvrta | 溢能回收 | - | - |
 | sktok_cddiff | 战术装备整理 | - | - |
 | sktok_cddiffa | 战术装备整理 | - | - |
 | sktok_cddiffb | 战术装备整理 | - | - |
@@ -644,6 +646,8 @@ tip: 请善用浏览器的搜索功能
 | sktok_cdheala | 便携式医疗设备 | - | - |
 | sktok_cdhealb | 便携式医疗设备 | - | - |
 | sktok_cdhvrk | 超重，绝缘 | Heavy, Insulated | 超過重・絶縁 |
+| sktok_cdkzmr | 竞技记录分析 | - | - |
+| sktok_cdrone | 战地援护 | - | - |
 | sktok_cdshield | 镀膜 | Coating | コーティング |
 | sktok_cdshielda | 重整导能 | Redeployment Conduction | 再稼働 |
 | sktok_cdshieldb | 镀膜 | Coating | コーティング |
@@ -696,6 +700,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_ling_soul1 | 重进酒 | Sips of Wine | 重ねて酒を進み |
 | sktok_ling_soul2 | 笑鸣瑟 | Amidst Pleasant Melodies | 笑いて瑟を鼓せ |
 | sktok_ling_soul3 | 宁作吾 | To Remain Oneself | 寧ろ吾をなさん |
+| sktok_ltnova | 神经再生 | - | - |
 | sktok_ltstat | 祈祷 | - | - |
 | sktok_machst | 强化加固 | Strengthen and Reinforce | 補強工事 |
 | sktok_magiccircle | 调谐 | Tuning | チューニング |
@@ -791,6 +796,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_trademan_1 | 触发对话 | - | - |
 | sktok_tree | 天然隐蔽 | Natural Camouflage | きのこガード |
 | sktok_trsrhuntr_1 | 触发对话 | - | - |
+| sktok_truamr | “甜蜜狂搅” | - | - |
 | sktok_turngear | 自走车定向！ | Self-Driving Cart, This Way! | 方向転換！ |
 | sktok_umbrella | 协助隐藏 | - | - |
 | sktok_vegetation | 可供开采 | - | - |

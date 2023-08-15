@@ -755,5 +755,41 @@
   },
   "trap_722_cdhealb": {
     "zh_CN": "便携式医疗设备"
+  },
+  "trap_723_cdcvrt": {
+    "zh_CN": "溢能回收转化器"
+  },
+  "trap_724_cdcvrta": {
+    "zh_CN": "溢能回收转化器"
+  },
+  "trap_725_cdcvrtb": {
+    "zh_CN": "溢能回收转化器"
+  },
+  "trap_726_cdrone": {
+    "zh_CN": "战地援护无人机"
+  },
+  "trap_727_cdronea": {
+    "zh_CN": "战地援护无人机"
+  },
+  "trap_728_cdroneb": {
+    "zh_CN": "战地援护无人机"
+  },
+  "trap_729_cdkzmr": {
+    "zh_CN": "竞技记录分析仪"
+  },
+  "trap_730_truamr": {
+    "zh_CN": "“甜蜜狂搅”"
+  },
+  "trap_732_ltnova": {
+    "zh_CN": "神经再生"
+  },
+  "trap_733_cdkzmra": {
+    "zh_CN": "竞技记录分析仪"
+  },
+  "trap_734_cdkzmrb": {
+    "zh_CN": "竞技记录分析仪"
+  },
+  "trap_735_platre": {
+    "zh_CN": "汲取体"
   }
 }
