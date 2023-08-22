@@ -36,7 +36,7 @@ tip: 请善用浏览器的搜索功能
 | act14d0d2 | 登录领取奖励 | Sign-in Campaign | ログイン報酬 |
 | act14d7 | 喧闹法则·复刻 | Code of Brawl - Rerun | 喧騒の掟・復刻 |
 | act14login | 登录领取奖励 | - | - |
-| act14mini | 春分 | - | - |
+| act14mini | 春分 | - | 春分 |
 | act14side | 风雪过境 | Break the Ice | 風雪一過 |
 | act14sre | 风雪过境·复刻 | Break the Ice - Rerun | 風雪一過・復刻 |
 | act15d0 | 孤岛风云 | Mansfield Break | 孤島激震 |
@@ -100,7 +100,7 @@ tip: 请善用浏览器的搜索功能
 | act27sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act28sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act29sign | 桂时逢月——月饼烘焙小教程 | Encounter At The Osmanthus Blossom - Mooncake-Making Tutorial | 円満団楽-ロドス点心教室 |
-| act2bossrush | 引航者试炼 | - | - |
+| act2bossrush | 引航者试炼 | - | 導灯の試練 |
 | act2d5 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act2d8 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act2mine | 波平谷矿区登录活动 | Popping Valley Mining Area Login Event | ポッピングバレー採鉱区 |

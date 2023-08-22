@@ -1870,12 +1870,14 @@
   "char_4082_qiubai": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "チューバイ",
       "zh_CN": "仇白"
     }
   },
   "char_4083_chimes": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "ウィンドチャイム",
       "zh_CN": "铎铃"
     }
   },
@@ -4250,6 +4252,7 @@
   "char_110_deepcl@winter#3": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "影絵芝居",
       "zh_CN": "绘声绘影"
     }
   },
@@ -4648,6 +4651,7 @@
   "char_185_frncat@wild#7": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "キャンプのお楽しみ",
       "zh_CN": "营地炊烟"
     }
   },
@@ -4868,6 +4872,7 @@
   "char_215_mantic@epoque#19": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "ヴェールの下に",
       "zh_CN": "面纱之下"
     }
   },
@@ -5674,6 +5679,7 @@
   "char_4032_provs@wild#7": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "晴れ渡る秋空",
       "zh_CN": "秋高气爽"
     }
   },
@@ -5738,6 +5744,7 @@
   "char_4055_bgsnow@wild#7": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "行間にある雪原",
       "zh_CN": "字句中的雪原"
     }
   },
@@ -5960,6 +5967,7 @@
   "char_476_blkngt@nian#8": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "薫風梢",
       "zh_CN": "枝头馥"
     }
   },
@@ -12816,6 +12824,7 @@
   "act14mini": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "春分",
       "zh_CN": "春分"
     }
   },
@@ -13292,6 +13301,7 @@
   "act2bossrush": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "導灯の試練",
       "zh_CN": "引航者试炼"
     }
   },
@@ -15484,6 +15494,7 @@
   "act14mini_token_fu": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "安全祈願のお守り",
       "zh_CN": "平安符"
     }
   },
@@ -15834,36 +15845,42 @@
   "act2bossrush_milestone_point": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "試練経験値",
       "zh_CN": "试炼经验"
     }
   },
   "act2bossrush_relic_01": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "リカバリーキット",
       "zh_CN": "修复套件"
     }
   },
   "act2bossrush_relic_02": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "メインテインパッチ",
       "zh_CN": "维续补丁"
     }
   },
   "act2bossrush_relic_03": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ダウンモジュール",
       "zh_CN": "减退模块"
     }
   },
   "act2bossrush_relic_04": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "積載調節",
       "zh_CN": "调优重载"
     }
   },
   "act2bossrush_token_relic": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ブラックボックス",
       "zh_CN": "数据黑盒"
     }
   },
@@ -17364,12 +17381,14 @@
   "itempack_mod_4": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "モジュールデータブロック",
       "zh_CN": "模组数据整合块"
     }
   },
   "itempack_mod_6": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "モジュールデータボックス",
       "zh_CN": "模组数据整合箱"
     }
   },
@@ -19312,12 +19331,14 @@
   "p_char_4082_qiubai": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "チューバイの印",
       "zh_CN": "仇白的信物"
     }
   },
   "p_char_4083_chimes": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ウィンドチャイムの印",
       "zh_CN": "铎铃的信物"
     }
   },
@@ -21986,6 +22007,12 @@
       "ja_JP": "枯火に咲く花"
     }
   },
+  "_NORM_22_3_1": {
+    "type": "POOL",
+    "names": {
+      "ja_JP": "春江逢雪"
+    }
+  },
   "_NORM_2_0_1": {
     "type": "POOL",
     "names": {
@@ -23048,6 +23075,7 @@
   "skchr_chimes_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "郷思の念",
       "zh_CN": "乡心无改"
     }
   },
@@ -25378,18 +25406,21 @@
   "skchr_qiubai_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "留羽",
       "zh_CN": "留羽"
     }
   },
   "skchr_qiubai_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "承影",
       "zh_CN": "承影"
     }
   },
   "skchr_qiubai_3": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "問雪",
       "zh_CN": "问雪"
     }
   },
@@ -29774,60 +29805,70 @@
   "act14mini_01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "先の長い行路",
       "zh_CN": "未竟长路"
     }
   },
   "act14mini_02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "止まらぬ逃げ足",
       "zh_CN": "奔突难止"
     }
   },
   "act14mini_03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "池に足をとられ",
       "zh_CN": "水涨池深"
     }
   },
   "act14mini_04": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "逃げ場は無し",
       "zh_CN": "无从逃逸"
     }
   },
   "act14mini_05": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "行きつ止まりつ",
       "zh_CN": "且停且行"
     }
   },
   "act14mini_06": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "枯れ木に芽吹く",
       "zh_CN": "枯生"
     }
   },
   "act14mini_07": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "凍土に堅石",
       "zh_CN": "冻土坚石"
     }
   },
   "act14mini_08": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "立ち昇る硝煙",
       "zh_CN": "硝烟四起"
     }
   },
   "act14mini_s01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "水悠々たりて",
       "zh_CN": "水悠悠"
     }
   },
   "act14mini_s02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "路遥かなり",
       "zh_CN": "路迢迢"
     }
   },
@@ -32290,24 +32331,28 @@
   "act2bossrush_01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "困窮する囚人",
       "zh_CN": "困顿囚徒"
     }
   },
   "act2bossrush_02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "デカとチビ",
       "zh_CN": "大块头和小不点"
     }
   },
   "act2bossrush_03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "大地割れる一撃",
       "zh_CN": "裂地重击"
     }
   },
   "act2bossrush_04": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "燦陽の影",
       "zh_CN": "骄阳之影"
     }
   },
@@ -36542,6 +36587,7 @@
   "act14mini_zone1": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "侠客之道",
       "zh_CN": "仗剑何为"
     }
   },
@@ -37056,6 +37102,7 @@
   "act2bossrush_zone1": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "強敵襲来",
       "zh_CN": "强敌当前"
     }
   },
@@ -37966,6 +38013,7 @@
   "story_blkngt_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "荒野に生まれ",
       "zh_CN": "荒地生灵"
     }
   },
@@ -38110,6 +38158,7 @@
   "story_chiave_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "代表作",
       "zh_CN": "代表作"
     }
   },
@@ -38546,6 +38595,7 @@
   "story_iris_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "お菓子の家",
       "zh_CN": "糖果屋"
     }
   },
@@ -38994,12 +39044,14 @@
   "story_quercu_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "終の道",
       "zh_CN": "终途"
     }
   },
   "story_quercu_set_2_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "命の芽吹き",
       "zh_CN": "生命的萌芽"
     }
   },

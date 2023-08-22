@@ -46,7 +46,7 @@ tip: 请善用浏览器的搜索功能
 | act13sre_zone3 | 城市霓虹 | City Neon | 都市のネオン |
 | act14d7_zone1 | 下城区 | Downtown  | 繁華街 |
 | act14d7_zone2 | 东部郊区 | Eastern Suburbs | 東部郊外 |
-| act14mini_zone1 | 仗剑何为 | - | - |
+| act14mini_zone1 | 仗剑何为 | - | 侠客之道 |
 | act14side_zone1 | 雪山大典 | The Grand Ceremony | 雪境大典 |
 | act14side_zone2 | 圣猎 | Holy Hunt | 狩猟の儀 |
 | act14sre_zone1 | 雪山大典 | The Grand Ceremony | 雪境大典 |
@@ -116,7 +116,7 @@ tip: 请善用浏览器的搜索功能
 | act27side_zone1 | 温泉假日 | - | - |
 | act27side_zone2 | 城市寻宝 | - | - |
 | act27side_zone3 | 岩浆冲浪 | - | - |
-| act2bossrush_zone1 | 强敌当前 | - | - |
+| act2bossrush_zone1 | 强敌当前 | - | 強敵襲来 |
 | act3bossrush_zone1 | 强敌当前 | - | - |
 | act5d0_zone1 | 下城区 | Downtown | 繁華街 |
 | act5d0_zone2 | 东部郊区 | Eastern Suburbs | 東部郊外 |

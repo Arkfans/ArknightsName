@@ -775,33 +775,43 @@
     "zh_CN": "骑士流氓"
   },
   "act14mini_01": {
+    "ja_JP": "先の長い行路",
     "zh_CN": "未竟长路"
   },
   "act14mini_02": {
+    "ja_JP": "止まらぬ逃げ足",
     "zh_CN": "奔突难止"
   },
   "act14mini_03": {
+    "ja_JP": "池に足をとられ",
     "zh_CN": "水涨池深"
   },
   "act14mini_04": {
+    "ja_JP": "逃げ場は無し",
     "zh_CN": "无从逃逸"
   },
   "act14mini_05": {
+    "ja_JP": "行きつ止まりつ",
     "zh_CN": "且停且行"
   },
   "act14mini_06": {
+    "ja_JP": "枯れ木に芽吹く",
     "zh_CN": "枯生"
   },
   "act14mini_07": {
+    "ja_JP": "凍土に堅石",
     "zh_CN": "冻土坚石"
   },
   "act14mini_08": {
+    "ja_JP": "立ち昇る硝煙",
     "zh_CN": "硝烟四起"
   },
   "act14mini_s01": {
+    "ja_JP": "水悠々たりて",
     "zh_CN": "水悠悠"
   },
   "act14mini_s02": {
+    "ja_JP": "路遥かなり",
     "zh_CN": "路迢迢"
   },
   "act14side_01": {
@@ -2277,15 +2287,19 @@
     "zh_CN": "跟着我拍拍手"
   },
   "act2bossrush_01": {
+    "ja_JP": "困窮する囚人",
     "zh_CN": "困顿囚徒"
   },
   "act2bossrush_02": {
+    "ja_JP": "デカとチビ",
     "zh_CN": "大块头和小不点"
   },
   "act2bossrush_03": {
+    "ja_JP": "大地割れる一撃",
     "zh_CN": "裂地重击"
   },
   "act2bossrush_04": {
+    "ja_JP": "燦陽の影",
     "zh_CN": "骄阳之影"
   },
   "act3bossrush_01": {

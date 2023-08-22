@@ -31,7 +31,7 @@ tip: 请善用浏览器的搜索功能
 | story_bldsk_set_1_story_1 | 怪物 | 'Monster' | モンスター |
 | story_bldsk_set_2_story_1 | 难得认真 | Rarely Serious | たまには真剣に |
 | story_blemsh_set_1_story_1 | 心甘情愿 | Ready to Serve | 望むままに |
-| story_blkngt_set_1_story_1 | 荒地生灵 | - | - |
+| story_blkngt_set_1_story_1 | 荒地生灵 | - | 荒野に生まれ |
 | story_bluep_set_1_story_1 | 触不可及 | Untouchable | 遥か遠く |
 | story_bpipe_set_1_story_1 | 难行长路 | Dangerous Road | 険しい道のり |
 | story_breeze_set_1_story_1 | 风暖寒林 | Breeze's Warmth, Chilled Forest | 林は寒く風は温か |
@@ -50,7 +50,7 @@ tip: 请善用浏览器的搜索功能
 | story_chen2_set_1_story_1 | 归属 | Belonging | 帰属 |
 | story_chen2_set_2_story_1 | 道路 | Pathways | 道 |
 | story_chen_set_1_story_1 | 一鼓作气 | In One Effort | 一気呵成 |
-| story_chiave_set_1_story_1 | 代表作 | - | - |
+| story_chiave_set_1_story_1 | 代表作 | - | 代表作 |
 | story_chyue_set_1_story_1 | 昔我往矣 | Once Upon a Time, I Wandered Afar | 昔我往きて、君と携行す |
 | story_ctable_set_1_story_1 | 飞进窗的羽兽 | - | - |
 | story_cutter_set_1_story_1 | 速食食品 | Meals, Ready-to-Eat | 携行食 |
@@ -108,7 +108,7 @@ tip: 请善用浏览器的搜索功能
 | story_indigo_set_1_story_1 | 硬核饮品 | Hardcore Drink | ハードなドリンク |
 | story_inside_set_1_story_1 | 机密任务 | - | - |
 | story_irene_set_1_story_1 | 灯火微明 | Lantern's Twilight | ほのかな灯り |
-| story_iris_set_1_story_1 | 糖果屋 | - | - |
+| story_iris_set_1_story_1 | 糖果屋 | - | お菓子の家 |
 | story_jaksel_set_1_story_1 | 无价的勋章 | - | - |
 | story_jesica_set_1_story_1 | 缓步前行 | The Slow Walk Ahead | ゆっくり進む者 |
 | story_kafka_set_1_story_1 | 许以秘密 | - | - |
@@ -168,8 +168,8 @@ tip: 请善用浏览器的搜索功能
 | story_pudd_set_1_story_1 | 远方的雪 | - | - |
 | story_qanik_set_1_story_1 | 风雪代为传达 | - | - |
 | story_quartz_set_1_story_1 | 无需遗憾 | - | - |
-| story_quercu_set_1_story_1 | 终途 | - | - |
-| story_quercu_set_2_story_1 | 生命的萌芽 | - | - |
+| story_quercu_set_1_story_1 | 终途 | - | 終の道 |
+| story_quercu_set_2_story_1 | 生命的萌芽 | - | 命の芽吹き |
 | story_robrta_set_1_story_1 | 挽歌 | Elegy | 亡き者に捧ぐ歌 |
 | story_rockr_set_1_story_1 | 六百镑 | Six Hundred Pounds | 600ポンド |
 | story_rope_set_1_story_1 | 鲜花香水 | Floral Perfume | フラワーパフューム |

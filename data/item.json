@@ -916,6 +916,7 @@
     "zh_CN": "骑士领纪念模型"
   },
   "act14mini_token_fu": {
+    "ja_JP": "安全祈願のお守り",
     "zh_CN": "平安符"
   },
   "act14side_token_stone": {
@@ -1122,21 +1123,27 @@
     "zh_CN": "毛绒绒生物的毛"
   },
   "act2bossrush_milestone_point": {
+    "ja_JP": "試練経験値",
     "zh_CN": "试炼经验"
   },
   "act2bossrush_relic_01": {
+    "ja_JP": "リカバリーキット",
     "zh_CN": "修复套件"
   },
   "act2bossrush_relic_02": {
+    "ja_JP": "メインテインパッチ",
     "zh_CN": "维续补丁"
   },
   "act2bossrush_relic_03": {
+    "ja_JP": "ダウンモジュール",
     "zh_CN": "减退模块"
   },
   "act2bossrush_relic_04": {
+    "ja_JP": "積載調節",
     "zh_CN": "调优重载"
   },
   "act2bossrush_token_relic": {
+    "ja_JP": "ブラックボックス",
     "zh_CN": "数据黑盒"
   },
   "act38d1_token_coin": {
@@ -1971,9 +1978,11 @@
     "zh_CN": "特种芯片组印刻仪"
   },
   "itempack_mod_4": {
+    "ja_JP": "モジュールデータブロック",
     "zh_CN": "模组数据整合块"
   },
   "itempack_mod_6": {
+    "ja_JP": "モジュールデータボックス",
     "zh_CN": "模组数据整合箱"
   },
   "itempack_mod_7": {
@@ -3175,9 +3184,11 @@
     "zh_CN": "林的信物"
   },
   "p_char_4082_qiubai": {
+    "ja_JP": "チューバイの印",
     "zh_CN": "仇白的信物"
   },
   "p_char_4083_chimes": {
+    "ja_JP": "ウィンドチャイムの印",
     "zh_CN": "铎铃的信物"
   },
   "p_char_4087_ines": {

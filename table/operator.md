@@ -242,8 +242,8 @@ tip: 请善用浏览器的搜索功能
 | char_4077_palico | 泰拉大陆调查团 | - | - |
 | char_4078_bdhkgt | 截云 | Jieyun | ジエユン |
 | char_4080_lin | 林 | Lin | リン |
-| char_4082_qiubai | 仇白 | - | - |
-| char_4083_chimes | 铎铃 | - | - |
+| char_4082_qiubai | 仇白 | - | チューバイ |
+| char_4083_chimes | 铎铃 | - | ウィンドチャイム |
 | char_4087_ines | 伊内丝 | - | - |
 | char_4091_ulika | U-Official | - | - |
 | char_4093_frston | Friston-3 | - | - |

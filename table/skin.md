@@ -32,7 +32,7 @@ tip: 请善用浏览器的搜索功能
 | char_108_silent@sweep#1 | 漆匠 | Lacquer | 漆匠 |
 | char_108_silent@winter#2 | 霜息 | Frosted Breath | 白い息 |
 | char_109_fmout@epoque#2 | 未知的旅行 | Unknown Journey | 未知なる旅 |
-| char_110_deepcl@winter#3 | 绘声绘影 | - | - |
+| char_110_deepcl@winter#3 | 绘声绘影 | - | 影絵芝居 |
 | char_112_siege@striker#2 | 摧城 | City Destroyer | 破城 |
 | char_112_siege@wild#2 | 遗石 | Legacy | 永き石 |
 | char_113_cqbw@epoque#7 | 恍惚 | Fugue | うわの空 |
@@ -83,7 +83,7 @@ tip: 请善用浏览器的搜索功能
 | char_180_amgoat@summer#5 | 夏卉 FA018 | Summer Flower FA018 | 夏の花弁FA018 |
 | char_181_flower@daily#1 | 植物种志 | Species Plantarum | 植物紀年 |
 | char_181_flower@epoque#9 | 闲适午后 | Leisurely Afternoon | うららか |
-| char_185_frncat@wild#7 | 营地炊烟 | - | - |
+| char_185_frncat@wild#7 | 营地炊烟 | - | キャンプのお楽しみ |
 | char_187_ccheal@epoque#2 | 战医 | Combat Medic | 戦医 |
 | char_188_helage@boc#2 | 歧路幻影 | Octopath Illusion | 岐路幻影 |
 | char_193_frostl@boc#4 | 破冰 | Breaking the Ice | 砕氷 |
@@ -111,7 +111,7 @@ tip: 请善用浏览器的搜索功能
 | char_212_ansel@summer#1 | 悠然假日 HDm06 | Casual Vacation HDm06 | ホリデーHDm06 |
 | char_213_mostma@epoque#5 | 除魅 | Spellbreaker | 魑魅払い |
 | char_214_kafka@snow#3 | 纸板仙子 | Cardboard Fairy | 紙細工の妖精 |
-| char_215_mantic@epoque#19 | 面纱之下 | - | - |
+| char_215_mantic@epoque#19 | 面纱之下 | - | ヴェールの下に |
 | char_215_mantic@epoque#4 | 无形悼挽 | Invisible Dirge | 無形の深悼 |
 | char_218_cuttle@epoque#12 | 暗矢 | Silent Arrow | 暗矢 |
 | char_219_meteo@sweep#1 | 石墨 | Graphite | 石墨 |
@@ -216,7 +216,7 @@ tip: 请善用浏览器的搜索功能
 | char_401_elysm@summer#9 | 灿阳朝露 SDm11 | Shimmering Dew SDm11 | 炎陽煌く露SDm11 |
 | char_4025_aprot2@whirlwind#5 | 结果 | - | - |
 | char_402_tuye@epoque#14 | 培翠 | Cultivate Vegetation | 緑化 |
-| char_4032_provs@wild#7 | 秋高气爽 | - | - |
+| char_4032_provs@wild#7 | 秋高气爽 | - | 晴れ渡る秋空 |
 | char_4036_forcer@epoque#20 | 拾翼 | - | - |
 | char_4039_horn@epoque#24 | 化花 | - | - |
 | char_4040_rockr@lxh#1 | 欢唱之前 | Before Singing | 歌の前に |
@@ -226,7 +226,7 @@ tip: 请善用浏览器的搜索功能
 | char_4045_heidi@epoque#24 | 书信零落 | - | - |
 | char_4046_ebnhlz@boc#6 | 变奏 | - | - |
 | char_4047_pianst@wild#8 | 荒野寻音 | - | - |
-| char_4055_bgsnow@wild#7 | 字句中的雪原 | - | - |
+| char_4055_bgsnow@wild#7 | 字句中的雪原 | - | 行間にある雪原 |
 | char_4071_peper@whirlwind#5 | 来路 | - | - |
 | char_4072_ironmn@summer#11 | 沙滩护卫 GT003 | - | - |
 | char_4077_palico@mh#1 | 跃上街头 | - | - |
@@ -255,7 +255,7 @@ tip: 请善用浏览器的搜索功能
 | char_473_mberry@nian#9 | 照冰轮 | Reflection That of the Moons | 照氷輪 |
 | char_474_glady@boc#5 | 返航 | Return | 帰航 |
 | char_475_akafyu@epoque#15 | 心性 | Temperament | 心技 |
-| char_476_blkngt@nian#8 | 枝头馥 | - | - |
+| char_476_blkngt@nian#8 | 枝头馥 | - | 薫風梢 |
 | char_476_blkngt@summer#8 | 夏卉 FA641 | Summer Flower FA641 | 夏の花弁FA641 |
 | char_478_kirara@game#2 | 前沿玩家 | Trendsetting Player | トレンディゲーマー |
 | char_479_sleach@epoque#14 | 识芳 | Appreciate Fragrance | 満開 |
