@@ -160,16 +160,16 @@ tip: 请善用浏览器的搜索功能
 | act13side_st04 | 未知与未来 | Uncharted and Hereafter | 未知と未来 |
 | act13side_tr01 | 城市之光 | City Lights | 都市の光 |
 | act13side_tr02 | 骑士流氓 | Rogue Knights | ならず者 |
-| act14mini_01 | 未竟长路 | - | 先の長い行路 |
-| act14mini_02 | 奔突难止 | - | 止まらぬ逃げ足 |
-| act14mini_03 | 水涨池深 | - | 池に足をとられ |
-| act14mini_04 | 无从逃逸 | - | 逃げ場は無し |
-| act14mini_05 | 且停且行 | - | 行きつ止まりつ |
-| act14mini_06 | 枯生 | - | 枯れ木に芽吹く |
-| act14mini_07 | 冻土坚石 | - | 凍土に堅石 |
-| act14mini_08 | 硝烟四起 | - | 立ち昇る硝煙 |
-| act14mini_s01 | 水悠悠 | - | 水悠々たりて |
-| act14mini_s02 | 路迢迢 | - | 路遥かなり |
+| act14mini_01 | 未竟长路 | Unending Road | 先の長い行路 |
+| act14mini_02 | 奔突难止 | Unstoppable Momentum | 止まらぬ逃げ足 |
+| act14mini_03 | 水涨池深 | Rising Water | 池に足をとられ |
+| act14mini_04 | 无从逃逸 | Nowhere to Run | 逃げ場は無し |
+| act14mini_05 | 且停且行 | Stop and Go | 行きつ止まりつ |
+| act14mini_06 | 枯生 | From Decay | 枯れ木に芽吹く |
+| act14mini_07 | 冻土坚石 | Frozen Earth | 凍土に堅石 |
+| act14mini_08 | 硝烟四起 | Flames of Unrest | 立ち昇る硝煙 |
+| act14mini_s01 | 水悠悠 | Flowing Water | 水悠々たりて |
+| act14mini_s02 | 路迢迢 | Long Road | 路遥かなり |
 | act14side_01 | 不欢而聚 | Starting on a Sour Note | 三家会議 |
 | act14side_02 | 息事宁人 | Smoothing Things Over | 鎮静化 |
 | act14side_03 | 人心难测 | Inscrutable | 測り難きは人心 |
@@ -498,10 +498,10 @@ tip: 请善用浏览器的搜索功能
 | act27side_st03 | 晴天 | - | - |
 | act27side_tr01 | 黑咩咩 | - | - |
 | act27side_tr02 | 跟着我拍拍手 | - | - |
-| act2bossrush_01 | 困顿囚徒 | - | 困窮する囚人 |
-| act2bossrush_02 | 大块头和小不点 | - | デカとチビ |
-| act2bossrush_03 | 裂地重击 | - | 大地割れる一撃 |
-| act2bossrush_04 | 骄阳之影 | - | 燦陽の影 |
+| act2bossrush_01 | 困顿囚徒 | Troubled Prisoner | 困窮する囚人 |
+| act2bossrush_02 | 大块头和小不点 | Big and Small | デカとチビ |
+| act2bossrush_03 | 裂地重击 | Fissure Strike | 大地割れる一撃 |
+| act2bossrush_04 | 骄阳之影 | Proud Sun's Shadow | 燦陽の影 |
 | act3bossrush_01 | 适者生存 | - | - |
 | act3bossrush_02 | 惊惧与血色 | - | - |
 | act3bossrush_03 | 不测之渊 | - | - |

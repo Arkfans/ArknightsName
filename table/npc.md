@@ -129,8 +129,8 @@ tip: 请善用浏览器的搜索功能
 | avg_346_aosta_1 | 奥斯塔 | Aosta | アオスタ |
 | avg_347_jaksel_1 | 杰克 | - | - |
 | avg_348_ceylon_1 | 锡兰 | Ceylon | セイロン |
-| avg_349_chiave_1 | 贾维 | - | キアーベ |
-| avg_362_saga_1 | 嵯峨 | - | サガ |
+| avg_349_chiave_1 | 贾维 | Chiave | キアーベ |
+| avg_362_saga_1 | 嵯峨 | Saga | サガ |
 | avg_363_toddi_1 | 熔泉 | Toddifons | トギフォンス |
 | avg_365_aprl_1 | 爱尔莉 | Aerlie | エルリー |
 | avg_377_gdglow_1 | 澄闪 | Goldenglow | ゴールデングロー |
@@ -186,8 +186,8 @@ tip: 请善用浏览器的搜索功能
 |   | 异族装扮的少女 | Injured Girl | 異民族の装いの少女 |
 |   | 截云 | Jieyun | 負傷した少女 |
 | avg_4080_lin_1 | 林雨霞 | Lin Yühsia | ユーシャ |
-| avg_4083_chimes_1 | 信使 | - | ウィンドチャイム |
-|   | 铎铃 |   | 信使 |
+| avg_4083_chimes_1 | 信使 | Messenger | ウィンドチャイム |
+|   | 铎铃 | Wind Chimes | 信使 |
 | avg_4087_ines_1 | 伊内丝 | - | - |
 | avg_4091_ulika2_1 | 主播U | - | - |
 |   | 尤里卡 |   |   |
@@ -214,9 +214,9 @@ tip: 请善用浏览器的搜索功能
 | avg_452_bstalk_1 | 豆苗 | Beanstalk | ビーンストーク |
 | avg_466_qanik_1 | 雪绒 | - | - |
 | avg_469_indigo_1 | 艾莉亚 | Aria | アリア |
-| avg_473_mberry_1 | 夜半 | Gu Ning-Ning | グ・ニンニン |
-|   | 桑葚 | Mulberry | ブラックナイト |
-|   | 谷宁宁 |   | マルベリー |
+| avg_473_mberry_1 | 夜半 | Blacknight | グ・ニンニン |
+|   | 桑葚 | Gu Ning-Ning | ブラックナイト |
+|   | 谷宁宁 | Mulberry | マルベリー |
 | avg_474_gladiia_1 | 歌蕾蒂娅 | Gladiia | グレイディーア |
 | avg_475_akafyu_1 | 赤冬 | Akafuyu | アカフユ |
 | avg_476_blkngt_1 | 夜半 | Blacknight | イェバン |
@@ -234,7 +234,7 @@ tip: 请善用浏览器的搜索功能
 | avg_489_serum_1 | 蚀清 | Corroserum | コロセラム |
 | avg_491_humus_1 | 休谟斯 | - | - |
 | avg_492_quercu_1 | 夏栎 | Quercus | クエルクス |
-|   | 夏栎？ |   | クエルクス？ |
+|   | 夏栎？ | Quercus? | クエルクス？ |
 | avg_493_firwhl_1 | 阿格妮 | - | - |
 | avg_496_wdmane_1 | 狂野的骑士 | A Wild Knight | イヴォナ |
 |   | 艾沃娜 | Iwona | ワイルドな騎士 |
@@ -349,34 +349,34 @@ tip: 请善用浏览器的搜索功能
 |   | 乌萨斯商队护卫 | Bandit Leader | ハンター |
 |   | 冷漠的流寇 | Bounty Hunter | バウンティハンター |
 |   | 奇怪的镇民 | Bounty Hunter A | バウンティハンターA |
-|   | 崩溃的强盗 | Cowardly Mercenary | リバーブレード傭兵 |
-|   | 幸存者A | Crumbling Bandit | リバーブレード傭兵A |
-|   | 强盗 | Elder Hunter | 不機嫌な賞金ハンター |
-|   | 强盗头目 | Hunter | 乱暴な略奪者 |
-|   | 怒吼的陌生战士 | Indignant Mercenary | 傭兵 |
-|   | 感染者小弟 | Infected Henchman | 傭兵A |
-|   | 感染者手下 | Infected Thug | 傭兵B |
-|   | 感染者打手 | Infected Underling | 冴えてる強盗 |
-|   | 愤怒的雇佣兵 | Knife-Wielding Bandit | 刀を持った強盗 |
-|   | 懦弱的雇佣兵 | Mercenary | 奇妙な町民 |
-|   | 持刀的强盗 | Mercenary A | 小柄な傭兵 |
-|   | 探险者A | Mercenary B | 強盗 |
-|   | 搜索中的雇佣兵 | Mercenary Caster | 強盗の頭目 |
-|   | 暴躁的雇佣兵 | Riverblade Squad Mercenary | 怒る傭兵 |
-|   | 术师雇佣兵 | Riverblade Squad Mercenary A | 怪しいハンター |
-|   | 河刃小队佣兵 | Rough Hooligan | 感染者の手下 |
-|   | 河刃小队佣兵A | Sargonian Veteran | 感染者手先 |
-|   | 犹豫的强盗 | Searching Mercenary | 感染者舎弟 |
-|   | 猎人 | Shrewd Bandit | 戸惑う強盗 |
-|   | 猎人哥哥 | Strange Hunter | 捜索中の傭兵 |
-|   | 矮小的佣兵 | Strange Townsfolk | 気弱な傭兵 |
-|   | 粗暴的佣兵 | Sullen Bounty Hunter | 狩人の兄 |
-|   | 粗暴的赏金猎人 | Ugly Hooligan | 粗暴な傭兵 |
-|   | 粗鄙的暴徒 | Violent Bounty Hunter | 粗暴な賞金稼ぎ |
-|   | 粗野的劫掠者 | Violent Mercenary | 絶望した強盗 |
-|   | 粗鲁的流寇 | Vulgar Bandit | 荒々しい暴徒 |
-|   | 精明的强盗 |   | 術師傭兵 |
-|   | 萨尔贡老兵 |   | 賞金ハンター |
+|   | 崩溃的强盗 | Brutish Mercenary | リバーブレード傭兵 |
+|   | 幸存者A | Cowardly Mercenary | リバーブレード傭兵A |
+|   | 强盗 | Crumbling Bandit | 不機嫌な賞金ハンター |
+|   | 强盗头目 | Diminutive Mercenary | 乱暴な略奪者 |
+|   | 怒吼的陌生战士 | Elder Hunter | 傭兵 |
+|   | 感染者小弟 | Hunter | 傭兵A |
+|   | 感染者手下 | Indignant Mercenary | 傭兵B |
+|   | 感染者打手 | Infected Henchman | 冴えてる強盗 |
+|   | 愤怒的雇佣兵 | Infected Thug | 刀を持った強盗 |
+|   | 懦弱的雇佣兵 | Infected Underling | 奇妙な町民 |
+|   | 持刀的强盗 | Knife-Wielding Bandit | 小柄な傭兵 |
+|   | 探险者A | Mercenary | 強盗 |
+|   | 搜索中的雇佣兵 | Mercenary A | 強盗の頭目 |
+|   | 暴躁的雇佣兵 | Mercenary B | 怒る傭兵 |
+|   | 术师雇佣兵 | Mercenary Caster | 怪しいハンター |
+|   | 河刃小队佣兵 | Riverblade Squad Mercenary | 感染者の手下 |
+|   | 河刃小队佣兵A | Riverblade Squad Mercenary A | 感染者手先 |
+|   | 犹豫的强盗 | Rough Hooligan | 感染者舎弟 |
+|   | 猎人 | Sargonian Veteran | 戸惑う強盗 |
+|   | 猎人哥哥 | Searching Mercenary | 捜索中の傭兵 |
+|   | 矮小的佣兵 | Shrewd Bandit | 気弱な傭兵 |
+|   | 粗暴的佣兵 | Strange Hunter | 狩人の兄 |
+|   | 粗暴的赏金猎人 | Strange Townsfolk | 粗暴な傭兵 |
+|   | 粗鄙的暴徒 | Sullen Bounty Hunter | 粗暴な賞金稼ぎ |
+|   | 粗野的劫掠者 | Ugly Hooligan | 絶望した強盗 |
+|   | 粗鲁的流寇 | Violent Bounty Hunter | 荒々しい暴徒 |
+|   | 精明的强盗 | Violent Mercenary | 術師傭兵 |
+|   | 萨尔贡老兵 | Vulgar Bandit | 賞金ハンター |
 |   | 诡异的猎人 |   | 賞金稼ぎ |
 |   | 赏金猎人 |   | 醜い暴徒 |
 |   | 赏金猎人A |   |   |
@@ -396,27 +396,27 @@ tip: 请善用浏览器的搜索功能
 |   | 商队护卫 | Bounty Hunter C | バウンティハンターC |
 |   | 好奇的赏金猎人 | Caravan Guard | リバーブレード傭兵 |
 |   | 幸存者B | Curious Bounty Hunter | リバーブレード傭兵B |
-|   | 强盗 | Hoodlum B | リバーブレード傭兵隊長 |
-|   | 强盗头目 | Hooligan Mercenary | 傭兵 |
-|   | 急躁的雇佣兵 | Impatient Mercenary | 傭兵A |
-|   | 感染者哥哥 | Infected Brother | 傭兵隊長 |
-|   | 感染者暴徒 | Infected Hooligan | 凶悪な強盗 |
-|   | 探险者B | Mercenary A | 利口な略奪者 |
-|   | 搜索中的雇佣兵 | Mercenary Captain | 喋らない賞金ハンター |
-|   | 新人佣兵 | Old Captain | 大尉 |
-|   | 暴徒雇佣兵 | Quiet Bounty Hunter | 年配の隊長 |
-|   | 沉默的赏金猎人 | Rickety Joe | 強盗 |
-|   | 河刃小队佣兵 | Riverblade Squad Mercenary | 強盗の頭目 |
-|   | 河刃小队佣兵B | Riverblade Squad Mercenary B | 感染者の兄 |
-|   | 河刃小队佣兵队长 | Riverblade Squad Mercenary Captain | 感染者暴徒 |
-|   | 混混B | Rusthammer Warrior | 捜索中の傭兵 |
-|   | 王酋据点驻扎人员 | Searching Mercenary | 物好きなバウンティハンター |
-|   | 粗暴的赏金猎人 | Shrewd Bandit | 短気な傭兵 |
-|   | 精明的劫掠者 | Vicious Bandit | 粗暴な賞金稼ぎ |
-|   | 老乔 | Violent Bounty Hunter | 荒野の男 |
-|   | 老队长 | Wastelander | 負傷した傭兵 |
-|   | 荒地人 | Wounded Mercenary | 貪欲な傭兵 |
-|   | 负伤的雇佣兵 |   | 賞金稼ぎ |
+|   | 强盗 | Greedy Mercenary | リバーブレード傭兵隊長 |
+|   | 强盗头目 | Hoodlum B | 傭兵 |
+|   | 急躁的雇佣兵 | Hooligan Mercenary | 傭兵A |
+|   | 感染者哥哥 | Impatient Mercenary | 傭兵隊長 |
+|   | 感染者暴徒 | Infected Brother | 凶悪な強盗 |
+|   | 探险者B | Infected Hooligan | 利口な略奪者 |
+|   | 搜索中的雇佣兵 | Mercenary A | 喋らない賞金ハンター |
+|   | 新人佣兵 | Mercenary Captain | 大尉 |
+|   | 暴徒雇佣兵 | Old Captain | 年配の隊長 |
+|   | 沉默的赏金猎人 | Quiet Bounty Hunter | 強盗 |
+|   | 河刃小队佣兵 | Rickety Joe | 強盗の頭目 |
+|   | 河刃小队佣兵B | Riverblade Squad Mercenary | 感染者の兄 |
+|   | 河刃小队佣兵队长 | Riverblade Squad Mercenary B | 感染者暴徒 |
+|   | 混混B | Riverblade Squad Mercenary Captain | 捜索中の傭兵 |
+|   | 王酋据点驻扎人员 | Rusthammer Warrior | 物好きなバウンティハンター |
+|   | 粗暴的赏金猎人 | Searching Mercenary | 短気な傭兵 |
+|   | 精明的劫掠者 | Shrewd Bandit | 粗暴な賞金稼ぎ |
+|   | 老乔 | Vicious Bandit | 荒野の男 |
+|   | 老队长 | Violent Bounty Hunter | 負傷した傭兵 |
+|   | 荒地人 | Wastelander | 貪欲な傭兵 |
+|   | 负伤的雇佣兵 | Wounded Mercenary | 賞金稼ぎ |
 |   | 贪婪的佣兵 |   | 錆槌戦士 |
 |   | 赏金猎人 |   |   |
 |   | 赏金猎人B |   |   |
@@ -823,10 +823,10 @@ tip: 请善用浏览器的搜索功能
 |   | 阿威 |   |   |
 | avg_npc_081 | 乌萨斯农民 | Haggard Worker | くたびれた労働者 |
 |   | 乌萨斯商队成员 | Muscular Man | ウルサス村人 |
-|   | 乌萨斯村民 | Shadow | ウルサス農民 |
-|   | 强壮的男人 | Ursus Farmer | レイモンド |
-|   | 憔悴的工人 | Ursus Villager | 屈強な男 |
-|   | 村民 |   | 黒い影 |
+|   | 乌萨斯村民 | Raymond | ウルサス農民 |
+|   | 强壮的男人 | Shadow | レイモンド |
+|   | 憔悴的工人 | Ursus Farmer | 屈強な男 |
+|   | 村民 | Ursus Villager | 黒い影 |
 |   | 皮克特大叔 |   |   |
 |   | 达雷尔 |   |   |
 |   | 陌生人 |   |   |
@@ -1016,30 +1016,30 @@ tip: 请善用浏览器的搜索功能
 |   | 说书人 | Storyteller | 講談師 |
 | avg_npc_139 | 掌柜 | Dawn | レイ |
 |   | 黎 | Shopkeeper | 女将 |
-| avg_npc_140 | 二师兄 | First Apprentice | 一番弟子 |
-|   | 大师兄 | Innkeeper | 二番弟子 |
-|   | 愤怒的村民 | Proprietor | 山を掘る者 |
-|   | 慌乱的村民 | Rough Villager | 張り詰めた村人 |
-|   | 挖山人 | Second Apprentice | 慌てる村人 |
-|   | 掌柜 | Stonemason | 村人 |
-|   | 村民 | Vigilant Villager | 激怒する村人 |
+| avg_npc_140 | 二师兄 | Agitated Villager | 一番弟子 |
+|   | 大师兄 | Angry Villager | 二番弟子 |
+|   | 愤怒的村民 | Excavator | 山を掘る者 |
+|   | 慌乱的村民 | First Apprentice | 張り詰めた村人 |
+|   | 挖山人 | Frenetic Villager | 慌てる村人 |
+|   | 掌柜 | Innkeeper | 村人 |
+|   | 村民 | Nervous Villager | 激怒する村人 |
+|   | 村民乙 | Passing Villager A | 町民 |
+|   | 激动的村民 | Plowing Villager | 町民B |
+|   | 石匠 | Proprietor | 畑を耕す村人 |
+|   | 粗犷的村民 | Rough Villager | 番頭 |
+|   | 紧张的村民 | Second Apprentice | 石匠 |
+|   | 耕作的村民 | Stonemason | 粗暴な町民 |
+|   | 街边摊老板 | Vigilant Villager | 興奮する村人 |
+|   | 警惕的村民 | Villager | 警戒した町民 |
+|   | 路过的村民A | Villager B | 通りすがりの村人A |
+| avg_npc_141 | 女侠？ | Astonished Villager | すくみ上がる村人 |
+|   | 妻 | Clinician | 報告した村人 |
+|   | 惶恐的村民 | Heroine? | 女侠？ |
+|   | 报信的村民 | Reporting Villager | 妻 |
+|   | 村民 | Terrified Villager | 村人 |
 |   | 村民乙 | Villager | 町民 |
-|   | 激动的村民 | Villager B | 町民B |
-|   | 石匠 |   | 畑を耕す村人 |
-|   | 粗犷的村民 |   | 番頭 |
-|   | 紧张的村民 |   | 石匠 |
-|   | 耕作的村民 |   | 粗暴な町民 |
-|   | 街边摊老板 |   | 興奮する村人 |
-|   | 警惕的村民 |   | 警戒した町民 |
-|   | 路过的村民A |   | 通りすがりの村人A |
-| avg_npc_141 | 女侠？ | Clinician | すくみ上がる村人 |
-|   | 妻 | Heroine? | 報告した村人 |
-|   | 惶恐的村民 | Villager | 女侠？ |
-|   | 报信的村民 | Villager B | 妻 |
-|   | 村民 | Wife | 村人 |
-|   | 村民乙 |   | 町民 |
-|   | 诊所医生 |   | 町民B |
-|   | 震惊的村民 |   | 診療所の医者 |
+|   | 诊所医生 | Villager B | 町民B |
+|   | 震惊的村民 | Wife | 診療所の医者 |
 |   |   |   | 驚いている村人 |
 | avg_npc_142 | 孩子 | Child | 女の子 |
 |   | 小女孩 | Little Girl | 子供 |
@@ -1349,12 +1349,12 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_239 | 衣着朴素的诗人 | Bard Williams | 詩人ウィリアムズ |
 |   | 诗人威廉姆斯 | Plain-Dressed Bard | 質素な服装の詩人 |
 | avg_npc_240 | 乔 | Craig | ひもじい屋台の店主 |
-|   | 于里安 | Knight | やんちゃな子供 |
-|   | 克雷格 | Naughty Child | クレイグ |
-|   | 寒酸的小贩 |   | ジョー |
-|   | 小孩子 |   | ユリアン |
-|   | 瘦弱的孩子 |   | 痩せ細った子供 |
-|   | 顽皮的孩子 |   | 騎士 |
+|   | 于里安 | Dirt-Poor Peddler | やんちゃな子供 |
+|   | 克雷格 | Emaciated Child | クレイグ |
+|   | 寒酸的小贩 | Joe | ジョー |
+|   | 小孩子 | Jurian | ユリアン |
+|   | 瘦弱的孩子 | Knight | 痩せ細った子供 |
+|   | 顽皮的孩子 | Naughty Child | 騎士 |
 |   | 骑士 |   |   |
 | avg_npc_241 | 严肃的军官 | Gentle Officer | ヴィクトリア兵 |
 |   | 巡逻队队长 | Guards Member | ヴィクトリア兵士 |
@@ -1368,31 +1368,31 @@ tip: 请善用浏览器的搜索功能
 |   | 警备队长 |   | 警備隊員 |
 |   |   |   | 警備隊長 |
 | avg_npc_242 | 不友好的男性 | Angry Youth | 「ランプライター」 |
-|   | 于里安 | Busy Youth | ターラーの流民 |
-|   | 信使麦克马丁 | Chef MacMartin | バント |
-|   | 厨子麦克马丁 | Embittered Man | マクマーティン |
-|   | 受伤的青年 | Excited Taran Refugee | ミケル |
-|   | 商人 | Frightened Youth | ユリアン |
-|   | 塔拉流民 | Grieving Man | 勧誘をする同級生 |
-|   | 小克鲁斯 | Hostile Man | 商人 |
-|   | 帮派分子A | Merchant | 忙しい青年 |
-|   | 平和的拍摄人员 | Messenger MacMartin | 怒っている男性 |
-|   | 彬彬有礼的先生 | Panicked Youth | 怖がる青年 |
-|   | 志愿者青年 | Placid Photographer | 怯えきった青年 |
-|   | 忙碌的青年 | Restless Youth | 慌てる青年 |
-|   | 恐惧的青年 | Taran Refugee | 憤慨する青年 |
-|   | 悲愤的青年 | Tempersome Taran Refugee | 有志の青年 |
-|   | 惊讶的路人 | Timid Youth | 無愛想な男性 |
-|   | 感染者 | Townsfolk A | 焦っている青年 |
-|   | 感染者市民 | Twitchy Taran Man | 町人A |
-|   | 愤怒的市民 | Wheedling Merchant Alumnus | 痩せ細った脱走兵 |
-|   | 愤怒的男性 | Wounded Youth | 短気なターラー男性 |
-|   | 慌张的青年 | Young Volunteer | 穏やかな撮影スタッフ |
-|   | 拉拢客户的商人同学 |   | 興奮したターラーの流民 |
-|   | 暴躁的塔拉流民 |   | 苦しむ男性 |
-|   | 清瘦的男性 |   | 荒っぽいターラーの流民 |
-|   | 激动的塔拉流民 |   | 見知らぬ男 |
-|   | 烦躁的塔拉男性 |   | 負傷した青年 |
+|   | 于里安 | Bent | ターラーの流民 |
+|   | 信使麦克马丁 | Busy Youth | バント |
+|   | 厨子麦克马丁 | Chef MacMartin | マクマーティン |
+|   | 受伤的青年 | Embittered Man | ミケル |
+|   | 商人 | Excited Taran Refugee | ユリアン |
+|   | 塔拉流民 | Frightened Youth | 勧誘をする同級生 |
+|   | 小克鲁斯 | Grieving Man | 商人 |
+|   | 帮派分子A | Hostile Man | 忙しい青年 |
+|   | 平和的拍摄人员 | Jurian | 怒っている男性 |
+|   | 彬彬有礼的先生 | Merchant | 怖がる青年 |
+|   | 志愿者青年 | Messenger MacMartin | 怯えきった青年 |
+|   | 忙碌的青年 | Michael | 慌てる青年 |
+|   | 恐惧的青年 | Panicked Youth | 憤慨する青年 |
+|   | 悲愤的青年 | Placid Photographer | 有志の青年 |
+|   | 惊讶的路人 | Restless Youth | 無愛想な男性 |
+|   | 感染者 | Taran Refugee | 焦っている青年 |
+|   | 感染者市民 | Tempersome Taran Refugee | 町人A |
+|   | 愤怒的市民 | Timid Youth | 痩せ細った脱走兵 |
+|   | 愤怒的男性 | Townsfolk A | 短気なターラー男性 |
+|   | 慌张的青年 | Twitchy Taran Man | 穏やかな撮影スタッフ |
+|   | 拉拢客户的商人同学 | Unfamiliar Man | 興奮したターラーの流民 |
+|   | 暴躁的塔拉流民 | Wasting Deserter | 苦しむ男性 |
+|   | 清瘦的男性 | Wheedling Merchant Alumnus | 荒っぽいターラーの流民 |
+|   | 激动的塔拉流民 | Wounded Youth | 見知らぬ男 |
+|   | 烦躁的塔拉男性 | Young Volunteer | 負傷した青年 |
 |   | 焦躁的青年 |   |   |
 |   | 独立记者 |   |   |
 |   | 班特 |   |   |
@@ -1942,9 +1942,9 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_600_1 | 痛苦的男人 | Anguished Man | 苦しそうな男 |
 | avg_npc_601_1 | 强壮的男人 | Burly Man | オーナー |
 |   | 林顿的心腹 | Impoverished Young Man | スラム街の青年 |
-|   | 老板 | Muscular Man | リントンの腹心 |
-|   | 贫民区青年 | Shelter Owner | 大柄な男 |
-|   | 魁梧的男人 |   | 屈強な男 |
+|   | 老板 | Layton's Henchman | リントンの腹心 |
+|   | 贫民区青年 | Muscular Man | 大柄な男 |
+|   | 魁梧的男人 | Shelter Owner | 屈強な男 |
 | avg_npc_602_1 | 扬尼 | Yangni | ヤニー |
 | avg_npc_603_1 | “生命” | Musbeast | 鼷獣 |
 |   | 麦哲伦 |   |   |
@@ -2023,13 +2023,13 @@ tip: 请善用浏览器的搜索功能
 |   | 忠诚的家族成员 | Bellone Mafioso | ベッローネの構成員 |
 |   | 愤怒的家族成员 | Bodyguard | ベッローネの用心棒 |
 |   | 护卫 | Frivolous Mafioso | マフィア |
-|   | 林顿 | Loyal Mafioso | リントン |
-|   | 激进的家族成员 | Mafioso | 忠実なマフィア |
-|   | 萨卢佐家护卫 | Radical Mafioso | 怒っているマフィア |
-|   | 萨卢佐家族成员 | Saluzzo Guard | 用心棒 |
-|   | 贝洛内家护卫 | Saluzzo Mafioso | 疑り深いマフィア |
-|   | 贝洛内家族成员 | Skeptical Mafioso | 軽薄なマフィア |
-|   | 轻佻的家族成员 |   | 過激なマフィア |
+|   | 林顿 | Layton | リントン |
+|   | 激进的家族成员 | Loyal Mafioso | 忠実なマフィア |
+|   | 萨卢佐家护卫 | Mafioso | 怒っているマフィア |
+|   | 萨卢佐家族成员 | Radical Mafioso | 用心棒 |
+|   | 贝洛内家护卫 | Saluzzo Guard | 疑り深いマフィア |
+|   | 贝洛内家族成员 | Saluzzo Mafioso | 軽薄なマフィア |
+|   | 轻佻的家族成员 | Skeptical Mafioso | 過激なマフィア |
 | avg_npc_699_1 | “法官”下属 | Angry Bailiff | 怒った裁判所守衛 |
 |   | 坚定的法庭护卫 | Bailiff | 意志の固い裁判所守衛 |
 |   | 愤怒的法庭护卫 | Bodyguard | 用心棒 |
@@ -2104,10 +2104,10 @@ tip: 请善用浏览器的搜索功能
 |   | 机警的山海众成员 | Malicious Shanhaizhong Member | 慌てる山海衆メンバー |
 |   | 来历不明的凶徒 | Mysterious Criminal | 機敏な山海衆メンバー |
 |   | 着急的山海众成员 | Ominous Shanhaizhong Member | 正体不明の暴徒 |
-|   | 贪婪的山海众成员 | Restless Shanhaizhong Member | 焦る山海衆メンバー |
-|   | 镇静的山海众成员 | Shanhaizhong Member | 貪欲な山海衆メンバー |
-|   | 阴险的山海众成员 | Vicious Shanhaizhong Member | 陰険な山海衆メンバー |
-|   | 阴鸷的山海众成员 |   |   |
+|   | 贪婪的山海众成员 | Panicked Shanhaizhong Member | 焦る山海衆メンバー |
+|   | 镇静的山海众成员 | Restless Shanhaizhong Member | 貪欲な山海衆メンバー |
+|   | 阴险的山海众成员 | Shanhaizhong Member | 陰険な山海衆メンバー |
+|   | 阴鸷的山海众成员 | Vicious Shanhaizhong Member |   |
 | avg_npc_795_1 | 千夫长 | Millenion | 千人隊長 |
 |   | 巡防营守军 | Patrol Battalion Soldier | 巡防営守備軍 |
 |   | 玉门守军A | Yumen Sentry A | 玉門守備軍A |
@@ -2115,48 +2115,48 @@ tip: 请善用浏览器的搜索功能
 |   | 玉门守军 | Patrol Battalion Soldier | 玉門守備軍 |
 |   | 玉门守军B | Yumen Sentry | 玉門守備軍B |
 |   | 百夫长 | Yumen Sentry B | 百人隊長 |
-| avg_npc_797_1 | 仓库看守 | Blacksmith | 付近の遊侠 |
-|   | 伙计 | Drinking Old Man | 倉庫の見張り |
-|   | 愁苦的村民 | Nervous Passerby | 宿屋の店員 |
-|   | 愤怒的村民 | Rescue Squad Member | 居丈高な村人 |
-|   | 救援队队员 | Roadside Inn Staff | 店員 |
-|   | 村民 | Wanderer | 張り詰めた村人 |
-|   | 气势汹汹的村民 | Warehouse Guard | 憂鬱そうな村人 |
-|   | 紧张的村民 |   | 救援隊隊員 |
-|   | 紧张的路人 |   | 村人 |
-|   | 路过的村民B |   | 激怒する村人 |
-|   | 铁匠 |   | 緊張した通行人 |
-|   | 附近的游侠 |   | 通りすがりの村人B |
-|   | 饮酒的老客 |   | 酒を飲む常連客 |
-|   | 驿馆的伙计 |   | 鍛冶屋 |
-| avg_npc_798_1 | 围观的村民 | Errand Runner | 使い走りの通行人 |
-|   | 救援队队长 | Rescue Squad Leader | 傍観する村人 |
-|   | 跑腿的路人 |   | 救援隊隊長 |
-|   | 送饭的村民 |   | 食事を届けに来た村人 |
-| avg_npc_799_1 | 围观的村民 | Angry Martial Artist | ジィン |
-|   | 失落的武人 | Disappointed Martial Artist | ルァン |
-|   | 年长的村民 | Guest | 傍観する村人 |
-|   | 愤怒的武人 | Jing | 年長の村人 |
-|   | 村民 | Mr. Ruan | 怒った武人 |
-|   | 来客 | Retired Soldier | 村人 |
-|   | 着急的村民 |   | 来客 |
-|   | 荆先生 |   | 苛立たしげな村人 |
-|   | 退役的军士 |   | 落ち込んだ武人 |
-|   | 阮先生 |   | 退役した兵士 |
+| avg_npc_797_1 | 仓库看守 | Aggressive Villager | 付近の遊侠 |
+|   | 伙计 | Angry Villager | 倉庫の見張り |
+|   | 愁苦的村民 | Anxious Villager | 宿屋の店員 |
+|   | 愤怒的村民 | Blacksmith | 居丈高な村人 |
+|   | 救援队队员 | Drinking Old Man | 店員 |
+|   | 村民 | Innkeeper | 張り詰めた村人 |
+|   | 气势汹汹的村民 | Nervous Passerby | 憂鬱そうな村人 |
+|   | 紧张的村民 | Nervous Villager | 救援隊隊員 |
+|   | 紧张的路人 | Passing Villager B | 村人 |
+|   | 路过的村民B | Rescue Squad Member | 激怒する村人 |
+|   | 铁匠 | Roadside Inn Staff | 緊張した通行人 |
+|   | 附近的游侠 | Villager | 通りすがりの村人B |
+|   | 饮酒的老客 | Wanderer | 酒を飲む常連客 |
+|   | 驿馆的伙计 | Warehouse Guard | 鍛冶屋 |
+| avg_npc_798_1 | 围观的村民 | Bystander Villager | 使い走りの通行人 |
+|   | 救援队队长 | Errand Runner | 傍観する村人 |
+|   | 跑腿的路人 | Food-Delivering Villager | 救援隊隊長 |
+|   | 送饭的村民 | Rescue Squad Leader | 食事を届けに来た村人 |
+| avg_npc_799_1 | 围观的村民 | Agitated Villager | ジィン |
+|   | 失落的武人 | Angry Martial Artist | ルァン |
+|   | 年长的村民 | Bystander Villager | 傍観する村人 |
+|   | 愤怒的武人 | Disappointed Martial Artist | 年長の村人 |
+|   | 村民 | Guest | 怒った武人 |
+|   | 来客 | Jing | 村人 |
+|   | 着急的村民 | Mr. Ruan | 来客 |
+|   | 荆先生 | Retired Soldier | 苛立たしげな村人 |
+|   | 退役的军士 | Senior Villager | 落ち込んだ武人 |
+|   | 阮先生 | Villager | 退役した兵士 |
 | avg_npc_800_1 | 谛兽 | Di Beast | 見た目の恐ろしい生物 |
 |   | 长相凶狠的生物 | Fierce Animal | 諦獣 |
 | avg_npc_801_1 | “沙卒” | - | - |
 | avg_npc_802_1 | 曼提柯杀手 | - | - |
 | avg_npc_803_1 | 联络员 | - | - |
 | avg_npc_805_1 | 寻宝人 | - | - |
-| avg_npc_820_1 | 不悦的少年 | - | むっとした顔の少年 |
-|   | 好奇的少年 |   | ファン・シャオシー |
-|   | 意气风发的少年 |   | 好奇心旺盛な少年 |
-|   | 慌张的少年 |   | 意気揚々とした少年 |
-|   | 方小石 |   | 慌てふためく少年 |
-| avg_npc_821_1 | 和蔼的老人 | - | 年老いた族長 |
-|   | 老族长 |   | 穏やかな老人 |
-| avg_npc_822_1 | 猎户 | - | 猟師 |
+| avg_npc_820_1 | 不悦的少年 | Annoyed Youth | むっとした顔の少年 |
+|   | 好奇的少年 | Curious Youth | ファン・シャオシー |
+|   | 意气风发的少年 | Fang Xiaoshi | 好奇心旺盛な少年 |
+|   | 慌张的少年 | Panicked Youth | 意気揚々とした少年 |
+|   | 方小石 | Proud Youth | 慌てふためく少年 |
+| avg_npc_821_1 | 和蔼的老人 | Amiable Old Man | 年老いた族長 |
+|   | 老族长 | Clan Elder | 穏やかな老人 |
+| avg_npc_822_1 | 猎户 | Hunter | 猟師 |
 | avg_npc_862_1 | 卡铎尔 | - | - |
 | avg_npc_863_1 | 贝尔德 | - | - |
 | avg_npc_864_1 | 珀茜瓦尔 | - | - |

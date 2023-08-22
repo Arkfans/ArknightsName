@@ -775,42 +775,52 @@
     "zh_CN": "骑士流氓"
   },
   "act14mini_01": {
+    "en_US": "Unending Road",
     "ja_JP": "先の長い行路",
     "zh_CN": "未竟长路"
   },
   "act14mini_02": {
+    "en_US": "Unstoppable Momentum",
     "ja_JP": "止まらぬ逃げ足",
     "zh_CN": "奔突难止"
   },
   "act14mini_03": {
+    "en_US": "Rising Water",
     "ja_JP": "池に足をとられ",
     "zh_CN": "水涨池深"
   },
   "act14mini_04": {
+    "en_US": "Nowhere to Run",
     "ja_JP": "逃げ場は無し",
     "zh_CN": "无从逃逸"
   },
   "act14mini_05": {
+    "en_US": "Stop and Go",
     "ja_JP": "行きつ止まりつ",
     "zh_CN": "且停且行"
   },
   "act14mini_06": {
+    "en_US": "From Decay",
     "ja_JP": "枯れ木に芽吹く",
     "zh_CN": "枯生"
   },
   "act14mini_07": {
+    "en_US": "Frozen Earth",
     "ja_JP": "凍土に堅石",
     "zh_CN": "冻土坚石"
   },
   "act14mini_08": {
+    "en_US": "Flames of Unrest",
     "ja_JP": "立ち昇る硝煙",
     "zh_CN": "硝烟四起"
   },
   "act14mini_s01": {
+    "en_US": "Flowing Water",
     "ja_JP": "水悠々たりて",
     "zh_CN": "水悠悠"
   },
   "act14mini_s02": {
+    "en_US": "Long Road",
     "ja_JP": "路遥かなり",
     "zh_CN": "路迢迢"
   },
@@ -2287,18 +2297,22 @@
     "zh_CN": "跟着我拍拍手"
   },
   "act2bossrush_01": {
+    "en_US": "Troubled Prisoner",
     "ja_JP": "困窮する囚人",
     "zh_CN": "困顿囚徒"
   },
   "act2bossrush_02": {
+    "en_US": "Big and Small",
     "ja_JP": "デカとチビ",
     "zh_CN": "大块头和小不点"
   },
   "act2bossrush_03": {
+    "en_US": "Fissure Strike",
     "ja_JP": "大地割れる一撃",
     "zh_CN": "裂地重击"
   },
   "act2bossrush_04": {
+    "en_US": "Proud Sun's Shadow",
     "ja_JP": "燦陽の影",
     "zh_CN": "骄阳之影"
   },

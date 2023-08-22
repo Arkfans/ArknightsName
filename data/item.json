@@ -916,6 +916,7 @@
     "zh_CN": "骑士领纪念模型"
   },
   "act14mini_token_fu": {
+    "en_US": "Wellbeing Charm",
     "ja_JP": "安全祈願のお守り",
     "zh_CN": "平安符"
   },
@@ -1123,26 +1124,32 @@
     "zh_CN": "毛绒绒生物的毛"
   },
   "act2bossrush_milestone_point": {
+    "en_US": "Trial EXP",
     "ja_JP": "試練経験値",
     "zh_CN": "试炼经验"
   },
   "act2bossrush_relic_01": {
+    "en_US": "Repair Kit",
     "ja_JP": "リカバリーキット",
     "zh_CN": "修复套件"
   },
   "act2bossrush_relic_02": {
+    "en_US": "Maintenance Patch",
     "ja_JP": "メインテインパッチ",
     "zh_CN": "维续补丁"
   },
   "act2bossrush_relic_03": {
+    "en_US": "Reduction Module",
     "ja_JP": "ダウンモジュール",
     "zh_CN": "减退模块"
   },
   "act2bossrush_relic_04": {
+    "en_US": "Optimize Load",
     "ja_JP": "積載調節",
     "zh_CN": "调优重载"
   },
   "act2bossrush_token_relic": {
+    "en_US": "Data Blackbox",
     "ja_JP": "ブラックボックス",
     "zh_CN": "数据黑盒"
   },
@@ -1978,10 +1985,12 @@
     "zh_CN": "特种芯片组印刻仪"
   },
   "itempack_mod_4": {
+    "en_US": "Integrated Module Data Chunk",
     "ja_JP": "モジュールデータブロック",
     "zh_CN": "模组数据整合块"
   },
   "itempack_mod_6": {
+    "en_US": "Integrated Module Data Box",
     "ja_JP": "モジュールデータボックス",
     "zh_CN": "模组数据整合箱"
   },
@@ -3184,10 +3193,12 @@
     "zh_CN": "林的信物"
   },
   "p_char_4082_qiubai": {
+    "en_US": "Qiubai's Token",
     "ja_JP": "チューバイの印",
     "zh_CN": "仇白的信物"
   },
   "p_char_4083_chimes": {
+    "en_US": "Wind Chimes's Token",
     "ja_JP": "ウィンドチャイムの印",
     "zh_CN": "铎铃的信物"
   },

@@ -191,7 +191,7 @@ tip: 请善用浏览器的搜索功能
 | act13side_token_key | 卷宗管理员的钥匙 | File Manager's Key | 機密ファイル管理人の鍵 |
 | act13side_token_model | 骑士领纪念模型 | G.K.T. Commemorative Model | 騎士領記念モデル |
 | act13side_token_model_rep_1 | 骑士领纪念模型 | G.K.T. Commemorative Model | 騎士領記念モデル |
-| act14mini_token_fu | 平安符 | - | 安全祈願のお守り |
+| act14mini_token_fu | 平安符 | Wellbeing Charm | 安全祈願のお守り |
 | act14side_token_stone | 耶拉冈德之石 | Stone of Kjeragandr | イェラガンドの護石 |
 | act14side_token_stone_rep_1 | 耶拉冈德之石 | Stone of Kjeragandr | イェラガンドの護石 |
 | act15d0_token_ironSheet | 工厂铁片 | Factory Steel | 工場の鉄片 |
@@ -239,12 +239,12 @@ tip: 请善用浏览器的搜索功能
 | act25side_token_key02 | 特殊作战许可·β | - | - |
 | act26side_token_fragmenta | 圣像碎片 | - | - |
 | act27side_token_fur | 毛绒绒生物的毛 | - | - |
-| act2bossrush_milestone_point | 试炼经验 | - | 試練経験値 |
-| act2bossrush_relic_01 | 修复套件 | - | リカバリーキット |
-| act2bossrush_relic_02 | 维续补丁 | - | メインテインパッチ |
-| act2bossrush_relic_03 | 减退模块 | - | ダウンモジュール |
-| act2bossrush_relic_04 | 调优重载 | - | 積載調節 |
-| act2bossrush_token_relic | 数据黑盒 | - | ブラックボックス |
+| act2bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
+| act2bossrush_relic_01 | 修复套件 | Repair Kit | リカバリーキット |
+| act2bossrush_relic_02 | 维续补丁 | Maintenance Patch | メインテインパッチ |
+| act2bossrush_relic_03 | 减退模块 | Reduction Module | ダウンモジュール |
+| act2bossrush_relic_04 | 调优重载 | Optimize Load | 積載調節 |
+| act2bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
 | act38d1_token_coin | 晶化源石 | - | - |
 | act3bossrush_milestone_point | 试炼经验 | - | - |
 | act3bossrush_relic_01 | 恢复增幅 | - | - |
@@ -466,8 +466,8 @@ tip: 请善用浏览器的搜索功能
 | itempack_mod_12 | 医疗芯片组印刻仪 | Medic Chip Pack Etcher | 中級医療SoCプリンター |
 | itempack_mod_13 | 辅助芯片组印刻仪 | Supporter Chip Pack Etcher | 中級補助SoCプリンター |
 | itempack_mod_14 | 特种芯片组印刻仪 | Specialist Chip Pack Etcher | 中級特殊SoCプリンター |
-| itempack_mod_4 | 模组数据整合块 | - | モジュールデータブロック |
-| itempack_mod_6 | 模组数据整合箱 | - | モジュールデータボックス |
+| itempack_mod_4 | 模组数据整合块 | Integrated Module Data Chunk | モジュールデータブロック |
+| itempack_mod_6 | 模组数据整合箱 | Integrated Module Data Box | モジュールデータボックス |
 | itempack_mod_7 | 先锋芯片组印刻仪 | Vanguard Chip Pack Etcher | 中級先鋒SoCプリンター |
 | itempack_mod_8 | 近卫芯片组印刻仪 | Guard Chip Pack Etcher | 中級前衛SoCプリンター |
 | itempack_mod_9 | 重装芯片组印刻仪 | Defender Chip Pack Etcher | 中級重装SoCプリンター |
@@ -714,8 +714,8 @@ tip: 请善用浏览器的搜索功能
 | p_char_4077_palico | 泰拉大陆调查团的信物 | - | - |
 | p_char_4078_bdhkgt | 截云的信物 | Jieyun's Token | ジエユンの印 |
 | p_char_4080_lin | 林的信物 | Lin's Token | リンの印 |
-| p_char_4082_qiubai | 仇白的信物 | - | チューバイの印 |
-| p_char_4083_chimes | 铎铃的信物 | - | ウィンドチャイムの印 |
+| p_char_4082_qiubai | 仇白的信物 | Qiubai's Token | チューバイの印 |
+| p_char_4083_chimes | 铎铃的信物 | Wind Chimes's Token | ウィンドチャイムの印 |
 | p_char_4087_ines | 伊内丝的信物 | - | - |
 | p_char_4093_frston | Friston-3的信物 | - | - |
 | p_char_4102_threye | 凛视的信物 | - | - |

@@ -1002,6 +1002,9 @@
     ]
   },
   "avg_349_chiave_1": {
+    "en_US": [
+      "Chiave"
+    ],
     "ja_JP": [
       "キアーベ"
     ],
@@ -1010,6 +1013,9 @@
     ]
   },
   "avg_362_saga_1": {
+    "en_US": [
+      "Saga"
+    ],
     "ja_JP": [
       "サガ"
     ],
@@ -1447,6 +1453,10 @@
     ]
   },
   "avg_4083_chimes_1": {
+    "en_US": [
+      "Messenger",
+      "Wind Chimes"
+    ],
     "ja_JP": [
       "ウィンドチャイム",
       "信使"
@@ -1640,6 +1650,7 @@
   },
   "avg_473_mberry_1": {
     "en_US": [
+      "Blacknight",
       "Gu Ning-Ning",
       "Mulberry"
     ],
@@ -1773,7 +1784,8 @@
   },
   "avg_492_quercu_1": {
     "en_US": [
-      "Quercus"
+      "Quercus",
+      "Quercus?"
     ],
     "ja_JP": [
       "クエルクス",
@@ -2213,8 +2225,10 @@
       "Bandit Leader",
       "Bounty Hunter",
       "Bounty Hunter A",
+      "Brutish Mercenary",
       "Cowardly Mercenary",
       "Crumbling Bandit",
+      "Diminutive Mercenary",
       "Elder Hunter",
       "Hunter",
       "Indignant Mercenary",
@@ -2334,6 +2348,7 @@
       "Bounty Hunter C",
       "Caravan Guard",
       "Curious Bounty Hunter",
+      "Greedy Mercenary",
       "Hoodlum B",
       "Hooligan Mercenary",
       "Impatient Mercenary",
@@ -4068,6 +4083,7 @@
     "en_US": [
       "Haggard Worker",
       "Muscular Man",
+      "Raymond",
       "Shadow",
       "Ursus Farmer",
       "Ursus Villager"
@@ -4912,8 +4928,15 @@
   },
   "avg_npc_140": {
     "en_US": [
+      "Agitated Villager",
+      "Angry Villager",
+      "Excavator",
       "First Apprentice",
+      "Frenetic Villager",
       "Innkeeper",
+      "Nervous Villager",
+      "Passing Villager A",
+      "Plowing Villager",
       "Proprietor",
       "Rough Villager",
       "Second Apprentice",
@@ -4961,8 +4984,11 @@
   },
   "avg_npc_141": {
     "en_US": [
+      "Astonished Villager",
       "Clinician",
       "Heroine?",
+      "Reporting Villager",
+      "Terrified Villager",
       "Villager",
       "Villager B",
       "Wife"
@@ -6505,6 +6531,10 @@
   "avg_npc_240": {
     "en_US": [
       "Craig",
+      "Dirt-Poor Peddler",
+      "Emaciated Child",
+      "Joe",
+      "Jurian",
       "Knight",
       "Naughty Child"
     ],
@@ -6569,6 +6599,7 @@
   "avg_npc_242": {
     "en_US": [
       "Angry Youth",
+      "Bent",
       "Busy Youth",
       "Chef MacMartin",
       "Embittered Man",
@@ -6576,8 +6607,10 @@
       "Frightened Youth",
       "Grieving Man",
       "Hostile Man",
+      "Jurian",
       "Merchant",
       "Messenger MacMartin",
+      "Michael",
       "Panicked Youth",
       "Placid Photographer",
       "Restless Youth",
@@ -6586,6 +6619,8 @@
       "Timid Youth",
       "Townsfolk A",
       "Twitchy Taran Man",
+      "Unfamiliar Man",
+      "Wasting Deserter",
       "Wheedling Merchant Alumnus",
       "Wounded Youth",
       "Young Volunteer"
@@ -9640,6 +9675,7 @@
     "en_US": [
       "Burly Man",
       "Impoverished Young Man",
+      "Layton's Henchman",
       "Muscular Man",
       "Shelter Owner"
     ],
@@ -10186,6 +10222,7 @@
       "Bellone Mafioso",
       "Bodyguard",
       "Frivolous Mafioso",
+      "Layton",
       "Loyal Mafioso",
       "Mafioso",
       "Radical Mafioso",
@@ -10580,6 +10617,7 @@
       "Malicious Shanhaizhong Member",
       "Mysterious Criminal",
       "Ominous Shanhaizhong Member",
+      "Panicked Shanhaizhong Member",
       "Restless Shanhaizhong Member",
       "Shanhaizhong Member",
       "Vicious Shanhaizhong Member"
@@ -10651,11 +10689,18 @@
   },
   "avg_npc_797_1": {
     "en_US": [
+      "Aggressive Villager",
+      "Angry Villager",
+      "Anxious Villager",
       "Blacksmith",
       "Drinking Old Man",
+      "Innkeeper",
       "Nervous Passerby",
+      "Nervous Villager",
+      "Passing Villager B",
       "Rescue Squad Member",
       "Roadside Inn Staff",
+      "Villager",
       "Wanderer",
       "Warehouse Guard"
     ],
@@ -10694,7 +10739,9 @@
   },
   "avg_npc_798_1": {
     "en_US": [
+      "Bystander Villager",
       "Errand Runner",
+      "Food-Delivering Villager",
       "Rescue Squad Leader"
     ],
     "ja_JP": [
@@ -10712,12 +10759,16 @@
   },
   "avg_npc_799_1": {
     "en_US": [
+      "Agitated Villager",
       "Angry Martial Artist",
+      "Bystander Villager",
       "Disappointed Martial Artist",
       "Guest",
       "Jing",
       "Mr. Ruan",
-      "Retired Soldier"
+      "Retired Soldier",
+      "Senior Villager",
+      "Villager"
     ],
     "ja_JP": [
       "ジィン",
@@ -10779,6 +10830,13 @@
     ]
   },
   "avg_npc_820_1": {
+    "en_US": [
+      "Annoyed Youth",
+      "Curious Youth",
+      "Fang Xiaoshi",
+      "Panicked Youth",
+      "Proud Youth"
+    ],
     "ja_JP": [
       "むっとした顔の少年",
       "ファン・シャオシー",
@@ -10795,6 +10853,10 @@
     ]
   },
   "avg_npc_821_1": {
+    "en_US": [
+      "Amiable Old Man",
+      "Clan Elder"
+    ],
     "ja_JP": [
       "年老いた族長",
       "穏やかな老人"
@@ -10805,6 +10867,9 @@
     ]
   },
   "avg_npc_822_1": {
+    "en_US": [
+      "Hunter"
+    ],
     "ja_JP": [
       "猟師"
     ],
