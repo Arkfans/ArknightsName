@@ -1075,6 +1075,9 @@
     "ja_JP": "『奇談怪論』複製本",
     "zh_CN": "《奇谈怪论》复印本"
   },
+  "act20side_token_book_rep_1": {
+    "zh_CN": "《奇谈怪论》复印本"
+  },
   "act21side_token_permesso": {
     "en_US": "Permesso di Importazione",
     "ja_JP": "買付許可証",
@@ -2139,7 +2142,7 @@
     "zh_CN": "缄默德克萨斯的信物"
   },
   "p_char_1029_yato2": {
-    "zh_CN": "麒麟X夜刀的信物"
+    "zh_CN": "麒麟R夜刀的信物"
   },
   "p_char_102_texas": {
     "en_US": "Texas's Token",
@@ -3999,6 +4002,9 @@
     "en_US": "Lungmen Tearoom Furniture Collection Set",
     "ja_JP": "龍門茶室家具パック",
     "zh_CN": "龙门风情茶室家具收藏包"
+  },
+  "uni_set_samiRoom_1": {
+    "zh_CN": "萨米印象家具收藏包一"
   },
   "uni_set_westCoast": {
     "zh_CN": "多索雷斯假日家具收藏包"

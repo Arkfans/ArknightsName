@@ -445,6 +445,21 @@
     "ja_JP": "アルティメットコース",
     "zh_CN": "终极赛道"
   },
+  "act20sre_zone1": {
+    "zh_CN": "地底观光"
+  },
+  "act20sre_zone2": {
+    "zh_CN": "文化冲击"
+  },
+  "act20sre_zone3": {
+    "zh_CN": "升降梯整备"
+  },
+  "act20sre_zone4": {
+    "zh_CN": "表演赛道"
+  },
+  "act20sre_zone5": {
+    "zh_CN": "终极赛道"
+  },
   "act21side_zone1": {
     "en_US": "Stagione delle Piogge",
     "ja_JP": "暗い長雨",
@@ -728,6 +743,21 @@
   },
   "permanent_sidestory_15_zone2": {
     "zh_CN": "莱茵总部"
+  },
+  "permanent_sidestory_16_zone1": {
+    "zh_CN": "地底观光"
+  },
+  "permanent_sidestory_16_zone2": {
+    "zh_CN": "文化冲击"
+  },
+  "permanent_sidestory_16_zone3": {
+    "zh_CN": "升降梯整备"
+  },
+  "permanent_sidestory_16_zone4": {
+    "zh_CN": "表演赛道"
+  },
+  "permanent_sidestory_16_zone5": {
+    "zh_CN": "终极赛道"
   },
   "permanent_sidestory_1_zone1": {
     "en_US": "Dewville Outskirts",

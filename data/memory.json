@@ -213,6 +213,9 @@
     "ja_JP": "代表作",
     "zh_CN": "代表作"
   },
+  "story_chnut_set_1_story_1": {
+    "zh_CN": "黑色石头"
+  },
   "story_chyue_set_1_story_1": {
     "en_US": "Once Upon a Time, I Wandered Afar",
     "ja_JP": "昔我往きて、君と携行す",
@@ -380,6 +383,9 @@
     "ja_JP": "苦い根茎",
     "zh_CN": "苦涩的根茎"
   },
+  "story_grani_set_1_story_1": {
+    "zh_CN": "穷途不返"
+  },
   "story_gravel_set_1_story_1": {
     "en_US": "Past in Dreams",
     "ja_JP": "過ぎ去りし日の夢",
@@ -430,6 +436,9 @@
     "en_US": "Fate",
     "ja_JP": "命の行方",
     "zh_CN": "命途"
+  },
+  "story_hibisc_set_1_story_1": {
+    "zh_CN": "良方"
   },
   "story_hmau_set_1_story_1": {
     "en_US": "South Wall",
@@ -549,6 +558,9 @@
   },
   "story_lumen_set_1_story_1": {
     "zh_CN": "直到灯火明亮"
+  },
+  "story_malist_set_1_story_1": {
+    "zh_CN": "长夏未尽"
   },
   "story_mantic_set_1_story_1": {
     "en_US": "Dead Silence",

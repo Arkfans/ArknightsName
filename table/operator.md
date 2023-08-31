@@ -23,7 +23,7 @@ tip: 请善用浏览器的搜索功能
 | char_1026_gvial2 | 百炼嘉维尔 | Gavial the Invincible | 百錬ガヴィル |
 | char_1027_greyy2 | 承曦格雷伊 | Greyy the Lightningbearer | 承曦グレイ |
 | char_1028_texas2 | 缄默德克萨斯 | Texas the Omertosa | 血掟テキサス |
-| char_1029_yato2 | 麒麟X夜刀 | - | - |
+| char_1029_yato2 | 麒麟R夜刀 | - | - |
 | char_102_texas | 德克萨斯 | Texas | テキサス |
 | char_1030_noirc2 | 火龙S黑角 | - | - |
 | char_1031_slent2 | 淬羽赫默 | - | - |

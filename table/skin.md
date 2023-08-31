@@ -93,6 +93,7 @@ tip: 请善用浏览器的搜索功能
 | char_198_blackd@as#1 | 无言狂响 | Speechless Sound | 無言の狂騒 |
 | char_198_blackd@winter#1 | 新航线 | New Routes | 新航路 |
 | char_199_yak@summer#1 | 沙滩护卫 GT.001 | Beach Guard GT.001 | 砂浜の番人GT001 |
+| char_2012_typhon@wild#9 | 北地引路人 | - | - |
 | char_2013_cerber@summer#4 | 夏卉 FA333 | Summer Flowers FA333 | 夏の花弁FA333 |
 | char_2013_cerber@whirlwind#2 | 无拘无束 | Unfettered | 自由奔放 |
 | char_2014_nian@nian#4 | 乐逍遥 | Unfettered Freedom | 楽逍遥 |
@@ -226,6 +227,7 @@ tip: 请善用浏览器的搜索功能
 | char_4045_heidi@epoque#24 | 书信零落 | - | - |
 | char_4046_ebnhlz@boc#6 | 变奏 | - | - |
 | char_4047_pianst@wild#8 | 荒野寻音 | - | - |
+| char_4054_malist@summer#14 | 悠然假日 HDm74 | - | - |
 | char_4055_bgsnow@wild#7 | 字句中的雪原 | Snowy Plains in Words | 行間にある雪原 |
 | char_4071_peper@whirlwind#5 | 来路 | - | - |
 | char_4072_ironmn@summer#11 | 沙滩护卫 GT003 | - | - |

@@ -23,7 +23,7 @@ tip: 请善用浏览器的搜索功能
 | char_1026_gvial2 | 百炼嘉维尔 | Gavial the Invincible | 百錬ガヴィル |
 | char_1027_greyy2 | 承曦格雷伊 | Greyy the Lightningbearer | 承曦グレイ |
 | char_1028_texas2 | 缄默德克萨斯 | Texas the Omertosa | 血掟テキサス |
-| char_1029_yato2 | 麒麟X夜刀 | - | - |
+| char_1029_yato2 | 麒麟R夜刀 | - | - |
 | char_102_texas | 德克萨斯 | Texas | テキサス |
 | char_1030_noirc2 | 火龙S黑角 | - | - |
 | char_1031_slent2 | 淬羽赫默 | - | - |
@@ -626,6 +626,7 @@ tip: 请善用浏览器的搜索功能
 | char_198_blackd@as#1 | 无言狂响 | Speechless Sound | 無言の狂騒 |
 | char_198_blackd@winter#1 | 新航线 | New Routes | 新航路 |
 | char_199_yak@summer#1 | 沙滩护卫 GT.001 | Beach Guard GT.001 | 砂浜の番人GT001 |
+| char_2012_typhon@wild#9 | 北地引路人 | - | - |
 | char_2013_cerber@summer#4 | 夏卉 FA333 | Summer Flowers FA333 | 夏の花弁FA333 |
 | char_2013_cerber@whirlwind#2 | 无拘无束 | Unfettered | 自由奔放 |
 | char_2014_nian@nian#4 | 乐逍遥 | Unfettered Freedom | 楽逍遥 |
@@ -759,6 +760,7 @@ tip: 请善用浏览器的搜索功能
 | char_4045_heidi@epoque#24 | 书信零落 | - | - |
 | char_4046_ebnhlz@boc#6 | 变奏 | - | - |
 | char_4047_pianst@wild#8 | 荒野寻音 | - | - |
+| char_4054_malist@summer#14 | 悠然假日 HDm74 | - | - |
 | char_4055_bgsnow@wild#7 | 字句中的雪原 | Snowy Plains in Words | 行間にある雪原 |
 | char_4071_peper@whirlwind#5 | 来路 | - | - |
 | char_4072_ironmn@summer#11 | 沙滩护卫 GT003 | - | - |
@@ -1730,6 +1732,7 @@ tip: 请善用浏览器的搜索功能
 | act1switch | 宿于繁星合作活动 | - | - |
 | act20side | 理想城：长夏狂欢季 | Ideal City: Endless Carnival | 理想都市-エンドレスカーニバル- |
 | act20sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
+| act20sre | 理想城：长夏狂欢季·复刻 | - | - |
 | act21side | 叙拉古人 | IL Siracusano | シラクザーノ |
 | act21sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act22side | 照我以火 | What the Firelight Casts | この炎が照らす先 |
@@ -2059,6 +2062,7 @@ tip: 请善用浏览器的搜索功能
 | act1lock_point_reward | 赛事奖章 | Competition Medals | 競技メダル |
 | act1sandbox_milestone_point | 繁荣证章 | - | - |
 | act20side_token_book | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
+| act20side_token_book_rep_1 | 《奇谈怪论》复印本 | - | - |
 | act21side_token_permesso | 进货通行证 | Permesso di Importazione | 買付許可証 |
 | act22side_token_manuscript | 手抄歌谣集 | Manuscripts of Ballads | 民謡集の写本 |
 | act23side_token_spirit | 新酿烈刀子 | Freshly-Brewed Liedaozi | 烈刀子 |
@@ -2332,7 +2336,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_1026_gvial2 | 百炼嘉维尔的信物 | Gavial the Invincible's Token | 百錬ガヴィルの印 |
 | p_char_1027_greyy2 | 承曦格雷伊的信物 | Greyy the Lightningbearer's Token | 承曦グレイの印 |
 | p_char_1028_texas2 | 缄默德克萨斯的信物 | Texas the Omertosa's Token | 血掟テキサスの印 |
-| p_char_1029_yato2 | 麒麟X夜刀的信物 | - | - |
+| p_char_1029_yato2 | 麒麟R夜刀的信物 | - | - |
 | p_char_102_texas | 德克萨斯的信物 | Texas's Token | テキサスの印 |
 | p_char_1030_noirc2 | 火龙S黑角的信物 | - | - |
 | p_char_1031_slent2 | 淬羽赫默的信物 | - | - |
@@ -2718,6 +2722,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_pizza | 骑兵与猎人家具收藏包 | Grani and the Knights' Treasure Furniture Pack | 騎兵と狩人家具パック |
 | uni_set_prison | 孤岛风云家具收藏包 | Mansfield Break Furniture Pack | 孤島激震家具パック |
 | uni_set_reception | 龙门风情茶室家具收藏包 | Lungmen Tearoom Furniture Collection Set | 龍門茶室家具パック |
+| uni_set_samiRoom_1 | 萨米印象家具收藏包一 | - | - |
 | uni_set_westCoast | 多索雷斯假日家具收藏包 | - | - |
 | voucher_5chipPackage | 自助芯片印刻仪 | - | - |
 | voucher_chip | 芯片自助打印盒 | Automatic Chip Printer | 初級SoCセルフプリンター |
@@ -4353,6 +4358,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_15 | 龙门商业街 | - | - |
 | camp_r_16 | 休止符街道 | - | - |
 | camp_r_17 | 灰暗泥沼 | - | - |
+| camp_r_18 | “特制小水坑” | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |
 | hard_05-02 | 炼狱行动-2 | Operation Inferno-2 | 煉獄作戦-2 |
 | hard_05-03 | 炼狱行动-3 | Operation Inferno-3 | 煉獄作戦-3 |
@@ -4865,6 +4871,11 @@ tip: 请善用浏览器的搜索功能
 | act20side_zone3 | 升降梯整备 | Elevator Maintenance | 昇降機整備 |
 | act20side_zone4 | 表演赛道 | Exhibition Course | エキシビションコース |
 | act20side_zone5 | 终极赛道 | Ultimate Course | アルティメットコース |
+| act20sre_zone1 | 地底观光 | - | - |
+| act20sre_zone2 | 文化冲击 | - | - |
+| act20sre_zone3 | 升降梯整备 | - | - |
+| act20sre_zone4 | 表演赛道 | - | - |
+| act20sre_zone5 | 终极赛道 | - | - |
 | act21side_zone1 | 连阴雨季 | Stagione delle Piogge | 暗い長雨 |
 | act21side_zone2 | 铳与秩序 | Pistole e Ordine | 銃と秩序 |
 | act21side_zone3 | 自诩荒野 | Terra Desolata Autoproclamata | 荒野を名乗る者 |
@@ -4929,6 +4940,11 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_14_zone2 | 小巷深处 | - | - |
 | permanent_sidestory_15_zone1 | 实验基地 | - | - |
 | permanent_sidestory_15_zone2 | 莱茵总部 | - | - |
+| permanent_sidestory_16_zone1 | 地底观光 | - | - |
+| permanent_sidestory_16_zone2 | 文化冲击 | - | - |
+| permanent_sidestory_16_zone3 | 升降梯整备 | - | - |
+| permanent_sidestory_16_zone4 | 表演赛道 | - | - |
+| permanent_sidestory_16_zone5 | 终极赛道 | - | - |
 | permanent_sidestory_1_zone1 | 滴水村周边 | Dewville Outskirts | 滴水村周辺 |
 | permanent_sidestory_1_zone2 | 宝藏之路 | Path to Treasure | 宝への道 |
 | permanent_sidestory_2_zone1 | 主舞台 | Main Stage | メインステージ |
@@ -5020,6 +5036,7 @@ tip: 请善用浏览器的搜索功能
 | story_chen2_set_2_story_1 | 道路 | Pathways | 道 |
 | story_chen_set_1_story_1 | 一鼓作气 | In One Effort | 一気呵成 |
 | story_chiave_set_1_story_1 | 代表作 | Masterpiece | 代表作 |
+| story_chnut_set_1_story_1 | 黑色石头 | - | - |
 | story_chyue_set_1_story_1 | 昔我往矣 | Once Upon a Time, I Wandered Afar | 昔我往きて、君と携行す |
 | story_ctable_set_1_story_1 | 飞进窗的羽兽 | - | - |
 | story_cutter_set_1_story_1 | 速食食品 | Meals, Ready-to-Eat | 携行食 |
@@ -5057,6 +5074,7 @@ tip: 请善用浏览器的搜索功能
 | story_glassb_set_1_story_1 | 走吧，走吧 | Let's Go, Let's Go | さあ、行こう |
 | story_glassb_set_2_story_1 | 再见以前 | - | - |
 | story_glider_set_1_story_1 | 苦涩的根茎 | A Bitterest Rhizome | 苦い根茎 |
+| story_grani_set_1_story_1 | 穷途不返 | - | - |
 | story_gravel_set_1_story_1 | 梦中过往 | Past in Dreams | 過ぎ去りし日の夢 |
 | story_greyy2_set_1_story_1 | 撰写光明 | Light, He Wrote | 綴られる光 |
 | story_greyy_set_1_story_1 | 过滤星星 | Filter Stars | 濾される星屑 |
@@ -5068,6 +5086,7 @@ tip: 请善用浏览器的搜索功能
 | story_headbr_set_1_story_1 | 强中自有强中手 | Strong Meets Stronger | 強さに果てはなし |
 | story_headbr_set_2_story_1 | 在冬夜里燃烧 | - | - |
 | story_helage_set_1_story_1 | 命途 | Fate | 命の行方 |
+| story_hibisc_set_1_story_1 | 良方 | - | - |
 | story_hmau_set_1_story_1 | 南墙 | South Wall | 壊れない壁 |
 | story_horn_set_1_story_1 | 独奏曲 | Solo | 独奏曲 |
 | story_hpsts_set_1_story_1 | 锻造 | Forging | 鍛造 |
@@ -5095,6 +5114,7 @@ tip: 请善用浏览器的搜索功能
 | story_lmlee_set_1_story_1 | 三餐一日 | Three Square Meals a Day | 一日三食 |
 | story_lolxh_set_1_story_1 | 夜游船 | Sleepwalker Sailing | 夜の艦内遊覧 |
 | story_lumen_set_1_story_1 | 直到灯火明亮 | - | - |
+| story_malist_set_1_story_1 | 长夏未尽 | - | - |
 | story_mantic_set_1_story_1 | 缄默 | Dead Silence | 黙して語らず |
 | story_mberry_set_1_story_1 | 平安祈愿 | A Prayer for Peace | 安全祈願 |
 | story_medic2_set_1_story_1 | 一个涂鸦 | A Piece of Graffiti | ある落書き |

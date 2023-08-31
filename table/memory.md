@@ -51,6 +51,7 @@ tip: 请善用浏览器的搜索功能
 | story_chen2_set_2_story_1 | 道路 | Pathways | 道 |
 | story_chen_set_1_story_1 | 一鼓作气 | In One Effort | 一気呵成 |
 | story_chiave_set_1_story_1 | 代表作 | Masterpiece | 代表作 |
+| story_chnut_set_1_story_1 | 黑色石头 | - | - |
 | story_chyue_set_1_story_1 | 昔我往矣 | Once Upon a Time, I Wandered Afar | 昔我往きて、君と携行す |
 | story_ctable_set_1_story_1 | 飞进窗的羽兽 | - | - |
 | story_cutter_set_1_story_1 | 速食食品 | Meals, Ready-to-Eat | 携行食 |
@@ -88,6 +89,7 @@ tip: 请善用浏览器的搜索功能
 | story_glassb_set_1_story_1 | 走吧，走吧 | Let's Go, Let's Go | さあ、行こう |
 | story_glassb_set_2_story_1 | 再见以前 | - | - |
 | story_glider_set_1_story_1 | 苦涩的根茎 | A Bitterest Rhizome | 苦い根茎 |
+| story_grani_set_1_story_1 | 穷途不返 | - | - |
 | story_gravel_set_1_story_1 | 梦中过往 | Past in Dreams | 過ぎ去りし日の夢 |
 | story_greyy2_set_1_story_1 | 撰写光明 | Light, He Wrote | 綴られる光 |
 | story_greyy_set_1_story_1 | 过滤星星 | Filter Stars | 濾される星屑 |
@@ -99,6 +101,7 @@ tip: 请善用浏览器的搜索功能
 | story_headbr_set_1_story_1 | 强中自有强中手 | Strong Meets Stronger | 強さに果てはなし |
 | story_headbr_set_2_story_1 | 在冬夜里燃烧 | - | - |
 | story_helage_set_1_story_1 | 命途 | Fate | 命の行方 |
+| story_hibisc_set_1_story_1 | 良方 | - | - |
 | story_hmau_set_1_story_1 | 南墙 | South Wall | 壊れない壁 |
 | story_horn_set_1_story_1 | 独奏曲 | Solo | 独奏曲 |
 | story_hpsts_set_1_story_1 | 锻造 | Forging | 鍛造 |
@@ -126,6 +129,7 @@ tip: 请善用浏览器的搜索功能
 | story_lmlee_set_1_story_1 | 三餐一日 | Three Square Meals a Day | 一日三食 |
 | story_lolxh_set_1_story_1 | 夜游船 | Sleepwalker Sailing | 夜の艦内遊覧 |
 | story_lumen_set_1_story_1 | 直到灯火明亮 | - | - |
+| story_malist_set_1_story_1 | 长夏未尽 | - | - |
 | story_mantic_set_1_story_1 | 缄默 | Dead Silence | 黙して語らず |
 | story_mberry_set_1_story_1 | 平安祈愿 | A Prayer for Peace | 安全祈願 |
 | story_medic2_set_1_story_1 | 一个涂鸦 | A Piece of Graffiti | ある落書き |

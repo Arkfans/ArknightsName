@@ -99,6 +99,11 @@ tip: 请善用浏览器的搜索功能
 | act20side_zone3 | 升降梯整备 | Elevator Maintenance | 昇降機整備 |
 | act20side_zone4 | 表演赛道 | Exhibition Course | エキシビションコース |
 | act20side_zone5 | 终极赛道 | Ultimate Course | アルティメットコース |
+| act20sre_zone1 | 地底观光 | - | - |
+| act20sre_zone2 | 文化冲击 | - | - |
+| act20sre_zone3 | 升降梯整备 | - | - |
+| act20sre_zone4 | 表演赛道 | - | - |
+| act20sre_zone5 | 终极赛道 | - | - |
 | act21side_zone1 | 连阴雨季 | Stagione delle Piogge | 暗い長雨 |
 | act21side_zone2 | 铳与秩序 | Pistole e Ordine | 銃と秩序 |
 | act21side_zone3 | 自诩荒野 | Terra Desolata Autoproclamata | 荒野を名乗る者 |
@@ -163,6 +168,11 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_14_zone2 | 小巷深处 | - | - |
 | permanent_sidestory_15_zone1 | 实验基地 | - | - |
 | permanent_sidestory_15_zone2 | 莱茵总部 | - | - |
+| permanent_sidestory_16_zone1 | 地底观光 | - | - |
+| permanent_sidestory_16_zone2 | 文化冲击 | - | - |
+| permanent_sidestory_16_zone3 | 升降梯整备 | - | - |
+| permanent_sidestory_16_zone4 | 表演赛道 | - | - |
+| permanent_sidestory_16_zone5 | 终极赛道 | - | - |
 | permanent_sidestory_1_zone1 | 滴水村周边 | Dewville Outskirts | 滴水村周辺 |
 | permanent_sidestory_1_zone2 | 宝藏之路 | Path to Treasure | 宝への道 |
 | permanent_sidestory_2_zone1 | 主舞台 | Main Stage | メインステージ |

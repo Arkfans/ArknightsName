@@ -417,6 +417,9 @@
     "ja_JP": "砂浜の番人GT001",
     "zh_CN": "沙滩护卫 GT.001"
   },
+  "char_2012_typhon@wild#9": {
+    "zh_CN": "北地引路人"
+  },
   "char_2013_cerber@summer#4": {
     "en_US": "Summer Flowers FA333",
     "ja_JP": "夏の花弁FA333",
@@ -1033,6 +1036,9 @@
   },
   "char_4047_pianst@wild#8": {
     "zh_CN": "荒野寻音"
+  },
+  "char_4054_malist@summer#14": {
+    "zh_CN": "悠然假日 HDm74"
   },
   "char_4055_bgsnow@wild#7": {
     "en_US": "Snowy Plains in Words",

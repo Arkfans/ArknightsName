@@ -144,7 +144,7 @@
   "char_1029_yato2": {
     "type": "OPERATOR",
     "names": {
-      "zh_CN": "麒麟X夜刀"
+      "zh_CN": "麒麟R夜刀"
     }
   },
   "char_102_texas": {
@@ -4731,6 +4731,12 @@
       "zh_CN": "沙滩护卫 GT.001"
     }
   },
+  "char_2012_typhon@wild#9": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "北地引路人"
+    }
+  },
   "char_2013_cerber@summer#4": {
     "type": "SKIN",
     "names": {
@@ -5745,6 +5751,12 @@
     "type": "SKIN",
     "names": {
       "zh_CN": "荒野寻音"
+    }
+  },
+  "char_4054_malist@summer#14": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "悠然假日 HDm74"
     }
   },
   "char_4055_bgsnow@wild#7": {
@@ -13187,6 +13199,12 @@
       "zh_CN": "限时累计签到"
     }
   },
+  "act20sre": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "理想城：长夏狂欢季·复刻"
+    }
+  },
   "act21side": {
     "type": "ACTIVITY",
     "names": {
@@ -15763,6 +15781,12 @@
       "zh_CN": "《奇谈怪论》复印本"
     }
   },
+  "act20side_token_book_rep_1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "《奇谈怪论》复印本"
+    }
+  },
   "act21side_token_permesso": {
     "type": "ITEM",
     "names": {
@@ -17648,7 +17672,7 @@
   "p_char_1029_yato2": {
     "type": "ITEM",
     "names": {
-      "zh_CN": "麒麟X夜刀的信物"
+      "zh_CN": "麒麟R夜刀的信物"
     }
   },
   "p_char_102_texas": {
@@ -20663,6 +20687,12 @@
       "en_US": "Lungmen Tearoom Furniture Collection Set",
       "ja_JP": "龍門茶室家具パック",
       "zh_CN": "龙门风情茶室家具收藏包"
+    }
+  },
+  "uni_set_samiRoom_1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "萨米印象家具收藏包一"
     }
   },
   "uni_set_westCoast": {
@@ -33054,6 +33084,12 @@
       "zh_CN": "灰暗泥沼"
     }
   },
+  "camp_r_18": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "“特制小水坑”"
+    }
+  },
   "hard_05-01": {
     "type": "STAGE",
     "names": {
@@ -37024,6 +37060,36 @@
       "zh_CN": "终极赛道"
     }
   },
+  "act20sre_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "地底观光"
+    }
+  },
+  "act20sre_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "文化冲击"
+    }
+  },
+  "act20sre_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "升降梯整备"
+    }
+  },
+  "act20sre_zone4": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "表演赛道"
+    }
+  },
+  "act20sre_zone5": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "终极赛道"
+    }
+  },
   "act21side_zone1": {
     "type": "ZONE",
     "names": {
@@ -37498,6 +37564,36 @@
     "type": "ZONE",
     "names": {
       "zh_CN": "莱茵总部"
+    }
+  },
+  "permanent_sidestory_16_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "地底观光"
+    }
+  },
+  "permanent_sidestory_16_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "文化冲击"
+    }
+  },
+  "permanent_sidestory_16_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "升降梯整备"
+    }
+  },
+  "permanent_sidestory_16_zone4": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "表演赛道"
+    }
+  },
+  "permanent_sidestory_16_zone5": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "终极赛道"
     }
   },
   "permanent_sidestory_1_zone1": {
@@ -38206,6 +38302,12 @@
       "zh_CN": "代表作"
     }
   },
+  "story_chnut_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "黑色石头"
+    }
+  },
   "story_chyue_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -38484,6 +38586,12 @@
       "zh_CN": "苦涩的根茎"
     }
   },
+  "story_grani_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "穷途不返"
+    }
+  },
   "story_gravel_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -38566,6 +38674,12 @@
       "en_US": "Fate",
       "ja_JP": "命の行方",
       "zh_CN": "命途"
+    }
+  },
+  "story_hibisc_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "良方"
     }
   },
   "story_hmau_set_1_story_1": {
@@ -38766,6 +38880,12 @@
     "type": "MEMORY",
     "names": {
       "zh_CN": "直到灯火明亮"
+    }
+  },
+  "story_malist_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "长夏未尽"
     }
   },
   "story_mantic_set_1_story_1": {

@@ -225,6 +225,7 @@ tip: 请善用浏览器的搜索功能
 | act1lock_point_reward | 赛事奖章 | Competition Medals | 競技メダル |
 | act1sandbox_milestone_point | 繁荣证章 | - | - |
 | act20side_token_book | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
+| act20side_token_book_rep_1 | 《奇谈怪论》复印本 | - | - |
 | act21side_token_permesso | 进货通行证 | Permesso di Importazione | 買付許可証 |
 | act22side_token_manuscript | 手抄歌谣集 | Manuscripts of Ballads | 民謡集の写本 |
 | act23side_token_spirit | 新酿烈刀子 | Freshly-Brewed Liedaozi | 烈刀子 |
@@ -498,7 +499,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_1026_gvial2 | 百炼嘉维尔的信物 | Gavial the Invincible's Token | 百錬ガヴィルの印 |
 | p_char_1027_greyy2 | 承曦格雷伊的信物 | Greyy the Lightningbearer's Token | 承曦グレイの印 |
 | p_char_1028_texas2 | 缄默德克萨斯的信物 | Texas the Omertosa's Token | 血掟テキサスの印 |
-| p_char_1029_yato2 | 麒麟X夜刀的信物 | - | - |
+| p_char_1029_yato2 | 麒麟R夜刀的信物 | - | - |
 | p_char_102_texas | 德克萨斯的信物 | Texas's Token | テキサスの印 |
 | p_char_1030_noirc2 | 火龙S黑角的信物 | - | - |
 | p_char_1031_slent2 | 淬羽赫默的信物 | - | - |
@@ -884,6 +885,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_pizza | 骑兵与猎人家具收藏包 | Grani and the Knights' Treasure Furniture Pack | 騎兵と狩人家具パック |
 | uni_set_prison | 孤岛风云家具收藏包 | Mansfield Break Furniture Pack | 孤島激震家具パック |
 | uni_set_reception | 龙门风情茶室家具收藏包 | Lungmen Tearoom Furniture Collection Set | 龍門茶室家具パック |
+| uni_set_samiRoom_1 | 萨米印象家具收藏包一 | - | - |
 | uni_set_westCoast | 多索雷斯假日家具收藏包 | - | - |
 | voucher_5chipPackage | 自助芯片印刻仪 | - | - |
 | voucher_chip | 芯片自助打印盒 | Automatic Chip Printer | 初級SoCセルフプリンター |
