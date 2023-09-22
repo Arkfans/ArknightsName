@@ -35,7 +35,7 @@ tip: 请善用浏览器的搜索功能
 | act14d0d1 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act14d0d2 | 登录领取奖励 | Sign-in Campaign | ログイン報酬 |
 | act14d7 | 喧闹法则·复刻 | Code of Brawl - Rerun | 喧騒の掟・復刻 |
-| act14login | 登录领取奖励 | - | - |
+| act14login | 登录领取奖励 | Sign-in Campaign | ログイン報酬 |
 | act14mini | 春分 | A Death in Chunfen | 春分 |
 | act14side | 风雪过境 | Break the Ice | 風雪一過 |
 | act14sre | 风雪过境·复刻 | Break the Ice - Rerun | 風雪一過・復刻 |
@@ -52,7 +52,7 @@ tip: 请善用浏览器的搜索功能
 | act16d6 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act16login | 登录领取奖励 | - | - |
 | act16side | 吾导先路 | Guide Ahead | 吾れ先導者たらん |
-| act16sre | 吾导先路·复刻 | - | - |
+| act16sre | 吾导先路·复刻 | Guide Ahead - Rerun | 吾れ先導者たらん・復刻 |
 | act17d0 | 源石尘行动 | Operation Originium Dust | OP:OD |
 | act17d0d1 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act17d0d2 | 登录领取奖励 | Sign-in Campaign | ログイン報酬 |
@@ -75,13 +75,15 @@ tip: 请善用浏览器的搜索功能
 | act1bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act1checkin | 未来序曲签到活动 | - | - |
 | act1d5 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
-| act1flip | 哗啦啦祈愿牌 | - | - |
+| act1flip | 哗啦啦祈愿牌 | Surpriseful Supplications | かんから祈り札 |
 | act1float | 纽莱堡市产业合作洽谈会 | Nulaiteburgh Industry Cooperation Forum | ニューライトバーグ市産業懇談会 |
 | act1lock | 荷谟伊智境 | Hymnoi Wisdom | ヒュムノイの叡智 |
-| act1mainbuff | 战备支援 | - | - |
-| act1sandbox | 生息演算：沙中之火 | - | - |
+| act1mainbuff | 战备支援 | Tactical Support | 作戦支援 |
+| act1mainlinebp | 战备支援 | - | - |
+| act1sandbox | 生息演算：沙中之火 | Reclamation Algorithm - Fire Within the Sand | 生息演算：砂中の火 |
 | act1signvs | 端阳正午签到活动 | - | - |
 | act1switch | 宿于繁星合作活动 | - | - |
+| act1unique | 九色鹿签到复刻活动 | - | - |
 | act20side | 理想城：长夏狂欢季 | Ideal City: Endless Carnival | 理想都市-エンドレスカーニバル- |
 | act20sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act20sre | 理想城：长夏狂欢季·复刻 | - | - |
@@ -91,7 +93,7 @@ tip: 请善用浏览器的搜索功能
 | act22sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act23side | 登临意 | Where Vernal Winds Will Never Blow | 登臨意 |
 | act23sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
-| act24side | 落叶逐火 | - | - |
+| act24side | 落叶逐火 | A Flurry to the Flame | 紅炎遣らう落葉 |
 | act24sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act25side | 孤星 | - | - |
 | act25sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
@@ -99,6 +101,7 @@ tip: 请善用浏览器的搜索功能
 | act26sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act27side | 火山旅梦 | - | - |
 | act27sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
+| act28side | 不义之财 | - | - |
 | act28sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act29sign | 桂时逢月——月饼烘焙小教程 | Encounter At The Osmanthus Blossom - Mooncake-Making Tutorial | 円満団楽-ロドス点心教室 |
 | act2bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
@@ -106,6 +109,7 @@ tip: 请善用浏览器的搜索功能
 | act2d8 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act2mine | 波平谷矿区登录活动 | Popping Valley Mining Area Login Event | ポッピングバレー採鉱区 |
 | act2pray | 双日城惊奇墙 | Dossoles Amazing Wall | ドッソレススクラッチ |
+| act2switch | 登览锦绣合作活动 | - | - |
 | act30sign | 秋风送爽限时登录活动 | Snow Upon Autumnal Winds Limited Login Event | 早春の風スタンプラリー |
 | act31sign | 正逢雨季限时登录活动 | Rain Season Limited Login Event | 長雨の候スタンプラリー |
 | act32sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |

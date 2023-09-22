@@ -2075,45 +2075,73 @@
     "zh_CN": "塞上孤城"
   },
   "act24side_01": {
+    "en_US": "Forest Menaces",
+    "ja_JP": "森の厄介者",
     "zh_CN": "森林里的麻烦家伙"
   },
   "act24side_02": {
+    "en_US": "Hard As A Rock",
+    "ja_JP": "盤石の守り",
     "zh_CN": "坚硬磐石"
   },
   "act24side_03": {
+    "en_US": "Head-on Assault",
+    "ja_JP": "向き合いて斬れ",
     "zh_CN": "迎头痛击"
   },
   "act24side_04": {
+    "en_US": "Broken Wings",
+    "ja_JP": "風掴む羽",
     "zh_CN": "破空的飞羽"
   },
   "act24side_05": {
+    "en_US": "Brutal Perpetrator",
+    "ja_JP": "猛る荒くれ者",
     "zh_CN": "野蛮肇事者"
   },
   "act24side_06": {
+    "en_US": "No-Fly Zone",
+    "ja_JP": "「飛ぶな」の禁",
     "zh_CN": "禁飞区"
   },
   "act24side_07": {
+    "en_US": "Heart-Piercing Strike",
+    "ja_JP": "心刺す棘",
     "zh_CN": "锥心之刺"
   },
   "act24side_08": {
+    "en_US": "Treachery begets Consequences",
+    "ja_JP": "悪童への報い",
     "zh_CN": "奸诈者必自食恶果"
   },
   "act24side_09": {
+    "en_US": "Battle! Blazin' Soul of a Warrior!",
+    "ja_JP": "決戦！燃える狩猟魂！",
     "zh_CN": "决战！燃烧的狩魂！"
   },
   "act24side_s01": {
+    "en_US": "Ultimate Skills Showdown",
+    "ja_JP": "極限闘技の宴",
     "zh_CN": "终极斗技之战"
   },
   "act24side_st01": {
+    "en_US": "Nightmare",
+    "ja_JP": "悪夢",
     "zh_CN": "噩梦"
   },
   "act24side_st02": {
+    "en_US": "A Bright Flame in the Dark Forest",
+    "ja_JP": "燃ゆる焔と昏き森",
     "zh_CN": "林昏焰明"
   },
   "act24side_st03": {
+    "en_US": "Daybreak",
+    "ja_JP": "夜明け",
     "zh_CN": "晨曦"
   },
   "act24side_tr01": {
+    "en_US": "Attack! King of the Skies!",
+    "ja_JP": "襲来！天空の王者！",
     "zh_CN": "来袭！天空王者！"
   },
   "act25side_01": {
@@ -2295,6 +2323,42 @@
   },
   "act27side_tr02": {
     "zh_CN": "跟着我拍拍手"
+  },
+  "act28side_01": {
+    "zh_CN": "孤独之地"
+  },
+  "act28side_02": {
+    "zh_CN": "双重保险"
+  },
+  "act28side_03": {
+    "zh_CN": "圈套"
+  },
+  "act28side_04": {
+    "zh_CN": "缺席的人"
+  },
+  "act28side_05": {
+    "zh_CN": "疑惑之影"
+  },
+  "act28side_06": {
+    "zh_CN": "猎人之夜"
+  },
+  "act28side_07": {
+    "zh_CN": "白热"
+  },
+  "act28side_08": {
+    "zh_CN": "告别往昔"
+  },
+  "act28side_st01": {
+    "zh_CN": "火线之中"
+  },
+  "act28side_st02": {
+    "zh_CN": "突然冲击"
+  },
+  "act28side_st03": {
+    "zh_CN": "法外之徒"
+  },
+  "act28side_tr01": {
+    "zh_CN": "城市热战"
   },
   "act2bossrush_01": {
     "en_US": "Troubled Prisoner",
@@ -2714,6 +2778,8 @@
     "zh_CN": "实验基地机库"
   },
   "camp_r_15": {
+    "en_US": "Lungmen Commercial District",
+    "ja_JP": "龍門商店街",
     "zh_CN": "龙门商业街"
   },
   "camp_r_16": {

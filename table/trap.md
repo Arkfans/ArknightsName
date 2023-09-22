@@ -99,13 +99,13 @@ tip: 请善用浏览器的搜索功能
 | trap_096_gflag | 山海密语仪 | Shanhaizhong Cipher Machine | 山海密令柱 |
 | trap_097_hstone | 城防路障 | Roadblocks | 都市防衛柵 |
 | trap_098_mire | 沼泽控制 | Mire Control | 沼地制御 |
-| trap_099_mhflsb | 眩光手雷 | - | - |
-| trap_100_mhlbmb | 高能源石爆桶 | - | - |
-| trap_101_mhshok | 高压脉冲诡雷 | - | - |
-| trap_102_mhwrbg | 滞空牵引无人机 | - | - |
+| trap_099_mhflsb | 眩光手雷 | Flash Grenade | 閃光爆弾 |
+| trap_100_mhlbmb | 高能源石爆桶 | High-Energy Originium Barrel Bomb | 源石タル爆弾 |
+| trap_101_mhshok | 高压脉冲诡雷 | High-Voltage Shock Trap | 高電圧シビレ罠 |
+| trap_102_mhwrbg | 滞空牵引无人机 | Wiredrone | 滞空牽引ドローン |
 | trap_103_ymdgct | 地形增伤控制 | Mire Controller | 地形ダメージ制御 |
 | trap_104_dplant | 改性植物激素 | Modified Phytohormone | 改良型植物ホルモン |
-| trap_105_mhwrct | 滞空牵引无人机 | - | - |
+| trap_105_mhwrct | 滞空牵引无人机 | Wiredrone | 滞空牽引ドローン |
 | trap_106_smtree | 积雪银凇  | - | - |
 | trap_107_smpow | 空间稳定设施 | - | - |
 | trap_108_smbox | 宝箱 | - | - |
@@ -124,43 +124,44 @@ tip: 请善用浏览器的搜索功能
 | trap_121_gractrl | 重力 | - | - |
 | trap_122_stmpq | 景观喷泉 | - | - |
 | trap_123_stmbot | 水汽汽水瓶 | - | - |
-| trap_400_xbfarm | 便携式种植槽 | - | - |
-| trap_401_xbfato | 采集实习站 | - | - |
-| trap_403_wfactory | 蟹蟹抽水泵 | - | - |
-| trap_404_xbfortress | 坚固筑台 | - | - |
-| trap_405_xbroadblock | 都市风壁障 | - | - |
-| trap_406_xboverwatch | 监控塔 | - | - |
-| trap_408_xbbase | 基地 | - | - |
-| trap_409_xbwood | 杂木林 | - | - |
-| trap_410_xbstone | 巨大岩石 | - | - |
-| trap_411_xbiron | 奇异矿脉 | - | - |
-| trap_412_redtower | 移动战塔 | - | - |
-| trap_413_hiddenstone | 遗迹残骸 | - | - |
-| trap_414_vegetation | 灌木丛 | - | - |
-| trap_415_trademan | 联络员 | - | - |
-| trap_416_gtreasure | 埋没金属箱 | - | - |
-| trap_417_shielder | 护盾遥控器 | - | - |
-| trap_418_smokebomb | 安眠迷香 | - | - |
-| trap_419_enhancer | 醒神秘药 | - | - |
-| trap_420_umbrella | 反侦察藏匿机 | - | - |
-| trap_421_repairman | 应急修理车 | - | - |
-| trap_422_streasure | 宝刺金属箱 | - | - |
-| trap_423_bondtw | 缚网发射台 | - | - |
-| trap_424_pushtw | 喷拒器 | - | - |
-| trap_425_xbwall | 防御工事 | - | - |
-| trap_426_xbmrcl | 模块演算设施 | - | - |
-| trap_427_xbprsh | 资源规划站 | - | - |
-| trap_428_xblrsh | 备勤激活站 | - | - |
-| trap_429_xbescp | 跨地块通讯站 | - | - |
-| trap_430_wdescp | 逃脱点 | - | - |
-| trap_431_xbgldn | 冶铸台 | - | - |
-| trap_432_oldisin | 老伊辛 | - | - |
-| trap_433_sandsdr | “沙卒” | - | - |
-| trap_434_klmantc | 曼提柯杀手 | - | - |
-| trap_435_trsrhuntr | 寻宝人 | - | - |
-| trap_437_poachr | 老练猎手 | - | - |
-| trap_438_xbfato2 | 采集专员站 | - | - |
-| trap_439_xbfato3 | 采集主任站 | - | - |
+| trap_124_eradio | 废热喷口 | - | - |
+| trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |
+| trap_401_xbfato | 采集实习站 | Basic Gathering Hub | 採取ロボ用基地 |
+| trap_403_wfactory | 蟹蟹抽水泵 | Crabbie Pumpie | カニカニポンプ |
+| trap_404_xbfortress | 坚固筑台 | Firm Platform | 堅牢な台 |
+| trap_405_xbroadblock | 都市风壁障 | Urban Style Barrier | 都市様式障壁 |
+| trap_406_xboverwatch | 监控塔 | Monitoring Tower | 監視塔 |
+| trap_408_xbbase | 基地 | Base | 基地 |
+| trap_409_xbwood | 杂木林 | Thickets | 雑木林 |
+| trap_410_xbstone | 巨大岩石 | Monoliths | 巨大な岩 |
+| trap_411_xbiron | 奇异矿脉 | Strange Ore Vein | レアな鉱脈 |
+| trap_412_redtower | 移动战塔 | Mobile Battle Tower | 可動式戦術塔 |
+| trap_413_hiddenstone | 遗迹残骸 | Historical Remains | 遺跡の残骸 |
+| trap_414_vegetation | 灌木丛 | Bush | 茂み |
+| trap_415_trademan | 联络员 | Liaison | 連絡員 |
+| trap_416_gtreasure | 埋没金属箱 | Buried Metal Chest | 埋もれた金属の箱 |
+| trap_417_shielder | 护盾遥控器 | Remote Shield Generator | シールドリモコン |
+| trap_418_smokebomb | 安眠迷香 | Hypnotic Censer | 安眠のお香 |
+| trap_419_enhancer | 醒神秘药 | Refreshing Potion | 覚醒の秘薬 |
+| trap_420_umbrella | 反侦察藏匿机 | Camouflage Device | 隠密支援用マシン |
+| trap_421_repairman | 应急修理车 | Emergency Repair Vehicle | 緊急修理車両 |
+| trap_422_streasure | 宝刺金属箱 | Thorned Treasure Chest | 棘の生えた金属の箱 |
+| trap_423_bondtw | 缚网发射台 | Trap Net Launcher | 捕縛網発射台 |
+| trap_424_pushtw | 喷拒器 | Gas Jet Thrower | 噴射式強制移動機 |
+| trap_425_xbwall | 防御工事 | Fortification | 防御施設 |
+| trap_426_xbmrcl | 模块演算设施 | Modular Computing Station | モジュラー演算所 |
+| trap_427_xbprsh | 资源规划站 | Resource Planning Station | 資源計画所 |
+| trap_428_xblrsh | 备勤激活站 | Combat Readiness Station | 戦闘計画所 |
+| trap_429_xbescp | 跨地块通讯站 | Transregional Communication Station | 越境通信所 |
+| trap_430_wdescp | 逃脱点 | Escape Route | 脱出地点 |
+| trap_431_xbgldn | 冶铸台 | Mint | 金床 |
+| trap_432_oldisin | 老伊辛 | Old Isin | イシン |
+| trap_433_sandsdr | “沙卒” | 'Sand Soldier' | 「サンドソルジャー」 |
+| trap_434_klmantc | 曼提柯杀手 | Manticore Killer | 殺し屋のマンティコア |
+| trap_435_trsrhuntr | 寻宝人 | Treasure Hunter | トレジャーハンター |
+| trap_437_poachr | 老练猎手 | Veteran Hunter | 手練れのハンター |
+| trap_438_xbfato2 | 采集专员站 | Advanced Gathering Hub | スーパー採取ロボ用基地 |
+| trap_439_xbfato3 | 采集主任站 | Executive Gathering Hub | ハイパー採取ロボ用基地 |
 | trap_700_cdabyss | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |
 | trap_701_cdabyssa | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |
 | trap_702_cdabyssb | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |

@@ -63,8 +63,8 @@ tip: 请善用浏览器的搜索功能
 | act16d5_zone2 | 出画 | Come To Yourself | 出画 |
 | act16side_zone1 | 万国峰会 | Summit of Nations | 万国サミット |
 | act16side_zone2 | 圣殿之路 | Road to the Shrine | 聖堂へ至る道 |
-| act16sre_zone1 | 万国峰会 | - | - |
-| act16sre_zone2 | 圣殿之路 | - | - |
+| act16sre_zone1 | 万国峰会 | Summit of Nations | 万国サミット |
+| act16sre_zone2 | 圣殿之路 | Road to the Shrine | 聖堂へ至る道 |
 | act17d0_zone1 | 行动记录 | Task Records | 作戦記録 |
 | act17d0_zone2 | 备战训练 | Para Bellum | 戦闘訓練 |
 | act17d5_zone1 | 阵中往事 | Tales of Battle | 昔日の戦陣 |
@@ -111,8 +111,8 @@ tip: 请善用浏览器的搜索功能
 | act22side_zone2 | 记忆灰烬 | Ashes of Memories | 記憶の燃え殻 |
 | act23side_zone1 | 城中调查 | Case Investigation, Onsite | 城内調査 |
 | act23side_zone2 | 关外追凶 | Criminal Pursuit, Offsite | 関外追跡 |
-| act24side_zone1 | 苍暮山地 | - | - |
-| act24side_zone2 | 艾露猫的委托柜台 | - | - |
+| act24side_zone1 | 苍暮山地 | Soubo Mountains | 蒼暮山地 |
+| act24side_zone2 | 艾露猫的委托柜台 | Commeowssion Counter | アイルーの受付カウンター |
 | act25side_zone1 | 未来将至 | - | - |
 | act25side_zone2 | 过往未尽 | - | - |
 | act25side_zone3 | 紧握当下 | - | - |
@@ -121,6 +121,8 @@ tip: 请善用浏览器的搜索功能
 | act27side_zone1 | 温泉假日 | - | - |
 | act27side_zone2 | 城市寻宝 | - | - |
 | act27side_zone3 | 岩浆冲浪 | - | - |
+| act28side_zone1 | 苍白平台 | - | - |
+| act28side_zone2 | 黑色舰船 | - | - |
 | act2bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act3bossrush_zone1 | 强敌当前 | - | - |
 | act5d0_zone1 | 下城区 | Downtown | 繁華街 |
@@ -162,8 +164,8 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_11_zone2 | 圣猎 | Holy Hunt | 狩猟の儀 |
 | permanent_sidestory_12_zone1 | 三山奇闻 | Tales of Three-Mountains | 三山奇聞 |
 | permanent_sidestory_12_zone2 | 一十八峰 | Mountain Top | 一十八峰 |
-| permanent_sidestory_13_zone1 | 万国峰会 | - | - |
-| permanent_sidestory_13_zone2 | 圣殿之路 | - | - |
+| permanent_sidestory_13_zone1 | 万国峰会 | Summit of Nations | 万国サミット |
+| permanent_sidestory_13_zone2 | 圣殿之路 | Road to the Shrine | 聖堂へ至る道 |
 | permanent_sidestory_14_zone1 | 夕照大厅 | - | - |
 | permanent_sidestory_14_zone2 | 小巷深处 | - | - |
 | permanent_sidestory_15_zone1 | 实验基地 | - | - |

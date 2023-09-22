@@ -87,6 +87,7 @@ tip: 请善用浏览器的搜索功能
 | SINGLE_39_0_2 | 不协和音程 | - | - |
 | SINGLE_40_0_1 | 射落灾异的风暴 | - | - |
 | SINGLE_40_0_2 | 沙洲引路人 | - | - |
+| SINGLE_42_0_1 | 鸣铳 | - | - |
 | _ATTAIN_15_2_1 | - | Celebrate & Recollect | ロドスの道のり　回顧 |
 | _ATTAIN_22_1_2 | - | Celebration & Link-Up | ロドスの道のり・邂逅 |
 | _LIMITED_10_2_1 | - | Deep Drown Lament | 深悼 |
@@ -101,6 +102,7 @@ tip: 请善用浏览器的搜索功能
 | _LIMITED_7_1_1 | - | Forget Me Not | 勿忘草 |
 | _LIMITED_8_3_1 | - | Earthborn Metals | 地生五金 |
 | _LIMITED_9_1_1 | - | Hidden Moon | 月隠晦明 |
+| _LINKAGE_23_1_1 | - | Sharpened By Flame | 炎に研がれし鋭刃 |
 | _LINKAGE_9_2_1 | - | Attack - Defence - Tactical Collide | 進攻-防衛-戦術衝突 |
 | _NORM_0_1_2 | - | The Glory of SilverAsh | 銀灰色の栄光 |
 | _NORM_10_1_1 | - | Erg Passenger | 砂海の旅人 |
@@ -132,6 +134,9 @@ tip: 请善用浏览器的搜索功能
 | _NORM_21_3_1 | - | Joint Operation | 連合作戦 |
 | _NORM_22_1_1 | - | To Bloom From a Dim Flame | 枯火に咲く花 |
 | _NORM_22_3_1 | - | Springtide Snowfall | 春江逢雪 |
+| _NORM_23_2_1 | - | Flame of Immaculacy | 曇りなき紅蓮 |
+| _NORM_23_2_3 | - | Joint Operation | 連合作戦 |
+| _NORM_23_2_4 | - | The Front That Was | 先途追想 |
 | _NORM_2_0_1 | - | Chi Xiao, the Hidden Dragon | 赤龍乗雲 |
 | _NORM_2_0_3 | - | Lungmen Spec Ops Headhunting | 龍門特別行動要員 |
 | _NORM_3_0_1 | - | Frozen Land | 果てなき氷原 |

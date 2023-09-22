@@ -589,24 +589,24 @@ tip: 请善用浏览器的搜索功能
 | enemy_1301_ymcnon_2 | “碎壁” | 'Fortbreaker' | 「砕壁」 |
 | enemy_1302_ymtro | “履平沙” | 'Sandwalker' | 「砂行」 |
 | enemy_1302_ymtro_2 | “越长尘” | 'Sand Voyager' | 「長塵」 |
-| enemy_1303_mhshep | 角兽 | - | - |
-| enemy_1303_mhshep_2 | 亢角兽 | - | - |
-| enemy_1304_mhwolf | 鬣犄兽 | - | - |
-| enemy_1304_mhwolf_2 | 利齿鬣犄兽 | - | - |
-| enemy_1305_mhslim | 灼热源石虫 | - | - |
-| enemy_1305_mhslim_2 | 炽焰源石虫 | - | - |
-| enemy_1306_mhtrtl | 硬甲爪兽 | - | - |
-| enemy_1306_mhtrtl_2 | 刚甲爪兽 | - | - |
-| enemy_1307_mhrhcr | 岩冠兽 | - | - |
-| enemy_1307_mhrhcr_2 | 坚岩冠兽 | - | - |
-| enemy_1308_mheagl | 锋羽兽 | - | - |
-| enemy_1308_mheagl_2 | 迅猛锋羽兽 | - | - |
-| enemy_1309_mhboar | 凶豕兽 | - | - |
-| enemy_1309_mhboar_2 | 狂暴凶豕兽 | - | - |
-| enemy_1310_mhprpn | 棘兽 | - | - |
-| enemy_1310_mhprpn_2 | 箭棘兽 | - | - |
-| enemy_1311_mhkryk | 狡兽 | - | - |
-| enemy_1311_mhkryk_2 | 恶狡兽 | - | - |
+| enemy_1303_mhshep | 角兽 | Hornbeast | ツノシゲミ |
+| enemy_1303_mhshep_2 | 亢角兽 | Hardy Hornbeast | ツノシゲミ亜種 |
+| enemy_1304_mhwolf | 鬣犄兽 | Oxmane | タテガミツキ |
+| enemy_1304_mhwolf_2 | 利齿鬣犄兽 | Keenfanged Oxmane | タテガミツキ亜種 |
+| enemy_1305_mhslim | 灼热源石虫 | Blazing Originium Slug | 灼熱オリジムシ |
+| enemy_1305_mhslim_2 | 炽焰源石虫 | Pyric Originium Slug | 猛焔オリジムシ |
+| enemy_1306_mhtrtl | 硬甲爪兽 | Chitotex Clawbeast | キッコウソウ |
+| enemy_1306_mhtrtl_2 | 刚甲爪兽 | Keratex Clawbeast | キッコウソウ亜種 |
+| enemy_1307_mhrhcr | 岩冠兽 | Basorobeast | イワカムリ |
+| enemy_1307_mhrhcr_2 | 坚岩冠兽 | Gravorobeast | イワカムリ亜種 |
+| enemy_1308_mheagl | 锋羽兽 | Serrant Fowlbeast | カゼツカミ |
+| enemy_1308_mheagl_2 | 迅猛锋羽兽 | Daimoserrant Fowlbeast | カゼツカミ亜種 |
+| enemy_1309_mhboar | 凶豕兽 | Direswine | キバタケリ |
+| enemy_1309_mhboar_2 | 狂暴凶豕兽 | Raging Direswine | 猛進キバタケリ |
+| enemy_1310_mhprpn | 棘兽 | Haribeast | トゲアラシ |
+| enemy_1310_mhprpn_2 | 箭棘兽 | Rainer Haribeast | 撃烈トゲアラシ |
+| enemy_1311_mhkryk | 狡兽 | Cautelotaur | アクドウジ |
+| enemy_1311_mhkryk_2 | 恶狡兽 | Kouaku Cautelotaur | 狡虐アクドウジ |
 | enemy_1312_ymillu | “无念之冬” | 'Winter's Void' | 「無我の冬」 |
 | enemy_1313_wdfmr | 诺伯特平民 | - | - |
 | enemy_1313_wdfmr_2 | 诺伯特暗探 | - | - |
@@ -678,6 +678,22 @@ tip: 请善用浏览器的搜索功能
 | enemy_1350_mgcshp | 风情街“星术师” | - | - |
 | enemy_1350_mgcshp_2 | 风情街“超新星术师” | - | - |
 | enemy_1351_yhhshp | “好朋友” | - | - |
+| enemy_1352_eslime | 辐能源石虫 | - | - |
+| enemy_1352_eslime_2 | 辐能源石虫·α | - | - |
+| enemy_1353_esabr | 匪帮混混 | - | - |
+| enemy_1353_esabr_2 | 匪帮混混头目 | - | - |
+| enemy_1354_eghost | 匪帮窃贼 | - | - |
+| enemy_1354_eghost_2 | 匪帮窃贼头目 | - | - |
+| enemy_1355_mrfly | 护障 | - | - |
+| enemy_1355_mrfly_2 | 护障·P | - | - |
+| enemy_1356_egun | 匪帮射手 | - | - |
+| enemy_1356_egun_2 | 匪帮射手头目 | - | - |
+| enemy_1357_erob | 匪帮斧手 | - | - |
+| enemy_1357_erob_2 | 匪帮斧手头目 | - | - |
+| enemy_1358_esheld | 匪帮防御者 | - | - |
+| enemy_1358_esheld_2 | 匪帮防御者头目 | - | - |
+| enemy_1359_ekulsr | 匪帮轰击者 | - | - |
+| enemy_1359_ekulsr_2 | 匪帮轰击者头目 | - | - |
 | enemy_1500_skulsr | 碎骨 | Skullshatterer | SkullShredder |
 | enemy_1501_demonk | 萨卡兹百夫长 | Sarkaz Centurion | サルカズケントゥリオ |
 | enemy_1502_crowns | 弑君者 | Crownslayer | CrownSlayer |
@@ -714,17 +730,18 @@ tip: 请善用浏览器的搜索功能
 | enemy_1533_stmkgt | “最后的蒸汽骑士” | 'The Last Steam Knight' | 「最後の蒸気騎士」 |
 | enemy_1535_wlfmster | 扎罗，“狼之主” | Zaaro, Signore dei Lupi | 「狼主」ザーロ |
 | enemy_1536_ncrmcr | “领袖” | 'The Leader'  | 「リーダー」 |
-| enemy_1537_mhrors | 火龙 | - | - |
+| enemy_1537_mhrors | 火龙 | Rathalos | リオレウス |
 | enemy_1538_ymmons | “睚” | 'Ya' | 「睚」 |
 | enemy_1538_ymmons_2 | 蜃景 | Mirage | 蜃気楼 |
 | enemy_1538_ymmons_3 | 妄境 | Delusion | 妄境 |
-| enemy_1539_reid | “复仇者” | - | - |
+| enemy_1539_reid | “复仇者” | 'Hateful Avenger' | "Vendetta" |
 | enemy_1540_wdncr | 爱布拉娜 | - | - |
 | enemy_1541_wdslms | “变形者集群” | - | - |
 | enemy_1542_wdslm | “变形者集群” | - | - |
 | enemy_1543_cstlrs | 克丽斯腾 | - | - |
 | enemy_1544_cledub | “花匠” | - | - |
 | enemy_1545_shpkg | 多利，“羊之主” | - | - |
+| enemy_1546_cliff | “桥夹”克里夫 | - | - |
 | enemy_2001_duckmi | 鸭爵 | Duck Lord | ダック卿 |
 | enemy_2002_bearmi | 高普尼克 | Gopnik | ゴプニク |
 | enemy_2003_rockman | 迷路的巨像 | Lost Colossus | 迷子の巨像 |
@@ -813,24 +830,24 @@ tip: 请善用浏览器的搜索功能
 | enemy_6015_ictruck | “超甜微笑” | - | - |
 | enemy_6016_splash | 干渴者 | - | - |
 | enemy_6017_icdrone | 甜蜜派送机 | - | - |
-| enemy_7001_blwzad | 部族巫术师 | - | - |
-| enemy_7001_blwzad_2 | 王酋巫术师 | - | - |
-| enemy_7002_veingd | 矿脉守卫 | - | - |
-| enemy_7002_veingd_2 | 狂化矿脉守卫 | - | - |
-| enemy_7003_catapt | “都可以砸” | - | - |
-| enemy_7003_catapt_2 | “都应该砸” | - | - |
-| enemy_7004_xbdeer | 小角跳兽 | - | - |
-| enemy_7004_xbdeer_2 | 大角跳兽 | - | - |
-| enemy_7005_xbbull | 苔生兽 | - | - |
-| enemy_7005_xbbull_2 | 茂密苔生兽 | - | - |
-| enemy_7006_xbcrab | 岩壳蟹 | - | - |
-| enemy_7006_xbcrab_2 | 结晶岩壳蟹 | - | - |
-| enemy_7007_xbbird | 落沙晶蹄兽 | - | - |
-| enemy_7008_wrkwrk | 采集实习生 | - | - |
-| enemy_7009_mtmoun | “不朽之人” | - | - |
-| enemy_7010_bldrgn | 巨翼兽 | - | - |
-| enemy_7011_paki | 萨尔贡契约刺客 | - | - |
-| enemy_7012_wilder | 无阻冲锋官 | - | - |
-| enemy_7013_slwazd | “召毁者” | - | - |
-| enemy_7014_dva | “搭档” | - | - |
-| enemy_7015_xbcrab2 | “钳钳生风” | - | - |
+| enemy_7001_blwzad | 部族巫术师 | Tribal Shaman | 部族呪術師 |
+| enemy_7001_blwzad_2 | 王酋巫术师 | Lord Ameer Shaman | 首長呪術師 |
+| enemy_7002_veingd | 矿脉守卫 | Vein Guardian | 鉱脈の守護者 |
+| enemy_7002_veingd_2 | 狂化矿脉守卫 | Maddened Vein Guardian | 狂える鉱脈の守護者 |
+| enemy_7003_catapt | “都可以砸” | 'Anything Can Be Broken' | 「ブッコワセール」 |
+| enemy_7003_catapt_2 | “都应该砸” | 'Everything Should Be Smashed' | 「ブッツブスーゾ」 |
+| enemy_7004_xbdeer | 小角跳兽 | Leporibeast Shorthorn | 小角跳獣 |
+| enemy_7004_xbdeer_2 | 大角跳兽 | Leporibeast Longhorn | 大角跳獣 |
+| enemy_7005_xbbull | 苔生兽 | Mossback Beast | 苔生獣 |
+| enemy_7005_xbbull_2 | 茂密苔生兽 | Lush Mossback Beast | 生い茂る苔生獣 |
+| enemy_7006_xbcrab | 岩壳蟹 | Cragpincer | ガンセキガニ |
+| enemy_7006_xbcrab_2 | 结晶岩壳蟹 | Crystalline Cragpincer | ケッショウガニ |
+| enemy_7007_xbbird | 落沙晶蹄兽 | Sandfall Crystalhoof | 金砂晶蹄獣 |
+| enemy_7008_wrkwrk | 采集实习生 | Basic Harvester | 採取ロボ |
+| enemy_7009_mtmoun | “不朽之人” | 'The Immortal' | 「イモータル」 |
+| enemy_7010_bldrgn | 巨翼兽 | Great Wingbeast | 巨翼獣 |
+| enemy_7011_paki | 萨尔贡契约刺客 | Sargonian Contract Assassin | サルゴンの雇われ暗殺者 |
+| enemy_7012_wilder | 无阻冲锋官 | Dauntless Linebreaker | 首長軍切り込み隊長 |
+| enemy_7013_slwazd | “召毁者” | 'The Ruinbringer' | 「破滅を呼ぶ者」 |
+| enemy_7014_dva | “搭档” | 'Al-Rafiq' | 「バディ」 |
+| enemy_7015_xbcrab2 | “钳钳生风” | 'Consortium of Pincers' | 「カニキング」 |

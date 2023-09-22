@@ -43,4 +43,5 @@ tip: 请善用浏览器的搜索功能
 | token_10029_slent2_protrb | 夜灯 | - | - |
 | token_10030_mlyss_wtrman | 流形 | - | - |
 | token_10031_swire2_gdtrap | 香槟炸弹 | - | - |
+| token_10032_jesca2_jckshd | 机动盾牌 | - | - |
 | trap_079_allydonq | 猎潮的骑士 | Tide-Hunt Knight | 猟潮の騎士 |

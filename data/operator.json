@@ -88,6 +88,8 @@
     "zh_CN": "缄默德克萨斯"
   },
   "char_1029_yato2": {
+    "en_US": "Kirin R Yato",
+    "ja_JP": "キリンRヤトウ",
     "zh_CN": "麒麟R夜刀"
   },
   "char_102_texas": {
@@ -96,6 +98,8 @@
     "zh_CN": "德克萨斯"
   },
   "char_1030_noirc2": {
+    "en_US": "Rathalos S Noir Corne",
+    "ja_JP": "レウスSノイルホーン",
     "zh_CN": "火龙S黑角"
   },
   "char_1031_slent2": {
@@ -106,6 +110,9 @@
   },
   "char_1033_swire2": {
     "zh_CN": "琳琅诗怀雅"
+  },
+  "char_1034_jesca2": {
+    "zh_CN": "涤火杰西卡"
   },
   "char_103_angel": {
     "en_US": "Exusiai",
@@ -1144,6 +1151,8 @@
     "zh_CN": "白铁"
   },
   "char_4077_palico": {
+    "en_US": "Terra Research Commission",
+    "ja_JP": "テラ大陸調査団",
     "zh_CN": "泰拉大陆调查团"
   },
   "char_4078_bdhkgt": {
@@ -1177,6 +1186,12 @@
   },
   "char_4102_threye": {
     "zh_CN": "凛视"
+  },
+  "char_4104_coldst": {
+    "zh_CN": "冰酿"
+  },
+  "char_4105_almond": {
+    "zh_CN": "杏仁"
   },
   "char_4106_bryota": {
     "zh_CN": "苍苔"

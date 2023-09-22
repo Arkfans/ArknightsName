@@ -288,9 +288,13 @@
     "zh_CN": "圣殿之路"
   },
   "act16sre_zone1": {
+    "en_US": "Summit of Nations",
+    "ja_JP": "万国サミット",
     "zh_CN": "万国峰会"
   },
   "act16sre_zone2": {
+    "en_US": "Road to the Shrine",
+    "ja_JP": "聖堂へ至る道",
     "zh_CN": "圣殿之路"
   },
   "act17d0_zone1": {
@@ -496,9 +500,13 @@
     "zh_CN": "关外追凶"
   },
   "act24side_zone1": {
+    "en_US": "Soubo Mountains",
+    "ja_JP": "蒼暮山地",
     "zh_CN": "苍暮山地"
   },
   "act24side_zone2": {
+    "en_US": "Commeowssion Counter",
+    "ja_JP": "アイルーの受付カウンター",
     "zh_CN": "艾露猫的委托柜台"
   },
   "act25side_zone1": {
@@ -524,6 +532,12 @@
   },
   "act27side_zone3": {
     "zh_CN": "岩浆冲浪"
+  },
+  "act28side_zone1": {
+    "zh_CN": "苍白平台"
+  },
+  "act28side_zone2": {
+    "zh_CN": "黑色舰船"
   },
   "act2bossrush_zone1": {
     "en_US": "Threat Incoming",
@@ -727,9 +741,13 @@
     "zh_CN": "一十八峰"
   },
   "permanent_sidestory_13_zone1": {
+    "en_US": "Summit of Nations",
+    "ja_JP": "万国サミット",
     "zh_CN": "万国峰会"
   },
   "permanent_sidestory_13_zone2": {
+    "en_US": "Road to the Shrine",
+    "ja_JP": "聖堂へ至る道",
     "zh_CN": "圣殿之路"
   },
   "permanent_sidestory_14_zone1": {

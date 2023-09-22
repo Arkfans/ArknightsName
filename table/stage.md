@@ -424,20 +424,20 @@ tip: 请善用浏览器的搜索功能
 | act23side_st02 | 信我所信 | Believe My Belief | 我の信ずる所を信ず |
 | act23side_st03 | 粘劫收后 | Keep the Ploy | 終わりのコウ |
 | act23side_tr01 | 塞上孤城 | Lone Redoubt | 辺塞の孤城 |
-| act24side_01 | 森林里的麻烦家伙 | - | - |
-| act24side_02 | 坚硬磐石 | - | - |
-| act24side_03 | 迎头痛击 | - | - |
-| act24side_04 | 破空的飞羽 | - | - |
-| act24side_05 | 野蛮肇事者 | - | - |
-| act24side_06 | 禁飞区 | - | - |
-| act24side_07 | 锥心之刺 | - | - |
-| act24side_08 | 奸诈者必自食恶果 | - | - |
-| act24side_09 | 决战！燃烧的狩魂！ | - | - |
-| act24side_s01 | 终极斗技之战 | - | - |
-| act24side_st01 | 噩梦 | - | - |
-| act24side_st02 | 林昏焰明 | - | - |
-| act24side_st03 | 晨曦 | - | - |
-| act24side_tr01 | 来袭！天空王者！ | - | - |
+| act24side_01 | 森林里的麻烦家伙 | Forest Menaces | 森の厄介者 |
+| act24side_02 | 坚硬磐石 | Hard As A Rock | 盤石の守り |
+| act24side_03 | 迎头痛击 | Head-on Assault | 向き合いて斬れ |
+| act24side_04 | 破空的飞羽 | Broken Wings | 風掴む羽 |
+| act24side_05 | 野蛮肇事者 | Brutal Perpetrator | 猛る荒くれ者 |
+| act24side_06 | 禁飞区 | No-Fly Zone | 「飛ぶな」の禁 |
+| act24side_07 | 锥心之刺 | Heart-Piercing Strike | 心刺す棘 |
+| act24side_08 | 奸诈者必自食恶果 | Treachery begets Consequences | 悪童への報い |
+| act24side_09 | 决战！燃烧的狩魂！ | Battle! Blazin' Soul of a Warrior! | 決戦！燃える狩猟魂！ |
+| act24side_s01 | 终极斗技之战 | Ultimate Skills Showdown | 極限闘技の宴 |
+| act24side_st01 | 噩梦 | Nightmare | 悪夢 |
+| act24side_st02 | 林昏焰明 | A Bright Flame in the Dark Forest | 燃ゆる焔と昏き森 |
+| act24side_st03 | 晨曦 | Daybreak | 夜明け |
+| act24side_tr01 | 来袭！天空王者！ | Attack! King of the Skies! | 襲来！天空の王者！ |
 | act25side_01 | 迷雾重重 | - | - |
 | act25side_02 | 无迹可寻 | - | - |
 | act25side_03 | 台前幕后 | - | - |
@@ -498,6 +498,18 @@ tip: 请善用浏览器的搜索功能
 | act27side_st03 | 晴天 | - | - |
 | act27side_tr01 | 黑咩咩 | - | - |
 | act27side_tr02 | 跟着我拍拍手 | - | - |
+| act28side_01 | 孤独之地 | - | - |
+| act28side_02 | 双重保险 | - | - |
+| act28side_03 | 圈套 | - | - |
+| act28side_04 | 缺席的人 | - | - |
+| act28side_05 | 疑惑之影 | - | - |
+| act28side_06 | 猎人之夜 | - | - |
+| act28side_07 | 白热 | - | - |
+| act28side_08 | 告别往昔 | - | - |
+| act28side_st01 | 火线之中 | - | - |
+| act28side_st02 | 突然冲击 | - | - |
+| act28side_st03 | 法外之徒 | - | - |
+| act28side_tr01 | 城市热战 | - | - |
 | act2bossrush_01 | 困顿囚徒 | Troubled Prisoner | 困窮する囚人 |
 | act2bossrush_02 | 大块头和小不点 | Big and Small | デカとチビ |
 | act2bossrush_03 | 裂地重击 | Fissure Strike | 大地割れる一撃 |
@@ -583,7 +595,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_12 | 巧克力大街 | Chocolate Street | チョコストリート |
 | camp_r_13 | 昏黑造船厂 | Penumbra Shipyards | 暗き造船所 |
 | camp_r_14 | 实验基地机库 | Research Base Hanger | 実験基地の格納庫 |
-| camp_r_15 | 龙门商业街 | - | - |
+| camp_r_15 | 龙门商业街 | Lungmen Commercial District | 龍門商店街 |
 | camp_r_16 | 休止符街道 | - | - |
 | camp_r_17 | 灰暗泥沼 | - | - |
 | camp_r_18 | “特制小水坑” | - | - |

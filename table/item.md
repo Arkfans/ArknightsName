@@ -140,8 +140,8 @@ tip: 请善用浏览器的搜索功能
 | LIMITED_TKT_GACHA_10_4101 | 云过天空寻访凭证 | - | - |
 | LIMITED_TKT_GACHA_10_903 | 苏醒纪念寻访凭证 | Awakening Commemoration Permit | 1周年記念10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_1701 | 特勤专家寻访凭证 | Elite Forces Headhunting Permit | 精鋭小隊10回スカウト券 |
-| LINKAGE_TKT_GACHA_10_3601 | 指引明路寻访凭证 | - | - |
-| LINKAGE_TKT_GACHA_10_3602 | 合作限定十连寻访凭证 | - | - |
+| LINKAGE_TKT_GACHA_10_3601 | 指引明路寻访凭证 | Scouting the Light Headhunting Permit | ハンター凱旋10回スカウト券 |
+| LINKAGE_TKT_GACHA_10_3602 | 合作限定十连寻访凭证 | Collaboration Limited Ten-roll Headhunting Permit | ハンター凱旋10回スカウト券 |
 | LMTGS_COIN_1401 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_1601 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_1803 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
@@ -223,23 +223,25 @@ tip: 请善用浏览器的搜索功能
 | act1bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
 | act1d0_token_gold_rep_1 | 赏金猎人金币 | Bounty Coin | ラッキーコイン |
 | act1lock_point_reward | 赛事奖章 | Competition Medals | 競技メダル |
-| act1sandbox_milestone_point | 繁荣证章 | - | - |
+| act1mainlinebp_token_star | 里程碑碎片 | - | - |
+| act1sandbox_milestone_point | 繁荣证章 | Badge of Prosperity | 繁栄の証 |
 | act20side_token_book | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
 | act20side_token_book_rep_1 | 《奇谈怪论》复印本 | - | - |
 | act21side_token_permesso | 进货通行证 | Permesso di Importazione | 買付許可証 |
 | act22side_token_manuscript | 手抄歌谣集 | Manuscripts of Ballads | 民謡集の写本 |
 | act23side_token_spirit | 新酿烈刀子 | Freshly-Brewed Liedaozi | 烈刀子 |
-| act24side_melding_1 | 破碎的骨片 | - | - |
-| act24side_melding_2 | 源石虫的硬壳 | - | - |
-| act24side_melding_3 | 鬣犄兽的尖锐齿 | - | - |
-| act24side_melding_4 | 凶豕兽的厚实皮 | - | - |
-| act24side_melding_5 | “兽之泪” | - | - |
-| act24side_melding_6 | 火龙的红玉 | - | - |
+| act24side_melding_1 | 破碎的骨片 | Bone Fragments | 欠けた骨 |
+| act24side_melding_2 | 源石虫的硬壳 | Originium Slug Shell | オリジムシの甲殻 |
+| act24side_melding_3 | 鬣犄兽的尖锐齿 | Sharp Oxmane Fangs | 山顎獣の鋭牙 |
+| act24side_melding_4 | 凶豕兽的厚实皮 | Thick Direswine Hide | 猪突獣の厚皮 |
+| act24side_melding_5 | “兽之泪” | 'Monster Tears' | 獣のナミダ |
+| act24side_melding_6 | 火龙的红玉 | Rathalos Ruby | 火竜の紅玉 |
 | act25side_token_fdrchips | 飞行数据记录芯片 | - | - |
 | act25side_token_key01 | 特殊作战许可·α | - | - |
 | act25side_token_key02 | 特殊作战许可·β | - | - |
 | act26side_token_fragmenta | 圣像碎片 | - | - |
 | act27side_token_fur | 毛绒绒生物的毛 | - | - |
+| act28side_token_box | 劣质燃料 | - | - |
 | act2bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act2bossrush_relic_01 | 修复套件 | Repair Kit | リカバリーキット |
 | act2bossrush_relic_02 | 维续补丁 | Maintenance Patch | メインテインパッチ |
@@ -461,7 +463,7 @@ tip: 请善用浏览器的搜索功能
 | et_ObsidianPass | 黑曜石节门票 | Obsidian Festival Ticket | フェスチケット |
 | et_ObsidianPass_rep_1 | 黑曜石节门票 | Obsidian Festival Ticket | フェスチケット |
 | favor_add_ulika | 主播U的直播切片 | - | - |
-| itempack_gacha_1 | 福运鼓鼓礼袋 | - | - |
+| itempack_gacha_1 | 福运鼓鼓礼袋 | Bounteous Fortunes Gift Bag | 幸運満タンパック |
 | itempack_mod_10 | 狙击芯片组印刻仪 | Sniper Chip Pack Etcher | 中級狙撃SoCプリンター |
 | itempack_mod_11 | 术师芯片组印刻仪 | Caster Chip Pack Etcher | 中級術師SoCプリンター |
 | itempack_mod_12 | 医疗芯片组印刻仪 | Medic Chip Pack Etcher | 中級医療SoCプリンター |
@@ -499,12 +501,13 @@ tip: 请善用浏览器的搜索功能
 | p_char_1026_gvial2 | 百炼嘉维尔的信物 | Gavial the Invincible's Token | 百錬ガヴィルの印 |
 | p_char_1027_greyy2 | 承曦格雷伊的信物 | Greyy the Lightningbearer's Token | 承曦グレイの印 |
 | p_char_1028_texas2 | 缄默德克萨斯的信物 | Texas the Omertosa's Token | 血掟テキサスの印 |
-| p_char_1029_yato2 | 麒麟R夜刀的信物 | - | - |
+| p_char_1029_yato2 | 麒麟R夜刀的信物 | Kirin R Yato's Token | キリンRヤトウの印 |
 | p_char_102_texas | 德克萨斯的信物 | Texas's Token | テキサスの印 |
-| p_char_1030_noirc2 | 火龙S黑角的信物 | - | - |
+| p_char_1030_noirc2 | 火龙S黑角的信物 | Rathalos S Noir Corne's Token | レウスSノイルホーンの印 |
 | p_char_1031_slent2 | 淬羽赫默的信物 | - | - |
 | p_char_1032_excu2 | 圣约送葬人的信物 | - | - |
 | p_char_1033_swire2 | 琳琅诗怀雅的信物 | - | - |
+| p_char_1034_jesca2 | 涤火杰西卡的信物 | - | - |
 | p_char_103_angel | 能天使的信物 | Exusiai's Token | エクシアの印 |
 | p_char_106_franka | 芙兰卡的信物 | Franka's Token | フランカの印 |
 | p_char_107_liskam | 雷蛇的信物 | Liskarm's Token | リスカムの印 |
@@ -712,7 +715,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4066_highmo | 海沫的信物 | Highmore's Token | ハイモアの印 |
 | p_char_4071_peper | 明椒的信物 | Paprika's Token | パプリカの印 |
 | p_char_4072_ironmn | 白铁的信物 | Stainless's Token | ステインレスの印 |
-| p_char_4077_palico | 泰拉大陆调查团的信物 | - | - |
+| p_char_4077_palico | 泰拉大陆调查团的信物 | Terra Research Commission's Token | テラ大陸調査団の印 |
 | p_char_4078_bdhkgt | 截云的信物 | Jieyun's Token | ジエユンの印 |
 | p_char_4080_lin | 林的信物 | Lin's Token | リンの印 |
 | p_char_4082_qiubai | 仇白的信物 | Qiubai's Token | チューバイの印 |
@@ -720,6 +723,8 @@ tip: 请善用浏览器的搜索功能
 | p_char_4087_ines | 伊内丝的信物 | - | - |
 | p_char_4093_frston | Friston-3的信物 | - | - |
 | p_char_4102_threye | 凛视的信物 | - | - |
+| p_char_4104_coldst | 冰酿的信物 | - | - |
+| p_char_4105_almond | 杏仁的信物 | - | - |
 | p_char_4106_bryota | 苍苔的信物 | - | - |
 | p_char_411_tomimi | 特米米的信物 | Tomimi's Token | トミミの印 |
 | p_char_415_flint | 燧石的信物 | Flint's Token | フリントの印 |
@@ -775,7 +780,7 @@ tip: 请善用浏览器的搜索功能
 | randomMaterialRune_1 | 黄铁行动物资补给 | Operation Pyrite Supplies | 補給物資・「黄鉄」 |
 | randomMaterialRune_10 | 尘环行动物资补给 | Operation Ashring Supplies | 補給物資・「塵環」 |
 | randomMaterialRune_11 | 赝波行动物资补给 | Operation Fake Waves Supplies | 補給物資・「贋波」 |
-| randomMaterialRune_12 | 起源行动物资补给 | - | - |
+| randomMaterialRune_12 | 起源行动物资补给 | Operation Base Point Supplies | 補給物資・「起源」 |
 | randomMaterialRune_2 | 利刃行动物资补给 | Operation Blade Supplies | 補給物資・「利刃」 |
 | randomMaterialRune_3 | 燃灰行动物资补给 | Operation Cinder Supplies | 補給物資・「灰燼」 |
 | randomMaterialRune_4 | 铅封行动物资补给 | Operation Lead Seal Supplies | 補給物資・「鉛封」 |
@@ -792,6 +797,7 @@ tip: 请善用浏览器的搜索功能
 | randomMaterial_6 | 罗德岛物资补给III | Rhodes Island Supplies III | 補給物資・ロドスIII |
 | randomMaterial_7 | 罗德岛物资补给IV | Rhodes Island Supplies IV | 補給物資・ロドスIV |
 | randomMaterial_8 | 罗德岛物资补给V | - | - |
+| randomMaterial_9 | 罗德岛物资补给VI | - | - |
 | randomMaterial_rhine2 | 技术调查补给 | - | - |
 | randomMaterial_siesta2 | 峯联贸易物流补给 | - | - |
 | renamingCard | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
@@ -878,6 +884,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_guitar | 火蓝之心家具收藏包 | Heart of Surging Flame Furniture Pack | 青く燃ゆる心家具パック |
 | uni_set_icu | 遗尘漫步家具收藏包 | - | - |
 | uni_set_inkArt | 画中人家具收藏包 | Who is Real Furniture Pack | 画中人家具パック |
+| uni_set_kazimierz | 长夜临光家具收藏包 | - | - |
 | uni_set_nightView | 沃伦姆德的薄暮家具收藏包 | Twilight of Wolumonde Furniture Pack | ウォルモンドの薄暮家具パック |
 | uni_set_outdoor_1 | 海滨印象家具收藏包一 | Beachside Impressions Furniture Pack I | 海辺風家具パックvol.1 |
 | uni_set_outdoor_2 | 海滨印象家具收藏包二 | Beachside Impressions Furniture Pack II | 海辺風家具パックvol.2 |
@@ -909,6 +916,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_full_sophia | 鞭刃的私人信件 | Whislash's Personal Letter | ウィスラッシュの手紙 |
 | voucher_full_takila | 龙舌兰的私人信件 | - | - |
 | voucher_full_tomimi | 特米米的私人信件 | Tomimi's Personal Letter | トミミの手紙 |
+| voucher_full_wildmn | 野鬃的私人信件 | - | - |
 | voucher_full_zebra | 暴雨的私人信件 | - | - |
 | voucher_item_4pick1 | 干员兑换券 | Operator Voucher | オペレーター指名券 |
 | voucher_item_4pick1_1803 | 干员兑换券 | Operator Voucher | オペレーター指名券 |

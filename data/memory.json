@@ -5,6 +5,8 @@
     "zh_CN": "一些选择"
   },
   "story_acdrop_set_1_story_1": {
+    "en_US": "The Face of a Wall",
+    "ja_JP": "壁",
     "zh_CN": "一面墙"
   },
   "story_aglina_set_1_story_1": {
@@ -84,6 +86,8 @@
     "zh_CN": "黄沙归途"
   },
   "story_bgsnow_set_1_story_1": {
+    "en_US": "Fallen Inktrails",
+    "ja_JP": "インクの染み",
     "zh_CN": "墨迹已落"
   },
   "story_bibeak_set_1_story_1": {
@@ -102,6 +106,8 @@
     "zh_CN": "保护者的本性"
   },
   "story_bison_set_1_story_1": {
+    "en_US": "A Fulfilling Holiday",
+    "ja_JP": "充実した休み",
     "zh_CN": "充实的假期"
   },
   "story_bldsk_set_1_story_1": {
@@ -140,6 +146,8 @@
     "zh_CN": "风暖寒林"
   },
   "story_breeze_set_2_story_1": {
+    "en_US": "Prisoner's Dream",
+    "ja_JP": "囚われ人のゆめ",
     "zh_CN": "囚徒的幻梦"
   },
   "story_broca_set_1_story_1": {
@@ -221,6 +229,9 @@
     "ja_JP": "昔我往きて、君と携行す",
     "zh_CN": "昔我往矣"
   },
+  "story_crow_set_1_story_1": {
+    "zh_CN": "坚韧的羽毛"
+  },
   "story_ctable_set_1_story_1": {
     "zh_CN": "飞进窗的羽兽"
   },
@@ -280,6 +291,9 @@
     "ja_JP": "異郷の旧友",
     "zh_CN": "他乡故旧"
   },
+  "story_excu2_set_1_story_1": {
+    "zh_CN": "蓝色"
+  },
   "story_excu_set_1_story_1": {
     "zh_CN": "送葬人"
   },
@@ -302,6 +316,9 @@
     "en_US": "Second Charge",
     "ja_JP": "再チャレンジ",
     "zh_CN": "二次冲锋"
+  },
+  "story_finlpp_set_1_story_1": {
+    "zh_CN": "涓滴亦江流"
   },
   "story_firwhl_set_1_story_1": {
     "zh_CN": "独行之人"
@@ -338,6 +355,9 @@
     "en_US": "Symbols of the Past",
     "ja_JP": "在りし日の象徴",
     "zh_CN": "往日的象征"
+  },
+  "story_franka_set_2_story_1": {
+    "zh_CN": "驻足"
   },
   "story_frncat_set_1_story_1": {
     "en_US": "Sweetheart",
@@ -408,7 +428,7 @@
   },
   "story_haak_set_1_story_1": {
     "en_US": "A Night of Terror",
-    "ja_JP": "肝を冷やす夜　",
+    "ja_JP": "肝を冷やす夜",
     "zh_CN": "惊弓一夜"
   },
   "story_halo_set_1_story_1": {
@@ -488,6 +508,9 @@
   },
   "story_jaksel_set_1_story_1": {
     "zh_CN": "无价的勋章"
+  },
+  "story_jesca2_set_1_story_1": {
+    "zh_CN": "徽章"
   },
   "story_jesica_set_1_story_1": {
     "en_US": "The Slow Walk Ahead",
@@ -879,9 +902,13 @@
     "zh_CN": "夺包奇遇"
   },
   "story_snsant_set_1_story_1": {
+    "en_US": "A Dilemma of Values",
+    "ja_JP": "数字の問題",
     "zh_CN": "数字问题"
   },
   "story_sophia_set_1_story_1": {
+    "en_US": "Exclusive Interview",
+    "ja_JP": "独占インタビュー",
     "zh_CN": "独家访谈"
   },
   "story_sora_set_1_story_1": {
@@ -968,6 +995,8 @@
     "zh_CN": "干员间切磋指南"
   },
   "story_tknogi_set_1_story_1": {
+    "en_US": "An Ordinary Sunset",
+    "ja_JP": "いつもの夕日",
     "zh_CN": "寻常夕阳"
   },
   "story_toddi_set_1_story_1": {
@@ -1004,6 +1033,8 @@
     "zh_CN": "该做的事"
   },
   "story_vodfox_set_1_story_1": {
+    "en_US": "A Curse Without Words",
+    "ja_JP": "文字なき呪い",
     "zh_CN": "无字诅咒"
   },
   "story_waaifu_set_1_story_1": {

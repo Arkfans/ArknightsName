@@ -63,6 +63,12 @@
     "ja_JP": "信影流・十文字勝",
     "zh_CN": "信影流·十文字胜"
   },
+  "skchr_almond_1": {
+    "zh_CN": "磁力抓取"
+  },
+  "skchr_almond_2": {
+    "zh_CN": "强力牵引"
+  },
   "skchr_amedic_1": {
     "en_US": "Apocalyptic Scene",
     "ja_JP": "天啓の光",
@@ -562,6 +568,9 @@
     "en_US": "Double Shot",
     "ja_JP": "デュアルアロー",
     "zh_CN": "双弦开弓"
+  },
+  "skchr_coldst_2": {
+    "zh_CN": "酣醉之夜"
   },
   "skchr_cqbw_1": {
     "en_US": "King of Hearts",
@@ -1302,6 +1311,15 @@
     "ja_JP": "全神経集中！",
     "zh_CN": "全神贯注！"
   },
+  "skchr_jesca2_1": {
+    "zh_CN": "坚守阵线"
+  },
+  "skchr_jesca2_2": {
+    "zh_CN": "掩蔽护卫"
+  },
+  "skchr_jesca2_3": {
+    "zh_CN": "饱和迸射"
+  },
   "skchr_jesica_1": {
     "en_US": "Power Strike β",
     "ja_JP": "強撃β",
@@ -1764,9 +1782,13 @@
     "zh_CN": "赤色之瞳"
   },
   "skchr_noirc2_1": {
+    "en_US": "Iai Spirit Slash",
+    "ja_JP": "居合抜刀気刃斬り",
     "zh_CN": "居合拔刀气刃斩"
   },
   "skchr_noirc2_2": {
+    "en_US": "Spirit Helm Breaker",
+    "ja_JP": "気刃兜割り",
     "zh_CN": "气刃兜割"
   },
   "skchr_nothin_1": {
@@ -2664,12 +2686,18 @@
     "zh_CN": "抗寒体质"
   },
   "skchr_yato2_1": {
+    "en_US": "Demon Mode",
+    "ja_JP": "鬼人化",
     "zh_CN": "鬼人化"
   },
   "skchr_yato2_2": {
+    "en_US": "Blade Dance",
+    "ja_JP": "乱舞",
     "zh_CN": "乱舞"
   },
   "skchr_yato2_3": {
+    "en_US": "Midair Spinning Blade Dance",
+    "ja_JP": "空中回転乱舞",
     "zh_CN": "空中回旋乱舞"
   },
   "skchr_yuki_1": {
@@ -2938,6 +2966,8 @@
     "zh_CN": "坏脾气"
   },
   "sktok_bondtw": {
+    "en_US": "Fire Net",
+    "ja_JP": "捕縛網発射",
     "zh_CN": "发射缚网"
   },
   "sktok_bouncy_1": {
@@ -3213,7 +3243,12 @@
     "zh_CN": "Punchline"
   },
   "sktok_enhancer": {
+    "en_US": "Release Potion",
+    "ja_JP": "覚醒の秘薬",
     "zh_CN": "释放秘药"
+  },
+  "sktok_eradio": {
+    "zh_CN": "喷气散热"
   },
   "sktok_factory_1": {
     "en_US": "Production Line",
@@ -3277,6 +3312,8 @@
     "zh_CN": "重力生成"
   },
   "sktok_gtreasure": {
+    "en_US": "Destructible",
+    "ja_JP": "撃破可能",
     "zh_CN": "可被击破"
   },
   "sktok_gunctrl": {
@@ -3285,6 +3322,8 @@
     "zh_CN": "开火"
   },
   "sktok_hiddenstone": {
+    "en_US": "Destructible",
+    "ja_JP": "撃破可能",
     "zh_CN": "可被击破"
   },
   "sktok_inverter": {
@@ -3308,12 +3347,18 @@
     "zh_CN": "铁钳号·原型机"
   },
   "sktok_klmantc_1": {
+    "en_US": "Trigger Dialogue",
+    "ja_JP": "会話発生",
     "zh_CN": "触发对话"
   },
   "sktok_klmantc_2": {
+    "en_US": "Trigger Dialogue",
+    "ja_JP": "会話発生",
     "zh_CN": "触发对话"
   },
   "sktok_klmantc_3": {
+    "en_US": "Trigger Dialogue",
+    "ja_JP": "会話発生",
     "zh_CN": "触发对话"
   },
   "sktok_larva": {
@@ -3368,18 +3413,28 @@
     "zh_CN": "回收"
   },
   "sktok_mhflsb": {
+    "en_US": "Flash Grenade",
+    "ja_JP": "閃光爆弾",
     "zh_CN": "眩光手雷"
   },
   "sktok_mhlbmb": {
+    "en_US": "High-Energy Originium Barrel Bomb",
+    "ja_JP": "源石タル爆弾",
     "zh_CN": "高能源石爆桶"
   },
   "sktok_mhshok": {
+    "en_US": "High-Voltage Shock Trap",
+    "ja_JP": "高電圧シビレ罠",
     "zh_CN": "高压脉冲诡雷"
   },
   "sktok_mhwrbg": {
+    "en_US": "Wiredrone",
+    "ja_JP": "滞空牽引ドローン",
     "zh_CN": "滞空牵引无人机"
   },
   "sktok_mhwrct": {
+    "en_US": "Wiredrone",
+    "ja_JP": "滞空牽引ドローン",
     "zh_CN": "滞空牵引无人机"
   },
   "sktok_mine": {
@@ -3437,6 +3492,8 @@
     "zh_CN": "列阵！"
   },
   "sktok_oldisin_1": {
+    "en_US": "Trigger Dialogue",
+    "ja_JP": "会話発生",
     "zh_CN": "触发对话"
   },
   "sktok_ore": {
@@ -3480,6 +3537,8 @@
     "zh_CN": "夜幕突袭"
   },
   "sktok_poachr": {
+    "en_US": "Hunt for Food",
+    "ja_JP": "食材どろぼう",
     "zh_CN": "盗猎食材"
   },
   "sktok_poison_1": {
@@ -3498,6 +3557,8 @@
     "zh_CN": "启动禁锢！"
   },
   "sktok_pushtw": {
+    "en_US": "Air Burst",
+    "ja_JP": "ガス噴射",
     "zh_CN": "气体爆喷"
   },
   "sktok_rarebox": {
@@ -3527,9 +3588,13 @@
     "zh_CN": "蓄锐"
   },
   "sktok_redtower": {
+    "en_US": "Transport Enemy",
+    "ja_JP": "敵部隊運送",
     "zh_CN": "敌方人员运送"
   },
   "sktok_repairman": {
+    "en_US": "Repair",
+    "ja_JP": "修理",
     "zh_CN": "修理"
   },
   "sktok_revivecard": {
@@ -3591,9 +3656,13 @@
     "zh_CN": "临调"
   },
   "sktok_sandsdr_1": {
+    "en_US": "Trigger Dialogue",
+    "ja_JP": "会話発生",
     "zh_CN": "触发对话"
   },
   "sktok_sandsdr_2": {
+    "en_US": "Trigger Dialogue",
+    "ja_JP": "会話発生",
     "zh_CN": "触发对话"
   },
   "sktok_sbomb": {
@@ -3607,6 +3676,8 @@
     "zh_CN": "反隐"
   },
   "sktok_shielder": {
+    "en_US": "Provide Shield",
+    "ja_JP": "シールド付与",
     "zh_CN": "护盾提供"
   },
   "sktok_skadi2_1": {
@@ -3647,6 +3718,8 @@
     "zh_CN": "爆裂"
   },
   "sktok_smokebomb": {
+    "en_US": "Release Incense",
+    "ja_JP": "惑いの香",
     "zh_CN": "释放迷香"
   },
   "sktok_smpow": {
@@ -3681,6 +3754,8 @@
     "zh_CN": "沙尘暴"
   },
   "sktok_streasure": {
+    "en_US": "Dangerous Spike",
+    "ja_JP": "危険な棘",
     "zh_CN": "宝刺伤人"
   },
   "sktok_supplycard": {
@@ -3732,6 +3807,8 @@
     "zh_CN": "法术传输协议"
   },
   "sktok_trademan_1": {
+    "en_US": "Trigger Dialogue",
+    "ja_JP": "会話発生",
     "zh_CN": "触发对话"
   },
   "sktok_tree": {
@@ -3740,6 +3817,8 @@
     "zh_CN": "天然隐蔽"
   },
   "sktok_trsrhuntr_1": {
+    "en_US": "Trigger Dialogue",
+    "ja_JP": "会話発生",
     "zh_CN": "触发对话"
   },
   "sktok_truamr": {
@@ -3751,9 +3830,13 @@
     "zh_CN": "自走车定向！"
   },
   "sktok_umbrella": {
+    "en_US": "Help Hide",
+    "ja_JP": "迷彩バリア",
     "zh_CN": "协助隐藏"
   },
   "sktok_vegetation": {
+    "en_US": "Harvestable",
+    "ja_JP": "採掘可能",
     "zh_CN": "可供开采"
   },
   "sktok_vgctrl": {
@@ -3787,6 +3870,8 @@
     "zh_CN": "诱人珍宝"
   },
   "sktok_wdescp": {
+    "en_US": "Establish Communication",
+    "ja_JP": "通信確立",
     "zh_CN": "建立通讯"
   },
   "sktok_wdfarm": {
@@ -3798,6 +3883,8 @@
     "zh_CN": "液氮大炮"
   },
   "sktok_wfactory": {
+    "en_US": "Pump Water",
+    "ja_JP": "水汲み",
     "zh_CN": "抽水"
   },
   "sktok_windft_wrench_1": {
@@ -3821,54 +3908,88 @@
     "zh_CN": "拉特兰式冰淇淋"
   },
   "sktok_xbbase": {
+    "en_US": "Energy Facility",
+    "ja_JP": "動力設備",
     "zh_CN": "能源设备"
   },
   "sktok_xbescp": {
+    "en_US": "Establish Communication",
+    "ja_JP": "通信確立",
     "zh_CN": "建立通讯"
   },
   "sktok_xbfarm": {
+    "en_US": "Plant Rice",
+    "ja_JP": "田植え",
     "zh_CN": "稻谷种植"
   },
   "sktok_xbfato": {
+    "en_US": "Gather",
+    "ja_JP": "採取",
     "zh_CN": "采集"
   },
   "sktok_xbfato2": {
+    "en_US": "Gather",
+    "ja_JP": "採取",
     "zh_CN": "采集"
   },
   "sktok_xbfato3": {
+    "en_US": "Gather",
+    "ja_JP": "採取",
     "zh_CN": "采集"
   },
   "sktok_xbfortress": {
+    "en_US": "Build Tower",
+    "ja_JP": "高台設置",
     "zh_CN": "搭建高台"
   },
   "sktok_xbgldn": {
+    "en_US": "Smelt",
+    "ja_JP": "鍛造",
     "zh_CN": "冶铸"
   },
   "sktok_xbiron": {
+    "en_US": "Harvestable",
+    "ja_JP": "採掘可能",
     "zh_CN": "可供开采"
   },
   "sktok_xblrsh": {
+    "en_US": "Improve Personnel Status",
+    "ja_JP": "戦闘計画改善",
     "zh_CN": "人员状态改善"
   },
   "sktok_xbmrcl": {
+    "en_US": "Computation",
+    "ja_JP": "演算",
     "zh_CN": "演算"
   },
   "sktok_xboverwatch": {
+    "en_US": "Monitor",
+    "ja_JP": "モニタリング",
     "zh_CN": "监控"
   },
   "sktok_xbprsh": {
+    "en_US": "Resource Planning",
+    "ja_JP": "資源計画",
     "zh_CN": "资源规划"
   },
   "sktok_xbroadblock": {
+    "en_US": "Block Road",
+    "ja_JP": "道路封鎖",
     "zh_CN": "阻断道路"
   },
   "sktok_xbstone": {
+    "en_US": "Harvestable",
+    "ja_JP": "採掘可能",
     "zh_CN": "可供开采"
   },
   "sktok_xbwall": {
+    "en_US": "Defensive Support",
+    "ja_JP": "防衛の要",
     "zh_CN": "防御支撑"
   },
   "sktok_xbwood": {
+    "en_US": "Harvestable",
+    "ja_JP": "採掘可能",
     "zh_CN": "可供开采"
   }
 }

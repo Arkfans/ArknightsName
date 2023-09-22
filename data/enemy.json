@@ -2920,57 +2920,93 @@
     "zh_CN": "“越长尘”"
   },
   "enemy_1303_mhshep": {
+    "en_US": "Hornbeast",
+    "ja_JP": "ツノシゲミ",
     "zh_CN": "角兽"
   },
   "enemy_1303_mhshep_2": {
+    "en_US": "Hardy Hornbeast",
+    "ja_JP": "ツノシゲミ亜種",
     "zh_CN": "亢角兽"
   },
   "enemy_1304_mhwolf": {
+    "en_US": "Oxmane",
+    "ja_JP": "タテガミツキ",
     "zh_CN": "鬣犄兽"
   },
   "enemy_1304_mhwolf_2": {
+    "en_US": "Keenfanged Oxmane",
+    "ja_JP": "タテガミツキ亜種",
     "zh_CN": "利齿鬣犄兽"
   },
   "enemy_1305_mhslim": {
+    "en_US": "Blazing Originium Slug",
+    "ja_JP": "灼熱オリジムシ",
     "zh_CN": "灼热源石虫"
   },
   "enemy_1305_mhslim_2": {
+    "en_US": "Pyric Originium Slug",
+    "ja_JP": "猛焔オリジムシ",
     "zh_CN": "炽焰源石虫"
   },
   "enemy_1306_mhtrtl": {
+    "en_US": "Chitotex Clawbeast",
+    "ja_JP": "キッコウソウ",
     "zh_CN": "硬甲爪兽"
   },
   "enemy_1306_mhtrtl_2": {
+    "en_US": "Keratex Clawbeast",
+    "ja_JP": "キッコウソウ亜種",
     "zh_CN": "刚甲爪兽"
   },
   "enemy_1307_mhrhcr": {
+    "en_US": "Basorobeast",
+    "ja_JP": "イワカムリ",
     "zh_CN": "岩冠兽"
   },
   "enemy_1307_mhrhcr_2": {
+    "en_US": "Gravorobeast",
+    "ja_JP": "イワカムリ亜種",
     "zh_CN": "坚岩冠兽"
   },
   "enemy_1308_mheagl": {
+    "en_US": "Serrant Fowlbeast",
+    "ja_JP": "カゼツカミ",
     "zh_CN": "锋羽兽"
   },
   "enemy_1308_mheagl_2": {
+    "en_US": "Daimoserrant Fowlbeast",
+    "ja_JP": "カゼツカミ亜種",
     "zh_CN": "迅猛锋羽兽"
   },
   "enemy_1309_mhboar": {
+    "en_US": "Direswine",
+    "ja_JP": "キバタケリ",
     "zh_CN": "凶豕兽"
   },
   "enemy_1309_mhboar_2": {
+    "en_US": "Raging Direswine",
+    "ja_JP": "猛進キバタケリ",
     "zh_CN": "狂暴凶豕兽"
   },
   "enemy_1310_mhprpn": {
+    "en_US": "Haribeast",
+    "ja_JP": "トゲアラシ",
     "zh_CN": "棘兽"
   },
   "enemy_1310_mhprpn_2": {
+    "en_US": "Rainer Haribeast",
+    "ja_JP": "撃烈トゲアラシ",
     "zh_CN": "箭棘兽"
   },
   "enemy_1311_mhkryk": {
+    "en_US": "Cautelotaur",
+    "ja_JP": "アクドウジ",
     "zh_CN": "狡兽"
   },
   "enemy_1311_mhkryk_2": {
+    "en_US": "Kouaku Cautelotaur",
+    "ja_JP": "狡虐アクドウジ",
     "zh_CN": "恶狡兽"
   },
   "enemy_1312_ymillu": {
@@ -3188,6 +3224,54 @@
   "enemy_1351_yhhshp": {
     "zh_CN": "“好朋友”"
   },
+  "enemy_1352_eslime": {
+    "zh_CN": "辐能源石虫"
+  },
+  "enemy_1352_eslime_2": {
+    "zh_CN": "辐能源石虫·α"
+  },
+  "enemy_1353_esabr": {
+    "zh_CN": "匪帮混混"
+  },
+  "enemy_1353_esabr_2": {
+    "zh_CN": "匪帮混混头目"
+  },
+  "enemy_1354_eghost": {
+    "zh_CN": "匪帮窃贼"
+  },
+  "enemy_1354_eghost_2": {
+    "zh_CN": "匪帮窃贼头目"
+  },
+  "enemy_1355_mrfly": {
+    "zh_CN": "护障"
+  },
+  "enemy_1355_mrfly_2": {
+    "zh_CN": "护障·P"
+  },
+  "enemy_1356_egun": {
+    "zh_CN": "匪帮射手"
+  },
+  "enemy_1356_egun_2": {
+    "zh_CN": "匪帮射手头目"
+  },
+  "enemy_1357_erob": {
+    "zh_CN": "匪帮斧手"
+  },
+  "enemy_1357_erob_2": {
+    "zh_CN": "匪帮斧手头目"
+  },
+  "enemy_1358_esheld": {
+    "zh_CN": "匪帮防御者"
+  },
+  "enemy_1358_esheld_2": {
+    "zh_CN": "匪帮防御者头目"
+  },
+  "enemy_1359_ekulsr": {
+    "zh_CN": "匪帮轰击者"
+  },
+  "enemy_1359_ekulsr_2": {
+    "zh_CN": "匪帮轰击者头目"
+  },
   "enemy_1500_skulsr": {
     "en_US": "Skullshatterer",
     "ja_JP": "SkullShredder",
@@ -3369,6 +3453,8 @@
     "zh_CN": "“领袖”"
   },
   "enemy_1537_mhrors": {
+    "en_US": "Rathalos",
+    "ja_JP": "リオレウス",
     "zh_CN": "火龙"
   },
   "enemy_1538_ymmons": {
@@ -3387,6 +3473,8 @@
     "zh_CN": "妄境"
   },
   "enemy_1539_reid": {
+    "en_US": "'Hateful Avenger'",
+    "ja_JP": "\"Vendetta\"",
     "zh_CN": "“复仇者”"
   },
   "enemy_1540_wdncr": {
@@ -3406,6 +3494,9 @@
   },
   "enemy_1545_shpkg": {
     "zh_CN": "多利，“羊之主”"
+  },
+  "enemy_1546_cliff": {
+    "zh_CN": "“桥夹”克里夫"
   },
   "enemy_2001_duckmi": {
     "en_US": "Duck Lord",
@@ -3800,66 +3891,108 @@
     "zh_CN": "甜蜜派送机"
   },
   "enemy_7001_blwzad": {
+    "en_US": "Tribal Shaman",
+    "ja_JP": "部族呪術師",
     "zh_CN": "部族巫术师"
   },
   "enemy_7001_blwzad_2": {
+    "en_US": "Lord Ameer Shaman",
+    "ja_JP": "首長呪術師",
     "zh_CN": "王酋巫术师"
   },
   "enemy_7002_veingd": {
+    "en_US": "Vein Guardian",
+    "ja_JP": "鉱脈の守護者",
     "zh_CN": "矿脉守卫"
   },
   "enemy_7002_veingd_2": {
+    "en_US": "Maddened Vein Guardian",
+    "ja_JP": "狂える鉱脈の守護者",
     "zh_CN": "狂化矿脉守卫"
   },
   "enemy_7003_catapt": {
+    "en_US": "'Anything Can Be Broken'",
+    "ja_JP": "「ブッコワセール」",
     "zh_CN": "“都可以砸”"
   },
   "enemy_7003_catapt_2": {
+    "en_US": "'Everything Should Be Smashed'",
+    "ja_JP": "「ブッツブスーゾ」",
     "zh_CN": "“都应该砸”"
   },
   "enemy_7004_xbdeer": {
+    "en_US": "Leporibeast Shorthorn",
+    "ja_JP": "小角跳獣",
     "zh_CN": "小角跳兽"
   },
   "enemy_7004_xbdeer_2": {
+    "en_US": "Leporibeast Longhorn",
+    "ja_JP": "大角跳獣",
     "zh_CN": "大角跳兽"
   },
   "enemy_7005_xbbull": {
+    "en_US": "Mossback Beast",
+    "ja_JP": "苔生獣",
     "zh_CN": "苔生兽"
   },
   "enemy_7005_xbbull_2": {
+    "en_US": "Lush Mossback Beast",
+    "ja_JP": "生い茂る苔生獣",
     "zh_CN": "茂密苔生兽"
   },
   "enemy_7006_xbcrab": {
+    "en_US": "Cragpincer",
+    "ja_JP": "ガンセキガニ",
     "zh_CN": "岩壳蟹"
   },
   "enemy_7006_xbcrab_2": {
+    "en_US": "Crystalline Cragpincer",
+    "ja_JP": "ケッショウガニ",
     "zh_CN": "结晶岩壳蟹"
   },
   "enemy_7007_xbbird": {
+    "en_US": "Sandfall Crystalhoof",
+    "ja_JP": "金砂晶蹄獣",
     "zh_CN": "落沙晶蹄兽"
   },
   "enemy_7008_wrkwrk": {
+    "en_US": "Basic Harvester",
+    "ja_JP": "採取ロボ",
     "zh_CN": "采集实习生"
   },
   "enemy_7009_mtmoun": {
+    "en_US": "'The Immortal'",
+    "ja_JP": "「イモータル」",
     "zh_CN": "“不朽之人”"
   },
   "enemy_7010_bldrgn": {
+    "en_US": "Great Wingbeast",
+    "ja_JP": "巨翼獣",
     "zh_CN": "巨翼兽"
   },
   "enemy_7011_paki": {
+    "en_US": "Sargonian Contract Assassin",
+    "ja_JP": "サルゴンの雇われ暗殺者",
     "zh_CN": "萨尔贡契约刺客"
   },
   "enemy_7012_wilder": {
+    "en_US": "Dauntless Linebreaker",
+    "ja_JP": "首長軍切り込み隊長",
     "zh_CN": "无阻冲锋官"
   },
   "enemy_7013_slwazd": {
+    "en_US": "'The Ruinbringer'",
+    "ja_JP": "「破滅を呼ぶ者」",
     "zh_CN": "“召毁者”"
   },
   "enemy_7014_dva": {
+    "en_US": "'Al-Rafiq'",
+    "ja_JP": "「バディ」",
     "zh_CN": "“搭档”"
   },
   "enemy_7015_xbcrab2": {
+    "en_US": "'Consortium of Pincers'",
+    "ja_JP": "「カニキング」",
     "zh_CN": "“钳钳生风”"
   }
 }

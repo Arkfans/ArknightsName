@@ -23,12 +23,13 @@ tip: 请善用浏览器的搜索功能
 | char_1026_gvial2 | 百炼嘉维尔 | Gavial the Invincible | 百錬ガヴィル |
 | char_1027_greyy2 | 承曦格雷伊 | Greyy the Lightningbearer | 承曦グレイ |
 | char_1028_texas2 | 缄默德克萨斯 | Texas the Omertosa | 血掟テキサス |
-| char_1029_yato2 | 麒麟R夜刀 | - | - |
+| char_1029_yato2 | 麒麟R夜刀 | Kirin R Yato | キリンRヤトウ |
 | char_102_texas | 德克萨斯 | Texas | テキサス |
-| char_1030_noirc2 | 火龙S黑角 | - | - |
+| char_1030_noirc2 | 火龙S黑角 | Rathalos S Noir Corne | レウスSノイルホーン |
 | char_1031_slent2 | 淬羽赫默 | - | - |
 | char_1032_excu2 | 圣约送葬人 | - | - |
 | char_1033_swire2 | 琳琅诗怀雅 | - | - |
+| char_1034_jesca2 | 涤火杰西卡 | - | - |
 | char_103_angel | 能天使 | Exusiai | エクシア |
 | char_106_franka | 芙兰卡 | Franka | フランカ |
 | char_107_liskam | 雷蛇 | Liskarm | リスカム |
@@ -239,7 +240,7 @@ tip: 请善用浏览器的搜索功能
 | char_4067_lolxh | 罗小黑 | Luo Xiaohei | 羅小黒 |
 | char_4071_peper | 明椒 | Paprika | パプリカ |
 | char_4072_ironmn | 白铁 | Stainless | ステインレス |
-| char_4077_palico | 泰拉大陆调查团 | - | - |
+| char_4077_palico | 泰拉大陆调查团 | Terra Research Commission | テラ大陸調査団 |
 | char_4078_bdhkgt | 截云 | Jieyun | ジエユン |
 | char_4080_lin | 林 | Lin | リン |
 | char_4082_qiubai | 仇白 | Qiubai | チューバイ |
@@ -248,6 +249,8 @@ tip: 请善用浏览器的搜索功能
 | char_4091_ulika | U-Official | - | - |
 | char_4093_frston | Friston-3 | - | - |
 | char_4102_threye | 凛视 | - | - |
+| char_4104_coldst | 冰酿 | - | - |
+| char_4105_almond | 杏仁 | - | - |
 | char_4106_bryota | 苍苔 | - | - |
 | char_411_tomimi | 特米米 | Tomimi | トミミ |
 | char_415_flint | 燧石 | Flint | フリント |

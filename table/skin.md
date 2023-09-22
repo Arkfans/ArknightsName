@@ -27,6 +27,7 @@ tip: 请善用浏览器的搜索功能
 | char_103_angel@kfc#1 | 城市骑手 | - | - |
 | char_103_angel@sale#8 | 午夜邮差 | Midnight Delivery | 真夜中の配達人 |
 | char_103_angel@wild#1 | 野地秘行 | Wild Operation | 荒野潜行 |
+| char_106_franka@ncg#1 | 林虹之间 | - | - |
 | char_107_liskam@nian#2 | 春竜 | Spring Vouivre | 春竜 |
 | char_107_liskam@striker#1 | 超载 | Overload | オーバーロード |
 | char_108_silent@sweep#1 | 漆匠 | Lacquer | 漆匠 |
@@ -100,6 +101,7 @@ tip: 请善用浏览器的搜索功能
 | char_2015_dusk@nian#7 | 染尘烟 | Everything Is a Miracle | 染塵煙 |
 | char_201_moeshd@kfc#1 | 清晨七点 | - | - |
 | char_201_moeshd@summer#4 | 探寻者 SK03 | Seeker SK03 | シーカーSK03 |
+| char_2023_ling@ncg#1 | 崖高梦远 | - | - |
 | char_2023_ling@nian#9 | 濯缨 | It Does Wash the Strings | 濯冠纓 |
 | char_202_demkni@boc#1 | 坚城 | Stronghold | 堅城 |
 | char_202_demkni@test#1 | 铁律 | The Law | 鉄の掟 |
@@ -146,7 +148,7 @@ tip: 请善用浏览器的搜索功能
 | char_265_sophia@epoque#11 | 荣耀之紫 | Glory Purple | グローリーパープル |
 | char_271_spikes@winter#2 | 随性 | Casual | 気儘 |
 | char_272_strong@summer#6 | 沙滩护卫 GT002 | Beach Guard GT002 | 砂浜の番人GT002 |
-| char_274_astesi@epoque#23 | 奇工妙想 | - | - |
+| char_274_astesi@epoque#23 | 奇工妙想 | Fantastic Crafts | 奇装天外 |
 | char_274_astesi@epoque#5 | 寻耀 | Starseeker | 星尋ね |
 | char_274_astesi@shining#1 | 殿堂上的游禽 | Frlibe on the Palace | 翼広げしフレリーべ |
 | char_277_sqrrel@ghost#1 | 古堡清洁专家 | Cleansweeper in the Castle | 古城の掃除屋 |
@@ -174,7 +176,7 @@ tip: 请善用浏览器的搜索功能
 | char_328_cammou@witch#2 | 安息处的怪盗 | Grave Thief | 霊園の怪盗 |
 | char_332_archet@shining#1 | 宣传策略 | Publicity Strategy | PR戦略 |
 | char_333_sidero@summer#6 | 轻风 LB03 | Light Breeze LB03 | そよ風LB03 |
-| char_336_folivo@epoque#22 | 别枝 | - | - |
+| char_336_folivo@epoque#22 | 别枝 | Betsushi | 別枝 |
 | char_337_utage@epoque#15 | 伪装 | Disguise | 偽装 |
 | char_337_utage@summer#4 | 夏卉 FA661 | Summer Flowers FA661 | 夏の花弁FA661 |
 | char_338_iris@witch#3 | 镜中来访 | Mirror Visitor | 鏡からの来訪者 |
@@ -191,7 +193,7 @@ tip: 请善用浏览器的搜索功能
 | char_350_surtr@summer#9 | 缤纷奇境 CW03 | Colorful Wonderland CW03 | 極彩の楽園CW03 |
 | char_355_ethan@epoque#7 | 渗透 | Infiltrator | 同化 |
 | char_356_broca@marthe#4 | 组间休息 | Rest Between Sets | インターバル |
-| char_358_lisa@epoque#22 | 雪霁 | - | - |
+| char_358_lisa@epoque#22 | 雪霁 | Yukibare | 雪晴 |
 | char_358_lisa@lxh#1 | 春之颂 | Spring Praise | 春陽讃歌 |
 | char_358_lisa@wild#3 | 弃土花开 | Lostlands Flowering | 荒地に咲く花 |
 | char_362_saga@sale#9 | 彼有 | - | - |
@@ -204,7 +206,7 @@ tip: 请善用浏览器的搜索功能
 | char_377_gdglow@summer#12 | 夏卉 FA394 | - | - |
 | char_378_asbest@whirlwind#3 | 幽谷奏鸣 | Glen Sonata | グレンソナタ |
 | char_383_snsant@witch#2 | 天命勇者 | Fated Hero | 宿命の勇者 |
-| char_388_mint@epoque#22 | 月宵 | - | - |
+| char_388_mint@epoque#22 | 月宵 | Tsukiyoi | 月宵 |
 | char_391_rosmon@epoque#17 | 拥抱新生 | Become Anew | 始まりを抱く |
 | char_4000_jnight@boc#7 | 竞技之梦改装 | - | - |
 | char_4004_pudd@snow#5 | 火树灵 | Gleaming Fey | 煌めく精霊 |
@@ -213,12 +215,13 @@ tip: 请善用浏览器的搜索功能
 | char_4013_kjera@epoque#18 | 灵巧侍者 | Ingenious Servant | 腕利き侍女 |
 | char_4014_lunacu@yun#1 | 棠云巧梦 | - | - |
 | char_4016_kazema@witch#3 | 幻影轻悄 | Like Illusion | 軽やかな幻影 |
+| char_4019_ncdeer@ncdeer#1 | 古往今来的月 | - | - |
 | char_401_elysm@snow#2 | 雪夜回音 | Snowy Echo | 雪夜の思い出 |
 | char_401_elysm@summer#9 | 灿阳朝露 SDm11 | Shimmering Dew SDm11 | 炎陽煌く露SDm11 |
 | char_4025_aprot2@whirlwind#5 | 结果 | - | - |
 | char_402_tuye@epoque#14 | 培翠 | Cultivate Vegetation | 緑化 |
 | char_4032_provs@wild#7 | 秋高气爽 | High Autumn | 晴れ渡る秋空 |
-| char_4036_forcer@epoque#20 | 拾翼 | - | - |
+| char_4036_forcer@epoque#20 | 拾翼 | Paper Wing | 不確かな翼 |
 | char_4039_horn@epoque#24 | 化花 | - | - |
 | char_4040_rockr@lxh#1 | 欢唱之前 | Before Singing | 歌の前に |
 | char_4041_chnut@summer#12 | 悠然假日 HDm57 | - | - |
@@ -231,7 +234,8 @@ tip: 请善用浏览器的搜索功能
 | char_4055_bgsnow@wild#7 | 字句中的雪原 | Snowy Plains in Words | 行間にある雪原 |
 | char_4071_peper@whirlwind#5 | 来路 | - | - |
 | char_4072_ironmn@summer#11 | 沙滩护卫 GT003 | - | - |
-| char_4077_palico@mh#1 | 跃上街头 | - | - |
+| char_4077_palico@mh#1 | 跃上街头 | Fly Into the Street | 街へ飛び出せ |
+| char_4082_qiubai@ncg#1 | 霜林醉 | - | - |
 | char_411_tomimi@summer#5 | 静谧午夜 DN04 | Silent Night DN04 | 安息の午夜DN04 |
 | char_415_flint@boc#3 | 绚烂夏花 | Gorgeous Flower | 紫藤繚乱 |
 | char_416_zumama@boc#3 | 熔锻铸匠 | Forgemaster | 熔冶工匠 |
@@ -265,7 +269,7 @@ tip: 请善用浏览器的搜索功能
 | char_484_robrta@ambienceSynesthesia#3 | 待绘的作品 | - | - |
 | char_484_robrta@summer#10 | 夏卉 FA374 | Summer Flowers FA374 | 夏の花弁FA374 |
 | char_485_pallas@epoque#12 | 传承 | Heritage | 伝承 |
-| char_485_pallas@epoque#19 | 山川的酿造 | - | - |
+| char_485_pallas@epoque#19 | 山川的酿造 | A Drip of Orea and Potamous | 山川の醸造 |
 | char_486_takila@ambienceSynesthesia#2 | 开牌制胜 | Cardwinner | ショーダウン |
 | char_492_quercu@epoque#17 | 遥乡之径 | Distant Home's Guide | 故郷は遠く |
 | char_496_wildmn@epoque#16 | 正义缔造者 | Justice Maker | ジャスティスメーカー |

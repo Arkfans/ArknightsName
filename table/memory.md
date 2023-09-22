@@ -6,7 +6,7 @@ tip: 请善用浏览器的搜索功能
 | id | 中文 | English | 日文 |
 | --- | --- | --- | --- |
 | story_12fce_set_1_story_1 | 一些选择 | Certain Choices | ある選択 |
-| story_acdrop_set_1_story_1 | 一面墙 | - | - |
+| story_acdrop_set_1_story_1 | 一面墙 | The Face of a Wall | 壁 |
 | story_aglina_set_1_story_1 | 没写收件人的包裹 | 'Package with No Recipient' | 受取人のない荷物 |
 | story_aglina_set_1_story_2 | 没写收件人的包裹 | 'Package with No Recipient' | 受取人のない荷物 |
 | story_akafyu_set_1_story_1 | 异乡剑士 | - | - |
@@ -23,11 +23,11 @@ tip: 请善用浏览器的搜索功能
 | story_aurora_set_1_story_1 | 她所见 | What She Saw | 彼女の見たいもの |
 | story_ayer_set_1_story_1 | 黄沙觅迹 | - | - |
 | story_beewax_set_1_story_1 | 黄沙归途 | Trail of Sands | 黄砂の帰路 |
-| story_bgsnow_set_1_story_1 | 墨迹已落 | - | - |
+| story_bgsnow_set_1_story_1 | 墨迹已落 | Fallen Inktrails | インクの染み |
 | story_bibeak_set_1_story_1 | 破壳 | Shell Break | 殻を破る |
 | story_bibeak_set_2_story_1 | 走出那条长长的走廊 | Through the Long Hallway | 長い廊下を抜けて |
 | story_billro_set_1_story_1 | 保护者的本性 | Protector's Nature | 保護者の本能 |
-| story_bison_set_1_story_1 | 充实的假期 | - | - |
+| story_bison_set_1_story_1 | 充实的假期 | A Fulfilling Holiday | 充実した休み |
 | story_bldsk_set_1_story_1 | 怪物 | 'Monster' | モンスター |
 | story_bldsk_set_2_story_1 | 难得认真 | Rarely Serious | たまには真剣に |
 | story_blemsh_set_1_story_1 | 心甘情愿 | Ready to Serve | 望むままに |
@@ -35,7 +35,7 @@ tip: 请善用浏览器的搜索功能
 | story_bluep_set_1_story_1 | 触不可及 | Untouchable | 遥か遠く |
 | story_bpipe_set_1_story_1 | 难行长路 | Dangerous Road | 険しい道のり |
 | story_breeze_set_1_story_1 | 风暖寒林 | Breeze's Warmth, Chilled Forest | 林は寒く風は温か |
-| story_breeze_set_2_story_1 | 囚徒的幻梦 | - | - |
+| story_breeze_set_2_story_1 | 囚徒的幻梦 | Prisoner's Dream | 囚われ人のゆめ |
 | story_broca_set_1_story_1 | 信任的第一步 | The First Step Towards Trust | 信頼への第一歩 |
 | story_brownb_set_1_story_1 | 终场铃声 | Ending Bell | 決着のゴング |
 | story_bryota_set_1_story_1 | 风情街的日与夜 | - | - |
@@ -53,6 +53,7 @@ tip: 请善用浏览器的搜索功能
 | story_chiave_set_1_story_1 | 代表作 | Masterpiece | 代表作 |
 | story_chnut_set_1_story_1 | 黑色石头 | - | - |
 | story_chyue_set_1_story_1 | 昔我往矣 | Once Upon a Time, I Wandered Afar | 昔我往きて、君と携行す |
+| story_crow_set_1_story_1 | 坚韧的羽毛 | - | - |
 | story_ctable_set_1_story_1 | 飞进窗的羽兽 | - | - |
 | story_cutter_set_1_story_1 | 速食食品 | Meals, Ready-to-Eat | 携行食 |
 | story_deepcl_set_1_story_1 | 幽蓝怀想 | Azure Memories | 深き青の追想 |
@@ -66,11 +67,13 @@ tip: 请善用浏览器的搜索功能
 | story_erato_set_1_story_1 | 英雄们的叙事诗 | - | - |
 | story_estell_set_1_story_1 | 她的一小步 | One Small Step For Her | その小さな一歩 |
 | story_ethan_set_1_story_1 | 他乡故旧 | 'Old Friends in Foreign Places' | 異郷の旧友 |
+| story_excu2_set_1_story_1 | 蓝色 | - | - |
 | story_excu_set_1_story_1 | 送葬人 | - | - |
 | story_f12yin_set_1_story_1 | 意外的烦恼 | Unexpected Annoyance | 予想外の悩み |
 | story_f12yin_set_2_story_1 | 赴罪 | Sinner's Path | 罪へと赴く |
 | story_falco_set_1_story_1 | 远大理想 | A Grand, Distant Ideal | 遠大な理想 |
 | story_fang_set_1_story_1 | 二次冲锋 | Second Charge | 再チャレンジ |
+| story_finlpp_set_1_story_1 | 涓滴亦江流 | - | - |
 | story_firwhl_set_1_story_1 | 独行之人 | - | - |
 | story_flint_set_1_story_1 | 合格的战士 | Warrior's Due | 一人前の戦士 |
 | story_flower_set_1_story_1 | 改建计划 | 'Refurbishment Plans' | 改装計画 |
@@ -79,6 +82,7 @@ tip: 请善用浏览器的搜索功能
 | story_folivo_set_1_story_1 | 记录者 | Recorder | 記録者 |
 | story_forcer_set_1_story_1 | 出行计划 | - | - |
 | story_franka_set_1_story_1 | 往日的象征 | Symbols of the Past | 在りし日の象徴 |
+| story_franka_set_2_story_1 | 驻足 | - | - |
 | story_frncat_set_1_story_1 | 小点心 | Sweetheart | マイスウィーティ |
 | story_frostl_set_1_story_1 | 识字本 | - | - |
 | story_ghost2_set_1_story_1 | 自我 | Selfhood | 自分 |
@@ -94,7 +98,7 @@ tip: 请善用浏览器的搜索功能
 | story_greyy2_set_1_story_1 | 撰写光明 | Light, He Wrote | 綴られる光 |
 | story_greyy_set_1_story_1 | 过滤星星 | Filter Stars | 濾される星屑 |
 | story_gvial2_set_1_story_1 | 以酒精之名！ | In the Name of Alcohol! | アルコールの名のもとに！ |
-| story_haak_set_1_story_1 | 惊弓一夜 | A Night of Terror | 肝を冷やす夜　 |
+| story_haak_set_1_story_1 | 惊弓一夜 | A Night of Terror | 肝を冷やす夜 |
 | story_halo_set_1_story_1 | 实验进行中 | - | - |
 | story_hamoni_set_1_story_1 | 孤独的舞者 | Solitary Dancer | 孤独なダンサー |
 | story_hbisc2_set_1_story_1 | 无名之花 | Nameless Flower | 名もなき花 |
@@ -113,6 +117,7 @@ tip: 请善用浏览器的搜索功能
 | story_irene_set_1_story_1 | 灯火微明 | Lantern's Twilight | ほのかな灯り |
 | story_iris_set_1_story_1 | 糖果屋 | The Candy House | お菓子の家 |
 | story_jaksel_set_1_story_1 | 无价的勋章 | - | - |
+| story_jesca2_set_1_story_1 | 徽章 | - | - |
 | story_jesica_set_1_story_1 | 缓步前行 | The Slow Walk Ahead | ゆっくり進む者 |
 | story_kafka_set_1_story_1 | 许以秘密 | - | - |
 | story_kazema_set_1_story_1 | 应为必为 | - | - |
@@ -198,8 +203,8 @@ tip: 请善用浏览器的搜索功能
 | story_sleach_set_1_story_1 | 一双羽兽 | A Pair of Fowlbeasts | つがいの羽獣 |
 | story_sleach_set_2_story_1 | 鬓旁的花 | - | - |
 | story_snakek_set_1_story_1 | 夺包奇遇 | - | - |
-| story_snsant_set_1_story_1 | 数字问题 | - | - |
-| story_sophia_set_1_story_1 | 独家访谈 | - | - |
+| story_snsant_set_1_story_1 | 数字问题 | A Dilemma of Values | 数字の問題 |
+| story_sophia_set_1_story_1 | 独家访谈 | Exclusive Interview | 独占インタビュー |
 | story_sora_set_1_story_1 | 距离 | Distance | 距離 |
 | story_spot_set_1_story_1 | 谁是英雄 | Face of the Hero | 英雄とは |
 | story_sqrrel_set_1_story_1 | 小心火烛 | Careful of Flammables | 火の用心 |
@@ -217,7 +222,7 @@ tip: 请善用浏览器的搜索功能
 | story_therex_set_1_story_1 | 炙热冲击！ | Scorching-Hot Assault! | 灼熱のエネルギーショック！ |
 | story_thorns_set_1_story_1 | 纪念日 | Anniversary | 記念日 |
 | story_tiger_set_1_story_1 | 干员间切磋指南 | The Guide to Mutual Learning | 手合わせマニュアル |
-| story_tknogi_set_1_story_1 | 寻常夕阳 | - | - |
+| story_tknogi_set_1_story_1 | 寻常夕阳 | An Ordinary Sunset | いつもの夕日 |
 | story_toddi_set_1_story_1 | 装甲与重弩 | Armor and Crossbow | 装甲と重弩 |
 | story_tomimi_set_1_story_1 | 崭新生活 | Brand New Life | 新たな生活 |
 | story_totter_set_1_story_1 | 计划 | A Plan | 計画 |
@@ -225,7 +230,7 @@ tip: 请善用浏览器的搜索功能
 | story_utage_set_1_story_1 | 时髦把戏 | - | - |
 | story_vigil_set_1_story_1 | 未来将至 | Future Coming | 訪れる未来 |
 | story_vigna_set_1_story_1 | 该做的事 | What You've Gotta Do | すべきこと |
-| story_vodfox_set_1_story_1 | 无字诅咒 | - | - |
+| story_vodfox_set_1_story_1 | 无字诅咒 | A Curse Without Words | 文字なき呪い |
 | story_waaifu_set_1_story_1 | 武为何物 | What Martial Arts Serve | 武とは何ぞや |
 | story_weedy_set_1_story_1 | 同舟 | Together Aboard | 同舟 |
 | story_whispr_set_1_story_1 | 雨落之前 | Before the Rain | 雨降る前に |

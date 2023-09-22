@@ -148,6 +148,8 @@
     "zh_CN": "喧闹法则·复刻"
   },
   "act14login": {
+    "en_US": "Sign-in Campaign",
+    "ja_JP": "ログイン報酬",
     "zh_CN": "登录领取奖励"
   },
   "act14mini": {
@@ -225,6 +227,8 @@
     "zh_CN": "吾导先路"
   },
   "act16sre": {
+    "en_US": "Guide Ahead - Rerun",
+    "ja_JP": "吾れ先導者たらん・復刻",
     "zh_CN": "吾导先路·复刻"
   },
   "act17d0": {
@@ -330,6 +334,8 @@
     "zh_CN": "限时累计签到"
   },
   "act1flip": {
+    "en_US": "Surpriseful Supplications",
+    "ja_JP": "かんから祈り札",
     "zh_CN": "哗啦啦祈愿牌"
   },
   "act1float": {
@@ -343,9 +349,16 @@
     "zh_CN": "荷谟伊智境"
   },
   "act1mainbuff": {
+    "en_US": "Tactical Support",
+    "ja_JP": "作戦支援",
+    "zh_CN": "战备支援"
+  },
+  "act1mainlinebp": {
     "zh_CN": "战备支援"
   },
   "act1sandbox": {
+    "en_US": "Reclamation Algorithm - Fire Within the Sand",
+    "ja_JP": "生息演算：砂中の火",
     "zh_CN": "生息演算：沙中之火"
   },
   "act1signvs": {
@@ -353,6 +366,9 @@
   },
   "act1switch": {
     "zh_CN": "宿于繁星合作活动"
+  },
+  "act1unique": {
+    "zh_CN": "九色鹿签到复刻活动"
   },
   "act20side": {
     "en_US": "Ideal City: Endless Carnival",
@@ -398,6 +414,8 @@
     "zh_CN": "限时累计签到"
   },
   "act24side": {
+    "en_US": "A Flurry to the Flame",
+    "ja_JP": "紅炎遣らう落葉",
     "zh_CN": "落叶逐火"
   },
   "act24sign": {
@@ -428,6 +446,9 @@
     "en_US": "Limited-time Cumulative Sign-in",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
+  },
+  "act28side": {
+    "zh_CN": "不义之财"
   },
   "act28sign": {
     "en_US": "Limited-time Cumulative Sign-in",
@@ -463,6 +484,9 @@
     "en_US": "Dossoles Amazing Wall",
     "ja_JP": "ドッソレススクラッチ",
     "zh_CN": "双日城惊奇墙"
+  },
+  "act2switch": {
+    "zh_CN": "登览锦绣合作活动"
   },
   "act30sign": {
     "en_US": "Snow Upon Autumnal Winds Limited Login Event",

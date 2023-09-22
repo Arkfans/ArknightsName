@@ -671,9 +671,13 @@
     "zh_CN": "特勤专家寻访凭证"
   },
   "LINKAGE_TKT_GACHA_10_3601": {
+    "en_US": "Scouting the Light Headhunting Permit",
+    "ja_JP": "ハンター凱旋10回スカウト券",
     "zh_CN": "指引明路寻访凭证"
   },
   "LINKAGE_TKT_GACHA_10_3602": {
+    "en_US": "Collaboration Limited Ten-roll Headhunting Permit",
+    "ja_JP": "ハンター凱旋10回スカウト券",
     "zh_CN": "合作限定十连寻访凭证"
   },
   "LMTGS_COIN_1401": {
@@ -1067,7 +1071,12 @@
     "ja_JP": "競技メダル",
     "zh_CN": "赛事奖章"
   },
+  "act1mainlinebp_token_star": {
+    "zh_CN": "里程碑碎片"
+  },
   "act1sandbox_milestone_point": {
+    "en_US": "Badge of Prosperity",
+    "ja_JP": "繁栄の証",
     "zh_CN": "繁荣证章"
   },
   "act20side_token_book": {
@@ -1094,21 +1103,33 @@
     "zh_CN": "新酿烈刀子"
   },
   "act24side_melding_1": {
+    "en_US": "Bone Fragments",
+    "ja_JP": "欠けた骨",
     "zh_CN": "破碎的骨片"
   },
   "act24side_melding_2": {
+    "en_US": "Originium Slug Shell",
+    "ja_JP": "オリジムシの甲殻",
     "zh_CN": "源石虫的硬壳"
   },
   "act24side_melding_3": {
+    "en_US": "Sharp Oxmane Fangs",
+    "ja_JP": "山顎獣の鋭牙",
     "zh_CN": "鬣犄兽的尖锐齿"
   },
   "act24side_melding_4": {
+    "en_US": "Thick Direswine Hide",
+    "ja_JP": "猪突獣の厚皮",
     "zh_CN": "凶豕兽的厚实皮"
   },
   "act24side_melding_5": {
+    "en_US": "'Monster Tears'",
+    "ja_JP": "獣のナミダ",
     "zh_CN": "“兽之泪”"
   },
   "act24side_melding_6": {
+    "en_US": "Rathalos Ruby",
+    "ja_JP": "火竜の紅玉",
     "zh_CN": "火龙的红玉"
   },
   "act25side_token_fdrchips": {
@@ -1125,6 +1146,9 @@
   },
   "act27side_token_fur": {
     "zh_CN": "毛绒绒生物的毛"
+  },
+  "act28side_token_box": {
+    "zh_CN": "劣质燃料"
   },
   "act2bossrush_milestone_point": {
     "en_US": "Trial EXP",
@@ -1960,6 +1984,8 @@
     "zh_CN": "主播U的直播切片"
   },
   "itempack_gacha_1": {
+    "en_US": "Bounteous Fortunes Gift Bag",
+    "ja_JP": "幸運満タンパック",
     "zh_CN": "福运鼓鼓礼袋"
   },
   "itempack_mod_10": {
@@ -2142,6 +2168,8 @@
     "zh_CN": "缄默德克萨斯的信物"
   },
   "p_char_1029_yato2": {
+    "en_US": "Kirin R Yato's Token",
+    "ja_JP": "キリンRヤトウの印",
     "zh_CN": "麒麟R夜刀的信物"
   },
   "p_char_102_texas": {
@@ -2150,6 +2178,8 @@
     "zh_CN": "德克萨斯的信物"
   },
   "p_char_1030_noirc2": {
+    "en_US": "Rathalos S Noir Corne's Token",
+    "ja_JP": "レウスSノイルホーンの印",
     "zh_CN": "火龙S黑角的信物"
   },
   "p_char_1031_slent2": {
@@ -2160,6 +2190,9 @@
   },
   "p_char_1033_swire2": {
     "zh_CN": "琳琅诗怀雅的信物"
+  },
+  "p_char_1034_jesca2": {
+    "zh_CN": "涤火杰西卡的信物"
   },
   "p_char_103_angel": {
     "en_US": "Exusiai's Token",
@@ -3183,6 +3216,8 @@
     "zh_CN": "白铁的信物"
   },
   "p_char_4077_palico": {
+    "en_US": "Terra Research Commission's Token",
+    "ja_JP": "テラ大陸調査団の印",
     "zh_CN": "泰拉大陆调查团的信物"
   },
   "p_char_4078_bdhkgt": {
@@ -3213,6 +3248,12 @@
   },
   "p_char_4102_threye": {
     "zh_CN": "凛视的信物"
+  },
+  "p_char_4104_coldst": {
+    "zh_CN": "冰酿的信物"
+  },
+  "p_char_4105_almond": {
+    "zh_CN": "杏仁的信物"
   },
   "p_char_4106_bryota": {
     "zh_CN": "苍苔的信物"
@@ -3478,6 +3519,8 @@
     "zh_CN": "赝波行动物资补给"
   },
   "randomMaterialRune_12": {
+    "en_US": "Operation Base Point Supplies",
+    "ja_JP": "補給物資・「起源」",
     "zh_CN": "起源行动物资补给"
   },
   "randomMaterialRune_2": {
@@ -3557,6 +3600,9 @@
   },
   "randomMaterial_8": {
     "zh_CN": "罗德岛物资补给V"
+  },
+  "randomMaterial_9": {
+    "zh_CN": "罗德岛物资补给VI"
   },
   "randomMaterial_rhine2": {
     "zh_CN": "技术调查补给"
@@ -3968,6 +4014,9 @@
     "ja_JP": "画中人家具パック",
     "zh_CN": "画中人家具收藏包"
   },
+  "uni_set_kazimierz": {
+    "zh_CN": "长夜临光家具收藏包"
+  },
   "uni_set_nightView": {
     "en_US": "Twilight of Wolumonde Furniture Pack",
     "ja_JP": "ウォルモンドの薄暮家具パック",
@@ -4110,6 +4159,9 @@
     "en_US": "Tomimi's Personal Letter",
     "ja_JP": "トミミの手紙",
     "zh_CN": "特米米的私人信件"
+  },
+  "voucher_full_wildmn": {
+    "zh_CN": "野鬃的私人信件"
   },
   "voucher_full_zebra": {
     "zh_CN": "暴雨的私人信件"

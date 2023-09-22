@@ -95,6 +95,9 @@
     "ja_JP": "荒野潜行",
     "zh_CN": "野地秘行"
   },
+  "char_106_franka@ncg#1": {
+    "zh_CN": "林虹之间"
+  },
   "char_107_liskam@nian#2": {
     "en_US": "Spring Vouivre",
     "ja_JP": "春竜",
@@ -448,6 +451,9 @@
     "ja_JP": "シーカーSK03",
     "zh_CN": "探寻者 SK03"
   },
+  "char_2023_ling@ncg#1": {
+    "zh_CN": "崖高梦远"
+  },
   "char_2023_ling@nian#9": {
     "en_US": "It Does Wash the Strings",
     "ja_JP": "濯冠纓",
@@ -677,6 +683,8 @@
     "zh_CN": "沙滩护卫 GT002"
   },
   "char_274_astesi@epoque#23": {
+    "en_US": "Fantastic Crafts",
+    "ja_JP": "奇装天外",
     "zh_CN": "奇工妙想"
   },
   "char_274_astesi@epoque#5": {
@@ -809,6 +817,8 @@
     "zh_CN": "轻风 LB03"
   },
   "char_336_folivo@epoque#22": {
+    "en_US": "Betsushi",
+    "ja_JP": "別枝",
     "zh_CN": "别枝"
   },
   "char_337_utage@epoque#15": {
@@ -888,6 +898,8 @@
     "zh_CN": "组间休息"
   },
   "char_358_lisa@epoque#22": {
+    "en_US": "Yukibare",
+    "ja_JP": "雪晴",
     "zh_CN": "雪霁"
   },
   "char_358_lisa@lxh#1": {
@@ -947,6 +959,8 @@
     "zh_CN": "天命勇者"
   },
   "char_388_mint@epoque#22": {
+    "en_US": "Tsukiyoi",
+    "ja_JP": "月宵",
     "zh_CN": "月宵"
   },
   "char_391_rosmon@epoque#17": {
@@ -983,6 +997,9 @@
     "ja_JP": "軽やかな幻影",
     "zh_CN": "幻影轻悄"
   },
+  "char_4019_ncdeer@ncdeer#1": {
+    "zh_CN": "古往今来的月"
+  },
   "char_401_elysm@snow#2": {
     "en_US": "Snowy Echo",
     "ja_JP": "雪夜の思い出",
@@ -1007,6 +1024,8 @@
     "zh_CN": "秋高气爽"
   },
   "char_4036_forcer@epoque#20": {
+    "en_US": "Paper Wing",
+    "ja_JP": "不確かな翼",
     "zh_CN": "拾翼"
   },
   "char_4039_horn@epoque#24": {
@@ -1052,7 +1071,12 @@
     "zh_CN": "沙滩护卫 GT003"
   },
   "char_4077_palico@mh#1": {
+    "en_US": "Fly Into the Street",
+    "ja_JP": "街へ飛び出せ",
     "zh_CN": "跃上街头"
+  },
+  "char_4082_qiubai@ncg#1": {
+    "zh_CN": "霜林醉"
   },
   "char_411_tomimi@summer#5": {
     "en_US": "Silent Night DN04",
@@ -1214,6 +1238,8 @@
     "zh_CN": "传承"
   },
   "char_485_pallas@epoque#19": {
+    "en_US": "A Drip of Orea and Potamous",
+    "ja_JP": "山川の醸造",
     "zh_CN": "山川的酿造"
   },
   "char_486_takila@ambienceSynesthesia#2": {

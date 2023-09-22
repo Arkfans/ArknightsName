@@ -470,15 +470,23 @@
     "zh_CN": "沼泽控制"
   },
   "trap_099_mhflsb": {
+    "en_US": "Flash Grenade",
+    "ja_JP": "閃光爆弾",
     "zh_CN": "眩光手雷"
   },
   "trap_100_mhlbmb": {
+    "en_US": "High-Energy Originium Barrel Bomb",
+    "ja_JP": "源石タル爆弾",
     "zh_CN": "高能源石爆桶"
   },
   "trap_101_mhshok": {
+    "en_US": "High-Voltage Shock Trap",
+    "ja_JP": "高電圧シビレ罠",
     "zh_CN": "高压脉冲诡雷"
   },
   "trap_102_mhwrbg": {
+    "en_US": "Wiredrone",
+    "ja_JP": "滞空牽引ドローン",
     "zh_CN": "滞空牵引无人机"
   },
   "trap_103_ymdgct": {
@@ -492,6 +500,8 @@
     "zh_CN": "改性植物激素"
   },
   "trap_105_mhwrct": {
+    "en_US": "Wiredrone",
+    "ja_JP": "滞空牽引ドローン",
     "zh_CN": "滞空牵引无人机"
   },
   "trap_106_smtree": {
@@ -548,115 +558,192 @@
   "trap_123_stmbot": {
     "zh_CN": "水汽汽水瓶"
   },
+  "trap_124_eradio": {
+    "zh_CN": "废热喷口"
+  },
   "trap_400_xbfarm": {
+    "en_US": "Portable Planting Trough",
+    "ja_JP": "栽培ポット",
     "zh_CN": "便携式种植槽"
   },
   "trap_401_xbfato": {
+    "en_US": "Basic Gathering Hub",
+    "ja_JP": "採取ロボ用基地",
     "zh_CN": "采集实习站"
   },
   "trap_403_wfactory": {
+    "en_US": "Crabbie Pumpie",
+    "ja_JP": "カニカニポンプ",
     "zh_CN": "蟹蟹抽水泵"
   },
   "trap_404_xbfortress": {
+    "en_US": "Firm Platform",
+    "ja_JP": "堅牢な台",
     "zh_CN": "坚固筑台"
   },
   "trap_405_xbroadblock": {
+    "en_US": "Urban Style Barrier",
+    "ja_JP": "都市様式障壁",
     "zh_CN": "都市风壁障"
   },
   "trap_406_xboverwatch": {
+    "en_US": "Monitoring Tower",
+    "ja_JP": "監視塔",
     "zh_CN": "监控塔"
   },
   "trap_408_xbbase": {
+    "en_US": "Base",
+    "ja_JP": "基地",
     "zh_CN": "基地"
   },
   "trap_409_xbwood": {
+    "en_US": "Thickets",
+    "ja_JP": "雑木林",
     "zh_CN": "杂木林"
   },
   "trap_410_xbstone": {
+    "en_US": "Monoliths",
+    "ja_JP": "巨大な岩",
     "zh_CN": "巨大岩石"
   },
   "trap_411_xbiron": {
+    "en_US": "Strange Ore Vein",
+    "ja_JP": "レアな鉱脈",
     "zh_CN": "奇异矿脉"
   },
   "trap_412_redtower": {
+    "en_US": "Mobile Battle Tower",
+    "ja_JP": "可動式戦術塔",
     "zh_CN": "移动战塔"
   },
   "trap_413_hiddenstone": {
+    "en_US": "Historical Remains",
+    "ja_JP": "遺跡の残骸",
     "zh_CN": "遗迹残骸"
   },
   "trap_414_vegetation": {
+    "en_US": "Bush",
+    "ja_JP": "茂み",
     "zh_CN": "灌木丛"
   },
   "trap_415_trademan": {
+    "en_US": "Liaison",
+    "ja_JP": "連絡員",
     "zh_CN": "联络员"
   },
   "trap_416_gtreasure": {
+    "en_US": "Buried Metal Chest",
+    "ja_JP": "埋もれた金属の箱",
     "zh_CN": "埋没金属箱"
   },
   "trap_417_shielder": {
+    "en_US": "Remote Shield Generator",
+    "ja_JP": "シールドリモコン",
     "zh_CN": "护盾遥控器"
   },
   "trap_418_smokebomb": {
+    "en_US": "Hypnotic Censer",
+    "ja_JP": "安眠のお香",
     "zh_CN": "安眠迷香"
   },
   "trap_419_enhancer": {
+    "en_US": "Refreshing Potion",
+    "ja_JP": "覚醒の秘薬",
     "zh_CN": "醒神秘药"
   },
   "trap_420_umbrella": {
+    "en_US": "Camouflage Device",
+    "ja_JP": "隠密支援用マシン",
     "zh_CN": "反侦察藏匿机"
   },
   "trap_421_repairman": {
+    "en_US": "Emergency Repair Vehicle",
+    "ja_JP": "緊急修理車両",
     "zh_CN": "应急修理车"
   },
   "trap_422_streasure": {
+    "en_US": "Thorned Treasure Chest",
+    "ja_JP": "棘の生えた金属の箱",
     "zh_CN": "宝刺金属箱"
   },
   "trap_423_bondtw": {
+    "en_US": "Trap Net Launcher",
+    "ja_JP": "捕縛網発射台",
     "zh_CN": "缚网发射台"
   },
   "trap_424_pushtw": {
+    "en_US": "Gas Jet Thrower",
+    "ja_JP": "噴射式強制移動機",
     "zh_CN": "喷拒器"
   },
   "trap_425_xbwall": {
+    "en_US": "Fortification",
+    "ja_JP": "防御施設",
     "zh_CN": "防御工事"
   },
   "trap_426_xbmrcl": {
+    "en_US": "Modular Computing Station",
+    "ja_JP": "モジュラー演算所",
     "zh_CN": "模块演算设施"
   },
   "trap_427_xbprsh": {
+    "en_US": "Resource Planning Station",
+    "ja_JP": "資源計画所",
     "zh_CN": "资源规划站"
   },
   "trap_428_xblrsh": {
+    "en_US": "Combat Readiness Station",
+    "ja_JP": "戦闘計画所",
     "zh_CN": "备勤激活站"
   },
   "trap_429_xbescp": {
+    "en_US": "Transregional Communication Station",
+    "ja_JP": "越境通信所",
     "zh_CN": "跨地块通讯站"
   },
   "trap_430_wdescp": {
+    "en_US": "Escape Route",
+    "ja_JP": "脱出地点",
     "zh_CN": "逃脱点"
   },
   "trap_431_xbgldn": {
+    "en_US": "Mint",
+    "ja_JP": "金床",
     "zh_CN": "冶铸台"
   },
   "trap_432_oldisin": {
+    "en_US": "Old Isin",
+    "ja_JP": "イシン",
     "zh_CN": "老伊辛"
   },
   "trap_433_sandsdr": {
+    "en_US": "'Sand Soldier'",
+    "ja_JP": "「サンドソルジャー」",
     "zh_CN": "“沙卒”"
   },
   "trap_434_klmantc": {
+    "en_US": "Manticore Killer",
+    "ja_JP": "殺し屋のマンティコア",
     "zh_CN": "曼提柯杀手"
   },
   "trap_435_trsrhuntr": {
+    "en_US": "Treasure Hunter",
+    "ja_JP": "トレジャーハンター",
     "zh_CN": "寻宝人"
   },
   "trap_437_poachr": {
+    "en_US": "Veteran Hunter",
+    "ja_JP": "手練れのハンター",
     "zh_CN": "老练猎手"
   },
   "trap_438_xbfato2": {
+    "en_US": "Advanced Gathering Hub",
+    "ja_JP": "スーパー採取ロボ用基地",
     "zh_CN": "采集专员站"
   },
   "trap_439_xbfato3": {
+    "en_US": "Executive Gathering Hub",
+    "ja_JP": "ハイパー採取ロボ用基地",
     "zh_CN": "采集主任站"
   },
   "trap_700_cdabyss": {
