@@ -23,6 +23,7 @@ tip: 请善用浏览器的搜索功能
 | story_aurora_set_1_story_1 | 她所见 | What She Saw | 彼女の見たいもの |
 | story_ayer_set_1_story_1 | 黄沙觅迹 | - | - |
 | story_beewax_set_1_story_1 | 黄沙归途 | Trail of Sands | 黄砂の帰路 |
+| story_bena_set_1_story_1 | 简单的愿望 | - | - |
 | story_bgsnow_set_1_story_1 | 墨迹已落 | Fallen Inktrails | インクの染み |
 | story_bibeak_set_1_story_1 | 破壳 | Shell Break | 殻を破る |
 | story_bibeak_set_2_story_1 | 走出那条长长的走廊 | Through the Long Hallway | 長い廊下を抜けて |
@@ -53,9 +54,11 @@ tip: 请善用浏览器的搜索功能
 | story_chiave_set_1_story_1 | 代表作 | Masterpiece | 代表作 |
 | story_chnut_set_1_story_1 | 黑色石头 | - | - |
 | story_chyue_set_1_story_1 | 昔我往矣 | Once Upon a Time, I Wandered Afar | 昔我往きて、君と携行す |
+| story_clour_set_1_story_1 | 安身之处 | - | - |
 | story_crow_set_1_story_1 | 坚韧的羽毛 | - | - |
 | story_ctable_set_1_story_1 | 飞进窗的羽兽 | - | - |
 | story_cutter_set_1_story_1 | 速食食品 | Meals, Ready-to-Eat | 携行食 |
+| story_dagda_set_1_story_1 | 脚步不停 | - | - |
 | story_deepcl_set_1_story_1 | 幽蓝怀想 | Azure Memories | 深き青の追想 |
 | story_doroth_set_1_story_1 | 何处是我朋友的家 | - | - |
 | story_durin_set_1_story_1 | 午休时间 | Lunchtime Nap | お昼休み |

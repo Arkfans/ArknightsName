@@ -3994,5 +3994,17 @@
     "en_US": "'Consortium of Pincers'",
     "ja_JP": "「カニキング」",
     "zh_CN": "“钳钳生风”"
+  },
+  "enemy_8001_flmlod": {
+    "zh_CN": "熔戈者，护王余火"
+  },
+  "enemy_8001_flmlod_2": {
+    "zh_CN": "熔戈者，护王余火"
+  },
+  "enemy_8001_flmlod_3": {
+    "zh_CN": "熔戈者，护王余火"
+  },
+  "enemy_8006_flmgd": {
+    "zh_CN": "再铸扈从"
   }
 }

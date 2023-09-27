@@ -4963,6 +4963,12 @@
       "zh_CN": "威塞克斯的信件"
     }
   },
+  "char_209_ardign@epoque#26": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "晴日"
+    }
+  },
   "char_209_ardign@snow#1": {
     "type": "SKIN",
     "names": {
@@ -12939,6 +12945,30 @@
       "zh_CN": "“钳钳生风”"
     }
   },
+  "enemy_8001_flmlod": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "熔戈者，护王余火"
+    }
+  },
+  "enemy_8001_flmlod_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "熔戈者，护王余火"
+    }
+  },
+  "enemy_8001_flmlod_3": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "熔戈者，护王余火"
+    }
+  },
+  "enemy_8006_flmgd": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "再铸扈从"
+    }
+  },
   "0D5act": {
     "type": "ACTIVITY",
     "names": {
@@ -13363,6 +13393,12 @@
       "zh_CN": "愚人节活动"
     }
   },
+  "act17login": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "《明日方舟：冬隐归路》开播庆祝活动"
+    }
+  },
   "act17side": {
     "type": "ACTIVITY",
     "names": {
@@ -13781,6 +13817,12 @@
       "zh_CN": "限时累计签到"
     }
   },
+  "act35sign": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "清光邀月——月饼烘焙小教程"
+    }
+  },
   "act38d1": {
     "type": "ACTIVITY",
     "names": {
@@ -13839,6 +13881,12 @@
       "en_US": "Lungmen Lucky Strips",
       "ja_JP": "龍門おみくじ",
       "zh_CN": "龙门幸运墙登录活动"
+    }
+  },
+  "act42d0": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "纷争演绎"
     }
   },
   "act4d0": {
@@ -16375,6 +16423,12 @@
       "zh_CN": "数据黑盒"
     }
   },
+  "act42d0_token_evaluation": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "试验数据集"
+    }
+  },
   "act4d0_intelligencepoint": {
     "type": "ITEM",
     "names": {
@@ -16729,6 +16783,30 @@
       "en_US": "Osmanthus",
       "ja_JP": "天香桂花",
       "zh_CN": "桂子落"
+    }
+  },
+  "ap_supply_lt_120_2023_1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "“满庭光”"
+    }
+  },
+  "ap_supply_lt_120_2023_2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "“良宵晴”"
+    }
+  },
+  "ap_supply_lt_120_2023_3": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "“飘桂香”"
+    }
+  },
+  "ap_supply_lt_120_2023_4": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "“藏金波“"
     }
   },
   "ap_supply_lt_60": {
@@ -38846,6 +38924,12 @@
       "zh_CN": "黄沙归途"
     }
   },
+  "story_bena_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "简单的愿望"
+    }
+  },
   "story_bgsnow_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -39080,6 +39164,12 @@
       "zh_CN": "昔我往矣"
     }
   },
+  "story_clour_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "安身之处"
+    }
+  },
   "story_crow_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -39098,6 +39188,12 @@
       "en_US": "Meals, Ready-to-Eat",
       "ja_JP": "携行食",
       "zh_CN": "速食食品"
+    }
+  },
+  "story_dagda_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "脚步不停"
     }
   },
   "story_deepcl_set_1_story_1": {

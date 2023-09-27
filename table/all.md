@@ -646,6 +646,7 @@ tip: 请善用浏览器的搜索功能
 | char_204_platnm@summer#3 | 灿阳朝露 SD05 | Shimmering Dew SD05 | 炎陽煌く露SD05 |
 | char_206_gnosis@boc#4 | 先驱 | Forerunner | 先駆 |
 | char_208_melan@epoque#1 | 威塞克斯的信件 | Letters from Wessex | ウェセックスレター |
+| char_209_ardign@epoque#26 | 晴日 | - | - |
 | char_209_ardign@snow#1 | 快乐卫士 | Cheerful Guardian | ハッピーナイト |
 | char_210_stward@sale#6 | 风雪邀请 | Snowstorm Invitation | 風雪のいざない |
 | char_211_adnach@sale#5 | 无痕行者 | Traceless Walker | 足跡なき使者 |
@@ -1679,6 +1680,10 @@ tip: 请善用浏览器的搜索功能
 | enemy_7013_slwazd | “召毁者” | 'The Ruinbringer' | 「破滅を呼ぶ者」 |
 | enemy_7014_dva | “搭档” | 'Al-Rafiq' | 「バディ」 |
 | enemy_7015_xbcrab2 | “钳钳生风” | 'Consortium of Pincers' | 「カニキング」 |
+| enemy_8001_flmlod | 熔戈者，护王余火 | - | - |
+| enemy_8001_flmlod_2 | 熔戈者，护王余火 | - | - |
+| enemy_8001_flmlod_3 | 熔戈者，护王余火 | - | - |
+| enemy_8006_flmgd | 再铸扈从 | - | - |
 | 0D5act | 限时任务 | Limited-time Mission | 期間限定任務 |
 | 1stact | 赏金猎人金币 | Bounty Coin | ラッキーコイン |
 | act10d5 | 乌萨斯的孩子们 | Children of Ursus | ウルサスの子供たち |
@@ -1733,6 +1738,7 @@ tip: 请善用浏览器的搜索功能
 | act17d1 | 罗德岛防御协议 | Defense Protocols | ロドス防衛協定 |
 | act17d5 | 生于黑夜·复刻 | Darknights Memoir - Rerun | 闇夜に生きる・復刻 |
 | act17d7 | 愚人节活动 | April Fools' Day Event | エイプリルフール |
+| act17login | 《明日方舟：冬隐归路》开播庆祝活动 | - | - |
 | act17side | 愚人号 | Stultifera Navis | 狂人号 |
 | act17sre | 愚人号·复刻 | - | - |
 | act18d0 | 遗尘漫步 | A Walk in the Dust | 遺塵の道を |
@@ -1789,6 +1795,7 @@ tip: 请善用浏览器的搜索功能
 | act32sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act33sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act34sign | 限时累计签到 | - | - |
+| act35sign | 清光邀月——月饼烘焙小教程 | - | - |
 | act38d1 | 尖灭测试作战 | - | - |
 | act3bossrush | 引航者试炼 | - | - |
 | act3d0 | 火蓝之心 | Heart of Surging Flame | 青く燃ゆる心 |
@@ -1797,6 +1804,7 @@ tip: 请善用浏览器的搜索功能
 | act3fun | 愚人节活动 | April Fools' Day Event | エイプリルフール |
 | act3mine | 葫芦谷矿区登录活动 | Gourd Valley Mining Area Login Event | ゴードバレー採鉱区 |
 | act3pray | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |
+| act42d0 | 纷争演绎 | - | - |
 | act4d0 | 战地秘闻 | Operational Intelligence | 戦地の逸話 |
 | act4d2 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act4d5 | 限时积分任务 | - | - |
@@ -2122,6 +2130,7 @@ tip: 请善用浏览器的搜索功能
 | act3bossrush_relic_03 | 经验习得 | - | - |
 | act3bossrush_relic_04 | 过热运转 | - | - |
 | act3bossrush_token_relic | 数据黑盒 | - | - |
+| act42d0_token_evaluation | 试验数据集 | - | - |
 | act4d0_intelligencepoint | 有效情报值 | Valid Intelligence Unit | 情報データ |
 | act4d5_point_kfc | KFC积分 | - | - |
 | act5d0_point_medal | 终极企鹅勋章 | Top Tier Penguin Medal | ウルトラPG勲章 |
@@ -2167,6 +2176,10 @@ tip: 请善用浏览器的搜索功能
 | ap_supply_lt_120_2022_2 | 正圆月 | Full Moon | 仲秋名月 |
 | ap_supply_lt_120_2022_3 | 笑靥开 | Smiley Face | 喜色満面 |
 | ap_supply_lt_120_2022_4 | 桂子落 | Osmanthus | 天香桂花 |
+| ap_supply_lt_120_2023_1 | “满庭光” | - | - |
+| ap_supply_lt_120_2023_2 | “良宵晴” | - | - |
+| ap_supply_lt_120_2023_3 | “飘桂香” | - | - |
+| ap_supply_lt_120_2023_4 | “藏金波“ | - | - |
 | ap_supply_lt_60 | 应急理智合剂 | Emergency Sanity Potion | 初級理性回復剤 |
 | ap_supply_lt_80 | 应急理智加强剂 | Emergency Sanity Booster | 初級理性回復剤+ |
 | base_ap | 无人机 | Drone | ドローン |
@@ -5072,6 +5085,7 @@ tip: 请善用浏览器的搜索功能
 | story_aurora_set_1_story_1 | 她所见 | What She Saw | 彼女の見たいもの |
 | story_ayer_set_1_story_1 | 黄沙觅迹 | - | - |
 | story_beewax_set_1_story_1 | 黄沙归途 | Trail of Sands | 黄砂の帰路 |
+| story_bena_set_1_story_1 | 简单的愿望 | - | - |
 | story_bgsnow_set_1_story_1 | 墨迹已落 | Fallen Inktrails | インクの染み |
 | story_bibeak_set_1_story_1 | 破壳 | Shell Break | 殻を破る |
 | story_bibeak_set_2_story_1 | 走出那条长长的走廊 | Through the Long Hallway | 長い廊下を抜けて |
@@ -5102,9 +5116,11 @@ tip: 请善用浏览器的搜索功能
 | story_chiave_set_1_story_1 | 代表作 | Masterpiece | 代表作 |
 | story_chnut_set_1_story_1 | 黑色石头 | - | - |
 | story_chyue_set_1_story_1 | 昔我往矣 | Once Upon a Time, I Wandered Afar | 昔我往きて、君と携行す |
+| story_clour_set_1_story_1 | 安身之处 | - | - |
 | story_crow_set_1_story_1 | 坚韧的羽毛 | - | - |
 | story_ctable_set_1_story_1 | 飞进窗的羽兽 | - | - |
 | story_cutter_set_1_story_1 | 速食食品 | Meals, Ready-to-Eat | 携行食 |
+| story_dagda_set_1_story_1 | 脚步不停 | - | - |
 | story_deepcl_set_1_story_1 | 幽蓝怀想 | Azure Memories | 深き青の追想 |
 | story_doroth_set_1_story_1 | 何处是我朋友的家 | - | - |
 | story_durin_set_1_story_1 | 午休时间 | Lunchtime Nap | お昼休み |

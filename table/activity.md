@@ -59,6 +59,7 @@ tip: 请善用浏览器的搜索功能
 | act17d1 | 罗德岛防御协议 | Defense Protocols | ロドス防衛協定 |
 | act17d5 | 生于黑夜·复刻 | Darknights Memoir - Rerun | 闇夜に生きる・復刻 |
 | act17d7 | 愚人节活动 | April Fools' Day Event | エイプリルフール |
+| act17login | 《明日方舟：冬隐归路》开播庆祝活动 | - | - |
 | act17side | 愚人号 | Stultifera Navis | 狂人号 |
 | act17sre | 愚人号·复刻 | - | - |
 | act18d0 | 遗尘漫步 | A Walk in the Dust | 遺塵の道を |
@@ -115,6 +116,7 @@ tip: 请善用浏览器的搜索功能
 | act32sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act33sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act34sign | 限时累计签到 | - | - |
+| act35sign | 清光邀月——月饼烘焙小教程 | - | - |
 | act38d1 | 尖灭测试作战 | - | - |
 | act3bossrush | 引航者试炼 | - | - |
 | act3d0 | 火蓝之心 | Heart of Surging Flame | 青く燃ゆる心 |
@@ -123,6 +125,7 @@ tip: 请善用浏览器的搜索功能
 | act3fun | 愚人节活动 | April Fools' Day Event | エイプリルフール |
 | act3mine | 葫芦谷矿区登录活动 | Gourd Valley Mining Area Login Event | ゴードバレー採鉱区 |
 | act3pray | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |
+| act42d0 | 纷争演绎 | - | - |
 | act4d0 | 战地秘闻 | Operational Intelligence | 戦地の逸話 |
 | act4d2 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act4d5 | 限时积分任务 | - | - |

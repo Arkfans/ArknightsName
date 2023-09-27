@@ -261,6 +261,9 @@
     "ja_JP": "エイプリルフール",
     "zh_CN": "愚人节活动"
   },
+  "act17login": {
+    "zh_CN": "《明日方舟：冬隐归路》开播庆祝活动"
+  },
   "act17side": {
     "en_US": "Stultifera Navis",
     "ja_JP": "狂人号",
@@ -511,6 +514,9 @@
   "act34sign": {
     "zh_CN": "限时累计签到"
   },
+  "act35sign": {
+    "zh_CN": "清光邀月——月饼烘焙小教程"
+  },
   "act38d1": {
     "zh_CN": "尖灭测试作战"
   },
@@ -546,6 +552,9 @@
     "en_US": "Lungmen Lucky Strips",
     "ja_JP": "龍門おみくじ",
     "zh_CN": "龙门幸运墙登录活动"
+  },
+  "act42d0": {
+    "zh_CN": "纷争演绎"
   },
   "act4d0": {
     "en_US": "Operational Intelligence",

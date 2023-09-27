@@ -851,3 +851,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_7013_slwazd | “召毁者” | 'The Ruinbringer' | 「破滅を呼ぶ者」 |
 | enemy_7014_dva | “搭档” | 'Al-Rafiq' | 「バディ」 |
 | enemy_7015_xbcrab2 | “钳钳生风” | 'Consortium of Pincers' | 「カニキング」 |
+| enemy_8001_flmlod | 熔戈者，护王余火 | - | - |
+| enemy_8001_flmlod_2 | 熔戈者，护王余火 | - | - |
+| enemy_8001_flmlod_3 | 熔戈者，护王余火 | - | - |
+| enemy_8006_flmgd | 再铸扈从 | - | - |

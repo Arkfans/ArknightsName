@@ -85,6 +85,9 @@
     "ja_JP": "黄砂の帰路",
     "zh_CN": "黄沙归途"
   },
+  "story_bena_set_1_story_1": {
+    "zh_CN": "简单的愿望"
+  },
   "story_bgsnow_set_1_story_1": {
     "en_US": "Fallen Inktrails",
     "ja_JP": "インクの染み",
@@ -229,6 +232,9 @@
     "ja_JP": "昔我往きて、君と携行す",
     "zh_CN": "昔我往矣"
   },
+  "story_clour_set_1_story_1": {
+    "zh_CN": "安身之处"
+  },
   "story_crow_set_1_story_1": {
     "zh_CN": "坚韧的羽毛"
   },
@@ -239,6 +245,9 @@
     "en_US": "Meals, Ready-to-Eat",
     "ja_JP": "携行食",
     "zh_CN": "速食食品"
+  },
+  "story_dagda_set_1_story_1": {
+    "zh_CN": "脚步不停"
   },
   "story_deepcl_set_1_story_1": {
     "en_US": "Azure Memories",

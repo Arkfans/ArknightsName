@@ -83,7 +83,9 @@ tip: 请善用浏览器的搜索功能
 |   |   |   | 雑草が生い茂る山の斜面に、一本の古木がポツンと立っている。 |
 | avg_183_skgoat_1 | 地灵 | Earthspirit | アーススピリット |
 | avg_185_frncat_1 | 慕斯 | Mousse | ムース |
+| avg_190_clour_1 | 红云 | - | - |
 | avg_192_falco_1 | 翎羽 | Plume | プリュム |
+| avg_193_frostl_1 | 霜叶 | - | - |
 | avg_198_blackd_1 | 讯使 | Courier | ヴァイス |
 |   | 魏斯 | Weiss |   |
 | avg_199_yak_1 | 角峰 | Matterhorn | マッターホルン |
@@ -147,6 +149,8 @@ tip: 请善用浏览器的搜索功能
 | avg_362_saga_1 | 嵯峨 | Saga | サガ |
 | avg_363_toddi_1 | 熔泉 | Toddifons | トギフォンス |
 | avg_365_aprl_1 | 爱尔莉 | Aerlie | エルリー |
+| avg_369_bena_1 | 贝娜 | - | - |
+|   | ？？ |   |   |
 | avg_377_gdglow_1 | 澄闪 | Goldenglow | ゴールデングロー |
 |   | 苏茜 | Susie | スージー |
 | avg_378_asbest_1 | 石棉 | Asbestos | アスベストス |
@@ -940,10 +944,11 @@ tip: 请善用浏览器的搜索功能
 |   | 老汉 | Old Man | 信心深い信徒 |
 |   | 虔诚的信徒 |   |   |
 | avg_npc_093 | 乌萨斯平民 | Old Granny | おばあさん |
-|   | 老奶奶 | Old Lady | ウルサス市民 |
-|   | 老妇 | Old Woman | ルーバ |
-|   | 老妇人 | Ursus Civilian | 老婦人 |
-|   | 路过的老妇人 |   | 通りすがりの老婦 |
+|   | 奶奶 | Old Lady | ウルサス市民 |
+|   | 老奶奶 | Old Woman | ルーバ |
+|   | 老妇 | Ursus Civilian | 老婦人 |
+|   | 老妇人 |   | 通りすがりの老婦 |
+|   | 路过的老妇人 |   |   |
 | avg_npc_094 | 感染者 | An Infected Refugee | 感染者 |
 |   | 感染者难民 | Infected | 感染者難民 |
 |   | 胆小的居民 |   |   |
@@ -1888,19 +1893,20 @@ tip: 请善用浏览器的搜索功能
 |   | 施耐德 | Emotional Infected | 几帳面な教師 |
 |   | 激动的感染者 | Hardware Shop Owner | 商店の店主 |
 |   | 热情的感染者 | Neurotic Infected | 情熱的な感染者 |
-|   | 神经质的感染者 | Passionate Infected | 横暴な感染者 |
-|   | 蛮横的感染者 | Rude Infected | 無気力な感染者 |
-|   | 迟疑的感染者 | Rule-Abiding Instructor | 神経質な感染者 |
-|   | 醉酒的感染者 | Schneider | 興奮する感染者 |
-|   | 颓废的感染者 | Skittish Infected | 酔っぱらった感染者 |
+|   | 爸爸 | Passionate Infected | 横暴な感染者 |
+|   | 神经质的感染者 | Rude Infected | 無気力な感染者 |
+|   | 蛮横的感染者 | Rule-Abiding Instructor | 神経質な感染者 |
+|   | 迟疑的感染者 | Schneider | 興奮する感染者 |
+|   | 醉酒的感染者 | Skittish Infected | 酔っぱらった感染者 |
+|   | 颓废的感染者 |   |   |
 | avg_npc_499_1 | 佩里太太 | Excited Afterglow Resident | バッハマンの娘 |
 |   | 兴奋的夕照区居民 | Frau Perry | ペリー夫人 |
-|   | 小店老板 | Leithanian Woman | リターニアの女性 |
-|   | 巴赫曼小姐 | Miss Bachmann | 気さくな店主 |
-|   | 疲惫的感染者 | Passerby Infected | 疲れ切った感染者 |
-|   | 莱塔尼亚女性 | Shopkeeper | 興奮するアフターグロー区住民 |
-|   | 路过的感染者 | Worn-out Infected | 興奮する住民 |
-|   |   |   | 通りすがりの感染者 |
+|   | 妈妈 | Leithanian Woman | リターニアの女性 |
+|   | 小店老板 | Miss Bachmann | 気さくな店主 |
+|   | 巴赫曼小姐 | Passerby Infected | 疲れ切った感染者 |
+|   | 疲惫的感染者 | Shopkeeper | 興奮するアフターグロー区住民 |
+|   | 莱塔尼亚女性 | Worn-out Infected | 興奮する住民 |
+|   | 路过的感染者 |   | 通りすがりの感染者 |
 | avg_npc_501_1 | 医疗干员 | Andante | アンダンテ |
 |   | 医疗部干员 | Rhodes Island Operator | オペレーター姿の女性 |
 |   | 干员装束的女性 | Woman in Operator Attire | ロドスオペレーター |
@@ -2364,8 +2370,10 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_970_1 | 工程干员 | - | - |
 |   | 工程部实习干员 |   |   |
 | avg_npc_972_1 | 人事部干员 | - | - |
+|   | 后勤干员 |   |   |
 |   | 罗德岛驻舰干员A |   |   |
 | avg_npc_973_1 | 后勤干员 | - | - |
+|   | 实习干员 |   |   |
 |   | 罗德岛驻舰干员B |   |   |
 | avg_npc_989_1 | 阿黛尔 | - | - |
 | avg_npc_990_1 | 拜松 | - | - |
