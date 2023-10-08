@@ -125,6 +125,9 @@ tip: 请善用浏览器的搜索功能
 | trap_122_stmpq | 景观喷泉 | - | - |
 | trap_123_stmbot | 水汽汽水瓶 | - | - |
 | trap_124_eradio | 废热喷口 | - | - |
+| trap_125_bonore | 唤血祭坛 | - | - |
+| trap_126_outset | 炸弹载荷点 | - | - |
+| trap_127_bldore | 沥血王座 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |
 | trap_401_xbfato | 采集实习站 | Basic Gathering Hub | 採取ロボ用基地 |
 | trap_403_wfactory | 蟹蟹抽水泵 | Crabbie Pumpie | カニカニポンプ |

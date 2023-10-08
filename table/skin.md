@@ -167,6 +167,7 @@ tip: 请善用浏览器的搜索功能
 | char_294_ayer@boc#3 | 受验者 | Tested One | 潜入者 |
 | char_297_hamoni@epoque#24 | 邀约 | - | - |
 | char_298_susuro@summer#6 | 夏卉 FA026 | Summer Flower FA026 | 夏の花弁FA026 |
+| char_300_phenxi@witch#4 | 至圣誓言 | - | - |
 | char_302_glaze@summer#11 | 悠然假日 HD29 | - | - |
 | char_304_zebra@wild#6 | 幽苔 | Tranquil Moss | 幽谷の緑苔 |
 | char_308_swire@nian#2 | 富贵荣华 | Honor and Splendor | 富貴栄華 |
@@ -231,6 +232,7 @@ tip: 请善用浏览器的搜索功能
 | char_4045_heidi@epoque#24 | 书信零落 | - | - |
 | char_4046_ebnhlz@boc#6 | 变奏 | - | - |
 | char_4047_pianst@wild#8 | 荒野寻音 | - | - |
+| char_4048_doroth@witch#4 | 命运主宰 | - | - |
 | char_4054_malist@summer#14 | 悠然假日 HDm74 | - | - |
 | char_4055_bgsnow@wild#7 | 字句中的雪原 | Snowy Plains in Words | 行間にある雪原 |
 | char_4071_peper@whirlwind#5 | 来路 | - | - |
@@ -248,6 +250,7 @@ tip: 请善用浏览器的搜索功能
 | char_426_billro@summer#8 | 灿阳朝露 SD08 | Shimmering Dew SD08 | 炎陽煌く露SD08 |
 | char_430_fartth@whirlwind#5 | 捉风 | - | - |
 | char_436_whispr@nian#4 | 孤寒峭 | Tremble Cold | 孤料峭 |
+| char_436_whispr@witch#4 | 幽邃隐修 | - | - |
 | char_437_mizuki@sale#7 | 夏日餮宴 | Summer Feast | 真夏の饗宴 |
 | char_440_pinecn@shining#1 | 倾声歌唱 | Sing a Song | 歌声よ届け |
 | char_449_glider@epoque#17 | 荒野之后 | Wildness Behind | 荒野のあとに |
@@ -273,5 +276,6 @@ tip: 请善用浏览器的搜索功能
 | char_485_pallas@epoque#19 | 山川的酿造 | A Drip of Orea and Potamous | 山川の醸造 |
 | char_486_takila@ambienceSynesthesia#2 | 开牌制胜 | Cardwinner | ショーダウン |
 | char_492_quercu@epoque#17 | 遥乡之径 | Distant Home's Guide | 故郷は遠く |
+| char_492_quercu@witch#4 | 树影吟游 | - | - |
 | char_496_wildmn@epoque#16 | 正义缔造者 | Justice Maker | ジャスティスメーカー |
 | char_497_ctable@nian#9 | 灯如昼 | Illumination That of Daylights | 灯如昼 |

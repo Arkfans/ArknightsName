@@ -10,6 +10,7 @@ tip: 请善用浏览器的搜索功能
 | story_aglina_set_1_story_1 | 没写收件人的包裹 | 'Package with No Recipient' | 受取人のない荷物 |
 | story_aglina_set_1_story_2 | 没写收件人的包裹 | 'Package with No Recipient' | 受取人のない荷物 |
 | story_akafyu_set_1_story_1 | 异乡剑士 | - | - |
+| story_almond_set_1_story_1 | 远航 | - | - |
 | story_amgoat_set_1_story_1 | 学者之心 | Heart of a Scholar | 学者の心 |
 | story_amgoat_set_2_story_1 | 火山 | Volcano | 火山 |
 | story_angel_set_1_story_1 | 来信 | Incoming Mail | 届いた手紙 |
@@ -72,6 +73,7 @@ tip: 请善用浏览器的搜索功能
 | story_ethan_set_1_story_1 | 他乡故旧 | 'Old Friends in Foreign Places' | 異郷の旧友 |
 | story_excu2_set_1_story_1 | 蓝色 | - | - |
 | story_excu_set_1_story_1 | 送葬人 | - | - |
+| story_excu_set_2_story_1 | 敌人 | - | - |
 | story_f12yin_set_1_story_1 | 意外的烦恼 | Unexpected Annoyance | 予想外の悩み |
 | story_f12yin_set_2_story_1 | 赴罪 | Sinner's Path | 罪へと赴く |
 | story_falco_set_1_story_1 | 远大理想 | A Grand, Distant Ideal | 遠大な理想 |
@@ -107,6 +109,7 @@ tip: 请善用浏览器的搜索功能
 | story_hbisc2_set_1_story_1 | 无名之花 | Nameless Flower | 名もなき花 |
 | story_headbr_set_1_story_1 | 强中自有强中手 | Strong Meets Stronger | 強さに果てはなし |
 | story_headbr_set_2_story_1 | 在冬夜里燃烧 | - | - |
+| story_heidi_set_1_story_1 | 第一封信 | - | - |
 | story_helage_set_1_story_1 | 命途 | Fate | 命の行方 |
 | story_hibisc_set_1_story_1 | 良方 | - | - |
 | story_hmau_set_1_story_1 | 南墙 | South Wall | 壊れない壁 |
@@ -190,6 +193,7 @@ tip: 请善用浏览器的搜索功能
 | story_savage_set_2_story_1 | 自有一“派” | No Less Than a Pie | パイはいかが？ |
 | story_savage_set_2_story_2 | 自有一“派” | No Less Than a Pie | パイはいかが？ |
 | story_scave_set_1_story_1 | 硬币的意志 | The Will of a Coin | コインの意志 |
+| story_sddrag_set_1_story_1 | 芦苇之心 | - | - |
 | story_serum_set_1_story_1 | 蚀清的工牌 | Corroserum's Badge | コロセラムのIDカード |
 | story_sesa_set_1_story_1 | 致命诱惑 | - | - |
 | story_shotst_set_1_story_1 | 滚烫旧忆 | Scalding Old Memories | 熱傷の記憶 |

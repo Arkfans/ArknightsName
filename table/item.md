@@ -73,6 +73,10 @@ tip: 请善用浏览器的搜索功能
 | 31054 | 切削原液 | Cutting Fluid Solution | 上級切削液 |
 | 31063 | 转质盐组 | Transmuted Salt | 転化塩 |
 | 31064 | 转质盐聚块 | Transmuted Salt Agglomerate | 上級転化塩 |
+| 31073 | 褐素纤维 | - | - |
+| 31074 | 固化纤维板 | - | - |
+| 31083 | 环烃聚质 | - | - |
+| 31084 | 环烃预制体 | - | - |
 | 3112 | 碳 | Carbon Stick | 初級炭素材 |
 | 3113 | 碳素 | Carbon Brick | 中級炭素材 |
 | 3114 | 碳素组 | Carbon Pack | 上級炭素材 |
@@ -304,7 +308,7 @@ tip: 请善用浏览器的搜索功能
 | ap_supply_lt_120_2023_1 | “满庭光” | - | - |
 | ap_supply_lt_120_2023_2 | “良宵晴” | - | - |
 | ap_supply_lt_120_2023_3 | “飘桂香” | - | - |
-| ap_supply_lt_120_2023_4 | “藏金波“ | - | - |
+| ap_supply_lt_120_2023_4 | “藏金波” | - | - |
 | ap_supply_lt_60 | 应急理智合剂 | Emergency Sanity Potion | 初級理性回復剤 |
 | ap_supply_lt_80 | 应急理智加强剂 | Emergency Sanity Booster | 初級理性回復剤+ |
 | base_ap | 无人机 | Drone | ドローン |
@@ -726,11 +730,14 @@ tip: 请善用浏览器的搜索功能
 | p_char_4082_qiubai | 仇白的信物 | Qiubai's Token | チューバイの印 |
 | p_char_4083_chimes | 铎铃的信物 | Wind Chimes's Token | ウィンドチャイムの印 |
 | p_char_4087_ines | 伊内丝的信物 | - | - |
+| p_char_4088_hodrer | 赫德雷的信物 | - | - |
 | p_char_4093_frston | Friston-3的信物 | - | - |
 | p_char_4102_threye | 凛视的信物 | - | - |
 | p_char_4104_coldst | 冰酿的信物 | - | - |
 | p_char_4105_almond | 杏仁的信物 | - | - |
 | p_char_4106_bryota | 苍苔的信物 | - | - |
+| p_char_4107_vrdant | 维荻的信物 | - | - |
+| p_char_4110_delphn | 戴菲恩的信物 | - | - |
 | p_char_411_tomimi | 特米米的信物 | Tomimi's Token | トミミの印 |
 | p_char_415_flint | 燧石的信物 | Flint's Token | フリントの印 |
 | p_char_416_zumama | 森蚺的信物 | Eunectes' Token | ユーネクテスの印 |
@@ -771,6 +778,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_491_humus | 休谟斯的信物 | - | - |
 | p_char_492_quercu | 夏栎的信物 | Quercus's Token | クエルクスの印 |
 | p_char_493_firwhl | 火哨的信物 | Firewhistle's Token | ファイヤーホイッスルの印 |
+| p_char_494_vendla | 刺玫的信物 | - | - |
 | p_char_496_wildmn | 野鬃的信物 | Wild Mane's Token | ワイルドメインの印 |
 | p_char_497_ctable | 晓歌的信物 | Cantabile's Token | カンタービレの印 |
 | p_char_498_inside | 隐现的信物 | - | - |

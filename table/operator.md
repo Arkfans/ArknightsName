@@ -246,12 +246,15 @@ tip: 请善用浏览器的搜索功能
 | char_4082_qiubai | 仇白 | Qiubai | チューバイ |
 | char_4083_chimes | 铎铃 | Wind Chimes | ウィンドチャイム |
 | char_4087_ines | 伊内丝 | - | - |
+| char_4088_hodrer | 赫德雷 | - | - |
 | char_4091_ulika | U-Official | - | - |
 | char_4093_frston | Friston-3 | - | - |
 | char_4102_threye | 凛视 | - | - |
 | char_4104_coldst | 冰酿 | - | - |
 | char_4105_almond | 杏仁 | - | - |
 | char_4106_bryota | 苍苔 | - | - |
+| char_4107_vrdant | 维荻 | - | - |
+| char_4110_delphn | 戴菲恩 | - | - |
 | char_411_tomimi | 特米米 | Tomimi | トミミ |
 | char_415_flint | 燧石 | Flint | フリント |
 | char_416_zumama | 森蚺 | Eunectes | ユーネクテス |
@@ -293,6 +296,7 @@ tip: 请善用浏览器的搜索功能
 | char_491_humus | 休谟斯 | - | - |
 | char_492_quercu | 夏栎 | Quercus | クエルクス |
 | char_493_firwhl | 火哨 | Firewhistle | ファイヤーホイッスル |
+| char_494_vendla | 刺玫 | - | - |
 | char_496_wildmn | 野鬃 | Wild Mane | ワイルドメイン |
 | char_497_ctable | 晓歌 | Cantabile | カンタービレ |
 | char_498_inside | 隐现 | - | - |

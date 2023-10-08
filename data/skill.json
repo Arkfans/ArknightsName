@@ -642,6 +642,12 @@
     "ja_JP": "トロンプイユ",
     "zh_CN": "视觉陷阱"
   },
+  "skchr_delphn_1": {
+    "zh_CN": "“贯注”"
+  },
+  "skchr_delphn_2": {
+    "zh_CN": "“抢攻”"
+  },
   "skchr_demkni_1": {
     "en_US": "First Aid",
     "ja_JP": "応急処置",
@@ -1159,6 +1165,15 @@
     "en_US": "Medical Mode Countermeasure",
     "ja_JP": "医療態勢・受動",
     "zh_CN": "反制医疗模式"
+  },
+  "skchr_hodrer_1": {
+    "zh_CN": "重锋不熄"
+  },
+  "skchr_hodrer_2": {
+    "zh_CN": "余烬重荷"
+  },
+  "skchr_hodrer_3": {
+    "zh_CN": "死境硝烟"
   },
   "skchr_horn_1": {
     "en_US": "Flare Grenade",
@@ -2570,6 +2585,9 @@
     "ja_JP": "落地斬・突破",
     "zh_CN": "落地斩·破门"
   },
+  "skchr_vendla_2": {
+    "zh_CN": "荆藤庇荫"
+  },
   "skchr_vigil_1": {
     "en_US": "Packleader's Call",
     "ja_JP": "統率者の一声",
@@ -2604,6 +2622,12 @@
     "en_US": "Cursed Doll",
     "ja_JP": "呪いの人形",
     "zh_CN": "诅咒娃娃"
+  },
+  "skchr_vrdant_1": {
+    "zh_CN": "苍翠屏障"
+  },
+  "skchr_vrdant_2": {
+    "zh_CN": "双刃毒藤"
   },
   "skchr_waaifu_1": {
     "en_US": "One-inch Punch",
@@ -2940,6 +2964,9 @@
     "ja_JP": "レザーシャープペン",
     "zh_CN": "锐笔速写"
   },
+  "sktok_bldore": {
+    "zh_CN": "沥血王座"
+  },
   "sktok_blizzard": {
     "en_US": "Blizzard",
     "ja_JP": "猛吹雪",
@@ -2969,6 +2996,9 @@
     "en_US": "Fire Net",
     "ja_JP": "捕縛網発射",
     "zh_CN": "发射缚网"
+  },
+  "sktok_bonore": {
+    "zh_CN": "唤血祭坛"
   },
   "sktok_bouncy_1": {
     "en_US": "Hand of the Saint",
@@ -3505,6 +3535,9 @@
     "en_US": "Pulse Wave",
     "ja_JP": "源石衝撃波",
     "zh_CN": "脉冲波"
+  },
+  "sktok_outset": {
+    "zh_CN": "炸弹载荷点"
   },
   "sktok_oxygen": {
     "en_US": "Erosion-Resistant Coating Application Device",

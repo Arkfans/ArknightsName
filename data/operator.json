@@ -1178,6 +1178,9 @@
   "char_4087_ines": {
     "zh_CN": "伊内丝"
   },
+  "char_4088_hodrer": {
+    "zh_CN": "赫德雷"
+  },
   "char_4091_ulika": {
     "zh_CN": "U-Official"
   },
@@ -1195,6 +1198,12 @@
   },
   "char_4106_bryota": {
     "zh_CN": "苍苔"
+  },
+  "char_4107_vrdant": {
+    "zh_CN": "维荻"
+  },
+  "char_4110_delphn": {
+    "zh_CN": "戴菲恩"
   },
   "char_411_tomimi": {
     "en_US": "Tomimi",
@@ -1394,6 +1403,9 @@
     "en_US": "Firewhistle",
     "ja_JP": "ファイヤーホイッスル",
     "zh_CN": "火哨"
+  },
+  "char_494_vendla": {
+    "zh_CN": "刺玫"
   },
   "char_496_wildmn": {
     "en_US": "Wild Mane",

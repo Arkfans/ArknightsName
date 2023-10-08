@@ -771,6 +771,9 @@
     "ja_JP": "夏の花弁FA026",
     "zh_CN": "夏卉 FA026"
   },
+  "char_300_phenxi@witch#4": {
+    "zh_CN": "至圣誓言"
+  },
   "char_302_glaze@summer#11": {
     "zh_CN": "悠然假日 HD29"
   },
@@ -1059,6 +1062,9 @@
   "char_4047_pianst@wild#8": {
     "zh_CN": "荒野寻音"
   },
+  "char_4048_doroth@witch#4": {
+    "zh_CN": "命运主宰"
+  },
   "char_4054_malist@summer#14": {
     "zh_CN": "悠然假日 HDm74"
   },
@@ -1133,6 +1139,9 @@
     "en_US": "Tremble Cold",
     "ja_JP": "孤料峭",
     "zh_CN": "孤寒峭"
+  },
+  "char_436_whispr@witch#4": {
+    "zh_CN": "幽邃隐修"
   },
   "char_437_mizuki@sale#7": {
     "en_US": "Summer Feast",
@@ -1254,6 +1263,9 @@
     "en_US": "Distant Home's Guide",
     "ja_JP": "故郷は遠く",
     "zh_CN": "遥乡之径"
+  },
+  "char_492_quercu@witch#4": {
+    "zh_CN": "树影吟游"
   },
   "char_496_wildmn@epoque#16": {
     "en_US": "Justice Maker",

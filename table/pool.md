@@ -88,6 +88,7 @@ tip: 请善用浏览器的搜索功能
 | SINGLE_40_0_1 | 射落灾异的风暴 | - | - |
 | SINGLE_40_0_2 | 沙洲引路人 | - | - |
 | SINGLE_42_0_1 | 鸣铳 | - | - |
+| SINGLE_43_0_1 | 烁尘烟中 | - | - |
 | _ATTAIN_15_2_1 | - | Celebrate & Recollect | ロドスの道のり　回顧 |
 | _ATTAIN_22_1_2 | - | Celebration & Link-Up | ロドスの道のり・邂逅 |
 | _LIMITED_10_2_1 | - | Deep Drown Lament | 深悼 |

@@ -1901,6 +1901,12 @@
       "zh_CN": "伊内丝"
     }
   },
+  "char_4088_hodrer": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "赫德雷"
+    }
+  },
   "char_4091_ulika": {
     "type": "OPERATOR",
     "names": {
@@ -1935,6 +1941,18 @@
     "type": "OPERATOR",
     "names": {
       "zh_CN": "苍苔"
+    }
+  },
+  "char_4107_vrdant": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "维荻"
+    }
+  },
+  "char_4110_delphn": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "戴菲恩"
     }
   },
   "char_411_tomimi": {
@@ -2257,6 +2275,12 @@
       "en_US": "Firewhistle",
       "ja_JP": "ファイヤーホイッスル",
       "zh_CN": "火哨"
+    }
+  },
+  "char_494_vendla": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "刺玫"
     }
   },
   "char_496_wildmn": {
@@ -3633,6 +3657,24 @@
     "type": "TRAP",
     "names": {
       "zh_CN": "废热喷口"
+    }
+  },
+  "trap_125_bonore": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "唤血祭坛"
+    }
+  },
+  "trap_126_outset": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "炸弹载荷点"
+    }
+  },
+  "trap_127_bldore": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "沥血王座"
     }
   },
   "trap_400_xbfarm": {
@@ -5427,6 +5469,12 @@
       "zh_CN": "夏卉 FA026"
     }
   },
+  "char_300_phenxi@witch#4": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "至圣誓言"
+    }
+  },
   "char_302_glaze@summer#11": {
     "type": "SKIN",
     "names": {
@@ -5907,6 +5955,12 @@
       "zh_CN": "荒野寻音"
     }
   },
+  "char_4048_doroth@witch#4": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "命运主宰"
+    }
+  },
   "char_4054_malist@summer#14": {
     "type": "SKIN",
     "names": {
@@ -6031,6 +6085,12 @@
       "en_US": "Tremble Cold",
       "ja_JP": "孤料峭",
       "zh_CN": "孤寒峭"
+    }
+  },
+  "char_436_whispr@witch#4": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "幽邃隐修"
     }
   },
   "char_437_mizuki@sale#7": {
@@ -6227,6 +6287,12 @@
       "en_US": "Distant Home's Guide",
       "ja_JP": "故郷は遠く",
       "zh_CN": "遥乡之径"
+    }
+  },
+  "char_492_quercu@witch#4": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "树影吟游"
     }
   },
   "char_496_wildmn@epoque#16": {
@@ -11751,6 +11817,102 @@
       "zh_CN": "匪帮轰击者头目"
     }
   },
+  "enemy_1360_dfello": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "新生血裔"
+    }
+  },
+  "enemy_1361_dthrow": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "萨卡兹子裔轰击者"
+    }
+  },
+  "enemy_1361_dthrow_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "萨卡兹子裔毁击者"
+    }
+  },
+  "enemy_1362_dfat": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "萨卡兹子裔责罚者"
+    }
+  },
+  "enemy_1362_dfat_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "萨卡兹子裔惩戒者"
+    }
+  },
+  "enemy_1363_spnshd": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "萨卡兹骸骨卫士"
+    }
+  },
+  "enemy_1363_spnshd_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "萨卡兹骸骨卫士长"
+    }
+  },
+  "enemy_1364_spnaxe": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "萨卡兹骸骨鞭笞者"
+    }
+  },
+  "enemy_1364_spnaxe_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "萨卡兹骸骨拷打者"
+    }
+  },
+  "enemy_1365_spnwiz": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "萨卡兹骸骨漂泊术师"
+    }
+  },
+  "enemy_1365_spnwiz_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "萨卡兹骸骨漂泊术师长\n"
+    }
+  },
+  "enemy_1366_dcolle": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "萨卡兹敛血行者"
+    }
+  },
+  "enemy_1366_dcolle_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "萨卡兹萃血行者"
+    }
+  },
+  "enemy_1367_dseed": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "血珀"
+    }
+  },
+  "enemy_1368_spilot": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "指挥官厄尔苏拉"
+    }
+  },
+  "enemy_1369_bmbcar1": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "反巫术变位炸弹"
+    }
+  },
   "enemy_1500_skulsr": {
     "type": "ENEMY",
     "names": {
@@ -12119,6 +12281,12 @@
     "type": "ENEMY",
     "names": {
       "zh_CN": "“桥夹”克里夫"
+    }
+  },
+  "enemy_1547_blord": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "杜卡雷，“君主之红”"
     }
   },
   "enemy_2001_duckmi": {
@@ -12541,6 +12709,12 @@
     "type": "ENEMY",
     "names": {
       "zh_CN": "巨壳藤蔓"
+    }
+  },
+  "enemy_2062_smcar": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "勘察用自走车"
     }
   },
   "enemy_3001_upeopl": {
@@ -15015,6 +15189,30 @@
       "zh_CN": "转质盐聚块"
     }
   },
+  "31073": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "褐素纤维"
+    }
+  },
+  "31074": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "固化纤维板"
+    }
+  },
+  "31083": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "环烃聚质"
+    }
+  },
+  "31084": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "环烃预制体"
+    }
+  },
   "3112": {
     "type": "ITEM",
     "names": {
@@ -16806,7 +17004,7 @@
   "ap_supply_lt_120_2023_4": {
     "type": "ITEM",
     "names": {
-      "zh_CN": "“藏金波“"
+      "zh_CN": "“藏金波”"
     }
   },
   "ap_supply_lt_60": {
@@ -19893,6 +20091,12 @@
       "zh_CN": "伊内丝的信物"
     }
   },
+  "p_char_4088_hodrer": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "赫德雷的信物"
+    }
+  },
   "p_char_4093_frston": {
     "type": "ITEM",
     "names": {
@@ -19921,6 +20125,18 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "苍苔的信物"
+    }
+  },
+  "p_char_4107_vrdant": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "维荻的信物"
+    }
+  },
+  "p_char_4110_delphn": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "戴菲恩的信物"
     }
   },
   "p_char_411_tomimi": {
@@ -20235,6 +20451,12 @@
       "en_US": "Firewhistle's Token",
       "ja_JP": "ファイヤーホイッスルの印",
       "zh_CN": "火哨的信物"
+    }
+  },
+  "p_char_494_vendla": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "刺玫的信物"
     }
   },
   "p_char_496_wildmn": {
@@ -22289,6 +22511,12 @@
       "zh_CN": "鸣铳"
     }
   },
+  "SINGLE_43_0_1": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "烁尘烟中"
+    }
+  },
   "_ATTAIN_15_2_1": {
     "type": "POOL",
     "names": {
@@ -23876,6 +24104,18 @@
       "zh_CN": "视觉陷阱"
     }
   },
+  "skchr_delphn_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“贯注”"
+    }
+  },
+  "skchr_delphn_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“抢攻”"
+    }
+  },
   "skchr_demkni_1": {
     "type": "SKILL",
     "names": {
@@ -24710,6 +24950,24 @@
       "en_US": "Medical Mode Countermeasure",
       "ja_JP": "医療態勢・受動",
       "zh_CN": "反制医疗模式"
+    }
+  },
+  "skchr_hodrer_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "重锋不熄"
+    }
+  },
+  "skchr_hodrer_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "余烬重荷"
+    }
+  },
+  "skchr_hodrer_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "死境硝烟"
     }
   },
   "skchr_horn_1": {
@@ -27004,6 +27262,12 @@
       "zh_CN": "落地斩·破门"
     }
   },
+  "skchr_vendla_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "荆藤庇荫"
+    }
+  },
   "skchr_vigil_1": {
     "type": "SKILL",
     "names": {
@@ -27058,6 +27322,18 @@
       "en_US": "Cursed Doll",
       "ja_JP": "呪いの人形",
       "zh_CN": "诅咒娃娃"
+    }
+  },
+  "skchr_vrdant_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "苍翠屏障"
+    }
+  },
+  "skchr_vrdant_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "双刃毒藤"
     }
   },
   "skchr_waaifu_1": {
@@ -27596,6 +27872,12 @@
       "zh_CN": "锐笔速写"
     }
   },
+  "sktok_bldore": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "沥血王座"
+    }
+  },
   "sktok_blizzard": {
     "type": "SKILL",
     "names": {
@@ -27642,6 +27924,12 @@
       "en_US": "Fire Net",
       "ja_JP": "捕縛網発射",
       "zh_CN": "发射缚网"
+    }
+  },
+  "sktok_bonore": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "唤血祭坛"
     }
   },
   "sktok_bouncy_1": {
@@ -28526,6 +28814,12 @@
       "en_US": "Pulse Wave",
       "ja_JP": "源石衝撃波",
       "zh_CN": "脉冲波"
+    }
+  },
+  "sktok_outset": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "炸弹载荷点"
     }
   },
   "sktok_oxygen": {
@@ -34156,6 +34450,30 @@
       "zh_CN": "惊霆行动-4"
     }
   },
+  "hard_13-01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "湍流行动-1"
+    }
+  },
+  "hard_13-02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "湍流行动-2"
+    }
+  },
+  "hard_13-03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "湍流行动-3"
+    }
+  },
+  "hard_13-04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "湍流行动-4"
+    }
+  },
   "lt_01_01": {
     "type": "STAGE",
     "names": {
@@ -36056,6 +36374,120 @@
       "zh_CN": "诚挚邀请"
     }
   },
+  "main_13-01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "眼前的伤"
+    }
+  },
+  "main_13-02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "不得暂歇"
+    }
+  },
+  "main_13-03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "佣兵一日"
+    }
+  },
+  "main_13-04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "苦厄盘桓"
+    }
+  },
+  "main_13-05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "典范之名"
+    }
+  },
+  "main_13-06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "唤血祭坛"
+    }
+  },
+  "main_13-07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "不虞之会"
+    }
+  },
+  "main_13-08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "幻境迁流"
+    }
+  },
+  "main_13-09": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "小镇翳云"
+    }
+  },
+  "main_13-10": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "破碎温室"
+    }
+  },
+  "main_13-11": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "骸骨之中"
+    }
+  },
+  "main_13-12": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "猩红烟火"
+    }
+  },
+  "main_13-13": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "短暂齐聚"
+    }
+  },
+  "main_13-14": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "“我们”"
+    }
+  },
+  "main_13-15": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "谁来倾诉"
+    }
+  },
+  "main_13-16": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "挺起胸膛"
+    }
+  },
+  "main_13-17": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "骸骨走廊"
+    }
+  },
+  "main_13-18": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "血潮翻涌"
+    }
+  },
+  "main_13-19": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "殷红君主"
+    }
+  },
   "pro_a_1": {
     "type": "STAGE",
     "names": {
@@ -36376,6 +36808,24 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "战场静悄悄"
+    }
+  },
+  "st_13-01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "战场内外"
+    }
+  },
+  "st_13-02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "窥冠冕者"
+    }
+  },
+  "st_13-03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "灾厄积渐"
     }
   },
   "sub_02-01": {
@@ -36924,6 +37374,12 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "恶魔诱惑"
+    }
+  },
+  "tr_24": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "寻迹而行"
     }
   },
   "wk_armor_1": {
@@ -38240,6 +38696,12 @@
       "zh_CN": "惊霆无声"
     }
   },
+  "main_13": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "恶兆湍流"
+    }
+  },
   "main_2": {
     "type": "ZONE",
     "names": {
@@ -38822,6 +39284,12 @@
       "zh_CN": "异乡剑士"
     }
   },
+  "story_almond_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "远航"
+    }
+  },
   "story_amgoat_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -39292,6 +39760,12 @@
       "zh_CN": "送葬人"
     }
   },
+  "story_excu_set_2_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "敌人"
+    }
+  },
   "story_f12yin_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -39550,6 +40024,12 @@
     "type": "MEMORY",
     "names": {
       "zh_CN": "在冬夜里燃烧"
+    }
+  },
+  "story_heidi_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "第一封信"
     }
   },
   "story_helage_set_1_story_1": {
@@ -40174,6 +40654,12 @@
       "en_US": "The Will of a Coin",
       "ja_JP": "コインの意志",
       "zh_CN": "硬币的意志"
+    }
+  },
+  "story_sddrag_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "芦苇之心"
     }
   },
   "story_serum_set_1_story_1": {

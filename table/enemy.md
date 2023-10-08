@@ -694,6 +694,23 @@ tip: 请善用浏览器的搜索功能
 | enemy_1358_esheld_2 | 匪帮防御者头目 | - | - |
 | enemy_1359_ekulsr | 匪帮轰击者 | - | - |
 | enemy_1359_ekulsr_2 | 匪帮轰击者头目 | - | - |
+| enemy_1360_dfello | 新生血裔 | - | - |
+| enemy_1361_dthrow | 萨卡兹子裔轰击者 | - | - |
+| enemy_1361_dthrow_2 | 萨卡兹子裔毁击者 | - | - |
+| enemy_1362_dfat | 萨卡兹子裔责罚者 | - | - |
+| enemy_1362_dfat_2 | 萨卡兹子裔惩戒者 | - | - |
+| enemy_1363_spnshd | 萨卡兹骸骨卫士 | - | - |
+| enemy_1363_spnshd_2 | 萨卡兹骸骨卫士长 | - | - |
+| enemy_1364_spnaxe | 萨卡兹骸骨鞭笞者 | - | - |
+| enemy_1364_spnaxe_2 | 萨卡兹骸骨拷打者 | - | - |
+| enemy_1365_spnwiz | 萨卡兹骸骨漂泊术师 | - | - |
+| enemy_1365_spnwiz_2 | 萨卡兹骸骨漂泊术师长
+ | - | - |
+| enemy_1366_dcolle | 萨卡兹敛血行者 | - | - |
+| enemy_1366_dcolle_2 | 萨卡兹萃血行者 | - | - |
+| enemy_1367_dseed | 血珀 | - | - |
+| enemy_1368_spilot | 指挥官厄尔苏拉 | - | - |
+| enemy_1369_bmbcar1 | 反巫术变位炸弹 | - | - |
 | enemy_1500_skulsr | 碎骨 | Skullshatterer | SkullShredder |
 | enemy_1501_demonk | 萨卡兹百夫长 | Sarkaz Centurion | サルカズケントゥリオ |
 | enemy_1502_crowns | 弑君者 | Crownslayer | CrownSlayer |
@@ -742,6 +759,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1544_cledub | “花匠” | - | - |
 | enemy_1545_shpkg | 多利，“羊之主” | - | - |
 | enemy_1546_cliff | “桥夹”克里夫 | - | - |
+| enemy_1547_blord | 杜卡雷，“君主之红” | - | - |
 | enemy_2001_duckmi | 鸭爵 | Duck Lord | ダック卿 |
 | enemy_2002_bearmi | 高普尼克 | Gopnik | ゴプニク |
 | enemy_2003_rockman | 迷路的巨像 | Lost Colossus | 迷子の巨像 |
@@ -799,6 +817,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_2055_smlead | “木裂”埃克提尔尼尔 | - | - |
 | enemy_2056_smedzi | 无垠回荡克雷松 | - | - |
 | enemy_2059_smbox | 巨壳藤蔓 | - | - |
+| enemy_2062_smcar | 勘察用自走车 | - | - |
 | enemy_3001_upeopl | 乌萨斯平民 | Ursus Civilian | ウルサス民間人 |
 | enemy_3002_ftrtal | 斗士塔露拉 | Talulah, the Fighter | 闘士タルラ |
 | enemy_3003_alymot | 大奖赛运输艇 | Competition Transport Vessel | 大会輸送艇 |

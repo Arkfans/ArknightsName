@@ -339,6 +339,18 @@
     "ja_JP": "上級転化塩",
     "zh_CN": "转质盐聚块"
   },
+  "31073": {
+    "zh_CN": "褐素纤维"
+  },
+  "31074": {
+    "zh_CN": "固化纤维板"
+  },
+  "31083": {
+    "zh_CN": "环烃聚质"
+  },
+  "31084": {
+    "zh_CN": "环烃预制体"
+  },
   "3112": {
     "en_US": "Carbon Stick",
     "ja_JP": "初級炭素材",
@@ -1435,7 +1447,7 @@
     "zh_CN": "“飘桂香”"
   },
   "ap_supply_lt_120_2023_4": {
-    "zh_CN": "“藏金波“"
+    "zh_CN": "“藏金波”"
   },
   "ap_supply_lt_60": {
     "en_US": "Emergency Sanity Potion",
@@ -3258,6 +3270,9 @@
   "p_char_4087_ines": {
     "zh_CN": "伊内丝的信物"
   },
+  "p_char_4088_hodrer": {
+    "zh_CN": "赫德雷的信物"
+  },
   "p_char_4093_frston": {
     "zh_CN": "Friston-3的信物"
   },
@@ -3272,6 +3287,12 @@
   },
   "p_char_4106_bryota": {
     "zh_CN": "苍苔的信物"
+  },
+  "p_char_4107_vrdant": {
+    "zh_CN": "维荻的信物"
+  },
+  "p_char_4110_delphn": {
+    "zh_CN": "戴菲恩的信物"
   },
   "p_char_411_tomimi": {
     "en_US": "Tomimi's Token",
@@ -3466,6 +3487,9 @@
     "en_US": "Firewhistle's Token",
     "ja_JP": "ファイヤーホイッスルの印",
     "zh_CN": "火哨的信物"
+  },
+  "p_char_494_vendla": {
+    "zh_CN": "刺玫的信物"
   },
   "p_char_496_wildmn": {
     "en_US": "Wild Mane's Token",
