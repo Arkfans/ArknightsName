@@ -248,6 +248,7 @@ tip: 请善用浏览器的搜索功能
 | char_423_blemsh@witch#2 | 异月灾裔 | Moon Catastrborn | 異月の災裔 |
 | char_426_billro@snow#3 | 霍恩洛厄的寒沙 | Hohenlohe Chillysand | ホーエンローエの氷砂 |
 | char_426_billro@summer#8 | 灿阳朝露 SD08 | Shimmering Dew SD08 | 炎陽煌く露SD08 |
+| char_427_vigil@epoque#27 | 叙拉古的彼面 | - | - |
 | char_430_fartth@whirlwind#5 | 捉风 | - | - |
 | char_436_whispr@nian#4 | 孤寒峭 | Tremble Cold | 孤料峭 |
 | char_436_whispr@witch#4 | 幽邃隐修 | - | - |

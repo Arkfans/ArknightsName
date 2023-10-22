@@ -128,6 +128,12 @@ tip: 请善用浏览器的搜索功能
 | trap_125_bonore | 唤血祭坛 | - | - |
 | trap_126_outset | 炸弹载荷点 | - | - |
 | trap_127_bldore | 沥血王座 | - | - |
+| trap_128_toolore | 祭坛式雷达 | - | - |
+| trap_129_tooltower | R-45便携式“留声机” | - | - |
+| trap_130_tooltree | 景观巨蕈 | - | - |
+| trap_131_toolgun | 战场装置LUD-99X | - | - |
+| trap_132_toolinvert | “二踢脚”型数据收集装置 | - | - |
+| trap_133_toolgarage | 勘察用自走车 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |
 | trap_401_xbfato | 采集实习站 | Basic Gathering Hub | 採取ロボ用基地 |
 | trap_403_wfactory | 蟹蟹抽水泵 | Crabbie Pumpie | カニカニポンプ |

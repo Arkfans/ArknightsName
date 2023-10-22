@@ -570,6 +570,24 @@
   "trap_127_bldore": {
     "zh_CN": "沥血王座"
   },
+  "trap_128_toolore": {
+    "zh_CN": "祭坛式雷达"
+  },
+  "trap_129_tooltower": {
+    "zh_CN": "R-45便携式“留声机”"
+  },
+  "trap_130_tooltree": {
+    "zh_CN": "景观巨蕈"
+  },
+  "trap_131_toolgun": {
+    "zh_CN": "战场装置LUD-99X"
+  },
+  "trap_132_toolinvert": {
+    "zh_CN": "“二踢脚”型数据收集装置"
+  },
+  "trap_133_toolgarage": {
+    "zh_CN": "勘察用自走车"
+  },
   "trap_400_xbfarm": {
     "en_US": "Portable Planting Trough",
     "ja_JP": "栽培ポット",

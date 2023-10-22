@@ -90,6 +90,7 @@ tip: 请善用浏览器的搜索功能
 | act20sre | 理想城：长夏狂欢季·复刻 | - | - |
 | act21side | 叙拉古人 | IL Siracusano | シラクザーノ |
 | act21sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
+| act21sre | 叙拉古人·复刻 | - | - |
 | act22side | 照我以火 | What the Firelight Casts | この炎が照らす先 |
 | act22sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act23side | 登临意 | Where Vernal Winds Will Never Blow | 登臨意 |

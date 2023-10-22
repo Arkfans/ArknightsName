@@ -107,6 +107,9 @@ tip: 请善用浏览器的搜索功能
 | act21side_zone1 | 连阴雨季 | Stagione delle Piogge | 暗い長雨 |
 | act21side_zone2 | 铳与秩序 | Pistole e Ordine | 銃と秩序 |
 | act21side_zone3 | 自诩荒野 | Terra Desolata Autoproclamata | 荒野を名乗る者 |
+| act21sre_zone1 | 连阴雨季 | - | - |
+| act21sre_zone2 | 铳与秩序 | - | - |
+| act21sre_zone3 | 自诩荒野 | - | - |
 | act22side_zone1 | 荒烟林沼 | Swamp In The Mists | 煙たなびく沼 |
 | act22side_zone2 | 记忆灰烬 | Ashes of Memories | 記憶の燃え殻 |
 | act23side_zone1 | 城中调查 | Case Investigation, Onsite | 城内調査 |
@@ -178,6 +181,9 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_16_zone5 | 终极赛道 | - | - |
 | permanent_sidestory_1_zone1 | 滴水村周边 | Dewville Outskirts | 滴水村周辺 |
 | permanent_sidestory_1_zone2 | 宝藏之路 | Path to Treasure | 宝への道 |
+| permanent_sidestory_21_zone1 | 连阴雨季 | - | - |
+| permanent_sidestory_21_zone2 | 铳与秩序 | - | - |
+| permanent_sidestory_21_zone3 | 自诩荒野 | - | - |
 | permanent_sidestory_2_zone1 | 主舞台 | Main Stage | メインステージ |
 | permanent_sidestory_2_zone2 | 嘉年华 | Carnival | フェスティバル |
 | permanent_sidestory_2_zone3 | 额外节目 | Extra Show | エクストラ |

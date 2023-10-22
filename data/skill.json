@@ -3834,6 +3834,24 @@
     "ja_JP": "配置不可",
     "zh_CN": "不可部署"
   },
+  "sktok_toolgarage": {
+    "zh_CN": "自走车出击！"
+  },
+  "sktok_toolgun": {
+    "zh_CN": "开火"
+  },
+  "sktok_toolinvert": {
+    "zh_CN": "撼动现实"
+  },
+  "sktok_toolore": {
+    "zh_CN": "脉冲波"
+  },
+  "sktok_tooltower": {
+    "zh_CN": "法术传输协议"
+  },
+  "sktok_tooltree": {
+    "zh_CN": "天然隐蔽"
+  },
   "sktok_tower": {
     "en_US": "Arts Transfer Protocol",
     "ja_JP": "アーツ転送プロトコル",

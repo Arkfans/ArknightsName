@@ -479,6 +479,15 @@
     "ja_JP": "荒野を名乗る者",
     "zh_CN": "自诩荒野"
   },
+  "act21sre_zone1": {
+    "zh_CN": "连阴雨季"
+  },
+  "act21sre_zone2": {
+    "zh_CN": "铳与秩序"
+  },
+  "act21sre_zone3": {
+    "zh_CN": "自诩荒野"
+  },
   "act22side_zone1": {
     "en_US": "Swamp In The Mists",
     "ja_JP": "煙たなびく沼",
@@ -789,6 +798,15 @@
     "en_US": "Path to Treasure",
     "ja_JP": "宝への道",
     "zh_CN": "宝藏之路"
+  },
+  "permanent_sidestory_21_zone1": {
+    "zh_CN": "连阴雨季"
+  },
+  "permanent_sidestory_21_zone2": {
+    "zh_CN": "铳与秩序"
+  },
+  "permanent_sidestory_21_zone3": {
+    "zh_CN": "自诩荒野"
   },
   "permanent_sidestory_2_zone1": {
     "en_US": "Main Stage",

@@ -478,6 +478,12 @@ tip: 请善用浏览器的搜索功能
 | trap_125_bonore | 唤血祭坛 | - | - |
 | trap_126_outset | 炸弹载荷点 | - | - |
 | trap_127_bldore | 沥血王座 | - | - |
+| trap_128_toolore | 祭坛式雷达 | - | - |
+| trap_129_tooltower | R-45便携式“留声机” | - | - |
+| trap_130_tooltree | 景观巨蕈 | - | - |
+| trap_131_toolgun | 战场装置LUD-99X | - | - |
+| trap_132_toolinvert | “二踢脚”型数据收集装置 | - | - |
+| trap_133_toolgarage | 勘察用自走车 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |
 | trap_401_xbfato | 采集实习站 | Basic Gathering Hub | 採取ロボ用基地 |
 | trap_403_wfactory | 蟹蟹抽水泵 | Crabbie Pumpie | カニカニポンプ |
@@ -793,6 +799,7 @@ tip: 请善用浏览器的搜索功能
 | char_423_blemsh@witch#2 | 异月灾裔 | Moon Catastrborn | 異月の災裔 |
 | char_426_billro@snow#3 | 霍恩洛厄的寒沙 | Hohenlohe Chillysand | ホーエンローエの氷砂 |
 | char_426_billro@summer#8 | 灿阳朝露 SD08 | Shimmering Dew SD08 | 炎陽煌く露SD08 |
+| char_427_vigil@epoque#27 | 叙拉古的彼面 | - | - |
 | char_430_fartth@whirlwind#5 | 捉风 | - | - |
 | char_436_whispr@nian#4 | 孤寒峭 | Tremble Cold | 孤料峭 |
 | char_436_whispr@witch#4 | 幽邃隐修 | - | - |
@@ -1799,6 +1806,7 @@ tip: 请善用浏览器的搜索功能
 | act20sre | 理想城：长夏狂欢季·复刻 | - | - |
 | act21side | 叙拉古人 | IL Siracusano | シラクザーノ |
 | act21sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
+| act21sre | 叙拉古人·复刻 | - | - |
 | act22side | 照我以火 | What the Firelight Casts | この炎が照らす先 |
 | act22sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act23side | 登临意 | Where Vernal Winds Will Never Blow | 登臨意 |
@@ -2137,6 +2145,7 @@ tip: 请善用浏览器的搜索功能
 | act20side_token_book | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
 | act20side_token_book_rep_1 | 《奇谈怪论》复印本 | - | - |
 | act21side_token_permesso | 进货通行证 | Permesso di Importazione | 買付許可証 |
+| act21side_token_permesso_rep_1 | 进货通行证 | - | - |
 | act22side_token_manuscript | 手抄歌谣集 | Manuscripts of Ballads | 民謡集の写本 |
 | act23side_token_spirit | 新酿烈刀子 | Freshly-Brewed Liedaozi | 烈刀子 |
 | act24side_melding_1 | 破碎的骨片 | Bone Fragments | 欠けた骨 |
@@ -2811,6 +2820,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_prison | 孤岛风云家具收藏包 | Mansfield Break Furniture Pack | 孤島激震家具パック |
 | uni_set_reception | 龙门风情茶室家具收藏包 | Lungmen Tearoom Furniture Collection Set | 龍門茶室家具パック |
 | uni_set_samiRoom_1 | 萨米印象家具收藏包一 | - | - |
+| uni_set_samiRoom_2 | 萨米印象家具收藏包二 | - | - |
 | uni_set_westCoast | 多索雷斯假日家具收藏包 | - | - |
 | voucher_5chipPackage | 自助芯片印刻仪 | - | - |
 | voucher_chip | 芯片自助打印盒 | Automatic Chip Printer | 初級SoCセルフプリンター |
@@ -3851,6 +3861,12 @@ tip: 请善用浏览器的搜索功能
 | sktok_tidectrl_2 | 大幅涨潮 | Large Rising Tide | 満ち潮 |
 | sktok_tidectrl_3 | 深水 | Deep Water | 「深水区域」 |
 | sktok_tileblock | 不可部署 | Deployment Forbidden | 配置不可 |
+| sktok_toolgarage | 自走车出击！ | - | - |
+| sktok_toolgun | 开火 | - | - |
+| sktok_toolinvert | 撼动现实 | - | - |
+| sktok_toolore | 脉冲波 | - | - |
+| sktok_tooltower | 法术传输协议 | - | - |
+| sktok_tooltree | 天然隐蔽 | - | - |
 | sktok_tower | 法术传输协议 | Arts Transfer Protocol | アーツ転送プロトコル |
 | sktok_trademan_1 | 触发对话 | Trigger Dialogue | 会話発生 |
 | sktok_tree | 天然隐蔽 | Natural Camouflage | きのこガード |
@@ -4484,6 +4500,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_16 | 休止符街道 | - | - |
 | camp_r_17 | 灰暗泥沼 | - | - |
 | camp_r_18 | “特制小水坑” | - | - |
+| camp_r_19 | 腐烂荒野 | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |
 | hard_05-02 | 炼狱行动-2 | Operation Inferno-2 | 煉獄作戦-2 |
 | hard_05-03 | 炼狱行动-3 | Operation Inferno-3 | 煉獄作戦-3 |
@@ -5031,6 +5048,9 @@ tip: 请善用浏览器的搜索功能
 | act21side_zone1 | 连阴雨季 | Stagione delle Piogge | 暗い長雨 |
 | act21side_zone2 | 铳与秩序 | Pistole e Ordine | 銃と秩序 |
 | act21side_zone3 | 自诩荒野 | Terra Desolata Autoproclamata | 荒野を名乗る者 |
+| act21sre_zone1 | 连阴雨季 | - | - |
+| act21sre_zone2 | 铳与秩序 | - | - |
+| act21sre_zone3 | 自诩荒野 | - | - |
 | act22side_zone1 | 荒烟林沼 | Swamp In The Mists | 煙たなびく沼 |
 | act22side_zone2 | 记忆灰烬 | Ashes of Memories | 記憶の燃え殻 |
 | act23side_zone1 | 城中调查 | Case Investigation, Onsite | 城内調査 |
@@ -5102,6 +5122,9 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_16_zone5 | 终极赛道 | - | - |
 | permanent_sidestory_1_zone1 | 滴水村周边 | Dewville Outskirts | 滴水村周辺 |
 | permanent_sidestory_1_zone2 | 宝藏之路 | Path to Treasure | 宝への道 |
+| permanent_sidestory_21_zone1 | 连阴雨季 | - | - |
+| permanent_sidestory_21_zone2 | 铳与秩序 | - | - |
+| permanent_sidestory_21_zone3 | 自诩荒野 | - | - |
 | permanent_sidestory_2_zone1 | 主舞台 | Main Stage | メインステージ |
 | permanent_sidestory_2_zone2 | 嘉年华 | Carnival | フェスティバル |
 | permanent_sidestory_2_zone3 | 额外节目 | Extra Show | エクストラ |

@@ -3677,6 +3677,42 @@
       "zh_CN": "沥血王座"
     }
   },
+  "trap_128_toolore": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "祭坛式雷达"
+    }
+  },
+  "trap_129_tooltower": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "R-45便携式“留声机”"
+    }
+  },
+  "trap_130_tooltree": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "景观巨蕈"
+    }
+  },
+  "trap_131_toolgun": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "战场装置LUD-99X"
+    }
+  },
+  "trap_132_toolinvert": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "“二踢脚”型数据收集装置"
+    }
+  },
+  "trap_133_toolgarage": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "勘察用自走车"
+    }
+  },
   "trap_400_xbfarm": {
     "type": "TRAP",
     "names": {
@@ -6071,6 +6107,12 @@
       "en_US": "Shimmering Dew SD08",
       "ja_JP": "炎陽煌く露SD08",
       "zh_CN": "灿阳朝露 SD08"
+    }
+  },
+  "char_427_vigil@epoque#27": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "叙拉古的彼面"
     }
   },
   "char_430_fartth@whirlwind#5": {
@@ -13795,6 +13837,12 @@
       "zh_CN": "限时累计签到"
     }
   },
+  "act21sre": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "叙拉古人·复刻"
+    }
+  },
   "act22side": {
     "type": "ACTIVITY",
     "names": {
@@ -16428,6 +16476,12 @@
     "names": {
       "en_US": "Permesso di Importazione",
       "ja_JP": "買付許可証",
+      "zh_CN": "进货通行证"
+    }
+  },
+  "act21side_token_permesso_rep_1": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "进货通行证"
     }
   },
@@ -21441,6 +21495,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "萨米印象家具收藏包一"
+    }
+  },
+  "uni_set_samiRoom_2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "萨米印象家具收藏包二"
     }
   },
   "uni_set_westCoast": {
@@ -29312,6 +29372,42 @@
       "zh_CN": "不可部署"
     }
   },
+  "sktok_toolgarage": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "自走车出击！"
+    }
+  },
+  "sktok_toolgun": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "开火"
+    }
+  },
+  "sktok_toolinvert": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "撼动现实"
+    }
+  },
+  "sktok_toolore": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "脉冲波"
+    }
+  },
+  "sktok_tooltower": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "法术传输协议"
+    }
+  },
+  "sktok_tooltree": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "天然隐蔽"
+    }
+  },
   "sktok_tower": {
     "type": "SKILL",
     "names": {
@@ -34194,6 +34290,12 @@
       "zh_CN": "“特制小水坑”"
     }
   },
+  "camp_r_19": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "腐烂荒野"
+    }
+  },
   "hard_05-01": {
     "type": "STAGE",
     "names": {
@@ -38384,6 +38486,24 @@
       "zh_CN": "自诩荒野"
     }
   },
+  "act21sre_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "连阴雨季"
+    }
+  },
+  "act21sre_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "铳与秩序"
+    }
+  },
+  "act21sre_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "自诩荒野"
+    }
+  },
   "act22side_zone1": {
     "type": "ZONE",
     "names": {
@@ -38906,6 +39026,24 @@
       "en_US": "Path to Treasure",
       "ja_JP": "宝への道",
       "zh_CN": "宝藏之路"
+    }
+  },
+  "permanent_sidestory_21_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "连阴雨季"
+    }
+  },
+  "permanent_sidestory_21_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "铳与秩序"
+    }
+  },
+  "permanent_sidestory_21_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "自诩荒野"
     }
   },
   "permanent_sidestory_2_zone1": {

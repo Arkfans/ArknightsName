@@ -1104,6 +1104,9 @@
     "ja_JP": "買付許可証",
     "zh_CN": "进货通行证"
   },
+  "act21side_token_permesso_rep_1": {
+    "zh_CN": "进货通行证"
+  },
   "act22side_token_manuscript": {
     "en_US": "Manuscripts of Ballads",
     "ja_JP": "民謡集の写本",
@@ -4093,6 +4096,9 @@
   },
   "uni_set_samiRoom_1": {
     "zh_CN": "萨米印象家具收藏包一"
+  },
+  "uni_set_samiRoom_2": {
+    "zh_CN": "萨米印象家具收藏包二"
   },
   "uni_set_westCoast": {
     "zh_CN": "多索雷斯假日家具收藏包"
