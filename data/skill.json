@@ -239,6 +239,12 @@
     "ja_JP": "ブレイドビット起動",
     "zh_CN": "浮游刃启动"
   },
+  "skchr_baslin_1": {
+    "zh_CN": "急救"
+  },
+  "skchr_baslin_2": {
+    "zh_CN": "沉音宁神"
+  },
   "skchr_bdhkgt_1": {
     "en_US": "Seeking a Path",
     "ja_JP": "前路を調べ",
@@ -443,6 +449,12 @@
     "ja_JP": "同調索敵攻撃",
     "zh_CN": "同步索敌攻击"
   },
+  "skchr_caper_1": {
+    "zh_CN": "强力击·β型"
+  },
+  "skchr_caper_2": {
+    "zh_CN": "乐趣加倍"
+  },
   "skchr_catap_1": {
     "en_US": "Blast Range Up α",
     "ja_JP": "爆破範囲拡大α",
@@ -457,6 +469,15 @@
     "en_US": "Vitality Restoration - Wide Range",
     "ja_JP": "回復力促進・広域",
     "zh_CN": "活力再生·广域"
+  },
+  "skchr_cello_1": {
+    "zh_CN": "“黄金的狂喜”"
+  },
+  "skchr_cello_2": {
+    "zh_CN": "“安魂的弥撒”"
+  },
+  "skchr_cello_3": {
+    "zh_CN": "“自由的探戈”"
   },
   "skchr_cement_1": {
     "zh_CN": "突破矿层"
@@ -1370,6 +1391,12 @@
     "ja_JP": "カオスシザーズ",
     "zh_CN": "诡异剪刀"
   },
+  "skchr_kaitou_1": {
+    "zh_CN": "镭射穿凿"
+  },
+  "skchr_kaitou_2": {
+    "zh_CN": "热处理变色"
+  },
   "skchr_kalts_1": {
     "en_US": "Command: Structural Fortification",
     "ja_JP": "指令：構造強化",
@@ -1439,6 +1466,15 @@
     "en_US": "Thunderclap",
     "ja_JP": "初雷",
     "zh_CN": "初雷"
+  },
+  "skchr_lessng_1": {
+    "zh_CN": "强力击·γ型"
+  },
+  "skchr_lessng_2": {
+    "zh_CN": "虔修对决"
+  },
+  "skchr_lessng_3": {
+    "zh_CN": "苦修破誓"
   },
   "skchr_lin_1": {
     "en_US": "Elegance",
@@ -2629,6 +2665,15 @@
   "skchr_vrdant_2": {
     "zh_CN": "双刃毒藤"
   },
+  "skchr_vvana_1": {
+    "zh_CN": "光影迅捷剑"
+  },
+  "skchr_vvana_2": {
+    "zh_CN": "烛燃影息"
+  },
+  "skchr_vvana_3": {
+    "zh_CN": "“明灭”"
+  },
   "skchr_waaifu_1": {
     "en_US": "One-inch Punch",
     "ja_JP": "寸勁",
@@ -3169,6 +3214,9 @@
     "ja_JP": "コーティング",
     "zh_CN": "镀膜"
   },
+  "sktok_condtr": {
+    "zh_CN": "广域调谐"
+  },
   "sktok_cqbw_token": {
     "en_US": "Victim Seeker",
     "ja_JP": "バッドラックXD",
@@ -3583,6 +3631,12 @@
     "en_US": "Open Valve",
     "ja_JP": "ガス放出",
     "zh_CN": "开启阀门"
+  },
+  "sktok_portlent": {
+    "zh_CN": "湮灭"
+  },
+  "sktok_portlexi": {
+    "zh_CN": "创生"
   },
   "sktok_prison": {
     "en_US": "Lock 'em Up!",

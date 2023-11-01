@@ -672,6 +672,9 @@
   "LIMITED_TKT_GACHA_10_4101": {
     "zh_CN": "云过天空寻访凭证"
   },
+  "LIMITED_TKT_GACHA_10_4401": {
+    "zh_CN": "烛照弦鸣寻访凭证"
+  },
   "LIMITED_TKT_GACHA_10_903": {
     "en_US": "Awakening Commemoration Permit",
     "ja_JP": "1周年記念10回スカウト券",
@@ -746,6 +749,9 @@
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_4101": {
+    "zh_CN": "寻访数据契约"
+  },
+  "LMTGS_COIN_4401": {
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_601": {
@@ -1164,6 +1170,21 @@
   },
   "act28side_token_box": {
     "zh_CN": "劣质燃料"
+  },
+  "act29side_frag_1": {
+    "zh_CN": "乐之节符"
+  },
+  "act29side_frag_2": {
+    "zh_CN": "怒之节符"
+  },
+  "act29side_frag_3": {
+    "zh_CN": "哀之节符"
+  },
+  "act29side_frag_4": {
+    "zh_CN": "惧之节符"
+  },
+  "act29side_token_erin": {
+    "zh_CN": "调律追忆"
   },
   "act2bossrush_milestone_point": {
     "en_US": "Trial EXP",
@@ -1835,10 +1856,16 @@
   "classic_fes_pick_tier_5_4101": {
     "zh_CN": "中坚甄选5星干员"
   },
+  "classic_fes_pick_tier_5_4401": {
+    "zh_CN": "中坚甄选5星干员"
+  },
   "classic_fes_pick_tier_6_3801": {
     "zh_CN": "中坚甄选6星干员"
   },
   "classic_fes_pick_tier_6_4101": {
+    "zh_CN": "中坚甄选6星干员"
+  },
+  "classic_fes_pick_tier_6_4401": {
     "zh_CN": "中坚甄选6星干员"
   },
   "classic_gacha": {
@@ -2695,6 +2722,9 @@
     "ja_JP": "ワイフーの印",
     "zh_CN": "槐琥的信物"
   },
+  "p_char_245_cello": {
+    "zh_CN": "塑心的信物"
+  },
   "p_char_248_mgllan": {
     "en_US": "Magallan's Token",
     "ja_JP": "マゼランの印",
@@ -3279,6 +3309,12 @@
   "p_char_4093_frston": {
     "zh_CN": "Friston-3的信物"
   },
+  "p_char_4098_vvana": {
+    "zh_CN": "薇薇安娜的信物"
+  },
+  "p_char_4100_caper": {
+    "zh_CN": "跃跃的信物"
+  },
   "p_char_4102_threye": {
     "zh_CN": "凛视的信物"
   },
@@ -3293,6 +3329,9 @@
   },
   "p_char_4107_vrdant": {
     "zh_CN": "维荻的信物"
+  },
+  "p_char_4109_baslin": {
+    "zh_CN": "深律的信物"
   },
   "p_char_4110_delphn": {
     "zh_CN": "戴菲恩的信物"
@@ -3507,6 +3546,9 @@
   "p_char_498_inside": {
     "zh_CN": "隐现的信物"
   },
+  "p_char_499_kaitou": {
+    "zh_CN": "折光的信物"
+  },
   "p_char_500_noirc": {
     "en_US": "Noir Corne's Token",
     "ja_JP": "ノイルホーンの印",
@@ -3646,6 +3688,9 @@
   "randomMaterial_9": {
     "zh_CN": "罗德岛物资补给VI"
   },
+  "randomMaterial_leith2": {
+    "zh_CN": "查访补给"
+  },
   "randomMaterial_rhine2": {
     "zh_CN": "技术调查补给"
   },
@@ -3680,6 +3725,9 @@
   "renamingCard_0_038": {
     "zh_CN": "ID信息更新卡"
   },
+  "renamingCard_0_044": {
+    "zh_CN": "ID信息更新卡"
+  },
   "renamingCard_30_018": {
     "en_US": "ID Info Update Card",
     "ja_JP": "ID情報更新カード",
@@ -3701,6 +3749,9 @@
     "zh_CN": "ID信息更新卡"
   },
   "renamingCard_30_038": {
+    "zh_CN": "ID信息更新卡"
+  },
+  "renamingCard_30_044": {
     "zh_CN": "ID信息更新卡"
   },
   "return_credit_token": {
@@ -4249,10 +4300,16 @@
   "voucher_item_pick3801": {
     "zh_CN": "周年庆典干员凭证"
   },
+  "voucher_item_pick4401": {
+    "zh_CN": "感谢庆典干员凭证"
+  },
   "voucher_item_pick601": {
     "en_US": "Top Operator Transfer Permit",
     "ja_JP": "★6招聘指名券",
     "zh_CN": "高级干员调用凭证"
+  },
+  "voucher_lessng": {
+    "zh_CN": "止颂的文件夹"
   },
   "voucher_levelmax_5": {
     "en_US": "Senior Operator Training Apparatus",

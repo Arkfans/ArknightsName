@@ -953,6 +953,12 @@
       "zh_CN": "槐琥"
     }
   },
+  "char_245_cello": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "塑心"
+    }
+  },
   "char_248_mgllan": {
     "type": "OPERATOR",
     "names": {
@@ -1603,6 +1609,12 @@
       "zh_CN": "温蒂"
     }
   },
+  "char_4011_lessng": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "止颂"
+    }
+  },
   "char_4013_kjera": {
     "type": "OPERATOR",
     "names": {
@@ -1919,6 +1931,18 @@
       "zh_CN": "Friston-3"
     }
   },
+  "char_4098_vvana": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "薇薇安娜"
+    }
+  },
+  "char_4100_caper": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "跃跃"
+    }
+  },
   "char_4102_threye": {
     "type": "OPERATOR",
     "names": {
@@ -1947,6 +1971,12 @@
     "type": "OPERATOR",
     "names": {
       "zh_CN": "维荻"
+    }
+  },
+  "char_4109_baslin": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "深律"
     }
   },
   "char_4110_delphn": {
@@ -2303,6 +2333,12 @@
     "type": "OPERATOR",
     "names": {
       "zh_CN": "隐现"
+    }
+  },
+  "char_499_kaitou": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "折光"
     }
   },
   "char_500_noirc": {
@@ -3713,6 +3749,24 @@
       "zh_CN": "勘察用自走车"
     }
   },
+  "trap_134_condtr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "调谐节点"
+    }
+  },
+  "trap_135_portlent": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "湮灭之相"
+    }
+  },
+  "trap_136_portlexi": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "创生之相"
+    }
+  },
   "trap_400_xbfarm": {
     "type": "TRAP",
     "names": {
@@ -4371,6 +4425,12 @@
       "zh_CN": "演出后的王子"
     }
   },
+  "char_1028_texas2@iteration#1": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "破翼者"
+    }
+  },
   "char_102_texas@epoque#7": {
     "type": "SKIN",
     "names": {
@@ -4563,6 +4623,12 @@
       "en_US": "Bard's Holiday",
       "ja_JP": "詩人の休日",
       "zh_CN": "诗人的假日"
+    }
+  },
+  "char_126_shotst@epoque#28": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "星橼林"
     }
   },
   "char_128_plosis@epoque#3": {
@@ -5133,6 +5199,12 @@
       "en_US": "Miraculous Moment",
       "ja_JP": "最高のひととき",
       "zh_CN": "美妙时光"
+    }
+  },
+  "char_222_bpipe@epoque#28": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "皇家近卫"
     }
   },
   "char_222_bpipe@race#1": {
@@ -6011,6 +6083,18 @@
       "zh_CN": "字句中的雪原"
     }
   },
+  "char_405_absin@epoque#28": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "正午余光"
+    }
+  },
+  "char_4064_mlynar@epoque#28": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "远路"
+    }
+  },
   "char_4071_peper@whirlwind#5": {
     "type": "SKIN",
     "names": {
@@ -6119,6 +6203,12 @@
     "type": "SKIN",
     "names": {
       "zh_CN": "捉风"
+    }
+  },
+  "char_431_ashlok@epoque#28": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "卡利斯卡群枪"
     }
   },
   "char_436_whispr@nian#4": {
@@ -6399,6 +6489,12 @@
       "en_US": "Dreambind Castle",
       "ja_JP": "D.C.",
       "zh_CN": "缠梦古堡"
+    }
+  },
+  "iteration": {
+    "type": "BRAND",
+    "names": {
+      "zh_CN": "命途迭代"
     }
   },
   "kitchen": {
@@ -11955,6 +12051,114 @@
       "zh_CN": "反巫术变位炸弹"
     }
   },
+  "enemy_1371_ltnflu": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "残党乐团长笛手"
+    }
+  },
+  "enemy_1371_ltnflu_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "巫王乐团长笛手"
+    }
+  },
+  "enemy_1372_ltntpt": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "残党乐团小号手"
+    }
+  },
+  "enemy_1372_ltntpt_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "巫王乐团小号手"
+    }
+  },
+  "enemy_1373_ltnhor": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "残党乐团圆号手"
+    }
+  },
+  "enemy_1373_ltnhor_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "巫王乐团圆号手"
+    }
+  },
+  "enemy_1374_ltnhap": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "残党乐团颂诗者"
+    }
+  },
+  "enemy_1374_ltnhap_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "巫王乐团颂诗者"
+    }
+  },
+  "enemy_1375_ltnclr": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "残党乐团管乐家"
+    }
+  },
+  "enemy_1375_ltnclr_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "巫王乐团管乐家"
+    }
+  },
+  "enemy_1376_ltndru": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "残党乐团鼓手"
+    }
+  },
+  "enemy_1376_ltndru_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "巫王乐团鼓手"
+    }
+  },
+  "enemy_1377_ltnclo": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "残党乐团大提琴家"
+    }
+  },
+  "enemy_1377_ltnclo_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "巫王乐团大提琴家"
+    }
+  },
+  "enemy_1378_ltnmst": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "残党乐团调律师"
+    }
+  },
+  "enemy_1378_ltnmst_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "巫王乐团调律师"
+    }
+  },
+  "enemy_1379_ltncdt": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "残党乐团指挥家"
+    }
+  },
+  "enemy_1379_ltncdt_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "巫王乐团指挥家"
+    }
+  },
   "enemy_1500_skulsr": {
     "type": "ENEMY",
     "names": {
@@ -12329,6 +12533,12 @@
     "type": "ENEMY",
     "names": {
       "zh_CN": "杜卡雷，“君主之红”"
+    }
+  },
+  "enemy_1548_ltniak": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "赫尔昏佐伦，“巫王”"
     }
   },
   "enemy_2001_duckmi": {
@@ -13669,6 +13879,12 @@
       "zh_CN": "限时累计签到"
     }
   },
+  "act18login": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "登录领取奖励"
+    }
+  },
   "act18side": {
     "type": "ACTIVITY",
     "names": {
@@ -13947,6 +14163,12 @@
       "zh_CN": "限时累计签到"
     }
   },
+  "act29side": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "崔林特尔梅之金"
+    }
+  },
   "act29sign": {
     "type": "ACTIVITY",
     "names": {
@@ -13977,6 +14199,12 @@
       "en_US": "Limited-time Cumulative Sign-in",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
+    }
+  },
+  "act2float": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "铁腕城产业合作洽谈会"
     }
   },
   "act2mine": {
@@ -14043,6 +14271,12 @@
     "type": "ACTIVITY",
     "names": {
       "zh_CN": "清光邀月——月饼烘焙小教程"
+    }
+  },
+  "act36sign": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "步上双塔之时签到活动"
     }
   },
   "act38d1": {
@@ -15777,6 +16011,12 @@
       "zh_CN": "云过天空寻访凭证"
     }
   },
+  "LIMITED_TKT_GACHA_10_4401": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "烛照弦鸣寻访凭证"
+    }
+  },
   "LIMITED_TKT_GACHA_10_903": {
     "type": "ITEM",
     "names": {
@@ -15896,6 +16136,12 @@
     }
   },
   "LMTGS_COIN_4101": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "寻访数据契约"
+    }
+  },
+  "LMTGS_COIN_4401": {
     "type": "ITEM",
     "names": {
       "zh_CN": "寻访数据契约"
@@ -16583,6 +16829,36 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "劣质燃料"
+    }
+  },
+  "act29side_frag_1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "乐之节符"
+    }
+  },
+  "act29side_frag_2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "怒之节符"
+    }
+  },
+  "act29side_frag_3": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "哀之节符"
+    }
+  },
+  "act29side_frag_4": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "惧之节符"
+    }
+  },
+  "act29side_token_erin": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "调律追忆"
     }
   },
   "act2bossrush_milestone_point": {
@@ -17819,6 +18095,12 @@
       "zh_CN": "中坚甄选5星干员"
     }
   },
+  "classic_fes_pick_tier_5_4401": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "中坚甄选5星干员"
+    }
+  },
   "classic_fes_pick_tier_6_3801": {
     "type": "ITEM",
     "names": {
@@ -17826,6 +18108,12 @@
     }
   },
   "classic_fes_pick_tier_6_4101": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "中坚甄选6星干员"
+    }
+  },
+  "classic_fes_pick_tier_6_4401": {
     "type": "ITEM",
     "names": {
       "zh_CN": "中坚甄选6星干员"
@@ -19213,6 +19501,12 @@
       "zh_CN": "槐琥的信物"
     }
   },
+  "p_char_245_cello": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "塑心的信物"
+    }
+  },
   "p_char_248_mgllan": {
     "type": "ITEM",
     "names": {
@@ -20157,6 +20451,18 @@
       "zh_CN": "Friston-3的信物"
     }
   },
+  "p_char_4098_vvana": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "薇薇安娜的信物"
+    }
+  },
+  "p_char_4100_caper": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "跃跃的信物"
+    }
+  },
   "p_char_4102_threye": {
     "type": "ITEM",
     "names": {
@@ -20185,6 +20491,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "维荻的信物"
+    }
+  },
+  "p_char_4109_baslin": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "深律的信物"
     }
   },
   "p_char_4110_delphn": {
@@ -20535,6 +20847,12 @@
       "zh_CN": "隐现的信物"
     }
   },
+  "p_char_499_kaitou": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "折光的信物"
+    }
+  },
   "p_char_500_noirc": {
     "type": "ITEM",
     "names": {
@@ -20761,6 +21079,12 @@
       "zh_CN": "罗德岛物资补给VI"
     }
   },
+  "randomMaterial_leith2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "查访补给"
+    }
+  },
   "randomMaterial_rhine2": {
     "type": "ITEM",
     "names": {
@@ -20819,6 +21143,12 @@
       "zh_CN": "ID信息更新卡"
     }
   },
+  "renamingCard_0_044": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "ID信息更新卡"
+    }
+  },
   "renamingCard_30_018": {
     "type": "ITEM",
     "names": {
@@ -20852,6 +21182,12 @@
     }
   },
   "renamingCard_30_038": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "ID信息更新卡"
+    }
+  },
+  "renamingCard_30_044": {
     "type": "ITEM",
     "names": {
       "zh_CN": "ID信息更新卡"
@@ -21751,12 +22087,24 @@
       "zh_CN": "周年庆典干员凭证"
     }
   },
+  "voucher_item_pick4401": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "感谢庆典干员凭证"
+    }
+  },
   "voucher_item_pick601": {
     "type": "ITEM",
     "names": {
       "en_US": "Top Operator Transfer Permit",
       "ja_JP": "★6招聘指名券",
       "zh_CN": "高级干员调用凭证"
+    }
+  },
+  "voucher_lessng": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "止颂的文件夹"
     }
   },
   "voucher_levelmax_5": {
@@ -22185,6 +22533,12 @@
     "type": "POOL",
     "names": {
       "zh_CN": "云间清醒梦"
+    }
+  },
+  "LIMITED_44_0_1": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "宿愿"
     }
   },
   "LIMITED_9_0_3": {
@@ -23512,6 +23866,18 @@
       "zh_CN": "浮游刃启动"
     }
   },
+  "skchr_baslin_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "急救"
+    }
+  },
+  "skchr_baslin_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "沉音宁神"
+    }
+  },
   "skchr_bdhkgt_1": {
     "type": "SKILL",
     "names": {
@@ -23842,6 +24208,18 @@
       "zh_CN": "同步索敌攻击"
     }
   },
+  "skchr_caper_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "强力击·β型"
+    }
+  },
+  "skchr_caper_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "乐趣加倍"
+    }
+  },
   "skchr_catap_1": {
     "type": "SKILL",
     "names": {
@@ -23864,6 +24242,24 @@
       "en_US": "Vitality Restoration - Wide Range",
       "ja_JP": "回復力促進・広域",
       "zh_CN": "活力再生·广域"
+    }
+  },
+  "skchr_cello_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“黄金的狂喜”"
+    }
+  },
+  "skchr_cello_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“安魂的弥撒”"
+    }
+  },
+  "skchr_cello_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“自由的探戈”"
     }
   },
   "skchr_cement_1": {
@@ -25354,6 +25750,18 @@
       "zh_CN": "诡异剪刀"
     }
   },
+  "skchr_kaitou_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "镭射穿凿"
+    }
+  },
+  "skchr_kaitou_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "热处理变色"
+    }
+  },
   "skchr_kalts_1": {
     "type": "SKILL",
     "names": {
@@ -25464,6 +25872,24 @@
       "en_US": "Thunderclap",
       "ja_JP": "初雷",
       "zh_CN": "初雷"
+    }
+  },
+  "skchr_lessng_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "强力击·γ型"
+    }
+  },
+  "skchr_lessng_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "虔修对决"
+    }
+  },
+  "skchr_lessng_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "苦修破誓"
     }
   },
   "skchr_lin_1": {
@@ -27396,6 +27822,24 @@
       "zh_CN": "双刃毒藤"
     }
   },
+  "skchr_vvana_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "光影迅捷剑"
+    }
+  },
+  "skchr_vvana_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "烛燃影息"
+    }
+  },
+  "skchr_vvana_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“明灭”"
+    }
+  },
   "skchr_waaifu_1": {
     "type": "SKILL",
     "names": {
@@ -28278,6 +28722,12 @@
       "zh_CN": "镀膜"
     }
   },
+  "sktok_condtr": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "广域调谐"
+    }
+  },
   "sktok_cqbw_token": {
     "type": "SKILL",
     "names": {
@@ -28952,6 +29402,18 @@
       "en_US": "Open Valve",
       "ja_JP": "ガス放出",
       "zh_CN": "开启阀门"
+    }
+  },
+  "sktok_portlent": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "湮灭"
+    }
+  },
+  "sktok_portlexi": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "创生"
     }
   },
   "sktok_prison": {
@@ -33590,6 +34052,96 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "城市热战"
+    }
+  },
+  "act29side_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "清唱“晴空之歌”"
+    }
+  },
+  "act29side_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "序曲“哨兵”"
+    }
+  },
+  "act29side_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "练习曲“奇遇”"
+    }
+  },
+  "act29side_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "狂想曲“望想”"
+    }
+  },
+  "act29side_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "奏鸣曲“秋日”"
+    }
+  },
+  "act29side_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "华尔兹“假面”"
+    }
+  },
+  "act29side_07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "协奏曲“复活”"
+    }
+  },
+  "act29side_08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "夜歌“未见的高塔”"
+    }
+  },
+  "act29side_09": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "幻想曲“赠答”"
+    }
+  },
+  "act29side_10": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "弥撒“君王”"
+    }
+  },
+  "act29side_st01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "前奏“意外归来”"
+    }
+  },
+  "act29side_st02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "间奏“未竟赋格”"
+    }
+  },
+  "act29side_st03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "尾奏“晚霞”"
+    }
+  },
+  "act29side_tr01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "指挥技巧"
+    }
+  },
+  "act29side_tr02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "创作手法"
     }
   },
   "act2bossrush_01": {
@@ -38612,6 +39164,24 @@
       "zh_CN": "黑色舰船"
     }
   },
+  "act29side_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "朝见双塔"
+    }
+  },
+  "act29side_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "恩典永恒"
+    }
+  },
+  "act29side_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "权威无情"
+    }
+  },
   "act2bossrush_zone1": {
     "type": "ZONE",
     "names": {
@@ -39476,6 +40046,12 @@
       "zh_CN": "猎人的视线"
     }
   },
+  "story_aprot2_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "那一场戏"
+    }
+  },
   "story_archet_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -39698,6 +40274,12 @@
       "en_US": "Change",
       "ja_JP": "改変",
       "zh_CN": "改变"
+    }
+  },
+  "story_cello_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "天空与流云"
     }
   },
   "story_cerber_set_1_story_1": {
@@ -40286,6 +40868,12 @@
       "zh_CN": "许以秘密"
     }
   },
+  "story_kaitou_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "被折射的星光"
+    }
+  },
   "story_kazema_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -40634,6 +41222,12 @@
       "zh_CN": "乐园"
     }
   },
+  "story_pianst_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "夕阳与朝日"
+    }
+  },
   "story_pinecn_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -40656,6 +41250,12 @@
       "en_US": "Deep, Dark Dream",
       "ja_JP": "真暗の夢",
       "zh_CN": "深暗之梦"
+    }
+  },
+  "story_poca_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "昨天的明天"
     }
   },
   "story_podego_set_1_story_1": {
@@ -40928,6 +41528,12 @@
       "en_US": "A Dilemma of Values",
       "ja_JP": "数字の問題",
       "zh_CN": "数字问题"
+    }
+  },
+  "story_sntlla_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "吹起未来的雪花"
     }
   },
   "story_sophia_set_1_story_1": {

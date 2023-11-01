@@ -72,6 +72,9 @@
     "ja_JP": "終演後の王子様",
     "zh_CN": "演出后的王子"
   },
+  "char_1028_texas2@iteration#1": {
+    "zh_CN": "破翼者"
+  },
   "char_102_texas@epoque#7": {
     "en_US": "Willpower",
     "ja_JP": "意志",
@@ -190,6 +193,9 @@
     "en_US": "Bard's Holiday",
     "ja_JP": "詩人の休日",
     "zh_CN": "诗人的假日"
+  },
+  "char_126_shotst@epoque#28": {
+    "zh_CN": "星橼林"
   },
   "char_128_plosis@epoque#3": {
     "en_US": "Serenity",
@@ -541,6 +547,9 @@
     "en_US": "Miraculous Moment",
     "ja_JP": "最高のひととき",
     "zh_CN": "美妙时光"
+  },
+  "char_222_bpipe@epoque#28": {
+    "zh_CN": "皇家近卫"
   },
   "char_222_bpipe@race#1": {
     "en_US": "Queen, No.1",
@@ -1073,6 +1082,12 @@
     "ja_JP": "行間にある雪原",
     "zh_CN": "字句中的雪原"
   },
+  "char_405_absin@epoque#28": {
+    "zh_CN": "正午余光"
+  },
+  "char_4064_mlynar@epoque#28": {
+    "zh_CN": "远路"
+  },
   "char_4071_peper@whirlwind#5": {
     "zh_CN": "来路"
   },
@@ -1137,6 +1152,9 @@
   },
   "char_430_fartth@whirlwind#5": {
     "zh_CN": "捉风"
+  },
+  "char_431_ashlok@epoque#28": {
+    "zh_CN": "卡利斯卡群枪"
   },
   "char_436_whispr@nian#4": {
     "en_US": "Tremble Cold",

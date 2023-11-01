@@ -711,6 +711,24 @@ tip: 请善用浏览器的搜索功能
 | enemy_1367_dseed | 血珀 | - | - |
 | enemy_1368_spilot | 指挥官厄尔苏拉 | - | - |
 | enemy_1369_bmbcar1 | 反巫术变位炸弹 | - | - |
+| enemy_1371_ltnflu | 残党乐团长笛手 | - | - |
+| enemy_1371_ltnflu_2 | 巫王乐团长笛手 | - | - |
+| enemy_1372_ltntpt | 残党乐团小号手 | - | - |
+| enemy_1372_ltntpt_2 | 巫王乐团小号手 | - | - |
+| enemy_1373_ltnhor | 残党乐团圆号手 | - | - |
+| enemy_1373_ltnhor_2 | 巫王乐团圆号手 | - | - |
+| enemy_1374_ltnhap | 残党乐团颂诗者 | - | - |
+| enemy_1374_ltnhap_2 | 巫王乐团颂诗者 | - | - |
+| enemy_1375_ltnclr | 残党乐团管乐家 | - | - |
+| enemy_1375_ltnclr_2 | 巫王乐团管乐家 | - | - |
+| enemy_1376_ltndru | 残党乐团鼓手 | - | - |
+| enemy_1376_ltndru_2 | 巫王乐团鼓手 | - | - |
+| enemy_1377_ltnclo | 残党乐团大提琴家 | - | - |
+| enemy_1377_ltnclo_2 | 巫王乐团大提琴家 | - | - |
+| enemy_1378_ltnmst | 残党乐团调律师 | - | - |
+| enemy_1378_ltnmst_2 | 巫王乐团调律师 | - | - |
+| enemy_1379_ltncdt | 残党乐团指挥家 | - | - |
+| enemy_1379_ltncdt_2 | 巫王乐团指挥家 | - | - |
 | enemy_1500_skulsr | 碎骨 | Skullshatterer | SkullShredder |
 | enemy_1501_demonk | 萨卡兹百夫长 | Sarkaz Centurion | サルカズケントゥリオ |
 | enemy_1502_crowns | 弑君者 | Crownslayer | CrownSlayer |
@@ -760,6 +778,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1545_shpkg | 多利，“羊之主” | - | - |
 | enemy_1546_cliff | “桥夹”克里夫 | - | - |
 | enemy_1547_blord | 杜卡雷，“君主之红” | - | - |
+| enemy_1548_ltniak | 赫尔昏佐伦，“巫王” | - | - |
 | enemy_2001_duckmi | 鸭爵 | Duck Lord | ダック卿 |
 | enemy_2002_bearmi | 高普尼克 | Gopnik | ゴプニク |
 | enemy_2003_rockman | 迷路的巨像 | Lost Colossus | 迷子の巨像 |

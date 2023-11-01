@@ -17,6 +17,7 @@ tip: 请善用浏览器的搜索功能
 | story_angel_set_2_story_1 | 改变中的不变 | Constants Within Changes | 変化中の不変 |
 | story_aosta_set_1_story_1 | 编织来日 | Future Woven | 明日を紡ぐ |
 | story_aprl_set_1_story_1 | 猎人的视线 | Hunter's Vision | 狩人の視線 |
+| story_aprot2_set_1_story_1 | 那一场戏 | - | - |
 | story_archet_set_1_story_1 | 偶像宣传 | Idol Promotion | アイドルのプロモーション |
 | story_ardign_set_1_story_1 | 绝对能行！ | It'll Be Fine, Guaranteed! | 絶対大丈夫！ |
 | story_asbest_set_1_story_1 | 奇景 | Strange Sights | 奇景 |
@@ -46,6 +47,7 @@ tip: 请善用浏览器的搜索功能
 | story_cast3_set_1_story_1 | 不朽 | Immortal | 不朽 |
 | story_catap_set_1_story_1 | 挣脱 | Break Free | 脱出 |
 | story_catap_set_2_story_1 | 改变 | Change | 改変 |
+| story_cello_set_1_story_1 | 天空与流云 | - | - |
 | story_cerber_set_1_story_1 | 特大号烤饼 | XXL Honey Biscuit | 特大クッキー |
 | story_ceylon_set_1_story_1 | 真心的礼物 | Heartfelt Present | 心からの贈り物 |
 | story_cgbird_set_1_story_1 | 蓝色羽毛与歌 | A Song and a Blue Feather | 青い羽根と歌 |
@@ -126,6 +128,7 @@ tip: 请善用浏览器的搜索功能
 | story_jesca2_set_1_story_1 | 徽章 | - | - |
 | story_jesica_set_1_story_1 | 缓步前行 | The Slow Walk Ahead | ゆっくり進む者 |
 | story_kafka_set_1_story_1 | 许以秘密 | - | - |
+| story_kaitou_set_1_story_1 | 被折射的星光 | - | - |
 | story_kazema_set_1_story_1 | 应为必为 | - | - |
 | story_kirara_set_1_story_1 | 隐藏结局 | Secret Ending | 隠しエンディング |
 | story_kirara_set_2_story_1 | 无伤通关 | No-Damage Clear | ノーダメージクリア |
@@ -172,9 +175,11 @@ tip: 请善用浏览器的搜索功能
 | story_peper_set_1_story_1 | 少年雇佣兵 | - | - |
 | story_phatom_set_1_story_1 | 合作 | Cooperation | 協力 |
 | story_phenxi_set_1_story_1 | 乐园 | Paradisus | 楽園 |
+| story_pianst_set_1_story_1 | 夕阳与朝日 | - | - |
 | story_pinecn_set_1_story_1 | 展信好 | Yours Sincerely | 拝啓 |
 | story_platnm_set_1_story_1 | 泡沫 | Bubbles | 泡沫 |
 | story_plosis_set_1_story_1 | 深暗之梦 | Deep, Dark Dream | 真暗の夢 |
+| story_poca_set_1_story_1 | 昨天的明天 | - | - |
 | story_podego_set_1_story_1 | 花期 | Bloom Season | 花開く時 |
 | story_popka_set_1_story_1 | 玩乐之间 | Funtime | お遊びの中で |
 | story_prove_set_1_story_1 | 同事们 | Coworkers | カンパニー |
@@ -211,6 +216,7 @@ tip: 请善用浏览器的搜索功能
 | story_sleach_set_2_story_1 | 鬓旁的花 | - | - |
 | story_snakek_set_1_story_1 | 夺包奇遇 | - | - |
 | story_snsant_set_1_story_1 | 数字问题 | A Dilemma of Values | 数字の問題 |
+| story_sntlla_set_1_story_1 | 吹起未来的雪花 | - | - |
 | story_sophia_set_1_story_1 | 独家访谈 | Exclusive Interview | 独占インタビュー |
 | story_sora_set_1_story_1 | 距离 | Distance | 距離 |
 | story_spot_set_1_story_1 | 谁是英雄 | Face of the Hero | 英雄とは |

@@ -510,6 +510,21 @@ tip: 请善用浏览器的搜索功能
 | act28side_st02 | 突然冲击 | - | - |
 | act28side_st03 | 法外之徒 | - | - |
 | act28side_tr01 | 城市热战 | - | - |
+| act29side_01 | 清唱“晴空之歌” | - | - |
+| act29side_02 | 序曲“哨兵” | - | - |
+| act29side_03 | 练习曲“奇遇” | - | - |
+| act29side_04 | 狂想曲“望想” | - | - |
+| act29side_05 | 奏鸣曲“秋日” | - | - |
+| act29side_06 | 华尔兹“假面” | - | - |
+| act29side_07 | 协奏曲“复活” | - | - |
+| act29side_08 | 夜歌“未见的高塔” | - | - |
+| act29side_09 | 幻想曲“赠答” | - | - |
+| act29side_10 | 弥撒“君王” | - | - |
+| act29side_st01 | 前奏“意外归来” | - | - |
+| act29side_st02 | 间奏“未竟赋格” | - | - |
+| act29side_st03 | 尾奏“晚霞” | - | - |
+| act29side_tr01 | 指挥技巧 | - | - |
+| act29side_tr02 | 创作手法 | - | - |
 | act2bossrush_01 | 困顿囚徒 | Troubled Prisoner | 困窮する囚人 |
 | act2bossrush_02 | 大块头和小不点 | Big and Small | デカとチビ |
 | act2bossrush_03 | 裂地重击 | Fissure Strike | 大地割れる一撃 |

@@ -3320,6 +3320,60 @@
   "enemy_1369_bmbcar1": {
     "zh_CN": "反巫术变位炸弹"
   },
+  "enemy_1371_ltnflu": {
+    "zh_CN": "残党乐团长笛手"
+  },
+  "enemy_1371_ltnflu_2": {
+    "zh_CN": "巫王乐团长笛手"
+  },
+  "enemy_1372_ltntpt": {
+    "zh_CN": "残党乐团小号手"
+  },
+  "enemy_1372_ltntpt_2": {
+    "zh_CN": "巫王乐团小号手"
+  },
+  "enemy_1373_ltnhor": {
+    "zh_CN": "残党乐团圆号手"
+  },
+  "enemy_1373_ltnhor_2": {
+    "zh_CN": "巫王乐团圆号手"
+  },
+  "enemy_1374_ltnhap": {
+    "zh_CN": "残党乐团颂诗者"
+  },
+  "enemy_1374_ltnhap_2": {
+    "zh_CN": "巫王乐团颂诗者"
+  },
+  "enemy_1375_ltnclr": {
+    "zh_CN": "残党乐团管乐家"
+  },
+  "enemy_1375_ltnclr_2": {
+    "zh_CN": "巫王乐团管乐家"
+  },
+  "enemy_1376_ltndru": {
+    "zh_CN": "残党乐团鼓手"
+  },
+  "enemy_1376_ltndru_2": {
+    "zh_CN": "巫王乐团鼓手"
+  },
+  "enemy_1377_ltnclo": {
+    "zh_CN": "残党乐团大提琴家"
+  },
+  "enemy_1377_ltnclo_2": {
+    "zh_CN": "巫王乐团大提琴家"
+  },
+  "enemy_1378_ltnmst": {
+    "zh_CN": "残党乐团调律师"
+  },
+  "enemy_1378_ltnmst_2": {
+    "zh_CN": "巫王乐团调律师"
+  },
+  "enemy_1379_ltncdt": {
+    "zh_CN": "残党乐团指挥家"
+  },
+  "enemy_1379_ltncdt_2": {
+    "zh_CN": "巫王乐团指挥家"
+  },
   "enemy_1500_skulsr": {
     "en_US": "Skullshatterer",
     "ja_JP": "SkullShredder",
@@ -3548,6 +3602,9 @@
   },
   "enemy_1547_blord": {
     "zh_CN": "杜卡雷，“君主之红”"
+  },
+  "enemy_1548_ltniak": {
+    "zh_CN": "赫尔昏佐伦，“巫王”"
   },
   "enemy_2001_duckmi": {
     "en_US": "Duck Lord",

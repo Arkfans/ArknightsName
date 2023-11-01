@@ -588,6 +588,15 @@
   "trap_133_toolgarage": {
     "zh_CN": "勘察用自走车"
   },
+  "trap_134_condtr": {
+    "zh_CN": "调谐节点"
+  },
+  "trap_135_portlent": {
+    "zh_CN": "湮灭之相"
+  },
+  "trap_136_portlexi": {
+    "zh_CN": "创生之相"
+  },
   "trap_400_xbfarm": {
     "en_US": "Portable Planting Trough",
     "ja_JP": "栽培ポット",

@@ -590,6 +590,9 @@
     "ja_JP": "ワイフー",
     "zh_CN": "槐琥"
   },
+  "char_245_cello": {
+    "zh_CN": "塑心"
+  },
   "char_248_mgllan": {
     "en_US": "Magallan",
     "ja_JP": "マゼラン",
@@ -994,6 +997,9 @@
     "ja_JP": "ウィーディ",
     "zh_CN": "温蒂"
   },
+  "char_4011_lessng": {
+    "zh_CN": "止颂"
+  },
   "char_4013_kjera": {
     "en_US": "Kjera",
     "ja_JP": "イェラ",
@@ -1187,6 +1193,12 @@
   "char_4093_frston": {
     "zh_CN": "Friston-3"
   },
+  "char_4098_vvana": {
+    "zh_CN": "薇薇安娜"
+  },
+  "char_4100_caper": {
+    "zh_CN": "跃跃"
+  },
   "char_4102_threye": {
     "zh_CN": "凛视"
   },
@@ -1201,6 +1213,9 @@
   },
   "char_4107_vrdant": {
     "zh_CN": "维荻"
+  },
+  "char_4109_baslin": {
+    "zh_CN": "深律"
   },
   "char_4110_delphn": {
     "zh_CN": "戴菲恩"
@@ -1419,6 +1434,9 @@
   },
   "char_498_inside": {
     "zh_CN": "隐现"
+  },
+  "char_499_kaitou": {
+    "zh_CN": "折光"
   },
   "char_500_noirc": {
     "en_US": "Noir Corne",

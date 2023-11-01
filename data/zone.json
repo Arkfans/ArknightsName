@@ -548,6 +548,15 @@
   "act28side_zone2": {
     "zh_CN": "黑色舰船"
   },
+  "act29side_zone1": {
+    "zh_CN": "朝见双塔"
+  },
+  "act29side_zone2": {
+    "zh_CN": "恩典永恒"
+  },
+  "act29side_zone3": {
+    "zh_CN": "权威无情"
+  },
   "act2bossrush_zone1": {
     "en_US": "Threat Incoming",
     "ja_JP": "強敵襲来",

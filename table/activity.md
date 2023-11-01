@@ -67,6 +67,7 @@ tip: 请善用浏览器的搜索功能
 | act18d3d1 | 登录领取奖励 | Sign-in Campaign | ログイン報酬 |
 | act18d3d2 | 兔子谷矿区登录活动 | 'Cautus Valley Mining Area' Login Event | コータスバレー採鉱区 |
 | act18d3d3 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
+| act18login | 登录领取奖励 | - | - |
 | act18side | 尘影余音 | Lingering Echoes | 塵影に交わる残響 |
 | act18sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act18sre | 尘影余音·复刻 | - | - |
@@ -105,10 +106,12 @@ tip: 请善用浏览器的搜索功能
 | act27sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act28side | 不义之财 | - | - |
 | act28sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
+| act29side | 崔林特尔梅之金 | - | - |
 | act29sign | 桂时逢月——月饼烘焙小教程 | Encounter At The Osmanthus Blossom - Mooncake-Making Tutorial | 円満団楽-ロドス点心教室 |
 | act2bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act2d5 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act2d8 | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
+| act2float | 铁腕城产业合作洽谈会 | - | - |
 | act2mine | 波平谷矿区登录活动 | Popping Valley Mining Area Login Event | ポッピングバレー採鉱区 |
 | act2pray | 双日城惊奇墙 | Dossoles Amazing Wall | ドッソレススクラッチ |
 | act2switch | 登览锦绣合作活动 | - | - |
@@ -118,6 +121,7 @@ tip: 请善用浏览器的搜索功能
 | act33sign | 限时累计签到 | Limited-time Cumulative Sign-in | 期間限定ログインボーナス |
 | act34sign | 限时累计签到 | - | - |
 | act35sign | 清光邀月——月饼烘焙小教程 | - | - |
+| act36sign | 步上双塔之时签到活动 | - | - |
 | act38d1 | 尖灭测试作战 | - | - |
 | act3bossrush | 引航者试炼 | - | - |
 | act3d0 | 火蓝之心 | Heart of Surging Flame | 青く燃ゆる心 |

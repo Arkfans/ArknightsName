@@ -126,6 +126,9 @@ tip: 请善用浏览器的搜索功能
 | act27side_zone3 | 岩浆冲浪 | - | - |
 | act28side_zone1 | 苍白平台 | - | - |
 | act28side_zone2 | 黑色舰船 | - | - |
+| act29side_zone1 | 朝见双塔 | - | - |
+| act29side_zone2 | 恩典永恒 | - | - |
+| act29side_zone3 | 权威无情 | - | - |
 | act2bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act3bossrush_zone1 | 强敌当前 | - | - |
 | act5d0_zone1 | 下城区 | Downtown | 繁華街 |

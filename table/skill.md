@@ -55,6 +55,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_aurora_2 | 人工降雪 | Artificial Snowfall | 人工降雪 |
 | skchr_ayer_1 | 多导向散射弹丸 | Shrapnel Burst | 多目標型散弾 |
 | skchr_ayer_2 | 浮游刃启动 | Activate Phase Blades | ブレイドビット起動 |
+| skchr_baslin_1 | 急救 | - | - |
+| skchr_baslin_2 | 沉音宁神 | - | - |
 | skchr_bdhkgt_1 | 探前路 | Seeking a Path | 前路を調べ |
 | skchr_bdhkgt_2 | 掷旧尘 | Dust of Days Past | 旧塵を擲つ |
 | skchr_beewax_1 | 沙暴扩散 | Growing Sandstorm | 砂嵐拡散 |
@@ -97,9 +99,14 @@ tip: 请善用浏览器的搜索功能
 | skchr_bubble_2 | “挨打” | 'Beaten Up' | 「かかってこい！」 |
 | skchr_buildr_2 | 工程者之愿 | - | - |
 | skchr_cammou_2 | 同步索敌攻击 | Synchronized Attack | 同調索敵攻撃 |
+| skchr_caper_1 | 强力击·β型 | - | - |
+| skchr_caper_2 | 乐趣加倍 | - | - |
 | skchr_catap_1 | 爆破范围提升·α型 | Blast Range Up α | 爆破範囲拡大α |
 | skchr_ccheal_1 | 活力再生 | Vitality Restoration | 回復力促進 |
 | skchr_ccheal_2 | 活力再生·广域 | Vitality Restoration - Wide Range | 回復力促進・広域 |
+| skchr_cello_1 | “黄金的狂喜” | - | - |
+| skchr_cello_2 | “安魂的弥撒” | - | - |
+| skchr_cello_3 | “自由的探戈” | - | - |
 | skchr_cement_1 | 突破矿层 | - | - |
 | skchr_cement_2 | 结构加固 | - | - |
 | skchr_cerber_1 | “很冰的斧” | 'Really Cold Axe' | 「つめたいおの」 |
@@ -292,6 +299,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_judge_3 | 披荆斩棘 | Trial of Thorns | 茨道を拓く |
 | skchr_kafka_1 | 怪异魔方 | Cube of Absurdism | ミステリーキューブ |
 | skchr_kafka_2 | 诡异剪刀 | Shears of Surrealism | カオスシザーズ |
+| skchr_kaitou_1 | 镭射穿凿 | - | - |
+| skchr_kaitou_2 | 热处理变色 | - | - |
 | skchr_kalts_1 | 指令：结构加固 | Command: Structural Fortification | 指令：構造強化 |
 | skchr_kalts_2 | 指令：战术协同 | Command: Tactical Coordination | 指令：戦術連携 |
 | skchr_kalts_3 | 指令：熔毁 | Command: Meltdown | 指令：メルトダウン |
@@ -306,6 +315,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_lava2_1 | 焰淬匕首 | Flame Quenched Dagger | フレイムエンチャント |
 | skchr_lava2_2 | 狱火之环 | Ring of Hellfire | プルガトリオ |
 | skchr_leizi_2 | 初雷 | Thunderclap | 初雷 |
+| skchr_lessng_1 | 强力击·γ型 | - | - |
+| skchr_lessng_2 | 虔修对决 | - | - |
+| skchr_lessng_3 | 苦修破誓 | - | - |
 | skchr_lin_1 | 玲珑 | Elegance | 玲瓏 |
 | skchr_lin_2 | 荫庇 | Shelter | 木陰 |
 | skchr_lin_3 | 流光乍裂 | Riving Lighttails | 流光炸裂 |
@@ -553,6 +565,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_vodfox_2 | 诅咒娃娃 | Cursed Doll | 呪いの人形 |
 | skchr_vrdant_1 | 苍翠屏障 | - | - |
 | skchr_vrdant_2 | 双刃毒藤 | - | - |
+| skchr_vvana_1 | 光影迅捷剑 | - | - |
+| skchr_vvana_2 | 烛燃影息 | - | - |
+| skchr_vvana_3 | “明灭” | - | - |
 | skchr_waaifu_1 | 寸劲 | One-inch Punch | 寸勁 |
 | skchr_waaifu_2 | 七武掠阵踢 | Seven-styles Kick | 七武掠陣脚 |
 | skchr_weedy_1 | 炮管敲击 | Barrel Burst | 砲身強打 |
@@ -667,6 +682,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_cdshield | 镀膜 | Coating | コーティング |
 | sktok_cdshielda | 重整导能 | Redeployment Conduction | 再稼働 |
 | sktok_cdshieldb | 镀膜 | Coating | コーティング |
+| sktok_condtr | 广域调谐 | - | - |
 | sktok_cqbw_token | 受害者启动模式 | Victim Seeker | バッドラックXD |
 | sktok_crate | 阻挡路线 | Obstruct | 進路妨害 |
 | sktok_creep | 溟痕 | Nethersea Brand | 溟痕 |
@@ -754,6 +770,8 @@ tip: 请善用浏览器的搜索功能
 | sktok_poachr | 盗猎食材 | Hunt for Food | 食材どろぼう |
 | sktok_poison_1 | 关闭阀门 | Close Valve | 放出停止 |
 | sktok_poison_2 | 开启阀门 | Open Valve | ガス放出 |
+| sktok_portlent | 湮灭 | - | - |
+| sktok_portlexi | 创生 | - | - |
 | sktok_prison | 启动禁锢！ | Lock 'em Up! | 禁固機能起動！ |
 | sktok_pushtw | 气体爆喷 | Air Burst | ガス噴射 |
 | sktok_rarebox | 更诱人珍宝 | More Alluring Treasures | 財宝の蠱惑 |
