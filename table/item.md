@@ -128,6 +128,7 @@ tip: 请善用浏览器的搜索功能
 | AP_GAMEPLAY | 理智 | Sanity | 理性 |
 | CRISIS_RUNE_COIN | 行动协议 | Operation Agreement | 協約の証 |
 | CRISIS_SHOP_COIN | 合约赏金 | Contract Bounty | 契約賞金 |
+| CRISIS_SHOP_COIN_V2 | 晶体合约赏金 | - | - |
 | EPGS_COIN | 寻访参数模型 | Headhunting Parametric Model | 特別引換証 |
 | EXTERMINATION_AGENT | PRTS剿灭代理卡 | PRTS Proxy Annihilation Card | PRTS殲滅代理カード |
 | LIMITED_TKT_GACHA_10_1401 | 只为铭记寻访凭证 | Memorial-Limited Headhunting Permit | 感謝祭記念スカウト券 |
@@ -925,6 +926,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_reception | 龙门风情茶室家具收藏包 | Lungmen Tearoom Furniture Collection Set | 龍門茶室家具パック |
 | uni_set_samiRoom_1 | 萨米印象家具收藏包一 | - | - |
 | uni_set_samiRoom_2 | 萨米印象家具收藏包二 | - | - |
+| uni_set_stage | 风雪过境家具收藏包 | - | - |
 | uni_set_westCoast | 多索雷斯假日家具收藏包 | - | - |
 | voucher_5chipPackage | 自助芯片印刻仪 | - | - |
 | voucher_chip | 芯片自助打印盒 | Automatic Chip Printer | 初級SoCセルフプリンター |
@@ -940,6 +942,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_full_folnic | 亚叶的私人信件 | Folinic's Personal Letter | フォリニックの手紙 |
 | voucher_full_glady | 歌蕾蒂娅的私人信件 | - | - |
 | voucher_full_grani | 格拉尼的私人信件 | Grani's Personal Letter | グラニの手紙 |
+| voucher_full_kjera | 耶拉的私人信件 | - | - |
 | voucher_full_lava2 | 炎狱炎熔的私人信件 | Lava the Purgatory's Personal Letter | 炎獄ラヴァの手紙 |
 | voucher_full_mint | 薄绿的私人信件 | Mint's Personal Letter | ミントの手紙 |
 | voucher_full_robin | 罗宾的私人信件 | Robin's Personal Letter | ロビンの手紙 |

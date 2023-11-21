@@ -606,6 +606,9 @@
     "ja_JP": "契約賞金",
     "zh_CN": "合约赏金"
   },
+  "CRISIS_SHOP_COIN_V2": {
+    "zh_CN": "晶体合约赏金"
+  },
   "EPGS_COIN": {
     "en_US": "Headhunting Parametric Model",
     "ja_JP": "特別引換証",
@@ -4151,6 +4154,9 @@
   "uni_set_samiRoom_2": {
     "zh_CN": "萨米印象家具收藏包二"
   },
+  "uni_set_stage": {
+    "zh_CN": "风雪过境家具收藏包"
+  },
   "uni_set_westCoast": {
     "zh_CN": "多索雷斯假日家具收藏包"
   },
@@ -4217,6 +4223,9 @@
     "en_US": "Grani's Personal Letter",
     "ja_JP": "グラニの手紙",
     "zh_CN": "格拉尼的私人信件"
+  },
+  "voucher_full_kjera": {
+    "zh_CN": "耶拉的私人信件"
   },
   "voucher_full_lava2": {
     "en_US": "Lava the Purgatory's Personal Letter",

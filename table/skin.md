@@ -53,6 +53,7 @@ tip: 请善用浏览器的搜索功能
 | char_129_bluep@marthe#3 | 浅滩律动 | Shoal Beat | 浅瀬のリズム |
 | char_130_doberm@epoque#7 | 少尉 | Lieutenant | 少尉 |
 | char_131_flameb@summer#8 | 悠然假日 HDm04 | Casual Vacation HDm04 | ホリデーHDm04 |
+| char_131_flameb@whirlwind#6 | 单刀 | - | - |
 | char_134_ifrit@kfc#1 | 儿童派对 | - | - |
 | char_134_ifrit@summer#1 | 日晒 SS.SP | Sunburn SS.SP | サンライトSS.SP |
 | char_135_halo@epoque#25 | 所愿 | - | - |
@@ -187,6 +188,7 @@ tip: 请善用浏览器的搜索功能
 | char_338_iris@witch#3 | 镜中来访 | Mirror Visitor | 鏡からの来訪者 |
 | char_340_shwaz@snow#1 | 厚礼 | Presents | ギフト |
 | char_340_shwaz@striker#1 | 天际线 | Skyline | スカイライン |
+| char_341_sntlla@summer#15 | 悠然假日 HD71 | - | - |
 | char_343_tknogi@epoque#9 | 伦式巫女 | Londinium Style Miko | ロンディニウム式巫女 |
 | char_344_beewax@epoque#9 | 白沙 | Weißer Sand | ホワイトサンド |
 | char_344_beewax@summer#11 | 悠然假日 HD61 | - | - |

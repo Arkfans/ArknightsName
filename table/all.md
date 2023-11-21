@@ -613,6 +613,7 @@ tip: 请善用浏览器的搜索功能
 | char_129_bluep@marthe#3 | 浅滩律动 | Shoal Beat | 浅瀬のリズム |
 | char_130_doberm@epoque#7 | 少尉 | Lieutenant | 少尉 |
 | char_131_flameb@summer#8 | 悠然假日 HDm04 | Casual Vacation HDm04 | ホリデーHDm04 |
+| char_131_flameb@whirlwind#6 | 单刀 | - | - |
 | char_134_ifrit@kfc#1 | 儿童派对 | - | - |
 | char_134_ifrit@summer#1 | 日晒 SS.SP | Sunburn SS.SP | サンライトSS.SP |
 | char_135_halo@epoque#25 | 所愿 | - | - |
@@ -747,6 +748,7 @@ tip: 请善用浏览器的搜索功能
 | char_338_iris@witch#3 | 镜中来访 | Mirror Visitor | 鏡からの来訪者 |
 | char_340_shwaz@snow#1 | 厚礼 | Presents | ギフト |
 | char_340_shwaz@striker#1 | 天际线 | Skyline | スカイライン |
+| char_341_sntlla@summer#15 | 悠然假日 HD71 | - | - |
 | char_343_tknogi@epoque#9 | 伦式巫女 | Londinium Style Miko | ロンディニウム式巫女 |
 | char_344_beewax@epoque#9 | 白沙 | Weißer Sand | ホワイトサンド |
 | char_344_beewax@summer#11 | 悠然假日 HD61 | - | - |
@@ -2080,6 +2082,7 @@ tip: 请善用浏览器的搜索功能
 | AP_GAMEPLAY | 理智 | Sanity | 理性 |
 | CRISIS_RUNE_COIN | 行动协议 | Operation Agreement | 協約の証 |
 | CRISIS_SHOP_COIN | 合约赏金 | Contract Bounty | 契約賞金 |
+| CRISIS_SHOP_COIN_V2 | 晶体合约赏金 | - | - |
 | EPGS_COIN | 寻访参数模型 | Headhunting Parametric Model | 特別引換証 |
 | EXTERMINATION_AGENT | PRTS剿灭代理卡 | PRTS Proxy Annihilation Card | PRTS殲滅代理カード |
 | LIMITED_TKT_GACHA_10_1401 | 只为铭记寻访凭证 | Memorial-Limited Headhunting Permit | 感謝祭記念スカウト券 |
@@ -2877,6 +2880,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_reception | 龙门风情茶室家具收藏包 | Lungmen Tearoom Furniture Collection Set | 龍門茶室家具パック |
 | uni_set_samiRoom_1 | 萨米印象家具收藏包一 | - | - |
 | uni_set_samiRoom_2 | 萨米印象家具收藏包二 | - | - |
+| uni_set_stage | 风雪过境家具收藏包 | - | - |
 | uni_set_westCoast | 多索雷斯假日家具收藏包 | - | - |
 | voucher_5chipPackage | 自助芯片印刻仪 | - | - |
 | voucher_chip | 芯片自助打印盒 | Automatic Chip Printer | 初級SoCセルフプリンター |
@@ -2892,6 +2896,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_full_folnic | 亚叶的私人信件 | Folinic's Personal Letter | フォリニックの手紙 |
 | voucher_full_glady | 歌蕾蒂娅的私人信件 | - | - |
 | voucher_full_grani | 格拉尼的私人信件 | Grani's Personal Letter | グラニの手紙 |
+| voucher_full_kjera | 耶拉的私人信件 | - | - |
 | voucher_full_lava2 | 炎狱炎熔的私人信件 | Lava the Purgatory's Personal Letter | 炎獄ラヴァの手紙 |
 | voucher_full_mint | 薄绿的私人信件 | Mint's Personal Letter | ミントの手紙 |
 | voucher_full_robin | 罗宾的私人信件 | Robin's Personal Letter | ロビンの手紙 |

@@ -217,6 +217,9 @@
     "ja_JP": "ホリデーHDm04",
     "zh_CN": "悠然假日 HDm04"
   },
+  "char_131_flameb@whirlwind#6": {
+    "zh_CN": "单刀"
+  },
   "char_134_ifrit@kfc#1": {
     "zh_CN": "儿童派对"
   },
@@ -860,6 +863,9 @@
     "en_US": "Skyline",
     "ja_JP": "スカイライン",
     "zh_CN": "天际线"
+  },
+  "char_341_sntlla@summer#15": {
+    "zh_CN": "悠然假日 HD71"
   },
   "char_343_tknogi@epoque#9": {
     "en_US": "Londinium Style Miko",

@@ -4663,6 +4663,12 @@
       "zh_CN": "悠然假日 HDm04"
     }
   },
+  "char_131_flameb@whirlwind#6": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "单刀"
+    }
+  },
   "char_134_ifrit@kfc#1": {
     "type": "SKIN",
     "names": {
@@ -5707,6 +5713,12 @@
       "en_US": "Skyline",
       "ja_JP": "スカイライン",
       "zh_CN": "天际线"
+    }
+  },
+  "char_341_sntlla@summer#15": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "悠然假日 HD71"
     }
   },
   "char_343_tknogi@epoque#9": {
@@ -15903,6 +15915,12 @@
       "zh_CN": "合约赏金"
     }
   },
+  "CRISIS_SHOP_COIN_V2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "晶体合约赏金"
+    }
+  },
   "EPGS_COIN": {
     "type": "ITEM",
     "names": {
@@ -21839,6 +21857,12 @@
       "zh_CN": "萨米印象家具收藏包二"
     }
   },
+  "uni_set_stage": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "风雪过境家具收藏包"
+    }
+  },
   "uni_set_westCoast": {
     "type": "ITEM",
     "names": {
@@ -21949,6 +21973,12 @@
       "en_US": "Grani's Personal Letter",
       "ja_JP": "グラニの手紙",
       "zh_CN": "格拉尼的私人信件"
+    }
+  },
+  "voucher_full_kjera": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "耶拉的私人信件"
     }
   },
   "voucher_full_lava2": {
