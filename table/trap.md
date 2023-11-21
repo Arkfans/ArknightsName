@@ -111,17 +111,17 @@ tip: 请善用浏览器的搜索功能
 | trap_108_smbox | 宝箱 | - | - |
 | trap_109_smrbox | 尖刺宝箱 | - | - |
 | trap_110_smbbox | 巨壳藤蔓 | - | - |
-| trap_111_wdfarm | 街头应急储备 | - | - |
-| trap_112_crsbow | 解雇者清债程序 | - | - |
-| trap_113_snflwr | 全自动划账器 | - | - |
-| trap_114_smkbmb | 爆裂毒气罐 | - | - |
-| trap_115_gasctrl | 毒雾塔控制 | - | - |
+| trap_111_wdfarm | 街头应急储备 | Roadside Emergency Reserves | 街の緊急用備蓄 |
+| trap_112_crsbow | 解雇者清债程序 | Post-Firing Debt Relief Program | 解雇者清算プログラム |
+| trap_113_snflwr | 全自动划账器 | Full-Auto Debit Machine | 全自動送金機 |
+| trap_114_smkbmb | 爆裂毒气罐 | Rupturing Canister | 毒ガスタンク |
+| trap_115_gasctrl | 毒雾塔控制 | Gas Controller | 毒霧タワー制御装置 |
 | trap_116_stdurk | “过去的我” | - | - |
 | trap_117_ltstat | 圣像 | - | - |
 | trap_118_rockfl | 塌落的墙垣 | - | - |
 | trap_119_rdrepair | 备用木材 | - | - |
 | trap_120_rdblock | 破旧的木篱 | - | - |
-| trap_121_gractrl | 重力 | - | - |
+| trap_121_gractrl | 重力 | Gravity | 重力 |
 | trap_122_stmpq | 景观喷泉 | - | - |
 | trap_123_stmbot | 水汽汽水瓶 | - | - |
 | trap_124_eradio | 废热喷口 | - | - |
@@ -188,15 +188,15 @@ tip: 请善用浏览器的搜索功能
 | trap_711_cdbeaconb | 干扰波长 | Jam Wavelength | 妨害電波 |
 | trap_712_cdhvrk | 超重绝缘水泥 | Heavy Insulated Concrete | 超過重絶縁セメント |
 | trap_713_cdflsb | 劣质闪光弹 | Shoddy Flashbang | 粗悪なスタングレネード |
-| trap_714_cdaltar | 能量扰动放大器 | - | - |
-| trap_715_cdaltara | 能量扰动放大器 | - | - |
-| trap_716_cdaltarb | 能量扰动放大器 | - | - |
-| trap_717_cddiff | 战术装备整理箱 | - | - |
-| trap_718_cddiffa | 战术装备整理箱 | - | - |
-| trap_719_cddiffb | 战术装备整理箱 | - | - |
-| trap_720_cdheal | 便携式医疗设备 | - | - |
-| trap_721_cdheala | 便携式医疗设备 | - | - |
-| trap_722_cdhealb | 便携式医疗设备 | - | - |
+| trap_714_cdaltar | 能量扰动放大器 | Energy Perturbation Amplifier | エネルギー摂動増幅器 |
+| trap_715_cdaltara | 能量扰动放大器 | Energy Perturbation Amplifier | エネルギー摂動増幅器 |
+| trap_716_cdaltarb | 能量扰动放大器 | Energy Perturbation Amplifier | エネルギー摂動増幅器 |
+| trap_717_cddiff | 战术装备整理箱 | Tactical Equipment Toolbox | 戦術装備整理箱 |
+| trap_718_cddiffa | 战术装备整理箱 | Tactical Equipment Toolbox | 戦術装備整理箱 |
+| trap_719_cddiffb | 战术装备整理箱 | Tactical Equipment Toolbox | 戦術装備整理箱 |
+| trap_720_cdheal | 便携式医疗设备 | Portable First-aid Kit | 携帯式医療設備 |
+| trap_721_cdheala | 便携式医疗设备 | Portable First-aid Kit | 携帯式医療設備 |
+| trap_722_cdhealb | 便携式医疗设备 | Portable First-aid Kit | 携帯式医療設備 |
 | trap_723_cdcvrt | 溢能回收转化器 | - | - |
 | trap_724_cdcvrta | 溢能回收转化器 | - | - |
 | trap_725_cdcvrtb | 溢能回收转化器 | - | - |

@@ -100,6 +100,7 @@ tip: 请善用浏览器的搜索功能
 | _LIMITED_19_1_1 | - | Great Axe and Pen Nib | 戦斧と万年筆 |
 | _LIMITED_21_1_1 | - | Through A Path of Briars | 茨道拓く一閃 |
 | _LIMITED_22_2_1 | - | Solitude Universal | 万象伶丁 |
+| _LIMITED_24_0_3 | - | Here I Stand | 真理の在処 |
 | _LIMITED_4_3_1 | - | Cremation Last Wish | 遺志に咲く火の華 |
 | _LIMITED_7_1_1 | - | Forget Me Not | 勿忘草 |
 | _LIMITED_8_3_1 | - | Earthborn Metals | 地生五金 |
@@ -168,3 +169,4 @@ tip: 请善用浏览器的搜索功能
 | _NORM_8_1_1 | - | Jail Tiger Unchained | 自由な虜囚 |
 | _NORM_8_2_1 | - | The Wheat And The Anthem | 麦穂と賛美歌 |
 | _NORM_9_3_1 | - | Illusions of the Past | 在りし日の幻影 |
+| _SINGLE_24_0_1 | - | As In My Adumbration | 影に潜みて |

@@ -2145,78 +2145,128 @@
     "zh_CN": "来袭！天空王者！"
   },
   "act25side_01": {
+    "en_US": "Dense Fog",
+    "ja_JP": "深い霧",
     "zh_CN": "迷雾重重"
   },
   "act25side_02": {
+    "en_US": "Without a Trace",
+    "ja_JP": "追跡不能",
     "zh_CN": "无迹可寻"
   },
   "act25side_03": {
+    "en_US": "Front Stage, Back Stage",
+    "ja_JP": "表舞台と舞台裏",
     "zh_CN": "台前幕后"
   },
   "act25side_04": {
+    "en_US": "Rising Waves",
+    "ja_JP": "荒波再び",
     "zh_CN": "一波又起"
   },
   "act25side_05": {
+    "en_US": "Beyond the Veil",
+    "ja_JP": "開く活路",
     "zh_CN": "柳暗花明"
   },
   "act25side_06": {
+    "en_US": "Gathering of Heroes",
+    "ja_JP": "集う者たち",
     "zh_CN": "群英荟萃"
   },
   "act25side_07": {
+    "en_US": "Castle in the Sky",
+    "ja_JP": "空に浮かぶ城",
     "zh_CN": "空中楼阁"
   },
   "act25side_08": {
+    "en_US": "Between Past and Present",
+    "ja_JP": "交差する今昔",
     "zh_CN": "过去与现在的交会"
   },
   "act25side_09": {
+    "en_US": "Love and Hatred",
+    "ja_JP": "渦巻く恩讐",
     "zh_CN": "恩怨纠葛"
   },
   "act25side_10": {
+    "en_US": "Lost Amongst the Stars",
+    "ja_JP": "星間に散る",
     "zh_CN": "散于星辰之间"
   },
   "act25side_s01_a": {
+    "en_US": "Figure Skating α",
+    "ja_JP": "フィギュアスケートα",
     "zh_CN": "花式滑冰·α"
   },
   "act25side_s01_b": {
+    "en_US": "Figure Skating β",
+    "ja_JP": "フィギュアスケートβ",
     "zh_CN": "花式滑冰·β"
   },
   "act25side_s02_a": {
+    "en_US": "Trenches α",
+    "ja_JP": "塹壕α",
     "zh_CN": "战壕·α"
   },
   "act25side_s02_b": {
+    "en_US": "Trenches β",
+    "ja_JP": "塹壕β",
     "zh_CN": "战壕·β"
   },
   "act25side_s03_a": {
+    "en_US": "Rally α",
+    "ja_JP": "シーソーゲームα",
     "zh_CN": "拉力赛·α"
   },
   "act25side_s03_b": {
+    "en_US": "Rally β",
+    "ja_JP": "シーソーゲームβ",
     "zh_CN": "拉力赛·β"
   },
   "act25side_s04": {
+    "en_US": "Supernova",
+    "ja_JP": "スーパーノヴァ",
     "zh_CN": "新星爆发"
   },
   "act25side_sp01": {
+    "en_US": "Edge of the Cliff",
+    "ja_JP": "崖っぷち",
     "zh_CN": "悬崖边缘"
   },
   "act25side_sp02": {
+    "en_US": "Back Against the Wall",
+    "ja_JP": "背水の陣",
     "zh_CN": "破釜沉舟"
   },
   "act25side_st01": {
+    "en_US": "Dark Clouds",
+    "ja_JP": "立ち込める暗雲",
     "zh_CN": "阴云密布"
   },
   "act25side_st02": {
+    "en_US": "Restless Waves",
+    "ja_JP": "迫る荒波",
     "zh_CN": "一波未平"
   },
   "act25side_st03": {
+    "en_US": "Those Left Behind",
+    "ja_JP": "残された人",
     "zh_CN": "留下的人"
   },
   "act25side_st04": {
+    "en_US": "Door to the Future",
+    "ja_JP": "未来への扉",
     "zh_CN": "推开未来之门"
   },
   "act25side_tr01": {
+    "en_US": "Cutting-Edge Architecture",
+    "ja_JP": "最先端建築",
     "zh_CN": "先锋建筑"
   },
   "act25side_tr02": {
+    "en_US": "Cutting Edge",
+    "ja_JP": "ハイテクノロジー",
     "zh_CN": "先锋工程"
   },
   "act26side_01": {
@@ -2843,6 +2893,8 @@
     "zh_CN": "龙门商业街"
   },
   "camp_r_16": {
+    "en_US": "Rest Avenue",
+    "ja_JP": "フェルマーテ通り",
     "zh_CN": "休止符街道"
   },
   "camp_r_17": {
@@ -3000,15 +3052,23 @@
     "zh_CN": "尘霾行动-4"
   },
   "hard_12-01": {
+    "en_US": "Operation Astrape-1",
+    "ja_JP": "驚靂作戦-1",
     "zh_CN": "惊霆行动-1"
   },
   "hard_12-02": {
+    "en_US": "Operation Astrape-2",
+    "ja_JP": "驚靂作戦‐2",
     "zh_CN": "惊霆行动-2"
   },
   "hard_12-03": {
+    "en_US": "Operation Astrape-3",
+    "ja_JP": "驚靂作戦‐3",
     "zh_CN": "惊霆行动-3"
   },
   "hard_12-04": {
+    "en_US": "Operation Astrape-4",
+    "ja_JP": "驚靂作戦‐4",
     "zh_CN": "惊霆行动-4"
   },
   "hard_13-01": {
@@ -3244,39 +3304,63 @@
     "zh_CN": "人与自然"
   },
   "lt_07_01": {
+    "en_US": "I Know the Risks",
+    "ja_JP": "困難と知りつつ",
     "zh_CN": "知难而进"
   },
   "lt_07_02": {
+    "en_US": "Barrenlands Business",
+    "ja_JP": "荒野の戦い方",
     "zh_CN": "荒地的手段"
   },
   "lt_07_03": {
+    "en_US": "Numb Way Forward",
+    "ja_JP": "無関心で進む道",
     "zh_CN": "麻木前行"
   },
   "lt_07_04": {
+    "en_US": "Chaotic Party",
+    "ja_JP": "混乱の「パーティー」",
     "zh_CN": "混乱“派对”"
   },
   "lt_07_05": {
+    "en_US": "Messenger",
+    "ja_JP": "情報伝達",
     "zh_CN": "消息传递"
   },
   "lt_07_06": {
+    "en_US": "Show of Power",
+    "ja_JP": "力の誇示",
     "zh_CN": "力量的炫耀"
   },
   "lt_08_01": {
+    "en_US": "Fatal Attraction",
+    "ja_JP": "致命的な魅力",
     "zh_CN": "致命吸引"
   },
   "lt_08_02": {
+    "en_US": "Drunk Hammer",
+    "ja_JP": "酔っ払いの一撃",
     "zh_CN": "烂醉铁锤"
   },
   "lt_08_03": {
+    "en_US": "For Survival",
+    "ja_JP": "生存のため",
     "zh_CN": "为了生存"
   },
   "lt_08_04": {
+    "en_US": "Mixed Gas",
+    "ja_JP": "混合毒ガス",
     "zh_CN": "混合毒气"
   },
   "lt_08_05": {
+    "en_US": "Nurturing Wither",
+    "ja_JP": "枯朽が孕むのは",
     "zh_CN": "枯朽孕育"
   },
   "lt_08_06": {
+    "en_US": "Suffocation",
+    "ja_JP": "窒息",
     "zh_CN": "窒息"
   },
   "lt_09_01": {
@@ -4126,57 +4210,93 @@
     "zh_CN": "最后的蒸汽骑士"
   },
   "main_12-01": {
+    "en_US": "Reception Party",
+    "ja_JP": "待ちわびた降臨",
     "zh_CN": "静候驾临"
   },
   "main_12-02": {
+    "en_US": "Benevolent Betrayal",
+    "ja_JP": "善意の裏切り",
     "zh_CN": "善意背叛"
   },
   "main_12-03": {
+    "en_US": "Unity is Luxury",
+    "ja_JP": "高望みの団結",
     "zh_CN": "团结就是奢望"
   },
   "main_12-04": {
+    "en_US": "Brittle Steel",
+    "ja_JP": "脆い鋼",
     "zh_CN": "脆钢"
   },
   "main_12-05": {
+    "en_US": "Whose War",
+    "ja_JP": "誰が為の戦争",
     "zh_CN": "谁的战争"
   },
   "main_12-06": {
+    "en_US": "Discourse of Life and Death",
+    "ja_JP": "生死の論争",
     "zh_CN": "平议生死"
   },
   "main_12-07": {
+    "en_US": "Reunion Under Fire",
+    "ja_JP": "前線での再会",
     "zh_CN": "火线重逢"
   },
   "main_12-08": {
+    "en_US": "Years of Passion",
+    "ja_JP": "情熱に満ちた頃",
     "zh_CN": "热血年华"
   },
   "main_12-09": {
+    "en_US": "Broadcast Hotline is Busy",
+    "ja_JP": "放送線混雑中",
     "zh_CN": "广播热线正繁忙"
   },
   "main_12-10": {
+    "en_US": "Hats Off",
+    "ja_JP": "脱帽の礼",
     "zh_CN": "脱帽致敬"
   },
   "main_12-11": {
+    "en_US": "Against the Light",
+    "ja_JP": "逆光の影",
     "zh_CN": "逆光阴影"
   },
   "main_12-12": {
+    "en_US": "Ears Muffed",
+    "ja_JP": "耳を塞ぐ",
     "zh_CN": "捂住耳朵"
   },
   "main_12-13": {
+    "en_US": "Battered and Bruised",
+    "ja_JP": "穴だらけ",
     "zh_CN": "千疮百孔"
   },
   "main_12-14": {
+    "en_US": "Clouds Burn Red",
+    "ja_JP": "空際の夕焼け雲",
     "zh_CN": "天边的火烧云"
   },
   "main_12-15": {
+    "en_US": "The Abandoned",
+    "ja_JP": "見捨てられた者",
     "zh_CN": "被弃之人"
   },
   "main_12-16": {
+    "en_US": "Good Night",
+    "ja_JP": "おやすみなさい",
     "zh_CN": "晚安"
   },
   "main_12-17": {
+    "en_US": "Fly, Fireworks",
+    "ja_JP": "火種、飛び越えて",
     "zh_CN": "飞跃，烟火"
   },
   "main_12-18": {
+    "en_US": "Sincere Invitation",
+    "ja_JP": "真摯な誘い",
     "zh_CN": "诚挚邀请"
   },
   "main_13-01": {
@@ -4427,12 +4547,18 @@
     "zh_CN": "不可避免"
   },
   "st_12-01": {
+    "en_US": "Heat Wave",
+    "ja_JP": "火と熱風",
     "zh_CN": "火光热浪"
   },
   "st_12-02": {
+    "en_US": "Ticking Clock",
+    "ja_JP": "時は待たず",
     "zh_CN": "时不我待"
   },
   "st_12-03": {
+    "en_US": "Quiet On the Front",
+    "ja_JP": "嵐の前の静けさ",
     "zh_CN": "战场静悄悄"
   },
   "st_13-01": {
@@ -4780,9 +4906,13 @@
     "zh_CN": "枯枝"
   },
   "tr_22": {
+    "en_US": "Know Right From Wrong",
+    "ja_JP": "善悪の判断",
     "zh_CN": "明辨是非"
   },
   "tr_23": {
+    "en_US": "Devil's Temptation",
+    "ja_JP": "悪魔の誘惑",
     "zh_CN": "恶魔诱惑"
   },
   "tr_24": {

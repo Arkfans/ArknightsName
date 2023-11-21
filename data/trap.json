@@ -520,18 +520,28 @@
     "zh_CN": "巨壳藤蔓"
   },
   "trap_111_wdfarm": {
+    "en_US": "Roadside Emergency Reserves",
+    "ja_JP": "街の緊急用備蓄",
     "zh_CN": "街头应急储备"
   },
   "trap_112_crsbow": {
+    "en_US": "Post-Firing Debt Relief Program",
+    "ja_JP": "解雇者清算プログラム",
     "zh_CN": "解雇者清债程序"
   },
   "trap_113_snflwr": {
+    "en_US": "Full-Auto Debit Machine",
+    "ja_JP": "全自動送金機",
     "zh_CN": "全自动划账器"
   },
   "trap_114_smkbmb": {
+    "en_US": "Rupturing Canister",
+    "ja_JP": "毒ガスタンク",
     "zh_CN": "爆裂毒气罐"
   },
   "trap_115_gasctrl": {
+    "en_US": "Gas Controller",
+    "ja_JP": "毒霧タワー制御装置",
     "zh_CN": "毒雾塔控制"
   },
   "trap_116_stdurk": {
@@ -550,6 +560,8 @@
     "zh_CN": "破旧的木篱"
   },
   "trap_121_gractrl": {
+    "en_US": "Gravity",
+    "ja_JP": "重力",
     "zh_CN": "重力"
   },
   "trap_122_stmpq": {
@@ -853,30 +865,48 @@
     "zh_CN": "劣质闪光弹"
   },
   "trap_714_cdaltar": {
+    "en_US": "Energy Perturbation Amplifier",
+    "ja_JP": "エネルギー摂動増幅器",
     "zh_CN": "能量扰动放大器"
   },
   "trap_715_cdaltara": {
+    "en_US": "Energy Perturbation Amplifier",
+    "ja_JP": "エネルギー摂動増幅器",
     "zh_CN": "能量扰动放大器"
   },
   "trap_716_cdaltarb": {
+    "en_US": "Energy Perturbation Amplifier",
+    "ja_JP": "エネルギー摂動増幅器",
     "zh_CN": "能量扰动放大器"
   },
   "trap_717_cddiff": {
+    "en_US": "Tactical Equipment Toolbox",
+    "ja_JP": "戦術装備整理箱",
     "zh_CN": "战术装备整理箱"
   },
   "trap_718_cddiffa": {
+    "en_US": "Tactical Equipment Toolbox",
+    "ja_JP": "戦術装備整理箱",
     "zh_CN": "战术装备整理箱"
   },
   "trap_719_cddiffb": {
+    "en_US": "Tactical Equipment Toolbox",
+    "ja_JP": "戦術装備整理箱",
     "zh_CN": "战术装备整理箱"
   },
   "trap_720_cdheal": {
+    "en_US": "Portable First-aid Kit",
+    "ja_JP": "携帯式医療設備",
     "zh_CN": "便携式医疗设备"
   },
   "trap_721_cdheala": {
+    "en_US": "Portable First-aid Kit",
+    "ja_JP": "携帯式医療設備",
     "zh_CN": "便携式医疗设备"
   },
   "trap_722_cdhealb": {
+    "en_US": "Portable First-aid Kit",
+    "ja_JP": "携帯式医療設備",
     "zh_CN": "便携式医疗设备"
   },
   "trap_723_cdcvrt": {

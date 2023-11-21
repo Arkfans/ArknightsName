@@ -8,18 +8,18 @@ tip: 请善用浏览器的搜索功能
 | char_002_amiya@epoque#4 | 见习联结者 | Fresh Fastener | 見習い宅配人 |
 | char_002_amiya@test#1 | 播种者 | - | - |
 | char_002_amiya@winter#1 | 报童 | Newsgirl | 新聞配達員 |
-| char_003_kalts@boc#6 | 残余 | - | - |
+| char_003_kalts@boc#6 | 残余 | Remnant | 名残 |
 | char_010_chen@nian#2 | 岁红霞 | Ageless Afterglow | 歳紅霞 |
 | char_017_huang@as#1 | 爆裂菲林 | Burst Feline | 爆裂フェリーン |
 | char_1001_amiya2@casc#1 | 触及星辰 | - | - |
 | char_1011_lava2@nian#6 | 暮影藤萝 | Dusk Wisteria | 紫藤麗姿 |
 | char_1012_skadi2@boc#4 | 升华 | Sublimation | 昇華 |
-| char_1013_chen2@boc#6 | 万重山 | - | - |
+| char_1013_chen2@boc#6 | 万重山 | Ten Thousand Mountains | 万重山 |
 | char_1014_nearl2@epoque#17 | 复现荣光 | Relight | 栄光の再臨 |
 | char_101_sora@epoque#17 | 如歌 | Melodiosa | メロディオーソ |
 | char_101_sora@summer#1 | 夏卉 FA361 | Summer Flowers FA361 | 夏の花弁FA361 |
 | char_1021_kroos2@nian#8 | 廊下游  | Along the Corridor | 長廊遊 |
-| char_1023_ghost2@boc#6 | 生而为一 | - | - |
+| char_1023_ghost2@boc#6 | 生而为一 | Born as One | 対なる一人 |
 | char_1026_gvial2@summer#12 | 悠然假日 HD26 | - | - |
 | char_1027_greyy2@snow#5 | 演出后的王子 | Aftershow | 終演後の王子様 |
 | char_1028_texas2@iteration#1 | 破翼者 | - | - |
@@ -157,7 +157,7 @@ tip: 请善用浏览器的搜索功能
 | char_274_astesi@epoque#5 | 寻耀 | Starseeker | 星尋ね |
 | char_274_astesi@shining#1 | 殿堂上的游禽 | Frlibe on the Palace | 翼広げしフレリーべ |
 | char_277_sqrrel@ghost#1 | 古堡清洁专家 | Cleansweeper in the Castle | 古城の掃除屋 |
-| char_278_orchid@boc#6 | 衣缕往昔 | - | - |
+| char_278_orchid@boc#6 | 衣缕往昔 | Twines of Time | 在りし日を繕って |
 | char_279_excu@boc#1 | 无题密令 | Titleless Code | 無題の密命 |
 | char_283_midn@boc#1 | 第七夜苏醒魔君 | Seventh Night's Awakened | 第七夜に覚醒めし魔王 |
 | char_284_spot@boc#3 | 专业人士 | Professional | プロフェッショナル |
@@ -169,7 +169,7 @@ tip: 请善用浏览器的搜索功能
 | char_291_aglina@summer#5 | 夏卉 FA017 | Summer Flower FA017 | 夏の花弁FA017 |
 | char_293_thorns@it#1 | 惬意 | Cómodo | 満喫 |
 | char_294_ayer@boc#3 | 受验者 | Tested One | 潜入者 |
-| char_297_hamoni@epoque#24 | 邀约 | - | - |
+| char_297_hamoni@epoque#24 | 邀约 | Invitation | お誘い |
 | char_298_susuro@summer#6 | 夏卉 FA026 | Summer Flower FA026 | 夏の花弁FA026 |
 | char_300_phenxi@witch#4 | 至圣誓言 | - | - |
 | char_302_glaze@summer#11 | 悠然假日 HD29 | - | - |
@@ -217,7 +217,7 @@ tip: 请善用浏览器的搜索功能
 | char_391_rosmon@epoque#17 | 拥抱新生 | Become Anew | 始まりを抱く |
 | char_4000_jnight@boc#7 | 竞技之梦改装 | - | - |
 | char_4004_pudd@snow#5 | 火树灵 | Gleaming Fey | 煌めく精霊 |
-| char_4009_irene@ambienceSynesthesia#3 | 飞羽 | - | - |
+| char_4009_irene@ambienceSynesthesia#3 | 飞羽 | Voyage of Feathers | 飛び立つ羽 |
 | char_400_weedy@snow#2 | 糖果仙子 | Candy Cape | キャンディフェアリー |
 | char_4013_kjera@epoque#18 | 灵巧侍者 | Ingenious Servant | 腕利き侍女 |
 | char_4014_lunacu@yun#1 | 棠云巧梦 | - | - |
@@ -229,13 +229,13 @@ tip: 请善用浏览器的搜索功能
 | char_402_tuye@epoque#14 | 培翠 | Cultivate Vegetation | 緑化 |
 | char_4032_provs@wild#7 | 秋高气爽 | High Autumn | 晴れ渡る秋空 |
 | char_4036_forcer@epoque#20 | 拾翼 | Paper Wing | 不確かな翼 |
-| char_4039_horn@epoque#24 | 化花 | - | - |
+| char_4039_horn@epoque#24 | 化花 | To Effloresce Whitely | 花となりて |
 | char_4040_rockr@lxh#1 | 欢唱之前 | Before Singing | 歌の前に |
 | char_4041_chnut@summer#12 | 悠然假日 HDm57 | - | - |
-| char_4042_lumen@ambienceSynesthesia#3 | 灿海浮梦 | - | - |
+| char_4042_lumen@ambienceSynesthesia#3 | 灿海浮梦 | Golden Dream | 輝ける夢の海 |
 | char_4043_erato@snow#5 | 未讲述的故事 | Untold Stories | 語られざる物語 |
-| char_4045_heidi@epoque#24 | 书信零落 | - | - |
-| char_4046_ebnhlz@boc#6 | 变奏 | - | - |
+| char_4045_heidi@epoque#24 | 书信零落 | A Thousand Correspondences | 溢れ落ちる手紙 |
+| char_4046_ebnhlz@boc#6 | 变奏 | Eine Variation | 変奏 |
 | char_4047_pianst@wild#8 | 荒野寻音 | - | - |
 | char_4048_doroth@witch#4 | 命运主宰 | - | - |
 | char_4054_malist@summer#14 | 悠然假日 HDm74 | - | - |
@@ -279,7 +279,7 @@ tip: 请善用浏览器的搜索功能
 | char_478_kirara@game#2 | 前沿玩家 | Trendsetting Player | トレンディゲーマー |
 | char_479_sleach@epoque#14 | 识芳 | Appreciate Fragrance | 満開 |
 | char_479_sleach@summer#11 | 夏卉 FA317 | - | - |
-| char_484_robrta@ambienceSynesthesia#3 | 待绘的作品 | - | - |
+| char_484_robrta@ambienceSynesthesia#3 | 待绘的作品 | Granter of Colors | 色彩を待つ白 |
 | char_484_robrta@summer#10 | 夏卉 FA374 | Summer Flowers FA374 | 夏の花弁FA374 |
 | char_485_pallas@epoque#12 | 传承 | Heritage | 伝承 |
 | char_485_pallas@epoque#19 | 山川的酿造 | A Drip of Orea and Potamous | 山川の醸造 |

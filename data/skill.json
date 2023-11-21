@@ -480,9 +480,13 @@
     "zh_CN": "“自由的探戈”"
   },
   "skchr_cement_1": {
+    "en_US": "Stratum Groundbreaker",
+    "ja_JP": "鉱脈突破",
     "zh_CN": "突破矿层"
   },
   "skchr_cement_2": {
+    "en_US": "Structural Support",
+    "ja_JP": "構造強化",
     "zh_CN": "结构加固"
   },
   "skchr_cerber_1": {
@@ -1159,12 +1163,18 @@
     "zh_CN": "满月"
   },
   "skchr_heyak_1": {
+    "en_US": "In Search of Reason",
+    "ja_JP": "探求せんがため",
     "zh_CN": "但为求索"
   },
   "skchr_heyak_2": {
+    "en_US": "Meandering Stars",
+    "ja_JP": "星々のうねり",
     "zh_CN": "群星逶迤"
   },
   "skchr_heyak_3": {
+    "en_US": "Well-Read Ravings",
+    "ja_JP": "博識者の妄言",
     "zh_CN": "博览者的狂语"
   },
   "skchr_highmo_1": {
@@ -1252,9 +1262,13 @@
     "zh_CN": "沸腾爆裂"
   },
   "skchr_humus_1": {
+    "en_US": "Solid Waste Cutting",
+    "ja_JP": "廃棄物処理",
     "zh_CN": "固废切割"
   },
   "skchr_humus_2": {
+    "en_US": "Efficient Processing",
+    "ja_JP": "高効率作業",
     "zh_CN": "高效处理"
   },
   "skchr_ifrit_1": {
@@ -1283,12 +1297,18 @@
     "zh_CN": "光影迷宫"
   },
   "skchr_ines_1": {
+    "en_US": "Shadow Raid",
+    "ja_JP": "影纏う刃",
     "zh_CN": "淬影突袭"
   },
   "skchr_ines_2": {
+    "en_US": "Murky Night",
+    "ja_JP": "光亡き闇",
     "zh_CN": "暗夜无明"
   },
   "skchr_ines_3": {
+    "en_US": "Solitary Return",
+    "ja_JP": "孤影の帰路",
     "zh_CN": "独影归途"
   },
   "skchr_inside_1": {
@@ -1612,9 +1632,13 @@
     "zh_CN": "安全区域"
   },
   "skchr_melnte_1": {
+    "en_US": "Saturated Pulse",
+    "ja_JP": "飽和パルス",
     "zh_CN": "饱和脉冲"
   },
   "skchr_melnte_2": {
+    "en_US": "Critical Burst",
+    "ja_JP": "リミテッドバースト",
     "zh_CN": "临界爆发"
   },
   "skchr_meteo_1": {
@@ -1698,12 +1722,18 @@
     "zh_CN": "未照耀的荣光"
   },
   "skchr_mlyss_1": {
+    "en_US": "Progressive Moisturization",
+    "ja_JP": "段階的湿潤化",
     "zh_CN": "渐进性润化"
   },
   "skchr_mlyss_2": {
+    "en_US": "Ecological Interaction",
+    "ja_JP": "生態系統結合",
     "zh_CN": "生态耦合"
   },
   "skchr_mlyss_3": {
+    "en_US": "Superficial Regulation",
+    "ja_JP": "ノンエントロピー適応",
     "zh_CN": "浅层非熵适应"
   },
   "skchr_mm_1": {
@@ -1727,9 +1757,13 @@
     "zh_CN": "磁爆锤"
   },
   "skchr_morgan_1": {
+    "en_US": "Professional Street Fighter",
+    "ja_JP": "ストリートパンク",
     "zh_CN": "街头好手"
   },
   "skchr_morgan_2": {
+    "en_US": "Dauntless Resistance",
+    "ja_JP": "大胆不敵",
     "zh_CN": "无畏招架"
   },
   "skchr_mostma_2": {
@@ -2323,12 +2357,18 @@
     "zh_CN": "光辉旗帜"
   },
   "skchr_slent2_1": {
+    "en_US": "Go-Getter",
+    "ja_JP": "止まらぬ歩み",
     "zh_CN": "进取之心"
   },
   "skchr_slent2_2": {
+    "en_US": "Overlooking Vision",
+    "ja_JP": "俯瞰する視点",
     "zh_CN": "俯瞰视界"
   },
   "skchr_slent2_3": {
+    "en_US": "Dreadnought Protocol",
+    "ja_JP": "先駆者たちの翼",
     "zh_CN": "无畏者协议"
   },
   "skchr_snakek_2": {
@@ -3121,12 +3161,18 @@
     "zh_CN": "阿戈尔示波器"
   },
   "sktok_cdaltar": {
+    "en_US": "Energy Perturbation",
+    "ja_JP": "エネルギー妨害",
     "zh_CN": "能量扰动"
   },
   "sktok_cdaltara": {
+    "en_US": "Energy Perturbation",
+    "ja_JP": "エネルギー妨害",
     "zh_CN": "能量扰动"
   },
   "sktok_cdaltarb": {
+    "en_US": "Energy Perturbation",
+    "ja_JP": "エネルギー妨害",
     "zh_CN": "能量扰动"
   },
   "sktok_cdbeacon": {
@@ -3166,12 +3212,18 @@
     "zh_CN": "溢能回收"
   },
   "sktok_cddiff": {
+    "en_US": "Sort Tactical Equipment",
+    "ja_JP": "戦術装備整理",
     "zh_CN": "战术装备整理"
   },
   "sktok_cddiffa": {
+    "en_US": "Sort Tactical Equipment",
+    "ja_JP": "戦術装備整理",
     "zh_CN": "战术装备整理"
   },
   "sktok_cddiffb": {
+    "en_US": "Sort Tactical Equipment",
+    "ja_JP": "戦術装備整理",
     "zh_CN": "战术装备整理"
   },
   "sktok_cdflsb": {
@@ -3180,12 +3232,18 @@
     "zh_CN": "劣质闪光弹"
   },
   "sktok_cdheal": {
+    "en_US": "Portable First-aid Kit",
+    "ja_JP": "携帯式医療設備",
     "zh_CN": "便携式医疗设备"
   },
   "sktok_cdheala": {
+    "en_US": "Portable First-aid Kit",
+    "ja_JP": "携帯式医療設備",
     "zh_CN": "便携式医疗设备"
   },
   "sktok_cdhealb": {
+    "en_US": "Portable First-aid Kit",
+    "ja_JP": "携帯式医療設備",
     "zh_CN": "便携式医疗设备"
   },
   "sktok_cdhvrk": {
@@ -3233,6 +3291,8 @@
     "zh_CN": "溟痕"
   },
   "sktok_crsbow": {
+    "en_US": "Debt Relief Program",
+    "ja_JP": "清算プログラム",
     "zh_CN": "清债程序"
   },
   "sktok_dancdol": {
@@ -3379,6 +3439,8 @@
     "zh_CN": "自走车出击！"
   },
   "sktok_gasctrl": {
+    "en_US": "Poison Mist Control",
+    "ja_JP": "毒霧制御",
     "zh_CN": "毒雾控制"
   },
   "sktok_gate": {
@@ -3387,6 +3449,8 @@
     "zh_CN": "关闭闸门"
   },
   "sktok_gractrl": {
+    "en_US": "Gravity Generation",
+    "ja_JP": "重力生成",
     "zh_CN": "重力生成"
   },
   "sktok_gtreasure": {
@@ -3526,12 +3590,18 @@
     "zh_CN": "沼泽控制"
   },
   "sktok_mlyss_wtrman_1": {
+    "en_US": "Flowing Shape",
+    "ja_JP": "うつろう水影",
     "zh_CN": "流形"
   },
   "sktok_mlyss_wtrman_2": {
+    "en_US": "Flowing Shape",
+    "ja_JP": "うつろう水影",
     "zh_CN": "流形"
   },
   "sktok_mlyss_wtrman_3": {
+    "en_US": "Flowing Shape",
+    "ja_JP": "うつろう水影",
     "zh_CN": "流形"
   },
   "sktok_motter_1": {
@@ -3788,6 +3858,8 @@
     "zh_CN": "救援绳索"
   },
   "sktok_slent2_protrb": {
+    "en_US": "Night Banisher",
+    "ja_JP": "夜の灯火",
     "zh_CN": "夜灯"
   },
   "sktok_slowfd": {
@@ -3802,6 +3874,8 @@
     "zh_CN": "诱人珍宝"
   },
   "sktok_smkbmb": {
+    "en_US": "Rupture",
+    "ja_JP": "爆裂",
     "zh_CN": "爆裂"
   },
   "sktok_smokebomb": {
@@ -3819,6 +3893,8 @@
     "zh_CN": "阻止部署"
   },
   "sktok_snflwr": {
+    "en_US": "Full-Auto Debit",
+    "ja_JP": "全自動送金",
     "zh_CN": "全自动划账"
   },
   "sktok_stdurk_1": {
@@ -3980,6 +4056,8 @@
     "zh_CN": "建立通讯"
   },
   "sktok_wdfarm": {
+    "en_US": "Resupply",
+    "ja_JP": "補給",
     "zh_CN": "补给"
   },
   "sktok_weedy_token": {

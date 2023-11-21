@@ -287,6 +287,10 @@
     "en_US": "Solitude Universal",
     "ja_JP": "万象伶丁"
   },
+  "_LIMITED_24_0_3": {
+    "en_US": "Here I Stand",
+    "ja_JP": "真理の在処"
+  },
   "_LIMITED_4_3_1": {
     "en_US": "Cremation Last Wish",
     "ja_JP": "遺志に咲く火の華"
@@ -557,5 +561,9 @@
   "_NORM_9_3_1": {
     "en_US": "Illusions of the Past",
     "ja_JP": "在りし日の幻影"
+  },
+  "_SINGLE_24_0_1": {
+    "en_US": "As In My Adumbration",
+    "ja_JP": "影に潜みて"
   }
 }

@@ -116,9 +116,9 @@ tip: 请善用浏览器的搜索功能
 | act23side_zone2 | 关外追凶 | Criminal Pursuit, Offsite | 関外追跡 |
 | act24side_zone1 | 苍暮山地 | Soubo Mountains | 蒼暮山地 |
 | act24side_zone2 | 艾露猫的委托柜台 | Commeowssion Counter | アイルーの受付カウンター |
-| act25side_zone1 | 未来将至 | - | - |
-| act25side_zone2 | 过往未尽 | - | - |
-| act25side_zone3 | 紧握当下 | - | - |
+| act25side_zone1 | 未来将至 | The Coming of The Future | 来たる未来 |
+| act25side_zone2 | 过往未尽 | The Lingering of the Past | 過ぎぬ過去 |
+| act25side_zone3 | 紧握当下 | The Pursuing of the Present | 在るべき今 |
 | act26side_zone1 | 安布罗修修道院 | - | - |
 | act26side_zone2 | 废弃圣堂 | - | - |
 | act27side_zone1 | 温泉假日 | - | - |
@@ -154,7 +154,7 @@ tip: 请善用浏览器的搜索功能
 | main_1 | 黑暗时代·下 | Evil Time Part 2 | 暗黒時代・下 |
 | main_10 | 破碎日冕 | Shatterpoint | 光冠残蝕 |
 | main_11 | 淬火尘霾 | Return To Mist | 淬火煙塵 |
-| main_12 | 惊霆无声 | - | - |
+| main_12 | 惊霆无声 | All Quiet Under the Thunder | 驚靂蕭然 |
 | main_13 | 恶兆湍流 | - | - |
 | main_2 | 异卵同生 | Separated Hearts | 相思相殺 |
 | main_3 | 二次呼吸 | Stinging Shock | 起死回生 |
@@ -218,9 +218,9 @@ tip: 请善用浏览器的搜索功能
 | permanent_sub_4_zone3 | 无名之海 | Nameless Ocean | 名もなき海 |
 | permanent_sub_4_zone4 | 蒙尘图册 | Dusty Picturebook | 古びた手記 |
 | permanent_sub_4_zone5 | 镜前映像 | Mirror Image | 鏡写しの映像 |
-| permanent_sub_5_zone1 | 未来将至 | - | - |
-| permanent_sub_5_zone2 | 过往未尽 | - | - |
-| permanent_sub_5_zone3 | 紧握当下 | - | - |
+| permanent_sub_5_zone1 | 未来将至 | The Coming of the Future | 来たる未来 |
+| permanent_sub_5_zone2 | 过往未尽 | The Lingering of the Past | 過ぎぬ過去 |
+| permanent_sub_5_zone3 | 紧握当下 | The Pursuing of the Present | 在るべき今 |
 | weekly_1 | 固若金汤 | Solid Defense | 重装/医療 |
 | weekly_2 | 摧枯拉朽 | Fierce Attack | 狙撃/術師 |
 | weekly_3 | 势不可挡 | Unstoppable Charge | 先鋒/補助 |

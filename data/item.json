@@ -670,6 +670,8 @@
     "zh_CN": "长风万里寻访凭证"
   },
   "LIMITED_TKT_GACHA_10_3801": {
+    "en_US": "Preludes to the Future Headhunting Permit",
+    "ja_JP": "感謝祭記念10回スカウト券",
     "zh_CN": "未来序曲寻访凭证"
   },
   "LIMITED_TKT_GACHA_10_4101": {
@@ -749,6 +751,8 @@
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_3801": {
+    "en_US": "Headhunting Data Contract",
+    "ja_JP": "限定契約証",
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_4101": {
@@ -768,6 +772,8 @@
     "zh_CN": "寻访数据契约"
   },
   "Logistics_Special_Permit": {
+    "en_US": "Logistics Special Permit",
+    "ja_JP": "特別支援申請許可証",
     "zh_CN": "后勤特别许可证"
   },
   "REP_COIN": {
@@ -1157,12 +1163,18 @@
     "zh_CN": "火龙的红玉"
   },
   "act25side_token_fdrchips": {
+    "en_US": "Flight Data Recorder Chip",
+    "ja_JP": "飛行データチップ",
     "zh_CN": "飞行数据记录芯片"
   },
   "act25side_token_key01": {
+    "en_US": "Special Ops Permit α",
+    "ja_JP": "特殊作戦許可α",
     "zh_CN": "特殊作战许可·α"
   },
   "act25side_token_key02": {
+    "en_US": "Special Ops Permit β",
+    "ja_JP": "特殊作戦許可β",
     "zh_CN": "特殊作战许可·β"
   },
   "act26side_token_fragmenta": {
@@ -1497,360 +1509,630 @@
     "zh_CN": "预约干员随机4选1"
   },
   "class_p_char_010_chen": {
+    "en_US": "Ch'en's Kernel Token",
+    "ja_JP": "チェンの印（中堅）",
     "zh_CN": "陈的中坚信物"
   },
   "class_p_char_017_huang": {
+    "en_US": "Blaze's Kernel Token",
+    "ja_JP": "ブレイズの印（中堅）",
     "zh_CN": "煌的中坚信物"
   },
   "class_p_char_101_sora": {
+    "en_US": "Sora's Kernel Token",
+    "ja_JP": "ソラの印（中堅）",
     "zh_CN": "空的中坚信物"
   },
   "class_p_char_102_texas": {
+    "en_US": "Texas's Kernel Token",
+    "ja_JP": "テキサスの印（中堅）",
     "zh_CN": "德克萨斯的中坚信物"
   },
   "class_p_char_103_angel": {
+    "en_US": "Exusiai's Kernel Token",
+    "ja_JP": "エクシアの印（中堅）",
     "zh_CN": "能天使的中坚信物"
   },
   "class_p_char_106_franka": {
+    "en_US": "Franka's Kernel Token",
+    "ja_JP": "フランカの印（中堅）",
     "zh_CN": "芙兰卡的中坚信物"
   },
   "class_p_char_107_liskam": {
+    "en_US": "Liskarm's Kernel Token",
+    "ja_JP": "リスカムの印（中堅）",
     "zh_CN": "雷蛇的中坚信物"
   },
   "class_p_char_108_silent": {
+    "en_US": "Silence's Kernel Token",
+    "ja_JP": "サイレンスの印（中堅）",
     "zh_CN": "赫默的中坚信物"
   },
   "class_p_char_109_fmout": {
+    "en_US": "Gitano's Kernel Token",
+    "ja_JP": "ギターノの印（中堅）",
     "zh_CN": "远山的中坚信物"
   },
   "class_p_char_110_deepcl": {
+    "en_US": "Deepcolor's Kernel Token",
+    "ja_JP": "ディピカの印（中堅）",
     "zh_CN": "深海色的中坚信物"
   },
   "class_p_char_112_siege": {
+    "en_US": "Siege's Kernel Token",
+    "ja_JP": "シージの印（中堅）",
     "zh_CN": "推进之王的中坚信物"
   },
   "class_p_char_115_headbr": {
+    "en_US": "Zima's Kernel Token",
+    "ja_JP": "ズィマーの印（中堅）",
     "zh_CN": "凛冬的中坚信物"
   },
   "class_p_char_117_myrrh": {
+    "en_US": "Myrrh's Kernel Token",
+    "ja_JP": "ミルラの印（中堅）",
     "zh_CN": "末药的中坚信物"
   },
   "class_p_char_118_yuki": {
+    "en_US": "Shirayuki's Kernel Token",
+    "ja_JP": "シラユキの印（中堅）",
     "zh_CN": "白雪的中坚信物"
   },
   "class_p_char_120_hibisc": {
+    "en_US": "Hibiscus's Kernel Token",
+    "ja_JP": "ハイビスカスの印（中堅）",
     "zh_CN": "芙蓉的中坚信物"
   },
   "class_p_char_121_lava": {
+    "en_US": "Lava's Kernel Token",
+    "ja_JP": "ラヴァの印（中堅）",
     "zh_CN": "炎熔的中坚信物"
   },
   "class_p_char_122_beagle": {
+    "en_US": "Beagle's Kernel Token",
+    "ja_JP": "ビーグルの印（中堅）",
     "zh_CN": "米格鲁的中坚信物"
   },
   "class_p_char_123_fang": {
+    "en_US": "Fang's Kernel Token",
+    "ja_JP": "フェンの印（中堅）",
     "zh_CN": "芬的中坚信物"
   },
   "class_p_char_124_kroos": {
+    "en_US": "Kroos's Kernel Token",
+    "ja_JP": "クルースの印（中堅）",
     "zh_CN": "克洛丝的中坚信物"
   },
   "class_p_char_126_shotst": {
+    "en_US": "Meteor's Kernel Token",
+    "ja_JP": "メテオの印（中堅）",
     "zh_CN": "流星的中坚信物"
   },
   "class_p_char_128_plosis": {
+    "en_US": "Ptilopsis's Kernel Token",
+    "ja_JP": "フィリオプシスの印（中堅）",
     "zh_CN": "白面鸮的中坚信物"
   },
   "class_p_char_129_bluep": {
+    "en_US": "Blue Poison's Kernel Token",
+    "ja_JP": "アズリウスの印（中堅）",
     "zh_CN": "蓝毒的中坚信物"
   },
   "class_p_char_130_doberm": {
+    "en_US": "Dobermann's Kernel Token",
+    "ja_JP": "ドーベルマンの印（中堅）",
     "zh_CN": "杜宾的中坚信物"
   },
   "class_p_char_133_mm": {
+    "en_US": "May's Kernel Token",
+    "ja_JP": "メイの印（中堅）",
     "zh_CN": "梅的中坚信物"
   },
   "class_p_char_134_ifrit": {
+    "en_US": "Ifrit's Kernel Token",
+    "ja_JP": "イフリータの印（中堅）",
     "zh_CN": "伊芙利特的中坚信物"
   },
   "class_p_char_136_hsguma": {
+    "en_US": "Hoshiguma's Kernel Token",
+    "ja_JP": "ホシグマの印（中堅）",
     "zh_CN": "星熊的中坚信物"
   },
   "class_p_char_137_brownb": {
+    "en_US": "Beehunter's Kernel Token",
+    "ja_JP": "ビーハンターの印（中堅）",
     "zh_CN": "猎蜂的中坚信物"
   },
   "class_p_char_140_whitew": {
+    "en_US": "Lappland's Kernel Token",
+    "ja_JP": "ラップランドの印（中堅）",
     "zh_CN": "拉普兰德的中坚信物"
   },
   "class_p_char_141_nights": {
+    "en_US": "Haze's Kernel Token",
+    "ja_JP": "ヘイズの印（中堅）",
     "zh_CN": "夜烟的中坚信物"
   },
   "class_p_char_143_ghost": {
+    "en_US": "Specter's Kernel Token",
+    "ja_JP": "スペクターの印（中堅）",
     "zh_CN": "幽灵鲨的中坚信物"
   },
   "class_p_char_144_red": {
+    "en_US": "Projekt Red's Kernel Token",
+    "ja_JP": "レッドの印（中堅）",
     "zh_CN": "红的中坚信物"
   },
   "class_p_char_145_prove": {
+    "en_US": "Provence's Kernel Token",
+    "ja_JP": "プロヴァンスの印（中堅）",
     "zh_CN": "普罗旺斯的中坚信物"
   },
   "class_p_char_147_shining": {
+    "en_US": "Shining's Kernel Token",
+    "ja_JP": "シャイニングの印（中堅）",
     "zh_CN": "闪灵的中坚信物"
   },
   "class_p_char_148_nearl": {
+    "en_US": "Nearl's Kernel Token",
+    "ja_JP": "ニアールの印（中堅）",
     "zh_CN": "临光的中坚信物"
   },
   "class_p_char_149_scave": {
+    "en_US": "Scavenger's Kernel Token",
+    "ja_JP": "スカベンジャーの印（中堅）",
     "zh_CN": "清道夫的中坚信物"
   },
   "class_p_char_150_snakek": {
+    "en_US": "Cuora's Kernel Token",
+    "ja_JP": "クオーラの印（中堅）",
     "zh_CN": "蛇屠箱的中坚信物"
   },
   "class_p_char_151_myrtle": {
+    "en_US": "Myrtle's Kernel Token",
+    "ja_JP": "テンニンカの印（中堅）",
     "zh_CN": "桃金娘的中坚信物"
   },
   "class_p_char_158_milu": {
+    "en_US": "Firewatch's Kernel Token",
+    "ja_JP": "ファイヤーウォッチの印（中堅）",
     "zh_CN": "守林人的中坚信物"
   },
   "class_p_char_164_nightm": {
+    "en_US": "Nightmare's Kernel Token",
+    "ja_JP": "ナイトメアの印（中堅）",
     "zh_CN": "夜魔的中坚信物"
   },
   "class_p_char_166_skfire": {
+    "en_US": "Skyfire's Kernel Token",
+    "ja_JP": "スカイフレアの印（中堅）",
     "zh_CN": "天火的中坚信物"
   },
   "class_p_char_171_bldsk": {
+    "en_US": "Warfarin's Kernel Token",
+    "ja_JP": "ワルファリンの印（中堅）",
     "zh_CN": "华法琳的中坚信物"
   },
   "class_p_char_172_svrash": {
+    "en_US": "SilverAsh's Kernel Token",
+    "ja_JP": "シルバーアッシュの印（中堅）",
     "zh_CN": "银灰的中坚信物"
   },
   "class_p_char_173_slchan": {
+    "en_US": "Cliffheart's Kernel Token",
+    "ja_JP": "クリフハートの印（中堅）",
     "zh_CN": "崖心的中坚信物"
   },
   "class_p_char_174_slbell": {
+    "en_US": "Pramanix's Kernel Token",
+    "ja_JP": "プラマニクスの印（中堅）",
     "zh_CN": "初雪的中坚信物"
   },
   "class_p_char_179_cgbird": {
+    "en_US": "Nightingale's Kernel Token",
+    "ja_JP": "ナイチンゲールの印（中堅）",
     "zh_CN": "夜莺的中坚信物"
   },
   "class_p_char_180_amgoat": {
+    "en_US": "Eyjafjalla's Kernel Token",
+    "ja_JP": "エイヤフィヤトラの印（中堅）",
     "zh_CN": "艾雅法拉的中坚信物"
   },
   "class_p_char_181_flower": {
+    "en_US": "Perfumer's Kernel Token",
+    "ja_JP": "パフューマーの印（中堅）",
     "zh_CN": "调香师的中坚信物"
   },
   "class_p_char_183_skgoat": {
+    "en_US": "Earthspirit's Kernel Token",
+    "ja_JP": "アーススピリットの印（中堅）",
     "zh_CN": "地灵的中坚信物"
   },
   "class_p_char_185_frncat": {
+    "en_US": "Mousse's Kernel Token",
+    "ja_JP": "ムースの印（中堅）",
     "zh_CN": "慕斯的中坚信物"
   },
   "class_p_char_188_helage": {
+    "en_US": "Hellagur's Kernel Token",
+    "ja_JP": "ヘラグの印（中堅）",
     "zh_CN": "赫拉格的中坚信物"
   },
   "class_p_char_190_clour": {
+    "en_US": "Vermeil's Kernel Token",
+    "ja_JP": "ヴァーミルの印（中堅）",
     "zh_CN": "红云的中坚信物"
   },
   "class_p_char_192_falco": {
+    "en_US": "Plume's Kernel Token",
+    "ja_JP": "プリュムの印（中堅）",
     "zh_CN": "翎羽的中坚信物"
   },
   "class_p_char_193_frostl": {
+    "en_US": "Frostleaf's Kernel Token",
+    "ja_JP": "フロストリーフの印（中堅）",
     "zh_CN": "霜叶的中坚信物"
   },
   "class_p_char_195_glassb": {
+    "en_US": "Istina's Kernel Token",
+    "ja_JP": "イースチナの印（中堅）",
     "zh_CN": "真理的中坚信物"
   },
   "class_p_char_196_sunbr": {
+    "en_US": "Gummy's Kernel Token",
+    "ja_JP": "グムの印（中堅）",
     "zh_CN": "古米的中坚信物"
   },
+  "class_p_char_197_poca": {
+    "en_US": "Rosa's Kernel Token",
+    "ja_JP": "ロサの印（中堅）"
+  },
   "class_p_char_199_yak": {
+    "en_US": "Matterhorn's Kernel Token",
+    "ja_JP": "マッターホルンの印（中堅）",
     "zh_CN": "角峰的中坚信物"
   },
   "class_p_char_2013_cerber": {
+    "en_US": "Ceobe's Kernel Token",
+    "ja_JP": "ケオベの印（中堅）",
     "zh_CN": "刻俄柏的中坚信物"
   },
   "class_p_char_201_moeshd": {
+    "en_US": "Croissant's Kernel Token",
+    "ja_JP": "クロワッサンの印（中堅）",
     "zh_CN": "可颂的中坚信物"
   },
   "class_p_char_202_demkni": {
+    "en_US": "Saria's Kernel Token",
+    "ja_JP": "サリアの印（中堅）",
     "zh_CN": "塞雷娅的中坚信物"
   },
   "class_p_char_204_platnm": {
+    "en_US": "Platinum's Kernel Token",
+    "ja_JP": "プラチナの印（中堅）",
     "zh_CN": "白金的中坚信物"
   },
   "class_p_char_208_melan": {
+    "en_US": "Melantha's Kernel Token",
+    "ja_JP": "メランサの印（中堅）",
     "zh_CN": "玫兰莎的中坚信物"
   },
   "class_p_char_209_ardign": {
+    "en_US": "Cardigan's Kernel Token",
+    "ja_JP": "カーディの印（中堅）",
     "zh_CN": "卡缇的中坚信物"
   },
   "class_p_char_210_stward": {
+    "en_US": "Steward's Kernel Token",
+    "ja_JP": "スチュワードの印（中堅）",
     "zh_CN": "史都华德的中坚信物"
   },
   "class_p_char_212_ansel": {
+    "en_US": "Ansel's Kernel Token",
+    "ja_JP": "アンセルの印（中堅）",
     "zh_CN": "安赛尔的中坚信物"
   },
   "class_p_char_213_mostma": {
+    "en_US": "Mostima's Kernel Token",
+    "ja_JP": "モスティマの印（中堅）",
     "zh_CN": "莫斯提马的中坚信物"
   },
   "class_p_char_215_mantic": {
+    "en_US": "Manticore's Kernel Token",
+    "ja_JP": "マンティコアの印（中堅）",
     "zh_CN": "狮蝎的中坚信物"
   },
   "class_p_char_219_meteo": {
+    "en_US": "Meteorite's Kernel Token",
+    "ja_JP": "メテオリーテの印（中堅）",
     "zh_CN": "陨星的中坚信物"
   },
   "class_p_char_222_bpipe": {
+    "en_US": "Bagpipe's Kernel Token",
+    "ja_JP": "バグパイプの印（中堅）",
     "zh_CN": "风笛的中坚信物"
   },
   "class_p_char_225_haak": {
+    "en_US": "Aak's Kernel Token",
+    "ja_JP": "アの印（中堅）",
     "zh_CN": "阿的中坚信物"
   },
   "class_p_char_226_hmau": {
+    "en_US": "Hung's Kernel Token",
+    "ja_JP": "ウンの印（中堅）",
     "zh_CN": "吽的中坚信物"
   },
   "class_p_char_235_jesica": {
+    "en_US": "Jessica's Kernel Token",
+    "ja_JP": "ジェシカの印（中堅）",
     "zh_CN": "杰西卡的中坚信物"
   },
   "class_p_char_236_rope": {
+    "en_US": "Rope's Kernel Token",
+    "ja_JP": "ロープの印（中堅）",
     "zh_CN": "暗索的中坚信物"
   },
   "class_p_char_237_gravel": {
+    "en_US": "Gravel's Kernel Token",
+    "ja_JP": "グラベルの印（中堅）",
     "zh_CN": "砾的中坚信物"
   },
   "class_p_char_240_wyvern": {
+    "en_US": "Vanilla's Kernel Token",
+    "ja_JP": "バニラの印（中堅）",
     "zh_CN": "香草的中坚信物"
   },
   "class_p_char_241_panda": {
+    "en_US": "FEater's Kernel Token",
+    "ja_JP": "エフイーターの印（中堅）",
     "zh_CN": "食铁兽的中坚信物"
   },
   "class_p_char_242_otter": {
+    "en_US": "Mayer's Kernel Token",
+    "ja_JP": "メイヤーの印（中堅）",
     "zh_CN": "梅尔的中坚信物"
   },
   "class_p_char_243_waaifu": {
+    "en_US": "Waai Fu's Kernel Token",
+    "ja_JP": "ワイフーの印（中堅）",
     "zh_CN": "槐琥的中坚信物"
   },
   "class_p_char_248_mgllan": {
+    "en_US": "Magallan's Kernel Token",
+    "ja_JP": "マゼランの印（中堅）",
     "zh_CN": "麦哲伦的中坚信物"
   },
   "class_p_char_250_phatom": {
+    "en_US": "Phantom's Kernel Token",
+    "ja_JP": "ファントムの印（中堅）",
     "zh_CN": "傀影的中坚信物"
   },
   "class_p_char_253_greyy": {
+    "en_US": "Greyy's Kernel Token",
+    "ja_JP": "グレイの印（中堅）",
     "zh_CN": "格雷伊的中坚信物"
   },
   "class_p_char_254_vodfox": {
+    "en_US": "Shamare's Kernel Token",
+    "ja_JP": "シャマレの印（中堅）",
     "zh_CN": "巫恋的中坚信物"
   },
   "class_p_char_258_podego": {
+    "en_US": "Podenco's Kernel Token",
+    "ja_JP": "ポデンコの印（中堅）",
     "zh_CN": "波登可的中坚信物"
   },
   "class_p_char_261_sddrag": {
+    "en_US": "Reed's Kernel Token",
+    "ja_JP": "リードの印（中堅）",
     "zh_CN": "苇草的中坚信物"
   },
   "class_p_char_263_skadi": {
+    "en_US": "Skadi's Kernel Token",
+    "ja_JP": "スカジの印（中堅）",
     "zh_CN": "斯卡蒂的中坚信物"
   },
   "class_p_char_271_spikes": {
+    "en_US": "Arene's Kernel Token",
+    "ja_JP": "アレーンの印（中堅）",
     "zh_CN": "芳汀的中坚信物"
   },
   "class_p_char_272_strong": {
+    "en_US": "Jaye's Kernel Token",
+    "ja_JP": "ジェイの印（中堅）",
     "zh_CN": "孑的中坚信物"
   },
   "class_p_char_274_astesi": {
+    "en_US": "Astesia's Kernel Token",
+    "ja_JP": "アステシアの印（中堅）",
     "zh_CN": "星极的中坚信物"
   },
   "class_p_char_277_sqrrel": {
+    "en_US": "Shaw's Kernel Token",
+    "ja_JP": "ショウの印（中堅）",
     "zh_CN": "阿消的中坚信物"
   },
   "class_p_char_278_orchid": {
+    "en_US": "Orchid's Kernel Token",
+    "ja_JP": "オーキッドの印（中堅）",
     "zh_CN": "梓兰的中坚信物"
   },
   "class_p_char_279_excu": {
+    "en_US": "Executor's Kernel Token",
+    "ja_JP": "イグゼキュターの印（中堅）",
     "zh_CN": "送葬人的中坚信物"
   },
   "class_p_char_281_popka": {
+    "en_US": "Popukar's Kernel Token",
+    "ja_JP": "ポプカルの印（中堅）",
     "zh_CN": "泡普卡的中坚信物"
   },
   "class_p_char_282_catap": {
+    "en_US": "Catapult's Kernel Token",
+    "ja_JP": "カタパルトの印（中堅）",
     "zh_CN": "空爆的中坚信物"
   },
   "class_p_char_283_midn": {
+    "en_US": "Midnight's Kernel Token",
+    "ja_JP": "ミッドナイトの印（中堅）",
     "zh_CN": "月见夜的中坚信物"
   },
   "class_p_char_284_spot": {
+    "en_US": "Spot's Kernel Token",
+    "ja_JP": "スポットの印（中堅）",
     "zh_CN": "斑点的中坚信物"
   },
   "class_p_char_289_gyuki": {
+    "en_US": "Matoimaru's Kernel Token",
+    "ja_JP": "マトイマルの印（中堅）",
     "zh_CN": "缠丸的中坚信物"
   },
   "class_p_char_290_vigna": {
+    "en_US": "Vigna's Kernel Token",
+    "ja_JP": "ヴィグナの印（中堅）",
     "zh_CN": "红豆的中坚信物"
   },
   "class_p_char_291_aglina": {
+    "en_US": "Angelina's Kernel Token",
+    "ja_JP": "アンジェリーナの印（中堅）",
     "zh_CN": "安洁莉娜的中坚信物"
   },
+  "class_p_char_294_ayer": {
+    "en_US": "Ayerscarpe's Kernel Token",
+    "ja_JP": "エアースカーペの印（中堅）"
+  },
   "class_p_char_298_susuro": {
+    "en_US": "Sussurro's Kernel Token",
+    "ja_JP": "ススーロの印（中堅）",
     "zh_CN": "苏苏洛的中坚信物"
   },
   "class_p_char_301_cutter": {
+    "en_US": "Cutter's Kernel Token",
+    "ja_JP": "カッターの印（中堅）",
     "zh_CN": "刻刀的中坚信物"
   },
   "class_p_char_302_glaze": {
+    "en_US": "Ambriel's Kernel Token",
+    "ja_JP": "アンブリエルの印（中堅）",
     "zh_CN": "安比尔的中坚信物"
   },
   "class_p_char_306_leizi": {
+    "en_US": "Leizi's Kernel Token",
+    "ja_JP": "レイズの印（中堅）",
     "zh_CN": "惊蛰的中坚信物"
   },
   "class_p_char_308_swire": {
+    "en_US": "Swire's Kernel Token",
+    "ja_JP": "スワイヤーの印（中堅）",
     "zh_CN": "诗怀雅的中坚信物"
   },
   "class_p_char_326_glacus": {
+    "en_US": "Glaucus's Kernel Token",
+    "ja_JP": "グラウコスの印（中堅）",
     "zh_CN": "格劳克斯的中坚信物"
   },
   "class_p_char_328_cammou": {
+    "en_US": "Click's Kernel Token",
+    "ja_JP": "カシャの印（中堅）",
     "zh_CN": "卡达的中坚信物"
   },
   "class_p_char_337_utage": {
+    "en_US": "Utage's Kernel Token",
+    "ja_JP": "ウタゲの印（中堅）",
     "zh_CN": "宴的中坚信物"
   },
   "class_p_char_340_shwaz": {
+    "en_US": "Schwarz's Kernel Token",
+    "ja_JP": "シュヴァルツの印（中堅）",
     "zh_CN": "黑的中坚信物"
   },
+  "class_p_char_343_tknogi": {
+    "en_US": "Tsukinogi's Kernel Token",
+    "ja_JP": "ツキノギの印（中堅）"
+  },
+  "class_p_char_344_beewax": {
+    "en_US": "Beeswax's Kernel Token",
+    "ja_JP": "ビーズワクスの印（中堅）"
+  },
   "class_p_char_347_jaksel": {
+    "en_US": "Jackie's Kernel Token",
+    "ja_JP": "ジャッキーの印（中堅）",
     "zh_CN": "杰克的中坚信物"
   },
+  "class_p_char_349_chiave": {
+    "en_US": "Chiave's Kernel Token",
+    "ja_JP": "キアーベの印（中堅）"
+  },
   "class_p_char_356_broca": {
+    "en_US": "Broca's Kernel Token",
+    "ja_JP": "ブローカの印（中堅）",
     "zh_CN": "布洛卡的中坚信物"
   },
+  "class_p_char_358_lisa": {
+    "en_US": "Suzuran's Kernel Token",
+    "ja_JP": "スズランの印（中堅）"
+  },
   "class_p_char_366_acdrop": {
+    "en_US": "Aciddrop's Kernel Token",
+    "ja_JP": "アシッドドロップの印（中堅）",
     "zh_CN": "酸糖的中坚信物"
   },
   "class_p_char_367_swllow": {
+    "en_US": "GreyThroat's Kernel Token",
+    "ja_JP": "グレースロートの印（中堅）",
     "zh_CN": "灰喉的中坚信物"
   },
+  "class_p_char_373_lionhd": {
+    "en_US": "Leonhardt's Kernel Token",
+    "ja_JP": "レオンハルトの印（中堅）"
+  },
+  "class_p_char_378_asbest": {
+    "en_US": "Asbestos's Kernel Token",
+    "ja_JP": "アスベストスの印（中堅）"
+  },
   "class_p_char_379_sesa": {
+    "en_US": "Sesa's Kernel Token",
+    "ja_JP": "シェーシャの印（中堅）",
     "zh_CN": "慑砂的中坚信物"
   },
   "class_p_char_381_bubble": {
+    "en_US": "Bubble's Kernel Token",
+    "ja_JP": "バブルの印（中堅）",
     "zh_CN": "泡泡的中坚信物"
   },
   "class_p_char_4041_chnut": {
+    "en_US": "Chestnut's Kernel Token",
+    "ja_JP": "チェストナットの印（中堅）",
     "zh_CN": "褐果的中坚信物"
   },
   "class_p_char_4062_totter": {
+    "en_US": "Totter's Kernel Token",
+    "ja_JP": "トターの印（中堅）",
     "zh_CN": "铅踝的中坚信物"
   },
   "class_p_char_440_pinecn": {
+    "en_US": "Pinecone's Kernel Token",
+    "ja_JP": "パインコーンの印（中堅）",
     "zh_CN": "松果的中坚信物"
   },
   "class_p_char_452_bstalk": {
+    "en_US": "Beanstalk's Kernel Token",
+    "ja_JP": "ビーンストークの印（中堅）",
     "zh_CN": "豆苗的中坚信物"
   },
   "class_p_char_469_indigo": {
+    "en_US": "Indigo's Kernel Token",
+    "ja_JP": "インディゴの印（中堅）",
     "zh_CN": "深靛的中坚信物"
   },
   "class_p_char_484_robrta": {
+    "en_US": "Roberta's Kernel Token",
+    "ja_JP": "ロベルタの印（中堅）",
     "zh_CN": "罗比菈塔的中坚信物"
   },
   "class_p_char_491_humus": {
+    "en_US": "Humus's Kernel Token",
+    "ja_JP": "ヒューマスの印（中堅）",
     "zh_CN": "休谟斯的中坚信物"
   },
   "classic_fes_pick_tier_5_3801": {
@@ -1872,12 +2154,18 @@
     "zh_CN": "中坚甄选6星干员"
   },
   "classic_gacha": {
+    "en_US": "Kernel Headhunting Permit",
+    "ja_JP": "中堅スカウト券",
     "zh_CN": "中坚寻访凭证"
   },
   "classic_gacha_10": {
+    "en_US": "Ten-roll Kernel Headhunting Permit",
+    "ja_JP": "10回中堅スカウト券",
     "zh_CN": "十连中坚寻访凭证"
   },
   "classic_normal_ticket": {
+    "en_US": "Universal Certificates",
+    "ja_JP": "中堅資格証",
     "zh_CN": "通用凭证"
   },
   "clue_EDM_1": {
@@ -2243,6 +2531,8 @@
     "zh_CN": "火龙S黑角的信物"
   },
   "p_char_1031_slent2": {
+    "en_US": "Silence the Paradigmatic's Token",
+    "ja_JP": "淬羽サイレンスの印",
     "zh_CN": "淬羽赫默的信物"
   },
   "p_char_1032_excu2": {
@@ -2440,6 +2730,8 @@
     "zh_CN": "桃金娘的信物"
   },
   "p_char_154_morgan": {
+    "en_US": "Morgan's Token",
+    "ja_JP": "モーガンの印",
     "zh_CN": "摩根的信物"
   },
   "p_char_155_tiger": {
@@ -2734,6 +3026,8 @@
     "zh_CN": "麦哲伦的信物"
   },
   "p_char_249_mlyss": {
+    "en_US": "Muelsyse's Token",
+    "ja_JP": "ミュルジスの印",
     "zh_CN": "缪尔赛思的信物"
   },
   "p_char_250_phatom": {
@@ -3120,6 +3414,8 @@
     "zh_CN": "布丁的信物"
   },
   "p_char_4006_melnte": {
+    "en_US": "Melanite's Token",
+    "ja_JP": "メラナイトの印",
     "zh_CN": "玫拉的信物"
   },
   "p_char_4009_irene": {
@@ -3166,6 +3462,8 @@
     "zh_CN": "暮落的信物"
   },
   "p_char_4027_heyak": {
+    "en_US": "Ho'olheyak's Token",
+    "ja_JP": "ホルハイヤの印",
     "zh_CN": "霍尔海雅的信物"
   },
   "p_char_402_tuye": {
@@ -3304,6 +3602,8 @@
     "zh_CN": "铎铃的信物"
   },
   "p_char_4087_ines": {
+    "en_US": "Ines's Token",
+    "ja_JP": "イネスの印",
     "zh_CN": "伊内丝的信物"
   },
   "p_char_4088_hodrer": {
@@ -3450,6 +3750,8 @@
     "zh_CN": "战车的信物"
   },
   "p_char_464_cement": {
+    "en_US": "Cement's Token",
+    "ja_JP": "セメントの印",
     "zh_CN": "洋灰的信物"
   },
   "p_char_466_qanik": {
@@ -3521,6 +3823,8 @@
     "zh_CN": "蚀清的信物"
   },
   "p_char_491_humus": {
+    "en_US": "Humus's Token",
+    "ja_JP": "ヒューマスの印",
     "zh_CN": "休谟斯的信物"
   },
   "p_char_492_quercu": {
@@ -3686,6 +3990,8 @@
     "zh_CN": "罗德岛物资补给IV"
   },
   "randomMaterial_8": {
+    "en_US": "Rhodes Island Supplies V",
+    "ja_JP": "補給物資・ロドスV",
     "zh_CN": "罗德岛物资补给V"
   },
   "randomMaterial_9": {
@@ -3695,6 +4001,8 @@
     "zh_CN": "查访补给"
   },
   "randomMaterial_rhine2": {
+    "en_US": "Technological Investigation Supply",
+    "ja_JP": "技術調査補給",
     "zh_CN": "技术调查补给"
   },
   "randomMaterial_siesta2": {
@@ -3726,6 +4034,8 @@
     "zh_CN": "ID信息更新卡"
   },
   "renamingCard_0_038": {
+    "en_US": "ID Info Update Card",
+    "ja_JP": "ID情報更新カード",
     "zh_CN": "ID信息更新卡"
   },
   "renamingCard_0_044": {
@@ -3752,6 +4062,8 @@
     "zh_CN": "ID信息更新卡"
   },
   "renamingCard_30_038": {
+    "en_US": "ID Info Update Card",
+    "ja_JP": "ID情報更新カード",
     "zh_CN": "ID信息更新卡"
   },
   "renamingCard_30_044": {
@@ -4103,6 +4415,8 @@
     "zh_CN": "火蓝之心家具收藏包"
   },
   "uni_set_icu": {
+    "en_US": "A Walk in the Dust Furniture Pack",
+    "ja_JP": "遺塵の道を家具パック",
     "zh_CN": "遗尘漫步家具收藏包"
   },
   "uni_set_inkArt": {
@@ -4175,7 +4489,7 @@
   },
   "voucher_chipPackage": {
     "en_US": "Automatic Chip Pack Etcher",
-    "ja_JP": "SoCセルフプリンター",
+    "ja_JP": "中級SoCセルフプリンター",
     "zh_CN": "自助芯片组印刻仪"
   },
   "voucher_elite_II_5": {
@@ -4184,6 +4498,8 @@
     "zh_CN": "资深干员特训邀请函"
   },
   "voucher_elite_II_6": {
+    "en_US": "Advanced Senior Operator Training Invitation Letter",
+    "ja_JP": "★6特訓招待状",
     "zh_CN": "高级资深干员特训邀请函"
   },
   "voucher_full_absin": {
@@ -4269,6 +4585,8 @@
     "zh_CN": "野鬃的私人信件"
   },
   "voucher_full_zebra": {
+    "en_US": "Heavyrain's Personal Letter",
+    "ja_JP": "ヘビーレインの手紙",
     "zh_CN": "暴雨的私人信件"
   },
   "voucher_item_4pick1": {
@@ -4307,6 +4625,8 @@
     "zh_CN": "感谢庆典干员凭证"
   },
   "voucher_item_pick3801": {
+    "en_US": "Top Operator Transfer Permit",
+    "ja_JP": "感謝祭記念★6招聘指名券",
     "zh_CN": "周年庆典干员凭证"
   },
   "voucher_item_pick4401": {
@@ -4359,6 +4679,8 @@
     "zh_CN": "资深干员调用凭证"
   },
   "voucher_recruitR5_pick3801": {
+    "en_US": "Senior Operator Transfer Permit",
+    "ja_JP": "★5招聘指名券",
     "zh_CN": "资深干员调用凭证"
   },
   "voucher_skin": {

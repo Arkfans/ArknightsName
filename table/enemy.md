@@ -608,46 +608,46 @@ tip: 请善用浏览器的搜索功能
 | enemy_1311_mhkryk | 狡兽 | Cautelotaur | アクドウジ |
 | enemy_1311_mhkryk_2 | 恶狡兽 | Kouaku Cautelotaur | 狡虐アクドウジ |
 | enemy_1312_ymillu | “无念之冬” | 'Winter's Void' | 「無我の冬」 |
-| enemy_1313_wdfmr | 诺伯特平民 | - | - |
-| enemy_1313_wdfmr_2 | 诺伯特暗探 | - | - |
-| enemy_1314_wdnjd | 寻路密探 | - | - |
-| enemy_1314_wdnjd_2 | 寻路密探长 | - | - |
-| enemy_1315_wdyjd | 岗哨密探 | - | - |
-| enemy_1315_wdyjd_2 | 岗哨密探长 | - | - |
-| enemy_1316_wdpjd | 武装密探 | - | - |
-| enemy_1316_wdpjd_2 | 武装密探长 | - | - |
-| enemy_1317_wdexg | 萨卡兹悖谬谍报官 | - | - |
-| enemy_1317_wdexg_2 | 萨卡兹悖谬谍报长 | - | - |
-| enemy_1318_wdsmgc | 萨卡兹悖谬裂变学徒 | - | - |
-| enemy_1318_wdsmgc_2 | 萨卡兹悖谬裂变术师 | - | - |
-| enemy_1319_wdfmpm | 叛乱煽动者 | - | - |
-| enemy_1319_wdfmpm_2 | 叛乱鼓动者 | - | - |
-| enemy_1320_wdrrl | 萨卡兹悖谬暴虐兵 | - | - |
-| enemy_1320_wdrrl_2 | 萨卡兹悖谬暴虐兵长 | - | - |
-| enemy_1321_wdarft | 枯朽萃聚使徒 | - | - |
-| enemy_1321_wdarft_2 | 腐败萃聚使徒 | - | - |
-| enemy_1322_wdgyht | “灰礼帽” | - | - |
-| enemy_1322_wdgyht_2 | “见习灰礼帽” | - | - |
-| enemy_1323_wdbshd | 解构畸变体 | - | - |
-| enemy_1325_cbgpro | 军用猎狗 | - | - |
-| enemy_1325_cbgpro_2 | 高级军用猎狗 | - | - |
-| enemy_1326_cbagen | 特里蒙城防军 | - | - |
-| enemy_1326_cbagen_2 | 特里蒙城防军队长 | - | - |
-| enemy_1327_cbrokt | 弧光突击队 | - | - |
-| enemy_1327_cbrokt_2 | 弧光突击队队长 | - | - |
-| enemy_1328_cbjedi | 弧光锋卫 | - | - |
-| enemy_1328_cbjedi_2 | 弧光锋卫长 | - | - |
-| enemy_1329_cbshld | 弧光镜卫 | - | - |
-| enemy_1329_cbshld_2 | 弧光镜卫长 | - | - |
-| enemy_1330_cbrush | “肇事者”量产型 | - | - |
-| enemy_1330_cbrush_2 | “肇事者”试做型 | - | - |
-| enemy_1331_cbsisy | “十字路口”量产型 | - | - |
-| enemy_1331_cbsisy_2 | “十字路口”试做型 | - | - |
-| enemy_1332_cbterm | “交通亭”量产型 | - | - |
-| enemy_1332_cbterm_2 | “交通亭”试做型 | - | - |
-| enemy_1333_cbbgen | “交通警察” | - | - |
-| enemy_1333_cbbgen_2 | “交通警长” | - | - |
-| enemy_1334_ristar | 行星碎屑 | - | - |
+| enemy_1313_wdfmr | 诺伯特平民 | Norport Civilian | ノーポート民間人 |
+| enemy_1313_wdfmr_2 | 诺伯特暗探 | Norport Spy | ノーポート諜報員 |
+| enemy_1314_wdnjd | 寻路密探 | Pathfinder Spy | 偵察密偵 |
+| enemy_1314_wdnjd_2 | 寻路密探长 | Pathfinder Spymaster | 偵察密偵隊長 |
+| enemy_1315_wdyjd | 岗哨密探 | Sentry Spy | 哨戒密偵 |
+| enemy_1315_wdyjd_2 | 岗哨密探长 | Sentry Spymaster | 哨戒密偵隊長 |
+| enemy_1316_wdpjd | 武装密探 | Armed Spy | 武装密偵 |
+| enemy_1316_wdpjd_2 | 武装密探长 | Armed Spymaster | 武装密偵隊長 |
+| enemy_1317_wdexg | 萨卡兹悖谬谍报官 | Sarkaz Absurdist Operative | サルカズ悖理諜報員 |
+| enemy_1317_wdexg_2 | 萨卡兹悖谬谍报长 | Sarkaz Absurdist Operative Leader | サルカズ悖理諜報隊長 |
+| enemy_1318_wdsmgc | 萨卡兹悖谬裂变学徒 | Sarkaz Absurdist Splitcaster Apprentice | サルカズ悖理分裂術師 |
+| enemy_1318_wdsmgc_2 | 萨卡兹悖谬裂变术师 | Sarkaz Absurdist Splitcaster | サルカズ悖理分裂術師隊長 |
+| enemy_1319_wdfmpm | 叛乱煽动者 | Rebellion Instigator | 反乱の扇動者 |
+| enemy_1319_wdfmpm_2 | 叛乱鼓动者 | Rebellion Agitator | 反乱の教唆者 |
+| enemy_1320_wdrrl | 萨卡兹悖谬暴虐兵 | Sarkaz Absurdist Tyrant | サルカズ悖理暴虐兵 |
+| enemy_1320_wdrrl_2 | 萨卡兹悖谬暴虐兵长 | Sarkaz Absurdist Tyrant Captain | サルカズ悖理暴虐兵士長 |
+| enemy_1321_wdarft | 枯朽萃聚使徒 | Withering Collector Disciple | 枯朽凝集使徒 |
+| enemy_1321_wdarft_2 | 腐败萃聚使徒 | Decaying Collector Disciple | 腐敗凝集使徒 |
+| enemy_1322_wdgyht | “灰礼帽” | 'Trilby Asher' | 「グレーシルクハット」 |
+| enemy_1322_wdgyht_2 | “见习灰礼帽” | 'Shadowing Trilby Asher' | 「グレーシルクハット見習い」 |
+| enemy_1323_wdbshd | 解构畸变体 | Deconstructed Distortion | デコンニュータント |
+| enemy_1325_cbgpro | 军用猎狗 | Military Hound | 軍用猟犬 |
+| enemy_1325_cbgpro_2 | 高级军用猎狗 | Elite Military Hound | 精鋭軍用猟犬 |
+| enemy_1326_cbagen | 特里蒙城防军 | Trimounts City Defender | トリマウンツ都市防衛軍兵士 |
+| enemy_1326_cbagen_2 | 特里蒙城防军队长 | Trimounts City Defender Captain | トリマウンツ都市防衛軍隊長 |
+| enemy_1327_cbrokt | 弧光突击队 | Arc Commando | アーク突撃隊隊員 |
+| enemy_1327_cbrokt_2 | 弧光突击队队长 | Arc Commando Captain | アーク突撃隊隊長 |
+| enemy_1328_cbjedi | 弧光锋卫 | Arc Frontliner | アーク鋒衛 |
+| enemy_1328_cbjedi_2 | 弧光锋卫长 | Arc Frontliner Leader | アーク鋒衛隊長 |
+| enemy_1329_cbshld | 弧光镜卫 | Arc Screenguard | アーク鏡衛 |
+| enemy_1329_cbshld_2 | 弧光镜卫长 | Arc Screenguard Captain | アーク鏡衛隊長 |
+| enemy_1330_cbrush | “肇事者”量产型 | 'Offender' Production Model | 「トラブルメーカー」量産型 |
+| enemy_1330_cbrush_2 | “肇事者”试做型 | 'Offender' Prototype | 「トラブルメーカー」試作型 |
+| enemy_1331_cbsisy | “十字路口”量产型 | 'Crossroads' Production Model | 「クロスロード」量産型 |
+| enemy_1331_cbsisy_2 | “十字路口”试做型 | 'Crossroads' Prototype | 「クロスロード」試作型 |
+| enemy_1332_cbterm | “交通亭”量产型 | 'Traffic Tower' Production Model | 「トラフィックタワー」量産型 |
+| enemy_1332_cbterm_2 | “交通亭”试做型 | 'Traffic Tower' Prototype | 「トラフィックタワー」試作型 |
+| enemy_1333_cbbgen | “交通警察” | 'Traffic Officer' | 「交通巡査」 |
+| enemy_1333_cbbgen_2 | “交通警长” | 'Traffic Officer Captain' | 「交通巡査長」 |
+| enemy_1334_ristar | 行星碎屑 | Planetary Debris | 「惑星の破片」 |
 | enemy_1335_bldrat | 啮齿兽 | - | - |
 | enemy_1335_bldrat_2 | 饥饿啮齿兽 | - | - |
 | enemy_1336_bldbat | 伏翼兽 | - | - |
@@ -746,7 +746,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1513_dekght_2 | 凋零骑士 | Withered Knight | 凋零騎士 |
 | enemy_1514_smephi | 梅菲斯特，“歌者” | Mephisto, 'The Singer' | Mephisto・歌う者 |
 | enemy_1515_bsnake | “不死的黑蛇” | 'The Deathless Black Snake' | 「不死の黒蛇」 |
-| enemy_1516_jakill | 杰斯顿·威廉姆斯 | Jesselton Miller | ジェッセルトン・ウィリアムズ |
+| enemy_1516_jakill | 杰斯顿·威廉姆斯 | Jesselton Williams | ジェッセルトン・ウィリアムズ |
 | enemy_1517_xi | “自在” | 'Free' | 「ジザイ」 |
 | enemy_1519_bgball | “进化的本质” | 'Essence of Evolution' | 「進化の本質」 |
 | enemy_1520_empgrd | “皇帝的利刃”，追猎者 | 'Emperor's Blade', Pursuer | 「皇帝の利刃」、追跡者 |
@@ -770,10 +770,10 @@ tip: 请善用浏览器的搜索功能
 | enemy_1538_ymmons_2 | 蜃景 | Mirage | 蜃気楼 |
 | enemy_1538_ymmons_3 | 妄境 | Delusion | 妄境 |
 | enemy_1539_reid | “复仇者” | 'Hateful Avenger' | "Vendetta" |
-| enemy_1540_wdncr | 爱布拉娜 | - | - |
-| enemy_1541_wdslms | “变形者集群” | - | - |
-| enemy_1542_wdslm | “变形者集群” | - | - |
-| enemy_1543_cstlrs | 克丽斯腾 | - | - |
+| enemy_1540_wdncr | 爱布拉娜 | Eblana | エブラナ |
+| enemy_1541_wdslms | “变形者集群” | 'Damazti Cluster' | 「変形者」 |
+| enemy_1542_wdslm | “变形者集群” | 'Damazti Cluster' | 「変形者」 |
+| enemy_1543_cstlrs | 克丽斯腾 | Kristen | クリステン |
 | enemy_1544_cledub | “花匠” | - | - |
 | enemy_1545_shpkg | 多利，“羊之主” | - | - |
 | enemy_1546_cliff | “桥夹”克里夫 | - | - |
@@ -819,8 +819,8 @@ tip: 请善用浏览器的搜索功能
 | enemy_2038_sydonq | 最后的骑士 | The Last Knight | 最後の騎士 |
 | enemy_2039_syskad | 伊莎玛拉，腐化之心 | Ishar'mla, Heart of Corruption | イシャームラ、腐蝕された心 |
 | enemy_2040_syrott | 伊莎玛拉之泪 | Ishar'mla's Tears | イシャームラの涙 |
-| enemy_2041_syjely | 伊祖米克的子代 | - | - |
-| enemy_2042_syboss | 伊祖米克，生态泉源 | - | - |
+| enemy_2041_syjely | 伊祖米克的子代 | Izumik's Offspring | イズミックの後裔 |
+| enemy_2042_syboss | 伊祖米克，生态泉源 | Izumik, Source of Ecology | イズミック、生態の源 |
 | enemy_2043_smsbr | 染污躯壳 | - | - |
 | enemy_2044_smwiz | 歪曲施法者 | - | - |
 | enemy_2045_smdrn | 坍缩构造体 | - | - |
@@ -863,8 +863,8 @@ tip: 请善用浏览器的搜索功能
 | enemy_6010_boxing | “年轻人”桑德尔 | 'Boy Wonder' Sandel | 「ヤングガイ」サンデル |
 | enemy_6011_planty | “自然的妥协” | 'Nature's Compromise' | 「自然の妥協」 |
 | enemy_6012_plants | 小型共生体 | Small Symbiont | 小型共生体 |
-| enemy_6013_smith | 老妈的“逆女” | - | - |
-| enemy_6014_crzgas | “毒瘤” | - | - |
+| enemy_6013_smith | 老妈的“逆女” | Mama's 'Rebel Girl' | 「家出した反逆娘」 |
+| enemy_6014_crzgas | “毒瘤” | 'Tumor' | 「チューマー」 |
 | enemy_6015_ictruck | “超甜微笑” | - | - |
 | enemy_6016_splash | 干渴者 | - | - |
 | enemy_6017_icdrone | 甜蜜派送机 | - | - |

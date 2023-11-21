@@ -438,31 +438,31 @@ tip: 请善用浏览器的搜索功能
 | act24side_st02 | 林昏焰明 | A Bright Flame in the Dark Forest | 燃ゆる焔と昏き森 |
 | act24side_st03 | 晨曦 | Daybreak | 夜明け |
 | act24side_tr01 | 来袭！天空王者！ | Attack! King of the Skies! | 襲来！天空の王者！ |
-| act25side_01 | 迷雾重重 | - | - |
-| act25side_02 | 无迹可寻 | - | - |
-| act25side_03 | 台前幕后 | - | - |
-| act25side_04 | 一波又起 | - | - |
-| act25side_05 | 柳暗花明 | - | - |
-| act25side_06 | 群英荟萃 | - | - |
-| act25side_07 | 空中楼阁 | - | - |
-| act25side_08 | 过去与现在的交会 | - | - |
-| act25side_09 | 恩怨纠葛 | - | - |
-| act25side_10 | 散于星辰之间 | - | - |
-| act25side_s01_a | 花式滑冰·α | - | - |
-| act25side_s01_b | 花式滑冰·β | - | - |
-| act25side_s02_a | 战壕·α | - | - |
-| act25side_s02_b | 战壕·β | - | - |
-| act25side_s03_a | 拉力赛·α | - | - |
-| act25side_s03_b | 拉力赛·β | - | - |
-| act25side_s04 | 新星爆发 | - | - |
-| act25side_sp01 | 悬崖边缘 | - | - |
-| act25side_sp02 | 破釜沉舟 | - | - |
-| act25side_st01 | 阴云密布 | - | - |
-| act25side_st02 | 一波未平 | - | - |
-| act25side_st03 | 留下的人 | - | - |
-| act25side_st04 | 推开未来之门 | - | - |
-| act25side_tr01 | 先锋建筑 | - | - |
-| act25side_tr02 | 先锋工程 | - | - |
+| act25side_01 | 迷雾重重 | Dense Fog | 深い霧 |
+| act25side_02 | 无迹可寻 | Without a Trace | 追跡不能 |
+| act25side_03 | 台前幕后 | Front Stage, Back Stage | 表舞台と舞台裏 |
+| act25side_04 | 一波又起 | Rising Waves | 荒波再び |
+| act25side_05 | 柳暗花明 | Beyond the Veil | 開く活路 |
+| act25side_06 | 群英荟萃 | Gathering of Heroes | 集う者たち |
+| act25side_07 | 空中楼阁 | Castle in the Sky | 空に浮かぶ城 |
+| act25side_08 | 过去与现在的交会 | Between Past and Present | 交差する今昔 |
+| act25side_09 | 恩怨纠葛 | Love and Hatred | 渦巻く恩讐 |
+| act25side_10 | 散于星辰之间 | Lost Amongst the Stars | 星間に散る |
+| act25side_s01_a | 花式滑冰·α | Figure Skating α | フィギュアスケートα |
+| act25side_s01_b | 花式滑冰·β | Figure Skating β | フィギュアスケートβ |
+| act25side_s02_a | 战壕·α | Trenches α | 塹壕α |
+| act25side_s02_b | 战壕·β | Trenches β | 塹壕β |
+| act25side_s03_a | 拉力赛·α | Rally α | シーソーゲームα |
+| act25side_s03_b | 拉力赛·β | Rally β | シーソーゲームβ |
+| act25side_s04 | 新星爆发 | Supernova | スーパーノヴァ |
+| act25side_sp01 | 悬崖边缘 | Edge of the Cliff | 崖っぷち |
+| act25side_sp02 | 破釜沉舟 | Back Against the Wall | 背水の陣 |
+| act25side_st01 | 阴云密布 | Dark Clouds | 立ち込める暗雲 |
+| act25side_st02 | 一波未平 | Restless Waves | 迫る荒波 |
+| act25side_st03 | 留下的人 | Those Left Behind | 残された人 |
+| act25side_st04 | 推开未来之门 | Door to the Future | 未来への扉 |
+| act25side_tr01 | 先锋建筑 | Cutting-Edge Architecture | 最先端建築 |
+| act25side_tr02 | 先锋工程 | Cutting Edge | ハイテクノロジー |
 | act26side_01 | 我有一个荣美家乡 | - | - |
 | act26side_02 | 生命运河 | - | - |
 | act26side_03 | 岂可空手回天府？ | - | - |
@@ -616,7 +616,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_13 | 昏黑造船厂 | Penumbra Shipyards | 暗き造船所 |
 | camp_r_14 | 实验基地机库 | Research Base Hanger | 実験基地の格納庫 |
 | camp_r_15 | 龙门商业街 | Lungmen Commercial District | 龍門商店街 |
-| camp_r_16 | 休止符街道 | - | - |
+| camp_r_16 | 休止符街道 | Rest Avenue | フェルマーテ通り |
 | camp_r_17 | 灰暗泥沼 | - | - |
 | camp_r_18 | “特制小水坑” | - | - |
 | camp_r_19 | 腐烂荒野 | - | - |
@@ -649,10 +649,10 @@ tip: 请善用浏览器的搜索功能
 | hard_11-02 | 尘霾行动-2 | Operation Achlys-2 | 煙塵作戦-2 |
 | hard_11-03 | 尘霾行动-3 | Operation Achlys-3 | 煙塵作戦-3 |
 | hard_11-04 | 尘霾行动-4 | Operation Achlys-4 | 煙塵作戦-4 |
-| hard_12-01 | 惊霆行动-1 | - | - |
-| hard_12-02 | 惊霆行动-2 | - | - |
-| hard_12-03 | 惊霆行动-3 | - | - |
-| hard_12-04 | 惊霆行动-4 | - | - |
+| hard_12-01 | 惊霆行动-1 | Operation Astrape-1 | 驚靂作戦-1 |
+| hard_12-02 | 惊霆行动-2 | Operation Astrape-2 | 驚靂作戦‐2 |
+| hard_12-03 | 惊霆行动-3 | Operation Astrape-3 | 驚靂作戦‐3 |
+| hard_12-04 | 惊霆行动-4 | Operation Astrape-4 | 驚靂作戦‐4 |
 | hard_13-01 | 湍流行动-1 | - | - |
 | hard_13-02 | 湍流行动-2 | - | - |
 | hard_13-03 | 湍流行动-3 | - | - |
@@ -701,18 +701,18 @@ tip: 请善用浏览器的搜索功能
 | lt_06_04 | 林间空地 | Glade | 森の空き地 |
 | lt_06_05 | 纠缠不休 | Not Letting Go | しつこい相手 |
 | lt_06_06 | 人与自然 | Man And Nature | 人と大自然 |
-| lt_07_01 | 知难而进 | - | - |
-| lt_07_02 | 荒地的手段 | - | - |
-| lt_07_03 | 麻木前行 | - | - |
-| lt_07_04 | 混乱“派对” | - | - |
-| lt_07_05 | 消息传递 | - | - |
-| lt_07_06 | 力量的炫耀 | - | - |
-| lt_08_01 | 致命吸引 | - | - |
-| lt_08_02 | 烂醉铁锤 | - | - |
-| lt_08_03 | 为了生存 | - | - |
-| lt_08_04 | 混合毒气 | - | - |
-| lt_08_05 | 枯朽孕育 | - | - |
-| lt_08_06 | 窒息 | - | - |
+| lt_07_01 | 知难而进 | I Know the Risks | 困難と知りつつ |
+| lt_07_02 | 荒地的手段 | Barrenlands Business | 荒野の戦い方 |
+| lt_07_03 | 麻木前行 | Numb Way Forward | 無関心で進む道 |
+| lt_07_04 | 混乱“派对” | Chaotic Party | 混乱の「パーティー」 |
+| lt_07_05 | 消息传递 | Messenger | 情報伝達 |
+| lt_07_06 | 力量的炫耀 | Show of Power | 力の誇示 |
+| lt_08_01 | 致命吸引 | Fatal Attraction | 致命的な魅力 |
+| lt_08_02 | 烂醉铁锤 | Drunk Hammer | 酔っ払いの一撃 |
+| lt_08_03 | 为了生存 | For Survival | 生存のため |
+| lt_08_04 | 混合毒气 | Mixed Gas | 混合毒ガス |
+| lt_08_05 | 枯朽孕育 | Nurturing Wither | 枯朽が孕むのは |
+| lt_08_06 | 窒息 | Suffocation | 窒息 |
 | lt_09_01 | 糖霜硬壳 | - | - |
 | lt_09_02 | 甜美派对 | - | - |
 | lt_09_03 | 干酪封锁 | - | - |
@@ -887,24 +887,24 @@ tip: 请善用浏览器的搜索功能
 | main_11-16 | 非我所愿 | This is Not What I Wished | 望まぬこと |
 | main_11-17 | 直指命运 | To Single Out Fate | 運命に立ち向かう |
 | main_11-18 | 最后的蒸汽骑士 | The Last Steam Knight | 最後の蒸気騎士 |
-| main_12-01 | 静候驾临 | - | - |
-| main_12-02 | 善意背叛 | - | - |
-| main_12-03 | 团结就是奢望 | - | - |
-| main_12-04 | 脆钢 | - | - |
-| main_12-05 | 谁的战争 | - | - |
-| main_12-06 | 平议生死 | - | - |
-| main_12-07 | 火线重逢 | - | - |
-| main_12-08 | 热血年华 | - | - |
-| main_12-09 | 广播热线正繁忙 | - | - |
-| main_12-10 | 脱帽致敬 | - | - |
-| main_12-11 | 逆光阴影 | - | - |
-| main_12-12 | 捂住耳朵 | - | - |
-| main_12-13 | 千疮百孔 | - | - |
-| main_12-14 | 天边的火烧云 | - | - |
-| main_12-15 | 被弃之人 | - | - |
-| main_12-16 | 晚安 | - | - |
-| main_12-17 | 飞跃，烟火 | - | - |
-| main_12-18 | 诚挚邀请 | - | - |
+| main_12-01 | 静候驾临 | Reception Party | 待ちわびた降臨 |
+| main_12-02 | 善意背叛 | Benevolent Betrayal | 善意の裏切り |
+| main_12-03 | 团结就是奢望 | Unity is Luxury | 高望みの団結 |
+| main_12-04 | 脆钢 | Brittle Steel | 脆い鋼 |
+| main_12-05 | 谁的战争 | Whose War | 誰が為の戦争 |
+| main_12-06 | 平议生死 | Discourse of Life and Death | 生死の論争 |
+| main_12-07 | 火线重逢 | Reunion Under Fire | 前線での再会 |
+| main_12-08 | 热血年华 | Years of Passion | 情熱に満ちた頃 |
+| main_12-09 | 广播热线正繁忙 | Broadcast Hotline is Busy | 放送線混雑中 |
+| main_12-10 | 脱帽致敬 | Hats Off | 脱帽の礼 |
+| main_12-11 | 逆光阴影 | Against the Light | 逆光の影 |
+| main_12-12 | 捂住耳朵 | Ears Muffed | 耳を塞ぐ |
+| main_12-13 | 千疮百孔 | Battered and Bruised | 穴だらけ |
+| main_12-14 | 天边的火烧云 | Clouds Burn Red | 空際の夕焼け雲 |
+| main_12-15 | 被弃之人 | The Abandoned | 見捨てられた者 |
+| main_12-16 | 晚安 | Good Night | おやすみなさい |
+| main_12-17 | 飞跃，烟火 | Fly, Fireworks | 火種、飛び越えて |
+| main_12-18 | 诚挚邀请 | Sincere Invitation | 真摯な誘い |
 | main_13-01 | 眼前的伤 | - | - |
 | main_13-02 | 不得暂歇 | - | - |
 | main_13-03 | 佣兵一日 | - | - |
@@ -962,9 +962,9 @@ tip: 请善用浏览器的搜索功能
 | st_11-01 | 何谓理想 | The Stuff of Ideals | 理想とは |
 | st_11-02 | 异路相对 | Swords Crossed | 道を違えた者たち |
 | st_11-03 | 不可避免 | Unavoidable | 避けては通れない |
-| st_12-01 | 火光热浪 | - | - |
-| st_12-02 | 时不我待 | - | - |
-| st_12-03 | 战场静悄悄 | - | - |
+| st_12-01 | 火光热浪 | Heat Wave | 火と熱風 |
+| st_12-02 | 时不我待 | Ticking Clock | 時は待たず |
+| st_12-03 | 战场静悄悄 | Quiet On the Front | 嵐の前の静けさ |
 | st_13-01 | 战场内外 | - | - |
 | st_13-02 | 窥冠冕者 | - | - |
 | st_13-03 | 灾厄积渐 | - | - |
@@ -1035,8 +1035,8 @@ tip: 请善用浏览器的搜索功能
 | tr_19 | 废墟行动 | Ruins Operation | 廃墟戦闘訓練 |
 | tr_20 | 城墙之下 | Below the City Walls | 城壁の下 |
 | tr_21 | 枯枝 | Twigs | 枯れ枝 |
-| tr_22 | 明辨是非 | - | - |
-| tr_23 | 恶魔诱惑 | - | - |
+| tr_22 | 明辨是非 | Know Right From Wrong | 善悪の判断 |
+| tr_23 | 恶魔诱惑 | Devil's Temptation | 悪魔の誘惑 |
 | tr_24 | 寻迹而行 | - | - |
 | wk_armor_1 | 废墟清剿 | Ruins Siege | 廃墟殲滅 |
 | wk_armor_2 | 窝点清剿 | Stronghold Siege | 拠点殲滅 |

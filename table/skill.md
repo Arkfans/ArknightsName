@@ -107,8 +107,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_cello_1 | “黄金的狂喜” | - | - |
 | skchr_cello_2 | “安魂的弥撒” | - | - |
 | skchr_cello_3 | “自由的探戈” | - | - |
-| skchr_cement_1 | 突破矿层 | - | - |
-| skchr_cement_2 | 结构加固 | - | - |
+| skchr_cement_1 | 突破矿层 | Stratum Groundbreaker | 鉱脈突破 |
+| skchr_cement_2 | 结构加固 | Structural Support | 構造強化 |
 | skchr_cerber_1 | “很冰的斧” | 'Really Cold Axe' | 「つめたいおの」 |
 | skchr_cerber_2 | “很热的刀” | 'Really Hot Knives' | 「あついないふ」 |
 | skchr_cerber_3 | “很重的枪” | 'Really Heavy Spear' | 「おもたいやり」 |
@@ -246,9 +246,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_helage_1 | 新月 | Crescent Moon | 新月 |
 | skchr_helage_2 | 弦月 | Half Moon | 弦月 |
 | skchr_helage_3 | 满月 | Full Moon | 満月 |
-| skchr_heyak_1 | 但为求索 | - | - |
-| skchr_heyak_2 | 群星逶迤 | - | - |
-| skchr_heyak_3 | 博览者的狂语 | - | - |
+| skchr_heyak_1 | 但为求索 | In Search of Reason | 探求せんがため |
+| skchr_heyak_2 | 群星逶迤 | Meandering Stars | 星々のうねり |
+| skchr_heyak_3 | 博览者的狂语 | Well-Read Ravings | 博識者の妄言 |
 | skchr_highmo_1 | 回首，断舍 | Surrendrance from Hindsight | 懐古、別れ |
 | skchr_highmo_2 | 泡影，殆尽 | Evanescence from Paranoia | 泡沫、破滅 |
 | skchr_hmau_1 | 反制治疗 | Treatment Countermeasure | 応急処置・受動 |
@@ -267,16 +267,16 @@ tip: 请善用浏览器的搜索功能
 | skchr_huang_1 | 强力击·γ型 | Power Strike γ | 強撃γ |
 | skchr_huang_2 | 链锯延伸模块 | Chainsaw Extension Module | 鎖鋸拡張モジュール |
 | skchr_huang_3 | 沸腾爆裂 | Boiling Burst | ボイリングバースト |
-| skchr_humus_1 | 固废切割 | - | - |
-| skchr_humus_2 | 高效处理 | - | - |
+| skchr_humus_1 | 固废切割 | Solid Waste Cutting | 廃棄物処理 |
+| skchr_humus_2 | 高效处理 | Efficient Processing | 高効率作業 |
 | skchr_ifrit_1 | 狂热 | Fanaticism | 猛火 |
 | skchr_ifrit_2 | 炎爆 | Pyroclasm | 爆炎 |
 | skchr_ifrit_3 | 灼地 | Scorched Earth | 灼獄 |
 | skchr_indigo_1 | 灯塔守卫者 | Lighthouse Guardian | 導灯の守護者 |
 | skchr_indigo_2 | 光影迷宫 | Labyrinth of Light | 光と影の迷路 |
-| skchr_ines_1 | 淬影突袭 | - | - |
-| skchr_ines_2 | 暗夜无明 | - | - |
-| skchr_ines_3 | 独影归途 | - | - |
+| skchr_ines_1 | 淬影突袭 | Shadow Raid | 影纏う刃 |
+| skchr_ines_2 | 暗夜无明 | Murky Night | 光亡き闇 |
+| skchr_ines_3 | 独影归途 | Solitary Return | 孤影の帰路 |
 | skchr_inside_1 | “不惹麻烦” | - | - |
 | skchr_inside_2 | “解决麻烦” | - | - |
 | skchr_irene_1 | 起风 | Gust | 舞風 |
@@ -345,8 +345,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_mantic_2 | 蓄力毒尾击 | Toxic Overload | スコーピオンテール |
 | skchr_mberry_1 | 治愈云雾 | Healing Haze | ヒーリングミスト |
 | skchr_mberry_2 | 安全区域 | Safe Zone | セーフティゾーン |
-| skchr_melnte_1 | 饱和脉冲 | - | - |
-| skchr_melnte_2 | 临界爆发 | - | - |
+| skchr_melnte_1 | 饱和脉冲 | Saturated Pulse | 飽和パルス |
+| skchr_melnte_2 | 临界爆发 | Critical Burst | リミテッドバースト |
 | skchr_meteo_1 | 霰射弹头 | Buckshot | 散弾装填 |
 | skchr_meteo_2 | 高爆弹头 | High-Explosive Shell | 榴弾装填 |
 | skchr_mgllan_1 | 高效制冷模块 | High-Efficiency Freezing Module | フリーズモジュール |
@@ -363,15 +363,15 @@ tip: 请善用浏览器的搜索功能
 | skchr_mlynar_1 | 未声张的怒火 | Unvoiced Anger | 秘めたる怒り |
 | skchr_mlynar_2 | 未宽解的悲哀 | Unresolved Sorrow | 癒えぬ悲しみ |
 | skchr_mlynar_3 | 未照耀的荣光 | Unbrilliant Glory | 輝かざる栄光 |
-| skchr_mlyss_1 | 渐进性润化 | - | - |
-| skchr_mlyss_2 | 生态耦合 | - | - |
-| skchr_mlyss_3 | 浅层非熵适应 | - | - |
+| skchr_mlyss_1 | 渐进性润化 | Progressive Moisturization | 段階的湿潤化 |
+| skchr_mlyss_2 | 生态耦合 | Ecological Interaction | 生態系統結合 |
+| skchr_mlyss_3 | 浅层非熵适应 | Superficial Regulation | ノンエントロピー適応 |
 | skchr_mm_1 | 麻痹弹 | Paralyzing Shell | ストップショット |
 | skchr_mm_2 | 束缚电击 | Binding Shock | スタンショック |
 | skchr_moeshd_1 | 自动防御 | Auto Defense | 防御態勢 |
 | skchr_moeshd_2 | 磁爆锤 | Magnetic Hammer | テスラハンマー |
-| skchr_morgan_1 | 街头好手 | - | - |
-| skchr_morgan_2 | 无畏招架 | - | - |
+| skchr_morgan_1 | 街头好手 | Professional Street Fighter | ストリートパンク |
+| skchr_morgan_2 | 无畏招架 | Dauntless Resistance | 大胆不敵 |
 | skchr_mostma_2 | 荒时之锁 | Lock of Shattered Time | 時荒びの黒き錠 |
 | skchr_mostma_3 | 序时之匙 | Key of Chronology | 時闢きの白き鍵 |
 | skchr_mudrok_2 | 岩崩锤 | Crag Splitter | 岩崩し |
@@ -490,9 +490,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_slchan_2 | 束缚链 | Binding Chains | アレストチェーン |
 | skchr_sleach_2 | 信仰传承 | Inheritance of Faith | 信念の義旗 |
 | skchr_sleach_3 | 光辉旗帜 | Glorious Banner | 光輝の御旗 |
-| skchr_slent2_1 | 进取之心 | - | - |
-| skchr_slent2_2 | 俯瞰视界 | - | - |
-| skchr_slent2_3 | 无畏者协议 | - | - |
+| skchr_slent2_1 | 进取之心 | Go-Getter | 止まらぬ歩み |
+| skchr_slent2_2 | 俯瞰视界 | Overlooking Vision | 俯瞰する視点 |
+| skchr_slent2_3 | 无畏者协议 | Dreadnought Protocol | 先駆者たちの翼 |
 | skchr_snakek_2 | 壳状防御 | Shell Defense | シェルガード |
 | skchr_snsant_1 | 倒刺钩爪 | Barbed Clawhook | フックキャッチ |
 | skchr_snsant_2 | 伸缩式电捕网 | Telescoping Electric Net | ネットキャプチャー |
@@ -658,9 +658,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_cdabyss | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |
 | sktok_cdabyssa | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |
 | sktok_cdabyssb | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |
-| sktok_cdaltar | 能量扰动 | - | - |
-| sktok_cdaltara | 能量扰动 | - | - |
-| sktok_cdaltarb | 能量扰动 | - | - |
+| sktok_cdaltar | 能量扰动 | Energy Perturbation | エネルギー妨害 |
+| sktok_cdaltara | 能量扰动 | Energy Perturbation | エネルギー妨害 |
+| sktok_cdaltarb | 能量扰动 | Energy Perturbation | エネルギー妨害 |
 | sktok_cdbeacon | 示踪信标 | Tracer Beacon | 追跡ビーコン |
 | sktok_cdbeacona | 阻断波长 | Block Wavelength | 遮断電波 |
 | sktok_cdbeaconb | 干扰波长 | Jam Wavelength | 妨害電波 |
@@ -669,13 +669,13 @@ tip: 请善用浏览器的搜索功能
 | sktok_cdcreditb | 自适应补给 | Adaptive Supply | 多機能補給 |
 | sktok_cdcvrt | 溢能回收 | - | - |
 | sktok_cdcvrta | 溢能回收 | - | - |
-| sktok_cddiff | 战术装备整理 | - | - |
-| sktok_cddiffa | 战术装备整理 | - | - |
-| sktok_cddiffb | 战术装备整理 | - | - |
+| sktok_cddiff | 战术装备整理 | Sort Tactical Equipment | 戦術装備整理 |
+| sktok_cddiffa | 战术装备整理 | Sort Tactical Equipment | 戦術装備整理 |
+| sktok_cddiffb | 战术装备整理 | Sort Tactical Equipment | 戦術装備整理 |
 | sktok_cdflsb | 劣质闪光弹 | Shoddy Flashbang | 粗悪なスタングレネード |
-| sktok_cdheal | 便携式医疗设备 | - | - |
-| sktok_cdheala | 便携式医疗设备 | - | - |
-| sktok_cdhealb | 便携式医疗设备 | - | - |
+| sktok_cdheal | 便携式医疗设备 | Portable First-aid Kit | 携帯式医療設備 |
+| sktok_cdheala | 便携式医疗设备 | Portable First-aid Kit | 携帯式医療設備 |
+| sktok_cdhealb | 便携式医疗设备 | Portable First-aid Kit | 携帯式医療設備 |
 | sktok_cdhvrk | 超重，绝缘 | Heavy, Insulated | 超過重・絶縁 |
 | sktok_cdkzmr | 竞技记录分析 | - | - |
 | sktok_cdrone | 战地援护 | - | - |
@@ -686,7 +686,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_cqbw_token | 受害者启动模式 | Victim Seeker | バッドラックXD |
 | sktok_crate | 阻挡路线 | Obstruct | 進路妨害 |
 | sktok_creep | 溟痕 | Nethersea Brand | 溟痕 |
-| sktok_crsbow | 清债程序 | - | - |
+| sktok_crsbow | 清债程序 | Debt Relief Program | 清算プログラム |
 | sktok_dancdol | 剧目宣告 | Repertoire Announcement | カーテンコール |
 | sktok_dice | 掷骰 | Roll A Die | ダイスロール |
 | sktok_dice2 | 掷骰 | Roll A Die | ダイスロール |
@@ -716,9 +716,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_frosts_friend | 寒潮 | Frigid Tide | 氷結衝撃波 |
 | sktok_garage_1 | 自走车出击！ | Self-Driving Cart, Forward! | セルカー発進！ |
 | sktok_garage_2 | 自走车出击！ | Self-Driving Cart, Forward! | セルカー発進！ |
-| sktok_gasctrl | 毒雾控制 | - | - |
+| sktok_gasctrl | 毒雾控制 | Poison Mist Control | 毒霧制御 |
 | sktok_gate | 关闭闸门 | Gate Closing | シャッター |
-| sktok_gractrl | 重力生成 | - | - |
+| sktok_gractrl | 重力生成 | Gravity Generation | 重力生成 |
 | sktok_gtreasure | 可被击破 | Destructible | 撃破可能 |
 | sktok_gunctrl | 开火 | Open Fire | 発射 |
 | sktok_hiddenstone | 可被击破 | Destructible | 撃破可能 |
@@ -747,9 +747,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_mhwrct | 滞空牵引无人机 | Wiredrone | 滞空牽引ドローン |
 | sktok_mine | 触爆 | Detonate | 接触式起爆 |
 | sktok_mire | 沼泽控制 | Mire Control | 沼地制御 |
-| sktok_mlyss_wtrman_1 | 流形 | - | - |
-| sktok_mlyss_wtrman_2 | 流形 | - | - |
-| sktok_mlyss_wtrman_3 | 流形 | - | - |
+| sktok_mlyss_wtrman_1 | 流形 | Flowing Shape | うつろう水影 |
+| sktok_mlyss_wtrman_2 | 流形 | Flowing Shape | うつろう水影 |
+| sktok_mlyss_wtrman_3 | 流形 | Flowing Shape | うつろう水影 |
 | sktok_motter_1 | 迷惑装置 | Bionic Device | 攪乱装置 |
 | sktok_motter_2 | 爆破回收 | Detonate and Recycle | ミーボ起爆 |
 | sktok_mound | 风沙掩体 | Sandstorm Protection | 防風壁 |
@@ -803,16 +803,16 @@ tip: 请善用浏览器的搜索功能
 | sktok_skadi2_2 | 共鸣 | Resonance | 共鳴 |
 | sktok_skadi2_3 | 共鸣 | Resonance | 共鳴 |
 | sktok_sleep | 救援绳索 | Rescue Rope | 救援ロープ |
-| sktok_slent2_protrb | 夜灯 | - | - |
+| sktok_slent2_protrb | 夜灯 | Night Banisher | 夜の灯火 |
 | sktok_slowfd | 高压喷射 | High-Pressure Spray | 高圧ガス |
 | sktok_smbbox | 诱人珍宝？ | - | - |
 | sktok_smbox | 诱人珍宝 | - | - |
-| sktok_smkbmb | 爆裂 | - | - |
+| sktok_smkbmb | 爆裂 | Rupture | 爆裂 |
 | sktok_smokebomb | 释放迷香 | Release Incense | 惑いの香 |
 | sktok_smpow | 启动 | - | - |
 | sktok_smrbox | 刺人珍宝 | - | - |
 | sktok_smtree | 阻止部署 | - | - |
-| sktok_snflwr | 全自动划账 | - | - |
+| sktok_snflwr | 全自动划账 | Full-Auto Debit | 全自動送金 |
 | sktok_stdurk_1 | “咔嚓！” | - | - |
 | sktok_stmbot | 水汽汽水瓶 | - | - |
 | sktok_stmpq | 景观喷泉 | - | - |
@@ -849,7 +849,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_vodfox_token | 诅咒娃娃 | Cursed Doll | 呪いの人形 |
 | sktok_vultres | 诱人珍宝 | Alluring Treasures | 財宝のいざない |
 | sktok_wdescp | 建立通讯 | Establish Communication | 通信確立 |
-| sktok_wdfarm | 补给 | - | - |
+| sktok_wdfarm | 补给 | Resupply | 補給 |
 | sktok_weedy_token | 液氮大炮 | Liquid Nitrogen Cannon | LN2キャノン |
 | sktok_wfactory | 抽水 | Pump Water | 水汲み |
 | sktok_windft_wrench_1 | 可靠电池 | Reliable Battery | 高信頼性バッテリー |

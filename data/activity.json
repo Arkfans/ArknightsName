@@ -15,12 +15,12 @@
     "zh_CN": "乌萨斯的孩子们"
   },
   "act10d6": {
-    "en_US": "Limited-time Cumulative Sign-in",
+    "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
   "act10login": {
-    "en_US": "Sign-in Campaign",
+    "en_US": "Sign-In Campaign",
     "ja_JP": "ログイン報酬",
     "zh_CN": "登录领取奖励"
   },
@@ -68,7 +68,7 @@
     "zh_CN": "刻俄柏的灰蕈迷境"
   },
   "act12login": {
-    "en_US": "Sign-in Campaign",
+    "en_US": "Sign-In Campaign",
     "ja_JP": "ログイン報酬",
     "zh_CN": "登录领取奖励"
   },
@@ -98,7 +98,7 @@
     "zh_CN": "骑兵与猎人·复刻"
   },
   "act13d2d1": {
-    "en_US": "Limited-time Cumulative Sign-in",
+    "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
@@ -113,7 +113,7 @@
     "zh_CN": "玛莉娅·临光"
   },
   "act13login": {
-    "en_US": "Sign-in Campaign",
+    "en_US": "Sign-In Campaign",
     "ja_JP": "ログイン報酬",
     "zh_CN": "登录领取奖励"
   },
@@ -133,12 +133,12 @@
     "zh_CN": "长夜临光·复刻"
   },
   "act14d0d1": {
-    "en_US": "Limited-time Cumulative Sign-in",
+    "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
   "act14d0d2": {
-    "en_US": "Sign-in Campaign",
+    "en_US": "Sign-In Campaign",
     "ja_JP": "ログイン報酬",
     "zh_CN": "登录领取奖励"
   },
@@ -148,7 +148,7 @@
     "zh_CN": "喧闹法则·复刻"
   },
   "act14login": {
-    "en_US": "Sign-in Campaign",
+    "en_US": "Sign-In Campaign",
     "ja_JP": "ログイン報酬",
     "zh_CN": "登录领取奖励"
   },
@@ -183,6 +183,8 @@
     "zh_CN": "此地之外"
   },
   "act15login": {
+    "en_US": "Sign-In Campaign",
+    "ja_JP": "ログイン報酬",
     "zh_CN": "登录领取奖励"
   },
   "act15mini": {
@@ -204,7 +206,7 @@
     "zh_CN": "画中人"
   },
   "act16d5d1": {
-    "en_US": "Sign-in Campaign",
+    "en_US": "Sign-In Campaign",
     "ja_JP": "ログイン報酬",
     "zh_CN": "登录领取奖励"
   },
@@ -214,7 +216,7 @@
     "zh_CN": "龙门幸运墙登录活动"
   },
   "act16d6": {
-    "en_US": "Limited-time Cumulative Sign-in",
+    "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
@@ -237,12 +239,12 @@
     "zh_CN": "源石尘行动"
   },
   "act17d0d1": {
-    "en_US": "Limited-time Cumulative Sign-in",
+    "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
   "act17d0d2": {
-    "en_US": "Sign-in Campaign",
+    "en_US": "Sign-In Campaign",
     "ja_JP": "ログイン報酬",
     "zh_CN": "登录领取奖励"
   },
@@ -283,7 +285,7 @@
     "zh_CN": "覆潮之下"
   },
   "act18d3d1": {
-    "en_US": "Sign-in Campaign",
+    "en_US": "Sign-In Campaign",
     "ja_JP": "ログイン報酬",
     "zh_CN": "登录领取奖励"
   },
@@ -293,7 +295,7 @@
     "zh_CN": "兔子谷矿区登录活动"
   },
   "act18d3d3": {
-    "en_US": "Limited-time Cumulative Sign-in",
+    "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
@@ -306,7 +308,7 @@
     "zh_CN": "尘影余音"
   },
   "act18sign": {
-    "en_US": "Limited-time Cumulative Sign-in",
+    "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
@@ -319,7 +321,7 @@
     "zh_CN": "绿野幻梦"
   },
   "act19sign": {
-    "en_US": "Limited-time Cumulative Sign-in",
+    "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
@@ -332,10 +334,12 @@
     "zh_CN": "引航者试炼"
   },
   "act1checkin": {
+    "en_US": "Preludes to the Future Sign-in Event",
+    "ja_JP": "大感謝祭スタンプ",
     "zh_CN": "未来序曲签到活动"
   },
   "act1d5": {
-    "en_US": "Limited-time Cumulative Sign-in",
+    "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
@@ -382,7 +386,7 @@
     "zh_CN": "理想城：长夏狂欢季"
   },
   "act20sign": {
-    "en_US": "Limited-time Cumulative Sign-in",
+    "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
@@ -395,7 +399,7 @@
     "zh_CN": "叙拉古人"
   },
   "act21sign": {
-    "en_US": "Limited-time Cumulative Sign-in",
+    "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
@@ -408,7 +412,7 @@
     "zh_CN": "照我以火"
   },
   "act22sign": {
-    "en_US": "Limited-time Cumulative Sign-in",
+    "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
@@ -418,7 +422,7 @@
     "zh_CN": "登临意"
   },
   "act23sign": {
-    "en_US": "Limited-time Cumulative Sign-in",
+    "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
@@ -428,15 +432,17 @@
     "zh_CN": "落叶逐火"
   },
   "act24sign": {
-    "en_US": "Limited-time Cumulative Sign-in",
+    "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
   "act25side": {
+    "en_US": "Lone Trail",
+    "ja_JP": "孤星",
     "zh_CN": "孤星"
   },
   "act25sign": {
-    "en_US": "Limited-time Cumulative Sign-in",
+    "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
@@ -444,7 +450,7 @@
     "zh_CN": "空想花庭"
   },
   "act26sign": {
-    "en_US": "Limited-time Cumulative Sign-in",
+    "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
@@ -452,7 +458,7 @@
     "zh_CN": "火山旅梦"
   },
   "act27sign": {
-    "en_US": "Limited-time Cumulative Sign-in",
+    "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
@@ -460,7 +466,7 @@
     "zh_CN": "不义之财"
   },
   "act28sign": {
-    "en_US": "Limited-time Cumulative Sign-in",
+    "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
@@ -478,12 +484,12 @@
     "zh_CN": "引航者试炼"
   },
   "act2d5": {
-    "en_US": "Limited-time Cumulative Sign-in",
+    "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
   "act2d8": {
-    "en_US": "Limited-time Cumulative Sign-in",
+    "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
@@ -514,12 +520,12 @@
     "zh_CN": "正逢雨季限时登录活动"
   },
   "act32sign": {
-    "en_US": "Limited-time Cumulative Sign-in",
+    "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
   "act33sign": {
-    "en_US": "Limited-time Cumulative Sign-in",
+    "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
@@ -549,7 +555,7 @@
     "zh_CN": "限时积分任务"
   },
   "act3d7": {
-    "en_US": "Limited-time Cumulative Sign-in",
+    "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
@@ -577,7 +583,7 @@
     "zh_CN": "战地秘闻"
   },
   "act4d2": {
-    "en_US": "Limited-time Cumulative Sign-in",
+    "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
@@ -588,6 +594,8 @@
     "zh_CN": "愚人节活动"
   },
   "act4mine": {
+    "en_US": "Pony Valley Mining Area Login Event",
+    "ja_JP": "ポニーバレー採鉱区",
     "zh_CN": "潘尼谷矿区登录活动"
   },
   "act4pray": {
@@ -616,7 +624,7 @@
     "zh_CN": "沃伦姆德的薄暮·复刻"
   },
   "act6d0": {
-    "en_US": "Limited-time Cumulative Sign-in",
+    "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
@@ -626,7 +634,7 @@
     "zh_CN": "洪炉示岁"
   },
   "act6d7": {
-    "en_US": "Limited-time Cumulative Sign-in",
+    "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
@@ -636,7 +644,7 @@
     "zh_CN": "限时积分任务"
   },
   "act6login": {
-    "en_US": "Sign-in Campaign",
+    "en_US": "Sign-In Campaign",
     "ja_JP": "ログイン報酬",
     "zh_CN": "登录领取奖励"
   },
@@ -649,7 +657,7 @@
     "zh_CN": "密林悍将归来·复刻"
   },
   "act7d1": {
-    "en_US": "Limited-time Cumulative Sign-in",
+    "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
@@ -659,7 +667,7 @@
     "zh_CN": "午间逸话"
   },
   "act7login": {
-    "en_US": "Sign-in Campaign",
+    "en_US": "Sign-In Campaign",
     "ja_JP": "ログイン報酬",
     "zh_CN": "登录领取奖励"
   },
@@ -677,7 +685,7 @@
     "zh_CN": "愚人节活动"
   },
   "act8login": {
-    "en_US": "Sign-in Campaign",
+    "en_US": "Sign-In Campaign",
     "ja_JP": "ログイン報酬",
     "zh_CN": "登录领取奖励"
   },
@@ -697,12 +705,12 @@
     "zh_CN": "生于黑夜"
   },
   "act9d1d1": {
-    "en_US": "Limited-time Cumulative Sign-in",
+    "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
   "act9d1d2": {
-    "en_US": "Sign-in Campaign",
+    "en_US": "Sign-In Campaign",
     "ja_JP": "ログイン報酬",
     "zh_CN": "登录领取奖励"
   },
@@ -712,7 +720,7 @@
     "zh_CN": "限时积分任务"
   },
   "act9login": {
-    "en_US": "Sign-in Campaign",
+    "en_US": "Sign-In Campaign",
     "ja_JP": "ログイン報酬",
     "zh_CN": "登录领取奖励"
   },

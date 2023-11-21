@@ -3015,123 +3015,203 @@
     "zh_CN": "“无念之冬”"
   },
   "enemy_1313_wdfmr": {
+    "en_US": "Norport Civilian",
+    "ja_JP": "ノーポート民間人",
     "zh_CN": "诺伯特平民"
   },
   "enemy_1313_wdfmr_2": {
+    "en_US": "Norport Spy",
+    "ja_JP": "ノーポート諜報員",
     "zh_CN": "诺伯特暗探"
   },
   "enemy_1314_wdnjd": {
+    "en_US": "Pathfinder Spy",
+    "ja_JP": "偵察密偵",
     "zh_CN": "寻路密探"
   },
   "enemy_1314_wdnjd_2": {
+    "en_US": "Pathfinder Spymaster",
+    "ja_JP": "偵察密偵隊長",
     "zh_CN": "寻路密探长"
   },
   "enemy_1315_wdyjd": {
+    "en_US": "Sentry Spy",
+    "ja_JP": "哨戒密偵",
     "zh_CN": "岗哨密探"
   },
   "enemy_1315_wdyjd_2": {
+    "en_US": "Sentry Spymaster",
+    "ja_JP": "哨戒密偵隊長",
     "zh_CN": "岗哨密探长"
   },
   "enemy_1316_wdpjd": {
+    "en_US": "Armed Spy",
+    "ja_JP": "武装密偵",
     "zh_CN": "武装密探"
   },
   "enemy_1316_wdpjd_2": {
+    "en_US": "Armed Spymaster",
+    "ja_JP": "武装密偵隊長",
     "zh_CN": "武装密探长"
   },
   "enemy_1317_wdexg": {
+    "en_US": "Sarkaz Absurdist Operative",
+    "ja_JP": "サルカズ悖理諜報員",
     "zh_CN": "萨卡兹悖谬谍报官"
   },
   "enemy_1317_wdexg_2": {
+    "en_US": "Sarkaz Absurdist Operative Leader",
+    "ja_JP": "サルカズ悖理諜報隊長",
     "zh_CN": "萨卡兹悖谬谍报长"
   },
   "enemy_1318_wdsmgc": {
+    "en_US": "Sarkaz Absurdist Splitcaster Apprentice",
+    "ja_JP": "サルカズ悖理分裂術師",
     "zh_CN": "萨卡兹悖谬裂变学徒"
   },
   "enemy_1318_wdsmgc_2": {
+    "en_US": "Sarkaz Absurdist Splitcaster",
+    "ja_JP": "サルカズ悖理分裂術師隊長",
     "zh_CN": "萨卡兹悖谬裂变术师"
   },
   "enemy_1319_wdfmpm": {
+    "en_US": "Rebellion Instigator",
+    "ja_JP": "反乱の扇動者",
     "zh_CN": "叛乱煽动者"
   },
   "enemy_1319_wdfmpm_2": {
+    "en_US": "Rebellion Agitator",
+    "ja_JP": "反乱の教唆者",
     "zh_CN": "叛乱鼓动者"
   },
   "enemy_1320_wdrrl": {
+    "en_US": "Sarkaz Absurdist Tyrant",
+    "ja_JP": "サルカズ悖理暴虐兵",
     "zh_CN": "萨卡兹悖谬暴虐兵"
   },
   "enemy_1320_wdrrl_2": {
+    "en_US": "Sarkaz Absurdist Tyrant Captain",
+    "ja_JP": "サルカズ悖理暴虐兵士長",
     "zh_CN": "萨卡兹悖谬暴虐兵长"
   },
   "enemy_1321_wdarft": {
+    "en_US": "Withering Collector Disciple",
+    "ja_JP": "枯朽凝集使徒",
     "zh_CN": "枯朽萃聚使徒"
   },
   "enemy_1321_wdarft_2": {
+    "en_US": "Decaying Collector Disciple",
+    "ja_JP": "腐敗凝集使徒",
     "zh_CN": "腐败萃聚使徒"
   },
   "enemy_1322_wdgyht": {
+    "en_US": "'Trilby Asher'",
+    "ja_JP": "「グレーシルクハット」",
     "zh_CN": "“灰礼帽”"
   },
   "enemy_1322_wdgyht_2": {
+    "en_US": "'Shadowing Trilby Asher'",
+    "ja_JP": "「グレーシルクハット見習い」",
     "zh_CN": "“见习灰礼帽”"
   },
   "enemy_1323_wdbshd": {
+    "en_US": "Deconstructed Distortion",
+    "ja_JP": "デコンニュータント",
     "zh_CN": "解构畸变体"
   },
   "enemy_1325_cbgpro": {
+    "en_US": "Military Hound",
+    "ja_JP": "軍用猟犬",
     "zh_CN": "军用猎狗"
   },
   "enemy_1325_cbgpro_2": {
+    "en_US": "Elite Military Hound",
+    "ja_JP": "精鋭軍用猟犬",
     "zh_CN": "高级军用猎狗"
   },
   "enemy_1326_cbagen": {
+    "en_US": "Trimounts City Defender",
+    "ja_JP": "トリマウンツ都市防衛軍兵士",
     "zh_CN": "特里蒙城防军"
   },
   "enemy_1326_cbagen_2": {
+    "en_US": "Trimounts City Defender Captain",
+    "ja_JP": "トリマウンツ都市防衛軍隊長",
     "zh_CN": "特里蒙城防军队长"
   },
   "enemy_1327_cbrokt": {
+    "en_US": "Arc Commando",
+    "ja_JP": "アーク突撃隊隊員",
     "zh_CN": "弧光突击队"
   },
   "enemy_1327_cbrokt_2": {
+    "en_US": "Arc Commando Captain",
+    "ja_JP": "アーク突撃隊隊長",
     "zh_CN": "弧光突击队队长"
   },
   "enemy_1328_cbjedi": {
+    "en_US": "Arc Frontliner",
+    "ja_JP": "アーク鋒衛",
     "zh_CN": "弧光锋卫"
   },
   "enemy_1328_cbjedi_2": {
+    "en_US": "Arc Frontliner Leader",
+    "ja_JP": "アーク鋒衛隊長",
     "zh_CN": "弧光锋卫长"
   },
   "enemy_1329_cbshld": {
+    "en_US": "Arc Screenguard",
+    "ja_JP": "アーク鏡衛",
     "zh_CN": "弧光镜卫"
   },
   "enemy_1329_cbshld_2": {
+    "en_US": "Arc Screenguard Captain",
+    "ja_JP": "アーク鏡衛隊長",
     "zh_CN": "弧光镜卫长"
   },
   "enemy_1330_cbrush": {
+    "en_US": "'Offender' Production Model",
+    "ja_JP": "「トラブルメーカー」量産型",
     "zh_CN": "“肇事者”量产型"
   },
   "enemy_1330_cbrush_2": {
+    "en_US": "'Offender' Prototype",
+    "ja_JP": "「トラブルメーカー」試作型",
     "zh_CN": "“肇事者”试做型"
   },
   "enemy_1331_cbsisy": {
+    "en_US": "'Crossroads' Production Model",
+    "ja_JP": "「クロスロード」量産型",
     "zh_CN": "“十字路口”量产型"
   },
   "enemy_1331_cbsisy_2": {
+    "en_US": "'Crossroads' Prototype",
+    "ja_JP": "「クロスロード」試作型",
     "zh_CN": "“十字路口”试做型"
   },
   "enemy_1332_cbterm": {
+    "en_US": "'Traffic Tower' Production Model",
+    "ja_JP": "「トラフィックタワー」量産型",
     "zh_CN": "“交通亭”量产型"
   },
   "enemy_1332_cbterm_2": {
+    "en_US": "'Traffic Tower' Prototype",
+    "ja_JP": "「トラフィックタワー」試作型",
     "zh_CN": "“交通亭”试做型"
   },
   "enemy_1333_cbbgen": {
+    "en_US": "'Traffic Officer'",
+    "ja_JP": "「交通巡査」",
     "zh_CN": "“交通警察”"
   },
   "enemy_1333_cbbgen_2": {
+    "en_US": "'Traffic Officer Captain'",
+    "ja_JP": "「交通巡査長」",
     "zh_CN": "“交通警长”"
   },
   "enemy_1334_ristar": {
+    "en_US": "Planetary Debris",
+    "ja_JP": "「惑星の破片」",
     "zh_CN": "行星碎屑"
   },
   "enemy_1335_bldrat": {
@@ -3460,7 +3540,7 @@
     "zh_CN": "“不死的黑蛇”"
   },
   "enemy_1516_jakill": {
-    "en_US": "Jesselton Miller",
+    "en_US": "Jesselton Williams",
     "ja_JP": "ジェッセルトン・ウィリアムズ",
     "zh_CN": "杰斯顿·威廉姆斯"
   },
@@ -3580,15 +3660,23 @@
     "zh_CN": "“复仇者”"
   },
   "enemy_1540_wdncr": {
+    "en_US": "Eblana",
+    "ja_JP": "エブラナ",
     "zh_CN": "爱布拉娜"
   },
   "enemy_1541_wdslms": {
+    "en_US": "'Damazti Cluster'",
+    "ja_JP": "「変形者」",
     "zh_CN": "“变形者集群”"
   },
   "enemy_1542_wdslm": {
+    "en_US": "'Damazti Cluster'",
+    "ja_JP": "「変形者」",
     "zh_CN": "“变形者集群”"
   },
   "enemy_1543_cstlrs": {
+    "en_US": "Kristen",
+    "ja_JP": "クリステン",
     "zh_CN": "克丽斯腾"
   },
   "enemy_1544_cledub": {
@@ -3807,9 +3895,13 @@
     "zh_CN": "伊莎玛拉之泪"
   },
   "enemy_2041_syjely": {
+    "en_US": "Izumik's Offspring",
+    "ja_JP": "イズミックの後裔",
     "zh_CN": "伊祖米克的子代"
   },
   "enemy_2042_syboss": {
+    "en_US": "Izumik, Source of Ecology",
+    "ja_JP": "イズミック、生態の源",
     "zh_CN": "伊祖米克，生态泉源"
   },
   "enemy_2043_smsbr": {
@@ -3987,9 +4079,13 @@
     "zh_CN": "小型共生体"
   },
   "enemy_6013_smith": {
+    "en_US": "Mama's 'Rebel Girl'",
+    "ja_JP": "「家出した反逆娘」",
     "zh_CN": "老妈的“逆女”"
   },
   "enemy_6014_crzgas": {
+    "en_US": "'Tumor'",
+    "ja_JP": "「チューマー」",
     "zh_CN": "“毒瘤”"
   },
   "enemy_6015_ictruck": {

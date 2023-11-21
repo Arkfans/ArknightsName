@@ -519,12 +519,18 @@
     "zh_CN": "艾露猫的委托柜台"
   },
   "act25side_zone1": {
+    "en_US": "The Coming of The Future",
+    "ja_JP": "来たる未来",
     "zh_CN": "未来将至"
   },
   "act25side_zone2": {
+    "en_US": "The Lingering of the Past",
+    "ja_JP": "過ぎぬ過去",
     "zh_CN": "过往未尽"
   },
   "act25side_zone3": {
+    "en_US": "The Pursuing of the Present",
+    "ja_JP": "在るべき今",
     "zh_CN": "紧握当下"
   },
   "act26side_zone1": {
@@ -681,6 +687,8 @@
     "zh_CN": "淬火尘霾"
   },
   "main_12": {
+    "en_US": "All Quiet Under the Thunder",
+    "ja_JP": "驚靂蕭然",
     "zh_CN": "惊霆无声"
   },
   "main_13": {
@@ -973,12 +981,18 @@
     "zh_CN": "镜前映像"
   },
   "permanent_sub_5_zone1": {
+    "en_US": "The Coming of the Future",
+    "ja_JP": "来たる未来",
     "zh_CN": "未来将至"
   },
   "permanent_sub_5_zone2": {
+    "en_US": "The Lingering of the Past",
+    "ja_JP": "過ぎぬ過去",
     "zh_CN": "过往未尽"
   },
   "permanent_sub_5_zone3": {
+    "en_US": "The Pursuing of the Present",
+    "ja_JP": "在るべき今",
     "zh_CN": "紧握当下"
   },
   "weekly_1": {

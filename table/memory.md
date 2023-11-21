@@ -43,7 +43,7 @@ tip: 请善用浏览器的搜索功能
 | story_brownb_set_1_story_1 | 终场铃声 | Ending Bell | 決着のゴング |
 | story_bryota_set_1_story_1 | 风情街的日与夜 | - | - |
 | story_bstalk_set_1_story_1 | 呼唤荒野 | The Wilds Do They Call | 荒野への呼びかけ |
-| story_cammou_set_1_story_1 | 无人工房 | - | - |
+| story_cammou_set_1_story_1 | 无人工房 | Unmanned Workshop | 無人工場 |
 | story_cast3_set_1_story_1 | 不朽 | Immortal | 不朽 |
 | story_catap_set_1_story_1 | 挣脱 | Break Free | 脱出 |
 | story_catap_set_2_story_1 | 改变 | Change | 改変 |
@@ -63,7 +63,7 @@ tip: 请善用浏览器的搜索功能
 | story_cutter_set_1_story_1 | 速食食品 | Meals, Ready-to-Eat | 携行食 |
 | story_dagda_set_1_story_1 | 脚步不停 | - | - |
 | story_deepcl_set_1_story_1 | 幽蓝怀想 | Azure Memories | 深き青の追想 |
-| story_doroth_set_1_story_1 | 何处是我朋友的家 | - | - |
+| story_doroth_set_1_story_1 | 何处是我朋友的家 | Where is the Friend's House? | 友の故郷はいずこ |
 | story_durin_set_1_story_1 | 午休时间 | Lunchtime Nap | お昼休み |
 | story_durnar_set_1_story_1 | 额外训练 | Extra Training | 追加訓練 |
 | story_durnar_set_2_story_1 | 杯中旧事 | A Glass with Old Stories | グラスに注ぐ思い出 |
@@ -91,11 +91,11 @@ tip: 请善用浏览器的搜索功能
 | story_franka_set_1_story_1 | 往日的象征 | Symbols of the Past | 在りし日の象徴 |
 | story_franka_set_2_story_1 | 驻足 | - | - |
 | story_frncat_set_1_story_1 | 小点心 | Sweetheart | マイスウィーティ |
-| story_frostl_set_1_story_1 | 识字本 | - | - |
+| story_frostl_set_1_story_1 | 识字本 | Learning to Read | 学習帳 |
 | story_ghost2_set_1_story_1 | 自我 | Selfhood | 自分 |
 | story_ghost_set_1_story_1 | 圣诞快乐！ | Merry Christmas! | メリークリスマス！ |
 | story_ghost_set_2_story_1 | 我，即是“我” | I, Namely I | 私は「私」 |
-| story_glacus_set_1_story_1 | 以我双腿 | - | - |
+| story_glacus_set_1_story_1 | 以我双腿 | On My Own Two Legs | この両足で |
 | story_glady_set_1_story_1 | 失水症 | Dehydration | 脱水症 |
 | story_glassb_set_1_story_1 | 走吧，走吧 | Let's Go, Let's Go | さあ、行こう |
 | story_glassb_set_2_story_1 | 再见以前 | - | - |
@@ -157,7 +157,7 @@ tip: 请善用浏览器的搜索功能
 | story_mlyss_set_1_story_1 | 无根之雨 | - | - |
 | story_mm_set_1_story_1 | 大侦探探案集·卷一 | The Great Detective's Case Files - Volume I | 名探偵の事件簿・其の一 |
 | story_moeshd_set_1_story_1 | 生意场 | The Business | 商売とは |
-| story_morgan_set_1_story_1 | 巨轮之下 | - | - |
+| story_morgan_set_1_story_1 | 巨轮之下 | Beneath the Worthy Wheel | 巨輪の下 |
 | story_mostma_set_1_story_1 | 高楼之上 | Atop the Skyscrapers | 高層ビルの上で |
 | story_myrrh_set_1_story_1 | 护身符 | Lucky Charm | 御守り |
 | story_myrtle_set_1_story_1 | 任务报告填写指南 | - | - |
@@ -172,7 +172,7 @@ tip: 请善用浏览器的搜索功能
 | story_otter_set_1_story_1 | 满满的日程表 | One Packed Daily Schedule | 仕事三昧 |
 | story_otter_set_2_story_1 | 造物之心 | Heart of Creation | 創り出す心 |
 | story_panda_set_1_story_1 | 一落千丈 | Nosedive | 一落千丈 |
-| story_peper_set_1_story_1 | 少年雇佣兵 | - | - |
+| story_peper_set_1_story_1 | 少年雇佣兵 | Mercenary Youth | 傭兵の少女 |
 | story_phatom_set_1_story_1 | 合作 | Cooperation | 協力 |
 | story_phenxi_set_1_story_1 | 乐园 | Paradisus | 楽園 |
 | story_pianst_set_1_story_1 | 夕阳与朝日 | - | - |
@@ -200,7 +200,7 @@ tip: 请善用浏览器的搜索功能
 | story_scave_set_1_story_1 | 硬币的意志 | The Will of a Coin | コインの意志 |
 | story_sddrag_set_1_story_1 | 芦苇之心 | - | - |
 | story_serum_set_1_story_1 | 蚀清的工牌 | Corroserum's Badge | コロセラムのIDカード |
-| story_sesa_set_1_story_1 | 致命诱惑 | - | - |
+| story_sesa_set_1_story_1 | 致命诱惑 | Fatal Attraction | 死に至らしめる誘惑 |
 | story_shotst_set_1_story_1 | 滚烫旧忆 | Scalding Old Memories | 熱傷の記憶 |
 | story_shotst_set_2_story_1 | 两难 | Dilemma | 板挟み |
 | story_shwaz_set_1_story_1 | 离乡之日 | 'The Day We Left Home' | 故郷を去る日 |
@@ -223,7 +223,7 @@ tip: 请善用浏览器的搜索功能
 | story_sqrrel_set_1_story_1 | 小心火烛 | Careful of Flammables | 火の用心 |
 | story_sqrrel_set_2_story_2 | 易燃品 | Flammables | 可燃物 |
 | story_strong_set_1_story_1 | 将错就错 | Roll With Your Mistakes | 勘違いを押し通して |
-| story_strong_set_2_story_1 | 关键人物 | - | - |
+| story_strong_set_2_story_1 | 关键人物 | VIP | キーパーソン |
 | story_sunbr_set_1_story_1 | 缺失的陪伴 | Lost Companion | 側にいない時間 |
 | story_sunbr_set_2_story_1 | 成长 | Growing Up | 成長 |
 | story_susuro_set_1_story_1 | 专业医师 | Professional Doctor | 精鋭医師 |

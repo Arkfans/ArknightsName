@@ -168,6 +168,8 @@
   "char_1031_slent2": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Silence the Paradigmatic",
+      "ja_JP": "淬羽サイレンス",
       "zh_CN": "淬羽赫默"
     }
   },
@@ -488,6 +490,8 @@
   "char_154_morgan": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Morgan",
+      "ja_JP": "モーガン",
       "zh_CN": "摩根"
     }
   },
@@ -970,6 +974,8 @@
   "char_249_mlyss": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Muelsyse",
+      "ja_JP": "ミュルジス",
       "zh_CN": "缪尔赛思"
     }
   },
@@ -1590,6 +1596,8 @@
   "char_4006_melnte": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Melanite",
+      "ja_JP": "メラナイト",
       "zh_CN": "玫拉"
     }
   },
@@ -1680,6 +1688,8 @@
   "char_4027_heyak": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Ho'olheyak",
+      "ja_JP": "ホルハイヤ",
       "zh_CN": "霍尔海雅"
     }
   },
@@ -1910,6 +1920,8 @@
   "char_4087_ines": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Ines",
+      "ja_JP": "イネス",
       "zh_CN": "伊内丝"
     }
   },
@@ -2172,6 +2184,8 @@
   "char_464_cement": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Cement",
+      "ja_JP": "セメント",
       "zh_CN": "洋灰"
     }
   },
@@ -2288,6 +2302,8 @@
   "char_491_humus": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Humus",
+      "ja_JP": "ヒューマス",
       "zh_CN": "休谟斯"
     }
   },
@@ -2744,12 +2760,16 @@
   "token_10029_slent2_protrb": {
     "type": "TOKEN",
     "names": {
+      "en_US": "Night Banisher",
+      "ja_JP": "夜の灯火",
       "zh_CN": "夜灯"
     }
   },
   "token_10030_mlyss_wtrman": {
     "type": "TOKEN",
     "names": {
+      "en_US": "Flowing Shape",
+      "ja_JP": "うつろう水影",
       "zh_CN": "流形"
     }
   },
@@ -3614,30 +3634,40 @@
   "trap_111_wdfarm": {
     "type": "TRAP",
     "names": {
+      "en_US": "Roadside Emergency Reserves",
+      "ja_JP": "街の緊急用備蓄",
       "zh_CN": "街头应急储备"
     }
   },
   "trap_112_crsbow": {
     "type": "TRAP",
     "names": {
+      "en_US": "Post-Firing Debt Relief Program",
+      "ja_JP": "解雇者清算プログラム",
       "zh_CN": "解雇者清债程序"
     }
   },
   "trap_113_snflwr": {
     "type": "TRAP",
     "names": {
+      "en_US": "Full-Auto Debit Machine",
+      "ja_JP": "全自動送金機",
       "zh_CN": "全自动划账器"
     }
   },
   "trap_114_smkbmb": {
     "type": "TRAP",
     "names": {
+      "en_US": "Rupturing Canister",
+      "ja_JP": "毒ガスタンク",
       "zh_CN": "爆裂毒气罐"
     }
   },
   "trap_115_gasctrl": {
     "type": "TRAP",
     "names": {
+      "en_US": "Gas Controller",
+      "ja_JP": "毒霧タワー制御装置",
       "zh_CN": "毒雾塔控制"
     }
   },
@@ -3674,6 +3704,8 @@
   "trap_121_gractrl": {
     "type": "TRAP",
     "names": {
+      "en_US": "Gravity",
+      "ja_JP": "重力",
       "zh_CN": "重力"
     }
   },
@@ -4178,54 +4210,72 @@
   "trap_714_cdaltar": {
     "type": "TRAP",
     "names": {
+      "en_US": "Energy Perturbation Amplifier",
+      "ja_JP": "エネルギー摂動増幅器",
       "zh_CN": "能量扰动放大器"
     }
   },
   "trap_715_cdaltara": {
     "type": "TRAP",
     "names": {
+      "en_US": "Energy Perturbation Amplifier",
+      "ja_JP": "エネルギー摂動増幅器",
       "zh_CN": "能量扰动放大器"
     }
   },
   "trap_716_cdaltarb": {
     "type": "TRAP",
     "names": {
+      "en_US": "Energy Perturbation Amplifier",
+      "ja_JP": "エネルギー摂動増幅器",
       "zh_CN": "能量扰动放大器"
     }
   },
   "trap_717_cddiff": {
     "type": "TRAP",
     "names": {
+      "en_US": "Tactical Equipment Toolbox",
+      "ja_JP": "戦術装備整理箱",
       "zh_CN": "战术装备整理箱"
     }
   },
   "trap_718_cddiffa": {
     "type": "TRAP",
     "names": {
+      "en_US": "Tactical Equipment Toolbox",
+      "ja_JP": "戦術装備整理箱",
       "zh_CN": "战术装备整理箱"
     }
   },
   "trap_719_cddiffb": {
     "type": "TRAP",
     "names": {
+      "en_US": "Tactical Equipment Toolbox",
+      "ja_JP": "戦術装備整理箱",
       "zh_CN": "战术装备整理箱"
     }
   },
   "trap_720_cdheal": {
     "type": "TRAP",
     "names": {
+      "en_US": "Portable First-aid Kit",
+      "ja_JP": "携帯式医療設備",
       "zh_CN": "便携式医疗设备"
     }
   },
   "trap_721_cdheala": {
     "type": "TRAP",
     "names": {
+      "en_US": "Portable First-aid Kit",
+      "ja_JP": "携帯式医療設備",
       "zh_CN": "便携式医疗设备"
     }
   },
   "trap_722_cdhealb": {
     "type": "TRAP",
     "names": {
+      "en_US": "Portable First-aid Kit",
+      "ja_JP": "携帯式医療設備",
       "zh_CN": "便携式医疗设备"
     }
   },
@@ -4326,6 +4376,8 @@
   "char_003_kalts@boc#6": {
     "type": "SKIN",
     "names": {
+      "en_US": "Remnant",
+      "ja_JP": "名残",
       "zh_CN": "残余"
     }
   },
@@ -4370,6 +4422,8 @@
   "char_1013_chen2@boc#6": {
     "type": "SKIN",
     "names": {
+      "en_US": "Ten Thousand Mountains",
+      "ja_JP": "万重山",
       "zh_CN": "万重山"
     }
   },
@@ -4408,6 +4462,8 @@
   "char_1023_ghost2@boc#6": {
     "type": "SKIN",
     "names": {
+      "en_US": "Born as One",
+      "ja_JP": "対なる一人",
       "zh_CN": "生而为一"
     }
   },
@@ -5478,6 +5534,8 @@
   "char_278_orchid@boc#6": {
     "type": "SKIN",
     "names": {
+      "en_US": "Twines of Time",
+      "ja_JP": "在りし日を繕って",
       "zh_CN": "衣缕往昔"
     }
   },
@@ -5572,6 +5630,8 @@
   "char_297_hamoni@epoque#24": {
     "type": "SKIN",
     "names": {
+      "en_US": "Invitation",
+      "ja_JP": "お誘い",
       "zh_CN": "邀约"
     }
   },
@@ -5938,6 +5998,8 @@
   "char_4009_irene@ambienceSynesthesia#3": {
     "type": "SKIN",
     "names": {
+      "en_US": "Voyage of Feathers",
+      "ja_JP": "飛び立つ羽",
       "zh_CN": "飞羽"
     }
   },
@@ -6026,6 +6088,8 @@
   "char_4039_horn@epoque#24": {
     "type": "SKIN",
     "names": {
+      "en_US": "To Effloresce Whitely",
+      "ja_JP": "花となりて",
       "zh_CN": "化花"
     }
   },
@@ -6046,6 +6110,8 @@
   "char_4042_lumen@ambienceSynesthesia#3": {
     "type": "SKIN",
     "names": {
+      "en_US": "Golden Dream",
+      "ja_JP": "輝ける夢の海",
       "zh_CN": "灿海浮梦"
     }
   },
@@ -6060,12 +6126,16 @@
   "char_4045_heidi@epoque#24": {
     "type": "SKIN",
     "names": {
+      "en_US": "A Thousand Correspondences",
+      "ja_JP": "溢れ落ちる手紙",
       "zh_CN": "书信零落"
     }
   },
   "char_4046_ebnhlz@boc#6": {
     "type": "SKIN",
     "names": {
+      "en_US": "Eine Variation",
+      "ja_JP": "変奏",
       "zh_CN": "变奏"
     }
   },
@@ -6390,6 +6460,8 @@
   "char_484_robrta@ambienceSynesthesia#3": {
     "type": "SKIN",
     "names": {
+      "en_US": "Granter of Colors",
+      "ja_JP": "色彩を待つ白",
       "zh_CN": "待绘的作品"
     }
   },
@@ -11454,240 +11526,320 @@
   "enemy_1313_wdfmr": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Norport Civilian",
+      "ja_JP": "ノーポート民間人",
       "zh_CN": "诺伯特平民"
     }
   },
   "enemy_1313_wdfmr_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Norport Spy",
+      "ja_JP": "ノーポート諜報員",
       "zh_CN": "诺伯特暗探"
     }
   },
   "enemy_1314_wdnjd": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Pathfinder Spy",
+      "ja_JP": "偵察密偵",
       "zh_CN": "寻路密探"
     }
   },
   "enemy_1314_wdnjd_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Pathfinder Spymaster",
+      "ja_JP": "偵察密偵隊長",
       "zh_CN": "寻路密探长"
     }
   },
   "enemy_1315_wdyjd": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Sentry Spy",
+      "ja_JP": "哨戒密偵",
       "zh_CN": "岗哨密探"
     }
   },
   "enemy_1315_wdyjd_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Sentry Spymaster",
+      "ja_JP": "哨戒密偵隊長",
       "zh_CN": "岗哨密探长"
     }
   },
   "enemy_1316_wdpjd": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Armed Spy",
+      "ja_JP": "武装密偵",
       "zh_CN": "武装密探"
     }
   },
   "enemy_1316_wdpjd_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Armed Spymaster",
+      "ja_JP": "武装密偵隊長",
       "zh_CN": "武装密探长"
     }
   },
   "enemy_1317_wdexg": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Sarkaz Absurdist Operative",
+      "ja_JP": "サルカズ悖理諜報員",
       "zh_CN": "萨卡兹悖谬谍报官"
     }
   },
   "enemy_1317_wdexg_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Sarkaz Absurdist Operative Leader",
+      "ja_JP": "サルカズ悖理諜報隊長",
       "zh_CN": "萨卡兹悖谬谍报长"
     }
   },
   "enemy_1318_wdsmgc": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Sarkaz Absurdist Splitcaster Apprentice",
+      "ja_JP": "サルカズ悖理分裂術師",
       "zh_CN": "萨卡兹悖谬裂变学徒"
     }
   },
   "enemy_1318_wdsmgc_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Sarkaz Absurdist Splitcaster",
+      "ja_JP": "サルカズ悖理分裂術師隊長",
       "zh_CN": "萨卡兹悖谬裂变术师"
     }
   },
   "enemy_1319_wdfmpm": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Rebellion Instigator",
+      "ja_JP": "反乱の扇動者",
       "zh_CN": "叛乱煽动者"
     }
   },
   "enemy_1319_wdfmpm_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Rebellion Agitator",
+      "ja_JP": "反乱の教唆者",
       "zh_CN": "叛乱鼓动者"
     }
   },
   "enemy_1320_wdrrl": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Sarkaz Absurdist Tyrant",
+      "ja_JP": "サルカズ悖理暴虐兵",
       "zh_CN": "萨卡兹悖谬暴虐兵"
     }
   },
   "enemy_1320_wdrrl_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Sarkaz Absurdist Tyrant Captain",
+      "ja_JP": "サルカズ悖理暴虐兵士長",
       "zh_CN": "萨卡兹悖谬暴虐兵长"
     }
   },
   "enemy_1321_wdarft": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Withering Collector Disciple",
+      "ja_JP": "枯朽凝集使徒",
       "zh_CN": "枯朽萃聚使徒"
     }
   },
   "enemy_1321_wdarft_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Decaying Collector Disciple",
+      "ja_JP": "腐敗凝集使徒",
       "zh_CN": "腐败萃聚使徒"
     }
   },
   "enemy_1322_wdgyht": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Trilby Asher'",
+      "ja_JP": "「グレーシルクハット」",
       "zh_CN": "“灰礼帽”"
     }
   },
   "enemy_1322_wdgyht_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Shadowing Trilby Asher'",
+      "ja_JP": "「グレーシルクハット見習い」",
       "zh_CN": "“见习灰礼帽”"
     }
   },
   "enemy_1323_wdbshd": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Deconstructed Distortion",
+      "ja_JP": "デコンニュータント",
       "zh_CN": "解构畸变体"
     }
   },
   "enemy_1325_cbgpro": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Military Hound",
+      "ja_JP": "軍用猟犬",
       "zh_CN": "军用猎狗"
     }
   },
   "enemy_1325_cbgpro_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Elite Military Hound",
+      "ja_JP": "精鋭軍用猟犬",
       "zh_CN": "高级军用猎狗"
     }
   },
   "enemy_1326_cbagen": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Trimounts City Defender",
+      "ja_JP": "トリマウンツ都市防衛軍兵士",
       "zh_CN": "特里蒙城防军"
     }
   },
   "enemy_1326_cbagen_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Trimounts City Defender Captain",
+      "ja_JP": "トリマウンツ都市防衛軍隊長",
       "zh_CN": "特里蒙城防军队长"
     }
   },
   "enemy_1327_cbrokt": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Arc Commando",
+      "ja_JP": "アーク突撃隊隊員",
       "zh_CN": "弧光突击队"
     }
   },
   "enemy_1327_cbrokt_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Arc Commando Captain",
+      "ja_JP": "アーク突撃隊隊長",
       "zh_CN": "弧光突击队队长"
     }
   },
   "enemy_1328_cbjedi": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Arc Frontliner",
+      "ja_JP": "アーク鋒衛",
       "zh_CN": "弧光锋卫"
     }
   },
   "enemy_1328_cbjedi_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Arc Frontliner Leader",
+      "ja_JP": "アーク鋒衛隊長",
       "zh_CN": "弧光锋卫长"
     }
   },
   "enemy_1329_cbshld": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Arc Screenguard",
+      "ja_JP": "アーク鏡衛",
       "zh_CN": "弧光镜卫"
     }
   },
   "enemy_1329_cbshld_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Arc Screenguard Captain",
+      "ja_JP": "アーク鏡衛隊長",
       "zh_CN": "弧光镜卫长"
     }
   },
   "enemy_1330_cbrush": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Offender' Production Model",
+      "ja_JP": "「トラブルメーカー」量産型",
       "zh_CN": "“肇事者”量产型"
     }
   },
   "enemy_1330_cbrush_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Offender' Prototype",
+      "ja_JP": "「トラブルメーカー」試作型",
       "zh_CN": "“肇事者”试做型"
     }
   },
   "enemy_1331_cbsisy": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Crossroads' Production Model",
+      "ja_JP": "「クロスロード」量産型",
       "zh_CN": "“十字路口”量产型"
     }
   },
   "enemy_1331_cbsisy_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Crossroads' Prototype",
+      "ja_JP": "「クロスロード」試作型",
       "zh_CN": "“十字路口”试做型"
     }
   },
   "enemy_1332_cbterm": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Traffic Tower' Production Model",
+      "ja_JP": "「トラフィックタワー」量産型",
       "zh_CN": "“交通亭”量产型"
     }
   },
   "enemy_1332_cbterm_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Traffic Tower' Prototype",
+      "ja_JP": "「トラフィックタワー」試作型",
       "zh_CN": "“交通亭”试做型"
     }
   },
   "enemy_1333_cbbgen": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Traffic Officer'",
+      "ja_JP": "「交通巡査」",
       "zh_CN": "“交通警察”"
     }
   },
   "enemy_1333_cbbgen_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Traffic Officer Captain'",
+      "ja_JP": "「交通巡査長」",
       "zh_CN": "“交通警长”"
     }
   },
   "enemy_1334_ristar": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Planetary Debris",
+      "ja_JP": "「惑星の破片」",
       "zh_CN": "行星碎屑"
     }
   },
@@ -12310,7 +12462,7 @@
   "enemy_1516_jakill": {
     "type": "ENEMY",
     "names": {
-      "en_US": "Jesselton Miller",
+      "en_US": "Jesselton Williams",
       "ja_JP": "ジェッセルトン・ウィリアムズ",
       "zh_CN": "杰斯顿·威廉姆斯"
     }
@@ -12502,24 +12654,32 @@
   "enemy_1540_wdncr": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Eblana",
+      "ja_JP": "エブラナ",
       "zh_CN": "爱布拉娜"
     }
   },
   "enemy_1541_wdslms": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Damazti Cluster'",
+      "ja_JP": "「変形者」",
       "zh_CN": "“变形者集群”"
     }
   },
   "enemy_1542_wdslm": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Damazti Cluster'",
+      "ja_JP": "「変形者」",
       "zh_CN": "“变形者集群”"
     }
   },
   "enemy_1543_cstlrs": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Kristen",
+      "ja_JP": "クリステン",
       "zh_CN": "克丽斯腾"
     }
   },
@@ -12876,12 +13036,16 @@
   "enemy_2041_syjely": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Izumik's Offspring",
+      "ja_JP": "イズミックの後裔",
       "zh_CN": "伊祖米克的子代"
     }
   },
   "enemy_2042_syboss": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Izumik, Source of Ecology",
+      "ja_JP": "イズミック、生態の源",
       "zh_CN": "伊祖米克，生态泉源"
     }
   },
@@ -13188,12 +13352,16 @@
   "enemy_6013_smith": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Mama's 'Rebel Girl'",
+      "ja_JP": "「家出した反逆娘」",
       "zh_CN": "老妈的“逆女”"
     }
   },
   "enemy_6014_crzgas": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Tumor'",
+      "ja_JP": "「チューマー」",
       "zh_CN": "“毒瘤”"
     }
   },
@@ -13434,7 +13602,7 @@
   "act10d6": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Limited-time Cumulative Sign-in",
+      "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
@@ -13442,7 +13610,7 @@
   "act10login": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Sign-in Campaign",
+      "en_US": "Sign-In Campaign",
       "ja_JP": "ログイン報酬",
       "zh_CN": "登录领取奖励"
     }
@@ -13520,7 +13688,7 @@
   "act12login": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Sign-in Campaign",
+      "en_US": "Sign-In Campaign",
       "ja_JP": "ログイン報酬",
       "zh_CN": "登录领取奖励"
     }
@@ -13568,7 +13736,7 @@
   "act13d2d1": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Limited-time Cumulative Sign-in",
+      "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
@@ -13592,7 +13760,7 @@
   "act13login": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Sign-in Campaign",
+      "en_US": "Sign-In Campaign",
       "ja_JP": "ログイン報酬",
       "zh_CN": "登录领取奖励"
     }
@@ -13624,7 +13792,7 @@
   "act14d0d1": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Limited-time Cumulative Sign-in",
+      "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
@@ -13632,7 +13800,7 @@
   "act14d0d2": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Sign-in Campaign",
+      "en_US": "Sign-In Campaign",
       "ja_JP": "ログイン報酬",
       "zh_CN": "登录领取奖励"
     }
@@ -13648,7 +13816,7 @@
   "act14login": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Sign-in Campaign",
+      "en_US": "Sign-In Campaign",
       "ja_JP": "ログイン報酬",
       "zh_CN": "登录领取奖励"
     }
@@ -13704,6 +13872,8 @@
   "act15login": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Sign-In Campaign",
+      "ja_JP": "ログイン報酬",
       "zh_CN": "登录领取奖励"
     }
   },
@@ -13740,7 +13910,7 @@
   "act16d5d1": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Sign-in Campaign",
+      "en_US": "Sign-In Campaign",
       "ja_JP": "ログイン報酬",
       "zh_CN": "登录领取奖励"
     }
@@ -13756,7 +13926,7 @@
   "act16d6": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Limited-time Cumulative Sign-in",
+      "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
@@ -13794,7 +13964,7 @@
   "act17d0d1": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Limited-time Cumulative Sign-in",
+      "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
@@ -13802,7 +13972,7 @@
   "act17d0d2": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Sign-in Campaign",
+      "en_US": "Sign-In Campaign",
       "ja_JP": "ログイン報酬",
       "zh_CN": "登录领取奖励"
     }
@@ -13870,7 +14040,7 @@
   "act18d3d1": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Sign-in Campaign",
+      "en_US": "Sign-In Campaign",
       "ja_JP": "ログイン報酬",
       "zh_CN": "登录领取奖励"
     }
@@ -13886,7 +14056,7 @@
   "act18d3d3": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Limited-time Cumulative Sign-in",
+      "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
@@ -13908,7 +14078,7 @@
   "act18sign": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Limited-time Cumulative Sign-in",
+      "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
@@ -13930,7 +14100,7 @@
   "act19sign": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Limited-time Cumulative Sign-in",
+      "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
@@ -13952,13 +14122,15 @@
   "act1checkin": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Preludes to the Future Sign-in Event",
+      "ja_JP": "大感謝祭スタンプ",
       "zh_CN": "未来序曲签到活动"
     }
   },
   "act1d5": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Limited-time Cumulative Sign-in",
+      "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
@@ -14038,7 +14210,7 @@
   "act20sign": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Limited-time Cumulative Sign-in",
+      "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
@@ -14060,7 +14232,7 @@
   "act21sign": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Limited-time Cumulative Sign-in",
+      "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
@@ -14082,7 +14254,7 @@
   "act22sign": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Limited-time Cumulative Sign-in",
+      "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
@@ -14098,7 +14270,7 @@
   "act23sign": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Limited-time Cumulative Sign-in",
+      "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
@@ -14114,7 +14286,7 @@
   "act24sign": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Limited-time Cumulative Sign-in",
+      "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
@@ -14122,13 +14294,15 @@
   "act25side": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Lone Trail",
+      "ja_JP": "孤星",
       "zh_CN": "孤星"
     }
   },
   "act25sign": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Limited-time Cumulative Sign-in",
+      "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
@@ -14142,7 +14316,7 @@
   "act26sign": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Limited-time Cumulative Sign-in",
+      "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
@@ -14156,7 +14330,7 @@
   "act27sign": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Limited-time Cumulative Sign-in",
+      "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
@@ -14170,7 +14344,7 @@
   "act28sign": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Limited-time Cumulative Sign-in",
+      "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
@@ -14200,7 +14374,7 @@
   "act2d5": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Limited-time Cumulative Sign-in",
+      "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
@@ -14208,7 +14382,7 @@
   "act2d8": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Limited-time Cumulative Sign-in",
+      "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
@@ -14260,7 +14434,7 @@
   "act32sign": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Limited-time Cumulative Sign-in",
+      "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
@@ -14268,7 +14442,7 @@
   "act33sign": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Limited-time Cumulative Sign-in",
+      "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
@@ -14322,7 +14496,7 @@
   "act3d7": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Limited-time Cumulative Sign-in",
+      "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
@@ -14368,7 +14542,7 @@
   "act4d2": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Limited-time Cumulative Sign-in",
+      "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
@@ -14388,6 +14562,8 @@
   "act4mine": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Pony Valley Mining Area Login Event",
+      "ja_JP": "ポニーバレー採鉱区",
       "zh_CN": "潘尼谷矿区登录活动"
     }
   },
@@ -14434,7 +14610,7 @@
   "act6d0": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Limited-time Cumulative Sign-in",
+      "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
@@ -14450,7 +14626,7 @@
   "act6d7": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Limited-time Cumulative Sign-in",
+      "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
@@ -14466,7 +14642,7 @@
   "act6login": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Sign-in Campaign",
+      "en_US": "Sign-In Campaign",
       "ja_JP": "ログイン報酬",
       "zh_CN": "登录领取奖励"
     }
@@ -14488,7 +14664,7 @@
   "act7d1": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Limited-time Cumulative Sign-in",
+      "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
@@ -14504,7 +14680,7 @@
   "act7login": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Sign-in Campaign",
+      "en_US": "Sign-In Campaign",
       "ja_JP": "ログイン報酬",
       "zh_CN": "登录领取奖励"
     }
@@ -14534,7 +14710,7 @@
   "act8login": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Sign-in Campaign",
+      "en_US": "Sign-In Campaign",
       "ja_JP": "ログイン報酬",
       "zh_CN": "登录领取奖励"
     }
@@ -14566,7 +14742,7 @@
   "act9d1d1": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Limited-time Cumulative Sign-in",
+      "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
@@ -14574,7 +14750,7 @@
   "act9d1d2": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Sign-in Campaign",
+      "en_US": "Sign-In Campaign",
       "ja_JP": "ログイン報酬",
       "zh_CN": "登录领取奖励"
     }
@@ -14590,7 +14766,7 @@
   "act9login": {
     "type": "ACTIVITY",
     "names": {
-      "en_US": "Sign-in Campaign",
+      "en_US": "Sign-In Campaign",
       "ja_JP": "ログイン報酬",
       "zh_CN": "登录领取奖励"
     }
@@ -16020,6 +16196,8 @@
   "LIMITED_TKT_GACHA_10_3801": {
     "type": "ITEM",
     "names": {
+      "en_US": "Preludes to the Future Headhunting Permit",
+      "ja_JP": "感謝祭記念10回スカウト券",
       "zh_CN": "未来序曲寻访凭证"
     }
   },
@@ -16150,6 +16328,8 @@
   "LMTGS_COIN_3801": {
     "type": "ITEM",
     "names": {
+      "en_US": "Headhunting Data Contract",
+      "ja_JP": "限定契約証",
       "zh_CN": "寻访数据契约"
     }
   },
@@ -16184,6 +16364,8 @@
   "Logistics_Special_Permit": {
     "type": "ITEM",
     "names": {
+      "en_US": "Logistics Special Permit",
+      "ja_JP": "特別支援申請許可証",
       "zh_CN": "后勤特别许可证"
     }
   },
@@ -16816,18 +16998,24 @@
   "act25side_token_fdrchips": {
     "type": "ITEM",
     "names": {
+      "en_US": "Flight Data Recorder Chip",
+      "ja_JP": "飛行データチップ",
       "zh_CN": "飞行数据记录芯片"
     }
   },
   "act25side_token_key01": {
     "type": "ITEM",
     "names": {
+      "en_US": "Special Ops Permit α",
+      "ja_JP": "特殊作戦許可α",
       "zh_CN": "特殊作战许可·α"
     }
   },
   "act25side_token_key02": {
     "type": "ITEM",
     "names": {
+      "en_US": "Special Ops Permit β",
+      "ja_JP": "特殊作戦許可β",
       "zh_CN": "特殊作战许可·β"
     }
   },
@@ -17390,714 +17578,1008 @@
   "class_p_char_010_chen": {
     "type": "ITEM",
     "names": {
+      "en_US": "Ch'en's Kernel Token",
+      "ja_JP": "チェンの印（中堅）",
       "zh_CN": "陈的中坚信物"
     }
   },
   "class_p_char_017_huang": {
     "type": "ITEM",
     "names": {
+      "en_US": "Blaze's Kernel Token",
+      "ja_JP": "ブレイズの印（中堅）",
       "zh_CN": "煌的中坚信物"
     }
   },
   "class_p_char_101_sora": {
     "type": "ITEM",
     "names": {
+      "en_US": "Sora's Kernel Token",
+      "ja_JP": "ソラの印（中堅）",
       "zh_CN": "空的中坚信物"
     }
   },
   "class_p_char_102_texas": {
     "type": "ITEM",
     "names": {
+      "en_US": "Texas's Kernel Token",
+      "ja_JP": "テキサスの印（中堅）",
       "zh_CN": "德克萨斯的中坚信物"
     }
   },
   "class_p_char_103_angel": {
     "type": "ITEM",
     "names": {
+      "en_US": "Exusiai's Kernel Token",
+      "ja_JP": "エクシアの印（中堅）",
       "zh_CN": "能天使的中坚信物"
     }
   },
   "class_p_char_106_franka": {
     "type": "ITEM",
     "names": {
+      "en_US": "Franka's Kernel Token",
+      "ja_JP": "フランカの印（中堅）",
       "zh_CN": "芙兰卡的中坚信物"
     }
   },
   "class_p_char_107_liskam": {
     "type": "ITEM",
     "names": {
+      "en_US": "Liskarm's Kernel Token",
+      "ja_JP": "リスカムの印（中堅）",
       "zh_CN": "雷蛇的中坚信物"
     }
   },
   "class_p_char_108_silent": {
     "type": "ITEM",
     "names": {
+      "en_US": "Silence's Kernel Token",
+      "ja_JP": "サイレンスの印（中堅）",
       "zh_CN": "赫默的中坚信物"
     }
   },
   "class_p_char_109_fmout": {
     "type": "ITEM",
     "names": {
+      "en_US": "Gitano's Kernel Token",
+      "ja_JP": "ギターノの印（中堅）",
       "zh_CN": "远山的中坚信物"
     }
   },
   "class_p_char_110_deepcl": {
     "type": "ITEM",
     "names": {
+      "en_US": "Deepcolor's Kernel Token",
+      "ja_JP": "ディピカの印（中堅）",
       "zh_CN": "深海色的中坚信物"
     }
   },
   "class_p_char_112_siege": {
     "type": "ITEM",
     "names": {
+      "en_US": "Siege's Kernel Token",
+      "ja_JP": "シージの印（中堅）",
       "zh_CN": "推进之王的中坚信物"
     }
   },
   "class_p_char_115_headbr": {
     "type": "ITEM",
     "names": {
+      "en_US": "Zima's Kernel Token",
+      "ja_JP": "ズィマーの印（中堅）",
       "zh_CN": "凛冬的中坚信物"
     }
   },
   "class_p_char_117_myrrh": {
     "type": "ITEM",
     "names": {
+      "en_US": "Myrrh's Kernel Token",
+      "ja_JP": "ミルラの印（中堅）",
       "zh_CN": "末药的中坚信物"
     }
   },
   "class_p_char_118_yuki": {
     "type": "ITEM",
     "names": {
+      "en_US": "Shirayuki's Kernel Token",
+      "ja_JP": "シラユキの印（中堅）",
       "zh_CN": "白雪的中坚信物"
     }
   },
   "class_p_char_120_hibisc": {
     "type": "ITEM",
     "names": {
+      "en_US": "Hibiscus's Kernel Token",
+      "ja_JP": "ハイビスカスの印（中堅）",
       "zh_CN": "芙蓉的中坚信物"
     }
   },
   "class_p_char_121_lava": {
     "type": "ITEM",
     "names": {
+      "en_US": "Lava's Kernel Token",
+      "ja_JP": "ラヴァの印（中堅）",
       "zh_CN": "炎熔的中坚信物"
     }
   },
   "class_p_char_122_beagle": {
     "type": "ITEM",
     "names": {
+      "en_US": "Beagle's Kernel Token",
+      "ja_JP": "ビーグルの印（中堅）",
       "zh_CN": "米格鲁的中坚信物"
     }
   },
   "class_p_char_123_fang": {
     "type": "ITEM",
     "names": {
+      "en_US": "Fang's Kernel Token",
+      "ja_JP": "フェンの印（中堅）",
       "zh_CN": "芬的中坚信物"
     }
   },
   "class_p_char_124_kroos": {
     "type": "ITEM",
     "names": {
+      "en_US": "Kroos's Kernel Token",
+      "ja_JP": "クルースの印（中堅）",
       "zh_CN": "克洛丝的中坚信物"
     }
   },
   "class_p_char_126_shotst": {
     "type": "ITEM",
     "names": {
+      "en_US": "Meteor's Kernel Token",
+      "ja_JP": "メテオの印（中堅）",
       "zh_CN": "流星的中坚信物"
     }
   },
   "class_p_char_128_plosis": {
     "type": "ITEM",
     "names": {
+      "en_US": "Ptilopsis's Kernel Token",
+      "ja_JP": "フィリオプシスの印（中堅）",
       "zh_CN": "白面鸮的中坚信物"
     }
   },
   "class_p_char_129_bluep": {
     "type": "ITEM",
     "names": {
+      "en_US": "Blue Poison's Kernel Token",
+      "ja_JP": "アズリウスの印（中堅）",
       "zh_CN": "蓝毒的中坚信物"
     }
   },
   "class_p_char_130_doberm": {
     "type": "ITEM",
     "names": {
+      "en_US": "Dobermann's Kernel Token",
+      "ja_JP": "ドーベルマンの印（中堅）",
       "zh_CN": "杜宾的中坚信物"
     }
   },
   "class_p_char_133_mm": {
     "type": "ITEM",
     "names": {
+      "en_US": "May's Kernel Token",
+      "ja_JP": "メイの印（中堅）",
       "zh_CN": "梅的中坚信物"
     }
   },
   "class_p_char_134_ifrit": {
     "type": "ITEM",
     "names": {
+      "en_US": "Ifrit's Kernel Token",
+      "ja_JP": "イフリータの印（中堅）",
       "zh_CN": "伊芙利特的中坚信物"
     }
   },
   "class_p_char_136_hsguma": {
     "type": "ITEM",
     "names": {
+      "en_US": "Hoshiguma's Kernel Token",
+      "ja_JP": "ホシグマの印（中堅）",
       "zh_CN": "星熊的中坚信物"
     }
   },
   "class_p_char_137_brownb": {
     "type": "ITEM",
     "names": {
+      "en_US": "Beehunter's Kernel Token",
+      "ja_JP": "ビーハンターの印（中堅）",
       "zh_CN": "猎蜂的中坚信物"
     }
   },
   "class_p_char_140_whitew": {
     "type": "ITEM",
     "names": {
+      "en_US": "Lappland's Kernel Token",
+      "ja_JP": "ラップランドの印（中堅）",
       "zh_CN": "拉普兰德的中坚信物"
     }
   },
   "class_p_char_141_nights": {
     "type": "ITEM",
     "names": {
+      "en_US": "Haze's Kernel Token",
+      "ja_JP": "ヘイズの印（中堅）",
       "zh_CN": "夜烟的中坚信物"
     }
   },
   "class_p_char_143_ghost": {
     "type": "ITEM",
     "names": {
+      "en_US": "Specter's Kernel Token",
+      "ja_JP": "スペクターの印（中堅）",
       "zh_CN": "幽灵鲨的中坚信物"
     }
   },
   "class_p_char_144_red": {
     "type": "ITEM",
     "names": {
+      "en_US": "Projekt Red's Kernel Token",
+      "ja_JP": "レッドの印（中堅）",
       "zh_CN": "红的中坚信物"
     }
   },
   "class_p_char_145_prove": {
     "type": "ITEM",
     "names": {
+      "en_US": "Provence's Kernel Token",
+      "ja_JP": "プロヴァンスの印（中堅）",
       "zh_CN": "普罗旺斯的中坚信物"
     }
   },
   "class_p_char_147_shining": {
     "type": "ITEM",
     "names": {
+      "en_US": "Shining's Kernel Token",
+      "ja_JP": "シャイニングの印（中堅）",
       "zh_CN": "闪灵的中坚信物"
     }
   },
   "class_p_char_148_nearl": {
     "type": "ITEM",
     "names": {
+      "en_US": "Nearl's Kernel Token",
+      "ja_JP": "ニアールの印（中堅）",
       "zh_CN": "临光的中坚信物"
     }
   },
   "class_p_char_149_scave": {
     "type": "ITEM",
     "names": {
+      "en_US": "Scavenger's Kernel Token",
+      "ja_JP": "スカベンジャーの印（中堅）",
       "zh_CN": "清道夫的中坚信物"
     }
   },
   "class_p_char_150_snakek": {
     "type": "ITEM",
     "names": {
+      "en_US": "Cuora's Kernel Token",
+      "ja_JP": "クオーラの印（中堅）",
       "zh_CN": "蛇屠箱的中坚信物"
     }
   },
   "class_p_char_151_myrtle": {
     "type": "ITEM",
     "names": {
+      "en_US": "Myrtle's Kernel Token",
+      "ja_JP": "テンニンカの印（中堅）",
       "zh_CN": "桃金娘的中坚信物"
     }
   },
   "class_p_char_158_milu": {
     "type": "ITEM",
     "names": {
+      "en_US": "Firewatch's Kernel Token",
+      "ja_JP": "ファイヤーウォッチの印（中堅）",
       "zh_CN": "守林人的中坚信物"
     }
   },
   "class_p_char_164_nightm": {
     "type": "ITEM",
     "names": {
+      "en_US": "Nightmare's Kernel Token",
+      "ja_JP": "ナイトメアの印（中堅）",
       "zh_CN": "夜魔的中坚信物"
     }
   },
   "class_p_char_166_skfire": {
     "type": "ITEM",
     "names": {
+      "en_US": "Skyfire's Kernel Token",
+      "ja_JP": "スカイフレアの印（中堅）",
       "zh_CN": "天火的中坚信物"
     }
   },
   "class_p_char_171_bldsk": {
     "type": "ITEM",
     "names": {
+      "en_US": "Warfarin's Kernel Token",
+      "ja_JP": "ワルファリンの印（中堅）",
       "zh_CN": "华法琳的中坚信物"
     }
   },
   "class_p_char_172_svrash": {
     "type": "ITEM",
     "names": {
+      "en_US": "SilverAsh's Kernel Token",
+      "ja_JP": "シルバーアッシュの印（中堅）",
       "zh_CN": "银灰的中坚信物"
     }
   },
   "class_p_char_173_slchan": {
     "type": "ITEM",
     "names": {
+      "en_US": "Cliffheart's Kernel Token",
+      "ja_JP": "クリフハートの印（中堅）",
       "zh_CN": "崖心的中坚信物"
     }
   },
   "class_p_char_174_slbell": {
     "type": "ITEM",
     "names": {
+      "en_US": "Pramanix's Kernel Token",
+      "ja_JP": "プラマニクスの印（中堅）",
       "zh_CN": "初雪的中坚信物"
     }
   },
   "class_p_char_179_cgbird": {
     "type": "ITEM",
     "names": {
+      "en_US": "Nightingale's Kernel Token",
+      "ja_JP": "ナイチンゲールの印（中堅）",
       "zh_CN": "夜莺的中坚信物"
     }
   },
   "class_p_char_180_amgoat": {
     "type": "ITEM",
     "names": {
+      "en_US": "Eyjafjalla's Kernel Token",
+      "ja_JP": "エイヤフィヤトラの印（中堅）",
       "zh_CN": "艾雅法拉的中坚信物"
     }
   },
   "class_p_char_181_flower": {
     "type": "ITEM",
     "names": {
+      "en_US": "Perfumer's Kernel Token",
+      "ja_JP": "パフューマーの印（中堅）",
       "zh_CN": "调香师的中坚信物"
     }
   },
   "class_p_char_183_skgoat": {
     "type": "ITEM",
     "names": {
+      "en_US": "Earthspirit's Kernel Token",
+      "ja_JP": "アーススピリットの印（中堅）",
       "zh_CN": "地灵的中坚信物"
     }
   },
   "class_p_char_185_frncat": {
     "type": "ITEM",
     "names": {
+      "en_US": "Mousse's Kernel Token",
+      "ja_JP": "ムースの印（中堅）",
       "zh_CN": "慕斯的中坚信物"
     }
   },
   "class_p_char_188_helage": {
     "type": "ITEM",
     "names": {
+      "en_US": "Hellagur's Kernel Token",
+      "ja_JP": "ヘラグの印（中堅）",
       "zh_CN": "赫拉格的中坚信物"
     }
   },
   "class_p_char_190_clour": {
     "type": "ITEM",
     "names": {
+      "en_US": "Vermeil's Kernel Token",
+      "ja_JP": "ヴァーミルの印（中堅）",
       "zh_CN": "红云的中坚信物"
     }
   },
   "class_p_char_192_falco": {
     "type": "ITEM",
     "names": {
+      "en_US": "Plume's Kernel Token",
+      "ja_JP": "プリュムの印（中堅）",
       "zh_CN": "翎羽的中坚信物"
     }
   },
   "class_p_char_193_frostl": {
     "type": "ITEM",
     "names": {
+      "en_US": "Frostleaf's Kernel Token",
+      "ja_JP": "フロストリーフの印（中堅）",
       "zh_CN": "霜叶的中坚信物"
     }
   },
   "class_p_char_195_glassb": {
     "type": "ITEM",
     "names": {
+      "en_US": "Istina's Kernel Token",
+      "ja_JP": "イースチナの印（中堅）",
       "zh_CN": "真理的中坚信物"
     }
   },
   "class_p_char_196_sunbr": {
     "type": "ITEM",
     "names": {
+      "en_US": "Gummy's Kernel Token",
+      "ja_JP": "グムの印（中堅）",
       "zh_CN": "古米的中坚信物"
+    }
+  },
+  "class_p_char_197_poca": {
+    "type": "ITEM",
+    "names": {
+      "en_US": "Rosa's Kernel Token",
+      "ja_JP": "ロサの印（中堅）"
     }
   },
   "class_p_char_199_yak": {
     "type": "ITEM",
     "names": {
+      "en_US": "Matterhorn's Kernel Token",
+      "ja_JP": "マッターホルンの印（中堅）",
       "zh_CN": "角峰的中坚信物"
     }
   },
   "class_p_char_2013_cerber": {
     "type": "ITEM",
     "names": {
+      "en_US": "Ceobe's Kernel Token",
+      "ja_JP": "ケオベの印（中堅）",
       "zh_CN": "刻俄柏的中坚信物"
     }
   },
   "class_p_char_201_moeshd": {
     "type": "ITEM",
     "names": {
+      "en_US": "Croissant's Kernel Token",
+      "ja_JP": "クロワッサンの印（中堅）",
       "zh_CN": "可颂的中坚信物"
     }
   },
   "class_p_char_202_demkni": {
     "type": "ITEM",
     "names": {
+      "en_US": "Saria's Kernel Token",
+      "ja_JP": "サリアの印（中堅）",
       "zh_CN": "塞雷娅的中坚信物"
     }
   },
   "class_p_char_204_platnm": {
     "type": "ITEM",
     "names": {
+      "en_US": "Platinum's Kernel Token",
+      "ja_JP": "プラチナの印（中堅）",
       "zh_CN": "白金的中坚信物"
     }
   },
   "class_p_char_208_melan": {
     "type": "ITEM",
     "names": {
+      "en_US": "Melantha's Kernel Token",
+      "ja_JP": "メランサの印（中堅）",
       "zh_CN": "玫兰莎的中坚信物"
     }
   },
   "class_p_char_209_ardign": {
     "type": "ITEM",
     "names": {
+      "en_US": "Cardigan's Kernel Token",
+      "ja_JP": "カーディの印（中堅）",
       "zh_CN": "卡缇的中坚信物"
     }
   },
   "class_p_char_210_stward": {
     "type": "ITEM",
     "names": {
+      "en_US": "Steward's Kernel Token",
+      "ja_JP": "スチュワードの印（中堅）",
       "zh_CN": "史都华德的中坚信物"
     }
   },
   "class_p_char_212_ansel": {
     "type": "ITEM",
     "names": {
+      "en_US": "Ansel's Kernel Token",
+      "ja_JP": "アンセルの印（中堅）",
       "zh_CN": "安赛尔的中坚信物"
     }
   },
   "class_p_char_213_mostma": {
     "type": "ITEM",
     "names": {
+      "en_US": "Mostima's Kernel Token",
+      "ja_JP": "モスティマの印（中堅）",
       "zh_CN": "莫斯提马的中坚信物"
     }
   },
   "class_p_char_215_mantic": {
     "type": "ITEM",
     "names": {
+      "en_US": "Manticore's Kernel Token",
+      "ja_JP": "マンティコアの印（中堅）",
       "zh_CN": "狮蝎的中坚信物"
     }
   },
   "class_p_char_219_meteo": {
     "type": "ITEM",
     "names": {
+      "en_US": "Meteorite's Kernel Token",
+      "ja_JP": "メテオリーテの印（中堅）",
       "zh_CN": "陨星的中坚信物"
     }
   },
   "class_p_char_222_bpipe": {
     "type": "ITEM",
     "names": {
+      "en_US": "Bagpipe's Kernel Token",
+      "ja_JP": "バグパイプの印（中堅）",
       "zh_CN": "风笛的中坚信物"
     }
   },
   "class_p_char_225_haak": {
     "type": "ITEM",
     "names": {
+      "en_US": "Aak's Kernel Token",
+      "ja_JP": "アの印（中堅）",
       "zh_CN": "阿的中坚信物"
     }
   },
   "class_p_char_226_hmau": {
     "type": "ITEM",
     "names": {
+      "en_US": "Hung's Kernel Token",
+      "ja_JP": "ウンの印（中堅）",
       "zh_CN": "吽的中坚信物"
     }
   },
   "class_p_char_235_jesica": {
     "type": "ITEM",
     "names": {
+      "en_US": "Jessica's Kernel Token",
+      "ja_JP": "ジェシカの印（中堅）",
       "zh_CN": "杰西卡的中坚信物"
     }
   },
   "class_p_char_236_rope": {
     "type": "ITEM",
     "names": {
+      "en_US": "Rope's Kernel Token",
+      "ja_JP": "ロープの印（中堅）",
       "zh_CN": "暗索的中坚信物"
     }
   },
   "class_p_char_237_gravel": {
     "type": "ITEM",
     "names": {
+      "en_US": "Gravel's Kernel Token",
+      "ja_JP": "グラベルの印（中堅）",
       "zh_CN": "砾的中坚信物"
     }
   },
   "class_p_char_240_wyvern": {
     "type": "ITEM",
     "names": {
+      "en_US": "Vanilla's Kernel Token",
+      "ja_JP": "バニラの印（中堅）",
       "zh_CN": "香草的中坚信物"
     }
   },
   "class_p_char_241_panda": {
     "type": "ITEM",
     "names": {
+      "en_US": "FEater's Kernel Token",
+      "ja_JP": "エフイーターの印（中堅）",
       "zh_CN": "食铁兽的中坚信物"
     }
   },
   "class_p_char_242_otter": {
     "type": "ITEM",
     "names": {
+      "en_US": "Mayer's Kernel Token",
+      "ja_JP": "メイヤーの印（中堅）",
       "zh_CN": "梅尔的中坚信物"
     }
   },
   "class_p_char_243_waaifu": {
     "type": "ITEM",
     "names": {
+      "en_US": "Waai Fu's Kernel Token",
+      "ja_JP": "ワイフーの印（中堅）",
       "zh_CN": "槐琥的中坚信物"
     }
   },
   "class_p_char_248_mgllan": {
     "type": "ITEM",
     "names": {
+      "en_US": "Magallan's Kernel Token",
+      "ja_JP": "マゼランの印（中堅）",
       "zh_CN": "麦哲伦的中坚信物"
     }
   },
   "class_p_char_250_phatom": {
     "type": "ITEM",
     "names": {
+      "en_US": "Phantom's Kernel Token",
+      "ja_JP": "ファントムの印（中堅）",
       "zh_CN": "傀影的中坚信物"
     }
   },
   "class_p_char_253_greyy": {
     "type": "ITEM",
     "names": {
+      "en_US": "Greyy's Kernel Token",
+      "ja_JP": "グレイの印（中堅）",
       "zh_CN": "格雷伊的中坚信物"
     }
   },
   "class_p_char_254_vodfox": {
     "type": "ITEM",
     "names": {
+      "en_US": "Shamare's Kernel Token",
+      "ja_JP": "シャマレの印（中堅）",
       "zh_CN": "巫恋的中坚信物"
     }
   },
   "class_p_char_258_podego": {
     "type": "ITEM",
     "names": {
+      "en_US": "Podenco's Kernel Token",
+      "ja_JP": "ポデンコの印（中堅）",
       "zh_CN": "波登可的中坚信物"
     }
   },
   "class_p_char_261_sddrag": {
     "type": "ITEM",
     "names": {
+      "en_US": "Reed's Kernel Token",
+      "ja_JP": "リードの印（中堅）",
       "zh_CN": "苇草的中坚信物"
     }
   },
   "class_p_char_263_skadi": {
     "type": "ITEM",
     "names": {
+      "en_US": "Skadi's Kernel Token",
+      "ja_JP": "スカジの印（中堅）",
       "zh_CN": "斯卡蒂的中坚信物"
     }
   },
   "class_p_char_271_spikes": {
     "type": "ITEM",
     "names": {
+      "en_US": "Arene's Kernel Token",
+      "ja_JP": "アレーンの印（中堅）",
       "zh_CN": "芳汀的中坚信物"
     }
   },
   "class_p_char_272_strong": {
     "type": "ITEM",
     "names": {
+      "en_US": "Jaye's Kernel Token",
+      "ja_JP": "ジェイの印（中堅）",
       "zh_CN": "孑的中坚信物"
     }
   },
   "class_p_char_274_astesi": {
     "type": "ITEM",
     "names": {
+      "en_US": "Astesia's Kernel Token",
+      "ja_JP": "アステシアの印（中堅）",
       "zh_CN": "星极的中坚信物"
     }
   },
   "class_p_char_277_sqrrel": {
     "type": "ITEM",
     "names": {
+      "en_US": "Shaw's Kernel Token",
+      "ja_JP": "ショウの印（中堅）",
       "zh_CN": "阿消的中坚信物"
     }
   },
   "class_p_char_278_orchid": {
     "type": "ITEM",
     "names": {
+      "en_US": "Orchid's Kernel Token",
+      "ja_JP": "オーキッドの印（中堅）",
       "zh_CN": "梓兰的中坚信物"
     }
   },
   "class_p_char_279_excu": {
     "type": "ITEM",
     "names": {
+      "en_US": "Executor's Kernel Token",
+      "ja_JP": "イグゼキュターの印（中堅）",
       "zh_CN": "送葬人的中坚信物"
     }
   },
   "class_p_char_281_popka": {
     "type": "ITEM",
     "names": {
+      "en_US": "Popukar's Kernel Token",
+      "ja_JP": "ポプカルの印（中堅）",
       "zh_CN": "泡普卡的中坚信物"
     }
   },
   "class_p_char_282_catap": {
     "type": "ITEM",
     "names": {
+      "en_US": "Catapult's Kernel Token",
+      "ja_JP": "カタパルトの印（中堅）",
       "zh_CN": "空爆的中坚信物"
     }
   },
   "class_p_char_283_midn": {
     "type": "ITEM",
     "names": {
+      "en_US": "Midnight's Kernel Token",
+      "ja_JP": "ミッドナイトの印（中堅）",
       "zh_CN": "月见夜的中坚信物"
     }
   },
   "class_p_char_284_spot": {
     "type": "ITEM",
     "names": {
+      "en_US": "Spot's Kernel Token",
+      "ja_JP": "スポットの印（中堅）",
       "zh_CN": "斑点的中坚信物"
     }
   },
   "class_p_char_289_gyuki": {
     "type": "ITEM",
     "names": {
+      "en_US": "Matoimaru's Kernel Token",
+      "ja_JP": "マトイマルの印（中堅）",
       "zh_CN": "缠丸的中坚信物"
     }
   },
   "class_p_char_290_vigna": {
     "type": "ITEM",
     "names": {
+      "en_US": "Vigna's Kernel Token",
+      "ja_JP": "ヴィグナの印（中堅）",
       "zh_CN": "红豆的中坚信物"
     }
   },
   "class_p_char_291_aglina": {
     "type": "ITEM",
     "names": {
+      "en_US": "Angelina's Kernel Token",
+      "ja_JP": "アンジェリーナの印（中堅）",
       "zh_CN": "安洁莉娜的中坚信物"
+    }
+  },
+  "class_p_char_294_ayer": {
+    "type": "ITEM",
+    "names": {
+      "en_US": "Ayerscarpe's Kernel Token",
+      "ja_JP": "エアースカーペの印（中堅）"
     }
   },
   "class_p_char_298_susuro": {
     "type": "ITEM",
     "names": {
+      "en_US": "Sussurro's Kernel Token",
+      "ja_JP": "ススーロの印（中堅）",
       "zh_CN": "苏苏洛的中坚信物"
     }
   },
   "class_p_char_301_cutter": {
     "type": "ITEM",
     "names": {
+      "en_US": "Cutter's Kernel Token",
+      "ja_JP": "カッターの印（中堅）",
       "zh_CN": "刻刀的中坚信物"
     }
   },
   "class_p_char_302_glaze": {
     "type": "ITEM",
     "names": {
+      "en_US": "Ambriel's Kernel Token",
+      "ja_JP": "アンブリエルの印（中堅）",
       "zh_CN": "安比尔的中坚信物"
     }
   },
   "class_p_char_306_leizi": {
     "type": "ITEM",
     "names": {
+      "en_US": "Leizi's Kernel Token",
+      "ja_JP": "レイズの印（中堅）",
       "zh_CN": "惊蛰的中坚信物"
     }
   },
   "class_p_char_308_swire": {
     "type": "ITEM",
     "names": {
+      "en_US": "Swire's Kernel Token",
+      "ja_JP": "スワイヤーの印（中堅）",
       "zh_CN": "诗怀雅的中坚信物"
     }
   },
   "class_p_char_326_glacus": {
     "type": "ITEM",
     "names": {
+      "en_US": "Glaucus's Kernel Token",
+      "ja_JP": "グラウコスの印（中堅）",
       "zh_CN": "格劳克斯的中坚信物"
     }
   },
   "class_p_char_328_cammou": {
     "type": "ITEM",
     "names": {
+      "en_US": "Click's Kernel Token",
+      "ja_JP": "カシャの印（中堅）",
       "zh_CN": "卡达的中坚信物"
     }
   },
   "class_p_char_337_utage": {
     "type": "ITEM",
     "names": {
+      "en_US": "Utage's Kernel Token",
+      "ja_JP": "ウタゲの印（中堅）",
       "zh_CN": "宴的中坚信物"
     }
   },
   "class_p_char_340_shwaz": {
     "type": "ITEM",
     "names": {
+      "en_US": "Schwarz's Kernel Token",
+      "ja_JP": "シュヴァルツの印（中堅）",
       "zh_CN": "黑的中坚信物"
+    }
+  },
+  "class_p_char_343_tknogi": {
+    "type": "ITEM",
+    "names": {
+      "en_US": "Tsukinogi's Kernel Token",
+      "ja_JP": "ツキノギの印（中堅）"
+    }
+  },
+  "class_p_char_344_beewax": {
+    "type": "ITEM",
+    "names": {
+      "en_US": "Beeswax's Kernel Token",
+      "ja_JP": "ビーズワクスの印（中堅）"
     }
   },
   "class_p_char_347_jaksel": {
     "type": "ITEM",
     "names": {
+      "en_US": "Jackie's Kernel Token",
+      "ja_JP": "ジャッキーの印（中堅）",
       "zh_CN": "杰克的中坚信物"
+    }
+  },
+  "class_p_char_349_chiave": {
+    "type": "ITEM",
+    "names": {
+      "en_US": "Chiave's Kernel Token",
+      "ja_JP": "キアーベの印（中堅）"
     }
   },
   "class_p_char_356_broca": {
     "type": "ITEM",
     "names": {
+      "en_US": "Broca's Kernel Token",
+      "ja_JP": "ブローカの印（中堅）",
       "zh_CN": "布洛卡的中坚信物"
+    }
+  },
+  "class_p_char_358_lisa": {
+    "type": "ITEM",
+    "names": {
+      "en_US": "Suzuran's Kernel Token",
+      "ja_JP": "スズランの印（中堅）"
     }
   },
   "class_p_char_366_acdrop": {
     "type": "ITEM",
     "names": {
+      "en_US": "Aciddrop's Kernel Token",
+      "ja_JP": "アシッドドロップの印（中堅）",
       "zh_CN": "酸糖的中坚信物"
     }
   },
   "class_p_char_367_swllow": {
     "type": "ITEM",
     "names": {
+      "en_US": "GreyThroat's Kernel Token",
+      "ja_JP": "グレースロートの印（中堅）",
       "zh_CN": "灰喉的中坚信物"
+    }
+  },
+  "class_p_char_373_lionhd": {
+    "type": "ITEM",
+    "names": {
+      "en_US": "Leonhardt's Kernel Token",
+      "ja_JP": "レオンハルトの印（中堅）"
+    }
+  },
+  "class_p_char_378_asbest": {
+    "type": "ITEM",
+    "names": {
+      "en_US": "Asbestos's Kernel Token",
+      "ja_JP": "アスベストスの印（中堅）"
     }
   },
   "class_p_char_379_sesa": {
     "type": "ITEM",
     "names": {
+      "en_US": "Sesa's Kernel Token",
+      "ja_JP": "シェーシャの印（中堅）",
       "zh_CN": "慑砂的中坚信物"
     }
   },
   "class_p_char_381_bubble": {
     "type": "ITEM",
     "names": {
+      "en_US": "Bubble's Kernel Token",
+      "ja_JP": "バブルの印（中堅）",
       "zh_CN": "泡泡的中坚信物"
     }
   },
   "class_p_char_4041_chnut": {
     "type": "ITEM",
     "names": {
+      "en_US": "Chestnut's Kernel Token",
+      "ja_JP": "チェストナットの印（中堅）",
       "zh_CN": "褐果的中坚信物"
     }
   },
   "class_p_char_4062_totter": {
     "type": "ITEM",
     "names": {
+      "en_US": "Totter's Kernel Token",
+      "ja_JP": "トターの印（中堅）",
       "zh_CN": "铅踝的中坚信物"
     }
   },
   "class_p_char_440_pinecn": {
     "type": "ITEM",
     "names": {
+      "en_US": "Pinecone's Kernel Token",
+      "ja_JP": "パインコーンの印（中堅）",
       "zh_CN": "松果的中坚信物"
     }
   },
   "class_p_char_452_bstalk": {
     "type": "ITEM",
     "names": {
+      "en_US": "Beanstalk's Kernel Token",
+      "ja_JP": "ビーンストークの印（中堅）",
       "zh_CN": "豆苗的中坚信物"
     }
   },
   "class_p_char_469_indigo": {
     "type": "ITEM",
     "names": {
+      "en_US": "Indigo's Kernel Token",
+      "ja_JP": "インディゴの印（中堅）",
       "zh_CN": "深靛的中坚信物"
     }
   },
   "class_p_char_484_robrta": {
     "type": "ITEM",
     "names": {
+      "en_US": "Roberta's Kernel Token",
+      "ja_JP": "ロベルタの印（中堅）",
       "zh_CN": "罗比菈塔的中坚信物"
     }
   },
   "class_p_char_491_humus": {
     "type": "ITEM",
     "names": {
+      "en_US": "Humus's Kernel Token",
+      "ja_JP": "ヒューマスの印（中堅）",
       "zh_CN": "休谟斯的中坚信物"
     }
   },
@@ -18140,18 +18622,24 @@
   "classic_gacha": {
     "type": "ITEM",
     "names": {
+      "en_US": "Kernel Headhunting Permit",
+      "ja_JP": "中堅スカウト券",
       "zh_CN": "中坚寻访凭证"
     }
   },
   "classic_gacha_10": {
     "type": "ITEM",
     "names": {
+      "en_US": "Ten-roll Kernel Headhunting Permit",
+      "ja_JP": "10回中堅スカウト券",
       "zh_CN": "十连中坚寻访凭证"
     }
   },
   "classic_normal_ticket": {
     "type": "ITEM",
     "names": {
+      "en_US": "Universal Certificates",
+      "ja_JP": "中堅資格証",
       "zh_CN": "通用凭证"
     }
   },
@@ -18742,6 +19230,8 @@
   "p_char_1031_slent2": {
     "type": "ITEM",
     "names": {
+      "en_US": "Silence the Paradigmatic's Token",
+      "ja_JP": "淬羽サイレンスの印",
       "zh_CN": "淬羽赫默的信物"
     }
   },
@@ -19062,6 +19552,8 @@
   "p_char_154_morgan": {
     "type": "ITEM",
     "names": {
+      "en_US": "Morgan's Token",
+      "ja_JP": "モーガンの印",
       "zh_CN": "摩根的信物"
     }
   },
@@ -19536,6 +20028,8 @@
   "p_char_249_mlyss": {
     "type": "ITEM",
     "names": {
+      "en_US": "Muelsyse's Token",
+      "ja_JP": "ミュルジスの印",
       "zh_CN": "缪尔赛思的信物"
     }
   },
@@ -20156,6 +20650,8 @@
   "p_char_4006_melnte": {
     "type": "ITEM",
     "names": {
+      "en_US": "Melanite's Token",
+      "ja_JP": "メラナイトの印",
       "zh_CN": "玫拉的信物"
     }
   },
@@ -20232,6 +20728,8 @@
   "p_char_4027_heyak": {
     "type": "ITEM",
     "names": {
+      "en_US": "Ho'olheyak's Token",
+      "ja_JP": "ホルハイヤの印",
       "zh_CN": "霍尔海雅的信物"
     }
   },
@@ -20454,6 +20952,8 @@
   "p_char_4087_ines": {
     "type": "ITEM",
     "names": {
+      "en_US": "Ines's Token",
+      "ja_JP": "イネスの印",
       "zh_CN": "伊内丝的信物"
     }
   },
@@ -20702,6 +21202,8 @@
   "p_char_464_cement": {
     "type": "ITEM",
     "names": {
+      "en_US": "Cement's Token",
+      "ja_JP": "セメントの印",
       "zh_CN": "洋灰的信物"
     }
   },
@@ -20818,6 +21320,8 @@
   "p_char_491_humus": {
     "type": "ITEM",
     "names": {
+      "en_US": "Humus's Token",
+      "ja_JP": "ヒューマスの印",
       "zh_CN": "休谟斯的信物"
     }
   },
@@ -21088,6 +21592,8 @@
   "randomMaterial_8": {
     "type": "ITEM",
     "names": {
+      "en_US": "Rhodes Island Supplies V",
+      "ja_JP": "補給物資・ロドスV",
       "zh_CN": "罗德岛物资补给V"
     }
   },
@@ -21106,6 +21612,8 @@
   "randomMaterial_rhine2": {
     "type": "ITEM",
     "names": {
+      "en_US": "Technological Investigation Supply",
+      "ja_JP": "技術調査補給",
       "zh_CN": "技术调查补给"
     }
   },
@@ -21158,6 +21666,8 @@
   "renamingCard_0_038": {
     "type": "ITEM",
     "names": {
+      "en_US": "ID Info Update Card",
+      "ja_JP": "ID情報更新カード",
       "zh_CN": "ID信息更新卡"
     }
   },
@@ -21202,6 +21712,8 @@
   "renamingCard_30_038": {
     "type": "ITEM",
     "names": {
+      "en_US": "ID Info Update Card",
+      "ja_JP": "ID情報更新カード",
       "zh_CN": "ID信息更新卡"
     }
   },
@@ -21772,6 +22284,8 @@
   "uni_set_icu": {
     "type": "ITEM",
     "names": {
+      "en_US": "A Walk in the Dust Furniture Pack",
+      "ja_JP": "遺塵の道を家具パック",
       "zh_CN": "遗尘漫步家具收藏包"
     }
   },
@@ -21895,7 +22409,7 @@
     "type": "ITEM",
     "names": {
       "en_US": "Automatic Chip Pack Etcher",
-      "ja_JP": "SoCセルフプリンター",
+      "ja_JP": "中級SoCセルフプリンター",
       "zh_CN": "自助芯片组印刻仪"
     }
   },
@@ -21910,6 +22424,8 @@
   "voucher_elite_II_6": {
     "type": "ITEM",
     "names": {
+      "en_US": "Advanced Senior Operator Training Invitation Letter",
+      "ja_JP": "★6特訓招待状",
       "zh_CN": "高级资深干员特训邀请函"
     }
   },
@@ -22052,6 +22568,8 @@
   "voucher_full_zebra": {
     "type": "ITEM",
     "names": {
+      "en_US": "Heavyrain's Personal Letter",
+      "ja_JP": "ヘビーレインの手紙",
       "zh_CN": "暴雨的私人信件"
     }
   },
@@ -22114,6 +22632,8 @@
   "voucher_item_pick3801": {
     "type": "ITEM",
     "names": {
+      "en_US": "Top Operator Transfer Permit",
+      "ja_JP": "感謝祭記念★6招聘指名券",
       "zh_CN": "周年庆典干员凭证"
     }
   },
@@ -22202,6 +22722,8 @@
   "voucher_recruitR5_pick3801": {
     "type": "ITEM",
     "names": {
+      "en_US": "Senior Operator Transfer Permit",
+      "ja_JP": "★5招聘指名券",
       "zh_CN": "资深干员调用凭证"
     }
   },
@@ -23031,6 +23553,13 @@
       "ja_JP": "万象伶丁"
     }
   },
+  "_LIMITED_24_0_3": {
+    "type": "POOL",
+    "names": {
+      "en_US": "Here I Stand",
+      "ja_JP": "真理の在処"
+    }
+  },
   "_LIMITED_4_3_1": {
     "type": "POOL",
     "names": {
@@ -23504,6 +24033,13 @@
     "names": {
       "en_US": "Illusions of the Past",
       "ja_JP": "在りし日の幻影"
+    }
+  },
+  "_SINGLE_24_0_1": {
+    "type": "POOL",
+    "names": {
+      "en_US": "As In My Adumbration",
+      "ja_JP": "影に潜みて"
     }
   },
   "skchr_absin_1": {
@@ -24295,12 +24831,16 @@
   "skchr_cement_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Stratum Groundbreaker",
+      "ja_JP": "鉱脈突破",
       "zh_CN": "突破矿层"
     }
   },
   "skchr_cement_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Structural Support",
+      "ja_JP": "構造強化",
       "zh_CN": "结构加固"
     }
   },
@@ -25391,18 +25931,24 @@
   "skchr_heyak_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "In Search of Reason",
+      "ja_JP": "探求せんがため",
       "zh_CN": "但为求索"
     }
   },
   "skchr_heyak_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Meandering Stars",
+      "ja_JP": "星々のうねり",
       "zh_CN": "群星逶迤"
     }
   },
   "skchr_heyak_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Well-Read Ravings",
+      "ja_JP": "博識者の妄言",
       "zh_CN": "博览者的狂语"
     }
   },
@@ -25547,12 +26093,16 @@
   "skchr_humus_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Solid Waste Cutting",
+      "ja_JP": "廃棄物処理",
       "zh_CN": "固废切割"
     }
   },
   "skchr_humus_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Efficient Processing",
+      "ja_JP": "高効率作業",
       "zh_CN": "高效处理"
     }
   },
@@ -25599,18 +26149,24 @@
   "skchr_ines_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Shadow Raid",
+      "ja_JP": "影纏う刃",
       "zh_CN": "淬影突袭"
     }
   },
   "skchr_ines_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Murky Night",
+      "ja_JP": "光亡き闇",
       "zh_CN": "暗夜无明"
     }
   },
   "skchr_ines_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Solitary Return",
+      "ja_JP": "孤影の帰路",
       "zh_CN": "独影归途"
     }
   },
@@ -26141,12 +26697,16 @@
   "skchr_melnte_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Saturated Pulse",
+      "ja_JP": "飽和パルス",
       "zh_CN": "饱和脉冲"
     }
   },
   "skchr_melnte_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Critical Burst",
+      "ja_JP": "リミテッドバースト",
       "zh_CN": "临界爆发"
     }
   },
@@ -26281,18 +26841,24 @@
   "skchr_mlyss_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Progressive Moisturization",
+      "ja_JP": "段階的湿潤化",
       "zh_CN": "渐进性润化"
     }
   },
   "skchr_mlyss_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Ecological Interaction",
+      "ja_JP": "生態系統結合",
       "zh_CN": "生态耦合"
     }
   },
   "skchr_mlyss_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Superficial Regulation",
+      "ja_JP": "ノンエントロピー適応",
       "zh_CN": "浅层非熵适应"
     }
   },
@@ -26331,12 +26897,16 @@
   "skchr_morgan_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Professional Street Fighter",
+      "ja_JP": "ストリートパンク",
       "zh_CN": "街头好手"
     }
   },
   "skchr_morgan_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Dauntless Resistance",
+      "ja_JP": "大胆不敵",
       "zh_CN": "无畏招架"
     }
   },
@@ -27287,18 +27857,24 @@
   "skchr_slent2_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Go-Getter",
+      "ja_JP": "止まらぬ歩み",
       "zh_CN": "进取之心"
     }
   },
   "skchr_slent2_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Overlooking Vision",
+      "ja_JP": "俯瞰する視点",
       "zh_CN": "俯瞰视界"
     }
   },
   "skchr_slent2_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Dreadnought Protocol",
+      "ja_JP": "先駆者たちの翼",
       "zh_CN": "无畏者协议"
     }
   },
@@ -28589,18 +29165,24 @@
   "sktok_cdaltar": {
     "type": "SKILL",
     "names": {
+      "en_US": "Energy Perturbation",
+      "ja_JP": "エネルギー妨害",
       "zh_CN": "能量扰动"
     }
   },
   "sktok_cdaltara": {
     "type": "SKILL",
     "names": {
+      "en_US": "Energy Perturbation",
+      "ja_JP": "エネルギー妨害",
       "zh_CN": "能量扰动"
     }
   },
   "sktok_cdaltarb": {
     "type": "SKILL",
     "names": {
+      "en_US": "Energy Perturbation",
+      "ja_JP": "エネルギー妨害",
       "zh_CN": "能量扰动"
     }
   },
@@ -28667,18 +29249,24 @@
   "sktok_cddiff": {
     "type": "SKILL",
     "names": {
+      "en_US": "Sort Tactical Equipment",
+      "ja_JP": "戦術装備整理",
       "zh_CN": "战术装备整理"
     }
   },
   "sktok_cddiffa": {
     "type": "SKILL",
     "names": {
+      "en_US": "Sort Tactical Equipment",
+      "ja_JP": "戦術装備整理",
       "zh_CN": "战术装备整理"
     }
   },
   "sktok_cddiffb": {
     "type": "SKILL",
     "names": {
+      "en_US": "Sort Tactical Equipment",
+      "ja_JP": "戦術装備整理",
       "zh_CN": "战术装备整理"
     }
   },
@@ -28693,18 +29281,24 @@
   "sktok_cdheal": {
     "type": "SKILL",
     "names": {
+      "en_US": "Portable First-aid Kit",
+      "ja_JP": "携帯式医療設備",
       "zh_CN": "便携式医疗设备"
     }
   },
   "sktok_cdheala": {
     "type": "SKILL",
     "names": {
+      "en_US": "Portable First-aid Kit",
+      "ja_JP": "携帯式医療設備",
       "zh_CN": "便携式医疗设备"
     }
   },
   "sktok_cdhealb": {
     "type": "SKILL",
     "names": {
+      "en_US": "Portable First-aid Kit",
+      "ja_JP": "携帯式医療設備",
       "zh_CN": "便携式医疗设备"
     }
   },
@@ -28785,6 +29379,8 @@
   "sktok_crsbow": {
     "type": "SKILL",
     "names": {
+      "en_US": "Debt Relief Program",
+      "ja_JP": "清算プログラム",
       "zh_CN": "清债程序"
     }
   },
@@ -29021,6 +29617,8 @@
   "sktok_gasctrl": {
     "type": "SKILL",
     "names": {
+      "en_US": "Poison Mist Control",
+      "ja_JP": "毒霧制御",
       "zh_CN": "毒雾控制"
     }
   },
@@ -29035,6 +29633,8 @@
   "sktok_gractrl": {
     "type": "SKILL",
     "names": {
+      "en_US": "Gravity Generation",
+      "ja_JP": "重力生成",
       "zh_CN": "重力生成"
     }
   },
@@ -29261,18 +29861,24 @@
   "sktok_mlyss_wtrman_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Flowing Shape",
+      "ja_JP": "うつろう水影",
       "zh_CN": "流形"
     }
   },
   "sktok_mlyss_wtrman_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Flowing Shape",
+      "ja_JP": "うつろう水影",
       "zh_CN": "流形"
     }
   },
   "sktok_mlyss_wtrman_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Flowing Shape",
+      "ja_JP": "うつろう水影",
       "zh_CN": "流形"
     }
   },
@@ -29691,6 +30297,8 @@
   "sktok_slent2_protrb": {
     "type": "SKILL",
     "names": {
+      "en_US": "Night Banisher",
+      "ja_JP": "夜の灯火",
       "zh_CN": "夜灯"
     }
   },
@@ -29717,6 +30325,8 @@
   "sktok_smkbmb": {
     "type": "SKILL",
     "names": {
+      "en_US": "Rupture",
+      "ja_JP": "爆裂",
       "zh_CN": "爆裂"
     }
   },
@@ -29749,6 +30359,8 @@
   "sktok_snflwr": {
     "type": "SKILL",
     "names": {
+      "en_US": "Full-Auto Debit",
+      "ja_JP": "全自動送金",
       "zh_CN": "全自动划账"
     }
   },
@@ -30021,6 +30633,8 @@
   "sktok_wdfarm": {
     "type": "SKILL",
     "names": {
+      "en_US": "Resupply",
+      "ja_JP": "補給",
       "zh_CN": "补给"
     }
   },
@@ -33655,150 +34269,200 @@
   "act25side_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Dense Fog",
+      "ja_JP": "深い霧",
       "zh_CN": "迷雾重重"
     }
   },
   "act25side_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Without a Trace",
+      "ja_JP": "追跡不能",
       "zh_CN": "无迹可寻"
     }
   },
   "act25side_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Front Stage, Back Stage",
+      "ja_JP": "表舞台と舞台裏",
       "zh_CN": "台前幕后"
     }
   },
   "act25side_04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Rising Waves",
+      "ja_JP": "荒波再び",
       "zh_CN": "一波又起"
     }
   },
   "act25side_05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Beyond the Veil",
+      "ja_JP": "開く活路",
       "zh_CN": "柳暗花明"
     }
   },
   "act25side_06": {
     "type": "STAGE",
     "names": {
+      "en_US": "Gathering of Heroes",
+      "ja_JP": "集う者たち",
       "zh_CN": "群英荟萃"
     }
   },
   "act25side_07": {
     "type": "STAGE",
     "names": {
+      "en_US": "Castle in the Sky",
+      "ja_JP": "空に浮かぶ城",
       "zh_CN": "空中楼阁"
     }
   },
   "act25side_08": {
     "type": "STAGE",
     "names": {
+      "en_US": "Between Past and Present",
+      "ja_JP": "交差する今昔",
       "zh_CN": "过去与现在的交会"
     }
   },
   "act25side_09": {
     "type": "STAGE",
     "names": {
+      "en_US": "Love and Hatred",
+      "ja_JP": "渦巻く恩讐",
       "zh_CN": "恩怨纠葛"
     }
   },
   "act25side_10": {
     "type": "STAGE",
     "names": {
+      "en_US": "Lost Amongst the Stars",
+      "ja_JP": "星間に散る",
       "zh_CN": "散于星辰之间"
     }
   },
   "act25side_s01_a": {
     "type": "STAGE",
     "names": {
+      "en_US": "Figure Skating α",
+      "ja_JP": "フィギュアスケートα",
       "zh_CN": "花式滑冰·α"
     }
   },
   "act25side_s01_b": {
     "type": "STAGE",
     "names": {
+      "en_US": "Figure Skating β",
+      "ja_JP": "フィギュアスケートβ",
       "zh_CN": "花式滑冰·β"
     }
   },
   "act25side_s02_a": {
     "type": "STAGE",
     "names": {
+      "en_US": "Trenches α",
+      "ja_JP": "塹壕α",
       "zh_CN": "战壕·α"
     }
   },
   "act25side_s02_b": {
     "type": "STAGE",
     "names": {
+      "en_US": "Trenches β",
+      "ja_JP": "塹壕β",
       "zh_CN": "战壕·β"
     }
   },
   "act25side_s03_a": {
     "type": "STAGE",
     "names": {
+      "en_US": "Rally α",
+      "ja_JP": "シーソーゲームα",
       "zh_CN": "拉力赛·α"
     }
   },
   "act25side_s03_b": {
     "type": "STAGE",
     "names": {
+      "en_US": "Rally β",
+      "ja_JP": "シーソーゲームβ",
       "zh_CN": "拉力赛·β"
     }
   },
   "act25side_s04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Supernova",
+      "ja_JP": "スーパーノヴァ",
       "zh_CN": "新星爆发"
     }
   },
   "act25side_sp01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Edge of the Cliff",
+      "ja_JP": "崖っぷち",
       "zh_CN": "悬崖边缘"
     }
   },
   "act25side_sp02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Back Against the Wall",
+      "ja_JP": "背水の陣",
       "zh_CN": "破釜沉舟"
     }
   },
   "act25side_st01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Dark Clouds",
+      "ja_JP": "立ち込める暗雲",
       "zh_CN": "阴云密布"
     }
   },
   "act25side_st02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Restless Waves",
+      "ja_JP": "迫る荒波",
       "zh_CN": "一波未平"
     }
   },
   "act25side_st03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Those Left Behind",
+      "ja_JP": "残された人",
       "zh_CN": "留下的人"
     }
   },
   "act25side_st04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Door to the Future",
+      "ja_JP": "未来への扉",
       "zh_CN": "推开未来之门"
     }
   },
   "act25side_tr01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Cutting-Edge Architecture",
+      "ja_JP": "最先端建築",
       "zh_CN": "先锋建筑"
     }
   },
   "act25side_tr02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Cutting Edge",
+      "ja_JP": "ハイテクノロジー",
       "zh_CN": "先锋工程"
     }
   },
@@ -34887,6 +35551,8 @@
   "camp_r_16": {
     "type": "STAGE",
     "names": {
+      "en_US": "Rest Avenue",
+      "ja_JP": "フェルマーテ通り",
       "zh_CN": "休止符街道"
     }
   },
@@ -35143,24 +35809,32 @@
   "hard_12-01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Operation Astrape-1",
+      "ja_JP": "驚靂作戦-1",
       "zh_CN": "惊霆行动-1"
     }
   },
   "hard_12-02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Operation Astrape-2",
+      "ja_JP": "驚靂作戦‐2",
       "zh_CN": "惊霆行动-2"
     }
   },
   "hard_12-03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Operation Astrape-3",
+      "ja_JP": "驚靂作戦‐3",
       "zh_CN": "惊霆行动-3"
     }
   },
   "hard_12-04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Operation Astrape-4",
+      "ja_JP": "驚靂作戦‐4",
       "zh_CN": "惊霆行动-4"
     }
   },
@@ -35543,72 +36217,96 @@
   "lt_07_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "I Know the Risks",
+      "ja_JP": "困難と知りつつ",
       "zh_CN": "知难而进"
     }
   },
   "lt_07_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Barrenlands Business",
+      "ja_JP": "荒野の戦い方",
       "zh_CN": "荒地的手段"
     }
   },
   "lt_07_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Numb Way Forward",
+      "ja_JP": "無関心で進む道",
       "zh_CN": "麻木前行"
     }
   },
   "lt_07_04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Chaotic Party",
+      "ja_JP": "混乱の「パーティー」",
       "zh_CN": "混乱“派对”"
     }
   },
   "lt_07_05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Messenger",
+      "ja_JP": "情報伝達",
       "zh_CN": "消息传递"
     }
   },
   "lt_07_06": {
     "type": "STAGE",
     "names": {
+      "en_US": "Show of Power",
+      "ja_JP": "力の誇示",
       "zh_CN": "力量的炫耀"
     }
   },
   "lt_08_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Fatal Attraction",
+      "ja_JP": "致命的な魅力",
       "zh_CN": "致命吸引"
     }
   },
   "lt_08_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Drunk Hammer",
+      "ja_JP": "酔っ払いの一撃",
       "zh_CN": "烂醉铁锤"
     }
   },
   "lt_08_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "For Survival",
+      "ja_JP": "生存のため",
       "zh_CN": "为了生存"
     }
   },
   "lt_08_04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Mixed Gas",
+      "ja_JP": "混合毒ガス",
       "zh_CN": "混合毒气"
     }
   },
   "lt_08_05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Nurturing Wither",
+      "ja_JP": "枯朽が孕むのは",
       "zh_CN": "枯朽孕育"
     }
   },
   "lt_08_06": {
     "type": "STAGE",
     "names": {
+      "en_US": "Suffocation",
+      "ja_JP": "窒息",
       "zh_CN": "窒息"
     }
   },
@@ -36983,108 +37681,144 @@
   "main_12-01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Reception Party",
+      "ja_JP": "待ちわびた降臨",
       "zh_CN": "静候驾临"
     }
   },
   "main_12-02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Benevolent Betrayal",
+      "ja_JP": "善意の裏切り",
       "zh_CN": "善意背叛"
     }
   },
   "main_12-03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Unity is Luxury",
+      "ja_JP": "高望みの団結",
       "zh_CN": "团结就是奢望"
     }
   },
   "main_12-04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Brittle Steel",
+      "ja_JP": "脆い鋼",
       "zh_CN": "脆钢"
     }
   },
   "main_12-05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Whose War",
+      "ja_JP": "誰が為の戦争",
       "zh_CN": "谁的战争"
     }
   },
   "main_12-06": {
     "type": "STAGE",
     "names": {
+      "en_US": "Discourse of Life and Death",
+      "ja_JP": "生死の論争",
       "zh_CN": "平议生死"
     }
   },
   "main_12-07": {
     "type": "STAGE",
     "names": {
+      "en_US": "Reunion Under Fire",
+      "ja_JP": "前線での再会",
       "zh_CN": "火线重逢"
     }
   },
   "main_12-08": {
     "type": "STAGE",
     "names": {
+      "en_US": "Years of Passion",
+      "ja_JP": "情熱に満ちた頃",
       "zh_CN": "热血年华"
     }
   },
   "main_12-09": {
     "type": "STAGE",
     "names": {
+      "en_US": "Broadcast Hotline is Busy",
+      "ja_JP": "放送線混雑中",
       "zh_CN": "广播热线正繁忙"
     }
   },
   "main_12-10": {
     "type": "STAGE",
     "names": {
+      "en_US": "Hats Off",
+      "ja_JP": "脱帽の礼",
       "zh_CN": "脱帽致敬"
     }
   },
   "main_12-11": {
     "type": "STAGE",
     "names": {
+      "en_US": "Against the Light",
+      "ja_JP": "逆光の影",
       "zh_CN": "逆光阴影"
     }
   },
   "main_12-12": {
     "type": "STAGE",
     "names": {
+      "en_US": "Ears Muffed",
+      "ja_JP": "耳を塞ぐ",
       "zh_CN": "捂住耳朵"
     }
   },
   "main_12-13": {
     "type": "STAGE",
     "names": {
+      "en_US": "Battered and Bruised",
+      "ja_JP": "穴だらけ",
       "zh_CN": "千疮百孔"
     }
   },
   "main_12-14": {
     "type": "STAGE",
     "names": {
+      "en_US": "Clouds Burn Red",
+      "ja_JP": "空際の夕焼け雲",
       "zh_CN": "天边的火烧云"
     }
   },
   "main_12-15": {
     "type": "STAGE",
     "names": {
+      "en_US": "The Abandoned",
+      "ja_JP": "見捨てられた者",
       "zh_CN": "被弃之人"
     }
   },
   "main_12-16": {
     "type": "STAGE",
     "names": {
+      "en_US": "Good Night",
+      "ja_JP": "おやすみなさい",
       "zh_CN": "晚安"
     }
   },
   "main_12-17": {
     "type": "STAGE",
     "names": {
+      "en_US": "Fly, Fireworks",
+      "ja_JP": "火種、飛び越えて",
       "zh_CN": "飞跃，烟火"
     }
   },
   "main_12-18": {
     "type": "STAGE",
     "names": {
+      "en_US": "Sincere Invitation",
+      "ja_JP": "真摯な誘い",
       "zh_CN": "诚挚邀请"
     }
   },
@@ -37509,18 +38243,24 @@
   "st_12-01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Heat Wave",
+      "ja_JP": "火と熱風",
       "zh_CN": "火光热浪"
     }
   },
   "st_12-02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Ticking Clock",
+      "ja_JP": "時は待たず",
       "zh_CN": "时不我待"
     }
   },
   "st_12-03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Quiet On the Front",
+      "ja_JP": "嵐の前の静けさ",
       "zh_CN": "战场静悄悄"
     }
   },
@@ -38081,12 +38821,16 @@
   "tr_22": {
     "type": "STAGE",
     "names": {
+      "en_US": "Know Right From Wrong",
+      "ja_JP": "善悪の判断",
       "zh_CN": "明辨是非"
     }
   },
   "tr_23": {
     "type": "STAGE",
     "names": {
+      "en_US": "Devil's Temptation",
+      "ja_JP": "悪魔の誘惑",
       "zh_CN": "恶魔诱惑"
     }
   },
@@ -39167,18 +39911,24 @@
   "act25side_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "The Coming of The Future",
+      "ja_JP": "来たる未来",
       "zh_CN": "未来将至"
     }
   },
   "act25side_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "The Lingering of the Past",
+      "ja_JP": "過ぎぬ過去",
       "zh_CN": "过往未尽"
     }
   },
   "act25side_zone3": {
     "type": "ZONE",
     "names": {
+      "en_US": "The Pursuing of the Present",
+      "ja_JP": "在るべき今",
       "zh_CN": "紧握当下"
     }
   },
@@ -39443,6 +40193,8 @@
   "main_12": {
     "type": "ZONE",
     "names": {
+      "en_US": "All Quiet Under the Thunder",
+      "ja_JP": "驚靂蕭然",
       "zh_CN": "惊霆无声"
     }
   },
@@ -39927,18 +40679,24 @@
   "permanent_sub_5_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "The Coming of the Future",
+      "ja_JP": "来たる未来",
       "zh_CN": "未来将至"
     }
   },
   "permanent_sub_5_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "The Lingering of the Past",
+      "ja_JP": "過ぎぬ過去",
       "zh_CN": "过往未尽"
     }
   },
   "permanent_sub_5_zone3": {
     "type": "ZONE",
     "names": {
+      "en_US": "The Pursuing of the Present",
+      "ja_JP": "在るべき今",
       "zh_CN": "紧握当下"
     }
   },
@@ -40309,6 +41067,8 @@
   "story_cammou_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Unmanned Workshop",
+      "ja_JP": "無人工場",
       "zh_CN": "无人工房"
     }
   },
@@ -40455,6 +41215,8 @@
   "story_doroth_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Where is the Friend's House?",
+      "ja_JP": "友の故郷はいずこ",
       "zh_CN": "何处是我朋友的家"
     }
   },
@@ -40661,6 +41423,8 @@
   "story_frostl_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Learning to Read",
+      "ja_JP": "学習帳",
       "zh_CN": "识字本"
     }
   },
@@ -40691,6 +41455,8 @@
   "story_glacus_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "On My Own Two Legs",
+      "ja_JP": "この両足で",
       "zh_CN": "以我双腿"
     }
   },
@@ -41149,6 +41915,8 @@
   "story_morgan_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Beneath the Worthy Wheel",
+      "ja_JP": "巨輪の下",
       "zh_CN": "巨轮之下"
     }
   },
@@ -41263,6 +42031,8 @@
   "story_peper_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Mercenary Youth",
+      "ja_JP": "傭兵の少女",
       "zh_CN": "少年雇佣兵"
     }
   },
@@ -41471,6 +42241,8 @@
   "story_sesa_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Fatal Attraction",
+      "ja_JP": "死に至らしめる誘惑",
       "zh_CN": "致命诱惑"
     }
   },
@@ -41647,6 +42419,8 @@
   "story_strong_set_2_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "VIP",
+      "ja_JP": "キーパーソン",
       "zh_CN": "关键人物"
     }
   },
