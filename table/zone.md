@@ -75,11 +75,11 @@ tip: 请善用浏览器的搜索功能
 | act17side_zone3 | 无名之海 | Nameless Ocean | 名もなき海 |
 | act17side_zone4 | 蒙尘图册 | Dusty Picturebook | 古びた手記 |
 | act17side_zone5 | 镜前映像 | Mirror Image | 鏡写しの映像 |
-| act17sre_zone1 | 格兰法洛 | - | - |
-| act17sre_zone2 | 失落旗舰 | - | - |
-| act17sre_zone3 | 无名之海 | - | - |
-| act17sre_zone4 | 蒙尘图册 | - | - |
-| act17sre_zone5 | 镜前映像 | - | - |
+| act17sre_zone1 | 格兰法洛 | - | グランファーロ |
+| act17sre_zone2 | 失落旗舰 | - | 失われし旗艦 |
+| act17sre_zone3 | 无名之海 | - | 名もなき海 |
+| act17sre_zone4 | 蒙尘图册 | - | 古びた手記 |
+| act17sre_zone5 | 镜前映像 | - | 鏡写しの映像 |
 | act18d0_zone1 | 漫漫独行 | Walk Alone | 寂然独歩 |
 | act18d0_zone2 | 浩瀚之旅 | The Endless Road | 無辺の旅 |
 | act18d3_zone1 | 荒败盐风 | Deserted Salviento | 潮風の廃都 |

@@ -23,7 +23,7 @@ tip: 请善用浏览器的搜索功能
 | story_asbest_set_1_story_1 | 奇景 | Strange Sights | 奇景 |
 | story_astesi_set_1_story_1 | 启明 | Revelation | 照らし出す光 |
 | story_aurora_set_1_story_1 | 她所见 | What She Saw | 彼女の見たいもの |
-| story_ayer_set_1_story_1 | 黄沙觅迹 | - | - |
+| story_ayer_set_1_story_1 | 黄沙觅迹 | - | 黄砂の追跡 |
 | story_beewax_set_1_story_1 | 黄沙归途 | Trail of Sands | 黄砂の帰路 |
 | story_bena_set_1_story_1 | 简单的愿望 | - | - |
 | story_bgsnow_set_1_story_1 | 墨迹已落 | Fallen Inktrails | インクの染み |
@@ -137,12 +137,12 @@ tip: 请善用浏览器的搜索功能
 | story_lava_set_2_story_1 | 看护 | 'Caring' | 看病 |
 | story_leizi_set_1_story_1 | 司雷霆者 | - | - |
 | story_ling_set_1_story_1 | 醒时梦长 | From a Long Dream Woken | 白日の酔夢 |
-| story_lionhd_set_1_story_1 | 暗境求生 | - | - |
+| story_lionhd_set_1_story_1 | 暗境求生 | - | 暗闇の生還 |
 | story_liskam_set_1_story_1 | 苹果派对准备中！ | 'Apple Pie Party, Now Preparing!' | リンゴパーティー準備中！ |
 | story_liskam_set_2_story_1 | 尚待 | 'Still Waiting' | 待つ |
 | story_lmlee_set_1_story_1 | 三餐一日 | Three Square Meals a Day | 一日三食 |
 | story_lolxh_set_1_story_1 | 夜游船 | Sleepwalker Sailing | 夜の艦内遊覧 |
-| story_lumen_set_1_story_1 | 直到灯火明亮 | - | - |
+| story_lumen_set_1_story_1 | 直到灯火明亮 | - | 灯火が照らすまで |
 | story_malist_set_1_story_1 | 长夏未尽 | - | - |
 | story_mantic_set_1_story_1 | 缄默 | Dead Silence | 黙して語らず |
 | story_mberry_set_1_story_1 | 平安祈愿 | A Prayer for Peace | 安全祈願 |
@@ -187,7 +187,7 @@ tip: 请善用浏览器的搜索功能
 | story_provs_set_1_story_1 | 假定公正 | - | - |
 | story_pudd_set_1_story_1 | 远方的雪 | - | - |
 | story_qanik_set_1_story_1 | 风雪代为传达 | - | - |
-| story_quartz_set_1_story_1 | 无需遗憾 | - | - |
+| story_quartz_set_1_story_1 | 无需遗憾 | - | 惜しむ必要なし |
 | story_quercu_set_1_story_1 | 终途 | Final Moments | 終の道 |
 | story_quercu_set_2_story_1 | 生命的萌芽 | The Sprouts of Life | 命の芽吹き |
 | story_robrta_set_1_story_1 | 挽歌 | Elegy | 亡き者に捧ぐ歌 |
