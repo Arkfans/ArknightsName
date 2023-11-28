@@ -5448,6 +5448,7 @@
   "char_263_skadi@marthe#5": {
     "type": "SKIN",
     "names": {
+      "en_US": "The Next Afternoon Tea",
       "ja_JP": "次のおやつは",
       "zh_CN": "下一顿午茶"
     }
@@ -14019,6 +14020,7 @@
   "act17sre": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Stultifera Navis - Rerun",
       "ja_JP": "狂人号・復刻",
       "zh_CN": "愚人号·复刻"
     }
@@ -16764,6 +16766,7 @@
   "act17side_token_compass_rep_1": {
     "type": "ITEM",
     "names": {
+      "en_US": "Rusted Compass",
       "ja_JP": "錆びたコンパス",
       "zh_CN": "锈蚀的罗盘"
     }
@@ -18589,6 +18592,7 @@
   "classic_fes_pick_tier_5_3801": {
     "type": "ITEM",
     "names": {
+      "en_US": "Kernel Locating 5* Operator",
       "ja_JP": "中堅セレクト★5オペレーター",
       "zh_CN": "中坚甄选5星干员"
     }
@@ -18608,6 +18612,7 @@
   "classic_fes_pick_tier_6_3801": {
     "type": "ITEM",
     "names": {
+      "en_US": "Kernel Locating 6* Operator",
       "ja_JP": "中堅セレクト★6オペレーター",
       "zh_CN": "中坚甄选6星干员"
     }
@@ -39622,6 +39627,7 @@
   "act17sre_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Gran Faro",
       "ja_JP": "グランファーロ",
       "zh_CN": "格兰法洛"
     }
@@ -39629,6 +39635,7 @@
   "act17sre_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Lost Flagship",
       "ja_JP": "失われし旗艦",
       "zh_CN": "失落旗舰"
     }
@@ -39636,6 +39643,7 @@
   "act17sre_zone3": {
     "type": "ZONE",
     "names": {
+      "en_US": "Nameless Ocean",
       "ja_JP": "名もなき海",
       "zh_CN": "无名之海"
     }
@@ -39643,6 +39651,7 @@
   "act17sre_zone4": {
     "type": "ZONE",
     "names": {
+      "en_US": "Dusty Picturebook",
       "ja_JP": "古びた手記",
       "zh_CN": "蒙尘图册"
     }
@@ -39650,6 +39659,7 @@
   "act17sre_zone5": {
     "type": "ZONE",
     "names": {
+      "en_US": "Mirror Image",
       "ja_JP": "鏡写しの映像",
       "zh_CN": "镜前映像"
     }
@@ -40923,6 +40933,7 @@
   "story_ayer_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Seeker in the Sands",
       "ja_JP": "黄砂の追跡",
       "zh_CN": "黄沙觅迹"
     }
@@ -41774,6 +41785,7 @@
   "story_lionhd_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Living in Darkness",
       "ja_JP": "暗闇の生還",
       "zh_CN": "暗境求生"
     }
@@ -41813,6 +41825,7 @@
   "story_lumen_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Till the Lights Shine Bright",
       "ja_JP": "灯火が照らすまで",
       "zh_CN": "直到灯火明亮"
     }
@@ -42154,6 +42167,7 @@
   "story_quartz_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "No Regrets",
       "ja_JP": "惜しむ必要なし",
       "zh_CN": "无需遗憾"
     }

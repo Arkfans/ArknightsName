@@ -213,7 +213,7 @@ tip: 请善用浏览器的搜索功能
 | act16side_token_bolt_rep_1 | 蚀刻弹弹壳 | Etched Bullet Casing | エッチング弾薬莢 |
 | act17d0_token_form | 罗德岛物资配给证书 | Rhodes Island Resource Allocation Certificate | ロドス物資配給許可書 |
 | act17side_token_compass | 锈蚀的罗盘 | Rusted Compass | 錆びたコンパス |
-| act17side_token_compass_rep_1 | 锈蚀的罗盘 | - | 錆びたコンパス |
+| act17side_token_compass_rep_1 | 锈蚀的罗盘 | Rusted Compass | 錆びたコンパス |
 | act18d0_token_page | 手绘标本残页 | Scattered Sketches | 古い標本図 |
 | act18d0_token_page_rep_1 | 手绘标本残页 | Scattered Sketches | 古い標本図 |
 | act18d3_token_record | 腐蚀的伊比利亚唱片 | Corrupted Iberian Record | 腐食したレコード |
@@ -449,10 +449,10 @@ tip: 请善用浏览器的搜索功能
 | class_p_char_469_indigo | 深靛的中坚信物 | Indigo's Kernel Token | インディゴの印（中堅） |
 | class_p_char_484_robrta | 罗比菈塔的中坚信物 | Roberta's Kernel Token | ロベルタの印（中堅） |
 | class_p_char_491_humus | 休谟斯的中坚信物 | Humus's Kernel Token | ヒューマスの印（中堅） |
-| classic_fes_pick_tier_5_3801 | 中坚甄选5星干员 | - | 中堅セレクト★5オペレーター |
+| classic_fes_pick_tier_5_3801 | 中坚甄选5星干员 | Kernel Locating 5* Operator | 中堅セレクト★5オペレーター |
 | classic_fes_pick_tier_5_4101 | 中坚甄选5星干员 | - | - |
 | classic_fes_pick_tier_5_4401 | 中坚甄选5星干员 | - | - |
-| classic_fes_pick_tier_6_3801 | 中坚甄选6星干员 | - | 中堅セレクト★6オペレーター |
+| classic_fes_pick_tier_6_3801 | 中坚甄选6星干员 | Kernel Locating 6* Operator | 中堅セレクト★6オペレーター |
 | classic_fes_pick_tier_6_4101 | 中坚甄选6星干员 | - | - |
 | classic_fes_pick_tier_6_4401 | 中坚甄选6星干员 | - | - |
 | classic_gacha | 中坚寻访凭证 | Kernel Headhunting Permit | 中堅スカウト券 |

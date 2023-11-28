@@ -979,6 +979,9 @@
     ]
   },
   "avg_294_ayer_1": {
+    "en_US": [
+      "Ayerscarpe"
+    ],
     "ja_JP": [
       "エアースカーペ"
     ],
@@ -1520,6 +1523,9 @@
     ]
   },
   "avg_4063_quartz_1": {
+    "en_US": [
+      "Quartz"
+    ],
     "ja_JP": [
       "クォーツ"
     ],
@@ -2172,6 +2178,7 @@
       "Neighbor A",
       "Pondering Follower",
       "Strong Townsfolk",
+      "Timid Miner",
       "Tired Worker",
       "Townsfolk",
       "Villager A",
@@ -2228,6 +2235,7 @@
   "avg_npc_002": {
     "en_US": [
       "A Kazimierz Villager",
+      "Angry Miner",
       "Angry Villager",
       "Fast Food Joint Owner",
       "Gangster Messenger",
@@ -2235,6 +2243,7 @@
       "Infected Worker",
       "Kazimierz Ruffian",
       "Local Ruffian",
+      "Luca",
       "Neighbor B",
       "Rhodes Island Messenger",
       "Search Team Member",
@@ -2427,12 +2436,14 @@
       "Merchant",
       "Militiaman B",
       "Newsstand Owner",
+      "Old Officer Vincent",
       "Old Worker",
       "Ordinary Infected A",
       "Passerby B",
       "Passing Merchant",
       "Produce Vendor",
       "Rowdy Stowaway",
+      "Tired Miner",
       "Village Headman",
       "Wastelander B"
     ],
@@ -2625,6 +2636,7 @@
       "Infected Hooligan",
       "Lord Ameer's Officer",
       "Mercenary A",
+      "Mercenary B",
       "Mercenary Captain",
       "Old Captain",
       "Quiet Bounty Hunter",
@@ -2956,6 +2968,7 @@
       "Cronin's Bodyguard",
       "Cronin's Henchman",
       "Investigator",
+      "Mine Guard",
       "Organizing Committee Member",
       "Otti",
       "Raythean Industries Security",
@@ -4437,6 +4450,7 @@
       "Raymond",
       "Shadow",
       "Stranger",
+      "Uncle Pickett",
       "Ursus Farmer",
       "Ursus Villager"
     ],
@@ -6102,6 +6116,7 @@
       "Genial Noble",
       "Greedy Businessman",
       "Local Judge A",
+      "Mayor",
       "Noble Gentleman",
       "Plump Merchant",
       "Pompous Merchant",
@@ -6161,6 +6176,7 @@
       "Astute Noble",
       "Bishmer",
       "Butler",
+      "Cowell",
       "Hughes",
       "Local Judge B",
       "Londinium Merchant",
@@ -6231,6 +6247,7 @@
     "en_US": [
       "'Iberian'",
       "Inhabitant",
+      "Local Messenger",
       "Male Inhabitant",
       "Male Inhabitant A"
     ],
@@ -6276,7 +6293,8 @@
   },
   "avg_npc_181": {
     "en_US": [
-      "Old José"
+      "Old José",
+      "Old Panhandler"
     ],
     "ja_JP": [
       "ホセ",
@@ -7335,6 +7353,7 @@
       "Bent",
       "Busy Youth",
       "Chef MacMartin",
+      "Cruise Jr.",
       "Embittered Man",
       "Excited Taran Refugee",
       "Frightened Youth",
@@ -9089,10 +9108,15 @@
   },
   "avg_npc_418_1": {
     "en_US": [
+      "Catastrophe Messenger",
+      "Catastrophe Messenger?",
       "Earl's Attendant",
       "Fleeing Londinier",
+      "Ivy",
       "Londinium Citizen",
-      "Londinium Citizen B"
+      "Londinium Citizen B",
+      "Strange Woman",
+      "Tamika"
     ],
     "ja_JP": [
       "アイビー",
@@ -9477,7 +9501,8 @@
       "Panicking Townsperson",
       "Panicky Villager",
       "Tense Townsperson",
-      "Terrified Townsperson"
+      "Terrified Townsperson",
+      "Young Priest"
     ],
     "ja_JP": [
       "忙しそうな町民",
@@ -9512,6 +9537,7 @@
   },
   "avg_npc_462_1": {
     "en_US": [
+      "Excitable Townsfolk",
       "Friendly Villager",
       "Helping Townsfolk",
       "Indiscreet Townsfolk"
@@ -11304,6 +11330,7 @@
   },
   "avg_npc_729_1": {
     "en_US": [
+      "Cruise Jr.",
       "Injured Refugee",
       "Maimed Citizen",
       "Wounded Taran"

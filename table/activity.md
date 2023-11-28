@@ -61,7 +61,7 @@ tip: 请善用浏览器的搜索功能
 | act17d7 | 愚人节活动 | April Fools' Day Event | エイプリルフール |
 | act17login | 《明日方舟：冬隐归路》开播庆祝活动 | - | - |
 | act17side | 愚人号 | Stultifera Navis | 狂人号 |
-| act17sre | 愚人号·复刻 | - | 狂人号・復刻 |
+| act17sre | 愚人号·复刻 | Stultifera Navis - Rerun | 狂人号・復刻 |
 | act18d0 | 遗尘漫步 | A Walk in the Dust | 遺塵の道を |
 | act18d3 | 覆潮之下 | Under Tides | 潮汐の下 |
 | act18d3d1 | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
