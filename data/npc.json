@@ -1101,6 +1101,9 @@
     ]
   },
   "avg_347_jaksel_1": {
+    "en_US": [
+      "Jackie"
+    ],
     "ja_JP": [
       "ジャッキー"
     ],
@@ -1438,6 +1441,9 @@
     ]
   },
   "avg_4043_erato_1": {
+    "en_US": [
+      "Erato"
+    ],
     "ja_JP": [
       "エラト"
     ],
@@ -1967,6 +1973,7 @@
   },
   "avg_482_pallas_1": {
     "en_US": [
+      "Erato & Pallas",
       "Pallas"
     ],
     "ja_JP": [
@@ -2061,6 +2068,9 @@
     ]
   },
   "avg_497_ctable_1": {
+    "en_US": [
+      "Cantabile"
+    ],
     "ja_JP": [
       "カンタービレ"
     ],
@@ -2529,9 +2539,11 @@
       "Brutish Mercenary",
       "Cowardly Mercenary",
       "Crumbling Bandit",
+      "Daniil",
       "Diminutive Mercenary",
       "Elder Hunter",
       "Hunter",
+      "Indifferent Bandit",
       "Indignant Mercenary",
       "Infected Henchman",
       "Infected Thug",
@@ -2551,6 +2563,7 @@
       "Strange Hunter",
       "Strange Townsfolk",
       "Sullen Bounty Hunter",
+      "Surly Bandit",
       "Ugly Hooligan",
       "Violent Bounty Hunter",
       "Violent Mercenary",
@@ -2845,6 +2858,7 @@
       "Rhodes Island Field Personnel",
       "Rhodes Island Guard",
       "Rhodes Island Operator",
+      "Rhodes Island Operator B",
       "Sandwheel",
       "Tired Rhodes Island Operator",
       "Vanguard Operator A"
@@ -4488,7 +4502,8 @@
       "Stranger",
       "Uncle Pickett",
       "Ursus Farmer",
-      "Ursus Villager"
+      "Ursus Villager",
+      "Villager"
     ],
     "ja_JP": [
       "くたびれた労働者",
@@ -4616,6 +4631,7 @@
       "Navigator A",
       "Rhodes Island Field Operator",
       "Rhodes Island Operator",
+      "Rhodes Island Operator A",
       "Steady Rhodes Island Operator",
       "Young Studying Operator"
     ],
@@ -4673,6 +4689,7 @@
       "Operator Shredder",
       "Rhodes Island Logistics Operator",
       "Rhodes Island Operator",
+      "Seanson",
       "Seasoned Rhodes Island Operator",
       "Sniper Operator"
     ],
@@ -4709,9 +4726,11 @@
   "avg_npc_090": {
     "en_US": [
       "Chard",
+      "Defender Operator",
       "Engineering Operator",
       "Engineering Operator A",
       "Engineering Operator B",
+      "Lucci",
       "Office Operator",
       "Office Operator A",
       "Operator Barty",
@@ -6133,6 +6152,7 @@
     "en_US": [
       "Actress",
       "Beautiful Noble",
+      "Calm Councilor",
       "Caravan Head",
       "Cheery Actress",
       "Hesitant Ambassador",
@@ -6194,6 +6214,7 @@
       "Announcer",
       "Casino Boss",
       "Elegant Ambassador",
+      "Emotional Councilor",
       "Enthusiastic Merchant",
       "Genial Noble",
       "Greedy Businessman",
@@ -6260,9 +6281,11 @@
       "Bishmer",
       "Butler",
       "Cowell",
+      "Extremely Serious Councilor",
       "Hughes",
       "Local Judge B",
       "Londinium Merchant",
+      "Mayor",
       "Noble Man",
       "Noblewoman and Wealthy Man",
       "Obscured Merchant",
@@ -7147,6 +7170,7 @@
       "A Corporate Employee A",
       "Boy",
       "Branch Office Manager",
+      "Government Official",
       "Informant",
       "Knight Scout",
       "Mid-level Manager",
@@ -7436,6 +7460,7 @@
   },
   "avg_npc_242": {
     "en_US": [
+      "Amazed Passerby",
       "Angry Citizen",
       "Angry Youth",
       "Bent",
@@ -7449,6 +7474,7 @@
       "Gentleman",
       "Grieving Man",
       "Hostile Man",
+      "Independent Reporter",
       "Infected",
       "Infected Citizen",
       "Jurian",
@@ -7548,6 +7574,7 @@
   },
   "avg_npc_243": {
     "en_US": [
+      "Apathetic Passerby",
       "Cautious Servant",
       "Feeble Woman",
       "Infected Citizen",
@@ -10058,6 +10085,7 @@
   "avg_npc_501_1": {
     "en_US": [
       "Andante",
+      "Medic Operator",
       "Rhodes Island Operator",
       "Woman in Operator Attire"
     ],
@@ -10108,6 +10136,7 @@
       "Police Officer",
       "Reporter B",
       "Reporter?",
+      "Rude Reporter",
       "Street Hawker",
       "Vice President's Secretary"
     ],
@@ -10147,6 +10176,7 @@
     "en_US": [
       "Bar Patron",
       "Cheery Woman",
+      "Impatient Reporter",
       "Nervous Entrepreneur",
       "Reporter",
       "Reporter A",

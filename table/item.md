@@ -262,7 +262,7 @@ tip: 请善用浏览器的搜索功能
 | act2bossrush_relic_04 | 调优重载 | Optimize Load | 積載調節 |
 | act2bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
 | act30side_token_box | 驮兽盲盒 | - | - |
-| act38d1_token_coin | 晶化源石 | - | 結晶化源石 |
+| act38d1_token_coin | 晶化源石 | Crystalized Originium | 結晶化源石 |
 | act3bossrush_milestone_point | 试炼经验 | - | - |
 | act3bossrush_relic_01 | 恢复增幅 | - | - |
 | act3bossrush_relic_02 | 扩大化战略 | - | - |
@@ -753,7 +753,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4083_chimes | 铎铃的信物 | Wind Chimes's Token | ウィンドチャイムの印 |
 | p_char_4087_ines | 伊内丝的信物 | Ines's Token | イネスの印 |
 | p_char_4088_hodrer | 赫德雷的信物 | - | - |
-| p_char_4093_frston | Friston-3的信物 | - | フリストン-3の印 |
+| p_char_4093_frston | Friston-3的信物 | Friston-3's Token | フリストン-3の印 |
 | p_char_4098_vvana | 薇薇安娜的信物 | - | - |
 | p_char_4100_caper | 跃跃的信物 | - | - |
 | p_char_4102_threye | 凛视的信物 | - | - |

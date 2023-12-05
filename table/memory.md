@@ -60,7 +60,7 @@ tip: 请善用浏览器的搜索功能
 | story_chyue_set_1_story_1 | 昔我往矣 | Once Upon a Time, I Wandered Afar | 昔我往きて、君と携行す |
 | story_clour_set_1_story_1 | 安身之处 | - | - |
 | story_crow_set_1_story_1 | 坚韧的羽毛 | - | - |
-| story_ctable_set_1_story_1 | 飞进窗的羽兽 | - | 窓から飛び込んだ羽獣 |
+| story_ctable_set_1_story_1 | 飞进窗的羽兽 | A Fowl Through the Window | 窓から飛び込んだ羽獣 |
 | story_cutter_set_1_story_1 | 速食食品 | Meals, Ready-to-Eat | 携行食 |
 | story_dagda_set_1_story_1 | 脚步不停 | - | - |
 | story_deepcl_set_1_story_1 | 幽蓝怀想 | Azure Memories | 深き青の追想 |
@@ -71,7 +71,7 @@ tip: 请善用浏览器的搜索功能
 | story_dusk_set_1_story_1 | 旦夕 | Dawn and Dusk | 一朝一夕 |
 | story_ebnhlz_set_1_story_1 | 孤灯 | Lone Lamp | 灯の隻影 |
 | story_elysm_set_1_story_1 | 漫长旅途 | Long Journey | 長き旅路 |
-| story_erato_set_1_story_1 | 英雄们的叙事诗 | - | 英雄たちの叙事詩 |
+| story_erato_set_1_story_1 | 英雄们的叙事诗 | The Epic of Heroes | 英雄たちの叙事詩 |
 | story_estell_set_1_story_1 | 她的一小步 | One Small Step For Her | その小さな一歩 |
 | story_ethan_set_1_story_1 | 他乡故旧 | 'Old Friends in Foreign Places' | 異郷の旧友 |
 | story_excu2_set_1_story_1 | 蓝色 | - | - |
@@ -112,7 +112,7 @@ tip: 请善用浏览器的搜索功能
 | story_hamoni_set_1_story_1 | 孤独的舞者 | Solitary Dancer | 孤独なダンサー |
 | story_hbisc2_set_1_story_1 | 无名之花 | Nameless Flower | 名もなき花 |
 | story_headbr_set_1_story_1 | 强中自有强中手 | Strong Meets Stronger | 強さに果てはなし |
-| story_headbr_set_2_story_1 | 在冬夜里燃烧 | - | 冬の夜に燃える |
+| story_headbr_set_2_story_1 | 在冬夜里燃烧 | Burning on a Winter Night | 冬の夜に燃える |
 | story_heidi_set_1_story_1 | 第一封信 | - | - |
 | story_helage_set_1_story_1 | 命途 | Fate | 命の行方 |
 | story_hibisc_set_1_story_1 | 良方 | - | - |
@@ -126,12 +126,12 @@ tip: 请善用浏览器的搜索功能
 | story_inside_set_1_story_1 | 机密任务 | - | - |
 | story_irene_set_1_story_1 | 灯火微明 | Lantern's Twilight | ほのかな灯り |
 | story_iris_set_1_story_1 | 糖果屋 | The Candy House | お菓子の家 |
-| story_jaksel_set_1_story_1 | 无价的勋章 | - | 価値のない勲章 |
+| story_jaksel_set_1_story_1 | 无价的勋章 | A Priceless Medal | 価値のない勲章 |
 | story_jesca2_set_1_story_1 | 徽章 | - | - |
 | story_jesica_set_1_story_1 | 缓步前行 | The Slow Walk Ahead | ゆっくり進む者 |
 | story_kafka_set_1_story_1 | 许以秘密 | - | - |
 | story_kaitou_set_1_story_1 | 被折射的星光 | - | - |
-| story_kazema_set_1_story_1 | 应为必为 | - | 為すべきこと |
+| story_kazema_set_1_story_1 | 应为必为 | One Should, One Must | 為すべきこと |
 | story_kirara_set_1_story_1 | 隐藏结局 | Secret Ending | 隠しエンディング |
 | story_kirara_set_2_story_1 | 无伤通关 | No-Damage Clear | ノーダメージクリア |
 | story_kjera_set_1_story_1 | 祂所关心的 | - | - |

@@ -251,7 +251,7 @@ tip: 请善用浏览器的搜索功能
 | char_4087_ines | 伊内丝 | Ines | イネス |
 | char_4088_hodrer | 赫德雷 | - | - |
 | char_4091_ulika | U-Official | - | - |
-| char_4093_frston | Friston-3 | - | Friston-3 |
+| char_4093_frston | Friston-3 | Friston-3 | Friston-3 |
 | char_4098_vvana | 薇薇安娜 | - | - |
 | char_4100_caper | 跃跃 | - | - |
 | char_4102_threye | 凛视 | - | - |
@@ -571,7 +571,7 @@ tip: 请善用浏览器的搜索功能
 | trap_734_cdkzmrb | 竞技记录分析仪 | - | - |
 | trap_735_platre | 汲取体 | - | - |
 | char_002_amiya@epoque#4 | 见习联结者 | Fresh Fastener | 見習い宅配人 |
-| char_002_amiya@test#1 | 播种者 | - | プランター |
+| char_002_amiya@test#1 | 播种者 | Seedsower | プランター |
 | char_002_amiya@winter#1 | 报童 | Newsgirl | 新聞配達員 |
 | char_003_kalts@boc#6 | 残余 | Remnant | 名残 |
 | char_010_chen@nian#2 | 岁红霞 | Ageless Afterglow | 歳紅霞 |
@@ -781,7 +781,7 @@ tip: 请善用浏览器的搜索功能
 | char_383_snsant@witch#2 | 天命勇者 | Fated Hero | 宿命の勇者 |
 | char_388_mint@epoque#22 | 月宵 | Tsukiyoi | 月宵 |
 | char_391_rosmon@epoque#17 | 拥抱新生 | Become Anew | 始まりを抱く |
-| char_4000_jnight@boc#7 | 竞技之梦改装 | - | 改装「競技の夢」 |
+| char_4000_jnight@boc#7 | 竞技之梦改装 | Tournament Fantasy Retrofit Kit | 改装「競技の夢」 |
 | char_4004_pudd@snow#5 | 火树灵 | Gleaming Fey | 煌めく精霊 |
 | char_4009_irene@ambienceSynesthesia#3 | 飞羽 | Voyage of Feathers | 飛び立つ羽 |
 | char_400_weedy@snow#2 | 糖果仙子 | Candy Cape | キャンディフェアリー |
@@ -1903,7 +1903,7 @@ tip: 请善用浏览器的搜索功能
 | act34sign | 限时累计签到 | - | - |
 | act35sign | 清光邀月——月饼烘焙小教程 | - | - |
 | act36sign | 步上双塔之时签到活动 | - | - |
-| act38d1 | 尖灭测试作战 | - | 尖滅試験作戦 |
+| act38d1 | 尖灭测试作战 | Pinch-Out Experimental Operation | 尖滅試験作戦 |
 | act3bossrush | 引航者试炼 | - | - |
 | act3d0 | 火蓝之心 | Heart of Surging Flame | 青く燃ゆる心 |
 | act3d5 | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
@@ -2244,7 +2244,7 @@ tip: 请善用浏览器的搜索功能
 | act2bossrush_relic_04 | 调优重载 | Optimize Load | 積載調節 |
 | act2bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
 | act30side_token_box | 驮兽盲盒 | - | - |
-| act38d1_token_coin | 晶化源石 | - | 結晶化源石 |
+| act38d1_token_coin | 晶化源石 | Crystalized Originium | 結晶化源石 |
 | act3bossrush_milestone_point | 试炼经验 | - | - |
 | act3bossrush_relic_01 | 恢复增幅 | - | - |
 | act3bossrush_relic_02 | 扩大化战略 | - | - |
@@ -2735,7 +2735,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4083_chimes | 铎铃的信物 | Wind Chimes's Token | ウィンドチャイムの印 |
 | p_char_4087_ines | 伊内丝的信物 | Ines's Token | イネスの印 |
 | p_char_4088_hodrer | 赫德雷的信物 | - | - |
-| p_char_4093_frston | Friston-3的信物 | - | フリストン-3の印 |
+| p_char_4093_frston | Friston-3的信物 | Friston-3's Token | フリストン-3の印 |
 | p_char_4098_vvana | 薇薇安娜的信物 | - | - |
 | p_char_4100_caper | 跃跃的信物 | - | - |
 | p_char_4102_threye | 凛视的信物 | - | - |
@@ -3133,7 +3133,7 @@ tip: 请善用浏览器的搜索功能
 | _NORM_23_2_1 | - | Flame of Immaculacy | 曇りなき紅蓮 |
 | _NORM_23_2_3 | - | Joint Operation | 連合作戦 |
 | _NORM_23_2_4 | - | The Front That Was | 先途追想 |
-| _NORM_24_0_6 | - | - | 連合作戦 |
+| _NORM_24_0_6 | - | Joint Operation | 連合作戦 |
 | _NORM_2_0_1 | - | Chi Xiao, the Hidden Dragon | 赤龍乗雲 |
 | _NORM_2_0_3 | - | Lungmen Spec Ops Headhunting | 龍門特別行動要員 |
 | _NORM_3_0_1 | - | Frozen Land | 果てなき氷原 |
@@ -5394,7 +5394,7 @@ tip: 请善用浏览器的搜索功能
 | story_chyue_set_1_story_1 | 昔我往矣 | Once Upon a Time, I Wandered Afar | 昔我往きて、君と携行す |
 | story_clour_set_1_story_1 | 安身之处 | - | - |
 | story_crow_set_1_story_1 | 坚韧的羽毛 | - | - |
-| story_ctable_set_1_story_1 | 飞进窗的羽兽 | - | 窓から飛び込んだ羽獣 |
+| story_ctable_set_1_story_1 | 飞进窗的羽兽 | A Fowl Through the Window | 窓から飛び込んだ羽獣 |
 | story_cutter_set_1_story_1 | 速食食品 | Meals, Ready-to-Eat | 携行食 |
 | story_dagda_set_1_story_1 | 脚步不停 | - | - |
 | story_deepcl_set_1_story_1 | 幽蓝怀想 | Azure Memories | 深き青の追想 |
@@ -5405,7 +5405,7 @@ tip: 请善用浏览器的搜索功能
 | story_dusk_set_1_story_1 | 旦夕 | Dawn and Dusk | 一朝一夕 |
 | story_ebnhlz_set_1_story_1 | 孤灯 | Lone Lamp | 灯の隻影 |
 | story_elysm_set_1_story_1 | 漫长旅途 | Long Journey | 長き旅路 |
-| story_erato_set_1_story_1 | 英雄们的叙事诗 | - | 英雄たちの叙事詩 |
+| story_erato_set_1_story_1 | 英雄们的叙事诗 | The Epic of Heroes | 英雄たちの叙事詩 |
 | story_estell_set_1_story_1 | 她的一小步 | One Small Step For Her | その小さな一歩 |
 | story_ethan_set_1_story_1 | 他乡故旧 | 'Old Friends in Foreign Places' | 異郷の旧友 |
 | story_excu2_set_1_story_1 | 蓝色 | - | - |
@@ -5446,7 +5446,7 @@ tip: 请善用浏览器的搜索功能
 | story_hamoni_set_1_story_1 | 孤独的舞者 | Solitary Dancer | 孤独なダンサー |
 | story_hbisc2_set_1_story_1 | 无名之花 | Nameless Flower | 名もなき花 |
 | story_headbr_set_1_story_1 | 强中自有强中手 | Strong Meets Stronger | 強さに果てはなし |
-| story_headbr_set_2_story_1 | 在冬夜里燃烧 | - | 冬の夜に燃える |
+| story_headbr_set_2_story_1 | 在冬夜里燃烧 | Burning on a Winter Night | 冬の夜に燃える |
 | story_heidi_set_1_story_1 | 第一封信 | - | - |
 | story_helage_set_1_story_1 | 命途 | Fate | 命の行方 |
 | story_hibisc_set_1_story_1 | 良方 | - | - |
@@ -5460,12 +5460,12 @@ tip: 请善用浏览器的搜索功能
 | story_inside_set_1_story_1 | 机密任务 | - | - |
 | story_irene_set_1_story_1 | 灯火微明 | Lantern's Twilight | ほのかな灯り |
 | story_iris_set_1_story_1 | 糖果屋 | The Candy House | お菓子の家 |
-| story_jaksel_set_1_story_1 | 无价的勋章 | - | 価値のない勲章 |
+| story_jaksel_set_1_story_1 | 无价的勋章 | A Priceless Medal | 価値のない勲章 |
 | story_jesca2_set_1_story_1 | 徽章 | - | - |
 | story_jesica_set_1_story_1 | 缓步前行 | The Slow Walk Ahead | ゆっくり進む者 |
 | story_kafka_set_1_story_1 | 许以秘密 | - | - |
 | story_kaitou_set_1_story_1 | 被折射的星光 | - | - |
-| story_kazema_set_1_story_1 | 应为必为 | - | 為すべきこと |
+| story_kazema_set_1_story_1 | 应为必为 | One Should, One Must | 為すべきこと |
 | story_kirara_set_1_story_1 | 隐藏结局 | Secret Ending | 隠しエンディング |
 | story_kirara_set_2_story_1 | 无伤通关 | No-Damage Clear | ノーダメージクリア |
 | story_kjera_set_1_story_1 | 祂所关心的 | - | - |

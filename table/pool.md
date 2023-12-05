@@ -141,7 +141,7 @@ tip: 请善用浏览器的搜索功能
 | _NORM_23_2_1 | - | Flame of Immaculacy | 曇りなき紅蓮 |
 | _NORM_23_2_3 | - | Joint Operation | 連合作戦 |
 | _NORM_23_2_4 | - | The Front That Was | 先途追想 |
-| _NORM_24_0_6 | - | - | 連合作戦 |
+| _NORM_24_0_6 | - | Joint Operation | 連合作戦 |
 | _NORM_2_0_1 | - | Chi Xiao, the Hidden Dragon | 赤龍乗雲 |
 | _NORM_2_0_3 | - | Lungmen Spec Ops Headhunting | 龍門特別行動要員 |
 | _NORM_3_0_1 | - | Frozen Land | 果てなき氷原 |

@@ -123,7 +123,7 @@ tip: 请善用浏览器的搜索功能
 | act34sign | 限时累计签到 | - | - |
 | act35sign | 清光邀月——月饼烘焙小教程 | - | - |
 | act36sign | 步上双塔之时签到活动 | - | - |
-| act38d1 | 尖灭测试作战 | - | 尖滅試験作戦 |
+| act38d1 | 尖灭测试作战 | Pinch-Out Experimental Operation | 尖滅試験作戦 |
 | act3bossrush | 引航者试炼 | - | - |
 | act3d0 | 火蓝之心 | Heart of Surging Flame | 青く燃ゆる心 |
 | act3d5 | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |

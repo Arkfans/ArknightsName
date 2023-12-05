@@ -251,7 +251,7 @@ tip: 请善用浏览器的搜索功能
 | char_4087_ines | 伊内丝 | Ines | イネス |
 | char_4088_hodrer | 赫德雷 | - | - |
 | char_4091_ulika | U-Official | - | - |
-| char_4093_frston | Friston-3 | - | Friston-3 |
+| char_4093_frston | Friston-3 | Friston-3 | Friston-3 |
 | char_4098_vvana | 薇薇安娜 | - | - |
 | char_4100_caper | 跃跃 | - | - |
 | char_4102_threye | 凛视 | - | - |
