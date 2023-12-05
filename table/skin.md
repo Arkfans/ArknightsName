@@ -6,7 +6,7 @@ tip: 请善用浏览器的搜索功能
 | id | 中文 | English | 日文 |
 | --- | --- | --- | --- |
 | char_002_amiya@epoque#4 | 见习联结者 | Fresh Fastener | 見習い宅配人 |
-| char_002_amiya@test#1 | 播种者 | - | - |
+| char_002_amiya@test#1 | 播种者 | - | プランター |
 | char_002_amiya@winter#1 | 报童 | Newsgirl | 新聞配達員 |
 | char_003_kalts@boc#6 | 残余 | Remnant | 名残 |
 | char_010_chen@nian#2 | 岁红霞 | Ageless Afterglow | 歳紅霞 |
@@ -216,7 +216,7 @@ tip: 请善用浏览器的搜索功能
 | char_383_snsant@witch#2 | 天命勇者 | Fated Hero | 宿命の勇者 |
 | char_388_mint@epoque#22 | 月宵 | Tsukiyoi | 月宵 |
 | char_391_rosmon@epoque#17 | 拥抱新生 | Become Anew | 始まりを抱く |
-| char_4000_jnight@boc#7 | 竞技之梦改装 | - | - |
+| char_4000_jnight@boc#7 | 竞技之梦改装 | - | 改装「競技の夢」 |
 | char_4004_pudd@snow#5 | 火树灵 | Gleaming Fey | 煌めく精霊 |
 | char_4009_irene@ambienceSynesthesia#3 | 飞羽 | Voyage of Feathers | 飛び立つ羽 |
 | char_400_weedy@snow#2 | 糖果仙子 | Candy Cape | キャンディフェアリー |

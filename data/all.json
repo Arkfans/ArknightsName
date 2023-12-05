@@ -1946,6 +1946,7 @@
   "char_4093_frston": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "Friston-3",
       "zh_CN": "Friston-3"
     }
   },
@@ -4392,6 +4393,7 @@
   "char_002_amiya@test#1": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "プランター",
       "zh_CN": "播种者"
     }
   },
@@ -6022,6 +6024,7 @@
   "char_4000_jnight@boc#7": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "改装「競技の夢」",
       "zh_CN": "竞技之梦改装"
     }
   },
@@ -14640,6 +14643,7 @@
   "act38d1": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "尖滅試験作戦",
       "zh_CN": "尖灭测试作战"
     }
   },
@@ -17298,6 +17302,7 @@
   "act38d1_token_coin": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "結晶化源石",
       "zh_CN": "晶化源石"
     }
   },
@@ -21156,6 +21161,7 @@
   "p_char_4093_frston": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "フリストン-3の印",
       "zh_CN": "Friston-3的信物"
     }
   },
@@ -24038,6 +24044,12 @@
     "names": {
       "en_US": "The Front That Was",
       "ja_JP": "先途追想"
+    }
+  },
+  "_NORM_24_0_6": {
+    "type": "POOL",
+    "names": {
+      "ja_JP": "連合作戦"
     }
   },
   "_NORM_2_0_1": {
@@ -41545,6 +41557,7 @@
   "story_ctable_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "窓から飛び込んだ羽獣",
       "zh_CN": "飞进窗的羽兽"
     }
   },
@@ -41629,6 +41642,7 @@
   "story_erato_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "英雄たちの叙事詩",
       "zh_CN": "英雄们的叙事诗"
     }
   },
@@ -41933,6 +41947,7 @@
   "story_headbr_set_2_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "冬の夜に燃える",
       "zh_CN": "在冬夜里燃烧"
     }
   },
@@ -42035,6 +42050,7 @@
   "story_jaksel_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "価値のない勲章",
       "zh_CN": "无价的勋章"
     }
   },
@@ -42067,6 +42083,7 @@
   "story_kazema_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "為すべきこと",
       "zh_CN": "应为必为"
     }
   },
