@@ -137,6 +137,8 @@ tip: 请善用浏览器的搜索功能
 | trap_134_condtr | 调谐节点 | - | - |
 | trap_135_portlent | 湮灭之相 | - | - |
 | trap_136_portlexi | 创生之相 | - | - |
+| trap_137_winfire | 紧急供暖器 | - | - |
+| trap_138_winstone | 点火石 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |
 | trap_401_xbfato | 采集实习站 | Basic Gathering Hub | 採取ロボ用基地 |
 | trap_403_wfactory | 蟹蟹抽水泵 | Crabbie Pumpie | カニカニポンプ |

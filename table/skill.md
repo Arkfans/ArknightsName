@@ -80,6 +80,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_blemsh_3 | 先贤化身 | Divine Avatar | 英霊顕現 |
 | skchr_blitz_1 | 闪光护盾 | Flash Shield | フラッシュシールド |
 | skchr_blitz_2 | 突破防线 | Shield Bash | 防衛線突破 |
+| skchr_blkkgt_1 | 纯粹的武力 | - | - |
+| skchr_blkkgt_2 | 无声的嘲笑 | - | - |
+| skchr_blkkgt_3 | 归于宁静 | - | - |
 | skchr_blkngt_1 | 半醒 | Drowsy | うたた寝 |
 | skchr_blkngt_2 | 安眠 | Peaceful Slumber | 深き眠り |
 | skchr_bluep_1 | 二重射击·自动 | Twinshot - Auto | ダブルショット |
@@ -239,6 +242,7 @@ tip: 请善用浏览器的搜索功能
 | skchr_halo_2 | 星束交汇 | Starlight Intersection | アストラルバースト |
 | skchr_hamoni_1 | 轻巧舞步 | Lithe Steps | 舞は軽やかに |
 | skchr_hamoni_2 | 沉溺之灾 | A Disastrous Drowning | 耽溺の結末 |
+| skchr_harold_2 | 重症优先 | - | - |
 | skchr_hbisc2_2 | 抚业之触 | Nurturing Touch | 業の救済 |
 | skchr_headbr_2 | 乌萨斯战吼 | Ursus's Roar | ウルサスの雄叫び |
 | skchr_heidi_1 | 虚构故事·怒士 | Tale of Fiction: A Warrior's Anger | 架空の物語・怒れる者 |
@@ -318,6 +322,7 @@ tip: 请善用浏览器的搜索功能
 | skchr_lessng_1 | 强力击·γ型 | - | - |
 | skchr_lessng_2 | 虔修对决 | - | - |
 | skchr_lessng_3 | 苦修破誓 | - | - |
+| skchr_leto_2 | 一呼百应 | - | - |
 | skchr_lin_1 | 玲珑 | Elegance | 玲瓏 |
 | skchr_lin_2 | 荫庇 | Shelter | 木陰 |
 | skchr_lin_3 | 流光乍裂 | Riving Lighttails | 流光炸裂 |
@@ -637,6 +642,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_bgsnow_3 | 锐笔速写 | Opprobrium | レザーシャープペン |
 | sktok_bldore | 沥血王座 | - | - |
 | sktok_blizzard | 暴风雪 | Blizzard | 猛吹雪 |
+| sktok_blizzard_2 | 暴风雪 | - | - |
 | sktok_blkngt_hypnos_s_1 | 食梦 | Dream Eater | 夢喰い |
 | sktok_blkngt_hypnos_s_2 | 食梦 | Dream Eater | 夢喰い |
 | sktok_blower | 气流 | Airflow | 源石気流 |
@@ -854,6 +860,8 @@ tip: 请善用浏览器的搜索功能
 | sktok_wfactory | 抽水 | Pump Water | 水汲み |
 | sktok_windft_wrench_1 | 可靠电池 | Reliable Battery | 高信頼性バッテリー |
 | sktok_windft_wrench_2 | 可靠电池 | Reliable Battery | 高信頼性バッテリー |
+| sktok_winfire | 点燃 | - | - |
+| sktok_winstone | 紧急点燃 | - | - |
 | sktok_wpnsts_1 | 拉特兰式冰淇淋 | Laterano-Style Gelato | ジェラート供給 |
 | sktok_wpnsts_2 | 拉特兰式冰淇淋 | Laterano-Style Gelato | ジェラート供給 |
 | sktok_xbbase | 能源设备 | Energy Facility | 動力設備 |

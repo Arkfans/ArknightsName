@@ -534,6 +534,18 @@ tip: 请善用浏览器的搜索功能
 | act2bossrush_02 | 大块头和小不点 | Big and Small | デカとチビ |
 | act2bossrush_03 | 裂地重击 | Fissure Strike | 大地割れる一撃 |
 | act2bossrush_04 | 骄阳之影 | Proud Sun's Shadow | 燦陽の影 |
+| act30side_01 | 注意事项 | - | - |
+| act30side_02 | 同车异图 | - | - |
+| act30side_03 | 临时停车 | - | - |
+| act30side_04 | 重回正轨 | - | - |
+| act30side_05 | 逃票？ | - | - |
+| act30side_06 | 补票！ | - | - |
+| act30side_07 | 制动失灵 | - | - |
+| act30side_08 | 极限时速 | - | - |
+| act30side_st01 | 候车大厅 | - | - |
+| act30side_st02 | 登山铁道 | - | - |
+| act30side_st03 | 终点站 | - | - |
+| act30side_tr01 | 安全线内 | - | - |
 | act3bossrush_01 | 适者生存 | - | - |
 | act3bossrush_02 | 惊惧与血色 | - | - |
 | act3bossrush_03 | 不测之渊 | - | - |

@@ -360,6 +360,15 @@
     "ja_JP": "防衛線突破",
     "zh_CN": "突破防线"
   },
+  "skchr_blkkgt_1": {
+    "zh_CN": "纯粹的武力"
+  },
+  "skchr_blkkgt_2": {
+    "zh_CN": "无声的嘲笑"
+  },
+  "skchr_blkkgt_3": {
+    "zh_CN": "归于宁静"
+  },
   "skchr_blkngt_1": {
     "en_US": "Drowsy",
     "ja_JP": "うたた寝",
@@ -1127,6 +1136,9 @@
     "ja_JP": "耽溺の結末",
     "zh_CN": "沉溺之灾"
   },
+  "skchr_harold_2": {
+    "zh_CN": "重症优先"
+  },
   "skchr_hbisc2_2": {
     "en_US": "Nurturing Touch",
     "ja_JP": "業の救済",
@@ -1495,6 +1507,9 @@
   },
   "skchr_lessng_3": {
     "zh_CN": "苦修破誓"
+  },
+  "skchr_leto_2": {
+    "zh_CN": "一呼百应"
   },
   "skchr_lin_1": {
     "en_US": "Elegance",
@@ -3057,6 +3072,9 @@
     "ja_JP": "猛吹雪",
     "zh_CN": "暴风雪"
   },
+  "sktok_blizzard_2": {
+    "zh_CN": "暴风雪"
+  },
   "sktok_blkngt_hypnos_s_1": {
     "en_US": "Dream Eater",
     "ja_JP": "夢喰い",
@@ -4079,6 +4097,12 @@
     "en_US": "Reliable Battery",
     "ja_JP": "高信頼性バッテリー",
     "zh_CN": "可靠电池"
+  },
+  "sktok_winfire": {
+    "zh_CN": "点燃"
+  },
+  "sktok_winstone": {
+    "zh_CN": "紧急点燃"
   },
   "sktok_wpnsts_1": {
     "en_US": "Laterano-Style Gelato",

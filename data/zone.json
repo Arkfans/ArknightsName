@@ -578,6 +578,12 @@
     "ja_JP": "強敵襲来",
     "zh_CN": "强敌当前"
   },
+  "act30side_zone1": {
+    "zh_CN": "三号站台"
+  },
+  "act30side_zone2": {
+    "zh_CN": "特快列车"
+  },
   "act3bossrush_zone1": {
     "zh_CN": "强敌当前"
   },

@@ -884,6 +884,9 @@
     "ja_JP": "ロンディニウム式巫女",
     "zh_CN": "伦式巫女"
   },
+  "char_343_tknogi@snow#6": {
+    "zh_CN": "舞"
+  },
   "char_344_beewax@epoque#9": {
     "en_US": "Weißer Sand",
     "ja_JP": "ホワイトサンド",
@@ -1116,6 +1119,9 @@
   "char_4064_mlynar@epoque#28": {
     "zh_CN": "远路"
   },
+  "char_4065_judge@snow#6": {
+    "zh_CN": "偶尔醉陶"
+  },
   "char_4071_peper@whirlwind#5": {
     "zh_CN": "来路"
   },
@@ -1231,6 +1237,9 @@
     "en_US": "Lord",
     "ja_JP": "ロード",
     "zh_CN": "领主"
+  },
+  "char_466_qanik@snow#6": {
+    "zh_CN": "回礼"
   },
   "char_469_indigo@nian#7": {
     "en_US": "Serene Day",

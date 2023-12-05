@@ -3454,6 +3454,60 @@
   "enemy_1379_ltncdt_2": {
     "zh_CN": "巫王乐团指挥家"
   },
+  "enemy_1381_winman": {
+    "zh_CN": "访问团新兵"
+  },
+  "enemy_1381_winman_2": {
+    "zh_CN": "访问团老兵"
+  },
+  "enemy_1382_winbal": {
+    "zh_CN": "访问团突击新兵"
+  },
+  "enemy_1382_winbal_2": {
+    "zh_CN": "访问团突击老兵"
+  },
+  "enemy_1383_windog": {
+    "zh_CN": "发条巡逻机器"
+  },
+  "enemy_1383_windog_2": {
+    "zh_CN": "发条战斗机器"
+  },
+  "enemy_1384_winfrz": {
+    "zh_CN": "封冻高山驮兽"
+  },
+  "enemy_1384_winfrz_2": {
+    "zh_CN": "沉眠高山驮兽"
+  },
+  "enemy_1385_winbom": {
+    "zh_CN": "“喷射罐”"
+  },
+  "enemy_1385_winbom_2": {
+    "zh_CN": "“喷爆罐”"
+  },
+  "enemy_1386_winmag": {
+    "zh_CN": "访问团术师"
+  },
+  "enemy_1386_winmag_2": {
+    "zh_CN": "访问团术师长"
+  },
+  "enemy_1387_winshd": {
+    "zh_CN": "访问团持盾者"
+  },
+  "enemy_1387_winshd_2": {
+    "zh_CN": "访问团持盾长"
+  },
+  "enemy_1388_wingnt": {
+    "zh_CN": "“投石机”"
+  },
+  "enemy_1388_wingnt_2": {
+    "zh_CN": "“榴弹炮”"
+  },
+  "enemy_1389_winbab": {
+    "zh_CN": "访问团强攻手"
+  },
+  "enemy_1389_winbab_2": {
+    "zh_CN": "访问团强攻冠军"
+  },
   "enemy_1500_skulsr": {
     "en_US": "Skullshatterer",
     "ja_JP": "SkullShredder",
@@ -3693,6 +3747,9 @@
   },
   "enemy_1548_ltniak": {
     "zh_CN": "赫尔昏佐伦，“巫王”"
+  },
+  "enemy_1549_windoc": {
+    "zh_CN": "哈洛德·克雷加文"
   },
   "enemy_2001_duckmi": {
     "en_US": "Duck Lord",

@@ -2490,6 +2490,42 @@
     "ja_JP": "燦陽の影",
     "zh_CN": "骄阳之影"
   },
+  "act30side_01": {
+    "zh_CN": "注意事项"
+  },
+  "act30side_02": {
+    "zh_CN": "同车异图"
+  },
+  "act30side_03": {
+    "zh_CN": "临时停车"
+  },
+  "act30side_04": {
+    "zh_CN": "重回正轨"
+  },
+  "act30side_05": {
+    "zh_CN": "逃票？"
+  },
+  "act30side_06": {
+    "zh_CN": "补票！"
+  },
+  "act30side_07": {
+    "zh_CN": "制动失灵"
+  },
+  "act30side_08": {
+    "zh_CN": "极限时速"
+  },
+  "act30side_st01": {
+    "zh_CN": "候车大厅"
+  },
+  "act30side_st02": {
+    "zh_CN": "登山铁道"
+  },
+  "act30side_st03": {
+    "zh_CN": "终点站"
+  },
+  "act30side_tr01": {
+    "zh_CN": "安全线内"
+  },
   "act3bossrush_01": {
     "zh_CN": "适者生存"
   },

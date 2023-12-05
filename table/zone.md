@@ -130,6 +130,8 @@ tip: 请善用浏览器的搜索功能
 | act29side_zone2 | 恩典永恒 | - | - |
 | act29side_zone3 | 权威无情 | - | - |
 | act2bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
+| act30side_zone1 | 三号站台 | - | - |
+| act30side_zone2 | 特快列车 | - | - |
 | act3bossrush_zone1 | 强敌当前 | - | - |
 | act5d0_zone1 | 下城区 | Downtown | 繁華街 |
 | act5d0_zone2 | 东部郊区 | Eastern Suburbs | 東部郊外 |

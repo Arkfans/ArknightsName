@@ -663,6 +663,12 @@
       "zh_CN": "霜叶"
     }
   },
+  "char_194_leto": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "烈夏"
+    }
+  },
   "char_195_glassb": {
     "type": "OPERATOR",
     "names": {
@@ -1995,6 +2001,18 @@
     "type": "OPERATOR",
     "names": {
       "zh_CN": "戴菲恩"
+    }
+  },
+  "char_4114_harold": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "哈洛德"
+    }
+  },
+  "char_4116_blkkgt": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "锏"
     }
   },
   "char_411_tomimi": {
@@ -3797,6 +3815,18 @@
     "type": "TRAP",
     "names": {
       "zh_CN": "创生之相"
+    }
+  },
+  "trap_137_winfire": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "紧急供暖器"
+    }
+  },
+  "trap_138_winstone": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "点火石"
     }
   },
   "trap_400_xbfarm": {
@@ -5791,6 +5821,12 @@
       "zh_CN": "伦式巫女"
     }
   },
+  "char_343_tknogi@snow#6": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "舞"
+    }
+  },
   "char_344_beewax@epoque#9": {
     "type": "SKIN",
     "names": {
@@ -6179,6 +6215,12 @@
       "zh_CN": "远路"
     }
   },
+  "char_4065_judge@snow#6": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "偶尔醉陶"
+    }
+  },
   "char_4071_peper@whirlwind#5": {
     "type": "SKIN",
     "names": {
@@ -6371,6 +6413,12 @@
       "en_US": "Lord",
       "ja_JP": "ロード",
       "zh_CN": "领主"
+    }
+  },
+  "char_466_qanik@snow#6": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "回礼"
     }
   },
   "char_469_indigo@nian#7": {
@@ -12325,6 +12373,114 @@
       "zh_CN": "巫王乐团指挥家"
     }
   },
+  "enemy_1381_winman": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "访问团新兵"
+    }
+  },
+  "enemy_1381_winman_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "访问团老兵"
+    }
+  },
+  "enemy_1382_winbal": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "访问团突击新兵"
+    }
+  },
+  "enemy_1382_winbal_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "访问团突击老兵"
+    }
+  },
+  "enemy_1383_windog": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "发条巡逻机器"
+    }
+  },
+  "enemy_1383_windog_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "发条战斗机器"
+    }
+  },
+  "enemy_1384_winfrz": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "封冻高山驮兽"
+    }
+  },
+  "enemy_1384_winfrz_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "沉眠高山驮兽"
+    }
+  },
+  "enemy_1385_winbom": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“喷射罐”"
+    }
+  },
+  "enemy_1385_winbom_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“喷爆罐”"
+    }
+  },
+  "enemy_1386_winmag": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "访问团术师"
+    }
+  },
+  "enemy_1386_winmag_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "访问团术师长"
+    }
+  },
+  "enemy_1387_winshd": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "访问团持盾者"
+    }
+  },
+  "enemy_1387_winshd_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "访问团持盾长"
+    }
+  },
+  "enemy_1388_wingnt": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“投石机”"
+    }
+  },
+  "enemy_1388_wingnt_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“榴弹炮”"
+    }
+  },
+  "enemy_1389_winbab": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "访问团强攻手"
+    }
+  },
+  "enemy_1389_winbab_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "访问团强攻冠军"
+    }
+  },
   "enemy_1500_skulsr": {
     "type": "ENEMY",
     "names": {
@@ -12713,6 +12869,12 @@
     "type": "ENEMY",
     "names": {
       "zh_CN": "赫尔昏佐伦，“巫王”"
+    }
+  },
+  "enemy_1549_windoc": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "哈洛德·克雷加文"
     }
   },
   "enemy_2001_duckmi": {
@@ -14417,6 +14579,12 @@
     "type": "ACTIVITY",
     "names": {
       "zh_CN": "登览锦绣合作活动"
+    }
+  },
+  "act30side": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "银心湖列车"
     }
   },
   "act30sign": {
@@ -17121,6 +17289,12 @@
       "zh_CN": "数据黑盒"
     }
   },
+  "act30side_token_box": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "驮兽盲盒"
+    }
+  },
   "act38d1_token_coin": {
     "type": "ITEM",
     "names": {
@@ -19727,6 +19901,12 @@
       "zh_CN": "霜叶的信物"
     }
   },
+  "p_char_194_leto": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "烈夏的信物"
+    }
+  },
   "p_char_195_glassb": {
     "type": "ITEM",
     "names": {
@@ -21031,6 +21211,18 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "戴菲恩的信物"
+    }
+  },
+  "p_char_4114_harold": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "哈洛德的信物"
+    }
+  },
+  "p_char_4116_blkkgt": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "锏的信物"
     }
   },
   "p_char_411_tomimi": {
@@ -23493,6 +23685,12 @@
       "zh_CN": "烁尘烟中"
     }
   },
+  "SINGLE_45_0_1": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "游邦者"
+    }
+  },
   "_ATTAIN_15_2_1": {
     "type": "POOL",
     "names": {
@@ -24636,6 +24834,24 @@
       "en_US": "Shield Bash",
       "ja_JP": "防衛線突破",
       "zh_CN": "突破防线"
+    }
+  },
+  "skchr_blkkgt_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "纯粹的武力"
+    }
+  },
+  "skchr_blkkgt_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "无声的嘲笑"
+    }
+  },
+  "skchr_blkkgt_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "归于宁静"
     }
   },
   "skchr_blkngt_1": {
@@ -25882,6 +26098,12 @@
       "zh_CN": "沉溺之灾"
     }
   },
+  "skchr_harold_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "重症优先"
+    }
+  },
   "skchr_hbisc2_2": {
     "type": "SKILL",
     "names": {
@@ -26486,6 +26708,12 @@
     "type": "SKILL",
     "names": {
       "zh_CN": "苦修破誓"
+    }
+  },
+  "skchr_leto_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "一呼百应"
     }
   },
   "skchr_lin_1": {
@@ -29006,6 +29234,12 @@
       "zh_CN": "暴风雪"
     }
   },
+  "sktok_blizzard_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "暴风雪"
+    }
+  },
   "sktok_blkngt_hypnos_s_1": {
     "type": "SKILL",
     "names": {
@@ -30678,6 +30912,18 @@
       "en_US": "Reliable Battery",
       "ja_JP": "高信頼性バッテリー",
       "zh_CN": "可靠电池"
+    }
+  },
+  "sktok_winfire": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "点燃"
+    }
+  },
+  "sktok_winstone": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "紧急点燃"
     }
   },
   "sktok_wpnsts_1": {
@@ -34908,6 +35154,78 @@
       "en_US": "Proud Sun's Shadow",
       "ja_JP": "燦陽の影",
       "zh_CN": "骄阳之影"
+    }
+  },
+  "act30side_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "注意事项"
+    }
+  },
+  "act30side_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "同车异图"
+    }
+  },
+  "act30side_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "临时停车"
+    }
+  },
+  "act30side_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "重回正轨"
+    }
+  },
+  "act30side_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "逃票？"
+    }
+  },
+  "act30side_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "补票！"
+    }
+  },
+  "act30side_07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "制动失灵"
+    }
+  },
+  "act30side_08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "极限时速"
+    }
+  },
+  "act30side_st01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "候车大厅"
+    }
+  },
+  "act30side_st02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "登山铁道"
+    }
+  },
+  "act30side_st03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "终点站"
+    }
+  },
+  "act30side_tr01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "安全线内"
     }
   },
   "act3bossrush_01": {
@@ -40020,6 +40338,18 @@
       "zh_CN": "强敌当前"
     }
   },
+  "act30side_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "三号站台"
+    }
+  },
+  "act30side_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "特快列车"
+    }
+  },
   "act3bossrush_zone1": {
     "type": "ZONE",
     "names": {
@@ -40922,6 +41252,12 @@
       "zh_CN": "启明"
     }
   },
+  "story_astesi_set_2_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "复耀"
+    }
+  },
   "story_aurora_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -41512,6 +41848,12 @@
       "zh_CN": "苦涩的根茎"
     }
   },
+  "story_gnosis_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "起点"
+    }
+  },
   "story_grani_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -41744,6 +42086,12 @@
       "zh_CN": "无伤通关"
     }
   },
+  "story_kjera_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "祂所关心的"
+    }
+  },
   "story_kroos_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -41772,6 +42120,12 @@
     "type": "MEMORY",
     "names": {
       "zh_CN": "司雷霆者"
+    }
+  },
+  "story_leto_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "捉迷藏"
     }
   },
   "story_ling_set_1_story_1": {

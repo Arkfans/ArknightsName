@@ -78,6 +78,9 @@
     "ja_JP": "照らし出す光",
     "zh_CN": "启明"
   },
+  "story_astesi_set_2_story_1": {
+    "zh_CN": "复耀"
+  },
   "story_aurora_set_1_story_1": {
     "en_US": "What She Saw",
     "ja_JP": "彼女の見たいもの",
@@ -434,6 +437,9 @@
     "ja_JP": "苦い根茎",
     "zh_CN": "苦涩的根茎"
   },
+  "story_gnosis_set_1_story_1": {
+    "zh_CN": "起点"
+  },
   "story_grani_set_1_story_1": {
     "zh_CN": "穷途不返"
   },
@@ -570,6 +576,9 @@
     "ja_JP": "ノーダメージクリア",
     "zh_CN": "无伤通关"
   },
+  "story_kjera_set_1_story_1": {
+    "zh_CN": "祂所关心的"
+  },
   "story_kroos_set_1_story_1": {
     "en_US": "Apples",
     "ja_JP": "林檎",
@@ -587,6 +596,9 @@
   },
   "story_leizi_set_1_story_1": {
     "zh_CN": "司雷霆者"
+  },
+  "story_leto_set_1_story_1": {
+    "zh_CN": "捉迷藏"
   },
   "story_ling_set_1_story_1": {
     "en_US": "From a Long Dream Woken",

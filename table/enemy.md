@@ -729,6 +729,24 @@ tip: 请善用浏览器的搜索功能
 | enemy_1378_ltnmst_2 | 巫王乐团调律师 | - | - |
 | enemy_1379_ltncdt | 残党乐团指挥家 | - | - |
 | enemy_1379_ltncdt_2 | 巫王乐团指挥家 | - | - |
+| enemy_1381_winman | 访问团新兵 | - | - |
+| enemy_1381_winman_2 | 访问团老兵 | - | - |
+| enemy_1382_winbal | 访问团突击新兵 | - | - |
+| enemy_1382_winbal_2 | 访问团突击老兵 | - | - |
+| enemy_1383_windog | 发条巡逻机器 | - | - |
+| enemy_1383_windog_2 | 发条战斗机器 | - | - |
+| enemy_1384_winfrz | 封冻高山驮兽 | - | - |
+| enemy_1384_winfrz_2 | 沉眠高山驮兽 | - | - |
+| enemy_1385_winbom | “喷射罐” | - | - |
+| enemy_1385_winbom_2 | “喷爆罐” | - | - |
+| enemy_1386_winmag | 访问团术师 | - | - |
+| enemy_1386_winmag_2 | 访问团术师长 | - | - |
+| enemy_1387_winshd | 访问团持盾者 | - | - |
+| enemy_1387_winshd_2 | 访问团持盾长 | - | - |
+| enemy_1388_wingnt | “投石机” | - | - |
+| enemy_1388_wingnt_2 | “榴弹炮” | - | - |
+| enemy_1389_winbab | 访问团强攻手 | - | - |
+| enemy_1389_winbab_2 | 访问团强攻冠军 | - | - |
 | enemy_1500_skulsr | 碎骨 | Skullshatterer | SkullShredder |
 | enemy_1501_demonk | 萨卡兹百夫长 | Sarkaz Centurion | サルカズケントゥリオ |
 | enemy_1502_crowns | 弑君者 | Crownslayer | CrownSlayer |
@@ -779,6 +797,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1546_cliff | “桥夹”克里夫 | - | - |
 | enemy_1547_blord | 杜卡雷，“君主之红” | - | - |
 | enemy_1548_ltniak | 赫尔昏佐伦，“巫王” | - | - |
+| enemy_1549_windoc | 哈洛德·克雷加文 | - | - |
 | enemy_2001_duckmi | 鸭爵 | Duck Lord | ダック卿 |
 | enemy_2002_bearmi | 高普尼克 | Gopnik | ゴプニク |
 | enemy_2003_rockman | 迷路的巨像 | Lost Colossus | 迷子の巨像 |

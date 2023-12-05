@@ -190,6 +190,7 @@ tip: 请善用浏览器的搜索功能
 | char_340_shwaz@striker#1 | 天际线 | Skyline | スカイライン |
 | char_341_sntlla@summer#15 | 悠然假日 HD71 | - | - |
 | char_343_tknogi@epoque#9 | 伦式巫女 | Londinium Style Miko | ロンディニウム式巫女 |
+| char_343_tknogi@snow#6 | 舞 | - | - |
 | char_344_beewax@epoque#9 | 白沙 | Weißer Sand | ホワイトサンド |
 | char_344_beewax@summer#11 | 悠然假日 HD61 | - | - |
 | char_345_folnic@wild#4 | 残葛 | Lasting Arrowroot | 残葛 |
@@ -242,6 +243,7 @@ tip: 请善用浏览器的搜索功能
 | char_4055_bgsnow@wild#7 | 字句中的雪原 | Snowy Plains in Words | 行間にある雪原 |
 | char_405_absin@epoque#28 | 正午余光 | - | - |
 | char_4064_mlynar@epoque#28 | 远路 | - | - |
+| char_4065_judge@snow#6 | 偶尔醉陶 | - | - |
 | char_4071_peper@whirlwind#5 | 来路 | - | - |
 | char_4072_ironmn@summer#11 | 沙滩护卫 GT003 | - | - |
 | char_4077_palico@mh#1 | 跃上街头 | Fly Into the Street | 街へ飛び出せ |
@@ -268,6 +270,7 @@ tip: 请善用浏览器的搜索功能
 | char_455_nothin@nian#7 | 冷山月 | Pale Rising Moon | 冷山月 |
 | char_456_ash@rainbow6#1 | 游侠 | Ranger | レンジャー |
 | char_459_tachak@rainbow6#1 | 领主 | Lord | ロード |
+| char_466_qanik@snow#6 | 回礼 | - | - |
 | char_469_indigo@nian#7 | 待晴日 | Serene Day | 待晴日 |
 | char_472_pasngr@epoque#17 | 今昔须臾之梦 | Dream In A Moment | 玉響の今在 |
 | char_473_mberry@epoque#14 | 植药 | Plant Crude Drug | 薬師 |
