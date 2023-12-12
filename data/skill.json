@@ -3034,6 +3034,9 @@
     "ja_JP": "爆発",
     "zh_CN": "爆炸"
   },
+  "sktok_beer": {
+    "zh_CN": "“蜜酿万岁！”"
+  },
   "sktok_beewax": {
     "en_US": "Summon Sand Obelisk",
     "ja_JP": "オベリスクの激震",
@@ -3456,6 +3459,15 @@
     "ja_JP": "セルカー発進！",
     "zh_CN": "自走车出击！"
   },
+  "sktok_gasbot": {
+    "zh_CN": "速效制冷"
+  },
+  "sktok_gasbota": {
+    "zh_CN": "速效制冷"
+  },
+  "sktok_gasbotb": {
+    "zh_CN": "速效制冷"
+  },
   "sktok_gasctrl": {
     "en_US": "Poison Mist Control",
     "ja_JP": "毒霧制御",
@@ -3556,6 +3568,15 @@
     "en_US": "Tuning",
     "ja_JP": "チューニング",
     "zh_CN": "调谐"
+  },
+  "sktok_mercha": {
+    "zh_CN": "战地鼓舞"
+  },
+  "sktok_merchaa": {
+    "zh_CN": "战地鼓舞"
+  },
+  "sktok_merchab": {
+    "zh_CN": "战地鼓舞"
   },
   "sktok_mgllan_drone1": {
     "en_US": "Recycle",
@@ -3914,6 +3935,15 @@
     "en_US": "Full-Auto Debit",
     "ja_JP": "全自動送金",
     "zh_CN": "全自动划账"
+  },
+  "sktok_sniper": {
+    "zh_CN": "空域控制"
+  },
+  "sktok_snipera": {
+    "zh_CN": "空域控制"
+  },
+  "sktok_sniperb": {
+    "zh_CN": "空域控制"
   },
   "sktok_stdurk_1": {
     "zh_CN": "“咔嚓！”"

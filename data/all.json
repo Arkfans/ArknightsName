@@ -4383,6 +4383,66 @@
       "zh_CN": "汲取体"
     }
   },
+  "trap_736_mercha": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "可充能督战音响"
+    }
+  },
+  "trap_737_merchaa": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "可充能督战音响"
+    }
+  },
+  "trap_738_merchab": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "可充能督战音响"
+    }
+  },
+  "trap_739_sniper": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "智能空域控制机"
+    }
+  },
+  "trap_740_snipera": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "智能空域控制机"
+    }
+  },
+  "trap_741_sniperb": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "智能空域控制机"
+    }
+  },
+  "trap_742_gasbot": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "速冷喷雾发射台"
+    }
+  },
+  "trap_743_gasbota": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "速冷喷雾发射台"
+    }
+  },
+  "trap_744_gasbotb": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "速冷喷雾发射台"
+    }
+  },
+  "trap_745_beer": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "“蜜酿万岁！”"
+    }
+  },
   "char_002_amiya@epoque#4": {
     "type": "SKIN",
     "names": {
@@ -13551,6 +13611,30 @@
     "type": "ENEMY",
     "names": {
       "zh_CN": "甜蜜派送机"
+    }
+  },
+  "enemy_6018_carrier": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“无根之怨”"
+    }
+  },
+  "enemy_6019_escort": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "播种无人机"
+    }
+  },
+  "enemy_6020_orang": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“烈酒金刚”"
+    }
+  },
+  "enemy_6021_cask": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "桶陈蜜酿"
     }
   },
   "enemy_7001_blwzad": {
@@ -29191,6 +29275,12 @@
       "zh_CN": "爆炸"
     }
   },
+  "sktok_beer": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“蜜酿万岁！”"
+    }
+  },
   "sktok_beewax": {
     "type": "SKILL",
     "names": {
@@ -29877,6 +29967,24 @@
       "zh_CN": "自走车出击！"
     }
   },
+  "sktok_gasbot": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "速效制冷"
+    }
+  },
+  "sktok_gasbota": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "速效制冷"
+    }
+  },
+  "sktok_gasbotb": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "速效制冷"
+    }
+  },
   "sktok_gasctrl": {
     "type": "SKILL",
     "names": {
@@ -30039,6 +30147,24 @@
       "en_US": "Tuning",
       "ja_JP": "チューニング",
       "zh_CN": "调谐"
+    }
+  },
+  "sktok_mercha": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "战地鼓舞"
+    }
+  },
+  "sktok_merchaa": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "战地鼓舞"
+    }
+  },
+  "sktok_merchab": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "战地鼓舞"
     }
   },
   "sktok_mgllan_drone1": {
@@ -30625,6 +30751,24 @@
       "en_US": "Full-Auto Debit",
       "ja_JP": "全自動送金",
       "zh_CN": "全自动划账"
+    }
+  },
+  "sktok_sniper": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "空域控制"
+    }
+  },
+  "sktok_snipera": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "空域控制"
+    }
+  },
+  "sktok_sniperb": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "空域控制"
     }
   },
   "sktok_stdurk_1": {
@@ -36727,6 +36871,78 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "落潮"
+    }
+  },
+  "lt_11_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "巡检作业"
+    }
+  },
+  "lt_11_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "空地协同作业"
+    }
+  },
+  "lt_11_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "喷洒作业"
+    }
+  },
+  "lt_11_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "播撒作业"
+    }
+  },
+  "lt_11_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "聚群作业"
+    }
+  },
+  "lt_11_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "净空作业"
+    }
+  },
+  "lt_12_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "骚乱肇始"
+    }
+  },
+  "lt_12_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "如此助威"
+    }
+  },
+  "lt_12_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "破栏而出"
+    }
+  },
+  "lt_12_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "增幅呐喊"
+    }
+  },
+  "lt_12_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "冲上看台"
+    }
+  },
+  "lt_12_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "阿卡胡拉之巅"
     }
   },
   "lt_tr_01": {

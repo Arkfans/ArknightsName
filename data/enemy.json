@@ -4154,6 +4154,18 @@
   "enemy_6017_icdrone": {
     "zh_CN": "甜蜜派送机"
   },
+  "enemy_6018_carrier": {
+    "zh_CN": "“无根之怨”"
+  },
+  "enemy_6019_escort": {
+    "zh_CN": "播种无人机"
+  },
+  "enemy_6020_orang": {
+    "zh_CN": "“烈酒金刚”"
+  },
+  "enemy_6021_cask": {
+    "zh_CN": "桶陈蜜酿"
+  },
   "enemy_7001_blwzad": {
     "en_US": "Tribal Shaman",
     "ja_JP": "部族呪術師",

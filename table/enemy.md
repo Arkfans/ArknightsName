@@ -887,6 +887,10 @@ tip: 请善用浏览器的搜索功能
 | enemy_6015_ictruck | “超甜微笑” | - | - |
 | enemy_6016_splash | 干渴者 | - | - |
 | enemy_6017_icdrone | 甜蜜派送机 | - | - |
+| enemy_6018_carrier | “无根之怨” | - | - |
+| enemy_6019_escort | 播种无人机 | - | - |
+| enemy_6020_orang | “烈酒金刚” | - | - |
+| enemy_6021_cask | 桶陈蜜酿 | - | - |
 | enemy_7001_blwzad | 部族巫术师 | Tribal Shaman | 部族呪術師 |
 | enemy_7001_blwzad_2 | 王酋巫术师 | Lord Ameer Shaman | 首長呪術師 |
 | enemy_7002_veingd | 矿脉守卫 | Vein Guardian | 鉱脈の守護者 |

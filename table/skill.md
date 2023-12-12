@@ -634,6 +634,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_badbox | 极诱人珍宝 | Really Alluring Treasures | 財宝の蕩めき |
 | sktok_ballis | 发射弩箭 | Bolt Launching | 射撃 |
 | sktok_bbombcard | 爆炸 | Explode | 爆発 |
+| sktok_beer | “蜜酿万岁！” | - | - |
 | sktok_beewax | 沙之碑召唤 | Summon Sand Obelisk | オベリスクの激震 |
 | sktok_bgarmn_1 | 研究成功 | Research Success | 研究成功 |
 | sktok_bgarms_1 | 研究成功 | Research Success | 研究成功 |
@@ -722,6 +723,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_frosts_friend | 寒潮 | Frigid Tide | 氷結衝撃波 |
 | sktok_garage_1 | 自走车出击！ | Self-Driving Cart, Forward! | セルカー発進！ |
 | sktok_garage_2 | 自走车出击！ | Self-Driving Cart, Forward! | セルカー発進！ |
+| sktok_gasbot | 速效制冷 | - | - |
+| sktok_gasbota | 速效制冷 | - | - |
+| sktok_gasbotb | 速效制冷 | - | - |
 | sktok_gasctrl | 毒雾控制 | Poison Mist Control | 毒霧制御 |
 | sktok_gate | 关闭闸门 | Gate Closing | シャッター |
 | sktok_gractrl | 重力生成 | Gravity Generation | 重力生成 |
@@ -743,6 +747,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_ltstat | 祈祷 | - | - |
 | sktok_machst | 强化加固 | Strengthen and Reinforce | 補強工事 |
 | sktok_magiccircle | 调谐 | Tuning | チューニング |
+| sktok_mercha | 战地鼓舞 | - | - |
+| sktok_merchaa | 战地鼓舞 | - | - |
+| sktok_merchab | 战地鼓舞 | - | - |
 | sktok_mgllan_drone1 | 回收 | Recycle | 回収 |
 | sktok_mgllan_drone2 | 回收 | Recycle | 回収 |
 | sktok_mgllan_drone3 | 回收 | Recycle | 回収 |
@@ -819,6 +826,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_smrbox | 刺人珍宝 | - | - |
 | sktok_smtree | 阻止部署 | - | - |
 | sktok_snflwr | 全自动划账 | Full-Auto Debit | 全自動送金 |
+| sktok_sniper | 空域控制 | - | - |
+| sktok_snipera | 空域控制 | - | - |
+| sktok_sniperb | 空域控制 | - | - |
 | sktok_stdurk_1 | “咔嚓！” | - | - |
 | sktok_stmbot | 水汽汽水瓶 | - | - |
 | sktok_stmpq | 景观喷泉 | - | - |

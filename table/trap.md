@@ -211,3 +211,13 @@ tip: 请善用浏览器的搜索功能
 | trap_733_cdkzmra | 竞技记录分析仪 | - | - |
 | trap_734_cdkzmrb | 竞技记录分析仪 | - | - |
 | trap_735_platre | 汲取体 | - | - |
+| trap_736_mercha | 可充能督战音响 | - | - |
+| trap_737_merchaa | 可充能督战音响 | - | - |
+| trap_738_merchab | 可充能督战音响 | - | - |
+| trap_739_sniper | 智能空域控制机 | - | - |
+| trap_740_snipera | 智能空域控制机 | - | - |
+| trap_741_sniperb | 智能空域控制机 | - | - |
+| trap_742_gasbot | 速冷喷雾发射台 | - | - |
+| trap_743_gasbota | 速冷喷雾发射台 | - | - |
+| trap_744_gasbotb | 速冷喷雾发射台 | - | - |
+| trap_745_beer | “蜜酿万岁！” | - | - |

@@ -570,6 +570,16 @@ tip: 请善用浏览器的搜索功能
 | trap_733_cdkzmra | 竞技记录分析仪 | - | - |
 | trap_734_cdkzmrb | 竞技记录分析仪 | - | - |
 | trap_735_platre | 汲取体 | - | - |
+| trap_736_mercha | 可充能督战音响 | - | - |
+| trap_737_merchaa | 可充能督战音响 | - | - |
+| trap_738_merchab | 可充能督战音响 | - | - |
+| trap_739_sniper | 智能空域控制机 | - | - |
+| trap_740_snipera | 智能空域控制机 | - | - |
+| trap_741_sniperb | 智能空域控制机 | - | - |
+| trap_742_gasbot | 速冷喷雾发射台 | - | - |
+| trap_743_gasbota | 速冷喷雾发射台 | - | - |
+| trap_744_gasbotb | 速冷喷雾发射台 | - | - |
+| trap_745_beer | “蜜酿万岁！” | - | - |
 | char_002_amiya@epoque#4 | 见习联结者 | Fresh Fastener | 見習い宅配人 |
 | char_002_amiya@test#1 | 播种者 | Seedsower | プランター |
 | char_002_amiya@winter#1 | 报童 | Newsgirl | 新聞配達員 |
@@ -1760,6 +1770,10 @@ tip: 请善用浏览器的搜索功能
 | enemy_6015_ictruck | “超甜微笑” | - | - |
 | enemy_6016_splash | 干渴者 | - | - |
 | enemy_6017_icdrone | 甜蜜派送机 | - | - |
+| enemy_6018_carrier | “无根之怨” | - | - |
+| enemy_6019_escort | 播种无人机 | - | - |
+| enemy_6020_orang | “烈酒金刚” | - | - |
+| enemy_6021_cask | 桶陈蜜酿 | - | - |
 | enemy_7001_blwzad | 部族巫术师 | Tribal Shaman | 部族呪術師 |
 | enemy_7001_blwzad_2 | 王酋巫术师 | Lord Ameer Shaman | 首長呪術師 |
 | enemy_7002_veingd | 矿脉守卫 | Vein Guardian | 鉱脈の守護者 |
@@ -3793,6 +3807,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_badbox | 极诱人珍宝 | Really Alluring Treasures | 財宝の蕩めき |
 | sktok_ballis | 发射弩箭 | Bolt Launching | 射撃 |
 | sktok_bbombcard | 爆炸 | Explode | 爆発 |
+| sktok_beer | “蜜酿万岁！” | - | - |
 | sktok_beewax | 沙之碑召唤 | Summon Sand Obelisk | オベリスクの激震 |
 | sktok_bgarmn_1 | 研究成功 | Research Success | 研究成功 |
 | sktok_bgarms_1 | 研究成功 | Research Success | 研究成功 |
@@ -3881,6 +3896,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_frosts_friend | 寒潮 | Frigid Tide | 氷結衝撃波 |
 | sktok_garage_1 | 自走车出击！ | Self-Driving Cart, Forward! | セルカー発進！ |
 | sktok_garage_2 | 自走车出击！ | Self-Driving Cart, Forward! | セルカー発進！ |
+| sktok_gasbot | 速效制冷 | - | - |
+| sktok_gasbota | 速效制冷 | - | - |
+| sktok_gasbotb | 速效制冷 | - | - |
 | sktok_gasctrl | 毒雾控制 | Poison Mist Control | 毒霧制御 |
 | sktok_gate | 关闭闸门 | Gate Closing | シャッター |
 | sktok_gractrl | 重力生成 | Gravity Generation | 重力生成 |
@@ -3902,6 +3920,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_ltstat | 祈祷 | - | - |
 | sktok_machst | 强化加固 | Strengthen and Reinforce | 補強工事 |
 | sktok_magiccircle | 调谐 | Tuning | チューニング |
+| sktok_mercha | 战地鼓舞 | - | - |
+| sktok_merchaa | 战地鼓舞 | - | - |
+| sktok_merchab | 战地鼓舞 | - | - |
 | sktok_mgllan_drone1 | 回收 | Recycle | 回収 |
 | sktok_mgllan_drone2 | 回收 | Recycle | 回収 |
 | sktok_mgllan_drone3 | 回收 | Recycle | 回収 |
@@ -3978,6 +3999,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_smrbox | 刺人珍宝 | - | - |
 | sktok_smtree | 阻止部署 | - | - |
 | sktok_snflwr | 全自动划账 | Full-Auto Debit | 全自動送金 |
+| sktok_sniper | 空域控制 | - | - |
+| sktok_snipera | 空域控制 | - | - |
+| sktok_sniperb | 空域控制 | - | - |
 | sktok_stdurk_1 | “咔嚓！” | - | - |
 | sktok_stmbot | 水汽汽水瓶 | - | - |
 | sktok_stmpq | 景观喷泉 | - | - |
@@ -4772,6 +4796,18 @@ tip: 请善用浏览器的搜索功能
 | lt_10_04 | 幻景 | - | - |
 | lt_10_05 | 裂流 | - | - |
 | lt_10_06 | 落潮 | - | - |
+| lt_11_01 | 巡检作业 | - | - |
+| lt_11_02 | 空地协同作业 | - | - |
+| lt_11_03 | 喷洒作业 | - | - |
+| lt_11_04 | 播撒作业 | - | - |
+| lt_11_05 | 聚群作业 | - | - |
+| lt_11_06 | 净空作业 | - | - |
+| lt_12_01 | 骚乱肇始 | - | - |
+| lt_12_02 | 如此助威 | - | - |
+| lt_12_03 | 破栏而出 | - | - |
+| lt_12_04 | 增幅呐喊 | - | - |
+| lt_12_05 | 冲上看台 | - | - |
+| lt_12_06 | 阿卡胡拉之巅 | - | - |
 | lt_tr_01 | 7号训练场 | Training Ground #7 | 7号訓練場 |
 | lt_tr_02 | 9号训练场 | Training Ground #9 | 9号訓練場 |
 | lt_tr_03 | 10号训练场 | Training Ground #10 | 10号訓練場 |
