@@ -171,9 +171,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_estell_2 | 舍身突击 | Sacrificial Strike | 捨て身の覚悟 |
 | skchr_ethan_1 | 花式回旋 | Fancy Maneuvers | ループザループ |
 | skchr_ethan_2 | 十字悬挂 | Suspended Cross | グラインドツイスター |
-| skchr_excu2_1 | 遗嘱执行 | - | 遺言の執行 |
-| skchr_excu2_2 | 近身铳斗 | - | 近接銃術 |
-| skchr_excu2_3 | 圣约决裁 | - | 聖約の裁き |
+| skchr_excu2_1 | 遗嘱执行 | Testament Exacted | 遺言の執行 |
+| skchr_excu2_2 | 近身铳斗 | Close Combat | 近接銃術 |
+| skchr_excu2_3 | 圣约决裁 | Damnatus Ex Foedere | 聖約の裁き |
 | skchr_excu_1 | 铳口收束 | Muzzle's Elegy | フルチョーク |
 | skchr_excu_2 | 最终旅程 | Final Journey | 終焉の旅路 |
 | skchr_f12yin_1 | 左勾扫拳 | Left Hook | 左鉤突き |
@@ -281,8 +281,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_ines_1 | 淬影突袭 | Shadow Raid | 影纏う刃 |
 | skchr_ines_2 | 暗夜无明 | Murky Night | 光亡き闇 |
 | skchr_ines_3 | 独影归途 | Solitary Return | 孤影の帰路 |
-| skchr_inside_1 | “不惹麻烦” | - | 「トラブル回避」 |
-| skchr_inside_2 | “解决麻烦” | - | 「トラブル解決」 |
+| skchr_inside_1 | “不惹麻烦” | 'Don't Invite Trouble' | 「トラブル回避」 |
+| skchr_inside_2 | “解决麻烦” | 'Problem Solver' | 「トラブル解決」 |
 | skchr_irene_1 | 起风 | Gust | 舞風 |
 | skchr_irene_2 | 裂潮 | Shattertide | 裂潮 |
 | skchr_irene_3 | 判决 | Judgment | 判決 |
@@ -509,8 +509,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_spikes_1 | 小玩笑 | Just Kidding | いたずら |
 | skchr_spikes_2 | 致命恶作剧 | Deadly Prank | フェイタルトリック |
 | skchr_spot_1 | 次级治疗模式 | Secondary Healing Mode | 第二態勢・回復 |
-| skchr_spuria_1 | 见机行事 | - | クイックドロウ |
-| skchr_spuria_2 | 临场铳械改装 | - | インスタントカスタム |
+| skchr_spuria_1 | 见机行事 | Seize the Moment | クイックドロウ |
+| skchr_spuria_2 | 临场铳械改装 | On-the-Fly Weapon Modding | インスタントカスタム |
 | skchr_sqrrel_1 | 水蒸气泵 | Steam Pump | 消火ポンプ |
 | skchr_sqrrel_2 | 高压水炮 | High-Pressure Water Cannon | 高圧放水 |
 | skchr_strong_1 | 断螯 | Shell Splitter | 蟹爪断ち |
@@ -744,7 +744,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_ling_soul2 | 笑鸣瑟 | Amidst Pleasant Melodies | 笑いて瑟を鼓せ |
 | sktok_ling_soul3 | 宁作吾 | To Remain Oneself | 寧ろ吾をなさん |
 | sktok_ltnova | 神经再生 | - | - |
-| sktok_ltstat | 祈祷 | - | 祈り |
+| sktok_ltstat | 祈祷 | Prayer | 祈り |
 | sktok_machst | 强化加固 | Strengthen and Reinforce | 補強工事 |
 | sktok_magiccircle | 调谐 | Tuning | チューニング |
 | sktok_mercha | 战地鼓舞 | - | - |
@@ -788,8 +788,8 @@ tip: 请善用浏览器的搜索功能
 | sktok_prison | 启动禁锢！ | Lock 'em Up! | 禁固機能起動！ |
 | sktok_pushtw | 气体爆喷 | Air Burst | ガス噴射 |
 | sktok_rarebox | 更诱人珍宝 | More Alluring Treasures | 財宝の蠱惑 |
-| sktok_rdblock | 阻拦 | - | 障害物 |
-| sktok_rdrepair | 修复步道 | - | 歩道修復 |
+| sktok_rdblock | 阻拦 | Intercept | 障害物 |
+| sktok_rdrepair | 修复步道 | Restore Path | 歩道修復 |
 | sktok_recodr_1 | 实体程式 | Entitative Program | 実体プログラム |
 | sktok_recodr_2 | 实体程式 | Entitative Program | 実体プログラム |
 | sktok_recyclecard | 蓄锐 | Withdraw | 温存 |
@@ -804,7 +804,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_robin_1 | 束缚“夹子” | Binding 'Clip' | バインド「クリップ」 |
 | sktok_robin_2 | 弹射“夹子” | Launching 'Clip' | バースト「クリップ」 |
 | sktok_robrta | 全自动造型仪 | Full Auto Modeler | メイクアップマシン |
-| sktok_rockfl | 塌落 | - | 崩落 |
+| sktok_rockfl | 塌落 | Collapse | 崩落 |
 | sktok_rosmon | 战术装备召唤 | Call Tactical Equipment | 戦術装備配置 |
 | sktok_salecard | 临调 | Retreat | 撤去 |
 | sktok_sandsdr_1 | 触发对话 | Trigger Dialogue | 会話発生 |

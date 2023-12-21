@@ -27,7 +27,7 @@ tip: 请善用浏览器的搜索功能
 | char_102_texas | 德克萨斯 | Texas | テキサス |
 | char_1030_noirc2 | 火龙S黑角 | Rathalos S Noir Corne | レウスSノイルホーン |
 | char_1031_slent2 | 淬羽赫默 | Silence the Paradigmatic | 淬羽サイレンス |
-| char_1032_excu2 | 圣约送葬人 | - | 聖約イグゼキュター |
+| char_1032_excu2 | 圣约送葬人 | Executor the Ex Foedere | 聖約イグゼキュター |
 | char_1033_swire2 | 琳琅诗怀雅 | - | - |
 | char_1034_jesca2 | 涤火杰西卡 | - | - |
 | char_103_angel | 能天使 | Exusiai | エクシア |
@@ -213,7 +213,7 @@ tip: 请善用浏览器的搜索功能
 | char_4011_lessng | 止颂 | - | - |
 | char_4013_kjera | 耶拉 | Kjera | イェラ |
 | char_4014_lunacu | 子月 | Lunacub | ルナカブ |
-| char_4015_spuria | 空构 | - | スプリア |
+| char_4015_spuria | 空构 | Spuria | スプリア |
 | char_4016_kazema | 风丸 | Kazemaru | カゼマル |
 | char_4017_puzzle | 谜图 | Puzzle | パズル |
 | char_4019_ncdeer | 九色鹿 | Nine-Colored Deer | 九色鹿 |
@@ -307,7 +307,7 @@ tip: 请善用浏览器的搜索功能
 | char_494_vendla | 刺玫 | - | - |
 | char_496_wildmn | 野鬃 | Wild Mane | ワイルドメイン |
 | char_497_ctable | 晓歌 | Cantabile | カンタービレ |
-| char_498_inside | 隐现 | - | インサイダー |
+| char_498_inside | 隐现 | Insider | インサイダー |
 | char_499_kaitou | 折光 | - | - |
 | char_500_noirc | 黑角 | Noir Corne | ノイルホーン |
 | char_501_durin | 杜林 | Durin | ドゥリン |

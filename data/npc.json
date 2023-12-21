@@ -175,6 +175,9 @@
     ]
   },
   "avg_1032_excu2_1": {
+    "en_US": [
+      "Federico"
+    ],
     "ja_JP": [
       "フェデリコ"
     ],
@@ -253,7 +256,9 @@
   },
   "avg_115_headbr_1": {
     "en_US": [
-      "Zima"
+      "Zima",
+      "凛冬",
+      "凛冬&烈夏"
     ],
     "ja_JP": [
       "ズィマー",
@@ -355,7 +360,8 @@
   "avg_133_mm_1": {
     "en_US": [
       "May",
-      "Metis"
+      "Metis",
+      "梅"
     ],
     "ja_JP": [
       "メイ",
@@ -381,7 +387,8 @@
   "avg_135_halo_1": {
     "en_US": [
       "Astgenne",
-      "Elena"
+      "Elena",
+      "埃琳娜"
     ],
     "ja_JP": [
       "アステジーニ",
@@ -694,6 +701,9 @@
     ]
   },
   "avg_214_kafka_1": {
+    "en_US": [
+      "Kafka"
+    ],
     "ja_JP": [
       "カフカ"
     ],
@@ -859,7 +869,8 @@
   "avg_249_mlyss_1": {
     "en_US": [
       "Muelsyse",
-      "Muelsyse?"
+      "Muelsyse?",
+      "缪尔赛思"
     ],
     "ja_JP": [
       "ミュルジス",
@@ -928,7 +939,8 @@
   },
   "avg_272_strong_1": {
     "en_US": [
-      "Jaye"
+      "Jaye",
+      "水产小贩"
     ],
     "ja_JP": [
       "ジェイ",
@@ -1267,6 +1279,9 @@
     ]
   },
   "avg_4004_pudd_1": {
+    "en_US": [
+      "Pudding"
+    ],
     "ja_JP": [
       "プリン"
     ],
@@ -1317,6 +1332,9 @@
     ]
   },
   "avg_4015_spuria_1": {
+    "en_US": [
+      "Serpilia"
+    ],
     "ja_JP": [
       "スプリア"
     ],
@@ -1386,7 +1404,9 @@
   },
   "avg_4032_provs_1": {
     "en_US": [
-      "Deszcz"
+      "Deszcz",
+      "酒量很好的客人",
+      "黛丝特"
     ],
     "ja_JP": [
       "デーシュット",
@@ -1400,6 +1420,7 @@
   },
   "avg_4036_forcer_1": {
     "en_US": [
+      "Enforcer",
       "Ezell"
     ],
     "ja_JP": [
@@ -1887,6 +1908,9 @@
     ]
   },
   "avg_466_qanik_1": {
+    "en_US": [
+      "雪绒"
+    ],
     "ja_JP": [
       "雪绒"
     ],
@@ -1935,7 +1959,8 @@
   },
   "avg_475_akafyu_1": {
     "en_US": [
-      "Akafuyu"
+      "Akafuyu",
+      "赤冬"
     ],
     "ja_JP": [
       "アカフユ",
@@ -2057,6 +2082,9 @@
     ]
   },
   "avg_493_firwhl_1": {
+    "en_US": [
+      "Agni"
+    ],
     "ja_JP": [
       "アグニ"
     ],
@@ -2102,7 +2130,8 @@
   "avg_502_Yato_1": {
     "en_US": [
       "Noir Corne",
-      "Yato"
+      "Yato",
+      "夜刀"
     ],
     "ja_JP": [
       "ノイルホーン",
@@ -2378,7 +2407,8 @@
       "Lydia",
       "Runaway Girl",
       "Servant",
-      "Young Bartender"
+      "Young Bartender",
+      "怯懦的女性"
     ],
     "ja_JP": [
       "ラナー",
@@ -2428,7 +2458,8 @@
       "Uncle Wong",
       "Village Headman",
       "Villager",
-      "Villager C"
+      "Villager C",
+      "早餐店老板"
     ],
     "ja_JP": [
       "やかましい老人",
@@ -2586,7 +2617,9 @@
       "Ugly Hooligan",
       "Violent Bounty Hunter",
       "Violent Mercenary",
-      "Vulgar Bandit"
+      "Vulgar Bandit",
+      "幸存者A",
+      "探险者A"
     ],
     "ja_JP": [
       "イライラした傭兵",
@@ -2718,7 +2751,9 @@
       "Wastelander",
       "Wounded Mercenary",
       "Wounded Warrior",
-      "Young Mercenary"
+      "Young Mercenary",
+      "幸存者B",
+      "探险者B"
     ],
     "ja_JP": [
       "アビーおじさん",
@@ -2884,7 +2919,8 @@
       "Rhodes Island Operator B",
       "Sandwheel",
       "Tired Rhodes Island Operator",
-      "Vanguard Operator A"
+      "Vanguard Operator A",
+      "实习干员A"
     ],
     "ja_JP": [
       "エンジニア",
@@ -3037,10 +3073,12 @@
       "Charlie",
       "Cronin's Bodyguard",
       "Cronin's Henchman",
+      "Event Security Detail",
       "Investigator",
       "Mine Guard",
       "Organizing Committee Member",
       "Otti",
+      "Party Security Detail",
       "Raythean Industries Security",
       "Security Chief",
       "Security Guard B",
@@ -3101,7 +3139,9 @@
       "Male Tourist A",
       "Passerby A",
       "Shopkeeper B",
-      "Tabloid Reporter"
+      "Tabloid Reporter",
+      "冒失的青年",
+      "电玩城员工？"
     ],
     "ja_JP": [
       "冒失的青年",
@@ -3348,7 +3388,9 @@
       "Slum Infected",
       "Staged(?) Female Passerby",
       "Trapped Lungmen Citizen",
-      "Young Citizen A"
+      "Ye Zizhen",
+      "Young Citizen A",
+      "路过的食客"
     ],
     "ja_JP": [
       "やけに感心する女性",
@@ -3450,7 +3492,10 @@
       "Subordinate",
       "Vicious-Looking Lou Seoi Member",
       "Young Citizen B",
-      "Young Victim"
+      "Young Victim",
+      "兴奋的青年",
+      "精明的青年",
+      "街道管理员？"
     ],
     "ja_JP": [
       "イベント参加者？",
@@ -3653,7 +3698,8 @@
   "avg_npc_039_1": {
     "en_US": [
       "Censor",
-      "Leizi"
+      "Leizi",
+      "Lin Qingyan"
     ],
     "ja_JP": [
       "リン・チンイェン",
@@ -3681,6 +3727,9 @@
     ]
   },
   "avg_npc_041": {
+    "en_US": [
+      "Jie Zhen"
+    ],
     "ja_JP": [
       "シエ・ジェン"
     ],
@@ -4657,6 +4706,7 @@
       "Anxious Young Operator",
       "Assistant Operator",
       "Caster Operator",
+      "Celica",
       "Engineering Operator",
       "Field Operator A",
       "Hawking Operator",
@@ -4667,8 +4717,11 @@
       "Rhodes Island Field Operator",
       "Rhodes Island Operator",
       "Rhodes Island Operator A",
+      "Rookie Engineering Operator",
       "Steady Rhodes Island Operator",
-      "Young Studying Operator"
+      "Young Studying Operator",
+      "人事部干员",
+      "席琳"
     ],
     "ja_JP": [
       "エンジニアオペレーター",
@@ -4729,7 +4782,8 @@
       "Rhodes Island Operator",
       "Seanson",
       "Seasoned Rhodes Island Operator",
-      "Sniper Operator"
+      "Sniper Operator",
+      "实习干员B"
     ],
     "ja_JP": [
       "シュレッダー",
@@ -4779,7 +4833,9 @@
       "Reserve Operator",
       "Rhodes Island Field Operator A",
       "Rhodes Island Operator",
-      "Serious Operator"
+      "Serious Operator",
+      "实习干员C",
+      "罗德岛干员"
     ],
     "ja_JP": [
       "ウィル",
@@ -5765,7 +5821,8 @@
       "Stonemason",
       "Vigilant Villager",
       "Villager",
-      "Villager B"
+      "Villager B",
+      "街边摊老板"
     ],
     "ja_JP": [
       "一番弟子",
@@ -6197,6 +6254,7 @@
       "Calm Councilor",
       "Caravan Head",
       "Cheery Actress",
+      "Female Designer",
       "Hesitant Ambassador",
       "Kind-Faced Noble",
       "Merry Noblewoman",
@@ -6261,6 +6319,7 @@
       "Enthusiastic Merchant",
       "Genial Noble",
       "Greedy Businessman",
+      "Host",
       "Local Judge A",
       "Mayor",
       "Noble Gentleman",
@@ -6517,7 +6576,9 @@
   },
   "avg_npc_187": {
     "en_US": [
-      "Male Inhabitant B"
+      "Male Inhabitant B",
+      "Male Monastery Inhabitant",
+      "Panicked Inhabitant"
     ],
     "ja_JP": [
       "うろたえる住民",
@@ -6531,6 +6592,9 @@
     ]
   },
   "avg_npc_188": {
+    "en_US": [
+      "Anxious Inhabitant"
+    ],
     "ja_JP": [
       "苛立つ住民"
     ],
@@ -6540,7 +6604,8 @@
   },
   "avg_npc_189": {
     "en_US": [
-      "Male Inhabitant D"
+      "Male Inhabitant D",
+      "Monastery Inhabitant"
     ],
     "ja_JP": [
       "修道院住民",
@@ -7093,7 +7158,9 @@
     "en_US": [
       "A Competing Knight",
       "A Kazimierz Knight",
-      "Armor-clad Knight"
+      "Armor-clad Knight",
+      "佐恩",
+      "剃刀骑士"
     ],
     "ja_JP": [
       "カジミエーシュ騎士",
@@ -7166,7 +7233,9 @@
       "Raythean Industries Representative",
       "Secretary",
       "Serious Corporate Employee",
-      "Staff"
+      "Staff",
+      "Staff Worker",
+      "公诉人"
     ],
     "ja_JP": [
       "カジミエーシュ代表",
@@ -7231,7 +7300,8 @@
       "Snobby Official",
       "Staff Worker",
       "Tired Corporate Employee",
-      "Witness"
+      "Witness",
+      "骑探"
     ],
     "ja_JP": [
       "ジェリー",
@@ -8790,6 +8860,7 @@
     "en_US": [
       "Devout Citizen",
       "Lateran Citizen?",
+      "Nervous Youth",
       "Panicked Underling of Patia",
       "Reserved Hospital Attendant"
     ],
@@ -8815,10 +8886,13 @@
       "Composed Lateran Citizen",
       "Conscientious Doctor",
       "Joyous Lateran Citizen",
+      "Laid-Back Passerby",
       "Not-So-Candid Stall Owner",
       "Sedate Lateran Citizen",
+      "Spirited Lateran",
       "Still-Trying-to-be-Candid Stall Owner",
-      "Trying-to-Smile-Anyway Stall Owner"
+      "Trying-to-Smile-Anyway Stall Owner",
+      "Veteran Lateran Commando"
     ],
     "ja_JP": [
       "うれしそうな市民",
@@ -8854,7 +8928,9 @@
     "en_US": [
       "Amiable Hospital Attendant",
       "Ardent Lateran Citizen",
-      "Hotel Manager"
+      "Chatting Passerby",
+      "Hotel Manager",
+      "Joyous Lateran"
     ],
     "ja_JP": [
       "優しい市民",
@@ -8877,6 +8953,7 @@
       "Agitated Citizen",
       "Blabbermouth Hospital Attendant",
       "Intellectual Lateran Citizen",
+      "Notarial Hall Official",
       "Relaxed Lateran Citizen",
       "Troubled Lateran Citizen"
     ],
@@ -8900,6 +8977,8 @@
   "avg_npc_369_1": {
     "en_US": [
       "Cheerful Cleric",
+      "Cleric",
+      "Cleric?",
       "Friar",
       "Pious Cleric",
       "Sister",
@@ -8935,6 +9014,11 @@
     ]
   },
   "avg_npc_371_1": {
+    "en_US": [
+      "Pontifica Cohors Member",
+      "Pontifica Cohors Member?",
+      "Young Lateran Commando"
+    ],
     "ja_JP": [
       "護衛隊メンバー",
       "護衛隊メンバー？",
@@ -9914,6 +9998,9 @@
     ]
   },
   "avg_npc_490_1": {
+    "en_US": [
+      "Arturia"
+    ],
     "ja_JP": [
       "アルトリア"
     ],
@@ -9923,6 +10010,7 @@
   },
   "avg_npc_491_1": {
     "en_US": [
+      "'Gesandte des Kurfürsten'",
       "Bodyguard",
       "Reckless Caster",
       "Spire Caster"
@@ -9973,6 +10061,7 @@
   },
   "avg_npc_493_1": {
     "en_US": [
+      "Blanche",
       "Calm Noble",
       "Fretful Noble",
       "Leithanian Noble",
@@ -10155,6 +10244,7 @@
     "en_US": [
       "Andante",
       "Medic Operator",
+      "Medical Department Operator",
       "Rhodes Island Operator",
       "Woman in Operator Attire"
     ],
@@ -10186,7 +10276,8 @@
   },
   "avg_npc_522_1": {
     "en_US": [
-      "Ferdinand"
+      "Ferdinand",
+      "斐尔迪南"
     ],
     "ja_JP": [
       "フェルディナンド",
@@ -10344,7 +10435,10 @@
       "Rhine Lab Tech",
       "Rhine Researcher",
       "Rhine Staff",
-      "Rhine Staff A"
+      "Rhine Staff A",
+      "生态科研究员",
+      "生态科研究员B",
+      "莱茵实验员A"
     ],
     "ja_JP": [
       "ライン生命研究員",
@@ -10376,13 +10470,16 @@
   },
   "avg_npc_530_1": {
     "en_US": [
+      "Apprehensive Rhine Lab Tech",
       "Energy Section Researcher",
       "Researcher",
       "Researcher A",
       "Researcher C",
       "Rhine Lab Tech",
       "Rhine Staff B",
-      "Rhine Staff?"
+      "Rhine Staff?",
+      "生态科研究员A",
+      "莱茵实验员B"
     ],
     "ja_JP": [
       "エネルギー課研究員",
@@ -12488,6 +12585,10 @@
     ]
   },
   "avg_npc_923_1": {
+    "en_US": [
+      "Abbot",
+      "Gaunt Old Man"
+    ],
     "ja_JP": [
       "やつれた老人",
       "修道院司教"
@@ -12499,6 +12600,10 @@
     ]
   },
   "avg_npc_924_1": {
+    "en_US": [
+      "Clément",
+      "Gaunt Man"
+    ],
     "ja_JP": [
       "やつれた男性",
       "クレマン"
@@ -12510,6 +12615,9 @@
     ]
   },
   "avg_npc_925_1": {
+    "en_US": [
+      "Lemuen"
+    ],
     "ja_JP": [
       "レミュアン"
     ],
@@ -12518,6 +12626,10 @@
     ]
   },
   "avg_npc_926_1": {
+    "en_US": [
+      "Gerald",
+      "Weathered Hunter"
+    ],
     "ja_JP": [
       "ジェラルド",
       "手練れの猟師"
@@ -12528,6 +12640,10 @@
     ]
   },
   "avg_npc_927_1": {
+    "en_US": [
+      "Fortuna",
+      "Sankta Girl"
+    ],
     "ja_JP": [
       "サンクタの少女",
       "フォルトゥナ"
@@ -12538,6 +12654,13 @@
     ]
   },
   "avg_npc_928_1": {
+    "en_US": [
+      "Erendel",
+      "Estara & Erendel",
+      "Lively Child",
+      "Raggedly-Dressed Boy",
+      "Shy Child & Lively Child"
+    ],
     "ja_JP": [
       "エスタラ&エレンデル",
       "エレンデル",
@@ -12554,6 +12677,11 @@
     ]
   },
   "avg_npc_929_1": {
+    "en_US": [
+      "Estara",
+      "Raggedly-Dressed Girl",
+      "Shy Child"
+    ],
     "ja_JP": [
       "エスタラ",
       "照れ屋な子供",
@@ -12566,6 +12694,11 @@
     ]
   },
   "avg_npc_930_1": {
+    "en_US": [
+      "'Twisted Monster'",
+      "Hyman",
+      "Twisted Monster"
+    ],
     "ja_JP": [
       "「うごめく化け物」",
       "うごめく化け物",
@@ -12578,6 +12711,10 @@
     ]
   },
   "avg_npc_931_1": {
+    "en_US": [
+      "Bulky Youth",
+      "Raimund"
+    ],
     "ja_JP": [
       "たくましい青年",
       "ライムント"
@@ -12588,6 +12725,10 @@
     ]
   },
   "avg_npc_932_1": {
+    "en_US": [
+      "Angry Sarkaz",
+      "Cautious Sarkaz Inhabitant"
+    ],
     "ja_JP": [
       "怒るサルカズ住民",
       "慎重なサルカズ住民"
@@ -12601,6 +12742,10 @@
     ]
   },
   "avg_npc_933_1": {
+    "en_US": [
+      "Fernand",
+      "Hot-Headed Sarkaz"
+    ],
     "ja_JP": [
       "フェルナンド",
       "短気なサルカズ住民"
@@ -12612,6 +12757,11 @@
     ]
   },
   "avg_npc_934_1": {
+    "en_US": [
+      "Concerned Sarkaz",
+      "Frightened Sarkaz",
+      "Monastery Inhabitant"
+    ],
     "ja_JP": [
       "修道院住民",
       "心配するサルカズ住民",
@@ -12624,6 +12774,10 @@
     ]
   },
   "avg_npc_935_1": {
+    "en_US": [
+      "Caroline",
+      "Sarkaz Resident"
+    ],
     "ja_JP": [
       "カロリン",
       "サルカズ住民"
@@ -12636,6 +12790,10 @@
     ]
   },
   "avg_npc_936_1": {
+    "en_US": [
+      "Delfina",
+      "Solemn Girl"
+    ],
     "ja_JP": [
       "デルフィナ",
       "生真面目な少女"
@@ -12646,6 +12804,10 @@
     ]
   },
   "avg_npc_937_1": {
+    "en_US": [
+      "Calm Inhabitant",
+      "Female Monastery Inhabitant"
+    ],
     "ja_JP": [
       "修道院の女性住民",
       "冷静な住民"
@@ -12656,6 +12818,10 @@
     ]
   },
   "avg_npc_939_1": {
+    "en_US": [
+      "Gaunt Monastery Inhabitant",
+      "Jori"
+    ],
     "ja_JP": [
       "ヨリー",
       "瘦せこけた修道院住民"
@@ -12666,6 +12832,11 @@
     ]
   },
   "avg_npc_940_1": {
+    "en_US": [
+      "Julian",
+      "Monastery Inhabitant",
+      "Startled Inhabitant"
+    ],
     "ja_JP": [
       "ジュリアン",
       "修道院住民",
@@ -12678,6 +12849,10 @@
     ]
   },
   "avg_npc_941_1": {
+    "en_US": [
+      "Aulus",
+      "Gentle Priest"
+    ],
     "ja_JP": [
       "アウルス",
       "穏やかな宣教師"
@@ -12688,6 +12863,9 @@
     ]
   },
   "avg_npc_942_1": {
+    "en_US": [
+      "Mudrock"
+    ],
     "ja_JP": [
       "マドロック"
     ],
@@ -12696,6 +12874,11 @@
     ]
   },
   "avg_npc_962_1": {
+    "en_US": [
+      "冰原居民A",
+      "冰原居民B",
+      "鞘叶榉"
+    ],
     "ja_JP": [
       "冰原居民A",
       "冰原居民B",
@@ -12712,6 +12895,10 @@
     ]
   },
   "avg_npc_963_1": {
+    "en_US": [
+      "冰原棉草",
+      "雪绒母亲"
+    ],
     "ja_JP": [
       "冰原棉草",
       "雪绒母亲"
@@ -12741,6 +12928,9 @@
     ]
   },
   "avg_npc_966_1": {
+    "en_US": [
+      "方形葵"
+    ],
     "ja_JP": [
       "方形葵"
     ],
@@ -13942,7 +14132,9 @@
   },
   "char_150_snakekiller_1": {
     "en_US": [
-      "Cuora"
+      "Cuora",
+      "卡缇&蛇屠箱",
+      "蛇屠箱"
     ],
     "ja_JP": [
       "クオーラ",
@@ -14002,7 +14194,8 @@
     "en_US": [
       "????",
       "Vulcan",
-      "Vulcan."
+      "Vulcan.",
+      "火神"
     ],
     "ja_JP": [
       "ヴァルカン",
@@ -14179,7 +14372,8 @@
   "char_194_rosali_1": {
     "en_US": [
       "Leto",
-      "Rosalind"
+      "Rosalind",
+      "烈夏"
     ],
     "ja_JP": [
       "リェータ",
@@ -14194,7 +14388,8 @@
   "char_195_glassb_2": {
     "en_US": [
       "Anna",
-      "Istina"
+      "Istina",
+      "真理"
     ],
     "ja_JP": [
       "アンナ",
@@ -14209,7 +14404,8 @@
   "char_196_sunbr_1": {
     "en_US": [
       "Gummy",
-      "Lada"
+      "Lada",
+      "古米"
     ],
     "ja_JP": [
       "グム",
@@ -14235,7 +14431,8 @@
   "char_197_poca_1": {
     "en_US": [
       "Natalya",
-      "Rosa"
+      "Rosa",
+      "早露"
     ],
     "ja_JP": [
       "ナターリア",
@@ -14396,7 +14593,8 @@
   "char_209_ardign": {
     "en_US": [
       "Cardigan",
-      "Merry"
+      "Merry",
+      "卡缇"
     ],
     "ja_JP": [
       "カーディ",
@@ -14421,7 +14619,8 @@
   },
   "char_211_adnach_1": {
     "en_US": [
-      "Adnachiel"
+      "Adnachiel",
+      "安德切尔"
     ],
     "ja_JP": [
       "アドナキエル",
@@ -15581,7 +15780,8 @@
   },
   "char_500_noirc_1": {
     "en_US": [
-      "Noir Corne"
+      "Noir Corne",
+      "黑角"
     ],
     "ja_JP": [
       "ノイルホーン",
@@ -15593,7 +15793,8 @@
   },
   "char_503_rang": {
     "en_US": [
-      "Rangers"
+      "Rangers",
+      "巡林者"
     ],
     "ja_JP": [
       "レンジャー",

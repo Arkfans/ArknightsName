@@ -548,18 +548,22 @@
     "zh_CN": "“过去的我”"
   },
   "trap_117_ltstat": {
+    "en_US": "Holy Statue",
     "ja_JP": "聖像",
     "zh_CN": "圣像"
   },
   "trap_118_rockfl": {
+    "en_US": "Crumbling Masonry",
     "ja_JP": "崩れた壁",
     "zh_CN": "塌落的墙垣"
   },
   "trap_119_rdrepair": {
+    "en_US": "Spare Timber",
     "ja_JP": "予備木材",
     "zh_CN": "备用木材"
   },
   "trap_120_rdblock": {
+    "en_US": "Shabby Fence",
     "ja_JP": "朽ちた木の柵",
     "zh_CN": "破旧的木篱"
   },

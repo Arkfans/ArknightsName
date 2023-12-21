@@ -648,21 +648,21 @@ tip: 请善用浏览器的搜索功能
 | enemy_1333_cbbgen | “交通警察” | 'Traffic Officer' | 「交通巡査」 |
 | enemy_1333_cbbgen_2 | “交通警长” | 'Traffic Officer Captain' | 「交通巡査長」 |
 | enemy_1334_ristar | 行星碎屑 | Planetary Debris | 「惑星の破片」 |
-| enemy_1335_bldrat | 啮齿兽 | - | 齧歯獣 |
-| enemy_1335_bldrat_2 | 饥饿啮齿兽 | - | 凶暴齧歯獣 |
-| enemy_1336_bldbat | 伏翼兽 | - | 伏翼獣 |
-| enemy_1336_bldbat_2 | 惊躁伏翼兽 | - | 凶暴伏翼獣 |
-| enemy_1337_bhrknf | 荒原窃盗者 | - | 荒野の盗賊 |
-| enemy_1337_bhrknf_2 | 荒原窃盗者精英 | - | 荒野の精鋭盗賊 |
-| enemy_1338_bhrjst | 荒原潜伏者 | - | 荒野の暗躍者 |
-| enemy_1338_bhrjst_2 | 荒原潜伏者精英 | - | 荒野の精鋭暗躍者 |
-| enemy_1339_bhrgrd | 荒原劫掠者 | - | 荒野の略奪者 |
-| enemy_1339_bhrgrd_2 | 荒原劫掠者精英 | - | 荒野の精鋭略奪者 |
-| enemy_1340_bthtbw | 赏金猎人弩手 | - | 賞金稼ぎ射撃手 |
-| enemy_1340_bthtbw_2 | 赏金猎人弩手队长 | - | 賞金稼ぎ精鋭射撃手 |
-| enemy_1341_bthtms | 赏金猎人扰乱者 | - | 賞金稼ぎ撹乱者 |
-| enemy_1341_bthtms_2 | 赏金猎人扰乱者队长 | - | 賞金稼ぎ精鋭撹乱者 |
-| enemy_1342_frtuna | 堕天使福尔图娜 | - | 堕天使フォルトゥナ |
+| enemy_1335_bldrat | 啮齿兽 | Gnawbeast | 齧歯獣 |
+| enemy_1335_bldrat_2 | 饥饿啮齿兽 | Starving Gnawbeast | 凶暴齧歯獣 |
+| enemy_1336_bldbat | 伏翼兽 | Vesperwing | 伏翼獣 |
+| enemy_1336_bldbat_2 | 惊躁伏翼兽 | Startled Vesperwing | 凶暴伏翼獣 |
+| enemy_1337_bhrknf | 荒原窃盗者 | Wasteland Robber | 荒野の盗賊 |
+| enemy_1337_bhrknf_2 | 荒原窃盗者精英 | Elite Wasteland Robber | 荒野の精鋭盗賊 |
+| enemy_1338_bhrjst | 荒原潜伏者 | Wasteland Skulker | 荒野の暗躍者 |
+| enemy_1338_bhrjst_2 | 荒原潜伏者精英 | Elite Wasteland Skulker | 荒野の精鋭暗躍者 |
+| enemy_1339_bhrgrd | 荒原劫掠者 | Wasteland Plunderer | 荒野の略奪者 |
+| enemy_1339_bhrgrd_2 | 荒原劫掠者精英 | Elite Wasteland Plunderer | 荒野の精鋭略奪者 |
+| enemy_1340_bthtbw | 赏金猎人弩手 | Bounty Hunter Crossbowman | 賞金稼ぎ射撃手 |
+| enemy_1340_bthtbw_2 | 赏金猎人弩手队长 | Bounty Hunter Crossbowman Captain | 賞金稼ぎ精鋭射撃手 |
+| enemy_1341_bthtms | 赏金猎人扰乱者 | Bounty Hunter Disruptor | 賞金稼ぎ撹乱者 |
+| enemy_1341_bthtms_2 | 赏金猎人扰乱者队长 | Bounty Hunter Disruptor Captain | 賞金稼ぎ精鋭撹乱者 |
+| enemy_1342_frtuna | 堕天使福尔图娜 | Fortuna, Fallen Angel | 堕天使フォルトゥナ |
 | enemy_1344_ddlamb | 温泉“淘气包” | - | - |
 | enemy_1344_ddlamb_2 | 温泉“乐淘淘气包” | - | - |
 | enemy_1345_tplamb | 风情街“操盘手” | - | - |
@@ -763,7 +763,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1513_dekght | 腐败骑士 | Corrupted Knight | 腐敗騎士 |
 | enemy_1513_dekght_2 | 凋零骑士 | Withered Knight | 凋零騎士 |
 | enemy_1514_smephi | 梅菲斯特，“歌者” | Mephisto, 'The Singer' | Mephisto・歌う者 |
-| enemy_1515_bsnake | “不死的黑蛇” | 'The Deathless Black Snake' | 「不死の黒蛇」 |
+| enemy_1515_bsnake | “不死的黑蛇” | 'Deathless Black Snake' | 「不死の黒蛇」 |
 | enemy_1516_jakill | 杰斯顿·威廉姆斯 | Jesselton Williams | ジェッセルトン・ウィリアムズ |
 | enemy_1517_xi | “自在” | 'Free' | 「ジザイ」 |
 | enemy_1519_bgball | “进化的本质” | 'Essence of Evolution' | 「進化の本質」 |
@@ -782,7 +782,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1532_minima | “物欲拮抗者” | 'Materialist Antagonizer' | 「物欲の拮抗者」 |
 | enemy_1533_stmkgt | “最后的蒸汽骑士” | 'The Last Steam Knight' | 「最後の蒸気騎士」 |
 | enemy_1535_wlfmster | 扎罗，“狼之主” | Zaaro, Signore dei Lupi | 「狼主」ザーロ |
-| enemy_1536_ncrmcr | “领袖” | 'The Leader'  | 「リーダー」 |
+| enemy_1536_ncrmcr | “领袖” | 'The Leader' | 「リーダー」 |
 | enemy_1537_mhrors | 火龙 | Rathalos | リオレウス |
 | enemy_1538_ymmons | “睚” | 'Ya' | 「睚」 |
 | enemy_1538_ymmons_2 | 蜃景 | Mirage | 蜃気楼 |
@@ -792,7 +792,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1541_wdslms | “变形者集群” | 'Damazti Cluster' | 「変形者」 |
 | enemy_1542_wdslm | “变形者集群” | 'Damazti Cluster' | 「変形者」 |
 | enemy_1543_cstlrs | 克丽斯腾 | Kristen | クリステン |
-| enemy_1544_cledub | “花匠” | - | 「ガーデナー」 |
+| enemy_1544_cledub | “花匠” | 'The Gardener' | 「ガーデナー」 |
 | enemy_1545_shpkg | 多利，“羊之主” | - | - |
 | enemy_1546_cliff | “桥夹”克里夫 | - | - |
 | enemy_1547_blord | 杜卡雷，“君主之红” | - | - |
@@ -860,16 +860,16 @@ tip: 请善用浏览器的搜索功能
 | enemy_3002_ftrtal | 斗士塔露拉 | Talulah, the Fighter | 闘士タルラ |
 | enemy_3003_alymot | 大奖赛运输艇 | Competition Transport Vessel | 大会輸送艇 |
 | enemy_3004_speople | 叙拉古平民 | Siracusan Civilian | シラクーザの市民 |
-| enemy_3005_lpeopl | 修道院居民 | - | 修道院の住民 |
-| enemy_3005_lpeopl_2 | 修道院居民 | - | 修道院の住民 |
+| enemy_3005_lpeopl | 修道院居民 | Monastery Inhabitant | 修道院の住民 |
+| enemy_3005_lpeopl_2 | 修道院居民 | Monastery Inhabitant | 修道院の住民 |
 | enemy_4001_toxcar | 改造瓦斯车 | Retrofitted Gastruck | 改造ガス車 |
 | enemy_4001_toxcar_2 | 高能瓦斯车 | Supercharged Gastruck | 拡容改造ガス車 |
 | enemy_4002_syokai | 二手廉价无人机 | Cheap Second-hand Drone | 中古低価ドローン |
 | enemy_4002_syokai_2 | 二手改装无人机 | Remodeled Second-hand Drone | 中古改造ドローン |
 | enemy_4003_pbank | 移动电源 | Mobile Power Source | 移動電源 |
-| enemy_5008_cstrwd | 艺术的慈悲! | - | 芸術の慈悲！ |
-| enemy_5009_shtrwd | 艺术的绝杀! | - | 芸術の必殺技！ |
-| enemy_5010_catrdg | 弱弹 | - | 弱い弾 |
+| enemy_5008_cstrwd | 艺术的慈悲! | The Boons of Art! | 芸術の慈悲！ |
+| enemy_5009_shtrwd | 艺术的绝杀! | The Clutchness of Art! | 芸術の必殺技！ |
+| enemy_5010_catrdg | 弱弹 | Weaksauce | 弱い弾 |
 | enemy_6001_trsgst | 飞腿毛贼 | Fleet-footed Thief | コソ泥フライ |
 | enemy_6002_trswlf | 流眼泪侦探 | Teary Detective | 涙眼の探偵 |
 | enemy_6003_trsslm | “闪亮噗噜” | 'Shiny Pooloo' | 「キラプル」 |

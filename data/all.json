@@ -176,6 +176,7 @@
   "char_1032_excu2": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Executor the Ex Foedere",
       "ja_JP": "聖約イグゼキュター",
       "zh_CN": "圣约送葬人"
     }
@@ -1649,6 +1650,7 @@
   "char_4015_spuria": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Spuria",
       "ja_JP": "スプリア",
       "zh_CN": "空构"
     }
@@ -2370,6 +2372,7 @@
   "char_498_inside": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Insider",
       "ja_JP": "インサイダー",
       "zh_CN": "隐现"
     }
@@ -3703,6 +3706,7 @@
   "trap_117_ltstat": {
     "type": "TRAP",
     "names": {
+      "en_US": "Holy Statue",
       "ja_JP": "聖像",
       "zh_CN": "圣像"
     }
@@ -3710,6 +3714,7 @@
   "trap_118_rockfl": {
     "type": "TRAP",
     "names": {
+      "en_US": "Crumbling Masonry",
       "ja_JP": "崩れた壁",
       "zh_CN": "塌落的墙垣"
     }
@@ -3717,6 +3722,7 @@
   "trap_119_rdrepair": {
     "type": "TRAP",
     "names": {
+      "en_US": "Spare Timber",
       "ja_JP": "予備木材",
       "zh_CN": "备用木材"
     }
@@ -3724,6 +3730,7 @@
   "trap_120_rdblock": {
     "type": "TRAP",
     "names": {
+      "en_US": "Shabby Fence",
       "ja_JP": "朽ちた木の柵",
       "zh_CN": "破旧的木篱"
     }
@@ -6001,6 +6008,7 @@
   "char_362_saga@sale#9": {
     "type": "SKIN",
     "names": {
+      "en_US": "There They Be",
       "ja_JP": "彼有",
       "zh_CN": "彼有"
     }
@@ -6170,6 +6178,7 @@
   "char_4025_aprot2@whirlwind#5": {
     "type": "SKIN",
     "names": {
+      "en_US": "The Fruition",
       "ja_JP": "結実",
       "zh_CN": "结果"
     }
@@ -6255,6 +6264,7 @@
   "char_4047_pianst@wild#8": {
     "type": "SKIN",
     "names": {
+      "en_US": "Freeland Tuneseeker",
       "ja_JP": "荒野に音尋ね",
       "zh_CN": "荒野寻音"
     }
@@ -6300,6 +6310,7 @@
   "char_4071_peper@whirlwind#5": {
     "type": "SKIN",
     "names": {
+      "en_US": "The Road to Here",
       "ja_JP": "来た道",
       "zh_CN": "来路"
     }
@@ -6405,6 +6416,7 @@
   "char_430_fartth@whirlwind#5": {
     "type": "SKIN",
     "names": {
+      "en_US": "Hear the Wind Sing",
       "ja_JP": "風をとらえて",
       "zh_CN": "捉风"
     }
@@ -11974,6 +11986,7 @@
   "enemy_1335_bldrat": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Gnawbeast",
       "ja_JP": "齧歯獣",
       "zh_CN": "啮齿兽"
     }
@@ -11981,6 +11994,7 @@
   "enemy_1335_bldrat_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Starving Gnawbeast",
       "ja_JP": "凶暴齧歯獣",
       "zh_CN": "饥饿啮齿兽"
     }
@@ -11988,6 +12002,7 @@
   "enemy_1336_bldbat": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Vesperwing",
       "ja_JP": "伏翼獣",
       "zh_CN": "伏翼兽"
     }
@@ -11995,6 +12010,7 @@
   "enemy_1336_bldbat_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Startled Vesperwing",
       "ja_JP": "凶暴伏翼獣",
       "zh_CN": "惊躁伏翼兽"
     }
@@ -12002,6 +12018,7 @@
   "enemy_1337_bhrknf": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Wasteland Robber",
       "ja_JP": "荒野の盗賊",
       "zh_CN": "荒原窃盗者"
     }
@@ -12009,6 +12026,7 @@
   "enemy_1337_bhrknf_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Elite Wasteland Robber",
       "ja_JP": "荒野の精鋭盗賊",
       "zh_CN": "荒原窃盗者精英"
     }
@@ -12016,6 +12034,7 @@
   "enemy_1338_bhrjst": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Wasteland Skulker",
       "ja_JP": "荒野の暗躍者",
       "zh_CN": "荒原潜伏者"
     }
@@ -12023,6 +12042,7 @@
   "enemy_1338_bhrjst_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Elite Wasteland Skulker",
       "ja_JP": "荒野の精鋭暗躍者",
       "zh_CN": "荒原潜伏者精英"
     }
@@ -12030,6 +12050,7 @@
   "enemy_1339_bhrgrd": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Wasteland Plunderer",
       "ja_JP": "荒野の略奪者",
       "zh_CN": "荒原劫掠者"
     }
@@ -12037,6 +12058,7 @@
   "enemy_1339_bhrgrd_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Elite Wasteland Plunderer",
       "ja_JP": "荒野の精鋭略奪者",
       "zh_CN": "荒原劫掠者精英"
     }
@@ -12044,6 +12066,7 @@
   "enemy_1340_bthtbw": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Bounty Hunter Crossbowman",
       "ja_JP": "賞金稼ぎ射撃手",
       "zh_CN": "赏金猎人弩手"
     }
@@ -12051,6 +12074,7 @@
   "enemy_1340_bthtbw_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Bounty Hunter Crossbowman Captain",
       "ja_JP": "賞金稼ぎ精鋭射撃手",
       "zh_CN": "赏金猎人弩手队长"
     }
@@ -12058,6 +12082,7 @@
   "enemy_1341_bthtms": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Bounty Hunter Disruptor",
       "ja_JP": "賞金稼ぎ撹乱者",
       "zh_CN": "赏金猎人扰乱者"
     }
@@ -12065,6 +12090,7 @@
   "enemy_1341_bthtms_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Bounty Hunter Disruptor Captain",
       "ja_JP": "賞金稼ぎ精鋭撹乱者",
       "zh_CN": "赏金猎人扰乱者队长"
     }
@@ -12072,6 +12098,7 @@
   "enemy_1342_frtuna": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Fortuna, Fallen Angel",
       "ja_JP": "堕天使フォルトゥナ",
       "zh_CN": "堕天使福尔图娜"
     }
@@ -12705,7 +12732,7 @@
   "enemy_1515_bsnake": {
     "type": "ENEMY",
     "names": {
-      "en_US": "'The Deathless Black Snake'",
+      "en_US": "'Deathless Black Snake'",
       "ja_JP": "「不死の黒蛇」",
       "zh_CN": "“不死的黑蛇”"
     }
@@ -12857,7 +12884,7 @@
   "enemy_1536_ncrmcr": {
     "type": "ENEMY",
     "names": {
-      "en_US": "'The Leader' ",
+      "en_US": "'The Leader'",
       "ja_JP": "「リーダー」",
       "zh_CN": "“领袖”"
     }
@@ -12937,6 +12964,7 @@
   "enemy_1544_cledub": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'The Gardener'",
       "ja_JP": "「ガーデナー」",
       "zh_CN": "“花匠”"
     }
@@ -13438,6 +13466,7 @@
   "enemy_3005_lpeopl": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Monastery Inhabitant",
       "ja_JP": "修道院の住民",
       "zh_CN": "修道院居民"
     }
@@ -13445,6 +13474,7 @@
   "enemy_3005_lpeopl_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Monastery Inhabitant",
       "ja_JP": "修道院の住民",
       "zh_CN": "修道院居民"
     }
@@ -13492,7 +13522,7 @@
   "enemy_5008_cstrwd": {
     "type": "ENEMY",
     "names": {
-      "en_US": "-",
+      "en_US": "The Boons of Art!",
       "ja_JP": "芸術の慈悲！",
       "zh_CN": "艺术的慈悲!"
     }
@@ -13500,7 +13530,7 @@
   "enemy_5009_shtrwd": {
     "type": "ENEMY",
     "names": {
-      "en_US": "-",
+      "en_US": "The Clutchness of Art!",
       "ja_JP": "芸術の必殺技！",
       "zh_CN": "艺术的绝杀!"
     }
@@ -13508,7 +13538,7 @@
   "enemy_5010_catrdg": {
     "type": "ENEMY",
     "names": {
-      "en_US": "-",
+      "en_US": "Weaksauce",
       "ja_JP": "弱い弾",
       "zh_CN": "弱弹"
     }
@@ -14372,6 +14402,7 @@
   "act18sre": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Lingering Echoes - Rerun",
       "ja_JP": "塵影に交わる残響・復刻",
       "zh_CN": "尘影余音·复刻"
     }
@@ -14471,6 +14502,7 @@
   "act1signvs": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "May the Sunshine Still Sign-In Event",
       "ja_JP": "スタンプラリー",
       "zh_CN": "端阳正午签到活动"
     }
@@ -14598,6 +14630,7 @@
   "act26side": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Hortus de Escapismo",
       "ja_JP": "空想の花庭",
       "zh_CN": "空想花庭"
     }
@@ -17107,6 +17140,7 @@
   "act18side_token_pieces_rep_1": {
     "type": "ITEM",
     "names": {
+      "en_US": "Sheet Music",
       "ja_JP": "手書きの楽譜",
       "zh_CN": "乐谱草稿"
     }
@@ -17322,6 +17356,7 @@
   "act26side_token_fragmenta": {
     "type": "ITEM",
     "names": {
+      "en_US": "Holy Statue Fragments",
       "ja_JP": "聖像のかけら",
       "zh_CN": "圣像碎片"
     }
@@ -19551,6 +19586,7 @@
   "p_char_1032_excu2": {
     "type": "ITEM",
     "names": {
+      "en_US": "Executor the Ex Foedere's Token",
       "ja_JP": "聖約イグゼキュターの印",
       "zh_CN": "圣约送葬人的信物"
     }
@@ -21010,6 +21046,7 @@
   "p_char_4015_spuria": {
     "type": "ITEM",
     "names": {
+      "en_US": "Spuria's Token",
       "ja_JP": "スプリアの印",
       "zh_CN": "空构的信物"
     }
@@ -21701,6 +21738,7 @@
   "p_char_498_inside": {
     "type": "ITEM",
     "names": {
+      "en_US": "Insider's Token",
       "ja_JP": "インサイダーの印",
       "zh_CN": "隐现的信物"
     }
@@ -22550,6 +22588,7 @@
   "uni_set_abyssal": {
     "type": "ITEM",
     "names": {
+      "en_US": "Under Tides Furniture Pack",
       "ja_JP": "潮汐の下家具パック",
       "zh_CN": "覆潮之下家具收藏包"
     }
@@ -22817,6 +22856,7 @@
   "voucher_full_glady": {
     "type": "ITEM",
     "names": {
+      "en_US": "Gladiia's Personal Letter",
       "ja_JP": "グレイディーアの手紙",
       "zh_CN": "歌蕾蒂娅的私人信件"
     }
@@ -25682,6 +25722,7 @@
   "skchr_excu2_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Testament Exacted",
       "ja_JP": "遺言の執行",
       "zh_CN": "遗嘱执行"
     }
@@ -25689,6 +25730,7 @@
   "skchr_excu2_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Close Combat",
       "ja_JP": "近接銃術",
       "zh_CN": "近身铳斗"
     }
@@ -25696,6 +25738,7 @@
   "skchr_excu2_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Damnatus Ex Foedere",
       "ja_JP": "聖約の裁き",
       "zh_CN": "圣约决裁"
     }
@@ -26551,6 +26594,7 @@
   "skchr_inside_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "'Don't Invite Trouble'",
       "ja_JP": "「トラブル回避」",
       "zh_CN": "“不惹麻烦”"
     }
@@ -26558,6 +26602,7 @@
   "skchr_inside_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "'Problem Solver'",
       "ja_JP": "「トラブル解決」",
       "zh_CN": "“解决麻烦”"
     }
@@ -28353,6 +28398,7 @@
   "skchr_spuria_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Seize the Moment",
       "ja_JP": "クイックドロウ",
       "zh_CN": "见机行事"
     }
@@ -28360,6 +28406,7 @@
   "skchr_spuria_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "On-the-Fly Weapon Modding",
       "ja_JP": "インスタントカスタム",
       "zh_CN": "临场铳械改装"
     }
@@ -30177,6 +30224,7 @@
   "sktok_ltstat": {
     "type": "SKILL",
     "names": {
+      "en_US": "Prayer",
       "ja_JP": "祈り",
       "zh_CN": "祈祷"
     }
@@ -30516,6 +30564,7 @@
   "sktok_rdblock": {
     "type": "SKILL",
     "names": {
+      "en_US": "Intercept",
       "ja_JP": "障害物",
       "zh_CN": "阻拦"
     }
@@ -30523,6 +30572,7 @@
   "sktok_rdrepair": {
     "type": "SKILL",
     "names": {
+      "en_US": "Restore Path",
       "ja_JP": "歩道修復",
       "zh_CN": "修复步道"
     }
@@ -30642,6 +30692,7 @@
   "sktok_rockfl": {
     "type": "SKILL",
     "names": {
+      "en_US": "Collapse",
       "ja_JP": "崩落",
       "zh_CN": "塌落"
     }
@@ -33723,7 +33774,7 @@
   "act18side_06": {
     "type": "STAGE",
     "names": {
-      "en_US": "Danse Macabre",
+      "en_US": "Danse macabre",
       "ja_JP": "死者の舞踏",
       "zh_CN": "骷髅之舞"
     }
@@ -34939,6 +34990,7 @@
   "act26side_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Home Sweet Home",
       "ja_JP": "麗しの我が故郷",
       "zh_CN": "我有一个荣美家乡"
     }
@@ -34946,6 +34998,7 @@
   "act26side_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "River of Life",
       "ja_JP": "生命の運河",
       "zh_CN": "生命运河"
     }
@@ -34953,6 +35006,7 @@
   "act26side_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "No Empty Hands",
       "ja_JP": "徒手では天へ還られぬ",
       "zh_CN": "岂可空手回天府？"
     }
@@ -34960,6 +35014,7 @@
   "act26side_04": {
     "type": "STAGE",
     "names": {
+      "en_US": "My Life I Gave for You",
       "ja_JP": "命を懸けし者",
       "zh_CN": "我曾舍命为你"
     }
@@ -34967,6 +35022,7 @@
   "act26side_05": {
     "type": "STAGE",
     "names": {
+      "en_US": "God in His Temple",
       "ja_JP": "主は御座におられる",
       "zh_CN": "主在圣殿中"
     }
@@ -34974,6 +35030,7 @@
   "act26side_06": {
     "type": "STAGE",
     "names": {
+      "en_US": "Serenade",
       "ja_JP": "夜半の歌声",
       "zh_CN": "夜半歌声"
     }
@@ -34981,6 +35038,7 @@
   "act26side_07": {
     "type": "STAGE",
     "names": {
+      "en_US": "Joined by Love",
       "ja_JP": "愛に結び合いし",
       "zh_CN": "以爱相连"
     }
@@ -34988,6 +35046,7 @@
   "act26side_08": {
     "type": "STAGE",
     "names": {
+      "en_US": "Devout Follower",
       "ja_JP": "主に従い行くは",
       "zh_CN": "愿跟随主"
     }
@@ -34995,6 +35054,7 @@
   "act26side_st01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Crown Offering",
       "ja_JP": "栄えの冠を捧げ奉らん",
       "zh_CN": "奉上冠冕"
     }
@@ -35002,6 +35062,7 @@
   "act26side_st02": {
     "type": "STAGE",
     "names": {
+      "en_US": "In the Garden",
       "ja_JP": "祈りの園生を",
       "zh_CN": "在花园里"
     }
@@ -35009,6 +35070,7 @@
   "act26side_st03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Guide by Light",
       "ja_JP": "導き行かせ給え",
       "zh_CN": "慈光引导"
     }
@@ -35016,6 +35078,7 @@
   "act26side_tr01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Time to Pray",
       "ja_JP": "静けき祈りの",
       "zh_CN": "祷告良辰"
     }
@@ -35023,6 +35086,7 @@
   "act26side_tr02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Absolute Peace",
       "ja_JP": "賜れし安けさは",
       "zh_CN": "完全平安"
     }
@@ -36114,6 +36178,7 @@
   "camp_r_17": {
     "type": "STAGE",
     "names": {
+      "en_US": "Ashy Marsh",
       "ja_JP": "薄暗い泥沼",
       "zh_CN": "灰暗泥沼"
     }
@@ -40333,6 +40398,7 @@
   "act18sre_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Afterglow Hall",
       "ja_JP": "光差す音楽堂",
       "zh_CN": "夕照大厅"
     }
@@ -40340,6 +40406,7 @@
   "act18sre_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Back Alleys",
       "ja_JP": "暗き裏路地",
       "zh_CN": "小巷深处"
     }
@@ -40575,6 +40642,7 @@
   "act26side_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Sanctilaminium Ambrosii",
       "ja_JP": "アンブロシウス修道院",
       "zh_CN": "安布罗修修道院"
     }
@@ -40582,6 +40650,7 @@
   "act26side_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Sacrarium Derelictum",
       "ja_JP": "廃聖堂",
       "zh_CN": "废弃圣堂"
     }
@@ -40997,6 +41066,7 @@
   "permanent_sidestory_14_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Afterglow Hall",
       "ja_JP": "光差す音楽堂",
       "zh_CN": "夕照大厅"
     }
@@ -41004,6 +41074,7 @@
   "permanent_sidestory_14_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Back Alleys",
       "ja_JP": "暗き裏路地",
       "zh_CN": "小巷深处"
     }
@@ -41967,6 +42038,7 @@
   "story_excu_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Executor",
       "ja_JP": "執行人",
       "zh_CN": "送葬人"
     }
@@ -42018,6 +42090,7 @@
   "story_firwhl_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "The Lone Goer",
       "ja_JP": "独り行く者",
       "zh_CN": "独行之人"
     }
@@ -42065,6 +42138,7 @@
   "story_forcer_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Departure Plans",
       "ja_JP": "出発の準備",
       "zh_CN": "出行计划"
     }
@@ -42328,6 +42402,7 @@
   "story_inside_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Secret Mission",
       "ja_JP": "極秘任務",
       "zh_CN": "机密任务"
     }
@@ -42373,6 +42448,7 @@
   "story_kafka_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Let's Keep That a Secret",
       "ja_JP": "秘密を交わして",
       "zh_CN": "许以秘密"
     }
@@ -42440,6 +42516,7 @@
   "story_leizi_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "One Who Controls Lightning",
       "ja_JP": "雷を司る者",
       "zh_CN": "司雷霆者"
     }
@@ -42831,6 +42908,7 @@
   "story_pudd_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "What the Snow's Like Far Away",
       "ja_JP": "彼方の雪",
       "zh_CN": "远方的雪"
     }
@@ -43260,6 +43338,7 @@
   "story_utage_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "The Game of Chic",
       "ja_JP": "トレンディ・トリック",
       "zh_CN": "时髦把戏"
     }

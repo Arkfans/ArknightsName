@@ -204,7 +204,7 @@ tip: 请善用浏览器的搜索功能
 | char_358_lisa@epoque#22 | 雪霁 | Yukibare | 雪晴 |
 | char_358_lisa@lxh#1 | 春之颂 | Spring Praise | 春陽讃歌 |
 | char_358_lisa@wild#3 | 弃土花开 | Lostlands Flowering | 荒地に咲く花 |
-| char_362_saga@sale#9 | 彼有 | - | 彼有 |
+| char_362_saga@sale#9 | 彼有 | There They Be | 彼有 |
 | char_365_aprl@wild#3 | 远望 | Faraway Gaze | 遠望 |
 | char_366_acdrop@whirlwind#4 | “下午茶时光” | 'Afternoon Teatime' | 「アフタヌーンティー」 |
 | char_367_swllow@boc#1 | 归巢 | Homecoming | 帰巣 |
@@ -226,7 +226,7 @@ tip: 请善用浏览器的搜索功能
 | char_4019_ncdeer@ncdeer#1 | 古往今来的月 | - | - |
 | char_401_elysm@snow#2 | 雪夜回音 | Snowy Echo | 雪夜の思い出 |
 | char_401_elysm@summer#9 | 灿阳朝露 SDm11 | Shimmering Dew SDm11 | 炎陽煌く露SDm11 |
-| char_4025_aprot2@whirlwind#5 | 结果 | - | 結実 |
+| char_4025_aprot2@whirlwind#5 | 结果 | The Fruition | 結実 |
 | char_402_tuye@epoque#14 | 培翠 | Cultivate Vegetation | 緑化 |
 | char_4032_provs@wild#7 | 秋高气爽 | High Autumn | 晴れ渡る秋空 |
 | char_4036_forcer@epoque#20 | 拾翼 | Paper Wing | 不確かな翼 |
@@ -237,14 +237,14 @@ tip: 请善用浏览器的搜索功能
 | char_4043_erato@snow#5 | 未讲述的故事 | Untold Stories | 語られざる物語 |
 | char_4045_heidi@epoque#24 | 书信零落 | A Thousand Correspondences | 溢れ落ちる手紙 |
 | char_4046_ebnhlz@boc#6 | 变奏 | Eine Variation | 変奏 |
-| char_4047_pianst@wild#8 | 荒野寻音 | - | 荒野に音尋ね |
+| char_4047_pianst@wild#8 | 荒野寻音 | Freeland Tuneseeker | 荒野に音尋ね |
 | char_4048_doroth@witch#4 | 命运主宰 | - | - |
 | char_4054_malist@summer#14 | 悠然假日 HDm74 | - | - |
 | char_4055_bgsnow@wild#7 | 字句中的雪原 | Snowy Plains in Words | 行間にある雪原 |
 | char_405_absin@epoque#28 | 正午余光 | - | - |
 | char_4064_mlynar@epoque#28 | 远路 | - | - |
 | char_4065_judge@snow#6 | 偶尔醉陶 | - | - |
-| char_4071_peper@whirlwind#5 | 来路 | - | 来た道 |
+| char_4071_peper@whirlwind#5 | 来路 | The Road to Here | 来た道 |
 | char_4072_ironmn@summer#11 | 沙滩护卫 GT003 | - | - |
 | char_4077_palico@mh#1 | 跃上街头 | Fly Into the Street | 街へ飛び出せ |
 | char_4082_qiubai@ncg#1 | 霜林醉 | - | - |
@@ -258,7 +258,7 @@ tip: 请善用浏览器的搜索功能
 | char_426_billro@snow#3 | 霍恩洛厄的寒沙 | Hohenlohe Chillysand | ホーエンローエの氷砂 |
 | char_426_billro@summer#8 | 灿阳朝露 SD08 | Shimmering Dew SD08 | 炎陽煌く露SD08 |
 | char_427_vigil@epoque#27 | 叙拉古的彼面 | - | - |
-| char_430_fartth@whirlwind#5 | 捉风 | - | 風をとらえて |
+| char_430_fartth@whirlwind#5 | 捉风 | Hear the Wind Sing | 風をとらえて |
 | char_431_ashlok@epoque#28 | 卡利斯卡群枪 | - | - |
 | char_436_whispr@nian#4 | 孤寒峭 | Tremble Cold | 孤料峭 |
 | char_436_whispr@witch#4 | 幽邃隐修 | - | - |

@@ -75,20 +75,20 @@ tip: 请善用浏览器的搜索功能
 | story_estell_set_1_story_1 | 她的一小步 | One Small Step For Her | その小さな一歩 |
 | story_ethan_set_1_story_1 | 他乡故旧 | 'Old Friends in Foreign Places' | 異郷の旧友 |
 | story_excu2_set_1_story_1 | 蓝色 | - | - |
-| story_excu_set_1_story_1 | 送葬人 | - | 執行人 |
+| story_excu_set_1_story_1 | 送葬人 | Executor | 執行人 |
 | story_excu_set_2_story_1 | 敌人 | - | - |
 | story_f12yin_set_1_story_1 | 意外的烦恼 | Unexpected Annoyance | 予想外の悩み |
 | story_f12yin_set_2_story_1 | 赴罪 | Sinner's Path | 罪へと赴く |
 | story_falco_set_1_story_1 | 远大理想 | A Grand, Distant Ideal | 遠大な理想 |
 | story_fang_set_1_story_1 | 二次冲锋 | Second Charge | 再チャレンジ |
 | story_finlpp_set_1_story_1 | 涓滴亦江流 | - | - |
-| story_firwhl_set_1_story_1 | 独行之人 | - | 独り行く者 |
+| story_firwhl_set_1_story_1 | 独行之人 | The Lone Goer | 独り行く者 |
 | story_flint_set_1_story_1 | 合格的战士 | Warrior's Due | 一人前の戦士 |
 | story_flower_set_1_story_1 | 改建计划 | 'Refurbishment Plans' | 改装計画 |
 | story_flower_set_2_story_1 | 树犹如此 | How Old Trees Grow | 木々でさえ |
 | story_fmout_set_1_story_1 | 占卜 | 'Divination' | 占い |
 | story_folivo_set_1_story_1 | 记录者 | Recorder | 記録者 |
-| story_forcer_set_1_story_1 | 出行计划 | - | 出発の準備 |
+| story_forcer_set_1_story_1 | 出行计划 | Departure Plans | 出発の準備 |
 | story_franka_set_1_story_1 | 往日的象征 | Symbols of the Past | 在りし日の象徴 |
 | story_franka_set_2_story_1 | 驻足 | - | - |
 | story_frncat_set_1_story_1 | 小点心 | Sweetheart | マイスウィーティ |
@@ -123,13 +123,13 @@ tip: 请善用浏览器的搜索功能
 | story_humus_set_1_story_1 | 荒地巧匠 | - | - |
 | story_ifrit_set_1_story_1 | 小队长 | Team Captain | 小隊長 |
 | story_indigo_set_1_story_1 | 硬核饮品 | Hardcore Drink | ハードなドリンク |
-| story_inside_set_1_story_1 | 机密任务 | - | 極秘任務 |
+| story_inside_set_1_story_1 | 机密任务 | Secret Mission | 極秘任務 |
 | story_irene_set_1_story_1 | 灯火微明 | Lantern's Twilight | ほのかな灯り |
 | story_iris_set_1_story_1 | 糖果屋 | The Candy House | お菓子の家 |
 | story_jaksel_set_1_story_1 | 无价的勋章 | A Priceless Medal | 価値のない勲章 |
 | story_jesca2_set_1_story_1 | 徽章 | - | - |
 | story_jesica_set_1_story_1 | 缓步前行 | The Slow Walk Ahead | ゆっくり進む者 |
-| story_kafka_set_1_story_1 | 许以秘密 | - | 秘密を交わして |
+| story_kafka_set_1_story_1 | 许以秘密 | Let's Keep That a Secret | 秘密を交わして |
 | story_kaitou_set_1_story_1 | 被折射的星光 | - | - |
 | story_kazema_set_1_story_1 | 应为必为 | One Should, One Must | 為すべきこと |
 | story_kirara_set_1_story_1 | 隐藏结局 | Secret Ending | 隠しエンディング |
@@ -138,7 +138,7 @@ tip: 请善用浏览器的搜索功能
 | story_kroos_set_1_story_1 | 苹果 | Apples | 林檎 |
 | story_lava_set_1_story_1 | 姐妹 | 'Sisters' | 姉妹 |
 | story_lava_set_2_story_1 | 看护 | 'Caring' | 看病 |
-| story_leizi_set_1_story_1 | 司雷霆者 | - | 雷を司る者 |
+| story_leizi_set_1_story_1 | 司雷霆者 | One Who Controls Lightning | 雷を司る者 |
 | story_leto_set_1_story_1 | 捉迷藏 | - | - |
 | story_ling_set_1_story_1 | 醒时梦长 | From a Long Dream Woken | 白日の酔夢 |
 | story_lionhd_set_1_story_1 | 暗境求生 | Living in Darkness | 暗闇の生還 |
@@ -189,7 +189,7 @@ tip: 请善用浏览器的搜索功能
 | story_prove_set_1_story_1 | 同事们 | Coworkers | カンパニー |
 | story_prove_set_2_story_1 | 崎路前行 | A Perilous Road | 険しき道を征く |
 | story_provs_set_1_story_1 | 假定公正 | - | - |
-| story_pudd_set_1_story_1 | 远方的雪 | - | 彼方の雪 |
+| story_pudd_set_1_story_1 | 远方的雪 | What the Snow's Like Far Away | 彼方の雪 |
 | story_qanik_set_1_story_1 | 风雪代为传达 | - | - |
 | story_quartz_set_1_story_1 | 无需遗憾 | No Regrets | 惜しむ必要なし |
 | story_quercu_set_1_story_1 | 终途 | Final Moments | 終の道 |
@@ -244,7 +244,7 @@ tip: 请善用浏览器的搜索功能
 | story_tomimi_set_1_story_1 | 崭新生活 | Brand New Life | 新たな生活 |
 | story_totter_set_1_story_1 | 计划 | A Plan | 計画 |
 | story_tuye_set_1_story_1 | 沙漠之虹 | Desert Rainbow | 砂漠にかかる虹 |
-| story_utage_set_1_story_1 | 时髦把戏 | - | トレンディ・トリック |
+| story_utage_set_1_story_1 | 时髦把戏 | The Game of Chic | トレンディ・トリック |
 | story_vigil_set_1_story_1 | 未来将至 | Future Coming | 訪れる未来 |
 | story_vigna_set_1_story_1 | 该做的事 | What You've Gotta Do | すべきこと |
 | story_vodfox_set_1_story_1 | 无字诅咒 | A Curse Without Words | 文字なき呪い |

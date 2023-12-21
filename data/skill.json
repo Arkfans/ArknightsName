@@ -788,14 +788,17 @@
     "zh_CN": "十字悬挂"
   },
   "skchr_excu2_1": {
+    "en_US": "Testament Exacted",
     "ja_JP": "遺言の執行",
     "zh_CN": "遗嘱执行"
   },
   "skchr_excu2_2": {
+    "en_US": "Close Combat",
     "ja_JP": "近接銃術",
     "zh_CN": "近身铳斗"
   },
   "skchr_excu2_3": {
+    "en_US": "Damnatus Ex Foedere",
     "ja_JP": "聖約の裁き",
     "zh_CN": "圣约决裁"
   },
@@ -1327,10 +1330,12 @@
     "zh_CN": "独影归途"
   },
   "skchr_inside_1": {
+    "en_US": "'Don't Invite Trouble'",
     "ja_JP": "「トラブル回避」",
     "zh_CN": "“不惹麻烦”"
   },
   "skchr_inside_2": {
+    "en_US": "'Problem Solver'",
     "ja_JP": "「トラブル解決」",
     "zh_CN": "“解决麻烦”"
   },
@@ -2445,10 +2450,12 @@
     "zh_CN": "次级治疗模式"
   },
   "skchr_spuria_1": {
+    "en_US": "Seize the Moment",
     "ja_JP": "クイックドロウ",
     "zh_CN": "见机行事"
   },
   "skchr_spuria_2": {
+    "en_US": "On-the-Fly Weapon Modding",
     "ja_JP": "インスタントカスタム",
     "zh_CN": "临场铳械改装"
   },
@@ -3564,6 +3571,7 @@
     "zh_CN": "神经再生"
   },
   "sktok_ltstat": {
+    "en_US": "Prayer",
     "ja_JP": "祈り",
     "zh_CN": "祈祷"
   },
@@ -3771,10 +3779,12 @@
     "zh_CN": "更诱人珍宝"
   },
   "sktok_rdblock": {
+    "en_US": "Intercept",
     "ja_JP": "障害物",
     "zh_CN": "阻拦"
   },
   "sktok_rdrepair": {
+    "en_US": "Restore Path",
     "ja_JP": "歩道修復",
     "zh_CN": "修复步道"
   },
@@ -3849,6 +3859,7 @@
     "zh_CN": "全自动造型仪"
   },
   "sktok_rockfl": {
+    "en_US": "Collapse",
     "ja_JP": "崩落",
     "zh_CN": "塌落"
   },

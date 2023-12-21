@@ -1050,6 +1050,7 @@
     "zh_CN": "乐谱草稿"
   },
   "act18side_token_pieces_rep_1": {
+    "en_US": "Sheet Music",
     "ja_JP": "手書きの楽譜",
     "zh_CN": "乐谱草稿"
   },
@@ -1181,6 +1182,7 @@
     "zh_CN": "特殊作战许可·β"
   },
   "act26side_token_fragmenta": {
+    "en_US": "Holy Statue Fragments",
     "ja_JP": "聖像のかけら",
     "zh_CN": "圣像碎片"
   },
@@ -2549,6 +2551,7 @@
     "zh_CN": "淬羽赫默的信物"
   },
   "p_char_1032_excu2": {
+    "en_US": "Executor the Ex Foedere's Token",
     "ja_JP": "聖約イグゼキュターの印",
     "zh_CN": "圣约送葬人的信物"
   },
@@ -3456,6 +3459,7 @@
     "zh_CN": "子月的信物"
   },
   "p_char_4015_spuria": {
+    "en_US": "Spuria's Token",
     "ja_JP": "スプリアの印",
     "zh_CN": "空构的信物"
   },
@@ -3877,6 +3881,7 @@
     "zh_CN": "晓歌的信物"
   },
   "p_char_498_inside": {
+    "en_US": "Insider's Token",
     "ja_JP": "インサイダーの印",
     "zh_CN": "隐现的信物"
   },
@@ -4399,6 +4404,7 @@
     "zh_CN": "黑曜石节手环"
   },
   "uni_set_abyssal": {
+    "en_US": "Under Tides Furniture Pack",
     "ja_JP": "潮汐の下家具パック",
     "zh_CN": "覆潮之下家具收藏包"
   },
@@ -4561,6 +4567,7 @@
     "zh_CN": "亚叶的私人信件"
   },
   "voucher_full_glady": {
+    "en_US": "Gladiia's Personal Letter",
     "ja_JP": "グレイディーアの手紙",
     "zh_CN": "歌蕾蒂娅的私人信件"
   },
