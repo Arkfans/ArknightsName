@@ -219,7 +219,7 @@ tip: 请善用浏览器的搜索功能
 | act18d3_token_record | 腐蚀的伊比利亚唱片 | Corrupted Iberian Record | 腐食したレコード |
 | act18d3_token_record_rep_1 | 腐蚀的伊比利亚唱片 | Corrupted Iberian Record | 腐食したレコード |
 | act18side_token_pieces | 乐谱草稿 | Sheet Music | 手書きの楽譜 |
-| act18side_token_pieces_rep_1 | 乐谱草稿 | - | - |
+| act18side_token_pieces_rep_1 | 乐谱草稿 | - | 手書きの楽譜 |
 | act19side_token_reagents | 神秘试剂 | Mysterious Reagent | 謎の試薬 |
 | act19side_token_reagents_rep_1 | 神秘试剂 | - | - |
 | act1bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
@@ -247,7 +247,7 @@ tip: 请善用浏览器的搜索功能
 | act25side_token_fdrchips | 飞行数据记录芯片 | Flight Data Recorder Chip | 飛行データチップ |
 | act25side_token_key01 | 特殊作战许可·α | Special Ops Permit α | 特殊作戦許可α |
 | act25side_token_key02 | 特殊作战许可·β | Special Ops Permit β | 特殊作戦許可β |
-| act26side_token_fragmenta | 圣像碎片 | - | - |
+| act26side_token_fragmenta | 圣像碎片 | - | 聖像のかけら |
 | act27side_token_fur | 毛绒绒生物的毛 | - | - |
 | act28side_token_box | 劣质燃料 | - | - |
 | act29side_frag_1 | 乐之节符 | - | - |
@@ -434,7 +434,7 @@ tip: 请善用浏览器的搜索功能
 | class_p_char_343_tknogi | - | Tsukinogi's Kernel Token | ツキノギの印（中堅） |
 | class_p_char_344_beewax | - | Beeswax's Kernel Token | ビーズワクスの印（中堅） |
 | class_p_char_347_jaksel | 杰克的中坚信物 | Jackie's Kernel Token | ジャッキーの印（中堅） |
-| class_p_char_349_chiave | - | Chiave's Kernel Token | キアーベの印（中堅） |
+| class_p_char_349_chiave | - | Chiave's Kernel Token | キアーベの印（中堅） |
 | class_p_char_356_broca | 布洛卡的中坚信物 | Broca's Kernel Token | ブローカの印（中堅） |
 | class_p_char_358_lisa | - | Suzuran's Kernel Token | スズランの印（中堅） |
 | class_p_char_366_acdrop | 酸糖的中坚信物 | Aciddrop's Kernel Token | アシッドドロップの印（中堅） |
@@ -534,7 +534,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_102_texas | 德克萨斯的信物 | Texas's Token | テキサスの印 |
 | p_char_1030_noirc2 | 火龙S黑角的信物 | Rathalos S Noir Corne's Token | レウスSノイルホーンの印 |
 | p_char_1031_slent2 | 淬羽赫默的信物 | Silence the Paradigmatic's Token | 淬羽サイレンスの印 |
-| p_char_1032_excu2 | 圣约送葬人的信物 | - | - |
+| p_char_1032_excu2 | 圣约送葬人的信物 | - | 聖約イグゼキュターの印 |
 | p_char_1033_swire2 | 琳琅诗怀雅的信物 | - | - |
 | p_char_1034_jesca2 | 涤火杰西卡的信物 | - | - |
 | p_char_103_angel | 能天使的信物 | Exusiai's Token | エクシアの印 |
@@ -718,7 +718,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_400_weedy | 温蒂的信物 | Weedy's Token | ウィーディの印 |
 | p_char_4013_kjera | 耶拉的信物 | Kjera's Token | イェラの印 |
 | p_char_4014_lunacu | 子月的信物 | Lunacub's Token | ルナカブの印 |
-| p_char_4015_spuria | 空构的信物 | - | - |
+| p_char_4015_spuria | 空构的信物 | - | スプリアの印 |
 | p_char_4016_kazema | 风丸的信物 | Kazemaru's Token | カゼマルの印 |
 | p_char_4017_puzzle | 谜图的信物 | Puzzle's Token | パズルの印 |
 | p_char_401_elysm | 极境的信物 | Elysium's Token | エリジウムの印 |
@@ -808,7 +808,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_494_vendla | 刺玫的信物 | - | - |
 | p_char_496_wildmn | 野鬃的信物 | Wild Mane's Token | ワイルドメインの印 |
 | p_char_497_ctable | 晓歌的信物 | Cantabile's Token | カンタービレの印 |
-| p_char_498_inside | 隐现的信物 | - | - |
+| p_char_498_inside | 隐现的信物 | - | インサイダーの印 |
 | p_char_499_kaitou | 折光的信物 | - | - |
 | p_char_500_noirc | 黑角的信物 | Noir Corne's Token | ノイルホーンの印 |
 | p_char_501_durin | 杜林的信物 | Durin's Token | ドゥリンの印 |
@@ -917,7 +917,7 @@ tip: 请善用浏览器的搜索功能
 | token_ObsidianCoin_rep_1 | 黑曜石节抽奖代币 | Obsidian Festival Token | ガチャコイン |
 | token_Obsidian_rep_1 | 汐斯塔的黑曜石 | Siesta Obsidian | シエスタの黒曜石 |
 | token_Wristband | 黑曜石节手环 | Obsidian Festival Bracelet | リストバンド |
-| uni_set_abyssal | 覆潮之下家具收藏包 | - | - |
+| uni_set_abyssal | 覆潮之下家具收藏包 | - | 潮汐の下家具パック |
 | uni_set_act10d5 | 乌萨斯的孩子们家具收藏包 | Children of Ursus Furniture Pack | ウルサスの子供たち家具パック |
 | uni_set_act7d5 | 午间逸话家具收藏包 | Stories of Afternoon Furniture Pack | 午後の逸話家具パック |
 | uni_set_beerhouse | 生于黑夜家具收藏包 | Darknights Memoir Furniture Pack | 闇夜に生きる家具パック |
@@ -952,7 +952,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_full_ceylon | 锡兰的私人信件 | Ceylon's Personal Letter | セイロンの手紙 |
 | voucher_full_flameb | 炎客的私人信件 | Flamebringer's Personal Letter | エンカクの手紙 |
 | voucher_full_folnic | 亚叶的私人信件 | Folinic's Personal Letter | フォリニックの手紙 |
-| voucher_full_glady | 歌蕾蒂娅的私人信件 | - | - |
+| voucher_full_glady | 歌蕾蒂娅的私人信件 | - | グレイディーアの手紙 |
 | voucher_full_grani | 格拉尼的私人信件 | Grani's Personal Letter | グラニの手紙 |
 | voucher_full_kjera | 耶拉的私人信件 | - | - |
 | voucher_full_lava2 | 炎狱炎熔的私人信件 | Lava the Purgatory's Personal Letter | 炎獄ラヴァの手紙 |

@@ -86,8 +86,8 @@ tip: 请善用浏览器的搜索功能
 | act18d3_zone2 | 浪蚀哀墟 | Choppy Ruin | 海蝕の荒墟 |
 | act18side_zone1 | 夕照大厅 | Afterglow Hall | 光差す音楽堂 |
 | act18side_zone2 | 小巷深处 | Back Alleys | 暗き裏路地 |
-| act18sre_zone1 | 夕照大厅 | - | - |
-| act18sre_zone2 | 小巷深处 | - | - |
+| act18sre_zone1 | 夕照大厅 | - | 光差す音楽堂 |
+| act18sre_zone2 | 小巷深处 | - | 暗き裏路地 |
 | act19side_zone1 | 实验基地 | Test Site | 実験基地 |
 | act19side_zone2 | 莱茵总部 | Rhine Headquarters | ライン生命本社 |
 | act19sre_zone1 | 实验基地 | - | - |
@@ -119,8 +119,8 @@ tip: 请善用浏览器的搜索功能
 | act25side_zone1 | 未来将至 | The Coming of The Future | 来たる未来 |
 | act25side_zone2 | 过往未尽 | The Lingering of the Past | 過ぎぬ過去 |
 | act25side_zone3 | 紧握当下 | The Pursuing of the Present | 在るべき今 |
-| act26side_zone1 | 安布罗修修道院 | - | - |
-| act26side_zone2 | 废弃圣堂 | - | - |
+| act26side_zone1 | 安布罗修修道院 | - | アンブロシウス修道院 |
+| act26side_zone2 | 废弃圣堂 | - | 廃聖堂 |
 | act27side_zone1 | 温泉假日 | - | - |
 | act27side_zone2 | 城市寻宝 | - | - |
 | act27side_zone3 | 岩浆冲浪 | - | - |
@@ -175,8 +175,8 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_12_zone2 | 一十八峰 | Mountain Top | 一十八峰 |
 | permanent_sidestory_13_zone1 | 万国峰会 | Summit of Nations | 万国サミット |
 | permanent_sidestory_13_zone2 | 圣殿之路 | Road to the Shrine | 聖堂へ至る道 |
-| permanent_sidestory_14_zone1 | 夕照大厅 | - | - |
-| permanent_sidestory_14_zone2 | 小巷深处 | - | - |
+| permanent_sidestory_14_zone1 | 夕照大厅 | - | 光差す音楽堂 |
+| permanent_sidestory_14_zone2 | 小巷深处 | - | 暗き裏路地 |
 | permanent_sidestory_15_zone1 | 实验基地 | - | - |
 | permanent_sidestory_15_zone2 | 莱茵总部 | - | - |
 | permanent_sidestory_16_zone1 | 地底观光 | - | - |

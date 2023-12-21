@@ -1050,6 +1050,7 @@
     "zh_CN": "乐谱草稿"
   },
   "act18side_token_pieces_rep_1": {
+    "ja_JP": "手書きの楽譜",
     "zh_CN": "乐谱草稿"
   },
   "act19side_token_reagents": {
@@ -1180,6 +1181,7 @@
     "zh_CN": "特殊作战许可·β"
   },
   "act26side_token_fragmenta": {
+    "ja_JP": "聖像のかけら",
     "zh_CN": "圣像碎片"
   },
   "act27side_token_fur": {
@@ -2068,7 +2070,7 @@
   },
   "class_p_char_349_chiave": {
     "en_US": "Chiave's Kernel Token",
-    "ja_JP": "キアーベの印（中堅）"
+    "ja_JP": "キアーベの印（中堅）"
   },
   "class_p_char_356_broca": {
     "en_US": "Broca's Kernel Token",
@@ -2547,6 +2549,7 @@
     "zh_CN": "淬羽赫默的信物"
   },
   "p_char_1032_excu2": {
+    "ja_JP": "聖約イグゼキュターの印",
     "zh_CN": "圣约送葬人的信物"
   },
   "p_char_1033_swire2": {
@@ -3453,6 +3456,7 @@
     "zh_CN": "子月的信物"
   },
   "p_char_4015_spuria": {
+    "ja_JP": "スプリアの印",
     "zh_CN": "空构的信物"
   },
   "p_char_4016_kazema": {
@@ -3873,6 +3877,7 @@
     "zh_CN": "晓歌的信物"
   },
   "p_char_498_inside": {
+    "ja_JP": "インサイダーの印",
     "zh_CN": "隐现的信物"
   },
   "p_char_499_kaitou": {
@@ -4394,6 +4399,7 @@
     "zh_CN": "黑曜石节手环"
   },
   "uni_set_abyssal": {
+    "ja_JP": "潮汐の下家具パック",
     "zh_CN": "覆潮之下家具收藏包"
   },
   "uni_set_act10d5": {
@@ -4555,6 +4561,7 @@
     "zh_CN": "亚叶的私人信件"
   },
   "voucher_full_glady": {
+    "ja_JP": "グレイディーアの手紙",
     "zh_CN": "歌蕾蒂娅的私人信件"
   },
   "voucher_full_grani": {

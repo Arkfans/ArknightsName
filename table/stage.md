@@ -463,19 +463,19 @@ tip: 请善用浏览器的搜索功能
 | act25side_st04 | 推开未来之门 | Door to the Future | 未来への扉 |
 | act25side_tr01 | 先锋建筑 | Cutting-Edge Architecture | 最先端建築 |
 | act25side_tr02 | 先锋工程 | Cutting Edge | ハイテクノロジー |
-| act26side_01 | 我有一个荣美家乡 | - | - |
-| act26side_02 | 生命运河 | - | - |
-| act26side_03 | 岂可空手回天府？ | - | - |
-| act26side_04 | 我曾舍命为你 | - | - |
-| act26side_05 | 主在圣殿中 | - | - |
-| act26side_06 | 夜半歌声 | - | - |
-| act26side_07 | 以爱相连 | - | - |
-| act26side_08 | 愿跟随主 | - | - |
-| act26side_st01 | 奉上冠冕 | - | - |
-| act26side_st02 | 在花园里 | - | - |
-| act26side_st03 | 慈光引导 | - | - |
-| act26side_tr01 | 祷告良辰 | - | - |
-| act26side_tr02 | 完全平安 | - | - |
+| act26side_01 | 我有一个荣美家乡 | - | 麗しの我が故郷 |
+| act26side_02 | 生命运河 | - | 生命の運河 |
+| act26side_03 | 岂可空手回天府？ | - | 徒手では天へ還られぬ |
+| act26side_04 | 我曾舍命为你 | - | 命を懸けし者 |
+| act26side_05 | 主在圣殿中 | - | 主は御座におられる |
+| act26side_06 | 夜半歌声 | - | 夜半の歌声 |
+| act26side_07 | 以爱相连 | - | 愛に結び合いし |
+| act26side_08 | 愿跟随主 | - | 主に従い行くは |
+| act26side_st01 | 奉上冠冕 | - | 栄えの冠を捧げ奉らん |
+| act26side_st02 | 在花园里 | - | 祈りの園生を |
+| act26side_st03 | 慈光引导 | - | 導き行かせ給え |
+| act26side_tr01 | 祷告良辰 | - | 静けき祈りの |
+| act26side_tr02 | 完全平安 | - | 賜れし安けさは |
 | act27side_01 | 你的耳朵长不长？ | - | - |
 | act27side_02 | 小蓝孩 | - | - |
 | act27side_03 | 手指之家 | - | - |
@@ -629,7 +629,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_14 | 实验基地机库 | Research Base Hanger | 実験基地の格納庫 |
 | camp_r_15 | 龙门商业街 | Lungmen Commercial District | 龍門商店街 |
 | camp_r_16 | 休止符街道 | Rest Avenue | フェルマーテ通り |
-| camp_r_17 | 灰暗泥沼 | - | - |
+| camp_r_17 | 灰暗泥沼 | - | 薄暗い泥沼 |
 | camp_r_18 | “特制小水坑” | - | - |
 | camp_r_19 | 腐烂荒野 | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |

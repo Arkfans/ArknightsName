@@ -117,10 +117,10 @@ tip: 请善用浏览器的搜索功能
 | trap_114_smkbmb | 爆裂毒气罐 | Rupturing Canister | 毒ガスタンク |
 | trap_115_gasctrl | 毒雾塔控制 | Gas Controller | 毒霧タワー制御装置 |
 | trap_116_stdurk | “过去的我” | - | - |
-| trap_117_ltstat | 圣像 | - | - |
-| trap_118_rockfl | 塌落的墙垣 | - | - |
-| trap_119_rdrepair | 备用木材 | - | - |
-| trap_120_rdblock | 破旧的木篱 | - | - |
+| trap_117_ltstat | 圣像 | - | 聖像 |
+| trap_118_rockfl | 塌落的墙垣 | - | 崩れた壁 |
+| trap_119_rdrepair | 备用木材 | - | 予備木材 |
+| trap_120_rdblock | 破旧的木篱 | - | 朽ちた木の柵 |
 | trap_121_gractrl | 重力 | Gravity | 重力 |
 | trap_122_stmpq | 景观喷泉 | - | - |
 | trap_123_stmbot | 水汽汽水瓶 | - | - |

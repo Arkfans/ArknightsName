@@ -3215,48 +3215,63 @@
     "zh_CN": "行星碎屑"
   },
   "enemy_1335_bldrat": {
+    "ja_JP": "齧歯獣",
     "zh_CN": "啮齿兽"
   },
   "enemy_1335_bldrat_2": {
+    "ja_JP": "凶暴齧歯獣",
     "zh_CN": "饥饿啮齿兽"
   },
   "enemy_1336_bldbat": {
+    "ja_JP": "伏翼獣",
     "zh_CN": "伏翼兽"
   },
   "enemy_1336_bldbat_2": {
+    "ja_JP": "凶暴伏翼獣",
     "zh_CN": "惊躁伏翼兽"
   },
   "enemy_1337_bhrknf": {
+    "ja_JP": "荒野の盗賊",
     "zh_CN": "荒原窃盗者"
   },
   "enemy_1337_bhrknf_2": {
+    "ja_JP": "荒野の精鋭盗賊",
     "zh_CN": "荒原窃盗者精英"
   },
   "enemy_1338_bhrjst": {
+    "ja_JP": "荒野の暗躍者",
     "zh_CN": "荒原潜伏者"
   },
   "enemy_1338_bhrjst_2": {
+    "ja_JP": "荒野の精鋭暗躍者",
     "zh_CN": "荒原潜伏者精英"
   },
   "enemy_1339_bhrgrd": {
+    "ja_JP": "荒野の略奪者",
     "zh_CN": "荒原劫掠者"
   },
   "enemy_1339_bhrgrd_2": {
+    "ja_JP": "荒野の精鋭略奪者",
     "zh_CN": "荒原劫掠者精英"
   },
   "enemy_1340_bthtbw": {
+    "ja_JP": "賞金稼ぎ射撃手",
     "zh_CN": "赏金猎人弩手"
   },
   "enemy_1340_bthtbw_2": {
+    "ja_JP": "賞金稼ぎ精鋭射撃手",
     "zh_CN": "赏金猎人弩手队长"
   },
   "enemy_1341_bthtms": {
+    "ja_JP": "賞金稼ぎ撹乱者",
     "zh_CN": "赏金猎人扰乱者"
   },
   "enemy_1341_bthtms_2": {
+    "ja_JP": "賞金稼ぎ精鋭撹乱者",
     "zh_CN": "赏金猎人扰乱者队长"
   },
   "enemy_1342_frtuna": {
+    "ja_JP": "堕天使フォルトゥナ",
     "zh_CN": "堕天使福尔图娜"
   },
   "enemy_1344_ddlamb": {
@@ -3710,7 +3725,7 @@
   },
   "enemy_1539_reid": {
     "en_US": "'Hateful Avenger'",
-    "ja_JP": "\"Vendetta\"",
+    "ja_JP": "Vendetta",
     "zh_CN": "“复仇者”"
   },
   "enemy_1540_wdncr": {
@@ -3734,6 +3749,7 @@
     "zh_CN": "克丽斯腾"
   },
   "enemy_1544_cledub": {
+    "ja_JP": "「ガーデナー」",
     "zh_CN": "“花匠”"
   },
   "enemy_1545_shpkg": {
@@ -4030,9 +4046,11 @@
     "zh_CN": "叙拉古平民"
   },
   "enemy_3005_lpeopl": {
+    "ja_JP": "修道院の住民",
     "zh_CN": "修道院居民"
   },
   "enemy_3005_lpeopl_2": {
+    "ja_JP": "修道院の住民",
     "zh_CN": "修道院居民"
   },
   "enemy_4001_toxcar": {
@@ -4062,17 +4080,17 @@
   },
   "enemy_5008_cstrwd": {
     "en_US": "-",
-    "ja_JP": "-",
+    "ja_JP": "芸術の慈悲！",
     "zh_CN": "艺术的慈悲!"
   },
   "enemy_5009_shtrwd": {
     "en_US": "-",
-    "ja_JP": "-",
+    "ja_JP": "芸術の必殺技！",
     "zh_CN": "艺术的绝杀!"
   },
   "enemy_5010_catrdg": {
     "en_US": "-",
-    "ja_JP": "-",
+    "ja_JP": "弱い弾",
     "zh_CN": "弱弹"
   },
   "enemy_6001_trsgst": {
