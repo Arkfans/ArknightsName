@@ -690,6 +690,7 @@ tip: 请善用浏览器的搜索功能
 | char_209_ardign@snow#1 | 快乐卫士 | Cheerful Guardian | ハッピーナイト |
 | char_210_stward@sale#6 | 风雪邀请 | Snowstorm Invitation | 風雪のいざない |
 | char_211_adnach@sale#5 | 无痕行者 | Traceless Walker | 足跡なき使者 |
+| char_212_ansel@epoque#29 | 晚间咖啡店 | - | - |
 | char_212_ansel@summer#1 | 悠然假日 HDm06 | Casual Vacation HDm06 | ホリデーHDm06 |
 | char_213_mostma@epoque#5 | 除魅 | Spellbreaker | 魑魅払い |
 | char_214_kafka@snow#3 | 纸板仙子 | Cardboard Fairy | 紙細工の妖精 |
@@ -798,6 +799,7 @@ tip: 请善用浏览器的搜索功能
 | char_4013_kjera@epoque#18 | 灵巧侍者 | Ingenious Servant | 腕利き侍女 |
 | char_4014_lunacu@yun#1 | 棠云巧梦 | - | - |
 | char_4016_kazema@witch#3 | 幻影轻悄 | Like Illusion | 軽やかな幻影 |
+| char_4017_puzzle@epoque#29 | 碎片之间 | - | - |
 | char_4019_ncdeer@ncdeer#1 | 古往今来的月 | - | - |
 | char_401_elysm@snow#2 | 雪夜回音 | Snowy Echo | 雪夜の思い出 |
 | char_401_elysm@summer#9 | 灿阳朝露 SDm11 | Shimmering Dew SDm11 | 炎陽煌く露SDm11 |
@@ -1888,6 +1890,7 @@ tip: 请善用浏览器的搜索功能
 | act21sre | 叙拉古人·复刻 | - | - |
 | act22side | 照我以火 | What the Firelight Casts | この炎が照らす先 |
 | act22sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
+| act22sre | 照我以火·复刻 | - | - |
 | act23side | 登临意 | Where Vernal Winds Will Never Blow | 登臨意 |
 | act23sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act24side | 落叶逐火 | A Flurry to the Flame | 紅炎遣らう落葉 |
@@ -1917,6 +1920,7 @@ tip: 请善用浏览器的搜索功能
 | act34sign | 限时累计签到 | - | - |
 | act35sign | 清光邀月——月饼烘焙小教程 | - | - |
 | act36sign | 步上双塔之时签到活动 | - | - |
+| act37sign | 限时累计签到 | - | - |
 | act38d1 | 尖灭测试作战 | Pinch-Out Experimental Operation | 尖滅試験作戦 |
 | act3bossrush | 引航者试炼 | - | - |
 | act3d0 | 火蓝之心 | Heart of Surging Flame | 青く燃ゆる心 |
@@ -2233,6 +2237,7 @@ tip: 请善用浏览器的搜索功能
 | act21side_token_permesso | 进货通行证 | Permesso di Importazione | 買付許可証 |
 | act21side_token_permesso_rep_1 | 进货通行证 | - | - |
 | act22side_token_manuscript | 手抄歌谣集 | Manuscripts of Ballads | 民謡集の写本 |
+| act22side_token_manuscript_rep_1 | 手抄歌谣集 | - | - |
 | act23side_token_spirit | 新酿烈刀子 | Freshly-Brewed Liedaozi | 烈刀子 |
 | act24side_melding_1 | 破碎的骨片 | Bone Fragments | 欠けた骨 |
 | act24side_melding_2 | 源石虫的硬壳 | Originium Slug Shell | オリジムシの甲殻 |
@@ -3097,6 +3102,7 @@ tip: 请善用浏览器的搜索功能
 | SINGLE_42_0_1 | 鸣铳 | - | - |
 | SINGLE_43_0_1 | 烁尘烟中 | - | - |
 | SINGLE_45_0_1 | 游邦者 | - | - |
+| SINGLE_45_0_4 | 枯焰生花 | - | - |
 | _ATTAIN_15_2_1 | - | Celebrate & Recollect | ロドスの道のり　回顧 |
 | _ATTAIN_22_1_2 | - | Celebration & Link-Up | ロドスの道のり・邂逅 |
 | _LIMITED_10_2_1 | - | Deep Drown Lament | 深悼 |
@@ -5255,6 +5261,8 @@ tip: 请善用浏览器的搜索功能
 | act21sre_zone3 | 自诩荒野 | - | - |
 | act22side_zone1 | 荒烟林沼 | Swamp In The Mists | 煙たなびく沼 |
 | act22side_zone2 | 记忆灰烬 | Ashes of Memories | 記憶の燃え殻 |
+| act22sre_zone1 | 荒烟林沼 | - | - |
+| act22sre_zone2 | 记忆灰烬 | - | - |
 | act23side_zone1 | 城中调查 | Case Investigation, Onsite | 城内調査 |
 | act23side_zone2 | 关外追凶 | Criminal Pursuit, Offsite | 関外追跡 |
 | act24side_zone1 | 苍暮山地 | Soubo Mountains | 蒼暮山地 |
@@ -5327,6 +5335,8 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_16_zone3 | 升降梯整备 | - | - |
 | permanent_sidestory_16_zone4 | 表演赛道 | - | - |
 | permanent_sidestory_16_zone5 | 终极赛道 | - | - |
+| permanent_sidestory_18_zone1 | 荒烟林沼 | - | - |
+| permanent_sidestory_18_zone2 | 记忆灰烬 | - | - |
 | permanent_sidestory_1_zone1 | 滴水村周边 | Dewville Outskirts | 滴水村周辺 |
 | permanent_sidestory_1_zone2 | 宝藏之路 | Path to Treasure | 宝への道 |
 | permanent_sidestory_21_zone1 | 连阴雨季 | - | - |

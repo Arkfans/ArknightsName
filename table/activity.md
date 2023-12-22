@@ -94,6 +94,7 @@ tip: 请善用浏览器的搜索功能
 | act21sre | 叙拉古人·复刻 | - | - |
 | act22side | 照我以火 | What the Firelight Casts | この炎が照らす先 |
 | act22sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
+| act22sre | 照我以火·复刻 | - | - |
 | act23side | 登临意 | Where Vernal Winds Will Never Blow | 登臨意 |
 | act23sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act24side | 落叶逐火 | A Flurry to the Flame | 紅炎遣らう落葉 |
@@ -123,6 +124,7 @@ tip: 请善用浏览器的搜索功能
 | act34sign | 限时累计签到 | - | - |
 | act35sign | 清光邀月——月饼烘焙小教程 | - | - |
 | act36sign | 步上双塔之时签到活动 | - | - |
+| act37sign | 限时累计签到 | - | - |
 | act38d1 | 尖灭测试作战 | Pinch-Out Experimental Operation | 尖滅試験作戦 |
 | act3bossrush | 引航者试炼 | - | - |
 | act3d0 | 火蓝之心 | Heart of Surging Flame | 青く燃ゆる心 |

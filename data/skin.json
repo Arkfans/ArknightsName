@@ -519,6 +519,9 @@
     "ja_JP": "足跡なき使者",
     "zh_CN": "无痕行者"
   },
+  "char_212_ansel@epoque#29": {
+    "zh_CN": "晚间咖啡店"
+  },
   "char_212_ansel@summer#1": {
     "en_US": "Casual Vacation HDm06",
     "ja_JP": "ホリデーHDm06",
@@ -1040,6 +1043,9 @@
     "en_US": "Like Illusion",
     "ja_JP": "軽やかな幻影",
     "zh_CN": "幻影轻悄"
+  },
+  "char_4017_puzzle@epoque#29": {
+    "zh_CN": "碎片之间"
   },
   "char_4019_ncdeer@ncdeer#1": {
     "zh_CN": "古往今来的月"

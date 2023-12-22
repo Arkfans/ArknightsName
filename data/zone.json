@@ -512,6 +512,12 @@
     "ja_JP": "記憶の燃え殻",
     "zh_CN": "记忆灰烬"
   },
+  "act22sre_zone1": {
+    "zh_CN": "荒烟林沼"
+  },
+  "act22sre_zone2": {
+    "zh_CN": "记忆灰烬"
+  },
   "act23side_zone1": {
     "en_US": "Case Investigation, Onsite",
     "ja_JP": "城内調査",
@@ -833,6 +839,12 @@
   },
   "permanent_sidestory_16_zone5": {
     "zh_CN": "终极赛道"
+  },
+  "permanent_sidestory_18_zone1": {
+    "zh_CN": "荒烟林沼"
+  },
+  "permanent_sidestory_18_zone2": {
+    "zh_CN": "记忆灰烬"
   },
   "permanent_sidestory_1_zone1": {
     "en_US": "Dewville Outskirts",

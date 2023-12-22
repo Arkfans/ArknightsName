@@ -5307,6 +5307,12 @@
       "zh_CN": "无痕行者"
     }
   },
+  "char_212_ansel@epoque#29": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "晚间咖啡店"
+    }
+  },
   "char_212_ansel@summer#1": {
     "type": "SKIN",
     "names": {
@@ -6151,6 +6157,12 @@
       "en_US": "Like Illusion",
       "ja_JP": "軽やかな幻影",
       "zh_CN": "幻影轻悄"
+    }
+  },
+  "char_4017_puzzle@epoque#29": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "碎片之间"
     }
   },
   "char_4019_ncdeer@ncdeer#1": {
@@ -14579,6 +14591,12 @@
       "zh_CN": "限时累计签到"
     }
   },
+  "act22sre": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "照我以火·复刻"
+    }
+  },
   "act23side": {
     "type": "ACTIVITY",
     "names": {
@@ -14791,6 +14809,12 @@
     "type": "ACTIVITY",
     "names": {
       "zh_CN": "步上双塔之时签到活动"
+    }
+  },
+  "act37sign": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "限时累计签到"
     }
   },
   "act38d1": {
@@ -17270,6 +17294,12 @@
     "names": {
       "en_US": "Manuscripts of Ballads",
       "ja_JP": "民謡集の写本",
+      "zh_CN": "手抄歌谣集"
+    }
+  },
+  "act22side_token_manuscript_rep_1": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "手抄歌谣集"
     }
   },
@@ -23865,6 +23895,12 @@
     "type": "POOL",
     "names": {
       "zh_CN": "游邦者"
+    }
+  },
+  "SINGLE_45_0_4": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "枯焰生花"
     }
   },
   "_ATTAIN_15_2_1": {
@@ -40583,6 +40619,18 @@
       "zh_CN": "记忆灰烬"
     }
   },
+  "act22sre_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "荒烟林沼"
+    }
+  },
+  "act22sre_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "记忆灰烬"
+    }
+  },
   "act23side_zone1": {
     "type": "ZONE",
     "names": {
@@ -41119,6 +41167,18 @@
     "type": "ZONE",
     "names": {
       "zh_CN": "终极赛道"
+    }
+  },
+  "permanent_sidestory_18_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "荒烟林沼"
+    }
+  },
+  "permanent_sidestory_18_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "记忆灰烬"
     }
   },
   "permanent_sidestory_1_zone1": {

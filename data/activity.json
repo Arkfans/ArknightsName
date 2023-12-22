@@ -422,6 +422,9 @@
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
+  "act22sre": {
+    "zh_CN": "照我以火·复刻"
+  },
   "act23side": {
     "en_US": "Where Vernal Winds Will Never Blow",
     "ja_JP": "登臨意",
@@ -548,6 +551,9 @@
   },
   "act36sign": {
     "zh_CN": "步上双塔之时签到活动"
+  },
+  "act37sign": {
+    "zh_CN": "限时累计签到"
   },
   "act38d1": {
     "en_US": "Pinch-Out Experimental Operation",

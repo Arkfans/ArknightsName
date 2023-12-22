@@ -112,6 +112,8 @@ tip: 请善用浏览器的搜索功能
 | act21sre_zone3 | 自诩荒野 | - | - |
 | act22side_zone1 | 荒烟林沼 | Swamp In The Mists | 煙たなびく沼 |
 | act22side_zone2 | 记忆灰烬 | Ashes of Memories | 記憶の燃え殻 |
+| act22sre_zone1 | 荒烟林沼 | - | - |
+| act22sre_zone2 | 记忆灰烬 | - | - |
 | act23side_zone1 | 城中调查 | Case Investigation, Onsite | 城内調査 |
 | act23side_zone2 | 关外追凶 | Criminal Pursuit, Offsite | 関外追跡 |
 | act24side_zone1 | 苍暮山地 | Soubo Mountains | 蒼暮山地 |
@@ -184,6 +186,8 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_16_zone3 | 升降梯整备 | - | - |
 | permanent_sidestory_16_zone4 | 表演赛道 | - | - |
 | permanent_sidestory_16_zone5 | 终极赛道 | - | - |
+| permanent_sidestory_18_zone1 | 荒烟林沼 | - | - |
+| permanent_sidestory_18_zone2 | 记忆灰烬 | - | - |
 | permanent_sidestory_1_zone1 | 滴水村周边 | Dewville Outskirts | 滴水村周辺 |
 | permanent_sidestory_1_zone2 | 宝藏之路 | Path to Treasure | 宝への道 |
 | permanent_sidestory_21_zone1 | 连阴雨季 | - | - |

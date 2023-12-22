@@ -237,6 +237,7 @@ tip: 请善用浏览器的搜索功能
 | act21side_token_permesso | 进货通行证 | Permesso di Importazione | 買付許可証 |
 | act21side_token_permesso_rep_1 | 进货通行证 | - | - |
 | act22side_token_manuscript | 手抄歌谣集 | Manuscripts of Ballads | 民謡集の写本 |
+| act22side_token_manuscript_rep_1 | 手抄歌谣集 | - | - |
 | act23side_token_spirit | 新酿烈刀子 | Freshly-Brewed Liedaozi | 烈刀子 |
 | act24side_melding_1 | 破碎的骨片 | Bone Fragments | 欠けた骨 |
 | act24side_melding_2 | 源石虫的硬壳 | Originium Slug Shell | オリジムシの甲殻 |
