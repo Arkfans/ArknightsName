@@ -632,6 +632,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_17 | 灰暗泥沼 | Ashy Marsh | 薄暗い泥沼 |
 | camp_r_18 | “特制小水坑” | - | - |
 | camp_r_19 | 腐烂荒野 | - | - |
+| camp_r_20 | 千嶂边城 | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |
 | hard_05-02 | 炼狱行动-2 | Operation Inferno-2 | 煉獄作戦-2 |
 | hard_05-03 | 炼狱行动-3 | Operation Inferno-3 | 煉獄作戦-3 |

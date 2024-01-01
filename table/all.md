@@ -1739,7 +1739,11 @@ tip: 请善用浏览器的搜索功能
 | enemy_2054_smdeer | “萨米的意志” | - | - |
 | enemy_2055_smlead | “木裂”埃克提尔尼尔 | - | - |
 | enemy_2056_smedzi | 无垠回荡克雷松 | - | - |
+| enemy_2057_smkght | 哈兰杜汗，大地之鞭 | - | - |
+| enemy_2058_smlion | 路加萨尔古斯，历法之王 | - | - |
 | enemy_2059_smbox | 巨壳藤蔓 | - | - |
+| enemy_2060_smshdw | 可汗片影 | - | - |
+| enemy_2061_smhond | 王者友伴 | - | - |
 | enemy_2062_smcar | 勘察用自走车 | - | - |
 | enemy_3001_upeopl | 乌萨斯平民 | Ursus Civilian | ウルサス民間人 |
 | enemy_3002_ftrtal | 斗士塔露拉 | Talulah, the Fighter | 闘士タルラ |
@@ -2022,6 +2026,9 @@ tip: 请善用浏览器的搜索功能
 | 2023recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 3.5周年特別スカウト券α |
 | 2023recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 3.5周年特別スカウト券β |
 | 2023recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 3.5周年特別スカウト券γ |
+| 2024recruitment10_1 | α类新年寻访凭证 | - | - |
+| 2024recruitment10_2 | β类新年寻访凭证 | - | - |
+| 2024recruitment10_3 | γ类新年寻访凭证 | - | - |
 | 30011 | 源岩 | Orirock | 源岩鉱 |
 | 30012 | 固源岩 | Orirock Cube | 初級源岩 |
 | 30013 | 固源岩组 | Orirock Cluster | 中級源岩 |
@@ -3021,6 +3028,7 @@ tip: 请善用浏览器的搜索功能
 | 1013 | 女性干员 | Female | 女性 |
 | ATTAIN_24_0_3 | 跨年欢庆·回首 | - | - |
 | ATTAIN_34_0_3 | 跨年欢庆·相逢 | - | - |
+| ATTAIN_45_0_5 | 跨年欢庆·展望 | - | - |
 | COMMON | 适合多种场合的强力干员 | Rare Operators useful in all kinds of stages | スカウト最初の10回以内に★5以上確定！ |
 | LIMITED_14_0_1 | 勿忘我 | - | - |
 | LIMITED_16_0_1 | 地生五金 | - | - |
@@ -3105,6 +3113,7 @@ tip: 请善用浏览器的搜索功能
 | SINGLE_45_0_4 | 枯焰生花 | - | - |
 | _ATTAIN_15_2_1 | - | Celebrate & Recollect | ロドスの道のり　回顧 |
 | _ATTAIN_22_1_2 | - | Celebration & Link-Up | ロドスの道のり・邂逅 |
+| _CLASSIC_45_0_2 | 跨年欢庆·中坚 | - | - |
 | _LIMITED_10_2_1 | - | Deep Drown Lament | 深悼 |
 | _LIMITED_12_1_1 | - | Holiday Stars | ホリデースター |
 | _LIMITED_14_1_1 | - | Path of the Radiant | 光耀の騎士道 |
@@ -3184,6 +3193,8 @@ tip: 请善用浏览器的搜索功能
 | _NORM_8_2_1 | - | The Wheat And The Anthem | 麦穂と賛美歌 |
 | _NORM_9_3_1 | - | Illusions of the Past | 在りし日の幻影 |
 | _SINGLE_24_0_1 | - | As In My Adumbration | 影に潜みて |
+| _SINGLE_25_0_1 | - | Arbiter Aequissimus | 執裁者 |
+| _SINGLE_25_0_3 | - | Dissonanzen | 不協和音程 |
 | skchr_absin_1 | 执法模式 | Enforcement Mode | 執行態勢 |
 | skchr_absin_2 | 终结连射 | Ultimatum | 告死の弾雨 |
 | skchr_acast_1 | “为我所为” | 'All For Me' | 「我が成すことを成せ」 |
@@ -4697,6 +4708,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_17 | 灰暗泥沼 | Ashy Marsh | 薄暗い泥沼 |
 | camp_r_18 | “特制小水坑” | - | - |
 | camp_r_19 | 腐烂荒野 | - | - |
+| camp_r_20 | 千嶂边城 | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |
 | hard_05-02 | 炼狱行动-2 | Operation Inferno-2 | 煉獄作戦-2 |
 | hard_05-03 | 炼狱行动-3 | Operation Inferno-3 | 煉獄作戦-3 |

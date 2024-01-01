@@ -13431,10 +13431,34 @@
       "zh_CN": "无垠回荡克雷松"
     }
   },
+  "enemy_2057_smkght": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "哈兰杜汗，大地之鞭"
+    }
+  },
+  "enemy_2058_smlion": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "路加萨尔古斯，历法之王"
+    }
+  },
   "enemy_2059_smbox": {
     "type": "ENEMY",
     "names": {
       "zh_CN": "巨壳藤蔓"
+    }
+  },
+  "enemy_2060_smshdw": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "可汗片影"
+    }
+  },
+  "enemy_2061_smhond": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "王者友伴"
     }
   },
   "enemy_2062_smcar": {
@@ -15602,6 +15626,24 @@
     "names": {
       "en_US": "Type-γ Headhunting Permit",
       "ja_JP": "3.5周年特別スカウト券γ",
+      "zh_CN": "γ类新年寻访凭证"
+    }
+  },
+  "2024recruitment10_1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "α类新年寻访凭证"
+    }
+  },
+  "2024recruitment10_2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "β类新年寻访凭证"
+    }
+  },
+  "2024recruitment10_3": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "γ类新年寻访凭证"
     }
   },
@@ -23409,6 +23451,12 @@
       "zh_CN": "跨年欢庆·相逢"
     }
   },
+  "ATTAIN_45_0_5": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "跨年欢庆·展望"
+    }
+  },
   "COMMON": {
     "type": "POOL",
     "names": {
@@ -23915,6 +23963,12 @@
     "names": {
       "en_US": "Celebration & Link-Up",
       "ja_JP": "ロドスの道のり・邂逅"
+    }
+  },
+  "_CLASSIC_45_0_2": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "跨年欢庆·中坚"
     }
   },
   "_LIMITED_10_2_1": {
@@ -24467,6 +24521,20 @@
     "names": {
       "en_US": "As In My Adumbration",
       "ja_JP": "影に潜みて"
+    }
+  },
+  "_SINGLE_25_0_1": {
+    "type": "POOL",
+    "names": {
+      "en_US": "Arbiter Aequissimus",
+      "ja_JP": "執裁者"
+    }
+  },
+  "_SINGLE_25_0_3": {
+    "type": "POOL",
+    "names": {
+      "en_US": "Dissonanzen",
+      "ja_JP": "不協和音程"
     }
   },
   "skchr_absin_1": {
@@ -36229,6 +36297,12 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "腐烂荒野"
+    }
+  },
+  "camp_r_20": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "千嶂边城"
     }
   },
   "hard_05-01": {

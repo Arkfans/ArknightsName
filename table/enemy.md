@@ -854,7 +854,11 @@ tip: 请善用浏览器的搜索功能
 | enemy_2054_smdeer | “萨米的意志” | - | - |
 | enemy_2055_smlead | “木裂”埃克提尔尼尔 | - | - |
 | enemy_2056_smedzi | 无垠回荡克雷松 | - | - |
+| enemy_2057_smkght | 哈兰杜汗，大地之鞭 | - | - |
+| enemy_2058_smlion | 路加萨尔古斯，历法之王 | - | - |
 | enemy_2059_smbox | 巨壳藤蔓 | - | - |
+| enemy_2060_smshdw | 可汗片影 | - | - |
+| enemy_2061_smhond | 王者友伴 | - | - |
 | enemy_2062_smcar | 勘察用自走车 | - | - |
 | enemy_3001_upeopl | 乌萨斯平民 | Ursus Civilian | ウルサス民間人 |
 | enemy_3002_ftrtal | 斗士塔露拉 | Talulah, the Fighter | 闘士タルラ |

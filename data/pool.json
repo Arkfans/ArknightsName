@@ -5,6 +5,9 @@
   "ATTAIN_34_0_3": {
     "zh_CN": "跨年欢庆·相逢"
   },
+  "ATTAIN_45_0_5": {
+    "zh_CN": "跨年欢庆·展望"
+  },
   "COMMON": {
     "en_US": "Rare Operators useful in all kinds of stages",
     "ja_JP": "スカウト最初の10回以内に★5以上確定！",
@@ -260,6 +263,9 @@
   "_ATTAIN_22_1_2": {
     "en_US": "Celebration & Link-Up",
     "ja_JP": "ロドスの道のり・邂逅"
+  },
+  "_CLASSIC_45_0_2": {
+    "zh_CN": "跨年欢庆·中坚"
   },
   "_LIMITED_10_2_1": {
     "en_US": "Deep Drown Lament",
@@ -575,5 +581,13 @@
   "_SINGLE_24_0_1": {
     "en_US": "As In My Adumbration",
     "ja_JP": "影に潜みて"
+  },
+  "_SINGLE_25_0_1": {
+    "en_US": "Arbiter Aequissimus",
+    "ja_JP": "執裁者"
+  },
+  "_SINGLE_25_0_3": {
+    "en_US": "Dissonanzen",
+    "ja_JP": "不協和音程"
   }
 }

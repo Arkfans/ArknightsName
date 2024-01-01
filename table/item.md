@@ -22,6 +22,9 @@ tip: 请善用浏览器的搜索功能
 | 2023recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 3.5周年特別スカウト券α |
 | 2023recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 3.5周年特別スカウト券β |
 | 2023recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 3.5周年特別スカウト券γ |
+| 2024recruitment10_1 | α类新年寻访凭证 | - | - |
+| 2024recruitment10_2 | β类新年寻访凭证 | - | - |
+| 2024recruitment10_3 | γ类新年寻访凭证 | - | - |
 | 30011 | 源岩 | Orirock | 源岩鉱 |
 | 30012 | 固源岩 | Orirock Cube | 初級源岩 |
 | 30013 | 固源岩组 | Orirock Cluster | 中級源岩 |

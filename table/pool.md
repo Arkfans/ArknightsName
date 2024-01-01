@@ -10,6 +10,7 @@ tip: 请善用浏览器的搜索功能
 | --- | --- | --- | --- |
 | ATTAIN_24_0_3 | 跨年欢庆·回首 | - | - |
 | ATTAIN_34_0_3 | 跨年欢庆·相逢 | - | - |
+| ATTAIN_45_0_5 | 跨年欢庆·展望 | - | - |
 | COMMON | 适合多种场合的强力干员 | Rare Operators useful in all kinds of stages | スカウト最初の10回以内に★5以上確定！ |
 | LIMITED_14_0_1 | 勿忘我 | - | - |
 | LIMITED_16_0_1 | 地生五金 | - | - |
@@ -94,6 +95,7 @@ tip: 请善用浏览器的搜索功能
 | SINGLE_45_0_4 | 枯焰生花 | - | - |
 | _ATTAIN_15_2_1 | - | Celebrate & Recollect | ロドスの道のり　回顧 |
 | _ATTAIN_22_1_2 | - | Celebration & Link-Up | ロドスの道のり・邂逅 |
+| _CLASSIC_45_0_2 | 跨年欢庆·中坚 | - | - |
 | _LIMITED_10_2_1 | - | Deep Drown Lament | 深悼 |
 | _LIMITED_12_1_1 | - | Holiday Stars | ホリデースター |
 | _LIMITED_14_1_1 | - | Path of the Radiant | 光耀の騎士道 |
@@ -173,3 +175,5 @@ tip: 请善用浏览器的搜索功能
 | _NORM_8_2_1 | - | The Wheat And The Anthem | 麦穂と賛美歌 |
 | _NORM_9_3_1 | - | Illusions of the Past | 在りし日の幻影 |
 | _SINGLE_24_0_1 | - | As In My Adumbration | 影に潜みて |
+| _SINGLE_25_0_1 | - | Arbiter Aequissimus | 執裁者 |
+| _SINGLE_25_0_3 | - | Dissonanzen | 不協和音程 |
