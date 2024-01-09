@@ -1008,6 +1008,9 @@
     "ja_JP": "夕墨",
     "zh_CN": "夕墨"
   },
+  "act16mini_token_sap": {
+    "zh_CN": "辣瓶树水"
+  },
   "act16side_token_bolt": {
     "en_US": "Etched Bullet Casing",
     "ja_JP": "エッチング弾薬莢",
@@ -3625,6 +3628,9 @@
     "ja_JP": "リンの印",
     "zh_CN": "林的信物"
   },
+  "p_char_4081_warmy": {
+    "zh_CN": "温米的信物"
+  },
   "p_char_4082_qiubai": {
     "en_US": "Qiubai's Token",
     "ja_JP": "チューバイの印",
@@ -3680,6 +3686,9 @@
   },
   "p_char_4116_blkkgt": {
     "zh_CN": "锏的信物"
+  },
+  "p_char_4117_ray": {
+    "zh_CN": "莱伊的信物"
   },
   "p_char_411_tomimi": {
     "en_US": "Tomimi's Token",
@@ -4517,6 +4526,9 @@
   "uni_set_stage": {
     "zh_CN": "风雪过境家具收藏包"
   },
+  "uni_set_teaHouse": {
+    "zh_CN": "将进酒家具收藏包"
+  },
   "uni_set_westCoast": {
     "zh_CN": "多索雷斯假日家具收藏包"
   },
@@ -4590,6 +4602,9 @@
   },
   "voucher_full_kjera": {
     "zh_CN": "耶拉的私人信件"
+  },
+  "voucher_full_kroos2": {
+    "zh_CN": "寒芒克洛丝的私人信件"
   },
   "voucher_full_lava2": {
     "en_US": "Lava the Purgatory's Personal Letter",

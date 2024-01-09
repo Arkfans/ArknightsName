@@ -239,6 +239,16 @@ tip: 请善用浏览器的搜索功能
 | act16d5_st02 | 一日之祸 | A Day's Calamity | 一日の災い |
 | act16d5_st03 | 一问之答 | A Question's Answer | 答え |
 | act16d5_tr01 | 呓语 | Sleep Talking | 寝言 |
+| act16mini_01 | 双向通风 | - | - |
+| act16mini_02 | 热熔采掘 | - | - |
+| act16mini_03 | 不安全出口 | - | - |
+| act16mini_04 | 冻结壁交圈 | - | - |
+| act16mini_05 | 起爆自由面 | - | - |
+| act16mini_06 | 最小抵抗线 | - | - |
+| act16mini_07 | 牵引山岩 | - | - |
+| act16mini_08 | 主要运输巷 | - | - |
+| act16mini_s01 | 穿洞绳操作指南 | - | - |
+| act16mini_s02 | 升罐笼注意事项 | - | - |
 | act16side_01 | 灯下黑 | Darkness Beneath the Light | 灯台下暗し |
 | act16side_02 | 散步时光 | Time to Stroll | 散歩の時間 |
 | act16side_03 | 混血儿 | Mixed Blood | 混血児 |

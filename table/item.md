@@ -212,6 +212,7 @@ tip: 请善用浏览器的搜索功能
 | act15side_token_tea_rep_1 | 罐装晌午茶 | Canned Tea | 正午茶 |
 | act16d5_token_inker | 夕墨 | Dusk Inkstick | 夕墨 |
 | act16d5_token_inker_rep_1 | 夕墨 | Dusk Inkstick | 夕墨 |
+| act16mini_token_sap | 辣瓶树水 | - | - |
 | act16side_token_bolt | 蚀刻弹弹壳 | Etched Bullet Casing | エッチング弾薬莢 |
 | act16side_token_bolt_rep_1 | 蚀刻弹弹壳 | Etched Bullet Casing | エッチング弾薬莢 |
 | act17d0_token_form | 罗德岛物资配给证书 | Rhodes Island Resource Allocation Certificate | ロドス物資配給許可書 |
@@ -753,6 +754,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4077_palico | 泰拉大陆调查团的信物 | Terra Research Commission's Token | テラ大陸調査団の印 |
 | p_char_4078_bdhkgt | 截云的信物 | Jieyun's Token | ジエユンの印 |
 | p_char_4080_lin | 林的信物 | Lin's Token | リンの印 |
+| p_char_4081_warmy | 温米的信物 | - | - |
 | p_char_4082_qiubai | 仇白的信物 | Qiubai's Token | チューバイの印 |
 | p_char_4083_chimes | 铎铃的信物 | Wind Chimes's Token | ウィンドチャイムの印 |
 | p_char_4087_ines | 伊内丝的信物 | Ines's Token | イネスの印 |
@@ -769,6 +771,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4110_delphn | 戴菲恩的信物 | - | - |
 | p_char_4114_harold | 哈洛德的信物 | - | - |
 | p_char_4116_blkkgt | 锏的信物 | - | - |
+| p_char_4117_ray | 莱伊的信物 | - | - |
 | p_char_411_tomimi | 特米米的信物 | Tomimi's Token | トミミの印 |
 | p_char_415_flint | 燧石的信物 | Flint's Token | フリントの印 |
 | p_char_416_zumama | 森蚺的信物 | Eunectes' Token | ユーネクテスの印 |
@@ -943,6 +946,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_samiRoom_1 | 萨米印象家具收藏包一 | - | - |
 | uni_set_samiRoom_2 | 萨米印象家具收藏包二 | - | - |
 | uni_set_stage | 风雪过境家具收藏包 | - | - |
+| uni_set_teaHouse | 将进酒家具收藏包 | - | - |
 | uni_set_westCoast | 多索雷斯假日家具收藏包 | - | - |
 | voucher_5chipPackage | 自助芯片印刻仪 | - | - |
 | voucher_chip | 芯片自助打印盒 | Automatic Chip Printer | 初級SoCセルフプリンター |
@@ -959,6 +963,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_full_glady | 歌蕾蒂娅的私人信件 | Gladiia's Personal Letter | グレイディーアの手紙 |
 | voucher_full_grani | 格拉尼的私人信件 | Grani's Personal Letter | グラニの手紙 |
 | voucher_full_kjera | 耶拉的私人信件 | - | - |
+| voucher_full_kroos2 | 寒芒克洛丝的私人信件 | - | - |
 | voucher_full_lava2 | 炎狱炎熔的私人信件 | Lava the Purgatory's Personal Letter | 炎獄ラヴァの手紙 |
 | voucher_full_mint | 薄绿的私人信件 | Mint's Personal Letter | ミントの手紙 |
 | voucher_full_robin | 罗宾的私人信件 | Robin's Personal Letter | ロビンの手紙 |

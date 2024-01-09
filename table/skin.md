@@ -18,6 +18,7 @@ tip: 请善用浏览器的搜索功能
 | char_1014_nearl2@epoque#17 | 复现荣光 | Relight | 栄光の再臨 |
 | char_101_sora@epoque#17 | 如歌 | Melodiosa | メロディオーソ |
 | char_101_sora@summer#1 | 夏卉 FA361 | Summer Flowers FA361 | 夏の花弁FA361 |
+| char_1020_reed2@epoque#30 | 博物 | - | - |
 | char_1021_kroos2@nian#8 | 廊下游  | Along the Corridor | 長廊遊 |
 | char_1023_ghost2@boc#6 | 生而为一 | Born as One | 対なる一人 |
 | char_1026_gvial2@summer#12 | 悠然假日 HD26 | - | - |
@@ -87,6 +88,7 @@ tip: 请善用浏览器的搜索功能
 | char_180_amgoat@summer#5 | 夏卉 FA018 | Summer Flower FA018 | 夏の花弁FA018 |
 | char_181_flower@daily#1 | 植物种志 | Species Plantarum | 植物紀年 |
 | char_181_flower@epoque#9 | 闲适午后 | Leisurely Afternoon | うららか |
+| char_183_skgoat@epoque#30 | 主修领域 | - | - |
 | char_185_frncat@wild#7 | 营地炊烟 | Campfire Cooking Smoke | キャンプのお楽しみ |
 | char_187_ccheal@epoque#2 | 战医 | Combat Medic | 戦医 |
 | char_188_helage@boc#2 | 歧路幻影 | Octopath Illusion | 岐路幻影 |
@@ -216,6 +218,7 @@ tip: 请善用浏览器的搜索功能
 | char_378_asbest@whirlwind#3 | 幽谷奏鸣 | Glen Sonata | グレンソナタ |
 | char_383_snsant@witch#2 | 天命勇者 | Fated Hero | 宿命の勇者 |
 | char_388_mint@epoque#22 | 月宵 | Tsukiyoi | 月宵 |
+| char_388_mint@epoque#30 | 私人书房 | - | - |
 | char_391_rosmon@epoque#17 | 拥抱新生 | Become Anew | 始まりを抱く |
 | char_4000_jnight@boc#7 | 竞技之梦改装 | Tournament Fantasy Retrofit Kit | 改装「競技の夢」 |
 | char_4004_pudd@snow#5 | 火树灵 | Gleaming Fey | 煌めく精霊 |

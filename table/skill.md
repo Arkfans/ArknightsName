@@ -445,6 +445,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_quartz_2 | 全力相搏 | All-Out Clash | フルスイング |
 | skchr_quercu_1 | 大地的慈悲 | Earth's Benevolence | 大地の慈悲 |
 | skchr_quercu_2 | 生灵的回响 | Echo of Life | 生命の木霊 |
+| skchr_ray_1 | 脱身矢 | - | - |
+| skchr_ray_2 | 广域警觉 | - | - |
+| skchr_ray_3 | “得见光芒” | - | - |
 | skchr_red_1 | 处决模式 | Execution Mode | 処刑の構え |
 | skchr_red_2 | 狼群 | Wolfpack | 群狼 |
 | skchr_reed2_2 | 枯荣共息 | Wither and Thrive | 盛衰を共に |
@@ -575,6 +578,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_vvana_3 | “明灭” | - | - |
 | skchr_waaifu_1 | 寸劲 | One-inch Punch | 寸勁 |
 | skchr_waaifu_2 | 七武掠阵踢 | Seven-styles Kick | 七武掠陣脚 |
+| skchr_warmy_1 | 炎炎火焰 | - | - |
+| skchr_warmy_2 | 滔滔热流 | - | - |
 | skchr_weedy_1 | 炮管敲击 | Barrel Burst | 砲身強打 |
 | skchr_weedy_2 | 水炮模式 | Hydraulics Mode | ハイドロキャノン |
 | skchr_weedy_3 | 液氮大炮 | Liquid Nitrogen Cannon | LN2キャノン |
@@ -788,6 +793,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_prison | 启动禁锢！ | Lock 'em Up! | 禁固機能起動！ |
 | sktok_pushtw | 气体爆喷 | Air Burst | ガス噴射 |
 | sktok_rarebox | 更诱人珍宝 | More Alluring Treasures | 財宝の蠱惑 |
+| sktok_ray_2 | 广域警觉 | - | - |
 | sktok_rdblock | 阻拦 | Intercept | 障害物 |
 | sktok_rdrepair | 修复步道 | Restore Path | 歩道修復 |
 | sktok_recodr_1 | 实体程式 | Entitative Program | 実体プログラム |

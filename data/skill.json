@@ -2131,6 +2131,15 @@
     "ja_JP": "生命の木霊",
     "zh_CN": "生灵的回响"
   },
+  "skchr_ray_1": {
+    "zh_CN": "脱身矢"
+  },
+  "skchr_ray_2": {
+    "zh_CN": "广域警觉"
+  },
+  "skchr_ray_3": {
+    "zh_CN": "“得见光芒”"
+  },
   "skchr_red_1": {
     "en_US": "Execution Mode",
     "ja_JP": "処刑の構え",
@@ -2752,6 +2761,12 @@
     "en_US": "Seven-styles Kick",
     "ja_JP": "七武掠陣脚",
     "zh_CN": "七武掠阵踢"
+  },
+  "skchr_warmy_1": {
+    "zh_CN": "炎炎火焰"
+  },
+  "skchr_warmy_2": {
+    "zh_CN": "滔滔热流"
   },
   "skchr_weedy_1": {
     "en_US": "Barrel Burst",
@@ -3777,6 +3792,9 @@
     "en_US": "More Alluring Treasures",
     "ja_JP": "財宝の蠱惑",
     "zh_CN": "更诱人珍宝"
+  },
+  "sktok_ray_2": {
+    "zh_CN": "广域警觉"
   },
   "sktok_rdblock": {
     "en_US": "Intercept",

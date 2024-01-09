@@ -1188,6 +1188,9 @@
     "ja_JP": "リン",
     "zh_CN": "林"
   },
+  "char_4081_warmy": {
+    "zh_CN": "温米"
+  },
   "char_4082_qiubai": {
     "en_US": "Qiubai",
     "ja_JP": "チューバイ",
@@ -1246,6 +1249,9 @@
   },
   "char_4116_blkkgt": {
     "zh_CN": "锏"
+  },
+  "char_4117_ray": {
+    "zh_CN": "莱伊"
   },
   "char_411_tomimi": {
     "en_US": "Tomimi",

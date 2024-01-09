@@ -1149,6 +1149,36 @@
     "ja_JP": "寝言",
     "zh_CN": "呓语"
   },
+  "act16mini_01": {
+    "zh_CN": "双向通风"
+  },
+  "act16mini_02": {
+    "zh_CN": "热熔采掘"
+  },
+  "act16mini_03": {
+    "zh_CN": "不安全出口"
+  },
+  "act16mini_04": {
+    "zh_CN": "冻结壁交圈"
+  },
+  "act16mini_05": {
+    "zh_CN": "起爆自由面"
+  },
+  "act16mini_06": {
+    "zh_CN": "最小抵抗线"
+  },
+  "act16mini_07": {
+    "zh_CN": "牵引山岩"
+  },
+  "act16mini_08": {
+    "zh_CN": "主要运输巷"
+  },
+  "act16mini_s01": {
+    "zh_CN": "穿洞绳操作指南"
+  },
+  "act16mini_s02": {
+    "zh_CN": "升罐笼注意事项"
+  },
   "act16side_01": {
     "en_US": "Darkness Beneath the Light",
     "ja_JP": "灯台下暗し",

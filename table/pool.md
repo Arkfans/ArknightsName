@@ -93,6 +93,7 @@ tip: 请善用浏览器的搜索功能
 | SINGLE_43_0_1 | 烁尘烟中 | - | - |
 | SINGLE_45_0_1 | 游邦者 | - | - |
 | SINGLE_45_0_4 | 枯焰生花 | - | - |
+| SINGLE_45_0_7 | 一线微明 | - | - |
 | _ATTAIN_15_2_1 | - | Celebrate & Recollect | ロドスの道のり　回顧 |
 | _ATTAIN_22_1_2 | - | Celebration & Link-Up | ロドスの道のり・邂逅 |
 | _CLASSIC_45_0_2 | 跨年欢庆·中坚 | - | - |

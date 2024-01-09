@@ -61,6 +61,7 @@ tip: 请善用浏览器的搜索功能
 | act15sre_zone2 | 一十八峰 | Mountain Top | 一十八峰 |
 | act16d5_zone1 | 入画 | Leave From Yourself | 入画 |
 | act16d5_zone2 | 出画 | Come To Yourself | 出画 |
+| act16mini_zone1 | “下井” | - | - |
 | act16side_zone1 | 万国峰会 | Summit of Nations | 万国サミット |
 | act16side_zone2 | 圣殿之路 | Road to the Shrine | 聖堂へ至る道 |
 | act16sre_zone1 | 万国峰会 | Summit of Nations | 万国サミット |

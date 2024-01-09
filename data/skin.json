@@ -62,6 +62,9 @@
     "ja_JP": "夏の花弁FA361",
     "zh_CN": "夏卉 FA361"
   },
+  "char_1020_reed2@epoque#30": {
+    "zh_CN": "博物"
+  },
   "char_1021_kroos2@nian#8": {
     "en_US": "Along the Corridor",
     "ja_JP": "長廊遊",
@@ -386,6 +389,9 @@
     "en_US": "Leisurely Afternoon",
     "ja_JP": "うららか",
     "zh_CN": "闲适午后"
+  },
+  "char_183_skgoat@epoque#30": {
+    "zh_CN": "主修领域"
   },
   "char_185_frncat@wild#7": {
     "en_US": "Campfire Cooking Smoke",
@@ -1005,6 +1011,9 @@
     "en_US": "Tsukiyoi",
     "ja_JP": "月宵",
     "zh_CN": "月宵"
+  },
+  "char_388_mint@epoque#30": {
+    "zh_CN": "私人书房"
   },
   "char_391_rosmon@epoque#17": {
     "en_US": "Become Anew",

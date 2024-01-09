@@ -246,6 +246,7 @@ tip: 请善用浏览器的搜索功能
 | char_4077_palico | 泰拉大陆调查团 | Terra Research Commission | テラ大陸調査団 |
 | char_4078_bdhkgt | 截云 | Jieyun | ジエユン |
 | char_4080_lin | 林 | Lin | リン |
+| char_4081_warmy | 温米 | - | - |
 | char_4082_qiubai | 仇白 | Qiubai | チューバイ |
 | char_4083_chimes | 铎铃 | Wind Chimes | ウィンドチャイム |
 | char_4087_ines | 伊内丝 | Ines | イネス |
@@ -263,6 +264,7 @@ tip: 请善用浏览器的搜索功能
 | char_4110_delphn | 戴菲恩 | - | - |
 | char_4114_harold | 哈洛德 | - | - |
 | char_4116_blkkgt | 锏 | - | - |
+| char_4117_ray | 莱伊 | - | - |
 | char_411_tomimi | 特米米 | Tomimi | トミミ |
 | char_415_flint | 燧石 | Flint | フリント |
 | char_416_zumama | 森蚺 | Eunectes | ユーネクテス |
