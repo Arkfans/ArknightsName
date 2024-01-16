@@ -40,14 +40,17 @@
     "zh_CN": "秘杖·反重力模式"
   },
   "skchr_agoat2_1": {
+    "en_US": "Soundless Sustenance",
     "ja_JP": "無垢なる恵み",
     "zh_CN": "无声润物"
   },
   "skchr_agoat2_2": {
+    "en_US": "Cloudmist Shelter",
     "ja_JP": "雲煙の庇護",
     "zh_CN": "云霭荫佑"
   },
   "skchr_agoat2_3": {
+    "en_US": "Volcanic Echoes",
     "ja_JP": "ヴォルケーノ・エコー",
     "zh_CN": "火山回响"
   },
@@ -433,10 +436,12 @@
     "zh_CN": "急速拳"
   },
   "skchr_bryota_1": {
+    "en_US": "Power Strike β",
     "ja_JP": "強撃β",
     "zh_CN": "强力击·β型"
   },
   "skchr_bryota_2": {
+    "en_US": "Earthen Tenacity",
     "ja_JP": "岩石の根気",
     "zh_CN": "土石的恒心"
   },
@@ -456,6 +461,7 @@
     "zh_CN": "“挨打”"
   },
   "skchr_buildr_2": {
+    "en_US": "Engineer's Wish",
     "ja_JP": "建築家の願い",
     "zh_CN": "工程者之愿"
   },
@@ -2545,14 +2551,17 @@
     "zh_CN": "真银斩"
   },
   "skchr_swire2_1": {
+    "en_US": "Loyalty and Generosity",
     "ja_JP": "資金援助",
     "zh_CN": "仗义疏财"
   },
   "skchr_swire2_2": {
+    "en_US": "'Courtesy Gift'",
     "ja_JP": "「おもてなし」",
     "zh_CN": "“见面礼”"
   },
   "skchr_swire2_3": {
+    "en_US": "Lavish and Prodigal",
     "ja_JP": "千金一擲",
     "zh_CN": "千金一掷"
   },
@@ -3998,10 +4007,12 @@
     "zh_CN": "“咔嚓！”"
   },
   "sktok_stmbot": {
+    "en_US": "Steam Soda Bottle",
     "ja_JP": "スチームサイダー",
     "zh_CN": "水汽汽水瓶"
   },
   "sktok_stmpq": {
+    "en_US": "Decorative Geyser",
     "ja_JP": "景観噴水",
     "zh_CN": "景观喷泉"
   },
@@ -4026,6 +4037,7 @@
     "zh_CN": "新遣"
   },
   "sktok_swire2_gdtrap": {
+    "en_US": "'Courtesy Gift'",
     "ja_JP": "「おもてなし」",
     "zh_CN": "“见面礼”"
   },

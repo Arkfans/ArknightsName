@@ -663,21 +663,21 @@ tip: 请善用浏览器的搜索功能
 | enemy_1341_bthtms | 赏金猎人扰乱者 | Bounty Hunter Disruptor | 賞金稼ぎ撹乱者 |
 | enemy_1341_bthtms_2 | 赏金猎人扰乱者队长 | Bounty Hunter Disruptor Captain | 賞金稼ぎ精鋭撹乱者 |
 | enemy_1342_frtuna | 堕天使福尔图娜 | Fortuna, Fallen Angel | 堕天使フォルトゥナ |
-| enemy_1344_ddlamb | 温泉“淘气包” | - | 温泉「ノーティボーイ」 |
-| enemy_1344_ddlamb_2 | 温泉“乐淘淘气包” | - | 温泉「ジョイフルボーイ」 |
-| enemy_1345_tplamb | 风情街“操盘手” | - | 商店街「フリスビー」 |
-| enemy_1345_tplamb_2 | 风情街“健美操盘手” | - | 商店街「マッスルフリスビー」 |
-| enemy_1346_ynshp | 温泉“流浪汉” | - | 温泉「サーファー」 |
-| enemy_1346_ynshp_2 | 温泉“泥石流浪汉” | - | 温泉「シティサーファー」 |
-| enemy_1347_fyshp | 风情街“飞空员” | - | 商店街「フライヤー」 |
-| enemy_1347_fyshp_2 | 风情街“满天飞空员” | - | 商店街「クラウドフライヤー」 |
-| enemy_1348_rllamb | 城市“风行者” | - | 都市「ウィンドランナー」 |
-| enemy_1348_rllamb_2 | 城市“龙卷风行者” | - | 都市「トルネードランナー」 |
-| enemy_1349_rckshp | “大个子” | - | 「デカブツ」 |
-| enemy_1349_rckshp_2 | “大哥大个子” | - | 「デカブツ兄貴」 |
-| enemy_1350_mgcshp | 风情街“星术师” | - | 商店街「スターマジシャン」 |
-| enemy_1350_mgcshp_2 | 风情街“超新星术师” | - | 商店街「メテオマジシャン」 |
-| enemy_1351_yhhshp | “好朋友” | - | 「ベストフレンド」 |
+| enemy_1344_ddlamb | 温泉“淘气包” | Hot Spring 'Mischievous Rascal' | 温泉「ノーティボーイ」 |
+| enemy_1344_ddlamb_2 | 温泉“乐淘淘气包” | Hot Spring 'Jolly Rascal' | 温泉「ジョイフルボーイ」 |
+| enemy_1345_tplamb | 风情街“操盘手” | Fashion Street 'Hearty Heavy' | 商店街「フリスビー」 |
+| enemy_1345_tplamb_2 | 风情街“健美操盘手” | Fashion Street 'Robust Heavy' | 商店街「マッスルフリスビー」 |
+| enemy_1346_ynshp | 温泉“流浪汉” | Hot Spring 'Wandering Vagrant' | 温泉「サーファー」 |
+| enemy_1346_ynshp_2 | 温泉“泥石流浪汉” | Hot Spring 'Wandering Slider' | 温泉「シティサーファー」 |
+| enemy_1347_fyshp | 风情街“飞空员” | Fashion Street 'Ordinary Aviator' | 商店街「フライヤー」 |
+| enemy_1347_fyshp_2 | 风情街“满天飞空员” | Fashion Street 'Hyperactive Aviator' | 商店街「クラウドフライヤー」 |
+| enemy_1348_rllamb | 城市“风行者” | Urban 'Whirlwind Walker' | 都市「ウィンドランナー」 |
+| enemy_1348_rllamb_2 | 城市“龙卷风行者” | Urban 'Tornado Trendsetter' | 都市「トルネードランナー」 |
+| enemy_1349_rckshp | “大个子” | 'Big Fella' | 「デカブツ」 |
+| enemy_1349_rckshp_2 | “大哥大个子” | 'Big Man' | 「デカブツ兄貴」 |
+| enemy_1350_mgcshp | 风情街“星术师” | Fashion Street 'Stellar Caster' | 商店街「スターマジシャン」 |
+| enemy_1350_mgcshp_2 | 风情街“超新星术师” | Fashion Street 'Supernova Caster' | 商店街「メテオマジシャン」 |
+| enemy_1351_yhhshp | “好朋友” | 'Fluffy Buddy' | 「ベストフレンド」 |
 | enemy_1352_eslime | 辐能源石虫 | - | - |
 | enemy_1352_eslime_2 | 辐能源石虫·α | - | - |
 | enemy_1353_esabr | 匪帮混混 | - | - |
@@ -793,7 +793,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1542_wdslm | “变形者集群” | 'Damazti Cluster' | 「変形者」 |
 | enemy_1543_cstlrs | 克丽斯腾 | Kristen | クリステン |
 | enemy_1544_cledub | “花匠” | 'The Gardener' | 「ガーデナー」 |
-| enemy_1545_shpkg | 多利，“羊之主” | - | 「羊主」ドリー |
+| enemy_1545_shpkg | 多利，“羊之主” | Dolly, Sovereign of Sheep | 「羊主」ドリー |
 | enemy_1546_cliff | “桥夹”克里夫 | - | - |
 | enemy_1547_blord | 杜卡雷，“君主之红” | - | - |
 | enemy_1548_ltniak | 赫尔昏佐伦，“巫王” | - | - |

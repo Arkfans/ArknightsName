@@ -221,6 +221,7 @@
     "zh_CN": "限时累计签到"
   },
   "act16login": {
+    "en_US": "Sign-In Campaign",
     "ja_JP": "ログイン報酬",
     "zh_CN": "登录领取奖励"
   },
@@ -470,6 +471,7 @@
     "zh_CN": "限时累计签到"
   },
   "act27side": {
+    "en_US": "So Long, Adele: Home Away From Home",
     "ja_JP": "火山と雲と夢色の旅路",
     "zh_CN": "火山旅梦"
   },
@@ -549,6 +551,7 @@
     "zh_CN": "限时累计签到"
   },
   "act34sign": {
+    "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
@@ -674,6 +677,7 @@
     "zh_CN": "登录领取奖励"
   },
   "act6pray": {
+    "en_US": "Lungmen Lucky Strips",
     "ja_JP": "龍門おみくじ",
     "zh_CN": "龙门幸运墙登录活动"
   },

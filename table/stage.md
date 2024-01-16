@@ -486,28 +486,28 @@ tip: 请善用浏览器的搜索功能
 | act26side_st03 | 慈光引导 | Guide by Light | 導き行かせ給え |
 | act26side_tr01 | 祷告良辰 | Time to Pray | 静けき祈りの |
 | act26side_tr02 | 完全平安 | Absolute Peace | 賜れし安けさは |
-| act27side_01 | 你的耳朵长不长？ | - | 耳を垂らせる？ |
-| act27side_02 | 小蓝孩 | - | リトル・ボーイ・ブルー |
-| act27side_03 | 手指之家 | - | 指の家族 |
-| act27side_04 | 一个水手出海了 | - | 船乗りが海へ |
-| act27side_05 | 我会唱一首彩虹 | - | 虹を歌おう |
-| act27side_06 | 林中小木屋 | - | 森の中の小屋 |
-| act27side_07 | 靠着我的肩膀哭泣 | - | 泣くときは私の肩で |
-| act27side_08 | 爱之歌 | - | 愛してる |
-| act27side_mo01 | 乡间路带我回家 | - | カントリーロード |
-| act27side_s01 | 慢船行至东 | - | 東行きのスローボード |
-| act27side_s02 | 南方从未雨 | - | 南の空は青いまま |
-| act27side_s03 | 我正向西去 | - | 西へ向かおう |
-| act27side_s04 | 北境的森林 | - | 北国の森 |
-| act27side_s05 | 答案在风中 | - | 答えは風の中 |
-| act27side_sp01 | 玛丽有只毛绒绒 | - | メリーさんのめーちゃん |
-| act27side_sp02 | 小农夫在小山谷 | - | 小さな谷の農夫 |
-| act27side_sp03 | 划呀划呀划小船 | - | ボートを漕ごう |
-| act27side_st01 | 到站旁 | - | 駅に到着 |
-| act27side_st02 | 雨啊，雨啊，快离开 | - | 雨、雨、あっち行け |
-| act27side_st03 | 晴天 | - | 晴れの日 |
-| act27side_tr01 | 黑咩咩 | - | 黒いめーちゃん |
-| act27side_tr02 | 跟着我拍拍手 | - | 一緒に手を叩こう |
+| act27side_01 | 你的耳朵长不长？ | Do Your Ears Hang Low? | 耳を垂らせる？ |
+| act27side_02 | 小蓝孩 | Little Boy Blue | リトル・ボーイ・ブルー |
+| act27side_03 | 手指之家 | Finger Family | 指の家族 |
+| act27side_04 | 一个水手出海了 | A Sailor Went to Sea | 船乗りが海へ |
+| act27side_05 | 我会唱一首彩虹 | I Can Sing a Rainbow | 虹を歌おう |
+| act27side_06 | 林中小木屋 | Little Cabin in the Wood | 森の中の小屋 |
+| act27side_07 | 靠着我的肩膀哭泣 | Cry On My Shoulder | 泣くときは私の肩で |
+| act27side_08 | 爱之歌 | Skidamarink | 愛してる |
+| act27side_mo01 | 乡间路带我回家 | Take Me Home, Country Roads | カントリーロード |
+| act27side_s01 | 慢船行至东 | On a Slow Boat East | 東行きのスローボード |
+| act27side_s02 | 南方从未雨 | It Never Rains in the South | 南の空は青いまま |
+| act27side_s03 | 我正向西去 | I am Going to the West | 西へ向かおう |
+| act27side_s04 | 北境的森林 | Northern Wood | 北国の森 |
+| act27side_s05 | 答案在风中 | Blowing in the Wind | 答えは風の中 |
+| act27side_sp01 | 玛丽有只毛绒绒 | Mary Had A Little Fluffybeast | メリーさんのめーちゃん |
+| act27side_sp02 | 小农夫在小山谷 | The Farmer In The Dell | 小さな谷の農夫 |
+| act27side_sp03 | 划呀划呀划小船 | Row, Row, Row Your Boat | ボートを漕ごう |
+| act27side_st01 | 到站旁 | Down By the Station | 駅に到着 |
+| act27side_st02 | 雨啊，雨啊，快离开 | Rain, Rain, Go Away | 雨、雨、あっち行け |
+| act27side_st03 | 晴天 | Sunny Day | 晴れの日 |
+| act27side_tr01 | 黑咩咩 | Baa Baa Black | 黒いめーちゃん |
+| act27side_tr02 | 跟着我拍拍手 | Clap Along with Me | 一緒に手を叩こう |
 | act28side_01 | 孤独之地 | - | - |
 | act28side_02 | 双重保险 | - | - |
 | act28side_03 | 圈套 | - | - |

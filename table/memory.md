@@ -43,7 +43,7 @@ tip: 请善用浏览器的搜索功能
 | story_breeze_set_2_story_1 | 囚徒的幻梦 | Prisoner's Dream | 囚われ人のゆめ |
 | story_broca_set_1_story_1 | 信任的第一步 | The First Step Towards Trust | 信頼への第一歩 |
 | story_brownb_set_1_story_1 | 终场铃声 | Ending Bell | 決着のゴング |
-| story_bryota_set_1_story_1 | 风情街的日与夜 | - | 商店街の日々 |
+| story_bryota_set_1_story_1 | 风情街的日与夜 | Day & Night at Fashion Street | 商店街の日々 |
 | story_bstalk_set_1_story_1 | 呼唤荒野 | The Wilds Do They Call | 荒野への呼びかけ |
 | story_bubble_set_1_story_1 | 勇者的试炼 | - | - |
 | story_buildr_set_1_story_1 | 复还的羽兽 | - | - |
@@ -123,7 +123,7 @@ tip: 请善用浏览器的搜索功能
 | story_horn_set_1_story_1 | 独奏曲 | Solo | 独奏曲 |
 | story_hpsts_set_1_story_1 | 锻造 | Forging | 鍛造 |
 | story_huang_set_1_story_1 | 你愿意吗 | Will You? | 意思を問う |
-| story_humus_set_1_story_1 | 荒地巧匠 | - | 荒野の匠 |
+| story_humus_set_1_story_1 | 荒地巧匠 | Wasteland Artisan | 荒野の匠 |
 | story_ifrit_set_1_story_1 | 小队长 | Team Captain | 小隊長 |
 | story_indigo_set_1_story_1 | 硬核饮品 | Hardcore Drink | ハードなドリンク |
 | story_inside_set_1_story_1 | 机密任务 | Secret Mission | 極秘任務 |
@@ -168,7 +168,7 @@ tip: 请善用浏览器的搜索功能
 | story_morgan_set_1_story_1 | 巨轮之下 | Beneath the Worthy Wheel | 巨輪の下 |
 | story_mostma_set_1_story_1 | 高楼之上 | Atop the Skyscrapers | 高層ビルの上で |
 | story_myrrh_set_1_story_1 | 护身符 | Lucky Charm | 御守り |
-| story_myrtle_set_1_story_1 | 任务报告填写指南 | - | 任務報告書作成指南 |
+| story_myrtle_set_1_story_1 | 任务报告填写指南 | Mission Report Filing Guide | 任務報告書作成指南 |
 | story_nblade_set_1_story_1 | 授刀 | - | - |
 | story_ncdeer_set_1_story_1 | 大慈恻隐 | Great Compassion | 大いなる慈悲 |
 | story_nearl2_set_1_story_1 | 起点 | Starting Point | 起点 |
@@ -221,7 +221,7 @@ tip: 请善用浏览器的搜索功能
 | story_slbell_set_1_story_1 | 雪山外 | Beyond the Snowy Mountain | 雪山の外 |
 | story_slchan_set_1_story_1 | 崖上之心 | Heart of the Cliffs | 崖上の心 |
 | story_sleach_set_1_story_1 | 一双羽兽 | A Pair of Fowlbeasts | つがいの羽獣 |
-| story_sleach_set_2_story_1 | 鬓旁的花 | - | 耳元の花 |
+| story_sleach_set_2_story_1 | 鬓旁的花 | Flowers by the Temples of Your Head | 耳元の花 |
 | story_snakek_set_1_story_1 | 夺包奇遇 | - | - |
 | story_snsant_set_1_story_1 | 数字问题 | A Dilemma of Values | 数字の問題 |
 | story_sntlla_set_1_story_1 | 吹起未来的雪花 | - | - |

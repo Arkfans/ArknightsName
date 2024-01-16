@@ -684,6 +684,7 @@
     "zh_CN": "未来序曲寻访凭证"
   },
   "LIMITED_TKT_GACHA_10_4101": {
+    "en_US": "Footprints of the Clouds Headhunting Permit",
     "ja_JP": "4周年記念10回スカウト券",
     "zh_CN": "云过天空寻访凭证"
   },
@@ -766,6 +767,7 @@
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_4101": {
+    "en_US": "Headhunting Data Contract",
     "ja_JP": "限定契約証",
     "zh_CN": "寻访数据契约"
   },
@@ -1204,6 +1206,7 @@
     "zh_CN": "圣像碎片"
   },
   "act27side_token_fur": {
+    "en_US": "Fluffy Critter Wool",
     "ja_JP": "ピンクのふわふわ",
     "zh_CN": "毛绒绒生物的毛"
   },
@@ -1358,6 +1361,7 @@
     "zh_CN": "红松叶彩券"
   },
   "advanced_material_issue_voucher": {
+    "en_US": "Advanced Material Voucher",
     "ja_JP": "高級素材交換券",
     "zh_CN": "高级材料提货券"
   },
@@ -2171,6 +2175,7 @@
     "zh_CN": "中坚甄选5星干员"
   },
   "classic_fes_pick_tier_5_4101": {
+    "en_US": "Kernel Locating 5* Operator",
     "ja_JP": "中堅セレクト★5オペレーター",
     "zh_CN": "中坚甄选5星干员"
   },
@@ -2183,6 +2188,7 @@
     "zh_CN": "中坚甄选6星干员"
   },
   "classic_fes_pick_tier_6_4101": {
+    "en_US": "Kernel Locating 6* Operator",
     "ja_JP": "中堅セレクト★6オペレーター",
     "zh_CN": "中坚甄选6星干员"
   },
@@ -2423,6 +2429,7 @@
     "zh_CN": "重装芯片组印刻仪"
   },
   "mcardVoucher": {
+    "en_US": "Monthly Card",
     "ja_JP": "月パス",
     "zh_CN": "月卡"
   },
@@ -2462,6 +2469,7 @@
     "zh_CN": "数据增补仪"
   },
   "new_progress": {
+    "en_US": "Startup Cumulative Login Ticket",
     "ja_JP": "リリース累計ログインチケット",
     "zh_CN": "开服累登券"
   },
@@ -2511,6 +2519,7 @@
     "zh_CN": "耀骑士临光的信物"
   },
   "p_char_1016_agoat2": {
+    "en_US": "Eyjafjalla the Hvít Aska's Token",
     "ja_JP": "純燼エイヤフィヤトラの印",
     "zh_CN": "纯烬艾雅法拉的信物"
   },
@@ -2580,6 +2589,7 @@
     "zh_CN": "圣约送葬人的信物"
   },
   "p_char_1033_swire2": {
+    "en_US": "Swire the Elegant Wit's Token",
     "ja_JP": "琳琅スワイヤーの印",
     "zh_CN": "琳琅诗怀雅的信物"
   },
@@ -3680,6 +3690,7 @@
     "zh_CN": "杏仁的信物"
   },
   "p_char_4106_bryota": {
+    "en_US": "Bryophyta's Token",
     "ja_JP": "ブライオファイタの印",
     "zh_CN": "苍苔的信物"
   },
@@ -3877,6 +3888,7 @@
     "zh_CN": "龙舌兰的信物"
   },
   "p_char_488_buildr": {
+    "en_US": "Poncirus's Token",
     "ja_JP": "ポンシラスの印",
     "zh_CN": "青枳的信物"
   },
@@ -3942,6 +3954,7 @@
     "zh_CN": "巡林者的信物"
   },
   "premium_material_issue_voucher": {
+    "en_US": "Premium Material Voucher",
     "ja_JP": "特級素材交換券",
     "zh_CN": "特级材料提货券"
   },
@@ -4072,6 +4085,7 @@
     "zh_CN": "技术调查补给"
   },
   "randomMaterial_siesta2": {
+    "en_US": "Mountaincomm Trade Supplies",
     "ja_JP": "フェンレン貿易物流補給",
     "zh_CN": "峯联贸易物流补给"
   },
@@ -4142,10 +4156,12 @@
     "zh_CN": "二次认证徽记"
   },
   "return_credit_token2": {
+    "en_US": "Second Authentication Emblem",
     "ja_JP": "二次認証徽章",
     "zh_CN": "二次认证徽记"
   },
   "return_progress": {
+    "en_US": "Returnee Cumulative Login Ticket",
     "ja_JP": "リターン累計ログインチケット",
     "zh_CN": "回流累登券"
   },
@@ -4546,10 +4562,12 @@
     "zh_CN": "将进酒家具收藏包"
   },
   "uni_set_westCoast": {
+    "en_US": "Dossoles Holiday Furniture Pack",
     "ja_JP": "ドッソレスホリデー家具パック",
     "zh_CN": "多索雷斯假日家具收藏包"
   },
   "voucher_5chipPackage": {
+    "en_US": "Automatic Chip Etcher",
     "ja_JP": "SoCセルフプリンター",
     "zh_CN": "自助芯片印刻仪"
   },
@@ -4655,6 +4673,7 @@
     "zh_CN": "鞭刃的私人信件"
   },
   "voucher_full_takila": {
+    "en_US": "Tequila's Personal Letter",
     "ja_JP": "テキーラの手紙",
     "zh_CN": "龙舌兰的私人信件"
   },

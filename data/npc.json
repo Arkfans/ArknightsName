@@ -60,6 +60,9 @@
     ]
   },
   "avg_1016_agoat2_1": {
+    "en_US": [
+      "Adele"
+    ],
     "ja_JP": [
       "アデル"
     ],
@@ -191,6 +194,9 @@
     ]
   },
   "avg_1033_swire2_1": {
+    "en_US": [
+      "Swire"
+    ],
     "ja_JP": [
       "スワイヤー"
     ],
@@ -448,6 +454,9 @@
     ]
   },
   "avg_151_myrtle_1": {
+    "en_US": [
+      "Myrtle"
+    ],
     "ja_JP": [
       "テンニンカ"
     ],
@@ -544,6 +553,9 @@
     ]
   },
   "avg_180_amgoat_1": {
+    "en_US": [
+      "Adele"
+    ],
     "ja_JP": [
       "アデル"
     ],
@@ -1104,6 +1116,9 @@
     ]
   },
   "avg_340_shwaz_1": {
+    "en_US": [
+      "Schwarz"
+    ],
     "ja_JP": [
       "シュヴァルツ"
     ],
@@ -1768,6 +1783,12 @@
     ]
   },
   "avg_4106_bryota_1": {
+    "en_US": [
+      "Adele",
+      "Enis",
+      "Guiltless Man",
+      "Male Passerby"
+    ],
     "ja_JP": [
       "アデル",
       "エニス",
@@ -2113,6 +2134,9 @@
     ]
   },
   "avg_491_humus_1": {
+    "en_US": [
+      "Humus"
+    ],
     "ja_JP": [
       "ヒューマス"
     ],
@@ -2306,6 +2330,7 @@
       "A Kazimierz Villager",
       "A Shopkeeper",
       "A Strange Passerby",
+      "Discouraged Worker",
       "Drunkard",
       "Filon",
       "Honest Villager",
@@ -2314,6 +2339,7 @@
       "Joyful Worker",
       "Neighbor A",
       "Pondering Follower",
+      "Spirited Worker",
       "Strong Townsfolk",
       "Timid Miner",
       "Tired Worker",
@@ -2969,6 +2995,7 @@
       "Operator Saren",
       "Operator Straightedge",
       "Pilot",
+      "Rhodes Island Engineer",
       "Rhodes Island Field Operator",
       "Rhodes Island Field Operator B",
       "Rhodes Island Field Personnel",
@@ -3196,6 +3223,7 @@
       "Customer A",
       "Male Tourist",
       "Male Tourist A",
+      "Messenger",
       "Passerby A",
       "Shopkeeper B",
       "Tabloid Reporter",
@@ -3238,6 +3266,7 @@
       "Customer B",
       "Female Tourist",
       "Female Tourist A",
+      "Fragrance Shop Owner",
       "Manager",
       "Shopkeeper A",
       "Tourist B"
@@ -4374,6 +4403,7 @@
       "Archosauria D",
       "Aruna",
       "Clan Leader B",
+      "Coin Dealer",
       "Fighting Villager",
       "Groaning Archosauria",
       "Happy Archosauria",
@@ -4777,7 +4807,9 @@
       "Human Resources Operator",
       "Idle Operator",
       "Logistics Operator",
+      "Medic Operator",
       "Navigator A",
+      "Operator Susan",
       "Rhodes Island Field Operator",
       "Rhodes Island Operator",
       "Rhodes Island Operator A",
@@ -4843,6 +4875,7 @@
       "Hank",
       "Office Operator B",
       "Operator Chard",
+      "Operator Hoger",
       "Operator Shredder",
       "Rhodes Island Logistics Operator",
       "Rhodes Island Operator",
@@ -5042,6 +5075,11 @@
     ]
   },
   "avg_npc_1000_1": {
+    "en_US": [
+      "Bar Owner",
+      "Instrument Shop Owner",
+      "Male Instrument Shop Owner"
+    ],
     "ja_JP": [
       "バー店長",
       "楽器屋店主",
@@ -5054,6 +5092,10 @@
     ]
   },
   "avg_npc_1001_1": {
+    "en_US": [
+      "Female Instrument Shop Owner",
+      "Restaurant Owner"
+    ],
     "ja_JP": [
       "レストラン店長",
       "楽器屋女性店主"
@@ -5064,6 +5106,11 @@
     ]
   },
   "avg_npc_1002_1": {
+    "en_US": [
+      "An Elder by the Roadside",
+      "Cold Drinks Shop Owner",
+      "Elderly Shopkeeper"
+    ],
     "ja_JP": [
       "アイス屋の店主",
       "アイス屋店主",
@@ -5077,6 +5124,9 @@
     ]
   },
   "avg_npc_1003_1": {
+    "en_US": [
+      "Ceylon"
+    ],
     "ja_JP": [
       "セイロン"
     ],
@@ -5085,6 +5135,9 @@
     ]
   },
   "avg_npc_1004_1": {
+    "en_US": [
+      "Left-Behind Creature"
+    ],
     "ja_JP": [
       "取り残された生物"
     ],
@@ -5093,6 +5146,9 @@
     ]
   },
   "avg_npc_1005_1": {
+    "en_US": [
+      "Snowsant"
+    ],
     "ja_JP": [
       "スノーズント"
     ],
@@ -5101,6 +5157,9 @@
     ]
   },
   "avg_npc_1006_1": {
+    "en_US": [
+      "Solemn Creature"
+    ],
     "ja_JP": [
       "厳かな生物"
     ],
@@ -5109,6 +5168,9 @@
     ]
   },
   "avg_npc_1007_1": {
+    "en_US": [
+      "Gentle Creature"
+    ],
     "ja_JP": [
       "穏やかな生物"
     ],
@@ -5117,6 +5179,9 @@
     ]
   },
   "avg_npc_1008_1": {
+    "en_US": [
+      "Agitated Creature"
+    ],
     "ja_JP": [
       "焦る生物"
     ],
@@ -5125,6 +5190,9 @@
     ]
   },
   "avg_npc_1009_1": {
+    "en_US": [
+      "Coffee-colored Creature"
+    ],
     "ja_JP": [
       "コーヒー色の生物"
     ],
@@ -5151,6 +5219,10 @@
     ]
   },
   "avg_npc_1010_1": {
+    "en_US": [
+      "Cheerful Creature",
+      "Merry Creature"
+    ],
     "ja_JP": [
       "明るい生物",
       "楽しそうな生物"
@@ -5161,6 +5233,10 @@
     ]
   },
   "avg_npc_1011_1": {
+    "en_US": [
+      "Dozy Creature",
+      "Shrewd Creature"
+    ],
     "ja_JP": [
       "ぼうっとした生物",
       "抜け目ない生物"
@@ -5171,6 +5247,9 @@
     ]
   },
   "avg_npc_1012_1": {
+    "en_US": [
+      "Dozy Creature"
+    ],
     "ja_JP": [
       "ぼうっとした生物"
     ],
@@ -5179,6 +5258,10 @@
     ]
   },
   "avg_npc_1013_1": {
+    "en_US": [
+      "Creature Carrying a Miner's Lamp",
+      "Lost Creature"
+    ],
     "ja_JP": [
       "ランプを背負った生物",
       "迷子の生物"
@@ -5189,6 +5272,11 @@
     ]
   },
   "avg_npc_1014_1": {
+    "en_US": [
+      "Dolly",
+      "Strange Creature",
+      "Swire"
+    ],
     "ja_JP": [
       "スワイヤー",
       "ドリー",
@@ -5201,6 +5289,11 @@
     ]
   },
   "avg_npc_1015_1": {
+    "en_US": [
+      "Ann-Maier",
+      "Impoverished Girl",
+      "Quiet Girl"
+    ],
     "ja_JP": [
       "アンマイヤー",
       "意気消沈した少女",
@@ -6480,6 +6573,7 @@
       "Greedy Businessman",
       "Host",
       "Local Judge A",
+      "MC",
       "Mayor",
       "Noble Gentleman",
       "Plump Merchant",
@@ -6540,6 +6634,7 @@
     "en_US": [
       "Adulating Noble",
       "Astute Noble",
+      "Bankrupt Merchant",
       "Bishmer",
       "Butler",
       "Cowell",
@@ -7453,6 +7548,7 @@
       "A Corporate Employee A",
       "Boy",
       "Branch Office Manager",
+      "City Hall Staffer",
       "Government Official",
       "Informant",
       "Knight Scout",
@@ -7762,6 +7858,7 @@
       "Infected",
       "Infected Citizen",
       "Jurian",
+      "Lean Man",
       "Merchant",
       "Messenger MacMartin",
       "Michael",
@@ -9426,6 +9523,7 @@
     "en_US": [
       "High-Ranking Officer",
       "Veteran Officer",
+      "Victorian Barracks Officer",
       "Victorian Officer",
       "Victorian Soldier"
     ],
@@ -9585,6 +9683,7 @@
     "en_US": [
       "Angry Thug",
       "Calm Thug",
+      "Hairdresser",
       "Londinium Citizen",
       "Newsagent",
       "Worked-Up Thug"
@@ -9616,7 +9715,9 @@
       "Catastrophe Messenger?",
       "Earl's Attendant",
       "Fleeing Londinier",
+      "Haggard Woman",
       "Ivy",
+      "Lanky Inventor",
       "Londinium Citizen",
       "Londinium Citizen B",
       "Strange Woman",
@@ -11760,7 +11861,8 @@
   },
   "avg_npc_700_1": {
     "en_US": [
-      "Rubio's Daughter"
+      "Rubio's Daughter",
+      "Thin Girl"
     ],
     "ja_JP": [
       "ルビオの娘",
@@ -13131,6 +13233,9 @@
     ]
   },
   "avg_npc_972_1": {
+    "en_US": [
+      "HR Operator"
+    ],
     "ja_JP": [
       "人事部オペレーター"
     ],
@@ -13152,6 +13257,9 @@
     ]
   },
   "avg_npc_989_1": {
+    "en_US": [
+      "Adele"
+    ],
     "ja_JP": [
       "アデル"
     ],
@@ -13160,6 +13268,9 @@
     ]
   },
   "avg_npc_990_1": {
+    "en_US": [
+      "Bison"
+    ],
     "ja_JP": [
       "バイソン"
     ],
@@ -13168,6 +13279,15 @@
     ]
   },
   "avg_npc_991_1": {
+    "en_US": [
+      "Boy",
+      "Curious Boy",
+      "Excited Boy",
+      "Frightened Boy",
+      "Lut",
+      "Lut & Liv",
+      "Very Happy Boy"
+    ],
     "ja_JP": [
       "ルート",
       "ルート&リーフ",
@@ -13189,6 +13309,19 @@
     ]
   },
   "avg_npc_992_1": {
+    "en_US": [
+      "Curious Girl",
+      "Dejected Little Girl",
+      "Excited Girl",
+      "Girl",
+      "Girl & Boy",
+      "Ice Cream-Craving Girl",
+      "Indignant Girl",
+      "Innocent Girl",
+      "Joyful Girl",
+      "Liv",
+      "Unhappy Girl"
+    ],
     "ja_JP": [
       "アイスを食べたい女の子",
       "リーフ",
@@ -13217,6 +13350,10 @@
     ]
   },
   "avg_npc_993_1": {
+    "en_US": [
+      "Byrd",
+      "Guitar-Playing Singer"
+    ],
     "ja_JP": [
       "ギターを弾く歌手",
       "バード"
@@ -13227,6 +13364,10 @@
     ]
   },
   "avg_npc_994_1": {
+    "en_US": [
+      "Harley",
+      "Stylish Shopkeeper"
+    ],
     "ja_JP": [
       "おしゃれな店主",
       "ヘイリー"
@@ -13237,6 +13378,12 @@
     ]
   },
   "avg_npc_995_1": {
+    "en_US": [
+      "Bored Man",
+      "Excited Man",
+      "Man Becoming Excited",
+      "Pelipper"
+    ],
     "ja_JP": [
       "だらけた男性",
       "ペリペ",
@@ -13251,6 +13398,9 @@
     ]
   },
   "avg_npc_996_1": {
+    "en_US": [
+      "Kahn"
+    ],
     "ja_JP": [
       "カーン"
     ],
@@ -13259,6 +13409,11 @@
     ]
   },
   "avg_npc_997_1": {
+    "en_US": [
+      "Costa",
+      "Tired Government Employee",
+      "Tired Voice"
+    ],
     "ja_JP": [
       "コスタ",
       "疲れ切った政府職員",
@@ -13271,6 +13426,11 @@
     ]
   },
   "avg_npc_998_1": {
+    "en_US": [
+      "Dispirited Worker",
+      "Nervous Worker",
+      "Weary Worker"
+    ],
     "ja_JP": [
       "元気のない労働者",
       "意気消沈した労働者",
@@ -13286,6 +13446,9 @@
     ]
   },
   "avg_npc_999_1": {
+    "en_US": [
+      "Keller"
+    ],
     "ja_JP": [
       "ケラー"
     ],

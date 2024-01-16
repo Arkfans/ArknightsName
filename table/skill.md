@@ -13,9 +13,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_aglina_1 | 秘杖·速充模式 | Arcane Staff - Quick Charge Mode | 秘杖・急収束　 |
 | skchr_aglina_2 | 秘杖·微粒模式 | Arcane Staff - Particle Mode | 秘杖・微粒子 |
 | skchr_aglina_3 | 秘杖·反重力模式 | Arcane Staff - Anti-Gravity Mode | 秘杖・反重力 |
-| skchr_agoat2_1 | 无声润物 | - | 無垢なる恵み |
-| skchr_agoat2_2 | 云霭荫佑 | - | 雲煙の庇護 |
-| skchr_agoat2_3 | 火山回响 | - | ヴォルケーノ・エコー |
+| skchr_agoat2_1 | 无声润物 | Soundless Sustenance | 無垢なる恵み |
+| skchr_agoat2_2 | 云霭荫佑 | Cloudmist Shelter | 雲煙の庇護 |
+| skchr_agoat2_3 | 火山回响 | Volcanic Echoes | ヴォルケーノ・エコー |
 | skchr_aguard_1 | 亮剑 | Drawing Sword | 鋭刃 |
 | skchr_akafyu_1 | 信影流·雷刀之势 | Nobukage-ryu - Kaminari Gatana no Zei | 信影流・雷刀之勢 |
 | skchr_akafyu_2 | 信影流·十文字胜 | Nobukage-ryu - Juumonji Masaru | 信影流・十文字勝 |
@@ -95,12 +95,12 @@ tip: 请善用浏览器的搜索功能
 | skchr_broca_2 | 高压电流 | High-Voltage Current | ハイボルテージ |
 | skchr_brownb_1 | 高机动 | Flexibility | ウィービング |
 | skchr_brownb_2 | 急速拳 | Soaring Fists | ラッシュ |
-| skchr_bryota_1 | 强力击·β型 | - | 強撃β |
-| skchr_bryota_2 | 土石的恒心 | - | 岩石の根気 |
+| skchr_bryota_1 | 强力击·β型 | Power Strike β | 強撃β |
+| skchr_bryota_2 | 土石的恒心 | Earthen Tenacity | 岩石の根気 |
 | skchr_bstalk_1 | 定点指令 | Sentinel Command | 出動指令 |
 | skchr_bstalk_2 | “大家一起上” | 'Everyone Together!' | 「全員集合！」 |
 | skchr_bubble_2 | “挨打” | 'Beaten Up' | 「かかってこい！」 |
-| skchr_buildr_2 | 工程者之愿 | - | 建築家の願い |
+| skchr_buildr_2 | 工程者之愿 | Engineer's Wish | 建築家の願い |
 | skchr_cammou_2 | 同步索敌攻击 | Synchronized Attack | 同調索敵攻撃 |
 | skchr_caper_1 | 强力击·β型 | - | - |
 | skchr_caper_2 | 乐趣加倍 | - | - |
@@ -528,9 +528,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_svrash_1 | 强力击·γ型 | Power Strike γ | 強撃γ |
 | skchr_svrash_2 | 雪境生存法则 | Rules of Survival | 雪境生存戦略 |
 | skchr_svrash_3 | 真银斩 | Truesilver Slash | 真銀斬 |
-| skchr_swire2_1 | 仗义疏财 | - | 資金援助 |
-| skchr_swire2_2 | “见面礼” | - | 「おもてなし」 |
-| skchr_swire2_3 | 千金一掷 | - | 千金一擲 |
+| skchr_swire2_1 | 仗义疏财 | Loyalty and Generosity | 資金援助 |
+| skchr_swire2_2 | “见面礼” | 'Courtesy Gift' | 「おもてなし」 |
+| skchr_swire2_3 | 千金一掷 | Lavish and Prodigal | 千金一擲 |
 | skchr_swire_1 | 指挥调度 | Command and Dispatch | 統括指揮 |
 | skchr_swire_2 | 协同作战 | Cooperative Combat | 協同作戦 |
 | skchr_swllow_1 | 飞羽 | Flying Feathers | 風切 |
@@ -836,13 +836,13 @@ tip: 请善用浏览器的搜索功能
 | sktok_snipera | 空域控制 | - | - |
 | sktok_sniperb | 空域控制 | - | - |
 | sktok_stdurk_1 | “咔嚓！” | - | - |
-| sktok_stmbot | 水汽汽水瓶 | - | スチームサイダー |
-| sktok_stmpq | 景观喷泉 | - | 景観噴水 |
+| sktok_stmbot | 水汽汽水瓶 | Steam Soda Bottle | スチームサイダー |
+| sktok_stmpq | 景观喷泉 | Decorative Geyser | 景観噴水 |
 | sktok_stone | 阻挡路线 | Obstruct | 進路妨害 |
 | sktok_storm | 沙尘暴 | Sandstorm | 砂嵐 |
 | sktok_streasure | 宝刺伤人 | Dangerous Spike | 危険な棘 |
 | sktok_supplycard | 新遣 | Dispatch | 派遣 |
-| sktok_swire2_gdtrap | “见面礼” | - | 「おもてなし」 |
+| sktok_swire2_gdtrap | “见面礼” | 'Courtesy Gift' | 「おもてなし」 |
 | sktok_tbattbc | 钳兽壳粉 | Gloompincer Shell Meal | 鉗獣殻パウダー |
 | sktok_tbpsnc | 高效泡打粉 | High-Efficiency Baking Powder | ベーキングパウダー |
 | sktok_tbsmmc | 芳香精油 | Fragrant Essential Oil | エッセンシャルオイル |

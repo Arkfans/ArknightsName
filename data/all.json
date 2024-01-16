@@ -74,6 +74,7 @@
   "char_1016_agoat2": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Eyjafjalla the Hvít Aska",
       "ja_JP": "純燼エイヤフィヤトラ",
       "zh_CN": "纯烬艾雅法拉"
     }
@@ -185,6 +186,7 @@
   "char_1033_swire2": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Swire the Elegant Wit",
       "ja_JP": "琳琅スワイヤー",
       "zh_CN": "琳琅诗怀雅"
     }
@@ -1996,6 +1998,7 @@
   "char_4106_bryota": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Bryophyta",
       "ja_JP": "ブライオファイタ",
       "zh_CN": "苍苔"
     }
@@ -2327,6 +2330,7 @@
   "char_488_buildr": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Poncirus",
       "ja_JP": "ポンシラス",
       "zh_CN": "青枳"
     }
@@ -2818,6 +2822,7 @@
   "token_10031_swire2_gdtrap": {
     "type": "TOKEN",
     "names": {
+      "en_US": "Champagne Bomb",
       "ja_JP": "シャンパン爆弾",
       "zh_CN": "香槟炸弹"
     }
@@ -3769,6 +3774,7 @@
   "trap_122_stmpq": {
     "type": "TRAP",
     "names": {
+      "en_US": "Decorative Geyser",
       "ja_JP": "景観噴水",
       "zh_CN": "景观喷泉"
     }
@@ -3776,6 +3782,7 @@
   "trap_123_stmbot": {
     "type": "TRAP",
     "names": {
+      "en_US": "Steam Soda Bottle",
       "ja_JP": "スチームサイダー",
       "zh_CN": "水汽汽水瓶"
     }
@@ -4609,6 +4616,7 @@
   "char_1026_gvial2@summer#12": {
     "type": "SKIN",
     "names": {
+      "en_US": "Holiday HD26",
       "ja_JP": "ホリデーHD26",
       "zh_CN": "悠然假日 HD26"
     }
@@ -4984,6 +4992,7 @@
   "char_151_myrtle@summer#12": {
     "type": "SKIN",
     "names": {
+      "en_US": "Summer Flowers FA062",
       "ja_JP": "夏の花弁FA062",
       "zh_CN": "夏卉 FA062"
     }
@@ -6109,6 +6118,7 @@
   "char_377_gdglow@summer#12": {
     "type": "SKIN",
     "names": {
+      "en_US": "Summer Flowers FA394",
       "ja_JP": "夏の花弁FA394",
       "zh_CN": "夏卉 FA394"
     }
@@ -6284,6 +6294,7 @@
   "char_4041_chnut@summer#12": {
     "type": "SKIN",
     "names": {
+      "en_US": "Holiday HDm57",
       "ja_JP": "ホリデーHDm57",
       "zh_CN": "悠然假日 HDm57"
     }
@@ -12165,6 +12176,7 @@
   "enemy_1344_ddlamb": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Hot Spring 'Mischievous Rascal'",
       "ja_JP": "温泉「ノーティボーイ」",
       "zh_CN": "温泉“淘气包”"
     }
@@ -12172,6 +12184,7 @@
   "enemy_1344_ddlamb_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Hot Spring 'Jolly Rascal'",
       "ja_JP": "温泉「ジョイフルボーイ」",
       "zh_CN": "温泉“乐淘淘气包”"
     }
@@ -12179,6 +12192,7 @@
   "enemy_1345_tplamb": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Fashion Street 'Hearty Heavy'",
       "ja_JP": "商店街「フリスビー」",
       "zh_CN": "风情街“操盘手”"
     }
@@ -12186,6 +12200,7 @@
   "enemy_1345_tplamb_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Fashion Street 'Robust Heavy'",
       "ja_JP": "商店街「マッスルフリスビー」",
       "zh_CN": "风情街“健美操盘手”"
     }
@@ -12193,6 +12208,7 @@
   "enemy_1346_ynshp": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Hot Spring 'Wandering Vagrant'",
       "ja_JP": "温泉「サーファー」",
       "zh_CN": "温泉“流浪汉”"
     }
@@ -12200,6 +12216,7 @@
   "enemy_1346_ynshp_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Hot Spring 'Wandering Slider'",
       "ja_JP": "温泉「シティサーファー」",
       "zh_CN": "温泉“泥石流浪汉”"
     }
@@ -12207,6 +12224,7 @@
   "enemy_1347_fyshp": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Fashion Street 'Ordinary Aviator'",
       "ja_JP": "商店街「フライヤー」",
       "zh_CN": "风情街“飞空员”"
     }
@@ -12214,6 +12232,7 @@
   "enemy_1347_fyshp_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Fashion Street 'Hyperactive Aviator'",
       "ja_JP": "商店街「クラウドフライヤー」",
       "zh_CN": "风情街“满天飞空员”"
     }
@@ -12221,6 +12240,7 @@
   "enemy_1348_rllamb": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Urban 'Whirlwind Walker'",
       "ja_JP": "都市「ウィンドランナー」",
       "zh_CN": "城市“风行者”"
     }
@@ -12228,6 +12248,7 @@
   "enemy_1348_rllamb_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Urban 'Tornado Trendsetter'",
       "ja_JP": "都市「トルネードランナー」",
       "zh_CN": "城市“龙卷风行者”"
     }
@@ -12235,6 +12256,7 @@
   "enemy_1349_rckshp": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Big Fella'",
       "ja_JP": "「デカブツ」",
       "zh_CN": "“大个子”"
     }
@@ -12242,6 +12264,7 @@
   "enemy_1349_rckshp_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Big Man'",
       "ja_JP": "「デカブツ兄貴」",
       "zh_CN": "“大哥大个子”"
     }
@@ -12249,6 +12272,7 @@
   "enemy_1350_mgcshp": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Fashion Street 'Stellar Caster'",
       "ja_JP": "商店街「スターマジシャン」",
       "zh_CN": "风情街“星术师”"
     }
@@ -12256,6 +12280,7 @@
   "enemy_1350_mgcshp_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Fashion Street 'Supernova Caster'",
       "ja_JP": "商店街「メテオマジシャン」",
       "zh_CN": "风情街“超新星术师”"
     }
@@ -12263,6 +12288,7 @@
   "enemy_1351_yhhshp": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Fluffy Buddy'",
       "ja_JP": "「ベストフレンド」",
       "zh_CN": "“好朋友”"
     }
@@ -13046,6 +13072,7 @@
   "enemy_1545_shpkg": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Dolly, Sovereign of Sheep",
       "ja_JP": "「羊主」ドリー",
       "zh_CN": "多利，“羊之主”"
     }
@@ -14347,6 +14374,7 @@
   "act16login": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Sign-In Campaign",
       "ja_JP": "ログイン報酬",
       "zh_CN": "登录领取奖励"
     }
@@ -14758,6 +14786,7 @@
   "act27side": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "So Long, Adele: Home Away From Home",
       "ja_JP": "火山と雲と夢色の旅路",
       "zh_CN": "火山旅梦"
     }
@@ -14891,6 +14920,7 @@
   "act34sign": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
@@ -15100,6 +15130,7 @@
   "act6pray": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Lungmen Lucky Strips",
       "ja_JP": "龍門おみくじ",
       "zh_CN": "龙门幸运墙登录活动"
     }
@@ -16673,6 +16704,7 @@
   "LIMITED_TKT_GACHA_10_4101": {
     "type": "ITEM",
     "names": {
+      "en_US": "Footprints of the Clouds Headhunting Permit",
       "ja_JP": "4周年記念10回スカウト券",
       "zh_CN": "云过天空寻访凭证"
     }
@@ -16806,6 +16838,7 @@
   "LMTGS_COIN_4101": {
     "type": "ITEM",
     "names": {
+      "en_US": "Headhunting Data Contract",
       "ja_JP": "限定契約証",
       "zh_CN": "寻访数据契约"
     }
@@ -17517,6 +17550,7 @@
   "act27side_token_fur": {
     "type": "ITEM",
     "names": {
+      "en_US": "Fluffy Critter Wool",
       "ja_JP": "ピンクのふわふわ",
       "zh_CN": "毛绒绒生物的毛"
     }
@@ -17782,6 +17816,7 @@
   "advanced_material_issue_voucher": {
     "type": "ITEM",
     "names": {
+      "en_US": "Advanced Material Voucher",
       "ja_JP": "高級素材交換券",
       "zh_CN": "高级材料提货券"
     }
@@ -19093,6 +19128,7 @@
   "classic_fes_pick_tier_5_4101": {
     "type": "ITEM",
     "names": {
+      "en_US": "Kernel Locating 5* Operator",
       "ja_JP": "中堅セレクト★5オペレーター",
       "zh_CN": "中坚甄选5星干员"
     }
@@ -19114,6 +19150,7 @@
   "classic_fes_pick_tier_6_4101": {
     "type": "ITEM",
     "names": {
+      "en_US": "Kernel Locating 6* Operator",
       "ja_JP": "中堅セレクト★6オペレーター",
       "zh_CN": "中坚甄选6星干员"
     }
@@ -19501,6 +19538,7 @@
   "mcardVoucher": {
     "type": "ITEM",
     "names": {
+      "en_US": "Monthly Card",
       "ja_JP": "月パス",
       "zh_CN": "月卡"
     }
@@ -19564,6 +19602,7 @@
   "new_progress": {
     "type": "ITEM",
     "names": {
+      "en_US": "Startup Cumulative Login Ticket",
       "ja_JP": "リリース累計ログインチケット",
       "zh_CN": "开服累登券"
     }
@@ -19643,6 +19682,7 @@
   "p_char_1016_agoat2": {
     "type": "ITEM",
     "names": {
+      "en_US": "Eyjafjalla the Hvít Aska's Token",
       "ja_JP": "純燼エイヤフィヤトラの印",
       "zh_CN": "纯烬艾雅法拉的信物"
     }
@@ -19754,6 +19794,7 @@
   "p_char_1033_swire2": {
     "type": "ITEM",
     "names": {
+      "en_US": "Swire the Elegant Wit's Token",
       "ja_JP": "琳琅スワイヤーの印",
       "zh_CN": "琳琅诗怀雅的信物"
     }
@@ -21529,6 +21570,7 @@
   "p_char_4106_bryota": {
     "type": "ITEM",
     "names": {
+      "en_US": "Bryophyta's Token",
       "ja_JP": "ブライオファイタの印",
       "zh_CN": "苍苔的信物"
     }
@@ -21852,6 +21894,7 @@
   "p_char_488_buildr": {
     "type": "ITEM",
     "names": {
+      "en_US": "Poncirus's Token",
       "ja_JP": "ポンシラスの印",
       "zh_CN": "青枳的信物"
     }
@@ -21959,6 +22002,7 @@
   "premium_material_issue_voucher": {
     "type": "ITEM",
     "names": {
+      "en_US": "Premium Material Voucher",
       "ja_JP": "特級素材交換券",
       "zh_CN": "特级材料提货券"
     }
@@ -22170,6 +22214,7 @@
   "randomMaterial_siesta2": {
     "type": "ITEM",
     "names": {
+      "en_US": "Mountaincomm Trade Supplies",
       "ja_JP": "フェンレン貿易物流補給",
       "zh_CN": "峯联贸易物流补给"
     }
@@ -22285,6 +22330,7 @@
   "return_credit_token2": {
     "type": "ITEM",
     "names": {
+      "en_US": "Second Authentication Emblem",
       "ja_JP": "二次認証徽章",
       "zh_CN": "二次认证徽记"
     }
@@ -22292,6 +22338,7 @@
   "return_progress": {
     "type": "ITEM",
     "names": {
+      "en_US": "Returnee Cumulative Login Ticket",
       "ja_JP": "リターン累計ログインチケット",
       "zh_CN": "回流累登券"
     }
@@ -22941,6 +22988,7 @@
   "uni_set_westCoast": {
     "type": "ITEM",
     "names": {
+      "en_US": "Dossoles Holiday Furniture Pack",
       "ja_JP": "ドッソレスホリデー家具パック",
       "zh_CN": "多索雷斯假日家具收藏包"
     }
@@ -22948,6 +22996,7 @@
   "voucher_5chipPackage": {
     "type": "ITEM",
     "names": {
+      "en_US": "Automatic Chip Etcher",
       "ja_JP": "SoCセルフプリンター",
       "zh_CN": "自助芯片印刻仪"
     }
@@ -23119,6 +23168,7 @@
   "voucher_full_takila": {
     "type": "ITEM",
     "names": {
+      "en_US": "Tequila's Personal Letter",
       "ja_JP": "テキーラの手紙",
       "zh_CN": "龙舌兰的私人信件"
     }
@@ -24165,6 +24215,7 @@
   "_LIMITED_25_0_5": {
     "type": "POOL",
     "names": {
+      "en_US": "Cloudtop Lucid Dreams",
       "ja_JP": "雲間の明晰夢"
     }
   },
@@ -24738,6 +24789,7 @@
   "skchr_agoat2_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Soundless Sustenance",
       "ja_JP": "無垢なる恵み",
       "zh_CN": "无声润物"
     }
@@ -24745,6 +24797,7 @@
   "skchr_agoat2_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Cloudmist Shelter",
       "ja_JP": "雲煙の庇護",
       "zh_CN": "云霭荫佑"
     }
@@ -24752,6 +24805,7 @@
   "skchr_agoat2_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Volcanic Echoes",
       "ja_JP": "ヴォルケーノ・エコー",
       "zh_CN": "火山回响"
     }
@@ -25377,6 +25431,7 @@
   "skchr_bryota_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Power Strike β",
       "ja_JP": "強撃β",
       "zh_CN": "强力击·β型"
     }
@@ -25384,6 +25439,7 @@
   "skchr_bryota_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Earthen Tenacity",
       "ja_JP": "岩石の根気",
       "zh_CN": "土石的恒心"
     }
@@ -25415,6 +25471,7 @@
   "skchr_buildr_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Engineer's Wish",
       "ja_JP": "建築家の願い",
       "zh_CN": "工程者之愿"
     }
@@ -28788,6 +28845,7 @@
   "skchr_swire2_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Loyalty and Generosity",
       "ja_JP": "資金援助",
       "zh_CN": "仗义疏财"
     }
@@ -28795,6 +28853,7 @@
   "skchr_swire2_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "'Courtesy Gift'",
       "ja_JP": "「おもてなし」",
       "zh_CN": "“见面礼”"
     }
@@ -28802,6 +28861,7 @@
   "skchr_swire2_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Lavish and Prodigal",
       "ja_JP": "千金一擲",
       "zh_CN": "千金一掷"
     }
@@ -31165,6 +31225,7 @@
   "sktok_stmbot": {
     "type": "SKILL",
     "names": {
+      "en_US": "Steam Soda Bottle",
       "ja_JP": "スチームサイダー",
       "zh_CN": "水汽汽水瓶"
     }
@@ -31172,6 +31233,7 @@
   "sktok_stmpq": {
     "type": "SKILL",
     "names": {
+      "en_US": "Decorative Geyser",
       "ja_JP": "景観噴水",
       "zh_CN": "景观喷泉"
     }
@@ -31211,6 +31273,7 @@
   "sktok_swire2_gdtrap": {
     "type": "SKILL",
     "names": {
+      "en_US": "'Courtesy Gift'",
       "ja_JP": "「おもてなし」",
       "zh_CN": "“见面礼”"
     }
@@ -35440,6 +35503,7 @@
   "act27side_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Do Your Ears Hang Low?",
       "ja_JP": "耳を垂らせる？",
       "zh_CN": "你的耳朵长不长？"
     }
@@ -35447,6 +35511,7 @@
   "act27side_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Little Boy Blue",
       "ja_JP": "リトル・ボーイ・ブルー",
       "zh_CN": "小蓝孩"
     }
@@ -35454,6 +35519,7 @@
   "act27side_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Finger Family",
       "ja_JP": "指の家族",
       "zh_CN": "手指之家"
     }
@@ -35461,6 +35527,7 @@
   "act27side_04": {
     "type": "STAGE",
     "names": {
+      "en_US": "A Sailor Went to Sea",
       "ja_JP": "船乗りが海へ",
       "zh_CN": "一个水手出海了"
     }
@@ -35468,6 +35535,7 @@
   "act27side_05": {
     "type": "STAGE",
     "names": {
+      "en_US": "I Can Sing a Rainbow",
       "ja_JP": "虹を歌おう",
       "zh_CN": "我会唱一首彩虹"
     }
@@ -35475,6 +35543,7 @@
   "act27side_06": {
     "type": "STAGE",
     "names": {
+      "en_US": "Little Cabin in the Wood",
       "ja_JP": "森の中の小屋",
       "zh_CN": "林中小木屋"
     }
@@ -35482,6 +35551,7 @@
   "act27side_07": {
     "type": "STAGE",
     "names": {
+      "en_US": "Cry On My Shoulder",
       "ja_JP": "泣くときは私の肩で",
       "zh_CN": "靠着我的肩膀哭泣"
     }
@@ -35489,6 +35559,7 @@
   "act27side_08": {
     "type": "STAGE",
     "names": {
+      "en_US": "Skidamarink",
       "ja_JP": "愛してる",
       "zh_CN": "爱之歌"
     }
@@ -35496,6 +35567,7 @@
   "act27side_mo01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Take Me Home, Country Roads",
       "ja_JP": "カントリーロード",
       "zh_CN": "乡间路带我回家"
     }
@@ -35503,6 +35575,7 @@
   "act27side_s01": {
     "type": "STAGE",
     "names": {
+      "en_US": "On a Slow Boat East",
       "ja_JP": "東行きのスローボード",
       "zh_CN": "慢船行至东"
     }
@@ -35510,6 +35583,7 @@
   "act27side_s02": {
     "type": "STAGE",
     "names": {
+      "en_US": "It Never Rains in the South",
       "ja_JP": "南の空は青いまま",
       "zh_CN": "南方从未雨"
     }
@@ -35517,6 +35591,7 @@
   "act27side_s03": {
     "type": "STAGE",
     "names": {
+      "en_US": "I am Going to the West",
       "ja_JP": "西へ向かおう",
       "zh_CN": "我正向西去"
     }
@@ -35524,6 +35599,7 @@
   "act27side_s04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Northern Wood",
       "ja_JP": "北国の森",
       "zh_CN": "北境的森林"
     }
@@ -35531,6 +35607,7 @@
   "act27side_s05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Blowing in the Wind",
       "ja_JP": "答えは風の中",
       "zh_CN": "答案在风中"
     }
@@ -35538,6 +35615,7 @@
   "act27side_sp01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Mary Had A Little Fluffybeast",
       "ja_JP": "メリーさんのめーちゃん",
       "zh_CN": "玛丽有只毛绒绒"
     }
@@ -35545,6 +35623,7 @@
   "act27side_sp02": {
     "type": "STAGE",
     "names": {
+      "en_US": "The Farmer In The Dell",
       "ja_JP": "小さな谷の農夫",
       "zh_CN": "小农夫在小山谷"
     }
@@ -35552,6 +35631,7 @@
   "act27side_sp03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Row, Row, Row Your Boat",
       "ja_JP": "ボートを漕ごう",
       "zh_CN": "划呀划呀划小船"
     }
@@ -35559,6 +35639,7 @@
   "act27side_st01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Down By the Station",
       "ja_JP": "駅に到着",
       "zh_CN": "到站旁"
     }
@@ -35566,6 +35647,7 @@
   "act27side_st02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Rain, Rain, Go Away",
       "ja_JP": "雨、雨、あっち行け",
       "zh_CN": "雨啊，雨啊，快离开"
     }
@@ -35573,6 +35655,7 @@
   "act27side_st03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Sunny Day",
       "ja_JP": "晴れの日",
       "zh_CN": "晴天"
     }
@@ -35580,6 +35663,7 @@
   "act27side_tr01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Baa Baa Black",
       "ja_JP": "黒いめーちゃん",
       "zh_CN": "黑咩咩"
     }
@@ -35587,6 +35671,7 @@
   "act27side_tr02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Clap Along with Me",
       "ja_JP": "一緒に手を叩こう",
       "zh_CN": "跟着我拍拍手"
     }
@@ -41050,6 +41135,7 @@
   "act27side_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "A Holiday at the Hot Springs",
       "ja_JP": "温泉リゾート",
       "zh_CN": "温泉假日"
     }
@@ -41057,6 +41143,7 @@
   "act27side_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Treasurehunting in Siesta",
       "ja_JP": "トレジャーハント",
       "zh_CN": "城市寻宝"
     }
@@ -41064,6 +41151,7 @@
   "act27side_zone3": {
     "type": "ZONE",
     "names": {
+      "en_US": "Surfing the Lava",
       "ja_JP": "マグマサーフィン",
       "zh_CN": "岩浆冲浪"
     }
@@ -42201,6 +42289,7 @@
   "story_bryota_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Day & Night at Fashion Street",
       "ja_JP": "商店街の日々",
       "zh_CN": "风情街的日与夜"
     }
@@ -42806,6 +42895,7 @@
   "story_humus_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Wasteland Artisan",
       "ja_JP": "荒野の匠",
       "zh_CN": "荒地巧匠"
     }
@@ -43151,6 +43241,7 @@
   "story_myrtle_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Mission Report Filing Guide",
       "ja_JP": "任務報告書作成指南",
       "zh_CN": "任务报告填写指南"
     }
@@ -43562,6 +43653,7 @@
   "story_sleach_set_2_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Flowers by the Temples of Your Head",
       "ja_JP": "耳元の花",
       "zh_CN": "鬓旁的花"
     }

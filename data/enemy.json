@@ -3290,62 +3290,77 @@
     "zh_CN": "堕天使福尔图娜"
   },
   "enemy_1344_ddlamb": {
+    "en_US": "Hot Spring 'Mischievous Rascal'",
     "ja_JP": "温泉「ノーティボーイ」",
     "zh_CN": "温泉“淘气包”"
   },
   "enemy_1344_ddlamb_2": {
+    "en_US": "Hot Spring 'Jolly Rascal'",
     "ja_JP": "温泉「ジョイフルボーイ」",
     "zh_CN": "温泉“乐淘淘气包”"
   },
   "enemy_1345_tplamb": {
+    "en_US": "Fashion Street 'Hearty Heavy'",
     "ja_JP": "商店街「フリスビー」",
     "zh_CN": "风情街“操盘手”"
   },
   "enemy_1345_tplamb_2": {
+    "en_US": "Fashion Street 'Robust Heavy'",
     "ja_JP": "商店街「マッスルフリスビー」",
     "zh_CN": "风情街“健美操盘手”"
   },
   "enemy_1346_ynshp": {
+    "en_US": "Hot Spring 'Wandering Vagrant'",
     "ja_JP": "温泉「サーファー」",
     "zh_CN": "温泉“流浪汉”"
   },
   "enemy_1346_ynshp_2": {
+    "en_US": "Hot Spring 'Wandering Slider'",
     "ja_JP": "温泉「シティサーファー」",
     "zh_CN": "温泉“泥石流浪汉”"
   },
   "enemy_1347_fyshp": {
+    "en_US": "Fashion Street 'Ordinary Aviator'",
     "ja_JP": "商店街「フライヤー」",
     "zh_CN": "风情街“飞空员”"
   },
   "enemy_1347_fyshp_2": {
+    "en_US": "Fashion Street 'Hyperactive Aviator'",
     "ja_JP": "商店街「クラウドフライヤー」",
     "zh_CN": "风情街“满天飞空员”"
   },
   "enemy_1348_rllamb": {
+    "en_US": "Urban 'Whirlwind Walker'",
     "ja_JP": "都市「ウィンドランナー」",
     "zh_CN": "城市“风行者”"
   },
   "enemy_1348_rllamb_2": {
+    "en_US": "Urban 'Tornado Trendsetter'",
     "ja_JP": "都市「トルネードランナー」",
     "zh_CN": "城市“龙卷风行者”"
   },
   "enemy_1349_rckshp": {
+    "en_US": "'Big Fella'",
     "ja_JP": "「デカブツ」",
     "zh_CN": "“大个子”"
   },
   "enemy_1349_rckshp_2": {
+    "en_US": "'Big Man'",
     "ja_JP": "「デカブツ兄貴」",
     "zh_CN": "“大哥大个子”"
   },
   "enemy_1350_mgcshp": {
+    "en_US": "Fashion Street 'Stellar Caster'",
     "ja_JP": "商店街「スターマジシャン」",
     "zh_CN": "风情街“星术师”"
   },
   "enemy_1350_mgcshp_2": {
+    "en_US": "Fashion Street 'Supernova Caster'",
     "ja_JP": "商店街「メテオマジシャン」",
     "zh_CN": "风情街“超新星术师”"
   },
   "enemy_1351_yhhshp": {
+    "en_US": "'Fluffy Buddy'",
     "ja_JP": "「ベストフレンド」",
     "zh_CN": "“好朋友”"
   },
@@ -3784,6 +3799,7 @@
     "zh_CN": "“花匠”"
   },
   "enemy_1545_shpkg": {
+    "en_US": "Dolly, Sovereign of Sheep",
     "ja_JP": "「羊主」ドリー",
     "zh_CN": "多利，“羊之主”"
   },

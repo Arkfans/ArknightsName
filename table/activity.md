@@ -50,7 +50,7 @@ tip: 请善用浏览器的搜索功能
 | act16d5d1 | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
 | act16d5d2 | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |
 | act16d6 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
-| act16login | 登录领取奖励 | - | ログイン報酬 |
+| act16login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
 | act16mini | 去咧嘴谷 | - | - |
 | act16side | 吾导先路 | Guide Ahead | 吾れ先導者たらん |
 | act16sre | 吾导先路·复刻 | Guide Ahead - Rerun | 吾れ先導者たらん・復刻 |
@@ -104,7 +104,7 @@ tip: 请善用浏览器的搜索功能
 | act25sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act26side | 空想花庭 | Hortus de Escapismo | 空想の花庭 |
 | act26sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
-| act27side | 火山旅梦 | - | 火山と雲と夢色の旅路 |
+| act27side | 火山旅梦 | So Long, Adele: Home Away From Home | 火山と雲と夢色の旅路 |
 | act27sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act28side | 不义之财 | - | - |
 | act28sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -122,7 +122,7 @@ tip: 请善用浏览器的搜索功能
 | act31sign | 正逢雨季限时登录活动 | Rain Season Limited Login Event | 長雨の候スタンプラリー |
 | act32sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act33sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
-| act34sign | 限时累计签到 | - | 期間限定ログインボーナス |
+| act34sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act35sign | 清光邀月——月饼烘焙小教程 | - | - |
 | act36sign | 步上双塔之时签到活动 | - | - |
 | act37sign | 限时累计签到 | - | - |
@@ -151,7 +151,7 @@ tip: 请善用浏览器的搜索功能
 | act6d7 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act6d8 | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
 | act6login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
-| act6pray | 龙门幸运墙登录活动 | - | 龍門おみくじ |
+| act6pray | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |
 | act6sre | 密林悍将归来·复刻 | The Great Chief Returns - Rerun | 帰還！密林の長・復刻 |
 | act7d1 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act7d5 | 午间逸话 | Stories of Afternoon | 午後の逸話 |

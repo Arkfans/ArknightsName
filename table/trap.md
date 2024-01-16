@@ -122,8 +122,8 @@ tip: 请善用浏览器的搜索功能
 | trap_119_rdrepair | 备用木材 | Spare Timber | 予備木材 |
 | trap_120_rdblock | 破旧的木篱 | Shabby Fence | 朽ちた木の柵 |
 | trap_121_gractrl | 重力 | Gravity | 重力 |
-| trap_122_stmpq | 景观喷泉 | - | 景観噴水 |
-| trap_123_stmbot | 水汽汽水瓶 | - | スチームサイダー |
+| trap_122_stmpq | 景观喷泉 | Decorative Geyser | 景観噴水 |
+| trap_123_stmbot | 水汽汽水瓶 | Steam Soda Bottle | スチームサイダー |
 | trap_124_eradio | 废热喷口 | - | - |
 | trap_125_bonore | 唤血祭坛 | - | - |
 | trap_126_outset | 炸弹载荷点 | - | - |
