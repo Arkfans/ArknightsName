@@ -14,7 +14,7 @@ tip: 请善用浏览器的搜索功能
 | char_1012_skadi2 | 浊心斯卡蒂 | Skadi the Corrupting Heart | 濁心スカジ |
 | char_1013_chen2 | 假日威龙陈 | Ch'en the Holungday | 遊龍チェン |
 | char_1014_nearl2 | 耀骑士临光 | Nearl the Radiant Knight | 耀騎士ニアール |
-| char_1016_agoat2 | 纯烬艾雅法拉 | - | - |
+| char_1016_agoat2 | 纯烬艾雅法拉 | - | 純燼エイヤフィヤトラ |
 | char_101_sora | 空 | Sora | ソラ |
 | char_1020_reed2 | 焰影苇草 | Reed the Flame Shadow | 焔影リード |
 | char_1021_kroos2 | 寒芒克洛丝 | Kroos the Keen Glint | 寒芒クルース |
@@ -28,7 +28,7 @@ tip: 请善用浏览器的搜索功能
 | char_1030_noirc2 | 火龙S黑角 | Rathalos S Noir Corne | レウスSノイルホーン |
 | char_1031_slent2 | 淬羽赫默 | Silence the Paradigmatic | 淬羽サイレンス |
 | char_1032_excu2 | 圣约送葬人 | Executor the Ex Foedere | 聖約イグゼキュター |
-| char_1033_swire2 | 琳琅诗怀雅 | - | - |
+| char_1033_swire2 | 琳琅诗怀雅 | - | 琳琅スワイヤー |
 | char_1034_jesca2 | 涤火杰西卡 | - | - |
 | char_103_angel | 能天使 | Exusiai | エクシア |
 | char_106_franka | 芙兰卡 | Franka | フランカ |
@@ -258,7 +258,7 @@ tip: 请善用浏览器的搜索功能
 | char_4102_threye | 凛视 | - | - |
 | char_4104_coldst | 冰酿 | - | - |
 | char_4105_almond | 杏仁 | - | - |
-| char_4106_bryota | 苍苔 | - | - |
+| char_4106_bryota | 苍苔 | - | ブライオファイタ |
 | char_4107_vrdant | 维荻 | - | - |
 | char_4109_baslin | 深律 | - | - |
 | char_4110_delphn | 戴菲恩 | - | - |
@@ -301,7 +301,7 @@ tip: 请善用浏览器的搜索功能
 | char_484_robrta | 罗比菈塔 | Roberta | ロベルタ |
 | char_485_pallas | 帕拉斯 | Pallas | パラス |
 | char_486_takila | 龙舌兰 | Tequila | テキーラ |
-| char_488_buildr | 青枳 | - | - |
+| char_488_buildr | 青枳 | - | ポンシラス |
 | char_489_serum | 蚀清 | Corroserum | コロセラム |
 | char_491_humus | 休谟斯 | Humus | ヒューマス |
 | char_492_quercu | 夏栎 | Quercus | クエルクス |

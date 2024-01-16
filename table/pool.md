@@ -106,6 +106,7 @@ tip: 请善用浏览器的搜索功能
 | _LIMITED_21_1_1 | - | Through A Path of Briars | 茨道拓く一閃 |
 | _LIMITED_22_2_1 | - | Solitude Universal | 万象伶丁 |
 | _LIMITED_24_0_3 | - | Here I Stand | 真理の在処 |
+| _LIMITED_25_0_5 | - | - | 雲間の明晰夢 |
 | _LIMITED_4_3_1 | - | Cremation Last Wish | 遺志に咲く火の華 |
 | _LIMITED_7_1_1 | - | Forget Me Not | 勿忘草 |
 | _LIMITED_8_3_1 | - | Earthborn Metals | 地生五金 |

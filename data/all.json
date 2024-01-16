@@ -74,6 +74,7 @@
   "char_1016_agoat2": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "純燼エイヤフィヤトラ",
       "zh_CN": "纯烬艾雅法拉"
     }
   },
@@ -184,6 +185,7 @@
   "char_1033_swire2": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "琳琅スワイヤー",
       "zh_CN": "琳琅诗怀雅"
     }
   },
@@ -1994,6 +1996,7 @@
   "char_4106_bryota": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "ブライオファイタ",
       "zh_CN": "苍苔"
     }
   },
@@ -2324,6 +2327,7 @@
   "char_488_buildr": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "ポンシラス",
       "zh_CN": "青枳"
     }
   },
@@ -2814,6 +2818,7 @@
   "token_10031_swire2_gdtrap": {
     "type": "TOKEN",
     "names": {
+      "ja_JP": "シャンパン爆弾",
       "zh_CN": "香槟炸弹"
     }
   },
@@ -3764,12 +3769,14 @@
   "trap_122_stmpq": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "景観噴水",
       "zh_CN": "景观喷泉"
     }
   },
   "trap_123_stmbot": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "スチームサイダー",
       "zh_CN": "水汽汽水瓶"
     }
   },
@@ -4602,6 +4609,7 @@
   "char_1026_gvial2@summer#12": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "ホリデーHD26",
       "zh_CN": "悠然假日 HD26"
     }
   },
@@ -4976,6 +4984,7 @@
   "char_151_myrtle@summer#12": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "夏の花弁FA062",
       "zh_CN": "夏卉 FA062"
     }
   },
@@ -6100,6 +6109,7 @@
   "char_377_gdglow@summer#12": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "夏の花弁FA394",
       "zh_CN": "夏卉 FA394"
     }
   },
@@ -6274,6 +6284,7 @@
   "char_4041_chnut@summer#12": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "ホリデーHDm57",
       "zh_CN": "悠然假日 HDm57"
     }
   },
@@ -12154,90 +12165,105 @@
   "enemy_1344_ddlamb": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "温泉「ノーティボーイ」",
       "zh_CN": "温泉“淘气包”"
     }
   },
   "enemy_1344_ddlamb_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "温泉「ジョイフルボーイ」",
       "zh_CN": "温泉“乐淘淘气包”"
     }
   },
   "enemy_1345_tplamb": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "商店街「フリスビー」",
       "zh_CN": "风情街“操盘手”"
     }
   },
   "enemy_1345_tplamb_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "商店街「マッスルフリスビー」",
       "zh_CN": "风情街“健美操盘手”"
     }
   },
   "enemy_1346_ynshp": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "温泉「サーファー」",
       "zh_CN": "温泉“流浪汉”"
     }
   },
   "enemy_1346_ynshp_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "温泉「シティサーファー」",
       "zh_CN": "温泉“泥石流浪汉”"
     }
   },
   "enemy_1347_fyshp": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "商店街「フライヤー」",
       "zh_CN": "风情街“飞空员”"
     }
   },
   "enemy_1347_fyshp_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "商店街「クラウドフライヤー」",
       "zh_CN": "风情街“满天飞空员”"
     }
   },
   "enemy_1348_rllamb": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "都市「ウィンドランナー」",
       "zh_CN": "城市“风行者”"
     }
   },
   "enemy_1348_rllamb_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "都市「トルネードランナー」",
       "zh_CN": "城市“龙卷风行者”"
     }
   },
   "enemy_1349_rckshp": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「デカブツ」",
       "zh_CN": "“大个子”"
     }
   },
   "enemy_1349_rckshp_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「デカブツ兄貴」",
       "zh_CN": "“大哥大个子”"
     }
   },
   "enemy_1350_mgcshp": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "商店街「スターマジシャン」",
       "zh_CN": "风情街“星术师”"
     }
   },
   "enemy_1350_mgcshp_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "商店街「メテオマジシャン」",
       "zh_CN": "风情街“超新星术师”"
     }
   },
   "enemy_1351_yhhshp": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「ベストフレンド」",
       "zh_CN": "“好朋友”"
     }
   },
@@ -13020,6 +13046,7 @@
   "enemy_1545_shpkg": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「羊主」ドリー",
       "zh_CN": "多利，“羊之主”"
     }
   },
@@ -14320,6 +14347,7 @@
   "act16login": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "ログイン報酬",
       "zh_CN": "登录领取奖励"
     }
   },
@@ -14730,6 +14758,7 @@
   "act27side": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "火山と雲と夢色の旅路",
       "zh_CN": "火山旅梦"
     }
   },
@@ -14862,6 +14891,7 @@
   "act34sign": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
   },
@@ -15070,6 +15100,7 @@
   "act6pray": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "龍門おみくじ",
       "zh_CN": "龙门幸运墙登录活动"
     }
   },
@@ -16642,6 +16673,7 @@
   "LIMITED_TKT_GACHA_10_4101": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "4周年記念10回スカウト券",
       "zh_CN": "云过天空寻访凭证"
     }
   },
@@ -16774,6 +16806,7 @@
   "LMTGS_COIN_4101": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "限定契約証",
       "zh_CN": "寻访数据契约"
     }
   },
@@ -17484,6 +17517,7 @@
   "act27side_token_fur": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ピンクのふわふわ",
       "zh_CN": "毛绒绒生物的毛"
     }
   },
@@ -17748,6 +17782,7 @@
   "advanced_material_issue_voucher": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "高級素材交換券",
       "zh_CN": "高级材料提货券"
     }
   },
@@ -19058,6 +19093,7 @@
   "classic_fes_pick_tier_5_4101": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "中堅セレクト★5オペレーター",
       "zh_CN": "中坚甄选5星干员"
     }
   },
@@ -19078,6 +19114,7 @@
   "classic_fes_pick_tier_6_4101": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "中堅セレクト★6オペレーター",
       "zh_CN": "中坚甄选6星干员"
     }
   },
@@ -19464,6 +19501,7 @@
   "mcardVoucher": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "月パス",
       "zh_CN": "月卡"
     }
   },
@@ -19526,6 +19564,7 @@
   "new_progress": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "リリース累計ログインチケット",
       "zh_CN": "开服累登券"
     }
   },
@@ -19604,6 +19643,7 @@
   "p_char_1016_agoat2": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "純燼エイヤフィヤトラの印",
       "zh_CN": "纯烬艾雅法拉的信物"
     }
   },
@@ -19714,6 +19754,7 @@
   "p_char_1033_swire2": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "琳琅スワイヤーの印",
       "zh_CN": "琳琅诗怀雅的信物"
     }
   },
@@ -21488,6 +21529,7 @@
   "p_char_4106_bryota": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ブライオファイタの印",
       "zh_CN": "苍苔的信物"
     }
   },
@@ -21810,6 +21852,7 @@
   "p_char_488_buildr": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ポンシラスの印",
       "zh_CN": "青枳的信物"
     }
   },
@@ -21916,6 +21959,7 @@
   "premium_material_issue_voucher": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "特級素材交換券",
       "zh_CN": "特级材料提货券"
     }
   },
@@ -22126,6 +22170,7 @@
   "randomMaterial_siesta2": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "フェンレン貿易物流補給",
       "zh_CN": "峯联贸易物流补给"
     }
   },
@@ -22240,12 +22285,14 @@
   "return_credit_token2": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "二次認証徽章",
       "zh_CN": "二次认证徽记"
     }
   },
   "return_progress": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "リターン累計ログインチケット",
       "zh_CN": "回流累登券"
     }
   },
@@ -22894,12 +22941,14 @@
   "uni_set_westCoast": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ドッソレスホリデー家具パック",
       "zh_CN": "多索雷斯假日家具收藏包"
     }
   },
   "voucher_5chipPackage": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "SoCセルフプリンター",
       "zh_CN": "自助芯片印刻仪"
     }
   },
@@ -23070,6 +23119,7 @@
   "voucher_full_takila": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "テキーラの手紙",
       "zh_CN": "龙舌兰的私人信件"
     }
   },
@@ -24112,6 +24162,12 @@
       "ja_JP": "真理の在処"
     }
   },
+  "_LIMITED_25_0_5": {
+    "type": "POOL",
+    "names": {
+      "ja_JP": "雲間の明晰夢"
+    }
+  },
   "_LIMITED_4_3_1": {
     "type": "POOL",
     "names": {
@@ -24682,18 +24738,21 @@
   "skchr_agoat2_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "無垢なる恵み",
       "zh_CN": "无声润物"
     }
   },
   "skchr_agoat2_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "雲煙の庇護",
       "zh_CN": "云霭荫佑"
     }
   },
   "skchr_agoat2_3": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "ヴォルケーノ・エコー",
       "zh_CN": "火山回响"
     }
   },
@@ -25318,12 +25377,14 @@
   "skchr_bryota_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "強撃β",
       "zh_CN": "强力击·β型"
     }
   },
   "skchr_bryota_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "岩石の根気",
       "zh_CN": "土石的恒心"
     }
   },
@@ -25354,6 +25415,7 @@
   "skchr_buildr_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "建築家の願い",
       "zh_CN": "工程者之愿"
     }
   },
@@ -28726,18 +28788,21 @@
   "skchr_swire2_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "資金援助",
       "zh_CN": "仗义疏财"
     }
   },
   "skchr_swire2_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "「おもてなし」",
       "zh_CN": "“见面礼”"
     }
   },
   "skchr_swire2_3": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "千金一擲",
       "zh_CN": "千金一掷"
     }
   },
@@ -31100,12 +31165,14 @@
   "sktok_stmbot": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "スチームサイダー",
       "zh_CN": "水汽汽水瓶"
     }
   },
   "sktok_stmpq": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "景観噴水",
       "zh_CN": "景观喷泉"
     }
   },
@@ -31144,6 +31211,7 @@
   "sktok_swire2_gdtrap": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "「おもてなし」",
       "zh_CN": "“见面礼”"
     }
   },
@@ -35372,132 +35440,154 @@
   "act27side_01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "耳を垂らせる？",
       "zh_CN": "你的耳朵长不长？"
     }
   },
   "act27side_02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "リトル・ボーイ・ブルー",
       "zh_CN": "小蓝孩"
     }
   },
   "act27side_03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "指の家族",
       "zh_CN": "手指之家"
     }
   },
   "act27side_04": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "船乗りが海へ",
       "zh_CN": "一个水手出海了"
     }
   },
   "act27side_05": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "虹を歌おう",
       "zh_CN": "我会唱一首彩虹"
     }
   },
   "act27side_06": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "森の中の小屋",
       "zh_CN": "林中小木屋"
     }
   },
   "act27side_07": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "泣くときは私の肩で",
       "zh_CN": "靠着我的肩膀哭泣"
     }
   },
   "act27side_08": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "愛してる",
       "zh_CN": "爱之歌"
     }
   },
   "act27side_mo01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "カントリーロード",
       "zh_CN": "乡间路带我回家"
     }
   },
   "act27side_s01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "東行きのスローボード",
       "zh_CN": "慢船行至东"
     }
   },
   "act27side_s02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "南の空は青いまま",
       "zh_CN": "南方从未雨"
     }
   },
   "act27side_s03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "西へ向かおう",
       "zh_CN": "我正向西去"
     }
   },
   "act27side_s04": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "北国の森",
       "zh_CN": "北境的森林"
     }
   },
   "act27side_s05": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "答えは風の中",
       "zh_CN": "答案在风中"
     }
   },
   "act27side_sp01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "メリーさんのめーちゃん",
       "zh_CN": "玛丽有只毛绒绒"
     }
   },
   "act27side_sp02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "小さな谷の農夫",
       "zh_CN": "小农夫在小山谷"
     }
   },
   "act27side_sp03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "ボートを漕ごう",
       "zh_CN": "划呀划呀划小船"
     }
   },
   "act27side_st01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "駅に到着",
       "zh_CN": "到站旁"
     }
   },
   "act27side_st02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "雨、雨、あっち行け",
       "zh_CN": "雨啊，雨啊，快离开"
     }
   },
   "act27side_st03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "晴れの日",
       "zh_CN": "晴天"
     }
   },
   "act27side_tr01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "黒いめーちゃん",
       "zh_CN": "黑咩咩"
     }
   },
   "act27side_tr02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "一緒に手を叩こう",
       "zh_CN": "跟着我拍拍手"
     }
   },
@@ -40960,18 +41050,21 @@
   "act27side_zone1": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "温泉リゾート",
       "zh_CN": "温泉假日"
     }
   },
   "act27side_zone2": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "トレジャーハント",
       "zh_CN": "城市寻宝"
     }
   },
   "act27side_zone3": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "マグマサーフィン",
       "zh_CN": "岩浆冲浪"
     }
   },
@@ -42108,6 +42201,7 @@
   "story_bryota_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "商店街の日々",
       "zh_CN": "风情街的日与夜"
     }
   },
@@ -42712,6 +42806,7 @@
   "story_humus_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "荒野の匠",
       "zh_CN": "荒地巧匠"
     }
   },
@@ -43056,6 +43151,7 @@
   "story_myrtle_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "任務報告書作成指南",
       "zh_CN": "任务报告填写指南"
     }
   },
@@ -43466,6 +43562,7 @@
   "story_sleach_set_2_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "耳元の花",
       "zh_CN": "鬓旁的花"
     }
   },

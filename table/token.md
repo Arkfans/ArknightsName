@@ -42,7 +42,7 @@ tip: 请善用浏览器的搜索功能
 | token_10028_vigil_wolf | 狼群 | Wolfpack | 狼の群れ |
 | token_10029_slent2_protrb | 夜灯 | Night Banisher | 夜の灯火 |
 | token_10030_mlyss_wtrman | 流形 | Flowing Shape | うつろう水影 |
-| token_10031_swire2_gdtrap | 香槟炸弹 | - | - |
+| token_10031_swire2_gdtrap | 香槟炸弹 | - | シャンパン爆弾 |
 | token_10032_jesca2_jckshd | 机动盾牌 | - | - |
 | token_10034_ray_sndbst | 沙地兽 | - | - |
 | trap_079_allydonq | 猎潮的骑士 | Tide-Hunt Knight | 猟潮の騎士 |

@@ -124,9 +124,9 @@ tip: 请善用浏览器的搜索功能
 | act25side_zone3 | 紧握当下 | The Pursuing of the Present | 在るべき今 |
 | act26side_zone1 | 安布罗修修道院 | Sanctilaminium Ambrosii | アンブロシウス修道院 |
 | act26side_zone2 | 废弃圣堂 | Sacrarium Derelictum | 廃聖堂 |
-| act27side_zone1 | 温泉假日 | - | - |
-| act27side_zone2 | 城市寻宝 | - | - |
-| act27side_zone3 | 岩浆冲浪 | - | - |
+| act27side_zone1 | 温泉假日 | - | 温泉リゾート |
+| act27side_zone2 | 城市寻宝 | - | トレジャーハント |
+| act27side_zone3 | 岩浆冲浪 | - | マグマサーフィン |
 | act28side_zone1 | 苍白平台 | - | - |
 | act28side_zone2 | 黑色舰船 | - | - |
 | act29side_zone1 | 朝见双塔 | - | - |
