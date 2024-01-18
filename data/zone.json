@@ -531,6 +531,12 @@
     "ja_JP": "関外追跡",
     "zh_CN": "关外追凶"
   },
+  "act23sre_zone1": {
+    "zh_CN": "城中调查"
+  },
+  "act23sre_zone2": {
+    "zh_CN": "关外追凶"
+  },
   "act24side_zone1": {
     "en_US": "Soubo Mountains",
     "ja_JP": "蒼暮山地",
@@ -854,6 +860,12 @@
   },
   "permanent_sidestory_18_zone2": {
     "zh_CN": "记忆灰烬"
+  },
+  "permanent_sidestory_19_zone1": {
+    "zh_CN": "城中调查"
+  },
+  "permanent_sidestory_19_zone2": {
+    "zh_CN": "关外追凶"
   },
   "permanent_sidestory_1_zone1": {
     "en_US": "Dewville Outskirts",

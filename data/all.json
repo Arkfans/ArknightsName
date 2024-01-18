@@ -6399,6 +6399,12 @@
       "zh_CN": "跃上街头"
     }
   },
+  "char_4078_bdhkgt@yun#2": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "伴青莲"
+    }
+  },
   "char_4082_qiubai@ncg#1": {
     "type": "SKIN",
     "names": {
@@ -14735,6 +14741,12 @@
       "zh_CN": "限时累计签到"
     }
   },
+  "act23sre": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "登临意·复刻"
+    }
+  },
   "act24side": {
     "type": "ACTIVITY",
     "names": {
@@ -17464,6 +17476,12 @@
     "names": {
       "en_US": "Freshly-Brewed Liedaozi",
       "ja_JP": "烈刀子",
+      "zh_CN": "新酿烈刀子"
+    }
+  },
+  "act23side_token_spirit_rep_1": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "新酿烈刀子"
     }
   },
@@ -41076,6 +41094,18 @@
       "zh_CN": "关外追凶"
     }
   },
+  "act23sre_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "城中调查"
+    }
+  },
+  "act23sre_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "关外追凶"
+    }
+  },
   "act24side_zone1": {
     "type": "ZONE",
     "names": {
@@ -41614,6 +41644,18 @@
     "type": "ZONE",
     "names": {
       "zh_CN": "记忆灰烬"
+    }
+  },
+  "permanent_sidestory_19_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "城中调查"
+    }
+  },
+  "permanent_sidestory_19_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "关外追凶"
     }
   },
   "permanent_sidestory_1_zone1": {

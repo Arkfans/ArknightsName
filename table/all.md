@@ -830,6 +830,7 @@ tip: 请善用浏览器的搜索功能
 | char_4071_peper@whirlwind#5 | 来路 | The Road to Here | 来た道 |
 | char_4072_ironmn@summer#11 | 沙滩护卫 GT003 | - | - |
 | char_4077_palico@mh#1 | 跃上街头 | Fly Into the Street | 街へ飛び出せ |
+| char_4078_bdhkgt@yun#2 | 伴青莲 | - | - |
 | char_4082_qiubai@ncg#1 | 霜林醉 | - | - |
 | char_411_tomimi@summer#5 | 静谧午夜 DN04 | Silent Night DN04 | 安息の午夜DN04 |
 | char_415_flint@boc#3 | 绚烂夏花 | Gorgeous Flower | 紫藤繚乱 |
@@ -1904,6 +1905,7 @@ tip: 请善用浏览器的搜索功能
 | act22sre | 照我以火·复刻 | - | - |
 | act23side | 登临意 | Where Vernal Winds Will Never Blow | 登臨意 |
 | act23sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
+| act23sre | 登临意·复刻 | - | - |
 | act24side | 落叶逐火 | A Flurry to the Flame | 紅炎遣らう落葉 |
 | act24sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act25side | 孤星 | Lone Trail | 孤星 |
@@ -2254,6 +2256,7 @@ tip: 请善用浏览器的搜索功能
 | act22side_token_manuscript | 手抄歌谣集 | Manuscripts of Ballads | 民謡集の写本 |
 | act22side_token_manuscript_rep_1 | 手抄歌谣集 | - | - |
 | act23side_token_spirit | 新酿烈刀子 | Freshly-Brewed Liedaozi | 烈刀子 |
+| act23side_token_spirit_rep_1 | 新酿烈刀子 | - | - |
 | act24side_melding_1 | 破碎的骨片 | Bone Fragments | 欠けた骨 |
 | act24side_melding_2 | 源石虫的硬壳 | Originium Slug Shell | オリジムシの甲殻 |
 | act24side_melding_3 | 鬣犄兽的尖锐齿 | Sharp Oxmane Fangs | 山顎獣の鋭牙 |
@@ -5308,6 +5311,8 @@ tip: 请善用浏览器的搜索功能
 | act22sre_zone2 | 记忆灰烬 | - | - |
 | act23side_zone1 | 城中调查 | Case Investigation, Onsite | 城内調査 |
 | act23side_zone2 | 关外追凶 | Criminal Pursuit, Offsite | 関外追跡 |
+| act23sre_zone1 | 城中调查 | - | - |
+| act23sre_zone2 | 关外追凶 | - | - |
 | act24side_zone1 | 苍暮山地 | Soubo Mountains | 蒼暮山地 |
 | act24side_zone2 | 艾露猫的委托柜台 | Commeowssion Counter | アイルーの受付カウンター |
 | act25side_zone1 | 未来将至 | The Coming of The Future | 来たる未来 |
@@ -5380,6 +5385,8 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_16_zone5 | 终极赛道 | - | - |
 | permanent_sidestory_18_zone1 | 荒烟林沼 | - | - |
 | permanent_sidestory_18_zone2 | 记忆灰烬 | - | - |
+| permanent_sidestory_19_zone1 | 城中调查 | - | - |
+| permanent_sidestory_19_zone2 | 关外追凶 | - | - |
 | permanent_sidestory_1_zone1 | 滴水村周边 | Dewville Outskirts | 滴水村周辺 |
 | permanent_sidestory_1_zone2 | 宝藏之路 | Path to Treasure | 宝への道 |
 | permanent_sidestory_21_zone1 | 连阴雨季 | - | - |

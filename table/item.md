@@ -243,6 +243,7 @@ tip: 请善用浏览器的搜索功能
 | act22side_token_manuscript | 手抄歌谣集 | Manuscripts of Ballads | 民謡集の写本 |
 | act22side_token_manuscript_rep_1 | 手抄歌谣集 | - | - |
 | act23side_token_spirit | 新酿烈刀子 | Freshly-Brewed Liedaozi | 烈刀子 |
+| act23side_token_spirit_rep_1 | 新酿烈刀子 | - | - |
 | act24side_melding_1 | 破碎的骨片 | Bone Fragments | 欠けた骨 |
 | act24side_melding_2 | 源石虫的硬壳 | Originium Slug Shell | オリジムシの甲殻 |
 | act24side_melding_3 | 鬣犄兽的尖锐齿 | Sharp Oxmane Fangs | 山顎獣の鋭牙 |

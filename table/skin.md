@@ -252,6 +252,7 @@ tip: 请善用浏览器的搜索功能
 | char_4071_peper@whirlwind#5 | 来路 | The Road to Here | 来た道 |
 | char_4072_ironmn@summer#11 | 沙滩护卫 GT003 | - | - |
 | char_4077_palico@mh#1 | 跃上街头 | Fly Into the Street | 街へ飛び出せ |
+| char_4078_bdhkgt@yun#2 | 伴青莲 | - | - |
 | char_4082_qiubai@ncg#1 | 霜林醉 | - | - |
 | char_411_tomimi@summer#5 | 静谧午夜 DN04 | Silent Night DN04 | 安息の午夜DN04 |
 | char_415_flint@boc#3 | 绚烂夏花 | Gorgeous Flower | 紫藤繚乱 |
