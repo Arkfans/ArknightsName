@@ -36,3 +36,4 @@
 | zone | 区域 |
 | npc | 剧情角色 |
 | memory | 干员密录 |
+| roguelike | 肉鸽 |
