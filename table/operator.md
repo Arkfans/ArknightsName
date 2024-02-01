@@ -102,6 +102,7 @@ tip: 请善用浏览器的搜索功能
 | char_201_moeshd | 可颂 | Croissant | クロワッサン |
 | char_2023_ling | 令 | Ling | リィン |
 | char_2024_chyue | 重岳 | Chongyue | チョンユエ |
+| char_2025_shu | 黍 | - | - |
 | char_202_demkni | 塞雷娅 | Saria | サリア |
 | char_204_platnm | 白金 | Platinum | プラチナ |
 | char_206_gnosis | 灵知 | Gnosis | ノーシス |
@@ -218,6 +219,7 @@ tip: 请善用浏览器的搜索功能
 | char_4017_puzzle | 谜图 | Puzzle | パズル |
 | char_4019_ncdeer | 九色鹿 | Nine-Colored Deer | 九色鹿 |
 | char_401_elysm | 极境 | Elysium | エリジウム |
+| char_4023_rfalcn | 红隼 | - | - |
 | char_4025_aprot2 | 暮落 | Shalem | シャレム |
 | char_4027_heyak | 霍尔海雅 | Ho'olheyak | ホルハイヤ |
 | char_402_tuye | 图耶 | Tuye | トゥイエ |
@@ -265,7 +267,10 @@ tip: 请善用浏览器的搜索功能
 | char_4114_harold | 哈洛德 | - | - |
 | char_4116_blkkgt | 锏 | - | - |
 | char_4117_ray | 莱伊 | - | - |
+| char_4119_wanqin | 万顷 | - | - |
 | char_411_tomimi | 特米米 | Tomimi | トミミ |
+| char_4121_zuole | 左乐 | - | - |
+| char_4122_grabds | 小满 | - | - |
 | char_415_flint | 燧石 | Flint | フリント |
 | char_416_zumama | 森蚺 | Eunectes | ユーネクテス |
 | char_420_flamtl | 焰尾 | Flametail | フレイムテイル |

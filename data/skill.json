@@ -1074,6 +1074,12 @@
     "ja_JP": "ハイポサーミア",
     "zh_CN": "失温症"
   },
+  "skchr_grabds_1": {
+    "zh_CN": "竹笛飞声"
+  },
+  "skchr_grabds_2": {
+    "zh_CN": "乡音沉沉"
+  },
   "skchr_grani_2": {
     "en_US": "Press the Attack!",
     "ja_JP": "引かない！",
@@ -2172,6 +2178,9 @@
     "ja_JP": "命の火種",
     "zh_CN": "生命火种"
   },
+  "skchr_rfalcn_2": {
+    "zh_CN": "醉刃乱舞"
+  },
   "skchr_rfrost_1": {
     "en_US": "Trap Deployment",
     "ja_JP": "トラップセット",
@@ -2301,6 +2310,15 @@
     "en_US": "Armor Breaker - Spread",
     "ja_JP": "装甲砕き・拡散",
     "zh_CN": "碎甲击·扩散"
+  },
+  "skchr_shu_1": {
+    "zh_CN": "化被草木"
+  },
+  "skchr_shu_2": {
+    "zh_CN": "嘉禾盈仓"
+  },
+  "skchr_shu_3": {
+    "zh_CN": "离离枯荣"
   },
   "skchr_shwaz_1": {
     "en_US": "Charged Shot",
@@ -2780,6 +2798,9 @@
     "ja_JP": "七武掠陣脚",
     "zh_CN": "七武掠阵踢"
   },
+  "skchr_wanqin_2": {
+    "zh_CN": "应东风"
+  },
   "skchr_warmy_1": {
     "zh_CN": "炎炎火焰"
   },
@@ -2905,6 +2926,15 @@
     "en_US": "Iron Will",
     "ja_JP": "鋼鉄の意思",
     "zh_CN": "钢铁意志"
+  },
+  "skchr_zuole_1": {
+    "zh_CN": "破虏"
+  },
+  "skchr_zuole_2": {
+    "zh_CN": "行险"
+  },
+  "skchr_zuole_3": {
+    "zh_CN": "佑序有炎"
   },
   "skcom_assist_cost[2]": {
     "en_US": "Support β",
@@ -3368,6 +3398,18 @@
     "ja_JP": "カーテンコール",
     "zh_CN": "剧目宣告"
   },
+  "sktok_dhdcr": {
+    "zh_CN": "生成"
+  },
+  "sktok_dhsb": {
+    "zh_CN": "泵水"
+  },
+  "sktok_dhtl_1": {
+    "zh_CN": "阻流"
+  },
+  "sktok_dhtl_2": {
+    "zh_CN": "阻流"
+  },
   "sktok_dice": {
     "en_US": "Roll A Die",
     "ja_JP": "ダイスロール",
@@ -3722,6 +3764,9 @@
     "ja_JP": "財宝のいざない",
     "zh_CN": "诱人珍宝"
   },
+  "sktok_npccom": {
+    "zh_CN": "触发对话"
+  },
   "sktok_npcsld": {
     "en_US": "Form Up!",
     "ja_JP": "構え！",
@@ -4056,6 +4101,9 @@
     "ja_JP": "エッセンシャルオイル",
     "zh_CN": "芳香精油"
   },
+  "sktok_tfalco": {
+    "zh_CN": "触发对话"
+  },
   "sktok_tidectrl_1": {
     "en_US": "Small Rising Tide",
     "ja_JP": "引き潮",
@@ -4104,10 +4152,16 @@
     "ja_JP": "会話発生",
     "zh_CN": "触发对话"
   },
+  "sktok_trademan_summon": {
+    "zh_CN": "触发对话"
+  },
   "sktok_tree": {
     "en_US": "Natural Camouflage",
     "ja_JP": "きのこガード",
     "zh_CN": "天然隐蔽"
+  },
+  "sktok_trsrhuntr": {
+    "zh_CN": "触发对话"
   },
   "sktok_trsrhuntr_1": {
     "en_US": "Trigger Dialogue",
@@ -4208,20 +4262,53 @@
     "ja_JP": "ジェラート供給",
     "zh_CN": "拉特兰式冰淇淋"
   },
+  "sktok_xbalis": {
+    "zh_CN": "发射"
+  },
+  "sktok_xbbarir": {
+    "zh_CN": "阻挡"
+  },
   "sktok_xbbase": {
     "en_US": "Energy Facility",
     "ja_JP": "動力設備",
     "zh_CN": "能源设备"
+  },
+  "sktok_xbbee": {
+    "zh_CN": "扫描"
+  },
+  "sktok_xbcage": {
+    "zh_CN": "捕获"
+  },
+  "sktok_xbcanoe": {
+    "zh_CN": "放置平台"
+  },
+  "sktok_xbcbag": {
+    "zh_CN": "释放猎获"
+  },
+  "sktok_xbdiam": {
+    "zh_CN": "可采集"
+  },
+  "sktok_xbdrill": {
+    "zh_CN": "采集"
+  },
+  "sktok_xbember": {
+    "zh_CN": "激励"
   },
   "sktok_xbescp": {
     "en_US": "Establish Communication",
     "ja_JP": "通信確立",
     "zh_CN": "建立通讯"
   },
+  "sktok_xbexbi": {
+    "zh_CN": "纪念"
+  },
   "sktok_xbfarm": {
     "en_US": "Plant Rice",
     "ja_JP": "田植え",
     "zh_CN": "稻谷种植"
+  },
+  "sktok_xbfarmm": {
+    "zh_CN": "种植"
   },
   "sktok_xbfato": {
     "en_US": "Gather",
@@ -4238,6 +4325,18 @@
     "ja_JP": "採取",
     "zh_CN": "采集"
   },
+  "sktok_xbfdtion": {
+    "zh_CN": "中枢核心"
+  },
+  "sktok_xbfence": {
+    "zh_CN": "畜养"
+  },
+  "sktok_xbflare": {
+    "zh_CN": "临时照明"
+  },
+  "sktok_xbfort": {
+    "zh_CN": "部署"
+  },
   "sktok_xbfortress": {
     "en_US": "Build Tower",
     "ja_JP": "高台設置",
@@ -4248,15 +4347,33 @@
     "ja_JP": "鍛造",
     "zh_CN": "冶铸"
   },
+  "sktok_xbhydr": {
+    "zh_CN": "锁钥"
+  },
   "sktok_xbiron": {
     "en_US": "Harvestable",
     "ja_JP": "採掘可能",
     "zh_CN": "可供开采"
   },
+  "sktok_xbistorm": {
+    "zh_CN": "冰爆！"
+  },
+  "sktok_xblight": {
+    "zh_CN": "瞭望"
+  },
   "sktok_xblrsh": {
     "en_US": "Improve Personnel Status",
     "ja_JP": "戦闘計画改善",
     "zh_CN": "人员状态改善"
+  },
+  "sktok_xbmcv": {
+    "zh_CN": "引擎核心"
+  },
+  "sktok_xbmgbird": {
+    "zh_CN": "“赠礼”"
+  },
+  "sktok_xbmire": {
+    "zh_CN": "侵蚀"
   },
   "sktok_xbmrcl": {
     "en_US": "Computation",
@@ -4278,10 +4395,34 @@
     "ja_JP": "道路封鎖",
     "zh_CN": "阻断道路"
   },
+  "sktok_xbsighta": {
+    "zh_CN": "喷涌"
+  },
+  "sktok_xbsightb": {
+    "zh_CN": "摇摆"
+  },
+  "sktok_xbsightc": {
+    "zh_CN": "矗立"
+  },
+  "sktok_xbspgun": {
+    "zh_CN": "喷射！"
+  },
+  "sktok_xbspps": {
+    "zh_CN": "点燃"
+  },
+  "sktok_xbstation": {
+    "zh_CN": "号令"
+  },
   "sktok_xbstone": {
     "en_US": "Harvestable",
     "ja_JP": "採掘可能",
     "zh_CN": "可供开采"
+  },
+  "sktok_xbtent": {
+    "zh_CN": "援护"
+  },
+  "sktok_xbtrap": {
+    "zh_CN": "陷阱"
   },
   "sktok_xbwall": {
     "en_US": "Defensive Support",

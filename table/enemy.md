@@ -747,6 +747,26 @@ tip: 请善用浏览器的搜索功能
 | enemy_1388_wingnt_2 | “榴弹炮” | - | - |
 | enemy_1389_winbab | 访问团强攻手 | - | - |
 | enemy_1389_winbab_2 | 访问团强攻冠军 | - | - |
+| enemy_1390_dhsbr | 秽 | - | - |
+| enemy_1390_dhsbr_2 | 除秽 | - | - |
+| enemy_1391_dhbow | 蚀 | - | - |
+| enemy_1391_dhbow_2 | 去蚀 | - | - |
+| enemy_1392_dhshld | 肮 | - | - |
+| enemy_1392_dhshld_2 | 厌肮 | - | - |
+| enemy_1393_dhele | 玷 | - | - |
+| enemy_1393_dhele_2 | 勿玷 | - | - |
+| enemy_1394_dhzts | 瘴 | - | - |
+| enemy_1394_dhzts_2 | 鄙瘴 | - | - |
+| enemy_1395_dhxts | 田鼷 | - | - |
+| enemy_1395_dhxts_2 | 硬毫田鼷 | - | - |
+| enemy_1396_dhdts | 田鼷力士 | - | - |
+| enemy_1396_dhdts_2 | 田鼷猛士 | - | - |
+| enemy_1397_dhtsxt | 田鼷飞贼 | - | - |
+| enemy_1397_dhtsxt_2 | 田鼷大盗 | - | - |
+| enemy_1398_dhdcr | 天桩-甲 | - | - |
+| enemy_1398_dhdcr_2 | 失控天桩-甲 | - | - |
+| enemy_1399_dhtb | 天桩-乙 | - | - |
+| enemy_1399_dhtb_2 | 失控天桩-乙 | - | - |
 | enemy_1500_skulsr | 碎骨 | Skullshatterer | SkullShredder |
 | enemy_1501_demonk | 萨卡兹百夫长 | Sarkaz Centurion | サルカズケントゥリオ |
 | enemy_1502_crowns | 弑君者 | Crownslayer | CrownSlayer |
@@ -798,6 +818,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1547_blord | 杜卡雷，“君主之红” | - | - |
 | enemy_1548_ltniak | 赫尔昏佐伦，“巫王” | - | - |
 | enemy_1549_windoc | 哈洛德·克雷加文 | - | - |
+| enemy_1550_dhnzzh | “祟” | - | - |
 | enemy_2001_duckmi | 鸭爵 | Duck Lord | ダック卿 |
 | enemy_2002_bearmi | 高普尼克 | Gopnik | ゴプニク |
 | enemy_2003_rockman | 迷路的巨像 | Lost Colossus | 迷子の巨像 |
@@ -916,6 +937,23 @@ tip: 请善用浏览器的搜索功能
 | enemy_7013_slwazd | “召毁者” | 'The Ruinbringer' | 「破滅を呼ぶ者」 |
 | enemy_7014_dva | “搭档” | 'Al-Rafiq' | 「バディ」 |
 | enemy_7015_xbcrab2 | “钳钳生风” | 'Consortium of Pincers' | 「カニキング」 |
+| enemy_7016_shushu | 荒地鼷兽 | - | - |
+| enemy_7017_miner | 采掘苦工 | - | - |
+| enemy_7018_scarab | 爆裂源石虫 | - | - |
+| enemy_7019_thief | 旷野流贼 | - | - |
+| enemy_7020_xbtor | 刺棱壳兽 | - | - |
+| enemy_7021_xbmoth | 荧羽兽 | - | - |
+| enemy_7022_gatgod | 翠梦祭司 | - | - |
+| enemy_7023_gatbb | 翠梦使者 | - | - |
+| enemy_7024_clking | 行脚艺人 | - | - |
+| enemy_7025_clbb | 行脚艺徒 | - | - |
+| enemy_7026_xbele | 时光守卫 | - | - |
+| enemy_7027_xbbtl | 晶玲兽 | - | - |
+| enemy_7028_xbscp | 晶珑兽 | - | - |
+| enemy_7029_pilot | 浮袭者 | - | - |
+| enemy_7030_skodo | 纵尘者 | - | - |
+| enemy_7031_ghking | 湮灭者 | - | - |
+| enemy_7034_xbmsn | 勤奋劳工 | - | - |
 | enemy_8001_flmlod | 熔戈者，护王余火 | - | - |
 | enemy_8001_flmlod_2 | 熔戈者，护王余火 | - | - |
 | enemy_8001_flmlod_3 | 熔戈者，护王余火 | - | - |

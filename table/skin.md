@@ -108,6 +108,7 @@ tip: 请善用浏览器的搜索功能
 | char_201_moeshd@summer#4 | 探寻者 SK03 | Seeker SK03 | シーカーSK03 |
 | char_2023_ling@ncg#1 | 崖高梦远 | - | - |
 | char_2023_ling@nian#9 | 濯缨 | It Does Wash the Strings | 濯冠纓 |
+| char_2024_chyue@nian#10 | 何处栖 | - | - |
 | char_202_demkni@boc#1 | 坚城 | Stronghold | 堅城 |
 | char_202_demkni@test#1 | 铁律 | The Law | 鉄の掟 |
 | char_204_platnm@summer#3 | 灿阳朝露 SD05 | Shimmering Dew SD05 | 炎陽煌く露SD05 |
@@ -154,6 +155,7 @@ tip: 请善用浏览器的搜索功能
 | char_264_f12yin@boc#3 | 乌云 | Dark Cloud | 烏雲 |
 | char_264_f12yin@epoque#15 | 读者 | Book Reader | 読書家 |
 | char_265_sophia@epoque#11 | 荣耀之紫 | Glory Purple | グローリーパープル |
+| char_271_spikes@unveiling#1 | 危险邀约 | - | - |
 | char_271_spikes@winter#2 | 随性 | Casual | 気儘 |
 | char_272_strong@summer#6 | 沙滩护卫 GT002 | Beach Guard GT002 | 砂浜の番人GT002 |
 | char_274_astesi@epoque#23 | 奇工妙想 | Fantastic Crafts | 奇装天外 |
@@ -173,6 +175,7 @@ tip: 请善用浏览器的搜索功能
 | char_293_thorns@it#1 | 惬意 | Cómodo | 満喫 |
 | char_294_ayer@boc#3 | 受验者 | Tested One | 潜入者 |
 | char_297_hamoni@epoque#24 | 邀约 | Invitation | お誘い |
+| char_297_hamoni@unveiling#1 | 装点 | - | - |
 | char_298_susuro@summer#6 | 夏卉 FA026 | Summer Flower FA026 | 夏の花弁FA026 |
 | char_300_phenxi@witch#4 | 至圣誓言 | - | - |
 | char_302_glaze@summer#11 | 悠然假日 HD29 | - | - |
@@ -249,10 +252,12 @@ tip: 请善用浏览器的搜索功能
 | char_405_absin@epoque#28 | 正午余光 | - | - |
 | char_4064_mlynar@epoque#28 | 远路 | - | - |
 | char_4065_judge@snow#6 | 偶尔醉陶 | - | - |
+| char_4066_highmo@nian#10 | 及山海 | - | - |
 | char_4071_peper@whirlwind#5 | 来路 | The Road to Here | 来た道 |
 | char_4072_ironmn@summer#11 | 沙滩护卫 GT003 | - | - |
 | char_4077_palico@mh#1 | 跃上街头 | Fly Into the Street | 街へ飛び出せ |
 | char_4078_bdhkgt@yun#2 | 伴青莲 | - | - |
+| char_4080_lin@nian#10 | 列瑶台 | - | - |
 | char_4082_qiubai@ncg#1 | 霜林醉 | - | - |
 | char_411_tomimi@summer#5 | 静谧午夜 DN04 | Silent Night DN04 | 安息の午夜DN04 |
 | char_415_flint@boc#3 | 绚烂夏花 | Gorgeous Flower | 紫藤繚乱 |
@@ -271,6 +276,7 @@ tip: 请善用浏览器的搜索功能
 | char_437_mizuki@sale#7 | 夏日餮宴 | Summer Feast | 真夏の饗宴 |
 | char_440_pinecn@shining#1 | 倾声歌唱 | Sing a Song | 歌声よ届け |
 | char_449_glider@epoque#17 | 荒野之后 | Wildness Behind | 荒野のあとに |
+| char_449_glider@nian#10 | 洇灵雨 | - | - |
 | char_451_robin@epoque#13 | 原野的馈赠 | Gift of Wild | 荒野の贈り物 |
 | char_452_bstalk@snow#4 | 未完成的礼物 | Gift Uncompleted | 未完成のギフト |
 | char_455_nothin@nian#7 | 冷山月 | Pale Rising Moon | 冷山月 |

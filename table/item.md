@@ -147,6 +147,7 @@ tip: 请善用浏览器的搜索功能
 | LIMITED_TKT_GACHA_10_3801 | 未来序曲寻访凭证 | Preludes to the Future Headhunting Permit | 感謝祭記念10回スカウト券 |
 | LIMITED_TKT_GACHA_10_4101 | 云过天空寻访凭证 | Footprints of the Clouds Headhunting Permit | 4周年記念10回スカウト券 |
 | LIMITED_TKT_GACHA_10_4401 | 烛照弦鸣寻访凭证 | - | - |
+| LIMITED_TKT_GACHA_10_4701 | 时和岁丰寻访凭证 | - | - |
 | LIMITED_TKT_GACHA_10_903 | 苏醒纪念寻访凭证 | Awakening Commemoration Permit | 1周年記念10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_1701 | 特勤专家寻访凭证 | Elite Forces Headhunting Permit | 精鋭小隊10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_3601 | 指引明路寻访凭证 | Scouting the Light Headhunting Permit | ハンター凱旋10回スカウト券 |
@@ -164,6 +165,7 @@ tip: 请善用浏览器的搜索功能
 | LMTGS_COIN_3801 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_4101 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_4401 | 寻访数据契约 | - | - |
+| LMTGS_COIN_4701 | 寻访数据契约 | - | - |
 | LMTGS_COIN_601 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_903 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | Logistics_Special_Permit | 后勤特别许可证 | Logistics Special Permit | 特別支援申請許可証 |
@@ -268,6 +270,7 @@ tip: 请善用浏览器的搜索功能
 | act2bossrush_relic_04 | 调优重载 | Optimize Load | 積載調節 |
 | act2bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
 | act30side_token_box | 驮兽盲盒 | - | - |
+| act31side_token_box | 天桩 | - | - |
 | act38d1_token_coin | 晶化源石 | Crystalized Originium | 結晶化源石 |
 | act3bossrush_milestone_point | 试炼经验 | - | - |
 | act3bossrush_relic_01 | 恢复增幅 | - | - |
@@ -316,6 +319,11 @@ tip: 请善用浏览器的搜索功能
 | ap_supply_lt_100_2023_3 | 香辣火炉 | Spicy Hotpot(?) | 香辣火炉 |
 | ap_supply_lt_100_2023_4 | 金糖年糕 | Golden Syrup New Year's Cake | 金糖もち |
 | ap_supply_lt_100_2023_5 | 木瓜叶馅饼 | Papaya Leaf Meat Pie | パパイア葉のパイ |
+| ap_supply_lt_100_2024_1 | 纯净鲜花露 | - | - |
+| ap_supply_lt_100_2024_2 | 火山熔岩蛋糕 | - | - |
+| ap_supply_lt_100_2024_3 | 午后田园茶点 | - | - |
+| ap_supply_lt_100_2024_4 | 脆壳糖油果 | - | - |
+| ap_supply_lt_100_2024_5 | 奶油夹心饼干 | - | - |
 | ap_supply_lt_120 | 应急理智浓缩液 | Emergency Sanity Concentrate | 上級理性回復剤+ |
 | ap_supply_lt_120_2022_1 | 满颜色 | Full Color | 一家団欒 |
 | ap_supply_lt_120_2022_2 | 正圆月 | Full Moon | 仲秋名月 |
@@ -614,6 +622,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_201_moeshd | 可颂的信物 | Croissant's Token | クロワッサンの印 |
 | p_char_2023_ling | 令的信物 | Ling's Token | リィンの印 |
 | p_char_2024_chyue | 重岳的信物 | Chongyue's Token | チョンユエの印 |
+| p_char_2025_shu | 黍的信物 | - | - |
 | p_char_202_demkni | 塞雷娅的信物 | Saria's Token | サリアの印 |
 | p_char_204_platnm | 白金的信物 | Platinum's Token | プラチナの印 |
 | p_char_206_gnosis | 灵知的信物 | Gnosis's Token | ノーシスの印 |
@@ -728,6 +737,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4016_kazema | 风丸的信物 | Kazemaru's Token | カゼマルの印 |
 | p_char_4017_puzzle | 谜图的信物 | Puzzle's Token | パズルの印 |
 | p_char_401_elysm | 极境的信物 | Elysium's Token | エリジウムの印 |
+| p_char_4023_rfalcn | 红隼的信物 | - | - |
 | p_char_4025_aprot2 | 暮落的信物 | Shalem's Token | シャレムの印 |
 | p_char_4027_heyak | 霍尔海雅的信物 | Ho'olheyak's Token | ホルハイヤの印 |
 | p_char_402_tuye | 图耶的信物 | Tuye's Token | トゥイエの印 |
@@ -773,7 +783,10 @@ tip: 请善用浏览器的搜索功能
 | p_char_4114_harold | 哈洛德的信物 | - | - |
 | p_char_4116_blkkgt | 锏的信物 | - | - |
 | p_char_4117_ray | 莱伊的信物 | - | - |
+| p_char_4119_wanqin | 万顷的信物 | - | - |
 | p_char_411_tomimi | 特米米的信物 | Tomimi's Token | トミミの印 |
+| p_char_4121_zuole | 左乐的信物 | - | - |
+| p_char_4122_grabds | 小满的信物 | - | - |
 | p_char_415_flint | 燧石的信物 | Flint's Token | フリントの印 |
 | p_char_416_zumama | 森蚺的信物 | Eunectes' Token | ユーネクテスの印 |
 | p_char_420_flamtl | 焰尾的信物 | Flametail's Token | フレイムテイルの印 |
@@ -872,6 +885,7 @@ tip: 请善用浏览器的搜索功能
 | rogue_2_token_grow | 主观想象 | Subjective Imagination | 主観的構想 |
 | rogue_3_token_bp | 生态标本 | - | - |
 | rogue_3_token_grow | 理性视阈 | - | - |
+| sandbox_1_tokencoin | 繁荣点数 | - | - |
 | tier1_caster | 术师信物复制品 | Replicated Caster Token | ★1術師の印 |
 | tier1_guard | 近卫信物复制品 | Replicated Guard Token | ★1前衛の印 |
 | tier1_medic | 医疗信物复制品 | Replicated Medic Token | ★1医療の印 |
@@ -925,6 +939,7 @@ tip: 请善用浏览器的搜索功能
 | token_ObsidianCoin_rep_1 | 黑曜石节抽奖代币 | Obsidian Festival Token | ガチャコイン |
 | token_Obsidian_rep_1 | 汐斯塔的黑曜石 | Siesta Obsidian | シエスタの黒曜石 |
 | token_Wristband | 黑曜石节手环 | Obsidian Festival Bracelet | リストバンド |
+| uni_set_SargonFair_1 | 阿尔萨兰家具收藏包一 | - | - |
 | uni_set_abyssal | 覆潮之下家具收藏包 | Under Tides Furniture Pack | 潮汐の下家具パック |
 | uni_set_act10d5 | 乌萨斯的孩子们家具收藏包 | Children of Ursus Furniture Pack | ウルサスの子供たち家具パック |
 | uni_set_act7d5 | 午间逸话家具收藏包 | Stories of Afternoon Furniture Pack | 午後の逸話家具パック |

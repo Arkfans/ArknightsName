@@ -486,6 +486,9 @@
     "ja_JP": "濯冠纓",
     "zh_CN": "濯缨"
   },
+  "char_2024_chyue@nian#10": {
+    "zh_CN": "何处栖"
+  },
   "char_202_demkni@boc#1": {
     "en_US": "Stronghold",
     "ja_JP": "堅城",
@@ -710,6 +713,9 @@
     "ja_JP": "グローリーパープル",
     "zh_CN": "荣耀之紫"
   },
+  "char_271_spikes@unveiling#1": {
+    "zh_CN": "危险邀约"
+  },
   "char_271_spikes@winter#2": {
     "en_US": "Casual",
     "ja_JP": "気儘",
@@ -804,6 +810,9 @@
     "en_US": "Invitation",
     "ja_JP": "お誘い",
     "zh_CN": "邀约"
+  },
+  "char_297_hamoni@unveiling#1": {
+    "zh_CN": "装点"
   },
   "char_298_susuro@summer#6": {
     "en_US": "Summer Flower FA026",
@@ -1155,6 +1164,9 @@
   "char_4065_judge@snow#6": {
     "zh_CN": "偶尔醉陶"
   },
+  "char_4066_highmo@nian#10": {
+    "zh_CN": "及山海"
+  },
   "char_4071_peper@whirlwind#5": {
     "en_US": "The Road to Here",
     "ja_JP": "来た道",
@@ -1170,6 +1182,9 @@
   },
   "char_4078_bdhkgt@yun#2": {
     "zh_CN": "伴青莲"
+  },
+  "char_4080_lin@nian#10": {
+    "zh_CN": "列瑶台"
   },
   "char_4082_qiubai@ncg#1": {
     "zh_CN": "霜林醉"
@@ -1252,6 +1267,9 @@
     "en_US": "Wildness Behind",
     "ja_JP": "荒野のあとに",
     "zh_CN": "荒野之后"
+  },
+  "char_449_glider@nian#10": {
+    "zh_CN": "洇灵雨"
   },
   "char_451_robin@epoque#13": {
     "en_US": "Gift of Wild",

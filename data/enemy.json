@@ -3568,6 +3568,66 @@
   "enemy_1389_winbab_2": {
     "zh_CN": "访问团强攻冠军"
   },
+  "enemy_1390_dhsbr": {
+    "zh_CN": "秽"
+  },
+  "enemy_1390_dhsbr_2": {
+    "zh_CN": "除秽"
+  },
+  "enemy_1391_dhbow": {
+    "zh_CN": "蚀"
+  },
+  "enemy_1391_dhbow_2": {
+    "zh_CN": "去蚀"
+  },
+  "enemy_1392_dhshld": {
+    "zh_CN": "肮"
+  },
+  "enemy_1392_dhshld_2": {
+    "zh_CN": "厌肮"
+  },
+  "enemy_1393_dhele": {
+    "zh_CN": "玷"
+  },
+  "enemy_1393_dhele_2": {
+    "zh_CN": "勿玷"
+  },
+  "enemy_1394_dhzts": {
+    "zh_CN": "瘴"
+  },
+  "enemy_1394_dhzts_2": {
+    "zh_CN": "鄙瘴"
+  },
+  "enemy_1395_dhxts": {
+    "zh_CN": "田鼷"
+  },
+  "enemy_1395_dhxts_2": {
+    "zh_CN": "硬毫田鼷"
+  },
+  "enemy_1396_dhdts": {
+    "zh_CN": "田鼷力士"
+  },
+  "enemy_1396_dhdts_2": {
+    "zh_CN": "田鼷猛士"
+  },
+  "enemy_1397_dhtsxt": {
+    "zh_CN": "田鼷飞贼"
+  },
+  "enemy_1397_dhtsxt_2": {
+    "zh_CN": "田鼷大盗"
+  },
+  "enemy_1398_dhdcr": {
+    "zh_CN": "天桩-甲"
+  },
+  "enemy_1398_dhdcr_2": {
+    "zh_CN": "失控天桩-甲"
+  },
+  "enemy_1399_dhtb": {
+    "zh_CN": "天桩-乙"
+  },
+  "enemy_1399_dhtb_2": {
+    "zh_CN": "失控天桩-乙"
+  },
   "enemy_1500_skulsr": {
     "en_US": "Skullshatterer",
     "ja_JP": "SkullShredder",
@@ -3814,6 +3874,9 @@
   },
   "enemy_1549_windoc": {
     "zh_CN": "哈洛德·克雷加文"
+  },
+  "enemy_1550_dhnzzh": {
+    "zh_CN": "“祟”"
   },
   "enemy_2001_duckmi": {
     "en_US": "Duck Lord",
@@ -4350,6 +4413,57 @@
     "en_US": "'Consortium of Pincers'",
     "ja_JP": "「カニキング」",
     "zh_CN": "“钳钳生风”"
+  },
+  "enemy_7016_shushu": {
+    "zh_CN": "荒地鼷兽"
+  },
+  "enemy_7017_miner": {
+    "zh_CN": "采掘苦工"
+  },
+  "enemy_7018_scarab": {
+    "zh_CN": "爆裂源石虫"
+  },
+  "enemy_7019_thief": {
+    "zh_CN": "旷野流贼"
+  },
+  "enemy_7020_xbtor": {
+    "zh_CN": "刺棱壳兽"
+  },
+  "enemy_7021_xbmoth": {
+    "zh_CN": "荧羽兽"
+  },
+  "enemy_7022_gatgod": {
+    "zh_CN": "翠梦祭司"
+  },
+  "enemy_7023_gatbb": {
+    "zh_CN": "翠梦使者"
+  },
+  "enemy_7024_clking": {
+    "zh_CN": "行脚艺人"
+  },
+  "enemy_7025_clbb": {
+    "zh_CN": "行脚艺徒"
+  },
+  "enemy_7026_xbele": {
+    "zh_CN": "时光守卫"
+  },
+  "enemy_7027_xbbtl": {
+    "zh_CN": "晶玲兽"
+  },
+  "enemy_7028_xbscp": {
+    "zh_CN": "晶珑兽"
+  },
+  "enemy_7029_pilot": {
+    "zh_CN": "浮袭者"
+  },
+  "enemy_7030_skodo": {
+    "zh_CN": "纵尘者"
+  },
+  "enemy_7031_ghking": {
+    "zh_CN": "湮灭者"
+  },
+  "enemy_7034_xbmsn": {
+    "zh_CN": "勤奋劳工"
   },
   "enemy_8001_flmlod": {
     "zh_CN": "熔戈者，护王余火"

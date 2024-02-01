@@ -226,6 +226,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_gnosis_1 | 高速思考 | High-Speed Cogitation | 思考加速 |
 | skchr_gnosis_2 | 零度爆发 | Zero-Point Burst | ゼロバースト |
 | skchr_gnosis_3 | 失温症 | Hypothermia | ハイポサーミア |
+| skchr_grabds_1 | 竹笛飞声 | - | - |
+| skchr_grabds_2 | 乡音沉沉 | - | - |
 | skchr_grani_2 | 永不后退！ | Press the Attack! | 引かない！ |
 | skchr_gravel_1 | 影袭 | Shadow Assault | スニークガード |
 | skchr_gravel_2 | 鼠群 | Rat Swarm | 鼠の縄張り |
@@ -452,6 +454,7 @@ tip: 请善用浏览器的搜索功能
 | skchr_red_2 | 狼群 | Wolfpack | 群狼 |
 | skchr_reed2_2 | 枯荣共息 | Wither and Thrive | 盛衰を共に |
 | skchr_reed2_3 | 生命火种 | Ember of Life | 命の火種 |
+| skchr_rfalcn_2 | 醉刃乱舞 | - | - |
 | skchr_rfrost_1 | 陷阱部署 | Trap Deployment | トラップセット |
 | skchr_rfrost_2 | 击倒猎物 | Incapacitated Prey | リーサルパシュート |
 | skchr_robin_1 | 束缚“夹子” | Binding 'Clip' | バインド「クリップ」 |
@@ -478,6 +481,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_shining_3 | 教条力场 | Creed Field | 教導の結界 |
 | skchr_shotst_1 | 碎甲击 | Armor Breaker | 装甲砕き |
 | skchr_shotst_2 | 碎甲击·扩散 | Armor Breaker - Spread | 装甲砕き・拡散 |
+| skchr_shu_1 | 化被草木 | - | - |
+| skchr_shu_2 | 嘉禾盈仓 | - | - |
+| skchr_shu_3 | 离离枯荣 | - | - |
 | skchr_shwaz_1 | 强弩 | Charged Shot | 強射 |
 | skchr_shwaz_2 | 暮眼锐瞳 | Sharp Eye | 暮色の慧眼 |
 | skchr_shwaz_3 | 战术的终结 | Final Tactics | ターミネート |
@@ -578,6 +584,7 @@ tip: 请善用浏览器的搜索功能
 | skchr_vvana_3 | “明灭” | - | - |
 | skchr_waaifu_1 | 寸劲 | One-inch Punch | 寸勁 |
 | skchr_waaifu_2 | 七武掠阵踢 | Seven-styles Kick | 七武掠陣脚 |
+| skchr_wanqin_2 | 应东风 | - | - |
 | skchr_warmy_1 | 炎炎火焰 | - | - |
 | skchr_warmy_2 | 滔滔热流 | - | - |
 | skchr_weedy_1 | 炮管敲击 | Barrel Burst | 砲身強打 |
@@ -604,6 +611,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_zumama_1 | 轻型挂斧 | Tomahawk | トマホーク |
 | skchr_zumama_2 | 震慑劈砍 | Menacing Slash | 烈震崩撃 |
 | skchr_zumama_3 | 钢铁意志 | Iron Will | 鋼鉄の意思 |
+| skchr_zuole_1 | 破虏 | - | - |
+| skchr_zuole_2 | 行险 | - | - |
+| skchr_zuole_3 | 佑序有炎 | - | - |
 | skcom_assist_cost[2] | 支援号令·β型 | Support β | 支援指令β |
 | skcom_assist_cost[3] | 支援号令·γ型 | Support γ | 支援指令γ |
 | skcom_atk_up[1] | 攻击力强化·α型 | ATK Up α | 攻撃力強化α |
@@ -700,6 +710,10 @@ tip: 请善用浏览器的搜索功能
 | sktok_creep | 溟痕 | Nethersea Brand | 溟痕 |
 | sktok_crsbow | 清债程序 | Debt Relief Program | 清算プログラム |
 | sktok_dancdol | 剧目宣告 | Repertoire Announcement | カーテンコール |
+| sktok_dhdcr | 生成 | - | - |
+| sktok_dhsb | 泵水 | - | - |
+| sktok_dhtl_1 | 阻流 | - | - |
+| sktok_dhtl_2 | 阻流 | - | - |
 | sktok_dice | 掷骰 | Roll A Die | ダイスロール |
 | sktok_dice2 | 掷骰 | Roll A Die | ダイスロール |
 | sktok_dice3 | 掷骰 | Roll A Die | ダイスロール |
@@ -774,6 +788,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_nearl2_3 | “耀阳” | 'Blazing Sun' | 「ブレイジング・サン」 |
 | sktok_neonlamp | 文明的光芒 | The Light of Civilization | 「文明の灯火」 |
 | sktok_normbox | 诱人珍宝 | Alluring Treasures | 財宝のいざない |
+| sktok_npccom | 触发对话 | - | - |
 | sktok_npcsld | 列阵！ | Form Up! | 構え！ |
 | sktok_oldisin_1 | 触发对话 | Trigger Dialogue | 会話発生 |
 | sktok_ore | 脉冲波 | Pulse Wave | 源石衝撃波 |
@@ -846,6 +861,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_tbattbc | 钳兽壳粉 | Gloompincer Shell Meal | 鉗獣殻パウダー |
 | sktok_tbpsnc | 高效泡打粉 | High-Efficiency Baking Powder | ベーキングパウダー |
 | sktok_tbsmmc | 芳香精油 | Fragrant Essential Oil | エッセンシャルオイル |
+| sktok_tfalco | 触发对话 | - | - |
 | sktok_tidectrl_1 | 小幅涨潮 | Small Rising Tide | 引き潮 |
 | sktok_tidectrl_2 | 大幅涨潮 | Large Rising Tide | 満ち潮 |
 | sktok_tidectrl_3 | 深水 | Deep Water | 「深水区域」 |
@@ -858,7 +874,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_tooltree | 天然隐蔽 | - | - |
 | sktok_tower | 法术传输协议 | Arts Transfer Protocol | アーツ転送プロトコル |
 | sktok_trademan_1 | 触发对话 | Trigger Dialogue | 会話発生 |
+| sktok_trademan_summon | 触发对话 | - | - |
 | sktok_tree | 天然隐蔽 | Natural Camouflage | きのこガード |
+| sktok_trsrhuntr | 触发对话 | - | - |
 | sktok_trsrhuntr_1 | 触发对话 | Trigger Dialogue | 会話発生 |
 | sktok_truamr | “甜蜜狂搅” | - | - |
 | sktok_turngear | 自走车定向！ | Self-Driving Cart, This Way! | 方向転換！ |
@@ -880,20 +898,49 @@ tip: 请善用浏览器的搜索功能
 | sktok_winstone | 紧急点燃 | - | - |
 | sktok_wpnsts_1 | 拉特兰式冰淇淋 | Laterano-Style Gelato | ジェラート供給 |
 | sktok_wpnsts_2 | 拉特兰式冰淇淋 | Laterano-Style Gelato | ジェラート供給 |
+| sktok_xbalis | 发射 | - | - |
+| sktok_xbbarir | 阻挡 | - | - |
 | sktok_xbbase | 能源设备 | Energy Facility | 動力設備 |
+| sktok_xbbee | 扫描 | - | - |
+| sktok_xbcage | 捕获 | - | - |
+| sktok_xbcanoe | 放置平台 | - | - |
+| sktok_xbcbag | 释放猎获 | - | - |
+| sktok_xbdiam | 可采集 | - | - |
+| sktok_xbdrill | 采集 | - | - |
+| sktok_xbember | 激励 | - | - |
 | sktok_xbescp | 建立通讯 | Establish Communication | 通信確立 |
+| sktok_xbexbi | 纪念 | - | - |
 | sktok_xbfarm | 稻谷种植 | Plant Rice | 田植え |
+| sktok_xbfarmm | 种植 | - | - |
 | sktok_xbfato | 采集 | Gather | 採取 |
 | sktok_xbfato2 | 采集 | Gather | 採取 |
 | sktok_xbfato3 | 采集 | Gather | 採取 |
+| sktok_xbfdtion | 中枢核心 | - | - |
+| sktok_xbfence | 畜养 | - | - |
+| sktok_xbflare | 临时照明 | - | - |
+| sktok_xbfort | 部署 | - | - |
 | sktok_xbfortress | 搭建高台 | Build Tower | 高台設置 |
 | sktok_xbgldn | 冶铸 | Smelt | 鍛造 |
+| sktok_xbhydr | 锁钥 | - | - |
 | sktok_xbiron | 可供开采 | Harvestable | 採掘可能 |
+| sktok_xbistorm | 冰爆！ | - | - |
+| sktok_xblight | 瞭望 | - | - |
 | sktok_xblrsh | 人员状态改善 | Improve Personnel Status | 戦闘計画改善 |
+| sktok_xbmcv | 引擎核心 | - | - |
+| sktok_xbmgbird | “赠礼” | - | - |
+| sktok_xbmire | 侵蚀 | - | - |
 | sktok_xbmrcl | 演算 | Computation | 演算 |
 | sktok_xboverwatch | 监控 | Monitor | モニタリング |
 | sktok_xbprsh | 资源规划 | Resource Planning | 資源計画 |
 | sktok_xbroadblock | 阻断道路 | Block Road | 道路封鎖 |
+| sktok_xbsighta | 喷涌 | - | - |
+| sktok_xbsightb | 摇摆 | - | - |
+| sktok_xbsightc | 矗立 | - | - |
+| sktok_xbspgun | 喷射！ | - | - |
+| sktok_xbspps | 点燃 | - | - |
+| sktok_xbstation | 号令 | - | - |
 | sktok_xbstone | 可供开采 | Harvestable | 採掘可能 |
+| sktok_xbtent | 援护 | - | - |
+| sktok_xbtrap | 陷阱 | - | - |
 | sktok_xbwall | 防御支撑 | Defensive Support | 防衛の要 |
 | sktok_xbwood | 可供开采 | Harvestable | 採掘可能 |

@@ -21,6 +21,7 @@ tip: 请善用浏览器的搜索功能
 | striker | 雷神推进者 | Raythean Striker | Striker |
 | summer | 珊瑚海岸 | Coral Coast | CoralCoast |
 | sweep | 雷神开拓者 | Raythean Pioneer | Pioneer |
+| unveiling | 待予花冠 | - | - |
 | whirlwind | 0011/飙系列 | 0011/Tempest | 0011/飆 |
 | wild | 生命之地 | Vitafield | VitaField |
 | winter | 寒武纪™系列 | Cambrian Series | Cambrian |

@@ -691,6 +691,9 @@
   "LIMITED_TKT_GACHA_10_4401": {
     "zh_CN": "烛照弦鸣寻访凭证"
   },
+  "LIMITED_TKT_GACHA_10_4701": {
+    "zh_CN": "时和岁丰寻访凭证"
+  },
   "LIMITED_TKT_GACHA_10_903": {
     "en_US": "Awakening Commemoration Permit",
     "ja_JP": "1周年記念10回スカウト券",
@@ -772,6 +775,9 @@
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_4401": {
+    "zh_CN": "寻访数据契约"
+  },
+  "LMTGS_COIN_4701": {
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_601": {
@@ -1264,6 +1270,9 @@
   "act30side_token_box": {
     "zh_CN": "驮兽盲盒"
   },
+  "act31side_token_box": {
+    "zh_CN": "天桩"
+  },
   "act38d1_token_coin": {
     "en_US": "Crystalized Originium",
     "ja_JP": "結晶化源石",
@@ -1487,6 +1496,21 @@
     "en_US": "Papaya Leaf Meat Pie",
     "ja_JP": "パパイア葉のパイ",
     "zh_CN": "木瓜叶馅饼"
+  },
+  "ap_supply_lt_100_2024_1": {
+    "zh_CN": "纯净鲜花露"
+  },
+  "ap_supply_lt_100_2024_2": {
+    "zh_CN": "火山熔岩蛋糕"
+  },
+  "ap_supply_lt_100_2024_3": {
+    "zh_CN": "午后田园茶点"
+  },
+  "ap_supply_lt_100_2024_4": {
+    "zh_CN": "脆壳糖油果"
+  },
+  "ap_supply_lt_100_2024_5": {
+    "zh_CN": "奶油夹心饼干"
   },
   "ap_supply_lt_120": {
     "en_US": "Emergency Sanity Concentrate",
@@ -2950,6 +2974,9 @@
     "ja_JP": "チョンユエの印",
     "zh_CN": "重岳的信物"
   },
+  "p_char_2025_shu": {
+    "zh_CN": "黍的信物"
+  },
   "p_char_202_demkni": {
     "en_US": "Saria's Token",
     "ja_JP": "サリアの印",
@@ -3516,6 +3543,9 @@
     "ja_JP": "エリジウムの印",
     "zh_CN": "极境的信物"
   },
+  "p_char_4023_rfalcn": {
+    "zh_CN": "红隼的信物"
+  },
   "p_char_4025_aprot2": {
     "en_US": "Shalem's Token",
     "ja_JP": "シャレムの印",
@@ -3715,10 +3745,19 @@
   "p_char_4117_ray": {
     "zh_CN": "莱伊的信物"
   },
+  "p_char_4119_wanqin": {
+    "zh_CN": "万顷的信物"
+  },
   "p_char_411_tomimi": {
     "en_US": "Tomimi's Token",
     "ja_JP": "トミミの印",
     "zh_CN": "特米米的信物"
+  },
+  "p_char_4121_zuole": {
+    "zh_CN": "左乐的信物"
+  },
+  "p_char_4122_grabds": {
+    "zh_CN": "小满的信物"
   },
   "p_char_415_flint": {
     "en_US": "Flint's Token",
@@ -4194,6 +4233,9 @@
   "rogue_3_token_grow": {
     "zh_CN": "理性视阈"
   },
+  "sandbox_1_tokencoin": {
+    "zh_CN": "繁荣点数"
+  },
   "tier1_caster": {
     "en_US": "Replicated Caster Token",
     "ja_JP": "★1術師の印",
@@ -4458,6 +4500,9 @@
     "en_US": "Obsidian Festival Bracelet",
     "ja_JP": "リストバンド",
     "zh_CN": "黑曜石节手环"
+  },
+  "uni_set_SargonFair_1": {
+    "zh_CN": "阿尔萨兰家具收藏包一"
   },
   "uni_set_abyssal": {
     "en_US": "Under Tides Furniture Pack",

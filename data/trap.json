@@ -627,6 +627,15 @@
   "trap_138_winstone": {
     "zh_CN": "点火石"
   },
+  "trap_139_dhtl": {
+    "zh_CN": "阻流阀"
+  },
+  "trap_140_dhsb": {
+    "zh_CN": "泵站"
+  },
+  "trap_146_dhdcr": {
+    "zh_CN": "天桩"
+  },
   "trap_400_xbfarm": {
     "en_US": "Portable Planting Trough",
     "ja_JP": "栽培ポット",
@@ -635,7 +644,7 @@
   "trap_401_xbfato": {
     "en_US": "Basic Gathering Hub",
     "ja_JP": "採取ロボ用基地",
-    "zh_CN": "采集实习站"
+    "zh_CN": "木材采集站"
   },
   "trap_403_wfactory": {
     "en_US": "Crabbie Pumpie",
@@ -805,12 +814,138 @@
   "trap_438_xbfato2": {
     "en_US": "Advanced Gathering Hub",
     "ja_JP": "スーパー採取ロボ用基地",
-    "zh_CN": "采集专员站"
+    "zh_CN": "石材采集站"
   },
   "trap_439_xbfato3": {
     "en_US": "Executive Gathering Hub",
     "ja_JP": "ハイパー採取ロボ用基地",
-    "zh_CN": "采集主任站"
+    "zh_CN": "铁矿采集站"
+  },
+  "trap_440_xbalis": {
+    "zh_CN": "简易弩台"
+  },
+  "trap_441_xbmgbird": {
+    "zh_CN": "喙中奇物"
+  },
+  "trap_442_xbtrap": {
+    "zh_CN": "流沙黯坑"
+  },
+  "trap_443_xbtent": {
+    "zh_CN": "作战中心"
+  },
+  "trap_444_xbexbi": {
+    "zh_CN": "“纪念”"
+  },
+  "trap_445_xbfence": {
+    "zh_CN": "兽栏"
+  },
+  "trap_446_xbfdtion": {
+    "zh_CN": "风沙营垒"
+  },
+  "trap_447_xbmcv": {
+    "zh_CN": "旷野房车\n"
+  },
+  "trap_448_xbmire": {
+    "zh_CN": "污浊泥沼"
+  },
+  "trap_449_xbspgun": {
+    "zh_CN": "烟雾发射台"
+  },
+  "trap_450_xbdrill": {
+    "zh_CN": "澄亮采集站"
+  },
+  "trap_451_xbflare": {
+    "zh_CN": "荧光棒"
+  },
+  "trap_452_xbcage": {
+    "zh_CN": "捕猎笼"
+  },
+  "trap_453_xbbee": {
+    "zh_CN": "寻宝仪"
+  },
+  "trap_454_xbember": {
+    "zh_CN": "激励剂"
+  },
+  "trap_455_xbistorm": {
+    "zh_CN": "冰爆罐"
+  },
+  "trap_456_xbfarmm": {
+    "zh_CN": "种植箱集群\n"
+  },
+  "trap_457_xbfort": {
+    "zh_CN": "高台工事"
+  },
+  "trap_458_xbbarir": {
+    "zh_CN": "反应壁障"
+  },
+  "trap_459_xblight": {
+    "zh_CN": "监视哨站"
+  },
+  "trap_460_xbdiam": {
+    "zh_CN": "澄亮矿脉"
+  },
+  "trap_461_xbhydr": {
+    "zh_CN": "机关石门"
+  },
+  "trap_462_xbsighta": {
+    "zh_CN": "灵动清泉"
+  },
+  "trap_463_xbsightb": {
+    "zh_CN": "静谧盆栽"
+  },
+  "trap_464_xbsightc": {
+    "zh_CN": "休闲长椅"
+  },
+  "trap_465_xbstation": {
+    "zh_CN": "号令点"
+  },
+  "trap_466_tzumama": {
+    "zh_CN": "森蚺"
+  },
+  "trap_467_ttuye": {
+    "zh_CN": "图耶"
+  },
+  "trap_468_tpriest": {
+    "zh_CN": "大祭司"
+  },
+  "trap_469_tpasngr": {
+    "zh_CN": "异客"
+  },
+  "trap_470_tmantic": {
+    "zh_CN": "狮蝎"
+  },
+  "trap_471_tegmaus": {
+    "zh_CN": "佩佩"
+  },
+  "trap_472_tfalco": {
+    "zh_CN": "红隼"
+  },
+  "trap_473_trmedic": {
+    "zh_CN": "罗德岛工作人员"
+  },
+  "trap_474_mailbox": {
+    "zh_CN": "信使邮筒"
+  },
+  "trap_475_xbcbag": {
+    "zh_CN": "猎获笼"
+  },
+  "trap_476_mscskt": {
+    "zh_CN": "讯息匣"
+  },
+  "trap_477_xbspps": {
+    "zh_CN": "失衡异香"
+  },
+  "trap_478_xbcanoe": {
+    "zh_CN": "特制水上平台"
+  },
+  "trap_479_xbbillb": {
+    "zh_CN": "告示牌"
+  },
+  "trap_480_roadblockxb": {
+    "zh_CN": "道路障碍物"
+  },
+  "trap_481_gtreasureb": {
+    "zh_CN": "埋没金属箱"
   },
   "trap_700_cdabyss": {
     "en_US": "Ægirian Oscilloscope",

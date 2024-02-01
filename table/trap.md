@@ -139,8 +139,11 @@ tip: 请善用浏览器的搜索功能
 | trap_136_portlexi | 创生之相 | - | - |
 | trap_137_winfire | 紧急供暖器 | - | - |
 | trap_138_winstone | 点火石 | - | - |
+| trap_139_dhtl | 阻流阀 | - | - |
+| trap_140_dhsb | 泵站 | - | - |
+| trap_146_dhdcr | 天桩 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |
-| trap_401_xbfato | 采集实习站 | Basic Gathering Hub | 採取ロボ用基地 |
+| trap_401_xbfato | 木材采集站 | Basic Gathering Hub | 採取ロボ用基地 |
 | trap_403_wfactory | 蟹蟹抽水泵 | Crabbie Pumpie | カニカニポンプ |
 | trap_404_xbfortress | 坚固筑台 | Firm Platform | 堅牢な台 |
 | trap_405_xbroadblock | 都市风壁障 | Urban Style Barrier | 都市様式障壁 |
@@ -174,8 +177,52 @@ tip: 请善用浏览器的搜索功能
 | trap_434_klmantc | 曼提柯杀手 | Manticore Killer | 殺し屋のマンティコア |
 | trap_435_trsrhuntr | 寻宝人 | Treasure Hunter | トレジャーハンター |
 | trap_437_poachr | 老练猎手 | Veteran Hunter | 手練れのハンター |
-| trap_438_xbfato2 | 采集专员站 | Advanced Gathering Hub | スーパー採取ロボ用基地 |
-| trap_439_xbfato3 | 采集主任站 | Executive Gathering Hub | ハイパー採取ロボ用基地 |
+| trap_438_xbfato2 | 石材采集站 | Advanced Gathering Hub | スーパー採取ロボ用基地 |
+| trap_439_xbfato3 | 铁矿采集站 | Executive Gathering Hub | ハイパー採取ロボ用基地 |
+| trap_440_xbalis | 简易弩台 | - | - |
+| trap_441_xbmgbird | 喙中奇物 | - | - |
+| trap_442_xbtrap | 流沙黯坑 | - | - |
+| trap_443_xbtent | 作战中心 | - | - |
+| trap_444_xbexbi | “纪念” | - | - |
+| trap_445_xbfence | 兽栏 | - | - |
+| trap_446_xbfdtion | 风沙营垒 | - | - |
+| trap_447_xbmcv | 旷野房车
+ | - | - |
+| trap_448_xbmire | 污浊泥沼 | - | - |
+| trap_449_xbspgun | 烟雾发射台 | - | - |
+| trap_450_xbdrill | 澄亮采集站 | - | - |
+| trap_451_xbflare | 荧光棒 | - | - |
+| trap_452_xbcage | 捕猎笼 | - | - |
+| trap_453_xbbee | 寻宝仪 | - | - |
+| trap_454_xbember | 激励剂 | - | - |
+| trap_455_xbistorm | 冰爆罐 | - | - |
+| trap_456_xbfarmm | 种植箱集群
+ | - | - |
+| trap_457_xbfort | 高台工事 | - | - |
+| trap_458_xbbarir | 反应壁障 | - | - |
+| trap_459_xblight | 监视哨站 | - | - |
+| trap_460_xbdiam | 澄亮矿脉 | - | - |
+| trap_461_xbhydr | 机关石门 | - | - |
+| trap_462_xbsighta | 灵动清泉 | - | - |
+| trap_463_xbsightb | 静谧盆栽 | - | - |
+| trap_464_xbsightc | 休闲长椅 | - | - |
+| trap_465_xbstation | 号令点 | - | - |
+| trap_466_tzumama | 森蚺 | - | - |
+| trap_467_ttuye | 图耶 | - | - |
+| trap_468_tpriest | 大祭司 | - | - |
+| trap_469_tpasngr | 异客 | - | - |
+| trap_470_tmantic | 狮蝎 | - | - |
+| trap_471_tegmaus | 佩佩 | - | - |
+| trap_472_tfalco | 红隼 | - | - |
+| trap_473_trmedic | 罗德岛工作人员 | - | - |
+| trap_474_mailbox | 信使邮筒 | - | - |
+| trap_475_xbcbag | 猎获笼 | - | - |
+| trap_476_mscskt | 讯息匣 | - | - |
+| trap_477_xbspps | 失衡异香 | - | - |
+| trap_478_xbcanoe | 特制水上平台 | - | - |
+| trap_479_xbbillb | 告示牌 | - | - |
+| trap_480_roadblockxb | 道路障碍物 | - | - |
+| trap_481_gtreasureb | 埋没金属箱 | - | - |
 | trap_700_cdabyss | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |
 | trap_701_cdabyssa | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |
 | trap_702_cdabyssb | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |

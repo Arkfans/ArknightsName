@@ -72,9 +72,11 @@ tip: 请善用浏览器的搜索功能
 | act18side | 尘影余音 | Lingering Echoes | 塵影に交わる残響 |
 | act18sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act18sre | 尘影余音·复刻 | Lingering Echoes - Rerun | 塵影に交わる残響・復刻 |
+| act19login | 登录领取奖励 | - | - |
 | act19side | 绿野幻梦 | Dorothy's Vision | 翠玉の夢 |
 | act19sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act19sre | 绿野幻梦·复刻 | - | - |
+| act1blessing | 2024罗德岛新春签到 | - | - |
 | act1bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act1checkin | 未来序曲签到活动 | Preludes to the Future Sign-in Event | 大感謝祭スタンプ |
 | act1d5 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -120,6 +122,7 @@ tip: 请善用浏览器的搜索功能
 | act2switch | 登览锦绣合作活动 | - | - |
 | act30side | 银心湖列车 | - | - |
 | act30sign | 秋风送爽限时登录活动 | Snow Upon Autumnal Winds Limited Login Event | 早春の風スタンプラリー |
+| act31side | 怀黍离 | - | - |
 | act31sign | 正逢雨季限时登录活动 | Rain Season Limited Login Event | 長雨の候スタンプラリー |
 | act32sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act33sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -158,6 +161,7 @@ tip: 请善用浏览器的搜索功能
 | act7d5 | 午间逸话 | Stories of Afternoon | 午後の逸話 |
 | act7login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
 | act7mini | 灯火序曲 | Preluding Lights | 灯火序曲 |
+| act7pray | 龙门幸运墙登录活动 | - | - |
 | act7sre | 玛莉娅·临光·复刻 | Maria Nearl - Rerun | マリア·ニアール・復刻 |
 | act8d2 | 愚人节活动 | - | - |
 | act8login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |

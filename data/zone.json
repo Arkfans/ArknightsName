@@ -613,6 +613,15 @@
   "act30side_zone2": {
     "zh_CN": "特快列车"
   },
+  "act31side_zone1": {
+    "zh_CN": "种植地块"
+  },
+  "act31side_zone2": {
+    "zh_CN": "荒城核心"
+  },
+  "act31side_zone3": {
+    "zh_CN": "大江北岸"
+  },
   "act3bossrush_zone1": {
     "zh_CN": "强敌当前"
   },

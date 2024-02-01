@@ -324,6 +324,9 @@
     "ja_JP": "塵影に交わる残響・復刻",
     "zh_CN": "尘影余音·复刻"
   },
+  "act19login": {
+    "zh_CN": "登录领取奖励"
+  },
   "act19side": {
     "en_US": "Dorothy's Vision",
     "ja_JP": "翠玉の夢",
@@ -336,6 +339,9 @@
   },
   "act19sre": {
     "zh_CN": "绿野幻梦·复刻"
+  },
+  "act1blessing": {
+    "zh_CN": "2024罗德岛新春签到"
   },
   "act1bossrush": {
     "en_US": "Trials for Navigator",
@@ -538,6 +544,9 @@
     "ja_JP": "早春の風スタンプラリー",
     "zh_CN": "秋风送爽限时登录活动"
   },
+  "act31side": {
+    "zh_CN": "怀黍离"
+  },
   "act31sign": {
     "en_US": "Rain Season Limited Login Event",
     "ja_JP": "長雨の候スタンプラリー",
@@ -708,6 +717,9 @@
     "en_US": "Preluding Lights",
     "ja_JP": "灯火序曲",
     "zh_CN": "灯火序曲"
+  },
+  "act7pray": {
+    "zh_CN": "龙门幸运墙登录活动"
   },
   "act7sre": {
     "en_US": "Maria Nearl - Rerun",
