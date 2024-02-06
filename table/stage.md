@@ -575,10 +575,10 @@ tip: 请善用浏览器的搜索功能
 | act31side_st03 | 彻风雨 | - | - |
 | act31side_tr01 | 职农须知 | - | - |
 | act31side_tr02 | 引水疏浚 | - | - |
-| act3bossrush_01 | 适者生存 | - | - |
-| act3bossrush_02 | 惊惧与血色 | - | - |
-| act3bossrush_03 | 不测之渊 | - | - |
-| act3bossrush_04 | 虔信者的前路 | - | - |
+| act3bossrush_01 | 适者生存 | - | 適者生存 |
+| act3bossrush_02 | 惊惧与血色 | - | 恐怖と血色 |
+| act3bossrush_03 | 不测之渊 | - | 不測の淵 |
+| act3bossrush_04 | 虔信者的前路 | - | 信ずる者の行方 |
 | act4d0_01 | 引爆 | Ignition | 起爆 |
 | act4d0_02 | 聚集 | Gathering | 集結 |
 | act4d0_03 | 斑驳 | Speckles | まだら模様 |

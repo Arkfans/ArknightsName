@@ -239,7 +239,7 @@ tip: 请善用浏览器的搜索功能
 | act1mainlinebp_token_star | 里程碑碎片 | - | - |
 | act1sandbox_milestone_point | 繁荣证章 | Badge of Prosperity | 繁栄の証 |
 | act20side_token_book | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
-| act20side_token_book_rep_1 | 《奇谈怪论》复印本 | - | - |
+| act20side_token_book_rep_1 | 《奇谈怪论》复印本 | - | 『奇談怪論』複製本 |
 | act21side_token_permesso | 进货通行证 | Permesso di Importazione | 買付許可証 |
 | act21side_token_permesso_rep_1 | 进货通行证 | - | - |
 | act22side_token_manuscript | 手抄歌谣集 | Manuscripts of Ballads | 民謡集の写本 |
@@ -272,12 +272,12 @@ tip: 请善用浏览器的搜索功能
 | act30side_token_box | 驮兽盲盒 | - | - |
 | act31side_token_box | 天桩 | - | - |
 | act38d1_token_coin | 晶化源石 | Crystalized Originium | 結晶化源石 |
-| act3bossrush_milestone_point | 试炼经验 | - | - |
-| act3bossrush_relic_01 | 恢复增幅 | - | - |
-| act3bossrush_relic_02 | 扩大化战略 | - | - |
-| act3bossrush_relic_03 | 经验习得 | - | - |
-| act3bossrush_relic_04 | 过热运转 | - | - |
-| act3bossrush_token_relic | 数据黑盒 | - | - |
+| act3bossrush_milestone_point | 试炼经验 | - | 試練経験値 |
+| act3bossrush_relic_01 | 恢复增幅 | - | 癒しの増幅 |
+| act3bossrush_relic_02 | 扩大化战略 | - | 拡大化戦略 |
+| act3bossrush_relic_03 | 经验习得 | - | 経験習得 |
+| act3bossrush_relic_04 | 过热运转 | - | オーバーヒート |
+| act3bossrush_token_relic | 数据黑盒 | - | ブラックボックス |
 | act42d0_token_evaluation | 试验数据集 | - | - |
 | act4d0_intelligencepoint | 有效情报值 | Valid Intelligence Unit | 情報データ |
 | act4d5_point_kfc | KFC积分 | - | - |

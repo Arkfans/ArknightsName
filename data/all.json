@@ -6318,6 +6318,7 @@
   "char_348_ceylon@summer#13": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "ホリデーHD49",
       "zh_CN": "悠然假日 HD49"
     }
   },
@@ -6522,6 +6523,7 @@
   "char_4014_lunacu@yun#1": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "海棠の夢",
       "zh_CN": "棠云巧梦"
     }
   },
@@ -6666,6 +6668,7 @@
   "char_4054_malist@summer#14": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "ホリデーHDm74",
       "zh_CN": "悠然假日 HDm74"
     }
   },
@@ -7254,6 +7257,7 @@
   "yun": {
     "type": "BRAND",
     "names": {
+      "ja_JP": "0011/韻",
       "zh_CN": "0011/韵系列"
     }
   },
@@ -15260,6 +15264,7 @@
   "act20sre": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "理想都市-エンドレスカーニバル-・復刻",
       "zh_CN": "理想城：长夏狂欢季·复刻"
     }
   },
@@ -15554,6 +15559,7 @@
   "act3bossrush": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "導灯の試練",
       "zh_CN": "引航者试炼"
     }
   },
@@ -18046,6 +18052,7 @@
   "act20side_token_book_rep_1": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "『奇談怪論』複製本",
       "zh_CN": "《奇谈怪论》复印本"
     }
   },
@@ -18286,36 +18293,42 @@
   "act3bossrush_milestone_point": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "試練経験値",
       "zh_CN": "试炼经验"
     }
   },
   "act3bossrush_relic_01": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "癒しの増幅",
       "zh_CN": "恢复增幅"
     }
   },
   "act3bossrush_relic_02": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "拡大化戦略",
       "zh_CN": "扩大化战略"
     }
   },
   "act3bossrush_relic_03": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "経験習得",
       "zh_CN": "经验习得"
     }
   },
   "act3bossrush_relic_04": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "オーバーヒート",
       "zh_CN": "过热运转"
     }
   },
   "act3bossrush_token_relic": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ブラックボックス",
       "zh_CN": "数据黑盒"
     }
   },
@@ -25203,6 +25216,12 @@
     "type": "POOL",
     "names": {
       "en_US": "Joint Operation",
+      "ja_JP": "連合作戦"
+    }
+  },
+  "_NORM_25_0_8": {
+    "type": "POOL",
+    "names": {
       "ja_JP": "連合作戦"
     }
   },
@@ -37079,24 +37098,28 @@
   "act3bossrush_01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "適者生存",
       "zh_CN": "适者生存"
     }
   },
   "act3bossrush_02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "恐怖と血色",
       "zh_CN": "惊惧与血色"
     }
   },
   "act3bossrush_03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "不測の淵",
       "zh_CN": "不测之渊"
     }
   },
   "act3bossrush_04": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "信ずる者の行方",
       "zh_CN": "虔信者的前路"
     }
   },
@@ -42067,30 +42090,35 @@
   "act20sre_zone1": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "地底観光",
       "zh_CN": "地底观光"
     }
   },
   "act20sre_zone2": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "異文化交流",
       "zh_CN": "文化冲击"
     }
   },
   "act20sre_zone3": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "昇降機整備",
       "zh_CN": "升降梯整备"
     }
   },
   "act20sre_zone4": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "エキシビションコース",
       "zh_CN": "表演赛道"
     }
   },
   "act20sre_zone5": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "アルティメットコース",
       "zh_CN": "终极赛道"
     }
   },
@@ -42343,6 +42371,7 @@
   "act3bossrush_zone1": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "強敵襲来",
       "zh_CN": "强敌当前"
     }
   },
@@ -42711,30 +42740,35 @@
   "permanent_sidestory_16_zone1": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "地底観光",
       "zh_CN": "地底观光"
     }
   },
   "permanent_sidestory_16_zone2": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "異文化交流",
       "zh_CN": "文化冲击"
     }
   },
   "permanent_sidestory_16_zone3": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "昇降機整備",
       "zh_CN": "升降梯整备"
     }
   },
   "permanent_sidestory_16_zone4": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "エキシビションコース",
       "zh_CN": "表演赛道"
     }
   },
   "permanent_sidestory_16_zone5": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "アルティメットコース",
       "zh_CN": "终极赛道"
     }
   },
@@ -43563,6 +43597,7 @@
   "story_chnut_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "「黒い石」",
       "zh_CN": "黑色石头"
     }
   },
@@ -43911,6 +43946,7 @@
   "story_grani_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "決して振り返らず",
       "zh_CN": "穷途不返"
     }
   },
@@ -44009,6 +44045,7 @@
   "story_hibisc_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "良薬",
       "zh_CN": "良方"
     }
   },
@@ -44255,6 +44292,7 @@
   "story_malist_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "エンドレス・サマー",
       "zh_CN": "长夏未尽"
     }
   },

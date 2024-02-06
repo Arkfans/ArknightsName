@@ -27,4 +27,4 @@ tip: 请善用浏览器的搜索功能
 | winter | 寒武纪™系列 | Cambrian Series | Cambrian |
 | witch | 巫异盛宴  | Witch Feast | WitchFeast  |
 | xmas | 冰原信使 | Icefield Messenger | I.M |
-| yun | 0011/韵系列 | - | - |
+| yun | 0011/韵系列 | - | 0011/韻 |

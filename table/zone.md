@@ -100,11 +100,11 @@ tip: 请善用浏览器的搜索功能
 | act20side_zone3 | 升降梯整备 | Elevator Maintenance | 昇降機整備 |
 | act20side_zone4 | 表演赛道 | Exhibition Course | エキシビションコース |
 | act20side_zone5 | 终极赛道 | Ultimate Course | アルティメットコース |
-| act20sre_zone1 | 地底观光 | - | - |
-| act20sre_zone2 | 文化冲击 | - | - |
-| act20sre_zone3 | 升降梯整备 | - | - |
-| act20sre_zone4 | 表演赛道 | - | - |
-| act20sre_zone5 | 终极赛道 | - | - |
+| act20sre_zone1 | 地底观光 | - | 地底観光 |
+| act20sre_zone2 | 文化冲击 | - | 異文化交流 |
+| act20sre_zone3 | 升降梯整备 | - | 昇降機整備 |
+| act20sre_zone4 | 表演赛道 | - | エキシビションコース |
+| act20sre_zone5 | 终极赛道 | - | アルティメットコース |
 | act21side_zone1 | 连阴雨季 | Stagione delle Piogge | 暗い長雨 |
 | act21side_zone2 | 铳与秩序 | Pistole e Ordine | 銃と秩序 |
 | act21side_zone3 | 自诩荒野 | Terra Desolata Autoproclamata | 荒野を名乗る者 |
@@ -140,7 +140,7 @@ tip: 请善用浏览器的搜索功能
 | act31side_zone1 | 种植地块 | - | - |
 | act31side_zone2 | 荒城核心 | - | - |
 | act31side_zone3 | 大江北岸 | - | - |
-| act3bossrush_zone1 | 强敌当前 | - | - |
+| act3bossrush_zone1 | 强敌当前 | - | 強敵襲来 |
 | act5d0_zone1 | 下城区 | Downtown | 繁華街 |
 | act5d0_zone2 | 东部郊区 | Eastern Suburbs | 東部郊外 |
 | act5sre_zone1 | 议事高塔 | Capitol Spire | 大議事塔 |
@@ -187,11 +187,11 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_14_zone2 | 小巷深处 | Back Alleys | 暗き裏路地 |
 | permanent_sidestory_15_zone1 | 实验基地 | - | - |
 | permanent_sidestory_15_zone2 | 莱茵总部 | - | - |
-| permanent_sidestory_16_zone1 | 地底观光 | - | - |
-| permanent_sidestory_16_zone2 | 文化冲击 | - | - |
-| permanent_sidestory_16_zone3 | 升降梯整备 | - | - |
-| permanent_sidestory_16_zone4 | 表演赛道 | - | - |
-| permanent_sidestory_16_zone5 | 终极赛道 | - | - |
+| permanent_sidestory_16_zone1 | 地底观光 | - | 地底観光 |
+| permanent_sidestory_16_zone2 | 文化冲击 | - | 異文化交流 |
+| permanent_sidestory_16_zone3 | 升降梯整备 | - | 昇降機整備 |
+| permanent_sidestory_16_zone4 | 表演赛道 | - | エキシビションコース |
+| permanent_sidestory_16_zone5 | 终极赛道 | - | アルティメットコース |
 | permanent_sidestory_18_zone1 | 荒烟林沼 | - | - |
 | permanent_sidestory_18_zone2 | 记忆灰烬 | - | - |
 | permanent_sidestory_19_zone1 | 城中调查 | - | - |

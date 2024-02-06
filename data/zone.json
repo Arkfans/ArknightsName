@@ -467,18 +467,23 @@
     "zh_CN": "终极赛道"
   },
   "act20sre_zone1": {
+    "ja_JP": "地底観光",
     "zh_CN": "地底观光"
   },
   "act20sre_zone2": {
+    "ja_JP": "異文化交流",
     "zh_CN": "文化冲击"
   },
   "act20sre_zone3": {
+    "ja_JP": "昇降機整備",
     "zh_CN": "升降梯整备"
   },
   "act20sre_zone4": {
+    "ja_JP": "エキシビションコース",
     "zh_CN": "表演赛道"
   },
   "act20sre_zone5": {
+    "ja_JP": "アルティメットコース",
     "zh_CN": "终极赛道"
   },
   "act21side_zone1": {
@@ -623,6 +628,7 @@
     "zh_CN": "大江北岸"
   },
   "act3bossrush_zone1": {
+    "ja_JP": "強敵襲来",
     "zh_CN": "强敌当前"
   },
   "act5d0_zone1": {
@@ -850,18 +856,23 @@
     "zh_CN": "莱茵总部"
   },
   "permanent_sidestory_16_zone1": {
+    "ja_JP": "地底観光",
     "zh_CN": "地底观光"
   },
   "permanent_sidestory_16_zone2": {
+    "ja_JP": "異文化交流",
     "zh_CN": "文化冲击"
   },
   "permanent_sidestory_16_zone3": {
+    "ja_JP": "昇降機整備",
     "zh_CN": "升降梯整备"
   },
   "permanent_sidestory_16_zone4": {
+    "ja_JP": "エキシビションコース",
     "zh_CN": "表演赛道"
   },
   "permanent_sidestory_16_zone5": {
+    "ja_JP": "アルティメットコース",
     "zh_CN": "终极赛道"
   },
   "permanent_sidestory_18_zone1": {
