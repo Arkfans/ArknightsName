@@ -1725,7 +1725,7 @@
     "zh_CN": "奇谈怪论"
   },
   "act20side_04": {
-    "en_US": "The Great Aquapit",
+    "en_US": "'The Great Aquapit'",
     "ja_JP": "「どでかい水たまり」",
     "zh_CN": "“大水坑”"
   },
@@ -2684,18 +2684,22 @@
     "zh_CN": "引水疏浚"
   },
   "act3bossrush_01": {
+    "en_US": "Survival of the Fittest",
     "ja_JP": "適者生存",
     "zh_CN": "适者生存"
   },
   "act3bossrush_02": {
+    "en_US": "Blood and Terror",
     "ja_JP": "恐怖と血色",
     "zh_CN": "惊惧与血色"
   },
   "act3bossrush_03": {
+    "en_US": "Deep in Danger",
     "ja_JP": "不測の淵",
     "zh_CN": "不测之渊"
   },
   "act3bossrush_04": {
+    "en_US": "Path of the Faithful",
     "ja_JP": "信ずる者の行方",
     "zh_CN": "虔信者的前路"
   },

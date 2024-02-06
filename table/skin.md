@@ -202,7 +202,7 @@ tip: 请善用浏览器的搜索功能
 | char_345_folnic@wild#4 | 残葛 | Lasting Arrowroot | 残葛 |
 | char_346_aosta@game#2 | 光铳调试员 | Light Gun Adjuster | ライトガンテスター |
 | char_347_jaksel@whirlwind#2 | 纵身一跃 | Take a Leap | ひとっ飛び |
-| char_348_ceylon@summer#13 | 悠然假日 HD49 | - | ホリデーHD49 |
+| char_348_ceylon@summer#13 | 悠然假日 HD49 | Holiday HD49 | ホリデーHD49 |
 | char_350_surtr@it#1 | 自由//失效 | Liberté//Échec | 自由//失效 |
 | char_350_surtr@summer#9 | 缤纷奇境 CW03 | Colorful Wonderland CW03 | 極彩の楽園CW03 |
 | char_355_ethan@epoque#7 | 渗透 | Infiltrator | 同化 |
@@ -228,7 +228,7 @@ tip: 请善用浏览器的搜索功能
 | char_4009_irene@ambienceSynesthesia#3 | 飞羽 | Voyage of Feathers | 飛び立つ羽 |
 | char_400_weedy@snow#2 | 糖果仙子 | Candy Cape | キャンディフェアリー |
 | char_4013_kjera@epoque#18 | 灵巧侍者 | Ingenious Servant | 腕利き侍女 |
-| char_4014_lunacu@yun#1 | 棠云巧梦 | - | 海棠の夢 |
+| char_4014_lunacu@yun#1 | 棠云巧梦 | Clouds Float Like Ideas of Art | 海棠の夢 |
 | char_4016_kazema@witch#3 | 幻影轻悄 | Like Illusion | 軽やかな幻影 |
 | char_4017_puzzle@epoque#29 | 碎片之间 | - | - |
 | char_4019_ncdeer@ncdeer#1 | 古往今来的月 | - | - |
@@ -247,7 +247,7 @@ tip: 请善用浏览器的搜索功能
 | char_4046_ebnhlz@boc#6 | 变奏 | Eine Variation | 変奏 |
 | char_4047_pianst@wild#8 | 荒野寻音 | Freeland Tuneseeker | 荒野に音尋ね |
 | char_4048_doroth@witch#4 | 命运主宰 | - | - |
-| char_4054_malist@summer#14 | 悠然假日 HDm74 | - | ホリデーHDm74 |
+| char_4054_malist@summer#14 | 悠然假日 HDm74 | Holiday HDm74 | ホリデーHDm74 |
 | char_4055_bgsnow@wild#7 | 字句中的雪原 | Snowy Plains in Words | 行間にある雪原 |
 | char_405_absin@epoque#28 | 正午余光 | - | - |
 | char_4064_mlynar@epoque#28 | 远路 | - | - |

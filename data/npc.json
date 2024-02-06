@@ -294,6 +294,10 @@
     ]
   },
   "avg_120_hibisc_1": {
+    "en_US": [
+      "Gali",
+      "Hibiscus"
+    ],
     "ja_JP": [
       "ギャリー",
       "ハイビスカス"
@@ -1520,6 +1524,9 @@
     ]
   },
   "avg_4041_chnut_1": {
+    "en_US": [
+      "Chestnut"
+    ],
     "ja_JP": [
       "チェストナット"
     ],
@@ -1594,6 +1601,7 @@
   "avg_4054_malist_1": {
     "en_US": [
       "Mature Durin",
+      "Minimalist",
       "Scathing Durin",
       "Stitch Canvas"
     ],
@@ -1614,7 +1622,8 @@
     "en_US": [
       "Avdotya",
       "Contemplative Lupo",
-      "Lupo"
+      "Lupo",
+      "Pozëmka"
     ],
     "ja_JP": [
       "アヴドーチャ",
@@ -2370,6 +2379,7 @@
       "A Strange Passerby",
       "Discouraged Worker",
       "Drunkard",
+      "Edgar",
       "Filon",
       "Honest Villager",
       "Infected Employee?",
@@ -2570,6 +2580,7 @@
       "James the Worker",
       "Johnny",
       "Kazimierz Villager",
+      "Kurt Sr.",
       "Militiaman A",
       "Old Townsfolk",
       "Ordinary Infected B",
@@ -2581,6 +2592,7 @@
       "Village Headman",
       "Villager",
       "Villager C",
+      "Wallen",
       "早餐店老板"
     ],
     "ja_JP": [
@@ -3313,6 +3325,7 @@
       "Fragrance Shop Owner",
       "Manager",
       "Shopkeeper A",
+      "Tourist",
       "Tourist B"
     ],
     "ja_JP": [
@@ -4508,6 +4521,7 @@
       "Clan Leader A",
       "Crying Villager",
       "Excited Archosauria",
+      "Furious Archosauria",
       "Injured Villager",
       "Serious Archosauria",
       "Uda",
@@ -7224,6 +7238,7 @@
       "Casino Guest",
       "Cheerful Male Tourist",
       "Impatient Male Tourist",
+      "Mysterious Person",
       "Startled Male Tourist",
       "Terrified Male Tourist",
       "Tourist"
@@ -7288,7 +7303,8 @@
     "en_US": [
       "Angered Contestant",
       "Excited Customer",
-      "Irritated Contestant"
+      "Irritated Contestant",
+      "Tourist A"
     ],
     "ja_JP": [
       "怒っている選手",
@@ -7310,7 +7326,8 @@
       "Drunkard A",
       "Headstrong Contestant",
       "Irritated Contestant",
-      "Skeptical Customer"
+      "Skeptical Customer",
+      "Tourist B"
     ],
     "ja_JP": [
       "不屈の選手",
@@ -7746,6 +7763,7 @@
       "Mid-level Manager",
       "Professor's Assistant",
       "Researcher",
+      "Retained Lawyer",
       "Snobby Official",
       "Staff Worker",
       "Tired Corporate Employee",
@@ -7954,10 +7972,12 @@
   },
   "avg_npc_240": {
     "en_US": [
+      "Anxious Child",
       "Child",
       "Craig",
       "Dirt-Poor Peddler",
       "Emaciated Child",
+      "Eric",
       "Joe",
       "Jurian",
       "Knight",
@@ -8056,6 +8076,7 @@
       "Merchant",
       "Messenger MacMartin",
       "Michael",
+      "Mysterious Informant",
       "Panicked Youth",
       "Placid Photographer",
       "Restless Youth",
@@ -9882,6 +9903,7 @@
     "en_US": [
       "Angry Thug",
       "Calm Thug",
+      "Gali",
       "Hairdresser",
       "Londinium Citizen",
       "Newsagent",
@@ -11252,11 +11274,13 @@
   },
   "avg_npc_573_1": {
     "en_US": [
+      "Astonished Durin",
       "Astute Durin",
       "Chatty Durin",
       "Durin",
       "Durin Who's Carrying a Whole Barrel in His Arms",
       "Inebriated Durin",
+      "Leisurely Durin",
       "Not Very Astute Durin",
       "Starting-to-be-Astute Durin",
       "Thrilled Durin",
@@ -11291,6 +11315,7 @@
   },
   "avg_npc_574_1": {
     "en_US": [
+      "Admiring Durin",
       "Cheerful Durin",
       "Clear-headed Durin",
       "Excited Durin",
@@ -11344,9 +11369,11 @@
       "Meticulous Durin?",
       "Nervous Durin",
       "Not Very Courteous Durin",
+      "Pragmatic Durin",
       "Rational Durin",
       "Relaxed Durin",
-      "Starting-to-be-Courteous Durin"
+      "Starting-to-be-Courteous Durin",
+      "Tipsy Durin"
     ],
     "ja_JP": [
       "しっかりしたドゥリン",
@@ -13637,8 +13664,11 @@
   },
   "avg_npc_998_1": {
     "en_US": [
+      "Cautious Man",
+      "Cautious Man?",
       "Dispirited Worker",
       "Nervous Worker",
+      "Obsidian Miner",
       "Weary Worker"
     ],
     "ja_JP": [

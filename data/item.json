@@ -1138,6 +1138,7 @@
     "zh_CN": "《奇谈怪论》复印本"
   },
   "act20side_token_book_rep_1": {
+    "en_US": "Photocopies of 'Stranger Things'",
     "ja_JP": "『奇談怪論』複製本",
     "zh_CN": "《奇谈怪论》复印本"
   },
@@ -1280,26 +1281,32 @@
     "zh_CN": "晶化源石"
   },
   "act3bossrush_milestone_point": {
+    "en_US": "Trial EXP",
     "ja_JP": "試練経験値",
     "zh_CN": "试炼经验"
   },
   "act3bossrush_relic_01": {
+    "en_US": "Recovery Boost",
     "ja_JP": "癒しの増幅",
     "zh_CN": "恢复增幅"
   },
   "act3bossrush_relic_02": {
+    "en_US": "Strategy Expansion",
     "ja_JP": "拡大化戦略",
     "zh_CN": "扩大化战略"
   },
   "act3bossrush_relic_03": {
+    "en_US": "Experience Acquisition",
     "ja_JP": "経験習得",
     "zh_CN": "经验习得"
   },
   "act3bossrush_relic_04": {
+    "en_US": "Overcharge",
     "ja_JP": "オーバーヒート",
     "zh_CN": "过热运转"
   },
   "act3bossrush_token_relic": {
+    "en_US": "Data Blackbox",
     "ja_JP": "ブラックボックス",
     "zh_CN": "数据黑盒"
   },

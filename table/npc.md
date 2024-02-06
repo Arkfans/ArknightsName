@@ -40,8 +40,8 @@ tip: 请善用浏览器的搜索功能
 |   | 凛冬&烈夏 | 凛冬 | 凛冬 |
 |   |   | 凛冬&烈夏 | 凛冬&烈夏 |
 | avg_117_myrrh_1 | 末药 | Myrrh | ミルラ |
-| avg_120_hibisc_1 | 加利 | - | ギャリー |
-|   | 芙蓉 |   | ハイビスカス |
+| avg_120_hibisc_1 | 加利 | Gali | ギャリー |
+|   | 芙蓉 | Hibiscus | ハイビスカス |
 | avg_123_fang_1 | 芬 | Fang | フェン |
 | avg_126_shotst_1 | 流星 | Meteor | メテオ |
 | avg_127_estell_1 | 艾丝黛尔 | Estelle | エステル |
@@ -204,7 +204,7 @@ tip: 请善用浏览器的搜索功能
 | avg_4039_horn_1 | 号角 | Horn | ホルン |
 | avg_4040_rockr_1 | 洛洛 | Rochelle | ロシェル |
 |   | 罗谢尔 | Rockrock | ロックロック |
-| avg_4041_chnut_1 | 褐果 | - | チェストナット |
+| avg_4041_chnut_1 | 褐果 | Chestnut | チェストナット |
 | avg_4042_lumen_1 | 乔迪 | Jordi | ジョディ |
 | avg_4043_erato_1 | 埃拉托 | Erato | エラト |
 | avg_4045_heidi_1 | 海蒂 | - | - |
@@ -214,13 +214,13 @@ tip: 请善用浏览器的搜索功能
 | avg_4047_pianst_1 | 车尔尼 | Czerny | ツェルニー |
 | avg_4048_doroth_1 | 多萝西 | Dorothy | ドロシー |
 | avg_4054_malist_1 | 刻薄的杜林人 | Mature Durin | スディチ |
-|   | 成年的小杜林 | Scathing Durin | ミニマリスト |
-|   | 斯第奇·画布 | Stitch Canvas | 冷淡なドゥリン人 |
-|   | 至简 |   | 成人ドゥリン？ |
+|   | 成年的小杜林 | Minimalist | ミニマリスト |
+|   | 斯第奇·画布 | Scathing Durin | 冷淡なドゥリン人 |
+|   | 至简 | Stitch Canvas | 成人ドゥリン？ |
 | avg_4055_bgsnow_1 | 思考的鲁珀 | Avdotya | アヴドーチャ |
 |   | 阿芙朵嘉 | Contemplative Lupo | アヴドーチヤ |
 |   | 鲁珀 | Lupo | パゼオンカ |
-|   | 鸿雪 |   | ループス |
+|   | 鸿雪 | Pozëmka | ループス |
 |   |   |   | 考えるループス |
 | avg_4062_totter_1 | 铅踝 | Totter | トター |
 | avg_4063_quartz_1 | 石英 | Quartz | クォーツ |
@@ -335,23 +335,23 @@ tip: 请善用浏览器的搜索功能
 |   | 奇怪的路人？ | A Strange Passerby | エドガー |
 |   | 工人 | Discouraged Worker | フェロン |
 |   | 店主 | Drunkard | 住民 |
-|   | 强壮的镇民 | Filon | 元気になった労働者 |
-|   | 思索的信徒 | Honest Villager | 労働者 |
-|   | 急躁的感染者 | Infected Employee? | 嬉しそうな労働者 |
-|   | 愉快的工人 | Irritable Infected | 店主 |
-|   | 感染者员工？ | Joyful Worker | 彫の深い墓掘り人 |
-|   | 村民A | Neighbor A | 怪しい通行人？ |
-|   | 灰心丧气的工人 | Pondering Follower | 息巻く感染者 |
-|   | 猎人弟弟 | Spirited Worker | 感染者従業員？ |
-|   | 疲惫的工人 | Strong Townsfolk | 村人 |
-|   | 精神的工人 | Timid Miner | 村人A |
-|   | 老实的村民 | Tired Worker | 狩人の弟 |
-|   | 胆怯的工人 | Townsfolk | 疲れ切った労働者 |
-|   | 艾德格 | Villager A | 考える信徒 |
-|   | 菲隆 | Weary-eyed Gravedigger | 臆病な労働者 |
-|   | 邻居A | Worker | 落胆した労働者 |
-|   | 醉汉 | Young Hunter | 誠実な村人 |
-|   | 镇民 |   | 酔っ払い |
+|   | 强壮的镇民 | Edgar | 元気になった労働者 |
+|   | 思索的信徒 | Filon | 労働者 |
+|   | 急躁的感染者 | Honest Villager | 嬉しそうな労働者 |
+|   | 愉快的工人 | Infected Employee? | 店主 |
+|   | 感染者员工？ | Irritable Infected | 彫の深い墓掘り人 |
+|   | 村民A | Joyful Worker | 怪しい通行人？ |
+|   | 灰心丧气的工人 | Neighbor A | 息巻く感染者 |
+|   | 猎人弟弟 | Pondering Follower | 感染者従業員？ |
+|   | 疲惫的工人 | Spirited Worker | 村人 |
+|   | 精神的工人 | Strong Townsfolk | 村人A |
+|   | 老实的村民 | Timid Miner | 狩人の弟 |
+|   | 胆怯的工人 | Tired Worker | 疲れ切った労働者 |
+|   | 艾德格 | Townsfolk | 考える信徒 |
+|   | 菲隆 | Villager A | 臆病な労働者 |
+|   | 邻居A | Weary-eyed Gravedigger | 落胆した労働者 |
+|   | 醉汉 | Worker | 誠実な村人 |
+|   | 镇民 | Young Hunter | 酔っ払い |
 |   |   |   | 隣人A |
 | avg_npc_002 | 卡西米尔村民 | A Kazimierz Villager | カジミエーシュのごろつき |
 |   | 卡西米尔流氓 | Angry Miner | タフな開拓者 |
@@ -398,20 +398,20 @@ tip: 请善用浏览器的搜索功能
 |   | 搬运工 | James the Worker | 労働者ジェームズ |
 |   | 早餐店老板 | Johnny | 年老いた町民 |
 |   | 普通感染者B | Kazimierz Villager | 年老いた農民 |
-|   | 村民 | Militiaman A | 店長 |
-|   | 村民C | Old Townsfolk | 怯える感染者 |
-|   | 村长 | Ordinary Infected B | 感染者従業員A |
-|   | 民兵A | Porter | 早餐店老板 |
-|   | 沃廉 | Produce Vendor | 村人 |
-|   | 王阿伯 | Shopkeeper | 村人C |
-|   | 紧张的感染者 | Tense Infected | 村長 |
-|   | 老板 | Uncle Wong | 民兵A |
-|   | 老科特 | Village Headman | 老いた住民 |
-|   | 老约翰 | Villager | 老けている労働者 |
-|   | 聒噪的老人 | Villager C | 農場主 |
-|   | 苍老的工人 | 早餐店老板 | 運搬人 |
-|   | 菜贩 |   | 道を急ぐ労働者 |
-|   | 落魄的店主 |   |   |
+|   | 村民 | Kurt Sr. | 店長 |
+|   | 村民C | Militiaman A | 怯える感染者 |
+|   | 村长 | Old Townsfolk | 感染者従業員A |
+|   | 民兵A | Ordinary Infected B | 早餐店老板 |
+|   | 沃廉 | Porter | 村人 |
+|   | 王阿伯 | Produce Vendor | 村人C |
+|   | 紧张的感染者 | Shopkeeper | 村長 |
+|   | 老板 | Tense Infected | 民兵A |
+|   | 老科特 | Uncle Wong | 老いた住民 |
+|   | 老约翰 | Village Headman | 老けている労働者 |
+|   | 聒噪的老人 | Villager | 農場主 |
+|   | 苍老的工人 | Villager C | 運搬人 |
+|   | 菜贩 | Wallen | 道を急ぐ労働者 |
+|   | 落魄的店主 | 早餐店老板 |   |
 |   | 赶路的工人 |   |   |
 | avg_npc_006 | 商人 | A Spectating Infected | くたびれた労働者 |
 |   | 工程术师安德烈 | Bar Owner | アル |
@@ -617,8 +617,8 @@ tip: 请善用浏览器的搜索功能
 |   | 游客 | Fragrance Shop Owner | 店主A |
 |   | 游客B | Manager | 観光客 |
 |   | 经纪人 | Shopkeeper A | 観光客B |
-|   | 观众B | Tourist B | 観光客の女性 |
-|   | 顾客B |   | 観光客の女性A |
+|   | 观众B | Tourist | 観光客の女性 |
+|   | 顾客B | Tourist B | 観光客の女性A |
 |   | 香薰店店主 |   | 観客B |
 | avg_npc_023_2 | 克洛宁 | Cronin | クローニン |
 | avg_npc_024 | 赫尔曼 | Herman | ヘルマン |
@@ -903,13 +903,13 @@ tip: 请善用浏览器的搜索功能
 |   | 族长A | Clan Leader A | ウダイ |
 |   | 暴怒的阿达克利斯人 | Crying Villager | ヨタ |
 |   | 流泪的部族人 | Excited Archosauria | 怪我をした部族民 |
-|   | 认真的阿达克利斯人 | Injured Villager | 族長A |
-|   | 部族人 | Serious Archosauria | 涙を流す部族民 |
-|   | 部族人B | Uda | 激怒するアダクリス人 |
-|   | 阿达克利斯人 | Villager | 真面目なアダクリス人 |
-|   | 阿达克利斯人A | Villager B | 興奮したアダクリス人 |
-|   | 阿达克利斯人B | Yota | 興奮するアダクリス人 |
-|   | 阿达克利斯勇士 |   | 部族民 |
+|   | 认真的阿达克利斯人 | Furious Archosauria | 族長A |
+|   | 部族人 | Injured Villager | 涙を流す部族民 |
+|   | 部族人B | Serious Archosauria | 激怒するアダクリス人 |
+|   | 阿达克利斯人 | Uda | 真面目なアダクリス人 |
+|   | 阿达克利斯人A | Villager | 興奮したアダクリス人 |
+|   | 阿达克利斯人B | Villager B | 興奮するアダクリス人 |
+|   | 阿达克利斯勇士 | Yota | 部族民 |
 |   |   |   | 部族民B |
 | avg_npc_072 | “萨尔贡人” | 'Sargonian' | 「サルゴン人」 |
 |   | 伤心的部族人 | Archosauria B | アダクリス人B |
@@ -1554,10 +1554,10 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_201 | 害怕的男游客 | Casino Guest | せっかちな男性選手 |
 |   | 急躁的男游客 | Cheerful Male Tourist | カジノの客 |
 |   | 游客 | Impatient Male Tourist | 喜んでいる男性観光客 |
-|   | 犯罪分子 | Startled Male Tourist | 怖がっている男性観光客 |
-|   | 玻利瓦尔游客 | Terrified Male Tourist | 観光客 |
-|   | 神秘人物 | Tourist | 謎の人物 |
-|   | 赌场客人 |   | 驚いている男性観光客 |
+|   | 犯罪分子 | Mysterious Person | 怖がっている男性観光客 |
+|   | 玻利瓦尔游客 | Startled Male Tourist | 観光客 |
+|   | 神秘人物 | Terrified Male Tourist | 謎の人物 |
+|   | 赌场客人 | Tourist | 驚いている男性観光客 |
 |   | 震惊的男游客 |   |   |
 |   | 高兴的男游客 |   |   |
 | avg_npc_202 | 害怕的女游客 | Excited Female Tourist | 怖がっている女性観光客 |
@@ -1570,14 +1570,14 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_204 | 兴奋的客人 | Angered Contestant | 怒っている選手 |
 |   | 急躁的参赛选手 | Excited Customer | 興奮する客 |
 |   | 愤怒的参赛选手 | Irritated Contestant | 苛立っている選手 |
-|   | 游客A |   | 観光客A |
+|   | 游客A | Tourist A | 観光客A |
 | avg_npc_205 | 不屈的参赛选手 | Contestant | 不屈の選手 |
 |   | 参赛选手 | Contestant? | 参加選手？ |
 |   | 参赛选手？ | Drunkard A | 大会参加選手 |
 |   | 急躁的参赛选手 | Headstrong Contestant | 懐疑的な客 |
 |   | 游客B | Irritated Contestant | 苛立っている選手 |
 |   | 游客？ | Skeptical Customer | 観光客B |
-|   | 疑惑的客人 |   | 酔っ払いA |
+|   | 疑惑的客人 | Tourist B | 酔っ払いA |
 |   | 醉汉A |   |   |
 | avg_npc_206_1 | 铸铁 | Sideroca | シデロカ |
 | avg_npc_207 | 不耐烦的多索雷斯警察 | Bodyguard | なまけ者ドッソレス警察官 |
@@ -1680,12 +1680,12 @@ tip: 请善用浏览器的搜索功能
 |   | 市政厅职员 | Mid-level Manager | 政府の役人 |
 |   | 报案人 | Professor's Assistant | 教授の秘書 |
 |   | 政府官员 | Researcher | 権力に媚びる役人 |
-|   | 教授助理 | Snobby Official | 男性 |
-|   | 无聊的银行员工 | Staff Worker | 疲労した企業職員 |
-|   | 男生 | Tired Corporate Employee | 研究員 |
-|   | 疲倦的企业员工 | Witness | 職員 |
-|   | 研究员 | 骑探 | 通報者 |
-|   | 礼仪社员工 |   | 雇われ弁護士 |
+|   | 教授助理 | Retained Lawyer | 男性 |
+|   | 无聊的银行员工 | Snobby Official | 疲労した企業職員 |
+|   | 男生 | Staff Worker | 研究員 |
+|   | 疲倦的企业员工 | Tired Corporate Employee | 職員 |
+|   | 研究员 | Witness | 通報者 |
+|   | 礼仪社员工 | 骑探 | 雇われ弁護士 |
 |   | 穿制服的工作人员 |   | 騎士スカウト |
 |   | 红酒报实习记者 |   | 骑探 |
 |   | 线人 |   |   |
@@ -1710,16 +1710,16 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_238 | 凯利上尉 | Captain Kelly | ケリー大尉 |
 | avg_npc_239 | 衣着朴素的诗人 | Bard Williams | 詩人ウィリアムズ |
 |   | 诗人威廉姆斯 | Plain-Dressed Bard | 質素な服装の詩人 |
-| avg_npc_240 | 乔 | Child | ひもじい屋台の店主 |
-|   | 于里安 | Craig | やんちゃな子供 |
-|   | 克雷格 | Dirt-Poor Peddler | エリック |
-|   | 埃里克 | Emaciated Child | クレイグ |
-|   | 寒酸的小贩 | Joe | ジョー |
-|   | 小孩子 | Jurian | ユリアン |
-|   | 焦急的孩子 | Knight | 子供 |
-|   | 瘦弱的孩子 | Naughty Child | 焦る子供 |
-|   | 维多利亚少年 |   | 痩せ細った子供 |
-|   | 顽皮的孩子 |   | 騎士 |
+| avg_npc_240 | 乔 | Anxious Child | ひもじい屋台の店主 |
+|   | 于里安 | Child | やんちゃな子供 |
+|   | 克雷格 | Craig | エリック |
+|   | 埃里克 | Dirt-Poor Peddler | クレイグ |
+|   | 寒酸的小贩 | Emaciated Child | ジョー |
+|   | 小孩子 | Eric | ユリアン |
+|   | 焦急的孩子 | Joe | 子供 |
+|   | 瘦弱的孩子 | Jurian | 焦る子供 |
+|   | 维多利亚少年 | Knight | 痩せ細った子供 |
+|   | 顽皮的孩子 | Naughty Child | 騎士 |
 |   | 骑士 |   |   |
 | avg_npc_241 | 严肃的军官 | Gentle Officer | ヴィクトリア兵 |
 |   | 巡逻队队长 | Guards Member | ヴィクトリア兵士 |
@@ -1756,20 +1756,20 @@ tip: 请善用浏览器的搜索功能
 |   | 愤怒的市民 | Merchant | 憤慨する青年 |
 |   | 愤怒的男性 | Messenger MacMartin | 有志の青年 |
 |   | 慌张的青年 | Michael | 無愛想な男性 |
-|   | 拉拢客户的商人同学 | Panicked Youth | 焦っている青年 |
-|   | 暴躁的塔拉流民 | Placid Photographer | 町人A |
-|   | 清瘦的男性 | Restless Youth | 痩せた男性 |
-|   | 激动的塔拉流民 | Taran Refugee | 痩せ細った脱走兵 |
-|   | 烦躁的塔拉男性 | Tempersome Taran Refugee | 短気なターラー男性 |
-|   | 焦急的村民 | Timid Youth | 礼儀正しい男 |
-|   | 焦躁的青年 | Townsfolk A | 穏やかな撮影スタッフ |
-|   | 独立记者 | Twitchy Taran Man | 興奮したターラーの流民 |
-|   | 班特 | Unfamiliar Man | 苦しむ男性 |
-|   | 畏缩的青年 | Wasting Deserter | 荒っぽいターラーの流民 |
-|   | 痛苦的男性 | Wheedling Merchant Alumnus | 見知らぬ男 |
-|   | 瘦弱的逃兵 | Wounded Youth | 謎の情報提供者 |
-|   | 神秘线人 | Young Volunteer | 負傷した青年 |
-|   | 米克尔 |   | 驚く通行人 |
+|   | 拉拢客户的商人同学 | Mysterious Informant | 焦っている青年 |
+|   | 暴躁的塔拉流民 | Panicked Youth | 町人A |
+|   | 清瘦的男性 | Placid Photographer | 痩せた男性 |
+|   | 激动的塔拉流民 | Restless Youth | 痩せ細った脱走兵 |
+|   | 烦躁的塔拉男性 | Taran Refugee | 短気なターラー男性 |
+|   | 焦急的村民 | Tempersome Taran Refugee | 礼儀正しい男 |
+|   | 焦躁的青年 | Timid Youth | 穏やかな撮影スタッフ |
+|   | 独立记者 | Townsfolk A | 興奮したターラーの流民 |
+|   | 班特 | Twitchy Taran Man | 苦しむ男性 |
+|   | 畏缩的青年 | Unfamiliar Man | 荒っぽいターラーの流民 |
+|   | 痛苦的男性 | Wasting Deserter | 見知らぬ男 |
+|   | 瘦弱的逃兵 | Wheedling Merchant Alumnus | 謎の情報提供者 |
+|   | 神秘线人 | Wounded Youth | 負傷した青年 |
+|   | 米克尔 | Young Volunteer | 驚く通行人 |
 |   | 镇民A |   |   |
 |   | 陌生的男子 |   |   |
 | avg_npc_243 | 塔拉流民 | Apathetic Passerby | ターラーの流民 |
@@ -2113,11 +2113,11 @@ tip: 请善用浏览器的搜索功能
 |   | 饥饿的暴徒 |   |   |
 | avg_npc_417_1 | 伦蒂尼姆市民 | Angry Thug | ギャリー |
 |   | 冷静的暴徒 | Calm Thug | ロンディニウム市民 |
-|   | 加利 | Hairdresser | 冷静な暴徒 |
-|   | 愤怒的暴徒 | Londinium Citizen | 怒った暴徒 |
-|   | 报刊亭老板 | Newsagent | 新聞露店オーナー |
-|   | 欢呼的市民 | Worked-Up Thug | 理髪師 |
-|   | 激动的暴徒 |   | 興奮した暴徒 |
+|   | 加利 | Gali | 冷静な暴徒 |
+|   | 愤怒的暴徒 | Hairdresser | 怒った暴徒 |
+|   | 报刊亭老板 | Londinium Citizen | 新聞露店オーナー |
+|   | 欢呼的市民 | Newsagent | 理髪師 |
+|   | 激动的暴徒 | Worked-Up Thug | 興奮した暴徒 |
 |   | 理发师 |   |   |
 |   | 疑惑的市民 |   |   |
 |   | 疲惫的市民 |   |   |
@@ -2382,29 +2382,29 @@ tip: 请善用浏览器的搜索功能
 |   | 黛柯绮·银币 | Durin Passerby | 通行人 |
 | avg_npc_571_1 | 极境 | Elysium | エリジウム |
 | avg_npc_572_1 | 特米米 | Tomimi | トミミ |
-| avg_npc_573_1 | 不甚敏锐的杜林人 | Astute Durin | うるさいドゥリン |
-|   | 兴奋的杜林人 | Chatty Durin | のんびりしたドゥリン |
-|   | 悠闲的杜林人 | Durin | ふらふらなドゥリン人 |
-|   | 抱着酒桶的杜林人 | Durin Who's Carrying a Whole Barrel in His Arms | ドゥリン人 |
-|   | 摇晃的杜林人 | Inebriated Durin | 興奮するドゥリン人 |
-|   | 敏锐的杜林人 | Not Very Astute Durin | 酒樽を抱えたドゥリン |
-|   | 敏锐起来的杜林人 | Starting-to-be-Astute Durin | 酔ったドゥリン人 |
-|   | 杜林人 | Thrilled Durin | 鈍いドゥリン |
-|   | 絮叨的杜林人 | Wobbly Durin | 鋭いドゥリン |
-|   | 醉醺醺的杜林人 |   | 鋭くなったドゥリン |
-|   | 震惊的杜林人 |   | 驚嘆するドゥリン |
-| avg_npc_574_1 | 不甚敏锐的杜林人 | Cheerful Durin | しつこいドゥリン |
-|   | 不甚清醒的杜林人 | Clear-headed Durin | のんびりしたドゥリン |
-|   | 东倒西歪的杜林人 | Excited Durin | ひどく酔ったドゥリン人 |
-|   | 兴奋的杜林人 | Not Very Astute Durin | ぼんやりしたドゥリン |
-|   | 大醉的杜林人 | Not Very Clear-headed Durin | 上機嫌なドゥリン |
-|   | 执着的杜林人 | Piss-Drunk Durin | 冴えてるドゥリン |
-|   | 放松的杜林人 | Relaxed Durin | 冴え始めたドゥリン |
-|   | 欢快的杜林人 | Starting-to-be-Clear-headed Durin | 千鳥足のドゥリン人 |
-|   | 清醒的杜林人 | Stubborn Durin | 感動するドゥリン人 |
-|   | 清醒起来的杜林人 | Thrilled Durin | 興奮するドゥリン |
-|   | 激动的杜林人 | Topsy-Turvy Durin | 褒め称えるドゥリン |
-|   | 赞叹的杜林人 |   | 鈍いドゥリン |
+| avg_npc_573_1 | 不甚敏锐的杜林人 | Astonished Durin | うるさいドゥリン |
+|   | 兴奋的杜林人 | Astute Durin | のんびりしたドゥリン |
+|   | 悠闲的杜林人 | Chatty Durin | ふらふらなドゥリン人 |
+|   | 抱着酒桶的杜林人 | Durin | ドゥリン人 |
+|   | 摇晃的杜林人 | Durin Who's Carrying a Whole Barrel in His Arms | 興奮するドゥリン人 |
+|   | 敏锐的杜林人 | Inebriated Durin | 酒樽を抱えたドゥリン |
+|   | 敏锐起来的杜林人 | Leisurely Durin | 酔ったドゥリン人 |
+|   | 杜林人 | Not Very Astute Durin | 鈍いドゥリン |
+|   | 絮叨的杜林人 | Starting-to-be-Astute Durin | 鋭いドゥリン |
+|   | 醉醺醺的杜林人 | Thrilled Durin | 鋭くなったドゥリン |
+|   | 震惊的杜林人 | Wobbly Durin | 驚嘆するドゥリン |
+| avg_npc_574_1 | 不甚敏锐的杜林人 | Admiring Durin | しつこいドゥリン |
+|   | 不甚清醒的杜林人 | Cheerful Durin | のんびりしたドゥリン |
+|   | 东倒西歪的杜林人 | Clear-headed Durin | ひどく酔ったドゥリン人 |
+|   | 兴奋的杜林人 | Excited Durin | ぼんやりしたドゥリン |
+|   | 大醉的杜林人 | Not Very Astute Durin | 上機嫌なドゥリン |
+|   | 执着的杜林人 | Not Very Clear-headed Durin | 冴えてるドゥリン |
+|   | 放松的杜林人 | Piss-Drunk Durin | 冴え始めたドゥリン |
+|   | 欢快的杜林人 | Relaxed Durin | 千鳥足のドゥリン人 |
+|   | 清醒的杜林人 | Starting-to-be-Clear-headed Durin | 感動するドゥリン人 |
+|   | 清醒起来的杜林人 | Stubborn Durin | 興奮するドゥリン |
+|   | 激动的杜林人 | Thrilled Durin | 褒め称えるドゥリン |
+|   | 赞叹的杜林人 | Topsy-Turvy Durin | 鈍いドゥリン |
 | avg_npc_575_1 | 不甚客气的杜林人 | Absent-Minded Durin | しっかりしたドゥリン |
 |   | 严谨的杜林人 | Cool-Headed Durin | しっかりしたドゥリン？ |
 |   | 严谨的杜林人？ | Courteous Durin | そわそわしたドゥリン人 |
@@ -2415,11 +2415,11 @@ tip: 请善用浏览器的搜索功能
 |   | 恍惚的杜林人 | Meticulous Durin? | 少し丁寧なドゥリン |
 |   | 悠哉的杜林人 | Nervous Durin | 情熱的なドゥリン人 |
 |   | 搓手的杜林人 | Not Very Courteous Durin | 朦朧としたドゥリン |
-|   | 热情的杜林人 | Rational Durin | 現実的なドゥリン |
-|   | 现实的杜林人 | Relaxed Durin | 理性的なドゥリン |
-|   | 理性的杜林人 | Starting-to-be-Courteous Durin | 礼儀正しいドゥリン |
-|   | 畅想的杜林人 |   | 礼儀正しくなったドゥリン |
-|   | 紧张的杜林人 |   | 緊張するドゥリン人 |
+|   | 热情的杜林人 | Pragmatic Durin | 現実的なドゥリン |
+|   | 现实的杜林人 | Rational Durin | 理性的なドゥリン |
+|   | 理性的杜林人 | Relaxed Durin | 礼儀正しいドゥリン |
+|   | 畅想的杜林人 | Starting-to-be-Courteous Durin | 礼儀正しくなったドゥリン |
+|   | 紧张的杜林人 | Tipsy Durin | 緊張するドゥリン人 |
 | avg_npc_576_1 | 奇怪的机械 | Strange Machine | 奇怪なロボ0429 |
 |   | 奇怪的机械0429 | Strange Machine #0429 | 奇怪なロボット |
 | avg_npc_596_1 | 小黑 | Xiaohei | シャオヘイ |
@@ -2822,12 +2822,12 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_997_1 | 疲惫的声音 | Costa | コスタ |
 |   | 疲惫的政府职员 | Tired Government Employee | 疲れ切った政府職員 |
 |   | 科斯达 | Tired Voice | 疲弊した声 |
-| avg_npc_998_1 | 委顿的工人 | Dispirited Worker | 元気のない労働者 |
-|   | 慌张的工人 | Nervous Worker | 意気消沈した労働者 |
-|   | 无精打采的工人 | Weary Worker | 慌てる労働者 |
-|   | 谨慎的男人 |   | 慎重な男 |
-|   | 谨慎的男人？ |   | 慎重な男？ |
-|   | 黑曜石矿工 |   | 黒曜石坑夫 |
+| avg_npc_998_1 | 委顿的工人 | Cautious Man | 元気のない労働者 |
+|   | 慌张的工人 | Cautious Man? | 意気消沈した労働者 |
+|   | 无精打采的工人 | Dispirited Worker | 慌てる労働者 |
+|   | 谨慎的男人 | Nervous Worker | 慎重な男 |
+|   | 谨慎的男人？ | Obsidian Miner | 慎重な男？ |
+|   | 黑曜石矿工 | Weary Worker | 黒曜石坑夫 |
 | avg_npc_999_1 | 凯勒 | Keller | ケラー |
 | avgnew_112_siege_1 | Misery | Siege | シージ |
 |   | 推进之王 |   |   |

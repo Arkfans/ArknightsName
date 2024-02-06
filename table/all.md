@@ -832,7 +832,7 @@ tip: 请善用浏览器的搜索功能
 | char_345_folnic@wild#4 | 残葛 | Lasting Arrowroot | 残葛 |
 | char_346_aosta@game#2 | 光铳调试员 | Light Gun Adjuster | ライトガンテスター |
 | char_347_jaksel@whirlwind#2 | 纵身一跃 | Take a Leap | ひとっ飛び |
-| char_348_ceylon@summer#13 | 悠然假日 HD49 | - | ホリデーHD49 |
+| char_348_ceylon@summer#13 | 悠然假日 HD49 | Holiday HD49 | ホリデーHD49 |
 | char_350_surtr@it#1 | 自由//失效 | Liberté//Échec | 自由//失效 |
 | char_350_surtr@summer#9 | 缤纷奇境 CW03 | Colorful Wonderland CW03 | 極彩の楽園CW03 |
 | char_355_ethan@epoque#7 | 渗透 | Infiltrator | 同化 |
@@ -858,7 +858,7 @@ tip: 请善用浏览器的搜索功能
 | char_4009_irene@ambienceSynesthesia#3 | 飞羽 | Voyage of Feathers | 飛び立つ羽 |
 | char_400_weedy@snow#2 | 糖果仙子 | Candy Cape | キャンディフェアリー |
 | char_4013_kjera@epoque#18 | 灵巧侍者 | Ingenious Servant | 腕利き侍女 |
-| char_4014_lunacu@yun#1 | 棠云巧梦 | - | 海棠の夢 |
+| char_4014_lunacu@yun#1 | 棠云巧梦 | Clouds Float Like Ideas of Art | 海棠の夢 |
 | char_4016_kazema@witch#3 | 幻影轻悄 | Like Illusion | 軽やかな幻影 |
 | char_4017_puzzle@epoque#29 | 碎片之间 | - | - |
 | char_4019_ncdeer@ncdeer#1 | 古往今来的月 | - | - |
@@ -877,7 +877,7 @@ tip: 请善用浏览器的搜索功能
 | char_4046_ebnhlz@boc#6 | 变奏 | Eine Variation | 変奏 |
 | char_4047_pianst@wild#8 | 荒野寻音 | Freeland Tuneseeker | 荒野に音尋ね |
 | char_4048_doroth@witch#4 | 命运主宰 | - | - |
-| char_4054_malist@summer#14 | 悠然假日 HDm74 | - | ホリデーHDm74 |
+| char_4054_malist@summer#14 | 悠然假日 HDm74 | Holiday HDm74 | ホリデーHDm74 |
 | char_4055_bgsnow@wild#7 | 字句中的雪原 | Snowy Plains in Words | 行間にある雪原 |
 | char_405_absin@epoque#28 | 正午余光 | - | - |
 | char_4064_mlynar@epoque#28 | 远路 | - | - |
@@ -955,7 +955,7 @@ tip: 请善用浏览器的搜索功能
 | winter | 寒武纪™系列 | Cambrian Series | Cambrian |
 | witch | 巫异盛宴  | Witch Feast | WitchFeast  |
 | xmas | 冰原信使 | Icefield Messenger | I.M |
-| yun | 0011/韵系列 | - | 0011/韻 |
+| yun | 0011/韵系列 | 0011/Yun | 0011/韻 |
 | enemy_1000_gopro | 猎狗 | Hound | 猟犬 |
 | enemy_1000_gopro_2 | 猎狗pro | Hound Pro | 上級猟犬 |
 | enemy_1000_gopro_3 | 狂暴的猎狗pro | Rabid Hound Pro | 凶暴猟犬 |
@@ -1995,7 +1995,7 @@ tip: 请善用浏览器的搜索功能
 | act1unique | 九色鹿签到复刻活动 | - | - |
 | act20side | 理想城：长夏狂欢季 | Ideal City: Endless Carnival | 理想都市-エンドレスカーニバル- |
 | act20sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
-| act20sre | 理想城：长夏狂欢季·复刻 | - | 理想都市-エンドレスカーニバル-・復刻 |
+| act20sre | 理想城：长夏狂欢季·复刻 | Ideal City: Endless Carnival - Rerun | 理想都市-エンドレスカーニバル-・復刻 |
 | act21side | 叙拉古人 | IL Siracusano | シラクザーノ |
 | act21sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act21sre | 叙拉古人·复刻 | - | - |
@@ -2035,7 +2035,7 @@ tip: 请善用浏览器的搜索功能
 | act36sign | 步上双塔之时签到活动 | - | - |
 | act37sign | 限时累计签到 | - | - |
 | act38d1 | 尖灭测试作战 | Pinch-Out Experimental Operation | 尖滅試験作戦 |
-| act3bossrush | 引航者试炼 | - | 導灯の試練 |
+| act3bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act3d0 | 火蓝之心 | Heart of Surging Flame | 青く燃ゆる心 |
 | act3d5 | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
 | act3d7 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -2353,7 +2353,7 @@ tip: 请善用浏览器的搜索功能
 | act1mainlinebp_token_star | 里程碑碎片 | - | - |
 | act1sandbox_milestone_point | 繁荣证章 | Badge of Prosperity | 繁栄の証 |
 | act20side_token_book | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
-| act20side_token_book_rep_1 | 《奇谈怪论》复印本 | - | 『奇談怪論』複製本 |
+| act20side_token_book_rep_1 | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
 | act21side_token_permesso | 进货通行证 | Permesso di Importazione | 買付許可証 |
 | act21side_token_permesso_rep_1 | 进货通行证 | - | - |
 | act22side_token_manuscript | 手抄歌谣集 | Manuscripts of Ballads | 民謡集の写本 |
@@ -2386,12 +2386,12 @@ tip: 请善用浏览器的搜索功能
 | act30side_token_box | 驮兽盲盒 | - | - |
 | act31side_token_box | 天桩 | - | - |
 | act38d1_token_coin | 晶化源石 | Crystalized Originium | 結晶化源石 |
-| act3bossrush_milestone_point | 试炼经验 | - | 試練経験値 |
-| act3bossrush_relic_01 | 恢复增幅 | - | 癒しの増幅 |
-| act3bossrush_relic_02 | 扩大化战略 | - | 拡大化戦略 |
-| act3bossrush_relic_03 | 经验习得 | - | 経験習得 |
-| act3bossrush_relic_04 | 过热运转 | - | オーバーヒート |
-| act3bossrush_token_relic | 数据黑盒 | - | ブラックボックス |
+| act3bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
+| act3bossrush_relic_01 | 恢复增幅 | Recovery Boost | 癒しの増幅 |
+| act3bossrush_relic_02 | 扩大化战略 | Strategy Expansion | 拡大化戦略 |
+| act3bossrush_relic_03 | 经验习得 | Experience Acquisition | 経験習得 |
+| act3bossrush_relic_04 | 过热运转 | Overcharge | オーバーヒート |
+| act3bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
 | act42d0_token_evaluation | 试验数据集 | - | - |
 | act4d0_intelligencepoint | 有效情报值 | Valid Intelligence Unit | 情報データ |
 | act4d5_point_kfc | KFC积分 | - | - |
@@ -3297,7 +3297,7 @@ tip: 请善用浏览器的搜索功能
 | _NORM_23_2_3 | - | Joint Operation | 連合作戦 |
 | _NORM_23_2_4 | - | The Front That Was | 先途追想 |
 | _NORM_24_0_6 | - | Joint Operation | 連合作戦 |
-| _NORM_25_0_8 | - | - | 連合作戦 |
+| _NORM_25_0_8 | - | Joint Operation | 連合作戦 |
 | _NORM_2_0_1 | - | Chi Xiao, the Hidden Dragon | 赤龍乗雲 |
 | _NORM_2_0_3 | - | Lungmen Spec Ops Headhunting | 龍門特別行動要員 |
 | _NORM_3_0_1 | - | Frozen Land | 果てなき氷原 |
@@ -4622,7 +4622,7 @@ tip: 请善用浏览器的搜索功能
 | act20side_01 | 沉浸式游览 | Alternate Reality Tourism | 没入型ツアー |
 | act20side_02 | 下坠 | Freefall | 落下 |
 | act20side_03 | 奇谈怪论 | Stranger Things | 奇談怪論 |
-| act20side_04 | “大水坑” | The Great Aquapit | 「どでかい水たまり」 |
+| act20side_04 | “大水坑” | 'The Great Aquapit' | 「どでかい水たまり」 |
 | act20side_05 | 加速冲线 | Finish Line | ラストスパート |
 | act20side_06 | 战逃反应 | Fight Or Flight | 戦うか逃げるか |
 | act20side_07 | 生活之道 | Way of Living | 生きる道 |
@@ -4839,10 +4839,10 @@ tip: 请善用浏览器的搜索功能
 | act31side_st03 | 彻风雨 | - | - |
 | act31side_tr01 | 职农须知 | - | - |
 | act31side_tr02 | 引水疏浚 | - | - |
-| act3bossrush_01 | 适者生存 | - | 適者生存 |
-| act3bossrush_02 | 惊惧与血色 | - | 恐怖と血色 |
-| act3bossrush_03 | 不测之渊 | - | 不測の淵 |
-| act3bossrush_04 | 虔信者的前路 | - | 信ずる者の行方 |
+| act3bossrush_01 | 适者生存 | Survival of the Fittest | 適者生存 |
+| act3bossrush_02 | 惊惧与血色 | Blood and Terror | 恐怖と血色 |
+| act3bossrush_03 | 不测之渊 | Deep in Danger | 不測の淵 |
+| act3bossrush_04 | 虔信者的前路 | Path of the Faithful | 信ずる者の行方 |
 | act4d0_01 | 引爆 | Ignition | 起爆 |
 | act4d0_02 | 聚集 | Gathering | 集結 |
 | act4d0_03 | 斑驳 | Speckles | まだら模様 |
@@ -5478,11 +5478,11 @@ tip: 请善用浏览器的搜索功能
 | act20side_zone3 | 升降梯整备 | Elevator Maintenance | 昇降機整備 |
 | act20side_zone4 | 表演赛道 | Exhibition Course | エキシビションコース |
 | act20side_zone5 | 终极赛道 | Ultimate Course | アルティメットコース |
-| act20sre_zone1 | 地底观光 | - | 地底観光 |
-| act20sre_zone2 | 文化冲击 | - | 異文化交流 |
-| act20sre_zone3 | 升降梯整备 | - | 昇降機整備 |
-| act20sre_zone4 | 表演赛道 | - | エキシビションコース |
-| act20sre_zone5 | 终极赛道 | - | アルティメットコース |
+| act20sre_zone1 | 地底观光 | Underground Sightseeing | 地底観光 |
+| act20sre_zone2 | 文化冲击 | Cultural Shock | 異文化交流 |
+| act20sre_zone3 | 升降梯整备 | Elevator Maintenance | 昇降機整備 |
+| act20sre_zone4 | 表演赛道 | Exhibition Course | エキシビションコース |
+| act20sre_zone5 | 终极赛道 | Ultimate Course | アルティメットコース |
 | act21side_zone1 | 连阴雨季 | Stagione delle Piogge | 暗い長雨 |
 | act21side_zone2 | 铳与秩序 | Pistole e Ordine | 銃と秩序 |
 | act21side_zone3 | 自诩荒野 | Terra Desolata Autoproclamata | 荒野を名乗る者 |
@@ -5518,7 +5518,7 @@ tip: 请善用浏览器的搜索功能
 | act31side_zone1 | 种植地块 | - | - |
 | act31side_zone2 | 荒城核心 | - | - |
 | act31side_zone3 | 大江北岸 | - | - |
-| act3bossrush_zone1 | 强敌当前 | - | 強敵襲来 |
+| act3bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act5d0_zone1 | 下城区 | Downtown | 繁華街 |
 | act5d0_zone2 | 东部郊区 | Eastern Suburbs | 東部郊外 |
 | act5sre_zone1 | 议事高塔 | Capitol Spire | 大議事塔 |
@@ -5565,11 +5565,11 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_14_zone2 | 小巷深处 | Back Alleys | 暗き裏路地 |
 | permanent_sidestory_15_zone1 | 实验基地 | - | - |
 | permanent_sidestory_15_zone2 | 莱茵总部 | - | - |
-| permanent_sidestory_16_zone1 | 地底观光 | - | 地底観光 |
-| permanent_sidestory_16_zone2 | 文化冲击 | - | 異文化交流 |
-| permanent_sidestory_16_zone3 | 升降梯整备 | - | 昇降機整備 |
-| permanent_sidestory_16_zone4 | 表演赛道 | - | エキシビションコース |
-| permanent_sidestory_16_zone5 | 终极赛道 | - | アルティメットコース |
+| permanent_sidestory_16_zone1 | 地底观光 | Underground Sightseeing | 地底観光 |
+| permanent_sidestory_16_zone2 | 文化冲击 | Cultural Shock | 異文化交流 |
+| permanent_sidestory_16_zone3 | 升降梯整备 | Elevator Maintenance | 昇降機整備 |
+| permanent_sidestory_16_zone4 | 表演赛道 | Exhibition Course | エキシビションコース |
+| permanent_sidestory_16_zone5 | 终极赛道 | Ultimate Course | アルティメットコース |
 | permanent_sidestory_18_zone1 | 荒烟林沼 | - | - |
 | permanent_sidestory_18_zone2 | 记忆灰烬 | - | - |
 | permanent_sidestory_19_zone1 | 城中调查 | - | - |
@@ -5677,7 +5677,7 @@ tip: 请善用浏览器的搜索功能
 | story_chen_set_1_story_1 | 一鼓作气 | In One Effort | 一気呵成 |
 | story_chiave_set_1_story_1 | 代表作 | Masterpiece | 代表作 |
 | story_chimes_set_1_story_1 | 落叶何归 | - | - |
-| story_chnut_set_1_story_1 | 黑色石头 | - | 「黒い石」 |
+| story_chnut_set_1_story_1 | 黑色石头 | Black Rocks | 「黒い石」 |
 | story_chyue_set_1_story_1 | 昔我往矣 | Once Upon a Time, I Wandered Afar | 昔我往きて、君と携行す |
 | story_clour_set_1_story_1 | 安身之处 | - | - |
 | story_crow_set_1_story_1 | 坚韧的羽毛 | - | - |
@@ -5723,7 +5723,7 @@ tip: 请善用浏览器的搜索功能
 | story_glassb_set_2_story_1 | 再见以前 | - | - |
 | story_glider_set_1_story_1 | 苦涩的根茎 | A Bitterest Rhizome | 苦い根茎 |
 | story_gnosis_set_1_story_1 | 起点 | - | - |
-| story_grani_set_1_story_1 | 穷途不返 | - | 決して振り返らず |
+| story_grani_set_1_story_1 | 穷途不返 | Once Rock Bottom... | 決して振り返らず |
 | story_gravel_set_1_story_1 | 梦中过往 | Past in Dreams | 過ぎ去りし日の夢 |
 | story_greyy2_set_1_story_1 | 撰写光明 | Light, He Wrote | 綴られる光 |
 | story_greyy_set_1_story_1 | 过滤星星 | Filter Stars | 濾される星屑 |
@@ -5736,7 +5736,7 @@ tip: 请善用浏览器的搜索功能
 | story_headbr_set_2_story_1 | 在冬夜里燃烧 | Burning on a Winter Night | 冬の夜に燃える |
 | story_heidi_set_1_story_1 | 第一封信 | - | - |
 | story_helage_set_1_story_1 | 命途 | Fate | 命の行方 |
-| story_hibisc_set_1_story_1 | 良方 | - | 良薬 |
+| story_hibisc_set_1_story_1 | 良方 | The Best Cure | 良薬 |
 | story_hmau_set_1_story_1 | 南墙 | South Wall | 壊れない壁 |
 | story_horn_set_1_story_1 | 独奏曲 | Solo | 独奏曲 |
 | story_hpsts_set_1_story_1 | 锻造 | Forging | 鍛造 |
@@ -5768,7 +5768,7 @@ tip: 请善用浏览器的搜索功能
 | story_lmlee_set_1_story_1 | 三餐一日 | Three Square Meals a Day | 一日三食 |
 | story_lolxh_set_1_story_1 | 夜游船 | Sleepwalker Sailing | 夜の艦内遊覧 |
 | story_lumen_set_1_story_1 | 直到灯火明亮 | Till the Lights Shine Bright | 灯火が照らすまで |
-| story_malist_set_1_story_1 | 长夏未尽 | - | エンドレス・サマー |
+| story_malist_set_1_story_1 | 长夏未尽 | In the Endless Summer | エンドレス・サマー |
 | story_mantic_set_1_story_1 | 缄默 | Dead Silence | 黙して語らず |
 | story_mberry_set_1_story_1 | 平安祈愿 | A Prayer for Peace | 安全祈願 |
 | story_medic2_set_1_story_1 | 一个涂鸦 | A Piece of Graffiti | ある落書き |
