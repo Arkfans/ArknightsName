@@ -220,6 +220,7 @@ tip: 请善用浏览器的搜索功能
 | char_377_gdglow@summer#12 | 夏卉 FA394 | Summer Flowers FA394 | 夏の花弁FA394 |
 | char_378_asbest@whirlwind#3 | 幽谷奏鸣 | Glen Sonata | グレンソナタ |
 | char_383_snsant@witch#2 | 天命勇者 | Fated Hero | 宿命の勇者 |
+| char_385_finlpp@nian#11 | 贺新禧 | - | - |
 | char_388_mint@epoque#22 | 月宵 | Tsukiyoi | 月宵 |
 | char_388_mint@epoque#30 | 私人书房 | - | - |
 | char_391_rosmon@epoque#17 | 拥抱新生 | Become Anew | 始まりを抱く |

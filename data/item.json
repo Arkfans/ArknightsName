@@ -1313,6 +1313,24 @@
   "act42d0_token_evaluation": {
     "zh_CN": "试验数据集"
   },
+  "act4bossrush_milestone_point": {
+    "zh_CN": "试炼经验"
+  },
+  "act4bossrush_relic_01": {
+    "zh_CN": "轻量化载荷"
+  },
+  "act4bossrush_relic_02": {
+    "zh_CN": "核心预热"
+  },
+  "act4bossrush_relic_03": {
+    "zh_CN": "集群优势"
+  },
+  "act4bossrush_relic_04": {
+    "zh_CN": "渐进超频\n"
+  },
+  "act4bossrush_token_relic": {
+    "zh_CN": "数据黑盒"
+  },
   "act4d0_intelligencepoint": {
     "en_US": "Valid Intelligence Unit",
     "ja_JP": "情報データ",
@@ -4515,6 +4533,9 @@
     "ja_JP": "リストバンド",
     "zh_CN": "黑曜石节手环"
   },
+  "uni_set_NHL": {
+    "zh_CN": "吾导先路家具收藏包"
+  },
   "uni_set_SargonFair_1": {
     "zh_CN": "阿尔萨兰家具收藏包一"
   },
@@ -4687,6 +4708,9 @@
     "en_US": "Folinic's Personal Letter",
     "ja_JP": "フォリニックの手紙",
     "zh_CN": "亚叶的私人信件"
+  },
+  "voucher_full_forcer": {
+    "zh_CN": "见行者的私人信件"
   },
   "voucher_full_glady": {
     "en_US": "Gladiia's Personal Letter",

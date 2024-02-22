@@ -279,6 +279,13 @@ tip: 请善用浏览器的搜索功能
 | act3bossrush_relic_04 | 过热运转 | Overcharge | オーバーヒート |
 | act3bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
 | act42d0_token_evaluation | 试验数据集 | - | - |
+| act4bossrush_milestone_point | 试炼经验 | - | - |
+| act4bossrush_relic_01 | 轻量化载荷 | - | - |
+| act4bossrush_relic_02 | 核心预热 | - | - |
+| act4bossrush_relic_03 | 集群优势 | - | - |
+| act4bossrush_relic_04 | 渐进超频
+ | - | - |
+| act4bossrush_token_relic | 数据黑盒 | - | - |
 | act4d0_intelligencepoint | 有效情报值 | Valid Intelligence Unit | 情報データ |
 | act4d5_point_kfc | KFC积分 | - | - |
 | act5d0_point_medal | 终极企鹅勋章 | Top Tier Penguin Medal | ウルトラPG勲章 |
@@ -939,6 +946,7 @@ tip: 请善用浏览器的搜索功能
 | token_ObsidianCoin_rep_1 | 黑曜石节抽奖代币 | Obsidian Festival Token | ガチャコイン |
 | token_Obsidian_rep_1 | 汐斯塔的黑曜石 | Siesta Obsidian | シエスタの黒曜石 |
 | token_Wristband | 黑曜石节手环 | Obsidian Festival Bracelet | リストバンド |
+| uni_set_NHL | 吾导先路家具收藏包 | - | - |
 | uni_set_SargonFair_1 | 阿尔萨兰家具收藏包一 | - | - |
 | uni_set_abyssal | 覆潮之下家具收藏包 | Under Tides Furniture Pack | 潮汐の下家具パック |
 | uni_set_act10d5 | 乌萨斯的孩子们家具收藏包 | Children of Ursus Furniture Pack | ウルサスの子供たち家具パック |
@@ -976,6 +984,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_full_ceylon | 锡兰的私人信件 | Ceylon's Personal Letter | セイロンの手紙 |
 | voucher_full_flameb | 炎客的私人信件 | Flamebringer's Personal Letter | エンカクの手紙 |
 | voucher_full_folnic | 亚叶的私人信件 | Folinic's Personal Letter | フォリニックの手紙 |
+| voucher_full_forcer | 见行者的私人信件 | - | - |
 | voucher_full_glady | 歌蕾蒂娅的私人信件 | Gladiia's Personal Letter | グレイディーアの手紙 |
 | voucher_full_grani | 格拉尼的私人信件 | Grani's Personal Letter | グラニの手紙 |
 | voucher_full_kjera | 耶拉的私人信件 | - | - |

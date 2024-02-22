@@ -6459,6 +6459,12 @@
       "zh_CN": "天命勇者"
     }
   },
+  "char_385_finlpp@nian#11": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "贺新禧"
+    }
+  },
   "char_388_mint@epoque#22": {
     "type": "SKIN",
     "names": {
@@ -15623,6 +15629,12 @@
       "zh_CN": "纷争演绎"
     }
   },
+  "act4bossrush": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "引航者试炼"
+    }
+  },
   "act4d0": {
     "type": "ACTIVITY",
     "names": {
@@ -18349,6 +18361,42 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "试验数据集"
+    }
+  },
+  "act4bossrush_milestone_point": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "试炼经验"
+    }
+  },
+  "act4bossrush_relic_01": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "轻量化载荷"
+    }
+  },
+  "act4bossrush_relic_02": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "核心预热"
+    }
+  },
+  "act4bossrush_relic_03": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "集群优势"
+    }
+  },
+  "act4bossrush_relic_04": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "渐进超频\n"
+    }
+  },
+  "act4bossrush_token_relic": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "数据黑盒"
     }
   },
   "act4d0_intelligencepoint": {
@@ -23533,6 +23581,12 @@
       "zh_CN": "黑曜石节手环"
     }
   },
+  "uni_set_NHL": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "吾导先路家具收藏包"
+    }
+  },
   "uni_set_SargonFair_1": {
     "type": "ITEM",
     "names": {
@@ -23815,6 +23869,12 @@
       "en_US": "Folinic's Personal Letter",
       "ja_JP": "フォリニックの手紙",
       "zh_CN": "亚叶的私人信件"
+    }
+  },
+  "voucher_full_forcer": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "见行者的私人信件"
     }
   },
   "voucher_full_glady": {
@@ -37141,6 +37201,30 @@
       "zh_CN": "虔信者的前路"
     }
   },
+  "act4bossrush_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "冰霜与战火"
+    }
+  },
+  "act4bossrush_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "无关音律"
+    }
+  },
+  "act4bossrush_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "延烧的深池"
+    }
+  },
+  "act4bossrush_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "辞旧岁"
+    }
+  },
   "act4d0_01": {
     "type": "STAGE",
     "names": {
@@ -42396,6 +42480,12 @@
     "names": {
       "en_US": "Threat Incoming",
       "ja_JP": "強敵襲来",
+      "zh_CN": "强敌当前"
+    }
+  },
+  "act4bossrush_zone1": {
+    "type": "ZONE",
+    "names": {
       "zh_CN": "强敌当前"
     }
   },

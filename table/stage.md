@@ -579,6 +579,10 @@ tip: 请善用浏览器的搜索功能
 | act3bossrush_02 | 惊惧与血色 | Blood and Terror | 恐怖と血色 |
 | act3bossrush_03 | 不测之渊 | Deep in Danger | 不測の淵 |
 | act3bossrush_04 | 虔信者的前路 | Path of the Faithful | 信ずる者の行方 |
+| act4bossrush_01 | 冰霜与战火 | - | - |
+| act4bossrush_02 | 无关音律 | - | - |
+| act4bossrush_03 | 延烧的深池 | - | - |
+| act4bossrush_04 | 辞旧岁 | - | - |
 | act4d0_01 | 引爆 | Ignition | 起爆 |
 | act4d0_02 | 聚集 | Gathering | 集結 |
 | act4d0_03 | 斑驳 | Speckles | まだら模様 |
