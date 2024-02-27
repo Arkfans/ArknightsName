@@ -4089,58 +4089,72 @@
     "zh_CN": "伊祖米克，生态泉源"
   },
   "enemy_2043_smsbr": {
+    "en_US": "Tainted Carcass",
     "ja_JP": "穢された亡骸",
     "zh_CN": "染污躯壳"
   },
   "enemy_2044_smwiz": {
+    "en_US": "Distorted Caster",
     "ja_JP": "歪なる術師",
     "zh_CN": "歪曲施法者"
   },
   "enemy_2045_smdrn": {
+    "en_US": "Collapsed Construct",
     "ja_JP": "崩壊した構造体",
     "zh_CN": "坍缩构造体"
   },
   "enemy_2046_smwar": {
+    "en_US": "Shattered Champion",
     "ja_JP": "凍裂の戦士",
     "zh_CN": "木裂战士"
   },
   "enemy_2047_smtree": {
+    "en_US": "Silvernwhite Bulwark",
     "ja_JP": "積雪の銀樹",
     "zh_CN": "积雪银凇"
   },
   "enemy_2048_smgrd": {
+    "en_US": "'Demon's Blade'",
     "ja_JP": "「悪魔の利刃」",
     "zh_CN": "“邪魔的利刃”"
   },
   "enemy_2049_smgrd2": {
+    "en_US": "'Demon's Blade,' the Vagabond",
     "ja_JP": "「悪魔の利刃」、彷徨える者",
     "zh_CN": "“邪魔的利刃”，游荡者"
   },
   "enemy_2050_smsha": {
+    "en_US": "Fallen Snowpriest",
     "ja_JP": "堕ちたる雪祭司",
     "zh_CN": "陷落雪祀"
   },
   "enemy_2051_smsha2": {
+    "en_US": "Hollow Snowpriest",
     "ja_JP": "虚ろなる雪祭司",
     "zh_CN": "空洞雪祀"
   },
   "enemy_2052_smgia": {
+    "en_US": "Weaving Vinecreeps",
     "ja_JP": "絡まるツル",
     "zh_CN": "纠缠藤蔓"
   },
   "enemy_2053_smgia2": {
+    "en_US": "Elder Vinecreeps",
     "ja_JP": "いにしえのツル",
     "zh_CN": "古老藤蔓"
   },
   "enemy_2054_smdeer": {
+    "en_US": "'Samivilinn,' the Resolution of the Very North",
     "ja_JP": "「サーミの意志」",
     "zh_CN": "“萨米的意志”"
   },
   "enemy_2055_smlead": {
+    "en_US": "'Eikthyrnir,' the Scar of the Shattered",
     "ja_JP": "「凍裂」エイクティルニル",
     "zh_CN": "“木裂”埃克提尔尼尔"
   },
   "enemy_2056_smedzi": {
+    "en_US": "Crazelyseon, the Ascendant of Cosmoi",
     "ja_JP": "天地に揺蕩う、クレイズセオン",
     "zh_CN": "无垠回荡克雷松"
   },
@@ -4151,6 +4165,7 @@
     "zh_CN": "路加萨尔古斯，历法之王"
   },
   "enemy_2059_smbox": {
+    "en_US": "Testaceous Vinecreeps",
     "ja_JP": "巨殻のツル",
     "zh_CN": "巨壳藤蔓"
   },
@@ -4161,6 +4176,7 @@
     "zh_CN": "王者友伴"
   },
   "enemy_2062_smcar": {
+    "en_US": "Self-Driving Recon Cart",
     "ja_JP": "自走式探査車",
     "zh_CN": "勘察用自走车"
   },
@@ -4305,14 +4321,17 @@
     "zh_CN": "“毒瘤”"
   },
   "enemy_6015_ictruck": {
+    "en_US": "'Supersweetie Smiley'",
     "ja_JP": "「ビッグスイートスマイル」",
     "zh_CN": "“超甜微笑”"
   },
   "enemy_6016_splash": {
+    "en_US": "Thirster",
     "ja_JP": "サースター",
     "zh_CN": "干渴者"
   },
   "enemy_6017_icdrone": {
+    "en_US": "Supersweetie Delivery Drone",
     "ja_JP": "スイート・デリバリー",
     "zh_CN": "甜蜜派送机"
   },

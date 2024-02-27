@@ -996,6 +996,7 @@
     "zh_CN": "奇景明信片"
   },
   "act15mini_token_figurine": {
+    "en_US": "Guiding Figurines",
     "ja_JP": "指さす彫刻",
     "zh_CN": "指木雕刻"
   },
@@ -1083,6 +1084,7 @@
     "zh_CN": "神秘试剂"
   },
   "act19side_token_reagents_rep_1": {
+    "en_US": "Mysterious Reagent",
     "ja_JP": "謎の試薬",
     "zh_CN": "神秘试剂"
   },
@@ -1572,18 +1574,22 @@
     "zh_CN": "桂子落"
   },
   "ap_supply_lt_120_2023_1": {
+    "en_US": "'Radiant Courtyard'",
     "ja_JP": "「光輝燦爛」",
     "zh_CN": "“满庭光”"
   },
   "ap_supply_lt_120_2023_2": {
+    "en_US": "'Clear Nights'",
     "ja_JP": "「晴天良宵」",
     "zh_CN": "“良宵晴”"
   },
   "ap_supply_lt_120_2023_3": {
+    "en_US": "'Fragrant Osmanthus'",
     "ja_JP": "「桂花乱舞」",
     "zh_CN": "“飘桂香”"
   },
   "ap_supply_lt_120_2023_4": {
+    "en_US": "'Shrouded Golden Waves'",
     "ja_JP": "「春夜朧月」",
     "zh_CN": "“藏金波”"
   },
@@ -2980,6 +2986,7 @@
     "zh_CN": "角峰的信物"
   },
   "p_char_2012_typhon": {
+    "en_US": "Typhon's Token",
     "ja_JP": "ティフォンの印",
     "zh_CN": "提丰的信物"
   },
@@ -3390,6 +3397,7 @@
     "zh_CN": "黑的信物"
   },
   "p_char_341_sntlla": {
+    "en_US": "Santalla's Token",
     "ja_JP": "サンタラの印",
     "zh_CN": "寒檀的信物"
   },
@@ -3754,6 +3762,7 @@
     "zh_CN": "跃跃的信物"
   },
   "p_char_4102_threye": {
+    "en_US": "Valarqvin's Token",
     "ja_JP": "ヴァラルクビンの印",
     "zh_CN": "凛视的信物"
   },
@@ -4269,10 +4278,12 @@
     "zh_CN": "主观想象"
   },
   "rogue_3_token_bp": {
+    "en_US": "Ecological Specimens",
     "ja_JP": "生態標本",
     "zh_CN": "生态标本"
   },
   "rogue_3_token_grow": {
+    "en_US": "Lucid Acuity",
     "ja_JP": "理性的視野",
     "zh_CN": "理性视阈"
   },
@@ -4644,6 +4655,7 @@
     "zh_CN": "龙门风情茶室家具收藏包"
   },
   "uni_set_samiRoom_1": {
+    "en_US": "Sami Impressions Furniture Pack I",
     "ja_JP": "サーミ風家具パックvol.1",
     "zh_CN": "萨米印象家具收藏包一"
   },

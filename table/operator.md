@@ -95,7 +95,7 @@ tip: 请善用浏览器的搜索功能
 | char_197_poca | 早露 | Rosa | ロサ |
 | char_198_blackd | 讯使 | Courier | クーリエ |
 | char_199_yak | 角峰 | Matterhorn | マッターホルン |
-| char_2012_typhon | 提丰 | - | ティフォン |
+| char_2012_typhon | 提丰 | Typhon | ティフォン |
 | char_2013_cerber | 刻俄柏 | Ceobe | ケオベ |
 | char_2014_nian | 年 | Nian | ニェン |
 | char_2015_dusk | 夕 | Dusk | シー |
@@ -178,7 +178,7 @@ tip: 请善用浏览器的搜索功能
 | char_337_utage | 宴 | Utage | ウタゲ |
 | char_338_iris | 爱丽丝 | Iris | アイリス |
 | char_340_shwaz | 黑 | Schwarz | シュヴァルツ |
-| char_341_sntlla | 寒檀 | - | サンタラ |
+| char_341_sntlla | 寒檀 | Santalla | サンタラ |
 | char_343_tknogi | 月禾 | Tsukinogi | ツキノギ |
 | char_344_beewax | 蜜蜡 | Beeswax | ビーズワクス |
 | char_345_folnic | 亚叶 | Folinic | フォリニック |
@@ -257,7 +257,7 @@ tip: 请善用浏览器的搜索功能
 | char_4093_frston | Friston-3 | Friston-3 | Friston-3 |
 | char_4098_vvana | 薇薇安娜 | - | - |
 | char_4100_caper | 跃跃 | - | - |
-| char_4102_threye | 凛视 | - | ヴァラルクビン |
+| char_4102_threye | 凛视 | Valarqvin | ヴァラルクビン |
 | char_4104_coldst | 冰酿 | - | - |
 | char_4105_almond | 杏仁 | - | - |
 | char_4106_bryota | 苍苔 | Bryophyta | ブライオファイタ |

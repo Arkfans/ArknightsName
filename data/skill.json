@@ -2451,6 +2451,7 @@
     "zh_CN": "伸缩式电捕网"
   },
   "skchr_sntlla_2": {
+    "en_US": "'Witch's Tears'",
     "ja_JP": "「魔女の涙」",
     "zh_CN": "“女巫之泪”"
   },
@@ -2655,10 +2656,12 @@
     "zh_CN": "至高之术"
   },
   "skchr_threye_1": {
+    "en_US": "Before All I See Collapses",
     "ja_JP": "崩壊を視しとき",
     "zh_CN": "我见崩毁之前"
   },
   "skchr_threye_2": {
+    "en_US": "After All I See Has Withered",
     "ja_JP": "枯朽を視たりて",
     "zh_CN": "我见枯朽之后"
   },
@@ -2723,10 +2726,12 @@
     "zh_CN": "强心剂"
   },
   "skchr_typhon_2": {
+    "en_US": "Order of the Icefield",
     "ja_JP": "氷原の掟",
     "zh_CN": "冰原秩序"
   },
   "skchr_typhon_3": {
+    "en_US": "'Eternal Hunt'",
     "ja_JP": "「永久なる狩猟」",
     "zh_CN": "“永恒狩猎”"
   },
@@ -3309,10 +3314,12 @@
     "zh_CN": "自适应补给"
   },
   "sktok_cdcvrt": {
+    "en_US": "Energy Overflow Recovery",
     "ja_JP": "オーバーフロー・リカバリー",
     "zh_CN": "溢能回收"
   },
   "sktok_cdcvrta": {
+    "en_US": "Energy Overflow Recovery",
     "ja_JP": "オーバーフロー・リカバリー",
     "zh_CN": "溢能回收"
   },
@@ -3357,10 +3364,12 @@
     "zh_CN": "超重，绝缘"
   },
   "sktok_cdkzmr": {
+    "en_US": "Competition Records Analysis",
     "ja_JP": "競技記録アナライズ",
     "zh_CN": "竞技记录分析"
   },
   "sktok_cdrone": {
+    "en_US": "Field Support",
     "ja_JP": "戦地支援",
     "zh_CN": "战地援护"
   },
@@ -3505,6 +3514,7 @@
     "zh_CN": "释放秘药"
   },
   "sktok_eradio": {
+    "en_US": "Jet Cooling",
     "ja_JP": "蒸気放出",
     "zh_CN": "喷气散热"
   },
@@ -3653,6 +3663,7 @@
     "zh_CN": "宁作吾"
   },
   "sktok_ltnova": {
+    "en_US": "Neuronal Revival",
     "ja_JP": "神経再生",
     "zh_CN": "神经再生"
   },
@@ -4021,10 +4032,12 @@
     "zh_CN": "高压喷射"
   },
   "sktok_smbbox": {
+    "en_US": "Alluring Treasures?",
     "ja_JP": "財宝？の誘惑",
     "zh_CN": "诱人珍宝？"
   },
   "sktok_smbox": {
+    "en_US": "Alluring Treasures",
     "ja_JP": "財宝のいざない",
     "zh_CN": "诱人珍宝"
   },
@@ -4039,14 +4052,17 @@
     "zh_CN": "释放迷香"
   },
   "sktok_smpow": {
+    "en_US": "Activate",
     "ja_JP": "起動",
     "zh_CN": "启动"
   },
   "sktok_smrbox": {
+    "en_US": "Spiky Treasures",
     "ja_JP": "財宝に刺あり",
     "zh_CN": "刺人珍宝"
   },
   "sktok_smtree": {
+    "en_US": "Block Deployment",
     "ja_JP": "配置妨害",
     "zh_CN": "阻止部署"
   },
@@ -4185,6 +4201,7 @@
     "zh_CN": "触发对话"
   },
   "sktok_truamr": {
+    "en_US": "'Supersweetie Superblend'",
     "ja_JP": "「スーパーブレンド」",
     "zh_CN": "“甜蜜狂搅”"
   },

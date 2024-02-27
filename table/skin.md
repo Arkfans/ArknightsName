@@ -10,7 +10,7 @@ tip: 请善用浏览器的搜索功能
 | char_002_amiya@winter#1 | 报童 | Newsgirl | 新聞配達員 |
 | char_003_kalts@boc#6 | 残余 | Remnant | 名残 |
 | char_010_chen@nian#2 | 岁红霞 | Ageless Afterglow | 歳紅霞 |
-| char_010_chen@sale#10 | 初晴 | - | 雨上がり |
+| char_010_chen@sale#10 | 初晴 | After Storm | 雨上がり |
 | char_017_huang@as#1 | 爆裂菲林 | Burst Feline | 爆裂フェリーン |
 | char_1001_amiya2@casc#1 | 触及星辰 | - | - |
 | char_1011_lava2@nian#6 | 暮影藤萝 | Dusk Wisteria | 紫藤麗姿 |
@@ -58,7 +58,7 @@ tip: 请善用浏览器的搜索功能
 | char_131_flameb@whirlwind#6 | 单刀 | - | - |
 | char_134_ifrit@kfc#1 | 儿童派对 | - | - |
 | char_134_ifrit@summer#1 | 日晒 SS.SP | Sunburn SS.SP | サンライトSS.SP |
-| char_135_halo@epoque#25 | 所愿 | - | 冀望 |
+| char_135_halo@epoque#25 | 所愿 | Her Aspiration | 冀望 |
 | char_136_hsguma@nian#3 | 狩标浪人 | Ronin Huntress | 流離いの旗印 |
 | char_137_brownb@kitchen#1 | 掠蜜能手 | Honey Pilferer | ハチミツハンター |
 | char_140_whitew@boc#1 | 典雅噩兆 | Refined Horrormare | 典雅なる凶兆 |
@@ -179,7 +179,7 @@ tip: 请善用浏览器的搜索功能
 | char_297_hamoni@unveiling#1 | 装点 | - | - |
 | char_298_susuro@summer#6 | 夏卉 FA026 | Summer Flower FA026 | 夏の花弁FA026 |
 | char_300_phenxi@witch#4 | 至圣誓言 | - | - |
-| char_302_glaze@summer#11 | 悠然假日 HD29 | - | ホリデーHD29 |
+| char_302_glaze@summer#11 | 悠然假日 HD29 | Holiday HD29 | ホリデーHD29 |
 | char_304_zebra@wild#6 | 幽苔 | Tranquil Moss | 幽谷の緑苔 |
 | char_308_swire@nian#2 | 富贵荣华 | Honor and Splendor | 富貴栄華 |
 | char_311_mudrok@ambienceSynesthesia#2 | 黑曜石 | Obsidian | オブシディアン |
@@ -199,7 +199,7 @@ tip: 请善用浏览器的搜索功能
 | char_343_tknogi@epoque#9 | 伦式巫女 | Londinium Style Miko | ロンディニウム式巫女 |
 | char_343_tknogi@snow#6 | 舞 | - | - |
 | char_344_beewax@epoque#9 | 白沙 | Weißer Sand | ホワイトサンド |
-| char_344_beewax@summer#11 | 悠然假日 HD61 | - | ホリデーHD61 |
+| char_344_beewax@summer#11 | 悠然假日 HD61 | Holiday HD61 | ホリデーHD61 |
 | char_345_folnic@wild#4 | 残葛 | Lasting Arrowroot | 残葛 |
 | char_346_aosta@game#2 | 光铳调试员 | Light Gun Adjuster | ライトガンテスター |
 | char_347_jaksel@whirlwind#2 | 纵身一跃 | Take a Leap | ひとっ飛び |
@@ -233,7 +233,7 @@ tip: 请善用浏览器的搜索功能
 | char_4014_lunacu@yun#1 | 棠云巧梦 | Clouds Float Like Ideas of Art | 海棠の夢 |
 | char_4016_kazema@witch#3 | 幻影轻悄 | Like Illusion | 軽やかな幻影 |
 | char_4017_puzzle@epoque#29 | 碎片之间 | - | - |
-| char_4019_ncdeer@ncdeer#1 | 古往今来的月 | - | 古往今来の月 |
+| char_4019_ncdeer@ncdeer#1 | 古往今来的月 | A Silvern Caress On the Flow of Time | 古往今来の月 |
 | char_401_elysm@snow#2 | 雪夜回音 | Snowy Echo | 雪夜の思い出 |
 | char_401_elysm@summer#9 | 灿阳朝露 SDm11 | Shimmering Dew SDm11 | 炎陽煌く露SDm11 |
 | char_4025_aprot2@whirlwind#5 | 结果 | The Fruition | 結実 |
@@ -256,7 +256,7 @@ tip: 请善用浏览器的搜索功能
 | char_4065_judge@snow#6 | 偶尔醉陶 | - | - |
 | char_4066_highmo@nian#10 | 及山海 | - | - |
 | char_4071_peper@whirlwind#5 | 来路 | The Road to Here | 来た道 |
-| char_4072_ironmn@summer#11 | 沙滩护卫 GT003 | - | 砂浜の番人GT003 |
+| char_4072_ironmn@summer#11 | 沙滩护卫 GT003 | Beach Guard GT003 | 砂浜の番人GT003 |
 | char_4077_palico@mh#1 | 跃上街头 | Fly Into the Street | 街へ飛び出せ |
 | char_4078_bdhkgt@yun#2 | 伴青莲 | - | - |
 | char_4080_lin@nian#10 | 列瑶台 | - | - |
@@ -295,7 +295,7 @@ tip: 请善用浏览器的搜索功能
 | char_476_blkngt@summer#8 | 夏卉 FA641 | Summer Flower FA641 | 夏の花弁FA641 |
 | char_478_kirara@game#2 | 前沿玩家 | Trendsetting Player | トレンディゲーマー |
 | char_479_sleach@epoque#14 | 识芳 | Appreciate Fragrance | 満開 |
-| char_479_sleach@summer#11 | 夏卉 FA317 | - | 夏の花弁FA317 |
+| char_479_sleach@summer#11 | 夏卉 FA317 | Summer Flowers FA317 | 夏の花弁FA317 |
 | char_484_robrta@ambienceSynesthesia#3 | 待绘的作品 | Granter of Colors | 色彩を待つ白 |
 | char_484_robrta@summer#10 | 夏卉 FA374 | Summer Flowers FA374 | 夏の花弁FA374 |
 | char_485_pallas@epoque#12 | 传承 | Heritage | 伝承 |

@@ -510,7 +510,7 @@ tip: 请善用浏览器的搜索功能
 | skchr_snakek_2 | 壳状防御 | Shell Defense | シェルガード |
 | skchr_snsant_1 | 倒刺钩爪 | Barbed Clawhook | フックキャッチ |
 | skchr_snsant_2 | 伸缩式电捕网 | Telescoping Electric Net | ネットキャプチャー |
-| skchr_sntlla_2 | “女巫之泪” | - | 「魔女の涙」 |
+| skchr_sntlla_2 | “女巫之泪” | 'Witch's Tears' | 「魔女の涙」 |
 | skchr_sophia_1 | 激励艺术 | Motivational Skills | 激励の美学 |
 | skchr_sophia_2 | 鞭刃 | Whip Sword | 鞭刃解放 |
 | skchr_sora_1 | 睡眠之歌 | Hymn of Respite | すやすやナンバー |
@@ -551,8 +551,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_texas_2 | 剑雨 | Sword Rain | 剣雨 |
 | skchr_thorns_2 | 护身尖刺 | Protective Spikes | 迎撃針棘 |
 | skchr_thorns_3 | 至高之术 | Destreza | デストレッツァ |
-| skchr_threye_1 | 我见崩毁之前 | - | 崩壊を視しとき |
-| skchr_threye_2 | 我见枯朽之后 | - | 枯朽を視たりて |
+| skchr_threye_1 | 我见崩毁之前 | Before All I See Collapses | 崩壊を視しとき |
+| skchr_threye_2 | 我见枯朽之后 | After All I See Has Withered | 枯朽を視たりて |
 | skchr_tiger_1 | 碎甲拳 | Armorcrusher | 砕甲拳 |
 | skchr_tiger_2 | 裂魂 | Sundered Soul | 裂魂 |
 | skchr_tknogi_1 | 迹无 | Without a Trace | 跡無 |
@@ -565,8 +565,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_totter_2 | 破虹 | Prism Break | 砕虹の勁弩 |
 | skchr_tuye_1 | 水流环 | Aqua Loop | アクアリング |
 | skchr_tuye_2 | 强心剂 | Cardiac Stimulant | カンフル剤 |
-| skchr_typhon_2 | 冰原秩序 | - | 氷原の掟 |
-| skchr_typhon_3 | “永恒狩猎” | - | 「永久なる狩猟」 |
+| skchr_typhon_2 | 冰原秩序 | Order of the Icefield | 氷原の掟 |
+| skchr_typhon_3 | “永恒狩猎” | 'Eternal Hunt' | 「永久なる狩猟」 |
 | skchr_utage_1 | 分神 | Space Out | サボり |
 | skchr_utage_2 | 落地斩·破门 | Descending Strike - Earth Splitter | 落地斬・突破 |
 | skchr_vendla_2 | 荆藤庇荫 | - | - |
@@ -689,8 +689,8 @@ tip: 请善用浏览器的搜索功能
 | sktok_cdcredit | 自适应补给 | Adaptive Supply | 多機能補給 |
 | sktok_cdcredita | 自适应补给 | Adaptive Supply | 多機能補給 |
 | sktok_cdcreditb | 自适应补给 | Adaptive Supply | 多機能補給 |
-| sktok_cdcvrt | 溢能回收 | - | オーバーフロー・リカバリー |
-| sktok_cdcvrta | 溢能回收 | - | オーバーフロー・リカバリー |
+| sktok_cdcvrt | 溢能回收 | Energy Overflow Recovery | オーバーフロー・リカバリー |
+| sktok_cdcvrta | 溢能回收 | Energy Overflow Recovery | オーバーフロー・リカバリー |
 | sktok_cddiff | 战术装备整理 | Sort Tactical Equipment | 戦術装備整理 |
 | sktok_cddiffa | 战术装备整理 | Sort Tactical Equipment | 戦術装備整理 |
 | sktok_cddiffb | 战术装备整理 | Sort Tactical Equipment | 戦術装備整理 |
@@ -699,8 +699,8 @@ tip: 请善用浏览器的搜索功能
 | sktok_cdheala | 便携式医疗设备 | Portable First-aid Kit | 携帯式医療設備 |
 | sktok_cdhealb | 便携式医疗设备 | Portable First-aid Kit | 携帯式医療設備 |
 | sktok_cdhvrk | 超重，绝缘 | Heavy, Insulated | 超過重・絶縁 |
-| sktok_cdkzmr | 竞技记录分析 | - | 競技記録アナライズ |
-| sktok_cdrone | 战地援护 | - | 戦地支援 |
+| sktok_cdkzmr | 竞技记录分析 | Competition Records Analysis | 競技記録アナライズ |
+| sktok_cdrone | 战地援护 | Field Support | 戦地支援 |
 | sktok_cdshield | 镀膜 | Coating | コーティング |
 | sktok_cdshielda | 重整导能 | Redeployment Conduction | 再稼働 |
 | sktok_cdshieldb | 镀膜 | Coating | コーティング |
@@ -731,7 +731,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_emp | EMP爆炸 | EMP Blast | 電磁パルス |
 | sktok_emperor | Punchline | Punchline | Punchline |
 | sktok_enhancer | 释放秘药 | Release Potion | 覚醒の秘薬 |
-| sktok_eradio | 喷气散热 | - | 蒸気放出 |
+| sktok_eradio | 喷气散热 | Jet Cooling | 蒸気放出 |
 | sktok_factory_1 | 生产线 | Production Line | 生産ライン |
 | sktok_factory_2 | 生产线 | Production Line | 生産ライン |
 | sktok_farm | 启动！ | Startup! | アクティベート！ |
@@ -762,7 +762,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_ling_soul1 | 重进酒 | Sips of Wine | 重ねて酒を進み |
 | sktok_ling_soul2 | 笑鸣瑟 | Amidst Pleasant Melodies | 笑いて瑟を鼓せ |
 | sktok_ling_soul3 | 宁作吾 | To Remain Oneself | 寧ろ吾をなさん |
-| sktok_ltnova | 神经再生 | - | 神経再生 |
+| sktok_ltnova | 神经再生 | Neuronal Revival | 神経再生 |
 | sktok_ltstat | 祈祷 | Prayer | 祈り |
 | sktok_machst | 强化加固 | Strengthen and Reinforce | 補強工事 |
 | sktok_magiccircle | 调谐 | Tuning | チューニング |
@@ -839,13 +839,13 @@ tip: 请善用浏览器的搜索功能
 | sktok_sleep | 救援绳索 | Rescue Rope | 救援ロープ |
 | sktok_slent2_protrb | 夜灯 | Night Banisher | 夜の灯火 |
 | sktok_slowfd | 高压喷射 | High-Pressure Spray | 高圧ガス |
-| sktok_smbbox | 诱人珍宝？ | - | 財宝？の誘惑 |
-| sktok_smbox | 诱人珍宝 | - | 財宝のいざない |
+| sktok_smbbox | 诱人珍宝？ | Alluring Treasures? | 財宝？の誘惑 |
+| sktok_smbox | 诱人珍宝 | Alluring Treasures | 財宝のいざない |
 | sktok_smkbmb | 爆裂 | Rupture | 爆裂 |
 | sktok_smokebomb | 释放迷香 | Release Incense | 惑いの香 |
-| sktok_smpow | 启动 | - | 起動 |
-| sktok_smrbox | 刺人珍宝 | - | 財宝に刺あり |
-| sktok_smtree | 阻止部署 | - | 配置妨害 |
+| sktok_smpow | 启动 | Activate | 起動 |
+| sktok_smrbox | 刺人珍宝 | Spiky Treasures | 財宝に刺あり |
+| sktok_smtree | 阻止部署 | Block Deployment | 配置妨害 |
 | sktok_snflwr | 全自动划账 | Full-Auto Debit | 全自動送金 |
 | sktok_sniper | 空域控制 | - | - |
 | sktok_snipera | 空域控制 | - | - |
@@ -878,7 +878,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_tree | 天然隐蔽 | Natural Camouflage | きのこガード |
 | sktok_trsrhuntr | 触发对话 | - | - |
 | sktok_trsrhuntr_1 | 触发对话 | Trigger Dialogue | 会話発生 |
-| sktok_truamr | “甜蜜狂搅” | - | 「スーパーブレンド」 |
+| sktok_truamr | “甜蜜狂搅” | 'Supersweetie Superblend' | 「スーパーブレンド」 |
 | sktok_turngear | 自走车定向！ | Self-Driving Cart, This Way! | 方向転換！ |
 | sktok_umbrella | 协助隐藏 | Help Hide | 迷彩バリア |
 | sktok_vegetation | 可供开采 | Harvestable | 採掘可能 |

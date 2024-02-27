@@ -9,7 +9,7 @@ tip: 请善用浏览器的搜索功能
 | story_acdrop_set_1_story_1 | 一面墙 | The Face of a Wall | 壁 |
 | story_aglina_set_1_story_1 | 没写收件人的包裹 | 'Package with No Recipient' | 受取人のない荷物 |
 | story_aglina_set_1_story_2 | 没写收件人的包裹 | 'Package with No Recipient' | 受取人のない荷物 |
-| story_akafyu_set_1_story_1 | 异乡剑士 | - | 異郷の剣士 |
+| story_akafyu_set_1_story_1 | 异乡剑士 | Swordswoman from a Distant Land | 異郷の剣士 |
 | story_almond_set_1_story_1 | 远航 | - | - |
 | story_amgoat_set_1_story_1 | 学者之心 | Heart of a Scholar | 学者の心 |
 | story_amgoat_set_2_story_1 | 火山 | Volcano | 火山 |
@@ -103,7 +103,7 @@ tip: 请善用浏览器的搜索功能
 | story_glacus_set_1_story_1 | 以我双腿 | On My Own Two Legs | この両足で |
 | story_glady_set_1_story_1 | 失水症 | Dehydration | 脱水症 |
 | story_glassb_set_1_story_1 | 走吧，走吧 | Let's Go, Let's Go | さあ、行こう |
-| story_glassb_set_2_story_1 | 再见以前 | - | いつかの日に別れを |
+| story_glassb_set_2_story_1 | 再见以前 | Before I Say Goodbye | いつかの日に別れを |
 | story_glider_set_1_story_1 | 苦涩的根茎 | A Bitterest Rhizome | 苦い根茎 |
 | story_gnosis_set_1_story_1 | 起点 | - | - |
 | story_grani_set_1_story_1 | 穷途不返 | Once Rock Bottom... | 決して振り返らず |
@@ -112,7 +112,7 @@ tip: 请善用浏览器的搜索功能
 | story_greyy_set_1_story_1 | 过滤星星 | Filter Stars | 濾される星屑 |
 | story_gvial2_set_1_story_1 | 以酒精之名！ | In the Name of Alcohol! | アルコールの名のもとに！ |
 | story_haak_set_1_story_1 | 惊弓一夜 | A Night of Terror | 肝を冷やす夜 |
-| story_halo_set_1_story_1 | 实验进行中 | - | 実験進行中 |
+| story_halo_set_1_story_1 | 实验进行中 | Now Experimenting... | 実験進行中 |
 | story_hamoni_set_1_story_1 | 孤独的舞者 | Solitary Dancer | 孤独なダンサー |
 | story_hbisc2_set_1_story_1 | 无名之花 | Nameless Flower | 名もなき花 |
 | story_headbr_set_1_story_1 | 强中自有强中手 | Strong Meets Stronger | 強さに果てはなし |
@@ -163,14 +163,14 @@ tip: 请善用浏览器的搜索功能
 | story_milu_set_1_story_1 | 在路上 | On My Way | 途上 |
 | story_mint_set_1_story_1 | 昔日重现 | Yesterday Once More | デジャヴ |
 | story_mizuki_set_1_story_1 | 第五类接触 | The Fifth Contact | 第五種接近遭遇 |
-| story_mlyss_set_1_story_1 | 无根之雨 | - | 根なしの雨 |
+| story_mlyss_set_1_story_1 | 无根之雨 | April Showers | 根なしの雨 |
 | story_mm_set_1_story_1 | 大侦探探案集·卷一 | The Great Detective's Case Files - Volume I | 名探偵の事件簿・其の一 |
 | story_moeshd_set_1_story_1 | 生意场 | The Business | 商売とは |
 | story_morgan_set_1_story_1 | 巨轮之下 | Beneath the Worthy Wheel | 巨輪の下 |
 | story_mostma_set_1_story_1 | 高楼之上 | Atop the Skyscrapers | 高層ビルの上で |
 | story_myrrh_set_1_story_1 | 护身符 | Lucky Charm | 御守り |
 | story_myrtle_set_1_story_1 | 任务报告填写指南 | Mission Report Filing Guide | 任務報告書作成指南 |
-| story_nblade_set_1_story_1 | 授刀 | - | 受け継がれる刀 |
+| story_nblade_set_1_story_1 | 授刀 | Tachihaki | 受け継がれる刀 |
 | story_ncdeer_set_1_story_1 | 大慈恻隐 | Great Compassion | 大いなる慈悲 |
 | story_nearl2_set_1_story_1 | 起点 | Starting Point | 起点 |
 | story_nian_set_1_story_1 | 千年一叹 | A Thousand Years in a Sigh | 千年一嘆 |
@@ -193,9 +193,9 @@ tip: 请善用浏览器的搜索功能
 | story_popka_set_1_story_1 | 玩乐之间 | Funtime | お遊びの中で |
 | story_prove_set_1_story_1 | 同事们 | Coworkers | カンパニー |
 | story_prove_set_2_story_1 | 崎路前行 | A Perilous Road | 険しき道を征く |
-| story_provs_set_1_story_1 | 假定公正 | - | 法に基づく公正 |
+| story_provs_set_1_story_1 | 假定公正 | Hypothetically Just | 法に基づく公正 |
 | story_pudd_set_1_story_1 | 远方的雪 | What the Snow's Like Far Away | 彼方の雪 |
-| story_qanik_set_1_story_1 | 风雪代为传达 | - | 雪風が届ける声 |
+| story_qanik_set_1_story_1 | 风雪代为传达 | Blizzards Be Your Voice | 雪風が届ける声 |
 | story_qiubai_set_1_story_1 | 如冰碎雪融 | - | - |
 | story_quartz_set_1_story_1 | 无需遗憾 | No Regrets | 惜しむ必要なし |
 | story_quercu_set_1_story_1 | 终途 | Final Moments | 終の道 |
@@ -226,7 +226,7 @@ tip: 请善用浏览器的搜索功能
 | story_slchan_set_2_story_1 | 新的高峰 | - | - |
 | story_sleach_set_1_story_1 | 一双羽兽 | A Pair of Fowlbeasts | つがいの羽獣 |
 | story_sleach_set_2_story_1 | 鬓旁的花 | Flowers by the Temples of Your Head | 耳元の花 |
-| story_snakek_set_1_story_1 | 夺包奇遇 | - | リュック争奪戦 |
+| story_snakek_set_1_story_1 | 夺包奇遇 | The Great Bagnapping Adventure | リュック争奪戦 |
 | story_snsant_set_1_story_1 | 数字问题 | A Dilemma of Values | 数字の問題 |
 | story_sntlla_set_1_story_1 | 吹起未来的雪花 | - | - |
 | story_sophia_set_1_story_1 | 独家访谈 | Exclusive Interview | 独占インタビュー |

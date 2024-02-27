@@ -54,7 +54,7 @@ tip: 请善用浏览器的搜索功能
 | act15d0_zone1 | 越狱计划 | Escape Plan | 脱獄計画 |
 | act15d0_zone2 | 狱中生活 | Mansfield Daily Life | 獄中生活 |
 | act15d5_zone1 | 异地派遣 | Off-Site Dispatching | 外地派遣 |
-| act15mini_zone1 | 冻原狩猎 | - | 凍原の狩猟 |
+| act15mini_zone1 | 冻原狩猎 | Frigid Hunting Trips | 凍原の狩猟 |
 | act15side_zone1 | 三山奇闻 | Tales of Three-Mountains | 三山奇聞 |
 | act15side_zone2 | 一十八峰 | Mountain Top | 一十八峰 |
 | act15sre_zone1 | 三山奇闻 | Tales of Three-Mountains | 三山奇聞 |
@@ -91,8 +91,8 @@ tip: 请善用浏览器的搜索功能
 | act18sre_zone2 | 小巷深处 | Back Alleys | 暗き裏路地 |
 | act19side_zone1 | 实验基地 | Test Site | 実験基地 |
 | act19side_zone2 | 莱茵总部 | Rhine Headquarters | ライン生命本社 |
-| act19sre_zone1 | 实验基地 | - | 実験基地 |
-| act19sre_zone2 | 莱茵总部 | - | ライン生命本社 |
+| act19sre_zone1 | 实验基地 | Research Base | 実験基地 |
+| act19sre_zone2 | 莱茵总部 | Rhine Headquarters | ライン生命本社 |
 | act1bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act1lock_zone1 | 始发营地 | Base Camp | 始発拠点 |
 | act20side_zone1 | 地底观光 | Underground Sightseeing | 地底観光 |
@@ -186,8 +186,8 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_13_zone2 | 圣殿之路 | Road to the Shrine | 聖堂へ至る道 |
 | permanent_sidestory_14_zone1 | 夕照大厅 | Afterglow Hall | 光差す音楽堂 |
 | permanent_sidestory_14_zone2 | 小巷深处 | Back Alleys | 暗き裏路地 |
-| permanent_sidestory_15_zone1 | 实验基地 | - | 実験基地 |
-| permanent_sidestory_15_zone2 | 莱茵总部 | - | ライン生命本社 |
+| permanent_sidestory_15_zone1 | 实验基地 | Research Base | 実験基地 |
+| permanent_sidestory_15_zone2 | 莱茵总部 | Rhine Headquarters | ライン生命本社 |
 | permanent_sidestory_16_zone1 | 地底观光 | Underground Sightseeing | 地底観光 |
 | permanent_sidestory_16_zone2 | 文化冲击 | Cultural Shock | 異文化交流 |
 | permanent_sidestory_16_zone3 | 升降梯整备 | Elevator Maintenance | 昇降機整備 |
