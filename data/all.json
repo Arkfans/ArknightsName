@@ -4853,7 +4853,8 @@
   "char_010_chen@sale#10": {
     "type": "SKIN",
     "names": {
-      "ja_JP": "雨上がり"
+      "ja_JP": "雨上がり",
+      "zh_CN": "初晴"
     }
   },
   "char_017_huang@as#1": {
@@ -37989,6 +37990,12 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "千嶂边城"
+    }
+  },
+  "camp_r_21": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "新旅店大道"
     }
   },
   "hard_05-01": {

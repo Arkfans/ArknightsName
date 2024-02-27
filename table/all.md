@@ -640,7 +640,7 @@ tip: 请善用浏览器的搜索功能
 | char_002_amiya@winter#1 | 报童 | Newsgirl | 新聞配達員 |
 | char_003_kalts@boc#6 | 残余 | Remnant | 名残 |
 | char_010_chen@nian#2 | 岁红霞 | Ageless Afterglow | 歳紅霞 |
-| char_010_chen@sale#10 | - | - | 雨上がり |
+| char_010_chen@sale#10 | 初晴 | - | 雨上がり |
 | char_017_huang@as#1 | 爆裂菲林 | Burst Feline | 爆裂フェリーン |
 | char_1001_amiya2@casc#1 | 触及星辰 | - | - |
 | char_1011_lava2@nian#6 | 暮影藤萝 | Dusk Wisteria | 紫藤麗姿 |
@@ -4944,6 +4944,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_18 | “特制小水坑” | - | 「特製小さな水たまり」 |
 | camp_r_19 | 腐烂荒野 | - | - |
 | camp_r_20 | 千嶂边城 | - | - |
+| camp_r_21 | 新旅店大道 | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |
 | hard_05-02 | 炼狱行动-2 | Operation Inferno-2 | 煉獄作戦-2 |
 | hard_05-03 | 炼狱行动-3 | Operation Inferno-3 | 煉獄作戦-3 |
