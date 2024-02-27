@@ -106,11 +106,11 @@ tip: 请善用浏览器的搜索功能
 | trap_103_ymdgct | 地形增伤控制 | Mire Controller | 地形ダメージ制御 |
 | trap_104_dplant | 改性植物激素 | Modified Phytohormone | 改良型植物ホルモン |
 | trap_105_mhwrct | 滞空牵引无人机 | Wiredrone | 滞空牽引ドローン |
-| trap_106_smtree | 积雪银凇  | - | - |
-| trap_107_smpow | 空间稳定设施 | - | - |
-| trap_108_smbox | 宝箱 | - | - |
-| trap_109_smrbox | 尖刺宝箱 | - | - |
-| trap_110_smbbox | 巨壳藤蔓 | - | - |
+| trap_106_smtree | 积雪银凇  | - | 積雪の銀樹 |
+| trap_107_smpow | 空间稳定设施 | - | 空間安定化設備 |
+| trap_108_smbox | 宝箱 | - | 宝箱 |
+| trap_109_smrbox | 尖刺宝箱 | - | トゲトゲ宝箱 |
+| trap_110_smbbox | 巨壳藤蔓 | - | 巨殻のツル |
 | trap_111_wdfarm | 街头应急储备 | Roadside Emergency Reserves | 街の緊急用備蓄 |
 | trap_112_crsbow | 解雇者清债程序 | Post-Firing Debt Relief Program | 解雇者清算プログラム |
 | trap_113_snflwr | 全自动划账器 | Full-Auto Debit Machine | 全自動送金機 |
@@ -124,7 +124,7 @@ tip: 请善用浏览器的搜索功能
 | trap_121_gractrl | 重力 | Gravity | 重力 |
 | trap_122_stmpq | 景观喷泉 | Decorative Geyser | 景観噴水 |
 | trap_123_stmbot | 水汽汽水瓶 | Steam Soda Bottle | スチームサイダー |
-| trap_124_eradio | 废热喷口 | - | - |
+| trap_124_eradio | 废热喷口 | - | 廃熱噴出口 |
 | trap_125_bonore | 唤血祭坛 | - | - |
 | trap_126_outset | 炸弹载荷点 | - | - |
 | trap_127_bldore | 沥血王座 | - | - |
@@ -246,18 +246,18 @@ tip: 请善用浏览器的搜索功能
 | trap_720_cdheal | 便携式医疗设备 | Portable First-aid Kit | 携帯式医療設備 |
 | trap_721_cdheala | 便携式医疗设备 | Portable First-aid Kit | 携帯式医療設備 |
 | trap_722_cdhealb | 便携式医疗设备 | Portable First-aid Kit | 携帯式医療設備 |
-| trap_723_cdcvrt | 溢能回收转化器 | - | - |
-| trap_724_cdcvrta | 溢能回收转化器 | - | - |
-| trap_725_cdcvrtb | 溢能回收转化器 | - | - |
-| trap_726_cdrone | 战地援护无人机 | - | - |
-| trap_727_cdronea | 战地援护无人机 | - | - |
-| trap_728_cdroneb | 战地援护无人机 | - | - |
-| trap_729_cdkzmr | 竞技记录分析仪 | - | - |
-| trap_730_truamr | “甜蜜狂搅” | - | - |
-| trap_732_ltnova | 神经再生 | - | - |
-| trap_733_cdkzmra | 竞技记录分析仪 | - | - |
-| trap_734_cdkzmrb | 竞技记录分析仪 | - | - |
-| trap_735_platre | 汲取体 | - | - |
+| trap_723_cdcvrt | 溢能回收转化器 | - | オーバーフロー変換機 |
+| trap_724_cdcvrta | 溢能回收转化器 | - | オーバーフロー変換機 |
+| trap_725_cdcvrtb | 溢能回收转化器 | - | オーバーフロー変換機 |
+| trap_726_cdrone | 战地援护无人机 | - | 戦場サポートドローン |
+| trap_727_cdronea | 战地援护无人机 | - | 戦場サポートドローン |
+| trap_728_cdroneb | 战地援护无人机 | - | 戦場サポートドローン |
+| trap_729_cdkzmr | 竞技记录分析仪 | - | 競技記録アナライザー |
+| trap_730_truamr | “甜蜜狂搅” | - | 「スイート・スーパーブレンド」 |
+| trap_732_ltnova | 神经再生 | - | 神経再生 |
+| trap_733_cdkzmra | 竞技记录分析仪 | - | 競技記録アナライザー |
+| trap_734_cdkzmrb | 竞技记录分析仪 | - | 競技記録アナライザー |
+| trap_735_platre | 汲取体 | - | 渇望の触手 |
 | trap_736_mercha | 可充能督战音响 | - | - |
 | trap_737_merchaa | 可充能督战音响 | - | - |
 | trap_738_merchab | 可充能督战音响 | - | - |

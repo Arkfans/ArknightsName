@@ -718,6 +718,7 @@
   "char_2012_typhon": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "ティフォン",
       "zh_CN": "提丰"
     }
   },
@@ -1376,6 +1377,7 @@
   "char_341_sntlla": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "サンタラ",
       "zh_CN": "寒檀"
     }
   },
@@ -1992,6 +1994,7 @@
   "char_4102_threye": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "ヴァラルクビン",
       "zh_CN": "凛视"
     }
   },
@@ -3688,30 +3691,35 @@
   "trap_106_smtree": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "積雪の銀樹",
       "zh_CN": "积雪银凇 "
     }
   },
   "trap_107_smpow": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "空間安定化設備",
       "zh_CN": "空间稳定设施"
     }
   },
   "trap_108_smbox": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "宝箱",
       "zh_CN": "宝箱"
     }
   },
   "trap_109_smrbox": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "トゲトゲ宝箱",
       "zh_CN": "尖刺宝箱"
     }
   },
   "trap_110_smbbox": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "巨殻のツル",
       "zh_CN": "巨壳藤蔓"
     }
   },
@@ -3820,6 +3828,7 @@
   "trap_124_eradio": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "廃熱噴出口",
       "zh_CN": "废热喷口"
     }
   },
@@ -4660,72 +4669,84 @@
   "trap_723_cdcvrt": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "オーバーフロー変換機",
       "zh_CN": "溢能回收转化器"
     }
   },
   "trap_724_cdcvrta": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "オーバーフロー変換機",
       "zh_CN": "溢能回收转化器"
     }
   },
   "trap_725_cdcvrtb": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "オーバーフロー変換機",
       "zh_CN": "溢能回收转化器"
     }
   },
   "trap_726_cdrone": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "戦場サポートドローン",
       "zh_CN": "战地援护无人机"
     }
   },
   "trap_727_cdronea": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "戦場サポートドローン",
       "zh_CN": "战地援护无人机"
     }
   },
   "trap_728_cdroneb": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "戦場サポートドローン",
       "zh_CN": "战地援护无人机"
     }
   },
   "trap_729_cdkzmr": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "競技記録アナライザー",
       "zh_CN": "竞技记录分析仪"
     }
   },
   "trap_730_truamr": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "「スイート・スーパーブレンド」",
       "zh_CN": "“甜蜜狂搅”"
     }
   },
   "trap_732_ltnova": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "神経再生",
       "zh_CN": "神经再生"
     }
   },
   "trap_733_cdkzmra": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "競技記録アナライザー",
       "zh_CN": "竞技记录分析仪"
     }
   },
   "trap_734_cdkzmrb": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "競技記録アナライザー",
       "zh_CN": "竞技记录分析仪"
     }
   },
   "trap_735_platre": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "渇望の触手",
       "zh_CN": "汲取体"
     }
   },
@@ -4827,6 +4848,12 @@
       "en_US": "Ageless Afterglow",
       "ja_JP": "歳紅霞",
       "zh_CN": "岁红霞"
+    }
+  },
+  "char_010_chen@sale#10": {
+    "type": "SKIN",
+    "names": {
+      "ja_JP": "雨上がり"
     }
   },
   "char_017_huang@as#1": {
@@ -5190,6 +5217,7 @@
   "char_135_halo@epoque#25": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "冀望",
       "zh_CN": "所愿"
     }
   },
@@ -6134,6 +6162,7 @@
   "char_302_glaze@summer#11": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "ホリデーHD29",
       "zh_CN": "悠然假日 HD29"
     }
   },
@@ -6288,6 +6317,7 @@
   "char_344_beewax@summer#11": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "ホリデーHD61",
       "zh_CN": "悠然假日 HD61"
     }
   },
@@ -6552,6 +6582,7 @@
   "char_4019_ncdeer@ncdeer#1": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "古往今来の月",
       "zh_CN": "古往今来的月"
     }
   },
@@ -6724,6 +6755,7 @@
   "char_4072_ironmn@summer#11": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "砂浜の番人GT003",
       "zh_CN": "沙滩护卫 GT003"
     }
   },
@@ -7018,6 +7050,7 @@
   "char_479_sleach@summer#11": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "夏の花弁FA317",
       "zh_CN": "夏卉 FA317"
     }
   },
@@ -13928,84 +13961,98 @@
   "enemy_2043_smsbr": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "穢された亡骸",
       "zh_CN": "染污躯壳"
     }
   },
   "enemy_2044_smwiz": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "歪なる術師",
       "zh_CN": "歪曲施法者"
     }
   },
   "enemy_2045_smdrn": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "崩壊した構造体",
       "zh_CN": "坍缩构造体"
     }
   },
   "enemy_2046_smwar": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "凍裂の戦士",
       "zh_CN": "木裂战士"
     }
   },
   "enemy_2047_smtree": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "積雪の銀樹",
       "zh_CN": "积雪银凇"
     }
   },
   "enemy_2048_smgrd": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「悪魔の利刃」",
       "zh_CN": "“邪魔的利刃”"
     }
   },
   "enemy_2049_smgrd2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「悪魔の利刃」、彷徨える者",
       "zh_CN": "“邪魔的利刃”，游荡者"
     }
   },
   "enemy_2050_smsha": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "堕ちたる雪祭司",
       "zh_CN": "陷落雪祀"
     }
   },
   "enemy_2051_smsha2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "虚ろなる雪祭司",
       "zh_CN": "空洞雪祀"
     }
   },
   "enemy_2052_smgia": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "絡まるツル",
       "zh_CN": "纠缠藤蔓"
     }
   },
   "enemy_2053_smgia2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "いにしえのツル",
       "zh_CN": "古老藤蔓"
     }
   },
   "enemy_2054_smdeer": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「サーミの意志」",
       "zh_CN": "“萨米的意志”"
     }
   },
   "enemy_2055_smlead": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「凍裂」エイクティルニル",
       "zh_CN": "“木裂”埃克提尔尼尔"
     }
   },
   "enemy_2056_smedzi": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "天地に揺蕩う、クレイズセオン",
       "zh_CN": "无垠回荡克雷松"
     }
   },
@@ -14024,6 +14071,7 @@
   "enemy_2059_smbox": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "巨殻のツル",
       "zh_CN": "巨壳藤蔓"
     }
   },
@@ -14042,6 +14090,7 @@
   "enemy_2062_smcar": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "自走式探査車",
       "zh_CN": "勘察用自走车"
     }
   },
@@ -14272,18 +14321,21 @@
   "enemy_6015_ictruck": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「ビッグスイートスマイル」",
       "zh_CN": "“超甜微笑”"
     }
   },
   "enemy_6016_splash": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "サースター",
       "zh_CN": "干渴者"
     }
   },
   "enemy_6017_icdrone": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "スイート・デリバリー",
       "zh_CN": "甜蜜派送机"
     }
   },
@@ -14910,6 +14962,7 @@
   "act15mini": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "樹影にて眠る",
       "zh_CN": "眠于树影之中"
     }
   },
@@ -15156,6 +15209,7 @@
   "act19sre": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "翠玉の夢・復刻",
       "zh_CN": "绿野幻梦·复刻"
     }
   },
@@ -15252,6 +15306,7 @@
   "act1unique": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "九色鹿復刻スタンプラリー",
       "zh_CN": "九色鹿签到复刻活动"
     }
   },
@@ -15544,6 +15599,7 @@
   "act35sign": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "清風明月-ロドス点心教室",
       "zh_CN": "清光邀月——月饼烘焙小教程"
     }
   },
@@ -17838,6 +17894,7 @@
   "act15mini_token_figurine": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "指さす彫刻",
       "zh_CN": "指木雕刻"
     }
   },
@@ -17978,6 +18035,7 @@
   "act19side_token_reagents_rep_1": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "謎の試薬",
       "zh_CN": "神秘试剂"
     }
   },
@@ -18521,7 +18579,7 @@
     "type": "ITEM",
     "names": {
       "en_US": "Advanced Material Voucher",
-      "ja_JP": "高級素材交換券",
+      "ja_JP": "T3素材交換券",
       "zh_CN": "高级材料提货券"
     }
   },
@@ -18790,24 +18848,28 @@
   "ap_supply_lt_120_2023_1": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "「光輝燦爛」",
       "zh_CN": "“满庭光”"
     }
   },
   "ap_supply_lt_120_2023_2": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "「晴天良宵」",
       "zh_CN": "“良宵晴”"
     }
   },
   "ap_supply_lt_120_2023_3": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "「桂花乱舞」",
       "zh_CN": "“飘桂香”"
     }
   },
   "ap_supply_lt_120_2023_4": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "「春夜朧月」",
       "zh_CN": "“藏金波”"
     }
   },
@@ -21052,6 +21114,7 @@
   "p_char_2012_typhon": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ティフォンの印",
       "zh_CN": "提丰的信物"
     }
   },
@@ -21710,6 +21773,7 @@
   "p_char_341_sntlla": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "サンタラの印",
       "zh_CN": "寒檀的信物"
     }
   },
@@ -22298,6 +22362,7 @@
   "p_char_4102_threye": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ヴァラルクビンの印",
       "zh_CN": "凛视的信物"
     }
   },
@@ -22767,7 +22832,7 @@
     "type": "ITEM",
     "names": {
       "en_US": "Premium Material Voucher",
-      "ja_JP": "特級素材交換券",
+      "ja_JP": "T4素材交換券",
       "zh_CN": "特级材料提货券"
     }
   },
@@ -23142,12 +23207,14 @@
   "rogue_3_token_bp": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "生態標本",
       "zh_CN": "生态标本"
     }
   },
   "rogue_3_token_grow": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "理性的視野",
       "zh_CN": "理性视阈"
     }
   },
@@ -23746,6 +23813,7 @@
   "uni_set_samiRoom_1": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "サーミ風家具パックvol.1",
       "zh_CN": "萨米印象家具收藏包一"
     }
   },
@@ -25521,6 +25589,18 @@
     "names": {
       "en_US": "Dissonanzen",
       "ja_JP": "不協和音程"
+    }
+  },
+  "_SINGLE_26_0_1": {
+    "type": "POOL",
+    "names": {
+      "ja_JP": "厄災を射落とす颶風"
+    }
+  },
+  "_SINGLE_26_0_3": {
+    "type": "POOL",
+    "names": {
+      "ja_JP": "砂漠の導き手"
     }
   },
   "skchr_absin_1": {
@@ -29492,6 +29572,7 @@
   "skchr_sntlla_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "「魔女の涙」",
       "zh_CN": "“女巫之泪”"
     }
   },
@@ -29818,12 +29899,14 @@
   "skchr_threye_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "崩壊を視しとき",
       "zh_CN": "我见崩毁之前"
     }
   },
   "skchr_threye_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "枯朽を視たりて",
       "zh_CN": "我见枯朽之后"
     }
   },
@@ -29926,12 +30009,14 @@
   "skchr_typhon_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "氷原の掟",
       "zh_CN": "冰原秩序"
     }
   },
   "skchr_typhon_3": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "「永久なる狩猟」",
       "zh_CN": "“永恒狩猎”"
     }
   },
@@ -30882,12 +30967,14 @@
   "sktok_cdcvrt": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "オーバーフロー・リカバリー",
       "zh_CN": "溢能回收"
     }
   },
   "sktok_cdcvrta": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "オーバーフロー・リカバリー",
       "zh_CN": "溢能回收"
     }
   },
@@ -30958,12 +31045,14 @@
   "sktok_cdkzmr": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "競技記録アナライズ",
       "zh_CN": "竞技记录分析"
     }
   },
   "sktok_cdrone": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "戦地支援",
       "zh_CN": "战地援护"
     }
   },
@@ -31200,6 +31289,7 @@
   "sktok_eradio": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "蒸気放出",
       "zh_CN": "喷气散热"
     }
   },
@@ -31440,6 +31530,7 @@
   "sktok_ltnova": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "神経再生",
       "zh_CN": "神经再生"
     }
   },
@@ -32038,12 +32129,14 @@
   "sktok_smbbox": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "財宝？の誘惑",
       "zh_CN": "诱人珍宝？"
     }
   },
   "sktok_smbox": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "財宝のいざない",
       "zh_CN": "诱人珍宝"
     }
   },
@@ -32066,18 +32159,21 @@
   "sktok_smpow": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "起動",
       "zh_CN": "启动"
     }
   },
   "sktok_smrbox": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "財宝に刺あり",
       "zh_CN": "刺人珍宝"
     }
   },
   "sktok_smtree": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "配置妨害",
       "zh_CN": "阻止部署"
     }
   },
@@ -32314,6 +32410,7 @@
   "sktok_truamr": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "「スーパーブレンド」",
       "zh_CN": "“甜蜜狂搅”"
     }
   },
@@ -34362,60 +34459,70 @@
   "act15mini_01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "繫栄滋養",
       "zh_CN": "繁荣滋长"
     }
   },
   "act15mini_02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "辺境警邏",
       "zh_CN": "边境巡逻"
     }
   },
   "act15mini_03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "飛び交う祝砲",
       "zh_CN": "无序礼炮"
     }
   },
   "act15mini_04": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "暗中模索",
       "zh_CN": "暗中摸索"
     }
   },
   "act15mini_05": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "凍結する痛覚",
       "zh_CN": "冻结痛觉"
     }
   },
   "act15mini_06": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "古のうた",
       "zh_CN": "古老歌谣"
     }
   },
   "act15mini_07": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "ルールに背いて",
       "zh_CN": "背离法则"
     }
   },
   "act15mini_08": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "光の方へ",
       "zh_CN": "向光探寻"
     }
   },
   "act15mini_s01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "凍土境域",
       "zh_CN": "冻土疆界 "
     }
   },
   "act15mini_s02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "非自然知覚",
       "zh_CN": "非自然知觉 "
     }
   },
@@ -35331,7 +35438,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "Trimounts Streets",
-      "ja_JP": "トリマウンツの街道",
+      "ja_JP": "トリマウンツ街道",
       "zh_CN": "特里蒙街道"
     }
   },
@@ -35395,7 +35502,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "Dilemma",
-      "ja_JP": "苦しむ心",
+      "ja_JP": "心に困しみ",
       "zh_CN": "困心"
     }
   },
@@ -35403,7 +35510,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "Checks and Balances",
-      "ja_JP": "物思い",
+      "ja_JP": "慮い衡る",
       "zh_CN": "衡虑"
     }
   },
@@ -37868,6 +37975,7 @@
   "camp_r_18": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "「特製小さな水たまり」",
       "zh_CN": "“特制小水坑”"
     }
   },
@@ -38622,72 +38730,84 @@
   "lt_09_01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "かちこちコーティング",
       "zh_CN": "糖霜硬壳"
     }
   },
   "lt_09_02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "スイーツパーティー",
       "zh_CN": "甜美派对"
     }
   },
   "lt_09_03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "チーズバリケード",
       "zh_CN": "干酪封锁"
     }
   },
   "lt_09_04": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "最先端テクノロジー",
       "zh_CN": "先进工艺"
     }
   },
   "lt_09_05": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "クリームスプラッシュ",
       "zh_CN": "奶油四溅"
     }
   },
   "lt_09_06": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "必殺スマイル",
       "zh_CN": "微笑必达"
     }
   },
   "lt_10_01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "海のよだれ",
       "zh_CN": "海涎"
     }
   },
   "lt_10_02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "生ける屍",
       "zh_CN": "走肉"
     }
   },
   "lt_10_03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "追放",
       "zh_CN": "驱逐"
     }
   },
   "lt_10_04": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "幻影",
       "zh_CN": "幻景"
     }
   },
   "lt_10_05": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "離岸流",
       "zh_CN": "裂流"
     }
   },
   "lt_10_06": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "干潮",
       "zh_CN": "落潮"
     }
   },
@@ -41832,6 +41952,7 @@
   "act15mini_zone1": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "凍原の狩猟",
       "zh_CN": "冻原狩猎"
     }
   },
@@ -42124,12 +42245,14 @@
   "act19sre_zone1": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "実験基地",
       "zh_CN": "实验基地"
     }
   },
   "act19sre_zone2": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "ライン生命本社",
       "zh_CN": "莱茵总部"
     }
   },
@@ -42842,12 +42965,14 @@
   "permanent_sidestory_15_zone1": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "実験基地",
       "zh_CN": "实验基地"
     }
   },
   "permanent_sidestory_15_zone2": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "ライン生命本社",
       "zh_CN": "莱茵总部"
     }
   },
@@ -43328,6 +43453,7 @@
   "story_akafyu_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "異郷の剣士",
       "zh_CN": "异乡剑士"
     }
   },
@@ -44046,6 +44172,7 @@
   "story_glassb_set_2_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "いつかの日に別れを",
       "zh_CN": "再见以前"
     }
   },
@@ -44114,6 +44241,7 @@
   "story_halo_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "実験進行中",
       "zh_CN": "实验进行中"
     }
   },
@@ -44508,6 +44636,7 @@
   "story_mlyss_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "根なしの雨",
       "zh_CN": "无根之雨"
     }
   },
@@ -44562,6 +44691,7 @@
   "story_nblade_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "受け継がれる刀",
       "zh_CN": "授刀"
     }
   },
@@ -44740,6 +44870,7 @@
   "story_provs_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "法に基づく公正",
       "zh_CN": "假定公正"
     }
   },
@@ -44754,6 +44885,7 @@
   "story_qanik_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "雪風が届ける声",
       "zh_CN": "风雪代为传达"
     }
   },
@@ -44992,6 +45124,7 @@
   "story_snakek_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "リュック争奪戦",
       "zh_CN": "夺包奇遇"
     }
   },
@@ -45316,6 +45449,7 @@
   "rogue_3": {
     "type": "ROGUELIKE",
     "names": {
+      "ja_JP": "探索者と銀氷の果て",
       "zh_CN": "探索者的银凇止境"
     }
   }

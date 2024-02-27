@@ -209,7 +209,7 @@ tip: 请善用浏览器的搜索功能
 | act15d0_token_ironSheet | 工厂铁片 | Factory Steel | 工場の鉄片 |
 | act15d0_token_ironSheet_rep_1 | 工厂铁片 | Factory Steel | 工場の鉄片 |
 | act15d5_token_postcard | 奇景明信片 | Wondrous Postcard | 奇景絵葉書 |
-| act15mini_token_figurine | 指木雕刻 | - | - |
+| act15mini_token_figurine | 指木雕刻 | - | 指さす彫刻 |
 | act15side_token_tea | 罐装晌午茶 | Canned Tea | 正午茶 |
 | act15side_token_tea_rep_1 | 罐装晌午茶 | Canned Tea | 正午茶 |
 | act16d5_token_inker | 夕墨 | Dusk Inkstick | 夕墨 |
@@ -227,7 +227,7 @@ tip: 请善用浏览器的搜索功能
 | act18side_token_pieces | 乐谱草稿 | Sheet Music | 手書きの楽譜 |
 | act18side_token_pieces_rep_1 | 乐谱草稿 | Sheet Music | 手書きの楽譜 |
 | act19side_token_reagents | 神秘试剂 | Mysterious Reagent | 謎の試薬 |
-| act19side_token_reagents_rep_1 | 神秘试剂 | - | - |
+| act19side_token_reagents_rep_1 | 神秘试剂 | - | 謎の試薬 |
 | act1bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act1bossrush_relic_01 | 模块复用 | Reuse Module | マルチプレキシング |
 | act1bossrush_relic_02 | 迅捷处理 | Fast Processing | アクセラレーション |
@@ -301,7 +301,7 @@ tip: 请善用浏览器的搜索功能
 | act9d0_token_dogTag_rep_1 | 无名的识别牌 | Anonymous Tags | 名無しのタグ |
 | act9d4_point_token | 游击队员徽章 | Guerilla Squad Member Badge | 遊撃隊バッジ |
 | act9mini_token_ticket | 红松叶彩券 | Liść Ticket | パインリーフチケット |
-| advanced_material_issue_voucher | 高级材料提货券 | Advanced Material Voucher | 高級素材交換券 |
+| advanced_material_issue_voucher | 高级材料提货券 | Advanced Material Voucher | T3素材交換券 |
 | ap_item_CaH_200 | 双人汉堡餐 | Burger Set for Two | ハンバーガーセット |
 | ap_item_SEC_60 | 咸蛋黄味巧克力 | Salted Egg Yolk Flavor Chocolate | 塩卵味チョコレート |
 | ap_item_amiya | 阿米娅的烧烤味饼干 | Amiya's Grilled Flavor Biscuit | アーミヤのクッキー |
@@ -336,10 +336,10 @@ tip: 请善用浏览器的搜索功能
 | ap_supply_lt_120_2022_2 | 正圆月 | Full Moon | 仲秋名月 |
 | ap_supply_lt_120_2022_3 | 笑靥开 | Smiley Face | 喜色満面 |
 | ap_supply_lt_120_2022_4 | 桂子落 | Osmanthus | 天香桂花 |
-| ap_supply_lt_120_2023_1 | “满庭光” | - | - |
-| ap_supply_lt_120_2023_2 | “良宵晴” | - | - |
-| ap_supply_lt_120_2023_3 | “飘桂香” | - | - |
-| ap_supply_lt_120_2023_4 | “藏金波” | - | - |
+| ap_supply_lt_120_2023_1 | “满庭光” | - | 「光輝燦爛」 |
+| ap_supply_lt_120_2023_2 | “良宵晴” | - | 「晴天良宵」 |
+| ap_supply_lt_120_2023_3 | “飘桂香” | - | 「桂花乱舞」 |
+| ap_supply_lt_120_2023_4 | “藏金波” | - | 「春夜朧月」 |
 | ap_supply_lt_60 | 应急理智合剂 | Emergency Sanity Potion | 初級理性回復剤 |
 | ap_supply_lt_80 | 应急理智加强剂 | Emergency Sanity Booster | 初級理性回復剤+ |
 | base_ap | 无人机 | Drone | ドローン |
@@ -622,7 +622,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_197_poca | 早露的信物 | Rosa's Token | ロサの印 |
 | p_char_198_blackd | 讯使的信物 | Courier's Token | クーリエの印 |
 | p_char_199_yak | 角峰的信物 | Matterhorn's Token | マッターホルンの印 |
-| p_char_2012_typhon | 提丰的信物 | - | - |
+| p_char_2012_typhon | 提丰的信物 | - | ティフォンの印 |
 | p_char_2013_cerber | 刻俄柏的信物 | Ceobe's Token | ケオベの印 |
 | p_char_2014_nian | 年的信物 | Nian's Token | ニェンの印 |
 | p_char_2015_dusk | 夕的信物 | Dusk's Token | シーの印 |
@@ -705,7 +705,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_337_utage | 宴的信物 | Utage's Token | ウタゲの印 |
 | p_char_338_iris | 爱丽丝的信物 | Iris's Token | アイリスの印 |
 | p_char_340_shwaz | 黑的信物 | Schwarz's Token | シュヴァルツの印 |
-| p_char_341_sntlla | 寒檀的信物 | - | - |
+| p_char_341_sntlla | 寒檀的信物 | - | サンタラの印 |
 | p_char_343_tknogi | 月禾的信物 | Tsukinogi's Token | ツキノギの印 |
 | p_char_344_beewax | 蜜蜡的信物 | Beeswax's Token | ビーズワクスの印 |
 | p_char_345_folnic | 亚叶的信物 | Folinic's Token | フォリニックの印 |
@@ -780,7 +780,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4093_frston | Friston-3的信物 | Friston-3's Token | フリストン-3の印 |
 | p_char_4098_vvana | 薇薇安娜的信物 | - | - |
 | p_char_4100_caper | 跃跃的信物 | - | - |
-| p_char_4102_threye | 凛视的信物 | - | - |
+| p_char_4102_threye | 凛视的信物 | - | ヴァラルクビンの印 |
 | p_char_4104_coldst | 冰酿的信物 | - | - |
 | p_char_4105_almond | 杏仁的信物 | - | - |
 | p_char_4106_bryota | 苍苔的信物 | Bryophyta's Token | ブライオファイタの印 |
@@ -842,7 +842,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_501_durin | 杜林的信物 | Durin's Token | ドゥリンの印 |
 | p_char_502_nblade | 夜刀的信物 | Yato's Token | ヤトウの印 |
 | p_char_503_rang | 巡林者的信物 | Rangers' Token | レンジャーの印 |
-| premium_material_issue_voucher | 特级材料提货券 | Premium Material Voucher | 特級素材交換券 |
+| premium_material_issue_voucher | 特级材料提货券 | Premium Material Voucher | T4素材交換券 |
 | randomDiamondShd_1 | 罗德岛迎春红包 | Half Year Anniversary Red Envelope | お祝いポチ袋 |
 | randomDiamondShd_2 | 庆典礼盒 | Celebratory Box | 感謝祭ギフトボックス |
 | randomMaterialRune_0 | 荒芜行动物资补给 | Operation Barrenland Supplies | 補給物資・「荒廃」 |
@@ -890,8 +890,8 @@ tip: 请善用浏览器的搜索功能
 | rogue_1_token_grow | 昏暗的灵感 | Caliginous Insights | 昏きセンス |
 | rogue_2_token_bp | 生机细胞 | Living Cells | 有機細胞 |
 | rogue_2_token_grow | 主观想象 | Subjective Imagination | 主観的構想 |
-| rogue_3_token_bp | 生态标本 | - | - |
-| rogue_3_token_grow | 理性视阈 | - | - |
+| rogue_3_token_bp | 生态标本 | - | 生態標本 |
+| rogue_3_token_grow | 理性视阈 | - | 理性的視野 |
 | sandbox_1_tokencoin | 繁荣点数 | - | - |
 | tier1_caster | 术师信物复制品 | Replicated Caster Token | ★1術師の印 |
 | tier1_guard | 近卫信物复制品 | Replicated Guard Token | ★1前衛の印 |
@@ -967,7 +967,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_pizza | 骑兵与猎人家具收藏包 | Grani and the Knights' Treasure Furniture Pack | 騎兵と狩人家具パック |
 | uni_set_prison | 孤岛风云家具收藏包 | Mansfield Break Furniture Pack | 孤島激震家具パック |
 | uni_set_reception | 龙门风情茶室家具收藏包 | Lungmen Tearoom Furniture Collection Set | 龍門茶室家具パック |
-| uni_set_samiRoom_1 | 萨米印象家具收藏包一 | - | - |
+| uni_set_samiRoom_1 | 萨米印象家具收藏包一 | - | サーミ風家具パックvol.1 |
 | uni_set_samiRoom_2 | 萨米印象家具收藏包二 | - | - |
 | uni_set_stage | 风雪过境家具收藏包 | - | - |
 | uni_set_teaHouse | 将进酒家具收藏包 | - | - |

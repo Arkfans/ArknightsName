@@ -43,7 +43,7 @@ tip: 请善用浏览器的搜索功能
 | act15d1 | 跨年限时登录活动 | Limited-time Login Event | スタンプラリー |
 | act15d5 | 此地之外 | Beyond Here | 彼方を望む |
 | act15login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
-| act15mini | 眠于树影之中 | - | - |
+| act15mini | 眠于树影之中 | - | 樹影にて眠る |
 | act15side | 将进酒 | Invitation to Wine | 将進酒 |
 | act15sre | 将进酒·复刻 | Invitation to Wine - Rerun | 将進酒・復刻 |
 | act16d5 | 画中人 | Who Is Real | 画中人 |
@@ -75,7 +75,7 @@ tip: 请善用浏览器的搜索功能
 | act19login | 登录领取奖励 | - | - |
 | act19side | 绿野幻梦 | Dorothy's Vision | 翠玉の夢 |
 | act19sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
-| act19sre | 绿野幻梦·复刻 | - | - |
+| act19sre | 绿野幻梦·复刻 | - | 翠玉の夢・復刻 |
 | act1blessing | 2024罗德岛新春签到 | - | - |
 | act1bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act1checkin | 未来序曲签到活动 | Preludes to the Future Sign-in Event | 大感謝祭スタンプ |
@@ -88,7 +88,7 @@ tip: 请善用浏览器的搜索功能
 | act1sandbox | 生息演算：沙中之火 | Reclamation Algorithm - Fire Within the Sand | 生息演算：砂中の火 |
 | act1signvs | 端阳正午签到活动 | May the Sunshine Still Sign-In Event | スタンプラリー |
 | act1switch | 宿于繁星合作活动 | - | - |
-| act1unique | 九色鹿签到复刻活动 | - | - |
+| act1unique | 九色鹿签到复刻活动 | - | 九色鹿復刻スタンプラリー |
 | act20side | 理想城：长夏狂欢季 | Ideal City: Endless Carnival | 理想都市-エンドレスカーニバル- |
 | act20sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act20sre | 理想城：长夏狂欢季·复刻 | Ideal City: Endless Carnival - Rerun | 理想都市-エンドレスカーニバル-・復刻 |
@@ -127,7 +127,7 @@ tip: 请善用浏览器的搜索功能
 | act32sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act33sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act34sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
-| act35sign | 清光邀月——月饼烘焙小教程 | - | - |
+| act35sign | 清光邀月——月饼烘焙小教程 | - | 清風明月-ロドス点心教室 |
 | act36sign | 步上双塔之时签到活动 | - | - |
 | act37sign | 限时累计签到 | - | - |
 | act38d1 | 尖灭测试作战 | Pinch-Out Experimental Operation | 尖滅試験作戦 |

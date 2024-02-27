@@ -245,6 +245,7 @@
     "zh_CN": "异地派遣"
   },
   "act15mini_zone1": {
+    "ja_JP": "凍原の狩猟",
     "zh_CN": "冻原狩猎"
   },
   "act15side_zone1": {
@@ -426,9 +427,11 @@
     "zh_CN": "莱茵总部"
   },
   "act19sre_zone1": {
+    "ja_JP": "実験基地",
     "zh_CN": "实验基地"
   },
   "act19sre_zone2": {
+    "ja_JP": "ライン生命本社",
     "zh_CN": "莱茵总部"
   },
   "act1bossrush_zone1": {
@@ -859,9 +862,11 @@
     "zh_CN": "小巷深处"
   },
   "permanent_sidestory_15_zone1": {
+    "ja_JP": "実験基地",
     "zh_CN": "实验基地"
   },
   "permanent_sidestory_15_zone2": {
+    "ja_JP": "ライン生命本社",
     "zh_CN": "莱茵总部"
   },
   "permanent_sidestory_16_zone1": {

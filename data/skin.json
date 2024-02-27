@@ -24,6 +24,9 @@
     "ja_JP": "歳紅霞",
     "zh_CN": "岁红霞"
   },
+  "char_010_chen@sale#10": {
+    "ja_JP": "雨上がり"
+  },
   "char_017_huang@as#1": {
     "en_US": "Burst Feline",
     "ja_JP": "爆裂フェリーン",
@@ -242,6 +245,7 @@
     "zh_CN": "日晒 SS.SP"
   },
   "char_135_halo@epoque#25": {
+    "ja_JP": "冀望",
     "zh_CN": "所愿"
   },
   "char_136_hsguma@nian#3": {
@@ -823,6 +827,7 @@
     "zh_CN": "至圣誓言"
   },
   "char_302_glaze@summer#11": {
+    "ja_JP": "ホリデーHD29",
     "zh_CN": "悠然假日 HD29"
   },
   "char_304_zebra@wild#6": {
@@ -917,6 +922,7 @@
     "zh_CN": "白沙"
   },
   "char_344_beewax@summer#11": {
+    "ja_JP": "ホリデーHD61",
     "zh_CN": "悠然假日 HD61"
   },
   "char_345_folnic@wild#4": {
@@ -1079,6 +1085,7 @@
     "zh_CN": "碎片之间"
   },
   "char_4019_ncdeer@ncdeer#1": {
+    "ja_JP": "古往今来の月",
     "zh_CN": "古往今来的月"
   },
   "char_401_elysm@snow#2": {
@@ -1182,6 +1189,7 @@
     "zh_CN": "来路"
   },
   "char_4072_ironmn@summer#11": {
+    "ja_JP": "砂浜の番人GT003",
     "zh_CN": "沙滩护卫 GT003"
   },
   "char_4077_palico@mh#1": {
@@ -1359,6 +1367,7 @@
     "zh_CN": "识芳"
   },
   "char_479_sleach@summer#11": {
+    "ja_JP": "夏の花弁FA317",
     "zh_CN": "夏卉 FA317"
   },
   "char_484_robrta@ambienceSynesthesia#3": {

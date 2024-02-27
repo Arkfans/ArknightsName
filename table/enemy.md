@@ -861,26 +861,26 @@ tip: 请善用浏览器的搜索功能
 | enemy_2040_syrott | 伊莎玛拉之泪 | Ishar'mla's Tears | イシャームラの涙 |
 | enemy_2041_syjely | 伊祖米克的子代 | Izumik's Offspring | イズミックの後裔 |
 | enemy_2042_syboss | 伊祖米克，生态泉源 | Izumik, Source of Ecology | イズミック、生態の源 |
-| enemy_2043_smsbr | 染污躯壳 | - | - |
-| enemy_2044_smwiz | 歪曲施法者 | - | - |
-| enemy_2045_smdrn | 坍缩构造体 | - | - |
-| enemy_2046_smwar | 木裂战士 | - | - |
-| enemy_2047_smtree | 积雪银凇 | - | - |
-| enemy_2048_smgrd | “邪魔的利刃” | - | - |
-| enemy_2049_smgrd2 | “邪魔的利刃”，游荡者 | - | - |
-| enemy_2050_smsha | 陷落雪祀 | - | - |
-| enemy_2051_smsha2 | 空洞雪祀 | - | - |
-| enemy_2052_smgia | 纠缠藤蔓 | - | - |
-| enemy_2053_smgia2 | 古老藤蔓 | - | - |
-| enemy_2054_smdeer | “萨米的意志” | - | - |
-| enemy_2055_smlead | “木裂”埃克提尔尼尔 | - | - |
-| enemy_2056_smedzi | 无垠回荡克雷松 | - | - |
+| enemy_2043_smsbr | 染污躯壳 | - | 穢された亡骸 |
+| enemy_2044_smwiz | 歪曲施法者 | - | 歪なる術師 |
+| enemy_2045_smdrn | 坍缩构造体 | - | 崩壊した構造体 |
+| enemy_2046_smwar | 木裂战士 | - | 凍裂の戦士 |
+| enemy_2047_smtree | 积雪银凇 | - | 積雪の銀樹 |
+| enemy_2048_smgrd | “邪魔的利刃” | - | 「悪魔の利刃」 |
+| enemy_2049_smgrd2 | “邪魔的利刃”，游荡者 | - | 「悪魔の利刃」、彷徨える者 |
+| enemy_2050_smsha | 陷落雪祀 | - | 堕ちたる雪祭司 |
+| enemy_2051_smsha2 | 空洞雪祀 | - | 虚ろなる雪祭司 |
+| enemy_2052_smgia | 纠缠藤蔓 | - | 絡まるツル |
+| enemy_2053_smgia2 | 古老藤蔓 | - | いにしえのツル |
+| enemy_2054_smdeer | “萨米的意志” | - | 「サーミの意志」 |
+| enemy_2055_smlead | “木裂”埃克提尔尼尔 | - | 「凍裂」エイクティルニル |
+| enemy_2056_smedzi | 无垠回荡克雷松 | - | 天地に揺蕩う、クレイズセオン |
 | enemy_2057_smkght | 哈兰杜汗，大地之鞭 | - | - |
 | enemy_2058_smlion | 路加萨尔古斯，历法之王 | - | - |
-| enemy_2059_smbox | 巨壳藤蔓 | - | - |
+| enemy_2059_smbox | 巨壳藤蔓 | - | 巨殻のツル |
 | enemy_2060_smshdw | 可汗片影 | - | - |
 | enemy_2061_smhond | 王者友伴 | - | - |
-| enemy_2062_smcar | 勘察用自走车 | - | - |
+| enemy_2062_smcar | 勘察用自走车 | - | 自走式探査車 |
 | enemy_3001_upeopl | 乌萨斯平民 | Ursus Civilian | ウルサス民間人 |
 | enemy_3002_ftrtal | 斗士塔露拉 | Talulah, the Fighter | 闘士タルラ |
 | enemy_3003_alymot | 大奖赛运输艇 | Competition Transport Vessel | 大会輸送艇 |
@@ -909,9 +909,9 @@ tip: 请善用浏览器的搜索功能
 | enemy_6012_plants | 小型共生体 | Small Symbiont | 小型共生体 |
 | enemy_6013_smith | 老妈的“逆女” | Mama's 'Rebel Girl' | 「家出した反逆娘」 |
 | enemy_6014_crzgas | “毒瘤” | 'Tumor' | 「チューマー」 |
-| enemy_6015_ictruck | “超甜微笑” | - | - |
-| enemy_6016_splash | 干渴者 | - | - |
-| enemy_6017_icdrone | 甜蜜派送机 | - | - |
+| enemy_6015_ictruck | “超甜微笑” | - | 「ビッグスイートスマイル」 |
+| enemy_6016_splash | 干渴者 | - | サースター |
+| enemy_6017_icdrone | 甜蜜派送机 | - | スイート・デリバリー |
 | enemy_6018_carrier | “无根之怨” | - | - |
 | enemy_6019_escort | 播种无人机 | - | - |
 | enemy_6020_orang | “烈酒金刚” | - | - |

@@ -505,18 +505,23 @@
     "zh_CN": "滞空牵引无人机"
   },
   "trap_106_smtree": {
+    "ja_JP": "積雪の銀樹",
     "zh_CN": "积雪银凇 "
   },
   "trap_107_smpow": {
+    "ja_JP": "空間安定化設備",
     "zh_CN": "空间稳定设施"
   },
   "trap_108_smbox": {
+    "ja_JP": "宝箱",
     "zh_CN": "宝箱"
   },
   "trap_109_smrbox": {
+    "ja_JP": "トゲトゲ宝箱",
     "zh_CN": "尖刺宝箱"
   },
   "trap_110_smbbox": {
+    "ja_JP": "巨殻のツル",
     "zh_CN": "巨壳藤蔓"
   },
   "trap_111_wdfarm": {
@@ -583,6 +588,7 @@
     "zh_CN": "水汽汽水瓶"
   },
   "trap_124_eradio": {
+    "ja_JP": "廃熱噴出口",
     "zh_CN": "废热喷口"
   },
   "trap_125_bonore": {
@@ -1063,39 +1069,51 @@
     "zh_CN": "便携式医疗设备"
   },
   "trap_723_cdcvrt": {
+    "ja_JP": "オーバーフロー変換機",
     "zh_CN": "溢能回收转化器"
   },
   "trap_724_cdcvrta": {
+    "ja_JP": "オーバーフロー変換機",
     "zh_CN": "溢能回收转化器"
   },
   "trap_725_cdcvrtb": {
+    "ja_JP": "オーバーフロー変換機",
     "zh_CN": "溢能回收转化器"
   },
   "trap_726_cdrone": {
+    "ja_JP": "戦場サポートドローン",
     "zh_CN": "战地援护无人机"
   },
   "trap_727_cdronea": {
+    "ja_JP": "戦場サポートドローン",
     "zh_CN": "战地援护无人机"
   },
   "trap_728_cdroneb": {
+    "ja_JP": "戦場サポートドローン",
     "zh_CN": "战地援护无人机"
   },
   "trap_729_cdkzmr": {
+    "ja_JP": "競技記録アナライザー",
     "zh_CN": "竞技记录分析仪"
   },
   "trap_730_truamr": {
+    "ja_JP": "「スイート・スーパーブレンド」",
     "zh_CN": "“甜蜜狂搅”"
   },
   "trap_732_ltnova": {
+    "ja_JP": "神経再生",
     "zh_CN": "神经再生"
   },
   "trap_733_cdkzmra": {
+    "ja_JP": "競技記録アナライザー",
     "zh_CN": "竞技记录分析仪"
   },
   "trap_734_cdkzmrb": {
+    "ja_JP": "競技記録アナライザー",
     "zh_CN": "竞技记录分析仪"
   },
   "trap_735_platre": {
+    "ja_JP": "渇望の触手",
     "zh_CN": "汲取体"
   },
   "trap_736_mercha": {

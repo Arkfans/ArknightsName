@@ -181,3 +181,5 @@ tip: 请善用浏览器的搜索功能
 | _SINGLE_24_0_1 | - | As In My Adumbration | 影に潜みて |
 | _SINGLE_25_0_1 | - | Arbiter Aequissimus | 執裁者 |
 | _SINGLE_25_0_3 | - | Dissonanzen | 不協和音程 |
+| _SINGLE_26_0_1 | - | - | 厄災を射落とす颶風 |
+| _SINGLE_26_0_3 | - | - | 砂漠の導き手 |

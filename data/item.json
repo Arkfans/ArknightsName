@@ -996,6 +996,7 @@
     "zh_CN": "奇景明信片"
   },
   "act15mini_token_figurine": {
+    "ja_JP": "指さす彫刻",
     "zh_CN": "指木雕刻"
   },
   "act15side_token_tea": {
@@ -1082,6 +1083,7 @@
     "zh_CN": "神秘试剂"
   },
   "act19side_token_reagents_rep_1": {
+    "ja_JP": "謎の試薬",
     "zh_CN": "神秘试剂"
   },
   "act1bossrush_milestone_point": {
@@ -1406,7 +1408,7 @@
   },
   "advanced_material_issue_voucher": {
     "en_US": "Advanced Material Voucher",
-    "ja_JP": "高級素材交換券",
+    "ja_JP": "T3素材交換券",
     "zh_CN": "高级材料提货券"
   },
   "ap_item_CaH_200": {
@@ -1570,15 +1572,19 @@
     "zh_CN": "桂子落"
   },
   "ap_supply_lt_120_2023_1": {
+    "ja_JP": "「光輝燦爛」",
     "zh_CN": "“满庭光”"
   },
   "ap_supply_lt_120_2023_2": {
+    "ja_JP": "「晴天良宵」",
     "zh_CN": "“良宵晴”"
   },
   "ap_supply_lt_120_2023_3": {
+    "ja_JP": "「桂花乱舞」",
     "zh_CN": "“飘桂香”"
   },
   "ap_supply_lt_120_2023_4": {
+    "ja_JP": "「春夜朧月」",
     "zh_CN": "“藏金波”"
   },
   "ap_supply_lt_60": {
@@ -2974,6 +2980,7 @@
     "zh_CN": "角峰的信物"
   },
   "p_char_2012_typhon": {
+    "ja_JP": "ティフォンの印",
     "zh_CN": "提丰的信物"
   },
   "p_char_2013_cerber": {
@@ -3383,6 +3390,7 @@
     "zh_CN": "黑的信物"
   },
   "p_char_341_sntlla": {
+    "ja_JP": "サンタラの印",
     "zh_CN": "寒檀的信物"
   },
   "p_char_343_tknogi": {
@@ -3746,6 +3754,7 @@
     "zh_CN": "跃跃的信物"
   },
   "p_char_4102_threye": {
+    "ja_JP": "ヴァラルクビンの印",
     "zh_CN": "凛视的信物"
   },
   "p_char_4104_coldst": {
@@ -4029,7 +4038,7 @@
   },
   "premium_material_issue_voucher": {
     "en_US": "Premium Material Voucher",
-    "ja_JP": "特級素材交換券",
+    "ja_JP": "T4素材交換券",
     "zh_CN": "特级材料提货券"
   },
   "randomDiamondShd_1": {
@@ -4260,9 +4269,11 @@
     "zh_CN": "主观想象"
   },
   "rogue_3_token_bp": {
+    "ja_JP": "生態標本",
     "zh_CN": "生态标本"
   },
   "rogue_3_token_grow": {
+    "ja_JP": "理性的視野",
     "zh_CN": "理性视阈"
   },
   "sandbox_1_tokencoin": {
@@ -4633,6 +4644,7 @@
     "zh_CN": "龙门风情茶室家具收藏包"
   },
   "uni_set_samiRoom_1": {
+    "ja_JP": "サーミ風家具パックvol.1",
     "zh_CN": "萨米印象家具收藏包一"
   },
   "uni_set_samiRoom_2": {

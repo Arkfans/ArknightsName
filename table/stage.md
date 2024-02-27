@@ -203,16 +203,16 @@ tip: 请善用浏览器的搜索功能
 | act15d5_06 | 光荣援助 | Glorious Aid | 栄光ある助力 |
 | act15d5_07 | 坚守阵地 | Stand Your Ground | 陣地堅守 |
 | act15d5_08 | 堵不如疏 | Be Like Water | 自然のままに |
-| act15mini_01 | 繁荣滋长 | - | - |
-| act15mini_02 | 边境巡逻 | - | - |
-| act15mini_03 | 无序礼炮 | - | - |
-| act15mini_04 | 暗中摸索 | - | - |
-| act15mini_05 | 冻结痛觉 | - | - |
-| act15mini_06 | 古老歌谣 | - | - |
-| act15mini_07 | 背离法则 | - | - |
-| act15mini_08 | 向光探寻 | - | - |
-| act15mini_s01 | 冻土疆界  | - | - |
-| act15mini_s02 | 非自然知觉  | - | - |
+| act15mini_01 | 繁荣滋长 | - | 繫栄滋養 |
+| act15mini_02 | 边境巡逻 | - | 辺境警邏 |
+| act15mini_03 | 无序礼炮 | - | 飛び交う祝砲 |
+| act15mini_04 | 暗中摸索 | - | 暗中模索 |
+| act15mini_05 | 冻结痛觉 | - | 凍結する痛覚 |
+| act15mini_06 | 古老歌谣 | - | 古のうた |
+| act15mini_07 | 背离法则 | - | ルールに背いて |
+| act15mini_08 | 向光探寻 | - | 光の方へ |
+| act15mini_s01 | 冻土疆界  | - | 凍土境域 |
+| act15mini_s02 | 非自然知觉  | - | 非自然知覚 |
 | act15side_01 | 化物 | Apparition | 化物 |
 | act15side_02 | 无寻处 | Unseekable Place | 尋ぬる処無し |
 | act15side_03 | 光与影 | Light and Shadow | 光と影 |
@@ -329,7 +329,7 @@ tip: 请善用浏览器的搜索功能
 | act18side_st03 | 自新大陆 | From the New World | 新世界より |
 | act18side_tr01 | 作品599 | Op. 599 | 作品599 |
 | act18side_tr02 | 作品849 | Op. 849 | 作品849 |
-| act19side_01 | 特里蒙街道 | Trimounts Streets | トリマウンツの街道 |
+| act19side_01 | 特里蒙街道 | Trimounts Streets | トリマウンツ街道 |
 | act19side_02 | 拓荒者小屋 | Pioneer Lodge | 開拓者の小屋 |
 | act19side_03 | 动力装甲 | Power Armor | パワードスーツ |
 | act19side_04 | 无人的小巷 | Empty Alley | 無人の路地 |
@@ -337,8 +337,8 @@ tip: 请善用浏览器的搜索功能
 | act19side_06 | 挣脱美梦 | Free From Dream | 夢からの解放 |
 | act19side_07 | 疯狂的信号 | Rogue Signal | 狂えるシグナル |
 | act19side_08 | 连接内心 | Heart Connection | 繋がれた心 |
-| act19side_s01 | 困心 | Dilemma | 苦しむ心 |
-| act19side_s02 | 衡虑 | Checks and Balances | 物思い |
+| act19side_s01 | 困心 | Dilemma | 心に困しみ |
+| act19side_s02 | 衡虑 | Checks and Balances | 慮い衡る |
 | act19side_st01 | 逆行 | Retrogade | 逆行 |
 | act19side_st02 | 启程 | Embark | 旅立ち |
 | act19side_tr01 | 实验基地走廊 | Test Site Hallway | 実験基地の廊下 |
@@ -663,7 +663,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_15 | 龙门商业街 | Lungmen Commercial District | 龍門商店街 |
 | camp_r_16 | 休止符街道 | Rest Avenue | フェルマーテ通り |
 | camp_r_17 | 灰暗泥沼 | Ashy Marsh | 薄暗い泥沼 |
-| camp_r_18 | “特制小水坑” | - | - |
+| camp_r_18 | “特制小水坑” | - | 「特製小さな水たまり」 |
 | camp_r_19 | 腐烂荒野 | - | - |
 | camp_r_20 | 千嶂边城 | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |
@@ -759,18 +759,18 @@ tip: 请善用浏览器的搜索功能
 | lt_08_04 | 混合毒气 | Mixed Gas | 混合毒ガス |
 | lt_08_05 | 枯朽孕育 | Nurturing Wither | 枯朽が孕むのは |
 | lt_08_06 | 窒息 | Suffocation | 窒息 |
-| lt_09_01 | 糖霜硬壳 | - | - |
-| lt_09_02 | 甜美派对 | - | - |
-| lt_09_03 | 干酪封锁 | - | - |
-| lt_09_04 | 先进工艺 | - | - |
-| lt_09_05 | 奶油四溅 | - | - |
-| lt_09_06 | 微笑必达 | - | - |
-| lt_10_01 | 海涎 | - | - |
-| lt_10_02 | 走肉 | - | - |
-| lt_10_03 | 驱逐 | - | - |
-| lt_10_04 | 幻景 | - | - |
-| lt_10_05 | 裂流 | - | - |
-| lt_10_06 | 落潮 | - | - |
+| lt_09_01 | 糖霜硬壳 | - | かちこちコーティング |
+| lt_09_02 | 甜美派对 | - | スイーツパーティー |
+| lt_09_03 | 干酪封锁 | - | チーズバリケード |
+| lt_09_04 | 先进工艺 | - | 最先端テクノロジー |
+| lt_09_05 | 奶油四溅 | - | クリームスプラッシュ |
+| lt_09_06 | 微笑必达 | - | 必殺スマイル |
+| lt_10_01 | 海涎 | - | 海のよだれ |
+| lt_10_02 | 走肉 | - | 生ける屍 |
+| lt_10_03 | 驱逐 | - | 追放 |
+| lt_10_04 | 幻景 | - | 幻影 |
+| lt_10_05 | 裂流 | - | 離岸流 |
+| lt_10_06 | 落潮 | - | 干潮 |
 | lt_11_01 | 巡检作业 | - | - |
 | lt_11_02 | 空地协同作业 | - | - |
 | lt_11_03 | 喷洒作业 | - | - |

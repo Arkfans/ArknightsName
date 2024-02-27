@@ -2451,6 +2451,7 @@
     "zh_CN": "伸缩式电捕网"
   },
   "skchr_sntlla_2": {
+    "ja_JP": "「魔女の涙」",
     "zh_CN": "“女巫之泪”"
   },
   "skchr_sophia_1": {
@@ -2654,9 +2655,11 @@
     "zh_CN": "至高之术"
   },
   "skchr_threye_1": {
+    "ja_JP": "崩壊を視しとき",
     "zh_CN": "我见崩毁之前"
   },
   "skchr_threye_2": {
+    "ja_JP": "枯朽を視たりて",
     "zh_CN": "我见枯朽之后"
   },
   "skchr_tiger_1": {
@@ -2720,9 +2723,11 @@
     "zh_CN": "强心剂"
   },
   "skchr_typhon_2": {
+    "ja_JP": "氷原の掟",
     "zh_CN": "冰原秩序"
   },
   "skchr_typhon_3": {
+    "ja_JP": "「永久なる狩猟」",
     "zh_CN": "“永恒狩猎”"
   },
   "skchr_utage_1": {
@@ -3304,9 +3309,11 @@
     "zh_CN": "自适应补给"
   },
   "sktok_cdcvrt": {
+    "ja_JP": "オーバーフロー・リカバリー",
     "zh_CN": "溢能回收"
   },
   "sktok_cdcvrta": {
+    "ja_JP": "オーバーフロー・リカバリー",
     "zh_CN": "溢能回收"
   },
   "sktok_cddiff": {
@@ -3350,9 +3357,11 @@
     "zh_CN": "超重，绝缘"
   },
   "sktok_cdkzmr": {
+    "ja_JP": "競技記録アナライズ",
     "zh_CN": "竞技记录分析"
   },
   "sktok_cdrone": {
+    "ja_JP": "戦地支援",
     "zh_CN": "战地援护"
   },
   "sktok_cdshield": {
@@ -3496,6 +3505,7 @@
     "zh_CN": "释放秘药"
   },
   "sktok_eradio": {
+    "ja_JP": "蒸気放出",
     "zh_CN": "喷气散热"
   },
   "sktok_factory_1": {
@@ -3643,6 +3653,7 @@
     "zh_CN": "宁作吾"
   },
   "sktok_ltnova": {
+    "ja_JP": "神経再生",
     "zh_CN": "神经再生"
   },
   "sktok_ltstat": {
@@ -4010,9 +4021,11 @@
     "zh_CN": "高压喷射"
   },
   "sktok_smbbox": {
+    "ja_JP": "財宝？の誘惑",
     "zh_CN": "诱人珍宝？"
   },
   "sktok_smbox": {
+    "ja_JP": "財宝のいざない",
     "zh_CN": "诱人珍宝"
   },
   "sktok_smkbmb": {
@@ -4026,12 +4039,15 @@
     "zh_CN": "释放迷香"
   },
   "sktok_smpow": {
+    "ja_JP": "起動",
     "zh_CN": "启动"
   },
   "sktok_smrbox": {
+    "ja_JP": "財宝に刺あり",
     "zh_CN": "刺人珍宝"
   },
   "sktok_smtree": {
+    "ja_JP": "配置妨害",
     "zh_CN": "阻止部署"
   },
   "sktok_snflwr": {
@@ -4169,6 +4185,7 @@
     "zh_CN": "触发对话"
   },
   "sktok_truamr": {
+    "ja_JP": "「スーパーブレンド」",
     "zh_CN": "“甜蜜狂搅”"
   },
   "sktok_turngear": {
