@@ -89,6 +89,7 @@ tip: 请善用浏览器的搜索功能
 | act1signvs | 端阳正午签到活动 | May the Sunshine Still Sign-In Event | スタンプラリー |
 | act1switch | 宿于繁星合作活动 | - | - |
 | act1unique | 九色鹿签到复刻活动 | Nine-Colored Deer Onboarding Event Retrospective | 九色鹿復刻スタンプラリー |
+| act20login | 登录领取奖励 | - | - |
 | act20side | 理想城：长夏狂欢季 | Ideal City: Endless Carnival | 理想都市-エンドレスカーニバル- |
 | act20sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act20sre | 理想城：长夏狂欢季·复刻 | Ideal City: Endless Carnival - Rerun | 理想都市-エンドレスカーニバル-・復刻 |
@@ -124,6 +125,7 @@ tip: 请善用浏览器的搜索功能
 | act30sign | 秋风送爽限时登录活动 | Snow Upon Autumnal Winds Limited Login Event | 早春の風スタンプラリー |
 | act31side | 怀黍离 | - | - |
 | act31sign | 正逢雨季限时登录活动 | Rain Season Limited Login Event | 長雨の候スタンプラリー |
+| act32side | 水晶箭行动 | - | - |
 | act32sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act33sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act34sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -131,6 +133,7 @@ tip: 请善用浏览器的搜索功能
 | act36sign | 步上双塔之时签到活动 | - | - |
 | act37sign | 限时累计签到 | - | - |
 | act38d1 | 尖灭测试作战 | Pinch-Out Experimental Operation | 尖滅試験作戦 |
+| act38sign | 明日方舟X彩虹六号：围攻签到活动 | - | - |
 | act3bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act3d0 | 火蓝之心 | Heart of Surging Flame | 青く燃ゆる心 |
 | act3d5 | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |

@@ -99,7 +99,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1048_hirman_2 | 碎岩者组长 | Rockbreaker Leader | 凶悪ロックブレイカー |
 | enemy_1049_eagent | 特工 | Agent | 工作員 |
 | enemy_1049_eagent_2 | 特工组长 | Agent Leader | 工作員隊長 |
-| enemy_1050_lslime | "庞贝" | 'Pompeii' | Pompeii |
+| enemy_1050_lslime | “庞贝” | 'Pompeii' | Pompeii |
 | enemy_1051_norwiz | 编制术师 | Authorized Caster | 制式術師 |
 | enemy_1051_norwiz_2 | 编制术师组长 | Authorized Caster Leader | 制式術師隊長 |
 | enemy_1052_noramr | 机动卫兵 | Shielded Guard | 機動軽装兵 |
@@ -767,6 +767,25 @@ tip: 请善用浏览器的搜索功能
 | enemy_1398_dhdcr_2 | 失控天桩-甲 | - | - |
 | enemy_1399_dhtb | 天桩-乙 | - | - |
 | enemy_1399_dhtb_2 | 失控天桩-乙 | - | - |
+| enemy_1401_pogpro | 联合政府军犬 | - | - |
+| enemy_1401_pogpro_2 | 联合政府军犬pro | - | - |
+| enemy_1402_tgshd | 装甲侦察兵 | - | - |
+| enemy_1402_tgshd_2 | 重装侦察兵 | - | - |
+| enemy_1403_gunsho | 速射轻弩手 | - | - |
+| enemy_1403_gunsho_2 | 速射劲弩手 | - | - |
+| enemy_1404_msnip | 重弩突袭者 | - | - |
+| enemy_1404_msnip_2 | 重弩猎杀者 | - | - |
+| enemy_1405_boomer | 鲁莽掷弹兵 | - | - |
+| enemy_1405_boomer_2 | 无畏掷弹兵 | - | - |
+| enemy_1406_chghmr | 战线推进者 | - | - |
+| enemy_1406_chghmr_2 | 战线突破者 | - | - |
+| enemy_1407_hummbd | 远眺 | - | - |
+| enemy_1407_hummbd_2 | 远眺·B | - | - |
+| enemy_1408_scotcn | 战场观测炮手 | - | - |
+| enemy_1408_scotcn_2 | 战场深视炮手 | - | - |
+| enemy_1409_bdguad | 马特奥的警卫 | - | - |
+| enemy_1409_bdguad_2 | 马特奥的近卫 | - | - |
+| enemy_1409_bdguad_3 | 马特奥的亲卫 | - | - |
 | enemy_1500_skulsr | 碎骨 | Skullshatterer | SkullShredder |
 | enemy_1501_demonk | 萨卡兹百夫长 | Sarkaz Centurion | サルカズケントゥリオ |
 | enemy_1502_crowns | 弑君者 | Crownslayer | CrownSlayer |
@@ -819,6 +838,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1548_ltniak | 赫尔昏佐伦，“巫王” | - | - |
 | enemy_1549_windoc | 哈洛德·克雷加文 | - | - |
 | enemy_1550_dhnzzh | “祟” | - | - |
+| enemy_1551_bolicp | 马特奥上尉 | - | - |
 | enemy_2001_duckmi | 鸭爵 | Duck Lord | ダック卿 |
 | enemy_2002_bearmi | 高普尼克 | Gopnik | ゴプニク |
 | enemy_2003_rockman | 迷路的巨像 | Lost Colossus | 迷子の巨像 |

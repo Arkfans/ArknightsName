@@ -638,6 +638,12 @@
   "act31side_zone3": {
     "zh_CN": "大江北岸"
   },
+  "act32side_zone1": {
+    "zh_CN": "展厅漫游"
+  },
+  "act32side_zone2": {
+    "zh_CN": "高速空降"
+  },
   "act3bossrush_zone1": {
     "en_US": "Threat Incoming",
     "ja_JP": "強敵襲来",

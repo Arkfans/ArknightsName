@@ -645,6 +645,21 @@
   "trap_140_dhsb": {
     "zh_CN": "泵站"
   },
+  "trap_141_sheltr": {
+    "zh_CN": "封阻物"
+  },
+  "trap_142_barrel": {
+    "zh_CN": "源石爆炸物"
+  },
+  "trap_143_rnfcar": {
+    "zh_CN": "封阻加固装置"
+  },
+  "trap_144_ads": {
+    "zh_CN": "临时掩护装置"
+  },
+  "trap_145_edd": {
+    "zh_CN": "诡雷布设装置"
+  },
   "trap_146_dhdcr": {
     "zh_CN": "天桩"
   },

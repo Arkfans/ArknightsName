@@ -714,6 +714,9 @@
     "ja_JP": "ハンター凱旋10回スカウト券",
     "zh_CN": "合作限定十连寻访凭证"
   },
+  "LINKAGE_TKT_GACHA_10_4801": {
+    "zh_CN": "特勤专家寻访凭证"
+  },
   "LMTGS_COIN_1401": {
     "en_US": "Headhunting Data Contract",
     "ja_JP": "限定契約証",
@@ -1038,6 +1041,9 @@
     "ja_JP": "ロドス物資配給許可書",
     "zh_CN": "罗德岛物资配给证书"
   },
+  "act17d0_token_form_rep_1": {
+    "zh_CN": "罗德岛物资配给证书"
+  },
   "act17side_token_compass": {
     "en_US": "Rusted Compass",
     "ja_JP": "錆びたコンパス",
@@ -1278,6 +1284,9 @@
   },
   "act31side_token_box": {
     "zh_CN": "天桩"
+  },
+  "act32side_token_stamp": {
+    "zh_CN": "艺术馆集章卡"
   },
   "act38d1_token_coin": {
     "en_US": "Crystalized Originium",
@@ -3808,6 +3817,18 @@
   },
   "p_char_4122_grabds": {
     "zh_CN": "小满的信物"
+  },
+  "p_char_4123_ela": {
+    "zh_CN": "艾拉的信物"
+  },
+  "p_char_4124_iana": {
+    "zh_CN": "双月的信物"
+  },
+  "p_char_4125_rdoc": {
+    "zh_CN": "医生的信物"
+  },
+  "p_char_4126_fuze": {
+    "zh_CN": "导火索的信物"
   },
   "p_char_415_flint": {
     "en_US": "Flint's Token",

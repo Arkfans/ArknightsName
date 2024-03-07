@@ -472,7 +472,7 @@
   "enemy_1050_lslime": {
     "en_US": "'Pompeii'",
     "ja_JP": "Pompeii",
-    "zh_CN": "\"庞贝\""
+    "zh_CN": "“庞贝”"
   },
   "enemy_1051_norwiz": {
     "en_US": "Authorized Caster",
@@ -3628,6 +3628,63 @@
   "enemy_1399_dhtb_2": {
     "zh_CN": "失控天桩-乙"
   },
+  "enemy_1401_pogpro": {
+    "zh_CN": "联合政府军犬"
+  },
+  "enemy_1401_pogpro_2": {
+    "zh_CN": "联合政府军犬pro"
+  },
+  "enemy_1402_tgshd": {
+    "zh_CN": "装甲侦察兵"
+  },
+  "enemy_1402_tgshd_2": {
+    "zh_CN": "重装侦察兵"
+  },
+  "enemy_1403_gunsho": {
+    "zh_CN": "速射轻弩手"
+  },
+  "enemy_1403_gunsho_2": {
+    "zh_CN": "速射劲弩手"
+  },
+  "enemy_1404_msnip": {
+    "zh_CN": "重弩突袭者"
+  },
+  "enemy_1404_msnip_2": {
+    "zh_CN": "重弩猎杀者"
+  },
+  "enemy_1405_boomer": {
+    "zh_CN": "鲁莽掷弹兵"
+  },
+  "enemy_1405_boomer_2": {
+    "zh_CN": "无畏掷弹兵"
+  },
+  "enemy_1406_chghmr": {
+    "zh_CN": "战线推进者"
+  },
+  "enemy_1406_chghmr_2": {
+    "zh_CN": "战线突破者"
+  },
+  "enemy_1407_hummbd": {
+    "zh_CN": "远眺"
+  },
+  "enemy_1407_hummbd_2": {
+    "zh_CN": "远眺·B"
+  },
+  "enemy_1408_scotcn": {
+    "zh_CN": "战场观测炮手"
+  },
+  "enemy_1408_scotcn_2": {
+    "zh_CN": "战场深视炮手"
+  },
+  "enemy_1409_bdguad": {
+    "zh_CN": "马特奥的警卫"
+  },
+  "enemy_1409_bdguad_2": {
+    "zh_CN": "马特奥的近卫"
+  },
+  "enemy_1409_bdguad_3": {
+    "zh_CN": "马特奥的亲卫"
+  },
   "enemy_1500_skulsr": {
     "en_US": "Skullshatterer",
     "ja_JP": "SkullShredder",
@@ -3877,6 +3934,9 @@
   },
   "enemy_1550_dhnzzh": {
     "zh_CN": "“祟”"
+  },
+  "enemy_1551_bolicp": {
+    "zh_CN": "马特奥上尉"
   },
   "enemy_2001_duckmi": {
     "en_US": "Duck Lord",

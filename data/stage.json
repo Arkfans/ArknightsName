@@ -2703,6 +2703,42 @@
   "act31side_tr02": {
     "zh_CN": "引水疏浚"
   },
+  "act32side_01": {
+    "zh_CN": "城市主题展"
+  },
+  "act32side_02": {
+    "zh_CN": "不对称庭园"
+  },
+  "act32side_03": {
+    "zh_CN": "假面舞池"
+  },
+  "act32side_04": {
+    "zh_CN": "非传统艺术空间"
+  },
+  "act32side_05": {
+    "zh_CN": "消防通道"
+  },
+  "act32side_06": {
+    "zh_CN": "反艺术运动"
+  },
+  "act32side_07": {
+    "zh_CN": "安全出口"
+  },
+  "act32side_08": {
+    "zh_CN": "一跃而下"
+  },
+  "act32side_st01": {
+    "zh_CN": "特别参观通道"
+  },
+  "act32side_st02": {
+    "zh_CN": "策展人会客厅"
+  },
+  "act32side_st03": {
+    "zh_CN": "艺术馆餐厅"
+  },
+  "act32side_tr01": {
+    "zh_CN": "“请有序入场”"
+  },
   "act3bossrush_01": {
     "en_US": "Survival of the Fittest",
     "ja_JP": "適者生存",

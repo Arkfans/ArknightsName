@@ -769,6 +769,15 @@
     "ja_JP": "無響の声",
     "zh_CN": "寂静之声"
   },
+  "skchr_ela_1": {
+    "zh_CN": "眩目阻滞"
+  },
+  "skchr_ela_2": {
+    "zh_CN": "震荡坚守"
+  },
+  "skchr_ela_3": {
+    "zh_CN": "“博萨克风暴”"
+  },
   "skchr_elysm_2": {
     "en_US": "Monitor",
     "ja_JP": "集音",
@@ -968,6 +977,12 @@
     "en_US": "Ice Tomahawk",
     "ja_JP": "氷結の刃",
     "zh_CN": "凝冰枪刃"
+  },
+  "skchr_fuze_1": {
+    "zh_CN": "火力侦察"
+  },
+  "skchr_fuze_2": {
+    "zh_CN": "霰射炸药"
   },
   "skchr_gdglow_1": {
     "en_US": "Scattering Sparks",
@@ -1306,6 +1321,12 @@
     "en_US": "Efficient Processing",
     "ja_JP": "高効率作業",
     "zh_CN": "高效处理"
+  },
+  "skchr_iana_1": {
+    "zh_CN": "幻影诡雷"
+  },
+  "skchr_iana_2": {
+    "zh_CN": "全知者的战术"
   },
   "skchr_ifrit_1": {
     "en_US": "Fanaticism",
@@ -2157,6 +2178,12 @@
   },
   "skchr_ray_3": {
     "zh_CN": "“得见光芒”"
+  },
+  "skchr_rdoc_1": {
+    "zh_CN": "以暴制暴"
+  },
+  "skchr_rdoc_2": {
+    "zh_CN": "激素手枪"
   },
   "skchr_red_1": {
     "en_US": "Execution Mode",
@@ -3071,6 +3098,9 @@
     "ja_JP": "自動消滅",
     "zh_CN": "自我销毁"
   },
+  "sktok_ads": {
+    "zh_CN": "掩护"
+  },
   "sktok_aidkit": {
     "en_US": "First Aid",
     "ja_JP": "応急処置",
@@ -3492,6 +3522,18 @@
     "en_US": "Flashback",
     "ja_JP": "フラッシュバック",
     "zh_CN": "闪回"
+  },
+  "sktok_edd": {
+    "zh_CN": "布雷"
+  },
+  "sktok_ela_1": {
+    "zh_CN": "眩目阻滞"
+  },
+  "sktok_ela_2": {
+    "zh_CN": "震荡坚守"
+  },
+  "sktok_ela_3": {
+    "zh_CN": "“博萨克风暴”"
   },
   "sktok_electric": {
     "en_US": "Energized!",
@@ -3940,6 +3982,9 @@
     "en_US": "Research Success",
     "ja_JP": "研究成功",
     "zh_CN": "研究成功"
+  },
+  "sktok_rnfcar": {
+    "zh_CN": "加固"
   },
   "sktok_roadblock": {
     "en_US": "Obstruction",

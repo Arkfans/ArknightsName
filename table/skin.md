@@ -262,6 +262,9 @@ tip: 请善用浏览器的搜索功能
 | char_4080_lin@nian#10 | 列瑶台 | - | - |
 | char_4082_qiubai@ncg#1 | 霜林醉 | - | - |
 | char_411_tomimi@summer#5 | 静谧午夜 DN04 | Silent Night DN04 | 安息の午夜DN04 |
+| char_4123_ela@rainbow6#2 | 密室 | - | - |
+| char_4124_iana@rainbow6#2 | 镜廊 | - | - |
+| char_4125_rdoc@rainbow6#2 | 展览 | - | - |
 | char_415_flint@boc#3 | 绚烂夏花 | Gorgeous Flower | 紫藤繚乱 |
 | char_416_zumama@boc#3 | 熔锻铸匠 | Forgemaster | 熔冶工匠 |
 | char_420_flamtl@game#2 | 小健将 | Sport For All | サイバー闘技者 |

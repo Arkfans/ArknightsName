@@ -141,6 +141,11 @@ tip: 请善用浏览器的搜索功能
 | trap_138_winstone | 点火石 | - | - |
 | trap_139_dhtl | 阻流阀 | - | - |
 | trap_140_dhsb | 泵站 | - | - |
+| trap_141_sheltr | 封阻物 | - | - |
+| trap_142_barrel | 源石爆炸物 | - | - |
+| trap_143_rnfcar | 封阻加固装置 | - | - |
+| trap_144_ads | 临时掩护装置 | - | - |
+| trap_145_edd | 诡雷布设装置 | - | - |
 | trap_146_dhdcr | 天桩 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |
 | trap_401_xbfato | 木材采集站 | Basic Gathering Hub | 採取ロボ用基地 |

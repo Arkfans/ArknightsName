@@ -575,6 +575,18 @@ tip: 请善用浏览器的搜索功能
 | act31side_st03 | 彻风雨 | - | - |
 | act31side_tr01 | 职农须知 | - | - |
 | act31side_tr02 | 引水疏浚 | - | - |
+| act32side_01 | 城市主题展 | - | - |
+| act32side_02 | 不对称庭园 | - | - |
+| act32side_03 | 假面舞池 | - | - |
+| act32side_04 | 非传统艺术空间 | - | - |
+| act32side_05 | 消防通道 | - | - |
+| act32side_06 | 反艺术运动 | - | - |
+| act32side_07 | 安全出口 | - | - |
+| act32side_08 | 一跃而下 | - | - |
+| act32side_st01 | 特别参观通道 | - | - |
+| act32side_st02 | 策展人会客厅 | - | - |
+| act32side_st03 | 艺术馆餐厅 | - | - |
+| act32side_tr01 | “请有序入场” | - | - |
 | act3bossrush_01 | 适者生存 | Survival of the Fittest | 適者生存 |
 | act3bossrush_02 | 惊惧与血色 | Blood and Terror | 恐怖と血色 |
 | act3bossrush_03 | 不测之渊 | Deep in Danger | 不測の淵 |

@@ -271,6 +271,10 @@ tip: 请善用浏览器的搜索功能
 | char_411_tomimi | 特米米 | Tomimi | トミミ |
 | char_4121_zuole | 左乐 | - | - |
 | char_4122_grabds | 小满 | - | - |
+| char_4123_ela | 艾拉 | - | - |
+| char_4124_iana | 双月 | - | - |
+| char_4125_rdoc | 医生 | - | - |
+| char_4126_fuze | 导火索 | - | - |
 | char_415_flint | 燧石 | Flint | フリント |
 | char_416_zumama | 森蚺 | Eunectes | ユーネクテス |
 | char_420_flamtl | 焰尾 | Flametail | フレイムテイル |

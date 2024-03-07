@@ -140,6 +140,8 @@ tip: 请善用浏览器的搜索功能
 | act31side_zone1 | 种植地块 | - | - |
 | act31side_zone2 | 荒城核心 | - | - |
 | act31side_zone3 | 大江北岸 | - | - |
+| act32side_zone1 | 展厅漫游 | - | - |
+| act32side_zone2 | 高速空降 | - | - |
 | act3bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act4bossrush_zone1 | 强敌当前 | - | - |
 | act5d0_zone1 | 下城区 | Downtown | 繁華街 |

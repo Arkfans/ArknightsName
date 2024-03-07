@@ -44,5 +44,6 @@ tip: 请善用浏览器的搜索功能
 | token_10030_mlyss_wtrman | 流形 | Flowing Shape | うつろう水影 |
 | token_10031_swire2_gdtrap | 香槟炸弹 | Champagne Bomb | シャンパン爆弾 |
 | token_10032_jesca2_jckshd | 机动盾牌 | - | - |
+| token_10033_ela_grzmot | 雷鸣地雷 | - | - |
 | token_10034_ray_sndbst | 沙地兽 | - | - |
 | trap_079_allydonq | 猎潮的骑士 | Tide-Hunt Knight | 猟潮の騎士 |

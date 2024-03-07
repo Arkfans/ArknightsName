@@ -152,6 +152,7 @@ tip: 请善用浏览器的搜索功能
 | LINKAGE_TKT_GACHA_10_1701 | 特勤专家寻访凭证 | Elite Forces Headhunting Permit | 精鋭小隊10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_3601 | 指引明路寻访凭证 | Scouting the Light Headhunting Permit | ハンター凱旋10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_3602 | 合作限定十连寻访凭证 | Collaboration Limited Ten-roll Headhunting Permit | ハンター凱旋10回スカウト券 |
+| LINKAGE_TKT_GACHA_10_4801 | 特勤专家寻访凭证 | - | - |
 | LMTGS_COIN_1401 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_1601 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_1803 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
@@ -218,6 +219,7 @@ tip: 请善用浏览器的搜索功能
 | act16side_token_bolt | 蚀刻弹弹壳 | Etched Bullet Casing | エッチング弾薬莢 |
 | act16side_token_bolt_rep_1 | 蚀刻弹弹壳 | Etched Bullet Casing | エッチング弾薬莢 |
 | act17d0_token_form | 罗德岛物资配给证书 | Rhodes Island Resource Allocation Certificate | ロドス物資配給許可書 |
+| act17d0_token_form_rep_1 | 罗德岛物资配给证书 | - | - |
 | act17side_token_compass | 锈蚀的罗盘 | Rusted Compass | 錆びたコンパス |
 | act17side_token_compass_rep_1 | 锈蚀的罗盘 | Rusted Compass | 錆びたコンパス |
 | act18d0_token_page | 手绘标本残页 | Scattered Sketches | 古い標本図 |
@@ -271,6 +273,7 @@ tip: 请善用浏览器的搜索功能
 | act2bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
 | act30side_token_box | 驮兽盲盒 | - | - |
 | act31side_token_box | 天桩 | - | - |
+| act32side_token_stamp | 艺术馆集章卡 | - | - |
 | act38d1_token_coin | 晶化源石 | Crystalized Originium | 結晶化源石 |
 | act3bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act3bossrush_relic_01 | 恢复增幅 | Recovery Boost | 癒しの増幅 |
@@ -794,6 +797,10 @@ tip: 请善用浏览器的搜索功能
 | p_char_411_tomimi | 特米米的信物 | Tomimi's Token | トミミの印 |
 | p_char_4121_zuole | 左乐的信物 | - | - |
 | p_char_4122_grabds | 小满的信物 | - | - |
+| p_char_4123_ela | 艾拉的信物 | - | - |
+| p_char_4124_iana | 双月的信物 | - | - |
+| p_char_4125_rdoc | 医生的信物 | - | - |
+| p_char_4126_fuze | 导火索的信物 | - | - |
 | p_char_415_flint | 燧石的信物 | Flint's Token | フリントの印 |
 | p_char_416_zumama | 森蚺的信物 | Eunectes' Token | ユーネクテスの印 |
 | p_char_420_flamtl | 焰尾的信物 | Flametail's Token | フレイムテイルの印 |

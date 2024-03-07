@@ -165,6 +165,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_ebnhlz_1 | 渐快急板 | Quickening Presto | アッチェレランド |
 | skchr_ebnhlz_2 | 荒芜回响 | Desolate Echoes | 旧日の残響 |
 | skchr_ebnhlz_3 | 寂静之声 | Sound of Silence | 無響の声 |
+| skchr_ela_1 | 眩目阻滞 | - | - |
+| skchr_ela_2 | 震荡坚守 | - | - |
+| skchr_ela_3 | “博萨克风暴” | - | - |
 | skchr_elysm_2 | 聆听 | Monitor | 集音 |
 | skchr_erato_1 | 安眠旋律 | Lullaby's Meter | 安眠のメローディア |
 | skchr_erato_2 | 英雄赞歌 | Heroes' Paean | 英雄へのイムヌス |
@@ -205,6 +208,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_frncat_2 | 炸毛 | Fury | ねこのいかり |
 | skchr_frostl_1 | 寒霜枪刃 | Frost Tomahawk | 降霜の刃 |
 | skchr_frostl_2 | 凝冰枪刃 | Ice Tomahawk | 氷結の刃 |
+| skchr_fuze_1 | 火力侦察 | - | - |
+| skchr_fuze_2 | 霰射炸药 | - | - |
 | skchr_gdglow_1 | 火花四溅 | Scattering Sparks | スパーキング |
 | skchr_gdglow_2 | 电流翻涌 | Surging Current | インパルスカレント |
 | skchr_gdglow_3 | 澄净闪耀 | Crystalline Shine | ゴールデングロー |
@@ -275,6 +280,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_huang_3 | 沸腾爆裂 | Boiling Burst | ボイリングバースト |
 | skchr_humus_1 | 固废切割 | Solid Waste Cutting | 廃棄物処理 |
 | skchr_humus_2 | 高效处理 | Efficient Processing | 高効率作業 |
+| skchr_iana_1 | 幻影诡雷 | - | - |
+| skchr_iana_2 | 全知者的战术 | - | - |
 | skchr_ifrit_1 | 狂热 | Fanaticism | 猛火 |
 | skchr_ifrit_2 | 炎爆 | Pyroclasm | 爆炎 |
 | skchr_ifrit_3 | 灼地 | Scorched Earth | 灼獄 |
@@ -450,6 +457,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_ray_1 | 脱身矢 | - | - |
 | skchr_ray_2 | 广域警觉 | - | - |
 | skchr_ray_3 | “得见光芒” | - | - |
+| skchr_rdoc_1 | 以暴制暴 | - | - |
+| skchr_rdoc_2 | 激素手枪 | - | - |
 | skchr_red_1 | 处决模式 | Execution Mode | 処刑の構え |
 | skchr_red_2 | 狼群 | Wolfpack | 群狼 |
 | skchr_reed2_2 | 枯荣共息 | Wither and Thrive | 盛衰を共に |
@@ -639,6 +648,7 @@ tip: 请善用浏览器的搜索功能
 | skcom_quickattack[3] | 迅捷打击·γ型 | Swift Strike γ | 迅速攻撃γ |
 | skcom_range_extend | 治疗范围强化 | Healing Range Up | 回復範囲強化 |
 | skcom_withdraw | 自我销毁 | Self-Destruct | 自動消滅 |
+| sktok_ads | 掩护 | - | - |
 | sktok_aidkit | 急救 | First Aid | 応急処置 |
 | sktok_airbomb | 砰！ | Bang! | バン！ |
 | sktok_airsup | 派遣空援 | Dispatch Air Support | 空援派遣 |
@@ -727,6 +737,10 @@ tip: 请善用浏览器的搜索功能
 | sktok_dupilr | 支柱坍塌 | Collapsing Pillar | 倒壊 |
 | sktok_duruin | 阻挡路线 | Obstruct | 進路妨害 |
 | sktok_ebnhlz_token | 闪回 | Flashback | フラッシュバック |
+| sktok_edd | 布雷 | - | - |
+| sktok_ela_1 | 眩目阻滞 | - | - |
+| sktok_ela_2 | 震荡坚守 | - | - |
+| sktok_ela_3 | “博萨克风暴” | - | - |
 | sktok_electric | 通电！ | Energized! | 通電！ |
 | sktok_emp | EMP爆炸 | EMP Blast | 電磁パルス |
 | sktok_emperor | Punchline | Punchline | Punchline |
@@ -821,6 +835,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_rfrost_2 | 击倒猎物 | Incapacitated Prey | リーサルパシュート |
 | sktok_rmtarmn_1 | 研究成功 | Research Success | 研究成功 |
 | sktok_rmtarms_1 | 研究成功 | Research Success | 研究成功 |
+| sktok_rnfcar | 加固 | - | - |
 | sktok_roadblock | 道路阻塞 | Obstruction | 進路封鎖 |
 | sktok_robin_1 | 束缚“夹子” | Binding 'Clip' | バインド「クリップ」 |
 | sktok_robin_2 | 弹射“夹子” | Launching 'Clip' | バースト「クリップ」 |

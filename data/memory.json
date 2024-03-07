@@ -78,6 +78,9 @@
     "ja_JP": "奇景",
     "zh_CN": "奇景"
   },
+  "story_ash_set_1_story_1": {
+    "zh_CN": "旅伴"
+  },
   "story_astesi_set_1_story_1": {
     "en_US": "Revelation",
     "ja_JP": "照らし出す光",
@@ -143,6 +146,9 @@
     "en_US": "Ready to Serve",
     "ja_JP": "望むままに",
     "zh_CN": "心甘情愿"
+  },
+  "story_blitz_set_1_story_1": {
+    "zh_CN": "团队坚盾"
   },
   "story_blkngt_set_1_story_1": {
     "en_US": "Souls of the Wilderness",
@@ -320,6 +326,9 @@
     "ja_JP": "灯の隻影",
     "zh_CN": "孤灯"
   },
+  "story_ela_set_1_story_1": {
+    "zh_CN": "“宛如初见”"
+  },
   "story_elysm_set_1_story_1": {
     "en_US": "Long Journey",
     "ja_JP": "長き旅路",
@@ -426,6 +435,9 @@
     "en_US": "Learning to Read",
     "ja_JP": "学習帳",
     "zh_CN": "识字本"
+  },
+  "story_fuze_set_1_story_1": {
+    "zh_CN": "梦醒时分"
   },
   "story_ghost2_set_1_story_1": {
     "en_US": "Selfhood",
@@ -562,6 +574,9 @@
     "en_US": "Wasteland Artisan",
     "ja_JP": "荒野の匠",
     "zh_CN": "荒地巧匠"
+  },
+  "story_iana_set_1_story_1": {
+    "zh_CN": "探求明天"
   },
   "story_ifrit_set_1_story_1": {
     "en_US": "Team Captain",
@@ -922,6 +937,12 @@
     "ja_JP": "命の芽吹き",
     "zh_CN": "生命的萌芽"
   },
+  "story_rdoc_set_1_story_1": {
+    "zh_CN": "模糊的面容"
+  },
+  "story_rfrost_set_1_story_1": {
+    "zh_CN": "寻乡"
+  },
   "story_robrta_set_1_story_1": {
     "en_US": "Elegy",
     "ja_JP": "亡き者に捧ぐ歌",
@@ -1123,6 +1144,9 @@
     "en_US": "Day Before the Job",
     "ja_JP": "就任前夜",
     "zh_CN": "就任前夕"
+  },
+  "story_tachak_set_1_story_1": {
+    "zh_CN": "一如既往"
   },
   "story_takila_set_1_story_1": {
     "en_US": "Taste of Thorns",
