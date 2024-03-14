@@ -37771,6 +37771,12 @@
       "zh_CN": "一跃而下"
     }
   },
+  "act32side_mo01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "直击现场"
+    }
+  },
   "act32side_st01": {
     "type": "STAGE",
     "names": {
