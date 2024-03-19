@@ -29,7 +29,7 @@ tip: 请善用浏览器的搜索功能
 | char_1031_slent2 | 淬羽赫默 | Silence the Paradigmatic | 淬羽サイレンス |
 | char_1032_excu2 | 圣约送葬人 | Executor the Ex Foedere | 聖約イグゼキュター |
 | char_1033_swire2 | 琳琅诗怀雅 | Swire the Elegant Wit | 琳琅スワイヤー |
-| char_1034_jesca2 | 涤火杰西卡 | - | 滌火ジェシカ |
+| char_1034_jesca2 | 涤火杰西卡 | Jessica the Liberated | 滌火ジェシカ |
 | char_103_angel | 能天使 | Exusiai | エクシア |
 | char_106_franka | 芙兰卡 | Franka | フランカ |
 | char_107_liskam | 雷蛇 | Liskarm | リスカム |
@@ -253,13 +253,13 @@ tip: 请善用浏览器的搜索功能
 | char_4083_chimes | 铎铃 | Wind Chimes | ウィンドチャイム |
 | char_4087_ines | 伊内丝 | Ines | イネス |
 | char_4088_hodrer | 赫德雷 | - | - |
-| char_4091_ulika | U-Official | - | U-Official |
+| char_4091_ulika | U-Official | U-Official | U-Official |
 | char_4093_frston | Friston-3 | Friston-3 | Friston-3 |
 | char_4098_vvana | 薇薇安娜 | - | - |
 | char_4100_caper | 跃跃 | - | - |
 | char_4102_threye | 凛视 | Valarqvin | ヴァラルクビン |
-| char_4104_coldst | 冰酿 | - | コールドショット |
-| char_4105_almond | 杏仁 | - | アーモンド |
+| char_4104_coldst | 冰酿 | Coldshot | コールドショット |
+| char_4105_almond | 杏仁 | Almond | アーモンド |
 | char_4106_bryota | 苍苔 | Bryophyta | ブライオファイタ |
 | char_4107_vrdant | 维荻 | - | - |
 | char_4109_baslin | 深律 | - | - |

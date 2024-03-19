@@ -194,6 +194,7 @@
   "char_1034_jesca2": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Jessica the Liberated",
       "ja_JP": "滌火ジェシカ",
       "zh_CN": "涤火杰西卡"
     }
@@ -1971,6 +1972,7 @@
   "char_4091_ulika": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "U-Official",
       "ja_JP": "U-Official",
       "zh_CN": "U-Official"
     }
@@ -2006,6 +2008,7 @@
   "char_4104_coldst": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Coldshot",
       "ja_JP": "コールドショット",
       "zh_CN": "冰酿"
     }
@@ -2013,6 +2016,7 @@
   "char_4105_almond": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Almond",
       "ja_JP": "アーモンド",
       "zh_CN": "杏仁"
     }
@@ -2894,6 +2898,7 @@
   "token_10032_jesca2_jckshd": {
     "type": "TOKEN",
     "names": {
+      "en_US": "Mobile Riot Shield",
       "ja_JP": "機動防盾",
       "zh_CN": "机动盾牌"
     }
@@ -3809,6 +3814,7 @@
   "trap_116_stdurk": {
     "type": "TRAP",
     "names": {
+      "en_US": "'My Past Self'",
       "ja_JP": "「過去の自分」",
       "zh_CN": "“过去的我”"
     }
@@ -5092,6 +5098,7 @@
   "char_106_franka@ncg#1": {
     "type": "SKIN",
     "names": {
+      "en_US": "Rainforest, Me, Rainbow",
       "ja_JP": "深緑にかかる虹",
       "zh_CN": "林虹之间"
     }
@@ -5693,6 +5700,7 @@
   "char_2023_ling@ncg#1": {
     "type": "SKIN",
     "names": {
+      "en_US": "Towering is Cliff of Nostalgia",
       "ja_JP": "崖高く夢遠し",
       "zh_CN": "崖高梦远"
     }
@@ -6878,6 +6886,7 @@
   "char_4082_qiubai@ncg#1": {
     "type": "SKIN",
     "names": {
+      "en_US": "Wine-flushed is Woods of Rime",
       "ja_JP": "霜林酔",
       "zh_CN": "霜林醉"
     }
@@ -12807,6 +12816,7 @@
   "enemy_1352_eslime": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Radioactive Originium Slug",
       "ja_JP": "ホウシャムシ",
       "zh_CN": "辐能源石虫"
     }
@@ -12814,6 +12824,7 @@
   "enemy_1352_eslime_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Radioactive Originium Slug α",
       "ja_JP": "ホウシャムシ・α",
       "zh_CN": "辐能源石虫·α"
     }
@@ -12821,6 +12832,7 @@
   "enemy_1353_esabr": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Paramilitary Gangster",
       "ja_JP": "野盗チンピラ",
       "zh_CN": "匪帮混混"
     }
@@ -12828,6 +12840,7 @@
   "enemy_1353_esabr_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Paramilitary Gangster Leader",
       "ja_JP": "野盗チンピラの頭目",
       "zh_CN": "匪帮混混头目"
     }
@@ -12835,6 +12848,7 @@
   "enemy_1354_eghost": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Paramilitary Thief",
       "ja_JP": "野盗スリ師",
       "zh_CN": "匪帮窃贼"
     }
@@ -12842,6 +12856,7 @@
   "enemy_1354_eghost_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Paramilitary Thief Leader",
       "ja_JP": "野盗スリ師の頭目",
       "zh_CN": "匪帮窃贼头目"
     }
@@ -12849,6 +12864,7 @@
   "enemy_1355_mrfly": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Blocker",
       "ja_JP": "バリケード",
       "zh_CN": "护障"
     }
@@ -12856,6 +12872,7 @@
   "enemy_1355_mrfly_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Blocker–P",
       "ja_JP": "バリケードP",
       "zh_CN": "护障·P"
     }
@@ -12863,6 +12880,7 @@
   "enemy_1356_egun": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Paramilitary Sniper",
       "ja_JP": "野盗ブラスター",
       "zh_CN": "匪帮射手"
     }
@@ -12870,6 +12888,7 @@
   "enemy_1356_egun_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Paramilitary Sniper Leader",
       "ja_JP": "野盗ブラスターの頭目",
       "zh_CN": "匪帮射手头目"
     }
@@ -12877,6 +12896,7 @@
   "enemy_1357_erob": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Paramilitary Axeman",
       "ja_JP": "野盗ソーヤー",
       "zh_CN": "匪帮斧手"
     }
@@ -12884,6 +12904,7 @@
   "enemy_1357_erob_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Paramilitary Axeman Leader",
       "ja_JP": "野盗ソーヤーの頭目",
       "zh_CN": "匪帮斧手头目"
     }
@@ -12891,6 +12912,7 @@
   "enemy_1358_esheld": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Paramilitary Defender",
       "ja_JP": "野盗ディフェンダー",
       "zh_CN": "匪帮防御者"
     }
@@ -12898,6 +12920,7 @@
   "enemy_1358_esheld_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Paramilitary Defender Leader",
       "ja_JP": "野盗ディフェンダーの頭目",
       "zh_CN": "匪帮防御者头目"
     }
@@ -12905,6 +12928,7 @@
   "enemy_1359_ekulsr": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Paramilitary Bombardier",
       "ja_JP": "野盗ボマー",
       "zh_CN": "匪帮轰击者"
     }
@@ -12912,6 +12936,7 @@
   "enemy_1359_ekulsr_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Paramilitary Bombardier Leader",
       "ja_JP": "野盗ボマーの頭目",
       "zh_CN": "匪帮轰击者头目"
     }
@@ -13841,6 +13866,7 @@
   "enemy_1546_cliff": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Clip' Cliff",
       "ja_JP": "「クリップ」クリフ",
       "zh_CN": "“桥夹”克里夫"
     }
@@ -15552,6 +15578,7 @@
   "act1mainlinebp": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Tactical Support",
       "ja_JP": "作戦支援",
       "zh_CN": "战备支援"
     }
@@ -15749,6 +15776,7 @@
   "act28side": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Come Catastrophes or Wakes of Vultures",
       "ja_JP": "ダーティマネー",
       "zh_CN": "不义之财"
     }
@@ -15824,6 +15852,7 @@
   "act2switch": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "View From Above Collaboration Event",
       "ja_JP": "山河一望コラボ",
       "zh_CN": "登览锦绣合作活动"
     }
@@ -16013,6 +16042,7 @@
   "act4fun": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "April Fools' Day Event",
       "ja_JP": "エイプリルフール",
       "zh_CN": "愚人节活动"
     }
@@ -18418,6 +18448,7 @@
   "act1mainlinebp_token_star": {
     "type": "ITEM",
     "names": {
+      "en_US": "Milestone Fragment",
       "ja_JP": "マイルストーンの欠片",
       "zh_CN": "里程碑碎片"
     }
@@ -18579,6 +18610,7 @@
   "act28side_token_box": {
     "type": "ITEM",
     "names": {
+      "en_US": "Shoddy Fuel",
       "ja_JP": "粗悪燃料",
       "zh_CN": "劣质燃料"
     }
@@ -20564,6 +20596,7 @@
   "favor_add_ulika": {
     "type": "ITEM",
     "names": {
+      "en_US": "Streamer U's Stream Clips",
       "ja_JP": "ライバーUの配信切り抜き",
       "zh_CN": "主播U的直播切片"
     }
@@ -20923,6 +20956,7 @@
   "p_char_1034_jesca2": {
     "type": "ITEM",
     "names": {
+      "en_US": "Jessica the Liberated's Token",
       "ja_JP": "滌火ジェシカの印",
       "zh_CN": "涤火杰西卡的信物"
     }
@@ -22698,6 +22732,7 @@
   "p_char_4104_coldst": {
     "type": "ITEM",
     "names": {
+      "en_US": "Coldshot's Token",
       "ja_JP": "コールドショットの印",
       "zh_CN": "冰酿的信物"
     }
@@ -22705,6 +22740,7 @@
   "p_char_4105_almond": {
     "type": "ITEM",
     "names": {
+      "en_US": "Almond's Token",
       "ja_JP": "アーモンドの印",
       "zh_CN": "杏仁的信物"
     }
@@ -23378,6 +23414,7 @@
   "randomMaterial_9": {
     "type": "ITEM",
     "names": {
+      "en_US": "Rhodes Island Supplies VI",
       "ja_JP": "補給物資・ロドスVI",
       "zh_CN": "罗德岛物资补给VI"
     }
@@ -24109,6 +24146,7 @@
   "uni_set_kazimierz": {
     "type": "ITEM",
     "names": {
+      "en_US": "Near Light Furniture Pack",
       "ja_JP": "ニアーライト家具パック",
       "zh_CN": "长夜临光家具收藏包"
     }
@@ -24400,6 +24438,7 @@
   "voucher_full_wildmn": {
     "type": "ITEM",
     "names": {
+      "en_US": "Wild Mane's Personal Letter",
       "ja_JP": "ワイルドメインの手紙",
       "zh_CN": "野鬃的私人信件"
     }
@@ -24577,6 +24616,7 @@
   "voucher_ulika": {
     "type": "ITEM",
     "names": {
+      "en_US": "U-Official's Folder",
       "ja_JP": "U-Officialのバインダー",
       "zh_CN": "U-Official的文件夹"
     }
@@ -25738,6 +25778,7 @@
   "_NORM_26_0_7": {
     "type": "POOL",
     "names": {
+      "en_US": "The Front That Was",
       "ja_JP": "先途追想"
     }
   },
@@ -25982,6 +26023,7 @@
   "_SINGLE_26_0_5": {
     "type": "POOL",
     "names": {
+      "en_US": "Clank Liberty",
       "ja_JP": "銃声"
     }
   },
@@ -26100,6 +26142,7 @@
   "skchr_almond_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Magnetic Grab",
       "ja_JP": "マグネットキャッチャー",
       "zh_CN": "磁力抓取"
     }
@@ -26107,6 +26150,7 @@
   "skchr_almond_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Power Traction",
       "ja_JP": "ハイパートラクション",
       "zh_CN": "强力牵引"
     }
@@ -26990,6 +27034,7 @@
   "skchr_coldst_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Party Night",
       "ja_JP": "夜に酔いしれて",
       "zh_CN": "酣醉之夜"
     }
@@ -28311,6 +28356,7 @@
   "skchr_jesca2_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Hold the Line",
       "ja_JP": "戦線維持",
       "zh_CN": "坚守阵线"
     }
@@ -28318,6 +28364,7 @@
   "skchr_jesca2_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Covered Defense",
       "ja_JP": "掩護弾幕",
       "zh_CN": "掩蔽护卫"
     }
@@ -28325,6 +28372,7 @@
   "skchr_jesca2_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Saturation Burst",
       "ja_JP": "飽和射撃",
       "zh_CN": "饱和迸射"
     }
@@ -32700,6 +32748,7 @@
   "sktok_stdurk_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "'Snap!'",
       "ja_JP": "｢カシャッ！｣",
       "zh_CN": "“咔嚓！”"
     }
@@ -37375,6 +37424,7 @@
   "act28side_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "In a Lonely Place",
       "ja_JP": "孤独の地",
       "zh_CN": "孤独之地"
     }
@@ -37382,6 +37432,7 @@
   "act28side_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Double Indemnity",
       "ja_JP": "二重の備え",
       "zh_CN": "双重保险"
     }
@@ -37389,6 +37440,7 @@
   "act28side_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Tricks",
       "ja_JP": "罠",
       "zh_CN": "圈套"
     }
@@ -37396,6 +37448,7 @@
   "act28side_04": {
     "type": "STAGE",
     "names": {
+      "en_US": "The Man Who Wasn't There",
       "ja_JP": "席を立つ者",
       "zh_CN": "缺席的人"
     }
@@ -37403,6 +37456,7 @@
   "act28side_05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Shadow of a Doubt",
       "ja_JP": "深まる疑惑",
       "zh_CN": "疑惑之影"
     }
@@ -37410,6 +37464,7 @@
   "act28side_06": {
     "type": "STAGE",
     "names": {
+      "en_US": "The Night of the Hunter",
       "ja_JP": "狩人の夜",
       "zh_CN": "猎人之夜"
     }
@@ -37417,6 +37472,7 @@
   "act28side_07": {
     "type": "STAGE",
     "names": {
+      "en_US": "White Heat",
       "ja_JP": "白熱",
       "zh_CN": "白热"
     }
@@ -37424,6 +37480,7 @@
   "act28side_08": {
     "type": "STAGE",
     "names": {
+      "en_US": "So Long, Stooge",
       "ja_JP": "過去との決別",
       "zh_CN": "告别往昔"
     }
@@ -37431,6 +37488,7 @@
   "act28side_st01": {
     "type": "STAGE",
     "names": {
+      "en_US": "In the Line of Fire",
       "ja_JP": "火線を潜る",
       "zh_CN": "火线之中"
     }
@@ -37438,6 +37496,7 @@
   "act28side_st02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Sudden Impact",
       "ja_JP": "予期せぬ衝撃",
       "zh_CN": "突然冲击"
     }
@@ -37445,6 +37504,7 @@
   "act28side_st03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Band of Outsiders",
       "ja_JP": "法外の存在",
       "zh_CN": "法外之徒"
     }
@@ -37452,6 +37512,7 @@
   "act28side_tr01": {
     "type": "STAGE",
     "names": {
+      "en_US": "City Heat",
       "ja_JP": "熱き市街戦",
       "zh_CN": "城市热战"
     }
@@ -43151,6 +43212,7 @@
   "act28side_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Anemic Platform",
       "ja_JP": "青白い町",
       "zh_CN": "苍白平台"
     }
@@ -43158,6 +43220,7 @@
   "act28side_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Black Landship",
       "ja_JP": "黒き艦船",
       "zh_CN": "黑色舰船"
     }
@@ -44511,6 +44574,7 @@
   "story_crow_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Plumas de Tenacidad",
       "ja_JP": "強靭な羽根",
       "zh_CN": "坚韧的羽毛"
     }
@@ -44634,6 +44698,7 @@
   "story_excu2_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Azure",
       "ja_JP": "青",
       "zh_CN": "蓝色"
     }
@@ -44687,6 +44752,7 @@
   "story_finlpp_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "A Trickle, a Rapids",
       "ja_JP": "川となる雫",
       "zh_CN": "涓滴亦江流"
     }
@@ -44758,6 +44824,7 @@
   "story_franka_set_2_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "To a Standstill",
       "ja_JP": "足休め",
       "zh_CN": "驻足"
     }
@@ -45061,6 +45128,7 @@
   "story_jesca2_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Insignia",
       "ja_JP": "保安官バッジ",
       "zh_CN": "徽章"
     }

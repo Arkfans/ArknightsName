@@ -120,6 +120,7 @@
     "zh_CN": "琳琅诗怀雅"
   },
   "char_1034_jesca2": {
+    "en_US": "Jessica the Liberated",
     "ja_JP": "滌火ジェシカ",
     "zh_CN": "涤火杰西卡"
   },
@@ -1225,6 +1226,7 @@
     "zh_CN": "赫德雷"
   },
   "char_4091_ulika": {
+    "en_US": "U-Official",
     "ja_JP": "U-Official",
     "zh_CN": "U-Official"
   },
@@ -1245,10 +1247,12 @@
     "zh_CN": "凛视"
   },
   "char_4104_coldst": {
+    "en_US": "Coldshot",
     "ja_JP": "コールドショット",
     "zh_CN": "冰酿"
   },
   "char_4105_almond": {
+    "en_US": "Almond",
     "ja_JP": "アーモンド",
     "zh_CN": "杏仁"
   },

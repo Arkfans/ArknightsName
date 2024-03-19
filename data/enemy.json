@@ -3365,66 +3365,82 @@
     "zh_CN": "“好朋友”"
   },
   "enemy_1352_eslime": {
+    "en_US": "Radioactive Originium Slug",
     "ja_JP": "ホウシャムシ",
     "zh_CN": "辐能源石虫"
   },
   "enemy_1352_eslime_2": {
+    "en_US": "Radioactive Originium Slug α",
     "ja_JP": "ホウシャムシ・α",
     "zh_CN": "辐能源石虫·α"
   },
   "enemy_1353_esabr": {
+    "en_US": "Paramilitary Gangster",
     "ja_JP": "野盗チンピラ",
     "zh_CN": "匪帮混混"
   },
   "enemy_1353_esabr_2": {
+    "en_US": "Paramilitary Gangster Leader",
     "ja_JP": "野盗チンピラの頭目",
     "zh_CN": "匪帮混混头目"
   },
   "enemy_1354_eghost": {
+    "en_US": "Paramilitary Thief",
     "ja_JP": "野盗スリ師",
     "zh_CN": "匪帮窃贼"
   },
   "enemy_1354_eghost_2": {
+    "en_US": "Paramilitary Thief Leader",
     "ja_JP": "野盗スリ師の頭目",
     "zh_CN": "匪帮窃贼头目"
   },
   "enemy_1355_mrfly": {
+    "en_US": "Blocker",
     "ja_JP": "バリケード",
     "zh_CN": "护障"
   },
   "enemy_1355_mrfly_2": {
+    "en_US": "Blocker–P",
     "ja_JP": "バリケードP",
     "zh_CN": "护障·P"
   },
   "enemy_1356_egun": {
+    "en_US": "Paramilitary Sniper",
     "ja_JP": "野盗ブラスター",
     "zh_CN": "匪帮射手"
   },
   "enemy_1356_egun_2": {
+    "en_US": "Paramilitary Sniper Leader",
     "ja_JP": "野盗ブラスターの頭目",
     "zh_CN": "匪帮射手头目"
   },
   "enemy_1357_erob": {
+    "en_US": "Paramilitary Axeman",
     "ja_JP": "野盗ソーヤー",
     "zh_CN": "匪帮斧手"
   },
   "enemy_1357_erob_2": {
+    "en_US": "Paramilitary Axeman Leader",
     "ja_JP": "野盗ソーヤーの頭目",
     "zh_CN": "匪帮斧手头目"
   },
   "enemy_1358_esheld": {
+    "en_US": "Paramilitary Defender",
     "ja_JP": "野盗ディフェンダー",
     "zh_CN": "匪帮防御者"
   },
   "enemy_1358_esheld_2": {
+    "en_US": "Paramilitary Defender Leader",
     "ja_JP": "野盗ディフェンダーの頭目",
     "zh_CN": "匪帮防御者头目"
   },
   "enemy_1359_ekulsr": {
+    "en_US": "Paramilitary Bombardier",
     "ja_JP": "野盗ボマー",
     "zh_CN": "匪帮轰击者"
   },
   "enemy_1359_ekulsr_2": {
+    "en_US": "Paramilitary Bombardier Leader",
     "ja_JP": "野盗ボマーの頭目",
     "zh_CN": "匪帮轰击者头目"
   },
@@ -3937,6 +3953,7 @@
     "zh_CN": "多利，“羊之主”"
   },
   "enemy_1546_cliff": {
+    "en_US": "'Clip' Cliff",
     "ja_JP": "「クリップ」クリフ",
     "zh_CN": "“桥夹”克里夫"
   },

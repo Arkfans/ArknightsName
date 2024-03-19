@@ -383,6 +383,7 @@
     "zh_CN": "战备支援"
   },
   "act1mainlinebp": {
+    "en_US": "Tactical Support",
     "ja_JP": "作戦支援",
     "zh_CN": "战备支援"
   },
@@ -502,6 +503,7 @@
     "zh_CN": "限时累计签到"
   },
   "act28side": {
+    "en_US": "Come Catastrophes or Wakes of Vultures",
     "ja_JP": "ダーティマネー",
     "zh_CN": "不义之财"
   },
@@ -547,6 +549,7 @@
     "zh_CN": "双日城惊奇墙"
   },
   "act2switch": {
+    "en_US": "View From Above Collaboration Event",
     "ja_JP": "山河一望コラボ",
     "zh_CN": "登览锦绣合作活动"
   },
@@ -658,6 +661,7 @@
     "zh_CN": "限时积分任务"
   },
   "act4fun": {
+    "en_US": "April Fools' Day Event",
     "ja_JP": "エイプリルフール",
     "zh_CN": "愚人节活动"
   },

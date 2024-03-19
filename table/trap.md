@@ -116,7 +116,7 @@ tip: 请善用浏览器的搜索功能
 | trap_113_snflwr | 全自动划账器 | Full-Auto Debit Machine | 全自動送金機 |
 | trap_114_smkbmb | 爆裂毒气罐 | Rupturing Canister | 毒ガスタンク |
 | trap_115_gasctrl | 毒雾塔控制 | Gas Controller | 毒霧タワー制御装置 |
-| trap_116_stdurk | “过去的我” | - | 「過去の自分」 |
+| trap_116_stdurk | “过去的我” | 'My Past Self' | 「過去の自分」 |
 | trap_117_ltstat | 圣像 | Holy Statue | 聖像 |
 | trap_118_rockfl | 塌落的墙垣 | Crumbling Masonry | 崩れた壁 |
 | trap_119_rdrepair | 备用木材 | Spare Timber | 予備木材 |

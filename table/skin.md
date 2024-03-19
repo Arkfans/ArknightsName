@@ -30,7 +30,7 @@ tip: 请善用浏览器的搜索功能
 | char_103_angel@kfc#1 | 城市骑手 | - | - |
 | char_103_angel@sale#8 | 午夜邮差 | Midnight Delivery | 真夜中の配達人 |
 | char_103_angel@wild#1 | 野地秘行 | Wild Operation | 荒野潜行 |
-| char_106_franka@ncg#1 | 林虹之间 | - | 深緑にかかる虹 |
+| char_106_franka@ncg#1 | 林虹之间 | Rainforest, Me, Rainbow | 深緑にかかる虹 |
 | char_107_liskam@nian#2 | 春竜 | Spring Vouivre | 春竜 |
 | char_107_liskam@striker#1 | 超载 | Overload | オーバーロード |
 | char_108_silent@sweep#1 | 漆匠 | Lacquer | 漆匠 |
@@ -107,7 +107,7 @@ tip: 请善用浏览器的搜索功能
 | char_2015_dusk@nian#7 | 染尘烟 | Everything Is a Miracle | 染塵煙 |
 | char_201_moeshd@kfc#1 | 清晨七点 | - | - |
 | char_201_moeshd@summer#4 | 探寻者 SK03 | Seeker SK03 | シーカーSK03 |
-| char_2023_ling@ncg#1 | 崖高梦远 | - | 崖高く夢遠し |
+| char_2023_ling@ncg#1 | 崖高梦远 | Towering is Cliff of Nostalgia | 崖高く夢遠し |
 | char_2023_ling@nian#9 | 濯缨 | It Does Wash the Strings | 濯冠纓 |
 | char_2024_chyue@nian#10 | 何处栖 | - | - |
 | char_202_demkni@boc#1 | 坚城 | Stronghold | 堅城 |
@@ -260,7 +260,7 @@ tip: 请善用浏览器的搜索功能
 | char_4077_palico@mh#1 | 跃上街头 | Fly Into the Street | 街へ飛び出せ |
 | char_4078_bdhkgt@yun#2 | 伴青莲 | - | - |
 | char_4080_lin@nian#10 | 列瑶台 | - | - |
-| char_4082_qiubai@ncg#1 | 霜林醉 | - | 霜林酔 |
+| char_4082_qiubai@ncg#1 | 霜林醉 | Wine-flushed is Woods of Rime | 霜林酔 |
 | char_411_tomimi@summer#5 | 静谧午夜 DN04 | Silent Night DN04 | 安息の午夜DN04 |
 | char_4123_ela@rainbow6#2 | 密室 | - | - |
 | char_4124_iana@rainbow6#2 | 镜廊 | - | - |

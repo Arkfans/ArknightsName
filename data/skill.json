@@ -70,10 +70,12 @@
     "zh_CN": "信影流·十文字胜"
   },
   "skchr_almond_1": {
+    "en_US": "Magnetic Grab",
     "ja_JP": "マグネットキャッチャー",
     "zh_CN": "磁力抓取"
   },
   "skchr_almond_2": {
+    "en_US": "Power Traction",
     "ja_JP": "ハイパートラクション",
     "zh_CN": "强力牵引"
   },
@@ -618,6 +620,7 @@
     "zh_CN": "双弦开弓"
   },
   "skchr_coldst_2": {
+    "en_US": "Party Night",
     "ja_JP": "夜に酔いしれて",
     "zh_CN": "酣醉之夜"
   },
@@ -1432,14 +1435,17 @@
     "zh_CN": "全神贯注！"
   },
   "skchr_jesca2_1": {
+    "en_US": "Hold the Line",
     "ja_JP": "戦線維持",
     "zh_CN": "坚守阵线"
   },
   "skchr_jesca2_2": {
+    "en_US": "Covered Defense",
     "ja_JP": "掩護弾幕",
     "zh_CN": "掩蔽护卫"
   },
   "skchr_jesca2_3": {
+    "en_US": "Saturation Burst",
     "ja_JP": "飽和射撃",
     "zh_CN": "饱和迸射"
   },
@@ -4132,6 +4138,7 @@
     "zh_CN": "空域控制"
   },
   "sktok_stdurk_1": {
+    "en_US": "'Snap!'",
     "ja_JP": "｢カシャッ！｣",
     "zh_CN": "“咔嚓！”"
   },

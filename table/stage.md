@@ -508,18 +508,18 @@ tip: 请善用浏览器的搜索功能
 | act27side_st03 | 晴天 | Sunny Day | 晴れの日 |
 | act27side_tr01 | 黑咩咩 | Baa Baa Black | 黒いめーちゃん |
 | act27side_tr02 | 跟着我拍拍手 | Clap Along with Me | 一緒に手を叩こう |
-| act28side_01 | 孤独之地 | - | 孤独の地 |
-| act28side_02 | 双重保险 | - | 二重の備え |
-| act28side_03 | 圈套 | - | 罠 |
-| act28side_04 | 缺席的人 | - | 席を立つ者 |
-| act28side_05 | 疑惑之影 | - | 深まる疑惑 |
-| act28side_06 | 猎人之夜 | - | 狩人の夜 |
-| act28side_07 | 白热 | - | 白熱 |
-| act28side_08 | 告别往昔 | - | 過去との決別 |
-| act28side_st01 | 火线之中 | - | 火線を潜る |
-| act28side_st02 | 突然冲击 | - | 予期せぬ衝撃 |
-| act28side_st03 | 法外之徒 | - | 法外の存在 |
-| act28side_tr01 | 城市热战 | - | 熱き市街戦 |
+| act28side_01 | 孤独之地 | In a Lonely Place | 孤独の地 |
+| act28side_02 | 双重保险 | Double Indemnity | 二重の備え |
+| act28side_03 | 圈套 | Tricks | 罠 |
+| act28side_04 | 缺席的人 | The Man Who Wasn't There | 席を立つ者 |
+| act28side_05 | 疑惑之影 | Shadow of a Doubt | 深まる疑惑 |
+| act28side_06 | 猎人之夜 | The Night of the Hunter | 狩人の夜 |
+| act28side_07 | 白热 | White Heat | 白熱 |
+| act28side_08 | 告别往昔 | So Long, Stooge | 過去との決別 |
+| act28side_st01 | 火线之中 | In the Line of Fire | 火線を潜る |
+| act28side_st02 | 突然冲击 | Sudden Impact | 予期せぬ衝撃 |
+| act28side_st03 | 法外之徒 | Band of Outsiders | 法外の存在 |
+| act28side_tr01 | 城市热战 | City Heat | 熱き市街戦 |
 | act29side_01 | 清唱“晴空之歌” | - | - |
 | act29side_02 | 序曲“哨兵” | - | - |
 | act29side_03 | 练习曲“奇遇” | - | - |

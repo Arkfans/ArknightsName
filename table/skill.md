@@ -19,8 +19,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_aguard_1 | 亮剑 | Drawing Sword | 鋭刃 |
 | skchr_akafyu_1 | 信影流·雷刀之势 | Nobukage-ryu - Kaminari Gatana no Zei | 信影流・雷刀之勢 |
 | skchr_akafyu_2 | 信影流·十文字胜 | Nobukage-ryu - Juumonji Masaru | 信影流・十文字勝 |
-| skchr_almond_1 | 磁力抓取 | - | マグネットキャッチャー |
-| skchr_almond_2 | 强力牵引 | - | ハイパートラクション |
+| skchr_almond_1 | 磁力抓取 | Magnetic Grab | マグネットキャッチャー |
+| skchr_almond_2 | 强力牵引 | Power Traction | ハイパートラクション |
 | skchr_amedic_1 | 宛如天启 | Apocalyptic Scene | 天啓の光 |
 | skchr_amgoat_1 | 二重咏唱 | Duetto | 二重詠唱 |
 | skchr_amgoat_2 | 点燃 | Ignition | イグニッション |
@@ -133,7 +133,7 @@ tip: 请善用浏览器的搜索功能
 | skchr_chyue_2 | 拂尘 | Whisk | 払塵 |
 | skchr_chyue_3 | 我无 | Anatta | 我無 |
 | skchr_clour_2 | 双弦开弓 | Double Shot | デュアルアロー |
-| skchr_coldst_2 | 酣醉之夜 | - | 夜に酔いしれて |
+| skchr_coldst_2 | 酣醉之夜 | Party Night | 夜に酔いしれて |
 | skchr_cqbw_1 | 红桃K | King of Hearts | ハートのK |
 | skchr_cqbw_2 | 惊吓盒子 | Jack in the Box | びっくり箱 |
 | skchr_cqbw_3 | D12 | D12 | D12 |
@@ -302,9 +302,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_ironmn_3 | 铁钳号·原型机 | Prototype of Feist's Metal Crab | 鉄鉗号･プロトタイプ |
 | skchr_jaksel_1 | 给你一拳！ | Grit Those Teeth! | 全力パンチ！ |
 | skchr_jaksel_2 | 全神贯注！ | Pay Close Attention! | 全神経集中！ |
-| skchr_jesca2_1 | 坚守阵线 | - | 戦線維持 |
-| skchr_jesca2_2 | 掩蔽护卫 | - | 掩護弾幕 |
-| skchr_jesca2_3 | 饱和迸射 | - | 飽和射撃 |
+| skchr_jesca2_1 | 坚守阵线 | Hold the Line | 戦線維持 |
+| skchr_jesca2_2 | 掩蔽护卫 | Covered Defense | 掩護弾幕 |
+| skchr_jesca2_3 | 饱和迸射 | Saturation Burst | 飽和射撃 |
 | skchr_jesica_1 | 强力击·β型 | Power Strike β | 強撃β |
 | skchr_jesica_2 | 掩护烟幕 | Smokescreen | 煙幕 |
 | skchr_judge_1 | 一锤定音 | Last Word | 裁決のガベル |
@@ -865,7 +865,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_sniper | 空域控制 | - | - |
 | sktok_snipera | 空域控制 | - | - |
 | sktok_sniperb | 空域控制 | - | - |
-| sktok_stdurk_1 | “咔嚓！” | - | ｢カシャッ！｣ |
+| sktok_stdurk_1 | “咔嚓！” | 'Snap!' | ｢カシャッ！｣ |
 | sktok_stmbot | 水汽汽水瓶 | Steam Soda Bottle | スチームサイダー |
 | sktok_stmpq | 景观喷泉 | Decorative Geyser | 景観噴水 |
 | sktok_stone | 阻挡路线 | Obstruct | 進路妨害 |

@@ -182,6 +182,7 @@
   },
   "avg_1032_excu2_1": {
     "en_US": [
+      "Executor",
       "Federico"
     ],
     "ja_JP": [
@@ -206,6 +207,9 @@
     ]
   },
   "avg_1034_jesca2_1": {
+    "en_US": [
+      "Jessica"
+    ],
     "ja_JP": [
       "ジェシカ"
     ],
@@ -238,6 +242,9 @@
     ]
   },
   "avg_107_liskam_1": {
+    "en_US": [
+      "Liskarm"
+    ],
     "ja_JP": [
       "リスカム"
     ],
@@ -1324,6 +1331,9 @@
     ]
   },
   "avg_385_finlpp_1": {
+    "en_US": [
+      "Purestream"
+    ],
     "ja_JP": [
       "セイリュウ"
     ],
@@ -1816,6 +1826,10 @@
     ]
   },
   "avg_4091_ulika2_1": {
+    "en_US": [
+      "Eureka",
+      "Streamer U"
+    ],
     "ja_JP": [
       "Uちゃん",
       "ユーリカ"
@@ -1826,6 +1840,10 @@
     ]
   },
   "avg_4091_ulika_1": {
+    "en_US": [
+      "Streamer U",
+      "U-Gigamax"
+    ],
     "ja_JP": [
       "U-Gigamax",
       "Uちゃん"
@@ -1843,6 +1861,9 @@
     ]
   },
   "avg_4104_coldst_1": {
+    "en_US": [
+      "Helena"
+    ],
     "ja_JP": [
       "ヘレナ"
     ],
@@ -1852,6 +1873,10 @@
   },
   "avg_4105_almond_1": {
     "en_US": [
+      "Almond",
+      "Blacksteel Operator",
+      "Blacksteel Technician",
+      "Laura",
       "罗拉"
     ],
     "ja_JP": [
@@ -1959,6 +1984,9 @@
     ]
   },
   "avg_421_crow_1": {
+    "en_US": [
+      "La Pluma"
+    ],
     "ja_JP": [
       "ラ・プルマ"
     ],
@@ -2671,6 +2699,7 @@
       "Militiaman A",
       "Old Townsfolk",
       "Ordinary Infected B",
+      "Panic-stricken Shop Proprietor",
       "Porter",
       "Produce Vendor",
       "Shopkeeper",
@@ -3627,8 +3656,11 @@
       "Alba",
       "An Audience Member A",
       "An Enthusiastic Spectator",
+      "Angry Man & Woman",
+      "Angry Woman",
       "Camera Crew Leader",
       "Clerk",
+      "Embarrassed Woman",
       "Female Passerby",
       "Female Resident",
       "Female Tourist",
@@ -3718,10 +3750,12 @@
       "An Audience Member B",
       "An Excited Spectator",
       "Angry Lou Seoi Member",
+      "Angry Man",
       "Block Manager?",
       "Confused Fan",
       "Doctor",
       "Drunk",
+      "Embarrassed Man",
       "Excited Fan",
       "Excited Youth",
       "Hapless Man",
@@ -5063,6 +5097,7 @@
       "Operator Chard",
       "Operator Hoger",
       "Operator Shredder",
+      "Rhodes Island Field Operator A",
       "Rhodes Island Logistics Operator",
       "Rhodes Island Operator",
       "Seanson",
@@ -5121,6 +5156,7 @@
       "Piston",
       "Reserve Operator",
       "Rhodes Island Field Operator A",
+      "Rhodes Island Field Operator B",
       "Rhodes Island Operator",
       "Serious Operator",
       "路过的干员"
@@ -5541,6 +5577,10 @@
     ]
   },
   "avg_npc_1034_1": {
+    "en_US": [
+      "Seasoned Hunter",
+      "Woodrow"
+    ],
     "ja_JP": [
       "ウッドロウ",
       "年老いた狩人"
@@ -5551,6 +5591,9 @@
     ]
   },
   "avg_npc_1035_1": {
+    "en_US": [
+      "Leone"
+    ],
     "ja_JP": [
       "レオーネ"
     ],
@@ -5559,6 +5602,9 @@
     ]
   },
   "avg_npc_1036_1": {
+    "en_US": [
+      "'Clip' Cliff"
+    ],
     "ja_JP": [
       "「クリップ」クリフ"
     ],
@@ -5567,6 +5613,9 @@
     ]
   },
   "avg_npc_1037_1": {
+    "en_US": [
+      "Benny"
+    ],
     "ja_JP": [
       "ベニー"
     ],
@@ -5575,6 +5624,9 @@
     ]
   },
   "avg_npc_1038_1": {
+    "en_US": [
+      "Miles"
+    ],
     "ja_JP": [
       "マイルズ"
     ],
@@ -5583,6 +5635,9 @@
     ]
   },
   "avg_npc_1039_1": {
+    "en_US": [
+      "Sylvia"
+    ],
     "ja_JP": [
       "シルヴィア"
     ],
@@ -5619,6 +5674,9 @@
     ]
   },
   "avg_npc_1040_1": {
+    "en_US": [
+      "Blacksteel Intelligence Squad Member"
+    ],
     "ja_JP": [
       "BSW情報隊員"
     ],
@@ -5627,6 +5685,9 @@
     ]
   },
   "avg_npc_1041_1": {
+    "en_US": [
+      "Bank Manager"
+    ],
     "ja_JP": [
       "銀行支店長"
     ],
@@ -5635,6 +5696,11 @@
     ]
   },
   "avg_npc_1042_1": {
+    "en_US": [
+      "Anxious Man",
+      "Furious Resident",
+      "Unhappy-looking Resident"
+    ],
     "ja_JP": [
       "不機嫌な住民",
       "怒る住民",
@@ -5650,6 +5716,12 @@
     ]
   },
   "avg_npc_1043_1": {
+    "en_US": [
+      "Anxious Resident",
+      "Gentle Female Voice",
+      "Helpless Plate Resident",
+      "Irritable Woman"
+    ],
     "ja_JP": [
       "優しい女性の声",
       "怒る女性",
@@ -5666,6 +5738,19 @@
     ]
   },
   "avg_npc_1044_1": {
+    "en_US": [
+      "Boorish Brute",
+      "Cruel Snowfield Bandit",
+      "Guileful Gangster",
+      "Hard-hearted Hoodlum",
+      "Indifferent Snowfield Bandit",
+      "Rabble-rousing Ruffian",
+      "Rude Ruffian",
+      "Sneaky Snowfield Bandit",
+      "Stubborn Snowfield Rioter",
+      "Troublemaking Thug",
+      "Vicious Gangster"
+    ],
     "ja_JP": [
       "冷淡なチンピラ",
       "冷淡な野盗",
@@ -5695,6 +5780,15 @@
   },
   "avg_npc_1045_1": {
     "en_US": [
+      "Blacksteel Engineering Team Member",
+      "Blacksteel Mercenary",
+      "Blacksteel Operator",
+      "Blacksteel Senior Operator",
+      "Blacksteel Squad Member",
+      "Calm Blacksteel Mercenary",
+      "Helpless Blacksteel Mercenary",
+      "Rational Blacksteel Mercenary",
+      "Twitchy Blacksteel Mercenary",
       "工程主管",
       "黑钢佣兵"
     ],
@@ -7058,6 +7152,7 @@
     "en_US": [
       "A Leithanian Nobleman",
       "Announcer",
+      "Bank President",
       "Casino Boss",
       "Elegant Ambassador",
       "Emotional Councilor",
@@ -7396,9 +7491,11 @@
     "en_US": [
       "Alert Pancho Subordinate",
       "Bolívarian Serviceman A",
+      "Bulky Soldier",
       "Captain's Subordinate",
       "Dim-witted Pancho Subordinate",
-      "Quick-witted Pancho Subordinate"
+      "Quick-witted Pancho Subordinate",
+      "Shrewd Soldier"
     ],
     "ja_JP": [
       "パンチョの賢い部下",
@@ -7518,6 +7615,7 @@
   },
   "avg_npc_200": {
     "en_US": [
+      "Flower Shop Owner",
       "Prelim MC",
       "Staff Worker"
     ],
@@ -7536,6 +7634,7 @@
     "en_US": [
       "Casino Guest",
       "Cheerful Male Tourist",
+      "Criminal",
       "Impatient Male Tourist",
       "Mysterious Person",
       "Startled Male Tourist",
@@ -7629,7 +7728,8 @@
       "Headstrong Contestant",
       "Irritated Contestant",
       "Skeptical Customer",
-      "Tourist B"
+      "Tourist B",
+      "Tourist?"
     ],
     "ja_JP": [
       "不屈の選手",
@@ -7666,6 +7766,7 @@
   "avg_npc_207": {
     "en_US": [
       "Bodyguard",
+      "Candela's Subordinate",
       "Casino Boss",
       "Impatient Dossoles Police Officer",
       "Mayor's Bodyguard",
@@ -7998,13 +8099,15 @@
       "Kazimierz Representative",
       "Man in a Suit",
       "Manager",
+      "Mayor's Secretary",
       "National Council Representative",
       "Prosecutor",
       "Raythean Industries Representative",
       "Secretary",
       "Serious Corporate Employee",
       "Staff",
-      "Staff Worker"
+      "Staff Worker",
+      "Travel-Stained Lawyer"
     ],
     "ja_JP": [
       "カジミエーシュ代表",
@@ -8062,10 +8165,13 @@
       "A Commuting Worker",
       "A Corporate Employee",
       "A Corporate Employee A",
+      "Bank Employee",
+      "Bored Bank Employee",
       "Boy",
       "Branch Office Manager",
       "City Hall Staffer",
       "Government Official",
+      "Indifferent Bank Employee",
       "Informant",
       "Knight Scout",
       "Mid-level Manager",
@@ -9427,7 +9533,8 @@
   "avg_npc_329_1": {
     "en_US": [
       "Bean the Infected",
-      "Gordon"
+      "Gordon",
+      "Pale Man"
     ],
     "ja_JP": [
       "ゴードン",
@@ -13880,6 +13987,10 @@
     ]
   },
   "avg_npc_970_1": {
+    "en_US": [
+      "Engineering Department Intern Operator",
+      "Engineering Operator"
+    ],
     "ja_JP": [
       "エンジニアオペレーター",
       "エンジニア部実習オペレーター"
@@ -13892,6 +14003,7 @@
   "avg_npc_972_1": {
     "en_US": [
       "HR Operator",
+      "Rhodes Island Landship Operator A",
       "人事干员"
     ],
     "ja_JP": [
@@ -13911,6 +14023,8 @@
   },
   "avg_npc_973_1": {
     "en_US": [
+      "Logistics Operator",
+      "Rhodes Island Landship Operator B",
       "档案室干员"
     ],
     "ja_JP": [
