@@ -678,22 +678,22 @@ tip: 请善用浏览器的搜索功能
 | enemy_1350_mgcshp | 风情街“星术师” | Fashion Street 'Stellar Caster' | 商店街「スターマジシャン」 |
 | enemy_1350_mgcshp_2 | 风情街“超新星术师” | Fashion Street 'Supernova Caster' | 商店街「メテオマジシャン」 |
 | enemy_1351_yhhshp | “好朋友” | 'Fluffy Buddy' | 「ベストフレンド」 |
-| enemy_1352_eslime | 辐能源石虫 | - | - |
-| enemy_1352_eslime_2 | 辐能源石虫·α | - | - |
-| enemy_1353_esabr | 匪帮混混 | - | - |
-| enemy_1353_esabr_2 | 匪帮混混头目 | - | - |
-| enemy_1354_eghost | 匪帮窃贼 | - | - |
-| enemy_1354_eghost_2 | 匪帮窃贼头目 | - | - |
-| enemy_1355_mrfly | 护障 | - | - |
-| enemy_1355_mrfly_2 | 护障·P | - | - |
-| enemy_1356_egun | 匪帮射手 | - | - |
-| enemy_1356_egun_2 | 匪帮射手头目 | - | - |
-| enemy_1357_erob | 匪帮斧手 | - | - |
-| enemy_1357_erob_2 | 匪帮斧手头目 | - | - |
-| enemy_1358_esheld | 匪帮防御者 | - | - |
-| enemy_1358_esheld_2 | 匪帮防御者头目 | - | - |
-| enemy_1359_ekulsr | 匪帮轰击者 | - | - |
-| enemy_1359_ekulsr_2 | 匪帮轰击者头目 | - | - |
+| enemy_1352_eslime | 辐能源石虫 | - | ホウシャムシ |
+| enemy_1352_eslime_2 | 辐能源石虫·α | - | ホウシャムシ・α |
+| enemy_1353_esabr | 匪帮混混 | - | 野盗チンピラ |
+| enemy_1353_esabr_2 | 匪帮混混头目 | - | 野盗チンピラの頭目 |
+| enemy_1354_eghost | 匪帮窃贼 | - | 野盗スリ師 |
+| enemy_1354_eghost_2 | 匪帮窃贼头目 | - | 野盗スリ師の頭目 |
+| enemy_1355_mrfly | 护障 | - | バリケード |
+| enemy_1355_mrfly_2 | 护障·P | - | バリケードP |
+| enemy_1356_egun | 匪帮射手 | - | 野盗ブラスター |
+| enemy_1356_egun_2 | 匪帮射手头目 | - | 野盗ブラスターの頭目 |
+| enemy_1357_erob | 匪帮斧手 | - | 野盗ソーヤー |
+| enemy_1357_erob_2 | 匪帮斧手头目 | - | 野盗ソーヤーの頭目 |
+| enemy_1358_esheld | 匪帮防御者 | - | 野盗ディフェンダー |
+| enemy_1358_esheld_2 | 匪帮防御者头目 | - | 野盗ディフェンダーの頭目 |
+| enemy_1359_ekulsr | 匪帮轰击者 | - | 野盗ボマー |
+| enemy_1359_ekulsr_2 | 匪帮轰击者头目 | - | 野盗ボマーの頭目 |
 | enemy_1360_dfello | 新生血裔 | - | - |
 | enemy_1361_dthrow | 萨卡兹子裔轰击者 | - | - |
 | enemy_1361_dthrow_2 | 萨卡兹子裔毁击者 | - | - |
@@ -833,7 +833,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1543_cstlrs | 克丽斯腾 | Kristen | クリステン |
 | enemy_1544_cledub | “花匠” | 'The Gardener' | 「ガーデナー」 |
 | enemy_1545_shpkg | 多利，“羊之主” | Dolly, Sovereign of Sheep | 「羊主」ドリー |
-| enemy_1546_cliff | “桥夹”克里夫 | - | - |
+| enemy_1546_cliff | “桥夹”克里夫 | - | 「クリップ」クリフ |
 | enemy_1547_blord | 杜卡雷，“君主之红” | - | - |
 | enemy_1548_ltniak | 赫尔昏佐伦，“巫王” | - | - |
 | enemy_1549_windoc | 哈洛德·克雷加文 | - | - |

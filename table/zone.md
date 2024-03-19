@@ -129,8 +129,8 @@ tip: 请善用浏览器的搜索功能
 | act27side_zone1 | 温泉假日 | A Holiday at the Hot Springs | 温泉リゾート |
 | act27side_zone2 | 城市寻宝 | Treasurehunting in Siesta | トレジャーハント |
 | act27side_zone3 | 岩浆冲浪 | Surfing the Lava | マグマサーフィン |
-| act28side_zone1 | 苍白平台 | - | - |
-| act28side_zone2 | 黑色舰船 | - | - |
+| act28side_zone1 | 苍白平台 | - | 青白い町 |
+| act28side_zone2 | 黑色舰船 | - | 黒き艦船 |
 | act29side_zone1 | 朝见双塔 | - | - |
 | act29side_zone2 | 恩典永恒 | - | - |
 | act29side_zone3 | 权威无情 | - | - |

@@ -238,7 +238,7 @@ tip: 请善用浏览器的搜索功能
 | act1bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
 | act1d0_token_gold_rep_1 | 赏金猎人金币 | Bounty Coin | ラッキーコイン |
 | act1lock_point_reward | 赛事奖章 | Competition Medals | 競技メダル |
-| act1mainlinebp_token_star | 里程碑碎片 | - | - |
+| act1mainlinebp_token_star | 里程碑碎片 | - | マイルストーンの欠片 |
 | act1sandbox_milestone_point | 繁荣证章 | Badge of Prosperity | 繁栄の証 |
 | act20side_token_book | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
 | act20side_token_book_rep_1 | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
@@ -259,7 +259,7 @@ tip: 请善用浏览器的搜索功能
 | act25side_token_key02 | 特殊作战许可·β | Special Ops Permit β | 特殊作戦許可β |
 | act26side_token_fragmenta | 圣像碎片 | Holy Statue Fragments | 聖像のかけら |
 | act27side_token_fur | 毛绒绒生物的毛 | Fluffy Critter Wool | ピンクのふわふわ |
-| act28side_token_box | 劣质燃料 | - | - |
+| act28side_token_box | 劣质燃料 | - | 粗悪燃料 |
 | act29side_frag_1 | 乐之节符 | - | - |
 | act29side_frag_2 | 怒之节符 | - | - |
 | act29side_frag_3 | 哀之节符 | - | - |
@@ -515,7 +515,7 @@ tip: 请善用浏览器的搜索功能
 | clue_Rap_5_rep_1 | 说唱动态5 | Rap Trend 5 | ラップサイド5 |
 | et_ObsidianPass | 黑曜石节门票 | Obsidian Festival Ticket | フェスチケット |
 | et_ObsidianPass_rep_1 | 黑曜石节门票 | Obsidian Festival Ticket | フェスチケット |
-| favor_add_ulika | 主播U的直播切片 | - | - |
+| favor_add_ulika | 主播U的直播切片 | - | ライバーUの配信切り抜き |
 | itempack_gacha_1 | 福运鼓鼓礼袋 | Bounteous Fortunes Gift Bag | 幸運満タンパック |
 | itempack_mod_10 | 狙击芯片组印刻仪 | Sniper Chip Pack Etcher | 中級狙撃SoCプリンター |
 | itempack_mod_11 | 术师芯片组印刻仪 | Caster Chip Pack Etcher | 中級術師SoCプリンター |
@@ -560,7 +560,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_1031_slent2 | 淬羽赫默的信物 | Silence the Paradigmatic's Token | 淬羽サイレンスの印 |
 | p_char_1032_excu2 | 圣约送葬人的信物 | Executor the Ex Foedere's Token | 聖約イグゼキュターの印 |
 | p_char_1033_swire2 | 琳琅诗怀雅的信物 | Swire the Elegant Wit's Token | 琳琅スワイヤーの印 |
-| p_char_1034_jesca2 | 涤火杰西卡的信物 | - | - |
+| p_char_1034_jesca2 | 涤火杰西卡的信物 | - | 滌火ジェシカの印 |
 | p_char_103_angel | 能天使的信物 | Exusiai's Token | エクシアの印 |
 | p_char_106_franka | 芙兰卡的信物 | Franka's Token | フランカの印 |
 | p_char_107_liskam | 雷蛇的信物 | Liskarm's Token | リスカムの印 |
@@ -784,8 +784,8 @@ tip: 请善用浏览器的搜索功能
 | p_char_4098_vvana | 薇薇安娜的信物 | - | - |
 | p_char_4100_caper | 跃跃的信物 | - | - |
 | p_char_4102_threye | 凛视的信物 | Valarqvin's Token | ヴァラルクビンの印 |
-| p_char_4104_coldst | 冰酿的信物 | - | - |
-| p_char_4105_almond | 杏仁的信物 | - | - |
+| p_char_4104_coldst | 冰酿的信物 | - | コールドショットの印 |
+| p_char_4105_almond | 杏仁的信物 | - | アーモンドの印 |
 | p_char_4106_bryota | 苍苔的信物 | Bryophyta's Token | ブライオファイタの印 |
 | p_char_4107_vrdant | 维荻的信物 | - | - |
 | p_char_4109_baslin | 深律的信物 | - | - |
@@ -873,7 +873,7 @@ tip: 请善用浏览器的搜索功能
 | randomMaterial_6 | 罗德岛物资补给III | Rhodes Island Supplies III | 補給物資・ロドスIII |
 | randomMaterial_7 | 罗德岛物资补给IV | Rhodes Island Supplies IV | 補給物資・ロドスIV |
 | randomMaterial_8 | 罗德岛物资补给V | Rhodes Island Supplies V | 補給物資・ロドスV |
-| randomMaterial_9 | 罗德岛物资补给VI | - | - |
+| randomMaterial_9 | 罗德岛物资补给VI | - | 補給物資・ロドスVI |
 | randomMaterial_leith2 | 查访补给 | - | - |
 | randomMaterial_rhine2 | 技术调查补给 | Technological Investigation Supply | 技術調査補給 |
 | randomMaterial_siesta2 | 峯联贸易物流补给 | Mountaincomm Trade Supplies | フェンレン貿易物流補給 |
@@ -966,7 +966,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_guitar | 火蓝之心家具收藏包 | Heart of Surging Flame Furniture Pack | 青く燃ゆる心家具パック |
 | uni_set_icu | 遗尘漫步家具收藏包 | A Walk in the Dust Furniture Pack | 遺塵の道を家具パック |
 | uni_set_inkArt | 画中人家具收藏包 | Who is Real Furniture Pack | 画中人家具パック |
-| uni_set_kazimierz | 长夜临光家具收藏包 | - | - |
+| uni_set_kazimierz | 长夜临光家具收藏包 | - | ニアーライト家具パック |
 | uni_set_nightView | 沃伦姆德的薄暮家具收藏包 | Twilight of Wolumonde Furniture Pack | ウォルモンドの薄暮家具パック |
 | uni_set_outdoor_1 | 海滨印象家具收藏包一 | Beachside Impressions Furniture Pack I | 海辺風家具パックvol.1 |
 | uni_set_outdoor_2 | 海滨印象家具收藏包二 | Beachside Impressions Furniture Pack II | 海辺風家具パックvol.2 |
@@ -1004,7 +1004,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_full_sophia | 鞭刃的私人信件 | Whislash's Personal Letter | ウィスラッシュの手紙 |
 | voucher_full_takila | 龙舌兰的私人信件 | Tequila's Personal Letter | テキーラの手紙 |
 | voucher_full_tomimi | 特米米的私人信件 | Tomimi's Personal Letter | トミミの手紙 |
-| voucher_full_wildmn | 野鬃的私人信件 | - | - |
+| voucher_full_wildmn | 野鬃的私人信件 | - | ワイルドメインの手紙 |
 | voucher_full_zebra | 暴雨的私人信件 | Heavyrain's Personal Letter | ヘビーレインの手紙 |
 | voucher_item_4pick1 | 干员兑换券 | Operator Voucher | オペレーター指名券 |
 | voucher_item_4pick1_1803 | 干员兑换券 | Operator Voucher | オペレーター指名券 |
@@ -1027,5 +1027,5 @@ tip: 请善用浏览器的搜索功能
 | voucher_recruitR5_pick2701 | 资深干员调用凭证 | Senior Operator Transfer Permit | ★5招聘指名券 |
 | voucher_recruitR5_pick3801 | 资深干员调用凭证 | Senior Operator Transfer Permit | ★5招聘指名券 |
 | voucher_skin | 时装自选凭证 | Outfit Voucher | コーデ交換券 |
-| voucher_ulika | U-Official的文件夹 | - | - |
+| voucher_ulika | U-Official的文件夹 | - | U-Officialのバインダー |
 | voucher_vigil | 伺夜的文件夹 | Vigil's Folder | ヴィジェルの書類挟み |

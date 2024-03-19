@@ -150,6 +150,7 @@ tip: 请善用浏览器的搜索功能
 | _NORM_23_2_4 | - | The Front That Was | 先途追想 |
 | _NORM_24_0_6 | - | Joint Operation | 連合作戦 |
 | _NORM_25_0_8 | - | Joint Operation | 連合作戦 |
+| _NORM_26_0_7 | - | - | 先途追想 |
 | _NORM_2_0_1 | - | Chi Xiao, the Hidden Dragon | 赤龍乗雲 |
 | _NORM_2_0_3 | - | Lungmen Spec Ops Headhunting | 龍門特別行動要員 |
 | _NORM_3_0_1 | - | Frozen Land | 果てなき氷原 |
@@ -184,3 +185,4 @@ tip: 请善用浏览器的搜索功能
 | _SINGLE_25_0_3 | - | Dissonanzen | 不協和音程 |
 | _SINGLE_26_0_1 | - | The Woe-cleansing Hurricane | 厄災を射落とす颶風 |
 | _SINGLE_26_0_3 | - | Pathfinder of Sands | 砂漠の導き手 |
+| _SINGLE_26_0_5 | - | - | 銃声 |

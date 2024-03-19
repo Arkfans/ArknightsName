@@ -479,6 +479,9 @@
     "en_US": "Joint Operation",
     "ja_JP": "連合作戦"
   },
+  "_NORM_26_0_7": {
+    "ja_JP": "先途追想"
+  },
   "_NORM_2_0_1": {
     "en_US": "Chi Xiao, the Hidden Dragon",
     "ja_JP": "赤龍乗雲"
@@ -614,5 +617,8 @@
   "_SINGLE_26_0_3": {
     "en_US": "Pathfinder of Sands",
     "ja_JP": "砂漠の導き手"
+  },
+  "_SINGLE_26_0_5": {
+    "ja_JP": "銃声"
   }
 }

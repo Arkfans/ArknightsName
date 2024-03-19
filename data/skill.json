@@ -70,9 +70,11 @@
     "zh_CN": "信影流·十文字胜"
   },
   "skchr_almond_1": {
+    "ja_JP": "マグネットキャッチャー",
     "zh_CN": "磁力抓取"
   },
   "skchr_almond_2": {
+    "ja_JP": "ハイパートラクション",
     "zh_CN": "强力牵引"
   },
   "skchr_amedic_1": {
@@ -616,6 +618,7 @@
     "zh_CN": "双弦开弓"
   },
   "skchr_coldst_2": {
+    "ja_JP": "夜に酔いしれて",
     "zh_CN": "酣醉之夜"
   },
   "skchr_cqbw_1": {
@@ -1429,12 +1432,15 @@
     "zh_CN": "全神贯注！"
   },
   "skchr_jesca2_1": {
+    "ja_JP": "戦線維持",
     "zh_CN": "坚守阵线"
   },
   "skchr_jesca2_2": {
+    "ja_JP": "掩護弾幕",
     "zh_CN": "掩蔽护卫"
   },
   "skchr_jesca2_3": {
+    "ja_JP": "飽和射撃",
     "zh_CN": "饱和迸射"
   },
   "skchr_jesica_1": {
@@ -4126,6 +4132,7 @@
     "zh_CN": "空域控制"
   },
   "sktok_stdurk_1": {
+    "ja_JP": "｢カシャッ！｣",
     "zh_CN": "“咔嚓！”"
   },
   "sktok_stmbot": {

@@ -1135,6 +1135,7 @@
     "zh_CN": "赛事奖章"
   },
   "act1mainlinebp_token_star": {
+    "ja_JP": "マイルストーンの欠片",
     "zh_CN": "里程碑碎片"
   },
   "act1sandbox_milestone_point": {
@@ -1232,6 +1233,7 @@
     "zh_CN": "毛绒绒生物的毛"
   },
   "act28side_token_box": {
+    "ja_JP": "粗悪燃料",
     "zh_CN": "劣质燃料"
   },
   "act29side_frag_1": {
@@ -2451,6 +2453,7 @@
     "zh_CN": "黑曜石节门票"
   },
   "favor_add_ulika": {
+    "ja_JP": "ライバーUの配信切り抜き",
     "zh_CN": "主播U的直播切片"
   },
   "itempack_gacha_1": {
@@ -2674,6 +2677,7 @@
     "zh_CN": "琳琅诗怀雅的信物"
   },
   "p_char_1034_jesca2": {
+    "ja_JP": "滌火ジェシカの印",
     "zh_CN": "涤火杰西卡的信物"
   },
   "p_char_103_angel": {
@@ -3776,9 +3780,11 @@
     "zh_CN": "凛视的信物"
   },
   "p_char_4104_coldst": {
+    "ja_JP": "コールドショットの印",
     "zh_CN": "冰酿的信物"
   },
   "p_char_4105_almond": {
+    "ja_JP": "アーモンドの印",
     "zh_CN": "杏仁的信物"
   },
   "p_char_4106_bryota": {
@@ -4187,6 +4193,7 @@
     "zh_CN": "罗德岛物资补给V"
   },
   "randomMaterial_9": {
+    "ja_JP": "補給物資・ロドスVI",
     "zh_CN": "罗德岛物资补给VI"
   },
   "randomMaterial_leith2": {
@@ -4638,6 +4645,7 @@
     "zh_CN": "画中人家具收藏包"
   },
   "uni_set_kazimierz": {
+    "ja_JP": "ニアーライト家具パック",
     "zh_CN": "长夜临光家具收藏包"
   },
   "uni_set_nightView": {
@@ -4814,6 +4822,7 @@
     "zh_CN": "特米米的私人信件"
   },
   "voucher_full_wildmn": {
+    "ja_JP": "ワイルドメインの手紙",
     "zh_CN": "野鬃的私人信件"
   },
   "voucher_full_zebra": {
@@ -4921,6 +4930,7 @@
     "zh_CN": "时装自选凭证"
   },
   "voucher_ulika": {
+    "ja_JP": "U-Officialのバインダー",
     "zh_CN": "U-Official的文件夹"
   },
   "voucher_vigil": {
