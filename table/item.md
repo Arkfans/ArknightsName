@@ -955,6 +955,7 @@ tip: 请善用浏览器的搜索功能
 | token_Wristband | 黑曜石节手环 | Obsidian Festival Bracelet | リストバンド |
 | uni_set_NHL | 吾导先路家具收藏包 | - | - |
 | uni_set_SargonFair_1 | 阿尔萨兰家具收藏包一 | - | - |
+| uni_set_SargonFair_2 | 阿尔萨兰家具收藏包二 | - | - |
 | uni_set_abyssal | 覆潮之下家具收藏包 | Under Tides Furniture Pack | 潮汐の下家具パック |
 | uni_set_act10d5 | 乌萨斯的孩子们家具收藏包 | Children of Ursus Furniture Pack | ウルサスの子供たち家具パック |
 | uni_set_act7d5 | 午间逸话家具收藏包 | Stories of Afternoon Furniture Pack | 午後の逸話家具パック |

@@ -447,6 +447,12 @@
     "ja_JP": "始発拠点",
     "zh_CN": "始发营地"
   },
+  "act1r6sre_zone1": {
+    "zh_CN": "行动记录"
+  },
+  "act1r6sre_zone2": {
+    "zh_CN": "备战训练"
+  },
   "act20side_zone1": {
     "en_US": "Underground Sightseeing",
     "ja_JP": "地底観光",

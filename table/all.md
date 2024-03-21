@@ -733,6 +733,7 @@ tip: 请善用浏览器的搜索功能
 | char_185_frncat@wild#7 | 营地炊烟 | Campfire Cooking Smoke | キャンプのお楽しみ |
 | char_187_ccheal@epoque#2 | 战医 | Combat Medic | 戦医 |
 | char_188_helage@boc#2 | 歧路幻影 | Octopath Illusion | 岐路幻影 |
+| char_192_falco@marthe#6 | 从容时刻 | - | - |
 | char_193_frostl@boc#4 | 破冰 | Breaking the Ice | 砕氷 |
 | char_195_glassb@kitchen#1 | 书味 | Bibliosmia | 書の味わい |
 | char_196_sunbr@summer#1 | 夏卉 FA011 | Summer Flowers FA011 | 夏の花弁FA011 |
@@ -2024,6 +2025,7 @@ tip: 请善用浏览器的搜索功能
 | act1lock | 荷谟伊智境 | Hymnoi Wisdom | ヒュムノイの叡智 |
 | act1mainbuff | 战备支援 | Tactical Support | 作戦支援 |
 | act1mainlinebp | 战备支援 | Tactical Support | 作戦支援 |
+| act1r6sre | 源石尘行动·复刻 | - | - |
 | act1sandbox | 生息演算：沙中之火 | Reclamation Algorithm - Fire Within the Sand | 生息演算：砂中の火 |
 | act1signvs | 端阳正午签到活动 | May the Sunshine Still Sign-In Event | スタンプラリー |
 | act1switch | 宿于繁星合作活动 | - | - |
@@ -3108,6 +3110,7 @@ tip: 请善用浏览器的搜索功能
 | token_Wristband | 黑曜石节手环 | Obsidian Festival Bracelet | リストバンド |
 | uni_set_NHL | 吾导先路家具收藏包 | - | - |
 | uni_set_SargonFair_1 | 阿尔萨兰家具收藏包一 | - | - |
+| uni_set_SargonFair_2 | 阿尔萨兰家具收藏包二 | - | - |
 | uni_set_abyssal | 覆潮之下家具收藏包 | Under Tides Furniture Pack | 潮汐の下家具パック |
 | uni_set_act10d5 | 乌萨斯的孩子们家具收藏包 | Children of Ursus Furniture Pack | ウルサスの子供たち家具パック |
 | uni_set_act7d5 | 午间逸话家具收藏包 | Stories of Afternoon Furniture Pack | 午後の逸話家具パック |
@@ -3235,6 +3238,7 @@ tip: 请善用浏览器的搜索功能
 | LINKAGE_17_0_1 | 进攻·防守·战术交汇 | - | - |
 | LINKAGE_36_0_1 | 砺火成锋 | - | - |
 | LINKAGE_48_0_1 | 突破，援助，任务循环 | - | - |
+| LINKAGE_48_0_3 | 进攻·防守·战术交汇 | - | - |
 | NORM_0_1_3 | 银灰色的荣耀 | - | - |
 | NORM_10_0_1 | 雾漫荒林 | - | - |
 | NORM_10_0_3 | 雪落晨心 | - | - |
@@ -5566,6 +5570,8 @@ tip: 请善用浏览器的搜索功能
 | act19sre_zone2 | 莱茵总部 | Rhine Headquarters | ライン生命本社 |
 | act1bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act1lock_zone1 | 始发营地 | Base Camp | 始発拠点 |
+| act1r6sre_zone1 | 行动记录 | - | - |
+| act1r6sre_zone2 | 备战训练 | - | - |
 | act20side_zone1 | 地底观光 | Underground Sightseeing | 地底観光 |
 | act20side_zone2 | 文化冲击 | Cultural Shock | 異文化交流 |
 | act20side_zone3 | 升降梯整备 | Elevator Maintenance | 昇降機整備 |

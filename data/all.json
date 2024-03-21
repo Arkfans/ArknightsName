@@ -5589,6 +5589,12 @@
       "zh_CN": "歧路幻影"
     }
   },
+  "char_192_falco@marthe#6": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "从容时刻"
+    }
+  },
   "char_193_frostl@boc#4": {
     "type": "SKIN",
     "names": {
@@ -15583,6 +15589,12 @@
       "zh_CN": "战备支援"
     }
   },
+  "act1r6sre": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "源石尘行动·复刻"
+    }
+  },
   "act1sandbox": {
     "type": "ACTIVITY",
     "names": {
@@ -24055,6 +24067,12 @@
       "zh_CN": "阿尔萨兰家具收藏包一"
     }
   },
+  "uni_set_SargonFair_2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "阿尔萨兰家具收藏包二"
+    }
+  },
   "uni_set_abyssal": {
     "type": "ITEM",
     "names": {
@@ -25007,6 +25025,12 @@
     "type": "POOL",
     "names": {
       "zh_CN": "突破，援助，任务循环"
+    }
+  },
+  "LINKAGE_48_0_3": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "进攻·防守·战术交汇"
     }
   },
   "NORM_0_1_3": {
@@ -42949,6 +42973,18 @@
       "en_US": "Base Camp",
       "ja_JP": "始発拠点",
       "zh_CN": "始发营地"
+    }
+  },
+  "act1r6sre_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "行动记录"
+    }
+  },
+  "act1r6sre_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "备战训练"
     }
   },
   "act20side_zone1": {
