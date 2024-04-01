@@ -519,6 +519,7 @@ tip: 请善用浏览器的搜索功能
 | trap_144_ads | 临时掩护装置 | - | - |
 | trap_145_edd | 诡雷布设装置 | - | - |
 | trap_146_dhdcr | 天桩 | - | - |
+| trap_163_foolcrate | 障碍物 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |
 | trap_401_xbfato | 木材采集站 | Basic Gathering Hub | 採取ロボ用基地 |
 | trap_403_wfactory | 蟹蟹抽水泵 | Crabbie Pumpie | カニカニポンプ |
@@ -2093,6 +2094,7 @@ tip: 请善用浏览器的搜索功能
 イベント |
 | act5d0 | 喧闹法则 | Code of Brawl | 喧騒の掟 |
 | act5d1 | 危机合约 | Contingency Contract | 危機契約 |
+| act5fun | 愚人节活动 | - | - |
 | act5pray | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |
 | act5sre | 沃伦姆德的薄暮·复刻 | Twilight of Wolumonde - Rerun | ウォルモンドの薄暮・復刻 |
 | act6d0 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |

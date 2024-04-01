@@ -4015,6 +4015,12 @@
       "zh_CN": "天桩"
     }
   },
+  "trap_163_foolcrate": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "障碍物"
+    }
+  },
   "trap_400_xbfarm": {
     "type": "TRAP",
     "names": {
@@ -16089,6 +16095,12 @@
       "en_US": "Contingency Contract",
       "ja_JP": "危機契約",
       "zh_CN": "危机合约"
+    }
+  },
+  "act5fun": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "愚人节活动"
     }
   },
   "act5pray": {
