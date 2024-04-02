@@ -757,7 +757,7 @@ tip: 请善用浏览器的搜索功能
 | char_204_platnm@summer#3 | 灿阳朝露 SD05 | Shimmering Dew SD05 | 炎陽煌く露SD05 |
 | char_206_gnosis@boc#4 | 先驱 | Forerunner | 先駆 |
 | char_208_melan@epoque#1 | 威塞克斯的信件 | Letters from Wessex | ウェセックスレター |
-| char_209_ardign@epoque#26 | 晴日 | - | - |
+| char_209_ardign@epoque#26 | 晴日 | - | ソレイユ |
 | char_209_ardign@snow#1 | 快乐卫士 | Cheerful Guardian | ハッピーナイト |
 | char_210_stward@sale#6 | 风雪邀请 | Snowstorm Invitation | 風雪のいざない |
 | char_211_adnach@sale#5 | 无痕行者 | Traceless Walker | 足跡なき使者 |
@@ -1942,10 +1942,10 @@ tip: 请善用浏览器的搜索功能
 | enemy_7030_skodo | 纵尘者 | - | - |
 | enemy_7031_ghking | 湮灭者 | - | - |
 | enemy_7034_xbmsn | 勤奋劳工 | - | - |
-| enemy_8001_flmlod | 熔戈者，护王余火 | - | - |
-| enemy_8001_flmlod_2 | 熔戈者，护王余火 | - | - |
-| enemy_8001_flmlod_3 | 熔戈者，护王余火 | - | - |
-| enemy_8006_flmgd | 再铸扈从 | - | - |
+| enemy_8001_flmlod | 熔戈者，护王余火 | - | スヴェルドメルター、王を守る余炎 |
+| enemy_8001_flmlod_2 | 熔戈者，护王余火 | - | スヴェルドメルター、王を守る余炎 |
+| enemy_8001_flmlod_3 | 熔戈者，护王余火 | - | スヴェルドメルター、王を守る余炎 |
+| enemy_8006_flmgd | 再铸扈从 | - | 再鋳造されし忠僕 |
 | 0D5act | 限时任务 | Limited-time Mission | 期間限定任務 |
 | 1stact | 赏金猎人金币 | Bounty Coin | ラッキーコイン |
 | act10d5 | 乌萨斯的孩子们 | Children of Ursus | ウルサスの子供たち |
@@ -2083,7 +2083,7 @@ tip: 请善用浏览器的搜索功能
 | act3fun | 愚人节活动 | April Fools' Day Event | エイプリルフール |
 | act3mine | 葫芦谷矿区登录活动 | Gourd Valley Mining Area Login Event | ゴードバレー採鉱区 |
 | act3pray | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |
-| act42d0 | 纷争演绎 | - | - |
+| act42d0 | 纷争演绎 | - | 紛争演繹 |
 | act4bossrush | 引航者试炼 | - | - |
 | act4d0 | 战地秘闻 | Operational Intelligence | 戦地の逸話 |
 | act4d2 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -2438,7 +2438,7 @@ tip: 请善用浏览器的搜索功能
 | act3bossrush_relic_03 | 经验习得 | Experience Acquisition | 経験習得 |
 | act3bossrush_relic_04 | 过热运转 | Overcharge | オーバーヒート |
 | act3bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
-| act42d0_token_evaluation | 试验数据集 | - | - |
+| act42d0_token_evaluation | 试验数据集 | - | テストデータ集 |
 | act4bossrush_milestone_point | 试炼经验 | - | - |
 | act4bossrush_relic_01 | 轻量化载荷 | - | - |
 | act4bossrush_relic_02 | 核心预热 | - | - |
@@ -5749,7 +5749,7 @@ tip: 请善用浏览器的搜索功能
 | story_aurora_set_1_story_1 | 她所见 | What She Saw | 彼女の見たいもの |
 | story_ayer_set_1_story_1 | 黄沙觅迹 | Seeker in the Sands | 黄砂の追跡 |
 | story_beewax_set_1_story_1 | 黄沙归途 | Trail of Sands | 黄砂の帰路 |
-| story_bena_set_1_story_1 | 简单的愿望 | - | - |
+| story_bena_set_1_story_1 | 简单的愿望 | - | 些細な願いごと |
 | story_bgsnow_set_1_story_1 | 墨迹已落 | Fallen Inktrails | インクの染み |
 | story_bibeak_set_1_story_1 | 破壳 | Shell Break | 殻を破る |
 | story_bibeak_set_2_story_1 | 走出那条长长的走廊 | Through the Long Hallway | 長い廊下を抜けて |
@@ -5785,11 +5785,11 @@ tip: 请善用浏览器的搜索功能
 | story_chimes_set_1_story_1 | 落叶何归 | - | - |
 | story_chnut_set_1_story_1 | 黑色石头 | Black Rocks | 「黒い石」 |
 | story_chyue_set_1_story_1 | 昔我往矣 | Once Upon a Time, I Wandered Afar | 昔我往きて、君と携行す |
-| story_clour_set_1_story_1 | 安身之处 | - | - |
+| story_clour_set_1_story_1 | 安身之处 | - | 安らぎの場所 |
 | story_crow_set_1_story_1 | 坚韧的羽毛 | Plumas de Tenacidad | 強靭な羽根 |
 | story_ctable_set_1_story_1 | 飞进窗的羽兽 | A Fowl Through the Window | 窓から飛び込んだ羽獣 |
 | story_cutter_set_1_story_1 | 速食食品 | Meals, Ready-to-Eat | 携行食 |
-| story_dagda_set_1_story_1 | 脚步不停 | - | - |
+| story_dagda_set_1_story_1 | 脚步不停 | - | 止まらない歩み |
 | story_deepcl_set_1_story_1 | 幽蓝怀想 | Azure Memories | 深き青の追想 |
 | story_doroth_set_1_story_1 | 何处是我朋友的家 | Where is the Friend's House? | 友の故郷はいずこ |
 | story_durin_set_1_story_1 | 午休时间 | Lunchtime Nap | お昼休み |

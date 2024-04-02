@@ -5774,6 +5774,7 @@
   "char_209_ardign@epoque#26": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "ソレイユ",
       "zh_CN": "晴日"
     }
   },
@@ -14946,24 +14947,28 @@
   "enemy_8001_flmlod": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "スヴェルドメルター、王を守る余炎",
       "zh_CN": "熔戈者，护王余火"
     }
   },
   "enemy_8001_flmlod_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "スヴェルドメルター、王を守る余炎",
       "zh_CN": "熔戈者，护王余火"
     }
   },
   "enemy_8001_flmlod_3": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "スヴェルドメルター、王を守る余炎",
       "zh_CN": "熔戈者，护王余火"
     }
   },
   "enemy_8006_flmgd": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "再鋳造されし忠僕",
       "zh_CN": "再铸扈从"
     }
   },
@@ -16026,6 +16031,7 @@
   "act42d0": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "紛争演繹",
       "zh_CN": "纷争演绎"
     }
   },
@@ -18794,6 +18800,7 @@
   "act42d0_token_evaluation": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "テストデータ集",
       "zh_CN": "试验数据集"
     }
   },
@@ -44340,6 +44347,7 @@
   "story_bena_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "些細な願いごと",
       "zh_CN": "简单的愿望"
     }
   },
@@ -44616,6 +44624,7 @@
   "story_clour_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "安らぎの場所",
       "zh_CN": "安身之处"
     }
   },
@@ -44646,6 +44655,7 @@
   "story_dagda_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "止まらない歩み",
       "zh_CN": "脚步不停"
     }
   },
