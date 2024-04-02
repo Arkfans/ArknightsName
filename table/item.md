@@ -281,7 +281,7 @@ tip: 请善用浏览器的搜索功能
 | act3bossrush_relic_03 | 经验习得 | Experience Acquisition | 経験習得 |
 | act3bossrush_relic_04 | 过热运转 | Overcharge | オーバーヒート |
 | act3bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
-| act42d0_token_evaluation | 试验数据集 | - | テストデータ集 |
+| act42d0_token_evaluation | 试验数据集 | Experimental Dataset | テストデータ集 |
 | act4bossrush_milestone_point | 试炼经验 | - | - |
 | act4bossrush_relic_01 | 轻量化载荷 | - | - |
 | act4bossrush_relic_02 | 核心预热 | - | - |

@@ -974,7 +974,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_7030_skodo | 纵尘者 | - | - |
 | enemy_7031_ghking | 湮灭者 | - | - |
 | enemy_7034_xbmsn | 勤奋劳工 | - | - |
-| enemy_8001_flmlod | 熔戈者，护王余火 | - | スヴェルドメルター、王を守る余炎 |
-| enemy_8001_flmlod_2 | 熔戈者，护王余火 | - | スヴェルドメルター、王を守る余炎 |
-| enemy_8001_flmlod_3 | 熔戈者，护王余火 | - | スヴェルドメルター、王を守る余炎 |
-| enemy_8006_flmgd | 再铸扈从 | - | 再鋳造されし忠僕 |
+| enemy_8001_flmlod | 熔戈者，护王余火 | Sverdsmeltr, Guardian Ember of the King | スヴェルドメルター、王を守る余炎 |
+| enemy_8001_flmlod_2 | 熔戈者，护王余火 | Sverdsmeltr, Guardian Ember of the King | スヴェルドメルター、王を守る余炎 |
+| enemy_8001_flmlod_3 | 熔戈者，护王余火 | Sverdsmeltr, Guardian Ember of the King | スヴェルドメルター、王を守る余炎 |
+| enemy_8006_flmgd | 再铸扈从 | Reforged Retinue | 再鋳造されし忠僕 |

@@ -116,7 +116,7 @@ tip: 请善用浏览器的搜索功能
 | char_204_platnm@summer#3 | 灿阳朝露 SD05 | Shimmering Dew SD05 | 炎陽煌く露SD05 |
 | char_206_gnosis@boc#4 | 先驱 | Forerunner | 先駆 |
 | char_208_melan@epoque#1 | 威塞克斯的信件 | Letters from Wessex | ウェセックスレター |
-| char_209_ardign@epoque#26 | 晴日 | - | ソレイユ |
+| char_209_ardign@epoque#26 | 晴日 | Sunny Day | ソレイユ |
 | char_209_ardign@snow#1 | 快乐卫士 | Cheerful Guardian | ハッピーナイト |
 | char_210_stward@sale#6 | 风雪邀请 | Snowstorm Invitation | 風雪のいざない |
 | char_211_adnach@sale#5 | 无痕行者 | Traceless Walker | 足跡なき使者 |

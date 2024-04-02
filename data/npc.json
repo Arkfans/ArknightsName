@@ -624,6 +624,9 @@
     ]
   },
   "avg_190_clour_1": {
+    "en_US": [
+      "Vermeil"
+    ],
     "ja_JP": [
       "ヴァーミル"
     ],
@@ -643,6 +646,9 @@
     ]
   },
   "avg_193_frostl_1": {
+    "en_US": [
+      "Frostleaf"
+    ],
     "ja_JP": [
       "フロストリーフ"
     ],
@@ -1284,6 +1290,10 @@
     ]
   },
   "avg_369_bena_1": {
+    "en_US": [
+      "??",
+      "Bena"
+    ],
     "ja_JP": [
       "ベナ",
       "？？"
@@ -5250,6 +5260,7 @@
   },
   "avg_npc_093": {
     "en_US": [
+      "Grandmother",
       "Old Granny",
       "Old Lady",
       "Old Woman",
@@ -11122,6 +11133,7 @@
   },
   "avg_npc_498_1": {
     "en_US": [
+      "Daddy",
       "Dispirited Infected",
       "Drunken Infected",
       "Emotional Infected",
@@ -11171,6 +11183,7 @@
       "Frau Perry",
       "Leithanian Woman",
       "Miss Bachmann",
+      "Mummy",
       "Passerby Infected",
       "Shopkeeper",
       "Worn-out Infected"
@@ -14016,6 +14029,7 @@
   "avg_npc_972_1": {
     "en_US": [
       "HR Operator",
+      "Logistics Operator",
       "Rhodes Island Landship Operator A",
       "人事干员"
     ],
@@ -14037,6 +14051,7 @@
   },
   "avg_npc_973_1": {
     "en_US": [
+      "Intern Operator",
       "Logistics Operator",
       "Rhodes Island Landship Operator B",
       "档案室干员"
