@@ -1219,6 +1219,9 @@
   "char_4080_lin@nian#10": {
     "zh_CN": "列瑶台"
   },
+  "char_4082_qiubai@epoque#31": {
+    "zh_CN": "礼遇"
+  },
   "char_4082_qiubai@ncg#1": {
     "en_US": "Wine-flushed is Woods of Rime",
     "ja_JP": "霜林酔",
@@ -1302,6 +1305,9 @@
     "ja_JP": "真夏の饗宴",
     "zh_CN": "夏日餮宴"
   },
+  "char_440_pinecn@epoque#31": {
+    "zh_CN": "远行的季节"
+  },
   "char_440_pinecn@shining#1": {
     "en_US": "Sing a Song",
     "ja_JP": "歌声よ届け",
@@ -1339,6 +1345,9 @@
     "en_US": "Lord",
     "ja_JP": "ロード",
     "zh_CN": "领主"
+  },
+  "char_464_cement@epoque#31": {
+    "zh_CN": "全新业务"
   },
   "char_466_qanik@snow#6": {
     "zh_CN": "回礼"
@@ -1422,6 +1431,9 @@
     "en_US": "Cardwinner",
     "ja_JP": "ショーダウン",
     "zh_CN": "开牌制胜"
+  },
+  "char_489_serum@epoque#31": {
+    "zh_CN": "逸趣"
   },
   "char_492_quercu@epoque#17": {
     "en_US": "Distant Home's Guide",

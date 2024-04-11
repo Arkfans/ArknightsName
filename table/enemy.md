@@ -786,6 +786,25 @@ tip: 请善用浏览器的搜索功能
 | enemy_1409_bdguad | 马特奥的警卫 | - | - |
 | enemy_1409_bdguad_2 | 马特奥的近卫 | - | - |
 | enemy_1409_bdguad_3 | 马特奥的亲卫 | - | - |
+| enemy_1410_mmelee | “飞鞋党”佣兵 | - | - |
+| enemy_1410_mmelee_2 | “飞鞋党”精锐佣兵 | - | - |
+| enemy_1411_mmrnge | “锅盖头”射手 | - | - |
+| enemy_1411_mmrnge_2 | “锅盖头”劲弩射手 | - | - |
+| enemy_1412_mmjump | 破烂拼凑者 | - | - |
+| enemy_1412_mmjump_2 | 破烂发明家 | - | - |
+| enemy_1413_mmstck | 赏金猎人“骑士” | - | - |
+| enemy_1413_mmstck_2 | 赏金猎人“大骑士” | - | - |
+| enemy_1414_mmleak | 爆燃厨具巨人 | - | - |
+| enemy_1414_mmleak_2 | 增强型爆燃厨具巨人 | - | - |
+| enemy_1415_mmkabi | 温顺的武装驮兽 | - | - |
+| enemy_1415_mmkabi_2 | 温顺的武装大驮兽 | - | - |
+| enemy_1416_mmfarm | 流浪佣兵“剪刀手” | - | - |
+| enemy_1416_mmfarm_2 | 流浪佣兵“编织者” | - | - |
+| enemy_1417_mmdudu | 自由佣兵“贝斯” | - | - |
+| enemy_1417_mmdudu_2 | 自由佣兵“主音吉他” | - | - |
+| enemy_1418_mmkonm | 流浪工匠“修补工” | - | - |
+| enemy_1418_mmkonm_2 | 流浪工匠“修补工头” | - | - |
+| enemy_1419_mmcike | 裹骸死士 | - | - |
 | enemy_1500_skulsr | 碎骨 | Skullshatterer | SkullShredder |
 | enemy_1501_demonk | 萨卡兹百夫长 | Sarkaz Centurion | サルカズケントゥリオ |
 | enemy_1502_crowns | 弑君者 | Crownslayer | CrownSlayer |
@@ -839,6 +858,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1549_windoc | 哈洛德·克雷加文 | - | - |
 | enemy_1550_dhnzzh | “祟” | - | - |
 | enemy_1551_bolicp | 马特奥上尉 | - | - |
+| enemy_1552_mmamiy | “阿米娅” | - | - |
 | enemy_2001_duckmi | 鸭爵 | Duck Lord | ダック卿 |
 | enemy_2002_bearmi | 高普尼克 | Gopnik | ゴプニク |
 | enemy_2003_rockman | 迷路的巨像 | Lost Colossus | 迷子の巨像 |
@@ -907,6 +927,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_3004_speople | 叙拉古平民 | Siracusan Civilian | シラクーザの市民 |
 | enemy_3005_lpeopl | 修道院居民 | Monastery Inhabitant | 修道院の住民 |
 | enemy_3005_lpeopl_2 | 修道院居民 | Monastery Inhabitant | 修道院の住民 |
+| enemy_3006_tersia | 特蕾西娅，“魔王” | - | - |
 | enemy_4001_toxcar | 改造瓦斯车 | Retrofitted Gastruck | 改造ガス車 |
 | enemy_4001_toxcar_2 | 高能瓦斯车 | Supercharged Gastruck | 拡容改造ガス車 |
 | enemy_4002_syokai | 二手廉价无人机 | Cheap Second-hand Drone | 中古低価ドローン |
@@ -936,6 +957,9 @@ tip: 请善用浏览器的搜索功能
 | enemy_6019_escort | 播种无人机 | - | - |
 | enemy_6020_orang | “烈酒金刚” | - | - |
 | enemy_6021_cask | 桶陈蜜酿 | - | - |
+| enemy_6022_m2cnt | “织郁伯爵” | - | - |
+| enemy_6023_crane | “贪婪捕手” | - | - |
+| enemy_6024_crnbug | “特别任性的生物” | - | - |
 | enemy_7001_blwzad | 部族巫术师 | Tribal Shaman | 部族呪術師 |
 | enemy_7001_blwzad_2 | 王酋巫术师 | Lord Ameer Shaman | 首長呪術師 |
 | enemy_7002_veingd | 矿脉守卫 | Vein Guardian | 鉱脈の守護者 |

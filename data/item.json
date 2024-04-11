@@ -808,6 +808,12 @@
     "ja_JP": "事象の結晶",
     "zh_CN": "事相结晶"
   },
+  "SINGLE_49_0_1_GACHA": {
+    "zh_CN": "如死亦终寻访凭证"
+  },
+  "SINGLE_49_0_1_GACHA_10": {
+    "zh_CN": "如死亦终十连寻访凭证"
+  },
   "SOCIAL_PT": {
     "en_US": "Credit",
     "ja_JP": "FP",
@@ -1291,6 +1297,9 @@
   },
   "act32side_token_stamp": {
     "zh_CN": "艺术馆集章卡"
+  },
+  "act33side_token_sugar": {
+    "zh_CN": "粗制糖块"
   },
   "act38d1_token_coin": {
     "en_US": "Crystalized Originium",
@@ -1905,7 +1914,8 @@
   },
   "class_p_char_197_poca": {
     "en_US": "Rosa's Kernel Token",
-    "ja_JP": "ロサの印（中堅）"
+    "ja_JP": "ロサの印（中堅）",
+    "zh_CN": "早露的中坚信物"
   },
   "class_p_char_199_yak": {
     "en_US": "Matterhorn's Kernel Token",
@@ -1957,10 +1967,16 @@
     "ja_JP": "モスティマの印（中堅）",
     "zh_CN": "莫斯提马的中坚信物"
   },
+  "class_p_char_214_kafka": {
+    "zh_CN": "卡夫卡的中坚信物"
+  },
   "class_p_char_215_mantic": {
     "en_US": "Manticore's Kernel Token",
     "ja_JP": "マンティコアの印（中堅）",
     "zh_CN": "狮蝎的中坚信物"
+  },
+  "class_p_char_218_cuttle": {
+    "zh_CN": "安哲拉的中坚信物"
   },
   "class_p_char_219_meteo": {
     "en_US": "Meteorite's Kernel Token",
@@ -2052,6 +2068,9 @@
     "ja_JP": "スカジの印（中堅）",
     "zh_CN": "斯卡蒂的中坚信物"
   },
+  "class_p_char_264_f12yin": {
+    "zh_CN": "山的中坚信物"
+  },
   "class_p_char_271_spikes": {
     "en_US": "Arene's Kernel Token",
     "ja_JP": "アレーンの印（中堅）",
@@ -2117,9 +2136,13 @@
     "ja_JP": "アンジェリーナの印（中堅）",
     "zh_CN": "安洁莉娜的中坚信物"
   },
+  "class_p_char_293_thorns": {
+    "zh_CN": "棘刺的中坚信物"
+  },
   "class_p_char_294_ayer": {
     "en_US": "Ayerscarpe's Kernel Token",
-    "ja_JP": "エアースカーペの印（中堅）"
+    "ja_JP": "エアースカーペの印（中堅）",
+    "zh_CN": "断崖的中坚信物"
   },
   "class_p_char_298_susuro": {
     "en_US": "Sussurro's Kernel Token",
@@ -2146,6 +2169,9 @@
     "ja_JP": "スワイヤーの印（中堅）",
     "zh_CN": "诗怀雅的中坚信物"
   },
+  "class_p_char_311_mudrok": {
+    "zh_CN": "泥岩的中坚信物"
+  },
   "class_p_char_326_glacus": {
     "en_US": "Glaucus's Kernel Token",
     "ja_JP": "グラウコスの印（中堅）",
@@ -2156,10 +2182,16 @@
     "ja_JP": "カシャの印（中堅）",
     "zh_CN": "卡达的中坚信物"
   },
+  "class_p_char_332_archet": {
+    "zh_CN": "空弦的中坚信物"
+  },
   "class_p_char_337_utage": {
     "en_US": "Utage's Kernel Token",
     "ja_JP": "ウタゲの印（中堅）",
     "zh_CN": "宴的中坚信物"
+  },
+  "class_p_char_338_iris": {
+    "zh_CN": "爱丽丝的中坚信物"
   },
   "class_p_char_340_shwaz": {
     "en_US": "Schwarz's Kernel Token",
@@ -2168,11 +2200,16 @@
   },
   "class_p_char_343_tknogi": {
     "en_US": "Tsukinogi's Kernel Token",
-    "ja_JP": "ツキノギの印（中堅）"
+    "ja_JP": "ツキノギの印（中堅）",
+    "zh_CN": "月禾的中坚信物"
   },
   "class_p_char_344_beewax": {
     "en_US": "Beeswax's Kernel Token",
-    "ja_JP": "ビーズワクスの印（中堅）"
+    "ja_JP": "ビーズワクスの印（中堅）",
+    "zh_CN": "蜜蜡的中坚信物"
+  },
+  "class_p_char_346_aosta": {
+    "zh_CN": "奥斯塔的中坚信物"
   },
   "class_p_char_347_jaksel": {
     "en_US": "Jackie's Kernel Token",
@@ -2181,7 +2218,11 @@
   },
   "class_p_char_349_chiave": {
     "en_US": "Chiave's Kernel Token",
-    "ja_JP": "キアーベの印（中堅）"
+    "ja_JP": "キアーベの印（中堅）",
+    "zh_CN": "贾维的中坚信物"
+  },
+  "class_p_char_350_surtr": {
+    "zh_CN": "史尔特尔的中坚信物"
   },
   "class_p_char_356_broca": {
     "en_US": "Broca's Kernel Token",
@@ -2190,7 +2231,17 @@
   },
   "class_p_char_358_lisa": {
     "en_US": "Suzuran's Kernel Token",
-    "ja_JP": "スズランの印（中堅）"
+    "ja_JP": "スズランの印（中堅）",
+    "zh_CN": "铃兰的中坚信物"
+  },
+  "class_p_char_362_saga": {
+    "zh_CN": "嵯峨的中坚信物"
+  },
+  "class_p_char_363_toddi": {
+    "zh_CN": "熔泉的中坚信物"
+  },
+  "class_p_char_365_aprl": {
+    "zh_CN": "四月的中坚信物"
   },
   "class_p_char_366_acdrop": {
     "en_US": "Aciddrop's Kernel Token",
@@ -2204,11 +2255,13 @@
   },
   "class_p_char_373_lionhd": {
     "en_US": "Leonhardt's Kernel Token",
-    "ja_JP": "レオンハルトの印（中堅）"
+    "ja_JP": "レオンハルトの印（中堅）",
+    "zh_CN": "莱恩哈特的中坚信物"
   },
   "class_p_char_378_asbest": {
     "en_US": "Asbestos's Kernel Token",
-    "ja_JP": "アスベストスの印（中堅）"
+    "ja_JP": "アスベストスの印（中堅）",
+    "zh_CN": "石棉的中坚信物"
   },
   "class_p_char_379_sesa": {
     "en_US": "Sesa's Kernel Token",
@@ -2220,6 +2273,12 @@
     "ja_JP": "バブルの印（中堅）",
     "zh_CN": "泡泡的中坚信物"
   },
+  "class_p_char_400_weedy": {
+    "zh_CN": "温蒂的中坚信物"
+  },
+  "class_p_char_401_elysm": {
+    "zh_CN": "极境的中坚信物"
+  },
   "class_p_char_4041_chnut": {
     "en_US": "Chestnut's Kernel Token",
     "ja_JP": "チェストナットの印（中堅）",
@@ -2229,6 +2288,21 @@
     "en_US": "Totter's Kernel Token",
     "ja_JP": "トターの印（中堅）",
     "zh_CN": "铅踝的中坚信物"
+  },
+  "class_p_char_4107_vrdant": {
+    "zh_CN": "维荻的中坚信物"
+  },
+  "class_p_char_415_flint": {
+    "zh_CN": "燧石的中坚信物"
+  },
+  "class_p_char_416_zumama": {
+    "zh_CN": "森蚺的中坚信物"
+  },
+  "class_p_char_423_blemsh": {
+    "zh_CN": "瑕光的中坚信物"
+  },
+  "class_p_char_436_whispr": {
+    "zh_CN": "絮雨的中坚信物"
   },
   "class_p_char_440_pinecn": {
     "en_US": "Pinecone's Kernel Token",
@@ -2240,10 +2314,16 @@
     "ja_JP": "ビーンストークの印（中堅）",
     "zh_CN": "豆苗的中坚信物"
   },
+  "class_p_char_455_nothin": {
+    "zh_CN": "乌有的中坚信物"
+  },
   "class_p_char_469_indigo": {
     "en_US": "Indigo's Kernel Token",
     "ja_JP": "インディゴの印（中堅）",
     "zh_CN": "深靛的中坚信物"
+  },
+  "class_p_char_472_pasngr": {
+    "zh_CN": "异客的中坚信物"
   },
   "class_p_char_484_robrta": {
     "en_US": "Roberta's Kernel Token",
@@ -3844,6 +3924,15 @@
   "p_char_4126_fuze": {
     "zh_CN": "导火索的信物"
   },
+  "p_char_4130_luton": {
+    "zh_CN": "露托的信物"
+  },
+  "p_char_4131_odda": {
+    "zh_CN": "奥达的信物"
+  },
+  "p_char_4132_ascln": {
+    "zh_CN": "阿斯卡纶的信物"
+  },
   "p_char_415_flint": {
     "en_US": "Flint's Token",
     "ja_JP": "フリントの印",
@@ -3908,6 +3997,9 @@
     "en_US": "Pinecone's Token",
     "ja_JP": "パインコーンの印",
     "zh_CN": "松果的信物"
+  },
+  "p_char_446_aroma": {
+    "zh_CN": "阿罗玛的信物"
   },
   "p_char_449_glider": {
     "en_US": "Honeyberry's Token",
@@ -4641,6 +4733,9 @@
     "ja_JP": "マリア・ニアール家具パック",
     "zh_CN": "玛莉娅·临光家具收藏包"
   },
+  "uni_set_goldBoat": {
+    "zh_CN": "愚人号家具收藏包"
+  },
   "uni_set_guitar": {
     "en_US": "Heart of Surging Flame Furniture Pack",
     "ja_JP": "青く燃ゆる心家具パック",
@@ -4798,6 +4893,9 @@
     "en_US": "Lava the Purgatory's Personal Letter",
     "ja_JP": "炎獄ラヴァの手紙",
     "zh_CN": "炎狱炎熔的私人信件"
+  },
+  "voucher_full_lumen": {
+    "zh_CN": "流明的私人信件"
   },
   "voucher_full_mint": {
     "en_US": "Mint's Personal Letter",

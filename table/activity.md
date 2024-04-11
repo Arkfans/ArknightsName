@@ -128,6 +128,7 @@ tip: 请善用浏览器的搜索功能
 | act31sign | 正逢雨季限时登录活动 | Rain Season Limited Login Event | 長雨の候スタンプラリー |
 | act32side | 水晶箭行动 | - | - |
 | act32sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
+| act33side | 巴别塔 | - | - |
 | act33sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act34sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act35sign | 清光邀月——月饼烘焙小教程 | Moonlight Invite - Mooncake-Making Tutorial | 清風明月-ロドス点心教室 |

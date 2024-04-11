@@ -665,6 +665,12 @@
   "trap_146_dhdcr": {
     "zh_CN": "天桩"
   },
+  "trap_147_spblls": {
+    "zh_CN": "巫术弩炮"
+  },
+  "trap_148_amblls": {
+    "zh_CN": "幽影门扉"
+  },
   "trap_163_foolcrate": {
     "zh_CN": "障碍物"
   },
@@ -1183,5 +1189,38 @@
   },
   "trap_745_beer": {
     "zh_CN": "“蜜酿万岁！”"
+  },
+  "trap_746_cdrhine": {
+    "zh_CN": "尖端研究成果共享终端"
+  },
+  "trap_747_cdrhinea": {
+    "zh_CN": "尖端研究成果共享终端"
+  },
+  "trap_748_cdrhineb": {
+    "zh_CN": "尖端研究成果共享终端"
+  },
+  "trap_749_cd1punch": {
+    "zh_CN": "声波记录扩音器"
+  },
+  "trap_750_cd1puncha": {
+    "zh_CN": "声波记录扩音器"
+  },
+  "trap_751_cd1punchb": {
+    "zh_CN": "声波记录扩音器"
+  },
+  "trap_752_cdcaster": {
+    "zh_CN": "法术调和能量场"
+  },
+  "trap_753_cdcastera": {
+    "zh_CN": "法术调和能量场"
+  },
+  "trap_754_cdcasterb": {
+    "zh_CN": "法术调和能量场"
+  },
+  "trap_755_cdsoul": {
+    "zh_CN": "啸叫音响"
+  },
+  "trap_756_cdnest": {
+    "zh_CN": "“黏黏的赠品”"
   }
 }

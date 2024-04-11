@@ -1305,6 +1305,15 @@
   "char_4126_fuze": {
     "zh_CN": "导火索"
   },
+  "char_4130_luton": {
+    "zh_CN": "露托"
+  },
+  "char_4131_odda": {
+    "zh_CN": "奥达"
+  },
+  "char_4132_ascln": {
+    "zh_CN": "阿斯卡纶"
+  },
   "char_415_flint": {
     "en_US": "Flint",
     "ja_JP": "フリント",
@@ -1374,6 +1383,9 @@
     "en_US": "Pinecone",
     "ja_JP": "パインコーン",
     "zh_CN": "松果"
+  },
+  "char_446_aroma": {
+    "zh_CN": "阿罗玛"
   },
   "char_449_glider": {
     "en_US": "Honeyberry",

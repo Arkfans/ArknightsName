@@ -42,8 +42,13 @@ tip: 请善用浏览器的搜索功能
 | skchr_archet_1 | 箭矢·散逸 | Dispersing Arrows | 飛散の矢 |
 | skchr_archet_2 | 箭矢·追猎 | Pursuing Arrows | 追討の矢 |
 | skchr_archet_3 | 箭矢·暴风 | Thundering Arrows | 暴風の矢 |
+| skchr_aroma_1 | 强效清洁 | - | - |
+| skchr_aroma_2 | 小心地滑 | - | - |
 | skchr_asbest_1 | 固守模式 | Resilient Mode | 堅守モード |
 | skchr_asbest_2 | 火电模式 | Thermal Power Mode | 爆炎モード |
+| skchr_ascln_1 | 追袭 | - | - |
+| skchr_ascln_2 | 恩赐 | - | - |
+| skchr_ascln_3 | 降临 | - | - |
 | skchr_ash_1 | 支援射击 | Supporting Fire | 援護射撃 |
 | skchr_ash_2 | 突击战术 | Assault Tactics | 突撃戦法 |
 | skchr_ash_3 | 攻坚榴弹 | Breaching Rounds | ブリーチング弾 |
@@ -354,6 +359,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_lumen_3 | 灯火不灭 | This Lantern Undying | 不滅の灯火 |
 | skchr_lunacu_1 | 狩猎时刻 | Time to Hunt | 狩猟開始 |
 | skchr_lunacu_2 | 伏击之影 | Umbral Ambush | 影に潜む狩人 |
+| skchr_luton_1 | 强力击·β型 | - | - |
+| skchr_luton_2 | 强磁防卫 | - | - |
 | skchr_malist_2 | 神工意匠 | Prodigious Craftsmanship | マスターピース |
 | skchr_mantic_1 | 蝎毒 | Scorpion Venom | アジトキシン |
 | skchr_mantic_2 | 蓄力毒尾击 | Toxic Overload | スコーピオンテール |
@@ -410,6 +417,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_noirc2_2 | 气刃兜割 | Spirit Helm Breaker | 気刃兜割り |
 | skchr_nothin_1 | 知难而退 | Cautious Retreat | 引き際の心得 |
 | skchr_nothin_2 | 阴晴圆缺 | Wax and Wane | 諸行無常 |
+| skchr_odda_1 | 火花溅射 | - | - |
+| skchr_odda_2 | 锻锤之力 | - | - |
 | skchr_otter_1 | 迷惑装置 | Bionic Device | 攪乱装置 |
 | skchr_otter_2 | 爆破回收 | Detonate and Recycle | ミーボ起爆 |
 | skchr_pallas_1 | 胜利的连击 | Strikes of Victory | 勝敗分かつ連撃 |
@@ -655,6 +664,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_allady | 阿勒黛的卫护 | Allerdale's Guard | アラデルの衛護 |
 | sktok_allady_2 | 阿勒黛的卫护 | Allerdale's Guard | アラデルの衛護 |
 | sktok_allydonq | 冲锋 | Charge | 突貫 |
+| sktok_amblls | 幽影门扉 | - | - |
 | sktok_antidr | 无人机干扰 | Drone Interference | ドローン妨害 |
 | sktok_badbox | 极诱人珍宝 | Really Alluring Treasures | 財宝の蕩めき |
 | sktok_ballis | 发射弩箭 | Bolt Launching | 射撃 |
@@ -687,6 +697,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_cannon_2 | 脉冲束流 | Pulse Beam | 衝撃集束波 |
 | sktok_canoe_1 | 放置平台 | Deployment Platform | ボード設置 |
 | sktok_canoe_2 | 放置平台 | Deployment Platform | ボード設置 |
+| sktok_cd1punch | 灌录 | - | - |
+| sktok_cd1puncha | 灌录 | - | - |
+| sktok_cd1punchb | 灌录 | - | - |
 | sktok_cdabyss | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |
 | sktok_cdabyssa | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |
 | sktok_cdabyssb | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |
@@ -696,6 +709,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_cdbeacon | 示踪信标 | Tracer Beacon | 追跡ビーコン |
 | sktok_cdbeacona | 阻断波长 | Block Wavelength | 遮断電波 |
 | sktok_cdbeaconb | 干扰波长 | Jam Wavelength | 妨害電波 |
+| sktok_cdcaster | 能量调和 | - | - |
+| sktok_cdcastera | 能量调和 | - | - |
+| sktok_cdcasterb | 能量调和 | - | - |
 | sktok_cdcredit | 自适应补给 | Adaptive Supply | 多機能補給 |
 | sktok_cdcredita | 自适应补给 | Adaptive Supply | 多機能補給 |
 | sktok_cdcreditb | 自适应补给 | Adaptive Supply | 多機能補給 |
@@ -710,6 +726,10 @@ tip: 请善用浏览器的搜索功能
 | sktok_cdhealb | 便携式医疗设备 | Portable First-aid Kit | 携帯式医療設備 |
 | sktok_cdhvrk | 超重，绝缘 | Heavy, Insulated | 超過重・絶縁 |
 | sktok_cdkzmr | 竞技记录分析 | Competition Records Analysis | 競技記録アナライズ |
+| sktok_cdnest | “黏黏的赠品” | - | - |
+| sktok_cdrhine | 共享发现 | - | - |
+| sktok_cdrhinea | 共享发现 | - | - |
+| sktok_cdrhineb | 共享发现 | - | - |
 | sktok_cdrone | 战地援护 | Field Support | 戦地支援 |
 | sktok_cdshield | 镀膜 | Coating | コーティング |
 | sktok_cdshielda | 重整导能 | Redeployment Conduction | 再稼働 |
@@ -865,6 +885,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_sniper | 空域控制 | - | - |
 | sktok_snipera | 空域控制 | - | - |
 | sktok_sniperb | 空域控制 | - | - |
+| sktok_spblls | 巫术弩炮 | - | - |
 | sktok_stdurk_1 | “咔嚓！” | 'Snap!' | ｢カシャッ！｣ |
 | sktok_stmbot | 水汽汽水瓶 | Steam Soda Bottle | スチームサイダー |
 | sktok_stmpq | 景观喷泉 | Decorative Geyser | 景観噴水 |

@@ -275,6 +275,9 @@ tip: 请善用浏览器的搜索功能
 | char_4124_iana | 双月 | - | - |
 | char_4125_rdoc | 医生 | - | - |
 | char_4126_fuze | 导火索 | - | - |
+| char_4130_luton | 露托 | - | - |
+| char_4131_odda | 奥达 | - | - |
+| char_4132_ascln | 阿斯卡纶 | - | - |
 | char_415_flint | 燧石 | Flint | フリント |
 | char_416_zumama | 森蚺 | Eunectes | ユーネクテス |
 | char_420_flamtl | 焰尾 | Flametail | フレイムテイル |
@@ -289,6 +292,7 @@ tip: 请善用浏览器的搜索功能
 | char_436_whispr | 絮雨 | Whisperain | ウィスパーレイン |
 | char_437_mizuki | 水月 | Mizuki | ミヅキ |
 | char_440_pinecn | 松果 | Pinecone | パインコーン |
+| char_446_aroma | 阿罗玛 | - | - |
 | char_449_glider | 蜜莓 | Honeyberry | ハニーベリー |
 | char_451_robin | 罗宾 | Robin | ロビン |
 | char_452_bstalk | 豆苗 | Beanstalk | ビーンストーク |

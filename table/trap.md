@@ -147,6 +147,8 @@ tip: 请善用浏览器的搜索功能
 | trap_144_ads | 临时掩护装置 | - | - |
 | trap_145_edd | 诡雷布设装置 | - | - |
 | trap_146_dhdcr | 天桩 | - | - |
+| trap_147_spblls | 巫术弩炮 | - | - |
+| trap_148_amblls | 幽影门扉 | - | - |
 | trap_163_foolcrate | 障碍物 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |
 | trap_401_xbfato | 木材采集站 | Basic Gathering Hub | 採取ロボ用基地 |
@@ -274,3 +276,14 @@ tip: 请善用浏览器的搜索功能
 | trap_743_gasbota | 速冷喷雾发射台 | - | - |
 | trap_744_gasbotb | 速冷喷雾发射台 | - | - |
 | trap_745_beer | “蜜酿万岁！” | - | - |
+| trap_746_cdrhine | 尖端研究成果共享终端 | - | - |
+| trap_747_cdrhinea | 尖端研究成果共享终端 | - | - |
+| trap_748_cdrhineb | 尖端研究成果共享终端 | - | - |
+| trap_749_cd1punch | 声波记录扩音器 | - | - |
+| trap_750_cd1puncha | 声波记录扩音器 | - | - |
+| trap_751_cd1punchb | 声波记录扩音器 | - | - |
+| trap_752_cdcaster | 法术调和能量场 | - | - |
+| trap_753_cdcastera | 法术调和能量场 | - | - |
+| trap_754_cdcasterb | 法术调和能量场 | - | - |
+| trap_755_cdsoul | 啸叫音响 | - | - |
+| trap_756_cdnest | “黏黏的赠品” | - | - |

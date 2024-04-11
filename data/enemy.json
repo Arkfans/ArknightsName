@@ -3717,6 +3717,63 @@
   "enemy_1409_bdguad_3": {
     "zh_CN": "马特奥的亲卫"
   },
+  "enemy_1410_mmelee": {
+    "zh_CN": "“飞鞋党”佣兵"
+  },
+  "enemy_1410_mmelee_2": {
+    "zh_CN": "“飞鞋党”精锐佣兵"
+  },
+  "enemy_1411_mmrnge": {
+    "zh_CN": "“锅盖头”射手"
+  },
+  "enemy_1411_mmrnge_2": {
+    "zh_CN": "“锅盖头”劲弩射手"
+  },
+  "enemy_1412_mmjump": {
+    "zh_CN": "破烂拼凑者"
+  },
+  "enemy_1412_mmjump_2": {
+    "zh_CN": "破烂发明家"
+  },
+  "enemy_1413_mmstck": {
+    "zh_CN": "赏金猎人“骑士”"
+  },
+  "enemy_1413_mmstck_2": {
+    "zh_CN": "赏金猎人“大骑士”"
+  },
+  "enemy_1414_mmleak": {
+    "zh_CN": "爆燃厨具巨人"
+  },
+  "enemy_1414_mmleak_2": {
+    "zh_CN": "增强型爆燃厨具巨人"
+  },
+  "enemy_1415_mmkabi": {
+    "zh_CN": "温顺的武装驮兽"
+  },
+  "enemy_1415_mmkabi_2": {
+    "zh_CN": "温顺的武装大驮兽"
+  },
+  "enemy_1416_mmfarm": {
+    "zh_CN": "流浪佣兵“剪刀手”"
+  },
+  "enemy_1416_mmfarm_2": {
+    "zh_CN": "流浪佣兵“编织者”"
+  },
+  "enemy_1417_mmdudu": {
+    "zh_CN": "自由佣兵“贝斯”"
+  },
+  "enemy_1417_mmdudu_2": {
+    "zh_CN": "自由佣兵“主音吉他”"
+  },
+  "enemy_1418_mmkonm": {
+    "zh_CN": "流浪工匠“修补工”"
+  },
+  "enemy_1418_mmkonm_2": {
+    "zh_CN": "流浪工匠“修补工头”"
+  },
+  "enemy_1419_mmcike": {
+    "zh_CN": "裹骸死士"
+  },
   "enemy_1500_skulsr": {
     "en_US": "Skullshatterer",
     "ja_JP": "SkullShredder",
@@ -3971,6 +4028,9 @@
   },
   "enemy_1551_bolicp": {
     "zh_CN": "马特奥上尉"
+  },
+  "enemy_1552_mmamiy": {
+    "zh_CN": "“阿米娅”"
   },
   "enemy_2001_duckmi": {
     "en_US": "Duck Lord",
@@ -4304,6 +4364,9 @@
     "ja_JP": "修道院の住民",
     "zh_CN": "修道院居民"
   },
+  "enemy_3006_tersia": {
+    "zh_CN": "特蕾西娅，“魔王”"
+  },
   "enemy_4001_toxcar": {
     "en_US": "Retrofitted Gastruck",
     "ja_JP": "改造ガス車",
@@ -4440,6 +4503,15 @@
   },
   "enemy_6021_cask": {
     "zh_CN": "桶陈蜜酿"
+  },
+  "enemy_6022_m2cnt": {
+    "zh_CN": "“织郁伯爵”"
+  },
+  "enemy_6023_crane": {
+    "zh_CN": "“贪婪捕手”"
+  },
+  "enemy_6024_crnbug": {
+    "zh_CN": "“特别任性的生物”"
   },
   "enemy_7001_blwzad": {
     "en_US": "Tribal Shaman",

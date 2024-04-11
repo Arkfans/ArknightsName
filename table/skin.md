@@ -261,6 +261,7 @@ tip: 请善用浏览器的搜索功能
 | char_4077_palico@mh#1 | 跃上街头 | Fly Into the Street | 街へ飛び出せ |
 | char_4078_bdhkgt@yun#2 | 伴青莲 | - | - |
 | char_4080_lin@nian#10 | 列瑶台 | - | - |
+| char_4082_qiubai@epoque#31 | 礼遇 | - | - |
 | char_4082_qiubai@ncg#1 | 霜林醉 | Wine-flushed is Woods of Rime | 霜林酔 |
 | char_411_tomimi@summer#5 | 静谧午夜 DN04 | Silent Night DN04 | 安息の午夜DN04 |
 | char_4123_ela@rainbow6#2 | 密室 | - | - |
@@ -280,6 +281,7 @@ tip: 请善用浏览器的搜索功能
 | char_436_whispr@nian#4 | 孤寒峭 | Tremble Cold | 孤料峭 |
 | char_436_whispr@witch#4 | 幽邃隐修 | - | - |
 | char_437_mizuki@sale#7 | 夏日餮宴 | Summer Feast | 真夏の饗宴 |
+| char_440_pinecn@epoque#31 | 远行的季节 | - | - |
 | char_440_pinecn@shining#1 | 倾声歌唱 | Sing a Song | 歌声よ届け |
 | char_449_glider@epoque#17 | 荒野之后 | Wildness Behind | 荒野のあとに |
 | char_449_glider@nian#10 | 洇灵雨 | - | - |
@@ -288,6 +290,7 @@ tip: 请善用浏览器的搜索功能
 | char_455_nothin@nian#7 | 冷山月 | Pale Rising Moon | 冷山月 |
 | char_456_ash@rainbow6#1 | 游侠 | Ranger | レンジャー |
 | char_459_tachak@rainbow6#1 | 领主 | Lord | ロード |
+| char_464_cement@epoque#31 | 全新业务 | - | - |
 | char_466_qanik@snow#6 | 回礼 | - | - |
 | char_469_indigo@nian#7 | 待晴日 | Serene Day | 待晴日 |
 | char_472_pasngr@epoque#17 | 今昔须臾之梦 | Dream In A Moment | 玉響の今在 |
@@ -305,6 +308,7 @@ tip: 请善用浏览器的搜索功能
 | char_485_pallas@epoque#12 | 传承 | Heritage | 伝承 |
 | char_485_pallas@epoque#19 | 山川的酿造 | A Drip of Orea and Potamous | 山川の醸造 |
 | char_486_takila@ambienceSynesthesia#2 | 开牌制胜 | Cardwinner | ショーダウン |
+| char_489_serum@epoque#31 | 逸趣 | - | - |
 | char_492_quercu@epoque#17 | 遥乡之径 | Distant Home's Guide | 故郷は遠く |
 | char_492_quercu@witch#4 | 树影吟游 | - | - |
 | char_496_wildmn@epoque#16 | 正义缔造者 | Justice Maker | ジャスティスメーカー |

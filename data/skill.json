@@ -184,6 +184,12 @@
     "ja_JP": "暴風の矢",
     "zh_CN": "箭矢·暴风"
   },
+  "skchr_aroma_1": {
+    "zh_CN": "强效清洁"
+  },
+  "skchr_aroma_2": {
+    "zh_CN": "小心地滑"
+  },
   "skchr_asbest_1": {
     "en_US": "Resilient Mode",
     "ja_JP": "堅守モード",
@@ -193,6 +199,15 @@
     "en_US": "Thermal Power Mode",
     "ja_JP": "爆炎モード",
     "zh_CN": "火电模式"
+  },
+  "skchr_ascln_1": {
+    "zh_CN": "追袭"
+  },
+  "skchr_ascln_2": {
+    "zh_CN": "恩赐"
+  },
+  "skchr_ascln_3": {
+    "zh_CN": "降临"
   },
   "skchr_ash_1": {
     "en_US": "Supporting Fire",
@@ -1682,6 +1697,12 @@
     "ja_JP": "影に潜む狩人",
     "zh_CN": "伏击之影"
   },
+  "skchr_luton_1": {
+    "zh_CN": "强力击·β型"
+  },
+  "skchr_luton_2": {
+    "zh_CN": "强磁防卫"
+  },
   "skchr_malist_2": {
     "en_US": "Prodigious Craftsmanship",
     "ja_JP": "マスターピース",
@@ -1961,6 +1982,12 @@
     "en_US": "Wax and Wane",
     "ja_JP": "諸行無常",
     "zh_CN": "阴晴圆缺"
+  },
+  "skchr_odda_1": {
+    "zh_CN": "火花溅射"
+  },
+  "skchr_odda_2": {
+    "zh_CN": "锻锤之力"
   },
   "skchr_otter_1": {
     "en_US": "Bionic Device",
@@ -3143,6 +3170,9 @@
     "ja_JP": "突貫",
     "zh_CN": "冲锋"
   },
+  "sktok_amblls": {
+    "zh_CN": "幽影门扉"
+  },
   "sktok_antidr": {
     "en_US": "Drone Interference",
     "ja_JP": "ドローン妨害",
@@ -3295,6 +3325,15 @@
     "ja_JP": "ボード設置",
     "zh_CN": "放置平台"
   },
+  "sktok_cd1punch": {
+    "zh_CN": "灌录"
+  },
+  "sktok_cd1puncha": {
+    "zh_CN": "灌录"
+  },
+  "sktok_cd1punchb": {
+    "zh_CN": "灌录"
+  },
   "sktok_cdabyss": {
     "en_US": "Ægirian Oscilloscope",
     "ja_JP": "エーギル式振波計",
@@ -3339,6 +3378,15 @@
     "en_US": "Jam Wavelength",
     "ja_JP": "妨害電波",
     "zh_CN": "干扰波长"
+  },
+  "sktok_cdcaster": {
+    "zh_CN": "能量调和"
+  },
+  "sktok_cdcastera": {
+    "zh_CN": "能量调和"
+  },
+  "sktok_cdcasterb": {
+    "zh_CN": "能量调和"
   },
   "sktok_cdcredit": {
     "en_US": "Adaptive Supply",
@@ -3409,6 +3457,18 @@
     "en_US": "Competition Records Analysis",
     "ja_JP": "競技記録アナライズ",
     "zh_CN": "竞技记录分析"
+  },
+  "sktok_cdnest": {
+    "zh_CN": "“黏黏的赠品”"
+  },
+  "sktok_cdrhine": {
+    "zh_CN": "共享发现"
+  },
+  "sktok_cdrhinea": {
+    "zh_CN": "共享发现"
+  },
+  "sktok_cdrhineb": {
+    "zh_CN": "共享发现"
   },
   "sktok_cdrone": {
     "en_US": "Field Support",
@@ -4136,6 +4196,9 @@
   },
   "sktok_sniperb": {
     "zh_CN": "空域控制"
+  },
+  "sktok_spblls": {
+    "zh_CN": "巫术弩炮"
   },
   "sktok_stdurk_1": {
     "en_US": "'Snap!'",

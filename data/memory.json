@@ -632,6 +632,9 @@
     "ja_JP": "ゆっくり進む者",
     "zh_CN": "缓步前行"
   },
+  "story_judge_set_1_story_1": {
+    "zh_CN": "为你撑伞"
+  },
   "story_kafka_set_1_story_1": {
     "en_US": "Let's Keep That a Secret",
     "ja_JP": "秘密を交わして",
@@ -715,6 +718,9 @@
     "en_US": "Till the Lights Shine Bright",
     "ja_JP": "灯火が照らすまで",
     "zh_CN": "直到灯火明亮"
+  },
+  "story_lunacu_set_1_story_1": {
+    "zh_CN": "与人共舞"
   },
   "story_malist_set_1_story_1": {
     "en_US": "In the Endless Summer",
@@ -1111,6 +1117,9 @@
     "ja_JP": "英雄とは",
     "zh_CN": "谁是英雄"
   },
+  "story_spuria_set_1_story_1": {
+    "zh_CN": "铳声回响"
+  },
   "story_sqrrel_set_1_story_1": {
     "en_US": "Careful of Flammables",
     "ja_JP": "火の用心",
@@ -1233,6 +1242,9 @@
     "en_US": "A Curse Without Words",
     "ja_JP": "文字なき呪い",
     "zh_CN": "无字诅咒"
+  },
+  "story_vrdant_set_1_story_1": {
+    "zh_CN": "小草的呼喊"
   },
   "story_waaifu_set_1_story_1": {
     "en_US": "What Martial Arts Serve",

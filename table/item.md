@@ -172,6 +172,8 @@ tip: 请善用浏览器的搜索功能
 | Logistics_Special_Permit | 后勤特别许可证 | Logistics Special Permit | 特別支援申請許可証 |
 | REP_COIN | 情报凭证 | Intelligence Certificate | 情報資格証 |
 | RETRO_COIN | 事相结晶 | Event Crystal | 事象の結晶 |
+| SINGLE_49_0_1_GACHA | 如死亦终寻访凭证 | - | - |
+| SINGLE_49_0_1_GACHA_10 | 如死亦终十连寻访凭证 | - | - |
 | SOCIAL_PT | 信用 | Credit | FP |
 | STORY_REVIEW_COIN | 事相碎片 | Information Fragments | 事象の欠片 |
 | act10d5_token_biscuit | 彼得海姆热销饼干 | Best-selling Peterheim Cookies | ぺテルヘイムクッキー |
@@ -274,6 +276,7 @@ tip: 请善用浏览器的搜索功能
 | act30side_token_box | 驮兽盲盒 | - | - |
 | act31side_token_box | 天桩 | - | - |
 | act32side_token_stamp | 艺术馆集章卡 | - | - |
+| act33side_token_sugar | 粗制糖块 | - | - |
 | act38d1_token_coin | 晶化源石 | Crystalized Originium | 結晶化源石 |
 | act3bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act3bossrush_relic_01 | 恢复增幅 | Recovery Boost | 癒しの増幅 |
@@ -402,7 +405,7 @@ tip: 请善用浏览器的搜索功能
 | class_p_char_193_frostl | 霜叶的中坚信物 | Frostleaf's Kernel Token | フロストリーフの印（中堅） |
 | class_p_char_195_glassb | 真理的中坚信物 | Istina's Kernel Token | イースチナの印（中堅） |
 | class_p_char_196_sunbr | 古米的中坚信物 | Gummy's Kernel Token | グムの印（中堅） |
-| class_p_char_197_poca | - | Rosa's Kernel Token | ロサの印（中堅） |
+| class_p_char_197_poca | 早露的中坚信物 | Rosa's Kernel Token | ロサの印（中堅） |
 | class_p_char_199_yak | 角峰的中坚信物 | Matterhorn's Kernel Token | マッターホルンの印（中堅） |
 | class_p_char_2013_cerber | 刻俄柏的中坚信物 | Ceobe's Kernel Token | ケオベの印（中堅） |
 | class_p_char_201_moeshd | 可颂的中坚信物 | Croissant's Kernel Token | クロワッサンの印（中堅） |
@@ -413,7 +416,9 @@ tip: 请善用浏览器的搜索功能
 | class_p_char_210_stward | 史都华德的中坚信物 | Steward's Kernel Token | スチュワードの印（中堅） |
 | class_p_char_212_ansel | 安赛尔的中坚信物 | Ansel's Kernel Token | アンセルの印（中堅） |
 | class_p_char_213_mostma | 莫斯提马的中坚信物 | Mostima's Kernel Token | モスティマの印（中堅） |
+| class_p_char_214_kafka | 卡夫卡的中坚信物 | - | - |
 | class_p_char_215_mantic | 狮蝎的中坚信物 | Manticore's Kernel Token | マンティコアの印（中堅） |
+| class_p_char_218_cuttle | 安哲拉的中坚信物 | - | - |
 | class_p_char_219_meteo | 陨星的中坚信物 | Meteorite's Kernel Token | メテオリーテの印（中堅） |
 | class_p_char_222_bpipe | 风笛的中坚信物 | Bagpipe's Kernel Token | バグパイプの印（中堅） |
 | class_p_char_225_haak | 阿的中坚信物 | Aak's Kernel Token | アの印（中堅） |
@@ -432,6 +437,7 @@ tip: 请善用浏览器的搜索功能
 | class_p_char_258_podego | 波登可的中坚信物 | Podenco's Kernel Token | ポデンコの印（中堅） |
 | class_p_char_261_sddrag | 苇草的中坚信物 | Reed's Kernel Token | リードの印（中堅） |
 | class_p_char_263_skadi | 斯卡蒂的中坚信物 | Skadi's Kernel Token | スカジの印（中堅） |
+| class_p_char_264_f12yin | 山的中坚信物 | - | - |
 | class_p_char_271_spikes | 芳汀的中坚信物 | Arene's Kernel Token | アレーンの印（中堅） |
 | class_p_char_272_strong | 孑的中坚信物 | Jaye's Kernel Token | ジェイの印（中堅） |
 | class_p_char_274_astesi | 星极的中坚信物 | Astesia's Kernel Token | アステシアの印（中堅） |
@@ -445,33 +451,51 @@ tip: 请善用浏览器的搜索功能
 | class_p_char_289_gyuki | 缠丸的中坚信物 | Matoimaru's Kernel Token | マトイマルの印（中堅） |
 | class_p_char_290_vigna | 红豆的中坚信物 | Vigna's Kernel Token | ヴィグナの印（中堅） |
 | class_p_char_291_aglina | 安洁莉娜的中坚信物 | Angelina's Kernel Token | アンジェリーナの印（中堅） |
-| class_p_char_294_ayer | - | Ayerscarpe's Kernel Token | エアースカーペの印（中堅） |
+| class_p_char_293_thorns | 棘刺的中坚信物 | - | - |
+| class_p_char_294_ayer | 断崖的中坚信物 | Ayerscarpe's Kernel Token | エアースカーペの印（中堅） |
 | class_p_char_298_susuro | 苏苏洛的中坚信物 | Sussurro's Kernel Token | ススーロの印（中堅） |
 | class_p_char_301_cutter | 刻刀的中坚信物 | Cutter's Kernel Token | カッターの印（中堅） |
 | class_p_char_302_glaze | 安比尔的中坚信物 | Ambriel's Kernel Token | アンブリエルの印（中堅） |
 | class_p_char_306_leizi | 惊蛰的中坚信物 | Leizi's Kernel Token | レイズの印（中堅） |
 | class_p_char_308_swire | 诗怀雅的中坚信物 | Swire's Kernel Token | スワイヤーの印（中堅） |
+| class_p_char_311_mudrok | 泥岩的中坚信物 | - | - |
 | class_p_char_326_glacus | 格劳克斯的中坚信物 | Glaucus's Kernel Token | グラウコスの印（中堅） |
 | class_p_char_328_cammou | 卡达的中坚信物 | Click's Kernel Token | カシャの印（中堅） |
+| class_p_char_332_archet | 空弦的中坚信物 | - | - |
 | class_p_char_337_utage | 宴的中坚信物 | Utage's Kernel Token | ウタゲの印（中堅） |
+| class_p_char_338_iris | 爱丽丝的中坚信物 | - | - |
 | class_p_char_340_shwaz | 黑的中坚信物 | Schwarz's Kernel Token | シュヴァルツの印（中堅） |
-| class_p_char_343_tknogi | - | Tsukinogi's Kernel Token | ツキノギの印（中堅） |
-| class_p_char_344_beewax | - | Beeswax's Kernel Token | ビーズワクスの印（中堅） |
+| class_p_char_343_tknogi | 月禾的中坚信物 | Tsukinogi's Kernel Token | ツキノギの印（中堅） |
+| class_p_char_344_beewax | 蜜蜡的中坚信物 | Beeswax's Kernel Token | ビーズワクスの印（中堅） |
+| class_p_char_346_aosta | 奥斯塔的中坚信物 | - | - |
 | class_p_char_347_jaksel | 杰克的中坚信物 | Jackie's Kernel Token | ジャッキーの印（中堅） |
-| class_p_char_349_chiave | - | Chiave's Kernel Token | キアーベの印（中堅） |
+| class_p_char_349_chiave | 贾维的中坚信物 | Chiave's Kernel Token | キアーベの印（中堅） |
+| class_p_char_350_surtr | 史尔特尔的中坚信物 | - | - |
 | class_p_char_356_broca | 布洛卡的中坚信物 | Broca's Kernel Token | ブローカの印（中堅） |
-| class_p_char_358_lisa | - | Suzuran's Kernel Token | スズランの印（中堅） |
+| class_p_char_358_lisa | 铃兰的中坚信物 | Suzuran's Kernel Token | スズランの印（中堅） |
+| class_p_char_362_saga | 嵯峨的中坚信物 | - | - |
+| class_p_char_363_toddi | 熔泉的中坚信物 | - | - |
+| class_p_char_365_aprl | 四月的中坚信物 | - | - |
 | class_p_char_366_acdrop | 酸糖的中坚信物 | Aciddrop's Kernel Token | アシッドドロップの印（中堅） |
 | class_p_char_367_swllow | 灰喉的中坚信物 | GreyThroat's Kernel Token | グレースロートの印（中堅） |
-| class_p_char_373_lionhd | - | Leonhardt's Kernel Token | レオンハルトの印（中堅） |
-| class_p_char_378_asbest | - | Asbestos's Kernel Token | アスベストスの印（中堅） |
+| class_p_char_373_lionhd | 莱恩哈特的中坚信物 | Leonhardt's Kernel Token | レオンハルトの印（中堅） |
+| class_p_char_378_asbest | 石棉的中坚信物 | Asbestos's Kernel Token | アスベストスの印（中堅） |
 | class_p_char_379_sesa | 慑砂的中坚信物 | Sesa's Kernel Token | シェーシャの印（中堅） |
 | class_p_char_381_bubble | 泡泡的中坚信物 | Bubble's Kernel Token | バブルの印（中堅） |
+| class_p_char_400_weedy | 温蒂的中坚信物 | - | - |
+| class_p_char_401_elysm | 极境的中坚信物 | - | - |
 | class_p_char_4041_chnut | 褐果的中坚信物 | Chestnut's Kernel Token | チェストナットの印（中堅） |
 | class_p_char_4062_totter | 铅踝的中坚信物 | Totter's Kernel Token | トターの印（中堅） |
+| class_p_char_4107_vrdant | 维荻的中坚信物 | - | - |
+| class_p_char_415_flint | 燧石的中坚信物 | - | - |
+| class_p_char_416_zumama | 森蚺的中坚信物 | - | - |
+| class_p_char_423_blemsh | 瑕光的中坚信物 | - | - |
+| class_p_char_436_whispr | 絮雨的中坚信物 | - | - |
 | class_p_char_440_pinecn | 松果的中坚信物 | Pinecone's Kernel Token | パインコーンの印（中堅） |
 | class_p_char_452_bstalk | 豆苗的中坚信物 | Beanstalk's Kernel Token | ビーンストークの印（中堅） |
+| class_p_char_455_nothin | 乌有的中坚信物 | - | - |
 | class_p_char_469_indigo | 深靛的中坚信物 | Indigo's Kernel Token | インディゴの印（中堅） |
+| class_p_char_472_pasngr | 异客的中坚信物 | - | - |
 | class_p_char_484_robrta | 罗比菈塔的中坚信物 | Roberta's Kernel Token | ロベルタの印（中堅） |
 | class_p_char_491_humus | 休谟斯的中坚信物 | Humus's Kernel Token | ヒューマスの印（中堅） |
 | classic_fes_pick_tier_5_3801 | 中坚甄选5星干员 | Kernel Locating 5* Operator | 中堅セレクト★5オペレーター |
@@ -801,6 +825,9 @@ tip: 请善用浏览器的搜索功能
 | p_char_4124_iana | 双月的信物 | - | - |
 | p_char_4125_rdoc | 医生的信物 | - | - |
 | p_char_4126_fuze | 导火索的信物 | - | - |
+| p_char_4130_luton | 露托的信物 | - | - |
+| p_char_4131_odda | 奥达的信物 | - | - |
+| p_char_4132_ascln | 阿斯卡纶的信物 | - | - |
 | p_char_415_flint | 燧石的信物 | Flint's Token | フリントの印 |
 | p_char_416_zumama | 森蚺的信物 | Eunectes' Token | ユーネクテスの印 |
 | p_char_420_flamtl | 焰尾的信物 | Flametail's Token | フレイムテイルの印 |
@@ -814,6 +841,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_436_whispr | 絮雨的信物 | Whisperain's Token | ウィスパーレインの印 |
 | p_char_437_mizuki | 水月的信物 | Mizuki's Token | ミヅキの印 |
 | p_char_440_pinecn | 松果的信物 | Pinecone's Token | パインコーンの印 |
+| p_char_446_aroma | 阿罗玛的信物 | - | - |
 | p_char_449_glider | 蜜莓的信物 | Honeyberry's Token | ハニーベリーの印 |
 | p_char_451_robin | 罗宾的信物 | Robin's Token | ロビンの印 |
 | p_char_452_bstalk | 豆苗的信物 | Beanstalk's Token | ビーンストークの印 |
@@ -964,6 +992,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_castle_1 | 古堡印象家具收藏包一 | Castlesque Furniture Pack I | 古城風家具パックvol.1 |
 | uni_set_castle_2 | 古堡印象家具收藏包二 | Castlesque Furniture Pack II | 古城風家具パックvol.2 |
 | uni_set_fNearl | 玛莉娅·临光家具收藏包 | Maria Nearl Furniture Pack | マリア・ニアール家具パック |
+| uni_set_goldBoat | 愚人号家具收藏包 | - | - |
 | uni_set_guitar | 火蓝之心家具收藏包 | Heart of Surging Flame Furniture Pack | 青く燃ゆる心家具パック |
 | uni_set_icu | 遗尘漫步家具收藏包 | A Walk in the Dust Furniture Pack | 遺塵の道を家具パック |
 | uni_set_inkArt | 画中人家具收藏包 | Who is Real Furniture Pack | 画中人家具パック |
@@ -998,6 +1027,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_full_kjera | 耶拉的私人信件 | - | - |
 | voucher_full_kroos2 | 寒芒克洛丝的私人信件 | - | - |
 | voucher_full_lava2 | 炎狱炎熔的私人信件 | Lava the Purgatory's Personal Letter | 炎獄ラヴァの手紙 |
+| voucher_full_lumen | 流明的私人信件 | - | - |
 | voucher_full_mint | 薄绿的私人信件 | Mint's Personal Letter | ミントの手紙 |
 | voucher_full_robin | 罗宾的私人信件 | Robin's Personal Letter | ロビンの手紙 |
 | voucher_full_sidero | 铸铁的私人信件 | Sideroca's Personal Letter | シデロカの手紙 |
