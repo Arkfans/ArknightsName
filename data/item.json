@@ -349,15 +349,19 @@
     "zh_CN": "转质盐聚块"
   },
   "31073": {
+    "ja_JP": "褐素繊維",
     "zh_CN": "褐素纤维"
   },
   "31074": {
+    "ja_JP": "硬化ファイバー基板",
     "zh_CN": "固化纤维板"
   },
   "31083": {
+    "ja_JP": "炭化水素ポリマー",
     "zh_CN": "环烃聚质"
   },
   "31084": {
+    "ja_JP": "プレハブ式炭化水素",
     "zh_CN": "环烃预制体"
   },
   "3112": {
@@ -1365,6 +1369,7 @@
     "zh_CN": "有效情报值"
   },
   "act4d5_point_kfc": {
+    "ja_JP": "KFCポイント",
     "zh_CN": "KFC积分"
   },
   "act5d0_point_medal": {
@@ -2346,6 +2351,7 @@
     "zh_CN": "中坚甄选5星干员"
   },
   "classic_fes_pick_tier_5_4401": {
+    "ja_JP": "中堅セレクト★5オペレーター",
     "zh_CN": "中坚甄选5星干员"
   },
   "classic_fes_pick_tier_6_3801": {
@@ -2359,6 +2365,7 @@
     "zh_CN": "中坚甄选6星干员"
   },
   "classic_fes_pick_tier_6_4401": {
+    "ja_JP": "中堅セレクト★6オペレーター",
     "zh_CN": "中坚甄选6星干员"
   },
   "classic_gacha": {
@@ -3847,6 +3854,7 @@
     "zh_CN": "伊内丝的信物"
   },
   "p_char_4088_hodrer": {
+    "ja_JP": "ヘドリーの印",
     "zh_CN": "赫德雷的信物"
   },
   "p_char_4093_frston": {
@@ -3881,12 +3889,14 @@
     "zh_CN": "苍苔的信物"
   },
   "p_char_4107_vrdant": {
+    "ja_JP": "ヴァーダントの印",
     "zh_CN": "维荻的信物"
   },
   "p_char_4109_baslin": {
     "zh_CN": "深律的信物"
   },
   "p_char_4110_delphn": {
+    "ja_JP": "デルフィーンの印",
     "zh_CN": "戴菲恩的信物"
   },
   "p_char_4114_harold": {
@@ -4132,6 +4142,7 @@
     "zh_CN": "火哨的信物"
   },
   "p_char_494_vendla": {
+    "ja_JP": "ヴァンデラの印",
     "zh_CN": "刺玫的信物"
   },
   "p_char_496_wildmn": {
@@ -4341,6 +4352,7 @@
     "zh_CN": "ID信息更新卡"
   },
   "renamingCard_0_044": {
+    "ja_JP": "ID情報更新カード",
     "zh_CN": "ID信息更新卡"
   },
   "renamingCard_30_018": {
@@ -4369,6 +4381,7 @@
     "zh_CN": "ID信息更新卡"
   },
   "renamingCard_30_044": {
+    "ja_JP": "ID情報更新カード",
     "zh_CN": "ID信息更新卡"
   },
   "return_credit_token": {
@@ -5043,12 +5056,12 @@
   },
   "voucher_ulika": {
     "en_US": "U-Official's Folder",
-    "ja_JP": "U-Officialのバインダー",
+    "ja_JP": "U-Officialの書類入れ",
     "zh_CN": "U-Official的文件夹"
   },
   "voucher_vigil": {
     "en_US": "Vigil's Folder",
-    "ja_JP": "ヴィジェルの書類挟み",
+    "ja_JP": "ヴィジェルの書類入れ",
     "zh_CN": "伺夜的文件夹"
   }
 }

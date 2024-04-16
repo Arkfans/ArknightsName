@@ -189,3 +189,4 @@ tip: 请善用浏览器的搜索功能
 | _SINGLE_26_0_1 | - | The Woe-cleansing Hurricane | 厄災を射落とす颶風 |
 | _SINGLE_26_0_3 | - | Pathfinder of Sands | 砂漠の導き手 |
 | _SINGLE_26_0_5 | - | Clank Liberty | 銃声 |
+| _SINGLE_27_0_1 | - | - | 煙塵に瞬く |

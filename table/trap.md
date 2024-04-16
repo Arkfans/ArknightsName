@@ -125,9 +125,9 @@ tip: 请善用浏览器的搜索功能
 | trap_122_stmpq | 景观喷泉 | Decorative Geyser | 景観噴水 |
 | trap_123_stmbot | 水汽汽水瓶 | Steam Soda Bottle | スチームサイダー |
 | trap_124_eradio | 废热喷口 | Waste Heat Vent | 廃熱噴出口 |
-| trap_125_bonore | 唤血祭坛 | - | - |
-| trap_126_outset | 炸弹载荷点 | - | - |
-| trap_127_bldore | 沥血王座 | - | - |
+| trap_125_bonore | 唤血祭坛 | - | 血の祭壇 |
+| trap_126_outset | 炸弹载荷点 | - | 爆弾装填点 |
+| trap_127_bldore | 沥血王座 | - | 血誓の王座 |
 | trap_128_toolore | 祭坛式雷达 | - | - |
 | trap_129_tooltower | R-45便携式“留声机” | - | - |
 | trap_130_tooltree | 景观巨蕈 | - | - |

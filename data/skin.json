@@ -26,7 +26,7 @@
   },
   "char_010_chen@sale#10": {
     "en_US": "After Storm",
-    "ja_JP": "雨上がり",
+    "ja_JP": "雲往きて晴れ",
     "zh_CN": "初晴"
   },
   "char_017_huang@as#1": {
@@ -836,6 +836,7 @@
     "zh_CN": "夏卉 FA026"
   },
   "char_300_phenxi@witch#4": {
+    "ja_JP": "至聖の誓言",
     "zh_CN": "至圣誓言"
   },
   "char_302_glaze@summer#11": {
@@ -1174,6 +1175,7 @@
     "zh_CN": "荒野寻音"
   },
   "char_4048_doroth@witch#4": {
+    "ja_JP": "運命の支配者",
     "zh_CN": "命运主宰"
   },
   "char_4054_malist@summer#14": {
@@ -1298,6 +1300,7 @@
     "zh_CN": "孤寒峭"
   },
   "char_436_whispr@witch#4": {
+    "ja_JP": "幽遠のシスター",
     "zh_CN": "幽邃隐修"
   },
   "char_437_mizuki@sale#7": {
@@ -1441,6 +1444,7 @@
     "zh_CN": "遥乡之径"
   },
   "char_492_quercu@witch#4": {
+    "ja_JP": "木陰の吟遊詩人",
     "zh_CN": "树影吟游"
   },
   "char_496_wildmn@epoque#16": {

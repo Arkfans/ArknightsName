@@ -14,7 +14,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1003_ncbow | 弩手 | Crossbowman | 射撃兵 |
 | enemy_1003_ncbow_2 | 弩手组长 | Crossbowman Leader | 射撃隊長 |
 | enemy_1004_mslime | 酸液源石虫 | Acid Originium Slug | アシッドムシ |
-| enemy_1004_mslime_2 | 酸液源石虫·α | Acid Originium Slug α | アシッドムシ·α |
+| enemy_1004_mslime_2 | 酸液源石虫·α | Acid Originium Slug α | アシッドムシα |
 | enemy_1005_yokai | 妖怪 | Monster | 怪鳥 |
 | enemy_1005_yokai_2 | 妖怪MKII | Monster Mk II | 怪鳥Mk2 |
 | enemy_1005_yokai_3 | 威龙 | Raptor | 飛龍 |
@@ -22,8 +22,8 @@ tip: 请善用浏览器的搜索功能
 | enemy_1006_shield_2 | 重装防御组长 | Heavy Defender Leader | 重装隊長 |
 | enemy_1006_shield_3 | 重装五十夫长 | Heavy Defender Lieutenant | 重装連隊長 |
 | enemy_1007_slime | 源石虫 | Originium Slug | オリジムシ |
-| enemy_1007_slime_2 | 源石虫·α | Originium Slug α | オリジムシ·α |
-| enemy_1007_slime_3 | 源石虫·β | Originium Slug β | オリジムシ·β |
+| enemy_1007_slime_2 | 源石虫·α | Originium Slug α | オリジムシα |
+| enemy_1007_slime_3 | 源石虫·β | Originium Slug β | オリジムシβ |
 | enemy_1008_ghost | 幽灵 | Wraith | ゴースト兵 |
 | enemy_1009_lurker | 潜伏者 | Lurker | 潜入者 |
 | enemy_1010_demon | 萨卡兹大剑手 | Sarkaz Greatswordsman | サルカズ大剣士 |
@@ -46,7 +46,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1019_jshoot_2 | 隐形弩手组长 | Invisible Crossbowman Leader | 迷彩射撃隊長 |
 | enemy_1020_obsv | 技术侦察兵 | Technical Scout | 技術偵察兵 |
 | enemy_1021_bslime | 高能源石虫 | Infused Originium Slug | バクダンムシ |
-| enemy_1021_bslime_2 | 高能源石虫·α | Infused Originium Slug α | バクダンムシ·α |
+| enemy_1021_bslime_2 | 高能源石虫·α | Infused Originium Slug α | バクダンムシα |
 | enemy_1022_dmage | 萨卡兹术师 | Sarkaz Caster | サルカズ術師 |
 | enemy_1022_dmage_2 | 萨卡兹术师组长 | Sarkaz Caster Leader | サルカズ術師隊長 |
 | enemy_1023_jmage | 隐形术师 | Invisible Caster | 迷彩術師 |
@@ -679,7 +679,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1350_mgcshp_2 | 风情街“超新星术师” | Fashion Street 'Supernova Caster' | 商店街「メテオマジシャン」 |
 | enemy_1351_yhhshp | “好朋友” | 'Fluffy Buddy' | 「ベストフレンド」 |
 | enemy_1352_eslime | 辐能源石虫 | Radioactive Originium Slug | ホウシャムシ |
-| enemy_1352_eslime_2 | 辐能源石虫·α | Radioactive Originium Slug α | ホウシャムシ・α |
+| enemy_1352_eslime_2 | 辐能源石虫·α | Radioactive Originium Slug α | ホウシャムシα |
 | enemy_1353_esabr | 匪帮混混 | Paramilitary Gangster | 野盗チンピラ |
 | enemy_1353_esabr_2 | 匪帮混混头目 | Paramilitary Gangster Leader | 野盗チンピラの頭目 |
 | enemy_1354_eghost | 匪帮窃贼 | Paramilitary Thief | 野盗スリ師 |
@@ -694,23 +694,23 @@ tip: 请善用浏览器的搜索功能
 | enemy_1358_esheld_2 | 匪帮防御者头目 | Paramilitary Defender Leader | 野盗ディフェンダーの頭目 |
 | enemy_1359_ekulsr | 匪帮轰击者 | Paramilitary Bombardier | 野盗ボマー |
 | enemy_1359_ekulsr_2 | 匪帮轰击者头目 | Paramilitary Bombardier Leader | 野盗ボマーの頭目 |
-| enemy_1360_dfello | 新生血裔 | - | - |
-| enemy_1361_dthrow | 萨卡兹子裔轰击者 | - | - |
-| enemy_1361_dthrow_2 | 萨卡兹子裔毁击者 | - | - |
-| enemy_1362_dfat | 萨卡兹子裔责罚者 | - | - |
-| enemy_1362_dfat_2 | 萨卡兹子裔惩戒者 | - | - |
-| enemy_1363_spnshd | 萨卡兹骸骨卫士 | - | - |
-| enemy_1363_spnshd_2 | 萨卡兹骸骨卫士长 | - | - |
-| enemy_1364_spnaxe | 萨卡兹骸骨鞭笞者 | - | - |
-| enemy_1364_spnaxe_2 | 萨卡兹骸骨拷打者 | - | - |
-| enemy_1365_spnwiz | 萨卡兹骸骨漂泊术师 | - | - |
+| enemy_1360_dfello | 新生血裔 | - | 新生の血裔 |
+| enemy_1361_dthrow | 萨卡兹子裔轰击者 | - | サルカズ眷属砲撃者 |
+| enemy_1361_dthrow_2 | 萨卡兹子裔毁击者 | - | サルカズ眷属砲撃隊長 |
+| enemy_1362_dfat | 萨卡兹子裔责罚者 | - | サルカズ眷属懲戒者 |
+| enemy_1362_dfat_2 | 萨卡兹子裔惩戒者 | - | サルカズ眷属懲戒隊長 |
+| enemy_1363_spnshd | 萨卡兹骸骨卫士 | - | サルカズ骨骸衛士 |
+| enemy_1363_spnshd_2 | 萨卡兹骸骨卫士长 | - | サルカズ骨骸衛士長 |
+| enemy_1364_spnaxe | 萨卡兹骸骨鞭笞者 | - | サルカズ骨骸拷問者 |
+| enemy_1364_spnaxe_2 | 萨卡兹骸骨拷打者 | - | サルカズ骨骸拷問隊長 |
+| enemy_1365_spnwiz | 萨卡兹骸骨漂泊术师 | - | サルカズ骨骸流浪術師 |
 | enemy_1365_spnwiz_2 | 萨卡兹骸骨漂泊术师长
- | - | - |
-| enemy_1366_dcolle | 萨卡兹敛血行者 | - | - |
-| enemy_1366_dcolle_2 | 萨卡兹萃血行者 | - | - |
-| enemy_1367_dseed | 血珀 | - | - |
-| enemy_1368_spilot | 指挥官厄尔苏拉 | - | - |
-| enemy_1369_bmbcar1 | 反巫术变位炸弹 | - | - |
+ | - | サルカズ骨骸流浪術師長 |
+| enemy_1366_dcolle | 萨卡兹敛血行者 | - | サルカズ血珀収集者 |
+| enemy_1366_dcolle_2 | 萨卡兹萃血行者 | - | サルカズ精鋭血珀収集者 |
+| enemy_1367_dseed | 血珀 | - | 血珀 |
+| enemy_1368_spilot | 指挥官厄尔苏拉 | - | 指揮官ウルスラ |
+| enemy_1369_bmbcar1 | 反巫术变位炸弹 | - | 対巫術軌道式爆弾 |
 | enemy_1371_ltnflu | 残党乐团长笛手 | - | - |
 | enemy_1371_ltnflu_2 | 巫王乐团长笛手 | - | - |
 | enemy_1372_ltntpt | 残党乐团小号手 | - | - |
@@ -853,7 +853,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1544_cledub | “花匠” | 'The Gardener' | 「ガーデナー」 |
 | enemy_1545_shpkg | 多利，“羊之主” | Dolly, Sovereign of Sheep | 「羊主」ドリー |
 | enemy_1546_cliff | “桥夹”克里夫 | 'Clip' Cliff | 「クリップ」クリフ |
-| enemy_1547_blord | 杜卡雷，“君主之红” | - | - |
+| enemy_1547_blord | 杜卡雷，“君主之红” | - | Duq'arael・「君主の紅」 |
 | enemy_1548_ltniak | 赫尔昏佐伦，“巫王” | - | - |
 | enemy_1549_windoc | 哈洛德·克雷加文 | - | - |
 | enemy_1550_dhnzzh | “祟” | - | - |

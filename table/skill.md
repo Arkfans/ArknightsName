@@ -153,8 +153,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_dagda_2 | 精准捕杀 | Search and Destroy | ハンティングタイム |
 | skchr_deepcl_1 | 光影之触 | Shadow Tentacle | 光陰ノ触 |
 | skchr_deepcl_2 | 视觉陷阱 | Visual Trap | トロンプイユ |
-| skchr_delphn_1 | “贯注” | - | - |
-| skchr_delphn_2 | “抢攻” | - | - |
+| skchr_delphn_1 | “贯注” | - | 「集中」 |
+| skchr_delphn_2 | “抢攻” | - | 「制圧」 |
 | skchr_demkni_1 | 急救 | First Aid | 応急処置 |
 | skchr_demkni_2 | 药物配置 | Medicine Dispensing | 薬剤配置 |
 | skchr_demkni_3 | 钙质化 | Calcification | 硬質化 |
@@ -269,9 +269,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_highmo_2 | 泡影，殆尽 | Evanescence from Paranoia | 泡沫、破滅 |
 | skchr_hmau_1 | 反制治疗 | Treatment Countermeasure | 応急処置・受動 |
 | skchr_hmau_2 | 反制医疗模式 | Medical Mode Countermeasure | 医療態勢・受動 |
-| skchr_hodrer_1 | 重锋不熄 | - | - |
-| skchr_hodrer_2 | 余烬重荷 | - | - |
-| skchr_hodrer_3 | 死境硝烟 | - | - |
+| skchr_hodrer_1 | 重锋不熄 | - | 消えぬ炎刃 |
+| skchr_hodrer_2 | 余烬重荷 | - | 重たき余燼 |
+| skchr_hodrer_3 | 死境硝烟 | - | 死地の硝煙 |
 | skchr_horn_1 | 照明榴弹 | Flare Grenade | 照明榴弾 |
 | skchr_horn_2 | 暴风号令 | Tempest Command | テンペストオーダー |
 | skchr_horn_3 | 终极防线 | Ultimate Line of Defense | 死地戦線 |
@@ -587,7 +587,7 @@ tip: 请善用浏览器的搜索功能
 | skchr_typhon_3 | “永恒狩猎” | 'Eternal Hunt' | 「永久なる狩猟」 |
 | skchr_utage_1 | 分神 | Space Out | サボり |
 | skchr_utage_2 | 落地斩·破门 | Descending Strike - Earth Splitter | 落地斬・突破 |
-| skchr_vendla_2 | 荆藤庇荫 | - | - |
+| skchr_vendla_2 | 荆藤庇荫 | - | 茨の庇護 |
 | skchr_vigil_1 | 领袖的呼唤 | Packleader's Call | 統率者の一声 |
 | skchr_vigil_2 | 领袖的馈赠 | Packleader's Gift | 統率者の恩賞 |
 | skchr_vigil_3 | 领袖的尊严 | Packleader's Dignity | 統率者の威厳 |
@@ -595,8 +595,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_vigna_2 | 槌音 | Hammer-On | ハンマリング・オン |
 | skchr_vodfox_1 | 病入膏肓 | Malediction | 不治の呪い |
 | skchr_vodfox_2 | 诅咒娃娃 | Cursed Doll | 呪いの人形 |
-| skchr_vrdant_1 | 苍翠屏障 | - | - |
-| skchr_vrdant_2 | 双刃毒藤 | - | - |
+| skchr_vrdant_1 | 苍翠屏障 | - | 蒼翠の鎧 |
+| skchr_vrdant_2 | 双刃毒藤 | - | 藤の毒刃 |
 | skchr_vvana_1 | 光影迅捷剑 | - | - |
 | skchr_vvana_2 | 烛燃影息 | - | - |
 | skchr_vvana_3 | “明灭” | - | - |
@@ -676,7 +676,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_bgsnow_1 | 抑扬格 | Iamb | イアンボス |
 | sktok_bgsnow_2 | 点题 | Précis | リフレイン |
 | sktok_bgsnow_3 | 锐笔速写 | Opprobrium | レザーシャープペン |
-| sktok_bldore | 沥血王座 | - | - |
+| sktok_bldore | 沥血王座 | - | 血誓の王座 |
 | sktok_blizzard | 暴风雪 | Blizzard | 猛吹雪 |
 | sktok_blizzard_2 | 暴风雪 | - | - |
 | sktok_blkngt_hypnos_s_1 | 食梦 | Dream Eater | 夢喰い |
@@ -684,7 +684,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_blower | 气流 | Airflow | 源石気流 |
 | sktok_bomb | 坏脾气 | Ill Temper | 大癇癪 |
 | sktok_bondtw | 发射缚网 | Fire Net | 捕縛網発射 |
-| sktok_bonore | 唤血祭坛 | - | - |
+| sktok_bonore | 唤血祭坛 | - | 血の祭壇 |
 | sktok_bouncy_1 | 圣徒之手 | Hand of the Saint | 聖徒の御手 |
 | sktok_bouncy_2 | 圣徒之手·清理模式 | Hand of the Saint - Purification | 聖徒の御手・清掃モード |
 | sktok_bouncy_3 | 圣徒之手·巡回模式 | Hand of the Saint - Patrol | 聖徒の御手・巡回モード |
@@ -827,7 +827,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_oldisin_1 | 触发对话 | Trigger Dialogue | 会話発生 |
 | sktok_ore | 脉冲波 | Pulse Wave | 源石衝撃波 |
 | sktok_ore_friend | 脉冲波 | Pulse Wave | 源石衝撃波 |
-| sktok_outset | 炸弹载荷点 | - | - |
+| sktok_outset | 炸弹载荷点 | - | 爆弾積込み地点 |
 | sktok_oxygen | 防水蚀镀膜装置 | Erosion-Resistant Coating Application Device | 耐水蝕コーティング装置 |
 | sktok_paras | 繁衍 | Propagate | 繁殖 |
 | sktok_peacokfool | 断罪模式！ | Conviction Mode! | 断罪モード！ |

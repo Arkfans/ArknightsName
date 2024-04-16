@@ -1966,6 +1966,7 @@
   "char_4088_hodrer": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "へドリー",
       "zh_CN": "赫德雷"
     }
   },
@@ -2032,6 +2033,7 @@
   "char_4107_vrdant": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "ヴァーダント",
       "zh_CN": "维荻"
     }
   },
@@ -2044,6 +2046,7 @@
   "char_4110_delphn": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "デルフィーン",
       "zh_CN": "戴菲恩"
     }
   },
@@ -2462,6 +2465,7 @@
   "char_494_vendla": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "ヴァンデラ",
       "zh_CN": "刺玫"
     }
   },
@@ -3910,18 +3914,21 @@
   "trap_125_bonore": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "血の祭壇",
       "zh_CN": "唤血祭坛"
     }
   },
   "trap_126_outset": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "爆弾装填点",
       "zh_CN": "炸弹载荷点"
     }
   },
   "trap_127_bldore": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "血誓の王座",
       "zh_CN": "沥血王座"
     }
   },
@@ -5055,7 +5062,7 @@
     "type": "SKIN",
     "names": {
       "en_US": "After Storm",
-      "ja_JP": "雨上がり",
+      "ja_JP": "雲往きて晴れ",
       "zh_CN": "初晴"
     }
   },
@@ -6372,6 +6379,7 @@
   "char_300_phenxi@witch#4": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "至聖の誓言",
       "zh_CN": "至圣誓言"
     }
   },
@@ -6920,6 +6928,7 @@
   "char_4048_doroth@witch#4": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "運命の支配者",
       "zh_CN": "命运主宰"
     }
   },
@@ -7134,6 +7143,7 @@
   "char_436_whispr@witch#4": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "幽遠のシスター",
       "zh_CN": "幽邃隐修"
     }
   },
@@ -7370,6 +7380,7 @@
   "char_492_quercu@witch#4": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "木陰の吟遊詩人",
       "zh_CN": "树影吟游"
     }
   },
@@ -7440,6 +7451,7 @@
   "iteration": {
     "type": "BRAND",
     "names": {
+      "ja_JP": "IterationProvident",
       "zh_CN": "命途迭代"
     }
   },
@@ -7645,7 +7657,7 @@
     "type": "ENEMY",
     "names": {
       "en_US": "Acid Originium Slug α",
-      "ja_JP": "アシッドムシ·α",
+      "ja_JP": "アシッドムシα",
       "zh_CN": "酸液源石虫·α"
     }
   },
@@ -7709,7 +7721,7 @@
     "type": "ENEMY",
     "names": {
       "en_US": "Originium Slug α",
-      "ja_JP": "オリジムシ·α",
+      "ja_JP": "オリジムシα",
       "zh_CN": "源石虫·α"
     }
   },
@@ -7717,7 +7729,7 @@
     "type": "ENEMY",
     "names": {
       "en_US": "Originium Slug β",
-      "ja_JP": "オリジムシ·β",
+      "ja_JP": "オリジムシβ",
       "zh_CN": "源石虫·β"
     }
   },
@@ -7901,7 +7913,7 @@
     "type": "ENEMY",
     "names": {
       "en_US": "Infused Originium Slug α",
-      "ja_JP": "バクダンムシ·α",
+      "ja_JP": "バクダンムシα",
       "zh_CN": "高能源石虫·α"
     }
   },
@@ -12965,7 +12977,7 @@
     "type": "ENEMY",
     "names": {
       "en_US": "Radioactive Originium Slug α",
-      "ja_JP": "ホウシャムシ・α",
+      "ja_JP": "ホウシャムシα",
       "zh_CN": "辐能源石虫·α"
     }
   },
@@ -13084,96 +13096,112 @@
   "enemy_1360_dfello": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "新生の血裔",
       "zh_CN": "新生血裔"
     }
   },
   "enemy_1361_dthrow": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "サルカズ眷属砲撃者",
       "zh_CN": "萨卡兹子裔轰击者"
     }
   },
   "enemy_1361_dthrow_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "サルカズ眷属砲撃隊長",
       "zh_CN": "萨卡兹子裔毁击者"
     }
   },
   "enemy_1362_dfat": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "サルカズ眷属懲戒者",
       "zh_CN": "萨卡兹子裔责罚者"
     }
   },
   "enemy_1362_dfat_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "サルカズ眷属懲戒隊長",
       "zh_CN": "萨卡兹子裔惩戒者"
     }
   },
   "enemy_1363_spnshd": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "サルカズ骨骸衛士",
       "zh_CN": "萨卡兹骸骨卫士"
     }
   },
   "enemy_1363_spnshd_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "サルカズ骨骸衛士長",
       "zh_CN": "萨卡兹骸骨卫士长"
     }
   },
   "enemy_1364_spnaxe": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "サルカズ骨骸拷問者",
       "zh_CN": "萨卡兹骸骨鞭笞者"
     }
   },
   "enemy_1364_spnaxe_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "サルカズ骨骸拷問隊長",
       "zh_CN": "萨卡兹骸骨拷打者"
     }
   },
   "enemy_1365_spnwiz": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "サルカズ骨骸流浪術師",
       "zh_CN": "萨卡兹骸骨漂泊术师"
     }
   },
   "enemy_1365_spnwiz_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "サルカズ骨骸流浪術師長",
       "zh_CN": "萨卡兹骸骨漂泊术师长\n"
     }
   },
   "enemy_1366_dcolle": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "サルカズ血珀収集者",
       "zh_CN": "萨卡兹敛血行者"
     }
   },
   "enemy_1366_dcolle_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "サルカズ精鋭血珀収集者",
       "zh_CN": "萨卡兹萃血行者"
     }
   },
   "enemy_1367_dseed": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "血珀",
       "zh_CN": "血珀"
     }
   },
   "enemy_1368_spilot": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "指揮官ウルスラ",
       "zh_CN": "指挥官厄尔苏拉"
     }
   },
   "enemy_1369_bmbcar1": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "対巫術軌道式爆弾",
       "zh_CN": "反巫术变位炸弹"
     }
   },
@@ -14128,6 +14156,7 @@
   "enemy_1547_blord": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "Duq'arael・「君主の紅」",
       "zh_CN": "杜卡雷，“君主之红”"
     }
   },
@@ -17488,24 +17517,28 @@
   "31073": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "褐素繊維",
       "zh_CN": "褐素纤维"
     }
   },
   "31074": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "硬化ファイバー基板",
       "zh_CN": "固化纤维板"
     }
   },
   "31083": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "炭化水素ポリマー",
       "zh_CN": "环烃聚质"
     }
   },
   "31084": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "プレハブ式炭化水素",
       "zh_CN": "环烃预制体"
     }
   },
@@ -19152,6 +19185,7 @@
   "act4d5_point_kfc": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "KFCポイント",
       "zh_CN": "KFC积分"
     }
   },
@@ -20754,6 +20788,7 @@
   "classic_fes_pick_tier_5_4401": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "中堅セレクト★5オペレーター",
       "zh_CN": "中坚甄选5星干员"
     }
   },
@@ -20776,6 +20811,7 @@
   "classic_fes_pick_tier_6_4401": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "中堅セレクト★6オペレーター",
       "zh_CN": "中坚甄选6星干员"
     }
   },
@@ -23164,6 +23200,7 @@
   "p_char_4088_hodrer": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ヘドリーの印",
       "zh_CN": "赫德雷的信物"
     }
   },
@@ -23222,6 +23259,7 @@
   "p_char_4107_vrdant": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ヴァーダントの印",
       "zh_CN": "维荻的信物"
     }
   },
@@ -23234,6 +23272,7 @@
   "p_char_4110_delphn": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "デルフィーンの印",
       "zh_CN": "戴菲恩的信物"
     }
   },
@@ -23644,6 +23683,7 @@
   "p_char_494_vendla": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ヴァンデラの印",
       "zh_CN": "刺玫的信物"
     }
   },
@@ -23982,6 +24022,7 @@
   "renamingCard_0_044": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ID情報更新カード",
       "zh_CN": "ID信息更新卡"
     }
   },
@@ -24028,6 +24069,7 @@
   "renamingCard_30_044": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ID情報更新カード",
       "zh_CN": "ID信息更新卡"
     }
   },
@@ -25125,7 +25167,7 @@
     "type": "ITEM",
     "names": {
       "en_US": "U-Official's Folder",
-      "ja_JP": "U-Officialのバインダー",
+      "ja_JP": "U-Officialの書類入れ",
       "zh_CN": "U-Official的文件夹"
     }
   },
@@ -25133,7 +25175,7 @@
     "type": "ITEM",
     "names": {
       "en_US": "Vigil's Folder",
-      "ja_JP": "ヴィジェルの書類挟み",
+      "ja_JP": "ヴィジェルの書類入れ",
       "zh_CN": "伺夜的文件夹"
     }
   },
@@ -26553,6 +26595,12 @@
       "ja_JP": "銃声"
     }
   },
+  "_SINGLE_27_0_1": {
+    "type": "POOL",
+    "names": {
+      "ja_JP": "煙塵に瞬く"
+    }
+  },
   "skchr_absin_1": {
     "type": "SKILL",
     "names": {
@@ -27710,12 +27758,14 @@
   "skchr_delphn_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "「集中」",
       "zh_CN": "“贯注”"
     }
   },
   "skchr_delphn_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "「制圧」",
       "zh_CN": "“抢攻”"
     }
   },
@@ -28618,18 +28668,21 @@
   "skchr_hodrer_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "消えぬ炎刃",
       "zh_CN": "重锋不熄"
     }
   },
   "skchr_hodrer_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "重たき余燼",
       "zh_CN": "余烬重荷"
     }
   },
   "skchr_hodrer_3": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "死地の硝煙",
       "zh_CN": "死境硝烟"
     }
   },
@@ -31114,6 +31167,7 @@
   "skchr_vendla_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "茨の庇護",
       "zh_CN": "荆藤庇荫"
     }
   },
@@ -31176,12 +31230,14 @@
   "skchr_vrdant_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "蒼翠の鎧",
       "zh_CN": "苍翠屏障"
     }
   },
   "skchr_vrdant_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "藤の毒刃",
       "zh_CN": "双刃毒藤"
     }
   },
@@ -31796,6 +31852,7 @@
   "sktok_bldore": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "血誓の王座",
       "zh_CN": "沥血王座"
     }
   },
@@ -31856,6 +31913,7 @@
   "sktok_bonore": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "血の祭壇",
       "zh_CN": "唤血祭坛"
     }
   },
@@ -32946,6 +33004,7 @@
   "sktok_outset": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "爆弾積込み地点",
       "zh_CN": "炸弹载荷点"
     }
   },
@@ -39658,24 +39717,28 @@
   "hard_13-01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "激流作戦-1",
       "zh_CN": "湍流行动-1"
     }
   },
   "hard_13-02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "激流作戦-2",
       "zh_CN": "湍流行动-2"
     }
   },
   "hard_13-03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "激流作戦-3",
       "zh_CN": "湍流行动-3"
     }
   },
   "hard_13-04": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "激流作戦-4",
       "zh_CN": "湍流行动-4"
     }
   },
@@ -41810,114 +41873,133 @@
   "main_13-01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "目の前の傷",
       "zh_CN": "眼前的伤"
     }
   },
   "main_13-02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "息つく間もなく",
       "zh_CN": "不得暂歇"
     }
   },
   "main_13-03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "傭兵の一日",
       "zh_CN": "佣兵一日"
     }
   },
   "main_13-04": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "わだかまる苦厄",
       "zh_CN": "苦厄盘桓"
     }
   },
   "main_13-05": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "模範の名のもと",
       "zh_CN": "典范之名"
     }
   },
   "main_13-06": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "血の祭壇",
       "zh_CN": "唤血祭坛"
     }
   },
   "main_13-07": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "思わぬ再会",
       "zh_CN": "不虞之会"
     }
   },
   "main_13-08": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "移り行く幻境",
       "zh_CN": "幻境迁流"
     }
   },
   "main_13-09": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "町を覆う暗雲",
       "zh_CN": "小镇翳云"
     }
   },
   "main_13-10": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "砕けた温室",
       "zh_CN": "破碎温室"
     }
   },
   "main_13-11": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "骸の中",
       "zh_CN": "骸骨之中"
     }
   },
   "main_13-12": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "紅の花火",
       "zh_CN": "猩红烟火"
     }
   },
   "main_13-13": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "束の間の集い",
       "zh_CN": "短暂齐聚"
     }
   },
   "main_13-14": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "「我々」",
       "zh_CN": "“我们”"
     }
   },
   "main_13-15": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "打ち明け話",
       "zh_CN": "谁来倾诉"
     }
   },
   "main_13-16": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "胸の中の矜持",
       "zh_CN": "挺起胸膛"
     }
   },
   "main_13-17": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "骸の回廊",
       "zh_CN": "骸骨走廊"
     }
   },
   "main_13-18": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "たぎる血潮",
       "zh_CN": "血潮翻涌"
     }
   },
   "main_13-19": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "暗紅の君主",
       "zh_CN": "殷红君主"
     }
   },
@@ -42252,18 +42334,21 @@
   "st_13-01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "戦場内外",
       "zh_CN": "战场内外"
     }
   },
   "st_13-02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "冠を狙う者",
       "zh_CN": "窥冠冕者"
     }
   },
   "st_13-03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "蓄積された災厄",
       "zh_CN": "灾厄积渐"
     }
   },
@@ -42822,6 +42907,7 @@
   "tr_24": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "跡をたどって",
       "zh_CN": "寻迹而行"
     }
   },
@@ -44340,6 +44426,7 @@
   "main_13": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "悪兆渦流",
       "zh_CN": "恶兆湍流"
     }
   },
@@ -44996,6 +45083,7 @@
   "story_almond_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "航海",
       "zh_CN": "远航"
     }
   },
@@ -45558,6 +45646,7 @@
   "story_excu_set_2_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "敵",
       "zh_CN": "敌人"
     }
   },
@@ -45856,6 +45945,7 @@
   "story_heidi_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "最初の手紙",
       "zh_CN": "第一封信"
     }
   },
@@ -46598,6 +46688,7 @@
   "story_sddrag_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "葦の心",
       "zh_CN": "芦苇之心"
     }
   },

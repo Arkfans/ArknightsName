@@ -710,9 +710,11 @@
     "zh_CN": "视觉陷阱"
   },
   "skchr_delphn_1": {
+    "ja_JP": "「集中」",
     "zh_CN": "“贯注”"
   },
   "skchr_delphn_2": {
+    "ja_JP": "「制圧」",
     "zh_CN": "“抢攻”"
   },
   "skchr_demkni_1": {
@@ -1270,12 +1272,15 @@
     "zh_CN": "反制医疗模式"
   },
   "skchr_hodrer_1": {
+    "ja_JP": "消えぬ炎刃",
     "zh_CN": "重锋不熄"
   },
   "skchr_hodrer_2": {
+    "ja_JP": "重たき余燼",
     "zh_CN": "余烬重荷"
   },
   "skchr_hodrer_3": {
+    "ja_JP": "死地の硝煙",
     "zh_CN": "死境硝烟"
   },
   "skchr_horn_1": {
@@ -2812,6 +2817,7 @@
     "zh_CN": "落地斩·破门"
   },
   "skchr_vendla_2": {
+    "ja_JP": "茨の庇護",
     "zh_CN": "荆藤庇荫"
   },
   "skchr_vigil_1": {
@@ -2850,9 +2856,11 @@
     "zh_CN": "诅咒娃娃"
   },
   "skchr_vrdant_1": {
+    "ja_JP": "蒼翠の鎧",
     "zh_CN": "苍翠屏障"
   },
   "skchr_vrdant_2": {
+    "ja_JP": "藤の毒刃",
     "zh_CN": "双刃毒藤"
   },
   "skchr_vvana_1": {
@@ -3227,6 +3235,7 @@
     "zh_CN": "锐笔速写"
   },
   "sktok_bldore": {
+    "ja_JP": "血誓の王座",
     "zh_CN": "沥血王座"
   },
   "sktok_blizzard": {
@@ -3263,6 +3272,7 @@
     "zh_CN": "发射缚网"
   },
   "sktok_bonore": {
+    "ja_JP": "血の祭壇",
     "zh_CN": "唤血祭坛"
   },
   "sktok_bouncy_1": {
@@ -3924,6 +3934,7 @@
     "zh_CN": "脉冲波"
   },
   "sktok_outset": {
+    "ja_JP": "爆弾積込み地点",
     "zh_CN": "炸弹载荷点"
   },
   "sktok_oxygen": {

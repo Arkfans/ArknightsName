@@ -76,10 +76,10 @@ tip: 请善用浏览器的搜索功能
 | 31054 | 切削原液 | Cutting Fluid Solution | 上級切削液 |
 | 31063 | 转质盐组 | Transmuted Salt | 転化塩 |
 | 31064 | 转质盐聚块 | Transmuted Salt Agglomerate | 上級転化塩 |
-| 31073 | 褐素纤维 | - | - |
-| 31074 | 固化纤维板 | - | - |
-| 31083 | 环烃聚质 | - | - |
-| 31084 | 环烃预制体 | - | - |
+| 31073 | 褐素纤维 | - | 褐素繊維 |
+| 31074 | 固化纤维板 | - | 硬化ファイバー基板 |
+| 31083 | 环烃聚质 | - | 炭化水素ポリマー |
+| 31084 | 环烃预制体 | - | プレハブ式炭化水素 |
 | 3112 | 碳 | Carbon Stick | 初級炭素材 |
 | 3113 | 碳素 | Carbon Brick | 中級炭素材 |
 | 3114 | 碳素组 | Carbon Pack | 上級炭素材 |
@@ -293,7 +293,7 @@ tip: 请善用浏览器的搜索功能
  | - | - |
 | act4bossrush_token_relic | 数据黑盒 | - | - |
 | act4d0_intelligencepoint | 有效情报值 | Valid Intelligence Unit | 情報データ |
-| act4d5_point_kfc | KFC积分 | - | - |
+| act4d5_point_kfc | KFC积分 | - | KFCポイント |
 | act5d0_point_medal | 终极企鹅勋章 | Top Tier Penguin Medal | ウルトラPG勲章 |
 | act5d0_point_medal_rep_1 | 终极企鹅勋章 | Top Tier Penguin Medal | ウルトラPG勲章 |
 | act5d1_point_conbounty | 合约赏金 | Contract Bounty | 契約賞金 |
@@ -500,10 +500,10 @@ tip: 请善用浏览器的搜索功能
 | class_p_char_491_humus | 休谟斯的中坚信物 | Humus's Kernel Token | ヒューマスの印（中堅） |
 | classic_fes_pick_tier_5_3801 | 中坚甄选5星干员 | Kernel Locating 5* Operator | 中堅セレクト★5オペレーター |
 | classic_fes_pick_tier_5_4101 | 中坚甄选5星干员 | Kernel Locating 5* Operator | 中堅セレクト★5オペレーター |
-| classic_fes_pick_tier_5_4401 | 中坚甄选5星干员 | - | - |
+| classic_fes_pick_tier_5_4401 | 中坚甄选5星干员 | - | 中堅セレクト★5オペレーター |
 | classic_fes_pick_tier_6_3801 | 中坚甄选6星干员 | Kernel Locating 6* Operator | 中堅セレクト★6オペレーター |
 | classic_fes_pick_tier_6_4101 | 中坚甄选6星干员 | Kernel Locating 6* Operator | 中堅セレクト★6オペレーター |
-| classic_fes_pick_tier_6_4401 | 中坚甄选6星干员 | - | - |
+| classic_fes_pick_tier_6_4401 | 中坚甄选6星干员 | - | 中堅セレクト★6オペレーター |
 | classic_gacha | 中坚寻访凭证 | Kernel Headhunting Permit | 中堅スカウト券 |
 | classic_gacha_10 | 十连中坚寻访凭证 | Ten-roll Kernel Headhunting Permit | 10回中堅スカウト券 |
 | classic_normal_ticket | 通用凭证 | Universal Certificates | 中堅資格証 |
@@ -803,7 +803,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4082_qiubai | 仇白的信物 | Qiubai's Token | チューバイの印 |
 | p_char_4083_chimes | 铎铃的信物 | Wind Chimes's Token | ウィンドチャイムの印 |
 | p_char_4087_ines | 伊内丝的信物 | Ines's Token | イネスの印 |
-| p_char_4088_hodrer | 赫德雷的信物 | - | - |
+| p_char_4088_hodrer | 赫德雷的信物 | - | ヘドリーの印 |
 | p_char_4093_frston | Friston-3的信物 | Friston-3's Token | フリストン-3の印 |
 | p_char_4098_vvana | 薇薇安娜的信物 | - | - |
 | p_char_4100_caper | 跃跃的信物 | - | - |
@@ -811,9 +811,9 @@ tip: 请善用浏览器的搜索功能
 | p_char_4104_coldst | 冰酿的信物 | Coldshot's Token | コールドショットの印 |
 | p_char_4105_almond | 杏仁的信物 | Almond's Token | アーモンドの印 |
 | p_char_4106_bryota | 苍苔的信物 | Bryophyta's Token | ブライオファイタの印 |
-| p_char_4107_vrdant | 维荻的信物 | - | - |
+| p_char_4107_vrdant | 维荻的信物 | - | ヴァーダントの印 |
 | p_char_4109_baslin | 深律的信物 | - | - |
-| p_char_4110_delphn | 戴菲恩的信物 | - | - |
+| p_char_4110_delphn | 戴菲恩的信物 | - | デルフィーンの印 |
 | p_char_4114_harold | 哈洛德的信物 | - | - |
 | p_char_4116_blkkgt | 锏的信物 | - | - |
 | p_char_4117_ray | 莱伊的信物 | - | - |
@@ -868,7 +868,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_491_humus | 休谟斯的信物 | Humus's Token | ヒューマスの印 |
 | p_char_492_quercu | 夏栎的信物 | Quercus's Token | クエルクスの印 |
 | p_char_493_firwhl | 火哨的信物 | Firewhistle's Token | ファイヤーホイッスルの印 |
-| p_char_494_vendla | 刺玫的信物 | - | - |
+| p_char_494_vendla | 刺玫的信物 | - | ヴァンデラの印 |
 | p_char_496_wildmn | 野鬃的信物 | Wild Mane's Token | ワイルドメインの印 |
 | p_char_497_ctable | 晓歌的信物 | Cantabile's Token | カンタービレの印 |
 | p_char_498_inside | 隐现的信物 | Insider's Token | インサイダーの印 |
@@ -911,13 +911,13 @@ tip: 请善用浏览器的搜索功能
 | renamingCard_0_027 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
 | renamingCard_0_033 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
 | renamingCard_0_038 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
-| renamingCard_0_044 | ID信息更新卡 | - | - |
+| renamingCard_0_044 | ID信息更新卡 | - | ID情報更新カード |
 | renamingCard_30_018 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
 | renamingCard_30_023 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
 | renamingCard_30_027 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
 | renamingCard_30_033 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
 | renamingCard_30_038 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
-| renamingCard_30_044 | ID信息更新卡 | - | - |
+| renamingCard_30_044 | ID信息更新卡 | - | ID情報更新カード |
 | return_credit_token | 二次认证徽记 | Second Authentication Emblem | 二次認証徽章 |
 | return_credit_token2 | 二次认证徽记 | Second Authentication Emblem | 二次認証徽章 |
 | return_progress | 回流累登券 | Returnee Cumulative Login Ticket | リターン累計ログインチケット |
@@ -1058,5 +1058,5 @@ tip: 请善用浏览器的搜索功能
 | voucher_recruitR5_pick2701 | 资深干员调用凭证 | Senior Operator Transfer Permit | ★5招聘指名券 |
 | voucher_recruitR5_pick3801 | 资深干员调用凭证 | Senior Operator Transfer Permit | ★5招聘指名券 |
 | voucher_skin | 时装自选凭证 | Outfit Voucher | コーデ交換券 |
-| voucher_ulika | U-Official的文件夹 | U-Official's Folder | U-Officialのバインダー |
-| voucher_vigil | 伺夜的文件夹 | Vigil's Folder | ヴィジェルの書類挟み |
+| voucher_ulika | U-Official的文件夹 | U-Official's Folder | U-Officialの書類入れ |
+| voucher_vigil | 伺夜的文件夹 | Vigil's Folder | ヴィジェルの書類入れ |
