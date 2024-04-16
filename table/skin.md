@@ -179,7 +179,7 @@ tip: 请善用浏览器的搜索功能
 | char_297_hamoni@epoque#24 | 邀约 | Invitation | お誘い |
 | char_297_hamoni@unveiling#1 | 装点 | - | - |
 | char_298_susuro@summer#6 | 夏卉 FA026 | Summer Flower FA026 | 夏の花弁FA026 |
-| char_300_phenxi@witch#4 | 至圣誓言 | - | 至聖の誓言 |
+| char_300_phenxi@witch#4 | 至圣誓言 | Divine Oath | 至聖の誓言 |
 | char_302_glaze@summer#11 | 悠然假日 HD29 | Holiday HD29 | ホリデーHD29 |
 | char_304_zebra@wild#6 | 幽苔 | Tranquil Moss | 幽谷の緑苔 |
 | char_308_swire@nian#2 | 富贵荣华 | Honor and Splendor | 富貴栄華 |
@@ -249,7 +249,7 @@ tip: 请善用浏览器的搜索功能
 | char_4045_heidi@epoque#24 | 书信零落 | A Thousand Correspondences | 溢れ落ちる手紙 |
 | char_4046_ebnhlz@boc#6 | 变奏 | Eine Variation | 変奏 |
 | char_4047_pianst@wild#8 | 荒野寻音 | Freeland Tuneseeker | 荒野に音尋ね |
-| char_4048_doroth@witch#4 | 命运主宰 | - | 運命の支配者 |
+| char_4048_doroth@witch#4 | 命运主宰 | Hand of Destiny | 運命の支配者 |
 | char_4054_malist@summer#14 | 悠然假日 HDm74 | Holiday HDm74 | ホリデーHDm74 |
 | char_4055_bgsnow@wild#7 | 字句中的雪原 | Snowy Plains in Words | 行間にある雪原 |
 | char_405_absin@epoque#28 | 正午余光 | - | - |
@@ -279,7 +279,7 @@ tip: 请善用浏览器的搜索功能
 | char_430_fartth@whirlwind#5 | 捉风 | Hear the Wind Sing | 風をとらえて |
 | char_431_ashlok@epoque#28 | 卡利斯卡群枪 | - | - |
 | char_436_whispr@nian#4 | 孤寒峭 | Tremble Cold | 孤料峭 |
-| char_436_whispr@witch#4 | 幽邃隐修 | - | 幽遠のシスター |
+| char_436_whispr@witch#4 | 幽邃隐修 | Priory of Abyss | 幽遠のシスター |
 | char_437_mizuki@sale#7 | 夏日餮宴 | Summer Feast | 真夏の饗宴 |
 | char_440_pinecn@epoque#31 | 远行的季节 | - | - |
 | char_440_pinecn@shining#1 | 倾声歌唱 | Sing a Song | 歌声よ届け |
@@ -310,6 +310,6 @@ tip: 请善用浏览器的搜索功能
 | char_486_takila@ambienceSynesthesia#2 | 开牌制胜 | Cardwinner | ショーダウン |
 | char_489_serum@epoque#31 | 逸趣 | - | - |
 | char_492_quercu@epoque#17 | 遥乡之径 | Distant Home's Guide | 故郷は遠く |
-| char_492_quercu@witch#4 | 树影吟游 | - | 木陰の吟遊詩人 |
+| char_492_quercu@witch#4 | 树影吟游 | The Bard's Tale | 木陰の吟遊詩人 |
 | char_496_wildmn@epoque#16 | 正义缔造者 | Justice Maker | ジャスティスメーカー |
 | char_497_ctable@nian#9 | 灯如昼 | Illumination That of Daylights | 灯如昼 |

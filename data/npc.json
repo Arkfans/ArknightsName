@@ -235,8 +235,7 @@
   },
   "avg_106_franka_1": {
     "en_US": [
-      "Franka",
-      "芙兰卡"
+      "Franka"
     ],
     "ja_JP": [
       "フランカ"
@@ -466,6 +465,9 @@
     ]
   },
   "avg_147_shining_1": {
+    "en_US": [
+      "Shining"
+    ],
     "ja_JP": [
       "シャイニング"
     ],
@@ -578,6 +580,10 @@
     ]
   },
   "avg_179_cgbird_1": {
+    "en_US": [
+      "Liz?",
+      "Nightingale"
+    ],
     "ja_JP": [
       "ナイチンゲール",
       "リズ？"
@@ -882,8 +888,7 @@
     "en_US": [
       "'The Leader'",
       "Loughshinny",
-      "Reed",
-      "苇草"
+      "Reed"
     ],
     "ja_JP": [
       "「リーダー」",
@@ -1628,7 +1633,7 @@
   },
   "avg_4045_heidi_1": {
     "en_US": [
-      "海蒂"
+      "Heidi"
     ],
     "ja_JP": [
       "ハイディ"
@@ -1851,6 +1856,9 @@
     ]
   },
   "avg_4088_hodrer_1": {
+    "en_US": [
+      "Hoederer"
+    ],
     "ja_JP": [
       "ヘドリー"
     ],
@@ -1909,8 +1917,7 @@
       "Almond",
       "Blacksteel Operator",
       "Blacksteel Technician",
-      "Laura",
-      "罗拉"
+      "Laura"
     ],
     "ja_JP": [
       "BSWオペレーター",
@@ -1958,6 +1965,9 @@
     ]
   },
   "avg_4110_delphn_1": {
+    "en_US": [
+      "Delphine"
+    ],
     "ja_JP": [
       "デルフィーン"
     ],
@@ -2376,6 +2386,9 @@
     ]
   },
   "avg_494_vendla_1": {
+    "en_US": [
+      "Magdelene"
+    ],
     "ja_JP": [
       "マグダレーネ"
     ],
@@ -2614,8 +2627,10 @@
   "avg_npc_002": {
     "en_US": [
       "A Kazimierz Villager",
+      "Angry Infected",
       "Angry Miner",
       "Angry Villager",
+      "Excited Infected",
       "Fast Food Joint Owner",
       "Gangster Messenger",
       "Infected Employee",
@@ -3202,6 +3217,7 @@
     "en_US": [
       "Barty",
       "Bitter Root",
+      "Calm Operator",
       "Dario",
       "Dylan",
       "Engineering Operator",
@@ -3237,8 +3253,7 @@
       "Rhodes Island Operator B",
       "Sandwheel",
       "Tired Rhodes Island Operator",
-      "Vanguard Operator A",
-      "平静的干员"
+      "Vanguard Operator A"
     ],
     "ja_JP": [
       "エンジニア",
@@ -3356,7 +3371,8 @@
     "en_US": [
       "Mephisto's Guard",
       "Mephisto's Herd",
-      "Originiutant Infected"
+      "Originiutant Infected",
+      "Sarkaz Myriad Souls?"
     ],
     "ja_JP": [
       "サルカズの魂？",
@@ -4262,19 +4278,24 @@
       "Agama Gang",
       "Agama Gang Leader",
       "Armed Infected",
+      "Beleaguered Mercenary",
+      "Cheering Sarkaz Worker",
+      "Patrolling Sarkaz Soldier A",
+      "Patrolling Sarkaz Soldier B",
       "Sarkaz Boiler Worker",
       "Sarkaz Mercenary",
       "Sarkaz Mercenary A",
       "Sarkaz Mercenary B",
       "Sarkaz Passerby",
       "Sarkaz Soldier",
+      "Sarkaz Supervisor",
       "Sarkaz Teacher",
       "Sarkaz Warrior",
       "Sarkaz Warrior?",
       "Sarkaz Youth",
-      "Young Sarkaz Warrior",
-      "萨卡兹巡逻战士A",
-      "萨卡兹巡逻战士B"
+      "Slyly Smiling Sarkaz Worker",
+      "Tired Sarkaz Worker",
+      "Young Sarkaz Warrior"
     ],
     "ja_JP": [
       "くたびれた傭兵",
@@ -4334,12 +4355,15 @@
   },
   "avg_npc_054": {
     "en_US": [
+      "'Miner'",
       "Burly Townsfolk",
       "Ferocious Sarkaz Bandit",
+      "Fierce Sarkaz",
       "Grimm",
       "Guerrilla Sarkaz",
       "Mercenary Captain",
       "Panicking Sarkaz Bandit",
+      "Quiet Sarkaz Worker",
       "Sarkaz Assassin",
       "Sarkaz Mercenary",
       "Sarkaz Mercenary A",
@@ -4351,6 +4375,7 @@
       "Sarkaz Traitor",
       "Sarkaz Warrior",
       "Sarkaz Warrior?",
+      "Starving Mercenary",
       "Strange Townsfolk"
     ],
     "ja_JP": [
@@ -4417,7 +4442,8 @@
   },
   "avg_npc_056": {
     "en_US": [
-      "Theresa"
+      "Theresa",
+      "Theresa?"
     ],
     "ja_JP": [
       "テレジア",
@@ -4941,6 +4967,8 @@
       "Ivan",
       "Kevin",
       "Reunion Member",
+      "Reunion Soldier",
+      "Reunion Warrior",
       "Soda Hawker"
     ],
     "ja_JP": [
@@ -4972,13 +5000,16 @@
       "Haggard Worker",
       "Muscular Man",
       "Raymond",
+      "Reunion Member",
+      "Senile Old Man",
       "Shadow",
       "Stranger",
       "Uncle Pickett",
       "Ursus Caravan Member",
       "Ursus Farmer",
       "Ursus Villager",
-      "Villager"
+      "Villager",
+      "Worn-out Infected"
     ],
     "ja_JP": [
       "くたびれた労働者",
@@ -5182,13 +5213,13 @@
       "Operator Chard",
       "Operator Hoger",
       "Operator Shredder",
+      "Pensive Operator",
       "Rhodes Island Field Operator A",
       "Rhodes Island Logistics Operator",
       "Rhodes Island Operator",
       "Seanson",
       "Seasoned Rhodes Island Operator",
-      "Sniper Operator",
-      "沉默的干员"
+      "Sniper Operator"
     ],
     "ja_JP": [
       "シュレッダー",
@@ -5236,6 +5267,7 @@
       "Office Operator",
       "Office Operator A",
       "Operator Barty",
+      "Operator Passerby",
       "Operator Will",
       "Panicked Rhodes Island Operator",
       "Piston",
@@ -5243,8 +5275,7 @@
       "Rhodes Island Field Operator A",
       "Rhodes Island Field Operator B",
       "Rhodes Island Operator",
-      "Serious Operator",
-      "路过的干员"
+      "Serious Operator"
     ],
     "ja_JP": [
       "ウィル",
@@ -5873,11 +5904,10 @@
       "Blacksteel Senior Operator",
       "Blacksteel Squad Member",
       "Calm Blacksteel Mercenary",
+      "Engineering Supervisor",
       "Helpless Blacksteel Mercenary",
       "Rational Blacksteel Mercenary",
-      "Twitchy Blacksteel Mercenary",
-      "工程主管",
-      "黑钢佣兵"
+      "Twitchy Blacksteel Mercenary"
     ],
     "ja_JP": [
       "BSWエンジニア",
@@ -5933,6 +5963,9 @@
     ]
   },
   "avg_npc_1065_1": {
+    "en_US": [
+      "Guard"
+    ],
     "ja_JP": [
       "Guard"
     ],
@@ -5941,6 +5974,9 @@
     ]
   },
   "avg_npc_1066_1": {
+    "en_US": [
+      "Nowell"
+    ],
     "ja_JP": [
       "ノウエル"
     ],
@@ -5949,6 +5985,9 @@
     ]
   },
   "avg_npc_1067_1": {
+    "en_US": [
+      "Ulšulah"
+    ],
     "ja_JP": [
       "ウルスラ"
     ],
@@ -5957,6 +5996,9 @@
     ]
   },
   "avg_npc_1068_1": {
+    "en_US": [
+      "Duke of Gododdin"
+    ],
     "ja_JP": [
       "ゴドズィン公爵"
     ],
@@ -5965,6 +6007,9 @@
     ]
   },
   "avg_npc_1069_1": {
+    "en_US": [
+      "Freda"
+    ],
     "ja_JP": [
       "フリーダ"
     ],
@@ -5984,6 +6029,9 @@
     ]
   },
   "avg_npc_1070_1": {
+    "en_US": [
+      "Shearer"
+    ],
     "ja_JP": [
       "シアラー少尉"
     ],
@@ -5992,6 +6040,9 @@
     ]
   },
   "avg_npc_1071_1": {
+    "en_US": [
+      "Banshee"
+    ],
     "ja_JP": [
       "バンシー"
     ],
@@ -6001,6 +6052,9 @@
     ]
   },
   "avg_npc_1072_1": {
+    "en_US": [
+      "Logos"
+    ],
     "ja_JP": [
       "Logos"
     ],
@@ -6009,6 +6063,10 @@
     ]
   },
   "avg_npc_1073_1": {
+    "en_US": [
+      "Swordguard",
+      "Victorian Officer"
+    ],
     "ja_JP": [
       "ソードガード",
       "ヴィクトリア士官"
@@ -6090,7 +6148,7 @@
   },
   "avg_npc_1118_1": {
     "en_US": [
-      "费德里科"
+      "Federico"
     ],
     "ja_JP": [
       "フェデリコ"
@@ -6101,7 +6159,7 @@
   },
   "avg_npc_1119_1": {
     "en_US": [
-      "费德里科"
+      "Federico"
     ],
     "ja_JP": [
       "フェデリコ"
@@ -7135,6 +7193,7 @@
     "en_US": [
       "Anum",
       "Calm Woman",
+      "Caravan Head",
       "Emilia",
       "Grimed Woman",
       "Passerby Sargon Townsfolk"
@@ -7160,6 +7219,7 @@
     "en_US": [
       "Arrogant Merchant",
       "Belligerent Villager",
+      "Black Market Merchant",
       "Disheveled Person",
       "Dispirited Straggler",
       "Infected Townsfolk",
@@ -7336,6 +7396,7 @@
       "Calm Councilor",
       "Caravan Head",
       "Cheery Actress",
+      "Exhausted Viscount",
       "Female Designer",
       "Hesitant Ambassador",
       "Kind-Faced Noble",
@@ -8349,6 +8410,7 @@
       "National Council Representative",
       "Prosecutor",
       "Raythean Industries Representative",
+      "Red Wine Senior Editor",
       "Secretary",
       "Serious Corporate Employee",
       "Staff",
@@ -8423,6 +8485,7 @@
       "Knight Scout",
       "Mid-level Manager",
       "Professor's Assistant",
+      "Red Wine Intern Journalist",
       "Researcher",
       "Retained Lawyer",
       "Snobby Official",
@@ -8651,7 +8714,7 @@
       "Jurian",
       "Knight",
       "Naughty Child",
-      "顽皮的孩子"
+      "Victorian Boy"
     ],
     "ja_JP": [
       "ひもじい屋台の店主",
@@ -8683,6 +8746,7 @@
   },
   "avg_npc_241": {
     "en_US": [
+      "Angry NCO",
       "Gentle Officer",
       "Guards Member",
       "Guards' Captain",
@@ -8692,6 +8756,8 @@
       "Special Forces Soldier",
       "Victorian Officer",
       "Victorian Soldier",
+      "Victorian Soldier A",
+      "Victorian Soldier B",
       "Young Soldier"
     ],
     "ja_JP": [
@@ -8732,6 +8798,7 @@
       "Amazed Passerby",
       "Angry Citizen",
       "Angry Youth",
+      "Anxious Villager",
       "Bent",
       "Busy Youth",
       "Chef MacMartin",
@@ -8763,6 +8830,7 @@
       "Unfamiliar Man",
       "Wasting Deserter",
       "Wheedling Merchant Alumnus",
+      "Will",
       "Wounded Youth",
       "Young Volunteer"
     ],
@@ -8947,6 +9015,7 @@
       "Patrol Soldier",
       "Staff Officer",
       "Stern Officer",
+      "Victorian Soldier",
       "Victorian Soldier A",
       "Victorian Soldier B"
     ],
@@ -9789,6 +9858,7 @@
     "en_US": [
       "Bean the Infected",
       "Gordon",
+      "Nervous Infected",
       "Pale Man"
     ],
     "ja_JP": [
@@ -10051,6 +10121,7 @@
       "Cheerful Neighbor",
       "Composed Lateran Citizen",
       "Conscientious Doctor",
+      "Executor-in-Training",
       "Joyous Lateran Citizen",
       "Laid-Back Passerby",
       "Not-So-Candid Stall Owner",
@@ -10058,8 +10129,7 @@
       "Spirited Lateran",
       "Still-Trying-to-be-Candid Stall Owner",
       "Trying-to-Smile-Anyway Stall Owner",
-      "Veteran Lateran Commando",
-      "见习执行者"
+      "Veteran Lateran Commando"
     ],
     "ja_JP": [
       "うれしそうな市民",
@@ -10099,9 +10169,9 @@
       "Amiable Hospital Attendant",
       "Ardent Lateran Citizen",
       "Chatting Passerby",
+      "Hospital Careworker",
       "Hotel Manager",
-      "Joyous Lateran",
-      "医院护工"
+      "Joyous Lateran"
     ],
     "ja_JP": [
       "優しい市民",
@@ -10156,9 +10226,9 @@
       "Cleric?",
       "Friar",
       "Pious Cleric",
+      "Silent Cleric",
       "Sister",
-      "Warm Prioress",
-      "沉默的修士"
+      "Warm Prioress"
     ],
     "ja_JP": [
       "信心深い修道士",
@@ -10247,7 +10317,8 @@
   },
   "avg_npc_394_1": {
     "en_US": [
-      "Amiya"
+      "Amiya",
+      "Amiya?"
     ],
     "ja_JP": [
       "アーミヤ",
@@ -10310,6 +10381,7 @@
   "avg_npc_399_1": {
     "en_US": [
       "Columbian Mercenary",
+      "Former Defense Forces Soldier",
       "Special Forces Captain",
       "Victorian Mercenary"
     ],
@@ -10480,7 +10552,8 @@
   },
   "avg_npc_410_1": {
     "en_US": [
-      "Sanguinarch of Vampires"
+      "Sanguinarch of Vampires",
+      "Young Vampire?"
     ],
     "ja_JP": [
       "ブラッドブルードの大君",
@@ -10570,12 +10643,16 @@
     "en_US": [
       "Desperate Thug",
       "Dublinn Messenger",
+      "Frightened Refugee",
+      "Jittery Citizen",
       "Londinium Citizen",
       "Londinium Citizen?",
+      "Nervous Infected",
+      "Norport Refugee",
+      "Reunion Member",
       "Starving Thug",
       "Wary Man",
-      "Wary Smuggler",
-      "伦蒂尼姆市民"
+      "Wary Smuggler"
     ],
     "ja_JP": [
       "ダブリンの伝令",
@@ -10611,10 +10688,13 @@
     "en_US": [
       "Angry Thug",
       "Calm Thug",
+      "Cheering Civilian",
       "Gali",
       "Hairdresser",
       "Londinium Citizen",
       "Newsagent",
+      "Skeptical Citizen",
+      "Tired Citizen",
       "Worked-Up Thug"
     ],
     "ja_JP": [
@@ -10687,9 +10767,11 @@
   },
   "avg_npc_419_1": {
     "en_US": [
+      "Royal Court Junior Officer",
       "Royal Court Soldier",
       "Sarkaz Soldier",
-      "Sarkaz Warrior"
+      "Sarkaz Warrior",
+      "Spine Guardian"
     ],
     "ja_JP": [
       "サルカズ兵士",
@@ -10716,6 +10798,7 @@
   },
   "avg_npc_420_1": {
     "en_US": [
+      "Nachzehrer King",
       "Peculiar-looking Elder"
     ],
     "ja_JP": [
@@ -10732,6 +10815,7 @@
     "en_US": [
       "Apathetic Taran Man",
       "Gangster B",
+      "Indifferent Infected",
       "Skint Farmer"
     ],
     "ja_JP": [
@@ -11221,8 +11305,7 @@
   },
   "avg_npc_490_1": {
     "en_US": [
-      "Arturia",
-      "阿尔图罗"
+      "Arturia"
     ],
     "ja_JP": [
       "アルトリア"
@@ -11488,8 +11571,7 @@
       "Medic Operator",
       "Medical Department Operator",
       "Rhodes Island Operator",
-      "Woman in Operator Attire",
-      "医疗干员"
+      "Woman in Operator Attire"
     ],
     "ja_JP": [
       "アンダンテ",
@@ -11582,6 +11664,7 @@
     "en_US": [
       "Bar Patron",
       "Beachbrella Field Staff",
+      "Blacksteel Clerk",
       "Cheery Woman",
       "Impatient Reporter",
       "Nervous Entrepreneur",
@@ -11590,8 +11673,7 @@
       "Staff Worker",
       "Tall Woman",
       "Trimountarian",
-      "Unfamiliar Researcher",
-      "黑钢文员"
+      "Unfamiliar Researcher"
     ],
     "ja_JP": [
       "BSW事務員",
@@ -12378,8 +12460,7 @@
   },
   "avg_npc_647_1": {
     "en_US": [
-      "Golding",
-      "戈尔丁"
+      "Golding"
     ],
     "ja_JP": [
       "ゴールディング"
@@ -12483,8 +12564,7 @@
     "en_US": [
       "'Molly'",
       "Damazti Cluster",
-      "Molly",
-      "茉莉"
+      "Molly"
     ],
     "ja_JP": [
       "「モリ―」",
@@ -12528,8 +12608,10 @@
   },
   "avg_npc_660_1": {
     "en_US": [
+      "Desperate Refugee",
       "Londinium Worker",
-      "Londinium Worker A"
+      "Londinium Worker A",
+      "Panicked Refugee"
     ],
     "ja_JP": [
       "ロンディニウム工員",
@@ -13650,6 +13732,7 @@
   },
   "avg_npc_866_1": {
     "en_US": [
+      "Damazti Cluster",
       "Delphine"
     ],
     "ja_JP": [
@@ -13663,7 +13746,8 @@
   },
   "avg_npc_867_1": {
     "en_US": [
-      "'Trilby Asher'"
+      "'Trilby Asher'",
+      "Behatted Person"
     ],
     "ja_JP": [
       "「グレーシルクハット」",
@@ -13679,6 +13763,7 @@
   },
   "avg_npc_868_1": {
     "en_US": [
+      "Damazti Cluster",
       "Duke of Windermere"
     ],
     "ja_JP": [
@@ -14016,8 +14101,11 @@
   },
   "avg_npc_932_1": {
     "en_US": [
+      "'Shopkeep'",
       "Angry Sarkaz",
-      "Cautious Sarkaz Inhabitant"
+      "Astute Sarkaz",
+      "Cautious Sarkaz Inhabitant",
+      "Sarkaz Mercenary"
     ],
     "ja_JP": [
       "「資産家」",
@@ -14043,7 +14131,8 @@
   "avg_npc_933_1": {
     "en_US": [
       "Fernand",
-      "Hot-Headed Sarkaz"
+      "Hot-Headed Sarkaz",
+      "Sarkaz Drifter"
     ],
     "ja_JP": [
       "サルカズの流れ者",
@@ -14080,8 +14169,10 @@
   },
   "avg_npc_935_1": {
     "en_US": [
+      "'Driver'",
       "Caroline",
-      "Sarkaz Resident"
+      "Sarkaz Resident",
+      "Weary Sarkaz"
     ],
     "ja_JP": [
       "「運転手」",
@@ -14327,9 +14418,9 @@
   "avg_npc_972_1": {
     "en_US": [
       "HR Operator",
+      "Human Resources Operator",
       "Logistics Operator",
-      "Rhodes Island Landship Operator A",
-      "人事干员"
+      "Rhodes Island Landship Operator A"
     ],
     "ja_JP": [
       "人事オペレーター",
@@ -14351,8 +14442,8 @@
     "en_US": [
       "Intern Operator",
       "Logistics Operator",
-      "Rhodes Island Landship Operator B",
-      "档案室干员"
+      "Records Room Operator",
+      "Rhodes Island Landship Operator B"
     ],
     "ja_JP": [
       "実習オペレーター",
@@ -14576,6 +14667,7 @@
   },
   "avgnew_112_siege_1": {
     "en_US": [
+      "Misery",
       "Siege"
     ],
     "ja_JP": [
@@ -15143,7 +15235,9 @@
     "en_US": [
       "Determined Reunion Caster",
       "Illa",
-      "Reunion Caster"
+      "Mays",
+      "Reunion Caster",
+      "Reunion?"
     ],
     "ja_JP": [
       "イラ",
@@ -15369,8 +15463,7 @@
   },
   "char_124_kroos_1": {
     "en_US": [
-      "Kroos",
-      "克洛丝"
+      "Kroos"
     ],
     "ja_JP": [
       "クルース"
@@ -16131,8 +16224,7 @@
   },
   "char_211_adnach_1": {
     "en_US": [
-      "Adnachiel",
-      "安德切尔"
+      "Adnachiel"
     ],
     "ja_JP": [
       "アドナキエル"
@@ -16490,8 +16582,7 @@
   "char_279_excu_4": {
     "en_US": [
       "Executor",
-      "Federico",
-      "费德里科"
+      "Federico"
     ],
     "ja_JP": [
       "イグゼキュター",
@@ -17324,6 +17415,9 @@
     ]
   },
   "npc_10003_1": {
+    "en_US": [
+      "Mon3tr?"
+    ],
     "ja_JP": [
       "Mon3tr？"
     ],

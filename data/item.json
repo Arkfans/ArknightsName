@@ -349,18 +349,22 @@
     "zh_CN": "转质盐聚块"
   },
   "31073": {
+    "en_US": "Fuscous Fiber",
     "ja_JP": "褐素繊維",
     "zh_CN": "褐素纤维"
   },
   "31074": {
+    "en_US": "Solidified Fiber Board",
     "ja_JP": "硬化ファイバー基板",
     "zh_CN": "固化纤维板"
   },
   "31083": {
+    "en_US": "Aggregate Cyclicene",
     "ja_JP": "炭化水素ポリマー",
     "zh_CN": "环烃聚质"
   },
   "31084": {
+    "en_US": "Cyclicene Prefab",
     "ja_JP": "プレハブ式炭化水素",
     "zh_CN": "环烃预制体"
   },
@@ -2351,6 +2355,7 @@
     "zh_CN": "中坚甄选5星干员"
   },
   "classic_fes_pick_tier_5_4401": {
+    "en_US": "Kernel Locating 5* Operator",
     "ja_JP": "中堅セレクト★5オペレーター",
     "zh_CN": "中坚甄选5星干员"
   },
@@ -2365,6 +2370,7 @@
     "zh_CN": "中坚甄选6星干员"
   },
   "classic_fes_pick_tier_6_4401": {
+    "en_US": "Kernel Locating 6* Operator",
     "ja_JP": "中堅セレクト★6オペレーター",
     "zh_CN": "中坚甄选6星干员"
   },
@@ -3854,6 +3860,7 @@
     "zh_CN": "伊内丝的信物"
   },
   "p_char_4088_hodrer": {
+    "en_US": "Hoederer's Token",
     "ja_JP": "ヘドリーの印",
     "zh_CN": "赫德雷的信物"
   },
@@ -3889,6 +3896,7 @@
     "zh_CN": "苍苔的信物"
   },
   "p_char_4107_vrdant": {
+    "en_US": "Verdant's Token",
     "ja_JP": "ヴァーダントの印",
     "zh_CN": "维荻的信物"
   },
@@ -3896,6 +3904,7 @@
     "zh_CN": "深律的信物"
   },
   "p_char_4110_delphn": {
+    "en_US": "Delphine's Token",
     "ja_JP": "デルフィーンの印",
     "zh_CN": "戴菲恩的信物"
   },
@@ -4142,6 +4151,7 @@
     "zh_CN": "火哨的信物"
   },
   "p_char_494_vendla": {
+    "en_US": "Vendela's Token",
     "ja_JP": "ヴァンデラの印",
     "zh_CN": "刺玫的信物"
   },
@@ -4352,6 +4362,7 @@
     "zh_CN": "ID信息更新卡"
   },
   "renamingCard_0_044": {
+    "en_US": "ID Info Update Card",
     "ja_JP": "ID情報更新カード",
     "zh_CN": "ID信息更新卡"
   },
@@ -4381,6 +4392,7 @@
     "zh_CN": "ID信息更新卡"
   },
   "renamingCard_30_044": {
+    "en_US": "ID Info Update Card",
     "ja_JP": "ID情報更新カード",
     "zh_CN": "ID信息更新卡"
   },

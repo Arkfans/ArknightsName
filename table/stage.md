@@ -686,7 +686,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_11 | 盘桓蜀道 | Lingering Shangshu Trails | 蜿蜒たる蜀道 |
 | camp_r_12 | 巧克力大街 | Chocolate Street | チョコストリート |
 | camp_r_13 | 昏黑造船厂 | Penumbra Shipyards | 暗き造船所 |
-| camp_r_14 | 实验基地机库 | Research Base Hanger | 実験基地の格納庫 |
+| camp_r_14 | 实验基地机库 | Research Base Hangar | 実験基地の格納庫 |
 | camp_r_15 | 龙门商业街 | Lungmen Commercial District | 龍門商店街 |
 | camp_r_16 | 休止符街道 | Rest Avenue | フェルマーテ通り |
 | camp_r_17 | 灰暗泥沼 | Ashy Marsh | 薄暗い泥沼 |
@@ -727,10 +727,10 @@ tip: 请善用浏览器的搜索功能
 | hard_12-02 | 惊霆行动-2 | Operation Astrape-2 | 驚靂作戦‐2 |
 | hard_12-03 | 惊霆行动-3 | Operation Astrape-3 | 驚靂作戦‐3 |
 | hard_12-04 | 惊霆行动-4 | Operation Astrape-4 | 驚靂作戦‐4 |
-| hard_13-01 | 湍流行动-1 | - | 激流作戦-1 |
-| hard_13-02 | 湍流行动-2 | - | 激流作戦-2 |
-| hard_13-03 | 湍流行动-3 | - | 激流作戦-3 |
-| hard_13-04 | 湍流行动-4 | - | 激流作戦-4 |
+| hard_13-01 | 湍流行动-1 | Operation Charybdis-1 | 激流作戦-1 |
+| hard_13-02 | 湍流行动-2 | Operation Charybdis-2 | 激流作戦-2 |
+| hard_13-03 | 湍流行动-3 | Operation Charybdis-3 | 激流作戦-3 |
+| hard_13-04 | 湍流行动-4 | Operation Charybdis-4 | 激流作戦-4 |
 | lt_01_01 | 五号矿洞 | Mine #5 | 5号坑道 |
 | lt_01_02 | 唯利是图 | Mercenary | 私利私欲 |
 | lt_01_03 | 恶势力 | Evil Forces | テロリスト |
@@ -1003,25 +1003,25 @@ tip: 请善用浏览器的搜索功能
 | main_12-16 | 晚安 | Good Night | おやすみなさい |
 | main_12-17 | 飞跃，烟火 | Fly, Fireworks | 火種、飛び越えて |
 | main_12-18 | 诚挚邀请 | Sincere Invitation | 真摯な誘い |
-| main_13-01 | 眼前的伤 | - | 目の前の傷 |
-| main_13-02 | 不得暂歇 | - | 息つく間もなく |
-| main_13-03 | 佣兵一日 | - | 傭兵の一日 |
-| main_13-04 | 苦厄盘桓 | - | わだかまる苦厄 |
-| main_13-05 | 典范之名 | - | 模範の名のもと |
-| main_13-06 | 唤血祭坛 | - | 血の祭壇 |
-| main_13-07 | 不虞之会 | - | 思わぬ再会 |
-| main_13-08 | 幻境迁流 | - | 移り行く幻境 |
-| main_13-09 | 小镇翳云 | - | 町を覆う暗雲 |
-| main_13-10 | 破碎温室 | - | 砕けた温室 |
-| main_13-11 | 骸骨之中 | - | 骸の中 |
-| main_13-12 | 猩红烟火 | - | 紅の花火 |
-| main_13-13 | 短暂齐聚 | - | 束の間の集い |
-| main_13-14 | “我们” | - | 「我々」 |
-| main_13-15 | 谁来倾诉 | - | 打ち明け話 |
-| main_13-16 | 挺起胸膛 | - | 胸の中の矜持 |
-| main_13-17 | 骸骨走廊 | - | 骸の回廊 |
-| main_13-18 | 血潮翻涌 | - | たぎる血潮 |
-| main_13-19 | 殷红君主 | - | 暗紅の君主 |
+| main_13-01 | 眼前的伤 | The Injury at Hand | 目の前の傷 |
+| main_13-02 | 不得暂歇 | Not a Moment's Rest | 息つく間もなく |
+| main_13-03 | 佣兵一日 | The Mercenary's Day | 傭兵の一日 |
+| main_13-04 | 苦厄盘桓 | Anguish Hangs O'er | わだかまる苦厄 |
+| main_13-05 | 典范之名 | In the Name of Example | 模範の名のもと |
+| main_13-06 | 唤血祭坛 | The Bloodcalling Altar | 血の祭壇 |
+| main_13-07 | 不虞之会 | An Unplanned Meeting | 思わぬ再会 |
+| main_13-08 | 幻境迁流 | The Promised Land Drifts | 移り行く幻境 |
+| main_13-09 | 小镇翳云 | A Town Amidst the Clouds | 町を覆う暗雲 |
+| main_13-10 | 破碎温室 | Shattered Greenhouse | 砕けた温室 |
+| main_13-11 | 骸骨之中 | In Carcass Bones | 骸の中 |
+| main_13-12 | 猩红烟火 | Fireworks Sear Scarlet | 紅の花火 |
+| main_13-13 | 短暂齐聚 | Briefly Gathered | 束の間の集い |
+| main_13-14 | “我们” | 'We' | 「我々」 |
+| main_13-15 | 谁来倾诉 | Someone Speak Your Mind | 打ち明け話 |
+| main_13-16 | 挺起胸膛 | Throw Out Your Chest | 胸の中の矜持 |
+| main_13-17 | 骸骨走廊 | The Osseous Aisle | 骸の回廊 |
+| main_13-18 | 血潮翻涌 | Sanguinary Billows | たぎる血潮 |
+| main_13-19 | 殷红君主 | The Archon in Sanguine | 暗紅の君主 |
 | pro_a_1 | 防守 | Defense | 守備 |
 | pro_a_2 | 据守 | Guard | 防衛 |
 | pro_b_1 | 干涉 | Interference | 干渉 |
@@ -1063,9 +1063,9 @@ tip: 请善用浏览器的搜索功能
 | st_12-01 | 火光热浪 | Heat Wave | 火と熱風 |
 | st_12-02 | 时不我待 | Ticking Clock | 時は待たず |
 | st_12-03 | 战场静悄悄 | Quiet On the Front | 嵐の前の静けさ |
-| st_13-01 | 战场内外 | - | 戦場内外 |
-| st_13-02 | 窥冠冕者 | - | 冠を狙う者 |
-| st_13-03 | 灾厄积渐 | - | 蓄積された災厄 |
+| st_13-01 | 战场内外 | Across the Battlefield's Line | 戦場内外 |
+| st_13-02 | 窥冠冕者 | Those Espying the Crown | 冠を狙う者 |
+| st_13-03 | 灾厄积渐 | Disaster Coalesces | 蓄積された災厄 |
 | sub_02-01 | 迟缓-1 | Slow-1 | 緩慢-1 |
 | sub_02-02 | 迟缓-2 | Slow-2 | 緩慢-2 |
 | sub_02-03 | 封锁-1 | Blockade-1 | 封鎖-1 |
@@ -1135,7 +1135,7 @@ tip: 请善用浏览器的搜索功能
 | tr_21 | 枯枝 | Twigs | 枯れ枝 |
 | tr_22 | 明辨是非 | Know Right From Wrong | 善悪の判断 |
 | tr_23 | 恶魔诱惑 | Devil's Temptation | 悪魔の誘惑 |
-| tr_24 | 寻迹而行 | - | 跡をたどって |
+| tr_24 | 寻迹而行 | Led to Pursue | 跡をたどって |
 | wk_armor_1 | 废墟清剿 | Ruins Siege | 廃墟殲滅 |
 | wk_armor_2 | 窝点清剿 | Stronghold Siege | 拠点殲滅 |
 | wk_armor_3 | 哨所清剿 | Outpost Siege | 秘密基地殲滅 |

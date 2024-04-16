@@ -694,23 +694,24 @@ tip: 请善用浏览器的搜索功能
 | enemy_1358_esheld_2 | 匪帮防御者头目 | Paramilitary Defender Leader | 野盗ディフェンダーの頭目 |
 | enemy_1359_ekulsr | 匪帮轰击者 | Paramilitary Bombardier | 野盗ボマー |
 | enemy_1359_ekulsr_2 | 匪帮轰击者头目 | Paramilitary Bombardier Leader | 野盗ボマーの頭目 |
-| enemy_1360_dfello | 新生血裔 | - | 新生の血裔 |
-| enemy_1361_dthrow | 萨卡兹子裔轰击者 | - | サルカズ眷属砲撃者 |
-| enemy_1361_dthrow_2 | 萨卡兹子裔毁击者 | - | サルカズ眷属砲撃隊長 |
-| enemy_1362_dfat | 萨卡兹子裔责罚者 | - | サルカズ眷属懲戒者 |
-| enemy_1362_dfat_2 | 萨卡兹子裔惩戒者 | - | サルカズ眷属懲戒隊長 |
-| enemy_1363_spnshd | 萨卡兹骸骨卫士 | - | サルカズ骨骸衛士 |
-| enemy_1363_spnshd_2 | 萨卡兹骸骨卫士长 | - | サルカズ骨骸衛士長 |
-| enemy_1364_spnaxe | 萨卡兹骸骨鞭笞者 | - | サルカズ骨骸拷問者 |
-| enemy_1364_spnaxe_2 | 萨卡兹骸骨拷打者 | - | サルカズ骨骸拷問隊長 |
-| enemy_1365_spnwiz | 萨卡兹骸骨漂泊术师 | - | サルカズ骨骸流浪術師 |
+| enemy_1360_dfello | 新生血裔 | Bloodborn Spawn | 新生の血裔 |
+| enemy_1361_dthrow | 萨卡兹子裔轰击者 | Sarkaz Heirbearer Bombardier | サルカズ眷属砲撃者 |
+| enemy_1361_dthrow_2 | 萨卡兹子裔毁击者 | Sarkaz Heirbearer Annihilator | サルカズ眷属砲撃隊長 |
+| enemy_1362_dfat | 萨卡兹子裔责罚者 | Sarkaz Heirbearer Punisher | サルカズ眷属懲戒者 |
+| enemy_1362_dfat_2 | 萨卡兹子裔惩戒者 | Sarkaz Heirbearer Scourger | サルカズ眷属懲戒隊長 |
+| enemy_1363_spnshd | 萨卡兹骸骨卫士 | Sarkaz Boneguard | サルカズ骨骸衛士 |
+| enemy_1363_spnshd_2 | 萨卡兹骸骨卫士长 | Sarkaz Boneguard Captain | サルカズ骨骸衛士長 |
+| enemy_1364_spnaxe | 萨卡兹骸骨鞭笞者 | Sarkaz Boneguard Flayer | サルカズ骨骸拷問者 |
+| enemy_1364_spnaxe_2 | 萨卡兹骸骨拷打者 | Sarkaz Boneguard Torturer | サルカズ骨骸拷問隊長 |
+| enemy_1365_spnwiz | 萨卡兹骸骨漂泊术师 | Sarkaz Boneguard Fluxcaster | サルカズ骨骸流浪術師 |
 | enemy_1365_spnwiz_2 | 萨卡兹骸骨漂泊术师长
- | - | サルカズ骨骸流浪術師長 |
-| enemy_1366_dcolle | 萨卡兹敛血行者 | - | サルカズ血珀収集者 |
-| enemy_1366_dcolle_2 | 萨卡兹萃血行者 | - | サルカズ精鋭血珀収集者 |
-| enemy_1367_dseed | 血珀 | - | 血珀 |
-| enemy_1368_spilot | 指挥官厄尔苏拉 | - | 指揮官ウルスラ |
-| enemy_1369_bmbcar1 | 反巫术变位炸弹 | - | 対巫術軌道式爆弾 |
+ | Sarkaz Boneguard Fluxcaster Captain
+ | サルカズ骨骸流浪術師長 |
+| enemy_1366_dcolle | 萨卡兹敛血行者 | Sarkaz Bloodwalker | サルカズ血珀収集者 |
+| enemy_1366_dcolle_2 | 萨卡兹萃血行者 | Sarkaz Bloodnexus | サルカズ精鋭血珀収集者 |
+| enemy_1367_dseed | 血珀 | Blood Amber | 血珀 |
+| enemy_1368_spilot | 指挥官厄尔苏拉 | Commander Ulšulah | 指揮官ウルスラ |
+| enemy_1369_bmbcar1 | 反巫术变位炸弹 | Anti-Witchcraft Repositionable Bomb | 対巫術軌道式爆弾 |
 | enemy_1371_ltnflu | 残党乐团长笛手 | - | - |
 | enemy_1371_ltnflu_2 | 巫王乐团长笛手 | - | - |
 | enemy_1372_ltntpt | 残党乐团小号手 | - | - |
@@ -853,7 +854,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1544_cledub | “花匠” | 'The Gardener' | 「ガーデナー」 |
 | enemy_1545_shpkg | 多利，“羊之主” | Dolly, Sovereign of Sheep | 「羊主」ドリー |
 | enemy_1546_cliff | “桥夹”克里夫 | 'Clip' Cliff | 「クリップ」クリフ |
-| enemy_1547_blord | 杜卡雷，“君主之红” | - | Duq'arael・「君主の紅」 |
+| enemy_1547_blord | 杜卡雷，“君主之红” | Duq'arael, 'Regent's Crimson' | Duq'arael・「君主の紅」 |
 | enemy_1548_ltniak | 赫尔昏佐伦，“巫王” | - | - |
 | enemy_1549_windoc | 哈洛德·克雷加文 | - | - |
 | enemy_1550_dhnzzh | “祟” | - | - |

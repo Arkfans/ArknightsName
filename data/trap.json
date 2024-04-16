@@ -600,14 +600,17 @@
     "zh_CN": "废热喷口"
   },
   "trap_125_bonore": {
+    "en_US": "Bloodcalling Altar",
     "ja_JP": "血の祭壇",
     "zh_CN": "唤血祭坛"
   },
   "trap_126_outset": {
+    "en_US": "Bomb Loading Point",
     "ja_JP": "爆弾装填点",
     "zh_CN": "炸弹载荷点"
   },
   "trap_127_bldore": {
+    "en_US": "Throne of Blood",
     "ja_JP": "血誓の王座",
     "zh_CN": "沥血王座"
   },

@@ -252,7 +252,7 @@ tip: 请善用浏览器的搜索功能
 | char_4082_qiubai | 仇白 | Qiubai | チューバイ |
 | char_4083_chimes | 铎铃 | Wind Chimes | ウィンドチャイム |
 | char_4087_ines | 伊内丝 | Ines | イネス |
-| char_4088_hodrer | 赫德雷 | - | へドリー |
+| char_4088_hodrer | 赫德雷 | Hoederer | へドリー |
 | char_4091_ulika | U-Official | U-Official | U-Official |
 | char_4093_frston | Friston-3 | Friston-3 | Friston-3 |
 | char_4098_vvana | 薇薇安娜 | - | - |
@@ -261,9 +261,9 @@ tip: 请善用浏览器的搜索功能
 | char_4104_coldst | 冰酿 | Coldshot | コールドショット |
 | char_4105_almond | 杏仁 | Almond | アーモンド |
 | char_4106_bryota | 苍苔 | Bryophyta | ブライオファイタ |
-| char_4107_vrdant | 维荻 | - | ヴァーダント |
+| char_4107_vrdant | 维荻 | Verdant | ヴァーダント |
 | char_4109_baslin | 深律 | - | - |
-| char_4110_delphn | 戴菲恩 | - | デルフィーン |
+| char_4110_delphn | 戴菲恩 | Delphine | デルフィーン |
 | char_4114_harold | 哈洛德 | - | - |
 | char_4116_blkkgt | 锏 | - | - |
 | char_4117_ray | 莱伊 | - | - |
@@ -319,7 +319,7 @@ tip: 请善用浏览器的搜索功能
 | char_491_humus | 休谟斯 | Humus | ヒューマス |
 | char_492_quercu | 夏栎 | Quercus | クエルクス |
 | char_493_firwhl | 火哨 | Firewhistle | ファイヤーホイッスル |
-| char_494_vendla | 刺玫 | - | ヴァンデラ |
+| char_494_vendla | 刺玫 | Vendela | ヴァンデラ |
 | char_496_wildmn | 野鬃 | Wild Mane | ワイルドメイン |
 | char_497_ctable | 晓歌 | Cantabile | カンタービレ |
 | char_498_inside | 隐现 | Insider | インサイダー |

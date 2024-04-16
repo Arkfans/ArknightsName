@@ -3221,7 +3221,7 @@
     "zh_CN": "昏黑造船厂"
   },
   "camp_r_14": {
-    "en_US": "Research Base Hanger",
+    "en_US": "Research Base Hangar",
     "ja_JP": "実験基地の格納庫",
     "zh_CN": "实验基地机库"
   },
@@ -3420,18 +3420,22 @@
     "zh_CN": "惊霆行动-4"
   },
   "hard_13-01": {
+    "en_US": "Operation Charybdis-1",
     "ja_JP": "激流作戦-1",
     "zh_CN": "湍流行动-1"
   },
   "hard_13-02": {
+    "en_US": "Operation Charybdis-2",
     "ja_JP": "激流作戦-2",
     "zh_CN": "湍流行动-2"
   },
   "hard_13-03": {
+    "en_US": "Operation Charybdis-3",
     "ja_JP": "激流作戦-3",
     "zh_CN": "湍流行动-3"
   },
   "hard_13-04": {
+    "en_US": "Operation Charybdis-4",
     "ja_JP": "激流作戦-4",
     "zh_CN": "湍流行动-4"
   },
@@ -4748,78 +4752,97 @@
     "zh_CN": "诚挚邀请"
   },
   "main_13-01": {
+    "en_US": "The Injury at Hand",
     "ja_JP": "目の前の傷",
     "zh_CN": "眼前的伤"
   },
   "main_13-02": {
+    "en_US": "Not a Moment's Rest",
     "ja_JP": "息つく間もなく",
     "zh_CN": "不得暂歇"
   },
   "main_13-03": {
+    "en_US": "The Mercenary's Day",
     "ja_JP": "傭兵の一日",
     "zh_CN": "佣兵一日"
   },
   "main_13-04": {
+    "en_US": "Anguish Hangs O'er",
     "ja_JP": "わだかまる苦厄",
     "zh_CN": "苦厄盘桓"
   },
   "main_13-05": {
+    "en_US": "In the Name of Example",
     "ja_JP": "模範の名のもと",
     "zh_CN": "典范之名"
   },
   "main_13-06": {
+    "en_US": "The Bloodcalling Altar",
     "ja_JP": "血の祭壇",
     "zh_CN": "唤血祭坛"
   },
   "main_13-07": {
+    "en_US": "An Unplanned Meeting",
     "ja_JP": "思わぬ再会",
     "zh_CN": "不虞之会"
   },
   "main_13-08": {
+    "en_US": "The Promised Land Drifts",
     "ja_JP": "移り行く幻境",
     "zh_CN": "幻境迁流"
   },
   "main_13-09": {
+    "en_US": "A Town Amidst the Clouds",
     "ja_JP": "町を覆う暗雲",
     "zh_CN": "小镇翳云"
   },
   "main_13-10": {
+    "en_US": "Shattered Greenhouse",
     "ja_JP": "砕けた温室",
     "zh_CN": "破碎温室"
   },
   "main_13-11": {
+    "en_US": "In Carcass Bones",
     "ja_JP": "骸の中",
     "zh_CN": "骸骨之中"
   },
   "main_13-12": {
+    "en_US": "Fireworks Sear Scarlet",
     "ja_JP": "紅の花火",
     "zh_CN": "猩红烟火"
   },
   "main_13-13": {
+    "en_US": "Briefly Gathered",
     "ja_JP": "束の間の集い",
     "zh_CN": "短暂齐聚"
   },
   "main_13-14": {
+    "en_US": "'We'",
     "ja_JP": "「我々」",
     "zh_CN": "“我们”"
   },
   "main_13-15": {
+    "en_US": "Someone Speak Your Mind",
     "ja_JP": "打ち明け話",
     "zh_CN": "谁来倾诉"
   },
   "main_13-16": {
+    "en_US": "Throw Out Your Chest",
     "ja_JP": "胸の中の矜持",
     "zh_CN": "挺起胸膛"
   },
   "main_13-17": {
+    "en_US": "The Osseous Aisle",
     "ja_JP": "骸の回廊",
     "zh_CN": "骸骨走廊"
   },
   "main_13-18": {
+    "en_US": "Sanguinary Billows",
     "ja_JP": "たぎる血潮",
     "zh_CN": "血潮翻涌"
   },
   "main_13-19": {
+    "en_US": "The Archon in Sanguine",
     "ja_JP": "暗紅の君主",
     "zh_CN": "殷红君主"
   },
@@ -5029,14 +5052,17 @@
     "zh_CN": "战场静悄悄"
   },
   "st_13-01": {
+    "en_US": "Across the Battlefield's Line",
     "ja_JP": "戦場内外",
     "zh_CN": "战场内外"
   },
   "st_13-02": {
+    "en_US": "Those Espying the Crown",
     "ja_JP": "冠を狙う者",
     "zh_CN": "窥冠冕者"
   },
   "st_13-03": {
+    "en_US": "Disaster Coalesces",
     "ja_JP": "蓄積された災厄",
     "zh_CN": "灾厄积渐"
   },
@@ -5386,6 +5412,7 @@
     "zh_CN": "恶魔诱惑"
   },
   "tr_24": {
+    "en_US": "Led to Pursue",
     "ja_JP": "跡をたどって",
     "zh_CN": "寻迹而行"
   },
