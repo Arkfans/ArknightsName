@@ -243,6 +243,9 @@ tip: 请善用浏览器的搜索功能
 | permanent_sub_5_zone1 | 未来将至 | The Coming of the Future | 来たる未来 |
 | permanent_sub_5_zone2 | 过往未尽 | The Lingering of the Past | 過ぎぬ過去 |
 | permanent_sub_5_zone3 | 紧握当下 | The Pursuing of the Present | 在るべき今 |
+| permanent_sub_6_zone1 | 我赠予未来 | - | - |
+| permanent_sub_6_zone2 | 我驻留往昔 | - | - |
+| permanent_sub_6_zone3 | 我始终如一 | - | - |
 | weekly_1 | 固若金汤 | Solid Defense | 重装/医療 |
 | weekly_2 | 摧枯拉朽 | Fierce Attack | 狙撃/術師 |
 | weekly_3 | 势不可挡 | Unstoppable Charge | 先鋒/補助 |

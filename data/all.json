@@ -4619,6 +4619,36 @@
       "zh_CN": "埋没金属箱"
     }
   },
+  "trap_482_xbblure": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "源石虫引诱器"
+    }
+  },
+  "trap_483_xbtrophy": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "“源石虫之心”"
+    }
+  },
+  "trap_484_xbcp": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "检查点"
+    }
+  },
+  "trap_485_xbrandprop": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "随机道具盒"
+    }
+  },
+  "trap_486_xbspd": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "加速块"
+    }
+  },
   "trap_700_cdabyss": {
     "type": "TRAP",
     "names": {
@@ -5195,6 +5225,12 @@
       "zh_CN": "寒冬信使"
     }
   },
+  "char_1033_swire2@ambienceSynesthesia#4": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "律动方格"
+    }
+  },
   "char_103_angel@kfc#1": {
     "type": "SKIN",
     "names": {
@@ -5607,6 +5643,12 @@
       "en_US": "the feast",
       "ja_JP": "盛宴",
       "zh_CN": "盛宴"
+    }
+  },
+  "char_172_svrash@ambienceSynesthesia#4": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "不融冰"
     }
   },
   "char_172_svrash@snow#1": {
@@ -6843,6 +6885,12 @@
       "en_US": "The Fruition",
       "ja_JP": "結実",
       "zh_CN": "结果"
+    }
+  },
+  "char_4027_heyak@ambienceSynesthesia#4": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "历世流风"
     }
   },
   "char_402_tuye@epoque#14": {
@@ -15273,6 +15321,24 @@
       "zh_CN": "勤奋劳工"
     }
   },
+  "enemy_7044_xblbug": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "振翅源石虫"
+    }
+  },
+  "enemy_7045_xbtd": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "冲锋源石虫"
+    }
+  },
+  "enemy_7046_xbslug": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "披甲源石虫"
+    }
+  },
   "enemy_8001_flmlod": {
     "type": "ENEMY",
     "names": {
@@ -21231,7 +21297,7 @@
     "names": {
       "en_US": "Monthly Card",
       "ja_JP": "月パス",
-      "zh_CN": "月卡"
+      "zh_CN": "月卡兑换凭证"
     }
   },
   "medal_activity_15side_01": {
@@ -33897,6 +33963,24 @@
       "zh_CN": "扫描"
     }
   },
+  "sktok_xbblure_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "引诱"
+    }
+  },
+  "sktok_xbblure_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "引诱"
+    }
+  },
+  "sktok_xbblure_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "引诱"
+    }
+  },
   "sktok_xbcage": {
     "type": "SKILL",
     "names": {
@@ -33913,6 +33997,12 @@
     "type": "SKILL",
     "names": {
       "zh_CN": "释放猎获"
+    }
+  },
+  "sktok_xbcp": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "检查点"
     }
   },
   "sktok_xbdiam": {
@@ -34101,6 +34191,18 @@
       "zh_CN": "资源规划"
     }
   },
+  "sktok_xbrandprop_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "发道具"
+    }
+  },
+  "sktok_xbrandprop_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "发道具"
+    }
+  },
   "sktok_xbroadblock": {
     "type": "SKILL",
     "names": {
@@ -34163,6 +34265,12 @@
     "type": "SKILL",
     "names": {
       "zh_CN": "陷阱"
+    }
+  },
+  "sktok_xbtrophy": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“跳动”"
     }
   },
   "sktok_xbwall": {
@@ -38755,6 +38863,36 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "再见，再见"
+    }
+  },
+  "act33side_mo01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "打扫街区"
+    }
+  },
+  "act33side_s01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "模拟刺杀作战-1"
+    }
+  },
+  "act33side_s02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "模拟刺杀作战-2"
+    }
+  },
+  "act33side_s03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "模拟刺杀作战-3"
+    }
+  },
+  "act33side_s04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "模拟刺杀作战-4"
     }
   },
   "act33side_st01": {
@@ -45047,6 +45185,24 @@
       "en_US": "The Pursuing of the Present",
       "ja_JP": "在るべき今",
       "zh_CN": "紧握当下"
+    }
+  },
+  "permanent_sub_6_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "我赠予未来"
+    }
+  },
+  "permanent_sub_6_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "我驻留往昔"
+    }
+  },
+  "permanent_sub_6_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "我始终如一"
     }
   },
   "weekly_1": {

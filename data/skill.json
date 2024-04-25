@@ -4454,6 +4454,15 @@
   "sktok_xbbee": {
     "zh_CN": "扫描"
   },
+  "sktok_xbblure_1": {
+    "zh_CN": "引诱"
+  },
+  "sktok_xbblure_2": {
+    "zh_CN": "引诱"
+  },
+  "sktok_xbblure_3": {
+    "zh_CN": "引诱"
+  },
   "sktok_xbcage": {
     "zh_CN": "捕获"
   },
@@ -4462,6 +4471,9 @@
   },
   "sktok_xbcbag": {
     "zh_CN": "释放猎获"
+  },
+  "sktok_xbcp": {
+    "zh_CN": "检查点"
   },
   "sktok_xbdiam": {
     "zh_CN": "可采集"
@@ -4568,6 +4580,12 @@
     "ja_JP": "資源計画",
     "zh_CN": "资源规划"
   },
+  "sktok_xbrandprop_1": {
+    "zh_CN": "发道具"
+  },
+  "sktok_xbrandprop_2": {
+    "zh_CN": "发道具"
+  },
   "sktok_xbroadblock": {
     "en_US": "Block Road",
     "ja_JP": "道路封鎖",
@@ -4601,6 +4619,9 @@
   },
   "sktok_xbtrap": {
     "zh_CN": "陷阱"
+  },
+  "sktok_xbtrophy": {
+    "zh_CN": "“跳动”"
   },
   "sktok_xbwall": {
     "en_US": "Defensive Support",

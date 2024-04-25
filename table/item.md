@@ -551,7 +551,7 @@ tip: 请善用浏览器的搜索功能
 | itempack_mod_7 | 先锋芯片组印刻仪 | Vanguard Chip Pack Etcher | 中級先鋒SoCプリンター |
 | itempack_mod_8 | 近卫芯片组印刻仪 | Guard Chip Pack Etcher | 中級前衛SoCプリンター |
 | itempack_mod_9 | 重装芯片组印刻仪 | Defender Chip Pack Etcher | 中級重装SoCプリンター |
-| mcardVoucher | 月卡 | Monthly Card | 月パス |
+| mcardVoucher | 月卡兑换凭证 | Monthly Card | 月パス |
 | medal_activity_15side_01 | “诗酒乘兴” | 'The Joys of Poetry and Wine' | 「酔吟の興」 |
 | medal_activity_15side_03 | “寒芒新淬” | 'Refreshed in Cold Light' | 「寒芒新たに淬ぐ」 |
 | medal_activity_15side_04 | “豪爽之人” | 'A Bold Individual' | 「豪快な者」 |

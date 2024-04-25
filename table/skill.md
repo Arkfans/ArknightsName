@@ -938,9 +938,13 @@ tip: 请善用浏览器的搜索功能
 | sktok_xbbarir | 阻挡 | - | - |
 | sktok_xbbase | 能源设备 | Energy Facility | 動力設備 |
 | sktok_xbbee | 扫描 | - | - |
+| sktok_xbblure_1 | 引诱 | - | - |
+| sktok_xbblure_2 | 引诱 | - | - |
+| sktok_xbblure_3 | 引诱 | - | - |
 | sktok_xbcage | 捕获 | - | - |
 | sktok_xbcanoe | 放置平台 | - | - |
 | sktok_xbcbag | 释放猎获 | - | - |
+| sktok_xbcp | 检查点 | - | - |
 | sktok_xbdiam | 可采集 | - | - |
 | sktok_xbdrill | 采集 | - | - |
 | sktok_xbember | 激励 | - | - |
@@ -968,6 +972,8 @@ tip: 请善用浏览器的搜索功能
 | sktok_xbmrcl | 演算 | Computation | 演算 |
 | sktok_xboverwatch | 监控 | Monitor | モニタリング |
 | sktok_xbprsh | 资源规划 | Resource Planning | 資源計画 |
+| sktok_xbrandprop_1 | 发道具 | - | - |
+| sktok_xbrandprop_2 | 发道具 | - | - |
 | sktok_xbroadblock | 阻断道路 | Block Road | 道路封鎖 |
 | sktok_xbsighta | 喷涌 | - | - |
 | sktok_xbsightb | 摇摆 | - | - |
@@ -978,5 +984,6 @@ tip: 请善用浏览器的搜索功能
 | sktok_xbstone | 可供开采 | Harvestable | 採掘可能 |
 | sktok_xbtent | 援护 | - | - |
 | sktok_xbtrap | 陷阱 | - | - |
+| sktok_xbtrophy | “跳动” | - | - |
 | sktok_xbwall | 防御支撑 | Defensive Support | 防衛の要 |
 | sktok_xbwood | 可供开采 | Harvestable | 採掘可能 |

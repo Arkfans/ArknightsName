@@ -27,6 +27,7 @@ tip: 请善用浏览器的搜索功能
 | char_1028_texas2@iteration#1 | 破翼者 | - | - |
 | char_102_texas@epoque#7 | 意志 | Willpower | 意志 |
 | char_102_texas@winter#1 | 寒冬信使 | Winter Messenger | 冬の使者 |
+| char_1033_swire2@ambienceSynesthesia#4 | 律动方格 | - | - |
 | char_103_angel@kfc#1 | 城市骑手 | - | - |
 | char_103_angel@sale#8 | 午夜邮差 | Midnight Delivery | 真夜中の配達人 |
 | char_103_angel@wild#1 | 野地秘行 | Wild Operation | 荒野潜行 |
@@ -80,6 +81,7 @@ tip: 请善用浏览器的搜索功能
 | char_166_skfire@summer#1 | 温差 RT.RX01 | Temperature Difference RT.RX01 | 温度差RT.RX01 |
 | char_171_bldsk@summer#7 | 悠然假日 HD31 | Casual Vacation HD31 | ホリデーHD31 |
 | char_171_bldsk@witch#1 | 盛宴 | the feast | 盛宴 |
+| char_172_svrash@ambienceSynesthesia#4 | 不融冰 | - | - |
 | char_172_svrash@snow#1 | 约克的寒风 | York's Bise | ヨークの寒風 |
 | char_172_svrash@summer#4 | 探寻者 SKm01 | Seeker SKm01 | シーカーSKm01 |
 | char_173_slchan@wild#1 | 孤攀客 | Lone Climber | 登山家 |
@@ -238,6 +240,7 @@ tip: 请善用浏览器的搜索功能
 | char_401_elysm@snow#2 | 雪夜回音 | Snowy Echo | 雪夜の思い出 |
 | char_401_elysm@summer#9 | 灿阳朝露 SDm11 | Shimmering Dew SDm11 | 炎陽煌く露SDm11 |
 | char_4025_aprot2@whirlwind#5 | 结果 | The Fruition | 結実 |
+| char_4027_heyak@ambienceSynesthesia#4 | 历世流风 | - | - |
 | char_402_tuye@epoque#14 | 培翠 | Cultivate Vegetation | 緑化 |
 | char_4032_provs@wild#7 | 秋高气爽 | High Autumn | 晴れ渡る秋空 |
 | char_4036_forcer@epoque#20 | 拾翼 | Paper Wing | 不確かな翼 |

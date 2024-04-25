@@ -607,6 +607,11 @@ tip: 请善用浏览器的搜索功能
 | trap_479_xbbillb | 告示牌 | - | - |
 | trap_480_roadblockxb | 道路障碍物 | - | - |
 | trap_481_gtreasureb | 埋没金属箱 | - | - |
+| trap_482_xbblure | 源石虫引诱器 | - | - |
+| trap_483_xbtrophy | “源石虫之心” | - | - |
+| trap_484_xbcp | 检查点 | - | - |
+| trap_485_xbrandprop | 随机道具盒 | - | - |
+| trap_486_xbspd | 加速块 | - | - |
 | trap_700_cdabyss | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |
 | trap_701_cdabyssa | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |
 | trap_702_cdabyssb | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |
@@ -685,6 +690,7 @@ tip: 请善用浏览器的搜索功能
 | char_1028_texas2@iteration#1 | 破翼者 | - | - |
 | char_102_texas@epoque#7 | 意志 | Willpower | 意志 |
 | char_102_texas@winter#1 | 寒冬信使 | Winter Messenger | 冬の使者 |
+| char_1033_swire2@ambienceSynesthesia#4 | 律动方格 | - | - |
 | char_103_angel@kfc#1 | 城市骑手 | - | - |
 | char_103_angel@sale#8 | 午夜邮差 | Midnight Delivery | 真夜中の配達人 |
 | char_103_angel@wild#1 | 野地秘行 | Wild Operation | 荒野潜行 |
@@ -738,6 +744,7 @@ tip: 请善用浏览器的搜索功能
 | char_166_skfire@summer#1 | 温差 RT.RX01 | Temperature Difference RT.RX01 | 温度差RT.RX01 |
 | char_171_bldsk@summer#7 | 悠然假日 HD31 | Casual Vacation HD31 | ホリデーHD31 |
 | char_171_bldsk@witch#1 | 盛宴 | the feast | 盛宴 |
+| char_172_svrash@ambienceSynesthesia#4 | 不融冰 | - | - |
 | char_172_svrash@snow#1 | 约克的寒风 | York's Bise | ヨークの寒風 |
 | char_172_svrash@summer#4 | 探寻者 SKm01 | Seeker SKm01 | シーカーSKm01 |
 | char_173_slchan@wild#1 | 孤攀客 | Lone Climber | 登山家 |
@@ -896,6 +903,7 @@ tip: 请善用浏览器的搜索功能
 | char_401_elysm@snow#2 | 雪夜回音 | Snowy Echo | 雪夜の思い出 |
 | char_401_elysm@summer#9 | 灿阳朝露 SDm11 | Shimmering Dew SDm11 | 炎陽煌く露SDm11 |
 | char_4025_aprot2@whirlwind#5 | 结果 | The Fruition | 結実 |
+| char_4027_heyak@ambienceSynesthesia#4 | 历世流风 | - | - |
 | char_402_tuye@epoque#14 | 培翠 | Cultivate Vegetation | 緑化 |
 | char_4032_provs@wild#7 | 秋高气爽 | High Autumn | 晴れ渡る秋空 |
 | char_4036_forcer@epoque#20 | 拾翼 | Paper Wing | 不確かな翼 |
@@ -1988,6 +1996,9 @@ tip: 请善用浏览器的搜索功能
 | enemy_7030_skodo | 纵尘者 | - | - |
 | enemy_7031_ghking | 湮灭者 | - | - |
 | enemy_7034_xbmsn | 勤奋劳工 | - | - |
+| enemy_7044_xblbug | 振翅源石虫 | - | - |
+| enemy_7045_xbtd | 冲锋源石虫 | - | - |
+| enemy_7046_xbslug | 披甲源石虫 | - | - |
 | enemy_8001_flmlod | 熔戈者，护王余火 | Sverdsmeltr, Guardian Ember of the King | スヴェルドメルター、王を守る余炎 |
 | enemy_8001_flmlod_2 | 熔戈者，护王余火 | Sverdsmeltr, Guardian Ember of the King | スヴェルドメルター、王を守る余炎 |
 | enemy_8001_flmlod_3 | 熔戈者，护王余火 | Sverdsmeltr, Guardian Ember of the King | スヴェルドメルター、王を守る余炎 |
@@ -2755,7 +2766,7 @@ tip: 请善用浏览器的搜索功能
 | itempack_mod_7 | 先锋芯片组印刻仪 | Vanguard Chip Pack Etcher | 中級先鋒SoCプリンター |
 | itempack_mod_8 | 近卫芯片组印刻仪 | Guard Chip Pack Etcher | 中級前衛SoCプリンター |
 | itempack_mod_9 | 重装芯片组印刻仪 | Defender Chip Pack Etcher | 中級重装SoCプリンター |
-| mcardVoucher | 月卡 | Monthly Card | 月パス |
+| mcardVoucher | 月卡兑换凭证 | Monthly Card | 月パス |
 | medal_activity_15side_01 | “诗酒乘兴” | 'The Joys of Poetry and Wine' | 「酔吟の興」 |
 | medal_activity_15side_03 | “寒芒新淬” | 'Refreshed in Cold Light' | 「寒芒新たに淬ぐ」 |
 | medal_activity_15side_04 | “豪爽之人” | 'A Bold Individual' | 「豪快な者」 |
@@ -4409,9 +4420,13 @@ tip: 请善用浏览器的搜索功能
 | sktok_xbbarir | 阻挡 | - | - |
 | sktok_xbbase | 能源设备 | Energy Facility | 動力設備 |
 | sktok_xbbee | 扫描 | - | - |
+| sktok_xbblure_1 | 引诱 | - | - |
+| sktok_xbblure_2 | 引诱 | - | - |
+| sktok_xbblure_3 | 引诱 | - | - |
 | sktok_xbcage | 捕获 | - | - |
 | sktok_xbcanoe | 放置平台 | - | - |
 | sktok_xbcbag | 释放猎获 | - | - |
+| sktok_xbcp | 检查点 | - | - |
 | sktok_xbdiam | 可采集 | - | - |
 | sktok_xbdrill | 采集 | - | - |
 | sktok_xbember | 激励 | - | - |
@@ -4439,6 +4454,8 @@ tip: 请善用浏览器的搜索功能
 | sktok_xbmrcl | 演算 | Computation | 演算 |
 | sktok_xboverwatch | 监控 | Monitor | モニタリング |
 | sktok_xbprsh | 资源规划 | Resource Planning | 資源計画 |
+| sktok_xbrandprop_1 | 发道具 | - | - |
+| sktok_xbrandprop_2 | 发道具 | - | - |
 | sktok_xbroadblock | 阻断道路 | Block Road | 道路封鎖 |
 | sktok_xbsighta | 喷涌 | - | - |
 | sktok_xbsightb | 摇摆 | - | - |
@@ -4449,6 +4466,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_xbstone | 可供开采 | Harvestable | 採掘可能 |
 | sktok_xbtent | 援护 | - | - |
 | sktok_xbtrap | 陷阱 | - | - |
+| sktok_xbtrophy | “跳动” | - | - |
 | sktok_xbwall | 防御支撑 | Defensive Support | 防衛の要 |
 | sktok_xbwood | 可供开采 | Harvestable | 採掘可能 |
 | a001_01 | 日正当中 | High Noon | 真昼の太陽 |
@@ -5044,6 +5062,11 @@ tip: 请善用浏览器的搜索功能
 | act33side_08 | 终局倒计时 | - | - |
 | act33side_09 | 尘埃落定 | - | - |
 | act33side_10 | 再见，再见 | - | - |
+| act33side_mo01 | 打扫街区 | - | - |
+| act33side_s01 | 模拟刺杀作战-1 | - | - |
+| act33side_s02 | 模拟刺杀作战-2 | - | - |
+| act33side_s03 | 模拟刺杀作战-3 | - | - |
+| act33side_s04 | 模拟刺杀作战-4 | - | - |
 | act33side_st01 | 未完成的告别 | - | - |
 | act33side_st02 | 在疲惫中苏醒 | - | - |
 | act33side_st03 | 灵魂尽头 | - | - |
@@ -5847,6 +5870,9 @@ tip: 请善用浏览器的搜索功能
 | permanent_sub_5_zone1 | 未来将至 | The Coming of the Future | 来たる未来 |
 | permanent_sub_5_zone2 | 过往未尽 | The Lingering of the Past | 過ぎぬ過去 |
 | permanent_sub_5_zone3 | 紧握当下 | The Pursuing of the Present | 在るべき今 |
+| permanent_sub_6_zone1 | 我赠予未来 | - | - |
+| permanent_sub_6_zone2 | 我驻留往昔 | - | - |
+| permanent_sub_6_zone3 | 我始终如一 | - | - |
 | weekly_1 | 固若金汤 | Solid Defense | 重装/医療 |
 | weekly_2 | 摧枯拉朽 | Fierce Attack | 狙撃/術師 |
 | weekly_3 | 势不可挡 | Unstoppable Charge | 先鋒/補助 |

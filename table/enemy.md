@@ -999,6 +999,9 @@ tip: 请善用浏览器的搜索功能
 | enemy_7030_skodo | 纵尘者 | - | - |
 | enemy_7031_ghking | 湮灭者 | - | - |
 | enemy_7034_xbmsn | 勤奋劳工 | - | - |
+| enemy_7044_xblbug | 振翅源石虫 | - | - |
+| enemy_7045_xbtd | 冲锋源石虫 | - | - |
+| enemy_7046_xbslug | 披甲源石虫 | - | - |
 | enemy_8001_flmlod | 熔戈者，护王余火 | Sverdsmeltr, Guardian Ember of the King | スヴェルドメルター、王を守る余炎 |
 | enemy_8001_flmlod_2 | 熔戈者，护王余火 | Sverdsmeltr, Guardian Ember of the King | スヴェルドメルター、王を守る余炎 |
 | enemy_8001_flmlod_3 | 熔戈者，护王余火 | Sverdsmeltr, Guardian Ember of the King | スヴェルドメルター、王を守る余炎 |

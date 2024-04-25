@@ -991,6 +991,21 @@
   "trap_481_gtreasureb": {
     "zh_CN": "埋没金属箱"
   },
+  "trap_482_xbblure": {
+    "zh_CN": "源石虫引诱器"
+  },
+  "trap_483_xbtrophy": {
+    "zh_CN": "“源石虫之心”"
+  },
+  "trap_484_xbcp": {
+    "zh_CN": "检查点"
+  },
+  "trap_485_xbrandprop": {
+    "zh_CN": "随机道具盒"
+  },
+  "trap_486_xbspd": {
+    "zh_CN": "加速块"
+  },
   "trap_700_cdabyss": {
     "en_US": "Ægirian Oscilloscope",
     "ja_JP": "エーギル式振波計",

@@ -103,6 +103,9 @@
     "ja_JP": "冬の使者",
     "zh_CN": "寒冬信使"
   },
+  "char_1033_swire2@ambienceSynesthesia#4": {
+    "zh_CN": "律动方格"
+  },
   "char_103_angel@kfc#1": {
     "zh_CN": "城市骑手"
   },
@@ -357,6 +360,9 @@
     "en_US": "the feast",
     "ja_JP": "盛宴",
     "zh_CN": "盛宴"
+  },
+  "char_172_svrash@ambienceSynesthesia#4": {
+    "zh_CN": "不融冰"
   },
   "char_172_svrash@snow#1": {
     "en_US": "York's Bise",
@@ -1119,6 +1125,9 @@
     "en_US": "The Fruition",
     "ja_JP": "結実",
     "zh_CN": "结果"
+  },
+  "char_4027_heyak@ambienceSynesthesia#4": {
+    "zh_CN": "历世流风"
   },
   "char_402_tuye@epoque#14": {
     "en_US": "Cultivate Vegetation",

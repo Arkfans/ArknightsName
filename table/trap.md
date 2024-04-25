@@ -231,6 +231,11 @@ tip: 请善用浏览器的搜索功能
 | trap_479_xbbillb | 告示牌 | - | - |
 | trap_480_roadblockxb | 道路障碍物 | - | - |
 | trap_481_gtreasureb | 埋没金属箱 | - | - |
+| trap_482_xbblure | 源石虫引诱器 | - | - |
+| trap_483_xbtrophy | “源石虫之心” | - | - |
+| trap_484_xbcp | 检查点 | - | - |
+| trap_485_xbrandprop | 随机道具盒 | - | - |
+| trap_486_xbspd | 加速块 | - | - |
 | trap_700_cdabyss | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |
 | trap_701_cdabyssa | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |
 | trap_702_cdabyssb | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |
