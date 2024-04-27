@@ -2074,6 +2074,7 @@ tip: 请善用浏览器的搜索功能
 | act19side | 绿野幻梦 | Dorothy's Vision | 翠玉の夢 |
 | act19sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act19sre | 绿野幻梦·复刻 | Dorothy's Vision - Retrospection | 翠玉の夢・復刻 |
+| act1access | 五周年专享活动 | - | - |
 | act1blessing | 2024罗德岛新春签到 | - | - |
 | act1bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act1checkin | 未来序曲签到活动 | Preludes to the Future Sign-in Event | 大感謝祭スタンプ |
@@ -5163,6 +5164,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_19 | 腐烂荒野 | - | - |
 | camp_r_20 | 千嶂边城 | - | - |
 | camp_r_21 | 新旅店大道 | - | - |
+| camp_r_22 | “离心率”实验室 | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |
 | hard_05-02 | 炼狱行动-2 | Operation Inferno-2 | 煉獄作戦-2 |
 | hard_05-03 | 炼狱行动-3 | Operation Inferno-3 | 煉獄作戦-3 |

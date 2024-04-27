@@ -15929,6 +15929,12 @@
       "zh_CN": "绿野幻梦·复刻"
     }
   },
+  "act1access": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "五周年专享活动"
+    }
+  },
   "act1blessing": {
     "type": "ACTIVITY",
     "names": {
@@ -39639,6 +39645,12 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "新旅店大道"
+    }
+  },
+  "camp_r_22": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "“离心率”实验室"
     }
   },
   "hard_05-01": {
