@@ -2555,82 +2555,102 @@
     "zh_CN": "城市热战"
   },
   "act29side_01": {
+    "en_US": "Chorale 'Lied des klaren Himmels'",
     "ja_JP": "衆賛歌「青空の歌」",
     "zh_CN": "清唱“晴空之歌”"
   },
   "act29side_02": {
+    "en_US": "Overture 'Sentinel'",
     "ja_JP": "序曲「歩哨」",
     "zh_CN": "序曲“哨兵”"
   },
   "act29side_03": {
+    "en_US": "Etude 'Encounter'",
     "ja_JP": "練習曲「奇遇」",
     "zh_CN": "练习曲“奇遇”"
   },
   "act29side_04": {
+    "en_US": "Rhapsody 'Longing'",
     "ja_JP": "狂想曲「想望」",
     "zh_CN": "狂想曲“望想”"
   },
   "act29side_05": {
+    "en_US": "Sonata 'Autumn'",
     "ja_JP": "奏鳴曲「秋の日」",
     "zh_CN": "奏鸣曲“秋日”"
   },
   "act29side_06": {
+    "en_US": "Valse 'Mask'",
     "ja_JP": "円舞曲「仮面」",
     "zh_CN": "华尔兹“假面”"
   },
   "act29side_07": {
+    "en_US": "Concerto 'Resurrection'",
     "ja_JP": "協奏曲「復活」",
     "zh_CN": "协奏曲“复活”"
   },
   "act29side_08": {
+    "en_US": "Nocturne 'Unseen Spire'",
     "ja_JP": "夜想曲「まだ見ぬ高塔」",
     "zh_CN": "夜歌“未见的高塔”"
   },
   "act29side_09": {
+    "en_US": "Fantasia 'The Gift'",
     "ja_JP": "幻想曲「贈答」",
     "zh_CN": "幻想曲“赠答”"
   },
   "act29side_10": {
+    "en_US": "Messe 'König'",
     "ja_JP": "弥撒曲「君王」",
     "zh_CN": "弥撒“君王”"
   },
   "act29side_s01": {
+    "en_US": "Conductor",
     "ja_JP": "音律を司る者",
     "zh_CN": "司律者"
   },
   "act29side_s02": {
+    "en_US": "Orchestra",
     "ja_JP": "管楽合奏団",
     "zh_CN": "管乐团"
   },
   "act29side_s03": {
+    "en_US": "Funérailles",
     "ja_JP": "謁見への道",
     "zh_CN": "拜谒途"
   },
   "act29side_s04": {
+    "en_US": "Sextet",
     "ja_JP": "六重奏",
     "zh_CN": "六重奏"
   },
   "act29side_s05": {
+    "en_US": "Thronsaal",
     "ja_JP": "玉座の間",
     "zh_CN": "王座厅"
   },
   "act29side_st01": {
+    "en_US": "Prelude 'Surprise Return'",
     "ja_JP": "前奏「思いがけない帰還」",
     "zh_CN": "前奏“意外归来”"
   },
   "act29side_st02": {
+    "en_US": "Intermezzo 'Unfinished Fugue'",
     "ja_JP": "間奏「未完のフーガ」",
     "zh_CN": "间奏“未竟赋格”"
   },
   "act29side_st03": {
+    "en_US": "Coda 'Evening Glow'",
     "ja_JP": "終曲「夕映え」",
     "zh_CN": "尾奏“晚霞”"
   },
   "act29side_tr01": {
+    "en_US": "Command Technique",
     "ja_JP": "指揮のテクニック",
     "zh_CN": "指挥技巧"
   },
   "act29side_tr02": {
+    "en_US": "Composer's Craft",
     "ja_JP": "作曲の心得",
     "zh_CN": "创作手法"
   },
@@ -3281,6 +3301,7 @@
     "zh_CN": "“特制小水坑”"
   },
   "camp_r_19": {
+    "en_US": "Decaying Wastes",
     "ja_JP": "腐敗した荒野",
     "zh_CN": "腐烂荒野"
   },

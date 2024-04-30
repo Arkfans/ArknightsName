@@ -982,6 +982,7 @@
   "char_245_cello": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Virtuosa",
       "ja_JP": "ヴィルトゥオーサ",
       "zh_CN": "塑心"
     }
@@ -1645,6 +1646,7 @@
   "char_4011_lessng": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Lessing",
       "ja_JP": "レッシング",
       "zh_CN": "止颂"
     }
@@ -1992,6 +1994,7 @@
   "char_4098_vvana": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Viviana",
       "ja_JP": "ヴィヴィアナ",
       "zh_CN": "薇薇安娜"
     }
@@ -1999,6 +2002,7 @@
   "char_4100_caper": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Caper",
       "ja_JP": "ケイパー",
       "zh_CN": "跃跃"
     }
@@ -2046,6 +2050,7 @@
   "char_4109_baslin": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Bassline",
       "ja_JP": "ベースライン",
       "zh_CN": "深律"
     }
@@ -2505,6 +2510,7 @@
   "char_499_kaitou": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Diamante",
       "ja_JP": "ディアマンテ",
       "zh_CN": "折光"
     }
@@ -3984,6 +3990,7 @@
   "trap_134_condtr": {
     "type": "TRAP",
     "names": {
+      "en_US": "Tuning Node",
       "ja_JP": "調律器",
       "zh_CN": "调谐节点"
     }
@@ -3991,6 +3998,7 @@
   "trap_135_portlent": {
     "type": "TRAP",
     "names": {
+      "en_US": "Aspect of Annihilation",
       "ja_JP": "湮滅の相",
       "zh_CN": "湮灭之相"
     }
@@ -3998,6 +4006,7 @@
   "trap_136_portlexi": {
     "type": "TRAP",
     "names": {
+      "en_US": "Aspect of Creation",
       "ja_JP": "創生の相",
       "zh_CN": "创生之相"
     }
@@ -5215,6 +5224,7 @@
   "char_1028_texas2@iteration#1": {
     "type": "SKIN",
     "names": {
+      "en_US": "Wingbreaker",
       "ja_JP": "ウィングブレイカー",
       "zh_CN": "破翼者"
     }
@@ -5425,6 +5435,7 @@
   "char_126_shotst@epoque#28": {
     "type": "SKIN",
     "names": {
+      "en_US": "Gwiazdcytrony",
       "ja_JP": "スタリシトロンの森にて",
       "zh_CN": "星橼林"
     }
@@ -5831,6 +5842,7 @@
   "char_2012_typhon@wild#9": {
     "type": "SKIN",
     "names": {
+      "en_US": "Northern Pathfinder",
       "ja_JP": "北地の案内人",
       "zh_CN": "北地引路人"
     }
@@ -6049,6 +6061,7 @@
   "char_222_bpipe@epoque#28": {
     "type": "SKIN",
     "names": {
+      "en_US": "Royal Guardswoman",
       "ja_JP": "ロイヤルガード",
       "zh_CN": "皇家近卫"
     }
@@ -7024,6 +7037,7 @@
   "char_405_absin@epoque#28": {
     "type": "SKIN",
     "names": {
+      "en_US": "Noon Twilight",
       "ja_JP": "真昼の残照",
       "zh_CN": "正午余光"
     }
@@ -7031,6 +7045,7 @@
   "char_4064_mlynar@epoque#28": {
     "type": "SKIN",
     "names": {
+      "en_US": "W Dali",
       "ja_JP": "遠き道のり",
       "zh_CN": "远路"
     }
@@ -7190,6 +7205,7 @@
   "char_427_vigil@epoque#27": {
     "type": "SKIN",
     "names": {
+      "en_US": "The Other Side of Siracusa",
       "ja_JP": "シラクーザの別の顔",
       "zh_CN": "叙拉古的彼面"
     }
@@ -7205,6 +7221,7 @@
   "char_431_ashlok@epoque#28": {
     "type": "SKIN",
     "names": {
+      "en_US": "Lances of Kaliskas",
       "ja_JP": "カリスカの槍先",
       "zh_CN": "卡利斯卡群枪"
     }
@@ -13304,6 +13321,7 @@
   "enemy_1371_ltnflu": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Remnant Orchestra Flautist",
       "ja_JP": "楽団志望フルート奏者",
       "zh_CN": "残党乐团长笛手"
     }
@@ -13311,6 +13329,7 @@
   "enemy_1371_ltnflu_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Witch King's Orchestra Flautist",
       "ja_JP": "巫王楽団フルート奏者",
       "zh_CN": "巫王乐团长笛手"
     }
@@ -13318,6 +13337,7 @@
   "enemy_1372_ltntpt": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Remnant Orchestra Trumpeter",
       "ja_JP": "楽団志望トランペット奏者",
       "zh_CN": "残党乐团小号手"
     }
@@ -13325,6 +13345,7 @@
   "enemy_1372_ltntpt_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Witch King's Orchestra Trumpeter",
       "ja_JP": "巫王楽団トランペット奏者",
       "zh_CN": "巫王乐团小号手"
     }
@@ -13332,6 +13353,7 @@
   "enemy_1373_ltnhor": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Remnant Orchestra Hornist",
       "ja_JP": "楽団志望ホルン奏者",
       "zh_CN": "残党乐团圆号手"
     }
@@ -13339,6 +13361,7 @@
   "enemy_1373_ltnhor_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Witch King's Orchestra Hornist",
       "ja_JP": "巫王楽団ホルン奏者",
       "zh_CN": "巫王乐团圆号手"
     }
@@ -13346,6 +13369,7 @@
   "enemy_1374_ltnhap": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Remnant Orchestra Chorister",
       "ja_JP": "楽団志望ハープ奏者",
       "zh_CN": "残党乐团颂诗者"
     }
@@ -13353,6 +13377,7 @@
   "enemy_1374_ltnhap_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Witch King's Orchestra Chorister",
       "ja_JP": "巫王楽団ハープ奏者",
       "zh_CN": "巫王乐团颂诗者"
     }
@@ -13360,6 +13385,7 @@
   "enemy_1375_ltnclr": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Remnant Orchestra Wind Player",
       "ja_JP": "楽団志望クラリネット奏者",
       "zh_CN": "残党乐团管乐家"
     }
@@ -13367,6 +13393,7 @@
   "enemy_1375_ltnclr_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Witch King's Orchestra Wind Player",
       "ja_JP": "巫王楽団クラリネット奏者",
       "zh_CN": "巫王乐团管乐家"
     }
@@ -13374,6 +13401,7 @@
   "enemy_1376_ltndru": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Remnant Orchestra Drummer",
       "ja_JP": "楽団志望ドラム奏者",
       "zh_CN": "残党乐团鼓手"
     }
@@ -13381,6 +13409,7 @@
   "enemy_1376_ltndru_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Witch King's Orchestra Drummer",
       "ja_JP": "巫王楽団ドラム奏者",
       "zh_CN": "巫王乐团鼓手"
     }
@@ -13388,6 +13417,7 @@
   "enemy_1377_ltnclo": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Remnant Orchestra Cellist",
       "ja_JP": "楽団志望チェロ奏者",
       "zh_CN": "残党乐团大提琴家"
     }
@@ -13395,6 +13425,7 @@
   "enemy_1377_ltnclo_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Witch King's Orchestra Cellist",
       "ja_JP": "巫王楽団チェロ奏者",
       "zh_CN": "巫王乐团大提琴家"
     }
@@ -13402,6 +13433,7 @@
   "enemy_1378_ltnmst": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Remnant Orchestra Tuner",
       "ja_JP": "楽団志望調律師",
       "zh_CN": "残党乐团调律师"
     }
@@ -13409,6 +13441,7 @@
   "enemy_1378_ltnmst_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Witch King's Orchestra Tuner",
       "ja_JP": "巫王楽団調律師",
       "zh_CN": "巫王乐团调律师"
     }
@@ -13416,6 +13449,7 @@
   "enemy_1379_ltncdt": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Remnant Orchestra Conductor",
       "ja_JP": "楽団志望指揮者",
       "zh_CN": "残党乐团指挥家"
     }
@@ -13423,6 +13457,7 @@
   "enemy_1379_ltncdt_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Witch King's Orchestra Conductor",
       "ja_JP": "巫王楽団指揮者",
       "zh_CN": "巫王乐团指挥家"
     }
@@ -14278,6 +14313,7 @@
   "enemy_1548_ltniak": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Herkunftshorn, 'Witch King'",
       "ja_JP": "Herkunftshorn・「巫王」",
       "zh_CN": "赫尔昏佐伦，“巫王”"
     }
@@ -15911,6 +15947,7 @@
   "act18login": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Sign-In Campaign",
       "ja_JP": "ログイン報酬",
       "zh_CN": "登录领取奖励"
     }
@@ -16130,6 +16167,7 @@
   "act21sre": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Il Siracusano - Retrospection",
       "ja_JP": "シラクザーノ・復刻",
       "zh_CN": "叙拉古人·复刻"
     }
@@ -16261,6 +16299,7 @@
   "act29side": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Zwillingstürme im Herbst",
       "ja_JP": "ツヴィリングトゥルムの黄金",
       "zh_CN": "崔林特尔梅之金"
     }
@@ -16300,6 +16339,7 @@
   "act2float": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Iron Fist City Industry Cooperation Forum",
       "ja_JP": "アイアンリストシティ産業懇談会",
       "zh_CN": "铁腕城产业合作洽谈会"
     }
@@ -16403,6 +16443,7 @@
   "act36sign": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Climbing the Twin Spires Sign-In Event",
       "ja_JP": "双塔の高みを目指してスタンプラリー",
       "zh_CN": "步上双塔之时签到活动"
     }
@@ -18221,6 +18262,7 @@
   "LIMITED_TKT_GACHA_10_4401": {
     "type": "ITEM",
     "names": {
+      "en_US": "Candleglow Sonata Headhunting Permit",
       "ja_JP": "感謝祭記念10回スカウト券",
       "zh_CN": "烛照弦鸣寻访凭证"
     }
@@ -18368,6 +18410,7 @@
   "LMTGS_COIN_4401": {
     "type": "ITEM",
     "names": {
+      "en_US": "Headhunting Data Contract",
       "ja_JP": "限定契約証",
       "zh_CN": "寻访数据契约"
     }
@@ -18997,6 +19040,7 @@
   "act21side_token_permesso_rep_1": {
     "type": "ITEM",
     "names": {
+      "en_US": "Permesso di Importazione",
       "ja_JP": "買付許可証",
       "zh_CN": "进货通行证"
     }
@@ -19128,6 +19172,7 @@
   "act29side_frag_1": {
     "type": "ITEM",
     "names": {
+      "en_US": "Note of Joy",
       "ja_JP": "楽の音符",
       "zh_CN": "乐之节符"
     }
@@ -19135,6 +19180,7 @@
   "act29side_frag_2": {
     "type": "ITEM",
     "names": {
+      "en_US": "Note of Anger",
       "ja_JP": "怒の音符",
       "zh_CN": "怒之节符"
     }
@@ -19142,6 +19188,7 @@
   "act29side_frag_3": {
     "type": "ITEM",
     "names": {
+      "en_US": "Note of Sorrow",
       "ja_JP": "哀の音符",
       "zh_CN": "哀之节符"
     }
@@ -19149,6 +19196,7 @@
   "act29side_frag_4": {
     "type": "ITEM",
     "names": {
+      "en_US": "Note of Fear",
       "ja_JP": "恐の音符",
       "zh_CN": "惧之节符"
     }
@@ -19156,6 +19204,7 @@
   "act29side_token_erin": {
     "type": "ITEM",
     "names": {
+      "en_US": "Die Klänge von den Erinnerungen",
       "ja_JP": "調律の追憶",
       "zh_CN": "调律追忆"
     }
@@ -22398,6 +22447,7 @@
   "p_char_245_cello": {
     "type": "ITEM",
     "names": {
+      "en_US": "Virtuosa's Token",
       "ja_JP": "ヴィルトゥオーサの印",
       "zh_CN": "塑心的信物"
     }
@@ -23377,6 +23427,7 @@
   "p_char_4098_vvana": {
     "type": "ITEM",
     "names": {
+      "en_US": "Viviana's Token",
       "ja_JP": "ヴィヴィアナの印",
       "zh_CN": "薇薇安娜的信物"
     }
@@ -23384,6 +23435,7 @@
   "p_char_4100_caper": {
     "type": "ITEM",
     "names": {
+      "en_US": "Caper's Token",
       "ja_JP": "ケイパーの印",
       "zh_CN": "跃跃的信物"
     }
@@ -23431,6 +23483,7 @@
   "p_char_4109_baslin": {
     "type": "ITEM",
     "names": {
+      "en_US": "Bassline's Token",
       "ja_JP": "ベースラインの印",
       "zh_CN": "深律的信物"
     }
@@ -23882,6 +23935,7 @@
   "p_char_499_kaitou": {
     "type": "ITEM",
     "names": {
+      "en_US": "Diamante's Token",
       "ja_JP": "ディアマンテの印",
       "zh_CN": "折光的信物"
     }
@@ -24121,6 +24175,7 @@
   "randomMaterial_leith2": {
     "type": "ITEM",
     "names": {
+      "en_US": "Investigation Resupply",
       "ja_JP": "調査補給",
       "zh_CN": "查访补给"
     }
@@ -25240,6 +25295,7 @@
   "voucher_item_pick4401": {
     "type": "ITEM",
     "names": {
+      "en_US": "Thank-You Celebration Operator Permit",
       "ja_JP": "感謝祭記念★6招聘指名券",
       "zh_CN": "感谢庆典干员凭证"
     }
@@ -25255,6 +25311,7 @@
   "voucher_lessng": {
     "type": "ITEM",
     "names": {
+      "en_US": "Lessing's Folder",
       "ja_JP": "レッシングの書類入れ",
       "zh_CN": "止颂的文件夹"
     }
@@ -26234,6 +26291,7 @@
   "_LIMITED_27_0_3": {
     "type": "POOL",
     "names": {
+      "en_US": "By My Will",
       "ja_JP": "宿願"
     }
   },
@@ -27215,6 +27273,7 @@
   "skchr_baslin_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "First Aid",
       "ja_JP": "応急処置",
       "zh_CN": "急救"
     }
@@ -27222,6 +27281,7 @@
   "skchr_baslin_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Calming Bass",
       "ja_JP": "低音の調べ",
       "zh_CN": "沉音宁神"
     }
@@ -27583,6 +27643,7 @@
   "skchr_caper_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Power Strike β",
       "ja_JP": "強撃β",
       "zh_CN": "强力击·β型"
     }
@@ -27590,6 +27651,7 @@
   "skchr_caper_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Double the Fun",
       "ja_JP": "ハピネス200％！",
       "zh_CN": "乐趣加倍"
     }
@@ -27621,6 +27683,7 @@
   "skchr_cello_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "'Golden Ecstasy'",
       "ja_JP": "「黄金のエクスタシー」",
       "zh_CN": "“黄金的狂喜”"
     }
@@ -27628,6 +27691,7 @@
   "skchr_cello_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "'Requiem Mass'",
       "ja_JP": "「鎮魂のミサ」",
       "zh_CN": "“安魂的弥撒”"
     }
@@ -27635,6 +27699,7 @@
   "skchr_cello_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "'Liberal Tango'",
       "ja_JP": "「自由のタンゴ」",
       "zh_CN": "“自由的探戈”"
     }
@@ -29238,6 +29303,7 @@
   "skchr_kaitou_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Laser Cutter",
       "ja_JP": "レーザードリリング",
       "zh_CN": "镭射穿凿"
     }
@@ -29245,6 +29311,7 @@
   "skchr_kaitou_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Heat Treatment Discoloration",
       "ja_JP": "ヒートエンハンスメント",
       "zh_CN": "热处理变色"
     }
@@ -29364,6 +29431,7 @@
   "skchr_lessng_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Power Strike γ",
       "ja_JP": "強撃γ",
       "zh_CN": "强力击·γ型"
     }
@@ -29371,6 +29439,7 @@
   "skchr_lessng_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Clash of the Faithful",
       "ja_JP": "苦行の縛り",
       "zh_CN": "虔修对决"
     }
@@ -29378,6 +29447,7 @@
   "skchr_lessng_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Oathbreaker",
       "ja_JP": "誓いの破棄",
       "zh_CN": "苦修破誓"
     }
@@ -31445,6 +31515,7 @@
   "skchr_vvana_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Blade of Fleeting Shadows",
       "ja_JP": "光影穿つ剣",
       "zh_CN": "光影迅捷剑"
     }
@@ -31452,6 +31523,7 @@
   "skchr_vvana_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Shadowed by Candlelight",
       "ja_JP": "影払う燭火",
       "zh_CN": "烛燃影息"
     }
@@ -31459,6 +31531,7 @@
   "skchr_vvana_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "'Flicker'",
       "ja_JP": "「明滅」",
       "zh_CN": "“明灭”"
     }
@@ -32498,6 +32571,7 @@
   "sktok_condtr": {
     "type": "SKILL",
     "names": {
+      "en_US": "Area Tuning",
       "ja_JP": "﻿広域調律",
       "zh_CN": "广域调谐"
     }
@@ -33291,6 +33365,7 @@
   "sktok_portlent": {
     "type": "SKILL",
     "names": {
+      "en_US": "Annihilation",
       "ja_JP": "湮滅",
       "zh_CN": "湮灭"
     }
@@ -33298,6 +33373,7 @@
   "sktok_portlexi": {
     "type": "SKILL",
     "names": {
+      "en_US": "Creation",
       "ja_JP": "創生",
       "zh_CN": "创生"
     }
@@ -38483,6 +38559,7 @@
   "act29side_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Chorale 'Lied des klaren Himmels'",
       "ja_JP": "衆賛歌「青空の歌」",
       "zh_CN": "清唱“晴空之歌”"
     }
@@ -38490,6 +38567,7 @@
   "act29side_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Overture 'Sentinel'",
       "ja_JP": "序曲「歩哨」",
       "zh_CN": "序曲“哨兵”"
     }
@@ -38497,6 +38575,7 @@
   "act29side_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Etude 'Encounter'",
       "ja_JP": "練習曲「奇遇」",
       "zh_CN": "练习曲“奇遇”"
     }
@@ -38504,6 +38583,7 @@
   "act29side_04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Rhapsody 'Longing'",
       "ja_JP": "狂想曲「想望」",
       "zh_CN": "狂想曲“望想”"
     }
@@ -38511,6 +38591,7 @@
   "act29side_05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Sonata 'Autumn'",
       "ja_JP": "奏鳴曲「秋の日」",
       "zh_CN": "奏鸣曲“秋日”"
     }
@@ -38518,6 +38599,7 @@
   "act29side_06": {
     "type": "STAGE",
     "names": {
+      "en_US": "Valse 'Mask'",
       "ja_JP": "円舞曲「仮面」",
       "zh_CN": "华尔兹“假面”"
     }
@@ -38525,6 +38607,7 @@
   "act29side_07": {
     "type": "STAGE",
     "names": {
+      "en_US": "Concerto 'Resurrection'",
       "ja_JP": "協奏曲「復活」",
       "zh_CN": "协奏曲“复活”"
     }
@@ -38532,6 +38615,7 @@
   "act29side_08": {
     "type": "STAGE",
     "names": {
+      "en_US": "Nocturne 'Unseen Spire'",
       "ja_JP": "夜想曲「まだ見ぬ高塔」",
       "zh_CN": "夜歌“未见的高塔”"
     }
@@ -38539,6 +38623,7 @@
   "act29side_09": {
     "type": "STAGE",
     "names": {
+      "en_US": "Fantasia 'The Gift'",
       "ja_JP": "幻想曲「贈答」",
       "zh_CN": "幻想曲“赠答”"
     }
@@ -38546,6 +38631,7 @@
   "act29side_10": {
     "type": "STAGE",
     "names": {
+      "en_US": "Messe 'König'",
       "ja_JP": "弥撒曲「君王」",
       "zh_CN": "弥撒“君王”"
     }
@@ -38553,6 +38639,7 @@
   "act29side_s01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Conductor",
       "ja_JP": "音律を司る者",
       "zh_CN": "司律者"
     }
@@ -38560,6 +38647,7 @@
   "act29side_s02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Orchestra",
       "ja_JP": "管楽合奏団",
       "zh_CN": "管乐团"
     }
@@ -38567,6 +38655,7 @@
   "act29side_s03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Funérailles",
       "ja_JP": "謁見への道",
       "zh_CN": "拜谒途"
     }
@@ -38574,6 +38663,7 @@
   "act29side_s04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Sextet",
       "ja_JP": "六重奏",
       "zh_CN": "六重奏"
     }
@@ -38581,6 +38671,7 @@
   "act29side_s05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Thronsaal",
       "ja_JP": "玉座の間",
       "zh_CN": "王座厅"
     }
@@ -38588,6 +38679,7 @@
   "act29side_st01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Prelude 'Surprise Return'",
       "ja_JP": "前奏「思いがけない帰還」",
       "zh_CN": "前奏“意外归来”"
     }
@@ -38595,6 +38687,7 @@
   "act29side_st02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Intermezzo 'Unfinished Fugue'",
       "ja_JP": "間奏「未完のフーガ」",
       "zh_CN": "间奏“未竟赋格”"
     }
@@ -38602,6 +38695,7 @@
   "act29side_st03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Coda 'Evening Glow'",
       "ja_JP": "終曲「夕映え」",
       "zh_CN": "尾奏“晚霞”"
     }
@@ -38609,6 +38703,7 @@
   "act29side_tr01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Command Technique",
       "ja_JP": "指揮のテクニック",
       "zh_CN": "指挥技巧"
     }
@@ -38616,6 +38711,7 @@
   "act29side_tr02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Composer's Craft",
       "ja_JP": "作曲の心得",
       "zh_CN": "创作手法"
     }
@@ -39737,6 +39833,7 @@
   "camp_r_19": {
     "type": "STAGE",
     "names": {
+      "en_US": "Decaying Wastes",
       "ja_JP": "腐敗した荒野",
       "zh_CN": "腐烂荒野"
     }
@@ -44300,6 +44397,7 @@
   "act21sre_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Stagione delle Piogge",
       "ja_JP": "暗い長雨",
       "zh_CN": "连阴雨季"
     }
@@ -44307,6 +44405,7 @@
   "act21sre_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Pistole e Ordine",
       "ja_JP": "銃と秩序",
       "zh_CN": "铳与秩序"
     }
@@ -44314,6 +44413,7 @@
   "act21sre_zone3": {
     "type": "ZONE",
     "names": {
+      "en_US": "Terra Desolata Autoproclamata",
       "ja_JP": "荒野を名乗る者",
       "zh_CN": "自诩荒野"
     }
@@ -44473,6 +44573,7 @@
   "act29side_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Zwillingstürme anbeten",
       "ja_JP": "双塔を仰ぐ",
       "zh_CN": "朝见双塔"
     }
@@ -44480,6 +44581,7 @@
   "act29side_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Die Gnade ist ewig",
       "ja_JP": "恩寵は永遠に",
       "zh_CN": "恩典永恒"
     }
@@ -44487,6 +44589,7 @@
   "act29side_zone3": {
     "type": "ZONE",
     "names": {
+      "en_US": "Die Macht ist grimm",
       "ja_JP": "大権に情なく",
       "zh_CN": "权威无情"
     }
@@ -45024,6 +45127,7 @@
   "permanent_sidestory_21_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Stagione delle Piogge",
       "ja_JP": "暗い長雨",
       "zh_CN": "连阴雨季"
     }
@@ -45031,6 +45135,7 @@
   "permanent_sidestory_21_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Pistole e Ordine",
       "ja_JP": "銃と秩序",
       "zh_CN": "铳与秩序"
     }
@@ -45038,6 +45143,7 @@
   "permanent_sidestory_21_zone3": {
     "type": "ZONE",
     "names": {
+      "en_US": "Terra Desolata Autoproclamata",
       "ja_JP": "荒野を名乗る者",
       "zh_CN": "自诩荒野"
     }
@@ -45509,6 +45615,7 @@
   "story_aprot2_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "The Play That Was",
       "ja_JP": "あの日の演目",
       "zh_CN": "那一场戏"
     }
@@ -45778,6 +45885,7 @@
   "story_cello_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Himmelszelt und Federwolke",
       "ja_JP": "空と雲",
       "zh_CN": "天空与流云"
     }
@@ -46461,6 +46569,7 @@
   "story_kaitou_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Refracted Starlight",
       "ja_JP": "屈折した星光",
       "zh_CN": "被折射的星光"
     }
@@ -46860,6 +46969,7 @@
   "story_pianst_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Dämmerung und Anbruch",
       "ja_JP": "夕日と朝日",
       "zh_CN": "夕阳与朝日"
     }
@@ -46891,6 +47001,7 @@
   "story_poca_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Yesterday's Morrow",
       "ja_JP": "昨日の明日",
       "zh_CN": "昨天的明天"
     }
@@ -47216,6 +47327,7 @@
   "story_sntlla_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Stirring Future's Snowflakes",
       "ja_JP": "明日に咲く雪花",
       "zh_CN": "吹起未来的雪花"
     }

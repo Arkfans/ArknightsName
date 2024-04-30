@@ -110,9 +110,9 @@ tip: 请善用浏览器的搜索功能
 | act21side_zone1 | 连阴雨季 | Stagione delle Piogge | 暗い長雨 |
 | act21side_zone2 | 铳与秩序 | Pistole e Ordine | 銃と秩序 |
 | act21side_zone3 | 自诩荒野 | Terra Desolata Autoproclamata | 荒野を名乗る者 |
-| act21sre_zone1 | 连阴雨季 | - | 暗い長雨 |
-| act21sre_zone2 | 铳与秩序 | - | 銃と秩序 |
-| act21sre_zone3 | 自诩荒野 | - | 荒野を名乗る者 |
+| act21sre_zone1 | 连阴雨季 | Stagione delle Piogge | 暗い長雨 |
+| act21sre_zone2 | 铳与秩序 | Pistole e Ordine | 銃と秩序 |
+| act21sre_zone3 | 自诩荒野 | Terra Desolata Autoproclamata | 荒野を名乗る者 |
 | act22side_zone1 | 荒烟林沼 | Swamp In The Mists | 煙たなびく沼 |
 | act22side_zone2 | 记忆灰烬 | Ashes of Memories | 記憶の燃え殻 |
 | act22sre_zone1 | 荒烟林沼 | - | - |
@@ -133,9 +133,9 @@ tip: 请善用浏览器的搜索功能
 | act27side_zone3 | 岩浆冲浪 | Surfing the Lava | マグマサーフィン |
 | act28side_zone1 | 苍白平台 | Anemic Platform | 青白い町 |
 | act28side_zone2 | 黑色舰船 | Black Landship | 黒き艦船 |
-| act29side_zone1 | 朝见双塔 | - | 双塔を仰ぐ |
-| act29side_zone2 | 恩典永恒 | - | 恩寵は永遠に |
-| act29side_zone3 | 权威无情 | - | 大権に情なく |
+| act29side_zone1 | 朝见双塔 | Zwillingstürme anbeten | 双塔を仰ぐ |
+| act29side_zone2 | 恩典永恒 | Die Gnade ist ewig | 恩寵は永遠に |
+| act29side_zone3 | 权威无情 | Die Macht ist grimm | 大権に情なく |
 | act2bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act30side_zone1 | 三号站台 | - | - |
 | act30side_zone2 | 特快列车 | - | - |
@@ -206,9 +206,9 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_19_zone2 | 关外追凶 | - | - |
 | permanent_sidestory_1_zone1 | 滴水村周边 | Dewville Outskirts | 滴水村周辺 |
 | permanent_sidestory_1_zone2 | 宝藏之路 | Path to Treasure | 宝への道 |
-| permanent_sidestory_21_zone1 | 连阴雨季 | - | 暗い長雨 |
-| permanent_sidestory_21_zone2 | 铳与秩序 | - | 銃と秩序 |
-| permanent_sidestory_21_zone3 | 自诩荒野 | - | 荒野を名乗る者 |
+| permanent_sidestory_21_zone1 | 连阴雨季 | Stagione delle Piogge | 暗い長雨 |
+| permanent_sidestory_21_zone2 | 铳与秩序 | Pistole e Ordine | 銃と秩序 |
+| permanent_sidestory_21_zone3 | 自诩荒野 | Terra Desolata Autoproclamata | 荒野を名乗る者 |
 | permanent_sidestory_2_zone1 | 主舞台 | Main Stage | メインステージ |
 | permanent_sidestory_2_zone2 | 嘉年华 | Carnival | フェスティバル |
 | permanent_sidestory_2_zone3 | 额外节目 | Extra Show | エクストラ |

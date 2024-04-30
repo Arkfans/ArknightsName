@@ -309,6 +309,7 @@
     "zh_CN": "限时累计签到"
   },
   "act18login": {
+    "en_US": "Sign-In Campaign",
     "ja_JP": "ログイン報酬",
     "zh_CN": "登录领取奖励"
   },
@@ -441,6 +442,7 @@
     "zh_CN": "限时累计签到"
   },
   "act21sre": {
+    "en_US": "Il Siracusano - Retrospection",
     "ja_JP": "シラクザーノ・復刻",
     "zh_CN": "叙拉古人·复刻"
   },
@@ -521,6 +523,7 @@
     "zh_CN": "限时累计签到"
   },
   "act29side": {
+    "en_US": "Zwillingstürme im Herbst",
     "ja_JP": "ツヴィリングトゥルムの黄金",
     "zh_CN": "崔林特尔梅之金"
   },
@@ -545,6 +548,7 @@
     "zh_CN": "限时累计签到"
   },
   "act2float": {
+    "en_US": "Iron Fist City Industry Cooperation Forum",
     "ja_JP": "アイアンリストシティ産業懇談会",
     "zh_CN": "铁腕城产业合作洽谈会"
   },
@@ -606,6 +610,7 @@
     "zh_CN": "清光邀月——月饼烘焙小教程"
   },
   "act36sign": {
+    "en_US": "Climbing the Twin Spires Sign-In Event",
     "ja_JP": "双塔の高みを目指してスタンプラリー",
     "zh_CN": "步上双塔之时签到活动"
   },

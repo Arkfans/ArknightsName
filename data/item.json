@@ -697,6 +697,7 @@
     "zh_CN": "云过天空寻访凭证"
   },
   "LIMITED_TKT_GACHA_10_4401": {
+    "en_US": "Candleglow Sonata Headhunting Permit",
     "ja_JP": "感謝祭記念10回スカウト券",
     "zh_CN": "烛照弦鸣寻访凭证"
   },
@@ -787,6 +788,7 @@
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_4401": {
+    "en_US": "Headhunting Data Contract",
     "ja_JP": "限定契約証",
     "zh_CN": "寻访数据契约"
   },
@@ -1176,6 +1178,7 @@
     "zh_CN": "进货通行证"
   },
   "act21side_token_permesso_rep_1": {
+    "en_US": "Permesso di Importazione",
     "ja_JP": "買付許可証",
     "zh_CN": "进货通行证"
   },
@@ -1256,22 +1259,27 @@
     "zh_CN": "劣质燃料"
   },
   "act29side_frag_1": {
+    "en_US": "Note of Joy",
     "ja_JP": "楽の音符",
     "zh_CN": "乐之节符"
   },
   "act29side_frag_2": {
+    "en_US": "Note of Anger",
     "ja_JP": "怒の音符",
     "zh_CN": "怒之节符"
   },
   "act29side_frag_3": {
+    "en_US": "Note of Sorrow",
     "ja_JP": "哀の音符",
     "zh_CN": "哀之节符"
   },
   "act29side_frag_4": {
+    "en_US": "Note of Fear",
     "ja_JP": "恐の音符",
     "zh_CN": "惧之节符"
   },
   "act29side_token_erin": {
+    "en_US": "Die Klänge von den Erinnerungen",
     "ja_JP": "調律の追憶",
     "zh_CN": "调律追忆"
   },
@@ -3269,6 +3277,7 @@
     "zh_CN": "槐琥的信物"
   },
   "p_char_245_cello": {
+    "en_US": "Virtuosa's Token",
     "ja_JP": "ヴィルトゥオーサの印",
     "zh_CN": "塑心的信物"
   },
@@ -3879,10 +3888,12 @@
     "zh_CN": "Friston-3的信物"
   },
   "p_char_4098_vvana": {
+    "en_US": "Viviana's Token",
     "ja_JP": "ヴィヴィアナの印",
     "zh_CN": "薇薇安娜的信物"
   },
   "p_char_4100_caper": {
+    "en_US": "Caper's Token",
     "ja_JP": "ケイパーの印",
     "zh_CN": "跃跃的信物"
   },
@@ -3912,6 +3923,7 @@
     "zh_CN": "维荻的信物"
   },
   "p_char_4109_baslin": {
+    "en_US": "Bassline's Token",
     "ja_JP": "ベースラインの印",
     "zh_CN": "深律的信物"
   },
@@ -4183,6 +4195,7 @@
     "zh_CN": "隐现的信物"
   },
   "p_char_499_kaitou": {
+    "en_US": "Diamante's Token",
     "ja_JP": "ディアマンテの印",
     "zh_CN": "折光的信物"
   },
@@ -4332,6 +4345,7 @@
     "zh_CN": "罗德岛物资补给VI"
   },
   "randomMaterial_leith2": {
+    "en_US": "Investigation Resupply",
     "ja_JP": "調査補給",
     "zh_CN": "查访补给"
   },
@@ -5022,6 +5036,7 @@
     "zh_CN": "周年庆典干员凭证"
   },
   "voucher_item_pick4401": {
+    "en_US": "Thank-You Celebration Operator Permit",
     "ja_JP": "感謝祭記念★6招聘指名券",
     "zh_CN": "感谢庆典干员凭证"
   },
@@ -5031,6 +5046,7 @@
     "zh_CN": "高级干员调用凭证"
   },
   "voucher_lessng": {
+    "en_US": "Lessing's Folder",
     "ja_JP": "レッシングの書類入れ",
     "zh_CN": "止颂的文件夹"
   },

@@ -712,24 +712,24 @@ tip: 请善用浏览器的搜索功能
 | enemy_1367_dseed | 血珀 | Blood Amber | 血珀 |
 | enemy_1368_spilot | 指挥官厄尔苏拉 | Commander Ulšulah | 指揮官ウルスラ |
 | enemy_1369_bmbcar1 | 反巫术变位炸弹 | Anti-Witchcraft Repositionable Bomb | 対巫術軌道式爆弾 |
-| enemy_1371_ltnflu | 残党乐团长笛手 | - | 楽団志望フルート奏者 |
-| enemy_1371_ltnflu_2 | 巫王乐团长笛手 | - | 巫王楽団フルート奏者 |
-| enemy_1372_ltntpt | 残党乐团小号手 | - | 楽団志望トランペット奏者 |
-| enemy_1372_ltntpt_2 | 巫王乐团小号手 | - | 巫王楽団トランペット奏者 |
-| enemy_1373_ltnhor | 残党乐团圆号手 | - | 楽団志望ホルン奏者 |
-| enemy_1373_ltnhor_2 | 巫王乐团圆号手 | - | 巫王楽団ホルン奏者 |
-| enemy_1374_ltnhap | 残党乐团颂诗者 | - | 楽団志望ハープ奏者 |
-| enemy_1374_ltnhap_2 | 巫王乐团颂诗者 | - | 巫王楽団ハープ奏者 |
-| enemy_1375_ltnclr | 残党乐团管乐家 | - | 楽団志望クラリネット奏者 |
-| enemy_1375_ltnclr_2 | 巫王乐团管乐家 | - | 巫王楽団クラリネット奏者 |
-| enemy_1376_ltndru | 残党乐团鼓手 | - | 楽団志望ドラム奏者 |
-| enemy_1376_ltndru_2 | 巫王乐团鼓手 | - | 巫王楽団ドラム奏者 |
-| enemy_1377_ltnclo | 残党乐团大提琴家 | - | 楽団志望チェロ奏者 |
-| enemy_1377_ltnclo_2 | 巫王乐团大提琴家 | - | 巫王楽団チェロ奏者 |
-| enemy_1378_ltnmst | 残党乐团调律师 | - | 楽団志望調律師 |
-| enemy_1378_ltnmst_2 | 巫王乐团调律师 | - | 巫王楽団調律師 |
-| enemy_1379_ltncdt | 残党乐团指挥家 | - | 楽団志望指揮者 |
-| enemy_1379_ltncdt_2 | 巫王乐团指挥家 | - | 巫王楽団指揮者 |
+| enemy_1371_ltnflu | 残党乐团长笛手 | Remnant Orchestra Flautist | 楽団志望フルート奏者 |
+| enemy_1371_ltnflu_2 | 巫王乐团长笛手 | Witch King's Orchestra Flautist | 巫王楽団フルート奏者 |
+| enemy_1372_ltntpt | 残党乐团小号手 | Remnant Orchestra Trumpeter | 楽団志望トランペット奏者 |
+| enemy_1372_ltntpt_2 | 巫王乐团小号手 | Witch King's Orchestra Trumpeter | 巫王楽団トランペット奏者 |
+| enemy_1373_ltnhor | 残党乐团圆号手 | Remnant Orchestra Hornist | 楽団志望ホルン奏者 |
+| enemy_1373_ltnhor_2 | 巫王乐团圆号手 | Witch King's Orchestra Hornist | 巫王楽団ホルン奏者 |
+| enemy_1374_ltnhap | 残党乐团颂诗者 | Remnant Orchestra Chorister | 楽団志望ハープ奏者 |
+| enemy_1374_ltnhap_2 | 巫王乐团颂诗者 | Witch King's Orchestra Chorister | 巫王楽団ハープ奏者 |
+| enemy_1375_ltnclr | 残党乐团管乐家 | Remnant Orchestra Wind Player | 楽団志望クラリネット奏者 |
+| enemy_1375_ltnclr_2 | 巫王乐团管乐家 | Witch King's Orchestra Wind Player | 巫王楽団クラリネット奏者 |
+| enemy_1376_ltndru | 残党乐团鼓手 | Remnant Orchestra Drummer | 楽団志望ドラム奏者 |
+| enemy_1376_ltndru_2 | 巫王乐团鼓手 | Witch King's Orchestra Drummer | 巫王楽団ドラム奏者 |
+| enemy_1377_ltnclo | 残党乐团大提琴家 | Remnant Orchestra Cellist | 楽団志望チェロ奏者 |
+| enemy_1377_ltnclo_2 | 巫王乐团大提琴家 | Witch King's Orchestra Cellist | 巫王楽団チェロ奏者 |
+| enemy_1378_ltnmst | 残党乐团调律师 | Remnant Orchestra Tuner | 楽団志望調律師 |
+| enemy_1378_ltnmst_2 | 巫王乐团调律师 | Witch King's Orchestra Tuner | 巫王楽団調律師 |
+| enemy_1379_ltncdt | 残党乐团指挥家 | Remnant Orchestra Conductor | 楽団志望指揮者 |
+| enemy_1379_ltncdt_2 | 巫王乐团指挥家 | Witch King's Orchestra Conductor | 巫王楽団指揮者 |
 | enemy_1381_winman | 访问团新兵 | - | - |
 | enemy_1381_winman_2 | 访问团老兵 | - | - |
 | enemy_1382_winbal | 访问团突击新兵 | - | - |
@@ -855,7 +855,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1545_shpkg | 多利，“羊之主” | Dolly, Sovereign of Sheep | 「羊主」ドリー |
 | enemy_1546_cliff | “桥夹”克里夫 | 'Clip' Cliff | 「クリップ」クリフ |
 | enemy_1547_blord | 杜卡雷，“君主之红” | Duq'arael, 'Regent's Crimson' | Duq'arael・「君主の紅」 |
-| enemy_1548_ltniak | 赫尔昏佐伦，“巫王” | - | Herkunftshorn・「巫王」 |
+| enemy_1548_ltniak | 赫尔昏佐伦，“巫王” | Herkunftshorn, 'Witch King' | Herkunftshorn・「巫王」 |
 | enemy_1549_windoc | 哈洛德·克雷加文 | - | - |
 | enemy_1550_dhnzzh | “祟” | - | - |
 | enemy_1551_bolicp | 马特奥上尉 | - | - |

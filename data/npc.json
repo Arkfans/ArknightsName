@@ -187,6 +187,7 @@
   },
   "avg_1032_excu2_1": {
     "en_US": [
+      "'Federico'",
       "Executor",
       "Federico"
     ],
@@ -957,6 +958,12 @@
     ]
   },
   "avg_245_cello_1": {
+    "en_US": [
+      "'Arturia'",
+      "Arturia",
+      "Arturia?",
+      "The Witch King's Musician"
+    ],
     "ja_JP": [
       "「アルトリア」",
       "アルトリア",
@@ -1465,6 +1472,10 @@
     ]
   },
   "avg_4011_lessng_1": {
+    "en_US": [
+      "Lessing",
+      "Stern Youth"
+    ],
     "ja_JP": [
       "レッシング",
       "厳格な青年"
@@ -1534,7 +1545,9 @@
   },
   "avg_4025_aprot2_1": {
     "en_US": [
-      "Shalem"
+      "Abyss",
+      "Shalem",
+      "■■"
     ],
     "ja_JP": [
       "■■■",
@@ -1658,6 +1671,7 @@
   "avg_4046_ebnhlz_1": {
     "en_US": [
       "Ebenholz",
+      "Ebenholz?",
       "Young Noble"
     ],
     "ja_JP": [
@@ -1909,6 +1923,11 @@
     ]
   },
   "avg_4098_vvana_1": {
+    "en_US": [
+      "'Hochberg'",
+      "Viviana",
+      "Viviana?"
+    ],
     "ja_JP": [
       "「ホッホベルク」",
       "ヴィヴィアナ",
@@ -1977,6 +1996,11 @@
     ]
   },
   "avg_4109_baslin_1": {
+    "en_US": [
+      "Micha",
+      "Michael",
+      "Serene Apprentice"
+    ],
     "ja_JP": [
       "ミヒャ",
       "ミヒャエル",
@@ -2446,6 +2470,9 @@
     ]
   },
   "avg_499_kaitou_1": {
+    "en_US": [
+      "Heinz"
+    ],
     "ja_JP": [
       "ハインツ"
     ],
@@ -2792,6 +2819,7 @@
       "James the Worker",
       "Johnny",
       "Kazimierz Villager",
+      "Kind Villager",
       "Kurt Sr.",
       "Militiaman A",
       "Old Townsfolk",
@@ -2802,6 +2830,7 @@
       "Shopkeeper",
       "Tense Infected",
       "Uncle Wong",
+      "Village Head",
       "Village Headman",
       "Villager",
       "Villager C",
@@ -4673,6 +4702,7 @@
   "avg_npc_068": {
     "en_US": [
       "Councilor",
+      "Grocer",
       "Guide",
       "Helpless Father",
       "Inexperienced Clerk",
@@ -4721,6 +4751,7 @@
     "en_US": [
       "Anxious Mother",
       "Girl",
+      "Noble Attendant",
       "Tatjana"
     ],
     "ja_JP": [
@@ -5169,6 +5200,7 @@
       "Celica",
       "Celine",
       "Engineering Operator",
+      "Field Operator",
       "Field Operator A",
       "HR Operator",
       "Hawking Operator",
@@ -5247,6 +5279,7 @@
       "Rhodes Island Field Operator A",
       "Rhodes Island Logistics Operator",
       "Rhodes Island Operator",
+      "Scout Operator",
       "Seanson",
       "Seasoned Rhodes Island Operator",
       "Sniper Operator"
@@ -5867,9 +5900,11 @@
   "avg_npc_1043_1": {
     "en_US": [
       "Anxious Resident",
+      "Chatty Female Patient",
       "Gentle Female Voice",
       "Helpless Plate Resident",
-      "Irritable Woman"
+      "Irritable Woman",
+      "Sofia the Former Maid"
     ],
     "ja_JP": [
       "お喋りな女性患者",
@@ -6141,6 +6176,12 @@
     ]
   },
   "avg_npc_1113_1": {
+    "en_US": [
+      "'Cora'",
+      "Cora",
+      "Cora?",
+      "Witch King"
+    ],
     "ja_JP": [
       "「コーラ」",
       "コーラ",
@@ -6155,6 +6196,10 @@
     ]
   },
   "avg_npc_1114_1": {
+    "en_US": [
+      "Cranky Old Man",
+      "Fremont"
+    ],
     "ja_JP": [
       "フレモント",
       "気性の荒い老人"
@@ -6167,6 +6212,11 @@
     ]
   },
   "avg_npc_1115_1": {
+    "en_US": [
+      "'Grimmacht'",
+      "Grimmacht",
+      "Michael"
+    ],
     "ja_JP": [
       "「グリムマハト」",
       "グリムマハト",
@@ -6179,6 +6229,12 @@
     ]
   },
   "avg_npc_1116_1": {
+    "en_US": [
+      "Ebenholz",
+      "Herkunftshorn",
+      "Witch King",
+      "Witch King?"
+    ],
     "ja_JP": [
       "エーベンホルツ",
       "ヘーアクンフツホルン",
@@ -6193,6 +6249,12 @@
     ]
   },
   "avg_npc_1117_1": {
+    "en_US": [
+      "'Gesatzswächter'",
+      "Brandt",
+      "Gesatzswächter",
+      "Witch King"
+    ],
     "ja_JP": [
       "「金律法衛」",
       "ブラント",
@@ -6229,6 +6291,9 @@
     ]
   },
   "avg_npc_1120_1": {
+    "en_US": [
+      "Arturia"
+    ],
     "ja_JP": [
       "アルトリア"
     ],
@@ -6237,6 +6302,11 @@
     ]
   },
   "avg_npc_1121_1": {
+    "en_US": [
+      "Vivian",
+      "Vivian?",
+      "Viviana"
+    ],
     "ja_JP": [
       "ヴィヴィアナ",
       "ヴィヴィアン",
@@ -6249,6 +6319,11 @@
     ]
   },
   "avg_npc_1122_1": {
+    "en_US": [
+      "Anxious Woman",
+      "Gentle Woman",
+      "Yulia"
+    ],
     "ja_JP": [
       "ユリア",
       "優しい女性",
@@ -6261,6 +6336,11 @@
     ]
   },
   "avg_npc_1123_1": {
+    "en_US": [
+      "'Gendarmerie'",
+      "Loris",
+      "Witch King"
+    ],
     "ja_JP": [
       "「憲兵」",
       "ロリス",
@@ -6273,6 +6353,10 @@
     ]
   },
   "avg_npc_1124_1": {
+    "en_US": [
+      "Bereaved Youth",
+      "Gerhard"
+    ],
     "ja_JP": [
       "ゲルハルト",
       "悲しげな青年"
@@ -6283,6 +6367,10 @@
     ]
   },
   "avg_npc_1125_1": {
+    "en_US": [
+      "'Witch King's Echo'",
+      "'Witch King's Echo'?"
+    ],
     "ja_JP": [
       "「巫王の余韻」",
       "「巫王の余韻」？"
@@ -6293,6 +6381,10 @@
     ]
   },
   "avg_npc_1126_1": {
+    "en_US": [
+      "'Witch King's Echo'",
+      "'Witch King's Echo'?"
+    ],
     "ja_JP": [
       "「巫王の余韻」",
       "「巫王の余韻」？"
@@ -6303,6 +6395,10 @@
     ]
   },
   "avg_npc_1127_1": {
+    "en_US": [
+      "'Witch King's Echo'",
+      "Yulia"
+    ],
     "ja_JP": [
       "「巫王の余韻」",
       "ユリア"
@@ -6313,6 +6409,9 @@
     ]
   },
   "avg_npc_1128_1": {
+    "en_US": [
+      "'Witch King's Echo'"
+    ],
     "ja_JP": [
       "「巫王の余韻」"
     ],
@@ -6321,6 +6420,9 @@
     ]
   },
   "avg_npc_1129_1": {
+    "en_US": [
+      "Motivated Student"
+    ],
     "ja_JP": [
       "積極的な学生"
     ],
@@ -6329,6 +6431,9 @@
     ]
   },
   "avg_npc_1130_1": {
+    "en_US": [
+      "Enraged Student"
+    ],
     "ja_JP": [
       "怒る学生"
     ],
@@ -6337,6 +6442,11 @@
     ]
   },
   "avg_npc_1131_1": {
+    "en_US": [
+      "'Stubborn Apprentice'",
+      "Flustered Student",
+      "Stubborn Apprentice"
+    ],
     "ja_JP": [
       "「強情な学生」",
       "強情な学生",
@@ -6349,6 +6459,11 @@
     ]
   },
   "avg_npc_1132_1": {
+    "en_US": [
+      "Anxious Student",
+      "Bewildered Student",
+      "Passing Student"
+    ],
     "ja_JP": [
       "焦る学生",
       "腑に落ちない学生",
@@ -6361,6 +6476,12 @@
     ]
   },
   "avg_npc_1133_1": {
+    "en_US": [
+      "Gendarmerie",
+      "Gendarmerie B",
+      "Gendarmerie C",
+      "Tired Security Guard"
+    ],
     "ja_JP": [
       "憲兵",
       "憲兵B",
@@ -6375,6 +6496,10 @@
     ]
   },
   "avg_npc_1134_1": {
+    "en_US": [
+      "Gendarmerie",
+      "Gendarmerie A"
+    ],
     "ja_JP": [
       "憲兵",
       "憲兵A"
@@ -6386,6 +6511,11 @@
     ]
   },
   "avg_npc_1135_1": {
+    "en_US": [
+      "'Spire Caster'",
+      "Imperial Caster",
+      "Spire Caster"
+    ],
     "ja_JP": [
       "「高塔術師」",
       "女帝の術師",
@@ -6398,6 +6528,9 @@
     ]
   },
   "avg_npc_1136_1": {
+    "en_US": [
+      "'Unique Drone Model'"
+    ],
     "ja_JP": [
       "「独特な形状のドローン」"
     ],
@@ -7535,6 +7668,7 @@
       "Noble Lady",
       "Noble?",
       "Noblewoman",
+      "Opinionated Patient",
       "Pretentious Noblewoman",
       "Scathing Leithanian",
       "Self-Satisfied Noble Alumna",
@@ -7662,6 +7796,7 @@
   "avg_npc_177": {
     "en_US": [
       "Adulating Noble",
+      "Anxious Patient",
       "Astute Noble",
       "Bankrupt Merchant",
       "Bishmer",
@@ -9056,6 +9191,7 @@
       "Cautious Servant",
       "Feeble Woman",
       "Infected Citizen",
+      "Lively Female Patient",
       "Maid",
       "Noble Sister",
       "Overwrought Taran Refugee",
@@ -11389,7 +11525,8 @@
   },
   "avg_npc_486_1": {
     "en_US": [
-      "Biegler"
+      "Biegler",
+      "Biegler?"
     ],
     "ja_JP": [
       "ビーグラー",
@@ -11402,6 +11539,8 @@
   },
   "avg_npc_487_1": {
     "en_US": [
+      "Ewigegnade",
+      "Golden-haired Woman",
       "Woman"
     ],
     "ja_JP": [
@@ -11455,6 +11594,8 @@
     "en_US": [
       "'Gesandte des Kurfürsten'",
       "Bodyguard",
+      "Imperial Caster",
+      "Imperial Musician",
       "Reckless Caster",
       "Spire Caster"
     ],
@@ -11482,8 +11623,10 @@
       "Cowardly Noble",
       "Devlin",
       "Frivolous Noble",
+      "Graf Saxon",
       "Louis",
-      "Pretentious Noble"
+      "Pretentious Noble",
+      "Young Noble"
     ],
     "ja_JP": [
       "サクソン伯爵",
@@ -11517,6 +11660,7 @@
       "Leithanian Noble",
       "Musician",
       "Nitpicking Critic",
+      "Older Noble",
       "Resplendently Dressed Noble",
       "Stoic-Looking Noble"
     ],
@@ -11577,7 +11721,9 @@
       "Despondent Infected",
       "Mannered Infected",
       "Meddlesome Infected",
-      "Nervous Musician"
+      "Nervous Musician",
+      "Noble Attendant",
+      "Onlooking Passerby A"
     ],
     "ja_JP": [
       "おどおどする演奏家",
@@ -11607,6 +11753,8 @@
       "Dispirited Infected",
       "Expectant Audience Member",
       "Friendly Infected",
+      "Leonie",
+      "Onlooking Passerby B",
       "Tough Infected"
     ],
     "ja_JP": [
@@ -11634,8 +11782,12 @@
       "Dispirited Infected",
       "Drunken Infected",
       "Emotional Infected",
+      "Enraged Passerby?",
+      "Graf's Attendant",
       "Hardware Shop Owner",
+      "Messenger",
       "Neurotic Infected",
+      "Noble Attendant",
       "Passionate Infected",
       "Rude Infected",
       "Rule-Abiding Instructor",
@@ -12781,6 +12933,7 @@
       "Farmer",
       "Innocent Child",
       "Old Man",
+      "Repulsed Child",
       "Tyrant"
     ],
     "ja_JP": [
@@ -13115,7 +13268,8 @@
   },
   "avg_npc_701_1": {
     "en_US": [
-      "Energetic Technician"
+      "Energetic Technician",
+      "Sad Man"
     ],
     "ja_JP": [
       "快活なエンジニア",
@@ -14114,7 +14268,8 @@
   "avg_npc_923_1": {
     "en_US": [
       "Abbot",
-      "Gaunt Old Man"
+      "Gaunt Old Man",
+      "Witch King"
     ],
     "ja_JP": [
       "やつれた老人",
@@ -14130,7 +14285,8 @@
   "avg_npc_924_1": {
     "en_US": [
       "Clément",
-      "Gaunt Man"
+      "Gaunt Man",
+      "Witch King"
     ],
     "ja_JP": [
       "やつれた男性",
@@ -14431,6 +14587,7 @@
   },
   "avg_npc_962_1": {
     "en_US": [
+      "Colddeath Warrior",
       "Icefield Inhabitant A",
       "Icefield Inhabitant B",
       "Sami Mountain Scout",
@@ -14461,6 +14618,7 @@
     "en_US": [
       "Icefield Cottongrass",
       "Qanipalaat's Mother",
+      "Sami Warrior",
       "Solemn Sami Mountain Warrior"
     ],
     "ja_JP": [
@@ -14490,6 +14648,7 @@
   "avg_npc_965_1": {
     "en_US": [
       "Ceremony-Conducting Shaman",
+      "Colddeath Shaman",
       "Forest Shaman",
       "Grieving Apprentice Shaman",
       "Mild-Mannered Shaman",

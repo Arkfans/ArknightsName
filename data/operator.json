@@ -611,6 +611,7 @@
     "zh_CN": "槐琥"
   },
   "char_245_cello": {
+    "en_US": "Virtuosa",
     "ja_JP": "ヴィルトゥオーサ",
     "zh_CN": "塑心"
   },
@@ -1025,6 +1026,7 @@
     "zh_CN": "温蒂"
   },
   "char_4011_lessng": {
+    "en_US": "Lessing",
     "ja_JP": "レッシング",
     "zh_CN": "止颂"
   },
@@ -1240,10 +1242,12 @@
     "zh_CN": "Friston-3"
   },
   "char_4098_vvana": {
+    "en_US": "Viviana",
     "ja_JP": "ヴィヴィアナ",
     "zh_CN": "薇薇安娜"
   },
   "char_4100_caper": {
+    "en_US": "Caper",
     "ja_JP": "ケイパー",
     "zh_CN": "跃跃"
   },
@@ -1273,6 +1277,7 @@
     "zh_CN": "维荻"
   },
   "char_4109_baslin": {
+    "en_US": "Bassline",
     "ja_JP": "ベースライン",
     "zh_CN": "深律"
   },
@@ -1549,6 +1554,7 @@
     "zh_CN": "隐现"
   },
   "char_499_kaitou": {
+    "en_US": "Diamante",
     "ja_JP": "ディアマンテ",
     "zh_CN": "折光"
   },

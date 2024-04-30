@@ -265,10 +265,12 @@
     "zh_CN": "浮游刃启动"
   },
   "skchr_baslin_1": {
+    "en_US": "First Aid",
     "ja_JP": "応急処置",
     "zh_CN": "急救"
   },
   "skchr_baslin_2": {
+    "en_US": "Calming Bass",
     "ja_JP": "低音の調べ",
     "zh_CN": "沉音宁神"
   },
@@ -492,10 +494,12 @@
     "zh_CN": "同步索敌攻击"
   },
   "skchr_caper_1": {
+    "en_US": "Power Strike β",
     "ja_JP": "強撃β",
     "zh_CN": "强力击·β型"
   },
   "skchr_caper_2": {
+    "en_US": "Double the Fun",
     "ja_JP": "ハピネス200％！",
     "zh_CN": "乐趣加倍"
   },
@@ -515,14 +519,17 @@
     "zh_CN": "活力再生·广域"
   },
   "skchr_cello_1": {
+    "en_US": "'Golden Ecstasy'",
     "ja_JP": "「黄金のエクスタシー」",
     "zh_CN": "“黄金的狂喜”"
   },
   "skchr_cello_2": {
+    "en_US": "'Requiem Mass'",
     "ja_JP": "「鎮魂のミサ」",
     "zh_CN": "“安魂的弥撒”"
   },
   "skchr_cello_3": {
+    "en_US": "'Liberal Tango'",
     "ja_JP": "「自由のタンゴ」",
     "zh_CN": "“自由的探戈”"
   },
@@ -1517,10 +1524,12 @@
     "zh_CN": "诡异剪刀"
   },
   "skchr_kaitou_1": {
+    "en_US": "Laser Cutter",
     "ja_JP": "レーザードリリング",
     "zh_CN": "镭射穿凿"
   },
   "skchr_kaitou_2": {
+    "en_US": "Heat Treatment Discoloration",
     "ja_JP": "ヒートエンハンスメント",
     "zh_CN": "热处理变色"
   },
@@ -1595,14 +1604,17 @@
     "zh_CN": "初雷"
   },
   "skchr_lessng_1": {
+    "en_US": "Power Strike γ",
     "ja_JP": "強撃γ",
     "zh_CN": "强力击·γ型"
   },
   "skchr_lessng_2": {
+    "en_US": "Clash of the Faithful",
     "ja_JP": "苦行の縛り",
     "zh_CN": "虔修对决"
   },
   "skchr_lessng_3": {
+    "en_US": "Oathbreaker",
     "ja_JP": "誓いの破棄",
     "zh_CN": "苦修破誓"
   },
@@ -2884,14 +2896,17 @@
     "zh_CN": "双刃毒藤"
   },
   "skchr_vvana_1": {
+    "en_US": "Blade of Fleeting Shadows",
     "ja_JP": "光影穿つ剣",
     "zh_CN": "光影迅捷剑"
   },
   "skchr_vvana_2": {
+    "en_US": "Shadowed by Candlelight",
     "ja_JP": "影払う燭火",
     "zh_CN": "烛燃影息"
   },
   "skchr_vvana_3": {
+    "en_US": "'Flicker'",
     "ja_JP": "「明滅」",
     "zh_CN": "“明灭”"
   },
@@ -3526,6 +3541,7 @@
     "zh_CN": "镀膜"
   },
   "sktok_condtr": {
+    "en_US": "Area Tuning",
     "ja_JP": "﻿広域調律",
     "zh_CN": "广域调谐"
   },
@@ -4010,10 +4026,12 @@
     "zh_CN": "开启阀门"
   },
   "sktok_portlent": {
+    "en_US": "Annihilation",
     "ja_JP": "湮滅",
     "zh_CN": "湮灭"
   },
   "sktok_portlexi": {
+    "en_US": "Creation",
     "ja_JP": "創生",
     "zh_CN": "创生"
   },

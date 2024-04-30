@@ -520,26 +520,26 @@ tip: 请善用浏览器的搜索功能
 | act28side_st02 | 突然冲击 | Sudden Impact | 予期せぬ衝撃 |
 | act28side_st03 | 法外之徒 | Band of Outsiders | 法外の存在 |
 | act28side_tr01 | 城市热战 | City Heat | 熱き市街戦 |
-| act29side_01 | 清唱“晴空之歌” | - | 衆賛歌「青空の歌」 |
-| act29side_02 | 序曲“哨兵” | - | 序曲「歩哨」 |
-| act29side_03 | 练习曲“奇遇” | - | 練習曲「奇遇」 |
-| act29side_04 | 狂想曲“望想” | - | 狂想曲「想望」 |
-| act29side_05 | 奏鸣曲“秋日” | - | 奏鳴曲「秋の日」 |
-| act29side_06 | 华尔兹“假面” | - | 円舞曲「仮面」 |
-| act29side_07 | 协奏曲“复活” | - | 協奏曲「復活」 |
-| act29side_08 | 夜歌“未见的高塔” | - | 夜想曲「まだ見ぬ高塔」 |
-| act29side_09 | 幻想曲“赠答” | - | 幻想曲「贈答」 |
-| act29side_10 | 弥撒“君王” | - | 弥撒曲「君王」 |
-| act29side_s01 | 司律者 | - | 音律を司る者 |
-| act29side_s02 | 管乐团 | - | 管楽合奏団 |
-| act29side_s03 | 拜谒途 | - | 謁見への道 |
-| act29side_s04 | 六重奏 | - | 六重奏 |
-| act29side_s05 | 王座厅 | - | 玉座の間 |
-| act29side_st01 | 前奏“意外归来” | - | 前奏「思いがけない帰還」 |
-| act29side_st02 | 间奏“未竟赋格” | - | 間奏「未完のフーガ」 |
-| act29side_st03 | 尾奏“晚霞” | - | 終曲「夕映え」 |
-| act29side_tr01 | 指挥技巧 | - | 指揮のテクニック |
-| act29side_tr02 | 创作手法 | - | 作曲の心得 |
+| act29side_01 | 清唱“晴空之歌” | Chorale 'Lied des klaren Himmels' | 衆賛歌「青空の歌」 |
+| act29side_02 | 序曲“哨兵” | Overture 'Sentinel' | 序曲「歩哨」 |
+| act29side_03 | 练习曲“奇遇” | Etude 'Encounter' | 練習曲「奇遇」 |
+| act29side_04 | 狂想曲“望想” | Rhapsody 'Longing' | 狂想曲「想望」 |
+| act29side_05 | 奏鸣曲“秋日” | Sonata 'Autumn' | 奏鳴曲「秋の日」 |
+| act29side_06 | 华尔兹“假面” | Valse 'Mask' | 円舞曲「仮面」 |
+| act29side_07 | 协奏曲“复活” | Concerto 'Resurrection' | 協奏曲「復活」 |
+| act29side_08 | 夜歌“未见的高塔” | Nocturne 'Unseen Spire' | 夜想曲「まだ見ぬ高塔」 |
+| act29side_09 | 幻想曲“赠答” | Fantasia 'The Gift' | 幻想曲「贈答」 |
+| act29side_10 | 弥撒“君王” | Messe 'König' | 弥撒曲「君王」 |
+| act29side_s01 | 司律者 | Conductor | 音律を司る者 |
+| act29side_s02 | 管乐团 | Orchestra | 管楽合奏団 |
+| act29side_s03 | 拜谒途 | Funérailles | 謁見への道 |
+| act29side_s04 | 六重奏 | Sextet | 六重奏 |
+| act29side_s05 | 王座厅 | Thronsaal | 玉座の間 |
+| act29side_st01 | 前奏“意外归来” | Prelude 'Surprise Return' | 前奏「思いがけない帰還」 |
+| act29side_st02 | 间奏“未竟赋格” | Intermezzo 'Unfinished Fugue' | 間奏「未完のフーガ」 |
+| act29side_st03 | 尾奏“晚霞” | Coda 'Evening Glow' | 終曲「夕映え」 |
+| act29side_tr01 | 指挥技巧 | Command Technique | 指揮のテクニック |
+| act29side_tr02 | 创作手法 | Composer's Craft | 作曲の心得 |
 | act2bossrush_01 | 困顿囚徒 | Troubled Prisoner | 困窮する囚人 |
 | act2bossrush_02 | 大块头和小不点 | Big and Small | デカとチビ |
 | act2bossrush_03 | 裂地重击 | Fissure Strike | 大地割れる一撃 |
@@ -696,7 +696,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_16 | 休止符街道 | Rest Avenue | フェルマーテ通り |
 | camp_r_17 | 灰暗泥沼 | Ashy Marsh | 薄暗い泥沼 |
 | camp_r_18 | “特制小水坑” | The Special Little Aquapit' | 「特製小さな水たまり」 |
-| camp_r_19 | 腐烂荒野 | - | 腐敗した荒野 |
+| camp_r_19 | 腐烂荒野 | Decaying Wastes | 腐敗した荒野 |
 | camp_r_20 | 千嶂边城 | - | - |
 | camp_r_21 | 新旅店大道 | - | - |
 | camp_r_22 | “离心率”实验室 | - | - |
