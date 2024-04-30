@@ -24,11 +24,11 @@ tip: 请善用浏览器的搜索功能
 | char_1023_ghost2@boc#6 | 生而为一 | Born as One | 対なる一人 |
 | char_1026_gvial2@summer#12 | 悠然假日 HD26 | Holiday HD26 | ホリデーHD26 |
 | char_1027_greyy2@snow#5 | 演出后的王子 | Aftershow | 終演後の王子様 |
-| char_1028_texas2@iteration#1 | 破翼者 | - | - |
+| char_1028_texas2@iteration#1 | 破翼者 | - | ウィングブレイカー |
 | char_102_texas@epoque#7 | 意志 | Willpower | 意志 |
 | char_102_texas@winter#1 | 寒冬信使 | Winter Messenger | 冬の使者 |
 | char_1033_swire2@ambienceSynesthesia#4 | 律动方格 | - | - |
-| char_103_angel@kfc#1 | 城市骑手 | - | - |
+| char_103_angel@kfc#1 | 城市骑手 | - | シティライダー |
 | char_103_angel@sale#8 | 午夜邮差 | Midnight Delivery | 真夜中の配達人 |
 | char_103_angel@wild#1 | 野地秘行 | Wild Operation | 荒野潜行 |
 | char_106_franka@ncg#1 | 林虹之间 | Rainforest, Me, Rainbow | 深緑にかかる虹 |
@@ -51,13 +51,13 @@ tip: 请善用浏览器的搜索功能
 | char_123_fang@winter#1 | 十字郡 | Cruciata | 交差点 |
 | char_124_kroos@witch#1 | 魔术师 | the mag | マジシャン |
 | char_126_shotst@epoque#10 | 诗人的假日 | Bard's Holiday | 詩人の休日 |
-| char_126_shotst@epoque#28 | 星橼林 | - | - |
+| char_126_shotst@epoque#28 | 星橼林 | - | スタリシトロンの森にて |
 | char_128_plosis@epoque#3 | 幽静 | Serenity | 幽静 |
 | char_129_bluep@marthe#3 | 浅滩律动 | Shoal Beat | 浅瀬のリズム |
 | char_130_doberm@epoque#7 | 少尉 | Lieutenant | 少尉 |
 | char_131_flameb@summer#8 | 悠然假日 HDm04 | Casual Vacation HDm04 | ホリデーHDm04 |
 | char_131_flameb@whirlwind#6 | 单刀 | - | - |
-| char_134_ifrit@kfc#1 | 儿童派对 | - | - |
+| char_134_ifrit@kfc#1 | 儿童派对 | - | キッズパーティー |
 | char_134_ifrit@summer#1 | 日晒 SS.SP | Sunburn SS.SP | サンライトSS.SP |
 | char_135_halo@epoque#25 | 所愿 | Her Aspiration | 冀望 |
 | char_136_hsguma@nian#3 | 狩标浪人 | Ronin Huntress | 流離いの旗印 |
@@ -103,12 +103,12 @@ tip: 请善用浏览器的搜索功能
 | char_198_blackd@as#1 | 无言狂响 | Speechless Sound | 無言の狂騒 |
 | char_198_blackd@winter#1 | 新航线 | New Routes | 新航路 |
 | char_199_yak@summer#1 | 沙滩护卫 GT.001 | Beach Guard GT.001 | 砂浜の番人GT001 |
-| char_2012_typhon@wild#9 | 北地引路人 | - | - |
+| char_2012_typhon@wild#9 | 北地引路人 | - | 北地の案内人 |
 | char_2013_cerber@summer#4 | 夏卉 FA333 | Summer Flowers FA333 | 夏の花弁FA333 |
 | char_2013_cerber@whirlwind#2 | 无拘无束 | Unfettered | 自由奔放 |
 | char_2014_nian@nian#4 | 乐逍遥 | Unfettered Freedom | 楽逍遥 |
 | char_2015_dusk@nian#7 | 染尘烟 | Everything Is a Miracle | 染塵煙 |
-| char_201_moeshd@kfc#1 | 清晨七点 | - | - |
+| char_201_moeshd@kfc#1 | 清晨七点 | - | 7:00 a.m. |
 | char_201_moeshd@summer#4 | 探寻者 SK03 | Seeker SK03 | シーカーSK03 |
 | char_2023_ling@ncg#1 | 崖高梦远 | Towering is Cliff of Nostalgia | 崖高く夢遠し |
 | char_2023_ling@nian#9 | 濯缨 | It Does Wash the Strings | 濯冠纓 |
@@ -131,7 +131,7 @@ tip: 请善用浏览器的搜索功能
 | char_218_cuttle@epoque#12 | 暗矢 | Silent Arrow | 暗矢 |
 | char_219_meteo@sweep#1 | 石墨 | Graphite | 石墨 |
 | char_220_grani@epoque#6 | 美妙时光 | Miraculous Moment | 最高のひととき |
-| char_222_bpipe@epoque#28 | 皇家近卫 | - | - |
+| char_222_bpipe@epoque#28 | 皇家近卫 | - | ロイヤルガード |
 | char_222_bpipe@race#1 | 皇后一号 | Queen, No.1 | 栄光の導き手 |
 | char_225_haak@nian#4 | 百面郎中 | Doctor of Faces | 百面郎中 |
 | char_225_haak@nian#5 | 妙手玄心 | Healing Hand, Evil Heart | 妙手深謀 |
@@ -255,8 +255,8 @@ tip: 请善用浏览器的搜索功能
 | char_4048_doroth@witch#4 | 命运主宰 | Hand of Destiny | 運命の支配者 |
 | char_4054_malist@summer#14 | 悠然假日 HDm74 | Holiday HDm74 | ホリデーHDm74 |
 | char_4055_bgsnow@wild#7 | 字句中的雪原 | Snowy Plains in Words | 行間にある雪原 |
-| char_405_absin@epoque#28 | 正午余光 | - | - |
-| char_4064_mlynar@epoque#28 | 远路 | - | - |
+| char_405_absin@epoque#28 | 正午余光 | - | 真昼の残照 |
+| char_4064_mlynar@epoque#28 | 远路 | - | 遠き道のり |
 | char_4065_judge@snow#6 | 偶尔醉陶 | - | - |
 | char_4066_highmo@nian#10 | 及山海 | - | - |
 | char_4071_peper@whirlwind#5 | 来路 | The Road to Here | 来た道 |
@@ -278,9 +278,9 @@ tip: 请善用浏览器的搜索功能
 | char_423_blemsh@witch#2 | 异月灾裔 | Moon Catastrborn | 異月の災裔 |
 | char_426_billro@snow#3 | 霍恩洛厄的寒沙 | Hohenlohe Chillysand | ホーエンローエの氷砂 |
 | char_426_billro@summer#8 | 灿阳朝露 SD08 | Shimmering Dew SD08 | 炎陽煌く露SD08 |
-| char_427_vigil@epoque#27 | 叙拉古的彼面 | - | - |
+| char_427_vigil@epoque#27 | 叙拉古的彼面 | - | シラクーザの別の顔 |
 | char_430_fartth@whirlwind#5 | 捉风 | Hear the Wind Sing | 風をとらえて |
-| char_431_ashlok@epoque#28 | 卡利斯卡群枪 | - | - |
+| char_431_ashlok@epoque#28 | 卡利斯卡群枪 | - | カリスカの槍先 |
 | char_436_whispr@nian#4 | 孤寒峭 | Tremble Cold | 孤料峭 |
 | char_436_whispr@witch#4 | 幽邃隐修 | Priory of Abyss | 幽遠のシスター |
 | char_437_mizuki@sale#7 | 夏日餮宴 | Summer Feast | 真夏の饗宴 |

@@ -697,6 +697,7 @@
     "zh_CN": "云过天空寻访凭证"
   },
   "LIMITED_TKT_GACHA_10_4401": {
+    "ja_JP": "感謝祭記念10回スカウト券",
     "zh_CN": "烛照弦鸣寻访凭证"
   },
   "LIMITED_TKT_GACHA_10_4701": {
@@ -786,6 +787,7 @@
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_4401": {
+    "ja_JP": "限定契約証",
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_4701": {
@@ -1174,6 +1176,7 @@
     "zh_CN": "进货通行证"
   },
   "act21side_token_permesso_rep_1": {
+    "ja_JP": "買付許可証",
     "zh_CN": "进货通行证"
   },
   "act22side_token_manuscript": {
@@ -1253,18 +1256,23 @@
     "zh_CN": "劣质燃料"
   },
   "act29side_frag_1": {
+    "ja_JP": "楽の音符",
     "zh_CN": "乐之节符"
   },
   "act29side_frag_2": {
+    "ja_JP": "怒の音符",
     "zh_CN": "怒之节符"
   },
   "act29side_frag_3": {
+    "ja_JP": "哀の音符",
     "zh_CN": "哀之节符"
   },
   "act29side_frag_4": {
+    "ja_JP": "恐の音符",
     "zh_CN": "惧之节符"
   },
   "act29side_token_erin": {
+    "ja_JP": "調律の追憶",
     "zh_CN": "调律追忆"
   },
   "act2bossrush_milestone_point": {
@@ -3261,6 +3269,7 @@
     "zh_CN": "槐琥的信物"
   },
   "p_char_245_cello": {
+    "ja_JP": "ヴィルトゥオーサの印",
     "zh_CN": "塑心的信物"
   },
   "p_char_248_mgllan": {
@@ -3870,9 +3879,11 @@
     "zh_CN": "Friston-3的信物"
   },
   "p_char_4098_vvana": {
+    "ja_JP": "ヴィヴィアナの印",
     "zh_CN": "薇薇安娜的信物"
   },
   "p_char_4100_caper": {
+    "ja_JP": "ケイパーの印",
     "zh_CN": "跃跃的信物"
   },
   "p_char_4102_threye": {
@@ -3901,6 +3912,7 @@
     "zh_CN": "维荻的信物"
   },
   "p_char_4109_baslin": {
+    "ja_JP": "ベースラインの印",
     "zh_CN": "深律的信物"
   },
   "p_char_4110_delphn": {
@@ -4171,6 +4183,7 @@
     "zh_CN": "隐现的信物"
   },
   "p_char_499_kaitou": {
+    "ja_JP": "ディアマンテの印",
     "zh_CN": "折光的信物"
   },
   "p_char_500_noirc": {
@@ -4319,6 +4332,7 @@
     "zh_CN": "罗德岛物资补给VI"
   },
   "randomMaterial_leith2": {
+    "ja_JP": "調査補給",
     "zh_CN": "查访补给"
   },
   "randomMaterial_rhine2": {
@@ -5008,6 +5022,7 @@
     "zh_CN": "周年庆典干员凭证"
   },
   "voucher_item_pick4401": {
+    "ja_JP": "感謝祭記念★6招聘指名券",
     "zh_CN": "感谢庆典干员凭证"
   },
   "voucher_item_pick601": {
@@ -5016,6 +5031,7 @@
     "zh_CN": "高级干员调用凭证"
   },
   "voucher_lessng": {
+    "ja_JP": "レッシングの書類入れ",
     "zh_CN": "止颂的文件夹"
   },
   "voucher_levelmax_5": {

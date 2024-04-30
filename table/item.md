@@ -146,7 +146,7 @@ tip: 请善用浏览器的搜索功能
 | LIMITED_TKT_GACHA_10_3501 | 长风万里寻访凭证 | Winds of Millennia Unyielding Headhunting Permit | 3.5周年記念10回スカウト券 |
 | LIMITED_TKT_GACHA_10_3801 | 未来序曲寻访凭证 | Preludes to the Future Headhunting Permit | 感謝祭記念10回スカウト券 |
 | LIMITED_TKT_GACHA_10_4101 | 云过天空寻访凭证 | Footprints of the Clouds Headhunting Permit | 4周年記念10回スカウト券 |
-| LIMITED_TKT_GACHA_10_4401 | 烛照弦鸣寻访凭证 | - | - |
+| LIMITED_TKT_GACHA_10_4401 | 烛照弦鸣寻访凭证 | - | 感謝祭記念10回スカウト券 |
 | LIMITED_TKT_GACHA_10_4701 | 时和岁丰寻访凭证 | - | - |
 | LIMITED_TKT_GACHA_10_903 | 苏醒纪念寻访凭证 | Awakening Commemoration Permit | 1周年記念10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_1701 | 特勤专家寻访凭证 | Elite Forces Headhunting Permit | 精鋭小隊10回スカウト券 |
@@ -165,7 +165,7 @@ tip: 请善用浏览器的搜索功能
 | LMTGS_COIN_3501 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_3801 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_4101 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
-| LMTGS_COIN_4401 | 寻访数据契约 | - | - |
+| LMTGS_COIN_4401 | 寻访数据契约 | - | 限定契約証 |
 | LMTGS_COIN_4701 | 寻访数据契约 | - | - |
 | LMTGS_COIN_601 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_903 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
@@ -245,7 +245,7 @@ tip: 请善用浏览器的搜索功能
 | act20side_token_book | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
 | act20side_token_book_rep_1 | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
 | act21side_token_permesso | 进货通行证 | Permesso di Importazione | 買付許可証 |
-| act21side_token_permesso_rep_1 | 进货通行证 | - | - |
+| act21side_token_permesso_rep_1 | 进货通行证 | - | 買付許可証 |
 | act22side_token_manuscript | 手抄歌谣集 | Manuscripts of Ballads | 民謡集の写本 |
 | act22side_token_manuscript_rep_1 | 手抄歌谣集 | - | - |
 | act23side_token_spirit | 新酿烈刀子 | Freshly-Brewed Liedaozi | 烈刀子 |
@@ -262,11 +262,11 @@ tip: 请善用浏览器的搜索功能
 | act26side_token_fragmenta | 圣像碎片 | Holy Statue Fragments | 聖像のかけら |
 | act27side_token_fur | 毛绒绒生物的毛 | Fluffy Critter Wool | ピンクのふわふわ |
 | act28side_token_box | 劣质燃料 | Shoddy Fuel | 粗悪燃料 |
-| act29side_frag_1 | 乐之节符 | - | - |
-| act29side_frag_2 | 怒之节符 | - | - |
-| act29side_frag_3 | 哀之节符 | - | - |
-| act29side_frag_4 | 惧之节符 | - | - |
-| act29side_token_erin | 调律追忆 | - | - |
+| act29side_frag_1 | 乐之节符 | - | 楽の音符 |
+| act29side_frag_2 | 怒之节符 | - | 怒の音符 |
+| act29side_frag_3 | 哀之节符 | - | 哀の音符 |
+| act29side_frag_4 | 惧之节符 | - | 恐の音符 |
+| act29side_token_erin | 调律追忆 | - | 調律の追憶 |
 | act2bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act2bossrush_relic_01 | 修复套件 | Repair Kit | リカバリーキット |
 | act2bossrush_relic_02 | 维续补丁 | Maintenance Patch | メインテインパッチ |
@@ -682,7 +682,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_241_panda | 食铁兽的信物 | FEater's Token | エフイーターの印 |
 | p_char_242_otter | 梅尔的信物 | Mayer's Token | メイヤーの印 |
 | p_char_243_waaifu | 槐琥的信物 | Waai Fu's Token | ワイフーの印 |
-| p_char_245_cello | 塑心的信物 | - | - |
+| p_char_245_cello | 塑心的信物 | - | ヴィルトゥオーサの印 |
 | p_char_248_mgllan | 麦哲伦的信物 | Magallan's Token | マゼランの印 |
 | p_char_249_mlyss | 缪尔赛思的信物 | Muelsyse's Token | ミュルジスの印 |
 | p_char_250_phatom | 傀影的信物 | Phantom's Token | ファントムの印 |
@@ -805,14 +805,14 @@ tip: 请善用浏览器的搜索功能
 | p_char_4087_ines | 伊内丝的信物 | Ines's Token | イネスの印 |
 | p_char_4088_hodrer | 赫德雷的信物 | Hoederer's Token | ヘドリーの印 |
 | p_char_4093_frston | Friston-3的信物 | Friston-3's Token | フリストン-3の印 |
-| p_char_4098_vvana | 薇薇安娜的信物 | - | - |
-| p_char_4100_caper | 跃跃的信物 | - | - |
+| p_char_4098_vvana | 薇薇安娜的信物 | - | ヴィヴィアナの印 |
+| p_char_4100_caper | 跃跃的信物 | - | ケイパーの印 |
 | p_char_4102_threye | 凛视的信物 | Valarqvin's Token | ヴァラルクビンの印 |
 | p_char_4104_coldst | 冰酿的信物 | Coldshot's Token | コールドショットの印 |
 | p_char_4105_almond | 杏仁的信物 | Almond's Token | アーモンドの印 |
 | p_char_4106_bryota | 苍苔的信物 | Bryophyta's Token | ブライオファイタの印 |
 | p_char_4107_vrdant | 维荻的信物 | Verdant's Token | ヴァーダントの印 |
-| p_char_4109_baslin | 深律的信物 | - | - |
+| p_char_4109_baslin | 深律的信物 | - | ベースラインの印 |
 | p_char_4110_delphn | 戴菲恩的信物 | Delphine's Token | デルフィーンの印 |
 | p_char_4114_harold | 哈洛德的信物 | - | - |
 | p_char_4116_blkkgt | 锏的信物 | - | - |
@@ -872,7 +872,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_496_wildmn | 野鬃的信物 | Wild Mane's Token | ワイルドメインの印 |
 | p_char_497_ctable | 晓歌的信物 | Cantabile's Token | カンタービレの印 |
 | p_char_498_inside | 隐现的信物 | Insider's Token | インサイダーの印 |
-| p_char_499_kaitou | 折光的信物 | - | - |
+| p_char_499_kaitou | 折光的信物 | - | ディアマンテの印 |
 | p_char_500_noirc | 黑角的信物 | Noir Corne's Token | ノイルホーンの印 |
 | p_char_501_durin | 杜林的信物 | Durin's Token | ドゥリンの印 |
 | p_char_502_nblade | 夜刀的信物 | Yato's Token | ヤトウの印 |
@@ -902,7 +902,7 @@ tip: 请善用浏览器的搜索功能
 | randomMaterial_7 | 罗德岛物资补给IV | Rhodes Island Supplies IV | 補給物資・ロドスIV |
 | randomMaterial_8 | 罗德岛物资补给V | Rhodes Island Supplies V | 補給物資・ロドスV |
 | randomMaterial_9 | 罗德岛物资补给VI | Rhodes Island Supplies VI | 補給物資・ロドスVI |
-| randomMaterial_leith2 | 查访补给 | - | - |
+| randomMaterial_leith2 | 查访补给 | - | 調査補給 |
 | randomMaterial_rhine2 | 技术调查补给 | Technological Investigation Supply | 技術調査補給 |
 | randomMaterial_siesta2 | 峯联贸易物流补给 | Mountaincomm Trade Supplies | フェンレン貿易物流補給 |
 | renamingCard | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
@@ -1045,9 +1045,9 @@ tip: 请善用浏览器的搜索功能
 | voucher_item_pick2701 | 周年庆典干员凭证 | Top Operator Transfer Permit | 感謝祭記念★6招聘指名券 |
 | voucher_item_pick3301 | 感谢庆典干员凭证 | Thank-You Celebration Operator Permit | 感謝祭記念★6招聘指名券 |
 | voucher_item_pick3801 | 周年庆典干员凭证 | Top Operator Transfer Permit | 感謝祭記念★6招聘指名券 |
-| voucher_item_pick4401 | 感谢庆典干员凭证 | - | - |
+| voucher_item_pick4401 | 感谢庆典干员凭证 | - | 感謝祭記念★6招聘指名券 |
 | voucher_item_pick601 | 高级干员调用凭证 | Top Operator Transfer Permit | ★6招聘指名券 |
-| voucher_lessng | 止颂的文件夹 | - | - |
+| voucher_lessng | 止颂的文件夹 | - | レッシングの書類入れ |
 | voucher_levelmax_5 | 资深干员特训装置 | Senior Operator Training Apparatus | エリート特訓装置 |
 | voucher_levelmax_6 | 高级资深干员特训装置 | Top Operator Training Apparatus | 上級エリート特訓装置 |
 | voucher_pcharPack | - | - | ★6印交換券 |

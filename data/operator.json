@@ -611,6 +611,7 @@
     "zh_CN": "槐琥"
   },
   "char_245_cello": {
+    "ja_JP": "ヴィルトゥオーサ",
     "zh_CN": "塑心"
   },
   "char_248_mgllan": {
@@ -1024,6 +1025,7 @@
     "zh_CN": "温蒂"
   },
   "char_4011_lessng": {
+    "ja_JP": "レッシング",
     "zh_CN": "止颂"
   },
   "char_4013_kjera": {
@@ -1238,9 +1240,11 @@
     "zh_CN": "Friston-3"
   },
   "char_4098_vvana": {
+    "ja_JP": "ヴィヴィアナ",
     "zh_CN": "薇薇安娜"
   },
   "char_4100_caper": {
+    "ja_JP": "ケイパー",
     "zh_CN": "跃跃"
   },
   "char_4102_threye": {
@@ -1269,6 +1273,7 @@
     "zh_CN": "维荻"
   },
   "char_4109_baslin": {
+    "ja_JP": "ベースライン",
     "zh_CN": "深律"
   },
   "char_4110_delphn": {
@@ -1544,6 +1549,7 @@
     "zh_CN": "隐现"
   },
   "char_499_kaitou": {
+    "ja_JP": "ディアマンテ",
     "zh_CN": "折光"
   },
   "char_500_noirc": {

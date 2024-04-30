@@ -265,9 +265,11 @@
     "zh_CN": "浮游刃启动"
   },
   "skchr_baslin_1": {
+    "ja_JP": "応急処置",
     "zh_CN": "急救"
   },
   "skchr_baslin_2": {
+    "ja_JP": "低音の調べ",
     "zh_CN": "沉音宁神"
   },
   "skchr_bdhkgt_1": {
@@ -490,9 +492,11 @@
     "zh_CN": "同步索敌攻击"
   },
   "skchr_caper_1": {
+    "ja_JP": "強撃β",
     "zh_CN": "强力击·β型"
   },
   "skchr_caper_2": {
+    "ja_JP": "ハピネス200％！",
     "zh_CN": "乐趣加倍"
   },
   "skchr_catap_1": {
@@ -511,12 +515,15 @@
     "zh_CN": "活力再生·广域"
   },
   "skchr_cello_1": {
+    "ja_JP": "「黄金のエクスタシー」",
     "zh_CN": "“黄金的狂喜”"
   },
   "skchr_cello_2": {
+    "ja_JP": "「鎮魂のミサ」",
     "zh_CN": "“安魂的弥撒”"
   },
   "skchr_cello_3": {
+    "ja_JP": "「自由のタンゴ」",
     "zh_CN": "“自由的探戈”"
   },
   "skchr_cement_1": {
@@ -1510,9 +1517,11 @@
     "zh_CN": "诡异剪刀"
   },
   "skchr_kaitou_1": {
+    "ja_JP": "レーザードリリング",
     "zh_CN": "镭射穿凿"
   },
   "skchr_kaitou_2": {
+    "ja_JP": "ヒートエンハンスメント",
     "zh_CN": "热处理变色"
   },
   "skchr_kalts_1": {
@@ -1586,12 +1595,15 @@
     "zh_CN": "初雷"
   },
   "skchr_lessng_1": {
+    "ja_JP": "強撃γ",
     "zh_CN": "强力击·γ型"
   },
   "skchr_lessng_2": {
+    "ja_JP": "苦行の縛り",
     "zh_CN": "虔修对决"
   },
   "skchr_lessng_3": {
+    "ja_JP": "誓いの破棄",
     "zh_CN": "苦修破誓"
   },
   "skchr_leto_2": {
@@ -2872,12 +2884,15 @@
     "zh_CN": "双刃毒藤"
   },
   "skchr_vvana_1": {
+    "ja_JP": "光影穿つ剣",
     "zh_CN": "光影迅捷剑"
   },
   "skchr_vvana_2": {
+    "ja_JP": "影払う燭火",
     "zh_CN": "烛燃影息"
   },
   "skchr_vvana_3": {
+    "ja_JP": "「明滅」",
     "zh_CN": "“明灭”"
   },
   "skchr_waaifu_1": {
@@ -3511,6 +3526,7 @@
     "zh_CN": "镀膜"
   },
   "sktok_condtr": {
+    "ja_JP": "﻿広域調律",
     "zh_CN": "广域调谐"
   },
   "sktok_cqbw_token": {
@@ -3994,9 +4010,11 @@
     "zh_CN": "开启阀门"
   },
   "sktok_portlent": {
+    "ja_JP": "湮滅",
     "zh_CN": "湮灭"
   },
   "sktok_portlexi": {
+    "ja_JP": "創生",
     "zh_CN": "创生"
   },
   "sktok_prison": {

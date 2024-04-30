@@ -134,9 +134,9 @@ tip: 请善用浏览器的搜索功能
 | trap_131_toolgun | 战场装置LUD-99X | - | - |
 | trap_132_toolinvert | “二踢脚”型数据收集装置 | - | - |
 | trap_133_toolgarage | 勘察用自走车 | - | - |
-| trap_134_condtr | 调谐节点 | - | - |
-| trap_135_portlent | 湮灭之相 | - | - |
-| trap_136_portlexi | 创生之相 | - | - |
+| trap_134_condtr | 调谐节点 | - | 調律器 |
+| trap_135_portlent | 湮灭之相 | - | 湮滅の相 |
+| trap_136_portlexi | 创生之相 | - | 創生の相 |
 | trap_137_winfire | 紧急供暖器 | - | - |
 | trap_138_winstone | 点火石 | - | - |
 | trap_139_dhtl | 阻流阀 | - | - |

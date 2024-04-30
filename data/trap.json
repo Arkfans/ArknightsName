@@ -633,12 +633,15 @@
     "zh_CN": "勘察用自走车"
   },
   "trap_134_condtr": {
+    "ja_JP": "調律器",
     "zh_CN": "调谐节点"
   },
   "trap_135_portlent": {
+    "ja_JP": "湮滅の相",
     "zh_CN": "湮灭之相"
   },
   "trap_136_portlexi": {
+    "ja_JP": "創生の相",
     "zh_CN": "创生之相"
   },
   "trap_137_winfire": {

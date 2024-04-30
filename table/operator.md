@@ -128,7 +128,7 @@ tip: 请善用浏览器的搜索功能
 | char_241_panda | 食铁兽 | FEater | エフイーター |
 | char_242_otter | 梅尔 | Mayer | メイヤー |
 | char_243_waaifu | 槐琥 | Waai Fu | ワイフー |
-| char_245_cello | 塑心 | - | - |
+| char_245_cello | 塑心 | - | ヴィルトゥオーサ |
 | char_248_mgllan | 麦哲伦 | Magallan | マゼラン |
 | char_249_mlyss | 缪尔赛思 | Muelsyse | ミュルジス |
 | char_250_phatom | 傀影 | Phantom | ファントム |
@@ -211,7 +211,7 @@ tip: 请善用浏览器的搜索功能
 | char_4006_melnte | 玫拉 | Melanite | メラナイト |
 | char_4009_irene | 艾丽妮 | Irene | アイリーニ |
 | char_400_weedy | 温蒂 | Weedy | ウィーディ |
-| char_4011_lessng | 止颂 | - | - |
+| char_4011_lessng | 止颂 | - | レッシング |
 | char_4013_kjera | 耶拉 | Kjera | イェラ |
 | char_4014_lunacu | 子月 | Lunacub | ルナカブ |
 | char_4015_spuria | 空构 | Spuria | スプリア |
@@ -255,14 +255,14 @@ tip: 请善用浏览器的搜索功能
 | char_4088_hodrer | 赫德雷 | Hoederer | へドリー |
 | char_4091_ulika | U-Official | U-Official | U-Official |
 | char_4093_frston | Friston-3 | Friston-3 | Friston-3 |
-| char_4098_vvana | 薇薇安娜 | - | - |
-| char_4100_caper | 跃跃 | - | - |
+| char_4098_vvana | 薇薇安娜 | - | ヴィヴィアナ |
+| char_4100_caper | 跃跃 | - | ケイパー |
 | char_4102_threye | 凛视 | Valarqvin | ヴァラルクビン |
 | char_4104_coldst | 冰酿 | Coldshot | コールドショット |
 | char_4105_almond | 杏仁 | Almond | アーモンド |
 | char_4106_bryota | 苍苔 | Bryophyta | ブライオファイタ |
 | char_4107_vrdant | 维荻 | Verdant | ヴァーダント |
-| char_4109_baslin | 深律 | - | - |
+| char_4109_baslin | 深律 | - | ベースライン |
 | char_4110_delphn | 戴菲恩 | Delphine | デルフィーン |
 | char_4114_harold | 哈洛德 | - | - |
 | char_4116_blkkgt | 锏 | - | - |
@@ -323,7 +323,7 @@ tip: 请善用浏览器的搜索功能
 | char_496_wildmn | 野鬃 | Wild Mane | ワイルドメイン |
 | char_497_ctable | 晓歌 | Cantabile | カンタービレ |
 | char_498_inside | 隐现 | Insider | インサイダー |
-| char_499_kaitou | 折光 | - | - |
+| char_499_kaitou | 折光 | - | ディアマンテ |
 | char_500_noirc | 黑角 | Noir Corne | ノイルホーン |
 | char_501_durin | 杜林 | Durin | ドゥリン |
 | char_502_nblade | 夜刀 | Yato | ヤトウ |

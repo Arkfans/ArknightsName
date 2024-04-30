@@ -25,9 +25,9 @@ tip: 请善用浏览器的搜索功能
 | avg_1029_Yato2_1 | 夜刀 | Yato | ヤトウ |
 | avg_1030_noirc2_1 | 黑角 | Noir Corne | ノイルホーン |
 | avg_1031_slent2_1 | 赫默 | Silence | サイレンス |
-| avg_1032_excu2_1 | “费德里科” | Executor | イグゼキュター |
-|   | 费德里科 | Federico | フェデリコ |
-|   | 送葬人 |   |   |
+| avg_1032_excu2_1 | “费德里科” | Executor | 「フェデリコ」 |
+|   | 费德里科 | Federico | イグゼキュター |
+|   | 送葬人 |   | フェデリコ |
 | avg_1033_swire2_1 | 诗怀雅 | Swire | スワイヤー |
 | avg_1034_jesca2_1 | 杰西卡 | Jessica | ジェシカ |
 | avg_103_angel_1 | 能天使 | Exusiai | エクシア |
@@ -123,10 +123,10 @@ tip: 请善用浏览器的搜索功能
 | avg_242_otter_1 | 梅尔 | Mayer | メイヤー |
 | avg_243_waaifu_1 | 槐琥 | Waai Fu | ワイフー |
 |   | 槐琥？ |   |   |
-| avg_245_cello_1 | “阿尔图罗” | - | - |
-|   | 巫王的乐手 |   |   |
-|   | 阿尔图罗 |   |   |
-|   | 阿尔图罗？ |   |   |
+| avg_245_cello_1 | “阿尔图罗” | - | 「アルトリア」 |
+|   | 巫王的乐手 |   | アルトリア |
+|   | 阿尔图罗 |   | アルトリア？ |
+|   | 阿尔图罗？ |   | 巫王の楽師 |
 | avg_248_mgllan_1 | 麦哲伦 | Magallan | マゼラン |
 | avg_249_mlyss_1 | 缪尔赛思 | Muelsyse | ミュルジス |
 |   | 缪尔赛思？ | Muelsyse? | ミュルジス？ |
@@ -183,17 +183,17 @@ tip: 请善用浏览器的搜索功能
 | avg_4009_irene_1 | 审判官艾丽妮 | Inquisitor Irene | アイリーニ |
 |   | 艾丽妮 | Irene | 審問官アイリーニ |
 | avg_400_weedy_1 | 温蒂 | Weedy | ウィーディ |
-| avg_4011_lessng_1 | 严肃的青年 | - | - |
-|   | 莱辛 |   |   |
+| avg_4011_lessng_1 | 严肃的青年 | - | レッシング |
+|   | 莱辛 |   | 厳格な青年 |
 | avg_4014_lunacu_1 | 子月 | Lunacub | ルナカブ |
 | avg_4015_spuria_1 | 斯普莉雅 | Serpilia | スプリア |
 | avg_4016_kazema_1 | 记录员凯特 | Kazemaru | カゼマル |
 |   | 风丸 | Kite the Recorder | 記録係ケイト |
 | avg_4017_puzzle_1 | 菲舍尔 | Fischer | フィッシャー |
 | avg_4019_ncdeer_1 | 九色鹿 | Nine-Colored Deer | 九色鹿 |
-| avg_4025_aprot2_1 | ■■ | Shalem | シャレム |
-|   | 暮落 |   |   |
-|   | 沉渊 |   |   |
+| avg_4025_aprot2_1 | ■■ | Shalem | ■■■ |
+|   | 暮落 |   | アビス |
+|   | 沉渊 |   | シャレム |
 | avg_402_tuye_1 | 图耶 | Tuye | トゥイエ |
 | avg_4032_provs_1 | 酒量很好的客人 | Big Drinker Customer | お酒に強い客 |
 |   | 黛丝特 | Deszcz | デーシュット |
@@ -207,8 +207,8 @@ tip: 请善用浏览器的搜索功能
 | avg_4043_erato_1 | 埃拉托 | Erato | エラト |
 | avg_4045_heidi_1 | 海蒂 | Heidi | ハイディ |
 | avg_4046_ebnhlz_1 | 年轻的贵族 | Ebenholz | エーベンホルツ |
-|   | 黑键 | Young Noble | 若い貴族 |
-|   | 黑键？ |   |   |
+|   | 黑键 | Young Noble | エーベンホルツ？ |
+|   | 黑键？ |   | 若い貴族 |
 | avg_4047_pianst_1 | 车尔尼 | Czerny | ツェルニー |
 | avg_4048_doroth_1 | 多萝西 | Dorothy | ドロシー |
 | avg_4054_malist_1 | 刻薄的杜林人 | Mature Durin | スディチ |
@@ -240,9 +240,9 @@ tip: 请善用浏览器的搜索功能
 |   | 尤里卡 | Streamer U | ユーリカ |
 | avg_4091_ulika_1 | U-Gigamax | Streamer U | U-Gigamax |
 |   | 主播U | U-Gigamax | Uちゃん |
-| avg_4098_vvana_1 | “霍赫贝格” | - | - |
-|   | 薇薇安娜 |   |   |
-|   | 薇薇安娜？ |   |   |
+| avg_4098_vvana_1 | “霍赫贝格” | - | 「ホッホベルク」 |
+|   | 薇薇安娜 |   | ヴィヴィアナ |
+|   | 薇薇安娜？ |   | ヴィヴィアナ？ |
 | avg_4104_coldst_1 | 海伦娜 | Helena | ヘレナ |
 | avg_4105_almond_1 | 杏仁 | Almond | BSWオペレーター |
 |   | 罗拉 | Blacksteel Operator | BSW技術員 |
@@ -253,9 +253,9 @@ tip: 请善用浏览器的搜索功能
 |   | 路过的男性 | Guiltless Man | 罪のない男性 |
 |   | 阿黛尔 | Male Passerby | 通りすがりの男性 |
 | avg_4107_vrdant_1 | 维荻 | - | - |
-| avg_4109_baslin_1 | 平静的学徒 | - | - |
-|   | 米夏 |   |   |
-|   | 米夏埃尔 |   |   |
+| avg_4109_baslin_1 | 平静的学徒 | - | ミヒャ |
+|   | 米夏 |   | ミヒャエル |
+|   | 米夏埃尔 |   | 冷静な学生 |
 | avg_4110_delphn_1 | 戴菲恩 | Delphine | デルフィーン |
 | avg_4114_harold_1 | 哈洛德 | - | - |
 |   | 维多利亚子爵 |   |   |
@@ -322,7 +322,7 @@ tip: 请善用浏览器的搜索功能
 | avg_496_wdmane_1 | 狂野的骑士 | A Wild Knight | イヴォナ |
 |   | 艾沃娜 | Iwona | ワイルドな騎士 |
 | avg_497_ctable_1 | 晓歌 | Cantabile | カンタービレ |
-| avg_499_kaitou_1 | 海因茨 | - | - |
+| avg_499_kaitou_1 | 海因茨 | - | ハインツ |
 | avg_502_Yato_1 | 夜刀 | Noir Corne | ノイルホーン |
 |   | 黑角 | Yato | ヤトウ |
 | avg_502_nblade_1 | 夜刀 | Yato | ヤトウ |
@@ -419,12 +419,12 @@ tip: 请善用浏览器的搜索功能
 |   | 紧张的感染者 | Porter | 村人C |
 |   | 老板 | Produce Vendor | 村長 |
 |   | 老科特 | Shopkeeper | 民兵A |
-|   | 老约翰 | Tense Infected | 老いた住民 |
-|   | 聒噪的老人 | Uncle Wong | 老けている労働者 |
-|   | 苍老的工人 | Village Headman | 農場主 |
-|   | 菜贩 | Villager | 運搬人 |
-|   | 落魄的店主 | Villager C | 道を急ぐ労働者 |
-|   | 赶路的工人 | Wallen |   |
+|   | 老约翰 | Tense Infected | 温厚な村人 |
+|   | 聒噪的老人 | Uncle Wong | 老いた住民 |
+|   | 苍老的工人 | Village Headman | 老けている労働者 |
+|   | 菜贩 | Villager | 農場主 |
+|   | 落魄的店主 | Villager C | 運搬人 |
+|   | 赶路的工人 | Wallen | 道を急ぐ労働者 |
 | avg_npc_006 | 商人 | A Spectating Infected | くたびれた労働者 |
 |   | 工程术师安德烈 | Bar Owner | アル |
 |   | 忧愁的工人 | Depressed Worker | エンジニアアンドレイ |
@@ -910,13 +910,13 @@ tip: 请善用浏览器的搜索功能
 |   | 贵族侍从 | Stubborn Townsfolk | 経験が浅い店員 |
 |   | 资历尚浅的店员 | Townsfolk | 負傷した住民 |
 |   | 镇民 | Townsfolk B | 貴族の従者 |
-|   | 镇民B | Wounded Townsfolk | 頑固な住民 |
-|   | 镇民代表 |   |   |
+|   | 镇民B | Wounded Townsfolk | 雑貨屋店主 |
+|   | 镇民代表 |   | 頑固な住民 |
 |   | 顽固的镇民 |   |   |
 | avg_npc_069 | 塔佳娜 | Anxious Mother | タチヤナ |
 |   | 少女 | Girl | 少女 |
 |   | 新进医疗成员 | Tatjana | 焦っている母 |
-|   | 焦急的母亲 |   |   |
+|   | 焦急的母亲 |   | 貴族の侍従 |
 |   | 贵族侍从 |   |   |
 | avg_npc_070 | 佩塔 | Archosauria | アダクリスチャンピオン |
 |   | 厮打的部族人 | Archosauria A | アダクリス人 |
@@ -1044,12 +1044,12 @@ tip: 请善用浏览器的搜索功能
 |   | 干员碎纸机 | Operator Shredder | ロドス後方支援オペレーター |
 |   | 干员霍格 | Pensive Operator | ロールパイン |
 |   | 汉克 | Rhodes Island Field Operator A | 事務所オペレーターB |
-|   | 沉默的干员 | Rhodes Island Logistics Operator | 外勤オペレーター |
-|   | 狙击干员 | Rhodes Island Operator | 外勤オペレーターA |
-|   | 罗德岛后勤干员 | Seanson | 実習オペレーターB |
-|   | 罗德岛外勤干员A | Seasoned Rhodes Island Operator | 物静かなオペレーター |
-|   | 罗德岛干员 | Sniper Operator | 狙撃オペレーター |
-|   | 老练的罗德岛干员 |   |   |
+|   | 沉默的干员 | Rhodes Island Logistics Operator | 偵察オペレーター |
+|   | 狙击干员 | Rhodes Island Operator | 外勤オペレーター |
+|   | 罗德岛后勤干员 | Seanson | 外勤オペレーターA |
+|   | 罗德岛外勤干员A | Seasoned Rhodes Island Operator | 実習オペレーターB |
+|   | 罗德岛干员 | Sniper Operator | 物静かなオペレーター |
+|   | 老练的罗德岛干员 |   | 狙撃オペレーター |
 | avg_npc_090 | 办事处干员 | Chard | ウィル |
 |   | 办事处干员A | Defender Operator | エンジニアA |
 |   | 实习干员C | Engineering Operator | エンジニアB |
@@ -1150,12 +1150,12 @@ tip: 请善用浏览器的搜索功能
 |   | 社区居民 | Unhappy-looking Resident | 慌てる男性 |
 |   | 神色慌张的男性 |   | 焦る男性 |
 |   | 面色不快的地块居民 |   |   |
-| avg_npc_1043_1 | 健谈的女病人 | Anxious Resident | 優しい女性の声 |
-|   | 前女佣索菲娅 | Gentle Female Voice | 怒る女性 |
-|   | 无措的地块居民 | Helpless Plate Resident | 慌てふためく住民 |
-|   | 暴躁的女性 | Irritable Woman | 焦る住民 |
-|   | 温柔的女声 |   |   |
-|   | 焦急的地块居民 |   |   |
+| avg_npc_1043_1 | 健谈的女病人 | Anxious Resident | お喋りな女性患者 |
+|   | 前女佣索菲娅 | Gentle Female Voice | 優しい女性の声 |
+|   | 无措的地块居民 | Helpless Plate Resident | 元女使用人ソフィア |
+|   | 暴躁的女性 | Irritable Woman | 怒る女性 |
+|   | 温柔的女声 |   | 慌てふためく住民 |
+|   | 焦急的地块居民 |   | 焦る住民 |
 | avg_npc_1044_1 | 作乱的混混 | Boorish Brute | 冷淡なチンピラ |
 |   | 冷漠的混混 | Cruel Snowfield Bandit | 冷淡な野盗 |
 |   | 冷漠的雪地匪帮 | Guileful Gangster | 抵抗する暴徒 |
@@ -1198,65 +1198,65 @@ tip: 请善用浏览器的搜索功能
 |   | 发言人马克维茨 | Corporate Employee | 企業職員 |
 |   | 浑厚的男声 | Deep Male Voice | 豪快な女の声 |
 |   | 豪迈的女声 | Spokesman Malkiewicz | 重厚な男の声 |
-| avg_npc_1113_1 | “珂拉” | - | - |
-|   | 巫王 |   |   |
-|   | 珂拉 |   |   |
-|   | 珂拉？ |   |   |
-| avg_npc_1114_1 | 弗莱蒙特 | - | - |
-|   | 暴躁的老者 |   |   |
+| avg_npc_1113_1 | “珂拉” | - | 「コーラ」 |
+|   | 巫王 |   | コーラ |
+|   | 珂拉 |   | コーラ？ |
+|   | 珂拉？ |   | 巫王 |
+| avg_npc_1114_1 | 弗莱蒙特 | - | フレモント |
+|   | 暴躁的老者 |   | 気性の荒い老人 |
 |   | 特蕾西娅 |   |   |
 |   | 菈玛莲 |   |   |
-| avg_npc_1115_1 | “赫琳玛特” | - | - |
-|   | 米夏埃尔 |   |   |
-|   | 赫琳玛特 |   |   |
-| avg_npc_1116_1 | 巫王 | - | - |
-|   | 巫王？ |   |   |
-|   | 赫尔昏佐伦 |   |   |
-|   | 黑键 |   |   |
-| avg_npc_1117_1 | “金律法卫” | - | - |
-|   | 巫王 |   |   |
-|   | 布兰特 |   |   |
-|   | 金律法卫 |   |   |
+| avg_npc_1115_1 | “赫琳玛特” | - | 「グリムマハト」 |
+|   | 米夏埃尔 |   | グリムマハト |
+|   | 赫琳玛特 |   | ミヒャエル |
+| avg_npc_1116_1 | 巫王 | - | エーベンホルツ |
+|   | 巫王？ |   | ヘーアクンフツホルン |
+|   | 赫尔昏佐伦 |   | 巫王 |
+|   | 黑键 |   | 巫王？ |
+| avg_npc_1117_1 | “金律法卫” | - | 「金律法衛」 |
+|   | 巫王 |   | ブラント |
+|   | 布兰特 |   | 巫王 |
+|   | 金律法卫 |   | 金律法衛 |
 | avg_npc_1118_1 | 费德里科 | Federico | フェデリコ |
 | avg_npc_1119_1 | 费德里科 | Federico | フェデリコ |
-| avg_npc_1120_1 | 阿尔图罗 | - | - |
-| avg_npc_1121_1 | 薇薇安 | - | - |
-|   | 薇薇安娜 |   |   |
-|   | 薇薇安？ |   |   |
-| avg_npc_1122_1 | 尤利娅 | - | - |
-|   | 温柔的女性 |   |   |
-|   | 着急的女性 |   |   |
-| avg_npc_1123_1 | “宪兵” | - | - |
-|   | 巫王 |   |   |
-|   | 洛里斯 |   |   |
-| avg_npc_1124_1 | 哀伤的青年 | - | - |
-|   | 格哈德 |   |   |
-| avg_npc_1125_1 | “巫王的余音” | - | - |
-|   | “巫王的余音”？ |   |   |
-| avg_npc_1126_1 | “巫王的余音” | - | - |
-|   | “巫王的余音”？ |   |   |
-| avg_npc_1127_1 | “巫王的余音” | - | - |
-|   | 尤利娅 |   |   |
-| avg_npc_1128_1 | “巫王的余音” | - | - |
-| avg_npc_1129_1 | 积极的学徒 | - | - |
-| avg_npc_1130_1 | 愤怒的学徒 | - | - |
-| avg_npc_1131_1 | “倔强的学徒” | - | - |
-|   | 倔强的学徒 |   |   |
-|   | 慌张的学徒 |   |   |
-| avg_npc_1132_1 | 焦急的学徒 | - | - |
-|   | 疑惑的学徒 |   |   |
-|   | 路过的学徒 |   |   |
-| avg_npc_1133_1 | 宪兵 | - | - |
-|   | 宪兵B |   |   |
-|   | 宪兵C |   |   |
-|   | 疲倦的执勤人员 |   |   |
-| avg_npc_1134_1 | 传令官 | - | - |
-|   | 宪兵 |   |   |
+| avg_npc_1120_1 | 阿尔图罗 | - | アルトリア |
+| avg_npc_1121_1 | 薇薇安 | - | ヴィヴィアナ |
+|   | 薇薇安娜 |   | ヴィヴィアン |
+|   | 薇薇安？ |   | ヴィヴィアン？ |
+| avg_npc_1122_1 | 尤利娅 | - | ユリア |
+|   | 温柔的女性 |   | 優しい女性 |
+|   | 着急的女性 |   | 焦る女性 |
+| avg_npc_1123_1 | “宪兵” | - | 「憲兵」 |
+|   | 巫王 |   | ロリス |
+|   | 洛里斯 |   | 巫王 |
+| avg_npc_1124_1 | 哀伤的青年 | - | ゲルハルト |
+|   | 格哈德 |   | 悲しげな青年 |
+| avg_npc_1125_1 | “巫王的余音” | - | 「巫王の余韻」 |
+|   | “巫王的余音”？ |   | 「巫王の余韻」？ |
+| avg_npc_1126_1 | “巫王的余音” | - | 「巫王の余韻」 |
+|   | “巫王的余音”？ |   | 「巫王の余韻」？ |
+| avg_npc_1127_1 | “巫王的余音” | - | 「巫王の余韻」 |
+|   | 尤利娅 |   | ユリア |
+| avg_npc_1128_1 | “巫王的余音” | - | 「巫王の余韻」 |
+| avg_npc_1129_1 | 积极的学徒 | - | 積極的な学生 |
+| avg_npc_1130_1 | 愤怒的学徒 | - | 怒る学生 |
+| avg_npc_1131_1 | “倔强的学徒” | - | 「強情な学生」 |
+|   | 倔强的学徒 |   | 強情な学生 |
+|   | 慌张的学徒 |   | 慌てる学生 |
+| avg_npc_1132_1 | 焦急的学徒 | - | 焦る学生 |
+|   | 疑惑的学徒 |   | 腑に落ちない学生 |
+|   | 路过的学徒 |   | 通りすがりの学生 |
+| avg_npc_1133_1 | 宪兵 | - | 憲兵 |
+|   | 宪兵B |   | 憲兵B |
+|   | 宪兵C |   | 憲兵C |
+|   | 疲倦的执勤人员 |   | 疲弊した当直員 |
+| avg_npc_1134_1 | 传令官 | - | 憲兵 |
+|   | 宪兵 |   | 憲兵A |
 |   | 宪兵A |   |   |
-| avg_npc_1135_1 | “高塔术师” | - | - |
-|   | 女皇的术师 |   |   |
-|   | 高塔术师 |   |   |
-| avg_npc_1136_1 | “造型独特的无人机” | - | - |
+| avg_npc_1135_1 | “高塔术师” | - | 「高塔術師」 |
+|   | 女皇的术师 |   | 女帝の術師 |
+|   | 高塔术师 |   | 高塔術師 |
+| avg_npc_1136_1 | “造型独特的无人机” | - | 「独特な形状のドローン」 |
 | avg_npc_1156_1 | 发言人莫布 | - | - |
 | avg_npc_1157_1 | 老练的士兵 | - | - |
 | avg_npc_1158_1 | 沉默的士兵 | - | - |
@@ -1551,22 +1551,22 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_175 | 刻薄的莱塔尼亚人 | Actress | ためらう使節 |
 |   | 商队首领 | Beautiful Noble | キャラバンのリーダー |
 |   | 女性设计师 | Calm Councilor | ユーモラスな貴族 |
-|   | 女演员 | Caravan Head | 女性デザイナー |
-|   | 好奇的游客 | Cheery Actress | 女性貴族 |
-|   | 富有的女性 | Exhausted Viscount | 富裕層の女性 |
-|   | 慢条斯理的议员 | Female Designer | 役者 |
-|   | 有品味的病人 | Hesitant Ambassador | 明るい女性貴族 |
-|   | 欢快的女贵族 | Kind-Faced Noble | 活発な役者 |
-|   | 活泼的女演员 | Merry Noblewoman | 疲れ果てた子爵 |
-|   | 精疲力尽的子爵 | Noble Lady | 短気なリターニア人 |
-|   | 美丽的贵族 | Noble? | 美しい貴族 |
-|   | 自满的贵族同学 | Noblewoman | 自信溢れる貴族 |
-|   | 贵族女士 | Pretentious Noblewoman | 落ち着いた議員 |
-|   | 贵族女性 | Scathing Leithanian | 親切そうな貴族 |
-|   | 贵族？ | Self-Satisfied Noble Alumna | 貴族の女性 |
-|   | 迟疑的使节 | Wealthy Woman | 貴族？ |
-|   | 附庸风雅的女贵族 | Witty Noble | 風流人ぶった女性貴族 |
-|   | 面色和善的贵族 |   |   |
+|   | 女演员 | Caravan Head | 上品な患者 |
+|   | 好奇的游客 | Cheery Actress | 女性デザイナー |
+|   | 富有的女性 | Exhausted Viscount | 女性貴族 |
+|   | 慢条斯理的议员 | Female Designer | 富裕層の女性 |
+|   | 有品味的病人 | Hesitant Ambassador | 役者 |
+|   | 欢快的女贵族 | Kind-Faced Noble | 明るい女性貴族 |
+|   | 活泼的女演员 | Merry Noblewoman | 活発な役者 |
+|   | 精疲力尽的子爵 | Noble Lady | 疲れ果てた子爵 |
+|   | 美丽的贵族 | Noble? | 短気なリターニア人 |
+|   | 自满的贵族同学 | Noblewoman | 美しい貴族 |
+|   | 贵族女士 | Pretentious Noblewoman | 自信溢れる貴族 |
+|   | 贵族女性 | Scathing Leithanian | 落ち着いた議員 |
+|   | 贵族？ | Self-Satisfied Noble Alumna | 親切そうな貴族 |
+|   | 迟疑的使节 | Wealthy Woman | 貴族の女性 |
+|   | 附庸风雅的女贵族 | Witty Noble | 貴族？ |
+|   | 面色和善的贵族 |   | 風流人ぶった女性貴族 |
 |   | 风趣的贵族 |   |   |
 | avg_npc_176 | 主持人 | A Leithanian Nobleman | おしゃべりな商人 |
 |   | 剧场经理 | Announcer | ほろ酔いな商人 |
@@ -1606,17 +1606,17 @@ tip: 请善用浏览器的搜索功能
 |   | 殷勤的投资商 | Mayor | 小狡い貴族 |
 |   | 焦急的病人 | Noble Man | 市長 |
 |   | 看不清脸的商人 | Noblewoman and Wealthy Man | 派手に着飾った男 |
-|   | 破产商人 | Obscured Merchant | 現地の裁判官B |
-|   | 科威尔 | Officer-in-Charge | 真面目な議員 |
-|   | 管家 | Pretentious Man | 破産した商人 |
-|   | 精明的贵族 | Representative Cooper | 臆病な市民 |
-|   | 胆怯的市民 | Senior Project Manager | 貴族の女性＆金持ちの男性 |
-|   | 衣着富贵的男人 | Timid Citizen | 貴族の男性 |
-|   | 谄媚的贵族 | Wealthily-Dressed Man | 野心に満ちた男爵 |
-|   | 贝希曼 | Wealthy Man | 金持ちの男性 |
-|   | 贵族女性&富有的男性 | Wildly Ambitious Baron | 顔の見えない商人 |
-|   | 贵族男性 | William | 風流人ぶる男 |
-|   | 野心勃勃的男爵 |   |   |
+|   | 破产商人 | Obscured Merchant | 焦る病人 |
+|   | 科威尔 | Officer-in-Charge | 現地の裁判官B |
+|   | 管家 | Pretentious Man | 真面目な議員 |
+|   | 精明的贵族 | Representative Cooper | 破産した商人 |
+|   | 胆怯的市民 | Senior Project Manager | 臆病な市民 |
+|   | 衣着富贵的男人 | Timid Citizen | 貴族の女性＆金持ちの男性 |
+|   | 谄媚的贵族 | Wealthily-Dressed Man | 貴族の男性 |
+|   | 贝希曼 | Wealthy Man | 野心に満ちた男爵 |
+|   | 贵族女性&富有的男性 | Wildly Ambitious Baron | 金持ちの男性 |
+|   | 贵族男性 | William | 顔の見えない商人 |
+|   | 野心勃勃的男爵 |   | 風流人ぶる男 |
 |   | 附庸风雅的男人 |   |   |
 | avg_npc_178 | “伊比利亚人” | 'Iberian' | 「イベリア人」 |
 |   | 地方信使 | Inhabitant | トランスポーター |
@@ -1914,15 +1914,15 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_243 | 塔拉流民 | Apathetic Passerby | ターラーの流民 |
 |   | 女仆 | Cautious Servant | パサード |
 |   | 帕萨多 | Feeble Woman | メイド |
-|   | 悲伤的女性 | Infected Citizen | 悲しげな女性 |
-|   | 惊慌的商人 | Maid | 感染者市民 |
-|   | 感染者市民 | Noble Sister | 無関心な通行人 |
-|   | 漠然的路人 | Overwrought Taran Refugee | 町人B |
-|   | 瘦弱的女人 | Pasado | 痩せた女性 |
-|   | 精神的女病人 | Sorrowful Woman | 緊張したターラーの流民 |
-|   | 紧张的塔拉流民 | Taran Refugee | 臆病な使用人 |
-|   | 谨小慎微的佣人 | Townsfolk B | 貴族の妹 |
-|   | 贵族妹妹 |   |   |
+|   | 悲伤的女性 | Infected Citizen | 元気な女性患者 |
+|   | 惊慌的商人 | Maid | 悲しげな女性 |
+|   | 感染者市民 | Noble Sister | 感染者市民 |
+|   | 漠然的路人 | Overwrought Taran Refugee | 無関心な通行人 |
+|   | 瘦弱的女人 | Pasado | 町人B |
+|   | 精神的女病人 | Sorrowful Woman | 痩せた女性 |
+|   | 紧张的塔拉流民 | Taran Refugee | 緊張したターラーの流民 |
+|   | 谨小慎微的佣人 | Townsfolk B | 臆病な使用人 |
+|   | 贵族妹妹 |   | 貴族の妹 |
 |   | 镇民B |   |   |
 | avg_npc_244 | 深池士兵 | Dublinn Soldier | ダブリン兵士 |
 |   | 深池士兵？ | Dublinn Soldier? | ダブリン兵士？ |
@@ -2369,40 +2369,41 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_485_1 | 别格勒 | Biegler | ビーグラー |
 |   | 咖啡店主 | Coffee Shop Owner | 喫茶店の店長 |
 | avg_npc_486_1 | 别格勒 | Biegler | ビーグラー |
-|   | 别格勒？ |   |   |
-| avg_npc_487_1 | 伊维格娜德 | Woman | 女性 |
-|   | 女性 |   |   |
-|   | 金色的女性 |   |   |
+|   | 别格勒？ |   | ビーグラー？ |
+| avg_npc_487_1 | 伊维格娜德 | Woman | イーヴェグナーデ |
+|   | 女性 |   | 女性 |
+|   | 金色的女性 |   | 金色の女性 |
 | avg_npc_488_1 | 可疑的感染者 | Lachmann | ラハマン |
 |   | 拉赫曼 | Suspicious Infected | 怪しい感染者 |
 | avg_npc_489_1 | 乌尔苏拉 | Ursula | ウルズラ |
 | avg_npc_490_1 | 阿尔图罗 | Arturia | アルトリア |
 | avg_npc_491_1 | “大贵族使者” | 'Gesandte des Kurfürsten' | 「大貴族の使者」 |
-|   | 女皇的乐手 | Bodyguard | 自分勝手な術師 |
-|   | 女皇的术师 | Reckless Caster | 貴族の護衛 |
-|   | 肆无忌惮的术师 | Spire Caster | 高塔の術師 |
-|   | 贵族侍卫 |   | 高塔術師 |
-|   | 高塔术师 |   |   |
-| avg_npc_492_1 | 严肃的男人 | Aloof Noble | デヴリン |
-|   | 冷漠的贵族 | Cowardly Noble | ルイス |
-|   | 年轻的贵族 | Devlin | 冷淡な貴族 |
-|   | 强装镇定的使者 | Frivolous Noble | 心配性な貴族 |
-|   | 德夫林 | Louis | 軽薄な貴族 |
-|   | 畏首畏尾的贵族 | Pretentious Noble | 風流人ぶる貴族 |
-|   | 窘迫的贵族 |   |   |
-|   | 萨克森伯爵 |   |   |
+|   | 女皇的乐手 | Bodyguard | 女帝の楽師 |
+|   | 女皇的术师 | Reckless Caster | 女帝の術師 |
+|   | 肆无忌惮的术师 | Spire Caster | 自分勝手な術師 |
+|   | 贵族侍卫 |   | 貴族の護衛 |
+|   | 高塔术师 |   | 高塔の術師 |
+|   |   |   | 高塔術師 |
+| avg_npc_492_1 | 严肃的男人 | Aloof Noble | サクソン伯爵 |
+|   | 冷漠的贵族 | Cowardly Noble | デヴリン |
+|   | 年轻的贵族 | Devlin | ルイス |
+|   | 强装镇定的使者 | Frivolous Noble | 冷淡な貴族 |
+|   | 德夫林 | Louis | 心配性な貴族 |
+|   | 畏首畏尾的贵族 | Pretentious Noble | 若い貴族 |
+|   | 窘迫的贵族 |   | 軽薄な貴族 |
+|   | 萨克森伯爵 |   | 風流人ぶる貴族 |
 |   | 路易斯 |   |   |
 |   | 轻浮的贵族 |   |   |
 |   | 附庸风雅的贵族 |   |   |
 | avg_npc_493_1 | 伯梅 | Blanche | ブランシェ |
 |   | 傲慢的掮客 | Calm Noble | リターニア貴族 |
-|   | 匆忙的贵族 | Fretful Noble | 急いでいる貴族 |
-|   | 和蔼的文官 | Leithanian Noble | 無表情な貴族 |
-|   | 布兰切尔 | Musician | 華やかな服装の貴族 |
-|   | 年长的贵族 | Nitpicking Critic | 落ち着いた貴族 |
-|   | 憔悴的贵族 | Resplendently Dressed Noble | 酷薄な批評家 |
-|   | 挑剔的评论家 | Stoic-Looking Noble | 音楽家 |
-|   | 沉稳的贵族 |   |   |
+|   | 匆忙的贵族 | Fretful Noble | 年長の貴族 |
+|   | 和蔼的文官 | Leithanian Noble | 急いでいる貴族 |
+|   | 布兰切尔 | Musician | 無表情な貴族 |
+|   | 年长的贵族 | Nitpicking Critic | 華やかな服装の貴族 |
+|   | 憔悴的贵族 | Resplendently Dressed Noble | 落ち着いた貴族 |
+|   | 挑剔的评论家 | Stoic-Looking Noble | 酷薄な批評家 |
+|   | 沉稳的贵族 |   | 音楽家 |
 |   | 莱塔尼亚贵族 |   |   |
 |   | 衣着华丽的贵族 |   |   |
 |   | 面无表情的贵族 |   |   |
@@ -2415,33 +2416,33 @@ tip: 请善用浏览器的搜索功能
 |   | 围观的路人A | Mannered Infected | 悲しむ感染者 |
 |   | 好事的感染者 | Meddlesome Infected | 物好きな感染者 |
 |   | 巴别塔成员 | Nervous Musician | 礼儀正しい感染者 |
-|   | 悲伤的感染者 |   |   |
-|   | 惴惴不安的乐手 |   |   |
+|   | 悲伤的感染者 |   | 見物人A |
+|   | 惴惴不安的乐手 |   | 貴族の侍従 |
 |   | 礼貌的感染者 |   |   |
 |   | 贵族侍从 |   |   |
 |   | 镇民 |   |   |
 | avg_npc_497_1 | 丧气的感染者 | Cheerful Infected | うなだれる感染者 |
-|   | 和善的感染者 | Dispirited Infected | 優しい感染者 |
-|   | 围观的路人B | Expectant Audience Member | 明るい感染者 |
-|   | 坚强的感染者 | Friendly Infected | 期待する観客 |
-|   | 开朗的感染者 | Tough Infected | 気丈な感染者 |
-|   | 满心期待的观众 |   |   |
-|   | 雷奥妮 |   |   |
+|   | 和善的感染者 | Dispirited Infected | レオニー |
+|   | 围观的路人B | Expectant Audience Member | 優しい感染者 |
+|   | 坚强的感染者 | Friendly Infected | 明るい感染者 |
+|   | 开朗的感染者 | Tough Infected | 期待する観客 |
+|   | 满心期待的观众 |   | 気丈な感染者 |
+|   | 雷奥妮 |   | 見物人B |
 | avg_npc_498_1 | 伯爵侍从 | Daddy | ためらう感染者 |
 |   | 信使 | Dispirited Infected | シュナイダー |
-|   | 商店老板 | Drunken Infected | パパ |
-|   | 循规蹈矩的教师 | Emotional Infected | 几帳面な教師 |
-|   | 愤怒的路人？ | Hardware Shop Owner | 商店の店主 |
-|   | 施耐德 | Neurotic Infected | 情熱的な感染者 |
-|   | 激动的感染者 | Passionate Infected | 横暴な感染者 |
-|   | 热情的感染者 | Rude Infected | 無気力な感染者 |
-|   | 爸爸 | Rule-Abiding Instructor | 神経質な感染者 |
-|   | 社区画家 | Schneider | 興奮する感染者 |
-|   | 神经质的感染者 | Skittish Infected | 酔っぱらった感染者 |
-|   | 蛮横的感染者 |   |   |
-|   | 贵族侍从 |   |   |
-|   | 迟疑的感染者 |   |   |
-|   | 醉酒的感染者 |   |   |
+|   | 商店老板 | Drunken Infected | トランスポーター |
+|   | 循规蹈矩的教师 | Emotional Infected | パパ |
+|   | 愤怒的路人？ | Hardware Shop Owner | 伯爵の御付き |
+|   | 施耐德 | Neurotic Infected | 几帳面な教師 |
+|   | 激动的感染者 | Passionate Infected | 商店の店主 |
+|   | 热情的感染者 | Rude Infected | 怒る通行人？ |
+|   | 爸爸 | Rule-Abiding Instructor | 情熱的な感染者 |
+|   | 社区画家 | Schneider | 横暴な感染者 |
+|   | 神经质的感染者 | Skittish Infected | 無気力な感染者 |
+|   | 蛮横的感染者 |   | 神経質な感染者 |
+|   | 贵族侍从 |   | 興奮する感染者 |
+|   | 迟疑的感染者 |   | 貴族の侍従 |
+|   | 醉酒的感染者 |   | 酔っぱらった感染者 |
 |   | 颓废的感染者 |   |   |
 | avg_npc_499_1 | 佩里太太 | Excited Afterglow Resident | バッハマンの娘 |
 |   | 兴奋的夕照区居民 | Frau Perry | ペリー夫人 |
@@ -2658,11 +2659,11 @@ tip: 请善用浏览器的搜索功能
 |   | 伦蒂尼姆工人A | Londinium Worker | ロンディニウム工員A |
 |   | 慌乱的难民 | Londinium Worker A | 取り乱す難民 |
 |   | 绝望的难民 | Panicked Refugee | 絶望した難民 |
-| avg_npc_661_1 | 农民 | Farmer | 暴君 |
-|   | 天真的孩子 | Innocent Child | 無邪気な子供 |
-|   | 排斥的孩童 | Old Man | 老人 |
-|   | 暴君 | Tyrant | 農民 |
-|   | 老人 |   |   |
+| avg_npc_661_1 | 农民 | Farmer | 嫌がる子供 |
+|   | 天真的孩子 | Innocent Child | 暴君 |
+|   | 排斥的孩童 | Old Man | 無邪気な子供 |
+|   | 暴君 | Tyrant | 老人 |
+|   | 老人 |   | 農民 |
 | avg_npc_662_1 | 陈 | Ch'en | チェン |
 | avg_npc_663_1 | 侍女艾尔希 | Maid Ailshie | 侍女エルシー |
 | avg_npc_683_1 | 拉普兰德 | Lappland | ラップランド |
@@ -2719,7 +2720,7 @@ tip: 请善用浏览器的搜索功能
 |   | 卢比奥之女 | Thin Girl | 小柄な女の子 |
 |   | 瘦小的女孩 |   |   |
 | avg_npc_701_1 | 悲伤的男性 | Energetic Technician | 快活なエンジニア |
-|   | 活泼的技术人员 |   |   |
+|   | 活泼的技术人员 |   | 悲し気な男 |
 | avg_npc_702_1 | 胆小的服务员 | Fearful Waiter | 臆病な店員 |
 | avg_npc_722_1 | 爱布拉娜 | Eblana | エブラナ |
 | avg_npc_723_1 | “校官” | 'The Brigadier' | 「将校」 |
@@ -2887,10 +2888,10 @@ tip: 请善用浏览器的搜索功能
 |   | 总辖构件科雇员C | Components Control Section Employee C | 統括課職員C |
 | avg_npc_923_1 | 修道院主教 | Abbot | やつれた老人 |
 |   | 巫王 | Gaunt Old Man | 修道院司教 |
-|   | 消瘦的老人 |   |   |
+|   | 消瘦的老人 |   | 巫王 |
 | avg_npc_924_1 | 克莱芒 | Clément | やつれた男性 |
 |   | 巫王 | Gaunt Man | クレマン |
-|   | 消瘦的男人 |   |   |
+|   | 消瘦的男人 |   | 巫王 |
 | avg_npc_925_1 | 蕾缪安 | Lemuen | レミュアン |
 | avg_npc_926_1 | 杰拉尔德 | Gerald | ジェラルド |
 |   | 沧桑的猎户 | Weathered Hunter | 手練れの猟師 |
@@ -2953,24 +2954,24 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_942_1 | 泥岩 | Mudrock | マドロック |
 | avg_npc_962_1 | 亡寒战士 | Icefield Inhabitant A | サヤケヤキ |
 |   | 冰原居民A | Icefield Inhabitant B | サーミの戦士 |
-|   | 冰原居民B | Sami Mountain Scout | 山の民の斥候 |
-|   | 坚忍的萨米山地战士 | Sami Warrior | 強靭な山の戦士 |
-|   | 萨米山地斥候 | Sheath Zelkova | 氷原の住民A |
-|   | 萨米战士 | Tenacious Sami Mountain Warrior | 氷原の住民B |
-|   | 鞘叶榉 |   |   |
+|   | 冰原居民B | Sami Mountain Scout | 亡寒の戦士 |
+|   | 坚忍的萨米山地战士 | Sami Warrior | 山の民の斥候 |
+|   | 萨米山地斥候 | Sheath Zelkova | 強靭な山の戦士 |
+|   | 萨米战士 | Tenacious Sami Mountain Warrior | 氷原の住民A |
+|   | 鞘叶榉 |   | 氷原の住民B |
 | avg_npc_963_1 | 严肃的萨米山地战士 | Icefield Cottongrass | カニパラートの母 |
-|   | 冰原棉草 | Qanipalaat's Mother | ヒョウゲンワタクサ |
-|   | 萨米战士 | Solemn Sami Mountain Warrior | 厳かな山の戦士 |
-|   | 雪绒母亲 |   |   |
+|   | 冰原棉草 | Qanipalaat's Mother | サーミの戦士 |
+|   | 萨米战士 | Solemn Sami Mountain Warrior | ヒョウゲンワタクサ |
+|   | 雪绒母亲 |   | 厳かな山の戦士 |
 | avg_npc_964_1 | 橡杯 | Oakcup | オークコップ |
 | avg_npc_965_1 | 严厉的萨满 | Ceremony-Conducting Shaman | サーミのシャーマン |
-|   | 主持仪式的萨满 | Forest Shaman | 儀式を司るシャーマン |
-|   | 亡寒萨满 | Grieving Apprentice Shaman | 厳格なシャーマン |
-|   | 悲愁的萨满学徒 | Mild-Mannered Shaman | 悲しむシャーマン見習い |
-|   | 林地萨满 | Sami Shaman | 森の民のシャーマン |
-|   | 温和的萨满 | Sami Wetlands Shaman | 沼の民のシャーマン |
-|   | 萨米泽地萨满 | Stern Shaman | 温和なシャーマン |
-|   | 萨米萨满 |   |   |
+|   | 主持仪式的萨满 | Forest Shaman | 亡寒のシャーマン |
+|   | 亡寒萨满 | Grieving Apprentice Shaman | 儀式を司るシャーマン |
+|   | 悲愁的萨满学徒 | Mild-Mannered Shaman | 厳格なシャーマン |
+|   | 林地萨满 | Sami Shaman | 悲しむシャーマン見習い |
+|   | 温和的萨满 | Sami Wetlands Shaman | 森の民のシャーマン |
+|   | 萨米泽地萨满 | Stern Shaman | 沼の民のシャーマン |
+|   | 萨米萨满 |   | 温和なシャーマン |
 | avg_npc_966_1 | 方形葵 | Sami Forest Inhabitant | シカクヒマワリ |
 |   | 萨米林地居民 | Sami Wetlands Inhabitant | 森の民 |
 |   | 萨米泽地居民 | Square Sunflower | 沼の民 |
