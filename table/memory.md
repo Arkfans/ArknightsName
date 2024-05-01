@@ -21,7 +21,9 @@ tip: 请善用浏览器的搜索功能
 | story_aprot2_set_1_story_1 | 那一场戏 | The Play That Was | あの日の演目 |
 | story_archet_set_1_story_1 | 偶像宣传 | Idol Promotion | アイドルのプロモーション |
 | story_ardign_set_1_story_1 | 绝对能行！ | It'll Be Fine, Guaranteed! | 絶対大丈夫！ |
+| story_aroma_set_1_story_1 | 入职邀请 | - | - |
 | story_asbest_set_1_story_1 | 奇景 | Strange Sights | 奇景 |
+| story_ascln_set_1_story_1 | 同行人 | - | - |
 | story_ash_set_1_story_1 | 旅伴 | - | - |
 | story_astesi_set_1_story_1 | 启明 | Revelation | 照らし出す光 |
 | story_astesi_set_2_story_1 | 复耀 | - | - |
@@ -220,11 +222,13 @@ tip: 请善用浏览器的搜索功能
 | story_sddrag_set_1_story_1 | 芦苇之心 | Heart Like a Reed | 葦の心 |
 | story_serum_set_1_story_1 | 蚀清的工牌 | Corroserum's Badge | コロセラムのIDカード |
 | story_sesa_set_1_story_1 | 致命诱惑 | Fatal Attraction | 死に至らしめる誘惑 |
+| story_shining_set_1_story_1 | 雨夜 | - | - |
 | story_shotst_set_1_story_1 | 滚烫旧忆 | Scalding Old Memories | 熱傷の記憶 |
 | story_shotst_set_2_story_1 | 两难 | Dilemma | 板挟み |
 | story_shu_set_1_story_1 | 谓我何求 | - | - |
 | story_shwaz_set_1_story_1 | 离乡之日 | 'The Day We Left Home' | 故郷を去る日 |
 | story_sidero_set_1_story_1 | 勤勉之人 | Diligent | 勤勉な人 |
+| story_siege_set_1_story_1 | 幻日 | - | - |
 | story_silent_set_1_story_1 | 职场新人 | New to the Workforce | 新入社員 |
 | story_skadi_set_1_story_1 | 不见尽头的旅途 | Endless Journey | 果てなき旅路 |
 | story_skfire_set_1_story_1 | 老同学 | Old Classmate | 昔の学友 |
@@ -252,6 +256,7 @@ tip: 请善用浏览器的搜索功能
 | story_svrash_set_1_story_1 | 难猜的人 | Unpredictable | 測り難き者 |
 | story_svrash_set_2_story_1 | 坚固的冰 | Unbreakable Ice | 堅固な氷 |
 | story_swire_set_1_story_1 | 就任前夕 | Day Before the Job | 就任前夜 |
+| story_swllow_set_1_story_1 | 殊途 | - | - |
 | story_tachak_set_1_story_1 | 一如既往 | - | - |
 | story_takila_set_1_story_1 | 尖刺的滋味 | Taste of Thorns | 「尖り」の味わい |
 | story_texas_set_1_story_1 | 使命必达 | Guaranteed Success | 絶対に、確実に |

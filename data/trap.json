@@ -683,8 +683,26 @@
   "trap_148_amblls": {
     "zh_CN": "幽影门扉"
   },
+  "trap_158_lrsteam": {
+    "zh_CN": "查尔斯·林奇"
+  },
+  "trap_159_lrcore": {
+    "zh_CN": "核心增幅器"
+  },
+  "trap_160_lrlgun": {
+    "zh_CN": "洪流束激发器"
+  },
+  "trap_161_lrcage": {
+    "zh_CN": "枯朽祭坛"
+  },
+  "trap_162_lrctrl": {
+    "zh_CN": "十四章机制控制器"
+  },
   "trap_163_foolcrate": {
     "zh_CN": "障碍物"
+  },
+  "trap_164_lrsiege": {
+    "zh_CN": "振奋荣光"
   },
   "trap_400_xbfarm": {
     "en_US": "Portable Planting Trough",

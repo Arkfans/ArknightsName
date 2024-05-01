@@ -3842,6 +3842,63 @@
   "enemy_1419_mmcike": {
     "zh_CN": "裹骸死士"
   },
+  "enemy_1422_lrsldr": {
+    "zh_CN": "萨卡兹枯朽前锋"
+  },
+  "enemy_1422_lrsldr_2": {
+    "zh_CN": "萨卡兹枯朽辟路前锋"
+  },
+  "enemy_1423_lrfkkt": {
+    "zh_CN": "萨卡兹枯朽宿卫"
+  },
+  "enemy_1423_lrfkkt_2": {
+    "zh_CN": "萨卡兹枯朽不屈宿卫"
+  },
+  "enemy_1424_lrboom": {
+    "zh_CN": "恶尘源石虫"
+  },
+  "enemy_1424_lrboom_2": {
+    "zh_CN": "恶尘源石虫·α"
+  },
+  "enemy_1425_lrcmra": {
+    "zh_CN": "孽罪奇美拉"
+  },
+  "enemy_1425_lrcmra_2": {
+    "zh_CN": "渎罪奇美拉"
+  },
+  "enemy_1426_lrthef": {
+    "zh_CN": "萨卡兹祭坛看护者"
+  },
+  "enemy_1426_lrthef_2": {
+    "zh_CN": "萨卡兹祭坛奉养者"
+  },
+  "enemy_1427_lrnazg": {
+    "zh_CN": "“灵幛”"
+  },
+  "enemy_1427_lrnazg_2": {
+    "zh_CN": "“慰朽灵幛”"
+  },
+  "enemy_1428_lrsoul": {
+    "zh_CN": "魂灵涡流"
+  },
+  "enemy_1429_lrwzrd": {
+    "zh_CN": "聚焦魂灵残迹"
+  },
+  "enemy_1429_lrwzrd_2": {
+    "zh_CN": "棱镜魂灵残迹"
+  },
+  "enemy_1430_lrrook": {
+    "zh_CN": "愧悔魂灵圣杯"
+  },
+  "enemy_1430_lrrook_2": {
+    "zh_CN": "殉亡魂灵圣杯"
+  },
+  "enemy_1431_lrmzrd": {
+    "zh_CN": "注能魂灵法骸"
+  },
+  "enemy_1431_lrmzrd_2": {
+    "zh_CN": "粹影魂灵法骸"
+  },
   "enemy_1500_skulsr": {
     "en_US": "Skullshatterer",
     "ja_JP": "SkullShredder",
@@ -4103,6 +4160,12 @@
   },
   "enemy_1552_mmamiy": {
     "zh_CN": "“阿米娅”"
+  },
+  "enemy_1553_lrdead": {
+    "zh_CN": "引火的死魂灵"
+  },
+  "enemy_1554_lrtsia": {
+    "zh_CN": "特蕾西娅"
   },
   "enemy_2001_duckmi": {
     "en_US": "Duck Lord",

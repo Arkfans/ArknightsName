@@ -1,1 +1,155 @@
-{"1": {"en_US": "Guard", "ja_JP": "前衛タイプ", "zh_CN": "近卫干员"}, "2": {"en_US": "Sniper", "ja_JP": "狙撃タイプ", "zh_CN": "狙击干员"}, "3": {"en_US": "Defender", "ja_JP": "重装タイプ", "zh_CN": "重装干员"}, "4": {"en_US": "Medic", "ja_JP": "医療タイプ", "zh_CN": "医疗干员"}, "5": {"en_US": "Supporter", "ja_JP": "補助タイプ", "zh_CN": "辅助干员"}, "6": {"en_US": "Caster", "ja_JP": "術師タイプ", "zh_CN": "术师干员"}, "7": {"en_US": "Specialist", "ja_JP": "特殊タイプ", "zh_CN": "特种干员"}, "8": {"en_US": "Vanguard", "ja_JP": "先鋒タイプ", "zh_CN": "先锋干员"}, "9": {"en_US": "Melee", "ja_JP": "近距離", "zh_CN": "近战位"}, "10": {"en_US": "Ranged", "ja_JP": "遠距離", "zh_CN": "远程位"}, "11": {"en_US": "Top Operator", "ja_JP": "上級エリート", "zh_CN": "高级资深干员"}, "12": {"en_US": "Crowd-Control", "ja_JP": "牽制", "zh_CN": "控场"}, "13": {"en_US": "Nuker", "ja_JP": "爆発力", "zh_CN": "爆发"}, "14": {"en_US": "Senior Operator", "ja_JP": "エリート", "zh_CN": "资深干员"}, "15": {"en_US": "Healing", "ja_JP": "治療", "zh_CN": "治疗"}, "16": {"en_US": "Support", "ja_JP": "支援", "zh_CN": "支援"}, "17": {"en_US": "Starter", "ja_JP": "初期", "zh_CN": "新手"}, "18": {"en_US": "DP-Recovery", "ja_JP": "COST回復", "zh_CN": "费用回复"}, "19": {"en_US": "DPS", "ja_JP": "火力", "zh_CN": "输出"}, "20": {"en_US": "Survival", "ja_JP": "生存", "zh_CN": "生存"}, "21": {"en_US": "AoE", "ja_JP": "範囲攻撃", "zh_CN": "群攻"}, "22": {"en_US": "Defense", "ja_JP": "防御", "zh_CN": "防护"}, "23": {"en_US": "Slow", "ja_JP": "減速", "zh_CN": "减速"}, "24": {"en_US": "Debuff", "ja_JP": "弱化", "zh_CN": "削弱"}, "25": {"en_US": "Fast-Redeploy", "ja_JP": "高速再配置", "zh_CN": "快速复活"}, "26": {"en_US": "Shift", "ja_JP": "強制移動", "zh_CN": "位移"}, "27": {"en_US": "Summon", "ja_JP": "召喚", "zh_CN": "召唤"}, "28": {"en_US": "Robot", "ja_JP": "ロボット", "zh_CN": "支援机械"}, "1012": {"en_US": "Male", "ja_JP": "男性", "zh_CN": "男性干员"}, "1013": {"en_US": "Female", "ja_JP": "女性", "zh_CN": "女性干员"}}
+{
+  "1": {
+    "en_US": "Guard",
+    "ja_JP": "前衛タイプ",
+    "zh_CN": "近卫干员"
+  },
+  "2": {
+    "en_US": "Sniper",
+    "ja_JP": "狙撃タイプ",
+    "zh_CN": "狙击干员"
+  },
+  "3": {
+    "en_US": "Defender",
+    "ja_JP": "重装タイプ",
+    "zh_CN": "重装干员"
+  },
+  "4": {
+    "en_US": "Medic",
+    "ja_JP": "医療タイプ",
+    "zh_CN": "医疗干员"
+  },
+  "5": {
+    "en_US": "Supporter",
+    "ja_JP": "補助タイプ",
+    "zh_CN": "辅助干员"
+  },
+  "6": {
+    "en_US": "Caster",
+    "ja_JP": "術師タイプ",
+    "zh_CN": "术师干员"
+  },
+  "7": {
+    "en_US": "Specialist",
+    "ja_JP": "特殊タイプ",
+    "zh_CN": "特种干员"
+  },
+  "8": {
+    "en_US": "Vanguard",
+    "ja_JP": "先鋒タイプ",
+    "zh_CN": "先锋干员"
+  },
+  "9": {
+    "en_US": "Melee",
+    "ja_JP": "近距離",
+    "zh_CN": "近战位"
+  },
+  "10": {
+    "en_US": "Ranged",
+    "ja_JP": "遠距離",
+    "zh_CN": "远程位"
+  },
+  "11": {
+    "en_US": "Top Operator",
+    "ja_JP": "上級エリート",
+    "zh_CN": "高级资深干员"
+  },
+  "12": {
+    "en_US": "Crowd-Control",
+    "ja_JP": "牽制",
+    "zh_CN": "控场"
+  },
+  "13": {
+    "en_US": "Nuker",
+    "ja_JP": "爆発力",
+    "zh_CN": "爆发"
+  },
+  "14": {
+    "en_US": "Senior Operator",
+    "ja_JP": "エリート",
+    "zh_CN": "资深干员"
+  },
+  "15": {
+    "en_US": "Healing",
+    "ja_JP": "治療",
+    "zh_CN": "治疗"
+  },
+  "16": {
+    "en_US": "Support",
+    "ja_JP": "支援",
+    "zh_CN": "支援"
+  },
+  "17": {
+    "en_US": "Starter",
+    "ja_JP": "初期",
+    "zh_CN": "新手"
+  },
+  "18": {
+    "en_US": "DP-Recovery",
+    "ja_JP": "COST回復",
+    "zh_CN": "费用回复"
+  },
+  "19": {
+    "en_US": "DPS",
+    "ja_JP": "火力",
+    "zh_CN": "输出"
+  },
+  "20": {
+    "en_US": "Survival",
+    "ja_JP": "生存",
+    "zh_CN": "生存"
+  },
+  "21": {
+    "en_US": "AoE",
+    "ja_JP": "範囲攻撃",
+    "zh_CN": "群攻"
+  },
+  "22": {
+    "en_US": "Defense",
+    "ja_JP": "防御",
+    "zh_CN": "防护"
+  },
+  "23": {
+    "en_US": "Slow",
+    "ja_JP": "減速",
+    "zh_CN": "减速"
+  },
+  "24": {
+    "en_US": "Debuff",
+    "ja_JP": "弱化",
+    "zh_CN": "削弱"
+  },
+  "25": {
+    "en_US": "Fast-Redeploy",
+    "ja_JP": "高速再配置",
+    "zh_CN": "快速复活"
+  },
+  "26": {
+    "en_US": "Shift",
+    "ja_JP": "強制移動",
+    "zh_CN": "位移"
+  },
+  "27": {
+    "en_US": "Summon",
+    "ja_JP": "召喚",
+    "zh_CN": "召唤"
+  },
+  "28": {
+    "en_US": "Robot",
+    "ja_JP": "ロボット",
+    "zh_CN": "支援机械"
+  },
+  "29": {
+    "zh_CN": "元素"
+  },
+  "1012": {
+    "en_US": "Male",
+    "ja_JP": "男性",
+    "zh_CN": "男性干员"
+  },
+  "1013": {
+    "en_US": "Female",
+    "ja_JP": "女性",
+    "zh_CN": "女性干员"
+  }
+}

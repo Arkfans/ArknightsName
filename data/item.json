@@ -704,6 +704,9 @@
   "LIMITED_TKT_GACHA_10_4701": {
     "zh_CN": "时和岁丰寻访凭证"
   },
+  "LIMITED_TKT_GACHA_10_5001": {
+    "zh_CN": "残夜厝薪寻访凭证"
+  },
   "LIMITED_TKT_GACHA_10_903": {
     "en_US": "Awakening Commemoration Permit",
     "ja_JP": "1周年記念10回スカウト券",
@@ -793,6 +796,9 @@
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_4701": {
+    "zh_CN": "寻访数据契约"
+  },
+  "LMTGS_COIN_5001": {
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_601": {
@@ -1156,6 +1162,9 @@
     "en_US": "Milestone Fragment",
     "ja_JP": "マイルストーンの欠片",
     "zh_CN": "里程碑碎片"
+  },
+  "act1mainss_token_medi": {
+    "zh_CN": "急性感染抑制剂"
   },
   "act1sandbox_milestone_point": {
     "en_US": "Badge of Prosperity",
@@ -2795,6 +2804,12 @@
     "ja_JP": "滌火ジェシカの印",
     "zh_CN": "涤火杰西卡的信物"
   },
+  "p_char_1035_wisdel": {
+    "zh_CN": "维什戴尔的信物"
+  },
+  "p_char_1036_fang2": {
+    "zh_CN": "历阵锐枪芬的信物"
+  },
   "p_char_103_angel": {
     "en_US": "Exusiai's Token",
     "ja_JP": "エクシアの印",
@@ -3976,6 +3991,15 @@
   "p_char_4132_ascln": {
     "zh_CN": "阿斯卡纶的信物"
   },
+  "p_char_4133_logos": {
+    "zh_CN": "逻各斯的信物"
+  },
+  "p_char_4134_cetsyr": {
+    "zh_CN": "魔王的信物"
+  },
+  "p_char_4136_phonor": {
+    "zh_CN": "PhonoR-0的信物"
+  },
   "p_char_415_flint": {
     "en_US": "Flint's Token",
     "ja_JP": "フリントの印",
@@ -4304,6 +4328,9 @@
     "ja_JP": "補給物資・ロドス",
     "zh_CN": "罗德岛物资补给"
   },
+  "randomMaterial_10": {
+    "zh_CN": "罗德岛物资补给VII"
+  },
   "randomMaterial_2": {
     "en_US": "New Year's Lantern",
     "ja_JP": "年関ランタン",
@@ -4394,6 +4421,9 @@
     "ja_JP": "ID情報更新カード",
     "zh_CN": "ID信息更新卡"
   },
+  "renamingCard_0_050": {
+    "zh_CN": "ID信息更新卡"
+  },
   "renamingCard_30_018": {
     "en_US": "ID Info Update Card",
     "ja_JP": "ID情報更新カード",
@@ -4422,6 +4452,9 @@
   "renamingCard_30_044": {
     "en_US": "ID Info Update Card",
     "ja_JP": "ID情報更新カード",
+    "zh_CN": "ID信息更新卡"
+  },
+  "renamingCard_30_050": {
     "zh_CN": "ID信息更新卡"
   },
   "return_credit_token": {
@@ -5040,6 +5073,9 @@
     "ja_JP": "感謝祭記念★6招聘指名券",
     "zh_CN": "感谢庆典干员凭证"
   },
+  "voucher_item_pick5001": {
+    "zh_CN": "周年庆典干员凭证"
+  },
   "voucher_item_pick601": {
     "en_US": "Top Operator Transfer Permit",
     "ja_JP": "★6招聘指名券",
@@ -5091,6 +5127,9 @@
   "voucher_recruitR5_pick3801": {
     "en_US": "Senior Operator Transfer Permit",
     "ja_JP": "★5招聘指名券",
+    "zh_CN": "资深干员调用凭证"
+  },
+  "voucher_recruitR5_pick5001": {
     "zh_CN": "资深干员调用凭证"
   },
   "voucher_skin": {

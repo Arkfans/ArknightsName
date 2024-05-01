@@ -77,10 +77,16 @@
     "ja_JP": "絶対大丈夫！",
     "zh_CN": "绝对能行！"
   },
+  "story_aroma_set_1_story_1": {
+    "zh_CN": "入职邀请"
+  },
   "story_asbest_set_1_story_1": {
     "en_US": "Strange Sights",
     "ja_JP": "奇景",
     "zh_CN": "奇景"
+  },
+  "story_ascln_set_1_story_1": {
+    "zh_CN": "同行人"
   },
   "story_ash_set_1_story_1": {
     "zh_CN": "旅伴"
@@ -1036,6 +1042,9 @@
     "ja_JP": "死に至らしめる誘惑",
     "zh_CN": "致命诱惑"
   },
+  "story_shining_set_1_story_1": {
+    "zh_CN": "雨夜"
+  },
   "story_shotst_set_1_story_1": {
     "en_US": "Scalding Old Memories",
     "ja_JP": "熱傷の記憶",
@@ -1058,6 +1067,9 @@
     "en_US": "Diligent",
     "ja_JP": "勤勉な人",
     "zh_CN": "勤勉之人"
+  },
+  "story_siege_set_1_story_1": {
+    "zh_CN": "幻日"
   },
   "story_silent_set_1_story_1": {
     "en_US": "New to the Workforce",
@@ -1189,6 +1201,9 @@
     "en_US": "Day Before the Job",
     "ja_JP": "就任前夜",
     "zh_CN": "就任前夕"
+  },
+  "story_swllow_set_1_story_1": {
+    "zh_CN": "殊途"
   },
   "story_tachak_set_1_story_1": {
     "zh_CN": "一如既往"

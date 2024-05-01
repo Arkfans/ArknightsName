@@ -47,6 +47,9 @@
     "ja_JP": "昇華",
     "zh_CN": "升华"
   },
+  "char_1012_skadi2@iteration#2": {
+    "zh_CN": "红女爵"
+  },
   "char_1013_chen2@boc#6": {
     "en_US": "Ten Thousand Mountains",
     "ja_JP": "万重山",
@@ -229,6 +232,9 @@
     "en_US": "Serenity",
     "ja_JP": "幽静",
     "zh_CN": "幽静"
+  },
+  "char_129_bluep@iteration#2": {
+    "zh_CN": "哀律西昂夜曲"
   },
   "char_129_bluep@marthe#3": {
     "en_US": "Shoal Beat",
@@ -631,6 +637,9 @@
     "ja_JP": "小粋車夫",
     "zh_CN": "一介车夫"
   },
+  "char_230_savage@boc#8": {
+    "zh_CN": "地底三百米"
+  },
   "char_235_jesica@nian#2": {
     "en_US": "Clivia",
     "ja_JP": "君子蘭",
@@ -685,6 +694,9 @@
     "en_US": "Shaved-Ice Memories",
     "ja_JP": "やみつきかき氷",
     "zh_CN": "回味冰霜雪"
+  },
+  "char_249_mlyss@boc#8": {
+    "zh_CN": "新枝"
   },
   "char_250_phatom@ghost#1": {
     "en_US": "Dream Within a Dreammare",
@@ -828,6 +840,9 @@
     "en_US": "Summer Flower FA017",
     "ja_JP": "夏の花弁FA017",
     "zh_CN": "夏卉 FA017"
+  },
+  "char_293_thorns@boc#8": {
+    "zh_CN": "锋潮"
   },
   "char_293_thorns@it#1": {
     "en_US": "Cómodo",
@@ -1254,6 +1269,9 @@
     "en_US": "Wine-flushed is Woods of Rime",
     "ja_JP": "霜林酔",
     "zh_CN": "霜林醉"
+  },
+  "char_4087_ines@boc#8": {
+    "zh_CN": "燃烧天穹下"
   },
   "char_411_tomimi@summer#5": {
     "en_US": "Silent Night DN04",

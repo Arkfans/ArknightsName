@@ -1028,6 +1028,26 @@ tip: 请善用浏览器的搜索功能
 | main_13-17 | 骸骨走廊 | The Osseous Aisle | 骸の回廊 |
 | main_13-18 | 血潮翻涌 | Sanguinary Billows | たぎる血潮 |
 | main_13-19 | 殷红君主 | The Archon in Sanguine | 暗紅の君主 |
+| main_14-01 | 作战对策会议 | - | - |
+| main_14-02 | 破解锤砧战术 | - | - |
+| main_14-03 | 通讯静默解除 | - | - |
+| main_14-04 | 探查岩洞区域 | - | - |
+| main_14-05 | 确认交战视界 | - | - |
+| main_14-06 | 执行反制作战 | - | - |
+| main_14-07 | 抵近支援作战 | - | - |
+| main_14-08 | 应对饱和打击 | - | - |
+| main_14-09 | 自光辉中奔涌 | - | - |
+| main_14-10 | 所谓“英雄” | - | - |
+| main_14-11 | 使徒 | - | - |
+| main_14-12 | 高空拒阻行动 | - | - |
+| main_14-13 | 突破外围防线 | - | - |
+| main_14-14 | 抢占舷侧区域 | - | - |
+| main_14-15 | 核心舱攻防战 | - | - |
+| main_14-16 | 在炽燃间咆哮 | - | - |
+| main_14-17 | 晶簇之内 | - | - |
+| main_14-18 | 列王行迹 | - | - |
+| main_14-19 | 万千愿景 | - | - |
+| main_14-20 | 在哀愁绽放的时刻 | - | - |
 | pro_a_1 | 防守 | Defense | 守備 |
 | pro_a_2 | 据守 | Guard | 防衛 |
 | pro_b_1 | 干涉 | Interference | 干渉 |
@@ -1041,6 +1061,7 @@ tip: 请善用浏览器的搜索功能
 | spst_08-03 | 燃烧的片段1 | Burnt Fragment 1 | 燃焼の断章1 |
 | spst_08-04 | 燃烧的片段4 | Burnt Fragment 4 | 燃焼の断章4 |
 | spst_08-05 | 燃烧的片段5 | Burnt Fragment 5 | 燃焼の断章5 |
+| spst_14-01 | 慈悲遗愿 | - | - |
 | st_05-01 | 棋胜后着 | Decisive Counterattack | 後手の先手 |
 | st_06-01 | 别说过去的事 | Leave it Behind | 過去を語るな |
 | st_06-02 | 没有火,没有光 | No Light Without Fire | 火も、光もなく |
@@ -1072,6 +1093,9 @@ tip: 请善用浏览器的搜索功能
 | st_13-01 | 战场内外 | Across the Battlefield's Line | 戦場内外 |
 | st_13-02 | 窥冠冕者 | Those Espying the Crown | 冠を狙う者 |
 | st_13-03 | 灾厄积渐 | Disaster Coalesces | 蓄積された災厄 |
+| st_14-01 | 从回忆中坠落 | - | - |
+| st_14-02 | 自原点中降临 | - | - |
+| st_14-03 | 良夜将死 | - | - |
 | sub_02-01 | 迟缓-1 | Slow-1 | 緩慢-1 |
 | sub_02-02 | 迟缓-2 | Slow-2 | 緩慢-2 |
 | sub_02-03 | 封锁-1 | Blockade-1 | 封鎖-1 |
@@ -1142,6 +1166,7 @@ tip: 请善用浏览器的搜索功能
 | tr_22 | 明辨是非 | Know Right From Wrong | 善悪の判断 |
 | tr_23 | 恶魔诱惑 | Devil's Temptation | 悪魔の誘惑 |
 | tr_24 | 寻迹而行 | Led to Pursue | 跡をたどって |
+| tr_25 | 特殊环境适应作战 | - | - |
 | wk_armor_1 | 废墟清剿 | Ruins Siege | 廃墟殲滅 |
 | wk_armor_2 | 窝点清剿 | Stronghold Siege | 拠点殲滅 |
 | wk_armor_3 | 哨所清剿 | Outpost Siege | 秘密基地殲滅 |

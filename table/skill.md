@@ -27,6 +27,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_amgoat_3 | 火山 | Volcano | イラプション |
 | skchr_amiya2_1 | 影霄·奔夜 | Ying Xiao - Fleeting Night | 影霄・奔夜 |
 | skchr_amiya2_2 | 影霄·绝影 | Ying Xiao - Shadowless | 影霄・絶影 |
+| skchr_amiya3_1 | 哀恸共情 | - | - |
+| skchr_amiya3_2 | 慈悲愿景 | - | - |
 | skchr_amiya_2 | 精神爆发 | Spirit Burst | ソウルブースト |
 | skchr_amiya_3 | 奇美拉 | Chimera | キメラ |
 | skchr_angel_1 | 冲锋模式 | Charging Mode | アサルトモード |
@@ -120,6 +122,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_cerber_1 | “很冰的斧” | 'Really Cold Axe' | 「つめたいおの」 |
 | skchr_cerber_2 | “很热的刀” | 'Really Hot Knives' | 「あついないふ」 |
 | skchr_cerber_3 | “很重的枪” | 'Really Heavy Spear' | 「おもたいやり」 |
+| skchr_cetsyr_1 | 往昔萦绕身旁 | - | - |
+| skchr_cetsyr_2 | 明日渺远不及 | - | - |
+| skchr_cetsyr_3 | 编织重构现世 | - | - |
 | skchr_ceylon_1 | 集中式水疗 | Concentrated Hydrotherapy | ハイドロセラピー |
 | skchr_ceylon_2 | 水灵庇护 | Water Blessing | 水霊の加護 |
 | skchr_cgbird_2 | 法术护盾 | Arts Shield | アーツシールド |
@@ -187,6 +192,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_f12yin_1 | 左勾扫拳 | Left Hook | 左鉤突き |
 | skchr_f12yin_2 | 横扫架势 | Sweeping Stance | 猛虎の構え |
 | skchr_f12yin_3 | 震地碎岩击 | Earth-Shattering Smash | 震地砕岩撃 |
+| skchr_fang2_1 | 贯敌刺枪 | - | - |
+| skchr_fang2_2 | 执守阵线 | - | - |
 | skchr_fartth_2 | 同盟支援 | Ally Support | 戦術連携 |
 | skchr_fartth_3 | 光羽箭 | Feathershine Arrows | フェザーアロー |
 | skchr_finlpp_1 | 治愈水波 | Healing Waves | ヒールウェーブ |
@@ -352,6 +359,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_lmlee_1 | 小惩大诫 | Stern Admonishment | 邪気退散 |
 | skchr_lmlee_2 | 驱凶辟邪 | Exorcise Evil | 辟邪除災 |
 | skchr_lmlee_3 | 贵客盈门 | Honored Guest | 千客万来 |
+| skchr_logos_1 | 殁亡 | - | - |
+| skchr_logos_2 | 提喻 | - | - |
+| skchr_logos_3 | 延异视阈 | - | - |
 | skchr_lolxh_1 | 掠光尾影 | Tail Afterimage | 変化自在 |
 | skchr_lolxh_2 | 碎金为刃 | Broken Blade | 金属操作 |
 | skchr_lumen_1 | 沐雨 | In Drizzle, Privation | 恵みの慈雨 |
@@ -616,6 +626,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_wildmn_2 | 夹枪冲锋 | Lance Charge | ランスチャージ |
 | skchr_windft_1 | 此身为筑 | Machine Rapport | この身で築かす |
 | skchr_windft_2 | 此身为源 | Energy Rapport | この身を源とす |
+| skchr_wisdel_1 | 定点清算 | - | - |
+| skchr_wisdel_2 | 饱和复仇 | - | - |
+| skchr_wisdel_3 | 爆裂黎明 | - | - |
 | skchr_wyvern_1 | 冲锋号令·援军 | Command - Reinforcement | 突撃指令・援軍 |
 | skchr_yak_1 | 体能强化 | Stamina Enhancement | 肉体強化 |
 | skchr_yak_2 | 抗寒体质 | Cold Resistance | 寒冷順化 |
@@ -796,6 +809,12 @@ tip: 请善用浏览器的搜索功能
 | sktok_ling_soul1 | 重进酒 | Sips of Wine | 重ねて酒を進み |
 | sktok_ling_soul2 | 笑鸣瑟 | Amidst Pleasant Melodies | 笑いて瑟を鼓せ |
 | sktok_ling_soul3 | 宁作吾 | To Remain Oneself | 寧ろ吾をなさん |
+| sktok_lrcage | 召唤信标 | - | - |
+| sktok_lrcore | 灵魂激荡 | - | - |
+| sktok_lrctrl | 源石污染区 | - | - |
+| sktok_lrlgun | 灵魂激荡 | - | - |
+| sktok_lrsiege | 振奋荣光 | - | - |
+| sktok_lrsteam | 誓死 | - | - |
 | sktok_ltnova | 神经再生 | Neuronal Revival | 神経再生 |
 | sktok_ltstat | 祈祷 | Prayer | 祈り |
 | sktok_machst | 强化加固 | Strengthen and Reinforce | 補強工事 |
@@ -932,6 +951,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_windft_wrench_2 | 可靠电池 | Reliable Battery | 高信頼性バッテリー |
 | sktok_winfire | 点燃 | - | - |
 | sktok_winstone | 紧急点燃 | - | - |
+| sktok_wisdel_wward | 魂灵之影 | - | - |
 | sktok_wpnsts_1 | 拉特兰式冰淇淋 | Laterano-Style Gelato | ジェラート供給 |
 | sktok_wpnsts_2 | 拉特兰式冰淇淋 | Laterano-Style Gelato | ジェラート供給 |
 | sktok_xbalis | 发射 | - | - |

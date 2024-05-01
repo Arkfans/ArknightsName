@@ -124,6 +124,12 @@
     "ja_JP": "滌火ジェシカ",
     "zh_CN": "涤火杰西卡"
   },
+  "char_1035_wisdel": {
+    "zh_CN": "维什戴尔"
+  },
+  "char_1036_fang2": {
+    "zh_CN": "历阵锐枪芬"
+  },
   "char_103_angel": {
     "en_US": "Exusiai",
     "ja_JP": "エクシア",
@@ -1329,6 +1335,15 @@
   },
   "char_4132_ascln": {
     "zh_CN": "阿斯卡纶"
+  },
+  "char_4133_logos": {
+    "zh_CN": "逻各斯"
+  },
+  "char_4134_cetsyr": {
+    "zh_CN": "魔王"
+  },
+  "char_4136_phonor": {
+    "zh_CN": "PhonoR-0"
   },
   "char_415_flint": {
     "en_US": "Flint",

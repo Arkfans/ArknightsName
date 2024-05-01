@@ -392,6 +392,9 @@
     "ja_JP": "作戦支援",
     "zh_CN": "战备支援"
   },
+  "act1mainss": {
+    "zh_CN": "慈悲灯塔"
+  },
   "act1r6sre": {
     "zh_CN": "源石尘行动·复刻"
   },
@@ -625,6 +628,9 @@
   "act38sign": {
     "zh_CN": "明日方舟X彩虹六号：围攻签到活动"
   },
+  "act39sign": {
+    "zh_CN": "限时累计签到"
+  },
   "act3bossrush": {
     "en_US": "Trials for Navigator",
     "ja_JP": "導灯の試練",
@@ -709,6 +715,9 @@
   },
   "act5fun": {
     "zh_CN": "愚人节活动"
+  },
+  "act5mine": {
+    "zh_CN": "卡钳谷矿区限时开采许可"
   },
   "act5pray": {
     "en_US": "Lungmen Lucky Strips",

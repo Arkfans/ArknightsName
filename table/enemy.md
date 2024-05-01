@@ -806,6 +806,25 @@ tip: 请善用浏览器的搜索功能
 | enemy_1418_mmkonm | 流浪工匠“修补工” | - | - |
 | enemy_1418_mmkonm_2 | 流浪工匠“修补工头” | - | - |
 | enemy_1419_mmcike | 裹骸死士 | - | - |
+| enemy_1422_lrsldr | 萨卡兹枯朽前锋 | - | - |
+| enemy_1422_lrsldr_2 | 萨卡兹枯朽辟路前锋 | - | - |
+| enemy_1423_lrfkkt | 萨卡兹枯朽宿卫 | - | - |
+| enemy_1423_lrfkkt_2 | 萨卡兹枯朽不屈宿卫 | - | - |
+| enemy_1424_lrboom | 恶尘源石虫 | - | - |
+| enemy_1424_lrboom_2 | 恶尘源石虫·α | - | - |
+| enemy_1425_lrcmra | 孽罪奇美拉 | - | - |
+| enemy_1425_lrcmra_2 | 渎罪奇美拉 | - | - |
+| enemy_1426_lrthef | 萨卡兹祭坛看护者 | - | - |
+| enemy_1426_lrthef_2 | 萨卡兹祭坛奉养者 | - | - |
+| enemy_1427_lrnazg | “灵幛” | - | - |
+| enemy_1427_lrnazg_2 | “慰朽灵幛” | - | - |
+| enemy_1428_lrsoul | 魂灵涡流 | - | - |
+| enemy_1429_lrwzrd | 聚焦魂灵残迹 | - | - |
+| enemy_1429_lrwzrd_2 | 棱镜魂灵残迹 | - | - |
+| enemy_1430_lrrook | 愧悔魂灵圣杯 | - | - |
+| enemy_1430_lrrook_2 | 殉亡魂灵圣杯 | - | - |
+| enemy_1431_lrmzrd | 注能魂灵法骸 | - | - |
+| enemy_1431_lrmzrd_2 | 粹影魂灵法骸 | - | - |
 | enemy_1500_skulsr | 碎骨 | Skullshatterer | SkullShredder |
 | enemy_1501_demonk | 萨卡兹百夫长 | Sarkaz Centurion | サルカズケントゥリオ |
 | enemy_1502_crowns | 弑君者 | Crownslayer | CrownSlayer |
@@ -860,6 +879,8 @@ tip: 请善用浏览器的搜索功能
 | enemy_1550_dhnzzh | “祟” | - | - |
 | enemy_1551_bolicp | 马特奥上尉 | - | - |
 | enemy_1552_mmamiy | “阿米娅” | - | - |
+| enemy_1553_lrdead | 引火的死魂灵 | - | - |
+| enemy_1554_lrtsia | 特蕾西娅 | - | - |
 | enemy_2001_duckmi | 鸭爵 | Duck Lord | ダック卿 |
 | enemy_2002_bearmi | 高普尼克 | Gopnik | ゴプニク |
 | enemy_2003_rockman | 迷路的巨像 | Lost Colossus | 迷子の巨像 |

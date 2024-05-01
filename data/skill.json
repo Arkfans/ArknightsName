@@ -109,6 +109,12 @@
     "ja_JP": "影霄・絶影",
     "zh_CN": "影霄·绝影"
   },
+  "skchr_amiya3_1": {
+    "zh_CN": "哀恸共情"
+  },
+  "skchr_amiya3_2": {
+    "zh_CN": "慈悲愿景"
+  },
   "skchr_amiya_2": {
     "en_US": "Spirit Burst",
     "ja_JP": "ソウルブースト",
@@ -558,6 +564,15 @@
     "ja_JP": "「おもたいやり」",
     "zh_CN": "“很重的枪”"
   },
+  "skchr_cetsyr_1": {
+    "zh_CN": "往昔萦绕身旁"
+  },
+  "skchr_cetsyr_2": {
+    "zh_CN": "明日渺远不及"
+  },
+  "skchr_cetsyr_3": {
+    "zh_CN": "编织重构现世"
+  },
   "skchr_ceylon_1": {
     "en_US": "Concentrated Hydrotherapy",
     "ja_JP": "ハイドロセラピー",
@@ -886,6 +901,12 @@
     "en_US": "Earth-Shattering Smash",
     "ja_JP": "震地砕岩撃",
     "zh_CN": "震地碎岩击"
+  },
+  "skchr_fang2_1": {
+    "zh_CN": "贯敌刺枪"
+  },
+  "skchr_fang2_2": {
+    "zh_CN": "执守阵线"
   },
   "skchr_fartth_2": {
     "en_US": "Ally Support",
@@ -1695,6 +1716,15 @@
     "en_US": "Honored Guest",
     "ja_JP": "千客万来",
     "zh_CN": "贵客盈门"
+  },
+  "skchr_logos_1": {
+    "zh_CN": "殁亡"
+  },
+  "skchr_logos_2": {
+    "zh_CN": "提喻"
+  },
+  "skchr_logos_3": {
+    "zh_CN": "延异视阈"
   },
   "skchr_lolxh_1": {
     "en_US": "Tail Afterimage",
@@ -2984,6 +3014,15 @@
     "ja_JP": "この身を源とす",
     "zh_CN": "此身为源"
   },
+  "skchr_wisdel_1": {
+    "zh_CN": "定点清算"
+  },
+  "skchr_wisdel_2": {
+    "zh_CN": "饱和复仇"
+  },
+  "skchr_wisdel_3": {
+    "zh_CN": "爆裂黎明"
+  },
   "skchr_wyvern_1": {
     "en_US": "Command - Reinforcement",
     "ja_JP": "突撃指令・援軍",
@@ -3828,6 +3867,24 @@
     "ja_JP": "寧ろ吾をなさん",
     "zh_CN": "宁作吾"
   },
+  "sktok_lrcage": {
+    "zh_CN": "召唤信标"
+  },
+  "sktok_lrcore": {
+    "zh_CN": "灵魂激荡"
+  },
+  "sktok_lrctrl": {
+    "zh_CN": "源石污染区"
+  },
+  "sktok_lrlgun": {
+    "zh_CN": "灵魂激荡"
+  },
+  "sktok_lrsiege": {
+    "zh_CN": "振奋荣光"
+  },
+  "sktok_lrsteam": {
+    "zh_CN": "誓死"
+  },
   "sktok_ltnova": {
     "en_US": "Neuronal Revival",
     "ja_JP": "神経再生",
@@ -4465,6 +4522,9 @@
   },
   "sktok_winstone": {
     "zh_CN": "紧急点燃"
+  },
+  "sktok_wisdel_wward": {
+    "zh_CN": "魂灵之影"
   },
   "sktok_wpnsts_1": {
     "en_US": "Laterano-Style Gelato",
