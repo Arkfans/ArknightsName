@@ -5280,6 +5280,10 @@ tip: 请善用浏览器的搜索功能
 | hard_13-02 | 湍流行动-2 | Operation Charybdis-2 | 激流作戦-2 |
 | hard_13-03 | 湍流行动-3 | Operation Charybdis-3 | 激流作戦-3 |
 | hard_13-04 | 湍流行动-4 | Operation Charybdis-4 | 激流作戦-4 |
+| hard_14-01 | 灯塔行动-1 | - | - |
+| hard_14-02 | 灯塔行动-2 | - | - |
+| hard_14-03 | 灯塔行动-3 | - | - |
+| hard_14-04 | 灯塔行动-4 | - | - |
 | lt_01_01 | 五号矿洞 | Mine #5 | 5号坑道 |
 | lt_01_02 | 唯利是图 | Mercenary | 私利私欲 |
 | lt_01_03 | 恶势力 | Evil Forces | テロリスト |

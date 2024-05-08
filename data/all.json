@@ -40614,6 +40614,30 @@
       "zh_CN": "湍流行动-4"
     }
   },
+  "hard_14-01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "灯塔行动-1"
+    }
+  },
+  "hard_14-02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "灯塔行动-2"
+    }
+  },
+  "hard_14-03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "灯塔行动-3"
+    }
+  },
+  "hard_14-04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "灯塔行动-4"
+    }
+  },
   "lt_01_01": {
     "type": "STAGE",
     "names": {
