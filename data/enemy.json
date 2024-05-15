@@ -4527,6 +4527,84 @@
     "ja_JP": "移動電源",
     "zh_CN": "移动电源"
   },
+  "enemy_4004_muvltr": {
+    "zh_CN": "赛场补给车"
+  },
+  "enemy_4004_muvltr_2": {
+    "zh_CN": "“天车散花”赛场补给车"
+  },
+  "enemy_4005_musqrl": {
+    "zh_CN": "鼷兽补给员"
+  },
+  "enemy_4005_musqrl_2": {
+    "zh_CN": "“力大如驮”鼷兽补给员"
+  },
+  "enemy_4006_mumole": {
+    "zh_CN": "沙地兽补给员"
+  },
+  "enemy_4006_mumole_2": {
+    "zh_CN": "“雨露均沾”沙地兽补给员"
+  },
+  "enemy_4007_murino": {
+    "zh_CN": "驮兽补给员"
+  },
+  "enemy_4007_murino_2": {
+    "zh_CN": "“胆小如鼷”驮兽补给员"
+  },
+  "enemy_4008_mucat": {
+    "zh_CN": "重锤补给员"
+  },
+  "enemy_4008_mucat_2": {
+    "zh_CN": "“横冲直撞”重锤补给员"
+  },
+  "enemy_4009_murgby": {
+    "zh_CN": "铁头前锋"
+  },
+  "enemy_4009_murgby_2": {
+    "zh_CN": "“一往无前”铁头前锋"
+  },
+  "enemy_4010_mubsbl": {
+    "zh_CN": "长臂投手"
+  },
+  "enemy_4010_mubsbl_2": {
+    "zh_CN": "“精准制导”长臂投手"
+  },
+  "enemy_4012_mumssi": {
+    "zh_CN": "阵地击球手"
+  },
+  "enemy_4012_mumssi_2": {
+    "zh_CN": "“脚脚生风”阵地击球手"
+  },
+  "enemy_4013_mubufn": {
+    "zh_CN": "阵地守门员"
+  },
+  "enemy_4013_mubufn_2": {
+    "zh_CN": "“头头是门”阵地守门员"
+  },
+  "enemy_4014_mugnfu": {
+    "zh_CN": "阵地击人手"
+  },
+  "enemy_4014_mugnfu_2": {
+    "zh_CN": "“锤锤到肉”阵地击人手"
+  },
+  "enemy_4015_musucr": {
+    "zh_CN": "RMA70刺球"
+  },
+  "enemy_4016_mubuln": {
+    "zh_CN": "粉红绒气球"
+  },
+  "enemy_4017_muinbl": {
+    "zh_CN": "压缩建材球"
+  },
+  "enemy_4018_muboom": {
+    "zh_CN": "高能源石球"
+  },
+  "enemy_4019_mugold": {
+    "zh_CN": "至纯源石球"
+  },
+  "enemy_4020_muboun": {
+    "zh_CN": "无垠回荡球"
+  },
   "enemy_5008_cstrwd": {
     "en_US": "The Boons of Art!",
     "ja_JP": "芸術の慈悲！",

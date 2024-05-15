@@ -683,6 +683,15 @@
   "trap_148_amblls": {
     "zh_CN": "幽影门扉"
   },
+  "trap_151_muruinw": {
+    "zh_CN": "折叠式堡垒模块"
+  },
+  "trap_152_muruino": {
+    "zh_CN": "折叠式辅助器械"
+  },
+  "trap_154_mugtps": {
+    "zh_CN": "阵地屏障"
+  },
   "trap_158_lrsteam": {
     "zh_CN": "查尔斯·林奇"
   },
@@ -703,6 +712,21 @@
   },
   "trap_164_lrsiege": {
     "zh_CN": "振奋荣光"
+  },
+  "trap_165_muftbl": {
+    "zh_CN": "足球"
+  },
+  "trap_166_muwork": {
+    "zh_CN": "折叠设施维护员"
+  },
+  "trap_167_muruinf": {
+    "zh_CN": "折叠式维护车"
+  },
+  "trap_169_muruinb": {
+    "zh_CN": "折叠式后勤站"
+  },
+  "trap_179_muctrl": {
+    "zh_CN": "促融共竞控制"
   },
   "trap_400_xbfarm": {
     "en_US": "Portable Planting Trough",

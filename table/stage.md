@@ -544,6 +544,20 @@ tip: 请善用浏览器的搜索功能
 | act2bossrush_02 | 大块头和小不点 | Big and Small | デカとチビ |
 | act2bossrush_03 | 裂地重击 | Fissure Strike | 大地割れる一撃 |
 | act2bossrush_04 | 骄阳之影 | Proud Sun's Shadow | 燦陽の影 |
+| act2vmulti-01 | 嘟嘟喇叭 | - | - |
+| act2vmulti-02 | 军事化训练 | - | - |
+| act2vmulti-03 | 单行赛道 | - | - |
+| act2vmulti-04 | 迎宾大道 | - | - |
+| act2vmulti-05 | 夜舞与晨跑 | - | - |
+| act2vmulti-06 | 黑夜骑士 | - | - |
+| act2vmulti-07 | 发射试验场 | - | - |
+| act2vmulti-de01 | 请无序入场 | - | - |
+| act2vmulti-de02 | 请无序入场 | - | - |
+| act2vmulti-ft01 | 大力出奇迹 | - | - |
+| act2vmulti-ft02 | 大力出奇迹 | - | - |
+| act2vmulti-tr01 | 规则教学-常规项目 | - | - |
+| act2vmulti-tr02 | 规则教学-阵地足球 | - | - |
+| act2vmulti-tr03 | 规则教学-堡垒守御 | - | - |
 | act30side_01 | 注意事项 | - | - |
 | act30side_02 | 同车异图 | - | - |
 | act30side_03 | 临时停车 | - | - |

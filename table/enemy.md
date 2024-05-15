@@ -955,6 +955,32 @@ tip: 请善用浏览器的搜索功能
 | enemy_4002_syokai | 二手廉价无人机 | Cheap Second-hand Drone | 中古低価ドローン |
 | enemy_4002_syokai_2 | 二手改装无人机 | Remodeled Second-hand Drone | 中古改造ドローン |
 | enemy_4003_pbank | 移动电源 | Mobile Power Source | 移動電源 |
+| enemy_4004_muvltr | 赛场补给车 | - | - |
+| enemy_4004_muvltr_2 | “天车散花”赛场补给车 | - | - |
+| enemy_4005_musqrl | 鼷兽补给员 | - | - |
+| enemy_4005_musqrl_2 | “力大如驮”鼷兽补给员 | - | - |
+| enemy_4006_mumole | 沙地兽补给员 | - | - |
+| enemy_4006_mumole_2 | “雨露均沾”沙地兽补给员 | - | - |
+| enemy_4007_murino | 驮兽补给员 | - | - |
+| enemy_4007_murino_2 | “胆小如鼷”驮兽补给员 | - | - |
+| enemy_4008_mucat | 重锤补给员 | - | - |
+| enemy_4008_mucat_2 | “横冲直撞”重锤补给员 | - | - |
+| enemy_4009_murgby | 铁头前锋 | - | - |
+| enemy_4009_murgby_2 | “一往无前”铁头前锋 | - | - |
+| enemy_4010_mubsbl | 长臂投手 | - | - |
+| enemy_4010_mubsbl_2 | “精准制导”长臂投手 | - | - |
+| enemy_4012_mumssi | 阵地击球手 | - | - |
+| enemy_4012_mumssi_2 | “脚脚生风”阵地击球手 | - | - |
+| enemy_4013_mubufn | 阵地守门员 | - | - |
+| enemy_4013_mubufn_2 | “头头是门”阵地守门员 | - | - |
+| enemy_4014_mugnfu | 阵地击人手 | - | - |
+| enemy_4014_mugnfu_2 | “锤锤到肉”阵地击人手 | - | - |
+| enemy_4015_musucr | RMA70刺球 | - | - |
+| enemy_4016_mubuln | 粉红绒气球 | - | - |
+| enemy_4017_muinbl | 压缩建材球 | - | - |
+| enemy_4018_muboom | 高能源石球 | - | - |
+| enemy_4019_mugold | 至纯源石球 | - | - |
+| enemy_4020_muboun | 无垠回荡球 | - | - |
 | enemy_5008_cstrwd | 艺术的慈悲! | The Boons of Art! | 芸術の慈悲！ |
 | enemy_5009_shtrwd | 艺术的绝杀! | The Clutchness of Art! | 芸術の必殺技！ |
 | enemy_5010_catrdg | 弱弹 | Weaksauce | 弱い弾 |

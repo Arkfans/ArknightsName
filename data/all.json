@@ -4119,6 +4119,24 @@
       "zh_CN": "幽影门扉"
     }
   },
+  "trap_151_muruinw": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "折叠式堡垒模块"
+    }
+  },
+  "trap_152_muruino": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "折叠式辅助器械"
+    }
+  },
+  "trap_154_mugtps": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "阵地屏障"
+    }
+  },
   "trap_158_lrsteam": {
     "type": "TRAP",
     "names": {
@@ -4159,6 +4177,36 @@
     "type": "TRAP",
     "names": {
       "zh_CN": "振奋荣光"
+    }
+  },
+  "trap_165_muftbl": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "足球"
+    }
+  },
+  "trap_166_muwork": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "折叠设施维护员"
+    }
+  },
+  "trap_167_muruinf": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "折叠式维护车"
+    }
+  },
+  "trap_169_muruinb": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "折叠式后勤站"
+    }
+  },
+  "trap_179_muctrl": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "促融共竞控制"
     }
   },
   "trap_400_xbfarm": {
@@ -6862,6 +6910,12 @@
       "en_US": "Finder in the Rough",
       "ja_JP": "秘宝の専門家",
       "zh_CN": "宝藏行家"
+    }
+  },
+  "char_376_therex@marthe#7": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "双料四分卫"
     }
   },
   "char_377_gdglow@snow#5": {
@@ -15158,6 +15212,162 @@
       "zh_CN": "移动电源"
     }
   },
+  "enemy_4004_muvltr": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "赛场补给车"
+    }
+  },
+  "enemy_4004_muvltr_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“天车散花”赛场补给车"
+    }
+  },
+  "enemy_4005_musqrl": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "鼷兽补给员"
+    }
+  },
+  "enemy_4005_musqrl_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“力大如驮”鼷兽补给员"
+    }
+  },
+  "enemy_4006_mumole": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "沙地兽补给员"
+    }
+  },
+  "enemy_4006_mumole_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“雨露均沾”沙地兽补给员"
+    }
+  },
+  "enemy_4007_murino": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "驮兽补给员"
+    }
+  },
+  "enemy_4007_murino_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“胆小如鼷”驮兽补给员"
+    }
+  },
+  "enemy_4008_mucat": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "重锤补给员"
+    }
+  },
+  "enemy_4008_mucat_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“横冲直撞”重锤补给员"
+    }
+  },
+  "enemy_4009_murgby": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "铁头前锋"
+    }
+  },
+  "enemy_4009_murgby_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“一往无前”铁头前锋"
+    }
+  },
+  "enemy_4010_mubsbl": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "长臂投手"
+    }
+  },
+  "enemy_4010_mubsbl_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“精准制导”长臂投手"
+    }
+  },
+  "enemy_4012_mumssi": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "阵地击球手"
+    }
+  },
+  "enemy_4012_mumssi_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“脚脚生风”阵地击球手"
+    }
+  },
+  "enemy_4013_mubufn": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "阵地守门员"
+    }
+  },
+  "enemy_4013_mubufn_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“头头是门”阵地守门员"
+    }
+  },
+  "enemy_4014_mugnfu": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "阵地击人手"
+    }
+  },
+  "enemy_4014_mugnfu_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“锤锤到肉”阵地击人手"
+    }
+  },
+  "enemy_4015_musucr": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "RMA70刺球"
+    }
+  },
+  "enemy_4016_mubuln": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "粉红绒气球"
+    }
+  },
+  "enemy_4017_muinbl": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "压缩建材球"
+    }
+  },
+  "enemy_4018_muboom": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "高能源石球"
+    }
+  },
+  "enemy_4019_mugold": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "至纯源石球"
+    }
+  },
+  "enemy_4020_muboun": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "无垠回荡球"
+    }
+  },
   "enemy_5008_cstrwd": {
     "type": "ENEMY",
     "names": {
@@ -16606,6 +16816,12 @@
       "en_US": "View From Above Collaboration Event",
       "ja_JP": "山河一望コラボ",
       "zh_CN": "登览锦绣合作活动"
+    }
+  },
+  "act2vmulti": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "罗德岛促融共竞"
     }
   },
   "act30side": {
@@ -19525,6 +19741,12 @@
       "en_US": "Data Blackbox",
       "ja_JP": "ブラックボックス",
       "zh_CN": "数据黑盒"
+    }
+  },
+  "act2vmulti_token_cap": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "参赛纪念"
     }
   },
   "act30side_token_box": {
@@ -33676,6 +33898,42 @@
       "zh_CN": "风沙掩体"
     }
   },
+  "sktok_muctrl": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "促融共竞控制"
+    }
+  },
+  "sktok_muftbl": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "重新发球！"
+    }
+  },
+  "sktok_muruinb": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "后勤维护"
+    }
+  },
+  "sktok_muruinf": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "维护员"
+    }
+  },
+  "sktok_muruino": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "器械维护"
+    }
+  },
+  "sktok_muruinw": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "模块维护"
+    }
+  },
   "sktok_nearl2_3": {
     "type": "SKILL",
     "names": {
@@ -39208,6 +39466,90 @@
       "en_US": "Proud Sun's Shadow",
       "ja_JP": "燦陽の影",
       "zh_CN": "骄阳之影"
+    }
+  },
+  "act2vmulti-01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "嘟嘟喇叭"
+    }
+  },
+  "act2vmulti-02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "军事化训练"
+    }
+  },
+  "act2vmulti-03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "单行赛道"
+    }
+  },
+  "act2vmulti-04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "迎宾大道"
+    }
+  },
+  "act2vmulti-05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "夜舞与晨跑"
+    }
+  },
+  "act2vmulti-06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "黑夜骑士"
+    }
+  },
+  "act2vmulti-07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "发射试验场"
+    }
+  },
+  "act2vmulti-de01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "请无序入场"
+    }
+  },
+  "act2vmulti-de02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "请无序入场"
+    }
+  },
+  "act2vmulti-ft01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "大力出奇迹"
+    }
+  },
+  "act2vmulti-ft02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "大力出奇迹"
+    }
+  },
+  "act2vmulti-tr01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "规则教学-常规项目"
+    }
+  },
+  "act2vmulti-tr02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "规则教学-阵地足球"
+    }
+  },
+  "act2vmulti-tr03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "规则教学-堡垒守御"
     }
   },
   "act30side_01": {

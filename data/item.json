@@ -1322,6 +1322,9 @@
     "ja_JP": "ブラックボックス",
     "zh_CN": "数据黑盒"
   },
+  "act2vmulti_token_cap": {
+    "zh_CN": "参赛纪念"
+  },
   "act30side_token_box": {
     "zh_CN": "驮兽盲盒"
   },

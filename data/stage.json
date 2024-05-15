@@ -2674,6 +2674,48 @@
     "ja_JP": "燦陽の影",
     "zh_CN": "骄阳之影"
   },
+  "act2vmulti-01": {
+    "zh_CN": "嘟嘟喇叭"
+  },
+  "act2vmulti-02": {
+    "zh_CN": "军事化训练"
+  },
+  "act2vmulti-03": {
+    "zh_CN": "单行赛道"
+  },
+  "act2vmulti-04": {
+    "zh_CN": "迎宾大道"
+  },
+  "act2vmulti-05": {
+    "zh_CN": "夜舞与晨跑"
+  },
+  "act2vmulti-06": {
+    "zh_CN": "黑夜骑士"
+  },
+  "act2vmulti-07": {
+    "zh_CN": "发射试验场"
+  },
+  "act2vmulti-de01": {
+    "zh_CN": "请无序入场"
+  },
+  "act2vmulti-de02": {
+    "zh_CN": "请无序入场"
+  },
+  "act2vmulti-ft01": {
+    "zh_CN": "大力出奇迹"
+  },
+  "act2vmulti-ft02": {
+    "zh_CN": "大力出奇迹"
+  },
+  "act2vmulti-tr01": {
+    "zh_CN": "规则教学-常规项目"
+  },
+  "act2vmulti-tr02": {
+    "zh_CN": "规则教学-阵地足球"
+  },
+  "act2vmulti-tr03": {
+    "zh_CN": "规则教学-堡垒守御"
+  },
   "act30side_01": {
     "zh_CN": "注意事项"
   },

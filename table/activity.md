@@ -124,6 +124,7 @@ tip: 请善用浏览器的搜索功能
 | act2mine | 波平谷矿区登录活动 | Popping Valley Mining Area Login Event | ポッピングバレー採鉱区 |
 | act2pray | 双日城惊奇墙 | Dossoles Amazing Wall | ドッソレススクラッチ |
 | act2switch | 登览锦绣合作活动 | View From Above Collaboration Event | 山河一望コラボ |
+| act2vmulti | 罗德岛促融共竞 | - | - |
 | act30side | 银心湖列车 | - | - |
 | act30sign | 秋风送爽限时登录活动 | Snow Upon Autumnal Winds Limited Login Event | 早春の風スタンプラリー |
 | act31side | 怀黍离 | - | - |

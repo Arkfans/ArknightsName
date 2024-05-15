@@ -276,6 +276,7 @@ tip: 请善用浏览器的搜索功能
 | act2bossrush_relic_03 | 减退模块 | Reduction Module | ダウンモジュール |
 | act2bossrush_relic_04 | 调优重载 | Optimize Load | 積載調節 |
 | act2bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
+| act2vmulti_token_cap | 参赛纪念 | - | - |
 | act30side_token_box | 驮兽盲盒 | - | - |
 | act31side_token_box | 天桩 | - | - |
 | act32side_token_stamp | 艺术馆集章卡 | - | - |

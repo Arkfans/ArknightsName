@@ -225,6 +225,7 @@ tip: 请善用浏览器的搜索功能
 | char_367_swllow@boc#1 | 归巢 | Homecoming | 帰巣 |
 | char_373_lionhd@snow#3 | 希望巡游 | Hope Cruise | 希望の運び手 |
 | char_373_lionhd@wild#3 | 宝藏行家 | Finder in the Rough | 秘宝の専門家 |
+| char_376_therex@marthe#7 | 双料四分卫 | - | - |
 | char_377_gdglow@snow#5 | 喜夜侍者 | Maiden for the Bright Night | しあわせの使い |
 | char_377_gdglow@summer#12 | 夏卉 FA394 | Summer Flowers FA394 | 夏の花弁FA394 |
 | char_378_asbest@whirlwind#3 | 幽谷奏鸣 | Glen Sonata | グレンソナタ |
