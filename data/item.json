@@ -1242,6 +1242,9 @@
     "ja_JP": "飛行データチップ",
     "zh_CN": "飞行数据记录芯片"
   },
+  "act25side_token_fdrchips_rep_1": {
+    "zh_CN": "飞行数据记录芯片"
+  },
   "act25side_token_key01": {
     "en_US": "Special Ops Permit α",
     "ja_JP": "特殊作戦許可α",

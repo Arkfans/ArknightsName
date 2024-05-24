@@ -260,6 +260,7 @@ tip: 请善用浏览器的搜索功能
 | act24side_melding_5 | “兽之泪” | 'Monster Tears' | 獣のナミダ |
 | act24side_melding_6 | 火龙的红玉 | Rathalos Ruby | 火竜の紅玉 |
 | act25side_token_fdrchips | 飞行数据记录芯片 | Flight Data Recorder Chip | 飛行データチップ |
+| act25side_token_fdrchips_rep_1 | 飞行数据记录芯片 | - | - |
 | act25side_token_key01 | 特殊作战许可·α | Special Ops Permit α | 特殊作戦許可α |
 | act25side_token_key02 | 特殊作战许可·β | Special Ops Permit β | 特殊作戦許可β |
 | act26side_token_fragmenta | 圣像碎片 | Holy Statue Fragments | 聖像のかけら |

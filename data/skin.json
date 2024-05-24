@@ -108,6 +108,9 @@
     "ja_JP": "冬の使者",
     "zh_CN": "寒冬信使"
   },
+  "char_1031_slent2@epoque#32": {
+    "zh_CN": "栖息"
+  },
   "char_1033_swire2@ambienceSynesthesia#4": {
     "zh_CN": "律动方格"
   },
@@ -272,6 +275,9 @@
     "en_US": "Ronin Huntress",
     "ja_JP": "流離いの旗印",
     "zh_CN": "狩标浪人"
+  },
+  "char_136_hsguma@summer#16": {
+    "zh_CN": "探寻者 SK97"
   },
   "char_137_brownb@kitchen#1": {
     "en_US": "Honey Pilferer",

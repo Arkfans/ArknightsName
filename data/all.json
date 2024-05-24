@@ -5371,6 +5371,12 @@
       "zh_CN": "寒冬信使"
     }
   },
+  "char_1031_slent2@epoque#32": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "栖息"
+    }
+  },
   "char_1033_swire2@ambienceSynesthesia#4": {
     "type": "SKIN",
     "names": {
@@ -5639,6 +5645,12 @@
       "en_US": "Ronin Huntress",
       "ja_JP": "流離いの旗印",
       "zh_CN": "狩标浪人"
+    }
+  },
+  "char_136_hsguma@summer#16": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "探寻者 SK97"
     }
   },
   "char_137_brownb@kitchen#1": {
@@ -16698,6 +16710,12 @@
       "zh_CN": "限时累计签到"
     }
   },
+  "act25sre": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "孤星·复刻"
+    }
+  },
   "act26side": {
     "type": "ACTIVITY",
     "names": {
@@ -19612,6 +19630,12 @@
     "names": {
       "en_US": "Flight Data Recorder Chip",
       "ja_JP": "飛行データチップ",
+      "zh_CN": "飞行数据记录芯片"
+    }
+  },
+  "act25side_token_fdrchips_rep_1": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "飞行数据记录芯片"
     }
   },
@@ -45489,6 +45513,24 @@
     "names": {
       "en_US": "The Pursuing of the Present",
       "ja_JP": "在るべき今",
+      "zh_CN": "紧握当下"
+    }
+  },
+  "act25sre_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "未来将至"
+    }
+  },
+  "act25sre_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "过往未尽"
+    }
+  },
+  "act25sre_zone3": {
+    "type": "ZONE",
+    "names": {
       "zh_CN": "紧握当下"
     }
   },
