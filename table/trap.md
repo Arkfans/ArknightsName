@@ -128,12 +128,12 @@ tip: 请善用浏览器的搜索功能
 | trap_125_bonore | 唤血祭坛 | Bloodcalling Altar | 血の祭壇 |
 | trap_126_outset | 炸弹载荷点 | Bomb Loading Point | 爆弾装填点 |
 | trap_127_bldore | 沥血王座 | Throne of Blood | 血誓の王座 |
-| trap_128_toolore | 祭坛式雷达 | - | 祭壇式レーダー |
-| trap_129_tooltower | R-45便携式“留声机” | - | R-45ポータブル「蓄音機」 |
-| trap_130_tooltree | 景观巨蕈 | - | 鑑賞用おばけ茸 |
-| trap_131_toolgun | 战场装置LUD-99X | - | フィールドデバイスLUD-99X |
-| trap_132_toolinvert | “二踢脚”型数据收集装置 | - | 爆竹型データ収集装置 |
-| trap_133_toolgarage | 勘察用自走车 | - | 自走式探査車 |
+| trap_128_toolore | 祭坛式雷达 | Altar-type Radar | 祭壇式レーダー |
+| trap_129_tooltower | R-45便携式“留声机” | R-45 Portable 'Gramophone' | R-45ポータブル「蓄音機」 |
+| trap_130_tooltree | 景观巨蕈 | Ornamental Giant Mushroom | 鑑賞用おばけ茸 |
+| trap_131_toolgun | 战场装置LUD-99X | Field Device LUD-99X | フィールドデバイスLUD-99X |
+| trap_132_toolinvert | “二踢脚”型数据收集装置 | Two-step Firecracker and Data-collector | 爆竹型データ収集装置 |
+| trap_133_toolgarage | 勘察用自走车 | Self-Driving Recon Cart | 自走式探査車 |
 | trap_134_condtr | 调谐节点 | Tuning Node | 調律器 |
 | trap_135_portlent | 湮灭之相 | Aspect of Annihilation | 湮滅の相 |
 | trap_136_portlexi | 创生之相 | Aspect of Creation | 創生の相 |

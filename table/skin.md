@@ -30,7 +30,7 @@ tip: 请善用浏览器的搜索功能
 | char_102_texas@winter#1 | 寒冬信使 | Winter Messenger | 冬の使者 |
 | char_1031_slent2@epoque#32 | 栖息 | - | - |
 | char_1033_swire2@ambienceSynesthesia#4 | 律动方格 | - | - |
-| char_103_angel@kfc#1 | 城市骑手 | - | シティライダー |
+| char_103_angel@kfc#1 | 城市骑手 | City Rider | シティライダー |
 | char_103_angel@sale#8 | 午夜邮差 | Midnight Delivery | 真夜中の配達人 |
 | char_103_angel@wild#1 | 野地秘行 | Wild Operation | 荒野潜行 |
 | char_106_franka@ncg#1 | 林虹之间 | Rainforest, Me, Rainbow | 深緑にかかる虹 |
@@ -59,8 +59,8 @@ tip: 请善用浏览器的搜索功能
 | char_129_bluep@marthe#3 | 浅滩律动 | Shoal Beat | 浅瀬のリズム |
 | char_130_doberm@epoque#7 | 少尉 | Lieutenant | 少尉 |
 | char_131_flameb@summer#8 | 悠然假日 HDm04 | Casual Vacation HDm04 | ホリデーHDm04 |
-| char_131_flameb@whirlwind#6 | 单刀 | - | 単刀 |
-| char_134_ifrit@kfc#1 | 儿童派对 | - | キッズパーティー |
+| char_131_flameb@whirlwind#6 | 单刀 | One Blade | 単刀 |
+| char_134_ifrit@kfc#1 | 儿童派对 | Children's Party | キッズパーティー |
 | char_134_ifrit@summer#1 | 日晒 SS.SP | Sunburn SS.SP | サンライトSS.SP |
 | char_135_halo@epoque#25 | 所愿 | Her Aspiration | 冀望 |
 | char_136_hsguma@nian#3 | 狩标浪人 | Ronin Huntress | 流離いの旗印 |
@@ -112,7 +112,7 @@ tip: 请善用浏览器的搜索功能
 | char_2013_cerber@whirlwind#2 | 无拘无束 | Unfettered | 自由奔放 |
 | char_2014_nian@nian#4 | 乐逍遥 | Unfettered Freedom | 楽逍遥 |
 | char_2015_dusk@nian#7 | 染尘烟 | Everything Is a Miracle | 染塵煙 |
-| char_201_moeshd@kfc#1 | 清晨七点 | - | 7:00 a.m. |
+| char_201_moeshd@kfc#1 | 清晨七点 | Seven in the Morning | 7:00 a.m. |
 | char_201_moeshd@summer#4 | 探寻者 SK03 | Seeker SK03 | シーカーSK03 |
 | char_2023_ling@ncg#1 | 崖高梦远 | Towering is Cliff of Nostalgia | 崖高く夢遠し |
 | char_2023_ling@nian#9 | 濯缨 | It Does Wash the Strings | 濯冠纓 |

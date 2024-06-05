@@ -115,6 +115,7 @@
     "zh_CN": "律动方格"
   },
   "char_103_angel@kfc#1": {
+    "en_US": "City Rider",
     "ja_JP": "シティライダー",
     "zh_CN": "城市骑手"
   },
@@ -255,10 +256,12 @@
     "zh_CN": "悠然假日 HDm04"
   },
   "char_131_flameb@whirlwind#6": {
+    "en_US": "One Blade",
     "ja_JP": "単刀",
     "zh_CN": "单刀"
   },
   "char_134_ifrit@kfc#1": {
+    "en_US": "Children's Party",
     "ja_JP": "キッズパーティー",
     "zh_CN": "儿童派对"
   },
@@ -510,6 +513,7 @@
     "zh_CN": "染尘烟"
   },
   "char_201_moeshd@kfc#1": {
+    "en_US": "Seven in the Morning",
     "ja_JP": "7:00 a.m.",
     "zh_CN": "清晨七点"
   },

@@ -4014,6 +4014,7 @@
   "trap_128_toolore": {
     "type": "TRAP",
     "names": {
+      "en_US": "Altar-type Radar",
       "ja_JP": "祭壇式レーダー",
       "zh_CN": "祭坛式雷达"
     }
@@ -4021,6 +4022,7 @@
   "trap_129_tooltower": {
     "type": "TRAP",
     "names": {
+      "en_US": "R-45 Portable 'Gramophone'",
       "ja_JP": "R-45ポータブル「蓄音機」",
       "zh_CN": "R-45便携式“留声机”"
     }
@@ -4028,6 +4030,7 @@
   "trap_130_tooltree": {
     "type": "TRAP",
     "names": {
+      "en_US": "Ornamental Giant Mushroom",
       "ja_JP": "鑑賞用おばけ茸",
       "zh_CN": "景观巨蕈"
     }
@@ -4035,6 +4038,7 @@
   "trap_131_toolgun": {
     "type": "TRAP",
     "names": {
+      "en_US": "Field Device LUD-99X",
       "ja_JP": "フィールドデバイスLUD-99X",
       "zh_CN": "战场装置LUD-99X"
     }
@@ -4042,6 +4046,7 @@
   "trap_132_toolinvert": {
     "type": "TRAP",
     "names": {
+      "en_US": "Two-step Firecracker and Data-collector",
       "ja_JP": "爆竹型データ収集装置",
       "zh_CN": "“二踢脚”型数据收集装置"
     }
@@ -4049,6 +4054,7 @@
   "trap_133_toolgarage": {
     "type": "TRAP",
     "names": {
+      "en_US": "Self-Driving Recon Cart",
       "ja_JP": "自走式探査車",
       "zh_CN": "勘察用自走车"
     }
@@ -5440,6 +5446,7 @@
   "char_103_angel@kfc#1": {
     "type": "SKIN",
     "names": {
+      "en_US": "City Rider",
       "ja_JP": "シティライダー",
       "zh_CN": "城市骑手"
     }
@@ -5667,6 +5674,7 @@
   "char_131_flameb@whirlwind#6": {
     "type": "SKIN",
     "names": {
+      "en_US": "One Blade",
       "ja_JP": "単刀",
       "zh_CN": "单刀"
     }
@@ -5674,6 +5682,7 @@
   "char_134_ifrit@kfc#1": {
     "type": "SKIN",
     "names": {
+      "en_US": "Children's Party",
       "ja_JP": "キッズパーティー",
       "zh_CN": "儿童派对"
     }
@@ -6081,6 +6090,7 @@
   "char_201_moeshd@kfc#1": {
     "type": "SKIN",
     "names": {
+      "en_US": "Seven in the Morning",
       "ja_JP": "7:00 a.m.",
       "zh_CN": "清晨七点"
     }
@@ -18817,6 +18827,7 @@
   "CRISIS_SHOP_COIN_V2": {
     "type": "ITEM",
     "names": {
+      "en_US": "Crystal Contract Bounty",
       "ja_JP": "結晶契約賞金",
       "zh_CN": "晶体合约赏金"
     }
@@ -25771,6 +25782,7 @@
   "uni_set_stage": {
     "type": "ITEM",
     "names": {
+      "en_US": "Break the Ice Furniture Pack",
       "ja_JP": "風雪一過家具パック",
       "zh_CN": "风雪过境家具收藏包"
     }
@@ -25910,6 +25922,7 @@
   "voucher_full_kjera": {
     "type": "ITEM",
     "names": {
+      "en_US": "Kjera's Personal Letter",
       "ja_JP": "イェラの手紙",
       "zh_CN": "耶拉的私人信件"
     }
@@ -27399,6 +27412,7 @@
   "_NORM_27_0_6": {
     "type": "POOL",
     "names": {
+      "en_US": "Joint Operation",
       "ja_JP": "連合作戦"
     }
   },
@@ -34895,6 +34909,7 @@
   "sktok_toolgarage": {
     "type": "SKILL",
     "names": {
+      "en_US": "Self-Driving Cart, Forward!",
       "ja_JP": "セルカー発進！",
       "zh_CN": "自走车出击！"
     }
@@ -34902,6 +34917,7 @@
   "sktok_toolgun": {
     "type": "SKILL",
     "names": {
+      "en_US": "Open Fire",
       "ja_JP": "発射",
       "zh_CN": "开火"
     }
@@ -34909,6 +34925,7 @@
   "sktok_toolinvert": {
     "type": "SKILL",
     "names": {
+      "en_US": "Warping Reality",
       "ja_JP": "事象震動",
       "zh_CN": "撼动现实"
     }
@@ -34916,6 +34933,7 @@
   "sktok_toolore": {
     "type": "SKILL",
     "names": {
+      "en_US": "Pulse Wave",
       "ja_JP": "源石衝撃波",
       "zh_CN": "脉冲波"
     }
@@ -34923,6 +34941,7 @@
   "sktok_tooltower": {
     "type": "SKILL",
     "names": {
+      "en_US": "Arts Transfer Protocol",
       "ja_JP": "アーツ転送プロトコル",
       "zh_CN": "法术传输协议"
     }
@@ -34930,6 +34949,7 @@
   "sktok_tooltree": {
     "type": "SKILL",
     "names": {
+      "en_US": "Natural Camouflage",
       "ja_JP": "きのこガード",
       "zh_CN": "天然隐蔽"
     }
