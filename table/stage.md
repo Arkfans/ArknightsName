@@ -621,6 +621,19 @@ tip: 请善用浏览器的搜索功能
 | act33side_st02 | 在疲惫中苏醒 | - | - |
 | act33side_st03 | 灵魂尽头 | - | - |
 | act33side_tr01 | 卡兹戴尔作战演习 | - | - |
+| act34side_01 | 第一次接触 | - | - |
+| act34side_02 | 评议式迎接 | - | - |
+| act34side_03 | 如海雪纷散 | - | - |
+| act34side_04 | 牺牲与代价 | - | - |
+| act34side_05 | 不治的命运 | - | - |
+| act34side_06 | 阿戈尔失格 | - | - |
+| act34side_07 | 从历史中来 | - | - |
+| act34side_08 | “何谓存续？” | - | - |
+| act34side_09 | 文明的壁垒 | - | - |
+| act34side_st01 | 浪潮守望者 | - | - |
+| act34side_st02 | 如海流倒灌 | - | - |
+| act34side_st03 | 歧路者与同行者 | - | - |
+| act34side_tr01 | 信标投放演习 | - | - |
 | act3bossrush_01 | 适者生存 | Survival of the Fittest | 適者生存 |
 | act3bossrush_02 | 惊惧与血色 | Blood and Terror | 恐怖と血色 |
 | act3bossrush_03 | 不测之渊 | Deep in Danger | 不測の淵 |

@@ -684,6 +684,12 @@
   "act33side_zone3": {
     "zh_CN": "我始终如一"
   },
+  "act34side_zone1": {
+    "zh_CN": "信标投放"
+  },
+  "act34side_zone2": {
+    "zh_CN": "防线巩固"
+  },
   "act3bossrush_zone1": {
     "en_US": "Threat Incoming",
     "ja_JP": "強敵襲来",

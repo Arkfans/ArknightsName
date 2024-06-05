@@ -3899,6 +3899,51 @@
   "enemy_1431_lrmzrd_2": {
     "zh_CN": "粹影魂灵法骸"
   },
+  "enemy_1433_dsbasi": {
+    "zh_CN": "单核掠食者"
+  },
+  "enemy_1433_dsbasi_2": {
+    "zh_CN": "异光体掠食者"
+  },
+  "enemy_1434_dsshel": {
+    "zh_CN": "微核沉积者"
+  },
+  "enemy_1435_dsflys": {
+    "zh_CN": "纤核漂游者"
+  },
+  "enemy_1435_dsflys_2": {
+    "zh_CN": "异光体漂游者"
+  },
+  "enemy_1436_dsdivi": {
+    "zh_CN": "诡核集养者"
+  },
+  "enemy_1436_dsdivi_2": {
+    "zh_CN": "异光体集养者"
+  },
+  "enemy_1437_dsfull": {
+    "zh_CN": "蕴核饲育者"
+  },
+  "enemy_1437_dsfull_2": {
+    "zh_CN": "异光体饲育者"
+  },
+  "enemy_1438_dspred": {
+    "zh_CN": "复核洋流使者"
+  },
+  "enemy_1438_dspred_2": {
+    "zh_CN": "异光体洋流使者"
+  },
+  "enemy_1439_dslntf": {
+    "zh_CN": "元核孽生者"
+  },
+  "enemy_1439_dslntf_2": {
+    "zh_CN": "异光体孽生者"
+  },
+  "enemy_1440_dselec": {
+    "zh_CN": "“被弃者”"
+  },
+  "enemy_1440_dselec_2": {
+    "zh_CN": "“受诅者”"
+  },
   "enemy_1500_skulsr": {
     "en_US": "Skullshatterer",
     "ja_JP": "SkullShredder",
@@ -4166,6 +4211,9 @@
   },
   "enemy_1554_lrtsia": {
     "zh_CN": "特蕾西娅"
+  },
+  "enemy_1556_dsbish": {
+    "zh_CN": "玛利图斯，“海嗣”"
   },
   "enemy_2001_duckmi": {
     "en_US": "Duck Lord",

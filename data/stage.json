@@ -2905,6 +2905,45 @@
   "act33side_tr01": {
     "zh_CN": "卡兹戴尔作战演习"
   },
+  "act34side_01": {
+    "zh_CN": "第一次接触"
+  },
+  "act34side_02": {
+    "zh_CN": "评议式迎接"
+  },
+  "act34side_03": {
+    "zh_CN": "如海雪纷散"
+  },
+  "act34side_04": {
+    "zh_CN": "牺牲与代价"
+  },
+  "act34side_05": {
+    "zh_CN": "不治的命运"
+  },
+  "act34side_06": {
+    "zh_CN": "阿戈尔失格"
+  },
+  "act34side_07": {
+    "zh_CN": "从历史中来"
+  },
+  "act34side_08": {
+    "zh_CN": "“何谓存续？”"
+  },
+  "act34side_09": {
+    "zh_CN": "文明的壁垒"
+  },
+  "act34side_st01": {
+    "zh_CN": "浪潮守望者"
+  },
+  "act34side_st02": {
+    "zh_CN": "如海流倒灌"
+  },
+  "act34side_st03": {
+    "zh_CN": "歧路者与同行者"
+  },
+  "act34side_tr01": {
+    "zh_CN": "信标投放演习"
+  },
   "act3bossrush_01": {
     "en_US": "Survival of the Fittest",
     "ja_JP": "適者生存",

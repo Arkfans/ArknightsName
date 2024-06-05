@@ -1209,6 +1209,9 @@
     "ja_JP": "ジエユン",
     "zh_CN": "截云"
   },
+  "char_4079_haini": {
+    "zh_CN": "海霓"
+  },
   "char_4080_lin": {
     "en_US": "Lin",
     "ja_JP": "リン",
@@ -1344,6 +1347,12 @@
   },
   "char_4136_phonor": {
     "zh_CN": "PhonoR-0"
+  },
+  "char_4137_udflow": {
+    "zh_CN": "深巡"
+  },
+  "char_4145_ulpia": {
+    "zh_CN": "乌尔比安"
   },
   "char_415_flint": {
     "en_US": "Flint",

@@ -257,6 +257,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_haak_1 | 快速射击 | Rapid Fire | 高速射撃 |
 | skchr_haak_2 | 爆发剂·γ型 | Type-γ Stimpack | 劇性増強剤・γ |
 | skchr_haak_3 | 爆发剂·榴莲味 | Durian-Flavored Stimpack | 劇性増強剤・ドリアン |
+| skchr_haini_1 | 迷惑性洋流图 | - | - |
+| skchr_haini_2 | 阻滞性显色剂 | - | - |
 | skchr_halo_1 | 双端导流 | Double Diversion | ボルテージダブラー |
 | skchr_halo_2 | 星束交汇 | Starlight Intersection | アストラルバースト |
 | skchr_hamoni_1 | 轻巧舞步 | Lithe Steps | 舞は軽やかに |
@@ -595,6 +597,11 @@ tip: 请善用浏览器的搜索功能
 | skchr_tuye_2 | 强心剂 | Cardiac Stimulant | カンフル剤 |
 | skchr_typhon_2 | 冰原秩序 | Order of the Icefield | 氷原の掟 |
 | skchr_typhon_3 | “永恒狩猎” | 'Eternal Hunt' | 「永久なる狩猟」 |
+| skchr_udflow_1 | 侵袭破坏应对 | - | - |
+| skchr_udflow_2 | 行动能力剥夺 | - | - |
+| skchr_ulpia_1 | 必须促成的接触 | - | - |
+| skchr_ulpia_2 | 必须维系的界限 | - | - |
+| skchr_ulpia_3 | 必须开辟的通路 | - | - |
 | skchr_utage_1 | 分神 | Space Out | サボり |
 | skchr_utage_2 | 落地斩·破门 | Descending Strike - Earth Splitter | 落地斬・突破 |
 | skchr_vendla_2 | 荆藤庇荫 | Umbrage of Thorns | 茨の庇護 |
@@ -671,6 +678,7 @@ tip: 请善用浏览器的搜索功能
 | skcom_range_extend | 治疗范围强化 | Healing Range Up | 回復範囲強化 |
 | skcom_withdraw | 自我销毁 | Self-Destruct | 自動消滅 |
 | sktok_ads | 掩护 | - | - |
+| sktok_aegiret_1 | 信标激活 | - | - |
 | sktok_aidkit | 急救 | First Aid | 応急処置 |
 | sktok_airbomb | 砰！ | Bang! | バン！ |
 | sktok_airsup | 派遣空援 | Dispatch Air Support | 空援派遣 |
@@ -698,6 +706,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_bomb | 坏脾气 | Ill Temper | 大癇癪 |
 | sktok_bondtw | 发射缚网 | Fire Net | 捕縛網発射 |
 | sktok_bonore | 唤血祭坛 | Bloodcalling Altar | 血の祭壇 |
+| sktok_bounc2_1 | 工程钻具 | - | - |
 | sktok_bouncy_1 | 圣徒之手 | Hand of the Saint | 聖徒の御手 |
 | sktok_bouncy_2 | 圣徒之手·清理模式 | Hand of the Saint - Purification | 聖徒の御手・清掃モード |
 | sktok_bouncy_3 | 圣徒之手·巡回模式 | Hand of the Saint - Patrol | 聖徒の御手・巡回モード |
@@ -765,6 +774,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_doroth_3 | 高速共振排障 | High-speed Resonating Troubleshooter | 高周波共振 |
 | sktok_dplant | 抑制生长 | Suppress Growth | 成長抑制 |
 | sktok_dsbell | 应急治疗协议 | Emergency Medical Agreement | 応急治療プロトコル |
+| sktok_dsshell | 赘生甲壳 | - | - |
 | sktok_dstnta | 摄食 | Devour | 摂食 |
 | sktok_dublst | 爆破 | Explode | 爆破 |
 | sktok_dupilr | 支柱坍塌 | Collapsing Pillar | 倒壊 |

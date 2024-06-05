@@ -249,6 +249,7 @@ tip: 请善用浏览器的搜索功能
 | char_4072_ironmn | 白铁 | Stainless | ステインレス |
 | char_4077_palico | 泰拉大陆调查团 | Terra Research Commission | テラ大陸調査団 |
 | char_4078_bdhkgt | 截云 | Jieyun | ジエユン |
+| char_4079_haini | 海霓 | - | - |
 | char_4080_lin | 林 | Lin | リン |
 | char_4081_warmy | 温米 | - | - |
 | char_4082_qiubai | 仇白 | Qiubai | チューバイ |
@@ -283,6 +284,8 @@ tip: 请善用浏览器的搜索功能
 | char_4133_logos | 逻各斯 | - | - |
 | char_4134_cetsyr | 魔王 | - | - |
 | char_4136_phonor | PhonoR-0 | - | - |
+| char_4137_udflow | 深巡 | - | - |
+| char_4145_ulpia | 乌尔比安 | - | - |
 | char_415_flint | 燧石 | Flint | フリント |
 | char_416_zumama | 森蚺 | Eunectes | ユーネクテス |
 | char_420_flamtl | 焰尾 | Flametail | フレイムテイル |

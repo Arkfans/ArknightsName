@@ -282,6 +282,7 @@ tip: 请善用浏览器的搜索功能
 | act31side_token_box | 天桩 | - | - |
 | act32side_token_stamp | 艺术馆集章卡 | - | - |
 | act33side_token_sugar | 粗制糖块 | - | - |
+| act34side_token_chip | “应急物资”蓝图芯片 | - | - |
 | act38d1_token_coin | 晶化源石 | Crystalized Originium | 結晶化源石 |
 | act3bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act3bossrush_relic_01 | 恢复增幅 | Recovery Boost | 癒しの増幅 |
@@ -805,6 +806,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4072_ironmn | 白铁的信物 | Stainless's Token | ステインレスの印 |
 | p_char_4077_palico | 泰拉大陆调查团的信物 | Terra Research Commission's Token | テラ大陸調査団の印 |
 | p_char_4078_bdhkgt | 截云的信物 | Jieyun's Token | ジエユンの印 |
+| p_char_4079_haini | 海霓的信物 | - | - |
 | p_char_4080_lin | 林的信物 | Lin's Token | リンの印 |
 | p_char_4081_warmy | 温米的信物 | - | - |
 | p_char_4082_qiubai | 仇白的信物 | Qiubai's Token | チューバイの印 |
@@ -838,6 +840,8 @@ tip: 请善用浏览器的搜索功能
 | p_char_4133_logos | 逻各斯的信物 | - | - |
 | p_char_4134_cetsyr | 魔王的信物 | - | - |
 | p_char_4136_phonor | PhonoR-0的信物 | - | - |
+| p_char_4137_udflow | 深巡的信物 | - | - |
+| p_char_4145_ulpia | 乌尔比安的信物 | - | - |
 | p_char_415_flint | 燧石的信物 | Flint's Token | フリントの印 |
 | p_char_416_zumama | 森蚺的信物 | Eunectes' Token | ユーネクテスの印 |
 | p_char_420_flamtl | 焰尾的信物 | Flametail's Token | フレイムテイルの印 |

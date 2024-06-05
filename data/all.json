@@ -1941,6 +1941,12 @@
       "zh_CN": "截云"
     }
   },
+  "char_4079_haini": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "海霓"
+    }
+  },
   "char_4080_lin": {
     "type": "OPERATOR",
     "names": {
@@ -2177,6 +2183,18 @@
     "type": "OPERATOR",
     "names": {
       "zh_CN": "PhonoR-0"
+    }
+  },
+  "char_4137_udflow": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "深巡"
+    }
+  },
+  "char_4145_ulpia": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "乌尔比安"
     }
   },
   "char_415_flint": {
@@ -2993,6 +3011,12 @@
     "type": "TOKEN",
     "names": {
       "zh_CN": "魂灵之影"
+    }
+  },
+  "token_10039_ulpia_block": {
+    "type": "TOKEN",
+    "names": {
+      "zh_CN": "从不混淆的方向"
     }
   },
   "trap_079_allydonq": {
@@ -4137,6 +4161,24 @@
       "zh_CN": "阵地屏障"
     }
   },
+  "trap_155_aegiret": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "航道信标"
+    }
+  },
+  "trap_156_dsshell": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "赘生甲壳"
+    }
+  },
+  "trap_157_bounc2": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "小帮手"
+    }
+  },
   "trap_158_lrsteam": {
     "type": "TRAP",
     "names": {
@@ -4207,6 +4249,12 @@
     "type": "TRAP",
     "names": {
       "zh_CN": "促融共竞控制"
+    }
+  },
+  "trap_180_dsblock": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "封印的地面"
     }
   },
   "trap_400_xbfarm": {
@@ -5320,7 +5368,7 @@
     "names": {
       "en_US": "Along the Corridor",
       "ja_JP": "長廊遊",
-      "zh_CN": "廊下游 "
+      "zh_CN": "廊下游"
     }
   },
   "char_1023_ghost2@boc#6": {
@@ -7006,6 +7054,12 @@
       "zh_CN": "火树灵"
     }
   },
+  "char_4006_melnte@epoque#33": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "赴宴"
+    }
+  },
   "char_4009_irene@ambienceSynesthesia#3": {
     "type": "SKIN",
     "names": {
@@ -7218,6 +7272,12 @@
       "zh_CN": "远路"
     }
   },
+  "char_4065_judge@epoque#33": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "记叙"
+    }
+  },
   "char_4065_judge@snow#6": {
     "type": "SKIN",
     "names": {
@@ -7292,6 +7352,12 @@
       "en_US": "Silent Night DN04",
       "ja_JP": "安息の午夜DN04",
       "zh_CN": "静谧午夜 DN04"
+    }
+  },
+  "char_4122_grabds@yun#3": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "步芳兰"
     }
   },
   "char_4123_ela@rainbow6#2": {
@@ -7542,6 +7608,12 @@
       "en_US": "Return",
       "ja_JP": "帰航",
       "zh_CN": "返航"
+    }
+  },
+  "char_474_glady@epoque#33": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "我即潮汐"
     }
   },
   "char_475_akafyu@epoque#15": {
@@ -14206,6 +14278,96 @@
       "zh_CN": "粹影魂灵法骸"
     }
   },
+  "enemy_1433_dsbasi": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "单核掠食者"
+    }
+  },
+  "enemy_1433_dsbasi_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "异光体掠食者"
+    }
+  },
+  "enemy_1434_dsshel": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "微核沉积者"
+    }
+  },
+  "enemy_1435_dsflys": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "纤核漂游者"
+    }
+  },
+  "enemy_1435_dsflys_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "异光体漂游者"
+    }
+  },
+  "enemy_1436_dsdivi": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "诡核集养者"
+    }
+  },
+  "enemy_1436_dsdivi_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "异光体集养者"
+    }
+  },
+  "enemy_1437_dsfull": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "蕴核饲育者"
+    }
+  },
+  "enemy_1437_dsfull_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "异光体饲育者"
+    }
+  },
+  "enemy_1438_dspred": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "复核洋流使者"
+    }
+  },
+  "enemy_1438_dspred_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "异光体洋流使者"
+    }
+  },
+  "enemy_1439_dslntf": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "元核孽生者"
+    }
+  },
+  "enemy_1439_dslntf_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "异光体孽生者"
+    }
+  },
+  "enemy_1440_dselec": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“被弃者”"
+    }
+  },
+  "enemy_1440_dselec_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“受诅者”"
+    }
+  },
   "enemy_1500_skulsr": {
     "type": "ENEMY",
     "names": {
@@ -14640,6 +14802,12 @@
     "type": "ENEMY",
     "names": {
       "zh_CN": "特蕾西娅"
+    }
+  },
+  "enemy_1556_dsbish": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "玛利图斯，“海嗣”"
     }
   },
   "enemy_2001_duckmi": {
@@ -16828,6 +16996,12 @@
       "zh_CN": "双日城惊奇墙"
     }
   },
+  "act2signvs": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "端阳正午签到活动"
+    }
+  },
   "act2switch": {
     "type": "ACTIVITY",
     "names": {
@@ -16896,6 +17070,12 @@
       "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
+    }
+  },
+  "act34side": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "生路"
     }
   },
   "act34sign": {
@@ -19795,6 +19975,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "粗制糖块"
+    }
+  },
+  "act34side_token_chip": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "“应急物资”蓝图芯片"
     }
   },
   "act38d1_token_coin": {
@@ -23898,6 +24084,12 @@
       "zh_CN": "截云的信物"
     }
   },
+  "p_char_4079_haini": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "海霓的信物"
+    }
+  },
   "p_char_4080_lin": {
     "type": "ITEM",
     "names": {
@@ -24126,6 +24318,18 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "PhonoR-0的信物"
+    }
+  },
+  "p_char_4137_udflow": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "深巡的信物"
+    }
+  },
+  "p_char_4145_ulpia": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "乌尔比安的信物"
     }
   },
   "p_char_415_flint": {
@@ -26786,6 +26990,12 @@
       "zh_CN": "如死亦终"
     }
   },
+  "SINGLE_51_0_1": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "沉向深渊的锚"
+    }
+  },
   "_ATTAIN_15_2_1": {
     "type": "POOL",
     "names": {
@@ -29398,6 +29608,18 @@
       "en_US": "Durian-Flavored Stimpack",
       "ja_JP": "劇性増強剤・ドリアン",
       "zh_CN": "爆发剂·榴莲味"
+    }
+  },
+  "skchr_haini_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "迷惑性洋流图"
+    }
+  },
+  "skchr_haini_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "阻滞性显色剂"
     }
   },
   "skchr_halo_1": {
@@ -32064,6 +32286,36 @@
       "zh_CN": "“永恒狩猎”"
     }
   },
+  "skchr_udflow_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "侵袭破坏应对"
+    }
+  },
+  "skchr_udflow_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "行动能力剥夺"
+    }
+  },
+  "skchr_ulpia_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "必须促成的接触"
+    }
+  },
+  "skchr_ulpia_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "必须维系的界限"
+    }
+  },
+  "skchr_ulpia_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "必须开辟的通路"
+    }
+  },
   "skchr_utage_1": {
     "type": "SKILL",
     "names": {
@@ -32652,6 +32904,12 @@
       "zh_CN": "掩护"
     }
   },
+  "sktok_aegiret_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "信标激活"
+    }
+  },
   "sktok_aidkit": {
     "type": "SKILL",
     "names": {
@@ -32860,6 +33118,12 @@
       "en_US": "Bloodcalling Altar",
       "ja_JP": "血の祭壇",
       "zh_CN": "唤血祭坛"
+    }
+  },
+  "sktok_bounc2_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "工程钻具"
     }
   },
   "sktok_bouncy_1": {
@@ -33368,6 +33632,12 @@
       "en_US": "Emergency Medical Agreement",
       "ja_JP": "応急治療プロトコル",
       "zh_CN": "应急治疗协议"
+    }
+  },
+  "sktok_dsshell": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "赘生甲壳"
     }
   },
   "sktok_dstnta": {
@@ -39954,6 +40224,84 @@
       "zh_CN": "卡兹戴尔作战演习"
     }
   },
+  "act34side_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "第一次接触"
+    }
+  },
+  "act34side_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "评议式迎接"
+    }
+  },
+  "act34side_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "如海雪纷散"
+    }
+  },
+  "act34side_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "牺牲与代价"
+    }
+  },
+  "act34side_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "不治的命运"
+    }
+  },
+  "act34side_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "阿戈尔失格"
+    }
+  },
+  "act34side_07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "从历史中来"
+    }
+  },
+  "act34side_08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "“何谓存续？”"
+    }
+  },
+  "act34side_09": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "文明的壁垒"
+    }
+  },
+  "act34side_st01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "浪潮守望者"
+    }
+  },
+  "act34side_st02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "如海流倒灌"
+    }
+  },
+  "act34side_st03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "歧路者与同行者"
+    }
+  },
+  "act34side_tr01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "信标投放演习"
+    }
+  },
   "act3bossrush_01": {
     "type": "STAGE",
     "names": {
@@ -45682,6 +46030,18 @@
       "zh_CN": "我始终如一"
     }
   },
+  "act34side_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "信标投放"
+    }
+  },
+  "act34side_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "防线巩固"
+    }
+  },
   "act3bossrush_zone1": {
     "type": "ZONE",
     "names": {
@@ -47014,6 +47374,12 @@
       "zh_CN": "安身之处"
     }
   },
+  "story_coldst_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "一路顺风"
+    }
+  },
   "story_crow_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -47052,6 +47418,12 @@
       "en_US": "Azure Memories",
       "ja_JP": "深き青の追想",
       "zh_CN": "幽蓝怀想"
+    }
+  },
+  "story_deepcl_set_2_story_2": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "蓝调"
     }
   },
   "story_doroth_set_1_story_1": {
@@ -47416,6 +47788,12 @@
       "zh_CN": "惊弓一夜"
     }
   },
+  "story_haini_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "怀有希望之人"
+    }
+  },
   "story_halo_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -47740,6 +48118,12 @@
     "type": "MEMORY",
     "names": {
       "zh_CN": "与人共舞"
+    }
+  },
+  "story_luton_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "阳光映照之下"
     }
   },
   "story_malist_set_1_story_1": {

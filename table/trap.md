@@ -152,6 +152,9 @@ tip: 请善用浏览器的搜索功能
 | trap_151_muruinw | 折叠式堡垒模块 | - | - |
 | trap_152_muruino | 折叠式辅助器械 | - | - |
 | trap_154_mugtps | 阵地屏障 | - | - |
+| trap_155_aegiret | 航道信标 | - | - |
+| trap_156_dsshell | 赘生甲壳 | - | - |
+| trap_157_bounc2 | 小帮手 | - | - |
 | trap_158_lrsteam | 查尔斯·林奇 | - | - |
 | trap_159_lrcore | 核心增幅器 | - | - |
 | trap_160_lrlgun | 洪流束激发器 | - | - |
@@ -164,6 +167,7 @@ tip: 请善用浏览器的搜索功能
 | trap_167_muruinf | 折叠式维护车 | - | - |
 | trap_169_muruinb | 折叠式后勤站 | - | - |
 | trap_179_muctrl | 促融共竞控制 | - | - |
+| trap_180_dsblock | 封印的地面 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |
 | trap_401_xbfato | 木材采集站 | Basic Gathering Hub | 採取ロボ用基地 |
 | trap_403_wfactory | 蟹蟹抽水泵 | Crabbie Pumpie | カニカニポンプ |

@@ -825,6 +825,21 @@ tip: 请善用浏览器的搜索功能
 | enemy_1430_lrrook_2 | 殉亡魂灵圣杯 | - | - |
 | enemy_1431_lrmzrd | 注能魂灵法骸 | - | - |
 | enemy_1431_lrmzrd_2 | 粹影魂灵法骸 | - | - |
+| enemy_1433_dsbasi | 单核掠食者 | - | - |
+| enemy_1433_dsbasi_2 | 异光体掠食者 | - | - |
+| enemy_1434_dsshel | 微核沉积者 | - | - |
+| enemy_1435_dsflys | 纤核漂游者 | - | - |
+| enemy_1435_dsflys_2 | 异光体漂游者 | - | - |
+| enemy_1436_dsdivi | 诡核集养者 | - | - |
+| enemy_1436_dsdivi_2 | 异光体集养者 | - | - |
+| enemy_1437_dsfull | 蕴核饲育者 | - | - |
+| enemy_1437_dsfull_2 | 异光体饲育者 | - | - |
+| enemy_1438_dspred | 复核洋流使者 | - | - |
+| enemy_1438_dspred_2 | 异光体洋流使者 | - | - |
+| enemy_1439_dslntf | 元核孽生者 | - | - |
+| enemy_1439_dslntf_2 | 异光体孽生者 | - | - |
+| enemy_1440_dselec | “被弃者” | - | - |
+| enemy_1440_dselec_2 | “受诅者” | - | - |
 | enemy_1500_skulsr | 碎骨 | Skullshatterer | SkullShredder |
 | enemy_1501_demonk | 萨卡兹百夫长 | Sarkaz Centurion | サルカズケントゥリオ |
 | enemy_1502_crowns | 弑君者 | Crownslayer | CrownSlayer |
@@ -881,6 +896,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1552_mmamiy | “阿米娅” | - | - |
 | enemy_1553_lrdead | 引火的死魂灵 | - | - |
 | enemy_1554_lrtsia | 特蕾西娅 | - | - |
+| enemy_1556_dsbish | 玛利图斯，“海嗣” | - | - |
 | enemy_2001_duckmi | 鸭爵 | Duck Lord | ダック卿 |
 | enemy_2002_bearmi | 高普尼克 | Gopnik | ゴプニク |
 | enemy_2003_rockman | 迷路的巨像 | Lost Colossus | 迷子の巨像 |

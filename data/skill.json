@@ -1215,6 +1215,12 @@
     "ja_JP": "劇性増強剤・ドリアン",
     "zh_CN": "爆发剂·榴莲味"
   },
+  "skchr_haini_1": {
+    "zh_CN": "迷惑性洋流图"
+  },
+  "skchr_haini_2": {
+    "zh_CN": "阻滞性显色剂"
+  },
   "skchr_halo_1": {
     "en_US": "Double Diversion",
     "ja_JP": "ボルテージダブラー",
@@ -2865,6 +2871,21 @@
     "ja_JP": "「永久なる狩猟」",
     "zh_CN": "“永恒狩猎”"
   },
+  "skchr_udflow_1": {
+    "zh_CN": "侵袭破坏应对"
+  },
+  "skchr_udflow_2": {
+    "zh_CN": "行动能力剥夺"
+  },
+  "skchr_ulpia_1": {
+    "zh_CN": "必须促成的接触"
+  },
+  "skchr_ulpia_2": {
+    "zh_CN": "必须维系的界限"
+  },
+  "skchr_ulpia_3": {
+    "zh_CN": "必须开辟的通路"
+  },
   "skchr_utage_1": {
     "en_US": "Space Out",
     "ja_JP": "サボり",
@@ -3225,6 +3246,9 @@
   "sktok_ads": {
     "zh_CN": "掩护"
   },
+  "sktok_aegiret_1": {
+    "zh_CN": "信标激活"
+  },
   "sktok_aidkit": {
     "en_US": "First Aid",
     "ja_JP": "応急処置",
@@ -3353,6 +3377,9 @@
     "en_US": "Bloodcalling Altar",
     "ja_JP": "血の祭壇",
     "zh_CN": "唤血祭坛"
+  },
+  "sktok_bounc2_1": {
+    "zh_CN": "工程钻具"
   },
   "sktok_bouncy_1": {
     "en_US": "Hand of the Saint",
@@ -3660,6 +3687,9 @@
     "en_US": "Emergency Medical Agreement",
     "ja_JP": "応急治療プロトコル",
     "zh_CN": "应急治疗协议"
+  },
+  "sktok_dsshell": {
+    "zh_CN": "赘生甲壳"
   },
   "sktok_dstnta": {
     "en_US": "Devour",

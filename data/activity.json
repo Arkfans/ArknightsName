@@ -568,6 +568,9 @@
     "ja_JP": "ドッソレススクラッチ",
     "zh_CN": "双日城惊奇墙"
   },
+  "act2signvs": {
+    "zh_CN": "端阳正午签到活动"
+  },
   "act2switch": {
     "en_US": "View From Above Collaboration Event",
     "ja_JP": "山河一望コラボ",
@@ -607,6 +610,9 @@
     "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
+  },
+  "act34side": {
+    "zh_CN": "生路"
   },
   "act34sign": {
     "en_US": "Limited-time Cumulative Sign-In",

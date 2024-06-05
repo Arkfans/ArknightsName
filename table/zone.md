@@ -150,6 +150,8 @@ tip: 请善用浏览器的搜索功能
 | act33side_zone1 | 我赠予未来 | - | - |
 | act33side_zone2 | 我驻留往昔 | - | - |
 | act33side_zone3 | 我始终如一 | - | - |
+| act34side_zone1 | 信标投放 | - | - |
+| act34side_zone2 | 防线巩固 | - | - |
 | act3bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act4bossrush_zone1 | 强敌当前 | - | - |
 | act5d0_zone1 | 下城区 | Downtown | 繁華街 |

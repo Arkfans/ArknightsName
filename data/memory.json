@@ -291,6 +291,9 @@
     "ja_JP": "安らぎの場所",
     "zh_CN": "安身之处"
   },
+  "story_coldst_set_1_story_1": {
+    "zh_CN": "一路顺风"
+  },
   "story_crow_set_1_story_1": {
     "en_US": "Plumas de Tenacidad",
     "ja_JP": "強靭な羽根",
@@ -315,6 +318,9 @@
     "en_US": "Azure Memories",
     "ja_JP": "深き青の追想",
     "zh_CN": "幽蓝怀想"
+  },
+  "story_deepcl_set_2_story_2": {
+    "zh_CN": "蓝调"
   },
   "story_doroth_set_1_story_1": {
     "en_US": "Where is the Friend's House?",
@@ -540,6 +546,9 @@
     "ja_JP": "肝を冷やす夜",
     "zh_CN": "惊弓一夜"
   },
+  "story_haini_set_1_story_1": {
+    "zh_CN": "怀有希望之人"
+  },
   "story_halo_set_1_story_1": {
     "en_US": "Now Experimenting...",
     "ja_JP": "実験進行中",
@@ -739,6 +748,9 @@
   },
   "story_lunacu_set_1_story_1": {
     "zh_CN": "与人共舞"
+  },
+  "story_luton_set_1_story_1": {
+    "zh_CN": "阳光映照之下"
   },
   "story_malist_set_1_story_1": {
     "en_US": "In the Endless Summer",

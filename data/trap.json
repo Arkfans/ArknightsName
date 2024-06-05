@@ -692,6 +692,15 @@
   "trap_154_mugtps": {
     "zh_CN": "阵地屏障"
   },
+  "trap_155_aegiret": {
+    "zh_CN": "航道信标"
+  },
+  "trap_156_dsshell": {
+    "zh_CN": "赘生甲壳"
+  },
+  "trap_157_bounc2": {
+    "zh_CN": "小帮手"
+  },
   "trap_158_lrsteam": {
     "zh_CN": "查尔斯·林奇"
   },
@@ -727,6 +736,9 @@
   },
   "trap_179_muctrl": {
     "zh_CN": "促融共竞控制"
+  },
+  "trap_180_dsblock": {
+    "zh_CN": "封印的地面"
   },
   "trap_400_xbfarm": {
     "en_US": "Portable Planting Trough",

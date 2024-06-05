@@ -76,7 +76,7 @@
   "char_1021_kroos2@nian#8": {
     "en_US": "Along the Corridor",
     "ja_JP": "長廊遊",
-    "zh_CN": "廊下游 "
+    "zh_CN": "廊下游"
   },
   "char_1023_ghost2@boc#6": {
     "en_US": "Born as One",
@@ -1113,6 +1113,9 @@
     "ja_JP": "煌めく精霊",
     "zh_CN": "火树灵"
   },
+  "char_4006_melnte@epoque#33": {
+    "zh_CN": "赴宴"
+  },
   "char_4009_irene@ambienceSynesthesia#3": {
     "en_US": "Voyage of Feathers",
     "ja_JP": "飛び立つ羽",
@@ -1244,6 +1247,9 @@
     "ja_JP": "遠き道のり",
     "zh_CN": "远路"
   },
+  "char_4065_judge@epoque#33": {
+    "zh_CN": "记叙"
+  },
   "char_4065_judge@snow#6": {
     "zh_CN": "偶尔醉陶"
   },
@@ -1286,6 +1292,9 @@
     "en_US": "Silent Night DN04",
     "ja_JP": "安息の午夜DN04",
     "zh_CN": "静谧午夜 DN04"
+  },
+  "char_4122_grabds@yun#3": {
+    "zh_CN": "步芳兰"
   },
   "char_4123_ela@rainbow6#2": {
     "zh_CN": "密室"
@@ -1437,6 +1446,9 @@
     "en_US": "Return",
     "ja_JP": "帰航",
     "zh_CN": "返航"
+  },
+  "char_474_glady@epoque#33": {
+    "zh_CN": "我即潮汐"
   },
   "char_475_akafyu@epoque#15": {
     "en_US": "Temperament",
