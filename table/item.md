@@ -131,7 +131,7 @@ tip: 请善用浏览器的搜索功能
 | AP_GAMEPLAY | 理智 | Sanity | 理性 |
 | CRISIS_RUNE_COIN | 行动协议 | Operation Agreement | 協約の証 |
 | CRISIS_SHOP_COIN | 合约赏金 | Contract Bounty | 契約賞金 |
-| CRISIS_SHOP_COIN_V2 | 晶体合约赏金 | - | - |
+| CRISIS_SHOP_COIN_V2 | 晶体合约赏金 | - | 結晶契約賞金 |
 | EPGS_COIN | 寻访参数模型 | Headhunting Parametric Model | 特別引換証 |
 | EXTERMINATION_AGENT | PRTS剿灭代理卡 | PRTS Proxy Annihilation Card | PRTS殲滅代理カード |
 | LIMITED_TKT_GACHA_10_1401 | 只为铭记寻访凭证 | Memorial-Limited Headhunting Permit | 感謝祭記念スカウト券 |
@@ -1023,7 +1023,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_reception | 龙门风情茶室家具收藏包 | Lungmen Tearoom Furniture Collection Set | 龍門茶室家具パック |
 | uni_set_samiRoom_1 | 萨米印象家具收藏包一 | Sami Impressions Furniture Pack I | サーミ風家具パックvol.1 |
 | uni_set_samiRoom_2 | 萨米印象家具收藏包二 | - | - |
-| uni_set_stage | 风雪过境家具收藏包 | - | - |
+| uni_set_stage | 风雪过境家具收藏包 | - | 風雪一過家具パック |
 | uni_set_teaHouse | 将进酒家具收藏包 | - | - |
 | uni_set_westCoast | 多索雷斯假日家具收藏包 | Dossoles Holiday Furniture Pack | ドッソレスホリデー家具パック |
 | voucher_5chipPackage | 自助芯片印刻仪 | Automatic Chip Etcher | SoCセルフプリンター |
@@ -1041,7 +1041,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_full_forcer | 见行者的私人信件 | - | - |
 | voucher_full_glady | 歌蕾蒂娅的私人信件 | Gladiia's Personal Letter | グレイディーアの手紙 |
 | voucher_full_grani | 格拉尼的私人信件 | Grani's Personal Letter | グラニの手紙 |
-| voucher_full_kjera | 耶拉的私人信件 | - | - |
+| voucher_full_kjera | 耶拉的私人信件 | - | イェラの手紙 |
 | voucher_full_kroos2 | 寒芒克洛丝的私人信件 | - | - |
 | voucher_full_lava2 | 炎狱炎熔的私人信件 | Lava the Purgatory's Personal Letter | 炎獄ラヴァの手紙 |
 | voucher_full_lumen | 流明的私人信件 | - | - |

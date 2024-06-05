@@ -514,12 +514,12 @@ tip: 请善用浏览器的搜索功能
 | trap_125_bonore | 唤血祭坛 | Bloodcalling Altar | 血の祭壇 |
 | trap_126_outset | 炸弹载荷点 | Bomb Loading Point | 爆弾装填点 |
 | trap_127_bldore | 沥血王座 | Throne of Blood | 血誓の王座 |
-| trap_128_toolore | 祭坛式雷达 | - | - |
-| trap_129_tooltower | R-45便携式“留声机” | - | - |
-| trap_130_tooltree | 景观巨蕈 | - | - |
-| trap_131_toolgun | 战场装置LUD-99X | - | - |
-| trap_132_toolinvert | “二踢脚”型数据收集装置 | - | - |
-| trap_133_toolgarage | 勘察用自走车 | - | - |
+| trap_128_toolore | 祭坛式雷达 | - | 祭壇式レーダー |
+| trap_129_tooltower | R-45便携式“留声机” | - | R-45ポータブル「蓄音機」 |
+| trap_130_tooltree | 景观巨蕈 | - | 鑑賞用おばけ茸 |
+| trap_131_toolgun | 战场装置LUD-99X | - | フィールドデバイスLUD-99X |
+| trap_132_toolinvert | “二踢脚”型数据收集装置 | - | 爆竹型データ収集装置 |
+| trap_133_toolgarage | 勘察用自走车 | - | 自走式探査車 |
 | trap_134_condtr | 调谐节点 | Tuning Node | 調律器 |
 | trap_135_portlent | 湮灭之相 | Aspect of Annihilation | 湮滅の相 |
 | trap_136_portlexi | 创生之相 | Aspect of Creation | 創生の相 |
@@ -750,7 +750,7 @@ tip: 请善用浏览器的搜索功能
 | char_129_bluep@marthe#3 | 浅滩律动 | Shoal Beat | 浅瀬のリズム |
 | char_130_doberm@epoque#7 | 少尉 | Lieutenant | 少尉 |
 | char_131_flameb@summer#8 | 悠然假日 HDm04 | Casual Vacation HDm04 | ホリデーHDm04 |
-| char_131_flameb@whirlwind#6 | 单刀 | - | - |
+| char_131_flameb@whirlwind#6 | 单刀 | - | 単刀 |
 | char_134_ifrit@kfc#1 | 儿童派对 | - | キッズパーティー |
 | char_134_ifrit@summer#1 | 日晒 SS.SP | Sunburn SS.SP | サンライトSS.SP |
 | char_135_halo@epoque#25 | 所愿 | Her Aspiration | 冀望 |
@@ -2458,7 +2458,7 @@ tip: 请善用浏览器的搜索功能
 | AP_GAMEPLAY | 理智 | Sanity | 理性 |
 | CRISIS_RUNE_COIN | 行动协议 | Operation Agreement | 協約の証 |
 | CRISIS_SHOP_COIN | 合约赏金 | Contract Bounty | 契約賞金 |
-| CRISIS_SHOP_COIN_V2 | 晶体合约赏金 | - | - |
+| CRISIS_SHOP_COIN_V2 | 晶体合约赏金 | - | 結晶契約賞金 |
 | EPGS_COIN | 寻访参数模型 | Headhunting Parametric Model | 特別引換証 |
 | EXTERMINATION_AGENT | PRTS剿灭代理卡 | PRTS Proxy Annihilation Card | PRTS殲滅代理カード |
 | LIMITED_TKT_GACHA_10_1401 | 只为铭记寻访凭证 | Memorial-Limited Headhunting Permit | 感謝祭記念スカウト券 |
@@ -3350,7 +3350,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_reception | 龙门风情茶室家具收藏包 | Lungmen Tearoom Furniture Collection Set | 龍門茶室家具パック |
 | uni_set_samiRoom_1 | 萨米印象家具收藏包一 | Sami Impressions Furniture Pack I | サーミ風家具パックvol.1 |
 | uni_set_samiRoom_2 | 萨米印象家具收藏包二 | - | - |
-| uni_set_stage | 风雪过境家具收藏包 | - | - |
+| uni_set_stage | 风雪过境家具收藏包 | - | 風雪一過家具パック |
 | uni_set_teaHouse | 将进酒家具收藏包 | - | - |
 | uni_set_westCoast | 多索雷斯假日家具收藏包 | Dossoles Holiday Furniture Pack | ドッソレスホリデー家具パック |
 | voucher_5chipPackage | 自助芯片印刻仪 | Automatic Chip Etcher | SoCセルフプリンター |
@@ -3368,7 +3368,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_full_forcer | 见行者的私人信件 | - | - |
 | voucher_full_glady | 歌蕾蒂娅的私人信件 | Gladiia's Personal Letter | グレイディーアの手紙 |
 | voucher_full_grani | 格拉尼的私人信件 | Grani's Personal Letter | グラニの手紙 |
-| voucher_full_kjera | 耶拉的私人信件 | - | - |
+| voucher_full_kjera | 耶拉的私人信件 | - | イェラの手紙 |
 | voucher_full_kroos2 | 寒芒克洛丝的私人信件 | - | - |
 | voucher_full_lava2 | 炎狱炎熔的私人信件 | Lava the Purgatory's Personal Letter | 炎獄ラヴァの手紙 |
 | voucher_full_lumen | 流明的私人信件 | - | - |
@@ -3586,6 +3586,7 @@ tip: 请善用浏览器的搜索功能
 | _NORM_24_0_6 | - | Joint Operation | 連合作戦 |
 | _NORM_25_0_8 | - | Joint Operation | 連合作戦 |
 | _NORM_26_0_7 | - | The Front That Was | 先途追想 |
+| _NORM_27_0_6 | - | - | 連合作戦 |
 | _NORM_2_0_1 | - | Chi Xiao, the Hidden Dragon | 赤龍乗雲 |
 | _NORM_2_0_3 | - | Lungmen Spec Ops Headhunting | 龍門特別行動要員 |
 | _NORM_3_0_1 | - | Frozen Land | 果てなき氷原 |
@@ -4554,12 +4555,12 @@ tip: 请善用浏览器的搜索功能
 | sktok_tidectrl_2 | 大幅涨潮 | Large Rising Tide | 満ち潮 |
 | sktok_tidectrl_3 | 深水 | Deep Water | 「深水区域」 |
 | sktok_tileblock | 不可部署 | Deployment Forbidden | 配置不可 |
-| sktok_toolgarage | 自走车出击！ | - | - |
-| sktok_toolgun | 开火 | - | - |
-| sktok_toolinvert | 撼动现实 | - | - |
-| sktok_toolore | 脉冲波 | - | - |
-| sktok_tooltower | 法术传输协议 | - | - |
-| sktok_tooltree | 天然隐蔽 | - | - |
+| sktok_toolgarage | 自走车出击！ | - | セルカー発進！ |
+| sktok_toolgun | 开火 | - | 発射 |
+| sktok_toolinvert | 撼动现实 | - | 事象震動 |
+| sktok_toolore | 脉冲波 | - | 源石衝撃波 |
+| sktok_tooltower | 法术传输协议 | - | アーツ転送プロトコル |
+| sktok_tooltree | 天然隐蔽 | - | きのこガード |
 | sktok_tower | 法术传输协议 | Arts Transfer Protocol | アーツ転送プロトコル |
 | sktok_trademan_1 | 触发对话 | Trigger Dialogue | 会話発生 |
 | sktok_trademan_summon | 触发对话 | - | - |

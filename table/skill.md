@@ -937,12 +937,12 @@ tip: 请善用浏览器的搜索功能
 | sktok_tidectrl_2 | 大幅涨潮 | Large Rising Tide | 満ち潮 |
 | sktok_tidectrl_3 | 深水 | Deep Water | 「深水区域」 |
 | sktok_tileblock | 不可部署 | Deployment Forbidden | 配置不可 |
-| sktok_toolgarage | 自走车出击！ | - | - |
-| sktok_toolgun | 开火 | - | - |
-| sktok_toolinvert | 撼动现实 | - | - |
-| sktok_toolore | 脉冲波 | - | - |
-| sktok_tooltower | 法术传输协议 | - | - |
-| sktok_tooltree | 天然隐蔽 | - | - |
+| sktok_toolgarage | 自走车出击！ | - | セルカー発進！ |
+| sktok_toolgun | 开火 | - | 発射 |
+| sktok_toolinvert | 撼动现实 | - | 事象震動 |
+| sktok_toolore | 脉冲波 | - | 源石衝撃波 |
+| sktok_tooltower | 法术传输协议 | - | アーツ転送プロトコル |
+| sktok_tooltree | 天然隐蔽 | - | きのこガード |
 | sktok_tower | 法术传输协议 | Arts Transfer Protocol | アーツ転送プロトコル |
 | sktok_trademan_1 | 触发对话 | Trigger Dialogue | 会話発生 |
 | sktok_trademan_summon | 触发对话 | - | - |

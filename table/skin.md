@@ -59,7 +59,7 @@ tip: 请善用浏览器的搜索功能
 | char_129_bluep@marthe#3 | 浅滩律动 | Shoal Beat | 浅瀬のリズム |
 | char_130_doberm@epoque#7 | 少尉 | Lieutenant | 少尉 |
 | char_131_flameb@summer#8 | 悠然假日 HDm04 | Casual Vacation HDm04 | ホリデーHDm04 |
-| char_131_flameb@whirlwind#6 | 单刀 | - | - |
+| char_131_flameb@whirlwind#6 | 单刀 | - | 単刀 |
 | char_134_ifrit@kfc#1 | 儿童派对 | - | キッズパーティー |
 | char_134_ifrit@summer#1 | 日晒 SS.SP | Sunburn SS.SP | サンライトSS.SP |
 | char_135_halo@epoque#25 | 所愿 | Her Aspiration | 冀望 |

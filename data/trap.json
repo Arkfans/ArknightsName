@@ -615,21 +615,27 @@
     "zh_CN": "沥血王座"
   },
   "trap_128_toolore": {
+    "ja_JP": "祭壇式レーダー",
     "zh_CN": "祭坛式雷达"
   },
   "trap_129_tooltower": {
+    "ja_JP": "R-45ポータブル「蓄音機」",
     "zh_CN": "R-45便携式“留声机”"
   },
   "trap_130_tooltree": {
+    "ja_JP": "鑑賞用おばけ茸",
     "zh_CN": "景观巨蕈"
   },
   "trap_131_toolgun": {
+    "ja_JP": "フィールドデバイスLUD-99X",
     "zh_CN": "战场装置LUD-99X"
   },
   "trap_132_toolinvert": {
+    "ja_JP": "爆竹型データ収集装置",
     "zh_CN": "“二踢脚”型数据收集装置"
   },
   "trap_133_toolgarage": {
+    "ja_JP": "自走式探査車",
     "zh_CN": "勘察用自走车"
   },
   "trap_134_condtr": {

@@ -4014,36 +4014,42 @@
   "trap_128_toolore": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "祭壇式レーダー",
       "zh_CN": "祭坛式雷达"
     }
   },
   "trap_129_tooltower": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "R-45ポータブル「蓄音機」",
       "zh_CN": "R-45便携式“留声机”"
     }
   },
   "trap_130_tooltree": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "鑑賞用おばけ茸",
       "zh_CN": "景观巨蕈"
     }
   },
   "trap_131_toolgun": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "フィールドデバイスLUD-99X",
       "zh_CN": "战场装置LUD-99X"
     }
   },
   "trap_132_toolinvert": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "爆竹型データ収集装置",
       "zh_CN": "“二踢脚”型数据收集装置"
     }
   },
   "trap_133_toolgarage": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "自走式探査車",
       "zh_CN": "勘察用自走车"
     }
   },
@@ -5661,6 +5667,7 @@
   "char_131_flameb@whirlwind#6": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "単刀",
       "zh_CN": "单刀"
     }
   },
@@ -18810,6 +18817,7 @@
   "CRISIS_SHOP_COIN_V2": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "結晶契約賞金",
       "zh_CN": "晶体合约赏金"
     }
   },
@@ -25763,6 +25771,7 @@
   "uni_set_stage": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "風雪一過家具パック",
       "zh_CN": "风雪过境家具收藏包"
     }
   },
@@ -25901,6 +25910,7 @@
   "voucher_full_kjera": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "イェラの手紙",
       "zh_CN": "耶拉的私人信件"
     }
   },
@@ -27384,6 +27394,12 @@
     "names": {
       "en_US": "The Front That Was",
       "ja_JP": "先途追想"
+    }
+  },
+  "_NORM_27_0_6": {
+    "type": "POOL",
+    "names": {
+      "ja_JP": "連合作戦"
     }
   },
   "_NORM_2_0_1": {
@@ -34879,36 +34895,42 @@
   "sktok_toolgarage": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "セルカー発進！",
       "zh_CN": "自走车出击！"
     }
   },
   "sktok_toolgun": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "発射",
       "zh_CN": "开火"
     }
   },
   "sktok_toolinvert": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "事象震動",
       "zh_CN": "撼动现实"
     }
   },
   "sktok_toolore": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "源石衝撃波",
       "zh_CN": "脉冲波"
     }
   },
   "sktok_tooltower": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "アーツ転送プロトコル",
       "zh_CN": "法术传输协议"
     }
   },
   "sktok_tooltree": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "きのこガード",
       "zh_CN": "天然隐蔽"
     }
   },
