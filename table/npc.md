@@ -3206,10 +3206,8 @@ tip: 请善用浏览器的搜索功能
 |   | 阿米娅 | Shining | シャイニング |
 |   | 阿米娅？ | Warfarin | ワルファリン |
 | char_002_amiya_summer_2 | 阿米娅 | Amiya | アーミヤ |
-| char_003_kalts_1 | 凯尔希 | Elysium | エリジウム |
-|   | 极境 | Kal'tsit | ケルシー |
-|   | 沉默的过路人 | Lillia | リリア |
-|   | 莉莉娅 | Taciturn Passerby | 無口な通行人 |
+| char_003_kalts_1 | 凯尔希 | Kal'tsit | ケルシー |
+|   | 沉默的过路人 | Taciturn Passerby | 無口な通行人 |
 | char_003_kaltsn07_1 | 凯尔希 | Kal'tsit | ケルシー |
 |   | 神秘的女性 | Mysterious Woman | 謎の女性 |
 | char_003_kaltsn08_1 | 凯尔希 | Kal'tsit | ケルシー |
