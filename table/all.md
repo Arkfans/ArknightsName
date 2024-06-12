@@ -3335,6 +3335,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_bolivar | 密林悍将归来家具收藏包 | The Great Chief Returns Furniture Pack | 帰還！密林の長家具パック |
 | uni_set_castle_1 | 古堡印象家具收藏包一 | Castlesque Furniture Pack I | 古城風家具パックvol.1 |
 | uni_set_castle_2 | 古堡印象家具收藏包二 | Castlesque Furniture Pack II | 古城風家具パックvol.2 |
+| uni_set_concertHall | 尘影余音家具收藏包 | - | - |
 | uni_set_fNearl | 玛莉娅·临光家具收藏包 | Maria Nearl Furniture Pack | マリア・ニアール家具パック |
 | uni_set_goldBoat | 愚人号家具收藏包 | - | - |
 | uni_set_guitar | 火蓝之心家具收藏包 | Heart of Surging Flame Furniture Pack | 青く燃ゆる心家具パック |
@@ -3373,6 +3374,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_full_lava2 | 炎狱炎熔的私人信件 | Lava the Purgatory's Personal Letter | 炎獄ラヴァの手紙 |
 | voucher_full_lumen | 流明的私人信件 | - | - |
 | voucher_full_mint | 薄绿的私人信件 | Mint's Personal Letter | ミントの手紙 |
+| voucher_full_pianst | 车尔尼的私人信件 | - | - |
 | voucher_full_robin | 罗宾的私人信件 | Robin's Personal Letter | ロビンの手紙 |
 | voucher_full_sidero | 铸铁的私人信件 | Sideroca's Personal Letter | シデロカの手紙 |
 | voucher_full_snsant | 雪雉的私人信件 | Snowsant's Personal Letter | スノーズントの手紙 |

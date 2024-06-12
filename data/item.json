@@ -4834,6 +4834,9 @@
     "ja_JP": "古城風家具パックvol.2",
     "zh_CN": "古堡印象家具收藏包二"
   },
+  "uni_set_concertHall": {
+    "zh_CN": "尘影余音家具收藏包"
+  },
   "uni_set_fNearl": {
     "en_US": "Maria Nearl Furniture Pack",
     "ja_JP": "マリア・ニアール家具パック",
@@ -5011,6 +5014,9 @@
     "en_US": "Mint's Personal Letter",
     "ja_JP": "ミントの手紙",
     "zh_CN": "薄绿的私人信件"
+  },
+  "voucher_full_pianst": {
+    "zh_CN": "车尔尼的私人信件"
   },
   "voucher_full_robin": {
     "en_US": "Robin's Personal Letter",

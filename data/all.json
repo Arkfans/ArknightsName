@@ -25663,6 +25663,12 @@
       "zh_CN": "古堡印象家具收藏包二"
     }
   },
+  "uni_set_concertHall": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "尘影余音家具收藏包"
+    }
+  },
   "uni_set_fNearl": {
     "type": "ITEM",
     "names": {
@@ -25953,6 +25959,12 @@
       "en_US": "Mint's Personal Letter",
       "ja_JP": "ミントの手紙",
       "zh_CN": "薄绿的私人信件"
+    }
+  },
+  "voucher_full_pianst": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "车尔尼的私人信件"
     }
   },
   "voucher_full_robin": {
