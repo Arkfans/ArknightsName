@@ -908,6 +908,9 @@
     "ja_JP": "安息の午夜DN06",
     "zh_CN": "静谧午夜 DN06"
   },
+  "char_322_lmlee@sanrio#1": {
+    "zh_CN": "坊间凉茶铺"
+  },
   "char_322_lmlee@witch#3": {
     "en_US": "Trust Your Eyes",
     "ja_JP": "お目を拝借",
@@ -1071,6 +1074,9 @@
   },
   "char_376_therex@marthe#7": {
     "zh_CN": "双料四分卫"
+  },
+  "char_377_gdglow@sanrio#1": {
+    "zh_CN": "花房茶话会"
   },
   "char_377_gdglow@snow#5": {
     "en_US": "Maiden for the Bright Night",
@@ -1292,6 +1298,9 @@
   },
   "char_4087_ines@boc#8": {
     "zh_CN": "燃烧天穹下"
+  },
+  "char_4091_ulika@sanrio#1": {
+    "zh_CN": "云上直播间"
   },
   "char_411_tomimi@summer#5": {
     "en_US": "Silent Night DN04",

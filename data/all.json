@@ -6729,6 +6729,12 @@
       "zh_CN": "静谧午夜 DN06"
     }
   },
+  "char_322_lmlee@sanrio#1": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "坊间凉茶铺"
+    }
+  },
   "char_322_lmlee@witch#3": {
     "type": "SKIN",
     "names": {
@@ -6993,6 +6999,12 @@
     "type": "SKIN",
     "names": {
       "zh_CN": "双料四分卫"
+    }
+  },
+  "char_377_gdglow@sanrio#1": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "花房茶话会"
     }
   },
   "char_377_gdglow@snow#5": {
@@ -7361,6 +7373,12 @@
     "type": "SKIN",
     "names": {
       "zh_CN": "燃烧天穹下"
+    }
+  },
+  "char_4091_ulika@sanrio#1": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "云上直播间"
     }
   },
   "char_411_tomimi@summer#5": {
@@ -17199,6 +17217,12 @@
       "en_US": "Lungmen Lucky Strips",
       "ja_JP": "龍門おみくじ",
       "zh_CN": "龙门幸运墙登录活动"
+    }
+  },
+  "act3switch": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "虹彩茶会合作活动"
     }
   },
   "act42d0": {
