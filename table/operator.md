@@ -91,7 +91,7 @@ tip: 请善用浏览器的搜索功能
 | char_190_clour | 红云 | Vermeil | ヴァーミル |
 | char_192_falco | 翎羽 | Plume | プリュム |
 | char_193_frostl | 霜叶 | Frostleaf | フロストリーフ |
-| char_194_leto | 烈夏 | - | - |
+| char_194_leto | 烈夏 | Leto | リェータ |
 | char_195_glassb | 真理 | Istina | イースチナ |
 | char_196_sunbr | 古米 | Gummy | グム |
 | char_197_poca | 早露 | Rosa | ロサ |
@@ -267,8 +267,8 @@ tip: 请善用浏览器的搜索功能
 | char_4107_vrdant | 维荻 | Verdant | ヴァーダント |
 | char_4109_baslin | 深律 | Bassline | ベースライン |
 | char_4110_delphn | 戴菲恩 | Delphine | デルフィーン |
-| char_4114_harold | 哈洛德 | - | - |
-| char_4116_blkkgt | 锏 | - | - |
+| char_4114_harold | 哈洛德 | Harold | ハロルド |
+| char_4116_blkkgt | 锏 | Degenbrecher | デーゲンブレヒャー |
 | char_4117_ray | 莱伊 | - | - |
 | char_4119_wanqin | 万顷 | - | - |
 | char_411_tomimi | 特米米 | Tomimi | トミミ |

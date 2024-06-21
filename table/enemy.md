@@ -730,24 +730,24 @@ tip: 请善用浏览器的搜索功能
 | enemy_1378_ltnmst_2 | 巫王乐团调律师 | Witch King's Orchestra Tuner | 巫王楽団調律師 |
 | enemy_1379_ltncdt | 残党乐团指挥家 | Remnant Orchestra Conductor | 楽団志望指揮者 |
 | enemy_1379_ltncdt_2 | 巫王乐团指挥家 | Witch King's Orchestra Conductor | 巫王楽団指揮者 |
-| enemy_1381_winman | 访问团新兵 | - | - |
-| enemy_1381_winman_2 | 访问团老兵 | - | - |
-| enemy_1382_winbal | 访问团突击新兵 | - | - |
-| enemy_1382_winbal_2 | 访问团突击老兵 | - | - |
-| enemy_1383_windog | 发条巡逻机器 | - | - |
-| enemy_1383_windog_2 | 发条战斗机器 | - | - |
-| enemy_1384_winfrz | 封冻高山驮兽 | - | - |
-| enemy_1384_winfrz_2 | 沉眠高山驮兽 | - | - |
-| enemy_1385_winbom | “喷射罐” | - | - |
-| enemy_1385_winbom_2 | “喷爆罐” | - | - |
-| enemy_1386_winmag | 访问团术师 | - | - |
-| enemy_1386_winmag_2 | 访问团术师长 | - | - |
-| enemy_1387_winshd | 访问团持盾者 | - | - |
-| enemy_1387_winshd_2 | 访问团持盾长 | - | - |
-| enemy_1388_wingnt | “投石机” | - | - |
-| enemy_1388_wingnt_2 | “榴弹炮” | - | - |
-| enemy_1389_winbab | 访问团强攻手 | - | - |
-| enemy_1389_winbab_2 | 访问团强攻冠军 | - | - |
+| enemy_1381_winman | 访问团新兵 | Delegation Recruit | 訪問団の新兵 |
+| enemy_1381_winman_2 | 访问团老兵 | Delegation Veteran | 訪問団の老兵 |
+| enemy_1382_winbal | 访问团突击新兵 | Delegation Assault Recruit | 訪問団の突撃新兵 |
+| enemy_1382_winbal_2 | 访问团突击老兵 | Delegation Assault Veteran | 訪問団の突撃老兵 |
+| enemy_1383_windog | 发条巡逻机器 | Clockwork Patroller | ゼンマイ式巡査兵 |
+| enemy_1383_windog_2 | 发条战斗机器 | Clockwork Warrior | ゼンマイ式戦闘兵 |
+| enemy_1384_winfrz | 封冻高山驮兽 | Frozen Mountain Burdenbeast | カチコチ高山駄獣 |
+| enemy_1384_winfrz_2 | 沉眠高山驮兽 | Slumbering Mountain Burdenbeast | ガチガチ高山駄獣 |
+| enemy_1385_winbom | “喷射罐” | 'Jet Canister' | 「ジェットボンベ」 |
+| enemy_1385_winbom_2 | “喷爆罐” | 'Boom Canister' | 「ジェットボンバー」 |
+| enemy_1386_winmag | 访问团术师 | Delegation Caster | 訪問団の術師 |
+| enemy_1386_winmag_2 | 访问团术师长 | Delegation Caster Commander | 訪問団の術師長 |
+| enemy_1387_winshd | 访问团持盾者 | Delegation Shieldbearer | 訪問団の盾兵 |
+| enemy_1387_winshd_2 | 访问团持盾长 | Delegation Shieldbearer Captain | 訪問団の盾兵長 |
+| enemy_1388_wingnt | “投石机” | 'Catapult' | 「投石機」 |
+| enemy_1388_wingnt_2 | “榴弹炮” | 'Mortar' | 「榴弾砲」 |
+| enemy_1389_winbab | 访问团强攻手 | Delegation Centurion | 訪問団の強襲者 |
+| enemy_1389_winbab_2 | 访问团强攻冠军 | Delegation Centurion Champion | 訪問団の強襲王 |
 | enemy_1390_dhsbr | 秽 | - | - |
 | enemy_1390_dhsbr_2 | 除秽 | - | - |
 | enemy_1391_dhbow | 蚀 | - | - |
@@ -890,7 +890,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1546_cliff | “桥夹”克里夫 | 'Clip' Cliff | 「クリップ」クリフ |
 | enemy_1547_blord | 杜卡雷，“君主之红” | Duq'arael, 'Regent's Crimson' | Duq'arael・「君主の紅」 |
 | enemy_1548_ltniak | 赫尔昏佐伦，“巫王” | Herkunftshorn, 'Witch King' | Herkunftshorn・「巫王」 |
-| enemy_1549_windoc | 哈洛德·克雷加文 | - | - |
+| enemy_1549_windoc | 哈洛德·克雷加文 | Harold Craigavon | ハロルド・クレイガボン |
 | enemy_1550_dhnzzh | “祟” | - | - |
 | enemy_1551_bolicp | 马特奥上尉 | - | - |
 | enemy_1552_mmamiy | “阿米娅” | - | - |

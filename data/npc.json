@@ -700,6 +700,12 @@
     ]
   },
   "avg_194_leto_1": {
+    "en_US": [
+      "Leto"
+    ],
+    "ja_JP": [
+      "リェータ"
+    ],
     "zh_CN": [
       "烈夏"
     ]
@@ -1098,10 +1104,14 @@
   "avg_274_Astesia_1": {
     "en_US": [
       "Astesia",
+      "Astesia?",
+      "Astgenne",
       "Passerby Liberi"
     ],
     "ja_JP": [
       "アステシア",
+      "アステシア？",
+      "アステジーニ",
       "通りすがりのリーベリ"
     ],
     "zh_CN": [
@@ -2060,12 +2070,26 @@
     ]
   },
   "avg_4114_harold_1": {
+    "en_US": [
+      "Harold",
+      "Victorian Viscount"
+    ],
+    "ja_JP": [
+      "ハロルド",
+      "ヴィクトリア子爵"
+    ],
     "zh_CN": [
       "哈洛德",
       "维多利亚子爵"
     ]
   },
   "avg_4116_blkkgt_1": {
+    "en_US": [
+      "Degenbrecher"
+    ],
+    "ja_JP": [
+      "デーゲンブレヒャー"
+    ],
     "zh_CN": [
       "锏"
     ]
@@ -3118,6 +3142,7 @@
       "術師傭兵",
       "賞金ハンター",
       "賞金稼ぎ",
+      "賞金稼ぎA",
       "醜い暴徒",
       "闇市の商人",
       "闇市の商人A",
@@ -3253,6 +3278,7 @@
       "負傷した戦士",
       "貪欲な傭兵",
       "賞金稼ぎ",
+      "賞金稼ぎB",
       "錆槌戦士",
       "闇市の商人B",
       "闇市の追っ手B",
@@ -3877,6 +3903,7 @@
       "Rinz",
       "Shopkeeper",
       "Slum Infected",
+      "Spirited Tourist",
       "Staged(?) Female Passerby",
       "Trapped Lungmen Citizen",
       "Ye Zizhen",
@@ -3890,6 +3917,7 @@
       "ペニー",
       "リンツ",
       "事務員",
+      "元気な観光客",
       "女性住人",
       "女性旅行客",
       "女性観光客",
@@ -3990,6 +4018,7 @@
       "Shrewd Youth",
       "Slum Dweller",
       "Subordinate",
+      "Trembling Tourist",
       "Vicious-Looking Lou Seoi Member",
       "Young Citizen B",
       "Young Victim"
@@ -4005,6 +4034,7 @@
       "司会者",
       "困り顔の男性",
       "困惑しているファン",
+      "寒がりな観光客",
       "市民B",
       "強面な滷水幇",
       "怒る男性",
@@ -4662,11 +4692,13 @@
   "avg_npc_061": {
     "en_US": [
       "Blemishine",
+      "Foreign Tourist B",
       "Maria"
     ],
     "ja_JP": [
       "ブレミシャイン",
-      "マリア"
+      "マリア",
+      "外国人観光客B"
     ],
     "zh_CN": [
       "外国游客B",
@@ -4707,12 +4739,14 @@
   },
   "avg_npc_064_weapon_1": {
     "en_US": [
+      "Foreign Tourist A",
       "Maria",
       "Zofia"
     ],
     "ja_JP": [
       "ゾフィア",
-      "マリア"
+      "マリア",
+      "外国人観光客A"
     ],
     "zh_CN": [
       "佐菲娅",
@@ -6622,37 +6656,85 @@
     ]
   },
   "avg_npc_1156_1": {
+    "en_US": [
+      "Spokesman Mob"
+    ],
+    "ja_JP": [
+      "代弁者モーブ"
+    ],
     "zh_CN": [
       "发言人莫布"
     ]
   },
   "avg_npc_1157_1": {
+    "en_US": [
+      "Seasoned Soldier"
+    ],
+    "ja_JP": [
+      "老練の兵士"
+    ],
     "zh_CN": [
       "老练的士兵"
     ]
   },
   "avg_npc_1158_1": {
+    "en_US": [
+      "Lead Soldier",
+      "Silent Soldier"
+    ],
+    "ja_JP": [
+      "リーダーの兵士",
+      "寡黙な兵士"
+    ],
     "zh_CN": [
       "沉默的士兵",
       "领头的士兵"
     ]
   },
   "avg_npc_1159_1": {
+    "en_US": [
+      "Tatyana"
+    ],
+    "ja_JP": [
+      "タチアナ"
+    ],
     "zh_CN": [
       "塔季扬娜"
     ]
   },
   "avg_npc_1160_1": {
+    "en_US": [
+      "Elder Devotee"
+    ],
+    "ja_JP": [
+      "老修道士"
+    ],
     "zh_CN": [
       "老修士"
     ]
   },
   "avg_npc_1162_1": {
+    "en_US": [
+      "Karlan Trade Employee"
+    ],
+    "ja_JP": [
+      "カランド貿易職員"
+    ],
     "zh_CN": [
       "喀兰贸易员工"
     ]
   },
   "avg_npc_1163_1": {
+    "en_US": [
+      "Feisty Burdenbeast",
+      "Lily",
+      "Wild Burdenbeast"
+    ],
+    "ja_JP": [
+      "リリー",
+      "情熱的な駄獣",
+      "野生の駄獣"
+    ],
     "zh_CN": [
       "热情的驮兽",
       "莉莉",
@@ -7959,6 +8041,7 @@
       "Calm Councilor",
       "Caravan Head",
       "Cheery Actress",
+      "Curious Tourist",
       "Exhausted Viscount",
       "Female Designer",
       "Hesitant Ambassador",
@@ -7989,6 +8072,7 @@
       "短気なリターニア人",
       "美しい貴族",
       "自信溢れる貴族",
+      "興味津々な観光客",
       "落ち着いた議員",
       "親切そうな貴族",
       "貴族の女性",
@@ -8849,12 +8933,14 @@
       "A Staid Knight",
       "An Audience Knight",
       "An Escorting Knight",
+      "Annoyed Tourist",
       "Noble's Mercenary",
       "Patrolling Knight",
       "Search Team Member"
     ],
     "ja_JP": [
       "巡回騎士",
+      "悩む観光客",
       "抗議する騎士",
       "真面目な騎士",
       "観客席の騎士",
@@ -8971,6 +9057,7 @@
       "HR Employee",
       "Hamm",
       "Haughty Official",
+      "Karlan Trade Employee",
       "Kazimierz Representative",
       "Man in a Suit",
       "Manager",
@@ -8987,6 +9074,7 @@
     ],
     "ja_JP": [
       "カジミエーシュ代表",
+      "カランド貿易職員",
       "クライアント代表",
       "ジャン",
       "スタッフ",
@@ -9597,6 +9685,7 @@
       "Victorian Soldier B"
     ],
     "ja_JP": [
+      "ヴィクトリア兵",
       "ヴィクトリア兵A",
       "ヴィクトリア兵B",
       "ヴィクトリア兵士",
@@ -9648,10 +9737,12 @@
   },
   "avg_npc_251": {
     "en_US": [
+      "Hovering Stone",
       "Kjera"
     ],
     "ja_JP": [
-      "イェラ"
+      "イェラ",
+      "浮遊石"
     ],
     "zh_CN": [
       "悬浮石",
@@ -9831,10 +9922,14 @@
   },
   "avg_npc_272_1": {
     "en_US": [
-      "Kjerag Noble"
+      "Hospitable Villager",
+      "Kjerag Noble",
+      "Teacher"
     ],
     "ja_JP": [
-      "イェラグ貴族"
+      "もてなし好きの地元民",
+      "イェラグ貴族",
+      "家庭教師"
     ],
     "zh_CN": [
       "好客的老乡",
@@ -9843,12 +9938,20 @@
     ]
   },
   "avg_npc_273_1": {
+    "en_US": [
+      "Beautiful Woman"
+    ],
+    "ja_JP": [
+      "美しい女性"
+    ],
     "zh_CN": [
       "美丽的女性"
     ]
   },
   "avg_npc_274_1": {
     "en_US": [
+      "Chief's Wife",
+      "Fretful Wife",
       "Hawker B",
       "Karlan Trade Manager",
       "Kjerag Noble B"
@@ -9856,6 +9959,8 @@
     "ja_JP": [
       "イェラグ貴族B",
       "カランド貿易マネージャー",
+      "慌てた顔の夫人",
+      "部長夫人",
       "露店商B"
     ],
     "zh_CN": [
@@ -9868,10 +9973,25 @@
   },
   "avg_npc_275": {
     "en_US": [
-      "Tschäggättä"
+      "Burly Tschäggättä",
+      "Exhausted Tschäggättä",
+      "Frantic Tschäggättä",
+      "Out-of-Breath Tschäggättä",
+      "Pumped-Up Tschäggättä",
+      "Tschäggättä",
+      "Tschäggättä A",
+      "Tschäggättä B"
     ],
     "ja_JP": [
-      "「チェゲッタ」"
+      "「チェゲッタ」",
+      "チェゲッタ",
+      "チェゲッタA",
+      "チェゲッタB",
+      "息を切らすチェゲッタ",
+      "慌てるチェゲッタ",
+      "疲れ切ったチェゲッタ",
+      "身軽なチェゲッタ",
+      "闘志みなぎるチェゲッタ"
     ],
     "zh_CN": [
       "“山雪鬼”",
@@ -9887,10 +10007,14 @@
   },
   "avg_npc_276_1": {
     "en_US": [
-      "Aurora's Sister"
+      "Aurora's Sister",
+      "Conductor",
+      "Station Steward"
     ],
     "ja_JP": [
-      "オーロラの姉"
+      "オーロラの姉",
+      "乗務員",
+      "駅員"
     ],
     "zh_CN": [
       "列车员",
@@ -9900,14 +10024,28 @@
   },
   "avg_npc_277_1": {
     "en_US": [
+      "Bold Man",
+      "Competing Vendor",
       "Kjerag Civilian C",
       "Kjerag Commoner B",
-      "Paleroche Commoner A"
+      "Kjerag Youth",
+      "Lively Local",
+      "Meddlesome Villager",
+      "Paleroche Commoner A",
+      "Vintner?",
+      "Youth"
     ],
     "ja_JP": [
+      "イェラグの青年",
       "イェラグ民間人B",
       "イェラグ民間人C",
-      "ペイルロッシュ家領民A"
+      "ペイルロッシュ家領民A",
+      "ライバル商人",
+      "元気なイェラグ人",
+      "大胆な男性",
+      "物好きな地元民",
+      "酒商人？",
+      "青年"
     ],
     "zh_CN": [
       "佩尔罗契家平民A",
@@ -9924,14 +10062,32 @@
   },
   "avg_npc_278_1": {
     "en_US": [
+      "Burdenbeast Renter",
+      "Carefree Villager",
+      "Chief Kaj",
+      "Common Kjerag Man",
       "Kjerag Commoner D",
       "Kjerag Merchant",
-      "Kjerag Merchant B"
+      "Kjerag Merchant B",
+      "Kjerag Villager",
+      "Local Vendor",
+      "Paleroche Commoner",
+      "Server",
+      "Shocked Villager"
     ],
     "ja_JP": [
+      "のんびりした地元民",
+      "イェラグの地元民",
+      "イェラグ人男性",
       "イェラグ商人",
       "イェラグ商人B",
-      "イェラグ民間人D"
+      "イェラグ民間人D",
+      "カーハ部長",
+      "ペイルロッシュ家平民",
+      "従業員",
+      "特産品商",
+      "駄獣貸しの牧畜民",
+      "驚く地元民"
     ],
     "zh_CN": [
       "佩尔罗契家平民",
@@ -9950,16 +10106,26 @@
   },
   "avg_npc_279_1": {
     "en_US": [
+      "Burdenbeast Herder",
       "Elderly Pilgrim",
       "Hawker A",
+      "Kjerag Elder",
       "Lara's Father",
+      "Nail-Tender",
+      "Old Herdsman",
+      "Old Man",
       "Senior Subject"
     ],
     "ja_JP": [
+      "イェラグの老人",
       "ララの父",
       "巡礼する老人",
       "年長の領民",
-      "露店商A"
+      "爪の手入れ師",
+      "老人",
+      "老牧畜民",
+      "露店商A",
+      "駄獣を操る牧畜民"
     ],
     "zh_CN": [
       "修甲人",
@@ -9975,13 +10141,21 @@
   },
   "avg_npc_280_1": {
     "en_US": [
+      "Calm Local",
+      "Common Kjerag Woman",
       "Kjerag Civilian B",
       "Kjerag Noble B",
-      "Neighbor"
+      "Lively Staffer",
+      "Neighbor",
+      "Spectating Passenger"
     ],
     "ja_JP": [
+      "イェラグ人女性",
       "イェラグ民間人B",
       "イェラグ貴族B",
+      "冷静なイェラグ人",
+      "活発な職員",
+      "見物する乗客",
       "隣人"
     ],
     "zh_CN": [
@@ -9996,12 +10170,16 @@
   },
   "avg_npc_281_1": {
     "en_US": [
+      "Curious Woman",
+      "Irritated Mother",
       "Kjerag Commoner B",
       "Paleroche Commoner B"
     ],
     "ja_JP": [
       "イェラグ民間人B",
-      "ペイルロッシュ家領民B"
+      "ペイルロッシュ家領民B",
+      "焦る母親",
+      "興味津々な女性"
     ],
     "zh_CN": [
       "佩尔罗契家平民B",
@@ -10011,6 +10189,16 @@
     ]
   },
   "avg_npc_282_1": {
+    "en_US": [
+      "Curious Staffer",
+      "Passionate Villager",
+      "Shopkeeper"
+    ],
+    "ja_JP": [
+      "好奇心旺盛な職員",
+      "店主",
+      "親切な地元民"
+    ],
     "zh_CN": [
       "好奇的职员",
       "店主",
@@ -10021,6 +10209,7 @@
     "en_US": [
       "Browntail Clan Warrior",
       "Browntail Clan Warrior B",
+      "Guard?",
       "Kjerag Warrior",
       "Kjerag Warrior A",
       "Kjerag Warriors",
@@ -10039,7 +10228,8 @@
       "ブラウンテイル家戦士B",
       "ペイルロッシュ家戦士",
       "巡視員",
-      "若いイェラグ戦士"
+      "若いイェラグ戦士",
+      "護衛？"
     ],
     "zh_CN": [
       "佩尔罗契家战士",
@@ -10116,6 +10306,12 @@
     ]
   },
   "avg_npc_288_1": {
+    "en_US": [
+      "Enciodes"
+    ],
+    "ja_JP": [
+      "エンシオディス"
+    ],
     "zh_CN": [
       "恩希欧迪斯"
     ]
@@ -10133,9 +10329,11 @@
   },
   "avg_npc_290_1": {
     "en_US": [
-      "Boy Gnosis"
+      "Boy Gnosis",
+      "Gnosis"
     ],
     "ja_JP": [
+      "ノーシス",
       "少年ノーシス"
     ],
     "zh_CN": [
@@ -11097,17 +11295,24 @@
   "avg_npc_408_1": {
     "en_US": [
       "High-Ranking Officer",
+      "Slippery Soldier",
+      "Stern Soldier",
       "Veteran Officer",
       "Victorian Barracks Officer",
       "Victorian Officer",
-      "Victorian Soldier"
+      "Victorian Soldier",
+      "Victorian Soldier?"
     ],
     "ja_JP": [
+      "ずる賢い兵士",
       "ベテラン士官",
+      "ヴィクトリア兵",
       "ヴィクトリア兵士",
+      "ヴィクトリア兵？",
       "ヴィクトリア士官",
       "ヴィクトリア駐屯軍",
-      "上級士官"
+      "上級士官",
+      "精悍な兵士"
     ],
     "zh_CN": [
       "严肃的士兵",
@@ -11199,10 +11404,18 @@
   },
   "avg_npc_414_1": {
     "en_US": [
-      "Robben"
+      "Robben",
+      "Sickly Soldier",
+      "Somber Soldier",
+      "Victorian Soldier C",
+      "Victorian Soldier D"
     ],
     "ja_JP": [
-      "ロッベン"
+      "ロッベン",
+      "ヴィクトリア兵C",
+      "ヴィクトリア兵D",
+      "弱った兵士",
+      "暗い表情の兵士"
     ],
     "zh_CN": [
       "维多利亚士兵",
@@ -12248,6 +12461,7 @@
   "avg_npc_523_1": {
     "en_US": [
       "Cheerful Columbian",
+      "Deliveryman",
       "Driver",
       "Drunkard",
       "Frivolous Columbian",
@@ -12258,6 +12472,7 @@
       "Reporter?",
       "Rude Reporter",
       "Street Hawker",
+      "Surprised Tourist",
       "Suspicious Liberi",
       "Vice President's Secretary"
     ],
@@ -12274,7 +12489,9 @@
       "警官",
       "軽薄なクルビア人",
       "運転手",
-      "酔っぱらった男"
+      "配達員",
+      "酔っぱらった男",
+      "驚く観光客"
     ],
     "zh_CN": [
       "停尸间员工",
@@ -12301,6 +12518,7 @@
       "Beachbrella Field Staff",
       "Blacksteel Clerk",
       "Cheery Woman",
+      "Excited Tourist",
       "Impatient Reporter",
       "Nervous Entrepreneur",
       "Reporter",
@@ -12321,6 +12539,7 @@
       "活発な女性",
       "痩せた長身の女性",
       "緊張気味の起業家",
+      "興奮する観光客",
       "見知らぬ研究員",
       "記者",
       "記者A"
@@ -12405,11 +12624,13 @@
       "Rhine Lab Researcher",
       "Rhine Lab Tech",
       "Rhine Lab Tech A",
+      "Rhine Reception",
       "Rhine Researcher",
       "Rhine Staff",
       "Rhine Staff A"
     ],
     "ja_JP": [
+      "ライン生命受付",
       "ライン生命研究員",
       "ライン生命研究員A",
       "ライン生命職員",
@@ -13035,12 +13256,16 @@
     "en_US": [
       "'Kazimierzian'",
       "Campaign Knight",
+      "Campaign Knight A",
+      "Campaign Knight B",
       "Marsov"
     ],
     "ja_JP": [
       "「カジミエーシュ人」",
       "マルショフ",
-      "征戦騎士"
+      "征戦騎士",
+      "征戦騎士A",
+      "征戦騎士B"
     ],
     "zh_CN": [
       "“卡西米尔人”",
@@ -14399,12 +14624,18 @@
   },
   "avg_npc_867_1": {
     "en_US": [
+      "'John Smith'",
       "'Trilby Asher'",
-      "Behatted Person"
+      "'Trilby Asher' & Leto",
+      "Behatted Person",
+      "Foreigner With a Funny Hat"
     ],
     "ja_JP": [
       "「グレーシルクハット」",
-      "シルクハットの人物"
+      "「ジョン・スミス」",
+      "シルクハットの人物",
+      "二人",
+      "変な帽子の外国人"
     ],
     "zh_CN": [
       "“灰礼帽”",

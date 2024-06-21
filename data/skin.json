@@ -513,7 +513,7 @@
     "zh_CN": "染尘烟"
   },
   "char_201_moeshd@kfc#1": {
-    "en_US": "Seven in the Morning",
+    "en_US": "1899/12/30 7:00:00",
     "ja_JP": "7:00 a.m.",
     "zh_CN": "清晨七点"
   },
@@ -581,6 +581,8 @@
     "zh_CN": "无痕行者"
   },
   "char_212_ansel@epoque#29": {
+    "en_US": "Nighttime Café",
+    "ja_JP": "ナイトタイムカフェ",
     "zh_CN": "晚间咖啡店"
   },
   "char_212_ansel@summer#1": {
@@ -975,6 +977,8 @@
     "zh_CN": "伦式巫女"
   },
   "char_343_tknogi@snow#6": {
+    "en_US": "Dance",
+    "ja_JP": "舞",
     "zh_CN": "舞"
   },
   "char_344_beewax@epoque#9": {
@@ -1262,6 +1266,8 @@
     "zh_CN": "记叙"
   },
   "char_4065_judge@snow#6": {
+    "en_US": "Occasionally Flushed",
+    "ja_JP": "たまの深酒",
     "zh_CN": "偶尔醉陶"
   },
   "char_4066_highmo@nian#10": {
@@ -1434,6 +1440,8 @@
     "zh_CN": "全新业务"
   },
   "char_466_qanik@snow#6": {
+    "en_US": "Gratitude Gift",
+    "ja_JP": "返礼品",
     "zh_CN": "回礼"
   },
   "char_469_indigo@nian#7": {

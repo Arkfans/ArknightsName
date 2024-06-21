@@ -2717,39 +2717,63 @@
     "zh_CN": "规则教学-堡垒守御"
   },
   "act30side_01": {
+    "en_US": "Important Information",
+    "ja_JP": "乗車時のご注意",
     "zh_CN": "注意事项"
   },
   "act30side_02": {
+    "en_US": "Same Train, Different Destination",
+    "ja_JP": "同乗異心",
     "zh_CN": "同车异图"
   },
   "act30side_03": {
+    "en_US": "Temporary Stop",
+    "ja_JP": "臨時停車",
     "zh_CN": "临时停车"
   },
   "act30side_04": {
+    "en_US": "Back on Track",
+    "ja_JP": "軌道修正",
     "zh_CN": "重回正轨"
   },
   "act30side_05": {
+    "en_US": "Train Hopping",
+    "ja_JP": "不正乗車？",
     "zh_CN": "逃票？"
   },
   "act30side_06": {
+    "en_US": "Additional Ticket",
+    "ja_JP": "不正乗車の代償",
     "zh_CN": "补票！"
   },
   "act30side_07": {
+    "en_US": "Control Malfunction",
+    "ja_JP": "壊れたブレーキ",
     "zh_CN": "制动失灵"
   },
   "act30side_08": {
+    "en_US": "Terminal Velocity",
+    "ja_JP": "トップスピード",
     "zh_CN": "极限时速"
   },
   "act30side_st01": {
+    "en_US": "Waiting Room",
+    "ja_JP": "待合室",
     "zh_CN": "候车大厅"
   },
   "act30side_st02": {
+    "en_US": "Mountain Railway",
+    "ja_JP": "登山鉄道",
     "zh_CN": "登山铁道"
   },
   "act30side_st03": {
+    "en_US": "Final Destination",
+    "ja_JP": "終点",
     "zh_CN": "终点站"
   },
   "act30side_tr01": {
+    "en_US": "Behind the Safety Line",
+    "ja_JP": "黄色い線の内側",
     "zh_CN": "安全线内"
   },
   "act31side_01": {
@@ -3357,7 +3381,7 @@
     "zh_CN": "昏黑造船厂"
   },
   "camp_r_14": {
-    "en_US": "Research Base Hangar",
+    "en_US": "Research Base Hanger",
     "ja_JP": "実験基地の格納庫",
     "zh_CN": "实验基地机库"
   },

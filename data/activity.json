@@ -580,6 +580,8 @@
     "zh_CN": "罗德岛促融共竞"
   },
   "act30side": {
+    "en_US": "The Rides to Lake Silberneherze",
+    "ja_JP": "銀心湖鉄道",
     "zh_CN": "银心湖列车"
   },
   "act30sign": {
@@ -630,6 +632,8 @@
     "zh_CN": "步上双塔之时签到活动"
   },
   "act37sign": {
+    "en_US": "Limited-time Cumulative Sign-In",
+    "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
   "act38d1": {

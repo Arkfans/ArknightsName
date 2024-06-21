@@ -686,6 +686,8 @@
   "char_194_leto": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Leto",
+      "ja_JP": "リェータ",
       "zh_CN": "烈夏"
     }
   },
@@ -2084,12 +2086,16 @@
   "char_4114_harold": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Harold",
+      "ja_JP": "ハロルド",
       "zh_CN": "哈洛德"
     }
   },
   "char_4116_blkkgt": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Degenbrecher",
+      "ja_JP": "デーゲンブレヒャー",
       "zh_CN": "锏"
     }
   },
@@ -4086,12 +4092,16 @@
   "trap_137_winfire": {
     "type": "TRAP",
     "names": {
+      "en_US": "Emergency Heater",
+      "ja_JP": "非常用ストーブ",
       "zh_CN": "紧急供暖器"
     }
   },
   "trap_138_winstone": {
     "type": "TRAP",
     "names": {
+      "en_US": "Flint",
+      "ja_JP": "火打ち石",
       "zh_CN": "点火石"
     }
   },
@@ -6090,7 +6100,7 @@
   "char_201_moeshd@kfc#1": {
     "type": "SKIN",
     "names": {
-      "en_US": "Seven in the Morning",
+      "en_US": "1899/12/30 7:00:00",
       "ja_JP": "7:00 a.m.",
       "zh_CN": "清晨七点"
     }
@@ -6200,6 +6210,8 @@
   "char_212_ansel@epoque#29": {
     "type": "SKIN",
     "names": {
+      "en_US": "Nighttime Café",
+      "ja_JP": "ナイトタイムカフェ",
       "zh_CN": "晚间咖啡店"
     }
   },
@@ -6840,6 +6852,8 @@
   "char_343_tknogi@snow#6": {
     "type": "SKIN",
     "names": {
+      "en_US": "Dance",
+      "ja_JP": "舞",
       "zh_CN": "舞"
     }
   },
@@ -7310,6 +7324,8 @@
   "char_4065_judge@snow#6": {
     "type": "SKIN",
     "names": {
+      "en_US": "Occasionally Flushed",
+      "ja_JP": "たまの深酒",
       "zh_CN": "偶尔醉陶"
     }
   },
@@ -7602,6 +7618,8 @@
   "char_466_qanik@snow#6": {
     "type": "SKIN",
     "names": {
+      "en_US": "Gratitude Gift",
+      "ja_JP": "返礼品",
       "zh_CN": "回礼"
     }
   },
@@ -13746,108 +13764,144 @@
   "enemy_1381_winman": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Delegation Recruit",
+      "ja_JP": "訪問団の新兵",
       "zh_CN": "访问团新兵"
     }
   },
   "enemy_1381_winman_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Delegation Veteran",
+      "ja_JP": "訪問団の老兵",
       "zh_CN": "访问团老兵"
     }
   },
   "enemy_1382_winbal": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Delegation Assault Recruit",
+      "ja_JP": "訪問団の突撃新兵",
       "zh_CN": "访问团突击新兵"
     }
   },
   "enemy_1382_winbal_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Delegation Assault Veteran",
+      "ja_JP": "訪問団の突撃老兵",
       "zh_CN": "访问团突击老兵"
     }
   },
   "enemy_1383_windog": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Clockwork Patroller",
+      "ja_JP": "ゼンマイ式巡査兵",
       "zh_CN": "发条巡逻机器"
     }
   },
   "enemy_1383_windog_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Clockwork Warrior",
+      "ja_JP": "ゼンマイ式戦闘兵",
       "zh_CN": "发条战斗机器"
     }
   },
   "enemy_1384_winfrz": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Frozen Mountain Burdenbeast",
+      "ja_JP": "カチコチ高山駄獣",
       "zh_CN": "封冻高山驮兽"
     }
   },
   "enemy_1384_winfrz_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Slumbering Mountain Burdenbeast",
+      "ja_JP": "ガチガチ高山駄獣",
       "zh_CN": "沉眠高山驮兽"
     }
   },
   "enemy_1385_winbom": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Jet Canister'",
+      "ja_JP": "「ジェットボンベ」",
       "zh_CN": "“喷射罐”"
     }
   },
   "enemy_1385_winbom_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Boom Canister'",
+      "ja_JP": "「ジェットボンバー」",
       "zh_CN": "“喷爆罐”"
     }
   },
   "enemy_1386_winmag": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Delegation Caster",
+      "ja_JP": "訪問団の術師",
       "zh_CN": "访问团术师"
     }
   },
   "enemy_1386_winmag_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Delegation Caster Commander",
+      "ja_JP": "訪問団の術師長",
       "zh_CN": "访问团术师长"
     }
   },
   "enemy_1387_winshd": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Delegation Shieldbearer",
+      "ja_JP": "訪問団の盾兵",
       "zh_CN": "访问团持盾者"
     }
   },
   "enemy_1387_winshd_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Delegation Shieldbearer Captain",
+      "ja_JP": "訪問団の盾兵長",
       "zh_CN": "访问团持盾长"
     }
   },
   "enemy_1388_wingnt": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Catapult'",
+      "ja_JP": "「投石機」",
       "zh_CN": "“投石机”"
     }
   },
   "enemy_1388_wingnt_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Mortar'",
+      "ja_JP": "「榴弾砲」",
       "zh_CN": "“榴弹炮”"
     }
   },
   "enemy_1389_winbab": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Delegation Centurion",
+      "ja_JP": "訪問団の強襲者",
       "zh_CN": "访问团强攻手"
     }
   },
   "enemy_1389_winbab_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Delegation Centurion Champion",
+      "ja_JP": "訪問団の強襲王",
       "zh_CN": "访问团强攻冠军"
     }
   },
@@ -14806,6 +14860,8 @@
   "enemy_1549_windoc": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Harold Craigavon",
+      "ja_JP": "ハロルド・クレイガボン",
       "zh_CN": "哈洛德·克雷加文"
     }
   },
@@ -17054,6 +17110,8 @@
   "act30side": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "The Rides to Lake Silberneherze",
+      "ja_JP": "銀心湖鉄道",
       "zh_CN": "银心湖列车"
     }
   },
@@ -17140,6 +17198,8 @@
   "act37sign": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Limited-time Cumulative Sign-In",
+      "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
   },
@@ -19999,6 +20059,8 @@
   "act30side_token_box": {
     "type": "ITEM",
     "names": {
+      "en_US": "Burdenbeast Blind Box",
+      "ja_JP": "駄獣ミニフィギュア",
       "zh_CN": "驮兽盲盒"
     }
   },
@@ -22896,6 +22958,8 @@
   "p_char_194_leto": {
     "type": "ITEM",
     "names": {
+      "en_US": "Leto's Token",
+      "ja_JP": "リェータの印",
       "zh_CN": "烈夏的信物"
     }
   },
@@ -24262,12 +24326,16 @@
   "p_char_4114_harold": {
     "type": "ITEM",
     "names": {
+      "en_US": "Harold's Token",
+      "ja_JP": "ハロルドの印",
       "zh_CN": "哈洛德的信物"
     }
   },
   "p_char_4116_blkkgt": {
     "type": "ITEM",
     "names": {
+      "en_US": "Degenbrecher's Token",
+      "ja_JP": "デーゲンブレヒャーの印",
       "zh_CN": "锏的信物"
     }
   },
@@ -25806,6 +25874,8 @@
   "uni_set_samiRoom_2": {
     "type": "ITEM",
     "names": {
+      "en_US": "Sami Impressions Furniture Pack II",
+      "ja_JP": "サーミ風家具パックvol.2",
       "zh_CN": "萨米印象家具收藏包二"
     }
   },
@@ -27069,6 +27139,20 @@
       "ja_JP": "ロドスの道のり・邂逅"
     }
   },
+  "_ATTAIN_28_0_2": {
+    "type": "POOL",
+    "names": {
+      "en_US": "Celebration & Prospective",
+      "ja_JP": "ロドスの道のり・展望"
+    }
+  },
+  "_CLASSIC_28_0_1": {
+    "type": "POOL",
+    "names": {
+      "en_US": " Celebration - Kernel",
+      "ja_JP": "ロドスの道のり・中堅"
+    }
+  },
   "_CLASSIC_45_0_2": {
     "type": "POOL",
     "names": {
@@ -27702,6 +27786,13 @@
     "names": {
       "en_US": "From Gleams And Smoke I Emerge",
       "ja_JP": "煙塵に瞬く"
+    }
+  },
+  "_SINGLE_28_0_1": {
+    "type": "POOL",
+    "names": {
+      "en_US": "The Sojourner",
+      "ja_JP": "さすらう者"
     }
   },
   "skchr_absin_1": {
@@ -28349,18 +28440,24 @@
   "skchr_blkkgt_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Pure Force",
+      "ja_JP": "純粋なる力",
       "zh_CN": "纯粹的武力"
     }
   },
   "skchr_blkkgt_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Silent Derision",
+      "ja_JP": "声なき嘲笑",
       "zh_CN": "无声的嘲笑"
     }
   },
   "skchr_blkkgt_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Return To Silence",
+      "ja_JP": "静寂に帰す",
       "zh_CN": "归于宁静"
     }
   },
@@ -29723,6 +29820,8 @@
   "skchr_harold_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Triage",
+      "ja_JP": "重体優先",
       "zh_CN": "重症优先"
     }
   },
@@ -30373,6 +30472,8 @@
   "skchr_leto_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Answer the Call",
+      "ja_JP": "夏将軍の号令",
       "zh_CN": "一呼百应"
     }
   },
@@ -33135,6 +33236,8 @@
   "sktok_blizzard_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Blizzard",
+      "ja_JP": "猛吹雪",
       "zh_CN": "暴风雪"
     }
   },
@@ -35165,12 +35268,16 @@
   "sktok_winfire": {
     "type": "SKILL",
     "names": {
+      "en_US": "Ignite",
+      "ja_JP": "着火",
       "zh_CN": "点燃"
     }
   },
   "sktok_winstone": {
     "type": "SKILL",
     "names": {
+      "en_US": "Emergency Ignition",
+      "ja_JP": "緊急着火",
       "zh_CN": "紧急点燃"
     }
   },
@@ -39927,72 +40034,96 @@
   "act30side_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Important Information",
+      "ja_JP": "乗車時のご注意",
       "zh_CN": "注意事项"
     }
   },
   "act30side_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Same Train, Different Destination",
+      "ja_JP": "同乗異心",
       "zh_CN": "同车异图"
     }
   },
   "act30side_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Temporary Stop",
+      "ja_JP": "臨時停車",
       "zh_CN": "临时停车"
     }
   },
   "act30side_04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Back on Track",
+      "ja_JP": "軌道修正",
       "zh_CN": "重回正轨"
     }
   },
   "act30side_05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Train Hopping",
+      "ja_JP": "不正乗車？",
       "zh_CN": "逃票？"
     }
   },
   "act30side_06": {
     "type": "STAGE",
     "names": {
+      "en_US": "Additional Ticket",
+      "ja_JP": "不正乗車の代償",
       "zh_CN": "补票！"
     }
   },
   "act30side_07": {
     "type": "STAGE",
     "names": {
+      "en_US": "Control Malfunction",
+      "ja_JP": "壊れたブレーキ",
       "zh_CN": "制动失灵"
     }
   },
   "act30side_08": {
     "type": "STAGE",
     "names": {
+      "en_US": "Terminal Velocity",
+      "ja_JP": "トップスピード",
       "zh_CN": "极限时速"
     }
   },
   "act30side_st01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Waiting Room",
+      "ja_JP": "待合室",
       "zh_CN": "候车大厅"
     }
   },
   "act30side_st02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Mountain Railway",
+      "ja_JP": "登山鉄道",
       "zh_CN": "登山铁道"
     }
   },
   "act30side_st03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Final Destination",
+      "ja_JP": "終点",
       "zh_CN": "终点站"
     }
   },
   "act30side_tr01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Behind the Safety Line",
+      "ja_JP": "黄色い線の内側",
       "zh_CN": "安全线内"
     }
   },
@@ -41047,7 +41178,7 @@
   "camp_r_14": {
     "type": "STAGE",
     "names": {
-      "en_US": "Research Base Hangar",
+      "en_US": "Research Base Hanger",
       "ja_JP": "実験基地の格納庫",
       "zh_CN": "实验基地机库"
     }
@@ -46051,12 +46182,16 @@
   "act30side_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Platform No. 3",
+      "ja_JP": "3番ホーム",
       "zh_CN": "三号站台"
     }
   },
   "act30side_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Express Train",
+      "ja_JP": "特急列車",
       "zh_CN": "特快列车"
     }
   },
@@ -47137,6 +47272,8 @@
   "story_astesi_set_2_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Return to Radiance",
+      "ja_JP": "再び輝くために",
       "zh_CN": "复耀"
     }
   },
@@ -47815,6 +47952,8 @@
   "story_gnosis_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Starting Point",
+      "ja_JP": "起点",
       "zh_CN": "起点"
     }
   },
@@ -48095,6 +48234,8 @@
   "story_kjera_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "All She Cares About",
+      "ja_JP": "気に掛けるもの",
       "zh_CN": "祂所关心的"
     }
   },
@@ -48133,6 +48274,8 @@
   "story_leto_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Hide-and-Seek",
+      "ja_JP": "かくれんぼ",
       "zh_CN": "捉迷藏"
     }
   },

@@ -140,8 +140,8 @@ tip: 请善用浏览器的搜索功能
 | act29side_zone2 | 恩典永恒 | Die Gnade ist ewig | 恩寵は永遠に |
 | act29side_zone3 | 权威无情 | Die Macht ist grimm | 大権に情なく |
 | act2bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
-| act30side_zone1 | 三号站台 | - | - |
-| act30side_zone2 | 特快列车 | - | - |
+| act30side_zone1 | 三号站台 | Platform No. 3 | 3番ホーム |
+| act30side_zone2 | 特快列车 | Express Train | 特急列車 |
 | act31side_zone1 | 种植地块 | - | - |
 | act31side_zone2 | 荒城核心 | - | - |
 | act31side_zone3 | 大江北岸 | - | - |

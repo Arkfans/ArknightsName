@@ -558,18 +558,18 @@ tip: 请善用浏览器的搜索功能
 | act2vmulti-tr01 | 规则教学-常规项目 | - | - |
 | act2vmulti-tr02 | 规则教学-阵地足球 | - | - |
 | act2vmulti-tr03 | 规则教学-堡垒守御 | - | - |
-| act30side_01 | 注意事项 | - | - |
-| act30side_02 | 同车异图 | - | - |
-| act30side_03 | 临时停车 | - | - |
-| act30side_04 | 重回正轨 | - | - |
-| act30side_05 | 逃票？ | - | - |
-| act30side_06 | 补票！ | - | - |
-| act30side_07 | 制动失灵 | - | - |
-| act30side_08 | 极限时速 | - | - |
-| act30side_st01 | 候车大厅 | - | - |
-| act30side_st02 | 登山铁道 | - | - |
-| act30side_st03 | 终点站 | - | - |
-| act30side_tr01 | 安全线内 | - | - |
+| act30side_01 | 注意事项 | Important Information | 乗車時のご注意 |
+| act30side_02 | 同车异图 | Same Train, Different Destination | 同乗異心 |
+| act30side_03 | 临时停车 | Temporary Stop | 臨時停車 |
+| act30side_04 | 重回正轨 | Back on Track | 軌道修正 |
+| act30side_05 | 逃票？ | Train Hopping | 不正乗車？ |
+| act30side_06 | 补票！ | Additional Ticket | 不正乗車の代償 |
+| act30side_07 | 制动失灵 | Control Malfunction | 壊れたブレーキ |
+| act30side_08 | 极限时速 | Terminal Velocity | トップスピード |
+| act30side_st01 | 候车大厅 | Waiting Room | 待合室 |
+| act30side_st02 | 登山铁道 | Mountain Railway | 登山鉄道 |
+| act30side_st03 | 终点站 | Final Destination | 終点 |
+| act30side_tr01 | 安全线内 | Behind the Safety Line | 黄色い線の内側 |
 | act31side_01 | 赴大荒 | - | - |
 | act31side_02 | 祭神农 | - | - |
 | act31side_03 | 早芒种 | - | - |
@@ -718,7 +718,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_11 | 盘桓蜀道 | Lingering Shangshu Trails | 蜿蜒たる蜀道 |
 | camp_r_12 | 巧克力大街 | Chocolate Street | チョコストリート |
 | camp_r_13 | 昏黑造船厂 | Penumbra Shipyards | 暗き造船所 |
-| camp_r_14 | 实验基地机库 | Research Base Hangar | 実験基地の格納庫 |
+| camp_r_14 | 实验基地机库 | Research Base Hanger | 実験基地の格納庫 |
 | camp_r_15 | 龙门商业街 | Lungmen Commercial District | 龍門商店街 |
 | camp_r_16 | 休止符街道 | Rest Avenue | フェルマーテ通り |
 | camp_r_17 | 灰暗泥沼 | Ashy Marsh | 薄暗い泥沼 |

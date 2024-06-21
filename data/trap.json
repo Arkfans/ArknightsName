@@ -660,9 +660,13 @@
     "zh_CN": "创生之相"
   },
   "trap_137_winfire": {
+    "en_US": "Emergency Heater",
+    "ja_JP": "非常用ストーブ",
     "zh_CN": "紧急供暖器"
   },
   "trap_138_winstone": {
+    "en_US": "Flint",
+    "ja_JP": "火打ち石",
     "zh_CN": "点火石"
   },
   "trap_139_dhtl": {

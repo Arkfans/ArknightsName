@@ -103,6 +103,8 @@ tip: 请善用浏览器的搜索功能
 | SINGLE_51_0_1 | 沉向深渊的锚 | - | - |
 | _ATTAIN_15_2_1 | - | Celebrate & Recollect | ロドスの道のり　回顧 |
 | _ATTAIN_22_1_2 | - | Celebration & Link-Up | ロドスの道のり・邂逅 |
+| _ATTAIN_28_0_2 | - | Celebration & Prospective | ロドスの道のり・展望 |
+| _CLASSIC_28_0_1 | - |  Celebration - Kernel | ロドスの道のり・中堅 |
 | _CLASSIC_45_0_2 | 跨年欢庆·中坚 | - | - |
 | _LIMITED_10_2_1 | - | Deep Drown Lament | 深悼 |
 | _LIMITED_12_1_1 | - | Holiday Stars | ホリデースター |
@@ -194,3 +196,4 @@ tip: 请善用浏览器的搜索功能
 | _SINGLE_26_0_3 | - | Pathfinder of Sands | 砂漠の導き手 |
 | _SINGLE_26_0_5 | - | Clank Liberty | 銃声 |
 | _SINGLE_27_0_1 | - | From Gleams And Smoke I Emerge | 煙塵に瞬く |
+| _SINGLE_28_0_1 | - | The Sojourner | さすらう者 |

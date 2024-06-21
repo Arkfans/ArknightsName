@@ -655,9 +655,13 @@
     "zh_CN": "强敌当前"
   },
   "act30side_zone1": {
+    "en_US": "Platform No. 3",
+    "ja_JP": "3番ホーム",
     "zh_CN": "三号站台"
   },
   "act30side_zone2": {
+    "en_US": "Express Train",
+    "ja_JP": "特急列車",
     "zh_CN": "特快列车"
   },
   "act31side_zone1": {

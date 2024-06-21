@@ -3615,57 +3615,93 @@
     "zh_CN": "巫王乐团指挥家"
   },
   "enemy_1381_winman": {
+    "en_US": "Delegation Recruit",
+    "ja_JP": "訪問団の新兵",
     "zh_CN": "访问团新兵"
   },
   "enemy_1381_winman_2": {
+    "en_US": "Delegation Veteran",
+    "ja_JP": "訪問団の老兵",
     "zh_CN": "访问团老兵"
   },
   "enemy_1382_winbal": {
+    "en_US": "Delegation Assault Recruit",
+    "ja_JP": "訪問団の突撃新兵",
     "zh_CN": "访问团突击新兵"
   },
   "enemy_1382_winbal_2": {
+    "en_US": "Delegation Assault Veteran",
+    "ja_JP": "訪問団の突撃老兵",
     "zh_CN": "访问团突击老兵"
   },
   "enemy_1383_windog": {
+    "en_US": "Clockwork Patroller",
+    "ja_JP": "ゼンマイ式巡査兵",
     "zh_CN": "发条巡逻机器"
   },
   "enemy_1383_windog_2": {
+    "en_US": "Clockwork Warrior",
+    "ja_JP": "ゼンマイ式戦闘兵",
     "zh_CN": "发条战斗机器"
   },
   "enemy_1384_winfrz": {
+    "en_US": "Frozen Mountain Burdenbeast",
+    "ja_JP": "カチコチ高山駄獣",
     "zh_CN": "封冻高山驮兽"
   },
   "enemy_1384_winfrz_2": {
+    "en_US": "Slumbering Mountain Burdenbeast",
+    "ja_JP": "ガチガチ高山駄獣",
     "zh_CN": "沉眠高山驮兽"
   },
   "enemy_1385_winbom": {
+    "en_US": "'Jet Canister'",
+    "ja_JP": "「ジェットボンベ」",
     "zh_CN": "“喷射罐”"
   },
   "enemy_1385_winbom_2": {
+    "en_US": "'Boom Canister'",
+    "ja_JP": "「ジェットボンバー」",
     "zh_CN": "“喷爆罐”"
   },
   "enemy_1386_winmag": {
+    "en_US": "Delegation Caster",
+    "ja_JP": "訪問団の術師",
     "zh_CN": "访问团术师"
   },
   "enemy_1386_winmag_2": {
+    "en_US": "Delegation Caster Commander",
+    "ja_JP": "訪問団の術師長",
     "zh_CN": "访问团术师长"
   },
   "enemy_1387_winshd": {
+    "en_US": "Delegation Shieldbearer",
+    "ja_JP": "訪問団の盾兵",
     "zh_CN": "访问团持盾者"
   },
   "enemy_1387_winshd_2": {
+    "en_US": "Delegation Shieldbearer Captain",
+    "ja_JP": "訪問団の盾兵長",
     "zh_CN": "访问团持盾长"
   },
   "enemy_1388_wingnt": {
+    "en_US": "'Catapult'",
+    "ja_JP": "「投石機」",
     "zh_CN": "“投石机”"
   },
   "enemy_1388_wingnt_2": {
+    "en_US": "'Mortar'",
+    "ja_JP": "「榴弾砲」",
     "zh_CN": "“榴弹炮”"
   },
   "enemy_1389_winbab": {
+    "en_US": "Delegation Centurion",
+    "ja_JP": "訪問団の強襲者",
     "zh_CN": "访问团强攻手"
   },
   "enemy_1389_winbab_2": {
+    "en_US": "Delegation Centurion Champion",
+    "ja_JP": "訪問団の強襲王",
     "zh_CN": "访问团强攻冠军"
   },
   "enemy_1390_dhsbr": {
@@ -4195,6 +4231,8 @@
     "zh_CN": "赫尔昏佐伦，“巫王”"
   },
   "enemy_1549_windoc": {
+    "en_US": "Harold Craigavon",
+    "ja_JP": "ハロルド・クレイガボン",
     "zh_CN": "哈洛德·克雷加文"
   },
   "enemy_1550_dhnzzh": {

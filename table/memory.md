@@ -26,7 +26,7 @@ tip: 请善用浏览器的搜索功能
 | story_ascln_set_1_story_1 | 同行人 | - | - |
 | story_ash_set_1_story_1 | 旅伴 | - | - |
 | story_astesi_set_1_story_1 | 启明 | Revelation | 照らし出す光 |
-| story_astesi_set_2_story_1 | 复耀 | - | - |
+| story_astesi_set_2_story_1 | 复耀 | Return to Radiance | 再び輝くために |
 | story_aurora_set_1_story_1 | 她所见 | What She Saw | 彼女の見たいもの |
 | story_ayer_set_1_story_1 | 黄沙觅迹 | Seeker in the Sands | 黄砂の追跡 |
 | story_beewax_set_1_story_1 | 黄沙归途 | Trail of Sands | 黄砂の帰路 |
@@ -113,7 +113,7 @@ tip: 请善用浏览器的搜索功能
 | story_glassb_set_1_story_1 | 走吧，走吧 | Let's Go, Let's Go | さあ、行こう |
 | story_glassb_set_2_story_1 | 再见以前 | Before I Say Goodbye | いつかの日に別れを |
 | story_glider_set_1_story_1 | 苦涩的根茎 | A Bitterest Rhizome | 苦い根茎 |
-| story_gnosis_set_1_story_1 | 起点 | - | - |
+| story_gnosis_set_1_story_1 | 起点 | Starting Point | 起点 |
 | story_grani_set_1_story_1 | 穷途不返 | Once Rock Bottom... | 決して振り返らず |
 | story_gravel_set_1_story_1 | 梦中过往 | Past in Dreams | 過ぎ去りし日の夢 |
 | story_greyy2_set_1_story_1 | 撰写光明 | Light, He Wrote | 綴られる光 |
@@ -149,12 +149,12 @@ tip: 请善用浏览器的搜索功能
 | story_kazema_set_1_story_1 | 应为必为 | One Should, One Must | 為すべきこと |
 | story_kirara_set_1_story_1 | 隐藏结局 | Secret Ending | 隠しエンディング |
 | story_kirara_set_2_story_1 | 无伤通关 | No-Damage Clear | ノーダメージクリア |
-| story_kjera_set_1_story_1 | 祂所关心的 | - | - |
+| story_kjera_set_1_story_1 | 祂所关心的 | All She Cares About | 気に掛けるもの |
 | story_kroos_set_1_story_1 | 苹果 | Apples | 林檎 |
 | story_lava_set_1_story_1 | 姐妹 | 'Sisters' | 姉妹 |
 | story_lava_set_2_story_1 | 看护 | 'Caring' | 看病 |
 | story_leizi_set_1_story_1 | 司雷霆者 | One Who Controls Lightning | 雷を司る者 |
-| story_leto_set_1_story_1 | 捉迷藏 | - | - |
+| story_leto_set_1_story_1 | 捉迷藏 | Hide-and-Seek | かくれんぼ |
 | story_ling_set_1_story_1 | 醒时梦长 | From a Long Dream Woken | 白日の酔夢 |
 | story_lionhd_set_1_story_1 | 暗境求生 | Living in Darkness | 暗闇の生還 |
 | story_liskam_set_1_story_1 | 苹果派对准备中！ | 'Apple Pie Party, Now Preparing!' | リンゴパーティー準備中！ |

@@ -288,6 +288,14 @@
     "en_US": "Celebration & Link-Up",
     "ja_JP": "ロドスの道のり・邂逅"
   },
+  "_ATTAIN_28_0_2": {
+    "en_US": "Celebration & Prospective",
+    "ja_JP": "ロドスの道のり・展望"
+  },
+  "_CLASSIC_28_0_1": {
+    "en_US": " Celebration - Kernel",
+    "ja_JP": "ロドスの道のり・中堅"
+  },
   "_CLASSIC_45_0_2": {
     "zh_CN": "跨年欢庆·中坚"
   },
@@ -649,5 +657,9 @@
   "_SINGLE_27_0_1": {
     "en_US": "From Gleams And Smoke I Emerge",
     "ja_JP": "煙塵に瞬く"
+  },
+  "_SINGLE_28_0_1": {
+    "en_US": "The Sojourner",
+    "ja_JP": "さすらう者"
   }
 }

@@ -278,7 +278,7 @@ tip: 请善用浏览器的搜索功能
 | act2bossrush_relic_04 | 调优重载 | Optimize Load | 積載調節 |
 | act2bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
 | act2vmulti_token_cap | 参赛纪念 | - | - |
-| act30side_token_box | 驮兽盲盒 | - | - |
+| act30side_token_box | 驮兽盲盒 | Burdenbeast Blind Box | 駄獣ミニフィギュア |
 | act31side_token_box | 天桩 | - | - |
 | act32side_token_stamp | 艺术馆集章卡 | - | - |
 | act33side_token_sugar | 粗制糖块 | - | - |
@@ -651,7 +651,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_190_clour | 红云的信物 | Vermeil's Token | ヴァーミルの印 |
 | p_char_192_falco | 翎羽的信物 | Plume's Token | プリュムの印 |
 | p_char_193_frostl | 霜叶的信物 | Frostleaf's Token | フロストリーフの印 |
-| p_char_194_leto | 烈夏的信物 | - | - |
+| p_char_194_leto | 烈夏的信物 | Leto's Token | リェータの印 |
 | p_char_195_glassb | 真理的信物 | Istina's Token | イースチナの印 |
 | p_char_196_sunbr | 古米的信物 | Gummy's Token | グムの印 |
 | p_char_197_poca | 早露的信物 | Rosa's Token | ロサの印 |
@@ -823,8 +823,8 @@ tip: 请善用浏览器的搜索功能
 | p_char_4107_vrdant | 维荻的信物 | Verdant's Token | ヴァーダントの印 |
 | p_char_4109_baslin | 深律的信物 | Bassline's Token | ベースラインの印 |
 | p_char_4110_delphn | 戴菲恩的信物 | Delphine's Token | デルフィーンの印 |
-| p_char_4114_harold | 哈洛德的信物 | - | - |
-| p_char_4116_blkkgt | 锏的信物 | - | - |
+| p_char_4114_harold | 哈洛德的信物 | Harold's Token | ハロルドの印 |
+| p_char_4116_blkkgt | 锏的信物 | Degenbrecher's Token | デーゲンブレヒャーの印 |
 | p_char_4117_ray | 莱伊的信物 | - | - |
 | p_char_4119_wanqin | 万顷的信物 | - | - |
 | p_char_411_tomimi | 特米米的信物 | Tomimi's Token | トミミの印 |
@@ -1023,7 +1023,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_prison | 孤岛风云家具收藏包 | Mansfield Break Furniture Pack | 孤島激震家具パック |
 | uni_set_reception | 龙门风情茶室家具收藏包 | Lungmen Tearoom Furniture Collection Set | 龍門茶室家具パック |
 | uni_set_samiRoom_1 | 萨米印象家具收藏包一 | Sami Impressions Furniture Pack I | サーミ風家具パックvol.1 |
-| uni_set_samiRoom_2 | 萨米印象家具收藏包二 | - | - |
+| uni_set_samiRoom_2 | 萨米印象家具收藏包二 | Sami Impressions Furniture Pack II | サーミ風家具パックvol.2 |
 | uni_set_stage | 风雪过境家具收藏包 | Break the Ice Furniture Pack | 風雪一過家具パック |
 | uni_set_teaHouse | 将进酒家具收藏包 | - | - |
 | uni_set_westCoast | 多索雷斯假日家具收藏包 | Dossoles Holiday Furniture Pack | ドッソレスホリデー家具パック |

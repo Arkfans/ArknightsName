@@ -127,7 +127,7 @@ tip: 请善用浏览器的搜索功能
 | act2signvs | 端阳正午签到活动 | - | - |
 | act2switch | 登览锦绣合作活动 | View From Above Collaboration Event | 山河一望コラボ |
 | act2vmulti | 罗德岛促融共竞 | - | - |
-| act30side | 银心湖列车 | - | - |
+| act30side | 银心湖列车 | The Rides to Lake Silberneherze | 銀心湖鉄道 |
 | act30sign | 秋风送爽限时登录活动 | Snow Upon Autumnal Winds Limited Login Event | 早春の風スタンプラリー |
 | act31side | 怀黍离 | - | - |
 | act31sign | 正逢雨季限时登录活动 | Rain Season Limited Login Event | 長雨の候スタンプラリー |
@@ -139,7 +139,7 @@ tip: 请善用浏览器的搜索功能
 | act34sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act35sign | 清光邀月——月饼烘焙小教程 | Moonlight Invite - Mooncake-Making Tutorial | 清風明月-ロドス点心教室 |
 | act36sign | 步上双塔之时签到活动 | Climbing the Twin Spires Sign-In Event | 双塔の高みを目指してスタンプラリー |
-| act37sign | 限时累计签到 | - | - |
+| act37sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act38d1 | 尖灭测试作战 | Pinch-Out Experimental Operation | 尖滅試験作戦 |
 | act38sign | 明日方舟X彩虹六号：围攻签到活动 | - | - |
 | act39sign | 限时累计签到 | - | - |

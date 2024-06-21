@@ -112,7 +112,7 @@ tip: 请善用浏览器的搜索功能
 | char_2013_cerber@whirlwind#2 | 无拘无束 | Unfettered | 自由奔放 |
 | char_2014_nian@nian#4 | 乐逍遥 | Unfettered Freedom | 楽逍遥 |
 | char_2015_dusk@nian#7 | 染尘烟 | Everything Is a Miracle | 染塵煙 |
-| char_201_moeshd@kfc#1 | 清晨七点 | Seven in the Morning | 7:00 a.m. |
+| char_201_moeshd@kfc#1 | 清晨七点 | 1899/12/30 7:00:00 | 7:00 a.m. |
 | char_201_moeshd@summer#4 | 探寻者 SK03 | Seeker SK03 | シーカーSK03 |
 | char_2023_ling@ncg#1 | 崖高梦远 | Towering is Cliff of Nostalgia | 崖高く夢遠し |
 | char_2023_ling@nian#9 | 濯缨 | It Does Wash the Strings | 濯冠纓 |
@@ -126,7 +126,7 @@ tip: 请善用浏览器的搜索功能
 | char_209_ardign@snow#1 | 快乐卫士 | Cheerful Guardian | ハッピーナイト |
 | char_210_stward@sale#6 | 风雪邀请 | Snowstorm Invitation | 風雪のいざない |
 | char_211_adnach@sale#5 | 无痕行者 | Traceless Walker | 足跡なき使者 |
-| char_212_ansel@epoque#29 | 晚间咖啡店 | - | - |
+| char_212_ansel@epoque#29 | 晚间咖啡店 | Nighttime Café | ナイトタイムカフェ |
 | char_212_ansel@summer#1 | 悠然假日 HDm06 | Casual Vacation HDm06 | ホリデーHDm06 |
 | char_213_mostma@epoque#5 | 除魅 | Spellbreaker | 魑魅払い |
 | char_214_kafka@snow#3 | 纸板仙子 | Cardboard Fairy | 紙細工の妖精 |
@@ -208,7 +208,7 @@ tip: 请善用浏览器的搜索功能
 | char_340_shwaz@striker#1 | 天际线 | Skyline | スカイライン |
 | char_341_sntlla@summer#15 | 悠然假日 HD71 | - | - |
 | char_343_tknogi@epoque#9 | 伦式巫女 | Londinium Style Miko | ロンディニウム式巫女 |
-| char_343_tknogi@snow#6 | 舞 | - | - |
+| char_343_tknogi@snow#6 | 舞 | Dance | 舞 |
 | char_344_beewax@epoque#9 | 白沙 | Weißer Sand | ホワイトサンド |
 | char_344_beewax@summer#11 | 悠然假日 HD61 | Holiday HD61 | ホリデーHD61 |
 | char_345_folnic@wild#4 | 残葛 | Lasting Arrowroot | 残葛 |
@@ -269,7 +269,7 @@ tip: 请善用浏览器的搜索功能
 | char_405_absin@epoque#28 | 正午余光 | Noon Twilight | 真昼の残照 |
 | char_4064_mlynar@epoque#28 | 远路 | W Dali | 遠き道のり |
 | char_4065_judge@epoque#33 | 记叙 | - | - |
-| char_4065_judge@snow#6 | 偶尔醉陶 | - | - |
+| char_4065_judge@snow#6 | 偶尔醉陶 | Occasionally Flushed | たまの深酒 |
 | char_4066_highmo@nian#10 | 及山海 | - | - |
 | char_4071_peper@whirlwind#5 | 来路 | The Road to Here | 来た道 |
 | char_4072_ironmn@summer#11 | 沙滩护卫 GT003 | Beach Guard GT003 | 砂浜の番人GT003 |
@@ -309,7 +309,7 @@ tip: 请善用浏览器的搜索功能
 | char_456_ash@rainbow6#1 | 游侠 | Ranger | レンジャー |
 | char_459_tachak@rainbow6#1 | 领主 | Lord | ロード |
 | char_464_cement@epoque#31 | 全新业务 | - | - |
-| char_466_qanik@snow#6 | 回礼 | - | - |
+| char_466_qanik@snow#6 | 回礼 | Gratitude Gift | 返礼品 |
 | char_469_indigo@nian#7 | 待晴日 | Serene Day | 待晴日 |
 | char_472_pasngr@epoque#17 | 今昔须臾之梦 | Dream In A Moment | 玉響の今在 |
 | char_473_mberry@epoque#14 | 植药 | Plant Crude Drug | 薬師 |

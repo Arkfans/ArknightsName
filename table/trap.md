@@ -137,8 +137,8 @@ tip: 请善用浏览器的搜索功能
 | trap_134_condtr | 调谐节点 | Tuning Node | 調律器 |
 | trap_135_portlent | 湮灭之相 | Aspect of Annihilation | 湮滅の相 |
 | trap_136_portlexi | 创生之相 | Aspect of Creation | 創生の相 |
-| trap_137_winfire | 紧急供暖器 | - | - |
-| trap_138_winstone | 点火石 | - | - |
+| trap_137_winfire | 紧急供暖器 | Emergency Heater | 非常用ストーブ |
+| trap_138_winstone | 点火石 | Flint | 火打ち石 |
 | trap_139_dhtl | 阻流阀 | - | - |
 | trap_140_dhsb | 泵站 | - | - |
 | trap_141_sheltr | 封阻物 | - | - |

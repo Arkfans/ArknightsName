@@ -396,12 +396,18 @@
     "zh_CN": "突破防线"
   },
   "skchr_blkkgt_1": {
+    "en_US": "Pure Force",
+    "ja_JP": "純粋なる力",
     "zh_CN": "纯粹的武力"
   },
   "skchr_blkkgt_2": {
+    "en_US": "Silent Derision",
+    "ja_JP": "声なき嘲笑",
     "zh_CN": "无声的嘲笑"
   },
   "skchr_blkkgt_3": {
+    "en_US": "Return To Silence",
+    "ja_JP": "静寂に帰す",
     "zh_CN": "归于宁静"
   },
   "skchr_blkngt_1": {
@@ -1242,6 +1248,8 @@
     "zh_CN": "沉溺之灾"
   },
   "skchr_harold_2": {
+    "en_US": "Triage",
+    "ja_JP": "重体優先",
     "zh_CN": "重症优先"
   },
   "skchr_hbisc2_2": {
@@ -1646,6 +1654,8 @@
     "zh_CN": "苦修破誓"
   },
   "skchr_leto_2": {
+    "en_US": "Answer the Call",
+    "ja_JP": "夏将軍の号令",
     "zh_CN": "一呼百应"
   },
   "skchr_lin_1": {
@@ -3346,6 +3356,8 @@
     "zh_CN": "暴风雪"
   },
   "sktok_blizzard_2": {
+    "en_US": "Blizzard",
+    "ja_JP": "猛吹雪",
     "zh_CN": "暴风雪"
   },
   "sktok_blkngt_hypnos_s_1": {
@@ -4578,9 +4590,13 @@
     "zh_CN": "可靠电池"
   },
   "sktok_winfire": {
+    "en_US": "Ignite",
+    "ja_JP": "着火",
     "zh_CN": "点燃"
   },
   "sktok_winstone": {
+    "en_US": "Emergency Ignition",
+    "ja_JP": "緊急着火",
     "zh_CN": "紧急点燃"
   },
   "sktok_wisdel_wward": {
