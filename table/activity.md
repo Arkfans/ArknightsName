@@ -112,6 +112,7 @@ tip: 请善用浏览器的搜索功能
 | act25sre | 孤星·复刻 | - | - |
 | act26side | 空想花庭 | Hortus de Escapismo | 空想の花庭 |
 | act26sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
+| act26sre | 空想花庭·复刻 | - | - |
 | act27side | 火山旅梦 | So Long, Adele: Home Away From Home | 火山と雲と夢色の旅路 |
 | act27sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act28side | 不义之财 | Come Catastrophes or Wakes of Vultures | ダーティマネー |

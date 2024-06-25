@@ -1023,6 +1023,7 @@ tip: 请善用浏览器的搜索功能
 | char_492_quercu@witch#4 | 树影吟游 | The Bard's Tale | 木陰の吟遊詩人 |
 | char_496_wildmn@epoque#16 | 正义缔造者 | Justice Maker | ジャスティスメーカー |
 | char_497_ctable@nian#9 | 灯如昼 | Illumination That of Daylights | 灯如昼 |
+| char_498_inside@kitchen#2 | 甜品大奖 | - | - |
 | ambienceSynesthesia | 音律联觉 | Ambience Synesthesia | 音律聯覚 |
 | boc | 斗争血脉 | Bloodline of Combat | 闘争の血脈 |
 | crossover | 合作款 | Collab Series | コラボ |
@@ -2217,6 +2218,7 @@ tip: 请善用浏览器的搜索功能
 | act25sre | 孤星·复刻 | - | - |
 | act26side | 空想花庭 | Hortus de Escapismo | 空想の花庭 |
 | act26sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
+| act26sre | 空想花庭·复刻 | - | - |
 | act27side | 火山旅梦 | So Long, Adele: Home Away From Home | 火山と雲と夢色の旅路 |
 | act27sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act28side | 不义之财 | Come Catastrophes or Wakes of Vultures | ダーティマネー |
@@ -2595,6 +2597,7 @@ tip: 请善用浏览器的搜索功能
 | act25side_token_key01 | 特殊作战许可·α | Special Ops Permit α | 特殊作戦許可α |
 | act25side_token_key02 | 特殊作战许可·β | Special Ops Permit β | 特殊作戦許可β |
 | act26side_token_fragmenta | 圣像碎片 | Holy Statue Fragments | 聖像のかけら |
+| act26side_token_fragmenta_rep_1 | 圣像碎片 | - | - |
 | act27side_token_fur | 毛绒绒生物的毛 | Fluffy Critter Wool | ピンクのふわふわ |
 | act28side_token_box | 劣质燃料 | Shoddy Fuel | 粗悪燃料 |
 | act29side_frag_1 | 乐之节符 | Note of Joy | 楽の音符 |
@@ -3536,6 +3539,7 @@ tip: 请善用浏览器的搜索功能
 | SINGLE_45_0_7 | 一线微明 | - | - |
 | SINGLE_49_0_1 | 如死亦终 | - | - |
 | SINGLE_51_0_1 | 沉向深渊的锚 | - | - |
+| SINGLE_51_0_4 | 执裁者 | - | - |
 | _ATTAIN_15_2_1 | - | Celebrate & Recollect | ロドスの道のり　回顧 |
 | _ATTAIN_22_1_2 | - | Celebration & Link-Up | ロドスの道のり・邂逅 |
 | _ATTAIN_28_0_2 | - | Celebration & Prospective | ロドスの道のり・展望 |
@@ -5372,6 +5376,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_20 | 千嶂边城 | - | - |
 | camp_r_21 | 新旅店大道 | - | - |
 | camp_r_22 | “离心率”实验室 | - | - |
+| camp_r_23 | 燃烧街区 | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |
 | hard_05-02 | 炼狱行动-2 | Operation Inferno-2 | 煉獄作戦-2 |
 | hard_05-03 | 炼狱行动-3 | Operation Inferno-3 | 煉獄作戦-3 |
@@ -5996,6 +6001,8 @@ tip: 请善用浏览器的搜索功能
 | act25sre_zone3 | 紧握当下 | - | - |
 | act26side_zone1 | 安布罗修修道院 | Sanctilaminium Ambrosii | アンブロシウス修道院 |
 | act26side_zone2 | 废弃圣堂 | Sacrarium Derelictum | 廃聖堂 |
+| act26sre_zone1 | 安布罗修修道院 | - | - |
+| act26sre_zone2 | 废弃圣堂 | - | - |
 | act27side_zone1 | 温泉假日 | A Holiday at the Hot Springs | 温泉リゾート |
 | act27side_zone2 | 城市寻宝 | Treasurehunting in Siesta | トレジャーハント |
 | act27side_zone3 | 岩浆冲浪 | Surfing the Lava | マグマサーフィン |
@@ -6077,6 +6084,8 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_19_zone2 | 关外追凶 | - | - |
 | permanent_sidestory_1_zone1 | 滴水村周边 | Dewville Outskirts | 滴水村周辺 |
 | permanent_sidestory_1_zone2 | 宝藏之路 | Path to Treasure | 宝への道 |
+| permanent_sidestory_20_zone1 | 安布罗修修道院 | - | - |
+| permanent_sidestory_20_zone2 | 废弃圣堂 | - | - |
 | permanent_sidestory_21_zone1 | 连阴雨季 | Stagione delle Piogge | 暗い長雨 |
 | permanent_sidestory_21_zone2 | 铳与秩序 | Pistole e Ordine | 銃と秩序 |
 | permanent_sidestory_21_zone3 | 自诩荒野 | Terra Desolata Autoproclamata | 荒野を名乗る者 |

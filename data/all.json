@@ -7795,6 +7795,12 @@
       "zh_CN": "灯如昼"
     }
   },
+  "char_498_inside@kitchen#2": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "甜品大奖"
+    }
+  },
   "ambienceSynesthesia": {
     "type": "BRAND",
     "names": {
@@ -16991,6 +16997,12 @@
       "zh_CN": "限时累计签到"
     }
   },
+  "act26sre": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "空想花庭·复刻"
+    }
+  },
   "act27side": {
     "type": "ACTIVITY",
     "names": {
@@ -19943,6 +19955,12 @@
     "names": {
       "en_US": "Holy Statue Fragments",
       "ja_JP": "聖像のかけら",
+      "zh_CN": "圣像碎片"
+    }
+  },
+  "act26side_token_fragmenta_rep_1": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "圣像碎片"
     }
   },
@@ -27123,6 +27141,12 @@
     "type": "POOL",
     "names": {
       "zh_CN": "沉向深渊的锚"
+    }
+  },
+  "SINGLE_51_0_4": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "执裁者"
     }
   },
   "_ATTAIN_15_2_1": {
@@ -41241,6 +41265,12 @@
       "zh_CN": "“离心率”实验室"
     }
   },
+  "camp_r_23": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "燃烧街区"
+    }
+  },
   "hard_05-01": {
     "type": "STAGE",
     "names": {
@@ -46107,6 +46137,18 @@
       "zh_CN": "废弃圣堂"
     }
   },
+  "act26sre_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "安布罗修修道院"
+    }
+  },
+  "act26sre_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "废弃圣堂"
+    }
+  },
   "act27side_zone1": {
     "type": "ZONE",
     "names": {
@@ -46721,6 +46763,18 @@
       "en_US": "Path to Treasure",
       "ja_JP": "宝への道",
       "zh_CN": "宝藏之路"
+    }
+  },
+  "permanent_sidestory_20_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "安布罗修修道院"
+    }
+  },
+  "permanent_sidestory_20_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "废弃圣堂"
     }
   },
   "permanent_sidestory_21_zone1": {

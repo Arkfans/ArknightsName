@@ -101,6 +101,7 @@ tip: 请善用浏览器的搜索功能
 | SINGLE_45_0_7 | 一线微明 | - | - |
 | SINGLE_49_0_1 | 如死亦终 | - | - |
 | SINGLE_51_0_1 | 沉向深渊的锚 | - | - |
+| SINGLE_51_0_4 | 执裁者 | - | - |
 | _ATTAIN_15_2_1 | - | Celebrate & Recollect | ロドスの道のり　回顧 |
 | _ATTAIN_22_1_2 | - | Celebration & Link-Up | ロドスの道のり・邂逅 |
 | _ATTAIN_28_0_2 | - | Celebration & Prospective | ロドスの道のり・展望 |

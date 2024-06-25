@@ -609,6 +609,12 @@
     "ja_JP": "廃聖堂",
     "zh_CN": "废弃圣堂"
   },
+  "act26sre_zone1": {
+    "zh_CN": "安布罗修修道院"
+  },
+  "act26sre_zone2": {
+    "zh_CN": "废弃圣堂"
+  },
   "act27side_zone1": {
     "en_US": "A Holiday at the Hot Springs",
     "ja_JP": "温泉リゾート",
@@ -981,6 +987,12 @@
     "en_US": "Path to Treasure",
     "ja_JP": "宝への道",
     "zh_CN": "宝藏之路"
+  },
+  "permanent_sidestory_20_zone1": {
+    "zh_CN": "安布罗修修道院"
+  },
+  "permanent_sidestory_20_zone2": {
+    "zh_CN": "废弃圣堂"
   },
   "permanent_sidestory_21_zone1": {
     "en_US": "Stagione delle Piogge",

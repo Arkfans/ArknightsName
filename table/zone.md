@@ -131,6 +131,8 @@ tip: 请善用浏览器的搜索功能
 | act25sre_zone3 | 紧握当下 | - | - |
 | act26side_zone1 | 安布罗修修道院 | Sanctilaminium Ambrosii | アンブロシウス修道院 |
 | act26side_zone2 | 废弃圣堂 | Sacrarium Derelictum | 廃聖堂 |
+| act26sre_zone1 | 安布罗修修道院 | - | - |
+| act26sre_zone2 | 废弃圣堂 | - | - |
 | act27side_zone1 | 温泉假日 | A Holiday at the Hot Springs | 温泉リゾート |
 | act27side_zone2 | 城市寻宝 | Treasurehunting in Siesta | トレジャーハント |
 | act27side_zone3 | 岩浆冲浪 | Surfing the Lava | マグマサーフィン |
@@ -212,6 +214,8 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_19_zone2 | 关外追凶 | - | - |
 | permanent_sidestory_1_zone1 | 滴水村周边 | Dewville Outskirts | 滴水村周辺 |
 | permanent_sidestory_1_zone2 | 宝藏之路 | Path to Treasure | 宝への道 |
+| permanent_sidestory_20_zone1 | 安布罗修修道院 | - | - |
+| permanent_sidestory_20_zone2 | 废弃圣堂 | - | - |
 | permanent_sidestory_21_zone1 | 连阴雨季 | Stagione delle Piogge | 暗い長雨 |
 | permanent_sidestory_21_zone2 | 铳与秩序 | Pistole e Ordine | 銃と秩序 |
 | permanent_sidestory_21_zone3 | 自诩荒野 | Terra Desolata Autoproclamata | 荒野を名乗る者 |
