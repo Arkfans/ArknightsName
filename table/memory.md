@@ -15,7 +15,7 @@ tip: 请善用浏览器的搜索功能
 | story_amgoat_set_2_story_1 | 火山 | Volcano | 火山 |
 | story_angel_set_1_story_1 | 来信 | Incoming Mail | 届いた手紙 |
 | story_angel_set_2_story_1 | 改变中的不变 | Constants Within Changes | 変化中の不変 |
-| story_ansel_set_1_story_1 | 身为医者 | - | 医者として |
+| story_ansel_set_1_story_1 | 身为医者 | As A Medic | 医者として |
 | story_aosta_set_1_story_1 | 编织来日 | Future Woven | 明日を紡ぐ |
 | story_aprl_set_1_story_1 | 猎人的视线 | Hunter's Vision | 狩人の視線 |
 | story_aprot2_set_1_story_1 | 那一场戏 | The Play That Was | あの日の演目 |
@@ -49,8 +49,8 @@ tip: 请善用浏览器的搜索功能
 | story_brownb_set_1_story_1 | 终场铃声 | Ending Bell | 決着のゴング |
 | story_bryota_set_1_story_1 | 风情街的日与夜 | Day & Night at Fashion Street | 商店街の日々 |
 | story_bstalk_set_1_story_1 | 呼唤荒野 | The Wilds Do They Call | 荒野への呼びかけ |
-| story_bubble_set_1_story_1 | 勇者的试炼 | - | 戦士の試練 |
-| story_buildr_set_1_story_1 | 复还的羽兽 | - | 戻ってきた羽獣 |
+| story_bubble_set_1_story_1 | 勇者的试炼 | Trial For The Brave | 戦士の試練 |
+| story_buildr_set_1_story_1 | 复还的羽兽 | The Fowlbeast That Returned | 戻ってきた羽獣 |
 | story_cammou_set_1_story_1 | 无人工房 | Unmanned Workshop | 無人工場 |
 | story_caper_set_1_story_1 | 快乐之地 | - | - |
 | story_cast3_set_1_story_1 | 不朽 | Immortal | 不朽 |
@@ -172,7 +172,7 @@ tip: 请善用浏览器的搜索功能
 | story_mberry_set_1_story_1 | 平安祈愿 | A Prayer for Peace | 安全祈願 |
 | story_medic2_set_1_story_1 | 一个涂鸦 | A Piece of Graffiti | ある落書き |
 | story_melan_set_1_story_1 | 小队长 | Team Captain | 小隊長 |
-| story_melnte_set_1_story_1 | 失去的时光 | - | 失った時間 |
+| story_melnte_set_1_story_1 | 失去的时光 | Lost Time | 失った時間 |
 | story_meteo_set_1_story_1 | 一星萤火 | Firefly's Light | 一灯の蛍火 |
 | story_mgllan_set_1_story_1 | 生生不息 | Cycle of Life | 命は巡る |
 | story_midn_set_1_story_1 | 一封家书 | Letter From Home | 故郷からの便り |

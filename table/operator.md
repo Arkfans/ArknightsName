@@ -251,7 +251,7 @@ tip: 请善用浏览器的搜索功能
 | char_4078_bdhkgt | 截云 | Jieyun | ジエユン |
 | char_4079_haini | 海霓 | - | - |
 | char_4080_lin | 林 | Lin | リン |
-| char_4081_warmy | 温米 | - | ウォーミー |
+| char_4081_warmy | 温米 | Warmy | ウォーミー |
 | char_4082_qiubai | 仇白 | Qiubai | チューバイ |
 | char_4083_chimes | 铎铃 | Wind Chimes | ウィンドチャイム |
 | char_4087_ines | 伊内丝 | Ines | イネス |
@@ -269,7 +269,7 @@ tip: 请善用浏览器的搜索功能
 | char_4110_delphn | 戴菲恩 | Delphine | デルフィーン |
 | char_4114_harold | 哈洛德 | Harold | ハロルド |
 | char_4116_blkkgt | 锏 | Degenbrecher | デーゲンブレヒャー |
-| char_4117_ray | 莱伊 | - | レイ |
+| char_4117_ray | 莱伊 | Ray | レイ |
 | char_4119_wanqin | 万顷 | - | - |
 | char_411_tomimi | 特米米 | Tomimi | トミミ |
 | char_4121_zuole | 左乐 | - | - |

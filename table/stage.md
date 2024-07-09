@@ -239,16 +239,16 @@ tip: 请善用浏览器的搜索功能
 | act16d5_st02 | 一日之祸 | A Day's Calamity | 一日の災い |
 | act16d5_st03 | 一问之答 | A Question's Answer | 答え |
 | act16d5_tr01 | 呓语 | Sleep Talking | 寝言 |
-| act16mini_01 | 双向通风 | - | 坑内通気 |
-| act16mini_02 | 热熔采掘 | - | 溶融製錬 |
-| act16mini_03 | 不安全出口 | - | 不適切な出口 |
-| act16mini_04 | 冻结壁交圈 | - | 凍土壁造成 |
-| act16mini_05 | 起爆自由面 | - | 自由面発破 |
-| act16mini_06 | 最小抵抗线 | - | 最小抵抗線 |
-| act16mini_07 | 牵引山岩 | - | 岩石牽引 |
-| act16mini_08 | 主要运输巷 | - | メイン坑道 |
-| act16mini_s01 | 穿洞绳操作指南 | - | ロープアクセス技術解説 |
-| act16mini_s02 | 升罐笼注意事项 | - | 昇降ゴンドラ注意事項 |
+| act16mini_01 | 双向通风 | Bilateral Ventilation | 坑内通気 |
+| act16mini_02 | 热熔采掘 | Heat Drilling | 溶融製錬 |
+| act16mini_03 | 不安全出口 | Unsafe Exit | 不適切な出口 |
+| act16mini_04 | 冻结壁交圈 | Frozen Circle | 凍土壁造成 |
+| act16mini_05 | 起爆自由面 | Freedom of Explosion | 自由面発破 |
+| act16mini_06 | 最小抵抗线 | Front of Least Resistance | 最小抵抗線 |
+| act16mini_07 | 牵引山岩 | Moving Mountains | 岩石牽引 |
+| act16mini_08 | 主要运输巷 | Prime Alley | メイン坑道 |
+| act16mini_s01 | 穿洞绳操作指南 | Spelunking Rope Manual | ロープアクセス技術解説 |
+| act16mini_s02 | 升罐笼注意事项 | Important Elevator Information | 昇降ゴンドラ注意事項 |
 | act16side_01 | 灯下黑 | Darkness Beneath the Light | 灯台下暗し |
 | act16side_02 | 散步时光 | Time to Stroll | 散歩の時間 |
 | act16side_03 | 混血儿 | Mixed Blood | 混血児 |
@@ -437,10 +437,10 @@ tip: 请善用浏览器的搜索功能
 | act23side_04 | 不念往昔 | Let the Old Times Go | 往昔を念はず |
 | act23side_05 | 风雨欲来 | Rain Forecast | 風雨来たらんと欲す |
 | act23side_06 | 瑟瑟秋华 | Sight of Autumn | 瑟々たる秋の華 |
-| act23side_07 | “屏风卫” | 'Wind Aegis' | 「屛風衛」 |
+| act23side_07 | “屏风卫” | Wind Aegis | 「屛風衛」 |
 | act23side_08 | 旷古之晤 | Ancient Mutters | 未曽有の一戦 |
-| act23side_09 | “冬藏” | 'Hibernate' | 「冬蔵」 |
-| act23side_st01 | 忽梦少年事 | Dream of Youth | 忽ち夢むは年少の事 |
+| act23side_09 | “冬藏” | Hibernate | 「冬蔵」 |
+| act23side_st01 | 忽梦少年事 | Dreams of Youth | 忽ち夢むは年少の事 |
 | act23side_st02 | 信我所信 | Believe My Belief | 我の信ずる所を信ず |
 | act23side_st03 | 粘劫收后 | Keep the Ploy | 終わりのコウ |
 | act23side_tr01 | 塞上孤城 | Lone Redoubt | 辺塞の孤城 |
@@ -734,7 +734,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_17 | 灰暗泥沼 | Ashy Marsh | 薄暗い泥沼 |
 | camp_r_18 | “特制小水坑” | The Special Little Aquapit' | 「特製小さな水たまり」 |
 | camp_r_19 | 腐烂荒野 | Decaying Wastes | 腐敗した荒野 |
-| camp_r_20 | 千嶂边城 | - | 千嶂の辺塞 |
+| camp_r_20 | 千嶂边城 | Mountain-Ringed Border Town | 千嶂の辺塞 |
 | camp_r_21 | 新旅店大道 | - | - |
 | camp_r_22 | “离心率”实验室 | - | - |
 | camp_r_23 | 燃烧街区 | - | - |
@@ -847,18 +847,18 @@ tip: 请善用浏览器的搜索功能
 | lt_10_04 | 幻景 | Mirage | 幻影 |
 | lt_10_05 | 裂流 | Fierce Currents | 離岸流 |
 | lt_10_06 | 落潮 | Receding Tides | 干潮 |
-| lt_11_01 | 巡检作业 | - | 巡回作業 |
-| lt_11_02 | 空地协同作业 | - | 空陸協同作業 |
-| lt_11_03 | 喷洒作业 | - | 散布作業 |
-| lt_11_04 | 播撒作业 | - | 種まき作業 |
-| lt_11_05 | 聚群作业 | - | 集結作業 |
-| lt_11_06 | 净空作业 | - | 一掃作業 |
-| lt_12_01 | 骚乱肇始 | - | 騒動の発端 |
-| lt_12_02 | 如此助威 | - | 行き過ぎた応援 |
-| lt_12_03 | 破栏而出 | - | 突破された柵 |
-| lt_12_04 | 增幅呐喊 | - | 高まる歓声 |
-| lt_12_05 | 冲上看台 | - | 観戦席への乱入 |
-| lt_12_06 | 阿卡胡拉之巅 | - | アカフラの頂 |
+| lt_11_01 | 巡检作业 | Patrolling Task | 巡回作業 |
+| lt_11_02 | 空地协同作业 | Glade Collaboration Task | 空陸協同作業 |
+| lt_11_03 | 喷洒作业 | Irrigation Task | 散布作業 |
+| lt_11_04 | 播撒作业 | Sowing Task | 種まき作業 |
+| lt_11_05 | 聚群作业 | Crowding Task | 集結作業 |
+| lt_11_06 | 净空作业 | Clearing Task | 一掃作業 |
+| lt_12_01 | 骚乱肇始 | Disturbance's Beginning | 騒動の発端 |
+| lt_12_02 | 如此助威 | Pronounced Cheering | 行き過ぎた応援 |
+| lt_12_03 | 破栏而出 | Breaking Barriers | 突破された柵 |
+| lt_12_04 | 增幅呐喊 | Growing Vociferation | 高まる歓声 |
+| lt_12_05 | 冲上看台 | Bleachers Outrush | 観戦席への乱入 |
+| lt_12_06 | 阿卡胡拉之巅 | Acahuallan Peak | アカフラの頂 |
 | lt_13_01 | 痛心的快板 | - | - |
 | lt_13_02 | 心伤的奏鸣曲 | - | - |
 | lt_13_03 | 伤悲的慢板 | - | - |

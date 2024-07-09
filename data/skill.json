@@ -2305,14 +2305,17 @@
     "zh_CN": "生灵的回响"
   },
   "skchr_ray_1": {
+    "en_US": "Parting Shot",
     "ja_JP": "スラストショット",
     "zh_CN": "脱身矢"
   },
   "skchr_ray_2": {
+    "en_US": "Area Overwatch",
     "ja_JP": "広域警戒",
     "zh_CN": "广域警觉"
   },
   "skchr_ray_3": {
+    "en_US": "'See the Light'",
     "ja_JP": "「求めた光」",
     "zh_CN": "“得见光芒”"
   },
@@ -3003,10 +3006,12 @@
     "zh_CN": "应东风"
   },
   "skchr_warmy_1": {
+    "en_US": "Burning Flames",
     "ja_JP": "ぱちぱち火花",
     "zh_CN": "炎炎火焰"
   },
   "skchr_warmy_2": {
+    "en_US": "Scorching Stream",
     "ja_JP": "めらめら焔",
     "zh_CN": "滔滔热流"
   },
@@ -3333,6 +3338,7 @@
     "zh_CN": "爆炸"
   },
   "sktok_beer": {
+    "en_US": "'Long Live Mead!'",
     "ja_JP": "「ミード万歳！」",
     "zh_CN": "“蜜酿万岁！”"
   },
@@ -3837,14 +3843,17 @@
     "zh_CN": "自走车出击！"
   },
   "sktok_gasbot": {
+    "en_US": "Quick Cooling",
     "ja_JP": "即時冷却",
     "zh_CN": "速效制冷"
   },
   "sktok_gasbota": {
+    "en_US": "Quick Cooling",
     "ja_JP": "即時冷却",
     "zh_CN": "速效制冷"
   },
   "sktok_gasbotb": {
+    "en_US": "Quick Cooling",
     "ja_JP": "即時冷却",
     "zh_CN": "速效制冷"
   },
@@ -3972,14 +3981,17 @@
     "zh_CN": "调谐"
   },
   "sktok_mercha": {
+    "en_US": "Battlefield Inspiration",
     "ja_JP": "戦地の激励",
     "zh_CN": "战地鼓舞"
   },
   "sktok_merchaa": {
+    "en_US": "Battlefield Inspiration",
     "ja_JP": "戦地の激励",
     "zh_CN": "战地鼓舞"
   },
   "sktok_merchab": {
+    "en_US": "Battlefield Inspiration",
     "ja_JP": "戦地の激励",
     "zh_CN": "战地鼓舞"
   },
@@ -4201,6 +4213,7 @@
     "zh_CN": "更诱人珍宝"
   },
   "sktok_ray_2": {
+    "en_US": "Area Overwatch",
     "ja_JP": "広域警戒",
     "zh_CN": "广域警觉"
   },
@@ -4398,14 +4411,17 @@
     "zh_CN": "全自动划账"
   },
   "sktok_sniper": {
+    "en_US": "Airspace Control",
     "ja_JP": "空域支配",
     "zh_CN": "空域控制"
   },
   "sktok_snipera": {
+    "en_US": "Airspace Control",
     "ja_JP": "空域支配",
     "zh_CN": "空域控制"
   },
   "sktok_sniperb": {
+    "en_US": "Airspace Control",
     "ja_JP": "空域支配",
     "zh_CN": "空域控制"
   },

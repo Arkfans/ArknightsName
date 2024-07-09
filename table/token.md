@@ -45,7 +45,7 @@ tip: 请善用浏览器的搜索功能
 | token_10031_swire2_gdtrap | 香槟炸弹 | Champagne Bomb | シャンパン爆弾 |
 | token_10032_jesca2_jckshd | 机动盾牌 | Mobile Riot Shield | 機動防盾 |
 | token_10033_ela_grzmot | 雷鸣地雷 | - | - |
-| token_10034_ray_sndbst | 沙地兽 | - | サンドビースト |
+| token_10034_ray_sndbst | 沙地兽 | Sandbeast | サンドビースト |
 | token_10035_wisdel_wward | 魂灵之影 | - | - |
 | token_10037_mitm_trshrb | 樱桃三号 | - | - |
 | token_10039_ulpia_block | 从不混淆的方向 | - | - |

@@ -817,6 +817,9 @@
     ]
   },
   "avg_212_ansel_1": {
+    "en_US": [
+      "Ansel"
+    ],
     "ja_JP": [
       "アンセル"
     ],
@@ -937,6 +940,10 @@
     ]
   },
   "avg_230_savage_1": {
+    "en_US": [
+      "No-Nonsense Woman",
+      "Savage"
+    ],
     "ja_JP": [
       "サベージ",
       "ハキハキした女性"
@@ -1487,6 +1494,10 @@
     ]
   },
   "avg_4006_melnte_1": {
+    "en_US": [
+      "Breonna",
+      "Melanite"
+    ],
     "ja_JP": [
       "ブライナ",
       "メラナイト"
@@ -1911,6 +1922,9 @@
     ]
   },
   "avg_4081_warmy_1": {
+    "en_US": [
+      "Potlid"
+    ],
     "ja_JP": [
       "鍋蓋ちゃん"
     ],
@@ -2115,6 +2129,11 @@
     ]
   },
   "avg_4117_ray_1": {
+    "en_US": [
+      "Ray",
+      "Reticent Customer",
+      "Truckjacker"
+    ],
     "ja_JP": [
       "カージャック犯",
       "レイ",
@@ -2821,6 +2840,7 @@
       "Angry Infected",
       "Angry Miner",
       "Angry Villager",
+      "Charlie the Sproglet",
       "Excited Infected",
       "Fast Food Joint Owner",
       "Gangster Messenger",
@@ -3042,6 +3062,7 @@
       "Bar Owner",
       "Depressed Worker",
       "Engineer Andrey",
+      "General Storekeeper",
       "Infected Employee B",
       "Merchant",
       "Militiaman B",
@@ -3686,6 +3707,7 @@
       "Audience Member C",
       "Careless Youth",
       "Customer A",
+      "Food Stall Owner",
       "Male Tourist",
       "Male Tourist A",
       "Messenger",
@@ -6801,6 +6823,9 @@
     ]
   },
   "avg_npc_1183_1": {
+    "en_US": [
+      "Alanna"
+    ],
     "ja_JP": [
       "アランナ"
     ],
@@ -6809,6 +6834,10 @@
     ]
   },
   "avg_npc_1184_1": {
+    "en_US": [
+      "Jerry",
+      "Jittery Passenger"
+    ],
     "ja_JP": [
       "おどおどした乗客",
       "おどおどした男",
@@ -6820,6 +6849,11 @@
     ]
   },
   "avg_npc_1185_1": {
+    "en_US": [
+      "Infected Worker",
+      "Mine Captain",
+      "Worker 'Brake'"
+    ],
     "ja_JP": [
       "「ブレーキ」",
       "感染労働者",
@@ -6832,6 +6866,12 @@
     ]
   },
   "avg_npc_1186_1": {
+    "en_US": [
+      "Company Representative",
+      "Somewhat Familiar Woman",
+      "Strange Lady",
+      "Worker 'Motor'"
+    ],
     "ja_JP": [
       "「モーター」",
       "企業代表",
@@ -6846,6 +6886,9 @@
     ]
   },
   "avg_npc_1188_1": {
+    "en_US": [
+      "Sandbeast"
+    ],
     "ja_JP": [
       "サンドビースト"
     ],
@@ -9183,6 +9226,7 @@
       "Manager",
       "Mayor's Secretary",
       "National Council Representative",
+      "Office Clerk",
       "Prosecutor",
       "Raythean Industries Representative",
       "Red Wine Senior Editor",
@@ -9268,6 +9312,7 @@
       "Snobby Official",
       "Staff Worker",
       "Tired Corporate Employee",
+      "Uniformed Worker",
       "Witness"
     ],
     "ja_JP": [
@@ -9711,6 +9756,7 @@
       "Maid",
       "Noble Sister",
       "Overwrought Taran Refugee",
+      "Panicked Merchant",
       "Pasado",
       "Sorrowful Woman",
       "Taran Refugee",
@@ -11294,6 +11340,8 @@
     "en_US": [
       "Columbian Mercenary",
       "Former Defense Forces Soldier",
+      "Inspector A",
+      "Inspector B",
       "Special Forces Captain",
       "Victorian Mercenary"
     ],
@@ -15457,9 +15505,11 @@
   },
   "avg_npc_972_1": {
     "en_US": [
+      "Flustered HR Operator",
       "HR Operator",
       "Human Resources Operator",
       "Logistics Operator",
+      "Procurement Operator",
       "Rhodes Island Landship Operator A"
     ],
     "ja_JP": [
@@ -15533,7 +15583,8 @@
       "Frightened Boy",
       "Lut",
       "Lut & Liv",
-      "Very Happy Boy"
+      "Very Happy Boy",
+      "Young Boy"
     ],
     "ja_JP": [
       "ルート",
@@ -16134,12 +16185,14 @@
   },
   "char_016_medic": {
     "en_US": [
+      "Frantic HR Operator",
       "HR Operator",
       "Human Resources Operator",
       "Logistics Operator",
       "Logistics Worker",
       "Medic",
       "Medic Operator",
+      "Medical Department Operator",
       "Rhodes Island Medic Operator",
       "Rhodes Island Operator"
     ],

@@ -1017,10 +1017,10 @@ tip: 请善用浏览器的搜索功能
 | enemy_6015_ictruck | “超甜微笑” | 'Supersweetie Smiley' | 「ビッグスイートスマイル」 |
 | enemy_6016_splash | 干渴者 | Thirster | サースター |
 | enemy_6017_icdrone | 甜蜜派送机 | Supersweetie Delivery Drone | スイート・デリバリー |
-| enemy_6018_carrier | “无根之怨” | - | 「根なしの恨み」 |
-| enemy_6019_escort | 播种无人机 | - | 種まきドローン |
-| enemy_6020_orang | “烈酒金刚” | - | 鉄人スピリッツ号 |
-| enemy_6021_cask | 桶陈蜜酿 | - | ミードの樽 |
+| enemy_6018_carrier | “无根之怨” | 'Hatred Without Root' | 「根なしの恨み」 |
+| enemy_6019_escort | 播种无人机 | Seeding Drone | 種まきドローン |
+| enemy_6020_orang | “烈酒金刚” | 'Spirit of Liquor' | 鉄人スピリッツ号 |
+| enemy_6021_cask | 桶陈蜜酿 | Aged Mead | ミードの樽 |
 | enemy_6022_m2cnt | “织郁伯爵” | - | - |
 | enemy_6023_crane | “贪婪捕手” | - | - |
 | enemy_6024_crnbug | “特别任性的生物” | - | - |

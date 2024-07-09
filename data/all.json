@@ -1960,6 +1960,7 @@
   "char_4081_warmy": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Warmy",
       "ja_JP": "ウォーミー",
       "zh_CN": "温米"
     }
@@ -2103,6 +2104,7 @@
   "char_4117_ray": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Ray",
       "ja_JP": "レイ",
       "zh_CN": "莱伊"
     }
@@ -3024,6 +3026,7 @@
   "token_10034_ray_sndbst": {
     "type": "TOKEN",
     "names": {
+      "en_US": "Sandbeast",
       "ja_JP": "サンドビースト",
       "zh_CN": "沙地兽"
     }
@@ -5161,6 +5164,7 @@
   "trap_736_mercha": {
     "type": "TRAP",
     "names": {
+      "en_US": "Chargeable Supervisory Speaker",
       "ja_JP": "充電式前線用スピーカー",
       "zh_CN": "可充能督战音响"
     }
@@ -5168,6 +5172,7 @@
   "trap_737_merchaa": {
     "type": "TRAP",
     "names": {
+      "en_US": "Chargeable Supervisory Speaker",
       "ja_JP": "充電式前線用スピーカー",
       "zh_CN": "可充能督战音响"
     }
@@ -5175,6 +5180,7 @@
   "trap_738_merchab": {
     "type": "TRAP",
     "names": {
+      "en_US": "Chargeable Supervisory Speaker",
       "ja_JP": "充電式前線用スピーカー",
       "zh_CN": "可充能督战音响"
     }
@@ -5182,6 +5188,7 @@
   "trap_739_sniper": {
     "type": "TRAP",
     "names": {
+      "en_US": "Smart Airspace Controller",
       "ja_JP": "高性能空域制御器",
       "zh_CN": "智能空域控制机"
     }
@@ -5189,6 +5196,7 @@
   "trap_740_snipera": {
     "type": "TRAP",
     "names": {
+      "en_US": "Smart Airspace Controller",
       "ja_JP": "高性能空域制御器",
       "zh_CN": "智能空域控制机"
     }
@@ -5196,6 +5204,7 @@
   "trap_741_sniperb": {
     "type": "TRAP",
     "names": {
+      "en_US": "Smart Airspace Controller",
       "ja_JP": "高性能空域制御器",
       "zh_CN": "智能空域控制机"
     }
@@ -5203,6 +5212,7 @@
   "trap_742_gasbot": {
     "type": "TRAP",
     "names": {
+      "en_US": "Quick-freezing Sprayer Platform",
       "ja_JP": "急速冷却噴射台",
       "zh_CN": "速冷喷雾发射台"
     }
@@ -5210,6 +5220,7 @@
   "trap_743_gasbota": {
     "type": "TRAP",
     "names": {
+      "en_US": "Quick-freezing Sprayer Platform",
       "ja_JP": "急速冷却噴射台",
       "zh_CN": "速冷喷雾发射台"
     }
@@ -5217,6 +5228,7 @@
   "trap_744_gasbotb": {
     "type": "TRAP",
     "names": {
+      "en_US": "Quick-freezing Sprayer Platform",
       "ja_JP": "急速冷却噴射台",
       "zh_CN": "速冷喷雾发射台"
     }
@@ -5224,6 +5236,7 @@
   "trap_745_beer": {
     "type": "TRAP",
     "names": {
+      "en_US": "'Long Live Mead!'",
       "ja_JP": "「ミード万歳！」",
       "zh_CN": "“蜜酿万岁！”"
     }
@@ -5413,6 +5426,7 @@
   "char_1020_reed2@epoque#30": {
     "type": "SKIN",
     "names": {
+      "en_US": "Curator",
       "ja_JP": "歴史に囲まれて",
       "zh_CN": "博物"
     }
@@ -6006,6 +6020,7 @@
   "char_183_skgoat@epoque#30": {
     "type": "SKIN",
     "names": {
+      "en_US": "Major Field",
       "ja_JP": "専門分野",
       "zh_CN": "主修领域"
     }
@@ -7121,6 +7136,7 @@
   "char_388_mint@epoque#30": {
     "type": "SKIN",
     "names": {
+      "en_US": "Private Study",
       "ja_JP": "本と過ごすひと時",
       "zh_CN": "私人书房"
     }
@@ -7426,6 +7442,7 @@
   "char_4078_bdhkgt@yun#2": {
     "type": "SKIN",
     "names": {
+      "en_US": "Away From Dust",
       "ja_JP": "青蓮の友",
       "zh_CN": "伴青莲"
     }
@@ -15873,6 +15890,7 @@
   "enemy_6018_carrier": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Hatred Without Root'",
       "ja_JP": "「根なしの恨み」",
       "zh_CN": "“无根之怨”"
     }
@@ -15880,6 +15898,7 @@
   "enemy_6019_escort": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Seeding Drone",
       "ja_JP": "種まきドローン",
       "zh_CN": "播种无人机"
     }
@@ -15887,6 +15906,7 @@
   "enemy_6020_orang": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Spirit of Liquor'",
       "ja_JP": "鉄人スピリッツ号",
       "zh_CN": "“烈酒金刚”"
     }
@@ -15894,6 +15914,7 @@
   "enemy_6021_cask": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Aged Mead",
       "ja_JP": "ミードの樽",
       "zh_CN": "桶陈蜜酿"
     }
@@ -16605,6 +16626,7 @@
   "act16mini": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "To the Grinning Valley",
       "ja_JP": "ニヤニヤ谷へ",
       "zh_CN": "去咧嘴谷"
     }
@@ -17016,6 +17038,7 @@
   "act23sre": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Where Vernal Winds Will Never Blow - Rerun",
       "ja_JP": "登臨意・復刻",
       "zh_CN": "登临意·复刻"
     }
@@ -19696,6 +19719,7 @@
   "act16mini_token_sap": {
     "type": "ITEM",
     "names": {
+      "en_US": "Spicy Bottletree Sap",
       "ja_JP": "辛口樹液",
       "zh_CN": "辣瓶树水"
     }
@@ -19959,6 +19983,7 @@
   "act23side_token_spirit_rep_1": {
     "type": "ITEM",
     "names": {
+      "en_US": "Freshly-Brewed Liedaozi",
       "ja_JP": "烈刀子",
       "zh_CN": "新酿烈刀子"
     }
@@ -24317,6 +24342,7 @@
   "p_char_4081_warmy": {
     "type": "ITEM",
     "names": {
+      "en_US": "Warmy's Token",
       "ja_JP": "ウォーミーの印",
       "zh_CN": "温米的信物"
     }
@@ -24452,6 +24478,7 @@
   "p_char_4117_ray": {
     "type": "ITEM",
     "names": {
+      "en_US": "Ray's Token",
       "ja_JP": "レイの印",
       "zh_CN": "莱伊的信物"
     }
@@ -26019,6 +26046,7 @@
   "uni_set_teaHouse": {
     "type": "ITEM",
     "names": {
+      "en_US": "Invitation to Wine Furniture Pack",
       "ja_JP": "将進酒家具パック",
       "zh_CN": "将进酒家具收藏包"
     }
@@ -26172,6 +26200,7 @@
   "voucher_full_kroos2": {
     "type": "ITEM",
     "names": {
+      "en_US": "Kroos the Keen Glint's Personal Letter",
       "ja_JP": "寒芒クルースの手紙",
       "zh_CN": "寒芒克洛丝的私人信件"
     }
@@ -27959,6 +27988,7 @@
   "_SINGLE_28_0_4": {
     "type": "POOL",
     "names": {
+      "en_US": "Ray of Light",
       "ja_JP": "一筋の曙光"
     }
   },
@@ -31695,6 +31725,7 @@
   "skchr_ray_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Parting Shot",
       "ja_JP": "スラストショット",
       "zh_CN": "脱身矢"
     }
@@ -31702,6 +31733,7 @@
   "skchr_ray_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Area Overwatch",
       "ja_JP": "広域警戒",
       "zh_CN": "广域警觉"
     }
@@ -31709,6 +31741,7 @@
   "skchr_ray_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "'See the Light'",
       "ja_JP": "「求めた光」",
       "zh_CN": "“得见光芒”"
     }
@@ -32828,6 +32861,7 @@
   "skchr_warmy_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Burning Flames",
       "ja_JP": "ぱちぱち火花",
       "zh_CN": "炎炎火焰"
     }
@@ -32835,6 +32869,7 @@
   "skchr_warmy_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Scorching Stream",
       "ja_JP": "めらめら焔",
       "zh_CN": "滔滔热流"
     }
@@ -33368,6 +33403,7 @@
   "sktok_beer": {
     "type": "SKILL",
     "names": {
+      "en_US": "'Long Live Mead!'",
       "ja_JP": "「ミード万歳！」",
       "zh_CN": "“蜜酿万岁！”"
     }
@@ -34199,6 +34235,7 @@
   "sktok_gasbot": {
     "type": "SKILL",
     "names": {
+      "en_US": "Quick Cooling",
       "ja_JP": "即時冷却",
       "zh_CN": "速效制冷"
     }
@@ -34206,6 +34243,7 @@
   "sktok_gasbota": {
     "type": "SKILL",
     "names": {
+      "en_US": "Quick Cooling",
       "ja_JP": "即時冷却",
       "zh_CN": "速效制冷"
     }
@@ -34213,6 +34251,7 @@
   "sktok_gasbotb": {
     "type": "SKILL",
     "names": {
+      "en_US": "Quick Cooling",
       "ja_JP": "即時冷却",
       "zh_CN": "速效制冷"
     }
@@ -34424,6 +34463,7 @@
   "sktok_mercha": {
     "type": "SKILL",
     "names": {
+      "en_US": "Battlefield Inspiration",
       "ja_JP": "戦地の激励",
       "zh_CN": "战地鼓舞"
     }
@@ -34431,6 +34471,7 @@
   "sktok_merchaa": {
     "type": "SKILL",
     "names": {
+      "en_US": "Battlefield Inspiration",
       "ja_JP": "戦地の激励",
       "zh_CN": "战地鼓舞"
     }
@@ -34438,6 +34479,7 @@
   "sktok_merchab": {
     "type": "SKILL",
     "names": {
+      "en_US": "Battlefield Inspiration",
       "ja_JP": "戦地の激励",
       "zh_CN": "战地鼓舞"
     }
@@ -34803,6 +34845,7 @@
   "sktok_ray_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Area Overwatch",
       "ja_JP": "広域警戒",
       "zh_CN": "广域警觉"
     }
@@ -35120,6 +35163,7 @@
   "sktok_sniper": {
     "type": "SKILL",
     "names": {
+      "en_US": "Airspace Control",
       "ja_JP": "空域支配",
       "zh_CN": "空域控制"
     }
@@ -35127,6 +35171,7 @@
   "sktok_snipera": {
     "type": "SKILL",
     "names": {
+      "en_US": "Airspace Control",
       "ja_JP": "空域支配",
       "zh_CN": "空域控制"
     }
@@ -35134,6 +35179,7 @@
   "sktok_sniperb": {
     "type": "SKILL",
     "names": {
+      "en_US": "Airspace Control",
       "ja_JP": "空域支配",
       "zh_CN": "空域控制"
     }
@@ -37755,6 +37801,7 @@
   "act16mini_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Bilateral Ventilation",
       "ja_JP": "坑内通気",
       "zh_CN": "双向通风"
     }
@@ -37762,6 +37809,7 @@
   "act16mini_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Heat Drilling",
       "ja_JP": "溶融製錬",
       "zh_CN": "热熔采掘"
     }
@@ -37769,6 +37817,7 @@
   "act16mini_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Unsafe Exit",
       "ja_JP": "不適切な出口",
       "zh_CN": "不安全出口"
     }
@@ -37776,6 +37825,7 @@
   "act16mini_04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Frozen Circle",
       "ja_JP": "凍土壁造成",
       "zh_CN": "冻结壁交圈"
     }
@@ -37783,6 +37833,7 @@
   "act16mini_05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Freedom of Explosion",
       "ja_JP": "自由面発破",
       "zh_CN": "起爆自由面"
     }
@@ -37790,6 +37841,7 @@
   "act16mini_06": {
     "type": "STAGE",
     "names": {
+      "en_US": "Front of Least Resistance",
       "ja_JP": "最小抵抗線",
       "zh_CN": "最小抵抗线"
     }
@@ -37797,6 +37849,7 @@
   "act16mini_07": {
     "type": "STAGE",
     "names": {
+      "en_US": "Moving Mountains",
       "ja_JP": "岩石牽引",
       "zh_CN": "牵引山岩"
     }
@@ -37804,6 +37857,7 @@
   "act16mini_08": {
     "type": "STAGE",
     "names": {
+      "en_US": "Prime Alley",
       "ja_JP": "メイン坑道",
       "zh_CN": "主要运输巷"
     }
@@ -37811,6 +37865,7 @@
   "act16mini_s01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Spelunking Rope Manual",
       "ja_JP": "ロープアクセス技術解説",
       "zh_CN": "穿洞绳操作指南"
     }
@@ -37818,6 +37873,7 @@
   "act16mini_s02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Important Elevator Information",
       "ja_JP": "昇降ゴンドラ注意事項",
       "zh_CN": "升罐笼注意事项"
     }
@@ -39309,7 +39365,7 @@
   "act23side_07": {
     "type": "STAGE",
     "names": {
-      "en_US": "'Wind Aegis'",
+      "en_US": "Wind Aegis",
       "ja_JP": "「屛風衛」",
       "zh_CN": "“屏风卫”"
     }
@@ -39325,7 +39381,7 @@
   "act23side_09": {
     "type": "STAGE",
     "names": {
-      "en_US": "'Hibernate'",
+      "en_US": "Hibernate",
       "ja_JP": "「冬蔵」",
       "zh_CN": "“冬藏”"
     }
@@ -39333,7 +39389,7 @@
   "act23side_st01": {
     "type": "STAGE",
     "names": {
-      "en_US": "Dream of Youth",
+      "en_US": "Dreams of Youth",
       "ja_JP": "忽ち夢むは年少の事",
       "zh_CN": "忽梦少年事"
     }
@@ -41521,6 +41577,7 @@
   "camp_r_20": {
     "type": "STAGE",
     "names": {
+      "en_US": "Mountain-Ringed Border Town",
       "ja_JP": "千嶂の辺塞",
       "zh_CN": "千嶂边城"
     }
@@ -42410,6 +42467,7 @@
   "lt_11_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Patrolling Task",
       "ja_JP": "巡回作業",
       "zh_CN": "巡检作业"
     }
@@ -42417,6 +42475,7 @@
   "lt_11_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Glade Collaboration Task",
       "ja_JP": "空陸協同作業",
       "zh_CN": "空地协同作业"
     }
@@ -42424,6 +42483,7 @@
   "lt_11_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Irrigation Task",
       "ja_JP": "散布作業",
       "zh_CN": "喷洒作业"
     }
@@ -42431,6 +42491,7 @@
   "lt_11_04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Sowing Task",
       "ja_JP": "種まき作業",
       "zh_CN": "播撒作业"
     }
@@ -42438,6 +42499,7 @@
   "lt_11_05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Crowding Task",
       "ja_JP": "集結作業",
       "zh_CN": "聚群作业"
     }
@@ -42445,6 +42507,7 @@
   "lt_11_06": {
     "type": "STAGE",
     "names": {
+      "en_US": "Clearing Task",
       "ja_JP": "一掃作業",
       "zh_CN": "净空作业"
     }
@@ -42452,6 +42515,7 @@
   "lt_12_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Disturbance's Beginning",
       "ja_JP": "騒動の発端",
       "zh_CN": "骚乱肇始"
     }
@@ -42459,6 +42523,7 @@
   "lt_12_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Pronounced Cheering",
       "ja_JP": "行き過ぎた応援",
       "zh_CN": "如此助威"
     }
@@ -42466,6 +42531,7 @@
   "lt_12_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Breaking Barriers",
       "ja_JP": "突破された柵",
       "zh_CN": "破栏而出"
     }
@@ -42473,6 +42539,7 @@
   "lt_12_04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Growing Vociferation",
       "ja_JP": "高まる歓声",
       "zh_CN": "增幅呐喊"
     }
@@ -42480,6 +42547,7 @@
   "lt_12_05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Bleachers Outrush",
       "ja_JP": "観戦席への乱入",
       "zh_CN": "冲上看台"
     }
@@ -42487,6 +42555,7 @@
   "lt_12_06": {
     "type": "STAGE",
     "names": {
+      "en_US": "Acahuallan Peak",
       "ja_JP": "アカフラの頂",
       "zh_CN": "阿卡胡拉之巅"
     }
@@ -45884,6 +45953,7 @@
   "act16mini_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Down the Mine",
       "ja_JP": "「坑道へ」",
       "zh_CN": "“下井”"
     }
@@ -46345,6 +46415,7 @@
   "act23sre_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Case Investigation, Onsite",
       "ja_JP": "城内調査",
       "zh_CN": "城中调查"
     }
@@ -46352,6 +46423,7 @@
   "act23sre_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Criminal Pursuit, Offsite",
       "ja_JP": "関外追跡",
       "zh_CN": "关外追凶"
     }
@@ -47033,6 +47105,7 @@
   "permanent_sidestory_19_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Case Investigation, Onsite",
       "ja_JP": "城内調査",
       "zh_CN": "城中调查"
     }
@@ -47040,6 +47113,7 @@
   "permanent_sidestory_19_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Criminal Pursuit, Offsite",
       "ja_JP": "関外追跡",
       "zh_CN": "关外追凶"
     }
@@ -47541,6 +47615,7 @@
   "story_ansel_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "As A Medic",
       "ja_JP": "医者として",
       "zh_CN": "身为医者"
     }
@@ -47804,6 +47879,7 @@
   "story_bubble_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Trial For The Brave",
       "ja_JP": "戦士の試練",
       "zh_CN": "勇者的试炼"
     }
@@ -47811,6 +47887,7 @@
   "story_buildr_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "The Fowlbeast That Returned",
       "ja_JP": "戻ってきた羽獣",
       "zh_CN": "复还的羽兽"
     }
@@ -48760,6 +48837,7 @@
   "story_melnte_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Lost Time",
       "ja_JP": "失った時間",
       "zh_CN": "失去的时光"
     }

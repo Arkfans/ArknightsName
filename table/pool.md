@@ -199,4 +199,4 @@ tip: 请善用浏览器的搜索功能
 | _SINGLE_26_0_5 | - | Clank Liberty | 銃声 |
 | _SINGLE_27_0_1 | - | From Gleams And Smoke I Emerge | 煙塵に瞬く |
 | _SINGLE_28_0_1 | - | The Sojourner | さすらう者 |
-| _SINGLE_28_0_4 | - | - | 一筋の曙光 |
+| _SINGLE_28_0_4 | - | Ray of Light | 一筋の曙光 |

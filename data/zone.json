@@ -280,6 +280,7 @@
     "zh_CN": "出画"
   },
   "act16mini_zone1": {
+    "en_US": "Down the Mine",
     "ja_JP": "「坑道へ」",
     "zh_CN": "“下井”"
   },
@@ -564,10 +565,12 @@
     "zh_CN": "关外追凶"
   },
   "act23sre_zone1": {
+    "en_US": "Case Investigation, Onsite",
     "ja_JP": "城内調査",
     "zh_CN": "城中调查"
   },
   "act23sre_zone2": {
+    "en_US": "Criminal Pursuit, Offsite",
     "ja_JP": "関外追跡",
     "zh_CN": "关外追凶"
   },
@@ -979,10 +982,12 @@
     "zh_CN": "记忆灰烬"
   },
   "permanent_sidestory_19_zone1": {
+    "en_US": "Case Investigation, Onsite",
     "ja_JP": "城内調査",
     "zh_CN": "城中调查"
   },
   "permanent_sidestory_19_zone2": {
+    "en_US": "Criminal Pursuit, Offsite",
     "ja_JP": "関外追跡",
     "zh_CN": "关外追凶"
   },

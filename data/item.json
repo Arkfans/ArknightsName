@@ -1050,6 +1050,7 @@
     "zh_CN": "夕墨"
   },
   "act16mini_token_sap": {
+    "en_US": "Spicy Bottletree Sap",
     "ja_JP": "辛口樹液",
     "zh_CN": "辣瓶树水"
   },
@@ -1211,6 +1212,7 @@
     "zh_CN": "新酿烈刀子"
   },
   "act23side_token_spirit_rep_1": {
+    "en_US": "Freshly-Brewed Liedaozi",
     "ja_JP": "烈刀子",
     "zh_CN": "新酿烈刀子"
   },
@@ -3901,6 +3903,7 @@
     "zh_CN": "林的信物"
   },
   "p_char_4081_warmy": {
+    "en_US": "Warmy's Token",
     "ja_JP": "ウォーミーの印",
     "zh_CN": "温米的信物"
   },
@@ -3985,6 +3988,7 @@
     "zh_CN": "锏的信物"
   },
   "p_char_4117_ray": {
+    "en_US": "Ray's Token",
     "ja_JP": "レイの印",
     "zh_CN": "莱伊的信物"
   },
@@ -4943,6 +4947,7 @@
     "zh_CN": "风雪过境家具收藏包"
   },
   "uni_set_teaHouse": {
+    "en_US": "Invitation to Wine Furniture Pack",
     "ja_JP": "将進酒家具パック",
     "zh_CN": "将进酒家具收藏包"
   },
@@ -5036,6 +5041,7 @@
     "zh_CN": "耶拉的私人信件"
   },
   "voucher_full_kroos2": {
+    "en_US": "Kroos the Keen Glint's Personal Letter",
     "ja_JP": "寒芒クルースの手紙",
     "zh_CN": "寒芒克洛丝的私人信件"
   },

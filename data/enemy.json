@@ -4792,18 +4792,22 @@
     "zh_CN": "甜蜜派送机"
   },
   "enemy_6018_carrier": {
+    "en_US": "'Hatred Without Root'",
     "ja_JP": "「根なしの恨み」",
     "zh_CN": "“无根之怨”"
   },
   "enemy_6019_escort": {
+    "en_US": "Seeding Drone",
     "ja_JP": "種まきドローン",
     "zh_CN": "播种无人机"
   },
   "enemy_6020_orang": {
+    "en_US": "'Spirit of Liquor'",
     "ja_JP": "鉄人スピリッツ号",
     "zh_CN": "“烈酒金刚”"
   },
   "enemy_6021_cask": {
+    "en_US": "Aged Mead",
     "ja_JP": "ミードの樽",
     "zh_CN": "桶陈蜜酿"
   },
