@@ -102,6 +102,7 @@ tip: 请善用浏览器的搜索功能
 | SINGLE_49_0_1 | 如死亦终 | - | - |
 | SINGLE_51_0_1 | 沉向深渊的锚 | - | - |
 | SINGLE_51_0_4 | 执裁者 | - | - |
+| SINGLE_52_0_1 | 心与镜的印痕 | - | - |
 | _ATTAIN_15_2_1 | - | Celebrate & Recollect | ロドスの道のり　回顧 |
 | _ATTAIN_22_1_2 | - | Celebration & Link-Up | ロドスの道のり・邂逅 |
 | _ATTAIN_28_0_2 | - | Celebration & Prospective | ロドスの道のり・展望 |
@@ -198,3 +199,4 @@ tip: 请善用浏览器的搜索功能
 | _SINGLE_26_0_5 | - | Clank Liberty | 銃声 |
 | _SINGLE_27_0_1 | - | From Gleams And Smoke I Emerge | 煙塵に瞬く |
 | _SINGLE_28_0_1 | - | The Sojourner | さすらう者 |
+| _SINGLE_28_0_4 | - | - | 一筋の曙光 |

@@ -1220,6 +1220,7 @@
     "zh_CN": "林"
   },
   "char_4081_warmy": {
+    "ja_JP": "ウォーミー",
     "zh_CN": "温米"
   },
   "char_4082_qiubai": {
@@ -1308,6 +1309,7 @@
     "zh_CN": "锏"
   },
   "char_4117_ray": {
+    "ja_JP": "レイ",
     "zh_CN": "莱伊"
   },
   "char_4119_wanqin": {
@@ -1359,6 +1361,12 @@
   },
   "char_4145_ulpia": {
     "zh_CN": "乌尔比安"
+  },
+  "char_4146_nymph": {
+    "zh_CN": "妮芙"
+  },
+  "char_4147_mitm": {
+    "zh_CN": "渡桥"
   },
   "char_415_flint": {
     "en_US": "Flint",

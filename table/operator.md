@@ -251,7 +251,7 @@ tip: 请善用浏览器的搜索功能
 | char_4078_bdhkgt | 截云 | Jieyun | ジエユン |
 | char_4079_haini | 海霓 | - | - |
 | char_4080_lin | 林 | Lin | リン |
-| char_4081_warmy | 温米 | - | - |
+| char_4081_warmy | 温米 | - | ウォーミー |
 | char_4082_qiubai | 仇白 | Qiubai | チューバイ |
 | char_4083_chimes | 铎铃 | Wind Chimes | ウィンドチャイム |
 | char_4087_ines | 伊内丝 | Ines | イネス |
@@ -269,7 +269,7 @@ tip: 请善用浏览器的搜索功能
 | char_4110_delphn | 戴菲恩 | Delphine | デルフィーン |
 | char_4114_harold | 哈洛德 | Harold | ハロルド |
 | char_4116_blkkgt | 锏 | Degenbrecher | デーゲンブレヒャー |
-| char_4117_ray | 莱伊 | - | - |
+| char_4117_ray | 莱伊 | - | レイ |
 | char_4119_wanqin | 万顷 | - | - |
 | char_411_tomimi | 特米米 | Tomimi | トミミ |
 | char_4121_zuole | 左乐 | - | - |
@@ -286,6 +286,8 @@ tip: 请善用浏览器的搜索功能
 | char_4136_phonor | PhonoR-0 | - | - |
 | char_4137_udflow | 深巡 | - | - |
 | char_4145_ulpia | 乌尔比安 | - | - |
+| char_4146_nymph | 妮芙 | - | - |
+| char_4147_mitm | 渡桥 | - | - |
 | char_415_flint | 燧石 | Flint | フリント |
 | char_416_zumama | 森蚺 | Eunectes | ユーネクテス |
 | char_420_flamtl | 焰尾 | Flametail | フレイムテイル |

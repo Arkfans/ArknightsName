@@ -20,7 +20,8 @@ tip: 请善用浏览器的搜索功能
 | char_1014_nearl2@epoque#17 | 复现荣光 | Relight | 栄光の再臨 |
 | char_101_sora@epoque#17 | 如歌 | Melodiosa | メロディオーソ |
 | char_101_sora@summer#1 | 夏卉 FA361 | Summer Flowers FA361 | 夏の花弁FA361 |
-| char_1020_reed2@epoque#30 | 博物 | - | - |
+| char_1020_reed2@epoque#30 | 博物 | - | 歴史に囲まれて |
+| char_1020_reed2@summer#17 | 夏卉 FA075 | - | - |
 | char_1021_kroos2@nian#8 | 廊下游 | Along the Corridor | 長廊遊 |
 | char_1023_ghost2@boc#6 | 生而为一 | Born as One | 対なる一人 |
 | char_1026_gvial2@summer#12 | 悠然假日 HD26 | Holiday HD26 | ホリデーHD26 |
@@ -95,7 +96,7 @@ tip: 请善用浏览器的搜索功能
 | char_180_amgoat@summer#5 | 夏卉 FA018 | Summer Flower FA018 | 夏の花弁FA018 |
 | char_181_flower@daily#1 | 植物种志 | Species Plantarum | 植物紀年 |
 | char_181_flower@epoque#9 | 闲适午后 | Leisurely Afternoon | うららか |
-| char_183_skgoat@epoque#30 | 主修领域 | - | - |
+| char_183_skgoat@epoque#30 | 主修领域 | - | 専門分野 |
 | char_185_frncat@wild#7 | 营地炊烟 | Campfire Cooking Smoke | キャンプのお楽しみ |
 | char_187_ccheal@epoque#2 | 战医 | Combat Medic | 戦医 |
 | char_188_helage@boc#2 | 歧路幻影 | Octopath Illusion | 岐路幻影 |
@@ -107,6 +108,7 @@ tip: 请善用浏览器的搜索功能
 | char_198_blackd@as#1 | 无言狂响 | Speechless Sound | 無言の狂騒 |
 | char_198_blackd@winter#1 | 新航线 | New Routes | 新航路 |
 | char_199_yak@summer#1 | 沙滩护卫 GT.001 | Beach Guard GT.001 | 砂浜の番人GT001 |
+| char_2012_typhon@summer#17 | 温差 RT.RX07 | - | - |
 | char_2012_typhon@wild#9 | 北地引路人 | Northern Pathfinder | 北地の案内人 |
 | char_2013_cerber@summer#4 | 夏卉 FA333 | Summer Flowers FA333 | 夏の花弁FA333 |
 | char_2013_cerber@whirlwind#2 | 无拘无束 | Unfettered | 自由奔放 |
@@ -174,6 +176,7 @@ tip: 请善用浏览器的搜索功能
 | char_277_sqrrel@ghost#1 | 古堡清洁专家 | Cleansweeper in the Castle | 古城の掃除屋 |
 | char_278_orchid@boc#6 | 衣缕往昔 | Twines of Time | 在りし日を繕って |
 | char_279_excu@boc#1 | 无题密令 | Titleless Code | 無題の密命 |
+| char_282_catap@summer#17 | 悠然假日 HD66 | - | - |
 | char_283_midn@boc#1 | 第七夜苏醒魔君 | Seventh Night's Awakened | 第七夜に覚醒めし魔王 |
 | char_284_spot@boc#3 | 专业人士 | Professional | プロフェッショナル |
 | char_285_medic2@boc#4 | 海岸救援改装 | Shore Rescue Modification | 海難救助特化型 |
@@ -236,7 +239,7 @@ tip: 请善用浏览器的搜索功能
 | char_383_snsant@witch#2 | 天命勇者 | Fated Hero | 宿命の勇者 |
 | char_385_finlpp@nian#11 | 贺新禧 | - | - |
 | char_388_mint@epoque#22 | 月宵 | Tsukiyoi | 月宵 |
-| char_388_mint@epoque#30 | 私人书房 | - | - |
+| char_388_mint@epoque#30 | 私人书房 | - | 本と過ごすひと時 |
 | char_391_rosmon@epoque#17 | 拥抱新生 | Become Anew | 始まりを抱く |
 | char_4000_jnight@boc#7 | 竞技之梦改装 | Tournament Fantasy Retrofit Kit | 改装「競技の夢」 |
 | char_4004_pudd@snow#5 | 火树灵 | Gleaming Fey | 煌めく精霊 |
@@ -253,6 +256,7 @@ tip: 请善用浏览器的搜索功能
 | char_4025_aprot2@whirlwind#5 | 结果 | The Fruition | 結実 |
 | char_4027_heyak@ambienceSynesthesia#4 | 历世流风 | - | - |
 | char_402_tuye@epoque#14 | 培翠 | Cultivate Vegetation | 緑化 |
+| char_4032_provs@summer#17 | 悠然假日 HD78 | - | - |
 | char_4032_provs@wild#7 | 秋高气爽 | High Autumn | 晴れ渡る秋空 |
 | char_4036_forcer@epoque#20 | 拾翼 | Paper Wing | 不確かな翼 |
 | char_4039_horn@epoque#24 | 化花 | To Effloresce Whitely | 花となりて |
@@ -267,6 +271,7 @@ tip: 请善用浏览器的搜索功能
 | char_4054_malist@summer#14 | 悠然假日 HDm74 | Holiday HDm74 | ホリデーHDm74 |
 | char_4055_bgsnow@wild#7 | 字句中的雪原 | Snowy Plains in Words | 行間にある雪原 |
 | char_405_absin@epoque#28 | 正午余光 | Noon Twilight | 真昼の残照 |
+| char_4062_totter@summer#17 | 灿阳朝露 SDm09 | - | - |
 | char_4064_mlynar@epoque#28 | 远路 | W Dali | 遠き道のり |
 | char_4065_judge@epoque#33 | 记叙 | - | - |
 | char_4065_judge@snow#6 | 偶尔醉陶 | Occasionally Flushed | たまの深酒 |
@@ -274,7 +279,7 @@ tip: 请善用浏览器的搜索功能
 | char_4071_peper@whirlwind#5 | 来路 | The Road to Here | 来た道 |
 | char_4072_ironmn@summer#11 | 沙滩护卫 GT003 | Beach Guard GT003 | 砂浜の番人GT003 |
 | char_4077_palico@mh#1 | 跃上街头 | Fly Into the Street | 街へ飛び出せ |
-| char_4078_bdhkgt@yun#2 | 伴青莲 | - | - |
+| char_4078_bdhkgt@yun#2 | 伴青莲 | - | 青蓮の友 |
 | char_4080_lin@nian#10 | 列瑶台 | - | - |
 | char_4082_qiubai@epoque#31 | 礼遇 | - | - |
 | char_4082_qiubai@ncg#1 | 霜林醉 | Wine-flushed is Woods of Rime | 霜林酔 |

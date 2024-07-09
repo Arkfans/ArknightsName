@@ -15,7 +15,7 @@ tip: 请善用浏览器的搜索功能
 | story_amgoat_set_2_story_1 | 火山 | Volcano | 火山 |
 | story_angel_set_1_story_1 | 来信 | Incoming Mail | 届いた手紙 |
 | story_angel_set_2_story_1 | 改变中的不变 | Constants Within Changes | 変化中の不変 |
-| story_ansel_set_1_story_1 | 身为医者 | - | - |
+| story_ansel_set_1_story_1 | 身为医者 | - | 医者として |
 | story_aosta_set_1_story_1 | 编织来日 | Future Woven | 明日を紡ぐ |
 | story_aprl_set_1_story_1 | 猎人的视线 | Hunter's Vision | 狩人の視線 |
 | story_aprot2_set_1_story_1 | 那一场戏 | The Play That Was | あの日の演目 |
@@ -49,9 +49,10 @@ tip: 请善用浏览器的搜索功能
 | story_brownb_set_1_story_1 | 终场铃声 | Ending Bell | 決着のゴング |
 | story_bryota_set_1_story_1 | 风情街的日与夜 | Day & Night at Fashion Street | 商店街の日々 |
 | story_bstalk_set_1_story_1 | 呼唤荒野 | The Wilds Do They Call | 荒野への呼びかけ |
-| story_bubble_set_1_story_1 | 勇者的试炼 | - | - |
-| story_buildr_set_1_story_1 | 复还的羽兽 | - | - |
+| story_bubble_set_1_story_1 | 勇者的试炼 | - | 戦士の試練 |
+| story_buildr_set_1_story_1 | 复还的羽兽 | - | 戻ってきた羽獣 |
 | story_cammou_set_1_story_1 | 无人工房 | Unmanned Workshop | 無人工場 |
+| story_caper_set_1_story_1 | 快乐之地 | - | - |
 | story_cast3_set_1_story_1 | 不朽 | Immortal | 不朽 |
 | story_catap_set_1_story_1 | 挣脱 | Break Free | 脱出 |
 | story_catap_set_2_story_1 | 改变 | Change | 改変 |
@@ -73,7 +74,7 @@ tip: 请善用浏览器的搜索功能
 | story_cutter_set_1_story_1 | 速食食品 | Meals, Ready-to-Eat | 携行食 |
 | story_dagda_set_1_story_1 | 脚步不停 | How She Strode Onward | 止まらない歩み |
 | story_deepcl_set_1_story_1 | 幽蓝怀想 | Azure Memories | 深き青の追想 |
-| story_deepcl_set_2_story_2 | 蓝调 | - | - |
+| story_deepcl_set_2_story_1 | 蓝调 | - | - |
 | story_doroth_set_1_story_1 | 何处是我朋友的家 | Where is the Friend's House? | 友の故郷はいずこ |
 | story_durin_set_1_story_1 | 午休时间 | Lunchtime Nap | お昼休み |
 | story_durnar_set_1_story_1 | 额外训练 | Extra Training | 追加訓練 |
@@ -112,6 +113,7 @@ tip: 请善用浏览器的搜索功能
 | story_glady_set_1_story_1 | 失水症 | Dehydration | 脱水症 |
 | story_glassb_set_1_story_1 | 走吧，走吧 | Let's Go, Let's Go | さあ、行こう |
 | story_glassb_set_2_story_1 | 再见以前 | Before I Say Goodbye | いつかの日に別れを |
+| story_glaze_set_1_story_1 | 圣城晚照 | - | - |
 | story_glider_set_1_story_1 | 苦涩的根茎 | A Bitterest Rhizome | 苦い根茎 |
 | story_gnosis_set_1_story_1 | 起点 | Starting Point | 起点 |
 | story_grani_set_1_story_1 | 穷途不返 | Once Rock Bottom... | 決して振り返らず |
@@ -123,6 +125,7 @@ tip: 请善用浏览器的搜索功能
 | story_haini_set_1_story_1 | 怀有希望之人 | - | - |
 | story_halo_set_1_story_1 | 实验进行中 | Now Experimenting... | 実験進行中 |
 | story_hamoni_set_1_story_1 | 孤独的舞者 | Solitary Dancer | 孤独なダンサー |
+| story_harold_set_1_story_1 | 老兵的义肢 | - | - |
 | story_hbisc2_set_1_story_1 | 无名之花 | Nameless Flower | 名もなき花 |
 | story_headbr_set_1_story_1 | 强中自有强中手 | Strong Meets Stronger | 強さに果てはなし |
 | story_headbr_set_2_story_1 | 在冬夜里燃烧 | Burning on a Winter Night | 冬の夜に燃える |
@@ -169,7 +172,7 @@ tip: 请善用浏览器的搜索功能
 | story_mberry_set_1_story_1 | 平安祈愿 | A Prayer for Peace | 安全祈願 |
 | story_medic2_set_1_story_1 | 一个涂鸦 | A Piece of Graffiti | ある落書き |
 | story_melan_set_1_story_1 | 小队长 | Team Captain | 小隊長 |
-| story_melnte_set_1_story_1 | 失去的时光 | - | - |
+| story_melnte_set_1_story_1 | 失去的时光 | - | 失った時間 |
 | story_meteo_set_1_story_1 | 一星萤火 | Firefly's Light | 一灯の蛍火 |
 | story_mgllan_set_1_story_1 | 生生不息 | Cycle of Life | 命は巡る |
 | story_midn_set_1_story_1 | 一封家书 | Letter From Home | 故郷からの便り |
@@ -278,6 +281,7 @@ tip: 请善用浏览器的搜索功能
 | story_vodfox_set_1_story_1 | 无字诅咒 | A Curse Without Words | 文字なき呪い |
 | story_vrdant_set_1_story_1 | 小草的呼喊 | - | - |
 | story_waaifu_set_1_story_1 | 武为何物 | What Martial Arts Serve | 武とは何ぞや |
+| story_warmy_set_1_story_1 | 未完的结局 | - | - |
 | story_weedy_set_1_story_1 | 同舟 | Together Aboard | 同舟 |
 | story_whispr_set_1_story_1 | 雨落之前 | Before the Rain | 雨降る前に |
 | story_wildmn_set_1_story_1 | 憧憬 | Aspiration | 憧憬 |

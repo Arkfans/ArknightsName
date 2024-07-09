@@ -51,7 +51,7 @@ tip: 请善用浏览器的搜索功能
 | act16d5d2 | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |
 | act16d6 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act16login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
-| act16mini | 去咧嘴谷 | - | - |
+| act16mini | 去咧嘴谷 | - | ニヤニヤ谷へ |
 | act16side | 吾导先路 | Guide Ahead | 吾れ先導者たらん |
 | act16sre | 吾导先路·复刻 | Guide Ahead - Rerun | 吾れ先導者たらん・復刻 |
 | act17d0 | 源石尘行动 | Operation Originium Dust | OP:OD |
@@ -61,6 +61,7 @@ tip: 请善用浏览器的搜索功能
 | act17d5 | 生于黑夜·复刻 | Darknights Memoir - Rerun | 闇夜に生きる・復刻 |
 | act17d7 | 愚人节活动 | April Fools' Day Event | エイプリルフール |
 | act17login | 《明日方舟：冬隐归路》开播庆祝活动 | - | - |
+| act17mini | 熔炉“还魂”记 | - | - |
 | act17side | 愚人号 | Stultifera Navis | 狂人号 |
 | act17sre | 愚人号·复刻 | Stultifera Navis - Rerun | 狂人号・復刻 |
 | act18d0 | 遗尘漫步 | A Walk in the Dust | 遺塵の道を |
@@ -104,7 +105,7 @@ tip: 请善用浏览器的搜索功能
 | act22sre | 照我以火·复刻 | - | - |
 | act23side | 登临意 | Where Vernal Winds Will Never Blow | 登臨意 |
 | act23sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
-| act23sre | 登临意·复刻 | - | - |
+| act23sre | 登临意·复刻 | - | 登臨意・復刻 |
 | act24side | 落叶逐火 | A Flurry to the Flame | 紅炎遣らう落葉 |
 | act24sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act25side | 孤星 | Lone Trail | 孤星 |
@@ -152,6 +153,7 @@ tip: 请善用浏览器的搜索功能
 | act3mine | 葫芦谷矿区登录活动 | Gourd Valley Mining Area Login Event | ゴードバレー採鉱区 |
 | act3pray | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |
 | act3switch | 虹彩茶会合作活动 | - | - |
+| act40sign | 无终奇语签到活动 | - | - |
 | act42d0 | 纷争演绎 | Design of Strife | 紛争演繹 |
 | act4bossrush | 引航者试炼 | - | - |
 | act4d0 | 战地秘闻 | Operational Intelligence | 戦地の逸話 |

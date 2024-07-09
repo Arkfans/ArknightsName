@@ -1050,6 +1050,7 @@
     "zh_CN": "夕墨"
   },
   "act16mini_token_sap": {
+    "ja_JP": "辛口樹液",
     "zh_CN": "辣瓶树水"
   },
   "act16side_token_bolt": {
@@ -1069,6 +1070,9 @@
   },
   "act17d0_token_form_rep_1": {
     "zh_CN": "罗德岛物资配给证书"
+  },
+  "act17mini_token_ash": {
+    "zh_CN": "炉渣"
   },
   "act17side_token_compass": {
     "en_US": "Rusted Compass",
@@ -1207,6 +1211,7 @@
     "zh_CN": "新酿烈刀子"
   },
   "act23side_token_spirit_rep_1": {
+    "ja_JP": "烈刀子",
     "zh_CN": "新酿烈刀子"
   },
   "act24side_melding_1": {
@@ -3896,6 +3901,7 @@
     "zh_CN": "林的信物"
   },
   "p_char_4081_warmy": {
+    "ja_JP": "ウォーミーの印",
     "zh_CN": "温米的信物"
   },
   "p_char_4082_qiubai": {
@@ -3979,6 +3985,7 @@
     "zh_CN": "锏的信物"
   },
   "p_char_4117_ray": {
+    "ja_JP": "レイの印",
     "zh_CN": "莱伊的信物"
   },
   "p_char_4119_wanqin": {
@@ -4030,6 +4037,12 @@
   },
   "p_char_4145_ulpia": {
     "zh_CN": "乌尔比安的信物"
+  },
+  "p_char_4146_nymph": {
+    "zh_CN": "妮芙的信物"
+  },
+  "p_char_4147_mitm": {
+    "zh_CN": "渡桥的信物"
   },
   "p_char_415_flint": {
     "en_US": "Flint's Token",
@@ -4911,6 +4924,9 @@
     "ja_JP": "龍門茶室家具パック",
     "zh_CN": "龙门风情茶室家具收藏包"
   },
+  "uni_set_rhineLab": {
+    "zh_CN": "绿野幻梦家具收藏包"
+  },
   "uni_set_samiRoom_1": {
     "en_US": "Sami Impressions Furniture Pack I",
     "ja_JP": "サーミ風家具パックvol.1",
@@ -4927,6 +4943,7 @@
     "zh_CN": "风雪过境家具收藏包"
   },
   "uni_set_teaHouse": {
+    "ja_JP": "将進酒家具パック",
     "zh_CN": "将进酒家具收藏包"
   },
   "uni_set_westCoast": {
@@ -4953,6 +4970,9 @@
     "en_US": "Automatic Chip Pack Etcher",
     "ja_JP": "中級SoCセルフプリンター",
     "zh_CN": "自助芯片组印刻仪"
+  },
+  "voucher_elite_II_4": {
+    "zh_CN": "专业干员特训邀请函"
   },
   "voucher_elite_II_5": {
     "en_US": "Senior Operator Training Invitation Letter",
@@ -5007,12 +5027,16 @@
     "ja_JP": "グラニの手紙",
     "zh_CN": "格拉尼的私人信件"
   },
+  "voucher_full_halo": {
+    "zh_CN": "星源的私人信件"
+  },
   "voucher_full_kjera": {
     "en_US": "Kjera's Personal Letter",
     "ja_JP": "イェラの手紙",
     "zh_CN": "耶拉的私人信件"
   },
   "voucher_full_kroos2": {
+    "ja_JP": "寒芒クルースの手紙",
     "zh_CN": "寒芒克洛丝的私人信件"
   },
   "voucher_full_lava2": {
@@ -5174,6 +5198,9 @@
   },
   "voucher_recruitR5_pick5001": {
     "zh_CN": "资深干员调用凭证"
+  },
+  "voucher_skill_specialLevelMax_5": {
+    "zh_CN": "资深干员技巧集"
   },
   "voucher_skin": {
     "en_US": "Outfit Voucher",

@@ -219,11 +219,12 @@ tip: 请善用浏览器的搜索功能
 | act15side_token_tea_rep_1 | 罐装晌午茶 | Canned Tea | 正午茶 |
 | act16d5_token_inker | 夕墨 | Dusk Inkstick | 夕墨 |
 | act16d5_token_inker_rep_1 | 夕墨 | Dusk Inkstick | 夕墨 |
-| act16mini_token_sap | 辣瓶树水 | - | - |
+| act16mini_token_sap | 辣瓶树水 | - | 辛口樹液 |
 | act16side_token_bolt | 蚀刻弹弹壳 | Etched Bullet Casing | エッチング弾薬莢 |
 | act16side_token_bolt_rep_1 | 蚀刻弹弹壳 | Etched Bullet Casing | エッチング弾薬莢 |
 | act17d0_token_form | 罗德岛物资配给证书 | Rhodes Island Resource Allocation Certificate | ロドス物資配給許可書 |
 | act17d0_token_form_rep_1 | 罗德岛物资配给证书 | - | - |
+| act17mini_token_ash | 炉渣 | - | - |
 | act17side_token_compass | 锈蚀的罗盘 | Rusted Compass | 錆びたコンパス |
 | act17side_token_compass_rep_1 | 锈蚀的罗盘 | Rusted Compass | 錆びたコンパス |
 | act18d0_token_page | 手绘标本残页 | Scattered Sketches | 古い標本図 |
@@ -252,7 +253,7 @@ tip: 请善用浏览器的搜索功能
 | act22side_token_manuscript | 手抄歌谣集 | Manuscripts of Ballads | 民謡集の写本 |
 | act22side_token_manuscript_rep_1 | 手抄歌谣集 | - | - |
 | act23side_token_spirit | 新酿烈刀子 | Freshly-Brewed Liedaozi | 烈刀子 |
-| act23side_token_spirit_rep_1 | 新酿烈刀子 | - | - |
+| act23side_token_spirit_rep_1 | 新酿烈刀子 | - | 烈刀子 |
 | act24side_melding_1 | 破碎的骨片 | Bone Fragments | 欠けた骨 |
 | act24side_melding_2 | 源石虫的硬壳 | Originium Slug Shell | オリジムシの甲殻 |
 | act24side_melding_3 | 鬣犄兽的尖锐齿 | Sharp Oxmane Fangs | 山顎獣の鋭牙 |
@@ -809,7 +810,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4078_bdhkgt | 截云的信物 | Jieyun's Token | ジエユンの印 |
 | p_char_4079_haini | 海霓的信物 | - | - |
 | p_char_4080_lin | 林的信物 | Lin's Token | リンの印 |
-| p_char_4081_warmy | 温米的信物 | - | - |
+| p_char_4081_warmy | 温米的信物 | - | ウォーミーの印 |
 | p_char_4082_qiubai | 仇白的信物 | Qiubai's Token | チューバイの印 |
 | p_char_4083_chimes | 铎铃的信物 | Wind Chimes's Token | ウィンドチャイムの印 |
 | p_char_4087_ines | 伊内丝的信物 | Ines's Token | イネスの印 |
@@ -826,7 +827,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4110_delphn | 戴菲恩的信物 | Delphine's Token | デルフィーンの印 |
 | p_char_4114_harold | 哈洛德的信物 | Harold's Token | ハロルドの印 |
 | p_char_4116_blkkgt | 锏的信物 | Degenbrecher's Token | デーゲンブレヒャーの印 |
-| p_char_4117_ray | 莱伊的信物 | - | - |
+| p_char_4117_ray | 莱伊的信物 | - | レイの印 |
 | p_char_4119_wanqin | 万顷的信物 | - | - |
 | p_char_411_tomimi | 特米米的信物 | Tomimi's Token | トミミの印 |
 | p_char_4121_zuole | 左乐的信物 | - | - |
@@ -843,6 +844,8 @@ tip: 请善用浏览器的搜索功能
 | p_char_4136_phonor | PhonoR-0的信物 | - | - |
 | p_char_4137_udflow | 深巡的信物 | - | - |
 | p_char_4145_ulpia | 乌尔比安的信物 | - | - |
+| p_char_4146_nymph | 妮芙的信物 | - | - |
+| p_char_4147_mitm | 渡桥的信物 | - | - |
 | p_char_415_flint | 燧石的信物 | Flint's Token | フリントの印 |
 | p_char_416_zumama | 森蚺的信物 | Eunectes' Token | ユーネクテスの印 |
 | p_char_420_flamtl | 焰尾的信物 | Flametail's Token | フレイムテイルの印 |
@@ -1023,15 +1026,17 @@ tip: 请善用浏览器的搜索功能
 | uni_set_pizza | 骑兵与猎人家具收藏包 | Grani and the Knights' Treasure Furniture Pack | 騎兵と狩人家具パック |
 | uni_set_prison | 孤岛风云家具收藏包 | Mansfield Break Furniture Pack | 孤島激震家具パック |
 | uni_set_reception | 龙门风情茶室家具收藏包 | Lungmen Tearoom Furniture Collection Set | 龍門茶室家具パック |
+| uni_set_rhineLab | 绿野幻梦家具收藏包 | - | - |
 | uni_set_samiRoom_1 | 萨米印象家具收藏包一 | Sami Impressions Furniture Pack I | サーミ風家具パックvol.1 |
 | uni_set_samiRoom_2 | 萨米印象家具收藏包二 | Sami Impressions Furniture Pack II | サーミ風家具パックvol.2 |
 | uni_set_stage | 风雪过境家具收藏包 | Break the Ice Furniture Pack | 風雪一過家具パック |
-| uni_set_teaHouse | 将进酒家具收藏包 | - | - |
+| uni_set_teaHouse | 将进酒家具收藏包 | - | 将進酒家具パック |
 | uni_set_westCoast | 多索雷斯假日家具收藏包 | Dossoles Holiday Furniture Pack | ドッソレスホリデー家具パック |
 | voucher_5chipPackage | 自助芯片印刻仪 | Automatic Chip Etcher | SoCセルフプリンター |
 | voucher_chip | 芯片自助打印盒 | Automatic Chip Printer | 初級SoCセルフプリンター |
 | voucher_chipPack | 芯片组自助打印盒 | Automatic Chip Pack Printer | 中級SoCセルフプリンター |
 | voucher_chipPackage | 自助芯片组印刻仪 | Automatic Chip Pack Etcher | 中級SoCセルフプリンター |
+| voucher_elite_II_4 | 专业干员特训邀请函 | - | - |
 | voucher_elite_II_5 | 资深干员特训邀请函 | Senior Operator Training Invitation Letter | ★5特訓招待状 |
 | voucher_elite_II_6 | 高级资深干员特训邀请函 | Advanced Senior Operator Training Invitation Letter | ★6特訓招待状 |
 | voucher_full_absin | 苦艾的私人信件 | Absinthe's Personal Letter | アブサントの手紙 |
@@ -1043,8 +1048,9 @@ tip: 请善用浏览器的搜索功能
 | voucher_full_forcer | 见行者的私人信件 | - | - |
 | voucher_full_glady | 歌蕾蒂娅的私人信件 | Gladiia's Personal Letter | グレイディーアの手紙 |
 | voucher_full_grani | 格拉尼的私人信件 | Grani's Personal Letter | グラニの手紙 |
+| voucher_full_halo | 星源的私人信件 | - | - |
 | voucher_full_kjera | 耶拉的私人信件 | Kjera's Personal Letter | イェラの手紙 |
-| voucher_full_kroos2 | 寒芒克洛丝的私人信件 | - | - |
+| voucher_full_kroos2 | 寒芒克洛丝的私人信件 | - | 寒芒クルースの手紙 |
 | voucher_full_lava2 | 炎狱炎熔的私人信件 | Lava the Purgatory's Personal Letter | 炎獄ラヴァの手紙 |
 | voucher_full_lumen | 流明的私人信件 | - | - |
 | voucher_full_mint | 薄绿的私人信件 | Mint's Personal Letter | ミントの手紙 |
@@ -1079,6 +1085,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_recruitR5_pick2701 | 资深干员调用凭证 | Senior Operator Transfer Permit | ★5招聘指名券 |
 | voucher_recruitR5_pick3801 | 资深干员调用凭证 | Senior Operator Transfer Permit | ★5招聘指名券 |
 | voucher_recruitR5_pick5001 | 资深干员调用凭证 | - | - |
+| voucher_skill_specialLevelMax_5 | 资深干员技巧集 | - | - |
 | voucher_skin | 时装自选凭证 | Outfit Voucher | コーデ交換券 |
 | voucher_ulika | U-Official的文件夹 | U-Official's Folder | U-Officialの書類入れ |
 | voucher_vigil | 伺夜的文件夹 | Vigil's Folder | ヴィジェルの書類入れ |

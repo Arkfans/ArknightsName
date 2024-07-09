@@ -61,7 +61,7 @@ tip: 请善用浏览器的搜索功能
 | act15sre_zone2 | 一十八峰 | Mountain Top | 一十八峰 |
 | act16d5_zone1 | 入画 | Leave From Yourself | 入画 |
 | act16d5_zone2 | 出画 | Come To Yourself | 出画 |
-| act16mini_zone1 | “下井” | - | - |
+| act16mini_zone1 | “下井” | - | 「坑道へ」 |
 | act16side_zone1 | 万国峰会 | Summit of Nations | 万国サミット |
 | act16side_zone2 | 圣殿之路 | Road to the Shrine | 聖堂へ至る道 |
 | act16sre_zone1 | 万国峰会 | Summit of Nations | 万国サミット |
@@ -71,6 +71,7 @@ tip: 请善用浏览器的搜索功能
 | act17d5_zone1 | 阵中往事 | Tales of Battle | 昔日の戦陣 |
 | act17d5_zone2 | 破败前线 | Shattered Front | 敗色の戦線 |
 | act17d5_zone3 | 战火回想 | Memories of War | 戦火の追想 |
+| act17mini_zone1 | 走入城市 | - | - |
 | act17side_zone1 | 格兰法洛 | Gran Faro | グランファーロ |
 | act17side_zone2 | 失落旗舰 | Lost Flagship | 失われし旗艦 |
 | act17side_zone3 | 无名之海 | Nameless Ocean | 名もなき海 |
@@ -119,8 +120,8 @@ tip: 请善用浏览器的搜索功能
 | act22sre_zone2 | 记忆灰烬 | - | - |
 | act23side_zone1 | 城中调查 | Case Investigation, Onsite | 城内調査 |
 | act23side_zone2 | 关外追凶 | Criminal Pursuit, Offsite | 関外追跡 |
-| act23sre_zone1 | 城中调查 | - | - |
-| act23sre_zone2 | 关外追凶 | - | - |
+| act23sre_zone1 | 城中调查 | - | 城内調査 |
+| act23sre_zone2 | 关外追凶 | - | 関外追跡 |
 | act24side_zone1 | 苍暮山地 | Soubo Mountains | 蒼暮山地 |
 | act24side_zone2 | 艾露猫的委托柜台 | Commeowssion Counter | アイルーの受付カウンター |
 | act25side_zone1 | 未来将至 | The Coming of The Future | 来たる未来 |
@@ -210,8 +211,8 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_16_zone5 | 终极赛道 | Ultimate Course | アルティメットコース |
 | permanent_sidestory_18_zone1 | 荒烟林沼 | - | - |
 | permanent_sidestory_18_zone2 | 记忆灰烬 | - | - |
-| permanent_sidestory_19_zone1 | 城中调查 | - | - |
-| permanent_sidestory_19_zone2 | 关外追凶 | - | - |
+| permanent_sidestory_19_zone1 | 城中调查 | - | 城内調査 |
+| permanent_sidestory_19_zone2 | 关外追凶 | - | 関外追跡 |
 | permanent_sidestory_1_zone1 | 滴水村周边 | Dewville Outskirts | 滴水村周辺 |
 | permanent_sidestory_1_zone2 | 宝藏之路 | Path to Treasure | 宝への道 |
 | permanent_sidestory_20_zone1 | 安布罗修修道院 | - | - |

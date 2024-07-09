@@ -283,6 +283,9 @@
   "SINGLE_51_0_4": {
     "zh_CN": "执裁者"
   },
+  "SINGLE_52_0_1": {
+    "zh_CN": "心与镜的印痕"
+  },
   "_ATTAIN_15_2_1": {
     "en_US": "Celebrate & Recollect",
     "ja_JP": "ロドスの道のり　回顧"
@@ -664,5 +667,8 @@
   "_SINGLE_28_0_1": {
     "en_US": "The Sojourner",
     "ja_JP": "さすらう者"
+  },
+  "_SINGLE_28_0_4": {
+    "ja_JP": "一筋の曙光"
   }
 }

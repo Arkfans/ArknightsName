@@ -289,16 +289,16 @@ tip: 请善用浏览器的搜索功能
 | trap_733_cdkzmra | 竞技记录分析仪 | Competition Records Analyzer | 競技記録アナライザー |
 | trap_734_cdkzmrb | 竞技记录分析仪 | Competition Records Analyzer | 競技記録アナライザー |
 | trap_735_platre | 汲取体 | Absorber | 渇望の触手 |
-| trap_736_mercha | 可充能督战音响 | - | - |
-| trap_737_merchaa | 可充能督战音响 | - | - |
-| trap_738_merchab | 可充能督战音响 | - | - |
-| trap_739_sniper | 智能空域控制机 | - | - |
-| trap_740_snipera | 智能空域控制机 | - | - |
-| trap_741_sniperb | 智能空域控制机 | - | - |
-| trap_742_gasbot | 速冷喷雾发射台 | - | - |
-| trap_743_gasbota | 速冷喷雾发射台 | - | - |
-| trap_744_gasbotb | 速冷喷雾发射台 | - | - |
-| trap_745_beer | “蜜酿万岁！” | - | - |
+| trap_736_mercha | 可充能督战音响 | - | 充電式前線用スピーカー |
+| trap_737_merchaa | 可充能督战音响 | - | 充電式前線用スピーカー |
+| trap_738_merchab | 可充能督战音响 | - | 充電式前線用スピーカー |
+| trap_739_sniper | 智能空域控制机 | - | 高性能空域制御器 |
+| trap_740_snipera | 智能空域控制机 | - | 高性能空域制御器 |
+| trap_741_sniperb | 智能空域控制机 | - | 高性能空域制御器 |
+| trap_742_gasbot | 速冷喷雾发射台 | - | 急速冷却噴射台 |
+| trap_743_gasbota | 速冷喷雾发射台 | - | 急速冷却噴射台 |
+| trap_744_gasbotb | 速冷喷雾发射台 | - | 急速冷却噴射台 |
+| trap_745_beer | “蜜酿万岁！” | - | 「ミード万歳！」 |
 | trap_746_cdrhine | 尖端研究成果共享终端 | - | - |
 | trap_747_cdrhinea | 尖端研究成果共享终端 | - | - |
 | trap_748_cdrhineb | 尖端研究成果共享终端 | - | - |

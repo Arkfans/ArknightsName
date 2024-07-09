@@ -280,6 +280,7 @@
     "zh_CN": "出画"
   },
   "act16mini_zone1": {
+    "ja_JP": "「坑道へ」",
     "zh_CN": "“下井”"
   },
   "act16side_zone1": {
@@ -326,6 +327,9 @@
     "en_US": "Memories of War",
     "ja_JP": "戦火の追想",
     "zh_CN": "战火回想"
+  },
+  "act17mini_zone1": {
+    "zh_CN": "走入城市"
   },
   "act17side_zone1": {
     "en_US": "Gran Faro",
@@ -560,9 +564,11 @@
     "zh_CN": "关外追凶"
   },
   "act23sre_zone1": {
+    "ja_JP": "城内調査",
     "zh_CN": "城中调查"
   },
   "act23sre_zone2": {
+    "ja_JP": "関外追跡",
     "zh_CN": "关外追凶"
   },
   "act24side_zone1": {
@@ -973,9 +979,11 @@
     "zh_CN": "记忆灰烬"
   },
   "permanent_sidestory_19_zone1": {
+    "ja_JP": "城内調査",
     "zh_CN": "城中调查"
   },
   "permanent_sidestory_19_zone2": {
+    "ja_JP": "関外追跡",
     "zh_CN": "关外追凶"
   },
   "permanent_sidestory_1_zone1": {

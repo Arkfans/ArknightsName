@@ -390,6 +390,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_milu_2 | 战术电台 | Tactical Transceiver | 爆撃要請 |
 | skchr_mint_1 | 风语 | Wind Whispers | 風のささやき |
 | skchr_mint_2 | 聚能涡旋 | Swirling Vortex | スパイラルバースト |
+| skchr_mitm_1 | 遥控解体 | - | - |
+| skchr_mitm_2 | 承压功率 | - | - |
 | skchr_mizuki_1 | 唤醒 | Awaken | 呼び声 |
 | skchr_mizuki_2 | 囚徒困境 | Prisoner's Dilemma | ジレンマ |
 | skchr_mizuki_3 | 镜花水月 | Moon in the Water | 鏡花水月 |
@@ -429,6 +431,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_noirc2_2 | 气刃兜割 | Spirit Helm Breaker | 気刃兜割り |
 | skchr_nothin_1 | 知难而退 | Cautious Retreat | 引き際の心得 |
 | skchr_nothin_2 | 阴晴圆缺 | Wax and Wane | 諸行無常 |
+| skchr_nymph_1 | 笞心击 | - | - |
+| skchr_nymph_2 | 怵然震爆 | - | - |
+| skchr_nymph_3 | 心防溃决 | - | - |
 | skchr_odda_1 | 火花溅射 | - | - |
 | skchr_odda_2 | 锻锤之力 | - | - |
 | skchr_otter_1 | 迷惑装置 | Bionic Device | 攪乱装置 |
@@ -475,9 +480,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_quartz_2 | 全力相搏 | All-Out Clash | フルスイング |
 | skchr_quercu_1 | 大地的慈悲 | Earth's Benevolence | 大地の慈悲 |
 | skchr_quercu_2 | 生灵的回响 | Echo of Life | 生命の木霊 |
-| skchr_ray_1 | 脱身矢 | - | - |
-| skchr_ray_2 | 广域警觉 | - | - |
-| skchr_ray_3 | “得见光芒” | - | - |
+| skchr_ray_1 | 脱身矢 | - | スラストショット |
+| skchr_ray_2 | 广域警觉 | - | 広域警戒 |
+| skchr_ray_3 | “得见光芒” | - | 「求めた光」 |
 | skchr_rdoc_1 | 以暴制暴 | - | - |
 | skchr_rdoc_2 | 激素手枪 | - | - |
 | skchr_red_1 | 处决模式 | Execution Mode | 処刑の構え |
@@ -620,8 +625,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_waaifu_1 | 寸劲 | One-inch Punch | 寸勁 |
 | skchr_waaifu_2 | 七武掠阵踢 | Seven-styles Kick | 七武掠陣脚 |
 | skchr_wanqin_2 | 应东风 | - | - |
-| skchr_warmy_1 | 炎炎火焰 | - | - |
-| skchr_warmy_2 | 滔滔热流 | - | - |
+| skchr_warmy_1 | 炎炎火焰 | - | ぱちぱち火花 |
+| skchr_warmy_2 | 滔滔热流 | - | めらめら焔 |
 | skchr_weedy_1 | 炮管敲击 | Barrel Burst | 砲身強打 |
 | skchr_weedy_2 | 水炮模式 | Hydraulics Mode | ハイドロキャノン |
 | skchr_weedy_3 | 液氮大炮 | Liquid Nitrogen Cannon | LN2キャノン |
@@ -690,7 +695,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_badbox | 极诱人珍宝 | Really Alluring Treasures | 財宝の蕩めき |
 | sktok_ballis | 发射弩箭 | Bolt Launching | 射撃 |
 | sktok_bbombcard | 爆炸 | Explode | 爆発 |
-| sktok_beer | “蜜酿万岁！” | - | - |
+| sktok_beer | “蜜酿万岁！” | - | 「ミード万歳！」 |
 | sktok_beewax | 沙之碑召唤 | Summon Sand Obelisk | オベリスクの激震 |
 | sktok_bgarmn_1 | 研究成功 | Research Success | 研究成功 |
 | sktok_bgarms_1 | 研究成功 | Research Success | 研究成功 |
@@ -799,9 +804,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_frosts_friend | 寒潮 | Frigid Tide | 氷結衝撃波 |
 | sktok_garage_1 | 自走车出击！ | Self-Driving Cart, Forward! | セルカー発進！ |
 | sktok_garage_2 | 自走车出击！ | Self-Driving Cart, Forward! | セルカー発進！ |
-| sktok_gasbot | 速效制冷 | - | - |
-| sktok_gasbota | 速效制冷 | - | - |
-| sktok_gasbotb | 速效制冷 | - | - |
+| sktok_gasbot | 速效制冷 | - | 即時冷却 |
+| sktok_gasbota | 速效制冷 | - | 即時冷却 |
+| sktok_gasbotb | 速效制冷 | - | 即時冷却 |
 | sktok_gasctrl | 毒雾控制 | Poison Mist Control | 毒霧制御 |
 | sktok_gate | 关闭闸门 | Gate Closing | シャッター |
 | sktok_gractrl | 重力生成 | Gravity Generation | 重力生成 |
@@ -829,9 +834,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_ltstat | 祈祷 | Prayer | 祈り |
 | sktok_machst | 强化加固 | Strengthen and Reinforce | 補強工事 |
 | sktok_magiccircle | 调谐 | Tuning | チューニング |
-| sktok_mercha | 战地鼓舞 | - | - |
-| sktok_merchaa | 战地鼓舞 | - | - |
-| sktok_merchab | 战地鼓舞 | - | - |
+| sktok_mercha | 战地鼓舞 | - | 戦地の激励 |
+| sktok_merchaa | 战地鼓舞 | - | 戦地の激励 |
+| sktok_merchab | 战地鼓舞 | - | 戦地の激励 |
 | sktok_mgllan_drone1 | 回收 | Recycle | 回収 |
 | sktok_mgllan_drone2 | 回收 | Recycle | 回収 |
 | sktok_mgllan_drone3 | 回收 | Recycle | 回収 |
@@ -842,6 +847,8 @@ tip: 请善用浏览器的搜索功能
 | sktok_mhwrct | 滞空牵引无人机 | Wiredrone | 滞空牽引ドローン |
 | sktok_mine | 触爆 | Detonate | 接触式起爆 |
 | sktok_mire | 沼泽控制 | Mire Control | 沼地制御 |
+| sktok_mitm_trshrb_1 | 废品战车 | - | - |
+| sktok_mitm_trshrb_2 | 废品战车 | - | - |
 | sktok_mlyss_wtrman_1 | 流形 | Flowing Shape | うつろう水影 |
 | sktok_mlyss_wtrman_2 | 流形 | Flowing Shape | うつろう水影 |
 | sktok_mlyss_wtrman_3 | 流形 | Flowing Shape | うつろう水影 |
@@ -877,7 +884,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_prison | 启动禁锢！ | Lock 'em Up! | 禁固機能起動！ |
 | sktok_pushtw | 气体爆喷 | Air Burst | ガス噴射 |
 | sktok_rarebox | 更诱人珍宝 | More Alluring Treasures | 財宝の蠱惑 |
-| sktok_ray_2 | 广域警觉 | - | - |
+| sktok_ray_2 | 广域警觉 | - | 広域警戒 |
 | sktok_rdblock | 阻拦 | Intercept | 障害物 |
 | sktok_rdrepair | 修复步道 | Restore Path | 歩道修復 |
 | sktok_recodr_1 | 实体程式 | Entitative Program | 実体プログラム |
@@ -917,9 +924,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_smrbox | 刺人珍宝 | Spiky Treasures | 財宝に刺あり |
 | sktok_smtree | 阻止部署 | Block Deployment | 配置妨害 |
 | sktok_snflwr | 全自动划账 | Full-Auto Debit | 全自動送金 |
-| sktok_sniper | 空域控制 | - | - |
-| sktok_snipera | 空域控制 | - | - |
-| sktok_sniperb | 空域控制 | - | - |
+| sktok_sniper | 空域控制 | - | 空域支配 |
+| sktok_snipera | 空域控制 | - | 空域支配 |
+| sktok_sniperb | 空域控制 | - | 空域支配 |
 | sktok_spblls | 巫术弩炮 | - | - |
 | sktok_stdurk_1 | “咔嚓！” | 'Snap!' | ｢カシャッ！｣ |
 | sktok_stmbot | 水汽汽水瓶 | Steam Soda Bottle | スチームサイダー |

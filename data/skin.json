@@ -71,7 +71,11 @@
     "zh_CN": "夏卉 FA361"
   },
   "char_1020_reed2@epoque#30": {
+    "ja_JP": "歴史に囲まれて",
     "zh_CN": "博物"
+  },
+  "char_1020_reed2@summer#17": {
+    "zh_CN": "夏卉 FA075"
   },
   "char_1021_kroos2@nian#8": {
     "en_US": "Along the Corridor",
@@ -432,6 +436,7 @@
     "zh_CN": "闲适午后"
   },
   "char_183_skgoat@epoque#30": {
+    "ja_JP": "専門分野",
     "zh_CN": "主修领域"
   },
   "char_185_frncat@wild#7": {
@@ -486,6 +491,9 @@
     "en_US": "Beach Guard GT.001",
     "ja_JP": "砂浜の番人GT001",
     "zh_CN": "沙滩护卫 GT.001"
+  },
+  "char_2012_typhon@summer#17": {
+    "zh_CN": "温差 RT.RX07"
   },
   "char_2012_typhon@wild#9": {
     "en_US": "Northern Pathfinder",
@@ -814,6 +822,9 @@
     "ja_JP": "無題の密命",
     "zh_CN": "无题密令"
   },
+  "char_282_catap@summer#17": {
+    "zh_CN": "悠然假日 HD66"
+  },
   "char_283_midn@boc#1": {
     "en_US": "Seventh Night's Awakened",
     "ja_JP": "第七夜に覚醒めし魔王",
@@ -1111,6 +1122,7 @@
     "zh_CN": "月宵"
   },
   "char_388_mint@epoque#30": {
+    "ja_JP": "本と過ごすひと時",
     "zh_CN": "私人书房"
   },
   "char_391_rosmon@epoque#17": {
@@ -1187,6 +1199,9 @@
     "ja_JP": "緑化",
     "zh_CN": "培翠"
   },
+  "char_4032_provs@summer#17": {
+    "zh_CN": "悠然假日 HD78"
+  },
   "char_4032_provs@wild#7": {
     "en_US": "High Autumn",
     "ja_JP": "晴れ渡る秋空",
@@ -1257,6 +1272,9 @@
     "ja_JP": "真昼の残照",
     "zh_CN": "正午余光"
   },
+  "char_4062_totter@summer#17": {
+    "zh_CN": "灿阳朝露 SDm09"
+  },
   "char_4064_mlynar@epoque#28": {
     "en_US": "W Dali",
     "ja_JP": "遠き道のり",
@@ -1289,6 +1307,7 @@
     "zh_CN": "跃上街头"
   },
   "char_4078_bdhkgt@yun#2": {
+    "ja_JP": "青蓮の友",
     "zh_CN": "伴青莲"
   },
   "char_4080_lin@nian#10": {

@@ -1868,6 +1868,12 @@
     "ja_JP": "スパイラルバースト",
     "zh_CN": "聚能涡旋"
   },
+  "skchr_mitm_1": {
+    "zh_CN": "遥控解体"
+  },
+  "skchr_mitm_2": {
+    "zh_CN": "承压功率"
+  },
   "skchr_mizuki_1": {
     "en_US": "Awaken",
     "ja_JP": "呼び声",
@@ -2062,6 +2068,15 @@
     "en_US": "Wax and Wane",
     "ja_JP": "諸行無常",
     "zh_CN": "阴晴圆缺"
+  },
+  "skchr_nymph_1": {
+    "zh_CN": "笞心击"
+  },
+  "skchr_nymph_2": {
+    "zh_CN": "怵然震爆"
+  },
+  "skchr_nymph_3": {
+    "zh_CN": "心防溃决"
   },
   "skchr_odda_1": {
     "zh_CN": "火花溅射"
@@ -2290,12 +2305,15 @@
     "zh_CN": "生灵的回响"
   },
   "skchr_ray_1": {
+    "ja_JP": "スラストショット",
     "zh_CN": "脱身矢"
   },
   "skchr_ray_2": {
+    "ja_JP": "広域警戒",
     "zh_CN": "广域警觉"
   },
   "skchr_ray_3": {
+    "ja_JP": "「求めた光」",
     "zh_CN": "“得见光芒”"
   },
   "skchr_rdoc_1": {
@@ -2985,9 +3003,11 @@
     "zh_CN": "应东风"
   },
   "skchr_warmy_1": {
+    "ja_JP": "ぱちぱち火花",
     "zh_CN": "炎炎火焰"
   },
   "skchr_warmy_2": {
+    "ja_JP": "めらめら焔",
     "zh_CN": "滔滔热流"
   },
   "skchr_weedy_1": {
@@ -3313,6 +3333,7 @@
     "zh_CN": "爆炸"
   },
   "sktok_beer": {
+    "ja_JP": "「ミード万歳！」",
     "zh_CN": "“蜜酿万岁！”"
   },
   "sktok_beewax": {
@@ -3816,12 +3837,15 @@
     "zh_CN": "自走车出击！"
   },
   "sktok_gasbot": {
+    "ja_JP": "即時冷却",
     "zh_CN": "速效制冷"
   },
   "sktok_gasbota": {
+    "ja_JP": "即時冷却",
     "zh_CN": "速效制冷"
   },
   "sktok_gasbotb": {
+    "ja_JP": "即時冷却",
     "zh_CN": "速效制冷"
   },
   "sktok_gasctrl": {
@@ -3948,12 +3972,15 @@
     "zh_CN": "调谐"
   },
   "sktok_mercha": {
+    "ja_JP": "戦地の激励",
     "zh_CN": "战地鼓舞"
   },
   "sktok_merchaa": {
+    "ja_JP": "戦地の激励",
     "zh_CN": "战地鼓舞"
   },
   "sktok_merchab": {
+    "ja_JP": "戦地の激励",
     "zh_CN": "战地鼓舞"
   },
   "sktok_mgllan_drone1": {
@@ -4005,6 +4032,12 @@
     "en_US": "Mire Control",
     "ja_JP": "沼地制御",
     "zh_CN": "沼泽控制"
+  },
+  "sktok_mitm_trshrb_1": {
+    "zh_CN": "废品战车"
+  },
+  "sktok_mitm_trshrb_2": {
+    "zh_CN": "废品战车"
   },
   "sktok_mlyss_wtrman_1": {
     "en_US": "Flowing Shape",
@@ -4168,6 +4201,7 @@
     "zh_CN": "更诱人珍宝"
   },
   "sktok_ray_2": {
+    "ja_JP": "広域警戒",
     "zh_CN": "广域警觉"
   },
   "sktok_rdblock": {
@@ -4364,12 +4398,15 @@
     "zh_CN": "全自动划账"
   },
   "sktok_sniper": {
+    "ja_JP": "空域支配",
     "zh_CN": "空域控制"
   },
   "sktok_snipera": {
+    "ja_JP": "空域支配",
     "zh_CN": "空域控制"
   },
   "sktok_sniperb": {
+    "ja_JP": "空域支配",
     "zh_CN": "空域控制"
   },
   "sktok_spblls": {

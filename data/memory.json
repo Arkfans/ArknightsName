@@ -50,6 +50,7 @@
     "zh_CN": "改变中的不变"
   },
   "story_ansel_set_1_story_1": {
+    "ja_JP": "医者として",
     "zh_CN": "身为医者"
   },
   "story_aosta_set_1_story_1": {
@@ -210,15 +211,20 @@
     "zh_CN": "呼唤荒野"
   },
   "story_bubble_set_1_story_1": {
+    "ja_JP": "戦士の試練",
     "zh_CN": "勇者的试炼"
   },
   "story_buildr_set_1_story_1": {
+    "ja_JP": "戻ってきた羽獣",
     "zh_CN": "复还的羽兽"
   },
   "story_cammou_set_1_story_1": {
     "en_US": "Unmanned Workshop",
     "ja_JP": "無人工場",
     "zh_CN": "无人工房"
+  },
+  "story_caper_set_1_story_1": {
+    "zh_CN": "快乐之地"
   },
   "story_cast3_set_1_story_1": {
     "en_US": "Immortal",
@@ -321,7 +327,7 @@
     "ja_JP": "深き青の追想",
     "zh_CN": "幽蓝怀想"
   },
-  "story_deepcl_set_2_story_2": {
+  "story_deepcl_set_2_story_1": {
     "zh_CN": "蓝调"
   },
   "story_doroth_set_1_story_1": {
@@ -510,6 +516,9 @@
     "ja_JP": "いつかの日に別れを",
     "zh_CN": "再见以前"
   },
+  "story_glaze_set_1_story_1": {
+    "zh_CN": "圣城晚照"
+  },
   "story_glider_set_1_story_1": {
     "en_US": "A Bitterest Rhizome",
     "ja_JP": "苦い根茎",
@@ -562,6 +571,9 @@
     "en_US": "Solitary Dancer",
     "ja_JP": "孤独なダンサー",
     "zh_CN": "孤独的舞者"
+  },
+  "story_harold_set_1_story_1": {
+    "zh_CN": "老兵的义肢"
   },
   "story_hbisc2_set_1_story_1": {
     "en_US": "Nameless Flower",
@@ -786,6 +798,7 @@
     "zh_CN": "小队长"
   },
   "story_melnte_set_1_story_1": {
+    "ja_JP": "失った時間",
     "zh_CN": "失去的时光"
   },
   "story_meteo_set_1_story_1": {
@@ -1305,6 +1318,9 @@
     "en_US": "What Martial Arts Serve",
     "ja_JP": "武とは何ぞや",
     "zh_CN": "武为何物"
+  },
+  "story_warmy_set_1_story_1": {
+    "zh_CN": "未完的结局"
   },
   "story_weedy_set_1_story_1": {
     "en_US": "Together Aboard",
