@@ -310,3 +310,13 @@ tip: 请善用浏览器的搜索功能
 | trap_754_cdcasterb | 法术调和能量场 | - | - |
 | trap_755_cdsoul | 啸叫音响 | - | - |
 | trap_756_cdnest | “黏黏的赠品” | - | - |
+| trap_757_skzbox | 宝箱 | - | - |
+| trap_758_skzmbx | 停滞巧械 | - | - |
+| trap_759_skzwyx | 垂死羽兽 | - | - |
+| trap_760_skztzs | 年代之刺 | - | - |
+| trap_761_skzthx | 尊主的残影 | - | - |
+| trap_762_skztxy | 特蕾西娅，黑冠圣贤 | - | - |
+| trap_763_skzddd | 圣卫坚盾 | - | - |
+| trap_764_skzshp | 驮兽旅行家 | - | - |
+| trap_766_duelwal | 狭路相逢 | - | - |
+| trap_767_duelcdt | 狭路相逢 | - | - |

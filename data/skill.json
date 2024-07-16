@@ -2842,6 +2842,12 @@
     "ja_JP": "裂魂",
     "zh_CN": "裂魂"
   },
+  "skchr_tinman_1": {
+    "zh_CN": "“老科利”"
+  },
+  "skchr_tinman_2": {
+    "zh_CN": "“大拉里”"
+  },
   "skchr_tknogi_1": {
     "en_US": "Without a Trace",
     "ja_JP": "跡無",
@@ -3740,6 +3746,15 @@
     "ja_JP": "爆破",
     "zh_CN": "爆破"
   },
+  "sktok_duelcdt_1": {
+    "zh_CN": "狭路相逢"
+  },
+  "sktok_duelcdt_2": {
+    "zh_CN": "狭路相逢"
+  },
+  "sktok_duelwal": {
+    "zh_CN": "狭路相逢"
+  },
   "sktok_dupilr": {
     "en_US": "Collapsing Pillar",
     "ja_JP": "倒壊",
@@ -4354,6 +4369,18 @@
     "en_US": "Resonance",
     "ja_JP": "共鳴",
     "zh_CN": "共鸣"
+  },
+  "sktok_skzbox": {
+    "zh_CN": "诱人珍宝"
+  },
+  "sktok_skzmbx": {
+    "zh_CN": "诱人珍宝？"
+  },
+  "sktok_skztxy_1": {
+    "zh_CN": "意志震荡"
+  },
+  "sktok_skzwyx": {
+    "zh_CN": "更诱人珍宝"
   },
   "sktok_sleep": {
     "en_US": "Rescue Rope",

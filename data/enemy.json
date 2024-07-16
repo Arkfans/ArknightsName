@@ -4555,6 +4555,69 @@
     "ja_JP": "自走式探査車",
     "zh_CN": "勘察用自走车"
   },
+  "enemy_2063_skzlch": {
+    "zh_CN": "萨卡兹迷宫劝导者"
+  },
+  "enemy_2064_skzwdd": {
+    "zh_CN": "萨卡兹迷宫归乡者"
+  },
+  "enemy_2065_skzjs": {
+    "zh_CN": "恐卡兹"
+  },
+  "enemy_2066_skzlcp": {
+    "zh_CN": "萨卡兹迷宫织咒者"
+  },
+  "enemy_2067_skzcy": {
+    "zh_CN": "“门”"
+  },
+  "enemy_2068_skzirn": {
+    "zh_CN": "圣卫自动机"
+  },
+  "enemy_2069_skzbox": {
+    "zh_CN": "迷珍巧械"
+  },
+  "enemy_2070_skzfbx": {
+    "zh_CN": "迷珍飞械"
+  },
+  "enemy_2071_skzdny": {
+    "zh_CN": "菈玛莲"
+  },
+  "enemy_2072_skdny2": {
+    "zh_CN": "编织泪水的术师"
+  },
+  "enemy_2074_skzgly": {
+    "zh_CN": "歌利亚"
+  },
+  "enemy_2075_skgly2": {
+    "zh_CN": "遗忘创伤的战士"
+  },
+  "enemy_2076_skzklz": {
+    "zh_CN": "凯尔希"
+  },
+  "enemy_2077_skklz2": {
+    "zh_CN": "预见末日的贤人"
+  },
+  "enemy_2078_skzmst": {
+    "zh_CN": "Mon2tr"
+  },
+  "enemy_2079_skmst2": {
+    "zh_CN": "迭代的怪物"
+  },
+  "enemy_2080_skzlwy": {
+    "zh_CN": "弗莱蒙特，诸思之解答"
+  },
+  "enemy_2081_skztxs": {
+    "zh_CN": "特雷西斯，黑冠尊主"
+  },
+  "enemy_2082_skzdd": {
+    "zh_CN": "博卓卡斯替，圣卫铳骑"
+  },
+  "enemy_2084_skzcan": {
+    "zh_CN": "古德因纳夫先生"
+  },
+  "enemy_2085_skzjxd": {
+    "zh_CN": "圆仔"
+  },
   "enemy_3001_upeopl": {
     "en_US": "Ursus Civilian",
     "ja_JP": "ウルサス民間人",

@@ -288,6 +288,7 @@ tip: 请善用浏览器的搜索功能
 | char_4145_ulpia | 乌尔比安 | - | - |
 | char_4146_nymph | 妮芙 | - | - |
 | char_4147_mitm | 渡桥 | - | - |
+| char_4151_tinman | 锡人 | - | - |
 | char_415_flint | 燧石 | Flint | フリント |
 | char_416_zumama | 森蚺 | Eunectes | ユーネクテス |
 | char_420_flamtl | 焰尾 | Flametail | フレイムテイル |

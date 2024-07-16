@@ -590,6 +590,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_threye_2 | 我见枯朽之后 | After All I See Has Withered | 枯朽を視たりて |
 | skchr_tiger_1 | 碎甲拳 | Armorcrusher | 砕甲拳 |
 | skchr_tiger_2 | 裂魂 | Sundered Soul | 裂魂 |
+| skchr_tinman_1 | “老科利” | - | - |
+| skchr_tinman_2 | “大拉里” | - | - |
 | skchr_tknogi_1 | 迹无 | Without a Trace | 跡無 |
 | skchr_tknogi_2 | 森廻 | Forest's Embrace | 森廻 |
 | skchr_toddi_1 | 信号矢 | Signal Arrow | 信号矢 |
@@ -782,6 +784,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_dsshell | 赘生甲壳 | - | - |
 | sktok_dstnta | 摄食 | Devour | 摂食 |
 | sktok_dublst | 爆破 | Explode | 爆破 |
+| sktok_duelcdt_1 | 狭路相逢 | - | - |
+| sktok_duelcdt_2 | 狭路相逢 | - | - |
+| sktok_duelwal | 狭路相逢 | - | - |
 | sktok_dupilr | 支柱坍塌 | Collapsing Pillar | 倒壊 |
 | sktok_duruin | 阻挡路线 | Obstruct | 進路妨害 |
 | sktok_ebnhlz_token | 闪回 | Flashback | フラッシュバック |
@@ -913,6 +918,10 @@ tip: 请善用浏览器的搜索功能
 | sktok_skadi2_1 | 共鸣 | Resonance | 共鳴 |
 | sktok_skadi2_2 | 共鸣 | Resonance | 共鳴 |
 | sktok_skadi2_3 | 共鸣 | Resonance | 共鳴 |
+| sktok_skzbox | 诱人珍宝 | - | - |
+| sktok_skzmbx | 诱人珍宝？ | - | - |
+| sktok_skztxy_1 | 意志震荡 | - | - |
+| sktok_skzwyx | 更诱人珍宝 | - | - |
 | sktok_sleep | 救援绳索 | Rescue Rope | 救援ロープ |
 | sktok_slent2_protrb | 夜灯 | Night Banisher | 夜の灯火 |
 | sktok_slowfd | 高压喷射 | High-Pressure Spray | 高圧ガス |

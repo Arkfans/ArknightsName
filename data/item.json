@@ -4048,6 +4048,9 @@
   "p_char_4147_mitm": {
     "zh_CN": "渡桥的信物"
   },
+  "p_char_4151_tinman": {
+    "zh_CN": "锡人的信物"
+  },
   "p_char_415_flint": {
     "en_US": "Flint's Token",
     "ja_JP": "フリントの印",
@@ -4549,6 +4552,12 @@
     "en_US": "Lucid Acuity",
     "ja_JP": "理性的視野",
     "zh_CN": "理性视阈"
+  },
+  "rogue_4_token_bp": {
+    "zh_CN": "魂灵书签"
+  },
+  "rogue_4_token_grow": {
+    "zh_CN": "散佚迷思"
   },
   "sandbox_1_tokencoin": {
     "zh_CN": "繁荣点数"

@@ -959,6 +959,27 @@ tip: 请善用浏览器的搜索功能
 | enemy_2060_smshdw | 可汗片影 | - | - |
 | enemy_2061_smhond | 王者友伴 | - | - |
 | enemy_2062_smcar | 勘察用自走车 | Self-Driving Recon Cart | 自走式探査車 |
+| enemy_2063_skzlch | 萨卡兹迷宫劝导者 | - | - |
+| enemy_2064_skzwdd | 萨卡兹迷宫归乡者 | - | - |
+| enemy_2065_skzjs | 恐卡兹 | - | - |
+| enemy_2066_skzlcp | 萨卡兹迷宫织咒者 | - | - |
+| enemy_2067_skzcy | “门” | - | - |
+| enemy_2068_skzirn | 圣卫自动机 | - | - |
+| enemy_2069_skzbox | 迷珍巧械 | - | - |
+| enemy_2070_skzfbx | 迷珍飞械 | - | - |
+| enemy_2071_skzdny | 菈玛莲 | - | - |
+| enemy_2072_skdny2 | 编织泪水的术师 | - | - |
+| enemy_2074_skzgly | 歌利亚 | - | - |
+| enemy_2075_skgly2 | 遗忘创伤的战士 | - | - |
+| enemy_2076_skzklz | 凯尔希 | - | - |
+| enemy_2077_skklz2 | 预见末日的贤人 | - | - |
+| enemy_2078_skzmst | Mon2tr | - | - |
+| enemy_2079_skmst2 | 迭代的怪物 | - | - |
+| enemy_2080_skzlwy | 弗莱蒙特，诸思之解答 | - | - |
+| enemy_2081_skztxs | 特雷西斯，黑冠尊主 | - | - |
+| enemy_2082_skzdd | 博卓卡斯替，圣卫铳骑 | - | - |
+| enemy_2084_skzcan | 古德因纳夫先生 | - | - |
+| enemy_2085_skzjxd | 圆仔 | - | - |
 | enemy_3001_upeopl | 乌萨斯平民 | Ursus Civilian | ウルサス民間人 |
 | enemy_3002_ftrtal | 斗士塔露拉 | Talulah, the Fighter | 闘士タルラ |
 | enemy_3003_alymot | 大奖赛运输艇 | Competition Transport Vessel | 大会輸送艇 |

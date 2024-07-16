@@ -846,6 +846,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4145_ulpia | 乌尔比安的信物 | - | - |
 | p_char_4146_nymph | 妮芙的信物 | - | - |
 | p_char_4147_mitm | 渡桥的信物 | - | - |
+| p_char_4151_tinman | 锡人的信物 | - | - |
 | p_char_415_flint | 燧石的信物 | Flint's Token | フリントの印 |
 | p_char_416_zumama | 森蚺的信物 | Eunectes' Token | ユーネクテスの印 |
 | p_char_420_flamtl | 焰尾的信物 | Flametail's Token | フレイムテイルの印 |
@@ -948,6 +949,8 @@ tip: 请善用浏览器的搜索功能
 | rogue_2_token_grow | 主观想象 | Subjective Imagination | 主観的構想 |
 | rogue_3_token_bp | 生态标本 | Ecological Specimens | 生態標本 |
 | rogue_3_token_grow | 理性视阈 | Lucid Acuity | 理性的視野 |
+| rogue_4_token_bp | 魂灵书签 | - | - |
+| rogue_4_token_grow | 散佚迷思 | - | - |
 | sandbox_1_tokencoin | 繁荣点数 | - | - |
 | tier1_caster | 术师信物复制品 | Replicated Caster Token | ★1術師の印 |
 | tier1_guard | 近卫信物复制品 | Replicated Guard Token | ★1前衛の印 |

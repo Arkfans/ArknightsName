@@ -288,6 +288,7 @@ tip: 请善用浏览器的搜索功能
 | char_4145_ulpia | 乌尔比安 | - | - |
 | char_4146_nymph | 妮芙 | - | - |
 | char_4147_mitm | 渡桥 | - | - |
+| char_4151_tinman | 锡人 | - | - |
 | char_415_flint | 燧石 | Flint | フリント |
 | char_416_zumama | 森蚺 | Eunectes | ユーネクテス |
 | char_420_flamtl | 焰尾 | Flametail | フレイムテイル |
@@ -699,6 +700,16 @@ tip: 请善用浏览器的搜索功能
 | trap_754_cdcasterb | 法术调和能量场 | - | - |
 | trap_755_cdsoul | 啸叫音响 | - | - |
 | trap_756_cdnest | “黏黏的赠品” | - | - |
+| trap_757_skzbox | 宝箱 | - | - |
+| trap_758_skzmbx | 停滞巧械 | - | - |
+| trap_759_skzwyx | 垂死羽兽 | - | - |
+| trap_760_skztzs | 年代之刺 | - | - |
+| trap_761_skzthx | 尊主的残影 | - | - |
+| trap_762_skztxy | 特蕾西娅，黑冠圣贤 | - | - |
+| trap_763_skzddd | 圣卫坚盾 | - | - |
+| trap_764_skzshp | 驮兽旅行家 | - | - |
+| trap_766_duelwal | 狭路相逢 | - | - |
+| trap_767_duelcdt | 狭路相逢 | - | - |
 | char_002_amiya@epoque#4 | 见习联结者 | Fresh Fastener | 見習い宅配人 |
 | char_002_amiya@test#1 | 播种者 | Seedsower | プランター |
 | char_002_amiya@winter#1 | 报童 | Newsgirl | 新聞配達員 |
@@ -2009,6 +2020,27 @@ tip: 请善用浏览器的搜索功能
 | enemy_2060_smshdw | 可汗片影 | - | - |
 | enemy_2061_smhond | 王者友伴 | - | - |
 | enemy_2062_smcar | 勘察用自走车 | Self-Driving Recon Cart | 自走式探査車 |
+| enemy_2063_skzlch | 萨卡兹迷宫劝导者 | - | - |
+| enemy_2064_skzwdd | 萨卡兹迷宫归乡者 | - | - |
+| enemy_2065_skzjs | 恐卡兹 | - | - |
+| enemy_2066_skzlcp | 萨卡兹迷宫织咒者 | - | - |
+| enemy_2067_skzcy | “门” | - | - |
+| enemy_2068_skzirn | 圣卫自动机 | - | - |
+| enemy_2069_skzbox | 迷珍巧械 | - | - |
+| enemy_2070_skzfbx | 迷珍飞械 | - | - |
+| enemy_2071_skzdny | 菈玛莲 | - | - |
+| enemy_2072_skdny2 | 编织泪水的术师 | - | - |
+| enemy_2074_skzgly | 歌利亚 | - | - |
+| enemy_2075_skgly2 | 遗忘创伤的战士 | - | - |
+| enemy_2076_skzklz | 凯尔希 | - | - |
+| enemy_2077_skklz2 | 预见末日的贤人 | - | - |
+| enemy_2078_skzmst | Mon2tr | - | - |
+| enemy_2079_skmst2 | 迭代的怪物 | - | - |
+| enemy_2080_skzlwy | 弗莱蒙特，诸思之解答 | - | - |
+| enemy_2081_skztxs | 特雷西斯，黑冠尊主 | - | - |
+| enemy_2082_skzdd | 博卓卡斯替，圣卫铳骑 | - | - |
+| enemy_2084_skzcan | 古德因纳夫先生 | - | - |
+| enemy_2085_skzjxd | 圆仔 | - | - |
 | enemy_3001_upeopl | 乌萨斯平民 | Ursus Civilian | ウルサス民間人 |
 | enemy_3002_ftrtal | 斗士塔露拉 | Talulah, the Fighter | 闘士タルラ |
 | enemy_3003_alymot | 大奖赛运输艇 | Competition Transport Vessel | 大会輸送艇 |
@@ -3189,6 +3221,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4145_ulpia | 乌尔比安的信物 | - | - |
 | p_char_4146_nymph | 妮芙的信物 | - | - |
 | p_char_4147_mitm | 渡桥的信物 | - | - |
+| p_char_4151_tinman | 锡人的信物 | - | - |
 | p_char_415_flint | 燧石的信物 | Flint's Token | フリントの印 |
 | p_char_416_zumama | 森蚺的信物 | Eunectes' Token | ユーネクテスの印 |
 | p_char_420_flamtl | 焰尾的信物 | Flametail's Token | フレイムテイルの印 |
@@ -3291,6 +3324,8 @@ tip: 请善用浏览器的搜索功能
 | rogue_2_token_grow | 主观想象 | Subjective Imagination | 主観的構想 |
 | rogue_3_token_bp | 生态标本 | Ecological Specimens | 生態標本 |
 | rogue_3_token_grow | 理性视阈 | Lucid Acuity | 理性的視野 |
+| rogue_4_token_bp | 魂灵书签 | - | - |
+| rogue_4_token_grow | 散佚迷思 | - | - |
 | sandbox_1_tokencoin | 繁荣点数 | - | - |
 | tier1_caster | 术师信物复制品 | Replicated Caster Token | ★1術師の印 |
 | tier1_guard | 近卫信物复制品 | Replicated Guard Token | ★1前衛の印 |
@@ -4240,6 +4275,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_threye_2 | 我见枯朽之后 | After All I See Has Withered | 枯朽を視たりて |
 | skchr_tiger_1 | 碎甲拳 | Armorcrusher | 砕甲拳 |
 | skchr_tiger_2 | 裂魂 | Sundered Soul | 裂魂 |
+| skchr_tinman_1 | “老科利” | - | - |
+| skchr_tinman_2 | “大拉里” | - | - |
 | skchr_tknogi_1 | 迹无 | Without a Trace | 跡無 |
 | skchr_tknogi_2 | 森廻 | Forest's Embrace | 森廻 |
 | skchr_toddi_1 | 信号矢 | Signal Arrow | 信号矢 |
@@ -4432,6 +4469,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_dsshell | 赘生甲壳 | - | - |
 | sktok_dstnta | 摄食 | Devour | 摂食 |
 | sktok_dublst | 爆破 | Explode | 爆破 |
+| sktok_duelcdt_1 | 狭路相逢 | - | - |
+| sktok_duelcdt_2 | 狭路相逢 | - | - |
+| sktok_duelwal | 狭路相逢 | - | - |
 | sktok_dupilr | 支柱坍塌 | Collapsing Pillar | 倒壊 |
 | sktok_duruin | 阻挡路线 | Obstruct | 進路妨害 |
 | sktok_ebnhlz_token | 闪回 | Flashback | フラッシュバック |
@@ -4563,6 +4603,10 @@ tip: 请善用浏览器的搜索功能
 | sktok_skadi2_1 | 共鸣 | Resonance | 共鳴 |
 | sktok_skadi2_2 | 共鸣 | Resonance | 共鳴 |
 | sktok_skadi2_3 | 共鸣 | Resonance | 共鳴 |
+| sktok_skzbox | 诱人珍宝 | - | - |
+| sktok_skzmbx | 诱人珍宝？ | - | - |
+| sktok_skztxy_1 | 意志震荡 | - | - |
+| sktok_skzwyx | 更诱人珍宝 | - | - |
 | sktok_sleep | 救援绳索 | Rescue Rope | 救援ロープ |
 | sktok_slent2_protrb | 夜灯 | Night Banisher | 夜の灯火 |
 | sktok_slowfd | 高压喷射 | High-Pressure Spray | 高圧ガス |
@@ -6460,3 +6504,4 @@ tip: 请善用浏览器的搜索功能
 | rogue_1 | 傀影与猩红孤钻 | Phantom & Crimson Solitaire | ファントムと緋き貴石 |
 | rogue_2 | 水月与深蓝之树 | Mizuki & Caerula Arbor | ミヅキと紺碧の樹 |
 | rogue_3 | 探索者的银凇止境 | Expeditioner's Jǫklumarkar | 探索者と銀氷の果て |
+| rogue_4 | 萨卡兹的无终奇语 | - | - |
