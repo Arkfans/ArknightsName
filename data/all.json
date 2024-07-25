@@ -26683,6 +26683,12 @@
       "zh_CN": "资深干员技巧集"
     }
   },
+  "voucher_skill_specialLevelMax_6": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "高级资深干员技巧集"
+    }
+  },
   "voucher_skin": {
     "type": "ITEM",
     "names": {

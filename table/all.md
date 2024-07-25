@@ -3464,6 +3464,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_recruitR5_pick3801 | 资深干员调用凭证 | Senior Operator Transfer Permit | ★5招聘指名券 |
 | voucher_recruitR5_pick5001 | 资深干员调用凭证 | - | - |
 | voucher_skill_specialLevelMax_5 | 资深干员技巧集 | - | - |
+| voucher_skill_specialLevelMax_6 | 高级资深干员技巧集 | - | - |
 | voucher_skin | 时装自选凭证 | Outfit Voucher | コーデ交換券 |
 | voucher_ulika | U-Official的文件夹 | U-Official's Folder | U-Officialの書類入れ |
 | voucher_vigil | 伺夜的文件夹 | Vigil's Folder | ヴィジェルの書類入れ |
