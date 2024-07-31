@@ -64,7 +64,7 @@ tip: 请善用浏览器的搜索功能
 | story_chen2_set_2_story_1 | 道路 | Pathways | 道 |
 | story_chen_set_1_story_1 | 一鼓作气 | In One Effort | 一気呵成 |
 | story_chiave_set_1_story_1 | 代表作 | Masterpiece | 代表作 |
-| story_chimes_set_1_story_1 | 落叶何归 | - | - |
+| story_chimes_set_1_story_1 | 落叶何归 | - | 枯れ葉は何処に |
 | story_chnut_set_1_story_1 | 黑色石头 | Black Rocks | 「黒い石」 |
 | story_chyue_set_1_story_1 | 昔我往矣 | Once Upon a Time, I Wandered Afar | 昔我往きて、君と携行す |
 | story_clour_set_1_story_1 | 安身之处 | Somewhere to Make Home | 安らぎの場所 |
@@ -212,7 +212,7 @@ tip: 请善用浏览器的搜索功能
 | story_provs_set_1_story_1 | 假定公正 | Hypothetically Just | 法に基づく公正 |
 | story_pudd_set_1_story_1 | 远方的雪 | What the Snow's Like Far Away | 彼方の雪 |
 | story_qanik_set_1_story_1 | 风雪代为传达 | Blizzards Be Your Voice | 雪風が届ける声 |
-| story_qiubai_set_1_story_1 | 如冰碎雪融 | - | - |
+| story_qiubai_set_1_story_1 | 如冰碎雪融 | - | 雪解けの如く |
 | story_quartz_set_1_story_1 | 无需遗憾 | No Regrets | 惜しむ必要なし |
 | story_quercu_set_1_story_1 | 终途 | Final Moments | 終の道 |
 | story_quercu_set_2_story_1 | 生命的萌芽 | The Sprouts of Life | 命の芽吹き |
@@ -232,7 +232,7 @@ tip: 请善用浏览器的搜索功能
 | story_shining_set_1_story_1 | 雨夜 | - | - |
 | story_shotst_set_1_story_1 | 滚烫旧忆 | Scalding Old Memories | 熱傷の記憶 |
 | story_shotst_set_2_story_1 | 两难 | Dilemma | 板挟み |
-| story_shu_set_1_story_1 | 谓我何求 | - | - |
+| story_shu_set_1_story_1 | 谓我何求 | - | 何が為に |
 | story_shwaz_set_1_story_1 | 离乡之日 | 'The Day We Left Home' | 故郷を去る日 |
 | story_sidero_set_1_story_1 | 勤勉之人 | Diligent | 勤勉な人 |
 | story_siege_set_1_story_1 | 幻日 | - | - |
@@ -243,7 +243,7 @@ tip: 请善用浏览器的搜索功能
 | story_skgoat_set_2_story_1 | 远方遗物 | Distant Relic | 遠方の遺品 |
 | story_slbell_set_1_story_1 | 雪山外 | Beyond the Snowy Mountain | 雪山の外 |
 | story_slchan_set_1_story_1 | 崖上之心 | Heart of the Cliffs | 崖上の心 |
-| story_slchan_set_2_story_1 | 新的高峰 | - | - |
+| story_slchan_set_2_story_1 | 新的高峰 | - | 次なる頂へ |
 | story_sleach_set_1_story_1 | 一双羽兽 | A Pair of Fowlbeasts | つがいの羽獣 |
 | story_sleach_set_2_story_1 | 鬓旁的花 | Flowers by the Temples of Your Head | 耳元の花 |
 | story_snakek_set_1_story_1 | 夺包奇遇 | The Great Bagnapping Adventure | リュック争奪戦 |

@@ -748,26 +748,26 @@ tip: 请善用浏览器的搜索功能
 | enemy_1388_wingnt_2 | “榴弹炮” | 'Mortar' | 「榴弾砲」 |
 | enemy_1389_winbab | 访问团强攻手 | Delegation Centurion | 訪問団の強襲者 |
 | enemy_1389_winbab_2 | 访问团强攻冠军 | Delegation Centurion Champion | 訪問団の強襲王 |
-| enemy_1390_dhsbr | 秽 | - | - |
-| enemy_1390_dhsbr_2 | 除秽 | - | - |
-| enemy_1391_dhbow | 蚀 | - | - |
-| enemy_1391_dhbow_2 | 去蚀 | - | - |
-| enemy_1392_dhshld | 肮 | - | - |
-| enemy_1392_dhshld_2 | 厌肮 | - | - |
-| enemy_1393_dhele | 玷 | - | - |
-| enemy_1393_dhele_2 | 勿玷 | - | - |
-| enemy_1394_dhzts | 瘴 | - | - |
-| enemy_1394_dhzts_2 | 鄙瘴 | - | - |
-| enemy_1395_dhxts | 田鼷 | - | - |
-| enemy_1395_dhxts_2 | 硬毫田鼷 | - | - |
-| enemy_1396_dhdts | 田鼷力士 | - | - |
-| enemy_1396_dhdts_2 | 田鼷猛士 | - | - |
-| enemy_1397_dhtsxt | 田鼷飞贼 | - | - |
-| enemy_1397_dhtsxt_2 | 田鼷大盗 | - | - |
-| enemy_1398_dhdcr | 天桩-甲 | - | - |
-| enemy_1398_dhdcr_2 | 失控天桩-甲 | - | - |
-| enemy_1399_dhtb | 天桩-乙 | - | - |
-| enemy_1399_dhtb_2 | 失控天桩-乙 | - | - |
+| enemy_1390_dhsbr | 秽 | - | 穢 |
+| enemy_1390_dhsbr_2 | 除秽 | - | 除穢 |
+| enemy_1391_dhbow | 蚀 | - | 蝕 |
+| enemy_1391_dhbow_2 | 去蚀 | - | 去蝕 |
+| enemy_1392_dhshld | 肮 | - | 骯 |
+| enemy_1392_dhshld_2 | 厌肮 | - | 厭骯 |
+| enemy_1393_dhele | 玷 | - | 玷 |
+| enemy_1393_dhele_2 | 勿玷 | - | 勿玷 |
+| enemy_1394_dhzts | 瘴 | - | 瘴 |
+| enemy_1394_dhzts_2 | 鄙瘴 | - | 鄙瘴 |
+| enemy_1395_dhxts | 田鼷 | - | 田鼷 |
+| enemy_1395_dhxts_2 | 硬毫田鼷 | - | 狂暴田鼷 |
+| enemy_1396_dhdts | 田鼷力士 | - | 剛力田鼷 |
+| enemy_1396_dhdts_2 | 田鼷猛士 | - | 猛士田鼷 |
+| enemy_1397_dhtsxt | 田鼷飞贼 | - | 軽業田鼷 |
+| enemy_1397_dhtsxt_2 | 田鼷大盗 | - | 盗賊田鼷 |
+| enemy_1398_dhdcr | 天桩-甲 | - | 天杭-甲 |
+| enemy_1398_dhdcr_2 | 失控天桩-甲 | - | 暴走する天杭-甲 |
+| enemy_1399_dhtb | 天桩-乙 | - | 天杭-乙 |
+| enemy_1399_dhtb_2 | 失控天桩-乙 | - | 暴走する天杭-乙 |
 | enemy_1401_pogpro | 联合政府军犬 | - | - |
 | enemy_1401_pogpro_2 | 联合政府军犬pro | - | - |
 | enemy_1402_tgshd | 装甲侦察兵 | - | - |
@@ -891,7 +891,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1547_blord | 杜卡雷，“君主之红” | Duq'arael, 'Regent's Crimson' | Duq'arael・「君主の紅」 |
 | enemy_1548_ltniak | 赫尔昏佐伦，“巫王” | Herkunftshorn, 'Witch King' | Herkunftshorn・「巫王」 |
 | enemy_1549_windoc | 哈洛德·克雷加文 | Harold Craigavon | ハロルド・クレイガボン |
-| enemy_1550_dhnzzh | “祟” | - | - |
+| enemy_1550_dhnzzh | “祟” | - | 「祟」 |
 | enemy_1551_bolicp | 马特奥上尉 | - | - |
 | enemy_1552_mmamiy | “阿米娅” | - | - |
 | enemy_1553_lrdead | 引火的死魂灵 | - | - |
@@ -953,11 +953,11 @@ tip: 请善用浏览器的搜索功能
 | enemy_2054_smdeer | “萨米的意志” | 'Samivilinn,' the Resolution of the Very North | 「サーミの意志」 |
 | enemy_2055_smlead | “木裂”埃克提尔尼尔 | 'Eikthyrnir,' the Scar of the Shattered | 「凍裂」エイクティルニル |
 | enemy_2056_smedzi | 无垠回荡克雷松 | Crazelyseon, the Ascendant of Cosmoi | 天地に揺蕩う、クレイズセオン |
-| enemy_2057_smkght | 哈兰杜汗，大地之鞭 | - | - |
-| enemy_2058_smlion | 路加萨尔古斯，历法之王 | - | - |
+| enemy_2057_smkght | 哈兰杜汗，大地之鞭 | - | 「大地の鞭」ハランドゥハン |
+| enemy_2058_smlion | 路加萨尔古斯，历法之王 | - | 「暦法の王」ルガサルグス |
 | enemy_2059_smbox | 巨壳藤蔓 | Testaceous Vinecreeps | 巨殻のツル |
-| enemy_2060_smshdw | 可汗片影 | - | - |
-| enemy_2061_smhond | 王者友伴 | - | - |
+| enemy_2060_smshdw | 可汗片影 | - | ハガンの影 |
+| enemy_2061_smhond | 王者友伴 | - | 王の友 |
 | enemy_2062_smcar | 勘察用自走车 | Self-Driving Recon Cart | 自走式探査車 |
 | enemy_2063_skzlch | 萨卡兹迷宫劝导者 | - | - |
 | enemy_2064_skzwdd | 萨卡兹迷宫归乡者 | - | - |
@@ -1066,23 +1066,23 @@ tip: 请善用浏览器的搜索功能
 | enemy_7013_slwazd | “召毁者” | 'The Ruinbringer' | 「破滅を呼ぶ者」 |
 | enemy_7014_dva | “搭档” | 'Al-Rafiq' | 「バディ」 |
 | enemy_7015_xbcrab2 | “钳钳生风” | 'Consortium of Pincers' | 「カニキング」 |
-| enemy_7016_shushu | 荒地鼷兽 | - | - |
-| enemy_7017_miner | 采掘苦工 | - | - |
-| enemy_7018_scarab | 爆裂源石虫 | - | - |
-| enemy_7019_thief | 旷野流贼 | - | - |
-| enemy_7020_xbtor | 刺棱壳兽 | - | - |
-| enemy_7021_xbmoth | 荧羽兽 | - | - |
-| enemy_7022_gatgod | 翠梦祭司 | - | - |
-| enemy_7023_gatbb | 翠梦使者 | - | - |
-| enemy_7024_clking | 行脚艺人 | - | - |
-| enemy_7025_clbb | 行脚艺徒 | - | - |
-| enemy_7026_xbele | 时光守卫 | - | - |
-| enemy_7027_xbbtl | 晶玲兽 | - | - |
-| enemy_7028_xbscp | 晶珑兽 | - | - |
-| enemy_7029_pilot | 浮袭者 | - | - |
-| enemy_7030_skodo | 纵尘者 | - | - |
-| enemy_7031_ghking | 湮灭者 | - | - |
-| enemy_7034_xbmsn | 勤奋劳工 | - | - |
+| enemy_7016_shushu | 荒地鼷兽 | - | 荒野鼷獣 |
+| enemy_7017_miner | 采掘苦工 | - | 採掘作業員 |
+| enemy_7018_scarab | 爆裂源石虫 | - | 爆裂オリジムシ |
+| enemy_7019_thief | 旷野流贼 | - | 荒野のスリ師 |
+| enemy_7020_xbtor | 刺棱壳兽 | - | 角棘甲獣 |
+| enemy_7021_xbmoth | 荧羽兽 | - | 眩羽獣 |
+| enemy_7022_gatgod | 翠梦祭司 | - | 翠夢の祭司 |
+| enemy_7023_gatbb | 翠梦使者 | - | 翠夢の使者 |
+| enemy_7024_clking | 行脚艺人 | - | 旅芸人 |
+| enemy_7025_clbb | 行脚艺徒 | - | 旅芸人見習い |
+| enemy_7026_xbele | 时光守卫 | - | 時の守護者 |
+| enemy_7027_xbbtl | 晶玲兽 | - | 晶玲獣 |
+| enemy_7028_xbscp | 晶珑兽 | - | 晶瓏獣 |
+| enemy_7029_pilot | 浮袭者 | - | セイルレイダー |
+| enemy_7030_skodo | 纵尘者 | - | ダストウィーバー |
+| enemy_7031_ghking | 湮灭者 | - | アナイアレイター |
+| enemy_7034_xbmsn | 勤奋劳工 | - | 勤勉な労働者 |
 | enemy_7044_xblbug | 振翅源石虫 | - | - |
 | enemy_7045_xbtd | 冲锋源石虫 | - | - |
 | enemy_7046_xbslug | 披甲源石虫 | - | - |

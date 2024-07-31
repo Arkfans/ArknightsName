@@ -549,9 +549,11 @@
     "zh_CN": "记忆灰烬"
   },
   "act22sre_zone1": {
+    "ja_JP": "煙たなびく沼",
     "zh_CN": "荒烟林沼"
   },
   "act22sre_zone2": {
+    "ja_JP": "記憶の燃え殻",
     "zh_CN": "记忆灰烬"
   },
   "act23side_zone1": {
@@ -680,12 +682,15 @@
     "zh_CN": "特快列车"
   },
   "act31side_zone1": {
+    "ja_JP": "栽培区画",
     "zh_CN": "种植地块"
   },
   "act31side_zone2": {
+    "ja_JP": "荒城中枢",
     "zh_CN": "荒城核心"
   },
   "act31side_zone3": {
+    "ja_JP": "大江北岸",
     "zh_CN": "大江北岸"
   },
   "act32side_zone1": {
@@ -715,6 +720,7 @@
     "zh_CN": "强敌当前"
   },
   "act4bossrush_zone1": {
+    "ja_JP": "強敵襲来",
     "zh_CN": "强敌当前"
   },
   "act5d0_zone1": {
@@ -976,9 +982,11 @@
     "zh_CN": "终极赛道"
   },
   "permanent_sidestory_18_zone1": {
+    "ja_JP": "煙たなびく沼",
     "zh_CN": "荒烟林沼"
   },
   "permanent_sidestory_18_zone2": {
+    "ja_JP": "記憶の燃え殻",
     "zh_CN": "记忆灰烬"
   },
   "permanent_sidestory_19_zone1": {

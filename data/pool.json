@@ -349,6 +349,9 @@
     "en_US": "By My Will",
     "ja_JP": "宿願"
   },
+  "_LIMITED_29_0_1": {
+    "ja_JP": "千秋一粟"
+  },
   "_LIMITED_4_3_1": {
     "en_US": "Cremation Last Wish",
     "ja_JP": "遺志に咲く火の華"
@@ -520,6 +523,9 @@
     "en_US": "Joint Operation",
     "ja_JP": "連合作戦"
   },
+  "_NORM_29_0_3": {
+    "ja_JP": "連合作戦"
+  },
   "_NORM_2_0_1": {
     "en_US": "Chi Xiao, the Hidden Dragon",
     "ja_JP": "赤龍乗雲"
@@ -671,5 +677,8 @@
   "_SINGLE_28_0_4": {
     "en_US": "Ray of Light",
     "ja_JP": "一筋の曙光"
+  },
+  "_SINGLE_29_0_5": {
+    "ja_JP": "枯火に咲く花"
   }
 }

@@ -9,7 +9,7 @@ tip: 请善用浏览器的搜索功能
 | boc | 斗争血脉 | Bloodline of Combat | 闘争の血脈 |
 | crossover | 合作款 | Collab Series | コラボ |
 | epoque | 时代 | EPOQUE | Epoque |
-| game | 成就之星 | Achievement Star | Achievement Star |
+| game | 成就之星 | Achievement Star | AchievementStar |
 | ghost | 缠梦古堡 | Dreambind Castle | D.C. |
 | iteration | 命途迭代 | Iteration Provident | IterationProvident |
 | kitchen | 罗德厨房 | Rhodes Kitchen | R.Kitchen |
@@ -21,7 +21,7 @@ tip: 请善用浏览器的搜索功能
 | striker | 雷神推进者 | Raythean Striker | Striker |
 | summer | 珊瑚海岸 | Coral Coast | CoralCoast |
 | sweep | 雷神开拓者 | Raythean Pioneer | Pioneer |
-| unveiling | 待予花冠 | - | - |
+| unveiling | 待予花冠 | - | U.o.D |
 | whirlwind | 0011/飙系列 | 0011/Tempest | 0011/飆 |
 | wild | 生命之地 | Vitafield | VitaField |
 | winter | 寒武纪™系列 | Cambrian Series | Cambrian |

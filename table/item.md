@@ -10,21 +10,21 @@ tip: 请善用浏览器的搜索功能
 | 2002 | 初级作战记录 | Frontline Battle Record | 初級作戦記録 |
 | 2003 | 中级作战记录 | Tactical Battle Record | 中級作戦記録 |
 | 2004 | 高级作战记录 | Strategic Battle Record | 上級作戦記録 |
-| 2020recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 3.5周年特別スカウト券α |
-| 2020recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 3.5周年特別スカウト券β |
-| 2020recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 3.5周年特別スカウト券γ |
-| 2021recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 3.5周年特別スカウト券α |
-| 2021recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 3.5周年特別スカウト券β |
-| 2021recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 3.5周年特別スカウト券γ |
-| 2022recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 3.5周年特別スカウト券α |
-| 2022recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 3.5周年特別スカウト券β |
-| 2022recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 3.5周年特別スカウト券γ |
-| 2023recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 3.5周年特別スカウト券α |
-| 2023recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 3.5周年特別スカウト券β |
-| 2023recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 3.5周年特別スカウト券γ |
-| 2024recruitment10_1 | α类新年寻访凭证 | - | - |
-| 2024recruitment10_2 | β类新年寻访凭证 | - | - |
-| 2024recruitment10_3 | γ类新年寻访凭证 | - | - |
+| 2020recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 4.5周年特別スカウト券α |
+| 2020recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 4.5周年特別スカウト券β |
+| 2020recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 4.5周年特別スカウト券γ |
+| 2021recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 4.5周年特別スカウト券α |
+| 2021recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 4.5周年特別スカウト券β |
+| 2021recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 4.5周年特別スカウト券γ |
+| 2022recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 4.5周年特別スカウト券α |
+| 2022recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 4.5周年特別スカウト券β |
+| 2022recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 4.5周年特別スカウト券γ |
+| 2023recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 4.5周年特別スカウト券α |
+| 2023recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 4.5周年特別スカウト券β |
+| 2023recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 4.5周年特別スカウト券γ |
+| 2024recruitment10_1 | α类新年寻访凭证 | - | 4.5周年特別スカウト券α |
+| 2024recruitment10_2 | β类新年寻访凭证 | - | 4.5周年特別スカウト券β |
+| 2024recruitment10_3 | γ类新年寻访凭证 | - | 4.5周年特別スカウト券γ |
 | 30011 | 源岩 | Orirock | 源岩鉱 |
 | 30012 | 固源岩 | Orirock Cube | 初級源岩 |
 | 30013 | 固源岩组 | Orirock Cluster | 中級源岩 |
@@ -147,7 +147,7 @@ tip: 请善用浏览器的搜索功能
 | LIMITED_TKT_GACHA_10_3801 | 未来序曲寻访凭证 | Preludes to the Future Headhunting Permit | 感謝祭記念10回スカウト券 |
 | LIMITED_TKT_GACHA_10_4101 | 云过天空寻访凭证 | Footprints of the Clouds Headhunting Permit | 4周年記念10回スカウト券 |
 | LIMITED_TKT_GACHA_10_4401 | 烛照弦鸣寻访凭证 | Candleglow Sonata Headhunting Permit | 感謝祭記念10回スカウト券 |
-| LIMITED_TKT_GACHA_10_4701 | 时和岁丰寻访凭证 | - | - |
+| LIMITED_TKT_GACHA_10_4701 | 时和岁丰寻访凭证 | - | 4.5周年記念10回スカウト券 |
 | LIMITED_TKT_GACHA_10_5001 | 残夜厝薪寻访凭证 | - | - |
 | LIMITED_TKT_GACHA_10_903 | 苏醒纪念寻访凭证 | Awakening Commemoration Permit | 1周年記念10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_1701 | 特勤专家寻访凭证 | Elite Forces Headhunting Permit | 精鋭小隊10回スカウト券 |
@@ -167,7 +167,7 @@ tip: 请善用浏览器的搜索功能
 | LMTGS_COIN_3801 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_4101 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_4401 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
-| LMTGS_COIN_4701 | 寻访数据契约 | - | - |
+| LMTGS_COIN_4701 | 寻访数据契约 | - | 限定契約証 |
 | LMTGS_COIN_5001 | 寻访数据契约 | - | - |
 | LMTGS_COIN_601 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_903 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
@@ -223,7 +223,7 @@ tip: 请善用浏览器的搜索功能
 | act16side_token_bolt | 蚀刻弹弹壳 | Etched Bullet Casing | エッチング弾薬莢 |
 | act16side_token_bolt_rep_1 | 蚀刻弹弹壳 | Etched Bullet Casing | エッチング弾薬莢 |
 | act17d0_token_form | 罗德岛物资配给证书 | Rhodes Island Resource Allocation Certificate | ロドス物資配給許可書 |
-| act17d0_token_form_rep_1 | 罗德岛物资配给证书 | - | - |
+| act17d0_token_form_rep_1 | 罗德岛物资配给证书 | - | ロドス物資配給許可書 |
 | act17mini_token_ash | 炉渣 | - | - |
 | act17side_token_compass | 锈蚀的罗盘 | Rusted Compass | 錆びたコンパス |
 | act17side_token_compass_rep_1 | 锈蚀的罗盘 | Rusted Compass | 錆びたコンパス |
@@ -251,7 +251,7 @@ tip: 请善用浏览器的搜索功能
 | act21side_token_permesso | 进货通行证 | Permesso di Importazione | 買付許可証 |
 | act21side_token_permesso_rep_1 | 进货通行证 | Permesso di Importazione | 買付許可証 |
 | act22side_token_manuscript | 手抄歌谣集 | Manuscripts of Ballads | 民謡集の写本 |
-| act22side_token_manuscript_rep_1 | 手抄歌谣集 | - | - |
+| act22side_token_manuscript_rep_1 | 手抄歌谣集 | - | 民謡集の写本 |
 | act23side_token_spirit | 新酿烈刀子 | Freshly-Brewed Liedaozi | 烈刀子 |
 | act23side_token_spirit_rep_1 | 新酿烈刀子 | Freshly-Brewed Liedaozi | 烈刀子 |
 | act24side_melding_1 | 破碎的骨片 | Bone Fragments | 欠けた骨 |
@@ -281,7 +281,7 @@ tip: 请善用浏览器的搜索功能
 | act2bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
 | act2vmulti_token_cap | 参赛纪念 | - | - |
 | act30side_token_box | 驮兽盲盒 | Burdenbeast Blind Box | 駄獣ミニフィギュア |
-| act31side_token_box | 天桩 | - | - |
+| act31side_token_box | 天桩 | - | 天杭 |
 | act32side_token_stamp | 艺术馆集章卡 | - | - |
 | act33side_token_sugar | 粗制糖块 | - | - |
 | act34side_token_chip | “应急物资”蓝图芯片 | - | - |
@@ -293,13 +293,14 @@ tip: 请善用浏览器的搜索功能
 | act3bossrush_relic_04 | 过热运转 | Overcharge | オーバーヒート |
 | act3bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
 | act42d0_token_evaluation | 试验数据集 | Experimental Dataset | テストデータ集 |
-| act4bossrush_milestone_point | 试炼经验 | - | - |
-| act4bossrush_relic_01 | 轻量化载荷 | - | - |
-| act4bossrush_relic_02 | 核心预热 | - | - |
-| act4bossrush_relic_03 | 集群优势 | - | - |
+| act4bossrush_milestone_point | 试炼经验 | - | 試練経験値 |
+| act4bossrush_relic_01 | 轻量化载荷 | - | 積込み軽量化 |
+| act4bossrush_relic_02 | 核心预热 | - | コア予熱 |
+| act4bossrush_relic_03 | 集群优势 | - | クラスター戦法 |
 | act4bossrush_relic_04 | 渐进超频
- | - | - |
-| act4bossrush_token_relic | 数据黑盒 | - | - |
+ | - | クロックアップ
+ |
+| act4bossrush_token_relic | 数据黑盒 | - | ブラックボックス |
 | act4d0_intelligencepoint | 有效情报值 | Valid Intelligence Unit | 情報データ |
 | act4d5_point_kfc | KFC积分 | - | KFCポイント |
 | act5d0_point_medal | 终极企鹅勋章 | Top Tier Penguin Medal | ウルトラPG勲章 |
@@ -340,11 +341,11 @@ tip: 请善用浏览器的搜索功能
 | ap_supply_lt_100_2023_3 | 香辣火炉 | Spicy Hotpot(?) | 香辣火炉 |
 | ap_supply_lt_100_2023_4 | 金糖年糕 | Golden Syrup New Year's Cake | 金糖もち |
 | ap_supply_lt_100_2023_5 | 木瓜叶馅饼 | Papaya Leaf Meat Pie | パパイア葉のパイ |
-| ap_supply_lt_100_2024_1 | 纯净鲜花露 | - | - |
-| ap_supply_lt_100_2024_2 | 火山熔岩蛋糕 | - | - |
-| ap_supply_lt_100_2024_3 | 午后田园茶点 | - | - |
-| ap_supply_lt_100_2024_4 | 脆壳糖油果 | - | - |
-| ap_supply_lt_100_2024_5 | 奶油夹心饼干 | - | - |
+| ap_supply_lt_100_2024_1 | 纯净鲜花露 | - | ピュアフラワーシロップ |
+| ap_supply_lt_100_2024_2 | 火山熔岩蛋糕 | - | 溶岩ケーキ |
+| ap_supply_lt_100_2024_3 | 午后田园茶点 | - | 午後のお茶菓子 |
+| ap_supply_lt_100_2024_4 | 脆壳糖油果 | - | 揚げ餡子餅 |
+| ap_supply_lt_100_2024_5 | 奶油夹心饼干 | - | クリームサンドビスケット |
 | ap_supply_lt_120 | 应急理智浓缩液 | Emergency Sanity Concentrate | 上級理性回復剤+ |
 | ap_supply_lt_120_2022_1 | 满颜色 | Full Color | 一家団欒 |
 | ap_supply_lt_120_2022_2 | 正圆月 | Full Moon | 仲秋名月 |
@@ -354,6 +355,7 @@ tip: 请善用浏览器的搜索功能
 | ap_supply_lt_120_2023_2 | “良宵晴” | 'Clear Nights' | 「晴天良宵」 |
 | ap_supply_lt_120_2023_3 | “飘桂香” | 'Fragrant Osmanthus' | 「桂花乱舞」 |
 | ap_supply_lt_120_2023_4 | “藏金波” | 'Shrouded Golden Waves' | 「春夜朧月」 |
+| ap_supply_lt_120_2024_1 | - | - | ローストアーモンドチョコレート |
 | ap_supply_lt_60 | 应急理智合剂 | Emergency Sanity Potion | 初級理性回復剤 |
 | ap_supply_lt_80 | 应急理智加强剂 | Emergency Sanity Booster | 初級理性回復剤+ |
 | base_ap | 无人机 | Drone | ドローン |
@@ -666,7 +668,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_201_moeshd | 可颂的信物 | Croissant's Token | クロワッサンの印 |
 | p_char_2023_ling | 令的信物 | Ling's Token | リィンの印 |
 | p_char_2024_chyue | 重岳的信物 | Chongyue's Token | チョンユエの印 |
-| p_char_2025_shu | 黍的信物 | - | - |
+| p_char_2025_shu | 黍的信物 | - | シュウの印 |
 | p_char_202_demkni | 塞雷娅的信物 | Saria's Token | サリアの印 |
 | p_char_204_platnm | 白金的信物 | Platinum's Token | プラチナの印 |
 | p_char_206_gnosis | 灵知的信物 | Gnosis's Token | ノーシスの印 |
@@ -781,7 +783,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4016_kazema | 风丸的信物 | Kazemaru's Token | カゼマルの印 |
 | p_char_4017_puzzle | 谜图的信物 | Puzzle's Token | パズルの印 |
 | p_char_401_elysm | 极境的信物 | Elysium's Token | エリジウムの印 |
-| p_char_4023_rfalcn | 红隼的信物 | - | - |
+| p_char_4023_rfalcn | 红隼的信物 | - | ケストレルの印 |
 | p_char_4025_aprot2 | 暮落的信物 | Shalem's Token | シャレムの印 |
 | p_char_4027_heyak | 霍尔海雅的信物 | Ho'olheyak's Token | ホルハイヤの印 |
 | p_char_402_tuye | 图耶的信物 | Tuye's Token | トゥイエの印 |
@@ -828,10 +830,10 @@ tip: 请善用浏览器的搜索功能
 | p_char_4114_harold | 哈洛德的信物 | Harold's Token | ハロルドの印 |
 | p_char_4116_blkkgt | 锏的信物 | Degenbrecher's Token | デーゲンブレヒャーの印 |
 | p_char_4117_ray | 莱伊的信物 | Ray's Token | レイの印 |
-| p_char_4119_wanqin | 万顷的信物 | - | - |
+| p_char_4119_wanqin | 万顷的信物 | - | ワンチィンの印 |
 | p_char_411_tomimi | 特米米的信物 | Tomimi's Token | トミミの印 |
-| p_char_4121_zuole | 左乐的信物 | - | - |
-| p_char_4122_grabds | 小满的信物 | - | - |
+| p_char_4121_zuole | 左乐的信物 | - | ズオ・ラウの印 |
+| p_char_4122_grabds | 小满的信物 | - | グレインバッズの印 |
 | p_char_4123_ela | 艾拉的信物 | - | - |
 | p_char_4124_iana | 双月的信物 | - | - |
 | p_char_4125_rdoc | 医生的信物 | - | - |
@@ -951,7 +953,7 @@ tip: 请善用浏览器的搜索功能
 | rogue_3_token_grow | 理性视阈 | Lucid Acuity | 理性的視野 |
 | rogue_4_token_bp | 魂灵书签 | - | - |
 | rogue_4_token_grow | 散佚迷思 | - | - |
-| sandbox_1_tokencoin | 繁荣点数 | - | - |
+| sandbox_1_tokencoin | 繁荣点数 | - | 繁栄ポイント |
 | tier1_caster | 术师信物复制品 | Replicated Caster Token | ★1術師の印 |
 | tier1_guard | 近卫信物复制品 | Replicated Guard Token | ★1前衛の印 |
 | tier1_medic | 医疗信物复制品 | Replicated Medic Token | ★1医療の印 |
@@ -1005,8 +1007,8 @@ tip: 请善用浏览器的搜索功能
 | token_ObsidianCoin_rep_1 | 黑曜石节抽奖代币 | Obsidian Festival Token | ガチャコイン |
 | token_Obsidian_rep_1 | 汐斯塔的黑曜石 | Siesta Obsidian | シエスタの黒曜石 |
 | token_Wristband | 黑曜石节手环 | Obsidian Festival Bracelet | リストバンド |
-| uni_set_NHL | 吾导先路家具收藏包 | - | - |
-| uni_set_SargonFair_1 | 阿尔萨兰家具收藏包一 | - | - |
+| uni_set_NHL | 吾导先路家具收藏包 | - | 吾れ先導者たらん家具パック |
+| uni_set_SargonFair_1 | 阿尔萨兰家具收藏包一 | - | アルサラン家具パックvol.1 |
 | uni_set_SargonFair_2 | 阿尔萨兰家具收藏包二 | - | - |
 | uni_set_abyssal | 覆潮之下家具收藏包 | Under Tides Furniture Pack | 潮汐の下家具パック |
 | uni_set_act10d5 | 乌萨斯的孩子们家具收藏包 | Children of Ursus Furniture Pack | ウルサスの子供たち家具パック |
@@ -1048,7 +1050,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_full_ceylon | 锡兰的私人信件 | Ceylon's Personal Letter | セイロンの手紙 |
 | voucher_full_flameb | 炎客的私人信件 | Flamebringer's Personal Letter | エンカクの手紙 |
 | voucher_full_folnic | 亚叶的私人信件 | Folinic's Personal Letter | フォリニックの手紙 |
-| voucher_full_forcer | 见行者的私人信件 | - | - |
+| voucher_full_forcer | 见行者的私人信件 | - | エンフォーサーの手紙 |
 | voucher_full_glady | 歌蕾蒂娅的私人信件 | Gladiia's Personal Letter | グレイディーアの手紙 |
 | voucher_full_grani | 格拉尼的私人信件 | Grani's Personal Letter | グラニの手紙 |
 | voucher_full_halo | 星源的私人信件 | - | - |

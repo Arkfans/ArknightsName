@@ -116,8 +116,8 @@ tip: 请善用浏览器的搜索功能
 | act21sre_zone3 | 自诩荒野 | Terra Desolata Autoproclamata | 荒野を名乗る者 |
 | act22side_zone1 | 荒烟林沼 | Swamp In The Mists | 煙たなびく沼 |
 | act22side_zone2 | 记忆灰烬 | Ashes of Memories | 記憶の燃え殻 |
-| act22sre_zone1 | 荒烟林沼 | - | - |
-| act22sre_zone2 | 记忆灰烬 | - | - |
+| act22sre_zone1 | 荒烟林沼 | - | 煙たなびく沼 |
+| act22sre_zone2 | 记忆灰烬 | - | 記憶の燃え殻 |
 | act23side_zone1 | 城中调查 | Case Investigation, Onsite | 城内調査 |
 | act23side_zone2 | 关外追凶 | Criminal Pursuit, Offsite | 関外追跡 |
 | act23sre_zone1 | 城中调查 | Case Investigation, Onsite | 城内調査 |
@@ -145,9 +145,9 @@ tip: 请善用浏览器的搜索功能
 | act2bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act30side_zone1 | 三号站台 | Platform No. 3 | 3番ホーム |
 | act30side_zone2 | 特快列车 | Express Train | 特急列車 |
-| act31side_zone1 | 种植地块 | - | - |
-| act31side_zone2 | 荒城核心 | - | - |
-| act31side_zone3 | 大江北岸 | - | - |
+| act31side_zone1 | 种植地块 | - | 栽培区画 |
+| act31side_zone2 | 荒城核心 | - | 荒城中枢 |
+| act31side_zone3 | 大江北岸 | - | 大江北岸 |
 | act32side_zone1 | 展厅漫游 | - | - |
 | act32side_zone2 | 高速空降 | - | - |
 | act33side_zone1 | 我赠予未来 | - | - |
@@ -156,7 +156,7 @@ tip: 请善用浏览器的搜索功能
 | act34side_zone1 | 信标投放 | - | - |
 | act34side_zone2 | 防线巩固 | - | - |
 | act3bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
-| act4bossrush_zone1 | 强敌当前 | - | - |
+| act4bossrush_zone1 | 强敌当前 | - | 強敵襲来 |
 | act5d0_zone1 | 下城区 | Downtown | 繁華街 |
 | act5d0_zone2 | 东部郊区 | Eastern Suburbs | 東部郊外 |
 | act5sre_zone1 | 议事高塔 | Capitol Spire | 大議事塔 |
@@ -209,8 +209,8 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_16_zone3 | 升降梯整备 | Elevator Maintenance | 昇降機整備 |
 | permanent_sidestory_16_zone4 | 表演赛道 | Exhibition Course | エキシビションコース |
 | permanent_sidestory_16_zone5 | 终极赛道 | Ultimate Course | アルティメットコース |
-| permanent_sidestory_18_zone1 | 荒烟林沼 | - | - |
-| permanent_sidestory_18_zone2 | 记忆灰烬 | - | - |
+| permanent_sidestory_18_zone1 | 荒烟林沼 | - | 煙たなびく沼 |
+| permanent_sidestory_18_zone2 | 记忆灰烬 | - | 記憶の燃え殻 |
 | permanent_sidestory_19_zone1 | 城中调查 | Case Investigation, Onsite | 城内調査 |
 | permanent_sidestory_19_zone2 | 关外追凶 | Criminal Pursuit, Offsite | 関外追跡 |
 | permanent_sidestory_1_zone1 | 滴水村周边 | Dewville Outskirts | 滴水村周辺 |

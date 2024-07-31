@@ -606,7 +606,7 @@
   },
   "trap_126_outset": {
     "en_US": "Bomb Loading Point",
-    "ja_JP": "爆弾装填点",
+    "ja_JP": "爆弾積込み地点",
     "zh_CN": "炸弹载荷点"
   },
   "trap_127_bldore": {
@@ -670,27 +670,35 @@
     "zh_CN": "点火石"
   },
   "trap_139_dhtl": {
+    "ja_JP": "水門",
     "zh_CN": "阻流阀"
   },
   "trap_140_dhsb": {
+    "ja_JP": "給水ポンプ",
     "zh_CN": "泵站"
   },
   "trap_141_sheltr": {
+    "ja_JP": "バリケード",
     "zh_CN": "封阻物"
   },
   "trap_142_barrel": {
+    "ja_JP": "源石爆弾",
     "zh_CN": "源石爆炸物"
   },
   "trap_143_rnfcar": {
+    "ja_JP": "バリケード補強装置",
     "zh_CN": "封阻加固装置"
   },
   "trap_144_ads": {
+    "ja_JP": "仮設掩体装置",
     "zh_CN": "临时掩护装置"
   },
   "trap_145_edd": {
+    "ja_JP": "トラップ設置装置",
     "zh_CN": "诡雷布设装置"
   },
   "trap_146_dhdcr": {
+    "ja_JP": "天杭",
     "zh_CN": "天桩"
   },
   "trap_147_spblls": {
@@ -763,7 +771,7 @@
   },
   "trap_401_xbfato": {
     "en_US": "Basic Gathering Hub",
-    "ja_JP": "採取ロボ用基地",
+    "ja_JP": "木材採取基地",
     "zh_CN": "木材采集站"
   },
   "trap_403_wfactory": {
@@ -933,138 +941,180 @@
   },
   "trap_438_xbfato2": {
     "en_US": "Advanced Gathering Hub",
-    "ja_JP": "スーパー採取ロボ用基地",
+    "ja_JP": "石材採取基地",
     "zh_CN": "石材采集站"
   },
   "trap_439_xbfato3": {
     "en_US": "Executive Gathering Hub",
-    "ja_JP": "ハイパー採取ロボ用基地",
+    "ja_JP": "鉄鉱石採取基地",
     "zh_CN": "铁矿采集站"
   },
   "trap_440_xbalis": {
+    "ja_JP": "簡易弩台",
     "zh_CN": "简易弩台"
   },
   "trap_441_xbmgbird": {
+    "ja_JP": "くちばしの中の珍品",
     "zh_CN": "喙中奇物"
   },
   "trap_442_xbtrap": {
+    "ja_JP": "砂地獄",
     "zh_CN": "流沙黯坑"
   },
   "trap_443_xbtent": {
+    "ja_JP": "作戦司令部",
     "zh_CN": "作战中心"
   },
   "trap_444_xbexbi": {
+    "ja_JP": "「記念」",
     "zh_CN": "“纪念”"
   },
   "trap_445_xbfence": {
+    "ja_JP": "畜舎",
     "zh_CN": "兽栏"
   },
   "trap_446_xbfdtion": {
+    "ja_JP": "砂漠の砦",
     "zh_CN": "风沙营垒"
   },
   "trap_447_xbmcv": {
+    "ja_JP": "キャンピングカー",
     "zh_CN": "旷野房车\n"
   },
   "trap_448_xbmire": {
+    "ja_JP": "汚濁した泥沼",
     "zh_CN": "污浊泥沼"
   },
   "trap_449_xbspgun": {
+    "ja_JP": "煙幕発射台",
     "zh_CN": "烟雾发射台"
   },
   "trap_450_xbdrill": {
+    "ja_JP": "透珀石採取基地",
     "zh_CN": "澄亮采集站"
   },
   "trap_451_xbflare": {
+    "ja_JP": "ケミカルライト",
     "zh_CN": "荧光棒"
   },
   "trap_452_xbcage": {
+    "ja_JP": "捕獲カゴ",
     "zh_CN": "捕猎笼"
   },
   "trap_453_xbbee": {
+    "ja_JP": "金属探知機",
     "zh_CN": "寻宝仪"
   },
   "trap_454_xbember": {
+    "ja_JP": "激励剤",
     "zh_CN": "激励剂"
   },
   "trap_455_xbistorm": {
+    "ja_JP": "氷爆缶",
     "zh_CN": "冰爆罐"
   },
   "trap_456_xbfarmm": {
+    "ja_JP": "栽培ボックス",
     "zh_CN": "种植箱集群\n"
   },
   "trap_457_xbfort": {
+    "ja_JP": "臨時高台",
     "zh_CN": "高台工事"
   },
   "trap_458_xbbarir": {
+    "ja_JP": "反応障壁",
     "zh_CN": "反应壁障"
   },
   "trap_459_xblight": {
+    "ja_JP": "監視塔",
     "zh_CN": "监视哨站"
   },
   "trap_460_xbdiam": {
+    "ja_JP": "透珀石鉱脈",
     "zh_CN": "澄亮矿脉"
   },
   "trap_461_xbhydr": {
+    "ja_JP": "石の関門",
     "zh_CN": "机关石门"
   },
   "trap_462_xbsighta": {
+    "ja_JP": "涼しげな泉",
     "zh_CN": "灵动清泉"
   },
   "trap_463_xbsightb": {
+    "ja_JP": "静かなる盆栽",
     "zh_CN": "静谧盆栽"
   },
   "trap_464_xbsightc": {
+    "ja_JP": "休憩用ベンチ",
     "zh_CN": "休闲长椅"
   },
   "trap_465_xbstation": {
+    "ja_JP": "号令ポイント",
     "zh_CN": "号令点"
   },
   "trap_466_tzumama": {
+    "ja_JP": "ユーネクテス",
     "zh_CN": "森蚺"
   },
   "trap_467_ttuye": {
+    "ja_JP": "トゥイエ",
     "zh_CN": "图耶"
   },
   "trap_468_tpriest": {
+    "ja_JP": "大祭司",
     "zh_CN": "大祭司"
   },
   "trap_469_tpasngr": {
+    "ja_JP": "パッセンジャー",
     "zh_CN": "异客"
   },
   "trap_470_tmantic": {
+    "ja_JP": "マンティコア",
     "zh_CN": "狮蝎"
   },
   "trap_471_tegmaus": {
+    "ja_JP": "ペペ",
     "zh_CN": "佩佩"
   },
   "trap_472_tfalco": {
+    "ja_JP": "ケストレル",
     "zh_CN": "红隼"
   },
   "trap_473_trmedic": {
+    "ja_JP": "ロドスオペレーター",
     "zh_CN": "罗德岛工作人员"
   },
   "trap_474_mailbox": {
+    "ja_JP": "郵便ポスト",
     "zh_CN": "信使邮筒"
   },
   "trap_475_xbcbag": {
+    "ja_JP": "捕獲カゴ",
     "zh_CN": "猎获笼"
   },
   "trap_476_mscskt": {
+    "ja_JP": "情報ボックス",
     "zh_CN": "讯息匣"
   },
   "trap_477_xbspps": {
+    "ja_JP": "眩暈のお香",
     "zh_CN": "失衡异香"
   },
   "trap_478_xbcanoe": {
+    "ja_JP": "特設ボート",
     "zh_CN": "特制水上平台"
   },
   "trap_479_xbbillb": {
+    "ja_JP": "看板",
     "zh_CN": "告示牌"
   },
   "trap_480_roadblockxb": {
+    "ja_JP": "道路障害物",
     "zh_CN": "道路障碍物"
   },
   "trap_481_gtreasureb": {
+    "ja_JP": "埋もれた金属の箱",
     "zh_CN": "埋没金属箱"
   },
   "trap_482_xbblure": {

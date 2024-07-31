@@ -21,7 +21,7 @@
   },
   "game": {
     "en_US": "Achievement Star",
-    "ja_JP": "Achievement Star",
+    "ja_JP": "AchievementStar",
     "zh_CN": "成就之星"
   },
   "ghost": {
@@ -80,6 +80,7 @@
     "zh_CN": "雷神开拓者"
   },
   "unveiling": {
+    "ja_JP": "U.o.D",
     "zh_CN": "待予花冠"
   },
   "whirlwind": {

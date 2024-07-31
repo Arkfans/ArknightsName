@@ -424,13 +424,13 @@ tip: 请善用浏览器的搜索功能
 | act22side_04 | 热灼梦 | Scorching Dream | 灼熱の夢 |
 | act22side_05 | 祝福的歌谣 | Hymn of Blessing | 祝福の歌 |
 | act22side_06 | 无人知晓 | Known by None | 知る者はなし |
-| act22side_07 | 生灵火花 | Soul Spark | 生命の煌めき |
+| act22side_07 | 生灵火花 | Soul Spark | マナスパーク |
 | act22side_08 | 她的影子 | Her Shadow | 彼女の影 |
 | act22side_st01 | 荒地钟声 | Wilderness Bells | 荒地に響く鐘 |
 | act22side_st02 | 自灰烬之中 | From the Ashes | 燃え殻より |
 | act22side_st03 | 一声呜咽 | A Sob | 悲鳴が一つ |
 | act22side_tr01 | 潮湿泥土 | Wet Earth | 湿った土壌 |
-| act22side_tr02 | 蔓延 | The Spread | 延焼 |
+| act22side_tr02 | 蔓延 | The Spread | 蔓延 |
 | act23side_01 | 塞上春来 | Spring in the Borderlands | 春の芽生え |
 | act23side_02 | 沙海黄尘 | Yellow Sands | 黄砂の荒波 |
 | act23side_03 | 树犹如此 | How Old Trees Grow | 樹も今や |
@@ -580,25 +580,25 @@ tip: 请善用浏览器的搜索功能
 | act30side_st02 | 登山铁道 | Mountain Railway | 登山鉄道 |
 | act30side_st03 | 终点站 | Final Destination | 終点 |
 | act30side_tr01 | 安全线内 | Behind the Safety Line | 黄色い線の内側 |
-| act31side_01 | 赴大荒 | - | - |
-| act31side_02 | 祭神农 | - | - |
-| act31side_03 | 早芒种 | - | - |
-| act31side_04 | 话桑麻 | - | - |
-| act31side_05 | 纺绫罗 | - | - |
-| act31side_06 | 卷赤霞 | - | - |
-| act31side_07 | 梦四时 | - | - |
-| act31side_08 | 种因 | - | - |
-| act31side_09 | 得果 | - | - |
-| act31side_mo01 | 《争天时》 | - | - |
-| act31side_s01 | 作物种质库 | - | - |
-| act31side_s02 | 园圃工程所 | - | - |
-| act31side_s03 | 环境观测站 | - | - |
-| act31side_s04 | 育种实验室 | - | - |
-| act31side_st01 | 禾下梦 | - | - |
-| act31side_st02 | 织锦缎 | - | - |
-| act31side_st03 | 彻风雨 | - | - |
-| act31side_tr01 | 职农须知 | - | - |
-| act31side_tr02 | 引水疏浚 | - | - |
+| act31side_01 | 赴大荒 | - | 大荒へ |
+| act31side_02 | 祭神农 | - | 神農祭 |
+| act31side_03 | 早芒种 | - | 早芒種 |
+| act31side_04 | 话桑麻 | - | 桑麻の交 |
+| act31side_05 | 纺绫罗 | - | 綾羅紡ぎ |
+| act31side_06 | 卷赤霞 | - | 赤霞逆巻く |
+| act31side_07 | 梦四时 | - | 四季を思う |
+| act31side_08 | 种因 | - | 植因 |
+| act31side_09 | 得果 | - | 得果 |
+| act31side_mo01 | 《争天时》 | - | 『争天時』 |
+| act31side_s01 | 作物种质库 | - | 作物栽培庫 |
+| act31side_s02 | 园圃工程所 | - | 田地実験所 |
+| act31side_s03 | 环境观测站 | - | 環境観測所 |
+| act31side_s04 | 育种实验室 | - | 育種実験室 |
+| act31side_st01 | 禾下梦 | - | 禾下の夢 |
+| act31side_st02 | 织锦缎 | - | 錦織り |
+| act31side_st03 | 彻风雨 | - | 雨風の中で |
+| act31side_tr01 | 职农须知 | - | 農家の心得 |
+| act31side_tr02 | 引水疏浚 | - | 引水と浚渫 |
 | act32side_01 | 城市主题展 | - | - |
 | act32side_02 | 不对称庭园 | - | - |
 | act32side_03 | 假面舞池 | - | - |
@@ -648,10 +648,10 @@ tip: 请善用浏览器的搜索功能
 | act3bossrush_02 | 惊惧与血色 | Blood and Terror | 恐怖と血色 |
 | act3bossrush_03 | 不测之渊 | Deep in Danger | 不測の淵 |
 | act3bossrush_04 | 虔信者的前路 | Path of the Faithful | 信ずる者の行方 |
-| act4bossrush_01 | 冰霜与战火 | - | - |
-| act4bossrush_02 | 无关音律 | - | - |
-| act4bossrush_03 | 延烧的深池 | - | - |
-| act4bossrush_04 | 辞旧岁 | - | - |
+| act4bossrush_01 | 冰霜与战火 | - | 氷霜と戦火 |
+| act4bossrush_02 | 无关音律 | - | アウトオブチューン |
+| act4bossrush_03 | 延烧的深池 | - | 延焼する葦沼 |
+| act4bossrush_04 | 辞旧岁 | - | 昔歳を送る |
 | act4d0_01 | 引爆 | Ignition | 起爆 |
 | act4d0_02 | 聚集 | Gathering | 集結 |
 | act4d0_03 | 斑驳 | Speckles | まだら模様 |

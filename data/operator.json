@@ -491,6 +491,7 @@
     "zh_CN": "重岳"
   },
   "char_2025_shu": {
+    "ja_JP": "シュウ",
     "zh_CN": "黍"
   },
   "char_202_demkni": {
@@ -1074,6 +1075,7 @@
     "zh_CN": "极境"
   },
   "char_4023_rfalcn": {
+    "ja_JP": "ケストレル",
     "zh_CN": "红隼"
   },
   "char_4025_aprot2": {
@@ -1241,7 +1243,7 @@
   },
   "char_4088_hodrer": {
     "en_US": "Hoederer",
-    "ja_JP": "へドリー",
+    "ja_JP": "ヘドリー",
     "zh_CN": "赫德雷"
   },
   "char_4091_ulika": {
@@ -1315,6 +1317,7 @@
     "zh_CN": "莱伊"
   },
   "char_4119_wanqin": {
+    "ja_JP": "ワンチィン",
     "zh_CN": "万顷"
   },
   "char_411_tomimi": {
@@ -1323,9 +1326,11 @@
     "zh_CN": "特米米"
   },
   "char_4121_zuole": {
+    "ja_JP": "ズオ・ラウ",
     "zh_CN": "左乐"
   },
   "char_4122_grabds": {
+    "ja_JP": "グレインバッズ",
     "zh_CN": "小满"
   },
   "char_4123_ela": {

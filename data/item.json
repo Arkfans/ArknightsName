@@ -26,71 +26,74 @@
   },
   "2020recruitment10_1": {
     "en_US": "Type-α Headhunting Permit",
-    "ja_JP": "3.5周年特別スカウト券α",
+    "ja_JP": "4.5周年特別スカウト券α",
     "zh_CN": "α类新年寻访凭证"
   },
   "2020recruitment10_2": {
     "en_US": "Type-β Headhunting Permit",
-    "ja_JP": "3.5周年特別スカウト券β",
+    "ja_JP": "4.5周年特別スカウト券β",
     "zh_CN": "β类新年寻访凭证"
   },
   "2020recruitment10_3": {
     "en_US": "Type-γ Headhunting Permit",
-    "ja_JP": "3.5周年特別スカウト券γ",
+    "ja_JP": "4.5周年特別スカウト券γ",
     "zh_CN": "γ类新年寻访凭证"
   },
   "2021recruitment10_1": {
     "en_US": "Type-α Headhunting Permit",
-    "ja_JP": "3.5周年特別スカウト券α",
+    "ja_JP": "4.5周年特別スカウト券α",
     "zh_CN": "α类新年寻访凭证"
   },
   "2021recruitment10_2": {
     "en_US": "Type-β Headhunting Permit",
-    "ja_JP": "3.5周年特別スカウト券β",
+    "ja_JP": "4.5周年特別スカウト券β",
     "zh_CN": "β类新年寻访凭证"
   },
   "2021recruitment10_3": {
     "en_US": "Type-γ Headhunting Permit",
-    "ja_JP": "3.5周年特別スカウト券γ",
+    "ja_JP": "4.5周年特別スカウト券γ",
     "zh_CN": "γ类新年寻访凭证"
   },
   "2022recruitment10_1": {
     "en_US": "Type-α Headhunting Permit",
-    "ja_JP": "3.5周年特別スカウト券α",
+    "ja_JP": "4.5周年特別スカウト券α",
     "zh_CN": "α类新年寻访凭证"
   },
   "2022recruitment10_2": {
     "en_US": "Type-β Headhunting Permit",
-    "ja_JP": "3.5周年特別スカウト券β",
+    "ja_JP": "4.5周年特別スカウト券β",
     "zh_CN": "β类新年寻访凭证"
   },
   "2022recruitment10_3": {
     "en_US": "Type-γ Headhunting Permit",
-    "ja_JP": "3.5周年特別スカウト券γ",
+    "ja_JP": "4.5周年特別スカウト券γ",
     "zh_CN": "γ类新年寻访凭证"
   },
   "2023recruitment10_1": {
     "en_US": "Type-α Headhunting Permit",
-    "ja_JP": "3.5周年特別スカウト券α",
+    "ja_JP": "4.5周年特別スカウト券α",
     "zh_CN": "α类新年寻访凭证"
   },
   "2023recruitment10_2": {
     "en_US": "Type-β Headhunting Permit",
-    "ja_JP": "3.5周年特別スカウト券β",
+    "ja_JP": "4.5周年特別スカウト券β",
     "zh_CN": "β类新年寻访凭证"
   },
   "2023recruitment10_3": {
     "en_US": "Type-γ Headhunting Permit",
-    "ja_JP": "3.5周年特別スカウト券γ",
+    "ja_JP": "4.5周年特別スカウト券γ",
     "zh_CN": "γ类新年寻访凭证"
   },
   "2024recruitment10_1": {
+    "ja_JP": "4.5周年特別スカウト券α",
     "zh_CN": "α类新年寻访凭证"
   },
   "2024recruitment10_2": {
+    "ja_JP": "4.5周年特別スカウト券β",
     "zh_CN": "β类新年寻访凭证"
   },
   "2024recruitment10_3": {
+    "ja_JP": "4.5周年特別スカウト券γ",
     "zh_CN": "γ类新年寻访凭证"
   },
   "30011": {
@@ -704,6 +707,7 @@
     "zh_CN": "烛照弦鸣寻访凭证"
   },
   "LIMITED_TKT_GACHA_10_4701": {
+    "ja_JP": "4.5周年記念10回スカウト券",
     "zh_CN": "时和岁丰寻访凭证"
   },
   "LIMITED_TKT_GACHA_10_5001": {
@@ -798,6 +802,7 @@
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_4701": {
+    "ja_JP": "限定契約証",
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_5001": {
@@ -1070,6 +1075,7 @@
     "zh_CN": "罗德岛物资配给证书"
   },
   "act17d0_token_form_rep_1": {
+    "ja_JP": "ロドス物資配給許可書",
     "zh_CN": "罗德岛物资配给证书"
   },
   "act17mini_token_ash": {
@@ -1204,6 +1210,7 @@
     "zh_CN": "手抄歌谣集"
   },
   "act22side_token_manuscript_rep_1": {
+    "ja_JP": "民謡集の写本",
     "zh_CN": "手抄歌谣集"
   },
   "act23side_token_spirit": {
@@ -1346,6 +1353,7 @@
     "zh_CN": "驮兽盲盒"
   },
   "act31side_token_box": {
+    "ja_JP": "天杭",
     "zh_CN": "天桩"
   },
   "act32side_token_stamp": {
@@ -1398,21 +1406,27 @@
     "zh_CN": "试验数据集"
   },
   "act4bossrush_milestone_point": {
+    "ja_JP": "試練経験値",
     "zh_CN": "试炼经验"
   },
   "act4bossrush_relic_01": {
+    "ja_JP": "積込み軽量化",
     "zh_CN": "轻量化载荷"
   },
   "act4bossrush_relic_02": {
+    "ja_JP": "コア予熱",
     "zh_CN": "核心预热"
   },
   "act4bossrush_relic_03": {
+    "ja_JP": "クラスター戦法",
     "zh_CN": "集群优势"
   },
   "act4bossrush_relic_04": {
+    "ja_JP": "クロックアップ\n",
     "zh_CN": "渐进超频\n"
   },
   "act4bossrush_token_relic": {
+    "ja_JP": "ブラックボックス",
     "zh_CN": "数据黑盒"
   },
   "act4d0_intelligencepoint": {
@@ -1615,18 +1629,23 @@
     "zh_CN": "木瓜叶馅饼"
   },
   "ap_supply_lt_100_2024_1": {
+    "ja_JP": "ピュアフラワーシロップ",
     "zh_CN": "纯净鲜花露"
   },
   "ap_supply_lt_100_2024_2": {
+    "ja_JP": "溶岩ケーキ",
     "zh_CN": "火山熔岩蛋糕"
   },
   "ap_supply_lt_100_2024_3": {
+    "ja_JP": "午後のお茶菓子",
     "zh_CN": "午后田园茶点"
   },
   "ap_supply_lt_100_2024_4": {
+    "ja_JP": "揚げ餡子餅",
     "zh_CN": "脆壳糖油果"
   },
   "ap_supply_lt_100_2024_5": {
+    "ja_JP": "クリームサンドビスケット",
     "zh_CN": "奶油夹心饼干"
   },
   "ap_supply_lt_120": {
@@ -1673,6 +1692,9 @@
     "en_US": "'Shrouded Golden Waves'",
     "ja_JP": "「春夜朧月」",
     "zh_CN": "“藏金波”"
+  },
+  "ap_supply_lt_120_2024_1": {
+    "ja_JP": "ローストアーモンドチョコレート"
   },
   "ap_supply_lt_60": {
     "en_US": "Emergency Sanity Potion",
@@ -3189,6 +3211,7 @@
     "zh_CN": "重岳的信物"
   },
   "p_char_2025_shu": {
+    "ja_JP": "シュウの印",
     "zh_CN": "黍的信物"
   },
   "p_char_202_demkni": {
@@ -3762,6 +3785,7 @@
     "zh_CN": "极境的信物"
   },
   "p_char_4023_rfalcn": {
+    "ja_JP": "ケストレルの印",
     "zh_CN": "红隼的信物"
   },
   "p_char_4025_aprot2": {
@@ -3993,6 +4017,7 @@
     "zh_CN": "莱伊的信物"
   },
   "p_char_4119_wanqin": {
+    "ja_JP": "ワンチィンの印",
     "zh_CN": "万顷的信物"
   },
   "p_char_411_tomimi": {
@@ -4001,9 +4026,11 @@
     "zh_CN": "特米米的信物"
   },
   "p_char_4121_zuole": {
+    "ja_JP": "ズオ・ラウの印",
     "zh_CN": "左乐的信物"
   },
   "p_char_4122_grabds": {
+    "ja_JP": "グレインバッズの印",
     "zh_CN": "小满的信物"
   },
   "p_char_4123_ela": {
@@ -4560,6 +4587,7 @@
     "zh_CN": "散佚迷思"
   },
   "sandbox_1_tokencoin": {
+    "ja_JP": "繁栄ポイント",
     "zh_CN": "繁荣点数"
   },
   "tier1_caster": {
@@ -4828,9 +4856,11 @@
     "zh_CN": "黑曜石节手环"
   },
   "uni_set_NHL": {
+    "ja_JP": "吾れ先導者たらん家具パック",
     "zh_CN": "吾导先路家具收藏包"
   },
   "uni_set_SargonFair_1": {
+    "ja_JP": "アルサラン家具パックvol.1",
     "zh_CN": "阿尔萨兰家具收藏包一"
   },
   "uni_set_SargonFair_2": {
@@ -5029,6 +5059,7 @@
     "zh_CN": "亚叶的私人信件"
   },
   "voucher_full_forcer": {
+    "ja_JP": "エンフォーサーの手紙",
     "zh_CN": "见行者的私人信件"
   },
   "voucher_full_glady": {

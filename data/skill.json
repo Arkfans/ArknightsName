@@ -1156,9 +1156,11 @@
     "zh_CN": "失温症"
   },
   "skchr_grabds_1": {
+    "ja_JP": "吹笛遠鳴",
     "zh_CN": "竹笛飞声"
   },
   "skchr_grabds_2": {
+    "ja_JP": "郷愁を誘う子守歌",
     "zh_CN": "乡音沉沉"
   },
   "skchr_grani_2": {
@@ -2346,6 +2348,7 @@
     "zh_CN": "生命火种"
   },
   "skchr_rfalcn_2": {
+    "ja_JP": "醉刃乱舞",
     "zh_CN": "醉刃乱舞"
   },
   "skchr_rfrost_1": {
@@ -2479,12 +2482,15 @@
     "zh_CN": "碎甲击·扩散"
   },
   "skchr_shu_1": {
+    "ja_JP": "化被草木",
     "zh_CN": "化被草木"
   },
   "skchr_shu_2": {
+    "ja_JP": "嘉禾満作",
     "zh_CN": "嘉禾盈仓"
   },
   "skchr_shu_3": {
+    "ja_JP": "離離枯栄",
     "zh_CN": "离离枯荣"
   },
   "skchr_shwaz_1": {
@@ -3009,6 +3015,7 @@
     "zh_CN": "七武掠阵踢"
   },
   "skchr_wanqin_2": {
+    "ja_JP": "応東風",
     "zh_CN": "应东风"
   },
   "skchr_warmy_1": {
@@ -3151,12 +3158,15 @@
     "zh_CN": "钢铁意志"
   },
   "skchr_zuole_1": {
+    "ja_JP": "破虜",
     "zh_CN": "破虏"
   },
   "skchr_zuole_2": {
+    "ja_JP": "行険",
     "zh_CN": "行险"
   },
   "skchr_zuole_3": {
+    "ja_JP": "右序有炎",
     "zh_CN": "佑序有炎"
   },
   "skcom_assist_cost[2]": {
@@ -3285,6 +3295,7 @@
     "zh_CN": "自我销毁"
   },
   "sktok_ads": {
+    "ja_JP": "援護",
     "zh_CN": "掩护"
   },
   "sktok_aegiret_1": {
@@ -3682,15 +3693,19 @@
     "zh_CN": "剧目宣告"
   },
   "sktok_dhdcr": {
+    "ja_JP": "生成",
     "zh_CN": "生成"
   },
   "sktok_dhsb": {
+    "ja_JP": "汲み上げ",
     "zh_CN": "泵水"
   },
   "sktok_dhtl_1": {
+    "ja_JP": "水流制御",
     "zh_CN": "阻流"
   },
   "sktok_dhtl_2": {
+    "ja_JP": "水流制御",
     "zh_CN": "阻流"
   },
   "sktok_dice": {
@@ -3771,6 +3786,7 @@
     "zh_CN": "闪回"
   },
   "sktok_edd": {
+    "ja_JP": "トラップ設置",
     "zh_CN": "布雷"
   },
   "sktok_ela_1": {
@@ -4130,6 +4146,7 @@
     "zh_CN": "诱人珍宝"
   },
   "sktok_npccom": {
+    "ja_JP": "会話発生",
     "zh_CN": "触发对话"
   },
   "sktok_npcsld": {
@@ -4293,6 +4310,7 @@
     "zh_CN": "研究成功"
   },
   "sktok_rnfcar": {
+    "ja_JP": "補強",
     "zh_CN": "加固"
   },
   "sktok_roadblock": {
@@ -4511,6 +4529,7 @@
     "zh_CN": "芳香精油"
   },
   "sktok_tfalco": {
+    "ja_JP": "会話発生",
     "zh_CN": "触发对话"
   },
   "sktok_tidectrl_1": {
@@ -4574,6 +4593,7 @@
     "zh_CN": "触发对话"
   },
   "sktok_trademan_summon": {
+    "ja_JP": "会話発生",
     "zh_CN": "触发对话"
   },
   "sktok_tree": {
@@ -4582,6 +4602,7 @@
     "zh_CN": "天然隐蔽"
   },
   "sktok_trsrhuntr": {
+    "ja_JP": "会話発生",
     "zh_CN": "触发对话"
   },
   "sktok_trsrhuntr_1": {
@@ -4591,7 +4612,7 @@
   },
   "sktok_truamr": {
     "en_US": "'Supersweetie Superblend'",
-    "ja_JP": "「スーパーブレンド」",
+    "ja_JP": "「スイート・スーパーブレンド」",
     "zh_CN": "“甜蜜狂搅”"
   },
   "sktok_turngear": {
@@ -4693,9 +4714,11 @@
     "zh_CN": "拉特兰式冰淇淋"
   },
   "sktok_xbalis": {
+    "ja_JP": "発射",
     "zh_CN": "发射"
   },
   "sktok_xbbarir": {
+    "ja_JP": "障害物",
     "zh_CN": "阻挡"
   },
   "sktok_xbbase": {
@@ -4704,6 +4727,7 @@
     "zh_CN": "能源设备"
   },
   "sktok_xbbee": {
+    "ja_JP": "スキャン",
     "zh_CN": "扫描"
   },
   "sktok_xbblure_1": {
@@ -4716,24 +4740,30 @@
     "zh_CN": "引诱"
   },
   "sktok_xbcage": {
+    "ja_JP": "捕獲",
     "zh_CN": "捕获"
   },
   "sktok_xbcanoe": {
+    "ja_JP": "ボード設置",
     "zh_CN": "放置平台"
   },
   "sktok_xbcbag": {
+    "ja_JP": "獲物解放",
     "zh_CN": "释放猎获"
   },
   "sktok_xbcp": {
     "zh_CN": "检查点"
   },
   "sktok_xbdiam": {
+    "ja_JP": "採取可能",
     "zh_CN": "可采集"
   },
   "sktok_xbdrill": {
+    "ja_JP": "採取",
     "zh_CN": "采集"
   },
   "sktok_xbember": {
+    "ja_JP": "激励",
     "zh_CN": "激励"
   },
   "sktok_xbescp": {
@@ -4742,6 +4772,7 @@
     "zh_CN": "建立通讯"
   },
   "sktok_xbexbi": {
+    "ja_JP": "記念",
     "zh_CN": "纪念"
   },
   "sktok_xbfarm": {
@@ -4750,6 +4781,7 @@
     "zh_CN": "稻谷种植"
   },
   "sktok_xbfarmm": {
+    "ja_JP": "栽培",
     "zh_CN": "种植"
   },
   "sktok_xbfato": {
@@ -4768,15 +4800,19 @@
     "zh_CN": "采集"
   },
   "sktok_xbfdtion": {
+    "ja_JP": "中枢の核心",
     "zh_CN": "中枢核心"
   },
   "sktok_xbfence": {
+    "ja_JP": "畜養",
     "zh_CN": "畜养"
   },
   "sktok_xbflare": {
+    "ja_JP": "臨時照明",
     "zh_CN": "临时照明"
   },
   "sktok_xbfort": {
+    "ja_JP": "配置",
     "zh_CN": "部署"
   },
   "sktok_xbfortress": {
@@ -4790,6 +4826,7 @@
     "zh_CN": "冶铸"
   },
   "sktok_xbhydr": {
+    "ja_JP": "閉鎖",
     "zh_CN": "锁钥"
   },
   "sktok_xbiron": {
@@ -4798,9 +4835,11 @@
     "zh_CN": "可供开采"
   },
   "sktok_xbistorm": {
+    "ja_JP": "氷爆！",
     "zh_CN": "冰爆！"
   },
   "sktok_xblight": {
+    "ja_JP": "眺望",
     "zh_CN": "瞭望"
   },
   "sktok_xblrsh": {
@@ -4809,12 +4848,15 @@
     "zh_CN": "人员状态改善"
   },
   "sktok_xbmcv": {
+    "ja_JP": "エンジンの核心",
     "zh_CN": "引擎核心"
   },
   "sktok_xbmgbird": {
+    "ja_JP": "「贈り物」",
     "zh_CN": "“赠礼”"
   },
   "sktok_xbmire": {
+    "ja_JP": "侵蝕",
     "zh_CN": "侵蚀"
   },
   "sktok_xbmrcl": {
@@ -4844,21 +4886,27 @@
     "zh_CN": "阻断道路"
   },
   "sktok_xbsighta": {
+    "ja_JP": "湧出",
     "zh_CN": "喷涌"
   },
   "sktok_xbsightb": {
+    "ja_JP": "ゆらゆら",
     "zh_CN": "摇摆"
   },
   "sktok_xbsightc": {
+    "ja_JP": "人気施設",
     "zh_CN": "矗立"
   },
   "sktok_xbspgun": {
+    "ja_JP": "噴射！",
     "zh_CN": "喷射！"
   },
   "sktok_xbspps": {
+    "ja_JP": "イグニッション",
     "zh_CN": "点燃"
   },
   "sktok_xbstation": {
+    "ja_JP": "号令",
     "zh_CN": "号令"
   },
   "sktok_xbstone": {
@@ -4867,9 +4915,11 @@
     "zh_CN": "可供开采"
   },
   "sktok_xbtent": {
+    "ja_JP": "援護",
     "zh_CN": "援护"
   },
   "sktok_xbtrap": {
+    "ja_JP": "トラップ",
     "zh_CN": "陷阱"
   },
   "sktok_xbtrophy": {
