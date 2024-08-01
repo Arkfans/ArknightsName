@@ -18,6 +18,7 @@ tip: 请善用浏览器的搜索功能
 | char_1012_skadi2@iteration#2 | 红女爵 | - | - |
 | char_1013_chen2@boc#6 | 万重山 | Ten Thousand Mountains | 万重山 |
 | char_1014_nearl2@epoque#17 | 复现荣光 | Relight | 栄光の再臨 |
+| char_1016_agoat2@epoque#34 | 远行前的野餐 | - | - |
 | char_101_sora@epoque#17 | 如歌 | Melodiosa | メロディオーソ |
 | char_101_sora@summer#1 | 夏卉 FA361 | Summer Flowers FA361 | 夏の花弁FA361 |
 | char_1020_reed2@epoque#30 | 博物 | Curator | 歴史に囲まれて |
@@ -92,6 +93,7 @@ tip: 请善用浏览器的搜索功能
 | char_173_slchan@wild#1 | 孤攀客 | Lone Climber | 登山家 |
 | char_173_slchan@wwf#1 | 高原访客 | Highlands Visitor | 高原の来訪者 |
 | char_174_slbell@snow#1 | 开斯特之霜 | Caster's Frost | カスターの霜 |
+| char_179_cgbird@sightseer#1 | 流辉 | - | - |
 | char_179_cgbird@witch#1 | 挽歌 | an elegy | 挽歌 |
 | char_180_amgoat@summer#5 | 夏卉 FA018 | Summer Flower FA018 | 夏の花弁FA018 |
 | char_181_flower@daily#1 | 植物种志 | Species Plantarum | 植物紀年 |
@@ -118,7 +120,7 @@ tip: 请善用浏览器的搜索功能
 | char_201_moeshd@summer#4 | 探寻者 SK03 | Seeker SK03 | シーカーSK03 |
 | char_2023_ling@ncg#1 | 崖高梦远 | Towering is Cliff of Nostalgia | 崖高く夢遠し |
 | char_2023_ling@nian#9 | 濯缨 | It Does Wash the Strings | 濯冠纓 |
-| char_2024_chyue@nian#10 | 何处栖 | - | 何処棲 |
+| char_2024_chyue@nian#10 | 何处栖 | Alighting | 何処棲 |
 | char_202_demkni@boc#1 | 坚城 | Stronghold | 堅城 |
 | char_202_demkni@test#1 | 铁律 | The Law | 鉄の掟 |
 | char_204_platnm@summer#3 | 灿阳朝露 SD05 | Shimmering Dew SD05 | 炎陽煌く露SD05 |
@@ -167,7 +169,7 @@ tip: 请善用浏览器的搜索功能
 | char_264_f12yin@boc#3 | 乌云 | Dark Cloud | 烏雲 |
 | char_264_f12yin@epoque#15 | 读者 | Book Reader | 読書家 |
 | char_265_sophia@epoque#11 | 荣耀之紫 | Glory Purple | グローリーパープル |
-| char_271_spikes@unveiling#1 | 危险邀约 | - | 危険な誘い |
+| char_271_spikes@unveiling#1 | 危险邀约 | Dangerous Invitation | 危険な誘い |
 | char_271_spikes@winter#2 | 随性 | Casual | 気儘 |
 | char_272_strong@summer#6 | 沙滩护卫 GT002 | Beach Guard GT002 | 砂浜の番人GT002 |
 | char_274_astesi@epoque#23 | 奇工妙想 | Fantastic Crafts | 奇装天外 |
@@ -189,7 +191,7 @@ tip: 请善用浏览器的搜索功能
 | char_293_thorns@it#1 | 惬意 | Cómodo | 満喫 |
 | char_294_ayer@boc#3 | 受验者 | Tested One | 潜入者 |
 | char_297_hamoni@epoque#24 | 邀约 | Invitation | お誘い |
-| char_297_hamoni@unveiling#1 | 装点 | - | おめかし |
+| char_297_hamoni@unveiling#1 | 装点 | Decoration | おめかし |
 | char_298_susuro@summer#6 | 夏卉 FA026 | Summer Flower FA026 | 夏の花弁FA026 |
 | char_300_phenxi@witch#4 | 至圣誓言 | Divine Oath | 至聖の誓言 |
 | char_302_glaze@summer#11 | 悠然假日 HD29 | Holiday HD29 | ホリデーHD29 |
@@ -209,7 +211,7 @@ tip: 请善用浏览器的搜索功能
 | char_338_iris@witch#3 | 镜中来访 | Mirror Visitor | 鏡からの来訪者 |
 | char_340_shwaz@snow#1 | 厚礼 | Presents | ギフト |
 | char_340_shwaz@striker#1 | 天际线 | Skyline | スカイライン |
-| char_341_sntlla@summer#15 | 悠然假日 HD71 | - | ホリデーHD71 |
+| char_341_sntlla@summer#15 | 悠然假日 HD71 | Holiday HD71 | ホリデーHD71 |
 | char_343_tknogi@epoque#9 | 伦式巫女 | Londinium Style Miko | ロンディニウム式巫女 |
 | char_343_tknogi@snow#6 | 舞 | Dance | 舞 |
 | char_344_beewax@epoque#9 | 白沙 | Weißer Sand | ホワイトサンド |
@@ -237,7 +239,7 @@ tip: 请善用浏览器的搜索功能
 | char_377_gdglow@summer#12 | 夏卉 FA394 | Summer Flowers FA394 | 夏の花弁FA394 |
 | char_378_asbest@whirlwind#3 | 幽谷奏鸣 | Glen Sonata | グレンソナタ |
 | char_383_snsant@witch#2 | 天命勇者 | Fated Hero | 宿命の勇者 |
-| char_385_finlpp@nian#11 | 贺新禧 | - | 祝福至 |
+| char_385_finlpp@nian#11 | 贺新禧 | Yearly Present | 祝福至 |
 | char_388_mint@epoque#22 | 月宵 | Tsukiyoi | 月宵 |
 | char_388_mint@epoque#30 | 私人书房 | Private Study | 本と過ごすひと時 |
 | char_391_rosmon@epoque#17 | 拥抱新生 | Become Anew | 始まりを抱く |
@@ -245,11 +247,12 @@ tip: 请善用浏览器的搜索功能
 | char_4004_pudd@snow#5 | 火树灵 | Gleaming Fey | 煌めく精霊 |
 | char_4006_melnte@epoque#33 | 赴宴 | - | - |
 | char_4009_irene@ambienceSynesthesia#3 | 飞羽 | Voyage of Feathers | 飛び立つ羽 |
+| char_400_weedy@sightseer#1 | 倾听 | - | - |
 | char_400_weedy@snow#2 | 糖果仙子 | Candy Cape | キャンディフェアリー |
 | char_4013_kjera@epoque#18 | 灵巧侍者 | Ingenious Servant | 腕利き侍女 |
 | char_4014_lunacu@yun#1 | 棠云巧梦 | Clouds Float Like Ideas of Art | 海棠の夢 |
 | char_4016_kazema@witch#3 | 幻影轻悄 | Like Illusion | 軽やかな幻影 |
-| char_4017_puzzle@epoque#29 | 碎片之间 | - | ピースの間 |
+| char_4017_puzzle@epoque#29 | 碎片之间 | Amidst the Pieces | ピースの間 |
 | char_4019_ncdeer@ncdeer#1 | 古往今来的月 | A Silvern Caress On the Flow of Time | 古往今来の月 |
 | char_401_elysm@snow#2 | 雪夜回音 | Snowy Echo | 雪夜の思い出 |
 | char_401_elysm@summer#9 | 灿阳朝露 SDm11 | Shimmering Dew SDm11 | 炎陽煌く露SDm11 |
@@ -275,15 +278,16 @@ tip: 请善用浏览器的搜索功能
 | char_4064_mlynar@epoque#28 | 远路 | W Dali | 遠き道のり |
 | char_4065_judge@epoque#33 | 记叙 | - | - |
 | char_4065_judge@snow#6 | 偶尔醉陶 | Occasionally Flushed | たまの深酒 |
-| char_4066_highmo@nian#10 | 及山海 | - | 隣山海 |
+| char_4066_highmo@nian#10 | 及山海 | The Land With Me | 隣山海 |
 | char_4071_peper@whirlwind#5 | 来路 | The Road to Here | 来た道 |
 | char_4072_ironmn@summer#11 | 沙滩护卫 GT003 | Beach Guard GT003 | 砂浜の番人GT003 |
 | char_4077_palico@mh#1 | 跃上街头 | Fly Into the Street | 街へ飛び出せ |
 | char_4078_bdhkgt@yun#2 | 伴青莲 | Away From Dust | 青蓮の友 |
-| char_4080_lin@nian#10 | 列瑶台 | - | 列瑶台 |
+| char_4080_lin@nian#10 | 列瑶台 | Heavenly Mirage | 列瑶台 |
 | char_4082_qiubai@epoque#31 | 礼遇 | - | - |
 | char_4082_qiubai@ncg#1 | 霜林醉 | Wine-flushed is Woods of Rime | 霜林酔 |
 | char_4087_ines@boc#8 | 燃烧天穹下 | - | - |
+| char_4088_hodrer@sightseer#1 | 沉思之庭 | - | - |
 | char_4091_ulika@sanrio#1 | 云上直播间 | - | - |
 | char_411_tomimi@summer#5 | 静谧午夜 DN04 | Silent Night DN04 | 安息の午夜DN04 |
 | char_4122_grabds@yun#3 | 步芳兰 | - | - |
@@ -307,7 +311,7 @@ tip: 请善用浏览器的搜索功能
 | char_440_pinecn@epoque#31 | 远行的季节 | - | - |
 | char_440_pinecn@shining#1 | 倾声歌唱 | Sing a Song | 歌声よ届け |
 | char_449_glider@epoque#17 | 荒野之后 | Wildness Behind | 荒野のあとに |
-| char_449_glider@nian#10 | 洇灵雨 | - | 霊雨朦朧 |
+| char_449_glider@nian#10 | 洇灵雨 | Saturated Within Rain | 霊雨朦朧 |
 | char_451_robin@epoque#13 | 原野的馈赠 | Gift of Wild | 荒野の贈り物 |
 | char_452_bstalk@snow#4 | 未完成的礼物 | Gift Uncompleted | 未完成のギフト |
 | char_455_nothin@nian#7 | 冷山月 | Pale Rising Moon | 冷山月 |
@@ -332,6 +336,7 @@ tip: 请善用浏览器的搜索功能
 | char_485_pallas@epoque#12 | 传承 | Heritage | 伝承 |
 | char_485_pallas@epoque#19 | 山川的酿造 | A Drip of Orea and Potamous | 山川の醸造 |
 | char_486_takila@ambienceSynesthesia#2 | 开牌制胜 | Cardwinner | ショーダウン |
+| char_488_buildr@epoque#34 | 晚风休憩 | - | - |
 | char_489_serum@epoque#31 | 逸趣 | - | - |
 | char_492_quercu@epoque#17 | 遥乡之径 | Distant Home's Guide | 故郷は遠く |
 | char_492_quercu@witch#4 | 树影吟游 | The Bard's Tale | 木陰の吟遊詩人 |

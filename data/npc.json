@@ -786,6 +786,13 @@
     ]
   },
   "avg_2025_shu_1": {
+    "en_US": [
+      "Ethereal Woman",
+      "Indistinct Woman",
+      "Kind Woman",
+      "Passing Nongye Tianshi",
+      "Shu"
+    ],
     "ja_JP": [
       "シュウ",
       "優しい女性",
@@ -858,6 +865,7 @@
   },
   "avg_215_mantic_1": {
     "en_US": [
+      "Manticore",
       "Panicked Manticore Girl"
     ],
     "ja_JP": [
@@ -999,7 +1007,8 @@
   },
   "avg_243_waaifu_1": {
     "en_US": [
-      "Waai Fu"
+      "Waai Fu",
+      "Waai Fu?"
     ],
     "ja_JP": [
       "ワイフー",
@@ -1819,6 +1828,13 @@
       "鸿雪"
     ]
   },
+  "avg_4058_pepe_1": {
+    "zh_CN": [
+      "佩佩",
+      "宝石屏风后的女性",
+      "集会主持人"
+    ]
+  },
   "avg_4062_totter_1": {
     "en_US": [
       "Totter"
@@ -2155,6 +2171,11 @@
     ]
   },
   "avg_4119_wanqin_1": {
+    "en_US": [
+      "He Sheng",
+      "Nongye Tianshi Apprentice",
+      "Rustic Youth"
+    ],
     "ja_JP": [
       "ホーシェン",
       "素朴な少年",
@@ -2167,6 +2188,9 @@
     ]
   },
   "avg_4121_zuole_1": {
+    "en_US": [
+      "Zuo Le"
+    ],
     "ja_JP": [
       "ズオ・ラウ"
     ],
@@ -2175,6 +2199,10 @@
     ]
   },
   "avg_4122_grabds_1": {
+    "en_US": [
+      "Grain Buds",
+      "Mischievous Girl"
+    ],
     "ja_JP": [
       "やんちゃな少女",
       "シャオマン"
@@ -2235,6 +2263,26 @@
     "zh_CN": [
       "敏锐的军官",
       "西昆妲"
+    ]
+  },
+  "avg_4138_narant_1": {
+    "zh_CN": [
+      "古怪的女人",
+      "娜仁图亚",
+      "鬼祟的女人"
+    ]
+  },
+  "avg_4139_papyrs_1": {
+    "zh_CN": [
+      "匆忙的女孩",
+      "阿娜特"
+    ]
+  },
+  "avg_4140_lasher_1": {
+    "zh_CN": [
+      "冷傲的市民",
+      "拉恕尔",
+      "瞌睡的市民"
     ]
   },
   "avg_4145_Ulpia_1": {
@@ -2416,6 +2464,11 @@
     ],
     "zh_CN": [
       "豆苗"
+    ]
+  },
+  "avg_464_cement_1": {
+    "zh_CN": [
+      "夏娜"
     ]
   },
   "avg_466_qanik_1": {
@@ -3140,6 +3193,7 @@
       "观赛的感染者",
       "路人B",
       "路过的商人",
+      "辛苦的矿工",
       "酒吧老板",
       "酒馆老板"
     ]
@@ -3156,6 +3210,7 @@
       "Bounty Hunter A",
       "Brutish Mercenary",
       "Cowardly Mercenary",
+      "Crafty Robber",
       "Crumbling Bandit",
       "Daniil",
       "Diminutive Mercenary",
@@ -3184,6 +3239,7 @@
       "Sullen Bounty Hunter",
       "Surly Bandit",
       "Survivor A",
+      "Suspicious Man",
       "Ugly Hooligan",
       "Ursus Caravan Guard",
       "Violent Bounty Hunter",
@@ -3295,6 +3351,7 @@
     "en_US": [
       "'Captain'",
       "Abi",
+      "Arrogant Robber",
       "Bandit",
       "Bandit Leader",
       "Black Market Brawler B",
@@ -3708,6 +3765,7 @@
       "保镖C",
       "克洛宁的保镖",
       "克洛宁的手下",
+      "博物馆保安",
       "奥提",
       "安保人员",
       "展会保安",
@@ -3982,6 +4040,7 @@
       "A Spectator A",
       "A Tourist",
       "A Tourist A",
+      "Ah Yun",
       "Alba",
       "An Audience Member A",
       "An Enthusiastic Spectator",
@@ -4086,6 +4145,7 @@
       "Angry Man",
       "Block Manager?",
       "Confused Fan",
+      "Customer",
       "Doctor",
       "Drunk",
       "Embarrassed Man",
@@ -5779,6 +5839,7 @@
       "取り残された生物"
     ],
     "zh_CN": [
+      "外形小巧的生物",
       "被落下的生物"
     ]
   },
@@ -6886,6 +6947,7 @@
       "採掘隊隊長"
     ],
     "zh_CN": [
+      "努力的矿工",
       "工人“制动器”",
       "感染者工人",
       "矿队队长"
@@ -6908,6 +6970,7 @@
       "公司代表",
       "工人“发动机”",
       "有点熟悉的女性",
+      "疲劳的矿工",
       "陌生的女性"
     ]
   },
@@ -6920,6 +6983,11 @@
     ],
     "zh_CN": [
       "幼小的沙地兽",
+      "沙地兽"
+    ]
+  },
+  "avg_npc_1189_1": {
+    "zh_CN": [
       "沙地兽"
     ]
   },
@@ -6944,6 +7012,9 @@
     ]
   },
   "avg_npc_1200_1": {
+    "en_US": [
+      "Pepe"
+    ],
     "ja_JP": [
       "ペペ"
     ],
@@ -7061,6 +7132,12 @@
     ]
   },
   "avg_npc_1236_1": {
+    "en_US": [
+      "Astute Merchant",
+      "Caravan Leader",
+      "Ji",
+      "Well-Dressed Man"
+    ],
     "ja_JP": [
       "ジー",
       "商隊隊長",
@@ -7075,6 +7152,9 @@
     ]
   },
   "avg_npc_1237_1": {
+    "en_US": [
+      "Wang"
+    ],
     "ja_JP": [
       "ワン"
     ],
@@ -7083,6 +7163,14 @@
     ]
   },
   "avg_npc_1238_1": {
+    "en_US": [
+      "'Old Tianshi'",
+      "Annoyed Apprentice Tianshi",
+      "Annoyed Girl",
+      "Ill-Tempered Girl",
+      "Serious Apprentice Tianshi?",
+      "Tianshi Apprentice"
+    ],
     "ja_JP": [
       "「老天師」",
       "乱暴な天師見習い",
@@ -7101,6 +7189,10 @@
     ]
   },
   "avg_npc_1239_1": {
+    "en_US": [
+      "Consumpted Old Man",
+      "Grand Commandant"
+    ],
     "ja_JP": [
       "太尉",
       "結核の老人"
@@ -7111,6 +7203,11 @@
     ]
   },
   "avg_npc_1240_1": {
+    "en_US": [
+      "Calm Woman",
+      "Old Xiangzhang",
+      "Rong Wanqing"
+    ],
     "ja_JP": [
       "ロン・ワンチィン",
       "穏やかな女性",
@@ -7123,6 +7220,10 @@
     ]
   },
   "avg_npc_1241_1": {
+    "en_US": [
+      "Assistant Minister Wan",
+      "Assistant Minister of Engineering"
+    ],
     "ja_JP": [
       "ワン侍郎",
       "工部侍郎"
@@ -7133,6 +7234,13 @@
     ]
   },
   "avg_npc_1242_1": {
+    "en_US": [
+      "Hardworking Farmer",
+      "Indistinct Woman",
+      "Old Farmer",
+      "Old Woman",
+      "Rustic Farmer"
+    ],
     "ja_JP": [
       "年老いた女性",
       "素朴な農民",
@@ -7149,6 +7257,10 @@
     ]
   },
   "avg_npc_1243_1": {
+    "en_US": [
+      "Old Lumberjack",
+      "Silent Lumberjack"
+    ],
     "ja_JP": [
       "木こり",
       "沈黙する木こり"
@@ -7159,6 +7271,15 @@
     ]
   },
   "avg_npc_1244_1": {
+    "en_US": [
+      "Docile Stockbeast",
+      "Eerie Fabric",
+      "Mianmian",
+      "Passing Stockbeast",
+      "Stockbeast's Voice",
+      "Strange Fabric",
+      "Stray Stockbeast"
+    ],
     "ja_JP": [
       "おとなしい牧獣",
       "めんめん",
@@ -7179,6 +7300,12 @@
     ]
   },
   "avg_npc_1245_1": {
+    "en_US": [
+      "Tumu Tianshi",
+      "Tumu Tianshi Apprentice",
+      "Veteran Tumu Tianshi",
+      "Yawning Tumu Tianshi"
+    ],
     "ja_JP": [
       "だらけた土木天師",
       "ベテラン土木天師",
@@ -7193,6 +7320,11 @@
     ]
   },
   "avg_npc_1246_1": {
+    "en_US": [
+      "Tired Tumu Tianshi",
+      "Tumu Tianshi",
+      "Young Tumu Tianshi"
+    ],
     "ja_JP": [
       "土木天師",
       "疲弊した土木天師",
@@ -7205,6 +7337,10 @@
     ]
   },
   "avg_npc_1247_1": {
+    "en_US": [
+      "Frantic Nongye Tianshi",
+      "Nongye Tianshi Apprentice"
+    ],
     "ja_JP": [
       "焦る農業天師",
       "農業天師見習い"
@@ -7215,6 +7351,9 @@
     ]
   },
   "avg_npc_1248_1": {
+    "en_US": [
+      "Agitated Nongye Tianshi"
+    ],
     "ja_JP": [
       "慌てる農業天師"
     ],
@@ -7223,6 +7362,20 @@
     ]
   },
   "avg_npc_1249_1": {
+    "en_US": [
+      "Angry Farmer",
+      "Anxious Farmer",
+      "Astonished Farmer",
+      "Excited Farmer",
+      "Joyful Farmer",
+      "Lead Farmer A",
+      "Lead Farmer C",
+      "Panicked Farmer",
+      "Senior Farmer",
+      "Surprised Farmer",
+      "Tired Farmer",
+      "Trembling Farmer"
+    ],
     "ja_JP": [
       "うれしそうな農家",
       "やせ我慢する農家",
@@ -7254,6 +7407,17 @@
     ]
   },
   "avg_npc_1250_1": {
+    "en_US": [
+      "Alarmed Farmer",
+      "Anxious Farmer",
+      "Astonished Farmer",
+      "Farmer by the Fields",
+      "Frightened Farmer",
+      "Happy Farmer",
+      "Lead Farmer B",
+      "Resentful Farmer",
+      "Worried Farmer"
+    ],
     "ja_JP": [
       "不安な農家",
       "動揺する農家",
@@ -7289,12 +7453,30 @@
     ]
   },
   "avg_npc_1255_1": {
+    "en_US": [
+      "Rental Store Owner"
+    ],
     "ja_JP": [
       "レンタルショップ店主"
     ],
     "zh_CN": [
       "伦蒂尼姆居民",
       "租赁店老板"
+    ]
+  },
+  "avg_npc_1256_1": {
+    "zh_CN": [
+      "珠光宝气的男性"
+    ]
+  },
+  "avg_npc_1257_1": {
+    "zh_CN": [
+      "外国富商"
+    ]
+  },
+  "avg_npc_1258_1": {
+    "zh_CN": [
+      "风姿绰约的女人"
     ]
   },
   "avg_npc_1271_1": {
@@ -7830,9 +8012,12 @@
     "en_US": [
       "Agitated Villager",
       "Angry Villager",
+      "Busy Farmer",
       "Excavator",
+      "Farmer",
       "First Apprentice",
       "Frenetic Villager",
+      "Humble Worker",
       "Innkeeper",
       "Nervous Villager",
       "Passing Villager A",
@@ -7842,6 +8027,7 @@
       "Second Apprentice",
       "Stonemason",
       "Street Stall Owner",
+      "Terrified Farmer",
       "Vigilant Villager",
       "Villager",
       "Villager B"
@@ -7954,9 +8140,11 @@
   },
   "avg_npc_143": {
     "en_US": [
+      "'Free'",
       "Bitey",
       "Bitey & Bitey?",
-      "Ink Spirit"
+      "Ink Spirit",
+      "Strange Creature"
     ],
     "ja_JP": [
       "「ジザイ」",
@@ -8026,6 +8214,144 @@
     "zh_CN": [
       "小樱桃",
       "炉边的孩童"
+    ]
+  },
+  "avg_npc_1477_1": {
+    "zh_CN": [
+      "米诺斯游客",
+      "阿斯帕齐娅",
+      "集会主持人"
+    ]
+  },
+  "avg_npc_1478_1": {
+    "zh_CN": [
+      "梅捷缇克缇"
+    ]
+  },
+  "avg_npc_1479_1": {
+    "zh_CN": [
+      "无名古尸",
+      "祖拜尔"
+    ]
+  },
+  "avg_npc_1480_1": {
+    "zh_CN": [
+      "安静的青年"
+    ]
+  },
+  "avg_npc_1481_1": {
+    "zh_CN": [
+      "受伤的少年",
+      "安静的少年"
+    ]
+  },
+  "avg_npc_1482_1": {
+    "zh_CN": [
+      "神秘的动物",
+      "米奥"
+    ]
+  },
+  "avg_npc_1483_1": {
+    "zh_CN": [
+      "沃奥",
+      "神秘的动物"
+    ]
+  },
+  "avg_npc_1484_1": {
+    "zh_CN": [
+      "乱转的员工",
+      "谄媚的员工",
+      "阿雅吉"
+    ]
+  },
+  "avg_npc_1485_1": {
+    "zh_CN": [
+      "奉承的员工",
+      "拉恕尔",
+      "阿雅吉&阿雅妮",
+      "阿雅妮"
+    ]
+  },
+  "avg_npc_1486_1": {
+    "zh_CN": [
+      "异乡的游客"
+    ]
+  },
+  "avg_npc_1487_1": {
+    "zh_CN": [
+      "来自黄金之城的使者"
+    ]
+  },
+  "avg_npc_1488_1": {
+    "zh_CN": [
+      "宝石构装体"
+    ]
+  },
+  "avg_npc_1490_1": {
+    "zh_CN": [
+      "优雅的男子",
+      "侍者",
+      "博物馆员工",
+      "旅馆接待员",
+      "无所事事的市民",
+      "集会工作人员"
+    ]
+  },
+  "avg_npc_1491_1": {
+    "zh_CN": [
+      "博物馆员工",
+      "博物馆售票员",
+      "拉沙德",
+      "挑剔的参观者",
+      "温柔的母亲",
+      "满怀期待的女人",
+      "百无聊赖的市民",
+      "衣着朴素的女性",
+      "集会主持人"
+    ]
+  },
+  "avg_npc_1492_1": {
+    "zh_CN": [
+      "出身高贵的学者",
+      "宝石收藏家",
+      "惊慌的路人",
+      "点灯人"
+    ]
+  },
+  "avg_npc_1493_1": {
+    "zh_CN": [
+      "欢乐的妇人"
+    ]
+  },
+  "avg_npc_1494_1": {
+    "zh_CN": [
+      "交易所男员工",
+      "惊恐的集会裁判",
+      "紧张的集会裁判",
+      "衣着考究的市民"
+    ]
+  },
+  "avg_npc_1495_1": {
+    "zh_CN": [
+      "严谨的集会裁判",
+      "交易所女员工",
+      "宝石商人"
+    ]
+  },
+  "avg_npc_1496_1": {
+    "zh_CN": [
+      "好奇的孩子"
+    ]
+  },
+  "avg_npc_1497_1": {
+    "zh_CN": [
+      "伤心的女孩",
+      "啜泣的女孩",
+      "好奇的女孩",
+      "岸边的女孩",
+      "年幼的观众",
+      "开心的女孩",
+      "悲伤的女孩"
     ]
   },
   "avg_npc_151": {
@@ -8147,6 +8473,7 @@
     "zh_CN": [
       "冷静的女性",
       "商队头领",
+      "开朗的前沙盗",
       "灰头土脸的女人",
       "爱麦拉",
       "路过的萨尔贡镇民",
@@ -8215,6 +8542,7 @@
       "局促的使节",
       "巴塞尔",
       "感染者镇民",
+      "犹疑的前沙盗",
       "萨尔贡亲兵",
       "萨尔贡镇民？",
       "镇民",
@@ -8389,6 +8717,7 @@
       "贵族女士",
       "贵族女性",
       "贵族？",
+      "身份高贵的女性",
       "迟疑的使节",
       "附庸风雅的女贵族",
       "面色和善的贵族",
@@ -8528,6 +8857,7 @@
       "休斯",
       "伦蒂尼姆商人",
       "十分严肃的议员",
+      "地位不凡的富商",
       "威廉",
       "富有的男性",
       "市长",
@@ -8913,6 +9243,7 @@
       "玻利瓦尔游客",
       "神秘人物",
       "赌场客人",
+      "踩着平衡车的观众",
       "震惊的男游客",
       "高兴的男游客"
     ]
@@ -9692,6 +10023,7 @@
       "塔拉孩童",
       "寒酸的小贩",
       "小孩子",
+      "比利",
       "焦急的孩子",
       "瘦弱的孩子",
       "稚嫩的孩子",
@@ -9832,6 +10164,7 @@
       "驚く通行人"
     ],
     "zh_CN": [
+      "“工程师”",
       "不友好的男性",
       "于里安",
       "信使麦克马丁",
@@ -9913,6 +10246,7 @@
       "女仆",
       "帕萨多",
       "悲伤的女性",
+      "情报中间人",
       "惊慌的商人",
       "感染者市民",
       "漠然的路人",
@@ -10693,6 +11027,7 @@
   "avg_npc_295_1": {
     "en_US": [
       "Liang Xun",
+      "Liang Xun?",
       "Unfrivolous Man"
     ],
     "ja_JP": [
@@ -10732,7 +11067,8 @@
   },
   "avg_npc_298_1": {
     "en_US": [
-      "Miss Ning"
+      "Miss Ning",
+      "Ning Ciqiu"
     ],
     "ja_JP": [
       "ニン",
@@ -10839,6 +11175,7 @@
   },
   "avg_npc_304_1": {
     "en_US": [
+      "Dai Pai Dong Waiter",
       "Panicked Passerby",
       "Part-Timer",
       "Snowsweeping Stranger",
@@ -11285,6 +11622,7 @@
       "Agitated Citizen",
       "Blabbermouth Hospital Attendant",
       "Intellectual Lateran Citizen",
+      "Notarial Hall Executor",
       "Notarial Hall Official",
       "Relaxed Lateran Citizen",
       "Troubled Lateran Citizen"
@@ -11881,6 +12219,7 @@
       "天灾信使",
       "天灾信使？",
       "憔悴的女人",
+      "新老师",
       "瘦高的发明者",
       "艾维",
       "陌生女人"
@@ -12637,6 +12976,7 @@
       "围观的路人B",
       "坚强的感染者",
       "开朗的感染者",
+      "村长",
       "满心期待的观众",
       "雷奥妮"
     ]
@@ -12820,6 +13160,7 @@
       "吃惊的游客",
       "快递员",
       "愉快的哥伦比亚人",
+      "拿着硬币的游客",
       "无礼的记者",
       "米莱斯",
       "街边摊贩",
@@ -12870,6 +13211,7 @@
       "沙滩伞外派人员",
       "活泼的女性",
       "特里蒙市民",
+      "看导览手册的游客",
       "紧张的创业者",
       "记者",
       "记者A",
@@ -13835,10 +14177,15 @@
     "zh_CN": [
       "农民",
       "天真的孩子",
+      "好奇的孩子",
+      "小藿普",
       "排斥的孩童",
       "暴君",
       "村民的孩子",
-      "老人"
+      "热情的学生",
+      "玛德琳",
+      "老人",
+      "起哄的学生"
     ]
   },
   "avg_npc_662_1": {
@@ -14153,9 +14500,12 @@
       "小柄な女の子"
     ],
     "zh_CN": [
+      "偷传纸条的学生",
       "卢娜",
       "卢比奥之女",
-      "瘦小的女孩"
+      "瑟琳",
+      "瘦小的女孩",
+      "调皮的学生"
     ]
   },
   "avg_npc_701_1": {
@@ -14549,7 +14899,8 @@
   },
   "avg_npc_791_1": {
     "en_US": [
-      "Record Keeper"
+      "Record Keeper",
+      "Yun Qingping"
     ],
     "ja_JP": [
       "ユン・チンピン",
@@ -14675,6 +15026,7 @@
       "Passing Villager B",
       "Rescue Squad Member",
       "Roadside Inn Staff",
+      "Tea Leaf Peddler",
       "Villager",
       "Wanderer",
       "Warehouse Guard"
@@ -14742,10 +15094,12 @@
       "Disappointed Martial Artist",
       "Guest",
       "Jing",
+      "L.G.D. Officer",
       "Mr. Ruan",
       "Retired Soldier",
       "Senior Villager",
-      "Villager"
+      "Villager",
+      "Well-Traveled Man"
     ],
     "ja_JP": [
       "ジィン",
@@ -14821,6 +15175,13 @@
     ],
     "zh_CN": [
       "联络员"
+    ]
+  },
+  "avg_npc_804_1": {
+    "zh_CN": [
+      "珠光宝气的市民",
+      "穿金戴玉的男人",
+      "阔绰的游客"
     ]
   },
   "avg_npc_805_1": {
@@ -15331,6 +15692,7 @@
       "“老财”",
       "不耐烦的平民",
       "冷漠的平民",
+      "卡兹戴尔外围居民A",
       "垂死的感染者",
       "帕克",
       "干瘦的萨卡兹男性",
@@ -15369,7 +15731,8 @@
     "en_US": [
       "Concerned Sarkaz",
       "Frightened Sarkaz",
-      "Monastery Inhabitant"
+      "Monastery Inhabitant",
+      "Sarkaz Hunter"
     ],
     "ja_JP": [
       "サルカズの狩人",
@@ -15379,6 +15742,7 @@
     ],
     "zh_CN": [
       "修道院居民",
+      "卡兹戴尔外围居民B",
       "担忧的萨卡兹居民",
       "激动的萨卡兹",
       "激愤的平民",
@@ -16006,6 +16370,12 @@
       "格劳克斯"
     ]
   },
+  "avgnew_4017_puzzle_1": {
+    "zh_CN": [
+      "康拉德先生",
+      "菲舍尔"
+    ]
+  },
   "avgnew_455_nothing_1": {
     "en_US": [
       "'Mr. Chasteberry'",
@@ -16490,6 +16860,7 @@
       "毅然としたレユニオン術師"
     ],
     "zh_CN": [
+      "乌萨斯术师",
       "依拉",
       "坚毅的整合运动术师",
       "整合运动术师",

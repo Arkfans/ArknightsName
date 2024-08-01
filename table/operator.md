@@ -104,7 +104,7 @@ tip: 请善用浏览器的搜索功能
 | char_201_moeshd | 可颂 | Croissant | クロワッサン |
 | char_2023_ling | 令 | Ling | リィン |
 | char_2024_chyue | 重岳 | Chongyue | チョンユエ |
-| char_2025_shu | 黍 | - | シュウ |
+| char_2025_shu | 黍 | Shu | シュウ |
 | char_202_demkni | 塞雷娅 | Saria | サリア |
 | char_204_platnm | 白金 | Platinum | プラチナ |
 | char_206_gnosis | 灵知 | Gnosis | ノーシス |
@@ -221,7 +221,7 @@ tip: 请善用浏览器的搜索功能
 | char_4017_puzzle | 谜图 | Puzzle | パズル |
 | char_4019_ncdeer | 九色鹿 | Nine-Colored Deer | 九色鹿 |
 | char_401_elysm | 极境 | Elysium | エリジウム |
-| char_4023_rfalcn | 红隼 | - | ケストレル |
+| char_4023_rfalcn | 红隼 | Kestrel | ケストレル |
 | char_4025_aprot2 | 暮落 | Shalem | シャレム |
 | char_4027_heyak | 霍尔海雅 | Ho'olheyak | ホルハイヤ |
 | char_402_tuye | 图耶 | Tuye | トゥイエ |
@@ -238,6 +238,7 @@ tip: 请善用浏览器的搜索功能
 | char_4048_doroth | 多萝西 | Dorothy | ドロシー |
 | char_4054_malist | 至简 | Minimalist | ミニマリスト |
 | char_4055_bgsnow | 鸿雪 | Pozëmka | パゼオンカ |
+| char_4058_pepe | 佩佩 | - | - |
 | char_405_absin | 苦艾 | Absinthe | アブサント |
 | char_4062_totter | 铅踝 | Totter | トター |
 | char_4063_quartz | 石英 | Quartz | クォーツ |
@@ -270,10 +271,10 @@ tip: 请善用浏览器的搜索功能
 | char_4114_harold | 哈洛德 | Harold | ハロルド |
 | char_4116_blkkgt | 锏 | Degenbrecher | デーゲンブレヒャー |
 | char_4117_ray | 莱伊 | Ray | レイ |
-| char_4119_wanqin | 万顷 | - | ワンチィン |
+| char_4119_wanqin | 万顷 | Wanqing | ワンチィン |
 | char_411_tomimi | 特米米 | Tomimi | トミミ |
-| char_4121_zuole | 左乐 | - | ズオ・ラウ |
-| char_4122_grabds | 小满 | - | グレインバッズ |
+| char_4121_zuole | 左乐 | Zuo Le | ズオ・ラウ |
+| char_4122_grabds | 小满 | Grain Buds | グレインバッズ |
 | char_4123_ela | 艾拉 | - | - |
 | char_4124_iana | 双月 | - | - |
 | char_4125_rdoc | 医生 | - | - |
@@ -285,6 +286,9 @@ tip: 请善用浏览器的搜索功能
 | char_4134_cetsyr | 魔王 | - | - |
 | char_4136_phonor | PhonoR-0 | - | - |
 | char_4137_udflow | 深巡 | - | - |
+| char_4138_narant | 娜仁图亚 | - | - |
+| char_4139_papyrs | 莎草 | - | - |
+| char_4140_lasher | 衡沙 | - | - |
 | char_4145_ulpia | 乌尔比安 | - | - |
 | char_4146_nymph | 妮芙 | - | - |
 | char_4147_mitm | 渡桥 | - | - |

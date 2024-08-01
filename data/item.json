@@ -85,14 +85,17 @@
     "zh_CN": "γ类新年寻访凭证"
   },
   "2024recruitment10_1": {
+    "en_US": "Type-α Headhunting Permit",
     "ja_JP": "4.5周年特別スカウト券α",
     "zh_CN": "α类新年寻访凭证"
   },
   "2024recruitment10_2": {
+    "en_US": "Type-β Headhunting Permit",
     "ja_JP": "4.5周年特別スカウト券β",
     "zh_CN": "β类新年寻访凭证"
   },
   "2024recruitment10_3": {
+    "en_US": "Type-γ Headhunting Permit",
     "ja_JP": "4.5周年特別スカウト券γ",
     "zh_CN": "γ类新年寻访凭证"
   },
@@ -707,11 +710,15 @@
     "zh_CN": "烛照弦鸣寻访凭证"
   },
   "LIMITED_TKT_GACHA_10_4701": {
+    "en_US": "Bountiful Harmony Headhunting Permit",
     "ja_JP": "4.5周年記念10回スカウト券",
     "zh_CN": "时和岁丰寻访凭证"
   },
   "LIMITED_TKT_GACHA_10_5001": {
     "zh_CN": "残夜厝薪寻访凭证"
+  },
+  "LIMITED_TKT_GACHA_10_5301": {
+    "zh_CN": "璀璨闪耀寻访凭证"
   },
   "LIMITED_TKT_GACHA_10_903": {
     "en_US": "Awakening Commemoration Permit",
@@ -719,7 +726,7 @@
     "zh_CN": "苏醒纪念寻访凭证"
   },
   "LINKAGE_TKT_GACHA_10_1701": {
-    "en_US": "Elite Forces Headhunting Permit",
+    "en_US": "Expert Headhunting Permit",
     "ja_JP": "精鋭小隊10回スカウト券",
     "zh_CN": "特勤专家寻访凭证"
   },
@@ -802,10 +809,14 @@
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_4701": {
+    "en_US": "Headhunting Data Contract",
     "ja_JP": "限定契約証",
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_5001": {
+    "zh_CN": "寻访数据契约"
+  },
+  "LMTGS_COIN_5301": {
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_601": {
@@ -1075,6 +1086,7 @@
     "zh_CN": "罗德岛物资配给证书"
   },
   "act17d0_token_form_rep_1": {
+    "en_US": "Rhodes Island Resource Allocation Certificate",
     "ja_JP": "ロドス物資配給許可書",
     "zh_CN": "罗德岛物资配给证书"
   },
@@ -1210,6 +1222,7 @@
     "zh_CN": "手抄歌谣集"
   },
   "act22side_token_manuscript_rep_1": {
+    "en_US": "Manuscripts of Ballads",
     "ja_JP": "民謡集の写本",
     "zh_CN": "手抄歌谣集"
   },
@@ -1353,6 +1366,7 @@
     "zh_CN": "驮兽盲盒"
   },
   "act31side_token_box": {
+    "en_US": "Sky Pole",
     "ja_JP": "天杭",
     "zh_CN": "天桩"
   },
@@ -1364,6 +1378,9 @@
   },
   "act34side_token_chip": {
     "zh_CN": "“应急物资”蓝图芯片"
+  },
+  "act35side_token_dust": {
+    "zh_CN": "流光之沙"
   },
   "act38d1_token_coin": {
     "en_US": "Crystalized Originium",
@@ -1406,26 +1423,32 @@
     "zh_CN": "试验数据集"
   },
   "act4bossrush_milestone_point": {
+    "en_US": "Trial EXP",
     "ja_JP": "試練経験値",
     "zh_CN": "试炼经验"
   },
   "act4bossrush_relic_01": {
+    "en_US": "Lightened Load",
     "ja_JP": "積込み軽量化",
     "zh_CN": "轻量化载荷"
   },
   "act4bossrush_relic_02": {
+    "en_US": "Preheated Core",
     "ja_JP": "コア予熱",
     "zh_CN": "核心预热"
   },
   "act4bossrush_relic_03": {
+    "en_US": "Strength In Numbers",
     "ja_JP": "クラスター戦法",
     "zh_CN": "集群优势"
   },
   "act4bossrush_relic_04": {
+    "en_US": "Progressive Overclock\n",
     "ja_JP": "クロックアップ\n",
     "zh_CN": "渐进超频\n"
   },
   "act4bossrush_token_relic": {
+    "en_US": "Data Blackbox",
     "ja_JP": "ブラックボックス",
     "zh_CN": "数据黑盒"
   },
@@ -1506,6 +1529,9 @@
   "advanced_material_issue_voucher": {
     "en_US": "Advanced Material Voucher",
     "ja_JP": "T3素材交換券",
+    "zh_CN": "高级材料提货券"
+  },
+  "advanced_material_voucher_perm": {
     "zh_CN": "高级材料提货券"
   },
   "ap_item_CaH_200": {
@@ -1629,22 +1655,27 @@
     "zh_CN": "木瓜叶馅饼"
   },
   "ap_supply_lt_100_2024_1": {
+    "en_US": "Pure Floral Dew",
     "ja_JP": "ピュアフラワーシロップ",
     "zh_CN": "纯净鲜花露"
   },
   "ap_supply_lt_100_2024_2": {
+    "en_US": "Volcanic Lava Cake",
     "ja_JP": "溶岩ケーキ",
     "zh_CN": "火山熔岩蛋糕"
   },
   "ap_supply_lt_100_2024_3": {
+    "en_US": "Pastoral Afternoon Tea Pastries",
     "ja_JP": "午後のお茶菓子",
     "zh_CN": "午后田园茶点"
   },
   "ap_supply_lt_100_2024_4": {
+    "en_US": "Glassy-Sweet Rice Fritters",
     "ja_JP": "揚げ餡子餅",
     "zh_CN": "脆壳糖油果"
   },
   "ap_supply_lt_100_2024_5": {
+    "en_US": "Custard Creams",
     "ja_JP": "クリームサンドビスケット",
     "zh_CN": "奶油夹心饼干"
   },
@@ -3211,6 +3242,7 @@
     "zh_CN": "重岳的信物"
   },
   "p_char_2025_shu": {
+    "en_US": "Shu's Token",
     "ja_JP": "シュウの印",
     "zh_CN": "黍的信物"
   },
@@ -3785,6 +3817,7 @@
     "zh_CN": "极境的信物"
   },
   "p_char_4023_rfalcn": {
+    "en_US": "Kestrel's Token",
     "ja_JP": "ケストレルの印",
     "zh_CN": "红隼的信物"
   },
@@ -3867,6 +3900,9 @@
     "en_US": "Pozëmka's Token",
     "ja_JP": "パゼオンカの印",
     "zh_CN": "鸿雪的信物"
+  },
+  "p_char_4058_pepe": {
+    "zh_CN": "佩佩的信物"
   },
   "p_char_405_absin": {
     "en_US": "Absinthe's Token",
@@ -4017,6 +4053,7 @@
     "zh_CN": "莱伊的信物"
   },
   "p_char_4119_wanqin": {
+    "en_US": "Wanqing's Token",
     "ja_JP": "ワンチィンの印",
     "zh_CN": "万顷的信物"
   },
@@ -4026,10 +4063,12 @@
     "zh_CN": "特米米的信物"
   },
   "p_char_4121_zuole": {
+    "en_US": "Zuo Le's Token",
     "ja_JP": "ズオ・ラウの印",
     "zh_CN": "左乐的信物"
   },
   "p_char_4122_grabds": {
+    "en_US": "Grain Buds's Token",
     "ja_JP": "グレインバッズの印",
     "zh_CN": "小满的信物"
   },
@@ -4065,6 +4104,15 @@
   },
   "p_char_4137_udflow": {
     "zh_CN": "深巡的信物"
+  },
+  "p_char_4138_narant": {
+    "zh_CN": "娜仁图亚的信物"
+  },
+  "p_char_4139_papyrs": {
+    "zh_CN": "莎草的信物"
+  },
+  "p_char_4140_lasher": {
+    "zh_CN": "衡沙的信物"
   },
   "p_char_4145_ulpia": {
     "zh_CN": "乌尔比安的信物"
@@ -4324,6 +4372,9 @@
   "premium_material_issue_voucher": {
     "en_US": "Premium Material Voucher",
     "ja_JP": "T4素材交換券",
+    "zh_CN": "特级材料提货券"
+  },
+  "premium_material_voucher_perm": {
     "zh_CN": "特级材料提货券"
   },
   "randomDiamondShd_1": {
@@ -4587,6 +4638,7 @@
     "zh_CN": "散佚迷思"
   },
   "sandbox_1_tokencoin": {
+    "en_US": "Prosperity Point",
     "ja_JP": "繁栄ポイント",
     "zh_CN": "繁荣点数"
   },
@@ -4856,10 +4908,12 @@
     "zh_CN": "黑曜石节手环"
   },
   "uni_set_NHL": {
+    "en_US": "Guide Ahead Furniture Collection Set",
     "ja_JP": "吾れ先導者たらん家具パック",
     "zh_CN": "吾导先路家具收藏包"
   },
   "uni_set_SargonFair_1": {
+    "en_US": "Arsalan Furniture Collection I",
     "ja_JP": "アルサラン家具パックvol.1",
     "zh_CN": "阿尔萨兰家具收藏包一"
   },
@@ -5059,6 +5113,7 @@
     "zh_CN": "亚叶的私人信件"
   },
   "voucher_full_forcer": {
+    "en_US": "Enforcer's Personal Letter",
     "ja_JP": "エンフォーサーの手紙",
     "zh_CN": "见行者的私人信件"
   },
@@ -5150,6 +5205,9 @@
     "en_US": "Operator Voucher",
     "ja_JP": "オペレーター指名券",
     "zh_CN": "干员兑换券"
+  },
+  "voucher_item_4pick1_5301": {
+    "zh_CN": "资深干员调用凭证-新人"
   },
   "voucher_item_pick1401": {
     "en_US": "Thank-You Celebration Operator Permit",
@@ -5244,6 +5302,12 @@
   },
   "voucher_recruitR5_pick5001": {
     "zh_CN": "资深干员调用凭证"
+  },
+  "voucher_recruitR6_pick5301": {
+    "zh_CN": "高级干员调用凭证-新人"
+  },
+  "voucher_skill_specialLevelMax_4": {
+    "zh_CN": "专业干员技巧集"
   },
   "voucher_skill_specialLevelMax_5": {
     "zh_CN": "资深干员技巧集"

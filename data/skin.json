@@ -60,6 +60,9 @@
     "ja_JP": "栄光の再臨",
     "zh_CN": "复现荣光"
   },
+  "char_1016_agoat2@epoque#34": {
+    "zh_CN": "远行前的野餐"
+  },
   "char_101_sora@epoque#17": {
     "en_US": "Melodiosa",
     "ja_JP": "メロディオーソ",
@@ -416,6 +419,9 @@
     "ja_JP": "カスターの霜",
     "zh_CN": "开斯特之霜"
   },
+  "char_179_cgbird@sightseer#1": {
+    "zh_CN": "流辉"
+  },
   "char_179_cgbird@witch#1": {
     "en_US": "an elegy",
     "ja_JP": "挽歌",
@@ -543,6 +549,7 @@
     "zh_CN": "濯缨"
   },
   "char_2024_chyue@nian#10": {
+    "en_US": "Alighting",
     "ja_JP": "何処棲",
     "zh_CN": "何处栖"
   },
@@ -783,6 +790,7 @@
     "zh_CN": "荣耀之紫"
   },
   "char_271_spikes@unveiling#1": {
+    "en_US": "Dangerous Invitation",
     "ja_JP": "危険な誘い",
     "zh_CN": "危险邀约"
   },
@@ -888,6 +896,7 @@
     "zh_CN": "邀约"
   },
   "char_297_hamoni@unveiling#1": {
+    "en_US": "Decoration",
     "ja_JP": "おめかし",
     "zh_CN": "装点"
   },
@@ -985,6 +994,7 @@
     "zh_CN": "天际线"
   },
   "char_341_sntlla@summer#15": {
+    "en_US": "Holiday HD71",
     "ja_JP": "ホリデーHD71",
     "zh_CN": "悠然假日 HD71"
   },
@@ -1120,6 +1130,7 @@
     "zh_CN": "天命勇者"
   },
   "char_385_finlpp@nian#11": {
+    "en_US": "Yearly Present",
     "ja_JP": "祝福至",
     "zh_CN": "贺新禧"
   },
@@ -1156,6 +1167,9 @@
     "ja_JP": "飛び立つ羽",
     "zh_CN": "飞羽"
   },
+  "char_400_weedy@sightseer#1": {
+    "zh_CN": "倾听"
+  },
   "char_400_weedy@snow#2": {
     "en_US": "Candy Cape",
     "ja_JP": "キャンディフェアリー",
@@ -1177,6 +1191,7 @@
     "zh_CN": "幻影轻悄"
   },
   "char_4017_puzzle@epoque#29": {
+    "en_US": "Amidst the Pieces",
     "ja_JP": "ピースの間",
     "zh_CN": "碎片之间"
   },
@@ -1298,6 +1313,7 @@
     "zh_CN": "偶尔醉陶"
   },
   "char_4066_highmo@nian#10": {
+    "en_US": "The Land With Me",
     "ja_JP": "隣山海",
     "zh_CN": "及山海"
   },
@@ -1322,6 +1338,7 @@
     "zh_CN": "伴青莲"
   },
   "char_4080_lin@nian#10": {
+    "en_US": "Heavenly Mirage",
     "ja_JP": "列瑶台",
     "zh_CN": "列瑶台"
   },
@@ -1335,6 +1352,9 @@
   },
   "char_4087_ines@boc#8": {
     "zh_CN": "燃烧天穹下"
+  },
+  "char_4088_hodrer@sightseer#1": {
+    "zh_CN": "沉思之庭"
   },
   "char_4091_ulika@sanrio#1": {
     "zh_CN": "云上直播间"
@@ -1440,6 +1460,7 @@
     "zh_CN": "荒野之后"
   },
   "char_449_glider@nian#10": {
+    "en_US": "Saturated Within Rain",
     "ja_JP": "霊雨朦朧",
     "zh_CN": "洇灵雨"
   },
@@ -1558,6 +1579,9 @@
     "en_US": "Cardwinner",
     "ja_JP": "ショーダウン",
     "zh_CN": "开牌制胜"
+  },
+  "char_488_buildr@epoque#34": {
+    "zh_CN": "晚风休憩"
   },
   "char_489_serum@epoque#31": {
     "zh_CN": "逸趣"

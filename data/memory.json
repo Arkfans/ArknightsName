@@ -19,6 +19,9 @@
     "ja_JP": "受取人のない荷物",
     "zh_CN": "没写收件人的包裹"
   },
+  "story_agoat2_set_1_story_1": {
+    "zh_CN": "夜色中的第一步"
+  },
   "story_akafyu_set_1_story_1": {
     "en_US": "Swordswoman from a Distant Land",
     "ja_JP": "異郷の剣士",
@@ -249,6 +252,9 @@
     "ja_JP": "空と雲",
     "zh_CN": "天空与流云"
   },
+  "story_cement_set_1_story_1": {
+    "zh_CN": "矿井里的太阳"
+  },
   "story_cerber_set_1_story_1": {
     "en_US": "XXL Honey Biscuit",
     "ja_JP": "特大クッキー",
@@ -285,6 +291,7 @@
     "zh_CN": "代表作"
   },
   "story_chimes_set_1_story_1": {
+    "en_US": "Once a Leaf Has Fallen...",
     "ja_JP": "枯れ葉は何処に",
     "zh_CN": "落叶何归"
   },
@@ -715,6 +722,9 @@
     "ja_JP": "林檎",
     "zh_CN": "苹果"
   },
+  "story_lasher_set_1_story_1": {
+    "zh_CN": "遗失之物"
+  },
   "story_lava_set_1_story_1": {
     "en_US": "'Sisters'",
     "ja_JP": "姉妹",
@@ -861,6 +871,9 @@
     "ja_JP": "高層ビルの上で",
     "zh_CN": "高楼之上"
   },
+  "story_mudrok_set_1_story_1": {
+    "zh_CN": "在卡兹戴尔"
+  },
   "story_myrrh_set_1_story_1": {
     "en_US": "Lucky Charm",
     "ja_JP": "御守り",
@@ -946,6 +959,9 @@
     "ja_JP": "夕日と朝日",
     "zh_CN": "夕阳与朝日"
   },
+  "story_pianst_set_2_story_1": {
+    "zh_CN": "阳光洒落之前"
+  },
   "story_pinecn_set_1_story_1": {
     "en_US": "Yours Sincerely",
     "ja_JP": "拝啓",
@@ -996,12 +1012,16 @@
     "ja_JP": "彼方の雪",
     "zh_CN": "远方的雪"
   },
+  "story_puzzle_set_1_story_1": {
+    "zh_CN": "旧日歌谣"
+  },
   "story_qanik_set_1_story_1": {
     "en_US": "Blizzards Be Your Voice",
     "ja_JP": "雪風が届ける声",
     "zh_CN": "风雪代为传达"
   },
   "story_qiubai_set_1_story_1": {
+    "en_US": "Thawing as the Winter",
     "ja_JP": "雪解けの如く",
     "zh_CN": "如冰碎雪融"
   },
@@ -1095,6 +1115,7 @@
     "zh_CN": "两难"
   },
   "story_shu_set_1_story_1": {
+    "en_US": "...Ask What I Seek",
     "ja_JP": "何が為に",
     "zh_CN": "谓我何求"
   },
@@ -1147,6 +1168,7 @@
     "zh_CN": "崖上之心"
   },
   "story_slchan_set_2_story_1": {
+    "en_US": "New Peaks",
     "ja_JP": "次なる頂へ",
     "zh_CN": "新的高峰"
   },

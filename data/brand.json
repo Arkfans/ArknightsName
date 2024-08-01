@@ -64,6 +64,9 @@
     "ja_JP": "ShiningSteps",
     "zh_CN": "闪耀阶梯"
   },
+  "sightseer": {
+    "zh_CN": "错位巡礼"
+  },
   "striker": {
     "en_US": "Raythean Striker",
     "ja_JP": "Striker",
@@ -80,6 +83,7 @@
     "zh_CN": "雷神开拓者"
   },
   "unveiling": {
+    "en_US": "Unveiling of Devotion",
     "ja_JP": "U.o.D",
     "zh_CN": "待予花冠"
   },

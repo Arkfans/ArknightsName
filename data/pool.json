@@ -61,6 +61,9 @@
   "LIMITED_50_0_1": {
     "zh_CN": "何以为我"
   },
+  "LIMITED_53_0_1": {
+    "zh_CN": "在流沙上刻印"
+  },
   "LIMITED_9_0_3": {
     "zh_CN": "遗愿焰火"
   },
@@ -295,7 +298,7 @@
     "ja_JP": "ロドスの道のり・邂逅"
   },
   "_ATTAIN_28_0_2": {
-    "en_US": "Celebration & Prospective",
+    "en_US": "Celebration & Vista",
     "ja_JP": "ロドスの道のり・展望"
   },
   "_CLASSIC_28_0_1": {
@@ -350,6 +353,7 @@
     "ja_JP": "宿願"
   },
   "_LIMITED_29_0_1": {
+    "en_US": "Reap of Millenia",
     "ja_JP": "千秋一粟"
   },
   "_LIMITED_4_3_1": {
@@ -524,6 +528,7 @@
     "ja_JP": "連合作戦"
   },
   "_NORM_29_0_3": {
+    "en_US": "Joint Operation",
     "ja_JP": "連合作戦"
   },
   "_NORM_2_0_1": {
@@ -679,6 +684,7 @@
     "ja_JP": "一筋の曙光"
   },
   "_SINGLE_29_0_5": {
+    "en_US": "To Bloom From a Dim Flame",
     "ja_JP": "枯火に咲く花"
   }
 }

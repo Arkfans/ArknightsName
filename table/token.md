@@ -47,6 +47,7 @@ tip: 请善用浏览器的搜索功能
 | token_10033_ela_grzmot | 雷鸣地雷 | - | - |
 | token_10034_ray_sndbst | 沙地兽 | Sandbeast | サンドビースト |
 | token_10035_wisdel_wward | 魂灵之影 | - | - |
+| token_10036_lasher_mcbird | 发条羽兽 | - | - |
 | token_10037_mitm_trshrb | 樱桃三号 | - | - |
 | token_10039_ulpia_block | 从不混淆的方向 | - | - |
 | trap_079_allydonq | 猎潮的骑士 | Tide-Hunt Knight | 猟潮の騎士 |

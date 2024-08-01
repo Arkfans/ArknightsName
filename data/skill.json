@@ -1156,10 +1156,12 @@
     "zh_CN": "失温症"
   },
   "skchr_grabds_1": {
+    "en_US": "Flute Flutter",
     "ja_JP": "吹笛遠鳴",
     "zh_CN": "竹笛飞声"
   },
   "skchr_grabds_2": {
+    "en_US": "Hometown Lullaby",
     "ja_JP": "郷愁を誘う子守歌",
     "zh_CN": "乡音沉沉"
   },
@@ -1625,6 +1627,12 @@
     "ja_JP": "2点・バースト",
     "zh_CN": "二连射·自动"
   },
+  "skchr_lasher_1": {
+    "zh_CN": "上紧发条"
+  },
+  "skchr_lasher_2": {
+    "zh_CN": "权知轻重"
+  },
   "skchr_lava2_1": {
     "en_US": "Flame Quenched Dagger",
     "ja_JP": "フレイムエンチャント",
@@ -1986,6 +1994,15 @@
     "ja_JP": "治癒の翅",
     "zh_CN": "治愈之翼"
   },
+  "skchr_narant_1": {
+    "zh_CN": "旋刃"
+  },
+  "skchr_narant_2": {
+    "zh_CN": "恶魇"
+  },
+  "skchr_narant_3": {
+    "zh_CN": "吞日"
+  },
   "skchr_ncdeer_1": {
     "en_US": "Fortune Bringer of the Mortal Realm",
     "ja_JP": "人間降吉",
@@ -2121,6 +2138,12 @@
     "ja_JP": "崩拳",
     "zh_CN": "崩拳式"
   },
+  "skchr_papyrs_1": {
+    "zh_CN": "巧思乍现"
+  },
+  "skchr_papyrs_2": {
+    "zh_CN": "临考发挥"
+  },
   "skchr_pasngr_1": {
     "en_US": "Touch of Static",
     "ja_JP": "エレキチェーン",
@@ -2145,6 +2168,15 @@
     "en_US": "Genesis",
     "ja_JP": "創世記",
     "zh_CN": "创世纪"
+  },
+  "skchr_pepe_1": {
+    "zh_CN": "盖戳！"
+  },
+  "skchr_pepe_2": {
+    "zh_CN": "阻遏混乱锤"
+  },
+  "skchr_pepe_3": {
+    "zh_CN": "时光震荡"
   },
   "skchr_peper_2": {
     "en_US": "Camaraderie",
@@ -2348,6 +2380,7 @@
     "zh_CN": "生命火种"
   },
   "skchr_rfalcn_2": {
+    "en_US": "Drunken Bladedance",
     "ja_JP": "醉刃乱舞",
     "zh_CN": "醉刃乱舞"
   },
@@ -2482,14 +2515,17 @@
     "zh_CN": "碎甲击·扩散"
   },
   "skchr_shu_1": {
+    "en_US": "Verdant Wisdom",
     "ja_JP": "化被草木",
     "zh_CN": "化被草木"
   },
   "skchr_shu_2": {
+    "en_US": "Bountiful Harvest",
     "ja_JP": "嘉禾満作",
     "zh_CN": "嘉禾盈仓"
   },
   "skchr_shu_3": {
+    "en_US": "Samsara",
     "ja_JP": "離離枯栄",
     "zh_CN": "离离枯荣"
   },
@@ -3015,6 +3051,7 @@
     "zh_CN": "七武掠阵踢"
   },
   "skchr_wanqin_2": {
+    "en_US": "Along the Easterlies",
     "ja_JP": "応東風",
     "zh_CN": "应东风"
   },
@@ -3158,14 +3195,17 @@
     "zh_CN": "钢铁意志"
   },
   "skchr_zuole_1": {
+    "en_US": "Fiendslayer",
     "ja_JP": "破虜",
     "zh_CN": "破虏"
   },
   "skchr_zuole_2": {
+    "en_US": "Risktaker",
     "ja_JP": "行険",
     "zh_CN": "行险"
   },
   "skchr_zuole_3": {
+    "en_US": "Blessings Unto Yan",
     "ja_JP": "右序有炎",
     "zh_CN": "佑序有炎"
   },
@@ -3295,6 +3335,7 @@
     "zh_CN": "自我销毁"
   },
   "sktok_ads": {
+    "en_US": "Cover",
     "ja_JP": "援護",
     "zh_CN": "掩护"
   },
@@ -3693,18 +3734,22 @@
     "zh_CN": "剧目宣告"
   },
   "sktok_dhdcr": {
+    "en_US": "Generate",
     "ja_JP": "生成",
     "zh_CN": "生成"
   },
   "sktok_dhsb": {
+    "en_US": "Pump",
     "ja_JP": "汲み上げ",
     "zh_CN": "泵水"
   },
   "sktok_dhtl_1": {
+    "en_US": "Throttle",
     "ja_JP": "水流制御",
     "zh_CN": "阻流"
   },
   "sktok_dhtl_2": {
+    "en_US": "Throttle",
     "ja_JP": "水流制御",
     "zh_CN": "阻流"
   },
@@ -3786,6 +3831,7 @@
     "zh_CN": "闪回"
   },
   "sktok_edd": {
+    "en_US": "Lay Mines",
     "ja_JP": "トラップ設置",
     "zh_CN": "布雷"
   },
@@ -3957,6 +4003,12 @@
     "en_US": "Twigs That Crave",
     "ja_JP": "渇欲の枯枝",
     "zh_CN": "汲营枯枝"
+  },
+  "sktok_lasher_mcbird_1": {
+    "zh_CN": "上紧发条"
+  },
+  "sktok_lasher_mcbird_2": {
+    "zh_CN": "权知轻重"
   },
   "sktok_ling_soul1": {
     "en_US": "Sips of Wine",
@@ -4146,6 +4198,7 @@
     "zh_CN": "诱人珍宝"
   },
   "sktok_npccom": {
+    "en_US": "Trigger Dialogue",
     "ja_JP": "会話発生",
     "zh_CN": "触发对话"
   },
@@ -4310,6 +4363,7 @@
     "zh_CN": "研究成功"
   },
   "sktok_rnfcar": {
+    "en_US": "Reinforce",
     "ja_JP": "補強",
     "zh_CN": "加固"
   },
@@ -4367,6 +4421,12 @@
     "en_US": "Detection",
     "ja_JP": "アンチステルス",
     "zh_CN": "反隐"
+  },
+  "sktok_sglink": {
+    "zh_CN": "纯净结晶"
+  },
+  "sktok_sgray": {
+    "zh_CN": "结晶消除桩"
   },
   "sktok_shielder": {
     "en_US": "Provide Shield",
@@ -4529,6 +4589,7 @@
     "zh_CN": "芳香精油"
   },
   "sktok_tfalco": {
+    "en_US": "Trigger Dialogue",
     "ja_JP": "会話発生",
     "zh_CN": "触发对话"
   },
@@ -4593,6 +4654,7 @@
     "zh_CN": "触发对话"
   },
   "sktok_trademan_summon": {
+    "en_US": "Trigger Dialogue",
     "ja_JP": "会話発生",
     "zh_CN": "触发对话"
   },
@@ -4602,6 +4664,7 @@
     "zh_CN": "天然隐蔽"
   },
   "sktok_trsrhuntr": {
+    "en_US": "Trigger Dialogue",
     "ja_JP": "会話発生",
     "zh_CN": "触发对话"
   },
@@ -4714,10 +4777,12 @@
     "zh_CN": "拉特兰式冰淇淋"
   },
   "sktok_xbalis": {
+    "en_US": "Fire",
     "ja_JP": "発射",
     "zh_CN": "发射"
   },
   "sktok_xbbarir": {
+    "en_US": "Block",
     "ja_JP": "障害物",
     "zh_CN": "阻挡"
   },
@@ -4727,6 +4792,7 @@
     "zh_CN": "能源设备"
   },
   "sktok_xbbee": {
+    "en_US": "Scan",
     "ja_JP": "スキャン",
     "zh_CN": "扫描"
   },
@@ -4740,14 +4806,17 @@
     "zh_CN": "引诱"
   },
   "sktok_xbcage": {
+    "en_US": "Capture",
     "ja_JP": "捕獲",
     "zh_CN": "捕获"
   },
   "sktok_xbcanoe": {
+    "en_US": "Deployment Platform",
     "ja_JP": "ボード設置",
     "zh_CN": "放置平台"
   },
   "sktok_xbcbag": {
+    "en_US": "Release the Prey",
     "ja_JP": "獲物解放",
     "zh_CN": "释放猎获"
   },
@@ -4755,14 +4824,17 @@
     "zh_CN": "检查点"
   },
   "sktok_xbdiam": {
+    "en_US": "Gatherable",
     "ja_JP": "採取可能",
     "zh_CN": "可采集"
   },
   "sktok_xbdrill": {
+    "en_US": "Gather",
     "ja_JP": "採取",
     "zh_CN": "采集"
   },
   "sktok_xbember": {
+    "en_US": "Impel",
     "ja_JP": "激励",
     "zh_CN": "激励"
   },
@@ -4772,6 +4844,7 @@
     "zh_CN": "建立通讯"
   },
   "sktok_xbexbi": {
+    "en_US": "Recollect",
     "ja_JP": "記念",
     "zh_CN": "纪念"
   },
@@ -4781,6 +4854,7 @@
     "zh_CN": "稻谷种植"
   },
   "sktok_xbfarmm": {
+    "en_US": "Plant",
     "ja_JP": "栽培",
     "zh_CN": "种植"
   },
@@ -4800,18 +4874,22 @@
     "zh_CN": "采集"
   },
   "sktok_xbfdtion": {
+    "en_US": "Central Core",
     "ja_JP": "中枢の核心",
     "zh_CN": "中枢核心"
   },
   "sktok_xbfence": {
+    "en_US": "Raise",
     "ja_JP": "畜養",
     "zh_CN": "畜养"
   },
   "sktok_xbflare": {
+    "en_US": "Temporary Illumination",
     "ja_JP": "臨時照明",
     "zh_CN": "临时照明"
   },
   "sktok_xbfort": {
+    "en_US": "Deploy",
     "ja_JP": "配置",
     "zh_CN": "部署"
   },
@@ -4826,6 +4904,7 @@
     "zh_CN": "冶铸"
   },
   "sktok_xbhydr": {
+    "en_US": "Key",
     "ja_JP": "閉鎖",
     "zh_CN": "锁钥"
   },
@@ -4835,10 +4914,12 @@
     "zh_CN": "可供开采"
   },
   "sktok_xbistorm": {
+    "en_US": "Ice Blast!",
     "ja_JP": "氷爆！",
     "zh_CN": "冰爆！"
   },
   "sktok_xblight": {
+    "en_US": "Scout",
     "ja_JP": "眺望",
     "zh_CN": "瞭望"
   },
@@ -4848,14 +4929,17 @@
     "zh_CN": "人员状态改善"
   },
   "sktok_xbmcv": {
+    "en_US": "Engine Core",
     "ja_JP": "エンジンの核心",
     "zh_CN": "引擎核心"
   },
   "sktok_xbmgbird": {
+    "en_US": "'Gift'",
     "ja_JP": "「贈り物」",
     "zh_CN": "“赠礼”"
   },
   "sktok_xbmire": {
+    "en_US": "Corrosion",
     "ja_JP": "侵蝕",
     "zh_CN": "侵蚀"
   },
@@ -4886,26 +4970,32 @@
     "zh_CN": "阻断道路"
   },
   "sktok_xbsighta": {
+    "en_US": "Gush",
     "ja_JP": "湧出",
     "zh_CN": "喷涌"
   },
   "sktok_xbsightb": {
+    "en_US": "Sway",
     "ja_JP": "ゆらゆら",
     "zh_CN": "摇摆"
   },
   "sktok_xbsightc": {
+    "en_US": "Stand",
     "ja_JP": "人気施設",
     "zh_CN": "矗立"
   },
   "sktok_xbspgun": {
+    "en_US": "Burst!",
     "ja_JP": "噴射！",
     "zh_CN": "喷射！"
   },
   "sktok_xbspps": {
+    "en_US": "Ignition",
     "ja_JP": "イグニッション",
     "zh_CN": "点燃"
   },
   "sktok_xbstation": {
+    "en_US": "Command",
     "ja_JP": "号令",
     "zh_CN": "号令"
   },
@@ -4915,10 +5005,12 @@
     "zh_CN": "可供开采"
   },
   "sktok_xbtent": {
+    "en_US": "Aid",
     "ja_JP": "援護",
     "zh_CN": "援护"
   },
   "sktok_xbtrap": {
+    "en_US": "Trap",
     "ja_JP": "トラップ",
     "zh_CN": "陷阱"
   },

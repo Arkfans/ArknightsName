@@ -491,6 +491,7 @@
     "zh_CN": "重岳"
   },
   "char_2025_shu": {
+    "en_US": "Shu",
     "ja_JP": "シュウ",
     "zh_CN": "黍"
   },
@@ -1075,6 +1076,7 @@
     "zh_CN": "极境"
   },
   "char_4023_rfalcn": {
+    "en_US": "Kestrel",
     "ja_JP": "ケストレル",
     "zh_CN": "红隼"
   },
@@ -1157,6 +1159,9 @@
     "en_US": "Pozëmka",
     "ja_JP": "パゼオンカ",
     "zh_CN": "鸿雪"
+  },
+  "char_4058_pepe": {
+    "zh_CN": "佩佩"
   },
   "char_405_absin": {
     "en_US": "Absinthe",
@@ -1317,6 +1322,7 @@
     "zh_CN": "莱伊"
   },
   "char_4119_wanqin": {
+    "en_US": "Wanqing",
     "ja_JP": "ワンチィン",
     "zh_CN": "万顷"
   },
@@ -1326,10 +1332,12 @@
     "zh_CN": "特米米"
   },
   "char_4121_zuole": {
+    "en_US": "Zuo Le",
     "ja_JP": "ズオ・ラウ",
     "zh_CN": "左乐"
   },
   "char_4122_grabds": {
+    "en_US": "Grain Buds",
     "ja_JP": "グレインバッズ",
     "zh_CN": "小满"
   },
@@ -1365,6 +1373,15 @@
   },
   "char_4137_udflow": {
     "zh_CN": "深巡"
+  },
+  "char_4138_narant": {
+    "zh_CN": "娜仁图亚"
+  },
+  "char_4139_papyrs": {
+    "zh_CN": "莎草"
+  },
+  "char_4140_lasher": {
+    "zh_CN": "衡沙"
   },
   "char_4145_ulpia": {
     "zh_CN": "乌尔比安"

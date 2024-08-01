@@ -14,6 +14,66 @@
     "ja_JP": "凶暴猟犬",
     "zh_CN": "狂暴的猎狗pro"
   },
+  "enemy_10010_sgnja": {
+    "zh_CN": "市井盗贼"
+  },
+  "enemy_10010_sgnja_2": {
+    "zh_CN": "市井流窜盗贼"
+  },
+  "enemy_10011_sgshot": {
+    "zh_CN": "市井猎手"
+  },
+  "enemy_10011_sgshot_2": {
+    "zh_CN": "市井流窜猎手"
+  },
+  "enemy_10012_sgbtle": {
+    "zh_CN": "237-1号展柜文物"
+  },
+  "enemy_10012_sgbtle_2": {
+    "zh_CN": "237-2号展柜文物"
+  },
+  "enemy_10013_sgrob": {
+    "zh_CN": "风情区小型车辇"
+  },
+  "enemy_10013_sgrob_2": {
+    "zh_CN": "风情区大型车辇"
+  },
+  "enemy_10014_sgrich": {
+    "zh_CN": "小型破损器皿"
+  },
+  "enemy_10014_sgrich_2": {
+    "zh_CN": "大型破碎器皿"
+  },
+  "enemy_10015_sgbird": {
+    "zh_CN": "“滑翔的玩具”"
+  },
+  "enemy_10015_sgbird_2": {
+    "zh_CN": "“喷射式冠冕”"
+  },
+  "enemy_10016_sggint": {
+    "zh_CN": "“愤怒蹬踏”"
+  },
+  "enemy_10016_sggint_2": {
+    "zh_CN": "“连续地愤怒蹬踏”"
+  },
+  "enemy_10017_sgass": {
+    "zh_CN": "殿堂左侧雕像"
+  },
+  "enemy_10017_sgass_2": {
+    "zh_CN": "殿堂右侧雕像"
+  },
+  "enemy_10018_sgrobh": {
+    "zh_CN": "“独轮车玩具”"
+  },
+  "enemy_10018_sgrobh_2": {
+    "zh_CN": "“弹跳独轮车”"
+  },
+  "enemy_10019_sgmum": {
+    "zh_CN": "“以板之名”"
+  },
+  "enemy_10019_sgmum_2": {
+    "zh_CN": "“愿板与你同在”"
+  },
   "enemy_1001_bigbo": {
     "en_US": "Big Bob",
     "ja_JP": "Big Bob",
@@ -23,6 +83,9 @@
     "en_US": "Big Adam",
     "ja_JP": "Big Adam",
     "zh_CN": "大亚当"
+  },
+  "enemy_10020_sgcat": {
+    "zh_CN": "米奥，热烈的考验者"
   },
   "enemy_1002_nsabr": {
     "en_US": "Soldier",
@@ -3705,82 +3768,102 @@
     "zh_CN": "访问团强攻冠军"
   },
   "enemy_1390_dhsbr": {
+    "en_US": "Filth",
     "ja_JP": "穢",
     "zh_CN": "秽"
   },
   "enemy_1390_dhsbr_2": {
+    "en_US": "Expelled Filth",
     "ja_JP": "除穢",
     "zh_CN": "除秽"
   },
   "enemy_1391_dhbow": {
+    "en_US": "Consumption",
     "ja_JP": "蝕",
     "zh_CN": "蚀"
   },
   "enemy_1391_dhbow_2": {
+    "en_US": "Banished Consumption",
     "ja_JP": "去蝕",
     "zh_CN": "去蚀"
   },
   "enemy_1392_dhshld": {
+    "en_US": "Scum",
     "ja_JP": "骯",
     "zh_CN": "肮"
   },
   "enemy_1392_dhshld_2": {
+    "en_US": "Accursed Scum",
     "ja_JP": "厭骯",
     "zh_CN": "厌肮"
   },
   "enemy_1393_dhele": {
+    "en_US": "Blemish",
     "ja_JP": "玷",
     "zh_CN": "玷"
   },
   "enemy_1393_dhele_2": {
+    "en_US": "Renounced Blemish",
     "ja_JP": "勿玷",
     "zh_CN": "勿玷"
   },
   "enemy_1394_dhzts": {
+    "en_US": "Miasma",
     "ja_JP": "瘴",
     "zh_CN": "瘴"
   },
   "enemy_1394_dhzts_2": {
+    "en_US": "Basal Miasma",
     "ja_JP": "鄙瘴",
     "zh_CN": "鄙瘴"
   },
   "enemy_1395_dhxts": {
+    "en_US": "Fieldmus",
     "ja_JP": "田鼷",
     "zh_CN": "田鼷"
   },
   "enemy_1395_dhxts_2": {
+    "en_US": "Hard-Snouted Fieldmus",
     "ja_JP": "狂暴田鼷",
     "zh_CN": "硬毫田鼷"
   },
   "enemy_1396_dhdts": {
+    "en_US": "Fieldmus Bruiser",
     "ja_JP": "剛力田鼷",
     "zh_CN": "田鼷力士"
   },
   "enemy_1396_dhdts_2": {
+    "en_US": "Fieldmus Ravager",
     "ja_JP": "猛士田鼷",
     "zh_CN": "田鼷猛士"
   },
   "enemy_1397_dhtsxt": {
+    "en_US": "Fieldmus Flying Thief",
     "ja_JP": "軽業田鼷",
     "zh_CN": "田鼷飞贼"
   },
   "enemy_1397_dhtsxt_2": {
+    "en_US": "Fieldmus Heistmaster",
     "ja_JP": "盗賊田鼷",
     "zh_CN": "田鼷大盗"
   },
   "enemy_1398_dhdcr": {
+    "en_US": "Sky Pole - Jia",
     "ja_JP": "天杭-甲",
     "zh_CN": "天桩-甲"
   },
   "enemy_1398_dhdcr_2": {
+    "en_US": "Out of Control Sky Pole - Jia",
     "ja_JP": "暴走する天杭-甲",
     "zh_CN": "失控天桩-甲"
   },
   "enemy_1399_dhtb": {
+    "en_US": "Sky Pole - Yi",
     "ja_JP": "天杭-乙",
     "zh_CN": "天桩-乙"
   },
   "enemy_1399_dhtb_2": {
+    "en_US": "Out of Control Sky Pole - Yi",
     "ja_JP": "暴走する天杭-乙",
     "zh_CN": "失控天桩-乙"
   },
@@ -4256,6 +4339,7 @@
     "zh_CN": "哈洛德·克雷加文"
   },
   "enemy_1550_dhnzzh": {
+    "en_US": "'Slumbering of Sui'",
     "ja_JP": "「祟」",
     "zh_CN": "“祟”"
   },
@@ -4273,6 +4357,9 @@
   },
   "enemy_1556_dsbish": {
     "zh_CN": "玛利图斯，“海嗣”"
+  },
+  "enemy_1558_sgactr": {
+    "zh_CN": "祖巴伊达姆，从往昔来"
   },
   "enemy_2001_duckmi": {
     "en_US": "Duck Lord",
@@ -4555,10 +4642,12 @@
     "zh_CN": "无垠回荡克雷松"
   },
   "enemy_2057_smkght": {
+    "en_US": "Kharanduu Khagan, the Scourge of the Land",
     "ja_JP": "「大地の鞭」ハランドゥハン",
     "zh_CN": "哈兰杜汗，大地之鞭"
   },
   "enemy_2058_smlion": {
+    "en_US": "Lugalszargus, the Overlord of Ages",
     "ja_JP": "「暦法の王」ルガサルグス",
     "zh_CN": "路加萨尔古斯，历法之王"
   },
@@ -4568,10 +4657,12 @@
     "zh_CN": "巨壳藤蔓"
   },
   "enemy_2060_smshdw": {
+    "en_US": "Khaganshadow",
     "ja_JP": "ハガンの影",
     "zh_CN": "可汗片影"
   },
   "enemy_2061_smhond": {
+    "en_US": "Royal Companion",
     "ja_JP": "王の友",
     "zh_CN": "王者友伴"
   },
@@ -5014,70 +5105,87 @@
     "zh_CN": "“钳钳生风”"
   },
   "enemy_7016_shushu": {
+    "en_US": "Barrenlands Musbeast",
     "ja_JP": "荒野鼷獣",
     "zh_CN": "荒地鼷兽"
   },
   "enemy_7017_miner": {
+    "en_US": "Mine Drudge",
     "ja_JP": "採掘作業員",
     "zh_CN": "采掘苦工"
   },
   "enemy_7018_scarab": {
+    "en_US": "Volatile Originium Slug",
     "ja_JP": "爆裂オリジムシ",
     "zh_CN": "爆裂源石虫"
   },
   "enemy_7019_thief": {
+    "en_US": "Wilderness Rogue",
     "ja_JP": "荒野のスリ師",
     "zh_CN": "旷野流贼"
   },
   "enemy_7020_xbtor": {
+    "en_US": "Spined Shellbeast",
     "ja_JP": "角棘甲獣",
     "zh_CN": "刺棱壳兽"
   },
   "enemy_7021_xbmoth": {
+    "en_US": "Luminous Fowlbeast",
     "ja_JP": "眩羽獣",
     "zh_CN": "荧羽兽"
   },
   "enemy_7022_gatgod": {
+    "en_US": "Zümrütrüyası Priestess",
     "ja_JP": "翠夢の祭司",
     "zh_CN": "翠梦祭司"
   },
   "enemy_7023_gatbb": {
+    "en_US": "Zümrütrüyası Acolyte",
     "ja_JP": "翠夢の使者",
     "zh_CN": "翠梦使者"
   },
   "enemy_7024_clking": {
+    "en_US": "Wandering Troubadour",
     "ja_JP": "旅芸人",
     "zh_CN": "行脚艺人"
   },
   "enemy_7025_clbb": {
+    "en_US": "Wandering Apprentice",
     "ja_JP": "旅芸人見習い",
     "zh_CN": "行脚艺徒"
   },
   "enemy_7026_xbele": {
+    "en_US": "Timestream Guardian",
     "ja_JP": "時の守護者",
     "zh_CN": "时光守卫"
   },
   "enemy_7027_xbbtl": {
+    "en_US": "Crystalline Titanibeast",
     "ja_JP": "晶玲獣",
     "zh_CN": "晶玲兽"
   },
   "enemy_7028_xbscp": {
+    "en_US": "Crystalline Oberobeast",
     "ja_JP": "晶瓏獣",
     "zh_CN": "晶珑兽"
   },
   "enemy_7029_pilot": {
+    "en_US": "Sailraider",
     "ja_JP": "セイルレイダー",
     "zh_CN": "浮袭者"
   },
   "enemy_7030_skodo": {
+    "en_US": "Dustweaver",
     "ja_JP": "ダストウィーバー",
     "zh_CN": "纵尘者"
   },
   "enemy_7031_ghking": {
+    "en_US": "Annihilator",
     "ja_JP": "アナイアレイター",
     "zh_CN": "湮灭者"
   },
   "enemy_7034_xbmsn": {
+    "en_US": "Diligent Laborer",
     "ja_JP": "勤勉な労働者",
     "zh_CN": "勤奋劳工"
   },

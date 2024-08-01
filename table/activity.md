@@ -73,12 +73,12 @@ tip: 请善用浏览器的搜索功能
 | act18side | 尘影余音 | Lingering Echoes | 塵影に交わる残響 |
 | act18sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act18sre | 尘影余音·复刻 | Lingering Echoes - Rerun | 塵影に交わる残響・復刻 |
-| act19login | 登录领取奖励 | - | ログイン報酬 |
+| act19login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
 | act19side | 绿野幻梦 | Dorothy's Vision | 翠玉の夢 |
 | act19sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act19sre | 绿野幻梦·复刻 | Dorothy's Vision - Retrospection | 翠玉の夢・復刻 |
 | act1access | 五周年专享活动 | - | - |
-| act1blessing | 2024罗德岛新春签到 | - | 4.5周年スタンプラリー |
+| act1blessing | 2024罗德岛新春签到 | 2024 Festival Sign-In | 4.5周年スタンプラリー |
 | act1bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act1checkin | 未来序曲签到活动 | Preludes to the Future Sign-in Event | 大感謝祭スタンプ |
 | act1d5 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -97,12 +97,13 @@ tip: 请善用浏览器的搜索功能
 | act20side | 理想城：长夏狂欢季 | Ideal City: Endless Carnival | 理想都市-エンドレスカーニバル- |
 | act20sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act20sre | 理想城：长夏狂欢季·复刻 | Ideal City: Endless Carnival - Rerun | 理想都市-エンドレスカーニバル-・復刻 |
+| act21login | 限定池送10连 | - | - |
 | act21side | 叙拉古人 | IL Siracusano | シラクザーノ |
 | act21sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act21sre | 叙拉古人·复刻 | Il Siracusano - Retrospection | シラクザーノ・復刻 |
 | act22side | 照我以火 | What the Firelight Casts | この炎が照らす先 |
 | act22sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
-| act22sre | 照我以火·复刻 | - | この炎が照らす先・復刻 |
+| act22sre | 照我以火·复刻 | What the Firelight Casts - Retrospection | この炎が照らす先・復刻 |
 | act23side | 登临意 | Where Vernal Winds Will Never Blow | 登臨意 |
 | act23sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act23sre | 登临意·复刻 | Where Vernal Winds Will Never Blow - Rerun | 登臨意・復刻 |
@@ -131,7 +132,7 @@ tip: 请善用浏览器的搜索功能
 | act2vmulti | 罗德岛促融共竞 | - | - |
 | act30side | 银心湖列车 | The Rides to Lake Silberneherze | 銀心湖鉄道 |
 | act30sign | 秋风送爽限时登录活动 | Snow Upon Autumnal Winds Limited Login Event | 早春の風スタンプラリー |
-| act31side | 怀黍离 | - | 懐黍離 |
+| act31side | 怀黍离 | Here A People Sows | 懐黍離 |
 | act31sign | 正逢雨季限时登录活动 | Rain Season Limited Login Event | 長雨の候スタンプラリー |
 | act32side | 水晶箭行动 | - | - |
 | act32sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -139,6 +140,7 @@ tip: 请善用浏览器的搜索功能
 | act33sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act34side | 生路 | - | - |
 | act34sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
+| act35side | 太阳甩在身后 | - | - |
 | act35sign | 清光邀月——月饼烘焙小教程 | Moonlight Invite - Mooncake-Making Tutorial | 清風明月-ロドス点心教室 |
 | act36sign | 步上双塔之时签到活动 | Climbing the Twin Spires Sign-In Event | 双塔の高みを目指してスタンプラリー |
 | act37sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -154,8 +156,9 @@ tip: 请善用浏览器的搜索功能
 | act3pray | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |
 | act3switch | 虹彩茶会合作活动 | - | - |
 | act40sign | 无终奇语签到活动 | - | - |
+| act41sign | 沉沙赫日签到活动 | - | - |
 | act42d0 | 纷争演绎 | Design of Strife | 紛争演繹 |
-| act4bossrush | 引航者试炼 | - | 導灯の試練 |
+| act4bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act4d0 | 战地秘闻 | Operational Intelligence | 戦地の逸話 |
 | act4d2 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act4d5 | 限时积分任务 | - | 期間限定Pt任務 |
@@ -180,11 +183,12 @@ tip: 请善用浏览器的搜索功能
 | act7d5 | 午间逸话 | Stories of Afternoon | 午後の逸話 |
 | act7login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
 | act7mini | 灯火序曲 | Preluding Lights | 灯火序曲 |
-| act7pray | 龙门幸运墙登录活动 | - | 龍門おみくじ |
+| act7pray | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |
 | act7sre | 玛莉娅·临光·复刻 | Maria Nearl - Rerun | マリア·ニアール・復刻 |
 | act8d2 | 愚人节活动 | - | - |
 | act8login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
 | act8mini | 如我所见 | Vigilo | 我が眼に映るまま |
+| act8pray | 幸运墙登录活动 | - | - |
 | act8sre | 孤岛风云·复刻 | Mansfield Break - Rerun | 孤島激震·復刻 |
 | act9d0 | 生于黑夜 | Darknights Memoir | 闇夜に生きる |
 | act9d1d1 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |

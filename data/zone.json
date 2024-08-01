@@ -549,10 +549,12 @@
     "zh_CN": "记忆灰烬"
   },
   "act22sre_zone1": {
+    "en_US": "Swamp In The Mists",
     "ja_JP": "煙たなびく沼",
     "zh_CN": "荒烟林沼"
   },
   "act22sre_zone2": {
+    "en_US": "Ashes of Memories",
     "ja_JP": "記憶の燃え殻",
     "zh_CN": "记忆灰烬"
   },
@@ -682,14 +684,17 @@
     "zh_CN": "特快列车"
   },
   "act31side_zone1": {
+    "en_US": "Agricultural Plate",
     "ja_JP": "栽培区画",
     "zh_CN": "种植地块"
   },
   "act31side_zone2": {
+    "en_US": "City Core",
     "ja_JP": "荒城中枢",
     "zh_CN": "荒城核心"
   },
   "act31side_zone3": {
+    "en_US": "Far Side of the Great River",
     "ja_JP": "大江北岸",
     "zh_CN": "大江北岸"
   },
@@ -714,12 +719,22 @@
   "act34side_zone2": {
     "zh_CN": "防线巩固"
   },
+  "act35side_zone1": {
+    "zh_CN": "市民花园"
+  },
+  "act35side_zone2": {
+    "zh_CN": "丰获集会"
+  },
+  "act35side_zone3": {
+    "zh_CN": "藏珍宝库"
+  },
   "act3bossrush_zone1": {
     "en_US": "Threat Incoming",
     "ja_JP": "強敵襲来",
     "zh_CN": "强敌当前"
   },
   "act4bossrush_zone1": {
+    "en_US": "Threat Incoming",
     "ja_JP": "強敵襲来",
     "zh_CN": "强敌当前"
   },
@@ -982,10 +997,12 @@
     "zh_CN": "终极赛道"
   },
   "permanent_sidestory_18_zone1": {
+    "en_US": "Swamp In The Mists",
     "ja_JP": "煙たなびく沼",
     "zh_CN": "荒烟林沼"
   },
   "permanent_sidestory_18_zone2": {
+    "en_US": "Ashes of Memories",
     "ja_JP": "記憶の燃え殻",
     "zh_CN": "记忆灰烬"
   },

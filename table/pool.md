@@ -28,6 +28,7 @@ tip: 请善用浏览器的搜索功能
 | LIMITED_44_0_1 | 宿愿 | - | - |
 | LIMITED_47_0_1 | 千秋一粟 | - | - |
 | LIMITED_50_0_1 | 何以为我 | - | - |
+| LIMITED_53_0_1 | 在流沙上刻印 | - | - |
 | LIMITED_9_0_3 | 遗愿焰火 | - | - |
 | LINKAGE_17_0_1 | 进攻·防守·战术交汇 | - | - |
 | LINKAGE_36_0_1 | 砺火成锋 | - | - |
@@ -105,7 +106,7 @@ tip: 请善用浏览器的搜索功能
 | SINGLE_52_0_1 | 心与镜的印痕 | - | - |
 | _ATTAIN_15_2_1 | - | Celebrate & Recollect | ロドスの道のり　回顧 |
 | _ATTAIN_22_1_2 | - | Celebration & Link-Up | ロドスの道のり・邂逅 |
-| _ATTAIN_28_0_2 | - | Celebration & Prospective | ロドスの道のり・展望 |
+| _ATTAIN_28_0_2 | - | Celebration & Vista | ロドスの道のり・展望 |
 | _CLASSIC_28_0_1 | - |  Celebration - Kernel | ロドスの道のり・中堅 |
 | _CLASSIC_45_0_2 | 跨年欢庆·中坚 | - | - |
 | _LIMITED_10_2_1 | - | Deep Drown Lament | 深悼 |
@@ -119,7 +120,7 @@ tip: 请善用浏览器的搜索功能
 | _LIMITED_24_0_3 | - | Here I Stand | 真理の在処 |
 | _LIMITED_25_0_5 | - | Cloudtop Lucid Dreams | 雲間の明晰夢 |
 | _LIMITED_27_0_3 | - | By My Will | 宿願 |
-| _LIMITED_29_0_1 | - | - | 千秋一粟 |
+| _LIMITED_29_0_1 | - | Reap of Millenia | 千秋一粟 |
 | _LIMITED_4_3_1 | - | Cremation Last Wish | 遺志に咲く火の華 |
 | _LIMITED_7_1_1 | - | Forget Me Not | 勿忘草 |
 | _LIMITED_8_3_1 | - | Earthborn Metals | 地生五金 |
@@ -163,7 +164,7 @@ tip: 请善用浏览器的搜索功能
 | _NORM_25_0_8 | - | Joint Operation | 連合作戦 |
 | _NORM_26_0_7 | - | The Front That Was | 先途追想 |
 | _NORM_27_0_6 | - | Joint Operation | 連合作戦 |
-| _NORM_29_0_3 | - | - | 連合作戦 |
+| _NORM_29_0_3 | - | Joint Operation | 連合作戦 |
 | _NORM_2_0_1 | - | Chi Xiao, the Hidden Dragon | 赤龍乗雲 |
 | _NORM_2_0_3 | - | Lungmen Spec Ops Headhunting | 龍門特別行動要員 |
 | _NORM_3_0_1 | - | Frozen Land | 果てなき氷原 |
@@ -202,4 +203,4 @@ tip: 请善用浏览器的搜索功能
 | _SINGLE_27_0_1 | - | From Gleams And Smoke I Emerge | 煙塵に瞬く |
 | _SINGLE_28_0_1 | - | The Sojourner | さすらう者 |
 | _SINGLE_28_0_4 | - | Ray of Light | 一筋の曙光 |
-| _SINGLE_29_0_5 | - | - | 枯火に咲く花 |
+| _SINGLE_29_0_5 | - | To Bloom From a Dim Flame | 枯火に咲く花 |

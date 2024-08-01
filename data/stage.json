@@ -2075,7 +2075,7 @@
     "zh_CN": "无人知晓"
   },
   "act22side_07": {
-    "en_US": "Soul Spark",
+    "en_US": "Spark of the Soul",
     "ja_JP": "マナスパーク",
     "zh_CN": "生灵火花"
   },
@@ -2827,78 +2827,97 @@
     "zh_CN": "安全线内"
   },
   "act31side_01": {
+    "en_US": "Journey to Dahuang",
     "ja_JP": "大荒へ",
     "zh_CN": "赴大荒"
   },
   "act31side_02": {
+    "en_US": "Shennong Rites",
     "ja_JP": "神農祭",
     "zh_CN": "祭神农"
   },
   "act31side_03": {
+    "en_US": "Early Seeding",
     "ja_JP": "早芒種",
     "zh_CN": "早芒种"
   },
   "act31side_04": {
+    "en_US": "Dialogue of Silk and Linen",
     "ja_JP": "桑麻の交",
     "zh_CN": "话桑麻"
   },
   "act31side_05": {
+    "en_US": "Weave the Silk",
     "ja_JP": "綾羅紡ぎ",
     "zh_CN": "纺绫罗"
   },
   "act31side_06": {
+    "en_US": "Clouds Burn Red",
     "ja_JP": "赤霞逆巻く",
     "zh_CN": "卷赤霞"
   },
   "act31side_07": {
+    "en_US": "Dream of the Seasons",
     "ja_JP": "四季を思う",
     "zh_CN": "梦四时"
   },
   "act31side_08": {
+    "en_US": "Sow the Cause",
     "ja_JP": "植因",
     "zh_CN": "种因"
   },
   "act31side_09": {
+    "en_US": "Reap the Consequence",
     "ja_JP": "得果",
     "zh_CN": "得果"
   },
   "act31side_mo01": {
+    "en_US": "Signs of Heaven",
     "ja_JP": "『争天時』",
     "zh_CN": "《争天时》"
   },
   "act31side_s01": {
+    "en_US": "Crop Repository",
     "ja_JP": "作物栽培庫",
     "zh_CN": "作物种质库"
   },
   "act31side_s02": {
+    "en_US": "Garden Workshop",
     "ja_JP": "田地実験所",
     "zh_CN": "园圃工程所"
   },
   "act31side_s03": {
+    "en_US": "Monitoring Station",
     "ja_JP": "環境観測所",
     "zh_CN": "环境观测站"
   },
   "act31side_s04": {
+    "en_US": "Cultivation Lab",
     "ja_JP": "育種実験室",
     "zh_CN": "育种实验室"
   },
   "act31side_st01": {
+    "en_US": "A Dream Under Rice",
     "ja_JP": "禾下の夢",
     "zh_CN": "禾下梦"
   },
   "act31side_st02": {
+    "en_US": "Sew the Fabric",
     "ja_JP": "錦織り",
     "zh_CN": "织锦缎"
   },
   "act31side_st03": {
+    "en_US": "Brave Wind and Rain",
     "ja_JP": "雨風の中で",
     "zh_CN": "彻风雨"
   },
   "act31side_tr01": {
+    "en_US": "Farmer's Wisdom",
     "ja_JP": "農家の心得",
     "zh_CN": "职农须知"
   },
   "act31side_tr02": {
+    "en_US": "Guide the Waters",
     "ja_JP": "引水と浚渫",
     "zh_CN": "引水疏浚"
   },
@@ -3037,6 +3056,45 @@
   "act34side_tr01": {
     "zh_CN": "信标投放演习"
   },
+  "act35side_01": {
+    "zh_CN": "节前热身"
+  },
+  "act35side_02": {
+    "zh_CN": "馆中特别行动"
+  },
+  "act35side_03": {
+    "zh_CN": "相约大巴扎"
+  },
+  "act35side_04": {
+    "zh_CN": "家传金拖鞋"
+  },
+  "act35side_05": {
+    "zh_CN": "文物也上班"
+  },
+  "act35side_06": {
+    "zh_CN": "过往云烟"
+  },
+  "act35side_07": {
+    "zh_CN": "谁是宠物？"
+  },
+  "act35side_08": {
+    "zh_CN": "黄沙尽头"
+  },
+  "act35side_09": {
+    "zh_CN": "向过去告别"
+  },
+  "act35side_st01": {
+    "zh_CN": "辉煌之城"
+  },
+  "act35side_st02": {
+    "zh_CN": "苏醒的城市"
+  },
+  "act35side_st03": {
+    "zh_CN": "十字路口，再出发"
+  },
+  "act35side_tr01": {
+    "zh_CN": "护卫队演练"
+  },
   "act3bossrush_01": {
     "en_US": "Survival of the Fittest",
     "ja_JP": "適者生存",
@@ -3058,18 +3116,22 @@
     "zh_CN": "虔信者的前路"
   },
   "act4bossrush_01": {
+    "en_US": "Frost and Fire",
     "ja_JP": "氷霜と戦火",
     "zh_CN": "冰霜与战火"
   },
   "act4bossrush_02": {
+    "en_US": "Out Of Tune",
     "ja_JP": "アウトオブチューン",
     "zh_CN": "无关音律"
   },
   "act4bossrush_03": {
+    "en_US": "Dublinn Burning",
     "ja_JP": "延焼する葦沼",
     "zh_CN": "延烧的深池"
   },
   "act4bossrush_04": {
+    "en_US": "Gone the Ages Past",
     "ja_JP": "昔歳を送る",
     "zh_CN": "辞旧岁"
   },
@@ -5769,6 +5831,12 @@
   },
   "tr_25": {
     "zh_CN": "特殊环境适应作战"
+  },
+  "tr_s_1": {
+    "zh_CN": "综合作战训练1"
+  },
+  "tr_s_2": {
+    "zh_CN": "综合作战训练2"
   },
   "wk_armor_1": {
     "en_US": "Ruins Siege",

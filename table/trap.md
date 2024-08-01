@@ -139,14 +139,14 @@ tip: 请善用浏览器的搜索功能
 | trap_136_portlexi | 创生之相 | Aspect of Creation | 創生の相 |
 | trap_137_winfire | 紧急供暖器 | Emergency Heater | 非常用ストーブ |
 | trap_138_winstone | 点火石 | Flint | 火打ち石 |
-| trap_139_dhtl | 阻流阀 | - | 水門 |
-| trap_140_dhsb | 泵站 | - | 給水ポンプ |
-| trap_141_sheltr | 封阻物 | - | バリケード |
-| trap_142_barrel | 源石爆炸物 | - | 源石爆弾 |
-| trap_143_rnfcar | 封阻加固装置 | - | バリケード補強装置 |
-| trap_144_ads | 临时掩护装置 | - | 仮設掩体装置 |
-| trap_145_edd | 诡雷布设装置 | - | トラップ設置装置 |
-| trap_146_dhdcr | 天桩 | - | 天杭 |
+| trap_139_dhtl | 阻流阀 | Throttle Valve | 水門 |
+| trap_140_dhsb | 泵站 | Pumping Station | 給水ポンプ |
+| trap_141_sheltr | 封阻物 | Barricade | バリケード |
+| trap_142_barrel | 源石爆炸物 | Originium Explosive | 源石爆弾 |
+| trap_143_rnfcar | 封阻加固装置 | Block Reinforcement Device | バリケード補強装置 |
+| trap_144_ads | 临时掩护装置 | Temporary Cover | 仮設掩体装置 |
+| trap_145_edd | 诡雷布设装置 | Mine Deployer | トラップ設置装置 |
+| trap_146_dhdcr | 天桩 | Sky Pole | 天杭 |
 | trap_147_spblls | 巫术弩炮 | - | - |
 | trap_148_amblls | 幽影门扉 | - | - |
 | trap_151_muruinw | 折叠式堡垒模块 | - | - |
@@ -168,8 +168,10 @@ tip: 请善用浏览器的搜索功能
 | trap_169_muruinb | 折叠式后勤站 | - | - |
 | trap_179_muctrl | 促融共竞控制 | - | - |
 | trap_180_dsblock | 封印的地面 | - | - |
+| trap_181_sgray | 结晶消除桩 | - | - |
+| trap_182_sglink | 纯净结晶 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |
-| trap_401_xbfato | 木材采集站 | Basic Gathering Hub | 木材採取基地 |
+| trap_401_xbfato | 木材采集站 | Sawing Harvester Hub | 木材採取基地 |
 | trap_403_wfactory | 蟹蟹抽水泵 | Crabbie Pumpie | カニカニポンプ |
 | trap_404_xbfortress | 坚固筑台 | Firm Platform | 堅牢な台 |
 | trap_405_xbroadblock | 都市风壁障 | Urban Style Barrier | 都市様式障壁 |
@@ -203,52 +205,54 @@ tip: 请善用浏览器的搜索功能
 | trap_434_klmantc | 曼提柯杀手 | Manticore Killer | 殺し屋のマンティコア |
 | trap_435_trsrhuntr | 寻宝人 | Treasure Hunter | トレジャーハンター |
 | trap_437_poachr | 老练猎手 | Veteran Hunter | 手練れのハンター |
-| trap_438_xbfato2 | 石材采集站 | Advanced Gathering Hub | 石材採取基地 |
-| trap_439_xbfato3 | 铁矿采集站 | Executive Gathering Hub | 鉄鉱石採取基地 |
-| trap_440_xbalis | 简易弩台 | - | 簡易弩台 |
-| trap_441_xbmgbird | 喙中奇物 | - | くちばしの中の珍品 |
-| trap_442_xbtrap | 流沙黯坑 | - | 砂地獄 |
-| trap_443_xbtent | 作战中心 | - | 作戦司令部 |
-| trap_444_xbexbi | “纪念” | - | 「記念」 |
-| trap_445_xbfence | 兽栏 | - | 畜舎 |
-| trap_446_xbfdtion | 风沙营垒 | - | 砂漠の砦 |
+| trap_438_xbfato2 | 石材采集站 | Quarrying Harvester Hub | 石材採取基地 |
+| trap_439_xbfato3 | 铁矿采集站 | Mining Harvester Hub | 鉄鉱石採取基地 |
+| trap_440_xbalis | 简易弩台 | Basic Repeater Turret | 簡易弩台 |
+| trap_441_xbmgbird | 喙中奇物 | Fowlbeast's Return | くちばしの中の珍品 |
+| trap_442_xbtrap | 流沙黯坑 | Occluded Quicksand Pit | 砂地獄 |
+| trap_443_xbtent | 作战中心 | Operations Station | 作戦司令部 |
+| trap_444_xbexbi | “纪念” | Lootmark | 「記念」 |
+| trap_445_xbfence | 兽栏 | Corral | 畜舎 |
+| trap_446_xbfdtion | 风沙营垒 | Headquarter of Sandbank | 砂漠の砦 |
 | trap_447_xbmcv | 旷野房车
- | - | キャンピングカー |
-| trap_448_xbmire | 污浊泥沼 | - | 汚濁した泥沼 |
-| trap_449_xbspgun | 烟雾发射台 | - | 煙幕発射台 |
-| trap_450_xbdrill | 澄亮采集站 | - | 透珀石採取基地 |
-| trap_451_xbflare | 荧光棒 | - | ケミカルライト |
-| trap_452_xbcage | 捕猎笼 | - | 捕獲カゴ |
-| trap_453_xbbee | 寻宝仪 | - | 金属探知機 |
-| trap_454_xbember | 激励剂 | - | 激励剤 |
-| trap_455_xbistorm | 冰爆罐 | - | 氷爆缶 |
+ | Campervan
+ | キャンピングカー |
+| trap_448_xbmire | 污浊泥沼 | Cursed Mire | 汚濁した泥沼 |
+| trap_449_xbspgun | 烟雾发射台 | Smoke Launcher | 煙幕発射台 |
+| trap_450_xbdrill | 澄亮采集站 | Extracting Harvester Hub | 透珀石採取基地 |
+| trap_451_xbflare | 荧光棒 | Glow Stick | ケミカルライト |
+| trap_452_xbcage | 捕猎笼 | Beast Trap | 捕獲カゴ |
+| trap_453_xbbee | 寻宝仪 | Prospector | 金属探知機 |
+| trap_454_xbember | 激励剂 | Restanding Potion | 激励剤 |
+| trap_455_xbistorm | 冰爆罐 | Ice Bomb | 氷爆缶 |
 | trap_456_xbfarmm | 种植箱集群
- | - | 栽培ボックス |
-| trap_457_xbfort | 高台工事 | - | 臨時高台 |
-| trap_458_xbbarir | 反应壁障 | - | 反応障壁 |
-| trap_459_xblight | 监视哨站 | - | 監視塔 |
-| trap_460_xbdiam | 澄亮矿脉 | - | 透珀石鉱脈 |
-| trap_461_xbhydr | 机关石门 | - | 石の関門 |
-| trap_462_xbsighta | 灵动清泉 | - | 涼しげな泉 |
-| trap_463_xbsightb | 静谧盆栽 | - | 静かなる盆栽 |
-| trap_464_xbsightc | 休闲长椅 | - | 休憩用ベンチ |
-| trap_465_xbstation | 号令点 | - | 号令ポイント |
-| trap_466_tzumama | 森蚺 | - | ユーネクテス |
-| trap_467_ttuye | 图耶 | - | トゥイエ |
-| trap_468_tpriest | 大祭司 | - | 大祭司 |
-| trap_469_tpasngr | 异客 | - | パッセンジャー |
-| trap_470_tmantic | 狮蝎 | - | マンティコア |
-| trap_471_tegmaus | 佩佩 | - | ペペ |
-| trap_472_tfalco | 红隼 | - | ケストレル |
-| trap_473_trmedic | 罗德岛工作人员 | - | ロドスオペレーター |
-| trap_474_mailbox | 信使邮筒 | - | 郵便ポスト |
-| trap_475_xbcbag | 猎获笼 | - | 捕獲カゴ |
-| trap_476_mscskt | 讯息匣 | - | 情報ボックス |
-| trap_477_xbspps | 失衡异香 | - | 眩暈のお香 |
-| trap_478_xbcanoe | 特制水上平台 | - | 特設ボート |
-| trap_479_xbbillb | 告示牌 | - | 看板 |
-| trap_480_roadblockxb | 道路障碍物 | - | 道路障害物 |
-| trap_481_gtreasureb | 埋没金属箱 | - | 埋もれた金属の箱 |
+ | Planting Box Group
+ | 栽培ボックス |
+| trap_457_xbfort | 高台工事 | Battlement | 臨時高台 |
+| trap_458_xbbarir | 反应壁障 | Reactive Barrier | 反応障壁 |
+| trap_459_xblight | 监视哨站 | Watch Tower | 監視塔 |
+| trap_460_xbdiam | 澄亮矿脉 | Lighting Ore Vein | 透珀石鉱脈 |
+| trap_461_xbhydr | 机关石门 | Olden Keystone | 石の関門 |
+| trap_462_xbsighta | 灵动清泉 | Fountain | 涼しげな泉 |
+| trap_463_xbsightb | 静谧盆栽 | Potting | 静かなる盆栽 |
+| trap_464_xbsightc | 休闲长椅 | Bench | 休憩用ベンチ |
+| trap_465_xbstation | 号令点 | Command Point | 号令ポイント |
+| trap_466_tzumama | 森蚺 | Eunectes | ユーネクテス |
+| trap_467_ttuye | 图耶 | Tuye | トゥイエ |
+| trap_468_tpriest | 大祭司 | High Priest | 大祭司 |
+| trap_469_tpasngr | 异客 | Passenger | パッセンジャー |
+| trap_470_tmantic | 狮蝎 | Manticore | マンティコア |
+| trap_471_tegmaus | 佩佩 | Pepe | ペペ |
+| trap_472_tfalco | 红隼 | Kestrel | ケストレル |
+| trap_473_trmedic | 罗德岛工作人员 | Rhodes Island Staff Worker | ロドスオペレーター |
+| trap_474_mailbox | 信使邮筒 | Mail Box | 郵便ポスト |
+| trap_475_xbcbag | 猎获笼 | Game Holding Cage | 捕獲カゴ |
+| trap_476_mscskt | 讯息匣 | Message Casket | 情報ボックス |
+| trap_477_xbspps | 失衡异香 | Overspeed Spice | 眩暈のお香 |
+| trap_478_xbcanoe | 特制水上平台 | Custom Floating Platform | 特設ボート |
+| trap_479_xbbillb | 告示牌 | Billboard | 看板 |
+| trap_480_roadblockxb | 道路障碍物 | Static Roadblock | 道路障害物 |
+| trap_481_gtreasureb | 埋没金属箱 | Buried Metal Chest | 埋もれた金属の箱 |
 | trap_482_xbblure | 源石虫引诱器 | - | - |
 | trap_483_xbtrophy | “源石虫之心” | - | - |
 | trap_484_xbcp | 检查点 | - | - |
