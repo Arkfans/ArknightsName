@@ -4976,6 +4976,9 @@
     "ja_JP": "遺塵の道を家具パック",
     "zh_CN": "遗尘漫步家具收藏包"
   },
+  "uni_set_idealCity": {
+    "zh_CN": "理想城家具收藏包"
+  },
   "uni_set_inkArt": {
     "en_US": "Who is Real Furniture Pack",
     "ja_JP": "画中人家具パック",
@@ -5147,6 +5150,9 @@
   },
   "voucher_full_lumen": {
     "zh_CN": "流明的私人信件"
+  },
+  "voucher_full_malist": {
+    "zh_CN": "至简的私人信件"
   },
   "voucher_full_mint": {
     "en_US": "Mint's Personal Letter",

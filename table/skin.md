@@ -57,6 +57,7 @@ tip: 请善用浏览器的搜索功能
 | char_126_shotst@epoque#10 | 诗人的假日 | Bard's Holiday | 詩人の休日 |
 | char_126_shotst@epoque#28 | 星橼林 | Gwiazdcytrony | スタリシトロンの森にて |
 | char_128_plosis@epoque#3 | 幽静 | Serenity | 幽静 |
+| char_128_plosis@yun#4 | 抚云间 | - | - |
 | char_129_bluep@iteration#2 | 哀律西昂夜曲 | - | - |
 | char_129_bluep@marthe#3 | 浅滩律动 | Shoal Beat | 浅瀬のリズム |
 | char_130_doberm@epoque#7 | 少尉 | Lieutenant | 少尉 |
