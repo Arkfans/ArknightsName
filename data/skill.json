@@ -3460,6 +3460,9 @@
     "ja_JP": "源石気流",
     "zh_CN": "气流"
   },
+  "sktok_bmoney": {
+    "zh_CN": "无可置疑的罪证"
+  },
   "sktok_bomb": {
     "en_US": "Ill Temper",
     "ja_JP": "大癇癪",
@@ -3492,6 +3495,24 @@
     "en_US": "Hand of the Saint - Patrol",
     "ja_JP": "聖徒の御手・巡回モード",
     "zh_CN": "圣徒之手·巡回模式"
+  },
+  "sktok_bqmlee": {
+    "zh_CN": "步青云"
+  },
+  "sktok_bqmleea": {
+    "zh_CN": "步青云"
+  },
+  "sktok_bqmleeb": {
+    "zh_CN": "步青云"
+  },
+  "sktok_bqrnge": {
+    "zh_CN": "分析"
+  },
+  "sktok_bqrngea": {
+    "zh_CN": "分析"
+  },
+  "sktok_bqrngeb": {
+    "zh_CN": "分析"
   },
   "sktok_brctrl": {
     "en_US": "Entitative Program Controller",
@@ -3943,6 +3964,15 @@
     "en_US": "Gate Closing",
     "ja_JP": "シャッター",
     "zh_CN": "关闭闸门"
+  },
+  "sktok_godch": {
+    "zh_CN": "罗德岛式协作"
+  },
+  "sktok_godcha": {
+    "zh_CN": "罗德岛式协作"
+  },
+  "sktok_godchb": {
+    "zh_CN": "罗德岛式协作"
   },
   "sktok_gractrl": {
     "en_US": "Gravity Generation",

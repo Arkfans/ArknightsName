@@ -170,6 +170,7 @@ tip: 请善用浏览器的搜索功能
 | trap_180_dsblock | 封印的地面 | - | - |
 | trap_181_sgray | 结晶消除桩 | - | - |
 | trap_182_sglink | 纯净结晶 | - | - |
+| trap_183_sheltk | 作战专用掩体 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |
 | trap_401_xbfato | 木材采集站 | Sawing Harvester Hub | 木材採取基地 |
 | trap_403_wfactory | 蟹蟹抽水泵 | Crabbie Pumpie | カニカニポンプ |
@@ -322,5 +323,15 @@ tip: 请善用浏览器的搜索功能
 | trap_762_skztxy | 特蕾西娅，黑冠圣贤 | - | - |
 | trap_763_skzddd | 圣卫坚盾 | - | - |
 | trap_764_skzshp | 驮兽旅行家 | - | - |
+| trap_765_bmoney | 无可置疑的罪证 | - | - |
 | trap_766_duelwal | 狭路相逢 | - | - |
 | trap_767_duelcdt | 狭路相逢 | - | - |
+| trap_768_godch | 保全人才合作协议 | - | - |
+| trap_769_godcha | 加急许可条款 | - | - |
+| trap_770_godchb | 临时任命条款 | - | - |
+| trap_771_bqrnge | 皇家科学院望远镜 | - | - |
+| trap_772_bqrngea | 专业显示模块 | - | - |
+| trap_773_bqrngeb | 灵活架设模块 | - | - |
+| trap_774_bqmlee | 攀云机 | - | - |
+| trap_775_bqmleea | 加固扩存改装 | - | - |
+| trap_776_bqmleeb | 长距增运改装 | - | - |

@@ -778,6 +778,9 @@
   "trap_182_sglink": {
     "zh_CN": "纯净结晶"
   },
+  "trap_183_sheltk": {
+    "zh_CN": "作战专用掩体"
+  },
   "trap_400_xbfarm": {
     "en_US": "Portable Planting Trough",
     "ja_JP": "栽培ポット",
@@ -1470,10 +1473,40 @@
   "trap_764_skzshp": {
     "zh_CN": "驮兽旅行家"
   },
+  "trap_765_bmoney": {
+    "zh_CN": "无可置疑的罪证"
+  },
   "trap_766_duelwal": {
     "zh_CN": "狭路相逢"
   },
   "trap_767_duelcdt": {
     "zh_CN": "狭路相逢"
+  },
+  "trap_768_godch": {
+    "zh_CN": "保全人才合作协议"
+  },
+  "trap_769_godcha": {
+    "zh_CN": "加急许可条款"
+  },
+  "trap_770_godchb": {
+    "zh_CN": "临时任命条款"
+  },
+  "trap_771_bqrnge": {
+    "zh_CN": "皇家科学院望远镜"
+  },
+  "trap_772_bqrngea": {
+    "zh_CN": "专业显示模块"
+  },
+  "trap_773_bqrngeb": {
+    "zh_CN": "灵活架设模块"
+  },
+  "trap_774_bqmlee": {
+    "zh_CN": "攀云机"
+  },
+  "trap_775_bqmleea": {
+    "zh_CN": "加固扩存改装"
+  },
+  "trap_776_bqmleeb": {
+    "zh_CN": "长距增运改装"
   }
 }

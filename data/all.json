@@ -4377,6 +4377,12 @@
       "zh_CN": "纯净结晶"
     }
   },
+  "trap_183_sheltk": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "作战专用掩体"
+    }
+  },
   "trap_400_xbfarm": {
     "type": "TRAP",
     "names": {
@@ -5513,6 +5519,12 @@
       "zh_CN": "驮兽旅行家"
     }
   },
+  "trap_765_bmoney": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "无可置疑的罪证"
+    }
+  },
   "trap_766_duelwal": {
     "type": "TRAP",
     "names": {
@@ -5523,6 +5535,60 @@
     "type": "TRAP",
     "names": {
       "zh_CN": "狭路相逢"
+    }
+  },
+  "trap_768_godch": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "保全人才合作协议"
+    }
+  },
+  "trap_769_godcha": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "加急许可条款"
+    }
+  },
+  "trap_770_godchb": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "临时任命条款"
+    }
+  },
+  "trap_771_bqrnge": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "皇家科学院望远镜"
+    }
+  },
+  "trap_772_bqrngea": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "专业显示模块"
+    }
+  },
+  "trap_773_bqrngeb": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "灵活架设模块"
+    }
+  },
+  "trap_774_bqmlee": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "攀云机"
+    }
+  },
+  "trap_775_bqmleea": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "加固扩存改装"
+    }
+  },
+  "trap_776_bqmleeb": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "长距增运改装"
     }
   },
   "char_002_amiya@epoque#4": {
@@ -16523,6 +16589,24 @@
     "type": "ENEMY",
     "names": {
       "zh_CN": "“特别任性的生物”"
+    }
+  },
+  "enemy_6025_tinker": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "怨恨祭坛"
+    }
+  },
+  "enemy_6026_techn": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "巫术石球"
+    }
+  },
+  "enemy_6027_bqthie": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "飞檐客-叶无轻"
     }
   },
   "enemy_7001_blwzad": {
@@ -34453,6 +34537,12 @@
       "zh_CN": "气流"
     }
   },
+  "sktok_bmoney": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "无可置疑的罪证"
+    }
+  },
   "sktok_bomb": {
     "type": "SKILL",
     "names": {
@@ -34505,6 +34595,42 @@
       "en_US": "Hand of the Saint - Patrol",
       "ja_JP": "聖徒の御手・巡回モード",
       "zh_CN": "圣徒之手·巡回模式"
+    }
+  },
+  "sktok_bqmlee": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "步青云"
+    }
+  },
+  "sktok_bqmleea": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "步青云"
+    }
+  },
+  "sktok_bqmleeb": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "步青云"
+    }
+  },
+  "sktok_bqrnge": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "分析"
+    }
+  },
+  "sktok_bqrngea": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "分析"
+    }
+  },
+  "sktok_bqrngeb": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "分析"
     }
   },
   "sktok_brctrl": {
@@ -35247,6 +35373,24 @@
       "en_US": "Gate Closing",
       "ja_JP": "シャッター",
       "zh_CN": "关闭闸门"
+    }
+  },
+  "sktok_godch": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "罗德岛式协作"
+    }
+  },
+  "sktok_godcha": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "罗德岛式协作"
+    }
+  },
+  "sktok_godchb": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "罗德岛式协作"
     }
   },
   "sktok_gractrl": {
@@ -42047,6 +42191,36 @@
       "zh_CN": "向过去告别"
     }
   },
+  "act35side_mo01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "愿我们寻得安详"
+    }
+  },
+  "act35side_s01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "哲理在新生中传唱"
+    }
+  },
+  "act35side_s02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "精神在富饶中绽放"
+    }
+  },
+  "act35side_s03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "笔尖凝聚着愿景"
+    }
+  },
+  "act35side_s04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "修辞流淌着期望"
+    }
+  },
   "act35side_st01": {
     "type": "STAGE",
     "names": {
@@ -43847,6 +44021,78 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "尽入囊中"
+    }
+  },
+  "lt_15_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "术法冲锋"
+    }
+  },
+  "lt_15_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "精锐与光荣"
+    }
+  },
+  "lt_15_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "主要推进通道"
+    }
+  },
+  "lt_15_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "虫潮涌流"
+    }
+  },
+  "lt_15_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "血肉长驱"
+    }
+  },
+  "lt_15_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "遗忘与声张"
+    }
+  },
+  "lt_16_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "障目"
+    }
+  },
+  "lt_16_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "迷山"
+    }
+  },
+  "lt_16_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "他乡"
+    }
+  },
+  "lt_16_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "节尽"
+    }
+  },
+  "lt_16_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "风林栖"
+    }
+  },
+  "lt_16_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "莫寻迹"
     }
   },
   "lt_tr_01": {
