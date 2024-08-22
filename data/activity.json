@@ -371,6 +371,9 @@
     "ja_JP": "大感謝祭スタンプ",
     "zh_CN": "未来序曲签到活动"
   },
+  "act1collection": {
+    "zh_CN": "限时积分任务"
+  },
   "act1d5": {
     "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
@@ -536,6 +539,9 @@
     "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
+  },
+  "act27sre": {
+    "zh_CN": "火山旅梦·复刻"
   },
   "act28side": {
     "en_US": "Come Catastrophes or Wakes of Vultures",

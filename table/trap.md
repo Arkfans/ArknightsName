@@ -259,6 +259,32 @@ tip: 请善用浏览器的搜索功能
 | trap_484_xbcp | 检查点 | - | - |
 | trap_485_xbrandprop | 随机道具盒 | - | - |
 | trap_486_xbspd | 加速块 | - | - |
+| trap_487_xblfen | 大型兽栏 | - | - |
+| trap_488_xbtwod | 全自动切木站 | - | - |
+| trap_489_xbtrok | 全自动掘石站 | - | - |
+| trap_490_xbtiro | 全自动采铁站 | - | - |
+| trap_491_xbtwal | 虚影壁障 | - | - |
+| trap_492_xbamai | 狩闻匣 | - | - |
+| trap_493_xbabal | 追猎发射台 | - | - |
+| trap_494_xbasky | 拟南盏 | - | - |
+| trap_495_xbasmi | 草香粉 | - | - |
+| trap_496_xbaasm | 稀有·草香粉 | - | - |
+| trap_497_xbarok | 岩锤 | - | - |
+| trap_498_xbaaro | 稀有·岩锤 | - | - |
+| trap_499_xbaask | 稀有·拟南盏 | - | - |
+| trap_500_xbaflu | 荧光棒弹射装置 | - | - |
+| trap_501_xbaarm | 外骨骼 | - | - |
+| trap_502_xbaice | 冰瀑喷射罐 | - | - |
+| trap_503_xbabla | 凋亡发射器 | - | - |
+| trap_504_xbaess | 桶装液香 | - | - |
+| trap_505_xbawea | 庇护制造器 | - | - |
+| trap_506_xbadiv | 驯兽口粮 | - | - |
+| trap_507_xbabut | 感知链接器 | - | - |
+| trap_508_xbabat | 行动套装 | - | - |
+| trap_509_xbf1g | 木材采集站·采购 | - | - |
+| trap_510_xbf2g | 石材采集站·采购 | - | - |
+| trap_511_xbf3g | 铁矿采集站·采购 | - | - |
+| trap_512_xbwfg | 蟹蟹抽水泵·采购 | - | - |
 | trap_700_cdabyss | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |
 | trap_701_cdabyssa | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |
 | trap_702_cdabyssb | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |

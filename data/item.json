@@ -1173,6 +1173,9 @@
     "ja_JP": "ブラックボックス",
     "zh_CN": "数据黑盒"
   },
+  "act1collection_point_token": {
+    "zh_CN": "“探索者”兑换点数"
+  },
   "act1d0_token_gold_rep_1": {
     "en_US": "Bounty Coin",
     "ja_JP": "ラッキーコイン",
@@ -1295,6 +1298,9 @@
   "act27side_token_fur": {
     "en_US": "Fluffy Critter Wool",
     "ja_JP": "ピンクのふわふわ",
+    "zh_CN": "毛绒绒生物的毛"
+  },
+  "act27side_token_fur_rep_1": {
     "zh_CN": "毛绒绒生物的毛"
   },
   "act28side_token_box": {
@@ -4906,6 +4912,9 @@
     "en_US": "Obsidian Festival Bracelet",
     "ja_JP": "リストバンド",
     "zh_CN": "黑曜石节手环"
+  },
+  "uni_set_MemoryCloister_1": {
+    "zh_CN": "魂灵印象家具收藏包一"
   },
   "uni_set_NHL": {
     "en_US": "Guide Ahead Furniture Collection Set",

@@ -5045,6 +5045,162 @@
       "zh_CN": "加速块"
     }
   },
+  "trap_487_xblfen": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "大型兽栏"
+    }
+  },
+  "trap_488_xbtwod": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "全自动切木站"
+    }
+  },
+  "trap_489_xbtrok": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "全自动掘石站"
+    }
+  },
+  "trap_490_xbtiro": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "全自动采铁站"
+    }
+  },
+  "trap_491_xbtwal": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "虚影壁障"
+    }
+  },
+  "trap_492_xbamai": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "狩闻匣"
+    }
+  },
+  "trap_493_xbabal": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "追猎发射台"
+    }
+  },
+  "trap_494_xbasky": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "拟南盏"
+    }
+  },
+  "trap_495_xbasmi": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "草香粉"
+    }
+  },
+  "trap_496_xbaasm": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "稀有·草香粉"
+    }
+  },
+  "trap_497_xbarok": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "岩锤"
+    }
+  },
+  "trap_498_xbaaro": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "稀有·岩锤"
+    }
+  },
+  "trap_499_xbaask": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "稀有·拟南盏"
+    }
+  },
+  "trap_500_xbaflu": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "荧光棒弹射装置"
+    }
+  },
+  "trap_501_xbaarm": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "外骨骼"
+    }
+  },
+  "trap_502_xbaice": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "冰瀑喷射罐"
+    }
+  },
+  "trap_503_xbabla": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "凋亡发射器"
+    }
+  },
+  "trap_504_xbaess": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "桶装液香"
+    }
+  },
+  "trap_505_xbawea": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "庇护制造器"
+    }
+  },
+  "trap_506_xbadiv": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "驯兽口粮"
+    }
+  },
+  "trap_507_xbabut": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "感知链接器"
+    }
+  },
+  "trap_508_xbabat": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "行动套装"
+    }
+  },
+  "trap_509_xbf1g": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "木材采集站·采购"
+    }
+  },
+  "trap_510_xbf2g": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "石材采集站·采购"
+    }
+  },
+  "trap_511_xbf3g": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "铁矿采集站·采购"
+    }
+  },
+  "trap_512_xbwfg": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "蟹蟹抽水泵·采购"
+    }
+  },
   "trap_700_cdabyss": {
     "type": "TRAP",
     "names": {
@@ -7807,6 +7963,18 @@
     "type": "SKIN",
     "names": {
       "zh_CN": "云上直播间"
+    }
+  },
+  "char_4100_caper@summer#18": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "夏卉 FA083"
+    }
+  },
+  "char_4106_bryota@epoque#34": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "动感"
     }
   },
   "char_411_tomimi@summer#5": {
@@ -16931,6 +17099,54 @@
       "zh_CN": "披甲源石虫"
     }
   },
+  "enemy_7047_xbdit": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“流质透镜”"
+    }
+  },
+  "enemy_7049_xbnum": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "放归驮兽"
+    }
+  },
+  "enemy_7051_xbcas": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "拟南兽"
+    }
+  },
+  "enemy_7053_xbcasz": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "拟南兽"
+    }
+  },
+  "enemy_7054_xbsmi": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "香草翼兽"
+    }
+  },
+  "enemy_7056_xbsmiz": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "香草翼兽"
+    }
+  },
+  "enemy_7057_xbrok": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "游砂兽"
+    }
+  },
+  "enemy_7059_xbrokz": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "游砂兽"
+    }
+  },
   "enemy_8001_flmlod": {
     "type": "ENEMY",
     "names": {
@@ -17563,6 +17779,12 @@
       "zh_CN": "未来序曲签到活动"
     }
   },
+  "act1collection": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "限时积分任务"
+    }
+  },
   "act1d5": {
     "type": "ACTIVITY",
     "names": {
@@ -17835,6 +18057,12 @@
       "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
+    }
+  },
+  "act27sre": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "火山旅梦·复刻"
     }
   },
   "act28side": {
@@ -20654,6 +20882,12 @@
       "zh_CN": "数据黑盒"
     }
   },
+  "act1collection_point_token": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "“探索者”兑换点数"
+    }
+  },
   "act1d0_token_gold_rep_1": {
     "type": "ITEM",
     "names": {
@@ -20853,6 +21087,12 @@
     "names": {
       "en_US": "Fluffy Critter Wool",
       "ja_JP": "ピンクのふわふわ",
+      "zh_CN": "毛绒绒生物的毛"
+    }
+  },
+  "act27side_token_fur_rep_1": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "毛绒绒生物的毛"
     }
   },
@@ -26699,6 +26939,12 @@
       "en_US": "Obsidian Festival Bracelet",
       "ja_JP": "リストバンド",
       "zh_CN": "黑曜石节手环"
+    }
+  },
+  "uni_set_MemoryCloister_1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "魂灵印象家具收藏包一"
     }
   },
   "uni_set_NHL": {
@@ -36753,12 +36999,108 @@
       "zh_CN": "拉特兰式冰淇淋"
     }
   },
+  "sktok_xbaarm": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "支持"
+    }
+  },
+  "sktok_xbaaro": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "岩锤"
+    }
+  },
+  "sktok_xbaask": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "炫耀"
+    }
+  },
+  "sktok_xbaasm": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "引燃"
+    }
+  },
+  "sktok_xbabal": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "发射缚网"
+    }
+  },
+  "sktok_xbabat": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "补给"
+    }
+  },
+  "sktok_xbabla": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "发射"
+    }
+  },
+  "sktok_xbabut": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "通感"
+    }
+  },
+  "sktok_xbadiv": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "激励"
+    }
+  },
+  "sktok_xbaess": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "熏诱"
+    }
+  },
+  "sktok_xbaflu": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "弹射"
+    }
+  },
+  "sktok_xbaice": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "喷射"
+    }
+  },
   "sktok_xbalis": {
     "type": "SKILL",
     "names": {
       "en_US": "Fire",
       "ja_JP": "発射",
       "zh_CN": "发射"
+    }
+  },
+  "sktok_xbarok": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "岩锤"
+    }
+  },
+  "sktok_xbasky": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "炫耀"
+    }
+  },
+  "sktok_xbasmi": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "引燃"
+    }
+  },
+  "sktok_xbawea": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "庇护"
     }
   },
   "sktok_xbbarir": {
@@ -36873,6 +37215,24 @@
       "zh_CN": "纪念"
     }
   },
+  "sktok_xbf1g": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "采集"
+    }
+  },
+  "sktok_xbf2g": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "采集"
+    }
+  },
+  "sktok_xbf3g": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "采集"
+    }
+  },
   "sktok_xbfarm": {
     "type": "SKILL",
     "names": {
@@ -36983,6 +37343,12 @@
       "en_US": "Ice Blast!",
       "ja_JP": "氷爆！",
       "zh_CN": "冰爆！"
+    }
+  },
+  "sktok_xblfen": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "畜养"
     }
   },
   "sktok_xblight": {
@@ -37133,6 +37499,12 @@
       "zh_CN": "援护"
     }
   },
+  "sktok_xbtiro": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "采铁"
+    }
+  },
   "sktok_xbtrap": {
     "type": "SKILL",
     "names": {
@@ -37141,10 +37513,28 @@
       "zh_CN": "陷阱"
     }
   },
+  "sktok_xbtrok": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "掘石"
+    }
+  },
   "sktok_xbtrophy": {
     "type": "SKILL",
     "names": {
       "zh_CN": "“跳动”"
+    }
+  },
+  "sktok_xbtwal": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "阻隔道路"
+    }
+  },
+  "sktok_xbtwod": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "切木"
     }
   },
   "sktok_xbwall": {
@@ -37153,6 +37543,12 @@
       "en_US": "Defensive Support",
       "ja_JP": "防衛の要",
       "zh_CN": "防御支撑"
+    }
+  },
+  "sktok_xbwfg": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "抽水"
     }
   },
   "sktok_xbwood": {
@@ -42991,6 +43387,12 @@
       "zh_CN": "燃烧街区"
     }
   },
+  "camp_r_24": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "冰封雪谷"
+    }
+  },
   "hard_05-01": {
     "type": "STAGE",
     "names": {
@@ -48017,6 +48419,24 @@
       "zh_CN": "岩浆冲浪"
     }
   },
+  "act27sre_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "温泉假日"
+    }
+  },
+  "act27sre_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "城市寻宝"
+    }
+  },
+  "act27sre_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "岩浆冲浪"
+    }
+  },
   "act28side_zone1": {
     "type": "ZONE",
     "names": {
@@ -48593,6 +49013,24 @@
       "en_US": "Ultimate Course",
       "ja_JP": "アルティメットコース",
       "zh_CN": "终极赛道"
+    }
+  },
+  "permanent_sidestory_17_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "温泉假日"
+    }
+  },
+  "permanent_sidestory_17_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "城市寻宝"
+    }
+  },
+  "permanent_sidestory_17_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "岩浆冲浪"
     }
   },
   "permanent_sidestory_18_zone1": {

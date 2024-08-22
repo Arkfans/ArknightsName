@@ -137,6 +137,9 @@ tip: 请善用浏览器的搜索功能
 | act27side_zone1 | 温泉假日 | A Holiday at the Hot Springs | 温泉リゾート |
 | act27side_zone2 | 城市寻宝 | Treasurehunting in Siesta | トレジャーハント |
 | act27side_zone3 | 岩浆冲浪 | Surfing the Lava | マグマサーフィン |
+| act27sre_zone1 | 温泉假日 | - | - |
+| act27sre_zone2 | 城市寻宝 | - | - |
+| act27sre_zone3 | 岩浆冲浪 | - | - |
 | act28side_zone1 | 苍白平台 | Anemic Platform | 青白い町 |
 | act28side_zone2 | 黑色舰船 | Black Landship | 黒き艦船 |
 | act29side_zone1 | 朝见双塔 | Zwillingstürme anbeten | 双塔を仰ぐ |
@@ -212,6 +215,9 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_16_zone3 | 升降梯整备 | Elevator Maintenance | 昇降機整備 |
 | permanent_sidestory_16_zone4 | 表演赛道 | Exhibition Course | エキシビションコース |
 | permanent_sidestory_16_zone5 | 终极赛道 | Ultimate Course | アルティメットコース |
+| permanent_sidestory_17_zone1 | 温泉假日 | - | - |
+| permanent_sidestory_17_zone2 | 城市寻宝 | - | - |
+| permanent_sidestory_17_zone3 | 岩浆冲浪 | - | - |
 | permanent_sidestory_18_zone1 | 荒烟林沼 | Swamp In The Mists | 煙たなびく沼 |
 | permanent_sidestory_18_zone2 | 记忆灰烬 | Ashes of Memories | 記憶の燃え殻 |
 | permanent_sidestory_19_zone1 | 城中调查 | Case Investigation, Onsite | 城内調査 |

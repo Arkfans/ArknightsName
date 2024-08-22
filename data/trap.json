@@ -1191,6 +1191,84 @@
   "trap_486_xbspd": {
     "zh_CN": "加速块"
   },
+  "trap_487_xblfen": {
+    "zh_CN": "大型兽栏"
+  },
+  "trap_488_xbtwod": {
+    "zh_CN": "全自动切木站"
+  },
+  "trap_489_xbtrok": {
+    "zh_CN": "全自动掘石站"
+  },
+  "trap_490_xbtiro": {
+    "zh_CN": "全自动采铁站"
+  },
+  "trap_491_xbtwal": {
+    "zh_CN": "虚影壁障"
+  },
+  "trap_492_xbamai": {
+    "zh_CN": "狩闻匣"
+  },
+  "trap_493_xbabal": {
+    "zh_CN": "追猎发射台"
+  },
+  "trap_494_xbasky": {
+    "zh_CN": "拟南盏"
+  },
+  "trap_495_xbasmi": {
+    "zh_CN": "草香粉"
+  },
+  "trap_496_xbaasm": {
+    "zh_CN": "稀有·草香粉"
+  },
+  "trap_497_xbarok": {
+    "zh_CN": "岩锤"
+  },
+  "trap_498_xbaaro": {
+    "zh_CN": "稀有·岩锤"
+  },
+  "trap_499_xbaask": {
+    "zh_CN": "稀有·拟南盏"
+  },
+  "trap_500_xbaflu": {
+    "zh_CN": "荧光棒弹射装置"
+  },
+  "trap_501_xbaarm": {
+    "zh_CN": "外骨骼"
+  },
+  "trap_502_xbaice": {
+    "zh_CN": "冰瀑喷射罐"
+  },
+  "trap_503_xbabla": {
+    "zh_CN": "凋亡发射器"
+  },
+  "trap_504_xbaess": {
+    "zh_CN": "桶装液香"
+  },
+  "trap_505_xbawea": {
+    "zh_CN": "庇护制造器"
+  },
+  "trap_506_xbadiv": {
+    "zh_CN": "驯兽口粮"
+  },
+  "trap_507_xbabut": {
+    "zh_CN": "感知链接器"
+  },
+  "trap_508_xbabat": {
+    "zh_CN": "行动套装"
+  },
+  "trap_509_xbf1g": {
+    "zh_CN": "木材采集站·采购"
+  },
+  "trap_510_xbf2g": {
+    "zh_CN": "石材采集站·采购"
+  },
+  "trap_511_xbf3g": {
+    "zh_CN": "铁矿采集站·采购"
+  },
+  "trap_512_xbwfg": {
+    "zh_CN": "蟹蟹抽水泵·采购"
+  },
   "trap_700_cdabyss": {
     "en_US": "Ægirian Oscilloscope",
     "ja_JP": "エーギル式振波計",

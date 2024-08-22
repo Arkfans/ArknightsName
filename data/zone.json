@@ -643,6 +643,15 @@
     "ja_JP": "マグマサーフィン",
     "zh_CN": "岩浆冲浪"
   },
+  "act27sre_zone1": {
+    "zh_CN": "温泉假日"
+  },
+  "act27sre_zone2": {
+    "zh_CN": "城市寻宝"
+  },
+  "act27sre_zone3": {
+    "zh_CN": "岩浆冲浪"
+  },
   "act28side_zone1": {
     "en_US": "Anemic Platform",
     "ja_JP": "青白い町",
@@ -995,6 +1004,15 @@
     "en_US": "Ultimate Course",
     "ja_JP": "アルティメットコース",
     "zh_CN": "终极赛道"
+  },
+  "permanent_sidestory_17_zone1": {
+    "zh_CN": "温泉假日"
+  },
+  "permanent_sidestory_17_zone2": {
+    "zh_CN": "城市寻宝"
+  },
+  "permanent_sidestory_17_zone3": {
+    "zh_CN": "岩浆冲浪"
   },
   "permanent_sidestory_18_zone1": {
     "en_US": "Swamp In The Mists",

@@ -4806,10 +4806,58 @@
     "ja_JP": "ジェラート供給",
     "zh_CN": "拉特兰式冰淇淋"
   },
+  "sktok_xbaarm": {
+    "zh_CN": "支持"
+  },
+  "sktok_xbaaro": {
+    "zh_CN": "岩锤"
+  },
+  "sktok_xbaask": {
+    "zh_CN": "炫耀"
+  },
+  "sktok_xbaasm": {
+    "zh_CN": "引燃"
+  },
+  "sktok_xbabal": {
+    "zh_CN": "发射缚网"
+  },
+  "sktok_xbabat": {
+    "zh_CN": "补给"
+  },
+  "sktok_xbabla": {
+    "zh_CN": "发射"
+  },
+  "sktok_xbabut": {
+    "zh_CN": "通感"
+  },
+  "sktok_xbadiv": {
+    "zh_CN": "激励"
+  },
+  "sktok_xbaess": {
+    "zh_CN": "熏诱"
+  },
+  "sktok_xbaflu": {
+    "zh_CN": "弹射"
+  },
+  "sktok_xbaice": {
+    "zh_CN": "喷射"
+  },
   "sktok_xbalis": {
     "en_US": "Fire",
     "ja_JP": "発射",
     "zh_CN": "发射"
+  },
+  "sktok_xbarok": {
+    "zh_CN": "岩锤"
+  },
+  "sktok_xbasky": {
+    "zh_CN": "炫耀"
+  },
+  "sktok_xbasmi": {
+    "zh_CN": "引燃"
+  },
+  "sktok_xbawea": {
+    "zh_CN": "庇护"
   },
   "sktok_xbbarir": {
     "en_US": "Block",
@@ -4877,6 +4925,15 @@
     "en_US": "Recollect",
     "ja_JP": "記念",
     "zh_CN": "纪念"
+  },
+  "sktok_xbf1g": {
+    "zh_CN": "采集"
+  },
+  "sktok_xbf2g": {
+    "zh_CN": "采集"
+  },
+  "sktok_xbf3g": {
+    "zh_CN": "采集"
   },
   "sktok_xbfarm": {
     "en_US": "Plant Rice",
@@ -4947,6 +5004,9 @@
     "en_US": "Ice Blast!",
     "ja_JP": "氷爆！",
     "zh_CN": "冰爆！"
+  },
+  "sktok_xblfen": {
+    "zh_CN": "畜养"
   },
   "sktok_xblight": {
     "en_US": "Scout",
@@ -5039,18 +5099,33 @@
     "ja_JP": "援護",
     "zh_CN": "援护"
   },
+  "sktok_xbtiro": {
+    "zh_CN": "采铁"
+  },
   "sktok_xbtrap": {
     "en_US": "Trap",
     "ja_JP": "トラップ",
     "zh_CN": "陷阱"
   },
+  "sktok_xbtrok": {
+    "zh_CN": "掘石"
+  },
   "sktok_xbtrophy": {
     "zh_CN": "“跳动”"
+  },
+  "sktok_xbtwal": {
+    "zh_CN": "阻隔道路"
+  },
+  "sktok_xbtwod": {
+    "zh_CN": "切木"
   },
   "sktok_xbwall": {
     "en_US": "Defensive Support",
     "ja_JP": "防衛の要",
     "zh_CN": "防御支撑"
+  },
+  "sktok_xbwfg": {
+    "zh_CN": "抽水"
   },
   "sktok_xbwood": {
     "en_US": "Harvestable",
