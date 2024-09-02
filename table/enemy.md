@@ -5,6 +5,22 @@ tip: 请善用浏览器的搜索功能
 
 | id | 中文 | English | 日文 |
 | --- | --- | --- | --- |
+| enemy_10001_trslim | 简饲源石虫 | - | - |
+| enemy_10001_trslim_2 | 精饲源石虫 | - | - |
+| enemy_10002_trtrsl | 浆果虫 | - | - |
+| enemy_10002_trtrsl_2 | 硕果虫 | - | - |
+| enemy_10003_trwlpl | 暴走食虫花 | - | - |
+| enemy_10003_trwlpl_2 | 暴走食人花 | - | - |
+| enemy_10004_trdiam | 浆果磐蟹 | - | - |
+| enemy_10004_trdiam_2 | 硕果磐蟹 | - | - |
+| enemy_10005_trsmsb | 染污战士 | - | - |
+| enemy_10005_trsmsb_2 | 染污勇士 | - | - |
+| enemy_10006_trsmgi | 染秽魔像 | - | - |
+| enemy_10006_trsmgi_2 | 凶秽魔像 | - | - |
+| enemy_10007_trspsb | “酩酊” | - | - |
+| enemy_10007_trspsb_2 | 陶醉的“酩酊” | - | - |
+| enemy_10008_trbbox | 宝箱恐鱼 | - | - |
+| enemy_10008_trbbox_2 | 宝箱海怪 | - | - |
 | enemy_1000_gopro | 猎狗 | Hound | 猟犬 |
 | enemy_1000_gopro_2 | 猎狗pro | Hound Pro | 上級猟犬 |
 | enemy_1000_gopro_3 | 狂暴的猎狗pro | Rabid Hound Pro | 凶暴猟犬 |
@@ -918,6 +934,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1553_lrdead | 引火的死魂灵 | - | - |
 | enemy_1554_lrtsia | 特蕾西娅 | - | - |
 | enemy_1556_dsbish | 玛利图斯，“海嗣” | - | - |
+| enemy_1557_trcerb | “三头犬” | - | - |
 | enemy_1558_sgactr | 祖巴伊达姆，从往昔来 | - | - |
 | enemy_2001_duckmi | 鸭爵 | Duck Lord | ダック卿 |
 | enemy_2002_bearmi | 高普尼克 | Gopnik | ゴプニク |

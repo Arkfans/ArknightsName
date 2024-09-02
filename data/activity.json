@@ -656,6 +656,9 @@
     "ja_JP": "清風明月-ロドス点心教室",
     "zh_CN": "清光邀月——月饼烘焙小教程"
   },
+  "act36side": {
+    "zh_CN": "泰拉饭"
+  },
   "act36sign": {
     "en_US": "Climbing the Twin Spires Sign-In Event",
     "ja_JP": "双塔の高みを目指してスタンプラリー",
@@ -725,6 +728,9 @@
     "en_US": "Design of Strife",
     "ja_JP": "紛争演繹",
     "zh_CN": "纷争演绎"
+  },
+  "act42sign": {
+    "zh_CN": "品鉴泰拉魔物"
   },
   "act4bossrush": {
     "en_US": "Trials for Navigator",

@@ -289,6 +289,10 @@ tip: 请善用浏览器的搜索功能
 | char_4138_narant | 娜仁图亚 | - | - |
 | char_4139_papyrs | 莎草 | - | - |
 | char_4140_lasher | 衡沙 | - | - |
+| char_4141_marcil | 玛露西尔 | - | - |
+| char_4142_laios | 莱欧斯 | - | - |
+| char_4143_sensi | 森西 | - | - |
+| char_4144_chilc | 齐尔查克 | - | - |
 | char_4145_ulpia | 乌尔比安 | - | - |
 | char_4146_nymph | 妮芙 | - | - |
 | char_4147_mitm | 渡桥 | - | - |

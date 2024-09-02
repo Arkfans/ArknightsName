@@ -1,4 +1,52 @@
 {
+  "enemy_10001_trslim": {
+    "zh_CN": "简饲源石虫"
+  },
+  "enemy_10001_trslim_2": {
+    "zh_CN": "精饲源石虫"
+  },
+  "enemy_10002_trtrsl": {
+    "zh_CN": "浆果虫"
+  },
+  "enemy_10002_trtrsl_2": {
+    "zh_CN": "硕果虫"
+  },
+  "enemy_10003_trwlpl": {
+    "zh_CN": "暴走食虫花"
+  },
+  "enemy_10003_trwlpl_2": {
+    "zh_CN": "暴走食人花"
+  },
+  "enemy_10004_trdiam": {
+    "zh_CN": "浆果磐蟹"
+  },
+  "enemy_10004_trdiam_2": {
+    "zh_CN": "硕果磐蟹"
+  },
+  "enemy_10005_trsmsb": {
+    "zh_CN": "染污战士"
+  },
+  "enemy_10005_trsmsb_2": {
+    "zh_CN": "染污勇士"
+  },
+  "enemy_10006_trsmgi": {
+    "zh_CN": "染秽魔像"
+  },
+  "enemy_10006_trsmgi_2": {
+    "zh_CN": "凶秽魔像"
+  },
+  "enemy_10007_trspsb": {
+    "zh_CN": "“酩酊”"
+  },
+  "enemy_10007_trspsb_2": {
+    "zh_CN": "陶醉的“酩酊”"
+  },
+  "enemy_10008_trbbox": {
+    "zh_CN": "宝箱恐鱼"
+  },
+  "enemy_10008_trbbox_2": {
+    "zh_CN": "宝箱海怪"
+  },
   "enemy_1000_gopro": {
     "en_US": "Hound",
     "ja_JP": "猟犬",
@@ -4357,6 +4405,9 @@
   },
   "enemy_1556_dsbish": {
     "zh_CN": "玛利图斯，“海嗣”"
+  },
+  "enemy_1557_trcerb": {
+    "zh_CN": "“三头犬”"
   },
   "enemy_1558_sgactr": {
     "zh_CN": "祖巴伊达姆，从往昔来"

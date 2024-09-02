@@ -737,6 +737,12 @@
   "act35side_zone3": {
     "zh_CN": "藏珍宝库"
   },
+  "act36side_zone1": {
+    "zh_CN": "品尝魔物"
+  },
+  "act36side_zone2": {
+    "zh_CN": "走遍泰拉"
+  },
   "act3bossrush_zone1": {
     "en_US": "Threat Incoming",
     "ja_JP": "強敵襲来",

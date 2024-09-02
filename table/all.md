@@ -289,6 +289,10 @@ tip: 请善用浏览器的搜索功能
 | char_4138_narant | 娜仁图亚 | - | - |
 | char_4139_papyrs | 莎草 | - | - |
 | char_4140_lasher | 衡沙 | - | - |
+| char_4141_marcil | 玛露西尔 | - | - |
+| char_4142_laios | 莱欧斯 | - | - |
+| char_4143_sensi | 森西 | - | - |
+| char_4144_chilc | 齐尔查克 | - | - |
 | char_4145_ulpia | 乌尔比安 | - | - |
 | char_4146_nymph | 妮芙 | - | - |
 | char_4147_mitm | 渡桥 | - | - |
@@ -561,6 +565,14 @@ tip: 请善用浏览器的搜索功能
 | trap_166_muwork | 折叠设施维护员 | - | - |
 | trap_167_muruinf | 折叠式维护车 | - | - |
 | trap_169_muruinb | 折叠式后勤站 | - | - |
+| trap_171_trpot | 很大的锅 | - | - |
+| trap_172_trbox | “宝箱” | - | - |
+| trap_173_slfrut | 闪亮果实 | - | - |
+| trap_174_smfrut | 奇异黑光果实 | - | - |
+| trap_175_frfrut | 香甜烤果子 | - | - |
+| trap_176_frutwn | 缤纷果酒 | - | - |
+| trap_177_tentcl | 宝箱的肉？ | - | - |
+| trap_178_trrbox | "宝箱“ | - | - |
 | trap_179_muctrl | 促融共竞控制 | - | - |
 | trap_180_dsblock | 封印的地面 | - | - |
 | trap_181_sgray | 结晶消除桩 | - | - |
@@ -774,6 +786,7 @@ tip: 请善用浏览器的搜索功能
 | char_101_sora@summer#1 | 夏卉 FA361 | Summer Flowers FA361 | 夏の花弁FA361 |
 | char_1020_reed2@epoque#30 | 博物 | Curator | 歴史に囲まれて |
 | char_1020_reed2@summer#17 | 夏卉 FA075 | - | - |
+| char_1021_kroos2@game#3 | 新手光环 | - | - |
 | char_1021_kroos2@nian#8 | 廊下游 | Along the Corridor | 長廊遊 |
 | char_1023_ghost2@boc#6 | 生而为一 | Born as One | 対なる一人 |
 | char_1026_gvial2@summer#12 | 悠然假日 HD26 | Holiday HD26 | ホリデーHD26 |
@@ -948,6 +961,7 @@ tip: 请善用浏览器的搜索功能
 | char_300_phenxi@witch#4 | 至圣誓言 | Divine Oath | 至聖の誓言 |
 | char_302_glaze@summer#11 | 悠然假日 HD29 | Holiday HD29 | ホリデーHD29 |
 | char_304_zebra@wild#6 | 幽苔 | Tranquil Moss | 幽谷の緑苔 |
+| char_306_leizi@game#3 | 遗迹游学者 | - | - |
 | char_308_swire@nian#2 | 富贵荣华 | Honor and Splendor | 富貴栄華 |
 | char_311_mudrok@ambienceSynesthesia#2 | 黑曜石 | Obsidian | オブシディアン |
 | char_311_mudrok@summer#6 | 静谧午夜 DN06 | Silent Night DN06 | 安息の午夜DN06 |
@@ -999,6 +1013,7 @@ tip: 请善用浏览器的搜索功能
 | char_4004_pudd@snow#5 | 火树灵 | Gleaming Fey | 煌めく精霊 |
 | char_4006_melnte@epoque#33 | 赴宴 | - | - |
 | char_4009_irene@ambienceSynesthesia#3 | 飞羽 | Voyage of Feathers | 飛び立つ羽 |
+| char_4009_irene@game#3 | 至高判决 | - | - |
 | char_400_weedy@sightseer#1 | 倾听 | - | - |
 | char_400_weedy@snow#2 | 糖果仙子 | Candy Cape | キャンディフェアリー |
 | char_4013_kjera@epoque#18 | 灵巧侍者 | Ingenious Servant | 腕利き侍女 |
@@ -1048,6 +1063,7 @@ tip: 请善用浏览器的搜索功能
 | char_4123_ela@rainbow6#2 | 密室 | - | - |
 | char_4124_iana@rainbow6#2 | 镜廊 | - | - |
 | char_4125_rdoc@rainbow6#2 | 展览 | - | - |
+| char_4141_marcil@dungeon#1 | 泰拉冒险 | - | - |
 | char_415_flint@boc#3 | 绚烂夏花 | Gorgeous Flower | 紫藤繚乱 |
 | char_416_zumama@boc#3 | 熔锻铸匠 | Forgemaster | 熔冶工匠 |
 | char_420_flamtl@game#2 | 小健将 | Sport For All | サイバー闘技者 |
@@ -1121,6 +1137,22 @@ tip: 请善用浏览器的搜索功能
 | witch | 巫异盛宴  | Witch Feast | WitchFeast  |
 | xmas | 冰原信使 | Icefield Messenger | I.M |
 | yun | 0011/韵系列 | 0011/Yun | 0011/韻 |
+| enemy_10001_trslim | 简饲源石虫 | - | - |
+| enemy_10001_trslim_2 | 精饲源石虫 | - | - |
+| enemy_10002_trtrsl | 浆果虫 | - | - |
+| enemy_10002_trtrsl_2 | 硕果虫 | - | - |
+| enemy_10003_trwlpl | 暴走食虫花 | - | - |
+| enemy_10003_trwlpl_2 | 暴走食人花 | - | - |
+| enemy_10004_trdiam | 浆果磐蟹 | - | - |
+| enemy_10004_trdiam_2 | 硕果磐蟹 | - | - |
+| enemy_10005_trsmsb | 染污战士 | - | - |
+| enemy_10005_trsmsb_2 | 染污勇士 | - | - |
+| enemy_10006_trsmgi | 染秽魔像 | - | - |
+| enemy_10006_trsmgi_2 | 凶秽魔像 | - | - |
+| enemy_10007_trspsb | “酩酊” | - | - |
+| enemy_10007_trspsb_2 | 陶醉的“酩酊” | - | - |
+| enemy_10008_trbbox | 宝箱恐鱼 | - | - |
+| enemy_10008_trbbox_2 | 宝箱海怪 | - | - |
 | enemy_1000_gopro | 猎狗 | Hound | 猟犬 |
 | enemy_1000_gopro_2 | 猎狗pro | Hound Pro | 上級猟犬 |
 | enemy_1000_gopro_3 | 狂暴的猎狗pro | Rabid Hound Pro | 凶暴猟犬 |
@@ -2034,6 +2066,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1553_lrdead | 引火的死魂灵 | - | - |
 | enemy_1554_lrtsia | 特蕾西娅 | - | - |
 | enemy_1556_dsbish | 玛利图斯，“海嗣” | - | - |
+| enemy_1557_trcerb | “三头犬” | - | - |
 | enemy_1558_sgactr | 祖巴伊达姆，从往昔来 | - | - |
 | enemy_2001_duckmi | 鸭爵 | Duck Lord | ダック卿 |
 | enemy_2002_bearmi | 高普尼克 | Gopnik | ゴプニク |
@@ -2378,6 +2411,7 @@ tip: 请善用浏览器的搜索功能
 | act34sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act35side | 太阳甩在身后 | - | - |
 | act35sign | 清光邀月——月饼烘焙小教程 | Moonlight Invite - Mooncake-Making Tutorial | 清風明月-ロドス点心教室 |
+| act36side | 泰拉饭 | - | - |
 | act36sign | 步上双塔之时签到活动 | Climbing the Twin Spires Sign-In Event | 双塔の高みを目指してスタンプラリー |
 | act37sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act38d1 | 尖灭测试作战 | Pinch-Out Experimental Operation | 尖滅試験作戦 |
@@ -2394,6 +2428,7 @@ tip: 请善用浏览器的搜索功能
 | act40sign | 无终奇语签到活动 | - | - |
 | act41sign | 沉沙赫日签到活动 | - | - |
 | act42d0 | 纷争演绎 | Design of Strife | 紛争演繹 |
+| act42sign | 品鉴泰拉魔物 | - | - |
 | act4bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act4d0 | 战地秘闻 | Operational Intelligence | 戦地の逸話 |
 | act4d2 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -2450,6 +2485,7 @@ tip: 请善用浏览器的搜索功能
 | karlan | 喀兰贸易 | Karlan Trade CO., LTD | カランド貿易 |
 | kazimierz | 卡西米尔 | Kazimierz | カジミエーシュ |
 | kjerag | 谢拉格 | Kjerag | イェラグ |
+| laios | 莱欧斯小队 | - | - |
 | laterano | 拉特兰 | Laterano | ラテラーノ |
 | lee | 鲤氏侦探事务所 | Lee's Detective Agency | リー探偵事務所 |
 | leithanien | 莱塔尼亚 | Leithanien | リターニア |
@@ -2624,6 +2660,7 @@ tip: 请善用浏览器的搜索功能
 | LINKAGE_TKT_GACHA_10_3601 | 指引明路寻访凭证 | Scouting the Light Headhunting Permit | ハンター凱旋10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_3602 | 合作限定十连寻访凭证 | Collaboration Limited Ten-roll Headhunting Permit | ハンター凱旋10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_4801 | 特勤专家寻访凭证 | - | - |
+| LINKAGE_TKT_GACHA_10_5401 | 好好吃饭寻访凭证 | - | - |
 | LMTGS_COIN_1401 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_1601 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_1803 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
@@ -2759,6 +2796,7 @@ tip: 请善用浏览器的搜索功能
 | act33side_token_sugar | 粗制糖块 | - | - |
 | act34side_token_chip | “应急物资”蓝图芯片 | - | - |
 | act35side_token_dust | 流光之沙 | - | - |
+| act36side_token_recipe | 今日食谱 | - | - |
 | act38d1_token_coin | 晶化源石 | Crystalized Originium | 結晶化源石 |
 | act3bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act3bossrush_relic_01 | 恢复增幅 | Recovery Boost | 癒しの増幅 |
@@ -3325,6 +3363,10 @@ tip: 请善用浏览器的搜索功能
 | p_char_4138_narant | 娜仁图亚的信物 | - | - |
 | p_char_4139_papyrs | 莎草的信物 | - | - |
 | p_char_4140_lasher | 衡沙的信物 | - | - |
+| p_char_4141_marcil | 玛露西尔的信物 | - | - |
+| p_char_4142_laios | 莱欧斯的信物 | - | - |
+| p_char_4143_sensi | 森西的信物 | - | - |
+| p_char_4144_chilc | 齐尔查克的信物 | - | - |
 | p_char_4145_ulpia | 乌尔比安的信物 | - | - |
 | p_char_4146_nymph | 妮芙的信物 | - | - |
 | p_char_4147_mitm | 渡桥的信物 | - | - |
@@ -3639,6 +3681,7 @@ tip: 请善用浏览器的搜索功能
 | LINKAGE_36_0_1 | 砺火成锋 | - | - |
 | LINKAGE_48_0_1 | 突破，援助，任务循环 | - | - |
 | LINKAGE_48_0_3 | 进攻·防守·战术交汇 | - | - |
+| LINKAGE_54_0_1 | 泰拉饭，呜呼，泰拉饭 | - | - |
 | NORM_0_1_3 | 银灰色的荣耀 | - | - |
 | NORM_10_0_1 | 雾漫荒林 | - | - |
 | NORM_10_0_3 | 雪落晨心 | - | - |
@@ -3940,6 +3983,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_chen_2 | 赤霄·拔刀 | Chi Xiao - Unsheath | 赤霄・抜刀 |
 | skchr_chen_3 | 赤霄·绝影 | Chi Xiao - Shadowless | 赤霄・絶影 |
 | skchr_chiave_2 | 火焰剥离 | Blazing Wire Stripper | 火炎剥離 |
+| skchr_chilc_1 | 开锁工具 | - | - |
+| skchr_chilc_2 | 随机应变 | - | - |
 | skchr_chimes_2 | 乡心无改 | Longing for Home | 郷思の念 |
 | skchr_chnut_1 | 积微成著 | Little by Little | 積土成山 |
 | skchr_chnut_2 | 厚土迸发 | Rising Earth | 厚土の脈動 |
@@ -4143,6 +4188,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_kroos2_1 | 无痕 | Traceless | 無痕 |
 | skchr_kroos2_2 | 封喉 | Silencer | 矢継ぎ早 |
 | skchr_kroos_1 | 二连射·自动 | Double Tap - Auto | 2点・バースト |
+| skchr_laios_1 | 胆小剑助 | - | - |
+| skchr_laios_2 | 威吓战法 | - | - |
 | skchr_lasher_1 | 上紧发条 | - | - |
 | skchr_lasher_2 | 权知轻重 | - | - |
 | skchr_lava2_1 | 焰淬匕首 | Flame Quenched Dagger | フレイムエンチャント |
@@ -4182,6 +4229,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_malist_2 | 神工意匠 | Prodigious Craftsmanship | マスターピース |
 | skchr_mantic_1 | 蝎毒 | Scorpion Venom | アジトキシン |
 | skchr_mantic_2 | 蓄力毒尾击 | Toxic Overload | スコーピオンテール |
+| skchr_marcil_1 | 才女的实力 | - | - |
+| skchr_marcil_2 | 召唤使魔 | - | - |
+| skchr_marcil_3 | 爆破魔法 | - | - |
 | skchr_mberry_1 | 治愈云雾 | Healing Haze | ヒーリングミスト |
 | skchr_mberry_2 | 安全区域 | Safe Zone | セーフティゾーン |
 | skchr_melnte_1 | 饱和脉冲 | Saturated Pulse | 飽和パルス |
@@ -4322,6 +4372,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_savage_2 | 微差爆破 | Precise Blast | 精密起爆 |
 | skchr_scave_2 | 冲锋号令·攻击 | Command - Attack | 突撃指令・攻撃 |
 | skchr_sddrag_2 | 生灵火花 | Soul Spark | マナスパーク |
+| skchr_sensi_1 | 单人份料理 | - | - |
+| skchr_sensi_2 | 团体魔物大餐 | - | - |
 | skchr_serum_1 | 专注力超载 | Focus Overload | 過集中 |
 | skchr_serum_2 | 传导蚀滞弹 | Conductive Corrosive Blast | 神経蝕滞弾 |
 | skchr_sesa_2 | 延时震荡零件 | Delayed Concussive Parts | ディレイドボンバー |
@@ -4790,7 +4842,10 @@ tip: 请善用浏览器的搜索功能
 | sktok_tower | 法术传输协议 | Arts Transfer Protocol | アーツ転送プロトコル |
 | sktok_trademan_1 | 触发对话 | Trigger Dialogue | 会話発生 |
 | sktok_trademan_summon | 触发对话 | Trigger Dialogue | 会話発生 |
+| sktok_trbox_1 | 开箱！ | - | - |
 | sktok_tree | 天然隐蔽 | Natural Camouflage | きのこガード |
+| sktok_trpot_1 | 开饭！ | - | - |
+| sktok_trrbox_1 | 开箱！ | - | - |
 | sktok_trsrhuntr | 触发对话 | Trigger Dialogue | 会話発生 |
 | sktok_trsrhuntr_1 | 触发对话 | Trigger Dialogue | 会話発生 |
 | sktok_truamr | “甜蜜狂搅” | 'Supersweetie Superblend' | 「スイート・スーパーブレンド」 |
@@ -5549,6 +5604,15 @@ tip: 请善用浏览器的搜索功能
 | act35side_st02 | 苏醒的城市 | - | - |
 | act35side_st03 | 十字路口，再出发 | - | - |
 | act35side_tr01 | 护卫队演练 | - | - |
+| act36side_01 | 源石虫农家乐 | - | - |
+| act36side_02 | 雨林解毒炖汤 | - | - |
+| act36side_03 | 黄金萝卜 | - | - |
+| act36side_04 | 烤串与预言 | - | - |
+| act36side_05 | 会饮图 | - | - |
+| act36side_06 | 海鲜拼盘 | - | - |
+| act36side_07 | 健康零食 | - | - |
+| act36side_08 | 罗德岛大食堂 | - | - |
+| act36side_tr01 | 美食指南 | - | - |
 | act3bossrush_01 | 适者生存 | Survival of the Fittest | 適者生存 |
 | act3bossrush_02 | 惊惧与血色 | Blood and Terror | 恐怖と血色 |
 | act3bossrush_03 | 不测之渊 | Deep in Danger | 不測の淵 |
@@ -6312,6 +6376,8 @@ tip: 请善用浏览器的搜索功能
 | act35side_zone1 | 市民花园 | - | - |
 | act35side_zone2 | 丰获集会 | - | - |
 | act35side_zone3 | 藏珍宝库 | - | - |
+| act36side_zone1 | 品尝魔物 | - | - |
+| act36side_zone2 | 走遍泰拉 | - | - |
 | act3bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act4bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act5d0_zone1 | 下城区 | Downtown | 繁華街 |
@@ -6458,6 +6524,7 @@ tip: 请善用浏览器的搜索功能
 | story_bibeak_set_2_story_1 | 走出那条长长的走廊 | Through the Long Hallway | 長い廊下を抜けて |
 | story_billro_set_1_story_1 | 保护者的本性 | Protector's Nature | 保護者の本能 |
 | story_bison_set_1_story_1 | 充实的假期 | A Fulfilling Holiday | 充実した休み |
+| story_blackd_set_1_story_1 | 希瓦艾什的影子 | - | - |
 | story_bldsk_set_1_story_1 | 怪物 | 'Monster' | モンスター |
 | story_bldsk_set_2_story_1 | 难得认真 | Rarely Serious | たまには真剣に |
 | story_blemsh_set_1_story_1 | 心甘情愿 | Ready to Serve | 望むままに |
@@ -6529,6 +6596,7 @@ tip: 请善用浏览器的搜索功能
 | story_frncat_set_1_story_1 | 小点心 | Sweetheart | マイスウィーティ |
 | story_frostl_set_1_story_1 | 识字本 | Learning to Read | 学習帳 |
 | story_fuze_set_1_story_1 | 梦醒时分 | - | - |
+| story_gdglow_set_1_story_1 | 纯属意外 | - | - |
 | story_ghost2_set_1_story_1 | 自我 | Selfhood | 自分 |
 | story_ghost_set_1_story_1 | 圣诞快乐！ | Merry Christmas! | メリークリスマス！ |
 | story_ghost_set_2_story_1 | 我，即是“我” | I, Namely I | 私は「私」 |
@@ -6602,6 +6670,7 @@ tip: 请善用浏览器的搜索功能
 | story_midn_set_1_story_1 | 一封家书 | Letter From Home | 故郷からの便り |
 | story_milu_set_1_story_1 | 在路上 | On My Way | 途上 |
 | story_mint_set_1_story_1 | 昔日重现 | Yesterday Once More | デジャヴ |
+| story_mitm_set_1_story_1 | 白纸黑字 | - | - |
 | story_mizuki_set_1_story_1 | 第五类接触 | The Fifth Contact | 第五種接近遭遇 |
 | story_mlyss_set_1_story_1 | 无根之雨 | April Showers | 根なしの雨 |
 | story_mm_set_1_story_1 | 大侦探探案集·卷一 | The Great Detective's Case Files - Volume I | 名探偵の事件簿・其の一 |
@@ -6717,6 +6786,7 @@ tip: 请善用浏览器的搜索功能
 | story_yak_set_1_story_1 | 一天 | One Day | 一日 |
 | story_yuki_set_1_story_1 | 忍者之道 | The Way of Shinobi | 忍びの道 |
 | story_zebra_set_1_story_1 | 不合时宜 | Untimeliness | 場違い |
+| story_zumama_set_1_story_1 | 密林狂想 | - | - |
 | rogue_1 | 傀影与猩红孤钻 | Phantom & Crimson Solitaire | ファントムと緋き貴石 |
 | rogue_2 | 水月与深蓝之树 | Mizuki & Caerula Arbor | ミヅキと紺碧の樹 |
 | rogue_3 | 探索者的银凇止境 | Expeditioner's Jǫklumarkar | 探索者と銀氷の果て |

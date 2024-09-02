@@ -662,6 +662,15 @@ tip: 请善用浏览器的搜索功能
 | act35side_st02 | 苏醒的城市 | - | - |
 | act35side_st03 | 十字路口，再出发 | - | - |
 | act35side_tr01 | 护卫队演练 | - | - |
+| act36side_01 | 源石虫农家乐 | - | - |
+| act36side_02 | 雨林解毒炖汤 | - | - |
+| act36side_03 | 黄金萝卜 | - | - |
+| act36side_04 | 烤串与预言 | - | - |
+| act36side_05 | 会饮图 | - | - |
+| act36side_06 | 海鲜拼盘 | - | - |
+| act36side_07 | 健康零食 | - | - |
+| act36side_08 | 罗德岛大食堂 | - | - |
+| act36side_tr01 | 美食指南 | - | - |
 | act3bossrush_01 | 适者生存 | Survival of the Fittest | 適者生存 |
 | act3bossrush_02 | 惊惧与血色 | Blood and Terror | 恐怖と血色 |
 | act3bossrush_03 | 不测之渊 | Deep in Danger | 不測の淵 |

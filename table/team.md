@@ -22,6 +22,7 @@ tip: 请善用浏览器的搜索功能
 | karlan | 喀兰贸易 | Karlan Trade CO., LTD | カランド貿易 |
 | kazimierz | 卡西米尔 | Kazimierz | カジミエーシュ |
 | kjerag | 谢拉格 | Kjerag | イェラグ |
+| laios | 莱欧斯小队 | - | - |
 | laterano | 拉特兰 | Laterano | ラテラーノ |
 | lee | 鲤氏侦探事务所 | Lee's Detective Agency | リー探偵事務所 |
 | leithanien | 莱塔尼亚 | Leithanien | リターニア |

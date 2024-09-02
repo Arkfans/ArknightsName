@@ -155,6 +155,7 @@ tip: 请善用浏览器的搜索功能
 | LINKAGE_TKT_GACHA_10_3601 | 指引明路寻访凭证 | Scouting the Light Headhunting Permit | ハンター凱旋10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_3602 | 合作限定十连寻访凭证 | Collaboration Limited Ten-roll Headhunting Permit | ハンター凱旋10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_4801 | 特勤专家寻访凭证 | - | - |
+| LINKAGE_TKT_GACHA_10_5401 | 好好吃饭寻访凭证 | - | - |
 | LMTGS_COIN_1401 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_1601 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_1803 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
@@ -290,6 +291,7 @@ tip: 请善用浏览器的搜索功能
 | act33side_token_sugar | 粗制糖块 | - | - |
 | act34side_token_chip | “应急物资”蓝图芯片 | - | - |
 | act35side_token_dust | 流光之沙 | - | - |
+| act36side_token_recipe | 今日食谱 | - | - |
 | act38d1_token_coin | 晶化源石 | Crystalized Originium | 結晶化源石 |
 | act3bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act3bossrush_relic_01 | 恢复增幅 | Recovery Boost | 癒しの増幅 |
@@ -856,6 +858,10 @@ tip: 请善用浏览器的搜索功能
 | p_char_4138_narant | 娜仁图亚的信物 | - | - |
 | p_char_4139_papyrs | 莎草的信物 | - | - |
 | p_char_4140_lasher | 衡沙的信物 | - | - |
+| p_char_4141_marcil | 玛露西尔的信物 | - | - |
+| p_char_4142_laios | 莱欧斯的信物 | - | - |
+| p_char_4143_sensi | 森西的信物 | - | - |
+| p_char_4144_chilc | 齐尔查克的信物 | - | - |
 | p_char_4145_ulpia | 乌尔比安的信物 | - | - |
 | p_char_4146_nymph | 妮芙的信物 | - | - |
 | p_char_4147_mitm | 渡桥的信物 | - | - |

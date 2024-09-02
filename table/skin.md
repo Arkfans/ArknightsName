@@ -23,6 +23,7 @@ tip: 请善用浏览器的搜索功能
 | char_101_sora@summer#1 | 夏卉 FA361 | Summer Flowers FA361 | 夏の花弁FA361 |
 | char_1020_reed2@epoque#30 | 博物 | Curator | 歴史に囲まれて |
 | char_1020_reed2@summer#17 | 夏卉 FA075 | - | - |
+| char_1021_kroos2@game#3 | 新手光环 | - | - |
 | char_1021_kroos2@nian#8 | 廊下游 | Along the Corridor | 長廊遊 |
 | char_1023_ghost2@boc#6 | 生而为一 | Born as One | 対なる一人 |
 | char_1026_gvial2@summer#12 | 悠然假日 HD26 | Holiday HD26 | ホリデーHD26 |
@@ -197,6 +198,7 @@ tip: 请善用浏览器的搜索功能
 | char_300_phenxi@witch#4 | 至圣誓言 | Divine Oath | 至聖の誓言 |
 | char_302_glaze@summer#11 | 悠然假日 HD29 | Holiday HD29 | ホリデーHD29 |
 | char_304_zebra@wild#6 | 幽苔 | Tranquil Moss | 幽谷の緑苔 |
+| char_306_leizi@game#3 | 遗迹游学者 | - | - |
 | char_308_swire@nian#2 | 富贵荣华 | Honor and Splendor | 富貴栄華 |
 | char_311_mudrok@ambienceSynesthesia#2 | 黑曜石 | Obsidian | オブシディアン |
 | char_311_mudrok@summer#6 | 静谧午夜 DN06 | Silent Night DN06 | 安息の午夜DN06 |
@@ -248,6 +250,7 @@ tip: 请善用浏览器的搜索功能
 | char_4004_pudd@snow#5 | 火树灵 | Gleaming Fey | 煌めく精霊 |
 | char_4006_melnte@epoque#33 | 赴宴 | - | - |
 | char_4009_irene@ambienceSynesthesia#3 | 飞羽 | Voyage of Feathers | 飛び立つ羽 |
+| char_4009_irene@game#3 | 至高判决 | - | - |
 | char_400_weedy@sightseer#1 | 倾听 | - | - |
 | char_400_weedy@snow#2 | 糖果仙子 | Candy Cape | キャンディフェアリー |
 | char_4013_kjera@epoque#18 | 灵巧侍者 | Ingenious Servant | 腕利き侍女 |
@@ -297,6 +300,7 @@ tip: 请善用浏览器的搜索功能
 | char_4123_ela@rainbow6#2 | 密室 | - | - |
 | char_4124_iana@rainbow6#2 | 镜廊 | - | - |
 | char_4125_rdoc@rainbow6#2 | 展览 | - | - |
+| char_4141_marcil@dungeon#1 | 泰拉冒险 | - | - |
 | char_415_flint@boc#3 | 绚烂夏花 | Gorgeous Flower | 紫藤繚乱 |
 | char_416_zumama@boc#3 | 熔锻铸匠 | Forgemaster | 熔冶工匠 |
 | char_420_flamtl@game#2 | 小健将 | Sport For All | サイバー闘技者 |

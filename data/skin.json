@@ -81,6 +81,9 @@
   "char_1020_reed2@summer#17": {
     "zh_CN": "夏卉 FA075"
   },
+  "char_1021_kroos2@game#3": {
+    "zh_CN": "新手光环"
+  },
   "char_1021_kroos2@nian#8": {
     "en_US": "Along the Corridor",
     "ja_JP": "長廊遊",
@@ -923,6 +926,9 @@
     "ja_JP": "幽谷の緑苔",
     "zh_CN": "幽苔"
   },
+  "char_306_leizi@game#3": {
+    "zh_CN": "遗迹游学者"
+  },
   "char_308_swire@nian#2": {
     "en_US": "Honor and Splendor",
     "ja_JP": "富貴栄華",
@@ -1170,6 +1176,9 @@
     "ja_JP": "飛び立つ羽",
     "zh_CN": "飞羽"
   },
+  "char_4009_irene@game#3": {
+    "zh_CN": "至高判决"
+  },
   "char_400_weedy@sightseer#1": {
     "zh_CN": "倾听"
   },
@@ -1384,6 +1393,9 @@
   },
   "char_4125_rdoc@rainbow6#2": {
     "zh_CN": "展览"
+  },
+  "char_4141_marcil@dungeon#1": {
+    "zh_CN": "泰拉冒险"
   },
   "char_415_flint@boc#3": {
     "en_US": "Gorgeous Flower",

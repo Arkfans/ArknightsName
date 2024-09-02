@@ -743,6 +743,9 @@
   "LINKAGE_TKT_GACHA_10_4801": {
     "zh_CN": "特勤专家寻访凭证"
   },
+  "LINKAGE_TKT_GACHA_10_5401": {
+    "zh_CN": "好好吃饭寻访凭证"
+  },
   "LMTGS_COIN_1401": {
     "en_US": "Headhunting Data Contract",
     "ja_JP": "限定契約証",
@@ -1387,6 +1390,9 @@
   },
   "act35side_token_dust": {
     "zh_CN": "流光之沙"
+  },
+  "act36side_token_recipe": {
+    "zh_CN": "今日食谱"
   },
   "act38d1_token_coin": {
     "en_US": "Crystalized Originium",
@@ -4119,6 +4125,18 @@
   },
   "p_char_4140_lasher": {
     "zh_CN": "衡沙的信物"
+  },
+  "p_char_4141_marcil": {
+    "zh_CN": "玛露西尔的信物"
+  },
+  "p_char_4142_laios": {
+    "zh_CN": "莱欧斯的信物"
+  },
+  "p_char_4143_sensi": {
+    "zh_CN": "森西的信物"
+  },
+  "p_char_4144_chilc": {
+    "zh_CN": "齐尔查克的信物"
   },
   "p_char_4145_ulpia": {
     "zh_CN": "乌尔比安的信物"

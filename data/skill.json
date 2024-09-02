@@ -634,6 +634,12 @@
     "ja_JP": "火炎剥離",
     "zh_CN": "火焰剥离"
   },
+  "skchr_chilc_1": {
+    "zh_CN": "开锁工具"
+  },
+  "skchr_chilc_2": {
+    "zh_CN": "随机应变"
+  },
   "skchr_chimes_2": {
     "en_US": "Longing for Home",
     "ja_JP": "郷思の念",
@@ -1627,6 +1633,12 @@
     "ja_JP": "2点・バースト",
     "zh_CN": "二连射·自动"
   },
+  "skchr_laios_1": {
+    "zh_CN": "胆小剑助"
+  },
+  "skchr_laios_2": {
+    "zh_CN": "威吓战法"
+  },
   "skchr_lasher_1": {
     "zh_CN": "上紧发条"
   },
@@ -1807,6 +1819,15 @@
     "en_US": "Toxic Overload",
     "ja_JP": "スコーピオンテール",
     "zh_CN": "蓄力毒尾击"
+  },
+  "skchr_marcil_1": {
+    "zh_CN": "才女的实力"
+  },
+  "skchr_marcil_2": {
+    "zh_CN": "召唤使魔"
+  },
+  "skchr_marcil_3": {
+    "zh_CN": "爆破魔法"
   },
   "skchr_mberry_1": {
     "en_US": "Healing Haze",
@@ -2473,6 +2494,12 @@
     "en_US": "Soul Spark",
     "ja_JP": "マナスパーク",
     "zh_CN": "生灵火花"
+  },
+  "skchr_sensi_1": {
+    "zh_CN": "单人份料理"
+  },
+  "skchr_sensi_2": {
+    "zh_CN": "团体魔物大餐"
   },
   "skchr_serum_1": {
     "en_US": "Focus Overload",
@@ -4688,10 +4715,19 @@
     "ja_JP": "会話発生",
     "zh_CN": "触发对话"
   },
+  "sktok_trbox_1": {
+    "zh_CN": "开箱！"
+  },
   "sktok_tree": {
     "en_US": "Natural Camouflage",
     "ja_JP": "きのこガード",
     "zh_CN": "天然隐蔽"
+  },
+  "sktok_trpot_1": {
+    "zh_CN": "开饭！"
+  },
+  "sktok_trrbox_1": {
+    "zh_CN": "开箱！"
   },
   "sktok_trsrhuntr": {
     "en_US": "Trigger Dialogue",

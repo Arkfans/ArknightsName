@@ -2235,6 +2235,30 @@
       "zh_CN": "衡沙"
     }
   },
+  "char_4141_marcil": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "玛露西尔"
+    }
+  },
+  "char_4142_laios": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "莱欧斯"
+    }
+  },
+  "char_4143_sensi": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "森西"
+    }
+  },
+  "char_4144_chilc": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "齐尔查克"
+    }
+  },
   "char_4145_ulpia": {
     "type": "OPERATOR",
     "names": {
@@ -4353,6 +4377,54 @@
       "zh_CN": "折叠式后勤站"
     }
   },
+  "trap_171_trpot": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "很大的锅"
+    }
+  },
+  "trap_172_trbox": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "“宝箱”"
+    }
+  },
+  "trap_173_slfrut": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "闪亮果实"
+    }
+  },
+  "trap_174_smfrut": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "奇异黑光果实"
+    }
+  },
+  "trap_175_frfrut": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "香甜烤果子"
+    }
+  },
+  "trap_176_frutwn": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "缤纷果酒"
+    }
+  },
+  "trap_177_tentcl": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "宝箱的肉？"
+    }
+  },
+  "trap_178_trrbox": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "\"宝箱“"
+    }
+  },
   "trap_179_muctrl": {
     "type": "TRAP",
     "names": {
@@ -5883,6 +5955,12 @@
       "zh_CN": "夏卉 FA075"
     }
   },
+  "char_1021_kroos2@game#3": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "新手光环"
+    }
+  },
   "char_1021_kroos2@nian#8": {
     "type": "SKIN",
     "names": {
@@ -7247,6 +7325,12 @@
       "zh_CN": "幽苔"
     }
   },
+  "char_306_leizi@game#3": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "遗迹游学者"
+    }
+  },
   "char_308_swire@nian#2": {
     "type": "SKIN",
     "names": {
@@ -7647,6 +7731,12 @@
       "zh_CN": "飞羽"
     }
   },
+  "char_4009_irene@game#3": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "至高判决"
+    }
+  },
   "char_400_weedy@sightseer#1": {
     "type": "SKIN",
     "names": {
@@ -8007,6 +8097,12 @@
     "type": "SKIN",
     "names": {
       "zh_CN": "展览"
+    }
+  },
+  "char_4141_marcil@dungeon#1": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "泰拉冒险"
     }
   },
   "char_415_flint@boc#3": {
@@ -8577,6 +8673,102 @@
       "en_US": "0011/Yun",
       "ja_JP": "0011/韻",
       "zh_CN": "0011/韵系列"
+    }
+  },
+  "enemy_10001_trslim": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "简饲源石虫"
+    }
+  },
+  "enemy_10001_trslim_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "精饲源石虫"
+    }
+  },
+  "enemy_10002_trtrsl": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "浆果虫"
+    }
+  },
+  "enemy_10002_trtrsl_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "硕果虫"
+    }
+  },
+  "enemy_10003_trwlpl": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "暴走食虫花"
+    }
+  },
+  "enemy_10003_trwlpl_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "暴走食人花"
+    }
+  },
+  "enemy_10004_trdiam": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "浆果磐蟹"
+    }
+  },
+  "enemy_10004_trdiam_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "硕果磐蟹"
+    }
+  },
+  "enemy_10005_trsmsb": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "染污战士"
+    }
+  },
+  "enemy_10005_trsmsb_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "染污勇士"
+    }
+  },
+  "enemy_10006_trsmgi": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "染秽魔像"
+    }
+  },
+  "enemy_10006_trsmgi_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "凶秽魔像"
+    }
+  },
+  "enemy_10007_trspsb": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“酩酊”"
+    }
+  },
+  "enemy_10007_trspsb_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "陶醉的“酩酊”"
+    }
+  },
+  "enemy_10008_trbbox": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "宝箱恐鱼"
+    }
+  },
+  "enemy_10008_trbbox_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "宝箱海怪"
     }
   },
   "enemy_1000_gopro": {
@@ -15671,6 +15863,12 @@
       "zh_CN": "玛利图斯，“海嗣”"
     }
   },
+  "enemy_1557_trcerb": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“三头犬”"
+    }
+  },
   "enemy_1558_sgactr": {
     "type": "ENEMY",
     "names": {
@@ -18253,6 +18451,12 @@
       "zh_CN": "清光邀月——月饼烘焙小教程"
     }
   },
+  "act36side": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "泰拉饭"
+    }
+  },
   "act36sign": {
     "type": "ACTIVITY",
     "names": {
@@ -18369,6 +18573,12 @@
       "en_US": "Design of Strife",
       "ja_JP": "紛争演繹",
       "zh_CN": "纷争演绎"
+    }
+  },
+  "act42sign": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "品鉴泰拉魔物"
     }
   },
   "act4bossrush": {
@@ -18800,6 +19010,12 @@
       "en_US": "Kjerag",
       "ja_JP": "イェラグ",
       "zh_CN": "谢拉格"
+    }
+  },
+  "laios": {
+    "type": "TEAM",
+    "names": {
+      "zh_CN": "莱欧斯小队"
     }
   },
   "laterano": {
@@ -20188,6 +20404,12 @@
       "zh_CN": "特勤专家寻访凭证"
     }
   },
+  "LINKAGE_TKT_GACHA_10_5401": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "好好吃饭寻访凭证"
+    }
+  },
   "LMTGS_COIN_1401": {
     "type": "ITEM",
     "names": {
@@ -21236,6 +21458,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "流光之沙"
+    }
+  },
+  "act36side_token_recipe": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "今日食谱"
     }
   },
   "act38d1_token_coin": {
@@ -25659,6 +25887,30 @@
       "zh_CN": "衡沙的信物"
     }
   },
+  "p_char_4141_marcil": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "玛露西尔的信物"
+    }
+  },
+  "p_char_4142_laios": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "莱欧斯的信物"
+    }
+  },
+  "p_char_4143_sensi": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "森西的信物"
+    }
+  },
+  "p_char_4144_chilc": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "齐尔查克的信物"
+    }
+  },
   "p_char_4145_ulpia": {
     "type": "ITEM",
     "names": {
@@ -28059,6 +28311,12 @@
       "zh_CN": "进攻·防守·战术交汇"
     }
   },
+  "LINKAGE_54_0_1": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "泰拉饭，呜呼，泰拉饭"
+    }
+  },
   "NORM_0_1_3": {
     "type": "POOL",
     "names": {
@@ -30205,6 +30463,18 @@
       "zh_CN": "火焰剥离"
     }
   },
+  "skchr_chilc_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "开锁工具"
+    }
+  },
+  "skchr_chilc_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "随机应变"
+    }
+  },
   "skchr_chimes_2": {
     "type": "SKILL",
     "names": {
@@ -31807,6 +32077,18 @@
       "zh_CN": "二连射·自动"
     }
   },
+  "skchr_laios_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "胆小剑助"
+    }
+  },
+  "skchr_laios_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "威吓战法"
+    }
+  },
   "skchr_lasher_1": {
     "type": "SKILL",
     "names": {
@@ -32103,6 +32385,24 @@
       "en_US": "Toxic Overload",
       "ja_JP": "スコーピオンテール",
       "zh_CN": "蓄力毒尾击"
+    }
+  },
+  "skchr_marcil_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "才女的实力"
+    }
+  },
+  "skchr_marcil_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "召唤使魔"
+    }
+  },
+  "skchr_marcil_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "爆破魔法"
     }
   },
   "skchr_mberry_1": {
@@ -33189,6 +33489,18 @@
       "en_US": "Soul Spark",
       "ja_JP": "マナスパーク",
       "zh_CN": "生灵火花"
+    }
+  },
+  "skchr_sensi_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "单人份料理"
+    }
+  },
+  "skchr_sensi_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "团体魔物大餐"
     }
   },
   "skchr_serum_1": {
@@ -36809,12 +37121,30 @@
       "zh_CN": "触发对话"
     }
   },
+  "sktok_trbox_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "开箱！"
+    }
+  },
   "sktok_tree": {
     "type": "SKILL",
     "names": {
       "en_US": "Natural Camouflage",
       "ja_JP": "きのこガード",
       "zh_CN": "天然隐蔽"
+    }
+  },
+  "sktok_trpot_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "开饭！"
+    }
+  },
+  "sktok_trrbox_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "开箱！"
     }
   },
   "sktok_trsrhuntr": {
@@ -42639,6 +42969,60 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "护卫队演练"
+    }
+  },
+  "act36side_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "源石虫农家乐"
+    }
+  },
+  "act36side_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "雨林解毒炖汤"
+    }
+  },
+  "act36side_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "黄金萝卜"
+    }
+  },
+  "act36side_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "烤串与预言"
+    }
+  },
+  "act36side_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "会饮图"
+    }
+  },
+  "act36side_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "海鲜拼盘"
+    }
+  },
+  "act36side_07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "健康零食"
+    }
+  },
+  "act36side_08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "罗德岛大食堂"
+    }
+  },
+  "act36side_tr01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "美食指南"
     }
   },
   "act3bossrush_01": {
@@ -48585,6 +48969,18 @@
       "zh_CN": "藏珍宝库"
     }
   },
+  "act36side_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "品尝魔物"
+    }
+  },
+  "act36side_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "走遍泰拉"
+    }
+  },
   "act3bossrush_zone1": {
     "type": "ZONE",
     "names": {
@@ -49727,6 +50123,12 @@
       "zh_CN": "充实的假期"
     }
   },
+  "story_blackd_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "希瓦艾什的影子"
+    }
+  },
   "story_bldsk_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -50279,6 +50681,12 @@
     "type": "MEMORY",
     "names": {
       "zh_CN": "梦醒时分"
+    }
+  },
+  "story_gdglow_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "纯属意外"
     }
   },
   "story_ghost2_set_1_story_1": {
@@ -50847,6 +51255,12 @@
       "en_US": "Yesterday Once More",
       "ja_JP": "デジャヴ",
       "zh_CN": "昔日重现"
+    }
+  },
+  "story_mitm_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "白纸黑字"
     }
   },
   "story_mizuki_set_1_story_1": {
@@ -51743,6 +52157,12 @@
       "en_US": "Untimeliness",
       "ja_JP": "場違い",
       "zh_CN": "不合时宜"
+    }
+  },
+  "story_zumama_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "密林狂想"
     }
   },
   "rogue_1": {
