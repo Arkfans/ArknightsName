@@ -453,9 +453,11 @@
     "zh_CN": "始发营地"
   },
   "act1r6sre_zone1": {
+    "ja_JP": "作戦記録",
     "zh_CN": "行动记录"
   },
   "act1r6sre_zone2": {
+    "ja_JP": "戦闘訓練",
     "zh_CN": "备战训练"
   },
   "act20side_zone1": {
@@ -708,9 +710,11 @@
     "zh_CN": "大江北岸"
   },
   "act32side_zone1": {
+    "ja_JP": "アート探訪",
     "zh_CN": "展厅漫游"
   },
   "act32side_zone2": {
+    "ja_JP": "降下作戦",
     "zh_CN": "高速空降"
   },
   "act33side_zone1": {

@@ -96,8 +96,8 @@ tip: 请善用浏览器的搜索功能
 | act19sre_zone2 | 莱茵总部 | Rhine Headquarters | ライン生命本社 |
 | act1bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act1lock_zone1 | 始发营地 | Base Camp | 始発拠点 |
-| act1r6sre_zone1 | 行动记录 | - | - |
-| act1r6sre_zone2 | 备战训练 | - | - |
+| act1r6sre_zone1 | 行动记录 | - | 作戦記録 |
+| act1r6sre_zone2 | 备战训练 | - | 戦闘訓練 |
 | act20side_zone1 | 地底观光 | Underground Sightseeing | 地底観光 |
 | act20side_zone2 | 文化冲击 | Cultural Shock | 異文化交流 |
 | act20side_zone3 | 升降梯整备 | Elevator Maintenance | 昇降機整備 |
@@ -151,8 +151,8 @@ tip: 请善用浏览器的搜索功能
 | act31side_zone1 | 种植地块 | Agricultural Plate | 栽培区画 |
 | act31side_zone2 | 荒城核心 | City Core | 荒城中枢 |
 | act31side_zone3 | 大江北岸 | Far Side of the Great River | 大江北岸 |
-| act32side_zone1 | 展厅漫游 | - | - |
-| act32side_zone2 | 高速空降 | - | - |
+| act32side_zone1 | 展厅漫游 | - | アート探訪 |
+| act32side_zone2 | 高速空降 | - | 降下作戦 |
 | act33side_zone1 | 我赠予未来 | - | - |
 | act33side_zone2 | 我驻留往昔 | - | - |
 | act33side_zone3 | 我始终如一 | - | - |

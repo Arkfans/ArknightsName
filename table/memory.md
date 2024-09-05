@@ -25,7 +25,7 @@ tip: 请善用浏览器的搜索功能
 | story_aroma_set_1_story_1 | 入职邀请 | - | - |
 | story_asbest_set_1_story_1 | 奇景 | Strange Sights | 奇景 |
 | story_ascln_set_1_story_1 | 同行人 | - | - |
-| story_ash_set_1_story_1 | 旅伴 | - | - |
+| story_ash_set_1_story_1 | 旅伴 | - | 旅仲間 |
 | story_astesi_set_1_story_1 | 启明 | Revelation | 照らし出す光 |
 | story_astesi_set_2_story_1 | 复耀 | Return to Radiance | 再び輝くために |
 | story_aurora_set_1_story_1 | 她所见 | What She Saw | 彼女の見たいもの |
@@ -41,7 +41,7 @@ tip: 请善用浏览器的搜索功能
 | story_bldsk_set_1_story_1 | 怪物 | 'Monster' | モンスター |
 | story_bldsk_set_2_story_1 | 难得认真 | Rarely Serious | たまには真剣に |
 | story_blemsh_set_1_story_1 | 心甘情愿 | Ready to Serve | 望むままに |
-| story_blitz_set_1_story_1 | 团队坚盾 | - | - |
+| story_blitz_set_1_story_1 | 团队坚盾 | - | チームの盾 |
 | story_blkngt_set_1_story_1 | 荒地生灵 | Souls of the Wilderness | 荒野に生まれ |
 | story_bluep_set_1_story_1 | 触不可及 | Untouchable | 遥か遠く |
 | story_bpipe_set_1_story_1 | 难行长路 | Dangerous Road | 険しい道のり |
@@ -84,7 +84,7 @@ tip: 请善用浏览器的搜索功能
 | story_durnar_set_2_story_1 | 杯中旧事 | A Glass with Old Stories | グラスに注ぐ思い出 |
 | story_dusk_set_1_story_1 | 旦夕 | Dawn and Dusk | 一朝一夕 |
 | story_ebnhlz_set_1_story_1 | 孤灯 | Lone Lamp | 灯の隻影 |
-| story_ela_set_1_story_1 | “宛如初见” | - | - |
+| story_ela_set_1_story_1 | “宛如初见” | - | 「初めまして」 |
 | story_elysm_set_1_story_1 | 漫长旅途 | Long Journey | 長き旅路 |
 | story_erato_set_1_story_1 | 英雄们的叙事诗 | The Epic of Heroes | 英雄たちの叙事詩 |
 | story_estell_set_1_story_1 | 她的一小步 | One Small Step For Her | その小さな一歩 |
@@ -108,7 +108,7 @@ tip: 请善用浏览器的搜索功能
 | story_franka_set_2_story_1 | 驻足 | To a Standstill | 足休め |
 | story_frncat_set_1_story_1 | 小点心 | Sweetheart | マイスウィーティ |
 | story_frostl_set_1_story_1 | 识字本 | Learning to Read | 学習帳 |
-| story_fuze_set_1_story_1 | 梦醒时分 | - | - |
+| story_fuze_set_1_story_1 | 梦醒时分 | - | 夢から覚めた時 |
 | story_gdglow_set_1_story_1 | 纯属意外 | - | - |
 | story_ghost2_set_1_story_1 | 自我 | Selfhood | 自分 |
 | story_ghost_set_1_story_1 | 圣诞快乐！ | Merry Christmas! | メリークリスマス！ |
@@ -141,7 +141,7 @@ tip: 请善用浏览器的搜索功能
 | story_hpsts_set_1_story_1 | 锻造 | Forging | 鍛造 |
 | story_huang_set_1_story_1 | 你愿意吗 | Will You? | 意思を問う |
 | story_humus_set_1_story_1 | 荒地巧匠 | Wasteland Artisan | 荒野の匠 |
-| story_iana_set_1_story_1 | 探求明天 | - | - |
+| story_iana_set_1_story_1 | 探求明天 | - | 明日への探求 |
 | story_ifrit_set_1_story_1 | 小队长 | Team Captain | 小隊長 |
 | story_indigo_set_1_story_1 | 硬核饮品 | Hardcore Drink | ハードなドリンク |
 | story_inside_set_1_story_1 | 机密任务 | Secret Mission | 極秘任務 |
@@ -225,8 +225,8 @@ tip: 请善用浏览器的搜索功能
 | story_quartz_set_1_story_1 | 无需遗憾 | No Regrets | 惜しむ必要なし |
 | story_quercu_set_1_story_1 | 终途 | Final Moments | 終の道 |
 | story_quercu_set_2_story_1 | 生命的萌芽 | The Sprouts of Life | 命の芽吹き |
-| story_rdoc_set_1_story_1 | 模糊的面容 | - | - |
-| story_rfrost_set_1_story_1 | 寻乡 | - | - |
+| story_rdoc_set_1_story_1 | 模糊的面容 | - | 朧げな面影 |
+| story_rfrost_set_1_story_1 | 寻乡 | - | 故郷をたどって |
 | story_robrta_set_1_story_1 | 挽歌 | Elegy | 亡き者に捧ぐ歌 |
 | story_rockr_set_1_story_1 | 六百镑 | Six Hundred Pounds | 600ポンド |
 | story_rope_set_1_story_1 | 鲜花香水 | Floral Perfume | フラワーパフューム |
@@ -273,7 +273,7 @@ tip: 请善用浏览器的搜索功能
 | story_svrash_set_2_story_1 | 坚固的冰 | Unbreakable Ice | 堅固な氷 |
 | story_swire_set_1_story_1 | 就任前夕 | Day Before the Job | 就任前夜 |
 | story_swllow_set_1_story_1 | 殊途 | - | - |
-| story_tachak_set_1_story_1 | 一如既往 | - | - |
+| story_tachak_set_1_story_1 | 一如既往 | - | 相も変わらず |
 | story_takila_set_1_story_1 | 尖刺的滋味 | Taste of Thorns | 「尖り」の味わい |
 | story_texas_set_1_story_1 | 使命必达 | Guaranteed Success | 絶対に、確実に |
 | story_therex_set_1_story_1 | 炙热冲击！ | Scorching-Hot Assault! | 灼熱のエネルギーショック！ |

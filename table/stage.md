@@ -599,19 +599,19 @@ tip: 请善用浏览器的搜索功能
 | act31side_st03 | 彻风雨 | Brave Wind and Rain | 雨風の中で |
 | act31side_tr01 | 职农须知 | Farmer's Wisdom | 農家の心得 |
 | act31side_tr02 | 引水疏浚 | Guide the Waters | 引水と浚渫 |
-| act32side_01 | 城市主题展 | - | - |
-| act32side_02 | 不对称庭园 | - | - |
-| act32side_03 | 假面舞池 | - | - |
-| act32side_04 | 非传统艺术空间 | - | - |
-| act32side_05 | 消防通道 | - | - |
-| act32side_06 | 反艺术运动 | - | - |
-| act32side_07 | 安全出口 | - | - |
-| act32side_08 | 一跃而下 | - | - |
-| act32side_mo01 | 直击现场 | - | - |
-| act32side_st01 | 特别参观通道 | - | - |
-| act32side_st02 | 策展人会客厅 | - | - |
-| act32side_st03 | 艺术馆餐厅 | - | - |
-| act32side_tr01 | “请有序入场” | - | - |
+| act32side_01 | 城市主题展 | - | 近代都市テーマ展 |
+| act32side_02 | 不对称庭园 | - | アシンメトリー庭園 |
+| act32side_03 | 假面舞池 | - | 仮面舞踏会 |
+| act32side_04 | 非传统艺术空间 | - | 非伝統的芸術空間 |
+| act32side_05 | 消防通道 | - | 消防用通路 |
+| act32side_06 | 反艺术运动 | - | 反芸術運動 |
+| act32side_07 | 安全出口 | - | 非常口 |
+| act32side_08 | 一跃而下 | - | ダイビング |
+| act32side_mo01 | 直击现场 | - | 突撃レポート |
+| act32side_st01 | 特别参观通道 | - | 特別鑑賞入場口 |
+| act32side_st02 | 策展人会客厅 | - | キュレーターの応接室 |
+| act32side_st03 | 艺术馆餐厅 | - | ギャラリーバル |
+| act32side_tr01 | “请有序入场” | - | 「順序よくご入場ください」 |
 | act33side_01 | 宏伟愿景 | - | - |
 | act33side_02 | 命途何在 | - | - |
 | act33side_03 | 无声破裂 | - | - |
@@ -762,7 +762,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_18 | “特制小水坑” | The Special Little Aquapit' | 「特製小さな水たまり」 |
 | camp_r_19 | 腐烂荒野 | Decaying Wastes | 腐敗した荒野 |
 | camp_r_20 | 千嶂边城 | Mountain-Ringed Border Town | 千嶂の辺塞 |
-| camp_r_21 | 新旅店大道 | - | - |
+| camp_r_21 | 新旅店大道 | - | ニューホテル通り |
 | camp_r_22 | “离心率”实验室 | - | - |
 | camp_r_23 | 燃烧街区 | - | - |
 | camp_r_24 | 冰封雪谷 | - | - |

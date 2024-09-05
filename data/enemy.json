@@ -3916,60 +3916,79 @@
     "zh_CN": "失控天桩-乙"
   },
   "enemy_1401_pogpro": {
+    "ja_JP": "連合政府軍用犬",
     "zh_CN": "联合政府军犬"
   },
   "enemy_1401_pogpro_2": {
+    "ja_JP": "連合政府上級軍用犬",
     "zh_CN": "联合政府军犬pro"
   },
   "enemy_1402_tgshd": {
+    "ja_JP": "装甲偵察兵",
     "zh_CN": "装甲侦察兵"
   },
   "enemy_1402_tgshd_2": {
+    "ja_JP": "重装偵察兵",
     "zh_CN": "重装侦察兵"
   },
   "enemy_1403_gunsho": {
+    "ja_JP": "軽型クロスボウ速射手",
     "zh_CN": "速射轻弩手"
   },
   "enemy_1403_gunsho_2": {
+    "ja_JP": "軽型クロスボウ猛射手",
     "zh_CN": "速射劲弩手"
   },
   "enemy_1404_msnip": {
+    "ja_JP": "重型クロスボウ強襲者",
     "zh_CN": "重弩突袭者"
   },
   "enemy_1404_msnip_2": {
+    "ja_JP": "重型クロスボウ猛襲者",
     "zh_CN": "重弩猎杀者"
   },
   "enemy_1405_boomer": {
+    "ja_JP": "無謀な擲弾兵",
     "zh_CN": "鲁莽掷弹兵"
   },
   "enemy_1405_boomer_2": {
+    "ja_JP": "不敵な擲弾兵",
     "zh_CN": "无畏掷弹兵"
   },
   "enemy_1406_chghmr": {
+    "ja_JP": "戦線推進兵",
     "zh_CN": "战线推进者"
   },
   "enemy_1406_chghmr_2": {
+    "ja_JP": "戦線突破兵",
     "zh_CN": "战线突破者"
   },
   "enemy_1407_hummbd": {
+    "ja_JP": "スコープ",
     "zh_CN": "远眺"
   },
   "enemy_1407_hummbd_2": {
+    "ja_JP": "スコープ・B",
     "zh_CN": "远眺·B"
   },
   "enemy_1408_scotcn": {
+    "ja_JP": "戦場観測榴弾射手",
     "zh_CN": "战场观测炮手"
   },
   "enemy_1408_scotcn_2": {
+    "ja_JP": "戦場分析榴弾射手",
     "zh_CN": "战场深视炮手"
   },
   "enemy_1409_bdguad": {
+    "ja_JP": "マッテオの警護兵",
     "zh_CN": "马特奥的警卫"
   },
   "enemy_1409_bdguad_2": {
+    "ja_JP": "マッテオの近衛兵",
     "zh_CN": "马特奥的近卫"
   },
   "enemy_1409_bdguad_3": {
+    "ja_JP": "マッテオの親衛兵",
     "zh_CN": "马特奥的亲卫"
   },
   "enemy_1410_mmelee": {
@@ -4392,6 +4411,7 @@
     "zh_CN": "“祟”"
   },
   "enemy_1551_bolicp": {
+    "ja_JP": "マッテオ大尉",
     "zh_CN": "马特奥上尉"
   },
   "enemy_1552_mmamiy": {

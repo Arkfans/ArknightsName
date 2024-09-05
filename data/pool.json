@@ -379,6 +379,12 @@
     "en_US": "Sharpened By Flame",
     "ja_JP": "炎に研がれし鋭刃"
   },
+  "_LINKAGE_29_0_7": {
+    "ja_JP": "突破-補強-連続任務"
+  },
+  "_LINKAGE_29_0_9": {
+    "ja_JP": "進攻-防衛-戦術衝突"
+  },
   "_LINKAGE_9_2_1": {
     "en_US": "Attack - Defence - Tactical Collide",
     "ja_JP": "進攻-防衛-戦術衝突"
@@ -528,6 +534,9 @@
   },
   "_NORM_27_0_6": {
     "en_US": "Joint Operation",
+    "ja_JP": "連合作戦"
+  },
+  "_NORM_29_0_11": {
     "ja_JP": "連合作戦"
   },
   "_NORM_29_0_3": {
