@@ -805,25 +805,25 @@ tip: 请善用浏览器的搜索功能
 | enemy_1398_dhdcr_2 | 失控天桩-甲 | Out of Control Sky Pole - Jia | 暴走する天杭-甲 |
 | enemy_1399_dhtb | 天桩-乙 | Sky Pole - Yi | 天杭-乙 |
 | enemy_1399_dhtb_2 | 失控天桩-乙 | Out of Control Sky Pole - Yi | 暴走する天杭-乙 |
-| enemy_1401_pogpro | 联合政府军犬 | - | 連合政府軍用犬 |
-| enemy_1401_pogpro_2 | 联合政府军犬pro | - | 連合政府上級軍用犬 |
-| enemy_1402_tgshd | 装甲侦察兵 | - | 装甲偵察兵 |
-| enemy_1402_tgshd_2 | 重装侦察兵 | - | 重装偵察兵 |
-| enemy_1403_gunsho | 速射轻弩手 | - | 軽型クロスボウ速射手 |
-| enemy_1403_gunsho_2 | 速射劲弩手 | - | 軽型クロスボウ猛射手 |
-| enemy_1404_msnip | 重弩突袭者 | - | 重型クロスボウ強襲者 |
-| enemy_1404_msnip_2 | 重弩猎杀者 | - | 重型クロスボウ猛襲者 |
-| enemy_1405_boomer | 鲁莽掷弹兵 | - | 無謀な擲弾兵 |
-| enemy_1405_boomer_2 | 无畏掷弹兵 | - | 不敵な擲弾兵 |
-| enemy_1406_chghmr | 战线推进者 | - | 戦線推進兵 |
-| enemy_1406_chghmr_2 | 战线突破者 | - | 戦線突破兵 |
-| enemy_1407_hummbd | 远眺 | - | スコープ |
-| enemy_1407_hummbd_2 | 远眺·B | - | スコープ・B |
-| enemy_1408_scotcn | 战场观测炮手 | - | 戦場観測榴弾射手 |
-| enemy_1408_scotcn_2 | 战场深视炮手 | - | 戦場分析榴弾射手 |
-| enemy_1409_bdguad | 马特奥的警卫 | - | マッテオの警護兵 |
-| enemy_1409_bdguad_2 | 马特奥的近卫 | - | マッテオの近衛兵 |
-| enemy_1409_bdguad_3 | 马特奥的亲卫 | - | マッテオの親衛兵 |
+| enemy_1401_pogpro | 联合政府军犬 | Coalition Army Hound | 連合政府軍用犬 |
+| enemy_1401_pogpro_2 | 联合政府军犬pro | Coalition Army Hound Pro | 連合政府上級軍用犬 |
+| enemy_1402_tgshd | 装甲侦察兵 | Armored Scout | 装甲偵察兵 |
+| enemy_1402_tgshd_2 | 重装侦察兵 | Heavy Scout | 重装偵察兵 |
+| enemy_1403_gunsho | 速射轻弩手 | Light Rapid Crossbowman | 軽型クロスボウ速射手 |
+| enemy_1403_gunsho_2 | 速射劲弩手 | Heavy Rapid Crossbowman | 軽型クロスボウ猛射手 |
+| enemy_1404_msnip | 重弩突袭者 | Heavy Crossbowman Ambusher | 重型クロスボウ強襲者 |
+| enemy_1404_msnip_2 | 重弩猎杀者 | Heavy Crossbowman Hunter | 重型クロスボウ猛襲者 |
+| enemy_1405_boomer | 鲁莽掷弹兵 | Reckless Grenadier | 無謀な擲弾兵 |
+| enemy_1405_boomer_2 | 无畏掷弹兵 | Impetuous Grenadier | 不敵な擲弾兵 |
+| enemy_1406_chghmr | 战线推进者 | Battleline Advance Guard | 戦線推進兵 |
+| enemy_1406_chghmr_2 | 战线突破者 | Battleline Breacher | 戦線突破兵 |
+| enemy_1407_hummbd | 远眺 | Farseer | スコープ |
+| enemy_1407_hummbd_2 | 远眺·B | Farseer B | スコープ・B |
+| enemy_1408_scotcn | 战场观测炮手 | Battlefield Observing Mortarman | 戦場観測榴弾射手 |
+| enemy_1408_scotcn_2 | 战场深视炮手 | Battlefield Surveying Mortarman | 戦場分析榴弾射手 |
+| enemy_1409_bdguad | 马特奥的警卫 | Mateo's Security Guard | マッテオの警護兵 |
+| enemy_1409_bdguad_2 | 马特奥的近卫 | Mateo's Guard | マッテオの近衛兵 |
+| enemy_1409_bdguad_3 | 马特奥的亲卫 | Mateo's Bodyguard | マッテオの親衛兵 |
 | enemy_1410_mmelee | “飞鞋党”佣兵 | - | - |
 | enemy_1410_mmelee_2 | “飞鞋党”精锐佣兵 | - | - |
 | enemy_1411_mmrnge | “锅盖头”射手 | - | - |
@@ -929,7 +929,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1548_ltniak | 赫尔昏佐伦，“巫王” | Herkunftshorn, 'Witch King' | Herkunftshorn・「巫王」 |
 | enemy_1549_windoc | 哈洛德·克雷加文 | Harold Craigavon | ハロルド・クレイガボン |
 | enemy_1550_dhnzzh | “祟” | 'Slumbering of Sui' | 「祟」 |
-| enemy_1551_bolicp | 马特奥上尉 | - | マッテオ大尉 |
+| enemy_1551_bolicp | 马特奥上尉 | Captain Mateo | マッテオ大尉 |
 | enemy_1552_mmamiy | “阿米娅” | - | - |
 | enemy_1553_lrdead | 引火的死魂灵 | - | - |
 | enemy_1554_lrtsia | 特蕾西娅 | - | - |

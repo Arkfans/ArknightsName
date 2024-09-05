@@ -1182,6 +1182,9 @@
     ]
   },
   "avg_282_catap_1": {
+    "en_US": [
+      "Catapult"
+    ],
     "ja_JP": [
       "カタパルト"
     ],
@@ -2222,6 +2225,10 @@
     ]
   },
   "avg_4123_ela_1": {
+    "en_US": [
+      "Ela",
+      "Ela?"
+    ],
     "ja_JP": [
       "Ela",
       "Ela？"
@@ -2232,6 +2239,9 @@
     ]
   },
   "avg_4124_iana_1": {
+    "en_US": [
+      "Iana"
+    ],
     "ja_JP": [
       "Iana"
     ],
@@ -2240,6 +2250,10 @@
     ]
   },
   "avg_4125_rdoc_1": {
+    "en_US": [
+      "Doc",
+      "Doc?"
+    ],
     "ja_JP": [
       "Doc",
       "Doc？"
@@ -2250,6 +2264,9 @@
     ]
   },
   "avg_4126_fuze_1": {
+    "en_US": [
+      "Fuze"
+    ],
     "ja_JP": [
       "Fuze"
     ],
@@ -2656,6 +2673,7 @@
   "avg_486_espumo_1": {
     "en_US": [
       "Ernesto",
+      "Tecno",
       "Tequila"
     ],
     "ja_JP": [
@@ -2887,6 +2905,9 @@
       "A Kazimierz Villager",
       "A Shopkeeper",
       "A Strange Passerby",
+      "Abel",
+      "Community Hawker",
+      "Community Resident",
       "Discouraged Worker",
       "Drunkard",
       "Edgar",
@@ -2896,6 +2917,7 @@
       "Irritable Infected",
       "Joyful Worker",
       "Neighbor A",
+      "Operating Crew",
       "Pondering Follower",
       "Spirited Worker",
       "Strong Townsfolk",
@@ -2973,12 +2995,14 @@
       "Angry Miner",
       "Angry Villager",
       "Charlie the Sproglet",
+      "Community Electrician",
       "Excited Infected",
       "Fast Food Joint Owner",
       "Gangster Messenger",
       "Infected Employee",
       "Infected Worker",
       "Kazimierz Ruffian",
+      "Lazy Community Resident",
       "Local Ruffian",
       "Luca",
       "Neighbor B",
@@ -3066,6 +3090,7 @@
       "A Grocery Store Owner",
       "An Infected Woman",
       "Enthusiastic Villager",
+      "Kazimierzian Girl",
       "Lana",
       "Little Girl",
       "Lydia",
@@ -3778,21 +3803,26 @@
       "Bodyguard A",
       "Bodyguard B",
       "Bodyguard C",
+      "Casino Dealer",
       "Charlie",
       "Cronin's Bodyguard",
       "Cronin's Henchman",
       "Event Security Detail",
+      "Galería Security Officer",
+      "Guard Defender A",
       "Investigator",
       "Mine Guard",
       "Organizing Committee Member",
       "Otti",
       "Party Security Detail",
       "Raythean Industries Security",
+      "Security",
       "Security Chief",
       "Security Guard B",
       "Ship Guard",
       "Staff",
       "Staff Worker",
+      "Warehouse Watchman",
       "Worker A"
     ],
     "ja_JP": [
@@ -3864,7 +3894,9 @@
       "Messenger",
       "Passerby A",
       "Shopkeeper B",
-      "Tabloid Reporter"
+      "Street Artist",
+      "Tabloid Reporter",
+      "Tired Spectator"
     ],
     "ja_JP": [
       "くたびれた観客",
@@ -3906,6 +3938,7 @@
   "avg_npc_022": {
     "en_US": [
       "Audience Member B",
+      "Community Resident",
       "Customer B",
       "Female Tourist",
       "Female Tourist A",
@@ -4217,11 +4250,14 @@
       "Angry Lou Seoi Member",
       "Angry Man",
       "Block Manager?",
+      "Community Resident",
+      "Confused Community Resident",
       "Confused Fan",
       "Customer",
       "Doctor",
       "Drunk",
       "Embarrassed Man",
+      "Enthusiastic Spectator",
       "Excited Fan",
       "Excited Youth",
       "Hapless Man",
@@ -4677,6 +4713,7 @@
       "Armed Infected",
       "Beleaguered Mercenary",
       "Cheering Sarkaz Worker",
+      "Old Sarkaz Hunter",
       "Patrolling Sarkaz Soldier A",
       "Patrolling Sarkaz Soldier B",
       "Sarkaz Boiler Worker",
@@ -5061,6 +5098,7 @@
       "Helpless Father",
       "Inexperienced Clerk",
       "Leithanian Refugee",
+      "Leithanian Worker",
       "Mediocre Caster",
       "Militiaman",
       "Noble Attendant",
@@ -5769,6 +5807,7 @@
   },
   "avg_npc_092": {
     "en_US": [
+      "Alsu",
       "Devout Follower",
       "Old Man"
     ],
@@ -5787,11 +5826,14 @@
   },
   "avg_npc_093": {
     "en_US": [
+      "Elderly Woman",
       "Grandmother",
       "Old Granny",
       "Old Lady",
       "Old Woman",
-      "Ursus Civilian"
+      "Sani",
+      "Ursus Civilian",
+      "Woman"
     ],
     "ja_JP": [
       "おばあさん",
@@ -5819,9 +5861,12 @@
   },
   "avg_npc_094": {
     "en_US": [
+      "Alsu",
       "An Infected Refugee",
+      "Anwar",
       "Infected",
-      "Timid Resident"
+      "Timid Resident",
+      "Young Man"
     ],
     "ja_JP": [
       "アンワル",
@@ -5863,8 +5908,11 @@
   "avg_npc_1000_1": {
     "en_US": [
       "Bar Owner",
+      "Community Resident",
       "Instrument Shop Owner",
-      "Male Instrument Shop Owner"
+      "Male Instrument Shop Owner",
+      "Sneaky Siracusan Tourist.",
+      "Tourist"
     ],
     "ja_JP": [
       "コミュニティの住民",
@@ -5901,7 +5949,8 @@
     "en_US": [
       "An Elder by the Roadside",
       "Cold Drinks Shop Owner",
-      "Elderly Shopkeeper"
+      "Elderly Shopkeeper",
+      "Hawker"
     ],
     "ja_JP": [
       "アイス屋の店主",
@@ -6258,6 +6307,7 @@
   "avg_npc_1042_1": {
     "en_US": [
       "Anxious Man",
+      "Community Resident",
       "Furious Resident",
       "Unhappy-looking Resident"
     ],
@@ -7137,6 +7187,9 @@
     ]
   },
   "avg_npc_1210_1": {
+    "en_US": [
+      "Mateo"
+    ],
     "ja_JP": [
       "マッテオ"
     ],
@@ -7145,6 +7198,9 @@
     ]
   },
   "avg_npc_1211_1": {
+    "en_US": [
+      "Reynell"
+    ],
     "ja_JP": [
       "レイネル"
     ],
@@ -7153,6 +7209,10 @@
     ]
   },
   "avg_npc_1212_1": {
+    "en_US": [
+      "Strangely-Dressed Durin",
+      "Tecno"
+    ],
     "ja_JP": [
       "テクノ",
       "奇抜な格好のドゥリン人"
@@ -7163,6 +7223,9 @@
     ]
   },
   "avg_npc_1213_1": {
+    "en_US": [
+      "Miłosz"
+    ],
     "ja_JP": [
       "ミウォシュ"
     ],
@@ -7171,6 +7234,9 @@
     ]
   },
   "avg_npc_1214_1": {
+    "en_US": [
+      "Diaz"
+    ],
     "ja_JP": [
       "ディアス"
     ],
@@ -7179,6 +7245,10 @@
     ]
   },
   "avg_npc_1215_1": {
+    "en_US": [
+      "Alert Community Guard",
+      "Community Guard"
+    ],
     "ja_JP": [
       "コミュニティの見張り役",
       "真面目そうな見張り役"
@@ -7190,6 +7260,9 @@
     ]
   },
   "avg_npc_1216_1": {
+    "en_US": [
+      "Armed Soldier"
+    ],
     "ja_JP": [
       "正装の軍人"
     ],
@@ -7604,6 +7677,9 @@
     ]
   },
   "avg_npc_1271_1": {
+    "en_US": [
+      "Commanding Officer"
+    ],
     "ja_JP": [
       "隊長"
     ],
@@ -7612,6 +7688,23 @@
     ]
   },
   "avg_npc_1272_1": {
+    "en_US": [
+      "Alert Soldier",
+      "Bewildered Soldier",
+      "Cowardly Soldier",
+      "Fully-Armed Soldier",
+      "Grumbling Soldier",
+      "Gun-Wielding Soldier",
+      "Harsh Officer",
+      "Irate Soldier",
+      "Slacking Officer",
+      "Slacking Soldier",
+      "Slick Soldier",
+      "Spooked Soldier",
+      "Squad Leader",
+      "Tired Soldier",
+      "Worn-Out Soldier"
+    ],
     "ja_JP": [
       "くたびれた軍人",
       "サボっている士官",
@@ -7649,6 +7742,11 @@
     ]
   },
   "avg_npc_1273_1": {
+    "en_US": [
+      "Irate Soldier",
+      "Officer's Subordinate",
+      "Slacking Soldier"
+    ],
     "ja_JP": [
       "サボっている軍人",
       "士官の部下",
@@ -7661,6 +7759,9 @@
     ]
   },
   "avg_npc_1274_1": {
+    "en_US": [
+      "Operating Crew Director"
+    ],
     "ja_JP": [
       "現場監督"
     ],
@@ -8681,7 +8782,8 @@
       "Mayor's Secretary",
       "Swept-Up Trader",
       "Swept-Up Trader?",
-      "Vengeful Merchant"
+      "Vengeful Merchant",
+      "Villager"
     ],
     "ja_JP": [
       "だらしない兵士",
@@ -8918,6 +9020,7 @@
   "avg_npc_176": {
     "en_US": [
       "A Leithanian Nobleman",
+      "Adulating Collector",
       "Announcer",
       "Bank President",
       "Casino Boss",
@@ -8933,9 +9036,11 @@
       "Noble Gentleman",
       "Plump Merchant",
       "Pompous Merchant",
+      "Seasoned Investor",
       "Slimy Noble",
       "Theater Manager",
       "Tipsy Businessman",
+      "Tourist",
       "Victorian Count",
       "Victorian Magnate"
     ],
@@ -9002,6 +9107,7 @@
       "Bishmer",
       "Butler",
       "Cowell",
+      "Eager Investor",
       "Extremely Serious Councilor",
       "Hughes",
       "Local Judge B",
@@ -9417,6 +9523,7 @@
       "Criminal",
       "Impatient Male Tourist",
       "Mysterious Person",
+      "Sly Stranger",
       "Startled Male Tourist",
       "Terrified Male Tourist",
       "Tourist"
@@ -9450,6 +9557,7 @@
   "avg_npc_202": {
     "en_US": [
       "Excited Female Tourist",
+      "Excited Tourist",
       "Female Music-Loving Tourist",
       "Sluggish Female Tourist",
       "Startled Female Tourist",
@@ -9793,7 +9901,8 @@
       "A Popcorn-Clutching Knight",
       "A Protesting Knight",
       "A Spectating Knight B",
-      "An Ingratiating Knight"
+      "An Ingratiating Knight",
+      "Stalker"
     ],
     "ja_JP": [
       "ポップコーンを持っている騎士",
@@ -9898,7 +10007,8 @@
       "Serious Corporate Employee",
       "Staff",
       "Staff Worker",
-      "Travel-Stained Lawyer"
+      "Travel-Stained Lawyer",
+      "Unremarkable Man"
     ],
     "ja_JP": [
       "カジミエーシュ代表",
@@ -9960,17 +10070,23 @@
       "A Commuting Worker",
       "A Corporate Employee",
       "A Corporate Employee A",
+      "Auction Host",
       "Bank Employee",
       "Bored Bank Employee",
       "Boy",
       "Branch Office Manager",
       "City Hall Staffer",
+      "Galería Staff Worker",
       "Government Official",
       "Indifferent Bank Employee",
       "Informant",
       "Knight Scout",
+      "Local Official",
+      "Man in Reporter Garb",
       "Mid-level Manager",
+      "Newbie Investor",
       "Professor's Assistant",
+      "Rafał",
       "Red Wine Intern Journalist",
       "Researcher",
       "Retained Lawyer",
@@ -10210,6 +10326,7 @@
       "Jurian",
       "Knight",
       "Naughty Child",
+      "Small Child",
       "Victorian Boy"
     ],
     "ja_JP": [
@@ -10302,6 +10419,8 @@
       "Bent",
       "Busy Youth",
       "Chef MacMartin",
+      "Community Resident",
+      "Confused Resident",
       "Cruise Jr.",
       "Embittered Man",
       "Excited Taran Refugee",
@@ -11768,6 +11887,7 @@
       "Joyous Lateran Citizen",
       "Laid-Back Passerby",
       "Not-So-Candid Stall Owner",
+      "Sankta Passerby",
       "Sedate Lateran Citizen",
       "Spirited Lateran",
       "Still-Trying-to-be-Candid Stall Owner",
@@ -12318,6 +12438,7 @@
   },
   "avg_npc_416_1": {
     "en_US": [
+      "Astonished Resident",
       "Desperate Thug",
       "Dublinn Messenger",
       "Frightened Refugee",
@@ -12858,6 +12979,7 @@
   "avg_npc_461_1": {
     "en_US": [
       "Calm Townsperson",
+      "Restorationist",
       "Terrified Villager"
     ],
     "ja_JP": [
@@ -13047,11 +13169,13 @@
     "en_US": [
       "Aloof Noble",
       "Cowardly Noble",
+      "Destitute Noble",
       "Devlin",
       "Frivolous Noble",
       "Graf Saxon",
       "Louis",
       "Pretentious Noble",
+      "Solemn Man",
       "Young Noble"
     ],
     "ja_JP": [
@@ -13082,9 +13206,12 @@
   },
   "avg_npc_493_1": {
     "en_US": [
+      "Berman",
       "Blanche",
       "Calm Noble",
       "Fretful Noble",
+      "Haggard Noble",
+      "Haughty Broker",
       "Leithanian Noble",
       "Musician",
       "Nitpicking Critic",
@@ -13150,11 +13277,13 @@
     "en_US": [
       "Attendant",
       "Despondent Infected",
+      "Excited Leithanian Tourist",
       "Mannered Infected",
       "Meddlesome Infected",
       "Nervous Musician",
       "Noble Attendant",
-      "Onlooking Passerby A"
+      "Onlooking Passerby A",
+      "Townsfolk"
     ],
     "ja_JP": [
       "おどおどする演奏家",
@@ -13212,6 +13341,7 @@
   },
   "avg_npc_498_1": {
     "en_US": [
+      "Community Artist",
       "Daddy",
       "Dispirited Infected",
       "Drunken Infected",
@@ -13267,8 +13397,10 @@
   },
   "avg_npc_499_1": {
     "en_US": [
+      "Community Musician",
       "Excited Afterglow Resident",
       "Frau Perry",
+      "Happy Leithanian Tourist",
       "Leithanian Woman",
       "Miss Bachmann",
       "Mummy",
@@ -13356,6 +13488,7 @@
       "Driver",
       "Drunkard",
       "Frivolous Columbian",
+      "Humble Secretary",
       "Millais",
       "Morgue Worker",
       "Police Officer",
@@ -13925,7 +14058,8 @@
       "Starting-to-be-Clear-headed Durin",
       "Stubborn Durin",
       "Thrilled Durin",
-      "Topsy-Turvy Durin"
+      "Topsy-Turvy Durin",
+      "Young Durin"
     ],
     "ja_JP": [
       "しつこいドゥリン",
@@ -13963,6 +14097,7 @@
       "Absent-Minded Durin",
       "Cool-Headed Durin",
       "Courteous Durin",
+      "Elderly Durin",
       "Enthusiastic Durin",
       "Excited Durin",
       "Imaginative Durin",
@@ -14078,7 +14213,8 @@
       "Burly Man",
       "Impoverished Young Man",
       "Layton's Henchman",
-      "Muscular Man"
+      "Muscular Man",
+      "Suspicious Siracusan Tourist"
     ],
     "ja_JP": [
       "スラム街の青年",
@@ -14634,6 +14770,7 @@
   "avg_npc_697_1": {
     "en_US": [
       "Calm Technician",
+      "Community Resident",
       "Court Clerk",
       "Rossati Mafioso",
       "Town 'Judge'",
@@ -16263,6 +16400,7 @@
   },
   "avg_npc_972_1": {
     "en_US": [
+      "Fallon",
       "Flustered HR Operator",
       "HR Operator",
       "Human Resources Operator",
@@ -16841,6 +16979,7 @@
       "Feraligus",
       "Field Operator A",
       "Field Operator B",
+      "Grace",
       "Guard",
       "Guard Operator",
       "Guard Operator B",

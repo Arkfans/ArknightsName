@@ -741,6 +741,7 @@
     "zh_CN": "合作限定十连寻访凭证"
   },
   "LINKAGE_TKT_GACHA_10_4801": {
+    "en_US": "Expert Headhunting Permit",
     "ja_JP": "精鋭小隊10回スカウト券",
     "zh_CN": "特勤专家寻访凭证"
   },
@@ -1381,6 +1382,7 @@
     "zh_CN": "天桩"
   },
   "act32side_token_stamp": {
+    "en_US": "Galería Stamp Card",
     "ja_JP": "スタンプカード",
     "zh_CN": "艺术馆集章卡"
   },
@@ -4087,18 +4089,22 @@
     "zh_CN": "小满的信物"
   },
   "p_char_4123_ela": {
+    "en_US": "Ela's Token",
     "ja_JP": "Elaの印",
     "zh_CN": "艾拉的信物"
   },
   "p_char_4124_iana": {
+    "en_US": "Iana's Token",
     "ja_JP": "Ianaの印",
     "zh_CN": "双月的信物"
   },
   "p_char_4125_rdoc": {
+    "en_US": "Doc's Token",
     "ja_JP": "Docの印",
     "zh_CN": "医生的信物"
   },
   "p_char_4126_fuze": {
+    "en_US": "Fuze's Token",
     "ja_JP": "Fuzeの印",
     "zh_CN": "导火索的信物"
   },
@@ -4951,6 +4957,7 @@
     "zh_CN": "阿尔萨兰家具收藏包一"
   },
   "uni_set_SargonFair_2": {
+    "en_US": "Arsalan Furniture Collection II",
     "ja_JP": "アルサラン家具パックvol.2",
     "zh_CN": "阿尔萨兰家具收藏包二"
   },

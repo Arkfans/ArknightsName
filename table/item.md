@@ -154,7 +154,7 @@ tip: 请善用浏览器的搜索功能
 | LINKAGE_TKT_GACHA_10_1701 | 特勤专家寻访凭证 | Expert Headhunting Permit | 精鋭小隊10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_3601 | 指引明路寻访凭证 | Scouting the Light Headhunting Permit | ハンター凱旋10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_3602 | 合作限定十连寻访凭证 | Collaboration Limited Ten-roll Headhunting Permit | ハンター凱旋10回スカウト券 |
-| LINKAGE_TKT_GACHA_10_4801 | 特勤专家寻访凭证 | - | 精鋭小隊10回スカウト券 |
+| LINKAGE_TKT_GACHA_10_4801 | 特勤专家寻访凭证 | Expert Headhunting Permit | 精鋭小隊10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_5401 | 好好吃饭寻访凭证 | - | - |
 | LMTGS_COIN_1401 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_1601 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
@@ -287,7 +287,7 @@ tip: 请善用浏览器的搜索功能
 | act2vmulti_token_cap | 参赛纪念 | - | - |
 | act30side_token_box | 驮兽盲盒 | Burdenbeast Blind Box | 駄獣ミニフィギュア |
 | act31side_token_box | 天桩 | Sky Pole | 天杭 |
-| act32side_token_stamp | 艺术馆集章卡 | - | スタンプカード |
+| act32side_token_stamp | 艺术馆集章卡 | Galería Stamp Card | スタンプカード |
 | act33side_token_sugar | 粗制糖块 | - | - |
 | act34side_token_chip | “应急物资”蓝图芯片 | - | - |
 | act35side_token_dust | 流光之沙 | - | - |
@@ -844,10 +844,10 @@ tip: 请善用浏览器的搜索功能
 | p_char_411_tomimi | 特米米的信物 | Tomimi's Token | トミミの印 |
 | p_char_4121_zuole | 左乐的信物 | Zuo Le's Token | ズオ・ラウの印 |
 | p_char_4122_grabds | 小满的信物 | Grain Buds's Token | グレインバッズの印 |
-| p_char_4123_ela | 艾拉的信物 | - | Elaの印 |
-| p_char_4124_iana | 双月的信物 | - | Ianaの印 |
-| p_char_4125_rdoc | 医生的信物 | - | Docの印 |
-| p_char_4126_fuze | 导火索的信物 | - | Fuzeの印 |
+| p_char_4123_ela | 艾拉的信物 | Ela's Token | Elaの印 |
+| p_char_4124_iana | 双月的信物 | Iana's Token | Ianaの印 |
+| p_char_4125_rdoc | 医生的信物 | Doc's Token | Docの印 |
+| p_char_4126_fuze | 导火索的信物 | Fuze's Token | Fuzeの印 |
 | p_char_4130_luton | 露托的信物 | - | - |
 | p_char_4131_odda | 奥达的信物 | - | - |
 | p_char_4132_ascln | 阿斯卡纶的信物 | - | - |
@@ -1028,7 +1028,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_MemoryCloister_1 | 魂灵印象家具收藏包一 | - | - |
 | uni_set_NHL | 吾导先路家具收藏包 | Guide Ahead Furniture Collection Set | 吾れ先導者たらん家具パック |
 | uni_set_SargonFair_1 | 阿尔萨兰家具收藏包一 | Arsalan Furniture Collection I | アルサラン家具パックvol.1 |
-| uni_set_SargonFair_2 | 阿尔萨兰家具收藏包二 | - | アルサラン家具パックvol.2 |
+| uni_set_SargonFair_2 | 阿尔萨兰家具收藏包二 | Arsalan Furniture Collection II | アルサラン家具パックvol.2 |
 | uni_set_abyssal | 覆潮之下家具收藏包 | Under Tides Furniture Pack | 潮汐の下家具パック |
 | uni_set_act10d5 | 乌萨斯的孩子们家具收藏包 | Children of Ursus Furniture Pack | ウルサスの子供たち家具パック |
 | uni_set_act7d5 | 午间逸话家具收藏包 | Stories of Afternoon Furniture Pack | 午後の逸話家具パック |

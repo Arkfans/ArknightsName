@@ -127,8 +127,8 @@ tip: 请善用浏览器的搜索功能
 | _LIMITED_8_3_1 | - | Earthborn Metals | 地生五金 |
 | _LIMITED_9_1_1 | - | Hidden Moon | 月隠晦明 |
 | _LINKAGE_23_1_1 | - | Sharpened By Flame | 炎に研がれし鋭刃 |
-| _LINKAGE_29_0_7 | - | - | 突破-補強-連続任務 |
-| _LINKAGE_29_0_9 | - | - | 進攻-防衛-戦術衝突 |
+| _LINKAGE_29_0_7 | - | Storm, Reinforce, Missions Cycle | 突破-補強-連続任務 |
+| _LINKAGE_29_0_9 | - | Attack - Defence - Tactical Collide | 進攻-防衛-戦術衝突 |
 | _LINKAGE_9_2_1 | - | Attack - Defence - Tactical Collide | 進攻-防衛-戦術衝突 |
 | _NORM_0_1_2 | - | The Glory of SilverAsh | 銀灰色の栄光 |
 | _NORM_10_1_1 | - | Erg Passenger | 砂海の旅人 |
@@ -167,7 +167,7 @@ tip: 请善用浏览器的搜索功能
 | _NORM_25_0_8 | - | Joint Operation | 連合作戦 |
 | _NORM_26_0_7 | - | The Front That Was | 先途追想 |
 | _NORM_27_0_6 | - | Joint Operation | 連合作戦 |
-| _NORM_29_0_11 | - | - | 連合作戦 |
+| _NORM_29_0_11 | - | Joint Operation | 連合作戦 |
 | _NORM_29_0_3 | - | Joint Operation | 連合作戦 |
 | _NORM_2_0_1 | - | Chi Xiao, the Hidden Dragon | 赤龍乗雲 |
 | _NORM_2_0_3 | - | Lungmen Spec Ops Headhunting | 龍門特別行動要員 |

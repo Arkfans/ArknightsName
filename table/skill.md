@@ -177,9 +177,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_ebnhlz_1 | 渐快急板 | Quickening Presto | アッチェレランド |
 | skchr_ebnhlz_2 | 荒芜回响 | Desolate Echoes | 旧日の残響 |
 | skchr_ebnhlz_3 | 寂静之声 | Sound of Silence | 無響の声 |
-| skchr_ela_1 | 眩目阻滞 | - | 視界遮断 |
-| skchr_ela_2 | 震荡坚守 | - | ショックディフェンス |
-| skchr_ela_3 | “博萨克风暴” | - | 「ボサックテンペスト」 |
+| skchr_ela_1 | 眩目阻滞 | Optical Interference | 視界遮断 |
+| skchr_ela_2 | 震荡坚守 | Shock Defense | ショックディフェンス |
+| skchr_ela_3 | “博萨克风暴” | 'The Bosak Tempest' | 「ボサックテンペスト」 |
 | skchr_elysm_2 | 聆听 | Monitor | 集音 |
 | skchr_erato_1 | 安眠旋律 | Lullaby's Meter | 安眠のメローディア |
 | skchr_erato_2 | 英雄赞歌 | Heroes' Paean | 英雄へのイムヌス |
@@ -222,8 +222,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_frncat_2 | 炸毛 | Fury | ねこのいかり |
 | skchr_frostl_1 | 寒霜枪刃 | Frost Tomahawk | 降霜の刃 |
 | skchr_frostl_2 | 凝冰枪刃 | Ice Tomahawk | 氷結の刃 |
-| skchr_fuze_1 | 火力侦察 | - | 威力偵察 |
-| skchr_fuze_2 | 霰射炸药 | - | クラスターチャージ |
+| skchr_fuze_1 | 火力侦察 | Force Recon | 威力偵察 |
+| skchr_fuze_2 | 霰射炸药 | Cluster Charge | クラスターチャージ |
 | skchr_gdglow_1 | 火花四溅 | Scattering Sparks | スパーキング |
 | skchr_gdglow_2 | 电流翻涌 | Surging Current | インパルスカレント |
 | skchr_gdglow_3 | 澄净闪耀 | Crystalline Shine | ゴールデングロー |
@@ -296,8 +296,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_huang_3 | 沸腾爆裂 | Boiling Burst | ボイリングバースト |
 | skchr_humus_1 | 固废切割 | Solid Waste Cutting | 廃棄物処理 |
 | skchr_humus_2 | 高效处理 | Efficient Processing | 高効率作業 |
-| skchr_iana_1 | 幻影诡雷 | - | ミラージュマイン |
-| skchr_iana_2 | 全知者的战术 | - | 頭脳派の戦術 |
+| skchr_iana_1 | 幻影诡雷 | Mirage Mine | ミラージュマイン |
+| skchr_iana_2 | 全知者的战术 | Omniscient Tactics | 頭脳派の戦術 |
 | skchr_ifrit_1 | 狂热 | Fanaticism | 猛火 |
 | skchr_ifrit_2 | 炎爆 | Pyroclasm | 爆炎 |
 | skchr_ifrit_3 | 灼地 | Scorched Earth | 灼獄 |
@@ -500,8 +500,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_ray_1 | 脱身矢 | Parting Shot | スラストショット |
 | skchr_ray_2 | 广域警觉 | Area Overwatch | 広域警戒 |
 | skchr_ray_3 | “得见光芒” | 'See the Light' | 「求めた光」 |
-| skchr_rdoc_1 | 以暴制暴 | - | カウンターバイオレンス |
-| skchr_rdoc_2 | 激素手枪 | - | スティムピストル |
+| skchr_rdoc_1 | 以暴制暴 | Violent Response | カウンターバイオレンス |
+| skchr_rdoc_2 | 激素手枪 | Stim Pistol | スティムピストル |
 | skchr_red_1 | 处决模式 | Execution Mode | 処刑の構え |
 | skchr_red_2 | 狼群 | Wolfpack | 群狼 |
 | skchr_reed2_2 | 枯荣共息 | Wither and Thrive | 盛衰を共に |
@@ -817,9 +817,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_duruin | 阻挡路线 | Obstruct | 進路妨害 |
 | sktok_ebnhlz_token | 闪回 | Flashback | フラッシュバック |
 | sktok_edd | 布雷 | Lay Mines | トラップ設置 |
-| sktok_ela_1 | 眩目阻滞 | - | 視界遮断 |
-| sktok_ela_2 | 震荡坚守 | - | ショックディフェンス |
-| sktok_ela_3 | “博萨克风暴” | - | 「ボサックテンペスト」 |
+| sktok_ela_1 | 眩目阻滞 | Optical Interference | 視界遮断 |
+| sktok_ela_2 | 震荡坚守 | Shock Defense | ショックディフェンス |
+| sktok_ela_3 | “博萨克风暴” | 'The Bosak Tempest' | 「ボサックテンペスト」 |
 | sktok_electric | 通电！ | Energized! | 通電！ |
 | sktok_emp | EMP爆炸 | EMP Blast | 電磁パルス |
 | sktok_emperor | Punchline | Punchline | Punchline |

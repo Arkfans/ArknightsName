@@ -275,10 +275,10 @@ tip: 请善用浏览器的搜索功能
 | char_411_tomimi | 特米米 | Tomimi | トミミ |
 | char_4121_zuole | 左乐 | Zuo Le | ズオ・ラウ |
 | char_4122_grabds | 小满 | Grain Buds | グレインバッズ |
-| char_4123_ela | 艾拉 | - | Ela |
-| char_4124_iana | 双月 | - | Iana |
-| char_4125_rdoc | 医生 | - | Doc |
-| char_4126_fuze | 导火索 | - | Fuze |
+| char_4123_ela | 艾拉 | Ela | Ela |
+| char_4124_iana | 双月 | Iana | Iana |
+| char_4125_rdoc | 医生 | Doc | Doc |
+| char_4126_fuze | 导火索 | Fuze | Fuze |
 | char_4130_luton | 露托 | - | - |
 | char_4131_odda | 奥达 | - | - |
 | char_4132_ascln | 阿斯卡纶 | - | - |

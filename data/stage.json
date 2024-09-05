@@ -2922,54 +2922,67 @@
     "zh_CN": "引水疏浚"
   },
   "act32side_01": {
+    "en_US": "City Exhibit",
     "ja_JP": "近代都市テーマ展",
     "zh_CN": "城市主题展"
   },
   "act32side_02": {
+    "en_US": "Asymmetrical Garden",
     "ja_JP": "アシンメトリー庭園",
     "zh_CN": "不对称庭园"
   },
   "act32side_03": {
+    "en_US": "Masquerade",
     "ja_JP": "仮面舞踏会",
     "zh_CN": "假面舞池"
   },
   "act32side_04": {
+    "en_US": "Non-Traditional Exhibit",
     "ja_JP": "非伝統的芸術空間",
     "zh_CN": "非传统艺术空间"
   },
   "act32side_05": {
+    "en_US": "Fire Lane",
     "ja_JP": "消防用通路",
     "zh_CN": "消防通道"
   },
   "act32side_06": {
+    "en_US": "Anti-Art Movement",
     "ja_JP": "反芸術運動",
     "zh_CN": "反艺术运动"
   },
   "act32side_07": {
+    "en_US": "Emergency Exit",
     "ja_JP": "非常口",
     "zh_CN": "安全出口"
   },
   "act32side_08": {
+    "en_US": "Leap of Faith",
     "ja_JP": "ダイビング",
     "zh_CN": "一跃而下"
   },
   "act32side_mo01": {
+    "en_US": "Live Report",
     "ja_JP": "突撃レポート",
     "zh_CN": "直击现场"
   },
   "act32side_st01": {
+    "en_US": "Special Visitors' Channel",
     "ja_JP": "特別鑑賞入場口",
     "zh_CN": "特别参观通道"
   },
   "act32side_st02": {
+    "en_US": "Curator's Reception Room",
     "ja_JP": "キュレーターの応接室",
     "zh_CN": "策展人会客厅"
   },
   "act32side_st03": {
+    "en_US": "Galería Restaurant",
     "ja_JP": "ギャラリーバル",
     "zh_CN": "艺术馆餐厅"
   },
   "act32side_tr01": {
+    "en_US": "'Please Enter in an Orderly Manner'",
     "ja_JP": "「順序よくご入場ください」",
     "zh_CN": "“请有序入场”"
   },
@@ -3606,6 +3619,7 @@
     "zh_CN": "千嶂边城"
   },
   "camp_r_21": {
+    "en_US": "New Hotel Avenue",
     "ja_JP": "ニューホテル通り",
     "zh_CN": "新旅店大道"
   },
