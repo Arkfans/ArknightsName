@@ -365,6 +365,10 @@ tip: 请善用浏览器的搜索功能
 | ap_supply_lt_120_2023_3 | “飘桂香” | 'Fragrant Osmanthus' | 「桂花乱舞」 |
 | ap_supply_lt_120_2023_4 | “藏金波” | 'Shrouded Golden Waves' | 「春夜朧月」 |
 | ap_supply_lt_120_2024_1 | - | - | ローストアーモンドチョコレート |
+| ap_supply_lt_120_2024_2 | “落银盘” | - | - |
+| ap_supply_lt_120_2024_3 | “望宵晖” | - | - |
+| ap_supply_lt_120_2024_4 | “画桂魄” | - | - |
+| ap_supply_lt_120_2024_5 | “枕夜光” | - | - |
 | ap_supply_lt_60 | 应急理智合剂 | Emergency Sanity Potion | 初級理性回復剤 |
 | ap_supply_lt_80 | 应急理智加强剂 | Emergency Sanity Booster | 初級理性回復剤+ |
 | base_ap | 无人机 | Drone | ドローン |

@@ -1053,6 +1053,7 @@ tip: 请善用浏览器的搜索功能
 | char_4080_lin@nian#10 | 列瑶台 | Heavenly Mirage | 列瑶台 |
 | char_4082_qiubai@epoque#31 | 礼遇 | - | - |
 | char_4082_qiubai@ncg#1 | 霜林醉 | Wine-flushed is Woods of Rime | 霜林酔 |
+| char_4083_chimes@yun#5 | 松间月 | - | - |
 | char_4087_ines@boc#8 | 燃烧天穹下 | - | - |
 | char_4088_hodrer@sightseer#1 | 沉思之庭 | - | - |
 | char_4091_ulika@sanrio#1 | 云上直播间 | - | - |
@@ -2429,6 +2430,7 @@ tip: 请善用浏览器的搜索功能
 | act41sign | 沉沙赫日签到活动 | - | - |
 | act42d0 | 纷争演绎 | Design of Strife | 紛争演繹 |
 | act42sign | 品鉴泰拉魔物 | - | - |
+| act43sign | 良辰迎月签到活动 | - | - |
 | act4bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act4d0 | 战地秘闻 | Operational Intelligence | 戦地の逸話 |
 | act4d2 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -2870,6 +2872,10 @@ tip: 请善用浏览器的搜索功能
 | ap_supply_lt_120_2023_3 | “飘桂香” | 'Fragrant Osmanthus' | 「桂花乱舞」 |
 | ap_supply_lt_120_2023_4 | “藏金波” | 'Shrouded Golden Waves' | 「春夜朧月」 |
 | ap_supply_lt_120_2024_1 | - | - | ローストアーモンドチョコレート |
+| ap_supply_lt_120_2024_2 | “落银盘” | - | - |
+| ap_supply_lt_120_2024_3 | “望宵晖” | - | - |
+| ap_supply_lt_120_2024_4 | “画桂魄” | - | - |
+| ap_supply_lt_120_2024_5 | “枕夜光” | - | - |
 | ap_supply_lt_60 | 应急理智合剂 | Emergency Sanity Potion | 初級理性回復剤 |
 | ap_supply_lt_80 | 应急理智加强剂 | Emergency Sanity Booster | 初級理性回復剤+ |
 | base_ap | 无人机 | Drone | ドローン |

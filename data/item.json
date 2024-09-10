@@ -1743,6 +1743,18 @@
   "ap_supply_lt_120_2024_1": {
     "ja_JP": "ローストアーモンドチョコレート"
   },
+  "ap_supply_lt_120_2024_2": {
+    "zh_CN": "“落银盘”"
+  },
+  "ap_supply_lt_120_2024_3": {
+    "zh_CN": "“望宵晖”"
+  },
+  "ap_supply_lt_120_2024_4": {
+    "zh_CN": "“画桂魄”"
+  },
+  "ap_supply_lt_120_2024_5": {
+    "zh_CN": "“枕夜光”"
+  },
   "ap_supply_lt_60": {
     "en_US": "Emergency Sanity Potion",
     "ja_JP": "初級理性回復剤",

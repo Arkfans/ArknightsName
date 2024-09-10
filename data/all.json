@@ -8049,6 +8049,12 @@
       "zh_CN": "霜林醉"
     }
   },
+  "char_4083_chimes@yun#5": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "松间月"
+    }
+  },
   "char_4087_ines@boc#8": {
     "type": "SKIN",
     "names": {
@@ -18647,6 +18653,12 @@
       "zh_CN": "品鉴泰拉魔物"
     }
   },
+  "act43sign": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "良辰迎月签到活动"
+    }
+  },
   "act4bossrush": {
     "type": "ACTIVITY",
     "names": {
@@ -22089,6 +22101,30 @@
     "type": "ITEM",
     "names": {
       "ja_JP": "ローストアーモンドチョコレート"
+    }
+  },
+  "ap_supply_lt_120_2024_2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "“落银盘”"
+    }
+  },
+  "ap_supply_lt_120_2024_3": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "“望宵晖”"
+    }
+  },
+  "ap_supply_lt_120_2024_4": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "“画桂魄”"
+    }
+  },
+  "ap_supply_lt_120_2024_5": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "“枕夜光”"
     }
   },
   "ap_supply_lt_60": {
