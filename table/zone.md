@@ -142,6 +142,8 @@ tip: 请善用浏览器的搜索功能
 | act27sre_zone3 | 岩浆冲浪 | - | - |
 | act28side_zone1 | 苍白平台 | Anemic Platform | 青白い町 |
 | act28side_zone2 | 黑色舰船 | Black Landship | 黒き艦船 |
+| act28sre_zone1 | 苍白平台 | - | - |
+| act28sre_zone2 | 黑色舰船 | - | - |
 | act29side_zone1 | 朝见双塔 | Zwillingstürme anbeten | 双塔を仰ぐ |
 | act29side_zone2 | 恩典永恒 | Die Gnade ist ewig | 恩寵は永遠に |
 | act29side_zone3 | 权威无情 | Die Macht ist grimm | 大権に情なく |
@@ -231,6 +233,8 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_21_zone1 | 连阴雨季 | Stagione delle Piogge | 暗い長雨 |
 | permanent_sidestory_21_zone2 | 铳与秩序 | Pistole e Ordine | 銃と秩序 |
 | permanent_sidestory_21_zone3 | 自诩荒野 | Terra Desolata Autoproclamata | 荒野を名乗る者 |
+| permanent_sidestory_22_zone1 | 苍白平台 | - | - |
+| permanent_sidestory_22_zone2 | 黑色舰船 | - | - |
 | permanent_sidestory_2_zone1 | 主舞台 | Main Stage | メインステージ |
 | permanent_sidestory_2_zone2 | 嘉年华 | Carnival | フェスティバル |
 | permanent_sidestory_2_zone3 | 额外节目 | Extra Show | エクストラ |

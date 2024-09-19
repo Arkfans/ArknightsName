@@ -273,6 +273,7 @@ tip: 请善用浏览器的搜索功能
 | act27side_token_fur | 毛绒绒生物的毛 | Fluffy Critter Wool | ピンクのふわふわ |
 | act27side_token_fur_rep_1 | 毛绒绒生物的毛 | - | - |
 | act28side_token_box | 劣质燃料 | Shoddy Fuel | 粗悪燃料 |
+| act28side_token_box_rep_1 | 劣质燃料 | - | - |
 | act29side_frag_1 | 乐之节符 | Note of Joy | 楽の音符 |
 | act29side_frag_2 | 怒之节符 | Note of Anger | 怒の音符 |
 | act29side_frag_3 | 哀之节符 | Note of Sorrow | 哀の音符 |

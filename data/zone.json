@@ -666,6 +666,12 @@
     "ja_JP": "黒き艦船",
     "zh_CN": "黑色舰船"
   },
+  "act28sre_zone1": {
+    "zh_CN": "苍白平台"
+  },
+  "act28sre_zone2": {
+    "zh_CN": "黑色舰船"
+  },
   "act29side_zone1": {
     "en_US": "Zwillingstürme anbeten",
     "ja_JP": "双塔を仰ぐ",
@@ -1078,6 +1084,12 @@
     "en_US": "Terra Desolata Autoproclamata",
     "ja_JP": "荒野を名乗る者",
     "zh_CN": "自诩荒野"
+  },
+  "permanent_sidestory_22_zone1": {
+    "zh_CN": "苍白平台"
+  },
+  "permanent_sidestory_22_zone2": {
+    "zh_CN": "黑色舰船"
   },
   "permanent_sidestory_2_zone1": {
     "en_US": "Main Stage",

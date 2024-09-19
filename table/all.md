@@ -1058,6 +1058,7 @@ tip: 请善用浏览器的搜索功能
 | char_4088_hodrer@sightseer#1 | 沉思之庭 | - | - |
 | char_4091_ulika@sanrio#1 | 云上直播间 | - | - |
 | char_4100_caper@summer#18 | 夏卉 FA083 | - | - |
+| char_4104_coldst@striker#3 | 破晓 | - | - |
 | char_4106_bryota@epoque#34 | 动感 | - | - |
 | char_411_tomimi@summer#5 | 静谧午夜 DN04 | Silent Night DN04 | 安息の午夜DN04 |
 | char_4122_grabds@yun#3 | 步芳兰 | - | - |
@@ -2389,6 +2390,7 @@ tip: 请善用浏览器的搜索功能
 | act27sre | 火山旅梦·复刻 | - | - |
 | act28side | 不义之财 | Come Catastrophes or Wakes of Vultures | ダーティマネー |
 | act28sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
+| act28sre | 不义之财 复刻 | - | - |
 | act29side | 崔林特尔梅之金 | Zwillingstürme im Herbst | ツヴィリングトゥルムの黄金 |
 | act29sign | 桂时逢月——月饼烘焙小教程 | Encounter At The Osmanthus Blossom - Mooncake-Making Tutorial | 円満団楽-ロドス点心教室 |
 | act2bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
@@ -2780,6 +2782,7 @@ tip: 请善用浏览器的搜索功能
 | act27side_token_fur | 毛绒绒生物的毛 | Fluffy Critter Wool | ピンクのふわふわ |
 | act27side_token_fur_rep_1 | 毛绒绒生物的毛 | - | - |
 | act28side_token_box | 劣质燃料 | Shoddy Fuel | 粗悪燃料 |
+| act28side_token_box_rep_1 | 劣质燃料 | - | - |
 | act29side_frag_1 | 乐之节符 | Note of Joy | 楽の音符 |
 | act29side_frag_2 | 怒之节符 | Note of Anger | 怒の音符 |
 | act29side_frag_3 | 哀之节符 | Note of Sorrow | 哀の音符 |
@@ -3758,6 +3761,7 @@ tip: 请善用浏览器的搜索功能
 | SINGLE_51_0_1 | 沉向深渊的锚 | - | - |
 | SINGLE_51_0_4 | 执裁者 | - | - |
 | SINGLE_52_0_1 | 心与镜的印痕 | - | - |
+| SINGLE_54_0_3 | 鸣铳 | - | - |
 | _ATTAIN_15_2_1 | - | Celebrate & Recollect | ロドスの道のり　回顧 |
 | _ATTAIN_22_1_2 | - | Celebration & Link-Up | ロドスの道のり・邂逅 |
 | _ATTAIN_28_0_2 | - | Celebration & Vista | ロドスの道のり・展望 |
@@ -6366,6 +6370,8 @@ tip: 请善用浏览器的搜索功能
 | act27sre_zone3 | 岩浆冲浪 | - | - |
 | act28side_zone1 | 苍白平台 | Anemic Platform | 青白い町 |
 | act28side_zone2 | 黑色舰船 | Black Landship | 黒き艦船 |
+| act28sre_zone1 | 苍白平台 | - | - |
+| act28sre_zone2 | 黑色舰船 | - | - |
 | act29side_zone1 | 朝见双塔 | Zwillingstürme anbeten | 双塔を仰ぐ |
 | act29side_zone2 | 恩典永恒 | Die Gnade ist ewig | 恩寵は永遠に |
 | act29side_zone3 | 权威无情 | Die Macht ist grimm | 大権に情なく |
@@ -6455,6 +6461,8 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_21_zone1 | 连阴雨季 | Stagione delle Piogge | 暗い長雨 |
 | permanent_sidestory_21_zone2 | 铳与秩序 | Pistole e Ordine | 銃と秩序 |
 | permanent_sidestory_21_zone3 | 自诩荒野 | Terra Desolata Autoproclamata | 荒野を名乗る者 |
+| permanent_sidestory_22_zone1 | 苍白平台 | - | - |
+| permanent_sidestory_22_zone2 | 黑色舰船 | - | - |
 | permanent_sidestory_2_zone1 | 主舞台 | Main Stage | メインステージ |
 | permanent_sidestory_2_zone2 | 嘉年华 | Carnival | フェスティバル |
 | permanent_sidestory_2_zone3 | 额外节目 | Extra Show | エクストラ |

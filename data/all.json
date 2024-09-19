@@ -8079,6 +8079,12 @@
       "zh_CN": "夏卉 FA083"
     }
   },
+  "char_4104_coldst@striker#3": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "破晓"
+    }
+  },
   "char_4106_bryota@epoque#34": {
     "type": "SKIN",
     "names": {
@@ -18347,6 +18353,12 @@
       "zh_CN": "限时累计签到"
     }
   },
+  "act28sre": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "不义之财 复刻"
+    }
+  },
   "act29side": {
     "type": "ACTIVITY",
     "names": {
@@ -21403,6 +21415,12 @@
     "names": {
       "en_US": "Shoddy Fuel",
       "ja_JP": "粗悪燃料",
+      "zh_CN": "劣质燃料"
+    }
+  },
+  "act28side_token_box_rep_1": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "劣质燃料"
     }
   },
@@ -28851,6 +28869,12 @@
     "type": "POOL",
     "names": {
       "zh_CN": "心与镜的印痕"
+    }
+  },
+  "SINGLE_54_0_3": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "鸣铳"
     }
   },
   "_ATTAIN_15_2_1": {
@@ -49030,6 +49054,18 @@
       "zh_CN": "黑色舰船"
     }
   },
+  "act28sre_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "苍白平台"
+    }
+  },
+  "act28sre_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "黑色舰船"
+    }
+  },
   "act29side_zone1": {
     "type": "ZONE",
     "names": {
@@ -49708,6 +49744,18 @@
       "en_US": "Terra Desolata Autoproclamata",
       "ja_JP": "荒野を名乗る者",
       "zh_CN": "自诩荒野"
+    }
+  },
+  "permanent_sidestory_22_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "苍白平台"
+    }
+  },
+  "permanent_sidestory_22_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "黑色舰船"
     }
   },
   "permanent_sidestory_2_zone1": {
