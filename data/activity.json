@@ -430,6 +430,9 @@
     "ja_JP": "九色鹿復刻スタンプラリー",
     "zh_CN": "九色鹿签到复刻活动"
   },
+  "act1vecb": {
+    "zh_CN": "矢量突破"
+  },
   "act20login": {
     "en_US": "Sign-In Campaign",
     "ja_JP": "ログイン報酬",
@@ -745,6 +748,9 @@
   },
   "act43sign": {
     "zh_CN": "良辰迎月签到活动"
+  },
+  "act44sign": {
+    "zh_CN": "构想试炼签到活动"
   },
   "act4bossrush": {
     "en_US": "Trials for Navigator",

@@ -1779,6 +1779,54 @@
     "ja_JP": "黄昏の秘境",
     "zh_CN": "黄昏秘境"
   },
+  "act1vecb_01": {
+    "zh_CN": "拳拳生风"
+  },
+  "act1vecb_02": {
+    "zh_CN": "低温征兆"
+  },
+  "act1vecb_03": {
+    "zh_CN": "重荷"
+  },
+  "act1vecb_04": {
+    "zh_CN": "巨锤与锐枪"
+  },
+  "act1vecb_05": {
+    "zh_CN": "刻骨铭心"
+  },
+  "act1vecb_06": {
+    "zh_CN": "远方来袭"
+  },
+  "act1vecb_07": {
+    "zh_CN": "赤红的冰"
+  },
+  "act1vecb_08": {
+    "zh_CN": "思绪之隙"
+  },
+  "act1vecb_sp01": {
+    "zh_CN": "丛林巅峰"
+  },
+  "act1vecb_sp02": {
+    "zh_CN": "狂徒围攻"
+  },
+  "act1vecb_sp03": {
+    "zh_CN": "巫术纠缠"
+  },
+  "act1vecb_sp04": {
+    "zh_CN": "盾阵隘口"
+  },
+  "act1vecb_sp05": {
+    "zh_CN": "伙友之影"
+  },
+  "act1vecb_sp06": {
+    "zh_CN": "酒厂英豪"
+  },
+  "act1vecb_sp07": {
+    "zh_CN": "异质聚群"
+  },
+  "act1vecb_sp08": {
+    "zh_CN": "炮火泥潭"
+  },
   "act20side_01": {
     "en_US": "Alternate Reality Tourism",
     "ja_JP": "没入型ツアー",

@@ -572,7 +572,7 @@ tip: 请善用浏览器的搜索功能
 | trap_175_frfrut | 香甜烤果子 | - | - |
 | trap_176_frutwn | 缤纷果酒 | - | - |
 | trap_177_tentcl | 宝箱的肉？ | - | - |
-| trap_178_trrbox | "宝箱“ | - | - |
+| trap_178_trrbox | “宝箱” | - | - |
 | trap_179_muctrl | 促融共竞控制 | - | - |
 | trap_180_dsblock | 封印的地面 | - | - |
 | trap_181_sgray | 结晶消除桩 | - | - |
@@ -916,6 +916,7 @@ tip: 请善用浏览器的搜索功能
 | char_236_rope@summer#2 | 夏卉 FA008 | Summer Flowers FA008 | 夏の花弁FA008 |
 | char_236_rope@witch#1 | 小鬼当家 | Imp's House | おてんば魔女っこ |
 | char_237_gravel@winter#2 | 模特之夜 | Modeling Night | スタイリッシュナイト |
+| char_240_wyvern@game#4 | 平原驯虫士 | - | - |
 | char_241_panda@marthe#1 | 片场一角 | Dojo Star | スタジオの一角 |
 | char_241_panda@nian#7 | 且试箸 | Gourmet | 箸乱舞 |
 | char_242_otter@ghost#1 | 庭院寻梦尖兵 | Visionblazer in the Courtyard | 庭園の探夢者 |
@@ -1066,6 +1067,7 @@ tip: 请善用浏览器的搜索功能
 | char_4124_iana@rainbow6#2 | 镜廊 | Mirrormaze | ミラーメイズ |
 | char_4125_rdoc@rainbow6#2 | 展览 | Exhibition | エキシビション |
 | char_4141_marcil@dungeon#1 | 泰拉冒险 | - | - |
+| char_4151_tinman@sale#11 | 相位面容 | - | - |
 | char_415_flint@boc#3 | 绚烂夏花 | Gorgeous Flower | 紫藤繚乱 |
 | char_416_zumama@boc#3 | 熔锻铸匠 | Forgemaster | 熔冶工匠 |
 | char_420_flamtl@game#2 | 小健将 | Sport For All | サイバー闘技者 |
@@ -2274,6 +2276,11 @@ tip: 请善用浏览器的搜索功能
 | enemy_8001_flmlod_2 | 熔戈者，护王余火 | Sverdsmeltr, Guardian Ember of the King | スヴェルドメルター、王を守る余炎 |
 | enemy_8001_flmlod_3 | 熔戈者，护王余火 | Sverdsmeltr, Guardian Ember of the King | スヴェルドメルター、王を守る余炎 |
 | enemy_8006_flmgd | 再铸扈从 | Reforged Retinue | 再鋳造されし忠僕 |
+| enemy_8007_eltrsm | “迷迭香”，虚实之握 | - | - |
+| enemy_8007_eltrsm_2 | “迷迭香”，虚实之握 | - | - |
+| enemy_8007_eltrsm_3 | “迷迭香”，虚实之握 | - | - |
+| enemy_8008_eltswd | 矢量战术装备 | - | - |
+| enemy_8009_eltufo | “迷迭香”的无人机 | - | - |
 | 0D5act | 限时任务 | Limited-time Mission | 期間限定任務 |
 | 1stact | 赏金猎人金币 | Bounty Coin | ラッキーコイン |
 | act10d5 | 乌萨斯的孩子们 | Children of Ursus | ウルサスの子供たち |
@@ -2363,6 +2370,7 @@ tip: 请善用浏览器的搜索功能
 | act1signvs | 端阳正午签到活动 | May the Sunshine Still Sign-In Event | スタンプラリー |
 | act1switch | 宿于繁星合作活动 | - | - |
 | act1unique | 九色鹿签到复刻活动 | Nine-Colored Deer Onboarding Event Retrospective | 九色鹿復刻スタンプラリー |
+| act1vecb | 矢量突破 | - | - |
 | act20login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
 | act20side | 理想城：长夏狂欢季 | Ideal City: Endless Carnival | 理想都市-エンドレスカーニバル- |
 | act20sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -2433,6 +2441,7 @@ tip: 请善用浏览器的搜索功能
 | act42d0 | 纷争演绎 | Design of Strife | 紛争演繹 |
 | act42sign | 品鉴泰拉魔物 | - | - |
 | act43sign | 良辰迎月签到活动 | - | - |
+| act44sign | 构想试炼签到活动 | - | - |
 | act4bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act4d0 | 战地秘闻 | Operational Intelligence | 戦地の逸話 |
 | act4d2 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -2759,6 +2768,7 @@ tip: 请善用浏览器的搜索功能
 | act1mainlinebp_token_star | 里程碑碎片 | Milestone Fragment | マイルストーンの欠片 |
 | act1mainss_token_medi | 急性感染抑制剂 | - | - |
 | act1sandbox_milestone_point | 繁荣证章 | Badge of Prosperity | 繁栄の証 |
+| act1vecb_milestone_point | 胜绩积分 | - | - |
 | act20side_token_book | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
 | act20side_token_book_rep_1 | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
 | act21side_token_permesso | 进货通行证 | Permesso di Importazione | 買付許可証 |
@@ -3762,6 +3772,7 @@ tip: 请善用浏览器的搜索功能
 | SINGLE_51_0_4 | 执裁者 | - | - |
 | SINGLE_52_0_1 | 心与镜的印痕 | - | - |
 | SINGLE_54_0_3 | 鸣铳 | - | - |
+| SPECIAL_54_0_5 | 定向甄选 | - | - |
 | _ATTAIN_15_2_1 | - | Celebrate & Recollect | ロドスの道のり　回顧 |
 | _ATTAIN_22_1_2 | - | Celebration & Link-Up | ロドスの道のり・邂逅 |
 | _ATTAIN_28_0_2 | - | Celebration & Vista | ロドスの道のり・展望 |
@@ -5320,6 +5331,22 @@ tip: 请善用浏览器的搜索功能
 | act1lock_b-03 | 白昼之地-沉思 | Daytime Ground - Meditation | 白昼の地-深慮 |
 | act1lock_b-04 | 白昼之地-坚守 | Daytime Ground - Perseverance | 白昼の地-堅守 |
 | act1lock_c-01 | 黄昏秘境 | Twilight Frontier | 黄昏の秘境 |
+| act1vecb_01 | 拳拳生风 | - | - |
+| act1vecb_02 | 低温征兆 | - | - |
+| act1vecb_03 | 重荷 | - | - |
+| act1vecb_04 | 巨锤与锐枪 | - | - |
+| act1vecb_05 | 刻骨铭心 | - | - |
+| act1vecb_06 | 远方来袭 | - | - |
+| act1vecb_07 | 赤红的冰 | - | - |
+| act1vecb_08 | 思绪之隙 | - | - |
+| act1vecb_sp01 | 丛林巅峰 | - | - |
+| act1vecb_sp02 | 狂徒围攻 | - | - |
+| act1vecb_sp03 | 巫术纠缠 | - | - |
+| act1vecb_sp04 | 盾阵隘口 | - | - |
+| act1vecb_sp05 | 伙友之影 | - | - |
+| act1vecb_sp06 | 酒厂英豪 | - | - |
+| act1vecb_sp07 | 异质聚群 | - | - |
+| act1vecb_sp08 | 炮火泥潭 | - | - |
 | act20side_01 | 沉浸式游览 | Alternate Reality Tourism | 没入型ツアー |
 | act20side_02 | 下坠 | Freefall | 落下 |
 | act20side_03 | 奇谈怪论 | Stranger Things | 奇談怪論 |
@@ -6326,6 +6353,7 @@ tip: 请善用浏览器的搜索功能
 | act1lock_zone1 | 始发营地 | Base Camp | 始発拠点 |
 | act1r6sre_zone1 | 行动记录 | Task Record | 作戦記録 |
 | act1r6sre_zone2 | 备战训练 | Para Bellum | 戦闘訓練 |
+| act1vecb_zone1 | 第一阶段 | - | - |
 | act20side_zone1 | 地底观光 | Underground Sightseeing | 地底観光 |
 | act20side_zone2 | 文化冲击 | Cultural Shock | 異文化交流 |
 | act20side_zone3 | 升降梯整备 | Elevator Maintenance | 昇降機整備 |

@@ -4432,7 +4432,7 @@
   "trap_178_trrbox": {
     "type": "TRAP",
     "names": {
-      "zh_CN": "\"宝箱“"
+      "zh_CN": "“宝箱”"
     }
   },
   "trap_179_muctrl": {
@@ -6983,6 +6983,12 @@
       "zh_CN": "模特之夜"
     }
   },
+  "char_240_wyvern@game#4": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "平原驯虫士"
+    }
+  },
   "char_241_panda@marthe#1": {
     "type": "SKIN",
     "names": {
@@ -8133,6 +8139,12 @@
     "type": "SKIN",
     "names": {
       "zh_CN": "泰拉冒险"
+    }
+  },
+  "char_4151_tinman@sale#11": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "相位面容"
     }
   },
   "char_415_flint@boc#3": {
@@ -17447,6 +17459,36 @@
       "zh_CN": "再铸扈从"
     }
   },
+  "enemy_8007_eltrsm": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“迷迭香”，虚实之握"
+    }
+  },
+  "enemy_8007_eltrsm_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“迷迭香”，虚实之握"
+    }
+  },
+  "enemy_8007_eltrsm_3": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“迷迭香”，虚实之握"
+    }
+  },
+  "enemy_8008_eltswd": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "矢量战术装备"
+    }
+  },
+  "enemy_8009_eltufo": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“迷迭香”的无人机"
+    }
+  },
   "0D5act": {
     "type": "ACTIVITY",
     "names": {
@@ -18145,6 +18187,12 @@
       "zh_CN": "九色鹿签到复刻活动"
     }
   },
+  "act1vecb": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "矢量突破"
+    }
+  },
   "act20login": {
     "type": "ACTIVITY",
     "names": {
@@ -18669,6 +18717,12 @@
     "type": "ACTIVITY",
     "names": {
       "zh_CN": "良辰迎月签到活动"
+    }
+  },
+  "act44sign": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "构想试炼签到活动"
     }
   },
   "act4bossrush": {
@@ -21238,6 +21292,12 @@
       "en_US": "Badge of Prosperity",
       "ja_JP": "繁栄の証",
       "zh_CN": "繁荣证章"
+    }
+  },
+  "act1vecb_milestone_point": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "胜绩积分"
     }
   },
   "act20side_token_book": {
@@ -28875,6 +28935,12 @@
     "type": "POOL",
     "names": {
       "zh_CN": "鸣铳"
+    }
+  },
+  "SPECIAL_54_0_5": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "定向甄选"
     }
   },
   "_ATTAIN_15_2_1": {
@@ -40934,6 +41000,102 @@
       "zh_CN": "黄昏秘境"
     }
   },
+  "act1vecb_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "拳拳生风"
+    }
+  },
+  "act1vecb_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "低温征兆"
+    }
+  },
+  "act1vecb_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "重荷"
+    }
+  },
+  "act1vecb_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "巨锤与锐枪"
+    }
+  },
+  "act1vecb_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "刻骨铭心"
+    }
+  },
+  "act1vecb_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "远方来袭"
+    }
+  },
+  "act1vecb_07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "赤红的冰"
+    }
+  },
+  "act1vecb_08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "思绪之隙"
+    }
+  },
+  "act1vecb_sp01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "丛林巅峰"
+    }
+  },
+  "act1vecb_sp02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "狂徒围攻"
+    }
+  },
+  "act1vecb_sp03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "巫术纠缠"
+    }
+  },
+  "act1vecb_sp04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "盾阵隘口"
+    }
+  },
+  "act1vecb_sp05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "伙友之影"
+    }
+  },
+  "act1vecb_sp06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "酒厂英豪"
+    }
+  },
+  "act1vecb_sp07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "异质聚群"
+    }
+  },
+  "act1vecb_sp08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "炮火泥潭"
+    }
+  },
   "act20side_01": {
     "type": "STAGE",
     "names": {
@@ -48716,6 +48878,12 @@
       "en_US": "Para Bellum",
       "ja_JP": "戦闘訓練",
       "zh_CN": "备战训练"
+    }
+  },
+  "act1vecb_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "第一阶段"
     }
   },
   "act20side_zone1": {

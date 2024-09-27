@@ -1140,3 +1140,8 @@ tip: 请善用浏览器的搜索功能
 | enemy_8001_flmlod_2 | 熔戈者，护王余火 | Sverdsmeltr, Guardian Ember of the King | スヴェルドメルター、王を守る余炎 |
 | enemy_8001_flmlod_3 | 熔戈者，护王余火 | Sverdsmeltr, Guardian Ember of the King | スヴェルドメルター、王を守る余炎 |
 | enemy_8006_flmgd | 再铸扈从 | Reforged Retinue | 再鋳造されし忠僕 |
+| enemy_8007_eltrsm | “迷迭香”，虚实之握 | - | - |
+| enemy_8007_eltrsm_2 | “迷迭香”，虚实之握 | - | - |
+| enemy_8007_eltrsm_3 | “迷迭香”，虚实之握 | - | - |
+| enemy_8008_eltswd | 矢量战术装备 | - | - |
+| enemy_8009_eltufo | “迷迭香”的无人机 | - | - |

@@ -173,7 +173,7 @@ tip: 请善用浏览器的搜索功能
 | trap_175_frfrut | 香甜烤果子 | - | - |
 | trap_176_frutwn | 缤纷果酒 | - | - |
 | trap_177_tentcl | 宝箱的肉？ | - | - |
-| trap_178_trrbox | "宝箱“ | - | - |
+| trap_178_trrbox | “宝箱” | - | - |
 | trap_179_muctrl | 促融共竞控制 | - | - |
 | trap_180_dsblock | 封印的地面 | - | - |
 | trap_181_sgray | 结晶消除桩 | - | - |

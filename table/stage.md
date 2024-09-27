@@ -365,6 +365,22 @@ tip: 请善用浏览器的搜索功能
 | act1lock_b-03 | 白昼之地-沉思 | Daytime Ground - Meditation | 白昼の地-深慮 |
 | act1lock_b-04 | 白昼之地-坚守 | Daytime Ground - Perseverance | 白昼の地-堅守 |
 | act1lock_c-01 | 黄昏秘境 | Twilight Frontier | 黄昏の秘境 |
+| act1vecb_01 | 拳拳生风 | - | - |
+| act1vecb_02 | 低温征兆 | - | - |
+| act1vecb_03 | 重荷 | - | - |
+| act1vecb_04 | 巨锤与锐枪 | - | - |
+| act1vecb_05 | 刻骨铭心 | - | - |
+| act1vecb_06 | 远方来袭 | - | - |
+| act1vecb_07 | 赤红的冰 | - | - |
+| act1vecb_08 | 思绪之隙 | - | - |
+| act1vecb_sp01 | 丛林巅峰 | - | - |
+| act1vecb_sp02 | 狂徒围攻 | - | - |
+| act1vecb_sp03 | 巫术纠缠 | - | - |
+| act1vecb_sp04 | 盾阵隘口 | - | - |
+| act1vecb_sp05 | 伙友之影 | - | - |
+| act1vecb_sp06 | 酒厂英豪 | - | - |
+| act1vecb_sp07 | 异质聚群 | - | - |
+| act1vecb_sp08 | 炮火泥潭 | - | - |
 | act20side_01 | 沉浸式游览 | Alternate Reality Tourism | 没入型ツアー |
 | act20side_02 | 下坠 | Freefall | 落下 |
 | act20side_03 | 奇谈怪论 | Stranger Things | 奇談怪論 |
