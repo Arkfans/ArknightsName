@@ -135,10 +135,55 @@
   "enemy_10020_sgcat": {
     "zh_CN": "米奥，热烈的考验者"
   },
+  "enemy_10021_vtcar": {
+    "zh_CN": "货运轨道车"
+  },
+  "enemy_10022_vtskny": {
+    "zh_CN": "新手拾荒者"
+  },
+  "enemy_10022_vtskny_2": {
+    "zh_CN": "老练拾荒者"
+  },
+  "enemy_10023_vtsnky": {
+    "zh_CN": "“护目镜”帮派窃贼"
+  },
+  "enemy_10023_vtsnky_2": {
+    "zh_CN": "“护目镜”帮派打手"
+  },
+  "enemy_10024_vtstrn": {
+    "zh_CN": "“街区自治队”成员"
+  },
+  "enemy_10024_vtstrn_2": {
+    "zh_CN": "“街区自治队”队长"
+  },
+  "enemy_10025_vtmstr": {
+    "zh_CN": "“铣痕”团伙佣兵"
+  },
+  "enemy_10025_vtmstr_2": {
+    "zh_CN": "“铣痕”团伙精锐佣兵"
+  },
+  "enemy_10026_vtzepl": {
+    "zh_CN": "物资运输艇"
+  },
+  "enemy_10026_vtzepl_2": {
+    "zh_CN": "大容量物资运输艇"
+  },
+  "enemy_10027_vtsk": {
+    "zh_CN": "“帝国的甲胄”"
+  },
+  "enemy_10028_vtswd": {
+    "zh_CN": "未装配刀片"
+  },
+  "enemy_10029_vtshld": {
+    "zh_CN": "防护背心"
+  },
   "enemy_1002_nsabr": {
     "en_US": "Soldier",
     "ja_JP": "兵士",
     "zh_CN": "士兵"
+  },
+  "enemy_10030_vtwand": {
+    "zh_CN": "冲击式施术单元"
   },
   "enemy_1003_ncbow": {
     "en_US": "Crossbowman",
@@ -4451,6 +4496,9 @@
   },
   "enemy_1558_sgactr": {
     "zh_CN": "祖巴伊达姆，从往昔来"
+  },
+  "enemy_1559_vtlionk": {
+    "zh_CN": "阿利斯泰尔，帝国余晖"
   },
   "enemy_2001_duckmi": {
     "en_US": "Duck Lord",

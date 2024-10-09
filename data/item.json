@@ -855,6 +855,12 @@
   "SINGLE_49_0_1_GACHA_10": {
     "zh_CN": "如死亦终十连寻访凭证"
   },
+  "SINGLE_55_0_1_GACHA": {
+    "zh_CN": "未致蒙尘寻访凭证"
+  },
+  "SINGLE_55_0_1_GACHA_10": {
+    "zh_CN": "未致蒙尘十连寻访凭证"
+  },
   "SOCIAL_PT": {
     "en_US": "Credit",
     "ja_JP": "FP",
@@ -1403,6 +1409,9 @@
   },
   "act36side_token_recipe": {
     "zh_CN": "今日食谱"
+  },
+  "act37side_token_nay": {
+    "zh_CN": "“我反对！”"
   },
   "act38d1_token_coin": {
     "en_US": "Crystalized Originium",
@@ -2839,6 +2848,9 @@
     "ja_JP": "純燼エイヤフィヤトラの印",
     "zh_CN": "纯烬艾雅法拉的信物"
   },
+  "p_char_1019_siege2": {
+    "zh_CN": "维娜·维多利亚的信物"
+  },
   "p_char_101_sora": {
     "en_US": "Sora's Token",
     "ja_JP": "ソラの印",
@@ -4185,6 +4197,9 @@
     "ja_JP": "フリントの印",
     "zh_CN": "燧石的信物"
   },
+  "p_char_4162_cathy": {
+    "zh_CN": "凯瑟琳的信物"
+  },
   "p_char_416_zumama": {
     "en_US": "Eunectes' Token",
     "ja_JP": "ユーネクテスの印",
@@ -4352,6 +4367,9 @@
     "en_US": "Tequila's Token",
     "ja_JP": "テキーラの印",
     "zh_CN": "龙舌兰的信物"
+  },
+  "p_char_487_bobb": {
+    "zh_CN": "波卜的信物"
   },
   "p_char_488_buildr": {
     "en_US": "Poncirus's Token",

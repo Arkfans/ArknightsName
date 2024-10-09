@@ -687,6 +687,18 @@ tip: 请善用浏览器的搜索功能
 | act36side_07 | 健康零食 | - | - |
 | act36side_08 | 罗德岛大食堂 | - | - |
 | act36side_tr01 | 美食指南 | - | - |
+| act37side_01 | 仇怨残余 | - | - |
+| act37side_02 | 痼疾缠身 | - | - |
+| act37side_03 | 议会公决 | - | - |
+| act37side_04 | 酒精与安慰剂 | - | - |
+| act37side_05 | 废铁与铆钉 | - | - |
+| act37side_06 | “晚饭宣言” | - | - |
+| act37side_07 | 锈王冠 | - | - |
+| act37side_08 | 战火重铸之剑 | - | - |
+| act37side_09 | 英雄的落幕 | - | - |
+| act37side_st01 | 历史的航向 | - | - |
+| act37side_st02 | 童话的结局 | - | - |
+| act37side_tr01 | 物资难题 | - | - |
 | act3bossrush_01 | 适者生存 | Survival of the Fittest | 適者生存 |
 | act3bossrush_02 | 惊惧与血色 | Blood and Terror | 恐怖と血色 |
 | act3bossrush_03 | 不测之渊 | Deep in Danger | 不測の淵 |
@@ -1240,6 +1252,8 @@ tip: 请善用浏览器的搜索功能
 | sub_07-1-2 | 埋伏-2 | Ambush-2 | 潜伏-2 |
 | sub_09-1-1 | 废墟坚守 | Holding Ruins | 廃墟防戦 |
 | sub_09-1-2 | 背向火灼 | Back to the Flames | 火焔に背を向けて |
+| sub_09-1-3 | 灰烬之下 | - | - |
+| sub_09-1-4 | 退无可退 | - | - |
 | tr_01 | 战地医疗  | Battlefield Treatment | 戦場医療 |
 | tr_02 | 定向瞄准 | Directed Aim | 精密射撃 |
 | tr_03 | 精确打击 | Precise Strike | 狙撃 |

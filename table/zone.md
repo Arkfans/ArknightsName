@@ -166,6 +166,8 @@ tip: 请善用浏览器的搜索功能
 | act35side_zone3 | 藏珍宝库 | - | - |
 | act36side_zone1 | 品尝魔物 | - | - |
 | act36side_zone2 | 走遍泰拉 | - | - |
+| act37side_zone1 | 无名之勋 | - | - |
+| act37side_zone2 | 未了往昔 | - | - |
 | act3bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act4bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act5d0_zone1 | 下城区 | Downtown | 繁華街 |

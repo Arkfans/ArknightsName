@@ -430,6 +430,12 @@
     "ja_JP": "毒液装填",
     "zh_CN": "毒液散射"
   },
+  "skchr_bobb_1": {
+    "zh_CN": "非和平劝说"
+  },
+  "skchr_bobb_2": {
+    "zh_CN": "“此路不通”"
+  },
   "skchr_bpipe_2": {
     "en_US": "High-Impact Assault",
     "ja_JP": "ハイパーインパクト",
@@ -519,6 +525,12 @@
     "en_US": "Blast Range Up α",
     "ja_JP": "爆破範囲拡大α",
     "zh_CN": "爆破范围提升·α型"
+  },
+  "skchr_cathy_1": {
+    "zh_CN": "岁月锻打"
+  },
+  "skchr_cathy_2": {
+    "zh_CN": "战火淬炼"
   },
   "skchr_ccheal_1": {
     "en_US": "Vitality Restoration",
@@ -2594,6 +2606,15 @@
     "ja_JP": "裂波奮迅",
     "zh_CN": "破浪回神"
   },
+  "skchr_siege2_1": {
+    "zh_CN": "重铸晖光"
+  },
+  "skchr_siege2_2": {
+    "zh_CN": "进赴故土"
+  },
+  "skchr_siege2_3": {
+    "zh_CN": "俱以我之名"
+  },
   "skchr_siege_2": {
     "en_US": "Aerial Hammer",
     "ja_JP": "スカイスマッシュ",
@@ -3603,6 +3624,12 @@
     "en_US": "Deployment Platform",
     "ja_JP": "ボード設置",
     "zh_CN": "放置平台"
+  },
+  "sktok_cathy_catsld_1": {
+    "zh_CN": "岁月锻打"
+  },
+  "sktok_cathy_catsld_2": {
+    "zh_CN": "战火淬炼"
   },
   "sktok_cd1punch": {
     "zh_CN": "灌录"
@@ -4807,6 +4834,9 @@
     "en_US": "Cursed Doll",
     "ja_JP": "呪いの人形",
     "zh_CN": "诅咒娃娃"
+  },
+  "sktok_vtarsn": {
+    "zh_CN": "军工厂生产！"
   },
   "sktok_vultres": {
     "en_US": "Alluring Treasures",

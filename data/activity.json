@@ -676,6 +676,9 @@
     "ja_JP": "双塔の高みを目指してスタンプラリー",
     "zh_CN": "步上双塔之时签到活动"
   },
+  "act37side": {
+    "zh_CN": "追迹日落以西"
+  },
   "act37sign": {
     "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",

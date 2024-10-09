@@ -34,6 +34,9 @@
     "ja_JP": "爆裂フェリーン",
     "zh_CN": "爆裂菲林"
   },
+  "char_017_huang@witch#5": {
+    "zh_CN": "易爆蓝焰"
+  },
   "char_1001_amiya2@casc#1": {
     "zh_CN": "触及星辰"
   },
@@ -845,6 +848,9 @@
     "ja_JP": "無題の密命",
     "zh_CN": "无题密令"
   },
+  "char_281_popka@witch#5": {
+    "zh_CN": "魔女的秋千"
+  },
   "char_282_catap@summer#17": {
     "zh_CN": "悠然假日 HD66"
   },
@@ -1387,6 +1393,12 @@
   },
   "char_4106_bryota@epoque#34": {
     "zh_CN": "动感"
+  },
+  "char_4109_baslin@witch#5": {
+    "zh_CN": "夜空星芒"
+  },
+  "char_4116_blkkgt@witch#5": {
+    "zh_CN": "暗月的影子"
   },
   "char_411_tomimi@summer#5": {
     "en_US": "Silent Night DN04",

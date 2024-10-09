@@ -94,6 +94,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_blkngt_2 | 安眠 | Peaceful Slumber | 深き眠り |
 | skchr_bluep_1 | 二重射击·自动 | Twinshot - Auto | ダブルショット |
 | skchr_bluep_2 | 毒液散射 | Venom Spray | 毒液装填 |
+| skchr_bobb_1 | 非和平劝说 | - | - |
+| skchr_bobb_2 | “此路不通” | - | - |
 | skchr_bpipe_2 | 高效冲击 | High-Impact Assault | ハイパーインパクト |
 | skchr_bpipe_3 | 闭膛连发 | Locked Breech Burst | クローズドボルト連射 |
 | skchr_breeze_1 | 集束疗法 | Cluster Therapy | 集中療法 |
@@ -112,6 +114,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_caper_1 | 强力击·β型 | Power Strike β | 強撃β |
 | skchr_caper_2 | 乐趣加倍 | Double the Fun | ハピネス200％！ |
 | skchr_catap_1 | 爆破范围提升·α型 | Blast Range Up α | 爆破範囲拡大α |
+| skchr_cathy_1 | 岁月锻打 | - | - |
+| skchr_cathy_2 | 战火淬炼 | - | - |
 | skchr_ccheal_1 | 活力再生 | Vitality Restoration | 回復力促進 |
 | skchr_ccheal_2 | 活力再生·广域 | Vitality Restoration - Wide Range | 回復力促進・広域 |
 | skchr_cello_1 | “黄金的狂喜” | 'Golden Ecstasy' | 「黄金のエクスタシー」 |
@@ -542,6 +546,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_shwaz_2 | 暮眼锐瞳 | Sharp Eye | 暮色の慧眼 |
 | skchr_shwaz_3 | 战术的终结 | Final Tactics | ターミネート |
 | skchr_sidero_2 | 破浪回神 | Restorative Surge | 裂波奮迅 |
+| skchr_siege2_1 | 重铸晖光 | - | - |
+| skchr_siege2_2 | 进赴故土 | - | - |
+| skchr_siege2_3 | 俱以我之名 | - | - |
 | skchr_siege_2 | 跃空锤 | Aerial Hammer | スカイスマッシュ |
 | skchr_siege_3 | 碎颅击 | Skull Breaker | スカルクラッシュ |
 | skchr_silent_2 | 医疗无人机 | Medical Drone | 医療ドローン |
@@ -752,6 +759,8 @@ tip: 请善用浏览器的搜索功能
 | sktok_cannon_2 | 脉冲束流 | Pulse Beam | 衝撃集束波 |
 | sktok_canoe_1 | 放置平台 | Deployment Platform | ボード設置 |
 | sktok_canoe_2 | 放置平台 | Deployment Platform | ボード設置 |
+| sktok_cathy_catsld_1 | 岁月锻打 | - | - |
+| sktok_cathy_catsld_2 | 战火淬炼 | - | - |
 | sktok_cd1punch | 灌录 | - | - |
 | sktok_cd1puncha | 灌录 | - | - |
 | sktok_cd1punchb | 灌录 | - | - |
@@ -1010,6 +1019,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_vigil_wolf_2 | 狼群 | Wolfpack | 群狼 |
 | sktok_vigil_wolf_3 | 狼群 | Wolfpack | 群狼 |
 | sktok_vodfox_token | 诅咒娃娃 | Cursed Doll | 呪いの人形 |
+| sktok_vtarsn | 军工厂生产！ | - | - |
 | sktok_vultres | 诱人珍宝 | Alluring Treasures | 財宝のいざない |
 | sktok_wdescp | 建立通讯 | Establish Communication | 通信確立 |
 | sktok_wdfarm | 补给 | Resupply | 補給 |

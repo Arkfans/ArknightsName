@@ -79,6 +79,12 @@
       "zh_CN": "纯烬艾雅法拉"
     }
   },
+  "char_1019_siege2": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "维娜·维多利亚"
+    }
+  },
   "char_101_sora": {
     "type": "OPERATOR",
     "names": {
@@ -2299,6 +2305,12 @@
       "zh_CN": "燧石"
     }
   },
+  "char_4162_cathy": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "凯瑟琳"
+    }
+  },
   "char_416_zumama": {
     "type": "OPERATOR",
     "names": {
@@ -2575,6 +2587,12 @@
       "en_US": "Tequila",
       "ja_JP": "テキーラ",
       "zh_CN": "龙舌兰"
+    }
+  },
+  "char_487_bobb": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "波卜"
     }
   },
   "char_488_buildr": {
@@ -3127,6 +3145,18 @@
     "type": "TOKEN",
     "names": {
       "zh_CN": "从不混淆的方向"
+    }
+  },
+  "token_10040_siege2_vlion": {
+    "type": "TOKEN",
+    "names": {
+      "zh_CN": "黄金盟誓"
+    }
+  },
+  "token_10041_cathy_catsld": {
+    "type": "TOKEN",
+    "names": {
+      "zh_CN": "爬行号·防护单元"
     }
   },
   "trap_079_allydonq": {
@@ -4463,6 +4493,18 @@
     "type": "TRAP",
     "names": {
       "zh_CN": "作战专用掩体"
+    }
+  },
+  "trap_184_vtarsn": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "军工厂指令平台"
+    }
+  },
+  "trap_185_vtlntw": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "黄金回响"
     }
   },
   "trap_400_xbfarm": {
@@ -5885,6 +5927,12 @@
       "zh_CN": "爆裂菲林"
     }
   },
+  "char_017_huang@witch#5": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "易爆蓝焰"
+    }
+  },
   "char_1001_amiya2@casc#1": {
     "type": "SKIN",
     "names": {
@@ -7203,6 +7251,12 @@
       "zh_CN": "无题密令"
     }
   },
+  "char_281_popka@witch#5": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "魔女的秋千"
+    }
+  },
   "char_282_catap@summer#17": {
     "type": "SKIN",
     "names": {
@@ -8097,6 +8151,18 @@
       "zh_CN": "动感"
     }
   },
+  "char_4109_baslin@witch#5": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "夜空星芒"
+    }
+  },
+  "char_4116_blkkgt@witch#5": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "暗月的影子"
+    }
+  },
   "char_411_tomimi@summer#5": {
     "type": "SKIN",
     "names": {
@@ -8979,12 +9045,102 @@
       "zh_CN": "米奥，热烈的考验者"
     }
   },
+  "enemy_10021_vtcar": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "货运轨道车"
+    }
+  },
+  "enemy_10022_vtskny": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "新手拾荒者"
+    }
+  },
+  "enemy_10022_vtskny_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "老练拾荒者"
+    }
+  },
+  "enemy_10023_vtsnky": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“护目镜”帮派窃贼"
+    }
+  },
+  "enemy_10023_vtsnky_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“护目镜”帮派打手"
+    }
+  },
+  "enemy_10024_vtstrn": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“街区自治队”成员"
+    }
+  },
+  "enemy_10024_vtstrn_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“街区自治队”队长"
+    }
+  },
+  "enemy_10025_vtmstr": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“铣痕”团伙佣兵"
+    }
+  },
+  "enemy_10025_vtmstr_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“铣痕”团伙精锐佣兵"
+    }
+  },
+  "enemy_10026_vtzepl": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "物资运输艇"
+    }
+  },
+  "enemy_10026_vtzepl_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "大容量物资运输艇"
+    }
+  },
+  "enemy_10027_vtsk": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“帝国的甲胄”"
+    }
+  },
+  "enemy_10028_vtswd": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "未装配刀片"
+    }
+  },
+  "enemy_10029_vtshld": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "防护背心"
+    }
+  },
   "enemy_1002_nsabr": {
     "type": "ENEMY",
     "names": {
       "en_US": "Soldier",
       "ja_JP": "兵士",
       "zh_CN": "士兵"
+    }
+  },
+  "enemy_10030_vtwand": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "冲击式施术单元"
     }
   },
   "enemy_1003_ncbow": {
@@ -15957,6 +16113,12 @@
       "zh_CN": "祖巴伊达姆，从往昔来"
     }
   },
+  "enemy_1559_vtlionk": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "阿利斯泰尔，帝国余晖"
+    }
+  },
   "enemy_2001_duckmi": {
     "type": "ENEMY",
     "names": {
@@ -18595,6 +18757,12 @@
       "zh_CN": "步上双塔之时签到活动"
     }
   },
+  "act37side": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "追迹日落以西"
+    }
+  },
   "act37sign": {
     "type": "ACTIVITY",
     "names": {
@@ -20732,6 +20900,18 @@
       "zh_CN": "如死亦终十连寻访凭证"
     }
   },
+  "SINGLE_55_0_1_GACHA": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "未致蒙尘寻访凭证"
+    }
+  },
+  "SINGLE_55_0_1_GACHA_10": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "未致蒙尘十连寻访凭证"
+    }
+  },
   "SOCIAL_PT": {
     "type": "ITEM",
     "names": {
@@ -21624,6 +21804,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "今日食谱"
+    }
+  },
+  "act37side_token_nay": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "“我反对！”"
     }
   },
   "act38d1_token_coin": {
@@ -23955,6 +24141,12 @@
       "zh_CN": "纯烬艾雅法拉的信物"
     }
   },
+  "p_char_1019_siege2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "维娜·维多利亚的信物"
+    }
+  },
   "p_char_101_sora": {
     "type": "ITEM",
     "names": {
@@ -26135,6 +26327,12 @@
       "zh_CN": "燧石的信物"
     }
   },
+  "p_char_4162_cathy": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "凯瑟琳的信物"
+    }
+  },
   "p_char_416_zumama": {
     "type": "ITEM",
     "names": {
@@ -26403,6 +26601,12 @@
       "en_US": "Tequila's Token",
       "ja_JP": "テキーラの印",
       "zh_CN": "龙舌兰的信物"
+    }
+  },
+  "p_char_487_bobb": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "波卜的信物"
     }
   },
   "p_char_488_buildr": {
@@ -28937,6 +29141,12 @@
       "zh_CN": "鸣铳"
     }
   },
+  "SINGLE_55_0_1": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "未致蒙尘"
+    }
+  },
   "SPECIAL_54_0_5": {
     "type": "POOL",
     "names": {
@@ -30360,6 +30570,18 @@
       "zh_CN": "毒液散射"
     }
   },
+  "skchr_bobb_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "非和平劝说"
+    }
+  },
+  "skchr_bobb_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“此路不通”"
+    }
+  },
   "skchr_bpipe_2": {
     "type": "SKILL",
     "names": {
@@ -30502,6 +30724,18 @@
       "en_US": "Blast Range Up α",
       "ja_JP": "爆破範囲拡大α",
       "zh_CN": "爆破范围提升·α型"
+    }
+  },
+  "skchr_cathy_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "岁月锻打"
+    }
+  },
+  "skchr_cathy_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "战火淬炼"
     }
   },
   "skchr_ccheal_1": {
@@ -33868,6 +34102,24 @@
       "zh_CN": "破浪回神"
     }
   },
+  "skchr_siege2_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "重铸晖光"
+    }
+  },
+  "skchr_siege2_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "进赴故土"
+    }
+  },
+  "skchr_siege2_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "俱以我之名"
+    }
+  },
   "skchr_siege_2": {
     "type": "SKILL",
     "names": {
@@ -35506,6 +35758,18 @@
       "en_US": "Deployment Platform",
       "ja_JP": "ボード設置",
       "zh_CN": "放置平台"
+    }
+  },
+  "sktok_cathy_catsld_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "岁月锻打"
+    }
+  },
+  "sktok_cathy_catsld_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "战火淬炼"
     }
   },
   "sktok_cd1punch": {
@@ -37484,6 +37748,12 @@
       "en_US": "Cursed Doll",
       "ja_JP": "呪いの人形",
       "zh_CN": "诅咒娃娃"
+    }
+  },
+  "sktok_vtarsn": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "军工厂生产！"
     }
   },
   "sktok_vultres": {
@@ -43398,6 +43668,78 @@
       "zh_CN": "美食指南"
     }
   },
+  "act37side_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "仇怨残余"
+    }
+  },
+  "act37side_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "痼疾缠身"
+    }
+  },
+  "act37side_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "议会公决"
+    }
+  },
+  "act37side_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "酒精与安慰剂"
+    }
+  },
+  "act37side_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "废铁与铆钉"
+    }
+  },
+  "act37side_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "“晚饭宣言”"
+    }
+  },
+  "act37side_07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "锈王冠"
+    }
+  },
+  "act37side_08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "战火重铸之剑"
+    }
+  },
+  "act37side_09": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "英雄的落幕"
+    }
+  },
+  "act37side_st01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "历史的航向"
+    }
+  },
+  "act37side_st02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "童话的结局"
+    }
+  },
+  "act37side_tr01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "物资难题"
+    }
+  },
   "act3bossrush_01": {
     "type": "STAGE",
     "names": {
@@ -47712,6 +48054,18 @@
       "zh_CN": "背向火灼"
     }
   },
+  "sub_09-1-3": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "灰烬之下"
+    }
+  },
+  "sub_09-1-4": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "退无可退"
+    }
+  },
   "tr_01": {
     "type": "STAGE",
     "names": {
@@ -49382,6 +49736,18 @@
       "zh_CN": "走遍泰拉"
     }
   },
+  "act37side_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "无名之勋"
+    }
+  },
+  "act37side_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "未了往昔"
+    }
+  },
   "act3bossrush_zone1": {
     "type": "ZONE",
     "names": {
@@ -50296,6 +50662,12 @@
       "zh_CN": "一些选择"
     }
   },
+  "story_absin_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "向死寻生"
+    }
+  },
   "story_acdrop_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -50480,6 +50852,12 @@
       "en_US": "Seeker in the Sands",
       "ja_JP": "黄砂の追跡",
       "zh_CN": "黄沙觅迹"
+    }
+  },
+  "story_baslin_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "晚霞下的演奏"
     }
   },
   "story_beewax_set_1_story_1": {
@@ -51400,6 +51778,12 @@
       "zh_CN": "糖果屋"
     }
   },
+  "story_ironmn_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "啮合不良"
+    }
+  },
   "story_jaksel_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -51842,6 +52226,12 @@
       "en_US": "Nosedive",
       "ja_JP": "一落千丈",
       "zh_CN": "一落千丈"
+    }
+  },
+  "story_papyrs_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "玻璃窗外"
     }
   },
   "story_peper_set_1_story_1": {

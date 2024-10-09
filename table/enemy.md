@@ -47,7 +47,22 @@ tip: 请善用浏览器的搜索功能
 | enemy_1001_bigbo | 大鲍勃 | Big Bob | Big Bob |
 | enemy_1001_bigbo_2 | 大亚当 | Big Adam | Big Adam |
 | enemy_10020_sgcat | 米奥，热烈的考验者 | - | - |
+| enemy_10021_vtcar | 货运轨道车 | - | - |
+| enemy_10022_vtskny | 新手拾荒者 | - | - |
+| enemy_10022_vtskny_2 | 老练拾荒者 | - | - |
+| enemy_10023_vtsnky | “护目镜”帮派窃贼 | - | - |
+| enemy_10023_vtsnky_2 | “护目镜”帮派打手 | - | - |
+| enemy_10024_vtstrn | “街区自治队”成员 | - | - |
+| enemy_10024_vtstrn_2 | “街区自治队”队长 | - | - |
+| enemy_10025_vtmstr | “铣痕”团伙佣兵 | - | - |
+| enemy_10025_vtmstr_2 | “铣痕”团伙精锐佣兵 | - | - |
+| enemy_10026_vtzepl | 物资运输艇 | - | - |
+| enemy_10026_vtzepl_2 | 大容量物资运输艇 | - | - |
+| enemy_10027_vtsk | “帝国的甲胄” | - | - |
+| enemy_10028_vtswd | 未装配刀片 | - | - |
+| enemy_10029_vtshld | 防护背心 | - | - |
 | enemy_1002_nsabr | 士兵 | Soldier | 兵士 |
+| enemy_10030_vtwand | 冲击式施术单元 | - | - |
 | enemy_1003_ncbow | 弩手 | Crossbowman | 射撃兵 |
 | enemy_1003_ncbow_2 | 弩手组长 | Crossbowman Leader | 射撃隊長 |
 | enemy_1004_mslime | 酸液源石虫 | Acid Originium Slug | アシッドムシ |
@@ -936,6 +951,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1556_dsbish | 玛利图斯，“海嗣” | - | - |
 | enemy_1557_trcerb | “三头犬” | - | - |
 | enemy_1558_sgactr | 祖巴伊达姆，从往昔来 | - | - |
+| enemy_1559_vtlionk | 阿利斯泰尔，帝国余晖 | - | - |
 | enemy_2001_duckmi | 鸭爵 | Duck Lord | ダック卿 |
 | enemy_2002_bearmi | 高普尼克 | Gopnik | ゴプニク |
 | enemy_2003_rockman | 迷路的巨像 | Lost Colossus | 迷子の巨像 |

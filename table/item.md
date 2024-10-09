@@ -179,6 +179,8 @@ tip: 请善用浏览器的搜索功能
 | RETRO_COIN | 事相结晶 | Event Crystal | 事象の結晶 |
 | SINGLE_49_0_1_GACHA | 如死亦终寻访凭证 | - | - |
 | SINGLE_49_0_1_GACHA_10 | 如死亦终十连寻访凭证 | - | - |
+| SINGLE_55_0_1_GACHA | 未致蒙尘寻访凭证 | - | - |
+| SINGLE_55_0_1_GACHA_10 | 未致蒙尘十连寻访凭证 | - | - |
 | SOCIAL_PT | 信用 | Credit | FP |
 | STORY_REVIEW_COIN | 事相碎片 | Information Fragments | 事象の欠片 |
 | act10d5_token_biscuit | 彼得海姆热销饼干 | Best-selling Peterheim Cookies | ぺテルヘイムクッキー |
@@ -294,6 +296,7 @@ tip: 请善用浏览器的搜索功能
 | act34side_token_chip | “应急物资”蓝图芯片 | - | - |
 | act35side_token_dust | 流光之沙 | - | - |
 | act36side_token_recipe | 今日食谱 | - | - |
+| act37side_token_nay | “我反对！” | - | - |
 | act38d1_token_coin | 晶化源石 | Crystalized Originium | 結晶化源石 |
 | act3bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act3bossrush_relic_01 | 恢复增幅 | Recovery Boost | 癒しの増幅 |
@@ -595,6 +598,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_1013_chen2 | 假日威龙陈的信物 | Ch'en the Holungday's Token | 遊龍チェンの印 |
 | p_char_1014_nearl2 | 耀骑士临光的信物 | Nearl the Radiant Knight's Token | 耀騎士ニアールの印 |
 | p_char_1016_agoat2 | 纯烬艾雅法拉的信物 | Eyjafjalla the Hvít Aska's Token | 純燼エイヤフィヤトラの印 |
+| p_char_1019_siege2 | 维娜·维多利亚的信物 | - | - |
 | p_char_101_sora | 空的信物 | Sora's Token | ソラの印 |
 | p_char_1020_reed2 | 焰影苇草的信物 | Reed the Flame Shadow's Token | 焔影リードの印 |
 | p_char_1021_kroos2 | 寒芒克洛丝的信物 | Kroos the Keen Glint’s Token | 寒芒クルースの印 |
@@ -873,6 +877,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4147_mitm | 渡桥的信物 | - | - |
 | p_char_4151_tinman | 锡人的信物 | - | - |
 | p_char_415_flint | 燧石的信物 | Flint's Token | フリントの印 |
+| p_char_4162_cathy | 凯瑟琳的信物 | - | - |
 | p_char_416_zumama | 森蚺的信物 | Eunectes' Token | ユーネクテスの印 |
 | p_char_420_flamtl | 焰尾的信物 | Flametail's Token | フレイムテイルの印 |
 | p_char_421_crow | 羽毛笔的信物 | La Pluma's Token | ラ・プルマの印 |
@@ -907,6 +912,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_484_robrta | 罗比菈塔的信物 | Roberta's Token | ロベルタの印 |
 | p_char_485_pallas | 帕拉斯的信物 | Pallas's Token | パラスの印 |
 | p_char_486_takila | 龙舌兰的信物 | Tequila's Token | テキーラの印 |
+| p_char_487_bobb | 波卜的信物 | - | - |
 | p_char_488_buildr | 青枳的信物 | Poncirus's Token | ポンシラスの印 |
 | p_char_489_serum | 蚀清的信物 | Corroserum's Token | コロセラムの印 |
 | p_char_491_humus | 休谟斯的信物 | Humus's Token | ヒューマスの印 |

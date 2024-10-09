@@ -49,6 +49,9 @@
     "ja_JP": "純燼エイヤフィヤトラ",
     "zh_CN": "纯烬艾雅法拉"
   },
+  "char_1019_siege2": {
+    "zh_CN": "维娜·维多利亚"
+  },
   "char_101_sora": {
     "en_US": "Sora",
     "ja_JP": "ソラ",
@@ -1420,6 +1423,9 @@
     "ja_JP": "フリント",
     "zh_CN": "燧石"
   },
+  "char_4162_cathy": {
+    "zh_CN": "凯瑟琳"
+  },
   "char_416_zumama": {
     "en_US": "Eunectes",
     "ja_JP": "ユーネクテス",
@@ -1592,6 +1598,9 @@
     "en_US": "Tequila",
     "ja_JP": "テキーラ",
     "zh_CN": "龙舌兰"
+  },
+  "char_487_bobb": {
+    "zh_CN": "波卜"
   },
   "char_488_buildr": {
     "en_US": "Poncirus",

@@ -148,6 +148,7 @@ tip: 请善用浏览器的搜索功能
 | act35sign | 清光邀月——月饼烘焙小教程 | Moonlight Invite - Mooncake-Making Tutorial | 清風明月-ロドス点心教室 |
 | act36side | 泰拉饭 | - | - |
 | act36sign | 步上双塔之时签到活动 | Climbing the Twin Spires Sign-In Event | 双塔の高みを目指してスタンプラリー |
+| act37side | 追迹日落以西 | - | - |
 | act37sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act38d1 | 尖灭测试作战 | Pinch-Out Experimental Operation | 尖滅試験作戦 |
 | act38sign | 明日方舟X彩虹六号：围攻签到活动 | Arknights x Rainbow Six Siege Login Event | アークナイツ×R6Sスタンプラリー |
