@@ -1365,14 +1365,17 @@
     "zh_CN": "导火索"
   },
   "char_4130_luton": {
+    "en_US": "Lutonada",
     "ja_JP": "ルトナダ",
     "zh_CN": "露托"
   },
   "char_4131_odda": {
+    "en_US": "Odda",
     "ja_JP": "オッダ",
     "zh_CN": "奥达"
   },
   "char_4132_ascln": {
+    "en_US": "Ascalon",
     "ja_JP": "アスカロン",
     "zh_CN": "阿斯卡纶"
   },
@@ -1495,6 +1498,7 @@
     "zh_CN": "松果"
   },
   "char_446_aroma": {
+    "en_US": "Aroma",
     "ja_JP": "アロマ",
     "zh_CN": "阿罗玛"
   },

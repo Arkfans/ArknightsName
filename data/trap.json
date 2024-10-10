@@ -710,10 +710,12 @@
     "zh_CN": "天桩"
   },
   "trap_147_spblls": {
+    "en_US": "Witchcraft Ballista",
     "ja_JP": "巫術バリスタ",
     "zh_CN": "巫术弩炮"
   },
   "trap_148_amblls": {
+    "en_US": "Umbral Door",
     "ja_JP": "幽影の扉",
     "zh_CN": "幽影门扉"
   },
@@ -1209,22 +1211,27 @@
     "zh_CN": "埋没金属箱"
   },
   "trap_482_xbblure": {
+    "en_US": "Slug Lure",
     "ja_JP": "オリジムシ捕獲トラップ",
     "zh_CN": "源石虫引诱器"
   },
   "trap_483_xbtrophy": {
+    "en_US": "'Heart of a Slug'",
     "ja_JP": "「オリジムシハート」",
     "zh_CN": "“源石虫之心”"
   },
   "trap_484_xbcp": {
+    "en_US": "Checkpoint",
     "ja_JP": "チェックポイント",
     "zh_CN": "检查点"
   },
   "trap_485_xbrandprop": {
+    "en_US": "Random Item Box",
     "ja_JP": "ランダムボックス",
     "zh_CN": "随机道具盒"
   },
   "trap_486_xbspd": {
+    "en_US": "Accelerator Tile",
     "ja_JP": "加速ブロック",
     "zh_CN": "加速块"
   },
@@ -1532,46 +1539,57 @@
     "zh_CN": "“蜜酿万岁！”"
   },
   "trap_746_cdrhine": {
+    "en_US": "Pinnacle Insights Port",
     "ja_JP": "最新学説共有端末",
     "zh_CN": "尖端研究成果共享终端"
   },
   "trap_747_cdrhinea": {
+    "en_US": "Pinnacle Insights Port",
     "ja_JP": "最新学説共有端末",
     "zh_CN": "尖端研究成果共享终端"
   },
   "trap_748_cdrhineb": {
+    "en_US": "Pinnacle Insights Port",
     "ja_JP": "最新学説共有端末",
     "zh_CN": "尖端研究成果共享终端"
   },
   "trap_749_cd1punch": {
+    "en_US": "Sound Recording Amplifier",
     "ja_JP": "音波記録増幅器",
     "zh_CN": "声波记录扩音器"
   },
   "trap_750_cd1puncha": {
+    "en_US": "Sound Recording Amplifier",
     "ja_JP": "音波記録増幅器",
     "zh_CN": "声波记录扩音器"
   },
   "trap_751_cd1punchb": {
+    "en_US": "Sound Recording Amplifier",
     "ja_JP": "音波記録増幅器",
     "zh_CN": "声波记录扩音器"
   },
   "trap_752_cdcaster": {
+    "en_US": "Arts Resonant Energy Field",
     "ja_JP": "アーツ同調力場",
     "zh_CN": "法术调和能量场"
   },
   "trap_753_cdcastera": {
+    "en_US": "Arts Resonant Energy Field",
     "ja_JP": "アーツ同調力場",
     "zh_CN": "法术调和能量场"
   },
   "trap_754_cdcasterb": {
+    "en_US": "Arts Resonant Energy Field",
     "ja_JP": "アーツ同調力場",
     "zh_CN": "法术调和能量场"
   },
   "trap_755_cdsoul": {
+    "en_US": "Squeaking Sound",
     "ja_JP": "ハウリングスピーカー",
     "zh_CN": "啸叫音响"
   },
   "trap_756_cdnest": {
+    "en_US": "'Sticky Prize'",
     "ja_JP": "「ねばねばしたおまけ」",
     "zh_CN": "“黏黏的赠品”"
   },

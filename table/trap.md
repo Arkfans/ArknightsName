@@ -147,8 +147,8 @@ tip: 请善用浏览器的搜索功能
 | trap_144_ads | 临时掩护装置 | Temporary Cover | 仮設掩体装置 |
 | trap_145_edd | 诡雷布设装置 | Mine Deployer | トラップ設置装置 |
 | trap_146_dhdcr | 天桩 | Sky Pole | 天杭 |
-| trap_147_spblls | 巫术弩炮 | - | 巫術バリスタ |
-| trap_148_amblls | 幽影门扉 | - | 幽影の扉 |
+| trap_147_spblls | 巫术弩炮 | Witchcraft Ballista | 巫術バリスタ |
+| trap_148_amblls | 幽影门扉 | Umbral Door | 幽影の扉 |
 | trap_151_muruinw | 折叠式堡垒模块 | - | - |
 | trap_152_muruino | 折叠式辅助器械 | - | - |
 | trap_154_mugtps | 阵地屏障 | - | - |
@@ -264,11 +264,11 @@ tip: 请善用浏览器的搜索功能
 | trap_479_xbbillb | 告示牌 | Billboard | 看板 |
 | trap_480_roadblockxb | 道路障碍物 | Static Roadblock | 道路障害物 |
 | trap_481_gtreasureb | 埋没金属箱 | Buried Metal Chest | 埋もれた金属の箱 |
-| trap_482_xbblure | 源石虫引诱器 | - | オリジムシ捕獲トラップ |
-| trap_483_xbtrophy | “源石虫之心” | - | 「オリジムシハート」 |
-| trap_484_xbcp | 检查点 | - | チェックポイント |
-| trap_485_xbrandprop | 随机道具盒 | - | ランダムボックス |
-| trap_486_xbspd | 加速块 | - | 加速ブロック |
+| trap_482_xbblure | 源石虫引诱器 | Slug Lure | オリジムシ捕獲トラップ |
+| trap_483_xbtrophy | “源石虫之心” | 'Heart of a Slug' | 「オリジムシハート」 |
+| trap_484_xbcp | 检查点 | Checkpoint | チェックポイント |
+| trap_485_xbrandprop | 随机道具盒 | Random Item Box | ランダムボックス |
+| trap_486_xbspd | 加速块 | Accelerator Tile | 加速ブロック |
 | trap_487_xblfen | 大型兽栏 | - | - |
 | trap_488_xbtwod | 全自动切木站 | - | - |
 | trap_489_xbtrok | 全自动掘石站 | - | - |
@@ -340,17 +340,17 @@ tip: 请善用浏览器的搜索功能
 | trap_743_gasbota | 速冷喷雾发射台 | Quick-freezing Sprayer Platform | 急速冷却噴射台 |
 | trap_744_gasbotb | 速冷喷雾发射台 | Quick-freezing Sprayer Platform | 急速冷却噴射台 |
 | trap_745_beer | “蜜酿万岁！” | 'Long Live Mead!' | 「ミード万歳！」 |
-| trap_746_cdrhine | 尖端研究成果共享终端 | - | 最新学説共有端末 |
-| trap_747_cdrhinea | 尖端研究成果共享终端 | - | 最新学説共有端末 |
-| trap_748_cdrhineb | 尖端研究成果共享终端 | - | 最新学説共有端末 |
-| trap_749_cd1punch | 声波记录扩音器 | - | 音波記録増幅器 |
-| trap_750_cd1puncha | 声波记录扩音器 | - | 音波記録増幅器 |
-| trap_751_cd1punchb | 声波记录扩音器 | - | 音波記録増幅器 |
-| trap_752_cdcaster | 法术调和能量场 | - | アーツ同調力場 |
-| trap_753_cdcastera | 法术调和能量场 | - | アーツ同調力場 |
-| trap_754_cdcasterb | 法术调和能量场 | - | アーツ同調力場 |
-| trap_755_cdsoul | 啸叫音响 | - | ハウリングスピーカー |
-| trap_756_cdnest | “黏黏的赠品” | - | 「ねばねばしたおまけ」 |
+| trap_746_cdrhine | 尖端研究成果共享终端 | Pinnacle Insights Port | 最新学説共有端末 |
+| trap_747_cdrhinea | 尖端研究成果共享终端 | Pinnacle Insights Port | 最新学説共有端末 |
+| trap_748_cdrhineb | 尖端研究成果共享终端 | Pinnacle Insights Port | 最新学説共有端末 |
+| trap_749_cd1punch | 声波记录扩音器 | Sound Recording Amplifier | 音波記録増幅器 |
+| trap_750_cd1puncha | 声波记录扩音器 | Sound Recording Amplifier | 音波記録増幅器 |
+| trap_751_cd1punchb | 声波记录扩音器 | Sound Recording Amplifier | 音波記録増幅器 |
+| trap_752_cdcaster | 法术调和能量场 | Arts Resonant Energy Field | アーツ同調力場 |
+| trap_753_cdcastera | 法术调和能量场 | Arts Resonant Energy Field | アーツ同調力場 |
+| trap_754_cdcasterb | 法术调和能量场 | Arts Resonant Energy Field | アーツ同調力場 |
+| trap_755_cdsoul | 啸叫音响 | Squeaking Sound | ハウリングスピーカー |
+| trap_756_cdnest | “黏黏的赠品” | 'Sticky Prize' | 「ねばねばしたおまけ」 |
 | trap_757_skzbox | 宝箱 | - | - |
 | trap_758_skzmbx | 停滞巧械 | - | - |
 | trap_759_skzwyx | 垂死羽兽 | - | - |

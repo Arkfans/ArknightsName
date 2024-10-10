@@ -153,7 +153,7 @@ tip: 请善用浏览器的搜索功能
 | story_jaksel_set_1_story_1 | 无价的勋章 | A Priceless Medal | 価値のない勲章 |
 | story_jesca2_set_1_story_1 | 徽章 | Insignia | 保安官バッジ |
 | story_jesica_set_1_story_1 | 缓步前行 | The Slow Walk Ahead | ゆっくり進む者 |
-| story_judge_set_1_story_1 | 为你撑伞 | - | あなたに傘を |
+| story_judge_set_1_story_1 | 为你撑伞 | Under My Umbrella | あなたに傘を |
 | story_kafka_set_1_story_1 | 许以秘密 | Let's Keep That a Secret | 秘密を交わして |
 | story_kaitou_set_1_story_1 | 被折射的星光 | Refracted Starlight | 屈折した星光 |
 | story_kazema_set_1_story_1 | 应为必为 | One Should, One Must | 為すべきこと |
@@ -173,7 +173,7 @@ tip: 请善用浏览器的搜索功能
 | story_lmlee_set_1_story_1 | 三餐一日 | Three Square Meals a Day | 一日三食 |
 | story_lolxh_set_1_story_1 | 夜游船 | Sleepwalker Sailing | 夜の艦内遊覧 |
 | story_lumen_set_1_story_1 | 直到灯火明亮 | Till the Lights Shine Bright | 灯火が照らすまで |
-| story_lunacu_set_1_story_1 | 与人共舞 | - | 人と共に舞う |
+| story_lunacu_set_1_story_1 | 与人共舞 | To Dance With Somebody | 人と共に舞う |
 | story_luton_set_1_story_1 | 阳光映照之下 | - | - |
 | story_malist_set_1_story_1 | 长夏未尽 | In the Endless Summer | エンドレス・サマー |
 | story_mantic_set_1_story_1 | 缄默 | Dead Silence | 黙して語らず |
@@ -265,7 +265,7 @@ tip: 请善用浏览器的搜索功能
 | story_sophia_set_1_story_1 | 独家访谈 | Exclusive Interview | 独占インタビュー |
 | story_sora_set_1_story_1 | 距离 | Distance | 距離 |
 | story_spot_set_1_story_1 | 谁是英雄 | Face of the Hero | 英雄とは |
-| story_spuria_set_1_story_1 | 铳声回响 | - | 反響する銃声 |
+| story_spuria_set_1_story_1 | 铳声回响 | A Gunshot Rings Out | 反響する銃声 |
 | story_sqrrel_set_1_story_1 | 小心火烛 | Careful of Flammables | 火の用心 |
 | story_sqrrel_set_2_story_2 | 易燃品 | Flammables | 可燃物 |
 | story_strong_set_1_story_1 | 将错就错 | Roll With Your Mistakes | 勘違いを押し通して |
@@ -292,7 +292,7 @@ tip: 请善用浏览器的搜索功能
 | story_vigil_set_1_story_1 | 未来将至 | Future Coming | 訪れる未来 |
 | story_vigna_set_1_story_1 | 该做的事 | What You've Gotta Do | すべきこと |
 | story_vodfox_set_1_story_1 | 无字诅咒 | A Curse Without Words | 文字なき呪い |
-| story_vrdant_set_1_story_1 | 小草的呼喊 | - | 草木の叫び |
+| story_vrdant_set_1_story_1 | 小草的呼喊 | Little Tuft, Where Art Thou? | 草木の叫び |
 | story_waaifu_set_1_story_1 | 武为何物 | What Martial Arts Serve | 武とは何ぞや |
 | story_warmy_set_1_story_1 | 未完的结局 | - | - |
 | story_weedy_set_1_story_1 | 同舟 | Together Aboard | 同舟 |

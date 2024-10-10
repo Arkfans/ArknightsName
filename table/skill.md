@@ -27,8 +27,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_amgoat_3 | 火山 | Volcano | イラプション |
 | skchr_amiya2_1 | 影霄·奔夜 | Ying Xiao - Fleeting Night | 影霄・奔夜 |
 | skchr_amiya2_2 | 影霄·绝影 | Ying Xiao - Shadowless | 影霄・絶影 |
-| skchr_amiya3_1 | 哀恸共情 | - | 悲痛共感 |
-| skchr_amiya3_2 | 慈悲愿景 | - | 慈悲先途 |
+| skchr_amiya3_1 | 哀恸共情 | Empathy of Grief | 悲痛共感 |
+| skchr_amiya3_2 | 慈悲愿景 | Vision of Mercy | 慈悲先途 |
 | skchr_amiya_2 | 精神爆发 | Spirit Burst | ソウルブースト |
 | skchr_amiya_3 | 奇美拉 | Chimera | キメラ |
 | skchr_angel_1 | 冲锋模式 | Charging Mode | アサルトモード |
@@ -44,13 +44,13 @@ tip: 请善用浏览器的搜索功能
 | skchr_archet_1 | 箭矢·散逸 | Dispersing Arrows | 飛散の矢 |
 | skchr_archet_2 | 箭矢·追猎 | Pursuing Arrows | 追討の矢 |
 | skchr_archet_3 | 箭矢·暴风 | Thundering Arrows | 暴風の矢 |
-| skchr_aroma_1 | 强效清洁 | - | 強力洗浄 |
-| skchr_aroma_2 | 小心地滑 | - | スリップ注意 |
+| skchr_aroma_1 | 强效清洁 | Power Cleaning | 強力洗浄 |
+| skchr_aroma_2 | 小心地滑 | Caution! Wet Floor! | スリップ注意 |
 | skchr_asbest_1 | 固守模式 | Resilient Mode | 堅守モード |
 | skchr_asbest_2 | 火电模式 | Thermal Power Mode | 爆炎モード |
-| skchr_ascln_1 | 追袭 | - | 追襲 |
-| skchr_ascln_2 | 恩赐 | - | 恩賜 |
-| skchr_ascln_3 | 降临 | - | 降臨 |
+| skchr_ascln_1 | 追袭 | Pursuit | 追襲 |
+| skchr_ascln_2 | 恩赐 | Endowment | 恩賜 |
+| skchr_ascln_3 | 降临 | Descent | 降臨 |
 | skchr_ash_1 | 支援射击 | Supporting Fire | 援護射撃 |
 | skchr_ash_2 | 突击战术 | Assault Tactics | 突撃戦法 |
 | skchr_ash_3 | 攻坚榴弹 | Breaching Rounds | ブリーチング弾 |
@@ -381,8 +381,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_lumen_3 | 灯火不灭 | This Lantern Undying | 不滅の灯火 |
 | skchr_lunacu_1 | 狩猎时刻 | Time to Hunt | 狩猟開始 |
 | skchr_lunacu_2 | 伏击之影 | Umbral Ambush | 影に潜む狩人 |
-| skchr_luton_1 | 强力击·β型 | - | 強撃β |
-| skchr_luton_2 | 强磁防卫 | - | 強磁場シールド |
+| skchr_luton_1 | 强力击·β型 | Power Strike β | 強撃β |
+| skchr_luton_2 | 强磁防卫 | Magnetic Defense | 強磁場シールド |
 | skchr_malist_2 | 神工意匠 | Prodigious Craftsmanship | マスターピース |
 | skchr_mantic_1 | 蝎毒 | Scorpion Venom | アジトキシン |
 | skchr_mantic_2 | 蓄力毒尾击 | Toxic Overload | スコーピオンテール |
@@ -450,8 +450,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_nymph_1 | 笞心击 | - | - |
 | skchr_nymph_2 | 怵然震爆 | - | - |
 | skchr_nymph_3 | 心防溃决 | - | - |
-| skchr_odda_1 | 火花溅射 | - | 散火槌 |
-| skchr_odda_2 | 锻锤之力 | - | 炎撃槌 |
+| skchr_odda_1 | 火花溅射 | Sputterspark | 散火槌 |
+| skchr_odda_2 | 锻锤之力 | Hammerforce | 炎撃槌 |
 | skchr_otter_1 | 迷惑装置 | Bionic Device | 攪乱装置 |
 | skchr_otter_2 | 爆破回收 | Detonate and Recycle | ミーボ起爆 |
 | skchr_pallas_1 | 胜利的连击 | Strikes of Victory | 勝敗分かつ連撃 |
@@ -718,7 +718,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_allady | 阿勒黛的卫护 | Allerdale's Guard | アラデルの衛護 |
 | sktok_allady_2 | 阿勒黛的卫护 | Allerdale's Guard | アラデルの衛護 |
 | sktok_allydonq | 冲锋 | Charge | 突貫 |
-| sktok_amblls | 幽影门扉 | - | 幽影の扉 |
+| sktok_amblls | 幽影门扉 | Umbral Door | 幽影の扉 |
 | sktok_antidr | 无人机干扰 | Drone Interference | ドローン妨害 |
 | sktok_badbox | 极诱人珍宝 | Really Alluring Treasures | 財宝の蕩めき |
 | sktok_ballis | 发射弩箭 | Bolt Launching | 射撃 |
@@ -761,9 +761,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_canoe_2 | 放置平台 | Deployment Platform | ボード設置 |
 | sktok_cathy_catsld_1 | 岁月锻打 | - | - |
 | sktok_cathy_catsld_2 | 战火淬炼 | - | - |
-| sktok_cd1punch | 灌录 | - | レコード |
-| sktok_cd1puncha | 灌录 | - | レコード |
-| sktok_cd1punchb | 灌录 | - | レコード |
+| sktok_cd1punch | 灌录 | Record | レコード |
+| sktok_cd1puncha | 灌录 | Record | レコード |
+| sktok_cd1punchb | 灌录 | Record | レコード |
 | sktok_cdabyss | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |
 | sktok_cdabyssa | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |
 | sktok_cdabyssb | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |
@@ -773,9 +773,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_cdbeacon | 示踪信标 | Tracer Beacon | 追跡ビーコン |
 | sktok_cdbeacona | 阻断波长 | Block Wavelength | 遮断電波 |
 | sktok_cdbeaconb | 干扰波长 | Jam Wavelength | 妨害電波 |
-| sktok_cdcaster | 能量调和 | - | エネルギー同調 |
-| sktok_cdcastera | 能量调和 | - | エネルギー同調 |
-| sktok_cdcasterb | 能量调和 | - | エネルギー同調 |
+| sktok_cdcaster | 能量调和 | Energy Harmonization | エネルギー同調 |
+| sktok_cdcastera | 能量调和 | Energy Harmonization | エネルギー同調 |
+| sktok_cdcasterb | 能量调和 | Energy Harmonization | エネルギー同調 |
 | sktok_cdcredit | 自适应补给 | Adaptive Supply | 多機能補給 |
 | sktok_cdcredita | 自适应补给 | Adaptive Supply | 多機能補給 |
 | sktok_cdcreditb | 自适应补给 | Adaptive Supply | 多機能補給 |
@@ -790,10 +790,10 @@ tip: 请善用浏览器的搜索功能
 | sktok_cdhealb | 便携式医疗设备 | Portable First-aid Kit | 携帯式医療設備 |
 | sktok_cdhvrk | 超重，绝缘 | Heavy, Insulated | 超過重・絶縁 |
 | sktok_cdkzmr | 竞技记录分析 | Competition Records Analysis | 競技記録アナライズ |
-| sktok_cdnest | “黏黏的赠品” | - | 「ねばねばしたおまけ」 |
-| sktok_cdrhine | 共享发现 | - | 共同研究 |
-| sktok_cdrhinea | 共享发现 | - | 共同研究 |
-| sktok_cdrhineb | 共享发现 | - | 共同研究 |
+| sktok_cdnest | “黏黏的赠品” | 'Sticky Prize' | 「ねばねばしたおまけ」 |
+| sktok_cdrhine | 共享发现 | Shared Discovery | 共同研究 |
+| sktok_cdrhinea | 共享发现 | Shared Discovery | 共同研究 |
+| sktok_cdrhineb | 共享发现 | Shared Discovery | 共同研究 |
 | sktok_cdrone | 战地援护 | Field Support | 戦地支援 |
 | sktok_cdshield | 镀膜 | Coating | コーティング |
 | sktok_cdshielda | 重整导能 | Redeployment Conduction | 再稼働 |
@@ -978,7 +978,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_sniper | 空域控制 | Airspace Control | 空域支配 |
 | sktok_snipera | 空域控制 | Airspace Control | 空域支配 |
 | sktok_sniperb | 空域控制 | Airspace Control | 空域支配 |
-| sktok_spblls | 巫术弩炮 | - | 巫術バリスタ |
+| sktok_spblls | 巫术弩炮 | Witchcraft Ballista | 巫術バリスタ |
 | sktok_stdurk_1 | “咔嚓！” | 'Snap!' | ｢カシャッ！｣ |
 | sktok_stmbot | 水汽汽水瓶 | Steam Soda Bottle | スチームサイダー |
 | sktok_stmpq | 景观喷泉 | Decorative Geyser | 景観噴水 |
@@ -1052,13 +1052,13 @@ tip: 请善用浏览器的搜索功能
 | sktok_xbbarir | 阻挡 | Block | 障害物 |
 | sktok_xbbase | 能源设备 | Energy Facility | 動力設備 |
 | sktok_xbbee | 扫描 | Scan | スキャン |
-| sktok_xbblure_1 | 引诱 | - | おびき寄せ |
-| sktok_xbblure_2 | 引诱 | - | おびき寄せ |
-| sktok_xbblure_3 | 引诱 | - | おびき寄せ |
+| sktok_xbblure_1 | 引诱 | Lure | おびき寄せ |
+| sktok_xbblure_2 | 引诱 | Lure | おびき寄せ |
+| sktok_xbblure_3 | 引诱 | Lure | おびき寄せ |
 | sktok_xbcage | 捕获 | Capture | 捕獲 |
 | sktok_xbcanoe | 放置平台 | Deployment Platform | ボード設置 |
 | sktok_xbcbag | 释放猎获 | Release the Prey | 獲物解放 |
-| sktok_xbcp | 检查点 | - | チェックポイント |
+| sktok_xbcp | 检查点 | Checkpoint | チェックポイント |
 | sktok_xbdiam | 可采集 | Gatherable | 採取可能 |
 | sktok_xbdrill | 采集 | Gather | 採取 |
 | sktok_xbember | 激励 | Impel | 激励 |
@@ -1090,8 +1090,8 @@ tip: 请善用浏览器的搜索功能
 | sktok_xbmrcl | 演算 | Computation | 演算 |
 | sktok_xboverwatch | 监控 | Monitor | モニタリング |
 | sktok_xbprsh | 资源规划 | Resource Planning | 資源計画 |
-| sktok_xbrandprop_1 | 发道具 | - | アイテム配布 |
-| sktok_xbrandprop_2 | 发道具 | - | アイテム配布 |
+| sktok_xbrandprop_1 | 发道具 | Dispense Item | アイテム配布 |
+| sktok_xbrandprop_2 | 发道具 | Dispense Item | アイテム配布 |
 | sktok_xbroadblock | 阻断道路 | Block Road | 道路封鎖 |
 | sktok_xbsighta | 喷涌 | Gush | 湧出 |
 | sktok_xbsightb | 摇摆 | Sway | ゆらゆら |
@@ -1104,7 +1104,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_xbtiro | 采铁 | - | - |
 | sktok_xbtrap | 陷阱 | Trap | トラップ |
 | sktok_xbtrok | 掘石 | - | - |
-| sktok_xbtrophy | “跳动” | - | 「脈動」 |
+| sktok_xbtrophy | “跳动” | 'Heartbeat' | 「脈動」 |
 | sktok_xbtwal | 阻隔道路 | - | - |
 | sktok_xbtwod | 切木 | - | - |
 | sktok_xbwall | 防御支撑 | Defensive Support | 防衛の要 |

@@ -628,25 +628,25 @@ tip: 请善用浏览器的搜索功能
 | act32side_st02 | 策展人会客厅 | Curator's Reception Room | キュレーターの応接室 |
 | act32side_st03 | 艺术馆餐厅 | Galería Restaurant | ギャラリーバル |
 | act32side_tr01 | “请有序入场” | 'Please Enter in an Orderly Manner' | 「順序よくご入場ください」 |
-| act33side_01 | 宏伟愿景 | - | 壮大な未来図 |
-| act33side_02 | 命途何在 | - | 運命は何処 |
-| act33side_03 | 无声破裂 | - | 静かなる決別 |
-| act33side_04 | 悠长的旅途 | - | 長き旅路 |
-| act33side_05 | 激变烽烟 | - | 激変する烽煙 |
-| act33side_06 | 灯火闪烁不定 | - | 明滅する灯火 |
-| act33side_07 | 阴影显现 | - | 顕現せし影 |
-| act33side_08 | 终局倒计时 | - | 結末へのカウントダウン |
-| act33side_09 | 尘埃落定 | - | 物語の結末 |
-| act33side_10 | 再见，再见 | - | さようなら、さようなら |
-| act33side_mo01 | 打扫街区 | - | 市街地掃討 |
-| act33side_s01 | 模拟刺杀作战-1 | - | 暗殺作戦シミュレーション-1 |
-| act33side_s02 | 模拟刺杀作战-2 | - | 暗殺作戦シミュレーション-2 |
-| act33side_s03 | 模拟刺杀作战-3 | - | 暗殺作戦シミュレーション-3 |
-| act33side_s04 | 模拟刺杀作战-4 | - | 暗殺作戦シミュレーション-4 |
-| act33side_st01 | 未完成的告别 | - | 未完の別れ |
-| act33side_st02 | 在疲惫中苏醒 | - | 気怠い覚醒 |
-| act33side_st03 | 灵魂尽头 | - | 魂の行く果て |
-| act33side_tr01 | 卡兹戴尔作战演习 | - | カズデル実戦演習 |
+| act33side_01 | 宏伟愿景 | Great Aspirations | 壮大な未来図 |
+| act33side_02 | 命途何在 | Where Fate Guides | 運命は何処 |
+| act33side_03 | 无声破裂 | Silent Crack | 静かなる決別 |
+| act33side_04 | 悠长的旅途 | Long Voyage | 長き旅路 |
+| act33side_05 | 激变烽烟 | Fires of Uprising | 激変する烽煙 |
+| act33side_06 | 灯火闪烁不定 | Flickering Light | 明滅する灯火 |
+| act33side_07 | 阴影显现 | Rising Shadow | 顕現せし影 |
+| act33side_08 | 终局倒计时 | Final Countdown | 結末へのカウントダウン |
+| act33side_09 | 尘埃落定 | The Dust Has Settled | 物語の結末 |
+| act33side_10 | 再见，再见 | Goodbye, Goodbye | さようなら、さようなら |
+| act33side_mo01 | 打扫街区 | Street Cleaning | 市街地掃討 |
+| act33side_s01 | 模拟刺杀作战-1 | Simulated Assassination-1 | 暗殺作戦シミュレーション-1 |
+| act33side_s02 | 模拟刺杀作战-2 | Simulated Assassination-2 | 暗殺作戦シミュレーション-2 |
+| act33side_s03 | 模拟刺杀作战-3 | Simulated Assassination-3 | 暗殺作戦シミュレーション-3 |
+| act33side_s04 | 模拟刺杀作战-4 | Simulated Assassination-4 | 暗殺作戦シミュレーション-4 |
+| act33side_st01 | 未完成的告别 | Unfinished Goodbye | 未完の別れ |
+| act33side_st02 | 在疲惫中苏醒 | Awakening in Exhaustion | 気怠い覚醒 |
+| act33side_st03 | 灵魂尽头 | End of Souls | 魂の行く果て |
+| act33side_tr01 | 卡兹戴尔作战演习 | Kazdelian Combat Drill | カズデル実戦演習 |
 | act34side_01 | 第一次接触 | - | - |
 | act34side_02 | 评议式迎接 | - | - |
 | act34side_03 | 如海雪纷散 | - | - |

@@ -156,9 +156,9 @@ tip: 请善用浏览器的搜索功能
 | act31side_zone3 | 大江北岸 | Far Side of the Great River | 大江北岸 |
 | act32side_zone1 | 展厅漫游 | Roam the Exhibition | アート探訪 |
 | act32side_zone2 | 高速空降 | Skydiving | 降下作戦 |
-| act33side_zone1 | 我赠予未来 | - | 未来を贈らん |
-| act33side_zone2 | 我驻留往昔 | - | 昔日に残れり |
-| act33side_zone3 | 我始终如一 | - | 我は我なり |
+| act33side_zone1 | 我赠予未来 | You the Future, Take My Gifts | 未来を贈らん |
+| act33side_zone2 | 我驻留往昔 | You the Past, Ward Me Firmly | 昔日に残れり |
+| act33side_zone3 | 我始终如一 | You the Constant, You Are Me | 我は我なり |
 | act34side_zone1 | 信标投放 | - | - |
 | act34side_zone2 | 防线巩固 | - | - |
 | act35side_zone1 | 市民花园 | - | - |
@@ -272,9 +272,9 @@ tip: 请善用浏览器的搜索功能
 | permanent_sub_5_zone1 | 未来将至 | The Coming of the Future | 来たる未来 |
 | permanent_sub_5_zone2 | 过往未尽 | The Lingering of the Past | 過ぎぬ過去 |
 | permanent_sub_5_zone3 | 紧握当下 | The Pursuing of the Present | 在るべき今 |
-| permanent_sub_6_zone1 | 我赠予未来 | - | 未来を贈らん |
-| permanent_sub_6_zone2 | 我驻留往昔 | - | 昔日に残れり |
-| permanent_sub_6_zone3 | 我始终如一 | - | 我は我なり |
+| permanent_sub_6_zone1 | 我赠予未来 | You the Future, Take My Gifts | 未来を贈らん |
+| permanent_sub_6_zone2 | 我驻留往昔 | You the Past, Ward Me Firmly | 昔日に残れり |
+| permanent_sub_6_zone3 | 我始终如一 | You the Constant, You Are Me | 我は我なり |
 | weekly_1 | 固若金汤 | Solid Defense | 重装/医療 |
 | weekly_2 | 摧枯拉朽 | Fierce Attack | 狙撃/術師 |
 | weekly_3 | 势不可挡 | Unstoppable Charge | 先鋒/補助 |

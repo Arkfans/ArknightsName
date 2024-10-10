@@ -4056,78 +4056,97 @@
     "zh_CN": "马特奥的亲卫"
   },
   "enemy_1410_mmelee": {
+    "en_US": "'Flying Boots' Mercenary",
     "ja_JP": "「ジェットブーツ」傭兵",
     "zh_CN": "“飞鞋党”佣兵"
   },
   "enemy_1410_mmelee_2": {
+    "en_US": "'Flying Boots' Elite Mercenary",
     "ja_JP": "「ジェットブーツ」精鋭傭兵",
     "zh_CN": "“飞鞋党”精锐佣兵"
   },
   "enemy_1411_mmrnge": {
+    "en_US": "'Pothelm' Marksman",
     "ja_JP": "「鍋頭」狙撃手",
     "zh_CN": "“锅盖头”射手"
   },
   "enemy_1411_mmrnge_2": {
+    "en_US": "'Pothelm' Arbalest",
     "ja_JP": "「鍋頭」精鋭狙撃手",
     "zh_CN": "“锅盖头”劲弩射手"
   },
   "enemy_1412_mmjump": {
+    "en_US": "Scrap Assembler",
     "ja_JP": "ガラクタクラフター",
     "zh_CN": "破烂拼凑者"
   },
   "enemy_1412_mmjump_2": {
+    "en_US": "Scrap Inventor",
     "ja_JP": "ガラクタクリエイター",
     "zh_CN": "破烂发明家"
   },
   "enemy_1413_mmstck": {
+    "en_US": "Bounty Hunter 'Knight'",
     "ja_JP": "賞金稼ぎ「騎士」",
     "zh_CN": "赏金猎人“骑士”"
   },
   "enemy_1413_mmstck_2": {
+    "en_US": "Bounty Hunter 'Grand Knight'",
     "ja_JP": "賞金稼ぎ「大騎士」",
     "zh_CN": "赏金猎人“大骑士”"
   },
   "enemy_1414_mmleak": {
+    "en_US": "Spatula Giant",
     "ja_JP": "キッチンジャイアント",
     "zh_CN": "爆燃厨具巨人"
   },
   "enemy_1414_mmleak_2": {
+    "en_US": "Enraged Spatula Giant",
     "ja_JP": "強化型キッチンジャイアント",
     "zh_CN": "增强型爆燃厨具巨人"
   },
   "enemy_1415_mmkabi": {
+    "en_US": "Armored Burdenbeast",
     "ja_JP": "温厚な武装駄獣",
     "zh_CN": "温顺的武装驮兽"
   },
   "enemy_1415_mmkabi_2": {
+    "en_US": "Greater Armored Burdenbeast",
     "ja_JP": "温厚な武装大駄獣",
     "zh_CN": "温顺的武装大驮兽"
   },
   "enemy_1416_mmfarm": {
+    "en_US": "'Shearclaws'",
     "ja_JP": "放浪傭兵「カーヴァー」",
     "zh_CN": "流浪佣兵“剪刀手”"
   },
   "enemy_1416_mmfarm_2": {
+    "en_US": "'Weaver'",
     "ja_JP": "放浪傭兵「ウィーバー」",
     "zh_CN": "流浪佣兵“编织者”"
   },
   "enemy_1417_mmdudu": {
+    "en_US": "Rogue Mercenary 'Bass'",
     "ja_JP": "フリー傭兵「ベース」",
     "zh_CN": "自由佣兵“贝斯”"
   },
   "enemy_1417_mmdudu_2": {
+    "en_US": "Rogue Mercenary 'Lead Guitar'",
     "ja_JP": "フリー傭兵「リードギター」",
     "zh_CN": "自由佣兵“主音吉他”"
   },
   "enemy_1418_mmkonm": {
+    "en_US": "'Tinkerer'",
     "ja_JP": "放浪職人「リペアラー」",
     "zh_CN": "流浪工匠“修补工”"
   },
   "enemy_1418_mmkonm_2": {
+    "en_US": "'Mechanic'",
     "ja_JP": "放浪職人「リペアマスター」",
     "zh_CN": "流浪工匠“修补工头”"
   },
   "enemy_1419_mmcike": {
+    "en_US": "Deathveil Assassin",
     "ja_JP": "捨身の死士",
     "zh_CN": "裹骸死士"
   },
@@ -4499,6 +4518,7 @@
     "zh_CN": "马特奥上尉"
   },
   "enemy_1552_mmamiy": {
+    "en_US": "'Amiya'",
     "ja_JP": "「アーミヤ」",
     "zh_CN": "“阿米娅”"
   },
@@ -4924,6 +4944,7 @@
     "zh_CN": "修道院居民"
   },
   "enemy_3006_tersia": {
+    "en_US": "Theresa, King of Sarkaz",
     "ja_JP": "Theresa・「魔王」",
     "zh_CN": "特蕾西娅，“魔王”"
   },
@@ -5151,14 +5172,17 @@
     "zh_CN": "桶陈蜜酿"
   },
   "enemy_6022_m2cnt": {
+    "en_US": "'Count Grimscore'",
     "ja_JP": "「鬱織りの伯爵」",
     "zh_CN": "“织郁伯爵”"
   },
   "enemy_6023_crane": {
+    "en_US": "'Greedy Catcher'",
     "ja_JP": "「グリーディーキャッチャー」",
     "zh_CN": "“贪婪捕手”"
   },
   "enemy_6024_crnbug": {
+    "en_US": "'Really Unruly Creature'",
     "ja_JP": "「勝手気ままな生物」",
     "zh_CN": "“特别任性的生物”"
   },
@@ -5362,14 +5386,17 @@
     "zh_CN": "勤奋劳工"
   },
   "enemy_7044_xblbug": {
+    "en_US": "Flying Originium Slug",
     "ja_JP": "羽オリジムシ",
     "zh_CN": "振翅源石虫"
   },
   "enemy_7045_xbtd": {
+    "en_US": "Charging Originium Slug",
     "ja_JP": "突撃オリジムシ",
     "zh_CN": "冲锋源石虫"
   },
   "enemy_7046_xbslug": {
+    "en_US": "Armored Originium Slug",
     "ja_JP": "アーマーオリジムシ",
     "zh_CN": "披甲源石虫"
   },

@@ -11,6 +11,9 @@
     ]
   },
   "avg_003_kalts_1": {
+    "en_US": [
+      "Kal'tsit"
+    ],
     "ja_JP": [
       "ケルシー"
     ],
@@ -2120,6 +2123,9 @@
     ]
   },
   "avg_4107_vrdant_1": {
+    "en_US": [
+      "Verdant"
+    ],
     "ja_JP": [
       "ヴァーダント"
     ],
@@ -2295,6 +2301,9 @@
     ]
   },
   "avg_4131_odda_1": {
+    "en_US": [
+      "Odda"
+    ],
     "ja_JP": [
       "オッダ"
     ],
@@ -2303,6 +2312,9 @@
     ]
   },
   "avg_4132_ascln_1": {
+    "en_US": [
+      "Ascalon"
+    ],
     "ja_JP": [
       "アスカロン"
     ],
@@ -3928,8 +3940,10 @@
       "Passerby A",
       "Shopkeeper B",
       "Street Artist",
+      "Surprised Man",
       "Tabloid Reporter",
-      "Tired Spectator"
+      "Tired Spectator",
+      "Tucker"
     ],
     "ja_JP": [
       "くたびれた観客",
@@ -4120,6 +4134,7 @@
       "Mafioso",
       "Mafioso A",
       "Mafioso B",
+      "Mafioso F",
       "Man in Black",
       "Pensive Hitman",
       "Rossati Mafioso",
@@ -4660,6 +4675,7 @@
   },
   "avg_npc_046": {
     "en_US": [
+      "Ines & W",
       "W"
     ],
     "ja_JP": [
@@ -4750,6 +4766,10 @@
       "Armed Infected",
       "Beleaguered Mercenary",
       "Cheering Sarkaz Worker",
+      "Cold Mercenary",
+      "Dour Mercenary",
+      "Dying Mercenary",
+      "Excited Mercenary",
       "Old Sarkaz Hunter",
       "Patrolling Sarkaz Soldier A",
       "Patrolling Sarkaz Soldier B",
@@ -4761,11 +4781,14 @@
       "Sarkaz Soldier",
       "Sarkaz Supervisor",
       "Sarkaz Teacher",
+      "Sarkaz Traitor",
       "Sarkaz Warrior",
       "Sarkaz Warrior?",
       "Sarkaz Youth",
       "Slyly Smiling Sarkaz Worker",
+      "Snappy Civilian",
       "Tired Sarkaz Worker",
+      "Wounded Mercenary",
       "Young Sarkaz Warrior"
     ],
     "ja_JP": [
@@ -5189,6 +5212,7 @@
     "en_US": [
       "Anxious Mother",
       "Girl",
+      "Newly-Arrived Medic",
       "Noble Attendant",
       "Tatjana"
     ],
@@ -5218,6 +5242,7 @@
       "Aruna",
       "Clan Leader B",
       "Coin Dealer",
+      "Courageous Archosauria",
       "Fighting Villager",
       "Groaning Archosauria",
       "Happy Archosauria",
@@ -5281,6 +5306,7 @@
       "Archosauria Warrior",
       "Clan Leader A",
       "Crying Villager",
+      "Curious Archosauria",
       "Excited Archosauria",
       "Furious Archosauria",
       "Injured Villager",
@@ -6589,7 +6615,8 @@
   },
   "avg_npc_1071_1": {
     "en_US": [
-      "Banshee"
+      "Banshee",
+      "Laqeramaline"
     ],
     "ja_JP": [
       "バンシー",
@@ -6680,7 +6707,9 @@
   "avg_npc_1114_1": {
     "en_US": [
       "Cranky Old Man",
-      "Fremont"
+      "Fremont",
+      "Laqeramaline",
+      "Theresa"
     ],
     "ja_JP": [
       "テレジア",
@@ -6981,6 +7010,7 @@
   },
   "avg_npc_1134_1": {
     "en_US": [
+      "Courier",
       "Gendarmerie",
       "Gendarmerie A"
     ],
@@ -7095,6 +7125,7 @@
   },
   "avg_npc_1163_1": {
     "en_US": [
+      "Burdenbeast",
       "Feisty Burdenbeast",
       "Lily",
       "Wild Burdenbeast"
@@ -7183,7 +7214,8 @@
   },
   "avg_npc_1188_1": {
     "en_US": [
-      "Sandbeast"
+      "Sandbeast",
+      "Young Sandbeast"
     ],
     "ja_JP": [
       "サンドビースト",
@@ -7200,6 +7232,9 @@
     ]
   },
   "avg_npc_1190_1": {
+    "en_US": [
+      "Massive Sandbeast"
+    ],
     "ja_JP": [
       "巨大なサンドビースト"
     ],
@@ -7705,6 +7740,9 @@
     ]
   },
   "avg_npc_1253_1": {
+    "en_US": [
+      "Gunsmith"
+    ],
     "ja_JP": [
       "銃の修理技師"
     ],
@@ -7841,6 +7879,9 @@
     ]
   },
   "avg_npc_1294_1": {
+    "en_US": [
+      "Scareye"
+    ],
     "ja_JP": [
       "「スカーアイ」"
     ],
@@ -7849,6 +7890,10 @@
     ]
   },
   "avg_npc_1295_1": {
+    "en_US": [
+      "'Amiya'",
+      "Amiya"
+    ],
     "ja_JP": [
       "「アーミヤ」",
       "アーミヤ"
@@ -7859,6 +7904,9 @@
     ]
   },
   "avg_npc_1296_1": {
+    "en_US": [
+      "Theresa"
+    ],
     "ja_JP": [
       "テレジア"
     ],
@@ -7867,6 +7915,9 @@
     ]
   },
   "avg_npc_1297_1": {
+    "en_US": [
+      "Theresis"
+    ],
     "ja_JP": [
       "テレシス"
     ],
@@ -7875,6 +7926,10 @@
     ]
   },
   "avg_npc_1299_1": {
+    "en_US": [
+      "Assassin",
+      "Julie"
+    ],
     "ja_JP": [
       "ジュリー",
       "暗殺者"
@@ -7896,6 +7951,9 @@
     ]
   },
   "avg_npc_1300_1": {
+    "en_US": [
+      "Mantra"
+    ],
     "ja_JP": [
       "Mantra"
     ],
@@ -7904,6 +7962,9 @@
     ]
   },
   "avg_npc_1301_1": {
+    "en_US": [
+      "Ascalon"
+    ],
     "ja_JP": [
       "アスカロン"
     ],
@@ -7912,6 +7973,11 @@
     ]
   },
   "avg_npc_1302_1": {
+    "en_US": [
+      "Brave Boy",
+      "Brave Child",
+      "Manfred"
+    ],
     "ja_JP": [
       "マンフレッド",
       "勇敢な少年"
@@ -7922,6 +7988,11 @@
     ]
   },
   "avg_npc_1303_1": {
+    "en_US": [
+      "Lost Child",
+      "Odda",
+      "Sleepy Child"
+    ],
     "ja_JP": [
       "オッダ",
       "混乱する子供"
@@ -7932,6 +8003,10 @@
     ]
   },
   "avg_npc_1304_1": {
+    "en_US": [
+      "Pensive Child",
+      "Young Banshee"
+    ],
     "ja_JP": [
       "考え込む子供",
       "若きバンシー"
@@ -7942,6 +8017,10 @@
     ]
   },
   "avg_npc_1305_1": {
+    "en_US": [
+      "Goodluck",
+      "Timid Slave"
+    ],
     "ja_JP": [
       "おびえる奴隷",
       "グッドラック"
@@ -7952,6 +8031,11 @@
     ]
   },
   "avg_npc_1306_1": {
+    "en_US": [
+      "Babel Assassin",
+      "Mysterious Mercenary",
+      "Slave Trader"
+    ],
     "ja_JP": [
       "バベル刺客",
       "奴隷商人",
@@ -7965,6 +8049,11 @@
     ]
   },
   "avg_npc_1307_1": {
+    "en_US": [
+      "Cautious Assassin",
+      "Determined Assassin",
+      "Name-Forsaken Sacrificer"
+    ],
     "ja_JP": [
       "名を捨てた死士",
       "慎重な刺客",
@@ -7981,6 +8070,10 @@
     ]
   },
   "avg_npc_1308_1": {
+    "en_US": [
+      "'Teacher'",
+      "Babel Member"
+    ],
     "ja_JP": [
       "「教師」",
       "バベルメンバー"
@@ -7993,6 +8086,9 @@
     ]
   },
   "avg_npc_1309_1": {
+    "en_US": [
+      "Ace"
+    ],
     "ja_JP": [
       "Ace"
     ],
@@ -8012,6 +8108,9 @@
     ]
   },
   "avg_npc_1310_1": {
+    "en_US": [
+      "Pith"
+    ],
     "ja_JP": [
       "Pith"
     ],
@@ -8020,6 +8119,9 @@
     ]
   },
   "avg_npc_1311_1": {
+    "en_US": [
+      "Scout"
+    ],
     "ja_JP": [
       "Scout"
     ],
@@ -8220,6 +8322,10 @@
     ]
   },
   "avg_npc_1360_1": {
+    "en_US": [
+      "Doctor",
+      "Oracle"
+    ],
     "ja_JP": [
       "オラクル",
       "ドクター"
@@ -8230,6 +8336,9 @@
     ]
   },
   "avg_npc_1361_1": {
+    "en_US": [
+      "Field Soldier"
+    ],
     "ja_JP": [
       "外勤戦士"
     ],
@@ -8238,6 +8347,9 @@
     ]
   },
   "avg_npc_1362_1": {
+    "en_US": [
+      "Medic"
+    ],
     "ja_JP": [
       "医療メンバー"
     ],
@@ -9581,6 +9693,7 @@
       "Casino Hotshot",
       "Casino Worker",
       "Criminal",
+      "Flustered Mobber",
       "Tourist A?",
       "Tulio"
     ],
@@ -9609,6 +9722,7 @@
     "en_US": [
       "Ambush B",
       "Boil Brawler",
+      "Composed Mobber",
       "Loud-Mouthed Man",
       "Tourist B?"
     ],
@@ -11413,6 +11527,7 @@
       "Armed Subject",
       "Bodyguard",
       "Browntail Clan Warrior C",
+      "Kjerag Hunter",
       "Kjerag Warrior B",
       "Kjerag Warrior?",
       "Kjerag Warriors",
@@ -12076,6 +12191,7 @@
       "Composed Lateran Citizen",
       "Conscientious Doctor",
       "Executor-in-Training",
+      "Friendly Lateran",
       "Joyous Lateran Citizen",
       "Laid-Back Passerby",
       "Not-So-Candid Stall Owner",
@@ -12157,6 +12273,8 @@
       "Notarial Hall Executor",
       "Notarial Hall Official",
       "Relaxed Lateran Citizen",
+      "Reserved Lateran",
+      "Sankta Customer",
       "Troubled Lateran Citizen"
     ],
     "ja_JP": [
@@ -12214,6 +12332,7 @@
   },
   "avg_npc_370_1": {
     "en_US": [
+      "Lateran Cleric",
       "Stoic Sister"
     ],
     "ja_JP": [
@@ -12442,6 +12561,7 @@
   },
   "avg_npc_404_1": {
     "en_US": [
+      "Ascalon",
       "Manfred"
     ],
     "ja_JP": [
@@ -12552,6 +12672,7 @@
   },
   "avg_npc_410_1": {
     "en_US": [
+      "Duq'arael",
       "Sanguinarch of Vampires",
       "Young Vampire?"
     ],
@@ -12706,6 +12827,7 @@
       "Angry Thug",
       "Calm Thug",
       "Cheering Civilian",
+      "Farmer",
       "Gali",
       "Hairdresser",
       "Londinium Citizen",
@@ -12749,6 +12871,7 @@
       "Catastrophe Messenger?",
       "Earl's Attendant",
       "Fleeing Londinier",
+      "Florist",
       "Haggard Woman",
       "Ivy",
       "Lanky Inventor",
@@ -12791,11 +12914,19 @@
   },
   "avg_npc_419_1": {
     "en_US": [
+      "Composed Soldier",
+      "Grim Royal Court Soldier",
+      "Indifferent Royal Court Soldier",
+      "Injured Soldier",
+      "Military Commission Guard",
+      "Panicked Royal Court Soldier",
       "Royal Court Junior Officer",
       "Royal Court Soldier",
+      "Sarkaz Royal Court Soldier",
       "Sarkaz Soldier",
       "Sarkaz Warrior",
-      "Spine Guardian"
+      "Spine Guardian",
+      "Tired Royal Court Soldier"
     ],
     "ja_JP": [
       "サルカズ兵士",
@@ -12839,6 +12970,7 @@
   "avg_npc_420_1": {
     "en_US": [
       "Nachzehrer King",
+      "Nezzsalem",
       "Peculiar-looking Elder"
     ],
     "ja_JP": [
@@ -13414,6 +13546,7 @@
       "Frivolous Noble",
       "Graf Saxon",
       "Louis",
+      "Nervous Envoy",
       "Pretentious Noble",
       "Solemn Man",
       "Young Noble"
@@ -13447,6 +13580,7 @@
   },
   "avg_npc_493_1": {
     "en_US": [
+      "Amiable Official",
       "Berman",
       "Blanche",
       "Calm Noble",
@@ -13518,6 +13652,7 @@
   "avg_npc_496_1": {
     "en_US": [
       "Attendant",
+      "Babel Member",
       "Despondent Infected",
       "Excited Leithanian Tourist",
       "Mannered Infected",
@@ -13640,7 +13775,9 @@
   },
   "avg_npc_499_1": {
     "en_US": [
+      "Babel Doctor",
       "Community Musician",
+      "Dejected Babel Member",
       "Excited Afterglow Resident",
       "Frau Perry",
       "Happy Leithanian Tourist",
@@ -14018,7 +14155,8 @@
       "Ordinary citizens?",
       "Pioneer",
       "Pioneer Team Member",
-      "Rhine Lab Task Force Messenger"
+      "Rhine Lab Task Force Messenger",
+      "Weary Pioneer"
     ],
     "ja_JP": [
       "トランスポーター",
@@ -15004,6 +15142,7 @@
   "avg_npc_696_1": {
     "en_US": [
       "Clerk",
+      "Driver",
       "Mauro, Infected Citizen",
       "Onsite Staff",
       "Terrified Waiter"
@@ -15026,6 +15165,7 @@
   "avg_npc_697_1": {
     "en_US": [
       "Calm Technician",
+      "Clerk Teresa",
       "Community Resident",
       "Court Clerk",
       "Rossati Mafioso",
@@ -15061,6 +15201,7 @@
       "Layton",
       "Loyal Mafioso",
       "Mafioso",
+      "Mafioso G",
       "Radical Mafioso",
       "Saluzzo Guard",
       "Saluzzo Mafioso",
@@ -15130,6 +15271,7 @@
   },
   "avg_npc_700_1": {
     "en_US": [
+      "Luna",
       "Rubio's Daughter",
       "Thin Girl"
     ],
@@ -16321,6 +16463,11 @@
       "Angry Sarkaz",
       "Astute Sarkaz",
       "Cautious Sarkaz Inhabitant",
+      "Dying Infected",
+      "Impatient Civilian",
+      "Indifferent Civilian",
+      "Parker",
+      "Sarkaz Civilian",
       "Sarkaz Mercenary"
     ],
     "ja_JP": [
@@ -16360,6 +16507,8 @@
   },
   "avg_npc_933_1": {
     "en_US": [
+      "Brooding Sarkaz",
+      "Cautious Civilian",
       "Fernand",
       "Hot-Headed Sarkaz",
       "Sarkaz Drifter"
@@ -16383,7 +16532,9 @@
   },
   "avg_npc_934_1": {
     "en_US": [
+      "Angry Civilian",
       "Concerned Sarkaz",
+      "Excited Sarkaz",
       "Frightened Sarkaz",
       "Monastery Inhabitant",
       "Sarkaz Hunter"
@@ -16414,7 +16565,11 @@
     "en_US": [
       "'Driver'",
       "Caroline",
+      "Indifferent Woman",
+      "Sarkaz Civilian",
       "Sarkaz Resident",
+      "Scornful Civilian",
+      "Wary Civilian",
       "Weary Sarkaz"
     ],
     "ja_JP": [
@@ -16658,7 +16813,8 @@
   "avg_npc_970_1": {
     "en_US": [
       "Engineering Department Intern Operator",
-      "Engineering Operator"
+      "Engineering Operator",
+      "Measuring Cup"
     ],
     "ja_JP": [
       "エンジニアオペレーター",
@@ -16709,6 +16865,7 @@
   },
   "avg_npc_973_1": {
     "en_US": [
+      "HR Operator",
       "Intern Operator",
       "Logistics Operator",
       "Records Room Operator",

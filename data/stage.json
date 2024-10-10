@@ -3035,78 +3035,97 @@
     "zh_CN": "“请有序入场”"
   },
   "act33side_01": {
+    "en_US": "Great Aspirations",
     "ja_JP": "壮大な未来図",
     "zh_CN": "宏伟愿景"
   },
   "act33side_02": {
+    "en_US": "Where Fate Guides",
     "ja_JP": "運命は何処",
     "zh_CN": "命途何在"
   },
   "act33side_03": {
+    "en_US": "Silent Crack",
     "ja_JP": "静かなる決別",
     "zh_CN": "无声破裂"
   },
   "act33side_04": {
+    "en_US": "Long Voyage",
     "ja_JP": "長き旅路",
     "zh_CN": "悠长的旅途"
   },
   "act33side_05": {
+    "en_US": "Fires of Uprising",
     "ja_JP": "激変する烽煙",
     "zh_CN": "激变烽烟"
   },
   "act33side_06": {
+    "en_US": "Flickering Light",
     "ja_JP": "明滅する灯火",
     "zh_CN": "灯火闪烁不定"
   },
   "act33side_07": {
+    "en_US": "Rising Shadow",
     "ja_JP": "顕現せし影",
     "zh_CN": "阴影显现"
   },
   "act33side_08": {
+    "en_US": "Final Countdown",
     "ja_JP": "結末へのカウントダウン",
     "zh_CN": "终局倒计时"
   },
   "act33side_09": {
+    "en_US": "The Dust Has Settled",
     "ja_JP": "物語の結末",
     "zh_CN": "尘埃落定"
   },
   "act33side_10": {
+    "en_US": "Goodbye, Goodbye",
     "ja_JP": "さようなら、さようなら",
     "zh_CN": "再见，再见"
   },
   "act33side_mo01": {
+    "en_US": "Street Cleaning",
     "ja_JP": "市街地掃討",
     "zh_CN": "打扫街区"
   },
   "act33side_s01": {
+    "en_US": "Simulated Assassination-1",
     "ja_JP": "暗殺作戦シミュレーション-1",
     "zh_CN": "模拟刺杀作战-1"
   },
   "act33side_s02": {
+    "en_US": "Simulated Assassination-2",
     "ja_JP": "暗殺作戦シミュレーション-2",
     "zh_CN": "模拟刺杀作战-2"
   },
   "act33side_s03": {
+    "en_US": "Simulated Assassination-3",
     "ja_JP": "暗殺作戦シミュレーション-3",
     "zh_CN": "模拟刺杀作战-3"
   },
   "act33side_s04": {
+    "en_US": "Simulated Assassination-4",
     "ja_JP": "暗殺作戦シミュレーション-4",
     "zh_CN": "模拟刺杀作战-4"
   },
   "act33side_st01": {
+    "en_US": "Unfinished Goodbye",
     "ja_JP": "未完の別れ",
     "zh_CN": "未完成的告别"
   },
   "act33side_st02": {
+    "en_US": "Awakening in Exhaustion",
     "ja_JP": "気怠い覚醒",
     "zh_CN": "在疲惫中苏醒"
   },
   "act33side_st03": {
+    "en_US": "End of Souls",
     "ja_JP": "魂の行く果て",
     "zh_CN": "灵魂尽头"
   },
   "act33side_tr01": {
+    "en_US": "Kazdelian Combat Drill",
     "ja_JP": "カズデル実戦演習",
     "zh_CN": "卡兹戴尔作战演习"
   },

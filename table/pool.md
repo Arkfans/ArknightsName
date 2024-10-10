@@ -174,7 +174,7 @@ tip: 请善用浏览器的搜索功能
 | _NORM_29_0_3 | - | Joint Operation | 連合作戦 |
 | _NORM_2_0_1 | - | Chi Xiao, the Hidden Dragon | 赤龍乗雲 |
 | _NORM_2_0_3 | - | Lungmen Spec Ops Headhunting | 龍門特別行動要員 |
-| _NORM_30_0_3 | - | - | 先途追想 |
+| _NORM_30_0_3 | - | The Front That Was | 先途追想 |
 | _NORM_3_0_1 | - | Frozen Land | 果てなき氷原 |
 | _NORM_3_1_1 | - | First Snowfall | 雪降る暁 |
 | _NORM_3_2_1 | - | Lisa of the Valley | 峡谷に芽吹く君影草 |
@@ -212,4 +212,4 @@ tip: 请善用浏览器的搜索功能
 | _SINGLE_28_0_1 | - | The Sojourner | さすらう者 |
 | _SINGLE_28_0_4 | - | Ray of Light | 一筋の曙光 |
 | _SINGLE_29_0_5 | - | To Bloom From a Dim Flame | 枯火に咲く花 |
-| _SINGLE_30_0_1 | - | - | 死か/終わりか |
+| _SINGLE_30_0_1 | - | LIKE ENDING LIKE DEATH | 死か/終わりか |

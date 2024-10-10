@@ -280,9 +280,9 @@ tip: 请善用浏览器的搜索功能
 | char_4124_iana | 双月 | Iana | Iana |
 | char_4125_rdoc | 医生 | Doc | Doc |
 | char_4126_fuze | 导火索 | Fuze | Fuze |
-| char_4130_luton | 露托 | - | ルトナダ |
-| char_4131_odda | 奥达 | - | オッダ |
-| char_4132_ascln | 阿斯卡纶 | - | アスカロン |
+| char_4130_luton | 露托 | Lutonada | ルトナダ |
+| char_4131_odda | 奥达 | Odda | オッダ |
+| char_4132_ascln | 阿斯卡纶 | Ascalon | アスカロン |
 | char_4133_logos | 逻各斯 | - | - |
 | char_4134_cetsyr | 魔王 | - | - |
 | char_4136_phonor | PhonoR-0 | - | - |
@@ -313,7 +313,7 @@ tip: 请善用浏览器的搜索功能
 | char_436_whispr | 絮雨 | Whisperain | ウィスパーレイン |
 | char_437_mizuki | 水月 | Mizuki | ミヅキ |
 | char_440_pinecn | 松果 | Pinecone | パインコーン |
-| char_446_aroma | 阿罗玛 | - | アロマ |
+| char_446_aroma | 阿罗玛 | Aroma | アロマ |
 | char_449_glider | 蜜莓 | Honeyberry | ハニーベリー |
 | char_451_robin | 罗宾 | Robin | ロビン |
 | char_452_bstalk | 豆苗 | Beanstalk | ビーンストーク |

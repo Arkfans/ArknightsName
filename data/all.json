@@ -2192,6 +2192,7 @@
   "char_4130_luton": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Lutonada",
       "ja_JP": "ルトナダ",
       "zh_CN": "露托"
     }
@@ -2199,6 +2200,7 @@
   "char_4131_odda": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Odda",
       "ja_JP": "オッダ",
       "zh_CN": "奥达"
     }
@@ -2206,6 +2208,7 @@
   "char_4132_ascln": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Ascalon",
       "ja_JP": "アスカロン",
       "zh_CN": "阿斯卡纶"
     }
@@ -2421,6 +2424,7 @@
   "char_446_aroma": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Aroma",
       "ja_JP": "アロマ",
       "zh_CN": "阿罗玛"
     }
@@ -4310,6 +4314,7 @@
   "trap_147_spblls": {
     "type": "TRAP",
     "names": {
+      "en_US": "Witchcraft Ballista",
       "ja_JP": "巫術バリスタ",
       "zh_CN": "巫术弩炮"
     }
@@ -4317,6 +4322,7 @@
   "trap_148_amblls": {
     "type": "TRAP",
     "names": {
+      "en_US": "Umbral Door",
       "ja_JP": "幽影の扉",
       "zh_CN": "幽影门扉"
     }
@@ -5148,6 +5154,7 @@
   "trap_482_xbblure": {
     "type": "TRAP",
     "names": {
+      "en_US": "Slug Lure",
       "ja_JP": "オリジムシ捕獲トラップ",
       "zh_CN": "源石虫引诱器"
     }
@@ -5155,6 +5162,7 @@
   "trap_483_xbtrophy": {
     "type": "TRAP",
     "names": {
+      "en_US": "'Heart of a Slug'",
       "ja_JP": "「オリジムシハート」",
       "zh_CN": "“源石虫之心”"
     }
@@ -5162,6 +5170,7 @@
   "trap_484_xbcp": {
     "type": "TRAP",
     "names": {
+      "en_US": "Checkpoint",
       "ja_JP": "チェックポイント",
       "zh_CN": "检查点"
     }
@@ -5169,6 +5178,7 @@
   "trap_485_xbrandprop": {
     "type": "TRAP",
     "names": {
+      "en_US": "Random Item Box",
       "ja_JP": "ランダムボックス",
       "zh_CN": "随机道具盒"
     }
@@ -5176,6 +5186,7 @@
   "trap_486_xbspd": {
     "type": "TRAP",
     "names": {
+      "en_US": "Accelerator Tile",
       "ja_JP": "加速ブロック",
       "zh_CN": "加速块"
     }
@@ -5699,6 +5710,7 @@
   "trap_746_cdrhine": {
     "type": "TRAP",
     "names": {
+      "en_US": "Pinnacle Insights Port",
       "ja_JP": "最新学説共有端末",
       "zh_CN": "尖端研究成果共享终端"
     }
@@ -5706,6 +5718,7 @@
   "trap_747_cdrhinea": {
     "type": "TRAP",
     "names": {
+      "en_US": "Pinnacle Insights Port",
       "ja_JP": "最新学説共有端末",
       "zh_CN": "尖端研究成果共享终端"
     }
@@ -5713,6 +5726,7 @@
   "trap_748_cdrhineb": {
     "type": "TRAP",
     "names": {
+      "en_US": "Pinnacle Insights Port",
       "ja_JP": "最新学説共有端末",
       "zh_CN": "尖端研究成果共享终端"
     }
@@ -5720,6 +5734,7 @@
   "trap_749_cd1punch": {
     "type": "TRAP",
     "names": {
+      "en_US": "Sound Recording Amplifier",
       "ja_JP": "音波記録増幅器",
       "zh_CN": "声波记录扩音器"
     }
@@ -5727,6 +5742,7 @@
   "trap_750_cd1puncha": {
     "type": "TRAP",
     "names": {
+      "en_US": "Sound Recording Amplifier",
       "ja_JP": "音波記録増幅器",
       "zh_CN": "声波记录扩音器"
     }
@@ -5734,6 +5750,7 @@
   "trap_751_cd1punchb": {
     "type": "TRAP",
     "names": {
+      "en_US": "Sound Recording Amplifier",
       "ja_JP": "音波記録増幅器",
       "zh_CN": "声波记录扩音器"
     }
@@ -5741,6 +5758,7 @@
   "trap_752_cdcaster": {
     "type": "TRAP",
     "names": {
+      "en_US": "Arts Resonant Energy Field",
       "ja_JP": "アーツ同調力場",
       "zh_CN": "法术调和能量场"
     }
@@ -5748,6 +5766,7 @@
   "trap_753_cdcastera": {
     "type": "TRAP",
     "names": {
+      "en_US": "Arts Resonant Energy Field",
       "ja_JP": "アーツ同調力場",
       "zh_CN": "法术调和能量场"
     }
@@ -5755,6 +5774,7 @@
   "trap_754_cdcasterb": {
     "type": "TRAP",
     "names": {
+      "en_US": "Arts Resonant Energy Field",
       "ja_JP": "アーツ同調力場",
       "zh_CN": "法术调和能量场"
     }
@@ -5762,6 +5782,7 @@
   "trap_755_cdsoul": {
     "type": "TRAP",
     "names": {
+      "en_US": "Squeaking Sound",
       "ja_JP": "ハウリングスピーカー",
       "zh_CN": "啸叫音响"
     }
@@ -5769,6 +5790,7 @@
   "trap_756_cdnest": {
     "type": "TRAP",
     "names": {
+      "en_US": "'Sticky Prize'",
       "ja_JP": "「ねばねばしたおまけ」",
       "zh_CN": "“黏黏的赠品”"
     }
@@ -6256,6 +6278,7 @@
   "char_121_lava@sale#9": {
     "type": "SKIN",
     "names": {
+      "en_US": "Bunch of Sunlight",
       "ja_JP": "陽光を抱えて",
       "zh_CN": "一束阳光"
     }
@@ -6779,7 +6802,7 @@
   "char_201_moeshd@kfc#1": {
     "type": "SKIN",
     "names": {
-      "en_US": "1899/12/30 7:00:00",
+      "en_US": "Seven in the Morning",
       "ja_JP": "7:00 a.m.",
       "zh_CN": "清晨七点"
     }
@@ -8121,6 +8144,7 @@
   "char_4082_qiubai@epoque#31": {
     "type": "SKIN",
     "names": {
+      "en_US": "Courtesy",
       "ja_JP": "礼をもって",
       "zh_CN": "礼遇"
     }
@@ -8352,6 +8376,7 @@
   "char_440_pinecn@epoque#31": {
     "type": "SKIN",
     "names": {
+      "en_US": "Season of Travel",
       "ja_JP": "遠出の季節",
       "zh_CN": "远行的季节"
     }
@@ -8423,6 +8448,7 @@
   "char_464_cement@epoque#31": {
     "type": "SKIN",
     "names": {
+      "en_US": "New Business",
       "ja_JP": "事業開拓",
       "zh_CN": "全新业务"
     }
@@ -8578,6 +8604,7 @@
   "char_489_serum@epoque#31": {
     "type": "SKIN",
     "names": {
+      "en_US": "Leisure",
       "ja_JP": "気ままな休日",
       "zh_CN": "逸趣"
     }
@@ -8749,7 +8776,7 @@
   "sweep": {
     "type": "TEAM",
     "names": {
-      "en_US": "S.W.E.E.P",
+      "en_US": "S.W.E.E.P.",
       "ja_JP": "S.W.E.E.P.",
       "zh_CN": "S.W.E.E.P."
     }
@@ -15365,6 +15392,7 @@
   "enemy_1410_mmelee": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Flying Boots' Mercenary",
       "ja_JP": "「ジェットブーツ」傭兵",
       "zh_CN": "“飞鞋党”佣兵"
     }
@@ -15372,6 +15400,7 @@
   "enemy_1410_mmelee_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Flying Boots' Elite Mercenary",
       "ja_JP": "「ジェットブーツ」精鋭傭兵",
       "zh_CN": "“飞鞋党”精锐佣兵"
     }
@@ -15379,6 +15408,7 @@
   "enemy_1411_mmrnge": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Pothelm' Marksman",
       "ja_JP": "「鍋頭」狙撃手",
       "zh_CN": "“锅盖头”射手"
     }
@@ -15386,6 +15416,7 @@
   "enemy_1411_mmrnge_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Pothelm' Arbalest",
       "ja_JP": "「鍋頭」精鋭狙撃手",
       "zh_CN": "“锅盖头”劲弩射手"
     }
@@ -15393,6 +15424,7 @@
   "enemy_1412_mmjump": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Scrap Assembler",
       "ja_JP": "ガラクタクラフター",
       "zh_CN": "破烂拼凑者"
     }
@@ -15400,6 +15432,7 @@
   "enemy_1412_mmjump_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Scrap Inventor",
       "ja_JP": "ガラクタクリエイター",
       "zh_CN": "破烂发明家"
     }
@@ -15407,6 +15440,7 @@
   "enemy_1413_mmstck": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Bounty Hunter 'Knight'",
       "ja_JP": "賞金稼ぎ「騎士」",
       "zh_CN": "赏金猎人“骑士”"
     }
@@ -15414,6 +15448,7 @@
   "enemy_1413_mmstck_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Bounty Hunter 'Grand Knight'",
       "ja_JP": "賞金稼ぎ「大騎士」",
       "zh_CN": "赏金猎人“大骑士”"
     }
@@ -15421,6 +15456,7 @@
   "enemy_1414_mmleak": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Spatula Giant",
       "ja_JP": "キッチンジャイアント",
       "zh_CN": "爆燃厨具巨人"
     }
@@ -15428,6 +15464,7 @@
   "enemy_1414_mmleak_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Enraged Spatula Giant",
       "ja_JP": "強化型キッチンジャイアント",
       "zh_CN": "增强型爆燃厨具巨人"
     }
@@ -15435,6 +15472,7 @@
   "enemy_1415_mmkabi": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Armored Burdenbeast",
       "ja_JP": "温厚な武装駄獣",
       "zh_CN": "温顺的武装驮兽"
     }
@@ -15442,6 +15480,7 @@
   "enemy_1415_mmkabi_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Greater Armored Burdenbeast",
       "ja_JP": "温厚な武装大駄獣",
       "zh_CN": "温顺的武装大驮兽"
     }
@@ -15449,6 +15488,7 @@
   "enemy_1416_mmfarm": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Shearclaws'",
       "ja_JP": "放浪傭兵「カーヴァー」",
       "zh_CN": "流浪佣兵“剪刀手”"
     }
@@ -15456,6 +15496,7 @@
   "enemy_1416_mmfarm_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Weaver'",
       "ja_JP": "放浪傭兵「ウィーバー」",
       "zh_CN": "流浪佣兵“编织者”"
     }
@@ -15463,6 +15504,7 @@
   "enemy_1417_mmdudu": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Rogue Mercenary 'Bass'",
       "ja_JP": "フリー傭兵「ベース」",
       "zh_CN": "自由佣兵“贝斯”"
     }
@@ -15470,6 +15512,7 @@
   "enemy_1417_mmdudu_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Rogue Mercenary 'Lead Guitar'",
       "ja_JP": "フリー傭兵「リードギター」",
       "zh_CN": "自由佣兵“主音吉他”"
     }
@@ -15477,6 +15520,7 @@
   "enemy_1418_mmkonm": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Tinkerer'",
       "ja_JP": "放浪職人「リペアラー」",
       "zh_CN": "流浪工匠“修补工”"
     }
@@ -15484,6 +15528,7 @@
   "enemy_1418_mmkonm_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Mechanic'",
       "ja_JP": "放浪職人「リペアマスター」",
       "zh_CN": "流浪工匠“修补工头”"
     }
@@ -15491,6 +15536,7 @@
   "enemy_1419_mmcike": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Deathveil Assassin",
       "ja_JP": "捨身の死士",
       "zh_CN": "裹骸死士"
     }
@@ -16126,6 +16172,7 @@
   "enemy_1552_mmamiy": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Amiya'",
       "ja_JP": "「アーミヤ」",
       "zh_CN": "“阿米娅”"
     }
@@ -16839,6 +16886,7 @@
   "enemy_3006_tersia": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Theresa, King of Sarkaz",
       "ja_JP": "Theresa・「魔王」",
       "zh_CN": "特蕾西娅，“魔王”"
     }
@@ -17234,6 +17282,7 @@
   "enemy_6022_m2cnt": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Count Grimscore'",
       "ja_JP": "「鬱織りの伯爵」",
       "zh_CN": "“织郁伯爵”"
     }
@@ -17241,6 +17290,7 @@
   "enemy_6023_crane": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Greedy Catcher'",
       "ja_JP": "「グリーディーキャッチャー」",
       "zh_CN": "“贪婪捕手”"
     }
@@ -17248,6 +17298,7 @@
   "enemy_6024_crnbug": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Really Unruly Creature'",
       "ja_JP": "「勝手気ままな生物」",
       "zh_CN": "“特别任性的生物”"
     }
@@ -17577,6 +17628,7 @@
   "enemy_7044_xblbug": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Flying Originium Slug",
       "ja_JP": "羽オリジムシ",
       "zh_CN": "振翅源石虫"
     }
@@ -17584,6 +17636,7 @@
   "enemy_7045_xbtd": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Charging Originium Slug",
       "ja_JP": "突撃オリジムシ",
       "zh_CN": "冲锋源石虫"
     }
@@ -17591,6 +17644,7 @@
   "enemy_7046_xbslug": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Armored Originium Slug",
       "ja_JP": "アーマーオリジムシ",
       "zh_CN": "披甲源石虫"
     }
@@ -18278,6 +18332,7 @@
   "act1access": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Exclusive Event",
       "ja_JP": "大感謝祭限定イベント",
       "zh_CN": "五周年专享活动"
     }
@@ -18759,6 +18814,7 @@
   "act33side": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Babel",
       "ja_JP": "バベル",
       "zh_CN": "巴别塔"
     }
@@ -20947,6 +21003,7 @@
   "SINGLE_49_0_1_GACHA": {
     "type": "ITEM",
     "names": {
+      "en_US": "Exclusive Headhunting Permit",
       "ja_JP": "イベントスカウト券",
       "zh_CN": "如死亦终寻访凭证"
     }
@@ -20954,6 +21011,7 @@
   "SINGLE_49_0_1_GACHA_10": {
     "type": "ITEM",
     "names": {
+      "en_US": "Exclusive Ten-roll Headhunting Permit",
       "ja_JP": "イベント10回スカウト券",
       "zh_CN": "如死亦终十连寻访凭证"
     }
@@ -21843,6 +21901,7 @@
   "act33side_token_sugar": {
     "type": "ITEM",
     "names": {
+      "en_US": "Raw Sugar Lumps",
       "ja_JP": "粗製角砂糖",
       "zh_CN": "粗制糖块"
     }
@@ -23013,6 +23072,7 @@
   "class_p_char_214_kafka": {
     "type": "ITEM",
     "names": {
+      "en_US": "Kafka's Kernel Token",
       "ja_JP": "カフカの印（中堅）",
       "zh_CN": "卡夫卡的中坚信物"
     }
@@ -23028,6 +23088,7 @@
   "class_p_char_218_cuttle": {
     "type": "ITEM",
     "names": {
+      "en_US": "Andreana's Kernel Token",
       "ja_JP": "アンドレアナの印（中堅）",
       "zh_CN": "安哲拉的中坚信物"
     }
@@ -23179,6 +23240,7 @@
   "class_p_char_264_f12yin": {
     "type": "ITEM",
     "names": {
+      "en_US": "Mountain's Kernel Token",
       "ja_JP": "マウンテンの印（中堅）",
       "zh_CN": "山的中坚信物"
     }
@@ -23290,6 +23352,7 @@
   "class_p_char_293_thorns": {
     "type": "ITEM",
     "names": {
+      "en_US": "Thorns's Kernel Token",
       "ja_JP": "ソーンズの印（中堅）",
       "zh_CN": "棘刺的中坚信物"
     }
@@ -23345,6 +23408,7 @@
   "class_p_char_311_mudrok": {
     "type": "ITEM",
     "names": {
+      "en_US": "Mudrock's Kernel Token",
       "ja_JP": "マドロックの印（中堅）",
       "zh_CN": "泥岩的中坚信物"
     }
@@ -23368,6 +23432,7 @@
   "class_p_char_332_archet": {
     "type": "ITEM",
     "names": {
+      "en_US": "Archetto's Kernel Token",
       "ja_JP": "アルケットの印（中堅）",
       "zh_CN": "空弦的中坚信物"
     }
@@ -23383,6 +23448,7 @@
   "class_p_char_338_iris": {
     "type": "ITEM",
     "names": {
+      "en_US": "Iris's Kernel Token",
       "ja_JP": "アイリスの印（中堅）",
       "zh_CN": "爱丽丝的中坚信物"
     }
@@ -23414,6 +23480,7 @@
   "class_p_char_346_aosta": {
     "type": "ITEM",
     "names": {
+      "en_US": "Aosta's Kernel Token",
       "ja_JP": "アオスタの印（中堅）",
       "zh_CN": "奥斯塔的中坚信物"
     }
@@ -23437,6 +23504,7 @@
   "class_p_char_350_surtr": {
     "type": "ITEM",
     "names": {
+      "en_US": "Surtr's Kernel Token",
       "ja_JP": "スルトの印（中堅）",
       "zh_CN": "史尔特尔的中坚信物"
     }
@@ -23460,6 +23528,7 @@
   "class_p_char_362_saga": {
     "type": "ITEM",
     "names": {
+      "en_US": "Saga's Kernel Token",
       "ja_JP": "サガの印（中堅）",
       "zh_CN": "嵯峨的中坚信物"
     }
@@ -23467,6 +23536,7 @@
   "class_p_char_363_toddi": {
     "type": "ITEM",
     "names": {
+      "en_US": "Toddifons's Kernel Token",
       "ja_JP": "トギフォンスの印（中堅）",
       "zh_CN": "熔泉的中坚信物"
     }
@@ -23474,6 +23544,7 @@
   "class_p_char_365_aprl": {
     "type": "ITEM",
     "names": {
+      "en_US": "April's Kernel Token",
       "ja_JP": "エイプリルの印（中堅）",
       "zh_CN": "四月的中坚信物"
     }
@@ -23529,6 +23600,7 @@
   "class_p_char_400_weedy": {
     "type": "ITEM",
     "names": {
+      "en_US": "Weedy's Kernel Token",
       "ja_JP": "ウィーディの印（中堅）",
       "zh_CN": "温蒂的中坚信物"
     }
@@ -23536,6 +23608,7 @@
   "class_p_char_401_elysm": {
     "type": "ITEM",
     "names": {
+      "en_US": "Elysium's Kernel Token",
       "ja_JP": "エリジウムの印（中堅）",
       "zh_CN": "极境的中坚信物"
     }
@@ -23559,6 +23632,7 @@
   "class_p_char_4107_vrdant": {
     "type": "ITEM",
     "names": {
+      "en_US": "Verdant's Kernel Token",
       "ja_JP": "ヴァーダントの印（中堅）",
       "zh_CN": "维荻的中坚信物"
     }
@@ -23566,6 +23640,7 @@
   "class_p_char_415_flint": {
     "type": "ITEM",
     "names": {
+      "en_US": "Flint's Kernel Token",
       "ja_JP": "フリントの印（中堅）",
       "zh_CN": "燧石的中坚信物"
     }
@@ -23573,6 +23648,7 @@
   "class_p_char_416_zumama": {
     "type": "ITEM",
     "names": {
+      "en_US": "Eunectes's Kernel Token",
       "ja_JP": "ユーネクテスの印（中堅）",
       "zh_CN": "森蚺的中坚信物"
     }
@@ -23580,6 +23656,7 @@
   "class_p_char_423_blemsh": {
     "type": "ITEM",
     "names": {
+      "en_US": "Blemishine's Kernel Token",
       "ja_JP": "ブレミシャインの印（中堅）",
       "zh_CN": "瑕光的中坚信物"
     }
@@ -23587,6 +23664,7 @@
   "class_p_char_436_whispr": {
     "type": "ITEM",
     "names": {
+      "en_US": "Whisperain's Kernel Token",
       "ja_JP": "ウィスパーレインの印（中堅）",
       "zh_CN": "絮雨的中坚信物"
     }
@@ -23610,6 +23688,7 @@
   "class_p_char_455_nothin": {
     "type": "ITEM",
     "names": {
+      "en_US": "Mr. Nothing's Kernel Token",
       "ja_JP": "ウユウの印（中堅）",
       "zh_CN": "乌有的中坚信物"
     }
@@ -23625,6 +23704,7 @@
   "class_p_char_472_pasngr": {
     "type": "ITEM",
     "names": {
+      "en_US": "Passenger's Kernel Token",
       "ja_JP": "パッセンジャーの印（中堅）",
       "zh_CN": "异客的中坚信物"
     }
@@ -24072,7 +24152,7 @@
   "mcardVoucher": {
     "type": "ITEM",
     "names": {
-      "en_US": "Monthly Card",
+      "en_US": "Monthly Card Exchange Permit",
       "ja_JP": "月パス交換資格証",
       "zh_CN": "月卡兑换凭证"
     }
@@ -26294,6 +26374,7 @@
   "p_char_4130_luton": {
     "type": "ITEM",
     "names": {
+      "en_US": "Lutonada's Token",
       "ja_JP": "ルトナダの印",
       "zh_CN": "露托的信物"
     }
@@ -26301,6 +26382,7 @@
   "p_char_4131_odda": {
     "type": "ITEM",
     "names": {
+      "en_US": "Odda's Token",
       "ja_JP": "オッダの印",
       "zh_CN": "奥达的信物"
     }
@@ -26308,6 +26390,7 @@
   "p_char_4132_ascln": {
     "type": "ITEM",
     "names": {
+      "en_US": "Ascalon's Token",
       "ja_JP": "アスカロンの印",
       "zh_CN": "阿斯卡纶的信物"
     }
@@ -26515,6 +26598,7 @@
   "p_char_446_aroma": {
     "type": "ITEM",
     "names": {
+      "en_US": "Aroma's Token",
       "ja_JP": "アロマの印",
       "zh_CN": "阿罗玛的信物"
     }
@@ -27100,6 +27184,7 @@
   "renamingCard_0_050": {
     "type": "ITEM",
     "names": {
+      "en_US": "ID Info Update Card",
       "ja_JP": "ID情報更新カード",
       "zh_CN": "ID信息更新卡"
     }
@@ -27155,6 +27240,7 @@
   "renamingCard_30_050": {
     "type": "ITEM",
     "names": {
+      "en_US": "ID Info Update Card",
       "ja_JP": "ID情報更新カード",
       "zh_CN": "ID信息更新卡"
     }
@@ -27778,6 +27864,7 @@
   "uni_set_goldBoat": {
     "type": "ITEM",
     "names": {
+      "en_US": "Stultifera Navis Furniture Pack",
       "ja_JP": "狂人号家具パック",
       "zh_CN": "愚人号家具收藏包"
     }
@@ -28081,6 +28168,7 @@
   "voucher_full_lumen": {
     "type": "ITEM",
     "names": {
+      "en_US": "Lumen's Personal Letter",
       "ja_JP": "ルーメンの手紙",
       "zh_CN": "流明的私人信件"
     }
@@ -29704,6 +29792,7 @@
   "_NORM_30_0_3": {
     "type": "POOL",
     "names": {
+      "en_US": "The Front That Was",
       "ja_JP": "先途追想"
     }
   },
@@ -29969,6 +30058,7 @@
   "_SINGLE_30_0_1": {
     "type": "POOL",
     "names": {
+      "en_US": "LIKE ENDING LIKE DEATH",
       "ja_JP": "死か/終わりか"
     }
   },
@@ -30151,6 +30241,7 @@
   "skchr_amiya3_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Empathy of Grief",
       "ja_JP": "悲痛共感",
       "zh_CN": "哀恸共情"
     }
@@ -30158,6 +30249,7 @@
   "skchr_amiya3_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Vision of Mercy",
       "ja_JP": "慈悲先途",
       "zh_CN": "慈悲愿景"
     }
@@ -30285,6 +30377,7 @@
   "skchr_aroma_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Power Cleaning",
       "ja_JP": "強力洗浄",
       "zh_CN": "强效清洁"
     }
@@ -30292,6 +30385,7 @@
   "skchr_aroma_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Caution! Wet Floor!",
       "ja_JP": "スリップ注意",
       "zh_CN": "小心地滑"
     }
@@ -30315,6 +30409,7 @@
   "skchr_ascln_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Pursuit",
       "ja_JP": "追襲",
       "zh_CN": "追袭"
     }
@@ -30322,6 +30417,7 @@
   "skchr_ascln_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Endowment",
       "ja_JP": "恩賜",
       "zh_CN": "恩赐"
     }
@@ -30329,6 +30425,7 @@
   "skchr_ascln_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Descent",
       "ja_JP": "降臨",
       "zh_CN": "降临"
     }
@@ -32936,6 +33033,7 @@
   "skchr_luton_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Power Strike β",
       "ja_JP": "強撃β",
       "zh_CN": "强力击·β型"
     }
@@ -32943,6 +33041,7 @@
   "skchr_luton_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Magnetic Defense",
       "ja_JP": "強磁場シールド",
       "zh_CN": "强磁防卫"
     }
@@ -33464,6 +33563,7 @@
   "skchr_odda_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Sputterspark",
       "ja_JP": "散火槌",
       "zh_CN": "火花溅射"
     }
@@ -33471,6 +33571,7 @@
   "skchr_odda_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Hammerforce",
       "ja_JP": "炎撃槌",
       "zh_CN": "锻锤之力"
     }
@@ -35564,6 +35665,7 @@
   "sktok_amblls": {
     "type": "SKILL",
     "names": {
+      "en_US": "Umbral Door",
       "ja_JP": "幽影の扉",
       "zh_CN": "幽影门扉"
     }
@@ -35887,6 +35989,7 @@
   "sktok_cd1punch": {
     "type": "SKILL",
     "names": {
+      "en_US": "Record",
       "ja_JP": "レコード",
       "zh_CN": "灌录"
     }
@@ -35894,6 +35997,7 @@
   "sktok_cd1puncha": {
     "type": "SKILL",
     "names": {
+      "en_US": "Record",
       "ja_JP": "レコード",
       "zh_CN": "灌录"
     }
@@ -35901,6 +36005,7 @@
   "sktok_cd1punchb": {
     "type": "SKILL",
     "names": {
+      "en_US": "Record",
       "ja_JP": "レコード",
       "zh_CN": "灌录"
     }
@@ -35980,6 +36085,7 @@
   "sktok_cdcaster": {
     "type": "SKILL",
     "names": {
+      "en_US": "Energy Harmonization",
       "ja_JP": "エネルギー同調",
       "zh_CN": "能量调和"
     }
@@ -35987,6 +36093,7 @@
   "sktok_cdcastera": {
     "type": "SKILL",
     "names": {
+      "en_US": "Energy Harmonization",
       "ja_JP": "エネルギー同調",
       "zh_CN": "能量调和"
     }
@@ -35994,6 +36101,7 @@
   "sktok_cdcasterb": {
     "type": "SKILL",
     "names": {
+      "en_US": "Energy Harmonization",
       "ja_JP": "エネルギー同調",
       "zh_CN": "能量调和"
     }
@@ -36113,6 +36221,7 @@
   "sktok_cdnest": {
     "type": "SKILL",
     "names": {
+      "en_US": "'Sticky Prize'",
       "ja_JP": "「ねばねばしたおまけ」",
       "zh_CN": "“黏黏的赠品”"
     }
@@ -36120,6 +36229,7 @@
   "sktok_cdrhine": {
     "type": "SKILL",
     "names": {
+      "en_US": "Shared Discovery",
       "ja_JP": "共同研究",
       "zh_CN": "共享发现"
     }
@@ -36127,6 +36237,7 @@
   "sktok_cdrhinea": {
     "type": "SKILL",
     "names": {
+      "en_US": "Shared Discovery",
       "ja_JP": "共同研究",
       "zh_CN": "共享发现"
     }
@@ -36134,6 +36245,7 @@
   "sktok_cdrhineb": {
     "type": "SKILL",
     "names": {
+      "en_US": "Shared Discovery",
       "ja_JP": "共同研究",
       "zh_CN": "共享发现"
     }
@@ -37555,6 +37667,7 @@
   "sktok_spblls": {
     "type": "SKILL",
     "names": {
+      "en_US": "Witchcraft Ballista",
       "ja_JP": "巫術バリスタ",
       "zh_CN": "巫术弩炮"
     }
@@ -38104,6 +38217,7 @@
   "sktok_xbblure_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Lure",
       "ja_JP": "おびき寄せ",
       "zh_CN": "引诱"
     }
@@ -38111,6 +38225,7 @@
   "sktok_xbblure_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Lure",
       "ja_JP": "おびき寄せ",
       "zh_CN": "引诱"
     }
@@ -38118,6 +38233,7 @@
   "sktok_xbblure_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Lure",
       "ja_JP": "おびき寄せ",
       "zh_CN": "引诱"
     }
@@ -38149,6 +38265,7 @@
   "sktok_xbcp": {
     "type": "SKILL",
     "names": {
+      "en_US": "Checkpoint",
       "ja_JP": "チェックポイント",
       "zh_CN": "检查点"
     }
@@ -38396,6 +38513,7 @@
   "sktok_xbrandprop_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Dispense Item",
       "ja_JP": "アイテム配布",
       "zh_CN": "发道具"
     }
@@ -38403,6 +38521,7 @@
   "sktok_xbrandprop_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Dispense Item",
       "ja_JP": "アイテム配布",
       "zh_CN": "发道具"
     }
@@ -38502,6 +38621,7 @@
   "sktok_xbtrophy": {
     "type": "SKILL",
     "names": {
+      "en_US": "'Heartbeat'",
       "ja_JP": "「脈動」",
       "zh_CN": "“跳动”"
     }
@@ -43447,6 +43567,7 @@
   "act33side_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Great Aspirations",
       "ja_JP": "壮大な未来図",
       "zh_CN": "宏伟愿景"
     }
@@ -43454,6 +43575,7 @@
   "act33side_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Where Fate Guides",
       "ja_JP": "運命は何処",
       "zh_CN": "命途何在"
     }
@@ -43461,6 +43583,7 @@
   "act33side_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Silent Crack",
       "ja_JP": "静かなる決別",
       "zh_CN": "无声破裂"
     }
@@ -43468,6 +43591,7 @@
   "act33side_04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Long Voyage",
       "ja_JP": "長き旅路",
       "zh_CN": "悠长的旅途"
     }
@@ -43475,6 +43599,7 @@
   "act33side_05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Fires of Uprising",
       "ja_JP": "激変する烽煙",
       "zh_CN": "激变烽烟"
     }
@@ -43482,6 +43607,7 @@
   "act33side_06": {
     "type": "STAGE",
     "names": {
+      "en_US": "Flickering Light",
       "ja_JP": "明滅する灯火",
       "zh_CN": "灯火闪烁不定"
     }
@@ -43489,6 +43615,7 @@
   "act33side_07": {
     "type": "STAGE",
     "names": {
+      "en_US": "Rising Shadow",
       "ja_JP": "顕現せし影",
       "zh_CN": "阴影显现"
     }
@@ -43496,6 +43623,7 @@
   "act33side_08": {
     "type": "STAGE",
     "names": {
+      "en_US": "Final Countdown",
       "ja_JP": "結末へのカウントダウン",
       "zh_CN": "终局倒计时"
     }
@@ -43503,6 +43631,7 @@
   "act33side_09": {
     "type": "STAGE",
     "names": {
+      "en_US": "The Dust Has Settled",
       "ja_JP": "物語の結末",
       "zh_CN": "尘埃落定"
     }
@@ -43510,6 +43639,7 @@
   "act33side_10": {
     "type": "STAGE",
     "names": {
+      "en_US": "Goodbye, Goodbye",
       "ja_JP": "さようなら、さようなら",
       "zh_CN": "再见，再见"
     }
@@ -43517,6 +43647,7 @@
   "act33side_mo01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Street Cleaning",
       "ja_JP": "市街地掃討",
       "zh_CN": "打扫街区"
     }
@@ -43524,6 +43655,7 @@
   "act33side_s01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Simulated Assassination-1",
       "ja_JP": "暗殺作戦シミュレーション-1",
       "zh_CN": "模拟刺杀作战-1"
     }
@@ -43531,6 +43663,7 @@
   "act33side_s02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Simulated Assassination-2",
       "ja_JP": "暗殺作戦シミュレーション-2",
       "zh_CN": "模拟刺杀作战-2"
     }
@@ -43538,6 +43671,7 @@
   "act33side_s03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Simulated Assassination-3",
       "ja_JP": "暗殺作戦シミュレーション-3",
       "zh_CN": "模拟刺杀作战-3"
     }
@@ -43545,6 +43679,7 @@
   "act33side_s04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Simulated Assassination-4",
       "ja_JP": "暗殺作戦シミュレーション-4",
       "zh_CN": "模拟刺杀作战-4"
     }
@@ -43552,6 +43687,7 @@
   "act33side_st01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Unfinished Goodbye",
       "ja_JP": "未完の別れ",
       "zh_CN": "未完成的告别"
     }
@@ -43559,6 +43695,7 @@
   "act33side_st02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Awakening in Exhaustion",
       "ja_JP": "気怠い覚醒",
       "zh_CN": "在疲惫中苏醒"
     }
@@ -43566,6 +43703,7 @@
   "act33side_st03": {
     "type": "STAGE",
     "names": {
+      "en_US": "End of Souls",
       "ja_JP": "魂の行く果て",
       "zh_CN": "灵魂尽头"
     }
@@ -43573,6 +43711,7 @@
   "act33side_tr01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Kazdelian Combat Drill",
       "ja_JP": "カズデル実戦演習",
       "zh_CN": "卡兹戴尔作战演习"
     }
@@ -49828,6 +49967,7 @@
   "act33side_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "You the Future, Take My Gifts",
       "ja_JP": "未来を贈らん",
       "zh_CN": "我赠予未来"
     }
@@ -49835,6 +49975,7 @@
   "act33side_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "You the Past, Ward Me Firmly",
       "ja_JP": "昔日に残れり",
       "zh_CN": "我驻留往昔"
     }
@@ -49842,6 +49983,7 @@
   "act33side_zone3": {
     "type": "ZONE",
     "names": {
+      "en_US": "You the Constant, You Are Me",
       "ja_JP": "我は我なり",
       "zh_CN": "我始终如一"
     }
@@ -50719,6 +50861,7 @@
   "permanent_sub_6_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "You the Future, Take My Gifts",
       "ja_JP": "未来を贈らん",
       "zh_CN": "我赠予未来"
     }
@@ -50726,6 +50869,7 @@
   "permanent_sub_6_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "You the Past, Ward Me Firmly",
       "ja_JP": "昔日に残れり",
       "zh_CN": "我驻留往昔"
     }
@@ -50733,6 +50877,7 @@
   "permanent_sub_6_zone3": {
     "type": "ZONE",
     "names": {
+      "en_US": "You the Constant, You Are Me",
       "ja_JP": "我は我なり",
       "zh_CN": "我始终如一"
     }
@@ -51966,6 +52111,7 @@
   "story_judge_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Under My Umbrella",
       "ja_JP": "あなたに傘を",
       "zh_CN": "为你撑伞"
     }
@@ -52123,6 +52269,7 @@
   "story_lunacu_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "To Dance With Somebody",
       "ja_JP": "人と共に舞う",
       "zh_CN": "与人共舞"
     }
@@ -52842,6 +52989,7 @@
   "story_spuria_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "A Gunshot Rings Out",
       "ja_JP": "反響する銃声",
       "zh_CN": "铳声回响"
     }
@@ -53055,6 +53203,7 @@
   "story_vrdant_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Little Tuft, Where Art Thou?",
       "ja_JP": "草木の叫び",
       "zh_CN": "小草的呼喊"
     }
