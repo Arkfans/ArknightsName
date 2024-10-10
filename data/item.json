@@ -850,9 +850,11 @@
     "zh_CN": "事相结晶"
   },
   "SINGLE_49_0_1_GACHA": {
+    "ja_JP": "イベントスカウト券",
     "zh_CN": "如死亦终寻访凭证"
   },
   "SINGLE_49_0_1_GACHA_10": {
+    "ja_JP": "イベント10回スカウト券",
     "zh_CN": "如死亦终十连寻访凭证"
   },
   "SINGLE_55_0_1_GACHA": {
@@ -1399,6 +1401,7 @@
     "zh_CN": "艺术馆集章卡"
   },
   "act33side_token_sugar": {
+    "ja_JP": "粗製角砂糖",
     "zh_CN": "粗制糖块"
   },
   "act34side_token_chip": {
@@ -2121,6 +2124,7 @@
     "zh_CN": "莫斯提马的中坚信物"
   },
   "class_p_char_214_kafka": {
+    "ja_JP": "カフカの印（中堅）",
     "zh_CN": "卡夫卡的中坚信物"
   },
   "class_p_char_215_mantic": {
@@ -2129,6 +2133,7 @@
     "zh_CN": "狮蝎的中坚信物"
   },
   "class_p_char_218_cuttle": {
+    "ja_JP": "アンドレアナの印（中堅）",
     "zh_CN": "安哲拉的中坚信物"
   },
   "class_p_char_219_meteo": {
@@ -2222,6 +2227,7 @@
     "zh_CN": "斯卡蒂的中坚信物"
   },
   "class_p_char_264_f12yin": {
+    "ja_JP": "マウンテンの印（中堅）",
     "zh_CN": "山的中坚信物"
   },
   "class_p_char_271_spikes": {
@@ -2290,6 +2296,7 @@
     "zh_CN": "安洁莉娜的中坚信物"
   },
   "class_p_char_293_thorns": {
+    "ja_JP": "ソーンズの印（中堅）",
     "zh_CN": "棘刺的中坚信物"
   },
   "class_p_char_294_ayer": {
@@ -2323,6 +2330,7 @@
     "zh_CN": "诗怀雅的中坚信物"
   },
   "class_p_char_311_mudrok": {
+    "ja_JP": "マドロックの印（中堅）",
     "zh_CN": "泥岩的中坚信物"
   },
   "class_p_char_326_glacus": {
@@ -2336,6 +2344,7 @@
     "zh_CN": "卡达的中坚信物"
   },
   "class_p_char_332_archet": {
+    "ja_JP": "アルケットの印（中堅）",
     "zh_CN": "空弦的中坚信物"
   },
   "class_p_char_337_utage": {
@@ -2344,6 +2353,7 @@
     "zh_CN": "宴的中坚信物"
   },
   "class_p_char_338_iris": {
+    "ja_JP": "アイリスの印（中堅）",
     "zh_CN": "爱丽丝的中坚信物"
   },
   "class_p_char_340_shwaz": {
@@ -2362,6 +2372,7 @@
     "zh_CN": "蜜蜡的中坚信物"
   },
   "class_p_char_346_aosta": {
+    "ja_JP": "アオスタの印（中堅）",
     "zh_CN": "奥斯塔的中坚信物"
   },
   "class_p_char_347_jaksel": {
@@ -2375,6 +2386,7 @@
     "zh_CN": "贾维的中坚信物"
   },
   "class_p_char_350_surtr": {
+    "ja_JP": "スルトの印（中堅）",
     "zh_CN": "史尔特尔的中坚信物"
   },
   "class_p_char_356_broca": {
@@ -2388,12 +2400,15 @@
     "zh_CN": "铃兰的中坚信物"
   },
   "class_p_char_362_saga": {
+    "ja_JP": "サガの印（中堅）",
     "zh_CN": "嵯峨的中坚信物"
   },
   "class_p_char_363_toddi": {
+    "ja_JP": "トギフォンスの印（中堅）",
     "zh_CN": "熔泉的中坚信物"
   },
   "class_p_char_365_aprl": {
+    "ja_JP": "エイプリルの印（中堅）",
     "zh_CN": "四月的中坚信物"
   },
   "class_p_char_366_acdrop": {
@@ -2427,9 +2442,11 @@
     "zh_CN": "泡泡的中坚信物"
   },
   "class_p_char_400_weedy": {
+    "ja_JP": "ウィーディの印（中堅）",
     "zh_CN": "温蒂的中坚信物"
   },
   "class_p_char_401_elysm": {
+    "ja_JP": "エリジウムの印（中堅）",
     "zh_CN": "极境的中坚信物"
   },
   "class_p_char_4041_chnut": {
@@ -2443,18 +2460,23 @@
     "zh_CN": "铅踝的中坚信物"
   },
   "class_p_char_4107_vrdant": {
+    "ja_JP": "ヴァーダントの印（中堅）",
     "zh_CN": "维荻的中坚信物"
   },
   "class_p_char_415_flint": {
+    "ja_JP": "フリントの印（中堅）",
     "zh_CN": "燧石的中坚信物"
   },
   "class_p_char_416_zumama": {
+    "ja_JP": "ユーネクテスの印（中堅）",
     "zh_CN": "森蚺的中坚信物"
   },
   "class_p_char_423_blemsh": {
+    "ja_JP": "ブレミシャインの印（中堅）",
     "zh_CN": "瑕光的中坚信物"
   },
   "class_p_char_436_whispr": {
+    "ja_JP": "ウィスパーレインの印（中堅）",
     "zh_CN": "絮雨的中坚信物"
   },
   "class_p_char_440_pinecn": {
@@ -2468,6 +2490,7 @@
     "zh_CN": "豆苗的中坚信物"
   },
   "class_p_char_455_nothin": {
+    "ja_JP": "ウユウの印（中堅）",
     "zh_CN": "乌有的中坚信物"
   },
   "class_p_char_469_indigo": {
@@ -2476,6 +2499,7 @@
     "zh_CN": "深靛的中坚信物"
   },
   "class_p_char_472_pasngr": {
+    "ja_JP": "パッセンジャーの印（中堅）",
     "zh_CN": "异客的中坚信物"
   },
   "class_p_char_484_robrta": {
@@ -2755,7 +2779,7 @@
   },
   "mcardVoucher": {
     "en_US": "Monthly Card",
-    "ja_JP": "月パス",
+    "ja_JP": "月パス交換資格証",
     "zh_CN": "月卡兑换凭证"
   },
   "medal_activity_15side_01": {
@@ -3539,12 +3563,12 @@
   },
   "p_char_285_medic2": {
     "en_US": "Lancet-2's Token",
-    "ja_JP": "ランセット-2の印",
+    "ja_JP": "Lancet-2の印",
     "zh_CN": "Lancet-2的信物"
   },
   "p_char_286_cast3": {
     "en_US": "Castle-3's Token",
-    "ja_JP": "キャッスル-3の印",
+    "ja_JP": "Castle-3の印",
     "zh_CN": "Castle-3的信物"
   },
   "p_char_289_gyuki": {
@@ -3764,7 +3788,7 @@
   },
   "p_char_376_therex": {
     "en_US": "THRM-EX's Token",
-    "ja_JP": "サーマル-EXの印",
+    "ja_JP": "THRM-EXの印",
     "zh_CN": "THRM-EX的信物"
   },
   "p_char_377_gdglow": {
@@ -4035,7 +4059,7 @@
   },
   "p_char_4093_frston": {
     "en_US": "Friston-3's Token",
-    "ja_JP": "フリストン-3の印",
+    "ja_JP": "Friston-3の印",
     "zh_CN": "Friston-3的信物"
   },
   "p_char_4098_vvana": {
@@ -4139,12 +4163,15 @@
     "zh_CN": "导火索的信物"
   },
   "p_char_4130_luton": {
+    "ja_JP": "ルトナダの印",
     "zh_CN": "露托的信物"
   },
   "p_char_4131_odda": {
+    "ja_JP": "オッダの印",
     "zh_CN": "奥达的信物"
   },
   "p_char_4132_ascln": {
+    "ja_JP": "アスカロンの印",
     "zh_CN": "阿斯卡纶的信物"
   },
   "p_char_4133_logos": {
@@ -4261,6 +4288,7 @@
     "zh_CN": "松果的信物"
   },
   "p_char_446_aroma": {
+    "ja_JP": "アロマの印",
     "zh_CN": "阿罗玛的信物"
   },
   "p_char_449_glider": {
@@ -4623,6 +4651,7 @@
     "zh_CN": "ID信息更新卡"
   },
   "renamingCard_0_050": {
+    "ja_JP": "ID情報更新カード",
     "zh_CN": "ID信息更新卡"
   },
   "renamingCard_30_018": {
@@ -4656,6 +4685,7 @@
     "zh_CN": "ID信息更新卡"
   },
   "renamingCard_30_050": {
+    "ja_JP": "ID情報更新カード",
     "zh_CN": "ID信息更新卡"
   },
   "return_credit_token": {
@@ -5041,6 +5071,7 @@
     "zh_CN": "玛莉娅·临光家具收藏包"
   },
   "uni_set_goldBoat": {
+    "ja_JP": "狂人号家具パック",
     "zh_CN": "愚人号家具收藏包"
   },
   "uni_set_guitar": {
@@ -5226,6 +5257,7 @@
     "zh_CN": "炎狱炎熔的私人信件"
   },
   "voucher_full_lumen": {
+    "ja_JP": "ルーメンの手紙",
     "zh_CN": "流明的私人信件"
   },
   "voucher_full_malist": {
@@ -5342,12 +5374,12 @@
   },
   "voucher_levelmax_5": {
     "en_US": "Senior Operator Training Apparatus",
-    "ja_JP": "エリート特訓装置",
+    "ja_JP": "★5特訓装置",
     "zh_CN": "资深干员特训装置"
   },
   "voucher_levelmax_6": {
     "en_US": "Top Operator Training Apparatus",
-    "ja_JP": "上級エリート特訓装置",
+    "ja_JP": "★6特訓装置",
     "zh_CN": "高级资深干员特训装置"
   },
   "voucher_pcharPack": {

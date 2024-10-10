@@ -839,25 +839,25 @@ tip: 请善用浏览器的搜索功能
 | enemy_1409_bdguad | 马特奥的警卫 | Mateo's Security Guard | マッテオの警護兵 |
 | enemy_1409_bdguad_2 | 马特奥的近卫 | Mateo's Guard | マッテオの近衛兵 |
 | enemy_1409_bdguad_3 | 马特奥的亲卫 | Mateo's Bodyguard | マッテオの親衛兵 |
-| enemy_1410_mmelee | “飞鞋党”佣兵 | - | - |
-| enemy_1410_mmelee_2 | “飞鞋党”精锐佣兵 | - | - |
-| enemy_1411_mmrnge | “锅盖头”射手 | - | - |
-| enemy_1411_mmrnge_2 | “锅盖头”劲弩射手 | - | - |
-| enemy_1412_mmjump | 破烂拼凑者 | - | - |
-| enemy_1412_mmjump_2 | 破烂发明家 | - | - |
-| enemy_1413_mmstck | 赏金猎人“骑士” | - | - |
-| enemy_1413_mmstck_2 | 赏金猎人“大骑士” | - | - |
-| enemy_1414_mmleak | 爆燃厨具巨人 | - | - |
-| enemy_1414_mmleak_2 | 增强型爆燃厨具巨人 | - | - |
-| enemy_1415_mmkabi | 温顺的武装驮兽 | - | - |
-| enemy_1415_mmkabi_2 | 温顺的武装大驮兽 | - | - |
-| enemy_1416_mmfarm | 流浪佣兵“剪刀手” | - | - |
-| enemy_1416_mmfarm_2 | 流浪佣兵“编织者” | - | - |
-| enemy_1417_mmdudu | 自由佣兵“贝斯” | - | - |
-| enemy_1417_mmdudu_2 | 自由佣兵“主音吉他” | - | - |
-| enemy_1418_mmkonm | 流浪工匠“修补工” | - | - |
-| enemy_1418_mmkonm_2 | 流浪工匠“修补工头” | - | - |
-| enemy_1419_mmcike | 裹骸死士 | - | - |
+| enemy_1410_mmelee | “飞鞋党”佣兵 | - | 「ジェットブーツ」傭兵 |
+| enemy_1410_mmelee_2 | “飞鞋党”精锐佣兵 | - | 「ジェットブーツ」精鋭傭兵 |
+| enemy_1411_mmrnge | “锅盖头”射手 | - | 「鍋頭」狙撃手 |
+| enemy_1411_mmrnge_2 | “锅盖头”劲弩射手 | - | 「鍋頭」精鋭狙撃手 |
+| enemy_1412_mmjump | 破烂拼凑者 | - | ガラクタクラフター |
+| enemy_1412_mmjump_2 | 破烂发明家 | - | ガラクタクリエイター |
+| enemy_1413_mmstck | 赏金猎人“骑士” | - | 賞金稼ぎ「騎士」 |
+| enemy_1413_mmstck_2 | 赏金猎人“大骑士” | - | 賞金稼ぎ「大騎士」 |
+| enemy_1414_mmleak | 爆燃厨具巨人 | - | キッチンジャイアント |
+| enemy_1414_mmleak_2 | 增强型爆燃厨具巨人 | - | 強化型キッチンジャイアント |
+| enemy_1415_mmkabi | 温顺的武装驮兽 | - | 温厚な武装駄獣 |
+| enemy_1415_mmkabi_2 | 温顺的武装大驮兽 | - | 温厚な武装大駄獣 |
+| enemy_1416_mmfarm | 流浪佣兵“剪刀手” | - | 放浪傭兵「カーヴァー」 |
+| enemy_1416_mmfarm_2 | 流浪佣兵“编织者” | - | 放浪傭兵「ウィーバー」 |
+| enemy_1417_mmdudu | 自由佣兵“贝斯” | - | フリー傭兵「ベース」 |
+| enemy_1417_mmdudu_2 | 自由佣兵“主音吉他” | - | フリー傭兵「リードギター」 |
+| enemy_1418_mmkonm | 流浪工匠“修补工” | - | 放浪職人「リペアラー」 |
+| enemy_1418_mmkonm_2 | 流浪工匠“修补工头” | - | 放浪職人「リペアマスター」 |
+| enemy_1419_mmcike | 裹骸死士 | - | 捨身の死士 |
 | enemy_1422_lrsldr | 萨卡兹枯朽前锋 | - | - |
 | enemy_1422_lrsldr_2 | 萨卡兹枯朽辟路前锋 | - | - |
 | enemy_1423_lrfkkt | 萨卡兹枯朽宿卫 | - | - |
@@ -945,7 +945,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1549_windoc | 哈洛德·克雷加文 | Harold Craigavon | ハロルド・クレイガボン |
 | enemy_1550_dhnzzh | “祟” | 'Slumbering of Sui' | 「祟」 |
 | enemy_1551_bolicp | 马特奥上尉 | Captain Mateo | マッテオ大尉 |
-| enemy_1552_mmamiy | “阿米娅” | - | - |
+| enemy_1552_mmamiy | “阿米娅” | - | 「アーミヤ」 |
 | enemy_1553_lrdead | 引火的死魂灵 | - | - |
 | enemy_1554_lrtsia | 特蕾西娅 | - | - |
 | enemy_1556_dsbish | 玛利图斯，“海嗣” | - | - |
@@ -1041,7 +1041,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_3004_speople | 叙拉古平民 | Siracusan Civilian | シラクーザの市民 |
 | enemy_3005_lpeopl | 修道院居民 | Monastery Inhabitant | 修道院の住民 |
 | enemy_3005_lpeopl_2 | 修道院居民 | Monastery Inhabitant | 修道院の住民 |
-| enemy_3006_tersia | 特蕾西娅，“魔王” | - | - |
+| enemy_3006_tersia | 特蕾西娅，“魔王” | - | Theresa・「魔王」 |
 | enemy_4001_toxcar | 改造瓦斯车 | Retrofitted Gastruck | 改造ガス車 |
 | enemy_4001_toxcar_2 | 高能瓦斯车 | Supercharged Gastruck | 拡容改造ガス車 |
 | enemy_4002_syokai | 二手廉价无人机 | Cheap Second-hand Drone | 中古低価ドローン |
@@ -1097,9 +1097,9 @@ tip: 请善用浏览器的搜索功能
 | enemy_6019_escort | 播种无人机 | Seeding Drone | 種まきドローン |
 | enemy_6020_orang | “烈酒金刚” | 'Spirit of Liquor' | 鉄人スピリッツ号 |
 | enemy_6021_cask | 桶陈蜜酿 | Aged Mead | ミードの樽 |
-| enemy_6022_m2cnt | “织郁伯爵” | - | - |
-| enemy_6023_crane | “贪婪捕手” | - | - |
-| enemy_6024_crnbug | “特别任性的生物” | - | - |
+| enemy_6022_m2cnt | “织郁伯爵” | - | 「鬱織りの伯爵」 |
+| enemy_6023_crane | “贪婪捕手” | - | 「グリーディーキャッチャー」 |
+| enemy_6024_crnbug | “特别任性的生物” | - | 「勝手気ままな生物」 |
 | enemy_6025_tinker | 怨恨祭坛 | - | - |
 | enemy_6026_techn | 巫术石球 | - | - |
 | enemy_6027_bqthie | 飞檐客-叶无轻 | - | - |
@@ -1141,9 +1141,9 @@ tip: 请善用浏览器的搜索功能
 | enemy_7030_skodo | 纵尘者 | Dustweaver | ダストウィーバー |
 | enemy_7031_ghking | 湮灭者 | Annihilator | アナイアレイター |
 | enemy_7034_xbmsn | 勤奋劳工 | Diligent Laborer | 勤勉な労働者 |
-| enemy_7044_xblbug | 振翅源石虫 | - | - |
-| enemy_7045_xbtd | 冲锋源石虫 | - | - |
-| enemy_7046_xbslug | 披甲源石虫 | - | - |
+| enemy_7044_xblbug | 振翅源石虫 | - | 羽オリジムシ |
+| enemy_7045_xbtd | 冲锋源石虫 | - | 突撃オリジムシ |
+| enemy_7046_xbslug | 披甲源石虫 | - | アーマーオリジムシ |
 | enemy_7047_xbdit | “流质透镜” | - | - |
 | enemy_7049_xbnum | 放归驮兽 | - | - |
 | enemy_7051_xbcas | 拟南兽 | - | - |

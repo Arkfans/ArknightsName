@@ -1365,12 +1365,15 @@
     "zh_CN": "导火索"
   },
   "char_4130_luton": {
+    "ja_JP": "ルトナダ",
     "zh_CN": "露托"
   },
   "char_4131_odda": {
+    "ja_JP": "オッダ",
     "zh_CN": "奥达"
   },
   "char_4132_ascln": {
+    "ja_JP": "アスカロン",
     "zh_CN": "阿斯卡纶"
   },
   "char_4133_logos": {
@@ -1492,6 +1495,7 @@
     "zh_CN": "松果"
   },
   "char_446_aroma": {
+    "ja_JP": "アロマ",
     "zh_CN": "阿罗玛"
   },
   "char_449_glider": {

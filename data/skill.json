@@ -110,9 +110,11 @@
     "zh_CN": "影霄·绝影"
   },
   "skchr_amiya3_1": {
+    "ja_JP": "悲痛共感",
     "zh_CN": "哀恸共情"
   },
   "skchr_amiya3_2": {
+    "ja_JP": "慈悲先途",
     "zh_CN": "慈悲愿景"
   },
   "skchr_amiya_2": {
@@ -191,9 +193,11 @@
     "zh_CN": "箭矢·暴风"
   },
   "skchr_aroma_1": {
+    "ja_JP": "強力洗浄",
     "zh_CN": "强效清洁"
   },
   "skchr_aroma_2": {
+    "ja_JP": "スリップ注意",
     "zh_CN": "小心地滑"
   },
   "skchr_asbest_1": {
@@ -207,12 +211,15 @@
     "zh_CN": "火电模式"
   },
   "skchr_ascln_1": {
+    "ja_JP": "追襲",
     "zh_CN": "追袭"
   },
   "skchr_ascln_2": {
+    "ja_JP": "恩賜",
     "zh_CN": "恩赐"
   },
   "skchr_ascln_3": {
+    "ja_JP": "降臨",
     "zh_CN": "降临"
   },
   "skchr_ash_1": {
@@ -1826,9 +1833,11 @@
     "zh_CN": "伏击之影"
   },
   "skchr_luton_1": {
+    "ja_JP": "強撃β",
     "zh_CN": "强力击·β型"
   },
   "skchr_luton_2": {
+    "ja_JP": "強磁場シールド",
     "zh_CN": "强磁防卫"
   },
   "skchr_malist_2": {
@@ -2145,9 +2154,11 @@
     "zh_CN": "心防溃决"
   },
   "skchr_odda_1": {
+    "ja_JP": "散火槌",
     "zh_CN": "火花溅射"
   },
   "skchr_odda_2": {
+    "ja_JP": "炎撃槌",
     "zh_CN": "锻锤之力"
   },
   "skchr_otter_1": {
@@ -3439,6 +3450,7 @@
     "zh_CN": "冲锋"
   },
   "sktok_amblls": {
+    "ja_JP": "幽影の扉",
     "zh_CN": "幽影门扉"
   },
   "sktok_antidr": {
@@ -3632,12 +3644,15 @@
     "zh_CN": "战火淬炼"
   },
   "sktok_cd1punch": {
+    "ja_JP": "レコード",
     "zh_CN": "灌录"
   },
   "sktok_cd1puncha": {
+    "ja_JP": "レコード",
     "zh_CN": "灌录"
   },
   "sktok_cd1punchb": {
+    "ja_JP": "レコード",
     "zh_CN": "灌录"
   },
   "sktok_cdabyss": {
@@ -3686,12 +3701,15 @@
     "zh_CN": "干扰波长"
   },
   "sktok_cdcaster": {
+    "ja_JP": "エネルギー同調",
     "zh_CN": "能量调和"
   },
   "sktok_cdcastera": {
+    "ja_JP": "エネルギー同調",
     "zh_CN": "能量调和"
   },
   "sktok_cdcasterb": {
+    "ja_JP": "エネルギー同調",
     "zh_CN": "能量调和"
   },
   "sktok_cdcredit": {
@@ -3765,15 +3783,19 @@
     "zh_CN": "竞技记录分析"
   },
   "sktok_cdnest": {
+    "ja_JP": "「ねばねばしたおまけ」",
     "zh_CN": "“黏黏的赠品”"
   },
   "sktok_cdrhine": {
+    "ja_JP": "共同研究",
     "zh_CN": "共享发现"
   },
   "sktok_cdrhinea": {
+    "ja_JP": "共同研究",
     "zh_CN": "共享发现"
   },
   "sktok_cdrhineb": {
+    "ja_JP": "共同研究",
     "zh_CN": "共享发现"
   },
   "sktok_cdrone": {
@@ -4639,6 +4661,7 @@
     "zh_CN": "空域控制"
   },
   "sktok_spblls": {
+    "ja_JP": "巫術バリスタ",
     "zh_CN": "巫术弩炮"
   },
   "sktok_stdurk_1": {
@@ -4965,12 +4988,15 @@
     "zh_CN": "扫描"
   },
   "sktok_xbblure_1": {
+    "ja_JP": "おびき寄せ",
     "zh_CN": "引诱"
   },
   "sktok_xbblure_2": {
+    "ja_JP": "おびき寄せ",
     "zh_CN": "引诱"
   },
   "sktok_xbblure_3": {
+    "ja_JP": "おびき寄せ",
     "zh_CN": "引诱"
   },
   "sktok_xbcage": {
@@ -4989,6 +5015,7 @@
     "zh_CN": "释放猎获"
   },
   "sktok_xbcp": {
+    "ja_JP": "チェックポイント",
     "zh_CN": "检查点"
   },
   "sktok_xbdiam": {
@@ -5139,9 +5166,11 @@
     "zh_CN": "资源规划"
   },
   "sktok_xbrandprop_1": {
+    "ja_JP": "アイテム配布",
     "zh_CN": "发道具"
   },
   "sktok_xbrandprop_2": {
+    "ja_JP": "アイテム配布",
     "zh_CN": "发道具"
   },
   "sktok_xbroadblock": {
@@ -5201,6 +5230,7 @@
     "zh_CN": "掘石"
   },
   "sktok_xbtrophy": {
+    "ja_JP": "「脈動」",
     "zh_CN": "“跳动”"
   },
   "sktok_xbtwal": {

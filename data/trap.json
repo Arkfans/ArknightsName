@@ -710,9 +710,11 @@
     "zh_CN": "天桩"
   },
   "trap_147_spblls": {
+    "ja_JP": "巫術バリスタ",
     "zh_CN": "巫术弩炮"
   },
   "trap_148_amblls": {
+    "ja_JP": "幽影の扉",
     "zh_CN": "幽影门扉"
   },
   "trap_151_muruinw": {
@@ -1207,18 +1209,23 @@
     "zh_CN": "埋没金属箱"
   },
   "trap_482_xbblure": {
+    "ja_JP": "オリジムシ捕獲トラップ",
     "zh_CN": "源石虫引诱器"
   },
   "trap_483_xbtrophy": {
+    "ja_JP": "「オリジムシハート」",
     "zh_CN": "“源石虫之心”"
   },
   "trap_484_xbcp": {
+    "ja_JP": "チェックポイント",
     "zh_CN": "检查点"
   },
   "trap_485_xbrandprop": {
+    "ja_JP": "ランダムボックス",
     "zh_CN": "随机道具盒"
   },
   "trap_486_xbspd": {
+    "ja_JP": "加速ブロック",
     "zh_CN": "加速块"
   },
   "trap_487_xblfen": {
@@ -1525,36 +1532,47 @@
     "zh_CN": "“蜜酿万岁！”"
   },
   "trap_746_cdrhine": {
+    "ja_JP": "最新学説共有端末",
     "zh_CN": "尖端研究成果共享终端"
   },
   "trap_747_cdrhinea": {
+    "ja_JP": "最新学説共有端末",
     "zh_CN": "尖端研究成果共享终端"
   },
   "trap_748_cdrhineb": {
+    "ja_JP": "最新学説共有端末",
     "zh_CN": "尖端研究成果共享终端"
   },
   "trap_749_cd1punch": {
+    "ja_JP": "音波記録増幅器",
     "zh_CN": "声波记录扩音器"
   },
   "trap_750_cd1puncha": {
+    "ja_JP": "音波記録増幅器",
     "zh_CN": "声波记录扩音器"
   },
   "trap_751_cd1punchb": {
+    "ja_JP": "音波記録増幅器",
     "zh_CN": "声波记录扩音器"
   },
   "trap_752_cdcaster": {
+    "ja_JP": "アーツ同調力場",
     "zh_CN": "法术调和能量场"
   },
   "trap_753_cdcastera": {
+    "ja_JP": "アーツ同調力場",
     "zh_CN": "法术调和能量场"
   },
   "trap_754_cdcasterb": {
+    "ja_JP": "アーツ同調力場",
     "zh_CN": "法术调和能量场"
   },
   "trap_755_cdsoul": {
+    "ja_JP": "ハウリングスピーカー",
     "zh_CN": "啸叫音响"
   },
   "trap_756_cdnest": {
+    "ja_JP": "「ねばねばしたおまけ」",
     "zh_CN": "“黏黏的赠品”"
   },
   "trap_757_skzbox": {

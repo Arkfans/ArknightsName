@@ -563,6 +563,9 @@
     "en_US": "Lungmen Spec Ops Headhunting",
     "ja_JP": "龍門特別行動要員"
   },
+  "_NORM_30_0_3": {
+    "ja_JP": "先途追想"
+  },
   "_NORM_3_0_1": {
     "en_US": "Frozen Land",
     "ja_JP": "果てなき氷原"
@@ -710,5 +713,8 @@
   "_SINGLE_29_0_5": {
     "en_US": "To Bloom From a Dim Flame",
     "ja_JP": "枯火に咲く花"
+  },
+  "_SINGLE_30_0_1": {
+    "ja_JP": "死か/終わりか"
   }
 }
