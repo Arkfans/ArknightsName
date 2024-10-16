@@ -27853,6 +27853,12 @@
       "zh_CN": "尘影余音家具收藏包"
     }
   },
+  "uni_set_court": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "叙拉古人家具收藏包"
+    }
+  },
   "uni_set_fNearl": {
     "type": "ITEM",
     "names": {
@@ -50880,6 +50886,18 @@
       "en_US": "You the Constant, You Are Me",
       "ja_JP": "我は我なり",
       "zh_CN": "我始终如一"
+    }
+  },
+  "permanent_sub_7_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "无名之勋"
+    }
+  },
+  "permanent_sub_7_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "未了往昔"
     }
   },
   "weekly_1": {

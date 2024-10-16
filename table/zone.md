@@ -275,6 +275,8 @@ tip: 请善用浏览器的搜索功能
 | permanent_sub_6_zone1 | 我赠予未来 | You the Future, Take My Gifts | 未来を贈らん |
 | permanent_sub_6_zone2 | 我驻留往昔 | You the Past, Ward Me Firmly | 昔日に残れり |
 | permanent_sub_6_zone3 | 我始终如一 | You the Constant, You Are Me | 我は我なり |
+| permanent_sub_7_zone1 | 无名之勋 | - | - |
+| permanent_sub_7_zone2 | 未了往昔 | - | - |
 | weekly_1 | 固若金汤 | Solid Defense | 重装/医療 |
 | weekly_2 | 摧枯拉朽 | Fierce Attack | 狙撃/術師 |
 | weekly_3 | 势不可挡 | Unstoppable Charge | 先鋒/補助 |

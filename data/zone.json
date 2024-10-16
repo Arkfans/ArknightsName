@@ -1291,6 +1291,12 @@
     "ja_JP": "我は我なり",
     "zh_CN": "我始终如一"
   },
+  "permanent_sub_7_zone1": {
+    "zh_CN": "无名之勋"
+  },
+  "permanent_sub_7_zone2": {
+    "zh_CN": "未了往昔"
+  },
   "weekly_1": {
     "en_US": "Solid Defense",
     "ja_JP": "重装/医療",
