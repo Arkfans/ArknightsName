@@ -5915,6 +5915,12 @@
       "zh_CN": "长距增运改装"
     }
   },
+  "trap_779_skzth": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "尼卢火"
+    }
+  },
   "char_002_amiya@epoque#4": {
     "type": "SKIN",
     "names": {
@@ -16833,6 +16839,24 @@
     "type": "ENEMY",
     "names": {
       "zh_CN": "圆仔"
+    }
+  },
+  "enemy_2089_skzjkl": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "奎隆，摩诃萨埵权化"
+    }
+  },
+  "enemy_2090_skzjbc": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "托生莲座"
+    }
+  },
+  "enemy_2091_skzgds": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“窗”"
     }
   },
   "enemy_3001_upeopl": {

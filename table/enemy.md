@@ -1035,6 +1035,9 @@ tip: 请善用浏览器的搜索功能
 | enemy_2082_skzdd | 博卓卡斯替，圣卫铳骑 | - | - |
 | enemy_2084_skzcan | 古德因纳夫先生 | - | - |
 | enemy_2085_skzjxd | 圆仔 | - | - |
+| enemy_2089_skzjkl | 奎隆，摩诃萨埵权化 | - | - |
+| enemy_2090_skzjbc | 托生莲座 | - | - |
+| enemy_2091_skzgds | “窗” | - | - |
 | enemy_3001_upeopl | 乌萨斯平民 | Ursus Civilian | ウルサス民間人 |
 | enemy_3002_ftrtal | 斗士塔露拉 | Talulah, the Fighter | 闘士タルラ |
 | enemy_3003_alymot | 大奖赛运输艇 | Competition Transport Vessel | 大会輸送艇 |
