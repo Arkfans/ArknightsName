@@ -950,6 +950,7 @@ tip: 请善用浏览器的搜索功能
 | randomMaterial_3 | 32h战略配给 | 32-hour Strategic Ration | 32h戦略補給 |
 | randomMaterial_4 | 感谢庆典物资补给 | Thank-You Celebration Supplies | 補給物資・「感謝祭」 |
 | randomMaterial_5 | 罗德岛物资补给II | Rhodes Island Supplies II | 補給物資・ロドスⅡ |
+| randomMaterial_5d5 | 2024感谢庆典物资补给 | - | - |
 | randomMaterial_6 | 罗德岛物资补给III | Rhodes Island Supplies III | 補給物資・ロドスIII |
 | randomMaterial_7 | 罗德岛物资补给IV | Rhodes Island Supplies IV | 補給物資・ロドスIV |
 | randomMaterial_8 | 罗德岛物资补给V | Rhodes Island Supplies V | 補給物資・ロドスV |
@@ -1038,6 +1039,7 @@ tip: 请善用浏览器的搜索功能
 | token_Obsidian_rep_1 | 汐斯塔的黑曜石 | Siesta Obsidian | シエスタの黒曜石 |
 | token_Wristband | 黑曜石节手环 | Obsidian Festival Bracelet | リストバンド |
 | uni_set_MemoryCloister_1 | 魂灵印象家具收藏包一 | - | - |
+| uni_set_MemoryCloister_2 | 魂灵印象家具收藏包二 | - | - |
 | uni_set_NHL | 吾导先路家具收藏包 | Guide Ahead Furniture Collection Set | 吾れ先導者たらん家具パック |
 | uni_set_SargonFair_1 | 阿尔萨兰家具收藏包一 | Arsalan Furniture Collection I | アルサラン家具パックvol.1 |
 | uni_set_SargonFair_2 | 阿尔萨兰家具收藏包二 | Arsalan Furniture Collection II | アルサラン家具パックvol.2 |

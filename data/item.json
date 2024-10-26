@@ -4608,6 +4608,9 @@
     "ja_JP": "補給物資・ロドスⅡ",
     "zh_CN": "罗德岛物资补给II"
   },
+  "randomMaterial_5d5": {
+    "zh_CN": "2024感谢庆典物资补给"
+  },
   "randomMaterial_6": {
     "en_US": "Rhodes Island Supplies III",
     "ja_JP": "補給物資・ロドスIII",
@@ -5041,6 +5044,9 @@
   },
   "uni_set_MemoryCloister_1": {
     "zh_CN": "魂灵印象家具收藏包一"
+  },
+  "uni_set_MemoryCloister_2": {
+    "zh_CN": "魂灵印象家具收藏包二"
   },
   "uni_set_NHL": {
     "en_US": "Guide Ahead Furniture Collection Set",

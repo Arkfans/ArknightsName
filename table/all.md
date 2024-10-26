@@ -2474,6 +2474,7 @@ tip: 请善用浏览器的搜索功能
 | act42sign | 品鉴泰拉魔物 | - | - |
 | act43sign | 良辰迎月签到活动 | - | - |
 | act44sign | 构想试炼签到活动 | - | - |
+| act45sign | 感谢庆典前瞻签到 | - | - |
 | act4bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act4d0 | 战地秘闻 | Operational Intelligence | 戦地の逸話 |
 | act4d2 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -3500,6 +3501,7 @@ tip: 请善用浏览器的搜索功能
 | randomMaterial_3 | 32h战略配给 | 32-hour Strategic Ration | 32h戦略補給 |
 | randomMaterial_4 | 感谢庆典物资补给 | Thank-You Celebration Supplies | 補給物資・「感謝祭」 |
 | randomMaterial_5 | 罗德岛物资补给II | Rhodes Island Supplies II | 補給物資・ロドスⅡ |
+| randomMaterial_5d5 | 2024感谢庆典物资补给 | - | - |
 | randomMaterial_6 | 罗德岛物资补给III | Rhodes Island Supplies III | 補給物資・ロドスIII |
 | randomMaterial_7 | 罗德岛物资补给IV | Rhodes Island Supplies IV | 補給物資・ロドスIV |
 | randomMaterial_8 | 罗德岛物资补给V | Rhodes Island Supplies V | 補給物資・ロドスV |
@@ -3588,6 +3590,7 @@ tip: 请善用浏览器的搜索功能
 | token_Obsidian_rep_1 | 汐斯塔的黑曜石 | Siesta Obsidian | シエスタの黒曜石 |
 | token_Wristband | 黑曜石节手环 | Obsidian Festival Bracelet | リストバンド |
 | uni_set_MemoryCloister_1 | 魂灵印象家具收藏包一 | - | - |
+| uni_set_MemoryCloister_2 | 魂灵印象家具收藏包二 | - | - |
 | uni_set_NHL | 吾导先路家具收藏包 | Guide Ahead Furniture Collection Set | 吾れ先導者たらん家具パック |
 | uni_set_SargonFair_1 | 阿尔萨兰家具收藏包一 | Arsalan Furniture Collection I | アルサラン家具パックvol.1 |
 | uni_set_SargonFair_2 | 阿尔萨兰家具收藏包二 | Arsalan Furniture Collection II | アルサラン家具パックvol.2 |
@@ -5812,6 +5815,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_22 | “离心率”实验室 | - | - |
 | camp_r_23 | 燃烧街区 | - | - |
 | camp_r_24 | 冰封雪谷 | - | - |
+| camp_r_25 | 66号航道 | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |
 | hard_05-02 | 炼狱行动-2 | Operation Inferno-2 | 煉獄作戦-2 |
 | hard_05-03 | 炼狱行动-3 | Operation Inferno-3 | 煉獄作戦-3 |

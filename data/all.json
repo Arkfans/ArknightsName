@@ -19029,6 +19029,12 @@
       "zh_CN": "构想试炼签到活动"
     }
   },
+  "act45sign": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "感谢庆典前瞻签到"
+    }
+  },
   "act4bossrush": {
     "type": "ACTIVITY",
     "names": {
@@ -27093,6 +27099,12 @@
       "zh_CN": "罗德岛物资补给II"
     }
   },
+  "randomMaterial_5d5": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "2024感谢庆典物资补给"
+    }
+  },
   "randomMaterial_6": {
     "type": "ITEM",
     "names": {
@@ -27789,6 +27801,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "魂灵印象家具收藏包一"
+    }
+  },
+  "uni_set_MemoryCloister_2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "魂灵印象家具收藏包二"
     }
   },
   "uni_set_NHL": {
@@ -44810,6 +44828,12 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "冰封雪谷"
+    }
+  },
+  "camp_r_25": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "66号航道"
     }
   },
   "hard_05-01": {

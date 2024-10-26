@@ -167,6 +167,7 @@ tip: 请善用浏览器的搜索功能
 | act42sign | 品鉴泰拉魔物 | - | - |
 | act43sign | 良辰迎月签到活动 | - | - |
 | act44sign | 构想试炼签到活动 | - | - |
+| act45sign | 感谢庆典前瞻签到 | - | - |
 | act4bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act4d0 | 战地秘闻 | Operational Intelligence | 戦地の逸話 |
 | act4d2 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
