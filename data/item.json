@@ -715,6 +715,7 @@
     "zh_CN": "时和岁丰寻访凭证"
   },
   "LIMITED_TKT_GACHA_10_5001": {
+    "ja_JP": "感謝祭記念10回スカウト券",
     "zh_CN": "残夜厝薪寻访凭证"
   },
   "LIMITED_TKT_GACHA_10_5301": {
@@ -819,6 +820,7 @@
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_5001": {
+    "ja_JP": "限定契約証",
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_5301": {
@@ -1207,6 +1209,7 @@
     "zh_CN": "里程碑碎片"
   },
   "act1mainss_token_medi": {
+    "ja_JP": "急性感染抑制剤",
     "zh_CN": "急性感染抑制剂"
   },
   "act1sandbox_milestone_point": {
@@ -2975,9 +2978,11 @@
     "zh_CN": "涤火杰西卡的信物"
   },
   "p_char_1035_wisdel": {
+    "ja_JP": "ウィシャデルの印",
     "zh_CN": "维什戴尔的信物"
   },
   "p_char_1036_fang2": {
+    "ja_JP": "歴陣鋭槍フェンの印",
     "zh_CN": "历阵锐枪芬的信物"
   },
   "p_char_103_angel": {
@@ -4202,12 +4207,15 @@
     "zh_CN": "阿斯卡纶的信物"
   },
   "p_char_4133_logos": {
+    "ja_JP": "ロゴスの印",
     "zh_CN": "逻各斯的信物"
   },
   "p_char_4134_cetsyr": {
+    "ja_JP": "シヴィライト・エテルナの印",
     "zh_CN": "魔王的信物"
   },
   "p_char_4136_phonor": {
+    "ja_JP": "PhonoR-0の印",
     "zh_CN": "PhonoR-0的信物"
   },
   "p_char_4137_udflow": {
@@ -4586,6 +4594,7 @@
     "zh_CN": "罗德岛物资补给"
   },
   "randomMaterial_10": {
+    "ja_JP": "補給物資・ロドスVII",
     "zh_CN": "罗德岛物资补给VII"
   },
   "randomMaterial_2": {
@@ -5401,6 +5410,7 @@
     "zh_CN": "感谢庆典干员凭证"
   },
   "voucher_item_pick5001": {
+    "ja_JP": "感謝祭記念★6招聘指名券",
     "zh_CN": "周年庆典干员凭证"
   },
   "voucher_item_pick601": {
@@ -5457,6 +5467,7 @@
     "zh_CN": "资深干员调用凭证"
   },
   "voucher_recruitR5_pick5001": {
+    "ja_JP": "★5招聘指名券",
     "zh_CN": "资深干员调用凭证"
   },
   "voucher_recruitR6_pick5301": {

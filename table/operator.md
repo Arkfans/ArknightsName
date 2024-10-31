@@ -31,8 +31,8 @@ tip: 请善用浏览器的搜索功能
 | char_1032_excu2 | 圣约送葬人 | Executor the Ex Foedere | 聖約イグゼキュター |
 | char_1033_swire2 | 琳琅诗怀雅 | Swire the Elegant Wit | 琳琅スワイヤー |
 | char_1034_jesca2 | 涤火杰西卡 | Jessica the Liberated | 滌火ジェシカ |
-| char_1035_wisdel | 维什戴尔 | - | - |
-| char_1036_fang2 | 历阵锐枪芬 | - | - |
+| char_1035_wisdel | 维什戴尔 | - | ウィシャデル |
+| char_1036_fang2 | 历阵锐枪芬 | - | 歴陣鋭槍フェン |
 | char_103_angel | 能天使 | Exusiai | エクシア |
 | char_106_franka | 芙兰卡 | Franka | フランカ |
 | char_107_liskam | 雷蛇 | Liskarm | リスカム |
@@ -283,9 +283,9 @@ tip: 请善用浏览器的搜索功能
 | char_4130_luton | 露托 | Lutonada | ルトナダ |
 | char_4131_odda | 奥达 | Odda | オッダ |
 | char_4132_ascln | 阿斯卡纶 | Ascalon | アスカロン |
-| char_4133_logos | 逻各斯 | - | - |
-| char_4134_cetsyr | 魔王 | - | - |
-| char_4136_phonor | PhonoR-0 | - | - |
+| char_4133_logos | 逻各斯 | - | ロゴス |
+| char_4134_cetsyr | 魔王 | - | シヴィライト・エテルナ |
+| char_4136_phonor | PhonoR-0 | - | PhonoR-0 |
 | char_4137_udflow | 深巡 | - | - |
 | char_4138_narant | 娜仁图亚 | - | - |
 | char_4139_papyrs | 莎草 | - | - |

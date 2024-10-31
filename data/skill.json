@@ -597,12 +597,15 @@
     "zh_CN": "“很重的枪”"
   },
   "skchr_cetsyr_1": {
+    "ja_JP": "身に纏わる過去",
     "zh_CN": "往昔萦绕身旁"
   },
   "skchr_cetsyr_2": {
+    "ja_JP": "未だ届かぬ明日",
     "zh_CN": "明日渺远不及"
   },
   "skchr_cetsyr_3": {
+    "ja_JP": "紡ぎ直される現世",
     "zh_CN": "编织重构现世"
   },
   "skchr_ceylon_1": {
@@ -947,9 +950,11 @@
     "zh_CN": "震地碎岩击"
   },
   "skchr_fang2_1": {
+    "ja_JP": "ペネトレイトスピア",
     "zh_CN": "贯敌刺枪"
   },
   "skchr_fang2_2": {
+    "ja_JP": "前線維持",
     "zh_CN": "执守阵线"
   },
   "skchr_fartth_2": {
@@ -1796,12 +1801,15 @@
     "zh_CN": "贵客盈门"
   },
   "skchr_logos_1": {
+    "ja_JP": "歿亡",
     "zh_CN": "殁亡"
   },
   "skchr_logos_2": {
+    "ja_JP": "提喩",
     "zh_CN": "提喻"
   },
   "skchr_logos_3": {
+    "ja_JP": "差延視界",
     "zh_CN": "延异视阈"
   },
   "skchr_lolxh_1": {
@@ -3209,12 +3217,15 @@
     "zh_CN": "此身为源"
   },
   "skchr_wisdel_1": {
+    "ja_JP": "クリアランス",
     "zh_CN": "定点清算"
   },
   "skchr_wisdel_2": {
+    "ja_JP": "オーバーレネゲード",
     "zh_CN": "饱和复仇"
   },
   "skchr_wisdel_3": {
+    "ja_JP": "デイブレイクバースト",
     "zh_CN": "爆裂黎明"
   },
   "skchr_wyvern_1": {
@@ -4178,21 +4189,27 @@
     "zh_CN": "宁作吾"
   },
   "sktok_lrcage": {
+    "ja_JP": "ビーコン召喚",
     "zh_CN": "召唤信标"
   },
   "sktok_lrcore": {
+    "ja_JP": "ソウルエコー",
     "zh_CN": "灵魂激荡"
   },
   "sktok_lrctrl": {
+    "ja_JP": "源石汚染エリア",
     "zh_CN": "源石污染区"
   },
   "sktok_lrlgun": {
+    "ja_JP": "ソウルエコー",
     "zh_CN": "灵魂激荡"
   },
   "sktok_lrsiege": {
+    "ja_JP": "奮い立つ栄光",
     "zh_CN": "振奋荣光"
   },
   "sktok_lrsteam": {
+    "ja_JP": "決死の誓い",
     "zh_CN": "誓死"
   },
   "sktok_ltnova": {
@@ -4930,6 +4947,7 @@
     "zh_CN": "紧急点燃"
   },
   "sktok_wisdel_wward": {
+    "ja_JP": "レヴァナントの影",
     "zh_CN": "魂灵之影"
   },
   "sktok_wpnsts_1": {

@@ -738,24 +738,30 @@
     "zh_CN": "小帮手"
   },
   "trap_158_lrsteam": {
+    "ja_JP": "チャールズ・リンチ",
     "zh_CN": "查尔斯·林奇"
   },
   "trap_159_lrcore": {
+    "ja_JP": "コア増幅器",
     "zh_CN": "核心增幅器"
   },
   "trap_160_lrlgun": {
+    "ja_JP": "奔流発生装置",
     "zh_CN": "洪流束激发器"
   },
   "trap_161_lrcage": {
+    "ja_JP": "枯朽の祭壇",
     "zh_CN": "枯朽祭坛"
   },
   "trap_162_lrctrl": {
+    "ja_JP": "第十四章ギミックコントローラー",
     "zh_CN": "十四章机制控制器"
   },
   "trap_163_foolcrate": {
     "zh_CN": "障碍物"
   },
   "trap_164_lrsiege": {
+    "ja_JP": "奮い立つ栄光",
     "zh_CN": "振奋荣光"
   },
   "trap_165_muftbl": {

@@ -128,9 +128,11 @@
     "zh_CN": "涤火杰西卡"
   },
   "char_1035_wisdel": {
+    "ja_JP": "ウィシャデル",
     "zh_CN": "维什戴尔"
   },
   "char_1036_fang2": {
+    "ja_JP": "歴陣鋭槍フェン",
     "zh_CN": "历阵锐枪芬"
   },
   "char_103_angel": {
@@ -1380,12 +1382,15 @@
     "zh_CN": "阿斯卡纶"
   },
   "char_4133_logos": {
+    "ja_JP": "ロゴス",
     "zh_CN": "逻各斯"
   },
   "char_4134_cetsyr": {
+    "ja_JP": "シヴィライト・エテルナ",
     "zh_CN": "魔王"
   },
   "char_4136_phonor": {
+    "ja_JP": "PhonoR-0",
     "zh_CN": "PhonoR-0"
   },
   "char_4137_udflow": {

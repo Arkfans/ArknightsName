@@ -208,12 +208,14 @@
   "char_1035_wisdel": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "ウィシャデル",
       "zh_CN": "维什戴尔"
     }
   },
   "char_1036_fang2": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "歴陣鋭槍フェン",
       "zh_CN": "历阵锐枪芬"
     }
   },
@@ -2216,18 +2218,21 @@
   "char_4133_logos": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "ロゴス",
       "zh_CN": "逻各斯"
     }
   },
   "char_4134_cetsyr": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "シヴィライト・エテルナ",
       "zh_CN": "魔王"
     }
   },
   "char_4136_phonor": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "PhonoR-0",
       "zh_CN": "PhonoR-0"
     }
   },
@@ -3134,6 +3139,7 @@
   "token_10035_wisdel_wward": {
     "type": "TOKEN",
     "names": {
+      "ja_JP": "レヴァナントの影",
       "zh_CN": "魂灵之影"
     }
   },
@@ -4366,30 +4372,35 @@
   "trap_158_lrsteam": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "チャールズ・リンチ",
       "zh_CN": "查尔斯·林奇"
     }
   },
   "trap_159_lrcore": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "コア増幅器",
       "zh_CN": "核心增幅器"
     }
   },
   "trap_160_lrlgun": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "奔流発生装置",
       "zh_CN": "洪流束激发器"
     }
   },
   "trap_161_lrcage": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "枯朽の祭壇",
       "zh_CN": "枯朽祭坛"
     }
   },
   "trap_162_lrctrl": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "第十四章ギミックコントローラー",
       "zh_CN": "十四章机制控制器"
     }
   },
@@ -4402,6 +4413,7 @@
   "trap_164_lrsiege": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "奮い立つ栄光",
       "zh_CN": "振奋荣光"
     }
   },
@@ -6008,6 +6020,7 @@
   "char_1012_skadi2@iteration#2": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "レッドカウンテス",
       "zh_CN": "红女爵"
     }
   },
@@ -6134,6 +6147,7 @@
   "char_1033_swire2@ambienceSynesthesia#4": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "リズミックブロック",
       "zh_CN": "律动方格"
     }
   },
@@ -6346,6 +6360,7 @@
   "char_129_bluep@iteration#2": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "エリシアの夜想曲",
       "zh_CN": "哀律西昂夜曲"
     }
   },
@@ -6582,6 +6597,7 @@
   "char_172_svrash@ambienceSynesthesia#4": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "不融氷",
       "zh_CN": "不融冰"
     }
   },
@@ -7032,6 +7048,7 @@
   "char_230_savage@boc#8": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "地底三百メートル",
       "zh_CN": "地底三百米"
     }
   },
@@ -7132,6 +7149,7 @@
   "char_249_mlyss@boc#8": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "新梢",
       "zh_CN": "新枝"
     }
   },
@@ -7382,6 +7400,7 @@
   "char_293_thorns@boc#8": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "切先の潮騒",
       "zh_CN": "锋潮"
     }
   },
@@ -7942,6 +7961,7 @@
   "char_4027_heyak@ambienceSynesthesia#4": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "悠久の風に吹かれ",
       "zh_CN": "历世流风"
     }
   },
@@ -8172,6 +8192,7 @@
   "char_4087_ines@boc#8": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "燃ゆる蒼穹の下",
       "zh_CN": "燃烧天穹下"
     }
   },
@@ -15550,114 +15571,133 @@
   "enemy_1422_lrsldr": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "枯朽サルカズ先鋒",
       "zh_CN": "萨卡兹枯朽前锋"
     }
   },
   "enemy_1422_lrsldr_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "枯朽サルカズ切込み先鋒",
       "zh_CN": "萨卡兹枯朽辟路前锋"
     }
   },
   "enemy_1423_lrfkkt": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "枯朽サルカズ宿衛",
       "zh_CN": "萨卡兹枯朽宿卫"
     }
   },
   "enemy_1423_lrfkkt_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "枯朽サルカズ不屈宿衛",
       "zh_CN": "萨卡兹枯朽不屈宿卫"
     }
   },
   "enemy_1424_lrboom": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "悪塵オリジムシ",
       "zh_CN": "恶尘源石虫"
     }
   },
   "enemy_1424_lrboom_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "悪塵オリジムシα",
       "zh_CN": "恶尘源石虫·α"
     }
   },
   "enemy_1425_lrcmra": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "大罪のキメラ",
       "zh_CN": "孽罪奇美拉"
     }
   },
   "enemy_1425_lrcmra_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "冒涜のキメラ",
       "zh_CN": "渎罪奇美拉"
     }
   },
   "enemy_1426_lrthef": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "サルカズ祭壇守護者",
       "zh_CN": "萨卡兹祭坛看护者"
     }
   },
   "enemy_1426_lrthef_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "サルカズ祭壇奉仕者",
       "zh_CN": "萨卡兹祭坛奉养者"
     }
   },
   "enemy_1427_lrnazg": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「霊骸布」",
       "zh_CN": "“灵幛”"
     }
   },
   "enemy_1427_lrnazg_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「慰撫の霊骸布」",
       "zh_CN": "“慰朽灵幛”"
     }
   },
   "enemy_1428_lrsoul": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "ソウルボルテックス",
       "zh_CN": "魂灵涡流"
     }
   },
   "enemy_1429_lrwzrd": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "集束せし魂の残滓",
       "zh_CN": "聚焦魂灵残迹"
     }
   },
   "enemy_1429_lrwzrd_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "反照せし魂の残滓",
       "zh_CN": "棱镜魂灵残迹"
     }
   },
   "enemy_1430_lrrook": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "慚愧せし魂の聖杯",
       "zh_CN": "愧悔魂灵圣杯"
     }
   },
   "enemy_1430_lrrook_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "殉死せし魂の聖杯",
       "zh_CN": "殉亡魂灵圣杯"
     }
   },
   "enemy_1431_lrmzrd": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "混成せし魂の法骸",
       "zh_CN": "注能魂灵法骸"
     }
   },
   "enemy_1431_lrmzrd_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "集粋せし魂の法骸",
       "zh_CN": "粹影魂灵法骸"
     }
   },
@@ -16186,12 +16226,14 @@
   "enemy_1553_lrdead": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "熾し火のレヴァナント",
       "zh_CN": "引火的死魂灵"
     }
   },
   "enemy_1554_lrtsia": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "Theresa",
       "zh_CN": "特蕾西娅"
     }
   },
@@ -18442,6 +18484,7 @@
   "act1mainss": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "慈悲光塔",
       "zh_CN": "慈悲灯塔"
     }
   },
@@ -18926,6 +18969,7 @@
   "act39sign": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
     }
   },
@@ -19115,6 +19159,7 @@
   "act5mine": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "カリパスバレー採鉱区",
       "zh_CN": "卡钳谷矿区限时开采许可"
     }
   },
@@ -20811,6 +20856,7 @@
   "LIMITED_TKT_GACHA_10_5001": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "感謝祭記念10回スカウト券",
       "zh_CN": "残夜厝薪寻访凭证"
     }
   },
@@ -20981,6 +21027,7 @@
   "LMTGS_COIN_5001": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "限定契約証",
       "zh_CN": "寻访数据契约"
     }
   },
@@ -21609,6 +21656,7 @@
   "act1mainss_token_medi": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "急性感染抑制剤",
       "zh_CN": "急性感染抑制剂"
     }
   },
@@ -24460,12 +24508,14 @@
   "p_char_1035_wisdel": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ウィシャデルの印",
       "zh_CN": "维什戴尔的信物"
     }
   },
   "p_char_1036_fang2": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "歴陣鋭槍フェンの印",
       "zh_CN": "历阵锐枪芬的信物"
     }
   },
@@ -26428,18 +26478,21 @@
   "p_char_4133_logos": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ロゴスの印",
       "zh_CN": "逻各斯的信物"
     }
   },
   "p_char_4134_cetsyr": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "シヴィライト・エテルナの印",
       "zh_CN": "魔王的信物"
     }
   },
   "p_char_4136_phonor": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "PhonoR-0の印",
       "zh_CN": "PhonoR-0的信物"
     }
   },
@@ -27064,6 +27117,7 @@
   "randomMaterial_10": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "補給物資・ロドスVII",
       "zh_CN": "罗德岛物资补给VII"
     }
   },
@@ -28386,6 +28440,7 @@
   "voucher_item_pick5001": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "感謝祭記念★6招聘指名券",
       "zh_CN": "周年庆典干员凭证"
     }
   },
@@ -28478,6 +28533,7 @@
   "voucher_recruitR5_pick5001": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "★5招聘指名券",
       "zh_CN": "资深干员调用凭证"
     }
   },
@@ -28756,6 +28812,7 @@
   "29": {
     "type": "TAG",
     "names": {
+      "ja_JP": "元素",
       "zh_CN": "元素"
     }
   },
@@ -29493,6 +29550,12 @@
     "names": {
       "en_US": "Reap of Millenia",
       "ja_JP": "千秋一粟"
+    }
+  },
+  "_LIMITED_30_0_5": {
+    "type": "POOL",
+    "names": {
+      "ja_JP": "我たる所以"
     }
   },
   "_LIMITED_4_3_1": {
@@ -31073,18 +31136,21 @@
   "skchr_cetsyr_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "身に纏わる過去",
       "zh_CN": "往昔萦绕身旁"
     }
   },
   "skchr_cetsyr_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "未だ届かぬ明日",
       "zh_CN": "明日渺远不及"
     }
   },
   "skchr_cetsyr_3": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "紡ぎ直される現世",
       "zh_CN": "编织重构现世"
     }
   },
@@ -31639,12 +31705,14 @@
   "skchr_fang2_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "ペネトレイトスピア",
       "zh_CN": "贯敌刺枪"
     }
   },
   "skchr_fang2_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "前線維持",
       "zh_CN": "执守阵线"
     }
   },
@@ -33007,18 +33075,21 @@
   "skchr_logos_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "歿亡",
       "zh_CN": "殁亡"
     }
   },
   "skchr_logos_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "提喩",
       "zh_CN": "提喻"
     }
   },
   "skchr_logos_3": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "差延視界",
       "zh_CN": "延异视阈"
     }
   },
@@ -35305,18 +35376,21 @@
   "skchr_wisdel_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "クリアランス",
       "zh_CN": "定点清算"
     }
   },
   "skchr_wisdel_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "オーバーレネゲード",
       "zh_CN": "饱和复仇"
     }
   },
   "skchr_wisdel_3": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "デイブレイクバースト",
       "zh_CN": "爆裂黎明"
     }
   },
@@ -36883,36 +36957,42 @@
   "sktok_lrcage": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "ビーコン召喚",
       "zh_CN": "召唤信标"
     }
   },
   "sktok_lrcore": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "ソウルエコー",
       "zh_CN": "灵魂激荡"
     }
   },
   "sktok_lrctrl": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "源石汚染エリア",
       "zh_CN": "源石污染区"
     }
   },
   "sktok_lrlgun": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "ソウルエコー",
       "zh_CN": "灵魂激荡"
     }
   },
   "sktok_lrsiege": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "奮い立つ栄光",
       "zh_CN": "振奋荣光"
     }
   },
   "sktok_lrsteam": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "決死の誓い",
       "zh_CN": "誓死"
     }
   },
@@ -38115,6 +38195,7 @@
   "sktok_wisdel_wward": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "レヴァナントの影",
       "zh_CN": "魂灵之影"
     }
   },
@@ -44815,6 +44896,7 @@
   "camp_r_22": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "「離心率」ラボ",
       "zh_CN": "“离心率”实验室"
     }
   },
@@ -45135,24 +45217,28 @@
   "hard_14-01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "光塔作戦-1",
       "zh_CN": "灯塔行动-1"
     }
   },
   "hard_14-02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "光塔作戦-2",
       "zh_CN": "灯塔行动-2"
     }
   },
   "hard_14-03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "光塔作戦-3",
       "zh_CN": "灯塔行动-3"
     }
   },
   "hard_14-04": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "光塔作戦-4",
       "zh_CN": "灯塔行动-4"
     }
   },
@@ -47535,120 +47621,140 @@
   "main_14-01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "作戦対策会議",
       "zh_CN": "作战对策会议"
     }
   },
   "main_14-02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "鉄床戦術を破れ",
       "zh_CN": "破解锤砧战术"
     }
   },
   "main_14-03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "通信封鎖の解除",
       "zh_CN": "通讯静默解除"
     }
   },
   "main_14-04": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "洞窟地区を探索",
       "zh_CN": "探查岩洞区域"
     }
   },
   "main_14-05": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "交戦視野の確認",
       "zh_CN": "确认交战视界"
     }
   },
   "main_14-06": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "反攻作戦を実施",
       "zh_CN": "执行反制作战"
     }
   },
   "main_14-07": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "近接支援に移行",
       "zh_CN": "抵近支援作战"
     }
   },
   "main_14-08": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "飽和攻撃に応対",
       "zh_CN": "应对饱和打击"
     }
   },
   "main_14-09": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "輝きから湧き上がるもの",
       "zh_CN": "自光辉中奔涌"
     }
   },
   "main_14-10": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "「英雄」とは",
       "zh_CN": "所谓“英雄”"
     }
   },
   "main_14-11": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "使徒",
       "zh_CN": "使徒"
     }
   },
   "main_14-12": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "高空での拒止",
       "zh_CN": "高空拒阻行动"
     }
   },
   "main_14-13": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "外周包囲網の突破",
       "zh_CN": "突破外围防线"
     }
   },
   "main_14-14": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "舷側エリアを占拠",
       "zh_CN": "抢占舷侧区域"
     }
   },
   "main_14-15": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "主船倉での攻防",
       "zh_CN": "核心舱攻防战"
     }
   },
   "main_14-16": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "灼熱より爆ぜる咆哮",
       "zh_CN": "在炽燃间咆哮"
     }
   },
   "main_14-17": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "結晶の中",
       "zh_CN": "晶簇之内"
     }
   },
   "main_14-18": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "王たちの行方",
       "zh_CN": "列王行迹"
     }
   },
   "main_14-19": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "それぞれの願う明日",
       "zh_CN": "万千愿景"
     }
   },
   "main_14-20": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "哀愁が綻びる時に",
       "zh_CN": "在哀愁绽放的时刻"
     }
   },
@@ -47759,6 +47865,7 @@
   "spst_14-01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "慈悲深き悲願",
       "zh_CN": "慈悲遗愿"
     }
   },
@@ -48013,18 +48120,21 @@
   "st_14-01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "思い出からの墜落",
       "zh_CN": "从回忆中坠落"
     }
   },
   "st_14-02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "原点からの降臨",
       "zh_CN": "自原点中降临"
     }
   },
   "st_14-03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "終焉を迎える良き夜",
       "zh_CN": "良夜将死"
     }
   },
@@ -48603,6 +48713,7 @@
   "tr_25": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "特殊環境適応作戦",
       "zh_CN": "特殊环境适应作战"
     }
   },
@@ -50315,6 +50426,7 @@
   "main_14": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "慈悲光塔",
       "zh_CN": "慈悲灯塔"
     }
   },
@@ -51163,6 +51275,7 @@
   "story_aroma_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "入職の誘い",
       "zh_CN": "入职邀请"
     }
   },
@@ -51177,6 +51290,7 @@
   "story_ascln_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "同行者",
       "zh_CN": "同行人"
     }
   },
@@ -52875,6 +52989,7 @@
   "story_shining_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "雨降る夜",
       "zh_CN": "雨夜"
     }
   },
@@ -52921,6 +53036,7 @@
   "story_siege_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "幻日",
       "zh_CN": "幻日"
     }
   },
@@ -53143,6 +53259,7 @@
   "story_swllow_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "異なる道",
       "zh_CN": "殊途"
     }
   },
