@@ -16,7 +16,7 @@ tip: 请善用浏览器的搜索功能
 | char_1001_amiya2@casc#1 | 触及星辰 | - | - |
 | char_1011_lava2@nian#6 | 暮影藤萝 | Dusk Wisteria | 紫藤麗姿 |
 | char_1012_skadi2@boc#4 | 升华 | Sublimation | 昇華 |
-| char_1012_skadi2@iteration#2 | 红女爵 | - | レッドカウンテス |
+| char_1012_skadi2@iteration#2 | 红女爵 | Red Countess | レッドカウンテス |
 | char_1013_chen2@boc#6 | 万重山 | Ten Thousand Mountains | 万重山 |
 | char_1014_nearl2@epoque#17 | 复现荣光 | Relight | 栄光の再臨 |
 | char_1016_agoat2@epoque#34 | 远行前的野餐 | - | - |
@@ -33,7 +33,7 @@ tip: 请善用浏览器的搜索功能
 | char_102_texas@epoque#7 | 意志 | Willpower | 意志 |
 | char_102_texas@winter#1 | 寒冬信使 | Winter Messenger | 冬の使者 |
 | char_1031_slent2@epoque#32 | 栖息 | - | - |
-| char_1033_swire2@ambienceSynesthesia#4 | 律动方格 | - | リズミックブロック |
+| char_1033_swire2@ambienceSynesthesia#4 | 律动方格 | Rhythmic Blocks | リズミックブロック |
 | char_103_angel@kfc#1 | 城市骑手 | City Rider | シティライダー |
 | char_103_angel@sale#8 | 午夜邮差 | Midnight Delivery | 真夜中の配達人 |
 | char_103_angel@wild#1 | 野地秘行 | Wild Operation | 荒野潜行 |
@@ -60,7 +60,7 @@ tip: 请善用浏览器的搜索功能
 | char_126_shotst@epoque#28 | 星橼林 | Gwiazdcytrony | スタリシトロンの森にて |
 | char_128_plosis@epoque#3 | 幽静 | Serenity | 幽静 |
 | char_128_plosis@yun#4 | 抚云间 | - | - |
-| char_129_bluep@iteration#2 | 哀律西昂夜曲 | - | エリシアの夜想曲 |
+| char_129_bluep@iteration#2 | 哀律西昂夜曲 | Nocturne of Elysia | エリシアの夜想曲 |
 | char_129_bluep@marthe#3 | 浅滩律动 | Shoal Beat | 浅瀬のリズム |
 | char_130_doberm@epoque#7 | 少尉 | Lieutenant | 少尉 |
 | char_131_flameb@summer#8 | 悠然假日 HDm04 | Casual Vacation HDm04 | ホリデーHDm04 |
@@ -90,7 +90,7 @@ tip: 请善用浏览器的搜索功能
 | char_166_skfire@summer#1 | 温差 RT.RX01 | Temperature Difference RT.RX01 | 温度差RT.RX01 |
 | char_171_bldsk@summer#7 | 悠然假日 HD31 | Casual Vacation HD31 | ホリデーHD31 |
 | char_171_bldsk@witch#1 | 盛宴 | the feast | 盛宴 |
-| char_172_svrash@ambienceSynesthesia#4 | 不融冰 | - | 不融氷 |
+| char_172_svrash@ambienceSynesthesia#4 | 不融冰 | Never-melting Ice | 不融氷 |
 | char_172_svrash@snow#1 | 约克的寒风 | York's Bise | ヨークの寒風 |
 | char_172_svrash@summer#4 | 探寻者 SKm01 | Seeker SKm01 | シーカーSKm01 |
 | char_173_slchan@wild#1 | 孤攀客 | Lone Climber | 登山家 |
@@ -147,7 +147,7 @@ tip: 请善用浏览器的搜索功能
 | char_225_haak@nian#4 | 百面郎中 | Doctor of Faces | 百面郎中 |
 | char_225_haak@nian#5 | 妙手玄心 | Healing Hand, Evil Heart | 妙手深謀 |
 | char_226_hmau@nian#4 | 一介车夫 | Just A Driver | 小粋車夫 |
-| char_230_savage@boc#8 | 地底三百米 | - | 地底三百メートル |
+| char_230_savage@boc#8 | 地底三百米 | 300 Metres Underground | 地底三百メートル |
 | char_235_jesica@nian#2 | 君子兰 | Clivia | 君子蘭 |
 | char_235_jesica@sweep#1 | 铁块 | Iron Block | 鉄塊 |
 | char_235_jesica@wild#2 | 燃灰 | Ash | 灰燼 |
@@ -160,7 +160,7 @@ tip: 请善用浏览器的搜索功能
 | char_242_otter@ghost#1 | 庭院寻梦尖兵 | Visionblazer in the Courtyard | 庭園の探夢者 |
 | char_243_waaifu@whirlwind#2 | 街道狂花 | Wild Flower of Street | ストリートフラワー |
 | char_248_mgllan@kitchen#1 | 回味冰霜雪 | Shaved-Ice Memories | やみつきかき氷 |
-| char_249_mlyss@boc#8 | 新枝 | - | 新梢 |
+| char_249_mlyss@boc#8 | 新枝 | Young Branch | 新梢 |
 | char_250_phatom@ghost#1 | 梦魇之梦 | Dream Within a Dreammare | 終わらぬ悪夢 |
 | char_250_phatom@sale#4 | 焦点 | Focus | 主演 |
 | char_252_bibeak@winter#2 | 软绒 | Soft Wool | 雪綿 |
@@ -192,7 +192,7 @@ tip: 请善用浏览器的搜索功能
 | char_290_vigna@summer#1 | 悠然假日 HD01 | Casual Vacation HD01 | ホリデーHD01 |
 | char_291_aglina@boc#1 | 质素访客 | Distinguished Visitor | 要因たる訪問者 |
 | char_291_aglina@summer#5 | 夏卉 FA017 | Summer Flower FA017 | 夏の花弁FA017 |
-| char_293_thorns@boc#8 | 锋潮 | - | 切先の潮騒 |
+| char_293_thorns@boc#8 | 锋潮 | Blade-cleaved Tides | 切先の潮騒 |
 | char_293_thorns@it#1 | 惬意 | Cómodo | 満喫 |
 | char_294_ayer@boc#3 | 受验者 | Tested One | 潜入者 |
 | char_297_hamoni@epoque#24 | 邀约 | Invitation | お誘い |
@@ -264,7 +264,7 @@ tip: 请善用浏览器的搜索功能
 | char_401_elysm@snow#2 | 雪夜回音 | Snowy Echo | 雪夜の思い出 |
 | char_401_elysm@summer#9 | 灿阳朝露 SDm11 | Shimmering Dew SDm11 | 炎陽煌く露SDm11 |
 | char_4025_aprot2@whirlwind#5 | 结果 | The Fruition | 結実 |
-| char_4027_heyak@ambienceSynesthesia#4 | 历世流风 | - | 悠久の風に吹かれ |
+| char_4027_heyak@ambienceSynesthesia#4 | 历世流风 | Carriage of the Winds of Time | 悠久の風に吹かれ |
 | char_402_tuye@epoque#14 | 培翠 | Cultivate Vegetation | 緑化 |
 | char_4032_provs@summer#17 | 悠然假日 HD78 | - | - |
 | char_4032_provs@wild#7 | 秋高气爽 | High Autumn | 晴れ渡る秋空 |
@@ -294,7 +294,7 @@ tip: 请善用浏览器的搜索功能
 | char_4082_qiubai@epoque#31 | 礼遇 | Courtesy | 礼をもって |
 | char_4082_qiubai@ncg#1 | 霜林醉 | Wine-flushed is Woods of Rime | 霜林酔 |
 | char_4083_chimes@yun#5 | 松间月 | - | - |
-| char_4087_ines@boc#8 | 燃烧天穹下 | - | 燃ゆる蒼穹の下 |
+| char_4087_ines@boc#8 | 燃烧天穹下 | Under the Flaming Dome | 燃ゆる蒼穹の下 |
 | char_4088_hodrer@sightseer#1 | 沉思之庭 | - | - |
 | char_4091_ulika@sanrio#1 | 云上直播间 | - | - |
 | char_4100_caper@summer#18 | 夏卉 FA083 | - | - |

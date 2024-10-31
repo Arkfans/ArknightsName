@@ -858,25 +858,25 @@ tip: 请善用浏览器的搜索功能
 | enemy_1418_mmkonm | 流浪工匠“修补工” | 'Tinkerer' | 放浪職人「リペアラー」 |
 | enemy_1418_mmkonm_2 | 流浪工匠“修补工头” | 'Mechanic' | 放浪職人「リペアマスター」 |
 | enemy_1419_mmcike | 裹骸死士 | Deathveil Assassin | 捨身の死士 |
-| enemy_1422_lrsldr | 萨卡兹枯朽前锋 | - | 枯朽サルカズ先鋒 |
-| enemy_1422_lrsldr_2 | 萨卡兹枯朽辟路前锋 | - | 枯朽サルカズ切込み先鋒 |
-| enemy_1423_lrfkkt | 萨卡兹枯朽宿卫 | - | 枯朽サルカズ宿衛 |
-| enemy_1423_lrfkkt_2 | 萨卡兹枯朽不屈宿卫 | - | 枯朽サルカズ不屈宿衛 |
-| enemy_1424_lrboom | 恶尘源石虫 | - | 悪塵オリジムシ |
-| enemy_1424_lrboom_2 | 恶尘源石虫·α | - | 悪塵オリジムシα |
-| enemy_1425_lrcmra | 孽罪奇美拉 | - | 大罪のキメラ |
-| enemy_1425_lrcmra_2 | 渎罪奇美拉 | - | 冒涜のキメラ |
-| enemy_1426_lrthef | 萨卡兹祭坛看护者 | - | サルカズ祭壇守護者 |
-| enemy_1426_lrthef_2 | 萨卡兹祭坛奉养者 | - | サルカズ祭壇奉仕者 |
-| enemy_1427_lrnazg | “灵幛” | - | 「霊骸布」 |
-| enemy_1427_lrnazg_2 | “慰朽灵幛” | - | 「慰撫の霊骸布」 |
-| enemy_1428_lrsoul | 魂灵涡流 | - | ソウルボルテックス |
-| enemy_1429_lrwzrd | 聚焦魂灵残迹 | - | 集束せし魂の残滓 |
-| enemy_1429_lrwzrd_2 | 棱镜魂灵残迹 | - | 反照せし魂の残滓 |
-| enemy_1430_lrrook | 愧悔魂灵圣杯 | - | 慚愧せし魂の聖杯 |
-| enemy_1430_lrrook_2 | 殉亡魂灵圣杯 | - | 殉死せし魂の聖杯 |
-| enemy_1431_lrmzrd | 注能魂灵法骸 | - | 混成せし魂の法骸 |
-| enemy_1431_lrmzrd_2 | 粹影魂灵法骸 | - | 集粋せし魂の法骸 |
+| enemy_1422_lrsldr | 萨卡兹枯朽前锋 | Sarkaz Wither Vanguard | 枯朽サルカズ先鋒 |
+| enemy_1422_lrsldr_2 | 萨卡兹枯朽辟路前锋 | Elite Sarkaz Wither Vanguard | 枯朽サルカズ切込み先鋒 |
+| enemy_1423_lrfkkt | 萨卡兹枯朽宿卫 | Sarkaz Wither Bulwark | 枯朽サルカズ宿衛 |
+| enemy_1423_lrfkkt_2 | 萨卡兹枯朽不屈宿卫 | Sarkaz Wither Aegis | 枯朽サルカズ不屈宿衛 |
+| enemy_1424_lrboom | 恶尘源石虫 | Caustic Originium Slug | 悪塵オリジムシ |
+| enemy_1424_lrboom_2 | 恶尘源石虫·α | Caustic Originium Slug α | 悪塵オリジムシα |
+| enemy_1425_lrcmra | 孽罪奇美拉 | Profane Chimera | 大罪のキメラ |
+| enemy_1425_lrcmra_2 | 渎罪奇美拉 | Sacrilegious Chimera | 冒涜のキメラ |
+| enemy_1426_lrthef | 萨卡兹祭坛看护者 | Sarkaz Altar Keeper | サルカズ祭壇守護者 |
+| enemy_1426_lrthef_2 | 萨卡兹祭坛奉养者 | Sarkaz Altar Nourisher | サルカズ祭壇奉仕者 |
+| enemy_1427_lrnazg | “灵幛” | Sudaram | 「霊骸布」 |
+| enemy_1427_lrnazg_2 | “慰朽灵幛” | Putrefied Sudaram | 「慰撫の霊骸布」 |
+| enemy_1428_lrsoul | 魂灵涡流 | Soul Maelstrom | ソウルボルテックス |
+| enemy_1429_lrwzrd | 聚焦魂灵残迹 | Focused Soul Remnant | 集束せし魂の残滓 |
+| enemy_1429_lrwzrd_2 | 棱镜魂灵残迹 | Prism Soul Remnant | 反照せし魂の残滓 |
+| enemy_1430_lrrook | 愧悔魂灵圣杯 | Chalice of Regret | 慚愧せし魂の聖杯 |
+| enemy_1430_lrrook_2 | 殉亡魂灵圣杯 | Chalice of Mortality | 殉死せし魂の聖杯 |
+| enemy_1431_lrmzrd | 注能魂灵法骸 | Infused Soul Husk | 混成せし魂の法骸 |
+| enemy_1431_lrmzrd_2 | 粹影魂灵法骸 | Penumbral Soul Husk | 集粋せし魂の法骸 |
 | enemy_1433_dsbasi | 单核掠食者 | - | - |
 | enemy_1433_dsbasi_2 | 异光体掠食者 | - | - |
 | enemy_1434_dsshel | 微核沉积者 | - | - |
@@ -946,8 +946,8 @@ tip: 请善用浏览器的搜索功能
 | enemy_1550_dhnzzh | “祟” | 'Slumbering of Sui' | 「祟」 |
 | enemy_1551_bolicp | 马特奥上尉 | Captain Mateo | マッテオ大尉 |
 | enemy_1552_mmamiy | “阿米娅” | 'Amiya' | 「アーミヤ」 |
-| enemy_1553_lrdead | 引火的死魂灵 | - | 熾し火のレヴァナント |
-| enemy_1554_lrtsia | 特蕾西娅 | - | Theresa |
+| enemy_1553_lrdead | 引火的死魂灵 | Kindling Revenant | 熾し火のレヴァナント |
+| enemy_1554_lrtsia | 特蕾西娅 | Theresa | Theresa |
 | enemy_1556_dsbish | 玛利图斯，“海嗣” | - | - |
 | enemy_1557_trcerb | “三头犬” | - | - |
 | enemy_1558_sgactr | 祖巴伊达姆，从往昔来 | - | - |

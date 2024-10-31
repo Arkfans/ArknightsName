@@ -195,7 +195,7 @@ tip: 请善用浏览器的搜索功能
 | main_11 | 淬火尘霾 | Return To Mist | 淬火煙塵 |
 | main_12 | 惊霆无声 | All Quiet Under the Thunder | 驚靂蕭然 |
 | main_13 | 恶兆湍流 | The Whirlpool that is Passion | 悪兆渦流 |
-| main_14 | 慈悲灯塔 | - | 慈悲光塔 |
+| main_14 | 慈悲灯塔 | Absolved Will Be the Seekers | 慈悲光塔 |
 | main_2 | 异卵同生 | Separated Hearts | 相思相殺 |
 | main_3 | 二次呼吸 | Stinging Shock | 起死回生 |
 | main_4 | 急性衰竭 | Burning Run | 急転直下 |

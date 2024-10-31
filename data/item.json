@@ -715,6 +715,7 @@
     "zh_CN": "时和岁丰寻访凭证"
   },
   "LIMITED_TKT_GACHA_10_5001": {
+    "en_US": "Dawn Enkindlers Headhunting Permit",
     "ja_JP": "感謝祭記念10回スカウト券",
     "zh_CN": "残夜厝薪寻访凭证"
   },
@@ -820,6 +821,7 @@
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_5001": {
+    "en_US": "Headhunting Data Contract",
     "ja_JP": "限定契約証",
     "zh_CN": "寻访数据契约"
   },
@@ -1209,6 +1211,7 @@
     "zh_CN": "里程碑碎片"
   },
   "act1mainss_token_medi": {
+    "en_US": "Emergency Inhibitor",
     "ja_JP": "急性感染抑制剤",
     "zh_CN": "急性感染抑制剂"
   },
@@ -2978,10 +2981,12 @@
     "zh_CN": "涤火杰西卡的信物"
   },
   "p_char_1035_wisdel": {
+    "en_US": "Wiš'adel's Token",
     "ja_JP": "ウィシャデルの印",
     "zh_CN": "维什戴尔的信物"
   },
   "p_char_1036_fang2": {
+    "en_US": "Fang the Fire-Sharpened's Token",
     "ja_JP": "歴陣鋭槍フェンの印",
     "zh_CN": "历阵锐枪芬的信物"
   },
@@ -4207,14 +4212,17 @@
     "zh_CN": "阿斯卡纶的信物"
   },
   "p_char_4133_logos": {
+    "en_US": "Logos's Token",
     "ja_JP": "ロゴスの印",
     "zh_CN": "逻各斯的信物"
   },
   "p_char_4134_cetsyr": {
+    "en_US": "Civilight Eterna's Token",
     "ja_JP": "シヴィライト・エテルナの印",
     "zh_CN": "魔王的信物"
   },
   "p_char_4136_phonor": {
+    "en_US": "PhonoR-0's Token",
     "ja_JP": "PhonoR-0の印",
     "zh_CN": "PhonoR-0的信物"
   },
@@ -4594,6 +4602,7 @@
     "zh_CN": "罗德岛物资补给"
   },
   "randomMaterial_10": {
+    "en_US": "Rhodes Island Supplies VII",
     "ja_JP": "補給物資・ロドスVII",
     "zh_CN": "罗德岛物资补给VII"
   },
@@ -5410,6 +5419,7 @@
     "zh_CN": "感谢庆典干员凭证"
   },
   "voucher_item_pick5001": {
+    "en_US": "Top Operator Transfer Permit",
     "ja_JP": "感謝祭記念★6招聘指名券",
     "zh_CN": "周年庆典干员凭证"
   },
@@ -5467,6 +5477,7 @@
     "zh_CN": "资深干员调用凭证"
   },
   "voucher_recruitR5_pick5001": {
+    "en_US": "Senior Operator Transfer Permit",
     "ja_JP": "★5招聘指名券",
     "zh_CN": "资深干员调用凭证"
   },

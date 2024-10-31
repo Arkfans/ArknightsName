@@ -237,6 +237,11 @@
     ]
   },
   "avg_1035_wisdel_1": {
+    "en_US": [
+      "Strange Shadow",
+      "W",
+      "Wiš'adel"
+    ],
     "ja_JP": [
       "W",
       "ウィシャデル",
@@ -249,6 +254,9 @@
     ]
   },
   "avg_1036_fang2_1": {
+    "en_US": [
+      "Fang"
+    ],
     "ja_JP": [
       "フェン"
     ],
@@ -257,6 +265,9 @@
     ]
   },
   "avg_1037_amiya3_1": {
+    "en_US": [
+      "Amiya"
+    ],
     "ja_JP": [
       "アーミヤ"
     ],
@@ -530,6 +541,9 @@
     ]
   },
   "avg_1505_frstar_1": {
+    "en_US": [
+      "FrostNova"
+    ],
     "ja_JP": [
       "フロストノヴァ"
     ],
@@ -1421,6 +1435,9 @@
     ]
   },
   "avg_367_swllow_1": {
+    "en_US": [
+      "GreyThroat"
+    ],
     "ja_JP": [
       "グレースロート"
     ],
@@ -2340,6 +2357,9 @@
     ]
   },
   "avg_4133_logos_1": {
+    "en_US": [
+      "Logos"
+    ],
     "ja_JP": [
       "Logos"
     ],
@@ -2348,6 +2368,9 @@
     ]
   },
   "avg_4134_cetsyr_1": {
+    "en_US": [
+      "Theresa's Phantom"
+    ],
     "ja_JP": [
       "テレジアの幻影"
     ],
@@ -2572,6 +2595,9 @@
     ]
   },
   "avg_446_aroma_1": {
+    "en_US": [
+      "Aroma"
+    ],
     "ja_JP": [
       "アロマ"
     ],
@@ -2725,7 +2751,8 @@
   },
   "avg_484_robrta_1": {
     "en_US": [
-      "Roberta"
+      "Roberta",
+      "Rubber and Roberta"
     ],
     "ja_JP": [
       "イレイザー＆ロベルタ",
@@ -3202,6 +3229,7 @@
       "A Kazimierz Villager",
       "Aging Resident",
       "Aging Worker",
+      "Bread Vendor",
       "Breakfast Stall Owner",
       "Elderly Villager",
       "Farm Owner",
@@ -4815,6 +4843,7 @@
       "Sarkaz Youth",
       "Slyly Smiling Sarkaz Worker",
       "Snappy Civilian",
+      "Timid Mercenary",
       "Tired Sarkaz Worker",
       "Wounded Mercenary",
       "Young Sarkaz Warrior"
@@ -4890,7 +4919,10 @@
   "avg_npc_054": {
     "en_US": [
       "'Miner'",
+      "Babel Member?",
       "Burly Townsfolk",
+      "Crane",
+      "Excited Mercenary",
       "Ferocious Sarkaz Bandit",
       "Fierce Sarkaz",
       "Grimm",
@@ -4909,6 +4941,7 @@
       "Sarkaz Traitor",
       "Sarkaz Warrior",
       "Sarkaz Warrior?",
+      "Scared Sarkaz Soldier",
       "Starving Mercenary",
       "Strange Townsfolk"
     ],
@@ -6649,6 +6682,7 @@
   "avg_npc_1071_1": {
     "en_US": [
       "Banshee",
+      "Blurred Silhouette",
       "Laqeramaline"
     ],
     "ja_JP": [
@@ -7786,6 +7820,7 @@
   },
   "avg_npc_1255_1": {
     "en_US": [
+      "Londinium Resident",
       "Rental Store Owner"
     ],
     "ja_JP": [
@@ -8068,6 +8103,7 @@
   "avg_npc_1306_1": {
     "en_US": [
       "Babel Assassin",
+      "Mercenary Scout",
       "Mysterious Mercenary",
       "Slave Trader"
     ],
@@ -8086,9 +8122,13 @@
   },
   "avg_npc_1307_1": {
     "en_US": [
+      "Airship 'Apparition'",
       "Cautious Assassin",
       "Determined Assassin",
-      "Name-Forsaken Sacrificer"
+      "Hornless Assassin",
+      "Hornless Sarkaz",
+      "Name-Forsaken Sacrificer",
+      "Silent Assassin"
     ],
     "ja_JP": [
       "名を捨てた死士",
@@ -8112,7 +8152,10 @@
   "avg_npc_1308_1": {
     "en_US": [
       "'Teacher'",
-      "Babel Member"
+      "Babel Member",
+      "Babel Squad Member",
+      "Babelite",
+      "Table Salt"
     ],
     "ja_JP": [
       "「教師」",
@@ -8232,6 +8275,10 @@
     ]
   },
   "avg_npc_1331_1": {
+    "en_US": [
+      "'Sudaram'?",
+      "Sudaram"
+    ],
     "ja_JP": [
       "「霊骸布」",
       "「霊骸布」？"
@@ -8242,6 +8289,9 @@
     ]
   },
   "avg_npc_1332_1": {
+    "en_US": [
+      "Qalid'čoa"
+    ],
     "ja_JP": [
       "クァリドチョア"
     ],
@@ -8250,6 +8300,10 @@
     ]
   },
   "avg_npc_1333_1": {
+    "en_US": [
+      "Nadine",
+      "Young Officer"
+    ],
     "ja_JP": [
       "ナディーン",
       "若い士官"
@@ -8260,6 +8314,11 @@
     ]
   },
   "avg_npc_1334_1": {
+    "en_US": [
+      "Banshee-Style Device",
+      "Gentle but Stern Voice",
+      "Kindly Voice"
+    ],
     "ja_JP": [
       "バンシー風の装置",
       "愛情深い声",
@@ -8272,6 +8331,10 @@
     ]
   },
   "avg_npc_1335_1": {
+    "en_US": [
+      "Confessarius 'Chimera'",
+      "Terrifying Monster"
+    ],
     "ja_JP": [
       "聴罪師の「キメラ」",
       "見た目の恐ろしい怪物"
@@ -8282,6 +8345,9 @@
     ]
   },
   "avg_npc_1336_1": {
+    "en_US": [
+      "W Squad Member"
+    ],
     "ja_JP": [
       "W小隊メンバー"
     ],
@@ -8290,6 +8356,9 @@
     ]
   },
   "avg_npc_1337_1": {
+    "en_US": [
+      "Flag Officer"
+    ],
     "ja_JP": [
       "上級士官"
     ],
@@ -8298,6 +8367,9 @@
     ]
   },
   "avg_npc_1338_1": {
+    "en_US": [
+      "'Driver'"
+    ],
     "ja_JP": [
       "「運転手」"
     ],
@@ -8306,6 +8378,9 @@
     ]
   },
   "avg_npc_1339_1": {
+    "en_US": [
+      "Nezzsalem"
+    ],
     "ja_JP": [
       "ネツァレム"
     ],
@@ -8334,6 +8409,12 @@
     ]
   },
   "avg_npc_1340_1": {
+    "en_US": [
+      "'Sarkaz'",
+      "Revenant's Shadow",
+      "Shadow",
+      "Strange Shadow"
+    ],
     "ja_JP": [
       "「サルカズ」",
       "レヴァナントの影",
@@ -8349,6 +8430,9 @@
     ]
   },
   "avg_npc_1341_1": {
+    "en_US": [
+      "Sarkaz Warrior"
+    ],
     "ja_JP": [
       "サルカズ戦士"
     ],
@@ -8359,6 +8443,9 @@
     ]
   },
   "avg_npc_1342_1": {
+    "en_US": [
+      "Millscar"
+    ],
     "ja_JP": [
       "「ミルスカー」"
     ],
@@ -8367,6 +8454,9 @@
     ]
   },
   "avg_npc_1343_1": {
+    "en_US": [
+      "W"
+    ],
     "ja_JP": [
       "W"
     ],
@@ -8375,6 +8465,9 @@
     ]
   },
   "avg_npc_1344_1": {
+    "en_US": [
+      "Ascalon"
+    ],
     "ja_JP": [
       "アスカロン"
     ],
@@ -8440,6 +8533,7 @@
   },
   "avg_npc_1362_1": {
     "en_US": [
+      "Babel Member",
       "Medic"
     ],
     "ja_JP": [
@@ -9402,6 +9496,7 @@
       "Elegant Ambassador",
       "Emotional Councilor",
       "Enthusiastic Merchant",
+      "Fretful Merchant",
       "Genial Noble",
       "Greedy Businessman",
       "Host",
@@ -10597,6 +10692,7 @@
   "avg_npc_229_1": {
     "en_US": [
       "Horn",
+      "Horn & Bagpipe",
       "Rita"
     ],
     "ja_JP": [
@@ -10712,6 +10808,7 @@
       "Knight",
       "Naughty Child",
       "Small Child",
+      "Taran Child",
       "Victorian Boy"
     ],
     "ja_JP": [
@@ -10751,6 +10848,7 @@
   "avg_npc_241": {
     "en_US": [
       "Angry NCO",
+      "Crumbling Soldier",
       "Gentle Officer",
       "Guards Member",
       "Guards' Captain",
@@ -10808,6 +10906,7 @@
       "Anxious Villager",
       "Bent",
       "Busy Youth",
+      "Catastrophe Messenger",
       "Chef MacMartin",
       "Community Resident",
       "Confused Resident",
@@ -10822,6 +10921,7 @@
       "Independent Reporter",
       "Infected",
       "Infected Citizen",
+      "Infected Villager",
       "Jurian",
       "Lean Man",
       "Merchant",
@@ -10831,6 +10931,7 @@
       "Panicked Youth",
       "Placid Photographer",
       "Restless Youth",
+      "Taran Citizen",
       "Taran Refugee",
       "Tempersome Taran Refugee",
       "Timid Youth",
@@ -10951,6 +11052,7 @@
       "Maid",
       "Noble Sister",
       "Overwrought Taran Refugee",
+      "Pained Refugee",
       "Panicked Merchant",
       "Pasado",
       "Sorrowful Woman",
@@ -11042,6 +11144,7 @@
   },
   "avg_npc_248": {
     "en_US": [
+      "'Adjutant Hill'",
       "Adjutant Hill",
       "Biting Officer",
       "Patrol Member",
@@ -12549,6 +12652,7 @@
   },
   "avg_npc_398_1": {
     "en_US": [
+      "Exemplar Soldier",
       "Self-Salvation Corps Fighter",
       "Self-Salvation Corps Member",
       "Self-Salvation Corps Soldier"
@@ -12572,7 +12676,11 @@
       "Former Defense Forces Soldier",
       "Inspector A",
       "Inspector B",
+      "Nervous Soldier",
+      "Security Detail",
       "Special Forces Captain",
+      "Terrified Soldier",
+      "Unhappy Soldier",
       "Victorian Mercenary"
     ],
     "ja_JP": [
@@ -12713,7 +12821,8 @@
   },
   "avg_npc_407_1": {
     "en_US": [
-      "Siege"
+      "Siege",
+      "Vina"
     ],
     "ja_JP": [
       "シージ",
@@ -12726,12 +12835,15 @@
   },
   "avg_npc_408_1": {
     "en_US": [
+      "Flag Officer",
       "High-Ranking Officer",
+      "Redsteel Guard Member",
       "Slippery Soldier",
       "Stern Soldier",
       "Veteran Officer",
       "Victorian Barracks Officer",
       "Victorian Officer",
+      "Victorian Sergeant",
       "Victorian Soldier",
       "Victorian Soldier?"
     ],
@@ -12765,6 +12877,7 @@
   },
   "avg_npc_409_1": {
     "en_US": [
+      "Flag Officer",
       "Victorian Officer",
       "Victorian Soldier"
     ],
@@ -12847,6 +12960,7 @@
       "Robben",
       "Sickly Soldier",
       "Somber Soldier",
+      "Victorian Soldier",
       "Victorian Soldier C",
       "Victorian Soldier D"
     ],
@@ -12892,6 +13006,7 @@
       "Jittery Citizen",
       "Londinium Citizen",
       "Londinium Citizen?",
+      "Nervous Citizen",
       "Nervous Infected",
       "Norport Refugee",
       "Reunion Member",
@@ -13030,11 +13145,18 @@
       "Grim Royal Court Soldier",
       "Indifferent Royal Court Soldier",
       "Injured Soldier",
+      "Low-Ranking Sarkaz Officer",
       "Military Commission Guard",
       "Panicked Royal Court Soldier",
       "Royal Court Junior Officer",
       "Royal Court Soldier",
+      "Royal Court Soldier A",
+      "Royal Court Soldier B",
+      "Royal Guard",
+      "Sarkaz Royal Court Commander",
       "Sarkaz Royal Court Soldier",
+      "Sarkaz Royal Court Soldier A",
+      "Sarkaz Royal Court Soldier B",
       "Sarkaz Soldier",
       "Sarkaz Warrior",
       "Spine Guardian",
@@ -13175,7 +13297,10 @@
   },
   "avg_npc_425_1": {
     "en_US": [
-      "Confessarius Guard"
+      "Confessarius Guard",
+      "Confessarius Guard A",
+      "Confessarius Guard B",
+      "Confessarius Guard?"
     ],
     "ja_JP": [
       "聴罪師直属衛兵",
@@ -14911,7 +15036,8 @@
   "avg_npc_651_1": {
     "en_US": [
       "'Steam Armor'",
-      "'The Last Steam Knight'"
+      "'The Last Steam Knight'",
+      "Charles Lynch"
     ],
     "ja_JP": [
       "「最後の蒸気騎士」",
@@ -14937,6 +15063,7 @@
   },
   "avg_npc_653_1": {
     "en_US": [
+      "Confessarius",
       "Salus"
     ],
     "ja_JP": [
@@ -14950,7 +15077,9 @@
   },
   "avg_npc_654_1": {
     "en_US": [
-      "Confessarius"
+      "'Father'",
+      "Confessarius",
+      "Qui'sartuštaj"
     ],
     "ja_JP": [
       "「父」",
@@ -14975,6 +15104,9 @@
     ]
   },
   "avg_npc_656_1": {
+    "en_US": [
+      "Gawain"
+    ],
     "ja_JP": [
       "ガヴェイン"
     ],
@@ -15062,7 +15194,8 @@
       "Innocent Child",
       "Old Man",
       "Repulsed Child",
-      "Tyrant"
+      "Tyrant",
+      "Villager's Child"
     ],
     "ja_JP": [
       "嫌がる子供",
@@ -16998,7 +17131,8 @@
       "Intern Operator",
       "Logistics Operator",
       "Records Room Operator",
-      "Rhodes Island Landship Operator B"
+      "Rhodes Island Landship Operator B",
+      "Rubber"
     ],
     "ja_JP": [
       "イレイザー",
@@ -17264,6 +17398,10 @@
     ]
   },
   "avgnew_147_shining_1": {
+    "en_US": [
+      "'Daughter'",
+      "Shining"
+    ],
     "ja_JP": [
       "「娘」",
       "シャイニング"

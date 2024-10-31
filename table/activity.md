@@ -88,7 +88,7 @@ tip: 请善用浏览器的搜索功能
 | act1lock | 荷谟伊智境 | Hymnoi Wisdom | ヒュムノイの叡智 |
 | act1mainbuff | 战备支援 | Tactical Support | 作戦支援 |
 | act1mainlinebp | 战备支援 | Tactical Support | 作戦支援 |
-| act1mainss | 慈悲灯塔 | - | 慈悲光塔 |
+| act1mainss | 慈悲灯塔 | Absolved Will Be the Seekers | 慈悲光塔 |
 | act1r6sre | 源石尘行动·复刻 | Operation Originium Dust - Retrospection | OP:OD復刻 |
 | act1sandbox | 生息演算：沙中之火 | Reclamation Algorithm - Fire Within the Sand | 生息演算：砂中の火 |
 | act1signvs | 端阳正午签到活动 | May the Sunshine Still Sign-In Event | スタンプラリー |
@@ -152,7 +152,7 @@ tip: 请善用浏览器的搜索功能
 | act37sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act38d1 | 尖灭测试作战 | Pinch-Out Experimental Operation | 尖滅試験作戦 |
 | act38sign | 明日方舟X彩虹六号：围攻签到活动 | Arknights x Rainbow Six Siege Login Event | アークナイツ×R6Sスタンプラリー |
-| act39sign | 限时累计签到 | - | 期間限定ログインボーナス |
+| act39sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act3bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act3d0 | 火蓝之心 | Heart of Surging Flame | 青く燃ゆる心 |
 | act3d5 | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
@@ -179,7 +179,7 @@ tip: 请善用浏览器的搜索功能
 | act5d0 | 喧闹法则 | Code of Brawl | 喧騒の掟 |
 | act5d1 | 危机合约 | Contingency Contract | 危機契約 |
 | act5fun | 愚人节活动 | - | - |
-| act5mine | 卡钳谷矿区限时开采许可 | - | カリパスバレー採鉱区 |
+| act5mine | 卡钳谷矿区限时开采许可 | Callipers Valley Mining Area Provisional Mining Permit | カリパスバレー採鉱区 |
 | act5pray | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |
 | act5sre | 沃伦姆德的薄暮·复刻 | Twilight of Wolumonde - Rerun | ウォルモンドの薄暮・復刻 |
 | act6d0 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |

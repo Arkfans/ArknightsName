@@ -407,6 +407,7 @@
     "zh_CN": "战备支援"
   },
   "act1mainss": {
+    "en_US": "Absolved Will Be the Seekers",
     "ja_JP": "慈悲光塔",
     "zh_CN": "慈悲灯塔"
   },
@@ -700,6 +701,7 @@
     "zh_CN": "明日方舟X彩虹六号：围攻签到活动"
   },
   "act39sign": {
+    "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
@@ -812,6 +814,7 @@
     "zh_CN": "愚人节活动"
   },
   "act5mine": {
+    "en_US": "Callipers Valley Mining Area Provisional Mining Permit",
     "ja_JP": "カリパスバレー採鉱区",
     "zh_CN": "卡钳谷矿区限时开采许可"
   },

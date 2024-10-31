@@ -3746,6 +3746,7 @@
     "zh_CN": "新旅店大道"
   },
   "camp_r_22": {
+    "en_US": "'Eccentricity' Laboratory",
     "ja_JP": "「離心率」ラボ",
     "zh_CN": "“离心率”实验室"
   },
@@ -3944,18 +3945,22 @@
     "zh_CN": "湍流行动-4"
   },
   "hard_14-01": {
+    "en_US": "Operation Pharos-1",
     "ja_JP": "光塔作戦-1",
     "zh_CN": "灯塔行动-1"
   },
   "hard_14-02": {
+    "en_US": "Operation Pharos-2",
     "ja_JP": "光塔作戦-2",
     "zh_CN": "灯塔行动-2"
   },
   "hard_14-03": {
+    "en_US": "Operation Pharos-3",
     "ja_JP": "光塔作戦-3",
     "zh_CN": "灯塔行动-3"
   },
   "hard_14-04": {
+    "en_US": "Operation Pharos-4",
     "ja_JP": "光塔作戦-4",
     "zh_CN": "灯塔行动-4"
   },
@@ -5427,82 +5432,102 @@
     "zh_CN": "殷红君主"
   },
   "main_14-01": {
+    "en_US": "Operation Meeting",
     "ja_JP": "作戦対策会議",
     "zh_CN": "作战对策会议"
   },
   "main_14-02": {
+    "en_US": "Hammer and Anvil, Vanquished",
     "ja_JP": "鉄床戦術を破れ",
     "zh_CN": "破解锤砧战术"
   },
   "main_14-03": {
+    "en_US": "Breaking the Silence",
     "ja_JP": "通信封鎖の解除",
     "zh_CN": "通讯静默解除"
   },
   "main_14-04": {
+    "en_US": "Cave Search",
     "ja_JP": "洞窟地区を探索",
     "zh_CN": "探查岩洞区域"
   },
   "main_14-05": {
+    "en_US": "Field of Vision",
     "ja_JP": "交戦視野の確認",
     "zh_CN": "确认交战视界"
   },
   "main_14-06": {
+    "en_US": "Countermeasures",
     "ja_JP": "反攻作戦を実施",
     "zh_CN": "执行反制作战"
   },
   "main_14-07": {
+    "en_US": "Close Support",
     "ja_JP": "近接支援に移行",
     "zh_CN": "抵近支援作战"
   },
   "main_14-08": {
+    "en_US": "Response to Saturation Attacks",
     "ja_JP": "飽和攻撃に応対",
     "zh_CN": "应对饱和打击"
   },
   "main_14-09": {
+    "en_US": "From the Light",
     "ja_JP": "輝きから湧き上がるもの",
     "zh_CN": "自光辉中奔涌"
   },
   "main_14-10": {
+    "en_US": "Of Heroes",
     "ja_JP": "「英雄」とは",
     "zh_CN": "所谓“英雄”"
   },
   "main_14-11": {
+    "en_US": "Followers",
     "ja_JP": "使徒",
     "zh_CN": "使徒"
   },
   "main_14-12": {
+    "en_US": "High-Altitude Interception",
     "ja_JP": "高空での拒止",
     "zh_CN": "高空拒阻行动"
   },
   "main_14-13": {
+    "en_US": "Linebreaker",
     "ja_JP": "外周包囲網の突破",
     "zh_CN": "突破外围防线"
   },
   "main_14-14": {
+    "en_US": "Hull Breach",
     "ja_JP": "舷側エリアを占拠",
     "zh_CN": "抢占舷侧区域"
   },
   "main_14-15": {
+    "en_US": "Battle for the Core",
     "ja_JP": "主船倉での攻防",
     "zh_CN": "核心舱攻防战"
   },
   "main_14-16": {
+    "en_US": "Roaring Inferno",
     "ja_JP": "灼熱より爆ぜる咆哮",
     "zh_CN": "在炽燃间咆哮"
   },
   "main_14-17": {
+    "en_US": "Inside the Crystal",
     "ja_JP": "結晶の中",
     "zh_CN": "晶簇之内"
   },
   "main_14-18": {
+    "en_US": "Procession of Kings",
     "ja_JP": "王たちの行方",
     "zh_CN": "列王行迹"
   },
   "main_14-19": {
+    "en_US": "The Myriad Dreams",
     "ja_JP": "それぞれの願う明日",
     "zh_CN": "万千愿景"
   },
   "main_14-20": {
+    "en_US": "When Sorrow Blooms",
     "ja_JP": "哀愁が綻びる時に",
     "zh_CN": "在哀愁绽放的时刻"
   },
@@ -5572,6 +5597,7 @@
     "zh_CN": "燃烧的片段5"
   },
   "spst_14-01": {
+    "en_US": "Lingering Mercy",
     "ja_JP": "慈悲深き悲願",
     "zh_CN": "慈悲遗愿"
   },
@@ -5731,14 +5757,17 @@
     "zh_CN": "灾厄积渐"
   },
   "st_14-01": {
+    "en_US": "Fallen From Memory",
     "ja_JP": "思い出からの墜落",
     "zh_CN": "从回忆中坠落"
   },
   "st_14-02": {
+    "en_US": "Descent from the Origin",
     "ja_JP": "原点からの降臨",
     "zh_CN": "自原点中降临"
   },
   "st_14-03": {
+    "en_US": "Night Goes Gentle",
     "ja_JP": "終焉を迎える良き夜",
     "zh_CN": "良夜将死"
   },
@@ -6099,6 +6128,7 @@
     "zh_CN": "寻迹而行"
   },
   "tr_25": {
+    "en_US": "Special Environment Adaptive Ops",
     "ja_JP": "特殊環境適応作戦",
     "zh_CN": "特殊环境适应作战"
   },

@@ -738,22 +738,27 @@
     "zh_CN": "小帮手"
   },
   "trap_158_lrsteam": {
+    "en_US": "Charles Lynch",
     "ja_JP": "チャールズ・リンチ",
     "zh_CN": "查尔斯·林奇"
   },
   "trap_159_lrcore": {
+    "en_US": "Core Amplifier",
     "ja_JP": "コア増幅器",
     "zh_CN": "核心增幅器"
   },
   "trap_160_lrlgun": {
+    "en_US": "Torrent Beam Activator",
     "ja_JP": "奔流発生装置",
     "zh_CN": "洪流束激发器"
   },
   "trap_161_lrcage": {
+    "en_US": "Withered Altar",
     "ja_JP": "枯朽の祭壇",
     "zh_CN": "枯朽祭坛"
   },
   "trap_162_lrctrl": {
+    "en_US": "EP14 Mechanics Controller",
     "ja_JP": "第十四章ギミックコントローラー",
     "zh_CN": "十四章机制控制器"
   },
@@ -761,6 +766,7 @@
     "zh_CN": "障碍物"
   },
   "trap_164_lrsiege": {
+    "en_US": "Light of Glory",
     "ja_JP": "奮い立つ栄光",
     "zh_CN": "振奋荣光"
   },
