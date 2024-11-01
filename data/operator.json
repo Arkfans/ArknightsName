@@ -137,6 +137,9 @@
     "ja_JP": "歴陣鋭槍フェン",
     "zh_CN": "历阵锐枪芬"
   },
+  "char_1038_whitw2": {
+    "zh_CN": "荒芜拉普兰德"
+  },
   "char_103_angel": {
     "en_US": "Exusiai",
     "ja_JP": "エクシア",
@@ -311,6 +314,9 @@
     "en_US": "Scavenger",
     "ja_JP": "スカベンジャー",
     "zh_CN": "清道夫"
+  },
+  "char_1502_crosly": {
+    "zh_CN": "弑君者"
   },
   "char_150_snakek": {
     "en_US": "Cuora",
@@ -1092,6 +1098,9 @@
     "ja_JP": "シャレム",
     "zh_CN": "暮落"
   },
+  "char_4026_vulpis": {
+    "zh_CN": "忍冬"
+  },
   "char_4027_heyak": {
     "en_US": "Ho'olheyak",
     "ja_JP": "ホルハイヤ",
@@ -1431,8 +1440,14 @@
   "char_4147_mitm": {
     "zh_CN": "渡桥"
   },
+  "char_4148_philae": {
+    "zh_CN": "菲莱"
+  },
   "char_4151_tinman": {
     "zh_CN": "锡人"
+  },
+  "char_4155_talr": {
+    "zh_CN": "裁度"
   },
   "char_415_flint": {
     "en_US": "Flint",
@@ -1441,6 +1456,9 @@
   },
   "char_4162_cathy": {
     "zh_CN": "凯瑟琳"
+  },
+  "char_4165_ctrail": {
+    "zh_CN": "云迹"
   },
   "char_416_zumama": {
     "en_US": "Eunectes",

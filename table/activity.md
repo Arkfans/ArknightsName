@@ -103,6 +103,7 @@ tip: 请善用浏览器的搜索功能
 | act21side | 叙拉古人 | IL Siracusano | シラクザーノ |
 | act21sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act21sre | 叙拉古人·复刻 | Il Siracusano - Retrospection | シラクザーノ・復刻 |
+| act22login | 限定池送10连 | - | - |
 | act22side | 照我以火 | What the Firelight Casts | この炎が照らす先 |
 | act22sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act22sre | 照我以火·复刻 | What the Firelight Casts - Retrospection | この炎が照らす先・復刻 |
@@ -151,6 +152,7 @@ tip: 请善用浏览器的搜索功能
 | act37side | 追迹日落以西 | - | - |
 | act37sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act38d1 | 尖灭测试作战 | Pinch-Out Experimental Operation | 尖滅試験作戦 |
+| act38side | 揭幕者们 | - | - |
 | act38sign | 明日方舟X彩虹六号：围攻签到活动 | Arknights x Rainbow Six Siege Login Event | アークナイツ×R6Sスタンプラリー |
 | act39sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act3bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
@@ -168,6 +170,7 @@ tip: 请善用浏览器的搜索功能
 | act43sign | 良辰迎月签到活动 | - | - |
 | act44sign | 构想试炼签到活动 | - | - |
 | act45sign | 感谢庆典前瞻签到 | - | - |
+| act46sign | 感谢庆典限时签到 | - | - |
 | act4bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act4d0 | 战地秘闻 | Operational Intelligence | 戦地の逸話 |
 | act4d2 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -206,4 +209,5 @@ tip: 请善用浏览器的搜索功能
 | act9d4 | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
 | act9login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
 | act9mini | 红松林 | Pinus Sylvestris | 赤松林 |
+| act9pray | 幸运墙登录活动 | - | - |
 | act9sre | 画中人·复刻 | Who Is Real - Rerun | 画中人·復刻 |

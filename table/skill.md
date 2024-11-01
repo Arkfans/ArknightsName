@@ -153,10 +153,15 @@ tip: 请善用浏览器的搜索功能
 | skchr_cqbw_1 | 红桃K | King of Hearts | ハートのK |
 | skchr_cqbw_2 | 惊吓盒子 | Jack in the Box | びっくり箱 |
 | skchr_cqbw_3 | D12 | D12 | D12 |
+| skchr_crosly_1 | 尘烟蔽目 | - | - |
+| skchr_crosly_2 | 硝烟震爆 | - | - |
+| skchr_crosly_3 | 烽烟行刑场 | - | - |
 | skchr_crow_1 | 高速切割 | Rapid Slashing | ソニックスラッシュ |
 | skchr_crow_2 | 收割 | Reap | リーピング |
 | skchr_ctable_1 | 观火 | Penetrating Gaze | 洞見 |
 | skchr_ctable_2 | 浮光 | Specular Reflection | 水光 |
+| skchr_ctrail_1 | 紧急升空 | - | - |
+| skchr_ctrail_2 | 掠空飞翎 | - | - |
 | skchr_cutter_1 | 红移 | Redshift | レッドシフト |
 | skchr_cutter_2 | 绯红刺刀 | Crimson Crescent | スカーレットエッジ |
 | skchr_cuttle_2 | 阻滞射击战术 | Interdictive Sniping Tactics | 脅威妨害戦術 |
@@ -476,6 +481,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_phenxi_1 | “你须直面” | 'Provocate' | 「直視せよ」 |
 | skchr_phenxi_2 | “你须愧悔” | 'Paenitete' | 「慚愧せよ」 |
 | skchr_phenxi_3 | “你须偿还” | 'Reponite' | 「償還せよ」 |
+| skchr_philae_1 | 灵河护佑 | - | - |
+| skchr_philae_2 | 冥河诅咒 | - | - |
 | skchr_pianst_1 | 纷飞十指 | Fingerfertigkeit | 超絶技巧 |
 | skchr_pianst_2 | 曲惊四座 | Meisterwerk | 万雷の喝采 |
 | skchr_pinecn_1 | RMA长钉 | RMA Spikes | RMAスパイク |
@@ -606,6 +613,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_tachak_2 | 倾泻弹药 | Spray and Pray | 制圧射撃 |
 | skchr_takila_1 | 当机立断 | Decisive Action | 即断即決 |
 | skchr_takila_2 | 剑走偏锋 | Esoteric Bladework | 極刃奇襲 |
+| skchr_talr_1 | 量衣尺 | - | - |
+| skchr_talr_2 | 缝线缠身 | - | - |
 | skchr_texas2_1 | 细雨无声 | Silent Drizzle | ピオヴィッジネ |
 | skchr_texas2_2 | 阵雨连绵 | Unrelenting Downpour | アクアツォーネ |
 | skchr_texas2_3 | 剑雨滂沱 | Torrential Sword Rain | ロヴェーショ |
@@ -647,6 +656,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_vodfox_2 | 诅咒娃娃 | Cursed Doll | 呪いの人形 |
 | skchr_vrdant_1 | 苍翠屏障 | Verdant Barrier | 蒼翠の鎧 |
 | skchr_vrdant_2 | 双刃毒藤 | Double-edged Poison Ivy | 藤の毒刃 |
+| skchr_vulpis_1 | 小施惩戒 | - | - |
+| skchr_vulpis_2 | 坠刃拷问 | - | - |
+| skchr_vulpis_3 | 隐狐之艺 | - | - |
 | skchr_vvana_1 | 光影迅捷剑 | Blade of Fleeting Shadows | 光影穿つ剣 |
 | skchr_vvana_2 | 烛燃影息 | Shadowed by Candlelight | 影払う燭火 |
 | skchr_vvana_3 | “明灭” | 'Flicker' | 「明滅」 |
@@ -662,6 +674,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_whispr_2 | 痛觉抑制 | Pain Suppression | 痛覚抑制 |
 | skchr_whitew_1 | 日晷 | Sundial | 影落とす時針 |
 | skchr_whitew_2 | 狼魂 | Wolf Spirit | 狼魂 |
+| skchr_whitw2_1 | 慵怠者悲鸣 | - | - |
+| skchr_whitw2_2 | 逐猎狂飙 | - | - |
+| skchr_whitw2_3 | 终幕·浩劫 | - | - |
 | skchr_wildmn_1 | 骑枪刺击 | Stabbing Lance | ラピッドランス |
 | skchr_wildmn_2 | 夹枪冲锋 | Lance Charge | ランスチャージ |
 | skchr_windft_1 | 此身为筑 | Machine Rapport | この身で築かす |
@@ -798,6 +813,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_cdshield | 镀膜 | Coating | コーティング |
 | sktok_cdshielda | 重整导能 | Redeployment Conduction | 再稼働 |
 | sktok_cdshieldb | 镀膜 | Coating | コーティング |
+| sktok_cnvfwks | “狂欢时刻！” | - | - |
 | sktok_condtr | 广域调谐 | Area Tuning | ﻿広域調律 |
 | sktok_cqbw_token | 受害者启动模式 | Victim Seeker | バッドラックXD |
 | sktok_crate | 阻挡路线 | Obstruct | 進路妨害 |

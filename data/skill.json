@@ -727,6 +727,15 @@
     "ja_JP": "D12",
     "zh_CN": "D12"
   },
+  "skchr_crosly_1": {
+    "zh_CN": "尘烟蔽目"
+  },
+  "skchr_crosly_2": {
+    "zh_CN": "硝烟震爆"
+  },
+  "skchr_crosly_3": {
+    "zh_CN": "烽烟行刑场"
+  },
   "skchr_crow_1": {
     "en_US": "Rapid Slashing",
     "ja_JP": "ソニックスラッシュ",
@@ -746,6 +755,12 @@
     "en_US": "Specular Reflection",
     "ja_JP": "水光",
     "zh_CN": "浮光"
+  },
+  "skchr_ctrail_1": {
+    "zh_CN": "紧急升空"
+  },
+  "skchr_ctrail_2": {
+    "zh_CN": "掠空飞翎"
   },
   "skchr_cutter_1": {
     "en_US": "Redshift",
@@ -2298,6 +2313,12 @@
     "ja_JP": "「償還せよ」",
     "zh_CN": "“你须偿还”"
   },
+  "skchr_philae_1": {
+    "zh_CN": "灵河护佑"
+  },
+  "skchr_philae_2": {
+    "zh_CN": "冥河诅咒"
+  },
   "skchr_pianst_1": {
     "en_US": "Fingerfertigkeit",
     "ja_JP": "超絶技巧",
@@ -2938,6 +2959,12 @@
     "ja_JP": "極刃奇襲",
     "zh_CN": "剑走偏锋"
   },
+  "skchr_talr_1": {
+    "zh_CN": "量衣尺"
+  },
+  "skchr_talr_2": {
+    "zh_CN": "缝线缠身"
+  },
   "skchr_texas2_1": {
     "en_US": "Silent Drizzle",
     "ja_JP": "ピオヴィッジネ",
@@ -3129,6 +3156,15 @@
     "ja_JP": "藤の毒刃",
     "zh_CN": "双刃毒藤"
   },
+  "skchr_vulpis_1": {
+    "zh_CN": "小施惩戒"
+  },
+  "skchr_vulpis_2": {
+    "zh_CN": "坠刃拷问"
+  },
+  "skchr_vulpis_3": {
+    "zh_CN": "隐狐之艺"
+  },
   "skchr_vvana_1": {
     "en_US": "Blade of Fleeting Shadows",
     "ja_JP": "光影穿つ剣",
@@ -3203,6 +3239,15 @@
     "en_US": "Wolf Spirit",
     "ja_JP": "狼魂",
     "zh_CN": "狼魂"
+  },
+  "skchr_whitw2_1": {
+    "zh_CN": "慵怠者悲鸣"
+  },
+  "skchr_whitw2_2": {
+    "zh_CN": "逐猎狂飙"
+  },
+  "skchr_whitw2_3": {
+    "zh_CN": "终幕·浩劫"
   },
   "skchr_wildmn_1": {
     "en_US": "Stabbing Lance",
@@ -3861,6 +3906,9 @@
     "en_US": "Coating",
     "ja_JP": "コーティング",
     "zh_CN": "镀膜"
+  },
+  "sktok_cnvfwks": {
+    "zh_CN": "“狂欢时刻！”"
   },
   "sktok_condtr": {
     "en_US": "Area Tuning",

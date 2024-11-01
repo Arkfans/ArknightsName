@@ -221,6 +221,12 @@
       "zh_CN": "历阵锐枪芬"
     }
   },
+  "char_1038_whitw2": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "荒芜拉普兰德"
+    }
+  },
   "char_103_angel": {
     "type": "OPERATOR",
     "names": {
@@ -499,6 +505,12 @@
       "en_US": "Scavenger",
       "ja_JP": "スカベンジャー",
       "zh_CN": "清道夫"
+    }
+  },
+  "char_1502_crosly": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "弑君者"
     }
   },
   "char_150_snakek": {
@@ -1749,6 +1761,12 @@
       "zh_CN": "暮落"
     }
   },
+  "char_4026_vulpis": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "忍冬"
+    }
+  },
   "char_4027_heyak": {
     "type": "OPERATOR",
     "names": {
@@ -2307,10 +2325,22 @@
       "zh_CN": "渡桥"
     }
   },
+  "char_4148_philae": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "菲莱"
+    }
+  },
   "char_4151_tinman": {
     "type": "OPERATOR",
     "names": {
       "zh_CN": "锡人"
+    }
+  },
+  "char_4155_talr": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "裁度"
     }
   },
   "char_415_flint": {
@@ -2325,6 +2355,12 @@
     "type": "OPERATOR",
     "names": {
       "zh_CN": "凯瑟琳"
+    }
+  },
+  "char_4165_ctrail": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "云迹"
     }
   },
   "char_416_zumama": {
@@ -4543,6 +4579,12 @@
       "zh_CN": "黄金回响"
     }
   },
+  "trap_186_cnvfwks": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "烟花发射器"
+    }
+  },
   "trap_400_xbfarm": {
     "type": "TRAP",
     "names": {
@@ -6127,6 +6169,12 @@
       "zh_CN": "演出后的王子"
     }
   },
+  "char_1028_texas2@epoque#36": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "幽兰秘辛"
+    }
+  },
   "char_1028_texas2@iteration#1": {
     "type": "SKIN",
     "names": {
@@ -6155,6 +6203,12 @@
     "type": "SKIN",
     "names": {
       "zh_CN": "栖息"
+    }
+  },
+  "char_1032_excu2@sale#12": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "众志归一"
     }
   },
   "char_1033_swire2@ambienceSynesthesia#4": {
@@ -7155,6 +7209,12 @@
       "zh_CN": "街道狂花"
     }
   },
+  "char_245_cello@sale#12": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "无我唯识"
+    }
+  },
   "char_248_mgllan@kitchen#1": {
     "type": "SKIN",
     "names": {
@@ -7461,6 +7521,12 @@
       "en_US": "Summer Flower FA026",
       "ja_JP": "夏の花弁FA026",
       "zh_CN": "夏卉 FA026"
+    }
+  },
+  "char_298_susuro@winter#4": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "随意而行"
     }
   },
   "char_300_phenxi@witch#4": {
@@ -8185,6 +8251,12 @@
       "en_US": "Heavenly Mirage",
       "ja_JP": "列瑶台",
       "zh_CN": "列瑶台"
+    }
+  },
+  "char_4081_warmy@winter#4": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "街角暖绒"
     }
   },
   "char_4082_qiubai@epoque#31": {
@@ -9245,6 +9317,114 @@
       "zh_CN": "冲击式施术单元"
     }
   },
+  "enemy_10031_cnvsld": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "业余竞演者"
+    }
+  },
+  "enemy_10031_cnvsld_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "专业竞演者"
+    }
+  },
+  "enemy_10032_cnvsnp": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "礼花零售商"
+    }
+  },
+  "enemy_10032_cnvsnp_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "礼花经销商"
+    }
+  },
+  "enemy_10033_cnvbsk": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "街头火舞艺人"
+    }
+  },
+  "enemy_10033_cnvbsk_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "街头火舞明星"
+    }
+  },
+  "enemy_10034_cnvsax": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "节日爵士乐手"
+    }
+  },
+  "enemy_10034_cnvsax_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "巡游爵士乐手"
+    }
+  },
+  "enemy_10035_cnvdnc": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "热烈舞团独舞者"
+    }
+  },
+  "enemy_10035_cnvdnc_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "热烈舞团领舞者"
+    }
+  },
+  "enemy_10036_cnvpvd": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "节日零食商贩"
+    }
+  },
+  "enemy_10036_cnvpvd_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "巡游零食商贩"
+    }
+  },
+  "enemy_10037_cnvpcar": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "节日零食车"
+    }
+  },
+  "enemy_10037_cnvpcar_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "巡游零食车"
+    }
+  },
+  "enemy_10038_cnvpiz": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“方便快餐”"
+    }
+  },
+  "enemy_10038_cnvpiz_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“美食速递”"
+    }
+  },
+  "enemy_10039_cnvber": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“开怀畅饮”"
+    }
+  },
+  "enemy_10039_cnvber_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“醉后狂欢”"
+    }
+  },
   "enemy_1003_ncbow": {
     "type": "ENEMY",
     "names": {
@@ -9259,6 +9439,18 @@
       "en_US": "Crossbowman Leader",
       "ja_JP": "射撃隊長",
       "zh_CN": "弩手组长"
+    }
+  },
+  "enemy_10040_cnvbln": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "节日气球"
+    }
+  },
+  "enemy_10040_cnvbln_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "巡游气球"
     }
   },
   "enemy_1004_mslime": {
@@ -16303,6 +16495,12 @@
       "zh_CN": "阿利斯泰尔，帝国余晖"
     }
   },
+  "enemy_1560_cnvlap": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“狂欢之主”"
+    }
+  },
   "enemy_2001_duckmi": {
     "type": "ENEMY",
     "names": {
@@ -18637,6 +18835,12 @@
       "zh_CN": "叙拉古人·复刻"
     }
   },
+  "act22login": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "限定池送10连"
+    }
+  },
   "act22side": {
     "type": "ACTIVITY",
     "names": {
@@ -19001,6 +19205,12 @@
       "zh_CN": "尖灭测试作战"
     }
   },
+  "act38side": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "揭幕者们"
+    }
+  },
   "act38sign": {
     "type": "ACTIVITY",
     "names": {
@@ -19121,6 +19331,12 @@
     "type": "ACTIVITY",
     "names": {
       "zh_CN": "感谢庆典前瞻签到"
+    }
+  },
+  "act46sign": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "感谢庆典限时签到"
     }
   },
   "act4bossrush": {
@@ -19410,6 +19626,12 @@
       "en_US": "Pinus Sylvestris",
       "ja_JP": "赤松林",
       "zh_CN": "红松林"
+    }
+  },
+  "act9pray": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "幸运墙登录活动"
     }
   },
   "act9sre": {
@@ -20912,6 +21134,12 @@
       "zh_CN": "璀璨闪耀寻访凭证"
     }
   },
+  "LIMITED_TKT_GACHA_10_5601": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "荒芜探戈寻访凭证"
+    }
+  },
   "LIMITED_TKT_GACHA_10_903": {
     "type": "ITEM",
     "names": {
@@ -21079,6 +21307,12 @@
     }
   },
   "LMTGS_COIN_5301": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "寻访数据契约"
+    }
+  },
+  "LMTGS_COIN_5601": {
     "type": "ITEM",
     "names": {
       "zh_CN": "寻访数据契约"
@@ -22062,6 +22296,12 @@
       "en_US": "Crystalized Originium",
       "ja_JP": "結晶化源石",
       "zh_CN": "晶化源石"
+    }
+  },
+  "act38side_token_ticket": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "匿名邀请函"
     }
   },
   "act3bossrush_milestone_point": {
@@ -24569,6 +24809,12 @@
       "zh_CN": "历阵锐枪芬的信物"
     }
   },
+  "p_char_1038_whitw2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "荒芜拉普兰德的信物"
+    }
+  },
   "p_char_103_angel": {
     "type": "ITEM",
     "names": {
@@ -24847,6 +25093,12 @@
       "en_US": "Scavenger's Token",
       "ja_JP": "スカベンジャーの印",
       "zh_CN": "清道夫的信物"
+    }
+  },
+  "p_char_1502_crosly": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "弑君者的信物"
     }
   },
   "p_char_150_snakek": {
@@ -26009,6 +26261,12 @@
       "zh_CN": "温蒂的信物"
     }
   },
+  "p_char_4011_lessng": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "止颂的信物"
+    }
+  },
   "p_char_4013_kjera": {
     "type": "ITEM",
     "names": {
@@ -26071,6 +26329,12 @@
       "en_US": "Shalem's Token",
       "ja_JP": "シャレムの印",
       "zh_CN": "暮落的信物"
+    }
+  },
+  "p_char_4026_vulpis": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "忍冬的信物"
     }
   },
   "p_char_4027_heyak": {
@@ -26615,10 +26879,22 @@
       "zh_CN": "渡桥的信物"
     }
   },
+  "p_char_4148_philae": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "菲莱的信物"
+    }
+  },
   "p_char_4151_tinman": {
     "type": "ITEM",
     "names": {
       "zh_CN": "锡人的信物"
+    }
+  },
+  "p_char_4155_talr": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "裁度的信物"
     }
   },
   "p_char_415_flint": {
@@ -26633,6 +26909,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "凯瑟琳的信物"
+    }
+  },
+  "p_char_4165_ctrail": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "云迹的信物"
     }
   },
   "p_char_416_zumama": {
@@ -27245,6 +27527,12 @@
       "zh_CN": "罗德岛物资补给VI"
     }
   },
+  "randomMaterial_act38side": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "狂欢烟花桶"
+    }
+  },
   "randomMaterial_leith2": {
     "type": "ITEM",
     "names": {
@@ -27333,6 +27621,12 @@
       "zh_CN": "ID信息更新卡"
     }
   },
+  "renamingCard_0_056": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "ID信息更新卡"
+    }
+  },
   "renamingCard_30_018": {
     "type": "ITEM",
     "names": {
@@ -27386,6 +27680,12 @@
     "names": {
       "en_US": "ID Info Update Card",
       "ja_JP": "ID情報更新カード",
+      "zh_CN": "ID信息更新卡"
+    }
+  },
+  "renamingCard_30_056": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "ID信息更新卡"
     }
   },
@@ -28197,6 +28497,12 @@
       "zh_CN": "自助芯片组印刻仪"
     }
   },
+  "voucher_class_pick5601": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "中坚高级干员调用凭证"
+    }
+  },
   "voucher_elite_II_4": {
     "type": "ITEM",
     "names": {
@@ -28497,6 +28803,12 @@
       "en_US": "Top Operator Transfer Permit",
       "ja_JP": "感謝祭記念★6招聘指名券",
       "zh_CN": "周年庆典干员凭证"
+    }
+  },
+  "voucher_item_pick5601": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "感谢庆典干员凭证"
     }
   },
   "voucher_item_pick601": {
@@ -29015,6 +29327,12 @@
     "type": "POOL",
     "names": {
       "zh_CN": "在流沙上刻印"
+    }
+  },
+  "LIMITED_56_0_1": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "恶人寥寥"
     }
   },
   "LIMITED_9_0_3": {
@@ -31403,6 +31721,24 @@
       "zh_CN": "D12"
     }
   },
+  "skchr_crosly_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "尘烟蔽目"
+    }
+  },
+  "skchr_crosly_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "硝烟震爆"
+    }
+  },
+  "skchr_crosly_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "烽烟行刑场"
+    }
+  },
   "skchr_crow_1": {
     "type": "SKILL",
     "names": {
@@ -31433,6 +31769,18 @@
       "en_US": "Specular Reflection",
       "ja_JP": "水光",
       "zh_CN": "浮光"
+    }
+  },
+  "skchr_ctrail_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "紧急升空"
+    }
+  },
+  "skchr_ctrail_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "掠空飞翎"
     }
   },
   "skchr_cutter_1": {
@@ -33943,6 +34291,18 @@
       "zh_CN": "“你须偿还”"
     }
   },
+  "skchr_philae_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "灵河护佑"
+    }
+  },
+  "skchr_philae_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "冥河诅咒"
+    }
+  },
   "skchr_pianst_1": {
     "type": "SKILL",
     "names": {
@@ -34973,6 +35333,18 @@
       "zh_CN": "剑走偏锋"
     }
   },
+  "skchr_talr_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "量衣尺"
+    }
+  },
+  "skchr_talr_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "缝线缠身"
+    }
+  },
   "skchr_texas2_1": {
     "type": "SKILL",
     "names": {
@@ -35287,6 +35659,24 @@
       "zh_CN": "双刃毒藤"
     }
   },
+  "skchr_vulpis_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "小施惩戒"
+    }
+  },
+  "skchr_vulpis_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "坠刃拷问"
+    }
+  },
+  "skchr_vulpis_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "隐狐之艺"
+    }
+  },
   "skchr_vvana_1": {
     "type": "SKILL",
     "names": {
@@ -35405,6 +35795,24 @@
       "en_US": "Wolf Spirit",
       "ja_JP": "狼魂",
       "zh_CN": "狼魂"
+    }
+  },
+  "skchr_whitw2_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "慵怠者悲鸣"
+    }
+  },
+  "skchr_whitw2_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "逐猎狂飙"
+    }
+  },
+  "skchr_whitw2_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "终幕·浩劫"
     }
   },
   "skchr_wildmn_1": {
@@ -36471,6 +36879,12 @@
       "en_US": "Coating",
       "ja_JP": "コーティング",
       "zh_CN": "镀膜"
+    }
+  },
+  "sktok_cnvfwks": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“狂欢时刻！”"
     }
   },
   "sktok_condtr": {
@@ -44233,6 +44647,114 @@
       "zh_CN": "物资难题"
     }
   },
+  "act38side_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "失途"
+    }
+  },
+  "act38side_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "择路"
+    }
+  },
+  "act38side_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "恶客盈门"
+    }
+  },
+  "act38side_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "体面来宾"
+    }
+  },
+  "act38side_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "“致新生活”"
+    }
+  },
+  "act38side_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "“复仇于我”"
+    }
+  },
+  "act38side_07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "揭幕时刻"
+    }
+  },
+  "act38side_08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "无私铁棘"
+    }
+  },
+  "act38side_09": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "狼群与群狼"
+    }
+  },
+  "act38side_10": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "铳响"
+    }
+  },
+  "act38side_sp01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "试演烟花秀"
+    }
+  },
+  "act38side_sp02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "即兴烟花秀"
+    }
+  },
+  "act38side_sp03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "狂欢之夜烟花秀"
+    }
+  },
+  "act38side_st01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "《新都市管理法案》"
+    }
+  },
+  "act38side_st02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "《复仇禁制令》"
+    }
+  },
+  "act38side_st03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "《狂欢节章程》"
+    }
+  },
+  "act38side_st04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "《管理法修正案》"
+    }
+  },
+  "act38side_tr01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "《烟花燃放须知》"
+    }
+  },
   "act3bossrush_01": {
     "type": "STAGE",
     "names": {
@@ -50313,6 +50835,24 @@
       "zh_CN": "未了往昔"
     }
   },
+  "act38side_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "四幕汇演"
+    }
+  },
+  "act38side_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "彩车游行"
+    }
+  },
+  "act38side_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "荒芜之舞"
+    }
+  },
   "act3bossrush_zone1": {
     "type": "ZONE",
     "names": {
@@ -51449,6 +51989,12 @@
       "zh_CN": "晚霞下的演奏"
     }
   },
+  "story_bdhkgt_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "最后的比武"
+    }
+  },
   "story_beewax_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -52491,6 +53037,12 @@
       "zh_CN": "司雷霆者"
     }
   },
+  "story_lessng_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "共同建设乌提卡领"
+    }
+  },
   "story_leto_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -53135,6 +53687,12 @@
       "zh_CN": "离乡之日"
     }
   },
+  "story_shwaz_set_2_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "普通的一天"
+    }
+  },
   "story_sidero_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -53269,6 +53827,12 @@
       "en_US": "Distance",
       "ja_JP": "距離",
       "zh_CN": "距离"
+    }
+  },
+  "story_sora_set_2_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "向舞台前进"
     }
   },
   "story_spot_set_1_story_1": {
@@ -53455,6 +54019,12 @@
       "zh_CN": "计划"
     }
   },
+  "story_totter_set_2_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "归乡"
+    }
+  },
   "story_tuye_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -53477,6 +54047,12 @@
       "en_US": "Future Coming",
       "ja_JP": "訪れる未来",
       "zh_CN": "未来将至"
+    }
+  },
+  "story_vigil_set_2_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "双刃剑"
     }
   },
   "story_vigna_set_1_story_1": {

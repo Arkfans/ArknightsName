@@ -63,8 +63,28 @@ tip: 请善用浏览器的搜索功能
 | enemy_10029_vtshld | 防护背心 | - | - |
 | enemy_1002_nsabr | 士兵 | Soldier | 兵士 |
 | enemy_10030_vtwand | 冲击式施术单元 | - | - |
+| enemy_10031_cnvsld | 业余竞演者 | - | - |
+| enemy_10031_cnvsld_2 | 专业竞演者 | - | - |
+| enemy_10032_cnvsnp | 礼花零售商 | - | - |
+| enemy_10032_cnvsnp_2 | 礼花经销商 | - | - |
+| enemy_10033_cnvbsk | 街头火舞艺人 | - | - |
+| enemy_10033_cnvbsk_2 | 街头火舞明星 | - | - |
+| enemy_10034_cnvsax | 节日爵士乐手 | - | - |
+| enemy_10034_cnvsax_2 | 巡游爵士乐手 | - | - |
+| enemy_10035_cnvdnc | 热烈舞团独舞者 | - | - |
+| enemy_10035_cnvdnc_2 | 热烈舞团领舞者 | - | - |
+| enemy_10036_cnvpvd | 节日零食商贩 | - | - |
+| enemy_10036_cnvpvd_2 | 巡游零食商贩 | - | - |
+| enemy_10037_cnvpcar | 节日零食车 | - | - |
+| enemy_10037_cnvpcar_2 | 巡游零食车 | - | - |
+| enemy_10038_cnvpiz | “方便快餐” | - | - |
+| enemy_10038_cnvpiz_2 | “美食速递” | - | - |
+| enemy_10039_cnvber | “开怀畅饮” | - | - |
+| enemy_10039_cnvber_2 | “醉后狂欢” | - | - |
 | enemy_1003_ncbow | 弩手 | Crossbowman | 射撃兵 |
 | enemy_1003_ncbow_2 | 弩手组长 | Crossbowman Leader | 射撃隊長 |
+| enemy_10040_cnvbln | 节日气球 | - | - |
+| enemy_10040_cnvbln_2 | 巡游气球 | - | - |
 | enemy_1004_mslime | 酸液源石虫 | Acid Originium Slug | アシッドムシ |
 | enemy_1004_mslime_2 | 酸液源石虫·α | Acid Originium Slug α | アシッドムシα |
 | enemy_1005_yokai | 妖怪 | Monster | 怪鳥 |
@@ -952,6 +972,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1557_trcerb | “三头犬” | - | - |
 | enemy_1558_sgactr | 祖巴伊达姆，从往昔来 | - | - |
 | enemy_1559_vtlionk | 阿利斯泰尔，帝国余晖 | - | - |
+| enemy_1560_cnvlap | “狂欢之主” | - | - |
 | enemy_2001_duckmi | 鸭爵 | Duck Lord | ダック卿 |
 | enemy_2002_bearmi | 高普尼克 | Gopnik | ゴプニク |
 | enemy_2003_rockman | 迷路的巨像 | Lost Colossus | 迷子の巨像 |

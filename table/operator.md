@@ -33,6 +33,7 @@ tip: 请善用浏览器的搜索功能
 | char_1034_jesca2 | 涤火杰西卡 | Jessica the Liberated | 滌火ジェシカ |
 | char_1035_wisdel | 维什戴尔 | Wiš'adel | ウィシャデル |
 | char_1036_fang2 | 历阵锐枪芬 | Fang the Fire-Sharpened | 歴陣鋭槍フェン |
+| char_1038_whitw2 | 荒芜拉普兰德 | - | - |
 | char_103_angel | 能天使 | Exusiai | エクシア |
 | char_106_franka | 芙兰卡 | Franka | フランカ |
 | char_107_liskam | 雷蛇 | Liskarm | リスカム |
@@ -68,6 +69,7 @@ tip: 请善用浏览器的搜索功能
 | char_147_shining | 闪灵 | Shining | シャイニング |
 | char_148_nearl | 临光 | Nearl | ニアール |
 | char_149_scave | 清道夫 | Scavenger | スカベンジャー |
+| char_1502_crosly | 弑君者 | - | - |
 | char_150_snakek | 蛇屠箱 | Cuora | クオーラ |
 | char_151_myrtle | 桃金娘 | Myrtle | テンニンカ |
 | char_154_morgan | 摩根 | Morgan | モーガン |
@@ -224,6 +226,7 @@ tip: 请善用浏览器的搜索功能
 | char_401_elysm | 极境 | Elysium | エリジウム |
 | char_4023_rfalcn | 红隼 | Kestrel | ケストレル |
 | char_4025_aprot2 | 暮落 | Shalem | シャレム |
+| char_4026_vulpis | 忍冬 | - | - |
 | char_4027_heyak | 霍尔海雅 | Ho'olheyak | ホルハイヤ |
 | char_402_tuye | 图耶 | Tuye | トゥイエ |
 | char_4032_provs | 但书 | Proviso | プロヴァイゾ |
@@ -297,9 +300,12 @@ tip: 请善用浏览器的搜索功能
 | char_4145_ulpia | 乌尔比安 | - | - |
 | char_4146_nymph | 妮芙 | - | - |
 | char_4147_mitm | 渡桥 | - | - |
+| char_4148_philae | 菲莱 | - | - |
 | char_4151_tinman | 锡人 | - | - |
+| char_4155_talr | 裁度 | - | - |
 | char_415_flint | 燧石 | Flint | フリント |
 | char_4162_cathy | 凯瑟琳 | - | - |
+| char_4165_ctrail | 云迹 | - | - |
 | char_416_zumama | 森蚺 | Eunectes | ユーネクテス |
 | char_420_flamtl | 焰尾 | Flametail | フレイムテイル |
 | char_421_crow | 羽毛笔 | La Pluma | ラ・プルマ |

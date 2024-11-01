@@ -109,6 +109,9 @@
     "ja_JP": "終演後の王子様",
     "zh_CN": "演出后的王子"
   },
+  "char_1028_texas2@epoque#36": {
+    "zh_CN": "幽兰秘辛"
+  },
   "char_1028_texas2@iteration#1": {
     "en_US": "Wingbreaker",
     "ja_JP": "ウィングブレイカー",
@@ -126,6 +129,9 @@
   },
   "char_1031_slent2@epoque#32": {
     "zh_CN": "栖息"
+  },
+  "char_1032_excu2@sale#12": {
+    "zh_CN": "众志归一"
   },
   "char_1033_swire2@ambienceSynesthesia#4": {
     "en_US": "Rhythmic Blocks",
@@ -747,6 +753,9 @@
     "ja_JP": "ストリートフラワー",
     "zh_CN": "街道狂花"
   },
+  "char_245_cello@sale#12": {
+    "zh_CN": "无我唯识"
+  },
   "char_248_mgllan@kitchen#1": {
     "en_US": "Shaved-Ice Memories",
     "ja_JP": "やみつきかき氷",
@@ -937,6 +946,9 @@
     "en_US": "Summer Flower FA026",
     "ja_JP": "夏の花弁FA026",
     "zh_CN": "夏卉 FA026"
+  },
+  "char_298_susuro@winter#4": {
+    "zh_CN": "随意而行"
   },
   "char_300_phenxi@witch#4": {
     "en_US": "Divine Oath",
@@ -1382,6 +1394,9 @@
     "en_US": "Heavenly Mirage",
     "ja_JP": "列瑶台",
     "zh_CN": "列瑶台"
+  },
+  "char_4081_warmy@winter#4": {
+    "zh_CN": "街角暖绒"
   },
   "char_4082_qiubai@epoque#31": {
     "en_US": "Courtesy",

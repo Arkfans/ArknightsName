@@ -722,6 +722,9 @@
   "LIMITED_TKT_GACHA_10_5301": {
     "zh_CN": "璀璨闪耀寻访凭证"
   },
+  "LIMITED_TKT_GACHA_10_5601": {
+    "zh_CN": "荒芜探戈寻访凭证"
+  },
   "LIMITED_TKT_GACHA_10_903": {
     "en_US": "Awakening Commemoration Permit",
     "ja_JP": "1周年記念10回スカウト券",
@@ -826,6 +829,9 @@
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_5301": {
+    "zh_CN": "寻访数据契约"
+  },
+  "LMTGS_COIN_5601": {
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_601": {
@@ -1429,6 +1435,9 @@
     "en_US": "Crystalized Originium",
     "ja_JP": "結晶化源石",
     "zh_CN": "晶化源石"
+  },
+  "act38side_token_ticket": {
+    "zh_CN": "匿名邀请函"
   },
   "act3bossrush_milestone_point": {
     "en_US": "Trial EXP",
@@ -2990,6 +2999,9 @@
     "ja_JP": "歴陣鋭槍フェンの印",
     "zh_CN": "历阵锐枪芬的信物"
   },
+  "p_char_1038_whitw2": {
+    "zh_CN": "荒芜拉普兰德的信物"
+  },
   "p_char_103_angel": {
     "en_US": "Exusiai's Token",
     "ja_JP": "エクシアの印",
@@ -3164,6 +3176,9 @@
     "en_US": "Scavenger's Token",
     "ja_JP": "スカベンジャーの印",
     "zh_CN": "清道夫的信物"
+  },
+  "p_char_1502_crosly": {
+    "zh_CN": "弑君者的信物"
   },
   "p_char_150_snakek": {
     "en_US": "Cuora's Token",
@@ -3890,6 +3905,9 @@
     "ja_JP": "ウィーディの印",
     "zh_CN": "温蒂的信物"
   },
+  "p_char_4011_lessng": {
+    "zh_CN": "止颂的信物"
+  },
   "p_char_4013_kjera": {
     "en_US": "Kjera's Token",
     "ja_JP": "イェラの印",
@@ -3929,6 +3947,9 @@
     "en_US": "Shalem's Token",
     "ja_JP": "シャレムの印",
     "zh_CN": "暮落的信物"
+  },
+  "p_char_4026_vulpis": {
+    "zh_CN": "忍冬的信物"
   },
   "p_char_4027_heyak": {
     "en_US": "Ho'olheyak's Token",
@@ -4259,8 +4280,14 @@
   "p_char_4147_mitm": {
     "zh_CN": "渡桥的信物"
   },
+  "p_char_4148_philae": {
+    "zh_CN": "菲莱的信物"
+  },
   "p_char_4151_tinman": {
     "zh_CN": "锡人的信物"
+  },
+  "p_char_4155_talr": {
+    "zh_CN": "裁度的信物"
   },
   "p_char_415_flint": {
     "en_US": "Flint's Token",
@@ -4269,6 +4296,9 @@
   },
   "p_char_4162_cathy": {
     "zh_CN": "凯瑟琳的信物"
+  },
+  "p_char_4165_ctrail": {
+    "zh_CN": "云迹的信物"
   },
   "p_char_416_zumama": {
     "en_US": "Eunectes' Token",
@@ -4649,6 +4679,9 @@
     "ja_JP": "補給物資・ロドスVI",
     "zh_CN": "罗德岛物资补给VI"
   },
+  "randomMaterial_act38side": {
+    "zh_CN": "狂欢烟花桶"
+  },
   "randomMaterial_leith2": {
     "en_US": "Investigation Resupply",
     "ja_JP": "調査補給",
@@ -4704,6 +4737,9 @@
     "ja_JP": "ID情報更新カード",
     "zh_CN": "ID信息更新卡"
   },
+  "renamingCard_0_056": {
+    "zh_CN": "ID信息更新卡"
+  },
   "renamingCard_30_018": {
     "en_US": "ID Info Update Card",
     "ja_JP": "ID情報更新カード",
@@ -4737,6 +4773,9 @@
   "renamingCard_30_050": {
     "en_US": "ID Info Update Card",
     "ja_JP": "ID情報更新カード",
+    "zh_CN": "ID信息更新卡"
+  },
+  "renamingCard_30_056": {
     "zh_CN": "ID信息更新卡"
   },
   "return_credit_token": {
@@ -5238,6 +5277,9 @@
     "ja_JP": "中級SoCセルフプリンター",
     "zh_CN": "自助芯片组印刻仪"
   },
+  "voucher_class_pick5601": {
+    "zh_CN": "中坚高级干员调用凭证"
+  },
   "voucher_elite_II_4": {
     "zh_CN": "专业干员特训邀请函"
   },
@@ -5422,6 +5464,9 @@
     "en_US": "Top Operator Transfer Permit",
     "ja_JP": "感謝祭記念★6招聘指名券",
     "zh_CN": "周年庆典干员凭证"
+  },
+  "voucher_item_pick5601": {
+    "zh_CN": "感谢庆典干员凭证"
   },
   "voucher_item_pick601": {
     "en_US": "Top Operator Transfer Permit",

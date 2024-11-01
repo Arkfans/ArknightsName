@@ -699,6 +699,24 @@ tip: 请善用浏览器的搜索功能
 | act37side_st01 | 历史的航向 | - | - |
 | act37side_st02 | 童话的结局 | - | - |
 | act37side_tr01 | 物资难题 | - | - |
+| act38side_01 | 失途 | - | - |
+| act38side_02 | 择路 | - | - |
+| act38side_03 | 恶客盈门 | - | - |
+| act38side_04 | 体面来宾 | - | - |
+| act38side_05 | “致新生活” | - | - |
+| act38side_06 | “复仇于我” | - | - |
+| act38side_07 | 揭幕时刻 | - | - |
+| act38side_08 | 无私铁棘 | - | - |
+| act38side_09 | 狼群与群狼 | - | - |
+| act38side_10 | 铳响 | - | - |
+| act38side_sp01 | 试演烟花秀 | - | - |
+| act38side_sp02 | 即兴烟花秀 | - | - |
+| act38side_sp03 | 狂欢之夜烟花秀 | - | - |
+| act38side_st01 | 《新都市管理法案》 | - | - |
+| act38side_st02 | 《复仇禁制令》 | - | - |
+| act38side_st03 | 《狂欢节章程》 | - | - |
+| act38side_st04 | 《管理法修正案》 | - | - |
+| act38side_tr01 | 《烟花燃放须知》 | - | - |
 | act3bossrush_01 | 适者生存 | Survival of the Fittest | 適者生存 |
 | act3bossrush_02 | 惊惧与血色 | Blood and Terror | 恐怖と血色 |
 | act3bossrush_03 | 不测之渊 | Deep in Danger | 不測の淵 |

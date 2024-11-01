@@ -168,6 +168,9 @@ tip: 请善用浏览器的搜索功能
 | act36side_zone2 | 走遍泰拉 | - | - |
 | act37side_zone1 | 无名之勋 | - | - |
 | act37side_zone2 | 未了往昔 | - | - |
+| act38side_zone1 | 四幕汇演 | - | - |
+| act38side_zone2 | 彩车游行 | - | - |
+| act38side_zone3 | 荒芜之舞 | - | - |
 | act3bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act4bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act5d0_zone1 | 下城区 | Downtown | 繁華街 |

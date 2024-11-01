@@ -150,6 +150,7 @@ tip: 请善用浏览器的搜索功能
 | LIMITED_TKT_GACHA_10_4701 | 时和岁丰寻访凭证 | Bountiful Harmony Headhunting Permit | 4.5周年記念10回スカウト券 |
 | LIMITED_TKT_GACHA_10_5001 | 残夜厝薪寻访凭证 | Dawn Enkindlers Headhunting Permit | 感謝祭記念10回スカウト券 |
 | LIMITED_TKT_GACHA_10_5301 | 璀璨闪耀寻访凭证 | - | - |
+| LIMITED_TKT_GACHA_10_5601 | 荒芜探戈寻访凭证 | - | - |
 | LIMITED_TKT_GACHA_10_903 | 苏醒纪念寻访凭证 | Awakening Commemoration Permit | 1周年記念10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_1701 | 特勤专家寻访凭证 | Expert Headhunting Permit | 精鋭小隊10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_3601 | 指引明路寻访凭证 | Scouting the Light Headhunting Permit | ハンター凱旋10回スカウト券 |
@@ -172,6 +173,7 @@ tip: 请善用浏览器的搜索功能
 | LMTGS_COIN_4701 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_5001 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_5301 | 寻访数据契约 | - | - |
+| LMTGS_COIN_5601 | 寻访数据契约 | - | - |
 | LMTGS_COIN_601 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_903 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | Logistics_Special_Permit | 后勤特别许可证 | Logistics Special Permit | 特別支援申請許可証 |
@@ -298,6 +300,7 @@ tip: 请善用浏览器的搜索功能
 | act36side_token_recipe | 今日食谱 | - | - |
 | act37side_token_nay | “我反对！” | - | - |
 | act38d1_token_coin | 晶化源石 | Crystalized Originium | 結晶化源石 |
+| act38side_token_ticket | 匿名邀请函 | - | - |
 | act3bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act3bossrush_relic_01 | 恢复增幅 | Recovery Boost | 癒しの増幅 |
 | act3bossrush_relic_02 | 扩大化战略 | Strategy Expansion | 拡大化戦略 |
@@ -616,6 +619,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_1034_jesca2 | 涤火杰西卡的信物 | Jessica the Liberated's Token | 滌火ジェシカの印 |
 | p_char_1035_wisdel | 维什戴尔的信物 | Wiš'adel's Token | ウィシャデルの印 |
 | p_char_1036_fang2 | 历阵锐枪芬的信物 | Fang the Fire-Sharpened's Token | 歴陣鋭槍フェンの印 |
+| p_char_1038_whitw2 | 荒芜拉普兰德的信物 | - | - |
 | p_char_103_angel | 能天使的信物 | Exusiai's Token | エクシアの印 |
 | p_char_106_franka | 芙兰卡的信物 | Franka's Token | フランカの印 |
 | p_char_107_liskam | 雷蛇的信物 | Liskarm's Token | リスカムの印 |
@@ -651,6 +655,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_147_shining | 闪灵的信物 | Shining's Token | シャイニングの印 |
 | p_char_148_nearl | 临光的信物 | Nearl's Token | ニアールの印 |
 | p_char_149_scave | 清道夫的信物 | Scavenger's Token | スカベンジャーの印 |
+| p_char_1502_crosly | 弑君者的信物 | - | - |
 | p_char_150_snakek | 蛇屠箱的信物 | Cuora's Token | クオーラの印 |
 | p_char_151_myrtle | 桃金娘的信物 | Myrtle's Token | テンニンカの印 |
 | p_char_154_morgan | 摩根的信物 | Morgan's Token | モーガンの印 |
@@ -796,6 +801,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4006_melnte | 玫拉的信物 | Melanite's Token | メラナイトの印 |
 | p_char_4009_irene | 艾丽妮的信物 | Irene's Token | アイリーニの印 |
 | p_char_400_weedy | 温蒂的信物 | Weedy's Token | ウィーディの印 |
+| p_char_4011_lessng | 止颂的信物 | - | - |
 | p_char_4013_kjera | 耶拉的信物 | Kjera's Token | イェラの印 |
 | p_char_4014_lunacu | 子月的信物 | Lunacub's Token | ルナカブの印 |
 | p_char_4015_spuria | 空构的信物 | Spuria's Token | スプリアの印 |
@@ -804,6 +810,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_401_elysm | 极境的信物 | Elysium's Token | エリジウムの印 |
 | p_char_4023_rfalcn | 红隼的信物 | Kestrel's Token | ケストレルの印 |
 | p_char_4025_aprot2 | 暮落的信物 | Shalem's Token | シャレムの印 |
+| p_char_4026_vulpis | 忍冬的信物 | - | - |
 | p_char_4027_heyak | 霍尔海雅的信物 | Ho'olheyak's Token | ホルハイヤの印 |
 | p_char_402_tuye | 图耶的信物 | Tuye's Token | トゥイエの印 |
 | p_char_4032_provs | 但书的信物 | Proviso's Token | プロヴァイゾの印 |
@@ -875,9 +882,12 @@ tip: 请善用浏览器的搜索功能
 | p_char_4145_ulpia | 乌尔比安的信物 | - | - |
 | p_char_4146_nymph | 妮芙的信物 | - | - |
 | p_char_4147_mitm | 渡桥的信物 | - | - |
+| p_char_4148_philae | 菲莱的信物 | - | - |
 | p_char_4151_tinman | 锡人的信物 | - | - |
+| p_char_4155_talr | 裁度的信物 | - | - |
 | p_char_415_flint | 燧石的信物 | Flint's Token | フリントの印 |
 | p_char_4162_cathy | 凯瑟琳的信物 | - | - |
+| p_char_4165_ctrail | 云迹的信物 | - | - |
 | p_char_416_zumama | 森蚺的信物 | Eunectes' Token | ユーネクテスの印 |
 | p_char_420_flamtl | 焰尾的信物 | Flametail's Token | フレイムテイルの印 |
 | p_char_421_crow | 羽毛笔的信物 | La Pluma's Token | ラ・プルマの印 |
@@ -955,6 +965,7 @@ tip: 请善用浏览器的搜索功能
 | randomMaterial_7 | 罗德岛物资补给IV | Rhodes Island Supplies IV | 補給物資・ロドスIV |
 | randomMaterial_8 | 罗德岛物资补给V | Rhodes Island Supplies V | 補給物資・ロドスV |
 | randomMaterial_9 | 罗德岛物资补给VI | Rhodes Island Supplies VI | 補給物資・ロドスVI |
+| randomMaterial_act38side | 狂欢烟花桶 | - | - |
 | randomMaterial_leith2 | 查访补给 | Investigation Resupply | 調査補給 |
 | randomMaterial_rhine2 | 技术调查补给 | Technological Investigation Supply | 技術調査補給 |
 | randomMaterial_siesta2 | 峯联贸易物流补给 | Mountaincomm Trade Supplies | フェンレン貿易物流補給 |
@@ -966,6 +977,7 @@ tip: 请善用浏览器的搜索功能
 | renamingCard_0_038 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
 | renamingCard_0_044 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
 | renamingCard_0_050 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
+| renamingCard_0_056 | ID信息更新卡 | - | - |
 | renamingCard_30_018 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
 | renamingCard_30_023 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
 | renamingCard_30_027 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
@@ -973,6 +985,7 @@ tip: 请善用浏览器的搜索功能
 | renamingCard_30_038 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
 | renamingCard_30_044 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
 | renamingCard_30_050 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
+| renamingCard_30_056 | ID信息更新卡 | - | - |
 | return_credit_token | 二次认证徽记 | Second Authentication Emblem | 二次認証徽章 |
 | return_credit_token2 | 二次认证徽记 | Second Authentication Emblem | 二次認証徽章 |
 | return_progress | 回流累登券 | Returnee Cumulative Login Ticket | リターン累計ログインチケット |
@@ -1076,6 +1089,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_chip | 芯片自助打印盒 | Automatic Chip Printer | 初級SoCセルフプリンター |
 | voucher_chipPack | 芯片组自助打印盒 | Automatic Chip Pack Printer | 中級SoCセルフプリンター |
 | voucher_chipPackage | 自助芯片组印刻仪 | Automatic Chip Pack Etcher | 中級SoCセルフプリンター |
+| voucher_class_pick5601 | 中坚高级干员调用凭证 | - | - |
 | voucher_elite_II_4 | 专业干员特训邀请函 | - | - |
 | voucher_elite_II_5 | 资深干员特训邀请函 | Senior Operator Training Invitation Letter | ★5特訓招待状 |
 | voucher_elite_II_6 | 高级资深干员特训邀请函 | Advanced Senior Operator Training Invitation Letter | ★6特訓招待状 |
@@ -1115,6 +1129,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_item_pick3801 | 周年庆典干员凭证 | Top Operator Transfer Permit | 感謝祭記念★6招聘指名券 |
 | voucher_item_pick4401 | 感谢庆典干员凭证 | Thank-You Celebration Operator Permit | 感謝祭記念★6招聘指名券 |
 | voucher_item_pick5001 | 周年庆典干员凭证 | Top Operator Transfer Permit | 感謝祭記念★6招聘指名券 |
+| voucher_item_pick5601 | 感谢庆典干员凭证 | - | - |
 | voucher_item_pick601 | 高级干员调用凭证 | Top Operator Transfer Permit | ★6招聘指名券 |
 | voucher_lessng | 止颂的文件夹 | Lessing's Folder | レッシングの書類入れ |
 | voucher_levelmax_5 | 资深干员特训装置 | Senior Operator Training Apparatus | ★5特訓装置 |

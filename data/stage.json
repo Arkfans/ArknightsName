@@ -3285,6 +3285,60 @@
   "act37side_tr01": {
     "zh_CN": "物资难题"
   },
+  "act38side_01": {
+    "zh_CN": "失途"
+  },
+  "act38side_02": {
+    "zh_CN": "择路"
+  },
+  "act38side_03": {
+    "zh_CN": "恶客盈门"
+  },
+  "act38side_04": {
+    "zh_CN": "体面来宾"
+  },
+  "act38side_05": {
+    "zh_CN": "“致新生活”"
+  },
+  "act38side_06": {
+    "zh_CN": "“复仇于我”"
+  },
+  "act38side_07": {
+    "zh_CN": "揭幕时刻"
+  },
+  "act38side_08": {
+    "zh_CN": "无私铁棘"
+  },
+  "act38side_09": {
+    "zh_CN": "狼群与群狼"
+  },
+  "act38side_10": {
+    "zh_CN": "铳响"
+  },
+  "act38side_sp01": {
+    "zh_CN": "试演烟花秀"
+  },
+  "act38side_sp02": {
+    "zh_CN": "即兴烟花秀"
+  },
+  "act38side_sp03": {
+    "zh_CN": "狂欢之夜烟花秀"
+  },
+  "act38side_st01": {
+    "zh_CN": "《新都市管理法案》"
+  },
+  "act38side_st02": {
+    "zh_CN": "《复仇禁制令》"
+  },
+  "act38side_st03": {
+    "zh_CN": "《狂欢节章程》"
+  },
+  "act38side_st04": {
+    "zh_CN": "《管理法修正案》"
+  },
+  "act38side_tr01": {
+    "zh_CN": "《烟花燃放须知》"
+  },
   "act3bossrush_01": {
     "en_US": "Survival of the Fittest",
     "ja_JP": "適者生存",
