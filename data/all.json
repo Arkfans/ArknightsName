@@ -19339,6 +19339,12 @@
       "zh_CN": "感谢庆典限时签到"
     }
   },
+  "act47sign": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "感谢庆典补给签到"
+    }
+  },
   "act4bossrush": {
     "type": "ACTIVITY",
     "names": {
