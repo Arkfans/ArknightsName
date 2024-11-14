@@ -720,12 +720,18 @@
     "zh_CN": "幽影门扉"
   },
   "trap_151_muruinw": {
+    "en_US": "Foldable Bastion",
+    "ja_JP": "競技用格納式高台",
     "zh_CN": "折叠式堡垒模块"
   },
   "trap_152_muruino": {
+    "en_US": "Foldable Auxiliary Apparatus",
+    "ja_JP": "競技用格納式防壁",
     "zh_CN": "折叠式辅助器械"
   },
   "trap_154_mugtps": {
+    "en_US": "Positional Barrier",
+    "ja_JP": "陣地障壁",
     "zh_CN": "阵地屏障"
   },
   "trap_155_aegiret": {
@@ -771,15 +777,23 @@
     "zh_CN": "振奋荣光"
   },
   "trap_165_muftbl": {
+    "en_US": "Football",
+    "ja_JP": "サッカーボール",
     "zh_CN": "足球"
   },
   "trap_166_muwork": {
+    "en_US": "Foldable Facility Maintainer",
+    "ja_JP": "競技装置整備士",
     "zh_CN": "折叠设施维护员"
   },
   "trap_167_muruinf": {
+    "en_US": "Foldable Maintenance Vehicle",
+    "ja_JP": "競技用格納式整備車",
     "zh_CN": "折叠式维护车"
   },
   "trap_169_muruinb": {
+    "en_US": "Foldable Logistics Hub",
+    "ja_JP": "競技用格納式支援所",
     "zh_CN": "折叠式后勤站"
   },
   "trap_171_trpot": {
@@ -807,6 +821,8 @@
     "zh_CN": "“宝箱”"
   },
   "trap_179_muctrl": {
+    "en_US": "Icebreaker Games Control",
+    "ja_JP": "協心競技制御装置",
     "zh_CN": "促融共竞控制"
   },
   "trap_180_dsblock": {

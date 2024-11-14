@@ -916,12 +916,12 @@ tip: 请善用浏览器的搜索功能
 | sktok_motter_1 | 迷惑装置 | Bionic Device | 攪乱装置 |
 | sktok_motter_2 | 爆破回收 | Detonate and Recycle | ミーボ起爆 |
 | sktok_mound | 风沙掩体 | Sandstorm Protection | 防風壁 |
-| sktok_muctrl | 促融共竞控制 | - | - |
-| sktok_muftbl | 重新发球！ | - | - |
-| sktok_muruinb | 后勤维护 | - | - |
-| sktok_muruinf | 维护员 | - | - |
-| sktok_muruino | 器械维护 | - | - |
-| sktok_muruinw | 模块维护 | - | - |
+| sktok_muctrl | 促融共竞控制 | Icebreaker Games Control | 協心競技制御装置 |
+| sktok_muftbl | 重新发球！ | Kickoff! | キックオフ！ |
+| sktok_muruinb | 后勤维护 | Logistical Maintenance | 支援所展開 |
+| sktok_muruinf | 维护员 | Maintainer | 整備士 |
+| sktok_muruino | 器械维护 | Equipment Maintenance | 防壁展開 |
+| sktok_muruinw | 模块维护 | Module Maintenance | 高台展開 |
 | sktok_nearl2_3 | “耀阳” | 'Blazing Sun' | 「ブレイジング・サン」 |
 | sktok_neonlamp | 文明的光芒 | The Light of Civilization | 「文明の灯火」 |
 | sktok_normbox | 诱人珍宝 | Alluring Treasures | 財宝のいざない |

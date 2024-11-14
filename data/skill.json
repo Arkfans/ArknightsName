@@ -4399,21 +4399,33 @@
     "zh_CN": "风沙掩体"
   },
   "sktok_muctrl": {
+    "en_US": "Icebreaker Games Control",
+    "ja_JP": "協心競技制御装置",
     "zh_CN": "促融共竞控制"
   },
   "sktok_muftbl": {
+    "en_US": "Kickoff!",
+    "ja_JP": "キックオフ！",
     "zh_CN": "重新发球！"
   },
   "sktok_muruinb": {
+    "en_US": "Logistical Maintenance",
+    "ja_JP": "支援所展開",
     "zh_CN": "后勤维护"
   },
   "sktok_muruinf": {
+    "en_US": "Maintainer",
+    "ja_JP": "整備士",
     "zh_CN": "维护员"
   },
   "sktok_muruino": {
+    "en_US": "Equipment Maintenance",
+    "ja_JP": "防壁展開",
     "zh_CN": "器械维护"
   },
   "sktok_muruinw": {
+    "en_US": "Module Maintenance",
+    "ja_JP": "高台展開",
     "zh_CN": "模块维护"
   },
   "sktok_nearl2_3": {

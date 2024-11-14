@@ -4378,18 +4378,24 @@
   "trap_151_muruinw": {
     "type": "TRAP",
     "names": {
+      "en_US": "Foldable Bastion",
+      "ja_JP": "競技用格納式高台",
       "zh_CN": "折叠式堡垒模块"
     }
   },
   "trap_152_muruino": {
     "type": "TRAP",
     "names": {
+      "en_US": "Foldable Auxiliary Apparatus",
+      "ja_JP": "競技用格納式防壁",
       "zh_CN": "折叠式辅助器械"
     }
   },
   "trap_154_mugtps": {
     "type": "TRAP",
     "names": {
+      "en_US": "Positional Barrier",
+      "ja_JP": "陣地障壁",
       "zh_CN": "阵地屏障"
     }
   },
@@ -4468,24 +4474,32 @@
   "trap_165_muftbl": {
     "type": "TRAP",
     "names": {
+      "en_US": "Football",
+      "ja_JP": "サッカーボール",
       "zh_CN": "足球"
     }
   },
   "trap_166_muwork": {
     "type": "TRAP",
     "names": {
+      "en_US": "Foldable Facility Maintainer",
+      "ja_JP": "競技装置整備士",
       "zh_CN": "折叠设施维护员"
     }
   },
   "trap_167_muruinf": {
     "type": "TRAP",
     "names": {
+      "en_US": "Foldable Maintenance Vehicle",
+      "ja_JP": "競技用格納式整備車",
       "zh_CN": "折叠式维护车"
     }
   },
   "trap_169_muruinb": {
     "type": "TRAP",
     "names": {
+      "en_US": "Foldable Logistics Hub",
+      "ja_JP": "競技用格納式支援所",
       "zh_CN": "折叠式后勤站"
     }
   },
@@ -4540,6 +4554,8 @@
   "trap_179_muctrl": {
     "type": "TRAP",
     "names": {
+      "en_US": "Icebreaker Games Control",
+      "ja_JP": "協心競技制御装置",
       "zh_CN": "促融共竞控制"
     }
   },
@@ -7856,6 +7872,8 @@
   "char_376_therex@marthe#7": {
     "type": "SKIN",
     "names": {
+      "en_US": "Dual-threat Quarterback",
+      "ja_JP": "スーパークォーターバック",
       "zh_CN": "双料四分卫"
     }
   },
@@ -17240,156 +17258,208 @@
   "enemy_4004_muvltr": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Supply Wagon",
+      "ja_JP": "会場補給カート",
       "zh_CN": "赛场补给车"
     }
   },
   "enemy_4004_muvltr_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Soda POP!' Supply Wagon",
+      "ja_JP": "「まき散らし」会場補給カート",
       "zh_CN": "“天车散花”赛场补给车"
     }
   },
   "enemy_4005_musqrl": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Musbeast Supplier",
+      "ja_JP": "鼷獣補給員",
       "zh_CN": "鼷兽补给员"
     }
   },
   "enemy_4005_musqrl_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Big Brawn' Musbeast Supplier",
+      "ja_JP": "「百万駄力」鼷獣補給員",
       "zh_CN": "“力大如驮”鼷兽补给员"
     }
   },
   "enemy_4006_mumole": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Sandbeast Supplier",
+      "ja_JP": "サンドビースト補給員",
       "zh_CN": "沙地兽补给员"
     }
   },
   "enemy_4006_mumole_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Faircare' Sandbeast Supplier",
+      "ja_JP": "「一視同仁」補給員",
       "zh_CN": "“雨露均沾”沙地兽补给员"
     }
   },
   "enemy_4007_murino": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Burdenbeast Supplier",
+      "ja_JP": "駄獣補給員",
       "zh_CN": "驮兽补给员"
     }
   },
   "enemy_4007_murino_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Timidthy' Burdenbeast Supplier",
+      "ja_JP": "「鼷心小胆」駄獣補給員",
       "zh_CN": "“胆小如鼷”驮兽补给员"
     }
   },
   "enemy_4008_mucat": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Hammer Supplier",
+      "ja_JP": "メガハンマー補給員",
       "zh_CN": "重锤补给员"
     }
   },
   "enemy_4008_mucat_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Rampage' Hammer Supplier",
+      "ja_JP": "「縦横無尽」補給員",
       "zh_CN": "“横冲直撞”重锤补给员"
     }
   },
   "enemy_4009_murgby": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Ironhead Forward",
+      "ja_JP": "石頭ランニングバック",
       "zh_CN": "铁头前锋"
     }
   },
   "enemy_4009_murgby_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Charger' Ironhead Forward",
+      "ja_JP": "「勇猛果敢」ランニングバック",
       "zh_CN": "“一往无前”铁头前锋"
     }
   },
   "enemy_4010_mubsbl": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Long-Armed Pitcher",
+      "ja_JP": "豪腕ピッチャー",
       "zh_CN": "长臂投手"
     }
   },
   "enemy_4010_mubsbl_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'True Shot' Long-Armed Pitcher",
+      "ja_JP": "「精密機械」豪腕ピッチャー",
       "zh_CN": "“精准制导”长臂投手"
     }
   },
   "enemy_4012_mumssi": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Field Shooter",
+      "ja_JP": "ポジションストライカー",
       "zh_CN": "阵地击球手"
     }
   },
   "enemy_4012_mumssi_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Longshot' Field Shooter",
+      "ja_JP": "「旋風脚」ストライカー",
       "zh_CN": "“脚脚生风”阵地击球手"
     }
   },
   "enemy_4013_mubufn": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Field Goalie",
+      "ja_JP": "ポジションキーパー",
       "zh_CN": "阵地守门员"
     }
   },
   "enemy_4013_mubufn_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Brain Barrier' Field Goalie",
+      "ja_JP": "「鉄壁頭」キーパー",
       "zh_CN": "“头头是门”阵地守门员"
     }
   },
   "enemy_4014_mugnfu": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Field Bludgeoner",
+      "ja_JP": "ポジションエースキラー",
       "zh_CN": "阵地击人手"
     }
   },
   "enemy_4014_mugnfu_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Basher' Field Bludgeoner",
+      "ja_JP": "「必殺槌」エースキラー",
       "zh_CN": "“锤锤到肉”阵地击人手"
     }
   },
   "enemy_4015_musucr": {
     "type": "ENEMY",
     "names": {
+      "en_US": "RMA70 Spikeball",
+      "ja_JP": "RMA70とげとげボール",
       "zh_CN": "RMA70刺球"
     }
   },
   "enemy_4016_mubuln": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Fluffy Pink Balloon",
+      "ja_JP": "ピンクもふもふボール",
       "zh_CN": "粉红绒气球"
     }
   },
   "enemy_4017_muinbl": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Compressed Ball",
+      "ja_JP": "圧縮建材ボール",
       "zh_CN": "压缩建材球"
     }
   },
   "enemy_4018_muboom": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Infused Originium Ball",
+      "ja_JP": "バクダンムシボール",
       "zh_CN": "高能源石球"
     }
   },
   "enemy_4019_mugold": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Originite Prime Ball",
+      "ja_JP": "純正源石ボール",
       "zh_CN": "至纯源石球"
     }
   },
   "enemy_4020_muboun": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Perpetual Rebounder",
+      "ja_JP": "天地に揺蕩うボール",
       "zh_CN": "无垠回荡球"
     }
   },
@@ -19074,6 +19144,8 @@
   "act2vmulti": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Rhodes Island Icebreaker Games",
+      "ja_JP": "ロドス協心競技",
       "zh_CN": "罗德岛促融共竞"
     }
   },
@@ -22237,6 +22309,8 @@
   "act2vmulti_token_cap": {
     "type": "ITEM",
     "names": {
+      "en_US": "Memento",
+      "ja_JP": "参加記念",
       "zh_CN": "参赛纪念"
     }
   },
@@ -30289,6 +30363,13 @@
       "ja_JP": "先途追想"
     }
   },
+  "_NORM_30_0_7": {
+    "type": "POOL",
+    "names": {
+      "en_US": "Joint Operation",
+      "ja_JP": "連合作戦"
+    }
+  },
   "_NORM_3_0_1": {
     "type": "POOL",
     "names": {
@@ -37690,36 +37771,48 @@
   "sktok_muctrl": {
     "type": "SKILL",
     "names": {
+      "en_US": "Icebreaker Games Control",
+      "ja_JP": "協心競技制御装置",
       "zh_CN": "促融共竞控制"
     }
   },
   "sktok_muftbl": {
     "type": "SKILL",
     "names": {
+      "en_US": "Kickoff!",
+      "ja_JP": "キックオフ！",
       "zh_CN": "重新发球！"
     }
   },
   "sktok_muruinb": {
     "type": "SKILL",
     "names": {
+      "en_US": "Logistical Maintenance",
+      "ja_JP": "支援所展開",
       "zh_CN": "后勤维护"
     }
   },
   "sktok_muruinf": {
     "type": "SKILL",
     "names": {
+      "en_US": "Maintainer",
+      "ja_JP": "整備士",
       "zh_CN": "维护员"
     }
   },
   "sktok_muruino": {
     "type": "SKILL",
     "names": {
+      "en_US": "Equipment Maintenance",
+      "ja_JP": "防壁展開",
       "zh_CN": "器械维护"
     }
   },
   "sktok_muruinw": {
     "type": "SKILL",
     "names": {
+      "en_US": "Module Maintenance",
+      "ja_JP": "高台展開",
       "zh_CN": "模块维护"
     }
   },
@@ -43756,84 +43849,112 @@
   "act2vmulti-01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Blaring Horns",
+      "ja_JP": "響けチアホーン",
       "zh_CN": "嘟嘟喇叭"
     }
   },
   "act2vmulti-02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Drills",
+      "ja_JP": "軍事訓練",
       "zh_CN": "军事化训练"
     }
   },
   "act2vmulti-03": {
     "type": "STAGE",
     "names": {
+      "en_US": "One-Way Course",
+      "ja_JP": "独占コース",
       "zh_CN": "单行赛道"
     }
   },
   "act2vmulti-04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Grand Avenue",
+      "ja_JP": "ウェルカムストリート",
       "zh_CN": "迎宾大道"
     }
   },
   "act2vmulti-05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Jog by Day, Dance by Night",
+      "ja_JP": "夜のダンスと朝のジョギング",
       "zh_CN": "夜舞与晨跑"
     }
   },
   "act2vmulti-06": {
     "type": "STAGE",
     "names": {
+      "en_US": "Night Knight",
+      "ja_JP": "闇夜の騎士",
       "zh_CN": "黑夜骑士"
     }
   },
   "act2vmulti-07": {
     "type": "STAGE",
     "names": {
+      "en_US": "Launch Site",
+      "ja_JP": "発射実験場",
       "zh_CN": "发射试验场"
     }
   },
   "act2vmulti-de01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Break Their Ranks",
+      "ja_JP": "入場の際は無秩序に",
       "zh_CN": "请无序入场"
     }
   },
   "act2vmulti-de02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Break Their Ranks",
+      "ja_JP": "入場の際は無秩序に",
       "zh_CN": "请无序入场"
     }
   },
   "act2vmulti-ft01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Power Shot",
+      "ja_JP": "全力全開の奇跡",
       "zh_CN": "大力出奇迹"
     }
   },
   "act2vmulti-ft02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Power Shot",
+      "ja_JP": "全力全開の奇跡",
       "zh_CN": "大力出奇迹"
     }
   },
   "act2vmulti-tr01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Tutorial - Regular Events",
+      "ja_JP": "TUT-通常種目",
       "zh_CN": "规则教学-常规项目"
     }
   },
   "act2vmulti-tr02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Tutorial - Positional Football",
+      "ja_JP": "TUT-ポジションサッカー",
       "zh_CN": "规则教学-阵地足球"
     }
   },
   "act2vmulti-tr03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Tutorial - Bastion Defense",
+      "ja_JP": "TUT-要塞ディフェンス",
       "zh_CN": "规则教学-堡垒守御"
     }
   },
@@ -46494,72 +46615,96 @@
   "lt_13_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Allegro Lamentoso",
+      "ja_JP": "心を抉るアレグロ",
       "zh_CN": "痛心的快板"
     }
   },
   "lt_13_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Sonata Triste",
+      "ja_JP": "悲しみのソナタ",
       "zh_CN": "心伤的奏鸣曲"
     }
   },
   "lt_13_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Adagio Dolente",
+      "ja_JP": "嘆きのアダージョ",
       "zh_CN": "伤悲的慢板"
     }
   },
   "lt_13_04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Minuetto Doloroso",
+      "ja_JP": "悲愁のメヌエット",
       "zh_CN": "悲愁的小步舞曲"
     }
   },
   "lt_13_05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Andante Lacrimoso",
+      "ja_JP": "憂鬱なアンダンテ",
       "zh_CN": "愁苦的行板"
     }
   },
   "lt_13_06": {
     "type": "STAGE",
     "names": {
+      "en_US": "Rondo Mesto",
+      "ja_JP": "苦痛のロンド",
       "zh_CN": "苦痛的回旋曲"
     }
   },
   "lt_14_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Unruly Escape",
+      "ja_JP": "勝手気ままな逃走",
       "zh_CN": "任性逃跑"
     }
   },
   "lt_14_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Citywide Bounty",
+      "ja_JP": "懸賞範囲全市内",
       "zh_CN": "全城悬赏"
     }
   },
   "lt_14_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "'Prize Claim'",
+      "ja_JP": "「賞金受取所」",
       "zh_CN": "“领奖处”"
     }
   },
   "lt_14_04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Freebie Frenzy",
+      "ja_JP": "噂を聞きつけて",
       "zh_CN": "闻风而来"
     }
   },
   "lt_14_05": {
     "type": "STAGE",
     "names": {
+      "en_US": "'Shopping Spree'",
+      "ja_JP": "セールは戦場",
       "zh_CN": "“大血拼”"
     }
   },
   "lt_14_06": {
     "type": "STAGE",
     "names": {
+      "en_US": "Grab 'Em All",
+      "ja_JP": "捕獲完了",
       "zh_CN": "尽入囊中"
     }
   },

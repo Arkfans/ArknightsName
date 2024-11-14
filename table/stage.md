@@ -570,20 +570,20 @@ tip: 请善用浏览器的搜索功能
 | act2bossrush_02 | 大块头和小不点 | Big and Small | デカとチビ |
 | act2bossrush_03 | 裂地重击 | Fissure Strike | 大地割れる一撃 |
 | act2bossrush_04 | 骄阳之影 | Proud Sun's Shadow | 燦陽の影 |
-| act2vmulti-01 | 嘟嘟喇叭 | - | - |
-| act2vmulti-02 | 军事化训练 | - | - |
-| act2vmulti-03 | 单行赛道 | - | - |
-| act2vmulti-04 | 迎宾大道 | - | - |
-| act2vmulti-05 | 夜舞与晨跑 | - | - |
-| act2vmulti-06 | 黑夜骑士 | - | - |
-| act2vmulti-07 | 发射试验场 | - | - |
-| act2vmulti-de01 | 请无序入场 | - | - |
-| act2vmulti-de02 | 请无序入场 | - | - |
-| act2vmulti-ft01 | 大力出奇迹 | - | - |
-| act2vmulti-ft02 | 大力出奇迹 | - | - |
-| act2vmulti-tr01 | 规则教学-常规项目 | - | - |
-| act2vmulti-tr02 | 规则教学-阵地足球 | - | - |
-| act2vmulti-tr03 | 规则教学-堡垒守御 | - | - |
+| act2vmulti-01 | 嘟嘟喇叭 | Blaring Horns | 響けチアホーン |
+| act2vmulti-02 | 军事化训练 | Drills | 軍事訓練 |
+| act2vmulti-03 | 单行赛道 | One-Way Course | 独占コース |
+| act2vmulti-04 | 迎宾大道 | Grand Avenue | ウェルカムストリート |
+| act2vmulti-05 | 夜舞与晨跑 | Jog by Day, Dance by Night | 夜のダンスと朝のジョギング |
+| act2vmulti-06 | 黑夜骑士 | Night Knight | 闇夜の騎士 |
+| act2vmulti-07 | 发射试验场 | Launch Site | 発射実験場 |
+| act2vmulti-de01 | 请无序入场 | Break Their Ranks | 入場の際は無秩序に |
+| act2vmulti-de02 | 请无序入场 | Break Their Ranks | 入場の際は無秩序に |
+| act2vmulti-ft01 | 大力出奇迹 | Power Shot | 全力全開の奇跡 |
+| act2vmulti-ft02 | 大力出奇迹 | Power Shot | 全力全開の奇跡 |
+| act2vmulti-tr01 | 规则教学-常规项目 | Tutorial - Regular Events | TUT-通常種目 |
+| act2vmulti-tr02 | 规则教学-阵地足球 | Tutorial - Positional Football | TUT-ポジションサッカー |
+| act2vmulti-tr03 | 规则教学-堡垒守御 | Tutorial - Bastion Defense | TUT-要塞ディフェンス |
 | act30side_01 | 注意事项 | Important Information | 乗車時のご注意 |
 | act30side_02 | 同车异图 | Same Train, Different Destination | 同乗異心 |
 | act30side_03 | 临时停车 | Temporary Stop | 臨時停車 |
@@ -934,18 +934,18 @@ tip: 请善用浏览器的搜索功能
 | lt_12_04 | 增幅呐喊 | Growing Vociferation | 高まる歓声 |
 | lt_12_05 | 冲上看台 | Bleachers Outrush | 観戦席への乱入 |
 | lt_12_06 | 阿卡胡拉之巅 | Acahuallan Peak | アカフラの頂 |
-| lt_13_01 | 痛心的快板 | - | - |
-| lt_13_02 | 心伤的奏鸣曲 | - | - |
-| lt_13_03 | 伤悲的慢板 | - | - |
-| lt_13_04 | 悲愁的小步舞曲 | - | - |
-| lt_13_05 | 愁苦的行板 | - | - |
-| lt_13_06 | 苦痛的回旋曲 | - | - |
-| lt_14_01 | 任性逃跑 | - | - |
-| lt_14_02 | 全城悬赏 | - | - |
-| lt_14_03 | “领奖处” | - | - |
-| lt_14_04 | 闻风而来 | - | - |
-| lt_14_05 | “大血拼” | - | - |
-| lt_14_06 | 尽入囊中 | - | - |
+| lt_13_01 | 痛心的快板 | Allegro Lamentoso | 心を抉るアレグロ |
+| lt_13_02 | 心伤的奏鸣曲 | Sonata Triste | 悲しみのソナタ |
+| lt_13_03 | 伤悲的慢板 | Adagio Dolente | 嘆きのアダージョ |
+| lt_13_04 | 悲愁的小步舞曲 | Minuetto Doloroso | 悲愁のメヌエット |
+| lt_13_05 | 愁苦的行板 | Andante Lacrimoso | 憂鬱なアンダンテ |
+| lt_13_06 | 苦痛的回旋曲 | Rondo Mesto | 苦痛のロンド |
+| lt_14_01 | 任性逃跑 | Unruly Escape | 勝手気ままな逃走 |
+| lt_14_02 | 全城悬赏 | Citywide Bounty | 懸賞範囲全市内 |
+| lt_14_03 | “领奖处” | 'Prize Claim' | 「賞金受取所」 |
+| lt_14_04 | 闻风而来 | Freebie Frenzy | 噂を聞きつけて |
+| lt_14_05 | “大血拼” | 'Shopping Spree' | セールは戦場 |
+| lt_14_06 | 尽入囊中 | Grab 'Em All | 捕獲完了 |
 | lt_15_01 | 术法冲锋 | - | - |
 | lt_15_02 | 精锐与光荣 | - | - |
 | lt_15_03 | 主要推进通道 | - | - |

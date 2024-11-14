@@ -149,9 +149,9 @@ tip: 请善用浏览器的搜索功能
 | trap_146_dhdcr | 天桩 | Sky Pole | 天杭 |
 | trap_147_spblls | 巫术弩炮 | Witchcraft Ballista | 巫術バリスタ |
 | trap_148_amblls | 幽影门扉 | Umbral Door | 幽影の扉 |
-| trap_151_muruinw | 折叠式堡垒模块 | - | - |
-| trap_152_muruino | 折叠式辅助器械 | - | - |
-| trap_154_mugtps | 阵地屏障 | - | - |
+| trap_151_muruinw | 折叠式堡垒模块 | Foldable Bastion | 競技用格納式高台 |
+| trap_152_muruino | 折叠式辅助器械 | Foldable Auxiliary Apparatus | 競技用格納式防壁 |
+| trap_154_mugtps | 阵地屏障 | Positional Barrier | 陣地障壁 |
 | trap_155_aegiret | 航道信标 | - | - |
 | trap_156_dsshell | 赘生甲壳 | - | - |
 | trap_157_bounc2 | 小帮手 | - | - |
@@ -162,10 +162,10 @@ tip: 请善用浏览器的搜索功能
 | trap_162_lrctrl | 十四章机制控制器 | EP14 Mechanics Controller | 第十四章ギミックコントローラー |
 | trap_163_foolcrate | 障碍物 | - | - |
 | trap_164_lrsiege | 振奋荣光 | Light of Glory | 奮い立つ栄光 |
-| trap_165_muftbl | 足球 | - | - |
-| trap_166_muwork | 折叠设施维护员 | - | - |
-| trap_167_muruinf | 折叠式维护车 | - | - |
-| trap_169_muruinb | 折叠式后勤站 | - | - |
+| trap_165_muftbl | 足球 | Football | サッカーボール |
+| trap_166_muwork | 折叠设施维护员 | Foldable Facility Maintainer | 競技装置整備士 |
+| trap_167_muruinf | 折叠式维护车 | Foldable Maintenance Vehicle | 競技用格納式整備車 |
+| trap_169_muruinb | 折叠式后勤站 | Foldable Logistics Hub | 競技用格納式支援所 |
 | trap_171_trpot | 很大的锅 | - | - |
 | trap_172_trbox | “宝箱” | - | - |
 | trap_173_slfrut | 闪亮果实 | - | - |
@@ -174,7 +174,7 @@ tip: 请善用浏览器的搜索功能
 | trap_176_frutwn | 缤纷果酒 | - | - |
 | trap_177_tentcl | 宝箱的肉？ | - | - |
 | trap_178_trrbox | “宝箱” | - | - |
-| trap_179_muctrl | 促融共竞控制 | - | - |
+| trap_179_muctrl | 促融共竞控制 | Icebreaker Games Control | 協心競技制御装置 |
 | trap_180_dsblock | 封印的地面 | - | - |
 | trap_181_sgray | 结晶消除桩 | - | - |
 | trap_182_sglink | 纯净结晶 | - | - |

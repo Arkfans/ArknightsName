@@ -2773,45 +2773,73 @@
     "zh_CN": "骄阳之影"
   },
   "act2vmulti-01": {
+    "en_US": "Blaring Horns",
+    "ja_JP": "響けチアホーン",
     "zh_CN": "嘟嘟喇叭"
   },
   "act2vmulti-02": {
+    "en_US": "Drills",
+    "ja_JP": "軍事訓練",
     "zh_CN": "军事化训练"
   },
   "act2vmulti-03": {
+    "en_US": "One-Way Course",
+    "ja_JP": "独占コース",
     "zh_CN": "单行赛道"
   },
   "act2vmulti-04": {
+    "en_US": "Grand Avenue",
+    "ja_JP": "ウェルカムストリート",
     "zh_CN": "迎宾大道"
   },
   "act2vmulti-05": {
+    "en_US": "Jog by Day, Dance by Night",
+    "ja_JP": "夜のダンスと朝のジョギング",
     "zh_CN": "夜舞与晨跑"
   },
   "act2vmulti-06": {
+    "en_US": "Night Knight",
+    "ja_JP": "闇夜の騎士",
     "zh_CN": "黑夜骑士"
   },
   "act2vmulti-07": {
+    "en_US": "Launch Site",
+    "ja_JP": "発射実験場",
     "zh_CN": "发射试验场"
   },
   "act2vmulti-de01": {
+    "en_US": "Break Their Ranks",
+    "ja_JP": "入場の際は無秩序に",
     "zh_CN": "请无序入场"
   },
   "act2vmulti-de02": {
+    "en_US": "Break Their Ranks",
+    "ja_JP": "入場の際は無秩序に",
     "zh_CN": "请无序入场"
   },
   "act2vmulti-ft01": {
+    "en_US": "Power Shot",
+    "ja_JP": "全力全開の奇跡",
     "zh_CN": "大力出奇迹"
   },
   "act2vmulti-ft02": {
+    "en_US": "Power Shot",
+    "ja_JP": "全力全開の奇跡",
     "zh_CN": "大力出奇迹"
   },
   "act2vmulti-tr01": {
+    "en_US": "Tutorial - Regular Events",
+    "ja_JP": "TUT-通常種目",
     "zh_CN": "规则教学-常规项目"
   },
   "act2vmulti-tr02": {
+    "en_US": "Tutorial - Positional Football",
+    "ja_JP": "TUT-ポジションサッカー",
     "zh_CN": "规则教学-阵地足球"
   },
   "act2vmulti-tr03": {
+    "en_US": "Tutorial - Bastion Defense",
+    "ja_JP": "TUT-要塞ディフェンス",
     "zh_CN": "规则教学-堡垒守御"
   },
   "act30side_01": {
@@ -4419,39 +4447,63 @@
     "zh_CN": "阿卡胡拉之巅"
   },
   "lt_13_01": {
+    "en_US": "Allegro Lamentoso",
+    "ja_JP": "心を抉るアレグロ",
     "zh_CN": "痛心的快板"
   },
   "lt_13_02": {
+    "en_US": "Sonata Triste",
+    "ja_JP": "悲しみのソナタ",
     "zh_CN": "心伤的奏鸣曲"
   },
   "lt_13_03": {
+    "en_US": "Adagio Dolente",
+    "ja_JP": "嘆きのアダージョ",
     "zh_CN": "伤悲的慢板"
   },
   "lt_13_04": {
+    "en_US": "Minuetto Doloroso",
+    "ja_JP": "悲愁のメヌエット",
     "zh_CN": "悲愁的小步舞曲"
   },
   "lt_13_05": {
+    "en_US": "Andante Lacrimoso",
+    "ja_JP": "憂鬱なアンダンテ",
     "zh_CN": "愁苦的行板"
   },
   "lt_13_06": {
+    "en_US": "Rondo Mesto",
+    "ja_JP": "苦痛のロンド",
     "zh_CN": "苦痛的回旋曲"
   },
   "lt_14_01": {
+    "en_US": "Unruly Escape",
+    "ja_JP": "勝手気ままな逃走",
     "zh_CN": "任性逃跑"
   },
   "lt_14_02": {
+    "en_US": "Citywide Bounty",
+    "ja_JP": "懸賞範囲全市内",
     "zh_CN": "全城悬赏"
   },
   "lt_14_03": {
+    "en_US": "'Prize Claim'",
+    "ja_JP": "「賞金受取所」",
     "zh_CN": "“领奖处”"
   },
   "lt_14_04": {
+    "en_US": "Freebie Frenzy",
+    "ja_JP": "噂を聞きつけて",
     "zh_CN": "闻风而来"
   },
   "lt_14_05": {
+    "en_US": "'Shopping Spree'",
+    "ja_JP": "セールは戦場",
     "zh_CN": "“大血拼”"
   },
   "lt_14_06": {
+    "en_US": "Grab 'Em All",
+    "ja_JP": "捕獲完了",
     "zh_CN": "尽入囊中"
   },
   "lt_15_01": {

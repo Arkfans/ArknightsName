@@ -559,9 +559,9 @@ tip: 请善用浏览器的搜索功能
 | trap_146_dhdcr | 天桩 | Sky Pole | 天杭 |
 | trap_147_spblls | 巫术弩炮 | Witchcraft Ballista | 巫術バリスタ |
 | trap_148_amblls | 幽影门扉 | Umbral Door | 幽影の扉 |
-| trap_151_muruinw | 折叠式堡垒模块 | - | - |
-| trap_152_muruino | 折叠式辅助器械 | - | - |
-| trap_154_mugtps | 阵地屏障 | - | - |
+| trap_151_muruinw | 折叠式堡垒模块 | Foldable Bastion | 競技用格納式高台 |
+| trap_152_muruino | 折叠式辅助器械 | Foldable Auxiliary Apparatus | 競技用格納式防壁 |
+| trap_154_mugtps | 阵地屏障 | Positional Barrier | 陣地障壁 |
 | trap_155_aegiret | 航道信标 | - | - |
 | trap_156_dsshell | 赘生甲壳 | - | - |
 | trap_157_bounc2 | 小帮手 | - | - |
@@ -572,10 +572,10 @@ tip: 请善用浏览器的搜索功能
 | trap_162_lrctrl | 十四章机制控制器 | EP14 Mechanics Controller | 第十四章ギミックコントローラー |
 | trap_163_foolcrate | 障碍物 | - | - |
 | trap_164_lrsiege | 振奋荣光 | Light of Glory | 奮い立つ栄光 |
-| trap_165_muftbl | 足球 | - | - |
-| trap_166_muwork | 折叠设施维护员 | - | - |
-| trap_167_muruinf | 折叠式维护车 | - | - |
-| trap_169_muruinb | 折叠式后勤站 | - | - |
+| trap_165_muftbl | 足球 | Football | サッカーボール |
+| trap_166_muwork | 折叠设施维护员 | Foldable Facility Maintainer | 競技装置整備士 |
+| trap_167_muruinf | 折叠式维护车 | Foldable Maintenance Vehicle | 競技用格納式整備車 |
+| trap_169_muruinb | 折叠式后勤站 | Foldable Logistics Hub | 競技用格納式支援所 |
 | trap_171_trpot | 很大的锅 | - | - |
 | trap_172_trbox | “宝箱” | - | - |
 | trap_173_slfrut | 闪亮果实 | - | - |
@@ -584,7 +584,7 @@ tip: 请善用浏览器的搜索功能
 | trap_176_frutwn | 缤纷果酒 | - | - |
 | trap_177_tentcl | 宝箱的肉？ | - | - |
 | trap_178_trrbox | “宝箱” | - | - |
-| trap_179_muctrl | 促融共竞控制 | - | - |
+| trap_179_muctrl | 促融共竞控制 | Icebreaker Games Control | 協心競技制御装置 |
 | trap_180_dsblock | 封印的地面 | - | - |
 | trap_181_sgray | 结晶消除桩 | - | - |
 | trap_182_sglink | 纯净结晶 | - | - |
@@ -1021,7 +1021,7 @@ tip: 请善用浏览器的搜索功能
 | char_367_swllow@boc#1 | 归巢 | Homecoming | 帰巣 |
 | char_373_lionhd@snow#3 | 希望巡游 | Hope Cruise | 希望の運び手 |
 | char_373_lionhd@wild#3 | 宝藏行家 | Finder in the Rough | 秘宝の専門家 |
-| char_376_therex@marthe#7 | 双料四分卫 | - | - |
+| char_376_therex@marthe#7 | 双料四分卫 | Dual-threat Quarterback | スーパークォーターバック |
 | char_377_gdglow@sanrio#1 | 花房茶话会 | - | - |
 | char_377_gdglow@snow#5 | 喜夜侍者 | Maiden for the Bright Night | しあわせの使い |
 | char_377_gdglow@summer#12 | 夏卉 FA394 | Summer Flowers FA394 | 夏の花弁FA394 |
@@ -2231,32 +2231,32 @@ tip: 请善用浏览器的搜索功能
 | enemy_4002_syokai | 二手廉价无人机 | Cheap Second-hand Drone | 中古低価ドローン |
 | enemy_4002_syokai_2 | 二手改装无人机 | Remodeled Second-hand Drone | 中古改造ドローン |
 | enemy_4003_pbank | 移动电源 | Mobile Power Source | 移動電源 |
-| enemy_4004_muvltr | 赛场补给车 | - | - |
-| enemy_4004_muvltr_2 | “天车散花”赛场补给车 | - | - |
-| enemy_4005_musqrl | 鼷兽补给员 | - | - |
-| enemy_4005_musqrl_2 | “力大如驮”鼷兽补给员 | - | - |
-| enemy_4006_mumole | 沙地兽补给员 | - | - |
-| enemy_4006_mumole_2 | “雨露均沾”沙地兽补给员 | - | - |
-| enemy_4007_murino | 驮兽补给员 | - | - |
-| enemy_4007_murino_2 | “胆小如鼷”驮兽补给员 | - | - |
-| enemy_4008_mucat | 重锤补给员 | - | - |
-| enemy_4008_mucat_2 | “横冲直撞”重锤补给员 | - | - |
-| enemy_4009_murgby | 铁头前锋 | - | - |
-| enemy_4009_murgby_2 | “一往无前”铁头前锋 | - | - |
-| enemy_4010_mubsbl | 长臂投手 | - | - |
-| enemy_4010_mubsbl_2 | “精准制导”长臂投手 | - | - |
-| enemy_4012_mumssi | 阵地击球手 | - | - |
-| enemy_4012_mumssi_2 | “脚脚生风”阵地击球手 | - | - |
-| enemy_4013_mubufn | 阵地守门员 | - | - |
-| enemy_4013_mubufn_2 | “头头是门”阵地守门员 | - | - |
-| enemy_4014_mugnfu | 阵地击人手 | - | - |
-| enemy_4014_mugnfu_2 | “锤锤到肉”阵地击人手 | - | - |
-| enemy_4015_musucr | RMA70刺球 | - | - |
-| enemy_4016_mubuln | 粉红绒气球 | - | - |
-| enemy_4017_muinbl | 压缩建材球 | - | - |
-| enemy_4018_muboom | 高能源石球 | - | - |
-| enemy_4019_mugold | 至纯源石球 | - | - |
-| enemy_4020_muboun | 无垠回荡球 | - | - |
+| enemy_4004_muvltr | 赛场补给车 | Supply Wagon | 会場補給カート |
+| enemy_4004_muvltr_2 | “天车散花”赛场补给车 | 'Soda POP!' Supply Wagon | 「まき散らし」会場補給カート |
+| enemy_4005_musqrl | 鼷兽补给员 | Musbeast Supplier | 鼷獣補給員 |
+| enemy_4005_musqrl_2 | “力大如驮”鼷兽补给员 | 'Big Brawn' Musbeast Supplier | 「百万駄力」鼷獣補給員 |
+| enemy_4006_mumole | 沙地兽补给员 | Sandbeast Supplier | サンドビースト補給員 |
+| enemy_4006_mumole_2 | “雨露均沾”沙地兽补给员 | 'Faircare' Sandbeast Supplier | 「一視同仁」補給員 |
+| enemy_4007_murino | 驮兽补给员 | Burdenbeast Supplier | 駄獣補給員 |
+| enemy_4007_murino_2 | “胆小如鼷”驮兽补给员 | 'Timidthy' Burdenbeast Supplier | 「鼷心小胆」駄獣補給員 |
+| enemy_4008_mucat | 重锤补给员 | Hammer Supplier | メガハンマー補給員 |
+| enemy_4008_mucat_2 | “横冲直撞”重锤补给员 | 'Rampage' Hammer Supplier | 「縦横無尽」補給員 |
+| enemy_4009_murgby | 铁头前锋 | Ironhead Forward | 石頭ランニングバック |
+| enemy_4009_murgby_2 | “一往无前”铁头前锋 | 'Charger' Ironhead Forward | 「勇猛果敢」ランニングバック |
+| enemy_4010_mubsbl | 长臂投手 | Long-Armed Pitcher | 豪腕ピッチャー |
+| enemy_4010_mubsbl_2 | “精准制导”长臂投手 | 'True Shot' Long-Armed Pitcher | 「精密機械」豪腕ピッチャー |
+| enemy_4012_mumssi | 阵地击球手 | Field Shooter | ポジションストライカー |
+| enemy_4012_mumssi_2 | “脚脚生风”阵地击球手 | 'Longshot' Field Shooter | 「旋風脚」ストライカー |
+| enemy_4013_mubufn | 阵地守门员 | Field Goalie | ポジションキーパー |
+| enemy_4013_mubufn_2 | “头头是门”阵地守门员 | 'Brain Barrier' Field Goalie | 「鉄壁頭」キーパー |
+| enemy_4014_mugnfu | 阵地击人手 | Field Bludgeoner | ポジションエースキラー |
+| enemy_4014_mugnfu_2 | “锤锤到肉”阵地击人手 | 'Basher' Field Bludgeoner | 「必殺槌」エースキラー |
+| enemy_4015_musucr | RMA70刺球 | RMA70 Spikeball | RMA70とげとげボール |
+| enemy_4016_mubuln | 粉红绒气球 | Fluffy Pink Balloon | ピンクもふもふボール |
+| enemy_4017_muinbl | 压缩建材球 | Compressed Ball | 圧縮建材ボール |
+| enemy_4018_muboom | 高能源石球 | Infused Originium Ball | バクダンムシボール |
+| enemy_4019_mugold | 至纯源石球 | Originite Prime Ball | 純正源石ボール |
+| enemy_4020_muboun | 无垠回荡球 | Perpetual Rebounder | 天地に揺蕩うボール |
 | enemy_5008_cstrwd | 艺术的慈悲! | The Boons of Art! | 芸術の慈悲！ |
 | enemy_5009_shtrwd | 艺术的绝杀! | The Clutchness of Art! | 芸術の必殺技！ |
 | enemy_5010_catrdg | 弱弹 | Weaksauce | 弱い弾 |
@@ -2474,7 +2474,7 @@ tip: 请善用浏览器的搜索功能
 | act2pray | 双日城惊奇墙 | Dossoles Amazing Wall | ドッソレススクラッチ |
 | act2signvs | 端阳正午签到活动 | - | - |
 | act2switch | 登览锦绣合作活动 | View From Above Collaboration Event | 山河一望コラボ |
-| act2vmulti | 罗德岛促融共竞 | - | - |
+| act2vmulti | 罗德岛促融共竞 | Rhodes Island Icebreaker Games | ロドス協心競技 |
 | act30side | 银心湖列车 | The Rides to Lake Silberneherze | 銀心湖鉄道 |
 | act30sign | 秋风送爽限时登录活动 | Snow Upon Autumnal Winds Limited Login Event | 早春の風スタンプラリー |
 | act31side | 怀黍离 | Here A People Sows | 懐黍離 |
@@ -2879,7 +2879,7 @@ tip: 请善用浏览器的搜索功能
 | act2bossrush_relic_03 | 减退模块 | Reduction Module | ダウンモジュール |
 | act2bossrush_relic_04 | 调优重载 | Optimize Load | 積載調節 |
 | act2bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
-| act2vmulti_token_cap | 参赛纪念 | - | - |
+| act2vmulti_token_cap | 参赛纪念 | Memento | 参加記念 |
 | act30side_token_box | 驮兽盲盒 | Burdenbeast Blind Box | 駄獣ミニフィギュア |
 | act31side_token_box | 天桩 | Sky Pole | 天杭 |
 | act32side_token_stamp | 艺术馆集章卡 | Galería Stamp Card | スタンプカード |
@@ -3938,6 +3938,7 @@ tip: 请善用浏览器的搜索功能
 | _NORM_2_0_1 | - | Chi Xiao, the Hidden Dragon | 赤龍乗雲 |
 | _NORM_2_0_3 | - | Lungmen Spec Ops Headhunting | 龍門特別行動要員 |
 | _NORM_30_0_3 | - | The Front That Was | 先途追想 |
+| _NORM_30_0_7 | - | Joint Operation | 連合作戦 |
 | _NORM_3_0_1 | - | Frozen Land | 果てなき氷原 |
 | _NORM_3_1_1 | - | First Snowfall | 雪降る暁 |
 | _NORM_3_2_1 | - | Lisa of the Valley | 峡谷に芽吹く君影草 |
@@ -4887,12 +4888,12 @@ tip: 请善用浏览器的搜索功能
 | sktok_motter_1 | 迷惑装置 | Bionic Device | 攪乱装置 |
 | sktok_motter_2 | 爆破回收 | Detonate and Recycle | ミーボ起爆 |
 | sktok_mound | 风沙掩体 | Sandstorm Protection | 防風壁 |
-| sktok_muctrl | 促融共竞控制 | - | - |
-| sktok_muftbl | 重新发球！ | - | - |
-| sktok_muruinb | 后勤维护 | - | - |
-| sktok_muruinf | 维护员 | - | - |
-| sktok_muruino | 器械维护 | - | - |
-| sktok_muruinw | 模块维护 | - | - |
+| sktok_muctrl | 促融共竞控制 | Icebreaker Games Control | 協心競技制御装置 |
+| sktok_muftbl | 重新发球！ | Kickoff! | キックオフ！ |
+| sktok_muruinb | 后勤维护 | Logistical Maintenance | 支援所展開 |
+| sktok_muruinf | 维护员 | Maintainer | 整備士 |
+| sktok_muruino | 器械维护 | Equipment Maintenance | 防壁展開 |
+| sktok_muruinw | 模块维护 | Module Maintenance | 高台展開 |
 | sktok_nearl2_3 | “耀阳” | 'Blazing Sun' | 「ブレイジング・サン」 |
 | sktok_neonlamp | 文明的光芒 | The Light of Civilization | 「文明の灯火」 |
 | sktok_normbox | 诱人珍宝 | Alluring Treasures | 財宝のいざない |
@@ -5662,20 +5663,20 @@ tip: 请善用浏览器的搜索功能
 | act2bossrush_02 | 大块头和小不点 | Big and Small | デカとチビ |
 | act2bossrush_03 | 裂地重击 | Fissure Strike | 大地割れる一撃 |
 | act2bossrush_04 | 骄阳之影 | Proud Sun's Shadow | 燦陽の影 |
-| act2vmulti-01 | 嘟嘟喇叭 | - | - |
-| act2vmulti-02 | 军事化训练 | - | - |
-| act2vmulti-03 | 单行赛道 | - | - |
-| act2vmulti-04 | 迎宾大道 | - | - |
-| act2vmulti-05 | 夜舞与晨跑 | - | - |
-| act2vmulti-06 | 黑夜骑士 | - | - |
-| act2vmulti-07 | 发射试验场 | - | - |
-| act2vmulti-de01 | 请无序入场 | - | - |
-| act2vmulti-de02 | 请无序入场 | - | - |
-| act2vmulti-ft01 | 大力出奇迹 | - | - |
-| act2vmulti-ft02 | 大力出奇迹 | - | - |
-| act2vmulti-tr01 | 规则教学-常规项目 | - | - |
-| act2vmulti-tr02 | 规则教学-阵地足球 | - | - |
-| act2vmulti-tr03 | 规则教学-堡垒守御 | - | - |
+| act2vmulti-01 | 嘟嘟喇叭 | Blaring Horns | 響けチアホーン |
+| act2vmulti-02 | 军事化训练 | Drills | 軍事訓練 |
+| act2vmulti-03 | 单行赛道 | One-Way Course | 独占コース |
+| act2vmulti-04 | 迎宾大道 | Grand Avenue | ウェルカムストリート |
+| act2vmulti-05 | 夜舞与晨跑 | Jog by Day, Dance by Night | 夜のダンスと朝のジョギング |
+| act2vmulti-06 | 黑夜骑士 | Night Knight | 闇夜の騎士 |
+| act2vmulti-07 | 发射试验场 | Launch Site | 発射実験場 |
+| act2vmulti-de01 | 请无序入场 | Break Their Ranks | 入場の際は無秩序に |
+| act2vmulti-de02 | 请无序入场 | Break Their Ranks | 入場の際は無秩序に |
+| act2vmulti-ft01 | 大力出奇迹 | Power Shot | 全力全開の奇跡 |
+| act2vmulti-ft02 | 大力出奇迹 | Power Shot | 全力全開の奇跡 |
+| act2vmulti-tr01 | 规则教学-常规项目 | Tutorial - Regular Events | TUT-通常種目 |
+| act2vmulti-tr02 | 规则教学-阵地足球 | Tutorial - Positional Football | TUT-ポジションサッカー |
+| act2vmulti-tr03 | 规则教学-堡垒守御 | Tutorial - Bastion Defense | TUT-要塞ディフェンス |
 | act30side_01 | 注意事项 | Important Information | 乗車時のご注意 |
 | act30side_02 | 同车异图 | Same Train, Different Destination | 同乗異心 |
 | act30side_03 | 临时停车 | Temporary Stop | 臨時停車 |
@@ -6026,18 +6027,18 @@ tip: 请善用浏览器的搜索功能
 | lt_12_04 | 增幅呐喊 | Growing Vociferation | 高まる歓声 |
 | lt_12_05 | 冲上看台 | Bleachers Outrush | 観戦席への乱入 |
 | lt_12_06 | 阿卡胡拉之巅 | Acahuallan Peak | アカフラの頂 |
-| lt_13_01 | 痛心的快板 | - | - |
-| lt_13_02 | 心伤的奏鸣曲 | - | - |
-| lt_13_03 | 伤悲的慢板 | - | - |
-| lt_13_04 | 悲愁的小步舞曲 | - | - |
-| lt_13_05 | 愁苦的行板 | - | - |
-| lt_13_06 | 苦痛的回旋曲 | - | - |
-| lt_14_01 | 任性逃跑 | - | - |
-| lt_14_02 | 全城悬赏 | - | - |
-| lt_14_03 | “领奖处” | - | - |
-| lt_14_04 | 闻风而来 | - | - |
-| lt_14_05 | “大血拼” | - | - |
-| lt_14_06 | 尽入囊中 | - | - |
+| lt_13_01 | 痛心的快板 | Allegro Lamentoso | 心を抉るアレグロ |
+| lt_13_02 | 心伤的奏鸣曲 | Sonata Triste | 悲しみのソナタ |
+| lt_13_03 | 伤悲的慢板 | Adagio Dolente | 嘆きのアダージョ |
+| lt_13_04 | 悲愁的小步舞曲 | Minuetto Doloroso | 悲愁のメヌエット |
+| lt_13_05 | 愁苦的行板 | Andante Lacrimoso | 憂鬱なアンダンテ |
+| lt_13_06 | 苦痛的回旋曲 | Rondo Mesto | 苦痛のロンド |
+| lt_14_01 | 任性逃跑 | Unruly Escape | 勝手気ままな逃走 |
+| lt_14_02 | 全城悬赏 | Citywide Bounty | 懸賞範囲全市内 |
+| lt_14_03 | “领奖处” | 'Prize Claim' | 「賞金受取所」 |
+| lt_14_04 | 闻风而来 | Freebie Frenzy | 噂を聞きつけて |
+| lt_14_05 | “大血拼” | 'Shopping Spree' | セールは戦場 |
+| lt_14_06 | 尽入囊中 | Grab 'Em All | 捕獲完了 |
 | lt_15_01 | 术法冲锋 | - | - |
 | lt_15_02 | 精锐与光荣 | - | - |
 | lt_15_03 | 主要推进通道 | - | - |

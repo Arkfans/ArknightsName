@@ -5088,81 +5088,133 @@
     "zh_CN": "移动电源"
   },
   "enemy_4004_muvltr": {
+    "en_US": "Supply Wagon",
+    "ja_JP": "会場補給カート",
     "zh_CN": "赛场补给车"
   },
   "enemy_4004_muvltr_2": {
+    "en_US": "'Soda POP!' Supply Wagon",
+    "ja_JP": "「まき散らし」会場補給カート",
     "zh_CN": "“天车散花”赛场补给车"
   },
   "enemy_4005_musqrl": {
+    "en_US": "Musbeast Supplier",
+    "ja_JP": "鼷獣補給員",
     "zh_CN": "鼷兽补给员"
   },
   "enemy_4005_musqrl_2": {
+    "en_US": "'Big Brawn' Musbeast Supplier",
+    "ja_JP": "「百万駄力」鼷獣補給員",
     "zh_CN": "“力大如驮”鼷兽补给员"
   },
   "enemy_4006_mumole": {
+    "en_US": "Sandbeast Supplier",
+    "ja_JP": "サンドビースト補給員",
     "zh_CN": "沙地兽补给员"
   },
   "enemy_4006_mumole_2": {
+    "en_US": "'Faircare' Sandbeast Supplier",
+    "ja_JP": "「一視同仁」補給員",
     "zh_CN": "“雨露均沾”沙地兽补给员"
   },
   "enemy_4007_murino": {
+    "en_US": "Burdenbeast Supplier",
+    "ja_JP": "駄獣補給員",
     "zh_CN": "驮兽补给员"
   },
   "enemy_4007_murino_2": {
+    "en_US": "'Timidthy' Burdenbeast Supplier",
+    "ja_JP": "「鼷心小胆」駄獣補給員",
     "zh_CN": "“胆小如鼷”驮兽补给员"
   },
   "enemy_4008_mucat": {
+    "en_US": "Hammer Supplier",
+    "ja_JP": "メガハンマー補給員",
     "zh_CN": "重锤补给员"
   },
   "enemy_4008_mucat_2": {
+    "en_US": "'Rampage' Hammer Supplier",
+    "ja_JP": "「縦横無尽」補給員",
     "zh_CN": "“横冲直撞”重锤补给员"
   },
   "enemy_4009_murgby": {
+    "en_US": "Ironhead Forward",
+    "ja_JP": "石頭ランニングバック",
     "zh_CN": "铁头前锋"
   },
   "enemy_4009_murgby_2": {
+    "en_US": "'Charger' Ironhead Forward",
+    "ja_JP": "「勇猛果敢」ランニングバック",
     "zh_CN": "“一往无前”铁头前锋"
   },
   "enemy_4010_mubsbl": {
+    "en_US": "Long-Armed Pitcher",
+    "ja_JP": "豪腕ピッチャー",
     "zh_CN": "长臂投手"
   },
   "enemy_4010_mubsbl_2": {
+    "en_US": "'True Shot' Long-Armed Pitcher",
+    "ja_JP": "「精密機械」豪腕ピッチャー",
     "zh_CN": "“精准制导”长臂投手"
   },
   "enemy_4012_mumssi": {
+    "en_US": "Field Shooter",
+    "ja_JP": "ポジションストライカー",
     "zh_CN": "阵地击球手"
   },
   "enemy_4012_mumssi_2": {
+    "en_US": "'Longshot' Field Shooter",
+    "ja_JP": "「旋風脚」ストライカー",
     "zh_CN": "“脚脚生风”阵地击球手"
   },
   "enemy_4013_mubufn": {
+    "en_US": "Field Goalie",
+    "ja_JP": "ポジションキーパー",
     "zh_CN": "阵地守门员"
   },
   "enemy_4013_mubufn_2": {
+    "en_US": "'Brain Barrier' Field Goalie",
+    "ja_JP": "「鉄壁頭」キーパー",
     "zh_CN": "“头头是门”阵地守门员"
   },
   "enemy_4014_mugnfu": {
+    "en_US": "Field Bludgeoner",
+    "ja_JP": "ポジションエースキラー",
     "zh_CN": "阵地击人手"
   },
   "enemy_4014_mugnfu_2": {
+    "en_US": "'Basher' Field Bludgeoner",
+    "ja_JP": "「必殺槌」エースキラー",
     "zh_CN": "“锤锤到肉”阵地击人手"
   },
   "enemy_4015_musucr": {
+    "en_US": "RMA70 Spikeball",
+    "ja_JP": "RMA70とげとげボール",
     "zh_CN": "RMA70刺球"
   },
   "enemy_4016_mubuln": {
+    "en_US": "Fluffy Pink Balloon",
+    "ja_JP": "ピンクもふもふボール",
     "zh_CN": "粉红绒气球"
   },
   "enemy_4017_muinbl": {
+    "en_US": "Compressed Ball",
+    "ja_JP": "圧縮建材ボール",
     "zh_CN": "压缩建材球"
   },
   "enemy_4018_muboom": {
+    "en_US": "Infused Originium Ball",
+    "ja_JP": "バクダンムシボール",
     "zh_CN": "高能源石球"
   },
   "enemy_4019_mugold": {
+    "en_US": "Originite Prime Ball",
+    "ja_JP": "純正源石ボール",
     "zh_CN": "至纯源石球"
   },
   "enemy_4020_muboun": {
+    "en_US": "Perpetual Rebounder",
+    "ja_JP": "天地に揺蕩うボール",
     "zh_CN": "无垠回荡球"
   },
   "enemy_5008_cstrwd": {

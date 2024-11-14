@@ -1071,32 +1071,32 @@ tip: 请善用浏览器的搜索功能
 | enemy_4002_syokai | 二手廉价无人机 | Cheap Second-hand Drone | 中古低価ドローン |
 | enemy_4002_syokai_2 | 二手改装无人机 | Remodeled Second-hand Drone | 中古改造ドローン |
 | enemy_4003_pbank | 移动电源 | Mobile Power Source | 移動電源 |
-| enemy_4004_muvltr | 赛场补给车 | - | - |
-| enemy_4004_muvltr_2 | “天车散花”赛场补给车 | - | - |
-| enemy_4005_musqrl | 鼷兽补给员 | - | - |
-| enemy_4005_musqrl_2 | “力大如驮”鼷兽补给员 | - | - |
-| enemy_4006_mumole | 沙地兽补给员 | - | - |
-| enemy_4006_mumole_2 | “雨露均沾”沙地兽补给员 | - | - |
-| enemy_4007_murino | 驮兽补给员 | - | - |
-| enemy_4007_murino_2 | “胆小如鼷”驮兽补给员 | - | - |
-| enemy_4008_mucat | 重锤补给员 | - | - |
-| enemy_4008_mucat_2 | “横冲直撞”重锤补给员 | - | - |
-| enemy_4009_murgby | 铁头前锋 | - | - |
-| enemy_4009_murgby_2 | “一往无前”铁头前锋 | - | - |
-| enemy_4010_mubsbl | 长臂投手 | - | - |
-| enemy_4010_mubsbl_2 | “精准制导”长臂投手 | - | - |
-| enemy_4012_mumssi | 阵地击球手 | - | - |
-| enemy_4012_mumssi_2 | “脚脚生风”阵地击球手 | - | - |
-| enemy_4013_mubufn | 阵地守门员 | - | - |
-| enemy_4013_mubufn_2 | “头头是门”阵地守门员 | - | - |
-| enemy_4014_mugnfu | 阵地击人手 | - | - |
-| enemy_4014_mugnfu_2 | “锤锤到肉”阵地击人手 | - | - |
-| enemy_4015_musucr | RMA70刺球 | - | - |
-| enemy_4016_mubuln | 粉红绒气球 | - | - |
-| enemy_4017_muinbl | 压缩建材球 | - | - |
-| enemy_4018_muboom | 高能源石球 | - | - |
-| enemy_4019_mugold | 至纯源石球 | - | - |
-| enemy_4020_muboun | 无垠回荡球 | - | - |
+| enemy_4004_muvltr | 赛场补给车 | Supply Wagon | 会場補給カート |
+| enemy_4004_muvltr_2 | “天车散花”赛场补给车 | 'Soda POP!' Supply Wagon | 「まき散らし」会場補給カート |
+| enemy_4005_musqrl | 鼷兽补给员 | Musbeast Supplier | 鼷獣補給員 |
+| enemy_4005_musqrl_2 | “力大如驮”鼷兽补给员 | 'Big Brawn' Musbeast Supplier | 「百万駄力」鼷獣補給員 |
+| enemy_4006_mumole | 沙地兽补给员 | Sandbeast Supplier | サンドビースト補給員 |
+| enemy_4006_mumole_2 | “雨露均沾”沙地兽补给员 | 'Faircare' Sandbeast Supplier | 「一視同仁」補給員 |
+| enemy_4007_murino | 驮兽补给员 | Burdenbeast Supplier | 駄獣補給員 |
+| enemy_4007_murino_2 | “胆小如鼷”驮兽补给员 | 'Timidthy' Burdenbeast Supplier | 「鼷心小胆」駄獣補給員 |
+| enemy_4008_mucat | 重锤补给员 | Hammer Supplier | メガハンマー補給員 |
+| enemy_4008_mucat_2 | “横冲直撞”重锤补给员 | 'Rampage' Hammer Supplier | 「縦横無尽」補給員 |
+| enemy_4009_murgby | 铁头前锋 | Ironhead Forward | 石頭ランニングバック |
+| enemy_4009_murgby_2 | “一往无前”铁头前锋 | 'Charger' Ironhead Forward | 「勇猛果敢」ランニングバック |
+| enemy_4010_mubsbl | 长臂投手 | Long-Armed Pitcher | 豪腕ピッチャー |
+| enemy_4010_mubsbl_2 | “精准制导”长臂投手 | 'True Shot' Long-Armed Pitcher | 「精密機械」豪腕ピッチャー |
+| enemy_4012_mumssi | 阵地击球手 | Field Shooter | ポジションストライカー |
+| enemy_4012_mumssi_2 | “脚脚生风”阵地击球手 | 'Longshot' Field Shooter | 「旋風脚」ストライカー |
+| enemy_4013_mubufn | 阵地守门员 | Field Goalie | ポジションキーパー |
+| enemy_4013_mubufn_2 | “头头是门”阵地守门员 | 'Brain Barrier' Field Goalie | 「鉄壁頭」キーパー |
+| enemy_4014_mugnfu | 阵地击人手 | Field Bludgeoner | ポジションエースキラー |
+| enemy_4014_mugnfu_2 | “锤锤到肉”阵地击人手 | 'Basher' Field Bludgeoner | 「必殺槌」エースキラー |
+| enemy_4015_musucr | RMA70刺球 | RMA70 Spikeball | RMA70とげとげボール |
+| enemy_4016_mubuln | 粉红绒气球 | Fluffy Pink Balloon | ピンクもふもふボール |
+| enemy_4017_muinbl | 压缩建材球 | Compressed Ball | 圧縮建材ボール |
+| enemy_4018_muboom | 高能源石球 | Infused Originium Ball | バクダンムシボール |
+| enemy_4019_mugold | 至纯源石球 | Originite Prime Ball | 純正源石ボール |
+| enemy_4020_muboun | 无垠回荡球 | Perpetual Rebounder | 天地に揺蕩うボール |
 | enemy_5008_cstrwd | 艺术的慈悲! | The Boons of Art! | 芸術の慈悲！ |
 | enemy_5009_shtrwd | 艺术的绝杀! | The Clutchness of Art! | 芸術の必殺技！ |
 | enemy_5010_catrdg | 弱弹 | Weaksauce | 弱い弾 |
