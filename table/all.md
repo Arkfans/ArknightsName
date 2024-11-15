@@ -367,6 +367,22 @@ tip: 请善用浏览器的搜索功能
 | char_512_aprot | 暮落 | Shalem | シャレム |
 | char_513_apionr | 郁金香 | Tulip | チューリップ |
 | char_514_rdfend | 预备干员-重装 | Reserve Operator - Defender | 予備隊員-重装 |
+| char_600_cpione | 预备干员-先锋 | - | - |
+| char_601_cguard | 预备干员-近卫 | - | - |
+| char_602_cdfend | 预备干员-重装 | - | - |
+| char_603_csnipe | 预备干员-狙击 | - | - |
+| char_604_ccast | 预备干员-术师 | - | - |
+| char_605_cmedic | 预备干员-医疗 | - | - |
+| char_606_csuppo | 预备干员-辅助 | - | - |
+| char_607_cspec | 预备干员-特种 | - | - |
+| char_608_acpion | 郁金香 | - | - |
+| char_609_acguad | Sharp | - | - |
+| char_610_acfend | Mechanist | - | - |
+| char_611_acnipe | Stormeye | - | - |
+| char_612_accast | Pith | - | - |
+| char_613_acmedc | Touch | - | - |
+| char_614_acsupo | Raidian | - | - |
+| char_615_acspec | Misery | - | - |
 | token_10000_silent_healrb | 医疗探机 | Medic Drone | 医療ドローン |
 | token_10001_deepcl_tentac | 触手 | Tentacle | 触手 |
 | token_10002_kalts_mon3tr | Mon3tr | Mon3tr | Mon3tr |
@@ -510,16 +526,77 @@ tip: 请善用浏览器的搜索功能
 | trap_097_hstone | 城防路障 | Roadblocks | 都市防衛柵 |
 | trap_098_mire | 沼泽控制 | Mire Control | 沼地制御 |
 | trap_099_mhflsb | 眩光手雷 | Flash Grenade | 閃光爆弾 |
+| trap_1000_acarm000 | 小盾 | - | - |
+| trap_1001_acarm001 | 短剑 | - | - |
+| trap_1002_acarm002 | 幸运币 | - | - |
+| trap_1003_acarm003 | 冰块 | - | - |
+| trap_1004_acarm004 | 压缩饼干 | - | - |
+| trap_1005_acarm005 | 信标 | - | - |
+| trap_1006_acarm006 | 源岩匕首 | - | - |
+| trap_1007_acarm007 | 源石溶剂 | - | - |
+| trap_1008_acarm008 | 激光发射器 | - | - |
+| trap_1009_acarm009 | 喀兰贸易文档 | - | - |
 | trap_100_mhlbmb | 高能源石爆桶 | High-Energy Originium Barrel Bomb | 源石タル爆弾 |
+| trap_1010_acarm010 | 卡西米尔文档 | - | - |
+| trap_1011_acarm011 | 深海猎人文档 | - | - |
+| trap_1012_acarm012 | 浓茶 | - | - |
+| trap_1013_acarm013 | 蜂鸣器 | - | - |
+| trap_1014_acarm014 | 精打细算玩偶 | - | - |
+| trap_1015_acarm015 | 见钱眼开玩偶 | - | - |
+| trap_1016_acarm016 | 预备进阶许可 | - | - |
+| trap_1017_acarm017 | 战场分析仪 | - | - |
+| trap_1018_acarm018 | 震撼弹 | - | - |
+| trap_1019_acarm019 | 制式重装盾 | - | - |
 | trap_101_mhshok | 高压脉冲诡雷 | High-Voltage Shock Trap | 高電圧シビレ罠 |
+| trap_1020_acarm020 | 制式狙击镜 | - | - |
+| trap_1021_acarm021 | 制式术师杖 | - | - |
+| trap_1022_acarm022 | 口袋法阵 | - | - |
+| trap_1023_acarm023 | 竞技投币机 | - | - |
+| trap_1024_acarm024 | 工匠锤 | - | - |
+| trap_1025_acarm025 | 休眠子裔 | - | - |
+| trap_1026_acarm026 | 术师无人机 | - | - |
+| trap_1027_acarm027 | 卡西米尔模型 | - | - |
+| trap_1028_acarm028 | 喀兰贸易模型 | - | - |
+| trap_1029_acarm029 | 深海猎人模型 | - | - |
 | trap_102_mhwrbg | 滞空牵引无人机 | Wiredrone | 滞空牽引ドローン |
+| trap_1030_acarm030 | 精英重装套组 | - | - |
+| trap_1031_acarm031 | 精英狙击套组 | - | - |
+| trap_1032_acarm032 | 精英术师套组 | - | - |
+| trap_1033_acarm033 | 歌利亚头盔 | - | - |
+| trap_1034_acarm034 | M3护甲 | - | - |
+| trap_1035_acarm035 | M3利爪 | - | - |
+| trap_1036_acarm036 | 便携弹射器 | - | - |
+| trap_1037_acarm037 | 有限加速器 | - | - |
+| trap_1038_acarm038 | 全能机械臂 | - | - |
+| trap_1039_acarm039 | 博士投影 | - | - |
 | trap_103_ymdgct | 地形增伤控制 | Mire Controller | 地形ダメージ制御 |
 | trap_104_dplant | 改性植物激素 | Modified Phytohormone | 改良型植物ホルモン |
 | trap_105_mhwrct | 滞空牵引无人机 | Wiredrone | 滞空牽引ドローン |
 | trap_106_smtree | 积雪银凇  | Silvernwhite Bulwark | 積雪の銀樹 |
 | trap_107_smpow | 空间稳定设施 | Dimensional Anchoring Pylon | 空間安定化設備 |
+| trap_1080_acspell001 | 法术：恢复 | - | - |
+| trap_1081_acspell002 | 法术：力量 | - | - |
+| trap_1082_acspell003 | 法术：传动 | - | - |
+| trap_1083_acspell004 | 法术：贪婪 | - | - |
+| trap_1084_acspell005 | 法术：满足 | - | - |
+| trap_1085_acspell006 | 法术：护盾 | - | - |
+| trap_1086_acspell007 | 法术：榜样 | - | - |
+| trap_1087_acspell008 | 法术：屏障 | - | - |
+| trap_1088_acspell009 | 法术：熟人 | - | - |
+| trap_1089_acspell010 | 法术：同行 | - | - |
 | trap_108_smbox | 宝箱 | Treasure Chest | 宝箱 |
+| trap_1090_acspell011 | 法术：提升 | - | - |
+| trap_1091_acspell012 | 法术：迟缓 | - | - |
+| trap_1093_acspell014 | 法术：全力 | - | - |
+| trap_1094_acspell015 | 法术：血税 | - | - |
+| trap_1095_acspell016 | 法术：破袭 | - | - |
+| trap_1096_acshopup | 驳船操作员 | - | - |
+| trap_1097_acshopre | 补给调配器 | - | - |
+| trap_1098_acshopfr | 补给留存器 | - | - |
+| trap_1099_acspell017 | 晋升调配特许 | - | - |
 | trap_109_smrbox | 尖刺宝箱 | Spiked Treasure Chest | トゲトゲ宝箱 |
+| trap_1100_acreddoor | 敌人入口 | - | - |
+| trap_1101_acplane | 补给驳船 | - | - |
 | trap_110_smbbox | 巨壳藤蔓 | Testaceous Vinecreeps | 巨殻のツル |
 | trap_111_wdfarm | 街头应急储备 | Roadside Emergency Reserves | 街の緊急用備蓄 |
 | trap_112_crsbow | 解雇者清债程序 | Post-Firing Debt Relief Program | 解雇者清算プログラム |
@@ -1141,6 +1218,7 @@ tip: 请善用浏览器的搜索功能
 | char_496_wildmn@epoque#16 | 正义缔造者 | Justice Maker | ジャスティスメーカー |
 | char_497_ctable@nian#9 | 灯如昼 | Illumination That of Daylights | 灯如昼 |
 | char_498_inside@kitchen#2 | 甜品大奖 | - | - |
+| char_499_kaitou@epoque#37 | 斜照 | - | - |
 | ambienceSynesthesia | 音律联觉 | Ambience Synesthesia | 音律聯覚 |
 | boc | 斗争血脉 | Bloodline of Combat | 闘争の血脈 |
 | crossover | 合作款 | Collab Series | コラボ |
@@ -2345,6 +2423,11 @@ tip: 请善用浏览器的搜索功能
 | enemy_8007_eltrsm_3 | “迷迭香”，虚实之握 | - | - |
 | enemy_8008_eltswd | 矢量战术装备 | - | - |
 | enemy_8009_eltufo | “迷迭香”的无人机 | - | - |
+| enemy_9001_ayokai | 惊喜赞助无人机 | - | - |
+| enemy_9002_adsham | 萨卡兹渴血术师 | - | - |
+| enemy_9003_askate | 寻路者供弹手 | - | - |
+| enemy_9004_anlock | 技师囚犯 | - | - |
+| enemy_9005_aicemn | 冰晶射手 | - | - |
 | 0D5act | 限时任务 | Limited-time Mission | 期間限定任務 |
 | 1stact | 赏金猎人金币 | Bounty Coin | ラッキーコイン |
 | act10d5 | 乌萨斯的孩子们 | Children of Ursus | ウルサスの子供たち |
@@ -2434,6 +2517,7 @@ tip: 请善用浏览器的搜索功能
 | act1signvs | 端阳正午签到活动 | May the Sunshine Still Sign-In Event | スタンプラリー |
 | act1switch | 宿于繁星合作活动 | - | - |
 | act1unique | 九色鹿签到复刻活动 | Nine-Colored Deer Onboarding Event Retrospective | 九色鹿復刻スタンプラリー |
+| act1vautochess | 卫戍协议 | - | - |
 | act1vecb | 矢量突破 | - | - |
 | act20login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
 | act20side | 理想城：长夏狂欢季 | Ideal City: Endless Carnival | 理想都市-エンドレスカーニバル- |
@@ -2843,6 +2927,7 @@ tip: 请善用浏览器的搜索功能
 | act1mainlinebp_token_star | 里程碑碎片 | Milestone Fragment | マイルストーンの欠片 |
 | act1mainss_token_medi | 急性感染抑制剂 | Emergency Inhibitor | 急性感染抑制剤 |
 | act1sandbox_milestone_point | 繁荣证章 | Badge of Prosperity | 繁栄の証 |
+| act1vautochess_token_chess | 卫戍认证 | - | - |
 | act1vecb_milestone_point | 胜绩积分 | - | - |
 | act20side_token_book | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
 | act20side_token_book_rep_1 | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
@@ -3980,8 +4065,32 @@ tip: 请善用浏览器的搜索功能
 | skchr_absin_1 | 执法模式 | Enforcement Mode | 執行態勢 |
 | skchr_absin_2 | 终结连射 | Ultimatum | 告死の弾雨 |
 | skchr_acast_1 | “为我所为” | 'All For Me' | 「我が成すことを成せ」 |
+| skchr_accast_1 | “书我所书” | - | - |
+| skchr_accast_2 | “为我所为” | - | - |
+| skchr_accast_3 | “驭我所驭” | - | - |
 | skchr_acdrop_1 | 花式点射 | Fancy Shot | ファンシーショット |
 | skchr_acdrop_2 | 扳机时刻 | Trigger Time | ダブルトリガー |
+| skchr_acfend_1 | 结构稳定 | - | - |
+| skchr_acfend_2 | 不变性原理 | - | - |
+| skchr_acfend_3 | 应力倒置 | - | - |
+| skchr_acguad_1 | 快刀 | - | - |
+| skchr_acguad_2 | 亮剑 | - | - |
+| skchr_acguad_3 | 力战不竭 | - | - |
+| skchr_acmedc_1 | 慨赠 | - | - |
+| skchr_acmedc_2 | 宛如天启 | - | - |
+| skchr_acmedc_3 | 恳切福音 | - | - |
+| skchr_acnipe_1 | 破空 | - | - |
+| skchr_acnipe_2 | 心手合一 | - | - |
+| skchr_acnipe_3 | 旋臂 | - | - |
+| skchr_acpion_1 | 钻心 | - | - |
+| skchr_acpion_2 | 迅瞬 | - | - |
+| skchr_acpion_3 | 只余芬芳 | - | - |
+| skchr_acspec_1 | 物理的服从 | - | - |
+| skchr_acspec_2 | 战争的恭顺 | - | - |
+| skchr_acspec_3 | 空间的归依 | - | - |
+| skchr_acsupo_1 | 双声 | - | - |
+| skchr_acsupo_2 | 三形 | - | - |
+| skchr_acsupo_3 | 信号跃动 | - | - |
 | skchr_aglina_1 | 秘杖·速充模式 | Arcane Staff - Quick Charge Mode | 秘杖・急収束　 |
 | skchr_aglina_2 | 秘杖·微粒模式 | Arcane Staff - Particle Mode | 秘杖・微粒子 |
 | skchr_aglina_3 | 秘杖·反重力模式 | Arcane Staff - Anti-Gravity Mode | 秘杖・反重力 |
@@ -4677,6 +4786,9 @@ tip: 请善用浏览器的搜索功能
 | skcom_atk_up[1] | 攻击力强化·α型 | ATK Up α | 攻撃力強化α |
 | skcom_atk_up[2] | 攻击力强化·β型 | ATK Up β | 攻撃力強化β |
 | skcom_atk_up[3] | 攻击力强化·γ型 | ATK Up γ | 攻撃力強化γ |
+| skcom_born_up[1] | 一击即退·α型 | - | - |
+| skcom_born_up[2] | 一击即退·β型 | - | - |
+| skcom_born_up[3] | 一击即退·γ型 | - | - |
 | skcom_charge_cost[1] | 冲锋号令·α型 | Charge α | 突撃指令α |
 | skcom_charge_cost[2] | 冲锋号令·β型 | Charge β | 突撃指令β |
 | skcom_charge_cost[3] | 冲锋号令·γ型 | Charge γ | 突撃指令γ |
@@ -4697,6 +4809,105 @@ tip: 请善用浏览器的搜索功能
 | skcom_quickattack[3] | 迅捷打击·γ型 | Swift Strike γ | 迅速攻撃γ |
 | skcom_range_extend | 治疗范围强化 | Healing Range Up | 回復範囲強化 |
 | skcom_withdraw | 自我销毁 | Self-Destruct | 自動消滅 |
+| sktok_acarm000_1 | 小盾 | - | - |
+| sktok_acarm000_2 | 小盾 | - | - |
+| sktok_acarm001_1 | 短剑 | - | - |
+| sktok_acarm001_2 | 短剑 | - | - |
+| sktok_acarm002_1 | 幸运币 | - | - |
+| sktok_acarm002_2 | 幸运币 | - | - |
+| sktok_acarm003_1 | 冰块 | - | - |
+| sktok_acarm003_2 | 冰块 | - | - |
+| sktok_acarm004_1 | 压缩饼干 | - | - |
+| sktok_acarm004_2 | 压缩饼干 | - | - |
+| sktok_acarm005_1 | 信标 | - | - |
+| sktok_acarm005_2 | 信标 | - | - |
+| sktok_acarm006_1 | 源岩匕首 | - | - |
+| sktok_acarm006_2 | 源岩匕首 | - | - |
+| sktok_acarm007_1 | 源石溶剂 | - | - |
+| sktok_acarm007_2 | 源石溶剂 | - | - |
+| sktok_acarm008_1 | 激光发射器 | - | - |
+| sktok_acarm008_2 | 激光发射器 | - | - |
+| sktok_acarm009_1 | 喀兰贸易文档 | - | - |
+| sktok_acarm009_2 | 喀兰贸易文档 | - | - |
+| sktok_acarm010_1 | 卡西米尔文档 | - | - |
+| sktok_acarm010_2 | 卡西米尔文档 | - | - |
+| sktok_acarm011_1 | 深海猎人文档 | - | - |
+| sktok_acarm011_2 | 深海猎人文档 | - | - |
+| sktok_acarm012_1 | 浓茶 | - | - |
+| sktok_acarm012_2 | 浓茶 | - | - |
+| sktok_acarm013_1 | 蜂鸣器 | - | - |
+| sktok_acarm013_2 | 蜂鸣器 | - | - |
+| sktok_acarm014_1 | 精打细算玩偶 | - | - |
+| sktok_acarm014_2 | 精打细算玩偶 | - | - |
+| sktok_acarm015_1 | 见钱眼开玩偶 | - | - |
+| sktok_acarm015_2 | 见钱眼开玩偶 | - | - |
+| sktok_acarm016_1 | 预备进阶许可 | - | - |
+| sktok_acarm016_2 | 预备进阶许可 | - | - |
+| sktok_acarm017_1 | 战场分析仪 | - | - |
+| sktok_acarm017_2 | 战场分析仪 | - | - |
+| sktok_acarm018_1 | 震撼弹 | - | - |
+| sktok_acarm018_2 | 震撼弹 | - | - |
+| sktok_acarm019_1 | 制式重装盾 | - | - |
+| sktok_acarm019_2 | 制式重装盾 | - | - |
+| sktok_acarm020_1 | 制式狙击镜 | - | - |
+| sktok_acarm020_2 | 制式狙击镜 | - | - |
+| sktok_acarm021_1 | 制式术师杖 | - | - |
+| sktok_acarm021_2 | 制式术师杖 | - | - |
+| sktok_acarm022_1 | 口袋法阵 | - | - |
+| sktok_acarm022_2 | 口袋法阵 | - | - |
+| sktok_acarm023_1 | 竞技投币机 | - | - |
+| sktok_acarm023_2 | 竞技投币机 | - | - |
+| sktok_acarm024_1 | 工匠锤 | - | - |
+| sktok_acarm024_2 | 工匠锤 | - | - |
+| sktok_acarm025_1 | 休眠子裔 | - | - |
+| sktok_acarm025_2 | 休眠子裔 | - | - |
+| sktok_acarm026_1 | 术师无人机 | - | - |
+| sktok_acarm026_2 | 术师无人机 | - | - |
+| sktok_acarm027_1 | 卡西米尔模型 | - | - |
+| sktok_acarm027_2 | 卡西米尔模型 | - | - |
+| sktok_acarm028_1 | 喀兰贸易模型 | - | - |
+| sktok_acarm028_2 | 喀兰贸易模型 | - | - |
+| sktok_acarm029_1 | 深海猎人模型 | - | - |
+| sktok_acarm029_2 | 深海猎人模型 | - | - |
+| sktok_acarm030_1 | 精英重装套组 | - | - |
+| sktok_acarm030_2 | 精英重装套组 | - | - |
+| sktok_acarm031_1 | 精英狙击套组 | - | - |
+| sktok_acarm031_2 | 精英狙击套组 | - | - |
+| sktok_acarm032_1 | 精英术师套组 | - | - |
+| sktok_acarm032_2 | 精英术师套组 | - | - |
+| sktok_acarm033_1 | 歌利亚头盔 | - | - |
+| sktok_acarm033_2 | 歌利亚头盔 | - | - |
+| sktok_acarm034_1 | M3护甲 | - | - |
+| sktok_acarm034_2 | M3护甲 | - | - |
+| sktok_acarm035_1 | M3利爪 | - | - |
+| sktok_acarm035_2 | M3利爪 | - | - |
+| sktok_acarm036_1 | 便携弹射器 | - | - |
+| sktok_acarm036_2 | 便携弹射器 | - | - |
+| sktok_acarm037_1 | 有限加速器 | - | - |
+| sktok_acarm037_2 | 有限加速器 | - | - |
+| sktok_acarm038_1 | 全能机械臂 | - | - |
+| sktok_acarm038_2 | 全能机械臂 | - | - |
+| sktok_acarm039_1 | 博士投影 | - | - |
+| sktok_acarm039_2 | 博士投影 | - | - |
+| sktok_acshopfr_1 | 补给留存 | - | - |
+| sktok_acshopre_1 | 补给调配 | - | - |
+| sktok_acshopup_1 | 补给升级 | - | - |
+| sktok_acspell001_1 | 法术：恢复 | - | - |
+| sktok_acspell002_1 | 法术：力量 | - | - |
+| sktok_acspell003_1 | 法术：传动 | - | - |
+| sktok_acspell004_1 | 法术：贪婪 | - | - |
+| sktok_acspell005_1 | 法术：满足 | - | - |
+| sktok_acspell006_1 | 法术：护盾 | - | - |
+| sktok_acspell007_1 | 法术：榜样 | - | - |
+| sktok_acspell008_1 | 法术：屏障 | - | - |
+| sktok_acspell009_1 | 法术：熟人 | - | - |
+| sktok_acspell010_1 | 法术：同行 | - | - |
+| sktok_acspell011_1 | 法术：提升 | - | - |
+| sktok_acspell012_1 | 法术：迟缓 | - | - |
+| sktok_acspell014_1 | 法术：全力 | - | - |
+| sktok_acspell015_1 | 法术：血税 | - | - |
+| sktok_acspell016_1 | 法术：破袭 | - | - |
+| sktok_acspell017_1 | 晋升调配特许 | - | - |
 | sktok_ads | 掩护 | Cover | 援護 |
 | sktok_aegiret_1 | 信标激活 | - | - |
 | sktok_aidkit | 急救 | First Aid | 応急処置 |
@@ -5458,6 +5669,11 @@ tip: 请善用浏览器的搜索功能
 | act1lock_b-03 | 白昼之地-沉思 | Daytime Ground - Meditation | 白昼の地-深慮 |
 | act1lock_b-04 | 白昼之地-坚守 | Daytime Ground - Perseverance | 白昼の地-堅守 |
 | act1lock_c-01 | 黄昏秘境 | Twilight Frontier | 黄昏の秘境 |
+| act1vautochess_m01 | AC-TR-1 | - | - |
+| act1vautochess_m02 | AC-1 | - | - |
+| act1vautochess_m03 | AC-2 | - | - |
+| act1vautochess_m04 | AC-2 | - | - |
+| act1vautochess_m05 | AC-2 | - | - |
 | act1vecb_01 | 拳拳生风 | - | - |
 | act1vecb_02 | 低温征兆 | - | - |
 | act1vecb_03 | 重荷 | - | - |
@@ -5802,6 +6018,11 @@ tip: 请善用浏览器的搜索功能
 | act38side_08 | 无私铁棘 | - | - |
 | act38side_09 | 狼群与群狼 | - | - |
 | act38side_10 | 铳响 | - | - |
+| act38side_s01 | 无尽玩笑 | - | - |
+| act38side_s02 | 荒唐共谋 | - | - |
+| act38side_s03 | 仓皇步法 | - | - |
+| act38side_s04 | 游戏终结 | - | - |
+| act38side_s05 | 荒芜谢幕 | - | - |
 | act38side_sp01 | 试演烟花秀 | - | - |
 | act38side_sp02 | 即兴烟花秀 | - | - |
 | act38side_sp03 | 狂欢之夜烟花秀 | - | - |

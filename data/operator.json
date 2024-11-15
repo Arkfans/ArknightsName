@@ -1762,5 +1762,53 @@
     "en_US": "Reserve Operator - Defender",
     "ja_JP": "予備隊員-重装",
     "zh_CN": "预备干员-重装"
+  },
+  "char_600_cpione": {
+    "zh_CN": "预备干员-先锋"
+  },
+  "char_601_cguard": {
+    "zh_CN": "预备干员-近卫"
+  },
+  "char_602_cdfend": {
+    "zh_CN": "预备干员-重装"
+  },
+  "char_603_csnipe": {
+    "zh_CN": "预备干员-狙击"
+  },
+  "char_604_ccast": {
+    "zh_CN": "预备干员-术师"
+  },
+  "char_605_cmedic": {
+    "zh_CN": "预备干员-医疗"
+  },
+  "char_606_csuppo": {
+    "zh_CN": "预备干员-辅助"
+  },
+  "char_607_cspec": {
+    "zh_CN": "预备干员-特种"
+  },
+  "char_608_acpion": {
+    "zh_CN": "郁金香"
+  },
+  "char_609_acguad": {
+    "zh_CN": "Sharp"
+  },
+  "char_610_acfend": {
+    "zh_CN": "Mechanist"
+  },
+  "char_611_acnipe": {
+    "zh_CN": "Stormeye"
+  },
+  "char_612_accast": {
+    "zh_CN": "Pith"
+  },
+  "char_613_acmedc": {
+    "zh_CN": "Touch"
+  },
+  "char_614_acsupo": {
+    "zh_CN": "Raidian"
+  },
+  "char_615_acspec": {
+    "zh_CN": "Misery"
   }
 }

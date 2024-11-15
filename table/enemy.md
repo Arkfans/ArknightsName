@@ -1185,3 +1185,8 @@ tip: 请善用浏览器的搜索功能
 | enemy_8007_eltrsm_3 | “迷迭香”，虚实之握 | - | - |
 | enemy_8008_eltswd | 矢量战术装备 | - | - |
 | enemy_8009_eltufo | “迷迭香”的无人机 | - | - |
+| enemy_9001_ayokai | 惊喜赞助无人机 | - | - |
+| enemy_9002_adsham | 萨卡兹渴血术师 | - | - |
+| enemy_9003_askate | 寻路者供弹手 | - | - |
+| enemy_9004_anlock | 技师囚犯 | - | - |
+| enemy_9005_aicemn | 冰晶射手 | - | - |

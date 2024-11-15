@@ -8,8 +8,32 @@ tip: 请善用浏览器的搜索功能
 | skchr_absin_1 | 执法模式 | Enforcement Mode | 執行態勢 |
 | skchr_absin_2 | 终结连射 | Ultimatum | 告死の弾雨 |
 | skchr_acast_1 | “为我所为” | 'All For Me' | 「我が成すことを成せ」 |
+| skchr_accast_1 | “书我所书” | - | - |
+| skchr_accast_2 | “为我所为” | - | - |
+| skchr_accast_3 | “驭我所驭” | - | - |
 | skchr_acdrop_1 | 花式点射 | Fancy Shot | ファンシーショット |
 | skchr_acdrop_2 | 扳机时刻 | Trigger Time | ダブルトリガー |
+| skchr_acfend_1 | 结构稳定 | - | - |
+| skchr_acfend_2 | 不变性原理 | - | - |
+| skchr_acfend_3 | 应力倒置 | - | - |
+| skchr_acguad_1 | 快刀 | - | - |
+| skchr_acguad_2 | 亮剑 | - | - |
+| skchr_acguad_3 | 力战不竭 | - | - |
+| skchr_acmedc_1 | 慨赠 | - | - |
+| skchr_acmedc_2 | 宛如天启 | - | - |
+| skchr_acmedc_3 | 恳切福音 | - | - |
+| skchr_acnipe_1 | 破空 | - | - |
+| skchr_acnipe_2 | 心手合一 | - | - |
+| skchr_acnipe_3 | 旋臂 | - | - |
+| skchr_acpion_1 | 钻心 | - | - |
+| skchr_acpion_2 | 迅瞬 | - | - |
+| skchr_acpion_3 | 只余芬芳 | - | - |
+| skchr_acspec_1 | 物理的服从 | - | - |
+| skchr_acspec_2 | 战争的恭顺 | - | - |
+| skchr_acspec_3 | 空间的归依 | - | - |
+| skchr_acsupo_1 | 双声 | - | - |
+| skchr_acsupo_2 | 三形 | - | - |
+| skchr_acsupo_3 | 信号跃动 | - | - |
 | skchr_aglina_1 | 秘杖·速充模式 | Arcane Staff - Quick Charge Mode | 秘杖・急収束　 |
 | skchr_aglina_2 | 秘杖·微粒模式 | Arcane Staff - Particle Mode | 秘杖・微粒子 |
 | skchr_aglina_3 | 秘杖·反重力模式 | Arcane Staff - Anti-Gravity Mode | 秘杖・反重力 |
@@ -705,6 +729,9 @@ tip: 请善用浏览器的搜索功能
 | skcom_atk_up[1] | 攻击力强化·α型 | ATK Up α | 攻撃力強化α |
 | skcom_atk_up[2] | 攻击力强化·β型 | ATK Up β | 攻撃力強化β |
 | skcom_atk_up[3] | 攻击力强化·γ型 | ATK Up γ | 攻撃力強化γ |
+| skcom_born_up[1] | 一击即退·α型 | - | - |
+| skcom_born_up[2] | 一击即退·β型 | - | - |
+| skcom_born_up[3] | 一击即退·γ型 | - | - |
 | skcom_charge_cost[1] | 冲锋号令·α型 | Charge α | 突撃指令α |
 | skcom_charge_cost[2] | 冲锋号令·β型 | Charge β | 突撃指令β |
 | skcom_charge_cost[3] | 冲锋号令·γ型 | Charge γ | 突撃指令γ |
@@ -725,6 +752,105 @@ tip: 请善用浏览器的搜索功能
 | skcom_quickattack[3] | 迅捷打击·γ型 | Swift Strike γ | 迅速攻撃γ |
 | skcom_range_extend | 治疗范围强化 | Healing Range Up | 回復範囲強化 |
 | skcom_withdraw | 自我销毁 | Self-Destruct | 自動消滅 |
+| sktok_acarm000_1 | 小盾 | - | - |
+| sktok_acarm000_2 | 小盾 | - | - |
+| sktok_acarm001_1 | 短剑 | - | - |
+| sktok_acarm001_2 | 短剑 | - | - |
+| sktok_acarm002_1 | 幸运币 | - | - |
+| sktok_acarm002_2 | 幸运币 | - | - |
+| sktok_acarm003_1 | 冰块 | - | - |
+| sktok_acarm003_2 | 冰块 | - | - |
+| sktok_acarm004_1 | 压缩饼干 | - | - |
+| sktok_acarm004_2 | 压缩饼干 | - | - |
+| sktok_acarm005_1 | 信标 | - | - |
+| sktok_acarm005_2 | 信标 | - | - |
+| sktok_acarm006_1 | 源岩匕首 | - | - |
+| sktok_acarm006_2 | 源岩匕首 | - | - |
+| sktok_acarm007_1 | 源石溶剂 | - | - |
+| sktok_acarm007_2 | 源石溶剂 | - | - |
+| sktok_acarm008_1 | 激光发射器 | - | - |
+| sktok_acarm008_2 | 激光发射器 | - | - |
+| sktok_acarm009_1 | 喀兰贸易文档 | - | - |
+| sktok_acarm009_2 | 喀兰贸易文档 | - | - |
+| sktok_acarm010_1 | 卡西米尔文档 | - | - |
+| sktok_acarm010_2 | 卡西米尔文档 | - | - |
+| sktok_acarm011_1 | 深海猎人文档 | - | - |
+| sktok_acarm011_2 | 深海猎人文档 | - | - |
+| sktok_acarm012_1 | 浓茶 | - | - |
+| sktok_acarm012_2 | 浓茶 | - | - |
+| sktok_acarm013_1 | 蜂鸣器 | - | - |
+| sktok_acarm013_2 | 蜂鸣器 | - | - |
+| sktok_acarm014_1 | 精打细算玩偶 | - | - |
+| sktok_acarm014_2 | 精打细算玩偶 | - | - |
+| sktok_acarm015_1 | 见钱眼开玩偶 | - | - |
+| sktok_acarm015_2 | 见钱眼开玩偶 | - | - |
+| sktok_acarm016_1 | 预备进阶许可 | - | - |
+| sktok_acarm016_2 | 预备进阶许可 | - | - |
+| sktok_acarm017_1 | 战场分析仪 | - | - |
+| sktok_acarm017_2 | 战场分析仪 | - | - |
+| sktok_acarm018_1 | 震撼弹 | - | - |
+| sktok_acarm018_2 | 震撼弹 | - | - |
+| sktok_acarm019_1 | 制式重装盾 | - | - |
+| sktok_acarm019_2 | 制式重装盾 | - | - |
+| sktok_acarm020_1 | 制式狙击镜 | - | - |
+| sktok_acarm020_2 | 制式狙击镜 | - | - |
+| sktok_acarm021_1 | 制式术师杖 | - | - |
+| sktok_acarm021_2 | 制式术师杖 | - | - |
+| sktok_acarm022_1 | 口袋法阵 | - | - |
+| sktok_acarm022_2 | 口袋法阵 | - | - |
+| sktok_acarm023_1 | 竞技投币机 | - | - |
+| sktok_acarm023_2 | 竞技投币机 | - | - |
+| sktok_acarm024_1 | 工匠锤 | - | - |
+| sktok_acarm024_2 | 工匠锤 | - | - |
+| sktok_acarm025_1 | 休眠子裔 | - | - |
+| sktok_acarm025_2 | 休眠子裔 | - | - |
+| sktok_acarm026_1 | 术师无人机 | - | - |
+| sktok_acarm026_2 | 术师无人机 | - | - |
+| sktok_acarm027_1 | 卡西米尔模型 | - | - |
+| sktok_acarm027_2 | 卡西米尔模型 | - | - |
+| sktok_acarm028_1 | 喀兰贸易模型 | - | - |
+| sktok_acarm028_2 | 喀兰贸易模型 | - | - |
+| sktok_acarm029_1 | 深海猎人模型 | - | - |
+| sktok_acarm029_2 | 深海猎人模型 | - | - |
+| sktok_acarm030_1 | 精英重装套组 | - | - |
+| sktok_acarm030_2 | 精英重装套组 | - | - |
+| sktok_acarm031_1 | 精英狙击套组 | - | - |
+| sktok_acarm031_2 | 精英狙击套组 | - | - |
+| sktok_acarm032_1 | 精英术师套组 | - | - |
+| sktok_acarm032_2 | 精英术师套组 | - | - |
+| sktok_acarm033_1 | 歌利亚头盔 | - | - |
+| sktok_acarm033_2 | 歌利亚头盔 | - | - |
+| sktok_acarm034_1 | M3护甲 | - | - |
+| sktok_acarm034_2 | M3护甲 | - | - |
+| sktok_acarm035_1 | M3利爪 | - | - |
+| sktok_acarm035_2 | M3利爪 | - | - |
+| sktok_acarm036_1 | 便携弹射器 | - | - |
+| sktok_acarm036_2 | 便携弹射器 | - | - |
+| sktok_acarm037_1 | 有限加速器 | - | - |
+| sktok_acarm037_2 | 有限加速器 | - | - |
+| sktok_acarm038_1 | 全能机械臂 | - | - |
+| sktok_acarm038_2 | 全能机械臂 | - | - |
+| sktok_acarm039_1 | 博士投影 | - | - |
+| sktok_acarm039_2 | 博士投影 | - | - |
+| sktok_acshopfr_1 | 补给留存 | - | - |
+| sktok_acshopre_1 | 补给调配 | - | - |
+| sktok_acshopup_1 | 补给升级 | - | - |
+| sktok_acspell001_1 | 法术：恢复 | - | - |
+| sktok_acspell002_1 | 法术：力量 | - | - |
+| sktok_acspell003_1 | 法术：传动 | - | - |
+| sktok_acspell004_1 | 法术：贪婪 | - | - |
+| sktok_acspell005_1 | 法术：满足 | - | - |
+| sktok_acspell006_1 | 法术：护盾 | - | - |
+| sktok_acspell007_1 | 法术：榜样 | - | - |
+| sktok_acspell008_1 | 法术：屏障 | - | - |
+| sktok_acspell009_1 | 法术：熟人 | - | - |
+| sktok_acspell010_1 | 法术：同行 | - | - |
+| sktok_acspell011_1 | 法术：提升 | - | - |
+| sktok_acspell012_1 | 法术：迟缓 | - | - |
+| sktok_acspell014_1 | 法术：全力 | - | - |
+| sktok_acspell015_1 | 法术：血税 | - | - |
+| sktok_acspell016_1 | 法术：破袭 | - | - |
+| sktok_acspell017_1 | 晋升调配特许 | - | - |
 | sktok_ads | 掩护 | Cover | 援護 |
 | sktok_aegiret_1 | 信标激活 | - | - |
 | sktok_aidkit | 急救 | First Aid | 応急処置 |

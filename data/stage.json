@@ -1779,6 +1779,21 @@
     "ja_JP": "黄昏の秘境",
     "zh_CN": "黄昏秘境"
   },
+  "act1vautochess_m01": {
+    "zh_CN": "AC-TR-1"
+  },
+  "act1vautochess_m02": {
+    "zh_CN": "AC-1"
+  },
+  "act1vautochess_m03": {
+    "zh_CN": "AC-2"
+  },
+  "act1vautochess_m04": {
+    "zh_CN": "AC-2"
+  },
+  "act1vautochess_m05": {
+    "zh_CN": "AC-2"
+  },
   "act1vecb_01": {
     "zh_CN": "拳拳生风"
   },
@@ -3342,6 +3357,21 @@
   },
   "act38side_10": {
     "zh_CN": "铳响"
+  },
+  "act38side_s01": {
+    "zh_CN": "无尽玩笑"
+  },
+  "act38side_s02": {
+    "zh_CN": "荒唐共谋"
+  },
+  "act38side_s03": {
+    "zh_CN": "仓皇步法"
+  },
+  "act38side_s04": {
+    "zh_CN": "游戏终结"
+  },
+  "act38side_s05": {
+    "zh_CN": "荒芜谢幕"
   },
   "act38side_sp01": {
     "zh_CN": "试演烟花秀"

@@ -5624,5 +5624,20 @@
   },
   "enemy_8009_eltufo": {
     "zh_CN": "“迷迭香”的无人机"
+  },
+  "enemy_9001_ayokai": {
+    "zh_CN": "惊喜赞助无人机"
+  },
+  "enemy_9002_adsham": {
+    "zh_CN": "萨卡兹渴血术师"
+  },
+  "enemy_9003_askate": {
+    "zh_CN": "寻路者供弹手"
+  },
+  "enemy_9004_anlock": {
+    "zh_CN": "技师囚犯"
+  },
+  "enemy_9005_aicemn": {
+    "zh_CN": "冰晶射手"
   }
 }

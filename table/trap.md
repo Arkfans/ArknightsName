@@ -100,16 +100,77 @@ tip: 请善用浏览器的搜索功能
 | trap_097_hstone | 城防路障 | Roadblocks | 都市防衛柵 |
 | trap_098_mire | 沼泽控制 | Mire Control | 沼地制御 |
 | trap_099_mhflsb | 眩光手雷 | Flash Grenade | 閃光爆弾 |
+| trap_1000_acarm000 | 小盾 | - | - |
+| trap_1001_acarm001 | 短剑 | - | - |
+| trap_1002_acarm002 | 幸运币 | - | - |
+| trap_1003_acarm003 | 冰块 | - | - |
+| trap_1004_acarm004 | 压缩饼干 | - | - |
+| trap_1005_acarm005 | 信标 | - | - |
+| trap_1006_acarm006 | 源岩匕首 | - | - |
+| trap_1007_acarm007 | 源石溶剂 | - | - |
+| trap_1008_acarm008 | 激光发射器 | - | - |
+| trap_1009_acarm009 | 喀兰贸易文档 | - | - |
 | trap_100_mhlbmb | 高能源石爆桶 | High-Energy Originium Barrel Bomb | 源石タル爆弾 |
+| trap_1010_acarm010 | 卡西米尔文档 | - | - |
+| trap_1011_acarm011 | 深海猎人文档 | - | - |
+| trap_1012_acarm012 | 浓茶 | - | - |
+| trap_1013_acarm013 | 蜂鸣器 | - | - |
+| trap_1014_acarm014 | 精打细算玩偶 | - | - |
+| trap_1015_acarm015 | 见钱眼开玩偶 | - | - |
+| trap_1016_acarm016 | 预备进阶许可 | - | - |
+| trap_1017_acarm017 | 战场分析仪 | - | - |
+| trap_1018_acarm018 | 震撼弹 | - | - |
+| trap_1019_acarm019 | 制式重装盾 | - | - |
 | trap_101_mhshok | 高压脉冲诡雷 | High-Voltage Shock Trap | 高電圧シビレ罠 |
+| trap_1020_acarm020 | 制式狙击镜 | - | - |
+| trap_1021_acarm021 | 制式术师杖 | - | - |
+| trap_1022_acarm022 | 口袋法阵 | - | - |
+| trap_1023_acarm023 | 竞技投币机 | - | - |
+| trap_1024_acarm024 | 工匠锤 | - | - |
+| trap_1025_acarm025 | 休眠子裔 | - | - |
+| trap_1026_acarm026 | 术师无人机 | - | - |
+| trap_1027_acarm027 | 卡西米尔模型 | - | - |
+| trap_1028_acarm028 | 喀兰贸易模型 | - | - |
+| trap_1029_acarm029 | 深海猎人模型 | - | - |
 | trap_102_mhwrbg | 滞空牵引无人机 | Wiredrone | 滞空牽引ドローン |
+| trap_1030_acarm030 | 精英重装套组 | - | - |
+| trap_1031_acarm031 | 精英狙击套组 | - | - |
+| trap_1032_acarm032 | 精英术师套组 | - | - |
+| trap_1033_acarm033 | 歌利亚头盔 | - | - |
+| trap_1034_acarm034 | M3护甲 | - | - |
+| trap_1035_acarm035 | M3利爪 | - | - |
+| trap_1036_acarm036 | 便携弹射器 | - | - |
+| trap_1037_acarm037 | 有限加速器 | - | - |
+| trap_1038_acarm038 | 全能机械臂 | - | - |
+| trap_1039_acarm039 | 博士投影 | - | - |
 | trap_103_ymdgct | 地形增伤控制 | Mire Controller | 地形ダメージ制御 |
 | trap_104_dplant | 改性植物激素 | Modified Phytohormone | 改良型植物ホルモン |
 | trap_105_mhwrct | 滞空牵引无人机 | Wiredrone | 滞空牽引ドローン |
 | trap_106_smtree | 积雪银凇  | Silvernwhite Bulwark | 積雪の銀樹 |
 | trap_107_smpow | 空间稳定设施 | Dimensional Anchoring Pylon | 空間安定化設備 |
+| trap_1080_acspell001 | 法术：恢复 | - | - |
+| trap_1081_acspell002 | 法术：力量 | - | - |
+| trap_1082_acspell003 | 法术：传动 | - | - |
+| trap_1083_acspell004 | 法术：贪婪 | - | - |
+| trap_1084_acspell005 | 法术：满足 | - | - |
+| trap_1085_acspell006 | 法术：护盾 | - | - |
+| trap_1086_acspell007 | 法术：榜样 | - | - |
+| trap_1087_acspell008 | 法术：屏障 | - | - |
+| trap_1088_acspell009 | 法术：熟人 | - | - |
+| trap_1089_acspell010 | 法术：同行 | - | - |
 | trap_108_smbox | 宝箱 | Treasure Chest | 宝箱 |
+| trap_1090_acspell011 | 法术：提升 | - | - |
+| trap_1091_acspell012 | 法术：迟缓 | - | - |
+| trap_1093_acspell014 | 法术：全力 | - | - |
+| trap_1094_acspell015 | 法术：血税 | - | - |
+| trap_1095_acspell016 | 法术：破袭 | - | - |
+| trap_1096_acshopup | 驳船操作员 | - | - |
+| trap_1097_acshopre | 补给调配器 | - | - |
+| trap_1098_acshopfr | 补给留存器 | - | - |
+| trap_1099_acspell017 | 晋升调配特许 | - | - |
 | trap_109_smrbox | 尖刺宝箱 | Spiked Treasure Chest | トゲトゲ宝箱 |
+| trap_1100_acreddoor | 敌人入口 | - | - |
+| trap_1101_acplane | 补给驳船 | - | - |
 | trap_110_smbbox | 巨壳藤蔓 | Testaceous Vinecreeps | 巨殻のツル |
 | trap_111_wdfarm | 街头应急储备 | Roadside Emergency Reserves | 街の緊急用備蓄 |
 | trap_112_crsbow | 解雇者清债程序 | Post-Firing Debt Relief Program | 解雇者清算プログラム |

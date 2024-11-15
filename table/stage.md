@@ -365,6 +365,11 @@ tip: 请善用浏览器的搜索功能
 | act1lock_b-03 | 白昼之地-沉思 | Daytime Ground - Meditation | 白昼の地-深慮 |
 | act1lock_b-04 | 白昼之地-坚守 | Daytime Ground - Perseverance | 白昼の地-堅守 |
 | act1lock_c-01 | 黄昏秘境 | Twilight Frontier | 黄昏の秘境 |
+| act1vautochess_m01 | AC-TR-1 | - | - |
+| act1vautochess_m02 | AC-1 | - | - |
+| act1vautochess_m03 | AC-2 | - | - |
+| act1vautochess_m04 | AC-2 | - | - |
+| act1vautochess_m05 | AC-2 | - | - |
 | act1vecb_01 | 拳拳生风 | - | - |
 | act1vecb_02 | 低温征兆 | - | - |
 | act1vecb_03 | 重荷 | - | - |
@@ -709,6 +714,11 @@ tip: 请善用浏览器的搜索功能
 | act38side_08 | 无私铁棘 | - | - |
 | act38side_09 | 狼群与群狼 | - | - |
 | act38side_10 | 铳响 | - | - |
+| act38side_s01 | 无尽玩笑 | - | - |
+| act38side_s02 | 荒唐共谋 | - | - |
+| act38side_s03 | 仓皇步法 | - | - |
+| act38side_s04 | 游戏终结 | - | - |
+| act38side_s05 | 荒芜谢幕 | - | - |
 | act38side_sp01 | 试演烟花秀 | - | - |
 | act38side_sp02 | 即兴烟花秀 | - | - |
 | act38side_sp03 | 狂欢之夜烟花秀 | - | - |
