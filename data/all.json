@@ -6680,6 +6680,7 @@
   "char_1031_slent2@epoque#32": {
     "type": "SKIN",
     "names": {
+      "en_US": "Habitat",
       "ja_JP": "羽休め",
       "zh_CN": "栖息"
     }
@@ -6979,6 +6980,7 @@
   "char_136_hsguma@summer#16": {
     "type": "SKIN",
     "names": {
+      "en_US": "Seeker SK97",
       "ja_JP": "シーカーSK97",
       "zh_CN": "探寻者 SK97"
     }
@@ -19500,6 +19502,7 @@
   "act25sre": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Lone Trail - Rerun",
       "ja_JP": "孤星・復刻",
       "zh_CN": "孤星·复刻"
     }
@@ -22670,6 +22673,7 @@
   "act25side_token_fdrchips_rep_1": {
     "type": "ITEM",
     "names": {
+      "en_US": "Flight Data Recorder Chip",
       "ja_JP": "飛行データチップ",
       "zh_CN": "飞行数据记录芯片"
     }
@@ -52037,6 +52041,7 @@
   "act25sre_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "The Coming of The Future",
       "ja_JP": "来たる未来",
       "zh_CN": "未来将至"
     }
@@ -52044,6 +52049,7 @@
   "act25sre_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "The Lingering of the Past",
       "ja_JP": "過ぎぬ過去",
       "zh_CN": "过往未尽"
     }
@@ -52051,6 +52057,7 @@
   "act25sre_zone3": {
     "type": "ZONE",
     "names": {
+      "en_US": "The Pursuing of the Present",
       "ja_JP": "在るべき今",
       "zh_CN": "紧握当下"
     }

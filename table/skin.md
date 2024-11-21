@@ -33,7 +33,7 @@ tip: 请善用浏览器的搜索功能
 | char_1028_texas2@iteration#1 | 破翼者 | Wingbreaker | ウィングブレイカー |
 | char_102_texas@epoque#7 | 意志 | Willpower | 意志 |
 | char_102_texas@winter#1 | 寒冬信使 | Winter Messenger | 冬の使者 |
-| char_1031_slent2@epoque#32 | 栖息 | - | 羽休め |
+| char_1031_slent2@epoque#32 | 栖息 | Habitat | 羽休め |
 | char_1032_excu2@sale#12 | 众志归一 | - | - |
 | char_1033_swire2@ambienceSynesthesia#4 | 律动方格 | Rhythmic Blocks | リズミックブロック |
 | char_103_angel@kfc#1 | 城市骑手 | City Rider | シティライダー |
@@ -71,7 +71,7 @@ tip: 请善用浏览器的搜索功能
 | char_134_ifrit@summer#1 | 日晒 SS.SP | Sunburn SS.SP | サンライトSS.SP |
 | char_135_halo@epoque#25 | 所愿 | Her Aspiration | 冀望 |
 | char_136_hsguma@nian#3 | 狩标浪人 | Ronin Huntress | 流離いの旗印 |
-| char_136_hsguma@summer#16 | 探寻者 SK97 | - | シーカーSK97 |
+| char_136_hsguma@summer#16 | 探寻者 SK97 | Seeker SK97 | シーカーSK97 |
 | char_137_brownb@kitchen#1 | 掠蜜能手 | Honey Pilferer | ハチミツハンター |
 | char_140_whitew@boc#1 | 典雅噩兆 | Refined Horrormare | 典雅なる凶兆 |
 | char_143_ghost@winter#1 | 暗流 | Undercurrent | 暗流 |
