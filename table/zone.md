@@ -128,9 +128,9 @@ tip: 请善用浏览器的搜索功能
 | act25side_zone1 | 未来将至 | The Coming of The Future | 来たる未来 |
 | act25side_zone2 | 过往未尽 | The Lingering of the Past | 過ぎぬ過去 |
 | act25side_zone3 | 紧握当下 | The Pursuing of the Present | 在るべき今 |
-| act25sre_zone1 | 未来将至 | - | - |
-| act25sre_zone2 | 过往未尽 | - | - |
-| act25sre_zone3 | 紧握当下 | - | - |
+| act25sre_zone1 | 未来将至 | - | 来たる未来 |
+| act25sre_zone2 | 过往未尽 | - | 過ぎぬ過去 |
+| act25sre_zone3 | 紧握当下 | - | 在るべき今 |
 | act26side_zone1 | 安布罗修修道院 | Sanctilaminium Ambrosii | アンブロシウス修道院 |
 | act26side_zone2 | 废弃圣堂 | Sacrarium Derelictum | 廃聖堂 |
 | act26sre_zone1 | 安布罗修修道院 | - | - |

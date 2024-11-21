@@ -888,7 +888,7 @@ tip: 请善用浏览器的搜索功能
 | char_1028_texas2@iteration#1 | 破翼者 | Wingbreaker | ウィングブレイカー |
 | char_102_texas@epoque#7 | 意志 | Willpower | 意志 |
 | char_102_texas@winter#1 | 寒冬信使 | Winter Messenger | 冬の使者 |
-| char_1031_slent2@epoque#32 | 栖息 | - | - |
+| char_1031_slent2@epoque#32 | 栖息 | - | 羽休め |
 | char_1032_excu2@sale#12 | 众志归一 | - | - |
 | char_1033_swire2@ambienceSynesthesia#4 | 律动方格 | Rhythmic Blocks | リズミックブロック |
 | char_103_angel@kfc#1 | 城市骑手 | City Rider | シティライダー |
@@ -926,7 +926,7 @@ tip: 请善用浏览器的搜索功能
 | char_134_ifrit@summer#1 | 日晒 SS.SP | Sunburn SS.SP | サンライトSS.SP |
 | char_135_halo@epoque#25 | 所愿 | Her Aspiration | 冀望 |
 | char_136_hsguma@nian#3 | 狩标浪人 | Ronin Huntress | 流離いの旗印 |
-| char_136_hsguma@summer#16 | 探寻者 SK97 | - | - |
+| char_136_hsguma@summer#16 | 探寻者 SK97 | - | シーカーSK97 |
 | char_137_brownb@kitchen#1 | 掠蜜能手 | Honey Pilferer | ハチミツハンター |
 | char_140_whitew@boc#1 | 典雅噩兆 | Refined Horrormare | 典雅なる凶兆 |
 | char_143_ghost@winter#1 | 暗流 | Undercurrent | 暗流 |
@@ -2538,7 +2538,7 @@ tip: 请善用浏览器的搜索功能
 | act24sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act25side | 孤星 | Lone Trail | 孤星 |
 | act25sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
-| act25sre | 孤星·复刻 | - | - |
+| act25sre | 孤星·复刻 | - | 孤星・復刻 |
 | act26side | 空想花庭 | Hortus de Escapismo | 空想の花庭 |
 | act26sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act26sre | 空想花庭·复刻 | - | - |
@@ -2944,7 +2944,7 @@ tip: 请善用浏览器的搜索功能
 | act24side_melding_5 | “兽之泪” | 'Monster Tears' | 獣のナミダ |
 | act24side_melding_6 | 火龙的红玉 | Rathalos Ruby | 火竜の紅玉 |
 | act25side_token_fdrchips | 飞行数据记录芯片 | Flight Data Recorder Chip | 飛行データチップ |
-| act25side_token_fdrchips_rep_1 | 飞行数据记录芯片 | - | - |
+| act25side_token_fdrchips_rep_1 | 飞行数据记录芯片 | - | 飛行データチップ |
 | act25side_token_key01 | 特殊作战许可·α | Special Ops Permit α | 特殊作戦許可α |
 | act25side_token_key02 | 特殊作战许可·β | Special Ops Permit β | 特殊作戦許可β |
 | act26side_token_fragmenta | 圣像碎片 | Holy Statue Fragments | 聖像のかけら |
@@ -6764,9 +6764,9 @@ tip: 请善用浏览器的搜索功能
 | act25side_zone1 | 未来将至 | The Coming of The Future | 来たる未来 |
 | act25side_zone2 | 过往未尽 | The Lingering of the Past | 過ぎぬ過去 |
 | act25side_zone3 | 紧握当下 | The Pursuing of the Present | 在るべき今 |
-| act25sre_zone1 | 未来将至 | - | - |
-| act25sre_zone2 | 过往未尽 | - | - |
-| act25sre_zone3 | 紧握当下 | - | - |
+| act25sre_zone1 | 未来将至 | - | 来たる未来 |
+| act25sre_zone2 | 过往未尽 | - | 過ぎぬ過去 |
+| act25sre_zone3 | 紧握当下 | - | 在るべき今 |
 | act26side_zone1 | 安布罗修修道院 | Sanctilaminium Ambrosii | アンブロシウス修道院 |
 | act26side_zone2 | 废弃圣堂 | Sacrarium Derelictum | 廃聖堂 |
 | act26sre_zone1 | 安布罗修修道院 | - | - |
