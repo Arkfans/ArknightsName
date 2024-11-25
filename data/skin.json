@@ -987,6 +987,9 @@
     "ja_JP": "安息の午夜DN06",
     "zh_CN": "静谧午夜 DN06"
   },
+  "char_311_mudrok@wild#10": {
+    "zh_CN": "砾瓦"
+  },
   "char_322_lmlee@sanrio#1": {
     "zh_CN": "坊间凉茶铺"
   },
@@ -1231,6 +1234,9 @@
     "en_US": "Candy Cape",
     "ja_JP": "キャンディフェアリー",
     "zh_CN": "糖果仙子"
+  },
+  "char_4011_lessng@whirlwind#7": {
+    "zh_CN": "幻火"
   },
   "char_4013_kjera@epoque#18": {
     "en_US": "Ingenious Servant",

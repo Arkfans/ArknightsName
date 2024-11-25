@@ -281,10 +281,15 @@ tip: 请善用浏览器的搜索功能
 | act28side_token_box | 劣质燃料 | Shoddy Fuel | 粗悪燃料 |
 | act28side_token_box_rep_1 | 劣质燃料 | - | - |
 | act29side_frag_1 | 乐之节符 | Note of Joy | 楽の音符 |
+| act29side_frag_1_rep_1 | 乐之节符 | - | - |
 | act29side_frag_2 | 怒之节符 | Note of Anger | 怒の音符 |
+| act29side_frag_2_rep_1 | 怒之节符 | - | - |
 | act29side_frag_3 | 哀之节符 | Note of Sorrow | 哀の音符 |
+| act29side_frag_3_rep_1 | 哀之节符 | - | - |
 | act29side_frag_4 | 惧之节符 | Note of Fear | 恐の音符 |
+| act29side_frag_4_rep_1 | 惧之节符 | - | - |
 | act29side_token_erin | 调律追忆 | Die Klänge von den Erinnerungen | 調律の追憶 |
+| act29side_token_erin_rep_1 | 调律追忆 | - | - |
 | act2bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act2bossrush_relic_01 | 修复套件 | Repair Kit | リカバリーキット |
 | act2bossrush_relic_02 | 维续补丁 | Maintenance Patch | メインテインパッチ |

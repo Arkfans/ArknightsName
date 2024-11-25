@@ -8065,6 +8065,12 @@
       "zh_CN": "静谧午夜 DN06"
     }
   },
+  "char_311_mudrok@wild#10": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "砾瓦"
+    }
+  },
   "char_322_lmlee@sanrio#1": {
     "type": "SKIN",
     "names": {
@@ -8461,6 +8467,12 @@
       "en_US": "Candy Cape",
       "ja_JP": "キャンディフェアリー",
       "zh_CN": "糖果仙子"
+    }
+  },
+  "char_4011_lessng@whirlwind#7": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "幻火"
     }
   },
   "char_4013_kjera@epoque#18": {
@@ -19589,6 +19601,12 @@
       "zh_CN": "桂时逢月——月饼烘焙小教程"
     }
   },
+  "act29sre": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "崔林特尔梅之金·复刻"
+    }
+  },
   "act2bossrush": {
     "type": "ACTIVITY",
     "names": {
@@ -22744,11 +22762,23 @@
       "zh_CN": "乐之节符"
     }
   },
+  "act29side_frag_1_rep_1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "乐之节符"
+    }
+  },
   "act29side_frag_2": {
     "type": "ITEM",
     "names": {
       "en_US": "Note of Anger",
       "ja_JP": "怒の音符",
+      "zh_CN": "怒之节符"
+    }
+  },
+  "act29side_frag_2_rep_1": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "怒之节符"
     }
   },
@@ -22760,6 +22790,12 @@
       "zh_CN": "哀之节符"
     }
   },
+  "act29side_frag_3_rep_1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "哀之节符"
+    }
+  },
   "act29side_frag_4": {
     "type": "ITEM",
     "names": {
@@ -22768,11 +22804,23 @@
       "zh_CN": "惧之节符"
     }
   },
+  "act29side_frag_4_rep_1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "惧之节符"
+    }
+  },
   "act29side_token_erin": {
     "type": "ITEM",
     "names": {
       "en_US": "Die Klänge von den Erinnerungen",
       "ja_JP": "調律の追憶",
+      "zh_CN": "调律追忆"
+    }
+  },
+  "act29side_token_erin_rep_1": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "调律追忆"
     }
   },
@@ -52184,6 +52232,24 @@
       "zh_CN": "权威无情"
     }
   },
+  "act29sre_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "朝见双塔"
+    }
+  },
+  "act29sre_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "恩典永恒"
+    }
+  },
+  "act29sre_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "权威无情"
+    }
+  },
   "act2bossrush_zone1": {
     "type": "ZONE",
     "names": {
@@ -52888,6 +52954,24 @@
     "type": "ZONE",
     "names": {
       "zh_CN": "黑色舰船"
+    }
+  },
+  "permanent_sidestory_23_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "朝见双塔"
+    }
+  },
+  "permanent_sidestory_23_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "恩典永恒"
+    }
+  },
+  "permanent_sidestory_23_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "权威无情"
     }
   },
   "permanent_sidestory_2_zone1": {

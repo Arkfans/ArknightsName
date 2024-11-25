@@ -209,6 +209,7 @@ tip: 请善用浏览器的搜索功能
 | char_308_swire@nian#2 | 富贵荣华 | Honor and Splendor | 富貴栄華 |
 | char_311_mudrok@ambienceSynesthesia#2 | 黑曜石 | Obsidian | オブシディアン |
 | char_311_mudrok@summer#6 | 静谧午夜 DN06 | Silent Night DN06 | 安息の午夜DN06 |
+| char_311_mudrok@wild#10 | 砾瓦 | - | - |
 | char_322_lmlee@sanrio#1 | 坊间凉茶铺 | - | - |
 | char_322_lmlee@witch#3 | 手到牌来 | Trust Your Eyes | お目を拝借 |
 | char_326_glacus@ghost#1 | 广场扫荡客 | Exterminator in the Square | 広場の掃討者 |
@@ -260,6 +261,7 @@ tip: 请善用浏览器的搜索功能
 | char_4009_irene@game#3 | 至高判决 | - | - |
 | char_400_weedy@sightseer#1 | 倾听 | - | - |
 | char_400_weedy@snow#2 | 糖果仙子 | Candy Cape | キャンディフェアリー |
+| char_4011_lessng@whirlwind#7 | 幻火 | - | - |
 | char_4013_kjera@epoque#18 | 灵巧侍者 | Ingenious Servant | 腕利き侍女 |
 | char_4014_lunacu@yun#1 | 棠云巧梦 | Clouds Float Like Ideas of Art | 海棠の夢 |
 | char_4016_kazema@witch#3 | 幻影轻悄 | Like Illusion | 軽やかな幻影 |

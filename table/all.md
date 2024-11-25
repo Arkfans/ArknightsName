@@ -1064,6 +1064,7 @@ tip: 请善用浏览器的搜索功能
 | char_308_swire@nian#2 | 富贵荣华 | Honor and Splendor | 富貴栄華 |
 | char_311_mudrok@ambienceSynesthesia#2 | 黑曜石 | Obsidian | オブシディアン |
 | char_311_mudrok@summer#6 | 静谧午夜 DN06 | Silent Night DN06 | 安息の午夜DN06 |
+| char_311_mudrok@wild#10 | 砾瓦 | - | - |
 | char_322_lmlee@sanrio#1 | 坊间凉茶铺 | - | - |
 | char_322_lmlee@witch#3 | 手到牌来 | Trust Your Eyes | お目を拝借 |
 | char_326_glacus@ghost#1 | 广场扫荡客 | Exterminator in the Square | 広場の掃討者 |
@@ -1115,6 +1116,7 @@ tip: 请善用浏览器的搜索功能
 | char_4009_irene@game#3 | 至高判决 | - | - |
 | char_400_weedy@sightseer#1 | 倾听 | - | - |
 | char_400_weedy@snow#2 | 糖果仙子 | Candy Cape | キャンディフェアリー |
+| char_4011_lessng@whirlwind#7 | 幻火 | - | - |
 | char_4013_kjera@epoque#18 | 灵巧侍者 | Ingenious Servant | 腕利き侍女 |
 | char_4014_lunacu@yun#1 | 棠云巧梦 | Clouds Float Like Ideas of Art | 海棠の夢 |
 | char_4016_kazema@witch#3 | 幻影轻悄 | Like Illusion | 軽やかな幻影 |
@@ -2550,6 +2552,7 @@ tip: 请善用浏览器的搜索功能
 | act28sre | 不义之财 复刻 | - | - |
 | act29side | 崔林特尔梅之金 | Zwillingstürme im Herbst | ツヴィリングトゥルムの黄金 |
 | act29sign | 桂时逢月——月饼烘焙小教程 | Encounter At The Osmanthus Blossom - Mooncake-Making Tutorial | 円満団楽-ロドス点心教室 |
+| act29sre | 崔林特尔梅之金·复刻 | - | - |
 | act2bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act2d5 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act2d8 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -2954,10 +2957,15 @@ tip: 请善用浏览器的搜索功能
 | act28side_token_box | 劣质燃料 | Shoddy Fuel | 粗悪燃料 |
 | act28side_token_box_rep_1 | 劣质燃料 | - | - |
 | act29side_frag_1 | 乐之节符 | Note of Joy | 楽の音符 |
+| act29side_frag_1_rep_1 | 乐之节符 | - | - |
 | act29side_frag_2 | 怒之节符 | Note of Anger | 怒の音符 |
+| act29side_frag_2_rep_1 | 怒之节符 | - | - |
 | act29side_frag_3 | 哀之节符 | Note of Sorrow | 哀の音符 |
+| act29side_frag_3_rep_1 | 哀之节符 | - | - |
 | act29side_frag_4 | 惧之节符 | Note of Fear | 恐の音符 |
+| act29side_frag_4_rep_1 | 惧之节符 | - | - |
 | act29side_token_erin | 调律追忆 | Die Klänge von den Erinnerungen | 調律の追憶 |
+| act29side_token_erin_rep_1 | 调律追忆 | - | - |
 | act2bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act2bossrush_relic_01 | 修复套件 | Repair Kit | リカバリーキット |
 | act2bossrush_relic_02 | 维续补丁 | Maintenance Patch | メインテインパッチ |
@@ -6784,6 +6792,9 @@ tip: 请善用浏览器的搜索功能
 | act29side_zone1 | 朝见双塔 | Zwillingstürme anbeten | 双塔を仰ぐ |
 | act29side_zone2 | 恩典永恒 | Die Gnade ist ewig | 恩寵は永遠に |
 | act29side_zone3 | 权威无情 | Die Macht ist grimm | 大権に情なく |
+| act29sre_zone1 | 朝见双塔 | - | - |
+| act29sre_zone2 | 恩典永恒 | - | - |
+| act29sre_zone3 | 权威无情 | - | - |
 | act2bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act30side_zone1 | 三号站台 | Platform No. 3 | 3番ホーム |
 | act30side_zone2 | 特快列车 | Express Train | 特急列車 |
@@ -6877,6 +6888,9 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_21_zone3 | 自诩荒野 | Terra Desolata Autoproclamata | 荒野を名乗る者 |
 | permanent_sidestory_22_zone1 | 苍白平台 | - | - |
 | permanent_sidestory_22_zone2 | 黑色舰船 | - | - |
+| permanent_sidestory_23_zone1 | 朝见双塔 | - | - |
+| permanent_sidestory_23_zone2 | 恩典永恒 | - | - |
+| permanent_sidestory_23_zone3 | 权威无情 | - | - |
 | permanent_sidestory_2_zone1 | 主舞台 | Main Stage | メインステージ |
 | permanent_sidestory_2_zone2 | 嘉年华 | Carnival | フェスティバル |
 | permanent_sidestory_2_zone3 | 额外节目 | Extra Show | エクストラ |
