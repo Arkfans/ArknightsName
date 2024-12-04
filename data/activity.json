@@ -619,6 +619,8 @@
     "zh_CN": "双日城惊奇墙"
   },
   "act2signvs": {
+    "en_US": "May the Sunshine Still Sign-In Event",
+    "ja_JP": "スタンプラリー",
     "zh_CN": "端阳正午签到活动"
   },
   "act2switch": {
@@ -672,6 +674,8 @@
     "zh_CN": "限时累计签到"
   },
   "act34side": {
+    "en_US": "Path of Life",
+    "ja_JP": "生存航路",
     "zh_CN": "生路"
   },
   "act34sign": {

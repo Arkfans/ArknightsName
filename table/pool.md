@@ -216,3 +216,4 @@ tip: 请善用浏览器的搜索功能
 | _SINGLE_28_0_4 | - | Ray of Light | 一筋の曙光 |
 | _SINGLE_29_0_5 | - | To Bloom From a Dim Flame | 枯火に咲く花 |
 | _SINGLE_30_0_1 | - | LIKE ENDING LIKE DEATH | 死か/終わりか |
+| _SINGLE_31_0_1 | - | Anchor In The Deep | 海淵に沈む錨 |

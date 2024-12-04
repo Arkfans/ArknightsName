@@ -213,9 +213,9 @@ tip: 请善用浏览器的搜索功能
 | trap_151_muruinw | 折叠式堡垒模块 | Foldable Bastion | 競技用格納式高台 |
 | trap_152_muruino | 折叠式辅助器械 | Foldable Auxiliary Apparatus | 競技用格納式防壁 |
 | trap_154_mugtps | 阵地屏障 | Positional Barrier | 陣地障壁 |
-| trap_155_aegiret | 航道信标 | - | - |
-| trap_156_dsshell | 赘生甲壳 | - | - |
-| trap_157_bounc2 | 小帮手 | - | - |
+| trap_155_aegiret | 航道信标 | Waterway Beacon | 航路ビーコン |
+| trap_156_dsshell | 赘生甲壳 | Excrescent Carapace | 増殖甲羅 |
+| trap_157_bounc2 | 小帮手 | 'Little Handy' | リトル・ハンディ |
 | trap_158_lrsteam | 查尔斯·林奇 | Charles Lynch | チャールズ・リンチ |
 | trap_159_lrcore | 核心增幅器 | Core Amplifier | コア増幅器 |
 | trap_160_lrlgun | 洪流束激发器 | Torrent Beam Activator | 奔流発生装置 |
@@ -236,10 +236,10 @@ tip: 请善用浏览器的搜索功能
 | trap_177_tentcl | 宝箱的肉？ | - | - |
 | trap_178_trrbox | “宝箱” | - | - |
 | trap_179_muctrl | 促融共竞控制 | Icebreaker Games Control | 協心競技制御装置 |
-| trap_180_dsblock | 封印的地面 | - | - |
+| trap_180_dsblock | 封印的地面 | Sealed Floor | 封じられた地面 |
 | trap_181_sgray | 结晶消除桩 | - | - |
 | trap_182_sglink | 纯净结晶 | - | - |
-| trap_183_sheltk | 作战专用掩体 | - | - |
+| trap_183_sheltk | 作战专用掩体 | Combat Special Barricade | 作戦用掩体 |
 | trap_184_vtarsn | 军工厂指令平台 | - | - |
 | trap_185_vtlntw | 黄金回响 | - | - |
 | trap_186_cnvfwks | 烟花发射器 | - | - |
@@ -268,7 +268,7 @@ tip: 请善用浏览器的搜索功能
 | trap_424_pushtw | 喷拒器 | Gas Jet Thrower | 噴射式強制移動機 |
 | trap_425_xbwall | 防御工事 | Fortification | 防御施設 |
 | trap_426_xbmrcl | 模块演算设施 | Modular Computing Station | モジュラー演算所 |
-| trap_427_xbprsh | 资源规划站 | Resource Planning Station | 資源計画所 |
+| trap_427_xbprsh | 资源规划站 | Resource Planning Station | 人材計画所 |
 | trap_428_xblrsh | 备勤激活站 | Combat Readiness Station | 戦闘計画所 |
 | trap_429_xbescp | 跨地块通讯站 | Transregional Communication Station | 越境通信所 |
 | trap_430_wdescp | 逃脱点 | Escape Route | 脱出地点 |
@@ -319,7 +319,7 @@ tip: 请善用浏览器的搜索功能
 | trap_472_tfalco | 红隼 | Kestrel | ケストレル |
 | trap_473_trmedic | 罗德岛工作人员 | Rhodes Island Staff Worker | ロドスオペレーター |
 | trap_474_mailbox | 信使邮筒 | Mail Box | 郵便ポスト |
-| trap_475_xbcbag | 猎获笼 | Game Holding Cage | 捕獲カゴ |
+| trap_475_xbcbag | 猎获笼 | Beast Cage | 捕獲カゴ |
 | trap_476_mscskt | 讯息匣 | Message Casket | 情報ボックス |
 | trap_477_xbspps | 失衡异香 | Overspeed Spice | 眩暈のお香 |
 | trap_478_xbcanoe | 特制水上平台 | Custom Floating Platform | 特設ボート |
@@ -421,16 +421,16 @@ tip: 请善用浏览器的搜索功能
 | trap_762_skztxy | 特蕾西娅，黑冠圣贤 | - | - |
 | trap_763_skzddd | 圣卫坚盾 | - | - |
 | trap_764_skzshp | 驮兽旅行家 | - | - |
-| trap_765_bmoney | 无可置疑的罪证 | - | - |
+| trap_765_bmoney | 无可置疑的罪证 | Indisputable Evidence | 決定的な証拠 |
 | trap_766_duelwal | 狭路相逢 | - | - |
 | trap_767_duelcdt | 狭路相逢 | - | - |
-| trap_768_godch | 保全人才合作协议 | - | - |
-| trap_769_godcha | 加急许可条款 | - | - |
-| trap_770_godchb | 临时任命条款 | - | - |
-| trap_771_bqrnge | 皇家科学院望远镜 | - | - |
-| trap_772_bqrngea | 专业显示模块 | - | - |
-| trap_773_bqrngeb | 灵活架设模块 | - | - |
-| trap_774_bqmlee | 攀云机 | - | - |
-| trap_775_bqmleea | 加固扩存改装 | - | - |
-| trap_776_bqmleeb | 长距增运改装 | - | - |
+| trap_768_godch | 保全人才合作协议 | Security Talent Agreement | 保全人員協力協定 |
+| trap_769_godcha | 加急许可条款 | Expedited Licensing Terms | 緊急派遣規約 |
+| trap_770_godchb | 临时任命条款 | Interim Appointment Terms | 臨時任命規約 |
+| trap_771_bqrnge | 皇家科学院望远镜 | Royal Academy of Sciences Telescope | 科学研究用望遠鏡 |
+| trap_772_bqrngea | 专业显示模块 | Professional Display Module | プロ仕様モニターモジュール |
+| trap_773_bqrngeb | 灵活架设模块 | Agile Installation Module | フレキシブル設置モジュール |
+| trap_774_bqmlee | 攀云机 | Cloudstepper | 登雲具 |
+| trap_775_bqmleea | 加固扩存改装 | Reinforcement Expansion Modification | 補強＆拡容改造 |
+| trap_776_bqmleeb | 长距增运改装 | Long-Expansion Modification | 遠距離＆効率化改造 |
 | trap_779_skzth | 尼卢火 | - | - |

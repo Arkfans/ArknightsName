@@ -761,9 +761,13 @@
     "zh_CN": "我始终如一"
   },
   "act34side_zone1": {
+    "en_US": "Deploy Beacons",
+    "ja_JP": "ビーコン設置",
     "zh_CN": "信标投放"
   },
   "act34side_zone2": {
+    "en_US": "Fortify Defense",
+    "ja_JP": "防衛線強化",
     "zh_CN": "防线巩固"
   },
   "act35side_zone1": {

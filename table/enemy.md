@@ -624,8 +624,8 @@ tip: 请善用浏览器的搜索功能
 | enemy_1281_sgcar_2 | 家族豪华轿车 | Famiglia Luxury Limo | マフィアの専用高級車 |
 | enemy_1282_sgelder | 家族角头 | Famiglia Capo | マフィアの幹部 |
 | enemy_1282_sgelder_2 | 家族铁腕角头 | Famiglia Heavy Capo | マフィアの敏腕幹部 |
-| enemy_1283_sgkill | 家族灭迹人 | Famiglia Cleaner | マフィアの掃除人 |
-| enemy_1283_sgkill_2 | 家族暗影灭迹人 | Famiglia Silent Cleaner | マフィアの一流掃除人 |
+| enemy_1283_sgkill | 家族灭迹人 | Famiglia Silencer | マフィアの掃除人 |
+| enemy_1283_sgkill_2 | 家族暗影灭迹人 | Famiglia Shadow Silencer | マフィアの一流掃除人 |
 | enemy_1284_sgprst | 阿格尼尔神父 | Father Agenir | アグニル神父 |
 | enemy_1285_sgwlf | “与我无关” | 'None of My Business' | 「関係ない」男 |
 | enemy_1286_dumcy | 特别行动队士兵 | Special Forces Soldier | 特殊行動隊兵士 |
@@ -897,21 +897,21 @@ tip: 请善用浏览器的搜索功能
 | enemy_1430_lrrook_2 | 殉亡魂灵圣杯 | Chalice of Mortality | 殉死せし魂の聖杯 |
 | enemy_1431_lrmzrd | 注能魂灵法骸 | Infused Soul Husk | 混成せし魂の法骸 |
 | enemy_1431_lrmzrd_2 | 粹影魂灵法骸 | Penumbral Soul Husk | 集粋せし魂の法骸 |
-| enemy_1433_dsbasi | 单核掠食者 | - | - |
-| enemy_1433_dsbasi_2 | 异光体掠食者 | - | - |
-| enemy_1434_dsshel | 微核沉积者 | - | - |
-| enemy_1435_dsflys | 纤核漂游者 | - | - |
-| enemy_1435_dsflys_2 | 异光体漂游者 | - | - |
-| enemy_1436_dsdivi | 诡核集养者 | - | - |
-| enemy_1436_dsdivi_2 | 异光体集养者 | - | - |
-| enemy_1437_dsfull | 蕴核饲育者 | - | - |
-| enemy_1437_dsfull_2 | 异光体饲育者 | - | - |
-| enemy_1438_dspred | 复核洋流使者 | - | - |
-| enemy_1438_dspred_2 | 异光体洋流使者 | - | - |
-| enemy_1439_dslntf | 元核孽生者 | - | - |
-| enemy_1439_dslntf_2 | 异光体孽生者 | - | - |
-| enemy_1440_dselec | “被弃者” | - | - |
-| enemy_1440_dselec_2 | “受诅者” | - | - |
+| enemy_1433_dsbasi | 单核掠食者 | Unicellular Predator | 単核のプレデター |
+| enemy_1433_dsbasi_2 | 异光体掠食者 | Allotropic Predator | 異光体プレデター |
+| enemy_1434_dsshel | 微核沉积者 | Exocellular Depositor | 小核のデポジッター |
+| enemy_1435_dsflys | 纤核漂游者 | Toxocellular Drifter | 繊核のドリフター |
+| enemy_1435_dsflys_2 | 异光体漂游者 | Allotropic Drifter | 異光体ドリフター |
+| enemy_1436_dsdivi | 诡核集养者 | Divicellular Hoarder | 詭核のホーダー |
+| enemy_1436_dsdivi_2 | 异光体集养者 | Allotropic Hoarder | 異光体ホーダー |
+| enemy_1437_dsfull | 蕴核饲育者 | Matrocellular Nurse | 蔵核のナース |
+| enemy_1437_dsfull_2 | 异光体饲育者 | Allotropic Nurse | 異光体ナース |
+| enemy_1438_dspred | 复核洋流使者 | Multicellular Herald | 複核のヘラルド |
+| enemy_1438_dspred_2 | 异光体洋流使者 | Allotropic Herald | 異光体ヘラルド |
+| enemy_1439_dslntf | 元核孽生者 | Nucleic Maleficent | 元核のマレフィセント |
+| enemy_1439_dslntf_2 | 异光体孽生者 | Allotropic Maleficent | 異光体マレフィセント |
+| enemy_1440_dselec | “被弃者” | 'The Abandoned' | 「棄てられし者」 |
+| enemy_1440_dselec_2 | “受诅者” | 'The Cursed' | 「呪われし者」 |
 | enemy_1500_skulsr | 碎骨 | Skullshatterer | SkullShredder |
 | enemy_1501_demonk | 萨卡兹百夫长 | Sarkaz Centurion | サルカズケントゥリオ |
 | enemy_1502_crowns | 弑君者 | Crownslayer | CrownSlayer |
@@ -968,7 +968,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1552_mmamiy | “阿米娅” | 'Amiya' | 「アーミヤ」 |
 | enemy_1553_lrdead | 引火的死魂灵 | Kindling Revenant | 熾し火のレヴァナント |
 | enemy_1554_lrtsia | 特蕾西娅 | Theresa | Theresa |
-| enemy_1556_dsbish | 玛利图斯，“海嗣” | - | - |
+| enemy_1556_dsbish | 玛利图斯，“海嗣” | Mártus, 'Seaborn' | 「シーボーン」マルトゥス |
 | enemy_1557_trcerb | “三头犬” | - | - |
 | enemy_1558_sgactr | 祖巴伊达姆，从往昔来 | - | - |
 | enemy_1559_vtlionk | 阿利斯泰尔，帝国余晖 | - | - |

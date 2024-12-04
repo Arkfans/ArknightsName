@@ -254,7 +254,7 @@ tip: 请善用浏览器的搜索功能
 | char_4072_ironmn | 白铁 | Stainless | ステインレス |
 | char_4077_palico | 泰拉大陆调查团 | Terra Research Commission | テラ大陸調査団 |
 | char_4078_bdhkgt | 截云 | Jieyun | ジエユン |
-| char_4079_haini | 海霓 | - | - |
+| char_4079_haini | 海霓 | Lucilla | ルシーラ |
 | char_4080_lin | 林 | Lin | リン |
 | char_4081_warmy | 温米 | Warmy | ウォーミー |
 | char_4082_qiubai | 仇白 | Qiubai | チューバイ |
@@ -289,7 +289,7 @@ tip: 请善用浏览器的搜索功能
 | char_4133_logos | 逻各斯 | Logos | ロゴス |
 | char_4134_cetsyr | 魔王 | Civilight Eterna | シヴィライト・エテルナ |
 | char_4136_phonor | PhonoR-0 | PhonoR-0 | PhonoR-0 |
-| char_4137_udflow | 深巡 | - | - |
+| char_4137_udflow | 深巡 | Underflow | アンダーフロー |
 | char_4138_narant | 娜仁图亚 | - | - |
 | char_4139_papyrs | 莎草 | - | - |
 | char_4140_lasher | 衡沙 | - | - |
@@ -297,7 +297,7 @@ tip: 请善用浏览器的搜索功能
 | char_4142_laios | 莱欧斯 | - | - |
 | char_4143_sensi | 森西 | - | - |
 | char_4144_chilc | 齐尔查克 | - | - |
-| char_4145_ulpia | 乌尔比安 | - | - |
+| char_4145_ulpia | 乌尔比安 | Ulpianus | ウルピアヌス |
 | char_4146_nymph | 妮芙 | - | - |
 | char_4147_mitm | 渡桥 | - | - |
 | char_4148_philae | 菲莱 | - | - |

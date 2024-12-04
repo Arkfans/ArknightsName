@@ -179,8 +179,8 @@ tip: 请善用浏览器的搜索功能
 | Logistics_Special_Permit | 后勤特别许可证 | Logistics Special Permit | 特別支援申請許可証 |
 | REP_COIN | 情报凭证 | Intelligence Certificate | 情報資格証 |
 | RETRO_COIN | 事相结晶 | Event Crystal | 事象の結晶 |
-| SINGLE_49_0_1_GACHA | 如死亦终寻访凭证 | Exclusive Headhunting Permit | イベントスカウト券 |
-| SINGLE_49_0_1_GACHA_10 | 如死亦终十连寻访凭证 | Exclusive Ten-roll Headhunting Permit | イベント10回スカウト券 |
+| SINGLE_49_0_1_GACHA | 如死亦终寻访凭证 | Like Ending Like Death Headhunting Permit | イベントスカウト券 |
+| SINGLE_49_0_1_GACHA_10 | 如死亦终十连寻访凭证 | Like Ending Like Death Ten-roll Headhunting Permit | イベント10回スカウト券 |
 | SINGLE_55_0_1_GACHA | 未致蒙尘寻访凭证 | - | - |
 | SINGLE_55_0_1_GACHA_10 | 未致蒙尘十连寻访凭证 | - | - |
 | SOCIAL_PT | 信用 | Credit | FP |
@@ -301,7 +301,7 @@ tip: 请善用浏览器的搜索功能
 | act31side_token_box | 天桩 | Sky Pole | 天杭 |
 | act32side_token_stamp | 艺术馆集章卡 | Galería Stamp Card | スタンプカード |
 | act33side_token_sugar | 粗制糖块 | Raw Sugar Lumps | 粗製角砂糖 |
-| act34side_token_chip | “应急物资”蓝图芯片 | - | - |
+| act34side_token_chip | “应急物资”蓝图芯片 | 'Emergency Supplies' Blueprint Chip | 「非常用物資」設計図チップ |
 | act35side_token_dust | 流光之沙 | - | - |
 | act36side_token_recipe | 今日食谱 | - | - |
 | act37side_token_nay | “我反对！” | - | - |
@@ -339,7 +339,7 @@ tip: 请善用浏览器的搜索功能
 | act9d4_point_token | 游击队员徽章 | Guerilla Squad Member Badge | 遊撃隊バッジ |
 | act9mini_token_ticket | 红松叶彩券 | Liść Ticket | パインリーフチケット |
 | advanced_material_issue_voucher | 高级材料提货券 | Advanced Material Voucher | T3素材交換券 |
-| advanced_material_voucher_perm | 高级材料提货券 | - | - |
+| advanced_material_voucher_perm | 高级材料提货券 | Advanced Material Voucher | T3素材交換券 |
 | ap_item_CaH_200 | 双人汉堡餐 | Burger Set for Two | ハンバーガーセット |
 | ap_item_SEC_60 | 咸蛋黄味巧克力 | Salted Egg Yolk Flavor Chocolate | 塩卵味チョコレート |
 | ap_item_amiya | 阿米娅的烧烤味饼干 | Amiya's Grilled Flavor Biscuit | アーミヤのクッキー |
@@ -387,6 +387,7 @@ tip: 请善用浏览器的搜索功能
 | ap_supply_lt_80 | 应急理智加强剂 | Emergency Sanity Booster | 初級理性回復剤+ |
 | base_ap | 无人机 | Drone | ドローン |
 | bilibili001 | 预约干员随机4选1 | Preregister to get 1 of 4 Operators randomly | オペレーター指定券 |
+| class_p_char_003_kalts | - | Kal'tsit's Kernel Token | ケルシーの印（中堅） |
 | class_p_char_010_chen | 陈的中坚信物 | Ch'en's Kernel Token | チェンの印（中堅） |
 | class_p_char_017_huang | 煌的中坚信物 | Blaze's Kernel Token | ブレイズの印（中堅） |
 | class_p_char_101_sora | 空的中坚信物 | Sora's Kernel Token | ソラの印（中堅） |
@@ -527,13 +528,17 @@ tip: 请善用浏览器的搜索功能
 | class_p_char_415_flint | 燧石的中坚信物 | Flint's Kernel Token | フリントの印（中堅） |
 | class_p_char_416_zumama | 森蚺的中坚信物 | Eunectes's Kernel Token | ユーネクテスの印（中堅） |
 | class_p_char_423_blemsh | 瑕光的中坚信物 | Blemishine's Kernel Token | ブレミシャインの印（中堅） |
+| class_p_char_426_billro | - | Carnelian's Kernel Token | カーネリアンの印（中堅） |
 | class_p_char_436_whispr | 絮雨的中坚信物 | Whisperain's Kernel Token | ウィスパーレインの印（中堅） |
 | class_p_char_440_pinecn | 松果的中坚信物 | Pinecone's Kernel Token | パインコーンの印（中堅） |
 | class_p_char_452_bstalk | 豆苗的中坚信物 | Beanstalk's Kernel Token | ビーンストークの印（中堅） |
 | class_p_char_455_nothin | 乌有的中坚信物 | Mr. Nothing's Kernel Token | ウユウの印（中堅） |
 | class_p_char_469_indigo | 深靛的中坚信物 | Indigo's Kernel Token | インディゴの印（中堅） |
 | class_p_char_472_pasngr | 异客的中坚信物 | Passenger's Kernel Token | パッセンジャーの印（中堅） |
+| class_p_char_475_akafyu | - | Akafuyu's Kernel Token | アカフユの印（中堅） |
+| class_p_char_478_kirara | - | Kirara's Kernel Token | キララの印（中堅） |
 | class_p_char_484_robrta | 罗比菈塔的中坚信物 | Roberta's Kernel Token | ロベルタの印（中堅） |
+| class_p_char_485_pallas | - | Pallas's Kernel Token | パラスの印（中堅） |
 | class_p_char_491_humus | 休谟斯的中坚信物 | Humus's Kernel Token | ヒューマスの印（中堅） |
 | classic_fes_pick_tier_5_3801 | 中坚甄选5星干员 | Kernel Locating 5* Operator | 中堅セレクト★5オペレーター |
 | classic_fes_pick_tier_5_4101 | 中坚甄选5星干员 | Kernel Locating 5* Operator | 中堅セレクト★5オペレーター |
@@ -843,7 +848,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4072_ironmn | 白铁的信物 | Stainless's Token | ステインレスの印 |
 | p_char_4077_palico | 泰拉大陆调查团的信物 | Terra Research Commission's Token | テラ大陸調査団の印 |
 | p_char_4078_bdhkgt | 截云的信物 | Jieyun's Token | ジエユンの印 |
-| p_char_4079_haini | 海霓的信物 | - | - |
+| p_char_4079_haini | 海霓的信物 | Lucilla's Token | ルシーラの印 |
 | p_char_4080_lin | 林的信物 | Lin's Token | リンの印 |
 | p_char_4081_warmy | 温米的信物 | Warmy's Token | ウォーミーの印 |
 | p_char_4082_qiubai | 仇白的信物 | Qiubai's Token | チューバイの印 |
@@ -877,7 +882,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4133_logos | 逻各斯的信物 | Logos's Token | ロゴスの印 |
 | p_char_4134_cetsyr | 魔王的信物 | Civilight Eterna's Token | シヴィライト・エテルナの印 |
 | p_char_4136_phonor | PhonoR-0的信物 | PhonoR-0's Token | PhonoR-0の印 |
-| p_char_4137_udflow | 深巡的信物 | - | - |
+| p_char_4137_udflow | 深巡的信物 | Underflow's Token | アンダーフローの印 |
 | p_char_4138_narant | 娜仁图亚的信物 | - | - |
 | p_char_4139_papyrs | 莎草的信物 | - | - |
 | p_char_4140_lasher | 衡沙的信物 | - | - |
@@ -885,7 +890,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4142_laios | 莱欧斯的信物 | - | - |
 | p_char_4143_sensi | 森西的信物 | - | - |
 | p_char_4144_chilc | 齐尔查克的信物 | - | - |
-| p_char_4145_ulpia | 乌尔比安的信物 | - | - |
+| p_char_4145_ulpia | 乌尔比安的信物 | Ulpianus's Token | ウルピアヌスの印 |
 | p_char_4146_nymph | 妮芙的信物 | - | - |
 | p_char_4147_mitm | 渡桥的信物 | - | - |
 | p_char_4148_philae | 菲莱的信物 | - | - |
@@ -1069,7 +1074,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_bolivar | 密林悍将归来家具收藏包 | The Great Chief Returns Furniture Pack | 帰還！密林の長家具パック |
 | uni_set_castle_1 | 古堡印象家具收藏包一 | Castlesque Furniture Pack I | 古城風家具パックvol.1 |
 | uni_set_castle_2 | 古堡印象家具收藏包二 | Castlesque Furniture Pack II | 古城風家具パックvol.2 |
-| uni_set_concertHall | 尘影余音家具收藏包 | - | - |
+| uni_set_concertHall | 尘影余音家具收藏包 | Lingering Echoes Furniture Pack | 塵影に交わる残響家具パック |
 | uni_set_court | 叙拉古人家具收藏包 | - | - |
 | uni_set_fNearl | 玛莉娅·临光家具收藏包 | Maria Nearl Furniture Pack | マリア・ニアール家具パック |
 | uni_set_goldBoat | 愚人号家具收藏包 | Stultifera Navis Furniture Pack | 狂人号家具パック |
@@ -1096,7 +1101,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_chipPack | 芯片组自助打印盒 | Automatic Chip Pack Printer | 中級SoCセルフプリンター |
 | voucher_chipPackage | 自助芯片组印刻仪 | Automatic Chip Pack Etcher | 中級SoCセルフプリンター |
 | voucher_class_pick5601 | 中坚高级干员调用凭证 | - | - |
-| voucher_elite_II_4 | 专业干员特训邀请函 | - | - |
+| voucher_elite_II_4 | 专业干员特训邀请函 | Professional Operator Training Invitation Letter | ★4特訓招待状 |
 | voucher_elite_II_5 | 资深干员特训邀请函 | Senior Operator Training Invitation Letter | ★5特訓招待状 |
 | voucher_elite_II_6 | 高级资深干员特训邀请函 | Advanced Senior Operator Training Invitation Letter | ★6特訓招待状 |
 | voucher_full_absin | 苦艾的私人信件 | Absinthe's Personal Letter | アブサントの手紙 |
@@ -1115,7 +1120,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_full_lumen | 流明的私人信件 | Lumen's Personal Letter | ルーメンの手紙 |
 | voucher_full_malist | 至简的私人信件 | - | - |
 | voucher_full_mint | 薄绿的私人信件 | Mint's Personal Letter | ミントの手紙 |
-| voucher_full_pianst | 车尔尼的私人信件 | - | - |
+| voucher_full_pianst | 车尔尼的私人信件 | Czerny's Personal Letter | ツェルニーの手紙 |
 | voucher_full_robin | 罗宾的私人信件 | Robin's Personal Letter | ロビンの手紙 |
 | voucher_full_sidero | 铸铁的私人信件 | Sideroca's Personal Letter | シデロカの手紙 |
 | voucher_full_snsant | 雪雉的私人信件 | Snowsant's Personal Letter | スノーズントの手紙 |
@@ -1126,7 +1131,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_full_zebra | 暴雨的私人信件 | Heavyrain's Personal Letter | ヘビーレインの手紙 |
 | voucher_item_4pick1 | 干员兑换券 | Operator Voucher | オペレーター指名券 |
 | voucher_item_4pick1_1803 | 干员兑换券 | Operator Voucher | オペレーター指名券 |
-| voucher_item_4pick1_5301 | 资深干员调用凭证-新人 | - | - |
+| voucher_item_4pick1_5301 | 资深干员调用凭证-新人 | Senior Operator Transfer Permit - Starter | 初心者★5招聘指名券 |
 | voucher_item_pick1401 | 感谢庆典干员凭证 | Thank-You Celebration Operator Permit | 感謝祭記念★6招聘指名券 |
 | voucher_item_pick1803 | 周年庆典干员凭证 | Top Operator Transfer Permit | 感謝祭記念★6招聘指名券 |
 | voucher_item_pick2301 | 感谢庆典干员凭证 | Thank-You Celebration Operator Permit | 感謝祭記念★6招聘指名券 |
@@ -1148,7 +1153,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_recruitR5_pick2701 | 资深干员调用凭证 | Senior Operator Transfer Permit | ★5招聘指名券 |
 | voucher_recruitR5_pick3801 | 资深干员调用凭证 | Senior Operator Transfer Permit | ★5招聘指名券 |
 | voucher_recruitR5_pick5001 | 资深干员调用凭证 | Senior Operator Transfer Permit | ★5招聘指名券 |
-| voucher_recruitR6_pick5301 | 高级干员调用凭证-新人 | - | - |
+| voucher_recruitR6_pick5301 | 高级干员调用凭证-新人 | Top Operator Transfer Permit - Starter | 初心者★6招聘指名券 |
 | voucher_skill_specialLevelMax_4 | 专业干员技巧集 | - | - |
 | voucher_skill_specialLevelMax_5 | 资深干员技巧集 | - | - |
 | voucher_skill_specialLevelMax_6 | 高级资深干员技巧集 | - | - |

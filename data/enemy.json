@@ -2951,12 +2951,12 @@
     "zh_CN": "家族铁腕角头"
   },
   "enemy_1283_sgkill": {
-    "en_US": "Famiglia Cleaner",
+    "en_US": "Famiglia Silencer",
     "ja_JP": "マフィアの掃除人",
     "zh_CN": "家族灭迹人"
   },
   "enemy_1283_sgkill_2": {
-    "en_US": "Famiglia Silent Cleaner",
+    "en_US": "Famiglia Shadow Silencer",
     "ja_JP": "マフィアの一流掃除人",
     "zh_CN": "家族暗影灭迹人"
   },
@@ -4306,48 +4306,78 @@
     "zh_CN": "粹影魂灵法骸"
   },
   "enemy_1433_dsbasi": {
+    "en_US": "Unicellular Predator",
+    "ja_JP": "単核のプレデター",
     "zh_CN": "单核掠食者"
   },
   "enemy_1433_dsbasi_2": {
+    "en_US": "Allotropic Predator",
+    "ja_JP": "異光体プレデター",
     "zh_CN": "异光体掠食者"
   },
   "enemy_1434_dsshel": {
+    "en_US": "Exocellular Depositor",
+    "ja_JP": "小核のデポジッター",
     "zh_CN": "微核沉积者"
   },
   "enemy_1435_dsflys": {
+    "en_US": "Toxocellular Drifter",
+    "ja_JP": "繊核のドリフター",
     "zh_CN": "纤核漂游者"
   },
   "enemy_1435_dsflys_2": {
+    "en_US": "Allotropic Drifter",
+    "ja_JP": "異光体ドリフター",
     "zh_CN": "异光体漂游者"
   },
   "enemy_1436_dsdivi": {
+    "en_US": "Divicellular Hoarder",
+    "ja_JP": "詭核のホーダー",
     "zh_CN": "诡核集养者"
   },
   "enemy_1436_dsdivi_2": {
+    "en_US": "Allotropic Hoarder",
+    "ja_JP": "異光体ホーダー",
     "zh_CN": "异光体集养者"
   },
   "enemy_1437_dsfull": {
+    "en_US": "Matrocellular Nurse",
+    "ja_JP": "蔵核のナース",
     "zh_CN": "蕴核饲育者"
   },
   "enemy_1437_dsfull_2": {
+    "en_US": "Allotropic Nurse",
+    "ja_JP": "異光体ナース",
     "zh_CN": "异光体饲育者"
   },
   "enemy_1438_dspred": {
+    "en_US": "Multicellular Herald",
+    "ja_JP": "複核のヘラルド",
     "zh_CN": "复核洋流使者"
   },
   "enemy_1438_dspred_2": {
+    "en_US": "Allotropic Herald",
+    "ja_JP": "異光体ヘラルド",
     "zh_CN": "异光体洋流使者"
   },
   "enemy_1439_dslntf": {
+    "en_US": "Nucleic Maleficent",
+    "ja_JP": "元核のマレフィセント",
     "zh_CN": "元核孽生者"
   },
   "enemy_1439_dslntf_2": {
+    "en_US": "Allotropic Maleficent",
+    "ja_JP": "異光体マレフィセント",
     "zh_CN": "异光体孽生者"
   },
   "enemy_1440_dselec": {
+    "en_US": "'The Abandoned'",
+    "ja_JP": "「棄てられし者」",
     "zh_CN": "“被弃者”"
   },
   "enemy_1440_dselec_2": {
+    "en_US": "'The Cursed'",
+    "ja_JP": "「呪われし者」",
     "zh_CN": "“受诅者”"
   },
   "enemy_1500_skulsr": {
@@ -4631,6 +4661,8 @@
     "zh_CN": "特蕾西娅"
   },
   "enemy_1556_dsbish": {
+    "en_US": "Mártus, 'Seaborn'",
+    "ja_JP": "「シーボーン」マルトゥス",
     "zh_CN": "玛利图斯，“海嗣”"
   },
   "enemy_1557_trcerb": {

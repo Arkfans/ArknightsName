@@ -110,10 +110,12 @@
   },
   "avg_1023_ghost2_1": {
     "en_US": [
-      "Specter"
+      "Specter",
+      "Specter & Skadi"
     ],
     "ja_JP": [
-      "スペクター"
+      "スペクター",
+      "スペクター/スカジ"
     ],
     "zh_CN": [
       "幽灵鲨",
@@ -340,9 +342,11 @@
   },
   "avg_110_deepcl_1": {
     "en_US": [
+      "Deepcolor",
       "Eccentric Artist"
     ],
     "ja_JP": [
+      "ディピカ",
       "奇妙な画家"
     ],
     "zh_CN": [
@@ -762,10 +766,12 @@
   "avg_198_blackd_1": {
     "en_US": [
       "Courier",
-      "Weiss"
+      "Weiss",
+      "魏斯"
     ],
     "ja_JP": [
-      "ヴァイス"
+      "ヴァイス",
+      "魏斯"
     ],
     "zh_CN": [
       "讯使",
@@ -1595,10 +1601,12 @@
   "avg_4009_irene_1": {
     "en_US": [
       "Inquisitor Irene",
-      "Irene"
+      "Irene",
+      "Secunda & Irene"
     ],
     "ja_JP": [
       "アイリーニ",
+      "セクンダ/アイリーニ",
       "審問官アイリーニ"
     ],
     "zh_CN": [
@@ -2011,6 +2019,14 @@
     ]
   },
   "avg_4079_haini_1": {
+    "en_US": [
+      "Excited Ægir",
+      "Lucilla"
+    ],
+    "ja_JP": [
+      "ルシーラ",
+      "熱心なエーギル人"
+    ],
     "zh_CN": [
       "卢契拉",
       "热情的阿戈尔人"
@@ -2029,9 +2045,11 @@
   },
   "avg_4081_warmy_1": {
     "en_US": [
-      "Potlid"
+      "Potlid",
+      "温米"
     ],
     "ja_JP": [
+      "温米",
       "鍋蓋ちゃん"
     ],
     "zh_CN": [
@@ -2121,6 +2139,12 @@
     ]
   },
   "avg_4100_caper_1": {
+    "en_US": [
+      "跃跃"
+    ],
+    "ja_JP": [
+      "跃跃"
+    ],
     "zh_CN": [
       "跃跃"
     ]
@@ -2218,11 +2242,13 @@
   "avg_4114_harold_1": {
     "en_US": [
       "Harold",
-      "Victorian Viscount"
+      "Victorian Viscount",
+      "哈洛德"
     ],
     "ja_JP": [
       "ハロルド",
-      "ヴィクトリア子爵"
+      "ヴィクトリア子爵",
+      "哈洛德"
     ],
     "zh_CN": [
       "哈洛德",
@@ -2231,10 +2257,12 @@
   },
   "avg_4116_blkkgt_1": {
     "en_US": [
-      "Degenbrecher"
+      "Degenbrecher",
+      "锏"
     ],
     "ja_JP": [
-      "デーゲンブレヒャー"
+      "デーゲンブレヒャー",
+      "锏"
     ],
     "zh_CN": [
       "锏"
@@ -2350,6 +2378,12 @@
     ]
   },
   "avg_4130_luton_1": {
+    "en_US": [
+      "Lutonada"
+    ],
+    "ja_JP": [
+      "ルトナダ"
+    ],
     "zh_CN": [
       "露托"
     ]
@@ -2399,6 +2433,14 @@
     ]
   },
   "avg_4137_udflow_1": {
+    "en_US": [
+      "Astute Officer",
+      "Secunda"
+    ],
+    "ja_JP": [
+      "セクンダ",
+      "利発な将校"
+    ],
     "zh_CN": [
       "敏锐的军官",
       "西昆妲"
@@ -2450,6 +2492,12 @@
     ]
   },
   "avg_4145_Ulpia_1": {
+    "en_US": [
+      "Ulpianus"
+    ],
+    "ja_JP": [
+      "ウルピアヌス"
+    ],
     "zh_CN": [
       "乌尔比安"
     ]
@@ -2781,7 +2829,7 @@
       "Rubber and Roberta"
     ],
     "ja_JP": [
-      "イレイザー＆ロベルタ",
+      "ラバー＆ロベルタ",
       "ロベルタ"
     ],
     "zh_CN": [
@@ -3032,6 +3080,7 @@
       "Abel",
       "Community Hawker",
       "Community Resident",
+      "Diner D",
       "Discouraged Worker",
       "Drunkard",
       "Edgar",
@@ -3066,6 +3115,7 @@
       "元気になった労働者",
       "労働者",
       "嬉しそうな労働者",
+      "客D",
       "店主",
       "彫の深い墓掘り人",
       "怪しい通行人？",
@@ -3121,6 +3171,7 @@
       "Angry Villager",
       "Charlie the Sproglet",
       "Community Electrician",
+      "Diner B",
       "Excited Infected",
       "Fast Food Joint Owner",
       "Gangster Messenger",
@@ -3150,6 +3201,7 @@
       "ロドスオペレーター",
       "ロドストランスポーター",
       "報告に来る構成員",
+      "客B",
       "店主",
       "店長",
       "怒る感染者",
@@ -3197,11 +3249,13 @@
     "en_US": [
       "A Haggard Girl",
       "Carol",
+      "Diner C",
       "Immature Reporter"
     ],
     "ja_JP": [
       "やつれた少女",
       "キャロル",
+      "客C",
       "若い記者"
     ],
     "zh_CN": [
@@ -3257,6 +3311,7 @@
       "A Kazimierz Villager",
       "Aging Resident",
       "Aging Worker",
+      "BBQ Restaurant Owner",
       "Bread Vendor",
       "Breakfast Stall Owner",
       "Elderly Villager",
@@ -3285,6 +3340,7 @@
       "Wallen"
     ],
     "ja_JP": [
+      "BBQハウスのマスター",
       "やかましい老人",
       "ウォーレン",
       "カジミエーシュの村人",
@@ -3363,9 +3419,11 @@
       "Passing Merchant",
       "Produce Vendor",
       "Rowdy Stowaway",
+      "Saloon Keeper",
       "Tired Miner",
       "Village Headman",
-      "Wastelander B"
+      "Wastelander B",
+      "小镇放映员"
     ],
     "ja_JP": [
       "くたびれた労働者",
@@ -3376,6 +3434,7 @@
       "八百屋",
       "商人",
       "客B",
+      "小镇放映员",
       "感染者従業員B",
       "憂鬱そうな労働者",
       "村長",
@@ -3386,6 +3445,7 @@
       "観戦する感染者",
       "警官ヴィンソン",
       "通りすがりの商人",
+      "酒場の店主",
       "雑貨屋の店主"
     ],
     "zh_CN": [
@@ -3955,9 +4015,12 @@
       "Staff",
       "Staff Worker",
       "Warehouse Watchman",
-      "Worker A"
+      "Worker A",
+      "“利齿帮”小弟",
+      "安保人员"
     ],
     "ja_JP": [
+      "“利齿帮”小弟",
       "オーティ",
       "カジノのディーラー",
       "ギャラリーの警備員",
@@ -3972,6 +4035,7 @@
       "レイジアン工業警備員",
       "主催側のスタッフ",
       "倉庫の管理人",
+      "安保人员",
       "採掘場の用心棒",
       "社員A",
       "調査員",
@@ -4293,6 +4357,7 @@
       "Angry Woman",
       "Camera Crew Leader",
       "Clerk",
+      "Diner A",
       "Embarrassed Woman",
       "Female Passerby",
       "Female Resident",
@@ -4324,6 +4389,7 @@
       "女性旅行客",
       "女性観光客",
       "女性通行人",
+      "客A",
       "市民A",
       "店員",
       "怒る女性",
@@ -4400,6 +4466,7 @@
       "Enthusiastic Spectator",
       "Excited Fan",
       "Excited Youth",
+      "Flower Shop Owner",
       "Hapless Man",
       "Host",
       "Infected Slum Dweller",
@@ -4457,6 +4524,7 @@
       "興奮しているファン",
       "興奮する観客",
       "興奮する青年",
+      "花屋の店主",
       "若い遭難者",
       "落ちぶれた男",
       "街道管理員？",
@@ -5772,6 +5840,7 @@
   },
   "avg_npc_088": {
     "en_US": [
+      "'Supporter Operator'",
       "Anxious Young Operator",
       "Assistant Operator",
       "Caster Operator",
@@ -5793,9 +5862,11 @@
       "Rhodes Island Operator A",
       "Rookie Engineering Operator",
       "Steady Rhodes Island Operator",
-      "Young Studying Operator"
+      "Young Studying Operator",
+      "医疗干员"
     ],
     "ja_JP": [
+      "「補助オペレーター」",
       "エンジニアオペレーター",
       "エンジニア部新任オペレーター",
       "サポートオペレーター",
@@ -5809,6 +5880,7 @@
       "人事オペレーター",
       "人事部オペレーター",
       "冷静なオペレーター",
+      "医疗干员",
       "医療オペレーター",
       "外勤オペレーター",
       "外勤オペレーターA",
@@ -6012,7 +6084,8 @@
       "Old Woman",
       "Sani",
       "Ursus Civilian",
-      "Woman"
+      "Woman",
+      "纽扣店裁缝"
     ],
     "ja_JP": [
       "おばあさん",
@@ -6021,6 +6094,7 @@
       "サルニおばさん",
       "ルーバ",
       "婦人",
+      "纽扣店裁缝",
       "老人",
       "老婦人",
       "通りすがりの老婦"
@@ -7253,10 +7327,12 @@
   },
   "avg_npc_1183_1": {
     "en_US": [
-      "Alanna"
+      "Alanna",
+      "阿兰娜"
     ],
     "ja_JP": [
-      "アランナ"
+      "アランナ",
+      "阿兰娜"
     ],
     "zh_CN": [
       "阿兰娜"
@@ -7449,11 +7525,13 @@
   "avg_npc_1215_1": {
     "en_US": [
       "Alert Community Guard",
-      "Community Guard"
+      "Community Guard",
+      "红毛"
     ],
     "ja_JP": [
       "コミュニティの見張り役",
-      "真面目そうな見張り役"
+      "真面目そうな見張り役",
+      "红毛"
     ],
     "zh_CN": [
       "专注的社区守卫",
@@ -7840,6 +7918,14 @@
     ]
   },
   "avg_npc_1252_1": {
+    "en_US": [
+      "窘迫的老人",
+      "精神的老人"
+    ],
+    "ja_JP": [
+      "窘迫的老人",
+      "精神的老人"
+    ],
     "zh_CN": [
       "窘迫的老人",
       "精神的老人"
@@ -7920,9 +8006,11 @@
       "Spooked Soldier",
       "Squad Leader",
       "Tired Soldier",
-      "Worn-Out Soldier"
+      "Worn-Out Soldier",
+      "“利齿帮”头领"
     ],
     "ja_JP": [
+      "“利齿帮”头领",
       "くたびれた軍人",
       "サボっている士官",
       "サボっている軍人",
@@ -8612,56 +8700,128 @@
     ]
   },
   "avg_npc_1380_1": {
+    "en_US": [
+      "Jordi"
+    ],
+    "ja_JP": [
+      "ジョディ"
+    ],
     "zh_CN": [
       "乔迪"
     ]
   },
   "avg_npc_1381_1": {
+    "en_US": [
+      "Blandus",
+      "Haggard Scholar"
+    ],
+    "ja_JP": [
+      "ブランドゥス",
+      "憔悴した学者"
+    ],
     "zh_CN": [
       "布兰都斯",
       "憔悴的学者"
     ]
   },
   "avg_npc_1382_1": {
+    "en_US": [
+      "Clementia",
+      "Kind Woman"
+    ],
+    "ja_JP": [
+      "クレメンティア",
+      "優しげな女性"
+    ],
     "zh_CN": [
       "克莱门莎",
       "温柔的女性"
     ]
   },
   "avg_npc_1383_1": {
+    "en_US": [
+      "'Seaborn'",
+      "Mysterious Seaborn"
+    ],
+    "ja_JP": [
+      "「シーボーン」",
+      "奇妙なシーボーン"
+    ],
     "zh_CN": [
       "“海嗣”",
       "神秘的海嗣"
     ]
   },
   "avg_npc_1384_1": {
+    "en_US": [
+      "Horatia"
+    ],
+    "ja_JP": [
+      "ホラーティア"
+    ],
     "zh_CN": [
       "赫拉提娅"
     ]
   },
   "avg_npc_1385_1": {
+    "en_US": [
+      "Tullia"
+    ],
+    "ja_JP": [
+      "トゥリア"
+    ],
     "zh_CN": [
       "图利娅"
     ]
   },
   "avg_npc_1386_1": {
+    "en_US": [
+      "Avitus"
+    ],
+    "ja_JP": [
+      "アウィトゥス"
+    ],
     "zh_CN": [
       "阿维图斯"
     ]
   },
   "avg_npc_1387_1": {
+    "en_US": [
+      "Cassia",
+      "Ægir Woman"
+    ],
+    "ja_JP": [
+      "エーギルの女性",
+      "カシア"
+    ],
     "zh_CN": [
       "卡西娅",
       "阿戈尔女性"
     ]
   },
   "avg_npc_1388_1": {
+    "en_US": [
+      "Nascent Seaborn",
+      "Seaborn"
+    ],
+    "ja_JP": [
+      "シーボーン",
+      "生まれたてのシーボーン"
+    ],
     "zh_CN": [
       "新生的海嗣",
       "海嗣"
     ]
   },
   "avg_npc_1389_1": {
+    "en_US": [
+      "Gentle Seaborn",
+      "Seaborn"
+    ],
+    "ja_JP": [
+      "シーボーン",
+      "優しいシーボーン"
+    ],
     "zh_CN": [
       "海嗣",
       "温柔的海嗣"
@@ -8682,16 +8842,40 @@
     ]
   },
   "avg_npc_1390_1": {
+    "en_US": [
+      "Sea Patrol Captain"
+    ],
+    "ja_JP": [
+      "海巡隊隊長"
+    ],
     "zh_CN": [
       "海巡队队长"
     ]
   },
   "avg_npc_1391_1": {
+    "en_US": [
+      "Sea Patroller"
+    ],
+    "ja_JP": [
+      "海巡隊隊員"
+    ],
     "zh_CN": [
       "海巡队队员"
     ]
   },
   "avg_npc_1392_1": {
+    "en_US": [
+      "'Researcher B'",
+      "Tense Ægir",
+      "Wounded 'Researcher'",
+      "Ægir Doctor"
+    ],
+    "ja_JP": [
+      "「研究員B」",
+      "エーギルの医師",
+      "緊迫したエーギル人",
+      "負傷した「研究員」"
+    ],
     "zh_CN": [
       "“研究员B”",
       "受伤的“研究员”",
@@ -8700,22 +8884,56 @@
     ]
   },
   "avg_npc_1393_1": {
+    "en_US": [
+      "Ægir Researcher A"
+    ],
+    "ja_JP": [
+      "エーギルの研究員A"
+    ],
     "zh_CN": [
       "阿戈尔研究员A"
     ]
   },
   "avg_npc_1394_1": {
+    "en_US": [
+      "Mysterious Ægir",
+      "Ægir Scholar"
+    ],
+    "ja_JP": [
+      "エーギルの学者",
+      "怪しいエーギル人"
+    ],
     "zh_CN": [
       "神秘的阿戈尔人",
       "阿戈尔学者"
     ]
   },
   "avg_npc_1395_1": {
+    "en_US": [
+      "Ægir Researcher B"
+    ],
+    "ja_JP": [
+      "エーギルの研究員B"
+    ],
     "zh_CN": [
       "阿戈尔研究员B"
     ]
   },
   "avg_npc_1396_1": {
+    "en_US": [
+      "Academy of Technology Researcher",
+      "Beacon Tower Technician",
+      "Pappus",
+      "Port Administrator",
+      "Ægir Technician"
+    ],
+    "ja_JP": [
+      "エーギルの技術者",
+      "ターミナル港管理官",
+      "パプス",
+      "ビーコン塔技術者",
+      "技術アカデミー研究員"
+    ],
     "zh_CN": [
       "信标塔技术员",
       "帕波斯",
@@ -8725,12 +8943,30 @@
     ]
   },
   "avg_npc_1397_1": {
+    "en_US": [
+      "'Researcher A'",
+      "Academy of Science Researcher"
+    ],
+    "ja_JP": [
+      "「研究員A」",
+      "科学アカデミー研究員"
+    ],
     "zh_CN": [
       "“研究员A”",
       "科学院研究员"
     ]
   },
   "avg_npc_1398_1": {
+    "en_US": [
+      "Battleship Pilot",
+      "Legion Soldier",
+      "Ægir Soldier"
+    ],
+    "ja_JP": [
+      "エーギルの兵士",
+      "戦艦の操舵手",
+      "軍団兵士"
+    ],
     "zh_CN": [
       "军团士兵",
       "战列舰驾驶员",
@@ -8738,6 +8974,12 @@
     ]
   },
   "avg_npc_1399_1": {
+    "en_US": [
+      "Ægir Officer"
+    ],
+    "ja_JP": [
+      "エーギルの士官"
+    ],
     "zh_CN": [
       "阿戈尔军官"
     ]
@@ -8814,11 +9056,27 @@
     ]
   },
   "avg_npc_1400_1": {
+    "en_US": [
+      "Legion Commander"
+    ],
+    "ja_JP": [
+      "軍団長官"
+    ],
     "zh_CN": [
       "军团长官"
     ]
   },
   "avg_npc_1401_1": {
+    "en_US": [
+      "'Little Handy'",
+      "'Little Handy' at the Street Corner",
+      "'Little Handy' from Institute of Facility Management",
+      "'Little Handy' from the Institute of Facility Management"
+    ],
+    "ja_JP": [
+      "「リトル・ハンディ」",
+      "街角の「リトル・ハンディ」"
+    ],
     "zh_CN": [
       "“小帮手”",
       "街角的“小帮手”",
@@ -10176,12 +10434,14 @@
       "Sly Stranger",
       "Startled Male Tourist",
       "Terrified Male Tourist",
-      "Tourist"
+      "Tourist",
+      "嚣张的青年"
     ],
     "ja_JP": [
       "せっかちな男性選手",
       "カジノの客",
       "喜んでいる男性観光客",
+      "嚣张的青年",
       "怖がっている男性観光客",
       "泥棒",
       "狡猾な胡散臭い男",
@@ -11590,10 +11850,12 @@
   },
   "avg_npc_273_1": {
     "en_US": [
-      "Beautiful Woman"
+      "Beautiful Woman",
+      "车站员工"
     ],
     "ja_JP": [
-      "美しい女性"
+      "美しい女性",
+      "车站员工"
     ],
     "zh_CN": [
       "美丽的女性",
@@ -11685,7 +11947,8 @@
       "Meddlesome Villager",
       "Paleroche Commoner A",
       "Vintner?",
-      "Youth"
+      "Youth",
+      "强壮的青年"
     ],
     "ja_JP": [
       "イェラグの青年",
@@ -11695,6 +11958,7 @@
       "ライバル商人",
       "元気なイェラグ人",
       "大胆な男性",
+      "强壮的青年",
       "物好きな地元民",
       "酒商人？",
       "青年"
@@ -11726,7 +11990,8 @@
       "Local Vendor",
       "Paleroche Commoner",
       "Server",
-      "Shocked Villager"
+      "Shocked Villager",
+      "围观的村民"
     ],
     "ja_JP": [
       "のんびりした地元民",
@@ -11737,6 +12002,7 @@
       "イェラグ民間人D",
       "カーハ部長",
       "ペイルロッシュ家平民",
+      "围观的村民",
       "従業員",
       "特産品商",
       "駄獣貸しの牧畜民",
@@ -11801,13 +12067,17 @@
       "Kjerag Noble B",
       "Lively Staffer",
       "Neighbor",
-      "Spectating Passenger"
+      "Spectating Passenger",
+      "不再忧郁的路人",
+      "忧郁的路人"
     ],
     "ja_JP": [
       "イェラグ人女性",
       "イェラグ民間人B",
       "イェラグ貴族B",
+      "不再忧郁的路人",
       "冷静なイェラグ人",
+      "忧郁的路人",
       "活発な職員",
       "見物する乗客",
       "隣人"
@@ -12546,14 +12816,18 @@
       "Lateran Citizen?",
       "Nervous Youth",
       "Panicked Underling of Patia",
-      "Reserved Hospital Attendant"
+      "Reserved Hospital Attendant",
+      "敏捷的拉特兰人",
+      "被铐住的拉特兰人"
     ],
     "ja_JP": [
       "信心深い市民",
       "市民？",
+      "敏捷的拉特兰人",
       "生真面目な看護師",
       "緊張した青年",
-      "緊張するパティアの手下"
+      "緊張するパティアの手下",
+      "被铐住的拉特兰人"
     ],
     "zh_CN": [
       "拉特兰市民？",
@@ -12581,7 +12855,8 @@
       "Spirited Lateran",
       "Still-Trying-to-be-Candid Stall Owner",
       "Trying-to-Smile-Anyway Stall Owner",
-      "Veteran Lateran Commando"
+      "Veteran Lateran Commando",
+      "心急的拉特兰人"
     ],
     "ja_JP": [
       "うれしそうな市民",
@@ -12590,6 +12865,7 @@
       "ベテラン特殊部隊員",
       "冷静な市民",
       "執行人見習い",
+      "心急的拉特兰人",
       "情熱的なラテラーノ人",
       "活発なラテラーノ人",
       "無理に作り笑いする店主",
@@ -12626,10 +12902,12 @@
       "Chatting Passerby",
       "Hospital Careworker",
       "Hotel Manager",
-      "Joyous Lateran"
+      "Joyous Lateran",
+      "友善的店主"
     ],
     "ja_JP": [
       "優しい市民",
+      "友善的店主",
       "愉快なラテラーノ人",
       "焦るホテルの支配人",
       "病院の看護師",
@@ -12745,11 +13023,15 @@
   "avg_npc_372_1": {
     "en_US": [
       "Notarial Hall Official",
-      "Richele"
+      "Richele",
+      "爽朗的执行者",
+      "里凯莱"
     ],
     "ja_JP": [
       "リケーレ",
-      "公証人役場職員"
+      "公証人役場職員",
+      "爽朗的执行者",
+      "里凯莱"
     ],
     "zh_CN": [
       "公证所职员",
@@ -13021,7 +13303,8 @@
       "Victorian Officer",
       "Victorian Sergeant",
       "Victorian Soldier",
-      "Victorian Soldier?"
+      "Victorian Soldier?",
+      "油滑的士兵"
     ],
     "ja_JP": [
       "ずる賢い兵士",
@@ -13032,6 +13315,7 @@
       "ヴィクトリア士官",
       "ヴィクトリア駐屯軍",
       "上級士官",
+      "油滑的士兵",
       "精悍な兵士",
       "赤鉄親衛隊隊員"
     ],
@@ -13138,7 +13422,8 @@
       "Somber Soldier",
       "Victorian Soldier",
       "Victorian Soldier C",
-      "Victorian Soldier D"
+      "Victorian Soldier D",
+      "阴沉的士兵"
     ],
     "ja_JP": [
       "ロッベン",
@@ -13146,7 +13431,8 @@
       "ヴィクトリア兵D",
       "ヴィクトリア兵士",
       "弱った兵士",
-      "暗い表情の兵士"
+      "暗い表情の兵士",
+      "阴沉的士兵"
     ],
     "zh_CN": [
       "兴奋的士兵",
@@ -13392,7 +13678,6 @@
     "ja_JP": [
       "ナハツェーラーの王",
       "ネツァレム",
-      "ネツレイ",
       "奇妙な老人"
     ],
     "zh_CN": [
@@ -13641,6 +13926,7 @@
   },
   "avg_npc_454_1": {
     "en_US": [
+      "'Deacon'",
       "Church of the Deep Cultist B",
       "Priest",
       "Silent Cultist",
@@ -13649,6 +13935,7 @@
       "Wounded Cultist"
     ],
     "ja_JP": [
+      "「助祭」",
       "傷付いた深海教徒",
       "宣教師",
       "寡黙な深海教徒",
@@ -13692,11 +13979,13 @@
   },
   "avg_npc_457_1": {
     "en_US": [
+      "'Assistant'",
       "Dying Sea Terror",
       "Sea Monster",
       "Sea Terror"
     ],
     "ja_JP": [
+      "「アシさん」",
       "怪物",
       "恐魚",
       "瀕死の恐魚"
@@ -13747,6 +14036,7 @@
   },
   "avg_npc_460_1": {
     "en_US": [
+      "Inquisition Clerk",
       "Panicking Townsfolk",
       "Panicking Townsperson",
       "Panicky Villager",
@@ -13760,7 +14050,8 @@
       "慌てる村人",
       "慌てる町民",
       "戸惑う町民",
-      "若い宣教師"
+      "若い宣教師",
+      "裁判所事務員"
     ],
     "zh_CN": [
       "审判庭文员",
@@ -14579,12 +14870,14 @@
     "en_US": [
       "Citizen?",
       "Contestant B",
+      "Flustered Pioneer",
       "Frontier Team Member",
       "Homeless Resident",
       "Ordinary citizens?",
       "Pioneer",
       "Pioneer Team Member",
       "Rhine Lab Task Force Messenger",
+      "Scarred Pioneer",
       "Weary Pioneer"
     ],
     "ja_JP": [
@@ -14592,9 +14885,11 @@
       "一般市民？",
       "参加者B",
       "市民？",
+      "慌てる開拓者",
       "疲弊した開拓者",
       "行く当てのない市民",
-      "開拓隊の隊員"
+      "開拓隊の隊員",
+      "顔に傷跡のある開拓者"
     ],
     "zh_CN": [
       "参赛者B",
@@ -15352,11 +15647,13 @@
       "Desperate Refugee",
       "Londinium Worker",
       "Londinium Worker A",
-      "Panicked Refugee"
+      "Panicked Refugee",
+      "修理铺钳工"
     ],
     "ja_JP": [
       "ロンディニウム工員",
       "ロンディニウム工員A",
+      "修理铺钳工",
       "取り乱す難民",
       "絶望した難民"
     ],
@@ -15658,6 +15955,7 @@
       "Layton",
       "Loyal Mafioso",
       "Mafioso",
+      "Mafioso B",
       "Mafioso G",
       "Radical Mafioso",
       "Saluzzo Guard",
@@ -15671,6 +15969,7 @@
       "ベッローネの用心棒",
       "マフィア",
       "マフィアG",
+      "マフィアの構成員B",
       "リントン",
       "忠実なマフィア",
       "怒っているマフィア",
@@ -15704,11 +16003,13 @@
       "Bailiff",
       "Bodyguard",
       "Judge's Subordinate",
+      "Mafioso A",
       "Resolute Bailiff",
       "Serious Bailiff"
     ],
     "ja_JP": [
       "「裁判官」の部下",
+      "マフィアの構成員A",
       "怒った裁判所守衛",
       "意志の固い裁判所守衛",
       "用心棒",
@@ -17312,10 +17613,12 @@
       "Human Resources Operator",
       "Logistics Operator",
       "Procurement Operator",
-      "Rhodes Island Landship Operator A"
+      "Rhodes Island Landship Operator A",
+      "Rhodes Island Messenger"
     ],
     "ja_JP": [
       "ファロン",
+      "ロドストランスポーター",
       "人事オペレーター",
       "人事部オペレーター",
       "後方支援オペレーター",
@@ -17345,7 +17648,7 @@
       "Rubber"
     ],
     "ja_JP": [
-      "イレイザー",
+      "ラバー",
       "人事部オペレーター",
       "実習オペレーター",
       "後方支援オペレーター",
@@ -18996,10 +19299,12 @@
   },
   "char_199_yak_1": {
     "en_US": [
-      "Matterhorn"
+      "Matterhorn",
+      "角峰"
     ],
     "ja_JP": [
-      "マッターホルン"
+      "マッターホルン",
+      "角峰"
     ],
     "zh_CN": [
       "角峰"
@@ -19671,10 +19976,12 @@
   },
   "char_302_glaze_1": {
     "en_US": [
-      "Ambriel"
+      "Ambriel",
+      "安比尔"
     ],
     "ja_JP": [
-      "アンブリエル"
+      "アンブリエル",
+      "安比尔"
     ],
     "zh_CN": [
       "安比尔"

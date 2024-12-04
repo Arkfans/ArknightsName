@@ -1984,6 +1984,8 @@
   "char_4079_haini": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Lucilla",
+      "ja_JP": "ルシーラ",
       "zh_CN": "海霓"
     }
   },
@@ -2262,6 +2264,8 @@
   "char_4137_udflow": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Underflow",
+      "ja_JP": "アンダーフロー",
       "zh_CN": "深巡"
     }
   },
@@ -2310,6 +2314,8 @@
   "char_4145_ulpia": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Ulpianus",
+      "ja_JP": "ウルピアヌス",
       "zh_CN": "乌尔比安"
     }
   },
@@ -3296,6 +3302,8 @@
   "token_10039_ulpia_block": {
     "type": "TOKEN",
     "names": {
+      "en_US": "Undeviating Course",
+      "ja_JP": "混同せぬ方向",
       "zh_CN": "从不混淆的方向"
     }
   },
@@ -4864,18 +4872,24 @@
   "trap_155_aegiret": {
     "type": "TRAP",
     "names": {
+      "en_US": "Waterway Beacon",
+      "ja_JP": "航路ビーコン",
       "zh_CN": "航道信标"
     }
   },
   "trap_156_dsshell": {
     "type": "TRAP",
     "names": {
+      "en_US": "Excrescent Carapace",
+      "ja_JP": "増殖甲羅",
       "zh_CN": "赘生甲壳"
     }
   },
   "trap_157_bounc2": {
     "type": "TRAP",
     "names": {
+      "en_US": "'Little Handy'",
+      "ja_JP": "リトル・ハンディ",
       "zh_CN": "小帮手"
     }
   },
@@ -5024,6 +5038,8 @@
   "trap_180_dsblock": {
     "type": "TRAP",
     "names": {
+      "en_US": "Sealed Floor",
+      "ja_JP": "封じられた地面",
       "zh_CN": "封印的地面"
     }
   },
@@ -5042,6 +5058,8 @@
   "trap_183_sheltk": {
     "type": "TRAP",
     "names": {
+      "en_US": "Combat Special Barricade",
+      "ja_JP": "作戦用掩体",
       "zh_CN": "作战专用掩体"
     }
   },
@@ -5267,7 +5285,7 @@
     "type": "TRAP",
     "names": {
       "en_US": "Resource Planning Station",
-      "ja_JP": "資源計画所",
+      "ja_JP": "人材計画所",
       "zh_CN": "资源规划站"
     }
   },
@@ -5642,7 +5660,7 @@
   "trap_475_xbcbag": {
     "type": "TRAP",
     "names": {
-      "en_US": "Game Holding Cage",
+      "en_US": "Beast Cage",
       "ja_JP": "捕獲カゴ",
       "zh_CN": "猎获笼"
     }
@@ -6390,6 +6408,8 @@
   "trap_765_bmoney": {
     "type": "TRAP",
     "names": {
+      "en_US": "Indisputable Evidence",
+      "ja_JP": "決定的な証拠",
       "zh_CN": "无可置疑的罪证"
     }
   },
@@ -6408,54 +6428,72 @@
   "trap_768_godch": {
     "type": "TRAP",
     "names": {
+      "en_US": "Security Talent Agreement",
+      "ja_JP": "保全人員協力協定",
       "zh_CN": "保全人才合作协议"
     }
   },
   "trap_769_godcha": {
     "type": "TRAP",
     "names": {
+      "en_US": "Expedited Licensing Terms",
+      "ja_JP": "緊急派遣規約",
       "zh_CN": "加急许可条款"
     }
   },
   "trap_770_godchb": {
     "type": "TRAP",
     "names": {
+      "en_US": "Interim Appointment Terms",
+      "ja_JP": "臨時任命規約",
       "zh_CN": "临时任命条款"
     }
   },
   "trap_771_bqrnge": {
     "type": "TRAP",
     "names": {
+      "en_US": "Royal Academy of Sciences Telescope",
+      "ja_JP": "科学研究用望遠鏡",
       "zh_CN": "皇家科学院望远镜"
     }
   },
   "trap_772_bqrngea": {
     "type": "TRAP",
     "names": {
+      "en_US": "Professional Display Module",
+      "ja_JP": "プロ仕様モニターモジュール",
       "zh_CN": "专业显示模块"
     }
   },
   "trap_773_bqrngeb": {
     "type": "TRAP",
     "names": {
+      "en_US": "Agile Installation Module",
+      "ja_JP": "フレキシブル設置モジュール",
       "zh_CN": "灵活架设模块"
     }
   },
   "trap_774_bqmlee": {
     "type": "TRAP",
     "names": {
+      "en_US": "Cloudstepper",
+      "ja_JP": "登雲具",
       "zh_CN": "攀云机"
     }
   },
   "trap_775_bqmleea": {
     "type": "TRAP",
     "names": {
+      "en_US": "Reinforcement Expansion Modification",
+      "ja_JP": "補強＆拡容改造",
       "zh_CN": "加固扩存改装"
     }
   },
   "trap_776_bqmleeb": {
     "type": "TRAP",
     "names": {
+      "en_US": "Long-Expansion Modification",
+      "ja_JP": "遠距離＆効率化改造",
       "zh_CN": "长距增运改装"
     }
   },
@@ -6576,6 +6614,8 @@
   "char_1016_agoat2@epoque#34": {
     "type": "SKIN",
     "names": {
+      "en_US": "A Picnic Before A Long Trip",
+      "ja_JP": "遠き旅へのピクニック",
       "zh_CN": "远行前的野餐"
     }
   },
@@ -7196,6 +7236,8 @@
   "char_179_cgbird@sightseer#1": {
     "type": "SKIN",
     "names": {
+      "en_US": "Iakhu of Flows",
+      "ja_JP": "流麗なる光",
       "zh_CN": "流辉"
     }
   },
@@ -8438,6 +8480,8 @@
   "char_4006_melnte@epoque#33": {
     "type": "SKIN",
     "names": {
+      "en_US": "For the Banquet",
+      "ja_JP": "宴会に赴く",
       "zh_CN": "赴宴"
     }
   },
@@ -8690,6 +8734,8 @@
   "char_4065_judge@epoque#33": {
     "type": "SKIN",
     "names": {
+      "en_US": "Scribing",
+      "ja_JP": "書き記す者",
       "zh_CN": "记叙"
     }
   },
@@ -8838,6 +8884,8 @@
   "char_4122_grabds@yun#3": {
     "type": "SKIN",
     "names": {
+      "en_US": "Fragrant Pace",
+      "ja_JP": "歩芳蘭",
       "zh_CN": "步芳兰"
     }
   },
@@ -9120,6 +9168,8 @@
   "char_474_glady@epoque#33": {
     "type": "SKIN",
     "names": {
+      "en_US": "I Am the Tides",
+      "ja_JP": "我即ち潮汐",
       "zh_CN": "我即潮汐"
     }
   },
@@ -14270,7 +14320,7 @@
   "enemy_1283_sgkill": {
     "type": "ENEMY",
     "names": {
-      "en_US": "Famiglia Cleaner",
+      "en_US": "Famiglia Silencer",
       "ja_JP": "マフィアの掃除人",
       "zh_CN": "家族灭迹人"
     }
@@ -14278,7 +14328,7 @@
   "enemy_1283_sgkill_2": {
     "type": "ENEMY",
     "names": {
-      "en_US": "Famiglia Silent Cleaner",
+      "en_US": "Famiglia Shadow Silencer",
       "ja_JP": "マフィアの一流掃除人",
       "zh_CN": "家族暗影灭迹人"
     }
@@ -16438,90 +16488,120 @@
   "enemy_1433_dsbasi": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Unicellular Predator",
+      "ja_JP": "単核のプレデター",
       "zh_CN": "单核掠食者"
     }
   },
   "enemy_1433_dsbasi_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Allotropic Predator",
+      "ja_JP": "異光体プレデター",
       "zh_CN": "异光体掠食者"
     }
   },
   "enemy_1434_dsshel": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Exocellular Depositor",
+      "ja_JP": "小核のデポジッター",
       "zh_CN": "微核沉积者"
     }
   },
   "enemy_1435_dsflys": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Toxocellular Drifter",
+      "ja_JP": "繊核のドリフター",
       "zh_CN": "纤核漂游者"
     }
   },
   "enemy_1435_dsflys_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Allotropic Drifter",
+      "ja_JP": "異光体ドリフター",
       "zh_CN": "异光体漂游者"
     }
   },
   "enemy_1436_dsdivi": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Divicellular Hoarder",
+      "ja_JP": "詭核のホーダー",
       "zh_CN": "诡核集养者"
     }
   },
   "enemy_1436_dsdivi_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Allotropic Hoarder",
+      "ja_JP": "異光体ホーダー",
       "zh_CN": "异光体集养者"
     }
   },
   "enemy_1437_dsfull": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Matrocellular Nurse",
+      "ja_JP": "蔵核のナース",
       "zh_CN": "蕴核饲育者"
     }
   },
   "enemy_1437_dsfull_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Allotropic Nurse",
+      "ja_JP": "異光体ナース",
       "zh_CN": "异光体饲育者"
     }
   },
   "enemy_1438_dspred": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Multicellular Herald",
+      "ja_JP": "複核のヘラルド",
       "zh_CN": "复核洋流使者"
     }
   },
   "enemy_1438_dspred_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Allotropic Herald",
+      "ja_JP": "異光体ヘラルド",
       "zh_CN": "异光体洋流使者"
     }
   },
   "enemy_1439_dslntf": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Nucleic Maleficent",
+      "ja_JP": "元核のマレフィセント",
       "zh_CN": "元核孽生者"
     }
   },
   "enemy_1439_dslntf_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Allotropic Maleficent",
+      "ja_JP": "異光体マレフィセント",
       "zh_CN": "异光体孽生者"
     }
   },
   "enemy_1440_dselec": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'The Abandoned'",
+      "ja_JP": "「棄てられし者」",
       "zh_CN": "“被弃者”"
     }
   },
   "enemy_1440_dselec_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'The Cursed'",
+      "ja_JP": "「呪われし者」",
       "zh_CN": "“受诅者”"
     }
   },
@@ -16976,6 +17056,8 @@
   "enemy_1556_dsbish": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Mártus, 'Seaborn'",
+      "ja_JP": "「シーボーン」マルトゥス",
       "zh_CN": "玛利图斯，“海嗣”"
     }
   },
@@ -19658,6 +19740,8 @@
   "act2signvs": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "May the Sunshine Still Sign-In Event",
+      "ja_JP": "スタンプラリー",
       "zh_CN": "端阳正午签到活动"
     }
   },
@@ -19744,6 +19828,8 @@
   "act34side": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Path of Life",
+      "ja_JP": "生存航路",
       "zh_CN": "生路"
     }
   },
@@ -21967,7 +22053,7 @@
   "SINGLE_49_0_1_GACHA": {
     "type": "ITEM",
     "names": {
-      "en_US": "Exclusive Headhunting Permit",
+      "en_US": "Like Ending Like Death Headhunting Permit",
       "ja_JP": "イベントスカウト券",
       "zh_CN": "如死亦终寻访凭证"
     }
@@ -21975,7 +22061,7 @@
   "SINGLE_49_0_1_GACHA_10": {
     "type": "ITEM",
     "names": {
-      "en_US": "Exclusive Ten-roll Headhunting Permit",
+      "en_US": "Like Ending Like Death Ten-roll Headhunting Permit",
       "ja_JP": "イベント10回スカウト券",
       "zh_CN": "如死亦终十连寻访凭证"
     }
@@ -22915,6 +23001,8 @@
   "act34side_token_chip": {
     "type": "ITEM",
     "names": {
+      "en_US": "'Emergency Supplies' Blueprint Chip",
+      "ja_JP": "「非常用物資」設計図チップ",
       "zh_CN": "“应急物资”蓝图芯片"
     }
   },
@@ -23184,6 +23272,8 @@
   "advanced_material_voucher_perm": {
     "type": "ITEM",
     "names": {
+      "en_US": "Advanced Material Voucher",
+      "ja_JP": "T3素材交換券",
       "zh_CN": "高级材料提货券"
     }
   },
@@ -23551,6 +23641,13 @@
       "en_US": "Preregister to get 1 of 4 Operators randomly",
       "ja_JP": "オペレーター指定券",
       "zh_CN": "预约干员随机4选1"
+    }
+  },
+  "class_p_char_003_kalts": {
+    "type": "ITEM",
+    "names": {
+      "en_US": "Kal'tsit's Kernel Token",
+      "ja_JP": "ケルシーの印（中堅）"
     }
   },
   "class_p_char_010_chen": {
@@ -24673,6 +24770,13 @@
       "zh_CN": "瑕光的中坚信物"
     }
   },
+  "class_p_char_426_billro": {
+    "type": "ITEM",
+    "names": {
+      "en_US": "Carnelian's Kernel Token",
+      "ja_JP": "カーネリアンの印（中堅）"
+    }
+  },
   "class_p_char_436_whispr": {
     "type": "ITEM",
     "names": {
@@ -24721,12 +24825,33 @@
       "zh_CN": "异客的中坚信物"
     }
   },
+  "class_p_char_475_akafyu": {
+    "type": "ITEM",
+    "names": {
+      "en_US": "Akafuyu's Kernel Token",
+      "ja_JP": "アカフユの印（中堅）"
+    }
+  },
+  "class_p_char_478_kirara": {
+    "type": "ITEM",
+    "names": {
+      "en_US": "Kirara's Kernel Token",
+      "ja_JP": "キララの印（中堅）"
+    }
+  },
   "class_p_char_484_robrta": {
     "type": "ITEM",
     "names": {
       "en_US": "Roberta's Kernel Token",
       "ja_JP": "ロベルタの印（中堅）",
       "zh_CN": "罗比菈塔的中坚信物"
+    }
+  },
+  "class_p_char_485_pallas": {
+    "type": "ITEM",
+    "names": {
+      "en_US": "Pallas's Kernel Token",
+      "ja_JP": "パラスの印（中堅）"
     }
   },
   "class_p_char_491_humus": {
@@ -27192,6 +27317,8 @@
   "p_char_4079_haini": {
     "type": "ITEM",
     "names": {
+      "en_US": "Lucilla's Token",
+      "ja_JP": "ルシーラの印",
       "zh_CN": "海霓的信物"
     }
   },
@@ -27462,6 +27589,8 @@
   "p_char_4137_udflow": {
     "type": "ITEM",
     "names": {
+      "en_US": "Underflow's Token",
+      "ja_JP": "アンダーフローの印",
       "zh_CN": "深巡的信物"
     }
   },
@@ -27510,6 +27639,8 @@
   "p_char_4145_ulpia": {
     "type": "ITEM",
     "names": {
+      "en_US": "Ulpianus's Token",
+      "ja_JP": "ウルピアヌスの印",
       "zh_CN": "乌尔比安的信物"
     }
   },
@@ -28946,6 +29077,8 @@
   "uni_set_concertHall": {
     "type": "ITEM",
     "names": {
+      "en_US": "Lingering Echoes Furniture Pack",
+      "ja_JP": "塵影に交わる残響家具パック",
       "zh_CN": "尘影余音家具收藏包"
     }
   },
@@ -29152,6 +29285,8 @@
   "voucher_elite_II_4": {
     "type": "ITEM",
     "names": {
+      "en_US": "Professional Operator Training Invitation Letter",
+      "ja_JP": "★4特訓招待状",
       "zh_CN": "专业干员特训邀请函"
     }
   },
@@ -29298,6 +29433,8 @@
   "voucher_full_pianst": {
     "type": "ITEM",
     "names": {
+      "en_US": "Czerny's Personal Letter",
+      "ja_JP": "ツェルニーの手紙",
       "zh_CN": "车尔尼的私人信件"
     }
   },
@@ -29384,6 +29521,8 @@
   "voucher_item_4pick1_5301": {
     "type": "ITEM",
     "names": {
+      "en_US": "Senior Operator Transfer Permit - Starter",
+      "ja_JP": "初心者★5招聘指名券",
       "zh_CN": "资深干员调用凭证-新人"
     }
   },
@@ -29554,6 +29693,8 @@
   "voucher_recruitR6_pick5301": {
     "type": "ITEM",
     "names": {
+      "en_US": "Top Operator Transfer Permit - Starter",
+      "ja_JP": "初心者★6招聘指名券",
       "zh_CN": "高级干员调用凭证-新人"
     }
   },
@@ -31200,6 +31341,13 @@
     "names": {
       "en_US": "LIKE ENDING LIKE DEATH",
       "ja_JP": "死か/終わりか"
+    }
+  },
+  "_SINGLE_31_0_1": {
+    "type": "POOL",
+    "names": {
+      "en_US": "Anchor In The Deep",
+      "ja_JP": "海淵に沈む錨"
     }
   },
   "skchr_absin_1": {
@@ -33431,12 +33579,16 @@
   "skchr_haini_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Camouflaging Current Chart",
+      "ja_JP": "惑わす海流図",
       "zh_CN": "迷惑性洋流图"
     }
   },
   "skchr_haini_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Release-retarding Chromogen",
+      "ja_JP": "遮断性発色剤",
       "zh_CN": "阻滞性显色剂"
     }
   },
@@ -36333,30 +36485,40 @@
   "skchr_udflow_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Invasion Response",
+      "ja_JP": "侵攻への備え",
       "zh_CN": "侵袭破坏应对"
     }
   },
   "skchr_udflow_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Pinning Maneuver",
+      "ja_JP": "毒棘制圧射撃",
       "zh_CN": "行动能力剥夺"
     }
   },
   "skchr_ulpia_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Contact Must Be Made",
+      "ja_JP": "成すべき接触",
       "zh_CN": "必须促成的接触"
     }
   },
   "skchr_ulpia_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Boundaries Must Be Kept",
+      "ja_JP": "維持すべき境界",
       "zh_CN": "必须维系的界限"
     }
   },
   "skchr_ulpia_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Paths Must Be Opened",
+      "ja_JP": "拓くべき活路",
       "zh_CN": "必须开辟的通路"
     }
   },
@@ -37619,6 +37781,8 @@
   "sktok_aegiret_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Activate Beacon",
+      "ja_JP": "ビーコン起動",
       "zh_CN": "信标激活"
     }
   },
@@ -37817,6 +37981,8 @@
   "sktok_bmoney": {
     "type": "SKILL",
     "names": {
+      "en_US": "Indisputable Evidence",
+      "ja_JP": "決定的な証拠",
       "zh_CN": "无可置疑的罪证"
     }
   },
@@ -37847,6 +38013,8 @@
   "sktok_bounc2_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Drilling Tool",
+      "ja_JP": "掘削ドリル",
       "zh_CN": "工程钻具"
     }
   },
@@ -37877,36 +38045,48 @@
   "sktok_bqmlee": {
     "type": "SKILL",
     "names": {
+      "en_US": "Skystep",
+      "ja_JP": "一躍昇天",
       "zh_CN": "步青云"
     }
   },
   "sktok_bqmleea": {
     "type": "SKILL",
     "names": {
+      "en_US": "Skystep",
+      "ja_JP": "一躍昇天",
       "zh_CN": "步青云"
     }
   },
   "sktok_bqmleeb": {
     "type": "SKILL",
     "names": {
+      "en_US": "Skystep",
+      "ja_JP": "一躍昇天",
       "zh_CN": "步青云"
     }
   },
   "sktok_bqrnge": {
     "type": "SKILL",
     "names": {
+      "en_US": "Analyze",
+      "ja_JP": "分析",
       "zh_CN": "分析"
     }
   },
   "sktok_bqrngea": {
     "type": "SKILL",
     "names": {
+      "en_US": "Analyze",
+      "ja_JP": "分析",
       "zh_CN": "分析"
     }
   },
   "sktok_bqrngeb": {
     "type": "SKILL",
     "names": {
+      "en_US": "Analyze",
+      "ja_JP": "分析",
       "zh_CN": "分析"
     }
   },
@@ -38443,6 +38623,8 @@
   "sktok_dsshell": {
     "type": "SKILL",
     "names": {
+      "en_US": "Excrescent Carapace",
+      "ja_JP": "増殖甲羅",
       "zh_CN": "赘生甲壳"
     }
   },
@@ -38699,18 +38881,24 @@
   "sktok_godch": {
     "type": "SKILL",
     "names": {
+      "en_US": "Rhodes Island Collaboration",
+      "ja_JP": "ロドス式提携",
       "zh_CN": "罗德岛式协作"
     }
   },
   "sktok_godcha": {
     "type": "SKILL",
     "names": {
+      "en_US": "Rhodes Island Collaboration",
+      "ja_JP": "ロドス式提携",
       "zh_CN": "罗德岛式协作"
     }
   },
   "sktok_godchb": {
     "type": "SKILL",
     "names": {
+      "en_US": "Rhodes Island Collaboration",
+      "ja_JP": "ロドス式提携",
       "zh_CN": "罗德岛式协作"
     }
   },
@@ -40546,7 +40734,7 @@
     "type": "SKILL",
     "names": {
       "en_US": "Resource Planning",
-      "ja_JP": "資源計画",
+      "ja_JP": "人材計画",
       "zh_CN": "资源规划"
     }
   },
@@ -44738,7 +44926,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "Do Your Ears Hang Low?",
-      "ja_JP": "耳を垂らせる？",
+      "ja_JP": "お耳を垂らせる？",
       "zh_CN": "你的耳朵长不长？"
     }
   },
@@ -45817,78 +46005,104 @@
   "act34side_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "First Contact",
+      "ja_JP": "ファーストコンタクト",
       "zh_CN": "第一次接触"
     }
   },
   "act34side_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Tribunal Welcome",
+      "ja_JP": "評議による出迎え",
       "zh_CN": "评议式迎接"
     }
   },
   "act34side_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Like the Marine Snow",
+      "ja_JP": "海雪の如く散る",
       "zh_CN": "如海雪纷散"
     }
   },
   "act34side_04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Price and Sacrifice",
+      "ja_JP": "犠牲と代償",
       "zh_CN": "牺牲与代价"
     }
   },
   "act34side_05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Lethal Fate",
+      "ja_JP": "不治の運命",
       "zh_CN": "不治的命运"
     }
   },
   "act34side_06": {
     "type": "STAGE",
     "names": {
+      "en_US": "Anathema of Ægir",
+      "ja_JP": "エーギル失格",
       "zh_CN": "阿戈尔失格"
     }
   },
   "act34side_07": {
     "type": "STAGE",
     "names": {
+      "en_US": "From History",
+      "ja_JP": "歴史の中より来たる",
       "zh_CN": "从历史中来"
     }
   },
   "act34side_08": {
     "type": "STAGE",
     "names": {
+      "en_US": "What is Survival?",
+      "ja_JP": "「存続とは何か」",
       "zh_CN": "“何谓存续？”"
     }
   },
   "act34side_09": {
     "type": "STAGE",
     "names": {
+      "en_US": "Fortress of Civilization",
+      "ja_JP": "文明の防壁",
       "zh_CN": "文明的壁垒"
     }
   },
   "act34side_st01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Tide Watcher",
+      "ja_JP": "波を見張る者",
       "zh_CN": "浪潮守望者"
     }
   },
   "act34side_st02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Backflow Current",
+      "ja_JP": "逆転する海流の如く",
       "zh_CN": "如海流倒灌"
     }
   },
   "act34side_st03": {
     "type": "STAGE",
     "names": {
+      "en_US": "The Stray and the Companion",
+      "ja_JP": "道違える者と同行者",
       "zh_CN": "歧路者与同行者"
     }
   },
   "act34side_tr01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Beacon Deployment Drill",
+      "ja_JP": "ビーコン設置演習",
       "zh_CN": "信标投放演习"
     }
   },
@@ -50881,12 +51095,16 @@
   "tr_s_1": {
     "type": "STAGE",
     "names": {
+      "en_US": "Comprehensive Combat Exercise 1",
+      "ja_JP": "総合作戦訓練1",
       "zh_CN": "综合作战训练1"
     }
   },
   "tr_s_2": {
     "type": "STAGE",
     "names": {
+      "en_US": "Comprehensive Combat Exercise 2",
+      "ja_JP": "総合作戦訓練2",
       "zh_CN": "综合作战训练2"
     }
   },
@@ -52341,12 +52559,16 @@
   "act34side_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Deploy Beacons",
+      "ja_JP": "ビーコン設置",
       "zh_CN": "信标投放"
     }
   },
   "act34side_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Fortify Defense",
+      "ja_JP": "防衛線強化",
       "zh_CN": "防线巩固"
     }
   },
@@ -53895,6 +54117,8 @@
   "story_coldst_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Have A Safe Trip",
+      "ja_JP": "いってらっしゃい",
       "zh_CN": "一路顺风"
     }
   },
@@ -53941,6 +54165,8 @@
   "story_deepcl_set_2_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Blue Notes",
+      "ja_JP": "ブルース",
       "zh_CN": "蓝调"
     }
   },
@@ -54327,6 +54553,8 @@
   "story_haini_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "The Hopeful Ones",
+      "ja_JP": "希望を抱く人",
       "zh_CN": "怀有希望之人"
     }
   },
@@ -54693,6 +54921,8 @@
   "story_luton_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Under the Shining Sun",
+      "ja_JP": "日差しのもとで",
       "zh_CN": "阳光映照之下"
     }
   },

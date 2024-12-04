@@ -292,8 +292,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_haak_1 | 快速射击 | Rapid Fire | 高速射撃 |
 | skchr_haak_2 | 爆发剂·γ型 | Type-γ Stimpack | 劇性増強剤・γ |
 | skchr_haak_3 | 爆发剂·榴莲味 | Durian-Flavored Stimpack | 劇性増強剤・ドリアン |
-| skchr_haini_1 | 迷惑性洋流图 | - | - |
-| skchr_haini_2 | 阻滞性显色剂 | - | - |
+| skchr_haini_1 | 迷惑性洋流图 | Camouflaging Current Chart | 惑わす海流図 |
+| skchr_haini_2 | 阻滞性显色剂 | Release-retarding Chromogen | 遮断性発色剤 |
 | skchr_halo_1 | 双端导流 | Double Diversion | ボルテージダブラー |
 | skchr_halo_2 | 星束交汇 | Starlight Intersection | アストラルバースト |
 | skchr_hamoni_1 | 轻巧舞步 | Lithe Steps | 舞は軽やかに |
@@ -663,11 +663,11 @@ tip: 请善用浏览器的搜索功能
 | skchr_tuye_2 | 强心剂 | Cardiac Stimulant | カンフル剤 |
 | skchr_typhon_2 | 冰原秩序 | Order of the Icefield | 氷原の掟 |
 | skchr_typhon_3 | “永恒狩猎” | 'Eternal Hunt' | 「永久なる狩猟」 |
-| skchr_udflow_1 | 侵袭破坏应对 | - | - |
-| skchr_udflow_2 | 行动能力剥夺 | - | - |
-| skchr_ulpia_1 | 必须促成的接触 | - | - |
-| skchr_ulpia_2 | 必须维系的界限 | - | - |
-| skchr_ulpia_3 | 必须开辟的通路 | - | - |
+| skchr_udflow_1 | 侵袭破坏应对 | Invasion Response | 侵攻への備え |
+| skchr_udflow_2 | 行动能力剥夺 | Pinning Maneuver | 毒棘制圧射撃 |
+| skchr_ulpia_1 | 必须促成的接触 | Contact Must Be Made | 成すべき接触 |
+| skchr_ulpia_2 | 必须维系的界限 | Boundaries Must Be Kept | 維持すべき境界 |
+| skchr_ulpia_3 | 必须开辟的通路 | Paths Must Be Opened | 拓くべき活路 |
 | skchr_utage_1 | 分神 | Space Out | サボり |
 | skchr_utage_2 | 落地斩·破门 | Descending Strike - Earth Splitter | 落地斬・突破 |
 | skchr_vendla_2 | 荆藤庇荫 | Umbrage of Thorns | 茨の庇護 |
@@ -852,7 +852,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_acspell016_1 | 法术：破袭 | - | - |
 | sktok_acspell017_1 | 晋升调配特许 | - | - |
 | sktok_ads | 掩护 | Cover | 援護 |
-| sktok_aegiret_1 | 信标激活 | - | - |
+| sktok_aegiret_1 | 信标激活 | Activate Beacon | ビーコン起動 |
 | sktok_aidkit | 急救 | First Aid | 応急処置 |
 | sktok_airbomb | 砰！ | Bang! | バン！ |
 | sktok_airsup | 派遣空援 | Dispatch Air Support | 空援派遣 |
@@ -877,20 +877,20 @@ tip: 请善用浏览器的搜索功能
 | sktok_blkngt_hypnos_s_1 | 食梦 | Dream Eater | 夢喰い |
 | sktok_blkngt_hypnos_s_2 | 食梦 | Dream Eater | 夢喰い |
 | sktok_blower | 气流 | Airflow | 源石気流 |
-| sktok_bmoney | 无可置疑的罪证 | - | - |
+| sktok_bmoney | 无可置疑的罪证 | Indisputable Evidence | 決定的な証拠 |
 | sktok_bomb | 坏脾气 | Ill Temper | 大癇癪 |
 | sktok_bondtw | 发射缚网 | Fire Net | 捕縛網発射 |
 | sktok_bonore | 唤血祭坛 | Bloodcalling Altar | 血の祭壇 |
-| sktok_bounc2_1 | 工程钻具 | - | - |
+| sktok_bounc2_1 | 工程钻具 | Drilling Tool | 掘削ドリル |
 | sktok_bouncy_1 | 圣徒之手 | Hand of the Saint | 聖徒の御手 |
 | sktok_bouncy_2 | 圣徒之手·清理模式 | Hand of the Saint - Purification | 聖徒の御手・清掃モード |
 | sktok_bouncy_3 | 圣徒之手·巡回模式 | Hand of the Saint - Patrol | 聖徒の御手・巡回モード |
-| sktok_bqmlee | 步青云 | - | - |
-| sktok_bqmleea | 步青云 | - | - |
-| sktok_bqmleeb | 步青云 | - | - |
-| sktok_bqrnge | 分析 | - | - |
-| sktok_bqrngea | 分析 | - | - |
-| sktok_bqrngeb | 分析 | - | - |
+| sktok_bqmlee | 步青云 | Skystep | 一躍昇天 |
+| sktok_bqmleea | 步青云 | Skystep | 一躍昇天 |
+| sktok_bqmleeb | 步青云 | Skystep | 一躍昇天 |
+| sktok_bqrnge | 分析 | Analyze | 分析 |
+| sktok_bqrngea | 分析 | Analyze | 分析 |
+| sktok_bqrngeb | 分析 | Analyze | 分析 |
 | sktok_brctrl | 实体程式控制端 | Entitative Program Controller | 実体プログラム制御端末 |
 | sktok_btauntcard | 晶化 | Crystallize | 晶化 |
 | sktok_buffcard | 升格 | Upgrade | 強化 |
@@ -958,7 +958,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_doroth_3 | 高速共振排障 | High-speed Resonating Troubleshooter | 高周波共振 |
 | sktok_dplant | 抑制生长 | Suppress Growth | 成長抑制 |
 | sktok_dsbell | 应急治疗协议 | Emergency Medical Agreement | 応急治療プロトコル |
-| sktok_dsshell | 赘生甲壳 | - | - |
+| sktok_dsshell | 赘生甲壳 | Excrescent Carapace | 増殖甲羅 |
 | sktok_dstnta | 摄食 | Devour | 摂食 |
 | sktok_dublst | 爆破 | Explode | 爆破 |
 | sktok_duelcdt_1 | 狭路相逢 | - | - |
@@ -991,9 +991,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_gasbotb | 速效制冷 | Quick Cooling | 即時冷却 |
 | sktok_gasctrl | 毒雾控制 | Poison Mist Control | 毒霧制御 |
 | sktok_gate | 关闭闸门 | Gate Closing | シャッター |
-| sktok_godch | 罗德岛式协作 | - | - |
-| sktok_godcha | 罗德岛式协作 | - | - |
-| sktok_godchb | 罗德岛式协作 | - | - |
+| sktok_godch | 罗德岛式协作 | Rhodes Island Collaboration | ロドス式提携 |
+| sktok_godcha | 罗德岛式协作 | Rhodes Island Collaboration | ロドス式提携 |
+| sktok_godchb | 罗德岛式协作 | Rhodes Island Collaboration | ロドス式提携 |
 | sktok_gractrl | 重力生成 | Gravity Generation | 重力生成 |
 | sktok_gtreasure | 可被击破 | Destructible | 撃破可能 |
 | sktok_gunctrl | 开火 | Open Fire | 発射 |
@@ -1231,7 +1231,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_xbmire | 侵蚀 | Corrosion | 侵蝕 |
 | sktok_xbmrcl | 演算 | Computation | 演算 |
 | sktok_xboverwatch | 监控 | Monitor | モニタリング |
-| sktok_xbprsh | 资源规划 | Resource Planning | 資源計画 |
+| sktok_xbprsh | 资源规划 | Resource Planning | 人材計画 |
 | sktok_xbrandprop_1 | 发道具 | Dispense Item | アイテム配布 |
 | sktok_xbrandprop_2 | 发道具 | Dispense Item | アイテム配布 |
 | sktok_xbroadblock | 阻断道路 | Block Road | 道路封鎖 |

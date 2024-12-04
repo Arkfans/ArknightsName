@@ -918,12 +918,18 @@
     "zh_CN": "阵地屏障"
   },
   "trap_155_aegiret": {
+    "en_US": "Waterway Beacon",
+    "ja_JP": "航路ビーコン",
     "zh_CN": "航道信标"
   },
   "trap_156_dsshell": {
+    "en_US": "Excrescent Carapace",
+    "ja_JP": "増殖甲羅",
     "zh_CN": "赘生甲壳"
   },
   "trap_157_bounc2": {
+    "en_US": "'Little Handy'",
+    "ja_JP": "リトル・ハンディ",
     "zh_CN": "小帮手"
   },
   "trap_158_lrsteam": {
@@ -1009,6 +1015,8 @@
     "zh_CN": "促融共竞控制"
   },
   "trap_180_dsblock": {
+    "en_US": "Sealed Floor",
+    "ja_JP": "封じられた地面",
     "zh_CN": "封印的地面"
   },
   "trap_181_sgray": {
@@ -1018,6 +1026,8 @@
     "zh_CN": "纯净结晶"
   },
   "trap_183_sheltk": {
+    "en_US": "Combat Special Barricade",
+    "ja_JP": "作戦用掩体",
     "zh_CN": "作战专用掩体"
   },
   "trap_184_vtarsn": {
@@ -1156,7 +1166,7 @@
   },
   "trap_427_xbprsh": {
     "en_US": "Resource Planning Station",
-    "ja_JP": "資源計画所",
+    "ja_JP": "人材計画所",
     "zh_CN": "资源规划站"
   },
   "trap_428_xblrsh": {
@@ -1390,7 +1400,7 @@
     "zh_CN": "信使邮筒"
   },
   "trap_475_xbcbag": {
-    "en_US": "Game Holding Cage",
+    "en_US": "Beast Cage",
     "ja_JP": "捕獲カゴ",
     "zh_CN": "猎获笼"
   },
@@ -1832,6 +1842,8 @@
     "zh_CN": "驮兽旅行家"
   },
   "trap_765_bmoney": {
+    "en_US": "Indisputable Evidence",
+    "ja_JP": "決定的な証拠",
     "zh_CN": "无可置疑的罪证"
   },
   "trap_766_duelwal": {
@@ -1841,30 +1853,48 @@
     "zh_CN": "狭路相逢"
   },
   "trap_768_godch": {
+    "en_US": "Security Talent Agreement",
+    "ja_JP": "保全人員協力協定",
     "zh_CN": "保全人才合作协议"
   },
   "trap_769_godcha": {
+    "en_US": "Expedited Licensing Terms",
+    "ja_JP": "緊急派遣規約",
     "zh_CN": "加急许可条款"
   },
   "trap_770_godchb": {
+    "en_US": "Interim Appointment Terms",
+    "ja_JP": "臨時任命規約",
     "zh_CN": "临时任命条款"
   },
   "trap_771_bqrnge": {
+    "en_US": "Royal Academy of Sciences Telescope",
+    "ja_JP": "科学研究用望遠鏡",
     "zh_CN": "皇家科学院望远镜"
   },
   "trap_772_bqrngea": {
+    "en_US": "Professional Display Module",
+    "ja_JP": "プロ仕様モニターモジュール",
     "zh_CN": "专业显示模块"
   },
   "trap_773_bqrngeb": {
+    "en_US": "Agile Installation Module",
+    "ja_JP": "フレキシブル設置モジュール",
     "zh_CN": "灵活架设模块"
   },
   "trap_774_bqmlee": {
+    "en_US": "Cloudstepper",
+    "ja_JP": "登雲具",
     "zh_CN": "攀云机"
   },
   "trap_775_bqmleea": {
+    "en_US": "Reinforcement Expansion Modification",
+    "ja_JP": "補強＆拡容改造",
     "zh_CN": "加固扩存改装"
   },
   "trap_776_bqmleeb": {
+    "en_US": "Long-Expansion Modification",
+    "ja_JP": "遠距離＆効率化改造",
     "zh_CN": "长距增运改装"
   },
   "trap_779_skzth": {

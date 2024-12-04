@@ -517,7 +517,7 @@ tip: 请善用浏览器的搜索功能
 | act26side_st03 | 慈光引导 | Guide by Light | 導き行かせ給え |
 | act26side_tr01 | 祷告良辰 | Time to Pray | 静けき祈りの |
 | act26side_tr02 | 完全平安 | Absolute Peace | 賜れし安けさは |
-| act27side_01 | 你的耳朵长不长？ | Do Your Ears Hang Low? | 耳を垂らせる？ |
+| act27side_01 | 你的耳朵长不长？ | Do Your Ears Hang Low? | お耳を垂らせる？ |
 | act27side_02 | 小蓝孩 | Little Boy Blue | リトル・ボーイ・ブルー |
 | act27side_03 | 手指之家 | Finger Family | 指の家族 |
 | act27side_04 | 一个水手出海了 | A Sailor Went to Sea | 船乗りが海へ |
@@ -652,19 +652,19 @@ tip: 请善用浏览器的搜索功能
 | act33side_st02 | 在疲惫中苏醒 | Awakening in Exhaustion | 気怠い覚醒 |
 | act33side_st03 | 灵魂尽头 | End of Souls | 魂の行く果て |
 | act33side_tr01 | 卡兹戴尔作战演习 | Kazdelian Combat Drill | カズデル実戦演習 |
-| act34side_01 | 第一次接触 | - | - |
-| act34side_02 | 评议式迎接 | - | - |
-| act34side_03 | 如海雪纷散 | - | - |
-| act34side_04 | 牺牲与代价 | - | - |
-| act34side_05 | 不治的命运 | - | - |
-| act34side_06 | 阿戈尔失格 | - | - |
-| act34side_07 | 从历史中来 | - | - |
-| act34side_08 | “何谓存续？” | - | - |
-| act34side_09 | 文明的壁垒 | - | - |
-| act34side_st01 | 浪潮守望者 | - | - |
-| act34side_st02 | 如海流倒灌 | - | - |
-| act34side_st03 | 歧路者与同行者 | - | - |
-| act34side_tr01 | 信标投放演习 | - | - |
+| act34side_01 | 第一次接触 | First Contact | ファーストコンタクト |
+| act34side_02 | 评议式迎接 | Tribunal Welcome | 評議による出迎え |
+| act34side_03 | 如海雪纷散 | Like the Marine Snow | 海雪の如く散る |
+| act34side_04 | 牺牲与代价 | Price and Sacrifice | 犠牲と代償 |
+| act34side_05 | 不治的命运 | Lethal Fate | 不治の運命 |
+| act34side_06 | 阿戈尔失格 | Anathema of Ægir | エーギル失格 |
+| act34side_07 | 从历史中来 | From History | 歴史の中より来たる |
+| act34side_08 | “何谓存续？” | What is Survival? | 「存続とは何か」 |
+| act34side_09 | 文明的壁垒 | Fortress of Civilization | 文明の防壁 |
+| act34side_st01 | 浪潮守望者 | Tide Watcher | 波を見張る者 |
+| act34side_st02 | 如海流倒灌 | Backflow Current | 逆転する海流の如く |
+| act34side_st03 | 歧路者与同行者 | The Stray and the Companion | 道違える者と同行者 |
+| act34side_tr01 | 信标投放演习 | Beacon Deployment Drill | ビーコン設置演習 |
 | act35side_01 | 节前热身 | - | - |
 | act35side_02 | 馆中特别行动 | - | - |
 | act35side_03 | 相约大巴扎 | - | - |
@@ -1308,8 +1308,8 @@ tip: 请善用浏览器的搜索功能
 | tr_23 | 恶魔诱惑 | Devil's Temptation | 悪魔の誘惑 |
 | tr_24 | 寻迹而行 | Led to Pursue | 跡をたどって |
 | tr_25 | 特殊环境适应作战 | Special Environment Adaptive Ops | 特殊環境適応作戦 |
-| tr_s_1 | 综合作战训练1 | - | - |
-| tr_s_2 | 综合作战训练2 | - | - |
+| tr_s_1 | 综合作战训练1 | Comprehensive Combat Exercise 1 | 総合作戦訓練1 |
+| tr_s_2 | 综合作战训练2 | Comprehensive Combat Exercise 2 | 総合作戦訓練2 |
 | wk_armor_1 | 废墟清剿 | Ruins Siege | 廃墟殲滅 |
 | wk_armor_2 | 窝点清剿 | Stronghold Siege | 拠点殲滅 |
 | wk_armor_3 | 哨所清剿 | Outpost Siege | 秘密基地殲滅 |

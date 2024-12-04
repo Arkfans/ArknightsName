@@ -2499,7 +2499,7 @@
   },
   "act27side_01": {
     "en_US": "Do Your Ears Hang Low?",
-    "ja_JP": "耳を垂らせる？",
+    "ja_JP": "お耳を垂らせる？",
     "zh_CN": "你的耳朵长不长？"
   },
   "act27side_02": {
@@ -3173,42 +3173,68 @@
     "zh_CN": "卡兹戴尔作战演习"
   },
   "act34side_01": {
+    "en_US": "First Contact",
+    "ja_JP": "ファーストコンタクト",
     "zh_CN": "第一次接触"
   },
   "act34side_02": {
+    "en_US": "Tribunal Welcome",
+    "ja_JP": "評議による出迎え",
     "zh_CN": "评议式迎接"
   },
   "act34side_03": {
+    "en_US": "Like the Marine Snow",
+    "ja_JP": "海雪の如く散る",
     "zh_CN": "如海雪纷散"
   },
   "act34side_04": {
+    "en_US": "Price and Sacrifice",
+    "ja_JP": "犠牲と代償",
     "zh_CN": "牺牲与代价"
   },
   "act34side_05": {
+    "en_US": "Lethal Fate",
+    "ja_JP": "不治の運命",
     "zh_CN": "不治的命运"
   },
   "act34side_06": {
+    "en_US": "Anathema of Ægir",
+    "ja_JP": "エーギル失格",
     "zh_CN": "阿戈尔失格"
   },
   "act34side_07": {
+    "en_US": "From History",
+    "ja_JP": "歴史の中より来たる",
     "zh_CN": "从历史中来"
   },
   "act34side_08": {
+    "en_US": "What is Survival?",
+    "ja_JP": "「存続とは何か」",
     "zh_CN": "“何谓存续？”"
   },
   "act34side_09": {
+    "en_US": "Fortress of Civilization",
+    "ja_JP": "文明の防壁",
     "zh_CN": "文明的壁垒"
   },
   "act34side_st01": {
+    "en_US": "Tide Watcher",
+    "ja_JP": "波を見張る者",
     "zh_CN": "浪潮守望者"
   },
   "act34side_st02": {
+    "en_US": "Backflow Current",
+    "ja_JP": "逆転する海流の如く",
     "zh_CN": "如海流倒灌"
   },
   "act34side_st03": {
+    "en_US": "The Stray and the Companion",
+    "ja_JP": "道違える者と同行者",
     "zh_CN": "歧路者与同行者"
   },
   "act34side_tr01": {
+    "en_US": "Beacon Deployment Drill",
+    "ja_JP": "ビーコン設置演習",
     "zh_CN": "信标投放演习"
   },
   "act35side_01": {
@@ -6269,9 +6295,13 @@
     "zh_CN": "特殊环境适应作战"
   },
   "tr_s_1": {
+    "en_US": "Comprehensive Combat Exercise 1",
+    "ja_JP": "総合作戦訓練1",
     "zh_CN": "综合作战训练1"
   },
   "tr_s_2": {
+    "en_US": "Comprehensive Combat Exercise 2",
+    "ja_JP": "総合作戦訓練2",
     "zh_CN": "综合作战训练2"
   },
   "wk_armor_1": {

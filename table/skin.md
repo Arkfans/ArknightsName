@@ -19,7 +19,7 @@ tip: 请善用浏览器的搜索功能
 | char_1012_skadi2@iteration#2 | 红女爵 | Red Countess | レッドカウンテス |
 | char_1013_chen2@boc#6 | 万重山 | Ten Thousand Mountains | 万重山 |
 | char_1014_nearl2@epoque#17 | 复现荣光 | Relight | 栄光の再臨 |
-| char_1016_agoat2@epoque#34 | 远行前的野餐 | - | - |
+| char_1016_agoat2@epoque#34 | 远行前的野餐 | A Picnic Before A Long Trip | 遠き旅へのピクニック |
 | char_101_sora@epoque#17 | 如歌 | Melodiosa | メロディオーソ |
 | char_101_sora@summer#1 | 夏卉 FA361 | Summer Flowers FA361 | 夏の花弁FA361 |
 | char_1020_reed2@epoque#30 | 博物 | Curator | 歴史に囲まれて |
@@ -98,7 +98,7 @@ tip: 请善用浏览器的搜索功能
 | char_173_slchan@wild#1 | 孤攀客 | Lone Climber | 登山家 |
 | char_173_slchan@wwf#1 | 高原访客 | Highlands Visitor | 高原の来訪者 |
 | char_174_slbell@snow#1 | 开斯特之霜 | Caster's Frost | カスターの霜 |
-| char_179_cgbird@sightseer#1 | 流辉 | - | - |
+| char_179_cgbird@sightseer#1 | 流辉 | Iakhu of Flows | 流麗なる光 |
 | char_179_cgbird@witch#1 | 挽歌 | an elegy | 挽歌 |
 | char_180_amgoat@summer#5 | 夏卉 FA018 | Summer Flower FA018 | 夏の花弁FA018 |
 | char_181_flower@daily#1 | 植物种志 | Species Plantarum | 植物紀年 |
@@ -256,7 +256,7 @@ tip: 请善用浏览器的搜索功能
 | char_391_rosmon@epoque#17 | 拥抱新生 | Become Anew | 始まりを抱く |
 | char_4000_jnight@boc#7 | 竞技之梦改装 | Tournament Fantasy Retrofit Kit | 改装「競技の夢」 |
 | char_4004_pudd@snow#5 | 火树灵 | Gleaming Fey | 煌めく精霊 |
-| char_4006_melnte@epoque#33 | 赴宴 | - | - |
+| char_4006_melnte@epoque#33 | 赴宴 | For the Banquet | 宴会に赴く |
 | char_4009_irene@ambienceSynesthesia#3 | 飞羽 | Voyage of Feathers | 飛び立つ羽 |
 | char_4009_irene@game#3 | 至高判决 | - | - |
 | char_400_weedy@sightseer#1 | 倾听 | - | - |
@@ -289,7 +289,7 @@ tip: 请善用浏览器的搜索功能
 | char_405_absin@epoque#28 | 正午余光 | Noon Twilight | 真昼の残照 |
 | char_4062_totter@summer#17 | 灿阳朝露 SDm09 | - | - |
 | char_4064_mlynar@epoque#28 | 远路 | W Dali | 遠き道のり |
-| char_4065_judge@epoque#33 | 记叙 | - | - |
+| char_4065_judge@epoque#33 | 记叙 | Scribing | 書き記す者 |
 | char_4065_judge@snow#6 | 偶尔醉陶 | Occasionally Flushed | たまの深酒 |
 | char_4066_highmo@nian#10 | 及山海 | The Land With Me | 隣山海 |
 | char_4071_peper@whirlwind#5 | 来路 | The Road to Here | 来た道 |
@@ -310,7 +310,7 @@ tip: 请善用浏览器的搜索功能
 | char_4109_baslin@witch#5 | 夜空星芒 | - | - |
 | char_4116_blkkgt@witch#5 | 暗月的影子 | - | - |
 | char_411_tomimi@summer#5 | 静谧午夜 DN04 | Silent Night DN04 | 安息の午夜DN04 |
-| char_4122_grabds@yun#3 | 步芳兰 | - | - |
+| char_4122_grabds@yun#3 | 步芳兰 | Fragrant Pace | 歩芳蘭 |
 | char_4123_ela@rainbow6#2 | 密室 | Safehouse | セーフハウス |
 | char_4124_iana@rainbow6#2 | 镜廊 | Mirrormaze | ミラーメイズ |
 | char_4125_rdoc@rainbow6#2 | 展览 | Exhibition | エキシビション |
@@ -346,7 +346,7 @@ tip: 请善用浏览器的搜索功能
 | char_473_mberry@epoque#14 | 植药 | Plant Crude Drug | 薬師 |
 | char_473_mberry@nian#9 | 照冰轮 | Reflection That of the Moons | 照氷輪 |
 | char_474_glady@boc#5 | 返航 | Return | 帰航 |
-| char_474_glady@epoque#33 | 我即潮汐 | - | - |
+| char_474_glady@epoque#33 | 我即潮汐 | I Am the Tides | 我即ち潮汐 |
 | char_475_akafyu@epoque#15 | 心性 | Temperament | 心技 |
 | char_476_blkngt@nian#8 | 枝头馥 | Fragrance From the Branches | 薫風梢 |
 | char_476_blkngt@summer#8 | 夏卉 FA641 | Summer Flower FA641 | 夏の花弁FA641 |

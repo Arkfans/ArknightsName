@@ -860,12 +860,12 @@
     "zh_CN": "事相结晶"
   },
   "SINGLE_49_0_1_GACHA": {
-    "en_US": "Exclusive Headhunting Permit",
+    "en_US": "Like Ending Like Death Headhunting Permit",
     "ja_JP": "イベントスカウト券",
     "zh_CN": "如死亦终寻访凭证"
   },
   "SINGLE_49_0_1_GACHA_10": {
-    "en_US": "Exclusive Ten-roll Headhunting Permit",
+    "en_US": "Like Ending Like Death Ten-roll Headhunting Permit",
     "ja_JP": "イベント10回スカウト券",
     "zh_CN": "如死亦终十连寻访凭证"
   },
@@ -1442,6 +1442,8 @@
     "zh_CN": "粗制糖块"
   },
   "act34side_token_chip": {
+    "en_US": "'Emergency Supplies' Blueprint Chip",
+    "ja_JP": "「非常用物資」設計図チップ",
     "zh_CN": "“应急物资”蓝图芯片"
   },
   "act35side_token_dust": {
@@ -1606,6 +1608,8 @@
     "zh_CN": "高级材料提货券"
   },
   "advanced_material_voucher_perm": {
+    "en_US": "Advanced Material Voucher",
+    "ja_JP": "T3素材交換券",
     "zh_CN": "高级材料提货券"
   },
   "ap_item_CaH_200": {
@@ -1832,6 +1836,10 @@
     "en_US": "Preregister to get 1 of 4 Operators randomly",
     "ja_JP": "オペレーター指定券",
     "zh_CN": "预约干员随机4选1"
+  },
+  "class_p_char_003_kalts": {
+    "en_US": "Kal'tsit's Kernel Token",
+    "ja_JP": "ケルシーの印（中堅）"
   },
   "class_p_char_010_chen": {
     "en_US": "Ch'en's Kernel Token",
@@ -2533,6 +2541,10 @@
     "ja_JP": "ブレミシャインの印（中堅）",
     "zh_CN": "瑕光的中坚信物"
   },
+  "class_p_char_426_billro": {
+    "en_US": "Carnelian's Kernel Token",
+    "ja_JP": "カーネリアンの印（中堅）"
+  },
   "class_p_char_436_whispr": {
     "en_US": "Whisperain's Kernel Token",
     "ja_JP": "ウィスパーレインの印（中堅）",
@@ -2563,10 +2575,22 @@
     "ja_JP": "パッセンジャーの印（中堅）",
     "zh_CN": "异客的中坚信物"
   },
+  "class_p_char_475_akafyu": {
+    "en_US": "Akafuyu's Kernel Token",
+    "ja_JP": "アカフユの印（中堅）"
+  },
+  "class_p_char_478_kirara": {
+    "en_US": "Kirara's Kernel Token",
+    "ja_JP": "キララの印（中堅）"
+  },
   "class_p_char_484_robrta": {
     "en_US": "Roberta's Kernel Token",
     "ja_JP": "ロベルタの印（中堅）",
     "zh_CN": "罗比菈塔的中坚信物"
+  },
+  "class_p_char_485_pallas": {
+    "en_US": "Pallas's Kernel Token",
+    "ja_JP": "パラスの印（中堅）"
   },
   "class_p_char_491_humus": {
     "en_US": "Humus's Kernel Token",
@@ -4102,6 +4126,8 @@
     "zh_CN": "截云的信物"
   },
   "p_char_4079_haini": {
+    "en_US": "Lucilla's Token",
+    "ja_JP": "ルシーラの印",
     "zh_CN": "海霓的信物"
   },
   "p_char_4080_lin": {
@@ -4270,6 +4296,8 @@
     "zh_CN": "PhonoR-0的信物"
   },
   "p_char_4137_udflow": {
+    "en_US": "Underflow's Token",
+    "ja_JP": "アンダーフローの印",
     "zh_CN": "深巡的信物"
   },
   "p_char_4138_narant": {
@@ -4294,6 +4322,8 @@
     "zh_CN": "齐尔查克的信物"
   },
   "p_char_4145_ulpia": {
+    "en_US": "Ulpianus's Token",
+    "ja_JP": "ウルピアヌスの印",
     "zh_CN": "乌尔比安的信物"
   },
   "p_char_4146_nymph": {
@@ -5178,6 +5208,8 @@
     "zh_CN": "古堡印象家具收藏包二"
   },
   "uni_set_concertHall": {
+    "en_US": "Lingering Echoes Furniture Pack",
+    "ja_JP": "塵影に交わる残響家具パック",
     "zh_CN": "尘影余音家具收藏包"
   },
   "uni_set_court": {
@@ -5303,6 +5335,8 @@
     "zh_CN": "中坚高级干员调用凭证"
   },
   "voucher_elite_II_4": {
+    "en_US": "Professional Operator Training Invitation Letter",
+    "ja_JP": "★4特訓招待状",
     "zh_CN": "专业干员特训邀请函"
   },
   "voucher_elite_II_5": {
@@ -5392,6 +5426,8 @@
     "zh_CN": "薄绿的私人信件"
   },
   "voucher_full_pianst": {
+    "en_US": "Czerny's Personal Letter",
+    "ja_JP": "ツェルニーの手紙",
     "zh_CN": "车尔尼的私人信件"
   },
   "voucher_full_robin": {
@@ -5445,6 +5481,8 @@
     "zh_CN": "干员兑换券"
   },
   "voucher_item_4pick1_5301": {
+    "en_US": "Senior Operator Transfer Permit - Starter",
+    "ja_JP": "初心者★5招聘指名券",
     "zh_CN": "资深干员调用凭证-新人"
   },
   "voucher_item_pick1401": {
@@ -5549,6 +5587,8 @@
     "zh_CN": "资深干员调用凭证"
   },
   "voucher_recruitR6_pick5301": {
+    "en_US": "Top Operator Transfer Permit - Starter",
+    "ja_JP": "初心者★6招聘指名券",
     "zh_CN": "高级干员调用凭证-新人"
   },
   "voucher_skill_specialLevelMax_4": {

@@ -1365,9 +1365,13 @@
     "zh_CN": "爆发剂·榴莲味"
   },
   "skchr_haini_1": {
+    "en_US": "Camouflaging Current Chart",
+    "ja_JP": "惑わす海流図",
     "zh_CN": "迷惑性洋流图"
   },
   "skchr_haini_2": {
+    "en_US": "Release-retarding Chromogen",
+    "ja_JP": "遮断性発色剤",
     "zh_CN": "阻滞性显色剂"
   },
   "skchr_halo_1": {
@@ -3154,18 +3158,28 @@
     "zh_CN": "“永恒狩猎”"
   },
   "skchr_udflow_1": {
+    "en_US": "Invasion Response",
+    "ja_JP": "侵攻への備え",
     "zh_CN": "侵袭破坏应对"
   },
   "skchr_udflow_2": {
+    "en_US": "Pinning Maneuver",
+    "ja_JP": "毒棘制圧射撃",
     "zh_CN": "行动能力剥夺"
   },
   "skchr_ulpia_1": {
+    "en_US": "Contact Must Be Made",
+    "ja_JP": "成すべき接触",
     "zh_CN": "必须促成的接触"
   },
   "skchr_ulpia_2": {
+    "en_US": "Boundaries Must Be Kept",
+    "ja_JP": "維持すべき境界",
     "zh_CN": "必须维系的界限"
   },
   "skchr_ulpia_3": {
+    "en_US": "Paths Must Be Opened",
+    "ja_JP": "拓くべき活路",
     "zh_CN": "必须开辟的通路"
   },
   "skchr_utage_1": {
@@ -3873,6 +3887,8 @@
     "zh_CN": "掩护"
   },
   "sktok_aegiret_1": {
+    "en_US": "Activate Beacon",
+    "ja_JP": "ビーコン起動",
     "zh_CN": "信标激活"
   },
   "sktok_aidkit": {
@@ -3996,6 +4012,8 @@
     "zh_CN": "气流"
   },
   "sktok_bmoney": {
+    "en_US": "Indisputable Evidence",
+    "ja_JP": "決定的な証拠",
     "zh_CN": "无可置疑的罪证"
   },
   "sktok_bomb": {
@@ -4014,6 +4032,8 @@
     "zh_CN": "唤血祭坛"
   },
   "sktok_bounc2_1": {
+    "en_US": "Drilling Tool",
+    "ja_JP": "掘削ドリル",
     "zh_CN": "工程钻具"
   },
   "sktok_bouncy_1": {
@@ -4032,21 +4052,33 @@
     "zh_CN": "圣徒之手·巡回模式"
   },
   "sktok_bqmlee": {
+    "en_US": "Skystep",
+    "ja_JP": "一躍昇天",
     "zh_CN": "步青云"
   },
   "sktok_bqmleea": {
+    "en_US": "Skystep",
+    "ja_JP": "一躍昇天",
     "zh_CN": "步青云"
   },
   "sktok_bqmleeb": {
+    "en_US": "Skystep",
+    "ja_JP": "一躍昇天",
     "zh_CN": "步青云"
   },
   "sktok_bqrnge": {
+    "en_US": "Analyze",
+    "ja_JP": "分析",
     "zh_CN": "分析"
   },
   "sktok_bqrngea": {
+    "en_US": "Analyze",
+    "ja_JP": "分析",
     "zh_CN": "分析"
   },
   "sktok_bqrngeb": {
+    "en_US": "Analyze",
+    "ja_JP": "分析",
     "zh_CN": "分析"
   },
   "sktok_brctrl": {
@@ -4379,6 +4411,8 @@
     "zh_CN": "应急治疗协议"
   },
   "sktok_dsshell": {
+    "en_US": "Excrescent Carapace",
+    "ja_JP": "増殖甲羅",
     "zh_CN": "赘生甲壳"
   },
   "sktok_dstnta": {
@@ -4536,12 +4570,18 @@
     "zh_CN": "关闭闸门"
   },
   "sktok_godch": {
+    "en_US": "Rhodes Island Collaboration",
+    "ja_JP": "ロドス式提携",
     "zh_CN": "罗德岛式协作"
   },
   "sktok_godcha": {
+    "en_US": "Rhodes Island Collaboration",
+    "ja_JP": "ロドス式提携",
     "zh_CN": "罗德岛式协作"
   },
   "sktok_godchb": {
+    "en_US": "Rhodes Island Collaboration",
+    "ja_JP": "ロドス式提携",
     "zh_CN": "罗德岛式协作"
   },
   "sktok_gractrl": {
@@ -5663,7 +5703,7 @@
   },
   "sktok_xbprsh": {
     "en_US": "Resource Planning",
-    "ja_JP": "資源計画",
+    "ja_JP": "人材計画",
     "zh_CN": "资源规划"
   },
   "sktok_xbrandprop_1": {
