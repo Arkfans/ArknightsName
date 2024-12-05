@@ -174,6 +174,8 @@ tip: 请善用浏览器的搜索功能
 | act38side_zone1 | 四幕汇演 | - | - |
 | act38side_zone2 | 彩车游行 | - | - |
 | act38side_zone3 | 荒芜之舞 | - | - |
+| act39side_zone1 | 盐漠开航 | - | - |
+| act39side_zone2 | 穿越骸礁 | - | - |
 | act3bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act4bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act5d0_zone1 | 下城区 | Downtown | 繁華街 |

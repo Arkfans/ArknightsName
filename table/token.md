@@ -52,4 +52,5 @@ tip: 请善用浏览器的搜索功能
 | token_10039_ulpia_block | 从不混淆的方向 | Undeviating Course | 混同せぬ方向 |
 | token_10040_siege2_vlion | 黄金盟誓 | - | - |
 | token_10041_cathy_catsld | 爬行号·防护单元 | - | - |
+| token_10042_tecno_puppet | 木偶舞者 | - | - |
 | trap_079_allydonq | 猎潮的骑士 | Tide-Hunt Knight | 猟潮の騎士 |

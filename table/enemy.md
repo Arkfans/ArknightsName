@@ -85,6 +85,22 @@ tip: 请善用浏览器的搜索功能
 | enemy_1003_ncbow_2 | 弩手组长 | Crossbowman Leader | 射撃隊長 |
 | enemy_10040_cnvbln | 节日气球 | - | - |
 | enemy_10040_cnvbln_2 | 巡游气球 | - | - |
+| enemy_10042_prtrop | 架桥船工 | - | - |
+| enemy_10042_prtrop_2 | 扶桥老手 | - | - |
+| enemy_10043_sailor | 寻险水手 | - | - |
+| enemy_10043_sailor_2 | 历险水手 | - | - |
+| enemy_10044_wintun | 咸鳞汁推荐者 | - | - |
+| enemy_10044_wintun_2 | 朗姆酒推荐者 | - | - |
+| enemy_10045_parrot | 吉兆飞鳞 | - | - |
+| enemy_10045_parrot_2 | 噩兆飞鳞 | - | - |
+| enemy_10046_pshark | 撼地盐鳞 | - | - |
+| enemy_10046_pshark_2 | 裂地盐鳞 | - | - |
+| enemy_10047_shrknt | 爆炸追寻者 | - | - |
+| enemy_10047_shrknt_2 | 爆炸信奉者 | - | - |
+| enemy_10048_prtsld | 血腥厨子 | - | - |
+| enemy_10048_prtsld_2 | 恐怖厨子 | - | - |
+| enemy_10049_pcaptn | 爆鸣水手长 | - | - |
+| enemy_10049_pcaptn_2 | 美声水手长 | - | - |
 | enemy_1004_mslime | 酸液源石虫 | Acid Originium Slug | アシッドムシ |
 | enemy_1004_mslime_2 | 酸液源石虫·α | Acid Originium Slug α | アシッドムシα |
 | enemy_1005_yokai | 妖怪 | Monster | 怪鳥 |
@@ -973,6 +989,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1558_sgactr | 祖巴伊达姆，从往昔来 | - | - |
 | enemy_1559_vtlionk | 阿利斯泰尔，帝国余晖 | - | - |
 | enemy_1560_cnvlap | “狂欢之主” | - | - |
+| enemy_1561_crzjdg | 安纳斯塔西奥，赎罪者 | - | - |
 | enemy_2001_duckmi | 鸭爵 | Duck Lord | ダック卿 |
 | enemy_2002_bearmi | 高普尼克 | Gopnik | ゴプニク |
 | enemy_2003_rockman | 迷路的巨像 | Lost Colossus | 迷子の巨像 |
@@ -1127,6 +1144,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_6025_tinker | 怨恨祭坛 | - | - |
 | enemy_6026_techn | 巫术石球 | - | - |
 | enemy_6027_bqthie | 飞檐客-叶无轻 | - | - |
+| enemy_6028_cosgia | “高亢群歌” | - | - |
 | enemy_7001_blwzad | 部族巫术师 | Tribal Shaman | 部族呪術師 |
 | enemy_7001_blwzad_2 | 王酋巫术师 | Lord Ameer Shaman | 首長呪術師 |
 | enemy_7002_veingd | 矿脉守卫 | Vein Guardian | 鉱脈の守護者 |

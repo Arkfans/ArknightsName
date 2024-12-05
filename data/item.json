@@ -642,7 +642,7 @@
   "EXTERMINATION_AGENT": {
     "en_US": "PRTS Proxy Annihilation Card",
     "ja_JP": "PRTS殲滅代理カード",
-    "zh_CN": "PRTS剿灭代理卡"
+    "zh_CN": "常态事务代理卡"
   },
   "LIMITED_TKT_GACHA_10_1401": {
     "en_US": "Memorial-Limited Headhunting Permit",
@@ -1462,6 +1462,9 @@
   },
   "act38side_token_ticket": {
     "zh_CN": "匿名邀请函"
+  },
+  "act39side_token_garum": {
+    "zh_CN": "盐鳞咸鳞汁"
   },
   "act3bossrush_milestone_point": {
     "en_US": "Trial EXP",
@@ -3048,6 +3051,9 @@
   "p_char_1038_whitw2": {
     "zh_CN": "荒芜拉普兰德的信物"
   },
+  "p_char_1039_thorn2": {
+    "zh_CN": "引星棘刺的信物"
+  },
   "p_char_103_angel": {
     "en_US": "Exusiai's Token",
     "ja_JP": "エクシアの印",
@@ -4348,6 +4354,12 @@
   },
   "p_char_4162_cathy": {
     "zh_CN": "凯瑟琳的信物"
+  },
+  "p_char_4163_rosesa": {
+    "zh_CN": "瑰盐的信物"
+  },
+  "p_char_4164_tecno": {
+    "zh_CN": "特克诺的信物"
   },
   "p_char_4165_ctrail": {
     "zh_CN": "云迹的信物"

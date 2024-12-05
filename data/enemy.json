@@ -255,6 +255,54 @@
   "enemy_10040_cnvbln_2": {
     "zh_CN": "巡游气球"
   },
+  "enemy_10042_prtrop": {
+    "zh_CN": "架桥船工"
+  },
+  "enemy_10042_prtrop_2": {
+    "zh_CN": "扶桥老手"
+  },
+  "enemy_10043_sailor": {
+    "zh_CN": "寻险水手"
+  },
+  "enemy_10043_sailor_2": {
+    "zh_CN": "历险水手"
+  },
+  "enemy_10044_wintun": {
+    "zh_CN": "咸鳞汁推荐者"
+  },
+  "enemy_10044_wintun_2": {
+    "zh_CN": "朗姆酒推荐者"
+  },
+  "enemy_10045_parrot": {
+    "zh_CN": "吉兆飞鳞"
+  },
+  "enemy_10045_parrot_2": {
+    "zh_CN": "噩兆飞鳞"
+  },
+  "enemy_10046_pshark": {
+    "zh_CN": "撼地盐鳞"
+  },
+  "enemy_10046_pshark_2": {
+    "zh_CN": "裂地盐鳞"
+  },
+  "enemy_10047_shrknt": {
+    "zh_CN": "爆炸追寻者"
+  },
+  "enemy_10047_shrknt_2": {
+    "zh_CN": "爆炸信奉者"
+  },
+  "enemy_10048_prtsld": {
+    "zh_CN": "血腥厨子"
+  },
+  "enemy_10048_prtsld_2": {
+    "zh_CN": "恐怖厨子"
+  },
+  "enemy_10049_pcaptn": {
+    "zh_CN": "爆鸣水手长"
+  },
+  "enemy_10049_pcaptn_2": {
+    "zh_CN": "美声水手长"
+  },
   "enemy_1004_mslime": {
     "en_US": "Acid Originium Slug",
     "ja_JP": "アシッドムシ",
@@ -4677,6 +4725,9 @@
   "enemy_1560_cnvlap": {
     "zh_CN": "“狂欢之主”"
   },
+  "enemy_1561_crzjdg": {
+    "zh_CN": "安纳斯塔西奥，赎罪者"
+  },
   "enemy_2001_duckmi": {
     "en_US": "Duck Lord",
     "ja_JP": "ダック卿",
@@ -5392,6 +5443,9 @@
   },
   "enemy_6027_bqthie": {
     "zh_CN": "飞檐客-叶无轻"
+  },
+  "enemy_6028_cosgia": {
+    "zh_CN": "“高亢群歌”"
   },
   "enemy_7001_blwzad": {
     "en_US": "Tribal Shaman",

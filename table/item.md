@@ -133,7 +133,7 @@ tip: 请善用浏览器的搜索功能
 | CRISIS_SHOP_COIN | 合约赏金 | Contract Bounty | 契約賞金 |
 | CRISIS_SHOP_COIN_V2 | 晶体合约赏金 | Crystal Contract Bounty | 結晶契約賞金 |
 | EPGS_COIN | 寻访参数模型 | Headhunting Parametric Model | 特別引換証 |
-| EXTERMINATION_AGENT | PRTS剿灭代理卡 | PRTS Proxy Annihilation Card | PRTS殲滅代理カード |
+| EXTERMINATION_AGENT | 常态事务代理卡 | PRTS Proxy Annihilation Card | PRTS殲滅代理カード |
 | LIMITED_TKT_GACHA_10_1401 | 只为铭记寻访凭证 | Memorial-Limited Headhunting Permit | 感謝祭記念スカウト券 |
 | LIMITED_TKT_GACHA_10_1601 | 日落潮来寻访凭证 | Tide on Sunset Headhunting Permit | 1.5周年記念10回スカウト券 |
 | LIMITED_TKT_GACHA_10_1803 | 幽海歌谣寻访凭证 | Song of the Sea Headhunting Permit | 感謝祭記念10回スカウト券 |
@@ -307,6 +307,7 @@ tip: 请善用浏览器的搜索功能
 | act37side_token_nay | “我反对！” | - | - |
 | act38d1_token_coin | 晶化源石 | Crystalized Originium | 結晶化源石 |
 | act38side_token_ticket | 匿名邀请函 | - | - |
+| act39side_token_garum | 盐鳞咸鳞汁 | - | - |
 | act3bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act3bossrush_relic_01 | 恢复增幅 | Recovery Boost | 癒しの増幅 |
 | act3bossrush_relic_02 | 扩大化战略 | Strategy Expansion | 拡大化戦略 |
@@ -631,6 +632,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_1035_wisdel | 维什戴尔的信物 | Wiš'adel's Token | ウィシャデルの印 |
 | p_char_1036_fang2 | 历阵锐枪芬的信物 | Fang the Fire-Sharpened's Token | 歴陣鋭槍フェンの印 |
 | p_char_1038_whitw2 | 荒芜拉普兰德的信物 | - | - |
+| p_char_1039_thorn2 | 引星棘刺的信物 | - | - |
 | p_char_103_angel | 能天使的信物 | Exusiai's Token | エクシアの印 |
 | p_char_106_franka | 芙兰卡的信物 | Franka's Token | フランカの印 |
 | p_char_107_liskam | 雷蛇的信物 | Liskarm's Token | リスカムの印 |
@@ -898,6 +900,8 @@ tip: 请善用浏览器的搜索功能
 | p_char_4155_talr | 裁度的信物 | - | - |
 | p_char_415_flint | 燧石的信物 | Flint's Token | フリントの印 |
 | p_char_4162_cathy | 凯瑟琳的信物 | - | - |
+| p_char_4163_rosesa | 瑰盐的信物 | - | - |
+| p_char_4164_tecno | 特克诺的信物 | - | - |
 | p_char_4165_ctrail | 云迹的信物 | - | - |
 | p_char_416_zumama | 森蚺的信物 | Eunectes' Token | ユーネクテスの印 |
 | p_char_420_flamtl | 焰尾的信物 | Flametail's Token | フレイムテイルの印 |

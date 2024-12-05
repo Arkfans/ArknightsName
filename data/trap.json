@@ -1039,6 +1039,9 @@
   "trap_186_cnvfwks": {
     "zh_CN": "烟花发射器"
   },
+  "trap_196_cnnon": {
+    "zh_CN": "盐坨子炮"
+  },
   "trap_400_xbfarm": {
     "en_US": "Portable Planting Trough",
     "ja_JP": "栽培ポット",
@@ -1896,6 +1899,12 @@
     "en_US": "Long-Expansion Modification",
     "ja_JP": "遠距離＆効率化改造",
     "zh_CN": "长距增运改装"
+  },
+  "trap_777_giacan": {
+    "zh_CN": "“留声机”底座"
+  },
+  "trap_778_giatow": {
+    "zh_CN": "L-44\"留声机\""
   },
   "trap_779_skzth": {
     "zh_CN": "尼卢火"

@@ -727,6 +727,18 @@ tip: 请善用浏览器的搜索功能
 | act38side_st03 | 《狂欢节章程》 | - | - |
 | act38side_st04 | 《管理法修正案》 | - | - |
 | act38side_tr01 | 《烟花燃放须知》 | - | - |
+| act39side_01 | 倒悬苍白海上 | - | - |
+| act39side_02 | 腿部拆卸疗法 | - | - |
+| act39side_03 | 大出血的舞步 | - | - |
+| act39side_04 | 重逢不乏意外 | - | - |
+| act39side_05 | 熄灭过去的灯 | - | - |
+| act39side_06 | 若退路在燃烧 | - | - |
+| act39side_07 | 我的罗盘 | - | - |
+| act39side_08 | 见证，征服，定义 | - | - |
+| act39side_st01 | 别了，盐漠 | - | - |
+| act39side_st02 | 倾泻腐朽的花 | - | - |
+| act39side_st03 | 别了，大地 | - | - |
+| act39side_tr01 | 海盗基本素养 | - | - |
 | act3bossrush_01 | 适者生存 | Survival of the Fittest | 適者生存 |
 | act3bossrush_02 | 惊惧与血色 | Blood and Terror | 恐怖と血色 |
 | act3bossrush_03 | 不测之渊 | Deep in Danger | 不測の淵 |
@@ -968,6 +980,12 @@ tip: 请善用浏览器的搜索功能
 | lt_16_04 | 节尽 | - | - |
 | lt_16_05 | 风林栖 | - | - |
 | lt_16_06 | 莫寻迹 | - | - |
+| lt_17_01 | 荒野的第一乐章 | - | - |
+| lt_17_02 | 石像的改编曲 | - | - |
+| lt_17_03 | 野兽狂欢曲 | - | - |
+| lt_17_04 | 温顺者的摇篮曲 | - | - |
+| lt_17_05 | 驮兽与石像的二重奏 | - | - |
+| lt_17_06 | “音乐之心” | - | - |
 | lt_tr_01 | 7号训练场 | Training Ground #7 | 7号訓練場 |
 | lt_tr_02 | 9号训练场 | Training Ground #9 | 9号訓練場 |
 | lt_tr_03 | 10号训练场 | Training Ground #10 | 10号訓練場 |

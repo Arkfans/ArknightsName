@@ -2615,6 +2615,12 @@
     "ja_JP": "鉤縄二本流",
     "zh_CN": "复式勾爪"
   },
+  "skchr_rosesa_1": {
+    "zh_CN": "上佳的应急药呀"
+  },
+  "skchr_rosesa_2": {
+    "zh_CN": "绝妙的长效药呀"
+  },
   "skchr_rosmon_1": {
     "en_US": "Expanded Cognition",
     "ja_JP": "意識拡張",
@@ -3041,6 +3047,12 @@
   "skchr_talr_2": {
     "zh_CN": "缝线缠身"
   },
+  "skchr_tecno_1": {
+    "zh_CN": "关节锁定"
+  },
+  "skchr_tecno_2": {
+    "zh_CN": "恣意挥洒"
+  },
   "skchr_texas2_1": {
     "en_US": "Silent Drizzle",
     "ja_JP": "ピオヴィッジネ",
@@ -3060,6 +3072,15 @@
     "en_US": "Sword Rain",
     "ja_JP": "剣雨",
     "zh_CN": "剑雨"
+  },
+  "skchr_thorn2_1": {
+    "zh_CN": "度算浪波"
+  },
+  "skchr_thorn2_2": {
+    "zh_CN": "解构涌潮"
+  },
+  "skchr_thorn2_3": {
+    "zh_CN": "“我的海疆”"
   },
   "skchr_thorns_2": {
     "en_US": "Protective Spikes",
@@ -4317,6 +4338,9 @@
     "ja_JP": "コーティング",
     "zh_CN": "镀膜"
   },
+  "sktok_cnnon": {
+    "zh_CN": "吃盐坨子吧！"
+  },
   "sktok_cnvfwks": {
     "zh_CN": "“狂欢时刻！”"
   },
@@ -4568,6 +4592,12 @@
     "en_US": "Gate Closing",
     "ja_JP": "シャッター",
     "zh_CN": "关闭闸门"
+  },
+  "sktok_giacan_1": {
+    "zh_CN": "应急摧毁协议"
+  },
+  "sktok_giatow": {
+    "zh_CN": "法术传输协议"
   },
   "sktok_godch": {
     "en_US": "Rhodes Island Collaboration",

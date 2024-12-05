@@ -34,6 +34,7 @@ tip: 请善用浏览器的搜索功能
 | char_1035_wisdel | 维什戴尔 | Wiš'adel | ウィシャデル |
 | char_1036_fang2 | 历阵锐枪芬 | Fang the Fire-Sharpened | 歴陣鋭槍フェン |
 | char_1038_whitw2 | 荒芜拉普兰德 | - | - |
+| char_1039_thorn2 | 引星棘刺 | - | - |
 | char_103_angel | 能天使 | Exusiai | エクシア |
 | char_106_franka | 芙兰卡 | Franka | フランカ |
 | char_107_liskam | 雷蛇 | Liskarm | リスカム |
@@ -305,6 +306,8 @@ tip: 请善用浏览器的搜索功能
 | char_4155_talr | 裁度 | - | - |
 | char_415_flint | 燧石 | Flint | フリント |
 | char_4162_cathy | 凯瑟琳 | - | - |
+| char_4163_rosesa | 瑰盐 | - | - |
+| char_4164_tecno | 特克诺 | - | - |
 | char_4165_ctrail | 云迹 | - | - |
 | char_416_zumama | 森蚺 | Eunectes | ユーネクテス |
 | char_420_flamtl | 焰尾 | Flametail | フレイムテイル |

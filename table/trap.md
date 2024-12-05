@@ -243,6 +243,7 @@ tip: 请善用浏览器的搜索功能
 | trap_184_vtarsn | 军工厂指令平台 | - | - |
 | trap_185_vtlntw | 黄金回响 | - | - |
 | trap_186_cnvfwks | 烟花发射器 | - | - |
+| trap_196_cnnon | 盐坨子炮 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |
 | trap_401_xbfato | 木材采集站 | Sawing Harvester Hub | 木材採取基地 |
 | trap_403_wfactory | 蟹蟹抽水泵 | Crabbie Pumpie | カニカニポンプ |
@@ -433,4 +434,6 @@ tip: 请善用浏览器的搜索功能
 | trap_774_bqmlee | 攀云机 | Cloudstepper | 登雲具 |
 | trap_775_bqmleea | 加固扩存改装 | Reinforcement Expansion Modification | 補強＆拡容改造 |
 | trap_776_bqmleeb | 长距增运改装 | Long-Expansion Modification | 遠距離＆効率化改造 |
+| trap_777_giacan | “留声机”底座 | - | - |
+| trap_778_giatow | L-44"留声机" | - | - |
 | trap_779_skzth | 尼卢火 | - | - |

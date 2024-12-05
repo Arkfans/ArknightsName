@@ -227,6 +227,12 @@
       "zh_CN": "荒芜拉普兰德"
     }
   },
+  "char_1039_thorn2": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "引星棘刺"
+    }
+  },
   "char_103_angel": {
     "type": "OPERATOR",
     "names": {
@@ -2363,6 +2369,18 @@
       "zh_CN": "凯瑟琳"
     }
   },
+  "char_4163_rosesa": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "瑰盐"
+    }
+  },
+  "char_4164_tecno": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "特克诺"
+    }
+  },
   "char_4165_ctrail": {
     "type": "OPERATOR",
     "names": {
@@ -3317,6 +3335,12 @@
     "type": "TOKEN",
     "names": {
       "zh_CN": "爬行号·防护单元"
+    }
+  },
+  "token_10042_tecno_puppet": {
+    "type": "TOKEN",
+    "names": {
+      "zh_CN": "木偶舞者"
     }
   },
   "trap_079_allydonq": {
@@ -5081,6 +5105,12 @@
       "zh_CN": "烟花发射器"
     }
   },
+  "trap_196_cnnon": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "盐坨子炮"
+    }
+  },
   "trap_400_xbfarm": {
     "type": "TRAP",
     "names": {
@@ -6495,6 +6525,18 @@
       "en_US": "Long-Expansion Modification",
       "ja_JP": "遠距離＆効率化改造",
       "zh_CN": "长距增运改装"
+    }
+  },
+  "trap_777_giacan": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "“留声机”底座"
+    }
+  },
+  "trap_778_giatow": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "L-44\"留声机\""
     }
   },
   "trap_779_skzth": {
@@ -8873,6 +8915,12 @@
       "zh_CN": "暗月的影子"
     }
   },
+  "char_4117_ray@shining#2": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "梦幻高空"
+    }
+  },
   "char_411_tomimi@summer#5": {
     "type": "SKIN",
     "names": {
@@ -9259,6 +9307,12 @@
       "en_US": "Cardwinner",
       "ja_JP": "ショーダウン",
       "zh_CN": "开牌制胜"
+    }
+  },
+  "char_486_takila@shining#2": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "巅峰现场"
     }
   },
   "char_488_buildr@epoque#34": {
@@ -10003,6 +10057,102 @@
     "type": "ENEMY",
     "names": {
       "zh_CN": "巡游气球"
+    }
+  },
+  "enemy_10042_prtrop": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "架桥船工"
+    }
+  },
+  "enemy_10042_prtrop_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "扶桥老手"
+    }
+  },
+  "enemy_10043_sailor": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "寻险水手"
+    }
+  },
+  "enemy_10043_sailor_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "历险水手"
+    }
+  },
+  "enemy_10044_wintun": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "咸鳞汁推荐者"
+    }
+  },
+  "enemy_10044_wintun_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "朗姆酒推荐者"
+    }
+  },
+  "enemy_10045_parrot": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "吉兆飞鳞"
+    }
+  },
+  "enemy_10045_parrot_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "噩兆飞鳞"
+    }
+  },
+  "enemy_10046_pshark": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "撼地盐鳞"
+    }
+  },
+  "enemy_10046_pshark_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "裂地盐鳞"
+    }
+  },
+  "enemy_10047_shrknt": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "爆炸追寻者"
+    }
+  },
+  "enemy_10047_shrknt_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "爆炸信奉者"
+    }
+  },
+  "enemy_10048_prtsld": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "血腥厨子"
+    }
+  },
+  "enemy_10048_prtsld_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "恐怖厨子"
+    }
+  },
+  "enemy_10049_pcaptn": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "爆鸣水手长"
+    }
+  },
+  "enemy_10049_pcaptn_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "美声水手长"
     }
   },
   "enemy_1004_mslime": {
@@ -17085,6 +17235,12 @@
       "zh_CN": "“狂欢之主”"
     }
   },
+  "enemy_1561_crzjdg": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "安纳斯塔西奥，赎罪者"
+    }
+  },
   "enemy_2001_duckmi": {
     "type": "ENEMY",
     "names": {
@@ -18261,6 +18417,12 @@
     "type": "ENEMY",
     "names": {
       "zh_CN": "飞檐客-叶无轻"
+    }
+  },
+  "enemy_6028_cosgia": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“高亢群歌”"
     }
   },
   "enemy_7001_blwzad": {
@@ -19903,6 +20065,12 @@
       "en_US": "Arknights x Rainbow Six Siege Login Event",
       "ja_JP": "アークナイツ×R6Sスタンプラリー",
       "zh_CN": "明日方舟X彩虹六号：围攻签到活动"
+    }
+  },
+  "act39side": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "出苍白海"
     }
   },
   "act39sign": {
@@ -21697,7 +21865,7 @@
     "names": {
       "en_US": "PRTS Proxy Annihilation Card",
       "ja_JP": "PRTS殲滅代理カード",
-      "zh_CN": "PRTS剿灭代理卡"
+      "zh_CN": "常态事务代理卡"
     }
   },
   "LIMITED_TKT_GACHA_10_1401": {
@@ -23036,6 +23204,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "匿名邀请函"
+    }
+  },
+  "act39side_token_garum": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "盐鳞咸鳞汁"
     }
   },
   "act3bossrush_milestone_point": {
@@ -25586,6 +25760,12 @@
       "zh_CN": "荒芜拉普兰德的信物"
     }
   },
+  "p_char_1039_thorn2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "引星棘刺的信物"
+    }
+  },
   "p_char_103_angel": {
     "type": "ITEM",
     "names": {
@@ -27686,6 +27866,18 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "凯瑟琳的信物"
+    }
+  },
+  "p_char_4163_rosesa": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "瑰盐的信物"
+    }
+  },
+  "p_char_4164_tecno": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "特克诺的信物"
     }
   },
   "p_char_4165_ctrail": {
@@ -30588,6 +30780,12 @@
     "type": "POOL",
     "names": {
       "zh_CN": "未致蒙尘"
+    }
+  },
+  "SINGLE_57_0_1": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "证实，完成，指引"
     }
   },
   "SPECIAL_54_0_5": {
@@ -35604,6 +35802,18 @@
       "zh_CN": "复式勾爪"
     }
   },
+  "skchr_rosesa_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "上佳的应急药呀"
+    }
+  },
+  "skchr_rosesa_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "绝妙的长效药呀"
+    }
+  },
   "skchr_rosmon_1": {
     "type": "SKILL",
     "names": {
@@ -36294,6 +36504,18 @@
       "zh_CN": "缝线缠身"
     }
   },
+  "skchr_tecno_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "关节锁定"
+    }
+  },
+  "skchr_tecno_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "恣意挥洒"
+    }
+  },
   "skchr_texas2_1": {
     "type": "SKILL",
     "names": {
@@ -36324,6 +36546,24 @@
       "en_US": "Sword Rain",
       "ja_JP": "剣雨",
       "zh_CN": "剑雨"
+    }
+  },
+  "skchr_thorn2_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "度算浪波"
+    }
+  },
+  "skchr_thorn2_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "解构涌潮"
+    }
+  },
+  "skchr_thorn2_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“我的海疆”"
     }
   },
   "skchr_thorns_2": {
@@ -38470,6 +38710,12 @@
       "zh_CN": "镀膜"
     }
   },
+  "sktok_cnnon": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "吃盐坨子吧！"
+    }
+  },
   "sktok_cnvfwks": {
     "type": "SKILL",
     "names": {
@@ -38876,6 +39122,18 @@
       "en_US": "Gate Closing",
       "ja_JP": "シャッター",
       "zh_CN": "关闭闸门"
+    }
+  },
+  "sktok_giacan_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "应急摧毁协议"
+    }
+  },
+  "sktok_giatow": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "法术传输协议"
     }
   },
   "sktok_godch": {
@@ -46478,6 +46736,78 @@
       "zh_CN": "《烟花燃放须知》"
     }
   },
+  "act39side_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "倒悬苍白海上"
+    }
+  },
+  "act39side_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "腿部拆卸疗法"
+    }
+  },
+  "act39side_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "大出血的舞步"
+    }
+  },
+  "act39side_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "重逢不乏意外"
+    }
+  },
+  "act39side_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "熄灭过去的灯"
+    }
+  },
+  "act39side_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "若退路在燃烧"
+    }
+  },
+  "act39side_07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "我的罗盘"
+    }
+  },
+  "act39side_08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "见证，征服，定义"
+    }
+  },
+  "act39side_st01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "别了，盐漠"
+    }
+  },
+  "act39side_st02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "倾泻腐朽的花"
+    }
+  },
+  "act39side_st03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "别了，大地"
+    }
+  },
+  "act39side_tr01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "海盗基本素养"
+    }
+  },
   "act3bossrush_01": {
     "type": "STAGE",
     "names": {
@@ -48374,6 +48704,42 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "莫寻迹"
+    }
+  },
+  "lt_17_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "荒野的第一乐章"
+    }
+  },
+  "lt_17_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "石像的改编曲"
+    }
+  },
+  "lt_17_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "野兽狂欢曲"
+    }
+  },
+  "lt_17_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "温顺者的摇篮曲"
+    }
+  },
+  "lt_17_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "驮兽与石像的二重奏"
+    }
+  },
+  "lt_17_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "“音乐之心”"
     }
   },
   "lt_tr_01": {
@@ -52632,6 +52998,18 @@
       "zh_CN": "荒芜之舞"
     }
   },
+  "act39side_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "盐漠开航"
+    }
+  },
+  "act39side_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "穿越骸礁"
+    }
+  },
   "act3bossrush_zone1": {
     "type": "ZONE",
     "names": {
@@ -53854,6 +54232,12 @@
       "zh_CN": "希瓦艾什的影子"
     }
   },
+  "story_blackd_set_2_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "健步如飞"
+    }
+  },
   "story_bldsk_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -54040,6 +54424,12 @@
       "en_US": "Heartfelt Present",
       "ja_JP": "心からの贈り物",
       "zh_CN": "真心的礼物"
+    }
+  },
+  "story_ceylon_set_2_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "留下的人"
     }
   },
   "story_cgbird_set_1_story_1": {
@@ -55396,6 +55786,12 @@
       "zh_CN": "鲜花香水"
     }
   },
+  "story_rosesa_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "梦想中的好生活"
+    }
+  },
   "story_savage_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -55758,6 +56154,12 @@
       "en_US": "Taste of Thorns",
       "ja_JP": "「尖り」の味わい",
       "zh_CN": "尖刺的滋味"
+    }
+  },
+  "story_tecno_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "共舞"
     }
   },
   "story_texas_set_1_story_1": {

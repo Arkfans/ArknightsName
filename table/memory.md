@@ -41,6 +41,7 @@ tip: 请善用浏览器的搜索功能
 | story_billro_set_1_story_1 | 保护者的本性 | Protector's Nature | 保護者の本能 |
 | story_bison_set_1_story_1 | 充实的假期 | A Fulfilling Holiday | 充実した休み |
 | story_blackd_set_1_story_1 | 希瓦艾什的影子 | - | - |
+| story_blackd_set_2_story_1 | 健步如飞 | - | - |
 | story_bldsk_set_1_story_1 | 怪物 | 'Monster' | モンスター |
 | story_bldsk_set_2_story_1 | 难得认真 | Rarely Serious | たまには真剣に |
 | story_blemsh_set_1_story_1 | 心甘情愿 | Ready to Serve | 望むままに |
@@ -65,6 +66,7 @@ tip: 请善用浏览器的搜索功能
 | story_cement_set_1_story_1 | 矿井里的太阳 | - | - |
 | story_cerber_set_1_story_1 | 特大号烤饼 | XXL Honey Biscuit | 特大クッキー |
 | story_ceylon_set_1_story_1 | 真心的礼物 | Heartfelt Present | 心からの贈り物 |
+| story_ceylon_set_2_story_1 | 留下的人 | - | - |
 | story_cgbird_set_1_story_1 | 蓝色羽毛与歌 | A Song and a Blue Feather | 青い羽根と歌 |
 | story_chen2_set_1_story_1 | 归属 | Belonging | 帰属 |
 | story_chen2_set_2_story_1 | 道路 | Pathways | 道 |
@@ -237,6 +239,7 @@ tip: 请善用浏览器的搜索功能
 | story_rockr_set_1_story_1 | 六百镑 | Six Hundred Pounds | 600ポンド |
 | story_rope_set_1_story_1 | 鲜花香水 | Floral Perfume | フラワーパフューム |
 | story_rope_set_1_story_2 | 鲜花香水 | Floral Perfume | フラワーパフューム |
+| story_rosesa_set_1_story_1 | 梦想中的好生活 | - | - |
 | story_savage_set_1_story_1 | 沉痛转机 | Painful Reversal | 痛ましい転機 |
 | story_savage_set_2_story_1 | 自有一“派” | No Less Than a Pie | パイはいかが？ |
 | story_savage_set_2_story_2 | 自有一“派” | No Less Than a Pie | パイはいかが？ |
@@ -283,6 +286,7 @@ tip: 请善用浏览器的搜索功能
 | story_swllow_set_1_story_1 | 殊途 | All Roads... | 異なる道 |
 | story_tachak_set_1_story_1 | 一如既往 | The Same As Always | 相も変わらず |
 | story_takila_set_1_story_1 | 尖刺的滋味 | Taste of Thorns | 「尖り」の味わい |
+| story_tecno_set_1_story_1 | 共舞 | - | - |
 | story_texas_set_1_story_1 | 使命必达 | Guaranteed Success | 絶対に、確実に |
 | story_therex_set_1_story_1 | 炙热冲击！ | Scorching-Hot Assault! | 灼熱のエネルギーショック！ |
 | story_thorns_set_1_story_1 | 纪念日 | Anniversary | 記念日 |

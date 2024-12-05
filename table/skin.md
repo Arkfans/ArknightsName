@@ -309,6 +309,7 @@ tip: 请善用浏览器的搜索功能
 | char_4106_bryota@epoque#34 | 动感 | - | - |
 | char_4109_baslin@witch#5 | 夜空星芒 | - | - |
 | char_4116_blkkgt@witch#5 | 暗月的影子 | - | - |
+| char_4117_ray@shining#2 | 梦幻高空 | - | - |
 | char_411_tomimi@summer#5 | 静谧午夜 DN04 | Silent Night DN04 | 安息の午夜DN04 |
 | char_4122_grabds@yun#3 | 步芳兰 | Fragrant Pace | 歩芳蘭 |
 | char_4123_ela@rainbow6#2 | 密室 | Safehouse | セーフハウス |
@@ -358,6 +359,7 @@ tip: 请善用浏览器的搜索功能
 | char_485_pallas@epoque#12 | 传承 | Heritage | 伝承 |
 | char_485_pallas@epoque#19 | 山川的酿造 | A Drip of Orea and Potamous | 山川の醸造 |
 | char_486_takila@ambienceSynesthesia#2 | 开牌制胜 | Cardwinner | ショーダウン |
+| char_486_takila@shining#2 | 巅峰现场 | - | - |
 | char_488_buildr@epoque#34 | 晚风休憩 | - | - |
 | char_489_serum@epoque#31 | 逸趣 | Leisure | 気ままな休日 |
 | char_492_quercu@epoque#17 | 遥乡之径 | Distant Home's Guide | 故郷は遠く |

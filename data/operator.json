@@ -140,6 +140,9 @@
   "char_1038_whitw2": {
     "zh_CN": "荒芜拉普兰德"
   },
+  "char_1039_thorn2": {
+    "zh_CN": "引星棘刺"
+  },
   "char_103_angel": {
     "en_US": "Exusiai",
     "ja_JP": "エクシア",
@@ -1462,6 +1465,12 @@
   },
   "char_4162_cathy": {
     "zh_CN": "凯瑟琳"
+  },
+  "char_4163_rosesa": {
+    "zh_CN": "瑰盐"
+  },
+  "char_4164_tecno": {
+    "zh_CN": "特克诺"
   },
   "char_4165_ctrail": {
     "zh_CN": "云迹"
