@@ -898,6 +898,7 @@ tip: 请善用浏览器的搜索功能
 | char_1031_slent2@epoque#32 | 栖息 | Habitat | 羽休め |
 | char_1032_excu2@sale#12 | 众志归一 | - | - |
 | char_1033_swire2@ambienceSynesthesia#4 | 律动方格 | Rhythmic Blocks | リズミックブロック |
+| char_1034_jesca2@cfa#1 | 《上任达维镇》 | - | - |
 | char_103_angel@kfc#1 | 城市骑手 | City Rider | シティライダー |
 | char_103_angel@sale#8 | 午夜邮差 | Midnight Delivery | 真夜中の配達人 |
 | char_103_angel@wild#1 | 野地秘行 | Wild Operation | 荒野潜行 |
@@ -981,12 +982,14 @@ tip: 请善用浏览器的搜索功能
 | char_2012_typhon@wild#9 | 北地引路人 | Northern Pathfinder | 北地の案内人 |
 | char_2013_cerber@summer#4 | 夏卉 FA333 | Summer Flowers FA333 | 夏の花弁FA333 |
 | char_2013_cerber@whirlwind#2 | 无拘无束 | Unfettered | 自由奔放 |
+| char_2014_nian@cfa#1 | 霹雳导演 | - | - |
 | char_2014_nian@nian#4 | 乐逍遥 | Unfettered Freedom | 楽逍遥 |
 | char_2015_dusk@nian#7 | 染尘烟 | Everything Is a Miracle | 染塵煙 |
 | char_201_moeshd@kfc#1 | 清晨七点 | Seven in the Morning | 7:00 a.m. |
 | char_201_moeshd@summer#4 | 探寻者 SK03 | Seeker SK03 | シーカーSK03 |
 | char_2023_ling@ncg#1 | 崖高梦远 | Towering is Cliff of Nostalgia | 崖高く夢遠し |
 | char_2023_ling@nian#9 | 濯缨 | It Does Wash the Strings | 濯冠纓 |
+| char_2024_chyue@cfa#1 | 全能演员 | - | - |
 | char_2024_chyue@nian#10 | 何处栖 | Alighting | 何処棲 |
 | char_202_demkni@boc#1 | 坚城 | Stronghold | 堅城 |
 | char_202_demkni@test#1 | 铁律 | The Law | 鉄の掟 |
@@ -1170,6 +1173,7 @@ tip: 请善用浏览器的搜索功能
 | char_4104_coldst@striker#3 | 破晓 | - | - |
 | char_4106_bryota@epoque#34 | 动感 | - | - |
 | char_4109_baslin@witch#5 | 夜空星芒 | - | - |
+| char_4114_harold@snow#7 | 邀雪 | - | - |
 | char_4116_blkkgt@witch#5 | 暗月的影子 | - | - |
 | char_4117_ray@shining#2 | 梦幻高空 | - | - |
 | char_411_tomimi@summer#5 | 静谧午夜 DN04 | Silent Night DN04 | 安息の午夜DN04 |
@@ -2548,6 +2552,7 @@ tip: 请善用浏览器的搜索功能
 | act1unique | 九色鹿签到复刻活动 | Nine-Colored Deer Onboarding Event Retrospective | 九色鹿復刻スタンプラリー |
 | act1vautochess | 卫戍协议 | - | - |
 | act1vecb | 矢量突破 | - | - |
+| act1video | 留影烁今登录活动 | - | - |
 | act20login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
 | act20side | 理想城：长夏狂欢季 | Ideal City: Endless Carnival | 理想都市-エンドレスカーニバル- |
 | act20sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -2591,6 +2596,7 @@ tip: 请善用浏览器的搜索功能
 | act2vmulti | 罗德岛促融共竞 | Rhodes Island Icebreaker Games | ロドス協心競技 |
 | act30side | 银心湖列车 | The Rides to Lake Silberneherze | 銀心湖鉄道 |
 | act30sign | 秋风送爽限时登录活动 | Snow Upon Autumnal Winds Limited Login Event | 早春の風スタンプラリー |
+| act30sre | 银心湖列车·复刻 | - | - |
 | act31side | 怀黍离 | Here A People Sows | 懐黍離 |
 | act31sign | 正逢雨季限时登录活动 | Rain Season Limited Login Event | 長雨の候スタンプラリー |
 | act32side | 水晶箭行动 | Operation Lucent Arrowhead | OP:LA |
@@ -3002,6 +3008,7 @@ tip: 请善用浏览器的搜索功能
 | act2bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
 | act2vmulti_token_cap | 参赛纪念 | Memento | 参加記念 |
 | act30side_token_box | 驮兽盲盒 | Burdenbeast Blind Box | 駄獣ミニフィギュア |
+| act30side_token_box_rep_1 | 驮兽盲盒 | - | - |
 | act31side_token_box | 天桩 | Sky Pole | 天杭 |
 | act32side_token_stamp | 艺术馆集章卡 | Galería Stamp Card | スタンプカード |
 | act33side_token_sugar | 粗制糖块 | Raw Sugar Lumps | 粗製角砂糖 |
@@ -3783,6 +3790,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_castle_1 | 古堡印象家具收藏包一 | Castlesque Furniture Pack I | 古城風家具パックvol.1 |
 | uni_set_castle_2 | 古堡印象家具收藏包二 | Castlesque Furniture Pack II | 古城風家具パックvol.2 |
 | uni_set_concertHall | 尘影余音家具收藏包 | Lingering Echoes Furniture Pack | 塵影に交わる残響家具パック |
+| uni_set_countryside | 照我以火家具收藏包 | - | - |
 | uni_set_court | 叙拉古人家具收藏包 | - | - |
 | uni_set_fNearl | 玛莉娅·临光家具收藏包 | Maria Nearl Furniture Pack | マリア・ニアール家具パック |
 | uni_set_goldBoat | 愚人号家具收藏包 | Stultifera Navis Furniture Pack | 狂人号家具パック |
@@ -3829,6 +3837,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_full_malist | 至简的私人信件 | - | - |
 | voucher_full_mint | 薄绿的私人信件 | Mint's Personal Letter | ミントの手紙 |
 | voucher_full_pianst | 车尔尼的私人信件 | Czerny's Personal Letter | ツェルニーの手紙 |
+| voucher_full_puzzle | 谜图的私人信件 | - | - |
 | voucher_full_robin | 罗宾的私人信件 | Robin's Personal Letter | ロビンの手紙 |
 | voucher_full_sidero | 铸铁的私人信件 | Sideroca's Personal Letter | シデロカの手紙 |
 | voucher_full_snsant | 雪雉的私人信件 | Snowsant's Personal Letter | スノーズントの手紙 |
@@ -4000,6 +4009,7 @@ tip: 请善用浏览器的搜索功能
 | SINGLE_54_0_3 | 鸣铳 | - | - |
 | SINGLE_55_0_1 | 未致蒙尘 | - | - |
 | SINGLE_57_0_1 | 证实，完成，指引 | - | - |
+| SINGLE_57_0_3 | 游邦者 | - | - |
 | SPECIAL_54_0_5 | 定向甄选 | - | - |
 | _ATTAIN_15_2_1 | - | Celebrate & Recollect | ロドスの道のり　回顧 |
 | _ATTAIN_22_1_2 | - | Celebration & Link-Up | ロドスの道のり・邂逅 |
@@ -6865,6 +6875,8 @@ tip: 请善用浏览器的搜索功能
 | act2bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act30side_zone1 | 三号站台 | Platform No. 3 | 3番ホーム |
 | act30side_zone2 | 特快列车 | Express Train | 特急列車 |
+| act30sre_zone1 | 三号站台 | - | - |
+| act30sre_zone2 | 特快列车 | - | - |
 | act31side_zone1 | 种植地块 | Agricultural Plate | 栽培区画 |
 | act31side_zone2 | 荒城核心 | City Core | 荒城中枢 |
 | act31side_zone3 | 大江北岸 | Far Side of the Great River | 大江北岸 |
@@ -6960,6 +6972,8 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_23_zone1 | 朝见双塔 | - | - |
 | permanent_sidestory_23_zone2 | 恩典永恒 | - | - |
 | permanent_sidestory_23_zone3 | 权威无情 | - | - |
+| permanent_sidestory_24_zone1 | 三号站台 | - | - |
+| permanent_sidestory_24_zone2 | 特快列车 | - | - |
 | permanent_sidestory_2_zone1 | 主舞台 | Main Stage | メインステージ |
 | permanent_sidestory_2_zone2 | 嘉年华 | Carnival | フェスティバル |
 | permanent_sidestory_2_zone3 | 额外节目 | Extra Show | エクストラ |

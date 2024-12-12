@@ -1426,6 +1426,9 @@
     "ja_JP": "駄獣ミニフィギュア",
     "zh_CN": "驮兽盲盒"
   },
+  "act30side_token_box_rep_1": {
+    "zh_CN": "驮兽盲盒"
+  },
   "act31side_token_box": {
     "en_US": "Sky Pole",
     "ja_JP": "天杭",
@@ -5224,6 +5227,9 @@
     "ja_JP": "塵影に交わる残響家具パック",
     "zh_CN": "尘影余音家具收藏包"
   },
+  "uni_set_countryside": {
+    "zh_CN": "照我以火家具收藏包"
+  },
   "uni_set_court": {
     "zh_CN": "叙拉古人家具收藏包"
   },
@@ -5441,6 +5447,9 @@
     "en_US": "Czerny's Personal Letter",
     "ja_JP": "ツェルニーの手紙",
     "zh_CN": "车尔尼的私人信件"
+  },
+  "voucher_full_puzzle": {
+    "zh_CN": "谜图的私人信件"
   },
   "voucher_full_robin": {
     "en_US": "Robin's Personal Letter",

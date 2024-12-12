@@ -440,6 +440,9 @@
   "act1vecb": {
     "zh_CN": "矢量突破"
   },
+  "act1video": {
+    "zh_CN": "留影烁今登录活动"
+  },
   "act20login": {
     "en_US": "Sign-In Campaign",
     "ja_JP": "ログイン報酬",
@@ -642,6 +645,9 @@
     "en_US": "Snow Upon Autumnal Winds Limited Login Event",
     "ja_JP": "早春の風スタンプラリー",
     "zh_CN": "秋风送爽限时登录活动"
+  },
+  "act30sre": {
+    "zh_CN": "银心湖列车·复刻"
   },
   "act31side": {
     "en_US": "Here A People Sows",

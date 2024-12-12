@@ -6781,6 +6781,12 @@
       "zh_CN": "律动方格"
     }
   },
+  "char_1034_jesca2@cfa#1": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "《上任达维镇》"
+    }
+  },
   "char_103_angel@kfc#1": {
     "type": "SKIN",
     "names": {
@@ -7441,6 +7447,12 @@
       "zh_CN": "无拘无束"
     }
   },
+  "char_2014_nian@cfa#1": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "霹雳导演"
+    }
+  },
   "char_2014_nian@nian#4": {
     "type": "SKIN",
     "names": {
@@ -7487,6 +7499,12 @@
       "en_US": "It Does Wash the Strings",
       "ja_JP": "濯冠纓",
       "zh_CN": "濯缨"
+    }
+  },
+  "char_2024_chyue@cfa#1": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "全能演员"
     }
   },
   "char_2024_chyue@nian#10": {
@@ -8907,6 +8925,12 @@
     "type": "SKIN",
     "names": {
       "zh_CN": "夜空星芒"
+    }
+  },
+  "char_4114_harold@snow#7": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "邀雪"
     }
   },
   "char_4116_blkkgt@witch#5": {
@@ -19607,6 +19631,12 @@
       "zh_CN": "矢量突破"
     }
   },
+  "act1video": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "留影烁今登录活动"
+    }
+  },
   "act20login": {
     "type": "ACTIVITY",
     "names": {
@@ -19937,6 +19967,12 @@
       "en_US": "Snow Upon Autumnal Winds Limited Login Event",
       "ja_JP": "早春の風スタンプラリー",
       "zh_CN": "秋风送爽限时登录活动"
+    }
+  },
+  "act30sre": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "银心湖列车·复刻"
     }
   },
   "act31side": {
@@ -23139,6 +23175,12 @@
     "names": {
       "en_US": "Burdenbeast Blind Box",
       "ja_JP": "駄獣ミニフィギュア",
+      "zh_CN": "驮兽盲盒"
+    }
+  },
+  "act30side_token_box_rep_1": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "驮兽盲盒"
     }
   },
@@ -29274,6 +29316,12 @@
       "zh_CN": "尘影余音家具收藏包"
     }
   },
+  "uni_set_countryside": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "照我以火家具收藏包"
+    }
+  },
   "uni_set_court": {
     "type": "ITEM",
     "names": {
@@ -29628,6 +29676,12 @@
       "en_US": "Czerny's Personal Letter",
       "ja_JP": "ツェルニーの手紙",
       "zh_CN": "车尔尼的私人信件"
+    }
+  },
+  "voucher_full_puzzle": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "谜图的私人信件"
     }
   },
   "voucher_full_robin": {
@@ -30786,6 +30840,12 @@
     "type": "POOL",
     "names": {
       "zh_CN": "证实，完成，指引"
+    }
+  },
+  "SINGLE_57_0_3": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "游邦者"
     }
   },
   "SPECIAL_54_0_5": {
@@ -52858,6 +52918,18 @@
       "zh_CN": "特快列车"
     }
   },
+  "act30sre_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "三号站台"
+    }
+  },
+  "act30sre_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "特快列车"
+    }
+  },
   "act31side_zone1": {
     "type": "ZONE",
     "names": {
@@ -53572,6 +53644,18 @@
     "type": "ZONE",
     "names": {
       "zh_CN": "权威无情"
+    }
+  },
+  "permanent_sidestory_24_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "三号站台"
+    }
+  },
+  "permanent_sidestory_24_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "特快列车"
     }
   },
   "permanent_sidestory_2_zone1": {

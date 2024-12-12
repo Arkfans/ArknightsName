@@ -96,6 +96,7 @@ tip: 请善用浏览器的搜索功能
 | act1unique | 九色鹿签到复刻活动 | Nine-Colored Deer Onboarding Event Retrospective | 九色鹿復刻スタンプラリー |
 | act1vautochess | 卫戍协议 | - | - |
 | act1vecb | 矢量突破 | - | - |
+| act1video | 留影烁今登录活动 | - | - |
 | act20login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
 | act20side | 理想城：长夏狂欢季 | Ideal City: Endless Carnival | 理想都市-エンドレスカーニバル- |
 | act20sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -139,6 +140,7 @@ tip: 请善用浏览器的搜索功能
 | act2vmulti | 罗德岛促融共竞 | Rhodes Island Icebreaker Games | ロドス協心競技 |
 | act30side | 银心湖列车 | The Rides to Lake Silberneherze | 銀心湖鉄道 |
 | act30sign | 秋风送爽限时登录活动 | Snow Upon Autumnal Winds Limited Login Event | 早春の風スタンプラリー |
+| act30sre | 银心湖列车·复刻 | - | - |
 | act31side | 怀黍离 | Here A People Sows | 懐黍離 |
 | act31sign | 正逢雨季限时登录活动 | Rain Season Limited Login Event | 長雨の候スタンプラリー |
 | act32side | 水晶箭行动 | Operation Lucent Arrowhead | OP:LA |

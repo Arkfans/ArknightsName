@@ -720,6 +720,12 @@
     "ja_JP": "特急列車",
     "zh_CN": "特快列车"
   },
+  "act30sre_zone1": {
+    "zh_CN": "三号站台"
+  },
+  "act30sre_zone2": {
+    "zh_CN": "特快列车"
+  },
   "act31side_zone1": {
     "en_US": "Agricultural Plate",
     "ja_JP": "栽培区画",
@@ -1150,6 +1156,12 @@
   },
   "permanent_sidestory_23_zone3": {
     "zh_CN": "权威无情"
+  },
+  "permanent_sidestory_24_zone1": {
+    "zh_CN": "三号站台"
+  },
+  "permanent_sidestory_24_zone2": {
+    "zh_CN": "特快列车"
   },
   "permanent_sidestory_2_zone1": {
     "en_US": "Main Stage",

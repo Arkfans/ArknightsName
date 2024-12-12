@@ -154,6 +154,8 @@ tip: 请善用浏览器的搜索功能
 | act2bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act30side_zone1 | 三号站台 | Platform No. 3 | 3番ホーム |
 | act30side_zone2 | 特快列车 | Express Train | 特急列車 |
+| act30sre_zone1 | 三号站台 | - | - |
+| act30sre_zone2 | 特快列车 | - | - |
 | act31side_zone1 | 种植地块 | Agricultural Plate | 栽培区画 |
 | act31side_zone2 | 荒城核心 | City Core | 荒城中枢 |
 | act31side_zone3 | 大江北岸 | Far Side of the Great River | 大江北岸 |
@@ -249,6 +251,8 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_23_zone1 | 朝见双塔 | - | - |
 | permanent_sidestory_23_zone2 | 恩典永恒 | - | - |
 | permanent_sidestory_23_zone3 | 权威无情 | - | - |
+| permanent_sidestory_24_zone1 | 三号站台 | - | - |
+| permanent_sidestory_24_zone2 | 特快列车 | - | - |
 | permanent_sidestory_2_zone1 | 主舞台 | Main Stage | メインステージ |
 | permanent_sidestory_2_zone2 | 嘉年华 | Carnival | フェスティバル |
 | permanent_sidestory_2_zone3 | 额外节目 | Extra Show | エクストラ |
