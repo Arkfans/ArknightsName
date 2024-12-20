@@ -1199,6 +1199,7 @@
     "zh_CN": "数据黑盒"
   },
   "act1collection_point_token": {
+    "ja_JP": "「探索者」交換ポイント",
     "zh_CN": "“探索者”兑换点数"
   },
   "act1d0_token_gold_rep_1": {
@@ -1328,6 +1329,7 @@
     "zh_CN": "圣像碎片"
   },
   "act26side_token_fragmenta_rep_1": {
+    "ja_JP": "聖像のかけら",
     "zh_CN": "圣像碎片"
   },
   "act27side_token_fur": {
@@ -1336,6 +1338,7 @@
     "zh_CN": "毛绒绒生物的毛"
   },
   "act27side_token_fur_rep_1": {
+    "ja_JP": "ピンクのふわふわ",
     "zh_CN": "毛绒绒生物的毛"
   },
   "act28side_token_box": {
@@ -4616,6 +4619,7 @@
     "zh_CN": "特级材料提货券"
   },
   "premium_material_voucher_perm": {
+    "ja_JP": "T4素材交換券",
     "zh_CN": "特级材料提货券"
   },
   "randomDiamondShd_1": {

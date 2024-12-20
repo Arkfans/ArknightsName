@@ -248,7 +248,7 @@ tip: 请善用浏览器的搜索功能
 | act1bossrush_relic_03 | 超级闪存 | Super Cache | ハイパーストレージ |
 | act1bossrush_relic_04 | 推斥管控 | Repel Control | 相互作用強化 |
 | act1bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
-| act1collection_point_token | “探索者”兑换点数 | - | - |
+| act1collection_point_token | “探索者”兑换点数 | - | 「探索者」交換ポイント |
 | act1d0_token_gold_rep_1 | 赏金猎人金币 | Bounty Coin | ラッキーコイン |
 | act1lock_point_reward | 赛事奖章 | Competition Medals | 競技メダル |
 | act1mainlinebp_token_star | 里程碑碎片 | Milestone Fragment | マイルストーンの欠片 |
@@ -275,9 +275,9 @@ tip: 请善用浏览器的搜索功能
 | act25side_token_key01 | 特殊作战许可·α | Special Ops Permit α | 特殊作戦許可α |
 | act25side_token_key02 | 特殊作战许可·β | Special Ops Permit β | 特殊作戦許可β |
 | act26side_token_fragmenta | 圣像碎片 | Holy Statue Fragments | 聖像のかけら |
-| act26side_token_fragmenta_rep_1 | 圣像碎片 | - | - |
+| act26side_token_fragmenta_rep_1 | 圣像碎片 | - | 聖像のかけら |
 | act27side_token_fur | 毛绒绒生物的毛 | Fluffy Critter Wool | ピンクのふわふわ |
-| act27side_token_fur_rep_1 | 毛绒绒生物的毛 | - | - |
+| act27side_token_fur_rep_1 | 毛绒绒生物的毛 | - | ピンクのふわふわ |
 | act28side_token_box | 劣质燃料 | Shoddy Fuel | 粗悪燃料 |
 | act28side_token_box_rep_1 | 劣质燃料 | - | - |
 | act29side_frag_1 | 乐之节符 | Note of Joy | 楽の音符 |
@@ -954,7 +954,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_502_nblade | 夜刀的信物 | Yato's Token | ヤトウの印 |
 | p_char_503_rang | 巡林者的信物 | Rangers' Token | レンジャーの印 |
 | premium_material_issue_voucher | 特级材料提货券 | Premium Material Voucher | T4素材交換券 |
-| premium_material_voucher_perm | 特级材料提货券 | - | - |
+| premium_material_voucher_perm | 特级材料提货券 | - | T4素材交換券 |
 | randomDiamondShd_1 | 罗德岛迎春红包 | Half Year Anniversary Red Envelope | お祝いポチ袋 |
 | randomDiamondShd_2 | 庆典礼盒 | Celebratory Box | 感謝祭ギフトボックス |
 | randomMaterialRune_0 | 荒芜行动物资补给 | Operation Barrenland Supplies | 補給物資・「荒廃」 |

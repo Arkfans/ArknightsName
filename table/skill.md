@@ -1184,23 +1184,23 @@ tip: 请善用浏览器的搜索功能
 | sktok_wisdel_wward | 魂灵之影 | Revenant's Shadow | レヴァナントの影 |
 | sktok_wpnsts_1 | 拉特兰式冰淇淋 | Laterano-Style Gelato | ジェラート供給 |
 | sktok_wpnsts_2 | 拉特兰式冰淇淋 | Laterano-Style Gelato | ジェラート供給 |
-| sktok_xbaarm | 支持 | - | - |
-| sktok_xbaaro | 岩锤 | - | - |
-| sktok_xbaask | 炫耀 | - | - |
-| sktok_xbaasm | 引燃 | - | - |
-| sktok_xbabal | 发射缚网 | - | - |
-| sktok_xbabat | 补给 | - | - |
-| sktok_xbabla | 发射 | - | - |
-| sktok_xbabut | 通感 | - | - |
-| sktok_xbadiv | 激励 | - | - |
-| sktok_xbaess | 熏诱 | - | - |
-| sktok_xbaflu | 弹射 | - | - |
-| sktok_xbaice | 喷射 | - | - |
+| sktok_xbaarm | 支持 | - | 支援 |
+| sktok_xbaaro | 岩锤 | - | ロックハンマー |
+| sktok_xbaask | 炫耀 | - | 自慢 |
+| sktok_xbaasm | 引燃 | - | 点火 |
+| sktok_xbabal | 发射缚网 | - | 捕縛網発射 |
+| sktok_xbabat | 补给 | - | 補給 |
+| sktok_xbabla | 发射 | - | 発射 |
+| sktok_xbabut | 通感 | - | 共感覚 |
+| sktok_xbadiv | 激励 | - | 激励 |
+| sktok_xbaess | 熏诱 | - | 引き寄せ |
+| sktok_xbaflu | 弹射 | - | 発射 |
+| sktok_xbaice | 喷射 | - | 噴射 |
 | sktok_xbalis | 发射 | Fire | 発射 |
-| sktok_xbarok | 岩锤 | - | - |
-| sktok_xbasky | 炫耀 | - | - |
-| sktok_xbasmi | 引燃 | - | - |
-| sktok_xbawea | 庇护 | - | - |
+| sktok_xbarok | 岩锤 | - | ロックハンマー |
+| sktok_xbasky | 炫耀 | - | 自慢 |
+| sktok_xbasmi | 引燃 | - | 点火 |
+| sktok_xbawea | 庇护 | - | 加護 |
 | sktok_xbbarir | 阻挡 | Block | 障害物 |
 | sktok_xbbase | 能源设备 | Energy Facility | 動力設備 |
 | sktok_xbbee | 扫描 | Scan | スキャン |
@@ -1216,9 +1216,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_xbember | 激励 | Impel | 激励 |
 | sktok_xbescp | 建立通讯 | Establish Communication | 通信確立 |
 | sktok_xbexbi | 纪念 | Recollect | 記念 |
-| sktok_xbf1g | 采集 | - | - |
-| sktok_xbf2g | 采集 | - | - |
-| sktok_xbf3g | 采集 | - | - |
+| sktok_xbf1g | 采集 | - | 採取 |
+| sktok_xbf2g | 采集 | - | 採取 |
+| sktok_xbf3g | 采集 | - | 採取 |
 | sktok_xbfarm | 稻谷种植 | Plant Rice | 田植え |
 | sktok_xbfarmm | 种植 | Plant | 栽培 |
 | sktok_xbfato | 采集 | Gather | 採取 |
@@ -1233,7 +1233,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_xbhydr | 锁钥 | Key | 閉鎖 |
 | sktok_xbiron | 可供开采 | Harvestable | 採掘可能 |
 | sktok_xbistorm | 冰爆！ | Ice Blast! | 氷爆！ |
-| sktok_xblfen | 畜养 | - | - |
+| sktok_xblfen | 畜养 | - | 畜養 |
 | sktok_xblight | 瞭望 | Scout | 眺望 |
 | sktok_xblrsh | 人员状态改善 | Improve Personnel Status | 戦闘計画改善 |
 | sktok_xbmcv | 引擎核心 | Engine Core | エンジンの核心 |
@@ -1253,12 +1253,12 @@ tip: 请善用浏览器的搜索功能
 | sktok_xbstation | 号令 | Command | 号令 |
 | sktok_xbstone | 可供开采 | Harvestable | 採掘可能 |
 | sktok_xbtent | 援护 | Aid | 援護 |
-| sktok_xbtiro | 采铁 | - | - |
+| sktok_xbtiro | 采铁 | - | 採鉄 |
 | sktok_xbtrap | 陷阱 | Trap | トラップ |
-| sktok_xbtrok | 掘石 | - | - |
+| sktok_xbtrok | 掘石 | - | 掘削 |
 | sktok_xbtrophy | “跳动” | 'Heartbeat' | 「脈動」 |
-| sktok_xbtwal | 阻隔道路 | - | - |
-| sktok_xbtwod | 切木 | - | - |
+| sktok_xbtwal | 阻隔道路 | - | 進路阻害 |
+| sktok_xbtwod | 切木 | - | 伐採 |
 | sktok_xbwall | 防御支撑 | Defensive Support | 防衛の要 |
-| sktok_xbwfg | 抽水 | - | - |
+| sktok_xbwfg | 抽水 | - | 水汲み |
 | sktok_xbwood | 可供开采 | Harvestable | 採掘可能 |

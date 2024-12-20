@@ -762,32 +762,32 @@ tip: 请善用浏览器的搜索功能
 | trap_484_xbcp | 检查点 | Checkpoint | チェックポイント |
 | trap_485_xbrandprop | 随机道具盒 | Random Item Box | ランダムボックス |
 | trap_486_xbspd | 加速块 | Accelerator Tile | 加速ブロック |
-| trap_487_xblfen | 大型兽栏 | - | - |
-| trap_488_xbtwod | 全自动切木站 | - | - |
-| trap_489_xbtrok | 全自动掘石站 | - | - |
-| trap_490_xbtiro | 全自动采铁站 | - | - |
-| trap_491_xbtwal | 虚影壁障 | - | - |
-| trap_492_xbamai | 狩闻匣 | - | - |
-| trap_493_xbabal | 追猎发射台 | - | - |
-| trap_494_xbasky | 拟南盏 | - | - |
-| trap_495_xbasmi | 草香粉 | - | - |
-| trap_496_xbaasm | 稀有·草香粉 | - | - |
-| trap_497_xbarok | 岩锤 | - | - |
-| trap_498_xbaaro | 稀有·岩锤 | - | - |
-| trap_499_xbaask | 稀有·拟南盏 | - | - |
-| trap_500_xbaflu | 荧光棒弹射装置 | - | - |
-| trap_501_xbaarm | 外骨骼 | - | - |
-| trap_502_xbaice | 冰瀑喷射罐 | - | - |
-| trap_503_xbabla | 凋亡发射器 | - | - |
-| trap_504_xbaess | 桶装液香 | - | - |
-| trap_505_xbawea | 庇护制造器 | - | - |
-| trap_506_xbadiv | 驯兽口粮 | - | - |
-| trap_507_xbabut | 感知链接器 | - | - |
-| trap_508_xbabat | 行动套装 | - | - |
-| trap_509_xbf1g | 木材采集站·采购 | - | - |
-| trap_510_xbf2g | 石材采集站·采购 | - | - |
-| trap_511_xbf3g | 铁矿采集站·采购 | - | - |
-| trap_512_xbwfg | 蟹蟹抽水泵·采购 | - | - |
+| trap_487_xblfen | 大型兽栏 | - | 大型畜舎 |
+| trap_488_xbtwod | 全自动切木站 | - | 全自動伐採基地 |
+| trap_489_xbtrok | 全自动掘石站 | - | 全自動採石基地 |
+| trap_490_xbtiro | 全自动采铁站 | - | 全自動採鉱基地 |
+| trap_491_xbtwal | 虚影壁障 | - | 虚影障壁 |
+| trap_492_xbamai | 狩闻匣 | - | 狩猟ボックス |
+| trap_493_xbabal | 追猎发射台 | - | 狩猟用発射台 |
+| trap_494_xbasky | 拟南盏 | - | ナズナモドキの花 |
+| trap_495_xbasmi | 草香粉 | - | 香草の粉 |
+| trap_496_xbaasm | 稀有·草香粉 | - | 珍しい香草の粉 |
+| trap_497_xbarok | 岩锤 | - | ロックハンマー |
+| trap_498_xbaaro | 稀有·岩锤 | - | 珍しいロックハンマー |
+| trap_499_xbaask | 稀有·拟南盏 | - | 珍しいナズナモドキの花 |
+| trap_500_xbaflu | 荧光棒弹射装置 | - | ケミカルライト発射装置 |
+| trap_501_xbaarm | 外骨骼 | - | 外骨格 |
+| trap_502_xbaice | 冰瀑喷射罐 | - | 氷瀑噴射缶 |
+| trap_503_xbabla | 凋亡发射器 | - | 壊死損傷発射装置 |
+| trap_504_xbaess | 桶装液香 | - | 樽詰め香液 |
+| trap_505_xbawea | 庇护制造器 | - | パラソルマシン |
+| trap_506_xbadiv | 驯兽口粮 | - | 猛獣のエサ |
+| trap_507_xbabut | 感知链接器 | - | 狩猟用発射台 |
+| trap_508_xbabat | 行动套装 | - | 作戦補給品 |
+| trap_509_xbf1g | 木材采集站·采购 | - | 既製品の木材採取基地 |
+| trap_510_xbf2g | 石材采集站·采购 | - | 既製品の石材採取基地 |
+| trap_511_xbf3g | 铁矿采集站·采购 | - | 既製品の鉄鉱石採取基地 |
+| trap_512_xbwfg | 蟹蟹抽水泵·采购 | - | 既製品のカニカニポンプ |
 | trap_700_cdabyss | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |
 | trap_701_cdabyssa | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |
 | trap_702_cdabyssb | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |
@@ -1075,7 +1075,7 @@ tip: 请善用浏览器的搜索功能
 | char_311_mudrok@ambienceSynesthesia#2 | 黑曜石 | Obsidian | オブシディアン |
 | char_311_mudrok@summer#6 | 静谧午夜 DN06 | Silent Night DN06 | 安息の午夜DN06 |
 | char_311_mudrok@wild#10 | 砾瓦 | - | - |
-| char_322_lmlee@sanrio#1 | 坊间凉茶铺 | - | - |
+| char_322_lmlee@sanrio#1 | 坊间凉茶铺 | - | まちなか涼茶舗 |
 | char_322_lmlee@witch#3 | 手到牌来 | Trust Your Eyes | お目を拝借 |
 | char_326_glacus@ghost#1 | 广场扫荡客 | Exterminator in the Square | 広場の掃討者 |
 | char_328_cammou@witch#2 | 安息处的怪盗 | Grave Thief | 霊園の怪盗 |
@@ -1110,7 +1110,7 @@ tip: 请善用浏览器的搜索功能
 | char_373_lionhd@snow#3 | 希望巡游 | Hope Cruise | 希望の運び手 |
 | char_373_lionhd@wild#3 | 宝藏行家 | Finder in the Rough | 秘宝の専門家 |
 | char_376_therex@marthe#7 | 双料四分卫 | Dual-threat Quarterback | スーパークォーターバック |
-| char_377_gdglow@sanrio#1 | 花房茶话会 | - | - |
+| char_377_gdglow@sanrio#1 | 花房茶话会 | - | ハローティーパーティ |
 | char_377_gdglow@snow#5 | 喜夜侍者 | Maiden for the Bright Night | しあわせの使い |
 | char_377_gdglow@summer#12 | 夏卉 FA394 | Summer Flowers FA394 | 夏の花弁FA394 |
 | char_378_asbest@whirlwind#3 | 幽谷奏鸣 | Glen Sonata | グレンソナタ |
@@ -1168,10 +1168,10 @@ tip: 请善用浏览器的搜索功能
 | char_4083_chimes@yun#5 | 松间月 | - | - |
 | char_4087_ines@boc#8 | 燃烧天穹下 | Under the Flaming Dome | 燃ゆる蒼穹の下 |
 | char_4088_hodrer@sightseer#1 | 沉思之庭 | - | - |
-| char_4091_ulika@sanrio#1 | 云上直播间 | - | - |
-| char_4100_caper@summer#18 | 夏卉 FA083 | - | - |
+| char_4091_ulika@sanrio#1 | 云上直播间 | - | 雲の上から配信中！ |
+| char_4100_caper@summer#18 | 夏卉 FA083 | - | 夏の花弁FA083 |
 | char_4104_coldst@striker#3 | 破晓 | - | - |
-| char_4106_bryota@epoque#34 | 动感 | - | - |
+| char_4106_bryota@epoque#34 | 动感 | - | 躍動 |
 | char_4109_baslin@witch#5 | 夜空星芒 | - | - |
 | char_4114_harold@snow#7 | 邀雪 | - | - |
 | char_4116_blkkgt@witch#5 | 暗月的影子 | - | - |
@@ -1232,7 +1232,7 @@ tip: 请善用浏览器的搜索功能
 | char_492_quercu@witch#4 | 树影吟游 | The Bard's Tale | 木陰の吟遊詩人 |
 | char_496_wildmn@epoque#16 | 正义缔造者 | Justice Maker | ジャスティスメーカー |
 | char_497_ctable@nian#9 | 灯如昼 | Illumination That of Daylights | 灯如昼 |
-| char_498_inside@kitchen#2 | 甜品大奖 | - | - |
+| char_498_inside@kitchen#2 | 甜品大奖 | - | スイーツ大賞 |
 | char_499_kaitou@epoque#37 | 斜照 | - | - |
 | ambienceSynesthesia | 音律联觉 | Ambience Synesthesia | 音律聯覚 |
 | boc | 斗争血脉 | Bloodline of Combat | 闘争の血脈 |
@@ -2439,14 +2439,14 @@ tip: 请善用浏览器的搜索功能
 | enemy_7044_xblbug | 振翅源石虫 | Flying Originium Slug | 羽オリジムシ |
 | enemy_7045_xbtd | 冲锋源石虫 | Charging Originium Slug | 突撃オリジムシ |
 | enemy_7046_xbslug | 披甲源石虫 | Armored Originium Slug | アーマーオリジムシ |
-| enemy_7047_xbdit | “流质透镜” | - | - |
-| enemy_7049_xbnum | 放归驮兽 | - | - |
-| enemy_7051_xbcas | 拟南兽 | - | - |
-| enemy_7053_xbcasz | 拟南兽 | - | - |
-| enemy_7054_xbsmi | 香草翼兽 | - | - |
-| enemy_7056_xbsmiz | 香草翼兽 | - | - |
-| enemy_7057_xbrok | 游砂兽 | - | - |
-| enemy_7059_xbrokz | 游砂兽 | - | - |
+| enemy_7047_xbdit | “流质透镜” | - | 「リキッドレンズ」 |
+| enemy_7049_xbnum | 放归驮兽 | - | 放たれた駄獣 |
+| enemy_7051_xbcas | 拟南兽 | - | ナズナモドキ獣 |
+| enemy_7053_xbcasz | 拟南兽 | - | ナズナモドキ獣 |
+| enemy_7054_xbsmi | 香草翼兽 | - | 香草翼獣 |
+| enemy_7056_xbsmiz | 香草翼兽 | - | 香草翼獣 |
+| enemy_7057_xbrok | 游砂兽 | - | 遊砂獣 |
+| enemy_7059_xbrokz | 游砂兽 | - | 遊砂獣 |
 | enemy_8001_flmlod | 熔戈者，护王余火 | Sverdsmeltr, Guardian Ember of the King | スヴェルドメルター、王を守る余炎 |
 | enemy_8001_flmlod_2 | 熔戈者，护王余火 | Sverdsmeltr, Guardian Ember of the King | スヴェルドメルター、王を守る余炎 |
 | enemy_8001_flmlod_3 | 熔戈者，护王余火 | Sverdsmeltr, Guardian Ember of the King | スヴェルドメルター、王を守る余炎 |
@@ -2537,7 +2537,7 @@ tip: 请善用浏览器的搜索功能
 | act1blessing | 2024罗德岛新春签到 | 2024 Festival Sign-In | 4.5周年スタンプラリー |
 | act1bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act1checkin | 未来序曲签到活动 | Preludes to the Future Sign-in Event | 大感謝祭スタンプ |
-| act1collection | 限时积分任务 | - | - |
+| act1collection | 限时积分任务 | - | 期間限定Pt任務 |
 | act1d5 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act1flip | 哗啦啦祈愿牌 | Surpriseful Supplications | かんから祈り札 |
 | act1float | 纽莱堡市产业合作洽谈会 | Nulaiteburgh Industry Cooperation Forum | ニューライトバーグ市産業懇談会 |
@@ -2575,10 +2575,10 @@ tip: 请善用浏览器的搜索功能
 | act25sre | 孤星·复刻 | Lone Trail - Rerun | 孤星・復刻 |
 | act26side | 空想花庭 | Hortus de Escapismo | 空想の花庭 |
 | act26sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
-| act26sre | 空想花庭·复刻 | - | - |
+| act26sre | 空想花庭·复刻 | - | 空想の花庭・復刻 |
 | act27side | 火山旅梦 | So Long, Adele: Home Away From Home | 火山と雲と夢色の旅路 |
 | act27sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
-| act27sre | 火山旅梦·复刻 | - | - |
+| act27sre | 火山旅梦·复刻 | - | 火山と雲と夢色の旅路・復刻 |
 | act28side | 不义之财 | Come Catastrophes or Wakes of Vultures | ダーティマネー |
 | act28sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act28sre | 不义之财 复刻 | - | - |
@@ -2623,7 +2623,7 @@ tip: 请善用浏览器的搜索功能
 | act3fun | 愚人节活动 | April Fools' Day Event | エイプリルフール |
 | act3mine | 葫芦谷矿区登录活动 | Gourd Valley Mining Area Login Event | ゴードバレー採鉱区 |
 | act3pray | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |
-| act3switch | 虹彩茶会合作活动 | - | - |
+| act3switch | 虹彩茶会合作活动 | - | なないろのお茶会 |
 | act40sign | 无终奇语签到活动 | - | - |
 | act41sign | 沉沙赫日签到活动 | - | - |
 | act42d0 | 纷争演绎 | Design of Strife | 紛争演繹 |
@@ -2958,7 +2958,7 @@ tip: 请善用浏览器的搜索功能
 | act1bossrush_relic_03 | 超级闪存 | Super Cache | ハイパーストレージ |
 | act1bossrush_relic_04 | 推斥管控 | Repel Control | 相互作用強化 |
 | act1bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
-| act1collection_point_token | “探索者”兑换点数 | - | - |
+| act1collection_point_token | “探索者”兑换点数 | - | 「探索者」交換ポイント |
 | act1d0_token_gold_rep_1 | 赏金猎人金币 | Bounty Coin | ラッキーコイン |
 | act1lock_point_reward | 赛事奖章 | Competition Medals | 競技メダル |
 | act1mainlinebp_token_star | 里程碑碎片 | Milestone Fragment | マイルストーンの欠片 |
@@ -2985,9 +2985,9 @@ tip: 请善用浏览器的搜索功能
 | act25side_token_key01 | 特殊作战许可·α | Special Ops Permit α | 特殊作戦許可α |
 | act25side_token_key02 | 特殊作战许可·β | Special Ops Permit β | 特殊作戦許可β |
 | act26side_token_fragmenta | 圣像碎片 | Holy Statue Fragments | 聖像のかけら |
-| act26side_token_fragmenta_rep_1 | 圣像碎片 | - | - |
+| act26side_token_fragmenta_rep_1 | 圣像碎片 | - | 聖像のかけら |
 | act27side_token_fur | 毛绒绒生物的毛 | Fluffy Critter Wool | ピンクのふわふわ |
-| act27side_token_fur_rep_1 | 毛绒绒生物的毛 | - | - |
+| act27side_token_fur_rep_1 | 毛绒绒生物的毛 | - | ピンクのふわふわ |
 | act28side_token_box | 劣质燃料 | Shoddy Fuel | 粗悪燃料 |
 | act28side_token_box_rep_1 | 劣质燃料 | - | - |
 | act29side_frag_1 | 乐之节符 | Note of Joy | 楽の音符 |
@@ -3664,7 +3664,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_502_nblade | 夜刀的信物 | Yato's Token | ヤトウの印 |
 | p_char_503_rang | 巡林者的信物 | Rangers' Token | レンジャーの印 |
 | premium_material_issue_voucher | 特级材料提货券 | Premium Material Voucher | T4素材交換券 |
-| premium_material_voucher_perm | 特级材料提货券 | - | - |
+| premium_material_voucher_perm | 特级材料提货券 | - | T4素材交換券 |
 | randomDiamondShd_1 | 罗德岛迎春红包 | Half Year Anniversary Red Envelope | お祝いポチ袋 |
 | randomDiamondShd_2 | 庆典礼盒 | Celebratory Box | 感謝祭ギフトボックス |
 | randomMaterialRune_0 | 荒芜行动物资补给 | Operation Barrenland Supplies | 補給物資・「荒廃」 |
@@ -4119,6 +4119,7 @@ tip: 请善用浏览器的搜索功能
 | _SINGLE_29_0_5 | - | To Bloom From a Dim Flame | 枯火に咲く花 |
 | _SINGLE_30_0_1 | - | LIKE ENDING LIKE DEATH | 死か/終わりか |
 | _SINGLE_31_0_1 | - | Anchor In The Deep | 海淵に沈む錨 |
+| _SINGLE_31_0_4 | - | - | 執裁者 |
 | skchr_absin_1 | 执法模式 | Enforcement Mode | 執行態勢 |
 | skchr_absin_2 | 终结连射 | Ultimatum | 告死の弾雨 |
 | skchr_acast_1 | “为我所为” | 'All For Me' | 「我が成すことを成せ」 |
@@ -5298,23 +5299,23 @@ tip: 请善用浏览器的搜索功能
 | sktok_wisdel_wward | 魂灵之影 | Revenant's Shadow | レヴァナントの影 |
 | sktok_wpnsts_1 | 拉特兰式冰淇淋 | Laterano-Style Gelato | ジェラート供給 |
 | sktok_wpnsts_2 | 拉特兰式冰淇淋 | Laterano-Style Gelato | ジェラート供給 |
-| sktok_xbaarm | 支持 | - | - |
-| sktok_xbaaro | 岩锤 | - | - |
-| sktok_xbaask | 炫耀 | - | - |
-| sktok_xbaasm | 引燃 | - | - |
-| sktok_xbabal | 发射缚网 | - | - |
-| sktok_xbabat | 补给 | - | - |
-| sktok_xbabla | 发射 | - | - |
-| sktok_xbabut | 通感 | - | - |
-| sktok_xbadiv | 激励 | - | - |
-| sktok_xbaess | 熏诱 | - | - |
-| sktok_xbaflu | 弹射 | - | - |
-| sktok_xbaice | 喷射 | - | - |
+| sktok_xbaarm | 支持 | - | 支援 |
+| sktok_xbaaro | 岩锤 | - | ロックハンマー |
+| sktok_xbaask | 炫耀 | - | 自慢 |
+| sktok_xbaasm | 引燃 | - | 点火 |
+| sktok_xbabal | 发射缚网 | - | 捕縛網発射 |
+| sktok_xbabat | 补给 | - | 補給 |
+| sktok_xbabla | 发射 | - | 発射 |
+| sktok_xbabut | 通感 | - | 共感覚 |
+| sktok_xbadiv | 激励 | - | 激励 |
+| sktok_xbaess | 熏诱 | - | 引き寄せ |
+| sktok_xbaflu | 弹射 | - | 発射 |
+| sktok_xbaice | 喷射 | - | 噴射 |
 | sktok_xbalis | 发射 | Fire | 発射 |
-| sktok_xbarok | 岩锤 | - | - |
-| sktok_xbasky | 炫耀 | - | - |
-| sktok_xbasmi | 引燃 | - | - |
-| sktok_xbawea | 庇护 | - | - |
+| sktok_xbarok | 岩锤 | - | ロックハンマー |
+| sktok_xbasky | 炫耀 | - | 自慢 |
+| sktok_xbasmi | 引燃 | - | 点火 |
+| sktok_xbawea | 庇护 | - | 加護 |
 | sktok_xbbarir | 阻挡 | Block | 障害物 |
 | sktok_xbbase | 能源设备 | Energy Facility | 動力設備 |
 | sktok_xbbee | 扫描 | Scan | スキャン |
@@ -5330,9 +5331,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_xbember | 激励 | Impel | 激励 |
 | sktok_xbescp | 建立通讯 | Establish Communication | 通信確立 |
 | sktok_xbexbi | 纪念 | Recollect | 記念 |
-| sktok_xbf1g | 采集 | - | - |
-| sktok_xbf2g | 采集 | - | - |
-| sktok_xbf3g | 采集 | - | - |
+| sktok_xbf1g | 采集 | - | 採取 |
+| sktok_xbf2g | 采集 | - | 採取 |
+| sktok_xbf3g | 采集 | - | 採取 |
 | sktok_xbfarm | 稻谷种植 | Plant Rice | 田植え |
 | sktok_xbfarmm | 种植 | Plant | 栽培 |
 | sktok_xbfato | 采集 | Gather | 採取 |
@@ -5347,7 +5348,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_xbhydr | 锁钥 | Key | 閉鎖 |
 | sktok_xbiron | 可供开采 | Harvestable | 採掘可能 |
 | sktok_xbistorm | 冰爆！ | Ice Blast! | 氷爆！ |
-| sktok_xblfen | 畜养 | - | - |
+| sktok_xblfen | 畜养 | - | 畜養 |
 | sktok_xblight | 瞭望 | Scout | 眺望 |
 | sktok_xblrsh | 人员状态改善 | Improve Personnel Status | 戦闘計画改善 |
 | sktok_xbmcv | 引擎核心 | Engine Core | エンジンの核心 |
@@ -5367,14 +5368,14 @@ tip: 请善用浏览器的搜索功能
 | sktok_xbstation | 号令 | Command | 号令 |
 | sktok_xbstone | 可供开采 | Harvestable | 採掘可能 |
 | sktok_xbtent | 援护 | Aid | 援護 |
-| sktok_xbtiro | 采铁 | - | - |
+| sktok_xbtiro | 采铁 | - | 採鉄 |
 | sktok_xbtrap | 陷阱 | Trap | トラップ |
-| sktok_xbtrok | 掘石 | - | - |
+| sktok_xbtrok | 掘石 | - | 掘削 |
 | sktok_xbtrophy | “跳动” | 'Heartbeat' | 「脈動」 |
-| sktok_xbtwal | 阻隔道路 | - | - |
-| sktok_xbtwod | 切木 | - | - |
+| sktok_xbtwal | 阻隔道路 | - | 進路阻害 |
+| sktok_xbtwod | 切木 | - | 伐採 |
 | sktok_xbwall | 防御支撑 | Defensive Support | 防衛の要 |
-| sktok_xbwfg | 抽水 | - | - |
+| sktok_xbwfg | 抽水 | - | 水汲み |
 | sktok_xbwood | 可供开采 | Harvestable | 採掘可能 |
 | a001_01 | 日正当中 | High Noon | 真昼の太陽 |
 | a001_02 | 察言观色 | Sophistication | 八方美人 |
@@ -6203,7 +6204,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_20 | 千嶂边城 | Mountain-Ringed Border Town | 千嶂の辺塞 |
 | camp_r_21 | 新旅店大道 | New Hotel Avenue | ニューホテル通り |
 | camp_r_22 | “离心率”实验室 | 'Eccentricity' Laboratory | 「離心率」ラボ |
-| camp_r_23 | 燃烧街区 | - | - |
+| camp_r_23 | 燃烧街区 | - | 燃える市街地 |
 | camp_r_24 | 冰封雪谷 | - | - |
 | camp_r_25 | 66号航道 | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |
@@ -6854,14 +6855,14 @@ tip: 请善用浏览器的搜索功能
 | act25sre_zone3 | 紧握当下 | The Pursuing of the Present | 在るべき今 |
 | act26side_zone1 | 安布罗修修道院 | Sanctilaminium Ambrosii | アンブロシウス修道院 |
 | act26side_zone2 | 废弃圣堂 | Sacrarium Derelictum | 廃聖堂 |
-| act26sre_zone1 | 安布罗修修道院 | - | - |
-| act26sre_zone2 | 废弃圣堂 | - | - |
+| act26sre_zone1 | 安布罗修修道院 | - | アンブロシウス修道院 |
+| act26sre_zone2 | 废弃圣堂 | - | 廃聖堂 |
 | act27side_zone1 | 温泉假日 | A Holiday at the Hot Springs | 温泉リゾート |
 | act27side_zone2 | 城市寻宝 | Treasurehunting in Siesta | トレジャーハント |
 | act27side_zone3 | 岩浆冲浪 | Surfing the Lava | マグマサーフィン |
-| act27sre_zone1 | 温泉假日 | - | - |
-| act27sre_zone2 | 城市寻宝 | - | - |
-| act27sre_zone3 | 岩浆冲浪 | - | - |
+| act27sre_zone1 | 温泉假日 | - | 温泉リゾート |
+| act27sre_zone2 | 城市寻宝 | - | トレジャーハント |
+| act27sre_zone3 | 岩浆冲浪 | - | マグマサーフィン |
 | act28side_zone1 | 苍白平台 | Anemic Platform | 青白い町 |
 | act28side_zone2 | 黑色舰船 | Black Landship | 黒き艦船 |
 | act28sre_zone1 | 苍白平台 | - | - |
@@ -6953,17 +6954,17 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_16_zone3 | 升降梯整备 | Elevator Maintenance | 昇降機整備 |
 | permanent_sidestory_16_zone4 | 表演赛道 | Exhibition Course | エキシビションコース |
 | permanent_sidestory_16_zone5 | 终极赛道 | Ultimate Course | アルティメットコース |
-| permanent_sidestory_17_zone1 | 温泉假日 | - | - |
-| permanent_sidestory_17_zone2 | 城市寻宝 | - | - |
-| permanent_sidestory_17_zone3 | 岩浆冲浪 | - | - |
+| permanent_sidestory_17_zone1 | 温泉假日 | - | 温泉リゾート |
+| permanent_sidestory_17_zone2 | 城市寻宝 | - | トレジャーハント |
+| permanent_sidestory_17_zone3 | 岩浆冲浪 | - | マグマサーフィン |
 | permanent_sidestory_18_zone1 | 荒烟林沼 | Swamp In The Mists | 煙たなびく沼 |
 | permanent_sidestory_18_zone2 | 记忆灰烬 | Ashes of Memories | 記憶の燃え殻 |
 | permanent_sidestory_19_zone1 | 城中调查 | Case Investigation, Onsite | 城内調査 |
 | permanent_sidestory_19_zone2 | 关外追凶 | Criminal Pursuit, Offsite | 関外追跡 |
 | permanent_sidestory_1_zone1 | 滴水村周边 | Dewville Outskirts | 滴水村周辺 |
 | permanent_sidestory_1_zone2 | 宝藏之路 | Path to Treasure | 宝への道 |
-| permanent_sidestory_20_zone1 | 安布罗修修道院 | - | - |
-| permanent_sidestory_20_zone2 | 废弃圣堂 | - | - |
+| permanent_sidestory_20_zone1 | 安布罗修修道院 | - | アンブロシウス修道院 |
+| permanent_sidestory_20_zone2 | 废弃圣堂 | - | 廃聖堂 |
 | permanent_sidestory_21_zone1 | 连阴雨季 | Stagione delle Piogge | 暗い長雨 |
 | permanent_sidestory_21_zone2 | 铳与秩序 | Pistole e Ordine | 銃と秩序 |
 | permanent_sidestory_21_zone3 | 自诩荒野 | Terra Desolata Autoproclamata | 荒野を名乗る者 |

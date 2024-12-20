@@ -1186,14 +1186,14 @@ tip: 请善用浏览器的搜索功能
 | enemy_7044_xblbug | 振翅源石虫 | Flying Originium Slug | 羽オリジムシ |
 | enemy_7045_xbtd | 冲锋源石虫 | Charging Originium Slug | 突撃オリジムシ |
 | enemy_7046_xbslug | 披甲源石虫 | Armored Originium Slug | アーマーオリジムシ |
-| enemy_7047_xbdit | “流质透镜” | - | - |
-| enemy_7049_xbnum | 放归驮兽 | - | - |
-| enemy_7051_xbcas | 拟南兽 | - | - |
-| enemy_7053_xbcasz | 拟南兽 | - | - |
-| enemy_7054_xbsmi | 香草翼兽 | - | - |
-| enemy_7056_xbsmiz | 香草翼兽 | - | - |
-| enemy_7057_xbrok | 游砂兽 | - | - |
-| enemy_7059_xbrokz | 游砂兽 | - | - |
+| enemy_7047_xbdit | “流质透镜” | - | 「リキッドレンズ」 |
+| enemy_7049_xbnum | 放归驮兽 | - | 放たれた駄獣 |
+| enemy_7051_xbcas | 拟南兽 | - | ナズナモドキ獣 |
+| enemy_7053_xbcasz | 拟南兽 | - | ナズナモドキ獣 |
+| enemy_7054_xbsmi | 香草翼兽 | - | 香草翼獣 |
+| enemy_7056_xbsmiz | 香草翼兽 | - | 香草翼獣 |
+| enemy_7057_xbrok | 游砂兽 | - | 遊砂獣 |
+| enemy_7059_xbrokz | 游砂兽 | - | 遊砂獣 |
 | enemy_8001_flmlod | 熔戈者，护王余火 | Sverdsmeltr, Guardian Ember of the King | スヴェルドメルター、王を守る余炎 |
 | enemy_8001_flmlod_2 | 熔戈者，护王余火 | Sverdsmeltr, Guardian Ember of the King | スヴェルドメルター、王を守る余炎 |
 | enemy_8001_flmlod_3 | 熔戈者，护王余火 | Sverdsmeltr, Guardian Ember of the King | スヴェルドメルター、王を守る余炎 |
