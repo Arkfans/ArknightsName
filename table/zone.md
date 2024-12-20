@@ -133,14 +133,14 @@ tip: 请善用浏览器的搜索功能
 | act25sre_zone3 | 紧握当下 | The Pursuing of the Present | 在るべき今 |
 | act26side_zone1 | 安布罗修修道院 | Sanctilaminium Ambrosii | アンブロシウス修道院 |
 | act26side_zone2 | 废弃圣堂 | Sacrarium Derelictum | 廃聖堂 |
-| act26sre_zone1 | 安布罗修修道院 | - | アンブロシウス修道院 |
-| act26sre_zone2 | 废弃圣堂 | - | 廃聖堂 |
+| act26sre_zone1 | 安布罗修修道院 | Sanctilaminium Ambrosii | アンブロシウス修道院 |
+| act26sre_zone2 | 废弃圣堂 | Sacrarium Derelictum | 廃聖堂 |
 | act27side_zone1 | 温泉假日 | A Holiday at the Hot Springs | 温泉リゾート |
 | act27side_zone2 | 城市寻宝 | Treasurehunting in Siesta | トレジャーハント |
 | act27side_zone3 | 岩浆冲浪 | Surfing the Lava | マグマサーフィン |
-| act27sre_zone1 | 温泉假日 | - | 温泉リゾート |
-| act27sre_zone2 | 城市寻宝 | - | トレジャーハント |
-| act27sre_zone3 | 岩浆冲浪 | - | マグマサーフィン |
+| act27sre_zone1 | 温泉假日 | A Holiday at the Hot Springs | 温泉リゾート |
+| act27sre_zone2 | 城市寻宝 | Treasurehunting in Siesta | トレジャーハント |
+| act27sre_zone3 | 岩浆冲浪 | Surfing the Lava | マグマサーフィン |
 | act28side_zone1 | 苍白平台 | Anemic Platform | 青白い町 |
 | act28side_zone2 | 黑色舰船 | Black Landship | 黒き艦船 |
 | act28sre_zone1 | 苍白平台 | - | - |
@@ -232,17 +232,17 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_16_zone3 | 升降梯整备 | Elevator Maintenance | 昇降機整備 |
 | permanent_sidestory_16_zone4 | 表演赛道 | Exhibition Course | エキシビションコース |
 | permanent_sidestory_16_zone5 | 终极赛道 | Ultimate Course | アルティメットコース |
-| permanent_sidestory_17_zone1 | 温泉假日 | - | 温泉リゾート |
-| permanent_sidestory_17_zone2 | 城市寻宝 | - | トレジャーハント |
-| permanent_sidestory_17_zone3 | 岩浆冲浪 | - | マグマサーフィン |
+| permanent_sidestory_17_zone1 | 温泉假日 | A Holiday at the Hot Springs | 温泉リゾート |
+| permanent_sidestory_17_zone2 | 城市寻宝 | Treasurehunting in Siesta | トレジャーハント |
+| permanent_sidestory_17_zone3 | 岩浆冲浪 | Surfing the Lava | マグマサーフィン |
 | permanent_sidestory_18_zone1 | 荒烟林沼 | Swamp In The Mists | 煙たなびく沼 |
 | permanent_sidestory_18_zone2 | 记忆灰烬 | Ashes of Memories | 記憶の燃え殻 |
 | permanent_sidestory_19_zone1 | 城中调查 | Case Investigation, Onsite | 城内調査 |
 | permanent_sidestory_19_zone2 | 关外追凶 | Criminal Pursuit, Offsite | 関外追跡 |
 | permanent_sidestory_1_zone1 | 滴水村周边 | Dewville Outskirts | 滴水村周辺 |
 | permanent_sidestory_1_zone2 | 宝藏之路 | Path to Treasure | 宝への道 |
-| permanent_sidestory_20_zone1 | 安布罗修修道院 | - | アンブロシウス修道院 |
-| permanent_sidestory_20_zone2 | 废弃圣堂 | - | 廃聖堂 |
+| permanent_sidestory_20_zone1 | 安布罗修修道院 | Sanctilaminium Ambrosii | アンブロシウス修道院 |
+| permanent_sidestory_20_zone2 | 废弃圣堂 | Sacrarium Derelictum | 廃聖堂 |
 | permanent_sidestory_21_zone1 | 连阴雨季 | Stagione delle Piogge | 暗い長雨 |
 | permanent_sidestory_21_zone2 | 铳与秩序 | Pistole e Ordine | 銃と秩序 |
 | permanent_sidestory_21_zone3 | 自诩荒野 | Terra Desolata Autoproclamata | 荒野を名乗る者 |

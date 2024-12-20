@@ -832,7 +832,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_20 | 千嶂边城 | Mountain-Ringed Border Town | 千嶂の辺塞 |
 | camp_r_21 | 新旅店大道 | New Hotel Avenue | ニューホテル通り |
 | camp_r_22 | “离心率”实验室 | 'Eccentricity' Laboratory | 「離心率」ラボ |
-| camp_r_23 | 燃烧街区 | - | 燃える市街地 |
+| camp_r_23 | 燃烧街区 | Burning District | 燃える市街地 |
 | camp_r_24 | 冰封雪谷 | - | - |
 | camp_r_25 | 66号航道 | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |

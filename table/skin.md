@@ -213,7 +213,7 @@ tip: 请善用浏览器的搜索功能
 | char_311_mudrok@ambienceSynesthesia#2 | 黑曜石 | Obsidian | オブシディアン |
 | char_311_mudrok@summer#6 | 静谧午夜 DN06 | Silent Night DN06 | 安息の午夜DN06 |
 | char_311_mudrok@wild#10 | 砾瓦 | - | - |
-| char_322_lmlee@sanrio#1 | 坊间凉茶铺 | - | まちなか涼茶舗 |
+| char_322_lmlee@sanrio#1 | 坊间凉茶铺 | Remedy In A Cup Of Leung Cha | まちなか涼茶舗 |
 | char_322_lmlee@witch#3 | 手到牌来 | Trust Your Eyes | お目を拝借 |
 | char_326_glacus@ghost#1 | 广场扫荡客 | Exterminator in the Square | 広場の掃討者 |
 | char_328_cammou@witch#2 | 安息处的怪盗 | Grave Thief | 霊園の怪盗 |
@@ -248,7 +248,7 @@ tip: 请善用浏览器的搜索功能
 | char_373_lionhd@snow#3 | 希望巡游 | Hope Cruise | 希望の運び手 |
 | char_373_lionhd@wild#3 | 宝藏行家 | Finder in the Rough | 秘宝の専門家 |
 | char_376_therex@marthe#7 | 双料四分卫 | Dual-threat Quarterback | スーパークォーターバック |
-| char_377_gdglow@sanrio#1 | 花房茶话会 | - | ハローティーパーティ |
+| char_377_gdglow@sanrio#1 | 花房茶话会 | Party In The Garden | ハローティーパーティ |
 | char_377_gdglow@snow#5 | 喜夜侍者 | Maiden for the Bright Night | しあわせの使い |
 | char_377_gdglow@summer#12 | 夏卉 FA394 | Summer Flowers FA394 | 夏の花弁FA394 |
 | char_378_asbest@whirlwind#3 | 幽谷奏鸣 | Glen Sonata | グレンソナタ |
@@ -306,10 +306,10 @@ tip: 请善用浏览器的搜索功能
 | char_4083_chimes@yun#5 | 松间月 | - | - |
 | char_4087_ines@boc#8 | 燃烧天穹下 | Under the Flaming Dome | 燃ゆる蒼穹の下 |
 | char_4088_hodrer@sightseer#1 | 沉思之庭 | - | - |
-| char_4091_ulika@sanrio#1 | 云上直播间 | - | 雲の上から配信中！ |
-| char_4100_caper@summer#18 | 夏卉 FA083 | - | 夏の花弁FA083 |
+| char_4091_ulika@sanrio#1 | 云上直播间 | Stream Above The Clouds | 雲の上から配信中！ |
+| char_4100_caper@summer#18 | 夏卉 FA083 | Summer Flowers FA083 | 夏の花弁FA083 |
 | char_4104_coldst@striker#3 | 破晓 | - | - |
-| char_4106_bryota@epoque#34 | 动感 | - | 躍動 |
+| char_4106_bryota@epoque#34 | 动感 | Vibrant | 躍動 |
 | char_4109_baslin@witch#5 | 夜空星芒 | - | - |
 | char_4114_harold@snow#7 | 邀雪 | - | - |
 | char_4116_blkkgt@witch#5 | 暗月的影子 | - | - |
@@ -370,5 +370,5 @@ tip: 请善用浏览器的搜索功能
 | char_492_quercu@witch#4 | 树影吟游 | The Bard's Tale | 木陰の吟遊詩人 |
 | char_496_wildmn@epoque#16 | 正义缔造者 | Justice Maker | ジャスティスメーカー |
 | char_497_ctable@nian#9 | 灯如昼 | Illumination That of Daylights | 灯如昼 |
-| char_498_inside@kitchen#2 | 甜品大奖 | - | スイーツ大賞 |
+| char_498_inside@kitchen#2 | 甜品大奖 | Sweet Jackpot | スイーツ大賞 |
 | char_499_kaitou@epoque#37 | 斜照 | - | - |

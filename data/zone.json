@@ -636,10 +636,12 @@
     "zh_CN": "废弃圣堂"
   },
   "act26sre_zone1": {
+    "en_US": "Sanctilaminium Ambrosii",
     "ja_JP": "アンブロシウス修道院",
     "zh_CN": "安布罗修修道院"
   },
   "act26sre_zone2": {
+    "en_US": "Sacrarium Derelictum",
     "ja_JP": "廃聖堂",
     "zh_CN": "废弃圣堂"
   },
@@ -659,14 +661,17 @@
     "zh_CN": "岩浆冲浪"
   },
   "act27sre_zone1": {
+    "en_US": "A Holiday at the Hot Springs",
     "ja_JP": "温泉リゾート",
     "zh_CN": "温泉假日"
   },
   "act27sre_zone2": {
+    "en_US": "Treasurehunting in Siesta",
     "ja_JP": "トレジャーハント",
     "zh_CN": "城市寻宝"
   },
   "act27sre_zone3": {
+    "en_US": "Surfing the Lava",
     "ja_JP": "マグマサーフィン",
     "zh_CN": "岩浆冲浪"
   },
@@ -1088,14 +1093,17 @@
     "zh_CN": "终极赛道"
   },
   "permanent_sidestory_17_zone1": {
+    "en_US": "A Holiday at the Hot Springs",
     "ja_JP": "温泉リゾート",
     "zh_CN": "温泉假日"
   },
   "permanent_sidestory_17_zone2": {
+    "en_US": "Treasurehunting in Siesta",
     "ja_JP": "トレジャーハント",
     "zh_CN": "城市寻宝"
   },
   "permanent_sidestory_17_zone3": {
+    "en_US": "Surfing the Lava",
     "ja_JP": "マグマサーフィン",
     "zh_CN": "岩浆冲浪"
   },
@@ -1130,10 +1138,12 @@
     "zh_CN": "宝藏之路"
   },
   "permanent_sidestory_20_zone1": {
+    "en_US": "Sanctilaminium Ambrosii",
     "ja_JP": "アンブロシウス修道院",
     "zh_CN": "安布罗修修道院"
   },
   "permanent_sidestory_20_zone2": {
+    "en_US": "Sacrarium Derelictum",
     "ja_JP": "廃聖堂",
     "zh_CN": "废弃圣堂"
   },

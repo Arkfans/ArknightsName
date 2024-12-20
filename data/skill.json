@@ -5487,50 +5487,62 @@
     "zh_CN": "拉特兰式冰淇淋"
   },
   "sktok_xbaarm": {
+    "en_US": "Support",
     "ja_JP": "支援",
     "zh_CN": "支持"
   },
   "sktok_xbaaro": {
+    "en_US": "Rock Hammer",
     "ja_JP": "ロックハンマー",
     "zh_CN": "岩锤"
   },
   "sktok_xbaask": {
+    "en_US": "Dazzle",
     "ja_JP": "自慢",
     "zh_CN": "炫耀"
   },
   "sktok_xbaasm": {
+    "en_US": "Ignite",
     "ja_JP": "点火",
     "zh_CN": "引燃"
   },
   "sktok_xbabal": {
+    "en_US": "Fire Net",
     "ja_JP": "捕縛網発射",
     "zh_CN": "发射缚网"
   },
   "sktok_xbabat": {
+    "en_US": "Resupply",
     "ja_JP": "補給",
     "zh_CN": "补给"
   },
   "sktok_xbabla": {
+    "en_US": "Fire",
     "ja_JP": "発射",
     "zh_CN": "发射"
   },
   "sktok_xbabut": {
+    "en_US": "Synesthesia",
     "ja_JP": "共感覚",
     "zh_CN": "通感"
   },
   "sktok_xbadiv": {
+    "en_US": "Impel",
     "ja_JP": "激励",
     "zh_CN": "激励"
   },
   "sktok_xbaess": {
+    "en_US": "Entice",
     "ja_JP": "引き寄せ",
     "zh_CN": "熏诱"
   },
   "sktok_xbaflu": {
+    "en_US": "Launch",
     "ja_JP": "発射",
     "zh_CN": "弹射"
   },
   "sktok_xbaice": {
+    "en_US": "Burst",
     "ja_JP": "噴射",
     "zh_CN": "喷射"
   },
@@ -5540,18 +5552,22 @@
     "zh_CN": "发射"
   },
   "sktok_xbarok": {
+    "en_US": "Rock Hammer",
     "ja_JP": "ロックハンマー",
     "zh_CN": "岩锤"
   },
   "sktok_xbasky": {
+    "en_US": "Dazzle",
     "ja_JP": "自慢",
     "zh_CN": "炫耀"
   },
   "sktok_xbasmi": {
+    "en_US": "Ignite",
     "ja_JP": "点火",
     "zh_CN": "引燃"
   },
   "sktok_xbawea": {
+    "en_US": "Sanctuary",
     "ja_JP": "加護",
     "zh_CN": "庇护"
   },
@@ -5631,14 +5647,17 @@
     "zh_CN": "纪念"
   },
   "sktok_xbf1g": {
+    "en_US": "Gather",
     "ja_JP": "採取",
     "zh_CN": "采集"
   },
   "sktok_xbf2g": {
+    "en_US": "Gather",
     "ja_JP": "採取",
     "zh_CN": "采集"
   },
   "sktok_xbf3g": {
+    "en_US": "Gather",
     "ja_JP": "採取",
     "zh_CN": "采集"
   },
@@ -5713,6 +5732,7 @@
     "zh_CN": "冰爆！"
   },
   "sktok_xblfen": {
+    "en_US": "Raise",
     "ja_JP": "畜養",
     "zh_CN": "畜养"
   },
@@ -5812,6 +5832,7 @@
     "zh_CN": "援护"
   },
   "sktok_xbtiro": {
+    "en_US": "Iron Mining",
     "ja_JP": "採鉄",
     "zh_CN": "采铁"
   },
@@ -5821,6 +5842,7 @@
     "zh_CN": "陷阱"
   },
   "sktok_xbtrok": {
+    "en_US": "Quarrying",
     "ja_JP": "掘削",
     "zh_CN": "掘石"
   },
@@ -5830,10 +5852,12 @@
     "zh_CN": "“跳动”"
   },
   "sktok_xbtwal": {
+    "en_US": "Roadblock",
     "ja_JP": "進路阻害",
     "zh_CN": "阻隔道路"
   },
   "sktok_xbtwod": {
+    "en_US": "Wood Chopping",
     "ja_JP": "伐採",
     "zh_CN": "切木"
   },
@@ -5843,6 +5867,7 @@
     "zh_CN": "防御支撑"
   },
   "sktok_xbwfg": {
+    "en_US": "Pump Water",
     "ja_JP": "水汲み",
     "zh_CN": "抽水"
   },

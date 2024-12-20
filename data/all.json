@@ -5786,6 +5786,7 @@
   "trap_487_xblfen": {
     "type": "TRAP",
     "names": {
+      "en_US": "Large Corral",
       "ja_JP": "大型畜舎",
       "zh_CN": "大型兽栏"
     }
@@ -5793,6 +5794,7 @@
   "trap_488_xbtwod": {
     "type": "TRAP",
     "names": {
+      "en_US": "Auto Sawing Hub",
       "ja_JP": "全自動伐採基地",
       "zh_CN": "全自动切木站"
     }
@@ -5800,6 +5802,7 @@
   "trap_489_xbtrok": {
     "type": "TRAP",
     "names": {
+      "en_US": "Auto Quarry Hub",
       "ja_JP": "全自動採石基地",
       "zh_CN": "全自动掘石站"
     }
@@ -5807,6 +5810,7 @@
   "trap_490_xbtiro": {
     "type": "TRAP",
     "names": {
+      "en_US": "Auto Mining Hub",
       "ja_JP": "全自動採鉱基地",
       "zh_CN": "全自动采铁站"
     }
@@ -5814,6 +5818,7 @@
   "trap_491_xbtwal": {
     "type": "TRAP",
     "names": {
+      "en_US": "Phantomic Barrier",
       "ja_JP": "虚影障壁",
       "zh_CN": "虚影壁障"
     }
@@ -5821,6 +5826,7 @@
   "trap_492_xbamai": {
     "type": "TRAP",
     "names": {
+      "en_US": "Discovery Casket",
       "ja_JP": "狩猟ボックス",
       "zh_CN": "狩闻匣"
     }
@@ -5828,6 +5834,7 @@
   "trap_493_xbabal": {
     "type": "TRAP",
     "names": {
+      "en_US": "Hunting Net Launcher",
       "ja_JP": "狩猟用発射台",
       "zh_CN": "追猎发射台"
     }
@@ -5835,6 +5842,7 @@
   "trap_494_xbasky": {
     "type": "TRAP",
     "names": {
+      "en_US": "Thale Calyx",
       "ja_JP": "ナズナモドキの花",
       "zh_CN": "拟南盏"
     }
@@ -5842,6 +5850,7 @@
   "trap_495_xbasmi": {
     "type": "TRAP",
     "names": {
+      "en_US": "Spicy Pollen",
       "ja_JP": "香草の粉",
       "zh_CN": "草香粉"
     }
@@ -5849,6 +5858,7 @@
   "trap_496_xbaasm": {
     "type": "TRAP",
     "names": {
+      "en_US": "Rare Spicy Pollen",
       "ja_JP": "珍しい香草の粉",
       "zh_CN": "稀有·草香粉"
     }
@@ -5856,6 +5866,7 @@
   "trap_497_xbarok": {
     "type": "TRAP",
     "names": {
+      "en_US": "Rock Hammer",
       "ja_JP": "ロックハンマー",
       "zh_CN": "岩锤"
     }
@@ -5863,6 +5874,7 @@
   "trap_498_xbaaro": {
     "type": "TRAP",
     "names": {
+      "en_US": "Rare Rock Hammer",
       "ja_JP": "珍しいロックハンマー",
       "zh_CN": "稀有·岩锤"
     }
@@ -5870,6 +5882,7 @@
   "trap_499_xbaask": {
     "type": "TRAP",
     "names": {
+      "en_US": "Rare Thale Calyx",
       "ja_JP": "珍しいナズナモドキの花",
       "zh_CN": "稀有·拟南盏"
     }
@@ -5877,6 +5890,7 @@
   "trap_500_xbaflu": {
     "type": "TRAP",
     "names": {
+      "en_US": "Glow Stick Launcher",
       "ja_JP": "ケミカルライト発射装置",
       "zh_CN": "荧光棒弹射装置"
     }
@@ -5884,6 +5898,7 @@
   "trap_501_xbaarm": {
     "type": "TRAP",
     "names": {
+      "en_US": "Exoskeleton",
       "ja_JP": "外骨格",
       "zh_CN": "外骨骼"
     }
@@ -5891,6 +5906,7 @@
   "trap_502_xbaice": {
     "type": "TRAP",
     "names": {
+      "en_US": "Ice Blaster",
       "ja_JP": "氷瀑噴射缶",
       "zh_CN": "冰瀑喷射罐"
     }
@@ -5898,6 +5914,7 @@
   "trap_503_xbabla": {
     "type": "TRAP",
     "names": {
+      "en_US": "Necrosis Transmitter",
       "ja_JP": "壊死損傷発射装置",
       "zh_CN": "凋亡发射器"
     }
@@ -5905,6 +5922,7 @@
   "trap_504_xbaess": {
     "type": "TRAP",
     "names": {
+      "en_US": "Barreled Perfume",
       "ja_JP": "樽詰め香液",
       "zh_CN": "桶装液香"
     }
@@ -5912,6 +5930,7 @@
   "trap_505_xbawea": {
     "type": "TRAP",
     "names": {
+      "en_US": "Omni Umbrella",
       "ja_JP": "パラソルマシン",
       "zh_CN": "庇护制造器"
     }
@@ -5919,6 +5938,7 @@
   "trap_506_xbadiv": {
     "type": "TRAP",
     "names": {
+      "en_US": "Hunting Rations",
       "ja_JP": "猛獣のエサ",
       "zh_CN": "驯兽口粮"
     }
@@ -5926,6 +5946,7 @@
   "trap_507_xbabut": {
     "type": "TRAP",
     "names": {
+      "en_US": "Neural Chain",
       "ja_JP": "狩猟用発射台",
       "zh_CN": "感知链接器"
     }
@@ -5933,6 +5954,7 @@
   "trap_508_xbabat": {
     "type": "TRAP",
     "names": {
+      "en_US": "Operation Kit",
       "ja_JP": "作戦補給品",
       "zh_CN": "行动套装"
     }
@@ -5940,6 +5962,7 @@
   "trap_509_xbf1g": {
     "type": "TRAP",
     "names": {
+      "en_US": "Deluxe Sawing Harvester Hub",
       "ja_JP": "既製品の木材採取基地",
       "zh_CN": "木材采集站·采购"
     }
@@ -5947,6 +5970,7 @@
   "trap_510_xbf2g": {
     "type": "TRAP",
     "names": {
+      "en_US": "Deluxe Quarrying Harvester Hub",
       "ja_JP": "既製品の石材採取基地",
       "zh_CN": "石材采集站·采购"
     }
@@ -5954,6 +5978,7 @@
   "trap_511_xbf3g": {
     "type": "TRAP",
     "names": {
+      "en_US": "Deluxe Mining Harvester Hub",
       "ja_JP": "既製品の鉄鉱石採取基地",
       "zh_CN": "铁矿采集站·采购"
     }
@@ -5961,6 +5986,7 @@
   "trap_512_xbwfg": {
     "type": "TRAP",
     "names": {
+      "en_US": "Deluxe Crabbie Pumpie",
       "ja_JP": "既製品のカニカニポンプ",
       "zh_CN": "蟹蟹抽水泵·采购"
     }
@@ -8202,6 +8228,7 @@
   "char_322_lmlee@sanrio#1": {
     "type": "SKIN",
     "names": {
+      "en_US": "Remedy In A Cup Of Leung Cha",
       "ja_JP": "まちなか涼茶舗",
       "zh_CN": "坊间凉茶铺"
     }
@@ -8481,6 +8508,7 @@
   "char_377_gdglow@sanrio#1": {
     "type": "SKIN",
     "names": {
+      "en_US": "Party In The Garden",
       "ja_JP": "ハローティーパーティ",
       "zh_CN": "花房茶话会"
     }
@@ -8928,6 +8956,7 @@
   "char_4091_ulika@sanrio#1": {
     "type": "SKIN",
     "names": {
+      "en_US": "Stream Above The Clouds",
       "ja_JP": "雲の上から配信中！",
       "zh_CN": "云上直播间"
     }
@@ -8935,6 +8964,7 @@
   "char_4100_caper@summer#18": {
     "type": "SKIN",
     "names": {
+      "en_US": "Summer Flowers FA083",
       "ja_JP": "夏の花弁FA083",
       "zh_CN": "夏卉 FA083"
     }
@@ -8948,6 +8978,7 @@
   "char_4106_bryota@epoque#34": {
     "type": "SKIN",
     "names": {
+      "en_US": "Vibrant",
       "ja_JP": "躍動",
       "zh_CN": "动感"
     }
@@ -9419,6 +9450,7 @@
   "char_498_inside@kitchen#2": {
     "type": "SKIN",
     "names": {
+      "en_US": "Sweet Jackpot",
       "ja_JP": "スイーツ大賞",
       "zh_CN": "甜品大奖"
     }
@@ -18812,6 +18844,7 @@
   "enemy_7047_xbdit": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Liquid Shifter'",
       "ja_JP": "「リキッドレンズ」",
       "zh_CN": "“流质透镜”"
     }
@@ -18819,6 +18852,7 @@
   "enemy_7049_xbnum": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Rogue Burdenbeast",
       "ja_JP": "放たれた駄獣",
       "zh_CN": "放归驮兽"
     }
@@ -18826,6 +18860,7 @@
   "enemy_7051_xbcas": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Thalebeast",
       "ja_JP": "ナズナモドキ獣",
       "zh_CN": "拟南兽"
     }
@@ -18833,6 +18868,7 @@
   "enemy_7053_xbcasz": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Thalebeast",
       "ja_JP": "ナズナモドキ獣",
       "zh_CN": "拟南兽"
     }
@@ -18840,6 +18876,7 @@
   "enemy_7054_xbsmi": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Vanillawing",
       "ja_JP": "香草翼獣",
       "zh_CN": "香草翼兽"
     }
@@ -18847,6 +18884,7 @@
   "enemy_7056_xbsmiz": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Vanillawing",
       "ja_JP": "香草翼獣",
       "zh_CN": "香草翼兽"
     }
@@ -18854,6 +18892,7 @@
   "enemy_7057_xbrok": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Quicksand Beast",
       "ja_JP": "遊砂獣",
       "zh_CN": "游砂兽"
     }
@@ -18861,6 +18900,7 @@
   "enemy_7059_xbrokz": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Quicksand Beast",
       "ja_JP": "遊砂獣",
       "zh_CN": "游砂兽"
     }
@@ -19562,6 +19602,7 @@
   "act1collection": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Limited-time Score Mission",
       "ja_JP": "期間限定Pt任務",
       "zh_CN": "限时积分任务"
     }
@@ -19853,6 +19894,7 @@
   "act26sre": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Hortus de Escapismo - Retrospection",
       "ja_JP": "空想の花庭・復刻",
       "zh_CN": "空想花庭·复刻"
     }
@@ -19876,6 +19918,7 @@
   "act27sre": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "So Long, Adele: Home Away From Home - Retrospection",
       "ja_JP": "火山と雲と夢色の旅路・復刻",
       "zh_CN": "火山旅梦·复刻"
     }
@@ -20219,6 +20262,7 @@
   "act3switch": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Sweetness\nOverload\nCollaboration\nEvent",
       "ja_JP": "なないろのお茶会",
       "zh_CN": "虹彩茶会合作活动"
     }
@@ -22847,6 +22891,7 @@
   "act1collection_point_token": {
     "type": "ITEM",
     "names": {
+      "en_US": "'Expeditioners' Redemption Point",
       "ja_JP": "「探索者」交換ポイント",
       "zh_CN": "“探索者”兑换点数"
     }
@@ -23058,6 +23103,7 @@
   "act26side_token_fragmenta_rep_1": {
     "type": "ITEM",
     "names": {
+      "en_US": "Holy Statue Fragments",
       "ja_JP": "聖像のかけら",
       "zh_CN": "圣像碎片"
     }
@@ -23073,6 +23119,7 @@
   "act27side_token_fur_rep_1": {
     "type": "ITEM",
     "names": {
+      "en_US": "Fluffy Critter Wool",
       "ja_JP": "ピンクのふわふわ",
       "zh_CN": "毛绒绒生物的毛"
     }
@@ -28376,6 +28423,7 @@
   "premium_material_voucher_perm": {
     "type": "ITEM",
     "names": {
+      "en_US": "Premium Material Voucher",
       "ja_JP": "T4素材交換券",
       "zh_CN": "特级材料提货券"
     }
@@ -31659,6 +31707,7 @@
   "_SINGLE_31_0_4": {
     "type": "POOL",
     "names": {
+      "en_US": "Arbiter Aequissimus",
       "ja_JP": "執裁者"
     }
   },
@@ -40689,6 +40738,7 @@
   "sktok_xbaarm": {
     "type": "SKILL",
     "names": {
+      "en_US": "Support",
       "ja_JP": "支援",
       "zh_CN": "支持"
     }
@@ -40696,6 +40746,7 @@
   "sktok_xbaaro": {
     "type": "SKILL",
     "names": {
+      "en_US": "Rock Hammer",
       "ja_JP": "ロックハンマー",
       "zh_CN": "岩锤"
     }
@@ -40703,6 +40754,7 @@
   "sktok_xbaask": {
     "type": "SKILL",
     "names": {
+      "en_US": "Dazzle",
       "ja_JP": "自慢",
       "zh_CN": "炫耀"
     }
@@ -40710,6 +40762,7 @@
   "sktok_xbaasm": {
     "type": "SKILL",
     "names": {
+      "en_US": "Ignite",
       "ja_JP": "点火",
       "zh_CN": "引燃"
     }
@@ -40717,6 +40770,7 @@
   "sktok_xbabal": {
     "type": "SKILL",
     "names": {
+      "en_US": "Fire Net",
       "ja_JP": "捕縛網発射",
       "zh_CN": "发射缚网"
     }
@@ -40724,6 +40778,7 @@
   "sktok_xbabat": {
     "type": "SKILL",
     "names": {
+      "en_US": "Resupply",
       "ja_JP": "補給",
       "zh_CN": "补给"
     }
@@ -40731,6 +40786,7 @@
   "sktok_xbabla": {
     "type": "SKILL",
     "names": {
+      "en_US": "Fire",
       "ja_JP": "発射",
       "zh_CN": "发射"
     }
@@ -40738,6 +40794,7 @@
   "sktok_xbabut": {
     "type": "SKILL",
     "names": {
+      "en_US": "Synesthesia",
       "ja_JP": "共感覚",
       "zh_CN": "通感"
     }
@@ -40745,6 +40802,7 @@
   "sktok_xbadiv": {
     "type": "SKILL",
     "names": {
+      "en_US": "Impel",
       "ja_JP": "激励",
       "zh_CN": "激励"
     }
@@ -40752,6 +40810,7 @@
   "sktok_xbaess": {
     "type": "SKILL",
     "names": {
+      "en_US": "Entice",
       "ja_JP": "引き寄せ",
       "zh_CN": "熏诱"
     }
@@ -40759,6 +40818,7 @@
   "sktok_xbaflu": {
     "type": "SKILL",
     "names": {
+      "en_US": "Launch",
       "ja_JP": "発射",
       "zh_CN": "弹射"
     }
@@ -40766,6 +40826,7 @@
   "sktok_xbaice": {
     "type": "SKILL",
     "names": {
+      "en_US": "Burst",
       "ja_JP": "噴射",
       "zh_CN": "喷射"
     }
@@ -40781,6 +40842,7 @@
   "sktok_xbarok": {
     "type": "SKILL",
     "names": {
+      "en_US": "Rock Hammer",
       "ja_JP": "ロックハンマー",
       "zh_CN": "岩锤"
     }
@@ -40788,6 +40850,7 @@
   "sktok_xbasky": {
     "type": "SKILL",
     "names": {
+      "en_US": "Dazzle",
       "ja_JP": "自慢",
       "zh_CN": "炫耀"
     }
@@ -40795,6 +40858,7 @@
   "sktok_xbasmi": {
     "type": "SKILL",
     "names": {
+      "en_US": "Ignite",
       "ja_JP": "点火",
       "zh_CN": "引燃"
     }
@@ -40802,6 +40866,7 @@
   "sktok_xbawea": {
     "type": "SKILL",
     "names": {
+      "en_US": "Sanctuary",
       "ja_JP": "加護",
       "zh_CN": "庇护"
     }
@@ -40929,6 +40994,7 @@
   "sktok_xbf1g": {
     "type": "SKILL",
     "names": {
+      "en_US": "Gather",
       "ja_JP": "採取",
       "zh_CN": "采集"
     }
@@ -40936,6 +41002,7 @@
   "sktok_xbf2g": {
     "type": "SKILL",
     "names": {
+      "en_US": "Gather",
       "ja_JP": "採取",
       "zh_CN": "采集"
     }
@@ -40943,6 +41010,7 @@
   "sktok_xbf3g": {
     "type": "SKILL",
     "names": {
+      "en_US": "Gather",
       "ja_JP": "採取",
       "zh_CN": "采集"
     }
@@ -41062,6 +41130,7 @@
   "sktok_xblfen": {
     "type": "SKILL",
     "names": {
+      "en_US": "Raise",
       "ja_JP": "畜養",
       "zh_CN": "畜养"
     }
@@ -41221,6 +41290,7 @@
   "sktok_xbtiro": {
     "type": "SKILL",
     "names": {
+      "en_US": "Iron Mining",
       "ja_JP": "採鉄",
       "zh_CN": "采铁"
     }
@@ -41236,6 +41306,7 @@
   "sktok_xbtrok": {
     "type": "SKILL",
     "names": {
+      "en_US": "Quarrying",
       "ja_JP": "掘削",
       "zh_CN": "掘石"
     }
@@ -41251,6 +41322,7 @@
   "sktok_xbtwal": {
     "type": "SKILL",
     "names": {
+      "en_US": "Roadblock",
       "ja_JP": "進路阻害",
       "zh_CN": "阻隔道路"
     }
@@ -41258,6 +41330,7 @@
   "sktok_xbtwod": {
     "type": "SKILL",
     "names": {
+      "en_US": "Wood Chopping",
       "ja_JP": "伐採",
       "zh_CN": "切木"
     }
@@ -41273,6 +41346,7 @@
   "sktok_xbwfg": {
     "type": "SKILL",
     "names": {
+      "en_US": "Pump Water",
       "ja_JP": "水汲み",
       "zh_CN": "抽水"
     }
@@ -47694,6 +47768,7 @@
   "camp_r_23": {
     "type": "STAGE",
     "names": {
+      "en_US": "Burning District",
       "ja_JP": "燃える市街地",
       "zh_CN": "燃烧街区"
     }
@@ -52853,6 +52928,7 @@
   "act26sre_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Sanctilaminium Ambrosii",
       "ja_JP": "アンブロシウス修道院",
       "zh_CN": "安布罗修修道院"
     }
@@ -52860,6 +52936,7 @@
   "act26sre_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Sacrarium Derelictum",
       "ja_JP": "廃聖堂",
       "zh_CN": "废弃圣堂"
     }
@@ -52891,6 +52968,7 @@
   "act27sre_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "A Holiday at the Hot Springs",
       "ja_JP": "温泉リゾート",
       "zh_CN": "温泉假日"
     }
@@ -52898,6 +52976,7 @@
   "act27sre_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Treasurehunting in Siesta",
       "ja_JP": "トレジャーハント",
       "zh_CN": "城市寻宝"
     }
@@ -52905,6 +52984,7 @@
   "act27sre_zone3": {
     "type": "ZONE",
     "names": {
+      "en_US": "Surfing the Lava",
       "ja_JP": "マグマサーフィン",
       "zh_CN": "岩浆冲浪"
     }
@@ -53602,6 +53682,7 @@
   "permanent_sidestory_17_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "A Holiday at the Hot Springs",
       "ja_JP": "温泉リゾート",
       "zh_CN": "温泉假日"
     }
@@ -53609,6 +53690,7 @@
   "permanent_sidestory_17_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Treasurehunting in Siesta",
       "ja_JP": "トレジャーハント",
       "zh_CN": "城市寻宝"
     }
@@ -53616,6 +53698,7 @@
   "permanent_sidestory_17_zone3": {
     "type": "ZONE",
     "names": {
+      "en_US": "Surfing the Lava",
       "ja_JP": "マグマサーフィン",
       "zh_CN": "岩浆冲浪"
     }
@@ -53671,6 +53754,7 @@
   "permanent_sidestory_20_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Sanctilaminium Ambrosii",
       "ja_JP": "アンブロシウス修道院",
       "zh_CN": "安布罗修修道院"
     }
@@ -53678,6 +53762,7 @@
   "permanent_sidestory_20_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Sacrarium Derelictum",
       "ja_JP": "廃聖堂",
       "zh_CN": "废弃圣堂"
     }

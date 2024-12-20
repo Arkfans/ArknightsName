@@ -1199,6 +1199,7 @@
     "zh_CN": "数据黑盒"
   },
   "act1collection_point_token": {
+    "en_US": "'Expeditioners' Redemption Point",
     "ja_JP": "「探索者」交換ポイント",
     "zh_CN": "“探索者”兑换点数"
   },
@@ -1329,6 +1330,7 @@
     "zh_CN": "圣像碎片"
   },
   "act26side_token_fragmenta_rep_1": {
+    "en_US": "Holy Statue Fragments",
     "ja_JP": "聖像のかけら",
     "zh_CN": "圣像碎片"
   },
@@ -1338,6 +1340,7 @@
     "zh_CN": "毛绒绒生物的毛"
   },
   "act27side_token_fur_rep_1": {
+    "en_US": "Fluffy Critter Wool",
     "ja_JP": "ピンクのふわふわ",
     "zh_CN": "毛绒绒生物的毛"
   },
@@ -4619,6 +4622,7 @@
     "zh_CN": "特级材料提货券"
   },
   "premium_material_voucher_perm": {
+    "en_US": "Premium Material Voucher",
     "ja_JP": "T4素材交換券",
     "zh_CN": "特级材料提货券"
   },

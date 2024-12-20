@@ -1463,106 +1463,132 @@
     "zh_CN": "加速块"
   },
   "trap_487_xblfen": {
+    "en_US": "Large Corral",
     "ja_JP": "大型畜舎",
     "zh_CN": "大型兽栏"
   },
   "trap_488_xbtwod": {
+    "en_US": "Auto Sawing Hub",
     "ja_JP": "全自動伐採基地",
     "zh_CN": "全自动切木站"
   },
   "trap_489_xbtrok": {
+    "en_US": "Auto Quarry Hub",
     "ja_JP": "全自動採石基地",
     "zh_CN": "全自动掘石站"
   },
   "trap_490_xbtiro": {
+    "en_US": "Auto Mining Hub",
     "ja_JP": "全自動採鉱基地",
     "zh_CN": "全自动采铁站"
   },
   "trap_491_xbtwal": {
+    "en_US": "Phantomic Barrier",
     "ja_JP": "虚影障壁",
     "zh_CN": "虚影壁障"
   },
   "trap_492_xbamai": {
+    "en_US": "Discovery Casket",
     "ja_JP": "狩猟ボックス",
     "zh_CN": "狩闻匣"
   },
   "trap_493_xbabal": {
+    "en_US": "Hunting Net Launcher",
     "ja_JP": "狩猟用発射台",
     "zh_CN": "追猎发射台"
   },
   "trap_494_xbasky": {
+    "en_US": "Thale Calyx",
     "ja_JP": "ナズナモドキの花",
     "zh_CN": "拟南盏"
   },
   "trap_495_xbasmi": {
+    "en_US": "Spicy Pollen",
     "ja_JP": "香草の粉",
     "zh_CN": "草香粉"
   },
   "trap_496_xbaasm": {
+    "en_US": "Rare Spicy Pollen",
     "ja_JP": "珍しい香草の粉",
     "zh_CN": "稀有·草香粉"
   },
   "trap_497_xbarok": {
+    "en_US": "Rock Hammer",
     "ja_JP": "ロックハンマー",
     "zh_CN": "岩锤"
   },
   "trap_498_xbaaro": {
+    "en_US": "Rare Rock Hammer",
     "ja_JP": "珍しいロックハンマー",
     "zh_CN": "稀有·岩锤"
   },
   "trap_499_xbaask": {
+    "en_US": "Rare Thale Calyx",
     "ja_JP": "珍しいナズナモドキの花",
     "zh_CN": "稀有·拟南盏"
   },
   "trap_500_xbaflu": {
+    "en_US": "Glow Stick Launcher",
     "ja_JP": "ケミカルライト発射装置",
     "zh_CN": "荧光棒弹射装置"
   },
   "trap_501_xbaarm": {
+    "en_US": "Exoskeleton",
     "ja_JP": "外骨格",
     "zh_CN": "外骨骼"
   },
   "trap_502_xbaice": {
+    "en_US": "Ice Blaster",
     "ja_JP": "氷瀑噴射缶",
     "zh_CN": "冰瀑喷射罐"
   },
   "trap_503_xbabla": {
+    "en_US": "Necrosis Transmitter",
     "ja_JP": "壊死損傷発射装置",
     "zh_CN": "凋亡发射器"
   },
   "trap_504_xbaess": {
+    "en_US": "Barreled Perfume",
     "ja_JP": "樽詰め香液",
     "zh_CN": "桶装液香"
   },
   "trap_505_xbawea": {
+    "en_US": "Omni Umbrella",
     "ja_JP": "パラソルマシン",
     "zh_CN": "庇护制造器"
   },
   "trap_506_xbadiv": {
+    "en_US": "Hunting Rations",
     "ja_JP": "猛獣のエサ",
     "zh_CN": "驯兽口粮"
   },
   "trap_507_xbabut": {
+    "en_US": "Neural Chain",
     "ja_JP": "狩猟用発射台",
     "zh_CN": "感知链接器"
   },
   "trap_508_xbabat": {
+    "en_US": "Operation Kit",
     "ja_JP": "作戦補給品",
     "zh_CN": "行动套装"
   },
   "trap_509_xbf1g": {
+    "en_US": "Deluxe Sawing Harvester Hub",
     "ja_JP": "既製品の木材採取基地",
     "zh_CN": "木材采集站·采购"
   },
   "trap_510_xbf2g": {
+    "en_US": "Deluxe Quarrying Harvester Hub",
     "ja_JP": "既製品の石材採取基地",
     "zh_CN": "石材采集站·采购"
   },
   "trap_511_xbf3g": {
+    "en_US": "Deluxe Mining Harvester Hub",
     "ja_JP": "既製品の鉄鉱石採取基地",
     "zh_CN": "铁矿采集站·采购"
   },
   "trap_512_xbwfg": {
+    "en_US": "Deluxe Crabbie Pumpie",
     "ja_JP": "既製品のカニカニポンプ",
     "zh_CN": "蟹蟹抽水泵·采购"
   },

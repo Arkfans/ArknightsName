@@ -374,6 +374,7 @@
     "zh_CN": "未来序曲签到活动"
   },
   "act1collection": {
+    "en_US": "Limited-time Score Mission",
     "ja_JP": "期間限定Pt任務",
     "zh_CN": "限时积分任务"
   },
@@ -551,6 +552,7 @@
     "zh_CN": "限时累计签到"
   },
   "act26sre": {
+    "en_US": "Hortus de Escapismo - Retrospection",
     "ja_JP": "空想の花庭・復刻",
     "zh_CN": "空想花庭·复刻"
   },
@@ -565,6 +567,7 @@
     "zh_CN": "限时累计签到"
   },
   "act27sre": {
+    "en_US": "So Long, Adele: Home Away From Home - Retrospection",
     "ja_JP": "火山と雲と夢色の旅路・復刻",
     "zh_CN": "火山旅梦·复刻"
   },
@@ -773,6 +776,7 @@
     "zh_CN": "龙门幸运墙登录活动"
   },
   "act3switch": {
+    "en_US": "Sweetness\nOverload\nCollaboration\nEvent",
     "ja_JP": "なないろのお茶会",
     "zh_CN": "虹彩茶会合作活动"
   },
