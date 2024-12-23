@@ -188,6 +188,7 @@ Event | なないろのお茶会 |
 | act4mine | 潘尼谷矿区登录活动 | Pony Valley Mining Area Login Event | ポニーバレー採鉱区 |
 | act4pray | 际崖城惊奇墙登录活动 | Zeruertza Amazing Wall Login Event | 宝くじ
 イベント |
+| act4switch | 时光的赠礼  | - | - |
 | act5d0 | 喧闹法则 | Code of Brawl | 喧騒の掟 |
 | act5d1 | 危机合约 | Contingency Contract | 危機契約 |
 | act5fun | 愚人节活动 | - | - |

@@ -116,6 +116,7 @@ tip: 请善用浏览器的搜索功能
 | _ATTAIN_28_0_2 | - | Celebration & Vista | ロドスの道のり・展望 |
 | _CLASSIC_28_0_1 | - |  Celebration - Kernel | ロドスの道のり・中堅 |
 | _CLASSIC_45_0_2 | 跨年欢庆·中坚 | - | - |
+| _CLASSIC_57_0_2 | 跨年欢庆·中坚 | - | - |
 | _LIMITED_10_2_1 | - | Deep Drown Lament | 深悼 |
 | _LIMITED_12_1_1 | - | Holiday Stars | ホリデースター |
 | _LIMITED_14_1_1 | - | Path of the Radiant | 光耀の騎士道 |

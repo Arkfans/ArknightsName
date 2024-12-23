@@ -1829,6 +1829,11 @@
   "ap_supply_lt_120_2024_5": {
     "zh_CN": "“枕夜光”"
   },
+  "ap_supply_lt_120_2024_6": {
+    "en_US": "Amiya's Birthday Cake",
+    "ja_JP": "アーミヤのバースデーケーキ",
+    "zh_CN": "阿米娅的生日蛋糕"
+  },
   "ap_supply_lt_60": {
     "en_US": "Emergency Sanity Potion",
     "ja_JP": "初級理性回復剤",
@@ -5274,6 +5279,9 @@
     "ja_JP": "ニアーライト家具パック",
     "zh_CN": "长夜临光家具收藏包"
   },
+  "uni_set_martialClub": {
+    "zh_CN": "登临意家具收藏包"
+  },
   "uni_set_nightView": {
     "en_US": "Twilight of Wolumonde Furniture Pack",
     "ja_JP": "ウォルモンドの薄暮家具パック",
@@ -5379,6 +5387,9 @@
     "en_US": "Absinthe's Personal Letter",
     "ja_JP": "アブサントの手紙",
     "zh_CN": "苦艾的私人信件"
+  },
+  "voucher_full_bdhkgt": {
+    "zh_CN": "截云的私人信件"
   },
   "voucher_full_bena": {
     "en_US": "Bena's Personal Letter",

@@ -6839,6 +6839,14 @@
       "zh_CN": "《上任达维镇》"
     }
   },
+  "char_1037_amiya3@sale#13": {
+    "type": "SKIN",
+    "names": {
+      "en_US": "Solo Around The World",
+      "ja_JP": "﻿宙に響く独奏",
+      "zh_CN": "寰宇独奏"
+    }
+  },
   "char_103_angel@kfc#1": {
     "type": "SKIN",
     "names": {
@@ -20378,6 +20386,12 @@
       "zh_CN": "际崖城惊奇墙登录活动"
     }
   },
+  "act4switch": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "时光的赠礼 "
+    }
+  },
   "act5d0": {
     "type": "ACTIVITY",
     "names": {
@@ -23919,6 +23933,14 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "“枕夜光”"
+    }
+  },
+  "ap_supply_lt_120_2024_6": {
+    "type": "ITEM",
+    "names": {
+      "en_US": "Amiya's Birthday Cake",
+      "ja_JP": "アーミヤのバースデーケーキ",
+      "zh_CN": "阿米娅的生日蛋糕"
     }
   },
   "ap_supply_lt_60": {
@@ -29478,6 +29500,12 @@
       "zh_CN": "长夜临光家具收藏包"
     }
   },
+  "uni_set_martialClub": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "登临意家具收藏包"
+    }
+  },
   "uni_set_nightView": {
     "type": "ITEM",
     "names": {
@@ -29648,6 +29676,12 @@
       "en_US": "Absinthe's Personal Letter",
       "ja_JP": "アブサントの手紙",
       "zh_CN": "苦艾的私人信件"
+    }
+  },
+  "voucher_full_bdhkgt": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "截云的私人信件"
     }
   },
   "voucher_full_bena": {
@@ -30979,6 +31013,12 @@
     }
   },
   "_CLASSIC_45_0_2": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "跨年欢庆·中坚"
+    }
+  },
+  "_CLASSIC_57_0_2": {
     "type": "POOL",
     "names": {
       "zh_CN": "跨年欢庆·中坚"
