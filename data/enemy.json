@@ -5315,6 +5315,27 @@
     "ja_JP": "弱い弾",
     "zh_CN": "弱弹"
   },
+  "enemy_5501_arcbank": {
+    "zh_CN": "大富翁"
+  },
+  "enemy_5502_arcthf": {
+    "zh_CN": "宝藏神偷"
+  },
+  "enemy_5503_arcslma": {
+    "zh_CN": "果冻小子"
+  },
+  "enemy_5504_arcslmi": {
+    "zh_CN": "果冻丁"
+  },
+  "enemy_5505_arctxi": {
+    "zh_CN": "“两栖号”船车"
+  },
+  "enemy_5506_arcgo": {
+    "zh_CN": "“搁浅零件”"
+  },
+  "enemy_5507_arctolm": {
+    "zh_CN": "喷泉“汽水侠”"
+  },
   "enemy_6001_trsgst": {
     "en_US": "Fleet-footed Thief",
     "ja_JP": "コソ泥フライ",

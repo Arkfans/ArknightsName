@@ -301,3 +301,7 @@ tip: 请善用浏览器的搜索功能
 | weekly_7 | 战术演习 | Tactical Drill | 戦術演習 |
 | weekly_8 | 资源保障 | Resource Search | 資源確保 |
 | weekly_9 | 货物运送 | Cargo Escort | 貨物輸送 |
+| zone_1 | 超级钩爪 | - | - |
+| zone_2 | 喷泉大战 | - | - |
+| zone_3 | 心连心 | - | - |
+| zone_4 | 障碍飞车 | - | - |

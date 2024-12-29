@@ -1117,6 +1117,13 @@ tip: 请善用浏览器的搜索功能
 | enemy_5008_cstrwd | 艺术的慈悲! | The Boons of Art! | 芸術の慈悲！ |
 | enemy_5009_shtrwd | 艺术的绝杀! | The Clutchness of Art! | 芸術の必殺技！ |
 | enemy_5010_catrdg | 弱弹 | Weaksauce | 弱い弾 |
+| enemy_5501_arcbank | 大富翁 | - | - |
+| enemy_5502_arcthf | 宝藏神偷 | - | - |
+| enemy_5503_arcslma | 果冻小子 | - | - |
+| enemy_5504_arcslmi | 果冻丁 | - | - |
+| enemy_5505_arctxi | “两栖号”船车 | - | - |
+| enemy_5506_arcgo | “搁浅零件” | - | - |
+| enemy_5507_arctolm | 喷泉“汽水侠” | - | - |
 | enemy_6001_trsgst | 飞腿毛贼 | Fleet-footed Thief | コソ泥フライ |
 | enemy_6002_trswlf | 流眼泪侦探 | Teary Detective | 涙眼の探偵 |
 | enemy_6003_trsslm | “闪亮噗噜” | 'Shiny Pooloo' | 「キラプル」 |

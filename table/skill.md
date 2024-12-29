@@ -868,6 +868,15 @@ tip: 请善用浏览器的搜索功能
 | sktok_allydonq | 冲锋 | Charge | 突貫 |
 | sktok_amblls | 幽影门扉 | Umbral Door | 幽影の扉 |
 | sktok_antidr | 无人机干扰 | Drone Interference | ドローン妨害 |
+| sktok_arcexpd | 帮个小忙 | - | - |
+| sktok_arcgacha | 扭动机关 | - | - |
+| sktok_arcgrg | 启航！ | - | - |
+| sktok_archook | 发射 | - | - |
+| sktok_arcsoda | 充分摇匀 | - | - |
+| sktok_arcsum1 | 叮铃铃！ | - | - |
+| sktok_arcsum2 | 叮铃铃！ | - | - |
+| sktok_arcsum3 | 叮铃铃！ | - | - |
+| sktok_arctoll | 记分 | - | - |
 | sktok_badbox | 极诱人珍宝 | Really Alluring Treasures | 財宝の蕩めき |
 | sktok_ballis | 发射弩箭 | Bolt Launching | 射撃 |
 | sktok_bbombcard | 爆炸 | Explode | 爆発 |

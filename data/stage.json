@@ -1714,6 +1714,42 @@
     "ja_JP": "実験基地の廊下",
     "zh_CN": "实验基地走廊"
   },
+  "act1arcade_m1_01": {
+    "zh_CN": "捣乱毛绒"
+  },
+  "act1arcade_m1_02": {
+    "zh_CN": "叛乱兽群"
+  },
+  "act1arcade_m1_03": {
+    "zh_CN": "出逃化物"
+  },
+  "act1arcade_m2_01": {
+    "zh_CN": "喷泉广场"
+  },
+  "act1arcade_m2_02": {
+    "zh_CN": "占领蒸汽"
+  },
+  "act1arcade_m2_03": {
+    "zh_CN": "决战“汽水侠”"
+  },
+  "act1arcade_m3_01": {
+    "zh_CN": "峰回路转"
+  },
+  "act1arcade_m3_02": {
+    "zh_CN": "环环相扣"
+  },
+  "act1arcade_m3_03": {
+    "zh_CN": "百折千回"
+  },
+  "act1arcade_m4_01": {
+    "zh_CN": "陆上行船"
+  },
+  "act1arcade_m4_02": {
+    "zh_CN": "冲出激浪"
+  },
+  "act1arcade_m4_03": {
+    "zh_CN": "环绕大地"
+  },
   "act1bossrush_01": {
     "en_US": "Burn and Destroy",
     "ja_JP": "無尽の炎と破壊の鋸",
@@ -3934,6 +3970,9 @@
   },
   "camp_r_25": {
     "zh_CN": "66号航道"
+  },
+  "camp_r_26": {
+    "zh_CN": "壬午号水稻田"
   },
   "hard_05-01": {
     "en_US": "Operation Inferno-1",

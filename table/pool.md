@@ -11,6 +11,7 @@ tip: 请善用浏览器的搜索功能
 | ATTAIN_24_0_3 | 跨年欢庆·回首 | - | - |
 | ATTAIN_34_0_3 | 跨年欢庆·相逢 | - | - |
 | ATTAIN_45_0_5 | 跨年欢庆·展望 | - | - |
+| ATTAIN_57_0_4 | 跨年欢庆·愿景 | - | - |
 | COMMON | 适合多种场合的强力干员 | Rare Operators useful in all kinds of stages | スカウト最初の10回以内に★5以上確定！ |
 | LIMITED_14_0_1 | 勿忘我 | - | - |
 | LIMITED_16_0_1 | 地生五金 | - | - |

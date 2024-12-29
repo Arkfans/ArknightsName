@@ -673,7 +673,17 @@ tip: 请善用浏览器的搜索功能
 | trap_184_vtarsn | 军工厂指令平台 | - | - |
 | trap_185_vtlntw | 黄金回响 | - | - |
 | trap_186_cnvfwks | 烟花发射器 | - | - |
+| trap_187_arcgacha | 扭蛋机 | - | - |
+| trap_188_arcsum1 | 街边电话亭 | - | - |
+| trap_189_arcsum2 | 军营电话亭 | - | - |
+| trap_190_arcsum3 | 超时空电话亭 | - | - |
+| trap_191_arcexpd | 菜单电话机 | - | - |
+| trap_192_archook | 勾爪 | - | - |
+| trap_193_arctoll | 大战记分站 | - | - |
+| trap_194_arcsoda | 口渴乐乐 | - | - |
+| trap_195_arcpw | 大力拳套 | - | - |
 | trap_196_cnnon | 盐坨子炮 | - | - |
+| trap_210_arcgrg | 两栖码头 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |
 | trap_401_xbfato | 木材采集站 | Sawing Harvester Hub | 木材採取基地 |
 | trap_403_wfactory | 蟹蟹抽水泵 | Crabbie Pumpie | カニカニポンプ |
@@ -1069,6 +1079,7 @@ tip: 请善用浏览器的搜索功能
 | char_298_susuro@summer#6 | 夏卉 FA026 | Summer Flower FA026 | 夏の花弁FA026 |
 | char_298_susuro@winter#4 | 随意而行 | - | - |
 | char_300_phenxi@witch#4 | 至圣誓言 | Divine Oath | 至聖の誓言 |
+| char_301_cutter@marthe#8 | 拭刀 | - | - |
 | char_302_glaze@summer#11 | 悠然假日 HD29 | Holiday HD29 | ホリデーHD29 |
 | char_304_zebra@wild#6 | 幽苔 | Tranquil Moss | 幽谷の緑苔 |
 | char_306_leizi@game#3 | 遗迹游学者 | - | - |
@@ -2371,6 +2382,13 @@ tip: 请善用浏览器的搜索功能
 | enemy_5008_cstrwd | 艺术的慈悲! | The Boons of Art! | 芸術の慈悲！ |
 | enemy_5009_shtrwd | 艺术的绝杀! | The Clutchness of Art! | 芸術の必殺技！ |
 | enemy_5010_catrdg | 弱弹 | Weaksauce | 弱い弾 |
+| enemy_5501_arcbank | 大富翁 | - | - |
+| enemy_5502_arcthf | 宝藏神偷 | - | - |
+| enemy_5503_arcslma | 果冻小子 | - | - |
+| enemy_5504_arcslmi | 果冻丁 | - | - |
+| enemy_5505_arctxi | “两栖号”船车 | - | - |
+| enemy_5506_arcgo | “搁浅零件” | - | - |
+| enemy_5507_arctolm | 喷泉“汽水侠” | - | - |
 | enemy_6001_trsgst | 飞腿毛贼 | Fleet-footed Thief | コソ泥フライ |
 | enemy_6002_trswlf | 流眼泪侦探 | Teary Detective | 涙眼の探偵 |
 | enemy_6003_trsslm | “闪亮噗噜” | 'Shiny Pooloo' | 「キラプル」 |
@@ -2535,6 +2553,7 @@ tip: 请善用浏览器的搜索功能
 | act19sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act19sre | 绿野幻梦·复刻 | Dorothy's Vision - Retrospection | 翠玉の夢・復刻 |
 | act1access | 五周年专享活动 | Exclusive Event | 大感謝祭限定イベント |
+| act1arcade | 视相博物馆 | - | - |
 | act1blessing | 2024罗德岛新春签到 | 2024 Festival Sign-In | 4.5周年スタンプラリー |
 | act1bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act1checkin | 未来序曲签到活动 | Preludes to the Future Sign-in Event | 大感謝祭スタンプ |
@@ -2637,6 +2656,7 @@ Event | なないろのお茶会 |
 | act45sign | 感谢庆典前瞻签到 | - | - |
 | act46sign | 感谢庆典限时签到 | - | - |
 | act47sign | 感谢庆典补给签到 | - | - |
+| act48sign | 2025跨年纪念限时活动 | - | - |
 | act4bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act4d0 | 战地秘闻 | Operational Intelligence | 戦地の逸話 |
 | act4d2 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -2740,6 +2760,9 @@ Event | なないろのお茶会 |
 | 2024recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 4.5周年特別スカウト券α |
 | 2024recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 4.5周年特別スカウト券β |
 | 2024recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 4.5周年特別スカウト券γ |
+| 2025recruitment10_1 | α类新年寻访凭证 | - | - |
+| 2025recruitment10_2 | β类新年寻访凭证 | - | - |
+| 2025recruitment10_3 | γ类新年寻访凭证 | - | - |
 | 30011 | 源岩 | Orirock | 源岩鉱 |
 | 30012 | 固源岩 | Orirock Cube | 初級源岩 |
 | 30013 | 固源岩组 | Orirock Cluster | 中級源岩 |
@@ -2957,6 +2980,7 @@ Event | なないろのお茶会 |
 | act18side_token_pieces_rep_1 | 乐谱草稿 | Sheet Music | 手書きの楽譜 |
 | act19side_token_reagents | 神秘试剂 | Mysterious Reagent | 謎の試薬 |
 | act19side_token_reagents_rep_1 | 神秘试剂 | Mysterious Reagent | 謎の試薬 |
+| act1arcade_milestone_point | 积点卡券 | - | - |
 | act1bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act1bossrush_relic_01 | 模块复用 | Reuse Module | マルチプレキシング |
 | act1bossrush_relic_02 | 迅捷处理 | Fast Processing | アクセラレーション |
@@ -3086,6 +3110,7 @@ Event | なないろのお茶会 |
 | ap_supply_lt_100_2024_3 | 午后田园茶点 | Pastoral Afternoon Tea Pastries | 午後のお茶菓子 |
 | ap_supply_lt_100_2024_4 | 脆壳糖油果 | Glassy-Sweet Rice Fritters | 揚げ餡子餅 |
 | ap_supply_lt_100_2024_5 | 奶油夹心饼干 | Custard Creams | クリームサンドビスケット |
+| ap_supply_lt_100_2024_6 | 热腾腾大包 | - | - |
 | ap_supply_lt_120 | 应急理智浓缩液 | Emergency Sanity Concentrate | 上級理性回復剤+ |
 | ap_supply_lt_120_2022_1 | 满颜色 | Full Color | 一家団欒 |
 | ap_supply_lt_120_2022_2 | 正圆月 | Full Moon | 仲秋名月 |
@@ -3101,6 +3126,7 @@ Event | なないろのお茶会 |
 | ap_supply_lt_120_2024_4 | “画桂魄” | - | - |
 | ap_supply_lt_120_2024_5 | “枕夜光” | - | - |
 | ap_supply_lt_120_2024_6 | 阿米娅的生日蛋糕 | Amiya's Birthday Cake | アーミヤのバースデーケーキ |
+| ap_supply_lt_120_2025_1 | 1101生日糕点 | - | - |
 | ap_supply_lt_60 | 应急理智合剂 | Emergency Sanity Potion | 初級理性回復剤 |
 | ap_supply_lt_80 | 应急理智加强剂 | Emergency Sanity Booster | 初級理性回復剤+ |
 | base_ap | 无人机 | Drone | ドローン |
@@ -3919,6 +3945,7 @@ Event | なないろのお茶会 |
 | ATTAIN_24_0_3 | 跨年欢庆·回首 | - | - |
 | ATTAIN_34_0_3 | 跨年欢庆·相逢 | - | - |
 | ATTAIN_45_0_5 | 跨年欢庆·展望 | - | - |
+| ATTAIN_57_0_4 | 跨年欢庆·愿景 | - | - |
 | COMMON | 适合多种场合的强力干员 | Rare Operators useful in all kinds of stages | スカウト最初の10回以内に★5以上確定！ |
 | LIMITED_14_0_1 | 勿忘我 | - | - |
 | LIMITED_16_0_1 | 地生五金 | - | - |
@@ -4992,6 +5019,15 @@ Event | なないろのお茶会 |
 | sktok_allydonq | 冲锋 | Charge | 突貫 |
 | sktok_amblls | 幽影门扉 | Umbral Door | 幽影の扉 |
 | sktok_antidr | 无人机干扰 | Drone Interference | ドローン妨害 |
+| sktok_arcexpd | 帮个小忙 | - | - |
+| sktok_arcgacha | 扭动机关 | - | - |
+| sktok_arcgrg | 启航！ | - | - |
+| sktok_archook | 发射 | - | - |
+| sktok_arcsoda | 充分摇匀 | - | - |
+| sktok_arcsum1 | 叮铃铃！ | - | - |
+| sktok_arcsum2 | 叮铃铃！ | - | - |
+| sktok_arcsum3 | 叮铃铃！ | - | - |
+| sktok_arctoll | 记分 | - | - |
 | sktok_badbox | 极诱人珍宝 | Really Alluring Treasures | 財宝の蕩めき |
 | sktok_ballis | 发射弩箭 | Bolt Launching | 射撃 |
 | sktok_bbombcard | 爆炸 | Explode | 爆発 |
@@ -5733,6 +5769,18 @@ Event | なないろのお茶会 |
 | act19side_st01 | 逆行 | Retrograde | 逆行 |
 | act19side_st02 | 启程 | Embark | 旅立ち |
 | act19side_tr01 | 实验基地走廊 | Research Base Hallway | 実験基地の廊下 |
+| act1arcade_m1_01 | 捣乱毛绒 | - | - |
+| act1arcade_m1_02 | 叛乱兽群 | - | - |
+| act1arcade_m1_03 | 出逃化物 | - | - |
+| act1arcade_m2_01 | 喷泉广场 | - | - |
+| act1arcade_m2_02 | 占领蒸汽 | - | - |
+| act1arcade_m2_03 | 决战“汽水侠” | - | - |
+| act1arcade_m3_01 | 峰回路转 | - | - |
+| act1arcade_m3_02 | 环环相扣 | - | - |
+| act1arcade_m3_03 | 百折千回 | - | - |
+| act1arcade_m4_01 | 陆上行船 | - | - |
+| act1arcade_m4_02 | 冲出激浪 | - | - |
+| act1arcade_m4_03 | 环绕大地 | - | - |
 | act1bossrush_01 | 无尽灼烧与强力破坏 | Burn and Destroy | 無尽の炎と破壊の鋸 |
 | act1bossrush_02 | 卷土重来 | Comeback | 捲土重来 |
 | act1bossrush_03 | 风沙轰隆隆 | Rolling Sands | 塵旋風とどろく |
@@ -6216,6 +6264,7 @@ Event | なないろのお茶会 |
 | camp_r_23 | 燃烧街区 | Burning District | 燃える市街地 |
 | camp_r_24 | 冰封雪谷 | - | - |
 | camp_r_25 | 66号航道 | - | - |
+| camp_r_26 | 壬午号水稻田 | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |
 | hard_05-02 | 炼狱行动-2 | Operation Inferno-2 | 煉獄作戦-2 |
 | hard_05-03 | 炼狱行动-3 | Operation Inferno-3 | 煉獄作戦-3 |
@@ -7032,6 +7081,10 @@ Event | なないろのお茶会 |
 | weekly_7 | 战术演习 | Tactical Drill | 戦術演習 |
 | weekly_8 | 资源保障 | Resource Search | 資源確保 |
 | weekly_9 | 货物运送 | Cargo Escort | 貨物輸送 |
+| zone_1 | 超级钩爪 | - | - |
+| zone_2 | 喷泉大战 | - | - |
+| zone_3 | 心连心 | - | - |
+| zone_4 | 障碍飞车 | - | - |
 | story_12fce_set_1_story_1 | 一些选择 | Certain Choices | ある選択 |
 | story_absin_set_1_story_1 | 向死寻生 | - | - |
 | story_acdrop_set_1_story_1 | 一面墙 | The Face of a Wall | 壁 |

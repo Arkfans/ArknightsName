@@ -5105,10 +5105,70 @@
       "zh_CN": "烟花发射器"
     }
   },
+  "trap_187_arcgacha": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "扭蛋机"
+    }
+  },
+  "trap_188_arcsum1": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "街边电话亭"
+    }
+  },
+  "trap_189_arcsum2": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "军营电话亭"
+    }
+  },
+  "trap_190_arcsum3": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "超时空电话亭"
+    }
+  },
+  "trap_191_arcexpd": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "菜单电话机"
+    }
+  },
+  "trap_192_archook": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "勾爪"
+    }
+  },
+  "trap_193_arctoll": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "大战记分站"
+    }
+  },
+  "trap_194_arcsoda": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "口渴乐乐"
+    }
+  },
+  "trap_195_arcpw": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "大力拳套"
+    }
+  },
   "trap_196_cnnon": {
     "type": "TRAP",
     "names": {
       "zh_CN": "盐坨子炮"
+    }
+  },
+  "trap_210_arcgrg": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "两栖码头"
     }
   },
   "trap_400_xbfarm": {
@@ -8179,6 +8239,12 @@
       "en_US": "Divine Oath",
       "ja_JP": "至聖の誓言",
       "zh_CN": "至圣誓言"
+    }
+  },
+  "char_301_cutter@marthe#8": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "拭刀"
     }
   },
   "char_302_glaze@summer#11": {
@@ -18305,6 +18371,48 @@
       "zh_CN": "弱弹"
     }
   },
+  "enemy_5501_arcbank": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "大富翁"
+    }
+  },
+  "enemy_5502_arcthf": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "宝藏神偷"
+    }
+  },
+  "enemy_5503_arcslma": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "果冻小子"
+    }
+  },
+  "enemy_5504_arcslmi": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "果冻丁"
+    }
+  },
+  "enemy_5505_arctxi": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“两栖号”船车"
+    }
+  },
+  "enemy_5506_arcgo": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“搁浅零件”"
+    }
+  },
+  "enemy_5507_arctolm": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "喷泉“汽水侠”"
+    }
+  },
   "enemy_6001_trsgst": {
     "type": "ENEMY",
     "names": {
@@ -19583,6 +19691,12 @@
       "zh_CN": "五周年专享活动"
     }
   },
+  "act1arcade": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "视相博物馆"
+    }
+  },
   "act1blessing": {
     "type": "ACTIVITY",
     "names": {
@@ -20329,6 +20443,12 @@
     "type": "ACTIVITY",
     "names": {
       "zh_CN": "感谢庆典补给签到"
+    }
+  },
+  "act48sign": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "2025跨年纪念限时活动"
     }
   },
   "act4bossrush": {
@@ -21131,6 +21251,24 @@
     "names": {
       "en_US": "Type-γ Headhunting Permit",
       "ja_JP": "4.5周年特別スカウト券γ",
+      "zh_CN": "γ类新年寻访凭证"
+    }
+  },
+  "2025recruitment10_1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "α类新年寻访凭证"
+    }
+  },
+  "2025recruitment10_2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "β类新年寻访凭证"
+    }
+  },
+  "2025recruitment10_3": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "γ类新年寻访凭证"
     }
   },
@@ -22854,6 +22992,12 @@
       "zh_CN": "神秘试剂"
     }
   },
+  "act1arcade_milestone_point": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "积点卡券"
+    }
+  },
   "act1bossrush_milestone_point": {
     "type": "ITEM",
     "names": {
@@ -23833,6 +23977,12 @@
       "zh_CN": "奶油夹心饼干"
     }
   },
+  "ap_supply_lt_100_2024_6": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "热腾腾大包"
+    }
+  },
   "ap_supply_lt_120": {
     "type": "ITEM",
     "names": {
@@ -23941,6 +24091,12 @@
       "en_US": "Amiya's Birthday Cake",
       "ja_JP": "アーミヤのバースデーケーキ",
       "zh_CN": "阿米娅的生日蛋糕"
+    }
+  },
+  "ap_supply_lt_120_2025_1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "1101生日糕点"
     }
   },
   "ap_supply_lt_60": {
@@ -30380,6 +30536,12 @@
     "type": "POOL",
     "names": {
       "zh_CN": "跨年欢庆·展望"
+    }
+  },
+  "ATTAIN_57_0_4": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "跨年欢庆·愿景"
     }
   },
   "COMMON": {
@@ -38293,6 +38455,60 @@
       "zh_CN": "无人机干扰"
     }
   },
+  "sktok_arcexpd": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "帮个小忙"
+    }
+  },
+  "sktok_arcgacha": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "扭动机关"
+    }
+  },
+  "sktok_arcgrg": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "启航！"
+    }
+  },
+  "sktok_archook": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "发射"
+    }
+  },
+  "sktok_arcsoda": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "充分摇匀"
+    }
+  },
+  "sktok_arcsum1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "叮铃铃！"
+    }
+  },
+  "sktok_arcsum2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "叮铃铃！"
+    }
+  },
+  "sktok_arcsum3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "叮铃铃！"
+    }
+  },
+  "sktok_arctoll": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "记分"
+    }
+  },
   "sktok_badbox": {
     "type": "SKILL",
     "names": {
@@ -44155,6 +44371,78 @@
       "zh_CN": "实验基地走廊"
     }
   },
+  "act1arcade_m1_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "捣乱毛绒"
+    }
+  },
+  "act1arcade_m1_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "叛乱兽群"
+    }
+  },
+  "act1arcade_m1_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "出逃化物"
+    }
+  },
+  "act1arcade_m2_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "喷泉广场"
+    }
+  },
+  "act1arcade_m2_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "占领蒸汽"
+    }
+  },
+  "act1arcade_m2_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "决战“汽水侠”"
+    }
+  },
+  "act1arcade_m3_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "峰回路转"
+    }
+  },
+  "act1arcade_m3_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "环环相扣"
+    }
+  },
+  "act1arcade_m3_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "百折千回"
+    }
+  },
+  "act1arcade_m4_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "陆上行船"
+    }
+  },
+  "act1arcade_m4_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "冲出激浪"
+    }
+  },
+  "act1arcade_m4_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "环绕大地"
+    }
+  },
   "act1bossrush_01": {
     "type": "STAGE",
     "names": {
@@ -47823,6 +48111,12 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "66号航道"
+    }
+  },
+  "camp_r_26": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "壬午号水稻田"
     }
   },
   "hard_05-01": {
@@ -54251,6 +54545,30 @@
       "en_US": "Cargo Escort",
       "ja_JP": "貨物輸送",
       "zh_CN": "货物运送"
+    }
+  },
+  "zone_1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "超级钩爪"
+    }
+  },
+  "zone_2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "喷泉大战"
+    }
+  },
+  "zone_3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "心连心"
+    }
+  },
+  "zone_4": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "障碍飞车"
     }
   },
   "story_12fce_set_1_story_1": {

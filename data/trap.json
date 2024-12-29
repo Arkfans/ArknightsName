@@ -1039,8 +1039,38 @@
   "trap_186_cnvfwks": {
     "zh_CN": "烟花发射器"
   },
+  "trap_187_arcgacha": {
+    "zh_CN": "扭蛋机"
+  },
+  "trap_188_arcsum1": {
+    "zh_CN": "街边电话亭"
+  },
+  "trap_189_arcsum2": {
+    "zh_CN": "军营电话亭"
+  },
+  "trap_190_arcsum3": {
+    "zh_CN": "超时空电话亭"
+  },
+  "trap_191_arcexpd": {
+    "zh_CN": "菜单电话机"
+  },
+  "trap_192_archook": {
+    "zh_CN": "勾爪"
+  },
+  "trap_193_arctoll": {
+    "zh_CN": "大战记分站"
+  },
+  "trap_194_arcsoda": {
+    "zh_CN": "口渴乐乐"
+  },
+  "trap_195_arcpw": {
+    "zh_CN": "大力拳套"
+  },
   "trap_196_cnnon": {
     "zh_CN": "盐坨子炮"
+  },
+  "trap_210_arcgrg": {
+    "zh_CN": "两栖码头"
   },
   "trap_400_xbfarm": {
     "en_US": "Portable Planting Trough",

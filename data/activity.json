@@ -358,6 +358,9 @@
     "ja_JP": "大感謝祭限定イベント",
     "zh_CN": "五周年专享活动"
   },
+  "act1arcade": {
+    "zh_CN": "视相博物馆"
+  },
   "act1blessing": {
     "en_US": "2024 Festival Sign-In",
     "ja_JP": "4.5周年スタンプラリー",
@@ -808,6 +811,9 @@
   },
   "act47sign": {
     "zh_CN": "感谢庆典补给签到"
+  },
+  "act48sign": {
+    "zh_CN": "2025跨年纪念限时活动"
   },
   "act4bossrush": {
     "en_US": "Trials for Navigator",

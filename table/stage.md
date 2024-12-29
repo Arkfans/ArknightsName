@@ -352,6 +352,18 @@ tip: 请善用浏览器的搜索功能
 | act19side_st01 | 逆行 | Retrograde | 逆行 |
 | act19side_st02 | 启程 | Embark | 旅立ち |
 | act19side_tr01 | 实验基地走廊 | Research Base Hallway | 実験基地の廊下 |
+| act1arcade_m1_01 | 捣乱毛绒 | - | - |
+| act1arcade_m1_02 | 叛乱兽群 | - | - |
+| act1arcade_m1_03 | 出逃化物 | - | - |
+| act1arcade_m2_01 | 喷泉广场 | - | - |
+| act1arcade_m2_02 | 占领蒸汽 | - | - |
+| act1arcade_m2_03 | 决战“汽水侠” | - | - |
+| act1arcade_m3_01 | 峰回路转 | - | - |
+| act1arcade_m3_02 | 环环相扣 | - | - |
+| act1arcade_m3_03 | 百折千回 | - | - |
+| act1arcade_m4_01 | 陆上行船 | - | - |
+| act1arcade_m4_02 | 冲出激浪 | - | - |
+| act1arcade_m4_03 | 环绕大地 | - | - |
 | act1bossrush_01 | 无尽灼烧与强力破坏 | Burn and Destroy | 無尽の炎と破壊の鋸 |
 | act1bossrush_02 | 卷土重来 | Comeback | 捲土重来 |
 | act1bossrush_03 | 风沙轰隆隆 | Rolling Sands | 塵旋風とどろく |
@@ -835,6 +847,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_23 | 燃烧街区 | Burning District | 燃える市街地 |
 | camp_r_24 | 冰封雪谷 | - | - |
 | camp_r_25 | 66号航道 | - | - |
+| camp_r_26 | 壬午号水稻田 | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |
 | hard_05-02 | 炼狱行动-2 | Operation Inferno-2 | 煉獄作戦-2 |
 | hard_05-03 | 炼狱行动-3 | Operation Inferno-3 | 煉獄作戦-3 |

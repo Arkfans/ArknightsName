@@ -99,6 +99,15 @@
     "ja_JP": "4.5周年特別スカウト券γ",
     "zh_CN": "γ类新年寻访凭证"
   },
+  "2025recruitment10_1": {
+    "zh_CN": "α类新年寻访凭证"
+  },
+  "2025recruitment10_2": {
+    "zh_CN": "β类新年寻访凭证"
+  },
+  "2025recruitment10_3": {
+    "zh_CN": "γ类新年寻访凭证"
+  },
   "30011": {
     "en_US": "Orirock",
     "ja_JP": "源岩鉱",
@@ -1168,6 +1177,9 @@
     "ja_JP": "謎の試薬",
     "zh_CN": "神秘试剂"
   },
+  "act1arcade_milestone_point": {
+    "zh_CN": "积点卡券"
+  },
   "act1bossrush_milestone_point": {
     "en_US": "Trial EXP",
     "ja_JP": "試練経験値",
@@ -1769,6 +1781,9 @@
     "ja_JP": "クリームサンドビスケット",
     "zh_CN": "奶油夹心饼干"
   },
+  "ap_supply_lt_100_2024_6": {
+    "zh_CN": "热腾腾大包"
+  },
   "ap_supply_lt_120": {
     "en_US": "Emergency Sanity Concentrate",
     "ja_JP": "上級理性回復剤+",
@@ -1833,6 +1848,9 @@
     "en_US": "Amiya's Birthday Cake",
     "ja_JP": "アーミヤのバースデーケーキ",
     "zh_CN": "阿米娅的生日蛋糕"
+  },
+  "ap_supply_lt_120_2025_1": {
+    "zh_CN": "1101生日糕点"
   },
   "ap_supply_lt_60": {
     "en_US": "Emergency Sanity Potion",

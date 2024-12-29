@@ -207,6 +207,7 @@ tip: 请善用浏览器的搜索功能
 | char_298_susuro@summer#6 | 夏卉 FA026 | Summer Flower FA026 | 夏の花弁FA026 |
 | char_298_susuro@winter#4 | 随意而行 | - | - |
 | char_300_phenxi@witch#4 | 至圣誓言 | Divine Oath | 至聖の誓言 |
+| char_301_cutter@marthe#8 | 拭刀 | - | - |
 | char_302_glaze@summer#11 | 悠然假日 HD29 | Holiday HD29 | ホリデーHD29 |
 | char_304_zebra@wild#6 | 幽苔 | Tranquil Moss | 幽谷の緑苔 |
 | char_306_leizi@game#3 | 遗迹游学者 | - | - |

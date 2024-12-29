@@ -25,6 +25,9 @@ tip: 请善用浏览器的搜索功能
 | 2024recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 4.5周年特別スカウト券α |
 | 2024recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 4.5周年特別スカウト券β |
 | 2024recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 4.5周年特別スカウト券γ |
+| 2025recruitment10_1 | α类新年寻访凭证 | - | - |
+| 2025recruitment10_2 | β类新年寻访凭证 | - | - |
+| 2025recruitment10_3 | γ类新年寻访凭证 | - | - |
 | 30011 | 源岩 | Orirock | 源岩鉱 |
 | 30012 | 固源岩 | Orirock Cube | 初級源岩 |
 | 30013 | 固源岩组 | Orirock Cluster | 中級源岩 |
@@ -242,6 +245,7 @@ tip: 请善用浏览器的搜索功能
 | act18side_token_pieces_rep_1 | 乐谱草稿 | Sheet Music | 手書きの楽譜 |
 | act19side_token_reagents | 神秘试剂 | Mysterious Reagent | 謎の試薬 |
 | act19side_token_reagents_rep_1 | 神秘试剂 | Mysterious Reagent | 謎の試薬 |
+| act1arcade_milestone_point | 积点卡券 | - | - |
 | act1bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act1bossrush_relic_01 | 模块复用 | Reuse Module | マルチプレキシング |
 | act1bossrush_relic_02 | 迅捷处理 | Fast Processing | アクセラレーション |
@@ -371,6 +375,7 @@ tip: 请善用浏览器的搜索功能
 | ap_supply_lt_100_2024_3 | 午后田园茶点 | Pastoral Afternoon Tea Pastries | 午後のお茶菓子 |
 | ap_supply_lt_100_2024_4 | 脆壳糖油果 | Glassy-Sweet Rice Fritters | 揚げ餡子餅 |
 | ap_supply_lt_100_2024_5 | 奶油夹心饼干 | Custard Creams | クリームサンドビスケット |
+| ap_supply_lt_100_2024_6 | 热腾腾大包 | - | - |
 | ap_supply_lt_120 | 应急理智浓缩液 | Emergency Sanity Concentrate | 上級理性回復剤+ |
 | ap_supply_lt_120_2022_1 | 满颜色 | Full Color | 一家団欒 |
 | ap_supply_lt_120_2022_2 | 正圆月 | Full Moon | 仲秋名月 |
@@ -386,6 +391,7 @@ tip: 请善用浏览器的搜索功能
 | ap_supply_lt_120_2024_4 | “画桂魄” | - | - |
 | ap_supply_lt_120_2024_5 | “枕夜光” | - | - |
 | ap_supply_lt_120_2024_6 | 阿米娅的生日蛋糕 | Amiya's Birthday Cake | アーミヤのバースデーケーキ |
+| ap_supply_lt_120_2025_1 | 1101生日糕点 | - | - |
 | ap_supply_lt_60 | 应急理智合剂 | Emergency Sanity Potion | 初級理性回復剤 |
 | ap_supply_lt_80 | 应急理智加强剂 | Emergency Sanity Booster | 初級理性回復剤+ |
 | base_ap | 无人机 | Drone | ドローン |
