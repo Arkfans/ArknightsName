@@ -131,6 +131,7 @@ tip: 请善用浏览器的搜索功能
 | act29sign | 桂时逢月——月饼烘焙小教程 | Encounter At The Osmanthus Blossom - Mooncake-Making Tutorial | 円満団楽-ロドス点心教室 |
 | act29sre | 崔林特尔梅之金·复刻 | - | - |
 | act2bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
+| act2collection | 限时积分任务 | - | - |
 | act2d5 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act2d8 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act2float | 铁腕城产业合作洽谈会 | Iron Fist City Industry Cooperation Forum | アイアンリストシティ産業懇談会 |

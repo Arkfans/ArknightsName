@@ -1076,6 +1076,12 @@ tip: 请善用浏览器的搜索功能
 | enemy_2089_skzjkl | 奎隆，摩诃萨埵权化 | - | - |
 | enemy_2090_skzjbc | 托生莲座 | - | - |
 | enemy_2091_skzgds | “窗” | - | - |
+| enemy_2092_skzamy | “阿米娅”，炉芯终曲 | - | - |
+| enemy_2093_skzams | 终曲合声 | - | - |
+| enemy_2097_skzfdd | 博卓卡斯替，圣卫铳骑 | - | - |
+| enemy_2098_skzftx | 特雷西斯，黑冠尊主 | - | - |
+| enemy_2099_skzfkl | 奎隆，摩诃萨埵权化 | - | - |
+| enemy_2100_skzfmf | 曼弗雷德 | - | - |
 | enemy_3001_upeopl | 乌萨斯平民 | Ursus Civilian | ウルサス民間人 |
 | enemy_3002_ftrtal | 斗士塔露拉 | Talulah, the Fighter | 闘士タルラ |
 | enemy_3003_alymot | 大奖赛运输艇 | Competition Transport Vessel | 大会輸送艇 |

@@ -1434,6 +1434,9 @@
     "ja_JP": "ブラックボックス",
     "zh_CN": "数据黑盒"
   },
+  "act2collection_point_token": {
+    "zh_CN": "“战略家”点数"
+  },
   "act2vmulti_token_cap": {
     "en_US": "Memento",
     "ja_JP": "参加記念",

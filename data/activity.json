@@ -605,6 +605,9 @@
     "ja_JP": "導灯の試練",
     "zh_CN": "引航者试炼"
   },
+  "act2collection": {
+    "zh_CN": "限时积分任务"
+  },
   "act2d5": {
     "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",

@@ -18043,6 +18043,42 @@
       "zh_CN": "“窗”"
     }
   },
+  "enemy_2092_skzamy": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“阿米娅”，炉芯终曲"
+    }
+  },
+  "enemy_2093_skzams": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "终曲合声"
+    }
+  },
+  "enemy_2097_skzfdd": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "博卓卡斯替，圣卫铳骑"
+    }
+  },
+  "enemy_2098_skzftx": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "特雷西斯，黑冠尊主"
+    }
+  },
+  "enemy_2099_skzfkl": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "奎隆，摩诃萨埵权化"
+    }
+  },
+  "enemy_2100_skzfmf": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "曼弗雷德"
+    }
+  },
   "enemy_3001_upeopl": {
     "type": "ENEMY",
     "names": {
@@ -20095,6 +20131,12 @@
       "en_US": "Trials for Navigator",
       "ja_JP": "導灯の試練",
       "zh_CN": "引航者试炼"
+    }
+  },
+  "act2collection": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "限时积分任务"
     }
   },
   "act2d5": {
@@ -23412,6 +23454,12 @@
       "en_US": "Data Blackbox",
       "ja_JP": "ブラックボックス",
       "zh_CN": "数据黑盒"
+    }
+  },
+  "act2collection_point_token": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "“战略家”点数"
     }
   },
   "act2vmulti_token_cap": {

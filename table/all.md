@@ -2341,6 +2341,12 @@ tip: 请善用浏览器的搜索功能
 | enemy_2089_skzjkl | 奎隆，摩诃萨埵权化 | - | - |
 | enemy_2090_skzjbc | 托生莲座 | - | - |
 | enemy_2091_skzgds | “窗” | - | - |
+| enemy_2092_skzamy | “阿米娅”，炉芯终曲 | - | - |
+| enemy_2093_skzams | 终曲合声 | - | - |
+| enemy_2097_skzfdd | 博卓卡斯替，圣卫铳骑 | - | - |
+| enemy_2098_skzftx | 特雷西斯，黑冠尊主 | - | - |
+| enemy_2099_skzfkl | 奎隆，摩诃萨埵权化 | - | - |
+| enemy_2100_skzfmf | 曼弗雷德 | - | - |
 | enemy_3001_upeopl | 乌萨斯平民 | Ursus Civilian | ウルサス民間人 |
 | enemy_3002_ftrtal | 斗士塔露拉 | Talulah, the Fighter | 闘士タルラ |
 | enemy_3003_alymot | 大奖赛运输艇 | Competition Transport Vessel | 大会輸送艇 |
@@ -2606,6 +2612,7 @@ tip: 请善用浏览器的搜索功能
 | act29sign | 桂时逢月——月饼烘焙小教程 | Encounter At The Osmanthus Blossom - Mooncake-Making Tutorial | 円満団楽-ロドス点心教室 |
 | act29sre | 崔林特尔梅之金·复刻 | - | - |
 | act2bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
+| act2collection | 限时积分任务 | - | - |
 | act2d5 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act2d8 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act2float | 铁腕城产业合作洽谈会 | Iron Fist City Industry Cooperation Forum | アイアンリストシティ産業懇談会 |
@@ -3035,6 +3042,7 @@ Event | なないろのお茶会 |
 | act2bossrush_relic_03 | 减退模块 | Reduction Module | ダウンモジュール |
 | act2bossrush_relic_04 | 调优重载 | Optimize Load | 積載調節 |
 | act2bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
+| act2collection_point_token | “战略家”点数 | - | - |
 | act2vmulti_token_cap | 参赛纪念 | Memento | 参加記念 |
 | act30side_token_box | 驮兽盲盒 | Burdenbeast Blind Box | 駄獣ミニフィギュア |
 | act30side_token_box_rep_1 | 驮兽盲盒 | - | - |
