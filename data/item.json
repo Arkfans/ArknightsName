@@ -729,6 +729,7 @@
     "zh_CN": "残夜厝薪寻访凭证"
   },
   "LIMITED_TKT_GACHA_10_5301": {
+    "ja_JP": "5周年10回スカウト券",
     "zh_CN": "璀璨闪耀寻访凭证"
   },
   "LIMITED_TKT_GACHA_10_5601": {
@@ -838,6 +839,7 @@
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_5301": {
+    "ja_JP": "限定契約証",
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_5601": {
@@ -1471,6 +1473,7 @@
     "zh_CN": "“应急物资”蓝图芯片"
   },
   "act35side_token_dust": {
+    "ja_JP": "流光の砂",
     "zh_CN": "流光之沙"
   },
   "act36side_token_recipe": {
@@ -4114,6 +4117,7 @@
     "zh_CN": "鸿雪的信物"
   },
   "p_char_4058_pepe": {
+    "ja_JP": "ペペの印",
     "zh_CN": "佩佩的信物"
   },
   "p_char_405_absin": {
@@ -4342,12 +4346,15 @@
     "zh_CN": "深巡的信物"
   },
   "p_char_4138_narant": {
+    "ja_JP": "ナラントゥヤの印",
     "zh_CN": "娜仁图亚的信物"
   },
   "p_char_4139_papyrs": {
+    "ja_JP": "パピルスの印",
     "zh_CN": "莎草的信物"
   },
   "p_char_4140_lasher": {
+    "ja_JP": "サンドレコナーの印",
     "zh_CN": "衡沙的信物"
   },
   "p_char_4141_marcil": {
@@ -5288,6 +5295,7 @@
     "zh_CN": "遗尘漫步家具收藏包"
   },
   "uni_set_idealCity": {
+    "ja_JP": "理想都市家具パック",
     "zh_CN": "理想城家具收藏包"
   },
   "uni_set_inkArt": {
@@ -5476,6 +5484,7 @@
     "zh_CN": "流明的私人信件"
   },
   "voucher_full_malist": {
+    "ja_JP": "ミニマリストの手紙",
     "zh_CN": "至简的私人信件"
   },
   "voucher_full_mint": {
@@ -5653,12 +5662,15 @@
     "zh_CN": "高级干员调用凭证-新人"
   },
   "voucher_skill_specialLevelMax_4": {
+    "ja_JP": "★4スキル指南集",
     "zh_CN": "专业干员技巧集"
   },
   "voucher_skill_specialLevelMax_5": {
+    "ja_JP": "★5スキル指南集",
     "zh_CN": "资深干员技巧集"
   },
   "voucher_skill_specialLevelMax_6": {
+    "ja_JP": "★6スキル指南集",
     "zh_CN": "高级资深干员技巧集"
   },
   "voucher_skin": {

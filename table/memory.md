@@ -10,7 +10,7 @@ tip: 请善用浏览器的搜索功能
 | story_acdrop_set_1_story_1 | 一面墙 | The Face of a Wall | 壁 |
 | story_aglina_set_1_story_1 | 没写收件人的包裹 | 'Package with No Recipient' | 受取人のない荷物 |
 | story_aglina_set_1_story_2 | 没写收件人的包裹 | 'Package with No Recipient' | 受取人のない荷物 |
-| story_agoat2_set_1_story_1 | 夜色中的第一步 | - | - |
+| story_agoat2_set_1_story_1 | 夜色中的第一步 | - | 闇夜から歩き出して |
 | story_akafyu_set_1_story_1 | 异乡剑士 | Swordswoman from a Distant Land | 異郷の剣士 |
 | story_almond_set_1_story_1 | 远航 | Long-Haul | 航海 |
 | story_amgoat_set_1_story_1 | 学者之心 | Heart of a Scholar | 学者の心 |
@@ -63,7 +63,7 @@ tip: 请善用浏览器的搜索功能
 | story_catap_set_1_story_1 | 挣脱 | Break Free | 脱出 |
 | story_catap_set_2_story_1 | 改变 | Change | 改変 |
 | story_cello_set_1_story_1 | 天空与流云 | Himmelszelt und Federwolke | 空と雲 |
-| story_cement_set_1_story_1 | 矿井里的太阳 | - | - |
+| story_cement_set_1_story_1 | 矿井里的太阳 | - | 坑道の中の太陽 |
 | story_cerber_set_1_story_1 | 特大号烤饼 | XXL Honey Biscuit | 特大クッキー |
 | story_ceylon_set_1_story_1 | 真心的礼物 | Heartfelt Present | 心からの贈り物 |
 | story_ceylon_set_2_story_1 | 留下的人 | - | - |
@@ -164,7 +164,7 @@ tip: 请善用浏览器的搜索功能
 | story_kirara_set_2_story_1 | 无伤通关 | No-Damage Clear | ノーダメージクリア |
 | story_kjera_set_1_story_1 | 祂所关心的 | All She Cares About | 気に掛けるもの |
 | story_kroos_set_1_story_1 | 苹果 | Apples | 林檎 |
-| story_lasher_set_1_story_1 | 遗失之物 | - | - |
+| story_lasher_set_1_story_1 | 遗失之物 | - | 失くし物 |
 | story_lava_set_1_story_1 | 姐妹 | 'Sisters' | 姉妹 |
 | story_lava_set_2_story_1 | 看护 | 'Caring' | 看病 |
 | story_leizi_set_1_story_1 | 司雷霆者 | One Who Controls Lightning | 雷を司る者 |
@@ -197,7 +197,7 @@ tip: 请善用浏览器的搜索功能
 | story_moeshd_set_1_story_1 | 生意场 | The Business | 商売とは |
 | story_morgan_set_1_story_1 | 巨轮之下 | Beneath the Worthy Wheel | 巨輪の下 |
 | story_mostma_set_1_story_1 | 高楼之上 | Atop the Skyscrapers | 高層ビルの上で |
-| story_mudrok_set_1_story_1 | 在卡兹戴尔 | - | - |
+| story_mudrok_set_1_story_1 | 在卡兹戴尔 | - | カズデルにて |
 | story_myrrh_set_1_story_1 | 护身符 | Lucky Charm | 御守り |
 | story_myrtle_set_1_story_1 | 任务报告填写指南 | Mission Report Filing Guide | 任務報告書作成指南 |
 | story_nblade_set_1_story_1 | 授刀 | Tachihaki | 受け継がれる刀 |
@@ -216,7 +216,7 @@ tip: 请善用浏览器的搜索功能
 | story_phatom_set_1_story_1 | 合作 | Cooperation | 協力 |
 | story_phenxi_set_1_story_1 | 乐园 | Paradisus | 楽園 |
 | story_pianst_set_1_story_1 | 夕阳与朝日 | Dämmerung und Anbruch | 夕日と朝日 |
-| story_pianst_set_2_story_1 | 阳光洒落之前 | - | - |
+| story_pianst_set_2_story_1 | 阳光洒落之前 | - | 陽光が降り注ぐ前に |
 | story_pinecn_set_1_story_1 | 展信好 | Yours Sincerely | 拝啓 |
 | story_platnm_set_1_story_1 | 泡沫 | Bubbles | 泡沫 |
 | story_plosis_set_1_story_1 | 深暗之梦 | Deep, Dark Dream | 真暗の夢 |
@@ -227,7 +227,7 @@ tip: 请善用浏览器的搜索功能
 | story_prove_set_2_story_1 | 崎路前行 | A Perilous Road | 険しき道を征く |
 | story_provs_set_1_story_1 | 假定公正 | Hypothetically Just | 法に基づく公正 |
 | story_pudd_set_1_story_1 | 远方的雪 | What the Snow's Like Far Away | 彼方の雪 |
-| story_puzzle_set_1_story_1 | 旧日歌谣 | - | - |
+| story_puzzle_set_1_story_1 | 旧日歌谣 | - | 過去の歌 |
 | story_qanik_set_1_story_1 | 风雪代为传达 | Blizzards Be Your Voice | 雪風が届ける声 |
 | story_qiubai_set_1_story_1 | 如冰碎雪融 | Thawing as the Winter | 雪解けの如く |
 | story_quartz_set_1_story_1 | 无需遗憾 | No Regrets | 惜しむ必要なし |

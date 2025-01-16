@@ -24,29 +24,29 @@ tip: 请善用浏览器的搜索功能
 | enemy_1000_gopro | 猎狗 | Hound | 猟犬 |
 | enemy_1000_gopro_2 | 猎狗pro | Hound Pro | 上級猟犬 |
 | enemy_1000_gopro_3 | 狂暴的猎狗pro | Rabid Hound Pro | 凶暴猟犬 |
-| enemy_10010_sgnja | 市井盗贼 | - | - |
-| enemy_10010_sgnja_2 | 市井流窜盗贼 | - | - |
-| enemy_10011_sgshot | 市井猎手 | - | - |
-| enemy_10011_sgshot_2 | 市井流窜猎手 | - | - |
-| enemy_10012_sgbtle | 237-1号展柜文物 | - | - |
-| enemy_10012_sgbtle_2 | 237-2号展柜文物 | - | - |
-| enemy_10013_sgrob | 风情区小型车辇 | - | - |
-| enemy_10013_sgrob_2 | 风情区大型车辇 | - | - |
-| enemy_10014_sgrich | 小型破损器皿 | - | - |
-| enemy_10014_sgrich_2 | 大型破碎器皿 | - | - |
-| enemy_10015_sgbird | “滑翔的玩具” | - | - |
-| enemy_10015_sgbird_2 | “喷射式冠冕” | - | - |
-| enemy_10016_sggint | “愤怒蹬踏” | - | - |
-| enemy_10016_sggint_2 | “连续地愤怒蹬踏” | - | - |
-| enemy_10017_sgass | 殿堂左侧雕像 | - | - |
-| enemy_10017_sgass_2 | 殿堂右侧雕像 | - | - |
-| enemy_10018_sgrobh | “独轮车玩具” | - | - |
-| enemy_10018_sgrobh_2 | “弹跳独轮车” | - | - |
-| enemy_10019_sgmum | “以板之名” | - | - |
-| enemy_10019_sgmum_2 | “愿板与你同在” | - | - |
+| enemy_10010_sgnja | 市井盗贼 | - | 市場の盗賊 |
+| enemy_10010_sgnja_2 | 市井流窜盗贼 | - | 放浪する市場の盗賊 |
+| enemy_10011_sgshot | 市井猎手 | - | 市場の狩人 |
+| enemy_10011_sgshot_2 | 市井流窜猎手 | - | 放浪する市場の狩人 |
+| enemy_10012_sgbtle | 237-1号展柜文物 | - | 237-1号展示棚の文化財 |
+| enemy_10012_sgbtle_2 | 237-2号展柜文物 | - | 237-2号展示棚の文化財 |
+| enemy_10013_sgrob | 风情区小型车辇 | - | 地域文化エリアの小型カート |
+| enemy_10013_sgrob_2 | 风情区大型车辇 | - | 地域文化エリアの大型カート |
+| enemy_10014_sgrich | 小型破损器皿 | - | 壊れた小さな壺 |
+| enemy_10014_sgrich_2 | 大型破碎器皿 | - | 壊れた大きな壺 |
+| enemy_10015_sgbird | “滑翔的玩具” | - | 「空飛ぶおもちゃ」 |
+| enemy_10015_sgbird_2 | “喷射式冠冕” | - | 「ジェット式王冠」 |
+| enemy_10016_sggint | “愤怒蹬踏” | - | 「怒りの一蹴」 |
+| enemy_10016_sggint_2 | “连续地愤怒蹬踏” | - | 「止まらぬ怒りの連脚」 |
+| enemy_10017_sgass | 殿堂左侧雕像 | - | 神殿左側の彫像 |
+| enemy_10017_sgass_2 | 殿堂右侧雕像 | - | 神殿右側の彫像 |
+| enemy_10018_sgrobh | “独轮车玩具” | - | 「一輪車のおもちゃ」 |
+| enemy_10018_sgrobh_2 | “弹跳独轮车” | - | 「飛び跳ねる一輪車」 |
+| enemy_10019_sgmum | “以板之名” | - | 「石板の名において」 |
+| enemy_10019_sgmum_2 | “愿板与你同在” | - | 「石板と共にあらんことを」 |
 | enemy_1001_bigbo | 大鲍勃 | Big Bob | Big Bob |
 | enemy_1001_bigbo_2 | 大亚当 | Big Adam | Big Adam |
-| enemy_10020_sgcat | 米奥，热烈的考验者 | - | - |
+| enemy_10020_sgcat | 米奥，热烈的考验者 | - | 「試練を課す者」ミオ |
 | enemy_10021_vtcar | 货运轨道车 | - | - |
 | enemy_10022_vtskny | 新手拾荒者 | - | - |
 | enemy_10022_vtskny_2 | 老练拾荒者 | - | - |
@@ -986,7 +986,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1554_lrtsia | 特蕾西娅 | Theresa | Theresa |
 | enemy_1556_dsbish | 玛利图斯，“海嗣” | Mártus, 'Seaborn' | 「シーボーン」マルトゥス |
 | enemy_1557_trcerb | “三头犬” | - | - |
-| enemy_1558_sgactr | 祖巴伊达姆，从往昔来 | - | - |
+| enemy_1558_sgactr | 祖巴伊达姆，从往昔来 | - | 「過去の使者」ズバイダム |
 | enemy_1559_vtlionk | 阿利斯泰尔，帝国余晖 | - | - |
 | enemy_1560_cnvlap | “狂欢之主” | - | - |
 | enemy_1561_crzjdg | 安纳斯塔西奥，赎罪者 | - | - |

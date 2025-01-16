@@ -152,7 +152,7 @@ tip: 请善用浏览器的搜索功能
 | LIMITED_TKT_GACHA_10_4401 | 烛照弦鸣寻访凭证 | Candleglow Sonata Headhunting Permit | 感謝祭記念10回スカウト券 |
 | LIMITED_TKT_GACHA_10_4701 | 时和岁丰寻访凭证 | Bountiful Harmony Headhunting Permit | 4.5周年記念10回スカウト券 |
 | LIMITED_TKT_GACHA_10_5001 | 残夜厝薪寻访凭证 | Dawn Enkindlers Headhunting Permit | 感謝祭記念10回スカウト券 |
-| LIMITED_TKT_GACHA_10_5301 | 璀璨闪耀寻访凭证 | - | - |
+| LIMITED_TKT_GACHA_10_5301 | 璀璨闪耀寻访凭证 | - | 5周年10回スカウト券 |
 | LIMITED_TKT_GACHA_10_5601 | 荒芜探戈寻访凭证 | - | - |
 | LIMITED_TKT_GACHA_10_903 | 苏醒纪念寻访凭证 | Awakening Commemoration Permit | 1周年記念10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_1701 | 特勤专家寻访凭证 | Expert Headhunting Permit | 精鋭小隊10回スカウト券 |
@@ -175,7 +175,7 @@ tip: 请善用浏览器的搜索功能
 | LMTGS_COIN_4401 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_4701 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_5001 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
-| LMTGS_COIN_5301 | 寻访数据契约 | - | - |
+| LMTGS_COIN_5301 | 寻访数据契约 | - | 限定契約証 |
 | LMTGS_COIN_5601 | 寻访数据契约 | - | - |
 | LMTGS_COIN_601 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_903 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
@@ -308,7 +308,7 @@ tip: 请善用浏览器的搜索功能
 | act32side_token_stamp | 艺术馆集章卡 | Galería Stamp Card | スタンプカード |
 | act33side_token_sugar | 粗制糖块 | Raw Sugar Lumps | 粗製角砂糖 |
 | act34side_token_chip | “应急物资”蓝图芯片 | 'Emergency Supplies' Blueprint Chip | 「非常用物資」設計図チップ |
-| act35side_token_dust | 流光之沙 | - | - |
+| act35side_token_dust | 流光之沙 | - | 流光の砂 |
 | act36side_token_recipe | 今日食谱 | - | - |
 | act37side_token_nay | “我反对！” | - | - |
 | act38d1_token_coin | 晶化源石 | Crystalized Originium | 結晶化源石 |
@@ -848,7 +848,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4048_doroth | 多萝西的信物 | Dorothy's Token | ドロシーの印 |
 | p_char_4054_malist | 至简的信物 | Minimalist's Token | ミニマリストの印 |
 | p_char_4055_bgsnow | 鸿雪的信物 | Pozëmka's Token | パゼオンカの印 |
-| p_char_4058_pepe | 佩佩的信物 | - | - |
+| p_char_4058_pepe | 佩佩的信物 | - | ペペの印 |
 | p_char_405_absin | 苦艾的信物 | Absinthe's Token | アブサントの印 |
 | p_char_4062_totter | 铅踝的信物 | Totter's Token | トターの印 |
 | p_char_4063_quartz | 石英的信物 | Quartz's Token | クォーツの印 |
@@ -894,9 +894,9 @@ tip: 请善用浏览器的搜索功能
 | p_char_4134_cetsyr | 魔王的信物 | Civilight Eterna's Token | シヴィライト・エテルナの印 |
 | p_char_4136_phonor | PhonoR-0的信物 | PhonoR-0's Token | PhonoR-0の印 |
 | p_char_4137_udflow | 深巡的信物 | Underflow's Token | アンダーフローの印 |
-| p_char_4138_narant | 娜仁图亚的信物 | - | - |
-| p_char_4139_papyrs | 莎草的信物 | - | - |
-| p_char_4140_lasher | 衡沙的信物 | - | - |
+| p_char_4138_narant | 娜仁图亚的信物 | - | ナラントゥヤの印 |
+| p_char_4139_papyrs | 莎草的信物 | - | パピルスの印 |
+| p_char_4140_lasher | 衡沙的信物 | - | サンドレコナーの印 |
 | p_char_4141_marcil | 玛露西尔的信物 | - | - |
 | p_char_4142_laios | 莱欧斯的信物 | - | - |
 | p_char_4143_sensi | 森西的信物 | - | - |
@@ -1094,7 +1094,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_goldBoat | 愚人号家具收藏包 | Stultifera Navis Furniture Pack | 狂人号家具パック |
 | uni_set_guitar | 火蓝之心家具收藏包 | Heart of Surging Flame Furniture Pack | 青く燃ゆる心家具パック |
 | uni_set_icu | 遗尘漫步家具收藏包 | A Walk in the Dust Furniture Pack | 遺塵の道を家具パック |
-| uni_set_idealCity | 理想城家具收藏包 | - | - |
+| uni_set_idealCity | 理想城家具收藏包 | - | 理想都市家具パック |
 | uni_set_inkArt | 画中人家具收藏包 | Who is Real Furniture Pack | 画中人家具パック |
 | uni_set_kazimierz | 长夜临光家具收藏包 | Near Light Furniture Pack | ニアーライト家具パック |
 | uni_set_martialClub | 登临意家具收藏包 | - | - |
@@ -1134,7 +1134,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_full_kroos2 | 寒芒克洛丝的私人信件 | Kroos the Keen Glint's Personal Letter | 寒芒クルースの手紙 |
 | voucher_full_lava2 | 炎狱炎熔的私人信件 | Lava the Purgatory's Personal Letter | 炎獄ラヴァの手紙 |
 | voucher_full_lumen | 流明的私人信件 | Lumen's Personal Letter | ルーメンの手紙 |
-| voucher_full_malist | 至简的私人信件 | - | - |
+| voucher_full_malist | 至简的私人信件 | - | ミニマリストの手紙 |
 | voucher_full_mint | 薄绿的私人信件 | Mint's Personal Letter | ミントの手紙 |
 | voucher_full_pianst | 车尔尼的私人信件 | Czerny's Personal Letter | ツェルニーの手紙 |
 | voucher_full_puzzle | 谜图的私人信件 | - | - |
@@ -1171,9 +1171,9 @@ tip: 请善用浏览器的搜索功能
 | voucher_recruitR5_pick3801 | 资深干员调用凭证 | Senior Operator Transfer Permit | ★5招聘指名券 |
 | voucher_recruitR5_pick5001 | 资深干员调用凭证 | Senior Operator Transfer Permit | ★5招聘指名券 |
 | voucher_recruitR6_pick5301 | 高级干员调用凭证-新人 | Top Operator Transfer Permit - Starter | 初心者★6招聘指名券 |
-| voucher_skill_specialLevelMax_4 | 专业干员技巧集 | - | - |
-| voucher_skill_specialLevelMax_5 | 资深干员技巧集 | - | - |
-| voucher_skill_specialLevelMax_6 | 高级资深干员技巧集 | - | - |
+| voucher_skill_specialLevelMax_4 | 专业干员技巧集 | - | ★4スキル指南集 |
+| voucher_skill_specialLevelMax_5 | 资深干员技巧集 | - | ★5スキル指南集 |
+| voucher_skill_specialLevelMax_6 | 高级资深干员技巧集 | - | ★6スキル指南集 |
 | voucher_skin | 时装自选凭证 | Outfit Voucher | コーデ交換券 |
 | voucher_ulika | U-Official的文件夹 | U-Official's Folder | U-Officialの書類入れ |
 | voucher_vigil | 伺夜的文件夹 | Vigil's Folder | ヴィジェルの書類入れ |

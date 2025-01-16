@@ -264,7 +264,7 @@ tip: 请善用浏览器的搜索功能
 | char_4006_melnte@epoque#33 | 赴宴 | For the Banquet | 宴会に赴く |
 | char_4009_irene@ambienceSynesthesia#3 | 飞羽 | Voyage of Feathers | 飛び立つ羽 |
 | char_4009_irene@game#3 | 至高判决 | - | - |
-| char_400_weedy@sightseer#1 | 倾听 | - | - |
+| char_400_weedy@sightseer#1 | 倾听 | - | 耳を傾けて |
 | char_400_weedy@snow#2 | 糖果仙子 | Candy Cape | キャンディフェアリー |
 | char_4011_lessng@whirlwind#7 | 幻火 | - | - |
 | char_4013_kjera@epoque#18 | 灵巧侍者 | Ingenious Servant | 腕利き侍女 |
@@ -307,7 +307,7 @@ tip: 请善用浏览器的搜索功能
 | char_4082_qiubai@ncg#1 | 霜林醉 | Wine-flushed is Woods of Rime | 霜林酔 |
 | char_4083_chimes@yun#5 | 松间月 | - | - |
 | char_4087_ines@boc#8 | 燃烧天穹下 | Under the Flaming Dome | 燃ゆる蒼穹の下 |
-| char_4088_hodrer@sightseer#1 | 沉思之庭 | - | - |
+| char_4088_hodrer@sightseer#1 | 沉思之庭 | - | 思索の庭 |
 | char_4091_ulika@sanrio#1 | 云上直播间 | Stream Above The Clouds | 雲の上から配信中！ |
 | char_4100_caper@summer#18 | 夏卉 FA083 | Summer Flowers FA083 | 夏の花弁FA083 |
 | char_4104_coldst@striker#3 | 破晓 | - | - |
@@ -366,7 +366,7 @@ tip: 请善用浏览器的搜索功能
 | char_485_pallas@epoque#19 | 山川的酿造 | A Drip of Orea and Potamous | 山川の醸造 |
 | char_486_takila@ambienceSynesthesia#2 | 开牌制胜 | Cardwinner | ショーダウン |
 | char_486_takila@shining#2 | 巅峰现场 | - | - |
-| char_488_buildr@epoque#34 | 晚风休憩 | - | - |
+| char_488_buildr@epoque#34 | 晚风休憩 | - | 夜風に憩いて |
 | char_489_serum@epoque#31 | 逸趣 | Leisure | 気ままな休日 |
 | char_492_quercu@epoque#17 | 遥乡之径 | Distant Home's Guide | 故郷は遠く |
 | char_492_quercu@witch#4 | 树影吟游 | The Bard's Tale | 木陰の吟遊詩人 |

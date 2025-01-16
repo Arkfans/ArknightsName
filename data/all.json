@@ -1896,6 +1896,7 @@
   "char_4058_pepe": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "ペペ",
       "zh_CN": "佩佩"
     }
   },
@@ -2278,18 +2279,21 @@
   "char_4138_narant": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "ナラントゥヤ",
       "zh_CN": "娜仁图亚"
     }
   },
   "char_4139_papyrs": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "パピルス",
       "zh_CN": "莎草"
     }
   },
   "char_4140_lasher": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "サンドレコナー",
       "zh_CN": "衡沙"
     }
   },
@@ -3308,6 +3312,7 @@
   "token_10036_lasher_mcbird": {
     "type": "TOKEN",
     "names": {
+      "ja_JP": "カラクリ羽獣",
       "zh_CN": "发条羽兽"
     }
   },
@@ -5070,12 +5075,14 @@
   "trap_181_sgray": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "結晶除去装置",
       "zh_CN": "结晶消除桩"
     }
   },
   "trap_182_sglink": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "純粋結晶",
       "zh_CN": "纯净结晶"
     }
   },
@@ -8692,6 +8699,7 @@
   "char_400_weedy@sightseer#1": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "耳を傾けて",
       "zh_CN": "倾听"
     }
   },
@@ -9024,6 +9032,7 @@
   "char_4088_hodrer@sightseer#1": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "思索の庭",
       "zh_CN": "沉思之庭"
     }
   },
@@ -9478,6 +9487,7 @@
   "char_488_buildr@epoque#34": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "夜風に憩いて",
       "zh_CN": "晚风休憩"
     }
   },
@@ -9642,6 +9652,7 @@
   "sightseer": {
     "type": "BRAND",
     "names": {
+      "ja_JP": "MisalignedSightseer",
       "zh_CN": "错位巡礼"
     }
   },
@@ -9848,120 +9859,140 @@
   "enemy_10010_sgnja": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "市場の盗賊",
       "zh_CN": "市井盗贼"
     }
   },
   "enemy_10010_sgnja_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "放浪する市場の盗賊",
       "zh_CN": "市井流窜盗贼"
     }
   },
   "enemy_10011_sgshot": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "市場の狩人",
       "zh_CN": "市井猎手"
     }
   },
   "enemy_10011_sgshot_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "放浪する市場の狩人",
       "zh_CN": "市井流窜猎手"
     }
   },
   "enemy_10012_sgbtle": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "237-1号展示棚の文化財",
       "zh_CN": "237-1号展柜文物"
     }
   },
   "enemy_10012_sgbtle_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "237-2号展示棚の文化財",
       "zh_CN": "237-2号展柜文物"
     }
   },
   "enemy_10013_sgrob": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "地域文化エリアの小型カート",
       "zh_CN": "风情区小型车辇"
     }
   },
   "enemy_10013_sgrob_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "地域文化エリアの大型カート",
       "zh_CN": "风情区大型车辇"
     }
   },
   "enemy_10014_sgrich": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "壊れた小さな壺",
       "zh_CN": "小型破损器皿"
     }
   },
   "enemy_10014_sgrich_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "壊れた大きな壺",
       "zh_CN": "大型破碎器皿"
     }
   },
   "enemy_10015_sgbird": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「空飛ぶおもちゃ」",
       "zh_CN": "“滑翔的玩具”"
     }
   },
   "enemy_10015_sgbird_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「ジェット式王冠」",
       "zh_CN": "“喷射式冠冕”"
     }
   },
   "enemy_10016_sggint": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「怒りの一蹴」",
       "zh_CN": "“愤怒蹬踏”"
     }
   },
   "enemy_10016_sggint_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「止まらぬ怒りの連脚」",
       "zh_CN": "“连续地愤怒蹬踏”"
     }
   },
   "enemy_10017_sgass": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "神殿左側の彫像",
       "zh_CN": "殿堂左侧雕像"
     }
   },
   "enemy_10017_sgass_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "神殿右側の彫像",
       "zh_CN": "殿堂右侧雕像"
     }
   },
   "enemy_10018_sgrobh": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「一輪車のおもちゃ」",
       "zh_CN": "“独轮车玩具”"
     }
   },
   "enemy_10018_sgrobh_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「飛び跳ねる一輪車」",
       "zh_CN": "“弹跳独轮车”"
     }
   },
   "enemy_10019_sgmum": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「石板の名において」",
       "zh_CN": "“以板之名”"
     }
   },
   "enemy_10019_sgmum_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「石板と共にあらんことを」",
       "zh_CN": "“愿板与你同在”"
     }
   },
@@ -9984,6 +10015,7 @@
   "enemy_10020_sgcat": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「試練を課す者」ミオ",
       "zh_CN": "米奥，热烈的考验者"
     }
   },
@@ -17382,6 +17414,7 @@
   "enemy_1558_sgactr": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「過去の使者」ズバイダム",
       "zh_CN": "祖巴伊达姆，从往昔来"
     }
   },
@@ -19912,6 +19945,7 @@
   "act21login": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "5周年\nログイン",
       "zh_CN": "限定池送10连"
     }
   },
@@ -20292,6 +20326,7 @@
   "act35side": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "太陽すらも追い越して",
       "zh_CN": "太阳甩在身后"
     }
   },
@@ -20440,6 +20475,7 @@
   "act41sign": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "5周年\nスタンプ",
       "zh_CN": "沉沙赫日签到活动"
     }
   },
@@ -20729,6 +20765,7 @@
   "act8pray": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "龍門開運\nおみくじ",
       "zh_CN": "幸运墙登录活动"
     }
   },
@@ -22309,6 +22346,7 @@
   "LIMITED_TKT_GACHA_10_5301": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "5周年10回スカウト券",
       "zh_CN": "璀璨闪耀寻访凭证"
     }
   },
@@ -22487,6 +22525,7 @@
   "LMTGS_COIN_5301": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "限定契約証",
       "zh_CN": "寻访数据契约"
     }
   },
@@ -23519,6 +23558,7 @@
   "act35side_token_dust": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "流光の砂",
       "zh_CN": "流光之沙"
     }
   },
@@ -27773,6 +27813,7 @@
   "p_char_4058_pepe": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ペペの印",
       "zh_CN": "佩佩的信物"
     }
   },
@@ -28139,18 +28180,21 @@
   "p_char_4138_narant": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ナラントゥヤの印",
       "zh_CN": "娜仁图亚的信物"
     }
   },
   "p_char_4139_papyrs": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "パピルスの印",
       "zh_CN": "莎草的信物"
     }
   },
   "p_char_4140_lasher": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "サンドレコナーの印",
       "zh_CN": "衡沙的信物"
     }
   },
@@ -29685,6 +29729,7 @@
   "uni_set_idealCity": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "理想都市家具パック",
       "zh_CN": "理想城家具收藏包"
     }
   },
@@ -29993,6 +30038,7 @@
   "voucher_full_malist": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ミニマリストの手紙",
       "zh_CN": "至简的私人信件"
     }
   },
@@ -30281,18 +30327,21 @@
   "voucher_skill_specialLevelMax_4": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "★4スキル指南集",
       "zh_CN": "专业干员技巧集"
     }
   },
   "voucher_skill_specialLevelMax_5": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "★5スキル指南集",
       "zh_CN": "资深干员技巧集"
     }
   },
   "voucher_skill_specialLevelMax_6": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "★6スキル指南集",
       "zh_CN": "高级资深干员技巧集"
     }
   },
@@ -31323,6 +31372,12 @@
     "names": {
       "en_US": "OUR KIND",
       "ja_JP": "我たる所以"
+    }
+  },
+  "_LIMITED_31_0_6": {
+    "type": "POOL",
+    "names": {
+      "ja_JP": "流砂に刻印を"
     }
   },
   "_LIMITED_4_3_1": {
@@ -34858,12 +34913,14 @@
   "skchr_lasher_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "ゼンマイ巻き",
       "zh_CN": "上紧发条"
     }
   },
   "skchr_lasher_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "天秤の持ち手",
       "zh_CN": "权知轻重"
     }
   },
@@ -35484,18 +35541,21 @@
   "skchr_narant_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "旋刃",
       "zh_CN": "旋刃"
     }
   },
   "skchr_narant_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "悪夢",
       "zh_CN": "恶魇"
     }
   },
   "skchr_narant_3": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "日喰",
       "zh_CN": "吞日"
     }
   },
@@ -35728,12 +35788,14 @@
   "skchr_papyrs_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "「ひらめいた！」",
       "zh_CN": "巧思乍现"
     }
   },
   "skchr_papyrs_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "「なるようになれー！」",
       "zh_CN": "临考发挥"
     }
   },
@@ -35780,18 +35842,21 @@
   "skchr_pepe_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "ぺったん！",
       "zh_CN": "盖戳！"
     }
   },
   "skchr_pepe_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "トラブル解決術",
       "zh_CN": "阻遏混乱锤"
     }
   },
   "skchr_pepe_3": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "時の激震",
       "zh_CN": "时光震荡"
     }
   },
@@ -39726,12 +39791,14 @@
   "sktok_lasher_mcbird_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "ゼンマイ巻き",
       "zh_CN": "上紧发条"
     }
   },
   "sktok_lasher_mcbird_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "天秤の持ち手",
       "zh_CN": "权知轻重"
     }
   },
@@ -40438,12 +40505,14 @@
   "sktok_sglink": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "純粋結晶",
       "zh_CN": "纯净结晶"
     }
   },
   "sktok_sgray": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "結晶除去杭",
       "zh_CN": "结晶消除桩"
     }
   },
@@ -46956,108 +47025,126 @@
   "act35side_01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "お祭り前の肩慣らし",
       "zh_CN": "节前热身"
     }
   },
   "act35side_02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "館内特殊作戦",
       "zh_CN": "馆中特别行动"
     }
   },
   "act35side_03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "グランドバザールで会おう",
       "zh_CN": "相约大巴扎"
     }
   },
   "act35side_04": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "伝家の黄金サンダル",
       "zh_CN": "家传金拖鞋"
     }
   },
   "act35side_05": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "働く展示物",
       "zh_CN": "文物也上班"
     }
   },
   "act35side_06": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "霧散する過去",
       "zh_CN": "过往云烟"
     }
   },
   "act35side_07": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "どっちがペット？",
       "zh_CN": "谁是宠物？"
     }
   },
   "act35side_08": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "黄砂の果てに",
       "zh_CN": "黄沙尽头"
     }
   },
   "act35side_09": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "過去に別れを",
       "zh_CN": "向过去告别"
     }
   },
   "act35side_mo01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "平穏の訪れを願って",
       "zh_CN": "愿我们寻得安详"
     }
   },
   "act35side_s01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "新生の中で歌い継がれる哲理",
       "zh_CN": "哲理在新生中传唱"
     }
   },
   "act35side_s02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "豊かさの中で花開く精神",
       "zh_CN": "精神在富饶中绽放"
     }
   },
   "act35side_s03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "ペン先に集まるビジョン",
       "zh_CN": "笔尖凝聚着愿景"
     }
   },
   "act35side_s04": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "希望滴るレトリック",
       "zh_CN": "修辞流淌着期望"
     }
   },
   "act35side_st01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "輝ける都市",
       "zh_CN": "辉煌之城"
     }
   },
   "act35side_st02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "目覚める都市",
       "zh_CN": "苏醒的城市"
     }
   },
   "act35side_st03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "十字路に立ち、再出発",
       "zh_CN": "十字路口，再出发"
     }
   },
   "act35side_tr01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "警備隊の演習",
       "zh_CN": "护卫队演练"
     }
   },
@@ -53560,18 +53647,21 @@
   "act35side_zone1": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "市民庭園",
       "zh_CN": "市民花园"
     }
   },
   "act35side_zone2": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "豊穣祭",
       "zh_CN": "丰获集会"
     }
   },
   "act35side_zone3": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "宝物庫",
       "zh_CN": "藏珍宝库"
     }
   },
@@ -54660,6 +54750,7 @@
   "story_agoat2_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "闇夜から歩き出して",
       "zh_CN": "夜色中的第一步"
     }
   },
@@ -55072,6 +55163,7 @@
   "story_cement_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "坑道の中の太陽",
       "zh_CN": "矿井里的太阳"
     }
   },
@@ -55868,6 +55960,7 @@
   "story_lasher_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "失くし物",
       "zh_CN": "遗失之物"
     }
   },
@@ -56126,6 +56219,7 @@
   "story_mudrok_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "カズデルにて",
       "zh_CN": "在卡兹戴尔"
     }
   },
@@ -56274,6 +56368,7 @@
   "story_pianst_set_2_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "陽光が降り注ぐ前に",
       "zh_CN": "阳光洒落之前"
     }
   },
@@ -56360,6 +56455,7 @@
   "story_puzzle_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "過去の歌",
       "zh_CN": "旧日歌谣"
     }
   },
