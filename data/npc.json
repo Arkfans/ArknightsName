@@ -1922,6 +1922,11 @@
     ]
   },
   "avg_4058_pepe_1": {
+    "en_US": [
+      "Ceremony Host",
+      "Pepe",
+      "Woman Behind the Jeweled Screen"
+    ],
     "ja_JP": [
       "ぺぺ",
       "司会者",
@@ -2463,6 +2468,11 @@
     ]
   },
   "avg_4138_narant_1": {
+    "en_US": [
+      "Narantuya",
+      "Odd Woman",
+      "Shady Woman"
+    ],
     "ja_JP": [
       "こそこそする女性",
       "ナラントゥヤ",
@@ -2475,6 +2485,10 @@
     ]
   },
   "avg_4139_papyrs_1": {
+    "en_US": [
+      "Anat",
+      "Frantic Girl"
+    ],
     "ja_JP": [
       "アナト",
       "忙しない少女"
@@ -2486,6 +2500,11 @@
     ]
   },
   "avg_4140_lasher_1": {
+    "en_US": [
+      "Aloof Citizen",
+      "Lazvar",
+      "Slumbering Citizen"
+    ],
     "ja_JP": [
       "クールな市民",
       "ラズバール",
@@ -2740,6 +2759,9 @@
     ]
   },
   "avg_464_cement_1": {
+    "en_US": [
+      "Shana"
+    ],
     "ja_JP": [
       "シャナ"
     ],
@@ -3448,6 +3470,7 @@
       "A Spectating Infected",
       "Bar Owner",
       "Depressed Worker",
+      "Diligent Miner",
       "Engineer Andrey",
       "General Storekeeper",
       "Infected Employee B",
@@ -4048,6 +4071,7 @@
       "Guard Defender A",
       "Investigator",
       "Mine Guard",
+      "Museum Security",
       "Organizing Committee Member",
       "Otti",
       "Party Security Detail",
@@ -6280,7 +6304,8 @@
   },
   "avg_npc_1004_1": {
     "en_US": [
-      "Left-Behind Creature"
+      "Left-Behind Creature",
+      "Tiny Creature"
     ],
     "ja_JP": [
       "取り残された生物",
@@ -6326,7 +6351,8 @@
   },
   "avg_npc_1008_1": {
     "en_US": [
-      "Agitated Creature"
+      "Agitated Creature",
+      "Anxious Creature"
     ],
     "ja_JP": [
       "焦る生物"
@@ -6394,6 +6420,7 @@
   },
   "avg_npc_1012_1": {
     "en_US": [
+      "Dazed Creature",
       "Dozy Creature"
     ],
     "ja_JP": [
@@ -7405,6 +7432,7 @@
   },
   "avg_npc_1185_1": {
     "en_US": [
+      "Hard-Working Miner",
       "Infected Worker",
       "Mine Captain",
       "Worker 'Brake'"
@@ -7428,6 +7456,7 @@
       "Company Representative",
       "Somewhat Familiar Woman",
       "Strange Lady",
+      "Weary Miner",
       "Worker 'Motor'"
     ],
     "ja_JP": [
@@ -7461,6 +7490,9 @@
     ]
   },
   "avg_npc_1189_1": {
+    "en_US": [
+      "Sandbeast"
+    ],
     "ja_JP": [
       "サンドビースト"
     ],
@@ -8013,6 +8045,9 @@
     ]
   },
   "avg_npc_1256_1": {
+    "en_US": [
+      "Bejeweled Man"
+    ],
     "ja_JP": [
       "派手に着飾る男性"
     ],
@@ -8025,6 +8060,9 @@
     ]
   },
   "avg_npc_1257_1": {
+    "en_US": [
+      "Foreign Merchant"
+    ],
     "ja_JP": [
       "外国の豪商"
     ],
@@ -8034,6 +8072,9 @@
     ]
   },
   "avg_npc_1258_1": {
+    "en_US": [
+      "Elegant Woman"
+    ],
     "ja_JP": [
       "優美な女性"
     ],
@@ -9318,6 +9359,11 @@
     ]
   },
   "avg_npc_1477_1": {
+    "en_US": [
+      "Aspasia",
+      "Ceremony Host",
+      "Minoan Traveler"
+    ],
     "ja_JP": [
       "アスパシア",
       "ミノスの観光客",
@@ -9330,6 +9376,9 @@
     ]
   },
   "avg_npc_1478_1": {
+    "en_US": [
+      "Medjehtiqedti"
+    ],
     "ja_JP": [
       "メジェティクティ"
     ],
@@ -9338,6 +9387,10 @@
     ]
   },
   "avg_npc_1479_1": {
+    "en_US": [
+      "Nameless Mummy",
+      "Zubayr"
+    ],
     "ja_JP": [
       "ズバイル",
       "名もなきミイラ"
@@ -9348,6 +9401,9 @@
     ]
   },
   "avg_npc_1480_1": {
+    "en_US": [
+      "Quiet Youth"
+    ],
     "ja_JP": [
       "落ち着いた青年"
     ],
@@ -9356,6 +9412,10 @@
     ]
   },
   "avg_npc_1481_1": {
+    "en_US": [
+      "Injured Youth",
+      "Quiet Youth"
+    ],
     "ja_JP": [
       "怪我した少年",
       "落ち着いた少年"
@@ -9366,6 +9426,10 @@
     ]
   },
   "avg_npc_1482_1": {
+    "en_US": [
+      "Mio",
+      "Mysterious Animal"
+    ],
     "ja_JP": [
       "ミオ",
       "謎の動物"
@@ -9376,6 +9440,10 @@
     ]
   },
   "avg_npc_1483_1": {
+    "en_US": [
+      "Mysterious Animal",
+      "Woof"
+    ],
     "ja_JP": [
       "ワオ",
       "謎の動物"
@@ -9386,6 +9454,11 @@
     ]
   },
   "avg_npc_1484_1": {
+    "en_US": [
+      "Ajazi",
+      "Sycophantic Employee",
+      "Wandering Staff"
+    ],
     "ja_JP": [
       "アジャジ",
       "媚びる職員",
@@ -9398,6 +9471,12 @@
     ]
   },
   "avg_npc_1485_1": {
+    "en_US": [
+      "Ajani",
+      "Ajazi and Ajani",
+      "Ingratiating Employee",
+      "Lazvar"
+    ],
     "ja_JP": [
       "おだてる職員",
       "アジャジ＆アジャニ",
@@ -9412,6 +9491,9 @@
     ]
   },
   "avg_npc_1486_1": {
+    "en_US": [
+      "Foreign Traveler"
+    ],
     "ja_JP": [
       "観光客"
     ],
@@ -9420,6 +9502,9 @@
     ]
   },
   "avg_npc_1487_1": {
+    "en_US": [
+      "Herald of the City of Gold"
+    ],
     "ja_JP": [
       "黄金の都市からの使者"
     ],
@@ -9428,6 +9513,9 @@
     ]
   },
   "avg_npc_1488_1": {
+    "en_US": [
+      "Jewel Construct"
+    ],
     "ja_JP": [
       "貴石の使い"
     ],
@@ -9436,6 +9524,14 @@
     ]
   },
   "avg_npc_1490_1": {
+    "en_US": [
+      "Elegant Man",
+      "Extremely Idle Citizen",
+      "Gathering Staff",
+      "Museum Receptionist",
+      "Museum Staff",
+      "Waiter"
+    ],
     "ja_JP": [
       "ウェイター",
       "ホテルの受付係",
@@ -9455,6 +9551,17 @@
     ]
   },
   "avg_npc_1491_1": {
+    "en_US": [
+      "Ceremony Host",
+      "Eager Woman",
+      "Incredibly Bored Citizen",
+      "Mother",
+      "Museum Staff",
+      "Museum Ticketer",
+      "Picky Visitor",
+      "Plainly-Dressed Woman",
+      "Rashad"
+    ],
     "ja_JP": [
       "ラサド",
       "優しい母親",
@@ -9481,6 +9588,12 @@
     ]
   },
   "avg_npc_1492_1": {
+    "en_US": [
+      "Anxious Passerby",
+      "Gem Collector",
+      "Lamplighter",
+      "Noble Scholar"
+    ],
     "ja_JP": [
       "ランプライター",
       "宝石収集家",
@@ -9495,6 +9608,9 @@
     ]
   },
   "avg_npc_1493_1": {
+    "en_US": [
+      "Happy Lady"
+    ],
     "ja_JP": [
       "ご機嫌な婦人"
     ],
@@ -9503,6 +9619,12 @@
     ]
   },
   "avg_npc_1494_1": {
+    "en_US": [
+      "Male Trading Post Staff",
+      "Nervous Ceremony Judge",
+      "Terrified Ceremony Judge",
+      "Well-Dressed Citizen"
+    ],
     "ja_JP": [
       "凝った服装の市民",
       "取引所の男性スタッフ",
@@ -9517,6 +9639,11 @@
     ]
   },
   "avg_npc_1495_1": {
+    "en_US": [
+      "Female Trading Post Staff",
+      "Gem Merchant",
+      "Meticulous Ceremony Judge"
+    ],
     "ja_JP": [
       "取引所の女性スタッフ",
       "宝石商人",
@@ -9529,6 +9656,9 @@
     ]
   },
   "avg_npc_1496_1": {
+    "en_US": [
+      "Curious Child"
+    ],
     "ja_JP": [
       "興味津々の子供"
     ],
@@ -9537,6 +9667,14 @@
     ]
   },
   "avg_npc_1497_1": {
+    "en_US": [
+      "Curious Girl",
+      "Girl by the Shore",
+      "Happy Girl",
+      "Sad Girl",
+      "Sobbing Girl",
+      "Young Visitor"
+    ],
     "ja_JP": [
       "すすり泣く女の子",
       "傷付いた少女",
@@ -9935,6 +10073,7 @@
       "Anum",
       "Calm Woman",
       "Caravan Head",
+      "Cheerful Former Desert Bandit",
       "Emilia",
       "Grimed Woman",
       "Passerby Sargon Townsfolk"
@@ -10003,6 +10142,7 @@
   "avg_npc_165": {
     "en_US": [
       "Basil",
+      "Doubtful Former Desert Bandit",
       "Impatient Ambassador",
       "Infected Townsfolk",
       "Mayor",
@@ -10158,7 +10298,8 @@
       "Scathing Leithanian",
       "Self-Satisfied Noble Alumna",
       "Wealthy Woman",
-      "Witty Noble"
+      "Witty Noble",
+      "Woman of High Status"
     ],
     "ja_JP": [
       "ためらう使節",
@@ -10306,6 +10447,7 @@
       "Cowell",
       "Eager Investor",
       "Extremely Serious Councilor",
+      "High-status Magnate",
       "Hughes",
       "Local Judge B",
       "Londinium Merchant",
@@ -10740,6 +10882,7 @@
       "Startled Male Tourist",
       "Terrified Male Tourist",
       "Tourist",
+      "Visitor On Hoverboard",
       "嚣张的青年"
     ],
     "ja_JP": [
@@ -11537,6 +11680,7 @@
   "avg_npc_240": {
     "en_US": [
       "Anxious Child",
+      "Billy",
       "Child",
       "Craig",
       "Dirt-Poor Peddler",
@@ -11641,6 +11785,7 @@
   },
   "avg_npc_242": {
     "en_US": [
+      "'Engineer'",
       "Amazed Passerby",
       "Angry Citizen",
       "Angry Youth",
@@ -11791,6 +11936,7 @@
       "Cautious Servant",
       "Feeble Woman",
       "Infected Citizen",
+      "Information Broker",
       "Lively Female Patient",
       "Maid",
       "Noble Sister",
@@ -13879,6 +14025,7 @@
       "Lanky Inventor",
       "Londinium Citizen",
       "Londinium Citizen B",
+      "New Teacher",
       "Strange Woman",
       "Tamika"
     ],
@@ -14728,6 +14875,7 @@
       "Expectant Audience Member",
       "Friendly Infected",
       "Leonie",
+      "Mayor",
       "Onlooking Passerby B",
       "Tough Infected"
     ],
@@ -14918,6 +15066,7 @@
       "Street Hawker",
       "Surprised Tourist",
       "Suspicious Liberi",
+      "Tourist With Coins",
       "Vice President's Secretary"
     ],
     "ja_JP": [
@@ -14973,6 +15122,7 @@
       "Reporter A",
       "Staff Worker",
       "Tall Woman",
+      "Tourist Reading Guide",
       "Trimountarian",
       "Unfamiliar Researcher"
     ],
@@ -15991,8 +16141,13 @@
   },
   "avg_npc_661_1": {
     "en_US": [
+      "Curious Girl",
+      "Enthusiastic Student",
       "Farmer",
+      "Hollering Student",
+      "Hope",
       "Innocent Child",
+      "Madeline",
       "Old Man",
       "Repulsed Child",
       "Tyrant",
@@ -16358,7 +16513,10 @@
   "avg_npc_700_1": {
     "en_US": [
       "Luna",
+      "Mischievous Student",
+      "Note-Passing Student",
       "Rubio's Daughter",
+      "Selene",
       "Thin Girl"
     ],
     "ja_JP": [
@@ -17064,6 +17222,11 @@
     ]
   },
   "avg_npc_804_1": {
+    "en_US": [
+      "Bejeweled Citizen",
+      "Extravagant Man",
+      "Extravagant Traveler"
+    ],
     "ja_JP": [
       "宝石で飾り立てた市民",
       "着飾った男性",
@@ -17574,6 +17737,7 @@
       "Dying Infected",
       "Impatient Civilian",
       "Indifferent Civilian",
+      "Kazdelian Outskirter A",
       "Parker",
       "Sarkaz Civilian",
       "Sarkaz Mercenary"
@@ -17645,6 +17809,7 @@
       "Concerned Sarkaz",
       "Excited Sarkaz",
       "Frightened Sarkaz",
+      "Kazdelian Outskirter B",
       "Monastery Inhabitant",
       "Sarkaz Hunter"
     ],
@@ -18333,6 +18498,10 @@
     ]
   },
   "avgnew_4017_puzzle_1": {
+    "en_US": [
+      "Fischer",
+      "Mr. Conrad"
+    ],
     "ja_JP": [
       "コンラッド先生",
       "フィッシャー"
@@ -18817,7 +18986,8 @@
       "Illa",
       "Mays",
       "Reunion Caster",
-      "Reunion?"
+      "Reunion?",
+      "Ursus Caster"
     ],
     "ja_JP": [
       "イラ",

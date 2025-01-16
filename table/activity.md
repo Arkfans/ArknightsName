@@ -102,7 +102,7 @@ tip: 请善用浏览器的搜索功能
 | act20side | 理想城：长夏狂欢季 | Ideal City: Endless Carnival | 理想都市-エンドレスカーニバル- |
 | act20sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act20sre | 理想城：长夏狂欢季·复刻 | Ideal City: Endless Carnival - Rerun | 理想都市-エンドレスカーニバル-・復刻 |
-| act21login | 限定池送10连 | - | 5周年
+| act21login | 限定池送10连 | Free 10-roll limited pull | 5周年
 ログイン |
 | act21side | 叙拉古人 | IL Siracusano | シラクザーノ |
 | act21sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -152,7 +152,7 @@ tip: 请善用浏览器的搜索功能
 | act33sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act34side | 生路 | Path of Life | 生存航路 |
 | act34sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
-| act35side | 太阳甩在身后 | - | 太陽すらも追い越して |
+| act35side | 太阳甩在身后 | Adventure That Cannot Wait for the Sun | 太陽すらも追い越して |
 | act35sign | 清光邀月——月饼烘焙小教程 | Moonlight Invite - Mooncake-Making Tutorial | 清風明月-ロドス点心教室 |
 | act36side | 泰拉饭 | - | - |
 | act36sign | 步上双塔之时签到活动 | Climbing the Twin Spires Sign-In Event | 双塔の高みを目指してスタンプラリー |
@@ -175,7 +175,7 @@ Overload
 Collaboration
 Event | なないろのお茶会 |
 | act40sign | 无终奇语签到活动 | - | - |
-| act41sign | 沉沙赫日签到活动 | - | 5周年
+| act41sign | 沉沙赫日签到活动 | Brilliant Sun Rippling Sand Sign-In Event | 5周年
 スタンプ |
 | act42d0 | 纷争演绎 | Design of Strife | 紛争演繹 |
 | act42sign | 品鉴泰拉魔物 | - | - |
@@ -216,7 +216,7 @@ Event | なないろのお茶会 |
 | act8d2 | 愚人节活动 | - | - |
 | act8login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
 | act8mini | 如我所见 | Vigilo | 我が眼に映るまま |
-| act8pray | 幸运墙登录活动 | - | 龍門開運
+| act8pray | 幸运墙登录活动 | Lucky Strips Login Event | 龍門開運
 おみくじ |
 | act8sre | 孤岛风云·复刻 | Mansfield Break - Rerun | 孤島激震·復刻 |
 | act9d0 | 生于黑夜 | Darknights Memoir | 闇夜に生きる |

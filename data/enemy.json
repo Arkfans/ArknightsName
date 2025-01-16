@@ -63,82 +63,102 @@
     "zh_CN": "狂暴的猎狗pro"
   },
   "enemy_10010_sgnja": {
+    "en_US": "Street Bandit",
     "ja_JP": "市場の盗賊",
     "zh_CN": "市井盗贼"
   },
   "enemy_10010_sgnja_2": {
+    "en_US": "Roaming Street Bandit",
     "ja_JP": "放浪する市場の盗賊",
     "zh_CN": "市井流窜盗贼"
   },
   "enemy_10011_sgshot": {
+    "en_US": "Street Hunter",
     "ja_JP": "市場の狩人",
     "zh_CN": "市井猎手"
   },
   "enemy_10011_sgshot_2": {
+    "en_US": "Roaming Street Hunter",
     "ja_JP": "放浪する市場の狩人",
     "zh_CN": "市井流窜猎手"
   },
   "enemy_10012_sgbtle": {
+    "en_US": "Exhibit 237-1",
     "ja_JP": "237-1号展示棚の文化財",
     "zh_CN": "237-1号展柜文物"
   },
   "enemy_10012_sgbtle_2": {
+    "en_US": "Exhibit 237-2",
     "ja_JP": "237-2号展示棚の文化財",
     "zh_CN": "237-2号展柜文物"
   },
   "enemy_10013_sgrob": {
+    "en_US": "Small Bejeweled Wagon",
     "ja_JP": "地域文化エリアの小型カート",
     "zh_CN": "风情区小型车辇"
   },
   "enemy_10013_sgrob_2": {
+    "en_US": "Large Bejeweled Wagon",
     "ja_JP": "地域文化エリアの大型カート",
     "zh_CN": "风情区大型车辇"
   },
   "enemy_10014_sgrich": {
+    "en_US": "Small Broken Vessel",
     "ja_JP": "壊れた小さな壺",
     "zh_CN": "小型破损器皿"
   },
   "enemy_10014_sgrich_2": {
+    "en_US": "Large Broken Vessel",
     "ja_JP": "壊れた大きな壺",
     "zh_CN": "大型破碎器皿"
   },
   "enemy_10015_sgbird": {
+    "en_US": "'Gliding Toy'",
     "ja_JP": "「空飛ぶおもちゃ」",
     "zh_CN": "“滑翔的玩具”"
   },
   "enemy_10015_sgbird_2": {
+    "en_US": "'Gliding Crown'",
     "ja_JP": "「ジェット式王冠」",
     "zh_CN": "“喷射式冠冕”"
   },
   "enemy_10016_sggint": {
+    "en_US": "'Angry Stampede'",
     "ja_JP": "「怒りの一蹴」",
     "zh_CN": "“愤怒蹬踏”"
   },
   "enemy_10016_sggint_2": {
+    "en_US": "'Angry Rampage'",
     "ja_JP": "「止まらぬ怒りの連脚」",
     "zh_CN": "“连续地愤怒蹬踏”"
   },
   "enemy_10017_sgass": {
+    "en_US": "Hall Statue (Left)",
     "ja_JP": "神殿左側の彫像",
     "zh_CN": "殿堂左侧雕像"
   },
   "enemy_10017_sgass_2": {
+    "en_US": "Hall Statue (Right)",
     "ja_JP": "神殿右側の彫像",
     "zh_CN": "殿堂右侧雕像"
   },
   "enemy_10018_sgrobh": {
+    "en_US": "'Unicycle Toy'",
     "ja_JP": "「一輪車のおもちゃ」",
     "zh_CN": "“独轮车玩具”"
   },
   "enemy_10018_sgrobh_2": {
+    "en_US": "'Bouncing Unicycle'",
     "ja_JP": "「飛び跳ねる一輪車」",
     "zh_CN": "“弹跳独轮车”"
   },
   "enemy_10019_sgmum": {
+    "en_US": "'Bejeweled Slab Defender'",
     "ja_JP": "「石板の名において」",
     "zh_CN": "“以板之名”"
   },
   "enemy_10019_sgmum_2": {
+    "en_US": "'Bejeweled Slab Guardian'",
     "ja_JP": "「石板と共にあらんことを」",
     "zh_CN": "“愿板与你同在”"
   },
@@ -153,6 +173,7 @@
     "zh_CN": "大亚当"
   },
   "enemy_10020_sgcat": {
+    "en_US": "Mio, the Eager Examinant",
     "ja_JP": "「試練を課す者」ミオ",
     "zh_CN": "米奥，热烈的考验者"
   },
@@ -4738,6 +4759,7 @@
     "zh_CN": "“三头犬”"
   },
   "enemy_1558_sgactr": {
+    "en_US": "Zubayidamu the Timeless",
     "ja_JP": "「過去の使者」ズバイダム",
     "zh_CN": "祖巴伊达姆，从往昔来"
   },

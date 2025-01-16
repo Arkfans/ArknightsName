@@ -1781,10 +1781,12 @@
     "zh_CN": "威吓战法"
   },
   "skchr_lasher_1": {
+    "en_US": "Winding Up",
     "ja_JP": "ゼンマイ巻き",
     "zh_CN": "上紧发条"
   },
   "skchr_lasher_2": {
+    "en_US": "Weighing the Scales",
     "ja_JP": "天秤の持ち手",
     "zh_CN": "权知轻重"
   },
@@ -2169,14 +2171,17 @@
     "zh_CN": "治愈之翼"
   },
   "skchr_narant_1": {
+    "en_US": "Whirling Blade",
     "ja_JP": "旋刃",
     "zh_CN": "旋刃"
   },
   "skchr_narant_2": {
+    "en_US": "Nightmare",
     "ja_JP": "悪夢",
     "zh_CN": "恶魇"
   },
   "skchr_narant_3": {
+    "en_US": "Sunswallower",
     "ja_JP": "日喰",
     "zh_CN": "吞日"
   },
@@ -2320,10 +2325,12 @@
     "zh_CN": "崩拳式"
   },
   "skchr_papyrs_1": {
+    "en_US": "Flash of Ingenuity",
     "ja_JP": "「ひらめいた！」",
     "zh_CN": "巧思乍现"
   },
   "skchr_papyrs_2": {
+    "en_US": "Pre-Exhibit Examination",
     "ja_JP": "「なるようになれー！」",
     "zh_CN": "临考发挥"
   },
@@ -2353,14 +2360,17 @@
     "zh_CN": "创世纪"
   },
   "skchr_pepe_1": {
+    "en_US": "Get Stamped!",
     "ja_JP": "ぺったん！",
     "zh_CN": "盖戳！"
   },
   "skchr_pepe_2": {
+    "en_US": "Whirling Hammer Defense",
     "ja_JP": "トラブル解決術",
     "zh_CN": "阻遏混乱锤"
   },
   "skchr_pepe_3": {
+    "en_US": "Shock of Time",
     "ja_JP": "時の激震",
     "zh_CN": "时光震荡"
   },
@@ -4712,10 +4722,12 @@
     "zh_CN": "汲营枯枝"
   },
   "sktok_lasher_mcbird_1": {
+    "en_US": "Winding Up",
     "ja_JP": "ゼンマイ巻き",
     "zh_CN": "上紧发条"
   },
   "sktok_lasher_mcbird_2": {
+    "en_US": "Weighing the Scales",
     "ja_JP": "天秤の持ち手",
     "zh_CN": "权知轻重"
   },
@@ -5156,10 +5168,12 @@
     "zh_CN": "反隐"
   },
   "sktok_sglink": {
+    "en_US": "Pure Crystal",
     "ja_JP": "純粋結晶",
     "zh_CN": "纯净结晶"
   },
   "sktok_sgray": {
+    "en_US": "Decrystallizing Totem",
     "ja_JP": "結晶除去杭",
     "zh_CN": "结晶消除桩"
   },

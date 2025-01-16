@@ -131,7 +131,7 @@ tip: 请善用浏览器的搜索功能
 | _LIMITED_27_0_3 | - | By My Will | 宿願 |
 | _LIMITED_29_0_1 | - | Reap of Millenia | 千秋一粟 |
 | _LIMITED_30_0_5 | - | OUR KIND | 我たる所以 |
-| _LIMITED_31_0_6 | - | - | 流砂に刻印を |
+| _LIMITED_31_0_6 | - | Engraver of Quicksand | 流砂に刻印を |
 | _LIMITED_4_3_1 | - | Cremation Last Wish | 遺志に咲く火の華 |
 | _LIMITED_7_1_1 | - | Forget Me Not | 勿忘草 |
 | _LIMITED_8_3_1 | - | Earthborn Metals | 地生五金 |

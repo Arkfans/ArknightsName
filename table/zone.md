@@ -166,9 +166,9 @@ tip: 请善用浏览器的搜索功能
 | act33side_zone3 | 我始终如一 | You the Constant, You Are Me | 我は我なり |
 | act34side_zone1 | 信标投放 | Deploy Beacons | ビーコン設置 |
 | act34side_zone2 | 防线巩固 | Fortify Defense | 防衛線強化 |
-| act35side_zone1 | 市民花园 | - | 市民庭園 |
-| act35side_zone2 | 丰获集会 | - | 豊穣祭 |
-| act35side_zone3 | 藏珍宝库 | - | 宝物庫 |
+| act35side_zone1 | 市民花园 | Citizen's Garden | 市民庭園 |
+| act35side_zone2 | 丰获集会 | Harvest Gathering | 豊穣祭 |
+| act35side_zone3 | 藏珍宝库 | Treasure House | 宝物庫 |
 | act36side_zone1 | 品尝魔物 | - | - |
 | act36side_zone2 | 走遍泰拉 | - | - |
 | act37side_zone1 | 无名之勋 | - | - |

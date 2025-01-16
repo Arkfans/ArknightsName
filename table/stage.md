@@ -677,24 +677,24 @@ tip: 请善用浏览器的搜索功能
 | act34side_st02 | 如海流倒灌 | Backflow Current | 逆転する海流の如く |
 | act34side_st03 | 歧路者与同行者 | The Stray and the Companion | 道違える者と同行者 |
 | act34side_tr01 | 信标投放演习 | Beacon Deployment Drill | ビーコン設置演習 |
-| act35side_01 | 节前热身 | - | お祭り前の肩慣らし |
-| act35side_02 | 馆中特别行动 | - | 館内特殊作戦 |
-| act35side_03 | 相约大巴扎 | - | グランドバザールで会おう |
-| act35side_04 | 家传金拖鞋 | - | 伝家の黄金サンダル |
-| act35side_05 | 文物也上班 | - | 働く展示物 |
-| act35side_06 | 过往云烟 | - | 霧散する過去 |
-| act35side_07 | 谁是宠物？ | - | どっちがペット？ |
-| act35side_08 | 黄沙尽头 | - | 黄砂の果てに |
-| act35side_09 | 向过去告别 | - | 過去に別れを |
-| act35side_mo01 | 愿我们寻得安详 | - | 平穏の訪れを願って |
-| act35side_s01 | 哲理在新生中传唱 | - | 新生の中で歌い継がれる哲理 |
-| act35side_s02 | 精神在富饶中绽放 | - | 豊かさの中で花開く精神 |
-| act35side_s03 | 笔尖凝聚着愿景 | - | ペン先に集まるビジョン |
-| act35side_s04 | 修辞流淌着期望 | - | 希望滴るレトリック |
-| act35side_st01 | 辉煌之城 | - | 輝ける都市 |
-| act35side_st02 | 苏醒的城市 | - | 目覚める都市 |
-| act35side_st03 | 十字路口，再出发 | - | 十字路に立ち、再出発 |
-| act35side_tr01 | 护卫队演练 | - | 警備隊の演習 |
+| act35side_01 | 节前热身 | Warm-Up | お祭り前の肩慣らし |
+| act35side_02 | 馆中特别行动 | Special Museum Operation | 館内特殊作戦 |
+| act35side_03 | 相约大巴扎 | Take Me Out to the Grand Bazaar | グランドバザールで会おう |
+| act35side_04 | 家传金拖鞋 | Family Golden Slipper | 伝家の黄金サンダル |
+| act35side_05 | 文物也上班 | A Job for a Museum Collection | 働く展示物 |
+| act35side_06 | 过往云烟 | Whispers of the Past | 霧散する過去 |
+| act35side_07 | 谁是宠物？ | Who You Callin' Pet? | どっちがペット？ |
+| act35side_08 | 黄沙尽头 | Ends of the Sands | 黄砂の果てに |
+| act35side_09 | 向过去告别 | Farewell to the Past | 過去に別れを |
+| act35side_mo01 | 愿我们寻得安详 | At the End, Peace and Quiet Is Found | 平穏の訪れを願って |
+| act35side_s01 | 哲理在新生中传唱 | In New Birth, We Sing Philosophy | 新生の中で歌い継がれる哲理 |
+| act35side_s02 | 精神在富饶中绽放 | In Plenty, the Spirit Blooms | 豊かさの中で花開く精神 |
+| act35side_s03 | 笔尖凝聚着愿景 | From Our Pens, the Future Unfolds | ペン先に集まるビジョン |
+| act35side_s04 | 修辞流淌着期望 | In Our Words, Hope Springs Eternal | 希望滴るレトリック |
+| act35side_st01 | 辉煌之城 | City of Radiance | 輝ける都市 |
+| act35side_st02 | 苏醒的城市 | Stirring City | 目覚める都市 |
+| act35side_st03 | 十字路口，再出发 | Crossroads, New Journey | 十字路に立ち、再出発 |
+| act35side_tr01 | 护卫队演练 | Guard Drill | 警備隊の演習 |
 | act36side_01 | 源石虫农家乐 | - | - |
 | act36side_02 | 雨林解毒炖汤 | - | - |
 | act36side_03 | 黄金萝卜 | - | - |

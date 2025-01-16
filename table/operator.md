@@ -243,7 +243,7 @@ tip: 请善用浏览器的搜索功能
 | char_4048_doroth | 多萝西 | Dorothy | ドロシー |
 | char_4054_malist | 至简 | Minimalist | ミニマリスト |
 | char_4055_bgsnow | 鸿雪 | Pozëmka | パゼオンカ |
-| char_4058_pepe | 佩佩 | - | ペペ |
+| char_4058_pepe | 佩佩 | Pepe | ペペ |
 | char_405_absin | 苦艾 | Absinthe | アブサント |
 | char_4062_totter | 铅踝 | Totter | トター |
 | char_4063_quartz | 石英 | Quartz | クォーツ |
@@ -291,9 +291,9 @@ tip: 请善用浏览器的搜索功能
 | char_4134_cetsyr | 魔王 | Civilight Eterna | シヴィライト・エテルナ |
 | char_4136_phonor | PhonoR-0 | PhonoR-0 | PhonoR-0 |
 | char_4137_udflow | 深巡 | Underflow | アンダーフロー |
-| char_4138_narant | 娜仁图亚 | - | ナラントゥヤ |
-| char_4139_papyrs | 莎草 | - | パピルス |
-| char_4140_lasher | 衡沙 | - | サンドレコナー |
+| char_4138_narant | 娜仁图亚 | Narantuya | ナラントゥヤ |
+| char_4139_papyrs | 莎草 | Papyrus | パピルス |
+| char_4140_lasher | 衡沙 | Sand Reckoner | サンドレコナー |
 | char_4141_marcil | 玛露西尔 | - | - |
 | char_4142_laios | 莱欧斯 | - | - |
 | char_4143_sensi | 森西 | - | - |

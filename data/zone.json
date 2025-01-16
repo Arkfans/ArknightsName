@@ -787,14 +787,17 @@
     "zh_CN": "防线巩固"
   },
   "act35side_zone1": {
+    "en_US": "Citizen's Garden",
     "ja_JP": "市民庭園",
     "zh_CN": "市民花园"
   },
   "act35side_zone2": {
+    "en_US": "Harvest Gathering",
     "ja_JP": "豊穣祭",
     "zh_CN": "丰获集会"
   },
   "act35side_zone3": {
+    "en_US": "Treasure House",
     "ja_JP": "宝物庫",
     "zh_CN": "藏珍宝库"
   },

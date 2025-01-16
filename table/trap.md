@@ -237,8 +237,8 @@ tip: 请善用浏览器的搜索功能
 | trap_178_trrbox | “宝箱” | - | - |
 | trap_179_muctrl | 促融共竞控制 | Icebreaker Games Control | 協心競技制御装置 |
 | trap_180_dsblock | 封印的地面 | Sealed Floor | 封じられた地面 |
-| trap_181_sgray | 结晶消除桩 | - | 結晶除去装置 |
-| trap_182_sglink | 纯净结晶 | - | 純粋結晶 |
+| trap_181_sgray | 结晶消除桩 | Decrystallizing Totem | 結晶除去装置 |
+| trap_182_sglink | 纯净结晶 | Pure Crystal | 純粋結晶 |
 | trap_183_sheltk | 作战专用掩体 | Combat Special Barricade | 作戦用掩体 |
 | trap_184_vtarsn | 军工厂指令平台 | - | - |
 | trap_185_vtlntw | 黄金回响 | - | - |

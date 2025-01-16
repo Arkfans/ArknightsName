@@ -376,8 +376,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_kroos_1 | 二连射·自动 | Double Tap - Auto | 2点・バースト |
 | skchr_laios_1 | 胆小剑助 | - | - |
 | skchr_laios_2 | 威吓战法 | - | - |
-| skchr_lasher_1 | 上紧发条 | - | ゼンマイ巻き |
-| skchr_lasher_2 | 权知轻重 | - | 天秤の持ち手 |
+| skchr_lasher_1 | 上紧发条 | Winding Up | ゼンマイ巻き |
+| skchr_lasher_2 | 权知轻重 | Weighing the Scales | 天秤の持ち手 |
 | skchr_lava2_1 | 焰淬匕首 | Flame Quenched Dagger | フレイムエンチャント |
 | skchr_lava2_2 | 狱火之环 | Ring of Hellfire | プルガトリオ |
 | skchr_leizi_2 | 初雷 | Thunderclap | 初雷 |
@@ -456,9 +456,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_myrrh_1 | 二重治疗 | Dual Healing | 二重治療 |
 | skchr_myrrh_2 | 医疗力场 | Medic Field | メディカルゾーン |
 | skchr_myrtle_2 | 治愈之翼 | Healing Wings | 治癒の翅 |
-| skchr_narant_1 | 旋刃 | - | 旋刃 |
-| skchr_narant_2 | 恶魇 | - | 悪夢 |
-| skchr_narant_3 | 吞日 | - | 日喰 |
+| skchr_narant_1 | 旋刃 | Whirling Blade | 旋刃 |
+| skchr_narant_2 | 恶魇 | Nightmare | 悪夢 |
+| skchr_narant_3 | 吞日 | Sunswallower | 日喰 |
 | skchr_ncdeer_1 | 人间降吉 | Fortune Bringer of the Mortal Realm | 人間降吉 |
 | skchr_ncdeer_2 | 仙山去远 | Return to the Immortal Mountain | 仙山去遠 |
 | skchr_nearl2_1 | 灿焰长刃 | Flaming Edge | 夜に灯る白焔 |
@@ -488,16 +488,16 @@ tip: 请善用浏览器的搜索功能
 | skchr_pallas_3 | 英勇的祝福 | Blessing of Heroism | 勇士に捧ぐ祝福 |
 | skchr_panda_1 | 铁意六合 | Raging Iron Fist | 鉄意六合拳 |
 | skchr_panda_2 | 崩拳式 | Destructive Fist | 崩拳 |
-| skchr_papyrs_1 | 巧思乍现 | - | 「ひらめいた！」 |
-| skchr_papyrs_2 | 临考发挥 | - | 「なるようになれー！」 |
+| skchr_papyrs_1 | 巧思乍现 | Flash of Ingenuity | 「ひらめいた！」 |
+| skchr_papyrs_2 | 临考发挥 | Pre-Exhibit Examination | 「なるようになれー！」 |
 | skchr_pasngr_1 | 电能之触 | Touch of Static | エレキチェーン |
 | skchr_pasngr_2 | 聚焦指令 | Focus Command | フォーカスオーダー |
 | skchr_pasngr_3 | 辉煌裂片 | Glorious Shards | ルミナスフラグメンツ |
 | skchr_peacok_1 | 断罪 | Judgment | 断罪 |
 | skchr_peacok_2 | 创世纪 | Genesis | 創世記 |
-| skchr_pepe_1 | 盖戳！ | - | ぺったん！ |
-| skchr_pepe_2 | 阻遏混乱锤 | - | トラブル解決術 |
-| skchr_pepe_3 | 时光震荡 | - | 時の激震 |
+| skchr_pepe_1 | 盖戳！ | Get Stamped! | ぺったん！ |
+| skchr_pepe_2 | 阻遏混乱锤 | Whirling Hammer Defense | トラブル解決術 |
+| skchr_pepe_3 | 时光震荡 | Shock of Time | 時の激震 |
 | skchr_peper_2 | 同伴意识 | Camaraderie | 仲間意識 |
 | skchr_phatom_1 | 暗夜魅影 | Phantom of the Night | 闇夜の影法師 |
 | skchr_phatom_2 | 血色乐章 | Bloody Opus | 血染めの楽章 |
@@ -1025,8 +1025,8 @@ tip: 请善用浏览器的搜索功能
 | sktok_klmantc_2 | 触发对话 | Trigger Dialogue | 会話発生 |
 | sktok_klmantc_3 | 触发对话 | Trigger Dialogue | 会話発生 |
 | sktok_larva | 汲营枯枝 | Twigs That Crave | 渇欲の枯枝 |
-| sktok_lasher_mcbird_1 | 上紧发条 | - | ゼンマイ巻き |
-| sktok_lasher_mcbird_2 | 权知轻重 | - | 天秤の持ち手 |
+| sktok_lasher_mcbird_1 | 上紧发条 | Winding Up | ゼンマイ巻き |
+| sktok_lasher_mcbird_2 | 权知轻重 | Weighing the Scales | 天秤の持ち手 |
 | sktok_ling_soul1 | 重进酒 | Sips of Wine | 重ねて酒を進み |
 | sktok_ling_soul2 | 笑鸣瑟 | Amidst Pleasant Melodies | 笑いて瑟を鼓せ |
 | sktok_ling_soul3 | 宁作吾 | To Remain Oneself | 寧ろ吾をなさん |
@@ -1115,8 +1115,8 @@ tip: 请善用浏览器的搜索功能
 | sktok_sandsdr_2 | 触发对话 | Trigger Dialogue | 会話発生 |
 | sktok_sbomb | 起爆 | Detonate | 起爆 |
 | sktok_sensor | 反隐 | Detection | アンチステルス |
-| sktok_sglink | 纯净结晶 | - | 純粋結晶 |
-| sktok_sgray | 结晶消除桩 | - | 結晶除去杭 |
+| sktok_sglink | 纯净结晶 | Pure Crystal | 純粋結晶 |
+| sktok_sgray | 结晶消除桩 | Decrystallizing Totem | 結晶除去杭 |
 | sktok_shielder | 护盾提供 | Provide Shield | シールド付与 |
 | sktok_skadi2_1 | 共鸣 | Resonance | 共鳴 |
 | sktok_skadi2_2 | 共鸣 | Resonance | 共鳴 |
