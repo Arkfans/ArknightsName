@@ -1076,6 +1076,12 @@
   "trap_210_arcgrg": {
     "zh_CN": "两栖码头"
   },
+  "trap_211_cjgtow": {
+    "zh_CN": "火灶"
+  },
+  "trap_212_cjbtow": {
+    "zh_CN": "废弃火灶"
+  },
   "trap_400_xbfarm": {
     "en_US": "Portable Planting Trough",
     "ja_JP": "栽培ポット",

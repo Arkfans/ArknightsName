@@ -755,6 +755,19 @@ tip: 请善用浏览器的搜索功能
 | act3bossrush_02 | 惊惧与血色 | Blood and Terror | 恐怖と血色 |
 | act3bossrush_03 | 不测之渊 | Deep in Danger | 不測の淵 |
 | act3bossrush_04 | 虔信者的前路 | Path of the Faithful | 信ずる者の行方 |
+| act40side_01 | 一清二白 | - | - |
+| act40side_02 | 糖瓜粘 | - | - |
+| act40side_03 | 油泼扯面 | - | - |
+| act40side_04 | 雪里蕻 | - | - |
+| act40side_05 | 雷公栗 | - | - |
+| act40side_06 | 胜肉火方 | - | - |
+| act40side_07 | 五省盘 | - | - |
+| act40side_08 | 金玉藏心 | - | - |
+| act40side_09 | 长寿面 | - | - |
+| act40side_st01 | 陈皮菊花茶 | - | - |
+| act40side_st02 | 醍醐汤 | - | - |
+| act40side_st03 | 须问汤 | - | - |
+| act40side_tr01 | 翡翠墨玉 | - | - |
 | act4bossrush_01 | 冰霜与战火 | Frost and Fire | 氷霜と戦火 |
 | act4bossrush_02 | 无关音律 | Out Of Tune | アウトオブチューン |
 | act4bossrush_03 | 延烧的深池 | Dublinn Burning | 延焼する葦沼 |

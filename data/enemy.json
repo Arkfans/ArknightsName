@@ -355,6 +355,63 @@
     "ja_JP": "アシッドムシα",
     "zh_CN": "酸液源石虫·α"
   },
+  "enemy_10050_cjmeat": {
+    "zh_CN": "饔"
+  },
+  "enemy_10050_cjmeat_2": {
+    "zh_CN": "飧"
+  },
+  "enemy_10051_cjmag": {
+    "zh_CN": "“停箸”"
+  },
+  "enemy_10051_cjmag_2": {
+    "zh_CN": "“废食”\n"
+  },
+  "enemy_10052_cjshld": {
+    "zh_CN": "“果腹”"
+  },
+  "enemy_10052_cjshld_2": {
+    "zh_CN": "“饱食”"
+  },
+  "enemy_10053_cjman": {
+    "zh_CN": "丑言"
+  },
+  "enemy_10053_cjman_2": {
+    "zh_CN": "恶语"
+  },
+  "enemy_10054_cjhot": {
+    "zh_CN": "鼎沸"
+  },
+  "enemy_10054_cjhot_2": {
+    "zh_CN": "飘香"
+  },
+  "enemy_10055_cjgost": {
+    "zh_CN": "绸缪"
+  },
+  "enemy_10055_cjgost_2": {
+    "zh_CN": "无患"
+  },
+  "enemy_10056_cjfish": {
+    "zh_CN": "“面子”"
+  },
+  "enemy_10056_cjfish_2": {
+    "zh_CN": "“里子”"
+  },
+  "enemy_10057_cjstel": {
+    "zh_CN": "思旧"
+  },
+  "enemy_10057_cjstel_2": {
+    "zh_CN": "念旧"
+  },
+  "enemy_10058_cjfrog": {
+    "zh_CN": "旺财"
+  },
+  "enemy_10058_cjfrog_2": {
+    "zh_CN": "招财"
+  },
+  "enemy_10059_cjgfod": {
+    "zh_CN": "饮啄"
+  },
   "enemy_1005_yokai": {
     "en_US": "Monster",
     "ja_JP": "怪鳥",
@@ -369,6 +426,21 @@
     "en_US": "Raptor",
     "ja_JP": "飛龍",
     "zh_CN": "威龙"
+  },
+  "enemy_10060_cjbfod": {
+    "zh_CN": "无谓"
+  },
+  "enemy_10061_cjglon": {
+    "zh_CN": "“人间烟火”"
+  },
+  "enemy_10062_cjblon": {
+    "zh_CN": "“饮露餐风”"
+  },
+  "enemy_10063_cjdoor": {
+    "zh_CN": "湮没之口"
+  },
+  "enemy_10063_cjdoor_2": {
+    "zh_CN": "造化之口"
   },
   "enemy_1006_shield": {
     "en_US": "Heavy Defender",
@@ -4771,6 +4843,9 @@
   },
   "enemy_1561_crzjdg": {
     "zh_CN": "安纳斯塔西奥，赎罪者"
+  },
+  "enemy_1562_cjtaot": {
+    "zh_CN": "无餍"
   },
   "enemy_2001_duckmi": {
     "en_US": "Duck Lord",

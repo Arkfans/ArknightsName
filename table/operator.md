@@ -36,6 +36,7 @@ tip: 请善用浏览器的搜索功能
 | char_1038_whitw2 | 荒芜拉普兰德 | - | - |
 | char_1039_thorn2 | 引星棘刺 | - | - |
 | char_103_angel | 能天使 | Exusiai | エクシア |
+| char_1040_blaze2 | 烛煌 | - | - |
 | char_106_franka | 芙兰卡 | Franka | フランカ |
 | char_107_liskam | 雷蛇 | Liskarm | リスカム |
 | char_108_silent | 赫默 | Silence | サイレンス |
@@ -109,6 +110,7 @@ tip: 请善用浏览器的搜索功能
 | char_2023_ling | 令 | Ling | リィン |
 | char_2024_chyue | 重岳 | Chongyue | チョンユエ |
 | char_2025_shu | 黍 | Shu | シュウ |
+| char_2026_yu | 余 | - | - |
 | char_202_demkni | 塞雷娅 | Saria | サリア |
 | char_204_platnm | 白金 | Platinum | プラチナ |
 | char_206_gnosis | 灵知 | Gnosis | ノーシス |
@@ -241,6 +243,7 @@ tip: 请善用浏览器的搜索功能
 | char_4046_ebnhlz | 黑键 | Ebenholz | エーベンホルツ |
 | char_4047_pianst | 车尔尼 | Czerny | ツェルニー |
 | char_4048_doroth | 多萝西 | Dorothy | ドロシー |
+| char_4052_surfer | 寻澜 | - | - |
 | char_4054_malist | 至简 | Minimalist | ミニマリスト |
 | char_4055_bgsnow | 鸿雪 | Pozëmka | パゼオンカ |
 | char_4058_pepe | 佩佩 | Pepe | ペペ |
@@ -310,6 +313,7 @@ tip: 请善用浏览器的搜索功能
 | char_4164_tecno | 特克诺 | - | - |
 | char_4165_ctrail | 云迹 | - | - |
 | char_416_zumama | 森蚺 | Eunectes | ユーネクテス |
+| char_4172_xingzh | 行箸 | - | - |
 | char_420_flamtl | 焰尾 | Flametail | フレイムテイル |
 | char_421_crow | 羽毛笔 | La Pluma | ラ・プルマ |
 | char_422_aurora | 极光 | Aurora | オーロラ |

@@ -3551,6 +3551,45 @@
     "ja_JP": "信ずる者の行方",
     "zh_CN": "虔信者的前路"
   },
+  "act40side_01": {
+    "zh_CN": "一清二白"
+  },
+  "act40side_02": {
+    "zh_CN": "糖瓜粘"
+  },
+  "act40side_03": {
+    "zh_CN": "油泼扯面"
+  },
+  "act40side_04": {
+    "zh_CN": "雪里蕻"
+  },
+  "act40side_05": {
+    "zh_CN": "雷公栗"
+  },
+  "act40side_06": {
+    "zh_CN": "胜肉火方"
+  },
+  "act40side_07": {
+    "zh_CN": "五省盘"
+  },
+  "act40side_08": {
+    "zh_CN": "金玉藏心"
+  },
+  "act40side_09": {
+    "zh_CN": "长寿面"
+  },
+  "act40side_st01": {
+    "zh_CN": "陈皮菊花茶"
+  },
+  "act40side_st02": {
+    "zh_CN": "醍醐汤"
+  },
+  "act40side_st03": {
+    "zh_CN": "须问汤"
+  },
+  "act40side_tr01": {
+    "zh_CN": "翡翠墨玉"
+  },
   "act4bossrush_01": {
     "en_US": "Frost and Fire",
     "ja_JP": "氷霜と戦火",

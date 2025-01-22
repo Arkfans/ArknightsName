@@ -154,6 +154,7 @@ tip: 请善用浏览器的搜索功能
 | LIMITED_TKT_GACHA_10_5001 | 残夜厝薪寻访凭证 | Dawn Enkindlers Headhunting Permit | 感謝祭記念10回スカウト券 |
 | LIMITED_TKT_GACHA_10_5301 | 璀璨闪耀寻访凭证 | Bright Glitter Headhunting Permit | 5周年10回スカウト券 |
 | LIMITED_TKT_GACHA_10_5601 | 荒芜探戈寻访凭证 | - | - |
+| LIMITED_TKT_GACHA_10_5801 | 欢宴良宵寻访凭证 | - | - |
 | LIMITED_TKT_GACHA_10_903 | 苏醒纪念寻访凭证 | Awakening Commemoration Permit | 1周年記念10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_1701 | 特勤专家寻访凭证 | Expert Headhunting Permit | 精鋭小隊10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_3601 | 指引明路寻访凭证 | Scouting the Light Headhunting Permit | ハンター凱旋10回スカウト券 |
@@ -177,6 +178,7 @@ tip: 请善用浏览器的搜索功能
 | LMTGS_COIN_5001 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_5301 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_5601 | 寻访数据契约 | - | - |
+| LMTGS_COIN_5801 | 寻访数据契约 | - | - |
 | LMTGS_COIN_601 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_903 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | Logistics_Special_Permit | 后勤特别许可证 | Logistics Special Permit | 特別支援申請許可証 |
@@ -320,6 +322,7 @@ tip: 请善用浏览器的搜索功能
 | act3bossrush_relic_03 | 经验习得 | Experience Acquisition | 経験習得 |
 | act3bossrush_relic_04 | 过热运转 | Overcharge | オーバーヒート |
 | act3bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
+| act40side_token_yumyum | “生香” | - | - |
 | act42d0_token_evaluation | 试验数据集 | Experimental Dataset | テストデータ集 |
 | act4bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act4bossrush_relic_01 | 轻量化载荷 | Lightened Load | 積込み軽量化 |
@@ -377,6 +380,11 @@ tip: 请善用浏览器的搜索功能
 | ap_supply_lt_100_2024_4 | 脆壳糖油果 | Glassy-Sweet Rice Fritters | 揚げ餡子餅 |
 | ap_supply_lt_100_2024_5 | 奶油夹心饼干 | Custard Creams | クリームサンドビスケット |
 | ap_supply_lt_100_2024_6 | 热腾腾大包 | - | - |
+| ap_supply_lt_100_2025_1 | 熔炉炒饭 | - | - |
+| ap_supply_lt_100_2025_2 | 皇家莲花饼 | - | - |
+| ap_supply_lt_100_2025_3 | 萨卢佐醇酿 | - | - |
+| ap_supply_lt_100_2025_4 | 特制蜜三刀 | - | - |
+| ap_supply_lt_100_2025_5 | “罗德岛” | - | - |
 | ap_supply_lt_120 | 应急理智浓缩液 | Emergency Sanity Concentrate | 上級理性回復剤+ |
 | ap_supply_lt_120_2022_1 | 满颜色 | Full Color | 一家団欒 |
 | ap_supply_lt_120_2022_2 | 正圆月 | Full Moon | 仲秋名月 |
@@ -395,6 +403,7 @@ tip: 请善用浏览器的搜索功能
 | ap_supply_lt_120_2025_1 | 1101生日糕点 | - | - |
 | ap_supply_lt_60 | 应急理智合剂 | Emergency Sanity Potion | 初級理性回復剤 |
 | ap_supply_lt_80 | 应急理智加强剂 | Emergency Sanity Booster | 初級理性回復剤+ |
+| ap_supply_lt_80_2025_1 | 清爽运动饮料 | - | - |
 | base_ap | 无人机 | Drone | ドローン |
 | bilibili001 | 预约干员随机4选1 | Preregister to get 1 of 4 Operators randomly | オペレーター指定券 |
 | class_p_char_003_kalts | - | Kal'tsit's Kernel Token | ケルシーの印（中堅） |
@@ -643,6 +652,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_1038_whitw2 | 荒芜拉普兰德的信物 | - | - |
 | p_char_1039_thorn2 | 引星棘刺的信物 | - | - |
 | p_char_103_angel | 能天使的信物 | Exusiai's Token | エクシアの印 |
+| p_char_1040_blaze2 | 烛煌的信物 | - | - |
 | p_char_106_franka | 芙兰卡的信物 | Franka's Token | フランカの印 |
 | p_char_107_liskam | 雷蛇的信物 | Liskarm's Token | リスカムの印 |
 | p_char_108_silent | 赫默的信物 | Silence's Token | サイレンスの印 |
@@ -715,6 +725,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_2023_ling | 令的信物 | Ling's Token | リィンの印 |
 | p_char_2024_chyue | 重岳的信物 | Chongyue's Token | チョンユエの印 |
 | p_char_2025_shu | 黍的信物 | Shu's Token | シュウの印 |
+| p_char_2026_yu | 余的信物 | - | - |
 | p_char_202_demkni | 塞雷娅的信物 | Saria's Token | サリアの印 |
 | p_char_204_platnm | 白金的信物 | Platinum's Token | プラチナの印 |
 | p_char_206_gnosis | 灵知的信物 | Gnosis's Token | ノーシスの印 |
@@ -846,6 +857,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4046_ebnhlz | 黑键的信物 | Ebenholz's Token | エーベンホルツの印 |
 | p_char_4047_pianst | 车尔尼的信物 | Czerny's Token | ツェルニーの印 |
 | p_char_4048_doroth | 多萝西的信物 | Dorothy's Token | ドロシーの印 |
+| p_char_4052_surfer | 寻澜的信物 | - | - |
 | p_char_4054_malist | 至简的信物 | Minimalist's Token | ミニマリストの印 |
 | p_char_4055_bgsnow | 鸿雪的信物 | Pozëmka's Token | パゼオンカの印 |
 | p_char_4058_pepe | 佩佩的信物 | Pepe's Token | ペペの印 |
@@ -913,6 +925,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4164_tecno | 特克诺的信物 | - | - |
 | p_char_4165_ctrail | 云迹的信物 | - | - |
 | p_char_416_zumama | 森蚺的信物 | Eunectes' Token | ユーネクテスの印 |
+| p_char_4172_xingzh | 行箸的信物 | - | - |
 | p_char_420_flamtl | 焰尾的信物 | Flametail's Token | フレイムテイルの印 |
 | p_char_421_crow | 羽毛笔的信物 | La Pluma's Token | ラ・プルマの印 |
 | p_char_422_aurora | 极光的信物 | Aurora's Token | オーロラの印 |

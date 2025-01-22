@@ -179,6 +179,9 @@ tip: 请善用浏览器的搜索功能
 | act39side_zone1 | 盐漠开航 | - | - |
 | act39side_zone2 | 穿越骸礁 | - | - |
 | act3bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
+| act40side_zone1 | 识七味 | - | - |
+| act40side_zone2 | 阅世情 | - | - |
+| act40side_zone3 | 怅别离 | - | - |
 | act4bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act5d0_zone1 | 下城区 | Downtown | 繁華街 |
 | act5d0_zone2 | 东部郊区 | Eastern Suburbs | 東部郊外 |

@@ -125,6 +125,7 @@ tip: 请善用浏览器的搜索功能
 | story_glaze_set_1_story_1 | 圣城晚照 | - | - |
 | story_glider_set_1_story_1 | 苦涩的根茎 | A Bitterest Rhizome | 苦い根茎 |
 | story_gnosis_set_1_story_1 | 起点 | Starting Point | 起点 |
+| story_grabds_set_1_story_1 | 旧梦重温 | - | - |
 | story_grani_set_1_story_1 | 穷途不返 | Once Rock Bottom... | 決して振り返らず |
 | story_gravel_set_1_story_1 | 梦中过往 | Past in Dreams | 過ぎ去りし日の夢 |
 | story_greyy2_set_1_story_1 | 撰写光明 | Light, He Wrote | 綴られる光 |
@@ -170,6 +171,7 @@ tip: 请善用浏览器的搜索功能
 | story_leizi_set_1_story_1 | 司雷霆者 | One Who Controls Lightning | 雷を司る者 |
 | story_lessng_set_1_story_1 | 共同建设乌提卡领 | - | - |
 | story_leto_set_1_story_1 | 捉迷藏 | Hide-and-Seek | かくれんぼ |
+| story_lin_set_1_story_1 | 新潮旧浪 | - | - |
 | story_ling_set_1_story_1 | 醒时梦长 | From a Long Dream Woken | 白日の酔夢 |
 | story_lionhd_set_1_story_1 | 暗境求生 | Living in Darkness | 暗闇の生還 |
 | story_liskam_set_1_story_1 | 苹果派对准备中！ | 'Apple Pie Party, Now Preparing!' | リンゴパーティー準備中！ |
@@ -304,6 +306,7 @@ tip: 请善用浏览器的搜索功能
 | story_vodfox_set_1_story_1 | 无字诅咒 | A Curse Without Words | 文字なき呪い |
 | story_vrdant_set_1_story_1 | 小草的呼喊 | Little Tuft, Where Art Thou? | 草木の叫び |
 | story_waaifu_set_1_story_1 | 武为何物 | What Martial Arts Serve | 武とは何ぞや |
+| story_wanqin_set_1_story_1 | 问道 | - | - |
 | story_warmy_set_1_story_1 | 未完的结局 | - | - |
 | story_weedy_set_1_story_1 | 同舟 | Together Aboard | 同舟 |
 | story_whispr_set_1_story_1 | 雨落之前 | Before the Rain | 雨降る前に |
@@ -311,6 +314,7 @@ tip: 请善用浏览器的搜索功能
 | story_windft_set_1_story_1 | 老工厂里的一支舞 | Lone Dance at the Old Factory | 古工場のダンス |
 | story_wyvern_set_1_story_1 | 源石虫与啤酒花 | Originium Slugs and Hops | オリジムシとホップ |
 | story_yak_set_1_story_1 | 一天 | One Day | 一日 |
+| story_yu_set_1_story_1 | 百年一日 | - | - |
 | story_yuki_set_1_story_1 | 忍者之道 | The Way of Shinobi | 忍びの道 |
 | story_zebra_set_1_story_1 | 不合时宜 | Untimeliness | 場違い |
 | story_zumama_set_1_story_1 | 密林狂想 | - | - |

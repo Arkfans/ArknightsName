@@ -148,6 +148,9 @@
     "ja_JP": "エクシア",
     "zh_CN": "能天使"
   },
+  "char_1040_blaze2": {
+    "zh_CN": "烛煌"
+  },
   "char_106_franka": {
     "en_US": "Franka",
     "ja_JP": "フランカ",
@@ -510,6 +513,9 @@
     "en_US": "Shu",
     "ja_JP": "シュウ",
     "zh_CN": "黍"
+  },
+  "char_2026_yu": {
+    "zh_CN": "余"
   },
   "char_202_demkni": {
     "en_US": "Saria",
@@ -1169,6 +1175,9 @@
     "ja_JP": "ドロシー",
     "zh_CN": "多萝西"
   },
+  "char_4052_surfer": {
+    "zh_CN": "寻澜"
+  },
   "char_4054_malist": {
     "en_US": "Minimalist",
     "ja_JP": "ミニマリスト",
@@ -1487,6 +1496,9 @@
     "en_US": "Eunectes",
     "ja_JP": "ユーネクテス",
     "zh_CN": "森蚺"
+  },
+  "char_4172_xingzh": {
+    "zh_CN": "行箸"
   },
   "char_420_flamtl": {
     "en_US": "Flametail",

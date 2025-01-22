@@ -103,9 +103,34 @@ tip: 请善用浏览器的搜索功能
 | enemy_10049_pcaptn_2 | 美声水手长 | - | - |
 | enemy_1004_mslime | 酸液源石虫 | Acid Originium Slug | アシッドムシ |
 | enemy_1004_mslime_2 | 酸液源石虫·α | Acid Originium Slug α | アシッドムシα |
+| enemy_10050_cjmeat | 饔 | - | - |
+| enemy_10050_cjmeat_2 | 飧 | - | - |
+| enemy_10051_cjmag | “停箸” | - | - |
+| enemy_10051_cjmag_2 | “废食”
+ | - | - |
+| enemy_10052_cjshld | “果腹” | - | - |
+| enemy_10052_cjshld_2 | “饱食” | - | - |
+| enemy_10053_cjman | 丑言 | - | - |
+| enemy_10053_cjman_2 | 恶语 | - | - |
+| enemy_10054_cjhot | 鼎沸 | - | - |
+| enemy_10054_cjhot_2 | 飘香 | - | - |
+| enemy_10055_cjgost | 绸缪 | - | - |
+| enemy_10055_cjgost_2 | 无患 | - | - |
+| enemy_10056_cjfish | “面子” | - | - |
+| enemy_10056_cjfish_2 | “里子” | - | - |
+| enemy_10057_cjstel | 思旧 | - | - |
+| enemy_10057_cjstel_2 | 念旧 | - | - |
+| enemy_10058_cjfrog | 旺财 | - | - |
+| enemy_10058_cjfrog_2 | 招财 | - | - |
+| enemy_10059_cjgfod | 饮啄 | - | - |
 | enemy_1005_yokai | 妖怪 | Monster | 怪鳥 |
 | enemy_1005_yokai_2 | 妖怪MKII | Monster Mk II | 怪鳥Mk2 |
 | enemy_1005_yokai_3 | 威龙 | Raptor | 飛龍 |
+| enemy_10060_cjbfod | 无谓 | - | - |
+| enemy_10061_cjglon | “人间烟火” | - | - |
+| enemy_10062_cjblon | “饮露餐风” | - | - |
+| enemy_10063_cjdoor | 湮没之口 | - | - |
+| enemy_10063_cjdoor_2 | 造化之口 | - | - |
 | enemy_1006_shield | 重装防御者 | Heavy Defender | 重装兵 |
 | enemy_1006_shield_2 | 重装防御组长 | Heavy Defender Leader | 重装隊長 |
 | enemy_1006_shield_3 | 重装五十夫长 | Heavy Defender Lieutenant | 重装連隊長 |
@@ -990,6 +1015,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1559_vtlionk | 阿利斯泰尔，帝国余晖 | - | - |
 | enemy_1560_cnvlap | “狂欢之主” | - | - |
 | enemy_1561_crzjdg | 安纳斯塔西奥，赎罪者 | - | - |
+| enemy_1562_cjtaot | 无餍 | - | - |
 | enemy_2001_duckmi | 鸭爵 | Duck Lord | ダック卿 |
 | enemy_2002_bearmi | 高普尼克 | Gopnik | ゴプニク |
 | enemy_2003_rockman | 迷路的巨像 | Lost Colossus | 迷子の巨像 |

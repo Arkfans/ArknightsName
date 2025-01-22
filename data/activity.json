@@ -29,6 +29,9 @@
     "ja_JP": "闇散らす火花",
     "zh_CN": "阴云火花"
   },
+  "act10pray": {
+    "zh_CN": "幸运墙登录活动"
+  },
   "act10sre": {
     "en_US": "A Walk in the Dust - Rerun",
     "ja_JP": "遺塵の道を·復刻",
@@ -506,6 +509,9 @@
     "ja_JP": "この炎が照らす先・復刻",
     "zh_CN": "照我以火·复刻"
   },
+  "act23login": {
+    "zh_CN": "登录领取奖励"
+  },
   "act23side": {
     "en_US": "Where Vernal Winds Will Never Blow",
     "ja_JP": "登臨意",
@@ -601,6 +607,9 @@
   },
   "act29sre": {
     "zh_CN": "崔林特尔梅之金·复刻"
+  },
+  "act2blessing": {
+    "zh_CN": "2025罗德岛新春签到"
   },
   "act2bossrush": {
     "en_US": "Trials for Navigator",
@@ -789,6 +798,9 @@
     "en_US": "Sweetness\nOverload\nCollaboration\nEvent",
     "ja_JP": "なないろのお茶会",
     "zh_CN": "虹彩茶会合作活动"
+  },
+  "act40side": {
+    "zh_CN": "相见欢"
   },
   "act40sign": {
     "zh_CN": "无终奇语签到活动"

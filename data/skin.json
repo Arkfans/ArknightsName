@@ -602,6 +602,9 @@
     "ja_JP": "何処棲",
     "zh_CN": "何处栖"
   },
+  "char_2025_shu@nian#11": {
+    "zh_CN": "春日宴"
+  },
   "char_202_demkni@boc#1": {
     "en_US": "Stronghold",
     "ja_JP": "堅城",
@@ -1171,6 +1174,9 @@
     "ja_JP": "帰巣",
     "zh_CN": "归巢"
   },
+  "char_369_bena@epoque#38": {
+    "zh_CN": "草原小帮手"
+  },
   "char_373_lionhd@snow#3": {
     "en_US": "Hope Cruise",
     "ja_JP": "希望の運び手",
@@ -1477,6 +1483,9 @@
   "char_4104_coldst@striker#3": {
     "zh_CN": "破晓"
   },
+  "char_4105_almond@epoque#38": {
+    "zh_CN": "“杏仁”拼盘"
+  },
   "char_4106_bryota@epoque#34": {
     "en_US": "Vibrant",
     "ja_JP": "躍動",
@@ -1498,6 +1507,9 @@
     "en_US": "Silent Night DN04",
     "ja_JP": "安息の午夜DN04",
     "zh_CN": "静谧午夜 DN04"
+  },
+  "char_4121_zuole@nian#11": {
+    "zh_CN": "少年游"
   },
   "char_4122_grabds@yun#3": {
     "en_US": "Fragrant Pace",

@@ -40,6 +40,8 @@ tip: 请善用浏览器的搜索功能
 | avg_1038_whitw2_1 | 拉普兰德 | - | - |
 | avg_1039_thorn2_1 | 伊西多 | - | - |
 | avg_103_angel_1 | 能天使 | Exusiai | エクシア |
+| avg_1040_blaze2_1 | 煌 | - | - |
+|   | 维多利亚游客？ |   |   |
 | avg_106_franka_1 | 芙兰卡 | Franka | フランカ |
 | avg_107_liskam_1 | 雷蛇 | Liskarm | リスカム |
 | avg_108_silent_1 | 市民？ | Citizen? | サイレンス |
@@ -109,9 +111,14 @@ tip: 请善用浏览器的搜索功能
 |   | 重岳 | Shuo | チョンユエ |
 | avg_2025_shu_1 | 温柔的女性 | Ethereal Woman | シュウ |
 |   | 路过的农业天师 | Indistinct Woman | 優しい女性 |
-|   | 面目模糊的女性 | Kind Woman | 漂う女性 |
-|   | 飘忽的女性 | Passing Nongye Tianshi | 通りすがりの農業天師 |
-|   | 黍 | Shu | 顔の見えない女性 |
+|   | 路过的神仙 | Kind Woman | 漂う女性 |
+|   | 面目模糊的女性 | Passing Nongye Tianshi | 通りすがりの農業天師 |
+|   | 飘忽的女性 | Shu | 顔の見えない女性 |
+|   | 黍 |   |   |
+| avg_2026_yu_1 | 余 | - | - |
+|   | 小厨子 |   |   |
+|   | 小大厨 |   |   |
+|   | 暴躁的少年 |   |   |
 | avg_202_demkni_1 | 塞雷娅 | Saria | サリア |
 | avg_206_gnosis_1 | 诺希斯 | Gnosis | ノーシス |
 | avg_212_ansel_1 | 安赛尔 | Ansel | アンセル |
@@ -302,7 +309,8 @@ tip: 请善用浏览器的搜索功能
 |   | 质朴的少年 | Rustic Youth | 農業天師見習い |
 | avg_4121_zuole_1 | 左乐 | Zuo Le | ズオ・ラウ |
 | avg_4122_grabds_1 | 小满 | Grain Buds | やんちゃな少女 |
-|   | 顽皮的少女 | Mischievous Girl | シャオマン |
+|   | 路过的小姑娘 | Mischievous Girl | シャオマン |
+|   | 顽皮的少女 |   |   |
 | avg_4123_ela_1 | 艾拉 | Ela | Ela |
 |   | 艾拉？ | Ela? | Ela？ |
 | avg_4124_iana_1 | 双月 | Iana | Iana |
@@ -350,6 +358,11 @@ tip: 请善用浏览器的搜索功能
 |   | 帕斯卡拉 |   |   |
 |   | 瑰盐 |   |   |
 | avg_416_zumama_1 | 森蚺 | - | - |
+| avg_4172_xingzh_1 | 宁茵 | - | - |
+|   | 巡逻的卫兵 |   |   |
+|   | 文雅的女子 |   |   |
+|   | 着急的女子 |   |   |
+|   | 行箸 |   |   |
 | avg_421_crow_1 | 羽毛笔 | La Pluma | ラ・プルマ |
 | avg_421_laplum_1 | 拉菲艾拉 | Rafaela | ラファエラ |
 | avg_422_aurora_1 | 极光 | Aurora | オーロラ |
@@ -770,13 +783,14 @@ tip: 请善用浏览器的搜索功能
 |   | 托马索 | Mafioso B | マフィア構成員 |
 |   | 精明的叉烧帮成员 | Mafioso F | ロッサティの構成員 |
 |   | 罗塞蒂家族成员 | Man in Black | 冷酷な用心棒 |
-|   | 轻浮的护卫 | Pensive Hitman | 冷静な殺し屋 |
-|   | 阴险的帮派成员 | Rossati Mafioso | 厳格な用心棒 |
-|   | 陌生的男人 | Shrewd-looking Char Siu Member | 強面な叉焼幇 |
-|   | 鬼祟的黑衣人 | Sly Black-Suit | 思慮のある殺し屋 |
-|   | 黑帮 | Stony-Faced Bodyguard | 知らない男 |
-|   | 黑帮A | Tommaso | 軽薄な用心棒 |
-|   | 黑帮B | Unfamiliar Man | 黒服の男 |
+|   | 胖坤 | Pensive Hitman | 冷静な殺し屋 |
+|   | 轻浮的护卫 | Rossati Mafioso | 厳格な用心棒 |
+|   | 阴险的帮派成员 | Shrewd-looking Char Siu Member | 強面な叉焼幇 |
+|   | 陌生的男人 | Sly Black-Suit | 思慮のある殺し屋 |
+|   | 鬼祟的黑衣人 | Stony-Faced Bodyguard | 知らない男 |
+|   | 黑帮 | Tommaso | 軽薄な用心棒 |
+|   | 黑帮A | Unfamiliar Man | 黒服の男 |
+|   | 黑帮B |   |   |
 |   | 黑帮成员 |   |   |
 |   | 黑帮首领 |   |   |
 |   | 黑衣人 |   |   |
@@ -791,27 +805,28 @@ tip: 请善用浏览器的搜索功能
 |   | 女游客 | An Audience Member A | 元気な観光客 |
 |   | 女生 | An Enthusiastic Spectator | 女性住人 |
 |   | 店员 | Angry Man & Woman | 女性旅行客 |
-|   | 恼怒的女人 | Angry Woman | 女性観光客 |
-|   | 愤怒的男人&恼怒的女人 | Camera Crew Leader | 女性通行人 |
-|   | 拍摄队长 | Clerk | 客A |
-|   | 游客 | Diner A | 市民A |
-|   | 游客A | Embarrassed Woman | 店員 |
-|   | 琳兹 | Female Passerby | 怒る女性 |
-|   | 疑似是托的女性路人 | Female Resident | 怒る男女 |
-|   | 精神的游客 | Female Tourist | 慎重な観客 |
-|   | 聒噪的观众 | Girl | 撮影班の班長 |
-|   | 自来熟的女人 | Passerby Diner | 気まずそうな女性 |
-|   | 观众A | Passerby Girl | 興奮する観客 |
-|   | 谨慎的观众 | Passing Traveler | 苦難の龍門市民 |
-|   | 贫民窟的感染者 | Rinz | 観光客 |
-|   | 路过的女孩 | Shopkeeper | 観光客A |
-|   | 路过的旅人 | Slum Infected | 観客A |
-|   | 路过的游客A | Spirited Tourist | 通りすがりの女の子 |
-|   | 路过的食客 | Staged(?) Female Passerby | 通りすがりの旅人 |
-|   | 邻居 | Trapped Lungmen Citizen | 通りすがりの観光客A |
-|   | 阿云 | Ye Zizhen | 通りすがりの食事客 |
-|   | 阿尔瓦 | Young Citizen A | 通行人の女性 |
-|   | 青年市民A |   | 騒がしい観客 |
+|   | 恐惧的女性 | Angry Woman | 女性観光客 |
+|   | 恼怒的女人 | Camera Crew Leader | 女性通行人 |
+|   | 愤怒的男人&恼怒的女人 | Clerk | 客A |
+|   | 拍摄队长 | Diner A | 市民A |
+|   | 游客 | Embarrassed Woman | 店員 |
+|   | 游客A | Female Passerby | 怒る女性 |
+|   | 琳兹 | Female Resident | 怒る男女 |
+|   | 疑似是托的女性路人 | Female Tourist | 慎重な観客 |
+|   | 精神的游客 | Girl | 撮影班の班長 |
+|   | 聒噪的观众 | Passerby Diner | 気まずそうな女性 |
+|   | 自来熟的女人 | Passerby Girl | 興奮する観客 |
+|   | 观众A | Passing Traveler | 苦難の龍門市民 |
+|   | 谨慎的观众 | Rinz | 観光客 |
+|   | 贫民窟的感染者 | Shopkeeper | 観光客A |
+|   | 路过的女孩 | Slum Infected | 観客A |
+|   | 路过的旅人 | Spirited Tourist | 通りすがりの女の子 |
+|   | 路过的游客A | Staged(?) Female Passerby | 通りすがりの旅人 |
+|   | 路过的食客 | Trapped Lungmen Citizen | 通りすがりの観光客A |
+|   | 邻居 | Ye Zizhen | 通りすがりの食事客 |
+|   | 阿云 | Young Citizen A | 通行人の女性 |
+|   | 阿尔瓦 |   | 騒がしい観客 |
+|   | 青年市民A |   |   |
 |   | 食客A |   |   |
 | avg_npc_033 | 一般龙门市民 | A Spectator | イベント参加者？ |
 |   | 主持人 | A Spectator B | ケガした滷水幇 |
@@ -827,50 +842,53 @@ tip: 请善用浏览器的搜索功能
 |   | 惊慌的龙门市民 | Confused Fan | 客 |
 |   | 愤怒的卤水帮成员 | Customer | 寒がりな観光客 |
 |   | 愤怒的男人 | Doctor | 市民B |
-|   | 手下 | Drunk | 強面な滷水幇 |
-|   | 拍摄灯光师 | Embarrassed Man | 怒る男性 |
-|   | 无辜的路人 | Enthusiastic Spectator | 抜け目ない青年 |
-|   | 普通办事员 | Excited Fan | 撮影班の照明 |
-|   | 游客 | Excited Youth | 普通そうな住民 |
-|   | 游客B | Flower Shop Owner | 激怒した滷水幇 |
-|   | 潦倒的男人 | Hapless Man | 無実の通行人 |
-|   | 激动的粉丝 | Host | 男性住人 |
-|   | 激动的观众 | Infected Slum Dweller | 男性旅行客 |
-|   | 男性居民 | Injured Lou Seoi Member | 興奮しているファン |
-|   | 男性游客 | Innocent Passerby | 興奮する観客 |
-|   | 男性路人 | Lighting Engineer | 興奮する青年 |
-|   | 疑惑的社区居民 | Lungmen Agent | 花屋の店主 |
-|   | 疑惑的粉丝 | Lungmen Tourist | 若い遭難者 |
-|   | 看似普通的居民 | Lungmen Tourist? | 落ちぶれた男 |
-|   | 社区居民 | Lungmenite? | 街道管理員？ |
-|   | 精明的青年 | Male Lungmenite | 観光客 |
-|   | 花店老板 | Male Passerby | 観光客B |
-|   | 街道管理员？ | Male Resident | 観客 |
-|   | 观众 | Male Tourist | 観客B |
-|   | 观众B | Noodle Shop Owner | 訝しむコミュニティ住民 |
-|   | 贫民区感染者 | Ordinary Clerk | 通りすがりの客 |
-|   | 贫民窟居民 | Ordinary Lungmen Citizen | 通行人の男性 |
-|   | 路过的客人 | Panicked Lungmen Citizen | 部下 |
-|   | 酒保 | Passerby Customer | 驚いた龍門市民 |
-|   | 酒客？ | Perplexed Fan | 麵屋の店長 |
-|   | 青年市民B | Rat King's Henchman | 鼠王の部下 |
-|   | 面馆老板 | Seemingly Ordinary Resident | 龍門の一般市民 |
-|   | 顾客 | Shrewd Youth | 龍門の人？ |
-|   | 鼠王的部下 | Slum Dweller | 龍門の男性 |
-|   | 龙门暗桩 | Subordinate | 龍門観光客 |
-|   | 龙门游客 | Trembling Tourist | 龍門観光客？ |
-|   | 龙门游客？ | Vicious-Looking Lou Seoi Member | 龍門諜報員 |
-|   | 龙门男性 | Young Citizen B |   |
-|   | 龙门路人？ | Young Victim |   |
+|   | 愤怒的男性 | Drunk | 強面な滷水幇 |
+|   | 手下 | Embarrassed Man | 怒る男性 |
+|   | 拍摄灯光师 | Enthusiastic Spectator | 抜け目ない青年 |
+|   | 无辜的路人 | Excited Fan | 撮影班の照明 |
+|   | 普通办事员 | Excited Youth | 普通そうな住民 |
+|   | 游客 | Flower Shop Owner | 激怒した滷水幇 |
+|   | 游客B | Hapless Man | 無実の通行人 |
+|   | 潦倒的男人 | Host | 男性住人 |
+|   | 激动的粉丝 | Infected Slum Dweller | 男性旅行客 |
+|   | 激动的观众 | Injured Lou Seoi Member | 興奮しているファン |
+|   | 男性居民 | Innocent Passerby | 興奮する観客 |
+|   | 男性游客 | Lighting Engineer | 興奮する青年 |
+|   | 男性路人 | Lungmen Agent | 花屋の店主 |
+|   | 疑惑的社区居民 | Lungmen Tourist | 若い遭難者 |
+|   | 疑惑的粉丝 | Lungmen Tourist? | 落ちぶれた男 |
+|   | 看似普通的居民 | Lungmenite? | 街道管理員？ |
+|   | 社区居民 | Male Lungmenite | 観光客 |
+|   | 精明的青年 | Male Passerby | 観光客B |
+|   | 花店老板 | Male Resident | 観客 |
+|   | 街道管理员？ | Male Tourist | 観客B |
+|   | 观众 | Noodle Shop Owner | 訝しむコミュニティ住民 |
+|   | 观众B | Ordinary Clerk | 通りすがりの客 |
+|   | 贫民区感染者 | Ordinary Lungmen Citizen | 通行人の男性 |
+|   | 贫民窟居民 | Panicked Lungmen Citizen | 部下 |
+|   | 路过的客人 | Passerby Customer | 驚いた龍門市民 |
+|   | 酒保 | Perplexed Fan | 麵屋の店長 |
+|   | 酒客？ | Rat King's Henchman | 鼠王の部下 |
+|   | 阿贵 | Seemingly Ordinary Resident | 龍門の一般市民 |
+|   | 青年市民B | Shrewd Youth | 龍門の人？ |
+|   | 面馆老板 | Slum Dweller | 龍門の男性 |
+|   | 顾客 | Subordinate | 龍門観光客 |
+|   | 鼠王的部下 | Trembling Tourist | 龍門観光客？ |
+|   | 龙门暗桩 | Vicious-Looking Lou Seoi Member | 龍門諜報員 |
+|   | 龙门游客 | Young Citizen B |   |
+|   | 龙门游客？ | Young Victim |   |
+|   | 龙门男性 |   |   |
+|   | 龙门路人？ |   |   |
 | avg_npc_034 | “沙炫风” | 'Sandstorm Rudes' | エンペラー |
 |   | 大帝 | Emperor | ハスキー・サイクロン |
 |   | 有潜力的说唱新星 | Lin | リン |
 |   | 林 | Master Lin | リンさん？ |
 |   | 林大爷 | Master Lin? | 散歩中の老人 |
 |   | 林大爷？ | Old Man | 未来のラップスター |
-|   | 老人 | Passerby Old Man | 老人 |
-|   | 遛弯的老人 | Promising Rap Upcomer | 鼠王 |
-|   | 鼠王 | Rat King |   |
+|   | 林舸瑞 | Passerby Old Man | 老人 |
+|   | 老人 | Promising Rap Upcomer | 鼠王 |
+|   | 遛弯的老人 | Rat King |   |
+|   | 鼠王 |   |   |
 | avg_npc_035 | 伊斯 | Yith | イース |
 | avg_npc_036 | 林雨霞 | Honor Student | ユーシャ |
 |   | 高材生 | Lin Yühsia | 優等生 |
@@ -901,7 +919,7 @@ tip: 请善用浏览器的搜索功能
 |   | 小女孩 | Dora.. | ドーラ |
 |   | 朵拉 | Gianna | ローラ |
 |   | 洛拉 | Lara | 女の子 |
-|   |   | Little Girl |   |
+|   | 胆小的孩子 | Little Girl |   |
 | avg_npc_045_nn_1 | “女巫”小敏 | Infected Girl | 「魔女」ミン |
 |   | 天真的小女孩 | Innocent Girl | ピュアな女の子 |
 |   | 小女孩 | Little 'Witch' Minnie | 女の子 |
@@ -1207,9 +1225,10 @@ tip: 请善用浏览器的搜索功能
 |   | 牧群化萨卡兹战士 | Herdified Sarkaz Warrior | フィーンズギャング・メンバー |
 |   | 萨卡兹牧群 | Sarkaz Herd | 家畜化のサルカズ戦士 |
 | avg_npc_092 | 村中老者 | Alsu | おじいさん |
-|   | 老人 | Devout Follower | アルスー |
-|   | 老汉 | Old Man | 信心深い信徒 |
-|   | 虔诚的信徒 |   | 老人 |
+|   | 紧张的老人 | Devout Follower | アルスー |
+|   | 老人 | Old Man | 信心深い信徒 |
+|   | 老汉 |   | 老人 |
+|   | 虔诚的信徒 |   |   |
 |   | 阿尔苏 |   |   |
 | avg_npc_093 | 乌萨斯平民 | Elderly Woman | おばあさん |
 |   | 奶奶 | Grandmother | おばあちゃま |
@@ -1409,10 +1428,11 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_1159_1 | 塔季扬娜 | Tatyana | タチアナ |
 | avg_npc_1160_1 | 老修士 | Elder Devotee | 老修道士 |
 | avg_npc_1162_1 | 喀兰贸易员工 | Karlan Trade Employee | カランド貿易職員 |
-| avg_npc_1163_1 | 温驯的驮兽 | Burdenbeast | リリー |
-|   | 烤火的驮兽 | Feisty Burdenbeast | 情熱的な駄獣 |
-|   | 热情的驮兽 | Lily | 野生の駄獣 |
-|   | 莉莉 | Wild Burdenbeast | 駄獣 |
+| avg_npc_1163_1 | 拦路的驮兽 | Burdenbeast | リリー |
+|   | 温驯的驮兽 | Feisty Burdenbeast | 情熱的な駄獣 |
+|   | 烤火的驮兽 | Lily | 野生の駄獣 |
+|   | 热情的驮兽 | Wild Burdenbeast | 駄獣 |
+|   | 莉莉 |   |   |
 |   | 野生驮兽 |   |   |
 |   | 驮兽 |   |   |
 | avg_npc_1183_1 | 阿兰娜 | Alanna | アランナ |
@@ -1469,7 +1489,8 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_1236_1 | 商队老板 | Astute Merchant | ジー |
 |   | 精明的商人 | Caravan Leader | 商隊隊長 |
 |   | 绩 | Ji | 聡明な商人 |
-|   | 衣着华丽的男性 | Well-Dressed Man | 華やかな身なりの男性 |
+|   | 衣着光鲜的食客 | Well-Dressed Man | 華やかな身なりの男性 |
+|   | 衣着华丽的男性 |   |   |
 | avg_npc_1237_1 | 望 | Wang | ウァン |
 | avg_npc_1238_1 | “老天师” | 'Old Tianshi' | 「老天師」 |
 |   | 严肃的天师学徒？ | Annoyed Apprentice Tianshi | 乱暴な天師見習い |
@@ -1492,12 +1513,15 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_1243_1 | 沉默的樵夫 | Old Lumberjack | 木こり |
 |   | 老樵夫 | Silent Lumberjack | 沈黙する木こり |
 | avg_npc_1244_1 | 奇异的织物 | Docile Stockbeast | おとなしい牧獣 |
-|   | 温顺的牧兽 | Eerie Fabric | めんめん |
-|   | 牧兽的声音 | Mianmian | 奇妙な織物 |
-|   | 绵绵 | Passing Stockbeast | 牧獣の声 |
-|   | 诡异的织物 | Stockbeast's Voice | 異様な織物 |
-|   | 走丢的牧兽 | Strange Fabric | 脱走した牧獣 |
-|   | 路过的牧兽 | Stray Stockbeast | 通りかかる牧獣 |
+|   | 小满 | Eerie Fabric | めんめん |
+|   | 年轻的农夫 | Mianmian | 奇妙な織物 |
+|   | 拦路的牧兽 | Passing Stockbeast | 牧獣の声 |
+|   | 温顺的牧兽 | Stockbeast's Voice | 異様な織物 |
+|   | 牧兽的声音 | Strange Fabric | 脱走した牧獣 |
+|   | 绵绵 | Stray Stockbeast | 通りかかる牧獣 |
+|   | 诡异的织物 |   |   |
+|   | 走丢的牧兽 |   |   |
+|   | 路过的牧兽 |   |   |
 | avg_npc_1245_1 | 土木天师 | Tumu Tianshi | だらけた土木天師 |
 |   | 土木天师学徒 | Tumu Tianshi Apprentice | ベテラン土木天師 |
 |   | 懈怠的土木天师 | Veteran Tumu Tianshi | 土木天師 |
@@ -1507,7 +1531,8 @@ tip: 请善用浏览器的搜索功能
 |   | 疲惫的土木天师 | Young Tumu Tianshi | 若い土木天師 |
 | avg_npc_1247_1 | 农业天师学徒 | Frantic Nongye Tianshi | 焦る農業天師 |
 |   | 焦急的农业天师 | Nongye Tianshi Apprentice | 農業天師見習い |
-| avg_npc_1248_1 | 慌乱的农业天师 | Agitated Nongye Tianshi | 慌てる農業天師 |
+| avg_npc_1248_1 | 不悦的农业天师 | Agitated Nongye Tianshi | 慌てる農業天師 |
+|   | 慌乱的农业天师 |   |   |
 | avg_npc_1249_1 | 年长的职农 | Angry Farmer | うれしそうな農家 |
 |   | 开心的职农 | Anxious Farmer | やせ我慢する農家 |
 |   | 强作镇定的职农 | Astonished Farmer | 年長の農家 |
@@ -1728,6 +1753,7 @@ tip: 请善用浏览器的搜索功能
 |   | 警惕的村民 | Vigilant Villager | 通りすがりの村人A |
 |   | 路过的村民A | Villager | 露店の店主 |
 |   | 镇民 | Villager B | 驚く農家 |
+|   | 阿贵 |   |   |
 | avg_npc_1400_1 | 军团长官 | Legion Commander | 軍団長官 |
 | avg_npc_1401_1 | “小帮手” | 'Little Handy' | 「リトル・ハンディ」 |
 |   | 街角的“小帮手” | 'Little Handy' at the Street Corner | 街角の「リトル・ハンディ」 |
@@ -1966,6 +1992,25 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_159_1 | 皮加尔 | Picale | ピカール |
 | avg_npc_160_1 | 米亚罗 | Miarow | ミアロ |
 | avg_npc_161 | 艾拉 | Ela | Ela |
+| avg_npc_1612_1 | 麟青砚 | - | - |
+| avg_npc_1613_1 | 谌彻 | - | - |
+| avg_npc_1614_1 | 宁述 | - | - |
+|   | 慈祥的老人 |   |   |
+|   | 沉默的老人 |   |   |
+| avg_npc_1615_1 | “禁军小教头” | - | - |
+|   | 凛然的女性 |   |   |
+| avg_npc_1616_1 | 仓皇的男人 | - | - |
+|   | 神色慌张的男人 |   |   |
+|   | 顾筌 |   |   |
+| avg_npc_1617_1 | 虞澄 | - | - |
+| avg_npc_1618_1 | 解真 | - | - |
+| avg_npc_1619_1 | 莫不服 | - | - |
+| avg_npc_1620_1 | 严厉的教授 | - | - |
+|   | 景教授 |   |   |
+| avg_npc_1621_1 | 老姜 | - | - |
+| avg_npc_1622_1 | 认真的学生 | - | - |
+| avg_npc_1627_1 | 受冻的书生 | - | - |
+| avg_npc_1628_1 | 谨慎的学生 | - | - |
 | avg_npc_163 | 冷静的女性 | Anum | アイマラ |
 |   | 商队头领 | Calm Woman | アナム |
 |   | 巡回医生 | Caravan Head | キャラバンのリーダー |
@@ -1974,6 +2019,33 @@ tip: 请善用浏览器的搜索功能
 |   | 爱麦拉 | Grimed Woman | 意気消沈した女性 |
 |   | 路过的萨尔贡镇民 | Passerby Sargon Townsfolk | 明るい元砂漠の盗賊 |
 |   | 阿诺 |   |   |
+| avg_npc_1630_1 | 大理寺司狱官 | - | - |
+|   | 大理寺官员 |   |   |
+|   | 疲惫的大理寺官员 |   |   |
+|   | 锦袍人 |   |   |
+| avg_npc_1631_1 | 大理寺官员A | - | - |
+|   | 百灶学宫讲师 |   |   |
+| avg_npc_1632_1 | 严肃的大理寺官员 | - | - |
+|   | 大理寺官员B |   |   |
+|   | 慌乱的官员 |   |   |
+| avg_npc_1633_1 | 沉稳的官员 | - | - |
+| avg_npc_1634_1 | 禁军 | - | - |
+| avg_npc_1635_1 | 严厉的考官 | - | - |
+|   | 悠闲的厨师 |   |   |
+|   | 慌张的厨师 |   |   |
+|   | 领头的厨师 |   |   |
+| avg_npc_1636_1 | 无聊的厨师 | - | - |
+|   | 粗心大意的厨师 |   |   |
+|   | 资深厨师 |   |   |
+|   | 鼎丰楼厨师 |   |   |
+| avg_npc_1637_1 | 卫兵 | - | - |
+|   | 卫兵A |   |   |
+|   | 卫兵B |   |   |
+|   | 巡逻的卫兵 |   |   |
+|   | 巡逻的守军 |   |   |
+|   | 百夫长 |   |   |
+| avg_npc_1639_1 | 老乞丐 | - | - |
+|   | 饭馆的熟客 |   |   |
 | avg_npc_164 | 傲慢的商人 | Arrogant Merchant | だらしない兵士 |
 |   | 奋战的部族人 | Belligerent Villager | ボロを纏った人 |
 |   | 感染者镇民 | Black Market Merchant | 傲慢な商人 |
@@ -1985,6 +2057,9 @@ tip: 请善用浏览器的搜索功能
 |   | 镇长秘书 | Swept-Up Trader? | 町長の秘書 |
 |   | 颓废的散兵 | Vengeful Merchant | 落ちぶれた商人 |
 |   | 黑市商人 | Villager | 闇市商人 |
+| avg_npc_1643_1 | 山中小童 | - | - |
+| avg_npc_1644_1 | 麟青砚 | - | - |
+| avg_npc_1645_1 | 文月 | - | - |
 | avg_npc_165 | 局促的使节 | Basil | ためらう元砂漠の盗賊 |
 |   | 巴塞尔 | Doubtful Former Desert Bandit | サルゴン町民？ |
 |   | 感染者镇民 | Impatient Ambassador | サルゴン近衛兵 |
@@ -2045,14 +2120,15 @@ tip: 请善用浏览器的搜索功能
 |   | 游客 | Mayor | 情熱的な商人 |
 |   | 热情的商人 | Noble Gentleman | 感情的な議員 |
 |   | 焦躁的商人 | Plump Merchant | 浅ましい貴族 |
-|   | 维多利亚伯爵 | Pompous Merchant | 温和な貴族 |
-|   | 维多利亚富商 | Seasoned Investor | 現地の裁判官A |
-|   | 肥胖的商人 | Slimy Noble | 男性貴族 |
-|   | 莫里尔伯爵 | Theater Manager | 町長 |
-|   | 莱塔尼亚男贵族 | Tipsy Businessman | 観光客 |
-|   | 谄媚的收藏家 | Tourist | 貪欲な商人 |
-|   | 谈笑风生的贵族 | Victorian Count | 銀行頭取 |
-|   | 贪婪的商人 | Victorian Magnate |   |
+|   | 瘦子张 | Pompous Merchant | 温和な貴族 |
+|   | 维多利亚伯爵 | Seasoned Investor | 現地の裁判官A |
+|   | 维多利亚富商 | Slimy Noble | 男性貴族 |
+|   | 肥胖的商人 | Theater Manager | 町長 |
+|   | 莫里尔伯爵 | Tipsy Businessman | 観光客 |
+|   | 莱塔尼亚男贵族 | Tourist | 貪欲な商人 |
+|   | 谄媚的收藏家 | Victorian Count | 銀行頭取 |
+|   | 谈笑风生的贵族 | Victorian Magnate |   |
+|   | 贪婪的商人 |   |   |
 |   | 贵族男士 |   |   |
 |   | 赌场老板 |   |   |
 |   | 银行行长 |   |   |
@@ -2474,6 +2550,7 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_270_1 | 布朗陶家贵族 | Browntail Family Noble | ブラウンテイル家貴族 |
 | avg_npc_271_1 | 刻薄的男贵族 | Scathing Nobleman | 冷酷な男性貴族 |
 |   | 学者 |   |   |
+|   | 王局长 |   |   |
 |   | 负责接待的侍从 |   |   |
 | avg_npc_272_1 | 好客的老乡 | Hospitable Villager | もてなし好きの地元民 |
 |   | 年迈贵族 | Kjerag Noble | イェラグ貴族 |
@@ -2502,13 +2579,14 @@ tip: 请善用浏览器的搜索功能
 |   | 大胆的男性 | Competing Vendor | イェラグ民間人B |
 |   | 好事的老乡 | Kjerag Civilian C | イェラグ民間人C |
 |   | 强壮的青年 | Kjerag Commoner B | ペイルロッシュ家領民A |
-|   | 活泼的谢拉格人 | Kjerag Youth | ライバル商人 |
-|   | 竞争商家 | Lively Local | 元気なイェラグ人 |
-|   | 谢拉格平民B | Meddlesome Villager | 大胆な男性 |
-|   | 谢拉格平民C | Paleroche Commoner A | 强壮的青年 |
-|   | 谢拉格青年 | Vintner? | 物好きな地元民 |
-|   | 车站职员 | Youth | 酒商人？ |
-|   | 酒商？ | 强壮的青年 | 青年 |
+|   | 李总裁 | Kjerag Youth | ライバル商人 |
+|   | 活泼的谢拉格人 | Lively Local | 元気なイェラグ人 |
+|   | 竞争商家 | Meddlesome Villager | 大胆な男性 |
+|   | 谢拉格平民B | Paleroche Commoner A | 强壮的青年 |
+|   | 谢拉格平民C | Vintner? | 物好きな地元民 |
+|   | 谢拉格青年 | Youth | 酒商人？ |
+|   | 车站职员 | 强壮的青年 | 青年 |
+|   | 酒商？ |   |   |
 |   | 青年 |   |   |
 | avg_npc_278_1 | 佩尔罗契家平民 | Burdenbeast Renter | のんびりした地元民 |
 |   | 出租驮兽的牧民 | Carefree Villager | イェラグの地元民 |
@@ -2601,12 +2679,14 @@ tip: 请善用浏览器的搜索功能
 |   | 奇怪的过客 | Hawker | 慌てる行商人 |
 |   | 好奇的路人 | Odd Traveler | 無相門弟子 |
 |   | 小贩 | Street Youth | 興味津々な市民 |
-|   | 慌张的小贩 | Suspicious Townsfolk | 茶館で休んでいる人 |
-|   | 无相拳门人 | Tavern Assistant | 行商人 |
-|   | 清醒的武人 | Tavern Owner | 街の青年 |
-|   | 茶馆歇脚人 | Teahouse Stopperby | 軟弱な見習い |
-|   | 街头青年 | Traceless Fist Practitioner | 酒家の番頭 |
-|   | 软弱的学徒 | Waiter | 酒館の店員 |
+|   | 年轻的农夫 | Suspicious Townsfolk | 茶館で休んでいる人 |
+|   | 慌张的小贩 | Tavern Assistant | 行商人 |
+|   | 无相拳门人 | Tavern Owner | 街の青年 |
+|   | 林雨霞的手下 | Teahouse Stopperby | 軟弱な見習い |
+|   | 清醒的武人 | Traceless Fist Practitioner | 酒家の番頭 |
+|   | 茶馆歇脚人 | Waiter | 酒館の店員 |
+|   | 街头青年 |   |   |
+|   | 软弱的学徒 |   |   |
 |   | 酒家掌柜 |   |   |
 |   | 酒馆伙计 |   |   |
 | avg_npc_304_1 | 大排档服务员 | Dai Pai Dong Waiter | おびえる客 |
@@ -3219,6 +3299,7 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_598_1 | 阿根 | - | - |
 | avg_npc_599_1 | 乌云兽 | - | - |
 |   | 六十七 |   |   |
+|   | 迷路的乌云兽 |   |   |
 | avg_npc_600_1 | 痛苦的男人 | Anguished Man | 苦しそうな男 |
 | avg_npc_601_1 | 可疑的叙拉古游客 | Burly Man | スラム街の青年 |
 |   | 强壮的男人 | Impoverished Young Man | リントンの腹心 |
@@ -3690,6 +3771,7 @@ tip: 请善用浏览器的搜索功能
 |   | 橡皮 | Rubber | 駐留オペレーターB |
 |   | 沙漏 |   |   |
 |   | 罗德岛驻舰干员B |   |   |
+| avg_npc_976_1 | 调皮的孩子 | - | - |
 | avg_npc_989_1 | 阿黛尔 | Adele | アデル |
 | avg_npc_990_1 | 拜松 | Bison | バイソン |
 | avg_npc_991_1 | 好奇的小男孩 | Boy | ルート |

@@ -736,6 +736,9 @@
   "LIMITED_TKT_GACHA_10_5601": {
     "zh_CN": "荒芜探戈寻访凭证"
   },
+  "LIMITED_TKT_GACHA_10_5801": {
+    "zh_CN": "欢宴良宵寻访凭证"
+  },
   "LIMITED_TKT_GACHA_10_903": {
     "en_US": "Awakening Commemoration Permit",
     "ja_JP": "1周年記念10回スカウト券",
@@ -845,6 +848,9 @@
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_5601": {
+    "zh_CN": "寻访数据契约"
+  },
+  "LMTGS_COIN_5801": {
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_601": {
@@ -1526,6 +1532,9 @@
     "ja_JP": "ブラックボックス",
     "zh_CN": "数据黑盒"
   },
+  "act40side_token_yumyum": {
+    "zh_CN": "“生香”"
+  },
   "act42d0_token_evaluation": {
     "en_US": "Experimental Dataset",
     "ja_JP": "テストデータ集",
@@ -1793,6 +1802,21 @@
   "ap_supply_lt_100_2024_6": {
     "zh_CN": "热腾腾大包"
   },
+  "ap_supply_lt_100_2025_1": {
+    "zh_CN": "熔炉炒饭"
+  },
+  "ap_supply_lt_100_2025_2": {
+    "zh_CN": "皇家莲花饼"
+  },
+  "ap_supply_lt_100_2025_3": {
+    "zh_CN": "萨卢佐醇酿"
+  },
+  "ap_supply_lt_100_2025_4": {
+    "zh_CN": "特制蜜三刀"
+  },
+  "ap_supply_lt_100_2025_5": {
+    "zh_CN": "“罗德岛”"
+  },
   "ap_supply_lt_120": {
     "en_US": "Emergency Sanity Concentrate",
     "ja_JP": "上級理性回復剤+",
@@ -1870,6 +1894,9 @@
     "en_US": "Emergency Sanity Booster",
     "ja_JP": "初級理性回復剤+",
     "zh_CN": "应急理智加强剂"
+  },
+  "ap_supply_lt_80_2025_1": {
+    "zh_CN": "清爽运动饮料"
   },
   "base_ap": {
     "en_US": "Drone",
@@ -3100,6 +3127,9 @@
     "ja_JP": "エクシアの印",
     "zh_CN": "能天使的信物"
   },
+  "p_char_1040_blaze2": {
+    "zh_CN": "烛煌的信物"
+  },
   "p_char_106_franka": {
     "en_US": "Franka's Token",
     "ja_JP": "フランカの印",
@@ -3457,6 +3487,9 @@
     "en_US": "Shu's Token",
     "ja_JP": "シュウの印",
     "zh_CN": "黍的信物"
+  },
+  "p_char_2026_yu": {
+    "zh_CN": "余的信物"
   },
   "p_char_202_demkni": {
     "en_US": "Saria's Token",
@@ -4109,6 +4142,9 @@
     "ja_JP": "ドロシーの印",
     "zh_CN": "多萝西的信物"
   },
+  "p_char_4052_surfer": {
+    "zh_CN": "寻澜的信物"
+  },
   "p_char_4054_malist": {
     "en_US": "Minimalist's Token",
     "ja_JP": "ミニマリストの印",
@@ -4417,6 +4453,9 @@
     "en_US": "Eunectes' Token",
     "ja_JP": "ユーネクテスの印",
     "zh_CN": "森蚺的信物"
+  },
+  "p_char_4172_xingzh": {
+    "zh_CN": "行箸的信物"
   },
   "p_char_420_flamtl": {
     "en_US": "Flametail's Token",
