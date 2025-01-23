@@ -759,13 +759,13 @@ tip: 请善用浏览器的搜索功能
 | act40side_02 | 糖瓜粘 | - | - |
 | act40side_03 | 油泼扯面 | - | - |
 | act40side_04 | 雪里蕻 | - | - |
-| act40side_05 | 雷公栗 | - | - |
+| act40side_05 | 醍醐汤 | - | - |
 | act40side_06 | 胜肉火方 | - | - |
 | act40side_07 | 五省盘 | - | - |
 | act40side_08 | 金玉藏心 | - | - |
 | act40side_09 | 长寿面 | - | - |
 | act40side_st01 | 陈皮菊花茶 | - | - |
-| act40side_st02 | 醍醐汤 | - | - |
+| act40side_st02 | 雷公栗 | - | - |
 | act40side_st03 | 须问汤 | - | - |
 | act40side_tr01 | 翡翠墨玉 | - | - |
 | act4bossrush_01 | 冰霜与战火 | Frost and Fire | 氷霜と戦火 |

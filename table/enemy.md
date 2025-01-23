@@ -106,8 +106,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_10050_cjmeat | 饔 | - | - |
 | enemy_10050_cjmeat_2 | 飧 | - | - |
 | enemy_10051_cjmag | “停箸” | - | - |
-| enemy_10051_cjmag_2 | “废食”
- | - | - |
+| enemy_10051_cjmag_2 | “废食” | - | - |
 | enemy_10052_cjshld | “果腹” | - | - |
 | enemy_10052_cjshld_2 | “饱食” | - | - |
 | enemy_10053_cjman | 丑言 | - | - |

@@ -10478,7 +10478,7 @@
   "enemy_10051_cjmag_2": {
     "type": "ENEMY",
     "names": {
-      "zh_CN": "“废食”\n"
+      "zh_CN": "“废食”"
     }
   },
   "enemy_10052_cjshld": {
@@ -48015,7 +48015,7 @@
   "act40side_05": {
     "type": "STAGE",
     "names": {
-      "zh_CN": "雷公栗"
+      "zh_CN": "醍醐汤"
     }
   },
   "act40side_06": {
@@ -48051,7 +48051,7 @@
   "act40side_st02": {
     "type": "STAGE",
     "names": {
-      "zh_CN": "醍醐汤"
+      "zh_CN": "雷公栗"
     }
   },
   "act40side_st03": {
