@@ -764,6 +764,11 @@ tip: 请善用浏览器的搜索功能
 | act40side_07 | 五省盘 | - | - |
 | act40side_08 | 金玉藏心 | - | - |
 | act40side_09 | 长寿面 | - | - |
+| act40side_mo01 | 一日三餐 | - | - |
+| act40side_s01 | 周岁宴 | - | - |
+| act40side_s02 | 新婚宴 | - | - |
+| act40side_s03 | 寿辰宴 | - | - |
+| act40side_s04 | 白事宴 | - | - |
 | act40side_st01 | 陈皮菊花茶 | - | - |
 | act40side_st02 | 雷公栗 | - | - |
 | act40side_st03 | 须问汤 | - | - |

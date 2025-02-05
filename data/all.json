@@ -6875,6 +6875,12 @@
       "zh_CN": "生而为一"
     }
   },
+  "char_1024_hbisc2@unveiling#2": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "浪漫满厢"
+    }
+  },
   "char_1026_gvial2@summer#12": {
     "type": "SKIN",
     "names": {
@@ -7377,6 +7383,12 @@
       "en_US": "Light and Shadow",
       "ja_JP": "光と影",
       "zh_CN": "光影"
+    }
+  },
+  "char_164_nightm@unveiling#2": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "湖畔的少女"
     }
   },
   "char_166_skfire@summer#1": {
@@ -8975,6 +8987,12 @@
     "type": "SKIN",
     "names": {
       "zh_CN": "灿阳朝露 SDm09"
+    }
+  },
+  "char_4063_quartz@epoque#39": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "封面佣兵"
     }
   },
   "char_4064_mlynar@epoque#28": {
@@ -48040,6 +48058,36 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "长寿面"
+    }
+  },
+  "act40side_mo01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "一日三餐"
+    }
+  },
+  "act40side_s01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "周岁宴"
+    }
+  },
+  "act40side_s02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "新婚宴"
+    }
+  },
+  "act40side_s03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "寿辰宴"
+    }
+  },
+  "act40side_s04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "白事宴"
     }
   },
   "act40side_st01": {

@@ -101,6 +101,9 @@
     "ja_JP": "対なる一人",
     "zh_CN": "生而为一"
   },
+  "char_1024_hbisc2@unveiling#2": {
+    "zh_CN": "浪漫满厢"
+  },
   "char_1026_gvial2@summer#12": {
     "en_US": "Holiday HD26",
     "ja_JP": "ホリデーHD26",
@@ -412,6 +415,9 @@
     "en_US": "Light and Shadow",
     "ja_JP": "光と影",
     "zh_CN": "光影"
+  },
+  "char_164_nightm@unveiling#2": {
+    "zh_CN": "湖畔的少女"
   },
   "char_166_skfire@summer#1": {
     "en_US": "Temperature Difference RT.RX01",
@@ -1398,6 +1404,9 @@
   },
   "char_4062_totter@summer#17": {
     "zh_CN": "灿阳朝露 SDm09"
+  },
+  "char_4063_quartz@epoque#39": {
+    "zh_CN": "封面佣兵"
   },
   "char_4064_mlynar@epoque#28": {
     "en_US": "W Dali",

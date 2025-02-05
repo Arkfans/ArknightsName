@@ -905,6 +905,7 @@ tip: 请善用浏览器的搜索功能
 | char_1021_kroos2@game#3 | 新手光环 | - | - |
 | char_1021_kroos2@nian#8 | 廊下游 | Along the Corridor | 長廊遊 |
 | char_1023_ghost2@boc#6 | 生而为一 | Born as One | 対なる一人 |
+| char_1024_hbisc2@unveiling#2 | 浪漫满厢 | - | - |
 | char_1026_gvial2@summer#12 | 悠然假日 HD26 | Holiday HD26 | ホリデーHD26 |
 | char_1027_greyy2@snow#5 | 演出后的王子 | Aftershow | 終演後の王子様 |
 | char_1028_texas2@epoque#36 | 幽兰秘辛 | - | - |
@@ -969,6 +970,7 @@ tip: 请善用浏览器的搜索功能
 | char_158_milu@wild#2 | 枯柏 | Wilted Cypress | 枯れ柏 |
 | char_159_peacok@game#1 | 超级断罪朋友 | Your Superconvicting Friend | スーパー断罪フレンズ |
 | char_164_nightm@epoque#5 | 光影 | Light and Shadow | 光と影 |
+| char_164_nightm@unveiling#2 | 湖畔的少女 | - | - |
 | char_166_skfire@summer#1 | 温差 RT.RX01 | Temperature Difference RT.RX01 | 温度差RT.RX01 |
 | char_171_bldsk@summer#7 | 悠然假日 HD31 | Casual Vacation HD31 | ホリデーHD31 |
 | char_171_bldsk@witch#1 | 盛宴 | the feast | 盛宴 |
@@ -1173,6 +1175,7 @@ tip: 请善用浏览器的搜索功能
 | char_4055_bgsnow@wild#7 | 字句中的雪原 | Snowy Plains in Words | 行間にある雪原 |
 | char_405_absin@epoque#28 | 正午余光 | Noon Twilight | 真昼の残照 |
 | char_4062_totter@summer#17 | 灿阳朝露 SDm09 | - | - |
+| char_4063_quartz@epoque#39 | 封面佣兵 | - | - |
 | char_4064_mlynar@epoque#28 | 远路 | W Dali | 遠き道のり |
 | char_4065_judge@epoque#33 | 记叙 | Scribing | 書き記す者 |
 | char_4065_judge@snow#6 | 偶尔醉陶 | Occasionally Flushed | たまの深酒 |
@@ -6258,6 +6261,11 @@ Event | なないろのお茶会 |
 | act40side_07 | 五省盘 | - | - |
 | act40side_08 | 金玉藏心 | - | - |
 | act40side_09 | 长寿面 | - | - |
+| act40side_mo01 | 一日三餐 | - | - |
+| act40side_s01 | 周岁宴 | - | - |
+| act40side_s02 | 新婚宴 | - | - |
+| act40side_s03 | 寿辰宴 | - | - |
+| act40side_s04 | 白事宴 | - | - |
 | act40side_st01 | 陈皮菊花茶 | - | - |
 | act40side_st02 | 雷公栗 | - | - |
 | act40side_st03 | 须问汤 | - | - |
