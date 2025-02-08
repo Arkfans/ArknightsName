@@ -273,16 +273,16 @@ tip: 请善用浏览器的搜索功能
 | act17d0_st03 | 行走于大地之上 | Trekking Upon Terra | 大地を行く |
 | act17d0_tr01 | 萨尔贡岩漠 | Sargon Desert | サルゴン岩石荒野 |
 | act17d7_01 | Extraordinary rap battle! | Extraordinary rap battle! | Extraordinary rap battle! |
-| act17mini_01 | 玉门：沙丘狂欢 | - | - |
-| act17mini_02 | 天际城：地下奇旅 | - | - |
-| act17mini_03 | 索伦托：家族聚会 | - | - |
-| act17mini_04 | 多索雷斯：沙滩寻宝 | - | - |
-| act17mini_05 | 海布里：民兵演习 | - | - |
-| act17mini_06 | 汐斯塔：云顶派对 | - | - |
-| act17mini_07 | 诺伯特：清淤重建 | - | - |
-| act17mini_08 | “双日城脱险” | - | - |
-| act17mini_s01 | 卡兹戴尔：温饱之后 | - | - |
-| act17mini_s02 | 卡兹戴尔：精神建设 | - | - |
+| act17mini_01 | 玉门：沙丘狂欢 | Yumen: Dune Carnival | 玉門：砂丘のバカ騒ぎ |
+| act17mini_02 | 天际城：地下奇旅 | Ortzimuga: Subterranean Adventure | オルツィムガ：地下の旅 |
+| act17mini_03 | 索伦托：家族聚会 | Sorrento: Family Gathering | ソレント：ファミリーの集会 |
+| act17mini_04 | 多索雷斯：沙滩寻宝 | Dossoles: Treasure Hunt | ドッソレス：ビーチの宝探し |
+| act17mini_05 | 海布里：民兵演习 | Highbury: Militia Drill | ハイベリー：民兵演習 |
+| act17mini_06 | 汐斯塔：云顶派对 | Siesta: Cloud High | シエスタ：頂上のパーティー |
+| act17mini_07 | 诺伯特：清淤重建 | Norport: Cleanup & Reconstruction | ノーポート：後始末と再建 |
+| act17mini_08 | “双日城脱险” | 'Escape in Dossoles' | 「ドッソレスエスケープ」 |
+| act17mini_s01 | 卡兹戴尔：温饱之后 | Kazdel: Beyond a Full Stomach | カズデル：衣食足りて |
+| act17mini_s02 | 卡兹戴尔：精神建设 | Kazdel: Spiritual Development | カズデル：精神教育 |
 | act17side_01 | 中心广场 | Center Plaza | 中央広場 |
 | act17side_02 | 广场南路 | Plaza South | 広場南の道 |
 | act17side_03 | 安静的步道 | Quiet Trail | 静かな遊歩道 |
@@ -863,7 +863,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_21 | 新旅店大道 | New Hotel Avenue | ニューホテル通り |
 | camp_r_22 | “离心率”实验室 | 'Eccentricity' Laboratory | 「離心率」ラボ |
 | camp_r_23 | 燃烧街区 | Burning District | 燃える市街地 |
-| camp_r_24 | 冰封雪谷 | - | - |
+| camp_r_24 | 冰封雪谷 | Icebound Valley | 閉ざされし雪渓 |
 | camp_r_25 | 66号航道 | - | - |
 | camp_r_26 | 壬午号水稻田 | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |

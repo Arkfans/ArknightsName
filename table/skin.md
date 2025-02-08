@@ -23,7 +23,7 @@ tip: 请善用浏览器的搜索功能
 | char_101_sora@epoque#17 | 如歌 | Melodiosa | メロディオーソ |
 | char_101_sora@summer#1 | 夏卉 FA361 | Summer Flowers FA361 | 夏の花弁FA361 |
 | char_1020_reed2@epoque#30 | 博物 | Curator | 歴史に囲まれて |
-| char_1020_reed2@summer#17 | 夏卉 FA075 | - | - |
+| char_1020_reed2@summer#17 | 夏卉 FA075 | Summer Flower FA075 | 夏の花弁FA075 |
 | char_1021_kroos2@game#3 | 新手光环 | - | - |
 | char_1021_kroos2@nian#8 | 廊下游 | Along the Corridor | 長廊遊 |
 | char_1023_ghost2@boc#6 | 生而为一 | Born as One | 対なる一人 |
@@ -38,7 +38,7 @@ tip: 请善用浏览器的搜索功能
 | char_1032_excu2@sale#12 | 众志归一 | - | - |
 | char_1033_swire2@ambienceSynesthesia#4 | 律动方格 | Rhythmic Blocks | リズミックブロック |
 | char_1034_jesca2@cfa#1 | 《上任达维镇》 | - | - |
-| char_1037_amiya3@sale#13 | 寰宇独奏 | Solo Around The World | ﻿宙に響く独奏 |
+| char_1037_amiya3@sale#13 | 寰宇独奏 | Solo Around The World | 宙に響く独奏 |
 | char_103_angel@kfc#1 | 城市骑手 | City Rider | シティライダー |
 | char_103_angel@sale#8 | 午夜邮差 | Midnight Delivery | 真夜中の配達人 |
 | char_103_angel@wild#1 | 野地秘行 | Wild Operation | 荒野潜行 |
@@ -64,7 +64,7 @@ tip: 请善用浏览器的搜索功能
 | char_126_shotst@epoque#10 | 诗人的假日 | Bard's Holiday | 詩人の休日 |
 | char_126_shotst@epoque#28 | 星橼林 | Gwiazdcytrony | スタリシトロンの森にて |
 | char_128_plosis@epoque#3 | 幽静 | Serenity | 幽静 |
-| char_128_plosis@yun#4 | 抚云间 | - | - |
+| char_128_plosis@yun#4 | 抚云间 | Among the Clouds | 雲間奏 |
 | char_129_bluep@iteration#2 | 哀律西昂夜曲 | Nocturne of Elysia | エリシアの夜想曲 |
 | char_129_bluep@marthe#3 | 浅滩律动 | Shoal Beat | 浅瀬のリズム |
 | char_130_doberm@epoque#7 | 少尉 | Lieutenant | 少尉 |
@@ -119,7 +119,7 @@ tip: 请善用浏览器的搜索功能
 | char_198_blackd@as#1 | 无言狂响 | Speechless Sound | 無言の狂騒 |
 | char_198_blackd@winter#1 | 新航线 | New Routes | 新航路 |
 | char_199_yak@summer#1 | 沙滩护卫 GT.001 | Beach Guard GT.001 | 砂浜の番人GT001 |
-| char_2012_typhon@summer#17 | 温差 RT.RX07 | - | - |
+| char_2012_typhon@summer#17 | 温差 RT.RX07 | Temperature Difference RT.RX07 | 温度差RT.RX07 |
 | char_2012_typhon@wild#9 | 北地引路人 | Northern Pathfinder | 北地の案内人 |
 | char_2013_cerber@summer#4 | 夏卉 FA333 | Summer Flowers FA333 | 夏の花弁FA333 |
 | char_2013_cerber@whirlwind#2 | 无拘无束 | Unfettered | 自由奔放 |
@@ -193,7 +193,7 @@ tip: 请善用浏览器的搜索功能
 | char_278_orchid@boc#6 | 衣缕往昔 | Twines of Time | 在りし日を繕って |
 | char_279_excu@boc#1 | 无题密令 | Titleless Code | 無題の密命 |
 | char_281_popka@witch#5 | 魔女的秋千 | - | - |
-| char_282_catap@summer#17 | 悠然假日 HD66 | - | - |
+| char_282_catap@summer#17 | 悠然假日 HD66 | Holiday HD66 | ホリデーHD66 |
 | char_283_midn@boc#1 | 第七夜苏醒魔君 | Seventh Night's Awakened | 第七夜に覚醒めし魔王 |
 | char_284_spot@boc#3 | 专业人士 | Professional | プロフェッショナル |
 | char_285_medic2@boc#4 | 海岸救援改装 | Shore Rescue Modification | 海難救助特化型 |
@@ -281,7 +281,7 @@ tip: 请善用浏览器的搜索功能
 | char_4025_aprot2@whirlwind#5 | 结果 | The Fruition | 結実 |
 | char_4027_heyak@ambienceSynesthesia#4 | 历世流风 | Carriage of the Winds of Time | 悠久の風に吹かれ |
 | char_402_tuye@epoque#14 | 培翠 | Cultivate Vegetation | 緑化 |
-| char_4032_provs@summer#17 | 悠然假日 HD78 | - | - |
+| char_4032_provs@summer#17 | 悠然假日 HD78 | Holiday HD78 | ホリデーHD78 |
 | char_4032_provs@wild#7 | 秋高气爽 | High Autumn | 晴れ渡る秋空 |
 | char_4036_forcer@epoque#20 | 拾翼 | Paper Wing | 不確かな翼 |
 | char_4039_horn@epoque#24 | 化花 | To Effloresce Whitely | 花となりて |
@@ -296,7 +296,7 @@ tip: 请善用浏览器的搜索功能
 | char_4054_malist@summer#14 | 悠然假日 HDm74 | Holiday HDm74 | ホリデーHDm74 |
 | char_4055_bgsnow@wild#7 | 字句中的雪原 | Snowy Plains in Words | 行間にある雪原 |
 | char_405_absin@epoque#28 | 正午余光 | Noon Twilight | 真昼の残照 |
-| char_4062_totter@summer#17 | 灿阳朝露 SDm09 | - | - |
+| char_4062_totter@summer#17 | 灿阳朝露 SDm09 | Shining Dew SDm09 | 炎陽煌く露SDm09 |
 | char_4063_quartz@epoque#39 | 封面佣兵 | - | - |
 | char_4064_mlynar@epoque#28 | 远路 | W Dali | 遠き道のり |
 | char_4065_judge@epoque#33 | 记叙 | Scribing | 書き記す者 |
@@ -310,12 +310,12 @@ tip: 请善用浏览器的搜索功能
 | char_4081_warmy@winter#4 | 街角暖绒 | - | - |
 | char_4082_qiubai@epoque#31 | 礼遇 | Courtesy | 礼をもって |
 | char_4082_qiubai@ncg#1 | 霜林醉 | Wine-flushed is Woods of Rime | 霜林酔 |
-| char_4083_chimes@yun#5 | 松间月 | - | - |
+| char_4083_chimes@yun#5 | 松间月 | Moon under the Pines | 松間月 |
 | char_4087_ines@boc#8 | 燃烧天穹下 | Under the Flaming Dome | 燃ゆる蒼穹の下 |
 | char_4088_hodrer@sightseer#1 | 沉思之庭 | Courtyard of Neka | 思索の庭 |
 | char_4091_ulika@sanrio#1 | 云上直播间 | Stream Above The Clouds | 雲の上から配信中！ |
 | char_4100_caper@summer#18 | 夏卉 FA083 | Summer Flowers FA083 | 夏の花弁FA083 |
-| char_4104_coldst@striker#3 | 破晓 | - | - |
+| char_4104_coldst@striker#3 | 破晓 | Dawnbreak | 破暁 |
 | char_4105_almond@epoque#38 | “杏仁”拼盘 | - | - |
 | char_4106_bryota@epoque#34 | 动感 | Vibrant | 躍動 |
 | char_4109_baslin@witch#5 | 夜空星芒 | - | - |

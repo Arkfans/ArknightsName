@@ -1340,33 +1340,53 @@
     "zh_CN": "Extraordinary rap battle!"
   },
   "act17mini_01": {
+    "en_US": "Yumen: Dune Carnival",
+    "ja_JP": "玉門：砂丘のバカ騒ぎ",
     "zh_CN": "玉门：沙丘狂欢"
   },
   "act17mini_02": {
+    "en_US": "Ortzimuga: Subterranean Adventure",
+    "ja_JP": "オルツィムガ：地下の旅",
     "zh_CN": "天际城：地下奇旅"
   },
   "act17mini_03": {
+    "en_US": "Sorrento: Family Gathering",
+    "ja_JP": "ソレント：ファミリーの集会",
     "zh_CN": "索伦托：家族聚会"
   },
   "act17mini_04": {
+    "en_US": "Dossoles: Treasure Hunt",
+    "ja_JP": "ドッソレス：ビーチの宝探し",
     "zh_CN": "多索雷斯：沙滩寻宝"
   },
   "act17mini_05": {
+    "en_US": "Highbury: Militia Drill",
+    "ja_JP": "ハイベリー：民兵演習",
     "zh_CN": "海布里：民兵演习"
   },
   "act17mini_06": {
+    "en_US": "Siesta: Cloud High",
+    "ja_JP": "シエスタ：頂上のパーティー",
     "zh_CN": "汐斯塔：云顶派对"
   },
   "act17mini_07": {
+    "en_US": "Norport: Cleanup & Reconstruction",
+    "ja_JP": "ノーポート：後始末と再建",
     "zh_CN": "诺伯特：清淤重建"
   },
   "act17mini_08": {
+    "en_US": "'Escape in Dossoles'",
+    "ja_JP": "「ドッソレスエスケープ」",
     "zh_CN": "“双日城脱险”"
   },
   "act17mini_s01": {
+    "en_US": "Kazdel: Beyond a Full Stomach",
+    "ja_JP": "カズデル：衣食足りて",
     "zh_CN": "卡兹戴尔：温饱之后"
   },
   "act17mini_s02": {
+    "en_US": "Kazdel: Spiritual Development",
+    "ja_JP": "カズデル：精神教育",
     "zh_CN": "卡兹戴尔：精神建设"
   },
   "act17side_01": {
@@ -4056,6 +4076,8 @@
     "zh_CN": "燃烧街区"
   },
   "camp_r_24": {
+    "en_US": "Icebound Valley",
+    "ja_JP": "閉ざされし雪渓",
     "zh_CN": "冰封雪谷"
   },
   "camp_r_25": {

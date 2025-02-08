@@ -79,7 +79,7 @@ tip: 请善用浏览器的搜索功能
 | skchr_ash_2 | 突击战术 | Assault Tactics | 突撃戦法 |
 | skchr_ash_3 | 攻坚榴弹 | Breaching Rounds | ブリーチング弾 |
 | skchr_ashlok_2 | 专注轰击 | Focused Bombardment | 砲撃専念 |
-| skchr_asnipe_1 | 旋臂 | Spiral Arm | 旋風矢 |
+| skchr_asnipe_1 | 旋臂 | Pronation | 旋風矢 |
 | skchr_astesi_1 | 星座守护 | Astral Protection | 星座の守護 |
 | skchr_astesi_2 | 星辉剑 | Astral Sword | 星輝剣 |
 | skchr_aurora_1 | 固守家园 | Homeland Protector | 故郷の守り人 |
@@ -435,8 +435,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_milu_2 | 战术电台 | Tactical Transceiver | 爆撃要請 |
 | skchr_mint_1 | 风语 | Wind Whispers | 風のささやき |
 | skchr_mint_2 | 聚能涡旋 | Swirling Vortex | スパイラルバースト |
-| skchr_mitm_1 | 遥控解体 | - | - |
-| skchr_mitm_2 | 承压功率 | - | - |
+| skchr_mitm_1 | 遥控解体 | Remote Self-Destruct | リモートパージ |
+| skchr_mitm_2 | 承压功率 | Power Under Pressure | 負荷テスト |
 | skchr_mizuki_1 | 唤醒 | Awaken | 呼び声 |
 | skchr_mizuki_2 | 囚徒困境 | Prisoner's Dilemma | ジレンマ |
 | skchr_mizuki_3 | 镜花水月 | Moon in the Water | 鏡花水月 |
@@ -479,9 +479,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_noirc2_2 | 气刃兜割 | Spirit Helm Breaker | 気刃兜割り |
 | skchr_nothin_1 | 知难而退 | Cautious Retreat | 引き際の心得 |
 | skchr_nothin_2 | 阴晴圆缺 | Wax and Wane | 諸行無常 |
-| skchr_nymph_1 | 笞心击 | - | - |
-| skchr_nymph_2 | 怵然震爆 | - | - |
-| skchr_nymph_3 | 心防溃决 | - | - |
+| skchr_nymph_1 | 笞心击 | Strike of the Djall | 心の笞刑 |
+| skchr_nymph_2 | 怵然震爆 | Fear Blast | 心の戦慄 |
+| skchr_nymph_3 | 心防溃决 | Crumbling Heart | 心の決壊 |
 | skchr_odda_1 | 火花溅射 | Sputterspark | 散火槌 |
 | skchr_odda_2 | 锻锤之力 | Hammerforce | 炎撃槌 |
 | skchr_otter_1 | 迷惑装置 | Bionic Device | 攪乱装置 |
@@ -661,8 +661,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_threye_2 | 我见枯朽之后 | After All I See Has Withered | 枯朽を視たりて |
 | skchr_tiger_1 | 碎甲拳 | Armorcrusher | 砕甲拳 |
 | skchr_tiger_2 | 裂魂 | Sundered Soul | 裂魂 |
-| skchr_tinman_1 | “老科利” | - | - |
-| skchr_tinman_2 | “大拉里” | - | - |
+| skchr_tinman_1 | “老科利” | 'Ol' Curly' | 「オールドカーリー」 |
+| skchr_tinman_2 | “大拉里” | 'Big Larry' | 「ビッグラリー」 |
 | skchr_tknogi_1 | 迹无 | Without a Trace | 跡無 |
 | skchr_tknogi_2 | 森廻 | Forest's Embrace | 森廻 |
 | skchr_toddi_1 | 信号矢 | Signal Arrow | 信号矢 |
@@ -990,9 +990,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_dsshell | 赘生甲壳 | Excrescent Carapace | 増殖甲羅 |
 | sktok_dstnta | 摄食 | Devour | 摂食 |
 | sktok_dublst | 爆破 | Explode | 爆破 |
-| sktok_duelcdt_1 | 狭路相逢 | - | - |
-| sktok_duelcdt_2 | 狭路相逢 | - | - |
-| sktok_duelwal | 狭路相逢 | - | - |
+| sktok_duelcdt_1 | 狭路相逢 | Face to Face | 隘路の衝突 |
+| sktok_duelcdt_2 | 狭路相逢 | Face to Face | 隘路の衝突 |
+| sktok_duelwal | 狭路相逢 | Face to Face | 隘路の衝突 |
 | sktok_dupilr | 支柱坍塌 | Collapsing Pillar | 倒壊 |
 | sktok_duruin | 阻挡路线 | Obstruct | 進路妨害 |
 | sktok_ebnhlz_token | 闪回 | Flashback | フラッシュバック |
@@ -1065,8 +1065,8 @@ tip: 请善用浏览器的搜索功能
 | sktok_mhwrct | 滞空牵引无人机 | Wiredrone | 滞空牽引ドローン |
 | sktok_mine | 触爆 | Detonate | 接触式起爆 |
 | sktok_mire | 沼泽控制 | Mire Control | 沼地制御 |
-| sktok_mitm_trshrb_1 | 废品战车 | - | - |
-| sktok_mitm_trshrb_2 | 废品战车 | - | - |
+| sktok_mitm_trshrb_1 | 废品战车 | Scrapheap Buggies | ガラクタの戦車 |
+| sktok_mitm_trshrb_2 | 废品战车 | Scrapheap Buggies | ガラクタの戦車 |
 | sktok_mlyss_wtrman_1 | 流形 | Flowing Shape | うつろう水影 |
 | sktok_mlyss_wtrman_2 | 流形 | Flowing Shape | うつろう水影 |
 | sktok_mlyss_wtrman_3 | 流形 | Flowing Shape | うつろう水影 |
@@ -1133,10 +1133,10 @@ tip: 请善用浏览器的搜索功能
 | sktok_skadi2_1 | 共鸣 | Resonance | 共鳴 |
 | sktok_skadi2_2 | 共鸣 | Resonance | 共鳴 |
 | sktok_skadi2_3 | 共鸣 | Resonance | 共鳴 |
-| sktok_skzbox | 诱人珍宝 | - | - |
-| sktok_skzmbx | 诱人珍宝？ | - | - |
-| sktok_skztxy_1 | 意志震荡 | - | - |
-| sktok_skzwyx | 更诱人珍宝 | - | - |
+| sktok_skzbox | 诱人珍宝 | Alluring Treasures | 財宝のいざない |
+| sktok_skzmbx | 诱人珍宝？ | Alluring Treasures? | 財宝？の誘惑 |
+| sktok_skztxy_1 | 意志震荡 | Shock of Will | 意志の激震 |
+| sktok_skzwyx | 更诱人珍宝 | More Alluring Treasures | 財宝の蠱惑 |
 | sktok_sleep | 救援绳索 | Rescue Rope | 救援ロープ |
 | sktok_slent2_protrb | 夜灯 | Night Banisher | 夜の灯火 |
 | sktok_slowfd | 高压喷射 | High-Pressure Spray | 高圧ガス |

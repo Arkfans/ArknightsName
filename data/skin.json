@@ -86,6 +86,8 @@
     "zh_CN": "博物"
   },
   "char_1020_reed2@summer#17": {
+    "en_US": "Summer Flower FA075",
+    "ja_JP": "夏の花弁FA075",
     "zh_CN": "夏卉 FA075"
   },
   "char_1021_kroos2@game#3": {
@@ -150,7 +152,7 @@
   },
   "char_1037_amiya3@sale#13": {
     "en_US": "Solo Around The World",
-    "ja_JP": "﻿宙に響く独奏",
+    "ja_JP": "宙に響く独奏",
     "zh_CN": "寰宇独奏"
   },
   "char_103_angel@kfc#1": {
@@ -279,6 +281,8 @@
     "zh_CN": "幽静"
   },
   "char_128_plosis@yun#4": {
+    "en_US": "Among the Clouds",
+    "ja_JP": "雲間奏",
     "zh_CN": "抚云间"
   },
   "char_129_bluep@iteration#2": {
@@ -550,6 +554,8 @@
     "zh_CN": "沙滩护卫 GT.001"
   },
   "char_2012_typhon@summer#17": {
+    "en_US": "Temperature Difference RT.RX07",
+    "ja_JP": "温度差RT.RX07",
     "zh_CN": "温差 RT.RX07"
   },
   "char_2012_typhon@wild#9": {
@@ -906,6 +912,8 @@
     "zh_CN": "魔女的秋千"
   },
   "char_282_catap@summer#17": {
+    "en_US": "Holiday HD66",
+    "ja_JP": "ホリデーHD66",
     "zh_CN": "悠然假日 HD66"
   },
   "char_283_midn@boc#1": {
@@ -1330,6 +1338,8 @@
     "zh_CN": "培翠"
   },
   "char_4032_provs@summer#17": {
+    "en_US": "Holiday HD78",
+    "ja_JP": "ホリデーHD78",
     "zh_CN": "悠然假日 HD78"
   },
   "char_4032_provs@wild#7": {
@@ -1403,6 +1413,8 @@
     "zh_CN": "正午余光"
   },
   "char_4062_totter@summer#17": {
+    "en_US": "Shining Dew SDm09",
+    "ja_JP": "炎陽煌く露SDm09",
     "zh_CN": "灿阳朝露 SDm09"
   },
   "char_4063_quartz@epoque#39": {
@@ -1467,6 +1479,8 @@
     "zh_CN": "霜林醉"
   },
   "char_4083_chimes@yun#5": {
+    "en_US": "Moon under the Pines",
+    "ja_JP": "松間月",
     "zh_CN": "松间月"
   },
   "char_4087_ines@boc#8": {
@@ -1490,6 +1504,8 @@
     "zh_CN": "夏卉 FA083"
   },
   "char_4104_coldst@striker#3": {
+    "en_US": "Dawnbreak",
+    "ja_JP": "破暁",
     "zh_CN": "破晓"
   },
   "char_4105_almond@epoque#38": {

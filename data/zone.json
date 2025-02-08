@@ -330,6 +330,8 @@
     "zh_CN": "战火回想"
   },
   "act17mini_zone1": {
+    "en_US": "Enter Kazdel",
+    "ja_JP": "かの都市へ",
     "zh_CN": "走入城市"
   },
   "act17side_zone1": {
@@ -686,9 +688,13 @@
     "zh_CN": "黑色舰船"
   },
   "act28sre_zone1": {
+    "en_US": "Anemic Platform",
+    "ja_JP": "青白い町",
     "zh_CN": "苍白平台"
   },
   "act28sre_zone2": {
+    "en_US": "Black Landship",
+    "ja_JP": "黒き艦船",
     "zh_CN": "黑色舰船"
   },
   "act29side_zone1": {
@@ -1178,9 +1184,13 @@
     "zh_CN": "自诩荒野"
   },
   "permanent_sidestory_22_zone1": {
+    "en_US": "Anemic Platform",
+    "ja_JP": "青白い町",
     "zh_CN": "苍白平台"
   },
   "permanent_sidestory_22_zone2": {
+    "en_US": "Black Landship",
+    "ja_JP": "黒き艦船",
     "zh_CN": "黑色舰船"
   },
   "permanent_sidestory_23_zone1": {

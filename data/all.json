@@ -2354,12 +2354,16 @@
   "char_4146_nymph": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Nymph",
+      "ja_JP": "ニンフ",
       "zh_CN": "妮芙"
     }
   },
   "char_4147_mitm": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Mitm",
+      "ja_JP": "ミトム",
       "zh_CN": "渡桥"
     }
   },
@@ -2372,6 +2376,8 @@
   "char_4151_tinman": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Tin Man",
+      "ja_JP": "ブリキ",
       "zh_CN": "锡人"
     }
   },
@@ -3348,6 +3354,8 @@
   "token_10037_mitm_trshrb": {
     "type": "TOKEN",
     "names": {
+      "en_US": "Cherry-3",
+      "ja_JP": "チェリー3号",
       "zh_CN": "樱桃三号"
     }
   },
@@ -6552,48 +6560,64 @@
   "trap_757_skzbox": {
     "type": "TRAP",
     "names": {
+      "en_US": "Treasure Chest",
+      "ja_JP": "宝箱",
       "zh_CN": "宝箱"
     }
   },
   "trap_758_skzmbx": {
     "type": "TRAP",
     "names": {
+      "en_US": "Idle Exquisicart",
+      "ja_JP": "アイドリングメカ",
       "zh_CN": "停滞巧械"
     }
   },
   "trap_759_skzwyx": {
     "type": "TRAP",
     "names": {
+      "en_US": "Dying Fowlbeast",
+      "ja_JP": "瀕死の羽獣",
       "zh_CN": "垂死羽兽"
     }
   },
   "trap_760_skztzs": {
     "type": "TRAP",
     "names": {
+      "en_US": "Spines of Epoch",
+      "ja_JP": "時代の棘",
       "zh_CN": "年代之刺"
     }
   },
   "trap_761_skzthx": {
     "type": "TRAP",
     "names": {
+      "en_US": "Shadows of the Lord",
+      "ja_JP": "主の残像",
       "zh_CN": "尊主的残影"
     }
   },
   "trap_762_skztxy": {
     "type": "TRAP",
     "names": {
+      "en_US": "Theresa, Black-crowned Sage",
+      "ja_JP": "「黒き王冠の聖賢」テレジア",
       "zh_CN": "特蕾西娅，黑冠圣贤"
     }
   },
   "trap_763_skzddd": {
     "type": "TRAP",
     "names": {
+      "en_US": "Guardian Bulwark",
+      "ja_JP": "聖衛の盾",
       "zh_CN": "圣卫坚盾"
     }
   },
   "trap_764_skzshp": {
     "type": "TRAP",
     "names": {
+      "en_US": "Burdenbeast Traveler",
+      "ja_JP": "旅する駄獣",
       "zh_CN": "驮兽旅行家"
     }
   },
@@ -6608,12 +6632,16 @@
   "trap_766_duelwal": {
     "type": "TRAP",
     "names": {
+      "en_US": "Face to Face",
+      "ja_JP": "隘路の衝突",
       "zh_CN": "狭路相逢"
     }
   },
   "trap_767_duelcdt": {
     "type": "TRAP",
     "names": {
+      "en_US": "Face to Face",
+      "ja_JP": "隘路の衝突",
       "zh_CN": "狭路相逢"
     }
   },
@@ -6850,6 +6878,8 @@
   "char_1020_reed2@summer#17": {
     "type": "SKIN",
     "names": {
+      "en_US": "Summer Flower FA075",
+      "ja_JP": "夏の花弁FA075",
       "zh_CN": "夏卉 FA075"
     }
   },
@@ -6959,7 +6989,7 @@
     "type": "SKIN",
     "names": {
       "en_US": "Solo Around The World",
-      "ja_JP": "﻿宙に響く独奏",
+      "ja_JP": "宙に響く独奏",
       "zh_CN": "寰宇独奏"
     }
   },
@@ -7166,6 +7196,8 @@
   "char_128_plosis@yun#4": {
     "type": "SKIN",
     "names": {
+      "en_US": "Among the Clouds",
+      "ja_JP": "雲間奏",
       "zh_CN": "抚云间"
     }
   },
@@ -7602,6 +7634,8 @@
   "char_2012_typhon@summer#17": {
     "type": "SKIN",
     "names": {
+      "en_US": "Temperature Difference RT.RX07",
+      "ja_JP": "温度差RT.RX07",
       "zh_CN": "温差 RT.RX07"
     }
   },
@@ -8180,6 +8214,8 @@
   "char_282_catap@summer#17": {
     "type": "SKIN",
     "names": {
+      "en_US": "Holiday HD66",
+      "ja_JP": "ホリデーHD66",
       "zh_CN": "悠然假日 HD66"
     }
   },
@@ -8868,6 +8904,8 @@
   "char_4032_provs@summer#17": {
     "type": "SKIN",
     "names": {
+      "en_US": "Holiday HD78",
+      "ja_JP": "ホリデーHD78",
       "zh_CN": "悠然假日 HD78"
     }
   },
@@ -8986,6 +9024,8 @@
   "char_4062_totter@summer#17": {
     "type": "SKIN",
     "names": {
+      "en_US": "Shining Dew SDm09",
+      "ja_JP": "炎陽煌く露SDm09",
       "zh_CN": "灿阳朝露 SDm09"
     }
   },
@@ -9092,6 +9132,8 @@
   "char_4083_chimes@yun#5": {
     "type": "SKIN",
     "names": {
+      "en_US": "Moon under the Pines",
+      "ja_JP": "松間月",
       "zh_CN": "松间月"
     }
   },
@@ -9130,6 +9172,8 @@
   "char_4104_coldst@striker#3": {
     "type": "SKIN",
     "names": {
+      "en_US": "Dawnbreak",
+      "ja_JP": "破暁",
       "zh_CN": "破晓"
     }
   },
@@ -18196,126 +18240,168 @@
   "enemy_2063_skzlch": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Sarkaz Maze Guide",
+      "ja_JP": "サルカズ迷宮の忠告者",
       "zh_CN": "萨卡兹迷宫劝导者"
     }
   },
   "enemy_2064_skzwdd": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Sarkaz Maze Returner",
+      "ja_JP": "サルカズ迷宮の帰郷者",
       "zh_CN": "萨卡兹迷宫归乡者"
     }
   },
   "enemy_2065_skzjs": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Dreadkaz",
+      "ja_JP": "ドレッドカズ",
       "zh_CN": "恐卡兹"
     }
   },
   "enemy_2066_skzlcp": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Sarkaz Maze Spellweaver",
+      "ja_JP": "サルカズ迷宮の織呪者",
       "zh_CN": "萨卡兹迷宫织咒者"
     }
   },
   "enemy_2067_skzcy": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Portal'",
+      "ja_JP": "「門」",
       "zh_CN": "“门”"
     }
   },
   "enemy_2068_skzirn": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Holy Automaton",
+      "ja_JP": "聖衛のオートマトン",
       "zh_CN": "圣卫自动机"
     }
   },
   "enemy_2069_skzbox": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Lost Contraption",
+      "ja_JP": "珍妙な機械",
       "zh_CN": "迷珍巧械"
     }
   },
   "enemy_2070_skzfbx": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Lost Hovercraft",
+      "ja_JP": "珍妙な飛行機械",
       "zh_CN": "迷珍飞械"
     }
   },
   "enemy_2071_skzdny": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Laqeramaline",
+      "ja_JP": "ラケラマリン",
       "zh_CN": "菈玛莲"
     }
   },
   "enemy_2072_skdny2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "The Tear Weaver",
+      "ja_JP": "涙を織りし術師",
       "zh_CN": "编织泪水的术师"
     }
   },
   "enemy_2074_skzgly": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Goliath",
+      "ja_JP": "ゴリアテ",
       "zh_CN": "歌利亚"
     }
   },
   "enemy_2075_skgly2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Champion of Lost Agonies",
+      "ja_JP": "傷を忘れし戦士",
       "zh_CN": "遗忘创伤的战士"
     }
   },
   "enemy_2076_skzklz": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Kal'tsit",
+      "ja_JP": "Kal'tsit",
       "zh_CN": "凯尔希"
     }
   },
   "enemy_2077_skklz2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "The Doomsday Prophet",
+      "ja_JP": "終末を予見せし賢者",
       "zh_CN": "预见末日的贤人"
     }
   },
   "enemy_2078_skzmst": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Mon2tr",
+      "ja_JP": "Mon2tr",
       "zh_CN": "Mon2tr"
     }
   },
   "enemy_2079_skmst2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Evolving Monster",
+      "ja_JP": "世代交代を重ねし怪物",
       "zh_CN": "迭代的怪物"
     }
   },
   "enemy_2080_skzlwy": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Fremont, Enlightener of Minds",
+      "ja_JP": "「迷想の解」フレモント",
       "zh_CN": "弗莱蒙特，诸思之解答"
     }
   },
   "enemy_2081_skztxs": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Theresis, Black Crowned Lord",
+      "ja_JP": "「黒き王冠の主」テレシス",
       "zh_CN": "特雷西斯，黑冠尊主"
     }
   },
   "enemy_2082_skzdd": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Buldrokkas'tee, Holy Gun-Knight",
+      "ja_JP": "「聖衛の銃騎士」ボジョカスティ",
       "zh_CN": "博卓卡斯替，圣卫铳骑"
     }
   },
   "enemy_2084_skzcan": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Mr. Goodenough",
+      "ja_JP": "Mr.グッドイナフ",
       "zh_CN": "古德因纳夫先生"
     }
   },
   "enemy_2085_skzjxd": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Fatty",
+      "ja_JP": "マルッコ",
       "zh_CN": "圆仔"
     }
   },
@@ -19896,6 +19982,8 @@
   "act17mini": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "A Kazdelian Rescue",
+      "ja_JP": "溶炉「還魂」譚",
       "zh_CN": "熔炉“还魂”记"
     }
   },
@@ -20408,6 +20496,8 @@
   "act28sre": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Come Catastrophes or Wakes of Vultures - Rerun",
+      "ja_JP": "ダーティマネー・復刻",
       "zh_CN": "不义之财 复刻"
     }
   },
@@ -20756,6 +20846,8 @@
   "act40sign": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Furnaceside Fables Login Event",
+      "ja_JP": "炉辺奇談スタンプ",
       "zh_CN": "无终奇语签到活动"
     }
   },
@@ -20784,6 +20876,8 @@
   "act43sign": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "A Good Moony Time Login Event",
+      "ja_JP": "嘉辰令月スタンプ",
       "zh_CN": "良辰迎月签到活动"
     }
   },
@@ -23293,6 +23387,8 @@
   "act17mini_token_ash": {
     "type": "ITEM",
     "names": {
+      "en_US": "Slag",
+      "ja_JP": "スラグ",
       "zh_CN": "炉渣"
     }
   },
@@ -23677,6 +23773,8 @@
   "act28side_token_box_rep_1": {
     "type": "ITEM",
     "names": {
+      "en_US": "Shoddy Fuel",
+      "ja_JP": "粗悪燃料",
       "zh_CN": "劣质燃料"
     }
   },
@@ -24492,24 +24590,32 @@
   "ap_supply_lt_120_2024_2": {
     "type": "ITEM",
     "names": {
+      "en_US": "'Floating Silver'",
+      "ja_JP": "「水面銀月」",
       "zh_CN": "“落银盘”"
     }
   },
   "ap_supply_lt_120_2024_3": {
     "type": "ITEM",
     "names": {
+      "en_US": "'Lucent Night'",
+      "ja_JP": "「宵暉一望」",
       "zh_CN": "“望宵晖”"
     }
   },
   "ap_supply_lt_120_2024_4": {
     "type": "ITEM",
     "names": {
+      "en_US": "'Moonchart Osmanthus'",
+      "ja_JP": "「筆描桂月」",
       "zh_CN": "“画桂魄”"
     }
   },
   "ap_supply_lt_120_2024_5": {
     "type": "ITEM",
     "names": {
+      "en_US": "'Glimmering Dream'",
+      "ja_JP": "「夢誘夜光」",
       "zh_CN": "“枕夜光”"
     }
   },
@@ -28601,12 +28707,16 @@
   "p_char_4146_nymph": {
     "type": "ITEM",
     "names": {
+      "en_US": "Nymph's Token",
+      "ja_JP": "ニンフの印",
       "zh_CN": "妮芙的信物"
     }
   },
   "p_char_4147_mitm": {
     "type": "ITEM",
     "names": {
+      "en_US": "Mitm's Token",
+      "ja_JP": "ミトムの印",
       "zh_CN": "渡桥的信物"
     }
   },
@@ -28619,6 +28729,8 @@
   "p_char_4151_tinman": {
     "type": "ITEM",
     "names": {
+      "en_US": "Tin Man's Token",
+      "ja_JP": "ブリキの印",
       "zh_CN": "锡人的信物"
     }
   },
@@ -29515,12 +29627,16 @@
   "rogue_4_token_bp": {
     "type": "ITEM",
     "names": {
+      "en_US": "Soul Bookmark",
+      "ja_JP": "魂のしおり",
       "zh_CN": "魂灵书签"
     }
   },
   "rogue_4_token_grow": {
     "type": "ITEM",
     "names": {
+      "en_US": "Stray Myths",
+      "ja_JP": "散逸した思案",
       "zh_CN": "散佚迷思"
     }
   },
@@ -30189,6 +30305,8 @@
   "uni_set_rhineLab": {
     "type": "ITEM",
     "names": {
+      "en_US": "Dorothy's Vision Furniture Pack",
+      "ja_JP": "翠玉の夢家具パック",
       "zh_CN": "绿野幻梦家具收藏包"
     }
   },
@@ -30375,6 +30493,8 @@
   "voucher_full_halo": {
     "type": "ITEM",
     "names": {
+      "en_US": "Astgenne's Personal Letter",
+      "ja_JP": "アステジーニの手紙",
       "zh_CN": "星源的私人信件"
     }
   },
@@ -32122,6 +32242,13 @@
       "ja_JP": "連合作戦"
     }
   },
+  "_NORM_32_0_3": {
+    "type": "POOL",
+    "names": {
+      "en_US": "Joint Operation",
+      "ja_JP": "連合作戦"
+    }
+  },
   "_NORM_3_0_1": {
     "type": "POOL",
     "names": {
@@ -32400,6 +32527,27 @@
     "names": {
       "en_US": "Arbiter Aequissimus",
       "ja_JP": "執裁者"
+    }
+  },
+  "_SINGLE_32_0_1": {
+    "type": "POOL",
+    "names": {
+      "en_US": "Clear Like Hearts, True Like Reflections",
+      "ja_JP": "心と鏡の残痕"
+    }
+  },
+  "_SINGLE_32_0_5": {
+    "type": "POOL",
+    "names": {
+      "en_US": "Clank Liberty",
+      "ja_JP": "銃声"
+    }
+  },
+  "_SPECIAL_32_0_8": {
+    "type": "POOL",
+    "names": {
+      "en_US": "Orienteering Headhunting",
+      "ja_JP": "セレクトスカウト"
     }
   },
   "skchr_absin_1": {
@@ -32949,7 +33097,7 @@
   "skchr_asnipe_1": {
     "type": "SKILL",
     "names": {
-      "en_US": "Spiral Arm",
+      "en_US": "Pronation",
       "ja_JP": "旋風矢",
       "zh_CN": "旋臂"
     }
@@ -35759,12 +35907,16 @@
   "skchr_mitm_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Remote Self-Destruct",
+      "ja_JP": "リモートパージ",
       "zh_CN": "遥控解体"
     }
   },
   "skchr_mitm_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Power Under Pressure",
+      "ja_JP": "負荷テスト",
       "zh_CN": "承压功率"
     }
   },
@@ -36107,18 +36259,24 @@
   "skchr_nymph_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Strike of the Djall",
+      "ja_JP": "心の笞刑",
       "zh_CN": "笞心击"
     }
   },
   "skchr_nymph_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Fear Blast",
+      "ja_JP": "心の戦慄",
       "zh_CN": "怵然震爆"
     }
   },
   "skchr_nymph_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Crumbling Heart",
+      "ja_JP": "心の決壊",
       "zh_CN": "心防溃决"
     }
   },
@@ -37521,12 +37679,16 @@
   "skchr_tinman_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "'Ol' Curly'",
+      "ja_JP": "「オールドカーリー」",
       "zh_CN": "“老科利”"
     }
   },
   "skchr_tinman_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "'Big Larry'",
+      "ja_JP": "「ビッグラリー」",
       "zh_CN": "“大拉里”"
     }
   },
@@ -39893,18 +40055,24 @@
   "sktok_duelcdt_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Face to Face",
+      "ja_JP": "隘路の衝突",
       "zh_CN": "狭路相逢"
     }
   },
   "sktok_duelcdt_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Face to Face",
+      "ja_JP": "隘路の衝突",
       "zh_CN": "狭路相逢"
     }
   },
   "sktok_duelwal": {
     "type": "SKILL",
     "names": {
+      "en_US": "Face to Face",
+      "ja_JP": "隘路の衝突",
       "zh_CN": "狭路相逢"
     }
   },
@@ -40483,12 +40651,16 @@
   "sktok_mitm_trshrb_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Scrapheap Buggies",
+      "ja_JP": "ガラクタの戦車",
       "zh_CN": "废品战车"
     }
   },
   "sktok_mitm_trshrb_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Scrapheap Buggies",
+      "ja_JP": "ガラクタの戦車",
       "zh_CN": "废品战车"
     }
   },
@@ -41023,24 +41195,32 @@
   "sktok_skzbox": {
     "type": "SKILL",
     "names": {
+      "en_US": "Alluring Treasures",
+      "ja_JP": "財宝のいざない",
       "zh_CN": "诱人珍宝"
     }
   },
   "sktok_skzmbx": {
     "type": "SKILL",
     "names": {
+      "en_US": "Alluring Treasures?",
+      "ja_JP": "財宝？の誘惑",
       "zh_CN": "诱人珍宝？"
     }
   },
   "sktok_skztxy_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Shock of Will",
+      "ja_JP": "意志の激震",
       "zh_CN": "意志震荡"
     }
   },
   "sktok_skzwyx": {
     "type": "SKILL",
     "names": {
+      "en_US": "More Alluring Treasures",
+      "ja_JP": "財宝の蠱惑",
       "zh_CN": "更诱人珍宝"
     }
   },
@@ -44351,60 +44531,80 @@
   "act17mini_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Yumen: Dune Carnival",
+      "ja_JP": "玉門：砂丘のバカ騒ぎ",
       "zh_CN": "玉门：沙丘狂欢"
     }
   },
   "act17mini_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Ortzimuga: Subterranean Adventure",
+      "ja_JP": "オルツィムガ：地下の旅",
       "zh_CN": "天际城：地下奇旅"
     }
   },
   "act17mini_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Sorrento: Family Gathering",
+      "ja_JP": "ソレント：ファミリーの集会",
       "zh_CN": "索伦托：家族聚会"
     }
   },
   "act17mini_04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Dossoles: Treasure Hunt",
+      "ja_JP": "ドッソレス：ビーチの宝探し",
       "zh_CN": "多索雷斯：沙滩寻宝"
     }
   },
   "act17mini_05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Highbury: Militia Drill",
+      "ja_JP": "ハイベリー：民兵演習",
       "zh_CN": "海布里：民兵演习"
     }
   },
   "act17mini_06": {
     "type": "STAGE",
     "names": {
+      "en_US": "Siesta: Cloud High",
+      "ja_JP": "シエスタ：頂上のパーティー",
       "zh_CN": "汐斯塔：云顶派对"
     }
   },
   "act17mini_07": {
     "type": "STAGE",
     "names": {
+      "en_US": "Norport: Cleanup & Reconstruction",
+      "ja_JP": "ノーポート：後始末と再建",
       "zh_CN": "诺伯特：清淤重建"
     }
   },
   "act17mini_08": {
     "type": "STAGE",
     "names": {
+      "en_US": "'Escape in Dossoles'",
+      "ja_JP": "「ドッソレスエスケープ」",
       "zh_CN": "“双日城脱险”"
     }
   },
   "act17mini_s01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Kazdel: Beyond a Full Stomach",
+      "ja_JP": "カズデル：衣食足りて",
       "zh_CN": "卡兹戴尔：温饱之后"
     }
   },
   "act17mini_s02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Kazdel: Spiritual Development",
+      "ja_JP": "カズデル：精神教育",
       "zh_CN": "卡兹戴尔：精神建设"
     }
   },
@@ -48837,6 +49037,8 @@
   "camp_r_24": {
     "type": "STAGE",
     "names": {
+      "en_US": "Icebound Valley",
+      "ja_JP": "閉ざされし雪渓",
       "zh_CN": "冰封雪谷"
     }
   },
@@ -53503,6 +53705,8 @@
   "act17mini_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Enter Kazdel",
+      "ja_JP": "かの都市へ",
       "zh_CN": "走入城市"
     }
   },
@@ -54075,12 +54279,16 @@
   "act28sre_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Anemic Platform",
+      "ja_JP": "青白い町",
       "zh_CN": "苍白平台"
     }
   },
   "act28sre_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Black Landship",
+      "ja_JP": "黒き艦船",
       "zh_CN": "黑色舰船"
     }
   },
@@ -54885,12 +55093,16 @@
   "permanent_sidestory_22_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Anemic Platform",
+      "ja_JP": "青白い町",
       "zh_CN": "苍白平台"
     }
   },
   "permanent_sidestory_22_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Black Landship",
+      "ja_JP": "黒き艦船",
       "zh_CN": "黑色舰船"
     }
   },
@@ -55745,6 +55957,8 @@
   "story_caper_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Happy Place",
+      "ja_JP": "楽しい場所",
       "zh_CN": "快乐之地"
     }
   },
@@ -56251,6 +56465,8 @@
   "story_glaze_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Evening in the Holy City",
+      "ja_JP": "聖都の夕日",
       "zh_CN": "圣城晚照"
     }
   },
@@ -56351,6 +56567,8 @@
   "story_harold_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "The Veteran's Prosthetic Limb",
+      "ja_JP": "老兵の義足",
       "zh_CN": "老兵的义肢"
     }
   },
@@ -57701,6 +57919,8 @@
   "story_warmy_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Unfinished Ending",
+      "ja_JP": "未完の結末",
       "zh_CN": "未完的结局"
     }
   },
@@ -57807,6 +58027,8 @@
   "rogue_4": {
     "type": "ROGUELIKE",
     "names": {
+      "en_US": "Sarkaz's Furnaceside Fables",
+      "ja_JP": "サルカズの炉辺奇談",
       "zh_CN": "萨卡兹的无终奇语"
     }
   }

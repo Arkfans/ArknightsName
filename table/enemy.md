@@ -1077,27 +1077,27 @@ tip: 请善用浏览器的搜索功能
 | enemy_2060_smshdw | 可汗片影 | Khaganshadow | ハガンの影 |
 | enemy_2061_smhond | 王者友伴 | Royal Companion | 王の友 |
 | enemy_2062_smcar | 勘察用自走车 | Self-Driving Recon Cart | 自走式探査車 |
-| enemy_2063_skzlch | 萨卡兹迷宫劝导者 | - | - |
-| enemy_2064_skzwdd | 萨卡兹迷宫归乡者 | - | - |
-| enemy_2065_skzjs | 恐卡兹 | - | - |
-| enemy_2066_skzlcp | 萨卡兹迷宫织咒者 | - | - |
-| enemy_2067_skzcy | “门” | - | - |
-| enemy_2068_skzirn | 圣卫自动机 | - | - |
-| enemy_2069_skzbox | 迷珍巧械 | - | - |
-| enemy_2070_skzfbx | 迷珍飞械 | - | - |
-| enemy_2071_skzdny | 菈玛莲 | - | - |
-| enemy_2072_skdny2 | 编织泪水的术师 | - | - |
-| enemy_2074_skzgly | 歌利亚 | - | - |
-| enemy_2075_skgly2 | 遗忘创伤的战士 | - | - |
-| enemy_2076_skzklz | 凯尔希 | - | - |
-| enemy_2077_skklz2 | 预见末日的贤人 | - | - |
-| enemy_2078_skzmst | Mon2tr | - | - |
-| enemy_2079_skmst2 | 迭代的怪物 | - | - |
-| enemy_2080_skzlwy | 弗莱蒙特，诸思之解答 | - | - |
-| enemy_2081_skztxs | 特雷西斯，黑冠尊主 | - | - |
-| enemy_2082_skzdd | 博卓卡斯替，圣卫铳骑 | - | - |
-| enemy_2084_skzcan | 古德因纳夫先生 | - | - |
-| enemy_2085_skzjxd | 圆仔 | - | - |
+| enemy_2063_skzlch | 萨卡兹迷宫劝导者 | Sarkaz Maze Guide | サルカズ迷宮の忠告者 |
+| enemy_2064_skzwdd | 萨卡兹迷宫归乡者 | Sarkaz Maze Returner | サルカズ迷宮の帰郷者 |
+| enemy_2065_skzjs | 恐卡兹 | Dreadkaz | ドレッドカズ |
+| enemy_2066_skzlcp | 萨卡兹迷宫织咒者 | Sarkaz Maze Spellweaver | サルカズ迷宮の織呪者 |
+| enemy_2067_skzcy | “门” | 'Portal' | 「門」 |
+| enemy_2068_skzirn | 圣卫自动机 | Holy Automaton | 聖衛のオートマトン |
+| enemy_2069_skzbox | 迷珍巧械 | Lost Contraption | 珍妙な機械 |
+| enemy_2070_skzfbx | 迷珍飞械 | Lost Hovercraft | 珍妙な飛行機械 |
+| enemy_2071_skzdny | 菈玛莲 | Laqeramaline | ラケラマリン |
+| enemy_2072_skdny2 | 编织泪水的术师 | The Tear Weaver | 涙を織りし術師 |
+| enemy_2074_skzgly | 歌利亚 | Goliath | ゴリアテ |
+| enemy_2075_skgly2 | 遗忘创伤的战士 | Champion of Lost Agonies | 傷を忘れし戦士 |
+| enemy_2076_skzklz | 凯尔希 | Kal'tsit | Kal'tsit |
+| enemy_2077_skklz2 | 预见末日的贤人 | The Doomsday Prophet | 終末を予見せし賢者 |
+| enemy_2078_skzmst | Mon2tr | Mon2tr | Mon2tr |
+| enemy_2079_skmst2 | 迭代的怪物 | Evolving Monster | 世代交代を重ねし怪物 |
+| enemy_2080_skzlwy | 弗莱蒙特，诸思之解答 | Fremont, Enlightener of Minds | 「迷想の解」フレモント |
+| enemy_2081_skztxs | 特雷西斯，黑冠尊主 | Theresis, Black Crowned Lord | 「黒き王冠の主」テレシス |
+| enemy_2082_skzdd | 博卓卡斯替，圣卫铳骑 | Buldrokkas'tee, Holy Gun-Knight | 「聖衛の銃騎士」ボジョカスティ |
+| enemy_2084_skzcan | 古德因纳夫先生 | Mr. Goodenough | Mr.グッドイナフ |
+| enemy_2085_skzjxd | 圆仔 | Fatty | マルッコ |
 | enemy_2089_skzjkl | 奎隆，摩诃萨埵权化 | - | - |
 | enemy_2090_skzjbc | 托生莲座 | - | - |
 | enemy_2091_skzgds | “窗” | - | - |

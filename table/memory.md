@@ -58,7 +58,7 @@ tip: 请善用浏览器的搜索功能
 | story_bubble_set_1_story_1 | 勇者的试炼 | Trial For The Brave | 戦士の試練 |
 | story_buildr_set_1_story_1 | 复还的羽兽 | The Fowlbeast That Returned | 戻ってきた羽獣 |
 | story_cammou_set_1_story_1 | 无人工房 | Unmanned Workshop | 無人工場 |
-| story_caper_set_1_story_1 | 快乐之地 | - | - |
+| story_caper_set_1_story_1 | 快乐之地 | Happy Place | 楽しい場所 |
 | story_cast3_set_1_story_1 | 不朽 | Immortal | 不朽 |
 | story_catap_set_1_story_1 | 挣脱 | Break Free | 脱出 |
 | story_catap_set_2_story_1 | 改变 | Change | 改変 |
@@ -122,7 +122,7 @@ tip: 请善用浏览器的搜索功能
 | story_glady_set_1_story_1 | 失水症 | Dehydration | 脱水症 |
 | story_glassb_set_1_story_1 | 走吧，走吧 | Let's Go, Let's Go | さあ、行こう |
 | story_glassb_set_2_story_1 | 再见以前 | Before I Say Goodbye | いつかの日に別れを |
-| story_glaze_set_1_story_1 | 圣城晚照 | - | - |
+| story_glaze_set_1_story_1 | 圣城晚照 | Evening in the Holy City | 聖都の夕日 |
 | story_glider_set_1_story_1 | 苦涩的根茎 | A Bitterest Rhizome | 苦い根茎 |
 | story_gnosis_set_1_story_1 | 起点 | Starting Point | 起点 |
 | story_grabds_set_1_story_1 | 旧梦重温 | - | - |
@@ -135,7 +135,7 @@ tip: 请善用浏览器的搜索功能
 | story_haini_set_1_story_1 | 怀有希望之人 | The Hopeful Ones | 希望を抱く人 |
 | story_halo_set_1_story_1 | 实验进行中 | Now Experimenting... | 実験進行中 |
 | story_hamoni_set_1_story_1 | 孤独的舞者 | Solitary Dancer | 孤独なダンサー |
-| story_harold_set_1_story_1 | 老兵的义肢 | - | - |
+| story_harold_set_1_story_1 | 老兵的义肢 | The Veteran's Prosthetic Limb | 老兵の義足 |
 | story_hbisc2_set_1_story_1 | 无名之花 | Nameless Flower | 名もなき花 |
 | story_headbr_set_1_story_1 | 强中自有强中手 | Strong Meets Stronger | 強さに果てはなし |
 | story_headbr_set_2_story_1 | 在冬夜里燃烧 | Burning on a Winter Night | 冬の夜に燃える |
@@ -307,7 +307,7 @@ tip: 请善用浏览器的搜索功能
 | story_vrdant_set_1_story_1 | 小草的呼喊 | Little Tuft, Where Art Thou? | 草木の叫び |
 | story_waaifu_set_1_story_1 | 武为何物 | What Martial Arts Serve | 武とは何ぞや |
 | story_wanqin_set_1_story_1 | 问道 | - | - |
-| story_warmy_set_1_story_1 | 未完的结局 | - | - |
+| story_warmy_set_1_story_1 | 未完的结局 | Unfinished Ending | 未完の結末 |
 | story_weedy_set_1_story_1 | 同舟 | Together Aboard | 同舟 |
 | story_whispr_set_1_story_1 | 雨落之前 | Before the Rain | 雨降る前に |
 | story_wildmn_set_1_story_1 | 憧憬 | Aspiration | 憧憬 |

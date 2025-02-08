@@ -1913,27 +1913,43 @@
     "zh_CN": "“黏黏的赠品”"
   },
   "trap_757_skzbox": {
+    "en_US": "Treasure Chest",
+    "ja_JP": "宝箱",
     "zh_CN": "宝箱"
   },
   "trap_758_skzmbx": {
+    "en_US": "Idle Exquisicart",
+    "ja_JP": "アイドリングメカ",
     "zh_CN": "停滞巧械"
   },
   "trap_759_skzwyx": {
+    "en_US": "Dying Fowlbeast",
+    "ja_JP": "瀕死の羽獣",
     "zh_CN": "垂死羽兽"
   },
   "trap_760_skztzs": {
+    "en_US": "Spines of Epoch",
+    "ja_JP": "時代の棘",
     "zh_CN": "年代之刺"
   },
   "trap_761_skzthx": {
+    "en_US": "Shadows of the Lord",
+    "ja_JP": "主の残像",
     "zh_CN": "尊主的残影"
   },
   "trap_762_skztxy": {
+    "en_US": "Theresa, Black-crowned Sage",
+    "ja_JP": "「黒き王冠の聖賢」テレジア",
     "zh_CN": "特蕾西娅，黑冠圣贤"
   },
   "trap_763_skzddd": {
+    "en_US": "Guardian Bulwark",
+    "ja_JP": "聖衛の盾",
     "zh_CN": "圣卫坚盾"
   },
   "trap_764_skzshp": {
+    "en_US": "Burdenbeast Traveler",
+    "ja_JP": "旅する駄獣",
     "zh_CN": "驮兽旅行家"
   },
   "trap_765_bmoney": {
@@ -1942,9 +1958,13 @@
     "zh_CN": "无可置疑的罪证"
   },
   "trap_766_duelwal": {
+    "en_US": "Face to Face",
+    "ja_JP": "隘路の衝突",
     "zh_CN": "狭路相逢"
   },
   "trap_767_duelcdt": {
+    "en_US": "Face to Face",
+    "ja_JP": "隘路の衝突",
     "zh_CN": "狭路相逢"
   },
   "trap_768_godch": {

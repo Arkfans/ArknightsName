@@ -71,7 +71,7 @@ tip: 请善用浏览器的搜索功能
 | act17d5_zone1 | 阵中往事 | Tales of Battle | 昔日の戦陣 |
 | act17d5_zone2 | 破败前线 | Shattered Front | 敗色の戦線 |
 | act17d5_zone3 | 战火回想 | Memories of War | 戦火の追想 |
-| act17mini_zone1 | 走入城市 | - | - |
+| act17mini_zone1 | 走入城市 | Enter Kazdel | かの都市へ |
 | act17side_zone1 | 格兰法洛 | Gran Faro | グランファーロ |
 | act17side_zone2 | 失落旗舰 | Lost Flagship | 失われし旗艦 |
 | act17side_zone3 | 无名之海 | Nameless Ocean | 名もなき海 |
@@ -143,8 +143,8 @@ tip: 请善用浏览器的搜索功能
 | act27sre_zone3 | 岩浆冲浪 | Surfing the Lava | マグマサーフィン |
 | act28side_zone1 | 苍白平台 | Anemic Platform | 青白い町 |
 | act28side_zone2 | 黑色舰船 | Black Landship | 黒き艦船 |
-| act28sre_zone1 | 苍白平台 | - | - |
-| act28sre_zone2 | 黑色舰船 | - | - |
+| act28sre_zone1 | 苍白平台 | Anemic Platform | 青白い町 |
+| act28sre_zone2 | 黑色舰船 | Black Landship | 黒き艦船 |
 | act29side_zone1 | 朝见双塔 | Zwillingstürme anbeten | 双塔を仰ぐ |
 | act29side_zone2 | 恩典永恒 | Die Gnade ist ewig | 恩寵は永遠に |
 | act29side_zone3 | 权威无情 | Die Macht ist grimm | 大権に情なく |
@@ -249,8 +249,8 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_21_zone1 | 连阴雨季 | Stagione delle Piogge | 暗い長雨 |
 | permanent_sidestory_21_zone2 | 铳与秩序 | Pistole e Ordine | 銃と秩序 |
 | permanent_sidestory_21_zone3 | 自诩荒野 | Terra Desolata Autoproclamata | 荒野を名乗る者 |
-| permanent_sidestory_22_zone1 | 苍白平台 | - | - |
-| permanent_sidestory_22_zone2 | 黑色舰船 | - | - |
+| permanent_sidestory_22_zone1 | 苍白平台 | Anemic Platform | 青白い町 |
+| permanent_sidestory_22_zone2 | 黑色舰船 | Black Landship | 黒き艦船 |
 | permanent_sidestory_23_zone1 | 朝见双塔 | - | - |
 | permanent_sidestory_23_zone2 | 恩典永恒 | - | - |
 | permanent_sidestory_23_zone3 | 权威无情 | - | - |

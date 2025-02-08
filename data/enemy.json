@@ -5158,66 +5158,108 @@
     "zh_CN": "勘察用自走车"
   },
   "enemy_2063_skzlch": {
+    "en_US": "Sarkaz Maze Guide",
+    "ja_JP": "サルカズ迷宮の忠告者",
     "zh_CN": "萨卡兹迷宫劝导者"
   },
   "enemy_2064_skzwdd": {
+    "en_US": "Sarkaz Maze Returner",
+    "ja_JP": "サルカズ迷宮の帰郷者",
     "zh_CN": "萨卡兹迷宫归乡者"
   },
   "enemy_2065_skzjs": {
+    "en_US": "Dreadkaz",
+    "ja_JP": "ドレッドカズ",
     "zh_CN": "恐卡兹"
   },
   "enemy_2066_skzlcp": {
+    "en_US": "Sarkaz Maze Spellweaver",
+    "ja_JP": "サルカズ迷宮の織呪者",
     "zh_CN": "萨卡兹迷宫织咒者"
   },
   "enemy_2067_skzcy": {
+    "en_US": "'Portal'",
+    "ja_JP": "「門」",
     "zh_CN": "“门”"
   },
   "enemy_2068_skzirn": {
+    "en_US": "Holy Automaton",
+    "ja_JP": "聖衛のオートマトン",
     "zh_CN": "圣卫自动机"
   },
   "enemy_2069_skzbox": {
+    "en_US": "Lost Contraption",
+    "ja_JP": "珍妙な機械",
     "zh_CN": "迷珍巧械"
   },
   "enemy_2070_skzfbx": {
+    "en_US": "Lost Hovercraft",
+    "ja_JP": "珍妙な飛行機械",
     "zh_CN": "迷珍飞械"
   },
   "enemy_2071_skzdny": {
+    "en_US": "Laqeramaline",
+    "ja_JP": "ラケラマリン",
     "zh_CN": "菈玛莲"
   },
   "enemy_2072_skdny2": {
+    "en_US": "The Tear Weaver",
+    "ja_JP": "涙を織りし術師",
     "zh_CN": "编织泪水的术师"
   },
   "enemy_2074_skzgly": {
+    "en_US": "Goliath",
+    "ja_JP": "ゴリアテ",
     "zh_CN": "歌利亚"
   },
   "enemy_2075_skgly2": {
+    "en_US": "Champion of Lost Agonies",
+    "ja_JP": "傷を忘れし戦士",
     "zh_CN": "遗忘创伤的战士"
   },
   "enemy_2076_skzklz": {
+    "en_US": "Kal'tsit",
+    "ja_JP": "Kal'tsit",
     "zh_CN": "凯尔希"
   },
   "enemy_2077_skklz2": {
+    "en_US": "The Doomsday Prophet",
+    "ja_JP": "終末を予見せし賢者",
     "zh_CN": "预见末日的贤人"
   },
   "enemy_2078_skzmst": {
+    "en_US": "Mon2tr",
+    "ja_JP": "Mon2tr",
     "zh_CN": "Mon2tr"
   },
   "enemy_2079_skmst2": {
+    "en_US": "Evolving Monster",
+    "ja_JP": "世代交代を重ねし怪物",
     "zh_CN": "迭代的怪物"
   },
   "enemy_2080_skzlwy": {
+    "en_US": "Fremont, Enlightener of Minds",
+    "ja_JP": "「迷想の解」フレモント",
     "zh_CN": "弗莱蒙特，诸思之解答"
   },
   "enemy_2081_skztxs": {
+    "en_US": "Theresis, Black Crowned Lord",
+    "ja_JP": "「黒き王冠の主」テレシス",
     "zh_CN": "特雷西斯，黑冠尊主"
   },
   "enemy_2082_skzdd": {
+    "en_US": "Buldrokkas'tee, Holy Gun-Knight",
+    "ja_JP": "「聖衛の銃騎士」ボジョカスティ",
     "zh_CN": "博卓卡斯替，圣卫铳骑"
   },
   "enemy_2084_skzcan": {
+    "en_US": "Mr. Goodenough",
+    "ja_JP": "Mr.グッドイナフ",
     "zh_CN": "古德因纳夫先生"
   },
   "enemy_2085_skzjxd": {
+    "en_US": "Fatty",
+    "ja_JP": "マルッコ",
     "zh_CN": "圆仔"
   },
   "enemy_2089_skzjkl": {

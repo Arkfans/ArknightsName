@@ -184,6 +184,7 @@ tip: 请善用浏览器的搜索功能
 | _NORM_2_0_3 | - | Lungmen Spec Ops Headhunting | 龍門特別行動要員 |
 | _NORM_30_0_3 | - | The Front That Was | 先途追想 |
 | _NORM_30_0_7 | - | Joint Operation | 連合作戦 |
+| _NORM_32_0_3 | - | Joint Operation | 連合作戦 |
 | _NORM_3_0_1 | - | Frozen Land | 果てなき氷原 |
 | _NORM_3_1_1 | - | First Snowfall | 雪降る暁 |
 | _NORM_3_2_1 | - | Lisa of the Valley | 峡谷に芽吹く君影草 |
@@ -224,3 +225,6 @@ tip: 请善用浏览器的搜索功能
 | _SINGLE_30_0_1 | - | LIKE ENDING LIKE DEATH | 死か/終わりか |
 | _SINGLE_31_0_1 | - | Anchor In The Deep | 海淵に沈む錨 |
 | _SINGLE_31_0_4 | - | Arbiter Aequissimus | 執裁者 |
+| _SINGLE_32_0_1 | - | Clear Like Hearts, True Like Reflections | 心と鏡の残痕 |
+| _SINGLE_32_0_5 | - | Clank Liberty | 銃声 |
+| _SPECIAL_32_0_8 | - | Orienteering Headhunting | セレクトスカウト |

@@ -426,17 +426,17 @@ tip: 请善用浏览器的搜索功能
 | trap_754_cdcasterb | 法术调和能量场 | Arts Resonant Energy Field | アーツ同調力場 |
 | trap_755_cdsoul | 啸叫音响 | Squeaking Sound | ハウリングスピーカー |
 | trap_756_cdnest | “黏黏的赠品” | 'Sticky Prize' | 「ねばねばしたおまけ」 |
-| trap_757_skzbox | 宝箱 | - | - |
-| trap_758_skzmbx | 停滞巧械 | - | - |
-| trap_759_skzwyx | 垂死羽兽 | - | - |
-| trap_760_skztzs | 年代之刺 | - | - |
-| trap_761_skzthx | 尊主的残影 | - | - |
-| trap_762_skztxy | 特蕾西娅，黑冠圣贤 | - | - |
-| trap_763_skzddd | 圣卫坚盾 | - | - |
-| trap_764_skzshp | 驮兽旅行家 | - | - |
+| trap_757_skzbox | 宝箱 | Treasure Chest | 宝箱 |
+| trap_758_skzmbx | 停滞巧械 | Idle Exquisicart | アイドリングメカ |
+| trap_759_skzwyx | 垂死羽兽 | Dying Fowlbeast | 瀕死の羽獣 |
+| trap_760_skztzs | 年代之刺 | Spines of Epoch | 時代の棘 |
+| trap_761_skzthx | 尊主的残影 | Shadows of the Lord | 主の残像 |
+| trap_762_skztxy | 特蕾西娅，黑冠圣贤 | Theresa, Black-crowned Sage | 「黒き王冠の聖賢」テレジア |
+| trap_763_skzddd | 圣卫坚盾 | Guardian Bulwark | 聖衛の盾 |
+| trap_764_skzshp | 驮兽旅行家 | Burdenbeast Traveler | 旅する駄獣 |
 | trap_765_bmoney | 无可置疑的罪证 | Indisputable Evidence | 決定的な証拠 |
-| trap_766_duelwal | 狭路相逢 | - | - |
-| trap_767_duelcdt | 狭路相逢 | - | - |
+| trap_766_duelwal | 狭路相逢 | Face to Face | 隘路の衝突 |
+| trap_767_duelcdt | 狭路相逢 | Face to Face | 隘路の衝突 |
 | trap_768_godch | 保全人才合作协议 | Security Talent Agreement | 保全人員協力協定 |
 | trap_769_godcha | 加急许可条款 | Expedited Licensing Terms | 緊急派遣規約 |
 | trap_770_godchb | 临时任命条款 | Interim Appointment Terms | 臨時任命規約 |

@@ -302,10 +302,10 @@ tip: 请善用浏览器的搜索功能
 | char_4143_sensi | 森西 | - | - |
 | char_4144_chilc | 齐尔查克 | - | - |
 | char_4145_ulpia | 乌尔比安 | Ulpianus | ウルピアヌス |
-| char_4146_nymph | 妮芙 | - | - |
-| char_4147_mitm | 渡桥 | - | - |
+| char_4146_nymph | 妮芙 | Nymph | ニンフ |
+| char_4147_mitm | 渡桥 | Mitm | ミトム |
 | char_4148_philae | 菲莱 | - | - |
-| char_4151_tinman | 锡人 | - | - |
+| char_4151_tinman | 锡人 | Tin Man | ブリキ |
 | char_4155_talr | 裁度 | - | - |
 | char_415_flint | 燧石 | Flint | フリント |
 | char_4162_cathy | 凯瑟琳 | - | - |

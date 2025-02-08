@@ -1461,15 +1461,21 @@
     "zh_CN": "乌尔比安"
   },
   "char_4146_nymph": {
+    "en_US": "Nymph",
+    "ja_JP": "ニンフ",
     "zh_CN": "妮芙"
   },
   "char_4147_mitm": {
+    "en_US": "Mitm",
+    "ja_JP": "ミトム",
     "zh_CN": "渡桥"
   },
   "char_4148_philae": {
     "zh_CN": "菲莱"
   },
   "char_4151_tinman": {
+    "en_US": "Tin Man",
+    "ja_JP": "ブリキ",
     "zh_CN": "锡人"
   },
   "char_4155_talr": {

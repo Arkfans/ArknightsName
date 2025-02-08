@@ -322,7 +322,7 @@
     "zh_CN": "专注轰击"
   },
   "skchr_asnipe_1": {
-    "en_US": "Spiral Arm",
+    "en_US": "Pronation",
     "ja_JP": "旋風矢",
     "zh_CN": "旋臂"
   },
@@ -2064,9 +2064,13 @@
     "zh_CN": "聚能涡旋"
   },
   "skchr_mitm_1": {
+    "en_US": "Remote Self-Destruct",
+    "ja_JP": "リモートパージ",
     "zh_CN": "遥控解体"
   },
   "skchr_mitm_2": {
+    "en_US": "Power Under Pressure",
+    "ja_JP": "負荷テスト",
     "zh_CN": "承压功率"
   },
   "skchr_mizuki_1": {
@@ -2280,12 +2284,18 @@
     "zh_CN": "阴晴圆缺"
   },
   "skchr_nymph_1": {
+    "en_US": "Strike of the Djall",
+    "ja_JP": "心の笞刑",
     "zh_CN": "笞心击"
   },
   "skchr_nymph_2": {
+    "en_US": "Fear Blast",
+    "ja_JP": "心の戦慄",
     "zh_CN": "怵然震爆"
   },
   "skchr_nymph_3": {
+    "en_US": "Crumbling Heart",
+    "ja_JP": "心の決壊",
     "zh_CN": "心防溃决"
   },
   "skchr_odda_1": {
@@ -3148,9 +3158,13 @@
     "zh_CN": "裂魂"
   },
   "skchr_tinman_1": {
+    "en_US": "'Ol' Curly'",
+    "ja_JP": "「オールドカーリー」",
     "zh_CN": "“老科利”"
   },
   "skchr_tinman_2": {
+    "en_US": "'Big Larry'",
+    "ja_JP": "「ビッグラリー」",
     "zh_CN": "“大拉里”"
   },
   "skchr_tknogi_1": {
@@ -4533,12 +4547,18 @@
     "zh_CN": "爆破"
   },
   "sktok_duelcdt_1": {
+    "en_US": "Face to Face",
+    "ja_JP": "隘路の衝突",
     "zh_CN": "狭路相逢"
   },
   "sktok_duelcdt_2": {
+    "en_US": "Face to Face",
+    "ja_JP": "隘路の衝突",
     "zh_CN": "狭路相逢"
   },
   "sktok_duelwal": {
+    "en_US": "Face to Face",
+    "ja_JP": "隘路の衝突",
     "zh_CN": "狭路相逢"
   },
   "sktok_dupilr": {
@@ -4898,9 +4918,13 @@
     "zh_CN": "沼泽控制"
   },
   "sktok_mitm_trshrb_1": {
+    "en_US": "Scrapheap Buggies",
+    "ja_JP": "ガラクタの戦車",
     "zh_CN": "废品战车"
   },
   "sktok_mitm_trshrb_2": {
+    "en_US": "Scrapheap Buggies",
+    "ja_JP": "ガラクタの戦車",
     "zh_CN": "废品战车"
   },
   "sktok_mlyss_wtrman_1": {
@@ -5234,15 +5258,23 @@
     "zh_CN": "共鸣"
   },
   "sktok_skzbox": {
+    "en_US": "Alluring Treasures",
+    "ja_JP": "財宝のいざない",
     "zh_CN": "诱人珍宝"
   },
   "sktok_skzmbx": {
+    "en_US": "Alluring Treasures?",
+    "ja_JP": "財宝？の誘惑",
     "zh_CN": "诱人珍宝？"
   },
   "sktok_skztxy_1": {
+    "en_US": "Shock of Will",
+    "ja_JP": "意志の激震",
     "zh_CN": "意志震荡"
   },
   "sktok_skzwyx": {
+    "en_US": "More Alluring Treasures",
+    "ja_JP": "財宝の蠱惑",
     "zh_CN": "更诱人珍宝"
   },
   "sktok_sleep": {

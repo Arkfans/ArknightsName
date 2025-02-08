@@ -62,7 +62,7 @@ tip: 请善用浏览器的搜索功能
 | act17d5 | 生于黑夜·复刻 | Darknights Memoir - Rerun | 闇夜に生きる・復刻 |
 | act17d7 | 愚人节活动 | April Fools' Day Event | エイプリルフール |
 | act17login | 《明日方舟：冬隐归路》开播庆祝活动 | - | - |
-| act17mini | 熔炉“还魂”记 | - | - |
+| act17mini | 熔炉“还魂”记 | A Kazdelian Rescue | 溶炉「還魂」譚 |
 | act17side | 愚人号 | Stultifera Navis | 狂人号 |
 | act17sre | 愚人号·复刻 | Stultifera Navis - Rerun | 狂人号・復刻 |
 | act18d0 | 遗尘漫步 | A Walk in the Dust | 遺塵の道を |
@@ -129,7 +129,7 @@ tip: 请善用浏览器的搜索功能
 | act27sre | 火山旅梦·复刻 | So Long, Adele: Home Away From Home - Retrospection | 火山と雲と夢色の旅路・復刻 |
 | act28side | 不义之财 | Come Catastrophes or Wakes of Vultures | ダーティマネー |
 | act28sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
-| act28sre | 不义之财 复刻 | - | - |
+| act28sre | 不义之财 复刻 | Come Catastrophes or Wakes of Vultures - Rerun | ダーティマネー・復刻 |
 | act29side | 崔林特尔梅之金 | Zwillingstürme im Herbst | ツヴィリングトゥルムの黄金 |
 | act29sign | 桂时逢月——月饼烘焙小教程 | Encounter At The Osmanthus Blossom - Mooncake-Making Tutorial | 円満団楽-ロドス点心教室 |
 | act29sre | 崔林特尔梅之金·复刻 | - | - |
@@ -178,12 +178,12 @@ Overload
 Collaboration
 Event | なないろのお茶会 |
 | act40side | 相见欢 | - | - |
-| act40sign | 无终奇语签到活动 | - | - |
+| act40sign | 无终奇语签到活动 | Furnaceside Fables Login Event | 炉辺奇談スタンプ |
 | act41sign | 沉沙赫日签到活动 | Brilliant Sun Rippling Sand Sign-In Event | 5周年
 スタンプ |
 | act42d0 | 纷争演绎 | Design of Strife | 紛争演繹 |
 | act42sign | 品鉴泰拉魔物 | - | - |
-| act43sign | 良辰迎月签到活动 | - | - |
+| act43sign | 良辰迎月签到活动 | A Good Moony Time Login Event | 嘉辰令月スタンプ |
 | act44sign | 构想试炼签到活动 | - | - |
 | act45sign | 感谢庆典前瞻签到 | - | - |
 | act46sign | 感谢庆典限时签到 | - | - |

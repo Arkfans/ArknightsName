@@ -236,7 +236,7 @@ tip: 请善用浏览器的搜索功能
 | act16side_token_bolt_rep_1 | 蚀刻弹弹壳 | Etched Bullet Casing | エッチング弾薬莢 |
 | act17d0_token_form | 罗德岛物资配给证书 | Rhodes Island Resource Allocation Certificate | ロドス物資配給許可書 |
 | act17d0_token_form_rep_1 | 罗德岛物资配给证书 | Rhodes Island Resource Allocation Certificate | ロドス物資配給許可書 |
-| act17mini_token_ash | 炉渣 | - | - |
+| act17mini_token_ash | 炉渣 | Slag | スラグ |
 | act17side_token_compass | 锈蚀的罗盘 | Rusted Compass | 錆びたコンパス |
 | act17side_token_compass_rep_1 | 锈蚀的罗盘 | Rusted Compass | 錆びたコンパス |
 | act18d0_token_page | 手绘标本残页 | Scattered Sketches | 古い標本図 |
@@ -285,7 +285,7 @@ tip: 请善用浏览器的搜索功能
 | act27side_token_fur | 毛绒绒生物的毛 | Fluffy Critter Wool | ピンクのふわふわ |
 | act27side_token_fur_rep_1 | 毛绒绒生物的毛 | Fluffy Critter Wool | ピンクのふわふわ |
 | act28side_token_box | 劣质燃料 | Shoddy Fuel | 粗悪燃料 |
-| act28side_token_box_rep_1 | 劣质燃料 | - | - |
+| act28side_token_box_rep_1 | 劣质燃料 | Shoddy Fuel | 粗悪燃料 |
 | act29side_frag_1 | 乐之节符 | Note of Joy | 楽の音符 |
 | act29side_frag_1_rep_1 | 乐之节符 | - | - |
 | act29side_frag_2 | 怒之节符 | Note of Anger | 怒の音符 |
@@ -395,10 +395,10 @@ tip: 请善用浏览器的搜索功能
 | ap_supply_lt_120_2023_3 | “飘桂香” | 'Fragrant Osmanthus' | 「桂花乱舞」 |
 | ap_supply_lt_120_2023_4 | “藏金波” | 'Shrouded Golden Waves' | 「春夜朧月」 |
 | ap_supply_lt_120_2024_1 | - | - | ローストアーモンドチョコレート |
-| ap_supply_lt_120_2024_2 | “落银盘” | - | - |
-| ap_supply_lt_120_2024_3 | “望宵晖” | - | - |
-| ap_supply_lt_120_2024_4 | “画桂魄” | - | - |
-| ap_supply_lt_120_2024_5 | “枕夜光” | - | - |
+| ap_supply_lt_120_2024_2 | “落银盘” | 'Floating Silver' | 「水面銀月」 |
+| ap_supply_lt_120_2024_3 | “望宵晖” | 'Lucent Night' | 「宵暉一望」 |
+| ap_supply_lt_120_2024_4 | “画桂魄” | 'Moonchart Osmanthus' | 「筆描桂月」 |
+| ap_supply_lt_120_2024_5 | “枕夜光” | 'Glimmering Dream' | 「夢誘夜光」 |
 | ap_supply_lt_120_2024_6 | 阿米娅的生日蛋糕 | Amiya's Birthday Cake | アーミヤのバースデーケーキ |
 | ap_supply_lt_120_2025_1 | 1101生日糕点 | - | - |
 | ap_supply_lt_60 | 应急理智合剂 | Emergency Sanity Potion | 初級理性回復剤 |
@@ -914,10 +914,10 @@ tip: 请善用浏览器的搜索功能
 | p_char_4143_sensi | 森西的信物 | - | - |
 | p_char_4144_chilc | 齐尔查克的信物 | - | - |
 | p_char_4145_ulpia | 乌尔比安的信物 | Ulpianus's Token | ウルピアヌスの印 |
-| p_char_4146_nymph | 妮芙的信物 | - | - |
-| p_char_4147_mitm | 渡桥的信物 | - | - |
+| p_char_4146_nymph | 妮芙的信物 | Nymph's Token | ニンフの印 |
+| p_char_4147_mitm | 渡桥的信物 | Mitm's Token | ミトムの印 |
 | p_char_4148_philae | 菲莱的信物 | - | - |
-| p_char_4151_tinman | 锡人的信物 | - | - |
+| p_char_4151_tinman | 锡人的信物 | Tin Man's Token | ブリキの印 |
 | p_char_4155_talr | 裁度的信物 | - | - |
 | p_char_415_flint | 燧石的信物 | Flint's Token | フリントの印 |
 | p_char_4162_cathy | 凯瑟琳的信物 | - | - |
@@ -1032,8 +1032,8 @@ tip: 请善用浏览器的搜索功能
 | rogue_2_token_grow | 主观想象 | Subjective Imagination | 主観的構想 |
 | rogue_3_token_bp | 生态标本 | Ecological Specimens | 生態標本 |
 | rogue_3_token_grow | 理性视阈 | Lucid Acuity | 理性的視野 |
-| rogue_4_token_bp | 魂灵书签 | - | - |
-| rogue_4_token_grow | 散佚迷思 | - | - |
+| rogue_4_token_bp | 魂灵书签 | Soul Bookmark | 魂のしおり |
+| rogue_4_token_grow | 散佚迷思 | Stray Myths | 散逸した思案 |
 | sandbox_1_tokencoin | 繁荣点数 | Prosperity Point | 繁栄ポイント |
 | tier1_caster | 术师信物复制品 | Replicated Caster Token | ★1術師の印 |
 | tier1_guard | 近卫信物复制品 | Replicated Guard Token | ★1前衛の印 |
@@ -1118,7 +1118,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_pizza | 骑兵与猎人家具收藏包 | Grani and the Knights' Treasure Furniture Pack | 騎兵と狩人家具パック |
 | uni_set_prison | 孤岛风云家具收藏包 | Mansfield Break Furniture Pack | 孤島激震家具パック |
 | uni_set_reception | 龙门风情茶室家具收藏包 | Lungmen Tearoom Furniture Collection Set | 龍門茶室家具パック |
-| uni_set_rhineLab | 绿野幻梦家具收藏包 | - | - |
+| uni_set_rhineLab | 绿野幻梦家具收藏包 | Dorothy's Vision Furniture Pack | 翠玉の夢家具パック |
 | uni_set_samiRoom_1 | 萨米印象家具收藏包一 | Sami Impressions Furniture Pack I | サーミ風家具パックvol.1 |
 | uni_set_samiRoom_2 | 萨米印象家具收藏包二 | Sami Impressions Furniture Pack II | サーミ風家具パックvol.2 |
 | uni_set_stage | 风雪过境家具收藏包 | Break the Ice Furniture Pack | 風雪一過家具パック |
@@ -1142,7 +1142,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_full_forcer | 见行者的私人信件 | Enforcer's Personal Letter | エンフォーサーの手紙 |
 | voucher_full_glady | 歌蕾蒂娅的私人信件 | Gladiia's Personal Letter | グレイディーアの手紙 |
 | voucher_full_grani | 格拉尼的私人信件 | Grani's Personal Letter | グラニの手紙 |
-| voucher_full_halo | 星源的私人信件 | - | - |
+| voucher_full_halo | 星源的私人信件 | Astgenne's Personal Letter | アステジーニの手紙 |
 | voucher_full_kjera | 耶拉的私人信件 | Kjera's Personal Letter | イェラの手紙 |
 | voucher_full_kroos2 | 寒芒克洛丝的私人信件 | Kroos the Keen Glint's Personal Letter | 寒芒クルースの手紙 |
 | voucher_full_lava2 | 炎狱炎熔的私人信件 | Lava the Purgatory's Personal Letter | 炎獄ラヴァの手紙 |

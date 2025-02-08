@@ -48,7 +48,7 @@ tip: 请善用浏览器的搜索功能
 | token_10034_ray_sndbst | 沙地兽 | Sandbeast | サンドビースト |
 | token_10035_wisdel_wward | 魂灵之影 | Revenant's Shadow | レヴァナントの影 |
 | token_10036_lasher_mcbird | 发条羽兽 | Clockwork Fowlbeast | カラクリ羽獣 |
-| token_10037_mitm_trshrb | 樱桃三号 | - | - |
+| token_10037_mitm_trshrb | 樱桃三号 | Cherry-3 | チェリー3号 |
 | token_10039_ulpia_block | 从不混淆的方向 | Undeviating Course | 混同せぬ方向 |
 | token_10040_siege2_vlion | 黄金盟誓 | - | - |
 | token_10041_cathy_catsld | 爬行号·防护单元 | - | - |

@@ -1135,6 +1135,8 @@
     "zh_CN": "罗德岛物资配给证书"
   },
   "act17mini_token_ash": {
+    "en_US": "Slag",
+    "ja_JP": "スラグ",
     "zh_CN": "炉渣"
   },
   "act17side_token_compass": {
@@ -1372,6 +1374,8 @@
     "zh_CN": "劣质燃料"
   },
   "act28side_token_box_rep_1": {
+    "en_US": "Shoddy Fuel",
+    "ja_JP": "粗悪燃料",
     "zh_CN": "劣质燃料"
   },
   "act29side_frag_1": {
@@ -1866,15 +1870,23 @@
     "ja_JP": "ローストアーモンドチョコレート"
   },
   "ap_supply_lt_120_2024_2": {
+    "en_US": "'Floating Silver'",
+    "ja_JP": "「水面銀月」",
     "zh_CN": "“落银盘”"
   },
   "ap_supply_lt_120_2024_3": {
+    "en_US": "'Lucent Night'",
+    "ja_JP": "「宵暉一望」",
     "zh_CN": "“望宵晖”"
   },
   "ap_supply_lt_120_2024_4": {
+    "en_US": "'Moonchart Osmanthus'",
+    "ja_JP": "「筆描桂月」",
     "zh_CN": "“画桂魄”"
   },
   "ap_supply_lt_120_2024_5": {
+    "en_US": "'Glimmering Dream'",
+    "ja_JP": "「夢誘夜光」",
     "zh_CN": "“枕夜光”"
   },
   "ap_supply_lt_120_2024_6": {
@@ -4418,15 +4430,21 @@
     "zh_CN": "乌尔比安的信物"
   },
   "p_char_4146_nymph": {
+    "en_US": "Nymph's Token",
+    "ja_JP": "ニンフの印",
     "zh_CN": "妮芙的信物"
   },
   "p_char_4147_mitm": {
+    "en_US": "Mitm's Token",
+    "ja_JP": "ミトムの印",
     "zh_CN": "渡桥的信物"
   },
   "p_char_4148_philae": {
     "zh_CN": "菲莱的信物"
   },
   "p_char_4151_tinman": {
+    "en_US": "Tin Man's Token",
+    "ja_JP": "ブリキの印",
     "zh_CN": "锡人的信物"
   },
   "p_char_4155_talr": {
@@ -4978,9 +4996,13 @@
     "zh_CN": "理性视阈"
   },
   "rogue_4_token_bp": {
+    "en_US": "Soul Bookmark",
+    "ja_JP": "魂のしおり",
     "zh_CN": "魂灵书签"
   },
   "rogue_4_token_grow": {
+    "en_US": "Stray Myths",
+    "ja_JP": "散逸した思案",
     "zh_CN": "散佚迷思"
   },
   "sandbox_1_tokencoin": {
@@ -5394,6 +5416,8 @@
     "zh_CN": "龙门风情茶室家具收藏包"
   },
   "uni_set_rhineLab": {
+    "en_US": "Dorothy's Vision Furniture Pack",
+    "ja_JP": "翠玉の夢家具パック",
     "zh_CN": "绿野幻梦家具收藏包"
   },
   "uni_set_samiRoom_1": {
@@ -5508,6 +5532,8 @@
     "zh_CN": "格拉尼的私人信件"
   },
   "voucher_full_halo": {
+    "en_US": "Astgenne's Personal Letter",
+    "ja_JP": "アステジーニの手紙",
     "zh_CN": "星源的私人信件"
   },
   "voucher_full_kjera": {

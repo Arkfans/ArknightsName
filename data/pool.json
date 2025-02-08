@@ -597,6 +597,10 @@
     "en_US": "Joint Operation",
     "ja_JP": "連合作戦"
   },
+  "_NORM_32_0_3": {
+    "en_US": "Joint Operation",
+    "ja_JP": "連合作戦"
+  },
   "_NORM_3_0_1": {
     "en_US": "Frozen Land",
     "ja_JP": "果てなき氷原"
@@ -756,5 +760,17 @@
   "_SINGLE_31_0_4": {
     "en_US": "Arbiter Aequissimus",
     "ja_JP": "執裁者"
+  },
+  "_SINGLE_32_0_1": {
+    "en_US": "Clear Like Hearts, True Like Reflections",
+    "ja_JP": "心と鏡の残痕"
+  },
+  "_SINGLE_32_0_5": {
+    "en_US": "Clank Liberty",
+    "ja_JP": "銃声"
+  },
+  "_SPECIAL_32_0_8": {
+    "en_US": "Orienteering Headhunting",
+    "ja_JP": "セレクトスカウト"
   }
 }
