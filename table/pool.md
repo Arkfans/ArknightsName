@@ -112,6 +112,7 @@ tip: 请善用浏览器的搜索功能
 | SINGLE_55_0_1 | 未致蒙尘 | - | - |
 | SINGLE_57_0_1 | 证实，完成，指引 | - | - |
 | SINGLE_57_0_3 | 游邦者 | - | - |
+| SINGLE_58_0_5 | 她们渡船而来 | - | - |
 | SPECIAL_54_0_5 | 定向甄选 | - | - |
 | _ATTAIN_15_2_1 | - | Celebrate & Recollect | ロドスの道のり　回顧 |
 | _ATTAIN_22_1_2 | - | Celebration & Link-Up | ロドスの道のり・邂逅 |

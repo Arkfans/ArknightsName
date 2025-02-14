@@ -86,6 +86,7 @@ tip: 请善用浏览器的搜索功能
 | act18d0_zone2 | 浩瀚之旅 | The Endless Road | 無辺の旅 |
 | act18d3_zone1 | 荒败盐风 | Deserted Salviento | 潮風の廃都 |
 | act18d3_zone2 | 浪蚀哀墟 | Choppy Ruin | 海蝕の荒墟 |
+| act18mini_zone1 | 走入城市 | - | - |
 | act18side_zone1 | 夕照大厅 | Afterglow Hall | 光差す音楽堂 |
 | act18side_zone2 | 小巷深处 | Back Alleys | 暗き裏路地 |
 | act18sre_zone1 | 夕照大厅 | Afterglow Hall | 光差す音楽堂 |

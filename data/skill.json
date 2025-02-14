@@ -1008,6 +1008,15 @@
     "ja_JP": "グラインドツイスター",
     "zh_CN": "十字悬挂"
   },
+  "skchr_etlchi_1": {
+    "zh_CN": "玫影觅迹"
+  },
+  "skchr_etlchi_2": {
+    "zh_CN": "绯红壁合"
+  },
+  "skchr_etlchi_3": {
+    "zh_CN": "灵与欲的惜别"
+  },
   "skchr_excu2_1": {
     "en_US": "Testament Exacted",
     "ja_JP": "遺言の執行",
@@ -2282,6 +2291,12 @@
     "en_US": "Wax and Wane",
     "ja_JP": "諸行無常",
     "zh_CN": "阴晴圆缺"
+  },
+  "skchr_nowell_1": {
+    "zh_CN": "步履不停"
+  },
+  "skchr_nowell_2": {
+    "zh_CN": "生命不息"
   },
   "skchr_nymph_1": {
     "en_US": "Strike of the Djall",

@@ -1057,6 +1057,9 @@
     "ja_JP": "ウィーディ",
     "zh_CN": "温蒂"
   },
+  "char_4010_etlchi": {
+    "zh_CN": "隐德来希"
+  },
   "char_4011_lessng": {
     "en_US": "Lessing",
     "ja_JP": "レッシング",
@@ -1505,6 +1508,9 @@
   },
   "char_4172_xingzh": {
     "zh_CN": "行箸"
+  },
+  "char_4173_nowell": {
+    "zh_CN": "诺威尔"
   },
   "char_420_flamtl": {
     "en_US": "Flametail",

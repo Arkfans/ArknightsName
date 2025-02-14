@@ -219,6 +219,7 @@ tip: 请善用浏览器的搜索功能
 | char_4006_melnte | 玫拉 | Melanite | メラナイト |
 | char_4009_irene | 艾丽妮 | Irene | アイリーニ |
 | char_400_weedy | 温蒂 | Weedy | ウィーディ |
+| char_4010_etlchi | 隐德来希 | - | - |
 | char_4011_lessng | 止颂 | Lessing | レッシング |
 | char_4013_kjera | 耶拉 | Kjera | イェラ |
 | char_4014_lunacu | 子月 | Lunacub | ルナカブ |
@@ -314,6 +315,7 @@ tip: 请善用浏览器的搜索功能
 | char_4165_ctrail | 云迹 | - | - |
 | char_416_zumama | 森蚺 | Eunectes | ユーネクテス |
 | char_4172_xingzh | 行箸 | - | - |
+| char_4173_nowell | 诺威尔 | - | - |
 | char_420_flamtl | 焰尾 | Flametail | フレイムテイル |
 | char_421_crow | 羽毛笔 | La Pluma | ラ・プルマ |
 | char_422_aurora | 极光 | Aurora | オーロラ |

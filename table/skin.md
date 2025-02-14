@@ -152,6 +152,7 @@ tip: 请善用浏览器的搜索功能
 | char_219_meteo@sweep#1 | 石墨 | Graphite | 石墨 |
 | char_220_grani@epoque#6 | 美妙时光 | Miraculous Moment | 最高のひととき |
 | char_222_bpipe@epoque#28 | 皇家近卫 | Royal Guardswoman | ロイヤルガード |
+| char_222_bpipe@epoque#40 | 风笛声声 | - | - |
 | char_222_bpipe@race#1 | 皇后一号 | Queen, No.1 | 栄光の導き手 |
 | char_225_haak@nian#4 | 百面郎中 | Doctor of Faces | 百面郎中 |
 | char_225_haak@nian#5 | 妙手玄心 | Healing Hand, Evil Heart | 妙手深謀 |
@@ -198,6 +199,7 @@ tip: 请善用浏览器的搜索功能
 | char_284_spot@boc#3 | 专业人士 | Professional | プロフェッショナル |
 | char_285_medic2@boc#4 | 海岸救援改装 | Shore Rescue Modification | 海難救助特化型 |
 | char_286_cast3@summer#1 | SUM019.ver | SUM019.ver | SUM019.ver |
+| char_289_gyuki@epoque#40 | 繁霜满阶 | - | - |
 | char_290_vigna@as#1 | 漆黑热浪 | Black Wave | 漆黒の熱波 |
 | char_290_vigna@summer#1 | 悠然假日 HD01 | Casual Vacation HD01 | ホリデーHD01 |
 | char_291_aglina@boc#1 | 质素访客 | Distinguished Visitor | 要因たる訪問者 |
@@ -314,10 +316,12 @@ tip: 请善用浏览器的搜索功能
 | char_4087_ines@boc#8 | 燃烧天穹下 | Under the Flaming Dome | 燃ゆる蒼穹の下 |
 | char_4088_hodrer@sightseer#1 | 沉思之庭 | Courtyard of Neka | 思索の庭 |
 | char_4091_ulika@sanrio#1 | 云上直播间 | Stream Above The Clouds | 雲の上から配信中！ |
+| char_4098_vvana@epoque#40 | 寄自奥格尼斯科 | - | - |
 | char_4100_caper@summer#18 | 夏卉 FA083 | Summer Flowers FA083 | 夏の花弁FA083 |
 | char_4104_coldst@striker#3 | 破晓 | Dawnbreak | 破暁 |
 | char_4105_almond@epoque#38 | “杏仁”拼盘 | - | - |
 | char_4106_bryota@epoque#34 | 动感 | Vibrant | 躍動 |
+| char_4107_vrdant@unveiling#3 | 玫瑰骑手 | - | - |
 | char_4109_baslin@witch#5 | 夜空星芒 | - | - |
 | char_4114_harold@snow#7 | 邀雪 | - | - |
 | char_4116_blkkgt@witch#5 | 暗月的影子 | - | - |

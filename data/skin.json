@@ -712,6 +712,9 @@
     "ja_JP": "ロイヤルガード",
     "zh_CN": "皇家近卫"
   },
+  "char_222_bpipe@epoque#40": {
+    "zh_CN": "风笛声声"
+  },
   "char_222_bpipe@race#1": {
     "en_US": "Queen, No.1",
     "ja_JP": "栄光の導き手",
@@ -935,6 +938,9 @@
     "en_US": "SUM019.ver",
     "ja_JP": "SUM019.ver",
     "zh_CN": "SUM019.ver"
+  },
+  "char_289_gyuki@epoque#40": {
+    "zh_CN": "繁霜满阶"
   },
   "char_290_vigna@as#1": {
     "en_US": "Black Wave",
@@ -1498,6 +1504,9 @@
     "ja_JP": "雲の上から配信中！",
     "zh_CN": "云上直播间"
   },
+  "char_4098_vvana@epoque#40": {
+    "zh_CN": "寄自奥格尼斯科"
+  },
   "char_4100_caper@summer#18": {
     "en_US": "Summer Flowers FA083",
     "ja_JP": "夏の花弁FA083",
@@ -1515,6 +1524,9 @@
     "en_US": "Vibrant",
     "ja_JP": "躍動",
     "zh_CN": "动感"
+  },
+  "char_4107_vrdant@unveiling#3": {
+    "zh_CN": "玫瑰骑手"
   },
   "char_4109_baslin@witch#5": {
     "zh_CN": "夜空星芒"

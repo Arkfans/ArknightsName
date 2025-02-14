@@ -326,6 +326,16 @@ tip: 请善用浏览器的搜索功能
 | act18d3_st01 | 唤醒噩梦 | Waking Nightmare | 呼び起こされし悪夢 |
 | act18d3_st02 | 侥幸离去 | Lucky to Escape | 出国の許し |
 | act18d3_tr01 | 疼痛增幅 | Intensified Pain | 痛みの増幅 |
+| act18mini_01 | 灼热的风 | - | - |
+| act18mini_02 | 生为柴薪 | - | - |
+| act18mini_03 | 荒草焚荡 | - | - |
+| act18mini_04 | 孽物哀鸣 | - | - |
+| act18mini_05 | 不得安眠 | - | - |
+| act18mini_06 | 苦痛行军 | - | - |
+| act18mini_07 | 血流倒涌 | - | - |
+| act18mini_08 | 血河交响 | - | - |
+| act18mini_s01 | 金铁失格 | - | - |
+| act18mini_s02 | 血肉失控 | - | - |
 | act18side_01 | 闲聊波尔卡 | Tritsch-Tratsch-Polka | トリッチ・トラッチ・ポルカ |
 | act18side_02 | 热情，或悲怆 | Appassionata, ou Pathétique | 熱情、あるいは悲愴 |
 | act18side_03 | 自由射手 | Der Freischütz | 魔弾の射手 |

@@ -1699,6 +1699,12 @@
       "zh_CN": "温蒂"
     }
   },
+  "char_4010_etlchi": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "隐德来希"
+    }
+  },
   "char_4011_lessng": {
     "type": "OPERATOR",
     "names": {
@@ -2431,6 +2437,12 @@
     "type": "OPERATOR",
     "names": {
       "zh_CN": "行箸"
+    }
+  },
+  "char_4173_nowell": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "诺威尔"
     }
   },
   "char_420_flamtl": {
@@ -7889,6 +7901,12 @@
       "zh_CN": "皇家近卫"
     }
   },
+  "char_222_bpipe@epoque#40": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "风笛声声"
+    }
+  },
   "char_222_bpipe@race#1": {
     "type": "SKIN",
     "names": {
@@ -8249,6 +8267,12 @@
       "en_US": "SUM019.ver",
       "ja_JP": "SUM019.ver",
       "zh_CN": "SUM019.ver"
+    }
+  },
+  "char_289_gyuki@epoque#40": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "繁霜满阶"
     }
   },
   "char_290_vigna@as#1": {
@@ -9161,6 +9185,12 @@
       "zh_CN": "云上直播间"
     }
   },
+  "char_4098_vvana@epoque#40": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "寄自奥格尼斯科"
+    }
+  },
   "char_4100_caper@summer#18": {
     "type": "SKIN",
     "names": {
@@ -9189,6 +9219,12 @@
       "en_US": "Vibrant",
       "ja_JP": "躍動",
       "zh_CN": "动感"
+    }
+  },
+  "char_4107_vrdant@unveiling#3": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "玫瑰骑手"
     }
   },
   "char_4109_baslin@witch#5": {
@@ -20051,6 +20087,12 @@
       "zh_CN": "登录领取奖励"
     }
   },
+  "act18mini": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "我们明日见"
+    }
+  },
   "act18side": {
     "type": "ACTIVITY",
     "names": {
@@ -23438,6 +23480,12 @@
       "en_US": "Corrupted Iberian Record",
       "ja_JP": "腐食したレコード",
       "zh_CN": "腐蚀的伊比利亚唱片"
+    }
+  },
+  "act18mini_token_petals": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "碎花瓣"
     }
   },
   "act18side_token_pieces": {
@@ -28078,6 +28126,12 @@
       "zh_CN": "温蒂的信物"
     }
   },
+  "p_char_4010_etlchi": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "隐德来希的信物"
+    }
+  },
   "p_char_4011_lessng": {
     "type": "ITEM",
     "names": {
@@ -28784,6 +28838,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "行箸的信物"
+    }
+  },
+  "p_char_4173_nowell": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "诺威尔的信物"
     }
   },
   "p_char_420_flamtl": {
@@ -31742,6 +31802,12 @@
       "zh_CN": "游邦者"
     }
   },
+  "SINGLE_58_0_5": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "她们渡船而来"
+    }
+  },
   "SPECIAL_54_0_5": {
     "type": "POOL",
     "names": {
@@ -34210,6 +34276,24 @@
       "zh_CN": "十字悬挂"
     }
   },
+  "skchr_etlchi_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "玫影觅迹"
+    }
+  },
+  "skchr_etlchi_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "绯红壁合"
+    }
+  },
+  "skchr_etlchi_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "灵与欲的惜别"
+    }
+  },
   "skchr_excu2_1": {
     "type": "SKILL",
     "names": {
@@ -36254,6 +36338,18 @@
       "en_US": "Wax and Wane",
       "ja_JP": "諸行無常",
       "zh_CN": "阴晴圆缺"
+    }
+  },
+  "skchr_nowell_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "步履不停"
+    }
+  },
+  "skchr_nowell_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "生命不息"
     }
   },
   "skchr_nymph_1": {
@@ -44950,6 +45046,66 @@
       "en_US": "Intensified Pain",
       "ja_JP": "痛みの増幅",
       "zh_CN": "疼痛增幅"
+    }
+  },
+  "act18mini_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "灼热的风"
+    }
+  },
+  "act18mini_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "生为柴薪"
+    }
+  },
+  "act18mini_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "荒草焚荡"
+    }
+  },
+  "act18mini_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "孽物哀鸣"
+    }
+  },
+  "act18mini_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "不得安眠"
+    }
+  },
+  "act18mini_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "苦痛行军"
+    }
+  },
+  "act18mini_07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "血流倒涌"
+    }
+  },
+  "act18mini_08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "血河交响"
+    }
+  },
+  "act18mini_s01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "金铁失格"
+    }
+  },
+  "act18mini_s02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "血肉失控"
     }
   },
   "act18side_01": {
@@ -53820,6 +53976,12 @@
       "en_US": "Choppy Ruin",
       "ja_JP": "海蝕の荒墟",
       "zh_CN": "浪蚀哀墟"
+    }
+  },
+  "act18mini_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "走入城市"
     }
   },
   "act18side_zone1": {

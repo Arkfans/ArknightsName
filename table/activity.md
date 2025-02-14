@@ -71,6 +71,7 @@ tip: 请善用浏览器的搜索功能
 | act18d3d2 | 兔子谷矿区登录活动 | 'Cautus Valley Mining Area' Login Event | コータスバレー採鉱区 |
 | act18d3d3 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act18login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
+| act18mini | 我们明日见 | - | - |
 | act18side | 尘影余音 | Lingering Echoes | 塵影に交わる残響 |
 | act18sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act18sre | 尘影余音·复刻 | Lingering Echoes - Rerun | 塵影に交わる残響・復刻 |

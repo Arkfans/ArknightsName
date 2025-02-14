@@ -1169,6 +1169,9 @@
     "ja_JP": "腐食したレコード",
     "zh_CN": "腐蚀的伊比利亚唱片"
   },
+  "act18mini_token_petals": {
+    "zh_CN": "碎花瓣"
+  },
   "act18side_token_pieces": {
     "en_US": "Sheet Music",
     "ja_JP": "手書きの楽譜",
@@ -4043,6 +4046,9 @@
     "ja_JP": "ウィーディの印",
     "zh_CN": "温蒂的信物"
   },
+  "p_char_4010_etlchi": {
+    "zh_CN": "隐德来希的信物"
+  },
   "p_char_4011_lessng": {
     "zh_CN": "止颂的信物"
   },
@@ -4474,6 +4480,9 @@
   },
   "p_char_4172_xingzh": {
     "zh_CN": "行箸的信物"
+  },
+  "p_char_4173_nowell": {
+    "zh_CN": "诺威尔的信物"
   },
   "p_char_420_flamtl": {
     "en_US": "Flametail's Token",

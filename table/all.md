@@ -219,6 +219,7 @@ tip: 请善用浏览器的搜索功能
 | char_4006_melnte | 玫拉 | Melanite | メラナイト |
 | char_4009_irene | 艾丽妮 | Irene | アイリーニ |
 | char_400_weedy | 温蒂 | Weedy | ウィーディ |
+| char_4010_etlchi | 隐德来希 | - | - |
 | char_4011_lessng | 止颂 | Lessing | レッシング |
 | char_4013_kjera | 耶拉 | Kjera | イェラ |
 | char_4014_lunacu | 子月 | Lunacub | ルナカブ |
@@ -314,6 +315,7 @@ tip: 请善用浏览器的搜索功能
 | char_4165_ctrail | 云迹 | - | - |
 | char_416_zumama | 森蚺 | Eunectes | ユーネクテス |
 | char_4172_xingzh | 行箸 | - | - |
+| char_4173_nowell | 诺威尔 | - | - |
 | char_420_flamtl | 焰尾 | Flametail | フレイムテイル |
 | char_421_crow | 羽毛笔 | La Pluma | ラ・プルマ |
 | char_422_aurora | 极光 | Aurora | オーロラ |
@@ -1030,6 +1032,7 @@ tip: 请善用浏览器的搜索功能
 | char_219_meteo@sweep#1 | 石墨 | Graphite | 石墨 |
 | char_220_grani@epoque#6 | 美妙时光 | Miraculous Moment | 最高のひととき |
 | char_222_bpipe@epoque#28 | 皇家近卫 | Royal Guardswoman | ロイヤルガード |
+| char_222_bpipe@epoque#40 | 风笛声声 | - | - |
 | char_222_bpipe@race#1 | 皇后一号 | Queen, No.1 | 栄光の導き手 |
 | char_225_haak@nian#4 | 百面郎中 | Doctor of Faces | 百面郎中 |
 | char_225_haak@nian#5 | 妙手玄心 | Healing Hand, Evil Heart | 妙手深謀 |
@@ -1076,6 +1079,7 @@ tip: 请善用浏览器的搜索功能
 | char_284_spot@boc#3 | 专业人士 | Professional | プロフェッショナル |
 | char_285_medic2@boc#4 | 海岸救援改装 | Shore Rescue Modification | 海難救助特化型 |
 | char_286_cast3@summer#1 | SUM019.ver | SUM019.ver | SUM019.ver |
+| char_289_gyuki@epoque#40 | 繁霜满阶 | - | - |
 | char_290_vigna@as#1 | 漆黑热浪 | Black Wave | 漆黒の熱波 |
 | char_290_vigna@summer#1 | 悠然假日 HD01 | Casual Vacation HD01 | ホリデーHD01 |
 | char_291_aglina@boc#1 | 质素访客 | Distinguished Visitor | 要因たる訪問者 |
@@ -1192,10 +1196,12 @@ tip: 请善用浏览器的搜索功能
 | char_4087_ines@boc#8 | 燃烧天穹下 | Under the Flaming Dome | 燃ゆる蒼穹の下 |
 | char_4088_hodrer@sightseer#1 | 沉思之庭 | Courtyard of Neka | 思索の庭 |
 | char_4091_ulika@sanrio#1 | 云上直播间 | Stream Above The Clouds | 雲の上から配信中！ |
+| char_4098_vvana@epoque#40 | 寄自奥格尼斯科 | - | - |
 | char_4100_caper@summer#18 | 夏卉 FA083 | Summer Flowers FA083 | 夏の花弁FA083 |
 | char_4104_coldst@striker#3 | 破晓 | Dawnbreak | 破暁 |
 | char_4105_almond@epoque#38 | “杏仁”拼盘 | - | - |
 | char_4106_bryota@epoque#34 | 动感 | Vibrant | 躍動 |
+| char_4107_vrdant@unveiling#3 | 玫瑰骑手 | - | - |
 | char_4109_baslin@witch#5 | 夜空星芒 | - | - |
 | char_4114_harold@snow#7 | 邀雪 | - | - |
 | char_4116_blkkgt@witch#5 | 暗月的影子 | - | - |
@@ -2590,6 +2596,7 @@ tip: 请善用浏览器的搜索功能
 | act18d3d2 | 兔子谷矿区登录活动 | 'Cautus Valley Mining Area' Login Event | コータスバレー採鉱区 |
 | act18d3d3 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act18login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
+| act18mini | 我们明日见 | - | - |
 | act18side | 尘影余音 | Lingering Echoes | 塵影に交わる残響 |
 | act18sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act18sre | 尘影余音·复刻 | Lingering Echoes - Rerun | 塵影に交わる残響・復刻 |
@@ -3030,6 +3037,7 @@ Event | なないろのお茶会 |
 | act18d0_token_page_rep_1 | 手绘标本残页 | Scattered Sketches | 古い標本図 |
 | act18d3_token_record | 腐蚀的伊比利亚唱片 | Corrupted Iberian Record | 腐食したレコード |
 | act18d3_token_record_rep_1 | 腐蚀的伊比利亚唱片 | Corrupted Iberian Record | 腐食したレコード |
+| act18mini_token_petals | 碎花瓣 | - | - |
 | act18side_token_pieces | 乐谱草稿 | Sheet Music | 手書きの楽譜 |
 | act18side_token_pieces_rep_1 | 乐谱草稿 | Sheet Music | 手書きの楽譜 |
 | act19side_token_reagents | 神秘试剂 | Mysterious Reagent | 謎の試薬 |
@@ -3621,6 +3629,7 @@ Event | なないろのお茶会 |
 | p_char_4006_melnte | 玫拉的信物 | Melanite's Token | メラナイトの印 |
 | p_char_4009_irene | 艾丽妮的信物 | Irene's Token | アイリーニの印 |
 | p_char_400_weedy | 温蒂的信物 | Weedy's Token | ウィーディの印 |
+| p_char_4010_etlchi | 隐德来希的信物 | - | - |
 | p_char_4011_lessng | 止颂的信物 | - | - |
 | p_char_4013_kjera | 耶拉的信物 | Kjera's Token | イェラの印 |
 | p_char_4014_lunacu | 子月的信物 | Lunacub's Token | ルナカブの印 |
@@ -3713,6 +3722,7 @@ Event | なないろのお茶会 |
 | p_char_4165_ctrail | 云迹的信物 | - | - |
 | p_char_416_zumama | 森蚺的信物 | Eunectes' Token | ユーネクテスの印 |
 | p_char_4172_xingzh | 行箸的信物 | - | - |
+| p_char_4173_nowell | 诺威尔的信物 | - | - |
 | p_char_420_flamtl | 焰尾的信物 | Flametail's Token | フレイムテイルの印 |
 | p_char_421_crow | 羽毛笔的信物 | La Pluma's Token | ラ・プルマの印 |
 | p_char_422_aurora | 极光的信物 | Aurora's Token | オーロラの印 |
@@ -4112,6 +4122,7 @@ Event | なないろのお茶会 |
 | SINGLE_55_0_1 | 未致蒙尘 | - | - |
 | SINGLE_57_0_1 | 证实，完成，指引 | - | - |
 | SINGLE_57_0_3 | 游邦者 | - | - |
+| SINGLE_58_0_5 | 她们渡船而来 | - | - |
 | SPECIAL_54_0_5 | 定向甄选 | - | - |
 | _ATTAIN_15_2_1 | - | Celebrate & Recollect | ロドスの道のり　回顧 |
 | _ATTAIN_22_1_2 | - | Celebration & Link-Up | ロドスの道のり・邂逅 |
@@ -4445,6 +4456,9 @@ Event | なないろのお茶会 |
 | skchr_estell_2 | 舍身突击 | Sacrificial Strike | 捨て身の覚悟 |
 | skchr_ethan_1 | 花式回旋 | Fancy Maneuvers | ループザループ |
 | skchr_ethan_2 | 十字悬挂 | Suspended Cross | グラインドツイスター |
+| skchr_etlchi_1 | 玫影觅迹 | - | - |
+| skchr_etlchi_2 | 绯红壁合 | - | - |
+| skchr_etlchi_3 | 灵与欲的惜别 | - | - |
 | skchr_excu2_1 | 遗嘱执行 | Testament Exacted | 遺言の執行 |
 | skchr_excu2_2 | 近身铳斗 | Close Combat | 近接銃術 |
 | skchr_excu2_3 | 圣约决裁 | Damnatus Ex Foedere | 聖約の裁き |
@@ -4702,6 +4716,8 @@ Event | なないろのお茶会 |
 | skchr_noirc2_2 | 气刃兜割 | Spirit Helm Breaker | 気刃兜割り |
 | skchr_nothin_1 | 知难而退 | Cautious Retreat | 引き際の心得 |
 | skchr_nothin_2 | 阴晴圆缺 | Wax and Wane | 諸行無常 |
+| skchr_nowell_1 | 步履不停 | - | - |
+| skchr_nowell_2 | 生命不息 | - | - |
 | skchr_nymph_1 | 笞心击 | Strike of the Djall | 心の笞刑 |
 | skchr_nymph_2 | 怵然震爆 | Fear Blast | 心の戦慄 |
 | skchr_nymph_3 | 心防溃决 | Crumbling Heart | 心の決壊 |
@@ -5827,6 +5843,16 @@ Event | なないろのお茶会 |
 | act18d3_st01 | 唤醒噩梦 | Waking Nightmare | 呼び起こされし悪夢 |
 | act18d3_st02 | 侥幸离去 | Lucky to Escape | 出国の許し |
 | act18d3_tr01 | 疼痛增幅 | Intensified Pain | 痛みの増幅 |
+| act18mini_01 | 灼热的风 | - | - |
+| act18mini_02 | 生为柴薪 | - | - |
+| act18mini_03 | 荒草焚荡 | - | - |
+| act18mini_04 | 孽物哀鸣 | - | - |
+| act18mini_05 | 不得安眠 | - | - |
+| act18mini_06 | 苦痛行军 | - | - |
+| act18mini_07 | 血流倒涌 | - | - |
+| act18mini_08 | 血河交响 | - | - |
+| act18mini_s01 | 金铁失格 | - | - |
+| act18mini_s02 | 血肉失控 | - | - |
 | act18side_01 | 闲聊波尔卡 | Tritsch-Tratsch-Polka | トリッチ・トラッチ・ポルカ |
 | act18side_02 | 热情，或悲怆 | Appassionata, ou Pathétique | 熱情、あるいは悲愴 |
 | act18side_03 | 自由射手 | Der Freischütz | 魔弾の射手 |
@@ -6968,6 +6994,7 @@ Event | なないろのお茶会 |
 | act18d0_zone2 | 浩瀚之旅 | The Endless Road | 無辺の旅 |
 | act18d3_zone1 | 荒败盐风 | Deserted Salviento | 潮風の廃都 |
 | act18d3_zone2 | 浪蚀哀墟 | Choppy Ruin | 海蝕の荒墟 |
+| act18mini_zone1 | 走入城市 | - | - |
 | act18side_zone1 | 夕照大厅 | Afterglow Hall | 光差す音楽堂 |
 | act18side_zone2 | 小巷深处 | Back Alleys | 暗き裏路地 |
 | act18sre_zone1 | 夕照大厅 | Afterglow Hall | 光差す音楽堂 |

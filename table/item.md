@@ -243,6 +243,7 @@ tip: 请善用浏览器的搜索功能
 | act18d0_token_page_rep_1 | 手绘标本残页 | Scattered Sketches | 古い標本図 |
 | act18d3_token_record | 腐蚀的伊比利亚唱片 | Corrupted Iberian Record | 腐食したレコード |
 | act18d3_token_record_rep_1 | 腐蚀的伊比利亚唱片 | Corrupted Iberian Record | 腐食したレコード |
+| act18mini_token_petals | 碎花瓣 | - | - |
 | act18side_token_pieces | 乐谱草稿 | Sheet Music | 手書きの楽譜 |
 | act18side_token_pieces_rep_1 | 乐谱草稿 | Sheet Music | 手書きの楽譜 |
 | act19side_token_reagents | 神秘试剂 | Mysterious Reagent | 謎の試薬 |
@@ -834,6 +835,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4006_melnte | 玫拉的信物 | Melanite's Token | メラナイトの印 |
 | p_char_4009_irene | 艾丽妮的信物 | Irene's Token | アイリーニの印 |
 | p_char_400_weedy | 温蒂的信物 | Weedy's Token | ウィーディの印 |
+| p_char_4010_etlchi | 隐德来希的信物 | - | - |
 | p_char_4011_lessng | 止颂的信物 | - | - |
 | p_char_4013_kjera | 耶拉的信物 | Kjera's Token | イェラの印 |
 | p_char_4014_lunacu | 子月的信物 | Lunacub's Token | ルナカブの印 |
@@ -926,6 +928,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4165_ctrail | 云迹的信物 | - | - |
 | p_char_416_zumama | 森蚺的信物 | Eunectes' Token | ユーネクテスの印 |
 | p_char_4172_xingzh | 行箸的信物 | - | - |
+| p_char_4173_nowell | 诺威尔的信物 | - | - |
 | p_char_420_flamtl | 焰尾的信物 | Flametail's Token | フレイムテイルの印 |
 | p_char_421_crow | 羽毛笔的信物 | La Pluma's Token | ラ・プルマの印 |
 | p_char_422_aurora | 极光的信物 | Aurora's Token | オーロラの印 |
