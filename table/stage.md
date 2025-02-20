@@ -876,6 +876,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_24 | 冰封雪谷 | Icebound Valley | 閉ざされし雪渓 |
 | camp_r_25 | 66号航道 | - | - |
 | camp_r_26 | 壬午号水稻田 | - | - |
+| camp_r_27 | 选帝侯广场 | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |
 | hard_05-02 | 炼狱行动-2 | Operation Inferno-2 | 煉獄作戦-2 |
 | hard_05-03 | 炼狱行动-3 | Operation Inferno-3 | 煉獄作戦-3 |

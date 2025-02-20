@@ -1206,6 +1206,7 @@ tip: 请善用浏览器的搜索功能
 | char_4114_harold@snow#7 | 邀雪 | - | - |
 | char_4116_blkkgt@witch#5 | 暗月的影子 | - | - |
 | char_4117_ray@shining#2 | 梦幻高空 | - | - |
+| char_4119_wanqin@epoque#41 | 万顷阳光 | - | - |
 | char_411_tomimi@summer#5 | 静谧午夜 DN04 | Silent Night DN04 | 安息の午夜DN04 |
 | char_4121_zuole@nian#11 | 少年游 | - | - |
 | char_4122_grabds@yun#3 | 步芳兰 | Fragrant Pace | 歩芳蘭 |
@@ -2675,6 +2676,7 @@ tip: 请善用浏览器的搜索功能
 | act30sre | 银心湖列车·复刻 | - | - |
 | act31side | 怀黍离 | Here A People Sows | 懐黍離 |
 | act31sign | 正逢雨季限时登录活动 | Rain Season Limited Login Event | 長雨の候スタンプラリー |
+| act31sre | 怀黍离·复刻 | - | - |
 | act32side | 水晶箭行动 | Operation Lucent Arrowhead | OP:LA |
 | act32sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act33side | 巴别塔 | Babel | バベル |
@@ -2693,6 +2695,7 @@ tip: 请善用浏览器的搜索功能
 | act39side | 出苍白海 | - | - |
 | act39sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act3bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
+| act3collection | 潮起潮又起 | - | - |
 | act3d0 | 火蓝之心 | Heart of Surging Flame | 青く燃ゆる心 |
 | act3d5 | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
 | act3d7 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -3102,6 +3105,7 @@ Event | なないろのお茶会 |
 | act30side_token_box | 驮兽盲盒 | Burdenbeast Blind Box | 駄獣ミニフィギュア |
 | act30side_token_box_rep_1 | 驮兽盲盒 | - | - |
 | act31side_token_box | 天桩 | Sky Pole | 天杭 |
+| act31side_token_box_rep_1 | 天桩 | - | - |
 | act32side_token_stamp | 艺术馆集章卡 | Galería Stamp Card | スタンプカード |
 | act33side_token_sugar | 粗制糖块 | Raw Sugar Lumps | 粗製角砂糖 |
 | act34side_token_chip | “应急物资”蓝图芯片 | 'Emergency Supplies' Blueprint Chip | 「非常用物資」設計図チップ |
@@ -3117,6 +3121,7 @@ Event | なないろのお茶会 |
 | act3bossrush_relic_03 | 经验习得 | Experience Acquisition | 経験習得 |
 | act3bossrush_relic_04 | 过热运转 | Overcharge | オーバーヒート |
 | act3bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
+| act3collection_point_token | “战略家”点数 | - | - |
 | act40side_token_yumyum | “生香” | - | - |
 | act42d0_token_evaluation | 试验数据集 | Experimental Dataset | テストデータ集 |
 | act4bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
@@ -6393,6 +6398,7 @@ Event | なないろのお茶会 |
 | camp_r_24 | 冰封雪谷 | Icebound Valley | 閉ざされし雪渓 |
 | camp_r_25 | 66号航道 | - | - |
 | camp_r_26 | 壬午号水稻田 | - | - |
+| camp_r_27 | 选帝侯广场 | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |
 | hard_05-02 | 炼狱行动-2 | Operation Inferno-2 | 煉獄作戦-2 |
 | hard_05-03 | 炼狱行动-3 | Operation Inferno-3 | 煉獄作戦-3 |
@@ -7068,6 +7074,9 @@ Event | なないろのお茶会 |
 | act31side_zone1 | 种植地块 | Agricultural Plate | 栽培区画 |
 | act31side_zone2 | 荒城核心 | City Core | 荒城中枢 |
 | act31side_zone3 | 大江北岸 | Far Side of the Great River | 大江北岸 |
+| act31sre_zone1 | 种植地块 | - | - |
+| act31sre_zone2 | 荒城核心 | - | - |
+| act31sre_zone3 | 大江北岸 | - | - |
 | act32side_zone1 | 展厅漫游 | Roam the Exhibition | アート探訪 |
 | act32side_zone2 | 高速空降 | Skydiving | 降下作戦 |
 | act33side_zone1 | 我赠予未来 | You the Future, Take My Gifts | 未来を贈らん |
@@ -7165,6 +7174,9 @@ Event | なないろのお茶会 |
 | permanent_sidestory_23_zone3 | 权威无情 | - | - |
 | permanent_sidestory_24_zone1 | 三号站台 | - | - |
 | permanent_sidestory_24_zone2 | 特快列车 | - | - |
+| permanent_sidestory_25_zone1 | 种植地块 | - | - |
+| permanent_sidestory_25_zone2 | 荒城核心 | - | - |
+| permanent_sidestory_25_zone3 | 大江北岸 | - | - |
 | permanent_sidestory_2_zone1 | 主舞台 | Main Stage | メインステージ |
 | permanent_sidestory_2_zone2 | 嘉年华 | Carnival | フェスティバル |
 | permanent_sidestory_2_zone3 | 额外节目 | Extra Show | エクストラ |

@@ -150,6 +150,7 @@ tip: 请善用浏览器的搜索功能
 | act30sre | 银心湖列车·复刻 | - | - |
 | act31side | 怀黍离 | Here A People Sows | 懐黍離 |
 | act31sign | 正逢雨季限时登录活动 | Rain Season Limited Login Event | 長雨の候スタンプラリー |
+| act31sre | 怀黍离·复刻 | - | - |
 | act32side | 水晶箭行动 | Operation Lucent Arrowhead | OP:LA |
 | act32sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act33side | 巴别塔 | Babel | バベル |
@@ -168,6 +169,7 @@ tip: 请善用浏览器的搜索功能
 | act39side | 出苍白海 | - | - |
 | act39sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act3bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
+| act3collection | 潮起潮又起 | - | - |
 | act3d0 | 火蓝之心 | Heart of Surging Flame | 青く燃ゆる心 |
 | act3d5 | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
 | act3d7 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |

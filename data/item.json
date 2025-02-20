@@ -1472,6 +1472,9 @@
     "ja_JP": "天杭",
     "zh_CN": "天桩"
   },
+  "act31side_token_box_rep_1": {
+    "zh_CN": "天桩"
+  },
   "act32side_token_stamp": {
     "en_US": "Galería Stamp Card",
     "ja_JP": "スタンプカード",
@@ -1538,6 +1541,9 @@
     "en_US": "Data Blackbox",
     "ja_JP": "ブラックボックス",
     "zh_CN": "数据黑盒"
+  },
+  "act3collection_point_token": {
+    "zh_CN": "“战略家”点数"
   },
   "act40side_token_yumyum": {
     "zh_CN": "“生香”"

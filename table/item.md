@@ -308,6 +308,7 @@ tip: 请善用浏览器的搜索功能
 | act30side_token_box | 驮兽盲盒 | Burdenbeast Blind Box | 駄獣ミニフィギュア |
 | act30side_token_box_rep_1 | 驮兽盲盒 | - | - |
 | act31side_token_box | 天桩 | Sky Pole | 天杭 |
+| act31side_token_box_rep_1 | 天桩 | - | - |
 | act32side_token_stamp | 艺术馆集章卡 | Galería Stamp Card | スタンプカード |
 | act33side_token_sugar | 粗制糖块 | Raw Sugar Lumps | 粗製角砂糖 |
 | act34side_token_chip | “应急物资”蓝图芯片 | 'Emergency Supplies' Blueprint Chip | 「非常用物資」設計図チップ |
@@ -323,6 +324,7 @@ tip: 请善用浏览器的搜索功能
 | act3bossrush_relic_03 | 经验习得 | Experience Acquisition | 経験習得 |
 | act3bossrush_relic_04 | 过热运转 | Overcharge | オーバーヒート |
 | act3bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
+| act3collection_point_token | “战略家”点数 | - | - |
 | act40side_token_yumyum | “生香” | - | - |
 | act42d0_token_evaluation | 试验数据集 | Experimental Dataset | テストデータ集 |
 | act4bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |

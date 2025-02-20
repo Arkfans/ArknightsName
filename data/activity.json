@@ -689,6 +689,9 @@
     "ja_JP": "長雨の候スタンプラリー",
     "zh_CN": "正逢雨季限时登录活动"
   },
+  "act31sre": {
+    "zh_CN": "怀黍离·复刻"
+  },
   "act32side": {
     "en_US": "Operation Lucent Arrowhead",
     "ja_JP": "OP:LA",
@@ -770,6 +773,9 @@
     "en_US": "Trials for Navigator",
     "ja_JP": "導灯の試練",
     "zh_CN": "引航者试炼"
+  },
+  "act3collection": {
+    "zh_CN": "潮起潮又起"
   },
   "act3d0": {
     "en_US": "Heart of Surging Flame",

@@ -760,6 +760,15 @@
     "ja_JP": "大江北岸",
     "zh_CN": "大江北岸"
   },
+  "act31sre_zone1": {
+    "zh_CN": "种植地块"
+  },
+  "act31sre_zone2": {
+    "zh_CN": "荒城核心"
+  },
+  "act31sre_zone3": {
+    "zh_CN": "大江北岸"
+  },
   "act32side_zone1": {
     "en_US": "Roam the Exhibition",
     "ja_JP": "アート探訪",
@@ -1210,6 +1219,15 @@
   },
   "permanent_sidestory_24_zone2": {
     "zh_CN": "特快列车"
+  },
+  "permanent_sidestory_25_zone1": {
+    "zh_CN": "种植地块"
+  },
+  "permanent_sidestory_25_zone2": {
+    "zh_CN": "荒城核心"
+  },
+  "permanent_sidestory_25_zone3": {
+    "zh_CN": "大江北岸"
   },
   "permanent_sidestory_2_zone1": {
     "en_US": "Main Stage",

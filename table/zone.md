@@ -160,6 +160,9 @@ tip: 请善用浏览器的搜索功能
 | act31side_zone1 | 种植地块 | Agricultural Plate | 栽培区画 |
 | act31side_zone2 | 荒城核心 | City Core | 荒城中枢 |
 | act31side_zone3 | 大江北岸 | Far Side of the Great River | 大江北岸 |
+| act31sre_zone1 | 种植地块 | - | - |
+| act31sre_zone2 | 荒城核心 | - | - |
+| act31sre_zone3 | 大江北岸 | - | - |
 | act32side_zone1 | 展厅漫游 | Roam the Exhibition | アート探訪 |
 | act32side_zone2 | 高速空降 | Skydiving | 降下作戦 |
 | act33side_zone1 | 我赠予未来 | You the Future, Take My Gifts | 未来を贈らん |
@@ -257,6 +260,9 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_23_zone3 | 权威无情 | - | - |
 | permanent_sidestory_24_zone1 | 三号站台 | - | - |
 | permanent_sidestory_24_zone2 | 特快列车 | - | - |
+| permanent_sidestory_25_zone1 | 种植地块 | - | - |
+| permanent_sidestory_25_zone2 | 荒城核心 | - | - |
+| permanent_sidestory_25_zone3 | 大江北岸 | - | - |
 | permanent_sidestory_2_zone1 | 主舞台 | Main Stage | メインステージ |
 | permanent_sidestory_2_zone2 | 嘉年华 | Carnival | フェスティバル |
 | permanent_sidestory_2_zone3 | 额外节目 | Extra Show | エクストラ |

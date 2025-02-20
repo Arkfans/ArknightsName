@@ -9251,6 +9251,12 @@
       "zh_CN": "梦幻高空"
     }
   },
+  "char_4119_wanqin@epoque#41": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "万顷阳光"
+    }
+  },
   "char_411_tomimi@summer#5": {
     "type": "SKIN",
     "names": {
@@ -20687,6 +20693,12 @@
       "zh_CN": "正逢雨季限时登录活动"
     }
   },
+  "act31sre": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "怀黍离·复刻"
+    }
+  },
   "act32side": {
     "type": "ACTIVITY",
     "names": {
@@ -20821,6 +20833,12 @@
       "en_US": "Trials for Navigator",
       "ja_JP": "導灯の試練",
       "zh_CN": "引航者试炼"
+    }
+  },
+  "act3collection": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "潮起潮又起"
     }
   },
   "act3d0": {
@@ -23980,6 +23998,12 @@
       "zh_CN": "天桩"
     }
   },
+  "act31side_token_box_rep_1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "天桩"
+    }
+  },
   "act32side_token_stamp": {
     "type": "ITEM",
     "names": {
@@ -24090,6 +24114,12 @@
       "en_US": "Data Blackbox",
       "ja_JP": "ブラックボックス",
       "zh_CN": "数据黑盒"
+    }
+  },
+  "act3collection_point_token": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "“战略家”点数"
     }
   },
   "act40side_token_yumyum": {
@@ -49210,6 +49240,12 @@
       "zh_CN": "壬午号水稻田"
     }
   },
+  "camp_r_27": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "选帝侯广场"
+    }
+  },
   "hard_05-01": {
     "type": "STAGE",
     "names": {
@@ -54556,6 +54592,24 @@
       "zh_CN": "大江北岸"
     }
   },
+  "act31sre_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "种植地块"
+    }
+  },
+  "act31sre_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "荒城核心"
+    }
+  },
+  "act31sre_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "大江北岸"
+    }
+  },
   "act32side_zone1": {
     "type": "ZONE",
     "names": {
@@ -55296,6 +55350,24 @@
     "type": "ZONE",
     "names": {
       "zh_CN": "特快列车"
+    }
+  },
+  "permanent_sidestory_25_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "种植地块"
+    }
+  },
+  "permanent_sidestory_25_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "荒城核心"
+    }
+  },
+  "permanent_sidestory_25_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "大江北岸"
     }
   },
   "permanent_sidestory_2_zone1": {
