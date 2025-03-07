@@ -182,6 +182,7 @@ Collaboration
 Event | なないろのお茶会 |
 | act40side | 相见欢 | - | - |
 | act40sign | 无终奇语签到活动 | Furnaceside Fables Login Event | 炉辺奇談スタンプ |
+| act41side | 挽歌燃烧殆尽 | - | - |
 | act41sign | 沉沙赫日签到活动 | Brilliant Sun Rippling Sand Sign-In Event | 5周年
 スタンプ |
 | act42d0 | 纷争演绎 | Design of Strife | 紛争演繹 |

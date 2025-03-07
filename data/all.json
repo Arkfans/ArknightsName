@@ -21091,6 +21091,12 @@
       "zh_CN": "无终奇语签到活动"
     }
   },
+  "act41side": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "挽歌燃烧殆尽"
+    }
+  },
   "act41sign": {
     "type": "ACTIVITY",
     "names": {
@@ -32046,6 +32052,12 @@
     "type": "POOL",
     "names": {
       "zh_CN": "她们渡船而来"
+    }
+  },
+  "SINGLE_59_0_1": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "自火中归还"
     }
   },
   "SPECIAL_54_0_5": {
