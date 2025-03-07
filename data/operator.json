@@ -1506,11 +1506,17 @@
     "ja_JP": "ユーネクテス",
     "zh_CN": "森蚺"
   },
+  "char_4171_wulfen": {
+    "zh_CN": "钼铅"
+  },
   "char_4172_xingzh": {
     "zh_CN": "行箸"
   },
   "char_4173_nowell": {
     "zh_CN": "诺威尔"
+  },
+  "char_4177_brigid": {
+    "zh_CN": "水灯心"
   },
   "char_420_flamtl": {
     "en_US": "Flametail",
@@ -1581,6 +1587,9 @@
     "en_US": "Honeyberry",
     "ja_JP": "ハニーベリー",
     "zh_CN": "蜜莓"
+  },
+  "char_450_necras": {
+    "zh_CN": "死芒"
   },
   "char_451_robin": {
     "en_US": "Robin",

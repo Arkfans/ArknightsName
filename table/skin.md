@@ -178,6 +178,7 @@ tip: 请善用浏览器的搜索功能
 | char_253_greyy@epoque#8 | 八音蛋匠人 | Eggcellent Craftsman | オルゴールマイスター |
 | char_254_vodfox@witch#2 | 魔城回响 | Echo of the Horrorlair | 魔城の呼び声 |
 | char_258_podego@epoque#9 | 小憩初醒 | Wake Up From a Nap | おひるね |
+| char_260_durnar@epoque#42 | 绒布蛋糕 | - | - |
 | char_261_sddrag@ambienceSynesthesia#2 | 翡翠假日 | Emerald Holiday | エメラルドホリデー |
 | char_263_skadi@marthe#5 | 下一顿午茶 | The Next Afternoon Tea | 次のおやつは |
 | char_263_skadi@summer#3 | 驭浪 WR04 | Waverider WR04 | ウェーブライダーWR04 |
@@ -260,6 +261,7 @@ tip: 请善用浏览器的搜索功能
 | char_377_gdglow@snow#5 | 喜夜侍者 | Maiden for the Bright Night | しあわせの使い |
 | char_377_gdglow@summer#12 | 夏卉 FA394 | Summer Flowers FA394 | 夏の花弁FA394 |
 | char_378_asbest@whirlwind#3 | 幽谷奏鸣 | Glen Sonata | グレンソナタ |
+| char_379_sesa@game#5 | 万物有灵 | - | - |
 | char_383_snsant@witch#2 | 天命勇者 | Fated Hero | 宿命の勇者 |
 | char_385_finlpp@nian#11 | 贺新禧 | Yearly Present | 祝福至 |
 | char_388_mint@epoque#22 | 月宵 | Tsukiyoi | 月宵 |
@@ -318,6 +320,7 @@ tip: 请善用浏览器的搜索功能
 | char_4091_ulika@sanrio#1 | 云上直播间 | Stream Above The Clouds | 雲の上から配信中！ |
 | char_4098_vvana@epoque#40 | 寄自奥格尼斯科 | - | - |
 | char_4100_caper@summer#18 | 夏卉 FA083 | Summer Flowers FA083 | 夏の花弁FA083 |
+| char_4102_threye@epoque#42 | 林间暖阳 | - | - |
 | char_4104_coldst@striker#3 | 破晓 | Dawnbreak | 破暁 |
 | char_4105_almond@epoque#38 | “杏仁”拼盘 | - | - |
 | char_4106_bryota@epoque#34 | 动感 | Vibrant | 躍動 |
@@ -334,6 +337,7 @@ tip: 请善用浏览器的搜索功能
 | char_4124_iana@rainbow6#2 | 镜廊 | Mirrormaze | ミラーメイズ |
 | char_4125_rdoc@rainbow6#2 | 展览 | Exhibition | エキシビション |
 | char_4141_marcil@dungeon#1 | 泰拉冒险 | - | - |
+| char_4146_nymph@epoque#42 | 甜美配方 | - | - |
 | char_4151_tinman@sale#11 | 相位面容 | - | - |
 | char_415_flint@boc#3 | 绚烂夏花 | Gorgeous Flower | 紫藤繚乱 |
 | char_416_zumama@boc#3 | 熔锻铸匠 | Forgemaster | 熔冶工匠 |

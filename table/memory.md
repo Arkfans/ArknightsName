@@ -51,6 +51,7 @@ tip: 请善用浏览器的搜索功能
 | story_bpipe_set_1_story_1 | 难行长路 | Dangerous Road | 険しい道のり |
 | story_breeze_set_1_story_1 | 风暖寒林 | Breeze's Warmth, Chilled Forest | 林は寒く風は温か |
 | story_breeze_set_2_story_1 | 囚徒的幻梦 | Prisoner's Dream | 囚われ人のゆめ |
+| story_brigid_set_1_story_1 | 临行日 | - | - |
 | story_broca_set_1_story_1 | 信任的第一步 | The First Step Towards Trust | 信頼への第一歩 |
 | story_brownb_set_1_story_1 | 终场铃声 | Ending Bell | 決着のゴング |
 | story_bryota_set_1_story_1 | 风情街的日与夜 | Day & Night at Fashion Street | 商店街の日々 |
@@ -101,6 +102,7 @@ tip: 请善用浏览器的搜索功能
 | story_f12yin_set_2_story_1 | 赴罪 | Sinner's Path | 罪へと赴く |
 | story_falco_set_1_story_1 | 远大理想 | A Grand, Distant Ideal | 遠大な理想 |
 | story_fang_set_1_story_1 | 二次冲锋 | Second Charge | 再チャレンジ |
+| story_fartth_set_1_story_1 | 容身之所 | - | - |
 | story_finlpp_set_1_story_1 | 涓滴亦江流 | A Trickle, a Rapids | 川となる雫 |
 | story_firwhl_set_1_story_1 | 独行之人 | The Lone Goer | 独り行く者 |
 | story_flint_set_1_story_1 | 合格的战士 | Warrior's Due | 一人前の戦士 |
@@ -157,6 +159,7 @@ tip: 请善用浏览器的搜索功能
 | story_jaksel_set_1_story_1 | 无价的勋章 | A Priceless Medal | 価値のない勲章 |
 | story_jesca2_set_1_story_1 | 徽章 | Insignia | 保安官バッジ |
 | story_jesica_set_1_story_1 | 缓步前行 | The Slow Walk Ahead | ゆっくり進む者 |
+| story_jnight_set_1_story_1 | 正义号竭诚为您服务！ | - | - |
 | story_judge_set_1_story_1 | 为你撑伞 | Under My Umbrella | あなたに傘を |
 | story_kafka_set_1_story_1 | 许以秘密 | Let's Keep That a Secret | 秘密を交わして |
 | story_kaitou_set_1_story_1 | 被折射的星光 | Refracted Starlight | 屈折した星光 |

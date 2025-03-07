@@ -219,6 +219,9 @@
     "ja_JP": "囚われ人のゆめ",
     "zh_CN": "囚徒的幻梦"
   },
+  "story_brigid_set_1_story_1": {
+    "zh_CN": "临行日"
+  },
   "story_broca_set_1_story_1": {
     "en_US": "The First Step Towards Trust",
     "ja_JP": "信頼への第一歩",
@@ -466,6 +469,9 @@
     "en_US": "Second Charge",
     "ja_JP": "再チャレンジ",
     "zh_CN": "二次冲锋"
+  },
+  "story_fartth_set_1_story_1": {
+    "zh_CN": "容身之所"
   },
   "story_finlpp_set_1_story_1": {
     "en_US": "A Trickle, a Rapids",
@@ -740,6 +746,9 @@
     "en_US": "The Slow Walk Ahead",
     "ja_JP": "ゆっくり進む者",
     "zh_CN": "缓步前行"
+  },
+  "story_jnight_set_1_story_1": {
+    "zh_CN": "正义号竭诚为您服务！"
   },
   "story_judge_set_1_story_1": {
     "en_US": "Under My Umbrella",

@@ -551,6 +551,12 @@
     "ja_JP": "拡散療法",
     "zh_CN": "扩散疗法"
   },
+  "skchr_brigid_1": {
+    "zh_CN": "所熟知的"
+  },
+  "skchr_brigid_2": {
+    "zh_CN": "可驯服的"
+  },
   "skchr_broca_1": {
     "en_US": "Galvanize",
     "ja_JP": "ターンオン",
@@ -2242,6 +2248,15 @@
     "ja_JP": "救護態勢",
     "zh_CN": "急救模式"
   },
+  "skchr_necras_1": {
+    "zh_CN": "噩愿"
+  },
+  "skchr_necras_2": {
+    "zh_CN": "折朽"
+  },
+  "skchr_necras_3": {
+    "zh_CN": "冠死以冕"
+  },
   "skchr_nian_1": {
     "en_US": "Tin Burning",
     "ja_JP": "錫灼",
@@ -3454,6 +3469,12 @@
     "en_US": "Explosive Dawn",
     "ja_JP": "デイブレイクバースト",
     "zh_CN": "爆裂黎明"
+  },
+  "skchr_wulfen_1": {
+    "zh_CN": "“驱兽专用”"
+  },
+  "skchr_wulfen_2": {
+    "zh_CN": "“顽石专用”"
   },
   "skchr_wyvern_1": {
     "en_US": "Command - Reinforcement",
@@ -4676,6 +4697,15 @@
     "ja_JP": "氷結衝撃波",
     "zh_CN": "寒潮"
   },
+  "sktok_ftshad_1": {
+    "zh_CN": "复制"
+  },
+  "sktok_fttreant_1": {
+    "zh_CN": "生长"
+  },
+  "sktok_fttree_1": {
+    "zh_CN": "生长"
+  },
   "sktok_garage_1": {
     "en_US": "Self-Driving Cart, Forward!",
     "ja_JP": "セルカー発進！",
@@ -5006,6 +5036,15 @@
     "en_US": "'Blazing Sun'",
     "ja_JP": "「ブレイジング・サン」",
     "zh_CN": "“耀阳”"
+  },
+  "sktok_necras_skeltn_1": {
+    "zh_CN": "怨火缠身"
+  },
+  "sktok_necras_skeltn_2": {
+    "zh_CN": "怨火缠身"
+  },
+  "sktok_necras_skeltn_3": {
+    "zh_CN": "怨火缠身"
   },
   "sktok_neonlamp": {
     "en_US": "The Light of Civilization",
@@ -5623,6 +5662,12 @@
     "en_US": "Laterano-Style Gelato",
     "ja_JP": "ジェラート供給",
     "zh_CN": "拉特兰式冰淇淋"
+  },
+  "sktok_wulfen_1": {
+    "zh_CN": "“驱兽专用”"
+  },
+  "sktok_wulfen_2": {
+    "zh_CN": "“顽石专用”"
   },
   "sktok_xbaarm": {
     "en_US": "Support",

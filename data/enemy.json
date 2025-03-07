@@ -442,6 +442,42 @@
   "enemy_10063_cjdoor_2": {
     "zh_CN": "造化之口"
   },
+  "enemy_10064_ftyzss": {
+    "zh_CN": "巡游草叶"
+  },
+  "enemy_10064_ftyzss_2": {
+    "zh_CN": "巡游枯木"
+  },
+  "enemy_10065_ftzlc": {
+    "zh_CN": "卷心籽"
+  },
+  "enemy_10065_ftzlc_2": {
+    "zh_CN": "卷心草"
+  },
+  "enemy_10066_ftxjl": {
+    "zh_CN": "“巢穴”"
+  },
+  "enemy_10066_ftxjl_2": {
+    "zh_CN": "“襁褓”"
+  },
+  "enemy_10067_ftsjc": {
+    "zh_CN": "灼藤"
+  },
+  "enemy_10067_ftsjc_2": {
+    "zh_CN": "灼芯"
+  },
+  "enemy_10068_ftxsr": {
+    "zh_CN": "指路芽"
+  },
+  "enemy_10068_ftxsr_2": {
+    "zh_CN": "指路草"
+  },
+  "enemy_10069_ftlsj": {
+    "zh_CN": "树盾"
+  },
+  "enemy_10069_ftlsj_2": {
+    "zh_CN": "树墙"
+  },
   "enemy_1006_shield": {
     "en_US": "Heavy Defender",
     "ja_JP": "重装兵",
@@ -456,6 +492,18 @@
     "en_US": "Heavy Defender Lieutenant",
     "ja_JP": "重装連隊長",
     "zh_CN": "重装五十夫长"
+  },
+  "enemy_10070_ftkbtt": {
+    "zh_CN": "灰烬造物"
+  },
+  "enemy_10070_ftkbtt_2": {
+    "zh_CN": "灰烬艺术品"
+  },
+  "enemy_10071_ftprg": {
+    "zh_CN": "“终点”"
+  },
+  "enemy_10071_ftprg_2": {
+    "zh_CN": "“中点”"
   },
   "enemy_1007_slime": {
     "en_US": "Originium Slug",
@@ -4846,6 +4894,9 @@
   },
   "enemy_1562_cjtaot": {
     "zh_CN": "无餍"
+  },
+  "enemy_1563_fthlgj": {
+    "zh_CN": "“万火归一”"
   },
   "enemy_2001_duckmi": {
     "en_US": "Duck Lord",

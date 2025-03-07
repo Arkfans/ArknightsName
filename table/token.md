@@ -53,4 +53,6 @@ tip: 请善用浏览器的搜索功能
 | token_10040_siege2_vlion | 黄金盟誓 | - | - |
 | token_10041_cathy_catsld | 爬行号·防护单元 | - | - |
 | token_10042_tecno_puppet | 木偶舞者 | - | - |
+| token_10043_necras_skeltn | 悲叹的仆役 | - | - |
+| token_10044_wulfen_mine | 矿石“杀手” | - | - |
 | trap_079_allydonq | 猎潮的骑士 | Tide-Hunt Knight | 猟潮の騎士 |

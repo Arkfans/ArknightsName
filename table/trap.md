@@ -224,7 +224,7 @@ tip: 请善用浏览器的搜索功能
 | trap_163_foolcrate | 障碍物 | - | - |
 | trap_164_lrsiege | 振奋荣光 | Light of Glory | 奮い立つ栄光 |
 | trap_165_muftbl | 足球 | Football | サッカーボール |
-| trap_166_muwork | 折叠设施维护员 | Foldable Facility Maintainer | 競技装置整備士 |
+| trap_166_muwork | 设施建筑工 | Foldable Facility Maintainer | 競技装置整備士 |
 | trap_167_muruinf | 折叠式维护车 | Foldable Maintenance Vehicle | 競技用格納式整備車 |
 | trap_169_muruinb | 折叠式后勤站 | Foldable Logistics Hub | 競技用格納式支援所 |
 | trap_171_trpot | 很大的锅 | - | - |
@@ -256,6 +256,10 @@ tip: 请善用浏览器的搜索功能
 | trap_210_arcgrg | 两栖码头 | - | - |
 | trap_211_cjgtow | 火灶 | - | - |
 | trap_212_cjbtow | 废弃火灶 | - | - |
+| trap_218_fttree | 树丛 | - | - |
+| trap_219_fttreant | 盾与墙 | - | - |
+| trap_220_ftbone | 旧日之火 | - | - |
+| trap_221_ftshad | 空壳 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |
 | trap_401_xbfato | 木材采集站 | Sawing Harvester Hub | 木材採取基地 |
 | trap_403_wfactory | 蟹蟹抽水泵 | Crabbie Pumpie | カニカニポンプ |

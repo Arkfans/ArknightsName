@@ -2433,6 +2433,12 @@
       "zh_CN": "森蚺"
     }
   },
+  "char_4171_wulfen": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "钼铅"
+    }
+  },
   "char_4172_xingzh": {
     "type": "OPERATOR",
     "names": {
@@ -2443,6 +2449,12 @@
     "type": "OPERATOR",
     "names": {
       "zh_CN": "诺威尔"
+    }
+  },
+  "char_4177_brigid": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "水灯心"
     }
   },
   "char_420_flamtl": {
@@ -2555,6 +2567,12 @@
       "en_US": "Honeyberry",
       "ja_JP": "ハニーベリー",
       "zh_CN": "蜜莓"
+    }
+  },
+  "char_450_necras": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "死芒"
     }
   },
   "char_451_robin": {
@@ -3395,6 +3413,18 @@
     "type": "TOKEN",
     "names": {
       "zh_CN": "木偶舞者"
+    }
+  },
+  "token_10043_necras_skeltn": {
+    "type": "TOKEN",
+    "names": {
+      "zh_CN": "悲叹的仆役"
+    }
+  },
+  "token_10044_wulfen_mine": {
+    "type": "TOKEN",
+    "names": {
+      "zh_CN": "矿石“杀手”"
     }
   },
   "trap_079_allydonq": {
@@ -5038,7 +5068,7 @@
     "names": {
       "en_US": "Foldable Facility Maintainer",
       "ja_JP": "競技装置整備士",
-      "zh_CN": "折叠设施维护员"
+      "zh_CN": "设施建筑工"
     }
   },
   "trap_167_muruinf": {
@@ -5239,6 +5269,30 @@
     "type": "TRAP",
     "names": {
       "zh_CN": "废弃火灶"
+    }
+  },
+  "trap_218_fttree": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "树丛"
+    }
+  },
+  "trap_219_fttreant": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "盾与墙"
+    }
+  },
+  "trap_220_ftbone": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "旧日之火"
+    }
+  },
+  "trap_221_ftshad": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "空壳"
     }
   },
   "trap_400_xbfarm": {
@@ -8103,6 +8157,12 @@
       "zh_CN": "小憩初醒"
     }
   },
+  "char_260_durnar@epoque#42": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "绒布蛋糕"
+    }
+  },
   "char_261_sddrag@ambienceSynesthesia#2": {
     "type": "SKIN",
     "names": {
@@ -8745,6 +8805,12 @@
       "zh_CN": "幽谷奏鸣"
     }
   },
+  "char_379_sesa@game#5": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "万物有灵"
+    }
+  },
   "char_383_snsant@witch#2": {
     "type": "SKIN",
     "names": {
@@ -9199,6 +9265,12 @@
       "zh_CN": "夏卉 FA083"
     }
   },
+  "char_4102_threye@epoque#42": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "林间暖阳"
+    }
+  },
   "char_4104_coldst@striker#3": {
     "type": "SKIN",
     "names": {
@@ -9307,6 +9379,12 @@
     "type": "SKIN",
     "names": {
       "zh_CN": "泰拉冒险"
+    }
+  },
+  "char_4146_nymph@epoque#42": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "甜美配方"
     }
   },
   "char_4151_tinman@sale#11": {
@@ -10729,6 +10807,78 @@
       "zh_CN": "造化之口"
     }
   },
+  "enemy_10064_ftyzss": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "巡游草叶"
+    }
+  },
+  "enemy_10064_ftyzss_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "巡游枯木"
+    }
+  },
+  "enemy_10065_ftzlc": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "卷心籽"
+    }
+  },
+  "enemy_10065_ftzlc_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "卷心草"
+    }
+  },
+  "enemy_10066_ftxjl": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“巢穴”"
+    }
+  },
+  "enemy_10066_ftxjl_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“襁褓”"
+    }
+  },
+  "enemy_10067_ftsjc": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "灼藤"
+    }
+  },
+  "enemy_10067_ftsjc_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "灼芯"
+    }
+  },
+  "enemy_10068_ftxsr": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "指路芽"
+    }
+  },
+  "enemy_10068_ftxsr_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "指路草"
+    }
+  },
+  "enemy_10069_ftlsj": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "树盾"
+    }
+  },
+  "enemy_10069_ftlsj_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "树墙"
+    }
+  },
   "enemy_1006_shield": {
     "type": "ENEMY",
     "names": {
@@ -10751,6 +10901,30 @@
       "en_US": "Heavy Defender Lieutenant",
       "ja_JP": "重装連隊長",
       "zh_CN": "重装五十夫长"
+    }
+  },
+  "enemy_10070_ftkbtt": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "灰烬造物"
+    }
+  },
+  "enemy_10070_ftkbtt_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "灰烬艺术品"
+    }
+  },
+  "enemy_10071_ftprg": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“终点”"
+    }
+  },
+  "enemy_10071_ftprg_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“中点”"
     }
   },
   "enemy_1007_slime": {
@@ -17783,6 +17957,12 @@
       "zh_CN": "无餍"
     }
   },
+  "enemy_1563_fthlgj": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“万火归一”"
+    }
+  },
   "enemy_2001_duckmi": {
     "type": "ENEMY",
     "names": {
@@ -21600,6 +21780,12 @@
       "zh_CN": "炎-岁"
     }
   },
+  "tara": {
+    "type": "TEAM",
+    "names": {
+      "zh_CN": "塔拉"
+    }
+  },
   "ursus": {
     "type": "TEAM",
     "names": {
@@ -24126,6 +24312,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "“生香”"
+    }
+  },
+  "act41side_token_light": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "损坏的源石灯"
     }
   },
   "act42d0_token_evaluation": {
@@ -28864,6 +29056,12 @@
       "zh_CN": "森蚺的信物"
     }
   },
+  "p_char_4171_wulfen": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "钼铅的信物"
+    }
+  },
   "p_char_4172_xingzh": {
     "type": "ITEM",
     "names": {
@@ -28874,6 +29072,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "诺威尔的信物"
+    }
+  },
+  "p_char_4177_brigid": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "水灯心的信物"
     }
   },
   "p_char_420_flamtl": {
@@ -28978,6 +29182,12 @@
       "en_US": "Honeyberry's Token",
       "ja_JP": "ハニーベリーの印",
       "zh_CN": "蜜莓的信物"
+    }
+  },
+  "p_char_450_necras": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "死芒的信物"
     }
   },
   "p_char_451_robin": {
@@ -33564,6 +33774,18 @@
       "zh_CN": "扩散疗法"
     }
   },
+  "skchr_brigid_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "所熟知的"
+    }
+  },
+  "skchr_brigid_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "可驯服的"
+    }
+  },
   "skchr_broca_1": {
     "type": "SKILL",
     "names": {
@@ -36290,6 +36512,24 @@
       "zh_CN": "急救模式"
     }
   },
+  "skchr_necras_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "噩愿"
+    }
+  },
+  "skchr_necras_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "折朽"
+    }
+  },
+  "skchr_necras_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "冠死以冕"
+    }
+  },
   "skchr_nian_1": {
     "type": "SKILL",
     "names": {
@@ -38260,6 +38500,18 @@
       "en_US": "Explosive Dawn",
       "ja_JP": "デイブレイクバースト",
       "zh_CN": "爆裂黎明"
+    }
+  },
+  "skchr_wulfen_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“驱兽专用”"
+    }
+  },
+  "skchr_wulfen_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“顽石专用”"
     }
   },
   "skchr_wyvern_1": {
@@ -40362,6 +40614,24 @@
       "zh_CN": "寒潮"
     }
   },
+  "sktok_ftshad_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "复制"
+    }
+  },
+  "sktok_fttreant_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "生长"
+    }
+  },
+  "sktok_fttree_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "生长"
+    }
+  },
   "sktok_garage_1": {
     "type": "SKILL",
     "names": {
@@ -40892,6 +41162,24 @@
       "en_US": "'Blazing Sun'",
       "ja_JP": "「ブレイジング・サン」",
       "zh_CN": "“耀阳”"
+    }
+  },
+  "sktok_necras_skeltn_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "怨火缠身"
+    }
+  },
+  "sktok_necras_skeltn_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "怨火缠身"
+    }
+  },
+  "sktok_necras_skeltn_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "怨火缠身"
     }
   },
   "sktok_neonlamp": {
@@ -41884,6 +42172,18 @@
       "en_US": "Laterano-Style Gelato",
       "ja_JP": "ジェラート供給",
       "zh_CN": "拉特兰式冰淇淋"
+    }
+  },
+  "sktok_wulfen_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“驱兽专用”"
+    }
+  },
+  "sktok_wulfen_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“顽石专用”"
     }
   },
   "sktok_xbaarm": {
@@ -48500,6 +48800,78 @@
       "zh_CN": "翡翠墨玉"
     }
   },
+  "act41side_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "扉页所见"
+    }
+  },
+  "act41side_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "不过别离"
+    }
+  },
+  "act41side_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "惶惑与冲动"
+    }
+  },
+  "act41side_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "旧舞步"
+    }
+  },
+  "act41side_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "溺火"
+    }
+  },
+  "act41side_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "失路人"
+    }
+  },
+  "act41side_07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "烧灯者"
+    }
+  },
+  "act41side_08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "夜尽之时"
+    }
+  },
+  "act41side_st01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "涉过寒夜"
+    }
+  },
+  "act41side_st02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "罗曼史已死"
+    }
+  },
+  "act41side_st03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "封底纪事"
+    }
+  },
+  "act41side_tr01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "拨雾声"
+    }
+  },
   "act4bossrush_01": {
     "type": "STAGE",
     "names": {
@@ -54770,6 +55142,18 @@
       "zh_CN": "怅别离"
     }
   },
+  "act41side_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "摇曳的影"
+    }
+  },
+  "act41side_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "将熄的火"
+    }
+  },
   "act4bossrush_zone1": {
     "type": "ZONE",
     "names": {
@@ -56132,6 +56516,12 @@
       "zh_CN": "囚徒的幻梦"
     }
   },
+  "story_brigid_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "临行日"
+    }
+  },
   "story_broca_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -56528,6 +56918,12 @@
       "en_US": "Second Charge",
       "ja_JP": "再チャレンジ",
       "zh_CN": "二次冲锋"
+    }
+  },
+  "story_fartth_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "容身之所"
     }
   },
   "story_finlpp_set_1_story_1": {
@@ -56970,6 +57366,12 @@
       "en_US": "The Slow Walk Ahead",
       "ja_JP": "ゆっくり進む者",
       "zh_CN": "缓步前行"
+    }
+  },
+  "story_jnight_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "正义号竭诚为您服务！"
     }
   },
   "story_judge_set_1_story_1": {

@@ -836,6 +836,9 @@
     "ja_JP": "おひるね",
     "zh_CN": "小憩初醒"
   },
+  "char_260_durnar@epoque#42": {
+    "zh_CN": "绒布蛋糕"
+  },
   "char_261_sddrag@ambienceSynesthesia#2": {
     "en_US": "Emerald Holiday",
     "ja_JP": "エメラルドホリデー",
@@ -1232,6 +1235,9 @@
     "ja_JP": "グレンソナタ",
     "zh_CN": "幽谷奏鸣"
   },
+  "char_379_sesa@game#5": {
+    "zh_CN": "万物有灵"
+  },
   "char_383_snsant@witch#2": {
     "en_US": "Fated Hero",
     "ja_JP": "宿命の勇者",
@@ -1512,6 +1518,9 @@
     "ja_JP": "夏の花弁FA083",
     "zh_CN": "夏卉 FA083"
   },
+  "char_4102_threye@epoque#42": {
+    "zh_CN": "林间暖阳"
+  },
   "char_4104_coldst@striker#3": {
     "en_US": "Dawnbreak",
     "ja_JP": "破暁",
@@ -1573,6 +1582,9 @@
   },
   "char_4141_marcil@dungeon#1": {
     "zh_CN": "泰拉冒险"
+  },
+  "char_4146_nymph@epoque#42": {
+    "zh_CN": "甜美配方"
   },
   "char_4151_tinman@sale#11": {
     "zh_CN": "相位面容"

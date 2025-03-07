@@ -130,9 +130,25 @@ tip: 请善用浏览器的搜索功能
 | enemy_10062_cjblon | “饮露餐风” | - | - |
 | enemy_10063_cjdoor | 湮没之口 | - | - |
 | enemy_10063_cjdoor_2 | 造化之口 | - | - |
+| enemy_10064_ftyzss | 巡游草叶 | - | - |
+| enemy_10064_ftyzss_2 | 巡游枯木 | - | - |
+| enemy_10065_ftzlc | 卷心籽 | - | - |
+| enemy_10065_ftzlc_2 | 卷心草 | - | - |
+| enemy_10066_ftxjl | “巢穴” | - | - |
+| enemy_10066_ftxjl_2 | “襁褓” | - | - |
+| enemy_10067_ftsjc | 灼藤 | - | - |
+| enemy_10067_ftsjc_2 | 灼芯 | - | - |
+| enemy_10068_ftxsr | 指路芽 | - | - |
+| enemy_10068_ftxsr_2 | 指路草 | - | - |
+| enemy_10069_ftlsj | 树盾 | - | - |
+| enemy_10069_ftlsj_2 | 树墙 | - | - |
 | enemy_1006_shield | 重装防御者 | Heavy Defender | 重装兵 |
 | enemy_1006_shield_2 | 重装防御组长 | Heavy Defender Leader | 重装隊長 |
 | enemy_1006_shield_3 | 重装五十夫长 | Heavy Defender Lieutenant | 重装連隊長 |
+| enemy_10070_ftkbtt | 灰烬造物 | - | - |
+| enemy_10070_ftkbtt_2 | 灰烬艺术品 | - | - |
+| enemy_10071_ftprg | “终点” | - | - |
+| enemy_10071_ftprg_2 | “中点” | - | - |
 | enemy_1007_slime | 源石虫 | Originium Slug | オリジムシ |
 | enemy_1007_slime_2 | 源石虫·α | Originium Slug α | オリジムシα |
 | enemy_1007_slime_3 | 源石虫·β | Originium Slug β | オリジムシβ |
@@ -1015,6 +1031,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1560_cnvlap | “狂欢之主” | - | - |
 | enemy_1561_crzjdg | 安纳斯塔西奥，赎罪者 | - | - |
 | enemy_1562_cjtaot | 无餍 | - | - |
+| enemy_1563_fthlgj | “万火归一” | - | - |
 | enemy_2001_duckmi | 鸭爵 | Duck Lord | ダック卿 |
 | enemy_2002_bearmi | 高普尼克 | Gopnik | ゴプニク |
 | enemy_2003_rockman | 迷路的巨像 | Lost Colossus | 迷子の巨像 |

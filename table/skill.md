@@ -127,6 +127,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_bpipe_3 | 闭膛连发 | Locked Breech Burst | クローズドボルト連射 |
 | skchr_breeze_1 | 集束疗法 | Cluster Therapy | 集中療法 |
 | skchr_breeze_2 | 扩散疗法 | Widespread Therapy | 拡散療法 |
+| skchr_brigid_1 | 所熟知的 | - | - |
+| skchr_brigid_2 | 可驯服的 | - | - |
 | skchr_broca_1 | 通电 | Galvanize | ターンオン |
 | skchr_broca_2 | 高压电流 | High-Voltage Current | ハイボルテージ |
 | skchr_brownb_1 | 高机动 | Flexibility | ウィービング |
@@ -472,6 +474,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_nearl2_3 | 耀阳颔首 | Blazing Sun's Obeisance | 大地を照らす烈陽 |
 | skchr_nearl_1 | 急救 | First Aid | 応急処置 |
 | skchr_nearl_2 | 急救模式 | First Aid Mode | 救護態勢 |
+| skchr_necras_1 | 噩愿 | - | - |
+| skchr_necras_2 | 折朽 | - | - |
+| skchr_necras_3 | 冠死以冕 | - | - |
 | skchr_nian_1 | 锡灼 | Tin Burning | 錫灼 |
 | skchr_nian_2 | 铜印 | Copper Seal | 銅印 |
 | skchr_nian_3 | 铁御 | Iron Defense | 鉄御 |
@@ -725,6 +730,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_wisdel_1 | 定点清算 | Localized Liquidation | クリアランス |
 | skchr_wisdel_2 | 饱和复仇 | Saturated Vengeance | オーバーレネゲード |
 | skchr_wisdel_3 | 爆裂黎明 | Explosive Dawn | デイブレイクバースト |
+| skchr_wulfen_1 | “驱兽专用” | - | - |
+| skchr_wulfen_2 | “顽石专用” | - | - |
 | skchr_wyvern_1 | 冲锋号令·援军 | Command - Reinforcement | 突撃指令・援軍 |
 | skchr_xingzh_1 | 盈帙满笥 | - | - |
 | skchr_xingzh_2 | 食不厌精 | - | - |
@@ -1018,6 +1025,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_folivo_2 | 全景过载摄像 | Panoramic Overload | フルパノラマ撮影 |
 | sktok_frosts | 寒潮 | Frigid Tide | 氷結衝撃波 |
 | sktok_frosts_friend | 寒潮 | Frigid Tide | 氷結衝撃波 |
+| sktok_ftshad_1 | 复制 | - | - |
+| sktok_fttreant_1 | 生长 | - | - |
+| sktok_fttree_1 | 生长 | - | - |
 | sktok_garage_1 | 自走车出击！ | Self-Driving Cart, Forward! | セルカー発進！ |
 | sktok_garage_2 | 自走车出击！ | Self-Driving Cart, Forward! | セルカー発進！ |
 | sktok_gasbot | 速效制冷 | Quick Cooling | 即時冷却 |
@@ -1085,6 +1095,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_muruino | 器械维护 | Equipment Maintenance | 防壁展開 |
 | sktok_muruinw | 模块维护 | Module Maintenance | 高台展開 |
 | sktok_nearl2_3 | “耀阳” | 'Blazing Sun' | 「ブレイジング・サン」 |
+| sktok_necras_skeltn_1 | 怨火缠身 | - | - |
+| sktok_necras_skeltn_2 | 怨火缠身 | - | - |
+| sktok_necras_skeltn_3 | 怨火缠身 | - | - |
 | sktok_neonlamp | 文明的光芒 | The Light of Civilization | 「文明の灯火」 |
 | sktok_normbox | 诱人珍宝 | Alluring Treasures | 財宝のいざない |
 | sktok_npccom | 触发对话 | Trigger Dialogue | 会話発生 |
@@ -1210,6 +1223,8 @@ tip: 请善用浏览器的搜索功能
 | sktok_wisdel_wward | 魂灵之影 | Revenant's Shadow | レヴァナントの影 |
 | sktok_wpnsts_1 | 拉特兰式冰淇淋 | Laterano-Style Gelato | ジェラート供給 |
 | sktok_wpnsts_2 | 拉特兰式冰淇淋 | Laterano-Style Gelato | ジェラート供給 |
+| sktok_wulfen_1 | “驱兽专用” | - | - |
+| sktok_wulfen_2 | “顽石专用” | - | - |
 | sktok_xbaarm | 支持 | Support | 支援 |
 | sktok_xbaaro | 岩锤 | Rock Hammer | ロックハンマー |
 | sktok_xbaask | 炫耀 | Dazzle | 自慢 |

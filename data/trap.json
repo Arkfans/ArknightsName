@@ -973,7 +973,7 @@
   "trap_166_muwork": {
     "en_US": "Foldable Facility Maintainer",
     "ja_JP": "競技装置整備士",
-    "zh_CN": "折叠设施维护员"
+    "zh_CN": "设施建筑工"
   },
   "trap_167_muruinf": {
     "en_US": "Foldable Maintenance Vehicle",
@@ -1081,6 +1081,18 @@
   },
   "trap_212_cjbtow": {
     "zh_CN": "废弃火灶"
+  },
+  "trap_218_fttree": {
+    "zh_CN": "树丛"
+  },
+  "trap_219_fttreant": {
+    "zh_CN": "盾与墙"
+  },
+  "trap_220_ftbone": {
+    "zh_CN": "旧日之火"
+  },
+  "trap_221_ftshad": {
+    "zh_CN": "空壳"
   },
   "trap_400_xbfarm": {
     "en_US": "Portable Planting Trough",

@@ -314,8 +314,10 @@ tip: 请善用浏览器的搜索功能
 | char_4164_tecno | 特克诺 | - | - |
 | char_4165_ctrail | 云迹 | - | - |
 | char_416_zumama | 森蚺 | Eunectes | ユーネクテス |
+| char_4171_wulfen | 钼铅 | - | - |
 | char_4172_xingzh | 行箸 | - | - |
 | char_4173_nowell | 诺威尔 | - | - |
+| char_4177_brigid | 水灯心 | - | - |
 | char_420_flamtl | 焰尾 | Flametail | フレイムテイル |
 | char_421_crow | 羽毛笔 | La Pluma | ラ・プルマ |
 | char_422_aurora | 极光 | Aurora | オーロラ |
@@ -330,6 +332,7 @@ tip: 请善用浏览器的搜索功能
 | char_440_pinecn | 松果 | Pinecone | パインコーン |
 | char_446_aroma | 阿罗玛 | Aroma | アロマ |
 | char_449_glider | 蜜莓 | Honeyberry | ハニーベリー |
+| char_450_necras | 死芒 | - | - |
 | char_451_robin | 罗宾 | Robin | ロビン |
 | char_452_bstalk | 豆苗 | Beanstalk | ビーンストーク |
 | char_455_nothin | 乌有 | Mr. Nothing | ウユウ |

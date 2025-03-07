@@ -326,6 +326,7 @@ tip: 请善用浏览器的搜索功能
 | act3bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
 | act3collection_point_token | “战略家”点数 | - | - |
 | act40side_token_yumyum | “生香” | - | - |
+| act41side_token_light | 损坏的源石灯 | - | - |
 | act42d0_token_evaluation | 试验数据集 | Experimental Dataset | テストデータ集 |
 | act4bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act4bossrush_relic_01 | 轻量化载荷 | Lightened Load | 積込み軽量化 |
@@ -929,8 +930,10 @@ tip: 请善用浏览器的搜索功能
 | p_char_4164_tecno | 特克诺的信物 | - | - |
 | p_char_4165_ctrail | 云迹的信物 | - | - |
 | p_char_416_zumama | 森蚺的信物 | Eunectes' Token | ユーネクテスの印 |
+| p_char_4171_wulfen | 钼铅的信物 | - | - |
 | p_char_4172_xingzh | 行箸的信物 | - | - |
 | p_char_4173_nowell | 诺威尔的信物 | - | - |
+| p_char_4177_brigid | 水灯心的信物 | - | - |
 | p_char_420_flamtl | 焰尾的信物 | Flametail's Token | フレイムテイルの印 |
 | p_char_421_crow | 羽毛笔的信物 | La Pluma's Token | ラ・プルマの印 |
 | p_char_422_aurora | 极光的信物 | Aurora's Token | オーロラの印 |
@@ -944,6 +947,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_440_pinecn | 松果的信物 | Pinecone's Token | パインコーンの印 |
 | p_char_446_aroma | 阿罗玛的信物 | Aroma's Token | アロマの印 |
 | p_char_449_glider | 蜜莓的信物 | Honeyberry's Token | ハニーベリーの印 |
+| p_char_450_necras | 死芒的信物 | - | - |
 | p_char_451_robin | 罗宾的信物 | Robin's Token | ロビンの印 |
 | p_char_452_bstalk | 豆苗的信物 | Beanstalk's Token | ビーンストークの印 |
 | p_char_455_nothin | 乌有的信物 | Mr. Nothing's Token | ウユウの印 |

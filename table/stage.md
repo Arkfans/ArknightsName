@@ -783,6 +783,18 @@ tip: 请善用浏览器的搜索功能
 | act40side_st02 | 雷公栗 | - | - |
 | act40side_st03 | 须问汤 | - | - |
 | act40side_tr01 | 翡翠墨玉 | - | - |
+| act41side_01 | 扉页所见 | - | - |
+| act41side_02 | 不过别离 | - | - |
+| act41side_03 | 惶惑与冲动 | - | - |
+| act41side_04 | 旧舞步 | - | - |
+| act41side_05 | 溺火 | - | - |
+| act41side_06 | 失路人 | - | - |
+| act41side_07 | 烧灯者 | - | - |
+| act41side_08 | 夜尽之时 | - | - |
+| act41side_st01 | 涉过寒夜 | - | - |
+| act41side_st02 | 罗曼史已死 | - | - |
+| act41side_st03 | 封底纪事 | - | - |
+| act41side_tr01 | 拨雾声 | - | - |
 | act4bossrush_01 | 冰霜与战火 | Frost and Fire | 氷霜と戦火 |
 | act4bossrush_02 | 无关音律 | Out Of Tune | アウトオブチューン |
 | act4bossrush_03 | 延烧的深池 | Dublinn Burning | 延焼する葦沼 |

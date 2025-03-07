@@ -46,6 +46,7 @@ tip: 请善用浏览器的搜索功能
 | student | 乌萨斯学生自治团 | Ursus Student Self-Governing Group | ウルサス学生自治団 |
 | sui | 炎-岁 | Yan-Sui | 炎-歳 |
 | sweep | S.W.E.E.P. | S.W.E.E.P. | S.W.E.E.P. |
+| tara | 塔拉 | - | - |
 | ursus | 乌萨斯 | Ursus | ウルサス |
 | victoria | 维多利亚 | Victoria | ヴィクトリア |
 | yan | 炎 | Yan | 炎 |
