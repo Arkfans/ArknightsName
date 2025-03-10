@@ -159,7 +159,7 @@ tip: 请善用浏览器的搜索功能
 | act34sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act35side | 太阳甩在身后 | Adventure That Cannot Wait for the Sun | 太陽すらも追い越して |
 | act35sign | 清光邀月——月饼烘焙小教程 | Moonlight Invite - Mooncake-Making Tutorial | 清風明月-ロドス点心教室 |
-| act36side | 泰拉饭 | - | - |
+| act36side | 泰拉饭 | - | テラ飯 |
 | act36sign | 步上双塔之时签到活动 | Climbing the Twin Spires Sign-In Event | 双塔の高みを目指してスタンプラリー |
 | act37side | 追迹日落以西 | - | - |
 | act37sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -186,7 +186,7 @@ Event | なないろのお茶会 |
 | act41sign | 沉沙赫日签到活动 | Brilliant Sun Rippling Sand Sign-In Event | 5周年
 スタンプ |
 | act42d0 | 纷争演绎 | Design of Strife | 紛争演繹 |
-| act42sign | 品鉴泰拉魔物 | - | - |
+| act42sign | 品鉴泰拉魔物 | - | テラ魔物品評 |
 | act43sign | 良辰迎月签到活动 | A Good Moony Time Login Event | 嘉辰令月スタンプ |
 | act44sign | 构想试炼签到活动 | - | - |
 | act45sign | 感谢庆典前瞻签到 | - | - |

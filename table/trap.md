@@ -227,14 +227,14 @@ tip: 请善用浏览器的搜索功能
 | trap_166_muwork | 设施建筑工 | Foldable Facility Maintainer | 競技装置整備士 |
 | trap_167_muruinf | 折叠式维护车 | Foldable Maintenance Vehicle | 競技用格納式整備車 |
 | trap_169_muruinb | 折叠式后勤站 | Foldable Logistics Hub | 競技用格納式支援所 |
-| trap_171_trpot | 很大的锅 | - | - |
-| trap_172_trbox | “宝箱” | - | - |
-| trap_173_slfrut | 闪亮果实 | - | - |
-| trap_174_smfrut | 奇异黑光果实 | - | - |
-| trap_175_frfrut | 香甜烤果子 | - | - |
-| trap_176_frutwn | 缤纷果酒 | - | - |
-| trap_177_tentcl | 宝箱的肉？ | - | - |
-| trap_178_trrbox | “宝箱” | - | - |
+| trap_171_trpot | 很大的锅 | - | 大鍋 |
+| trap_172_trbox | “宝箱” | - | 「宝箱」 |
+| trap_173_slfrut | 闪亮果实 | - | ピカピカフルーツ |
+| trap_174_smfrut | 奇异黑光果实 | - | 変な黒いフルーツ |
+| trap_175_frfrut | 香甜烤果子 | - | あま焼きフルーツ |
+| trap_176_frutwn | 缤纷果酒 | - | フルーツのお酒 |
+| trap_177_tentcl | 宝箱的肉？ | - | 宝箱のお肉？ |
+| trap_178_trrbox | “宝箱” | - | 「宝箱」 |
 | trap_179_muctrl | 促融共竞控制 | Icebreaker Games Control | 協心競技制御装置 |
 | trap_180_dsblock | 封印的地面 | Sealed Floor | 封じられた地面 |
 | trap_181_sgray | 结晶消除桩 | Decrystallizing Totem | 結晶除去装置 |

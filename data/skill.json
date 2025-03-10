@@ -754,9 +754,11 @@
     "zh_CN": "火焰剥离"
   },
   "skchr_chilc_1": {
+    "ja_JP": "ピッキングツール",
     "zh_CN": "开锁工具"
   },
   "skchr_chilc_2": {
+    "ja_JP": "臨機応変",
     "zh_CN": "随机应变"
   },
   "skchr_chimes_2": {
@@ -1799,9 +1801,11 @@
     "zh_CN": "二连射·自动"
   },
   "skchr_laios_1": {
+    "ja_JP": "臆病なケン助",
     "zh_CN": "胆小剑助"
   },
   "skchr_laios_2": {
+    "ja_JP": "威嚇戦法",
     "zh_CN": "威吓战法"
   },
   "skchr_lasher_1": {
@@ -2000,12 +2004,15 @@
     "zh_CN": "蓄力毒尾击"
   },
   "skchr_marcil_1": {
+    "ja_JP": "才女の実力",
     "zh_CN": "才女的实力"
   },
   "skchr_marcil_2": {
+    "ja_JP": "使い魔召喚",
     "zh_CN": "召唤使魔"
   },
   "skchr_marcil_3": {
+    "ja_JP": "爆破魔法",
     "zh_CN": "爆破魔法"
   },
   "skchr_mberry_1": {
@@ -2736,9 +2743,11 @@
     "zh_CN": "生灵火花"
   },
   "skchr_sensi_1": {
+    "ja_JP": "一人分の料理",
     "zh_CN": "单人份料理"
   },
   "skchr_sensi_2": {
+    "ja_JP": "宴会用魔物料理",
     "zh_CN": "团体魔物大餐"
   },
   "skchr_serum_1": {
@@ -5532,6 +5541,7 @@
     "zh_CN": "触发对话"
   },
   "sktok_trbox_1": {
+    "ja_JP": "中身はなにかな？",
     "zh_CN": "开箱！"
   },
   "sktok_tree": {
@@ -5540,9 +5550,11 @@
     "zh_CN": "天然隐蔽"
   },
   "sktok_trpot_1": {
+    "ja_JP": "飯の時間だ！",
     "zh_CN": "开饭！"
   },
   "sktok_trrbox_1": {
+    "ja_JP": "中身はなにかな？",
     "zh_CN": "开箱！"
   },
   "sktok_trsrhuntr": {

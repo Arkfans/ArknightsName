@@ -160,7 +160,7 @@ tip: 请善用浏览器的搜索功能
 | LINKAGE_TKT_GACHA_10_3601 | 指引明路寻访凭证 | Scouting the Light Headhunting Permit | ハンター凱旋10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_3602 | 合作限定十连寻访凭证 | Collaboration Limited Ten-roll Headhunting Permit | ハンター凱旋10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_4801 | 特勤专家寻访凭证 | Expert Headhunting Permit | 精鋭小隊10回スカウト券 |
-| LINKAGE_TKT_GACHA_10_5401 | 好好吃饭寻访凭证 | - | - |
+| LINKAGE_TKT_GACHA_10_5401 | 好好吃饭寻访凭证 | - | 食欲満開10回スカウト券 |
 | LMTGS_COIN_1401 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_1601 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_1803 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
@@ -313,7 +313,7 @@ tip: 请善用浏览器的搜索功能
 | act33side_token_sugar | 粗制糖块 | Raw Sugar Lumps | 粗製角砂糖 |
 | act34side_token_chip | “应急物资”蓝图芯片 | 'Emergency Supplies' Blueprint Chip | 「非常用物資」設計図チップ |
 | act35side_token_dust | 流光之沙 | Flowing Glimmerdust | 流光の砂 |
-| act36side_token_recipe | 今日食谱 | - | - |
+| act36side_token_recipe | 今日食谱 | - | 今日の献立 |
 | act37side_token_nay | “我反对！” | - | - |
 | act38d1_token_coin | 晶化源石 | Crystalized Originium | 結晶化源石 |
 | act38side_token_ticket | 匿名邀请函 | - | - |
@@ -914,10 +914,10 @@ tip: 请善用浏览器的搜索功能
 | p_char_4138_narant | 娜仁图亚的信物 | Narantuya's Token | ナラントゥヤの印 |
 | p_char_4139_papyrs | 莎草的信物 | Papyrus's Token | パピルスの印 |
 | p_char_4140_lasher | 衡沙的信物 | Sand Reckoner's Token | サンドレコナーの印 |
-| p_char_4141_marcil | 玛露西尔的信物 | - | - |
-| p_char_4142_laios | 莱欧斯的信物 | - | - |
-| p_char_4143_sensi | 森西的信物 | - | - |
-| p_char_4144_chilc | 齐尔查克的信物 | - | - |
+| p_char_4141_marcil | 玛露西尔的信物 | - | マルシルの印 |
+| p_char_4142_laios | 莱欧斯的信物 | - | ライオスの印 |
+| p_char_4143_sensi | 森西的信物 | - | センシの印 |
+| p_char_4144_chilc | 齐尔查克的信物 | - | チルチャックの印 |
 | p_char_4145_ulpia | 乌尔比安的信物 | Ulpianus's Token | ウルピアヌスの印 |
 | p_char_4146_nymph | 妮芙的信物 | Nymph's Token | ニンフの印 |
 | p_char_4147_mitm | 渡桥的信物 | Mitm's Token | ミトムの印 |

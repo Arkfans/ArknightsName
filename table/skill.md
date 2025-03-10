@@ -169,8 +169,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_chen_2 | 赤霄·拔刀 | Chi Xiao - Unsheath | 赤霄・抜刀 |
 | skchr_chen_3 | 赤霄·绝影 | Chi Xiao - Shadowless | 赤霄・絶影 |
 | skchr_chiave_2 | 火焰剥离 | Blazing Wire Stripper | 火炎剥離 |
-| skchr_chilc_1 | 开锁工具 | - | - |
-| skchr_chilc_2 | 随机应变 | - | - |
+| skchr_chilc_1 | 开锁工具 | - | ピッキングツール |
+| skchr_chilc_2 | 随机应变 | - | 臨機応変 |
 | skchr_chimes_2 | 乡心无改 | Longing for Home | 郷思の念 |
 | skchr_chnut_1 | 积微成著 | Little by Little | 積土成山 |
 | skchr_chnut_2 | 厚土迸发 | Rising Earth | 厚土の脈動 |
@@ -382,8 +382,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_kroos2_1 | 无痕 | Traceless | 無痕 |
 | skchr_kroos2_2 | 封喉 | Silencer | 矢継ぎ早 |
 | skchr_kroos_1 | 二连射·自动 | Double Tap - Auto | 2点・バースト |
-| skchr_laios_1 | 胆小剑助 | - | - |
-| skchr_laios_2 | 威吓战法 | - | - |
+| skchr_laios_1 | 胆小剑助 | - | 臆病なケン助 |
+| skchr_laios_2 | 威吓战法 | - | 威嚇戦法 |
 | skchr_lasher_1 | 上紧发条 | Winding Up | ゼンマイ巻き |
 | skchr_lasher_2 | 权知轻重 | Weighing the Scales | 天秤の持ち手 |
 | skchr_lava2_1 | 焰淬匕首 | Flame Quenched Dagger | フレイムエンチャント |
@@ -423,9 +423,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_malist_2 | 神工意匠 | Prodigious Craftsmanship | マスターピース |
 | skchr_mantic_1 | 蝎毒 | Scorpion Venom | アジトキシン |
 | skchr_mantic_2 | 蓄力毒尾击 | Toxic Overload | スコーピオンテール |
-| skchr_marcil_1 | 才女的实力 | - | - |
-| skchr_marcil_2 | 召唤使魔 | - | - |
-| skchr_marcil_3 | 爆破魔法 | - | - |
+| skchr_marcil_1 | 才女的实力 | - | 才女の実力 |
+| skchr_marcil_2 | 召唤使魔 | - | 使い魔召喚 |
+| skchr_marcil_3 | 爆破魔法 | - | 爆破魔法 |
 | skchr_mberry_1 | 治愈云雾 | Healing Haze | ヒーリングミスト |
 | skchr_mberry_2 | 安全区域 | Safe Zone | セーフティゾーン |
 | skchr_melnte_1 | 饱和脉冲 | Saturated Pulse | 飽和パルス |
@@ -575,8 +575,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_savage_2 | 微差爆破 | Precise Blast | 精密起爆 |
 | skchr_scave_2 | 冲锋号令·攻击 | Command - Attack | 突撃指令・攻撃 |
 | skchr_sddrag_2 | 生灵火花 | Soul Spark | マナスパーク |
-| skchr_sensi_1 | 单人份料理 | - | - |
-| skchr_sensi_2 | 团体魔物大餐 | - | - |
+| skchr_sensi_1 | 单人份料理 | - | 一人分の料理 |
+| skchr_sensi_2 | 团体魔物大餐 | - | 宴会用魔物料理 |
 | skchr_serum_1 | 专注力超载 | Focus Overload | 過集中 |
 | skchr_serum_2 | 传导蚀滞弹 | Conductive Corrosive Blast | 神経蝕滞弾 |
 | skchr_sesa_2 | 延时震荡零件 | Delayed Concussive Parts | ディレイドボンバー |
@@ -1195,10 +1195,10 @@ tip: 请善用浏览器的搜索功能
 | sktok_tower | 法术传输协议 | Arts Transfer Protocol | アーツ転送プロトコル |
 | sktok_trademan_1 | 触发对话 | Trigger Dialogue | 会話発生 |
 | sktok_trademan_summon | 触发对话 | Trigger Dialogue | 会話発生 |
-| sktok_trbox_1 | 开箱！ | - | - |
+| sktok_trbox_1 | 开箱！ | - | 中身はなにかな？ |
 | sktok_tree | 天然隐蔽 | Natural Camouflage | きのこガード |
-| sktok_trpot_1 | 开饭！ | - | - |
-| sktok_trrbox_1 | 开箱！ | - | - |
+| sktok_trpot_1 | 开饭！ | - | 飯の時間だ！ |
+| sktok_trrbox_1 | 开箱！ | - | 中身はなにかな？ |
 | sktok_trsrhuntr | 触发对话 | Trigger Dialogue | 会話発生 |
 | sktok_trsrhuntr_1 | 触发对话 | Trigger Dialogue | 会話発生 |
 | sktok_truamr | “甜蜜狂搅” | 'Supersweetie Superblend' | 「スイート・スーパーブレンド」 |

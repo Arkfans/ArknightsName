@@ -5,22 +5,22 @@ tip: 请善用浏览器的搜索功能
 
 | id | 中文 | English | 日文 |
 | --- | --- | --- | --- |
-| enemy_10001_trslim | 简饲源石虫 | - | - |
-| enemy_10001_trslim_2 | 精饲源石虫 | - | - |
-| enemy_10002_trtrsl | 浆果虫 | - | - |
-| enemy_10002_trtrsl_2 | 硕果虫 | - | - |
-| enemy_10003_trwlpl | 暴走食虫花 | - | - |
-| enemy_10003_trwlpl_2 | 暴走食人花 | - | - |
-| enemy_10004_trdiam | 浆果磐蟹 | - | - |
-| enemy_10004_trdiam_2 | 硕果磐蟹 | - | - |
-| enemy_10005_trsmsb | 染污战士 | - | - |
-| enemy_10005_trsmsb_2 | 染污勇士 | - | - |
-| enemy_10006_trsmgi | 染秽魔像 | - | - |
-| enemy_10006_trsmgi_2 | 凶秽魔像 | - | - |
-| enemy_10007_trspsb | “酩酊” | - | - |
-| enemy_10007_trspsb_2 | 陶醉的“酩酊” | - | - |
-| enemy_10008_trbbox | 宝箱恐鱼 | - | - |
-| enemy_10008_trbbox_2 | 宝箱海怪 | - | - |
+| enemy_10001_trslim | 简饲源石虫 | - | 簡易飼育オリジムシ |
+| enemy_10001_trslim_2 | 精饲源石虫 | - | 丹精飼育オリジムシ |
+| enemy_10002_trtrsl | 浆果虫 | - | フルーツムシ |
+| enemy_10002_trtrsl_2 | 硕果虫 | - | 完熟フルーツムシ |
+| enemy_10003_trwlpl | 暴走食虫花 | - | 暴走食虫花 |
+| enemy_10003_trwlpl_2 | 暴走食人花 | - | 暴走食人花 |
+| enemy_10004_trdiam | 浆果磐蟹 | - | フルーツガニ |
+| enemy_10004_trdiam_2 | 硕果磐蟹 | - | 完熟フルーツガニ |
+| enemy_10005_trsmsb | 染污战士 | - | 汚染戦士 |
+| enemy_10005_trsmsb_2 | 染污勇士 | - | 汚染勇士 |
+| enemy_10006_trsmgi | 染秽魔像 | - | 汚穢ゴーレム |
+| enemy_10006_trsmgi_2 | 凶秽魔像 | - | 凶穢ゴーレム |
+| enemy_10007_trspsb | “酩酊” | - | 「メイテイ」 |
+| enemy_10007_trspsb_2 | 陶醉的“酩酊” | - | 陶酔する「メイテイ」 |
+| enemy_10008_trbbox | 宝箱恐鱼 | - | 宝箱恐魚 |
+| enemy_10008_trbbox_2 | 宝箱海怪 | - | 豪華宝箱恐魚 |
 | enemy_1000_gopro | 猎狗 | Hound | 猟犬 |
 | enemy_1000_gopro_2 | 猎狗pro | Hound Pro | 上級猟犬 |
 | enemy_1000_gopro_3 | 狂暴的猎狗pro | Rabid Hound Pro | 凶暴猟犬 |
@@ -1025,7 +1025,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1553_lrdead | 引火的死魂灵 | Kindling Revenant | 熾し火のレヴァナント |
 | enemy_1554_lrtsia | 特蕾西娅 | Theresa | Theresa |
 | enemy_1556_dsbish | 玛利图斯，“海嗣” | Mártus, 'Seaborn' | 「シーボーン」マルトゥス |
-| enemy_1557_trcerb | “三头犬” | - | - |
+| enemy_1557_trcerb | “三头犬” | - | 「ケルベロス」 |
 | enemy_1558_sgactr | 祖巴伊达姆，从往昔来 | Zubayidamu the Timeless | 「過去の使者」ズバイダム |
 | enemy_1559_vtlionk | 阿利斯泰尔，帝国余晖 | - | - |
 | enemy_1560_cnvlap | “狂欢之主” | - | - |
@@ -1196,9 +1196,9 @@ tip: 请善用浏览器的搜索功能
 | enemy_6022_m2cnt | “织郁伯爵” | 'Count Grimscore' | 「鬱織りの伯爵」 |
 | enemy_6023_crane | “贪婪捕手” | 'Greedy Catcher' | 「グリーディーキャッチャー」 |
 | enemy_6024_crnbug | “特别任性的生物” | 'Really Unruly Creature' | 「勝手気ままな生物」 |
-| enemy_6025_tinker | 怨恨祭坛 | - | - |
-| enemy_6026_techn | 巫术石球 | - | - |
-| enemy_6027_bqthie | 飞檐客-叶无轻 | - | - |
+| enemy_6025_tinker | 怨恨祭坛 | - | 怨恨の祭壇 |
+| enemy_6026_techn | 巫术石球 | - | 巫術の石球 |
+| enemy_6027_bqthie | 飞檐客-叶无轻 | - | 「飛侠」葉無軽 |
 | enemy_6028_cosgia | “高亢群歌” | - | - |
 | enemy_7001_blwzad | 部族巫术师 | Tribal Shaman | 部族呪術師 |
 | enemy_7001_blwzad_2 | 王酋巫术师 | Lord Ameer Shaman | 首長呪術師 |

@@ -142,6 +142,7 @@ tip: 请善用浏览器的搜索功能
 | _LINKAGE_23_1_1 | - | Sharpened By Flame | 炎に研がれし鋭刃 |
 | _LINKAGE_29_0_7 | - | Storm, Reinforce, Missions Cycle | 突破-補強-連続任務 |
 | _LINKAGE_29_0_9 | - | Attack - Defence - Tactical Collide | 進攻-防衛-戦術衝突 |
+| _LINKAGE_32_0_6 | - | - | テラ飯、ああ、テラ飯 |
 | _LINKAGE_9_2_1 | - | Attack - Defence - Tactical Collide | 進攻-防衛-戦術衝突 |
 | _NORM_0_1_2 | - | The Glory of SilverAsh | 銀灰色の栄光 |
 | _NORM_10_1_1 | - | Erg Passenger | 砂海の旅人 |

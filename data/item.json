@@ -765,6 +765,7 @@
     "zh_CN": "特勤专家寻访凭证"
   },
   "LINKAGE_TKT_GACHA_10_5401": {
+    "ja_JP": "食欲満開10回スカウト券",
     "zh_CN": "好好吃饭寻访凭证"
   },
   "LMTGS_COIN_1401": {
@@ -1496,6 +1497,7 @@
     "zh_CN": "流光之沙"
   },
   "act36side_token_recipe": {
+    "ja_JP": "今日の献立",
     "zh_CN": "今日食谱"
   },
   "act37side_token_nay": {
@@ -4428,15 +4430,19 @@
     "zh_CN": "衡沙的信物"
   },
   "p_char_4141_marcil": {
+    "ja_JP": "マルシルの印",
     "zh_CN": "玛露西尔的信物"
   },
   "p_char_4142_laios": {
+    "ja_JP": "ライオスの印",
     "zh_CN": "莱欧斯的信物"
   },
   "p_char_4143_sensi": {
+    "ja_JP": "センシの印",
     "zh_CN": "森西的信物"
   },
   "p_char_4144_chilc": {
+    "ja_JP": "チルチャックの印",
     "zh_CN": "齐尔查克的信物"
   },
   "p_char_4145_ulpia": {
