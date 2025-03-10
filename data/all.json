@@ -2328,6 +2328,7 @@
   "char_4141_marcil": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Marcille",
       "ja_JP": "マルシル",
       "zh_CN": "玛露西尔"
     }
@@ -2335,6 +2336,7 @@
   "char_4142_laios": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Laios",
       "ja_JP": "ライオス",
       "zh_CN": "莱欧斯"
     }
@@ -2342,6 +2344,7 @@
   "char_4143_sensi": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Senshi",
       "ja_JP": "センシ",
       "zh_CN": "森西"
     }
@@ -2349,6 +2352,7 @@
   "char_4144_chilc": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Chilchuck",
       "ja_JP": "チルチャック",
       "zh_CN": "齐尔查克"
     }
@@ -5094,6 +5098,7 @@
   "trap_171_trpot": {
     "type": "TRAP",
     "names": {
+      "en_US": "Really Big Pot",
       "ja_JP": "大鍋",
       "zh_CN": "很大的锅"
     }
@@ -5101,6 +5106,7 @@
   "trap_172_trbox": {
     "type": "TRAP",
     "names": {
+      "en_US": "'Treasure Chest'",
       "ja_JP": "「宝箱」",
       "zh_CN": "“宝箱”"
     }
@@ -5108,6 +5114,7 @@
   "trap_173_slfrut": {
     "type": "TRAP",
     "names": {
+      "en_US": "Shiny Berries",
       "ja_JP": "ピカピカフルーツ",
       "zh_CN": "闪亮果实"
     }
@@ -5115,6 +5122,7 @@
   "trap_174_smfrut": {
     "type": "TRAP",
     "names": {
+      "en_US": "Glooming Berry",
       "ja_JP": "変な黒いフルーツ",
       "zh_CN": "奇异黑光果实"
     }
@@ -5122,6 +5130,7 @@
   "trap_175_frfrut": {
     "type": "TRAP",
     "names": {
+      "en_US": "Roast Berry",
       "ja_JP": "あま焼きフルーツ",
       "zh_CN": "香甜烤果子"
     }
@@ -5129,6 +5138,7 @@
   "trap_176_frutwn": {
     "type": "TRAP",
     "names": {
+      "en_US": "Shiny Brew",
       "ja_JP": "フルーツのお酒",
       "zh_CN": "缤纷果酒"
     }
@@ -5136,6 +5146,7 @@
   "trap_177_tentcl": {
     "type": "TRAP",
     "names": {
+      "en_US": "Chest Limb?",
       "ja_JP": "宝箱のお肉？",
       "zh_CN": "宝箱的肉？"
     }
@@ -5143,6 +5154,7 @@
   "trap_178_trrbox": {
     "type": "TRAP",
     "names": {
+      "en_US": "'Treasure Chest'",
       "ja_JP": "「宝箱」",
       "zh_CN": "“宝箱”"
     }
@@ -6964,6 +6976,7 @@
   "char_1021_kroos2@game#3": {
     "type": "SKIN",
     "names": {
+      "en_US": "The Apprentice and Her Aura",
       "ja_JP": "ビギナーズラック",
       "zh_CN": "新手光环"
     }
@@ -8467,6 +8480,7 @@
   "char_306_leizi@game#3": {
     "type": "SKIN",
     "names": {
+      "en_US": "The Archivist and Her Pilgrimage",
       "ja_JP": "遺跡の遊学者",
       "zh_CN": "遗迹游学者"
     }
@@ -8900,6 +8914,7 @@
   "char_4009_irene@game#3": {
     "type": "SKIN",
     "names": {
+      "en_US": "The Adjudicatrix and Her Resolve",
       "ja_JP": "至高の判決",
       "zh_CN": "至高判决"
     }
@@ -9393,6 +9408,7 @@
   "char_4141_marcil@dungeon#1": {
     "type": "SKIN",
     "names": {
+      "en_US": "Terra & Traveller",
       "ja_JP": "テラの冒険者",
       "zh_CN": "泰拉冒险"
     }
@@ -10008,6 +10024,7 @@
   "enemy_10001_trslim": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Basic Slug",
       "ja_JP": "簡易飼育オリジムシ",
       "zh_CN": "简饲源石虫"
     }
@@ -10015,6 +10032,7 @@
   "enemy_10001_trslim_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Gourmet Slug",
       "ja_JP": "丹精飼育オリジムシ",
       "zh_CN": "精饲源石虫"
     }
@@ -10022,6 +10040,7 @@
   "enemy_10002_trtrsl": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Berry Slug",
       "ja_JP": "フルーツムシ",
       "zh_CN": "浆果虫"
     }
@@ -10029,6 +10048,7 @@
   "enemy_10002_trtrsl_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Fruit Slug",
       "ja_JP": "完熟フルーツムシ",
       "zh_CN": "硕果虫"
     }
@@ -10036,6 +10056,7 @@
   "enemy_10003_trwlpl": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Raging Slug Eater",
       "ja_JP": "暴走食虫花",
       "zh_CN": "暴走食虫花"
     }
@@ -10043,6 +10064,7 @@
   "enemy_10003_trwlpl_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Raging Man Eater",
       "ja_JP": "暴走食人花",
       "zh_CN": "暴走食人花"
     }
@@ -10050,6 +10072,7 @@
   "enemy_10004_trdiam": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Berry Metal Crab",
       "ja_JP": "フルーツガニ",
       "zh_CN": "浆果磐蟹"
     }
@@ -10057,6 +10080,7 @@
   "enemy_10004_trdiam_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Fruit Metal Crab",
       "ja_JP": "完熟フルーツガニ",
       "zh_CN": "硕果磐蟹"
     }
@@ -10064,6 +10088,7 @@
   "enemy_10005_trsmsb": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Corrupted Soldier",
       "ja_JP": "汚染戦士",
       "zh_CN": "染污战士"
     }
@@ -10071,6 +10096,7 @@
   "enemy_10005_trsmsb_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Corrupted Warrior",
       "ja_JP": "汚染勇士",
       "zh_CN": "染污勇士"
     }
@@ -10078,6 +10104,7 @@
   "enemy_10006_trsmgi": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Corrupted Golem",
       "ja_JP": "汚穢ゴーレム",
       "zh_CN": "染秽魔像"
     }
@@ -10085,6 +10112,7 @@
   "enemy_10006_trsmgi_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Warped Golem",
       "ja_JP": "凶穢ゴーレム",
       "zh_CN": "凶秽魔像"
     }
@@ -10092,6 +10120,7 @@
   "enemy_10007_trspsb": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Ink Brew'",
       "ja_JP": "「メイテイ」",
       "zh_CN": "“酩酊”"
     }
@@ -10099,6 +10128,7 @@
   "enemy_10007_trspsb_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Merry 'Ink Brew'",
       "ja_JP": "陶酔する「メイテイ」",
       "zh_CN": "陶醉的“酩酊”"
     }
@@ -10106,6 +10136,7 @@
   "enemy_10008_trbbox": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Sea Terror Chest",
       "ja_JP": "宝箱恐魚",
       "zh_CN": "宝箱恐鱼"
     }
@@ -10113,6 +10144,7 @@
   "enemy_10008_trbbox_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Sea Monster Chest",
       "ja_JP": "豪華宝箱恐魚",
       "zh_CN": "宝箱海怪"
     }
@@ -17954,6 +17986,7 @@
   "enemy_1557_trcerb": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Tri-Maw'",
       "ja_JP": "「ケルベロス」",
       "zh_CN": "“三头犬”"
     }
@@ -19279,6 +19312,7 @@
   "enemy_6025_tinker": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Altar of Hatred",
       "ja_JP": "怨恨の祭壇",
       "zh_CN": "怨恨祭坛"
     }
@@ -19286,6 +19320,7 @@
   "enemy_6026_techn": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Witchcraft Orb",
       "ja_JP": "巫術の石球",
       "zh_CN": "巫术石球"
     }
@@ -19293,6 +19328,7 @@
   "enemy_6027_bqthie": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Ye Wuqing, Rooftop Runner",
       "ja_JP": "「飛侠」葉無軽",
       "zh_CN": "飞檐客-叶无轻"
     }
@@ -20982,6 +21018,7 @@
   "act36side": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Delicious On Terra",
       "ja_JP": "テラ飯",
       "zh_CN": "泰拉饭"
     }
@@ -21153,6 +21190,7 @@
   "act42sign": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Have A Taste Of Terran Monsters",
       "ja_JP": "テラ魔物品評",
       "zh_CN": "品鉴泰拉魔物"
     }
@@ -21645,6 +21683,7 @@
   "laios": {
     "type": "TEAM",
     "names": {
+      "en_US": "Laios's Party",
       "ja_JP": "ライオスパーティー",
       "zh_CN": "莱欧斯小队"
     }
@@ -23080,6 +23119,7 @@
   "LINKAGE_TKT_GACHA_10_5401": {
     "type": "ITEM",
     "names": {
+      "en_US": "Have A Good Meal Headhunting Permit",
       "ja_JP": "食欲満開10回スカウト券",
       "zh_CN": "好好吃饭寻访凭证"
     }
@@ -24271,6 +24311,7 @@
   "act36side_token_recipe": {
     "type": "ITEM",
     "names": {
+      "en_US": "Daily Recipe",
       "ja_JP": "今日の献立",
       "zh_CN": "今日食谱"
     }
@@ -28998,6 +29039,7 @@
   "p_char_4141_marcil": {
     "type": "ITEM",
     "names": {
+      "en_US": "Marcille's Token",
       "ja_JP": "マルシルの印",
       "zh_CN": "玛露西尔的信物"
     }
@@ -29005,6 +29047,7 @@
   "p_char_4142_laios": {
     "type": "ITEM",
     "names": {
+      "en_US": "Laios' Token",
       "ja_JP": "ライオスの印",
       "zh_CN": "莱欧斯的信物"
     }
@@ -29012,6 +29055,7 @@
   "p_char_4143_sensi": {
     "type": "ITEM",
     "names": {
+      "en_US": "Senshi's Token",
       "ja_JP": "センシの印",
       "zh_CN": "森西的信物"
     }
@@ -29019,6 +29063,7 @@
   "p_char_4144_chilc": {
     "type": "ITEM",
     "names": {
+      "en_US": "Chilchuck's Token",
       "ja_JP": "チルチャックの印",
       "zh_CN": "齐尔查克的信物"
     }
@@ -32301,6 +32346,7 @@
   "_LINKAGE_32_0_6": {
     "type": "POOL",
     "names": {
+      "en_US": "Terran Food, Ah, Terran Food",
       "ja_JP": "テラ飯、ああ、テラ飯"
     }
   },
@@ -34168,6 +34214,7 @@
   "skchr_chilc_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Lockpicks",
       "ja_JP": "ピッキングツール",
       "zh_CN": "开锁工具"
     }
@@ -34175,6 +34222,7 @@
   "skchr_chilc_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Improvisation",
       "ja_JP": "臨機応変",
       "zh_CN": "随机应变"
     }
@@ -35854,6 +35902,7 @@
   "skchr_laios_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Cowardly Kensuke",
       "ja_JP": "臆病なケン助",
       "zh_CN": "胆小剑助"
     }
@@ -35861,6 +35910,7 @@
   "skchr_laios_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Intimidation Tactics",
       "ja_JP": "威嚇戦法",
       "zh_CN": "威吓战法"
     }
@@ -36180,6 +36230,7 @@
   "skchr_marcil_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "A Top Student's Abilities",
       "ja_JP": "才女の実力",
       "zh_CN": "才女的实力"
     }
@@ -36187,6 +36238,7 @@
   "skchr_marcil_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Summon Familiar",
       "ja_JP": "使い魔召喚",
       "zh_CN": "召唤使魔"
     }
@@ -36194,6 +36246,7 @@
   "skchr_marcil_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Explosion Magic",
       "ja_JP": "爆破魔法",
       "zh_CN": "爆破魔法"
     }
@@ -37375,6 +37428,7 @@
   "skchr_sensi_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "A Meal For One",
       "ja_JP": "一人分の料理",
       "zh_CN": "单人份料理"
     }
@@ -37382,6 +37436,7 @@
   "skchr_sensi_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Monster Meals For Many",
       "ja_JP": "宴会用魔物料理",
       "zh_CN": "团体魔物大餐"
     }
@@ -42033,6 +42088,7 @@
   "sktok_trbox_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Open It Up!",
       "ja_JP": "中身はなにかな？",
       "zh_CN": "开箱！"
     }
@@ -42048,6 +42104,7 @@
   "sktok_trpot_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Food's Ready!",
       "ja_JP": "飯の時間だ！",
       "zh_CN": "开饭！"
     }
@@ -42055,6 +42112,7 @@
   "sktok_trrbox_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Open It Up!",
       "ja_JP": "中身はなにかな？",
       "zh_CN": "开箱！"
     }
@@ -48402,6 +48460,7 @@
   "act36side_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Originium Slug Ranch",
       "ja_JP": "オリジムシの田舎風",
       "zh_CN": "源石虫农家乐"
     }
@@ -48409,6 +48468,7 @@
   "act36side_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Jungle Detox Stew",
       "ja_JP": "密林解毒スープ",
       "zh_CN": "雨林解毒炖汤"
     }
@@ -48416,6 +48476,7 @@
   "act36side_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Golden Carrot",
       "ja_JP": "黄金ニンジン",
       "zh_CN": "黄金萝卜"
     }
@@ -48423,6 +48484,7 @@
   "act36side_04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Kebab & Prophecy",
       "ja_JP": "串焼きと予言",
       "zh_CN": "烤串与预言"
     }
@@ -48430,6 +48492,7 @@
   "act36side_05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Tipsy Merriment",
       "ja_JP": "饗宴の図",
       "zh_CN": "会饮图"
     }
@@ -48437,6 +48500,7 @@
   "act36side_06": {
     "type": "STAGE",
     "names": {
+      "en_US": "Seafood Platter",
       "ja_JP": "海鮮盛り",
       "zh_CN": "海鲜拼盘"
     }
@@ -48444,6 +48508,7 @@
   "act36side_07": {
     "type": "STAGE",
     "names": {
+      "en_US": "Healthy Snacks",
       "ja_JP": "ヘルシースナック",
       "zh_CN": "健康零食"
     }
@@ -48451,6 +48516,7 @@
   "act36side_08": {
     "type": "STAGE",
     "names": {
+      "en_US": "Rhodes Island Cafeteria",
       "ja_JP": "ロドス大食堂",
       "zh_CN": "罗德岛大食堂"
     }
@@ -48458,6 +48524,7 @@
   "act36side_tr01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Gourmet Guide",
       "ja_JP": "グルメガイド",
       "zh_CN": "美食指南"
     }
@@ -50769,6 +50836,7 @@
   "lt_15_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Casters' Charge",
       "ja_JP": "突撃のアーツ",
       "zh_CN": "术法冲锋"
     }
@@ -50776,6 +50844,7 @@
   "lt_15_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Glory and Honor",
       "ja_JP": "精鋭と栄光",
       "zh_CN": "精锐与光荣"
     }
@@ -50783,6 +50852,7 @@
   "lt_15_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Main Attack Channel",
       "ja_JP": "行軍主要ルート",
       "zh_CN": "主要推进通道"
     }
@@ -50790,6 +50860,7 @@
   "lt_15_04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Massive Swarm",
       "ja_JP": "押し寄せる虫の大群",
       "zh_CN": "虫潮涌流"
     }
@@ -50797,6 +50868,7 @@
   "lt_15_05": {
     "type": "STAGE",
     "names": {
+      "en_US": "The Advance of the Flesh",
       "ja_JP": "長駆する血肉",
       "zh_CN": "血肉长驱"
     }
@@ -50804,6 +50876,7 @@
   "lt_15_06": {
     "type": "STAGE",
     "names": {
+      "en_US": "Oblivion and Outcry",
       "ja_JP": "忘却と他言",
       "zh_CN": "遗忘与声张"
     }
@@ -50811,6 +50884,7 @@
   "lt_16_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Blinders",
       "ja_JP": "目を覆えば",
       "zh_CN": "障目"
     }
@@ -50818,6 +50892,7 @@
   "lt_16_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Mountainous Maze",
       "ja_JP": "山を見ず",
       "zh_CN": "迷山"
     }
@@ -50825,6 +50900,7 @@
   "lt_16_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Another Town",
       "ja_JP": "客地にて",
       "zh_CN": "他乡"
     }
@@ -50832,6 +50908,7 @@
   "lt_16_04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Season's End",
       "ja_JP": "季節が去る",
       "zh_CN": "节尽"
     }
@@ -50839,6 +50916,7 @@
   "lt_16_05": {
     "type": "STAGE",
     "names": {
+      "en_US": "The Windy Grove",
       "ja_JP": "秋風の林に栖めば",
       "zh_CN": "风林栖"
     }
@@ -50846,6 +50924,7 @@
   "lt_16_06": {
     "type": "STAGE",
     "names": {
+      "en_US": "Do Not Follow Tracks",
       "ja_JP": "去る者追わず",
       "zh_CN": "莫寻迹"
     }
@@ -55161,6 +55240,7 @@
   "act36side_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Monster Gourmand",
       "ja_JP": "魔物食を味わう",
       "zh_CN": "品尝魔物"
     }
@@ -55168,6 +55248,7 @@
   "act36side_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Culinary Venture On Terra",
       "ja_JP": "テラを旅する",
       "zh_CN": "走遍泰拉"
     }
@@ -56533,6 +56614,7 @@
   "story_blackd_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Silverash's Shadow",
       "ja_JP": "シルバーアッシュの影",
       "zh_CN": "希瓦艾什的影子"
     }
@@ -57132,6 +57214,7 @@
   "story_gdglow_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "A Complete Surprise",
       "ja_JP": "思いがけない出来事",
       "zh_CN": "纯属意外"
     }
@@ -57753,6 +57836,7 @@
   "story_mitm_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Written in Black and White",
       "ja_JP": "書き記されたもの",
       "zh_CN": "白纸黑字"
     }
@@ -58734,6 +58818,7 @@
   "story_zumama_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Jungle Fantasy",
       "ja_JP": "ジャングル・ファンタジア",
       "zh_CN": "密林狂想"
     }

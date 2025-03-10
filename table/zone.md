@@ -173,8 +173,8 @@ tip: 请善用浏览器的搜索功能
 | act35side_zone1 | 市民花园 | Citizen's Garden | 市民庭園 |
 | act35side_zone2 | 丰获集会 | Harvest Gathering | 豊穣祭 |
 | act35side_zone3 | 藏珍宝库 | Treasure House | 宝物庫 |
-| act36side_zone1 | 品尝魔物 | - | 魔物食を味わう |
-| act36side_zone2 | 走遍泰拉 | - | テラを旅する |
+| act36side_zone1 | 品尝魔物 | Monster Gourmand | 魔物食を味わう |
+| act36side_zone2 | 走遍泰拉 | Culinary Venture On Terra | テラを旅する |
 | act37side_zone1 | 无名之勋 | - | - |
 | act37side_zone2 | 未了往昔 | - | - |
 | act38side_zone1 | 四幕汇演 | - | - |

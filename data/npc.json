@@ -817,6 +817,9 @@
     ]
   },
   "avg_2013_cerber_1": {
+    "en_US": [
+      "Ceobe"
+    ],
     "ja_JP": [
       "ケオベ"
     ],
@@ -1195,7 +1198,8 @@
   },
   "avg_264_f12yin_1": {
     "en_US": [
-      "Anthony"
+      "Anthony",
+      "Mountain"
     ],
     "ja_JP": [
       "アンソニー",
@@ -2536,6 +2540,10 @@
     ]
   },
   "avg_4141_marcil_1": {
+    "en_US": [
+      "Chilchuck & Marcille",
+      "Marcille"
+    ],
     "ja_JP": [
       "マルシル",
       "二人"
@@ -2546,6 +2554,12 @@
     ]
   },
   "avg_4142_laios_1": {
+    "en_US": [
+      "Chilchuck & Laios",
+      "Laios",
+      "Laios (Familiar Ver.)",
+      "Senshi & Laios"
+    ],
     "ja_JP": [
       "センシ&ライオス",
       "ライオス",
@@ -2560,6 +2574,9 @@
     ]
   },
   "avg_4143_sensi_1": {
+    "en_US": [
+      "Senshi"
+    ],
     "ja_JP": [
       "センシ"
     ],
@@ -2568,6 +2585,9 @@
     ]
   },
   "avg_4144_chilc_1": {
+    "en_US": [
+      "Chilchuck"
+    ],
     "ja_JP": [
       "チルチャック"
     ],
@@ -2606,7 +2626,8 @@
   "avg_4147_mitm_1": {
     "en_US": [
       "Leisurely Passerby",
-      "Pohl"
+      "Pohl",
+      "Questionable Man"
     ],
     "ja_JP": [
       "のんびりした通行人",
@@ -2653,6 +2674,9 @@
     ]
   },
   "avg_416_zumama_1": {
+    "en_US": [
+      "Eunectes"
+    ],
     "ja_JP": [
       "ユーネクテス"
     ],
@@ -3933,7 +3957,10 @@
   "avg_npc_010": {
     "en_US": [
       "Big Bob",
-      "Big Bob."
+      "Big Bob.",
+      "Not-So-Scary Orc",
+      "Scary Orc",
+      "Scary Orc?"
     ],
     "ja_JP": [
       "ビッグ・ボブ",
@@ -4527,6 +4554,7 @@
       "Female Resident",
       "Female Tourist",
       "Girl",
+      "Overfamiliar Woman",
       "Passerby Diner",
       "Passerby Girl",
       "Passing Traveler",
@@ -5508,6 +5536,7 @@
   },
   "avg_npc_068": {
     "en_US": [
+      "Barkeep",
       "Councilor",
       "Grocer",
       "Guide",
@@ -5590,10 +5619,13 @@
       "Archosauria Champion",
       "Archosauria D",
       "Aruna",
+      "Bright Archosauria",
+      "Bright Gator-headed Beast-man",
       "Clan Leader B",
       "Coin Dealer",
       "Courageous Archosauria",
       "Fighting Villager",
+      "Gator-headed Beast-man",
       "Groaning Archosauria",
       "Happy Archosauria",
       "Peta",
@@ -6175,10 +6207,13 @@
       "Panicked Rhodes Island Operator",
       "Piston",
       "Reserve Operator",
+      "Rhodes Island Field Operator",
       "Rhodes Island Field Operator A",
       "Rhodes Island Field Operator B",
       "Rhodes Island Operator",
-      "Serious Operator"
+      "Ryan",
+      "Serious Operator",
+      "Vanguard Operator"
     ],
     "ja_JP": [
       "ウィル",
@@ -7559,7 +7594,8 @@
       "Hard-Working Miner",
       "Infected Worker",
       "Mine Captain",
-      "Worker 'Brake'"
+      "Worker 'Brake'",
+      "Worker A"
     ],
     "ja_JP": [
       "「ブレーキ」",
@@ -7582,7 +7618,8 @@
       "Somewhat Familiar Woman",
       "Strange Lady",
       "Weary Miner",
-      "Worker 'Motor'"
+      "Worker 'Motor'",
+      "Worker B"
     ],
     "ja_JP": [
       "「モーター」",
@@ -8182,7 +8219,8 @@
   },
   "avg_npc_1256_1": {
     "en_US": [
-      "Bejeweled Man"
+      "Bejeweled Man",
+      "Factory Director"
     ],
     "ja_JP": [
       "工場長",
@@ -9255,6 +9293,7 @@
       "Stonemason",
       "Street Stall Owner",
       "Terrified Farmer",
+      "Townsfolk",
       "Vigilant Villager",
       "Villager",
       "Villager B"
@@ -9384,6 +9423,9 @@
     ]
   },
   "avg_npc_1422_1": {
+    "en_US": [
+      "'Bitey'"
+    ],
     "ja_JP": [
       "クヒツム"
     ],
@@ -9392,6 +9434,9 @@
     ]
   },
   "avg_npc_1424_1": {
+    "en_US": [
+      "Ceobe?"
+    ],
     "ja_JP": [
       "ケオベ？"
     ],
@@ -9400,6 +9445,10 @@
     ]
   },
   "avg_npc_1425_1": {
+    "en_US": [
+      "'Lazy'",
+      "Relaxed Ink Spirit"
+    ],
     "ja_JP": [
       "のんびりした墨魎",
       "ヤマツミ"
@@ -9410,6 +9459,10 @@
     ]
   },
   "avg_npc_1426_1": {
+    "en_US": [
+      "Chest",
+      "Chest?"
+    ],
     "ja_JP": [
       "箱",
       "箱？"
@@ -9420,6 +9473,11 @@
     ]
   },
   "avg_npc_1427_1": {
+    "en_US": [
+      "'Angry'",
+      "Ink Spirit",
+      "Lively Ink Spirit"
+    ],
     "ja_JP": [
       "ヨツアシ",
       "墨魎",
@@ -9432,6 +9490,9 @@
     ]
   },
   "avg_npc_1429_1": {
+    "en_US": [
+      "High Priest"
+    ],
     "ja_JP": [
       "大祭司"
     ],
@@ -9441,10 +9502,13 @@
   },
   "avg_npc_143": {
     "en_US": [
+      "'Bitey'",
       "'Free'",
       "Bitey",
       "Bitey & Bitey?",
+      "Gormless Ink Spirit",
       "Ink Spirit",
+      "Ink Spirits",
       "Strange Creature"
     ],
     "ja_JP": [
@@ -9550,6 +9614,7 @@
   "avg_npc_1457_1": {
     "en_US": [
       "Cherie",
+      "Clever Girl",
       "Furnaceside Kid"
     ],
     "ja_JP": [
@@ -11122,7 +11187,9 @@
     "en_US": [
       "Male Inhabitant B",
       "Male Monastery Inhabitant",
-      "Panicked Inhabitant"
+      "Male Resident",
+      "Panicked Inhabitant",
+      "Townsfolk A"
     ],
     "ja_JP": [
       "うろたえる住民",
@@ -11157,7 +11224,8 @@
   "avg_npc_189": {
     "en_US": [
       "Male Inhabitant D",
-      "Monastery Inhabitant"
+      "Monastery Inhabitant",
+      "Townsfolk B"
     ],
     "ja_JP": [
       "住民B",
@@ -11911,6 +11979,7 @@
       "Bored Bank Employee",
       "Boy",
       "Branch Office Manager",
+      "City Council Administrator",
       "City Hall Staffer",
       "Galería Staff Worker",
       "Government Official",
@@ -12282,6 +12351,7 @@
       "Cruise Jr.",
       "Embittered Man",
       "Excited Taran Refugee",
+      "Factory Owner",
       "Frightened Youth",
       "Gangster A",
       "Gentleman",
@@ -12300,6 +12370,7 @@
       "Panicked Youth",
       "Placid Photographer",
       "Restless Youth",
+      "Suspicious Man",
       "Taran Citizen",
       "Taran Refugee",
       "Tempersome Taran Refugee",
@@ -12784,6 +12855,7 @@
     "en_US": [
       "Hospitable Villager",
       "Kjerag Noble",
+      "Old Noble",
       "Teacher"
     ],
     "ja_JP": [
@@ -13086,6 +13158,7 @@
   },
   "avg_npc_283_1": {
     "en_US": [
+      "Agile Kjerag Warrior",
       "Browntail Clan Warrior",
       "Browntail Clan Warrior B",
       "Guard?",
@@ -13136,7 +13209,8 @@
       "Kjerag Warriors",
       "Nosy Soldier",
       "Paleroche Clan Warrior",
-      "Silverash Clan Warrior D"
+      "Silverash Clan Warrior D",
+      "Warriors"
     ],
     "ja_JP": [
       "おせっかいな戦士",
@@ -15628,6 +15702,7 @@
       "Blacksteel Clerk",
       "Cheery Woman",
       "Excited Tourist",
+      "Finance",
       "Impatient Reporter",
       "Nervous Entrepreneur",
       "Reporter",
@@ -15859,6 +15934,8 @@
       "Homeless Resident",
       "Ordinary citizens?",
       "Pioneer",
+      "Pioneer A",
+      "Pioneer B",
       "Pioneer Team Member",
       "Rhine Lab Task Force Messenger",
       "Scarred Pioneer",
@@ -16245,7 +16322,9 @@
   "avg_npc_576_1": {
     "en_US": [
       "Strange Machine",
-      "Strange Machine #0429"
+      "Strange Machine #0429",
+      "Strange Machine A",
+      "Strange Machine B"
     ],
     "ja_JP": [
       "奇怪なロボ0429",
@@ -17063,6 +17142,7 @@
   "avg_npc_701_1": {
     "en_US": [
       "Energetic Technician",
+      "Meticulous Man",
       "Sad Man"
     ],
     "ja_JP": [
@@ -17181,6 +17261,7 @@
       "Cruise Jr.",
       "Injured Refugee",
       "Maimed Citizen",
+      "Tear-Streaked Passerby",
       "Wounded Taran"
     ],
     "ja_JP": [
@@ -18266,6 +18347,7 @@
       "Astute Sarkaz",
       "Bean Sprout",
       "Cautious Sarkaz Inhabitant",
+      "Dejected Man",
       "Dying Infected",
       "Gaunt Sarkaz",
       "Guitar-Playing Singer",
@@ -18321,6 +18403,7 @@
   },
   "avg_npc_933_1": {
     "en_US": [
+      "Angry Gang Leader",
       "Broken Horn Boss",
       "Brooding Sarkaz",
       "Cautious Civilian",
@@ -18351,9 +18434,11 @@
   "avg_npc_934_1": {
     "en_US": [
       "Angry Civilian",
+      "Brooding Gang Leader",
       "Concerned Sarkaz",
       "Excited Sarkaz",
       "Frightened Sarkaz",
+      "Gang Leaders",
       "Kazdelian Outskirter B",
       "Monastery Inhabitant",
       "Sarkaz Hunter",
@@ -18656,6 +18741,9 @@
     ]
   },
   "avg_npc_971_1": {
+    "en_US": [
+      "Curious Operator C"
+    ],
     "ja_JP": [
       "興味津々な人々C"
     ],
@@ -18665,6 +18753,7 @@
   },
   "avg_npc_972_1": {
     "en_US": [
+      "Curious Operator B",
       "Fallon",
       "Flustered HR Operator",
       "HR Operator",
@@ -18699,6 +18788,7 @@
   },
   "avg_npc_973_1": {
     "en_US": [
+      "Curious Operator A",
       "HR Operator",
       "Intern Operator",
       "Logistics Operator",

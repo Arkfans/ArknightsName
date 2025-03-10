@@ -754,10 +754,12 @@
     "zh_CN": "火焰剥离"
   },
   "skchr_chilc_1": {
+    "en_US": "Lockpicks",
     "ja_JP": "ピッキングツール",
     "zh_CN": "开锁工具"
   },
   "skchr_chilc_2": {
+    "en_US": "Improvisation",
     "ja_JP": "臨機応変",
     "zh_CN": "随机应变"
   },
@@ -1801,10 +1803,12 @@
     "zh_CN": "二连射·自动"
   },
   "skchr_laios_1": {
+    "en_US": "Cowardly Kensuke",
     "ja_JP": "臆病なケン助",
     "zh_CN": "胆小剑助"
   },
   "skchr_laios_2": {
+    "en_US": "Intimidation Tactics",
     "ja_JP": "威嚇戦法",
     "zh_CN": "威吓战法"
   },
@@ -2004,14 +2008,17 @@
     "zh_CN": "蓄力毒尾击"
   },
   "skchr_marcil_1": {
+    "en_US": "A Top Student's Abilities",
     "ja_JP": "才女の実力",
     "zh_CN": "才女的实力"
   },
   "skchr_marcil_2": {
+    "en_US": "Summon Familiar",
     "ja_JP": "使い魔召喚",
     "zh_CN": "召唤使魔"
   },
   "skchr_marcil_3": {
+    "en_US": "Explosion Magic",
     "ja_JP": "爆破魔法",
     "zh_CN": "爆破魔法"
   },
@@ -2743,10 +2750,12 @@
     "zh_CN": "生灵火花"
   },
   "skchr_sensi_1": {
+    "en_US": "A Meal For One",
     "ja_JP": "一人分の料理",
     "zh_CN": "单人份料理"
   },
   "skchr_sensi_2": {
+    "en_US": "Monster Meals For Many",
     "ja_JP": "宴会用魔物料理",
     "zh_CN": "团体魔物大餐"
   },
@@ -5541,6 +5550,7 @@
     "zh_CN": "触发对话"
   },
   "sktok_trbox_1": {
+    "en_US": "Open It Up!",
     "ja_JP": "中身はなにかな？",
     "zh_CN": "开箱！"
   },
@@ -5550,10 +5560,12 @@
     "zh_CN": "天然隐蔽"
   },
   "sktok_trpot_1": {
+    "en_US": "Food's Ready!",
     "ja_JP": "飯の時間だ！",
     "zh_CN": "开饭！"
   },
   "sktok_trrbox_1": {
+    "en_US": "Open It Up!",
     "ja_JP": "中身はなにかな？",
     "zh_CN": "开箱！"
   },

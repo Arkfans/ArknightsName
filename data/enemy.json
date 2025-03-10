@@ -1,65 +1,81 @@
 {
   "enemy_10001_trslim": {
+    "en_US": "Basic Slug",
     "ja_JP": "簡易飼育オリジムシ",
     "zh_CN": "简饲源石虫"
   },
   "enemy_10001_trslim_2": {
+    "en_US": "Gourmet Slug",
     "ja_JP": "丹精飼育オリジムシ",
     "zh_CN": "精饲源石虫"
   },
   "enemy_10002_trtrsl": {
+    "en_US": "Berry Slug",
     "ja_JP": "フルーツムシ",
     "zh_CN": "浆果虫"
   },
   "enemy_10002_trtrsl_2": {
+    "en_US": "Fruit Slug",
     "ja_JP": "完熟フルーツムシ",
     "zh_CN": "硕果虫"
   },
   "enemy_10003_trwlpl": {
+    "en_US": "Raging Slug Eater",
     "ja_JP": "暴走食虫花",
     "zh_CN": "暴走食虫花"
   },
   "enemy_10003_trwlpl_2": {
+    "en_US": "Raging Man Eater",
     "ja_JP": "暴走食人花",
     "zh_CN": "暴走食人花"
   },
   "enemy_10004_trdiam": {
+    "en_US": "Berry Metal Crab",
     "ja_JP": "フルーツガニ",
     "zh_CN": "浆果磐蟹"
   },
   "enemy_10004_trdiam_2": {
+    "en_US": "Fruit Metal Crab",
     "ja_JP": "完熟フルーツガニ",
     "zh_CN": "硕果磐蟹"
   },
   "enemy_10005_trsmsb": {
+    "en_US": "Corrupted Soldier",
     "ja_JP": "汚染戦士",
     "zh_CN": "染污战士"
   },
   "enemy_10005_trsmsb_2": {
+    "en_US": "Corrupted Warrior",
     "ja_JP": "汚染勇士",
     "zh_CN": "染污勇士"
   },
   "enemy_10006_trsmgi": {
+    "en_US": "Corrupted Golem",
     "ja_JP": "汚穢ゴーレム",
     "zh_CN": "染秽魔像"
   },
   "enemy_10006_trsmgi_2": {
+    "en_US": "Warped Golem",
     "ja_JP": "凶穢ゴーレム",
     "zh_CN": "凶秽魔像"
   },
   "enemy_10007_trspsb": {
+    "en_US": "'Ink Brew'",
     "ja_JP": "「メイテイ」",
     "zh_CN": "“酩酊”"
   },
   "enemy_10007_trspsb_2": {
+    "en_US": "Merry 'Ink Brew'",
     "ja_JP": "陶酔する「メイテイ」",
     "zh_CN": "陶醉的“酩酊”"
   },
   "enemy_10008_trbbox": {
+    "en_US": "Sea Terror Chest",
     "ja_JP": "宝箱恐魚",
     "zh_CN": "宝箱恐鱼"
   },
   "enemy_10008_trbbox_2": {
+    "en_US": "Sea Monster Chest",
     "ja_JP": "豪華宝箱恐魚",
     "zh_CN": "宝箱海怪"
   },
@@ -4892,6 +4908,7 @@
     "zh_CN": "玛利图斯，“海嗣”"
   },
   "enemy_1557_trcerb": {
+    "en_US": "'Tri-Maw'",
     "ja_JP": "「ケルベロス」",
     "zh_CN": "“三头犬”"
   },
@@ -5704,14 +5721,17 @@
     "zh_CN": "“特别任性的生物”"
   },
   "enemy_6025_tinker": {
+    "en_US": "Altar of Hatred",
     "ja_JP": "怨恨の祭壇",
     "zh_CN": "怨恨祭坛"
   },
   "enemy_6026_techn": {
+    "en_US": "Witchcraft Orb",
     "ja_JP": "巫術の石球",
     "zh_CN": "巫术石球"
   },
   "enemy_6027_bqthie": {
+    "en_US": "Ye Wuqing, Rooftop Runner",
     "ja_JP": "「飛侠」葉無軽",
     "zh_CN": "飞檐客-叶无轻"
   },

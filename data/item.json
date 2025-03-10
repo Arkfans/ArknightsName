@@ -765,6 +765,7 @@
     "zh_CN": "特勤专家寻访凭证"
   },
   "LINKAGE_TKT_GACHA_10_5401": {
+    "en_US": "Have A Good Meal Headhunting Permit",
     "ja_JP": "食欲満開10回スカウト券",
     "zh_CN": "好好吃饭寻访凭证"
   },
@@ -1497,6 +1498,7 @@
     "zh_CN": "流光之沙"
   },
   "act36side_token_recipe": {
+    "en_US": "Daily Recipe",
     "ja_JP": "今日の献立",
     "zh_CN": "今日食谱"
   },
@@ -4430,18 +4432,22 @@
     "zh_CN": "衡沙的信物"
   },
   "p_char_4141_marcil": {
+    "en_US": "Marcille's Token",
     "ja_JP": "マルシルの印",
     "zh_CN": "玛露西尔的信物"
   },
   "p_char_4142_laios": {
+    "en_US": "Laios' Token",
     "ja_JP": "ライオスの印",
     "zh_CN": "莱欧斯的信物"
   },
   "p_char_4143_sensi": {
+    "en_US": "Senshi's Token",
     "ja_JP": "センシの印",
     "zh_CN": "森西的信物"
   },
   "p_char_4144_chilc": {
+    "en_US": "Chilchuck's Token",
     "ja_JP": "チルチャックの印",
     "zh_CN": "齐尔查克的信物"
   },

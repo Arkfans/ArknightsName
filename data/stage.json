@@ -3414,38 +3414,47 @@
     "zh_CN": "护卫队演练"
   },
   "act36side_01": {
+    "en_US": "Originium Slug Ranch",
     "ja_JP": "オリジムシの田舎風",
     "zh_CN": "源石虫农家乐"
   },
   "act36side_02": {
+    "en_US": "Jungle Detox Stew",
     "ja_JP": "密林解毒スープ",
     "zh_CN": "雨林解毒炖汤"
   },
   "act36side_03": {
+    "en_US": "Golden Carrot",
     "ja_JP": "黄金ニンジン",
     "zh_CN": "黄金萝卜"
   },
   "act36side_04": {
+    "en_US": "Kebab & Prophecy",
     "ja_JP": "串焼きと予言",
     "zh_CN": "烤串与预言"
   },
   "act36side_05": {
+    "en_US": "Tipsy Merriment",
     "ja_JP": "饗宴の図",
     "zh_CN": "会饮图"
   },
   "act36side_06": {
+    "en_US": "Seafood Platter",
     "ja_JP": "海鮮盛り",
     "zh_CN": "海鲜拼盘"
   },
   "act36side_07": {
+    "en_US": "Healthy Snacks",
     "ja_JP": "ヘルシースナック",
     "zh_CN": "健康零食"
   },
   "act36side_08": {
+    "en_US": "Rhodes Island Cafeteria",
     "ja_JP": "ロドス大食堂",
     "zh_CN": "罗德岛大食堂"
   },
   "act36side_tr01": {
+    "en_US": "Gourmet Guide",
     "ja_JP": "グルメガイド",
     "zh_CN": "美食指南"
   },
@@ -4830,50 +4839,62 @@
     "zh_CN": "尽入囊中"
   },
   "lt_15_01": {
+    "en_US": "Casters' Charge",
     "ja_JP": "突撃のアーツ",
     "zh_CN": "术法冲锋"
   },
   "lt_15_02": {
+    "en_US": "Glory and Honor",
     "ja_JP": "精鋭と栄光",
     "zh_CN": "精锐与光荣"
   },
   "lt_15_03": {
+    "en_US": "Main Attack Channel",
     "ja_JP": "行軍主要ルート",
     "zh_CN": "主要推进通道"
   },
   "lt_15_04": {
+    "en_US": "Massive Swarm",
     "ja_JP": "押し寄せる虫の大群",
     "zh_CN": "虫潮涌流"
   },
   "lt_15_05": {
+    "en_US": "The Advance of the Flesh",
     "ja_JP": "長駆する血肉",
     "zh_CN": "血肉长驱"
   },
   "lt_15_06": {
+    "en_US": "Oblivion and Outcry",
     "ja_JP": "忘却と他言",
     "zh_CN": "遗忘与声张"
   },
   "lt_16_01": {
+    "en_US": "Blinders",
     "ja_JP": "目を覆えば",
     "zh_CN": "障目"
   },
   "lt_16_02": {
+    "en_US": "Mountainous Maze",
     "ja_JP": "山を見ず",
     "zh_CN": "迷山"
   },
   "lt_16_03": {
+    "en_US": "Another Town",
     "ja_JP": "客地にて",
     "zh_CN": "他乡"
   },
   "lt_16_04": {
+    "en_US": "Season's End",
     "ja_JP": "季節が去る",
     "zh_CN": "节尽"
   },
   "lt_16_05": {
+    "en_US": "The Windy Grove",
     "ja_JP": "秋風の林に栖めば",
     "zh_CN": "风林栖"
   },
   "lt_16_06": {
+    "en_US": "Do Not Follow Tracks",
     "ja_JP": "去る者追わず",
     "zh_CN": "莫寻迹"
   },

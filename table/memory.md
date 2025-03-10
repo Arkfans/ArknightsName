@@ -40,7 +40,7 @@ tip: 请善用浏览器的搜索功能
 | story_bibeak_set_2_story_1 | 走出那条长长的走廊 | Through the Long Hallway | 長い廊下を抜けて |
 | story_billro_set_1_story_1 | 保护者的本性 | Protector's Nature | 保護者の本能 |
 | story_bison_set_1_story_1 | 充实的假期 | A Fulfilling Holiday | 充実した休み |
-| story_blackd_set_1_story_1 | 希瓦艾什的影子 | - | シルバーアッシュの影 |
+| story_blackd_set_1_story_1 | 希瓦艾什的影子 | Silverash's Shadow | シルバーアッシュの影 |
 | story_blackd_set_2_story_1 | 健步如飞 | - | - |
 | story_bldsk_set_1_story_1 | 怪物 | 'Monster' | モンスター |
 | story_bldsk_set_2_story_1 | 难得认真 | Rarely Serious | たまには真剣に |
@@ -116,7 +116,7 @@ tip: 请善用浏览器的搜索功能
 | story_frncat_set_1_story_1 | 小点心 | Sweetheart | マイスウィーティ |
 | story_frostl_set_1_story_1 | 识字本 | Learning to Read | 学習帳 |
 | story_fuze_set_1_story_1 | 梦醒时分 | Waking From A Dream | 夢から覚めた時 |
-| story_gdglow_set_1_story_1 | 纯属意外 | - | 思いがけない出来事 |
+| story_gdglow_set_1_story_1 | 纯属意外 | A Complete Surprise | 思いがけない出来事 |
 | story_ghost2_set_1_story_1 | 自我 | Selfhood | 自分 |
 | story_ghost_set_1_story_1 | 圣诞快乐！ | Merry Christmas! | メリークリスマス！ |
 | story_ghost_set_2_story_1 | 我，即是“我” | I, Namely I | 私は「私」 |
@@ -195,7 +195,7 @@ tip: 请善用浏览器的搜索功能
 | story_midn_set_1_story_1 | 一封家书 | Letter From Home | 故郷からの便り |
 | story_milu_set_1_story_1 | 在路上 | On My Way | 途上 |
 | story_mint_set_1_story_1 | 昔日重现 | Yesterday Once More | デジャヴ |
-| story_mitm_set_1_story_1 | 白纸黑字 | - | 書き記されたもの |
+| story_mitm_set_1_story_1 | 白纸黑字 | Written in Black and White | 書き記されたもの |
 | story_mizuki_set_1_story_1 | 第五类接触 | The Fifth Contact | 第五種接近遭遇 |
 | story_mlyss_set_1_story_1 | 无根之雨 | April Showers | 根なしの雨 |
 | story_mm_set_1_story_1 | 大侦探探案集·卷一 | The Great Detective's Case Files - Volume I | 名探偵の事件簿・其の一 |
@@ -320,4 +320,4 @@ tip: 请善用浏览器的搜索功能
 | story_yu_set_1_story_1 | 百年一日 | - | - |
 | story_yuki_set_1_story_1 | 忍者之道 | The Way of Shinobi | 忍びの道 |
 | story_zebra_set_1_story_1 | 不合时宜 | Untimeliness | 場違い |
-| story_zumama_set_1_story_1 | 密林狂想 | - | ジャングル・ファンタジア |
+| story_zumama_set_1_story_1 | 密林狂想 | Jungle Fantasy | ジャングル・ファンタジア |

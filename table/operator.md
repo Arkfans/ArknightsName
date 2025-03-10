@@ -298,10 +298,10 @@ tip: 请善用浏览器的搜索功能
 | char_4138_narant | 娜仁图亚 | Narantuya | ナラントゥヤ |
 | char_4139_papyrs | 莎草 | Papyrus | パピルス |
 | char_4140_lasher | 衡沙 | Sand Reckoner | サンドレコナー |
-| char_4141_marcil | 玛露西尔 | - | マルシル |
-| char_4142_laios | 莱欧斯 | - | ライオス |
-| char_4143_sensi | 森西 | - | センシ |
-| char_4144_chilc | 齐尔查克 | - | チルチャック |
+| char_4141_marcil | 玛露西尔 | Marcille | マルシル |
+| char_4142_laios | 莱欧斯 | Laios | ライオス |
+| char_4143_sensi | 森西 | Senshi | センシ |
+| char_4144_chilc | 齐尔查克 | Chilchuck | チルチャック |
 | char_4145_ulpia | 乌尔比安 | Ulpianus | ウルピアヌス |
 | char_4146_nymph | 妮芙 | Nymph | ニンフ |
 | char_4147_mitm | 渡桥 | Mitm | ミトム |
