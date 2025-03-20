@@ -1089,11 +1089,22 @@ tip: 请善用浏览器的搜索功能
 | sktok_motter_2 | 爆破回收 | Detonate and Recycle | ミーボ起爆 |
 | sktok_mound | 风沙掩体 | Sandstorm Protection | 防風壁 |
 | sktok_muctrl | 促融共竞控制 | Icebreaker Games Control | 協心競技制御装置 |
+| sktok_mufrbk | 临时休息舱 | - | - |
+| sktok_mufrbs | 便携健身架 | - | - |
+| sktok_mufrfm | 建筑工具间 | - | - |
+| sktok_mufrprn_1 | 救命啊！ | - | - |
+| sktok_mufrst | 混凝土路障 | - | - |
+| sktok_mufrwl | 液压式高台 | - | - |
 | sktok_muftbl | 重新发球！ | Kickoff! | キックオフ！ |
 | sktok_muruinb | 后勤维护 | Logistical Maintenance | 支援所展開 |
 | sktok_muruinf | 维护员 | Maintainer | 整備士 |
 | sktok_muruino | 器械维护 | Equipment Maintenance | 防壁展開 |
 | sktok_muruinw | 模块维护 | Module Maintenance | 高台展開 |
+| sktok_muulas_1 | 看！烟花！ | - | - |
+| sktok_muulcl_1 | 都给我喝！ | - | - |
+| sktok_muulco_1 | 加油哦！ | - | - |
+| sktok_muulrg_1 | 咪嗷嗷嗷嗷！ | - | - |
+| sktok_muulwr_1 | 请穿上护具！ | - | - |
 | sktok_nearl2_3 | “耀阳” | 'Blazing Sun' | 「ブレイジング・サン」 |
 | sktok_necras_skeltn_1 | 怨火缠身 | - | - |
 | sktok_necras_skeltn_2 | 怨火缠身 | - | - |

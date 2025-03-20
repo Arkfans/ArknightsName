@@ -1252,6 +1252,9 @@
     "ja_JP": "急性感染抑制剤",
     "zh_CN": "急性感染抑制剂"
   },
+  "act1multi_token_cap": {
+    "zh_CN": "参赛认证-S1"
+  },
   "act1sandbox_milestone_point": {
     "en_US": "Badge of Prosperity",
     "ja_JP": "繁栄の証",
@@ -2890,6 +2893,12 @@
     "en_US": "Rap Trend 5",
     "ja_JP": "ラップサイド5",
     "zh_CN": "说唱动态5"
+  },
+  "emoticon_basic": {
+    "zh_CN": "表情套组"
+  },
+  "emoticon_originium_slug": {
+    "zh_CN": "表情套组：虫动"
   },
   "et_ObsidianPass": {
     "en_US": "Obsidian Festival Ticket",

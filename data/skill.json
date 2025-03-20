@@ -5025,6 +5025,24 @@
     "ja_JP": "協心競技制御装置",
     "zh_CN": "促融共竞控制"
   },
+  "sktok_mufrbk": {
+    "zh_CN": "临时休息舱"
+  },
+  "sktok_mufrbs": {
+    "zh_CN": "便携健身架"
+  },
+  "sktok_mufrfm": {
+    "zh_CN": "建筑工具间"
+  },
+  "sktok_mufrprn_1": {
+    "zh_CN": "救命啊！"
+  },
+  "sktok_mufrst": {
+    "zh_CN": "混凝土路障"
+  },
+  "sktok_mufrwl": {
+    "zh_CN": "液压式高台"
+  },
   "sktok_muftbl": {
     "en_US": "Kickoff!",
     "ja_JP": "キックオフ！",
@@ -5049,6 +5067,21 @@
     "en_US": "Module Maintenance",
     "ja_JP": "高台展開",
     "zh_CN": "模块维护"
+  },
+  "sktok_muulas_1": {
+    "zh_CN": "看！烟花！"
+  },
+  "sktok_muulcl_1": {
+    "zh_CN": "都给我喝！"
+  },
+  "sktok_muulco_1": {
+    "zh_CN": "加油哦！"
+  },
+  "sktok_muulrg_1": {
+    "zh_CN": "咪嗷嗷嗷嗷！"
+  },
+  "sktok_muulwr_1": {
+    "zh_CN": "请穿上护具！"
   },
   "sktok_nearl2_3": {
     "en_US": "'Blazing Sun'",

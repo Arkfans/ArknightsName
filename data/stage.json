@@ -1865,6 +1865,96 @@
     "ja_JP": "黄昏の秘境",
     "zh_CN": "黄昏秘境"
   },
+  "act1multi_01": {
+    "zh_CN": "逃离火线"
+  },
+  "act1multi_02": {
+    "zh_CN": "密探有专车接送"
+  },
+  "act1multi_03": {
+    "zh_CN": "黑吃黑"
+  },
+  "act1multi_04": {
+    "zh_CN": "移动靶射击练习"
+  },
+  "act1multi_05": {
+    "zh_CN": "填陆造海"
+  },
+  "act1multi_06": {
+    "zh_CN": "匪帮集会"
+  },
+  "act1multi_07": {
+    "zh_CN": "当意外来敲门"
+  },
+  "act1multi_ex-football": {
+    "zh_CN": "大力出奇迹"
+  },
+  "act1multi_football": {
+    "zh_CN": "大力出奇迹"
+  },
+  "act1multi_fortress-01": {
+    "zh_CN": "湿地跨栏"
+  },
+  "act1multi_fortress-02": {
+    "zh_CN": "机械质检通道"
+  },
+  "act1multi_fortress-ex-01": {
+    "zh_CN": "湿地跨栏"
+  },
+  "act1multi_fortress-ex-02": {
+    "zh_CN": "机械质检通道"
+  },
+  "act1multi_fortress-ex-rm01": {
+    "zh_CN": "团体战竞技场"
+  },
+  "act1multi_fortress-hard-01": {
+    "zh_CN": "请买纪念品"
+  },
+  "act1multi_fortress-rm01": {
+    "zh_CN": "团体战竞技场"
+  },
+  "act1multi_hard-01": {
+    "zh_CN": "别有洞天"
+  },
+  "act1multi_hard-02": {
+    "zh_CN": "爬高上低"
+  },
+  "act1multi_hard-03": {
+    "zh_CN": "鼷流滚滚"
+  },
+  "act1multi_hard-football": {
+    "zh_CN": "大力出奇迹"
+  },
+  "act1multi_rm01": {
+    "zh_CN": "糖果派送"
+  },
+  "act1multi_rm02": {
+    "zh_CN": "腐坏森林"
+  },
+  "act1multi_rm03": {
+    "zh_CN": "火山泳池"
+  },
+  "act1multi_rm04": {
+    "zh_CN": "拒宾大道"
+  },
+  "act1multi_rm05": {
+    "zh_CN": "战场留声"
+  },
+  "act1multi_rm06": {
+    "zh_CN": "黑夜留形"
+  },
+  "act1multi_rm07": {
+    "zh_CN": "创造与繁殖"
+  },
+  "act1multi_tr01": {
+    "zh_CN": "规则教学-常规项目"
+  },
+  "act1multi_tr02": {
+    "zh_CN": "规则教学-阵地足球"
+  },
+  "act1multi_tr03": {
+    "zh_CN": "规则教学-堡垒守御"
+  },
   "act1vautochess_m01": {
     "zh_CN": "AC-TR-1"
   },

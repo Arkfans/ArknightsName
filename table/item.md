@@ -260,6 +260,7 @@ tip: 请善用浏览器的搜索功能
 | act1lock_point_reward | 赛事奖章 | Competition Medals | 競技メダル |
 | act1mainlinebp_token_star | 里程碑碎片 | Milestone Fragment | マイルストーンの欠片 |
 | act1mainss_token_medi | 急性感染抑制剂 | Emergency Inhibitor | 急性感染抑制剤 |
+| act1multi_token_cap | 参赛认证-S1 | - | - |
 | act1sandbox_milestone_point | 繁荣证章 | Badge of Prosperity | 繁栄の証 |
 | act1vautochess_token_chess | 卫戍认证 | - | - |
 | act1vecb_milestone_point | 胜绩积分 | - | - |
@@ -602,6 +603,8 @@ tip: 请善用浏览器的搜索功能
 | clue_Rap_4_rep_1 | 说唱动态4 | Rap Trend 4 | ラップサイド4 |
 | clue_Rap_5 | 说唱动态5 | Rap Trend 5 | ラップサイド5 |
 | clue_Rap_5_rep_1 | 说唱动态5 | Rap Trend 5 | ラップサイド5 |
+| emoticon_basic | 表情套组 | - | - |
+| emoticon_originium_slug | 表情套组：虫动 | - | - |
 | et_ObsidianPass | 黑曜石节门票 | Obsidian Festival Ticket | フェスチケット |
 | et_ObsidianPass_rep_1 | 黑曜石节门票 | Obsidian Festival Ticket | フェスチケット |
 | favor_add_ulika | 主播U的直播切片 | Streamer U's Stream Clips | ライバーUの配信切り抜き |

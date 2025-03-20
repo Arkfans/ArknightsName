@@ -387,6 +387,36 @@ tip: 请善用浏览器的搜索功能
 | act1lock_b-03 | 白昼之地-沉思 | Daytime Ground - Meditation | 白昼の地-深慮 |
 | act1lock_b-04 | 白昼之地-坚守 | Daytime Ground - Perseverance | 白昼の地-堅守 |
 | act1lock_c-01 | 黄昏秘境 | Twilight Frontier | 黄昏の秘境 |
+| act1multi_01 | 逃离火线 | - | - |
+| act1multi_02 | 密探有专车接送 | - | - |
+| act1multi_03 | 黑吃黑 | - | - |
+| act1multi_04 | 移动靶射击练习 | - | - |
+| act1multi_05 | 填陆造海 | - | - |
+| act1multi_06 | 匪帮集会 | - | - |
+| act1multi_07 | 当意外来敲门 | - | - |
+| act1multi_ex-football | 大力出奇迹 | - | - |
+| act1multi_football | 大力出奇迹 | - | - |
+| act1multi_fortress-01 | 湿地跨栏 | - | - |
+| act1multi_fortress-02 | 机械质检通道 | - | - |
+| act1multi_fortress-ex-01 | 湿地跨栏 | - | - |
+| act1multi_fortress-ex-02 | 机械质检通道 | - | - |
+| act1multi_fortress-ex-rm01 | 团体战竞技场 | - | - |
+| act1multi_fortress-hard-01 | 请买纪念品 | - | - |
+| act1multi_fortress-rm01 | 团体战竞技场 | - | - |
+| act1multi_hard-01 | 别有洞天 | - | - |
+| act1multi_hard-02 | 爬高上低 | - | - |
+| act1multi_hard-03 | 鼷流滚滚 | - | - |
+| act1multi_hard-football | 大力出奇迹 | - | - |
+| act1multi_rm01 | 糖果派送 | - | - |
+| act1multi_rm02 | 腐坏森林 | - | - |
+| act1multi_rm03 | 火山泳池 | - | - |
+| act1multi_rm04 | 拒宾大道 | - | - |
+| act1multi_rm05 | 战场留声 | - | - |
+| act1multi_rm06 | 黑夜留形 | - | - |
+| act1multi_rm07 | 创造与繁殖 | - | - |
+| act1multi_tr01 | 规则教学-常规项目 | - | - |
+| act1multi_tr02 | 规则教学-阵地足球 | - | - |
+| act1multi_tr03 | 规则教学-堡垒守御 | - | - |
 | act1vautochess_m01 | AC-TR-1 | - | - |
 | act1vautochess_m02 | AC-1 | - | - |
 | act1vautochess_m03 | AC-2 | - | - |

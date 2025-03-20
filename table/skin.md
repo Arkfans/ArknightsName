@@ -111,6 +111,7 @@ tip: 请善用浏览器的搜索功能
 | char_185_frncat@wild#7 | 营地炊烟 | Campfire Cooking Smoke | キャンプのお楽しみ |
 | char_187_ccheal@epoque#2 | 战医 | Combat Medic | 戦医 |
 | char_188_helage@boc#2 | 歧路幻影 | Octopath Illusion | 岐路幻影 |
+| char_190_clour@epoque#43 | 玩伴 | - | - |
 | char_192_falco@marthe#6 | 从容时刻 | Easy Time | イージータイム |
 | char_193_frostl@boc#4 | 破冰 | Breaking the Ice | 砕氷 |
 | char_195_glassb@kitchen#1 | 书味 | Bibliosmia | 書の味わい |

@@ -1162,6 +1162,33 @@ tip: 请善用浏览器的搜索功能
 | enemy_4018_muboom | 高能源石球 | Infused Originium Ball | バクダンムシボール |
 | enemy_4019_mugold | 至纯源石球 | Originite Prime Ball | 純正源石ボール |
 | enemy_4020_muboun | 无垠回荡球 | Perpetual Rebounder | 天地に揺蕩うボール |
+| enemy_4022_mushtm | 战术队击球手 | - | - |
+| enemy_4022_mushtm_2 | 战术队精英击球手 | - | - |
+| enemy_4023_mushtb | 战术队守门员 | - | - |
+| enemy_4023_mushtb_2 | 战术队精英守门员 | - | - |
+| enemy_4024_mushtg | 战术队击人手 | - | - |
+| enemy_4024_mushtg_2 | 战术队精英击人手 | - | - |
+| enemy_4025_muhrym | 爱球会击球手 | - | - |
+| enemy_4025_muhrym_2 | 爱球会荣誉击球手 | - | - |
+| enemy_4026_muhryb | 爱球会守门员 | - | - |
+| enemy_4026_muhryb_2 | 爱球会荣誉守门员 | - | - |
+| enemy_4027_muhryg | 爱球会击人手 | - | - |
+| enemy_4027_muhryg_2 | 爱球会荣誉击人手 | - | - |
+| enemy_4028_mukfum | 球德联击球手 | - | - |
+| enemy_4028_mukfum_2 | 球德联老牌击球手 | - | - |
+| enemy_4029_mukfub | 球德联守门员 | - | - |
+| enemy_4029_mukfub_2 | 球德联老牌守门员 | - | - |
+| enemy_4030_mukfug | 球德联击人手 | - | - |
+| enemy_4030_mukfug_2 | 球德联老牌击人手 | - | - |
+| enemy_4031_muftsn | 漏气甲虫球 | - | - |
+| enemy_4032_muftmg | 膨胀甲虫球 | - | - |
+| enemy_4033_muftic | 北境意志球 | - | - |
+| enemy_4034_muftgl | 底海滑动球 | - | - |
+| enemy_4035_mufbsa | 巨力丰碑 | - | - |
+| enemy_4036_mufbsb | 坚韧丰碑 | - | - |
+| enemy_4037_mufbsc | 神射丰碑 | - | - |
+| enemy_4038_mufbsd | 热情丰碑 | - | - |
+| enemy_4039_mufbse | 狂奔丰碑 | - | - |
 | enemy_5008_cstrwd | 艺术的慈悲! | The Boons of Art! | 芸術の慈悲！ |
 | enemy_5009_shtrwd | 艺术的绝杀! | The Clutchness of Art! | 芸術の必殺技！ |
 | enemy_5010_catrdg | 弱弹 | Weaksauce | 弱い弾 |
