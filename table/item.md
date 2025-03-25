@@ -263,7 +263,7 @@ tip: 请善用浏览器的搜索功能
 | act1multi_token_cap | 参赛认证-S1 | - | - |
 | act1sandbox_milestone_point | 繁荣证章 | Badge of Prosperity | 繁栄の証 |
 | act1vautochess_token_chess | 卫戍认证 | - | - |
-| act1vecb_milestone_point | 胜绩积分 | - | 勝利記念品 |
+| act1vecb_milestone_point | 胜绩积分 | Attainment Point | 勝利記念品 |
 | act20side_token_book | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
 | act20side_token_book_rep_1 | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
 | act21side_token_permesso | 进货通行证 | Permesso di Importazione | 買付許可証 |
@@ -1100,7 +1100,7 @@ tip: 请善用浏览器的搜索功能
 | token_ObsidianCoin_rep_1 | 黑曜石节抽奖代币 | Obsidian Festival Token | ガチャコイン |
 | token_Obsidian_rep_1 | 汐斯塔的黑曜石 | Siesta Obsidian | シエスタの黒曜石 |
 | token_Wristband | 黑曜石节手环 | Obsidian Festival Bracelet | リストバンド |
-| uni_set_MemoryCloister_1 | 魂灵印象家具收藏包一 | - | 魂の形家具パックvol.1 |
+| uni_set_MemoryCloister_1 | 魂灵印象家具收藏包一 | Memories of the Souls Furniture Pack I | 魂の形家具パックvol.1 |
 | uni_set_MemoryCloister_2 | 魂灵印象家具收藏包二 | - | - |
 | uni_set_NHL | 吾导先路家具收藏包 | Guide Ahead Furniture Collection Set | 吾れ先導者たらん家具パック |
 | uni_set_SargonFair_1 | 阿尔萨兰家具收藏包一 | Arsalan Furniture Collection I | アルサラン家具パックvol.1 |

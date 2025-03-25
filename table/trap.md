@@ -221,7 +221,7 @@ tip: 请善用浏览器的搜索功能
 | trap_160_lrlgun | 洪流束激发器 | Torrent Beam Activator | 奔流発生装置 |
 | trap_161_lrcage | 枯朽祭坛 | Withered Altar | 枯朽の祭壇 |
 | trap_162_lrctrl | 十四章机制控制器 | EP14 Mechanics Controller | 第十四章ギミックコントローラー |
-| trap_163_foolcrate | 障碍物 | - | 障害物 |
+| trap_163_foolcrate | 障碍物 | Roadblock | 障害物 |
 | trap_164_lrsiege | 振奋荣光 | Light of Glory | 奮い立つ栄光 |
 | trap_165_muftbl | 足球 | Football | サッカーボール |
 | trap_166_muwork | 设施建筑工 | Foldable Facility Maintainer | 競技装置整備士 |

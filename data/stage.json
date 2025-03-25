@@ -1971,66 +1971,82 @@
     "zh_CN": "AC-2"
   },
   "act1vecb_01": {
+    "en_US": "Fistful of Wind",
     "ja_JP": "風立つ拳",
     "zh_CN": "拳拳生风"
   },
   "act1vecb_02": {
+    "en_US": "Hypothermia Omen",
     "ja_JP": "低温の兆し",
     "zh_CN": "低温征兆"
   },
   "act1vecb_03": {
+    "en_US": "Burdened",
     "ja_JP": "重荷",
     "zh_CN": "重荷"
   },
   "act1vecb_04": {
+    "en_US": "Hammer and Spear",
     "ja_JP": "巨鎚と鋭槍",
     "zh_CN": "巨锤与锐枪"
   },
   "act1vecb_05": {
+    "en_US": "Unforgettable",
     "ja_JP": "心に刻んで",
     "zh_CN": "刻骨铭心"
   },
   "act1vecb_06": {
+    "en_US": "Attack from Afar",
     "ja_JP": "遠方より来たる",
     "zh_CN": "远方来袭"
   },
   "act1vecb_07": {
+    "en_US": "Crimson Ice",
     "ja_JP": "深紅の氷",
     "zh_CN": "赤红的冰"
   },
   "act1vecb_08": {
+    "en_US": "Memory Lapses",
     "ja_JP": "思考のはざま",
     "zh_CN": "思绪之隙"
   },
   "act1vecb_sp01": {
+    "en_US": "Top of the Jungle",
     "ja_JP": "ジャングルの頂",
     "zh_CN": "丛林巅峰"
   },
   "act1vecb_sp02": {
+    "en_US": "Fanatic Siege",
     "ja_JP": "凶漢包囲網",
     "zh_CN": "狂徒围攻"
   },
   "act1vecb_sp03": {
+    "en_US": "Binding Witchcraft",
     "ja_JP": "まとわりつく巫術",
     "zh_CN": "巫术纠缠"
   },
   "act1vecb_sp04": {
+    "en_US": "Shielded Enclosure",
     "ja_JP": "バリア対防衛陣形",
     "zh_CN": "盾阵隘口"
   },
   "act1vecb_sp05": {
+    "en_US": "Friendly Cover",
     "ja_JP": "ヘタイロイの影",
     "zh_CN": "伙友之影"
   },
   "act1vecb_sp06": {
+    "en_US": "Master Vintner",
     "ja_JP": "醸造場の英傑",
     "zh_CN": "酒厂英豪"
   },
   "act1vecb_sp07": {
+    "en_US": "Heterogeneous Clusters",
     "ja_JP": "異質なるものの群れ",
     "zh_CN": "异质聚群"
   },
   "act1vecb_sp08": {
+    "en_US": "Suppressive Firepower",
     "ja_JP": "砲火の泥沼",
     "zh_CN": "炮火泥潭"
   },

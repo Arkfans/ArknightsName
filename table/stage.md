@@ -422,22 +422,22 @@ tip: 请善用浏览器的搜索功能
 | act1vautochess_m03 | AC-2 | - | - |
 | act1vautochess_m04 | AC-2 | - | - |
 | act1vautochess_m05 | AC-2 | - | - |
-| act1vecb_01 | 拳拳生风 | - | 風立つ拳 |
-| act1vecb_02 | 低温征兆 | - | 低温の兆し |
-| act1vecb_03 | 重荷 | - | 重荷 |
-| act1vecb_04 | 巨锤与锐枪 | - | 巨鎚と鋭槍 |
-| act1vecb_05 | 刻骨铭心 | - | 心に刻んで |
-| act1vecb_06 | 远方来袭 | - | 遠方より来たる |
-| act1vecb_07 | 赤红的冰 | - | 深紅の氷 |
-| act1vecb_08 | 思绪之隙 | - | 思考のはざま |
-| act1vecb_sp01 | 丛林巅峰 | - | ジャングルの頂 |
-| act1vecb_sp02 | 狂徒围攻 | - | 凶漢包囲網 |
-| act1vecb_sp03 | 巫术纠缠 | - | まとわりつく巫術 |
-| act1vecb_sp04 | 盾阵隘口 | - | バリア対防衛陣形 |
-| act1vecb_sp05 | 伙友之影 | - | ヘタイロイの影 |
-| act1vecb_sp06 | 酒厂英豪 | - | 醸造場の英傑 |
-| act1vecb_sp07 | 异质聚群 | - | 異質なるものの群れ |
-| act1vecb_sp08 | 炮火泥潭 | - | 砲火の泥沼 |
+| act1vecb_01 | 拳拳生风 | Fistful of Wind | 風立つ拳 |
+| act1vecb_02 | 低温征兆 | Hypothermia Omen | 低温の兆し |
+| act1vecb_03 | 重荷 | Burdened | 重荷 |
+| act1vecb_04 | 巨锤与锐枪 | Hammer and Spear | 巨鎚と鋭槍 |
+| act1vecb_05 | 刻骨铭心 | Unforgettable | 心に刻んで |
+| act1vecb_06 | 远方来袭 | Attack from Afar | 遠方より来たる |
+| act1vecb_07 | 赤红的冰 | Crimson Ice | 深紅の氷 |
+| act1vecb_08 | 思绪之隙 | Memory Lapses | 思考のはざま |
+| act1vecb_sp01 | 丛林巅峰 | Top of the Jungle | ジャングルの頂 |
+| act1vecb_sp02 | 狂徒围攻 | Fanatic Siege | 凶漢包囲網 |
+| act1vecb_sp03 | 巫术纠缠 | Binding Witchcraft | まとわりつく巫術 |
+| act1vecb_sp04 | 盾阵隘口 | Shielded Enclosure | バリア対防衛陣形 |
+| act1vecb_sp05 | 伙友之影 | Friendly Cover | ヘタイロイの影 |
+| act1vecb_sp06 | 酒厂英豪 | Master Vintner | 醸造場の英傑 |
+| act1vecb_sp07 | 异质聚群 | Heterogeneous Clusters | 異質なるものの群れ |
+| act1vecb_sp08 | 炮火泥潭 | Suppressive Firepower | 砲火の泥沼 |
 | act20side_01 | 沉浸式游览 | Alternate Reality Tourism | 没入型ツアー |
 | act20side_02 | 下坠 | Freefall | 落下 |
 | act20side_03 | 奇谈怪论 | Stranger Things | 奇談怪論 |

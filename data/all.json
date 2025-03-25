@@ -5052,6 +5052,7 @@
   "trap_163_foolcrate": {
     "type": "TRAP",
     "names": {
+      "en_US": "Roadblock",
       "ja_JP": "障害物",
       "zh_CN": "障碍物"
     }
@@ -8157,6 +8158,7 @@
   "char_240_wyvern@game#4": {
     "type": "SKIN",
     "names": {
+      "en_US": "The Zoophilist and Her Mollusca",
       "ja_JP": "平原の虫使い",
       "zh_CN": "平原驯虫士"
     }
@@ -20008,6 +20010,7 @@
   "enemy_8007_eltrsm": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Rosmontis, Simulated Sentry",
       "ja_JP": "「Rosmontis」・虚実の手",
       "zh_CN": "“迷迭香”，虚实之握"
     }
@@ -20015,6 +20018,7 @@
   "enemy_8007_eltrsm_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Rosmontis, Simulated Sentry",
       "ja_JP": "「Rosmontis」・虚実の手",
       "zh_CN": "“迷迭香”，虚实之握"
     }
@@ -20022,6 +20026,7 @@
   "enemy_8007_eltrsm_3": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Rosmontis, Simulated Sentry",
       "ja_JP": "「Rosmontis」・虚実の手",
       "zh_CN": "“迷迭香”，虚实之握"
     }
@@ -20029,6 +20034,7 @@
   "enemy_8008_eltswd": {
     "type": "ENEMY",
     "names": {
+      "en_US": "V.T.E.",
       "ja_JP": "ベクトル戦術装備",
       "zh_CN": "矢量战术装备"
     }
@@ -20036,6 +20042,7 @@
   "enemy_8009_eltufo": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Rosmontis's Drone",
       "ja_JP": "「Rosmontis」のドローン",
       "zh_CN": "“迷迭香”的无人机"
     }
@@ -20809,6 +20816,7 @@
   "act1vecb": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Vector Breakthrough",
       "ja_JP": "鋒矢突破",
       "zh_CN": "矢量突破"
     }
@@ -21460,6 +21468,7 @@
   "act44sign": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Conceptual Crucible Login Event",
       "ja_JP": "仮想試練スタンプ",
       "zh_CN": "构想试炼签到活动"
     }
@@ -21568,6 +21577,7 @@
   "act5fun": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "April Fools' Day Event",
       "ja_JP": "エイプリルフール",
       "zh_CN": "愚人节活动"
     }
@@ -24183,6 +24193,7 @@
   "act1vecb_milestone_point": {
     "type": "ITEM",
     "names": {
+      "en_US": "Attainment Point",
       "ja_JP": "勝利記念品",
       "zh_CN": "胜绩积分"
     }
@@ -30746,6 +30757,7 @@
   "uni_set_MemoryCloister_1": {
     "type": "ITEM",
     "names": {
+      "en_US": "Memories of the Souls Furniture Pack I",
       "ja_JP": "魂の形家具パックvol.1",
       "zh_CN": "魂灵印象家具收藏包一"
     }
@@ -46516,6 +46528,7 @@
   "act1vecb_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Fistful of Wind",
       "ja_JP": "風立つ拳",
       "zh_CN": "拳拳生风"
     }
@@ -46523,6 +46536,7 @@
   "act1vecb_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Hypothermia Omen",
       "ja_JP": "低温の兆し",
       "zh_CN": "低温征兆"
     }
@@ -46530,6 +46544,7 @@
   "act1vecb_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Burdened",
       "ja_JP": "重荷",
       "zh_CN": "重荷"
     }
@@ -46537,6 +46552,7 @@
   "act1vecb_04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Hammer and Spear",
       "ja_JP": "巨鎚と鋭槍",
       "zh_CN": "巨锤与锐枪"
     }
@@ -46544,6 +46560,7 @@
   "act1vecb_05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Unforgettable",
       "ja_JP": "心に刻んで",
       "zh_CN": "刻骨铭心"
     }
@@ -46551,6 +46568,7 @@
   "act1vecb_06": {
     "type": "STAGE",
     "names": {
+      "en_US": "Attack from Afar",
       "ja_JP": "遠方より来たる",
       "zh_CN": "远方来袭"
     }
@@ -46558,6 +46576,7 @@
   "act1vecb_07": {
     "type": "STAGE",
     "names": {
+      "en_US": "Crimson Ice",
       "ja_JP": "深紅の氷",
       "zh_CN": "赤红的冰"
     }
@@ -46565,6 +46584,7 @@
   "act1vecb_08": {
     "type": "STAGE",
     "names": {
+      "en_US": "Memory Lapses",
       "ja_JP": "思考のはざま",
       "zh_CN": "思绪之隙"
     }
@@ -46572,6 +46592,7 @@
   "act1vecb_sp01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Top of the Jungle",
       "ja_JP": "ジャングルの頂",
       "zh_CN": "丛林巅峰"
     }
@@ -46579,6 +46600,7 @@
   "act1vecb_sp02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Fanatic Siege",
       "ja_JP": "凶漢包囲網",
       "zh_CN": "狂徒围攻"
     }
@@ -46586,6 +46608,7 @@
   "act1vecb_sp03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Binding Witchcraft",
       "ja_JP": "まとわりつく巫術",
       "zh_CN": "巫术纠缠"
     }
@@ -46593,6 +46616,7 @@
   "act1vecb_sp04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Shielded Enclosure",
       "ja_JP": "バリア対防衛陣形",
       "zh_CN": "盾阵隘口"
     }
@@ -46600,6 +46624,7 @@
   "act1vecb_sp05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Friendly Cover",
       "ja_JP": "ヘタイロイの影",
       "zh_CN": "伙友之影"
     }
@@ -46607,6 +46632,7 @@
   "act1vecb_sp06": {
     "type": "STAGE",
     "names": {
+      "en_US": "Master Vintner",
       "ja_JP": "醸造場の英傑",
       "zh_CN": "酒厂英豪"
     }
@@ -46614,6 +46640,7 @@
   "act1vecb_sp07": {
     "type": "STAGE",
     "names": {
+      "en_US": "Heterogeneous Clusters",
       "ja_JP": "異質なるものの群れ",
       "zh_CN": "异质聚群"
     }
@@ -46621,6 +46648,7 @@
   "act1vecb_sp08": {
     "type": "STAGE",
     "names": {
+      "en_US": "Suppressive Firepower",
       "ja_JP": "砲火の泥沼",
       "zh_CN": "炮火泥潭"
     }
@@ -55210,6 +55238,7 @@
   "act1vecb_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Phase 1",
       "ja_JP": "第一段階",
       "zh_CN": "第一阶段"
     }
