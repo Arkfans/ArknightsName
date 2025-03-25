@@ -165,7 +165,7 @@ tip: 请善用浏览器的搜索功能
 | char_236_rope@summer#2 | 夏卉 FA008 | Summer Flowers FA008 | 夏の花弁FA008 |
 | char_236_rope@witch#1 | 小鬼当家 | Imp's House | おてんば魔女っこ |
 | char_237_gravel@winter#2 | 模特之夜 | Modeling Night | スタイリッシュナイト |
-| char_240_wyvern@game#4 | 平原驯虫士 | - | - |
+| char_240_wyvern@game#4 | 平原驯虫士 | - | 平原の虫使い |
 | char_241_panda@marthe#1 | 片场一角 | Dojo Star | スタジオの一角 |
 | char_241_panda@nian#7 | 且试箸 | Gourmet | 箸乱舞 |
 | char_242_otter@ghost#1 | 庭院寻梦尖兵 | Visionblazer in the Courtyard | 庭園の探夢者 |

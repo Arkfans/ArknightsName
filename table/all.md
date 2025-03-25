@@ -662,7 +662,7 @@ tip: 请善用浏览器的搜索功能
 | trap_160_lrlgun | 洪流束激发器 | Torrent Beam Activator | 奔流発生装置 |
 | trap_161_lrcage | 枯朽祭坛 | Withered Altar | 枯朽の祭壇 |
 | trap_162_lrctrl | 十四章机制控制器 | EP14 Mechanics Controller | 第十四章ギミックコントローラー |
-| trap_163_foolcrate | 障碍物 | - | - |
+| trap_163_foolcrate | 障碍物 | - | 障害物 |
 | trap_164_lrsiege | 振奋荣光 | Light of Glory | 奮い立つ栄光 |
 | trap_165_muftbl | 足球 | Football | サッカーボール |
 | trap_166_muwork | 设施建筑工 | Foldable Facility Maintainer | 競技装置整備士 |
@@ -1066,7 +1066,7 @@ tip: 请善用浏览器的搜索功能
 | char_236_rope@summer#2 | 夏卉 FA008 | Summer Flowers FA008 | 夏の花弁FA008 |
 | char_236_rope@witch#1 | 小鬼当家 | Imp's House | おてんば魔女っこ |
 | char_237_gravel@winter#2 | 模特之夜 | Modeling Night | スタイリッシュナイト |
-| char_240_wyvern@game#4 | 平原驯虫士 | - | - |
+| char_240_wyvern@game#4 | 平原驯虫士 | - | 平原の虫使い |
 | char_241_panda@marthe#1 | 片场一角 | Dojo Star | スタジオの一角 |
 | char_241_panda@nian#7 | 且试箸 | Gourmet | 箸乱舞 |
 | char_242_otter@ghost#1 | 庭院寻梦尖兵 | Visionblazer in the Courtyard | 庭園の探夢者 |
@@ -2591,11 +2591,11 @@ tip: 请善用浏览器的搜索功能
 | enemy_8001_flmlod_2 | 熔戈者，护王余火 | Sverdsmeltr, Guardian Ember of the King | スヴェルドメルター、王を守る余炎 |
 | enemy_8001_flmlod_3 | 熔戈者，护王余火 | Sverdsmeltr, Guardian Ember of the King | スヴェルドメルター、王を守る余炎 |
 | enemy_8006_flmgd | 再铸扈从 | Reforged Retinue | 再鋳造されし忠僕 |
-| enemy_8007_eltrsm | “迷迭香”，虚实之握 | - | - |
-| enemy_8007_eltrsm_2 | “迷迭香”，虚实之握 | - | - |
-| enemy_8007_eltrsm_3 | “迷迭香”，虚实之握 | - | - |
-| enemy_8008_eltswd | 矢量战术装备 | - | - |
-| enemy_8009_eltufo | “迷迭香”的无人机 | - | - |
+| enemy_8007_eltrsm | “迷迭香”，虚实之握 | - | 「Rosmontis」・虚実の手 |
+| enemy_8007_eltrsm_2 | “迷迭香”，虚实之握 | - | 「Rosmontis」・虚実の手 |
+| enemy_8007_eltrsm_3 | “迷迭香”，虚实之握 | - | 「Rosmontis」・虚実の手 |
+| enemy_8008_eltswd | 矢量战术装备 | - | ベクトル戦術装備 |
+| enemy_8009_eltufo | “迷迭香”的无人机 | - | 「Rosmontis」のドローン |
 | enemy_9001_ayokai | 惊喜赞助无人机 | - | - |
 | enemy_9002_adsham | 萨卡兹渴血术师 | - | - |
 | enemy_9003_askate | 寻路者供弹手 | - | - |
@@ -2695,7 +2695,7 @@ tip: 请善用浏览器的搜索功能
 | act1switch | 宿于繁星合作活动 | - | - |
 | act1unique | 九色鹿签到复刻活动 | Nine-Colored Deer Onboarding Event Retrospective | 九色鹿復刻スタンプラリー |
 | act1vautochess | 卫戍协议 | - | - |
-| act1vecb | 矢量突破 | - | - |
+| act1vecb | 矢量突破 | - | 鋒矢突破 |
 | act1video | 留影烁今登录活动 | - | - |
 | act20login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
 | act20side | 理想城：长夏狂欢季 | Ideal City: Endless Carnival | 理想都市-エンドレスカーニバル- |
@@ -2785,7 +2785,7 @@ Event | なないろのお茶会 |
 | act42d0 | 纷争演绎 | Design of Strife | 紛争演繹 |
 | act42sign | 品鉴泰拉魔物 | Have A Taste Of Terran Monsters | テラ魔物品評 |
 | act43sign | 良辰迎月签到活动 | A Good Moony Time Login Event | 嘉辰令月スタンプ |
-| act44sign | 构想试炼签到活动 | - | - |
+| act44sign | 构想试炼签到活动 | - | 仮想試練スタンプ |
 | act45sign | 感谢庆典前瞻签到 | - | - |
 | act46sign | 感谢庆典限时签到 | - | - |
 | act47sign | 感谢庆典补给签到 | - | - |
@@ -2801,7 +2801,7 @@ Event | なないろのお茶会 |
 | act4switch | 时光的赠礼  | - | - |
 | act5d0 | 喧闹法则 | Code of Brawl | 喧騒の掟 |
 | act5d1 | 危机合约 | Contingency Contract | 危機契約 |
-| act5fun | 愚人节活动 | - | - |
+| act5fun | 愚人节活动 | - | エイプリルフール |
 | act5mine | 卡钳谷矿区限时开采许可 | Callipers Valley Mining Area Provisional Mining Permit | カリパスバレー採鉱区 |
 | act5pray | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |
 | act5sre | 沃伦姆德的薄暮·复刻 | Twilight of Wolumonde - Rerun | ウォルモンドの薄暮・復刻 |
@@ -3133,7 +3133,7 @@ Event | なないろのお茶会 |
 | act1multi_token_cap | 参赛认证-S1 | - | - |
 | act1sandbox_milestone_point | 繁荣证章 | Badge of Prosperity | 繁栄の証 |
 | act1vautochess_token_chess | 卫戍认证 | - | - |
-| act1vecb_milestone_point | 胜绩积分 | - | - |
+| act1vecb_milestone_point | 胜绩积分 | - | 勝利記念品 |
 | act20side_token_book | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
 | act20side_token_book_rep_1 | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
 | act21side_token_permesso | 进货通行证 | Permesso di Importazione | 買付許可証 |
@@ -3970,7 +3970,7 @@ Event | なないろのお茶会 |
 | token_ObsidianCoin_rep_1 | 黑曜石节抽奖代币 | Obsidian Festival Token | ガチャコイン |
 | token_Obsidian_rep_1 | 汐斯塔的黑曜石 | Siesta Obsidian | シエスタの黒曜石 |
 | token_Wristband | 黑曜石节手环 | Obsidian Festival Bracelet | リストバンド |
-| uni_set_MemoryCloister_1 | 魂灵印象家具收藏包一 | - | - |
+| uni_set_MemoryCloister_1 | 魂灵印象家具收藏包一 | - | 魂の形家具パックvol.1 |
 | uni_set_MemoryCloister_2 | 魂灵印象家具收藏包二 | - | - |
 | uni_set_NHL | 吾导先路家具收藏包 | Guide Ahead Furniture Collection Set | 吾れ先導者たらん家具パック |
 | uni_set_SargonFair_1 | 阿尔萨兰家具收藏包一 | Arsalan Furniture Collection I | アルサラン家具パックvol.1 |
@@ -6053,22 +6053,22 @@ Event | なないろのお茶会 |
 | act1vautochess_m03 | AC-2 | - | - |
 | act1vautochess_m04 | AC-2 | - | - |
 | act1vautochess_m05 | AC-2 | - | - |
-| act1vecb_01 | 拳拳生风 | - | - |
-| act1vecb_02 | 低温征兆 | - | - |
-| act1vecb_03 | 重荷 | - | - |
-| act1vecb_04 | 巨锤与锐枪 | - | - |
-| act1vecb_05 | 刻骨铭心 | - | - |
-| act1vecb_06 | 远方来袭 | - | - |
-| act1vecb_07 | 赤红的冰 | - | - |
-| act1vecb_08 | 思绪之隙 | - | - |
-| act1vecb_sp01 | 丛林巅峰 | - | - |
-| act1vecb_sp02 | 狂徒围攻 | - | - |
-| act1vecb_sp03 | 巫术纠缠 | - | - |
-| act1vecb_sp04 | 盾阵隘口 | - | - |
-| act1vecb_sp05 | 伙友之影 | - | - |
-| act1vecb_sp06 | 酒厂英豪 | - | - |
-| act1vecb_sp07 | 异质聚群 | - | - |
-| act1vecb_sp08 | 炮火泥潭 | - | - |
+| act1vecb_01 | 拳拳生风 | - | 風立つ拳 |
+| act1vecb_02 | 低温征兆 | - | 低温の兆し |
+| act1vecb_03 | 重荷 | - | 重荷 |
+| act1vecb_04 | 巨锤与锐枪 | - | 巨鎚と鋭槍 |
+| act1vecb_05 | 刻骨铭心 | - | 心に刻んで |
+| act1vecb_06 | 远方来袭 | - | 遠方より来たる |
+| act1vecb_07 | 赤红的冰 | - | 深紅の氷 |
+| act1vecb_08 | 思绪之隙 | - | 思考のはざま |
+| act1vecb_sp01 | 丛林巅峰 | - | ジャングルの頂 |
+| act1vecb_sp02 | 狂徒围攻 | - | 凶漢包囲網 |
+| act1vecb_sp03 | 巫术纠缠 | - | まとわりつく巫術 |
+| act1vecb_sp04 | 盾阵隘口 | - | バリア対防衛陣形 |
+| act1vecb_sp05 | 伙友之影 | - | ヘタイロイの影 |
+| act1vecb_sp06 | 酒厂英豪 | - | 醸造場の英傑 |
+| act1vecb_sp07 | 异质聚群 | - | 異質なるものの群れ |
+| act1vecb_sp08 | 炮火泥潭 | - | 砲火の泥沼 |
 | act20side_01 | 沉浸式游览 | Alternate Reality Tourism | 没入型ツアー |
 | act20side_02 | 下坠 | Freefall | 落下 |
 | act20side_03 | 奇谈怪论 | Stranger Things | 奇談怪論 |
@@ -7164,7 +7164,7 @@ Event | なないろのお茶会 |
 | act1lock_zone1 | 始发营地 | Base Camp | 始発拠点 |
 | act1r6sre_zone1 | 行动记录 | Task Record | 作戦記録 |
 | act1r6sre_zone2 | 备战训练 | Para Bellum | 戦闘訓練 |
-| act1vecb_zone1 | 第一阶段 | - | - |
+| act1vecb_zone1 | 第一阶段 | - | 第一段階 |
 | act20side_zone1 | 地底观光 | Underground Sightseeing | 地底観光 |
 | act20side_zone2 | 文化冲击 | Cultural Shock | 異文化交流 |
 | act20side_zone3 | 升降梯整备 | Elevator Maintenance | 昇降機整備 |

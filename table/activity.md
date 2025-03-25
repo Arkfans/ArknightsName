@@ -99,7 +99,7 @@ tip: 请善用浏览器的搜索功能
 | act1switch | 宿于繁星合作活动 | - | - |
 | act1unique | 九色鹿签到复刻活动 | Nine-Colored Deer Onboarding Event Retrospective | 九色鹿復刻スタンプラリー |
 | act1vautochess | 卫戍协议 | - | - |
-| act1vecb | 矢量突破 | - | - |
+| act1vecb | 矢量突破 | - | 鋒矢突破 |
 | act1video | 留影烁今登录活动 | - | - |
 | act20login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
 | act20side | 理想城：长夏狂欢季 | Ideal City: Endless Carnival | 理想都市-エンドレスカーニバル- |
@@ -189,7 +189,7 @@ Event | なないろのお茶会 |
 | act42d0 | 纷争演绎 | Design of Strife | 紛争演繹 |
 | act42sign | 品鉴泰拉魔物 | Have A Taste Of Terran Monsters | テラ魔物品評 |
 | act43sign | 良辰迎月签到活动 | A Good Moony Time Login Event | 嘉辰令月スタンプ |
-| act44sign | 构想试炼签到活动 | - | - |
+| act44sign | 构想试炼签到活动 | - | 仮想試練スタンプ |
 | act45sign | 感谢庆典前瞻签到 | - | - |
 | act46sign | 感谢庆典限时签到 | - | - |
 | act47sign | 感谢庆典补给签到 | - | - |
@@ -205,7 +205,7 @@ Event | なないろのお茶会 |
 | act4switch | 时光的赠礼  | - | - |
 | act5d0 | 喧闹法则 | Code of Brawl | 喧騒の掟 |
 | act5d1 | 危机合约 | Contingency Contract | 危機契約 |
-| act5fun | 愚人节活动 | - | - |
+| act5fun | 愚人节活动 | - | エイプリルフール |
 | act5mine | 卡钳谷矿区限时开采许可 | Callipers Valley Mining Area Provisional Mining Permit | カリパスバレー採鉱区 |
 | act5pray | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |
 | act5sre | 沃伦姆德的薄暮·复刻 | Twilight of Wolumonde - Rerun | ウォルモンドの薄暮・復刻 |
