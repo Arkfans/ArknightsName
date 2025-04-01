@@ -213,6 +213,7 @@ Event | なないろのお茶会 |
 | act6d5 | 洪炉示岁 | Ancient Forge | 洪炉示歳 |
 | act6d7 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act6d8 | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
+| act6fun | 愚人节活动 | - | - |
 | act6login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
 | act6pray | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |
 | act6sre | 密林悍将归来·复刻 | The Great Chief Returns - Rerun | 帰還！密林の長・復刻 |

@@ -4006,17 +4006,17 @@ tip: 请善用浏览器的搜索功能
 |   | 整合运动成员A | Uneasy Reunion Fighter | 幻影兵 |
 |   | 整合运动战士 |   |   |
 | char_1002_nsabr_2 | 兵俑 | Crippled Reunion Fighter | ガレス |
-|   | 加勒斯 | Gareth | レユニオン兵士 |
-|   | 整合运动 | Reunion Blademaster | レユニオン刀兵 |
-|   | 整合运动A | Reunion Infected | レユニオン感染者 |
-|   | 整合运动刀兵 | Reunion Member | レユニオン戦士 |
-|   | 整合运动士兵 | Reunion Member A | レユニオン戦士B |
-|   | 整合运动感染者 | Reunion Soldier | レユニオン構成員 |
-|   | 整合运动成员 | Reunion Warrior | レユニオン構成員A |
-|   | 整合运动战士 | Silent Reunion Member | レユニオン構成員B |
-|   | 无声的整合运动 | Terracotta | レユニオン隊員 |
-|   | 跛脚的整合运动战士 |   | 幻影兵 |
-|   |   |   | 無言なレユニオン構成員 |
+|   | 凯文 | Gareth | レユニオン兵士 |
+|   | 加勒斯 | Reunion Blademaster | レユニオン刀兵 |
+|   | 整合运动 | Reunion Infected | レユニオン感染者 |
+|   | 整合运动A | Reunion Member | レユニオン戦士 |
+|   | 整合运动刀兵 | Reunion Member A | レユニオン戦士B |
+|   | 整合运动士兵 | Reunion Soldier | レユニオン構成員 |
+|   | 整合运动感染者 | Reunion Warrior | レユニオン構成員A |
+|   | 整合运动成员 | Silent Reunion Member | レユニオン構成員B |
+|   | 整合运动战士 | Terracotta | レユニオン隊員 |
+|   | 无声的整合运动 |   | 幻影兵 |
+|   | 跛脚的整合运动战士 |   | 無言なレユニオン構成員 |
 | char_1011_purgatory_1 | 炎熔 | Lava | エン |
 |   | 燚 | Yi | ラヴァ |
 | char_1011_wizard_1 | 乌萨斯术师 | Determined Reunion Caster | イラ |

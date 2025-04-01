@@ -21638,6 +21638,12 @@
       "zh_CN": "限时积分任务"
     }
   },
+  "act6fun": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "愚人节活动"
+    }
+  },
   "act6login": {
     "type": "ACTIVITY",
     "names": {
