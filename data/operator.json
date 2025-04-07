@@ -1526,6 +1526,12 @@
   "char_4177_brigid": {
     "zh_CN": "水灯心"
   },
+  "char_4178_alanna": {
+    "zh_CN": "阿兰娜"
+  },
+  "char_4179_monstr": {
+    "zh_CN": "Mon3tr"
+  },
   "char_420_flamtl": {
     "en_US": "Flametail",
     "ja_JP": "フレイムテイル",
@@ -1585,6 +1591,9 @@
     "en_US": "Pinecone",
     "ja_JP": "パインコーン",
     "zh_CN": "松果"
+  },
+  "char_445_wscoot": {
+    "zh_CN": "骋风"
   },
   "char_446_aroma": {
     "en_US": "Aroma",

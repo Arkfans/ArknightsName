@@ -298,6 +298,9 @@
     "ja_JP": "焼結核凝晶",
     "zh_CN": "烧结核凝晶"
   },
+  "30165": {
+    "zh_CN": "重相位对映体"
+  },
   "31013": {
     "en_US": "Coagulating Gel",
     "ja_JP": "人工ゲル",
@@ -382,6 +385,12 @@
     "en_US": "Cyclicene Prefab",
     "ja_JP": "プレハブ式炭化水素",
     "zh_CN": "环烃预制体"
+  },
+  "31093": {
+    "zh_CN": "类凝结核"
+  },
+  "31094": {
+    "zh_CN": "手性屈光体"
   },
   "3112": {
     "en_US": "Carbon Stick",
@@ -895,6 +904,12 @@
   },
   "SINGLE_55_0_1_GACHA_10": {
     "zh_CN": "未致蒙尘十连寻访凭证"
+  },
+  "SINGLE_60_0_1_GACHA": {
+    "zh_CN": "指令重构寻访凭证"
+  },
+  "SINGLE_60_0_1_GACHA_10": {
+    "zh_CN": "指令重构十连寻访凭证"
   },
   "SOCIAL_PT": {
     "en_US": "Credit",
@@ -1461,6 +1476,9 @@
   "act2collection_point_token": {
     "zh_CN": "“战略家”点数"
   },
+  "act2mainss_token": {
+    "zh_CN": "“勇气”胸章"
+  },
   "act2vmulti_token_cap": {
     "en_US": "Memento",
     "ja_JP": "参加記念",
@@ -1943,7 +1961,8 @@
   },
   "class_p_char_003_kalts": {
     "en_US": "Kal'tsit's Kernel Token",
-    "ja_JP": "ケルシーの印（中堅）"
+    "ja_JP": "ケルシーの印（中堅）",
+    "zh_CN": "凯尔希的中坚信物"
   },
   "class_p_char_010_chen": {
     "en_US": "Ch'en's Kernel Token",
@@ -2249,6 +2268,9 @@
     "en_US": "Platinum's Kernel Token",
     "ja_JP": "プラチナの印（中堅）",
     "zh_CN": "白金的中坚信物"
+  },
+  "class_p_char_206_gnosis": {
+    "zh_CN": "灵知的中坚信物"
   },
   "class_p_char_208_melan": {
     "en_US": "Melantha's Kernel Token",
@@ -2640,6 +2662,15 @@
     "ja_JP": "ユーネクテスの印（中堅）",
     "zh_CN": "森蚺的中坚信物"
   },
+  "class_p_char_420_flamtl": {
+    "zh_CN": "焰尾的中坚信物"
+  },
+  "class_p_char_421_crow": {
+    "zh_CN": "羽毛笔的中坚信物"
+  },
+  "class_p_char_422_aurora": {
+    "zh_CN": "极光的中坚信物"
+  },
   "class_p_char_423_blemsh": {
     "en_US": "Blemishine's Kernel Token",
     "ja_JP": "ブレミシャインの印（中堅）",
@@ -2647,12 +2678,22 @@
   },
   "class_p_char_426_billro": {
     "en_US": "Carnelian's Kernel Token",
-    "ja_JP": "カーネリアンの印（中堅）"
+    "ja_JP": "カーネリアンの印（中堅）",
+    "zh_CN": "卡涅利安的中坚信物"
+  },
+  "class_p_char_430_fartth": {
+    "zh_CN": "远牙的中坚信物"
+  },
+  "class_p_char_431_ashlok": {
+    "zh_CN": "灰毫的中坚信物"
   },
   "class_p_char_436_whispr": {
     "en_US": "Whisperain's Kernel Token",
     "ja_JP": "ウィスパーレインの印（中堅）",
     "zh_CN": "絮雨的中坚信物"
+  },
+  "class_p_char_437_mizuki": {
+    "zh_CN": "水月的中坚信物"
   },
   "class_p_char_440_pinecn": {
     "en_US": "Pinecone's Kernel Token",
@@ -2679,13 +2720,21 @@
     "ja_JP": "パッセンジャーの印（中堅）",
     "zh_CN": "异客的中坚信物"
   },
+  "class_p_char_473_mberry": {
+    "zh_CN": "桑葚的中坚信物"
+  },
   "class_p_char_475_akafyu": {
     "en_US": "Akafuyu's Kernel Token",
-    "ja_JP": "アカフユの印（中堅）"
+    "ja_JP": "アカフユの印（中堅）",
+    "zh_CN": "赤冬的中坚信物"
   },
   "class_p_char_478_kirara": {
     "en_US": "Kirara's Kernel Token",
-    "ja_JP": "キララの印（中堅）"
+    "ja_JP": "キララの印（中堅）",
+    "zh_CN": "绮良的中坚信物"
+  },
+  "class_p_char_479_sleach": {
+    "zh_CN": "琴柳的中坚信物"
   },
   "class_p_char_484_robrta": {
     "en_US": "Roberta's Kernel Token",
@@ -2694,7 +2743,11 @@
   },
   "class_p_char_485_pallas": {
     "en_US": "Pallas's Kernel Token",
-    "ja_JP": "パラスの印（中堅）"
+    "ja_JP": "パラスの印（中堅）",
+    "zh_CN": "帕拉斯的中坚信物"
+  },
+  "class_p_char_489_serum": {
+    "zh_CN": "蚀清的中坚信物"
   },
   "class_p_char_491_humus": {
     "en_US": "Humus's Kernel Token",
@@ -2921,6 +2974,9 @@
     "en_US": "Bounteous Fortunes Gift Bag",
     "ja_JP": "幸運満タンパック",
     "zh_CN": "福运鼓鼓礼袋"
+  },
+  "itempack_main_1": {
+    "zh_CN": "罗德岛补给箱"
   },
   "itempack_mod_10": {
     "en_US": "Sniper Chip Pack Etcher",
@@ -4522,6 +4578,12 @@
   "p_char_4177_brigid": {
     "zh_CN": "水灯心的信物"
   },
+  "p_char_4178_alanna": {
+    "zh_CN": "阿兰娜的信物"
+  },
+  "p_char_4179_monstr": {
+    "zh_CN": "Mon3tr的信物"
+  },
   "p_char_420_flamtl": {
     "en_US": "Flametail's Token",
     "ja_JP": "フレイムテイルの印",
@@ -4576,6 +4638,9 @@
     "en_US": "Pinecone's Token",
     "ja_JP": "パインコーンの印",
     "zh_CN": "松果的信物"
+  },
+  "p_char_445_wscoot": {
+    "zh_CN": "骋风的信物"
   },
   "p_char_446_aroma": {
     "en_US": "Aroma's Token",
@@ -4857,6 +4922,9 @@
     "en_US": "Rhodes Island Supplies VII",
     "ja_JP": "補給物資・ロドスVII",
     "zh_CN": "罗德岛物资补给VII"
+  },
+  "randomMaterial_11": {
+    "zh_CN": "罗德岛物资补给VIII"
   },
   "randomMaterial_2": {
     "en_US": "New Year's Lantern",

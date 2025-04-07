@@ -66,6 +66,7 @@ tip: 请善用浏览器的搜索功能
 | 30135 | D32钢 | D32 Steel | D32鋼 |
 | 30145 | 晶体电子单元 | Crystalline Electronic Unit | 結晶制御装置 |
 | 30155 | 烧结核凝晶 | Nucleic Crystal Sinter | 焼結核凝晶 |
+| 30165 | 重相位对映体 | - | - |
 | 31013 | 凝胶 | Coagulating Gel | 人工ゲル |
 | 31014 | 聚合凝胶 | Polymerized Gel | 融合ゲル |
 | 31023 | 炽合金 | Incandescent Alloy | 熾合金 |
@@ -83,6 +84,8 @@ tip: 请善用浏览器的搜索功能
 | 31074 | 固化纤维板 | Solidified Fiber Board | 硬化ファイバー基板 |
 | 31083 | 环烃聚质 | Aggregate Cyclicene | 炭化水素ポリマー |
 | 31084 | 环烃预制体 | Cyclicene Prefab | プレハブ式炭化水素 |
+| 31093 | 类凝结核 | - | - |
+| 31094 | 手性屈光体 | - | - |
 | 3112 | 碳 | Carbon Stick | 初級炭素材 |
 | 3113 | 碳素 | Carbon Brick | 中級炭素材 |
 | 3114 | 碳素组 | Carbon Pack | 上級炭素材 |
@@ -188,6 +191,8 @@ tip: 请善用浏览器的搜索功能
 | SINGLE_49_0_1_GACHA_10 | 如死亦终十连寻访凭证 | Like Ending Like Death Ten-roll Headhunting Permit | イベント10回スカウト券 |
 | SINGLE_55_0_1_GACHA | 未致蒙尘寻访凭证 | - | - |
 | SINGLE_55_0_1_GACHA_10 | 未致蒙尘十连寻访凭证 | - | - |
+| SINGLE_60_0_1_GACHA | 指令重构寻访凭证 | - | - |
+| SINGLE_60_0_1_GACHA_10 | 指令重构十连寻访凭证 | - | - |
 | SOCIAL_PT | 信用 | Credit | FP |
 | STORY_REVIEW_COIN | 事相碎片 | Information Fragments | 事象の欠片 |
 | act10d5_token_biscuit | 彼得海姆热销饼干 | Best-selling Peterheim Cookies | ぺテルヘイムクッキー |
@@ -305,6 +310,7 @@ tip: 请善用浏览器的搜索功能
 | act2bossrush_relic_04 | 调优重载 | Optimize Load | 積載調節 |
 | act2bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
 | act2collection_point_token | “战略家”点数 | - | - |
+| act2mainss_token | “勇气”胸章 | - | - |
 | act2vmulti_token_cap | 参赛纪念 | Memento | 参加記念 |
 | act30side_token_box | 驮兽盲盒 | Burdenbeast Blind Box | 駄獣ミニフィギュア |
 | act30side_token_box_rep_1 | 驮兽盲盒 | - | - |
@@ -411,7 +417,7 @@ tip: 请善用浏览器的搜索功能
 | ap_supply_lt_80_2025_1 | 清爽运动饮料 | - | - |
 | base_ap | 无人机 | Drone | ドローン |
 | bilibili001 | 预约干员随机4选1 | Preregister to get 1 of 4 Operators randomly | オペレーター指定券 |
-| class_p_char_003_kalts | - | Kal'tsit's Kernel Token | ケルシーの印（中堅） |
+| class_p_char_003_kalts | 凯尔希的中坚信物 | Kal'tsit's Kernel Token | ケルシーの印（中堅） |
 | class_p_char_010_chen | 陈的中坚信物 | Ch'en's Kernel Token | チェンの印（中堅） |
 | class_p_char_017_huang | 煌的中坚信物 | Blaze's Kernel Token | ブレイズの印（中堅） |
 | class_p_char_101_sora | 空的中坚信物 | Sora's Kernel Token | ソラの印（中堅） |
@@ -473,6 +479,7 @@ tip: 请善用浏览器的搜索功能
 | class_p_char_201_moeshd | 可颂的中坚信物 | Croissant's Kernel Token | クロワッサンの印（中堅） |
 | class_p_char_202_demkni | 塞雷娅的中坚信物 | Saria's Kernel Token | サリアの印（中堅） |
 | class_p_char_204_platnm | 白金的中坚信物 | Platinum's Kernel Token | プラチナの印（中堅） |
+| class_p_char_206_gnosis | 灵知的中坚信物 | - | - |
 | class_p_char_208_melan | 玫兰莎的中坚信物 | Melantha's Kernel Token | メランサの印（中堅） |
 | class_p_char_209_ardign | 卡缇的中坚信物 | Cardigan's Kernel Token | カーディの印（中堅） |
 | class_p_char_210_stward | 史都华德的中坚信物 | Steward's Kernel Token | スチュワードの印（中堅） |
@@ -551,18 +558,27 @@ tip: 请善用浏览器的搜索功能
 | class_p_char_4107_vrdant | 维荻的中坚信物 | Verdant's Kernel Token | ヴァーダントの印（中堅） |
 | class_p_char_415_flint | 燧石的中坚信物 | Flint's Kernel Token | フリントの印（中堅） |
 | class_p_char_416_zumama | 森蚺的中坚信物 | Eunectes's Kernel Token | ユーネクテスの印（中堅） |
+| class_p_char_420_flamtl | 焰尾的中坚信物 | - | - |
+| class_p_char_421_crow | 羽毛笔的中坚信物 | - | - |
+| class_p_char_422_aurora | 极光的中坚信物 | - | - |
 | class_p_char_423_blemsh | 瑕光的中坚信物 | Blemishine's Kernel Token | ブレミシャインの印（中堅） |
-| class_p_char_426_billro | - | Carnelian's Kernel Token | カーネリアンの印（中堅） |
+| class_p_char_426_billro | 卡涅利安的中坚信物 | Carnelian's Kernel Token | カーネリアンの印（中堅） |
+| class_p_char_430_fartth | 远牙的中坚信物 | - | - |
+| class_p_char_431_ashlok | 灰毫的中坚信物 | - | - |
 | class_p_char_436_whispr | 絮雨的中坚信物 | Whisperain's Kernel Token | ウィスパーレインの印（中堅） |
+| class_p_char_437_mizuki | 水月的中坚信物 | - | - |
 | class_p_char_440_pinecn | 松果的中坚信物 | Pinecone's Kernel Token | パインコーンの印（中堅） |
 | class_p_char_452_bstalk | 豆苗的中坚信物 | Beanstalk's Kernel Token | ビーンストークの印（中堅） |
 | class_p_char_455_nothin | 乌有的中坚信物 | Mr. Nothing's Kernel Token | ウユウの印（中堅） |
 | class_p_char_469_indigo | 深靛的中坚信物 | Indigo's Kernel Token | インディゴの印（中堅） |
 | class_p_char_472_pasngr | 异客的中坚信物 | Passenger's Kernel Token | パッセンジャーの印（中堅） |
-| class_p_char_475_akafyu | - | Akafuyu's Kernel Token | アカフユの印（中堅） |
-| class_p_char_478_kirara | - | Kirara's Kernel Token | キララの印（中堅） |
+| class_p_char_473_mberry | 桑葚的中坚信物 | - | - |
+| class_p_char_475_akafyu | 赤冬的中坚信物 | Akafuyu's Kernel Token | アカフユの印（中堅） |
+| class_p_char_478_kirara | 绮良的中坚信物 | Kirara's Kernel Token | キララの印（中堅） |
+| class_p_char_479_sleach | 琴柳的中坚信物 | - | - |
 | class_p_char_484_robrta | 罗比菈塔的中坚信物 | Roberta's Kernel Token | ロベルタの印（中堅） |
-| class_p_char_485_pallas | - | Pallas's Kernel Token | パラスの印（中堅） |
+| class_p_char_485_pallas | 帕拉斯的中坚信物 | Pallas's Kernel Token | パラスの印（中堅） |
+| class_p_char_489_serum | 蚀清的中坚信物 | - | - |
 | class_p_char_491_humus | 休谟斯的中坚信物 | Humus's Kernel Token | ヒューマスの印（中堅） |
 | classic_fes_pick_tier_5_3801 | 中坚甄选5星干员 | Kernel Locating 5* Operator | 中堅セレクト★5オペレーター |
 | classic_fes_pick_tier_5_4101 | 中坚甄选5星干员 | Kernel Locating 5* Operator | 中堅セレクト★5オペレーター |
@@ -609,6 +625,7 @@ tip: 请善用浏览器的搜索功能
 | et_ObsidianPass_rep_1 | 黑曜石节门票 | Obsidian Festival Ticket | フェスチケット |
 | favor_add_ulika | 主播U的直播切片 | Streamer U's Stream Clips | ライバーUの配信切り抜き |
 | itempack_gacha_1 | 福运鼓鼓礼袋 | Bounteous Fortunes Gift Bag | 幸運満タンパック |
+| itempack_main_1 | 罗德岛补给箱 | - | - |
 | itempack_mod_10 | 狙击芯片组印刻仪 | Sniper Chip Pack Etcher | 中級狙撃SoCプリンター |
 | itempack_mod_11 | 术师芯片组印刻仪 | Caster Chip Pack Etcher | 中級術師SoCプリンター |
 | itempack_mod_12 | 医疗芯片组印刻仪 | Medic Chip Pack Etcher | 中級医療SoCプリンター |
@@ -937,6 +954,8 @@ tip: 请善用浏览器的搜索功能
 | p_char_4172_xingzh | 行箸的信物 | - | - |
 | p_char_4173_nowell | 诺威尔的信物 | - | - |
 | p_char_4177_brigid | 水灯心的信物 | - | - |
+| p_char_4178_alanna | 阿兰娜的信物 | - | - |
+| p_char_4179_monstr | Mon3tr的信物 | - | - |
 | p_char_420_flamtl | 焰尾的信物 | Flametail's Token | フレイムテイルの印 |
 | p_char_421_crow | 羽毛笔的信物 | La Pluma's Token | ラ・プルマの印 |
 | p_char_422_aurora | 极光的信物 | Aurora's Token | オーロラの印 |
@@ -948,6 +967,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_436_whispr | 絮雨的信物 | Whisperain's Token | ウィスパーレインの印 |
 | p_char_437_mizuki | 水月的信物 | Mizuki's Token | ミヅキの印 |
 | p_char_440_pinecn | 松果的信物 | Pinecone's Token | パインコーンの印 |
+| p_char_445_wscoot | 骋风的信物 | - | - |
 | p_char_446_aroma | 阿罗玛的信物 | Aroma's Token | アロマの印 |
 | p_char_449_glider | 蜜莓的信物 | Honeyberry's Token | ハニーベリーの印 |
 | p_char_450_necras | 死芒的信物 | - | - |
@@ -1005,6 +1025,7 @@ tip: 请善用浏览器的搜索功能
 | randomMaterialRune_9 | 渊默行动物资补给 | Operation Deepness Supplies | 補給物資・「淵黙」 |
 | randomMaterial_1 | 罗德岛物资补给 | Rhodes Island Supplies | 補給物資・ロドス |
 | randomMaterial_10 | 罗德岛物资补给VII | Rhodes Island Supplies VII | 補給物資・ロドスVII |
+| randomMaterial_11 | 罗德岛物资补给VIII | - | - |
 | randomMaterial_2 | 岁过华灯 | New Year's Lantern | 年関ランタン |
 | randomMaterial_3 | 32h战略配给 | 32-hour Strategic Ration | 32h戦略補給 |
 | randomMaterial_4 | 感谢庆典物资补给 | Thank-You Celebration Supplies | 補給物資・「感謝祭」 |

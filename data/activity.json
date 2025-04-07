@@ -646,6 +646,9 @@
     "ja_JP": "アイアンリストシティ産業懇談会",
     "zh_CN": "铁腕城产业合作洽谈会"
   },
+  "act2mainss": {
+    "zh_CN": "离解复合"
+  },
   "act2mine": {
     "en_US": "Popping Valley Mining Area Login Event",
     "ja_JP": "ポッピングバレー採鉱区",

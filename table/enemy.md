@@ -149,9 +149,29 @@ tip: 请善用浏览器的搜索功能
 | enemy_10070_ftkbtt_2 | 灰烬艺术品 | - | - |
 | enemy_10071_ftprg | “终点” | - | - |
 | enemy_10071_ftprg_2 | “中点” | - | - |
+| enemy_10072_mpprhd | 侵入式调用 | - | - |
+| enemy_10073_mpcar | 迷茫的修理小助手 | - | - |
+| enemy_10073_mpcar_2 | 失控的修理小助手 | - | - |
+| enemy_10074_mpcata | 冰镇饮料机 | - | - |
+| enemy_10074_mpcata_2 | 加热饮料机 | - | - |
+| enemy_10075_mpwrj | 无忧货运帮手 | - | - |
+| enemy_10075_mpwrj_2 | 防爆货运帮手 | - | - |
+| enemy_10076_mpgrou | “寒灾回响” | - | - |
+| enemy_10076_mpgrou_2 | “风雪中的影子” | - | - |
+| enemy_10077_mpbarr | 内测版自助出餐终端 | - | - |
+| enemy_10077_mpbarr_2 | 自助出餐终端原型机 | - | - |
+| enemy_10078_mprein | 固化源石巨像 | - | - |
+| enemy_10078_mprein_2 | 活性源石巨像 | - | - |
+| enemy_10079_mpmage | 稳定态萨卡兹术师结晶 | - | - |
+| enemy_10079_mpmage_2 | 活性态萨卡兹术师结晶 | - | - |
 | enemy_1007_slime | 源石虫 | Originium Slug | オリジムシ |
 | enemy_1007_slime_2 | 源石虫·α | Originium Slug α | オリジムシα |
 | enemy_1007_slime_3 | 源石虫·β | Originium Slug β | オリジムシβ |
+| enemy_10080_mpiced | 静滞虚幻·α | - | - |
+| enemy_10080_mpiced_2 | 静滞虚幻·β | - | - |
+| enemy_10081_mpplai | 转译基底·α | - | - |
+| enemy_10081_mpplai_2 | 转译基底·β | - | - |
+| enemy_10082_mpweak | 弱化节点 | - | - |
 | enemy_1008_ghost | 幽灵 | Wraith | ゴースト兵 |
 | enemy_1009_lurker | 潜伏者 | Lurker | 潜入者 |
 | enemy_1010_demon | 萨卡兹大剑手 | Sarkaz Greatswordsman | サルカズ大剣士 |
@@ -1032,6 +1052,9 @@ tip: 请善用浏览器的搜索功能
 | enemy_1561_crzjdg | 安纳斯塔西奥，赎罪者 | - | - |
 | enemy_1562_cjtaot | 无餍 | - | - |
 | enemy_1563_fthlgj | “万火归一” | - | - |
+| enemy_1564_mpprts | PRTS，“源代码” | - | - |
+| enemy_1565_mpprme | 拟态机械 | - | - |
+| enemy_1566_mpascl | “阿斯卡纶” | - | - |
 | enemy_2001_duckmi | 鸭爵 | Duck Lord | ダック卿 |
 | enemy_2002_bearmi | 高普尼克 | Gopnik | ゴプニク |
 | enemy_2003_rockman | 迷路的巨像 | Lost Colossus | 迷子の巨像 |
@@ -1131,6 +1154,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_3005_lpeopl | 修道院居民 | Monastery Inhabitant | 修道院の住民 |
 | enemy_3005_lpeopl_2 | 修道院居民 | Monastery Inhabitant | 修道院の住民 |
 | enemy_3006_tersia | 特蕾西娅，“魔王” | Theresa, King of Sarkaz | Theresa・「魔王」 |
+| enemy_3009_mpprss | EYESOFPRIESTESS | - | - |
 | enemy_4001_toxcar | 改造瓦斯车 | Retrofitted Gastruck | 改造ガス車 |
 | enemy_4001_toxcar_2 | 高能瓦斯车 | Supercharged Gastruck | 拡容改造ガス車 |
 | enemy_4002_syokai | 二手廉价无人机 | Cheap Second-hand Drone | 中古低価ドローン |

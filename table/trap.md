@@ -272,6 +272,14 @@ tip: 请善用浏览器的搜索功能
 | trap_219_fttreant | 盾与墙 | - | - |
 | trap_220_ftbone | 旧日之火 | - | - |
 | trap_221_ftshad | 空壳 | - | - |
+| trap_227_mpweak | 弱化节点 | - | - |
+| trap_228_mptxs | 特雷西斯 | - | - |
+| trap_229_mpcata | 冰镇饮料机 | - | - |
+| trap_230_mpcatab | 加热饮料机 | - | - |
+| trap_231_mpgrou | “寒灾回响” | - | - |
+| trap_232_mpgroub | “风雪中的影子” | - | - |
+| trap_233_mpmage | 稳定态萨卡兹术师结晶 | - | - |
+| trap_234_mpmageb | 活性态萨卡兹术师结晶 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |
 | trap_401_xbfato | 木材采集站 | Sawing Harvester Hub | 木材採取基地 |
 | trap_403_wfactory | 蟹蟹抽水泵 | Crabbie Pumpie | カニカニポンプ |

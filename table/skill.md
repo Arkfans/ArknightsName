@@ -43,6 +43,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_aguard_1 | 亮剑 | Drawing Sword | 鋭刃 |
 | skchr_akafyu_1 | 信影流·雷刀之势 | Nobukage-ryu - Kaminari Gatana no Zei | 信影流・雷刀之勢 |
 | skchr_akafyu_2 | 信影流·十文字胜 | Nobukage-ryu - Juumonji Masaru | 信影流・十文字勝 |
+| skchr_alanna_1 | 气动增压 | - | - |
+| skchr_alanna_2 | “万斤顶” | - | - |
 | skchr_almond_1 | 磁力抓取 | Magnetic Grab | マグネットキャッチャー |
 | skchr_almond_2 | 强力牵引 | Power Traction | ハイパートラクション |
 | skchr_amedic_1 | 宛如天启 | Apocalyptic Scene | 天啓の光 |
@@ -455,6 +457,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_mm_2 | 束缚电击 | Binding Shock | スタンショック |
 | skchr_moeshd_1 | 自动防御 | Auto Defense | 防御態勢 |
 | skchr_moeshd_2 | 磁爆锤 | Magnetic Hammer | テスラハンマー |
+| skchr_monstr_1 | 策略：超压链接 | - | - |
+| skchr_monstr_2 | 策略：超负荷 | - | - |
+| skchr_monstr_3 | 策略：熔毁 | - | - |
 | skchr_morgan_1 | 街头好手 | Professional Street Fighter | ストリートパンク |
 | skchr_morgan_2 | 无畏招架 | Dauntless Resistance | 大胆不敵 |
 | skchr_mostma_2 | 荒时之锁 | Lock of Shattered Time | 時荒びの黒き錠 |
@@ -730,6 +735,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_wisdel_1 | 定点清算 | Localized Liquidation | クリアランス |
 | skchr_wisdel_2 | 饱和复仇 | Saturated Vengeance | オーバーレネゲード |
 | skchr_wisdel_3 | 爆裂黎明 | Explosive Dawn | デイブレイクバースト |
+| skchr_wscoot_1 | 以攻为守 | - | - |
+| skchr_wscoot_2 | 招无虚发 | - | - |
 | skchr_wulfen_1 | “驱兽专用” | - | - |
 | skchr_wulfen_2 | “顽石专用” | - | - |
 | skchr_wyvern_1 | 冲锋号令·援军 | Command - Reinforcement | 突撃指令・援軍 |
@@ -1085,9 +1092,14 @@ tip: 请善用浏览器的搜索功能
 | sktok_mlyss_wtrman_1 | 流形 | Flowing Shape | うつろう水影 |
 | sktok_mlyss_wtrman_2 | 流形 | Flowing Shape | うつろう水影 |
 | sktok_mlyss_wtrman_3 | 流形 | Flowing Shape | うつろう水影 |
+| sktok_monstr_prosts1 | 策略：超压链接 | - | - |
+| sktok_monstr_prosts2 | 策略：超负荷 | - | - |
+| sktok_monstr_prosts3 | 策略：熔毁 | - | - |
 | sktok_motter_1 | 迷惑装置 | Bionic Device | 攪乱装置 |
 | sktok_motter_2 | 爆破回收 | Detonate and Recycle | ミーボ起爆 |
 | sktok_mound | 风沙掩体 | Sandstorm Protection | 防風壁 |
+| sktok_mptxs_1 | 挥砍 | - | - |
+| sktok_mpweak_1 | 弱化 | - | - |
 | sktok_muctrl | 促融共竞控制 | Icebreaker Games Control | 協心競技制御装置 |
 | sktok_mufrbk | 临时休息舱 | - | - |
 | sktok_mufrbs | 便携健身架 | - | - |

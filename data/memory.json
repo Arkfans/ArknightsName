@@ -12,6 +12,9 @@
     "ja_JP": "壁",
     "zh_CN": "一面墙"
   },
+  "story_adnach_set_1_story_1": {
+    "zh_CN": "预备“先知”"
+  },
   "story_aglina_set_1_story_1": {
     "en_US": "'Package with No Recipient'",
     "ja_JP": "受取人のない荷物",
@@ -278,6 +281,9 @@
     "en_US": "Change",
     "ja_JP": "改変",
     "zh_CN": "改变"
+  },
+  "story_ccheal_set_1_story_1": {
+    "zh_CN": "学医之路"
   },
   "story_cello_set_1_story_1": {
     "en_US": "Himmelszelt und Federwolke",
@@ -769,6 +775,9 @@
     "ja_JP": "屈折した星光",
     "zh_CN": "被折射的星光"
   },
+  "story_kalts_set_1_story_1": {
+    "zh_CN": "长路至此"
+  },
   "story_kazema_set_1_story_1": {
     "en_US": "One Should, One Must",
     "ja_JP": "為すべきこと",
@@ -1147,6 +1156,9 @@
     "en_US": "Searching for Home",
     "ja_JP": "故郷をたどって",
     "zh_CN": "寻乡"
+  },
+  "story_robin_set_1_story_1": {
+    "zh_CN": "冷暖自知"
   },
   "story_robrta_set_1_story_1": {
     "en_US": "Elegy",

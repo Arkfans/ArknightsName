@@ -1148,6 +1148,30 @@
   "trap_221_ftshad": {
     "zh_CN": "空壳"
   },
+  "trap_227_mpweak": {
+    "zh_CN": "弱化节点"
+  },
+  "trap_228_mptxs": {
+    "zh_CN": "特雷西斯"
+  },
+  "trap_229_mpcata": {
+    "zh_CN": "冰镇饮料机"
+  },
+  "trap_230_mpcatab": {
+    "zh_CN": "加热饮料机"
+  },
+  "trap_231_mpgrou": {
+    "zh_CN": "“寒灾回响”"
+  },
+  "trap_232_mpgroub": {
+    "zh_CN": "“风雪中的影子”"
+  },
+  "trap_233_mpmage": {
+    "zh_CN": "稳定态萨卡兹术师结晶"
+  },
+  "trap_234_mpmageb": {
+    "zh_CN": "活性态萨卡兹术师结晶"
+  },
   "trap_400_xbfarm": {
     "en_US": "Portable Planting Trough",
     "ja_JP": "栽培ポット",

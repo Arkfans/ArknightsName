@@ -8,6 +8,7 @@ tip: 请善用浏览器的搜索功能
 | story_12fce_set_1_story_1 | 一些选择 | Certain Choices | ある選択 |
 | story_absin_set_1_story_1 | 向死寻生 | - | - |
 | story_acdrop_set_1_story_1 | 一面墙 | The Face of a Wall | 壁 |
+| story_adnach_set_1_story_1 | 预备“先知” | - | - |
 | story_aglina_set_1_story_1 | 没写收件人的包裹 | 'Package with No Recipient' | 受取人のない荷物 |
 | story_aglina_set_1_story_2 | 没写收件人的包裹 | 'Package with No Recipient' | 受取人のない荷物 |
 | story_agoat2_set_1_story_1 | 夜色中的第一步 | The First Step Into Night | 闇夜から歩き出して |
@@ -63,6 +64,7 @@ tip: 请善用浏览器的搜索功能
 | story_cast3_set_1_story_1 | 不朽 | Immortal | 不朽 |
 | story_catap_set_1_story_1 | 挣脱 | Break Free | 脱出 |
 | story_catap_set_2_story_1 | 改变 | Change | 改変 |
+| story_ccheal_set_1_story_1 | 学医之路 | - | - |
 | story_cello_set_1_story_1 | 天空与流云 | Himmelszelt und Federwolke | 空と雲 |
 | story_cement_set_1_story_1 | 矿井里的太阳 | Sun in the Mine | 坑道の中の太陽 |
 | story_cerber_set_1_story_1 | 特大号烤饼 | XXL Honey Biscuit | 特大クッキー |
@@ -163,6 +165,7 @@ tip: 请善用浏览器的搜索功能
 | story_judge_set_1_story_1 | 为你撑伞 | Under My Umbrella | あなたに傘を |
 | story_kafka_set_1_story_1 | 许以秘密 | Let's Keep That a Secret | 秘密を交わして |
 | story_kaitou_set_1_story_1 | 被折射的星光 | Refracted Starlight | 屈折した星光 |
+| story_kalts_set_1_story_1 | 长路至此 | - | - |
 | story_kazema_set_1_story_1 | 应为必为 | One Should, One Must | 為すべきこと |
 | story_kirara_set_1_story_1 | 隐藏结局 | Secret Ending | 隠しエンディング |
 | story_kirara_set_2_story_1 | 无伤通关 | No-Damage Clear | ノーダメージクリア |
@@ -240,6 +243,7 @@ tip: 请善用浏览器的搜索功能
 | story_quercu_set_2_story_1 | 生命的萌芽 | The Sprouts of Life | 命の芽吹き |
 | story_rdoc_set_1_story_1 | 模糊的面容 | Ambiguous Appearance | 朧げな面影 |
 | story_rfrost_set_1_story_1 | 寻乡 | Searching for Home | 故郷をたどって |
+| story_robin_set_1_story_1 | 冷暖自知 | - | - |
 | story_robrta_set_1_story_1 | 挽歌 | Elegy | 亡き者に捧ぐ歌 |
 | story_rockr_set_1_story_1 | 六百镑 | Six Hundred Pounds | 600ポンド |
 | story_rope_set_1_story_1 | 鲜花香水 | Floral Perfume | フラワーパフューム |

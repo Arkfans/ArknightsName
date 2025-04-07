@@ -731,6 +731,9 @@
     "ja_JP": "強敵襲来",
     "zh_CN": "强敌当前"
   },
+  "act2mainss_zone1": {
+    "zh_CN": "离解复合"
+  },
   "act30side_zone1": {
     "en_US": "Platform No. 3",
     "ja_JP": "3番ホーム",
@@ -1046,6 +1049,9 @@
     "en_US": "Stormwatch",
     "ja_JP": "暴風眺望",
     "zh_CN": "风暴瞭望"
+  },
+  "permanent_main_1_zone1": {
+    "zh_CN": "离解复合"
   },
   "permanent_sidestory_10_zone1": {
     "en_US": "Kawalerielki",

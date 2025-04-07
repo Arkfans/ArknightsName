@@ -318,6 +318,8 @@ tip: 请善用浏览器的搜索功能
 | char_4172_xingzh | 行箸 | - | - |
 | char_4173_nowell | 诺威尔 | - | - |
 | char_4177_brigid | 水灯心 | - | - |
+| char_4178_alanna | 阿兰娜 | - | - |
+| char_4179_monstr | Mon3tr | - | - |
 | char_420_flamtl | 焰尾 | Flametail | フレイムテイル |
 | char_421_crow | 羽毛笔 | La Pluma | ラ・プルマ |
 | char_422_aurora | 极光 | Aurora | オーロラ |
@@ -330,6 +332,7 @@ tip: 请善用浏览器的搜索功能
 | char_436_whispr | 絮雨 | Whisperain | ウィスパーレイン |
 | char_437_mizuki | 水月 | Mizuki | ミヅキ |
 | char_440_pinecn | 松果 | Pinecone | パインコーン |
+| char_445_wscoot | 骋风 | - | - |
 | char_446_aroma | 阿罗玛 | Aroma | アロマ |
 | char_449_glider | 蜜莓 | Honeyberry | ハニーベリー |
 | char_450_necras | 死芒 | - | - |

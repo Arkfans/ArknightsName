@@ -1468,6 +1468,9 @@
     "ja_JP": "来た道",
     "zh_CN": "来路"
   },
+  "char_4072_ironmn@ambienceSynesthesia#5": {
+    "zh_CN": "空心王冠"
+  },
   "char_4072_ironmn@summer#11": {
     "en_US": "Beach Guard GT003",
     "ja_JP": "砂浜の番人GT003",
@@ -1505,6 +1508,9 @@
     "en_US": "Moon under the Pines",
     "ja_JP": "松間月",
     "zh_CN": "松间月"
+  },
+  "char_4087_ines@ambienceSynesthesia#5": {
+    "zh_CN": "蝶舞华章"
   },
   "char_4087_ines@boc#8": {
     "en_US": "Under the Flaming Dome",
@@ -1590,6 +1596,9 @@
     "en_US": "Exhibition",
     "ja_JP": "エキシビション",
     "zh_CN": "展览"
+  },
+  "char_4131_odda@whirlwind#8": {
+    "zh_CN": "糖果暴击"
   },
   "char_4141_marcil@dungeon#1": {
     "en_US": "Terra & Traveller",

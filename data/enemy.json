@@ -537,6 +537,51 @@
   "enemy_10071_ftprg_2": {
     "zh_CN": "“中点”"
   },
+  "enemy_10072_mpprhd": {
+    "zh_CN": "侵入式调用"
+  },
+  "enemy_10073_mpcar": {
+    "zh_CN": "迷茫的修理小助手"
+  },
+  "enemy_10073_mpcar_2": {
+    "zh_CN": "失控的修理小助手"
+  },
+  "enemy_10074_mpcata": {
+    "zh_CN": "冰镇饮料机"
+  },
+  "enemy_10074_mpcata_2": {
+    "zh_CN": "加热饮料机"
+  },
+  "enemy_10075_mpwrj": {
+    "zh_CN": "无忧货运帮手"
+  },
+  "enemy_10075_mpwrj_2": {
+    "zh_CN": "防爆货运帮手"
+  },
+  "enemy_10076_mpgrou": {
+    "zh_CN": "“寒灾回响”"
+  },
+  "enemy_10076_mpgrou_2": {
+    "zh_CN": "“风雪中的影子”"
+  },
+  "enemy_10077_mpbarr": {
+    "zh_CN": "内测版自助出餐终端"
+  },
+  "enemy_10077_mpbarr_2": {
+    "zh_CN": "自助出餐终端原型机"
+  },
+  "enemy_10078_mprein": {
+    "zh_CN": "固化源石巨像"
+  },
+  "enemy_10078_mprein_2": {
+    "zh_CN": "活性源石巨像"
+  },
+  "enemy_10079_mpmage": {
+    "zh_CN": "稳定态萨卡兹术师结晶"
+  },
+  "enemy_10079_mpmage_2": {
+    "zh_CN": "活性态萨卡兹术师结晶"
+  },
   "enemy_1007_slime": {
     "en_US": "Originium Slug",
     "ja_JP": "オリジムシ",
@@ -551,6 +596,21 @@
     "en_US": "Originium Slug β",
     "ja_JP": "オリジムシβ",
     "zh_CN": "源石虫·β"
+  },
+  "enemy_10080_mpiced": {
+    "zh_CN": "静滞虚幻·α"
+  },
+  "enemy_10080_mpiced_2": {
+    "zh_CN": "静滞虚幻·β"
+  },
+  "enemy_10081_mpplai": {
+    "zh_CN": "转译基底·α"
+  },
+  "enemy_10081_mpplai_2": {
+    "zh_CN": "转译基底·β"
+  },
+  "enemy_10082_mpweak": {
+    "zh_CN": "弱化节点"
   },
   "enemy_1008_ghost": {
     "en_US": "Wraith",
@@ -4932,6 +4992,15 @@
   "enemy_1563_fthlgj": {
     "zh_CN": "“万火归一”"
   },
+  "enemy_1564_mpprts": {
+    "zh_CN": "PRTS，“源代码”"
+  },
+  "enemy_1565_mpprme": {
+    "zh_CN": "拟态机械"
+  },
+  "enemy_1566_mpascl": {
+    "zh_CN": "“阿斯卡纶”"
+  },
   "enemy_2001_duckmi": {
     "en_US": "Duck Lord",
     "ja_JP": "ダック卿",
@@ -5408,6 +5477,9 @@
     "en_US": "Theresa, King of Sarkaz",
     "ja_JP": "Theresa・「魔王」",
     "zh_CN": "特蕾西娅，“魔王”"
+  },
+  "enemy_3009_mpprss": {
+    "zh_CN": "EYESOFPRIESTESS"
   },
   "enemy_4001_toxcar": {
     "en_US": "Retrofitted Gastruck",

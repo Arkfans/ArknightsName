@@ -141,6 +141,12 @@
     "ja_JP": "信影流・十文字勝",
     "zh_CN": "信影流·十文字胜"
   },
+  "skchr_alanna_1": {
+    "zh_CN": "气动增压"
+  },
+  "skchr_alanna_2": {
+    "zh_CN": "“万斤顶”"
+  },
   "skchr_almond_1": {
     "en_US": "Magnetic Grab",
     "ja_JP": "マグネットキャッチャー",
@@ -2167,6 +2173,15 @@
     "ja_JP": "テスラハンマー",
     "zh_CN": "磁爆锤"
   },
+  "skchr_monstr_1": {
+    "zh_CN": "策略：超压链接"
+  },
+  "skchr_monstr_2": {
+    "zh_CN": "策略：超负荷"
+  },
+  "skchr_monstr_3": {
+    "zh_CN": "策略：熔毁"
+  },
   "skchr_morgan_1": {
     "en_US": "Professional Street Fighter",
     "ja_JP": "ストリートパンク",
@@ -3487,6 +3502,12 @@
     "en_US": "Explosive Dawn",
     "ja_JP": "デイブレイクバースト",
     "zh_CN": "爆裂黎明"
+  },
+  "skchr_wscoot_1": {
+    "zh_CN": "以攻为守"
+  },
+  "skchr_wscoot_2": {
+    "zh_CN": "招无虚发"
   },
   "skchr_wulfen_1": {
     "zh_CN": "“驱兽专用”"
@@ -5005,6 +5026,15 @@
     "ja_JP": "うつろう水影",
     "zh_CN": "流形"
   },
+  "sktok_monstr_prosts1": {
+    "zh_CN": "策略：超压链接"
+  },
+  "sktok_monstr_prosts2": {
+    "zh_CN": "策略：超负荷"
+  },
+  "sktok_monstr_prosts3": {
+    "zh_CN": "策略：熔毁"
+  },
   "sktok_motter_1": {
     "en_US": "Bionic Device",
     "ja_JP": "攪乱装置",
@@ -5019,6 +5049,12 @@
     "en_US": "Sandstorm Protection",
     "ja_JP": "防風壁",
     "zh_CN": "风沙掩体"
+  },
+  "sktok_mptxs_1": {
+    "zh_CN": "挥砍"
+  },
+  "sktok_mpweak_1": {
+    "zh_CN": "弱化"
   },
   "sktok_muctrl": {
     "en_US": "Icebreaker Games Control",
