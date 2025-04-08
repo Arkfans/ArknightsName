@@ -16,7 +16,7 @@ tip: 请善用浏览器的搜索功能
 |   | 玛嘉烈 | Nearl | マーガレット |
 |   | 耀骑士 | The Radiant Knight |   |
 | avg_1016_agoat2_1 | 阿黛尔 | Adele | アデル |
-| avg_1019_siege2_1 | 维娜 | - | - |
+| avg_1019_siege2_1 | 维娜 | - | ヴィーナ |
 | avg_1020_reed2_1 | 拉芙希妮 | Reed | リード |
 |   | 苇草 |   |   |
 |   | 高尚的红龙 |   |   |
@@ -260,7 +260,7 @@ tip: 请善用浏览器的搜索功能
 | avg_4058_pepe_1 | 佩佩 | Ceremony Host | ぺぺ |
 |   | 宝石屏风后的女性 | Pepe | 司会者 |
 |   | 集会主持人 | Woman Behind the Jeweled Screen | 衝立の後ろの女性 |
-| avg_405_absin_1 | 苦艾 | - | - |
+| avg_405_absin_1 | 苦艾 | - | アブサント |
 | avg_4062_totter_1 | “智者” | Totter | トター |
 |   | 托特尔 |   |   |
 |   | 铅踝 |   |   |
@@ -337,8 +337,8 @@ tip: 请善用浏览器的搜索功能
 |   | 娜仁图亚 | Odd Woman | ナラントゥヤ |
 |   | 鬼祟的女人 | Shady Woman | 奇妙な女性 |
 | avg_4139_papyrs_1 | 匆忙的女孩 | Anat | アナト |
-|   | 莎草 | Frantic Girl | 忙しない少女 |
-|   | 阿娜特 |   |   |
+|   | 莎草 | Frantic Girl | パピルス |
+|   | 阿娜特 |   | 忙しない少女 |
 | avg_4140_lasher_1 | 冷傲的市民 | Aloof Citizen | クールな市民 |
 |   | 拉恕尔 | Lazvar | ラズバール |
 |   | 瞌睡的市民 | Slumbering Citizen | 居眠りしていた市民 |
@@ -361,7 +361,7 @@ tip: 请善用浏览器的搜索功能
 |   | 锡人 | Tin Man | 奇妙な通行人 |
 | avg_4155_talr_1 | 卢奇诺 | - | - |
 |   | 裁缝店学徒 |   |   |
-| avg_4162_cathy_1 | 凯瑟琳 | - | - |
+| avg_4162_cathy_1 | 凯瑟琳 | - | キャサリン |
 | avg_4163_rosesa_1 | 伊西多 | - | - |
 |   | 卑鄙的摊贩 |   |   |
 |   | 帕斯卡拉 |   |   |
@@ -419,7 +419,7 @@ tip: 请善用浏览器的搜索功能
 | avg_486_espumo_1 | 埃内斯托 | Ernesto | エルネスト |
 |   | 特克诺 | Tecno | テキーラ |
 |   | 龙舌兰 | Tequila | テクノ |
-| avg_487_bobb_1 | 埃利西奥 | - | - |
+| avg_487_bobb_1 | 埃利西奥 | - | エリシオ |
 | avg_489_serum_1 | 蚀清 | Corroserum | コロセラム |
 | avg_491_humus_1 | 休谟斯 | Humus | ヒューマス |
 | avg_492_quercu_1 | 夏栎 | Quercus | クエルクス |
@@ -541,7 +541,7 @@ tip: 请善用浏览器的搜索功能
 |   | 菜贩 | Village Head | 農場主 |
 |   | 落魄的店主 | Village Headman | 運搬人 |
 |   | 赶路的工人 | Villager | 道を急ぐ労働者 |
-|   | 面包摊主 | Villager C |   |
+|   | 面包摊主 | Villager C | 高齢の工員 |
 |   |   | Wallen |   |
 | avg_npc_006 | 商人 | A Spectating Infected | くたびれた労働者 |
 |   | 小镇放映员 | Bar Owner | アル |
@@ -1095,50 +1095,50 @@ tip: 请善用浏览器的搜索功能
 |   | 起哄的阿达克利斯人 | Fighting Villager | 嘆くアダクリス人 |
 |   | 部族人A | Gator-headed Beast-man | 囃し立てるアダクリス人 |
 |   | 部族祭司 | Groaning Archosauria | 大胆なアダクリス |
-|   | 阿达克利斯B | Happy Archosauria | 愉快なアダクリス人 |
-|   | 阿达克利斯人 | Peta | 族長B |
-|   | 阿达克利斯人A | Rowdy Archosauria | 賢いアダクリス人 |
-|   | 阿达克利斯人B | Tribe Priest | 賢いワニ頭の亜人 |
-|   | 阿达克利斯人C | Villager A | 部族の祭司 |
-|   | 阿达克利斯人D | Yogi | 部族民A |
-|   | 阿达克利斯冠军 |   |   |
+|   | 阿达克利斯B | Happy Archosauria | 情熱的な村人 |
+|   | 阿达克利斯人 | Peta | 愉快なアダクリス人 |
+|   | 阿达克利斯人A | Rowdy Archosauria | 族長B |
+|   | 阿达克利斯人B | Tribe Priest | 賢いアダクリス人 |
+|   | 阿达克利斯人C | Villager A | 賢いワニ頭の亜人 |
+|   | 阿达克利斯人D | Yogi | 部族の祭司 |
+|   | 阿达克利斯冠军 |   | 部族民A |
 |   | 阿鲁纳 |   |   |
 |   | 鳄鱼头兽人 |   |   |
-| avg_npc_071 | 乌代 | Archosauria | アダクリスの勇士 |
-|   | 兴奋的阿达克利斯人 | Archosauria A | アダクリス人 |
-|   | 受伤的部族人 | Archosauria B | アダクリス人A |
-|   | 好奇的阿达克利斯人 | Archosauria Warrior | アダクリス人B |
-|   | 尤塔 | Clan Leader A | アダクリス人戦士 |
-|   | 急躁的村民 | Crying Villager | ウダイ |
-|   | 族长A | Curious Archosauria | ヨタ |
-|   | 暴怒的阿达克利斯人 | Excited Archosauria | 好奇心旺盛なアダクリス |
-|   | 流泪的部族人 | Furious Archosauria | 怪我をした部族民 |
-|   | 认真的阿达克利斯人 | Injured Villager | 族長A |
-|   | 部族人 | Serious Archosauria | 涙を流す部族民 |
-|   | 部族人B | Uda | 激怒するアダクリス人 |
-|   | 阿达克利斯A | Villager | 真面目なアダクリス人 |
-|   | 阿达克利斯人 | Villager B | 興奮したアダクリス人 |
-|   | 阿达克利斯人A | Yota | 興奮するアダクリス人 |
-|   | 阿达克利斯人B |   | 部族民 |
-|   | 阿达克利斯勇士 |   | 部族民B |
-|   | 阿达克利斯战士 |   |   |
+| avg_npc_071 | 乌代 | Archosauria | せっかちな村人 |
+|   | 兴奋的阿达克利斯人 | Archosauria A | アダクリスの勇士 |
+|   | 受伤的部族人 | Archosauria B | アダクリス人 |
+|   | 好奇的阿达克利斯人 | Archosauria Warrior | アダクリス人A |
+|   | 尤塔 | Clan Leader A | アダクリス人B |
+|   | 急躁的村民 | Crying Villager | アダクリス人戦士 |
+|   | 族长A | Curious Archosauria | ウダイ |
+|   | 暴怒的阿达克利斯人 | Excited Archosauria | ヨタ |
+|   | 流泪的部族人 | Furious Archosauria | 好奇心旺盛なアダクリス |
+|   | 认真的阿达克利斯人 | Injured Villager | 怪我をした部族民 |
+|   | 部族人 | Serious Archosauria | 族長A |
+|   | 部族人B | Uda | 涙を流す部族民 |
+|   | 阿达克利斯A | Villager | 激怒するアダクリス人 |
+|   | 阿达克利斯人 | Villager B | 真面目なアダクリス人 |
+|   | 阿达克利斯人A | Yota | 興奮したアダクリス人 |
+|   | 阿达克利斯人B |   | 興奮するアダクリス人 |
+|   | 阿达克利斯勇士 |   | 部族民 |
+|   | 阿达克利斯战士 |   | 部族民B |
 | avg_npc_072 | “萨尔贡人” | 'Sargonian' | 「サルゴン人」 |
 |   | 伤心的部族人 | Archosauria B | アダクリス人B |
 |   | 害羞的阿达克利斯人 | Archosauria C | アダクリス人C |
 |   | 欢呼的部族人 | Black Market Resident | サルゴン村人 |
 |   | 温柔的村民 | Cheering Villager | シャイなアダクリス人 |
-|   | 萨尔贡村民 | Sargon Villager | 喜び叫ぶ部族民 |
-|   | 部族人C | Shy Archosauria | 悲しむ部族民 |
-|   | 阿达克利斯人B | Sorrowful Villager | 部族民C |
-|   | 阿达克利斯人C | Villager C | 闇市の住民 |
-|   | 黑市居民 |   |   |
-| avg_npc_073 | 健壮的村民 | Angry Villager | アダクリス人 |
-|   | 忙碌的部族人 | Archosauria | サルゴン村人 |
-|   | 愤怒的部族人 | Black Market Resident | 怒る部族民 |
-|   | 直爽的阿达克利斯人 | Busy Villager | 救護にあたる部族民 |
-|   | 萨尔贡村民 | Frank Archosauria | 率直なアダクリス人 |
-|   | 阿达克利斯人 | Sargon Villager | 闇市の住民 |
-|   | 黑市居民 |   |   |
+|   | 萨尔贡村民 | Sargon Villager | 優しい村人 |
+|   | 部族人C | Shy Archosauria | 喜び叫ぶ部族民 |
+|   | 阿达克利斯人B | Sorrowful Villager | 悲しむ部族民 |
+|   | 阿达克利斯人C | Villager C | 部族民C |
+|   | 黑市居民 |   | 闇市の住民 |
+| avg_npc_073 | 健壮的村民 | Angry Villager | たくましい村人 |
+|   | 忙碌的部族人 | Archosauria | アダクリス人 |
+|   | 愤怒的部族人 | Black Market Resident | サルゴン村人 |
+|   | 直爽的阿达克利斯人 | Busy Villager | 怒る部族民 |
+|   | 萨尔贡村民 | Frank Archosauria | 救護にあたる部族民 |
+|   | 阿达克利斯人 | Sargon Villager | 率直なアダクリス人 |
+|   | 黑市居民 |   | 闇市の住民 |
 | avg_npc_074 | 大祭司 | High Priest | 大御所ミュージシャン |
 |   | 老牌音乐人 | Old School Musician | 大祭司 |
 | avg_npc_075 | 依娜姆 | Inam | イナム |
@@ -1452,8 +1452,8 @@ tip: 请善用浏览器的搜索功能
 |   | 高塔术师 | Spire Caster | 高塔術師 |
 | avg_npc_1136_1 | “造型独特的无人机” | 'Unique Drone Model' | 「独特な形状のドローン」 |
 | avg_npc_1156_1 | 发言人莫布 | Spokesman Mob | 代弁者モーブ |
-| avg_npc_1157_1 | 愤怒的议员 | Seasoned Soldier | 老練の兵士 |
-|   | 老练的士兵 |   |   |
+| avg_npc_1157_1 | 愤怒的议员 | Seasoned Soldier | 憤る議員 |
+|   | 老练的士兵 |   | 老練の兵士 |
 | avg_npc_1158_1 | 沉默的士兵 | Lead Soldier | リーダーの兵士 |
 |   | 领头的士兵 | Silent Soldier | 寡黙な兵士 |
 | avg_npc_1159_1 | 塔季扬娜 | Tatyana | タチアナ |
@@ -1593,14 +1593,14 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_1255_1 | 伦蒂尼姆居民 | Londinium Resident | レンタルショップ店主 |
 |   | 租赁店老板 | Rental Store Owner | ロンディニウム住民 |
 | avg_npc_1256_1 | 兴奋的商人 | Bejeweled Man | 工場長 |
-|   | 厂长 | Factory Director | 派手に着飾る男性 |
-|   | 商人 |   |   |
+|   | 厂长 | Factory Director | 慌てる事務員 |
+|   | 商人 |   | 派手に着飾る男性 |
 |   | 慌张的文员 |   |   |
 |   | 珠光宝气的男性 |   |   |
-| avg_npc_1257_1 | 外国富商 | Foreign Merchant | 外国の豪商 |
-|   | 谄媚的贵族 |   |   |
+| avg_npc_1257_1 | 外国富商 | Foreign Merchant | こびへつらう貴族 |
+|   | 谄媚的贵族 |   | 外国の豪商 |
 | avg_npc_1258_1 | 风姿绰约的女人 | Elegant Woman | 優美な女性 |
-| avg_npc_1259_1 | 平静的文官 | - | - |
+| avg_npc_1259_1 | 平静的文官 | - | 冷静な文官 |
 | avg_npc_1271_1 | 带队的军官 | Commanding Officer | 隊長 |
 |   | 谄媚的士兵 |   |   |
 | avg_npc_1272_1 | “利齿帮”头领 | Alert Soldier | 「シャープトゥース」ボス |
@@ -1706,8 +1706,8 @@ tip: 请善用浏览器的搜索功能
 |   | 死魂灵的阴影 | Slag Shadow | 不気味な影 |
 |   | 船舱中的影子 | Strange Shadow | 船室内の影 |
 | avg_npc_1341_1 | 濒死的食腐者 | Dying Nachzehrer | サルカズ戦士 |
-|   | 萨卡兹战士 | Sarkaz Warrior | 瀕死のナハツェーラー |
-|   | 食腐者王庭军 |   |   |
+|   | 萨卡兹战士 | Sarkaz Warrior | ナハツェーラー王庭軍 |
+|   | 食腐者王庭军 |   | 瀕死のナハツェーラー |
 | avg_npc_1342_1 | “铣痕” | Millscar | 「ミルスカー」 |
 | avg_npc_1343_1 | W | W | W |
 | avg_npc_1344_1 | 阿斯卡纶 | Ascalon | アスカロン |
@@ -1831,13 +1831,13 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_1454_1 | 节点炉看守人 | Furnace Node Keeper | 中継炉の見張り番 |
 |   | 萨卡兹平民 |   |   |
 | avg_npc_1455_1 | 年长的女性 | Crafty Merchant | 一人暮らしの老人 |
-|   | 独居的老人 | Old Woman | 抜け目ない商人 |
-|   | 精明的商人 |   |   |
+|   | 独居的老人 | Old Woman | 年長の女性 |
+|   | 精明的商人 |   | 抜け目ない商人 |
 | avg_npc_1456_1 | 恐惧的孩子 | - | - |
 | avg_npc_1457_1 | 不服气的孩子 | Cherie | チェリー |
 |   | 小樱桃 | Clever Girl | 利発な女の子 |
 |   | 机灵的女孩 | Furnaceside Kid | 炉辺の子供 |
-|   | 炉边的孩童 |   |   |
+|   | 炉边的孩童 |   | 納得できない子供 |
 | avg_npc_1477_1 | 米诺斯游客 | Aspasia | アスパシア |
 |   | 阿斯帕齐娅 | Ceremony Host | ミノスの観光客 |
 |   | 集会主持人 | Minoan Traveler | 司会者 |
@@ -1902,12 +1902,12 @@ tip: 请善用浏览器的搜索功能
 |   | 悲伤的女孩 |   | 興味津々な女の子 |
 |   | 感染者孩童 |   |   |
 | avg_npc_151 | 贝娜 | Bena | ベナ |
-| avg_npc_1518_1 | “小公爵” | - | - |
-| avg_npc_1519_1 | 退伍女兵 | - | - |
-|   | 黛安 |   |   |
+| avg_npc_1518_1 | “小公爵” | - | 「小公爵」 |
+| avg_npc_1519_1 | 退伍女兵 | - | ダイアン |
+|   | 黛安 |   | 退役女性兵 |
 | avg_npc_152 | 安妮 | Annie | アニー |
-| avg_npc_1520_1 | 希勒少尉 | - | - |
-| avg_npc_1521_1 | 神秘的血魔 | - | - |
+| avg_npc_1520_1 | 希勒少尉 | - | シアラー少尉 |
+| avg_npc_1521_1 | 神秘的血魔 | - | 謎のブラッドブルード |
 |   | 隐德来希 |   |   |
 | avg_npc_1522_1 | 隐德来希 | - | - |
 | avg_npc_1541_1 | 莱昂图索 | - | - |
@@ -2056,9 +2056,9 @@ tip: 请善用浏览器的搜索功能
 |   | 巡回医生 | Caravan Head | キャラバンのリーダー |
 |   | 开朗的前沙盗 | Cheerful Former Desert Bandit | サルゴン町民 |
 |   | 灰头土脸的女人 | Emilia | 冷静な女性 |
-|   | 爱麦拉 | Grimed Woman | 意気消沈した女性 |
-|   | 路过的萨尔贡镇民 | Passerby Sargon Townsfolk | 明るい元砂漠の盗賊 |
-|   | 阿诺 |   |   |
+|   | 爱麦拉 | Grimed Woman | 巡回医師 |
+|   | 路过的萨尔贡镇民 | Passerby Sargon Townsfolk | 意気消沈した女性 |
+|   | 阿诺 |   | 明るい元砂漠の盗賊 |
 | avg_npc_1630_1 | 大理寺司狱官 | - | - |
 |   | 大理寺官员 |   |   |
 |   | 疲惫的大理寺官员 |   |   |
@@ -2183,14 +2183,14 @@ tip: 请善用浏览器的搜索功能
 |   | 精疲力尽的子爵 | Noble? | 美しい貴族 |
 |   | 美丽的贵族 | Noblewoman | 自信溢れる貴族 |
 |   | 自满的贵族同学 | Opinionated Patient | 興味津々な観光客 |
-|   | 贵族女士 | Pretentious Noblewoman | 落ち着いた議員 |
-|   | 贵族女性 | Scathing Leithanian | 親切そうな貴族 |
-|   | 贵族？ | Self-Satisfied Noble Alumna | 貴族の女性 |
-|   | 身份高贵的女性 | Wealthy Woman | 貴族？ |
-|   | 迟疑的使节 | Witty Noble | 風流人ぶった女性貴族 |
-|   | 附庸风雅的女贵族 | Woman of High Status | 高貴な身分の女性 |
-|   | 雍容的议员 |   |   |
-|   | 面色和善的贵族 |   |   |
+|   | 贵族女士 | Pretentious Noblewoman | 華やかな議員 |
+|   | 贵族女性 | Scathing Leithanian | 落ち着いた議員 |
+|   | 贵族？ | Self-Satisfied Noble Alumna | 親切そうな貴族 |
+|   | 身份高贵的女性 | Wealthy Woman | 誇り高い議員 |
+|   | 迟疑的使节 | Witty Noble | 貴族の女性 |
+|   | 附庸风雅的女贵族 | Woman of High Status | 貴族？ |
+|   | 雍容的议员 |   | 風流人ぶった女性貴族 |
+|   | 面色和善的贵族 |   | 高貴な身分の女性 |
 |   | 风趣的贵族 |   |   |
 | avg_npc_1752_1 | 焦急的居民 | - | - |
 | avg_npc_176 | 主持人 | A Leithanian Nobleman | おしゃべりな商人 |
@@ -2199,27 +2199,27 @@ tip: 请善用浏览器的搜索功能
 |   | 剧院经理 | Bank President | カジノのオーナー |
 |   | 夸夸其谈的商人 | Casino Boss | ゴマをする収集家 |
 |   | 夸夸其谈的男人 | Elegant Ambassador | ベテラン投資家 |
-|   | 展会主持人 | Emotional Councilor | リターニア男性貴族 |
-|   | 市侩的贵族 | Enthusiastic Merchant | ヴィクトリアの伯爵 |
-|   | 微醺的商人 | Fretful Merchant | ヴィクトリアの豪商 |
-|   | 情绪激动的议员 | Genial Noble | 優雅な使節 |
-|   | 投资界前辈 | Greedy Businessman | 劇場の支配人 |
-|   | 报幕人 | Host | 司会者 |
-|   | 文雅的使节 | Local Judge A | 太った商人 |
-|   | 本地法官A | MC | 展覧会の司会者 |
-|   | 温和的贵族 | Mayor | 情熱的な商人 |
-|   | 游客 | Noble Gentleman | 感情的な議員 |
-|   | 热情的商人 | Plump Merchant | 浅ましい貴族 |
-|   | 焦躁的商人 | Pompous Merchant | 温和な貴族 |
-|   | 瘦子张 | Seasoned Investor | 現地の裁判官A |
-|   | 维多利亚伯爵 | Slimy Noble | 男性貴族 |
-|   | 维多利亚富商 | Theater Manager | 町長 |
-|   | 肥胖的商人 | Tipsy Businessman | 観光客 |
-|   | 莫里尔伯爵 | Tourist | 貪欲な商人 |
-|   | 莱塔尼亚男贵族 | Victorian Count | 銀行頭取 |
-|   | 谄媚的收藏家 | Victorian Magnate |   |
-|   | 谈笑风生的贵族 |   |   |
-|   | 贪婪的商人 |   |   |
+|   | 展会主持人 | Emotional Councilor | モリル伯爵 |
+|   | 市侩的贵族 | Enthusiastic Merchant | リターニア男性貴族 |
+|   | 微醺的商人 | Fretful Merchant | ヴィクトリアの伯爵 |
+|   | 情绪激动的议员 | Genial Noble | ヴィクトリアの豪商 |
+|   | 投资界前辈 | Greedy Businessman | 優雅な使節 |
+|   | 报幕人 | Host | 劇場の支配人 |
+|   | 文雅的使节 | Local Judge A | 司会者 |
+|   | 本地法官A | MC | 大口を叩く男 |
+|   | 温和的贵族 | Mayor | 太った商人 |
+|   | 游客 | Noble Gentleman | 展覧会の司会者 |
+|   | 热情的商人 | Plump Merchant | 情熱的な商人 |
+|   | 焦躁的商人 | Pompous Merchant | 感情的な議員 |
+|   | 瘦子张 | Seasoned Investor | 浅ましい貴族 |
+|   | 维多利亚伯爵 | Slimy Noble | 温和な貴族 |
+|   | 维多利亚富商 | Theater Manager | 現地の裁判官A |
+|   | 肥胖的商人 | Tipsy Businessman | 男性貴族 |
+|   | 莫里尔伯爵 | Tourist | 町長 |
+|   | 莱塔尼亚男贵族 | Victorian Count | 観光客 |
+|   | 谄媚的收藏家 | Victorian Magnate | 談笑する貴族 |
+|   | 谈笑风生的贵族 |   | 貪欲な商人 |
+|   | 贪婪的商人 |   | 銀行頭取 |
 |   | 贵族男士 |   |   |
 |   | 赌场老板 |   |   |
 |   | 银行行长 |   |   |
@@ -2236,21 +2236,21 @@ tip: 请善用浏览器的搜索功能
 |   | 年长的项目经理 | High-status Magnate | 地位の高い豪商 |
 |   | 库珀议员 | Hughes | 執事 |
 |   | 本地法官B | Local Judge B | 小狡い貴族 |
-|   | 殷勤的投资商 | Londinium Merchant | 市長 |
-|   | 焦急的病人 | Mayor | 派手に着飾った男 |
-|   | 看不清脸的商人 | Noble Man | 焦る病人 |
-|   | 破产商人 | Noblewoman and Wealthy Man | 物腰柔らかな投資家 |
-|   | 科威尔 | Obscured Merchant | 現地の裁判官B |
-|   | 管家 | Officer-in-Charge | 真面目な議員 |
-|   | 精明的贵族 | Pretentious Man | 破産した商人 |
-|   | 维多利亚旅人 | Representative Cooper | 臆病な市民 |
-|   | 老法官 | Senior Project Manager | 貴族の女性＆金持ちの男性 |
-|   | 胆怯的市民 | Timid Citizen | 貴族の男性 |
-|   | 衣着富贵的男人 | Wealthily-Dressed Man | 野心に満ちた男爵 |
-|   | 谄媚的贵族 | Wealthy Man | 金持ちの男性 |
-|   | 贝希曼 | Wildly Ambitious Baron | 顔の見えない商人 |
-|   | 贵族女性&富有的男性 | William | 風流人ぶる男 |
-|   | 贵族男性 |   |   |
+|   | 殷勤的投资商 | Londinium Merchant | 工場長 |
+|   | 焦急的病人 | Mayor | 市長 |
+|   | 看不清脸的商人 | Noble Man | 派手に着飾った男 |
+|   | 破产商人 | Noblewoman and Wealthy Man | 焦る病人 |
+|   | 科威尔 | Obscured Merchant | 物腰柔らかな投資家 |
+|   | 管家 | Officer-in-Charge | 現地の裁判官B |
+|   | 精明的贵族 | Pretentious Man | 真面目な議員 |
+|   | 维多利亚旅人 | Representative Cooper | 破産した商人 |
+|   | 老法官 | Senior Project Manager | 臆病な市民 |
+|   | 胆怯的市民 | Timid Citizen | 貴族の女性＆金持ちの男性 |
+|   | 衣着富贵的男人 | Wealthily-Dressed Man | 貴族の男性 |
+|   | 谄媚的贵族 | Wealthy Man | 野心に満ちた男爵 |
+|   | 贝希曼 | Wildly Ambitious Baron | 金持ちの男性 |
+|   | 贵族女性&富有的男性 | William | 顔の見えない商人 |
+|   | 贵族男性 |   | 風流人ぶる男 |
 |   | 轻浮的男爵 |   |   |
 |   | 野心勃勃的男爵 |   |   |
 |   | 附庸风雅的男人 |   |   |
@@ -2516,9 +2516,9 @@ tip: 请善用浏览器的搜索功能
 |   | 比利 | Naughty Child | 幼い子供 |
 |   | 沉默的孩子 | Small Child | 焦る子供 |
 |   | 焦急的孩子 | Taran Child | 痩せ細った子供 |
-|   | 狡猾的男孩 | Victorian Boy | 騎士 |
-|   | 瘦弱的孩子 |   |   |
-|   | 稚嫩的孩子 |   |   |
+|   | 狡猾的男孩 | Victorian Boy | 緊張した子供 |
+|   | 瘦弱的孩子 |   | 興味津々な子供 |
+|   | 稚嫩的孩子 |   | 騎士 |
 |   | 米伦 |   |   |
 |   | 紧张的孩子 |   |   |
 |   | 维多利亚少年 |   |   |
@@ -2530,66 +2530,67 @@ tip: 请善用浏览器的搜索功能
 |   | 巡逻队队长 | Guards Member | ヴィクトリア兵士 |
 |   | 年轻的士兵 | Guards' Captain | ヴィクトリア士官 |
 |   | 愤恨的士官 | Patrol Captain | ヴィクトリア将官 |
-|   | 气愤的联军士兵 | Soldier on Guard | 厳格な士官 |
-|   | 温和的军官 | Solemn Officer | 巡回隊隊長 |
-|   | 特别行动队士兵 | Special Forces Soldier | 憤る士官 |
-|   | 看守士兵 | Victorian Officer | 特殊行動隊兵士 |
-|   | 维多利亚军官 | Victorian Soldier | 監視兵 |
-|   | 维多利亚士兵 | Victorian Soldier A | 穏やかな将校 |
-|   | 维多利亚士兵A | Victorian Soldier B | 精神が崩壊した兵士 |
-|   | 维多利亚士兵B | Young Soldier | 若い兵士 |
-|   | 警备人员 |   | 警備隊員 |
-|   | 警备队长 |   | 警備隊長 |
+|   | 气愤的联军士兵 | Soldier on Guard | 冷静な兵士 |
+|   | 温和的军官 | Solemn Officer | 厳格な士官 |
+|   | 特别行动队士兵 | Special Forces Soldier | 巡回隊隊長 |
+|   | 看守士兵 | Victorian Officer | 憤る士官 |
+|   | 维多利亚军官 | Victorian Soldier | 特殊行動隊兵士 |
+|   | 维多利亚士兵 | Victorian Soldier A | 監視兵 |
+|   | 维多利亚士兵A | Victorian Soldier B | 穏やかな将校 |
+|   | 维多利亚士兵B | Young Soldier | 精神が崩壊した兵士 |
+|   | 警备人员 |   | 若い兵士 |
+|   | 警备队长 |   | 警備隊員 |
+|   |   |   | 警備隊長 |
 | avg_npc_242 | “工程师” | 'Engineer' | 「エンジニア」 |
 |   | 不友好的男性 | Amazed Passerby | 「ランプライター」 |
 |   | 于里安 | Angry Citizen | ウィル |
 |   | 亢奋的青年 | Angry Youth | ギャングの構成員A |
 |   | 信使麦克马丁 | Anxious Villager | クルーズ |
 |   | 厂主 | Bent | コミュニティの住民 |
-|   | 厨子麦克马丁 | Busy Youth | ターラーの流民 |
-|   | 受伤的青年 | Catastrophe Messenger | ターラー市民 |
-|   | 可疑的男人 | Chef MacMartin | バント |
-|   | 商人 | Community Resident | フリーランス記者 |
-|   | 塔拉市民 | Confused Resident | マクマーティン |
-|   | 塔拉流民 | Cruise Jr. | ミケル |
-|   | 天灾信使 | Embittered Man | ユリアン |
-|   | 威尔 | Excited Taran Refugee | 不審な男 |
-|   | 小克鲁斯 | Factory Owner | 勧誘をする同級生 |
-|   | 帮派分子A | Frightened Youth | 商人 |
-|   | 平和的拍摄人员 | Gangster A | 天災トランスポーター |
-|   | 开朗的士兵 | Gentleman | 忙しい青年 |
-|   | 彬彬有礼的先生 | Grieving Man | 怒った市民 |
-|   | 志愿者青年 | Hostile Man | 怒っている男性 |
-|   | 忙碌的青年 | Independent Reporter | 怖がる青年 |
-|   | 恐惧的青年 | Infected | 怯えきった青年 |
-|   | 悲愤的青年 | Infected Citizen | 感染者 |
-|   | 惊讶的路人 | Infected Villager | 感染者の村人 |
-|   | 感染者 | Jurian | 感染者市民 |
-|   | 感染者市民 | Lean Man | 慌てる青年 |
-|   | 感染者村民 | Merchant | 憤慨する青年 |
-|   | 愤怒的市民 | Messenger MacMartin | 有志の青年 |
-|   | 愤怒的男性 | Michael | 無愛想な男性 |
-|   | 慌张的青年 | Mysterious Informant | 焦っている青年 |
-|   | 拉拢客户的商人同学 | Panicked Youth | 町人A |
-|   | 斯坦 | Placid Photographer | 痩せた男性 |
-|   | 暴躁的塔拉流民 | Restless Youth | 痩せ細った脱走兵 |
-|   | 清瘦的男性 | Suspicious Man | 短気なターラー男性 |
-|   | 潦倒的市民 | Taran Citizen | 礼儀正しい男 |
-|   | 激动的塔拉流民 | Taran Refugee | 社長 |
-|   | 激动的市民 | Tempersome Taran Refugee | 穏やかな撮影スタッフ |
-|   | 烦躁的塔拉男性 | Timid Youth | 興奮したターラーの流民 |
-|   | 焦急的村民 | Townsfolk A | 苛立つ村人 |
-|   | 焦躁的青年 | Twitchy Taran Man | 苦しむ男性 |
-|   | 独立记者 | Unfamiliar Man | 荒っぽいターラーの流民 |
-|   | 班特 | Wasting Deserter | 見知らぬ男 |
-|   | 畏缩的青年 | Wheedling Merchant Alumnus | 訝しむ住民 |
-|   | 疑惑的居民 | Will | 謎の情報提供者 |
-|   | 痛苦的男性 | Wounded Youth | 負傷した青年 |
-|   | 瘦弱的逃兵 | Young Volunteer | 驚く通行人 |
-|   | 社区居民 |   |   |
-|   | 神秘线人 |   |   |
-|   | 米克尔 |   |   |
-|   | 记者 |   |   |
+|   | 厨子麦克马丁 | Busy Youth | スタン |
+|   | 受伤的青年 | Catastrophe Messenger | ターラーの流民 |
+|   | 可疑的男人 | Chef MacMartin | ターラー市民 |
+|   | 商人 | Community Resident | バント |
+|   | 塔拉市民 | Confused Resident | フリーランス記者 |
+|   | 塔拉流民 | Cruise Jr. | マクマーティン |
+|   | 天灾信使 | Embittered Man | ミケル |
+|   | 威尔 | Excited Taran Refugee | ユリアン |
+|   | 小克鲁斯 | Factory Owner | 不審な男 |
+|   | 帮派分子A | Frightened Youth | 勧誘をする同級生 |
+|   | 平和的拍摄人员 | Gangster A | 商人 |
+|   | 开朗的士兵 | Gentleman | 天災トランスポーター |
+|   | 彬彬有礼的先生 | Grieving Man | 忙しい青年 |
+|   | 志愿者青年 | Hostile Man | 怒った市民 |
+|   | 忙碌的青年 | Independent Reporter | 怒っている男性 |
+|   | 恐惧的青年 | Infected | 怖がる青年 |
+|   | 悲愤的青年 | Infected Citizen | 怯えきった青年 |
+|   | 惊讶的路人 | Infected Villager | 感染者 |
+|   | 感染者 | Jurian | 感染者の村人 |
+|   | 感染者市民 | Lean Man | 感染者市民 |
+|   | 感染者村民 | Merchant | 慌てる青年 |
+|   | 愤怒的市民 | Messenger MacMartin | 憤慨する青年 |
+|   | 愤怒的男性 | Michael | 明るい兵士 |
+|   | 慌张的青年 | Mysterious Informant | 有志の青年 |
+|   | 拉拢客户的商人同学 | Panicked Youth | 無愛想な男性 |
+|   | 斯坦 | Placid Photographer | 焦っている青年 |
+|   | 暴躁的塔拉流民 | Restless Youth | 町人A |
+|   | 清瘦的男性 | Suspicious Man | 痩せた男性 |
+|   | 潦倒的市民 | Taran Citizen | 痩せ細った脱走兵 |
+|   | 激动的塔拉流民 | Taran Refugee | 短気なターラー男性 |
+|   | 激动的市民 | Tempersome Taran Refugee | 礼儀正しい男 |
+|   | 烦躁的塔拉男性 | Timid Youth | 社長 |
+|   | 焦急的村民 | Townsfolk A | 穏やかな撮影スタッフ |
+|   | 焦躁的青年 | Twitchy Taran Man | 興奮したターラーの流民 |
+|   | 独立记者 | Unfamiliar Man | 興奮する市民 |
+|   | 班特 | Wasting Deserter | 苛立つ村人 |
+|   | 畏缩的青年 | Wheedling Merchant Alumnus | 苦しむ男性 |
+|   | 疑惑的居民 | Will | 荒っぽいターラーの流民 |
+|   | 痛苦的男性 | Wounded Youth | 落ちぶれた市民 |
+|   | 瘦弱的逃兵 | Young Volunteer | 見知らぬ男 |
+|   | 社区居民 |   | 訝しむ住民 |
+|   | 神秘线人 |   | 謎の情報提供者 |
+|   | 米克尔 |   | 負傷した青年 |
+|   | 记者 |   | 驚く通行人 |
 |   | 逃离城市的手艺人 |   |   |
 |   | 镇民A |   |   |
 |   | 陌生的男子 |   |   |
@@ -2601,15 +2602,15 @@ tip: 请善用浏览器的搜索功能
 |   | 帕萨多 | Lively Female Patient | 情報仲介人 |
 |   | 平静的感染者 | Maid | 感染者市民 |
 |   | 恐惧的女性 | Noble Sister | 慌てる商人 |
-|   | 悲伤的女性 | Overwrought Taran Refugee | 無関心な通行人 |
-|   | 情报中间人 | Pained Refugee | 町人B |
-|   | 惊慌的商人 | Panicked Merchant | 痩せた女性 |
-|   | 感染者市民 | Pasado | 緊張したターラーの流民 |
-|   | 慌张的女士 | Sorrowful Woman | 臆病な使用人 |
-|   | 漠然的路人 | Taran Refugee | 苦しむ難民 |
-|   | 痛苦的难民 | Townsfolk B | 貴族の妹 |
-|   | 瘦弱的女人 |   |   |
-|   | 精神的女病人 |   |   |
+|   | 悲伤的女性 | Overwrought Taran Refugee | 慌てる女性 |
+|   | 情报中间人 | Pained Refugee | 無関心な通行人 |
+|   | 惊慌的商人 | Panicked Merchant | 町人B |
+|   | 感染者市民 | Pasado | 痩せた女性 |
+|   | 慌张的女士 | Sorrowful Woman | 緊張したターラーの流民 |
+|   | 漠然的路人 | Taran Refugee | 臆病な使用人 |
+|   | 痛苦的难民 | Townsfolk B | 苦しむ難民 |
+|   | 瘦弱的女人 |   | 落ち着いた女性 |
+|   | 精神的女病人 |   | 貴族の妹 |
 |   | 紧张的塔拉流民 |   |   |
 |   | 谨小慎微的佣人 |   |   |
 |   | 贵族妹妹 |   |   |
@@ -2632,10 +2633,10 @@ tip: 请善用浏览器的搜索功能
 |   | 尖刻的军官 | Victorian Soldier | 参謀 |
 |   | 巡逻队士兵 | Victorian Soldier A | 巡回隊兵士 |
 |   | 巡逻队队员 | Victorian Soldier B | 巡回隊隊員 |
-|   | 维多利亚军人A |   | 辛辣な士官 |
-|   | 维多利亚军人B |   |   |
-|   | 维多利亚士兵 |   |   |
-|   | 醉酒的议员 |   |   |
+|   | 维多利亚军人A |   | 興奮した兵士 |
+|   | 维多利亚军人B |   | 辛辣な士官 |
+|   | 维多利亚士兵 |   | 都市防衛軍巡ら隊 |
+|   | 醉酒的议员 |   | 酔った議員 |
 | avg_npc_249_1 | Touch | Touch | Touch |
 | avg_npc_250_1 | 路人 | Kjarr | ヤエル |
 |   | 雅儿 | Passerby | 狩人？ |
@@ -2659,7 +2660,7 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_269 | 侍女 | Servant | 侍女 |
 | avg_npc_270_1 | 布朗陶家贵族 | Browntail Family Noble | ブラウンテイル家貴族 |
 | avg_npc_271_1 | 刻薄的男贵族 | Scathing Nobleman | 冷酷な男性貴族 |
-|   | 学者 |   |   |
+|   | 学者 |   | 出迎え役の従者 |
 |   | 王局长 |   |   |
 |   | 负责接待的侍从 |   |   |
 | avg_npc_272_1 | 好客的老乡 | Hospitable Villager | もてなし好きの地元民 |
@@ -2822,11 +2823,11 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_327_1 | Guard | Guard | Guard |
 | avg_npc_328_1 | 雷德 | Red | レイド |
 | avg_npc_329_1 | 不怀好意的市民 | Bean the Infected | ゴードン |
-|   | 感染者毕恩 | Gordon | 感染者ビーン |
-|   | 慌张的工人 | Nervous Infected | 緊張する感染者 |
-|   | 戈登 | Pale Man | 顔面蒼白の男 |
-|   | 紧张的感染者 |   |   |
-|   | 面色苍白的男子 |   |   |
+|   | 感染者毕恩 | Gordon | 悪意を抱く市民 |
+|   | 慌张的工人 | Nervous Infected | 感染者ビーン |
+|   | 戈登 | Pale Man | 慌てる労働者 |
+|   | 紧张的感染者 |   | 緊張する感染者 |
+|   | 面色苍白的男子 |   | 顔面蒼白の男 |
 | avg_npc_330_1 | 加勒斯 | Gareth | ガレス |
 |   | 整合运动战士 | Reunion Warrior | レユニオン戦士 |
 | avg_npc_331_1 | 医生 | Phantom Crossbowman | 迷彩狙撃兵 |
@@ -2922,34 +2923,35 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_396_1 | 达格达 | Dagda | ダグザ |
 | avg_npc_397_1 | 阿勒黛 | Allerdale | アラデル |
 | avg_npc_398_1 | 典范军战士 | Exemplar Soldier | 模範軍戦士 |
-|   | 自救军成员 | Self-Salvation Corps Fighter | 自救軍の戦士 |
-|   | 自救军战士 | Self-Salvation Corps Member | 自救軍メンバー |
-|   | 退伍典范军 | Self-Salvation Corps Soldier | 自救軍戦士 |
-| avg_npc_399_1 | 不屑的佣兵 | Columbian Mercenary | クルビア傭兵 |
-|   | 不满的私兵 | Former Defense Forces Soldier | ヴィクトリア傭兵 |
-|   | 不耐烦的佣兵 | Inspector A | 不満げな私兵 |
-|   | 前城防军成员 | Inspector B | 元都市防衛軍の兵士 |
-|   | 哥伦比亚雇佣兵 | Nervous Soldier | 商会警備員 |
-|   | 商会保安 | Security Detail | 恐れる私兵 |
-|   | 平静的佣兵 | Special Forces Captain | 検査官A |
-|   | 恐惧的私兵 | Terrified Soldier | 検査官B |
-|   | 担忧的佣兵 | Unhappy Soldier | 特殊行動隊隊長 |
-|   | 检验官A | Victorian Mercenary | 緊張する私兵 |
-|   | 检验官B |   |   |
-|   | 特别行动队队长 |   |   |
-|   | 疲惫的佣兵 |   |   |
-|   | 神秘的雇佣兵 |   |   |
-|   | 紧张的佣兵 |   |   |
-|   | 紧张的私兵 |   |   |
-|   | 维多利亚雇佣兵 |   |   |
-|   | 警惕的佣兵 |   |   |
-|   | 谨慎的佣兵 |   |   |
+|   | 自救军成员 | Self-Salvation Corps Fighter | 模範軍退役者 |
+|   | 自救军战士 | Self-Salvation Corps Member | 自救軍の戦士 |
+|   | 退伍典范军 | Self-Salvation Corps Soldier | 自救軍メンバー |
+|   |   |   | 自救軍戦士 |
+| avg_npc_399_1 | 不屑的佣兵 | Columbian Mercenary | さげすむ傭兵 |
+|   | 不满的私兵 | Former Defense Forces Soldier | クルビア傭兵 |
+|   | 不耐烦的佣兵 | Inspector A | ヴィクトリア傭兵 |
+|   | 前城防军成员 | Inspector B | 不満げな私兵 |
+|   | 哥伦比亚雇佣兵 | Nervous Soldier | 元都市防衛軍の兵士 |
+|   | 商会保安 | Security Detail | 冷静な傭兵 |
+|   | 平静的佣兵 | Special Forces Captain | 商会警備員 |
+|   | 恐惧的私兵 | Terrified Soldier | 心配する傭兵 |
+|   | 担忧的佣兵 | Unhappy Soldier | 恐れる私兵 |
+|   | 检验官A | Victorian Mercenary | 慎重な傭兵 |
+|   | 检验官B |   | 検査官A |
+|   | 特别行动队队长 |   | 検査官B |
+|   | 疲惫的佣兵 |   | 特殊行動隊隊長 |
+|   | 神秘的雇佣兵 |   | 疲弊した傭兵 |
+|   | 紧张的佣兵 |   | 緊張する傭兵 |
+|   | 紧张的私兵 |   | 緊張する私兵 |
+|   | 维多利亚雇佣兵 |   | 謎の傭兵 |
+|   | 警惕的佣兵 |   | 警戒する傭兵 |
+|   | 谨慎的佣兵 |   | 面倒がる傭兵 |
 |   | 郡警 |   |   |
 | avg_npc_400_1 | 从容的女性 | Calm Woman | ハイディ |
 |   | 海蒂 | Heidi | 余裕のある女性 |
-| avg_npc_401_1 | “独角兽” | Clovisia | クロヴィシア |
-|   | 克洛维希娅 | Young-sounding Voice | 若い声 |
-|   | 年轻的声音 |   |   |
+| avg_npc_401_1 | “独角兽” | Clovisia | 「ユニコーン」 |
+|   | 克洛维希娅 | Young-sounding Voice | クロヴィシア |
+|   | 年轻的声音 |   | 若い声 |
 | avg_npc_402_1 | 费斯特 | Feist | フェイスト |
 | avg_npc_403_1 | 战士比尔 | Bill | ビル |
 |   | 战士比尔？ | Bill? | ビル？ |
@@ -2972,17 +2974,17 @@ tip: 请善用浏览器的搜索功能
 |   | 维多利亚士兵 | Veteran Officer | ヴィクトリア士官 |
 |   | 维多利亚士兵？ | Victorian Barracks Officer | ヴィクトリア駐屯軍 |
 |   | 维多利亚士官 | Victorian Officer | 上級士官 |
-|   | 维多利亚驻军 | Victorian Sergeant | 精悍な兵士 |
-|   | 联军士兵 | Victorian Soldier | 赤鉄親衛隊隊員 |
-|   | 行刑的士兵 | Victorian Soldier? |   |
-|   | 资深的军官 |   |   |
-|   | 赤铁近卫队成员 |   |   |
+|   | 维多利亚驻军 | Victorian Sergeant | 無鉄砲な兵士 |
+|   | 联军士兵 | Victorian Soldier | 精悍な兵士 |
+|   | 行刑的士兵 | Victorian Soldier? | 緊張する兵士 |
+|   | 资深的军官 |   | 興奮した兵士 |
+|   | 赤铁近卫队成员 |   | 赤鉄親衛隊隊員 |
 |   | 高级军官 |   |   |
 |   | 鲁莽的士兵 |   |   |
-| avg_npc_409_1 | 兴奋的军人 | Flag Officer | ヴィクトリア兵士 |
-|   | 悠闲的市民 | Victorian Officer | ヴィクトリア士官 |
-|   | 维多利亚军官 | Victorian Soldier | 上級士官 |
-|   | 维多利亚士兵 |   |   |
+| avg_npc_409_1 | 兴奋的军人 | Flag Officer | のんびりした市民 |
+|   | 悠闲的市民 | Victorian Officer | ヴィクトリア兵士 |
+|   | 维多利亚军官 | Victorian Soldier | ヴィクトリア士官 |
+|   | 维多利亚士兵 |   | 上級士官 |
 |   | 高级军官 |   |   |
 | avg_npc_410_1 | 年轻的血魔？ | Duq'arael | ドゥカレ |
 |   | 杜卡雷 | Sanguinarch of Vampires | ブラッドブルードの大君 |
@@ -3000,26 +3002,26 @@ tip: 请善用浏览器的搜索功能
 |   | 维多利亚士兵D | Victorian Soldier | ヴィクトリア兵士 |
 |   | 罗本 | Victorian Soldier C | 弱った兵士 |
 |   | 虚弱的士兵 | Victorian Soldier D | 暗い表情の兵士 |
-|   | 醉醺醺的士兵 |   |   |
-|   | 阴沉的士兵 |   |   |
+|   | 醉醺醺的士兵 |   | 泥酔した兵士 |
+|   | 阴沉的士兵 |   | 興奮した兵士 |
 | avg_npc_415_1 | 卡谢娜 | Hippogryph Teacher | コシェルナ |
 |   | 骏鹰老师 | Koshelna | ヒッポグリフの先生 |
-| avg_npc_416_1 | 伦蒂尼姆市民 | Astonished Resident | ダブリンの伝令 |
-|   | 伦蒂尼姆市民？ | Desperate Thug | ノーポート難民 |
-|   | 和蔼的商人 | Dublinn Messenger | レユニオンメンバー |
-|   | 失去土地的农民 | Frightened Refugee | ロンディニウム市民 |
-|   | 实习摄影师 | Jittery Citizen | ロンディニウム市民？ |
-|   | 帮派成员 | Londinium Citizen | 恐怖する難民 |
-|   | 恐惧的难民 | Londinium Citizen? | 絶望した暴徒 |
-|   | 惊讶的居民 | Nervous Citizen | 緊張する市民 |
-|   | 整合运动成员 | Nervous Infected | 緊張する感染者 |
-|   | 深池信使 | Norport Refugee | 苛立つ住民 |
-|   | 烦躁的市民 | Reunion Member | 警戒心の強い密輸犯 |
-|   | 紧张的市民 | Starving Thug | 警戒心の強い男 |
-|   | 紧张的感染者 | Wary Man | 飢えた暴徒 |
-|   | 紧张的男性 | Wary Smuggler | 驚く住民 |
-|   | 绝望的暴徒 |   |   |
-|   | 警惕的男人 |   |   |
+| avg_npc_416_1 | 伦蒂尼姆市民 | Astonished Resident | ギャングメンバー |
+|   | 伦蒂尼姆市民？ | Desperate Thug | ダブリンの伝令 |
+|   | 和蔼的商人 | Dublinn Messenger | ノーポート難民 |
+|   | 失去土地的农民 | Frightened Refugee | レユニオンメンバー |
+|   | 实习摄影师 | Jittery Citizen | ロンディニウム市民 |
+|   | 帮派成员 | Londinium Citizen | ロンディニウム市民？ |
+|   | 恐惧的难民 | Londinium Citizen? | 恐怖する難民 |
+|   | 惊讶的居民 | Nervous Citizen | 穏やかな商人 |
+|   | 整合运动成员 | Nervous Infected | 絶望した暴徒 |
+|   | 深池信使 | Norport Refugee | 緊張する市民 |
+|   | 烦躁的市民 | Reunion Member | 緊張する感染者 |
+|   | 紧张的市民 | Starving Thug | 苛立つ住民 |
+|   | 紧张的感染者 | Wary Man | 警戒心の強い密輸犯 |
+|   | 紧张的男性 | Wary Smuggler | 警戒心の強い男 |
+|   | 绝望的暴徒 |   | 飢えた暴徒 |
+|   | 警惕的男人 |   | 驚く住民 |
 |   | 警惕的走私客 |   |   |
 |   | 诺伯特难民 |   |   |
 |   | 饥饿的暴徒 |   |   |
@@ -3032,10 +3034,10 @@ tip: 请善用浏览器的搜索功能
 |   | 愤怒的暴徒 | Londinium Citizen | 歓喜する住民 |
 |   | 报刊亭老板 | Newsagent | 理髪師 |
 |   | 欢呼的市民 | Skeptical Citizen | 興奮した暴徒 |
-|   | 激动的居民 | Tired Citizen | 訝しむ住民 |
-|   | 激动的暴徒 | Worked-Up Thug | 農夫 |
-|   | 理发师 |   |   |
-|   | 疑惑的市民 |   |   |
+|   | 激动的居民 | Tired Citizen | 落ち着かない市民 |
+|   | 激动的暴徒 | Worked-Up Thug | 訝しむ住民 |
+|   | 理发师 |   | 農夫 |
+|   | 疑惑的市民 |   | 食堂管理員 |
 |   | 疲惫的市民 |   |   |
 |   | 食堂管理员 |   |   |
 | avg_npc_418_1 | 伦蒂尼姆市民 | Catastrophe Messenger | すらっとした発明家 |
@@ -3050,9 +3052,9 @@ tip: 请善用浏览器的搜索功能
 |   | 慌乱的女性 | Londinium Citizen B | 天災トランスポーター |
 |   | 憔悴的女人 | New Teacher | 天災トランスポーター？ |
 |   | 新老师 | Strange Woman | 新任教師 |
-|   | 犹豫的居民 | Tamika | 見知らぬ女性 |
-|   | 疗养院患者 |   |   |
-|   | 瘦高的发明者 |   |   |
+|   | 犹豫的居民 | Tamika | 模範軍看護師 |
+|   | 疗养院患者 |   | 療養所患者 |
+|   | 瘦高的发明者 |   | 見知らぬ女性 |
 |   | 艾维 |   |   |
 |   | 陌生女人 |   |   |
 | avg_npc_419_1 | “拖把头” | Composed Soldier | サルカズ下級士官 |
@@ -3084,17 +3086,17 @@ tip: 请善用浏览器的搜索功能
 |   | 小有积蓄的农场主 | Gangster B | 冷たい感染者 |
 |   | 帮派分子B | Indifferent Infected | 少し蓄えのある農場主 |
 |   | 麻木的塔拉男性 | Skint Farmer | 無関心なターラー男性 |
-| avg_npc_422_1 | 勤快的守卫 | Victorian Soldier | ヴィクトリア兵士 |
-|   | 声音颤抖的队员 |   |   |
-|   | 维多利亚士兵 |   |   |
-|   | 维多利亚士官 |   |   |
-| avg_npc_423_1 | 典范军士兵 | Injured Soldier | 捕虜の兵士 |
-|   | 受伤的典范军士兵 | Prisoner | 救出された兵士 |
-|   | 受伤的士兵 | Rescued Soldier | 負傷した兵士 |
-|   | 气喘吁吁的士兵 |   |   |
-|   | 沃克 |   |   |
-|   | 疲惫的伤员 |   |   |
-|   | 积极的士兵 |   |   |
+| avg_npc_422_1 | 勤快的守卫 | Victorian Soldier | テキパキと働く守衛 |
+|   | 声音颤抖的队员 |   | ヴィクトリア兵士 |
+|   | 维多利亚士兵 |   | ヴィクトリア士官 |
+|   | 维多利亚士官 |   | 震えた声の隊員 |
+| avg_npc_423_1 | 典范军士兵 | Injured Soldier | ウォーカー |
+|   | 受伤的典范军士兵 | Prisoner | 息を切らす兵士 |
+|   | 受伤的士兵 | Rescued Soldier | 捕虜の兵士 |
+|   | 气喘吁吁的士兵 |   | 救出された兵士 |
+|   | 沃克 |   | 積極的な兵士 |
+|   | 疲惫的伤员 |   | 負傷した兵士 |
+|   | 积极的士兵 |   | 負傷した模範軍兵士 |
 |   | 维多利亚伤兵 |   |   |
 |   | 获救士兵 |   |   |
 |   | 被俘的士兵 |   |   |
@@ -3487,35 +3489,35 @@ tip: 请善用浏览器的搜索功能
 |   | 茉莉 | Molly | モリー |
 |   |   |   | 変形者 |
 | avg_npc_658_1 | 管家艾尔希 | Ailshie | 執事エルシー |
-| avg_npc_659_1 | “大扳手” | Londinium Worker | ロンディニウム工員 |
-|   | 伦蒂尼姆工人 | Londinium Worker B | ロンディニウム工員B |
-|   | 伦蒂尼姆工人B | Victorian Worker | ヴィクトリア人労働者 |
-|   | 委屈的工人 |   |   |
-|   | 局促的议员 |   |   |
-|   | 忧伤的人 |   |   |
-|   | 粗犷的议员 |   |   |
+| avg_npc_659_1 | “大扳手” | Londinium Worker | やりきれない労働者 |
+|   | 伦蒂尼姆工人 | Londinium Worker B | ロンディニウム工員 |
+|   | 伦蒂尼姆工人B | Victorian Worker | ロンディニウム工員B |
+|   | 委屈的工人 |   | ヴィクトリア人労働者 |
+|   | 局促的议员 |   | 悲しむ人 |
+|   | 忧伤的人 |   | 荒々しい議員 |
+|   | 粗犷的议员 |   | 落ち着かない議員 |
 |   | 维多利亚工人 |   |   |
 | avg_npc_660_1 | 伦蒂尼姆工人 | Desperate Refugee | ロンディニウム工員 |
 |   | 伦蒂尼姆工人A | Londinium Worker | ロンディニウム工員A |
 |   | 修理铺钳工 | Londinium Worker A | 修理屋職人 |
 |   | 开心的工人 | Panicked Refugee | 取り乱す難民 |
-|   | 慌乱的难民 | Repair Shop Machinist | 絶望した難民 |
-|   | 激动的工人 |   |   |
-|   | 热情的工人 |   |   |
-|   | 绝望的难民 |   |   |
-| avg_npc_661_1 | 农民 | Curious Girl | ホープ |
-|   | 天真的孩子 | Enthusiastic Student | マデリーン |
-|   | 好奇的孩子 | Farmer | 囃し立てる生徒 |
-|   | 小藿普 | Hollering Student | 嫌がる子供 |
-|   | 排斥的孩童 | Hope | 明るい生徒 |
-|   | 暴君 | Innocent Child | 暴君 |
-|   | 村民的孩子 | Madeline | 村人の子ども |
-|   | 满脸厌恶的孩子 | Old Man | 無邪気な子供 |
-|   | 热情的学生 | Repulsed Child | 老人 |
-|   | 玛德琳 | Tyrant | 興味津々の子供 |
-|   | 生闷气的孩子 | Villager's Child | 農民 |
-|   | 老人 |   |   |
-|   | 胆怯的孩子 |   |   |
+|   | 慌乱的难民 | Repair Shop Machinist | 楽しげな工員 |
+|   | 激动的工人 |   | 熱意ある工員 |
+|   | 热情的工人 |   | 絶望した難民 |
+|   | 绝望的难民 |   | 興奮する工員 |
+| avg_npc_661_1 | 农民 | Curious Girl | むっとする子供 |
+|   | 天真的孩子 | Enthusiastic Student | ホープ |
+|   | 好奇的孩子 | Farmer | マデリーン |
+|   | 小藿普 | Hollering Student | 囃し立てる生徒 |
+|   | 排斥的孩童 | Hope | 嫌がる子供 |
+|   | 暴君 | Innocent Child | 明るい生徒 |
+|   | 村民的孩子 | Madeline | 暴君 |
+|   | 满脸厌恶的孩子 | Old Man | 村人の子ども |
+|   | 热情的学生 | Repulsed Child | 無邪気な子供 |
+|   | 玛德琳 | Tyrant | 老人 |
+|   | 生闷气的孩子 | Villager's Child | 臆病な子供 |
+|   | 老人 |   | 興味津々の子供 |
+|   | 胆怯的孩子 |   | 農民 |
 |   | 起哄的学生 |   |   |
 | avg_npc_662_1 | 陈 | Ch'en | チェン |
 | avg_npc_663_1 | 侍女艾尔希 | Maid Ailshie | 侍女エルシー |
@@ -3615,11 +3617,11 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_727_1 | 沃里克伯爵 | Earl of Warwick | ワーウィック伯爵 |
 | avg_npc_728_1 | 莫兰 | Moran | モラン |
 | avg_npc_729_1 | 受伤的塔拉人 | Cruise Jr. | クルーズ |
-|   | 受伤的工人 | Injured Refugee | 泣き顔の通行人 |
-|   | 受伤的流民 | Maimed Citizen | 負傷したターラー人 |
-|   | 哭丧着脸的路人 | Tear-Streaked Passerby | 負傷した流民 |
-|   | 垂死的塔拉人 | Wounded Taran | 重傷の市民 |
-|   | 小克鲁斯 |   |   |
+|   | 受伤的工人 | Injured Refugee | 悲しむ兵士 |
+|   | 受伤的流民 | Maimed Citizen | 泣き顔の通行人 |
+|   | 哭丧着脸的路人 | Tear-Streaked Passerby | 負傷したターラー人 |
+|   | 垂死的塔拉人 | Wounded Taran | 負傷した流民 |
+|   | 小克鲁斯 |   | 重傷の市民 |
 |   | 悲伤的士兵 |   |   |
 |   | 整合运动成员 |   |   |
 |   | 重伤的市民 |   |   |
@@ -3817,18 +3819,18 @@ tip: 请善用浏览器的搜索功能
 |   | 垂死的感染者 | Dejected Man | サルカズの職人 |
 |   | 帕克 | Dying Infected | サルカズ傭兵 |
 |   | 干瘦的萨卡兹男性 | Gaunt Sarkaz | サルカズ平民 |
-|   | 弹吉他的歌手 | Guitar-Playing Singer | パーカー |
-|   | 恐惧的青年 | Impatient Civilian | 冷淡な平民 |
-|   | 愠怒的萨卡兹居民 | Indifferent Civilian | 怒ったサルカズ |
-|   | 愤怒的萨卡兹 | Kazdelian Outskirter A | 怒るサルカズ住民 |
-|   | 精明的萨卡兹 | Parker | 慎重なサルカズ住民 |
-|   | 萨卡兹凶手 | Sarkaz Artificer | 瀕死の感染者 |
-|   | 萨卡兹工匠 | Sarkaz Civilian | 痩せぎすのサルカズ男性 |
-|   | 萨卡兹平民 | Sarkaz Mercenary | 落ち込む男 |
-|   | 萨卡兹雇佣兵 |   | 豆もやし |
-|   | 谨慎的萨卡兹居民 |   |   |
-|   | 豆芽菜 |   |   |
-|   | 长弩 |   |   |
+|   | 弹吉他的歌手 | Guitar-Playing Singer | サルカズ犯人 |
+|   | 恐惧的青年 | Impatient Civilian | パーカー |
+|   | 愠怒的萨卡兹居民 | Indifferent Civilian | ロングショット |
+|   | 愤怒的萨卡兹 | Kazdelian Outskirter A | ロングボウ |
+|   | 精明的萨卡兹 | Parker | 冷淡な平民 |
+|   | 萨卡兹凶手 | Sarkaz Artificer | 怒ったサルカズ |
+|   | 萨卡兹工匠 | Sarkaz Civilian | 怒るサルカズ住民 |
+|   | 萨卡兹平民 | Sarkaz Mercenary | 慎重なサルカズ住民 |
+|   | 萨卡兹雇佣兵 |   | 瀕死の感染者 |
+|   | 谨慎的萨卡兹居民 |   | 痩せぎすのサルカズ男性 |
+|   | 豆芽菜 |   | 落ち込む男 |
+|   | 长弩 |   | 豆もやし |
 | avg_npc_933_1 | 断角帮老大 | Angry Gang Leader | サルカズの流れ者 |
 |   | 暴躁的帮派首领 | Broken Horn Boss | フェルナンド |
 |   | 暴躁的萨卡兹居民 | Brooding Sarkaz | 慎重な平民 |
@@ -3844,10 +3846,10 @@ tip: 请善用浏览器的搜索功能
 |   | 激动的萨卡兹 | Frightened Sarkaz | 心配するサルカズ住民 |
 |   | 激愤的平民 | Gang Leaders | 怯えるサルカズ住民 |
 |   | 紧张的女性 | Kazdelian Outskirter B | 激怒する平民 |
-|   | 胆怯的萨卡兹居民 | Monastery Inhabitant | 興奮するサルカズ |
-|   | 萨卡兹猎人 | Sarkaz Hunter | 陰気なギャングリーダー |
-|   | 街边摊贩 | Street Hawker | 露天商 |
-|   | 阴沉的帮派首领 |   |   |
+|   | 胆怯的萨卡兹居民 | Monastery Inhabitant | 緊張した女性 |
+|   | 萨卡兹猎人 | Sarkaz Hunter | 興奮するサルカズ |
+|   | 街边摊贩 | Street Hawker | 陰気なギャングリーダー |
+|   | 阴沉的帮派首领 |   | 露天商 |
 | avg_npc_935_1 | “司机” | 'Driver' | 「運転手」 |
 |   | 冷漠的女人 | Calm Woman | カロリン |
 |   | 卡洛琳 | Caroline | サルカズ住民 |
@@ -3966,7 +3968,7 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_999_1 | 凯勒 | Keller | ケラー |
 | avgnew_112_siege_1 | Misery | Misery | Misery |
 |   | 推进之王 | Siege | シージ |
-|   | 维娜 |   |   |
+|   | 维娜 |   | ヴィーナ |
 | avgnew_126_shotst_1 | 流星 | Meteor | メテオ |
 | avgnew_129_bluep_1 | 蓝毒 | Blue Poison | アズリウス |
 | avgnew_147_shining_1 | “女儿” | 'Daughter' | 「娘」 |

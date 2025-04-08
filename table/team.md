@@ -5,7 +5,7 @@ tip: 请善用浏览器的搜索功能
 
 | id | 中文 | English | 日文 |
 | --- | --- | --- | --- |
-| abyssal | 深海猎人 | Abyssal Hunters | アビサル |
+| abyssal | 深海猎人 | Abyssal Hunters | アビサルハンター |
 | action4 | 行动组A4 | Op Team A4 | 行動隊A4 |
 | babel | 巴别塔 | Babel | バベル |
 | blacksteel | 黑钢国际 | Blacksteel Worldwide | BSW |

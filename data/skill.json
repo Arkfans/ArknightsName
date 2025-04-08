@@ -532,9 +532,11 @@
     "zh_CN": "毒液散射"
   },
   "skchr_bobb_1": {
+    "ja_JP": "非友好的交渉",
     "zh_CN": "非和平劝说"
   },
   "skchr_bobb_2": {
+    "ja_JP": "「通行止め」",
     "zh_CN": "“此路不通”"
   },
   "skchr_bpipe_2": {
@@ -634,9 +636,11 @@
     "zh_CN": "爆破范围提升·α型"
   },
   "skchr_cathy_1": {
+    "ja_JP": "歳月による鍛造",
     "zh_CN": "岁月锻打"
   },
   "skchr_cathy_2": {
+    "ja_JP": "戦火の焼き入れ",
     "zh_CN": "战火淬炼"
   },
   "skchr_ccheal_1": {
@@ -2850,12 +2854,15 @@
     "zh_CN": "破浪回神"
   },
   "skchr_siege2_1": {
+    "ja_JP": "栄光再鋳",
     "zh_CN": "重铸晖光"
   },
   "skchr_siege2_2": {
+    "ja_JP": "故地への進撃",
     "zh_CN": "进赴故土"
   },
   "skchr_siege2_3": {
+    "ja_JP": "我が名において",
     "zh_CN": "俱以我之名"
   },
   "skchr_siege_2": {
@@ -4314,9 +4321,11 @@
     "zh_CN": "放置平台"
   },
   "sktok_cathy_catsld_1": {
+    "ja_JP": "歳月による鍛造",
     "zh_CN": "岁月锻打"
   },
   "sktok_cathy_catsld_2": {
+    "ja_JP": "戦火の焼き入れ",
     "zh_CN": "战火淬炼"
   },
   "sktok_cd1punch": {
@@ -5694,6 +5703,7 @@
     "zh_CN": "诅咒娃娃"
   },
   "sktok_vtarsn": {
+    "ja_JP": "生産開始！",
     "zh_CN": "军工厂生产！"
   },
   "sktok_vultres": {

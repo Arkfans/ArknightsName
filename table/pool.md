@@ -232,4 +232,5 @@ tip: 请善用浏览器的搜索功能
 | _SINGLE_31_0_4 | - | Arbiter Aequissimus | 執裁者 |
 | _SINGLE_32_0_1 | - | Clear Like Hearts, True Like Reflections | 心と鏡の残痕 |
 | _SINGLE_32_0_5 | - | Clank Liberty | 銃声 |
+| _SINGLE_33_0_1 | - | - | 褪せざる栄光 |
 | _SPECIAL_32_0_8 | - | Orienteering Headhunting | セレクトスカウト |

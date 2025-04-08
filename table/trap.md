@@ -240,8 +240,8 @@ tip: 请善用浏览器的搜索功能
 | trap_181_sgray | 结晶消除桩 | Decrystallizing Totem | 結晶除去装置 |
 | trap_182_sglink | 纯净结晶 | Pure Crystal | 純粋結晶 |
 | trap_183_sheltk | 作战专用掩体 | Combat Special Barricade | 作戦用掩体 |
-| trap_184_vtarsn | 军工厂指令平台 | - | - |
-| trap_185_vtlntw | 黄金回响 | - | - |
+| trap_184_vtarsn | 军工厂指令平台 | - | 軍事工場指令基地 |
+| trap_185_vtlntw | 黄金回响 | - | 黄金の反響 |
 | trap_186_cnvfwks | 烟花发射器 | - | - |
 | trap_187_arcgacha | 扭蛋机 | - | - |
 | trap_188_arcsum1 | 街边电话亭 | - | - |
@@ -472,4 +472,4 @@ tip: 请善用浏览器的搜索功能
 | trap_776_bqmleeb | 长距增运改装 | Long-Expansion Modification | 遠距離＆効率化改造 |
 | trap_777_giacan | “留声机”底座 | - | - |
 | trap_778_giatow | L-44"留声机" | - | - |
-| trap_779_skzth | 尼卢火 | - | - |
+| trap_779_skzth | 尼卢火 | - | ニーラのアグニ |

@@ -12,7 +12,7 @@ tip: 请善用浏览器的搜索功能
 | char_010_chen@nian#2 | 岁红霞 | Ageless Afterglow | 歳紅霞 |
 | char_010_chen@sale#10 | 初晴 | After Storm | 雲往きて晴れ |
 | char_017_huang@as#1 | 爆裂菲林 | Burst Feline | 爆裂フェリーン |
-| char_017_huang@witch#5 | 易爆蓝焰 | - | - |
+| char_017_huang@witch#5 | 易爆蓝焰 | - | 爆ぜる蒼炎 |
 | char_1001_amiya2@casc#1 | 触及星辰 | - | - |
 | char_1011_lava2@nian#6 | 暮影藤萝 | Dusk Wisteria | 紫藤麗姿 |
 | char_1012_skadi2@boc#4 | 升华 | Sublimation | 昇華 |
@@ -195,7 +195,7 @@ tip: 请善用浏览器的搜索功能
 | char_277_sqrrel@ghost#1 | 古堡清洁专家 | Cleansweeper in the Castle | 古城の掃除屋 |
 | char_278_orchid@boc#6 | 衣缕往昔 | Twines of Time | 在りし日を繕って |
 | char_279_excu@boc#1 | 无题密令 | Titleless Code | 無題の密命 |
-| char_281_popka@witch#5 | 魔女的秋千 | - | - |
+| char_281_popka@witch#5 | 魔女的秋千 | - | 魔女のブランコ |
 | char_282_catap@summer#17 | 悠然假日 HD66 | Holiday HD66 | ホリデーHD66 |
 | char_283_midn@boc#1 | 第七夜苏醒魔君 | Seventh Night's Awakened | 第七夜に覚醒めし魔王 |
 | char_284_spot@boc#3 | 专业人士 | Professional | プロフェッショナル |
@@ -328,9 +328,9 @@ tip: 请善用浏览器的搜索功能
 | char_4105_almond@epoque#38 | “杏仁”拼盘 | - | - |
 | char_4106_bryota@epoque#34 | 动感 | Vibrant | 躍動 |
 | char_4107_vrdant@unveiling#3 | 玫瑰骑手 | - | - |
-| char_4109_baslin@witch#5 | 夜空星芒 | - | - |
+| char_4109_baslin@witch#5 | 夜空星芒 | - | 夜天に輝く星 |
 | char_4114_harold@snow#7 | 邀雪 | - | - |
-| char_4116_blkkgt@witch#5 | 暗月的影子 | - | - |
+| char_4116_blkkgt@witch#5 | 暗月的影子 | - | 暗月の影 |
 | char_4117_ray@shining#2 | 梦幻高空 | - | - |
 | char_4119_wanqin@epoque#41 | 万顷阳光 | - | - |
 | char_411_tomimi@summer#5 | 静谧午夜 DN04 | Silent Night DN04 | 安息の午夜DN04 |
