@@ -10,7 +10,7 @@
     "zh_CN": "终结连射"
   },
   "skchr_acast_1": {
-    "en_US": "'All For Me'",
+    "en_US": "'All That I Do'",
     "ja_JP": "「我が成すことを成せ」",
     "zh_CN": "“为我所为”"
   },
@@ -532,10 +532,12 @@
     "zh_CN": "毒液散射"
   },
   "skchr_bobb_1": {
+    "en_US": "Nonpeaceful Negotiation",
     "ja_JP": "非友好的交渉",
     "zh_CN": "非和平劝说"
   },
   "skchr_bobb_2": {
+    "en_US": "'You Shall Not Pass'",
     "ja_JP": "「通行止め」",
     "zh_CN": "“此路不通”"
   },
@@ -636,10 +638,12 @@
     "zh_CN": "爆破范围提升·α型"
   },
   "skchr_cathy_1": {
+    "en_US": "Wrought by Age",
     "ja_JP": "歳月による鍛造",
     "zh_CN": "岁月锻打"
   },
   "skchr_cathy_2": {
+    "en_US": "Tempered by War",
     "ja_JP": "戦火の焼き入れ",
     "zh_CN": "战火淬炼"
   },
@@ -2854,14 +2858,17 @@
     "zh_CN": "破浪回神"
   },
   "skchr_siege2_1": {
+    "en_US": "Reforged Radiance",
     "ja_JP": "栄光再鋳",
     "zh_CN": "重铸晖光"
   },
   "skchr_siege2_2": {
+    "en_US": "Homeward Bound",
     "ja_JP": "故地への進撃",
     "zh_CN": "进赴故土"
   },
   "skchr_siege2_3": {
+    "en_US": "And All Be In My Name",
     "ja_JP": "我が名において",
     "zh_CN": "俱以我之名"
   },
@@ -4321,10 +4328,12 @@
     "zh_CN": "放置平台"
   },
   "sktok_cathy_catsld_1": {
+    "en_US": "Wrought by Age",
     "ja_JP": "歳月による鍛造",
     "zh_CN": "岁月锻打"
   },
   "sktok_cathy_catsld_2": {
+    "en_US": "Tempered by War",
     "ja_JP": "戦火の焼き入れ",
     "zh_CN": "战火淬炼"
   },
@@ -5703,6 +5712,7 @@
     "zh_CN": "诅咒娃娃"
   },
   "sktok_vtarsn": {
+    "en_US": "Arms Factory Is A-Go!",
     "ja_JP": "生産開始！",
     "zh_CN": "军工厂生产！"
   },

@@ -900,10 +900,12 @@
     "zh_CN": "如死亦终十连寻访凭证"
   },
   "SINGLE_55_0_1_GACHA": {
+    "en_US": "Never Gilded Headhunting Permit",
     "ja_JP": "褪せざる栄光スカウト券",
     "zh_CN": "未致蒙尘寻访凭证"
   },
   "SINGLE_55_0_1_GACHA_10": {
+    "en_US": "Exclusive Ten-roll Headhunting Permit",
     "ja_JP": "褪せざる栄光10回スカウト券",
     "zh_CN": "未致蒙尘十连寻访凭证"
   },
@@ -1528,6 +1530,7 @@
     "zh_CN": "今日食谱"
   },
   "act37side_token_nay": {
+    "en_US": "'Nay!'",
     "ja_JP": "「反対！」",
     "zh_CN": "“我反对！”"
   },
@@ -3127,6 +3130,7 @@
     "zh_CN": "纯烬艾雅法拉的信物"
   },
   "p_char_1019_siege2": {
+    "en_US": "Vina Victoria's Token",
     "ja_JP": "ヴィーナ・ヴィクトリアの印",
     "zh_CN": "维娜·维多利亚的信物"
   },
@@ -4554,6 +4558,7 @@
     "zh_CN": "燧石的信物"
   },
   "p_char_4162_cathy": {
+    "en_US": "Catherine's Token",
     "ja_JP": "キャサリンの印",
     "zh_CN": "凯瑟琳的信物"
   },
@@ -4761,6 +4766,7 @@
     "zh_CN": "龙舌兰的信物"
   },
   "p_char_487_bobb": {
+    "en_US": "Bobbing's Token",
     "ja_JP": "ボビングの印",
     "zh_CN": "波卜的信物"
   },
@@ -4953,6 +4959,7 @@
     "zh_CN": "罗德岛物资补给II"
   },
   "randomMaterial_5d5": {
+    "en_US": "Thank-You Celebration Supplies",
     "ja_JP": "補給物資・感謝祭",
     "zh_CN": "2024感谢庆典物资补给"
   },
@@ -5467,6 +5474,7 @@
     "zh_CN": "照我以火家具收藏包"
   },
   "uni_set_court": {
+    "en_US": "Il Siracusano Furniture Pack",
     "ja_JP": "シラクザーノ家具パック",
     "zh_CN": "叙拉古人家具收藏包"
   },

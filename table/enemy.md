@@ -47,22 +47,22 @@ tip: 请善用浏览器的搜索功能
 | enemy_1001_bigbo | 大鲍勃 | Big Bob | Big Bob |
 | enemy_1001_bigbo_2 | 大亚当 | Big Adam | Big Adam |
 | enemy_10020_sgcat | 米奥，热烈的考验者 | Mio, the Eager Examinant | 「試練を課す者」ミオ |
-| enemy_10021_vtcar | 货运轨道车 | - | 軌道貨車 |
-| enemy_10022_vtskny | 新手拾荒者 | - | 新入り流れ者 |
-| enemy_10022_vtskny_2 | 老练拾荒者 | - | 熟練流れ者 |
-| enemy_10023_vtsnky | “护目镜”帮派窃贼 | - | 「ゴーグル」のコソ泥 |
-| enemy_10023_vtsnky_2 | “护目镜”帮派打手 | - | 「ゴーグル」の荒くれ者 |
-| enemy_10024_vtstrn | “街区自治队”成员 | - | 「町内自治団」構成員 |
-| enemy_10024_vtstrn_2 | “街区自治队”队长 | - | 「町内自治団」隊長 |
-| enemy_10025_vtmstr | “铣痕”团伙佣兵 | - | 「ミルスカー」の傭兵 |
-| enemy_10025_vtmstr_2 | “铣痕”团伙精锐佣兵 | - | 「ミルスカー」の精鋭傭兵 |
-| enemy_10026_vtzepl | 物资运输艇 | - | 物資輸送艇 |
-| enemy_10026_vtzepl_2 | 大容量物资运输艇 | - | 大容量物資輸送艇 |
-| enemy_10027_vtsk | “帝国的甲胄” | - | 「帝国の甲冑」 |
-| enemy_10028_vtswd | 未装配刀片 | - | 組み立て前の刃 |
-| enemy_10029_vtshld | 防护背心 | - | 防護ベストの生地 |
+| enemy_10021_vtcar | 货运轨道车 | Freight Car | 軌道貨車 |
+| enemy_10022_vtskny | 新手拾荒者 | Novice Junkman | 新入り流れ者 |
+| enemy_10022_vtskny_2 | 老练拾荒者 | Seasoned Junkman | 熟練流れ者 |
+| enemy_10023_vtsnky | “护目镜”帮派窃贼 | 'Goggles' Gang Thief | 「ゴーグル」のコソ泥 |
+| enemy_10023_vtsnky_2 | “护目镜”帮派打手 | 'Goggles' Gang Thug | 「ゴーグル」の荒くれ者 |
+| enemy_10024_vtstrn | “街区自治队”成员 | 'Neighborhood Watch' Member | 「町内自治団」構成員 |
+| enemy_10024_vtstrn_2 | “街区自治队”队长 | 'Neighborhood Watch' Leader | 「町内自治団」隊長 |
+| enemy_10025_vtmstr | “铣痕”团伙佣兵 | 'Millscar' Mercenary | 「ミルスカー」の傭兵 |
+| enemy_10025_vtmstr_2 | “铣痕”团伙精锐佣兵 | 'Millscar' Elite Mercenary | 「ミルスカー」の精鋭傭兵 |
+| enemy_10026_vtzepl | 物资运输艇 | Transport Vessel | 物資輸送艇 |
+| enemy_10026_vtzepl_2 | 大容量物资运输艇 | Heavy Transport Vessel | 大容量物資輸送艇 |
+| enemy_10027_vtsk | “帝国的甲胄” | 'Armor of the Empire' | 「帝国の甲冑」 |
+| enemy_10028_vtswd | 未装配刀片 | Unequipped Blade | 組み立て前の刃 |
+| enemy_10029_vtshld | 防护背心 | Protective Vest | 防護ベストの生地 |
 | enemy_1002_nsabr | 士兵 | Soldier | 兵士 |
-| enemy_10030_vtwand | 冲击式施术单元 | - | アーツユニットの部品 |
+| enemy_10030_vtwand | 冲击式施术单元 | Assault Arts Unit | アーツユニットの部品 |
 | enemy_10031_cnvsld | 业余竞演者 | - | - |
 | enemy_10031_cnvsld_2 | 专业竞演者 | - | - |
 | enemy_10032_cnvsnp | 礼花零售商 | - | - |
@@ -1047,7 +1047,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1556_dsbish | 玛利图斯，“海嗣” | Mártus, 'Seaborn' | 「シーボーン」マルトゥス |
 | enemy_1557_trcerb | “三头犬” | 'Tri-Maw' | 「ケルベロス」 |
 | enemy_1558_sgactr | 祖巴伊达姆，从往昔来 | Zubayidamu the Timeless | 「過去の使者」ズバイダム |
-| enemy_1559_vtlionk | 阿利斯泰尔，帝国余晖 | - | 「帝国の残光」アリステア |
+| enemy_1559_vtlionk | 阿利斯泰尔，帝国余晖 | Alistair, Final Flame of the Empire | 「帝国の残光」アリステア |
 | enemy_1560_cnvlap | “狂欢之主” | - | - |
 | enemy_1561_crzjdg | 安纳斯塔西奥，赎罪者 | - | - |
 | enemy_1562_cjtaot | 无餍 | - | - |
@@ -1138,9 +1138,9 @@ tip: 请善用浏览器的搜索功能
 | enemy_2082_skzdd | 博卓卡斯替，圣卫铳骑 | Buldrokkas'tee, Holy Gun-Knight | 「聖衛の銃騎士」ボジョカスティ |
 | enemy_2084_skzcan | 古德因纳夫先生 | Mr. Goodenough | Mr.グッドイナフ |
 | enemy_2085_skzjxd | 圆仔 | Fatty | マルッコ |
-| enemy_2089_skzjkl | 奎隆，摩诃萨埵权化 | - | 「摩訶薩の権化」クイロン |
-| enemy_2090_skzjbc | 托生莲座 | - | 托生蓮座 |
-| enemy_2091_skzgds | “窗” | - | 「窓」 |
+| enemy_2089_skzjkl | 奎隆，摩诃萨埵权化 | Qui'lon, Avatar of the Mahasattva | 「摩訶薩の権化」クイロン |
+| enemy_2090_skzjbc | 托生莲座 | Padmasana of Rebirth | 托生蓮座 |
+| enemy_2091_skzgds | “窗” | 'Window' | 「窓」 |
 | enemy_2092_skzamy | “阿米娅”，炉芯终曲 | - | - |
 | enemy_2093_skzams | 终曲合声 | - | - |
 | enemy_2097_skzfdd | 博卓卡斯替，圣卫铳骑 | - | - |

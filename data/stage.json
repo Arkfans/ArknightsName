@@ -3581,50 +3581,62 @@
     "zh_CN": "美食指南"
   },
   "act37side_01": {
+    "en_US": "Lingering Scores",
     "ja_JP": "怨恨の残滓",
     "zh_CN": "仇怨残余"
   },
   "act37side_02": {
+    "en_US": "Crippling Illness",
     "ja_JP": "纏わりつく持病",
     "zh_CN": "痼疾缠身"
   },
   "act37side_03": {
+    "en_US": "Parliament's Voice",
     "ja_JP": "議会の決議",
     "zh_CN": "议会公决"
   },
   "act37side_04": {
+    "en_US": "Alcohol and Placebo",
     "ja_JP": "アルコールと偽薬",
     "zh_CN": "酒精与安慰剂"
   },
   "act37side_05": {
+    "en_US": "Scrap and Nail",
     "ja_JP": "鉄クズとリベット",
     "zh_CN": "废铁与铆钉"
   },
   "act37side_06": {
+    "en_US": "The Dinner Proclamation",
     "ja_JP": "「晩餐宣言」",
     "zh_CN": "“晚饭宣言”"
   },
   "act37side_07": {
+    "en_US": "Rusted Crown",
     "ja_JP": "錆びた王冠",
     "zh_CN": "锈王冠"
   },
   "act37side_08": {
+    "en_US": "Sword Reforged in War",
     "ja_JP": "戦火が鋳直した剣",
     "zh_CN": "战火重铸之剑"
   },
   "act37side_09": {
+    "en_US": "A Hero's Final Bow",
     "ja_JP": "英雄の幕引き",
     "zh_CN": "英雄的落幕"
   },
   "act37side_st01": {
+    "en_US": "Course of History",
     "ja_JP": "歴史の針路",
     "zh_CN": "历史的航向"
   },
   "act37side_st02": {
+    "en_US": "Fairytale Ending",
     "ja_JP": "童話の終わり",
     "zh_CN": "童话的结局"
   },
   "act37side_tr01": {
+    "en_US": "Supply Shortage",
     "ja_JP": "補給問題",
     "zh_CN": "物资难题"
   },
@@ -6727,10 +6739,12 @@
     "zh_CN": "背向火灼"
   },
   "sub_09-1-3": {
+    "en_US": "Beneath the Ash",
     "ja_JP": "燃え殻の下",
     "zh_CN": "灰烬之下"
   },
   "sub_09-1-4": {
+    "en_US": "No Retreat",
     "ja_JP": "退く道はなし",
     "zh_CN": "退无可退"
   },

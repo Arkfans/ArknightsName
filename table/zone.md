@@ -176,8 +176,8 @@ tip: 请善用浏览器的搜索功能
 | act35side_zone3 | 藏珍宝库 | Treasure House | 宝物庫 |
 | act36side_zone1 | 品尝魔物 | Monster Gourmand | 魔物食を味わう |
 | act36side_zone2 | 走遍泰拉 | Culinary Venture On Terra | テラを旅する |
-| act37side_zone1 | 无名之勋 | - | 名もなき栄光 |
-| act37side_zone2 | 未了往昔 | - | 幕引かぬ過去 |
+| act37side_zone1 | 无名之勋 | Die a Hero Or a Villain | 名もなき栄光 |
+| act37side_zone2 | 未了往昔 | Once upon a Time | 幕引かぬ過去 |
 | act38side_zone1 | 四幕汇演 | - | - |
 | act38side_zone2 | 彩车游行 | - | - |
 | act38side_zone3 | 荒芜之舞 | - | - |
@@ -304,8 +304,8 @@ tip: 请善用浏览器的搜索功能
 | permanent_sub_6_zone1 | 我赠予未来 | You the Future, Take My Gifts | 未来を贈らん |
 | permanent_sub_6_zone2 | 我驻留往昔 | You the Past, Ward Me Firmly | 昔日に残れり |
 | permanent_sub_6_zone3 | 我始终如一 | You the Constant, You Are Me | 我は我なり |
-| permanent_sub_7_zone1 | 无名之勋 | - | 名もなき栄光 |
-| permanent_sub_7_zone2 | 未了往昔 | - | 幕引かぬ過去 |
+| permanent_sub_7_zone1 | 无名之勋 | Die a Hero Or a Villain | 名もなき栄光 |
+| permanent_sub_7_zone2 | 未了往昔 | Once upon a Time | 幕引かぬ過去 |
 | weekly_1 | 固若金汤 | Solid Defense | 重装/医療 |
 | weekly_2 | 摧枯拉朽 | Fierce Attack | 狙撃/術師 |
 | weekly_3 | 势不可挡 | Unstoppable Charge | 先鋒/補助 |

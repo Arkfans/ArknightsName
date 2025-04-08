@@ -210,58 +210,72 @@
     "zh_CN": "米奥，热烈的考验者"
   },
   "enemy_10021_vtcar": {
+    "en_US": "Freight Car",
     "ja_JP": "軌道貨車",
     "zh_CN": "货运轨道车"
   },
   "enemy_10022_vtskny": {
+    "en_US": "Novice Junkman",
     "ja_JP": "新入り流れ者",
     "zh_CN": "新手拾荒者"
   },
   "enemy_10022_vtskny_2": {
+    "en_US": "Seasoned Junkman",
     "ja_JP": "熟練流れ者",
     "zh_CN": "老练拾荒者"
   },
   "enemy_10023_vtsnky": {
+    "en_US": "'Goggles' Gang Thief",
     "ja_JP": "「ゴーグル」のコソ泥",
     "zh_CN": "“护目镜”帮派窃贼"
   },
   "enemy_10023_vtsnky_2": {
+    "en_US": "'Goggles' Gang Thug",
     "ja_JP": "「ゴーグル」の荒くれ者",
     "zh_CN": "“护目镜”帮派打手"
   },
   "enemy_10024_vtstrn": {
+    "en_US": "'Neighborhood Watch' Member",
     "ja_JP": "「町内自治団」構成員",
     "zh_CN": "“街区自治队”成员"
   },
   "enemy_10024_vtstrn_2": {
+    "en_US": "'Neighborhood Watch' Leader",
     "ja_JP": "「町内自治団」隊長",
     "zh_CN": "“街区自治队”队长"
   },
   "enemy_10025_vtmstr": {
+    "en_US": "'Millscar' Mercenary",
     "ja_JP": "「ミルスカー」の傭兵",
     "zh_CN": "“铣痕”团伙佣兵"
   },
   "enemy_10025_vtmstr_2": {
+    "en_US": "'Millscar' Elite Mercenary",
     "ja_JP": "「ミルスカー」の精鋭傭兵",
     "zh_CN": "“铣痕”团伙精锐佣兵"
   },
   "enemy_10026_vtzepl": {
+    "en_US": "Transport Vessel",
     "ja_JP": "物資輸送艇",
     "zh_CN": "物资运输艇"
   },
   "enemy_10026_vtzepl_2": {
+    "en_US": "Heavy Transport Vessel",
     "ja_JP": "大容量物資輸送艇",
     "zh_CN": "大容量物资运输艇"
   },
   "enemy_10027_vtsk": {
+    "en_US": "'Armor of the Empire'",
     "ja_JP": "「帝国の甲冑」",
     "zh_CN": "“帝国的甲胄”"
   },
   "enemy_10028_vtswd": {
+    "en_US": "Unequipped Blade",
     "ja_JP": "組み立て前の刃",
     "zh_CN": "未装配刀片"
   },
   "enemy_10029_vtshld": {
+    "en_US": "Protective Vest",
     "ja_JP": "防護ベストの生地",
     "zh_CN": "防护背心"
   },
@@ -271,6 +285,7 @@
     "zh_CN": "士兵"
   },
   "enemy_10030_vtwand": {
+    "en_US": "Assault Arts Unit",
     "ja_JP": "アーツユニットの部品",
     "zh_CN": "冲击式施术单元"
   },
@@ -4993,6 +5008,7 @@
     "zh_CN": "祖巴伊达姆，从往昔来"
   },
   "enemy_1559_vtlionk": {
+    "en_US": "Alistair, Final Flame of the Empire",
     "ja_JP": "「帝国の残光」アリステア",
     "zh_CN": "阿利斯泰尔，帝国余晖"
   },
@@ -5433,14 +5449,17 @@
     "zh_CN": "圆仔"
   },
   "enemy_2089_skzjkl": {
+    "en_US": "Qui'lon, Avatar of the Mahasattva",
     "ja_JP": "「摩訶薩の権化」クイロン",
     "zh_CN": "奎隆，摩诃萨埵权化"
   },
   "enemy_2090_skzjbc": {
+    "en_US": "Padmasana of Rebirth",
     "ja_JP": "托生蓮座",
     "zh_CN": "托生莲座"
   },
   "enemy_2091_skzgds": {
+    "en_US": "'Window'",
     "ja_JP": "「窓」",
     "zh_CN": "“窗”"
   },

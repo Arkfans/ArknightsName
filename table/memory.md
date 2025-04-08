@@ -6,7 +6,7 @@ tip: 请善用浏览器的搜索功能
 | id | 中文 | English | 日文 |
 | --- | --- | --- | --- |
 | story_12fce_set_1_story_1 | 一些选择 | Certain Choices | ある選択 |
-| story_absin_set_1_story_1 | 向死寻生 | - | 死の中にある生 |
+| story_absin_set_1_story_1 | 向死寻生 | Finding Life Through Death | 死の中にある生 |
 | story_acdrop_set_1_story_1 | 一面墙 | The Face of a Wall | 壁 |
 | story_adnach_set_1_story_1 | 预备“先知” | - | - |
 | story_aglina_set_1_story_1 | 没写收件人的包裹 | 'Package with No Recipient' | 受取人のない荷物 |
@@ -32,7 +32,7 @@ tip: 请善用浏览器的搜索功能
 | story_astesi_set_2_story_1 | 复耀 | Return to Radiance | 再び輝くために |
 | story_aurora_set_1_story_1 | 她所见 | What She Saw | 彼女の見たいもの |
 | story_ayer_set_1_story_1 | 黄沙觅迹 | Seeker in the Sands | 黄砂の追跡 |
-| story_baslin_set_1_story_1 | 晚霞下的演奏 | - | 夕焼けの演奏 |
+| story_baslin_set_1_story_1 | 晚霞下的演奏 | Aufführung im Abendrot | 夕焼けの演奏 |
 | story_bdhkgt_set_1_story_1 | 最后的比武 | - | - |
 | story_beewax_set_1_story_1 | 黄沙归途 | Trail of Sands | 黄砂の帰路 |
 | story_bena_set_1_story_1 | 简单的愿望 | The Simple Wish | 些細な願いごと |
@@ -157,7 +157,7 @@ tip: 请善用浏览器的搜索功能
 | story_inside_set_1_story_1 | 机密任务 | Secret Mission | 極秘任務 |
 | story_irene_set_1_story_1 | 灯火微明 | Lantern's Twilight | ほのかな灯り |
 | story_iris_set_1_story_1 | 糖果屋 | The Candy House | お菓子の家 |
-| story_ironmn_set_1_story_1 | 啮合不良 | - | 嚙み合わない歯車 |
+| story_ironmn_set_1_story_1 | 啮合不良 | Bad Mesh | 嚙み合わない歯車 |
 | story_jaksel_set_1_story_1 | 无价的勋章 | A Priceless Medal | 価値のない勲章 |
 | story_jesca2_set_1_story_1 | 徽章 | Insignia | 保安官バッジ |
 | story_jesica_set_1_story_1 | 缓步前行 | The Slow Walk Ahead | ゆっくり進む者 |
@@ -219,7 +219,7 @@ tip: 请善用浏览器的搜索功能
 | story_otter_set_1_story_1 | 满满的日程表 | One Packed Daily Schedule | 仕事三昧 |
 | story_otter_set_2_story_1 | 造物之心 | Heart of Creation | 創り出す心 |
 | story_panda_set_1_story_1 | 一落千丈 | Nosedive | 一落千丈 |
-| story_papyrs_set_1_story_1 | 玻璃窗外 | - | 窓の外 |
+| story_papyrs_set_1_story_1 | 玻璃窗外 | Outside the Window | 窓の外 |
 | story_peper_set_1_story_1 | 少年雇佣兵 | Mercenary Youth | 傭兵の少女 |
 | story_phatom_set_1_story_1 | 合作 | Cooperation | 協力 |
 | story_phenxi_set_1_story_1 | 乐园 | Paradisus | 楽園 |

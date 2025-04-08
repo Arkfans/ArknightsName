@@ -189,8 +189,8 @@ tip: 请善用浏览器的搜索功能
 | RETRO_COIN | 事相结晶 | Event Crystal | 事象の結晶 |
 | SINGLE_49_0_1_GACHA | 如死亦终寻访凭证 | Like Ending Like Death Headhunting Permit | イベントスカウト券 |
 | SINGLE_49_0_1_GACHA_10 | 如死亦终十连寻访凭证 | Like Ending Like Death Ten-roll Headhunting Permit | イベント10回スカウト券 |
-| SINGLE_55_0_1_GACHA | 未致蒙尘寻访凭证 | - | 褪せざる栄光スカウト券 |
-| SINGLE_55_0_1_GACHA_10 | 未致蒙尘十连寻访凭证 | - | 褪せざる栄光10回スカウト券 |
+| SINGLE_55_0_1_GACHA | 未致蒙尘寻访凭证 | Never Gilded Headhunting Permit | 褪せざる栄光スカウト券 |
+| SINGLE_55_0_1_GACHA_10 | 未致蒙尘十连寻访凭证 | Exclusive Ten-roll Headhunting Permit | 褪せざる栄光10回スカウト券 |
 | SINGLE_60_0_1_GACHA | 指令重构寻访凭证 | - | - |
 | SINGLE_60_0_1_GACHA_10 | 指令重构十连寻访凭证 | - | - |
 | SOCIAL_PT | 信用 | Credit | FP |
@@ -321,7 +321,7 @@ tip: 请善用浏览器的搜索功能
 | act34side_token_chip | “应急物资”蓝图芯片 | 'Emergency Supplies' Blueprint Chip | 「非常用物資」設計図チップ |
 | act35side_token_dust | 流光之沙 | Flowing Glimmerdust | 流光の砂 |
 | act36side_token_recipe | 今日食谱 | Daily Recipe | 今日の献立 |
-| act37side_token_nay | “我反对！” | - | 「反対！」 |
+| act37side_token_nay | “我反对！” | 'Nay!' | 「反対！」 |
 | act38d1_token_coin | 晶化源石 | Crystalized Originium | 結晶化源石 |
 | act38side_token_ticket | 匿名邀请函 | - | - |
 | act39side_token_garum | 盐鳞咸鳞汁 | - | - |
@@ -655,7 +655,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_1013_chen2 | 假日威龙陈的信物 | Ch'en the Holungday's Token | 遊龍チェンの印 |
 | p_char_1014_nearl2 | 耀骑士临光的信物 | Nearl the Radiant Knight's Token | 耀騎士ニアールの印 |
 | p_char_1016_agoat2 | 纯烬艾雅法拉的信物 | Eyjafjalla the Hvít Aska's Token | 純燼エイヤフィヤトラの印 |
-| p_char_1019_siege2 | 维娜·维多利亚的信物 | - | ヴィーナ・ヴィクトリアの印 |
+| p_char_1019_siege2 | 维娜·维多利亚的信物 | Vina Victoria's Token | ヴィーナ・ヴィクトリアの印 |
 | p_char_101_sora | 空的信物 | Sora's Token | ソラの印 |
 | p_char_1020_reed2 | 焰影苇草的信物 | Reed the Flame Shadow's Token | 焔影リードの印 |
 | p_char_1021_kroos2 | 寒芒克洛丝的信物 | Kroos the Keen Glint’s Token | 寒芒クルースの印 |
@@ -945,7 +945,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4151_tinman | 锡人的信物 | Tin Man's Token | ブリキの印 |
 | p_char_4155_talr | 裁度的信物 | - | - |
 | p_char_415_flint | 燧石的信物 | Flint's Token | フリントの印 |
-| p_char_4162_cathy | 凯瑟琳的信物 | - | キャサリンの印 |
+| p_char_4162_cathy | 凯瑟琳的信物 | Catherine's Token | キャサリンの印 |
 | p_char_4163_rosesa | 瑰盐的信物 | - | - |
 | p_char_4164_tecno | 特克诺的信物 | - | - |
 | p_char_4165_ctrail | 云迹的信物 | - | - |
@@ -991,7 +991,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_484_robrta | 罗比菈塔的信物 | Roberta's Token | ロベルタの印 |
 | p_char_485_pallas | 帕拉斯的信物 | Pallas's Token | パラスの印 |
 | p_char_486_takila | 龙舌兰的信物 | Tequila's Token | テキーラの印 |
-| p_char_487_bobb | 波卜的信物 | - | ボビングの印 |
+| p_char_487_bobb | 波卜的信物 | Bobbing's Token | ボビングの印 |
 | p_char_488_buildr | 青枳的信物 | Poncirus's Token | ポンシラスの印 |
 | p_char_489_serum | 蚀清的信物 | Corroserum's Token | コロセラムの印 |
 | p_char_491_humus | 休谟斯的信物 | Humus's Token | ヒューマスの印 |
@@ -1030,7 +1030,7 @@ tip: 请善用浏览器的搜索功能
 | randomMaterial_3 | 32h战略配给 | 32-hour Strategic Ration | 32h戦略補給 |
 | randomMaterial_4 | 感谢庆典物资补给 | Thank-You Celebration Supplies | 補給物資・「感謝祭」 |
 | randomMaterial_5 | 罗德岛物资补给II | Rhodes Island Supplies II | 補給物資・ロドスⅡ |
-| randomMaterial_5d5 | 2024感谢庆典物资补给 | - | 補給物資・感謝祭 |
+| randomMaterial_5d5 | 2024感谢庆典物资补给 | Thank-You Celebration Supplies | 補給物資・感謝祭 |
 | randomMaterial_6 | 罗德岛物资补给III | Rhodes Island Supplies III | 補給物資・ロドスIII |
 | randomMaterial_7 | 罗德岛物资补给IV | Rhodes Island Supplies IV | 補給物資・ロドスIV |
 | randomMaterial_8 | 罗德岛物资补给V | Rhodes Island Supplies V | 補給物資・ロドスV |
@@ -1135,7 +1135,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_castle_2 | 古堡印象家具收藏包二 | Castlesque Furniture Pack II | 古城風家具パックvol.2 |
 | uni_set_concertHall | 尘影余音家具收藏包 | Lingering Echoes Furniture Pack | 塵影に交わる残響家具パック |
 | uni_set_countryside | 照我以火家具收藏包 | - | - |
-| uni_set_court | 叙拉古人家具收藏包 | - | シラクザーノ家具パック |
+| uni_set_court | 叙拉古人家具收藏包 | Il Siracusano Furniture Pack | シラクザーノ家具パック |
 | uni_set_fNearl | 玛莉娅·临光家具收藏包 | Maria Nearl Furniture Pack | マリア・ニアール家具パック |
 | uni_set_goldBoat | 愚人号家具收藏包 | Stultifera Navis Furniture Pack | 狂人号家具パック |
 | uni_set_guitar | 火蓝之心家具收藏包 | Heart of Surging Flame Furniture Pack | 青く燃ゆる心家具パック |

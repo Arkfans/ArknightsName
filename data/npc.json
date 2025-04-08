@@ -87,6 +87,9 @@
     ]
   },
   "avg_1019_siege2_1": {
+    "en_US": [
+      "Vina"
+    ],
     "ja_JP": [
       "ヴィーナ"
     ],
@@ -1981,6 +1984,9 @@
     ]
   },
   "avg_405_absin_1": {
+    "en_US": [
+      "Absinthe"
+    ],
     "ja_JP": [
       "アブサント"
     ],
@@ -2536,7 +2542,8 @@
   "avg_4139_papyrs_1": {
     "en_US": [
       "Anat",
-      "Frantic Girl"
+      "Frantic Girl",
+      "Papyrus"
     ],
     "ja_JP": [
       "アナト",
@@ -2688,6 +2695,9 @@
     ]
   },
   "avg_4162_cathy_1": {
+    "en_US": [
+      "Catherine"
+    ],
     "ja_JP": [
       "キャサリン"
     ],
@@ -3074,6 +3084,9 @@
     ]
   },
   "avg_487_bobb_1": {
+    "en_US": [
+      "Eliseo"
+    ],
     "ja_JP": [
       "エリシオ"
     ],
@@ -3539,6 +3552,7 @@
       "Bread Vendor",
       "Breakfast Stall Owner",
       "Elderly Villager",
+      "Elderly Worker",
       "Farm Owner",
       "Grumpy Old Man",
       "Hurrying Worker",
@@ -5676,6 +5690,7 @@
       "Clan Leader B",
       "Coin Dealer",
       "Courageous Archosauria",
+      "Enthusiastic Villager",
       "Fighting Villager",
       "Gator-headed Beast-man",
       "Groaning Archosauria",
@@ -5748,6 +5763,7 @@
       "Curious Archosauria",
       "Excited Archosauria",
       "Furious Archosauria",
+      "Impetuous Villager",
       "Injured Villager",
       "Serious Archosauria",
       "Uda",
@@ -5803,6 +5819,7 @@
       "Archosauria C",
       "Black Market Resident",
       "Cheering Villager",
+      "Gentle Villager",
       "Sargon Villager",
       "Shy Archosauria",
       "Sorrowful Villager",
@@ -5840,7 +5857,8 @@
       "Black Market Resident",
       "Busy Villager",
       "Frank Archosauria",
-      "Sargon Villager"
+      "Sargon Villager",
+      "Stout Villager"
     ],
     "ja_JP": [
       "たくましい村人",
@@ -7537,6 +7555,7 @@
   },
   "avg_npc_1157_1": {
     "en_US": [
+      "Angry MP",
       "Seasoned Soldier"
     ],
     "ja_JP": [
@@ -8280,7 +8299,8 @@
   "avg_npc_1256_1": {
     "en_US": [
       "Bejeweled Man",
-      "Factory Director"
+      "Factory Director",
+      "Flustered Clerk"
     ],
     "ja_JP": [
       "工場長",
@@ -8297,6 +8317,7 @@
   },
   "avg_npc_1257_1": {
     "en_US": [
+      "Adulating Noble",
       "Foreign Merchant"
     ],
     "ja_JP": [
@@ -8320,6 +8341,9 @@
     ]
   },
   "avg_npc_1259_1": {
+    "en_US": [
+      "Unperturbed Official"
+    ],
     "ja_JP": [
       "冷静な文官"
     ],
@@ -8910,6 +8934,7 @@
   "avg_npc_1341_1": {
     "en_US": [
       "Dying Nachzehrer",
+      "Nachzehrer Royal Court Elites",
       "Sarkaz Warrior"
     ],
     "ja_JP": [
@@ -9687,7 +9712,8 @@
     "en_US": [
       "Cherie",
       "Clever Girl",
-      "Furnaceside Kid"
+      "Furnaceside Kid",
+      "Indignant Child"
     ],
     "ja_JP": [
       "チェリー",
@@ -10052,6 +10078,9 @@
     ]
   },
   "avg_npc_1518_1": {
+    "en_US": [
+      "The Young Duke"
+    ],
     "ja_JP": [
       "「小公爵」"
     ],
@@ -10060,6 +10089,10 @@
     ]
   },
   "avg_npc_1519_1": {
+    "en_US": [
+      "Diane",
+      "Discharged Female Soldier"
+    ],
     "ja_JP": [
       "ダイアン",
       "退役女性兵"
@@ -10081,6 +10114,9 @@
     ]
   },
   "avg_npc_1520_1": {
+    "en_US": [
+      "Shearer"
+    ],
     "ja_JP": [
       "シアラー少尉"
     ],
@@ -10089,6 +10125,9 @@
     ]
   },
   "avg_npc_1521_1": {
+    "en_US": [
+      "Mysterious Vampire"
+    ],
     "ja_JP": [
       "謎のブラッドブルード"
     ],
@@ -10517,7 +10556,8 @@
       "Cheerful Former Desert Bandit",
       "Emilia",
       "Grimed Woman",
-      "Passerby Sargon Townsfolk"
+      "Passerby Sargon Townsfolk",
+      "Roaming Doctor"
     ],
     "ja_JP": [
       "アイマラ",
@@ -10975,6 +11015,7 @@
       "Curious Tourist",
       "Exhausted Viscount",
       "Female Designer",
+      "Graceful MP",
       "Hesitant Ambassador",
       "Kind-Faced Noble",
       "Merry Noblewoman",
@@ -10983,6 +11024,7 @@
       "Noblewoman",
       "Opinionated Patient",
       "Pretentious Noblewoman",
+      "Reserved MP",
       "Scathing Leithanian",
       "Self-Satisfied Noble Alumna",
       "Wealthy Woman",
@@ -11053,6 +11095,8 @@
       "Announcer",
       "Bank President",
       "Casino Boss",
+      "Cheerful Noble",
+      "Earl Morrill",
       "Elegant Ambassador",
       "Emotional Councilor",
       "Enthusiastic Merchant",
@@ -11065,6 +11109,7 @@
       "Mayor",
       "Noble Gentleman",
       "Plump Merchant",
+      "Pompous Man",
       "Pompous Merchant",
       "Seasoned Investor",
       "Slimy Noble",
@@ -11148,6 +11193,7 @@
       "Cowell",
       "Eager Investor",
       "Extremely Serious Councilor",
+      "Factory Director",
       "High-status Magnate",
       "Hughes",
       "Local Judge B",
@@ -12400,6 +12446,7 @@
       "Billy",
       "Child",
       "Craig",
+      "Curious Child",
       "Dirt-Poor Peddler",
       "Emaciated Child",
       "Eric",
@@ -12407,6 +12454,7 @@
       "Jurian",
       "Knight",
       "Naughty Child",
+      "Nervous Child",
       "Small Child",
       "Taran Child",
       "Victorian Boy"
@@ -12456,6 +12504,7 @@
   "avg_npc_241": {
     "en_US": [
       "Angry NCO",
+      "Composed Soldier",
       "Crumbling Soldier",
       "Gentle Officer",
       "Guards Member",
@@ -12511,6 +12560,7 @@
   "avg_npc_242": {
     "en_US": [
       "'Engineer'",
+      "Agitated Citizen",
       "Amazed Passerby",
       "Angry Citizen",
       "Angry Youth",
@@ -12518,6 +12568,7 @@
       "Bent",
       "Busy Youth",
       "Catastrophe Messenger",
+      "Cheerful Soldier",
       "Chef MacMartin",
       "Community Resident",
       "Confused Resident",
@@ -12542,7 +12593,9 @@
       "Mysterious Informant",
       "Panicked Youth",
       "Placid Photographer",
+      "Ragged Citizen",
       "Restless Youth",
+      "Stan",
       "Suspicious Man",
       "Taran Citizen",
       "Taran Refugee",
@@ -12668,8 +12721,10 @@
   "avg_npc_243": {
     "en_US": [
       "Apathetic Passerby",
+      "Calm Lady",
       "Cautious Servant",
       "Feeble Woman",
+      "Frightened Woman",
       "Infected Citizen",
       "Information Broker",
       "Lively Female Patient",
@@ -12781,6 +12836,9 @@
       "'Adjutant Hill'",
       "Adjutant Hill",
       "Biting Officer",
+      "Defense Force Patrol",
+      "Drunken MP",
+      "Excited Soldier",
       "Patrol Member",
       "Patrol Soldier",
       "Staff Officer",
@@ -13024,6 +13082,7 @@
   },
   "avg_npc_271_1": {
     "en_US": [
+      "Receiving Attendant",
       "Scathing Nobleman"
     ],
     "ja_JP": [
@@ -13789,7 +13848,9 @@
     "en_US": [
       "Bean the Infected",
       "Gordon",
+      "Ill-Intentioned Citizen",
       "Nervous Infected",
+      "Nervous Worker",
       "Pale Man"
     ],
     "ja_JP": [
@@ -14334,6 +14395,7 @@
   "avg_npc_398_1": {
     "en_US": [
       "Exemplar Soldier",
+      "Retired Exemplar",
       "Self-Salvation Corps Fighter",
       "Self-Salvation Corps Member",
       "Self-Salvation Corps Soldier"
@@ -14354,14 +14416,23 @@
   },
   "avg_npc_399_1": {
     "en_US": [
+      "Alert Mercenary",
+      "Calm Mercenary",
+      "Cautious Mercenary",
       "Columbian Mercenary",
+      "Concerned Mercenary",
+      "Disdainful Mercenary",
       "Former Defense Forces Soldier",
+      "Impatient Mercenary",
       "Inspector A",
       "Inspector B",
+      "Mysterious Mercenary",
+      "Nervous Mercenary",
       "Nervous Soldier",
       "Security Detail",
       "Special Forces Captain",
       "Terrified Soldier",
+      "Tired Mercenary",
       "Unhappy Soldier",
       "Victorian Mercenary"
     ],
@@ -14426,6 +14497,7 @@
   "avg_npc_401_1": {
     "en_US": [
       "Clovisia",
+      "Unicorn",
       "Young-sounding Voice"
     ],
     "ja_JP": [
@@ -14529,11 +14601,14 @@
   },
   "avg_npc_408_1": {
     "en_US": [
+      "Excited Soldier",
       "Flag Officer",
       "High-Ranking Officer",
+      "Impetuous Soldier",
       "Redsteel Guard Member",
       "Slippery Soldier",
       "Stern Soldier",
+      "Stressed Soldier",
       "Veteran Officer",
       "Victorian Barracks Officer",
       "Victorian Officer",
@@ -14576,6 +14651,7 @@
   },
   "avg_npc_409_1": {
     "en_US": [
+      "Carefree Citizen",
       "Flag Officer",
       "Victorian Officer",
       "Victorian Soldier"
@@ -14658,6 +14734,8 @@
   },
   "avg_npc_414_1": {
     "en_US": [
+      "Drunken Soldier",
+      "Excited Soldier",
       "Robben",
       "Sickly Soldier",
       "Somber Soldier",
@@ -14702,10 +14780,12 @@
   },
   "avg_npc_416_1": {
     "en_US": [
+      "Amiable Merchant",
       "Astonished Resident",
       "Desperate Thug",
       "Dublinn Messenger",
       "Frightened Refugee",
+      "Gang Member",
       "Jittery Citizen",
       "Londinium Citizen",
       "Londinium Citizen?",
@@ -14760,11 +14840,13 @@
   "avg_npc_417_1": {
     "en_US": [
       "Angry Thug",
+      "Cafeteria Manager",
       "Calm Thug",
       "Cheering Civilian",
       "Farmer",
       "Gali",
       "Hairdresser",
+      "Impatient Citizen",
       "Londinium Citizen",
       "Newsagent",
       "Skeptical Citizen",
@@ -14809,6 +14891,7 @@
       "Catastrophe Messenger",
       "Catastrophe Messenger?",
       "Earl's Attendant",
+      "Exemplar Nurse",
       "Fleeing Londinier",
       "Florist",
       "Haggard Woman",
@@ -14817,6 +14900,7 @@
       "Londinium Citizen",
       "Londinium Citizen B",
       "New Teacher",
+      "Sanatorium Patient",
       "Strange Woman",
       "Tamika"
     ],
@@ -14967,6 +15051,9 @@
   },
   "avg_npc_422_1": {
     "en_US": [
+      "Diligent Guard",
+      "Trembling Voice",
+      "Victorian Sergeant",
       "Victorian Soldier"
     ],
     "ja_JP": [
@@ -14984,9 +15071,13 @@
   },
   "avg_npc_423_1": {
     "en_US": [
+      "Excitable Soldier",
+      "Injured Exemplar",
       "Injured Soldier",
+      "Panting Soldier",
       "Prisoner",
-      "Rescued Soldier"
+      "Rescued Soldier",
+      "Walker"
     ],
     "ja_JP": [
       "ウォーカー",
@@ -16920,9 +17011,13 @@
   },
   "avg_npc_659_1": {
     "en_US": [
+      "Downtrodden Man",
       "Londinium Worker",
       "Londinium Worker B",
-      "Victorian Worker"
+      "Rowdy MP",
+      "Uneasy MP",
+      "Victorian Worker",
+      "Wronged Worker"
     ],
     "ja_JP": [
       "やりきれない労働者",
@@ -16947,6 +17042,9 @@
   "avg_npc_660_1": {
     "en_US": [
       "Desperate Refugee",
+      "Emotional Worker",
+      "Enthusiastic Worker",
+      "Happy Worker",
       "Londinium Worker",
       "Londinium Worker A",
       "Panicked Refugee",
@@ -16984,6 +17082,8 @@
       "Madeline",
       "Old Man",
       "Repulsed Child",
+      "Sulking Child",
+      "Timid Child",
       "Tyrant",
       "Villager's Child"
     ],
@@ -17495,6 +17595,7 @@
   "avg_npc_729_1": {
     "en_US": [
       "Cruise Jr.",
+      "Depressed Soldier",
       "Injured Refugee",
       "Maimed Citizen",
       "Tear-Streaked Passerby",
@@ -18215,7 +18316,8 @@
       "'Trilby Asher'",
       "'Trilby Asher' & Leto",
       "Behatted Person",
-      "Foreigner With a Funny Hat"
+      "Foreigner With a Funny Hat",
+      "Trilby Asher"
     ],
     "ja_JP": [
       "「グレーシルクハット」",
@@ -18592,8 +18694,10 @@
       "Impatient Civilian",
       "Indifferent Civilian",
       "Kazdelian Outskirter A",
+      "Longshot",
       "Parker",
       "Sarkaz Artificer",
+      "Sarkaz Assassin",
       "Sarkaz Civilian",
       "Sarkaz Mercenary"
     ],
@@ -18682,6 +18786,7 @@
       "Gang Leaders",
       "Kazdelian Outskirter B",
       "Monastery Inhabitant",
+      "Nervous Woman",
       "Sarkaz Hunter",
       "Street Hawker"
     ],
@@ -19287,7 +19392,8 @@
   "avgnew_112_siege_1": {
     "en_US": [
       "Misery",
-      "Siege"
+      "Siege",
+      "Vina"
     ],
     "ja_JP": [
       "Misery",

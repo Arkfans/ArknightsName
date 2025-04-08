@@ -744,18 +744,18 @@ tip: 请善用浏览器的搜索功能
 | act36side_07 | 健康零食 | Healthy Snacks | ヘルシースナック |
 | act36side_08 | 罗德岛大食堂 | Rhodes Island Cafeteria | ロドス大食堂 |
 | act36side_tr01 | 美食指南 | Gourmet Guide | グルメガイド |
-| act37side_01 | 仇怨残余 | - | 怨恨の残滓 |
-| act37side_02 | 痼疾缠身 | - | 纏わりつく持病 |
-| act37side_03 | 议会公决 | - | 議会の決議 |
-| act37side_04 | 酒精与安慰剂 | - | アルコールと偽薬 |
-| act37side_05 | 废铁与铆钉 | - | 鉄クズとリベット |
-| act37side_06 | “晚饭宣言” | - | 「晩餐宣言」 |
-| act37side_07 | 锈王冠 | - | 錆びた王冠 |
-| act37side_08 | 战火重铸之剑 | - | 戦火が鋳直した剣 |
-| act37side_09 | 英雄的落幕 | - | 英雄の幕引き |
-| act37side_st01 | 历史的航向 | - | 歴史の針路 |
-| act37side_st02 | 童话的结局 | - | 童話の終わり |
-| act37side_tr01 | 物资难题 | - | 補給問題 |
+| act37side_01 | 仇怨残余 | Lingering Scores | 怨恨の残滓 |
+| act37side_02 | 痼疾缠身 | Crippling Illness | 纏わりつく持病 |
+| act37side_03 | 议会公决 | Parliament's Voice | 議会の決議 |
+| act37side_04 | 酒精与安慰剂 | Alcohol and Placebo | アルコールと偽薬 |
+| act37side_05 | 废铁与铆钉 | Scrap and Nail | 鉄クズとリベット |
+| act37side_06 | “晚饭宣言” | The Dinner Proclamation | 「晩餐宣言」 |
+| act37side_07 | 锈王冠 | Rusted Crown | 錆びた王冠 |
+| act37side_08 | 战火重铸之剑 | Sword Reforged in War | 戦火が鋳直した剣 |
+| act37side_09 | 英雄的落幕 | A Hero's Final Bow | 英雄の幕引き |
+| act37side_st01 | 历史的航向 | Course of History | 歴史の針路 |
+| act37side_st02 | 童话的结局 | Fairytale Ending | 童話の終わり |
+| act37side_tr01 | 物资难题 | Supply Shortage | 補給問題 |
 | act38side_01 | 失途 | - | - |
 | act38side_02 | 择路 | - | - |
 | act38side_03 | 恶客盈门 | - | - |
@@ -1420,8 +1420,8 @@ tip: 请善用浏览器的搜索功能
 | sub_07-1-2 | 埋伏-2 | Ambush-2 | 潜伏-2 |
 | sub_09-1-1 | 废墟坚守 | Holding Ruins | 廃墟防戦 |
 | sub_09-1-2 | 背向火灼 | Back to the Flames | 火焔に背を向けて |
-| sub_09-1-3 | 灰烬之下 | - | 燃え殻の下 |
-| sub_09-1-4 | 退无可退 | - | 退く道はなし |
+| sub_09-1-3 | 灰烬之下 | Beneath the Ash | 燃え殻の下 |
+| sub_09-1-4 | 退无可退 | No Retreat | 退く道はなし |
 | tr_01 | 战地医疗  | Battlefield Treatment | 戦場医療 |
 | tr_02 | 定向瞄准 | Directed Aim | 精密射撃 |
 | tr_03 | 精确打击 | Precise Strike | 狙撃 |

@@ -82,6 +82,7 @@
   "char_1019_siege2": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Vina Victoria",
       "ja_JP": "ヴィーナ・ヴィクトリア",
       "zh_CN": "维娜·维多利亚"
     }
@@ -2413,6 +2414,7 @@
   "char_4162_cathy": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Catherine",
       "ja_JP": "キャサリン",
       "zh_CN": "凯瑟琳"
     }
@@ -2766,6 +2768,7 @@
   "char_487_bobb": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Bobbing",
       "ja_JP": "ボビング",
       "zh_CN": "波卜"
     }
@@ -3429,6 +3432,7 @@
   "token_10040_siege2_vlion": {
     "type": "TOKEN",
     "names": {
+      "en_US": "Golden Vows",
       "ja_JP": "黄金の誓い",
       "zh_CN": "黄金盟誓"
     }
@@ -3436,6 +3440,7 @@
   "token_10041_cathy_catsld": {
     "type": "TOKEN",
     "names": {
+      "en_US": "Crawler Protection Unit",
       "ja_JP": "クローラー・防護ユニット",
       "zh_CN": "爬行号·防护单元"
     }
@@ -5239,6 +5244,7 @@
   "trap_184_vtarsn": {
     "type": "TRAP",
     "names": {
+      "en_US": "Munitions Factory Command Center",
       "ja_JP": "軍事工場指令基地",
       "zh_CN": "军工厂指令平台"
     }
@@ -5246,6 +5252,7 @@
   "trap_185_vtlntw": {
     "type": "TRAP",
     "names": {
+      "en_US": "Golden Echo",
       "ja_JP": "黄金の反響",
       "zh_CN": "黄金回响"
     }
@@ -6981,6 +6988,7 @@
   "trap_779_skzth": {
     "type": "TRAP",
     "names": {
+      "en_US": "Aggini of Nila",
       "ja_JP": "ニーラのアグニ",
       "zh_CN": "尼卢火"
     }
@@ -7044,6 +7052,7 @@
   "char_017_huang@witch#5": {
     "type": "SKIN",
     "names": {
+      "en_US": "Explosive Blue Flame",
       "ja_JP": "爆ぜる蒼炎",
       "zh_CN": "易爆蓝焰"
     }
@@ -7129,7 +7138,7 @@
   "char_1020_reed2@summer#17": {
     "type": "SKIN",
     "names": {
-      "en_US": "Summer Flower FA075",
+      "en_US": "Summer Flowers FA075",
       "ja_JP": "夏の花弁FA075",
       "zh_CN": "夏卉 FA075"
     }
@@ -8481,6 +8490,7 @@
   "char_281_popka@witch#5": {
     "type": "SKIN",
     "names": {
+      "en_US": "Witch's Swing",
       "ja_JP": "魔女のブランコ",
       "zh_CN": "魔女的秋千"
     }
@@ -9514,6 +9524,7 @@
   "char_4109_baslin@witch#5": {
     "type": "SKIN",
     "names": {
+      "en_US": "Starry Night Sky",
       "ja_JP": "夜天に輝く星",
       "zh_CN": "夜空星芒"
     }
@@ -9527,6 +9538,7 @@
   "char_4116_blkkgt@witch#5": {
     "type": "SKIN",
     "names": {
+      "en_US": "The Shadow of the Dark Moon",
       "ja_JP": "暗月の影",
       "zh_CN": "暗月的影子"
     }
@@ -10550,6 +10562,7 @@
   "enemy_10021_vtcar": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Freight Car",
       "ja_JP": "軌道貨車",
       "zh_CN": "货运轨道车"
     }
@@ -10557,6 +10570,7 @@
   "enemy_10022_vtskny": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Novice Junkman",
       "ja_JP": "新入り流れ者",
       "zh_CN": "新手拾荒者"
     }
@@ -10564,6 +10578,7 @@
   "enemy_10022_vtskny_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Seasoned Junkman",
       "ja_JP": "熟練流れ者",
       "zh_CN": "老练拾荒者"
     }
@@ -10571,6 +10586,7 @@
   "enemy_10023_vtsnky": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Goggles' Gang Thief",
       "ja_JP": "「ゴーグル」のコソ泥",
       "zh_CN": "“护目镜”帮派窃贼"
     }
@@ -10578,6 +10594,7 @@
   "enemy_10023_vtsnky_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Goggles' Gang Thug",
       "ja_JP": "「ゴーグル」の荒くれ者",
       "zh_CN": "“护目镜”帮派打手"
     }
@@ -10585,6 +10602,7 @@
   "enemy_10024_vtstrn": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Neighborhood Watch' Member",
       "ja_JP": "「町内自治団」構成員",
       "zh_CN": "“街区自治队”成员"
     }
@@ -10592,6 +10610,7 @@
   "enemy_10024_vtstrn_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Neighborhood Watch' Leader",
       "ja_JP": "「町内自治団」隊長",
       "zh_CN": "“街区自治队”队长"
     }
@@ -10599,6 +10618,7 @@
   "enemy_10025_vtmstr": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Millscar' Mercenary",
       "ja_JP": "「ミルスカー」の傭兵",
       "zh_CN": "“铣痕”团伙佣兵"
     }
@@ -10606,6 +10626,7 @@
   "enemy_10025_vtmstr_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Millscar' Elite Mercenary",
       "ja_JP": "「ミルスカー」の精鋭傭兵",
       "zh_CN": "“铣痕”团伙精锐佣兵"
     }
@@ -10613,6 +10634,7 @@
   "enemy_10026_vtzepl": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Transport Vessel",
       "ja_JP": "物資輸送艇",
       "zh_CN": "物资运输艇"
     }
@@ -10620,6 +10642,7 @@
   "enemy_10026_vtzepl_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Heavy Transport Vessel",
       "ja_JP": "大容量物資輸送艇",
       "zh_CN": "大容量物资运输艇"
     }
@@ -10627,6 +10650,7 @@
   "enemy_10027_vtsk": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Armor of the Empire'",
       "ja_JP": "「帝国の甲冑」",
       "zh_CN": "“帝国的甲胄”"
     }
@@ -10634,6 +10658,7 @@
   "enemy_10028_vtswd": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Unequipped Blade",
       "ja_JP": "組み立て前の刃",
       "zh_CN": "未装配刀片"
     }
@@ -10641,6 +10666,7 @@
   "enemy_10029_vtshld": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Protective Vest",
       "ja_JP": "防護ベストの生地",
       "zh_CN": "防护背心"
     }
@@ -10656,6 +10682,7 @@
   "enemy_10030_vtwand": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Assault Arts Unit",
       "ja_JP": "アーツユニットの部品",
       "zh_CN": "冲击式施术单元"
     }
@@ -18327,6 +18354,7 @@
   "enemy_1559_vtlionk": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Alistair, Final Flame of the Empire",
       "ja_JP": "「帝国の残光」アリステア",
       "zh_CN": "阿利斯泰尔，帝国余晖"
     }
@@ -19040,6 +19068,7 @@
   "enemy_2089_skzjkl": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Qui'lon, Avatar of the Mahasattva",
       "ja_JP": "「摩訶薩の権化」クイロン",
       "zh_CN": "奎隆，摩诃萨埵权化"
     }
@@ -19047,6 +19076,7 @@
   "enemy_2090_skzjbc": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Padmasana of Rebirth",
       "ja_JP": "托生蓮座",
       "zh_CN": "托生莲座"
     }
@@ -19054,6 +19084,7 @@
   "enemy_2091_skzgds": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Window'",
       "ja_JP": "「窓」",
       "zh_CN": "“窗”"
     }
@@ -21573,6 +21604,7 @@
   "act37side": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Ending a Grand Overture",
       "ja_JP": "落日の向こうへ",
       "zh_CN": "追迹日落以西"
     }
@@ -21754,6 +21786,7 @@
   "act45sign": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Thank-You Celebration Prospective Login",
       "ja_JP": "大感謝祭開催直前スタンプラリー",
       "zh_CN": "感谢庆典前瞻签到"
     }
@@ -23892,6 +23925,7 @@
   "SINGLE_55_0_1_GACHA": {
     "type": "ITEM",
     "names": {
+      "en_US": "Never Gilded Headhunting Permit",
       "ja_JP": "褪せざる栄光スカウト券",
       "zh_CN": "未致蒙尘寻访凭证"
     }
@@ -23899,6 +23933,7 @@
   "SINGLE_55_0_1_GACHA_10": {
     "type": "ITEM",
     "names": {
+      "en_US": "Exclusive Ten-roll Headhunting Permit",
       "ja_JP": "褪せざる栄光10回スカウト券",
       "zh_CN": "未致蒙尘十连寻访凭证"
     }
@@ -24916,6 +24951,7 @@
   "act37side_token_nay": {
     "type": "ITEM",
     "names": {
+      "en_US": "'Nay!'",
       "ja_JP": "「反対！」",
       "zh_CN": "“我反对！”"
     }
@@ -27508,6 +27544,7 @@
   "p_char_1019_siege2": {
     "type": "ITEM",
     "names": {
+      "en_US": "Vina Victoria's Token",
       "ja_JP": "ヴィーナ・ヴィクトリアの印",
       "zh_CN": "维娜·维多利亚的信物"
     }
@@ -29805,6 +29842,7 @@
   "p_char_4162_cathy": {
     "type": "ITEM",
     "names": {
+      "en_US": "Catherine's Token",
       "ja_JP": "キャサリンの印",
       "zh_CN": "凯瑟琳的信物"
     }
@@ -30150,6 +30188,7 @@
   "p_char_487_bobb": {
     "type": "ITEM",
     "names": {
+      "en_US": "Bobbing's Token",
       "ja_JP": "ボビングの印",
       "zh_CN": "波卜的信物"
     }
@@ -30459,6 +30498,7 @@
   "randomMaterial_5d5": {
     "type": "ITEM",
     "names": {
+      "en_US": "Thank-You Celebration Supplies",
       "ja_JP": "補給物資・感謝祭",
       "zh_CN": "2024感谢庆典物资补给"
     }
@@ -31288,6 +31328,7 @@
   "uni_set_court": {
     "type": "ITEM",
     "names": {
+      "en_US": "Il Siracusano Furniture Pack",
       "ja_JP": "シラクザーノ家具パック",
       "zh_CN": "叙拉古人家具收藏包"
     }
@@ -33685,6 +33726,7 @@
   "_SINGLE_33_0_1": {
     "type": "POOL",
     "names": {
+      "en_US": "Never Gilded",
       "ja_JP": "褪せざる栄光"
     }
   },
@@ -33714,7 +33756,7 @@
   "skchr_acast_1": {
     "type": "SKILL",
     "names": {
-      "en_US": "'All For Me'",
+      "en_US": "'All That I Do'",
       "ja_JP": "「我が成すことを成せ」",
       "zh_CN": "“为我所为”"
     }
@@ -34584,6 +34626,7 @@
   "skchr_bobb_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Nonpeaceful Negotiation",
       "ja_JP": "非友好的交渉",
       "zh_CN": "非和平劝说"
     }
@@ -34591,6 +34634,7 @@
   "skchr_bobb_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "'You Shall Not Pass'",
       "ja_JP": "「通行止め」",
       "zh_CN": "“此路不通”"
     }
@@ -34754,6 +34798,7 @@
   "skchr_cathy_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Wrought by Age",
       "ja_JP": "歳月による鍛造",
       "zh_CN": "岁月锻打"
     }
@@ -34761,6 +34806,7 @@
   "skchr_cathy_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Tempered by War",
       "ja_JP": "戦火の焼き入れ",
       "zh_CN": "战火淬炼"
     }
@@ -38328,6 +38374,7 @@
   "skchr_siege2_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Reforged Radiance",
       "ja_JP": "栄光再鋳",
       "zh_CN": "重铸晖光"
     }
@@ -38335,6 +38382,7 @@
   "skchr_siege2_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Homeward Bound",
       "ja_JP": "故地への進撃",
       "zh_CN": "进赴故土"
     }
@@ -38342,6 +38390,7 @@
   "skchr_siege2_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "And All Be In My Name",
       "ja_JP": "我が名において",
       "zh_CN": "俱以我之名"
     }
@@ -40839,6 +40888,7 @@
   "sktok_cathy_catsld_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Wrought by Age",
       "ja_JP": "歳月による鍛造",
       "zh_CN": "岁月锻打"
     }
@@ -40846,6 +40896,7 @@
   "sktok_cathy_catsld_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Tempered by War",
       "ja_JP": "戦火の焼き入れ",
       "zh_CN": "战火淬炼"
     }
@@ -43085,6 +43136,7 @@
   "sktok_vtarsn": {
     "type": "SKILL",
     "names": {
+      "en_US": "Arms Factory Is A-Go!",
       "ja_JP": "生産開始！",
       "zh_CN": "军工厂生产！"
     }
@@ -49622,6 +49674,7 @@
   "act37side_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Lingering Scores",
       "ja_JP": "怨恨の残滓",
       "zh_CN": "仇怨残余"
     }
@@ -49629,6 +49682,7 @@
   "act37side_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Crippling Illness",
       "ja_JP": "纏わりつく持病",
       "zh_CN": "痼疾缠身"
     }
@@ -49636,6 +49690,7 @@
   "act37side_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Parliament's Voice",
       "ja_JP": "議会の決議",
       "zh_CN": "议会公决"
     }
@@ -49643,6 +49698,7 @@
   "act37side_04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Alcohol and Placebo",
       "ja_JP": "アルコールと偽薬",
       "zh_CN": "酒精与安慰剂"
     }
@@ -49650,6 +49706,7 @@
   "act37side_05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Scrap and Nail",
       "ja_JP": "鉄クズとリベット",
       "zh_CN": "废铁与铆钉"
     }
@@ -49657,6 +49714,7 @@
   "act37side_06": {
     "type": "STAGE",
     "names": {
+      "en_US": "The Dinner Proclamation",
       "ja_JP": "「晩餐宣言」",
       "zh_CN": "“晚饭宣言”"
     }
@@ -49664,6 +49722,7 @@
   "act37side_07": {
     "type": "STAGE",
     "names": {
+      "en_US": "Rusted Crown",
       "ja_JP": "錆びた王冠",
       "zh_CN": "锈王冠"
     }
@@ -49671,6 +49730,7 @@
   "act37side_08": {
     "type": "STAGE",
     "names": {
+      "en_US": "Sword Reforged in War",
       "ja_JP": "戦火が鋳直した剣",
       "zh_CN": "战火重铸之剑"
     }
@@ -49678,6 +49738,7 @@
   "act37side_09": {
     "type": "STAGE",
     "names": {
+      "en_US": "A Hero's Final Bow",
       "ja_JP": "英雄の幕引き",
       "zh_CN": "英雄的落幕"
     }
@@ -49685,6 +49746,7 @@
   "act37side_st01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Course of History",
       "ja_JP": "歴史の針路",
       "zh_CN": "历史的航向"
     }
@@ -49692,6 +49754,7 @@
   "act37side_st02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Fairytale Ending",
       "ja_JP": "童話の終わり",
       "zh_CN": "童话的结局"
     }
@@ -49699,6 +49762,7 @@
   "act37side_tr01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Supply Shortage",
       "ja_JP": "補給問題",
       "zh_CN": "物资难题"
     }
@@ -54796,6 +54860,7 @@
   "sub_09-1-3": {
     "type": "STAGE",
     "names": {
+      "en_US": "Beneath the Ash",
       "ja_JP": "燃え殻の下",
       "zh_CN": "灰烬之下"
     }
@@ -54803,6 +54868,7 @@
   "sub_09-1-4": {
     "type": "STAGE",
     "names": {
+      "en_US": "No Retreat",
       "ja_JP": "退く道はなし",
       "zh_CN": "退无可退"
     }
@@ -56596,6 +56662,7 @@
   "act37side_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Die a Hero Or a Villain",
       "ja_JP": "名もなき栄光",
       "zh_CN": "无名之勋"
     }
@@ -56603,6 +56670,7 @@
   "act37side_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Once upon a Time",
       "ja_JP": "幕引かぬ過去",
       "zh_CN": "未了往昔"
     }
@@ -57580,6 +57648,7 @@
   "permanent_sub_7_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Die a Hero Or a Villain",
       "ja_JP": "名もなき栄光",
       "zh_CN": "无名之勋"
     }
@@ -57587,6 +57656,7 @@
   "permanent_sub_7_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Once upon a Time",
       "ja_JP": "幕引かぬ過去",
       "zh_CN": "未了往昔"
     }
@@ -57698,6 +57768,7 @@
   "story_absin_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Finding Life Through Death",
       "ja_JP": "死の中にある生",
       "zh_CN": "向死寻生"
     }
@@ -57903,6 +57974,7 @@
   "story_baslin_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Aufführung im Abendrot",
       "ja_JP": "夕焼けの演奏",
       "zh_CN": "晚霞下的演奏"
     }
@@ -58888,6 +58960,7 @@
   "story_ironmn_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Bad Mesh",
       "ja_JP": "嚙み合わない歯車",
       "zh_CN": "啮合不良"
     }
@@ -59375,6 +59448,7 @@
   "story_papyrs_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Outside the Window",
       "ja_JP": "窓の外",
       "zh_CN": "玻璃窗外"
     }

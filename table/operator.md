@@ -15,7 +15,7 @@ tip: 请善用浏览器的搜索功能
 | char_1013_chen2 | 假日威龙陈 | Ch'en the Holungday | 遊龍チェン |
 | char_1014_nearl2 | 耀骑士临光 | Nearl the Radiant Knight | 耀騎士ニアール |
 | char_1016_agoat2 | 纯烬艾雅法拉 | Eyjafjalla the Hvít Aska | 純燼エイヤフィヤトラ |
-| char_1019_siege2 | 维娜·维多利亚 | - | ヴィーナ・ヴィクトリア |
+| char_1019_siege2 | 维娜·维多利亚 | Vina Victoria | ヴィーナ・ヴィクトリア |
 | char_101_sora | 空 | Sora | ソラ |
 | char_1020_reed2 | 焰影苇草 | Reed the Flame Shadow | 焔影リード |
 | char_1021_kroos2 | 寒芒克洛丝 | Kroos the Keen Glint | 寒芒クルース |
@@ -309,7 +309,7 @@ tip: 请善用浏览器的搜索功能
 | char_4151_tinman | 锡人 | Tin Man | ブリキ |
 | char_4155_talr | 裁度 | - | - |
 | char_415_flint | 燧石 | Flint | フリント |
-| char_4162_cathy | 凯瑟琳 | - | キャサリン |
+| char_4162_cathy | 凯瑟琳 | Catherine | キャサリン |
 | char_4163_rosesa | 瑰盐 | - | - |
 | char_4164_tecno | 特克诺 | - | - |
 | char_4165_ctrail | 云迹 | - | - |
@@ -356,7 +356,7 @@ tip: 请善用浏览器的搜索功能
 | char_484_robrta | 罗比菈塔 | Roberta | ロベルタ |
 | char_485_pallas | 帕拉斯 | Pallas | パラス |
 | char_486_takila | 龙舌兰 | Tequila | テキーラ |
-| char_487_bobb | 波卜 | - | ボビング |
+| char_487_bobb | 波卜 | Bobbing | ボビング |
 | char_488_buildr | 青枳 | Poncirus | ポンシラス |
 | char_489_serum | 蚀清 | Corroserum | コロセラム |
 | char_491_humus | 休谟斯 | Humus | ヒューマス |

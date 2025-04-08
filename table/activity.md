@@ -163,7 +163,7 @@ tip: 请善用浏览器的搜索功能
 | act35sign | 清光邀月——月饼烘焙小教程 | Moonlight Invite - Mooncake-Making Tutorial | 清風明月-ロドス点心教室 |
 | act36side | 泰拉饭 | Delicious On Terra | テラ飯 |
 | act36sign | 步上双塔之时签到活动 | Climbing the Twin Spires Sign-In Event | 双塔の高みを目指してスタンプラリー |
-| act37side | 追迹日落以西 | - | 落日の向こうへ |
+| act37side | 追迹日落以西 | Ending a Grand Overture | 落日の向こうへ |
 | act37sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act38d1 | 尖灭测试作战 | Pinch-Out Experimental Operation | 尖滅試験作戦 |
 | act38side | 揭幕者们 | - | - |
@@ -191,7 +191,7 @@ Event | なないろのお茶会 |
 | act42sign | 品鉴泰拉魔物 | Have A Taste Of Terran Monsters | テラ魔物品評 |
 | act43sign | 良辰迎月签到活动 | A Good Moony Time Login Event | 嘉辰令月スタンプ |
 | act44sign | 构想试炼签到活动 | Conceptual Crucible Login Event | 仮想試練スタンプ |
-| act45sign | 感谢庆典前瞻签到 | - | 大感謝祭開催直前スタンプラリー |
+| act45sign | 感谢庆典前瞻签到 | Thank-You Celebration Prospective Login | 大感謝祭開催直前スタンプラリー |
 | act46sign | 感谢庆典限时签到 | - | - |
 | act47sign | 感谢庆典补给签到 | - | - |
 | act48sign | 2025跨年纪念限时活动 | - | - |
