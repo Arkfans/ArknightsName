@@ -473,3 +473,6 @@ tip: 请善用浏览器的搜索功能
 | trap_777_giacan | “留声机”底座 | - | - |
 | trap_778_giatow | L-44"留声机" | - | - |
 | trap_779_skzth | 尼卢火 | Aggini of Nila | ニーラのアグニ |
+| trap_780_supspt | 天工夜行套装 | - | - |
+| trap_781_supspta | 夜行斗篷模块 | - | - |
+| trap_782_supsptb | 夜行钩爪模块 | - | - |

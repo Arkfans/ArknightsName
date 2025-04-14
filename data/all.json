@@ -6993,6 +6993,24 @@
       "zh_CN": "尼卢火"
     }
   },
+  "trap_780_supspt": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "天工夜行套装"
+    }
+  },
+  "trap_781_supspta": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "夜行斗篷模块"
+    }
+  },
+  "trap_782_supsptb": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "夜行钩爪模块"
+    }
+  },
   "char_002_amiya@epoque#4": {
     "type": "SKIN",
     "names": {
@@ -19883,6 +19901,24 @@
     "type": "ENEMY",
     "names": {
       "zh_CN": "“高亢群歌”"
+    }
+  },
+  "enemy_6029_solzac": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“晨音”"
+    }
+  },
+  "enemy_6030_frgzac": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“鸣啭”"
+    }
+  },
+  "enemy_6031_visfrg": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“木衣”"
     }
   },
   "enemy_7001_blwzad": {
@@ -42869,6 +42905,24 @@
       "zh_CN": "新遣"
     }
   },
+  "sktok_supspt": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "天工夜行"
+    }
+  },
+  "sktok_supspta": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "天工夜行"
+    }
+  },
+  "sktok_supsptb": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "天工夜行"
+    }
+  },
   "sktok_swire2_gdtrap": {
     "type": "SKILL",
     "names": {
@@ -51263,6 +51317,30 @@
       "zh_CN": "灯塔行动-4"
     }
   },
+  "hard_15-01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "机密预案-1"
+    }
+  },
+  "hard_15-02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "机密预案-2"
+    }
+  },
+  "hard_15-03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "机密预案-3"
+    }
+  },
+  "hard_15-04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "机密预案-4"
+    }
+  },
   "lt_01_01": {
     "type": "STAGE",
     "names": {
@@ -52129,6 +52207,42 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "“音乐之心”"
+    }
+  },
+  "lt_18_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "巷道里"
+    }
+  },
+  "lt_18_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "楼台边"
+    }
+  },
+  "lt_18_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "墓地旁"
+    }
+  },
+  "lt_18_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "舞台上"
+    }
+  },
+  "lt_18_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "城门下"
+    }
+  },
+  "lt_18_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "天地间"
     }
   },
   "lt_tr_01": {
@@ -53988,61 +54102,61 @@
   "main_15-10": {
     "type": "STAGE",
     "names": {
-      "zh_CN": "目击众神死亡的荒原"
+      "zh_CN": "一段长梦将醒"
     }
   },
   "main_15-10#s": {
     "type": "STAGE",
     "names": {
-      "zh_CN": "目击众神死亡的荒原"
+      "zh_CN": "一段长梦将醒"
     }
   },
   "main_15-11": {
     "type": "STAGE",
     "names": {
-      "zh_CN": "成为你的眼睛"
+      "zh_CN": "目击众神死亡的荒原"
     }
   },
   "main_15-11#s": {
     "type": "STAGE",
     "names": {
-      "zh_CN": "成为你的眼睛"
+      "zh_CN": "目击众神死亡的荒原"
     }
   },
   "main_15-12": {
     "type": "STAGE",
     "names": {
-      "zh_CN": "在尘或血中"
+      "zh_CN": "成为你的眼睛"
     }
   },
   "main_15-12#s": {
     "type": "STAGE",
     "names": {
-      "zh_CN": "在尘或血中"
+      "zh_CN": "成为你的眼睛"
     }
   },
   "main_15-13": {
     "type": "STAGE",
     "names": {
-      "zh_CN": "拒绝哀悼"
+      "zh_CN": "在尘或血中"
     }
   },
   "main_15-13#s": {
     "type": "STAGE",
     "names": {
-      "zh_CN": "拒绝哀悼"
+      "zh_CN": "在尘或血中"
     }
   },
   "main_15-14": {
     "type": "STAGE",
     "names": {
-      "zh_CN": "永恒与此刻的误差"
+      "zh_CN": "拒绝哀悼"
     }
   },
   "main_15-14#s": {
     "type": "STAGE",
     "names": {
-      "zh_CN": "永恒与此刻的误差"
+      "zh_CN": "拒绝哀悼"
     }
   },
   "main_15-15": {
@@ -54480,7 +54594,7 @@
   "st_15-02": {
     "type": "STAGE",
     "names": {
-      "zh_CN": "一段长梦将醒"
+      "zh_CN": "永恒与此刻的误差"
     }
   },
   "st_15-03": {

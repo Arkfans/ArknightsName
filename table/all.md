@@ -919,6 +919,9 @@ tip: 请善用浏览器的搜索功能
 | trap_777_giacan | “留声机”底座 | - | - |
 | trap_778_giatow | L-44"留声机" | - | - |
 | trap_779_skzth | 尼卢火 | Aggini of Nila | ニーラのアグニ |
+| trap_780_supspt | 天工夜行套装 | - | - |
+| trap_781_supspta | 夜行斗篷模块 | - | - |
+| trap_782_supsptb | 夜行钩爪模块 | - | - |
 | char_002_amiya@epoque#4 | 见习联结者 | Fresh Fastener | 見習い宅配人 |
 | char_002_amiya@test#1 | 播种者 | Seedsower | プランター |
 | char_002_amiya@winter#1 | 报童 | Newsgirl | 新聞配達員 |
@@ -2578,6 +2581,9 @@ tip: 请善用浏览器的搜索功能
 | enemy_6026_techn | 巫术石球 | Witchcraft Orb | 巫術の石球 |
 | enemy_6027_bqthie | 飞檐客-叶无轻 | Ye Wuqing, Rooftop Runner | 「飛侠」葉無軽 |
 | enemy_6028_cosgia | “高亢群歌” | - | - |
+| enemy_6029_solzac | “晨音” | - | - |
+| enemy_6030_frgzac | “鸣啭” | - | - |
+| enemy_6031_visfrg | “木衣” | - | - |
 | enemy_7001_blwzad | 部族巫术师 | Tribal Shaman | 部族呪術師 |
 | enemy_7001_blwzad_2 | 王酋巫术师 | Lord Ameer Shaman | 首長呪術師 |
 | enemy_7002_veingd | 矿脉守卫 | Vein Guardian | 鉱脈の守護者 |
@@ -5587,6 +5593,9 @@ Event | なないろのお茶会 |
 | sktok_storm | 沙尘暴 | Sandstorm | 砂嵐 |
 | sktok_streasure | 宝刺伤人 | Dangerous Spike | 危険な棘 |
 | sktok_supplycard | 新遣 | Dispatch | 派遣 |
+| sktok_supspt | 天工夜行 | - | - |
+| sktok_supspta | 天工夜行 | - | - |
+| sktok_supsptb | 天工夜行 | - | - |
 | sktok_swire2_gdtrap | “见面礼” | 'Courtesy Gift' | 「おもてなし」 |
 | sktok_tbattbc | 钳兽壳粉 | Gloompincer Shell Meal | 鉗獣殻パウダー |
 | sktok_tbpsnc | 高效泡打粉 | High-Efficiency Baking Powder | ベーキングパウダー |
@@ -6668,6 +6677,10 @@ Event | なないろのお茶会 |
 | hard_14-02 | 灯塔行动-2 | Operation Pharos-2 | 光塔作戦-2 |
 | hard_14-03 | 灯塔行动-3 | Operation Pharos-3 | 光塔作戦-3 |
 | hard_14-04 | 灯塔行动-4 | Operation Pharos-4 | 光塔作戦-4 |
+| hard_15-01 | 机密预案-1 | - | - |
+| hard_15-02 | 机密预案-2 | - | - |
+| hard_15-03 | 机密预案-3 | - | - |
+| hard_15-04 | 机密预案-4 | - | - |
 | lt_01_01 | 五号矿洞 | Mine #5 | 5号坑道 |
 | lt_01_02 | 唯利是图 | Mercenary | 私利私欲 |
 | lt_01_03 | 恶势力 | Evil Forces | テロリスト |
@@ -6778,6 +6791,12 @@ Event | なないろのお茶会 |
 | lt_17_04 | 温顺者的摇篮曲 | - | - |
 | lt_17_05 | 驮兽与石像的二重奏 | - | - |
 | lt_17_06 | “音乐之心” | - | - |
+| lt_18_01 | 巷道里 | - | - |
+| lt_18_02 | 楼台边 | - | - |
+| lt_18_03 | 墓地旁 | - | - |
+| lt_18_04 | 舞台上 | - | - |
+| lt_18_05 | 城门下 | - | - |
+| lt_18_06 | 天地间 | - | - |
 | lt_tr_01 | 7号训练场 | Training Ground #7 | 7号訓練場 |
 | lt_tr_02 | 9号训练场 | Training Ground #9 | 9号訓練場 |
 | lt_tr_03 | 10号训练场 | Training Ground #10 | 10号訓練場 |
@@ -7014,16 +7033,16 @@ Event | なないろのお茶会 |
 | main_15-08#s | 减压症候 | - | - |
 | main_15-09 | 隔离净空 | - | - |
 | main_15-09#s | 隔离净空 | - | - |
-| main_15-10 | 目击众神死亡的荒原 | - | - |
-| main_15-10#s | 目击众神死亡的荒原 | - | - |
-| main_15-11 | 成为你的眼睛 | - | - |
-| main_15-11#s | 成为你的眼睛 | - | - |
-| main_15-12 | 在尘或血中 | - | - |
-| main_15-12#s | 在尘或血中 | - | - |
-| main_15-13 | 拒绝哀悼 | - | - |
-| main_15-13#s | 拒绝哀悼 | - | - |
-| main_15-14 | 永恒与此刻的误差 | - | - |
-| main_15-14#s | 永恒与此刻的误差 | - | - |
+| main_15-10 | 一段长梦将醒 | - | - |
+| main_15-10#s | 一段长梦将醒 | - | - |
+| main_15-11 | 目击众神死亡的荒原 | - | - |
+| main_15-11#s | 目击众神死亡的荒原 | - | - |
+| main_15-12 | 成为你的眼睛 | - | - |
+| main_15-12#s | 成为你的眼睛 | - | - |
+| main_15-13 | 在尘或血中 | - | - |
+| main_15-13#s | 在尘或血中 | - | - |
+| main_15-14 | 拒绝哀悼 | - | - |
+| main_15-14#s | 拒绝哀悼 | - | - |
 | main_15-15 | “她” | - | - |
 | main_15-15#s | “她” | - | - |
 | main_15-16 | 从未怀疑，从未远离 | - | - |
@@ -7080,7 +7099,7 @@ Event | なないろのお茶会 |
 | st_14-02 | 自原点中降临 | Descent from the Origin | 原点からの降臨 |
 | st_14-03 | 良夜将死 | Night Goes Gentle | 終焉を迎える良き夜 |
 | st_15-01 | 过去与现在的终点 | - | - |
-| st_15-02 | 一段长梦将醒 | - | - |
+| st_15-02 | 永恒与此刻的误差 | - | - |
 | st_15-03 | 大地与一隅的归宿 | - | - |
 | sub_02-01 | 迟缓-1 | Slow-1 | 緩慢-1 |
 | sub_02-02 | 迟缓-2 | Slow-2 | 緩慢-2 |

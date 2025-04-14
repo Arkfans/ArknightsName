@@ -1200,6 +1200,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_storm | 沙尘暴 | Sandstorm | 砂嵐 |
 | sktok_streasure | 宝刺伤人 | Dangerous Spike | 危険な棘 |
 | sktok_supplycard | 新遣 | Dispatch | 派遣 |
+| sktok_supspt | 天工夜行 | - | - |
+| sktok_supspta | 天工夜行 | - | - |
+| sktok_supsptb | 天工夜行 | - | - |
 | sktok_swire2_gdtrap | “见面礼” | 'Courtesy Gift' | 「おもてなし」 |
 | sktok_tbattbc | 钳兽壳粉 | Gloompincer Shell Meal | 鉗獣殻パウダー |
 | sktok_tbpsnc | 高效泡打粉 | High-Efficiency Baking Powder | ベーキングパウダー |

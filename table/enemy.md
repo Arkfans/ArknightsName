@@ -1251,6 +1251,9 @@ tip: 请善用浏览器的搜索功能
 | enemy_6026_techn | 巫术石球 | Witchcraft Orb | 巫術の石球 |
 | enemy_6027_bqthie | 飞檐客-叶无轻 | Ye Wuqing, Rooftop Runner | 「飛侠」葉無軽 |
 | enemy_6028_cosgia | “高亢群歌” | - | - |
+| enemy_6029_solzac | “晨音” | - | - |
+| enemy_6030_frgzac | “鸣啭” | - | - |
+| enemy_6031_visfrg | “木衣” | - | - |
 | enemy_7001_blwzad | 部族巫术师 | Tribal Shaman | 部族呪術師 |
 | enemy_7001_blwzad_2 | 王酋巫术师 | Lord Ameer Shaman | 首長呪術師 |
 | enemy_7002_veingd | 矿脉守卫 | Vein Guardian | 鉱脈の守護者 |
