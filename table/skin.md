@@ -145,6 +145,7 @@ tip: 请善用浏览器的搜索功能
 | char_211_adnach@sale#5 | 无痕行者 | Traceless Walker | 足跡なき使者 |
 | char_212_ansel@epoque#29 | 晚间咖啡店 | Nighttime Café | ナイトタイムカフェ |
 | char_212_ansel@summer#1 | 悠然假日 HDm06 | Casual Vacation HDm06 | ホリデーHDm06 |
+| char_213_mostma@ambienceSynesthesia#6 | 幻语乐痕 | - | - |
 | char_213_mostma@epoque#5 | 除魅 | Spellbreaker | 魑魅払い |
 | char_214_kafka@snow#3 | 纸板仙子 | Cardboard Fairy | 紙細工の妖精 |
 | char_215_mantic@epoque#19 | 面纱之下 | Under A Veil | ヴェールの下に |
@@ -172,6 +173,7 @@ tip: 请善用浏览器的搜索功能
 | char_243_waaifu@whirlwind#2 | 街道狂花 | Wild Flower of Street | ストリートフラワー |
 | char_245_cello@sale#12 | 无我唯识 | - | - |
 | char_248_mgllan@kitchen#1 | 回味冰霜雪 | Shaved-Ice Memories | やみつきかき氷 |
+| char_249_mlyss@ambienceSynesthesia#6 | 漫步于黄金之梦 | - | - |
 | char_249_mlyss@boc#8 | 新枝 | Young Branch | 新梢 |
 | char_250_phatom@ghost#1 | 梦魇之梦 | Dream Within a Dreammare | 終わらぬ悪夢 |
 | char_250_phatom@sale#4 | 焦点 | Focus | 主演 |
@@ -340,6 +342,7 @@ tip: 请善用浏览器的搜索功能
 | char_4124_iana@rainbow6#2 | 镜廊 | Mirrormaze | ミラーメイズ |
 | char_4125_rdoc@rainbow6#2 | 展览 | Exhibition | エキシビション |
 | char_4131_odda@whirlwind#8 | 糖果暴击 | - | - |
+| char_4133_logos@ambienceSynesthesia#6 | 辉煌的静谧 | - | - |
 | char_4141_marcil@dungeon#1 | 泰拉冒险 | Terra & Traveller | テラの冒険者 |
 | char_4146_nymph@epoque#42 | 甜美配方 | - | - |
 | char_4151_tinman@sale#11 | 相位面容 | - | - |

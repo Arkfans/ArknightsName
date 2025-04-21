@@ -169,6 +169,9 @@ tip: 请善用浏览器的搜索功能
 | act33side_zone1 | 我赠予未来 | You the Future, Take My Gifts | 未来を贈らん |
 | act33side_zone2 | 我驻留往昔 | You the Past, Ward Me Firmly | 昔日に残れり |
 | act33side_zone3 | 我始终如一 | You the Constant, You Are Me | 我は我なり |
+| act33sre_zone1 | 我赠予未来 | - | - |
+| act33sre_zone2 | 我驻留往昔 | - | - |
+| act33sre_zone3 | 我始终如一 | - | - |
 | act34side_zone1 | 信标投放 | Deploy Beacons | ビーコン設置 |
 | act34side_zone2 | 防线巩固 | Fortify Defense | 防衛線強化 |
 | act35side_zone1 | 市民花园 | Citizen's Garden | 市民庭園 |

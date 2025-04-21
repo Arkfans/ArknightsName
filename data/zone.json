@@ -799,6 +799,15 @@
     "ja_JP": "我は我なり",
     "zh_CN": "我始终如一"
   },
+  "act33sre_zone1": {
+    "zh_CN": "我赠予未来"
+  },
+  "act33sre_zone2": {
+    "zh_CN": "我驻留往昔"
+  },
+  "act33sre_zone3": {
+    "zh_CN": "我始终如一"
+  },
   "act34side_zone1": {
     "en_US": "Deploy Beacons",
     "ja_JP": "ビーコン設置",

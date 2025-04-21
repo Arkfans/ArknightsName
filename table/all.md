@@ -1062,6 +1062,7 @@ tip: 请善用浏览器的搜索功能
 | char_211_adnach@sale#5 | 无痕行者 | Traceless Walker | 足跡なき使者 |
 | char_212_ansel@epoque#29 | 晚间咖啡店 | Nighttime Café | ナイトタイムカフェ |
 | char_212_ansel@summer#1 | 悠然假日 HDm06 | Casual Vacation HDm06 | ホリデーHDm06 |
+| char_213_mostma@ambienceSynesthesia#6 | 幻语乐痕 | - | - |
 | char_213_mostma@epoque#5 | 除魅 | Spellbreaker | 魑魅払い |
 | char_214_kafka@snow#3 | 纸板仙子 | Cardboard Fairy | 紙細工の妖精 |
 | char_215_mantic@epoque#19 | 面纱之下 | Under A Veil | ヴェールの下に |
@@ -1089,6 +1090,7 @@ tip: 请善用浏览器的搜索功能
 | char_243_waaifu@whirlwind#2 | 街道狂花 | Wild Flower of Street | ストリートフラワー |
 | char_245_cello@sale#12 | 无我唯识 | - | - |
 | char_248_mgllan@kitchen#1 | 回味冰霜雪 | Shaved-Ice Memories | やみつきかき氷 |
+| char_249_mlyss@ambienceSynesthesia#6 | 漫步于黄金之梦 | - | - |
 | char_249_mlyss@boc#8 | 新枝 | Young Branch | 新梢 |
 | char_250_phatom@ghost#1 | 梦魇之梦 | Dream Within a Dreammare | 終わらぬ悪夢 |
 | char_250_phatom@sale#4 | 焦点 | Focus | 主演 |
@@ -1257,6 +1259,7 @@ tip: 请善用浏览器的搜索功能
 | char_4124_iana@rainbow6#2 | 镜廊 | Mirrormaze | ミラーメイズ |
 | char_4125_rdoc@rainbow6#2 | 展览 | Exhibition | エキシビション |
 | char_4131_odda@whirlwind#8 | 糖果暴击 | - | - |
+| char_4133_logos@ambienceSynesthesia#6 | 辉煌的静谧 | - | - |
 | char_4141_marcil@dungeon#1 | 泰拉冒险 | Terra & Traveller | テラの冒険者 |
 | char_4146_nymph@epoque#42 | 甜美配方 | - | - |
 | char_4151_tinman@sale#11 | 相位面容 | - | - |
@@ -2799,6 +2802,7 @@ tip: 请善用浏览器的搜索功能
 | act32sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act33side | 巴别塔 | Babel | バベル |
 | act33sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
+| act33sre | 巴别塔·复刻 | - | - |
 | act34side | 生路 | Path of Life | 生存航路 |
 | act34sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act35side | 太阳甩在身后 | Adventure That Cannot Wait for the Sun | 太陽すらも追い越して |
@@ -3236,6 +3240,7 @@ Event | なないろのお茶会 |
 | act31side_token_box_rep_1 | 天桩 | - | - |
 | act32side_token_stamp | 艺术馆集章卡 | Galería Stamp Card | スタンプカード |
 | act33side_token_sugar | 粗制糖块 | Raw Sugar Lumps | 粗製角砂糖 |
+| act33side_token_sugar_rep_1 | 粗制糖块 | - | - |
 | act34side_token_chip | “应急物资”蓝图芯片 | 'Emergency Supplies' Blueprint Chip | 「非常用物資」設計図チップ |
 | act35side_token_dust | 流光之沙 | Flowing Glimmerdust | 流光の砂 |
 | act36side_token_recipe | 今日食谱 | Daily Recipe | 今日の献立 |
@@ -4279,6 +4284,7 @@ Event | なないろのお茶会 |
 | SINGLE_58_0_5 | 她们渡船而来 | - | - |
 | SINGLE_59_0_1 | 自火中归还 | - | - |
 | SINGLE_60_0_1 | 指令·重构 | - | - |
+| SINGLE_60_0_3 | 如死亦终 | - | - |
 | SPECIAL_54_0_5 | 定向甄选 | - | - |
 | SPECIAL_59_0_3 | 定向甄选 | - | - |
 | _ATTAIN_15_2_1 | - | Celebrate & Recollect | ロドスの道のり　回顧 |
@@ -7368,6 +7374,9 @@ Event | なないろのお茶会 |
 | act33side_zone1 | 我赠予未来 | You the Future, Take My Gifts | 未来を贈らん |
 | act33side_zone2 | 我驻留往昔 | You the Past, Ward Me Firmly | 昔日に残れり |
 | act33side_zone3 | 我始终如一 | You the Constant, You Are Me | 我は我なり |
+| act33sre_zone1 | 我赠予未来 | - | - |
+| act33sre_zone2 | 我驻留往昔 | - | - |
+| act33sre_zone3 | 我始终如一 | - | - |
 | act34side_zone1 | 信标投放 | Deploy Beacons | ビーコン設置 |
 | act34side_zone2 | 防线巩固 | Fortify Defense | 防衛線強化 |
 | act35side_zone1 | 市民花园 | Citizen's Garden | 市民庭園 |

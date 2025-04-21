@@ -679,6 +679,9 @@
     "ja_JP": "ホリデーHDm06",
     "zh_CN": "悠然假日 HDm06"
   },
+  "char_213_mostma@ambienceSynesthesia#6": {
+    "zh_CN": "幻语乐痕"
+  },
   "char_213_mostma@epoque#5": {
     "en_US": "Spellbreaker",
     "ja_JP": "魑魅払い",
@@ -809,6 +812,9 @@
     "en_US": "Shaved-Ice Memories",
     "ja_JP": "やみつきかき氷",
     "zh_CN": "回味冰霜雪"
+  },
+  "char_249_mlyss@ambienceSynesthesia#6": {
+    "zh_CN": "漫步于黄金之梦"
   },
   "char_249_mlyss@boc#8": {
     "en_US": "Young Branch",
@@ -1607,6 +1613,9 @@
   },
   "char_4131_odda@whirlwind#8": {
     "zh_CN": "糖果暴击"
+  },
+  "char_4133_logos@ambienceSynesthesia#6": {
+    "zh_CN": "辉煌的静谧"
   },
   "char_4141_marcil@dungeon#1": {
     "en_US": "Terra & Traveller",

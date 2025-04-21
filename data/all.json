@@ -8111,6 +8111,12 @@
       "zh_CN": "悠然假日 HDm06"
     }
   },
+  "char_213_mostma@ambienceSynesthesia#6": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "幻语乐痕"
+    }
+  },
   "char_213_mostma@epoque#5": {
     "type": "SKIN",
     "names": {
@@ -8321,6 +8327,12 @@
       "en_US": "Shaved-Ice Memories",
       "ja_JP": "やみつきかき氷",
       "zh_CN": "回味冰霜雪"
+    }
+  },
+  "char_249_mlyss@ambienceSynesthesia#6": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "漫步于黄金之梦"
     }
   },
   "char_249_mlyss@boc#8": {
@@ -9623,6 +9635,12 @@
     "type": "SKIN",
     "names": {
       "zh_CN": "糖果暴击"
+    }
+  },
+  "char_4133_logos@ambienceSynesthesia#6": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "辉煌的静谧"
     }
   },
   "char_4141_marcil@dungeon#1": {
@@ -21589,6 +21607,12 @@
       "zh_CN": "限时累计签到"
     }
   },
+  "act33sre": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "巴别塔·复刻"
+    }
+  },
   "act34side": {
     "type": "ACTIVITY",
     "names": {
@@ -24957,6 +24981,12 @@
     "names": {
       "en_US": "Raw Sugar Lumps",
       "ja_JP": "粗製角砂糖",
+      "zh_CN": "粗制糖块"
+    }
+  },
+  "act33side_token_sugar_rep_1": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "粗制糖块"
     }
   },
@@ -32943,6 +32973,12 @@
     "type": "POOL",
     "names": {
       "zh_CN": "指令·重构"
+    }
+  },
+  "SINGLE_60_0_3": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "如死亦终"
     }
   },
   "SPECIAL_54_0_5": {
@@ -56714,6 +56750,24 @@
     "names": {
       "en_US": "You the Constant, You Are Me",
       "ja_JP": "我は我なり",
+      "zh_CN": "我始终如一"
+    }
+  },
+  "act33sre_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "我赠予未来"
+    }
+  },
+  "act33sre_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "我驻留往昔"
+    }
+  },
+  "act33sre_zone3": {
+    "type": "ZONE",
+    "names": {
       "zh_CN": "我始终如一"
     }
   },
