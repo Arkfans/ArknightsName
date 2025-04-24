@@ -226,6 +226,7 @@
   "char_1038_whitw2": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "荒蕪ラップランド",
       "zh_CN": "荒芜拉普兰德"
     }
   },
@@ -524,6 +525,7 @@
   "char_1502_crosly": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "クラウンスレイヤー",
       "zh_CN": "弑君者"
     }
   },
@@ -1790,6 +1792,7 @@
   "char_4026_vulpis": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "ウルピスフォリア",
       "zh_CN": "忍冬"
     }
   },
@@ -2386,6 +2389,7 @@
   "char_4148_philae": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "フィラエ",
       "zh_CN": "菲莱"
     }
   },
@@ -2400,6 +2404,7 @@
   "char_4155_talr": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "フィグリーノ",
       "zh_CN": "裁度"
     }
   },
@@ -2434,6 +2439,7 @@
   "char_4165_ctrail": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "コントレイル",
       "zh_CN": "云迹"
     }
   },
@@ -5260,6 +5266,7 @@
   "trap_186_cnvfwks": {
     "type": "TRAP",
     "names": {
+      "ja_JP": "花火打上装置",
       "zh_CN": "烟花发射器"
     }
   },
@@ -7210,6 +7217,7 @@
   "char_1028_texas2@epoque#36": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "夜に秘する幽蘭",
       "zh_CN": "幽兰秘辛"
     }
   },
@@ -7248,6 +7256,7 @@
   "char_1032_excu2@sale#12": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "絶対の集合知",
       "zh_CN": "众志归一"
     }
   },
@@ -8318,6 +8327,7 @@
   "char_245_cello@sale#12": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "無我の唯一識",
       "zh_CN": "无我唯识"
     }
   },
@@ -8654,6 +8664,7 @@
   "char_298_susuro@winter#4": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "気ままな旅路",
       "zh_CN": "随意而行"
     }
   },
@@ -9446,6 +9457,7 @@
   "char_4081_warmy@winter#4": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "街角の温もり",
       "zh_CN": "街角暖绒"
     }
   },
@@ -9660,6 +9672,7 @@
   "char_4151_tinman@sale#11": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "フェーズフェイス",
       "zh_CN": "相位面容"
     }
   },
@@ -10726,108 +10739,126 @@
   "enemy_10031_cnvsld": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "一般参加の競演者",
       "zh_CN": "业余竞演者"
     }
   },
   "enemy_10031_cnvsld_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "プロの競演者",
       "zh_CN": "专业竞演者"
     }
   },
   "enemy_10032_cnvsnp": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "クラッカーリテーラー",
       "zh_CN": "礼花零售商"
     }
   },
   "enemy_10032_cnvsnp_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "クラッカーディーラー",
       "zh_CN": "礼花经销商"
     }
   },
   "enemy_10033_cnvbsk": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "ファイアダンサー",
       "zh_CN": "街头火舞艺人"
     }
   },
   "enemy_10033_cnvbsk_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "ファイアダンススター",
       "zh_CN": "街头火舞明星"
     }
   },
   "enemy_10034_cnvsax": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "祝祭のジャズ奏者",
       "zh_CN": "节日爵士乐手"
     }
   },
   "enemy_10034_cnvsax_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "パレードのジャズ奏者",
       "zh_CN": "巡游爵士乐手"
     }
   },
   "enemy_10035_cnvdnc": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "熱烈ソロダンサー",
       "zh_CN": "热烈舞团独舞者"
     }
   },
   "enemy_10035_cnvdnc_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "熱烈リードダンサー",
       "zh_CN": "热烈舞团领舞者"
     }
   },
   "enemy_10036_cnvpvd": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "祝祭の菓子売り",
       "zh_CN": "节日零食商贩"
     }
   },
   "enemy_10036_cnvpvd_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "パレードの菓子売り",
       "zh_CN": "巡游零食商贩"
     }
   },
   "enemy_10037_cnvpcar": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "祝祭のおやつカート",
       "zh_CN": "节日零食车"
     }
   },
   "enemy_10037_cnvpcar_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "パレードのおやつカート",
       "zh_CN": "巡游零食车"
     }
   },
   "enemy_10038_cnvpiz": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「ファストフード」",
       "zh_CN": "“方便快餐”"
     }
   },
   "enemy_10038_cnvpiz_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「グルメデリバリー」",
       "zh_CN": "“美食速递”"
     }
   },
   "enemy_10039_cnvber": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「乾杯がぶ飲み」号",
       "zh_CN": "“开怀畅饮”"
     }
   },
   "enemy_10039_cnvber_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「泥酔お祭り」号",
       "zh_CN": "“醉后狂欢”"
     }
   },
@@ -10850,12 +10881,14 @@
   "enemy_10040_cnvbln": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "祝祭のバルーン",
       "zh_CN": "节日气球"
     }
   },
   "enemy_10040_cnvbln_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "パレードのバルーン",
       "zh_CN": "巡游气球"
     }
   },
@@ -18398,6 +18431,7 @@
   "enemy_1560_cnvlap": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「狂宴の主」",
       "zh_CN": "“狂欢之主”"
     }
   },
@@ -21250,6 +21284,7 @@
   "act22login": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "5周年\nログイン",
       "zh_CN": "限定池送10连"
     }
   },
@@ -21688,6 +21723,7 @@
   "act38side": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "幕開く者たち",
       "zh_CN": "揭幕者们"
     }
   },
@@ -21854,12 +21890,14 @@
   "act46sign": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "大感謝祭スタンプ",
       "zh_CN": "感谢庆典限时签到"
     }
   },
   "act47sign": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "大感謝祭補給スタンプ",
       "zh_CN": "感谢庆典补给签到"
     }
   },
@@ -22177,6 +22215,7 @@
   "act9pray": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "龍門開運\nおみくじ",
       "zh_CN": "幸运墙登录活动"
     }
   },
@@ -23729,6 +23768,7 @@
   "LIMITED_TKT_GACHA_10_5601": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "大感謝祭10回スカウト券",
       "zh_CN": "荒芜探戈寻访凭证"
     }
   },
@@ -23917,6 +23957,7 @@
   "LMTGS_COIN_5601": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "限定契約証",
       "zh_CN": "寻访数据契约"
     }
   },
@@ -25033,6 +25074,7 @@
   "act38side_token_ticket": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "匿名招待状",
       "zh_CN": "匿名邀请函"
     }
   },
@@ -27754,6 +27796,7 @@
   "p_char_1038_whitw2": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "荒蕪ラップランドの印",
       "zh_CN": "荒芜拉普兰德的信物"
     }
   },
@@ -28052,6 +28095,7 @@
   "p_char_1502_crosly": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "クラウンスレイヤーの印",
       "zh_CN": "弑君者的信物"
     }
   },
@@ -29230,6 +29274,7 @@
   "p_char_4011_lessng": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "レッシングの印",
       "zh_CN": "止颂的信物"
     }
   },
@@ -29300,6 +29345,7 @@
   "p_char_4026_vulpis": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ウルピスフォリアの印",
       "zh_CN": "忍冬的信物"
     }
   },
@@ -29880,6 +29926,7 @@
   "p_char_4148_philae": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "フィラエの印",
       "zh_CN": "菲莱的信物"
     }
   },
@@ -29894,6 +29941,7 @@
   "p_char_4155_talr": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "フィグリーノの印",
       "zh_CN": "裁度的信物"
     }
   },
@@ -29928,6 +29976,7 @@
   "p_char_4165_ctrail": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "コントレイルの印",
       "zh_CN": "云迹的信物"
     }
   },
@@ -30604,6 +30653,7 @@
   "randomMaterial_act38side": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "狂宴花火セット",
       "zh_CN": "狂欢烟花桶"
     }
   },
@@ -30698,6 +30748,7 @@
   "renamingCard_0_056": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ID情報更新カード",
       "zh_CN": "ID信息更新卡"
     }
   },
@@ -30760,6 +30811,7 @@
   "renamingCard_30_056": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ID情報更新カード",
       "zh_CN": "ID信息更新卡"
     }
   },
@@ -31600,6 +31652,7 @@
   "voucher_class_pick5601": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "中堅★6招聘指名券",
       "zh_CN": "中坚高级干员调用凭证"
     }
   },
@@ -31930,6 +31983,7 @@
   "voucher_item_pick5601": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "感謝祭記念★6招聘指名券",
       "zh_CN": "感谢庆典干员凭证"
     }
   },
@@ -33129,6 +33183,12 @@
     "names": {
       "en_US": "Engraver of Quicksand",
       "ja_JP": "流砂に刻印を"
+    }
+  },
+  "_LIMITED_33_0_3": {
+    "type": "POOL",
+    "names": {
+      "ja_JP": "悪華繚乱"
     }
   },
   "_LIMITED_4_3_1": {
@@ -35182,18 +35242,21 @@
   "skchr_crosly_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "煙塵の目眩まし",
       "zh_CN": "尘烟蔽目"
     }
   },
   "skchr_crosly_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "硝煙の爆震",
       "zh_CN": "硝烟震爆"
     }
   },
   "skchr_crosly_3": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "狼煙の処刑場",
       "zh_CN": "烽烟行刑场"
     }
   },
@@ -35232,12 +35295,14 @@
   "skchr_ctrail_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "緊急離陸",
       "zh_CN": "紧急升空"
     }
   },
   "skchr_ctrail_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "空を切る羽根",
       "zh_CN": "掠空飞翎"
     }
   },
@@ -37862,12 +37927,14 @@
   "skchr_philae_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "霊河の加護",
       "zh_CN": "灵河护佑"
     }
   },
   "skchr_philae_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "冥河の呪詛",
       "zh_CN": "冥河诅咒"
     }
   },
@@ -38938,12 +39005,14 @@
   "skchr_talr_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "採寸用メジャー",
       "zh_CN": "量衣尺"
     }
   },
   "skchr_talr_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "絡みつく縫い糸",
       "zh_CN": "缝线缠身"
     }
   },
@@ -39308,18 +39377,21 @@
   "skchr_vulpis_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "お仕置き",
       "zh_CN": "小施惩戒"
     }
   },
   "skchr_vulpis_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "鋭利な尋問",
       "zh_CN": "坠刃拷问"
     }
   },
   "skchr_vulpis_3": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "狐隠れの技",
       "zh_CN": "隐狐之艺"
     }
   },
@@ -39446,18 +39518,21 @@
   "skchr_whitw2_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "怠け者の悲鳴",
       "zh_CN": "慵怠者悲鸣"
     }
   },
   "skchr_whitw2_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "狼たちの戯れ",
       "zh_CN": "逐猎狂飙"
     }
   },
   "skchr_whitw2_3": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "ディザストロ・フィナーレ",
       "zh_CN": "终幕·浩劫"
     }
   },
@@ -41290,6 +41365,7 @@
   "sktok_cnvfwks": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "「狂宴の刻！」",
       "zh_CN": "“狂欢时刻！”"
     }
   },
@@ -49860,138 +49936,161 @@
   "act38side_01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "迷走",
       "zh_CN": "失途"
     }
   },
   "act38side_02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "選択の余地",
       "zh_CN": "择路"
     }
   },
   "act38side_03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "悪客万来",
       "zh_CN": "恶客盈门"
     }
   },
   "act38side_04": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "体裁ある来客",
       "zh_CN": "体面来宾"
     }
   },
   "act38side_05": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "「新しい人生へ」",
       "zh_CN": "“致新生活”"
     }
   },
   "act38side_06": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "「復讐するは我にあり」",
       "zh_CN": "“复仇于我”"
     }
   },
   "act38side_07": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "幕開けの時",
       "zh_CN": "揭幕时刻"
     }
   },
   "act38side_08": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "無私の鉄茨",
       "zh_CN": "无私铁棘"
     }
   },
   "act38side_09": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "狼群と群狼",
       "zh_CN": "狼群与群狼"
     }
   },
   "act38side_10": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "銃声",
       "zh_CN": "铳响"
     }
   },
   "act38side_s01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "果てなき悪戯",
       "zh_CN": "无尽玩笑"
     }
   },
   "act38side_s02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "混沌の共謀者",
       "zh_CN": "荒唐共谋"
     }
   },
   "act38side_s03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "慌ただしいステップ",
       "zh_CN": "仓皇步法"
     }
   },
   "act38side_s04": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "ゲームの終わり",
       "zh_CN": "游戏终结"
     }
   },
   "act38side_s05": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "荒蕪なるカーテンコール",
       "zh_CN": "荒芜谢幕"
     }
   },
   "act38side_sp01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "花火ショーのリハーサル",
       "zh_CN": "试演烟花秀"
     }
   },
   "act38side_sp02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "即興花火ショー",
       "zh_CN": "即兴烟花秀"
     }
   },
   "act38side_sp03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "カルネヴァーレ花火ショー",
       "zh_CN": "狂欢之夜烟花秀"
     }
   },
   "act38side_st01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "『新都市管理法』",
       "zh_CN": "《新都市管理法案》"
     }
   },
   "act38side_st02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "『復讐禁止令』",
       "zh_CN": "《复仇禁制令》"
     }
   },
   "act38side_st03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "『カルネヴァーレの規則』",
       "zh_CN": "《狂欢节章程》"
     }
   },
   "act38side_st04": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "『管理法修正案』",
       "zh_CN": "《管理法修正案》"
     }
   },
   "act38side_tr01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "『花火取締規則』",
       "zh_CN": "《烟花燃放须知》"
     }
   },
@@ -51010,6 +51109,7 @@
   "camp_r_25": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "66号航路",
       "zh_CN": "66号航道"
     }
   },
@@ -56846,18 +56946,21 @@
   "act38side_zone1": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "カドリール",
       "zh_CN": "四幕汇演"
     }
   },
   "act38side_zone2": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "煌めく遊覧車",
       "zh_CN": "彩车游行"
     }
   },
   "act38side_zone3": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "荒寥の舞",
       "zh_CN": "荒芜之舞"
     }
   },
@@ -58150,6 +58253,7 @@
   "story_bdhkgt_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "最後の比武",
       "zh_CN": "最后的比武"
     }
   },
@@ -59268,6 +59372,7 @@
   "story_lessng_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "共にウルティカ領のために",
       "zh_CN": "共同建设乌提卡领"
     }
   },
@@ -59948,6 +60053,7 @@
   "story_shwaz_set_2_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "平凡な一日",
       "zh_CN": "普通的一天"
     }
   },
@@ -60090,6 +60196,7 @@
   "story_sora_set_2_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "輝きへのステップ",
       "zh_CN": "向舞台前进"
     }
   },
@@ -60286,6 +60393,7 @@
   "story_totter_set_2_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "帰郷",
       "zh_CN": "归乡"
     }
   },
@@ -60316,6 +60424,7 @@
   "story_vigil_set_2_story_1": {
     "type": "MEMORY",
     "names": {
+      "ja_JP": "諸刃の剣",
       "zh_CN": "双刃剑"
     }
   },

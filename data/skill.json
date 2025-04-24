@@ -833,12 +833,15 @@
     "zh_CN": "D12"
   },
   "skchr_crosly_1": {
+    "ja_JP": "煙塵の目眩まし",
     "zh_CN": "尘烟蔽目"
   },
   "skchr_crosly_2": {
+    "ja_JP": "硝煙の爆震",
     "zh_CN": "硝烟震爆"
   },
   "skchr_crosly_3": {
+    "ja_JP": "狼煙の処刑場",
     "zh_CN": "烽烟行刑场"
   },
   "skchr_crow_1": {
@@ -862,9 +865,11 @@
     "zh_CN": "浮光"
   },
   "skchr_ctrail_1": {
+    "ja_JP": "緊急離陸",
     "zh_CN": "紧急升空"
   },
   "skchr_ctrail_2": {
+    "ja_JP": "空を切る羽根",
     "zh_CN": "掠空飞翎"
   },
   "skchr_cutter_1": {
@@ -2496,9 +2501,11 @@
     "zh_CN": "“你须偿还”"
   },
   "skchr_philae_1": {
+    "ja_JP": "霊河の加護",
     "zh_CN": "灵河护佑"
   },
   "skchr_philae_2": {
+    "ja_JP": "冥河の呪詛",
     "zh_CN": "冥河诅咒"
   },
   "skchr_pianst_1": {
@@ -3164,9 +3171,11 @@
     "zh_CN": "剑走偏锋"
   },
   "skchr_talr_1": {
+    "ja_JP": "採寸用メジャー",
     "zh_CN": "量衣尺"
   },
   "skchr_talr_2": {
+    "ja_JP": "絡みつく縫い糸",
     "zh_CN": "缝线缠身"
   },
   "skchr_tecno_1": {
@@ -3390,12 +3399,15 @@
     "zh_CN": "双刃毒藤"
   },
   "skchr_vulpis_1": {
+    "ja_JP": "お仕置き",
     "zh_CN": "小施惩戒"
   },
   "skchr_vulpis_2": {
+    "ja_JP": "鋭利な尋問",
     "zh_CN": "坠刃拷问"
   },
   "skchr_vulpis_3": {
+    "ja_JP": "狐隠れの技",
     "zh_CN": "隐狐之艺"
   },
   "skchr_vvana_1": {
@@ -3474,12 +3486,15 @@
     "zh_CN": "狼魂"
   },
   "skchr_whitw2_1": {
+    "ja_JP": "怠け者の悲鳴",
     "zh_CN": "慵怠者悲鸣"
   },
   "skchr_whitw2_2": {
+    "ja_JP": "狼たちの戯れ",
     "zh_CN": "逐猎狂飙"
   },
   "skchr_whitw2_3": {
+    "ja_JP": "ディザストロ・フィナーレ",
     "zh_CN": "终幕·浩劫"
   },
   "skchr_wildmn_1": {
@@ -4532,6 +4547,7 @@
     "zh_CN": "吃盐坨子吧！"
   },
   "sktok_cnvfwks": {
+    "ja_JP": "「狂宴の刻！」",
     "zh_CN": "“狂欢时刻！”"
   },
   "sktok_condtr": {

@@ -743,6 +743,7 @@
     "zh_CN": "璀璨闪耀寻访凭证"
   },
   "LIMITED_TKT_GACHA_10_5601": {
+    "ja_JP": "大感謝祭10回スカウト券",
     "zh_CN": "荒芜探戈寻访凭证"
   },
   "LIMITED_TKT_GACHA_10_5801": {
@@ -859,6 +860,7 @@
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_5601": {
+    "ja_JP": "限定契約証",
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_5801": {
@@ -1543,6 +1545,7 @@
     "zh_CN": "晶化源石"
   },
   "act38side_token_ticket": {
+    "ja_JP": "匿名招待状",
     "zh_CN": "匿名邀请函"
   },
   "act39side_token_garum": {
@@ -3223,6 +3226,7 @@
     "zh_CN": "历阵锐枪芬的信物"
   },
   "p_char_1038_whitw2": {
+    "ja_JP": "荒蕪ラップランドの印",
     "zh_CN": "荒芜拉普兰德的信物"
   },
   "p_char_1039_thorn2": {
@@ -3407,6 +3411,7 @@
     "zh_CN": "清道夫的信物"
   },
   "p_char_1502_crosly": {
+    "ja_JP": "クラウンスレイヤーの印",
     "zh_CN": "弑君者的信物"
   },
   "p_char_150_snakek": {
@@ -4141,6 +4146,7 @@
     "zh_CN": "隐德来希的信物"
   },
   "p_char_4011_lessng": {
+    "ja_JP": "レッシングの印",
     "zh_CN": "止颂的信物"
   },
   "p_char_4013_kjera": {
@@ -4184,6 +4190,7 @@
     "zh_CN": "暮落的信物"
   },
   "p_char_4026_vulpis": {
+    "ja_JP": "ウルピスフォリアの印",
     "zh_CN": "忍冬的信物"
   },
   "p_char_4027_heyak": {
@@ -4545,6 +4552,7 @@
     "zh_CN": "渡桥的信物"
   },
   "p_char_4148_philae": {
+    "ja_JP": "フィラエの印",
     "zh_CN": "菲莱的信物"
   },
   "p_char_4151_tinman": {
@@ -4553,6 +4561,7 @@
     "zh_CN": "锡人的信物"
   },
   "p_char_4155_talr": {
+    "ja_JP": "フィグリーノの印",
     "zh_CN": "裁度的信物"
   },
   "p_char_415_flint": {
@@ -4572,6 +4581,7 @@
     "zh_CN": "特克诺的信物"
   },
   "p_char_4165_ctrail": {
+    "ja_JP": "コントレイルの印",
     "zh_CN": "云迹的信物"
   },
   "p_char_416_zumama": {
@@ -4987,6 +4997,7 @@
     "zh_CN": "罗德岛物资补给VI"
   },
   "randomMaterial_act38side": {
+    "ja_JP": "狂宴花火セット",
     "zh_CN": "狂欢烟花桶"
   },
   "randomMaterial_leith2": {
@@ -5045,6 +5056,7 @@
     "zh_CN": "ID信息更新卡"
   },
   "renamingCard_0_056": {
+    "ja_JP": "ID情報更新カード",
     "zh_CN": "ID信息更新卡"
   },
   "renamingCard_30_018": {
@@ -5083,6 +5095,7 @@
     "zh_CN": "ID信息更新卡"
   },
   "renamingCard_30_056": {
+    "ja_JP": "ID情報更新カード",
     "zh_CN": "ID信息更新卡"
   },
   "return_credit_token": {
@@ -5605,6 +5618,7 @@
     "zh_CN": "自助芯片组印刻仪"
   },
   "voucher_class_pick5601": {
+    "ja_JP": "中堅★6招聘指名券",
     "zh_CN": "中坚高级干员调用凭证"
   },
   "voucher_elite_II_4": {
@@ -5809,6 +5823,7 @@
     "zh_CN": "周年庆典干员凭证"
   },
   "voucher_item_pick5601": {
+    "ja_JP": "感謝祭記念★6招聘指名券",
     "zh_CN": "感谢庆典干员凭证"
   },
   "voucher_item_pick601": {

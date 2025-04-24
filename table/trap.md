@@ -242,7 +242,7 @@ tip: 请善用浏览器的搜索功能
 | trap_183_sheltk | 作战专用掩体 | Combat Special Barricade | 作戦用掩体 |
 | trap_184_vtarsn | 军工厂指令平台 | Munitions Factory Command Center | 軍事工場指令基地 |
 | trap_185_vtlntw | 黄金回响 | Golden Echo | 黄金の反響 |
-| trap_186_cnvfwks | 烟花发射器 | - | - |
+| trap_186_cnvfwks | 烟花发射器 | - | 花火打上装置 |
 | trap_187_arcgacha | 扭蛋机 | - | - |
 | trap_188_arcsum1 | 街边电话亭 | - | - |
 | trap_189_arcsum2 | 军营电话亭 | - | - |

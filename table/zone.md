@@ -181,9 +181,9 @@ tip: 请善用浏览器的搜索功能
 | act36side_zone2 | 走遍泰拉 | Culinary Venture On Terra | テラを旅する |
 | act37side_zone1 | 无名之勋 | Die a Hero Or a Villain | 名もなき栄光 |
 | act37side_zone2 | 未了往昔 | Once upon a Time | 幕引かぬ過去 |
-| act38side_zone1 | 四幕汇演 | - | - |
-| act38side_zone2 | 彩车游行 | - | - |
-| act38side_zone3 | 荒芜之舞 | - | - |
+| act38side_zone1 | 四幕汇演 | - | カドリール |
+| act38side_zone2 | 彩车游行 | - | 煌めく遊覧車 |
+| act38side_zone3 | 荒芜之舞 | - | 荒寥の舞 |
 | act39side_zone1 | 盐漠开航 | - | - |
 | act39side_zone2 | 穿越骸礁 | - | - |
 | act3bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |

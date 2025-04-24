@@ -290,57 +290,75 @@
     "zh_CN": "冲击式施术单元"
   },
   "enemy_10031_cnvsld": {
+    "ja_JP": "一般参加の競演者",
     "zh_CN": "业余竞演者"
   },
   "enemy_10031_cnvsld_2": {
+    "ja_JP": "プロの競演者",
     "zh_CN": "专业竞演者"
   },
   "enemy_10032_cnvsnp": {
+    "ja_JP": "クラッカーリテーラー",
     "zh_CN": "礼花零售商"
   },
   "enemy_10032_cnvsnp_2": {
+    "ja_JP": "クラッカーディーラー",
     "zh_CN": "礼花经销商"
   },
   "enemy_10033_cnvbsk": {
+    "ja_JP": "ファイアダンサー",
     "zh_CN": "街头火舞艺人"
   },
   "enemy_10033_cnvbsk_2": {
+    "ja_JP": "ファイアダンススター",
     "zh_CN": "街头火舞明星"
   },
   "enemy_10034_cnvsax": {
+    "ja_JP": "祝祭のジャズ奏者",
     "zh_CN": "节日爵士乐手"
   },
   "enemy_10034_cnvsax_2": {
+    "ja_JP": "パレードのジャズ奏者",
     "zh_CN": "巡游爵士乐手"
   },
   "enemy_10035_cnvdnc": {
+    "ja_JP": "熱烈ソロダンサー",
     "zh_CN": "热烈舞团独舞者"
   },
   "enemy_10035_cnvdnc_2": {
+    "ja_JP": "熱烈リードダンサー",
     "zh_CN": "热烈舞团领舞者"
   },
   "enemy_10036_cnvpvd": {
+    "ja_JP": "祝祭の菓子売り",
     "zh_CN": "节日零食商贩"
   },
   "enemy_10036_cnvpvd_2": {
+    "ja_JP": "パレードの菓子売り",
     "zh_CN": "巡游零食商贩"
   },
   "enemy_10037_cnvpcar": {
+    "ja_JP": "祝祭のおやつカート",
     "zh_CN": "节日零食车"
   },
   "enemy_10037_cnvpcar_2": {
+    "ja_JP": "パレードのおやつカート",
     "zh_CN": "巡游零食车"
   },
   "enemy_10038_cnvpiz": {
+    "ja_JP": "「ファストフード」",
     "zh_CN": "“方便快餐”"
   },
   "enemy_10038_cnvpiz_2": {
+    "ja_JP": "「グルメデリバリー」",
     "zh_CN": "“美食速递”"
   },
   "enemy_10039_cnvber": {
+    "ja_JP": "「乾杯がぶ飲み」号",
     "zh_CN": "“开怀畅饮”"
   },
   "enemy_10039_cnvber_2": {
+    "ja_JP": "「泥酔お祭り」号",
     "zh_CN": "“醉后狂欢”"
   },
   "enemy_1003_ncbow": {
@@ -354,9 +372,11 @@
     "zh_CN": "弩手组长"
   },
   "enemy_10040_cnvbln": {
+    "ja_JP": "祝祭のバルーン",
     "zh_CN": "节日气球"
   },
   "enemy_10040_cnvbln_2": {
+    "ja_JP": "パレードのバルーン",
     "zh_CN": "巡游气球"
   },
   "enemy_10042_prtrop": {
@@ -5013,6 +5033,7 @@
     "zh_CN": "阿利斯泰尔，帝国余晖"
   },
   "enemy_1560_cnvlap": {
+    "ja_JP": "「狂宴の主」",
     "zh_CN": "“狂欢之主”"
   },
   "enemy_1561_crzjdg": {
