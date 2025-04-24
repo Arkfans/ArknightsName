@@ -30,12 +30,12 @@ tip: 请善用浏览器的搜索功能
 | char_1024_hbisc2@unveiling#2 | 浪漫满厢 | - | - |
 | char_1026_gvial2@summer#12 | 悠然假日 HD26 | Holiday HD26 | ホリデーHD26 |
 | char_1027_greyy2@snow#5 | 演出后的王子 | Aftershow | 終演後の王子様 |
-| char_1028_texas2@epoque#36 | 幽兰秘辛 | - | 夜に秘する幽蘭 |
+| char_1028_texas2@epoque#36 | 幽兰秘辛 | Il Segreto Della Notte | 夜に秘する幽蘭 |
 | char_1028_texas2@iteration#1 | 破翼者 | Wingbreaker | ウィングブレイカー |
 | char_102_texas@epoque#7 | 意志 | Willpower | 意志 |
 | char_102_texas@winter#1 | 寒冬信使 | Winter Messenger | 冬の使者 |
 | char_1031_slent2@epoque#32 | 栖息 | Habitat | 羽休め |
-| char_1032_excu2@sale#12 | 众志归一 | - | 絶対の集合知 |
+| char_1032_excu2@sale#12 | 众志归一 | Allmind As One | 絶対の集合知 |
 | char_1033_swire2@ambienceSynesthesia#4 | 律动方格 | Rhythmic Blocks | リズミックブロック |
 | char_1034_jesca2@cfa#1 | 《上任达维镇》 | - | - |
 | char_1037_amiya3@sale#13 | 寰宇独奏 | Solo Around The World | 宙に響く独奏 |
@@ -171,7 +171,7 @@ tip: 请善用浏览器的搜索功能
 | char_241_panda@nian#7 | 且试箸 | Gourmet | 箸乱舞 |
 | char_242_otter@ghost#1 | 庭院寻梦尖兵 | Visionblazer in the Courtyard | 庭園の探夢者 |
 | char_243_waaifu@whirlwind#2 | 街道狂花 | Wild Flower of Street | ストリートフラワー |
-| char_245_cello@sale#12 | 无我唯识 | - | 無我の唯一識 |
+| char_245_cello@sale#12 | 无我唯识 | Diversity Oneness | 無我の唯一識 |
 | char_248_mgllan@kitchen#1 | 回味冰霜雪 | Shaved-Ice Memories | やみつきかき氷 |
 | char_249_mlyss@ambienceSynesthesia#6 | 漫步于黄金之梦 | - | - |
 | char_249_mlyss@boc#8 | 新枝 | Young Branch | 新梢 |
@@ -214,7 +214,7 @@ tip: 请善用浏览器的搜索功能
 | char_297_hamoni@epoque#24 | 邀约 | Invitation | お誘い |
 | char_297_hamoni@unveiling#1 | 装点 | Decoration | おめかし |
 | char_298_susuro@summer#6 | 夏卉 FA026 | Summer Flower FA026 | 夏の花弁FA026 |
-| char_298_susuro@winter#4 | 随意而行 | - | 気ままな旅路 |
+| char_298_susuro@winter#4 | 随意而行 | Travel Freely | 気ままな旅路 |
 | char_300_phenxi@witch#4 | 至圣誓言 | Divine Oath | 至聖の誓言 |
 | char_301_cutter@marthe#8 | 拭刀 | - | - |
 | char_302_glaze@summer#11 | 悠然假日 HD29 | Holiday HD29 | ホリデーHD29 |
@@ -315,7 +315,7 @@ tip: 请善用浏览器的搜索功能
 | char_4077_palico@mh#1 | 跃上街头 | Fly Into the Street | 街へ飛び出せ |
 | char_4078_bdhkgt@yun#2 | 伴青莲 | Away From Dust | 青蓮の友 |
 | char_4080_lin@nian#10 | 列瑶台 | Heavenly Mirage | 列瑶台 |
-| char_4081_warmy@winter#4 | 街角暖绒 | - | 街角の温もり |
+| char_4081_warmy@winter#4 | 街角暖绒 | Warm Velvet At the Corner | 街角の温もり |
 | char_4082_qiubai@epoque#31 | 礼遇 | Courtesy | 礼をもって |
 | char_4082_qiubai@ncg#1 | 霜林醉 | Wine-flushed is Woods of Rime | 霜林酔 |
 | char_4083_chimes@yun#5 | 松间月 | Moon under the Pines | 松間月 |
@@ -345,7 +345,7 @@ tip: 请善用浏览器的搜索功能
 | char_4133_logos@ambienceSynesthesia#6 | 辉煌的静谧 | - | - |
 | char_4141_marcil@dungeon#1 | 泰拉冒险 | Terra & Traveller | テラの冒険者 |
 | char_4146_nymph@epoque#42 | 甜美配方 | - | - |
-| char_4151_tinman@sale#11 | 相位面容 | - | フェーズフェイス |
+| char_4151_tinman@sale#11 | 相位面容 | Phase Face | フェーズフェイス |
 | char_415_flint@boc#3 | 绚烂夏花 | Gorgeous Flower | 紫藤繚乱 |
 | char_416_zumama@boc#3 | 熔锻铸匠 | Forgemaster | 熔冶工匠 |
 | char_420_flamtl@game#2 | 小健将 | Sport For All | サイバー闘技者 |

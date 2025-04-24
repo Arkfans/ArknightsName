@@ -63,28 +63,28 @@ tip: 请善用浏览器的搜索功能
 | enemy_10029_vtshld | 防护背心 | Protective Vest | 防護ベストの生地 |
 | enemy_1002_nsabr | 士兵 | Soldier | 兵士 |
 | enemy_10030_vtwand | 冲击式施术单元 | Assault Arts Unit | アーツユニットの部品 |
-| enemy_10031_cnvsld | 业余竞演者 | - | 一般参加の競演者 |
-| enemy_10031_cnvsld_2 | 专业竞演者 | - | プロの競演者 |
-| enemy_10032_cnvsnp | 礼花零售商 | - | クラッカーリテーラー |
-| enemy_10032_cnvsnp_2 | 礼花经销商 | - | クラッカーディーラー |
-| enemy_10033_cnvbsk | 街头火舞艺人 | - | ファイアダンサー |
-| enemy_10033_cnvbsk_2 | 街头火舞明星 | - | ファイアダンススター |
-| enemy_10034_cnvsax | 节日爵士乐手 | - | 祝祭のジャズ奏者 |
-| enemy_10034_cnvsax_2 | 巡游爵士乐手 | - | パレードのジャズ奏者 |
-| enemy_10035_cnvdnc | 热烈舞团独舞者 | - | 熱烈ソロダンサー |
-| enemy_10035_cnvdnc_2 | 热烈舞团领舞者 | - | 熱烈リードダンサー |
-| enemy_10036_cnvpvd | 节日零食商贩 | - | 祝祭の菓子売り |
-| enemy_10036_cnvpvd_2 | 巡游零食商贩 | - | パレードの菓子売り |
-| enemy_10037_cnvpcar | 节日零食车 | - | 祝祭のおやつカート |
-| enemy_10037_cnvpcar_2 | 巡游零食车 | - | パレードのおやつカート |
-| enemy_10038_cnvpiz | “方便快餐” | - | 「ファストフード」 |
-| enemy_10038_cnvpiz_2 | “美食速递” | - | 「グルメデリバリー」 |
-| enemy_10039_cnvber | “开怀畅饮” | - | 「乾杯がぶ飲み」号 |
-| enemy_10039_cnvber_2 | “醉后狂欢” | - | 「泥酔お祭り」号 |
+| enemy_10031_cnvsld | 业余竞演者 | Amateur Performer | 一般参加の競演者 |
+| enemy_10031_cnvsld_2 | 专业竞演者 | Professional Performer | プロの競演者 |
+| enemy_10032_cnvsnp | 礼花零售商 | Fireworks Merchant | クラッカーリテーラー |
+| enemy_10032_cnvsnp_2 | 礼花经销商 | Fireworks Dealer | クラッカーディーラー |
+| enemy_10033_cnvbsk | 街头火舞艺人 | Streetside Fire Juggler | ファイアダンサー |
+| enemy_10033_cnvbsk_2 | 街头火舞明星 | Streetside Fire Maestro | ファイアダンススター |
+| enemy_10034_cnvsax | 节日爵士乐手 | Festival Jazz Musician | 祝祭のジャズ奏者 |
+| enemy_10034_cnvsax_2 | 巡游爵士乐手 | Parading Jazz Musician | パレードのジャズ奏者 |
+| enemy_10035_cnvdnc | 热烈舞团独舞者 | Entusiasta Dancer | 熱烈ソロダンサー |
+| enemy_10035_cnvdnc_2 | 热烈舞团领舞者 | Entusiasta Lead Dancer | 熱烈リードダンサー |
+| enemy_10036_cnvpvd | 节日零食商贩 | Carnevale Snack Seller | 祝祭の菓子売り |
+| enemy_10036_cnvpvd_2 | 巡游零食商贩 | Parade Snack Seller | パレードの菓子売り |
+| enemy_10037_cnvpcar | 节日零食车 | Carnevale Snack Cart | 祝祭のおやつカート |
+| enemy_10037_cnvpcar_2 | 巡游零食车 | Parade Snack Cart | パレードのおやつカート |
+| enemy_10038_cnvpiz | “方便快餐” | 'Convenient Eats' | 「ファストフード」 |
+| enemy_10038_cnvpiz_2 | “美食速递” | 'Gourmet Delivery' | 「グルメデリバリー」 |
+| enemy_10039_cnvber | “开怀畅饮” | 'Happy Drinking' | 「乾杯がぶ飲み」号 |
+| enemy_10039_cnvber_2 | “醉后狂欢” | 'Merrymaker Express' | 「泥酔お祭り」号 |
 | enemy_1003_ncbow | 弩手 | Crossbowman | 射撃兵 |
 | enemy_1003_ncbow_2 | 弩手组长 | Crossbowman Leader | 射撃隊長 |
-| enemy_10040_cnvbln | 节日气球 | - | 祝祭のバルーン |
-| enemy_10040_cnvbln_2 | 巡游气球 | - | パレードのバルーン |
+| enemy_10040_cnvbln | 节日气球 | Carnevale Balloon | 祝祭のバルーン |
+| enemy_10040_cnvbln_2 | 巡游气球 | Parade Balloon | パレードのバルーン |
 | enemy_10042_prtrop | 架桥船工 | - | - |
 | enemy_10042_prtrop_2 | 扶桥老手 | - | - |
 | enemy_10043_sailor | 寻险水手 | - | - |
@@ -1048,7 +1048,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1557_trcerb | “三头犬” | 'Tri-Maw' | 「ケルベロス」 |
 | enemy_1558_sgactr | 祖巴伊达姆，从往昔来 | Zubayidamu the Timeless | 「過去の使者」ズバイダム |
 | enemy_1559_vtlionk | 阿利斯泰尔，帝国余晖 | Alistair, Final Flame of the Empire | 「帝国の残光」アリステア |
-| enemy_1560_cnvlap | “狂欢之主” | - | 「狂宴の主」 |
+| enemy_1560_cnvlap | “狂欢之主” | 'La Signora del Carnevale' | 「狂宴の主」 |
 | enemy_1561_crzjdg | 安纳斯塔西奥，赎罪者 | - | - |
 | enemy_1562_cjtaot | 无餍 | - | - |
 | enemy_1563_fthlgj | “万火归一” | - | - |

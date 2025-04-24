@@ -502,6 +502,7 @@
     "zh_CN": "叙拉古人·复刻"
   },
   "act22login": {
+    "en_US": "Free 10-roll limited pull",
     "ja_JP": "5周年\nログイン",
     "zh_CN": "限定池送10连"
   },
@@ -770,6 +771,7 @@
     "zh_CN": "尖灭测试作战"
   },
   "act38side": {
+    "en_US": "I Portatori dei Velluti",
     "ja_JP": "幕開く者たち",
     "zh_CN": "揭幕者们"
   },
@@ -871,10 +873,12 @@
     "zh_CN": "感谢庆典前瞻签到"
   },
   "act46sign": {
+    "en_US": "Thank-You Celebration Limited-Time Sign-In",
     "ja_JP": "大感謝祭スタンプ",
     "zh_CN": "感谢庆典限时签到"
   },
   "act47sign": {
+    "en_US": "Thank-You Celebration Sign-In Resupplies",
     "ja_JP": "大感謝祭補給スタンプ",
     "zh_CN": "感谢庆典补给签到"
   },
@@ -1070,6 +1074,7 @@
     "zh_CN": "红松林"
   },
   "act9pray": {
+    "en_US": "Lucky Strips Login Event",
     "ja_JP": "龍門開運\nおみくじ",
     "zh_CN": "幸运墙登录活动"
   },

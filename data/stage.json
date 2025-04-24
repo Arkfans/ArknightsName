@@ -3641,94 +3641,117 @@
     "zh_CN": "物资难题"
   },
   "act38side_01": {
+    "en_US": "Astray",
     "ja_JP": "迷走",
     "zh_CN": "失途"
   },
   "act38side_02": {
+    "en_US": "Paths Taken",
     "ja_JP": "選択の余地",
     "zh_CN": "择路"
   },
   "act38side_03": {
+    "en_US": "Dishonored Guest",
     "ja_JP": "悪客万来",
     "zh_CN": "恶客盈门"
   },
   "act38side_04": {
+    "en_US": "Honored Guest",
     "ja_JP": "体裁ある来客",
     "zh_CN": "体面来宾"
   },
   "act38side_05": {
+    "en_US": "To New Life",
     "ja_JP": "「新しい人生へ」",
     "zh_CN": "“致新生活”"
   },
   "act38side_06": {
+    "en_US": "Vengeance and I",
     "ja_JP": "「復讐するは我にあり」",
     "zh_CN": "“复仇于我”"
   },
   "act38side_07": {
+    "en_US": "Curtains Lifted",
     "ja_JP": "幕開けの時",
     "zh_CN": "揭幕时刻"
   },
   "act38side_08": {
+    "en_US": "Selfless Law",
     "ja_JP": "無私の鉄茨",
     "zh_CN": "无私铁棘"
   },
   "act38side_09": {
+    "en_US": "The Wolf and the Pack",
     "ja_JP": "狼群と群狼",
     "zh_CN": "狼群与群狼"
   },
   "act38side_10": {
+    "en_US": "Gunshot",
     "ja_JP": "銃声",
     "zh_CN": "铳响"
   },
   "act38side_s01": {
+    "en_US": "Endless Joke",
     "ja_JP": "果てなき悪戯",
     "zh_CN": "无尽玩笑"
   },
   "act38side_s02": {
+    "en_US": "An Absurd Conspiracy",
     "ja_JP": "混沌の共謀者",
     "zh_CN": "荒唐共谋"
   },
   "act38side_s03": {
+    "en_US": "Staggered Steps",
     "ja_JP": "慌ただしいステップ",
     "zh_CN": "仓皇步法"
   },
   "act38side_s04": {
+    "en_US": "End of the Game",
     "ja_JP": "ゲームの終わり",
     "zh_CN": "游戏终结"
   },
   "act38side_s05": {
+    "en_US": "Curtain Call",
     "ja_JP": "荒蕪なるカーテンコール",
     "zh_CN": "荒芜谢幕"
   },
   "act38side_sp01": {
+    "en_US": "Fireworks Test",
     "ja_JP": "花火ショーのリハーサル",
     "zh_CN": "试演烟花秀"
   },
   "act38side_sp02": {
+    "en_US": "Impromptu Fireworks",
     "ja_JP": "即興花火ショー",
     "zh_CN": "即兴烟花秀"
   },
   "act38side_sp03": {
+    "en_US": "Carnevale Fireworks",
     "ja_JP": "カルネヴァーレ花火ショー",
     "zh_CN": "狂欢之夜烟花秀"
   },
   "act38side_st01": {
+    "en_US": "'New Urban Management Act'",
     "ja_JP": "『新都市管理法』",
     "zh_CN": "《新都市管理法案》"
   },
   "act38side_st02": {
+    "en_US": "'Prohibition on Revenge'",
     "ja_JP": "『復讐禁止令』",
     "zh_CN": "《复仇禁制令》"
   },
   "act38side_st03": {
+    "en_US": "'Carnevale Charter'",
     "ja_JP": "『カルネヴァーレの規則』",
     "zh_CN": "《狂欢节章程》"
   },
   "act38side_st04": {
+    "en_US": "'Management Act Amendment'",
     "ja_JP": "『管理法修正案』",
     "zh_CN": "《管理法修正案》"
   },
   "act38side_tr01": {
+    "en_US": "'Regulation on Fireworks'",
     "ja_JP": "『花火取締規則』",
     "zh_CN": "《烟花燃放须知》"
   },
@@ -4334,6 +4357,7 @@
     "zh_CN": "冰封雪谷"
   },
   "camp_r_25": {
+    "en_US": "Cityway 66",
     "ja_JP": "66号航路",
     "zh_CN": "66号航道"
   },

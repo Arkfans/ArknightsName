@@ -291,6 +291,9 @@
     ]
   },
   "avg_1038_whitw2_1": {
+    "en_US": [
+      "Lappland"
+    ],
     "ja_JP": [
       "ラップランド"
     ],
@@ -577,6 +580,9 @@
     ]
   },
   "avg_1502_crosly_1": {
+    "en_US": [
+      "Lyudmila"
+    ],
     "ja_JP": [
       "リュドミラ"
     ],
@@ -1399,6 +1405,7 @@
   },
   "avg_340_shwaz_1": {
     "en_US": [
+      "Herman's Voice",
       "Schwarz"
     ],
     "ja_JP": [
@@ -1779,6 +1786,11 @@
     ]
   },
   "avg_4026_vulpis_1": {
+    "en_US": [
+      "Ingrid",
+      "Smiling Signora",
+      "Tipsy Vulpo"
+    ],
     "ja_JP": [
       "ほろ酔いのヴァルポ",
       "イングリッド",
@@ -2008,6 +2020,7 @@
   },
   "avg_4062_totter_1": {
     "en_US": [
+      "'The Sage'",
       "Totter"
     ],
     "ja_JP": [
@@ -2702,6 +2715,10 @@
     ]
   },
   "avg_4155_talr_1": {
+    "en_US": [
+      "Apprentice Tailor",
+      "Luchino"
+    ],
     "ja_JP": [
       "ルキーノ",
       "見習いサルトリア"
@@ -3341,6 +3358,7 @@
       "Infected Employee?",
       "Irritable Infected",
       "Joyful Worker",
+      "Miner ???",
       "Neighbor A",
       "Operating Crew",
       "Pondering Follower",
@@ -3434,6 +3452,7 @@
       "Lazy Community Resident",
       "Local Ruffian",
       "Luca",
+      "Miners?",
       "Neighbor B",
       "Rhodes Island Messenger",
       "Search Team Member",
@@ -3747,6 +3766,7 @@
       "Brutish Mercenary",
       "Cowardly Mercenary",
       "Crafty Robber",
+      "Cruel Bounty Hunter",
       "Crumbling Bandit",
       "Daniil",
       "Diminutive Mercenary",
@@ -3897,6 +3917,7 @@
       "Bounty Hunter",
       "Bounty Hunter B",
       "Bounty Hunter C",
+      "Bounty Hunter On Watch",
       "Caravan Guard",
       "Curious Bounty Hunter",
       "Explorer B",
@@ -3919,6 +3940,7 @@
       "Rusthammer Warrior",
       "Searching Mercenary",
       "Shrewd Bandit",
+      "Strong Bounter Hunter",
       "Survivor B",
       "Unidentified Mercenary",
       "Vicious Bandit",
@@ -4567,6 +4589,7 @@
       "Pensive Hitman",
       "Rossati Mafioso",
       "Shrewd-looking Char Siu Member",
+      "Sinister Gang Member",
       "Sly Black-Suit",
       "Stony-Faced Bodyguard",
       "Tommaso",
@@ -5564,6 +5587,7 @@
   },
   "avg_npc_065": {
     "en_US": [
+      "Leithanan Traveler",
       "Rebellious Townsfolk",
       "Smiling Follower",
       "Townsfolk",
@@ -5721,6 +5745,7 @@
       "Happy Archosauria",
       "Peta",
       "Rowdy Archosauria",
+      "Sage's Attendant",
       "Tribe Priest",
       "Villager A",
       "Yogi"
@@ -6176,6 +6201,7 @@
       "Navigator A",
       "Operator Susan",
       "Rhodes Island Field Operator",
+      "Rhodes Island Messenger",
       "Rhodes Island Operator",
       "Rhodes Island Operator A",
       "Rookie Engineering Operator",
@@ -7447,7 +7473,8 @@
   },
   "avg_npc_1129_1": {
     "en_US": [
-      "Motivated Student"
+      "Motivated Student",
+      "Young Woman"
     ],
     "ja_JP": [
       "娘",
@@ -7473,6 +7500,7 @@
     "en_US": [
       "'Stubborn Apprentice'",
       "Flustered Student",
+      "Guy Next Door",
       "Stubborn Apprentice"
     ],
     "ja_JP": [
@@ -10170,6 +10198,9 @@
     ]
   },
   "avg_npc_1541_1": {
+    "en_US": [
+      "Leontuzzo"
+    ],
     "ja_JP": [
       "レオントゥッツォ"
     ],
@@ -10178,6 +10209,11 @@
     ]
   },
   "avg_npc_1542_1": {
+    "en_US": [
+      "Anxious Truck Driver",
+      "Eirene",
+      "Woman Wearing A Red Hoodie"
+    ],
     "ja_JP": [
       "エイレーネ",
       "焦るトラックドライバー",
@@ -10190,6 +10226,9 @@
     ]
   },
   "avg_npc_1543_1": {
+    "en_US": [
+      "Umberto"
+    ],
     "ja_JP": [
       "ウンベルト"
     ],
@@ -10198,6 +10237,9 @@
     ]
   },
   "avg_npc_1544_1": {
+    "en_US": [
+      "Antonio"
+    ],
     "ja_JP": [
       "アントニオ"
     ],
@@ -10206,6 +10248,9 @@
     ]
   },
   "avg_npc_1545_1": {
+    "en_US": [
+      "Venezia Sr."
+    ],
     "ja_JP": [
       "ヴェネツィア"
     ],
@@ -10214,6 +10259,11 @@
     ]
   },
   "avg_npc_1547_1": {
+    "en_US": [
+      "Eirene",
+      "Sommer",
+      "Terrified Truck Driver"
+    ],
     "ja_JP": [
       "エイレーネ",
       "ソマー",
@@ -10226,6 +10276,10 @@
     ]
   },
   "avg_npc_1548_1": {
+    "en_US": [
+      "Lazy Creature",
+      "Vargo"
+    ],
     "ja_JP": [
       "ものぐさな生き物",
       "バーゴ"
@@ -10236,6 +10290,11 @@
     ]
   },
   "avg_npc_1549_1": {
+    "en_US": [
+      "Caesar",
+      "Gentle Creature",
+      "Grandma"
+    ],
     "ja_JP": [
       "おばあさん",
       "カエサル",
@@ -10248,6 +10307,12 @@
     ]
   },
   "avg_npc_1550_1": {
+    "en_US": [
+      "Dockworker",
+      "Truck Driver",
+      "Truck Driver A",
+      "Truck Driver A&B"
+    ],
     "ja_JP": [
       "トラックドライバー",
       "トラックドライバーA",
@@ -10262,6 +10327,9 @@
     ]
   },
   "avg_npc_1551_1": {
+    "en_US": [
+      "Noemi"
+    ],
     "ja_JP": [
       "ノエミ"
     ],
@@ -10270,6 +10338,9 @@
     ]
   },
   "avg_npc_1552_1": {
+    "en_US": [
+      "Noemi"
+    ],
     "ja_JP": [
       "ノエミ"
     ],
@@ -10278,6 +10349,12 @@
     ]
   },
   "avg_npc_1553_1": {
+    "en_US": [
+      "Anxious Officer",
+      "Busy Cop",
+      "Director",
+      "Police Officer"
+    ],
     "ja_JP": [
       "多忙な警察官",
       "焦る警察官",
@@ -10292,6 +10369,14 @@
     ]
   },
   "avg_npc_1554_1": {
+    "en_US": [
+      "Famiglia Company Employee",
+      "Famiglia Lawyer",
+      "Mafioso",
+      "Mafioso A",
+      "Mafioso A & B",
+      "Mafioso B"
+    ],
     "ja_JP": [
       "ファミリーの法務",
       "ファミリー傘下企業社員",
@@ -10310,6 +10395,12 @@
     ]
   },
   "avg_npc_1555_1": {
+    "en_US": [
+      "Famiglia Lawyer",
+      "Mafioso",
+      "Nervous Mafioso",
+      "Terrified Mafioso"
+    ],
     "ja_JP": [
       "ファミリー傘下企業法務",
       "マフィア",
@@ -10324,6 +10415,13 @@
     ]
   },
   "avg_npc_1556_1": {
+    "en_US": [
+      "'Carnevale Participant B'",
+      "Carnevale Participant A",
+      "Carnevale Participant B",
+      "Mafioso",
+      "Mafioso B"
+    ],
     "ja_JP": [
       "「通行人B」",
       "マフィア",
@@ -10340,6 +10438,14 @@
     ]
   },
   "avg_npc_1557_1": {
+    "en_US": [
+      "'Carnevale Participant A'",
+      "Carnevale Participant A",
+      "Carnevale Participant B",
+      "Director",
+      "Mafioso A",
+      "Mafioso A & B"
+    ],
     "ja_JP": [
       "「通行人A」",
       "マフィアA",
@@ -10374,6 +10480,10 @@
     ]
   },
   "avg_npc_1561_1": {
+    "en_US": [
+      "Truck Driver",
+      "Truck Driver B"
+    ],
     "ja_JP": [
       "トラックドライバー",
       "トラックドライバーB"
@@ -10384,6 +10494,9 @@
     ]
   },
   "avg_npc_1562_1": {
+    "en_US": [
+      "Panicking Clerk"
+    ],
     "ja_JP": [
       "パニックになる事務員"
     ],
@@ -10392,6 +10505,9 @@
     ]
   },
   "avg_npc_1563_1": {
+    "en_US": [
+      "Chatty Grooming Specialist"
+    ],
     "ja_JP": [
       "おしゃべりな理髪師"
     ],
@@ -10400,6 +10516,9 @@
     ]
   },
   "avg_npc_1564_1": {
+    "en_US": [
+      "Lappland"
+    ],
     "ja_JP": [
       "ラップランド"
     ],
@@ -11322,10 +11441,12 @@
       "Noblewoman and Wealthy Man",
       "Obscured Merchant",
       "Officer-in-Charge",
+      "Old Judge",
       "Pretentious Man",
       "Representative Cooper",
       "Senior Project Manager",
       "Timid Citizen",
+      "Victorian Traveler",
       "Wealthily-Dressed Man",
       "Wealthy Man",
       "Wildly Ambitious Baron",
@@ -11750,6 +11871,7 @@
   "avg_npc_201": {
     "en_US": [
       "Arrogant Youth",
+      "Bolívarian Traveler",
       "Casino Guest",
       "Cheerful Male Tourist",
       "Criminal",
@@ -11798,7 +11920,8 @@
       "Female Music-Loving Tourist",
       "Sluggish Female Tourist",
       "Startled Female Tourist",
-      "Terrified Female Tourist"
+      "Terrified Female Tourist",
+      "Waitress"
     ],
     "ja_JP": [
       "ウェイトレス",
@@ -12569,6 +12692,7 @@
       "Billy",
       "Child",
       "Craig",
+      "Cunning Boy",
       "Curious Child",
       "Dirt-Poor Peddler",
       "Emaciated Child",
@@ -13823,8 +13947,10 @@
       "Agitated Hawker",
       "Curious Passerby",
       "Feeble Apprentice",
+      "Half-Drunk Martial Artist",
       "Hawker",
       "Odd Traveler",
+      "Sober Martial Artist",
       "Street Youth",
       "Suspicious Townsfolk",
       "Tavern Assistant",
@@ -15386,6 +15512,7 @@
   "avg_npc_453_1": {
     "en_US": [
       "Agitated Cultist",
+      "Angry Assassin",
       "Bizarre Cultist",
       "Burnt Cultist",
       "Mournful Adherent",
@@ -15419,6 +15546,7 @@
       "Church of the Deep Cultist B",
       "Priest",
       "Silent Cultist",
+      "Strange Assassin",
       "Strange Outsider",
       "Tight-Lipped Adherent",
       "Wounded Cultist"
@@ -15755,6 +15883,7 @@
       "Graf Saxon",
       "Louis",
       "Nervous Envoy",
+      "Polite Noble",
       "Pretentious Noble",
       "Solemn Man",
       "Young Noble"
@@ -15939,6 +16068,7 @@
       "Enraged Passerby?",
       "Graf's Attendant",
       "Hardware Shop Owner",
+      "Jif",
       "Messenger",
       "Neurotic Infected",
       "Noble Attendant",
@@ -15996,11 +16126,13 @@
       "Excited Afterglow Resident",
       "Frau Perry",
       "Happy Leithanian Tourist",
+      "Jif & Thiem",
       "Leithanian Woman",
       "Miss Bachmann",
       "Mummy",
       "Passerby Infected",
       "Shopkeeper",
+      "Thiem",
       "Worn-out Infected"
     ],
     "ja_JP": [
@@ -16086,6 +16218,7 @@
   "avg_npc_523_1": {
     "en_US": [
       "Cheerful Columbian",
+      "Columbian Traveler",
       "Deliveryman",
       "Driver",
       "Drunkard",
@@ -17436,8 +17569,14 @@
     "en_US": [
       "Clerk",
       "Driver",
+      "Forlorn Merchant",
       "Mauro, Infected Citizen",
+      "Nervous Passerby",
       "Onsite Staff",
+      "Pastry Shop Owner",
+      "Photographer",
+      "Port Worker",
+      "Sad Citizen",
       "Terrified Waiter"
     ],
     "ja_JP": [
@@ -17470,9 +17609,14 @@
   "avg_npc_697_1": {
     "en_US": [
       "Calm Technician",
+      "City Hall Staff",
       "Clerk Teresa",
       "Community Resident",
       "Court Clerk",
+      "Flustered Government Clerk",
+      "Government Clerk",
+      "Kindly Neighbor",
+      "Private Physician",
       "Rossati Mafioso",
       "Town 'Judge'",
       "Town Judge"
@@ -17511,6 +17655,7 @@
   "avg_npc_698_1": {
     "en_US": [
       "Angry Mafioso",
+      "Arrogant Mafioso",
       "Bellone Bodyguard",
       "Bellone Mafioso",
       "Bodyguard",
@@ -17566,6 +17711,7 @@
       "Angry Bailiff",
       "Bailiff",
       "Bodyguard",
+      "Fierce Mafioso",
       "Judge's Subordinate",
       "Mafioso A",
       "Resolute Bailiff",
@@ -17624,9 +17770,14 @@
   },
   "avg_npc_701_1": {
     "en_US": [
+      "'Dispatcher'",
+      "Dispatcher",
       "Energetic Technician",
+      "Judge's Assistant",
       "Meticulous Man",
-      "Sad Man"
+      "Obstinate Partner",
+      "Sad Man",
+      "Undercover Officer A"
     ],
     "ja_JP": [
       "「管理人」",
@@ -17651,7 +17802,10 @@
   },
   "avg_npc_702_1": {
     "en_US": [
-      "Fearful Waiter"
+      "Fearful Waiter",
+      "Judge's Assistant",
+      "Nurse",
+      "Undercover Officer B"
     ],
     "ja_JP": [
       "変装した警察官B",
@@ -18123,6 +18277,7 @@
     "en_US": [
       "Millenion",
       "Patrol Battalion Soldier",
+      "Patrol Battalion Soldier A",
       "Yumen Sentry A"
     ],
     "ja_JP": [
@@ -18142,6 +18297,7 @@
     "en_US": [
       "Centurion",
       "Patrol Battalion Soldier",
+      "Patrol Battalion Soldier B",
       "Yumen Sentry",
       "Yumen Sentry B"
     ],
@@ -18167,12 +18323,14 @@
       "Anxious Villager",
       "Blacksmith",
       "Drinking Old Man",
+      "Drunken Martial Artist",
       "Innkeeper",
       "Nervous Passerby",
       "Nervous Villager",
       "Passing Villager B",
       "Rescue Squad Member",
       "Roadside Inn Staff",
+      "Sober Martial Artist",
       "Tea Leaf Peddler",
       "Villager",
       "Wanderer",
@@ -20206,6 +20364,7 @@
   },
   "char_102_texas_1": {
     "en_US": [
+      "Emperor",
       "Texas"
     ],
     "ja_JP": [

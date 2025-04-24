@@ -743,6 +743,7 @@
     "zh_CN": "璀璨闪耀寻访凭证"
   },
   "LIMITED_TKT_GACHA_10_5601": {
+    "en_US": "Tango Decadenza Headhunting Permit",
     "ja_JP": "大感謝祭10回スカウト券",
     "zh_CN": "荒芜探戈寻访凭证"
   },
@@ -860,6 +861,7 @@
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_5601": {
+    "en_US": "Headhunting Data Contract",
     "ja_JP": "限定契約証",
     "zh_CN": "寻访数据契约"
   },
@@ -1545,6 +1547,7 @@
     "zh_CN": "晶化源石"
   },
   "act38side_token_ticket": {
+    "en_US": "Invito Mistico",
     "ja_JP": "匿名招待状",
     "zh_CN": "匿名邀请函"
   },
@@ -3226,6 +3229,7 @@
     "zh_CN": "历阵锐枪芬的信物"
   },
   "p_char_1038_whitw2": {
+    "en_US": "Lappland the Decadenza's Token",
     "ja_JP": "荒蕪ラップランドの印",
     "zh_CN": "荒芜拉普兰德的信物"
   },
@@ -3411,6 +3415,7 @@
     "zh_CN": "清道夫的信物"
   },
   "p_char_1502_crosly": {
+    "en_US": "CrownSlayer's Token",
     "ja_JP": "クラウンスレイヤーの印",
     "zh_CN": "弑君者的信物"
   },
@@ -4146,6 +4151,7 @@
     "zh_CN": "隐德来希的信物"
   },
   "p_char_4011_lessng": {
+    "en_US": "Lessing's Token",
     "ja_JP": "レッシングの印",
     "zh_CN": "止颂的信物"
   },
@@ -4190,6 +4196,7 @@
     "zh_CN": "暮落的信物"
   },
   "p_char_4026_vulpis": {
+    "en_US": "Vulpisfoglia's Token",
     "ja_JP": "ウルピスフォリアの印",
     "zh_CN": "忍冬的信物"
   },
@@ -4552,6 +4559,7 @@
     "zh_CN": "渡桥的信物"
   },
   "p_char_4148_philae": {
+    "en_US": "Philae's Token",
     "ja_JP": "フィラエの印",
     "zh_CN": "菲莱的信物"
   },
@@ -4561,6 +4569,7 @@
     "zh_CN": "锡人的信物"
   },
   "p_char_4155_talr": {
+    "en_US": "Figurino's Token",
     "ja_JP": "フィグリーノの印",
     "zh_CN": "裁度的信物"
   },
@@ -4581,6 +4590,7 @@
     "zh_CN": "特克诺的信物"
   },
   "p_char_4165_ctrail": {
+    "en_US": "Contrail's Token",
     "ja_JP": "コントレイルの印",
     "zh_CN": "云迹的信物"
   },
@@ -4997,6 +5007,7 @@
     "zh_CN": "罗德岛物资补给VI"
   },
   "randomMaterial_act38side": {
+    "en_US": "Carnival Canister",
     "ja_JP": "狂宴花火セット",
     "zh_CN": "狂欢烟花桶"
   },
@@ -5056,6 +5067,7 @@
     "zh_CN": "ID信息更新卡"
   },
   "renamingCard_0_056": {
+    "en_US": "ID Info Update Card",
     "ja_JP": "ID情報更新カード",
     "zh_CN": "ID信息更新卡"
   },
@@ -5095,6 +5107,7 @@
     "zh_CN": "ID信息更新卡"
   },
   "renamingCard_30_056": {
+    "en_US": "ID Info Update Card",
     "ja_JP": "ID情報更新カード",
     "zh_CN": "ID信息更新卡"
   },
@@ -5618,6 +5631,7 @@
     "zh_CN": "自助芯片组印刻仪"
   },
   "voucher_class_pick5601": {
+    "en_US": "Top Operator Transfer Permit - Kernel",
     "ja_JP": "中堅★6招聘指名券",
     "zh_CN": "中坚高级干员调用凭证"
   },
@@ -5823,6 +5837,7 @@
     "zh_CN": "周年庆典干员凭证"
   },
   "voucher_item_pick5601": {
+    "en_US": "Thank-You Celebration Operator Permit",
     "ja_JP": "感謝祭記念★6招聘指名券",
     "zh_CN": "感谢庆典干员凭证"
   },

@@ -756,29 +756,29 @@ tip: 请善用浏览器的搜索功能
 | act37side_st01 | 历史的航向 | Course of History | 歴史の針路 |
 | act37side_st02 | 童话的结局 | Fairytale Ending | 童話の終わり |
 | act37side_tr01 | 物资难题 | Supply Shortage | 補給問題 |
-| act38side_01 | 失途 | - | 迷走 |
-| act38side_02 | 择路 | - | 選択の余地 |
-| act38side_03 | 恶客盈门 | - | 悪客万来 |
-| act38side_04 | 体面来宾 | - | 体裁ある来客 |
-| act38side_05 | “致新生活” | - | 「新しい人生へ」 |
-| act38side_06 | “复仇于我” | - | 「復讐するは我にあり」 |
-| act38side_07 | 揭幕时刻 | - | 幕開けの時 |
-| act38side_08 | 无私铁棘 | - | 無私の鉄茨 |
-| act38side_09 | 狼群与群狼 | - | 狼群と群狼 |
-| act38side_10 | 铳响 | - | 銃声 |
-| act38side_s01 | 无尽玩笑 | - | 果てなき悪戯 |
-| act38side_s02 | 荒唐共谋 | - | 混沌の共謀者 |
-| act38side_s03 | 仓皇步法 | - | 慌ただしいステップ |
-| act38side_s04 | 游戏终结 | - | ゲームの終わり |
-| act38side_s05 | 荒芜谢幕 | - | 荒蕪なるカーテンコール |
-| act38side_sp01 | 试演烟花秀 | - | 花火ショーのリハーサル |
-| act38side_sp02 | 即兴烟花秀 | - | 即興花火ショー |
-| act38side_sp03 | 狂欢之夜烟花秀 | - | カルネヴァーレ花火ショー |
-| act38side_st01 | 《新都市管理法案》 | - | 『新都市管理法』 |
-| act38side_st02 | 《复仇禁制令》 | - | 『復讐禁止令』 |
-| act38side_st03 | 《狂欢节章程》 | - | 『カルネヴァーレの規則』 |
-| act38side_st04 | 《管理法修正案》 | - | 『管理法修正案』 |
-| act38side_tr01 | 《烟花燃放须知》 | - | 『花火取締規則』 |
+| act38side_01 | 失途 | Astray | 迷走 |
+| act38side_02 | 择路 | Paths Taken | 選択の余地 |
+| act38side_03 | 恶客盈门 | Dishonored Guest | 悪客万来 |
+| act38side_04 | 体面来宾 | Honored Guest | 体裁ある来客 |
+| act38side_05 | “致新生活” | To New Life | 「新しい人生へ」 |
+| act38side_06 | “复仇于我” | Vengeance and I | 「復讐するは我にあり」 |
+| act38side_07 | 揭幕时刻 | Curtains Lifted | 幕開けの時 |
+| act38side_08 | 无私铁棘 | Selfless Law | 無私の鉄茨 |
+| act38side_09 | 狼群与群狼 | The Wolf and the Pack | 狼群と群狼 |
+| act38side_10 | 铳响 | Gunshot | 銃声 |
+| act38side_s01 | 无尽玩笑 | Endless Joke | 果てなき悪戯 |
+| act38side_s02 | 荒唐共谋 | An Absurd Conspiracy | 混沌の共謀者 |
+| act38side_s03 | 仓皇步法 | Staggered Steps | 慌ただしいステップ |
+| act38side_s04 | 游戏终结 | End of the Game | ゲームの終わり |
+| act38side_s05 | 荒芜谢幕 | Curtain Call | 荒蕪なるカーテンコール |
+| act38side_sp01 | 试演烟花秀 | Fireworks Test | 花火ショーのリハーサル |
+| act38side_sp02 | 即兴烟花秀 | Impromptu Fireworks | 即興花火ショー |
+| act38side_sp03 | 狂欢之夜烟花秀 | Carnevale Fireworks | カルネヴァーレ花火ショー |
+| act38side_st01 | 《新都市管理法案》 | 'New Urban Management Act' | 『新都市管理法』 |
+| act38side_st02 | 《复仇禁制令》 | 'Prohibition on Revenge' | 『復讐禁止令』 |
+| act38side_st03 | 《狂欢节章程》 | 'Carnevale Charter' | 『カルネヴァーレの規則』 |
+| act38side_st04 | 《管理法修正案》 | 'Management Act Amendment' | 『管理法修正案』 |
+| act38side_tr01 | 《烟花燃放须知》 | 'Regulation on Fireworks' | 『花火取締規則』 |
 | act39side_01 | 倒悬苍白海上 | - | - |
 | act39side_02 | 腿部拆卸疗法 | - | - |
 | act39side_03 | 大出血的舞步 | - | - |
@@ -916,7 +916,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_22 | “离心率”实验室 | 'Eccentricity' Laboratory | 「離心率」ラボ |
 | camp_r_23 | 燃烧街区 | Burning District | 燃える市街地 |
 | camp_r_24 | 冰封雪谷 | Icebound Valley | 閉ざされし雪渓 |
-| camp_r_25 | 66号航道 | - | 66号航路 |
+| camp_r_25 | 66号航道 | Cityway 66 | 66号航路 |
 | camp_r_26 | 壬午号水稻田 | - | - |
 | camp_r_27 | 选帝侯广场 | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |

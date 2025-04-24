@@ -33,7 +33,7 @@ tip: 请善用浏览器的搜索功能
 | story_aurora_set_1_story_1 | 她所见 | What She Saw | 彼女の見たいもの |
 | story_ayer_set_1_story_1 | 黄沙觅迹 | Seeker in the Sands | 黄砂の追跡 |
 | story_baslin_set_1_story_1 | 晚霞下的演奏 | Aufführung im Abendrot | 夕焼けの演奏 |
-| story_bdhkgt_set_1_story_1 | 最后的比武 | - | 最後の比武 |
+| story_bdhkgt_set_1_story_1 | 最后的比武 | Final Tournament | 最後の比武 |
 | story_beewax_set_1_story_1 | 黄沙归途 | Trail of Sands | 黄砂の帰路 |
 | story_bena_set_1_story_1 | 简单的愿望 | The Simple Wish | 些細な願いごと |
 | story_bgsnow_set_1_story_1 | 墨迹已落 | Fallen Inktrails | インクの染み |
@@ -175,7 +175,7 @@ tip: 请善用浏览器的搜索功能
 | story_lava_set_1_story_1 | 姐妹 | 'Sisters' | 姉妹 |
 | story_lava_set_2_story_1 | 看护 | 'Caring' | 看病 |
 | story_leizi_set_1_story_1 | 司雷霆者 | One Who Controls Lightning | 雷を司る者 |
-| story_lessng_set_1_story_1 | 共同建设乌提卡领 | - | 共にウルティカ領のために |
+| story_lessng_set_1_story_1 | 共同建设乌提卡领 | Building Urtica Together | 共にウルティカ領のために |
 | story_leto_set_1_story_1 | 捉迷藏 | Hide-and-Seek | かくれんぼ |
 | story_lin_set_1_story_1 | 新潮旧浪 | - | - |
 | story_ling_set_1_story_1 | 醒时梦长 | From a Long Dream Woken | 白日の酔夢 |
@@ -261,7 +261,7 @@ tip: 请善用浏览器的搜索功能
 | story_shotst_set_2_story_1 | 两难 | Dilemma | 板挟み |
 | story_shu_set_1_story_1 | 谓我何求 | ...Ask What I Seek | 何が為に |
 | story_shwaz_set_1_story_1 | 离乡之日 | 'The Day We Left Home' | 故郷を去る日 |
-| story_shwaz_set_2_story_1 | 普通的一天 | - | 平凡な一日 |
+| story_shwaz_set_2_story_1 | 普通的一天 | Just Another Day | 平凡な一日 |
 | story_sidero_set_1_story_1 | 勤勉之人 | Diligent | 勤勉な人 |
 | story_siege_set_1_story_1 | 幻日 | Miraged Sun | 幻日 |
 | story_silent_set_1_story_1 | 职场新人 | New to the Workforce | 新入社員 |
@@ -279,7 +279,7 @@ tip: 请善用浏览器的搜索功能
 | story_sntlla_set_1_story_1 | 吹起未来的雪花 | Stirring Future's Snowflakes | 明日に咲く雪花 |
 | story_sophia_set_1_story_1 | 独家访谈 | Exclusive Interview | 独占インタビュー |
 | story_sora_set_1_story_1 | 距离 | Distance | 距離 |
-| story_sora_set_2_story_1 | 向舞台前进 | - | 輝きへのステップ |
+| story_sora_set_2_story_1 | 向舞台前进 | To the Stage! | 輝きへのステップ |
 | story_spot_set_1_story_1 | 谁是英雄 | Face of the Hero | 英雄とは |
 | story_spuria_set_1_story_1 | 铳声回响 | A Gunshot Rings Out | 反響する銃声 |
 | story_sqrrel_set_1_story_1 | 小心火烛 | Careful of Flammables | 火の用心 |
@@ -304,11 +304,11 @@ tip: 请善用浏览器的搜索功能
 | story_toddi_set_1_story_1 | 装甲与重弩 | Armor and Crossbow | 装甲と重弩 |
 | story_tomimi_set_1_story_1 | 崭新生活 | Brand New Life | 新たな生活 |
 | story_totter_set_1_story_1 | 计划 | A Plan | 計画 |
-| story_totter_set_2_story_1 | 归乡 | - | 帰郷 |
+| story_totter_set_2_story_1 | 归乡 | Homecoming | 帰郷 |
 | story_tuye_set_1_story_1 | 沙漠之虹 | Desert Rainbow | 砂漠にかかる虹 |
 | story_utage_set_1_story_1 | 时髦把戏 | The Game of Chic | トレンディ・トリック |
 | story_vigil_set_1_story_1 | 未来将至 | Future Coming | 訪れる未来 |
-| story_vigil_set_2_story_1 | 双刃剑 | - | 諸刃の剣 |
+| story_vigil_set_2_story_1 | 双刃剑 | Double-Edged Sword | 諸刃の剣 |
 | story_vigna_set_1_story_1 | 该做的事 | What You've Gotta Do | すべきこと |
 | story_vodfox_set_1_story_1 | 无字诅咒 | A Curse Without Words | 文字なき呪い |
 | story_vrdant_set_1_story_1 | 小草的呼喊 | Little Tuft, Where Art Thou? | 草木の叫び |
