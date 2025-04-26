@@ -5427,6 +5427,18 @@
       "zh_CN": "废弃火灶"
     }
   },
+  "trap_213_dqore": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "源石祭坛"
+    }
+  },
+  "trap_214_dqballis": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "弩炮"
+    }
+  },
   "trap_218_fttree": {
     "type": "TRAP",
     "names": {
@@ -21139,6 +21151,12 @@
       "zh_CN": "限时累计签到"
     }
   },
+  "act1enemyduel": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "争锋频道：青草城"
+    }
+  },
   "act1flip": {
     "type": "ACTIVITY",
     "names": {
@@ -21509,6 +21527,12 @@
     "type": "ACTIVITY",
     "names": {
       "zh_CN": "崔林特尔梅之金·复刻"
+    }
+  },
+  "act2access": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "活动推荐月卡"
     }
   },
   "act2blessing": {
@@ -24640,6 +24664,12 @@
       "zh_CN": "赏金猎人金币"
     }
   },
+  "act1enemyduel_milestone_point": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "争锋大礼花"
+    }
+  },
   "act1lock_point_reward": {
     "type": "ITEM",
     "names": {
@@ -25773,6 +25803,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "1101生日糕点"
+    }
+  },
+  "ap_supply_lt_120_2025_2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "量大管饱甜品拼盘"
     }
   },
   "ap_supply_lt_60": {
@@ -27421,6 +27457,12 @@
       "zh_CN": "表情套组：虫动"
     }
   },
+  "emticon_duel_basic": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "表情套组"
+    }
+  },
   "et_ObsidianPass": {
     "type": "ITEM",
     "names": {
@@ -27451,6 +27493,12 @@
       "en_US": "Bounteous Fortunes Gift Bag",
       "ja_JP": "幸運満タンパック",
       "zh_CN": "福运鼓鼓礼袋"
+    }
+  },
+  "itempack_gold_1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "特别版!超强!老板奖章"
     }
   },
   "itempack_main_1": {
@@ -32055,6 +32103,12 @@
       "en_US": "Lessing's Folder",
       "ja_JP": "レッシングの書類入れ",
       "zh_CN": "止颂的文件夹"
+    }
+  },
+  "voucher_levelmax_4": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "专业干员特训装置"
     }
   },
   "voucher_levelmax_5": {
@@ -41576,6 +41630,18 @@
       "zh_CN": "抑制生长"
     }
   },
+  "sktok_dqballis": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "发射弩箭"
+    }
+  },
+  "sktok_dqore": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "脉冲波"
+    }
+  },
   "sktok_dsbell": {
     "type": "SKILL",
     "names": {
@@ -47050,6 +47116,18 @@
       "zh_CN": "理念之争"
     }
   },
+  "act1enemyduel_01a": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "争锋试炼！"
+    }
+  },
+  "act1enemyduel_02a": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "争锋对决！"
+    }
+  },
   "act1lock_a-01": {
     "type": "STAGE",
     "names": {
@@ -51218,6 +51296,12 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "选帝侯广场"
+    }
+  },
+  "camp_r_28": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "大巴扎"
     }
   },
   "hard_05-01": {

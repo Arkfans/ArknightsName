@@ -714,6 +714,8 @@ tip: 请善用浏览器的搜索功能
 | trap_210_arcgrg | 两栖码头 | - | - |
 | trap_211_cjgtow | 火灶 | - | - |
 | trap_212_cjbtow | 废弃火灶 | - | - |
+| trap_213_dqore | 源石祭坛 | - | - |
+| trap_214_dqballis | 弩炮 | - | - |
 | trap_218_fttree | 树丛 | - | - |
 | trap_219_fttreant | 盾与墙 | - | - |
 | trap_220_ftbone | 旧日之火 | - | - |
@@ -2731,6 +2733,7 @@ tip: 请善用浏览器的搜索功能
 | act1checkin | 未来序曲签到活动 | Preludes to the Future Sign-in Event | 大感謝祭スタンプ |
 | act1collection | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
 | act1d5 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
+| act1enemyduel | 争锋频道：青草城 | - | - |
 | act1flip | 哗啦啦祈愿牌 | Surpriseful Supplications | かんから祈り札 |
 | act1float | 纽莱堡市产业合作洽谈会 | Nulaiteburgh Industry Cooperation Forum | ニューライトバーグ市産業懇談会 |
 | act1lock | 荷谟伊智境 | Hymnoi Wisdom | ヒュムノイの叡智 |
@@ -2781,6 +2784,7 @@ tip: 请善用浏览器的搜索功能
 | act29side | 崔林特尔梅之金 | Zwillingstürme im Herbst | ツヴィリングトゥルムの黄金 |
 | act29sign | 桂时逢月——月饼烘焙小教程 | Encounter At The Osmanthus Blossom - Mooncake-Making Tutorial | 円満団楽-ロドス点心教室 |
 | act29sre | 崔林特尔梅之金·复刻 | - | - |
+| act2access | 活动推荐月卡 | - | - |
 | act2blessing | 2025罗德岛新春签到 | - | - |
 | act2bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act2collection | 限时积分任务 | - | - |
@@ -3186,6 +3190,7 @@ Event | なないろのお茶会 |
 | act1bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
 | act1collection_point_token | “探索者”兑换点数 | 'Expeditioners' Redemption Point | 「探索者」交換ポイント |
 | act1d0_token_gold_rep_1 | 赏金猎人金币 | Bounty Coin | ラッキーコイン |
+| act1enemyduel_milestone_point | 争锋大礼花 | - | - |
 | act1lock_point_reward | 赛事奖章 | Competition Medals | 競技メダル |
 | act1mainlinebp_token_star | 里程碑碎片 | Milestone Fragment | マイルストーンの欠片 |
 | act1mainss_token_medi | 急性感染抑制剂 | Emergency Inhibitor | 急性感染抑制剤 |
@@ -3337,6 +3342,7 @@ Event | なないろのお茶会 |
 | ap_supply_lt_120_2024_5 | “枕夜光” | 'Glimmering Dream' | 「夢誘夜光」 |
 | ap_supply_lt_120_2024_6 | 阿米娅的生日蛋糕 | Amiya's Birthday Cake | アーミヤのバースデーケーキ |
 | ap_supply_lt_120_2025_1 | 1101生日糕点 | - | - |
+| ap_supply_lt_120_2025_2 | 量大管饱甜品拼盘 | - | - |
 | ap_supply_lt_60 | 应急理智合剂 | Emergency Sanity Potion | 初級理性回復剤 |
 | ap_supply_lt_80 | 应急理智加强剂 | Emergency Sanity Booster | 初級理性回復剤+ |
 | ap_supply_lt_80_2025_1 | 清爽运动饮料 | - | - |
@@ -3546,10 +3552,12 @@ Event | なないろのお茶会 |
 | clue_Rap_5_rep_1 | 说唱动态5 | Rap Trend 5 | ラップサイド5 |
 | emoticon_basic | 表情套组 | - | - |
 | emoticon_originium_slug | 表情套组：虫动 | - | - |
+| emticon_duel_basic | 表情套组 | - | - |
 | et_ObsidianPass | 黑曜石节门票 | Obsidian Festival Ticket | フェスチケット |
 | et_ObsidianPass_rep_1 | 黑曜石节门票 | Obsidian Festival Ticket | フェスチケット |
 | favor_add_ulika | 主播U的直播切片 | Streamer U's Stream Clips | ライバーUの配信切り抜き |
 | itempack_gacha_1 | 福运鼓鼓礼袋 | Bounteous Fortunes Gift Bag | 幸運満タンパック |
+| itempack_gold_1 | 特别版!超强!老板奖章 | - | - |
 | itempack_main_1 | 罗德岛补给箱 | - | - |
 | itempack_mod_10 | 狙击芯片组印刻仪 | Sniper Chip Pack Etcher | 中級狙撃SoCプリンター |
 | itempack_mod_11 | 术师芯片组印刻仪 | Caster Chip Pack Etcher | 中級術師SoCプリンター |
@@ -4131,6 +4139,7 @@ Event | なないろのお茶会 |
 | voucher_item_pick5601 | 感谢庆典干员凭证 | Thank-You Celebration Operator Permit | 感謝祭記念★6招聘指名券 |
 | voucher_item_pick601 | 高级干员调用凭证 | Top Operator Transfer Permit | ★6招聘指名券 |
 | voucher_lessng | 止颂的文件夹 | Lessing's Folder | レッシングの書類入れ |
+| voucher_levelmax_4 | 专业干员特训装置 | - | - |
 | voucher_levelmax_5 | 资深干员特训装置 | Senior Operator Training Apparatus | ★5特訓装置 |
 | voucher_levelmax_6 | 高级资深干员特训装置 | Top Operator Training Apparatus | ★6特訓装置 |
 | voucher_pcharPack | - | - | ★6印交換券 |
@@ -5407,6 +5416,8 @@ Event | なないろのお茶会 |
 | sktok_doroth_2 | 流沙区域生成 | Quicksand Generation | 流砂生成 |
 | sktok_doroth_3 | 高速共振排障 | High-speed Resonating Troubleshooter | 高周波共振 |
 | sktok_dplant | 抑制生长 | Suppress Growth | 成長抑制 |
+| sktok_dqballis | 发射弩箭 | - | - |
+| sktok_dqore | 脉冲波 | - | - |
 | sktok_dsbell | 应急治疗协议 | Emergency Medical Agreement | 応急治療プロトコル |
 | sktok_dsshell | 赘生甲壳 | Excrescent Carapace | 増殖甲羅 |
 | sktok_dstnta | 摄食 | Devour | 摂食 |
@@ -6104,6 +6115,8 @@ Event | なないろのお茶会 |
 | act1bossrush_02 | 卷土重来 | Comeback | 捲土重来 |
 | act1bossrush_03 | 风沙轰隆隆 | Rolling Sands | 塵旋風とどろく |
 | act1bossrush_04 | 理念之争 | Clash of Ideologies | 理念の戦 |
+| act1enemyduel_01a | 争锋试炼！ | - | - |
+| act1enemyduel_02a | 争锋对决！ | - | - |
 | act1lock_a-01 | 拂晓之处-认识 | Daybreak Point - Awareness | 黎明の域-認識 |
 | act1lock_a-02 | 拂晓之处-理想 | Daybreak Point - Ideal | 黎明の域-理想 |
 | act1lock_a-03 | 拂晓之处-感官 | Daybreak Point - Sense | 黎明の域-感官 |
@@ -6645,6 +6658,7 @@ Event | なないろのお茶会 |
 | camp_r_25 | 66号航道 | Cityway 66 | 66号航路 |
 | camp_r_26 | 壬午号水稻田 | - | - |
 | camp_r_27 | 选帝侯广场 | - | - |
+| camp_r_28 | 大巴扎 | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |
 | hard_05-02 | 炼狱行动-2 | Operation Inferno-2 | 煉獄作戦-2 |
 | hard_05-03 | 炼狱行动-3 | Operation Inferno-3 | 煉獄作戦-3 |

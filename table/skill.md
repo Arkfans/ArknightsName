@@ -1005,6 +1005,8 @@ tip: 请善用浏览器的搜索功能
 | sktok_doroth_2 | 流沙区域生成 | Quicksand Generation | 流砂生成 |
 | sktok_doroth_3 | 高速共振排障 | High-speed Resonating Troubleshooter | 高周波共振 |
 | sktok_dplant | 抑制生长 | Suppress Growth | 成長抑制 |
+| sktok_dqballis | 发射弩箭 | - | - |
+| sktok_dqore | 脉冲波 | - | - |
 | sktok_dsbell | 应急治疗协议 | Emergency Medical Agreement | 応急治療プロトコル |
 | sktok_dsshell | 赘生甲壳 | Excrescent Carapace | 増殖甲羅 |
 | sktok_dstnta | 摄食 | Devour | 摂食 |

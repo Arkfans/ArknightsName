@@ -378,6 +378,8 @@ tip: 请善用浏览器的搜索功能
 | act1bossrush_02 | 卷土重来 | Comeback | 捲土重来 |
 | act1bossrush_03 | 风沙轰隆隆 | Rolling Sands | 塵旋風とどろく |
 | act1bossrush_04 | 理念之争 | Clash of Ideologies | 理念の戦 |
+| act1enemyduel_01a | 争锋试炼！ | - | - |
+| act1enemyduel_02a | 争锋对决！ | - | - |
 | act1lock_a-01 | 拂晓之处-认识 | Daybreak Point - Awareness | 黎明の域-認識 |
 | act1lock_a-02 | 拂晓之处-理想 | Daybreak Point - Ideal | 黎明の域-理想 |
 | act1lock_a-03 | 拂晓之处-感官 | Daybreak Point - Sense | 黎明の域-感官 |
@@ -919,6 +921,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_25 | 66号航道 | Cityway 66 | 66号航路 |
 | camp_r_26 | 壬午号水稻田 | - | - |
 | camp_r_27 | 选帝侯广场 | - | - |
+| camp_r_28 | 大巴扎 | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |
 | hard_05-02 | 炼狱行动-2 | Operation Inferno-2 | 煉獄作戦-2 |
 | hard_05-03 | 炼狱行动-3 | Operation Inferno-3 | 煉獄作戦-3 |

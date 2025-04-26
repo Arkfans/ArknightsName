@@ -1260,6 +1260,9 @@
     "ja_JP": "ラッキーコイン",
     "zh_CN": "赏金猎人金币"
   },
+  "act1enemyduel_milestone_point": {
+    "zh_CN": "争锋大礼花"
+  },
   "act1lock_point_reward": {
     "en_US": "Competition Medals",
     "ja_JP": "競技メダル",
@@ -1950,6 +1953,9 @@
   },
   "ap_supply_lt_120_2025_1": {
     "zh_CN": "1101生日糕点"
+  },
+  "ap_supply_lt_120_2025_2": {
+    "zh_CN": "量大管饱甜品拼盘"
   },
   "ap_supply_lt_60": {
     "en_US": "Emergency Sanity Potion",
@@ -2970,6 +2976,9 @@
   "emoticon_originium_slug": {
     "zh_CN": "表情套组：虫动"
   },
+  "emticon_duel_basic": {
+    "zh_CN": "表情套组"
+  },
   "et_ObsidianPass": {
     "en_US": "Obsidian Festival Ticket",
     "ja_JP": "フェスチケット",
@@ -2989,6 +2998,9 @@
     "en_US": "Bounteous Fortunes Gift Bag",
     "ja_JP": "幸運満タンパック",
     "zh_CN": "福运鼓鼓礼袋"
+  },
+  "itempack_gold_1": {
+    "zh_CN": "特别版!超强!老板奖章"
   },
   "itempack_main_1": {
     "zh_CN": "罗德岛补给箱"
@@ -5850,6 +5862,9 @@
     "en_US": "Lessing's Folder",
     "ja_JP": "レッシングの書類入れ",
     "zh_CN": "止颂的文件夹"
+  },
+  "voucher_levelmax_4": {
+    "zh_CN": "专业干员特训装置"
   },
   "voucher_levelmax_5": {
     "en_US": "Senior Operator Training Apparatus",

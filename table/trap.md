@@ -268,6 +268,8 @@ tip: 请善用浏览器的搜索功能
 | trap_210_arcgrg | 两栖码头 | - | - |
 | trap_211_cjgtow | 火灶 | - | - |
 | trap_212_cjbtow | 废弃火灶 | - | - |
+| trap_213_dqore | 源石祭坛 | - | - |
+| trap_214_dqballis | 弩炮 | - | - |
 | trap_218_fttree | 树丛 | - | - |
 | trap_219_fttreant | 盾与墙 | - | - |
 | trap_220_ftbone | 旧日之火 | - | - |

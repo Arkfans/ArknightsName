@@ -1820,6 +1820,12 @@
     "ja_JP": "理念の戦",
     "zh_CN": "理念之争"
   },
+  "act1enemyduel_01a": {
+    "zh_CN": "争锋试炼！"
+  },
+  "act1enemyduel_02a": {
+    "zh_CN": "争锋对决！"
+  },
   "act1lock_a-01": {
     "en_US": "Daybreak Point - Awareness",
     "ja_JP": "黎明の域-認識",
@@ -4366,6 +4372,9 @@
   },
   "camp_r_27": {
     "zh_CN": "选帝侯广场"
+  },
+  "camp_r_28": {
+    "zh_CN": "大巴扎"
   },
   "hard_05-01": {
     "en_US": "Operation Inferno-1",

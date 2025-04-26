@@ -394,6 +394,9 @@
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
+  "act1enemyduel": {
+    "zh_CN": "争锋频道：青草城"
+  },
   "act1flip": {
     "en_US": "Surpriseful Supplications",
     "ja_JP": "かんから祈り札",
@@ -621,6 +624,9 @@
   },
   "act29sre": {
     "zh_CN": "崔林特尔梅之金·复刻"
+  },
+  "act2access": {
+    "zh_CN": "活动推荐月卡"
   },
   "act2blessing": {
     "zh_CN": "2025罗德岛新春签到"

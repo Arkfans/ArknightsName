@@ -262,6 +262,7 @@ tip: 请善用浏览器的搜索功能
 | act1bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
 | act1collection_point_token | “探索者”兑换点数 | 'Expeditioners' Redemption Point | 「探索者」交換ポイント |
 | act1d0_token_gold_rep_1 | 赏金猎人金币 | Bounty Coin | ラッキーコイン |
+| act1enemyduel_milestone_point | 争锋大礼花 | - | - |
 | act1lock_point_reward | 赛事奖章 | Competition Medals | 競技メダル |
 | act1mainlinebp_token_star | 里程碑碎片 | Milestone Fragment | マイルストーンの欠片 |
 | act1mainss_token_medi | 急性感染抑制剂 | Emergency Inhibitor | 急性感染抑制剤 |
@@ -413,6 +414,7 @@ tip: 请善用浏览器的搜索功能
 | ap_supply_lt_120_2024_5 | “枕夜光” | 'Glimmering Dream' | 「夢誘夜光」 |
 | ap_supply_lt_120_2024_6 | 阿米娅的生日蛋糕 | Amiya's Birthday Cake | アーミヤのバースデーケーキ |
 | ap_supply_lt_120_2025_1 | 1101生日糕点 | - | - |
+| ap_supply_lt_120_2025_2 | 量大管饱甜品拼盘 | - | - |
 | ap_supply_lt_60 | 应急理智合剂 | Emergency Sanity Potion | 初級理性回復剤 |
 | ap_supply_lt_80 | 应急理智加强剂 | Emergency Sanity Booster | 初級理性回復剤+ |
 | ap_supply_lt_80_2025_1 | 清爽运动饮料 | - | - |
@@ -622,10 +624,12 @@ tip: 请善用浏览器的搜索功能
 | clue_Rap_5_rep_1 | 说唱动态5 | Rap Trend 5 | ラップサイド5 |
 | emoticon_basic | 表情套组 | - | - |
 | emoticon_originium_slug | 表情套组：虫动 | - | - |
+| emticon_duel_basic | 表情套组 | - | - |
 | et_ObsidianPass | 黑曜石节门票 | Obsidian Festival Ticket | フェスチケット |
 | et_ObsidianPass_rep_1 | 黑曜石节门票 | Obsidian Festival Ticket | フェスチケット |
 | favor_add_ulika | 主播U的直播切片 | Streamer U's Stream Clips | ライバーUの配信切り抜き |
 | itempack_gacha_1 | 福运鼓鼓礼袋 | Bounteous Fortunes Gift Bag | 幸運満タンパック |
+| itempack_gold_1 | 特别版!超强!老板奖章 | - | - |
 | itempack_main_1 | 罗德岛补给箱 | - | - |
 | itempack_mod_10 | 狙击芯片组印刻仪 | Sniper Chip Pack Etcher | 中級狙撃SoCプリンター |
 | itempack_mod_11 | 术师芯片组印刻仪 | Caster Chip Pack Etcher | 中級術師SoCプリンター |
@@ -1207,6 +1211,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_item_pick5601 | 感谢庆典干员凭证 | Thank-You Celebration Operator Permit | 感謝祭記念★6招聘指名券 |
 | voucher_item_pick601 | 高级干员调用凭证 | Top Operator Transfer Permit | ★6招聘指名券 |
 | voucher_lessng | 止颂的文件夹 | Lessing's Folder | レッシングの書類入れ |
+| voucher_levelmax_4 | 专业干员特训装置 | - | - |
 | voucher_levelmax_5 | 资深干员特训装置 | Senior Operator Training Apparatus | ★5特訓装置 |
 | voucher_levelmax_6 | 高级资深干员特训装置 | Top Operator Training Apparatus | ★6特訓装置 |
 | voucher_pcharPack | - | - | ★6印交換券 |
