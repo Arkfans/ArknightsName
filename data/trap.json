@@ -1148,6 +1148,12 @@
   "trap_214_dqballis": {
     "zh_CN": "弩炮"
   },
+  "trap_215_dqcrsbow": {
+    "zh_CN": "解雇者清债程序"
+  },
+  "trap_216_dqelec": {
+    "zh_CN": "梅什科线圈"
+  },
   "trap_218_fttree": {
     "zh_CN": "树丛"
   },
@@ -1183,6 +1189,18 @@
   },
   "trap_234_mpmageb": {
     "zh_CN": "活性态萨卡兹术师结晶"
+  },
+  "trap_235_hlnpcm": {
+    "zh_CN": "圣徒像扮演者"
+  },
+  "trap_236_hlnpcs": {
+    "zh_CN": "圣堂射手扮演者"
+  },
+  "trap_237_hlnpcb": {
+    "zh_CN": "圣堂保育员扮演者"
+  },
+  "trap_250_hlctrl": {
+    "zh_CN": "寻根圣事"
   },
   "trap_400_xbfarm": {
     "en_US": "Portable Planting Trough",

@@ -37,6 +37,9 @@
     "ja_JP": "異郷の剣士",
     "zh_CN": "异乡剑士"
   },
+  "story_alanna_set_1_story_1": {
+    "zh_CN": "再见一面"
+  },
   "story_almond_set_1_story_1": {
     "en_US": "Long-Haul",
     "ja_JP": "航海",
@@ -237,6 +240,9 @@
     "en_US": "The First Step Towards Trust",
     "ja_JP": "信頼への第一歩",
     "zh_CN": "信任的第一步"
+  },
+  "story_broca_set_2_story_1": {
+    "zh_CN": "愤怒的布洛卡"
   },
   "story_brownb_set_1_story_1": {
     "en_US": "Ending Bell",
@@ -979,6 +985,9 @@
     "ja_JP": "高層ビルの上で",
     "zh_CN": "高楼之上"
   },
+  "story_mostma_set_2_story_1": {
+    "zh_CN": "旅途的注脚"
+  },
   "story_mudrok_set_1_story_1": {
     "en_US": "In Kazdel",
     "ja_JP": "カズデルにて",
@@ -1028,6 +1037,9 @@
     "en_US": "Drowning",
     "ja_JP": "落水者",
     "zh_CN": "落水人"
+  },
+  "story_nowell_set_1_story_1": {
+    "zh_CN": "当我们人生开始时"
   },
   "story_orchid_set_1_story_1": {
     "en_US": "Incomplete",
@@ -1349,6 +1361,9 @@
     "en_US": "To the Stage!",
     "ja_JP": "輝きへのステップ",
     "zh_CN": "向舞台前进"
+  },
+  "story_spikes_set_1_story_1": {
+    "zh_CN": "亲爱的兰道尔"
   },
   "story_spot_set_1_story_1": {
     "en_US": "Face of the Hero",

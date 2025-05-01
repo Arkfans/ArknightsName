@@ -55,6 +55,9 @@
     "ja_JP": "未完の断章",
     "zh_CN": "未尽篇章"
   },
+  "act11pray": {
+    "zh_CN": "幸运墙登录活动"
+  },
   "act11sre": {
     "en_US": "Under Tides - Rerun",
     "ja_JP": "潮汐の下・復刻",
@@ -858,6 +861,9 @@
     "ja_JP": "紛争演繹",
     "zh_CN": "纷争演绎"
   },
+  "act42side": {
+    "zh_CN": "众生行记"
+  },
   "act42sign": {
     "en_US": "Have A Taste Of Terran Monsters",
     "ja_JP": "テラ魔物品評",
@@ -890,6 +896,9 @@
   },
   "act48sign": {
     "zh_CN": "2025跨年纪念限时活动"
+  },
+  "act49sign": {
+    "zh_CN": "六周年庆典签到活动"
   },
   "act4bossrush": {
     "en_US": "Trials for Navigator",

@@ -172,7 +172,26 @@ tip: 请善用浏览器的搜索功能
 | enemy_10081_mpplai | 转译基底·α | - | - |
 | enemy_10081_mpplai_2 | 转译基底·β | - | - |
 | enemy_10082_mpweak | 弱化节点 | - | - |
+| enemy_10083_hlbird | “萨科塔之翼” | - | - |
+| enemy_10083_hlbird_2 | “萨科塔展翅” | - | - |
+| enemy_10084_hlegle | “萨科塔之眼” | - | - |
+| enemy_10084_hlegle_2 | “萨科塔见证” | - | - |
+| enemy_10085_hllevi | “萨科塔之鳍” | - | - |
+| enemy_10085_hllevi_2 | “萨科塔昂首” | - | - |
+| enemy_10086_hltigr | “萨科塔之爪” | - | - |
+| enemy_10086_hltigr_2 | “萨科塔匍匐” | - | - |
+| enemy_10087_hlchgr | 圣堂剑士 | - | - |
+| enemy_10087_hlchgr_2 | 精锐圣堂剑士 | - | - |
+| enemy_10088_hlsnip | 圣堂射手 | - | - |
+| enemy_10088_hlsnip_2 | 精锐圣堂射手 | - | - |
+| enemy_10089_hlsprt | 圣堂保育员 | - | - |
+| enemy_10089_hlsprt_2 | 资深圣堂保育员 | - | - |
 | enemy_1008_ghost | 幽灵 | Wraith | ゴースト兵 |
+| enemy_10090_hlgrd | 圣堂布道员 | - | - |
+| enemy_10090_hlgrd_2 | 资深圣堂布道员 | - | - |
+| enemy_10091_hlsttu | 圣徒像 | - | - |
+| enemy_10091_hlsttu_2 | 圣徒祈祷像 | - | - |
+| enemy_10091_hlsttu_3 | “牧首” | - | - |
 | enemy_1009_lurker | 潜伏者 | Lurker | 潜入者 |
 | enemy_1010_demon | 萨卡兹大剑手 | Sarkaz Greatswordsman | サルカズ大剣士 |
 | enemy_1010_demon_2 | 萨卡兹大剑组长 | Sarkaz Greatswordsman Leader | サルカズ大剣隊長 |
@@ -371,7 +390,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1110_uamord | 乌萨斯着铠术师 | Ursus Armored Caster | ウルサス重装術師 |
 | enemy_1110_uamord_2 | 乌萨斯高级着铠术师 | Elite Ursus Armored Caster | ウルサス上級重装術師 |
 | enemy_1111_ucommd | 乌萨斯突击者 | Ursus Raider | ウルサスコマンドー |
-| enemy_1111_ucommd_2 | 乌萨斯突击队队长 | Ursus Raider Leader | ウルサスコマンドス隊長 |
+| enemy_1111_ucommd_2 | 乌萨斯突击者队长 | Ursus Raider Leader | ウルサスコマンドス隊長 |
 | enemy_1112_emppnt | 帝国炮火先兆者 | Imperial Artillery Targeteer | 帝国砲撃誘導機 |
 | enemy_1112_emppnt_2 | 帝国炮火中枢先兆者 | Imperial Artillery Core Targeteer | 帝国砲撃指揮機 |
 | enemy_1113_empace | 帝国前锋精锐 | Imperial Striker | 帝国精鋭先鋒 |
@@ -852,8 +871,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1364_spnaxe | 萨卡兹骸骨鞭笞者 | Sarkaz Boneguard Flayer | サルカズ骨骸拷問者 |
 | enemy_1364_spnaxe_2 | 萨卡兹骸骨拷打者 | Sarkaz Boneguard Torturer | サルカズ骨骸拷問隊長 |
 | enemy_1365_spnwiz | 萨卡兹骸骨漂泊术师 | Sarkaz Boneguard Fluxcaster | サルカズ骨骸流浪術師 |
-| enemy_1365_spnwiz_2 | 萨卡兹骸骨漂泊术师长
- | Sarkaz Boneguard Fluxcaster Captain
+| enemy_1365_spnwiz_2 | 萨卡兹骸骨漂泊术师长 | Sarkaz Boneguard Fluxcaster Captain
  | サルカズ骨骸流浪術師長 |
 | enemy_1366_dcolle | 萨卡兹敛血行者 | Sarkaz Bloodwalker | サルカズ血珀収集者 |
 | enemy_1366_dcolle_2 | 萨卡兹萃血行者 | Sarkaz Bloodnexus | サルカズ精鋭血珀収集者 |
@@ -1055,6 +1073,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1564_mpprts | PRTS，“源代码” | - | - |
 | enemy_1565_mpprme | 拟态机械 | - | - |
 | enemy_1566_mpascl | “阿斯卡纶” | - | - |
+| enemy_1567_pope | “圣徒” | - | - |
 | enemy_2001_duckmi | 鸭爵 | Duck Lord | ダック卿 |
 | enemy_2002_bearmi | 高普尼克 | Gopnik | ゴプニク |
 | enemy_2003_rockman | 迷路的巨像 | Lost Colossus | 迷子の巨像 |

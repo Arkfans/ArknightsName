@@ -13,6 +13,7 @@ tip: 请善用浏览器的搜索功能
 | story_aglina_set_1_story_2 | 没写收件人的包裹 | 'Package with No Recipient' | 受取人のない荷物 |
 | story_agoat2_set_1_story_1 | 夜色中的第一步 | The First Step Into Night | 闇夜から歩き出して |
 | story_akafyu_set_1_story_1 | 异乡剑士 | Swordswoman from a Distant Land | 異郷の剣士 |
+| story_alanna_set_1_story_1 | 再见一面 | - | - |
 | story_almond_set_1_story_1 | 远航 | Long-Haul | 航海 |
 | story_amgoat_set_1_story_1 | 学者之心 | Heart of a Scholar | 学者の心 |
 | story_amgoat_set_2_story_1 | 火山 | Volcano | 火山 |
@@ -54,6 +55,7 @@ tip: 请善用浏览器的搜索功能
 | story_breeze_set_2_story_1 | 囚徒的幻梦 | Prisoner's Dream | 囚われ人のゆめ |
 | story_brigid_set_1_story_1 | 临行日 | - | - |
 | story_broca_set_1_story_1 | 信任的第一步 | The First Step Towards Trust | 信頼への第一歩 |
+| story_broca_set_2_story_1 | 愤怒的布洛卡 | - | - |
 | story_brownb_set_1_story_1 | 终场铃声 | Ending Bell | 決着のゴング |
 | story_bryota_set_1_story_1 | 风情街的日与夜 | Day & Night at Fashion Street | 商店街の日々 |
 | story_bstalk_set_1_story_1 | 呼唤荒野 | The Wilds Do They Call | 荒野への呼びかけ |
@@ -205,6 +207,7 @@ tip: 请善用浏览器的搜索功能
 | story_moeshd_set_1_story_1 | 生意场 | The Business | 商売とは |
 | story_morgan_set_1_story_1 | 巨轮之下 | Beneath the Worthy Wheel | 巨輪の下 |
 | story_mostma_set_1_story_1 | 高楼之上 | Atop the Skyscrapers | 高層ビルの上で |
+| story_mostma_set_2_story_1 | 旅途的注脚 | - | - |
 | story_mudrok_set_1_story_1 | 在卡兹戴尔 | In Kazdel | カズデルにて |
 | story_myrrh_set_1_story_1 | 护身符 | Lucky Charm | 御守り |
 | story_myrtle_set_1_story_1 | 任务报告填写指南 | Mission Report Filing Guide | 任務報告書作成指南 |
@@ -215,6 +218,7 @@ tip: 请善用浏览器的搜索功能
 | story_nights_set_1_story_1 | “猫猫” | 'Kitties' | 「ネコちゃん」 |
 | story_noirc_set_1_story_1 | 甲板另一侧 | The Other Side of the Deck | デッキの向こう側 |
 | story_nothin_set_1_story_1 | 落水人 | Drowning | 落水者 |
+| story_nowell_set_1_story_1 | 当我们人生开始时 | - | - |
 | story_orchid_set_1_story_1 | 未完成 | Incomplete | 未完成 |
 | story_otter_set_1_story_1 | 满满的日程表 | One Packed Daily Schedule | 仕事三昧 |
 | story_otter_set_2_story_1 | 造物之心 | Heart of Creation | 創り出す心 |
@@ -280,6 +284,7 @@ tip: 请善用浏览器的搜索功能
 | story_sophia_set_1_story_1 | 独家访谈 | Exclusive Interview | 独占インタビュー |
 | story_sora_set_1_story_1 | 距离 | Distance | 距離 |
 | story_sora_set_2_story_1 | 向舞台前进 | To the Stage! | 輝きへのステップ |
+| story_spikes_set_1_story_1 | 亲爱的兰道尔 | - | - |
 | story_spot_set_1_story_1 | 谁是英雄 | Face of the Hero | 英雄とは |
 | story_spuria_set_1_story_1 | 铳声回响 | A Gunshot Rings Out | 反響する銃声 |
 | story_sqrrel_set_1_story_1 | 小心火烛 | Careful of Flammables | 火の用心 |

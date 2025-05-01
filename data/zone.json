@@ -894,6 +894,15 @@
   "act41side_zone2": {
     "zh_CN": "将熄的火"
   },
+  "act42side_zone1": {
+    "zh_CN": "瞻望圣堂"
+  },
+  "act42side_zone2": {
+    "zh_CN": "谒见神祇"
+  },
+  "act42side_zone3": {
+    "zh_CN": "息止安所"
+  },
   "act4bossrush_zone1": {
     "en_US": "Threat Incoming",
     "ja_JP": "強敵襲来",

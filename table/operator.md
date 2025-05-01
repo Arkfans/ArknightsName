@@ -37,6 +37,7 @@ tip: 请善用浏览器的搜索功能
 | char_1039_thorn2 | 引星棘刺 | - | - |
 | char_103_angel | 能天使 | Exusiai | エクシア |
 | char_1040_blaze2 | 烛煌 | - | - |
+| char_1041_angel2 | 新约能天使 | - | - |
 | char_106_franka | 芙兰卡 | Franka | フランカ |
 | char_107_liskam | 雷蛇 | Liskarm | リスカム |
 | char_108_silent | 赫默 | Silence | サイレンス |
@@ -320,6 +321,10 @@ tip: 请善用浏览器的搜索功能
 | char_4177_brigid | 水灯心 | - | - |
 | char_4178_alanna | 阿兰娜 | - | - |
 | char_4179_monstr | Mon3tr | - | - |
+| char_4187_graceb | 聆音 | - | - |
+| char_4188_confes | CONFESS-47 | - | - |
+| char_4193_lemuen | 蕾缪安 | - | - |
+| char_4194_rmixer | 信仰搅拌机 | - | - |
 | char_420_flamtl | 焰尾 | Flametail | フレイムテイル |
 | char_421_crow | 羽毛笔 | La Pluma | ラ・プルマ |
 | char_422_aurora | 极光 | Aurora | オーロラ |

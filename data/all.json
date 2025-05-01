@@ -251,6 +251,12 @@
       "zh_CN": "烛煌"
     }
   },
+  "char_1041_angel2": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "新约能天使"
+    }
+  },
   "char_106_franka": {
     "type": "OPERATOR",
     "names": {
@@ -2493,6 +2499,30 @@
       "zh_CN": "Mon3tr"
     }
   },
+  "char_4187_graceb": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "聆音"
+    }
+  },
+  "char_4188_confes": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "CONFESS-47"
+    }
+  },
+  "char_4193_lemuen": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "蕾缪安"
+    }
+  },
+  "char_4194_rmixer": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "信仰搅拌机"
+    }
+  },
   "char_420_flamtl": {
     "type": "OPERATOR",
     "names": {
@@ -3485,6 +3515,12 @@
     "type": "TOKEN",
     "names": {
       "zh_CN": "重构体"
+    }
+  },
+  "token_10056_angel2_target": {
+    "type": "TOKEN",
+    "names": {
+      "zh_CN": "投递坐标"
     }
   },
   "trap_079_allydonq": {
@@ -5439,6 +5475,18 @@
       "zh_CN": "弩炮"
     }
   },
+  "trap_215_dqcrsbow": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "解雇者清债程序"
+    }
+  },
+  "trap_216_dqelec": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "梅什科线圈"
+    }
+  },
   "trap_218_fttree": {
     "type": "TRAP",
     "names": {
@@ -5509,6 +5557,30 @@
     "type": "TRAP",
     "names": {
       "zh_CN": "活性态萨卡兹术师结晶"
+    }
+  },
+  "trap_235_hlnpcm": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "圣徒像扮演者"
+    }
+  },
+  "trap_236_hlnpcs": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "圣堂射手扮演者"
+    }
+  },
+  "trap_237_hlnpcb": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "圣堂保育员扮演者"
+    }
+  },
+  "trap_250_hlctrl": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "寻根圣事"
     }
   },
   "trap_400_xbfarm": {
@@ -7295,6 +7367,12 @@
       "zh_CN": "《上任达维镇》"
     }
   },
+  "char_1035_wisdel@sale#14": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "超新星"
+    }
+  },
   "char_1037_amiya3@sale#13": {
     "type": "SKIN",
     "names": {
@@ -7469,6 +7547,12 @@
       "en_US": "Cruciata",
       "ja_JP": "交差点",
       "zh_CN": "十字郡"
+    }
+  },
+  "char_124_kroos@sale#14": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "星月漂流记"
     }
   },
   "char_124_kroos@witch#1": {
@@ -8257,6 +8341,12 @@
       "zh_CN": "地底三百米"
     }
   },
+  "char_230_savage@kitchen#3": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "家传秘方"
+    }
+  },
   "char_235_jesica@nian#2": {
     "type": "SKIN",
     "names": {
@@ -8691,6 +8781,12 @@
       "zh_CN": "随意而行"
     }
   },
+  "char_300_phenxi@boc#9": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "审判日"
+    }
+  },
   "char_300_phenxi@witch#4": {
     "type": "SKIN",
     "names": {
@@ -8789,6 +8885,12 @@
       "en_US": "Grave Thief",
       "ja_JP": "霊園の怪盗",
       "zh_CN": "安息处的怪盗"
+    }
+  },
+  "char_332_archet@sale#14": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "至虔者荣光"
     }
   },
   "char_332_archet@shining#1": {
@@ -9407,6 +9509,12 @@
       "zh_CN": "远路"
     }
   },
+  "char_4064_mlynar@iteration#3": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "苍茫怒号"
+    }
+  },
   "char_4065_judge@epoque#33": {
     "type": "SKIN",
     "names": {
@@ -9679,6 +9787,12 @@
       "zh_CN": "辉煌的静谧"
     }
   },
+  "char_4136_phonor@boc#9": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "最初的颂歌"
+    }
+  },
   "char_4141_marcil@dungeon#1": {
     "type": "SKIN",
     "names": {
@@ -9803,6 +9917,12 @@
       "en_US": "Priory of Abyss",
       "ja_JP": "幽遠のシスター",
       "zh_CN": "幽邃隐修"
+    }
+  },
+  "char_437_mizuki@game#6": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "永恒玩家"
     }
   },
   "char_437_mizuki@sale#7": {
@@ -10081,6 +10201,12 @@
       "en_US": "Justice Maker",
       "ja_JP": "ジャスティスメーカー",
       "zh_CN": "正义缔造者"
+    }
+  },
+  "char_497_ctable@epoque#44": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "湖畔歌者"
     }
   },
   "char_497_ctable@nian#9": {
@@ -11481,12 +11607,126 @@
       "zh_CN": "弱化节点"
     }
   },
+  "enemy_10083_hlbird": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“萨科塔之翼”"
+    }
+  },
+  "enemy_10083_hlbird_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“萨科塔展翅”"
+    }
+  },
+  "enemy_10084_hlegle": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“萨科塔之眼”"
+    }
+  },
+  "enemy_10084_hlegle_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“萨科塔见证”"
+    }
+  },
+  "enemy_10085_hllevi": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“萨科塔之鳍”"
+    }
+  },
+  "enemy_10085_hllevi_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“萨科塔昂首”"
+    }
+  },
+  "enemy_10086_hltigr": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“萨科塔之爪”"
+    }
+  },
+  "enemy_10086_hltigr_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“萨科塔匍匐”"
+    }
+  },
+  "enemy_10087_hlchgr": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "圣堂剑士"
+    }
+  },
+  "enemy_10087_hlchgr_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "精锐圣堂剑士"
+    }
+  },
+  "enemy_10088_hlsnip": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "圣堂射手"
+    }
+  },
+  "enemy_10088_hlsnip_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "精锐圣堂射手"
+    }
+  },
+  "enemy_10089_hlsprt": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "圣堂保育员"
+    }
+  },
+  "enemy_10089_hlsprt_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "资深圣堂保育员"
+    }
+  },
   "enemy_1008_ghost": {
     "type": "ENEMY",
     "names": {
       "en_US": "Wraith",
       "ja_JP": "ゴースト兵",
       "zh_CN": "幽灵"
+    }
+  },
+  "enemy_10090_hlgrd": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "圣堂布道员"
+    }
+  },
+  "enemy_10090_hlgrd_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "资深圣堂布道员"
+    }
+  },
+  "enemy_10091_hlsttu": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "圣徒像"
+    }
+  },
+  "enemy_10091_hlsttu_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "圣徒祈祷像"
+    }
+  },
+  "enemy_10091_hlsttu_3": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“牧首”"
     }
   },
   "enemy_1009_lurker": {
@@ -13078,7 +13318,7 @@
     "names": {
       "en_US": "Ursus Raider Leader",
       "ja_JP": "ウルサスコマンドス隊長",
-      "zh_CN": "乌萨斯突击队队长"
+      "zh_CN": "乌萨斯突击者队长"
     }
   },
   "enemy_1112_emppnt": {
@@ -16926,7 +17166,7 @@
     "names": {
       "en_US": "Sarkaz Boneguard Fluxcaster Captain\n",
       "ja_JP": "サルカズ骨骸流浪術師長",
-      "zh_CN": "萨卡兹骸骨漂泊术师长\n"
+      "zh_CN": "萨卡兹骸骨漂泊术师长"
     }
   },
   "enemy_1366_dcolle": {
@@ -18515,6 +18755,12 @@
     "type": "ENEMY",
     "names": {
       "zh_CN": "“阿斯卡纶”"
+    }
+  },
+  "enemy_1567_pope": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“圣徒”"
     }
   },
   "enemy_2001_duckmi": {
@@ -20605,6 +20851,12 @@
       "zh_CN": "未尽篇章"
     }
   },
+  "act11pray": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "幸运墙登录活动"
+    }
+  },
   "act11sre": {
     "type": "ACTIVITY",
     "names": {
@@ -21915,6 +22167,12 @@
       "zh_CN": "纷争演绎"
     }
   },
+  "act42side": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "众生行记"
+    }
+  },
   "act42sign": {
     "type": "ACTIVITY",
     "names": {
@@ -21967,6 +22225,12 @@
     "type": "ACTIVITY",
     "names": {
       "zh_CN": "2025跨年纪念限时活动"
+    }
+  },
+  "act49sign": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "六周年庆典签到活动"
     }
   },
   "act4bossrush": {
@@ -23842,6 +24106,12 @@
       "zh_CN": "欢宴良宵寻访凭证"
     }
   },
+  "LIMITED_TKT_GACHA_10_6101": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "信徒标兵寻访凭证"
+    }
+  },
   "LIMITED_TKT_GACHA_10_903": {
     "type": "ITEM",
     "names": {
@@ -24037,6 +24307,12 @@
     "names": {
       "en_US": "Headhunting Data Contract",
       "ja_JP": "限定契約証",
+      "zh_CN": "寻访数据契约"
+    }
+  },
+  "LMTGS_COIN_6101": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "寻访数据契约"
     }
   },
@@ -25228,6 +25504,12 @@
       "en_US": "Experimental Dataset",
       "ja_JP": "テストデータ集",
       "zh_CN": "试验数据集"
+    }
+  },
+  "act42side_token_pacifier": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "蒙恩的奶嘴"
     }
   },
   "act4bossrush_milestone_point": {
@@ -27911,6 +28193,12 @@
       "zh_CN": "烛煌的信物"
     }
   },
+  "p_char_1041_angel2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "新约能天使的信物"
+    }
+  },
   "p_char_106_franka": {
     "type": "ITEM",
     "names": {
@@ -30121,6 +30409,30 @@
       "zh_CN": "Mon3tr的信物"
     }
   },
+  "p_char_4187_graceb": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "聆音的信物"
+    }
+  },
+  "p_char_4188_confes": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "CONFESS-47的信物"
+    }
+  },
+  "p_char_4193_lemuen": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "蕾缪安的信物"
+    }
+  },
+  "p_char_4194_rmixer": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "信仰搅拌机的信物"
+    }
+  },
   "p_char_420_flamtl": {
     "type": "ITEM",
     "names": {
@@ -30755,6 +31067,12 @@
       "zh_CN": "狂欢烟花桶"
     }
   },
+  "randomMaterial_act42side": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "铳械工坊赠品盒"
+    }
+  },
   "randomMaterial_leith2": {
     "type": "ITEM",
     "names": {
@@ -30851,6 +31169,12 @@
       "zh_CN": "ID信息更新卡"
     }
   },
+  "renamingCard_0_061": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "ID信息更新卡"
+    }
+  },
   "renamingCard_30_018": {
     "type": "ITEM",
     "names": {
@@ -30912,6 +31236,12 @@
     "names": {
       "en_US": "ID Info Update Card",
       "ja_JP": "ID情報更新カード",
+      "zh_CN": "ID信息更新卡"
+    }
+  },
+  "renamingCard_30_061": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "ID信息更新卡"
     }
   },
@@ -31757,6 +32087,12 @@
       "zh_CN": "中坚高级干员调用凭证"
     }
   },
+  "voucher_class_pick6101": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "中坚高级干员调用凭证"
+    }
+  },
   "voucher_elite_II_4": {
     "type": "ITEM",
     "names": {
@@ -32097,6 +32433,12 @@
       "zh_CN": "高级干员调用凭证"
     }
   },
+  "voucher_item_pick6101": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "周年庆典干员凭证"
+    }
+  },
   "voucher_lessng": {
     "type": "ITEM",
     "names": {
@@ -32186,6 +32528,12 @@
     "names": {
       "en_US": "Senior Operator Transfer Permit",
       "ja_JP": "★5招聘指名券",
+      "zh_CN": "资深干员调用凭证"
+    }
+  },
+  "voucher_recruitR5_pick6101": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "资深干员调用凭证"
     }
   },
@@ -32637,6 +32985,12 @@
     "type": "POOL",
     "names": {
       "zh_CN": "炽吾生平"
+    }
+  },
+  "LIMITED_61_0_1": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "布道自由"
     }
   },
   "LIMITED_9_0_3": {
@@ -34340,6 +34694,24 @@
       "en_US": "Chimera",
       "ja_JP": "キメラ",
       "zh_CN": "奇美拉"
+    }
+  },
+  "skchr_angel2_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "天空大扫除"
+    }
+  },
+  "skchr_angel2_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "开火成瘾症"
+    }
+  },
+  "skchr_angel2_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "使命必达！"
     }
   },
   "skchr_angel_1": {
@@ -36190,6 +36562,18 @@
       "zh_CN": "乡音沉沉"
     }
   },
+  "skchr_graceb_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "开颅挽歌"
+    }
+  },
+  "skchr_graceb_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "破膛弥撒"
+    }
+  },
   "skchr_grani_2": {
     "type": "SKILL",
     "names": {
@@ -36996,6 +37380,24 @@
       "en_US": "Thunderclap",
       "ja_JP": "初雷",
       "zh_CN": "初雷"
+    }
+  },
+  "skchr_lemuen_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "重逢问候"
+    }
+  },
+  "skchr_lemuen_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "归乡邀约"
+    }
+  },
+  "skchr_lemuen_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "礼炮·强制追思"
     }
   },
   "skchr_lessng_1": {
@@ -38348,6 +38750,24 @@
       "en_US": "Incapacitated Prey",
       "ja_JP": "リーサルパシュート",
       "zh_CN": "击倒猎物"
+    }
+  },
+  "skchr_rmixer_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "铳骑主考官"
+    }
+  },
+  "skchr_rmixer_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "八臂电锯侠"
+    }
+  },
+  "skchr_rmixer_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "退休前布道"
     }
   },
   "skchr_robin_1": {
@@ -40782,6 +41202,24 @@
       "zh_CN": "幽影门扉"
     }
   },
+  "sktok_angel2_target_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "天空大扫除"
+    }
+  },
+  "sktok_angel2_target_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "开火成瘾症"
+    }
+  },
+  "sktok_angel2_target_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "使命必达！"
+    }
+  },
   "sktok_antidr": {
     "type": "SKILL",
     "names": {
@@ -41636,6 +42074,18 @@
       "zh_CN": "发射弩箭"
     }
   },
+  "sktok_dqcrsbow": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "清债程序"
+    }
+  },
+  "sktok_dqelec": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "通电！"
+    }
+  },
   "sktok_dqore": {
     "type": "SKILL",
     "names": {
@@ -41998,6 +42448,12 @@
       "en_US": "Destructible",
       "ja_JP": "撃破可能",
       "zh_CN": "可被击破"
+    }
+  },
+  "sktok_hlnpcb_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "苏醒"
     }
   },
   "sktok_inverter": {
@@ -47122,7 +47578,19 @@
       "zh_CN": "争锋试炼！"
     }
   },
+  "act1enemyduel_01b": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "争锋试炼！"
+    }
+  },
   "act1enemyduel_02a": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "争锋对决！"
+    }
+  },
+  "act1enemyduel_02b": {
     "type": "STAGE",
     "names": {
       "zh_CN": "争锋对决！"
@@ -50548,6 +51016,96 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "拨雾声"
+    }
+  },
+  "act42side_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "圣秩"
+    }
+  },
+  "act42side_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "祈祷"
+    }
+  },
+  "act42side_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "礼拜"
+    }
+  },
+  "act42side_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "求道"
+    }
+  },
+  "act42side_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "共融"
+    }
+  },
+  "act42side_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "告解"
+    }
+  },
+  "act42side_07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "丧礼"
+    }
+  },
+  "act42side_08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "朝圣"
+    }
+  },
+  "act42side_09": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "解经"
+    }
+  },
+  "act42side_10": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "降生"
+    }
+  },
+  "act42side_st01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "“堕天”"
+    }
+  },
+  "act42side_st02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "启圣"
+    }
+  },
+  "act42side_st03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "重逢"
+    }
+  },
+  "act42side_st04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "远行"
+    }
+  },
+  "act42side_tr01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "圣城的异常"
     }
   },
   "act4bossrush_01": {
@@ -57196,6 +57754,24 @@
       "zh_CN": "将熄的火"
     }
   },
+  "act42side_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "瞻望圣堂"
+    }
+  },
+  "act42side_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "谒见神祇"
+    }
+  },
+  "act42side_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "息止安所"
+    }
+  },
   "act4bossrush_zone1": {
     "type": "ZONE",
     "names": {
@@ -58272,6 +58848,12 @@
       "zh_CN": "异乡剑士"
     }
   },
+  "story_alanna_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "再见一面"
+    }
+  },
   "story_almond_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -58594,6 +59176,12 @@
       "en_US": "The First Step Towards Trust",
       "ja_JP": "信頼への第一歩",
       "zh_CN": "信任的第一步"
+    }
+  },
+  "story_broca_set_2_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "愤怒的布洛卡"
     }
   },
   "story_brownb_set_1_story_1": {
@@ -59790,6 +60378,12 @@
       "zh_CN": "高楼之上"
     }
   },
+  "story_mostma_set_2_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "旅途的注脚"
+    }
+  },
   "story_mudrok_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -59868,6 +60462,12 @@
       "en_US": "Drowning",
       "ja_JP": "落水者",
       "zh_CN": "落水人"
+    }
+  },
+  "story_nowell_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "当我们人生开始时"
     }
   },
   "story_orchid_set_1_story_1": {
@@ -60384,6 +60984,12 @@
       "en_US": "To the Stage!",
       "ja_JP": "輝きへのステップ",
       "zh_CN": "向舞台前进"
+    }
+  },
+  "story_spikes_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "亲爱的兰道尔"
     }
   },
   "story_spot_set_1_story_1": {

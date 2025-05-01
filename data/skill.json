@@ -207,6 +207,15 @@
     "ja_JP": "キメラ",
     "zh_CN": "奇美拉"
   },
+  "skchr_angel2_1": {
+    "zh_CN": "天空大扫除"
+  },
+  "skchr_angel2_2": {
+    "zh_CN": "开火成瘾症"
+  },
+  "skchr_angel2_3": {
+    "zh_CN": "使命必达！"
+  },
   "skchr_angel_1": {
     "en_US": "Charging Mode",
     "ja_JP": "アサルトモード",
@@ -1356,6 +1365,12 @@
     "ja_JP": "郷愁を誘う子守歌",
     "zh_CN": "乡音沉沉"
   },
+  "skchr_graceb_1": {
+    "zh_CN": "开颅挽歌"
+  },
+  "skchr_graceb_2": {
+    "zh_CN": "破膛弥撒"
+  },
   "skchr_grani_2": {
     "en_US": "Press the Attack!",
     "ja_JP": "引かない！",
@@ -1860,6 +1875,15 @@
     "en_US": "Thunderclap",
     "ja_JP": "初雷",
     "zh_CN": "初雷"
+  },
+  "skchr_lemuen_1": {
+    "zh_CN": "重逢问候"
+  },
+  "skchr_lemuen_2": {
+    "zh_CN": "归乡邀约"
+  },
+  "skchr_lemuen_3": {
+    "zh_CN": "礼炮·强制追思"
   },
   "skchr_lessng_1": {
     "en_US": "Power Strike γ",
@@ -2699,6 +2723,15 @@
     "en_US": "Incapacitated Prey",
     "ja_JP": "リーサルパシュート",
     "zh_CN": "击倒猎物"
+  },
+  "skchr_rmixer_1": {
+    "zh_CN": "铳骑主考官"
+  },
+  "skchr_rmixer_2": {
+    "zh_CN": "八臂电锯侠"
+  },
+  "skchr_rmixer_3": {
+    "zh_CN": "退休前布道"
   },
   "skchr_robin_1": {
     "en_US": "Binding 'Clip'",
@@ -4130,6 +4163,15 @@
     "ja_JP": "幽影の扉",
     "zh_CN": "幽影门扉"
   },
+  "sktok_angel2_target_1": {
+    "zh_CN": "天空大扫除"
+  },
+  "sktok_angel2_target_2": {
+    "zh_CN": "开火成瘾症"
+  },
+  "sktok_angel2_target_3": {
+    "zh_CN": "使命必达！"
+  },
   "sktok_antidr": {
     "en_US": "Drone Interference",
     "ja_JP": "ドローン妨害",
@@ -4654,6 +4696,12 @@
   "sktok_dqballis": {
     "zh_CN": "发射弩箭"
   },
+  "sktok_dqcrsbow": {
+    "zh_CN": "清债程序"
+  },
+  "sktok_dqelec": {
+    "zh_CN": "通电！"
+  },
   "sktok_dqore": {
     "zh_CN": "脉冲波"
   },
@@ -4876,6 +4924,9 @@
     "en_US": "Destructible",
     "ja_JP": "撃破可能",
     "zh_CN": "可被击破"
+  },
+  "sktok_hlnpcb_1": {
+    "zh_CN": "苏醒"
   },
   "sktok_inverter": {
     "en_US": "Warping Reality",

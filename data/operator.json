@@ -155,6 +155,9 @@
   "char_1040_blaze2": {
     "zh_CN": "烛煌"
   },
+  "char_1041_angel2": {
+    "zh_CN": "新约能天使"
+  },
   "char_106_franka": {
     "en_US": "Franka",
     "ja_JP": "フランカ",
@@ -1547,6 +1550,18 @@
   },
   "char_4179_monstr": {
     "zh_CN": "Mon3tr"
+  },
+  "char_4187_graceb": {
+    "zh_CN": "聆音"
+  },
+  "char_4188_confes": {
+    "zh_CN": "CONFESS-47"
+  },
+  "char_4193_lemuen": {
+    "zh_CN": "蕾缪安"
+  },
+  "char_4194_rmixer": {
+    "zh_CN": "信仰搅拌机"
   },
   "char_420_flamtl": {
     "en_US": "Flametail",

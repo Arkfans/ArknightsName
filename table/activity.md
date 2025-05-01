@@ -17,6 +17,7 @@ tip: 请善用浏览器的搜索功能
 | act11d7 | 火蓝之心·复刻 | Heart of Surging Flame - Rerun | 青く燃ゆる心・復刻 |
 | act11login | 《明日方舟：黎明前奏》开播纪念活动 | - | - |
 | act11mini | 未尽篇章 | To Be Continued | 未完の断章 |
+| act11pray | 幸运墙登录活动 | - | - |
 | act11sre | 覆潮之下·复刻 | Under Tides - Rerun | 潮汐の下・復刻 |
 | act12d0 | 密林悍将归来 | The Great Chief Returns | 帰還！密林の長 |
 | act12d6 | 刻俄柏的灰蕈迷境 | Ceobe's Fungimist | ケオベの茸狩迷界 |
@@ -192,6 +193,7 @@ Event | なないろのお茶会 |
 | act41sign | 沉沙赫日签到活动 | Brilliant Sun Rippling Sand Sign-In Event | 5周年
 スタンプ |
 | act42d0 | 纷争演绎 | Design of Strife | 紛争演繹 |
+| act42side | 众生行记 | - | - |
 | act42sign | 品鉴泰拉魔物 | Have A Taste Of Terran Monsters | テラ魔物品評 |
 | act43sign | 良辰迎月签到活动 | A Good Moony Time Login Event | 嘉辰令月スタンプ |
 | act44sign | 构想试炼签到活动 | Conceptual Crucible Login Event | 仮想試練スタンプ |
@@ -199,6 +201,7 @@ Event | なないろのお茶会 |
 | act46sign | 感谢庆典限时签到 | Thank-You Celebration Limited-Time Sign-In | 大感謝祭スタンプ |
 | act47sign | 感谢庆典补给签到 | Thank-You Celebration Sign-In Resupplies | 大感謝祭補給スタンプ |
 | act48sign | 2025跨年纪念限时活动 | - | - |
+| act49sign | 六周年庆典签到活动 | - | - |
 | act4bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act4d0 | 战地秘闻 | Operational Intelligence | 戦地の逸話 |
 | act4d2 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |

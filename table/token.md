@@ -57,4 +57,5 @@ tip: 请善用浏览器的搜索功能
 | token_10044_wulfen_mine | 矿石“杀手” | - | - |
 | token_10045_alanna_crane | 小螺帽 | - | - |
 | token_10050_monstr_prosts | 重构体 | - | - |
+| token_10056_angel2_target | 投递坐标 | - | - |
 | trap_079_allydonq | 猎潮的骑士 | Tide-Hunt Knight | 猟潮の騎士 |

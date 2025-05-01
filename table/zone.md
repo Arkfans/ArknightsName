@@ -192,6 +192,9 @@ tip: 请善用浏览器的搜索功能
 | act40side_zone3 | 怅别离 | - | - |
 | act41side_zone1 | 摇曳的影 | - | - |
 | act41side_zone2 | 将熄的火 | - | - |
+| act42side_zone1 | 瞻望圣堂 | - | - |
+| act42side_zone2 | 谒见神祇 | - | - |
+| act42side_zone3 | 息止安所 | - | - |
 | act4bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act5d0_zone1 | 下城区 | Downtown | 繁華街 |
 | act5d0_zone2 | 东部郊区 | Eastern Suburbs | 東部郊外 |

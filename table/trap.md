@@ -270,6 +270,8 @@ tip: 请善用浏览器的搜索功能
 | trap_212_cjbtow | 废弃火灶 | - | - |
 | trap_213_dqore | 源石祭坛 | - | - |
 | trap_214_dqballis | 弩炮 | - | - |
+| trap_215_dqcrsbow | 解雇者清债程序 | - | - |
+| trap_216_dqelec | 梅什科线圈 | - | - |
 | trap_218_fttree | 树丛 | - | - |
 | trap_219_fttreant | 盾与墙 | - | - |
 | trap_220_ftbone | 旧日之火 | - | - |
@@ -282,6 +284,10 @@ tip: 请善用浏览器的搜索功能
 | trap_232_mpgroub | “风雪中的影子” | - | - |
 | trap_233_mpmage | 稳定态萨卡兹术师结晶 | - | - |
 | trap_234_mpmageb | 活性态萨卡兹术师结晶 | - | - |
+| trap_235_hlnpcm | 圣徒像扮演者 | - | - |
+| trap_236_hlnpcs | 圣堂射手扮演者 | - | - |
+| trap_237_hlnpcb | 圣堂保育员扮演者 | - | - |
+| trap_250_hlctrl | 寻根圣事 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |
 | trap_401_xbfato | 木材采集站 | Sawing Harvester Hub | 木材採取基地 |
 | trap_403_wfactory | 蟹蟹抽水泵 | Crabbie Pumpie | カニカニポンプ |

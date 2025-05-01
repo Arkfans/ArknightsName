@@ -1823,7 +1823,13 @@
   "act1enemyduel_01a": {
     "zh_CN": "争锋试炼！"
   },
+  "act1enemyduel_01b": {
+    "zh_CN": "争锋试炼！"
+  },
   "act1enemyduel_02a": {
+    "zh_CN": "争锋对决！"
+  },
+  "act1enemyduel_02b": {
     "zh_CN": "争锋对决！"
   },
   "act1lock_a-01": {
@@ -3906,6 +3912,51 @@
   },
   "act41side_tr01": {
     "zh_CN": "拨雾声"
+  },
+  "act42side_01": {
+    "zh_CN": "圣秩"
+  },
+  "act42side_02": {
+    "zh_CN": "祈祷"
+  },
+  "act42side_03": {
+    "zh_CN": "礼拜"
+  },
+  "act42side_04": {
+    "zh_CN": "求道"
+  },
+  "act42side_05": {
+    "zh_CN": "共融"
+  },
+  "act42side_06": {
+    "zh_CN": "告解"
+  },
+  "act42side_07": {
+    "zh_CN": "丧礼"
+  },
+  "act42side_08": {
+    "zh_CN": "朝圣"
+  },
+  "act42side_09": {
+    "zh_CN": "解经"
+  },
+  "act42side_10": {
+    "zh_CN": "降生"
+  },
+  "act42side_st01": {
+    "zh_CN": "“堕天”"
+  },
+  "act42side_st02": {
+    "zh_CN": "启圣"
+  },
+  "act42side_st03": {
+    "zh_CN": "重逢"
+  },
+  "act42side_st04": {
+    "zh_CN": "远行"
+  },
+  "act42side_tr01": {
+    "zh_CN": "圣城的异常"
   },
   "act4bossrush_01": {
     "en_US": "Frost and Fire",

@@ -379,7 +379,9 @@ tip: 请善用浏览器的搜索功能
 | act1bossrush_03 | 风沙轰隆隆 | Rolling Sands | 塵旋風とどろく |
 | act1bossrush_04 | 理念之争 | Clash of Ideologies | 理念の戦 |
 | act1enemyduel_01a | 争锋试炼！ | - | - |
+| act1enemyduel_01b | 争锋试炼！ | - | - |
 | act1enemyduel_02a | 争锋对决！ | - | - |
+| act1enemyduel_02b | 争锋对决！ | - | - |
 | act1lock_a-01 | 拂晓之处-认识 | Daybreak Point - Awareness | 黎明の域-認識 |
 | act1lock_a-02 | 拂晓之处-理想 | Daybreak Point - Ideal | 黎明の域-理想 |
 | act1lock_a-03 | 拂晓之处-感官 | Daybreak Point - Sense | 黎明の域-感官 |
@@ -827,6 +829,21 @@ tip: 请善用浏览器的搜索功能
 | act41side_st02 | 罗曼史已死 | - | - |
 | act41side_st03 | 封底纪事 | - | - |
 | act41side_tr01 | 拨雾声 | - | - |
+| act42side_01 | 圣秩 | - | - |
+| act42side_02 | 祈祷 | - | - |
+| act42side_03 | 礼拜 | - | - |
+| act42side_04 | 求道 | - | - |
+| act42side_05 | 共融 | - | - |
+| act42side_06 | 告解 | - | - |
+| act42side_07 | 丧礼 | - | - |
+| act42side_08 | 朝圣 | - | - |
+| act42side_09 | 解经 | - | - |
+| act42side_10 | 降生 | - | - |
+| act42side_st01 | “堕天” | - | - |
+| act42side_st02 | 启圣 | - | - |
+| act42side_st03 | 重逢 | - | - |
+| act42side_st04 | 远行 | - | - |
+| act42side_tr01 | 圣城的异常 | - | - |
 | act4bossrush_01 | 冰霜与战火 | Frost and Fire | 氷霜と戦火 |
 | act4bossrush_02 | 无关音律 | Out Of Tune | アウトオブチューン |
 | act4bossrush_03 | 延烧的深池 | Dublinn Burning | 延焼する葦沼 |
