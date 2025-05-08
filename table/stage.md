@@ -421,11 +421,11 @@ tip: 请善用浏览器的搜索功能
 | act1multi_tr01 | 规则教学-常规项目 | - | - |
 | act1multi_tr02 | 规则教学-阵地足球 | - | - |
 | act1multi_tr03 | 规则教学-堡垒守御 | - | - |
-| act1vautochess_m01 | AC-TR-1 | - | - |
-| act1vautochess_m02 | AC-1 | - | - |
-| act1vautochess_m03 | AC-2 | - | - |
-| act1vautochess_m04 | AC-2 | - | - |
-| act1vautochess_m05 | AC-2 | - | - |
+| act1vautochess_m01 | AC-TR-1 | - | AC-TR-1 |
+| act1vautochess_m02 | AC-1 | - | AC-1 |
+| act1vautochess_m03 | AC-2 | - | AC-2 |
+| act1vautochess_m04 | AC-2 | - | AC-2 |
+| act1vautochess_m05 | AC-2 | - | AC-2 |
 | act1vecb_01 | 拳拳生风 | Fistful of Wind | 風立つ拳 |
 | act1vecb_02 | 低温征兆 | Hypothermia Omen | 低温の兆し |
 | act1vecb_03 | 重荷 | Burdened | 重荷 |

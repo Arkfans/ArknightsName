@@ -475,33 +475,43 @@
     "zh_CN": "眩光手雷"
   },
   "trap_1000_acarm000": {
+    "ja_JP": "小盾",
     "zh_CN": "小盾"
   },
   "trap_1001_acarm001": {
+    "ja_JP": "短剣",
     "zh_CN": "短剑"
   },
   "trap_1002_acarm002": {
+    "ja_JP": "ラッキーコイン",
     "zh_CN": "幸运币"
   },
   "trap_1003_acarm003": {
+    "ja_JP": "氷",
     "zh_CN": "冰块"
   },
   "trap_1004_acarm004": {
+    "ja_JP": "レーション",
     "zh_CN": "压缩饼干"
   },
   "trap_1005_acarm005": {
+    "ja_JP": "ビーコン",
     "zh_CN": "信标"
   },
   "trap_1006_acarm006": {
+    "ja_JP": "源岩ナイフ",
     "zh_CN": "源岩匕首"
   },
   "trap_1007_acarm007": {
+    "ja_JP": "源石溶剤",
     "zh_CN": "源石溶剂"
   },
   "trap_1008_acarm008": {
+    "ja_JP": "レーザー発射機",
     "zh_CN": "激光发射器"
   },
   "trap_1009_acarm009": {
+    "ja_JP": "カランド貿易ファイル",
     "zh_CN": "喀兰贸易文档"
   },
   "trap_100_mhlbmb": {
@@ -510,33 +520,43 @@
     "zh_CN": "高能源石爆桶"
   },
   "trap_1010_acarm010": {
+    "ja_JP": "カジミエーシュファイル",
     "zh_CN": "卡西米尔文档"
   },
   "trap_1011_acarm011": {
+    "ja_JP": "アビサルハンターファイル",
     "zh_CN": "深海猎人文档"
   },
   "trap_1012_acarm012": {
+    "ja_JP": "渋茶",
     "zh_CN": "浓茶"
   },
   "trap_1013_acarm013": {
+    "ja_JP": "警報器",
     "zh_CN": "蜂鸣器"
   },
   "trap_1014_acarm014": {
+    "ja_JP": "倹約家の人形",
     "zh_CN": "精打细算玩偶"
   },
   "trap_1015_acarm015": {
+    "ja_JP": "守銭奴の人形",
     "zh_CN": "见钱眼开玩偶"
   },
   "trap_1016_acarm016": {
+    "ja_JP": "予備隊員昇進許可",
     "zh_CN": "预备进阶许可"
   },
   "trap_1017_acarm017": {
+    "ja_JP": "戦場分析装置",
     "zh_CN": "战场分析仪"
   },
   "trap_1018_acarm018": {
+    "ja_JP": "スタングレネード",
     "zh_CN": "震撼弹"
   },
   "trap_1019_acarm019": {
+    "ja_JP": "制式重装シールド",
     "zh_CN": "制式重装盾"
   },
   "trap_101_mhshok": {
@@ -545,33 +565,43 @@
     "zh_CN": "高压脉冲诡雷"
   },
   "trap_1020_acarm020": {
+    "ja_JP": "制式狙撃ゴーグル",
     "zh_CN": "制式狙击镜"
   },
   "trap_1021_acarm021": {
+    "ja_JP": "制式術師ロッド",
     "zh_CN": "制式术师杖"
   },
   "trap_1022_acarm022": {
+    "ja_JP": "携帯式アーツバリア",
     "zh_CN": "口袋法阵"
   },
   "trap_1023_acarm023": {
+    "ja_JP": "競技アーケードマシン",
     "zh_CN": "竞技投币机"
   },
   "trap_1024_acarm024": {
+    "ja_JP": "職人のハンマー",
     "zh_CN": "工匠锤"
   },
   "trap_1025_acarm025": {
+    "ja_JP": "眠れる眷属",
     "zh_CN": "休眠子裔"
   },
   "trap_1026_acarm026": {
+    "ja_JP": "術師ドローン",
     "zh_CN": "术师无人机"
   },
   "trap_1027_acarm027": {
+    "ja_JP": "カジミエーシュのオブジェ",
     "zh_CN": "卡西米尔模型"
   },
   "trap_1028_acarm028": {
+    "ja_JP": "カランド貿易のオブジェ",
     "zh_CN": "喀兰贸易模型"
   },
   "trap_1029_acarm029": {
+    "ja_JP": "アビサルハンターのオブジェ",
     "zh_CN": "深海猎人模型"
   },
   "trap_102_mhwrbg": {
@@ -580,33 +610,43 @@
     "zh_CN": "滞空牵引无人机"
   },
   "trap_1030_acarm030": {
+    "ja_JP": "エリート重装セット",
     "zh_CN": "精英重装套组"
   },
   "trap_1031_acarm031": {
+    "ja_JP": "エリート狙撃セット",
     "zh_CN": "精英狙击套组"
   },
   "trap_1032_acarm032": {
+    "ja_JP": "エリート術師セット",
     "zh_CN": "精英术师套组"
   },
   "trap_1033_acarm033": {
+    "ja_JP": "ゴリアテの兜",
     "zh_CN": "歌利亚头盔"
   },
   "trap_1034_acarm034": {
+    "ja_JP": "M3アーマー",
     "zh_CN": "M3护甲"
   },
   "trap_1035_acarm035": {
+    "ja_JP": "M3クロー",
     "zh_CN": "M3利爪"
   },
   "trap_1036_acarm036": {
+    "ja_JP": "携帯式射出装置",
     "zh_CN": "便携弹射器"
   },
   "trap_1037_acarm037": {
+    "ja_JP": "有限加速マシン",
     "zh_CN": "有限加速器"
   },
   "trap_1038_acarm038": {
+    "ja_JP": "万能ロボットアーム",
     "zh_CN": "全能机械臂"
   },
   "trap_1039_acarm039": {
+    "ja_JP": "ドクターのホログラム",
     "zh_CN": "博士投影"
   },
   "trap_103_ymdgct": {
@@ -635,33 +675,43 @@
     "zh_CN": "空间稳定设施"
   },
   "trap_1080_acspell001": {
+    "ja_JP": "アーツ：治療",
     "zh_CN": "法术：恢复"
   },
   "trap_1081_acspell002": {
+    "ja_JP": "アーツ：剛力",
     "zh_CN": "法术：力量"
   },
   "trap_1082_acspell003": {
+    "ja_JP": "アーツ：伝動",
     "zh_CN": "法术：传动"
   },
   "trap_1083_acspell004": {
+    "ja_JP": "アーツ：貪欲",
     "zh_CN": "法术：贪婪"
   },
   "trap_1084_acspell005": {
+    "ja_JP": "アーツ：充足",
     "zh_CN": "法术：满足"
   },
   "trap_1085_acspell006": {
+    "ja_JP": "アーツ：防壁",
     "zh_CN": "法术：护盾"
   },
   "trap_1086_acspell007": {
+    "ja_JP": "アーツ：昇進",
     "zh_CN": "法术：榜样"
   },
   "trap_1087_acspell008": {
+    "ja_JP": "アーツ：護身",
     "zh_CN": "法术：屏障"
   },
   "trap_1088_acspell009": {
+    "ja_JP": "アーツ：伝心",
     "zh_CN": "法术：熟人"
   },
   "trap_1089_acspell010": {
+    "ja_JP": "アーツ：同行",
     "zh_CN": "法术：同行"
   },
   "trap_108_smbox": {
@@ -670,30 +720,39 @@
     "zh_CN": "宝箱"
   },
   "trap_1090_acspell011": {
+    "ja_JP": "アーツ：向上",
     "zh_CN": "法术：提升"
   },
   "trap_1091_acspell012": {
+    "ja_JP": "アーツ：緩速",
     "zh_CN": "法术：迟缓"
   },
   "trap_1093_acspell014": {
+    "ja_JP": "アーツ：全力",
     "zh_CN": "法术：全力"
   },
   "trap_1094_acspell015": {
+    "ja_JP": "アーツ：血税",
     "zh_CN": "法术：血税"
   },
   "trap_1095_acspell016": {
+    "ja_JP": "アーツ：奇兵",
     "zh_CN": "法术：破袭"
   },
   "trap_1096_acshopup": {
+    "ja_JP": "補給船操舵手",
     "zh_CN": "驳船操作员"
   },
   "trap_1097_acshopre": {
+    "ja_JP": "物資調達器",
     "zh_CN": "补给调配器"
   },
   "trap_1098_acshopfr": {
+    "ja_JP": "物資保管器",
     "zh_CN": "补给留存器"
   },
   "trap_1099_acspell017": {
+    "ja_JP": "昇進配分許可証",
     "zh_CN": "晋升调配特许"
   },
   "trap_109_smrbox": {
@@ -702,9 +761,11 @@
     "zh_CN": "尖刺宝箱"
   },
   "trap_1100_acreddoor": {
+    "ja_JP": "敵の入口",
     "zh_CN": "敌人入口"
   },
   "trap_1101_acplane": {
+    "ja_JP": "補給船",
     "zh_CN": "补给驳船"
   },
   "trap_110_smbbox": {
