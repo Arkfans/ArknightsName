@@ -15,14 +15,17 @@
     "zh_CN": "“为我所为”"
   },
   "skchr_accast_1": {
+    "en_US": "'All That I Author'",
     "ja_JP": "「我が記すものを記せ」",
     "zh_CN": "“书我所书”"
   },
   "skchr_accast_2": {
+    "en_US": "'All That I Do'",
     "ja_JP": "「我が成すことを成せ」",
     "zh_CN": "“为我所为”"
   },
   "skchr_accast_3": {
+    "en_US": "'All That I Command'",
     "ja_JP": "「我が御すものを御せ」",
     "zh_CN": "“驭我所驭”"
   },
@@ -37,86 +40,107 @@
     "zh_CN": "扳机时刻"
   },
   "skchr_acfend_1": {
+    "en_US": "Structural Stability",
     "ja_JP": "構造堅牢化",
     "zh_CN": "结构稳定"
   },
   "skchr_acfend_2": {
+    "en_US": "Invariance Principle",
     "ja_JP": "不変性原理",
     "zh_CN": "不变性原理"
   },
   "skchr_acfend_3": {
+    "en_US": "Stress Inversion",
     "ja_JP": "応力反転",
     "zh_CN": "应力倒置"
   },
   "skchr_acguad_1": {
+    "en_US": "Swiftblade",
     "ja_JP": "快刀",
     "zh_CN": "快刀"
   },
   "skchr_acguad_2": {
+    "en_US": "Drawing Sword",
     "ja_JP": "鋭刃",
     "zh_CN": "亮剑"
   },
   "skchr_acguad_3": {
+    "en_US": "To The Bitter End",
     "ja_JP": "死力",
     "zh_CN": "力战不竭"
   },
   "skchr_acmedc_1": {
+    "en_US": "Generous Gift",
     "ja_JP": "高潔なる贈与",
     "zh_CN": "慨赠"
   },
   "skchr_acmedc_2": {
+    "en_US": "Apocalyptic Scene",
     "ja_JP": "天啓の光",
     "zh_CN": "宛如天启"
   },
   "skchr_acmedc_3": {
+    "en_US": "Earnest Gospel",
     "ja_JP": "懇願の福音",
     "zh_CN": "恳切福音"
   },
   "skchr_acnipe_1": {
+    "en_US": "Skyshatter",
     "ja_JP": "破空",
     "zh_CN": "破空"
   },
   "skchr_acnipe_2": {
+    "en_US": "One With the Bow",
     "ja_JP": "心技一体",
     "zh_CN": "心手合一"
   },
   "skchr_acnipe_3": {
+    "en_US": "Pronation",
     "ja_JP": "旋風矢",
     "zh_CN": "旋臂"
   },
   "skchr_acpion_1": {
+    "en_US": "Estocada",
     "ja_JP": "貫心",
     "zh_CN": "钻心"
   },
   "skchr_acpion_2": {
+    "en_US": "Ráfaga",
     "ja_JP": "瞬迅",
     "zh_CN": "迅瞬"
   },
   "skchr_acpion_3": {
+    "en_US": "Lingering Scent",
     "ja_JP": "残り香",
     "zh_CN": "只余芬芳"
   },
   "skchr_acspec_1": {
+    "en_US": "When Physics Obeys",
     "ja_JP": "服従せし法則",
     "zh_CN": "物理的服从"
   },
   "skchr_acspec_2": {
+    "en_US": "When War Complies",
     "ja_JP": "恭順せし戦争",
     "zh_CN": "战争的恭顺"
   },
   "skchr_acspec_3": {
+    "en_US": "When Space Surrenders",
     "ja_JP": "帰依せし空間",
     "zh_CN": "空间的归依"
   },
   "skchr_acsupo_1": {
+    "en_US": "Diphony",
     "ja_JP": "双音",
     "zh_CN": "双声"
   },
   "skchr_acsupo_2": {
+    "en_US": "Triform",
     "ja_JP": "三形",
     "zh_CN": "三形"
   },
   "skchr_acsupo_3": {
+    "en_US": "Impulse Signal",
     "ja_JP": "躍動するシグナル",
     "zh_CN": "信号跃动"
   },
@@ -3737,14 +3761,17 @@
     "zh_CN": "攻击力强化·γ型"
   },
   "skcom_born_up[1]": {
+    "en_US": "Hit and Run α",
     "ja_JP": "一撃離脱α",
     "zh_CN": "一击即退·α型"
   },
   "skcom_born_up[2]": {
+    "en_US": "Hit and Run β",
     "ja_JP": "一撃離脱β",
     "zh_CN": "一击即退·β型"
   },
   "skcom_born_up[3]": {
+    "en_US": "Hit and Run γ",
     "ja_JP": "一撃離脱γ",
     "zh_CN": "一击即退·γ型"
   },
@@ -3849,398 +3876,497 @@
     "zh_CN": "自我销毁"
   },
   "sktok_acarm000_1": {
+    "en_US": "Small Shield",
     "ja_JP": "小盾",
     "zh_CN": "小盾"
   },
   "sktok_acarm000_2": {
+    "en_US": "Small Shield",
     "ja_JP": "小盾",
     "zh_CN": "小盾"
   },
   "sktok_acarm001_1": {
+    "en_US": "Dirk",
     "ja_JP": "短剣",
     "zh_CN": "短剑"
   },
   "sktok_acarm001_2": {
+    "en_US": "Dirk",
     "ja_JP": "短剣",
     "zh_CN": "短剑"
   },
   "sktok_acarm002_1": {
+    "en_US": "Lucky Coin",
     "ja_JP": "ラッキーコイン",
     "zh_CN": "幸运币"
   },
   "sktok_acarm002_2": {
+    "en_US": "Lucky Coin",
     "ja_JP": "ラッキーコイン",
     "zh_CN": "幸运币"
   },
   "sktok_acarm003_1": {
+    "en_US": "Chunk of Ice",
     "ja_JP": "氷",
     "zh_CN": "冰块"
   },
   "sktok_acarm003_2": {
+    "en_US": "Chunk of Ice",
     "ja_JP": "氷",
     "zh_CN": "冰块"
   },
   "sktok_acarm004_1": {
+    "en_US": "Hardtack",
     "ja_JP": "レーション",
     "zh_CN": "压缩饼干"
   },
   "sktok_acarm004_2": {
+    "en_US": "Hardtack",
     "ja_JP": "レーション",
     "zh_CN": "压缩饼干"
   },
   "sktok_acarm005_1": {
+    "en_US": "Transmitter",
     "ja_JP": "ビーコン",
     "zh_CN": "信标"
   },
   "sktok_acarm005_2": {
+    "en_US": "Transmitter",
     "ja_JP": "ビーコン",
     "zh_CN": "信标"
   },
   "sktok_acarm006_1": {
+    "en_US": "Orirock Dagger",
     "ja_JP": "源岩ナイフ",
     "zh_CN": "源岩匕首"
   },
   "sktok_acarm006_2": {
+    "en_US": "Orirock Dagger",
     "ja_JP": "源岩ナイフ",
     "zh_CN": "源岩匕首"
   },
   "sktok_acarm007_1": {
+    "en_US": "Originium Solvent",
     "ja_JP": "源石溶剤",
     "zh_CN": "源石溶剂"
   },
   "sktok_acarm007_2": {
+    "en_US": "Originium Solvent",
     "ja_JP": "源石溶剤",
     "zh_CN": "源石溶剂"
   },
   "sktok_acarm008_1": {
+    "en_US": "Laser Sighter",
     "ja_JP": "レーザー発射機",
     "zh_CN": "激光发射器"
   },
   "sktok_acarm008_2": {
+    "en_US": "Laser Sighter",
     "ja_JP": "レーザー発射機",
     "zh_CN": "激光发射器"
   },
   "sktok_acarm009_1": {
+    "en_US": "Karlan Trade File",
     "ja_JP": "カランド貿易ファイル",
     "zh_CN": "喀兰贸易文档"
   },
   "sktok_acarm009_2": {
+    "en_US": "Karlan Trade File",
     "ja_JP": "カランド貿易ファイル",
     "zh_CN": "喀兰贸易文档"
   },
   "sktok_acarm010_1": {
+    "en_US": "Kazimierz File",
     "ja_JP": "カジミエーシュファイル",
     "zh_CN": "卡西米尔文档"
   },
   "sktok_acarm010_2": {
+    "en_US": "Kazimierz File",
     "ja_JP": "カジミエーシュファイル",
     "zh_CN": "卡西米尔文档"
   },
   "sktok_acarm011_1": {
+    "en_US": "Abyssal Hunter File",
     "ja_JP": "アビサルハンターファイル",
     "zh_CN": "深海猎人文档"
   },
   "sktok_acarm011_2": {
+    "en_US": "Abyssal Hunter File",
     "ja_JP": "アビサルハンターファイル",
     "zh_CN": "深海猎人文档"
   },
   "sktok_acarm012_1": {
+    "en_US": "Strong Tea",
     "ja_JP": "渋茶",
     "zh_CN": "浓茶"
   },
   "sktok_acarm012_2": {
+    "en_US": "Strong Tea",
     "ja_JP": "渋茶",
     "zh_CN": "浓茶"
   },
   "sktok_acarm013_1": {
+    "en_US": "Buzzer",
     "ja_JP": "警報器",
     "zh_CN": "蜂鸣器"
   },
   "sktok_acarm013_2": {
+    "en_US": "Buzzer",
     "ja_JP": "警報器",
     "zh_CN": "蜂鸣器"
   },
   "sktok_acarm014_1": {
+    "en_US": "Budget-Savvy Doll",
     "ja_JP": "倹約家の人形",
     "zh_CN": "精打细算玩偶"
   },
   "sktok_acarm014_2": {
+    "en_US": "Budget-Savvy Doll",
     "ja_JP": "倹約家の人形",
     "zh_CN": "精打细算玩偶"
   },
   "sktok_acarm015_1": {
+    "en_US": "Money-Grubbing Doll",
     "ja_JP": "守銭奴の人形",
     "zh_CN": "见钱眼开玩偶"
   },
   "sktok_acarm015_2": {
+    "en_US": "Money-Grubbing Doll",
     "ja_JP": "守銭奴の人形",
     "zh_CN": "见钱眼开玩偶"
   },
   "sktok_acarm016_1": {
+    "en_US": "Promotion Permit",
     "ja_JP": "予備隊員昇進許可",
     "zh_CN": "预备进阶许可"
   },
   "sktok_acarm016_2": {
+    "en_US": "Promotion Permit",
     "ja_JP": "予備隊員昇進許可",
     "zh_CN": "预备进阶许可"
   },
   "sktok_acarm017_1": {
+    "en_US": "Battlefield Analyzer",
     "ja_JP": "戦場分析装置",
     "zh_CN": "战场分析仪"
   },
   "sktok_acarm017_2": {
+    "en_US": "Battlefield Analyzer",
     "ja_JP": "戦場分析装置",
     "zh_CN": "战场分析仪"
   },
   "sktok_acarm018_1": {
+    "en_US": "Stun Grenade",
     "ja_JP": "スタングレネード",
     "zh_CN": "震撼弹"
   },
   "sktok_acarm018_2": {
+    "en_US": "Stun Grenade",
     "ja_JP": "スタングレネード",
     "zh_CN": "震撼弹"
   },
   "sktok_acarm019_1": {
+    "en_US": "Standard Defender Shield",
     "ja_JP": "制式重装シールド",
     "zh_CN": "制式重装盾"
   },
   "sktok_acarm019_2": {
+    "en_US": "Standard Defender Shield",
     "ja_JP": "制式重装シールド",
     "zh_CN": "制式重装盾"
   },
   "sktok_acarm020_1": {
+    "en_US": "Standard Sniper Scope",
     "ja_JP": "制式狙撃ゴーグル",
     "zh_CN": "制式狙击镜"
   },
   "sktok_acarm020_2": {
+    "en_US": "Standard Sniper Scope",
     "ja_JP": "制式狙撃ゴーグル",
     "zh_CN": "制式狙击镜"
   },
   "sktok_acarm021_1": {
+    "en_US": "Standard Caster Wand",
     "ja_JP": "制式術師ロッド",
     "zh_CN": "制式术师杖"
   },
   "sktok_acarm021_2": {
+    "en_US": "Standard Caster Wand",
     "ja_JP": "制式術師ロッド",
     "zh_CN": "制式术师杖"
   },
   "sktok_acarm022_1": {
+    "en_US": "Pocket Arts Circle",
     "ja_JP": "携帯式アーツバリア",
     "zh_CN": "口袋法阵"
   },
   "sktok_acarm022_2": {
+    "en_US": "Pocket Arts Circle",
     "ja_JP": "携帯式アーツバリア",
     "zh_CN": "口袋法阵"
   },
   "sktok_acarm023_1": {
+    "en_US": "Coin-Operated Machine",
     "ja_JP": "競技アーケードマシン",
     "zh_CN": "竞技投币机"
   },
   "sktok_acarm023_2": {
+    "en_US": "Coin-Operated Machine",
     "ja_JP": "競技アーケードマシン",
     "zh_CN": "竞技投币机"
   },
   "sktok_acarm024_1": {
+    "en_US": "Engineer's Hammer",
     "ja_JP": "職人のハンマー",
     "zh_CN": "工匠锤"
   },
   "sktok_acarm024_2": {
+    "en_US": "Engineer's Hammer",
     "ja_JP": "職人のハンマー",
     "zh_CN": "工匠锤"
   },
   "sktok_acarm025_1": {
+    "en_US": "Dormant Heir",
     "ja_JP": "眠れる眷属",
     "zh_CN": "休眠子裔"
   },
   "sktok_acarm025_2": {
+    "en_US": "Dormant Heir",
     "ja_JP": "眠れる眷属",
     "zh_CN": "休眠子裔"
   },
   "sktok_acarm026_1": {
+    "en_US": "Caster Drone",
     "ja_JP": "術師ドローン",
     "zh_CN": "术师无人机"
   },
   "sktok_acarm026_2": {
+    "en_US": "Caster Drone",
     "ja_JP": "術師ドローン",
     "zh_CN": "术师无人机"
   },
   "sktok_acarm027_1": {
+    "en_US": "Kazimierz Model",
     "ja_JP": "カジミエーシュのオブジェ",
     "zh_CN": "卡西米尔模型"
   },
   "sktok_acarm027_2": {
+    "en_US": "Kazimierz Model",
     "ja_JP": "カジミエーシュのオブジェ",
     "zh_CN": "卡西米尔模型"
   },
   "sktok_acarm028_1": {
+    "en_US": "Karlan Trade Model",
     "ja_JP": "カランド貿易のオブジェ",
     "zh_CN": "喀兰贸易模型"
   },
   "sktok_acarm028_2": {
+    "en_US": "Karlan Trade Model",
     "ja_JP": "カランド貿易のオブジェ",
     "zh_CN": "喀兰贸易模型"
   },
   "sktok_acarm029_1": {
+    "en_US": "Abyssal Hunter Model",
     "ja_JP": "アビサルハンターのオブジェ",
     "zh_CN": "深海猎人模型"
   },
   "sktok_acarm029_2": {
+    "en_US": "Abyssal Hunter Model",
     "ja_JP": "アビサルハンターのオブジェ",
     "zh_CN": "深海猎人模型"
   },
   "sktok_acarm030_1": {
+    "en_US": "Elite Defender Set",
     "ja_JP": "エリート重装セット",
     "zh_CN": "精英重装套组"
   },
   "sktok_acarm030_2": {
+    "en_US": "Elite Defender Set",
     "ja_JP": "エリート重装セット",
     "zh_CN": "精英重装套组"
   },
   "sktok_acarm031_1": {
+    "en_US": "Elite Sniper Set",
     "ja_JP": "エリート狙撃セット",
     "zh_CN": "精英狙击套组"
   },
   "sktok_acarm031_2": {
+    "en_US": "Elite Sniper Set",
     "ja_JP": "エリート狙撃セット",
     "zh_CN": "精英狙击套组"
   },
   "sktok_acarm032_1": {
+    "en_US": "Elite Caster Set",
     "ja_JP": "エリート術師セット",
     "zh_CN": "精英术师套组"
   },
   "sktok_acarm032_2": {
+    "en_US": "Elite Caster Set",
     "ja_JP": "エリート術師セット",
     "zh_CN": "精英术师套组"
   },
   "sktok_acarm033_1": {
+    "en_US": "Goliath Helmet",
     "ja_JP": "ゴリアテの兜",
     "zh_CN": "歌利亚头盔"
   },
   "sktok_acarm033_2": {
+    "en_US": "Goliath Helmet",
     "ja_JP": "ゴリアテの兜",
     "zh_CN": "歌利亚头盔"
   },
   "sktok_acarm034_1": {
+    "en_US": "M3 Armor",
     "ja_JP": "M3アーマー",
     "zh_CN": "M3护甲"
   },
   "sktok_acarm034_2": {
+    "en_US": "M3 Armor",
     "ja_JP": "M3アーマー",
     "zh_CN": "M3护甲"
   },
   "sktok_acarm035_1": {
+    "en_US": "M3 Claw",
     "ja_JP": "M3クロー",
     "zh_CN": "M3利爪"
   },
   "sktok_acarm035_2": {
+    "en_US": "M3 Claw",
     "ja_JP": "M3クロー",
     "zh_CN": "M3利爪"
   },
   "sktok_acarm036_1": {
+    "en_US": "Portable Launcher",
     "ja_JP": "携帯式射出装置",
     "zh_CN": "便携弹射器"
   },
   "sktok_acarm036_2": {
+    "en_US": "Portable Launcher",
     "ja_JP": "携帯式射出装置",
     "zh_CN": "便携弹射器"
   },
   "sktok_acarm037_1": {
+    "en_US": "Miniature Accelerator",
     "ja_JP": "有限加速マシン",
     "zh_CN": "有限加速器"
   },
   "sktok_acarm037_2": {
+    "en_US": "Miniature Accelerator",
     "ja_JP": "有限加速マシン",
     "zh_CN": "有限加速器"
   },
   "sktok_acarm038_1": {
+    "en_US": "Multi-Purpose Robotic Arm",
     "ja_JP": "万能ロボットアーム",
     "zh_CN": "全能机械臂"
   },
   "sktok_acarm038_2": {
+    "en_US": "Multi-Purpose Robotic Arm",
     "ja_JP": "万能ロボットアーム",
     "zh_CN": "全能机械臂"
   },
   "sktok_acarm039_1": {
+    "en_US": "Doctor Hologram",
     "ja_JP": "ドクターのホログラム",
     "zh_CN": "博士投影"
   },
   "sktok_acarm039_2": {
+    "en_US": "Doctor Hologram",
     "ja_JP": "ドクターのホログラム",
     "zh_CN": "博士投影"
   },
   "sktok_acshopfr_1": {
+    "en_US": "Supply Retention",
     "ja_JP": "補給凍結",
     "zh_CN": "补给留存"
   },
   "sktok_acshopre_1": {
+    "en_US": "Supply Distribution",
     "ja_JP": "補給調達",
     "zh_CN": "补给调配"
   },
   "sktok_acshopup_1": {
+    "en_US": "Supply Upgrade",
     "ja_JP": "補給強化",
     "zh_CN": "补给升级"
   },
   "sktok_acspell001_1": {
+    "en_US": "Arts: Recovery",
     "ja_JP": "アーツ：治療",
     "zh_CN": "法术：恢复"
   },
   "sktok_acspell002_1": {
+    "en_US": "Arts: Strength",
     "ja_JP": "アーツ：剛力",
     "zh_CN": "法术：力量"
   },
   "sktok_acspell003_1": {
+    "en_US": "Arts: Transmission",
     "ja_JP": "アーツ：伝動",
     "zh_CN": "法术：传动"
   },
   "sktok_acspell004_1": {
+    "en_US": "Arts: Greed",
     "ja_JP": "アーツ：貪欲",
     "zh_CN": "法术：贪婪"
   },
   "sktok_acspell005_1": {
+    "en_US": "Arts: Satisfaction",
     "ja_JP": "アーツ：充足",
     "zh_CN": "法术：满足"
   },
   "sktok_acspell006_1": {
+    "en_US": "Arts: Shield",
     "ja_JP": "アーツ：防壁",
     "zh_CN": "法术：护盾"
   },
   "sktok_acspell007_1": {
+    "en_US": "Arts: Role Model",
     "ja_JP": "アーツ：昇進",
     "zh_CN": "法术：榜样"
   },
   "sktok_acspell008_1": {
+    "en_US": "Arts: Barrier",
     "ja_JP": "アーツ：護身",
     "zh_CN": "法术：屏障"
   },
   "sktok_acspell009_1": {
+    "en_US": "Arts: Familiar Face",
     "ja_JP": "アーツ：伝心",
     "zh_CN": "法术：熟人"
   },
   "sktok_acspell010_1": {
+    "en_US": "Arts: Peer",
     "ja_JP": "アーツ：同行",
     "zh_CN": "法术：同行"
   },
   "sktok_acspell011_1": {
+    "en_US": "Arts: Boost",
     "ja_JP": "アーツ：向上",
     "zh_CN": "法术：提升"
   },
   "sktok_acspell012_1": {
+    "en_US": "Arts: Slow",
     "ja_JP": "アーツ：緩速",
     "zh_CN": "法术：迟缓"
   },
   "sktok_acspell014_1": {
+    "en_US": "Arts: All-Out",
     "ja_JP": "アーツ：全力",
     "zh_CN": "法术：全力"
   },
   "sktok_acspell015_1": {
+    "en_US": "Arts: Blood Tax",
     "ja_JP": "アーツ：血税",
     "zh_CN": "法术：血税"
   },
   "sktok_acspell016_1": {
+    "en_US": "Arts: Infiltration",
     "ja_JP": "アーツ：奇兵",
     "zh_CN": "法术：破袭"
   },
   "sktok_acspell017_1": {
+    "en_US": "Advanced Deployment Permit",
     "ja_JP": "昇進配分許可証",
     "zh_CN": "晋升调配特许"
   },

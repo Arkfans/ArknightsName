@@ -3018,6 +3018,7 @@
   "char_600_cpione": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Reserve Operator - Vanguard",
       "ja_JP": "予備隊員-先鋒",
       "zh_CN": "预备干员-先锋"
     }
@@ -3025,6 +3026,7 @@
   "char_601_cguard": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Reserve Operator - Guard",
       "ja_JP": "予備隊員-前衛",
       "zh_CN": "预备干员-近卫"
     }
@@ -3032,6 +3034,7 @@
   "char_602_cdfend": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Reserve Operator - Defender",
       "ja_JP": "予備隊員-重装",
       "zh_CN": "预备干员-重装"
     }
@@ -3039,6 +3042,7 @@
   "char_603_csnipe": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Reserve Operator - Sniper",
       "ja_JP": "予備隊員-狙撃",
       "zh_CN": "预备干员-狙击"
     }
@@ -3046,6 +3050,7 @@
   "char_604_ccast": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Reserve Operator - Caster",
       "ja_JP": "予備隊員-術師",
       "zh_CN": "预备干员-术师"
     }
@@ -3053,6 +3058,7 @@
   "char_605_cmedic": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Reserve Operator - Medic",
       "ja_JP": "予備隊員-医療",
       "zh_CN": "预备干员-医疗"
     }
@@ -3060,6 +3066,7 @@
   "char_606_csuppo": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Reserve Operator - Supporter",
       "ja_JP": "予備隊員-補助",
       "zh_CN": "预备干员-辅助"
     }
@@ -3067,6 +3074,7 @@
   "char_607_cspec": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Reserve Operator - Specialist",
       "ja_JP": "予備隊員-特殊",
       "zh_CN": "预备干员-特种"
     }
@@ -3074,6 +3082,7 @@
   "char_608_acpion": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Tulip",
       "ja_JP": "チューリップ",
       "zh_CN": "郁金香"
     }
@@ -3081,6 +3090,7 @@
   "char_609_acguad": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Sharp",
       "ja_JP": "Sharp",
       "zh_CN": "Sharp"
     }
@@ -3088,6 +3098,7 @@
   "char_610_acfend": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Mechanist",
       "ja_JP": "Mechanist",
       "zh_CN": "Mechanist"
     }
@@ -3095,6 +3106,7 @@
   "char_611_acnipe": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Stormeye",
       "ja_JP": "Stormeye",
       "zh_CN": "Stormeye"
     }
@@ -3102,6 +3114,7 @@
   "char_612_accast": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Pith",
       "ja_JP": "Pith",
       "zh_CN": "Pith"
     }
@@ -3109,6 +3122,7 @@
   "char_613_acmedc": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Touch",
       "ja_JP": "Touch",
       "zh_CN": "Touch"
     }
@@ -3116,6 +3130,7 @@
   "char_614_acsupo": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Raidian",
       "ja_JP": "Raidian",
       "zh_CN": "Raidian"
     }
@@ -3123,6 +3138,7 @@
   "char_615_acspec": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Misery",
       "ja_JP": "Misery",
       "zh_CN": "Misery"
     }
@@ -4310,6 +4326,7 @@
   "trap_1000_acarm000": {
     "type": "TRAP",
     "names": {
+      "en_US": "Small Shield",
       "ja_JP": "小盾",
       "zh_CN": "小盾"
     }
@@ -4317,6 +4334,7 @@
   "trap_1001_acarm001": {
     "type": "TRAP",
     "names": {
+      "en_US": "Dirk",
       "ja_JP": "短剣",
       "zh_CN": "短剑"
     }
@@ -4324,6 +4342,7 @@
   "trap_1002_acarm002": {
     "type": "TRAP",
     "names": {
+      "en_US": "Lucky Coin",
       "ja_JP": "ラッキーコイン",
       "zh_CN": "幸运币"
     }
@@ -4331,6 +4350,7 @@
   "trap_1003_acarm003": {
     "type": "TRAP",
     "names": {
+      "en_US": "Chunk of Ice",
       "ja_JP": "氷",
       "zh_CN": "冰块"
     }
@@ -4338,6 +4358,7 @@
   "trap_1004_acarm004": {
     "type": "TRAP",
     "names": {
+      "en_US": "Hardtack",
       "ja_JP": "レーション",
       "zh_CN": "压缩饼干"
     }
@@ -4345,6 +4366,7 @@
   "trap_1005_acarm005": {
     "type": "TRAP",
     "names": {
+      "en_US": "Transmitter",
       "ja_JP": "ビーコン",
       "zh_CN": "信标"
     }
@@ -4352,6 +4374,7 @@
   "trap_1006_acarm006": {
     "type": "TRAP",
     "names": {
+      "en_US": "Orirock Dagger",
       "ja_JP": "源岩ナイフ",
       "zh_CN": "源岩匕首"
     }
@@ -4359,6 +4382,7 @@
   "trap_1007_acarm007": {
     "type": "TRAP",
     "names": {
+      "en_US": "Originium Solvent",
       "ja_JP": "源石溶剤",
       "zh_CN": "源石溶剂"
     }
@@ -4366,6 +4390,7 @@
   "trap_1008_acarm008": {
     "type": "TRAP",
     "names": {
+      "en_US": "Laser Sighter",
       "ja_JP": "レーザー発射機",
       "zh_CN": "激光发射器"
     }
@@ -4373,6 +4398,7 @@
   "trap_1009_acarm009": {
     "type": "TRAP",
     "names": {
+      "en_US": "Karlan Trade File",
       "ja_JP": "カランド貿易ファイル",
       "zh_CN": "喀兰贸易文档"
     }
@@ -4388,6 +4414,7 @@
   "trap_1010_acarm010": {
     "type": "TRAP",
     "names": {
+      "en_US": "Kazimierz File",
       "ja_JP": "カジミエーシュファイル",
       "zh_CN": "卡西米尔文档"
     }
@@ -4395,6 +4422,7 @@
   "trap_1011_acarm011": {
     "type": "TRAP",
     "names": {
+      "en_US": "Abyssal Hunter File",
       "ja_JP": "アビサルハンターファイル",
       "zh_CN": "深海猎人文档"
     }
@@ -4402,6 +4430,7 @@
   "trap_1012_acarm012": {
     "type": "TRAP",
     "names": {
+      "en_US": "Strong Tea",
       "ja_JP": "渋茶",
       "zh_CN": "浓茶"
     }
@@ -4409,6 +4438,7 @@
   "trap_1013_acarm013": {
     "type": "TRAP",
     "names": {
+      "en_US": "Buzzer",
       "ja_JP": "警報器",
       "zh_CN": "蜂鸣器"
     }
@@ -4416,6 +4446,7 @@
   "trap_1014_acarm014": {
     "type": "TRAP",
     "names": {
+      "en_US": "Budget-Savvy Doll",
       "ja_JP": "倹約家の人形",
       "zh_CN": "精打细算玩偶"
     }
@@ -4423,6 +4454,7 @@
   "trap_1015_acarm015": {
     "type": "TRAP",
     "names": {
+      "en_US": "Money-Grubbing Doll",
       "ja_JP": "守銭奴の人形",
       "zh_CN": "见钱眼开玩偶"
     }
@@ -4430,6 +4462,7 @@
   "trap_1016_acarm016": {
     "type": "TRAP",
     "names": {
+      "en_US": "Promotion Permit",
       "ja_JP": "予備隊員昇進許可",
       "zh_CN": "预备进阶许可"
     }
@@ -4437,6 +4470,7 @@
   "trap_1017_acarm017": {
     "type": "TRAP",
     "names": {
+      "en_US": "Battlefield Analyzer",
       "ja_JP": "戦場分析装置",
       "zh_CN": "战场分析仪"
     }
@@ -4444,6 +4478,7 @@
   "trap_1018_acarm018": {
     "type": "TRAP",
     "names": {
+      "en_US": "Stun Grenade",
       "ja_JP": "スタングレネード",
       "zh_CN": "震撼弹"
     }
@@ -4451,6 +4486,7 @@
   "trap_1019_acarm019": {
     "type": "TRAP",
     "names": {
+      "en_US": "Standard Defender Shield",
       "ja_JP": "制式重装シールド",
       "zh_CN": "制式重装盾"
     }
@@ -4466,6 +4502,7 @@
   "trap_1020_acarm020": {
     "type": "TRAP",
     "names": {
+      "en_US": "Standard Sniper Scope",
       "ja_JP": "制式狙撃ゴーグル",
       "zh_CN": "制式狙击镜"
     }
@@ -4473,6 +4510,7 @@
   "trap_1021_acarm021": {
     "type": "TRAP",
     "names": {
+      "en_US": "Standard Caster Wand",
       "ja_JP": "制式術師ロッド",
       "zh_CN": "制式术师杖"
     }
@@ -4480,6 +4518,7 @@
   "trap_1022_acarm022": {
     "type": "TRAP",
     "names": {
+      "en_US": "Pocket Arts Circle",
       "ja_JP": "携帯式アーツバリア",
       "zh_CN": "口袋法阵"
     }
@@ -4487,6 +4526,7 @@
   "trap_1023_acarm023": {
     "type": "TRAP",
     "names": {
+      "en_US": "Coin-Operated Machine",
       "ja_JP": "競技アーケードマシン",
       "zh_CN": "竞技投币机"
     }
@@ -4494,6 +4534,7 @@
   "trap_1024_acarm024": {
     "type": "TRAP",
     "names": {
+      "en_US": "Engineer's Hammer",
       "ja_JP": "職人のハンマー",
       "zh_CN": "工匠锤"
     }
@@ -4501,6 +4542,7 @@
   "trap_1025_acarm025": {
     "type": "TRAP",
     "names": {
+      "en_US": "Dormant Heir",
       "ja_JP": "眠れる眷属",
       "zh_CN": "休眠子裔"
     }
@@ -4508,6 +4550,7 @@
   "trap_1026_acarm026": {
     "type": "TRAP",
     "names": {
+      "en_US": "Caster Drone",
       "ja_JP": "術師ドローン",
       "zh_CN": "术师无人机"
     }
@@ -4515,6 +4558,7 @@
   "trap_1027_acarm027": {
     "type": "TRAP",
     "names": {
+      "en_US": "Kazimierz Model",
       "ja_JP": "カジミエーシュのオブジェ",
       "zh_CN": "卡西米尔模型"
     }
@@ -4522,6 +4566,7 @@
   "trap_1028_acarm028": {
     "type": "TRAP",
     "names": {
+      "en_US": "Karlan Trade Model",
       "ja_JP": "カランド貿易のオブジェ",
       "zh_CN": "喀兰贸易模型"
     }
@@ -4529,6 +4574,7 @@
   "trap_1029_acarm029": {
     "type": "TRAP",
     "names": {
+      "en_US": "Abyssal Hunter Model",
       "ja_JP": "アビサルハンターのオブジェ",
       "zh_CN": "深海猎人模型"
     }
@@ -4544,6 +4590,7 @@
   "trap_1030_acarm030": {
     "type": "TRAP",
     "names": {
+      "en_US": "Elite Defender Set",
       "ja_JP": "エリート重装セット",
       "zh_CN": "精英重装套组"
     }
@@ -4551,6 +4598,7 @@
   "trap_1031_acarm031": {
     "type": "TRAP",
     "names": {
+      "en_US": "Elite Sniper Set",
       "ja_JP": "エリート狙撃セット",
       "zh_CN": "精英狙击套组"
     }
@@ -4558,6 +4606,7 @@
   "trap_1032_acarm032": {
     "type": "TRAP",
     "names": {
+      "en_US": "Elite Caster Set",
       "ja_JP": "エリート術師セット",
       "zh_CN": "精英术师套组"
     }
@@ -4565,6 +4614,7 @@
   "trap_1033_acarm033": {
     "type": "TRAP",
     "names": {
+      "en_US": "Goliath Helmet",
       "ja_JP": "ゴリアテの兜",
       "zh_CN": "歌利亚头盔"
     }
@@ -4572,6 +4622,7 @@
   "trap_1034_acarm034": {
     "type": "TRAP",
     "names": {
+      "en_US": "M3 Armor",
       "ja_JP": "M3アーマー",
       "zh_CN": "M3护甲"
     }
@@ -4579,6 +4630,7 @@
   "trap_1035_acarm035": {
     "type": "TRAP",
     "names": {
+      "en_US": "M3 Claw",
       "ja_JP": "M3クロー",
       "zh_CN": "M3利爪"
     }
@@ -4586,6 +4638,7 @@
   "trap_1036_acarm036": {
     "type": "TRAP",
     "names": {
+      "en_US": "Portable Launcher",
       "ja_JP": "携帯式射出装置",
       "zh_CN": "便携弹射器"
     }
@@ -4593,6 +4646,7 @@
   "trap_1037_acarm037": {
     "type": "TRAP",
     "names": {
+      "en_US": "Miniature Accelerator",
       "ja_JP": "有限加速マシン",
       "zh_CN": "有限加速器"
     }
@@ -4600,6 +4654,7 @@
   "trap_1038_acarm038": {
     "type": "TRAP",
     "names": {
+      "en_US": "Multi-Purpose Robotic Arm",
       "ja_JP": "万能ロボットアーム",
       "zh_CN": "全能机械臂"
     }
@@ -4607,6 +4662,7 @@
   "trap_1039_acarm039": {
     "type": "TRAP",
     "names": {
+      "en_US": "Doctor Hologram",
       "ja_JP": "ドクターのホログラム",
       "zh_CN": "博士投影"
     }
@@ -4654,6 +4710,7 @@
   "trap_1080_acspell001": {
     "type": "TRAP",
     "names": {
+      "en_US": "Arts: Recovery",
       "ja_JP": "アーツ：治療",
       "zh_CN": "法术：恢复"
     }
@@ -4661,6 +4718,7 @@
   "trap_1081_acspell002": {
     "type": "TRAP",
     "names": {
+      "en_US": "Arts: Strength",
       "ja_JP": "アーツ：剛力",
       "zh_CN": "法术：力量"
     }
@@ -4668,6 +4726,7 @@
   "trap_1082_acspell003": {
     "type": "TRAP",
     "names": {
+      "en_US": "Arts: Transmission",
       "ja_JP": "アーツ：伝動",
       "zh_CN": "法术：传动"
     }
@@ -4675,6 +4734,7 @@
   "trap_1083_acspell004": {
     "type": "TRAP",
     "names": {
+      "en_US": "Arts: Greed",
       "ja_JP": "アーツ：貪欲",
       "zh_CN": "法术：贪婪"
     }
@@ -4682,6 +4742,7 @@
   "trap_1084_acspell005": {
     "type": "TRAP",
     "names": {
+      "en_US": "Arts: Satisfaction",
       "ja_JP": "アーツ：充足",
       "zh_CN": "法术：满足"
     }
@@ -4689,6 +4750,7 @@
   "trap_1085_acspell006": {
     "type": "TRAP",
     "names": {
+      "en_US": "Arts: Shield",
       "ja_JP": "アーツ：防壁",
       "zh_CN": "法术：护盾"
     }
@@ -4696,6 +4758,7 @@
   "trap_1086_acspell007": {
     "type": "TRAP",
     "names": {
+      "en_US": "Arts: Role Model",
       "ja_JP": "アーツ：昇進",
       "zh_CN": "法术：榜样"
     }
@@ -4703,6 +4766,7 @@
   "trap_1087_acspell008": {
     "type": "TRAP",
     "names": {
+      "en_US": "Arts: Barrier",
       "ja_JP": "アーツ：護身",
       "zh_CN": "法术：屏障"
     }
@@ -4710,6 +4774,7 @@
   "trap_1088_acspell009": {
     "type": "TRAP",
     "names": {
+      "en_US": "Arts: Familiar Face",
       "ja_JP": "アーツ：伝心",
       "zh_CN": "法术：熟人"
     }
@@ -4717,6 +4782,7 @@
   "trap_1089_acspell010": {
     "type": "TRAP",
     "names": {
+      "en_US": "Arts: Peer",
       "ja_JP": "アーツ：同行",
       "zh_CN": "法术：同行"
     }
@@ -4732,6 +4798,7 @@
   "trap_1090_acspell011": {
     "type": "TRAP",
     "names": {
+      "en_US": "Arts: Boost",
       "ja_JP": "アーツ：向上",
       "zh_CN": "法术：提升"
     }
@@ -4739,6 +4806,7 @@
   "trap_1091_acspell012": {
     "type": "TRAP",
     "names": {
+      "en_US": "Arts: Slow",
       "ja_JP": "アーツ：緩速",
       "zh_CN": "法术：迟缓"
     }
@@ -4746,6 +4814,7 @@
   "trap_1093_acspell014": {
     "type": "TRAP",
     "names": {
+      "en_US": "Arts: All-Out",
       "ja_JP": "アーツ：全力",
       "zh_CN": "法术：全力"
     }
@@ -4753,6 +4822,7 @@
   "trap_1094_acspell015": {
     "type": "TRAP",
     "names": {
+      "en_US": "Arts: Blood Tax",
       "ja_JP": "アーツ：血税",
       "zh_CN": "法术：血税"
     }
@@ -4760,6 +4830,7 @@
   "trap_1095_acspell016": {
     "type": "TRAP",
     "names": {
+      "en_US": "Arts: Infiltration",
       "ja_JP": "アーツ：奇兵",
       "zh_CN": "法术：破袭"
     }
@@ -4767,6 +4838,7 @@
   "trap_1096_acshopup": {
     "type": "TRAP",
     "names": {
+      "en_US": "Barge Captain",
       "ja_JP": "補給船操舵手",
       "zh_CN": "驳船操作员"
     }
@@ -4774,6 +4846,7 @@
   "trap_1097_acshopre": {
     "type": "TRAP",
     "names": {
+      "en_US": "Supply Distributor",
       "ja_JP": "物資調達器",
       "zh_CN": "补给调配器"
     }
@@ -4781,6 +4854,7 @@
   "trap_1098_acshopfr": {
     "type": "TRAP",
     "names": {
+      "en_US": "Supply Retainer",
       "ja_JP": "物資保管器",
       "zh_CN": "补给留存器"
     }
@@ -4788,6 +4862,7 @@
   "trap_1099_acspell017": {
     "type": "TRAP",
     "names": {
+      "en_US": "Advanced Deployment Permit",
       "ja_JP": "昇進配分許可証",
       "zh_CN": "晋升调配特许"
     }
@@ -4803,6 +4878,7 @@
   "trap_1100_acreddoor": {
     "type": "TRAP",
     "names": {
+      "en_US": "Enemy Entrance",
       "ja_JP": "敵の入口",
       "zh_CN": "敌人入口"
     }
@@ -4810,6 +4886,7 @@
   "trap_1101_acplane": {
     "type": "TRAP",
     "names": {
+      "en_US": "Supply Barge",
       "ja_JP": "補給船",
       "zh_CN": "补给驳船"
     }
@@ -8421,6 +8498,7 @@
   "char_230_savage@kitchen#3": {
     "type": "SKIN",
     "names": {
+      "en_US": "Secret Family Recipe",
       "ja_JP": "秘伝レシピ",
       "zh_CN": "家传秘方"
     }
@@ -10306,6 +10384,7 @@
   "char_499_kaitou@epoque#37": {
     "type": "SKIN",
     "names": {
+      "en_US": "Sun Slant",
       "ja_JP": "夕陽差す屋根裏",
       "zh_CN": "斜照"
     }
@@ -20811,6 +20890,7 @@
   "enemy_9001_ayokai": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Surprise Sponsor Drone",
       "ja_JP": "サプライズ協賛ドローン",
       "zh_CN": "惊喜赞助无人机"
     }
@@ -20818,6 +20898,7 @@
   "enemy_9002_adsham": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Sarkaz Bloodthirst Caster",
       "ja_JP": "サルカズ渇血術師",
       "zh_CN": "萨卡兹渴血术师"
     }
@@ -20825,6 +20906,7 @@
   "enemy_9003_askate": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Pathfinder Armicustos",
       "ja_JP": "求道供弾者",
       "zh_CN": "寻路者供弹手"
     }
@@ -20832,6 +20914,7 @@
   "enemy_9004_anlock": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Technician Prisoner",
       "ja_JP": "囚人技師",
       "zh_CN": "技师囚犯"
     }
@@ -20839,6 +20922,7 @@
   "enemy_9005_aicemn": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Glacial Archer",
       "ja_JP": "氷晶の射手",
       "zh_CN": "冰晶射手"
     }
@@ -21588,6 +21672,7 @@
   "act1vautochess": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Stronghold Protocol",
       "ja_JP": "堅守協定",
       "zh_CN": "卫戍协议"
     }
@@ -25072,6 +25157,7 @@
   "act1vautochess_token_chess": {
     "type": "ITEM",
     "names": {
+      "en_US": "Stronghold Credits",
       "ja_JP": "堅守認証",
       "zh_CN": "卫戍认证"
     }
@@ -34113,6 +34199,7 @@
   "_NORM_33_0_5": {
     "type": "POOL",
     "names": {
+      "en_US": "Joint Operation",
       "ja_JP": "連合作戦"
     }
   },
@@ -34451,6 +34538,7 @@
   "skchr_accast_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "'All That I Author'",
       "ja_JP": "「我が記すものを記せ」",
       "zh_CN": "“书我所书”"
     }
@@ -34458,6 +34546,7 @@
   "skchr_accast_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "'All That I Do'",
       "ja_JP": "「我が成すことを成せ」",
       "zh_CN": "“为我所为”"
     }
@@ -34465,6 +34554,7 @@
   "skchr_accast_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "'All That I Command'",
       "ja_JP": "「我が御すものを御せ」",
       "zh_CN": "“驭我所驭”"
     }
@@ -34488,6 +34578,7 @@
   "skchr_acfend_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Structural Stability",
       "ja_JP": "構造堅牢化",
       "zh_CN": "结构稳定"
     }
@@ -34495,6 +34586,7 @@
   "skchr_acfend_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Invariance Principle",
       "ja_JP": "不変性原理",
       "zh_CN": "不变性原理"
     }
@@ -34502,6 +34594,7 @@
   "skchr_acfend_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Stress Inversion",
       "ja_JP": "応力反転",
       "zh_CN": "应力倒置"
     }
@@ -34509,6 +34602,7 @@
   "skchr_acguad_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Swiftblade",
       "ja_JP": "快刀",
       "zh_CN": "快刀"
     }
@@ -34516,6 +34610,7 @@
   "skchr_acguad_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Drawing Sword",
       "ja_JP": "鋭刃",
       "zh_CN": "亮剑"
     }
@@ -34523,6 +34618,7 @@
   "skchr_acguad_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "To The Bitter End",
       "ja_JP": "死力",
       "zh_CN": "力战不竭"
     }
@@ -34530,6 +34626,7 @@
   "skchr_acmedc_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Generous Gift",
       "ja_JP": "高潔なる贈与",
       "zh_CN": "慨赠"
     }
@@ -34537,6 +34634,7 @@
   "skchr_acmedc_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Apocalyptic Scene",
       "ja_JP": "天啓の光",
       "zh_CN": "宛如天启"
     }
@@ -34544,6 +34642,7 @@
   "skchr_acmedc_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Earnest Gospel",
       "ja_JP": "懇願の福音",
       "zh_CN": "恳切福音"
     }
@@ -34551,6 +34650,7 @@
   "skchr_acnipe_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Skyshatter",
       "ja_JP": "破空",
       "zh_CN": "破空"
     }
@@ -34558,6 +34658,7 @@
   "skchr_acnipe_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "One With the Bow",
       "ja_JP": "心技一体",
       "zh_CN": "心手合一"
     }
@@ -34565,6 +34666,7 @@
   "skchr_acnipe_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Pronation",
       "ja_JP": "旋風矢",
       "zh_CN": "旋臂"
     }
@@ -34572,6 +34674,7 @@
   "skchr_acpion_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Estocada",
       "ja_JP": "貫心",
       "zh_CN": "钻心"
     }
@@ -34579,6 +34682,7 @@
   "skchr_acpion_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Ráfaga",
       "ja_JP": "瞬迅",
       "zh_CN": "迅瞬"
     }
@@ -34586,6 +34690,7 @@
   "skchr_acpion_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Lingering Scent",
       "ja_JP": "残り香",
       "zh_CN": "只余芬芳"
     }
@@ -34593,6 +34698,7 @@
   "skchr_acspec_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "When Physics Obeys",
       "ja_JP": "服従せし法則",
       "zh_CN": "物理的服从"
     }
@@ -34600,6 +34706,7 @@
   "skchr_acspec_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "When War Complies",
       "ja_JP": "恭順せし戦争",
       "zh_CN": "战争的恭顺"
     }
@@ -34607,6 +34714,7 @@
   "skchr_acspec_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "When Space Surrenders",
       "ja_JP": "帰依せし空間",
       "zh_CN": "空间的归依"
     }
@@ -34614,6 +34722,7 @@
   "skchr_acsupo_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Diphony",
       "ja_JP": "双音",
       "zh_CN": "双声"
     }
@@ -34621,6 +34730,7 @@
   "skchr_acsupo_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Triform",
       "ja_JP": "三形",
       "zh_CN": "三形"
     }
@@ -34628,6 +34738,7 @@
   "skchr_acsupo_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Impulse Signal",
       "ja_JP": "躍動するシグナル",
       "zh_CN": "信号跃动"
     }
@@ -40477,6 +40588,7 @@
   "skcom_born_up[1]": {
     "type": "SKILL",
     "names": {
+      "en_US": "Hit and Run α",
       "ja_JP": "一撃離脱α",
       "zh_CN": "一击即退·α型"
     }
@@ -40484,6 +40596,7 @@
   "skcom_born_up[2]": {
     "type": "SKILL",
     "names": {
+      "en_US": "Hit and Run β",
       "ja_JP": "一撃離脱β",
       "zh_CN": "一击即退·β型"
     }
@@ -40491,6 +40604,7 @@
   "skcom_born_up[3]": {
     "type": "SKILL",
     "names": {
+      "en_US": "Hit and Run γ",
       "ja_JP": "一撃離脱γ",
       "zh_CN": "一击即退·γ型"
     }
@@ -40658,6 +40772,7 @@
   "sktok_acarm000_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Small Shield",
       "ja_JP": "小盾",
       "zh_CN": "小盾"
     }
@@ -40665,6 +40780,7 @@
   "sktok_acarm000_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Small Shield",
       "ja_JP": "小盾",
       "zh_CN": "小盾"
     }
@@ -40672,6 +40788,7 @@
   "sktok_acarm001_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Dirk",
       "ja_JP": "短剣",
       "zh_CN": "短剑"
     }
@@ -40679,6 +40796,7 @@
   "sktok_acarm001_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Dirk",
       "ja_JP": "短剣",
       "zh_CN": "短剑"
     }
@@ -40686,6 +40804,7 @@
   "sktok_acarm002_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Lucky Coin",
       "ja_JP": "ラッキーコイン",
       "zh_CN": "幸运币"
     }
@@ -40693,6 +40812,7 @@
   "sktok_acarm002_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Lucky Coin",
       "ja_JP": "ラッキーコイン",
       "zh_CN": "幸运币"
     }
@@ -40700,6 +40820,7 @@
   "sktok_acarm003_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Chunk of Ice",
       "ja_JP": "氷",
       "zh_CN": "冰块"
     }
@@ -40707,6 +40828,7 @@
   "sktok_acarm003_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Chunk of Ice",
       "ja_JP": "氷",
       "zh_CN": "冰块"
     }
@@ -40714,6 +40836,7 @@
   "sktok_acarm004_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Hardtack",
       "ja_JP": "レーション",
       "zh_CN": "压缩饼干"
     }
@@ -40721,6 +40844,7 @@
   "sktok_acarm004_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Hardtack",
       "ja_JP": "レーション",
       "zh_CN": "压缩饼干"
     }
@@ -40728,6 +40852,7 @@
   "sktok_acarm005_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Transmitter",
       "ja_JP": "ビーコン",
       "zh_CN": "信标"
     }
@@ -40735,6 +40860,7 @@
   "sktok_acarm005_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Transmitter",
       "ja_JP": "ビーコン",
       "zh_CN": "信标"
     }
@@ -40742,6 +40868,7 @@
   "sktok_acarm006_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Orirock Dagger",
       "ja_JP": "源岩ナイフ",
       "zh_CN": "源岩匕首"
     }
@@ -40749,6 +40876,7 @@
   "sktok_acarm006_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Orirock Dagger",
       "ja_JP": "源岩ナイフ",
       "zh_CN": "源岩匕首"
     }
@@ -40756,6 +40884,7 @@
   "sktok_acarm007_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Originium Solvent",
       "ja_JP": "源石溶剤",
       "zh_CN": "源石溶剂"
     }
@@ -40763,6 +40892,7 @@
   "sktok_acarm007_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Originium Solvent",
       "ja_JP": "源石溶剤",
       "zh_CN": "源石溶剂"
     }
@@ -40770,6 +40900,7 @@
   "sktok_acarm008_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Laser Sighter",
       "ja_JP": "レーザー発射機",
       "zh_CN": "激光发射器"
     }
@@ -40777,6 +40908,7 @@
   "sktok_acarm008_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Laser Sighter",
       "ja_JP": "レーザー発射機",
       "zh_CN": "激光发射器"
     }
@@ -40784,6 +40916,7 @@
   "sktok_acarm009_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Karlan Trade File",
       "ja_JP": "カランド貿易ファイル",
       "zh_CN": "喀兰贸易文档"
     }
@@ -40791,6 +40924,7 @@
   "sktok_acarm009_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Karlan Trade File",
       "ja_JP": "カランド貿易ファイル",
       "zh_CN": "喀兰贸易文档"
     }
@@ -40798,6 +40932,7 @@
   "sktok_acarm010_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Kazimierz File",
       "ja_JP": "カジミエーシュファイル",
       "zh_CN": "卡西米尔文档"
     }
@@ -40805,6 +40940,7 @@
   "sktok_acarm010_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Kazimierz File",
       "ja_JP": "カジミエーシュファイル",
       "zh_CN": "卡西米尔文档"
     }
@@ -40812,6 +40948,7 @@
   "sktok_acarm011_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Abyssal Hunter File",
       "ja_JP": "アビサルハンターファイル",
       "zh_CN": "深海猎人文档"
     }
@@ -40819,6 +40956,7 @@
   "sktok_acarm011_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Abyssal Hunter File",
       "ja_JP": "アビサルハンターファイル",
       "zh_CN": "深海猎人文档"
     }
@@ -40826,6 +40964,7 @@
   "sktok_acarm012_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Strong Tea",
       "ja_JP": "渋茶",
       "zh_CN": "浓茶"
     }
@@ -40833,6 +40972,7 @@
   "sktok_acarm012_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Strong Tea",
       "ja_JP": "渋茶",
       "zh_CN": "浓茶"
     }
@@ -40840,6 +40980,7 @@
   "sktok_acarm013_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Buzzer",
       "ja_JP": "警報器",
       "zh_CN": "蜂鸣器"
     }
@@ -40847,6 +40988,7 @@
   "sktok_acarm013_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Buzzer",
       "ja_JP": "警報器",
       "zh_CN": "蜂鸣器"
     }
@@ -40854,6 +40996,7 @@
   "sktok_acarm014_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Budget-Savvy Doll",
       "ja_JP": "倹約家の人形",
       "zh_CN": "精打细算玩偶"
     }
@@ -40861,6 +41004,7 @@
   "sktok_acarm014_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Budget-Savvy Doll",
       "ja_JP": "倹約家の人形",
       "zh_CN": "精打细算玩偶"
     }
@@ -40868,6 +41012,7 @@
   "sktok_acarm015_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Money-Grubbing Doll",
       "ja_JP": "守銭奴の人形",
       "zh_CN": "见钱眼开玩偶"
     }
@@ -40875,6 +41020,7 @@
   "sktok_acarm015_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Money-Grubbing Doll",
       "ja_JP": "守銭奴の人形",
       "zh_CN": "见钱眼开玩偶"
     }
@@ -40882,6 +41028,7 @@
   "sktok_acarm016_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Promotion Permit",
       "ja_JP": "予備隊員昇進許可",
       "zh_CN": "预备进阶许可"
     }
@@ -40889,6 +41036,7 @@
   "sktok_acarm016_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Promotion Permit",
       "ja_JP": "予備隊員昇進許可",
       "zh_CN": "预备进阶许可"
     }
@@ -40896,6 +41044,7 @@
   "sktok_acarm017_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Battlefield Analyzer",
       "ja_JP": "戦場分析装置",
       "zh_CN": "战场分析仪"
     }
@@ -40903,6 +41052,7 @@
   "sktok_acarm017_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Battlefield Analyzer",
       "ja_JP": "戦場分析装置",
       "zh_CN": "战场分析仪"
     }
@@ -40910,6 +41060,7 @@
   "sktok_acarm018_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Stun Grenade",
       "ja_JP": "スタングレネード",
       "zh_CN": "震撼弹"
     }
@@ -40917,6 +41068,7 @@
   "sktok_acarm018_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Stun Grenade",
       "ja_JP": "スタングレネード",
       "zh_CN": "震撼弹"
     }
@@ -40924,6 +41076,7 @@
   "sktok_acarm019_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Standard Defender Shield",
       "ja_JP": "制式重装シールド",
       "zh_CN": "制式重装盾"
     }
@@ -40931,6 +41084,7 @@
   "sktok_acarm019_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Standard Defender Shield",
       "ja_JP": "制式重装シールド",
       "zh_CN": "制式重装盾"
     }
@@ -40938,6 +41092,7 @@
   "sktok_acarm020_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Standard Sniper Scope",
       "ja_JP": "制式狙撃ゴーグル",
       "zh_CN": "制式狙击镜"
     }
@@ -40945,6 +41100,7 @@
   "sktok_acarm020_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Standard Sniper Scope",
       "ja_JP": "制式狙撃ゴーグル",
       "zh_CN": "制式狙击镜"
     }
@@ -40952,6 +41108,7 @@
   "sktok_acarm021_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Standard Caster Wand",
       "ja_JP": "制式術師ロッド",
       "zh_CN": "制式术师杖"
     }
@@ -40959,6 +41116,7 @@
   "sktok_acarm021_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Standard Caster Wand",
       "ja_JP": "制式術師ロッド",
       "zh_CN": "制式术师杖"
     }
@@ -40966,6 +41124,7 @@
   "sktok_acarm022_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Pocket Arts Circle",
       "ja_JP": "携帯式アーツバリア",
       "zh_CN": "口袋法阵"
     }
@@ -40973,6 +41132,7 @@
   "sktok_acarm022_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Pocket Arts Circle",
       "ja_JP": "携帯式アーツバリア",
       "zh_CN": "口袋法阵"
     }
@@ -40980,6 +41140,7 @@
   "sktok_acarm023_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Coin-Operated Machine",
       "ja_JP": "競技アーケードマシン",
       "zh_CN": "竞技投币机"
     }
@@ -40987,6 +41148,7 @@
   "sktok_acarm023_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Coin-Operated Machine",
       "ja_JP": "競技アーケードマシン",
       "zh_CN": "竞技投币机"
     }
@@ -40994,6 +41156,7 @@
   "sktok_acarm024_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Engineer's Hammer",
       "ja_JP": "職人のハンマー",
       "zh_CN": "工匠锤"
     }
@@ -41001,6 +41164,7 @@
   "sktok_acarm024_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Engineer's Hammer",
       "ja_JP": "職人のハンマー",
       "zh_CN": "工匠锤"
     }
@@ -41008,6 +41172,7 @@
   "sktok_acarm025_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Dormant Heir",
       "ja_JP": "眠れる眷属",
       "zh_CN": "休眠子裔"
     }
@@ -41015,6 +41180,7 @@
   "sktok_acarm025_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Dormant Heir",
       "ja_JP": "眠れる眷属",
       "zh_CN": "休眠子裔"
     }
@@ -41022,6 +41188,7 @@
   "sktok_acarm026_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Caster Drone",
       "ja_JP": "術師ドローン",
       "zh_CN": "术师无人机"
     }
@@ -41029,6 +41196,7 @@
   "sktok_acarm026_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Caster Drone",
       "ja_JP": "術師ドローン",
       "zh_CN": "术师无人机"
     }
@@ -41036,6 +41204,7 @@
   "sktok_acarm027_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Kazimierz Model",
       "ja_JP": "カジミエーシュのオブジェ",
       "zh_CN": "卡西米尔模型"
     }
@@ -41043,6 +41212,7 @@
   "sktok_acarm027_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Kazimierz Model",
       "ja_JP": "カジミエーシュのオブジェ",
       "zh_CN": "卡西米尔模型"
     }
@@ -41050,6 +41220,7 @@
   "sktok_acarm028_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Karlan Trade Model",
       "ja_JP": "カランド貿易のオブジェ",
       "zh_CN": "喀兰贸易模型"
     }
@@ -41057,6 +41228,7 @@
   "sktok_acarm028_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Karlan Trade Model",
       "ja_JP": "カランド貿易のオブジェ",
       "zh_CN": "喀兰贸易模型"
     }
@@ -41064,6 +41236,7 @@
   "sktok_acarm029_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Abyssal Hunter Model",
       "ja_JP": "アビサルハンターのオブジェ",
       "zh_CN": "深海猎人模型"
     }
@@ -41071,6 +41244,7 @@
   "sktok_acarm029_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Abyssal Hunter Model",
       "ja_JP": "アビサルハンターのオブジェ",
       "zh_CN": "深海猎人模型"
     }
@@ -41078,6 +41252,7 @@
   "sktok_acarm030_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Elite Defender Set",
       "ja_JP": "エリート重装セット",
       "zh_CN": "精英重装套组"
     }
@@ -41085,6 +41260,7 @@
   "sktok_acarm030_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Elite Defender Set",
       "ja_JP": "エリート重装セット",
       "zh_CN": "精英重装套组"
     }
@@ -41092,6 +41268,7 @@
   "sktok_acarm031_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Elite Sniper Set",
       "ja_JP": "エリート狙撃セット",
       "zh_CN": "精英狙击套组"
     }
@@ -41099,6 +41276,7 @@
   "sktok_acarm031_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Elite Sniper Set",
       "ja_JP": "エリート狙撃セット",
       "zh_CN": "精英狙击套组"
     }
@@ -41106,6 +41284,7 @@
   "sktok_acarm032_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Elite Caster Set",
       "ja_JP": "エリート術師セット",
       "zh_CN": "精英术师套组"
     }
@@ -41113,6 +41292,7 @@
   "sktok_acarm032_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Elite Caster Set",
       "ja_JP": "エリート術師セット",
       "zh_CN": "精英术师套组"
     }
@@ -41120,6 +41300,7 @@
   "sktok_acarm033_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Goliath Helmet",
       "ja_JP": "ゴリアテの兜",
       "zh_CN": "歌利亚头盔"
     }
@@ -41127,6 +41308,7 @@
   "sktok_acarm033_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Goliath Helmet",
       "ja_JP": "ゴリアテの兜",
       "zh_CN": "歌利亚头盔"
     }
@@ -41134,6 +41316,7 @@
   "sktok_acarm034_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "M3 Armor",
       "ja_JP": "M3アーマー",
       "zh_CN": "M3护甲"
     }
@@ -41141,6 +41324,7 @@
   "sktok_acarm034_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "M3 Armor",
       "ja_JP": "M3アーマー",
       "zh_CN": "M3护甲"
     }
@@ -41148,6 +41332,7 @@
   "sktok_acarm035_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "M3 Claw",
       "ja_JP": "M3クロー",
       "zh_CN": "M3利爪"
     }
@@ -41155,6 +41340,7 @@
   "sktok_acarm035_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "M3 Claw",
       "ja_JP": "M3クロー",
       "zh_CN": "M3利爪"
     }
@@ -41162,6 +41348,7 @@
   "sktok_acarm036_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Portable Launcher",
       "ja_JP": "携帯式射出装置",
       "zh_CN": "便携弹射器"
     }
@@ -41169,6 +41356,7 @@
   "sktok_acarm036_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Portable Launcher",
       "ja_JP": "携帯式射出装置",
       "zh_CN": "便携弹射器"
     }
@@ -41176,6 +41364,7 @@
   "sktok_acarm037_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Miniature Accelerator",
       "ja_JP": "有限加速マシン",
       "zh_CN": "有限加速器"
     }
@@ -41183,6 +41372,7 @@
   "sktok_acarm037_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Miniature Accelerator",
       "ja_JP": "有限加速マシン",
       "zh_CN": "有限加速器"
     }
@@ -41190,6 +41380,7 @@
   "sktok_acarm038_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Multi-Purpose Robotic Arm",
       "ja_JP": "万能ロボットアーム",
       "zh_CN": "全能机械臂"
     }
@@ -41197,6 +41388,7 @@
   "sktok_acarm038_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Multi-Purpose Robotic Arm",
       "ja_JP": "万能ロボットアーム",
       "zh_CN": "全能机械臂"
     }
@@ -41204,6 +41396,7 @@
   "sktok_acarm039_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Doctor Hologram",
       "ja_JP": "ドクターのホログラム",
       "zh_CN": "博士投影"
     }
@@ -41211,6 +41404,7 @@
   "sktok_acarm039_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Doctor Hologram",
       "ja_JP": "ドクターのホログラム",
       "zh_CN": "博士投影"
     }
@@ -41218,6 +41412,7 @@
   "sktok_acshopfr_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Supply Retention",
       "ja_JP": "補給凍結",
       "zh_CN": "补给留存"
     }
@@ -41225,6 +41420,7 @@
   "sktok_acshopre_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Supply Distribution",
       "ja_JP": "補給調達",
       "zh_CN": "补给调配"
     }
@@ -41232,6 +41428,7 @@
   "sktok_acshopup_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Supply Upgrade",
       "ja_JP": "補給強化",
       "zh_CN": "补给升级"
     }
@@ -41239,6 +41436,7 @@
   "sktok_acspell001_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Arts: Recovery",
       "ja_JP": "アーツ：治療",
       "zh_CN": "法术：恢复"
     }
@@ -41246,6 +41444,7 @@
   "sktok_acspell002_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Arts: Strength",
       "ja_JP": "アーツ：剛力",
       "zh_CN": "法术：力量"
     }
@@ -41253,6 +41452,7 @@
   "sktok_acspell003_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Arts: Transmission",
       "ja_JP": "アーツ：伝動",
       "zh_CN": "法术：传动"
     }
@@ -41260,6 +41460,7 @@
   "sktok_acspell004_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Arts: Greed",
       "ja_JP": "アーツ：貪欲",
       "zh_CN": "法术：贪婪"
     }
@@ -41267,6 +41468,7 @@
   "sktok_acspell005_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Arts: Satisfaction",
       "ja_JP": "アーツ：充足",
       "zh_CN": "法术：满足"
     }
@@ -41274,6 +41476,7 @@
   "sktok_acspell006_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Arts: Shield",
       "ja_JP": "アーツ：防壁",
       "zh_CN": "法术：护盾"
     }
@@ -41281,6 +41484,7 @@
   "sktok_acspell007_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Arts: Role Model",
       "ja_JP": "アーツ：昇進",
       "zh_CN": "法术：榜样"
     }
@@ -41288,6 +41492,7 @@
   "sktok_acspell008_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Arts: Barrier",
       "ja_JP": "アーツ：護身",
       "zh_CN": "法术：屏障"
     }
@@ -41295,6 +41500,7 @@
   "sktok_acspell009_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Arts: Familiar Face",
       "ja_JP": "アーツ：伝心",
       "zh_CN": "法术：熟人"
     }
@@ -41302,6 +41508,7 @@
   "sktok_acspell010_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Arts: Peer",
       "ja_JP": "アーツ：同行",
       "zh_CN": "法术：同行"
     }
@@ -41309,6 +41516,7 @@
   "sktok_acspell011_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Arts: Boost",
       "ja_JP": "アーツ：向上",
       "zh_CN": "法术：提升"
     }
@@ -41316,6 +41524,7 @@
   "sktok_acspell012_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Arts: Slow",
       "ja_JP": "アーツ：緩速",
       "zh_CN": "法术：迟缓"
     }
@@ -41323,6 +41532,7 @@
   "sktok_acspell014_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Arts: All-Out",
       "ja_JP": "アーツ：全力",
       "zh_CN": "法术：全力"
     }
@@ -41330,6 +41540,7 @@
   "sktok_acspell015_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Arts: Blood Tax",
       "ja_JP": "アーツ：血税",
       "zh_CN": "法术：血税"
     }
@@ -41337,6 +41548,7 @@
   "sktok_acspell016_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Arts: Infiltration",
       "ja_JP": "アーツ：奇兵",
       "zh_CN": "法术：破袭"
     }
@@ -41344,6 +41556,7 @@
   "sktok_acspell017_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Advanced Deployment Permit",
       "ja_JP": "昇進配分許可証",
       "zh_CN": "晋升调配特许"
     }
@@ -48069,6 +48282,7 @@
   "act1vautochess_m01": {
     "type": "STAGE",
     "names": {
+      "en_US": "AC-TR-1",
       "ja_JP": "AC-TR-1",
       "zh_CN": "AC-TR-1"
     }
@@ -48076,6 +48290,7 @@
   "act1vautochess_m02": {
     "type": "STAGE",
     "names": {
+      "en_US": "AC-1",
       "ja_JP": "AC-1",
       "zh_CN": "AC-1"
     }
@@ -48083,6 +48298,7 @@
   "act1vautochess_m03": {
     "type": "STAGE",
     "names": {
+      "en_US": "AC-2",
       "ja_JP": "AC-2",
       "zh_CN": "AC-2"
     }
@@ -48090,6 +48306,7 @@
   "act1vautochess_m04": {
     "type": "STAGE",
     "names": {
+      "en_US": "AC-2",
       "ja_JP": "AC-2",
       "zh_CN": "AC-2"
     }
@@ -48097,6 +48314,7 @@
   "act1vautochess_m05": {
     "type": "STAGE",
     "names": {
+      "en_US": "AC-2",
       "ja_JP": "AC-2",
       "zh_CN": "AC-2"
     }

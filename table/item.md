@@ -270,7 +270,7 @@ tip: 请善用浏览器的搜索功能
 | act1mainss_token_medi | 急性感染抑制剂 | Emergency Inhibitor | 急性感染抑制剤 |
 | act1multi_token_cap | 参赛认证-S1 | - | - |
 | act1sandbox_milestone_point | 繁荣证章 | Badge of Prosperity | 繁栄の証 |
-| act1vautochess_token_chess | 卫戍认证 | - | 堅守認証 |
+| act1vautochess_token_chess | 卫戍认证 | Stronghold Credits | 堅守認証 |
 | act1vecb_milestone_point | 胜绩积分 | Attainment Point | 勝利記念品 |
 | act20side_token_book | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
 | act20side_token_book_rep_1 | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |

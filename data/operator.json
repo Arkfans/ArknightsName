@@ -1870,66 +1870,82 @@
     "zh_CN": "预备干员-重装"
   },
   "char_600_cpione": {
+    "en_US": "Reserve Operator - Vanguard",
     "ja_JP": "予備隊員-先鋒",
     "zh_CN": "预备干员-先锋"
   },
   "char_601_cguard": {
+    "en_US": "Reserve Operator - Guard",
     "ja_JP": "予備隊員-前衛",
     "zh_CN": "预备干员-近卫"
   },
   "char_602_cdfend": {
+    "en_US": "Reserve Operator - Defender",
     "ja_JP": "予備隊員-重装",
     "zh_CN": "预备干员-重装"
   },
   "char_603_csnipe": {
+    "en_US": "Reserve Operator - Sniper",
     "ja_JP": "予備隊員-狙撃",
     "zh_CN": "预备干员-狙击"
   },
   "char_604_ccast": {
+    "en_US": "Reserve Operator - Caster",
     "ja_JP": "予備隊員-術師",
     "zh_CN": "预备干员-术师"
   },
   "char_605_cmedic": {
+    "en_US": "Reserve Operator - Medic",
     "ja_JP": "予備隊員-医療",
     "zh_CN": "预备干员-医疗"
   },
   "char_606_csuppo": {
+    "en_US": "Reserve Operator - Supporter",
     "ja_JP": "予備隊員-補助",
     "zh_CN": "预备干员-辅助"
   },
   "char_607_cspec": {
+    "en_US": "Reserve Operator - Specialist",
     "ja_JP": "予備隊員-特殊",
     "zh_CN": "预备干员-特种"
   },
   "char_608_acpion": {
+    "en_US": "Tulip",
     "ja_JP": "チューリップ",
     "zh_CN": "郁金香"
   },
   "char_609_acguad": {
+    "en_US": "Sharp",
     "ja_JP": "Sharp",
     "zh_CN": "Sharp"
   },
   "char_610_acfend": {
+    "en_US": "Mechanist",
     "ja_JP": "Mechanist",
     "zh_CN": "Mechanist"
   },
   "char_611_acnipe": {
+    "en_US": "Stormeye",
     "ja_JP": "Stormeye",
     "zh_CN": "Stormeye"
   },
   "char_612_accast": {
+    "en_US": "Pith",
     "ja_JP": "Pith",
     "zh_CN": "Pith"
   },
   "char_613_acmedc": {
+    "en_US": "Touch",
     "ja_JP": "Touch",
     "zh_CN": "Touch"
   },
   "char_614_acsupo": {
+    "en_US": "Raidian",
     "ja_JP": "Raidian",
     "zh_CN": "Raidian"
   },
   "char_615_acspec": {
+    "en_US": "Misery",
     "ja_JP": "Misery",
     "zh_CN": "Misery"
   }

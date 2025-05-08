@@ -6331,22 +6331,27 @@
     "zh_CN": "“迷迭香”的无人机"
   },
   "enemy_9001_ayokai": {
+    "en_US": "Surprise Sponsor Drone",
     "ja_JP": "サプライズ協賛ドローン",
     "zh_CN": "惊喜赞助无人机"
   },
   "enemy_9002_adsham": {
+    "en_US": "Sarkaz Bloodthirst Caster",
     "ja_JP": "サルカズ渇血術師",
     "zh_CN": "萨卡兹渴血术师"
   },
   "enemy_9003_askate": {
+    "en_US": "Pathfinder Armicustos",
     "ja_JP": "求道供弾者",
     "zh_CN": "寻路者供弹手"
   },
   "enemy_9004_anlock": {
+    "en_US": "Technician Prisoner",
     "ja_JP": "囚人技師",
     "zh_CN": "技师囚犯"
   },
   "enemy_9005_aicemn": {
+    "en_US": "Glacial Archer",
     "ja_JP": "氷晶の射手",
     "zh_CN": "冰晶射手"
   }

@@ -162,7 +162,7 @@ tip: 请善用浏览器的搜索功能
 | char_225_haak@nian#5 | 妙手玄心 | Healing Hand, Evil Heart | 妙手深謀 |
 | char_226_hmau@nian#4 | 一介车夫 | Just A Driver | 小粋車夫 |
 | char_230_savage@boc#8 | 地底三百米 | 300 Metres Underground | 地底三百メートル |
-| char_230_savage@kitchen#3 | 家传秘方 | - | 秘伝レシピ |
+| char_230_savage@kitchen#3 | 家传秘方 | Secret Family Recipe | 秘伝レシピ |
 | char_235_jesica@nian#2 | 君子兰 | Clivia | 君子蘭 |
 | char_235_jesica@sweep#1 | 铁块 | Iron Block | 鉄塊 |
 | char_235_jesica@wild#2 | 燃灰 | Ash | 灰燼 |
@@ -405,4 +405,4 @@ tip: 请善用浏览器的搜索功能
 | char_497_ctable@epoque#44 | 湖畔歌者 | - | - |
 | char_497_ctable@nian#9 | 灯如昼 | Illumination That of Daylights | 灯如昼 |
 | char_498_inside@kitchen#2 | 甜品大奖 | Sweet Jackpot | スイーツ大賞 |
-| char_499_kaitou@epoque#37 | 斜照 | - | 夕陽差す屋根裏 |
+| char_499_kaitou@epoque#37 | 斜照 | Sun Slant | 夕陽差す屋根裏 |

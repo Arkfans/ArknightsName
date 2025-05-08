@@ -1331,8 +1331,8 @@ tip: 请善用浏览器的搜索功能
 | enemy_8007_eltrsm_3 | “迷迭香”，虚实之握 | Rosmontis, Simulated Sentry | 「Rosmontis」・虚実の手 |
 | enemy_8008_eltswd | 矢量战术装备 | V.T.E. | ベクトル戦術装備 |
 | enemy_8009_eltufo | “迷迭香”的无人机 | Rosmontis's Drone | 「Rosmontis」のドローン |
-| enemy_9001_ayokai | 惊喜赞助无人机 | - | サプライズ協賛ドローン |
-| enemy_9002_adsham | 萨卡兹渴血术师 | - | サルカズ渇血術師 |
-| enemy_9003_askate | 寻路者供弹手 | - | 求道供弾者 |
-| enemy_9004_anlock | 技师囚犯 | - | 囚人技師 |
-| enemy_9005_aicemn | 冰晶射手 | - | 氷晶の射手 |
+| enemy_9001_ayokai | 惊喜赞助无人机 | Surprise Sponsor Drone | サプライズ協賛ドローン |
+| enemy_9002_adsham | 萨卡兹渴血术师 | Sarkaz Bloodthirst Caster | サルカズ渇血術師 |
+| enemy_9003_askate | 寻路者供弹手 | Pathfinder Armicustos | 求道供弾者 |
+| enemy_9004_anlock | 技师囚犯 | Technician Prisoner | 囚人技師 |
+| enemy_9005_aicemn | 冰晶射手 | Glacial Archer | 氷晶の射手 |

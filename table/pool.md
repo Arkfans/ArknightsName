@@ -193,7 +193,7 @@ tip: 请善用浏览器的搜索功能
 | _NORM_30_0_3 | - | The Front That Was | 先途追想 |
 | _NORM_30_0_7 | - | Joint Operation | 連合作戦 |
 | _NORM_32_0_3 | - | Joint Operation | 連合作戦 |
-| _NORM_33_0_5 | - | - | 連合作戦 |
+| _NORM_33_0_5 | - | Joint Operation | 連合作戦 |
 | _NORM_3_0_1 | - | Frozen Land | 果てなき氷原 |
 | _NORM_3_1_1 | - | First Snowfall | 雪降る暁 |
 | _NORM_3_2_1 | - | Lisa of the Valley | 峡谷に芽吹く君影草 |
