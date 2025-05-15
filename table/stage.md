@@ -378,6 +378,26 @@ tip: 请善用浏览器的搜索功能
 | act1bossrush_02 | 卷土重来 | Comeback | 捲土重来 |
 | act1bossrush_03 | 风沙轰隆隆 | Rolling Sands | 塵旋風とどろく |
 | act1bossrush_04 | 理念之争 | Clash of Ideologies | 理念の戦 |
+| act1break_01 | 横冲直进 | - | - |
+| act1break_02 | 交通拦截 | - | - |
+| act1break_03 | 潮声轰鸣 | - | - |
+| act1break_04 | 机械概括谬误 | - | - |
+| act1break_05 | 止步即死 | - | - |
+| act1break_06 | 二次烧成 | - | - |
+| act1break_07 | 果蔬乱炖 | - | - |
+| act1break_08 | 结构化思维 | - | - |
+| act1break_09 | 心碎沙堡 | - | - |
+| act1break_10 | 夹道欢迎 | - | - |
+| act1break_11 | 寒暑不分 | - | - |
+| act1break_12 | 存在性论证 | - | - |
+| act1break_sp01 | 何必匆忙 | - | - |
+| act1break_sp02 | 无暇分心 | - | - |
+| act1break_sp03 | 火力掩护 | - | - |
+| act1break_sp04 | 啮齿出洞 | - | - |
+| act1break_sp05 | 啮齿狂潮 | - | - |
+| act1break_sp06 | 择人而噬 | - | - |
+| act1break_sp07 | 投资回报 | - | - |
+| act1break_sp08 | 风险投资 | - | - |
 | act1enemyduel_01a | 争锋试炼！ | - | - |
 | act1enemyduel_01b | 争锋试炼！ | - | - |
 | act1enemyduel_02a | 争锋对决！ | - | - |
@@ -839,6 +859,11 @@ tip: 请善用浏览器的搜索功能
 | act42side_08 | 朝圣 | - | - |
 | act42side_09 | 解经 | - | - |
 | act42side_10 | 降生 | - | - |
+| act42side_s01 | 甜品展会 | - | - |
+| act42side_s02 | 布道演习 | - | - |
+| act42side_s03 | 全民阅兵 | - | - |
+| act42side_s04 | 万国峰会 | - | - |
+| act42side_s05 | 授律圣事 | - | - |
 | act42side_st01 | “堕天” | - | - |
 | act42side_st02 | 启圣 | - | - |
 | act42side_st03 | 重逢 | - | - |

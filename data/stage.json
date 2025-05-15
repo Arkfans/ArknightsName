@@ -1820,6 +1820,66 @@
     "ja_JP": "理念の戦",
     "zh_CN": "理念之争"
   },
+  "act1break_01": {
+    "zh_CN": "横冲直进"
+  },
+  "act1break_02": {
+    "zh_CN": "交通拦截"
+  },
+  "act1break_03": {
+    "zh_CN": "潮声轰鸣"
+  },
+  "act1break_04": {
+    "zh_CN": "机械概括谬误"
+  },
+  "act1break_05": {
+    "zh_CN": "止步即死"
+  },
+  "act1break_06": {
+    "zh_CN": "二次烧成"
+  },
+  "act1break_07": {
+    "zh_CN": "果蔬乱炖"
+  },
+  "act1break_08": {
+    "zh_CN": "结构化思维"
+  },
+  "act1break_09": {
+    "zh_CN": "心碎沙堡"
+  },
+  "act1break_10": {
+    "zh_CN": "夹道欢迎"
+  },
+  "act1break_11": {
+    "zh_CN": "寒暑不分"
+  },
+  "act1break_12": {
+    "zh_CN": "存在性论证"
+  },
+  "act1break_sp01": {
+    "zh_CN": "何必匆忙"
+  },
+  "act1break_sp02": {
+    "zh_CN": "无暇分心"
+  },
+  "act1break_sp03": {
+    "zh_CN": "火力掩护"
+  },
+  "act1break_sp04": {
+    "zh_CN": "啮齿出洞"
+  },
+  "act1break_sp05": {
+    "zh_CN": "啮齿狂潮"
+  },
+  "act1break_sp06": {
+    "zh_CN": "择人而噬"
+  },
+  "act1break_sp07": {
+    "zh_CN": "投资回报"
+  },
+  "act1break_sp08": {
+    "zh_CN": "风险投资"
+  },
   "act1enemyduel_01a": {
     "zh_CN": "争锋试炼！"
   },
@@ -3952,6 +4012,21 @@
   },
   "act42side_10": {
     "zh_CN": "降生"
+  },
+  "act42side_s01": {
+    "zh_CN": "甜品展会"
+  },
+  "act42side_s02": {
+    "zh_CN": "布道演习"
+  },
+  "act42side_s03": {
+    "zh_CN": "全民阅兵"
+  },
+  "act42side_s04": {
+    "zh_CN": "万国峰会"
+  },
+  "act42side_s05": {
+    "zh_CN": "授律圣事"
   },
   "act42side_st01": {
     "zh_CN": "“堕天”"

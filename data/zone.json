@@ -452,6 +452,15 @@
     "ja_JP": "強敵襲来",
     "zh_CN": "强敌当前"
   },
+  "act1break_zone1": {
+    "zh_CN": "核心突破"
+  },
+  "act1break_zone2": {
+    "zh_CN": "全力以赴"
+  },
+  "act1break_zone3": {
+    "zh_CN": "特别战线"
+  },
   "act1lock_zone1": {
     "en_US": "Base Camp",
     "ja_JP": "始発拠点",

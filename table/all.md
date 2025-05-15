@@ -1024,6 +1024,7 @@ tip: 请善用浏览器的搜索功能
 | char_158_milu@snow#2 | 覆雪 | Snowywatch | 白い狩人 |
 | char_158_milu@wild#2 | 枯柏 | Wilted Cypress | 枯れ柏 |
 | char_159_peacok@game#1 | 超级断罪朋友 | Your Superconvicting Friend | スーパー断罪フレンズ |
+| char_163_hpsts@boc#10 | 火种 | - | - |
 | char_164_nightm@epoque#5 | 光影 | Light and Shadow | 光と影 |
 | char_164_nightm@unveiling#2 | 湖畔的少女 | - | - |
 | char_166_skfire@summer#1 | 温差 RT.RX01 | Temperature Difference RT.RX01 | 温度差RT.RX01 |
@@ -2687,6 +2688,16 @@ tip: 请善用浏览器的搜索功能
 | enemy_8007_eltrsm_3 | “迷迭香”，虚实之握 | Rosmontis, Simulated Sentry | 「Rosmontis」・虚実の手 |
 | enemy_8008_eltswd | 矢量战术装备 | V.T.E. | ベクトル戦術装備 |
 | enemy_8009_eltufo | “迷迭香”的无人机 | Rosmontis's Drone | 「Rosmontis」のドローン |
+| enemy_8010_mcnist | “Mechanist”，机械之心 | - | - |
+| enemy_8010_mcnist_2 | “Mechanist”，机械之心 | - | - |
+| enemy_8010_mcnist_3 | “Mechanist”，机械之心 | - | - |
+| enemy_8011_mcndog | 结构性原理 | - | - |
+| enemy_8011_mcndog_2 | 结构性原理 | - | - |
+| enemy_8011_mcndog_3 | 结构性原理 | - | - |
+| enemy_8012_mcnd | 文档 | - | - |
+| enemy_8013_mcnrsh | 叶毯 | - | - |
+| enemy_8014_mcnelp | 秒表 | - | - |
+| enemy_8015_mcnrhd | 巨声 | - | - |
 | enemy_9001_ayokai | 惊喜赞助无人机 | Surprise Sponsor Drone | サプライズ協賛ドローン |
 | enemy_9002_adsham | 萨卡兹渴血术师 | Sarkaz Bloodthirst Caster | サルカズ渇血術師 |
 | enemy_9003_askate | 寻路者供弹手 | Pathfinder Armicustos | 求道供弾者 |
@@ -2771,6 +2782,7 @@ tip: 请善用浏览器的搜索功能
 | act1arcade | 视相博物馆 | - | - |
 | act1blessing | 2024罗德岛新春签到 | 2024 Festival Sign-In | 4.5周年スタンプラリー |
 | act1bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
+| act1break | 矢量突破：无机物 | - | - |
 | act1checkin | 未来序曲签到活动 | Preludes to the Future Sign-in Event | 大感謝祭スタンプ |
 | act1collection | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
 | act1d5 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -3233,6 +3245,7 @@ Event | なないろのお茶会 |
 | act1bossrush_relic_03 | 超级闪存 | Super Cache | ハイパーストレージ |
 | act1bossrush_relic_04 | 推斥管控 | Repel Control | 相互作用強化 |
 | act1bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
+| act1break_milestone_point | “小心地滑” | - | - |
 | act1collection_point_token | “探索者”兑换点数 | 'Expeditioners' Redemption Point | 「探索者」交換ポイント |
 | act1d0_token_gold_rep_1 | 赏金猎人金币 | Bounty Coin | ラッキーコイン |
 | act1enemyduel_milestone_point | 争锋大礼花 | - | - |
@@ -4356,6 +4369,7 @@ Event | なないろのお茶会 |
 | SINGLE_60_0_3 | 如死亦终 | - | - |
 | SPECIAL_54_0_5 | 定向甄选 | - | - |
 | SPECIAL_59_0_3 | 定向甄选 | - | - |
+| SPECIAL_61_0_3 | 定向甄选 | - | - |
 | _ATTAIN_15_2_1 | - | Celebrate & Recollect | ロドスの道のり　回顧 |
 | _ATTAIN_22_1_2 | - | Celebration & Link-Up | ロドスの道のり・邂逅 |
 | _ATTAIN_28_0_2 | - | Celebration & Vista | ロドスの道のり・展望 |
@@ -6191,6 +6205,26 @@ Event | なないろのお茶会 |
 | act1bossrush_02 | 卷土重来 | Comeback | 捲土重来 |
 | act1bossrush_03 | 风沙轰隆隆 | Rolling Sands | 塵旋風とどろく |
 | act1bossrush_04 | 理念之争 | Clash of Ideologies | 理念の戦 |
+| act1break_01 | 横冲直进 | - | - |
+| act1break_02 | 交通拦截 | - | - |
+| act1break_03 | 潮声轰鸣 | - | - |
+| act1break_04 | 机械概括谬误 | - | - |
+| act1break_05 | 止步即死 | - | - |
+| act1break_06 | 二次烧成 | - | - |
+| act1break_07 | 果蔬乱炖 | - | - |
+| act1break_08 | 结构化思维 | - | - |
+| act1break_09 | 心碎沙堡 | - | - |
+| act1break_10 | 夹道欢迎 | - | - |
+| act1break_11 | 寒暑不分 | - | - |
+| act1break_12 | 存在性论证 | - | - |
+| act1break_sp01 | 何必匆忙 | - | - |
+| act1break_sp02 | 无暇分心 | - | - |
+| act1break_sp03 | 火力掩护 | - | - |
+| act1break_sp04 | 啮齿出洞 | - | - |
+| act1break_sp05 | 啮齿狂潮 | - | - |
+| act1break_sp06 | 择人而噬 | - | - |
+| act1break_sp07 | 投资回报 | - | - |
+| act1break_sp08 | 风险投资 | - | - |
 | act1enemyduel_01a | 争锋试炼！ | - | - |
 | act1enemyduel_01b | 争锋试炼！ | - | - |
 | act1enemyduel_02a | 争锋对决！ | - | - |
@@ -6652,6 +6686,11 @@ Event | なないろのお茶会 |
 | act42side_08 | 朝圣 | - | - |
 | act42side_09 | 解经 | - | - |
 | act42side_10 | 降生 | - | - |
+| act42side_s01 | 甜品展会 | - | - |
+| act42side_s02 | 布道演习 | - | - |
+| act42side_s03 | 全民阅兵 | - | - |
+| act42side_s04 | 万国峰会 | - | - |
+| act42side_s05 | 授律圣事 | - | - |
 | act42side_st01 | “堕天” | - | - |
 | act42side_st02 | 启圣 | - | - |
 | act42side_st03 | 重逢 | - | - |
@@ -7411,6 +7450,9 @@ Event | なないろのお茶会 |
 | act19sre_zone1 | 实验基地 | Research Base | 実験基地 |
 | act19sre_zone2 | 莱茵总部 | Rhine Headquarters | ライン生命本社 |
 | act1bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
+| act1break_zone1 | 核心突破 | - | - |
+| act1break_zone2 | 全力以赴 | - | - |
+| act1break_zone3 | 特别战线 | - | - |
 | act1lock_zone1 | 始发营地 | Base Camp | 始発拠点 |
 | act1r6sre_zone1 | 行动记录 | Task Record | 作戦記録 |
 | act1r6sre_zone2 | 备战训练 | Para Bellum | 戦闘訓練 |

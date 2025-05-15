@@ -93,6 +93,7 @@ tip: 请善用浏览器的搜索功能
 | char_158_milu@snow#2 | 覆雪 | Snowywatch | 白い狩人 |
 | char_158_milu@wild#2 | 枯柏 | Wilted Cypress | 枯れ柏 |
 | char_159_peacok@game#1 | 超级断罪朋友 | Your Superconvicting Friend | スーパー断罪フレンズ |
+| char_163_hpsts@boc#10 | 火种 | - | - |
 | char_164_nightm@epoque#5 | 光影 | Light and Shadow | 光と影 |
 | char_164_nightm@unveiling#2 | 湖畔的少女 | - | - |
 | char_166_skfire@summer#1 | 温差 RT.RX01 | Temperature Difference RT.RX01 | 温度差RT.RX01 |

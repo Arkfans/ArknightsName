@@ -1256,6 +1256,9 @@
     "ja_JP": "ブラックボックス",
     "zh_CN": "数据黑盒"
   },
+  "act1break_milestone_point": {
+    "zh_CN": "“小心地滑”"
+  },
   "act1collection_point_token": {
     "en_US": "'Expeditioners' Redemption Point",
     "ja_JP": "「探索者」交換ポイント",

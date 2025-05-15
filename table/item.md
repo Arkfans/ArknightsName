@@ -262,6 +262,7 @@ tip: 请善用浏览器的搜索功能
 | act1bossrush_relic_03 | 超级闪存 | Super Cache | ハイパーストレージ |
 | act1bossrush_relic_04 | 推斥管控 | Repel Control | 相互作用強化 |
 | act1bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
+| act1break_milestone_point | “小心地滑” | - | - |
 | act1collection_point_token | “探索者”兑换点数 | 'Expeditioners' Redemption Point | 「探索者」交換ポイント |
 | act1d0_token_gold_rep_1 | 赏金猎人金币 | Bounty Coin | ラッキーコイン |
 | act1enemyduel_milestone_point | 争锋大礼花 | - | - |
