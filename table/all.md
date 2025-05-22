@@ -1214,7 +1214,7 @@ tip: 请善用浏览器的搜索功能
 | char_4009_irene@game#3 | 至高判决 | The Adjudicatrix and Her Resolve | 至高の判決 |
 | char_400_weedy@sightseer#1 | 倾听 | Sedjem | 耳を傾けて |
 | char_400_weedy@snow#2 | 糖果仙子 | Candy Cape | キャンディフェアリー |
-| char_4011_lessng@whirlwind#7 | 幻火 | - | - |
+| char_4011_lessng@whirlwind#7 | 幻火 | - | 幻影の炎 |
 | char_4013_kjera@epoque#18 | 灵巧侍者 | Ingenious Servant | 腕利き侍女 |
 | char_4014_lunacu@yun#1 | 棠云巧梦 | Clouds Float Like Ideas of Art | 海棠の夢 |
 | char_4016_kazema@witch#3 | 幻影轻悄 | Like Illusion | 軽やかな幻影 |
@@ -1279,6 +1279,7 @@ tip: 请善用浏览器的搜索功能
 | char_4123_ela@rainbow6#2 | 密室 | Safehouse | セーフハウス |
 | char_4124_iana@rainbow6#2 | 镜廊 | Mirrormaze | ミラーメイズ |
 | char_4125_rdoc@rainbow6#2 | 展览 | Exhibition | エキシビション |
+| char_4130_luton@yun#6 | 寄遥思 | - | - |
 | char_4131_odda@whirlwind#8 | 糖果暴击 | - | - |
 | char_4133_logos@ambienceSynesthesia#6 | 辉煌的静谧 | - | - |
 | char_4136_phonor@boc#9 | 最初的颂歌 | - | - |
@@ -2836,7 +2837,7 @@ tip: 请善用浏览器的搜索功能
 | act28sre | 不义之财 复刻 | Come Catastrophes or Wakes of Vultures - Rerun | ダーティマネー・復刻 |
 | act29side | 崔林特尔梅之金 | Zwillingstürme im Herbst | ツヴィリングトゥルムの黄金 |
 | act29sign | 桂时逢月——月饼烘焙小教程 | Encounter At The Osmanthus Blossom - Mooncake-Making Tutorial | 円満団楽-ロドス点心教室 |
-| act29sre | 崔林特尔梅之金·复刻 | - | - |
+| act29sre | 崔林特尔梅之金·复刻 | - | ツヴィリングトゥルムの黄金・復刻 |
 | act2access | 活动推荐月卡 | - | - |
 | act2blessing | 2025罗德岛新春签到 | - | - |
 | act2bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
@@ -2882,6 +2883,7 @@ tip: 请善用浏览器的搜索功能
 | act3fun | 愚人节活动 | April Fools' Day Event | エイプリルフール |
 | act3mine | 葫芦谷矿区登录活动 | Gourd Valley Mining Area Login Event | ゴードバレー採鉱区 |
 | act3pray | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |
+| act3signvs | 端阳正午签到活动 | - | - |
 | act3switch | 虹彩茶会合作活动 | Sweetness
 Overload
 Collaboration
@@ -3281,15 +3283,15 @@ Event | なないろのお茶会 |
 | act28side_token_box | 劣质燃料 | Shoddy Fuel | 粗悪燃料 |
 | act28side_token_box_rep_1 | 劣质燃料 | Shoddy Fuel | 粗悪燃料 |
 | act29side_frag_1 | 乐之节符 | Note of Joy | 楽の音符 |
-| act29side_frag_1_rep_1 | 乐之节符 | - | - |
+| act29side_frag_1_rep_1 | 乐之节符 | - | 楽の音符 |
 | act29side_frag_2 | 怒之节符 | Note of Anger | 怒の音符 |
-| act29side_frag_2_rep_1 | 怒之节符 | - | - |
+| act29side_frag_2_rep_1 | 怒之节符 | - | 怒の音符 |
 | act29side_frag_3 | 哀之节符 | Note of Sorrow | 哀の音符 |
-| act29side_frag_3_rep_1 | 哀之节符 | - | - |
+| act29side_frag_3_rep_1 | 哀之节符 | - | 哀の音符 |
 | act29side_frag_4 | 惧之节符 | Note of Fear | 恐の音符 |
-| act29side_frag_4_rep_1 | 惧之节符 | - | - |
+| act29side_frag_4_rep_1 | 惧之节符 | - | 恐の音符 |
 | act29side_token_erin | 调律追忆 | Die Klänge von den Erinnerungen | 調律の追憶 |
-| act29side_token_erin_rep_1 | 调律追忆 | - | - |
+| act29side_token_erin_rep_1 | 调律追忆 | - | 調律の追憶 |
 | act2bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act2bossrush_relic_01 | 修复套件 | Repair Kit | リカバリーキット |
 | act2bossrush_relic_02 | 维续补丁 | Maintenance Patch | メインテインパッチ |
@@ -4122,7 +4124,7 @@ Event | なないろのお茶会 |
 | token_Obsidian_rep_1 | 汐斯塔的黑曜石 | Siesta Obsidian | シエスタの黒曜石 |
 | token_Wristband | 黑曜石节手环 | Obsidian Festival Bracelet | リストバンド |
 | uni_set_MemoryCloister_1 | 魂灵印象家具收藏包一 | Memories of the Souls Furniture Pack I | 魂の形家具パックvol.1 |
-| uni_set_MemoryCloister_2 | 魂灵印象家具收藏包二 | - | - |
+| uni_set_MemoryCloister_2 | 魂灵印象家具收藏包二 | - | 魂の形家具パックvol.2 |
 | uni_set_NHL | 吾导先路家具收藏包 | Guide Ahead Furniture Collection Set | 吾れ先導者たらん家具パック |
 | uni_set_SargonFair_1 | 阿尔萨兰家具收藏包一 | Arsalan Furniture Collection I | アルサラン家具パックvol.1 |
 | uni_set_SargonFair_2 | 阿尔萨兰家具收藏包二 | Arsalan Furniture Collection II | アルサラン家具パックvol.2 |
@@ -4136,6 +4138,7 @@ Event | なないろのお茶会 |
 | uni_set_concertHall | 尘影余音家具收藏包 | Lingering Echoes Furniture Pack | 塵影に交わる残響家具パック |
 | uni_set_countryside | 照我以火家具收藏包 | - | - |
 | uni_set_court | 叙拉古人家具收藏包 | Il Siracusano Furniture Pack | シラクザーノ家具パック |
+| uni_set_cultureroom | 孤星家具收藏包 | - | - |
 | uni_set_fNearl | 玛莉娅·临光家具收藏包 | Maria Nearl Furniture Pack | マリア・ニアール家具パック |
 | uni_set_goldBoat | 愚人号家具收藏包 | Stultifera Navis Furniture Pack | 狂人号家具パック |
 | uni_set_guitar | 火蓝之心家具收藏包 | Heart of Surging Flame Furniture Pack | 青く燃ゆる心家具パック |
@@ -4187,6 +4190,7 @@ Event | なないろのお茶会 |
 | voucher_full_puzzle | 谜图的私人信件 | - | - |
 | voucher_full_robin | 罗宾的私人信件 | Robin's Personal Letter | ロビンの手紙 |
 | voucher_full_sidero | 铸铁的私人信件 | Sideroca's Personal Letter | シデロカの手紙 |
+| voucher_full_slent2 | 淬羽赫默的私人信件 | - | - |
 | voucher_full_snsant | 雪雉的私人信件 | Snowsant's Personal Letter | スノーズントの手紙 |
 | voucher_full_sophia | 鞭刃的私人信件 | Whislash's Personal Letter | ウィスラッシュの手紙 |
 | voucher_full_takila | 龙舌兰的私人信件 | Tequila's Personal Letter | テキーラの手紙 |
@@ -6217,6 +6221,10 @@ Event | なないろのお茶会 |
 | act1break_10 | 夹道欢迎 | - | - |
 | act1break_11 | 寒暑不分 | - | - |
 | act1break_12 | 存在性论证 | - | - |
+| act1break_h01 | 热情逼人 | - | - |
+| act1break_h02 | 车轮滚滚 | - | - |
+| act1break_h03 | 思绪倒影 | - | - |
+| act1break_h04 | 有限性原理 | - | - |
 | act1break_sp01 | 何必匆忙 | - | - |
 | act1break_sp02 | 无暇分心 | - | - |
 | act1break_sp03 | 火力掩护 | - | - |
@@ -6225,6 +6233,14 @@ Event | なないろのお茶会 |
 | act1break_sp06 | 择人而噬 | - | - |
 | act1break_sp07 | 投资回报 | - | - |
 | act1break_sp08 | 风险投资 | - | - |
+| act1break_sp09 | 风尘仆仆 | - | - |
+| act1break_sp10 | 行色匆匆 | - | - |
+| act1break_sp11 | 爆炸现场 | - | - |
+| act1break_sp12 | 巫术排练 | - | - |
+| act1break_sp13 | 巫术汇演 | - | - |
+| act1break_sp14 | 绝人之路 | - | - |
+| act1break_sp15 | 墙开一面 | - | - |
+| act1break_sp16 | 活路一条 | - | - |
 | act1enemyduel_01a | 争锋试炼！ | - | - |
 | act1enemyduel_01b | 争锋试炼！ | - | - |
 | act1enemyduel_02a | 争锋对决！ | - | - |
@@ -7506,9 +7522,9 @@ Event | なないろのお茶会 |
 | act29side_zone1 | 朝见双塔 | Zwillingstürme anbeten | 双塔を仰ぐ |
 | act29side_zone2 | 恩典永恒 | Die Gnade ist ewig | 恩寵は永遠に |
 | act29side_zone3 | 权威无情 | Die Macht ist grimm | 大権に情なく |
-| act29sre_zone1 | 朝见双塔 | - | - |
-| act29sre_zone2 | 恩典永恒 | - | - |
-| act29sre_zone3 | 权威无情 | - | - |
+| act29sre_zone1 | 朝见双塔 | - | 双塔を仰ぐ |
+| act29sre_zone2 | 恩典永恒 | - | 恩寵は永遠に |
+| act29sre_zone3 | 权威无情 | - | 大権に情なく |
 | act2bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act2mainss_zone1 | 离解复合 | - | - |
 | act30side_zone1 | 三号站台 | Platform No. 3 | 3番ホーム |
@@ -7622,9 +7638,9 @@ Event | なないろのお茶会 |
 | permanent_sidestory_21_zone3 | 自诩荒野 | Terra Desolata Autoproclamata | 荒野を名乗る者 |
 | permanent_sidestory_22_zone1 | 苍白平台 | Anemic Platform | 青白い町 |
 | permanent_sidestory_22_zone2 | 黑色舰船 | Black Landship | 黒き艦船 |
-| permanent_sidestory_23_zone1 | 朝见双塔 | - | - |
-| permanent_sidestory_23_zone2 | 恩典永恒 | - | - |
-| permanent_sidestory_23_zone3 | 权威无情 | - | - |
+| permanent_sidestory_23_zone1 | 朝见双塔 | - | 双塔を仰ぐ |
+| permanent_sidestory_23_zone2 | 恩典永恒 | - | 恩寵は永遠に |
+| permanent_sidestory_23_zone3 | 权威无情 | - | 大権に情なく |
 | permanent_sidestory_24_zone1 | 三号站台 | - | - |
 | permanent_sidestory_24_zone2 | 特快列车 | - | - |
 | permanent_sidestory_25_zone1 | 种植地块 | - | - |

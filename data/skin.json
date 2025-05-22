@@ -1346,6 +1346,7 @@
     "zh_CN": "糖果仙子"
   },
   "char_4011_lessng@whirlwind#7": {
+    "ja_JP": "幻影の炎",
     "zh_CN": "幻火"
   },
   "char_4013_kjera@epoque#18": {
@@ -1643,6 +1644,9 @@
     "en_US": "Exhibition",
     "ja_JP": "エキシビション",
     "zh_CN": "展览"
+  },
+  "char_4130_luton@yun#6": {
+    "zh_CN": "寄遥思"
   },
   "char_4131_odda@whirlwind#8": {
     "zh_CN": "糖果暴击"

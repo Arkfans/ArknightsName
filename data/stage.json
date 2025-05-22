@@ -1856,6 +1856,18 @@
   "act1break_12": {
     "zh_CN": "存在性论证"
   },
+  "act1break_h01": {
+    "zh_CN": "热情逼人"
+  },
+  "act1break_h02": {
+    "zh_CN": "车轮滚滚"
+  },
+  "act1break_h03": {
+    "zh_CN": "思绪倒影"
+  },
+  "act1break_h04": {
+    "zh_CN": "有限性原理"
+  },
   "act1break_sp01": {
     "zh_CN": "何必匆忙"
   },
@@ -1879,6 +1891,30 @@
   },
   "act1break_sp08": {
     "zh_CN": "风险投资"
+  },
+  "act1break_sp09": {
+    "zh_CN": "风尘仆仆"
+  },
+  "act1break_sp10": {
+    "zh_CN": "行色匆匆"
+  },
+  "act1break_sp11": {
+    "zh_CN": "爆炸现场"
+  },
+  "act1break_sp12": {
+    "zh_CN": "巫术排练"
+  },
+  "act1break_sp13": {
+    "zh_CN": "巫术汇演"
+  },
+  "act1break_sp14": {
+    "zh_CN": "绝人之路"
+  },
+  "act1break_sp15": {
+    "zh_CN": "墙开一面"
+  },
+  "act1break_sp16": {
+    "zh_CN": "活路一条"
   },
   "act1enemyduel_01a": {
     "zh_CN": "争锋试炼！"

@@ -390,6 +390,10 @@ tip: 请善用浏览器的搜索功能
 | act1break_10 | 夹道欢迎 | - | - |
 | act1break_11 | 寒暑不分 | - | - |
 | act1break_12 | 存在性论证 | - | - |
+| act1break_h01 | 热情逼人 | - | - |
+| act1break_h02 | 车轮滚滚 | - | - |
+| act1break_h03 | 思绪倒影 | - | - |
+| act1break_h04 | 有限性原理 | - | - |
 | act1break_sp01 | 何必匆忙 | - | - |
 | act1break_sp02 | 无暇分心 | - | - |
 | act1break_sp03 | 火力掩护 | - | - |
@@ -398,6 +402,14 @@ tip: 请善用浏览器的搜索功能
 | act1break_sp06 | 择人而噬 | - | - |
 | act1break_sp07 | 投资回报 | - | - |
 | act1break_sp08 | 风险投资 | - | - |
+| act1break_sp09 | 风尘仆仆 | - | - |
+| act1break_sp10 | 行色匆匆 | - | - |
+| act1break_sp11 | 爆炸现场 | - | - |
+| act1break_sp12 | 巫术排练 | - | - |
+| act1break_sp13 | 巫术汇演 | - | - |
+| act1break_sp14 | 绝人之路 | - | - |
+| act1break_sp15 | 墙开一面 | - | - |
+| act1break_sp16 | 活路一条 | - | - |
 | act1enemyduel_01a | 争锋试炼！ | - | - |
 | act1enemyduel_01b | 争锋试炼！ | - | - |
 | act1enemyduel_02a | 争锋对决！ | - | - |

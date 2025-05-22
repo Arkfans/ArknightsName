@@ -1431,6 +1431,7 @@
     "zh_CN": "乐之节符"
   },
   "act29side_frag_1_rep_1": {
+    "ja_JP": "楽の音符",
     "zh_CN": "乐之节符"
   },
   "act29side_frag_2": {
@@ -1439,6 +1440,7 @@
     "zh_CN": "怒之节符"
   },
   "act29side_frag_2_rep_1": {
+    "ja_JP": "怒の音符",
     "zh_CN": "怒之节符"
   },
   "act29side_frag_3": {
@@ -1447,6 +1449,7 @@
     "zh_CN": "哀之节符"
   },
   "act29side_frag_3_rep_1": {
+    "ja_JP": "哀の音符",
     "zh_CN": "哀之节符"
   },
   "act29side_frag_4": {
@@ -1455,6 +1458,7 @@
     "zh_CN": "惧之节符"
   },
   "act29side_frag_4_rep_1": {
+    "ja_JP": "恐の音符",
     "zh_CN": "惧之节符"
   },
   "act29side_token_erin": {
@@ -1463,6 +1467,7 @@
     "zh_CN": "调律追忆"
   },
   "act29side_token_erin_rep_1": {
+    "ja_JP": "調律の追憶",
     "zh_CN": "调律追忆"
   },
   "act2bossrush_milestone_point": {
@@ -5492,6 +5497,7 @@
     "zh_CN": "魂灵印象家具收藏包一"
   },
   "uni_set_MemoryCloister_2": {
+    "ja_JP": "魂の形家具パックvol.2",
     "zh_CN": "魂灵印象家具收藏包二"
   },
   "uni_set_NHL": {
@@ -5556,6 +5562,9 @@
     "en_US": "Il Siracusano Furniture Pack",
     "ja_JP": "シラクザーノ家具パック",
     "zh_CN": "叙拉古人家具收藏包"
+  },
+  "uni_set_cultureroom": {
+    "zh_CN": "孤星家具收藏包"
   },
   "uni_set_fNearl": {
     "en_US": "Maria Nearl Furniture Pack",
@@ -5803,6 +5812,9 @@
     "en_US": "Sideroca's Personal Letter",
     "ja_JP": "シデロカの手紙",
     "zh_CN": "铸铁的私人信件"
+  },
+  "voucher_full_slent2": {
+    "zh_CN": "淬羽赫默的私人信件"
   },
   "voucher_full_snsant": {
     "en_US": "Snowsant's Personal Letter",

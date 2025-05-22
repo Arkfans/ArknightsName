@@ -631,6 +631,7 @@
     "zh_CN": "桂时逢月——月饼烘焙小教程"
   },
   "act29sre": {
+    "ja_JP": "ツヴィリングトゥルムの黄金・復刻",
     "zh_CN": "崔林特尔梅之金·复刻"
   },
   "act2access": {
@@ -839,6 +840,9 @@
     "en_US": "Lungmen Lucky Strips",
     "ja_JP": "龍門おみくじ",
     "zh_CN": "龙门幸运墙登录活动"
+  },
+  "act3signvs": {
+    "zh_CN": "端阳正午签到活动"
   },
   "act3switch": {
     "en_US": "Sweetness\nOverload\nCollaboration\nEvent",
