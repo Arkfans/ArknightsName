@@ -283,7 +283,7 @@ tip: 请善用浏览器的搜索功能
 | char_4009_irene@game#3 | 至高判决 | The Adjudicatrix and Her Resolve | 至高の判決 |
 | char_400_weedy@sightseer#1 | 倾听 | Sedjem | 耳を傾けて |
 | char_400_weedy@snow#2 | 糖果仙子 | Candy Cape | キャンディフェアリー |
-| char_4011_lessng@whirlwind#7 | 幻火 | - | 幻影の炎 |
+| char_4011_lessng@whirlwind#7 | 幻火 | Ignis Fatuus | 幻影の炎 |
 | char_4013_kjera@epoque#18 | 灵巧侍者 | Ingenious Servant | 腕利き侍女 |
 | char_4014_lunacu@yun#1 | 棠云巧梦 | Clouds Float Like Ideas of Art | 海棠の夢 |
 | char_4016_kazema@witch#3 | 幻影轻悄 | Like Illusion | 軽やかな幻影 |

@@ -1214,7 +1214,7 @@ tip: 请善用浏览器的搜索功能
 | char_4009_irene@game#3 | 至高判决 | The Adjudicatrix and Her Resolve | 至高の判決 |
 | char_400_weedy@sightseer#1 | 倾听 | Sedjem | 耳を傾けて |
 | char_400_weedy@snow#2 | 糖果仙子 | Candy Cape | キャンディフェアリー |
-| char_4011_lessng@whirlwind#7 | 幻火 | - | 幻影の炎 |
+| char_4011_lessng@whirlwind#7 | 幻火 | Ignis Fatuus | 幻影の炎 |
 | char_4013_kjera@epoque#18 | 灵巧侍者 | Ingenious Servant | 腕利き侍女 |
 | char_4014_lunacu@yun#1 | 棠云巧梦 | Clouds Float Like Ideas of Art | 海棠の夢 |
 | char_4016_kazema@witch#3 | 幻影轻悄 | Like Illusion | 軽やかな幻影 |
@@ -2837,7 +2837,7 @@ tip: 请善用浏览器的搜索功能
 | act28sre | 不义之财 复刻 | Come Catastrophes or Wakes of Vultures - Rerun | ダーティマネー・復刻 |
 | act29side | 崔林特尔梅之金 | Zwillingstürme im Herbst | ツヴィリングトゥルムの黄金 |
 | act29sign | 桂时逢月——月饼烘焙小教程 | Encounter At The Osmanthus Blossom - Mooncake-Making Tutorial | 円満団楽-ロドス点心教室 |
-| act29sre | 崔林特尔梅之金·复刻 | - | ツヴィリングトゥルムの黄金・復刻 |
+| act29sre | 崔林特尔梅之金·复刻 | Zwillingstürme im Herbst - Rerun | ツヴィリングトゥルムの黄金・復刻 |
 | act2access | 活动推荐月卡 | - | - |
 | act2blessing | 2025罗德岛新春签到 | - | - |
 | act2bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
@@ -3283,15 +3283,15 @@ Event | なないろのお茶会 |
 | act28side_token_box | 劣质燃料 | Shoddy Fuel | 粗悪燃料 |
 | act28side_token_box_rep_1 | 劣质燃料 | Shoddy Fuel | 粗悪燃料 |
 | act29side_frag_1 | 乐之节符 | Note of Joy | 楽の音符 |
-| act29side_frag_1_rep_1 | 乐之节符 | - | 楽の音符 |
+| act29side_frag_1_rep_1 | 乐之节符 | Note of Joy | 楽の音符 |
 | act29side_frag_2 | 怒之节符 | Note of Anger | 怒の音符 |
-| act29side_frag_2_rep_1 | 怒之节符 | - | 怒の音符 |
+| act29side_frag_2_rep_1 | 怒之节符 | Note of Anger | 怒の音符 |
 | act29side_frag_3 | 哀之节符 | Note of Sorrow | 哀の音符 |
-| act29side_frag_3_rep_1 | 哀之节符 | - | 哀の音符 |
+| act29side_frag_3_rep_1 | 哀之节符 | Note of Sorrow | 哀の音符 |
 | act29side_frag_4 | 惧之节符 | Note of Fear | 恐の音符 |
-| act29side_frag_4_rep_1 | 惧之节符 | - | 恐の音符 |
+| act29side_frag_4_rep_1 | 惧之节符 | Note of Fear | 恐の音符 |
 | act29side_token_erin | 调律追忆 | Die Klänge von den Erinnerungen | 調律の追憶 |
-| act29side_token_erin_rep_1 | 调律追忆 | - | 調律の追憶 |
+| act29side_token_erin_rep_1 | 调律追忆 | Die Klänge von den Erinnerungen | 調律の追憶 |
 | act2bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act2bossrush_relic_01 | 修复套件 | Repair Kit | リカバリーキット |
 | act2bossrush_relic_02 | 维续补丁 | Maintenance Patch | メインテインパッチ |
@@ -4124,7 +4124,7 @@ Event | なないろのお茶会 |
 | token_Obsidian_rep_1 | 汐斯塔的黑曜石 | Siesta Obsidian | シエスタの黒曜石 |
 | token_Wristband | 黑曜石节手环 | Obsidian Festival Bracelet | リストバンド |
 | uni_set_MemoryCloister_1 | 魂灵印象家具收藏包一 | Memories of the Souls Furniture Pack I | 魂の形家具パックvol.1 |
-| uni_set_MemoryCloister_2 | 魂灵印象家具收藏包二 | - | 魂の形家具パックvol.2 |
+| uni_set_MemoryCloister_2 | 魂灵印象家具收藏包二 | Memories of the Souls Furniture Pack II | 魂の形家具パックvol.2 |
 | uni_set_NHL | 吾导先路家具收藏包 | Guide Ahead Furniture Collection Set | 吾れ先導者たらん家具パック |
 | uni_set_SargonFair_1 | 阿尔萨兰家具收藏包一 | Arsalan Furniture Collection I | アルサラン家具パックvol.1 |
 | uni_set_SargonFair_2 | 阿尔萨兰家具收藏包二 | Arsalan Furniture Collection II | アルサラン家具パックvol.2 |
@@ -7522,9 +7522,9 @@ Event | なないろのお茶会 |
 | act29side_zone1 | 朝见双塔 | Zwillingstürme anbeten | 双塔を仰ぐ |
 | act29side_zone2 | 恩典永恒 | Die Gnade ist ewig | 恩寵は永遠に |
 | act29side_zone3 | 权威无情 | Die Macht ist grimm | 大権に情なく |
-| act29sre_zone1 | 朝见双塔 | - | 双塔を仰ぐ |
-| act29sre_zone2 | 恩典永恒 | - | 恩寵は永遠に |
-| act29sre_zone3 | 权威无情 | - | 大権に情なく |
+| act29sre_zone1 | 朝见双塔 | Zwillingstürme anbeten | 双塔を仰ぐ |
+| act29sre_zone2 | 恩典永恒 | Die Gnade ist ewig | 恩寵は永遠に |
+| act29sre_zone3 | 权威无情 | Die Macht ist grimm | 大権に情なく |
 | act2bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act2mainss_zone1 | 离解复合 | - | - |
 | act30side_zone1 | 三号站台 | Platform No. 3 | 3番ホーム |
@@ -7638,9 +7638,9 @@ Event | なないろのお茶会 |
 | permanent_sidestory_21_zone3 | 自诩荒野 | Terra Desolata Autoproclamata | 荒野を名乗る者 |
 | permanent_sidestory_22_zone1 | 苍白平台 | Anemic Platform | 青白い町 |
 | permanent_sidestory_22_zone2 | 黑色舰船 | Black Landship | 黒き艦船 |
-| permanent_sidestory_23_zone1 | 朝见双塔 | - | 双塔を仰ぐ |
-| permanent_sidestory_23_zone2 | 恩典永恒 | - | 恩寵は永遠に |
-| permanent_sidestory_23_zone3 | 权威无情 | - | 大権に情なく |
+| permanent_sidestory_23_zone1 | 朝见双塔 | Zwillingstürme anbeten | 双塔を仰ぐ |
+| permanent_sidestory_23_zone2 | 恩典永恒 | Die Gnade ist ewig | 恩寵は永遠に |
+| permanent_sidestory_23_zone3 | 权威无情 | Die Macht ist grimm | 大権に情なく |
 | permanent_sidestory_24_zone1 | 三号站台 | - | - |
 | permanent_sidestory_24_zone2 | 特快列车 | - | - |
 | permanent_sidestory_25_zone1 | 种植地块 | - | - |

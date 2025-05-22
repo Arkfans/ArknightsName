@@ -138,7 +138,7 @@ tip: 请善用浏览器的搜索功能
 | act28sre | 不义之财 复刻 | Come Catastrophes or Wakes of Vultures - Rerun | ダーティマネー・復刻 |
 | act29side | 崔林特尔梅之金 | Zwillingstürme im Herbst | ツヴィリングトゥルムの黄金 |
 | act29sign | 桂时逢月——月饼烘焙小教程 | Encounter At The Osmanthus Blossom - Mooncake-Making Tutorial | 円満団楽-ロドス点心教室 |
-| act29sre | 崔林特尔梅之金·复刻 | - | ツヴィリングトゥルムの黄金・復刻 |
+| act29sre | 崔林特尔梅之金·复刻 | Zwillingstürme im Herbst - Rerun | ツヴィリングトゥルムの黄金・復刻 |
 | act2access | 活动推荐月卡 | - | - |
 | act2blessing | 2025罗德岛新春签到 | - | - |
 | act2bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |

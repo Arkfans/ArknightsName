@@ -152,9 +152,9 @@ tip: 请善用浏览器的搜索功能
 | act29side_zone1 | 朝见双塔 | Zwillingstürme anbeten | 双塔を仰ぐ |
 | act29side_zone2 | 恩典永恒 | Die Gnade ist ewig | 恩寵は永遠に |
 | act29side_zone3 | 权威无情 | Die Macht ist grimm | 大権に情なく |
-| act29sre_zone1 | 朝见双塔 | - | 双塔を仰ぐ |
-| act29sre_zone2 | 恩典永恒 | - | 恩寵は永遠に |
-| act29sre_zone3 | 权威无情 | - | 大権に情なく |
+| act29sre_zone1 | 朝见双塔 | Zwillingstürme anbeten | 双塔を仰ぐ |
+| act29sre_zone2 | 恩典永恒 | Die Gnade ist ewig | 恩寵は永遠に |
+| act29sre_zone3 | 权威无情 | Die Macht ist grimm | 大権に情なく |
 | act2bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act2mainss_zone1 | 离解复合 | - | - |
 | act30side_zone1 | 三号站台 | Platform No. 3 | 3番ホーム |
@@ -268,9 +268,9 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_21_zone3 | 自诩荒野 | Terra Desolata Autoproclamata | 荒野を名乗る者 |
 | permanent_sidestory_22_zone1 | 苍白平台 | Anemic Platform | 青白い町 |
 | permanent_sidestory_22_zone2 | 黑色舰船 | Black Landship | 黒き艦船 |
-| permanent_sidestory_23_zone1 | 朝见双塔 | - | 双塔を仰ぐ |
-| permanent_sidestory_23_zone2 | 恩典永恒 | - | 恩寵は永遠に |
-| permanent_sidestory_23_zone3 | 权威无情 | - | 大権に情なく |
+| permanent_sidestory_23_zone1 | 朝见双塔 | Zwillingstürme anbeten | 双塔を仰ぐ |
+| permanent_sidestory_23_zone2 | 恩典永恒 | Die Gnade ist ewig | 恩寵は永遠に |
+| permanent_sidestory_23_zone3 | 权威无情 | Die Macht ist grimm | 大権に情なく |
 | permanent_sidestory_24_zone1 | 三号站台 | - | - |
 | permanent_sidestory_24_zone2 | 特快列车 | - | - |
 | permanent_sidestory_25_zone1 | 种植地块 | - | - |

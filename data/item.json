@@ -1431,6 +1431,7 @@
     "zh_CN": "乐之节符"
   },
   "act29side_frag_1_rep_1": {
+    "en_US": "Note of Joy",
     "ja_JP": "楽の音符",
     "zh_CN": "乐之节符"
   },
@@ -1440,6 +1441,7 @@
     "zh_CN": "怒之节符"
   },
   "act29side_frag_2_rep_1": {
+    "en_US": "Note of Anger",
     "ja_JP": "怒の音符",
     "zh_CN": "怒之节符"
   },
@@ -1449,6 +1451,7 @@
     "zh_CN": "哀之节符"
   },
   "act29side_frag_3_rep_1": {
+    "en_US": "Note of Sorrow",
     "ja_JP": "哀の音符",
     "zh_CN": "哀之节符"
   },
@@ -1458,6 +1461,7 @@
     "zh_CN": "惧之节符"
   },
   "act29side_frag_4_rep_1": {
+    "en_US": "Note of Fear",
     "ja_JP": "恐の音符",
     "zh_CN": "惧之节符"
   },
@@ -1467,6 +1471,7 @@
     "zh_CN": "调律追忆"
   },
   "act29side_token_erin_rep_1": {
+    "en_US": "Die Klänge von den Erinnerungen",
     "ja_JP": "調律の追憶",
     "zh_CN": "调律追忆"
   },
@@ -5497,6 +5502,7 @@
     "zh_CN": "魂灵印象家具收藏包一"
   },
   "uni_set_MemoryCloister_2": {
+    "en_US": "Memories of the Souls Furniture Pack II",
     "ja_JP": "魂の形家具パックvol.2",
     "zh_CN": "魂灵印象家具收藏包二"
   },

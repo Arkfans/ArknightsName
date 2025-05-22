@@ -298,15 +298,15 @@ tip: 请善用浏览器的搜索功能
 | act28side_token_box | 劣质燃料 | Shoddy Fuel | 粗悪燃料 |
 | act28side_token_box_rep_1 | 劣质燃料 | Shoddy Fuel | 粗悪燃料 |
 | act29side_frag_1 | 乐之节符 | Note of Joy | 楽の音符 |
-| act29side_frag_1_rep_1 | 乐之节符 | - | 楽の音符 |
+| act29side_frag_1_rep_1 | 乐之节符 | Note of Joy | 楽の音符 |
 | act29side_frag_2 | 怒之节符 | Note of Anger | 怒の音符 |
-| act29side_frag_2_rep_1 | 怒之节符 | - | 怒の音符 |
+| act29side_frag_2_rep_1 | 怒之节符 | Note of Anger | 怒の音符 |
 | act29side_frag_3 | 哀之节符 | Note of Sorrow | 哀の音符 |
-| act29side_frag_3_rep_1 | 哀之节符 | - | 哀の音符 |
+| act29side_frag_3_rep_1 | 哀之节符 | Note of Sorrow | 哀の音符 |
 | act29side_frag_4 | 惧之节符 | Note of Fear | 恐の音符 |
-| act29side_frag_4_rep_1 | 惧之节符 | - | 恐の音符 |
+| act29side_frag_4_rep_1 | 惧之节符 | Note of Fear | 恐の音符 |
 | act29side_token_erin | 调律追忆 | Die Klänge von den Erinnerungen | 調律の追憶 |
-| act29side_token_erin_rep_1 | 调律追忆 | - | 調律の追憶 |
+| act29side_token_erin_rep_1 | 调律追忆 | Die Klänge von den Erinnerungen | 調律の追憶 |
 | act2bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act2bossrush_relic_01 | 修复套件 | Repair Kit | リカバリーキット |
 | act2bossrush_relic_02 | 维续补丁 | Maintenance Patch | メインテインパッチ |
@@ -1139,7 +1139,7 @@ tip: 请善用浏览器的搜索功能
 | token_Obsidian_rep_1 | 汐斯塔的黑曜石 | Siesta Obsidian | シエスタの黒曜石 |
 | token_Wristband | 黑曜石节手环 | Obsidian Festival Bracelet | リストバンド |
 | uni_set_MemoryCloister_1 | 魂灵印象家具收藏包一 | Memories of the Souls Furniture Pack I | 魂の形家具パックvol.1 |
-| uni_set_MemoryCloister_2 | 魂灵印象家具收藏包二 | - | 魂の形家具パックvol.2 |
+| uni_set_MemoryCloister_2 | 魂灵印象家具收藏包二 | Memories of the Souls Furniture Pack II | 魂の形家具パックvol.2 |
 | uni_set_NHL | 吾导先路家具收藏包 | Guide Ahead Furniture Collection Set | 吾れ先導者たらん家具パック |
 | uni_set_SargonFair_1 | 阿尔萨兰家具收藏包一 | Arsalan Furniture Collection I | アルサラン家具パックvol.1 |
 | uni_set_SargonFair_2 | 阿尔萨兰家具收藏包二 | Arsalan Furniture Collection II | アルサラン家具パックvol.2 |
