@@ -355,6 +355,9 @@
     "ja_JP": "「黒い石」",
     "zh_CN": "黑色石头"
   },
+  "story_christ_set_1_story_1": {
+    "zh_CN": "很久很久以前"
+  },
   "story_chyue_set_1_story_1": {
     "en_US": "Once Upon a Time, I Wandered Afar",
     "ja_JP": "昔我往きて、君と携行す",
@@ -1003,6 +1006,9 @@
     "ja_JP": "任務報告書作成指南",
     "zh_CN": "任务报告填写指南"
   },
+  "story_narant_set_1_story_1": {
+    "zh_CN": "何处寻宝藏"
+  },
   "story_nblade_set_1_story_1": {
     "en_US": "Tachihaki",
     "ja_JP": "受け継がれる刀",
@@ -1523,6 +1529,9 @@
     "ja_JP": "草木の叫び",
     "zh_CN": "小草的呼喊"
   },
+  "story_vvana_set_1_story_1": {
+    "zh_CN": "不写诗的诗人"
+  },
   "story_waaifu_set_1_story_1": {
     "en_US": "What Martial Arts Serve",
     "ja_JP": "武とは何ぞや",
@@ -1540,6 +1549,9 @@
     "en_US": "Together Aboard",
     "ja_JP": "同舟",
     "zh_CN": "同舟"
+  },
+  "story_weedy_set_2_story_1": {
+    "zh_CN": "盐漠上的海风"
   },
   "story_whispr_set_1_story_1": {
     "en_US": "Before the Rain",

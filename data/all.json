@@ -257,6 +257,12 @@
       "zh_CN": "新约能天使"
     }
   },
+  "char_1042_phatm2": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "酒神"
+    }
+  },
   "char_106_franka": {
     "type": "OPERATOR",
     "names": {
@@ -2511,6 +2517,12 @@
       "zh_CN": "CONFESS-47"
     }
   },
+  "char_4191_tippi": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "蒂比"
+    }
+  },
   "char_4193_lemuen": {
     "type": "OPERATOR",
     "names": {
@@ -2521,6 +2533,12 @@
     "type": "OPERATOR",
     "names": {
       "zh_CN": "信仰搅拌机"
+    }
+  },
+  "char_4198_christ": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "Miss.Christine"
     }
   },
   "char_420_flamtl": {
@@ -3547,6 +3565,18 @@
     "type": "TOKEN",
     "names": {
       "zh_CN": "重构体"
+    }
+  },
+  "token_10054_phatm2_encdool": {
+    "type": "TOKEN",
+    "names": {
+      "zh_CN": "本能的召唤"
+    }
+  },
+  "token_10055_phatm2_mndclv": {
+    "type": "TOKEN",
+    "names": {
+      "zh_CN": "迷狂牢笼"
     }
   },
   "token_10056_angel2_target": {
@@ -5729,6 +5759,18 @@
     "type": "TRAP",
     "names": {
       "zh_CN": "圣堂保育员扮演者"
+    }
+  },
+  "trap_247_crfilm": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "摄影机"
+    }
+  },
+  "trap_248_crprop": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "打光道具"
     }
   },
   "trap_250_hlctrl": {
@@ -9695,6 +9737,12 @@
       "zh_CN": "偶尔醉陶"
     }
   },
+  "char_4066_highmo@epoque#45": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "搁浅"
+    }
+  },
   "char_4066_highmo@nian#10": {
     "type": "SKIN",
     "names": {
@@ -9739,6 +9787,12 @@
       "en_US": "Away From Dust",
       "ja_JP": "青蓮の友",
       "zh_CN": "伴青莲"
+    }
+  },
+  "char_4079_haini@epoque#45": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "翻涌"
     }
   },
   "char_4080_lin@nian#10": {
@@ -9949,6 +10003,12 @@
     "type": "SKIN",
     "names": {
       "zh_CN": "糖果暴击"
+    }
+  },
+  "char_4132_ascln@iteration#4": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "趋光之暗"
     }
   },
   "char_4133_logos@ambienceSynesthesia#6": {
@@ -11901,12 +11961,120 @@
       "zh_CN": "“牧首”"
     }
   },
+  "enemy_10094_crstf": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "临时收音师"
+    }
+  },
+  "enemy_10094_crstf_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "执拗的收音师"
+    }
+  },
+  "enemy_10095_crgst": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "加戏群演"
+    }
+  },
+  "enemy_10095_crgst_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "沉浸艺术的群演"
+    }
+  },
+  "enemy_10096_crprp": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "疲倦道具师"
+    }
+  },
+  "enemy_10096_crprp_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "渴求瞩目的道具师"
+    }
+  },
+  "enemy_10097_crshd": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "心虚设计师"
+    }
+  },
+  "enemy_10097_crshd_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "顺从内心的设计师"
+    }
+  },
+  "enemy_10098_crhro": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "主角阵营角色"
+    }
+  },
+  "enemy_10098_crhro_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "命定的主角"
+    }
+  },
+  "enemy_10099_crvln": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "反派阵营角色"
+    }
+  },
+  "enemy_10099_crvln_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "命定的反派"
+    }
+  },
   "enemy_1009_lurker": {
     "type": "ENEMY",
     "names": {
       "en_US": "Lurker",
       "ja_JP": "潜入者",
       "zh_CN": "潜伏者"
+    }
+  },
+  "enemy_10100_crrol": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "灵活假人"
+    }
+  },
+  "enemy_10100_crrol_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "意识自由的假人"
+    }
+  },
+  "enemy_10101_crgun": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "不满摄影师"
+    }
+  },
+  "enemy_10101_crgun_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "宣泄暴力的摄影师"
+    }
+  },
+  "enemy_10102_crblt": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "报废的胶卷"
+    }
+  },
+  "enemy_10102_crblt_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "彻底报废的胶卷"
     }
   },
   "enemy_1010_demon": {
@@ -18935,6 +19103,12 @@
       "zh_CN": "“圣徒”"
     }
   },
+  "enemy_1568_dirctr": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“酒神”"
+    }
+  },
   "enemy_2001_duckmi": {
     "type": "ENEMY",
     "names": {
@@ -22439,6 +22613,12 @@
       "zh_CN": "品鉴泰拉魔物"
     }
   },
+  "act43side": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "红丝绒"
+    }
+  },
   "act43sign": {
     "type": "ACTIVITY",
     "names": {
@@ -22497,6 +22677,12 @@
       "en_US": "Trials for Navigator",
       "ja_JP": "導灯の試練",
       "zh_CN": "引航者试炼"
+    }
+  },
+  "act4collection": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "重返古堡"
     }
   },
   "act4d0": {
@@ -25788,6 +25974,12 @@
       "zh_CN": "蒙恩的奶嘴"
     }
   },
+  "act43side_token_phantom": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "神秘片场黑影"
+    }
+  },
   "act4bossrush_milestone_point": {
     "type": "ITEM",
     "names": {
@@ -25834,6 +26026,12 @@
       "en_US": "Data Blackbox",
       "ja_JP": "ブラックボックス",
       "zh_CN": "数据黑盒"
+    }
+  },
+  "act4collection_point_token": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "战略点数"
     }
   },
   "act4d0_intelligencepoint": {
@@ -28475,6 +28673,12 @@
       "zh_CN": "新约能天使的信物"
     }
   },
+  "p_char_1042_phatm2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "酒神的信物"
+    }
+  },
   "p_char_106_franka": {
     "type": "ITEM",
     "names": {
@@ -30697,6 +30901,12 @@
       "zh_CN": "CONFESS-47的信物"
     }
   },
+  "p_char_4191_tippi": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "蒂比的信物"
+    }
+  },
   "p_char_4193_lemuen": {
     "type": "ITEM",
     "names": {
@@ -30707,6 +30917,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "信仰搅拌机的信物"
+    }
+  },
+  "p_char_4198_christ": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "Miss.Christine的信物"
     }
   },
   "p_char_420_flamtl": {
@@ -33787,6 +34003,12 @@
       "zh_CN": "如死亦终"
     }
   },
+  "SINGLE_62_0_1": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "永不落幕"
+    }
+  },
   "SPECIAL_54_0_5": {
     "type": "POOL",
     "names": {
@@ -36005,6 +36227,18 @@
       "en_US": "Rising Earth",
       "ja_JP": "厚土の脈動",
       "zh_CN": "厚土迸发"
+    }
+  },
+  "skchr_christ_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "自由用餐礼仪"
+    }
+  },
+  "skchr_christ_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "狂饮之宴"
     }
   },
   "skchr_chyue_1": {
@@ -38743,6 +38977,24 @@
       "zh_CN": "同伴意识"
     }
   },
+  "skchr_phatm2_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "暗夜回声"
+    }
+  },
+  "skchr_phatm2_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "群体性谵妄"
+    }
+  },
+  "skchr_phatm2_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "空剧场"
+    }
+  },
   "skchr_phatom_1": {
     "type": "SKILL",
     "names": {
@@ -40029,6 +40281,18 @@
       "en_US": "'Big Larry'",
       "ja_JP": "「ビッグラリー」",
       "zh_CN": "“大拉里”"
+    }
+  },
+  "skchr_tippi_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "专业喷绘技巧"
+    }
+  },
+  "skchr_tippi_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "紧急赶场通知"
     }
   },
   "skchr_tknogi_1": {
@@ -43619,6 +43883,18 @@
       "en_US": "Conviction Mode!",
       "ja_JP": "断罪モード！",
       "zh_CN": "断罪模式！"
+    }
+  },
+  "sktok_phatm2_encdool_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "本能的召唤"
+    }
+  },
+  "sktok_phatm2_mndclv_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "迷狂牢笼"
     }
   },
   "sktok_phatom_1": {
@@ -51895,6 +52171,78 @@
       "zh_CN": "圣城的异常"
     }
   },
+  "act43side_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "彩排日"
+    }
+  },
+  "act43side_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "排演一出悲剧"
+    }
+  },
+  "act43side_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "戏剧性"
+    }
+  },
+  "act43side_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "一个荒唐的早晨"
+    }
+  },
+  "act43side_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "终将重逢"
+    }
+  },
+  "act43side_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "倒带独白"
+    }
+  },
+  "act43side_07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "“血钻”的歌声"
+    }
+  },
+  "act43side_08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "登台致礼"
+    }
+  },
+  "act43side_st01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "唆使一场死亡"
+    }
+  },
+  "act43side_st02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "焦点"
+    }
+  },
+  "act43side_st03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "致观众"
+    }
+  },
+  "act43side_tr01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "幕间曲"
+    }
+  },
   "act4bossrush_01": {
     "type": "STAGE",
     "names": {
@@ -58583,6 +58931,18 @@
       "zh_CN": "息止安所"
     }
   },
+  "act43side_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "演出开始"
+    }
+  },
+  "act43side_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "为戏剧，为永恒"
+    }
+  },
   "act4bossrush_zone1": {
     "type": "ZONE",
     "names": {
@@ -60181,6 +60541,12 @@
       "zh_CN": "黑色石头"
     }
   },
+  "story_christ_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "很久很久以前"
+    }
+  },
   "story_chyue_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -61225,6 +61591,12 @@
       "zh_CN": "任务报告填写指南"
     }
   },
+  "story_narant_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "何处寻宝藏"
+    }
+  },
   "story_nblade_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -62063,6 +62435,12 @@
       "zh_CN": "小草的呼喊"
     }
   },
+  "story_vvana_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "不写诗的诗人"
+    }
+  },
   "story_waaifu_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -62091,6 +62469,12 @@
       "en_US": "Together Aboard",
       "ja_JP": "同舟",
       "zh_CN": "同舟"
+    }
+  },
+  "story_weedy_set_2_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "盐漠上的海风"
     }
   },
   "story_whispr_set_1_story_1": {

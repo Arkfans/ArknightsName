@@ -918,6 +918,12 @@
   "act42side_zone3": {
     "zh_CN": "息止安所"
   },
+  "act43side_zone1": {
+    "zh_CN": "演出开始"
+  },
+  "act43side_zone2": {
+    "zh_CN": "为戏剧，为永恒"
+  },
   "act4bossrush_zone1": {
     "en_US": "Threat Incoming",
     "ja_JP": "強敵襲来",

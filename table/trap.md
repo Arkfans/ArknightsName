@@ -287,6 +287,8 @@ tip: 请善用浏览器的搜索功能
 | trap_235_hlnpcm | 圣徒像扮演者 | - | - |
 | trap_236_hlnpcs | 圣堂射手扮演者 | - | - |
 | trap_237_hlnpcb | 圣堂保育员扮演者 | - | - |
+| trap_247_crfilm | 摄影机 | - | - |
+| trap_248_crprop | 打光道具 | - | - |
 | trap_250_hlctrl | 寻根圣事 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |
 | trap_401_xbfato | 木材采集站 | Sawing Harvester Hub | 木材採取基地 |

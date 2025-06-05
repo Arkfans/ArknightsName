@@ -192,7 +192,25 @@ tip: 请善用浏览器的搜索功能
 | enemy_10091_hlsttu | 圣徒像 | - | - |
 | enemy_10091_hlsttu_2 | 圣徒祈祷像 | - | - |
 | enemy_10091_hlsttu_3 | “牧首” | - | - |
+| enemy_10094_crstf | 临时收音师 | - | - |
+| enemy_10094_crstf_2 | 执拗的收音师 | - | - |
+| enemy_10095_crgst | 加戏群演 | - | - |
+| enemy_10095_crgst_2 | 沉浸艺术的群演 | - | - |
+| enemy_10096_crprp | 疲倦道具师 | - | - |
+| enemy_10096_crprp_2 | 渴求瞩目的道具师 | - | - |
+| enemy_10097_crshd | 心虚设计师 | - | - |
+| enemy_10097_crshd_2 | 顺从内心的设计师 | - | - |
+| enemy_10098_crhro | 主角阵营角色 | - | - |
+| enemy_10098_crhro_2 | 命定的主角 | - | - |
+| enemy_10099_crvln | 反派阵营角色 | - | - |
+| enemy_10099_crvln_2 | 命定的反派 | - | - |
 | enemy_1009_lurker | 潜伏者 | Lurker | 潜入者 |
+| enemy_10100_crrol | 灵活假人 | - | - |
+| enemy_10100_crrol_2 | 意识自由的假人 | - | - |
+| enemy_10101_crgun | 不满摄影师 | - | - |
+| enemy_10101_crgun_2 | 宣泄暴力的摄影师 | - | - |
+| enemy_10102_crblt | 报废的胶卷 | - | - |
+| enemy_10102_crblt_2 | 彻底报废的胶卷 | - | - |
 | enemy_1010_demon | 萨卡兹大剑手 | Sarkaz Greatswordsman | サルカズ大剣士 |
 | enemy_1010_demon_2 | 萨卡兹大剑组长 | Sarkaz Greatswordsman Leader | サルカズ大剣隊長 |
 | enemy_1011_wizard | 术师 | Caster | 術師 |
@@ -1074,6 +1092,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1565_mpprme | 拟态机械 | - | - |
 | enemy_1566_mpascl | “阿斯卡纶” | - | - |
 | enemy_1567_pope | “圣徒” | - | - |
+| enemy_1568_dirctr | “酒神” | - | - |
 | enemy_2001_duckmi | 鸭爵 | Duck Lord | ダック卿 |
 | enemy_2002_bearmi | 高普尼克 | Gopnik | ゴプニク |
 | enemy_2003_rockman | 迷路的巨像 | Lost Colossus | 迷子の巨像 |

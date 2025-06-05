@@ -158,6 +158,9 @@
   "char_1041_angel2": {
     "zh_CN": "新约能天使"
   },
+  "char_1042_phatm2": {
+    "zh_CN": "酒神"
+  },
   "char_106_franka": {
     "en_US": "Franka",
     "ja_JP": "フランカ",
@@ -1557,11 +1560,17 @@
   "char_4188_confes": {
     "zh_CN": "CONFESS-47"
   },
+  "char_4191_tippi": {
+    "zh_CN": "蒂比"
+  },
   "char_4193_lemuen": {
     "zh_CN": "蕾缪安"
   },
   "char_4194_rmixer": {
     "zh_CN": "信仰搅拌机"
+  },
+  "char_4198_christ": {
+    "zh_CN": "Miss.Christine"
   },
   "char_420_flamtl": {
     "en_US": "Flametail",

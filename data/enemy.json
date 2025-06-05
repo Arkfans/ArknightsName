@@ -744,10 +744,64 @@
   "enemy_10091_hlsttu_3": {
     "zh_CN": "“牧首”"
   },
+  "enemy_10094_crstf": {
+    "zh_CN": "临时收音师"
+  },
+  "enemy_10094_crstf_2": {
+    "zh_CN": "执拗的收音师"
+  },
+  "enemy_10095_crgst": {
+    "zh_CN": "加戏群演"
+  },
+  "enemy_10095_crgst_2": {
+    "zh_CN": "沉浸艺术的群演"
+  },
+  "enemy_10096_crprp": {
+    "zh_CN": "疲倦道具师"
+  },
+  "enemy_10096_crprp_2": {
+    "zh_CN": "渴求瞩目的道具师"
+  },
+  "enemy_10097_crshd": {
+    "zh_CN": "心虚设计师"
+  },
+  "enemy_10097_crshd_2": {
+    "zh_CN": "顺从内心的设计师"
+  },
+  "enemy_10098_crhro": {
+    "zh_CN": "主角阵营角色"
+  },
+  "enemy_10098_crhro_2": {
+    "zh_CN": "命定的主角"
+  },
+  "enemy_10099_crvln": {
+    "zh_CN": "反派阵营角色"
+  },
+  "enemy_10099_crvln_2": {
+    "zh_CN": "命定的反派"
+  },
   "enemy_1009_lurker": {
     "en_US": "Lurker",
     "ja_JP": "潜入者",
     "zh_CN": "潜伏者"
+  },
+  "enemy_10100_crrol": {
+    "zh_CN": "灵活假人"
+  },
+  "enemy_10100_crrol_2": {
+    "zh_CN": "意识自由的假人"
+  },
+  "enemy_10101_crgun": {
+    "zh_CN": "不满摄影师"
+  },
+  "enemy_10101_crgun_2": {
+    "zh_CN": "宣泄暴力的摄影师"
+  },
+  "enemy_10102_crblt": {
+    "zh_CN": "报废的胶卷"
+  },
+  "enemy_10102_crblt_2": {
+    "zh_CN": "彻底报废的胶卷"
   },
   "enemy_1010_demon": {
     "en_US": "Sarkaz Greatswordsman",
@@ -5134,6 +5188,9 @@
   },
   "enemy_1567_pope": {
     "zh_CN": "“圣徒”"
+  },
+  "enemy_1568_dirctr": {
+    "zh_CN": "“酒神”"
   },
   "enemy_2001_duckmi": {
     "en_US": "Duck Lord",

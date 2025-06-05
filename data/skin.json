@@ -1501,6 +1501,9 @@
     "ja_JP": "たまの深酒",
     "zh_CN": "偶尔醉陶"
   },
+  "char_4066_highmo@epoque#45": {
+    "zh_CN": "搁浅"
+  },
   "char_4066_highmo@nian#10": {
     "en_US": "The Land With Me",
     "ja_JP": "隣山海",
@@ -1528,6 +1531,9 @@
     "en_US": "Away From Dust",
     "ja_JP": "青蓮の友",
     "zh_CN": "伴青莲"
+  },
+  "char_4079_haini@epoque#45": {
+    "zh_CN": "翻涌"
   },
   "char_4080_lin@nian#10": {
     "en_US": "Heavenly Mirage",
@@ -1651,6 +1657,9 @@
   },
   "char_4131_odda@whirlwind#8": {
     "zh_CN": "糖果暴击"
+  },
+  "char_4132_ascln@iteration#4": {
+    "zh_CN": "趋光之暗"
   },
   "char_4133_logos@ambienceSynesthesia#6": {
     "zh_CN": "辉煌的静谧"

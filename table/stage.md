@@ -881,6 +881,18 @@ tip: 请善用浏览器的搜索功能
 | act42side_st03 | 重逢 | - | - |
 | act42side_st04 | 远行 | - | - |
 | act42side_tr01 | 圣城的异常 | - | - |
+| act43side_01 | 彩排日 | - | - |
+| act43side_02 | 排演一出悲剧 | - | - |
+| act43side_03 | 戏剧性 | - | - |
+| act43side_04 | 一个荒唐的早晨 | - | - |
+| act43side_05 | 终将重逢 | - | - |
+| act43side_06 | 倒带独白 | - | - |
+| act43side_07 | “血钻”的歌声 | - | - |
+| act43side_08 | 登台致礼 | - | - |
+| act43side_st01 | 唆使一场死亡 | - | - |
+| act43side_st02 | 焦点 | - | - |
+| act43side_st03 | 致观众 | - | - |
+| act43side_tr01 | 幕间曲 | - | - |
 | act4bossrush_01 | 冰霜与战火 | Frost and Fire | 氷霜と戦火 |
 | act4bossrush_02 | 无关音律 | Out Of Tune | アウトオブチューン |
 | act4bossrush_03 | 延烧的深池 | Dublinn Burning | 延焼する葦沼 |

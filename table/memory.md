@@ -79,6 +79,7 @@ tip: 请善用浏览器的搜索功能
 | story_chiave_set_1_story_1 | 代表作 | Masterpiece | 代表作 |
 | story_chimes_set_1_story_1 | 落叶何归 | Once a Leaf Has Fallen... | 枯れ葉は何処に |
 | story_chnut_set_1_story_1 | 黑色石头 | Black Rocks | 「黒い石」 |
+| story_christ_set_1_story_1 | 很久很久以前 | - | - |
 | story_chyue_set_1_story_1 | 昔我往矣 | Once Upon a Time, I Wandered Afar | 昔我往きて、君と携行す |
 | story_clour_set_1_story_1 | 安身之处 | Somewhere to Make Home | 安らぎの場所 |
 | story_coldst_set_1_story_1 | 一路顺风 | Have A Safe Trip | いってらっしゃい |
@@ -211,6 +212,7 @@ tip: 请善用浏览器的搜索功能
 | story_mudrok_set_1_story_1 | 在卡兹戴尔 | In Kazdel | カズデルにて |
 | story_myrrh_set_1_story_1 | 护身符 | Lucky Charm | 御守り |
 | story_myrtle_set_1_story_1 | 任务报告填写指南 | Mission Report Filing Guide | 任務報告書作成指南 |
+| story_narant_set_1_story_1 | 何处寻宝藏 | - | - |
 | story_nblade_set_1_story_1 | 授刀 | Tachihaki | 受け継がれる刀 |
 | story_ncdeer_set_1_story_1 | 大慈恻隐 | Great Compassion | 大いなる慈悲 |
 | story_nearl2_set_1_story_1 | 起点 | Starting Point | 起点 |
@@ -317,10 +319,12 @@ tip: 请善用浏览器的搜索功能
 | story_vigna_set_1_story_1 | 该做的事 | What You've Gotta Do | すべきこと |
 | story_vodfox_set_1_story_1 | 无字诅咒 | A Curse Without Words | 文字なき呪い |
 | story_vrdant_set_1_story_1 | 小草的呼喊 | Little Tuft, Where Art Thou? | 草木の叫び |
+| story_vvana_set_1_story_1 | 不写诗的诗人 | - | - |
 | story_waaifu_set_1_story_1 | 武为何物 | What Martial Arts Serve | 武とは何ぞや |
 | story_wanqin_set_1_story_1 | 问道 | - | - |
 | story_warmy_set_1_story_1 | 未完的结局 | Unfinished Ending | 未完の結末 |
 | story_weedy_set_1_story_1 | 同舟 | Together Aboard | 同舟 |
+| story_weedy_set_2_story_1 | 盐漠上的海风 | - | - |
 | story_whispr_set_1_story_1 | 雨落之前 | Before the Rain | 雨降る前に |
 | story_wildmn_set_1_story_1 | 憧憬 | Aspiration | 憧憬 |
 | story_windft_set_1_story_1 | 老工厂里的一支舞 | Lone Dance at the Old Factory | 古工場のダンス |

@@ -1625,6 +1625,9 @@
   "act42side_token_pacifier": {
     "zh_CN": "蒙恩的奶嘴"
   },
+  "act43side_token_phantom": {
+    "zh_CN": "神秘片场黑影"
+  },
   "act4bossrush_milestone_point": {
     "en_US": "Trial EXP",
     "ja_JP": "試練経験値",
@@ -1654,6 +1657,9 @@
     "en_US": "Data Blackbox",
     "ja_JP": "ブラックボックス",
     "zh_CN": "数据黑盒"
+  },
+  "act4collection_point_token": {
+    "zh_CN": "战略点数"
   },
   "act4d0_intelligencepoint": {
     "en_US": "Valid Intelligence Unit",
@@ -3283,6 +3289,9 @@
   "p_char_1041_angel2": {
     "zh_CN": "新约能天使的信物"
   },
+  "p_char_1042_phatm2": {
+    "zh_CN": "酒神的信物"
+  },
   "p_char_106_franka": {
     "en_US": "Franka's Token",
     "ja_JP": "フランカの印",
@@ -4662,11 +4671,17 @@
   "p_char_4188_confes": {
     "zh_CN": "CONFESS-47的信物"
   },
+  "p_char_4191_tippi": {
+    "zh_CN": "蒂比的信物"
+  },
   "p_char_4193_lemuen": {
     "zh_CN": "蕾缪安的信物"
   },
   "p_char_4194_rmixer": {
     "zh_CN": "信仰搅拌机的信物"
+  },
+  "p_char_4198_christ": {
+    "zh_CN": "Miss.Christine的信物"
   },
   "p_char_420_flamtl": {
     "en_US": "Flametail's Token",

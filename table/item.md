@@ -341,6 +341,7 @@ tip: 请善用浏览器的搜索功能
 | act41side_token_light | 损坏的源石灯 | - | - |
 | act42d0_token_evaluation | 试验数据集 | Experimental Dataset | テストデータ集 |
 | act42side_token_pacifier | 蒙恩的奶嘴 | - | - |
+| act43side_token_phantom | 神秘片场黑影 | - | - |
 | act4bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act4bossrush_relic_01 | 轻量化载荷 | Lightened Load | 積込み軽量化 |
 | act4bossrush_relic_02 | 核心预热 | Preheated Core | コア予熱 |
@@ -350,6 +351,7 @@ tip: 请善用浏览器的搜索功能
  | クロックアップ
  |
 | act4bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
+| act4collection_point_token | 战略点数 | - | - |
 | act4d0_intelligencepoint | 有效情报值 | Valid Intelligence Unit | 情報データ |
 | act4d5_point_kfc | KFC积分 | - | KFCポイント |
 | act5d0_point_medal | 终极企鹅勋章 | Top Tier Penguin Medal | ウルトラPG勲章 |
@@ -687,6 +689,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_103_angel | 能天使的信物 | Exusiai's Token | エクシアの印 |
 | p_char_1040_blaze2 | 烛煌的信物 | - | - |
 | p_char_1041_angel2 | 新约能天使的信物 | - | - |
+| p_char_1042_phatm2 | 酒神的信物 | - | - |
 | p_char_106_franka | 芙兰卡的信物 | Franka's Token | フランカの印 |
 | p_char_107_liskam | 雷蛇的信物 | Liskarm's Token | リスカムの印 |
 | p_char_108_silent | 赫默的信物 | Silence's Token | サイレンスの印 |
@@ -968,8 +971,10 @@ tip: 请善用浏览器的搜索功能
 | p_char_4179_monstr | Mon3tr的信物 | - | - |
 | p_char_4187_graceb | 聆音的信物 | - | - |
 | p_char_4188_confes | CONFESS-47的信物 | - | - |
+| p_char_4191_tippi | 蒂比的信物 | - | - |
 | p_char_4193_lemuen | 蕾缪安的信物 | - | - |
 | p_char_4194_rmixer | 信仰搅拌机的信物 | - | - |
+| p_char_4198_christ | Miss.Christine的信物 | - | - |
 | p_char_420_flamtl | 焰尾的信物 | Flametail's Token | フレイムテイルの印 |
 | p_char_421_crow | 羽毛笔的信物 | La Pluma's Token | ラ・プルマの印 |
 | p_char_422_aurora | 极光的信物 | Aurora's Token | オーロラの印 |

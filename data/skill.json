@@ -849,6 +849,12 @@
     "ja_JP": "厚土の脈動",
     "zh_CN": "厚土迸发"
   },
+  "skchr_christ_1": {
+    "zh_CN": "自由用餐礼仪"
+  },
+  "skchr_christ_2": {
+    "zh_CN": "狂饮之宴"
+  },
   "skchr_chyue_1": {
     "en_US": "Abundant",
     "ja_JP": "満盈",
@@ -2547,6 +2553,15 @@
     "ja_JP": "仲間意識",
     "zh_CN": "同伴意识"
   },
+  "skchr_phatm2_1": {
+    "zh_CN": "暗夜回声"
+  },
+  "skchr_phatm2_2": {
+    "zh_CN": "群体性谵妄"
+  },
+  "skchr_phatm2_3": {
+    "zh_CN": "空剧场"
+  },
   "skchr_phatom_1": {
     "en_US": "Phantom of the Night",
     "ja_JP": "闇夜の影法師",
@@ -3342,6 +3357,12 @@
     "en_US": "'Big Larry'",
     "ja_JP": "「ビッグラリー」",
     "zh_CN": "“大拉里”"
+  },
+  "skchr_tippi_1": {
+    "zh_CN": "专业喷绘技巧"
+  },
+  "skchr_tippi_2": {
+    "zh_CN": "紧急赶场通知"
   },
   "skchr_tknogi_1": {
     "en_US": "Without a Trace",
@@ -5546,6 +5567,12 @@
     "en_US": "Conviction Mode!",
     "ja_JP": "断罪モード！",
     "zh_CN": "断罪模式！"
+  },
+  "sktok_phatm2_encdool_2": {
+    "zh_CN": "本能的召唤"
+  },
+  "sktok_phatm2_mndclv_3": {
+    "zh_CN": "迷狂牢笼"
   },
   "sktok_phatom_1": {
     "en_US": "Phantom of the Night",

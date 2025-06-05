@@ -179,6 +179,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_chimes_2 | 乡心无改 | Longing for Home | 郷思の念 |
 | skchr_chnut_1 | 积微成著 | Little by Little | 積土成山 |
 | skchr_chnut_2 | 厚土迸发 | Rising Earth | 厚土の脈動 |
+| skchr_christ_1 | 自由用餐礼仪 | - | - |
+| skchr_christ_2 | 狂饮之宴 | - | - |
 | skchr_chyue_1 | 冲盈 | Abundant | 満盈 |
 | skchr_chyue_2 | 拂尘 | Whisk | 払塵 |
 | skchr_chyue_3 | 我无 | Anatta | 我無 |
@@ -525,6 +527,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_pepe_2 | 阻遏混乱锤 | Whirling Hammer Defense | トラブル解決術 |
 | skchr_pepe_3 | 时光震荡 | Shock of Time | 時の激震 |
 | skchr_peper_2 | 同伴意识 | Camaraderie | 仲間意識 |
+| skchr_phatm2_1 | 暗夜回声 | - | - |
+| skchr_phatm2_2 | 群体性谵妄 | - | - |
+| skchr_phatm2_3 | 空剧场 | - | - |
 | skchr_phatom_1 | 暗夜魅影 | Phantom of the Night | 闇夜の影法師 |
 | skchr_phatom_2 | 血色乐章 | Bloody Opus | 血染めの楽章 |
 | skchr_phatom_3 | 夜幕突袭 | Night Raid | 襲来の悪夢 |
@@ -689,6 +694,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_tiger_2 | 裂魂 | Sundered Soul | 裂魂 |
 | skchr_tinman_1 | “老科利” | 'Ol' Curly' | 「オールドカーリー」 |
 | skchr_tinman_2 | “大拉里” | 'Big Larry' | 「ビッグラリー」 |
+| skchr_tippi_1 | 专业喷绘技巧 | - | - |
+| skchr_tippi_2 | 紧急赶场通知 | - | - |
 | skchr_tknogi_1 | 迹无 | Without a Trace | 跡無 |
 | skchr_tknogi_2 | 森廻 | Forest's Embrace | 森廻 |
 | skchr_toddi_1 | 信号矢 | Signal Arrow | 信号矢 |
@@ -1151,6 +1158,8 @@ tip: 请善用浏览器的搜索功能
 | sktok_oxygen | 防水蚀镀膜装置 | Erosion-Resistant Coating Application Device | 耐水蝕コーティング装置 |
 | sktok_paras | 繁衍 | Propagate | 繁殖 |
 | sktok_peacokfool | 断罪模式！ | Conviction Mode! | 断罪モード！ |
+| sktok_phatm2_encdool_2 | 本能的召唤 | - | - |
+| sktok_phatm2_mndclv_3 | 迷狂牢笼 | - | - |
 | sktok_phatom_1 | 暗夜魅影 | Phantom of the Night | 闇夜の影法師 |
 | sktok_phatom_2 | 血色乐章 | Bloody Opus | 血染めの楽章 |
 | sktok_phatom_3 | 夜幕突袭 | Night Raid | 襲来の悪夢 |

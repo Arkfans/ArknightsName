@@ -38,6 +38,7 @@ tip: 请善用浏览器的搜索功能
 | char_103_angel | 能天使 | Exusiai | エクシア |
 | char_1040_blaze2 | 烛煌 | - | - |
 | char_1041_angel2 | 新约能天使 | - | - |
+| char_1042_phatm2 | 酒神 | - | - |
 | char_106_franka | 芙兰卡 | Franka | フランカ |
 | char_107_liskam | 雷蛇 | Liskarm | リスカム |
 | char_108_silent | 赫默 | Silence | サイレンス |
@@ -323,8 +324,10 @@ tip: 请善用浏览器的搜索功能
 | char_4179_monstr | Mon3tr | - | - |
 | char_4187_graceb | 聆音 | - | - |
 | char_4188_confes | CONFESS-47 | - | - |
+| char_4191_tippi | 蒂比 | - | - |
 | char_4193_lemuen | 蕾缪安 | - | - |
 | char_4194_rmixer | 信仰搅拌机 | - | - |
+| char_4198_christ | Miss.Christine | - | - |
 | char_420_flamtl | 焰尾 | Flametail | フレイムテイル |
 | char_421_crow | 羽毛笔 | La Pluma | ラ・プルマ |
 | char_422_aurora | 极光 | Aurora | オーロラ |
@@ -455,6 +458,8 @@ tip: 请善用浏览器的搜索功能
 | token_10044_wulfen_mine | 矿石“杀手” | - | - |
 | token_10045_alanna_crane | 小螺帽 | - | - |
 | token_10050_monstr_prosts | 重构体 | - | - |
+| token_10054_phatm2_encdool | 本能的召唤 | - | - |
+| token_10055_phatm2_mndclv | 迷狂牢笼 | - | - |
 | token_10056_angel2_target | 投递坐标 | - | - |
 | trap_079_allydonq | 猎潮的骑士 | Tide-Hunt Knight | 猟潮の騎士 |
 | trap_001_crate | 障碍物 | Roadblock | 障害物 |
@@ -739,6 +744,8 @@ tip: 请善用浏览器的搜索功能
 | trap_235_hlnpcm | 圣徒像扮演者 | - | - |
 | trap_236_hlnpcs | 圣堂射手扮演者 | - | - |
 | trap_237_hlnpcb | 圣堂保育员扮演者 | - | - |
+| trap_247_crfilm | 摄影机 | - | - |
+| trap_248_crprop | 打光道具 | - | - |
 | trap_250_hlctrl | 寻根圣事 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |
 | trap_401_xbfato | 木材采集站 | Sawing Harvester Hub | 木材採取基地 |
@@ -1246,12 +1253,14 @@ tip: 请善用浏览器的搜索功能
 | char_4064_mlynar@iteration#3 | 苍茫怒号 | - | - |
 | char_4065_judge@epoque#33 | 记叙 | Scribing | 書き記す者 |
 | char_4065_judge@snow#6 | 偶尔醉陶 | Occasionally Flushed | たまの深酒 |
+| char_4066_highmo@epoque#45 | 搁浅 | - | - |
 | char_4066_highmo@nian#10 | 及山海 | The Land With Me | 隣山海 |
 | char_4071_peper@whirlwind#5 | 来路 | The Road to Here | 来た道 |
 | char_4072_ironmn@ambienceSynesthesia#5 | 空心王冠 | - | - |
 | char_4072_ironmn@summer#11 | 沙滩护卫 GT003 | Beach Guard GT003 | 砂浜の番人GT003 |
 | char_4077_palico@mh#1 | 跃上街头 | Fly Into the Street | 街へ飛び出せ |
 | char_4078_bdhkgt@yun#2 | 伴青莲 | Away From Dust | 青蓮の友 |
+| char_4079_haini@epoque#45 | 翻涌 | - | - |
 | char_4080_lin@nian#10 | 列瑶台 | Heavenly Mirage | 列瑶台 |
 | char_4081_warmy@winter#4 | 街角暖绒 | Warm Velvet At the Corner | 街角の温もり |
 | char_4082_qiubai@epoque#31 | 礼遇 | Courtesy | 礼をもって |
@@ -1281,6 +1290,7 @@ tip: 请善用浏览器的搜索功能
 | char_4125_rdoc@rainbow6#2 | 展览 | Exhibition | エキシビション |
 | char_4130_luton@yun#6 | 寄遥思 | - | - |
 | char_4131_odda@whirlwind#8 | 糖果暴击 | - | - |
+| char_4132_ascln@iteration#4 | 趋光之暗 | - | - |
 | char_4133_logos@ambienceSynesthesia#6 | 辉煌的静谧 | - | - |
 | char_4136_phonor@boc#9 | 最初的颂歌 | - | - |
 | char_4141_marcil@dungeon#1 | 泰拉冒险 | Terra & Traveller | テラの冒険者 |
@@ -1550,7 +1560,25 @@ tip: 请善用浏览器的搜索功能
 | enemy_10091_hlsttu | 圣徒像 | - | - |
 | enemy_10091_hlsttu_2 | 圣徒祈祷像 | - | - |
 | enemy_10091_hlsttu_3 | “牧首” | - | - |
+| enemy_10094_crstf | 临时收音师 | - | - |
+| enemy_10094_crstf_2 | 执拗的收音师 | - | - |
+| enemy_10095_crgst | 加戏群演 | - | - |
+| enemy_10095_crgst_2 | 沉浸艺术的群演 | - | - |
+| enemy_10096_crprp | 疲倦道具师 | - | - |
+| enemy_10096_crprp_2 | 渴求瞩目的道具师 | - | - |
+| enemy_10097_crshd | 心虚设计师 | - | - |
+| enemy_10097_crshd_2 | 顺从内心的设计师 | - | - |
+| enemy_10098_crhro | 主角阵营角色 | - | - |
+| enemy_10098_crhro_2 | 命定的主角 | - | - |
+| enemy_10099_crvln | 反派阵营角色 | - | - |
+| enemy_10099_crvln_2 | 命定的反派 | - | - |
 | enemy_1009_lurker | 潜伏者 | Lurker | 潜入者 |
+| enemy_10100_crrol | 灵活假人 | - | - |
+| enemy_10100_crrol_2 | 意识自由的假人 | - | - |
+| enemy_10101_crgun | 不满摄影师 | - | - |
+| enemy_10101_crgun_2 | 宣泄暴力的摄影师 | - | - |
+| enemy_10102_crblt | 报废的胶卷 | - | - |
+| enemy_10102_crblt_2 | 彻底报废的胶卷 | - | - |
 | enemy_1010_demon | 萨卡兹大剑手 | Sarkaz Greatswordsman | サルカズ大剣士 |
 | enemy_1010_demon_2 | 萨卡兹大剑组长 | Sarkaz Greatswordsman Leader | サルカズ大剣隊長 |
 | enemy_1011_wizard | 术师 | Caster | 術師 |
@@ -2432,6 +2460,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1565_mpprme | 拟态机械 | - | - |
 | enemy_1566_mpascl | “阿斯卡纶” | - | - |
 | enemy_1567_pope | “圣徒” | - | - |
+| enemy_1568_dirctr | “酒神” | - | - |
 | enemy_2001_duckmi | 鸭爵 | Duck Lord | ダック卿 |
 | enemy_2002_bearmi | 高普尼克 | Gopnik | ゴプニク |
 | enemy_2003_rockman | 迷路的巨像 | Lost Colossus | 迷子の巨像 |
@@ -2896,6 +2925,7 @@ Event | なないろのお茶会 |
 | act42d0 | 纷争演绎 | Design of Strife | 紛争演繹 |
 | act42side | 众生行记 | - | - |
 | act42sign | 品鉴泰拉魔物 | Have A Taste Of Terran Monsters | テラ魔物品評 |
+| act43side | 红丝绒 | - | - |
 | act43sign | 良辰迎月签到活动 | A Good Moony Time Login Event | 嘉辰令月スタンプ |
 | act44sign | 构想试炼签到活动 | Conceptual Crucible Login Event | 仮想試練スタンプ |
 | act45sign | 感谢庆典前瞻签到 | Thank-You Celebration Prospective Login | 大感謝祭開催直前スタンプラリー |
@@ -2904,6 +2934,7 @@ Event | なないろのお茶会 |
 | act48sign | 2025跨年纪念限时活动 | - | - |
 | act49sign | 六周年庆典签到活动 | - | - |
 | act4bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
+| act4collection | 重返古堡 | - | - |
 | act4d0 | 战地秘闻 | Operational Intelligence | 戦地の逸話 |
 | act4d2 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act4d5 | 限时积分任务 | - | 期間限定Pt任務 |
@@ -3326,6 +3357,7 @@ Event | なないろのお茶会 |
 | act41side_token_light | 损坏的源石灯 | - | - |
 | act42d0_token_evaluation | 试验数据集 | Experimental Dataset | テストデータ集 |
 | act42side_token_pacifier | 蒙恩的奶嘴 | - | - |
+| act43side_token_phantom | 神秘片场黑影 | - | - |
 | act4bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act4bossrush_relic_01 | 轻量化载荷 | Lightened Load | 積込み軽量化 |
 | act4bossrush_relic_02 | 核心预热 | Preheated Core | コア予熱 |
@@ -3335,6 +3367,7 @@ Event | なないろのお茶会 |
  | クロックアップ
  |
 | act4bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
+| act4collection_point_token | 战略点数 | - | - |
 | act4d0_intelligencepoint | 有效情报值 | Valid Intelligence Unit | 情報データ |
 | act4d5_point_kfc | KFC积分 | - | KFCポイント |
 | act5d0_point_medal | 终极企鹅勋章 | Top Tier Penguin Medal | ウルトラPG勲章 |
@@ -3672,6 +3705,7 @@ Event | なないろのお茶会 |
 | p_char_103_angel | 能天使的信物 | Exusiai's Token | エクシアの印 |
 | p_char_1040_blaze2 | 烛煌的信物 | - | - |
 | p_char_1041_angel2 | 新约能天使的信物 | - | - |
+| p_char_1042_phatm2 | 酒神的信物 | - | - |
 | p_char_106_franka | 芙兰卡的信物 | Franka's Token | フランカの印 |
 | p_char_107_liskam | 雷蛇的信物 | Liskarm's Token | リスカムの印 |
 | p_char_108_silent | 赫默的信物 | Silence's Token | サイレンスの印 |
@@ -3953,8 +3987,10 @@ Event | なないろのお茶会 |
 | p_char_4179_monstr | Mon3tr的信物 | - | - |
 | p_char_4187_graceb | 聆音的信物 | - | - |
 | p_char_4188_confes | CONFESS-47的信物 | - | - |
+| p_char_4191_tippi | 蒂比的信物 | - | - |
 | p_char_4193_lemuen | 蕾缪安的信物 | - | - |
 | p_char_4194_rmixer | 信仰搅拌机的信物 | - | - |
+| p_char_4198_christ | Miss.Christine的信物 | - | - |
 | p_char_420_flamtl | 焰尾的信物 | Flametail's Token | フレイムテイルの印 |
 | p_char_421_crow | 羽毛笔的信物 | La Pluma's Token | ラ・プルマの印 |
 | p_char_422_aurora | 极光的信物 | Aurora's Token | オーロラの印 |
@@ -4371,6 +4407,7 @@ Event | なないろのお茶会 |
 | SINGLE_59_0_1 | 自火中归还 | - | - |
 | SINGLE_60_0_1 | 指令·重构 | - | - |
 | SINGLE_60_0_3 | 如死亦终 | - | - |
+| SINGLE_62_0_1 | 永不落幕 | - | - |
 | SPECIAL_54_0_5 | 定向甄选 | - | - |
 | SPECIAL_59_0_3 | 定向甄选 | - | - |
 | SPECIAL_61_0_3 | 定向甄选 | - | - |
@@ -4667,6 +4704,8 @@ Event | なないろのお茶会 |
 | skchr_chimes_2 | 乡心无改 | Longing for Home | 郷思の念 |
 | skchr_chnut_1 | 积微成著 | Little by Little | 積土成山 |
 | skchr_chnut_2 | 厚土迸发 | Rising Earth | 厚土の脈動 |
+| skchr_christ_1 | 自由用餐礼仪 | - | - |
+| skchr_christ_2 | 狂饮之宴 | - | - |
 | skchr_chyue_1 | 冲盈 | Abundant | 満盈 |
 | skchr_chyue_2 | 拂尘 | Whisk | 払塵 |
 | skchr_chyue_3 | 我无 | Anatta | 我無 |
@@ -5013,6 +5052,9 @@ Event | なないろのお茶会 |
 | skchr_pepe_2 | 阻遏混乱锤 | Whirling Hammer Defense | トラブル解決術 |
 | skchr_pepe_3 | 时光震荡 | Shock of Time | 時の激震 |
 | skchr_peper_2 | 同伴意识 | Camaraderie | 仲間意識 |
+| skchr_phatm2_1 | 暗夜回声 | - | - |
+| skchr_phatm2_2 | 群体性谵妄 | - | - |
+| skchr_phatm2_3 | 空剧场 | - | - |
 | skchr_phatom_1 | 暗夜魅影 | Phantom of the Night | 闇夜の影法師 |
 | skchr_phatom_2 | 血色乐章 | Bloody Opus | 血染めの楽章 |
 | skchr_phatom_3 | 夜幕突袭 | Night Raid | 襲来の悪夢 |
@@ -5177,6 +5219,8 @@ Event | なないろのお茶会 |
 | skchr_tiger_2 | 裂魂 | Sundered Soul | 裂魂 |
 | skchr_tinman_1 | “老科利” | 'Ol' Curly' | 「オールドカーリー」 |
 | skchr_tinman_2 | “大拉里” | 'Big Larry' | 「ビッグラリー」 |
+| skchr_tippi_1 | 专业喷绘技巧 | - | - |
+| skchr_tippi_2 | 紧急赶场通知 | - | - |
 | skchr_tknogi_1 | 迹无 | Without a Trace | 跡無 |
 | skchr_tknogi_2 | 森廻 | Forest's Embrace | 森廻 |
 | skchr_toddi_1 | 信号矢 | Signal Arrow | 信号矢 |
@@ -5639,6 +5683,8 @@ Event | なないろのお茶会 |
 | sktok_oxygen | 防水蚀镀膜装置 | Erosion-Resistant Coating Application Device | 耐水蝕コーティング装置 |
 | sktok_paras | 繁衍 | Propagate | 繁殖 |
 | sktok_peacokfool | 断罪模式！ | Conviction Mode! | 断罪モード！ |
+| sktok_phatm2_encdool_2 | 本能的召唤 | - | - |
+| sktok_phatm2_mndclv_3 | 迷狂牢笼 | - | - |
 | sktok_phatom_1 | 暗夜魅影 | Phantom of the Night | 闇夜の影法師 |
 | sktok_phatom_2 | 血色乐章 | Bloody Opus | 血染めの楽章 |
 | sktok_phatom_3 | 夜幕突袭 | Night Raid | 襲来の悪夢 |
@@ -6712,6 +6758,18 @@ Event | なないろのお茶会 |
 | act42side_st03 | 重逢 | - | - |
 | act42side_st04 | 远行 | - | - |
 | act42side_tr01 | 圣城的异常 | - | - |
+| act43side_01 | 彩排日 | - | - |
+| act43side_02 | 排演一出悲剧 | - | - |
+| act43side_03 | 戏剧性 | - | - |
+| act43side_04 | 一个荒唐的早晨 | - | - |
+| act43side_05 | 终将重逢 | - | - |
+| act43side_06 | 倒带独白 | - | - |
+| act43side_07 | “血钻”的歌声 | - | - |
+| act43side_08 | 登台致礼 | - | - |
+| act43side_st01 | 唆使一场死亡 | - | - |
+| act43side_st02 | 焦点 | - | - |
+| act43side_st03 | 致观众 | - | - |
+| act43side_tr01 | 幕间曲 | - | - |
 | act4bossrush_01 | 冰霜与战火 | Frost and Fire | 氷霜と戦火 |
 | act4bossrush_02 | 无关音律 | Out Of Tune | アウトオブチューン |
 | act4bossrush_03 | 延烧的深池 | Dublinn Burning | 延焼する葦沼 |
@@ -7568,6 +7626,8 @@ Event | なないろのお茶会 |
 | act42side_zone1 | 瞻望圣堂 | - | - |
 | act42side_zone2 | 谒见神祇 | - | - |
 | act42side_zone3 | 息止安所 | - | - |
+| act43side_zone1 | 演出开始 | - | - |
+| act43side_zone2 | 为戏剧，为永恒 | - | - |
 | act4bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act5d0_zone1 | 下城区 | Downtown | 繁華街 |
 | act5d0_zone2 | 东部郊区 | Eastern Suburbs | 東部郊外 |
@@ -7772,6 +7832,7 @@ Event | なないろのお茶会 |
 | story_chiave_set_1_story_1 | 代表作 | Masterpiece | 代表作 |
 | story_chimes_set_1_story_1 | 落叶何归 | Once a Leaf Has Fallen... | 枯れ葉は何処に |
 | story_chnut_set_1_story_1 | 黑色石头 | Black Rocks | 「黒い石」 |
+| story_christ_set_1_story_1 | 很久很久以前 | - | - |
 | story_chyue_set_1_story_1 | 昔我往矣 | Once Upon a Time, I Wandered Afar | 昔我往きて、君と携行す |
 | story_clour_set_1_story_1 | 安身之处 | Somewhere to Make Home | 安らぎの場所 |
 | story_coldst_set_1_story_1 | 一路顺风 | Have A Safe Trip | いってらっしゃい |
@@ -7904,6 +7965,7 @@ Event | なないろのお茶会 |
 | story_mudrok_set_1_story_1 | 在卡兹戴尔 | In Kazdel | カズデルにて |
 | story_myrrh_set_1_story_1 | 护身符 | Lucky Charm | 御守り |
 | story_myrtle_set_1_story_1 | 任务报告填写指南 | Mission Report Filing Guide | 任務報告書作成指南 |
+| story_narant_set_1_story_1 | 何处寻宝藏 | - | - |
 | story_nblade_set_1_story_1 | 授刀 | Tachihaki | 受け継がれる刀 |
 | story_ncdeer_set_1_story_1 | 大慈恻隐 | Great Compassion | 大いなる慈悲 |
 | story_nearl2_set_1_story_1 | 起点 | Starting Point | 起点 |
@@ -8010,10 +8072,12 @@ Event | なないろのお茶会 |
 | story_vigna_set_1_story_1 | 该做的事 | What You've Gotta Do | すべきこと |
 | story_vodfox_set_1_story_1 | 无字诅咒 | A Curse Without Words | 文字なき呪い |
 | story_vrdant_set_1_story_1 | 小草的呼喊 | Little Tuft, Where Art Thou? | 草木の叫び |
+| story_vvana_set_1_story_1 | 不写诗的诗人 | - | - |
 | story_waaifu_set_1_story_1 | 武为何物 | What Martial Arts Serve | 武とは何ぞや |
 | story_wanqin_set_1_story_1 | 问道 | - | - |
 | story_warmy_set_1_story_1 | 未完的结局 | Unfinished Ending | 未完の結末 |
 | story_weedy_set_1_story_1 | 同舟 | Together Aboard | 同舟 |
+| story_weedy_set_2_story_1 | 盐漠上的海风 | - | - |
 | story_whispr_set_1_story_1 | 雨落之前 | Before the Rain | 雨降る前に |
 | story_wildmn_set_1_story_1 | 憧憬 | Aspiration | 憧憬 |
 | story_windft_set_1_story_1 | 老工厂里的一支舞 | Lone Dance at the Old Factory | 古工場のダンス |
