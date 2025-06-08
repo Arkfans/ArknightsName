@@ -975,7 +975,7 @@ tip: 请善用浏览器的搜索功能
 | char_1031_slent2@epoque#32 | 栖息 | Habitat | 羽休め |
 | char_1032_excu2@sale#12 | 众志归一 | Allmind As One | 絶対の集合知 |
 | char_1033_swire2@ambienceSynesthesia#4 | 律动方格 | Rhythmic Blocks | リズミックブロック |
-| char_1034_jesca2@cfa#1 | 《上任达维镇》 | - | - |
+| char_1034_jesca2@cfa#1 | 《上任达维镇》 | 'Ride to Davistown' | - |
 | char_1035_wisdel@sale#14 | 超新星 | - | - |
 | char_1037_amiya3@sale#13 | 寰宇独奏 | Solo Around The World | 宙に響く独奏 |
 | char_103_angel@kfc#1 | 城市骑手 | City Rider | シティライダー |
@@ -1065,14 +1065,14 @@ tip: 请善用浏览器的搜索功能
 | char_2012_typhon@wild#9 | 北地引路人 | Northern Pathfinder | 北地の案内人 |
 | char_2013_cerber@summer#4 | 夏卉 FA333 | Summer Flowers FA333 | 夏の花弁FA333 |
 | char_2013_cerber@whirlwind#2 | 无拘无束 | Unfettered | 自由奔放 |
-| char_2014_nian@cfa#1 | 霹雳导演 | - | - |
+| char_2014_nian@cfa#1 | 霹雳导演 | Thunderbolt Director | - |
 | char_2014_nian@nian#4 | 乐逍遥 | Unfettered Freedom | 楽逍遥 |
 | char_2015_dusk@nian#7 | 染尘烟 | Everything Is a Miracle | 染塵煙 |
 | char_201_moeshd@kfc#1 | 清晨七点 | Seven in the Morning | 7:00 a.m. |
 | char_201_moeshd@summer#4 | 探寻者 SK03 | Seeker SK03 | シーカーSK03 |
 | char_2023_ling@ncg#1 | 崖高梦远 | Towering is Cliff of Nostalgia | 崖高く夢遠し |
 | char_2023_ling@nian#9 | 濯缨 | It Does Wash the Strings | 濯冠纓 |
-| char_2024_chyue@cfa#1 | 全能演员 | - | - |
+| char_2024_chyue@cfa#1 | 全能演员 | All-Round Actor | - |
 | char_2024_chyue@nian#10 | 何处栖 | Alighting | 何処棲 |
 | char_2025_shu@nian#11 | 春日宴 | - | - |
 | char_202_demkni@boc#1 | 坚城 | Stronghold | 堅城 |
@@ -1166,7 +1166,7 @@ tip: 请善用浏览器的搜索功能
 | char_308_swire@nian#2 | 富贵荣华 | Honor and Splendor | 富貴栄華 |
 | char_311_mudrok@ambienceSynesthesia#2 | 黑曜石 | Obsidian | オブシディアン |
 | char_311_mudrok@summer#6 | 静谧午夜 DN06 | Silent Night DN06 | 安息の午夜DN06 |
-| char_311_mudrok@wild#10 | 砾瓦 | - | - |
+| char_311_mudrok@wild#10 | 砾瓦 | Rubble | - |
 | char_322_lmlee@sanrio#1 | 坊间凉茶铺 | Remedy In A Cup Of Leung Cha | まちなか涼茶舗 |
 | char_322_lmlee@witch#3 | 手到牌来 | Trust Your Eyes | お目を拝借 |
 | char_326_glacus@ghost#1 | 广场扫荡客 | Exterminator in the Square | 広場の掃討者 |
@@ -1280,7 +1280,7 @@ tip: 请善用浏览器的搜索功能
 | char_4109_baslin@witch#5 | 夜空星芒 | Starry Night Sky | 夜天に輝く星 |
 | char_4114_harold@snow#7 | 邀雪 | - | - |
 | char_4116_blkkgt@witch#5 | 暗月的影子 | The Shadow of the Dark Moon | 暗月の影 |
-| char_4117_ray@shining#2 | 梦幻高空 | - | - |
+| char_4117_ray@shining#2 | 梦幻高空 | Dreaming High | - |
 | char_4119_wanqin@epoque#41 | 万顷阳光 | - | - |
 | char_411_tomimi@summer#5 | 静谧午夜 DN04 | Silent Night DN04 | 安息の午夜DN04 |
 | char_4121_zuole@nian#11 | 少年游 | - | - |
@@ -1339,7 +1339,7 @@ tip: 请善用浏览器的搜索功能
 | char_485_pallas@epoque#12 | 传承 | Heritage | 伝承 |
 | char_485_pallas@epoque#19 | 山川的酿造 | A Drip of Orea and Potamous | 山川の醸造 |
 | char_486_takila@ambienceSynesthesia#2 | 开牌制胜 | Cardwinner | ショーダウン |
-| char_486_takila@shining#2 | 巅峰现场 | - | - |
+| char_486_takila@shining#2 | 巅峰现场 | Top Tier Live | - |
 | char_488_buildr@epoque#34 | 晚风休憩 | To Rest in Night Breezes | 夜風に憩いて |
 | char_489_serum@epoque#31 | 逸趣 | Leisure | 気ままな休日 |
 | char_492_quercu@epoque#17 | 遥乡之径 | Distant Home's Guide | 故郷は遠く |
@@ -2809,7 +2809,7 @@ tip: 请善用浏览器的搜索功能
 | act19sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act19sre | 绿野幻梦·复刻 | Dorothy's Vision - Retrospection | 翠玉の夢・復刻 |
 | act1access | 五周年专享活动 | Exclusive Event | 大感謝祭限定イベント |
-| act1arcade | 视相博物馆 | - | - |
+| act1arcade | 视相博物馆 | Poly Vision Museum | - |
 | act1blessing | 2024罗德岛新春签到 | 2024 Festival Sign-In | 4.5周年スタンプラリー |
 | act1bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act1break | 矢量突破：无机物 | - | - |
@@ -2902,7 +2902,7 @@ tip: 请善用浏览器的搜索功能
 | act38d1 | 尖灭测试作战 | Pinch-Out Experimental Operation | 尖滅試験作戦 |
 | act38side | 揭幕者们 | I Portatori dei Velluti | 幕開く者たち |
 | act38sign | 明日方舟X彩虹六号：围攻签到活动 | Arknights x Rainbow Six Siege Login Event | アークナイツ×R6Sスタンプラリー |
-| act39side | 出苍白海 | - | - |
+| act39side | 出苍白海 | Exodus from the Pale Sea | - |
 | act39sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act3bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act3collection | 潮起潮又起 | - | - |
@@ -3026,21 +3026,21 @@ Event | なないろのお茶会 |
 | 2002 | 初级作战记录 | Frontline Battle Record | 初級作戦記録 |
 | 2003 | 中级作战记录 | Tactical Battle Record | 中級作戦記録 |
 | 2004 | 高级作战记录 | Strategic Battle Record | 上級作戦記録 |
-| 2020recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 4.5周年特別スカウト券α |
-| 2020recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 4.5周年特別スカウト券β |
-| 2020recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 4.5周年特別スカウト券γ |
-| 2021recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 4.5周年特別スカウト券α |
-| 2021recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 4.5周年特別スカウト券β |
-| 2021recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 4.5周年特別スカウト券γ |
-| 2022recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 4.5周年特別スカウト券α |
-| 2022recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 4.5周年特別スカウト券β |
-| 2022recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 4.5周年特別スカウト券γ |
-| 2023recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 4.5周年特別スカウト券α |
-| 2023recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 4.5周年特別スカウト券β |
-| 2023recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 4.5周年特別スカウト券γ |
-| 2024recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 4.5周年特別スカウト券α |
-| 2024recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 4.5周年特別スカウト券β |
-| 2024recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 4.5周年特別スカウト券γ |
+| 2020recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 5.5周年特別スカウト券α |
+| 2020recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 5.5周年特別スカウト券β |
+| 2020recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 5.5周年特別スカウト券γ |
+| 2021recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 5.5周年特別スカウト券α |
+| 2021recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 5.5周年特別スカウト券β |
+| 2021recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 5.5周年特別スカウト券γ |
+| 2022recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 5.5周年特別スカウト券α |
+| 2022recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 5.5周年特別スカウト券β |
+| 2022recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 5.5周年特別スカウト券γ |
+| 2023recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 5.5周年特別スカウト券α |
+| 2023recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 5.5周年特別スカウト券β |
+| 2023recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 5.5周年特別スカウト券γ |
+| 2024recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 5.5周年特別スカウト券α |
+| 2024recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 5.5周年特別スカウト券β |
+| 2024recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 5.5周年特別スカウト券γ |
 | 2025recruitment10_1 | α类新年寻访凭证 | - | - |
 | 2025recruitment10_2 | β类新年寻访凭证 | - | - |
 | 2025recruitment10_3 | γ类新年寻访凭证 | - | - |
@@ -3155,7 +3155,7 @@ Event | なないろのお茶会 |
 | CRISIS_SHOP_COIN | 合约赏金 | Contract Bounty | 契約賞金 |
 | CRISIS_SHOP_COIN_V2 | 晶体合约赏金 | Crystal Contract Bounty | 結晶契約賞金 |
 | EPGS_COIN | 寻访参数模型 | Headhunting Parametric Model | 特別引換証 |
-| EXTERMINATION_AGENT | 常态事务代理卡 | PRTS Proxy Annihilation Card | PRTS殲滅代理カード |
+| EXTERMINATION_AGENT | 常态事务代理卡 | PRTS Proxy Annihilation Card | 定例事務代理カード |
 | LIMITED_TKT_GACHA_10_1401 | 只为铭记寻访凭证 | Memorial-Limited Headhunting Permit | 感謝祭記念スカウト券 |
 | LIMITED_TKT_GACHA_10_1601 | 日落潮来寻访凭证 | Tide on Sunset Headhunting Permit | 1.5周年記念10回スカウト券 |
 | LIMITED_TKT_GACHA_10_1803 | 幽海歌谣寻访凭证 | Song of the Sea Headhunting Permit | 感謝祭記念10回スカウト券 |
@@ -3271,7 +3271,7 @@ Event | なないろのお茶会 |
 | act18side_token_pieces_rep_1 | 乐谱草稿 | Sheet Music | 手書きの楽譜 |
 | act19side_token_reagents | 神秘试剂 | Mysterious Reagent | 謎の試薬 |
 | act19side_token_reagents_rep_1 | 神秘试剂 | Mysterious Reagent | 謎の試薬 |
-| act1arcade_milestone_point | 积点卡券 | - | - |
+| act1arcade_milestone_point | 积点卡券 | - | 景品チケット |
 | act1bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act1bossrush_relic_01 | 模块复用 | Reuse Module | マルチプレキシング |
 | act1bossrush_relic_02 | 迅捷处理 | Fast Processing | アクセラレーション |
@@ -3329,7 +3329,7 @@ Event | なないろのお茶会 |
 | act2bossrush_relic_03 | 减退模块 | Reduction Module | ダウンモジュール |
 | act2bossrush_relic_04 | 调优重载 | Optimize Load | 積載調節 |
 | act2bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
-| act2collection_point_token | “战略家”点数 | - | - |
+| act2collection_point_token | “战略家”点数 | - | 「戦略家」ポイント |
 | act2mainss_token | “勇气”胸章 | - | - |
 | act2vmulti_token_cap | 参赛纪念 | Memento | 参加記念 |
 | act30side_token_box | 驮兽盲盒 | Burdenbeast Blind Box | 駄獣ミニフィギュア |
@@ -3345,14 +3345,14 @@ Event | なないろのお茶会 |
 | act37side_token_nay | “我反对！” | 'Nay!' | 「反対！」 |
 | act38d1_token_coin | 晶化源石 | Crystalized Originium | 結晶化源石 |
 | act38side_token_ticket | 匿名邀请函 | Invito Mistico | 匿名招待状 |
-| act39side_token_garum | 盐鳞咸鳞汁 | - | - |
+| act39side_token_garum | 盐鳞咸鳞汁 | - | 塩鱗ガルム |
 | act3bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act3bossrush_relic_01 | 恢复增幅 | Recovery Boost | 癒しの増幅 |
 | act3bossrush_relic_02 | 扩大化战略 | Strategy Expansion | 拡大化戦略 |
 | act3bossrush_relic_03 | 经验习得 | Experience Acquisition | 経験習得 |
 | act3bossrush_relic_04 | 过热运转 | Overcharge | オーバーヒート |
 | act3bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
-| act3collection_point_token | “战略家”点数 | - | - |
+| act3collection_point_token | “战略家”点数 | - | 「戦略家」ポイント |
 | act40side_token_yumyum | “生香” | - | - |
 | act41side_token_light | 损坏的源石灯 | - | - |
 | act42d0_token_evaluation | 试验数据集 | Experimental Dataset | テストデータ集 |
@@ -3701,7 +3701,7 @@ Event | なないろのお茶会 |
 | p_char_1035_wisdel | 维什戴尔的信物 | Wiš'adel's Token | ウィシャデルの印 |
 | p_char_1036_fang2 | 历阵锐枪芬的信物 | Fang the Fire-Sharpened's Token | 歴陣鋭槍フェンの印 |
 | p_char_1038_whitw2 | 荒芜拉普兰德的信物 | Lappland the Decadenza's Token | 荒蕪ラップランドの印 |
-| p_char_1039_thorn2 | 引星棘刺的信物 | - | - |
+| p_char_1039_thorn2 | 引星棘刺的信物 | - | 引星ソーンズの印 |
 | p_char_103_angel | 能天使的信物 | Exusiai's Token | エクシアの印 |
 | p_char_1040_blaze2 | 烛煌的信物 | - | - |
 | p_char_1041_angel2 | 新约能天使的信物 | - | - |
@@ -3975,8 +3975,8 @@ Event | なないろのお茶会 |
 | p_char_4155_talr | 裁度的信物 | Figurino's Token | フィグリーノの印 |
 | p_char_415_flint | 燧石的信物 | Flint's Token | フリントの印 |
 | p_char_4162_cathy | 凯瑟琳的信物 | Catherine's Token | キャサリンの印 |
-| p_char_4163_rosesa | 瑰盐的信物 | - | - |
-| p_char_4164_tecno | 特克诺的信物 | - | - |
+| p_char_4163_rosesa | 瑰盐的信物 | - | ローズソルトの印 |
+| p_char_4164_tecno | 特克诺的信物 | - | テクノの印 |
 | p_char_4165_ctrail | 云迹的信物 | Contrail's Token | コントレイルの印 |
 | p_char_416_zumama | 森蚺的信物 | Eunectes' Token | ユーネクテスの印 |
 | p_char_4171_wulfen | 钼铅的信物 | - | - |
@@ -4529,6 +4529,7 @@ Event | なないろのお茶会 |
 | _SINGLE_32_0_1 | - | Clear Like Hearts, True Like Reflections | 心と鏡の残痕 |
 | _SINGLE_32_0_5 | - | Clank Liberty | 銃声 |
 | _SINGLE_33_0_1 | - | Never Gilded | 褪せざる栄光 |
+| _SINGLE_34_0_1 | - | Confirmation, Completion, Conduction | - |
 | _SPECIAL_32_0_8 | - | Orienteering Headhunting | セレクトスカウト |
 | skchr_absin_1 | 执法模式 | Enforcement Mode | 執行態勢 |
 | skchr_absin_2 | 终结连射 | Ultimatum | 告死の弾雨 |
@@ -6239,18 +6240,18 @@ Event | なないろのお茶会 |
 | act19side_st01 | 逆行 | Retrograde | 逆行 |
 | act19side_st02 | 启程 | Embark | 旅立ち |
 | act19side_tr01 | 实验基地走廊 | Research Base Hallway | 実験基地の廊下 |
-| act1arcade_m1_01 | 捣乱毛绒 | - | - |
-| act1arcade_m1_02 | 叛乱兽群 | - | - |
-| act1arcade_m1_03 | 出逃化物 | - | - |
-| act1arcade_m2_01 | 喷泉广场 | - | - |
-| act1arcade_m2_02 | 占领蒸汽 | - | - |
-| act1arcade_m2_03 | 决战“汽水侠” | - | - |
-| act1arcade_m3_01 | 峰回路转 | - | - |
-| act1arcade_m3_02 | 环环相扣 | - | - |
-| act1arcade_m3_03 | 百折千回 | - | - |
-| act1arcade_m4_01 | 陆上行船 | - | - |
-| act1arcade_m4_02 | 冲出激浪 | - | - |
-| act1arcade_m4_03 | 环绕大地 | - | - |
+| act1arcade_m1_01 | 捣乱毛绒 | Furry Troublemakers | - |
+| act1arcade_m1_02 | 叛乱兽群 | Unruly Beasts | - |
+| act1arcade_m1_03 | 出逃化物 | Escaped Monsters | - |
+| act1arcade_m2_01 | 喷泉广场 | Fountain Square | - |
+| act1arcade_m2_02 | 占领蒸汽 | Steam Conquest | - |
+| act1arcade_m2_03 | 决战“汽水侠” | 'Soda Knight' Showdown | - |
+| act1arcade_m3_01 | 峰回路转 | Winding Paths | - |
+| act1arcade_m3_02 | 环环相扣 | Interlocking Chains | - |
+| act1arcade_m3_03 | 百折千回 | Thousand Twists | - |
+| act1arcade_m4_01 | 陆上行船 | Boat Out of Water | - |
+| act1arcade_m4_02 | 冲出激浪 | Brave the Waves | - |
+| act1arcade_m4_03 | 环绕大地 | Journey the Land | - |
 | act1bossrush_01 | 无尽灼烧与强力破坏 | Burn and Destroy | 無尽の炎と破壊の鋸 |
 | act1bossrush_02 | 卷土重来 | Comeback | 捲土重来 |
 | act1bossrush_03 | 风沙轰隆隆 | Rolling Sands | 塵旋風とどろく |
@@ -6692,18 +6693,18 @@ Event | なないろのお茶会 |
 | act38side_st03 | 《狂欢节章程》 | 'Carnevale Charter' | 『カルネヴァーレの規則』 |
 | act38side_st04 | 《管理法修正案》 | 'Management Act Amendment' | 『管理法修正案』 |
 | act38side_tr01 | 《烟花燃放须知》 | 'Regulation on Fireworks' | 『花火取締規則』 |
-| act39side_01 | 倒悬苍白海上 | - | - |
-| act39side_02 | 腿部拆卸疗法 | - | - |
-| act39side_03 | 大出血的舞步 | - | - |
-| act39side_04 | 重逢不乏意外 | - | - |
-| act39side_05 | 熄灭过去的灯 | - | - |
-| act39side_06 | 若退路在燃烧 | - | - |
-| act39side_07 | 我的罗盘 | - | - |
-| act39side_08 | 见证，征服，定义 | - | - |
-| act39side_st01 | 别了，盐漠 | - | - |
-| act39side_st02 | 倾泻腐朽的花 | - | - |
-| act39side_st03 | 别了，大地 | - | - |
-| act39side_tr01 | 海盗基本素养 | - | - |
+| act39side_01 | 倒悬苍白海上 | Upside Down on the Pale Sea | - |
+| act39side_02 | 腿部拆卸疗法 | Treatment by Limb Amputation | - |
+| act39side_03 | 大出血的舞步 | Dance of Exsanguination | - |
+| act39side_04 | 重逢不乏意外 | Accidental Reunion | - |
+| act39side_05 | 熄灭过去的灯 | Let the Light of the Past Die | - |
+| act39side_06 | 若退路在燃烧 | When the Way Out Burns | - |
+| act39side_07 | 我的罗盘 | My Compass | - |
+| act39side_08 | 见证，征服，定义 | I Come, I Conquer, I Define | - |
+| act39side_st01 | 别了，盐漠 | Adios, Salt Flat | - |
+| act39side_st02 | 倾泻腐朽的花 | A Flower that Blooms Rot | - |
+| act39side_st03 | 别了，大地 | Adios, Tierra | - |
+| act39side_tr01 | 海盗基本素养 | Essential Pirate Skills | - |
 | act3bossrush_01 | 适者生存 | Survival of the Fittest | 適者生存 |
 | act3bossrush_02 | 惊惧与血色 | Blood and Terror | 恐怖と血色 |
 | act3bossrush_03 | 不测之渊 | Deep in Danger | 不測の淵 |
@@ -7014,12 +7015,12 @@ Event | なないろのお茶会 |
 | lt_16_04 | 节尽 | Season's End | 季節が去る |
 | lt_16_05 | 风林栖 | The Windy Grove | 秋風の林に栖めば |
 | lt_16_06 | 莫寻迹 | Do Not Follow Tracks | 去る者追わず |
-| lt_17_01 | 荒野的第一乐章 | - | - |
-| lt_17_02 | 石像的改编曲 | - | - |
-| lt_17_03 | 野兽狂欢曲 | - | - |
-| lt_17_04 | 温顺者的摇篮曲 | - | - |
-| lt_17_05 | 驮兽与石像的二重奏 | - | - |
-| lt_17_06 | “音乐之心” | - | - |
+| lt_17_01 | 荒野的第一乐章 | First Movement of the Barrens | - |
+| lt_17_02 | 石像的改编曲 | Arrangement of the Statue | - |
+| lt_17_03 | 野兽狂欢曲 | Rhapsody of the Wild | - |
+| lt_17_04 | 温顺者的摇篮曲 | Lullaby of the Tame | - |
+| lt_17_05 | 驮兽与石像的二重奏 | Duet of Beast and Statue | - |
+| lt_17_06 | “音乐之心” | 'Heart of Music' | - |
 | lt_18_01 | 巷道里 | - | - |
 | lt_18_02 | 楼台边 | - | - |
 | lt_18_03 | 墓地旁 | - | - |

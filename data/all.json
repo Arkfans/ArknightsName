@@ -7560,6 +7560,7 @@
   "char_1034_jesca2@cfa#1": {
     "type": "SKIN",
     "names": {
+      "en_US": "'Ride to Davistown'",
       "zh_CN": "《上任达维镇》"
     }
   },
@@ -8268,6 +8269,7 @@
   "char_2014_nian@cfa#1": {
     "type": "SKIN",
     "names": {
+      "en_US": "Thunderbolt Director",
       "zh_CN": "霹雳导演"
     }
   },
@@ -8322,6 +8324,7 @@
   "char_2024_chyue@cfa#1": {
     "type": "SKIN",
     "names": {
+      "en_US": "All-Round Actor",
       "zh_CN": "全能演员"
     }
   },
@@ -9056,6 +9059,7 @@
   "char_311_mudrok@wild#10": {
     "type": "SKIN",
     "names": {
+      "en_US": "Rubble",
       "zh_CN": "砾瓦"
     }
   },
@@ -9938,6 +9942,7 @@
   "char_4117_ray@shining#2": {
     "type": "SKIN",
     "names": {
+      "en_US": "Dreaming High",
       "zh_CN": "梦幻高空"
     }
   },
@@ -10390,6 +10395,7 @@
   "char_486_takila@shining#2": {
     "type": "SKIN",
     "names": {
+      "en_US": "Top Tier Live",
       "zh_CN": "巅峰现场"
     }
   },
@@ -21776,6 +21782,7 @@
   "act1arcade": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Poly Vision Museum",
       "zh_CN": "视相博物馆"
     }
   },
@@ -22476,6 +22483,7 @@
   "act39side": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Exodus from the Pale Sea",
       "zh_CN": "出苍白海"
     }
   },
@@ -23384,7 +23392,7 @@
     "type": "ITEM",
     "names": {
       "en_US": "Type-α Headhunting Permit",
-      "ja_JP": "4.5周年特別スカウト券α",
+      "ja_JP": "5.5周年特別スカウト券α",
       "zh_CN": "α类新年寻访凭证"
     }
   },
@@ -23392,7 +23400,7 @@
     "type": "ITEM",
     "names": {
       "en_US": "Type-β Headhunting Permit",
-      "ja_JP": "4.5周年特別スカウト券β",
+      "ja_JP": "5.5周年特別スカウト券β",
       "zh_CN": "β类新年寻访凭证"
     }
   },
@@ -23400,7 +23408,7 @@
     "type": "ITEM",
     "names": {
       "en_US": "Type-γ Headhunting Permit",
-      "ja_JP": "4.5周年特別スカウト券γ",
+      "ja_JP": "5.5周年特別スカウト券γ",
       "zh_CN": "γ类新年寻访凭证"
     }
   },
@@ -23408,7 +23416,7 @@
     "type": "ITEM",
     "names": {
       "en_US": "Type-α Headhunting Permit",
-      "ja_JP": "4.5周年特別スカウト券α",
+      "ja_JP": "5.5周年特別スカウト券α",
       "zh_CN": "α类新年寻访凭证"
     }
   },
@@ -23416,7 +23424,7 @@
     "type": "ITEM",
     "names": {
       "en_US": "Type-β Headhunting Permit",
-      "ja_JP": "4.5周年特別スカウト券β",
+      "ja_JP": "5.5周年特別スカウト券β",
       "zh_CN": "β类新年寻访凭证"
     }
   },
@@ -23424,7 +23432,7 @@
     "type": "ITEM",
     "names": {
       "en_US": "Type-γ Headhunting Permit",
-      "ja_JP": "4.5周年特別スカウト券γ",
+      "ja_JP": "5.5周年特別スカウト券γ",
       "zh_CN": "γ类新年寻访凭证"
     }
   },
@@ -23432,7 +23440,7 @@
     "type": "ITEM",
     "names": {
       "en_US": "Type-α Headhunting Permit",
-      "ja_JP": "4.5周年特別スカウト券α",
+      "ja_JP": "5.5周年特別スカウト券α",
       "zh_CN": "α类新年寻访凭证"
     }
   },
@@ -23440,7 +23448,7 @@
     "type": "ITEM",
     "names": {
       "en_US": "Type-β Headhunting Permit",
-      "ja_JP": "4.5周年特別スカウト券β",
+      "ja_JP": "5.5周年特別スカウト券β",
       "zh_CN": "β类新年寻访凭证"
     }
   },
@@ -23448,7 +23456,7 @@
     "type": "ITEM",
     "names": {
       "en_US": "Type-γ Headhunting Permit",
-      "ja_JP": "4.5周年特別スカウト券γ",
+      "ja_JP": "5.5周年特別スカウト券γ",
       "zh_CN": "γ类新年寻访凭证"
     }
   },
@@ -23456,7 +23464,7 @@
     "type": "ITEM",
     "names": {
       "en_US": "Type-α Headhunting Permit",
-      "ja_JP": "4.5周年特別スカウト券α",
+      "ja_JP": "5.5周年特別スカウト券α",
       "zh_CN": "α类新年寻访凭证"
     }
   },
@@ -23464,7 +23472,7 @@
     "type": "ITEM",
     "names": {
       "en_US": "Type-β Headhunting Permit",
-      "ja_JP": "4.5周年特別スカウト券β",
+      "ja_JP": "5.5周年特別スカウト券β",
       "zh_CN": "β类新年寻访凭证"
     }
   },
@@ -23472,7 +23480,7 @@
     "type": "ITEM",
     "names": {
       "en_US": "Type-γ Headhunting Permit",
-      "ja_JP": "4.5周年特別スカウト券γ",
+      "ja_JP": "5.5周年特別スカウト券γ",
       "zh_CN": "γ类新年寻访凭证"
     }
   },
@@ -23480,7 +23488,7 @@
     "type": "ITEM",
     "names": {
       "en_US": "Type-α Headhunting Permit",
-      "ja_JP": "4.5周年特別スカウト券α",
+      "ja_JP": "5.5周年特別スカウト券α",
       "zh_CN": "α类新年寻访凭证"
     }
   },
@@ -23488,7 +23496,7 @@
     "type": "ITEM",
     "names": {
       "en_US": "Type-β Headhunting Permit",
-      "ja_JP": "4.5周年特別スカウト券β",
+      "ja_JP": "5.5周年特別スカウト券β",
       "zh_CN": "β类新年寻访凭证"
     }
   },
@@ -23496,7 +23504,7 @@
     "type": "ITEM",
     "names": {
       "en_US": "Type-γ Headhunting Permit",
-      "ja_JP": "4.5周年特別スカウト券γ",
+      "ja_JP": "5.5周年特別スカウト券γ",
       "zh_CN": "γ类新年寻访凭证"
     }
   },
@@ -24404,7 +24412,7 @@
     "type": "ITEM",
     "names": {
       "en_US": "PRTS Proxy Annihilation Card",
-      "ja_JP": "PRTS殲滅代理カード",
+      "ja_JP": "定例事務代理カード",
       "zh_CN": "常态事务代理卡"
     }
   },
@@ -25317,6 +25325,7 @@
   "act1arcade_milestone_point": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "景品チケット",
       "zh_CN": "积点卡券"
     }
   },
@@ -25773,6 +25782,7 @@
   "act2collection_point_token": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "「戦略家」ポイント",
       "zh_CN": "“战略家”点数"
     }
   },
@@ -25891,6 +25901,7 @@
   "act39side_token_garum": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "塩鱗ガルム",
       "zh_CN": "盐鳞咸鳞汁"
     }
   },
@@ -25945,6 +25956,7 @@
   "act3collection_point_token": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "「戦略家」ポイント",
       "zh_CN": "“战略家”点数"
     }
   },
@@ -28650,6 +28662,7 @@
   "p_char_1039_thorn2": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "引星ソーンズの印",
       "zh_CN": "引星棘刺的信物"
     }
   },
@@ -30828,12 +30841,14 @@
   "p_char_4163_rosesa": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ローズソルトの印",
       "zh_CN": "瑰盐的信物"
     }
   },
   "p_char_4164_tecno": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "テクノの印",
       "zh_CN": "特克诺的信物"
     }
   },
@@ -34848,6 +34863,12 @@
     "names": {
       "en_US": "Never Gilded",
       "ja_JP": "褪せざる栄光"
+    }
+  },
+  "_SINGLE_34_0_1": {
+    "type": "POOL",
+    "names": {
+      "en_US": "Confirmation, Completion, Conduction"
     }
   },
   "_SPECIAL_32_0_8": {
@@ -48302,72 +48323,84 @@
   "act1arcade_m1_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Furry Troublemakers",
       "zh_CN": "捣乱毛绒"
     }
   },
   "act1arcade_m1_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Unruly Beasts",
       "zh_CN": "叛乱兽群"
     }
   },
   "act1arcade_m1_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Escaped Monsters",
       "zh_CN": "出逃化物"
     }
   },
   "act1arcade_m2_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Fountain Square",
       "zh_CN": "喷泉广场"
     }
   },
   "act1arcade_m2_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Steam Conquest",
       "zh_CN": "占领蒸汽"
     }
   },
   "act1arcade_m2_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "'Soda Knight' Showdown",
       "zh_CN": "决战“汽水侠”"
     }
   },
   "act1arcade_m3_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Winding Paths",
       "zh_CN": "峰回路转"
     }
   },
   "act1arcade_m3_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Interlocking Chains",
       "zh_CN": "环环相扣"
     }
   },
   "act1arcade_m3_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Thousand Twists",
       "zh_CN": "百折千回"
     }
   },
   "act1arcade_m4_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Boat Out of Water",
       "zh_CN": "陆上行船"
     }
   },
   "act1arcade_m4_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Brave the Waves",
       "zh_CN": "冲出激浪"
     }
   },
   "act1arcade_m4_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Journey the Land",
       "zh_CN": "环绕大地"
     }
   },
@@ -51770,72 +51803,84 @@
   "act39side_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Upside Down on the Pale Sea",
       "zh_CN": "倒悬苍白海上"
     }
   },
   "act39side_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Treatment by Limb Amputation",
       "zh_CN": "腿部拆卸疗法"
     }
   },
   "act39side_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Dance of Exsanguination",
       "zh_CN": "大出血的舞步"
     }
   },
   "act39side_04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Accidental Reunion",
       "zh_CN": "重逢不乏意外"
     }
   },
   "act39side_05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Let the Light of the Past Die",
       "zh_CN": "熄灭过去的灯"
     }
   },
   "act39side_06": {
     "type": "STAGE",
     "names": {
+      "en_US": "When the Way Out Burns",
       "zh_CN": "若退路在燃烧"
     }
   },
   "act39side_07": {
     "type": "STAGE",
     "names": {
+      "en_US": "My Compass",
       "zh_CN": "我的罗盘"
     }
   },
   "act39side_08": {
     "type": "STAGE",
     "names": {
+      "en_US": "I Come, I Conquer, I Define",
       "zh_CN": "见证，征服，定义"
     }
   },
   "act39side_st01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Adios, Salt Flat",
       "zh_CN": "别了，盐漠"
     }
   },
   "act39side_st02": {
     "type": "STAGE",
     "names": {
+      "en_US": "A Flower that Blooms Rot",
       "zh_CN": "倾泻腐朽的花"
     }
   },
   "act39side_st03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Adios, Tierra",
       "zh_CN": "别了，大地"
     }
   },
   "act39side_tr01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Essential Pirate Skills",
       "zh_CN": "海盗基本素养"
     }
   },
@@ -54184,36 +54229,42 @@
   "lt_17_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "First Movement of the Barrens",
       "zh_CN": "荒野的第一乐章"
     }
   },
   "lt_17_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Arrangement of the Statue",
       "zh_CN": "石像的改编曲"
     }
   },
   "lt_17_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Rhapsody of the Wild",
       "zh_CN": "野兽狂欢曲"
     }
   },
   "lt_17_04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Lullaby of the Tame",
       "zh_CN": "温顺者的摇篮曲"
     }
   },
   "lt_17_05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Duet of Beast and Statue",
       "zh_CN": "驮兽与石像的二重奏"
     }
   },
   "lt_17_06": {
     "type": "STAGE",
     "names": {
+      "en_US": "'Heart of Music'",
       "zh_CN": "“音乐之心”"
     }
   },

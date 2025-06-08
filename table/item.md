@@ -10,21 +10,21 @@ tip: 请善用浏览器的搜索功能
 | 2002 | 初级作战记录 | Frontline Battle Record | 初級作戦記録 |
 | 2003 | 中级作战记录 | Tactical Battle Record | 中級作戦記録 |
 | 2004 | 高级作战记录 | Strategic Battle Record | 上級作戦記録 |
-| 2020recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 4.5周年特別スカウト券α |
-| 2020recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 4.5周年特別スカウト券β |
-| 2020recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 4.5周年特別スカウト券γ |
-| 2021recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 4.5周年特別スカウト券α |
-| 2021recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 4.5周年特別スカウト券β |
-| 2021recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 4.5周年特別スカウト券γ |
-| 2022recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 4.5周年特別スカウト券α |
-| 2022recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 4.5周年特別スカウト券β |
-| 2022recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 4.5周年特別スカウト券γ |
-| 2023recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 4.5周年特別スカウト券α |
-| 2023recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 4.5周年特別スカウト券β |
-| 2023recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 4.5周年特別スカウト券γ |
-| 2024recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 4.5周年特別スカウト券α |
-| 2024recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 4.5周年特別スカウト券β |
-| 2024recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 4.5周年特別スカウト券γ |
+| 2020recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 5.5周年特別スカウト券α |
+| 2020recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 5.5周年特別スカウト券β |
+| 2020recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 5.5周年特別スカウト券γ |
+| 2021recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 5.5周年特別スカウト券α |
+| 2021recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 5.5周年特別スカウト券β |
+| 2021recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 5.5周年特別スカウト券γ |
+| 2022recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 5.5周年特別スカウト券α |
+| 2022recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 5.5周年特別スカウト券β |
+| 2022recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 5.5周年特別スカウト券γ |
+| 2023recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 5.5周年特別スカウト券α |
+| 2023recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 5.5周年特別スカウト券β |
+| 2023recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 5.5周年特別スカウト券γ |
+| 2024recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 5.5周年特別スカウト券α |
+| 2024recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 5.5周年特別スカウト券β |
+| 2024recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 5.5周年特別スカウト券γ |
 | 2025recruitment10_1 | α类新年寻访凭证 | - | - |
 | 2025recruitment10_2 | β类新年寻访凭证 | - | - |
 | 2025recruitment10_3 | γ类新年寻访凭证 | - | - |
@@ -139,7 +139,7 @@ tip: 请善用浏览器的搜索功能
 | CRISIS_SHOP_COIN | 合约赏金 | Contract Bounty | 契約賞金 |
 | CRISIS_SHOP_COIN_V2 | 晶体合约赏金 | Crystal Contract Bounty | 結晶契約賞金 |
 | EPGS_COIN | 寻访参数模型 | Headhunting Parametric Model | 特別引換証 |
-| EXTERMINATION_AGENT | 常态事务代理卡 | PRTS Proxy Annihilation Card | PRTS殲滅代理カード |
+| EXTERMINATION_AGENT | 常态事务代理卡 | PRTS Proxy Annihilation Card | 定例事務代理カード |
 | LIMITED_TKT_GACHA_10_1401 | 只为铭记寻访凭证 | Memorial-Limited Headhunting Permit | 感謝祭記念スカウト券 |
 | LIMITED_TKT_GACHA_10_1601 | 日落潮来寻访凭证 | Tide on Sunset Headhunting Permit | 1.5周年記念10回スカウト券 |
 | LIMITED_TKT_GACHA_10_1803 | 幽海歌谣寻访凭证 | Song of the Sea Headhunting Permit | 感謝祭記念10回スカウト券 |
@@ -255,7 +255,7 @@ tip: 请善用浏览器的搜索功能
 | act18side_token_pieces_rep_1 | 乐谱草稿 | Sheet Music | 手書きの楽譜 |
 | act19side_token_reagents | 神秘试剂 | Mysterious Reagent | 謎の試薬 |
 | act19side_token_reagents_rep_1 | 神秘试剂 | Mysterious Reagent | 謎の試薬 |
-| act1arcade_milestone_point | 积点卡券 | - | - |
+| act1arcade_milestone_point | 积点卡券 | - | 景品チケット |
 | act1bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act1bossrush_relic_01 | 模块复用 | Reuse Module | マルチプレキシング |
 | act1bossrush_relic_02 | 迅捷处理 | Fast Processing | アクセラレーション |
@@ -313,7 +313,7 @@ tip: 请善用浏览器的搜索功能
 | act2bossrush_relic_03 | 减退模块 | Reduction Module | ダウンモジュール |
 | act2bossrush_relic_04 | 调优重载 | Optimize Load | 積載調節 |
 | act2bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
-| act2collection_point_token | “战略家”点数 | - | - |
+| act2collection_point_token | “战略家”点数 | - | 「戦略家」ポイント |
 | act2mainss_token | “勇气”胸章 | - | - |
 | act2vmulti_token_cap | 参赛纪念 | Memento | 参加記念 |
 | act30side_token_box | 驮兽盲盒 | Burdenbeast Blind Box | 駄獣ミニフィギュア |
@@ -329,14 +329,14 @@ tip: 请善用浏览器的搜索功能
 | act37side_token_nay | “我反对！” | 'Nay!' | 「反対！」 |
 | act38d1_token_coin | 晶化源石 | Crystalized Originium | 結晶化源石 |
 | act38side_token_ticket | 匿名邀请函 | Invito Mistico | 匿名招待状 |
-| act39side_token_garum | 盐鳞咸鳞汁 | - | - |
+| act39side_token_garum | 盐鳞咸鳞汁 | - | 塩鱗ガルム |
 | act3bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act3bossrush_relic_01 | 恢复增幅 | Recovery Boost | 癒しの増幅 |
 | act3bossrush_relic_02 | 扩大化战略 | Strategy Expansion | 拡大化戦略 |
 | act3bossrush_relic_03 | 经验习得 | Experience Acquisition | 経験習得 |
 | act3bossrush_relic_04 | 过热运转 | Overcharge | オーバーヒート |
 | act3bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
-| act3collection_point_token | “战略家”点数 | - | - |
+| act3collection_point_token | “战略家”点数 | - | 「戦略家」ポイント |
 | act40side_token_yumyum | “生香” | - | - |
 | act41side_token_light | 损坏的源石灯 | - | - |
 | act42d0_token_evaluation | 试验数据集 | Experimental Dataset | テストデータ集 |
@@ -685,7 +685,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_1035_wisdel | 维什戴尔的信物 | Wiš'adel's Token | ウィシャデルの印 |
 | p_char_1036_fang2 | 历阵锐枪芬的信物 | Fang the Fire-Sharpened's Token | 歴陣鋭槍フェンの印 |
 | p_char_1038_whitw2 | 荒芜拉普兰德的信物 | Lappland the Decadenza's Token | 荒蕪ラップランドの印 |
-| p_char_1039_thorn2 | 引星棘刺的信物 | - | - |
+| p_char_1039_thorn2 | 引星棘刺的信物 | - | 引星ソーンズの印 |
 | p_char_103_angel | 能天使的信物 | Exusiai's Token | エクシアの印 |
 | p_char_1040_blaze2 | 烛煌的信物 | - | - |
 | p_char_1041_angel2 | 新约能天使的信物 | - | - |
@@ -959,8 +959,8 @@ tip: 请善用浏览器的搜索功能
 | p_char_4155_talr | 裁度的信物 | Figurino's Token | フィグリーノの印 |
 | p_char_415_flint | 燧石的信物 | Flint's Token | フリントの印 |
 | p_char_4162_cathy | 凯瑟琳的信物 | Catherine's Token | キャサリンの印 |
-| p_char_4163_rosesa | 瑰盐的信物 | - | - |
-| p_char_4164_tecno | 特克诺的信物 | - | - |
+| p_char_4163_rosesa | 瑰盐的信物 | - | ローズソルトの印 |
+| p_char_4164_tecno | 特克诺的信物 | - | テクノの印 |
 | p_char_4165_ctrail | 云迹的信物 | Contrail's Token | コントレイルの印 |
 | p_char_416_zumama | 森蚺的信物 | Eunectes' Token | ユーネクテスの印 |
 | p_char_4171_wulfen | 钼铅的信物 | - | - |

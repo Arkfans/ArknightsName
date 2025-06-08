@@ -81,7 +81,7 @@ tip: 请善用浏览器的搜索功能
 | act19sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act19sre | 绿野幻梦·复刻 | Dorothy's Vision - Retrospection | 翠玉の夢・復刻 |
 | act1access | 五周年专享活动 | Exclusive Event | 大感謝祭限定イベント |
-| act1arcade | 视相博物馆 | - | - |
+| act1arcade | 视相博物馆 | Poly Vision Museum | - |
 | act1blessing | 2024罗德岛新春签到 | 2024 Festival Sign-In | 4.5周年スタンプラリー |
 | act1bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act1break | 矢量突破：无机物 | - | - |
@@ -174,7 +174,7 @@ tip: 请善用浏览器的搜索功能
 | act38d1 | 尖灭测试作战 | Pinch-Out Experimental Operation | 尖滅試験作戦 |
 | act38side | 揭幕者们 | I Portatori dei Velluti | 幕開く者たち |
 | act38sign | 明日方舟X彩虹六号：围攻签到活动 | Arknights x Rainbow Six Siege Login Event | アークナイツ×R6Sスタンプラリー |
-| act39side | 出苍白海 | - | - |
+| act39side | 出苍白海 | Exodus from the Pale Sea | - |
 | act39sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act3bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act3collection | 潮起潮又起 | - | - |

@@ -302,6 +302,9 @@
     ]
   },
   "avg_1039_thorn2_1": {
+    "en_US": [
+      "Isidro"
+    ],
     "zh_CN": [
       "伊西多"
     ]
@@ -670,6 +673,7 @@
   "avg_172_svrash_1": {
     "en_US": [
       "Enciodes",
+      "Matterhorn?",
       "SilverAsh"
     ],
     "ja_JP": [
@@ -1335,6 +1339,9 @@
     ]
   },
   "avg_293_thorns_1": {
+    "en_US": [
+      "Isidro"
+    ],
     "zh_CN": [
       "伊西多"
     ]
@@ -2762,6 +2769,12 @@
     ]
   },
   "avg_4163_rosesa_1": {
+    "en_US": [
+      "Conniving Vendor",
+      "Isidro",
+      "Pascuala",
+      "Rose Salt"
+    ],
     "zh_CN": [
       "伊西多",
       "卑鄙的摊贩",
@@ -3502,6 +3515,7 @@
       "Angry Infected",
       "Angry Miner",
       "Angry Villager",
+      "Auctioning Sailor",
       "Charlie the Sproglet",
       "Community Electrician",
       "Diner B",
@@ -3748,6 +3762,7 @@
     "en_US": [
       "A Spectating Infected",
       "Bar Owner",
+      "Caravan Trader",
       "Depressed Worker",
       "Diligent Miner",
       "Engineer Andrey",
@@ -4448,6 +4463,7 @@
       "Audience Member A",
       "Audience Member C",
       "Careless Youth",
+      "Club Owner",
       "Customer A",
       "Food Stall Owner",
       "Male Tourist",
@@ -4505,6 +4521,7 @@
     "en_US": [
       "Audience Member B",
       "Community Resident",
+      "Curious Tourist",
       "Customer B",
       "Female Tourist",
       "Female Tourist A",
@@ -6483,7 +6500,8 @@
     "en_US": [
       "Alsu",
       "Devout Follower",
-      "Old Man"
+      "Old Man",
+      "Old Villager"
     ],
     "ja_JP": [
       "おじいさん",
@@ -7992,7 +8010,8 @@
     "en_US": [
       "Alert Community Guard",
       "Community Guard",
-      "Pelirrojo"
+      "Pelirrojo",
+      "Street Sculptor"
     ],
     "ja_JP": [
       "「赤毛」",
@@ -8441,8 +8460,10 @@
   "avg_npc_1256_1": {
     "en_US": [
       "Bejeweled Man",
+      "Excited Merchant",
       "Factory Director",
-      "Flustered Clerk"
+      "Flustered Clerk",
+      "Merchant"
     ],
     "ja_JP": [
       "工場長",
@@ -8497,7 +8518,8 @@
   },
   "avg_npc_1271_1": {
     "en_US": [
-      "Commanding Officer"
+      "Commanding Officer",
+      "Obsequious Soldier"
     ],
     "ja_JP": [
       "隊長"
@@ -8582,7 +8604,8 @@
   },
   "avg_npc_1274_1": {
     "en_US": [
-      "Operating Crew Director"
+      "Operating Crew Director",
+      "Sullivan"
     ],
     "ja_JP": [
       "現場監督"
@@ -10043,6 +10066,7 @@
       "Elegant Man",
       "Extremely Idle Citizen",
       "Gathering Staff",
+      "Kindly Servant",
       "Museum Receptionist",
       "Museum Staff",
       "Waiter"
@@ -10070,6 +10094,7 @@
   "avg_npc_1491_1": {
     "en_US": [
       "Ceremony Host",
+      "Doting Servant",
       "Eager Woman",
       "Incredibly Bored Citizen",
       "Mother",
@@ -10077,7 +10102,8 @@
       "Museum Ticketer",
       "Picky Visitor",
       "Plainly-Dressed Woman",
-      "Rashad"
+      "Rashad",
+      "Servant in Bushes"
     ],
     "ja_JP": [
       "ラサド",
@@ -10634,16 +10660,25 @@
     ]
   },
   "avg_npc_1577_1": {
+    "en_US": [
+      "Isidro"
+    ],
     "zh_CN": [
       "伊西多"
     ]
   },
   "avg_npc_1578_1": {
+    "en_US": [
+      "Sword-wielding Seaborn"
+    ],
     "zh_CN": [
       "执剑的海嗣"
     ]
   },
   "avg_npc_1579_1": {
+    "en_US": [
+      "Javier"
+    ],
     "zh_CN": [
       "哈维尔"
     ]
@@ -10660,38 +10695,71 @@
     ]
   },
   "avg_npc_1580_1": {
+    "en_US": [
+      "Fiery Woman",
+      "Teach"
+    ],
     "zh_CN": [
       "泼辣的女人",
       "蒂奇"
     ]
   },
   "avg_npc_1581_1": {
+    "en_US": [
+      "Juana"
+    ],
     "zh_CN": [
       "胡安娜"
     ]
   },
   "avg_npc_1582_1": {
+    "en_US": [
+      "Anastasio"
+    ],
     "zh_CN": [
       "安纳斯塔西奥"
     ]
   },
   "avg_npc_1583_1": {
+    "en_US": [
+      "Silver"
+    ],
     "zh_CN": [
       "西尔弗"
     ]
   },
   "avg_npc_1585_1": {
+    "en_US": [
+      "Saltfin"
+    ],
     "zh_CN": [
       "盐鳞"
     ]
   },
   "avg_npc_1586_1": {
+    "en_US": [
+      "Nene",
+      "Strange Creature"
+    ],
     "zh_CN": [
       "古怪的生物",
       "宝宝"
     ]
   },
   "avg_npc_1587_1": {
+    "en_US": [
+      "Inquisition Cleric",
+      "Merciless Warrior Priest",
+      "Pascuala",
+      "Pursuing Warrior Priest",
+      "Reliable Warrior Priest",
+      "Sad Warrior Priest",
+      "Serious Warrior Priest",
+      "Tall Warrior Priest",
+      "Warrior Priest",
+      "Warrior Priest A",
+      "Warrior Priest B"
+    ],
     "zh_CN": [
       "习武教士",
       "习武教士A",
@@ -10708,6 +10776,15 @@
     ]
   },
   "avg_npc_1588_1": {
+    "en_US": [
+      "Angry Sailor",
+      "Doubting Sailor",
+      "Eager Pirate",
+      "Excited Sailor",
+      "Frail Sailor",
+      "Frightened Sailor",
+      "Resolute Sailor"
+    ],
     "zh_CN": [
       "兴奋的船员",
       "坚定的船员",
@@ -10719,6 +10796,14 @@
     ]
   },
   "avg_npc_1589_1": {
+    "en_US": [
+      "Diligent Guard",
+      "Dismayed Woman",
+      "Joyful Sailor",
+      "Trustworthy Sailor",
+      "Weary Sailor",
+      "Worried Pirate"
+    ],
     "zh_CN": [
       "可信的船员",
       "尽职尽责的守卫",
@@ -10740,11 +10825,29 @@
     ]
   },
   "avg_npc_1590_1": {
+    "en_US": [
+      "Rus"
+    ],
     "zh_CN": [
       "鲁斯"
     ]
   },
   "avg_npc_1591_1": {
+    "en_US": [
+      "Aggressive Man",
+      "Alert Sailor",
+      "Cesc",
+      "Desperate Sailor",
+      "Excited Pirate",
+      "Fearless Sailor",
+      "Hesitant Sailor",
+      "Howling Sailor",
+      "Impulsive Sailor",
+      "Menacing Sailor",
+      "Reluctant Sailor",
+      "Sad Man",
+      "Sword-Wielding Sailor"
+    ],
     "zh_CN": [
       "不舍的船员",
       "举刀的船员",
@@ -10762,6 +10865,22 @@
     ]
   },
   "avg_npc_1592_1": {
+    "en_US": [
+      "Aloof Sailor",
+      "Angry Man",
+      "Angry Sailor",
+      "Anxious Sailor",
+      "Dizzy Sailor",
+      "Flustered Sailor",
+      "Hapless Sailor",
+      "Howling Sailor",
+      "Impulsive Sailor",
+      "Inattentive Guard",
+      "Nervous Sailor",
+      "Panicked Sailor",
+      "Stunned Sailor",
+      "Tired Sailor"
+    ],
     "zh_CN": [
       "冲动的船员",
       "冷漠的船员",
@@ -11639,6 +11758,7 @@
   "avg_npc_178": {
     "en_US": [
       "'Iberian'",
+      "Aloof Passerby",
       "Inhabitant",
       "Local Messenger",
       "Male Inhabitant",
@@ -11720,6 +11840,7 @@
   },
   "avg_npc_179": {
     "en_US": [
+      "Añora",
       "Old Inhabitant"
     ],
     "ja_JP": [
@@ -12043,10 +12164,14 @@
   },
   "avg_npc_187": {
     "en_US": [
+      "Anxious Townsperson",
+      "Honest Townsperson",
+      "Hungry Townsfolk",
       "Male Inhabitant B",
       "Male Monastery Inhabitant",
       "Male Resident",
       "Panicked Inhabitant",
+      "Tottering Old Man",
       "Townsfolk A"
     ],
     "ja_JP": [
@@ -12082,8 +12207,10 @@
   },
   "avg_npc_189": {
     "en_US": [
+      "Distressed Townsperson",
       "Male Inhabitant D",
       "Monastery Inhabitant",
+      "Stoic Townsfolk",
       "Townsfolk B"
     ],
     "ja_JP": [
@@ -13248,6 +13375,7 @@
       "Panicked Youth",
       "Placid Photographer",
       "Ragged Citizen",
+      "Reporter",
       "Restless Youth",
       "Stan",
       "Suspicious Man",
@@ -13738,7 +13866,8 @@
   "avg_npc_271_1": {
     "en_US": [
       "Receiving Attendant",
-      "Scathing Nobleman"
+      "Scathing Nobleman",
+      "Scholar"
     ],
     "ja_JP": [
       "冷酷な男性貴族",
@@ -13870,6 +13999,7 @@
       "Lively Local",
       "Meddlesome Villager",
       "Paleroche Commoner A",
+      "Station Staff",
       "Vintner?",
       "Youth"
     ],
@@ -14104,6 +14234,7 @@
       "Bodyguard",
       "Browntail Clan Warrior C",
       "Kjerag Hunter",
+      "Kjerag Warrior",
       "Kjerag Warrior B",
       "Kjerag Warrior?",
       "Kjerag Warriors",
@@ -15467,6 +15598,7 @@
       "Dublinn Messenger",
       "Frightened Refugee",
       "Gang Member",
+      "Intern Cameraman",
       "Jittery Citizen",
       "Londinium Citizen",
       "Londinium Citizen?",
@@ -15909,6 +16041,7 @@
   },
   "avg_npc_450_1": {
     "en_US": [
+      "'Pelirrojito'",
       "Elysium"
     ],
     "ja_JP": [
@@ -16067,7 +16200,8 @@
       "Blockading Townsfolk",
       "Brave Villager",
       "Nihilistic Townsperson",
-      "Pursuing Townsfolk"
+      "Pursuing Townsfolk",
+      "Scoffing Passerby"
     ],
     "ja_JP": [
       "勇敢な村人",
@@ -16116,7 +16250,9 @@
   },
   "avg_npc_461_1": {
     "en_US": [
+      "'Ordinary' Townsperson",
       "Calm Townsperson",
+      "Curious Passerby",
       "Restorationist",
       "Terrified Villager"
     ],
@@ -18186,6 +18322,7 @@
       "Note-Passing Student",
       "Rubio's Daughter",
       "Selene",
+      "Shy Child",
       "Thin Girl"
     ],
     "ja_JP": [
@@ -18929,7 +19066,8 @@
     "en_US": [
       "Bejeweled Citizen",
       "Extravagant Man",
-      "Extravagant Traveler"
+      "Extravagant Traveler",
+      "Lord Ameer"
     ],
     "ja_JP": [
       "宝石で飾り立てた市民",
@@ -19675,7 +19813,8 @@
   "avg_npc_941_1": {
     "en_US": [
       "Aulus",
-      "Gentle Priest"
+      "Gentle Priest",
+      "Kind Passerby"
     ],
     "ja_JP": [
       "アウルス",
@@ -19900,6 +20039,7 @@
     "en_US": [
       "Curious Operator A",
       "HR Operator",
+      "Hourglass",
       "Intern Operator",
       "Logistics Operator",
       "Records Room Operator",
@@ -20268,6 +20408,9 @@
     ]
   },
   "avgnew_400_weedy_1": {
+    "en_US": [
+      "Weedy"
+    ],
     "zh_CN": [
       "温蒂"
     ]

@@ -26,77 +26,77 @@
   },
   "2020recruitment10_1": {
     "en_US": "Type-α Headhunting Permit",
-    "ja_JP": "4.5周年特別スカウト券α",
+    "ja_JP": "5.5周年特別スカウト券α",
     "zh_CN": "α类新年寻访凭证"
   },
   "2020recruitment10_2": {
     "en_US": "Type-β Headhunting Permit",
-    "ja_JP": "4.5周年特別スカウト券β",
+    "ja_JP": "5.5周年特別スカウト券β",
     "zh_CN": "β类新年寻访凭证"
   },
   "2020recruitment10_3": {
     "en_US": "Type-γ Headhunting Permit",
-    "ja_JP": "4.5周年特別スカウト券γ",
+    "ja_JP": "5.5周年特別スカウト券γ",
     "zh_CN": "γ类新年寻访凭证"
   },
   "2021recruitment10_1": {
     "en_US": "Type-α Headhunting Permit",
-    "ja_JP": "4.5周年特別スカウト券α",
+    "ja_JP": "5.5周年特別スカウト券α",
     "zh_CN": "α类新年寻访凭证"
   },
   "2021recruitment10_2": {
     "en_US": "Type-β Headhunting Permit",
-    "ja_JP": "4.5周年特別スカウト券β",
+    "ja_JP": "5.5周年特別スカウト券β",
     "zh_CN": "β类新年寻访凭证"
   },
   "2021recruitment10_3": {
     "en_US": "Type-γ Headhunting Permit",
-    "ja_JP": "4.5周年特別スカウト券γ",
+    "ja_JP": "5.5周年特別スカウト券γ",
     "zh_CN": "γ类新年寻访凭证"
   },
   "2022recruitment10_1": {
     "en_US": "Type-α Headhunting Permit",
-    "ja_JP": "4.5周年特別スカウト券α",
+    "ja_JP": "5.5周年特別スカウト券α",
     "zh_CN": "α类新年寻访凭证"
   },
   "2022recruitment10_2": {
     "en_US": "Type-β Headhunting Permit",
-    "ja_JP": "4.5周年特別スカウト券β",
+    "ja_JP": "5.5周年特別スカウト券β",
     "zh_CN": "β类新年寻访凭证"
   },
   "2022recruitment10_3": {
     "en_US": "Type-γ Headhunting Permit",
-    "ja_JP": "4.5周年特別スカウト券γ",
+    "ja_JP": "5.5周年特別スカウト券γ",
     "zh_CN": "γ类新年寻访凭证"
   },
   "2023recruitment10_1": {
     "en_US": "Type-α Headhunting Permit",
-    "ja_JP": "4.5周年特別スカウト券α",
+    "ja_JP": "5.5周年特別スカウト券α",
     "zh_CN": "α类新年寻访凭证"
   },
   "2023recruitment10_2": {
     "en_US": "Type-β Headhunting Permit",
-    "ja_JP": "4.5周年特別スカウト券β",
+    "ja_JP": "5.5周年特別スカウト券β",
     "zh_CN": "β类新年寻访凭证"
   },
   "2023recruitment10_3": {
     "en_US": "Type-γ Headhunting Permit",
-    "ja_JP": "4.5周年特別スカウト券γ",
+    "ja_JP": "5.5周年特別スカウト券γ",
     "zh_CN": "γ类新年寻访凭证"
   },
   "2024recruitment10_1": {
     "en_US": "Type-α Headhunting Permit",
-    "ja_JP": "4.5周年特別スカウト券α",
+    "ja_JP": "5.5周年特別スカウト券α",
     "zh_CN": "α类新年寻访凭证"
   },
   "2024recruitment10_2": {
     "en_US": "Type-β Headhunting Permit",
-    "ja_JP": "4.5周年特別スカウト券β",
+    "ja_JP": "5.5周年特別スカウト券β",
     "zh_CN": "β类新年寻访凭证"
   },
   "2024recruitment10_3": {
     "en_US": "Type-γ Headhunting Permit",
-    "ja_JP": "4.5周年特別スカウト券γ",
+    "ja_JP": "5.5周年特別スカウト券γ",
     "zh_CN": "γ类新年寻访凭证"
   },
   "2025recruitment10_1": {
@@ -659,7 +659,7 @@
   },
   "EXTERMINATION_AGENT": {
     "en_US": "PRTS Proxy Annihilation Card",
-    "ja_JP": "PRTS殲滅代理カード",
+    "ja_JP": "定例事務代理カード",
     "zh_CN": "常态事务代理卡"
   },
   "LIMITED_TKT_GACHA_10_1401": {
@@ -1224,6 +1224,7 @@
     "zh_CN": "神秘试剂"
   },
   "act1arcade_milestone_point": {
+    "ja_JP": "景品チケット",
     "zh_CN": "积点卡券"
   },
   "act1bossrush_milestone_point": {
@@ -1506,6 +1507,7 @@
     "zh_CN": "数据黑盒"
   },
   "act2collection_point_token": {
+    "ja_JP": "「戦略家」ポイント",
     "zh_CN": "“战略家”点数"
   },
   "act2mainss_token": {
@@ -1576,6 +1578,7 @@
     "zh_CN": "匿名邀请函"
   },
   "act39side_token_garum": {
+    "ja_JP": "塩鱗ガルム",
     "zh_CN": "盐鳞咸鳞汁"
   },
   "act3bossrush_milestone_point": {
@@ -1609,6 +1612,7 @@
     "zh_CN": "数据黑盒"
   },
   "act3collection_point_token": {
+    "ja_JP": "「戦略家」ポイント",
     "zh_CN": "“战略家”点数"
   },
   "act40side_token_yumyum": {
@@ -3276,6 +3280,7 @@
     "zh_CN": "荒芜拉普兰德的信物"
   },
   "p_char_1039_thorn2": {
+    "ja_JP": "引星ソーンズの印",
     "zh_CN": "引星棘刺的信物"
   },
   "p_char_103_angel": {
@@ -4632,9 +4637,11 @@
     "zh_CN": "凯瑟琳的信物"
   },
   "p_char_4163_rosesa": {
+    "ja_JP": "ローズソルトの印",
     "zh_CN": "瑰盐的信物"
   },
   "p_char_4164_tecno": {
+    "ja_JP": "テクノの印",
     "zh_CN": "特克诺的信物"
   },
   "p_char_4165_ctrail": {
