@@ -146,7 +146,7 @@ tip: 请善用浏览器的搜索功能
 | skchr_buildr_2 | 工程者之愿 | Engineer's Wish | 建築家の願い |
 | skchr_cammou_2 | 同步索敌攻击 | Synchronized Attack | 同調索敵攻撃 |
 | skchr_caper_1 | 强力击·β型 | Power Strike β | 強撃β |
-| skchr_caper_2 | 乐趣加倍 | Double the Fun | ハピネス200％！ |
+| skchr_caper_2 | 乐趣加倍 | Double the Fun | ハピネス200%！ |
 | skchr_catap_1 | 爆破范围提升·α型 | Blast Range Up α | 爆破範囲拡大α |
 | skchr_cathy_1 | 岁月锻打 | Wrought by Age | 歳月による鍛造 |
 | skchr_cathy_2 | 战火淬炼 | Tempered by War | 戦火の焼き入れ |
@@ -585,8 +585,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_rockr_2 | 自负此轭 | Willing Burden | 軛を背負う |
 | skchr_rope_1 | 勾爪发射 | Hook Shot | 鉤縄投擲 |
 | skchr_rope_2 | 复式勾爪 | Double Hook | 鉤縄二本流 |
-| skchr_rosesa_1 | 上佳的应急药呀 | - | - |
-| skchr_rosesa_2 | 绝妙的长效药呀 | - | - |
+| skchr_rosesa_1 | 上佳的应急药呀 | Top-Notch Emergency Meds! | 急なケガにはこの薬！ |
+| skchr_rosesa_2 | 绝妙的长效药呀 | Super-Fine Slow-Release Meds! | 長く効くのがこの薬！ |
 | skchr_rosmon_1 | 思维膨大 | Expanded Cognition | 意識拡張 |
 | skchr_rosmon_2 | 末梢阻断 | Nociceptor Inhibition | 神経遮断 |
 | skchr_rosmon_3 | “如你所愿” | 'As You Wish' | 「君が望むままに」 |
@@ -677,15 +677,15 @@ tip: 请善用浏览器的搜索功能
 | skchr_takila_2 | 剑走偏锋 | Esoteric Bladework | 極刃奇襲 |
 | skchr_talr_1 | 量衣尺 | Tailor's Measure | 採寸用メジャー |
 | skchr_talr_2 | 缝线缠身 | Lockstitch | 絡みつく縫い糸 |
-| skchr_tecno_1 | 关节锁定 | - | - |
-| skchr_tecno_2 | 恣意挥洒 | - | - |
+| skchr_tecno_1 | 关节锁定 | Lockin' | 関節部補強 |
+| skchr_tecno_2 | 恣意挥洒 | Poppin' | 気ままなグラフィティ |
 | skchr_texas2_1 | 细雨无声 | Silent Drizzle | ピオヴィッジネ |
 | skchr_texas2_2 | 阵雨连绵 | Unrelenting Downpour | アクアツォーネ |
 | skchr_texas2_3 | 剑雨滂沱 | Torrential Sword Rain | ロヴェーショ |
 | skchr_texas_2 | 剑雨 | Sword Rain | 剣雨 |
-| skchr_thorn2_1 | 度算浪波 | - | - |
-| skchr_thorn2_2 | 解构涌潮 | - | - |
-| skchr_thorn2_3 | “我的海疆” | - | - |
+| skchr_thorn2_1 | 度算浪波 | Wave Reckoning | 波を計りて |
+| skchr_thorn2_2 | 解构涌潮 | Surge of Ceration | 潮を解析す |
+| skchr_thorn2_3 | “我的海疆” | 'Zona Marítima Personal' | 「我が海域」 |
 | skchr_thorns_2 | 护身尖刺 | Protective Spikes | 迎撃針棘 |
 | skchr_thorns_3 | 至高之术 | Destreza | デストレッツァ |
 | skchr_threye_1 | 我见崩毁之前 | Before All I See Collapses | 崩壊を視しとき |
@@ -918,15 +918,15 @@ tip: 请善用浏览器的搜索功能
 | sktok_angel2_target_2 | 开火成瘾症 | - | - |
 | sktok_angel2_target_3 | 使命必达！ | - | - |
 | sktok_antidr | 无人机干扰 | Drone Interference | ドローン妨害 |
-| sktok_arcexpd | 帮个小忙 | - | - |
-| sktok_arcgacha | 扭动机关 | - | - |
-| sktok_arcgrg | 启航！ | - | - |
-| sktok_archook | 发射 | - | - |
-| sktok_arcsoda | 充分摇匀 | - | - |
-| sktok_arcsum1 | 叮铃铃！ | - | - |
-| sktok_arcsum2 | 叮铃铃！ | - | - |
-| sktok_arcsum3 | 叮铃铃！ | - | - |
-| sktok_arctoll | 记分 | - | - |
+| sktok_arcexpd | 帮个小忙 | One Small Favor | お助け |
+| sktok_arcgacha | 扭动机关 | Turn Lever | カプセルポン！ |
+| sktok_arcgrg | 启航！ | Weigh Anchor! | 出航！ |
+| sktok_archook | 发射 | Fire | 発射 |
+| sktok_arcsoda | 充分摇匀 | Shake Vigorously | シェイクアップ |
+| sktok_arcsum1 | 叮铃铃！ | Ring Ring! | ジリリリンッ！ |
+| sktok_arcsum2 | 叮铃铃！ | Ring Ring! | ジリリリンッ！ |
+| sktok_arcsum3 | 叮铃铃！ | Ring Ring! | ジリリリンッ！ |
+| sktok_arctoll | 记分 | Tally | カウント |
 | sktok_badbox | 极诱人珍宝 | Really Alluring Treasures | 財宝の蕩めき |
 | sktok_ballis | 发射弩箭 | Bolt Launching | 射撃 |
 | sktok_bbombcard | 爆炸 | Explode | 爆発 |
@@ -1007,7 +1007,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_cdshieldb | 镀膜 | Coating | コーティング |
 | sktok_cjbtow_1 | 灶火灭 | - | - |
 | sktok_cjgtow_1 | 灶火起 | - | - |
-| sktok_cnnon | 吃盐坨子吧！ | - | - |
+| sktok_cnnon | 吃盐坨子吧！ | Eat Salt, Sucker! | 塩でも食ってろ！ |
 | sktok_cnvfwks | “狂欢时刻！” | 'Carnevale Time!' | 「狂宴の刻！」 |
 | sktok_condtr | 广域调谐 | Area Tuning | ﻿広域調律 |
 | sktok_cqbw_token | 受害者启动模式 | Victim Seeker | バッドラックXD |
@@ -1067,8 +1067,8 @@ tip: 请善用浏览器的搜索功能
 | sktok_gasbotb | 速效制冷 | Quick Cooling | 即時冷却 |
 | sktok_gasctrl | 毒雾控制 | Poison Mist Control | 毒霧制御 |
 | sktok_gate | 关闭闸门 | Gate Closing | シャッター |
-| sktok_giacan_1 | 应急摧毁协议 | - | - |
-| sktok_giatow | 法术传输协议 | - | - |
+| sktok_giacan_1 | 应急摧毁协议 | Emergency Destruction Protocol | 緊急破壊プロトコル |
+| sktok_giatow | 法术传输协议 | Arts Transfer Protocol | アーツ転送プロトコル |
 | sktok_godch | 罗德岛式协作 | Rhodes Island Collaboration | ロドス式提携 |
 | sktok_godcha | 罗德岛式协作 | Rhodes Island Collaboration | ロドス式提携 |
 | sktok_godchb | 罗德岛式协作 | Rhodes Island Collaboration | ロドス式提携 |

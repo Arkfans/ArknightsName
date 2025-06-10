@@ -686,7 +686,7 @@
   },
   "skchr_caper_2": {
     "en_US": "Double the Fun",
-    "ja_JP": "ハピネス200％！",
+    "ja_JP": "ハピネス200%！",
     "zh_CN": "乐趣加倍"
   },
   "skchr_catap_1": {
@@ -2832,9 +2832,13 @@
     "zh_CN": "复式勾爪"
   },
   "skchr_rosesa_1": {
+    "en_US": "Top-Notch Emergency Meds!",
+    "ja_JP": "急なケガにはこの薬！",
     "zh_CN": "上佳的应急药呀"
   },
   "skchr_rosesa_2": {
+    "en_US": "Super-Fine Slow-Release Meds!",
+    "ja_JP": "長く効くのがこの薬！",
     "zh_CN": "绝妙的长效药呀"
   },
   "skchr_rosmon_1": {
@@ -3284,9 +3288,13 @@
     "zh_CN": "缝线缠身"
   },
   "skchr_tecno_1": {
+    "en_US": "Lockin'",
+    "ja_JP": "関節部補強",
     "zh_CN": "关节锁定"
   },
   "skchr_tecno_2": {
+    "en_US": "Poppin'",
+    "ja_JP": "気ままなグラフィティ",
     "zh_CN": "恣意挥洒"
   },
   "skchr_texas2_1": {
@@ -3310,12 +3318,18 @@
     "zh_CN": "剑雨"
   },
   "skchr_thorn2_1": {
+    "en_US": "Wave Reckoning",
+    "ja_JP": "波を計りて",
     "zh_CN": "度算浪波"
   },
   "skchr_thorn2_2": {
+    "en_US": "Surge of Ceration",
+    "ja_JP": "潮を解析す",
     "zh_CN": "解构涌潮"
   },
   "skchr_thorn2_3": {
+    "en_US": "'Zona Marítima Personal'",
+    "ja_JP": "「我が海域」",
     "zh_CN": "“我的海疆”"
   },
   "skchr_thorns_2": {
@@ -4451,30 +4465,48 @@
     "zh_CN": "无人机干扰"
   },
   "sktok_arcexpd": {
+    "en_US": "One Small Favor",
+    "ja_JP": "お助け",
     "zh_CN": "帮个小忙"
   },
   "sktok_arcgacha": {
+    "en_US": "Turn Lever",
+    "ja_JP": "カプセルポン！",
     "zh_CN": "扭动机关"
   },
   "sktok_arcgrg": {
+    "en_US": "Weigh Anchor!",
+    "ja_JP": "出航！",
     "zh_CN": "启航！"
   },
   "sktok_archook": {
+    "en_US": "Fire",
+    "ja_JP": "発射",
     "zh_CN": "发射"
   },
   "sktok_arcsoda": {
+    "en_US": "Shake Vigorously",
+    "ja_JP": "シェイクアップ",
     "zh_CN": "充分摇匀"
   },
   "sktok_arcsum1": {
+    "en_US": "Ring Ring!",
+    "ja_JP": "ジリリリンッ！",
     "zh_CN": "叮铃铃！"
   },
   "sktok_arcsum2": {
+    "en_US": "Ring Ring!",
+    "ja_JP": "ジリリリンッ！",
     "zh_CN": "叮铃铃！"
   },
   "sktok_arcsum3": {
+    "en_US": "Ring Ring!",
+    "ja_JP": "ジリリリンッ！",
     "zh_CN": "叮铃铃！"
   },
   "sktok_arctoll": {
+    "en_US": "Tally",
+    "ja_JP": "カウント",
     "zh_CN": "记分"
   },
   "sktok_badbox": {
@@ -4874,6 +4906,8 @@
     "zh_CN": "灶火起"
   },
   "sktok_cnnon": {
+    "en_US": "Eat Salt, Sucker!",
+    "ja_JP": "塩でも食ってろ！",
     "zh_CN": "吃盐坨子吧！"
   },
   "sktok_cnvfwks": {
@@ -5158,9 +5192,13 @@
     "zh_CN": "关闭闸门"
   },
   "sktok_giacan_1": {
+    "en_US": "Emergency Destruction Protocol",
+    "ja_JP": "緊急破壊プロトコル",
     "zh_CN": "应急摧毁协议"
   },
   "sktok_giatow": {
+    "en_US": "Arts Transfer Protocol",
+    "ja_JP": "アーツ転送プロトコル",
     "zh_CN": "法术传输协议"
   },
   "sktok_godch": {

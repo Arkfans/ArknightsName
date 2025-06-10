@@ -1190,33 +1190,53 @@
     "zh_CN": "烟花发射器"
   },
   "trap_187_arcgacha": {
+    "en_US": "Gacha Machine",
+    "ja_JP": "カプセルマシン",
     "zh_CN": "扭蛋机"
   },
   "trap_188_arcsum1": {
+    "en_US": "Street Telephone Booth",
+    "ja_JP": "道端の電話ボックス",
     "zh_CN": "街边电话亭"
   },
   "trap_189_arcsum2": {
+    "en_US": "Camp Telephone Booth",
+    "ja_JP": "軍営の電話ボックス",
     "zh_CN": "军营电话亭"
   },
   "trap_190_arcsum3": {
+    "en_US": "Timey-Wimey Telephone Booth",
+    "ja_JP": "次元超越電話ボックス",
     "zh_CN": "超时空电话亭"
   },
   "trap_191_arcexpd": {
+    "en_US": "Menu Telephone",
+    "ja_JP": "注文用電話機",
     "zh_CN": "菜单电话机"
   },
   "trap_192_archook": {
+    "en_US": "Hook",
+    "ja_JP": "アーム",
     "zh_CN": "勾爪"
   },
   "trap_193_arctoll": {
+    "en_US": "Scoring Station",
+    "ja_JP": "得点集計所",
     "zh_CN": "大战记分站"
   },
   "trap_194_arcsoda": {
+    "en_US": "Quenchy Cola",
+    "ja_JP": "コカ・ラーラ",
     "zh_CN": "口渴乐乐"
   },
   "trap_195_arcpw": {
+    "en_US": "Power Gauntlet",
+    "ja_JP": "怪力グローブ",
     "zh_CN": "大力拳套"
   },
   "trap_196_cnnon": {
+    "en_US": "Saltheap Cannon",
+    "ja_JP": "ソルトキャノン",
     "zh_CN": "盐坨子炮"
   },
   "trap_197_muulwr": {
@@ -1256,6 +1276,8 @@
     "zh_CN": "便携健身架"
   },
   "trap_210_arcgrg": {
+    "en_US": "Amphibious Dock",
+    "ja_JP": "水陸両用埠頭",
     "zh_CN": "两栖码头"
   },
   "trap_211_cjgtow": {
@@ -2261,9 +2283,13 @@
     "zh_CN": "长距增运改装"
   },
   "trap_777_giacan": {
+    "en_US": "Gramophone Pedestal",
+    "ja_JP": "「蓄音機」の台座",
     "zh_CN": "“留声机”底座"
   },
   "trap_778_giatow": {
+    "en_US": "L-44 'Gramophone'",
+    "ja_JP": "L-44「蓄音機」",
     "zh_CN": "L-44\"留声机\""
   },
   "trap_779_skzth": {

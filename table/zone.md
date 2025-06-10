@@ -187,8 +187,8 @@ tip: 请善用浏览器的搜索功能
 | act38side_zone1 | 四幕汇演 | Quadriglia | カドリール |
 | act38side_zone2 | 彩车游行 | Splendida Cavalcata | 煌めく遊覧車 |
 | act38side_zone3 | 荒芜之舞 | Decadanza | 荒寥の舞 |
-| act39side_zone1 | 盐漠开航 | - | - |
-| act39side_zone2 | 穿越骸礁 | - | - |
+| act39side_zone1 | 盐漠开航 | Across the Salt Flat | 塩海横断 |
+| act39side_zone2 | 穿越骸礁 | Through the Skeletal Reef | 骸礁突破 |
 | act3bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act40side_zone1 | 识七味 | - | - |
 | act40side_zone2 | 阅世情 | - | - |
@@ -326,7 +326,7 @@ tip: 请善用浏览器的搜索功能
 | weekly_7 | 战术演习 | Tactical Drill | 戦術演習 |
 | weekly_8 | 资源保障 | Resource Search | 資源確保 |
 | weekly_9 | 货物运送 | Cargo Escort | 貨物輸送 |
-| zone_1 | 超级钩爪 | - | - |
-| zone_2 | 喷泉大战 | - | - |
-| zone_3 | 心连心 | - | - |
-| zone_4 | 障碍飞车 | - | - |
+| zone_1 | 超级钩爪 | SUPER HOOK | 超級キャッチャー |
+| zone_2 | 喷泉大战 | FOUNTAIN WAR | 噴水大作戦 |
+| zone_3 | 心连心 | HEART TO HEART | こころの輪 |
+| zone_4 | 障碍飞车 | HURDLE SPEEDER | 障害物競艇 |

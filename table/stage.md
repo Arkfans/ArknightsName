@@ -362,18 +362,18 @@ tip: 请善用浏览器的搜索功能
 | act19side_st01 | 逆行 | Retrograde | 逆行 |
 | act19side_st02 | 启程 | Embark | 旅立ち |
 | act19side_tr01 | 实验基地走廊 | Research Base Hallway | 実験基地の廊下 |
-| act1arcade_m1_01 | 捣乱毛绒 | Furry Troublemakers | - |
-| act1arcade_m1_02 | 叛乱兽群 | Unruly Beasts | - |
-| act1arcade_m1_03 | 出逃化物 | Escaped Monsters | - |
-| act1arcade_m2_01 | 喷泉广场 | Fountain Square | - |
-| act1arcade_m2_02 | 占领蒸汽 | Steam Conquest | - |
-| act1arcade_m2_03 | 决战“汽水侠” | 'Soda Knight' Showdown | - |
-| act1arcade_m3_01 | 峰回路转 | Winding Paths | - |
-| act1arcade_m3_02 | 环环相扣 | Interlocking Chains | - |
-| act1arcade_m3_03 | 百折千回 | Thousand Twists | - |
-| act1arcade_m4_01 | 陆上行船 | Boat Out of Water | - |
-| act1arcade_m4_02 | 冲出激浪 | Brave the Waves | - |
-| act1arcade_m4_03 | 环绕大地 | Journey the Land | - |
+| act1arcade_m1_01 | 捣乱毛绒 | Furry Troublemakers | イタズラモコモコ |
+| act1arcade_m1_02 | 叛乱兽群 | Unruly Beasts | 反乱せし獣たち |
+| act1arcade_m1_03 | 出逃化物 | Escaped Monsters | 逃げ惑うモンスター |
+| act1arcade_m2_01 | 喷泉广场 | Fountain Square | 噴水広場 |
+| act1arcade_m2_02 | 占领蒸汽 | Steam Conquest | 広がる蒸気 |
+| act1arcade_m2_03 | 决战“汽水侠” | 'Soda Knight' Showdown | VS「サイダーマン」 |
+| act1arcade_m3_01 | 峰回路转 | Winding Paths | 紆余曲折 |
+| act1arcade_m3_02 | 环环相扣 | Interlocking Chains | 繋がる輪 |
+| act1arcade_m3_03 | 百折千回 | Thousand Twists | 変わらぬ愛 |
+| act1arcade_m4_01 | 陆上行船 | Boat Out of Water | 陸上航行 |
+| act1arcade_m4_02 | 冲出激浪 | Brave the Waves | 荒波を越えろ |
+| act1arcade_m4_03 | 环绕大地 | Journey the Land | 大地を巡れ |
 | act1bossrush_01 | 无尽灼烧与强力破坏 | Burn and Destroy | 無尽の炎と破壊の鋸 |
 | act1bossrush_02 | 卷土重来 | Comeback | 捲土重来 |
 | act1bossrush_03 | 风沙轰隆隆 | Rolling Sands | 塵旋風とどろく |
@@ -815,18 +815,18 @@ tip: 请善用浏览器的搜索功能
 | act38side_st03 | 《狂欢节章程》 | 'Carnevale Charter' | 『カルネヴァーレの規則』 |
 | act38side_st04 | 《管理法修正案》 | 'Management Act Amendment' | 『管理法修正案』 |
 | act38side_tr01 | 《烟花燃放须知》 | 'Regulation on Fireworks' | 『花火取締規則』 |
-| act39side_01 | 倒悬苍白海上 | Upside Down on the Pale Sea | - |
-| act39side_02 | 腿部拆卸疗法 | Treatment by Limb Amputation | - |
-| act39side_03 | 大出血的舞步 | Dance of Exsanguination | - |
-| act39side_04 | 重逢不乏意外 | Accidental Reunion | - |
-| act39side_05 | 熄灭过去的灯 | Let the Light of the Past Die | - |
-| act39side_06 | 若退路在燃烧 | When the Way Out Burns | - |
-| act39side_07 | 我的罗盘 | My Compass | - |
-| act39side_08 | 见证，征服，定义 | I Come, I Conquer, I Define | - |
-| act39side_st01 | 别了，盐漠 | Adios, Salt Flat | - |
-| act39side_st02 | 倾泻腐朽的花 | A Flower that Blooms Rot | - |
-| act39side_st03 | 别了，大地 | Adios, Tierra | - |
-| act39side_tr01 | 海盗基本素养 | Essential Pirate Skills | - |
+| act39side_01 | 倒悬苍白海上 | Upside Down on the Pale Sea | 白き海に吊るされて |
+| act39side_02 | 腿部拆卸疗法 | Treatment by Limb Amputation | 脚部切断療法 |
+| act39side_03 | 大出血的舞步 | Dance of Exsanguination | 血塗れのダンス |
+| act39side_04 | 重逢不乏意外 | Accidental Reunion | 驚きに満ちた再会 |
+| act39side_05 | 熄灭过去的灯 | Let the Light of the Past Die | 過去の灯りを消して |
+| act39side_06 | 若退路在燃烧 | When the Way Out Burns | 退路燃えぬれば |
+| act39side_07 | 我的罗盘 | My Compass | 我がコンパス |
+| act39side_08 | 见证，征服，定义 | I Come, I Conquer, I Define | 目撃、征服、定義 |
+| act39side_st01 | 别了，盐漠 | Adios, Salt Flat | さらば、塩海よ |
+| act39side_st02 | 倾泻腐朽的花 | A Flower that Blooms Rot | 朽ちた花降り注ぐ時 |
+| act39side_st03 | 别了，大地 | Adios, Tierra | さらば、大地よ |
+| act39side_tr01 | 海盗基本素养 | Essential Pirate Skills | 海賊の素養 |
 | act3bossrush_01 | 适者生存 | Survival of the Fittest | 適者生存 |
 | act3bossrush_02 | 惊惧与血色 | Blood and Terror | 恐怖と血色 |
 | act3bossrush_03 | 不测之渊 | Deep in Danger | 不測の淵 |
@@ -1137,12 +1137,12 @@ tip: 请善用浏览器的搜索功能
 | lt_16_04 | 节尽 | Season's End | 季節が去る |
 | lt_16_05 | 风林栖 | The Windy Grove | 秋風の林に栖めば |
 | lt_16_06 | 莫寻迹 | Do Not Follow Tracks | 去る者追わず |
-| lt_17_01 | 荒野的第一乐章 | First Movement of the Barrens | - |
-| lt_17_02 | 石像的改编曲 | Arrangement of the Statue | - |
-| lt_17_03 | 野兽狂欢曲 | Rhapsody of the Wild | - |
-| lt_17_04 | 温顺者的摇篮曲 | Lullaby of the Tame | - |
-| lt_17_05 | 驮兽与石像的二重奏 | Duet of Beast and Statue | - |
-| lt_17_06 | “音乐之心” | 'Heart of Music' | - |
+| lt_17_01 | 荒野的第一乐章 | First Movement of the Barrens | 荒野の第一楽章 |
+| lt_17_02 | 石像的改编曲 | Arrangement of the Statue | 石像のパラフレーズ |
+| lt_17_03 | 野兽狂欢曲 | Rhapsody of the Wild | 獣のカプリッチョ |
+| lt_17_04 | 温顺者的摇篮曲 | Lullaby of the Tame | 従順なるララバイ |
+| lt_17_05 | 驮兽与石像的二重奏 | Duet of Beast and Statue | 駄獣と石像のデュエット |
+| lt_17_06 | “音乐之心” | 'Heart of Music' | 「音楽の心」 |
 | lt_18_01 | 巷道里 | - | - |
 | lt_18_02 | 楼台边 | - | - |
 | lt_18_03 | 墓地旁 | - | - |

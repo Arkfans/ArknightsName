@@ -85,22 +85,22 @@ tip: 请善用浏览器的搜索功能
 | enemy_1003_ncbow_2 | 弩手组长 | Crossbowman Leader | 射撃隊長 |
 | enemy_10040_cnvbln | 节日气球 | Carnevale Balloon | 祝祭のバルーン |
 | enemy_10040_cnvbln_2 | 巡游气球 | Parade Balloon | パレードのバルーン |
-| enemy_10042_prtrop | 架桥船工 | - | - |
-| enemy_10042_prtrop_2 | 扶桥老手 | - | - |
-| enemy_10043_sailor | 寻险水手 | - | - |
-| enemy_10043_sailor_2 | 历险水手 | - | - |
-| enemy_10044_wintun | 咸鳞汁推荐者 | - | - |
-| enemy_10044_wintun_2 | 朗姆酒推荐者 | - | - |
-| enemy_10045_parrot | 吉兆飞鳞 | - | - |
-| enemy_10045_parrot_2 | 噩兆飞鳞 | - | - |
-| enemy_10046_pshark | 撼地盐鳞 | - | - |
-| enemy_10046_pshark_2 | 裂地盐鳞 | - | - |
-| enemy_10047_shrknt | 爆炸追寻者 | - | - |
-| enemy_10047_shrknt_2 | 爆炸信奉者 | - | - |
-| enemy_10048_prtsld | 血腥厨子 | - | - |
-| enemy_10048_prtsld_2 | 恐怖厨子 | - | - |
-| enemy_10049_pcaptn | 爆鸣水手长 | - | - |
-| enemy_10049_pcaptn_2 | 美声水手长 | - | - |
+| enemy_10042_prtrop | 架桥船工 | Bridge Builder | 橋架け船大工 |
+| enemy_10042_prtrop_2 | 扶桥老手 | Bridge Holder | ベテラン橋持ち師 |
+| enemy_10043_sailor | 寻险水手 | Risk-seeking Sailor | 冒険水夫 |
+| enemy_10043_sailor_2 | 历险水手 | Risk-surviving Sailor | 無鉄砲水夫 |
+| enemy_10044_wintun | 咸鳞汁推荐者 | Garum Gourmet | ガルム過激派 |
+| enemy_10044_wintun_2 | 朗姆酒推荐者 | Rum Gourmet | ラム酒過激派 |
+| enemy_10045_parrot | 吉兆飞鳞 | Lucky Flyfin | 吉兆飛鱗獣 |
+| enemy_10045_parrot_2 | 噩兆飞鳞 | Unlucky Flyfin | 凶兆飛鱗獣 |
+| enemy_10046_pshark | 撼地盐鳞 | Saltfin Shaker | 地鳴らし塩鱗獣 |
+| enemy_10046_pshark_2 | 裂地盐鳞 | Saltfin Breaker | 地割れ塩鱗獣 |
+| enemy_10047_shrknt | 爆炸追寻者 | Explosion Chaser | 爆発探求者 |
+| enemy_10047_shrknt_2 | 爆炸信奉者 | Explosion Devotee | 爆発信奉者 |
+| enemy_10048_prtsld | 血腥厨子 | Bloody Chef | テラーコック |
+| enemy_10048_prtsld_2 | 恐怖厨子 | Terrible Chef | ホラーコック |
+| enemy_10049_pcaptn | 爆鸣水手长 | Cacophonous Boatswain | 爆音水兵長 |
+| enemy_10049_pcaptn_2 | 美声水手长 | Bel Canto Boatswain | 美声水兵長 |
 | enemy_1004_mslime | 酸液源石虫 | Acid Originium Slug | アシッドムシ |
 | enemy_1004_mslime_2 | 酸液源石虫·α | Acid Originium Slug α | アシッドムシα |
 | enemy_10050_cjmeat | 饔 | - | - |
@@ -1085,7 +1085,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1558_sgactr | 祖巴伊达姆，从往昔来 | Zubayidamu the Timeless | 「過去の使者」ズバイダム |
 | enemy_1559_vtlionk | 阿利斯泰尔，帝国余晖 | Alistair, Final Flame of the Empire | 「帝国の残光」アリステア |
 | enemy_1560_cnvlap | “狂欢之主” | 'La Signora del Carnevale' | 「狂宴の主」 |
-| enemy_1561_crzjdg | 安纳斯塔西奥，赎罪者 | - | - |
+| enemy_1561_crzjdg | 安纳斯塔西奥，赎罪者 | Anastasio, the Atoner | 「贖罪者」アナスタシオ |
 | enemy_1562_cjtaot | 无餍 | - | - |
 | enemy_1563_fthlgj | “万火归一” | - | - |
 | enemy_1564_mpprts | PRTS，“源代码” | - | - |
@@ -1254,13 +1254,13 @@ tip: 请善用浏览器的搜索功能
 | enemy_5008_cstrwd | 艺术的慈悲! | The Boons of Art! | 芸術の慈悲！ |
 | enemy_5009_shtrwd | 艺术的绝杀! | The Clutchness of Art! | 芸術の必殺技！ |
 | enemy_5010_catrdg | 弱弹 | Weaksauce | 弱い弾 |
-| enemy_5501_arcbank | 大富翁 | - | - |
-| enemy_5502_arcthf | 宝藏神偷 | - | - |
-| enemy_5503_arcslma | 果冻小子 | - | - |
-| enemy_5504_arcslmi | 果冻丁 | - | - |
-| enemy_5505_arctxi | “两栖号”船车 | - | - |
-| enemy_5506_arcgo | “搁浅零件” | - | - |
-| enemy_5507_arctolm | 喷泉“汽水侠” | - | - |
+| enemy_5501_arcbank | 大富翁 | Tycoon | 大富豪 |
+| enemy_5502_arcthf | 宝藏神偷 | Treasure Thief | お宝泥棒 |
+| enemy_5503_arcslma | 果冻小子 | Jelly Kid | ゼリーモンスター |
+| enemy_5504_arcslmi | 果冻丁 | Jello | ゼリーキッド |
+| enemy_5505_arctxi | “两栖号”船车 | 'The Amphibian' Ship-Car | ボトルカー「水陸両用号」 |
+| enemy_5506_arcgo | “搁浅零件” | 'Washed-Up Parts' | 「ボトルパーツ」 |
+| enemy_5507_arctolm | 喷泉“汽水侠” | Fountain 'Soda Knight' | 噴水「サイダーマン」 |
 | enemy_6001_trsgst | 飞腿毛贼 | Fleet-footed Thief | コソ泥フライ |
 | enemy_6002_trswlf | 流眼泪侦探 | Teary Detective | 涙眼の探偵 |
 | enemy_6003_trsslm | “闪亮噗噜” | 'Shiny Pooloo' | 「キラプル」 |
@@ -1288,7 +1288,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_6025_tinker | 怨恨祭坛 | Altar of Hatred | 怨恨の祭壇 |
 | enemy_6026_techn | 巫术石球 | Witchcraft Orb | 巫術の石球 |
 | enemy_6027_bqthie | 飞檐客-叶无轻 | Ye Wuqing, Rooftop Runner | 「飛侠」葉無軽 |
-| enemy_6028_cosgia | “高亢群歌” | - | - |
+| enemy_6028_cosgia | “高亢群歌” | 'Song of the Pack' | 「高らかな合唱」 |
 | enemy_6029_solzac | “晨音” | - | - |
 | enemy_6030_frgzac | “鸣啭” | - | - |
 | enemy_6031_visfrg | “木衣” | - | - |

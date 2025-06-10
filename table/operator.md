@@ -34,7 +34,7 @@ tip: 请善用浏览器的搜索功能
 | char_1035_wisdel | 维什戴尔 | Wiš'adel | ウィシャデル |
 | char_1036_fang2 | 历阵锐枪芬 | Fang the Fire-Sharpened | 歴陣鋭槍フェン |
 | char_1038_whitw2 | 荒芜拉普兰德 | Lappland the Decadenza | 荒蕪ラップランド |
-| char_1039_thorn2 | 引星棘刺 | - | - |
+| char_1039_thorn2 | 引星棘刺 | Thorns the Lodestar | 引星ソーンズ |
 | char_103_angel | 能天使 | Exusiai | エクシア |
 | char_1040_blaze2 | 烛煌 | - | - |
 | char_1041_angel2 | 新约能天使 | - | - |
@@ -312,8 +312,8 @@ tip: 请善用浏览器的搜索功能
 | char_4155_talr | 裁度 | Figurino | フィグリーノ |
 | char_415_flint | 燧石 | Flint | フリント |
 | char_4162_cathy | 凯瑟琳 | Catherine | キャサリン |
-| char_4163_rosesa | 瑰盐 | - | - |
-| char_4164_tecno | 特克诺 | - | - |
+| char_4163_rosesa | 瑰盐 | Rose Salt | ローズソルト |
+| char_4164_tecno | 特克诺 | Tecno | テクノ |
 | char_4165_ctrail | 云迹 | Contrail | コントレイル |
 | char_416_zumama | 森蚺 | Eunectes | ユーネクテス |
 | char_4171_wulfen | 钼铅 | - | - |

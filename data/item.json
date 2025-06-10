@@ -658,7 +658,7 @@
     "zh_CN": "寻访参数模型"
   },
   "EXTERMINATION_AGENT": {
-    "en_US": "PRTS Proxy Annihilation Card",
+    "en_US": "Regular Tasks Proxy Card",
     "ja_JP": "定例事務代理カード",
     "zh_CN": "常态事务代理卡"
   },
@@ -1224,6 +1224,7 @@
     "zh_CN": "神秘试剂"
   },
   "act1arcade_milestone_point": {
+    "en_US": "Point Card",
     "ja_JP": "景品チケット",
     "zh_CN": "积点卡券"
   },
@@ -1507,6 +1508,7 @@
     "zh_CN": "数据黑盒"
   },
   "act2collection_point_token": {
+    "en_US": "'Strategist' Point",
     "ja_JP": "「戦略家」ポイント",
     "zh_CN": "“战略家”点数"
   },
@@ -1578,6 +1580,7 @@
     "zh_CN": "匿名邀请函"
   },
   "act39side_token_garum": {
+    "en_US": "Saltfin Garum",
     "ja_JP": "塩鱗ガルム",
     "zh_CN": "盐鳞咸鳞汁"
   },
@@ -1612,6 +1615,7 @@
     "zh_CN": "数据黑盒"
   },
   "act3collection_point_token": {
+    "en_US": "'Strategist' Point",
     "ja_JP": "「戦略家」ポイント",
     "zh_CN": "“战略家”点数"
   },
@@ -3280,6 +3284,7 @@
     "zh_CN": "荒芜拉普兰德的信物"
   },
   "p_char_1039_thorn2": {
+    "en_US": "Thorns the Lodestar's Token",
     "ja_JP": "引星ソーンズの印",
     "zh_CN": "引星棘刺的信物"
   },
@@ -4637,10 +4642,12 @@
     "zh_CN": "凯瑟琳的信物"
   },
   "p_char_4163_rosesa": {
+    "en_US": "Rose Salt's Token",
     "ja_JP": "ローズソルトの印",
     "zh_CN": "瑰盐的信物"
   },
   "p_char_4164_tecno": {
+    "en_US": "Tecno's Token",
     "ja_JP": "テクノの印",
     "zh_CN": "特克诺的信物"
   },
@@ -5736,7 +5743,7 @@
     "zh_CN": "资深干员特训邀请函"
   },
   "voucher_elite_II_6": {
-    "en_US": "Advanced Senior Operator Training Invitation Letter",
+    "en_US": "Top Operator Training Invitation Letter",
     "ja_JP": "★6特訓招待状",
     "zh_CN": "高级资深干员特训邀请函"
   },

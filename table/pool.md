@@ -239,5 +239,5 @@ tip: 请善用浏览器的搜索功能
 | _SINGLE_32_0_1 | - | Clear Like Hearts, True Like Reflections | 心と鏡の残痕 |
 | _SINGLE_32_0_5 | - | Clank Liberty | 銃声 |
 | _SINGLE_33_0_1 | - | Never Gilded | 褪せざる栄光 |
-| _SINGLE_34_0_1 | - | Confirmation, Completion, Conduction | - |
+| _SINGLE_34_0_1 | - | Confirmation, Completion, Conduction | 実証、完成、先導 |
 | _SPECIAL_32_0_8 | - | Orienteering Headhunting | セレクトスカウト |

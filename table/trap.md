@@ -243,16 +243,16 @@ tip: 请善用浏览器的搜索功能
 | trap_184_vtarsn | 军工厂指令平台 | Munitions Factory Command Center | 軍事工場指令基地 |
 | trap_185_vtlntw | 黄金回响 | Golden Echo | 黄金の反響 |
 | trap_186_cnvfwks | 烟花发射器 | Firework Launcher | 花火打上装置 |
-| trap_187_arcgacha | 扭蛋机 | - | - |
-| trap_188_arcsum1 | 街边电话亭 | - | - |
-| trap_189_arcsum2 | 军营电话亭 | - | - |
-| trap_190_arcsum3 | 超时空电话亭 | - | - |
-| trap_191_arcexpd | 菜单电话机 | - | - |
-| trap_192_archook | 勾爪 | - | - |
-| trap_193_arctoll | 大战记分站 | - | - |
-| trap_194_arcsoda | 口渴乐乐 | - | - |
-| trap_195_arcpw | 大力拳套 | - | - |
-| trap_196_cnnon | 盐坨子炮 | - | - |
+| trap_187_arcgacha | 扭蛋机 | Gacha Machine | カプセルマシン |
+| trap_188_arcsum1 | 街边电话亭 | Street Telephone Booth | 道端の電話ボックス |
+| trap_189_arcsum2 | 军营电话亭 | Camp Telephone Booth | 軍営の電話ボックス |
+| trap_190_arcsum3 | 超时空电话亭 | Timey-Wimey Telephone Booth | 次元超越電話ボックス |
+| trap_191_arcexpd | 菜单电话机 | Menu Telephone | 注文用電話機 |
+| trap_192_archook | 勾爪 | Hook | アーム |
+| trap_193_arctoll | 大战记分站 | Scoring Station | 得点集計所 |
+| trap_194_arcsoda | 口渴乐乐 | Quenchy Cola | コカ・ラーラ |
+| trap_195_arcpw | 大力拳套 | Power Gauntlet | 怪力グローブ |
+| trap_196_cnnon | 盐坨子炮 | Saltheap Cannon | ソルトキャノン |
 | trap_197_muulwr | 护具分发员 | - | - |
 | trap_198_muulas | 混乱烟花箱 | - | - |
 | trap_199_muulrg | 猛兽能量饮料 | - | - |
@@ -265,7 +265,7 @@ tip: 请善用浏览器的搜索功能
 | trap_207_mufrwl | 液压式高台  | - | - |
 | trap_208_mufrst | 混凝土路障  | - | - |
 | trap_209_mufrbs | 便携健身架 | - | - |
-| trap_210_arcgrg | 两栖码头 | - | - |
+| trap_210_arcgrg | 两栖码头 | Amphibious Dock | 水陸両用埠頭 |
 | trap_211_cjgtow | 火灶 | - | - |
 | trap_212_cjbtow | 废弃火灶 | - | - |
 | trap_213_dqore | 源石祭坛 | - | - |
@@ -480,8 +480,8 @@ tip: 请善用浏览器的搜索功能
 | trap_774_bqmlee | 攀云机 | Cloudstepper | 登雲具 |
 | trap_775_bqmleea | 加固扩存改装 | Reinforcement Expansion Modification | 補強＆拡容改造 |
 | trap_776_bqmleeb | 长距增运改装 | Long-Expansion Modification | 遠距離＆効率化改造 |
-| trap_777_giacan | “留声机”底座 | - | - |
-| trap_778_giatow | L-44"留声机" | - | - |
+| trap_777_giacan | “留声机”底座 | Gramophone Pedestal | 「蓄音機」の台座 |
+| trap_778_giatow | L-44"留声机" | L-44 'Gramophone' | L-44「蓄音機」 |
 | trap_779_skzth | 尼卢火 | Aggini of Nila | ニーラのアグニ |
 | trap_780_supspt | 天工夜行套装 | - | - |
 | trap_781_supspta | 夜行斗篷模块 | - | - |

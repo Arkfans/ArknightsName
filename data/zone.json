@@ -884,9 +884,13 @@
     "zh_CN": "荒芜之舞"
   },
   "act39side_zone1": {
+    "en_US": "Across the Salt Flat",
+    "ja_JP": "塩海横断",
     "zh_CN": "盐漠开航"
   },
   "act39side_zone2": {
+    "en_US": "Through the Skeletal Reef",
+    "ja_JP": "骸礁突破",
     "zh_CN": "穿越骸礁"
   },
   "act3bossrush_zone1": {
@@ -1543,15 +1547,23 @@
     "zh_CN": "货物运送"
   },
   "zone_1": {
+    "en_US": "SUPER HOOK",
+    "ja_JP": "超級キャッチャー",
     "zh_CN": "超级钩爪"
   },
   "zone_2": {
+    "en_US": "FOUNTAIN WAR",
+    "ja_JP": "噴水大作戦",
     "zh_CN": "喷泉大战"
   },
   "zone_3": {
+    "en_US": "HEART TO HEART",
+    "ja_JP": "こころの輪",
     "zh_CN": "心连心"
   },
   "zone_4": {
+    "en_US": "HURDLE SPEEDER",
+    "ja_JP": "障害物競艇",
     "zh_CN": "障碍飞车"
   }
 }

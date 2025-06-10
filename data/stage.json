@@ -1766,50 +1766,62 @@
   },
   "act1arcade_m1_01": {
     "en_US": "Furry Troublemakers",
+    "ja_JP": "イタズラモコモコ",
     "zh_CN": "捣乱毛绒"
   },
   "act1arcade_m1_02": {
     "en_US": "Unruly Beasts",
+    "ja_JP": "反乱せし獣たち",
     "zh_CN": "叛乱兽群"
   },
   "act1arcade_m1_03": {
     "en_US": "Escaped Monsters",
+    "ja_JP": "逃げ惑うモンスター",
     "zh_CN": "出逃化物"
   },
   "act1arcade_m2_01": {
     "en_US": "Fountain Square",
+    "ja_JP": "噴水広場",
     "zh_CN": "喷泉广场"
   },
   "act1arcade_m2_02": {
     "en_US": "Steam Conquest",
+    "ja_JP": "広がる蒸気",
     "zh_CN": "占领蒸汽"
   },
   "act1arcade_m2_03": {
     "en_US": "'Soda Knight' Showdown",
+    "ja_JP": "VS「サイダーマン」",
     "zh_CN": "决战“汽水侠”"
   },
   "act1arcade_m3_01": {
     "en_US": "Winding Paths",
+    "ja_JP": "紆余曲折",
     "zh_CN": "峰回路转"
   },
   "act1arcade_m3_02": {
     "en_US": "Interlocking Chains",
+    "ja_JP": "繋がる輪",
     "zh_CN": "环环相扣"
   },
   "act1arcade_m3_03": {
     "en_US": "Thousand Twists",
+    "ja_JP": "変わらぬ愛",
     "zh_CN": "百折千回"
   },
   "act1arcade_m4_01": {
     "en_US": "Boat Out of Water",
+    "ja_JP": "陸上航行",
     "zh_CN": "陆上行船"
   },
   "act1arcade_m4_02": {
     "en_US": "Brave the Waves",
+    "ja_JP": "荒波を越えろ",
     "zh_CN": "冲出激浪"
   },
   "act1arcade_m4_03": {
     "en_US": "Journey the Land",
+    "ja_JP": "大地を巡れ",
     "zh_CN": "环绕大地"
   },
   "act1bossrush_01": {
@@ -3887,50 +3899,62 @@
   },
   "act39side_01": {
     "en_US": "Upside Down on the Pale Sea",
+    "ja_JP": "白き海に吊るされて",
     "zh_CN": "倒悬苍白海上"
   },
   "act39side_02": {
     "en_US": "Treatment by Limb Amputation",
+    "ja_JP": "脚部切断療法",
     "zh_CN": "腿部拆卸疗法"
   },
   "act39side_03": {
     "en_US": "Dance of Exsanguination",
+    "ja_JP": "血塗れのダンス",
     "zh_CN": "大出血的舞步"
   },
   "act39side_04": {
     "en_US": "Accidental Reunion",
+    "ja_JP": "驚きに満ちた再会",
     "zh_CN": "重逢不乏意外"
   },
   "act39side_05": {
     "en_US": "Let the Light of the Past Die",
+    "ja_JP": "過去の灯りを消して",
     "zh_CN": "熄灭过去的灯"
   },
   "act39side_06": {
     "en_US": "When the Way Out Burns",
+    "ja_JP": "退路燃えぬれば",
     "zh_CN": "若退路在燃烧"
   },
   "act39side_07": {
     "en_US": "My Compass",
+    "ja_JP": "我がコンパス",
     "zh_CN": "我的罗盘"
   },
   "act39side_08": {
     "en_US": "I Come, I Conquer, I Define",
+    "ja_JP": "目撃、征服、定義",
     "zh_CN": "见证，征服，定义"
   },
   "act39side_st01": {
     "en_US": "Adios, Salt Flat",
+    "ja_JP": "さらば、塩海よ",
     "zh_CN": "别了，盐漠"
   },
   "act39side_st02": {
     "en_US": "A Flower that Blooms Rot",
+    "ja_JP": "朽ちた花降り注ぐ時",
     "zh_CN": "倾泻腐朽的花"
   },
   "act39side_st03": {
     "en_US": "Adios, Tierra",
+    "ja_JP": "さらば、大地よ",
     "zh_CN": "别了，大地"
   },
   "act39side_tr01": {
     "en_US": "Essential Pirate Skills",
+    "ja_JP": "海賊の素養",
     "zh_CN": "海盗基本素养"
   },
   "act3bossrush_01": {
@@ -5347,26 +5371,32 @@
   },
   "lt_17_01": {
     "en_US": "First Movement of the Barrens",
+    "ja_JP": "荒野の第一楽章",
     "zh_CN": "荒野的第一乐章"
   },
   "lt_17_02": {
     "en_US": "Arrangement of the Statue",
+    "ja_JP": "石像のパラフレーズ",
     "zh_CN": "石像的改编曲"
   },
   "lt_17_03": {
     "en_US": "Rhapsody of the Wild",
+    "ja_JP": "獣のカプリッチョ",
     "zh_CN": "野兽狂欢曲"
   },
   "lt_17_04": {
     "en_US": "Lullaby of the Tame",
+    "ja_JP": "従順なるララバイ",
     "zh_CN": "温顺者的摇篮曲"
   },
   "lt_17_05": {
     "en_US": "Duet of Beast and Statue",
+    "ja_JP": "駄獣と石像のデュエット",
     "zh_CN": "驮兽与石像的二重奏"
   },
   "lt_17_06": {
     "en_US": "'Heart of Music'",
+    "ja_JP": "「音楽の心」",
     "zh_CN": "“音乐之心”"
   },
   "lt_18_01": {

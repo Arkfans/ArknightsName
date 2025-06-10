@@ -234,6 +234,8 @@
   "char_1039_thorn2": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Thorns the Lodestar",
+      "ja_JP": "引星ソーンズ",
       "zh_CN": "引星棘刺"
     }
   },
@@ -2444,12 +2446,16 @@
   "char_4163_rosesa": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Rose Salt",
+      "ja_JP": "ローズソルト",
       "zh_CN": "瑰盐"
     }
   },
   "char_4164_tecno": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Tecno",
+      "ja_JP": "テクノ",
       "zh_CN": "特克诺"
     }
   },
@@ -3540,6 +3546,8 @@
   "token_10042_tecno_puppet": {
     "type": "TOKEN",
     "names": {
+      "en_US": "Puppet Dancer",
+      "ja_JP": "パペットダンサー",
       "zh_CN": "木偶舞者"
     }
   },
@@ -5500,60 +5508,80 @@
   "trap_187_arcgacha": {
     "type": "TRAP",
     "names": {
+      "en_US": "Gacha Machine",
+      "ja_JP": "カプセルマシン",
       "zh_CN": "扭蛋机"
     }
   },
   "trap_188_arcsum1": {
     "type": "TRAP",
     "names": {
+      "en_US": "Street Telephone Booth",
+      "ja_JP": "道端の電話ボックス",
       "zh_CN": "街边电话亭"
     }
   },
   "trap_189_arcsum2": {
     "type": "TRAP",
     "names": {
+      "en_US": "Camp Telephone Booth",
+      "ja_JP": "軍営の電話ボックス",
       "zh_CN": "军营电话亭"
     }
   },
   "trap_190_arcsum3": {
     "type": "TRAP",
     "names": {
+      "en_US": "Timey-Wimey Telephone Booth",
+      "ja_JP": "次元超越電話ボックス",
       "zh_CN": "超时空电话亭"
     }
   },
   "trap_191_arcexpd": {
     "type": "TRAP",
     "names": {
+      "en_US": "Menu Telephone",
+      "ja_JP": "注文用電話機",
       "zh_CN": "菜单电话机"
     }
   },
   "trap_192_archook": {
     "type": "TRAP",
     "names": {
+      "en_US": "Hook",
+      "ja_JP": "アーム",
       "zh_CN": "勾爪"
     }
   },
   "trap_193_arctoll": {
     "type": "TRAP",
     "names": {
+      "en_US": "Scoring Station",
+      "ja_JP": "得点集計所",
       "zh_CN": "大战记分站"
     }
   },
   "trap_194_arcsoda": {
     "type": "TRAP",
     "names": {
+      "en_US": "Quenchy Cola",
+      "ja_JP": "コカ・ラーラ",
       "zh_CN": "口渴乐乐"
     }
   },
   "trap_195_arcpw": {
     "type": "TRAP",
     "names": {
+      "en_US": "Power Gauntlet",
+      "ja_JP": "怪力グローブ",
       "zh_CN": "大力拳套"
     }
   },
   "trap_196_cnnon": {
     "type": "TRAP",
     "names": {
+      "en_US": "Saltheap Cannon",
+      "ja_JP": "ソルトキャノン",
       "zh_CN": "盐坨子炮"
     }
   },
@@ -5632,6 +5660,8 @@
   "trap_210_arcgrg": {
     "type": "TRAP",
     "names": {
+      "en_US": "Amphibious Dock",
+      "ja_JP": "水陸両用埠頭",
       "zh_CN": "两栖码头"
     }
   },
@@ -7270,12 +7300,16 @@
   "trap_777_giacan": {
     "type": "TRAP",
     "names": {
+      "en_US": "Gramophone Pedestal",
+      "ja_JP": "「蓄音機」の台座",
       "zh_CN": "“留声机”底座"
     }
   },
   "trap_778_giatow": {
     "type": "TRAP",
     "names": {
+      "en_US": "L-44 'Gramophone'",
+      "ja_JP": "L-44「蓄音機」",
       "zh_CN": "L-44\"留声机\""
     }
   },
@@ -7561,6 +7595,7 @@
     "type": "SKIN",
     "names": {
       "en_US": "'Ride to Davistown'",
+      "ja_JP": "『デイヴィスタウンへ赴く』",
       "zh_CN": "《上任达维镇》"
     }
   },
@@ -8270,6 +8305,7 @@
     "type": "SKIN",
     "names": {
       "en_US": "Thunderbolt Director",
+      "ja_JP": "風雲の名監督",
       "zh_CN": "霹雳导演"
     }
   },
@@ -8325,6 +8361,7 @@
     "type": "SKIN",
     "names": {
       "en_US": "All-Round Actor",
+      "ja_JP": "万能俳優",
       "zh_CN": "全能演员"
     }
   },
@@ -9060,6 +9097,7 @@
     "type": "SKIN",
     "names": {
       "en_US": "Rubble",
+      "ja_JP": "瓦礫",
       "zh_CN": "砾瓦"
     }
   },
@@ -9943,6 +9981,7 @@
     "type": "SKIN",
     "names": {
       "en_US": "Dreaming High",
+      "ja_JP": "夢の高みへ",
       "zh_CN": "梦幻高空"
     }
   },
@@ -10396,6 +10435,7 @@
     "type": "SKIN",
     "names": {
       "en_US": "Top Tier Live",
+      "ja_JP": "熱狂のステージ",
       "zh_CN": "巅峰现场"
     }
   },
@@ -11304,96 +11344,128 @@
   "enemy_10042_prtrop": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Bridge Builder",
+      "ja_JP": "橋架け船大工",
       "zh_CN": "架桥船工"
     }
   },
   "enemy_10042_prtrop_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Bridge Holder",
+      "ja_JP": "ベテラン橋持ち師",
       "zh_CN": "扶桥老手"
     }
   },
   "enemy_10043_sailor": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Risk-seeking Sailor",
+      "ja_JP": "冒険水夫",
       "zh_CN": "寻险水手"
     }
   },
   "enemy_10043_sailor_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Risk-surviving Sailor",
+      "ja_JP": "無鉄砲水夫",
       "zh_CN": "历险水手"
     }
   },
   "enemy_10044_wintun": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Garum Gourmet",
+      "ja_JP": "ガルム過激派",
       "zh_CN": "咸鳞汁推荐者"
     }
   },
   "enemy_10044_wintun_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Rum Gourmet",
+      "ja_JP": "ラム酒過激派",
       "zh_CN": "朗姆酒推荐者"
     }
   },
   "enemy_10045_parrot": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Lucky Flyfin",
+      "ja_JP": "吉兆飛鱗獣",
       "zh_CN": "吉兆飞鳞"
     }
   },
   "enemy_10045_parrot_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Unlucky Flyfin",
+      "ja_JP": "凶兆飛鱗獣",
       "zh_CN": "噩兆飞鳞"
     }
   },
   "enemy_10046_pshark": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Saltfin Shaker",
+      "ja_JP": "地鳴らし塩鱗獣",
       "zh_CN": "撼地盐鳞"
     }
   },
   "enemy_10046_pshark_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Saltfin Breaker",
+      "ja_JP": "地割れ塩鱗獣",
       "zh_CN": "裂地盐鳞"
     }
   },
   "enemy_10047_shrknt": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Explosion Chaser",
+      "ja_JP": "爆発探求者",
       "zh_CN": "爆炸追寻者"
     }
   },
   "enemy_10047_shrknt_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Explosion Devotee",
+      "ja_JP": "爆発信奉者",
       "zh_CN": "爆炸信奉者"
     }
   },
   "enemy_10048_prtsld": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Bloody Chef",
+      "ja_JP": "テラーコック",
       "zh_CN": "血腥厨子"
     }
   },
   "enemy_10048_prtsld_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Terrible Chef",
+      "ja_JP": "ホラーコック",
       "zh_CN": "恐怖厨子"
     }
   },
   "enemy_10049_pcaptn": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Cacophonous Boatswain",
+      "ja_JP": "爆音水兵長",
       "zh_CN": "爆鸣水手长"
     }
   },
   "enemy_10049_pcaptn_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Bel Canto Boatswain",
+      "ja_JP": "美声水兵長",
       "zh_CN": "美声水手长"
     }
   },
@@ -19070,6 +19142,8 @@
   "enemy_1561_crzjdg": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Anastasio, the Atoner",
+      "ja_JP": "「贖罪者」アナスタシオ",
       "zh_CN": "安纳斯塔西奥，赎罪者"
     }
   },
@@ -20338,42 +20412,56 @@
   "enemy_5501_arcbank": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Tycoon",
+      "ja_JP": "大富豪",
       "zh_CN": "大富翁"
     }
   },
   "enemy_5502_arcthf": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Treasure Thief",
+      "ja_JP": "お宝泥棒",
       "zh_CN": "宝藏神偷"
     }
   },
   "enemy_5503_arcslma": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Jelly Kid",
+      "ja_JP": "ゼリーモンスター",
       "zh_CN": "果冻小子"
     }
   },
   "enemy_5504_arcslmi": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Jello",
+      "ja_JP": "ゼリーキッド",
       "zh_CN": "果冻丁"
     }
   },
   "enemy_5505_arctxi": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'The Amphibian' Ship-Car",
+      "ja_JP": "ボトルカー「水陸両用号」",
       "zh_CN": "“两栖号”船车"
     }
   },
   "enemy_5506_arcgo": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Washed-Up Parts'",
+      "ja_JP": "「ボトルパーツ」",
       "zh_CN": "“搁浅零件”"
     }
   },
   "enemy_5507_arctolm": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Fountain 'Soda Knight'",
+      "ja_JP": "噴水「サイダーマン」",
       "zh_CN": "喷泉“汽水侠”"
     }
   },
@@ -20596,6 +20684,8 @@
   "enemy_6028_cosgia": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Song of the Pack'",
+      "ja_JP": "「高らかな合唱」",
       "zh_CN": "“高亢群歌”"
     }
   },
@@ -21783,6 +21873,7 @@
     "type": "ACTIVITY",
     "names": {
       "en_US": "Poly Vision Museum",
+      "ja_JP": "視像博物館",
       "zh_CN": "视相博物馆"
     }
   },
@@ -22484,6 +22575,7 @@
     "type": "ACTIVITY",
     "names": {
       "en_US": "Exodus from the Pale Sea",
+      "ja_JP": "白き海の彼方へ",
       "zh_CN": "出苍白海"
     }
   },
@@ -24411,7 +24503,7 @@
   "EXTERMINATION_AGENT": {
     "type": "ITEM",
     "names": {
-      "en_US": "PRTS Proxy Annihilation Card",
+      "en_US": "Regular Tasks Proxy Card",
       "ja_JP": "定例事務代理カード",
       "zh_CN": "常态事务代理卡"
     }
@@ -25325,6 +25417,7 @@
   "act1arcade_milestone_point": {
     "type": "ITEM",
     "names": {
+      "en_US": "Point Card",
       "ja_JP": "景品チケット",
       "zh_CN": "积点卡券"
     }
@@ -25782,6 +25875,7 @@
   "act2collection_point_token": {
     "type": "ITEM",
     "names": {
+      "en_US": "'Strategist' Point",
       "ja_JP": "「戦略家」ポイント",
       "zh_CN": "“战略家”点数"
     }
@@ -25901,6 +25995,7 @@
   "act39side_token_garum": {
     "type": "ITEM",
     "names": {
+      "en_US": "Saltfin Garum",
       "ja_JP": "塩鱗ガルム",
       "zh_CN": "盐鳞咸鳞汁"
     }
@@ -25956,6 +26051,7 @@
   "act3collection_point_token": {
     "type": "ITEM",
     "names": {
+      "en_US": "'Strategist' Point",
       "ja_JP": "「戦略家」ポイント",
       "zh_CN": "“战略家”点数"
     }
@@ -28662,6 +28758,7 @@
   "p_char_1039_thorn2": {
     "type": "ITEM",
     "names": {
+      "en_US": "Thorns the Lodestar's Token",
       "ja_JP": "引星ソーンズの印",
       "zh_CN": "引星棘刺的信物"
     }
@@ -30841,6 +30938,7 @@
   "p_char_4163_rosesa": {
     "type": "ITEM",
     "names": {
+      "en_US": "Rose Salt's Token",
       "ja_JP": "ローズソルトの印",
       "zh_CN": "瑰盐的信物"
     }
@@ -30848,6 +30946,7 @@
   "p_char_4164_tecno": {
     "type": "ITEM",
     "names": {
+      "en_US": "Tecno's Token",
       "ja_JP": "テクノの印",
       "zh_CN": "特克诺的信物"
     }
@@ -32627,7 +32726,7 @@
   "voucher_elite_II_6": {
     "type": "ITEM",
     "names": {
-      "en_US": "Advanced Senior Operator Training Invitation Letter",
+      "en_US": "Top Operator Training Invitation Letter",
       "ja_JP": "★6特訓招待状",
       "zh_CN": "高级资深干员特训邀请函"
     }
@@ -34868,7 +34967,8 @@
   "_SINGLE_34_0_1": {
     "type": "POOL",
     "names": {
-      "en_US": "Confirmation, Completion, Conduction"
+      "en_US": "Confirmation, Completion, Conduction",
+      "ja_JP": "実証、完成、先導"
     }
   },
   "_SPECIAL_32_0_8": {
@@ -35990,7 +36090,7 @@
     "type": "SKILL",
     "names": {
       "en_US": "Double the Fun",
-      "ja_JP": "ハピネス200％！",
+      "ja_JP": "ハピネス200%！",
       "zh_CN": "乐趣加倍"
     }
   },
@@ -39453,12 +39553,16 @@
   "skchr_rosesa_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Top-Notch Emergency Meds!",
+      "ja_JP": "急なケガにはこの薬！",
       "zh_CN": "上佳的应急药呀"
     }
   },
   "skchr_rosesa_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Super-Fine Slow-Release Meds!",
+      "ja_JP": "長く効くのがこの薬！",
       "zh_CN": "绝妙的长效药呀"
     }
   },
@@ -40181,12 +40285,16 @@
   "skchr_tecno_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Lockin'",
+      "ja_JP": "関節部補強",
       "zh_CN": "关节锁定"
     }
   },
   "skchr_tecno_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Poppin'",
+      "ja_JP": "気ままなグラフィティ",
       "zh_CN": "恣意挥洒"
     }
   },
@@ -40225,18 +40333,24 @@
   "skchr_thorn2_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Wave Reckoning",
+      "ja_JP": "波を計りて",
       "zh_CN": "度算浪波"
     }
   },
   "skchr_thorn2_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Surge of Ceration",
+      "ja_JP": "潮を解析す",
       "zh_CN": "解构涌潮"
     }
   },
   "skchr_thorn2_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "'Zona Marítima Personal'",
+      "ja_JP": "「我が海域」",
       "zh_CN": "“我的海疆”"
     }
   },
@@ -42071,54 +42185,72 @@
   "sktok_arcexpd": {
     "type": "SKILL",
     "names": {
+      "en_US": "One Small Favor",
+      "ja_JP": "お助け",
       "zh_CN": "帮个小忙"
     }
   },
   "sktok_arcgacha": {
     "type": "SKILL",
     "names": {
+      "en_US": "Turn Lever",
+      "ja_JP": "カプセルポン！",
       "zh_CN": "扭动机关"
     }
   },
   "sktok_arcgrg": {
     "type": "SKILL",
     "names": {
+      "en_US": "Weigh Anchor!",
+      "ja_JP": "出航！",
       "zh_CN": "启航！"
     }
   },
   "sktok_archook": {
     "type": "SKILL",
     "names": {
+      "en_US": "Fire",
+      "ja_JP": "発射",
       "zh_CN": "发射"
     }
   },
   "sktok_arcsoda": {
     "type": "SKILL",
     "names": {
+      "en_US": "Shake Vigorously",
+      "ja_JP": "シェイクアップ",
       "zh_CN": "充分摇匀"
     }
   },
   "sktok_arcsum1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Ring Ring!",
+      "ja_JP": "ジリリリンッ！",
       "zh_CN": "叮铃铃！"
     }
   },
   "sktok_arcsum2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Ring Ring!",
+      "ja_JP": "ジリリリンッ！",
       "zh_CN": "叮铃铃！"
     }
   },
   "sktok_arcsum3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Ring Ring!",
+      "ja_JP": "ジリリリンッ！",
       "zh_CN": "叮铃铃！"
     }
   },
   "sktok_arctoll": {
     "type": "SKILL",
     "names": {
+      "en_US": "Tally",
+      "ja_JP": "カウント",
       "zh_CN": "记分"
     }
   },
@@ -42761,6 +42893,8 @@
   "sktok_cnnon": {
     "type": "SKILL",
     "names": {
+      "en_US": "Eat Salt, Sucker!",
+      "ja_JP": "塩でも食ってろ！",
       "zh_CN": "吃盐坨子吧！"
     }
   },
@@ -43225,12 +43359,16 @@
   "sktok_giacan_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Emergency Destruction Protocol",
+      "ja_JP": "緊急破壊プロトコル",
       "zh_CN": "应急摧毁协议"
     }
   },
   "sktok_giatow": {
     "type": "SKILL",
     "names": {
+      "en_US": "Arts Transfer Protocol",
+      "ja_JP": "アーツ転送プロトコル",
       "zh_CN": "法术传输协议"
     }
   },
@@ -48324,6 +48462,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "Furry Troublemakers",
+      "ja_JP": "イタズラモコモコ",
       "zh_CN": "捣乱毛绒"
     }
   },
@@ -48331,6 +48470,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "Unruly Beasts",
+      "ja_JP": "反乱せし獣たち",
       "zh_CN": "叛乱兽群"
     }
   },
@@ -48338,6 +48478,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "Escaped Monsters",
+      "ja_JP": "逃げ惑うモンスター",
       "zh_CN": "出逃化物"
     }
   },
@@ -48345,6 +48486,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "Fountain Square",
+      "ja_JP": "噴水広場",
       "zh_CN": "喷泉广场"
     }
   },
@@ -48352,6 +48494,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "Steam Conquest",
+      "ja_JP": "広がる蒸気",
       "zh_CN": "占领蒸汽"
     }
   },
@@ -48359,6 +48502,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "'Soda Knight' Showdown",
+      "ja_JP": "VS「サイダーマン」",
       "zh_CN": "决战“汽水侠”"
     }
   },
@@ -48366,6 +48510,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "Winding Paths",
+      "ja_JP": "紆余曲折",
       "zh_CN": "峰回路转"
     }
   },
@@ -48373,6 +48518,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "Interlocking Chains",
+      "ja_JP": "繋がる輪",
       "zh_CN": "环环相扣"
     }
   },
@@ -48380,6 +48526,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "Thousand Twists",
+      "ja_JP": "変わらぬ愛",
       "zh_CN": "百折千回"
     }
   },
@@ -48387,6 +48534,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "Boat Out of Water",
+      "ja_JP": "陸上航行",
       "zh_CN": "陆上行船"
     }
   },
@@ -48394,6 +48542,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "Brave the Waves",
+      "ja_JP": "荒波を越えろ",
       "zh_CN": "冲出激浪"
     }
   },
@@ -48401,6 +48550,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "Journey the Land",
+      "ja_JP": "大地を巡れ",
       "zh_CN": "环绕大地"
     }
   },
@@ -51804,6 +51954,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "Upside Down on the Pale Sea",
+      "ja_JP": "白き海に吊るされて",
       "zh_CN": "倒悬苍白海上"
     }
   },
@@ -51811,6 +51962,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "Treatment by Limb Amputation",
+      "ja_JP": "脚部切断療法",
       "zh_CN": "腿部拆卸疗法"
     }
   },
@@ -51818,6 +51970,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "Dance of Exsanguination",
+      "ja_JP": "血塗れのダンス",
       "zh_CN": "大出血的舞步"
     }
   },
@@ -51825,6 +51978,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "Accidental Reunion",
+      "ja_JP": "驚きに満ちた再会",
       "zh_CN": "重逢不乏意外"
     }
   },
@@ -51832,6 +51986,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "Let the Light of the Past Die",
+      "ja_JP": "過去の灯りを消して",
       "zh_CN": "熄灭过去的灯"
     }
   },
@@ -51839,6 +51994,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "When the Way Out Burns",
+      "ja_JP": "退路燃えぬれば",
       "zh_CN": "若退路在燃烧"
     }
   },
@@ -51846,6 +52002,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "My Compass",
+      "ja_JP": "我がコンパス",
       "zh_CN": "我的罗盘"
     }
   },
@@ -51853,6 +52010,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "I Come, I Conquer, I Define",
+      "ja_JP": "目撃、征服、定義",
       "zh_CN": "见证，征服，定义"
     }
   },
@@ -51860,6 +52018,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "Adios, Salt Flat",
+      "ja_JP": "さらば、塩海よ",
       "zh_CN": "别了，盐漠"
     }
   },
@@ -51867,6 +52026,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "A Flower that Blooms Rot",
+      "ja_JP": "朽ちた花降り注ぐ時",
       "zh_CN": "倾泻腐朽的花"
     }
   },
@@ -51874,6 +52034,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "Adios, Tierra",
+      "ja_JP": "さらば、大地よ",
       "zh_CN": "别了，大地"
     }
   },
@@ -51881,6 +52042,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "Essential Pirate Skills",
+      "ja_JP": "海賊の素養",
       "zh_CN": "海盗基本素养"
     }
   },
@@ -54230,6 +54392,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "First Movement of the Barrens",
+      "ja_JP": "荒野の第一楽章",
       "zh_CN": "荒野的第一乐章"
     }
   },
@@ -54237,6 +54400,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "Arrangement of the Statue",
+      "ja_JP": "石像のパラフレーズ",
       "zh_CN": "石像的改编曲"
     }
   },
@@ -54244,6 +54408,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "Rhapsody of the Wild",
+      "ja_JP": "獣のカプリッチョ",
       "zh_CN": "野兽狂欢曲"
     }
   },
@@ -54251,6 +54416,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "Lullaby of the Tame",
+      "ja_JP": "従順なるララバイ",
       "zh_CN": "温顺者的摇篮曲"
     }
   },
@@ -54258,6 +54424,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "Duet of Beast and Statue",
+      "ja_JP": "駄獣と石像のデュエット",
       "zh_CN": "驮兽与石像的二重奏"
     }
   },
@@ -54265,6 +54432,7 @@
     "type": "STAGE",
     "names": {
       "en_US": "'Heart of Music'",
+      "ja_JP": "「音楽の心」",
       "zh_CN": "“音乐之心”"
     }
   },
@@ -58917,12 +59085,16 @@
   "act39side_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Across the Salt Flat",
+      "ja_JP": "塩海横断",
       "zh_CN": "盐漠开航"
     }
   },
   "act39side_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Through the Skeletal Reef",
+      "ja_JP": "骸礁突破",
       "zh_CN": "穿越骸礁"
     }
   },
@@ -59993,24 +60165,32 @@
   "zone_1": {
     "type": "ZONE",
     "names": {
+      "en_US": "SUPER HOOK",
+      "ja_JP": "超級キャッチャー",
       "zh_CN": "超级钩爪"
     }
   },
   "zone_2": {
     "type": "ZONE",
     "names": {
+      "en_US": "FOUNTAIN WAR",
+      "ja_JP": "噴水大作戦",
       "zh_CN": "喷泉大战"
     }
   },
   "zone_3": {
     "type": "ZONE",
     "names": {
+      "en_US": "HEART TO HEART",
+      "ja_JP": "こころの輪",
       "zh_CN": "心连心"
     }
   },
   "zone_4": {
     "type": "ZONE",
     "names": {
+      "en_US": "HURDLE SPEEDER",
+      "ja_JP": "障害物競艇",
       "zh_CN": "障碍飞车"
     }
   },
@@ -60317,6 +60497,8 @@
   "story_blackd_set_2_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Run Like the Wind",
+      "ja_JP": "足取りは軽やかに",
       "zh_CN": "健步如飞"
     }
   },
@@ -60533,6 +60715,8 @@
   "story_ceylon_set_2_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "The Ones Left behind",
+      "ja_JP": "残されたもの",
       "zh_CN": "留下的人"
     }
   },
@@ -61975,6 +62159,8 @@
   "story_rosesa_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Dreaming of the Good Life",
+      "ja_JP": "夢に見た素敵な暮らし",
       "zh_CN": "梦想中的好生活"
     }
   },
@@ -62355,6 +62541,8 @@
   "story_tecno_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "A Dance Together",
+      "ja_JP": "一緒に踊ろう",
       "zh_CN": "共舞"
     }
   },

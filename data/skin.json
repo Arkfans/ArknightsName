@@ -157,6 +157,7 @@
   },
   "char_1034_jesca2@cfa#1": {
     "en_US": "'Ride to Davistown'",
+    "ja_JP": "『デイヴィスタウンへ赴く』",
     "zh_CN": "《上任达维镇》"
   },
   "char_1035_wisdel@sale#14": {
@@ -596,6 +597,7 @@
   },
   "char_2014_nian@cfa#1": {
     "en_US": "Thunderbolt Director",
+    "ja_JP": "風雲の名監督",
     "zh_CN": "霹雳导演"
   },
   "char_2014_nian@nian#4": {
@@ -630,6 +632,7 @@
   },
   "char_2024_chyue@cfa#1": {
     "en_US": "All-Round Actor",
+    "ja_JP": "万能俳優",
     "zh_CN": "全能演员"
   },
   "char_2024_chyue@nian#10": {
@@ -1083,6 +1086,7 @@
   },
   "char_311_mudrok@wild#10": {
     "en_US": "Rubble",
+    "ja_JP": "瓦礫",
     "zh_CN": "砾瓦"
   },
   "char_322_lmlee@sanrio#1": {
@@ -1624,6 +1628,7 @@
   },
   "char_4117_ray@shining#2": {
     "en_US": "Dreaming High",
+    "ja_JP": "夢の高みへ",
     "zh_CN": "梦幻高空"
   },
   "char_4119_wanqin@epoque#41": {
@@ -1900,6 +1905,7 @@
   },
   "char_486_takila@shining#2": {
     "en_US": "Top Tier Live",
+    "ja_JP": "熱狂のステージ",
     "zh_CN": "巅峰现场"
   },
   "char_488_buildr@epoque#34": {
