@@ -324,6 +324,7 @@ tip: 请善用浏览器的搜索功能
 | act33side_token_sugar | 粗制糖块 | Raw Sugar Lumps | 粗製角砂糖 |
 | act33side_token_sugar_rep_1 | 粗制糖块 | - | - |
 | act34side_token_chip | “应急物资”蓝图芯片 | 'Emergency Supplies' Blueprint Chip | 「非常用物資」設計図チップ |
+| act34side_token_chip_rep_1 | “应急物资”蓝图芯片 | - | - |
 | act35side_token_dust | 流光之沙 | Flowing Glimmerdust | 流光の砂 |
 | act36side_token_recipe | 今日食谱 | Daily Recipe | 今日の献立 |
 | act37side_token_nay | “我反对！” | 'Nay!' | 「反対！」 |

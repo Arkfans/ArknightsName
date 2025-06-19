@@ -165,6 +165,7 @@ tip: 请善用浏览器的搜索功能
 | act33sre | 巴别塔·复刻 | - | - |
 | act34side | 生路 | Path of Life | 生存航路 |
 | act34sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
+| act34sre | 生路·复刻 | - | - |
 | act35side | 太阳甩在身后 | Adventure That Cannot Wait for the Sun | 太陽すらも追い越して |
 | act35sign | 清光邀月——月饼烘焙小教程 | Moonlight Invite - Mooncake-Making Tutorial | 清風明月-ロドス点心教室 |
 | act36side | 泰拉饭 | Delicious On Terra | テラ飯 |

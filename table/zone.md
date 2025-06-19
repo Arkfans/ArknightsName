@@ -177,6 +177,8 @@ tip: 请善用浏览器的搜索功能
 | act33sre_zone3 | 我始终如一 | - | - |
 | act34side_zone1 | 信标投放 | Deploy Beacons | ビーコン設置 |
 | act34side_zone2 | 防线巩固 | Fortify Defense | 防衛線強化 |
+| act34sre_zone1 | 信标投放 | - | - |
+| act34sre_zone2 | 防线巩固 | - | - |
 | act35side_zone1 | 市民花园 | Citizen's Garden | 市民庭園 |
 | act35side_zone2 | 丰获集会 | Harvest Gathering | 豊穣祭 |
 | act35side_zone3 | 藏珍宝库 | Treasure House | 宝物庫 |
@@ -278,6 +280,8 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_25_zone1 | 种植地块 | - | - |
 | permanent_sidestory_25_zone2 | 荒城核心 | - | - |
 | permanent_sidestory_25_zone3 | 大江北岸 | - | - |
+| permanent_sidestory_26_zone1 | 信标投放 | - | - |
+| permanent_sidestory_26_zone2 | 防线巩固 | - | - |
 | permanent_sidestory_2_zone1 | 主舞台 | Main Stage | メインステージ |
 | permanent_sidestory_2_zone2 | 嘉年华 | Carnival | フェスティバル |
 | permanent_sidestory_2_zone3 | 额外节目 | Extra Show | エクストラ |

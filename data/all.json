@@ -10067,6 +10067,12 @@
       "zh_CN": "最初的颂歌"
     }
   },
+  "char_4137_udflow@epoque#46": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "层流"
+    }
+  },
   "char_4141_marcil@dungeon#1": {
     "type": "SKIN",
     "names": {
@@ -22499,6 +22505,12 @@
       "zh_CN": "限时累计签到"
     }
   },
+  "act34sre": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "生路·复刻"
+    }
+  },
   "act35side": {
     "type": "ACTIVITY",
     "names": {
@@ -25949,6 +25961,12 @@
     "names": {
       "en_US": "'Emergency Supplies' Blueprint Chip",
       "ja_JP": "「非常用物資」設計図チップ",
+      "zh_CN": "“应急物资”蓝图芯片"
+    }
+  },
+  "act34side_token_chip_rep_1": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "“应急物资”蓝图芯片"
     }
   },
@@ -34121,6 +34139,12 @@
     "type": "POOL",
     "names": {
       "zh_CN": "永不落幕"
+    }
+  },
+  "SINGLE_62_0_3": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "沉向深渊的锚"
     }
   },
   "SPECIAL_54_0_5": {
@@ -59002,6 +59026,18 @@
       "zh_CN": "防线巩固"
     }
   },
+  "act34sre_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "信标投放"
+    }
+  },
+  "act34sre_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "防线巩固"
+    }
+  },
   "act35side_zone1": {
     "type": "ZONE",
     "names": {
@@ -59776,6 +59812,18 @@
     "type": "ZONE",
     "names": {
       "zh_CN": "大江北岸"
+    }
+  },
+  "permanent_sidestory_26_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "信标投放"
+    }
+  },
+  "permanent_sidestory_26_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "防线巩固"
     }
   },
   "permanent_sidestory_2_zone1": {

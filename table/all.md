@@ -1293,6 +1293,7 @@ tip: 请善用浏览器的搜索功能
 | char_4132_ascln@iteration#4 | 趋光之暗 | - | - |
 | char_4133_logos@ambienceSynesthesia#6 | 辉煌的静谧 | - | - |
 | char_4136_phonor@boc#9 | 最初的颂歌 | - | - |
+| char_4137_udflow@epoque#46 | 层流 | - | - |
 | char_4141_marcil@dungeon#1 | 泰拉冒险 | Terra & Traveller | テラの冒険者 |
 | char_4146_nymph@epoque#42 | 甜美配方 | - | - |
 | char_4151_tinman@sale#11 | 相位面容 | Phase Face | フェーズフェイス |
@@ -2893,6 +2894,7 @@ tip: 请善用浏览器的搜索功能
 | act33sre | 巴别塔·复刻 | - | - |
 | act34side | 生路 | Path of Life | 生存航路 |
 | act34sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
+| act34sre | 生路·复刻 | - | - |
 | act35side | 太阳甩在身后 | Adventure That Cannot Wait for the Sun | 太陽すらも追い越して |
 | act35sign | 清光邀月——月饼烘焙小教程 | Moonlight Invite - Mooncake-Making Tutorial | 清風明月-ロドス点心教室 |
 | act36side | 泰拉饭 | Delicious On Terra | テラ飯 |
@@ -3340,6 +3342,7 @@ Event | なないろのお茶会 |
 | act33side_token_sugar | 粗制糖块 | Raw Sugar Lumps | 粗製角砂糖 |
 | act33side_token_sugar_rep_1 | 粗制糖块 | - | - |
 | act34side_token_chip | “应急物资”蓝图芯片 | 'Emergency Supplies' Blueprint Chip | 「非常用物資」設計図チップ |
+| act34side_token_chip_rep_1 | “应急物资”蓝图芯片 | - | - |
 | act35side_token_dust | 流光之沙 | Flowing Glimmerdust | 流光の砂 |
 | act36side_token_recipe | 今日食谱 | Daily Recipe | 今日の献立 |
 | act37side_token_nay | “我反对！” | 'Nay!' | 「反対！」 |
@@ -4408,6 +4411,7 @@ Event | なないろのお茶会 |
 | SINGLE_60_0_1 | 指令·重构 | - | - |
 | SINGLE_60_0_3 | 如死亦终 | - | - |
 | SINGLE_62_0_1 | 永不落幕 | - | - |
+| SINGLE_62_0_3 | 沉向深渊的锚 | - | - |
 | SPECIAL_54_0_5 | 定向甄选 | - | - |
 | SPECIAL_59_0_3 | 定向甄选 | - | - |
 | SPECIAL_61_0_3 | 定向甄选 | - | - |
@@ -7606,6 +7610,8 @@ Event | なないろのお茶会 |
 | act33sre_zone3 | 我始终如一 | - | - |
 | act34side_zone1 | 信标投放 | Deploy Beacons | ビーコン設置 |
 | act34side_zone2 | 防线巩固 | Fortify Defense | 防衛線強化 |
+| act34sre_zone1 | 信标投放 | - | - |
+| act34sre_zone2 | 防线巩固 | - | - |
 | act35side_zone1 | 市民花园 | Citizen's Garden | 市民庭園 |
 | act35side_zone2 | 丰获集会 | Harvest Gathering | 豊穣祭 |
 | act35side_zone3 | 藏珍宝库 | Treasure House | 宝物庫 |
@@ -7707,6 +7713,8 @@ Event | なないろのお茶会 |
 | permanent_sidestory_25_zone1 | 种植地块 | - | - |
 | permanent_sidestory_25_zone2 | 荒城核心 | - | - |
 | permanent_sidestory_25_zone3 | 大江北岸 | - | - |
+| permanent_sidestory_26_zone1 | 信标投放 | - | - |
+| permanent_sidestory_26_zone2 | 防线巩固 | - | - |
 | permanent_sidestory_2_zone1 | 主舞台 | Main Stage | メインステージ |
 | permanent_sidestory_2_zone2 | 嘉年华 | Carnival | フェスティバル |
 | permanent_sidestory_2_zone3 | 额外节目 | Extra Show | エクストラ |
