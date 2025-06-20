@@ -355,8 +355,14 @@
     "en_US": "Celebration & Vista",
     "ja_JP": "ロドスの道のり・展望"
   },
+  "_ATTAIN_34_0_5": {
+    "ja_JP": "ロドスの道のり・心願"
+  },
   "_CLASSIC_28_0_1": {
     "en_US": " Celebration - Kernel",
+    "ja_JP": "ロドスの道のり・中堅"
+  },
+  "_CLASSIC_34_0_2": {
     "ja_JP": "ロドスの道のり・中堅"
   },
   "_CLASSIC_45_0_2": {
@@ -815,6 +821,9 @@
   "_SINGLE_34_0_1": {
     "en_US": "Confirmation, Completion, Conduction",
     "ja_JP": "実証、完成、先導"
+  },
+  "_SINGLE_34_0_4": {
+    "ja_JP": "さすらう者"
   },
   "_SPECIAL_32_0_8": {
     "en_US": "Orienteering Headhunting",

@@ -159,14 +159,14 @@ tip: 请善用浏览器的搜索功能
 | act2mainss_zone1 | 离解复合 | - | - |
 | act30side_zone1 | 三号站台 | Platform No. 3 | 3番ホーム |
 | act30side_zone2 | 特快列车 | Express Train | 特急列車 |
-| act30sre_zone1 | 三号站台 | - | - |
-| act30sre_zone2 | 特快列车 | - | - |
+| act30sre_zone1 | 三号站台 | - | 3番ホーム |
+| act30sre_zone2 | 特快列车 | - | 特急列車 |
 | act31side_zone1 | 种植地块 | Agricultural Plate | 栽培区画 |
 | act31side_zone2 | 荒城核心 | City Core | 荒城中枢 |
 | act31side_zone3 | 大江北岸 | Far Side of the Great River | 大江北岸 |
-| act31sre_zone1 | 种植地块 | - | - |
-| act31sre_zone2 | 荒城核心 | - | - |
-| act31sre_zone3 | 大江北岸 | - | - |
+| act31sre_zone1 | 种植地块 | - | 栽培区画 |
+| act31sre_zone2 | 荒城核心 | - | 荒城中枢 |
+| act31sre_zone3 | 大江北岸 | - | 大江北岸 |
 | act32side_zone1 | 展厅漫游 | Roam the Exhibition | アート探訪 |
 | act32side_zone2 | 高速空降 | Skydiving | 降下作戦 |
 | act33side_zone1 | 我赠予未来 | You the Future, Take My Gifts | 未来を贈らん |
@@ -275,11 +275,11 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_23_zone1 | 朝见双塔 | Zwillingstürme anbeten | 双塔を仰ぐ |
 | permanent_sidestory_23_zone2 | 恩典永恒 | Die Gnade ist ewig | 恩寵は永遠に |
 | permanent_sidestory_23_zone3 | 权威无情 | Die Macht ist grimm | 大権に情なく |
-| permanent_sidestory_24_zone1 | 三号站台 | - | - |
-| permanent_sidestory_24_zone2 | 特快列车 | - | - |
-| permanent_sidestory_25_zone1 | 种植地块 | - | - |
-| permanent_sidestory_25_zone2 | 荒城核心 | - | - |
-| permanent_sidestory_25_zone3 | 大江北岸 | - | - |
+| permanent_sidestory_24_zone1 | 三号站台 | - | 3番ホーム |
+| permanent_sidestory_24_zone2 | 特快列车 | - | 特急列車 |
+| permanent_sidestory_25_zone1 | 种植地块 | - | 栽培区画 |
+| permanent_sidestory_25_zone2 | 荒城核心 | - | 荒城中枢 |
+| permanent_sidestory_25_zone3 | 大江北岸 | - | 大江北岸 |
 | permanent_sidestory_26_zone1 | 信标投放 | - | - |
 | permanent_sidestory_26_zone2 | 防线巩固 | - | - |
 | permanent_sidestory_2_zone1 | 主舞台 | Main Stage | メインステージ |

@@ -1526,6 +1526,7 @@
     "zh_CN": "驮兽盲盒"
   },
   "act30side_token_box_rep_1": {
+    "ja_JP": "駄獣ミニフィギュア",
     "zh_CN": "驮兽盲盒"
   },
   "act31side_token_box": {
@@ -1534,6 +1535,7 @@
     "zh_CN": "天桩"
   },
   "act31side_token_box_rep_1": {
+    "ja_JP": "天杭",
     "zh_CN": "天桩"
   },
   "act32side_token_stamp": {
@@ -5594,6 +5596,7 @@
     "zh_CN": "尘影余音家具收藏包"
   },
   "uni_set_countryside": {
+    "ja_JP": "この炎が照らす先家具パック",
     "zh_CN": "照我以火家具收藏包"
   },
   "uni_set_court": {
@@ -5640,6 +5643,7 @@
     "zh_CN": "长夜临光家具收藏包"
   },
   "uni_set_martialClub": {
+    "ja_JP": "登臨意家具パック",
     "zh_CN": "登临意家具收藏包"
   },
   "uni_set_nightView": {
@@ -5756,6 +5760,7 @@
     "zh_CN": "苦艾的私人信件"
   },
   "voucher_full_bdhkgt": {
+    "ja_JP": "ジエユンの手紙",
     "zh_CN": "截云的私人信件"
   },
   "voucher_full_bena": {
@@ -5839,6 +5844,7 @@
     "zh_CN": "车尔尼的私人信件"
   },
   "voucher_full_puzzle": {
+    "ja_JP": "パズルの手紙",
     "zh_CN": "谜图的私人信件"
   },
   "voucher_full_robin": {

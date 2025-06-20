@@ -677,7 +677,7 @@ tip: 请善用浏览器的搜索功能
 | act2vmulti-tr01 | 规则教学-常规项目 | Tutorial - Regular Events | TUT-通常種目 |
 | act2vmulti-tr02 | 规则教学-阵地足球 | Tutorial - Positional Football | TUT-ポジションサッカー |
 | act2vmulti-tr03 | 规则教学-堡垒守御 | Tutorial - Bastion Defense | TUT-要塞ディフェンス |
-| act30side_01 | 注意事项 | Important Information | 乗車時のご注意 |
+| act30side_01 | 注意事项 | Important Information | 注意事項 |
 | act30side_02 | 同车异图 | Same Train, Different Destination | 同乗異心 |
 | act30side_03 | 临时停车 | Temporary Stop | 臨時停車 |
 | act30side_04 | 重回正轨 | Back on Track | 軌道修正 |
@@ -985,7 +985,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_23 | 燃烧街区 | Burning District | 燃える市街地 |
 | camp_r_24 | 冰封雪谷 | Icebound Valley | 閉ざされし雪渓 |
 | camp_r_25 | 66号航道 | Cityway 66 | 66号航路 |
-| camp_r_26 | 壬午号水稻田 | - | - |
+| camp_r_26 | 壬午号水稻田 | - | 壬午号水田 |
 | camp_r_27 | 选帝侯广场 | - | - |
 | camp_r_28 | 大巴扎 | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |

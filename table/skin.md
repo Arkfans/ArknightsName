@@ -221,7 +221,7 @@ tip: 请善用浏览器的搜索功能
 | char_298_susuro@winter#4 | 随意而行 | Travel Freely | 気ままな旅路 |
 | char_300_phenxi@boc#9 | 审判日 | - | - |
 | char_300_phenxi@witch#4 | 至圣誓言 | Divine Oath | 至聖の誓言 |
-| char_301_cutter@marthe#8 | 拭刀 | - | - |
+| char_301_cutter@marthe#8 | 拭刀 | - | 刃を拭って |
 | char_302_glaze@summer#11 | 悠然假日 HD29 | Holiday HD29 | ホリデーHD29 |
 | char_304_zebra@wild#6 | 幽苔 | Tranquil Moss | 幽谷の緑苔 |
 | char_306_leizi@game#3 | 遗迹游学者 | The Archivist and Her Pilgrimage | 遺跡の遊学者 |
@@ -340,10 +340,10 @@ tip: 请善用浏览器的搜索功能
 | char_4106_bryota@epoque#34 | 动感 | Vibrant | 躍動 |
 | char_4107_vrdant@unveiling#3 | 玫瑰骑手 | - | - |
 | char_4109_baslin@witch#5 | 夜空星芒 | Starry Night Sky | 夜天に輝く星 |
-| char_4114_harold@snow#7 | 邀雪 | - | - |
+| char_4114_harold@snow#7 | 邀雪 | - | 冬ごもり |
 | char_4116_blkkgt@witch#5 | 暗月的影子 | The Shadow of the Dark Moon | 暗月の影 |
 | char_4117_ray@shining#2 | 梦幻高空 | Dreaming High | 夢の高みへ |
-| char_4119_wanqin@epoque#41 | 万顷阳光 | - | - |
+| char_4119_wanqin@epoque#41 | 万顷阳光 | - | 万頃に注ぐ陽光 |
 | char_411_tomimi@summer#5 | 静谧午夜 DN04 | Silent Night DN04 | 安息の午夜DN04 |
 | char_4121_zuole@nian#11 | 少年游 | - | - |
 | char_4122_grabds@yun#3 | 步芳兰 | Fragrant Pace | 歩芳蘭 |
