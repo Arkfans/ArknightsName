@@ -142,7 +142,7 @@ tip: 请善用浏览器的搜索功能
 | act2access | 活动推荐月卡 | - | - |
 | act2blessing | 2025罗德岛新春签到 | - | - |
 | act2bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
-| act2collection | 限时积分任务 | - | 期間限定Pt任務 |
+| act2collection | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
 | act2d5 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act2d8 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act2float | 铁腕城产业合作洽谈会 | Iron Fist City Industry Cooperation Forum | アイアンリストシティ産業懇談会 |
@@ -154,10 +154,10 @@ tip: 请善用浏览器的搜索功能
 | act2vmulti | 罗德岛促融共竞 | Rhodes Island Icebreaker Games | ロドス協心競技 |
 | act30side | 银心湖列车 | The Rides to Lake Silberneherze | 銀心湖鉄道 |
 | act30sign | 秋风送爽限时登录活动 | Snow Upon Autumnal Winds Limited Login Event | 早春の風スタンプラリー |
-| act30sre | 银心湖列车·复刻 | - | 銀心湖鉄道・復刻 |
+| act30sre | 银心湖列车·复刻 | The Rides to Lake Silberneherze - Rerun | 銀心湖鉄道・復刻 |
 | act31side | 怀黍离 | Here A People Sows | 懐黍離 |
 | act31sign | 正逢雨季限时登录活动 | Rain Season Limited Login Event | 長雨の候スタンプラリー |
-| act31sre | 怀黍离·复刻 | - | 懐黍離・復刻 |
+| act31sre | 怀黍离·复刻 | Here A People Sows - Rerun | 懐黍離・復刻 |
 | act32side | 水晶箭行动 | Operation Lucent Arrowhead | OP:LA |
 | act32sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act33side | 巴别塔 | Babel | バベル |
@@ -204,7 +204,7 @@ Event | なないろのお茶会 |
 | act45sign | 感谢庆典前瞻签到 | Thank-You Celebration Prospective Login | 大感謝祭開催直前スタンプラリー |
 | act46sign | 感谢庆典限时签到 | Thank-You Celebration Limited-Time Sign-In | 大感謝祭スタンプ |
 | act47sign | 感谢庆典补给签到 | Thank-You Celebration Sign-In Resupplies | 大感謝祭補給スタンプ |
-| act48sign | 2025跨年纪念限时活动 | - | スタンプラリー |
+| act48sign | 2025跨年纪念限时活动 | 2025 Commemorative Limited-Time Event | スタンプラリー |
 | act49sign | 六周年庆典签到活动 | - | - |
 | act4bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act4collection | 重返古堡 | - | - |

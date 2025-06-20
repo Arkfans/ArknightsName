@@ -9042,6 +9042,7 @@
   "char_301_cutter@marthe#8": {
     "type": "SKIN",
     "names": {
+      "en_US": "Wiping Knife",
       "ja_JP": "刃を拭って",
       "zh_CN": "拭刀"
     }
@@ -9967,6 +9968,7 @@
   "char_4114_harold@snow#7": {
     "type": "SKIN",
     "names": {
+      "en_US": "Inviting Snow",
       "ja_JP": "冬ごもり",
       "zh_CN": "邀雪"
     }
@@ -9990,6 +9992,7 @@
   "char_4119_wanqin@epoque#41": {
     "type": "SKIN",
     "names": {
+      "en_US": "Tons of Sunshine",
       "ja_JP": "万頃に注ぐ陽光",
       "zh_CN": "万顷阳光"
     }
@@ -19889,6 +19892,7 @@
   "enemy_2092_skzamy": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Amiya', Furnace's Finale",
       "ja_JP": "「アーミヤ」、炉心の終曲",
       "zh_CN": "“阿米娅”，炉芯终曲"
     }
@@ -19896,6 +19900,7 @@
   "enemy_2093_skzams": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Finale Cadence",
       "ja_JP": "終曲のコーラス",
       "zh_CN": "终曲合声"
     }
@@ -19903,6 +19908,7 @@
   "enemy_2097_skzfdd": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Buldrokkas'tee, Holy Gun-Knight",
       "ja_JP": "「聖衛の銃騎士」ボジョカスティ",
       "zh_CN": "博卓卡斯替，圣卫铳骑"
     }
@@ -19910,6 +19916,7 @@
   "enemy_2098_skzftx": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Theresis, Black Crowned Lord",
       "ja_JP": "「黒き王冠の主」テレシス",
       "zh_CN": "特雷西斯，黑冠尊主"
     }
@@ -19917,6 +19924,7 @@
   "enemy_2099_skzfkl": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Qui'lon, Avatar of the Mahasattva",
       "ja_JP": "「摩訶薩の権化」クイロン",
       "zh_CN": "奎隆，摩诃萨埵权化"
     }
@@ -19924,6 +19932,7 @@
   "enemy_2100_skzfmf": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Manfred",
       "ja_JP": "Manfred",
       "zh_CN": "曼弗雷德"
     }
@@ -22343,6 +22352,7 @@
   "act2collection": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Limited-time Score Mission",
       "ja_JP": "期間限定Pt任務",
       "zh_CN": "限时积分任务"
     }
@@ -22436,6 +22446,7 @@
   "act30sre": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "The Rides to Lake Silberneherze - Rerun",
       "ja_JP": "銀心湖鉄道・復刻",
       "zh_CN": "银心湖列车·复刻"
     }
@@ -22459,6 +22470,7 @@
   "act31sre": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Here A People Sows - Rerun",
       "ja_JP": "懐黍離・復刻",
       "zh_CN": "怀黍离·复刻"
     }
@@ -22786,6 +22798,7 @@
   "act48sign": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "2025 Commemorative Limited-Time Event",
       "ja_JP": "スタンプラリー",
       "zh_CN": "2025跨年纪念限时活动"
     }
@@ -25930,6 +25943,7 @@
   "act30side_token_box_rep_1": {
     "type": "ITEM",
     "names": {
+      "en_US": "Burdenbeast Blind Box",
       "ja_JP": "駄獣ミニフィギュア",
       "zh_CN": "驮兽盲盒"
     }
@@ -25945,6 +25959,7 @@
   "act31side_token_box_rep_1": {
     "type": "ITEM",
     "names": {
+      "en_US": "Sky Pole",
       "ja_JP": "天杭",
       "zh_CN": "天桩"
     }
@@ -32511,6 +32526,7 @@
   "uni_set_countryside": {
     "type": "ITEM",
     "names": {
+      "en_US": "What the Firelight Casts Furniture Pack",
       "ja_JP": "この炎が照らす先家具パック",
       "zh_CN": "照我以火家具收藏包"
     }
@@ -32588,6 +32604,7 @@
   "uni_set_martialClub": {
     "type": "ITEM",
     "names": {
+      "en_US": "Where Vernal Winds Will Never Blow Furniture Pack",
       "ja_JP": "登臨意家具パック",
       "zh_CN": "登临意家具收藏包"
     }
@@ -32777,6 +32794,7 @@
   "voucher_full_bdhkgt": {
     "type": "ITEM",
     "names": {
+      "en_US": "Jieyun's Personal Letter",
       "ja_JP": "ジエユンの手紙",
       "zh_CN": "截云的私人信件"
     }
@@ -32912,6 +32930,7 @@
   "voucher_full_puzzle": {
     "type": "ITEM",
     "names": {
+      "en_US": "Puzzle's Personal Letter",
       "ja_JP": "パズルの手紙",
       "zh_CN": "谜图的私人信件"
     }
@@ -34208,6 +34227,7 @@
   "_ATTAIN_34_0_5": {
     "type": "POOL",
     "names": {
+      "en_US": "Celebration & Vision",
       "ja_JP": "ロドスの道のり・心願"
     }
   },
@@ -34221,6 +34241,7 @@
   "_CLASSIC_34_0_2": {
     "type": "POOL",
     "names": {
+      "en_US": " Celebration - Kernel",
       "ja_JP": "ロドスの道のり・中堅"
     }
   },
@@ -35029,6 +35050,7 @@
   "_SINGLE_34_0_4": {
     "type": "POOL",
     "names": {
+      "en_US": "The Sojourner",
       "ja_JP": "さすらう者"
     }
   },
@@ -53250,6 +53272,7 @@
   "camp_r_26": {
     "type": "STAGE",
     "names": {
+      "en_US": "Paddy Field 9-7",
       "ja_JP": "壬午号水田",
       "zh_CN": "壬午号水稻田"
     }
@@ -58939,6 +58962,7 @@
   "act30sre_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Platform No. 3",
       "ja_JP": "3番ホーム",
       "zh_CN": "三号站台"
     }
@@ -58946,6 +58970,7 @@
   "act30sre_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Express Train",
       "ja_JP": "特急列車",
       "zh_CN": "特快列车"
     }
@@ -58977,6 +59002,7 @@
   "act31sre_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Agricultural Plate",
       "ja_JP": "栽培区画",
       "zh_CN": "种植地块"
     }
@@ -58984,6 +59010,7 @@
   "act31sre_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "City Core",
       "ja_JP": "荒城中枢",
       "zh_CN": "荒城核心"
     }
@@ -58991,6 +59018,7 @@
   "act31sre_zone3": {
     "type": "ZONE",
     "names": {
+      "en_US": "Far Side of the Great River",
       "ja_JP": "大江北岸",
       "zh_CN": "大江北岸"
     }
@@ -59830,6 +59858,7 @@
   "permanent_sidestory_24_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Platform No. 3",
       "ja_JP": "3番ホーム",
       "zh_CN": "三号站台"
     }
@@ -59837,6 +59866,7 @@
   "permanent_sidestory_24_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Express Train",
       "ja_JP": "特急列車",
       "zh_CN": "特快列车"
     }
@@ -59844,6 +59874,7 @@
   "permanent_sidestory_25_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Agricultural Plate",
       "ja_JP": "栽培区画",
       "zh_CN": "种植地块"
     }
@@ -59851,6 +59882,7 @@
   "permanent_sidestory_25_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "City Core",
       "ja_JP": "荒城中枢",
       "zh_CN": "荒城核心"
     }
@@ -59858,6 +59890,7 @@
   "permanent_sidestory_25_zone3": {
     "type": "ZONE",
     "names": {
+      "en_US": "Far Side of the Great River",
       "ja_JP": "大江北岸",
       "zh_CN": "大江北岸"
     }

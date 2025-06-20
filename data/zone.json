@@ -760,10 +760,12 @@
     "zh_CN": "特快列车"
   },
   "act30sre_zone1": {
+    "en_US": "Platform No. 3",
     "ja_JP": "3番ホーム",
     "zh_CN": "三号站台"
   },
   "act30sre_zone2": {
+    "en_US": "Express Train",
     "ja_JP": "特急列車",
     "zh_CN": "特快列车"
   },
@@ -783,14 +785,17 @@
     "zh_CN": "大江北岸"
   },
   "act31sre_zone1": {
+    "en_US": "Agricultural Plate",
     "ja_JP": "栽培区画",
     "zh_CN": "种植地块"
   },
   "act31sre_zone2": {
+    "en_US": "City Core",
     "ja_JP": "荒城中枢",
     "zh_CN": "荒城核心"
   },
   "act31sre_zone3": {
+    "en_US": "Far Side of the Great River",
     "ja_JP": "大江北岸",
     "zh_CN": "大江北岸"
   },
@@ -1303,22 +1308,27 @@
     "zh_CN": "权威无情"
   },
   "permanent_sidestory_24_zone1": {
+    "en_US": "Platform No. 3",
     "ja_JP": "3番ホーム",
     "zh_CN": "三号站台"
   },
   "permanent_sidestory_24_zone2": {
+    "en_US": "Express Train",
     "ja_JP": "特急列車",
     "zh_CN": "特快列车"
   },
   "permanent_sidestory_25_zone1": {
+    "en_US": "Agricultural Plate",
     "ja_JP": "栽培区画",
     "zh_CN": "种植地块"
   },
   "permanent_sidestory_25_zone2": {
+    "en_US": "City Core",
     "ja_JP": "荒城中枢",
     "zh_CN": "荒城核心"
   },
   "permanent_sidestory_25_zone3": {
+    "en_US": "Far Side of the Great River",
     "ja_JP": "大江北岸",
     "zh_CN": "大江北岸"
   },

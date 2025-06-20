@@ -1159,7 +1159,7 @@ tip: 请善用浏览器的搜索功能
 | char_298_susuro@winter#4 | 随意而行 | Travel Freely | 気ままな旅路 |
 | char_300_phenxi@boc#9 | 审判日 | - | - |
 | char_300_phenxi@witch#4 | 至圣誓言 | Divine Oath | 至聖の誓言 |
-| char_301_cutter@marthe#8 | 拭刀 | - | 刃を拭って |
+| char_301_cutter@marthe#8 | 拭刀 | Wiping Knife | 刃を拭って |
 | char_302_glaze@summer#11 | 悠然假日 HD29 | Holiday HD29 | ホリデーHD29 |
 | char_304_zebra@wild#6 | 幽苔 | Tranquil Moss | 幽谷の緑苔 |
 | char_306_leizi@game#3 | 遗迹游学者 | The Archivist and Her Pilgrimage | 遺跡の遊学者 |
@@ -1278,10 +1278,10 @@ tip: 请善用浏览器的搜索功能
 | char_4106_bryota@epoque#34 | 动感 | Vibrant | 躍動 |
 | char_4107_vrdant@unveiling#3 | 玫瑰骑手 | - | - |
 | char_4109_baslin@witch#5 | 夜空星芒 | Starry Night Sky | 夜天に輝く星 |
-| char_4114_harold@snow#7 | 邀雪 | - | 冬ごもり |
+| char_4114_harold@snow#7 | 邀雪 | Inviting Snow | 冬ごもり |
 | char_4116_blkkgt@witch#5 | 暗月的影子 | The Shadow of the Dark Moon | 暗月の影 |
 | char_4117_ray@shining#2 | 梦幻高空 | Dreaming High | 夢の高みへ |
-| char_4119_wanqin@epoque#41 | 万顷阳光 | - | 万頃に注ぐ陽光 |
+| char_4119_wanqin@epoque#41 | 万顷阳光 | Tons of Sunshine | 万頃に注ぐ陽光 |
 | char_411_tomimi@summer#5 | 静谧午夜 DN04 | Silent Night DN04 | 安息の午夜DN04 |
 | char_4121_zuole@nian#11 | 少年游 | - | - |
 | char_4122_grabds@yun#3 | 步芳兰 | Fragrant Pace | 歩芳蘭 |
@@ -2548,12 +2548,12 @@ tip: 请善用浏览器的搜索功能
 | enemy_2089_skzjkl | 奎隆，摩诃萨埵权化 | Qui'lon, Avatar of the Mahasattva | 「摩訶薩の権化」クイロン |
 | enemy_2090_skzjbc | 托生莲座 | Padmasana of Rebirth | 托生蓮座 |
 | enemy_2091_skzgds | “窗” | 'Window' | 「窓」 |
-| enemy_2092_skzamy | “阿米娅”，炉芯终曲 | - | 「アーミヤ」、炉心の終曲 |
-| enemy_2093_skzams | 终曲合声 | - | 終曲のコーラス |
-| enemy_2097_skzfdd | 博卓卡斯替，圣卫铳骑 | - | 「聖衛の銃騎士」ボジョカスティ |
-| enemy_2098_skzftx | 特雷西斯，黑冠尊主 | - | 「黒き王冠の主」テレシス |
-| enemy_2099_skzfkl | 奎隆，摩诃萨埵权化 | - | 「摩訶薩の権化」クイロン |
-| enemy_2100_skzfmf | 曼弗雷德 | - | Manfred |
+| enemy_2092_skzamy | “阿米娅”，炉芯终曲 | 'Amiya', Furnace's Finale | 「アーミヤ」、炉心の終曲 |
+| enemy_2093_skzams | 终曲合声 | Finale Cadence | 終曲のコーラス |
+| enemy_2097_skzfdd | 博卓卡斯替，圣卫铳骑 | Buldrokkas'tee, Holy Gun-Knight | 「聖衛の銃騎士」ボジョカスティ |
+| enemy_2098_skzftx | 特雷西斯，黑冠尊主 | Theresis, Black Crowned Lord | 「黒き王冠の主」テレシス |
+| enemy_2099_skzfkl | 奎隆，摩诃萨埵权化 | Qui'lon, Avatar of the Mahasattva | 「摩訶薩の権化」クイロン |
+| enemy_2100_skzfmf | 曼弗雷德 | Manfred | Manfred |
 | enemy_3001_upeopl | 乌萨斯平民 | Ursus Civilian | ウルサス民間人 |
 | enemy_3002_ftrtal | 斗士塔露拉 | Talulah, the Fighter | 闘士タルラ |
 | enemy_3003_alymot | 大奖赛运输艇 | Competition Transport Vessel | 大会輸送艇 |
@@ -2871,7 +2871,7 @@ tip: 请善用浏览器的搜索功能
 | act2access | 活动推荐月卡 | - | - |
 | act2blessing | 2025罗德岛新春签到 | - | - |
 | act2bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
-| act2collection | 限时积分任务 | - | 期間限定Pt任務 |
+| act2collection | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
 | act2d5 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act2d8 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act2float | 铁腕城产业合作洽谈会 | Iron Fist City Industry Cooperation Forum | アイアンリストシティ産業懇談会 |
@@ -2883,10 +2883,10 @@ tip: 请善用浏览器的搜索功能
 | act2vmulti | 罗德岛促融共竞 | Rhodes Island Icebreaker Games | ロドス協心競技 |
 | act30side | 银心湖列车 | The Rides to Lake Silberneherze | 銀心湖鉄道 |
 | act30sign | 秋风送爽限时登录活动 | Snow Upon Autumnal Winds Limited Login Event | 早春の風スタンプラリー |
-| act30sre | 银心湖列车·复刻 | - | 銀心湖鉄道・復刻 |
+| act30sre | 银心湖列车·复刻 | The Rides to Lake Silberneherze - Rerun | 銀心湖鉄道・復刻 |
 | act31side | 怀黍离 | Here A People Sows | 懐黍離 |
 | act31sign | 正逢雨季限时登录活动 | Rain Season Limited Login Event | 長雨の候スタンプラリー |
-| act31sre | 怀黍离·复刻 | - | 懐黍離・復刻 |
+| act31sre | 怀黍离·复刻 | Here A People Sows - Rerun | 懐黍離・復刻 |
 | act32side | 水晶箭行动 | Operation Lucent Arrowhead | OP:LA |
 | act32sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act33side | 巴别塔 | Babel | バベル |
@@ -2933,7 +2933,7 @@ Event | なないろのお茶会 |
 | act45sign | 感谢庆典前瞻签到 | Thank-You Celebration Prospective Login | 大感謝祭開催直前スタンプラリー |
 | act46sign | 感谢庆典限时签到 | Thank-You Celebration Limited-Time Sign-In | 大感謝祭スタンプ |
 | act47sign | 感谢庆典补给签到 | Thank-You Celebration Sign-In Resupplies | 大感謝祭補給スタンプ |
-| act48sign | 2025跨年纪念限时活动 | - | スタンプラリー |
+| act48sign | 2025跨年纪念限时活动 | 2025 Commemorative Limited-Time Event | スタンプラリー |
 | act49sign | 六周年庆典签到活动 | - | - |
 | act4bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act4collection | 重返古堡 | - | - |
@@ -3335,9 +3335,9 @@ Event | なないろのお茶会 |
 | act2mainss_token | “勇气”胸章 | - | - |
 | act2vmulti_token_cap | 参赛纪念 | Memento | 参加記念 |
 | act30side_token_box | 驮兽盲盒 | Burdenbeast Blind Box | 駄獣ミニフィギュア |
-| act30side_token_box_rep_1 | 驮兽盲盒 | - | 駄獣ミニフィギュア |
+| act30side_token_box_rep_1 | 驮兽盲盒 | Burdenbeast Blind Box | 駄獣ミニフィギュア |
 | act31side_token_box | 天桩 | Sky Pole | 天杭 |
-| act31side_token_box_rep_1 | 天桩 | - | 天杭 |
+| act31side_token_box_rep_1 | 天桩 | Sky Pole | 天杭 |
 | act32side_token_stamp | 艺术馆集章卡 | Galería Stamp Card | スタンプカード |
 | act33side_token_sugar | 粗制糖块 | Raw Sugar Lumps | 粗製角砂糖 |
 | act33side_token_sugar_rep_1 | 粗制糖块 | - | - |
@@ -4175,7 +4175,7 @@ Event | なないろのお茶会 |
 | uni_set_castle_1 | 古堡印象家具收藏包一 | Castlesque Furniture Pack I | 古城風家具パックvol.1 |
 | uni_set_castle_2 | 古堡印象家具收藏包二 | Castlesque Furniture Pack II | 古城風家具パックvol.2 |
 | uni_set_concertHall | 尘影余音家具收藏包 | Lingering Echoes Furniture Pack | 塵影に交わる残響家具パック |
-| uni_set_countryside | 照我以火家具收藏包 | - | この炎が照らす先家具パック |
+| uni_set_countryside | 照我以火家具收藏包 | What the Firelight Casts Furniture Pack | この炎が照らす先家具パック |
 | uni_set_court | 叙拉古人家具收藏包 | Il Siracusano Furniture Pack | シラクザーノ家具パック |
 | uni_set_cultureroom | 孤星家具收藏包 | - | - |
 | uni_set_fNearl | 玛莉娅·临光家具收藏包 | Maria Nearl Furniture Pack | マリア・ニアール家具パック |
@@ -4185,7 +4185,7 @@ Event | なないろのお茶会 |
 | uni_set_idealCity | 理想城家具收藏包 | Ideal City Furniture Pack | 理想都市家具パック |
 | uni_set_inkArt | 画中人家具收藏包 | Who is Real Furniture Pack | 画中人家具パック |
 | uni_set_kazimierz | 长夜临光家具收藏包 | Near Light Furniture Pack | ニアーライト家具パック |
-| uni_set_martialClub | 登临意家具收藏包 | - | 登臨意家具パック |
+| uni_set_martialClub | 登临意家具收藏包 | Where Vernal Winds Will Never Blow Furniture Pack | 登臨意家具パック |
 | uni_set_nightView | 沃伦姆德的薄暮家具收藏包 | Twilight of Wolumonde Furniture Pack | ウォルモンドの薄暮家具パック |
 | uni_set_outdoor_1 | 海滨印象家具收藏包一 | Beachside Impressions Furniture Pack I | 海辺風家具パックvol.1 |
 | uni_set_outdoor_2 | 海滨印象家具收藏包二 | Beachside Impressions Furniture Pack II | 海辺風家具パックvol.2 |
@@ -4209,7 +4209,7 @@ Event | なないろのお茶会 |
 | voucher_elite_II_5 | 资深干员特训邀请函 | Senior Operator Training Invitation Letter | ★5特訓招待状 |
 | voucher_elite_II_6 | 高级资深干员特训邀请函 | Top Operator Training Invitation Letter | ★6特訓招待状 |
 | voucher_full_absin | 苦艾的私人信件 | Absinthe's Personal Letter | アブサントの手紙 |
-| voucher_full_bdhkgt | 截云的私人信件 | - | ジエユンの手紙 |
+| voucher_full_bdhkgt | 截云的私人信件 | Jieyun's Personal Letter | ジエユンの手紙 |
 | voucher_full_bena | 贝娜的私人信件 | Bena's Personal Letter | ベナの手紙 |
 | voucher_full_bison | 拜松的私人信件 | Bison's Personal Letter | バイソンの手紙 |
 | voucher_full_ceylon | 锡兰的私人信件 | Ceylon's Personal Letter | セイロンの手紙 |
@@ -4226,7 +4226,7 @@ Event | なないろのお茶会 |
 | voucher_full_malist | 至简的私人信件 | Minimalist's Personal Letter | ミニマリストの手紙 |
 | voucher_full_mint | 薄绿的私人信件 | Mint's Personal Letter | ミントの手紙 |
 | voucher_full_pianst | 车尔尼的私人信件 | Czerny's Personal Letter | ツェルニーの手紙 |
-| voucher_full_puzzle | 谜图的私人信件 | - | パズルの手紙 |
+| voucher_full_puzzle | 谜图的私人信件 | Puzzle's Personal Letter | パズルの手紙 |
 | voucher_full_robin | 罗宾的私人信件 | Robin's Personal Letter | ロビンの手紙 |
 | voucher_full_sidero | 铸铁的私人信件 | Sideroca's Personal Letter | シデロカの手紙 |
 | voucher_full_slent2 | 淬羽赫默的私人信件 | - | - |
@@ -4418,9 +4418,9 @@ Event | なないろのお茶会 |
 | _ATTAIN_15_2_1 | - | Celebrate & Recollect | ロドスの道のり　回顧 |
 | _ATTAIN_22_1_2 | - | Celebration & Link-Up | ロドスの道のり・邂逅 |
 | _ATTAIN_28_0_2 | - | Celebration & Vista | ロドスの道のり・展望 |
-| _ATTAIN_34_0_5 | - | - | ロドスの道のり・心願 |
+| _ATTAIN_34_0_5 | - | Celebration & Vision | ロドスの道のり・心願 |
 | _CLASSIC_28_0_1 | - |  Celebration - Kernel | ロドスの道のり・中堅 |
-| _CLASSIC_34_0_2 | - | - | ロドスの道のり・中堅 |
+| _CLASSIC_34_0_2 | - |  Celebration - Kernel | ロドスの道のり・中堅 |
 | _CLASSIC_45_0_2 | 跨年欢庆·中坚 | - | - |
 | _CLASSIC_57_0_2 | 跨年欢庆·中坚 | - | - |
 | _LIMITED_10_2_1 | - | Deep Drown Lament | 深悼 |
@@ -4536,7 +4536,7 @@ Event | なないろのお茶会 |
 | _SINGLE_32_0_5 | - | Clank Liberty | 銃声 |
 | _SINGLE_33_0_1 | - | Never Gilded | 褪せざる栄光 |
 | _SINGLE_34_0_1 | - | Confirmation, Completion, Conduction | 実証、完成、先導 |
-| _SINGLE_34_0_4 | - | - | さすらう者 |
+| _SINGLE_34_0_4 | - | The Sojourner | さすらう者 |
 | _SPECIAL_32_0_8 | - | Orienteering Headhunting | セレクトスカウト |
 | skchr_absin_1 | 执法模式 | Enforcement Mode | 執行態勢 |
 | skchr_absin_2 | 终结连射 | Ultimatum | 告死の弾雨 |
@@ -6870,7 +6870,7 @@ Event | なないろのお茶会 |
 | camp_r_23 | 燃烧街区 | Burning District | 燃える市街地 |
 | camp_r_24 | 冰封雪谷 | Icebound Valley | 閉ざされし雪渓 |
 | camp_r_25 | 66号航道 | Cityway 66 | 66号航路 |
-| camp_r_26 | 壬午号水稻田 | - | 壬午号水田 |
+| camp_r_26 | 壬午号水稻田 | Paddy Field 9-7 | 壬午号水田 |
 | camp_r_27 | 选帝侯广场 | - | - |
 | camp_r_28 | 大巴扎 | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |
@@ -7595,14 +7595,14 @@ Event | なないろのお茶会 |
 | act2mainss_zone1 | 离解复合 | - | - |
 | act30side_zone1 | 三号站台 | Platform No. 3 | 3番ホーム |
 | act30side_zone2 | 特快列车 | Express Train | 特急列車 |
-| act30sre_zone1 | 三号站台 | - | 3番ホーム |
-| act30sre_zone2 | 特快列车 | - | 特急列車 |
+| act30sre_zone1 | 三号站台 | Platform No. 3 | 3番ホーム |
+| act30sre_zone2 | 特快列车 | Express Train | 特急列車 |
 | act31side_zone1 | 种植地块 | Agricultural Plate | 栽培区画 |
 | act31side_zone2 | 荒城核心 | City Core | 荒城中枢 |
 | act31side_zone3 | 大江北岸 | Far Side of the Great River | 大江北岸 |
-| act31sre_zone1 | 种植地块 | - | 栽培区画 |
-| act31sre_zone2 | 荒城核心 | - | 荒城中枢 |
-| act31sre_zone3 | 大江北岸 | - | 大江北岸 |
+| act31sre_zone1 | 种植地块 | Agricultural Plate | 栽培区画 |
+| act31sre_zone2 | 荒城核心 | City Core | 荒城中枢 |
+| act31sre_zone3 | 大江北岸 | Far Side of the Great River | 大江北岸 |
 | act32side_zone1 | 展厅漫游 | Roam the Exhibition | アート探訪 |
 | act32side_zone2 | 高速空降 | Skydiving | 降下作戦 |
 | act33side_zone1 | 我赠予未来 | You the Future, Take My Gifts | 未来を贈らん |
@@ -7711,11 +7711,11 @@ Event | なないろのお茶会 |
 | permanent_sidestory_23_zone1 | 朝见双塔 | Zwillingstürme anbeten | 双塔を仰ぐ |
 | permanent_sidestory_23_zone2 | 恩典永恒 | Die Gnade ist ewig | 恩寵は永遠に |
 | permanent_sidestory_23_zone3 | 权威无情 | Die Macht ist grimm | 大権に情なく |
-| permanent_sidestory_24_zone1 | 三号站台 | - | 3番ホーム |
-| permanent_sidestory_24_zone2 | 特快列车 | - | 特急列車 |
-| permanent_sidestory_25_zone1 | 种植地块 | - | 栽培区画 |
-| permanent_sidestory_25_zone2 | 荒城核心 | - | 荒城中枢 |
-| permanent_sidestory_25_zone3 | 大江北岸 | - | 大江北岸 |
+| permanent_sidestory_24_zone1 | 三号站台 | Platform No. 3 | 3番ホーム |
+| permanent_sidestory_24_zone2 | 特快列车 | Express Train | 特急列車 |
+| permanent_sidestory_25_zone1 | 种植地块 | Agricultural Plate | 栽培区画 |
+| permanent_sidestory_25_zone2 | 荒城核心 | City Core | 荒城中枢 |
+| permanent_sidestory_25_zone3 | 大江北岸 | Far Side of the Great River | 大江北岸 |
 | permanent_sidestory_26_zone1 | 信标投放 | - | - |
 | permanent_sidestory_26_zone2 | 防线巩固 | - | - |
 | permanent_sidestory_2_zone1 | 主舞台 | Main Stage | メインステージ |

@@ -317,9 +317,9 @@ tip: 请善用浏览器的搜索功能
 | act2mainss_token | “勇气”胸章 | - | - |
 | act2vmulti_token_cap | 参赛纪念 | Memento | 参加記念 |
 | act30side_token_box | 驮兽盲盒 | Burdenbeast Blind Box | 駄獣ミニフィギュア |
-| act30side_token_box_rep_1 | 驮兽盲盒 | - | 駄獣ミニフィギュア |
+| act30side_token_box_rep_1 | 驮兽盲盒 | Burdenbeast Blind Box | 駄獣ミニフィギュア |
 | act31side_token_box | 天桩 | Sky Pole | 天杭 |
-| act31side_token_box_rep_1 | 天桩 | - | 天杭 |
+| act31side_token_box_rep_1 | 天桩 | Sky Pole | 天杭 |
 | act32side_token_stamp | 艺术馆集章卡 | Galería Stamp Card | スタンプカード |
 | act33side_token_sugar | 粗制糖块 | Raw Sugar Lumps | 粗製角砂糖 |
 | act33side_token_sugar_rep_1 | 粗制糖块 | - | - |
@@ -1157,7 +1157,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_castle_1 | 古堡印象家具收藏包一 | Castlesque Furniture Pack I | 古城風家具パックvol.1 |
 | uni_set_castle_2 | 古堡印象家具收藏包二 | Castlesque Furniture Pack II | 古城風家具パックvol.2 |
 | uni_set_concertHall | 尘影余音家具收藏包 | Lingering Echoes Furniture Pack | 塵影に交わる残響家具パック |
-| uni_set_countryside | 照我以火家具收藏包 | - | この炎が照らす先家具パック |
+| uni_set_countryside | 照我以火家具收藏包 | What the Firelight Casts Furniture Pack | この炎が照らす先家具パック |
 | uni_set_court | 叙拉古人家具收藏包 | Il Siracusano Furniture Pack | シラクザーノ家具パック |
 | uni_set_cultureroom | 孤星家具收藏包 | - | - |
 | uni_set_fNearl | 玛莉娅·临光家具收藏包 | Maria Nearl Furniture Pack | マリア・ニアール家具パック |
@@ -1167,7 +1167,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_idealCity | 理想城家具收藏包 | Ideal City Furniture Pack | 理想都市家具パック |
 | uni_set_inkArt | 画中人家具收藏包 | Who is Real Furniture Pack | 画中人家具パック |
 | uni_set_kazimierz | 长夜临光家具收藏包 | Near Light Furniture Pack | ニアーライト家具パック |
-| uni_set_martialClub | 登临意家具收藏包 | - | 登臨意家具パック |
+| uni_set_martialClub | 登临意家具收藏包 | Where Vernal Winds Will Never Blow Furniture Pack | 登臨意家具パック |
 | uni_set_nightView | 沃伦姆德的薄暮家具收藏包 | Twilight of Wolumonde Furniture Pack | ウォルモンドの薄暮家具パック |
 | uni_set_outdoor_1 | 海滨印象家具收藏包一 | Beachside Impressions Furniture Pack I | 海辺風家具パックvol.1 |
 | uni_set_outdoor_2 | 海滨印象家具收藏包二 | Beachside Impressions Furniture Pack II | 海辺風家具パックvol.2 |
@@ -1191,7 +1191,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_elite_II_5 | 资深干员特训邀请函 | Senior Operator Training Invitation Letter | ★5特訓招待状 |
 | voucher_elite_II_6 | 高级资深干员特训邀请函 | Top Operator Training Invitation Letter | ★6特訓招待状 |
 | voucher_full_absin | 苦艾的私人信件 | Absinthe's Personal Letter | アブサントの手紙 |
-| voucher_full_bdhkgt | 截云的私人信件 | - | ジエユンの手紙 |
+| voucher_full_bdhkgt | 截云的私人信件 | Jieyun's Personal Letter | ジエユンの手紙 |
 | voucher_full_bena | 贝娜的私人信件 | Bena's Personal Letter | ベナの手紙 |
 | voucher_full_bison | 拜松的私人信件 | Bison's Personal Letter | バイソンの手紙 |
 | voucher_full_ceylon | 锡兰的私人信件 | Ceylon's Personal Letter | セイロンの手紙 |
@@ -1208,7 +1208,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_full_malist | 至简的私人信件 | Minimalist's Personal Letter | ミニマリストの手紙 |
 | voucher_full_mint | 薄绿的私人信件 | Mint's Personal Letter | ミントの手紙 |
 | voucher_full_pianst | 车尔尼的私人信件 | Czerny's Personal Letter | ツェルニーの手紙 |
-| voucher_full_puzzle | 谜图的私人信件 | - | パズルの手紙 |
+| voucher_full_puzzle | 谜图的私人信件 | Puzzle's Personal Letter | パズルの手紙 |
 | voucher_full_robin | 罗宾的私人信件 | Robin's Personal Letter | ロビンの手紙 |
 | voucher_full_sidero | 铸铁的私人信件 | Sideroca's Personal Letter | シデロカの手紙 |
 | voucher_full_slent2 | 淬羽赫默的私人信件 | - | - |

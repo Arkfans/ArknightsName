@@ -125,9 +125,9 @@ tip: 请善用浏览器的搜索功能
 | _ATTAIN_15_2_1 | - | Celebrate & Recollect | ロドスの道のり　回顧 |
 | _ATTAIN_22_1_2 | - | Celebration & Link-Up | ロドスの道のり・邂逅 |
 | _ATTAIN_28_0_2 | - | Celebration & Vista | ロドスの道のり・展望 |
-| _ATTAIN_34_0_5 | - | - | ロドスの道のり・心願 |
+| _ATTAIN_34_0_5 | - | Celebration & Vision | ロドスの道のり・心願 |
 | _CLASSIC_28_0_1 | - |  Celebration - Kernel | ロドスの道のり・中堅 |
-| _CLASSIC_34_0_2 | - | - | ロドスの道のり・中堅 |
+| _CLASSIC_34_0_2 | - |  Celebration - Kernel | ロドスの道のり・中堅 |
 | _CLASSIC_45_0_2 | 跨年欢庆·中坚 | - | - |
 | _CLASSIC_57_0_2 | 跨年欢庆·中坚 | - | - |
 | _LIMITED_10_2_1 | - | Deep Drown Lament | 深悼 |
@@ -243,5 +243,5 @@ tip: 请善用浏览器的搜索功能
 | _SINGLE_32_0_5 | - | Clank Liberty | 銃声 |
 | _SINGLE_33_0_1 | - | Never Gilded | 褪せざる栄光 |
 | _SINGLE_34_0_1 | - | Confirmation, Completion, Conduction | 実証、完成、先導 |
-| _SINGLE_34_0_4 | - | - | さすらう者 |
+| _SINGLE_34_0_4 | - | The Sojourner | さすらう者 |
 | _SPECIAL_32_0_8 | - | Orienteering Headhunting | セレクトスカウト |
