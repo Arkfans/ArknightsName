@@ -8003,6 +8003,12 @@
       "zh_CN": "夏卉 FA062"
     }
   },
+  "char_154_morgan@epoque#47": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "字里行间"
+    }
+  },
   "char_155_tiger@striker#2": {
     "type": "SKIN",
     "names": {
@@ -22876,6 +22882,12 @@
       "zh_CN": "时光的赠礼 "
     }
   },
+  "act5bossrush": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "引航者试炼"
+    }
+  },
   "act5d0": {
     "type": "ACTIVITY",
     "names": {
@@ -26203,6 +26215,42 @@
     "names": {
       "ja_JP": "KFCポイント",
       "zh_CN": "KFC积分"
+    }
+  },
+  "act5bossrush_milestone_point": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "试炼经验"
+    }
+  },
+  "act5bossrush_relic_01": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "限压解除"
+    }
+  },
+  "act5bossrush_relic_02": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "链式激活"
+    }
+  },
+  "act5bossrush_relic_03": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "冗量阵列"
+    }
+  },
+  "act5bossrush_relic_04": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "全面过载"
+    }
+  },
+  "act5bossrush_token_relic": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "数据黑盒"
     }
   },
   "act5d0_point_medal": {
@@ -32419,6 +32467,12 @@
       "zh_CN": "黑曜石节手环"
     }
   },
+  "uni_set_LAbbey": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "空想花庭家具收藏包"
+    }
+  },
   "uni_set_MemoryCloister_1": {
     "type": "ITEM",
     "names": {
@@ -32869,6 +32923,12 @@
       "en_US": "Astgenne's Personal Letter",
       "ja_JP": "アステジーニの手紙",
       "zh_CN": "星源的私人信件"
+    }
+  },
+  "voucher_full_inside": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "隐现的私人信件"
     }
   },
   "voucher_full_kjera": {
@@ -52605,6 +52665,30 @@
       "zh_CN": "延时毁灭"
     }
   },
+  "act5bossrush_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "严寒骤血"
+    }
+  },
+  "act5bossrush_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "无声破裂"
+    }
+  },
+  "act5bossrush_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "幕间重影"
+    }
+  },
+  "act5bossrush_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "沸海遮日"
+    }
+  },
   "act5d0_01": {
     "type": "STAGE",
     "names": {
@@ -59278,6 +59362,12 @@
     "names": {
       "en_US": "Threat Incoming",
       "ja_JP": "強敵襲来",
+      "zh_CN": "强敌当前"
+    }
+  },
+  "act5bossrush_zone1": {
+    "type": "ZONE",
+    "names": {
       "zh_CN": "强敌当前"
     }
   },

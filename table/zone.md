@@ -203,6 +203,7 @@ tip: 请善用浏览器的搜索功能
 | act43side_zone1 | 演出开始 | - | - |
 | act43side_zone2 | 为戏剧，为永恒 | - | - |
 | act4bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
+| act5bossrush_zone1 | 强敌当前 | - | - |
 | act5d0_zone1 | 下城区 | Downtown | 繁華街 |
 | act5d0_zone2 | 东部郊区 | Eastern Suburbs | 東部郊外 |
 | act5sre_zone1 | 议事高塔 | Capitol Spire | 大議事塔 |

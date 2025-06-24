@@ -355,6 +355,12 @@ tip: 请善用浏览器的搜索功能
 | act4collection_point_token | 战略点数 | - | - |
 | act4d0_intelligencepoint | 有效情报值 | Valid Intelligence Unit | 情報データ |
 | act4d5_point_kfc | KFC积分 | - | KFCポイント |
+| act5bossrush_milestone_point | 试炼经验 | - | - |
+| act5bossrush_relic_01 | 限压解除 | - | - |
+| act5bossrush_relic_02 | 链式激活 | - | - |
+| act5bossrush_relic_03 | 冗量阵列 | - | - |
+| act5bossrush_relic_04 | 全面过载 | - | - |
+| act5bossrush_token_relic | 数据黑盒 | - | - |
 | act5d0_point_medal | 终极企鹅勋章 | Top Tier Penguin Medal | ウルトラPG勲章 |
 | act5d0_point_medal_rep_1 | 终极企鹅勋章 | Top Tier Penguin Medal | ウルトラPG勲章 |
 | act5d1_point_conbounty | 合约赏金 | Contract Bounty | 契約賞金 |
@@ -1144,6 +1150,7 @@ tip: 请善用浏览器的搜索功能
 | token_ObsidianCoin_rep_1 | 黑曜石节抽奖代币 | Obsidian Festival Token | ガチャコイン |
 | token_Obsidian_rep_1 | 汐斯塔的黑曜石 | Siesta Obsidian | シエスタの黒曜石 |
 | token_Wristband | 黑曜石节手环 | Obsidian Festival Bracelet | リストバンド |
+| uni_set_LAbbey | 空想花庭家具收藏包 | - | - |
 | uni_set_MemoryCloister_1 | 魂灵印象家具收藏包一 | Memories of the Souls Furniture Pack I | 魂の形家具パックvol.1 |
 | uni_set_MemoryCloister_2 | 魂灵印象家具收藏包二 | Memories of the Souls Furniture Pack II | 魂の形家具パックvol.2 |
 | uni_set_NHL | 吾导先路家具收藏包 | Guide Ahead Furniture Collection Set | 吾れ先導者たらん家具パック |
@@ -1201,6 +1208,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_full_glady | 歌蕾蒂娅的私人信件 | Gladiia's Personal Letter | グレイディーアの手紙 |
 | voucher_full_grani | 格拉尼的私人信件 | Grani's Personal Letter | グラニの手紙 |
 | voucher_full_halo | 星源的私人信件 | Astgenne's Personal Letter | アステジーニの手紙 |
+| voucher_full_inside | 隐现的私人信件 | - | - |
 | voucher_full_kjera | 耶拉的私人信件 | Kjera's Personal Letter | イェラの手紙 |
 | voucher_full_kroos2 | 寒芒克洛丝的私人信件 | Kroos the Keen Glint's Personal Letter | 寒芒クルースの手紙 |
 | voucher_full_lava2 | 炎狱炎熔的私人信件 | Lava the Purgatory's Personal Letter | 炎獄ラヴァの手紙 |

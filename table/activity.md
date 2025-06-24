@@ -216,6 +216,7 @@ Event | なないろのお茶会 |
 | act4pray | 际崖城惊奇墙登录活动 | Zeruertza Amazing Wall Login Event | 宝くじ
 イベント |
 | act4switch | 时光的赠礼  | - | - |
+| act5bossrush | 引航者试炼 | - | - |
 | act5d0 | 喧闹法则 | Code of Brawl | 喧騒の掟 |
 | act5d1 | 危机合约 | Contingency Contract | 危機契約 |
 | act5fun | 愚人节活动 | April Fools' Day Event | エイプリルフール |

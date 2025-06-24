@@ -1027,6 +1027,7 @@ tip: 请善用浏览器的搜索功能
 | char_150_snakek@wild#1 | 四边形 | Quadrangle | スクエア |
 | char_151_myrtle@epoque#12 | 淡金庆典 | Light Gold Celebration | 金色のマーチ |
 | char_151_myrtle@summer#12 | 夏卉 FA062 | Summer Flowers FA062 | 夏の花弁FA062 |
+| char_154_morgan@epoque#47 | 字里行间 | - | - |
 | char_155_tiger@striker#2 | 悍将 | Valiant General | 猛将 |
 | char_158_milu@snow#2 | 覆雪 | Snowywatch | 白い狩人 |
 | char_158_milu@wild#2 | 枯柏 | Wilted Cypress | 枯れ柏 |
@@ -2945,6 +2946,7 @@ Event | なないろのお茶会 |
 | act4pray | 际崖城惊奇墙登录活动 | Zeruertza Amazing Wall Login Event | 宝くじ
 イベント |
 | act4switch | 时光的赠礼  | - | - |
+| act5bossrush | 引航者试炼 | - | - |
 | act5d0 | 喧闹法则 | Code of Brawl | 喧騒の掟 |
 | act5d1 | 危机合约 | Contingency Contract | 危機契約 |
 | act5fun | 愚人节活动 | April Fools' Day Event | エイプリルフール |
@@ -3373,6 +3375,12 @@ Event | なないろのお茶会 |
 | act4collection_point_token | 战略点数 | - | - |
 | act4d0_intelligencepoint | 有效情报值 | Valid Intelligence Unit | 情報データ |
 | act4d5_point_kfc | KFC积分 | - | KFCポイント |
+| act5bossrush_milestone_point | 试炼经验 | - | - |
+| act5bossrush_relic_01 | 限压解除 | - | - |
+| act5bossrush_relic_02 | 链式激活 | - | - |
+| act5bossrush_relic_03 | 冗量阵列 | - | - |
+| act5bossrush_relic_04 | 全面过载 | - | - |
+| act5bossrush_token_relic | 数据黑盒 | - | - |
 | act5d0_point_medal | 终极企鹅勋章 | Top Tier Penguin Medal | ウルトラPG勲章 |
 | act5d0_point_medal_rep_1 | 终极企鹅勋章 | Top Tier Penguin Medal | ウルトラPG勲章 |
 | act5d1_point_conbounty | 合约赏金 | Contract Bounty | 契約賞金 |
@@ -4162,6 +4170,7 @@ Event | なないろのお茶会 |
 | token_ObsidianCoin_rep_1 | 黑曜石节抽奖代币 | Obsidian Festival Token | ガチャコイン |
 | token_Obsidian_rep_1 | 汐斯塔的黑曜石 | Siesta Obsidian | シエスタの黒曜石 |
 | token_Wristband | 黑曜石节手环 | Obsidian Festival Bracelet | リストバンド |
+| uni_set_LAbbey | 空想花庭家具收藏包 | - | - |
 | uni_set_MemoryCloister_1 | 魂灵印象家具收藏包一 | Memories of the Souls Furniture Pack I | 魂の形家具パックvol.1 |
 | uni_set_MemoryCloister_2 | 魂灵印象家具收藏包二 | Memories of the Souls Furniture Pack II | 魂の形家具パックvol.2 |
 | uni_set_NHL | 吾导先路家具收藏包 | Guide Ahead Furniture Collection Set | 吾れ先導者たらん家具パック |
@@ -4219,6 +4228,7 @@ Event | なないろのお茶会 |
 | voucher_full_glady | 歌蕾蒂娅的私人信件 | Gladiia's Personal Letter | グレイディーアの手紙 |
 | voucher_full_grani | 格拉尼的私人信件 | Grani's Personal Letter | グラニの手紙 |
 | voucher_full_halo | 星源的私人信件 | Astgenne's Personal Letter | アステジーニの手紙 |
+| voucher_full_inside | 隐现的私人信件 | - | - |
 | voucher_full_kjera | 耶拉的私人信件 | Kjera's Personal Letter | イェラの手紙 |
 | voucher_full_kroos2 | 寒芒克洛丝的私人信件 | Kroos the Keen Glint's Personal Letter | 寒芒クルースの手紙 |
 | voucher_full_lava2 | 炎狱炎熔的私人信件 | Lava the Purgatory's Personal Letter | 炎獄ラヴァの手紙 |
@@ -6787,6 +6797,10 @@ Event | なないろのお茶会 |
 | act4d0_03 | 斑驳 | Speckles | まだら模様 |
 | act4d0_04 | 狡诈戏法 | Sleight of Hand | 悪知恵 |
 | act4d0_05 | 延时毁灭 | Prolonged Destruction | 遅延作戦 |
+| act5bossrush_01 | 严寒骤血 | - | - |
+| act5bossrush_02 | 无声破裂 | - | - |
+| act5bossrush_03 | 幕间重影 | - | - |
+| act5bossrush_04 | 沸海遮日 | - | - |
 | act5d0_01 | 6:44P.M. | 6:44P.M. | 6:44P.M. |
 | act5d0_02 | 7:15P.M. | 7:15P.M. | 7:15P.M. |
 | act5d0_03 | 7:22P.M. | 7:22P.M. | 7:22P.M. |
@@ -7639,6 +7653,7 @@ Event | なないろのお茶会 |
 | act43side_zone1 | 演出开始 | - | - |
 | act43side_zone2 | 为戏剧，为永恒 | - | - |
 | act4bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
+| act5bossrush_zone1 | 强敌当前 | - | - |
 | act5d0_zone1 | 下城区 | Downtown | 繁華街 |
 | act5d0_zone2 | 东部郊区 | Eastern Suburbs | 東部郊外 |
 | act5sre_zone1 | 议事高塔 | Capitol Spire | 大議事塔 |

@@ -902,6 +902,10 @@ tip: 请善用浏览器的搜索功能
 | act4d0_03 | 斑驳 | Speckles | まだら模様 |
 | act4d0_04 | 狡诈戏法 | Sleight of Hand | 悪知恵 |
 | act4d0_05 | 延时毁灭 | Prolonged Destruction | 遅延作戦 |
+| act5bossrush_01 | 严寒骤血 | - | - |
+| act5bossrush_02 | 无声破裂 | - | - |
+| act5bossrush_03 | 幕间重影 | - | - |
+| act5bossrush_04 | 沸海遮日 | - | - |
 | act5d0_01 | 6:44P.M. | 6:44P.M. | 6:44P.M. |
 | act5d0_02 | 7:15P.M. | 7:15P.M. | 7:15P.M. |
 | act5d0_03 | 7:22P.M. | 7:22P.M. | 7:22P.M. |
