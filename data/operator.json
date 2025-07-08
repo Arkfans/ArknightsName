@@ -163,6 +163,9 @@
   "char_1042_phatm2": {
     "zh_CN": "酒神"
   },
+  "char_1043_leizi2": {
+    "zh_CN": "司霆惊蛰"
+  },
   "char_106_franka": {
     "en_US": "Franka",
     "ja_JP": "フランカ",
@@ -1574,6 +1577,9 @@
   },
   "char_4194_rmixer": {
     "zh_CN": "信仰搅拌机"
+  },
+  "char_4196_reckpr": {
+    "zh_CN": "录武官"
   },
   "char_4198_christ": {
     "zh_CN": "Miss.Christine"

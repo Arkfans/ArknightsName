@@ -1213,6 +1213,9 @@
     "ja_JP": "手書きの楽譜",
     "zh_CN": "乐谱草稿"
   },
+  "act19mini_token_sweetie": {
+    "zh_CN": "“棠梨儿”"
+  },
   "act19side_token_reagents": {
     "en_US": "Mysterious Reagent",
     "ja_JP": "謎の試薬",
@@ -3327,6 +3330,9 @@
   "p_char_1042_phatm2": {
     "zh_CN": "酒神的信物"
   },
+  "p_char_1043_leizi2": {
+    "zh_CN": "司霆惊蛰的信物"
+  },
   "p_char_106_franka": {
     "en_US": "Franka's Token",
     "ja_JP": "フランカの印",
@@ -4718,6 +4724,9 @@
   },
   "p_char_4194_rmixer": {
     "zh_CN": "信仰搅拌机的信物"
+  },
+  "p_char_4196_reckpr": {
+    "zh_CN": "录武官的信物"
   },
   "p_char_4198_christ": {
     "zh_CN": "Miss.Christine的信物"

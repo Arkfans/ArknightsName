@@ -1181,10 +1181,16 @@
     "ja_JP": "命の芽吹き",
     "zh_CN": "生命的萌芽"
   },
+  "story_ray_set_1_story_1": {
+    "zh_CN": "夜晚荒漠上的鳞群"
+  },
   "story_rdoc_set_1_story_1": {
     "en_US": "Ambiguous Appearance",
     "ja_JP": "朧げな面影",
     "zh_CN": "模糊的面容"
+  },
+  "story_reckpr_set_1_story_1": {
+    "zh_CN": "何须剑"
   },
   "story_rfrost_set_1_story_1": {
     "en_US": "Searching for Home",
@@ -1218,6 +1224,9 @@
     "en_US": "Dreaming of the Good Life",
     "ja_JP": "夢に見た素敵な暮らし",
     "zh_CN": "梦想中的好生活"
+  },
+  "story_saga_set_1_story_1": {
+    "zh_CN": "未必空"
   },
   "story_savage_set_1_story_1": {
     "en_US": "Painful Reversal",
@@ -1476,6 +1485,9 @@
     "en_US": "The Guide to Mutual Learning",
     "ja_JP": "手合わせマニュアル",
     "zh_CN": "干员间切磋指南"
+  },
+  "story_tinman_set_1_story_1": {
+    "zh_CN": "最后一案"
   },
   "story_tknogi_set_1_story_1": {
     "en_US": "An Ordinary Sunset",

@@ -91,6 +91,7 @@ tip: 请善用浏览器的搜索功能
 | act18side_zone2 | 小巷深处 | Back Alleys | 暗き裏路地 |
 | act18sre_zone1 | 夕照大厅 | Afterglow Hall | 光差す音楽堂 |
 | act18sre_zone2 | 小巷深处 | Back Alleys | 暗き裏路地 |
+| act19mini_zone1 | 走入城市 | - | - |
 | act19side_zone1 | 实验基地 | Test Site | 実験基地 |
 | act19side_zone2 | 莱茵总部 | Rhine Headquarters | ライン生命本社 |
 | act19sre_zone1 | 实验基地 | Research Base | 実験基地 |

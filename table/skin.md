@@ -87,6 +87,7 @@ tip: 请善用浏览器的搜索功能
 | char_148_nearl@summer#2 | 灿阳朝露 SD01 | Shimmering Dew SD01 | 炎陽煌く露SD01 |
 | char_149_scave@striker#2 | 生存 | Survive | 生存 |
 | char_150_snakek@wild#1 | 四边形 | Quadrangle | スクエア |
+| char_150_snakek@yun#7 | 与荷 | - | - |
 | char_151_myrtle@epoque#12 | 淡金庆典 | Light Gold Celebration | 金色のマーチ |
 | char_151_myrtle@summer#12 | 夏卉 FA062 | Summer Flowers FA062 | 夏の花弁FA062 |
 | char_154_morgan@epoque#47 | 字里行间 | - | - |
@@ -232,6 +233,7 @@ tip: 请善用浏览器的搜索功能
 | char_311_mudrok@wild#10 | 砾瓦 | Rubble | 瓦礫 |
 | char_322_lmlee@sanrio#1 | 坊间凉茶铺 | Remedy In A Cup Of Leung Cha | まちなか涼茶舗 |
 | char_322_lmlee@witch#3 | 手到牌来 | Trust Your Eyes | お目を拝借 |
+| char_325_bison@yun#7 | 凌云意 | - | - |
 | char_326_glacus@ghost#1 | 广场扫荡客 | Exterminator in the Square | 広場の掃討者 |
 | char_328_cammou@witch#2 | 安息处的怪盗 | Grave Thief | 霊園の怪盗 |
 | char_332_archet@sale#14 | 至虔者荣光 | - | - |
@@ -309,6 +311,7 @@ tip: 请善用浏览器的搜索功能
 | char_4048_doroth@witch#4 | 命运主宰 | Hand of Destiny | 運命の支配者 |
 | char_4054_malist@summer#14 | 悠然假日 HDm74 | Holiday HDm74 | ホリデーHDm74 |
 | char_4055_bgsnow@wild#7 | 字句中的雪原 | Snowy Plains in Words | 行間にある雪原 |
+| char_4055_bgsnow@yun#7 | 行梦侧畔 | - | - |
 | char_405_absin@epoque#28 | 正午余光 | Noon Twilight | 真昼の残照 |
 | char_4062_totter@summer#17 | 灿阳朝露 SDm09 | Shining Dew SDm09 | 炎陽煌く露SDm09 |
 | char_4063_quartz@epoque#39 | 封面佣兵 | - | - |
@@ -325,6 +328,7 @@ tip: 请善用浏览器的搜索功能
 | char_4078_bdhkgt@yun#2 | 伴青莲 | Away From Dust | 青蓮の友 |
 | char_4079_haini@epoque#45 | 翻涌 | - | - |
 | char_4080_lin@nian#10 | 列瑶台 | Heavenly Mirage | 列瑶台 |
+| char_4080_lin@summer#19 | 夏卉 FA137 | - | - |
 | char_4081_warmy@winter#4 | 街角暖绒 | Warm Velvet At the Corner | 街角の温もり |
 | char_4082_qiubai@epoque#31 | 礼遇 | Courtesy | 礼をもって |
 | char_4082_qiubai@ncg#1 | 霜林醉 | Wine-flushed is Woods of Rime | 霜林酔 |
@@ -358,6 +362,7 @@ tip: 请善用浏览器的搜索功能
 | char_4136_phonor@boc#9 | 最初的颂歌 | - | - |
 | char_4137_udflow@epoque#46 | 层流 | - | - |
 | char_4141_marcil@dungeon#1 | 泰拉冒险 | Terra & Traveller | テラの冒険者 |
+| char_4145_ulpia@epoque#48 | 注目深渊 | - | - |
 | char_4146_nymph@epoque#42 | 甜美配方 | - | - |
 | char_4151_tinman@sale#11 | 相位面容 | Phase Face | フェーズフェイス |
 | char_415_flint@boc#3 | 绚烂夏花 | Gorgeous Flower | 紫藤繚乱 |

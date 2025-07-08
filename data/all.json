@@ -265,6 +265,12 @@
       "zh_CN": "酒神"
     }
   },
+  "char_1043_leizi2": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "司霆惊蛰"
+    }
+  },
   "char_106_franka": {
     "type": "OPERATOR",
     "names": {
@@ -2539,6 +2545,12 @@
     "type": "OPERATOR",
     "names": {
       "zh_CN": "信仰搅拌机"
+    }
+  },
+  "char_4196_reckpr": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "录武官"
     }
   },
   "char_4198_christ": {
@@ -7987,6 +7999,12 @@
       "zh_CN": "四边形"
     }
   },
+  "char_150_snakek@yun#7": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "与荷"
+    }
+  },
   "char_151_myrtle@epoque#12": {
     "type": "SKIN",
     "names": {
@@ -9125,6 +9143,12 @@
       "zh_CN": "手到牌来"
     }
   },
+  "char_325_bison@yun#7": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "凌云意"
+    }
+  },
   "char_326_glacus@ghost#1": {
     "type": "SKIN",
     "names": {
@@ -9735,6 +9759,12 @@
       "zh_CN": "字句中的雪原"
     }
   },
+  "char_4055_bgsnow@yun#7": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "行梦侧畔"
+    }
+  },
   "char_405_absin@epoque#28": {
     "type": "SKIN",
     "names": {
@@ -9851,6 +9881,12 @@
       "en_US": "Heavenly Mirage",
       "ja_JP": "列瑶台",
       "zh_CN": "列瑶台"
+    }
+  },
+  "char_4080_lin@summer#19": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "夏卉 FA137"
     }
   },
   "char_4081_warmy@winter#4": {
@@ -10091,6 +10127,12 @@
       "en_US": "Terra & Traveller",
       "ja_JP": "テラの冒険者",
       "zh_CN": "泰拉冒险"
+    }
+  },
+  "char_4145_ulpia@epoque#48": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "注目深渊"
     }
   },
   "char_4146_nymph@epoque#42": {
@@ -21867,6 +21909,12 @@
       "zh_CN": "登录领取奖励"
     }
   },
+  "act19mini": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "镜中集"
+    }
+  },
   "act19side": {
     "type": "ACTIVITY",
     "names": {
@@ -25448,6 +25496,12 @@
       "zh_CN": "乐谱草稿"
     }
   },
+  "act19mini_token_sweetie": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "“棠梨儿”"
+    }
+  },
   "act19side_token_reagents": {
     "type": "ITEM",
     "names": {
@@ -28885,6 +28939,12 @@
       "zh_CN": "酒神的信物"
     }
   },
+  "p_char_1043_leizi2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "司霆惊蛰的信物"
+    }
+  },
   "p_char_106_franka": {
     "type": "ITEM",
     "names": {
@@ -31127,6 +31187,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "信仰搅拌机的信物"
+    }
+  },
+  "p_char_4196_reckpr": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "录武官的信物"
     }
   },
   "p_char_4198_christ": {
@@ -34243,6 +34309,12 @@
     "type": "POOL",
     "names": {
       "zh_CN": "沉向深渊的锚"
+    }
+  },
+  "SINGLE_63_0_1": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "青霆重明"
     }
   },
   "SPECIAL_54_0_5": {
@@ -38223,6 +38295,24 @@
       "zh_CN": "狱火之环"
     }
   },
+  "skchr_leizi2_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "浩气长存"
+    }
+  },
+  "skchr_leizi2_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "正霆摄威"
+    }
+  },
+  "skchr_leizi2_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "天地通明"
+    }
+  },
   "skchr_leizi_2": {
     "type": "SKILL",
     "names": {
@@ -39561,6 +39651,18 @@
       "en_US": "Stim Pistol",
       "ja_JP": "スティムピストル",
       "zh_CN": "激素手枪"
+    }
+  },
+  "skchr_reckpr_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "触类旁通"
+    }
+  },
+  "skchr_reckpr_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "一点关窍"
     }
   },
   "skchr_red_1": {
@@ -48495,6 +48597,66 @@
       "en_US": "Op. 849",
       "ja_JP": "作品849",
       "zh_CN": "作品849"
+    }
+  },
+  "act19mini_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "求同则塞"
+    }
+  },
+  "act19mini_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "求异则悖"
+    }
+  },
+  "act19mini_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "求遐则失"
+    }
+  },
+  "act19mini_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "求迩则乱"
+    }
+  },
+  "act19mini_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "求缓则迟"
+    }
+  },
+  "act19mini_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "求速则贪"
+    }
+  },
+  "act19mini_07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "求退则惘"
+    }
+  },
+  "act19mini_08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "求进则愎"
+    }
+  },
+  "act19mini_s01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "有求则苦"
+    }
+  },
+  "act19mini_s02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "莫向外求"
     }
   },
   "act19side_01": {
@@ -58507,6 +58669,12 @@
       "zh_CN": "小巷深处"
     }
   },
+  "act19mini_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "走入城市"
+    }
+  },
   "act19side_zone1": {
     "type": "ZONE",
     "names": {
@@ -62321,12 +62489,24 @@
       "zh_CN": "生命的萌芽"
     }
   },
+  "story_ray_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "夜晚荒漠上的鳞群"
+    }
+  },
   "story_rdoc_set_1_story_1": {
     "type": "MEMORY",
     "names": {
       "en_US": "Ambiguous Appearance",
       "ja_JP": "朧げな面影",
       "zh_CN": "模糊的面容"
+    }
+  },
+  "story_reckpr_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "何须剑"
     }
   },
   "story_rfrost_set_1_story_1": {
@@ -62381,6 +62561,12 @@
       "en_US": "Dreaming of the Good Life",
       "ja_JP": "夢に見た素敵な暮らし",
       "zh_CN": "梦想中的好生活"
+    }
+  },
+  "story_saga_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "未必空"
     }
   },
   "story_savage_set_1_story_1": {
@@ -62795,6 +62981,12 @@
       "en_US": "The Guide to Mutual Learning",
       "ja_JP": "手合わせマニュアル",
       "zh_CN": "干员间切磋指南"
+    }
+  },
+  "story_tinman_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "最后一案"
     }
   },
   "story_tknogi_set_1_story_1": {

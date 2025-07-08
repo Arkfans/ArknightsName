@@ -401,6 +401,9 @@
     "ja_JP": "スクエア",
     "zh_CN": "四边形"
   },
+  "char_150_snakek@yun#7": {
+    "zh_CN": "与荷"
+  },
   "char_151_myrtle@epoque#12": {
     "en_US": "Light Gold Celebration",
     "ja_JP": "金色のマーチ",
@@ -1104,6 +1107,9 @@
     "ja_JP": "お目を拝借",
     "zh_CN": "手到牌来"
   },
+  "char_325_bison@yun#7": {
+    "zh_CN": "凌云意"
+  },
   "char_326_glacus@ghost#1": {
     "en_US": "Exterminator in the Square",
     "ja_JP": "広場の掃討者",
@@ -1483,6 +1489,9 @@
     "ja_JP": "行間にある雪原",
     "zh_CN": "字句中的雪原"
   },
+  "char_4055_bgsnow@yun#7": {
+    "zh_CN": "行梦侧畔"
+  },
   "char_405_absin@epoque#28": {
     "en_US": "Noon Twilight",
     "ja_JP": "真昼の残照",
@@ -1552,6 +1561,9 @@
     "en_US": "Heavenly Mirage",
     "ja_JP": "列瑶台",
     "zh_CN": "列瑶台"
+  },
+  "char_4080_lin@summer#19": {
+    "zh_CN": "夏卉 FA137"
   },
   "char_4081_warmy@winter#4": {
     "en_US": "Warm Velvet At the Corner",
@@ -1693,6 +1705,9 @@
     "en_US": "Terra & Traveller",
     "ja_JP": "テラの冒険者",
     "zh_CN": "泰拉冒险"
+  },
+  "char_4145_ulpia@epoque#48": {
+    "zh_CN": "注目深渊"
   },
   "char_4146_nymph@epoque#42": {
     "zh_CN": "甜美配方"

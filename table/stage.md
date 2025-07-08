@@ -349,6 +349,16 @@ tip: 请善用浏览器的搜索功能
 | act18side_st03 | 自新大陆 | From the New World | 新世界より |
 | act18side_tr01 | 作品599 | Op. 599 | 作品599 |
 | act18side_tr02 | 作品849 | Op. 849 | 作品849 |
+| act19mini_01 | 求同则塞 | - | - |
+| act19mini_02 | 求异则悖 | - | - |
+| act19mini_03 | 求遐则失 | - | - |
+| act19mini_04 | 求迩则乱 | - | - |
+| act19mini_05 | 求缓则迟 | - | - |
+| act19mini_06 | 求速则贪 | - | - |
+| act19mini_07 | 求退则惘 | - | - |
+| act19mini_08 | 求进则愎 | - | - |
+| act19mini_s01 | 有求则苦 | - | - |
+| act19mini_s02 | 莫向外求 | - | - |
 | act19side_01 | 特里蒙街道 | Trimounts Streets | トリマウンツ街道 |
 | act19side_02 | 拓荒者小屋 | Pioneer Lodge | 開拓者の小屋 |
 | act19side_03 | 动力装甲 | Power Armor | パワードスーツ |

@@ -397,6 +397,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_lasher_2 | 权知轻重 | Weighing the Scales | 天秤の持ち手 |
 | skchr_lava2_1 | 焰淬匕首 | Flame Quenched Dagger | フレイムエンチャント |
 | skchr_lava2_2 | 狱火之环 | Ring of Hellfire | プルガトリオ |
+| skchr_leizi2_1 | 浩气长存 | - | - |
+| skchr_leizi2_2 | 正霆摄威 | - | - |
+| skchr_leizi2_3 | 天地通明 | - | - |
 | skchr_leizi_2 | 初雷 | Thunderclap | 初雷 |
 | skchr_lemuen_1 | 重逢问候 | - | - |
 | skchr_lemuen_2 | 归乡邀约 | - | - |
@@ -568,6 +571,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_ray_3 | “得见光芒” | 'See the Light' | 「求めた光」 |
 | skchr_rdoc_1 | 以暴制暴 | Violent Response | カウンターバイオレンス |
 | skchr_rdoc_2 | 激素手枪 | Stim Pistol | スティムピストル |
+| skchr_reckpr_1 | 触类旁通 | - | - |
+| skchr_reckpr_2 | 一点关窍 | - | - |
 | skchr_red_1 | 处决模式 | Execution Mode | 処刑の構え |
 | skchr_red_2 | 狼群 | Wolfpack | 群狼 |
 | skchr_reed2_2 | 枯荣共息 | Wither and Thrive | 盛衰を共に |

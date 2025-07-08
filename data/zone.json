@@ -427,6 +427,9 @@
     "ja_JP": "暗き裏路地",
     "zh_CN": "小巷深处"
   },
+  "act19mini_zone1": {
+    "zh_CN": "走入城市"
+  },
   "act19side_zone1": {
     "en_US": "Test Site",
     "ja_JP": "実験基地",

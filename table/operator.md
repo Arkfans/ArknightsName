@@ -39,6 +39,7 @@ tip: 请善用浏览器的搜索功能
 | char_1040_blaze2 | 烛煌 | - | - |
 | char_1041_angel2 | 新约能天使 | - | - |
 | char_1042_phatm2 | 酒神 | - | - |
+| char_1043_leizi2 | 司霆惊蛰 | - | - |
 | char_106_franka | 芙兰卡 | Franka | フランカ |
 | char_107_liskam | 雷蛇 | Liskarm | リスカム |
 | char_108_silent | 赫默 | Silence | サイレンス |
@@ -327,6 +328,7 @@ tip: 请善用浏览器的搜索功能
 | char_4191_tippi | 蒂比 | - | - |
 | char_4193_lemuen | 蕾缪安 | - | - |
 | char_4194_rmixer | 信仰搅拌机 | - | - |
+| char_4196_reckpr | 录武官 | - | - |
 | char_4198_christ | Miss.Christine | - | - |
 | char_420_flamtl | 焰尾 | Flametail | フレイムテイル |
 | char_421_crow | 羽毛笔 | La Pluma | ラ・プルマ |

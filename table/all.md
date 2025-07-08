@@ -39,6 +39,7 @@ tip: 请善用浏览器的搜索功能
 | char_1040_blaze2 | 烛煌 | - | - |
 | char_1041_angel2 | 新约能天使 | - | - |
 | char_1042_phatm2 | 酒神 | - | - |
+| char_1043_leizi2 | 司霆惊蛰 | - | - |
 | char_106_franka | 芙兰卡 | Franka | フランカ |
 | char_107_liskam | 雷蛇 | Liskarm | リスカム |
 | char_108_silent | 赫默 | Silence | サイレンス |
@@ -327,6 +328,7 @@ tip: 请善用浏览器的搜索功能
 | char_4191_tippi | 蒂比 | - | - |
 | char_4193_lemuen | 蕾缪安 | - | - |
 | char_4194_rmixer | 信仰搅拌机 | - | - |
+| char_4196_reckpr | 录武官 | - | - |
 | char_4198_christ | Miss.Christine | - | - |
 | char_420_flamtl | 焰尾 | Flametail | フレイムテイル |
 | char_421_crow | 羽毛笔 | La Pluma | ラ・プルマ |
@@ -1025,6 +1027,7 @@ tip: 请善用浏览器的搜索功能
 | char_148_nearl@summer#2 | 灿阳朝露 SD01 | Shimmering Dew SD01 | 炎陽煌く露SD01 |
 | char_149_scave@striker#2 | 生存 | Survive | 生存 |
 | char_150_snakek@wild#1 | 四边形 | Quadrangle | スクエア |
+| char_150_snakek@yun#7 | 与荷 | - | - |
 | char_151_myrtle@epoque#12 | 淡金庆典 | Light Gold Celebration | 金色のマーチ |
 | char_151_myrtle@summer#12 | 夏卉 FA062 | Summer Flowers FA062 | 夏の花弁FA062 |
 | char_154_morgan@epoque#47 | 字里行间 | - | - |
@@ -1170,6 +1173,7 @@ tip: 请善用浏览器的搜索功能
 | char_311_mudrok@wild#10 | 砾瓦 | Rubble | 瓦礫 |
 | char_322_lmlee@sanrio#1 | 坊间凉茶铺 | Remedy In A Cup Of Leung Cha | まちなか涼茶舗 |
 | char_322_lmlee@witch#3 | 手到牌来 | Trust Your Eyes | お目を拝借 |
+| char_325_bison@yun#7 | 凌云意 | - | - |
 | char_326_glacus@ghost#1 | 广场扫荡客 | Exterminator in the Square | 広場の掃討者 |
 | char_328_cammou@witch#2 | 安息处的怪盗 | Grave Thief | 霊園の怪盗 |
 | char_332_archet@sale#14 | 至虔者荣光 | - | - |
@@ -1247,6 +1251,7 @@ tip: 请善用浏览器的搜索功能
 | char_4048_doroth@witch#4 | 命运主宰 | Hand of Destiny | 運命の支配者 |
 | char_4054_malist@summer#14 | 悠然假日 HDm74 | Holiday HDm74 | ホリデーHDm74 |
 | char_4055_bgsnow@wild#7 | 字句中的雪原 | Snowy Plains in Words | 行間にある雪原 |
+| char_4055_bgsnow@yun#7 | 行梦侧畔 | - | - |
 | char_405_absin@epoque#28 | 正午余光 | Noon Twilight | 真昼の残照 |
 | char_4062_totter@summer#17 | 灿阳朝露 SDm09 | Shining Dew SDm09 | 炎陽煌く露SDm09 |
 | char_4063_quartz@epoque#39 | 封面佣兵 | - | - |
@@ -1263,6 +1268,7 @@ tip: 请善用浏览器的搜索功能
 | char_4078_bdhkgt@yun#2 | 伴青莲 | Away From Dust | 青蓮の友 |
 | char_4079_haini@epoque#45 | 翻涌 | - | - |
 | char_4080_lin@nian#10 | 列瑶台 | Heavenly Mirage | 列瑶台 |
+| char_4080_lin@summer#19 | 夏卉 FA137 | - | - |
 | char_4081_warmy@winter#4 | 街角暖绒 | Warm Velvet At the Corner | 街角の温もり |
 | char_4082_qiubai@epoque#31 | 礼遇 | Courtesy | 礼をもって |
 | char_4082_qiubai@ncg#1 | 霜林醉 | Wine-flushed is Woods of Rime | 霜林酔 |
@@ -1296,6 +1302,7 @@ tip: 请善用浏览器的搜索功能
 | char_4136_phonor@boc#9 | 最初的颂歌 | - | - |
 | char_4137_udflow@epoque#46 | 层流 | - | - |
 | char_4141_marcil@dungeon#1 | 泰拉冒险 | Terra & Traveller | テラの冒険者 |
+| char_4145_ulpia@epoque#48 | 注目深渊 | - | - |
 | char_4146_nymph@epoque#42 | 甜美配方 | - | - |
 | char_4151_tinman@sale#11 | 相位面容 | Phase Face | フェーズフェイス |
 | char_415_flint@boc#3 | 绚烂夏花 | Gorgeous Flower | 紫藤繚乱 |
@@ -2807,6 +2814,7 @@ tip: 请善用浏览器的搜索功能
 | act18sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act18sre | 尘影余音·复刻 | Lingering Echoes - Rerun | 塵影に交わる残響・復刻 |
 | act19login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
+| act19mini | 镜中集 | - | - |
 | act19side | 绿野幻梦 | Dorothy's Vision | 翠玉の夢 |
 | act19sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act19sre | 绿野幻梦·复刻 | Dorothy's Vision - Retrospection | 翠玉の夢・復刻 |
@@ -3273,6 +3281,7 @@ Event | なないろのお茶会 |
 | act18mini_token_petals | 碎花瓣 | - | - |
 | act18side_token_pieces | 乐谱草稿 | Sheet Music | 手書きの楽譜 |
 | act18side_token_pieces_rep_1 | 乐谱草稿 | Sheet Music | 手書きの楽譜 |
+| act19mini_token_sweetie | “棠梨儿” | - | - |
 | act19side_token_reagents | 神秘试剂 | Mysterious Reagent | 謎の試薬 |
 | act19side_token_reagents_rep_1 | 神秘试剂 | Mysterious Reagent | 謎の試薬 |
 | act1arcade_milestone_point | 积点卡券 | Point Card | 景品チケット |
@@ -3717,6 +3726,7 @@ Event | なないろのお茶会 |
 | p_char_1040_blaze2 | 烛煌的信物 | - | - |
 | p_char_1041_angel2 | 新约能天使的信物 | - | - |
 | p_char_1042_phatm2 | 酒神的信物 | - | - |
+| p_char_1043_leizi2 | 司霆惊蛰的信物 | - | - |
 | p_char_106_franka | 芙兰卡的信物 | Franka's Token | フランカの印 |
 | p_char_107_liskam | 雷蛇的信物 | Liskarm's Token | リスカムの印 |
 | p_char_108_silent | 赫默的信物 | Silence's Token | サイレンスの印 |
@@ -4001,6 +4011,7 @@ Event | なないろのお茶会 |
 | p_char_4191_tippi | 蒂比的信物 | - | - |
 | p_char_4193_lemuen | 蕾缪安的信物 | - | - |
 | p_char_4194_rmixer | 信仰搅拌机的信物 | - | - |
+| p_char_4196_reckpr | 录武官的信物 | - | - |
 | p_char_4198_christ | Miss.Christine的信物 | - | - |
 | p_char_420_flamtl | 焰尾的信物 | Flametail's Token | フレイムテイルの印 |
 | p_char_421_crow | 羽毛笔的信物 | La Pluma's Token | ラ・プルマの印 |
@@ -4422,6 +4433,7 @@ Event | なないろのお茶会 |
 | SINGLE_60_0_3 | 如死亦终 | - | - |
 | SINGLE_62_0_1 | 永不落幕 | - | - |
 | SINGLE_62_0_3 | 沉向深渊的锚 | - | - |
+| SINGLE_63_0_1 | 青霆重明 | - | - |
 | SPECIAL_54_0_5 | 定向甄选 | - | - |
 | SPECIAL_59_0_3 | 定向甄选 | - | - |
 | SPECIAL_61_0_3 | 定向甄选 | - | - |
@@ -4940,6 +4952,9 @@ Event | なないろのお茶会 |
 | skchr_lasher_2 | 权知轻重 | Weighing the Scales | 天秤の持ち手 |
 | skchr_lava2_1 | 焰淬匕首 | Flame Quenched Dagger | フレイムエンチャント |
 | skchr_lava2_2 | 狱火之环 | Ring of Hellfire | プルガトリオ |
+| skchr_leizi2_1 | 浩气长存 | - | - |
+| skchr_leizi2_2 | 正霆摄威 | - | - |
+| skchr_leizi2_3 | 天地通明 | - | - |
 | skchr_leizi_2 | 初雷 | Thunderclap | 初雷 |
 | skchr_lemuen_1 | 重逢问候 | - | - |
 | skchr_lemuen_2 | 归乡邀约 | - | - |
@@ -5111,6 +5126,8 @@ Event | なないろのお茶会 |
 | skchr_ray_3 | “得见光芒” | 'See the Light' | 「求めた光」 |
 | skchr_rdoc_1 | 以暴制暴 | Violent Response | カウンターバイオレンス |
 | skchr_rdoc_2 | 激素手枪 | Stim Pistol | スティムピストル |
+| skchr_reckpr_1 | 触类旁通 | - | - |
+| skchr_reckpr_2 | 一点关窍 | - | - |
 | skchr_red_1 | 处决模式 | Execution Mode | 処刑の構え |
 | skchr_red_2 | 狼群 | Wolfpack | 群狼 |
 | skchr_reed2_2 | 枯荣共息 | Wither and Thrive | 盛衰を共に |
@@ -6244,6 +6261,16 @@ Event | なないろのお茶会 |
 | act18side_st03 | 自新大陆 | From the New World | 新世界より |
 | act18side_tr01 | 作品599 | Op. 599 | 作品599 |
 | act18side_tr02 | 作品849 | Op. 849 | 作品849 |
+| act19mini_01 | 求同则塞 | - | - |
+| act19mini_02 | 求异则悖 | - | - |
+| act19mini_03 | 求遐则失 | - | - |
+| act19mini_04 | 求迩则乱 | - | - |
+| act19mini_05 | 求缓则迟 | - | - |
+| act19mini_06 | 求速则贪 | - | - |
+| act19mini_07 | 求退则惘 | - | - |
+| act19mini_08 | 求进则愎 | - | - |
+| act19mini_s01 | 有求则苦 | - | - |
+| act19mini_s02 | 莫向外求 | - | - |
 | act19side_01 | 特里蒙街道 | Trimounts Streets | トリマウンツ街道 |
 | act19side_02 | 拓荒者小屋 | Pioneer Lodge | 開拓者の小屋 |
 | act19side_03 | 动力装甲 | Power Armor | パワードスーツ |
@@ -7541,6 +7568,7 @@ Event | なないろのお茶会 |
 | act18side_zone2 | 小巷深处 | Back Alleys | 暗き裏路地 |
 | act18sre_zone1 | 夕照大厅 | Afterglow Hall | 光差す音楽堂 |
 | act18sre_zone2 | 小巷深处 | Back Alleys | 暗き裏路地 |
+| act19mini_zone1 | 走入城市 | - | - |
 | act19side_zone1 | 实验基地 | Test Site | 実験基地 |
 | act19side_zone2 | 莱茵总部 | Rhine Headquarters | ライン生命本社 |
 | act19sre_zone1 | 实验基地 | Research Base | 実験基地 |
@@ -8027,7 +8055,9 @@ Event | なないろのお茶会 |
 | story_quartz_set_1_story_1 | 无需遗憾 | No Regrets | 惜しむ必要なし |
 | story_quercu_set_1_story_1 | 终途 | Final Moments | 終の道 |
 | story_quercu_set_2_story_1 | 生命的萌芽 | The Sprouts of Life | 命の芽吹き |
+| story_ray_set_1_story_1 | 夜晚荒漠上的鳞群 | - | - |
 | story_rdoc_set_1_story_1 | 模糊的面容 | Ambiguous Appearance | 朧げな面影 |
+| story_reckpr_set_1_story_1 | 何须剑 | - | - |
 | story_rfrost_set_1_story_1 | 寻乡 | Searching for Home | 故郷をたどって |
 | story_robin_set_1_story_1 | 冷暖自知 | - | - |
 | story_robrta_set_1_story_1 | 挽歌 | Elegy | 亡き者に捧ぐ歌 |
@@ -8035,6 +8065,7 @@ Event | なないろのお茶会 |
 | story_rope_set_1_story_1 | 鲜花香水 | Floral Perfume | フラワーパフューム |
 | story_rope_set_1_story_2 | 鲜花香水 | Floral Perfume | フラワーパフューム |
 | story_rosesa_set_1_story_1 | 梦想中的好生活 | Dreaming of the Good Life | 夢に見た素敵な暮らし |
+| story_saga_set_1_story_1 | 未必空 | - | - |
 | story_savage_set_1_story_1 | 沉痛转机 | Painful Reversal | 痛ましい転機 |
 | story_savage_set_2_story_1 | 自有一“派” | No Less Than a Pie | パイはいかが？ |
 | story_savage_set_2_story_2 | 自有一“派” | No Less Than a Pie | パイはいかが？ |
@@ -8087,6 +8118,7 @@ Event | なないろのお茶会 |
 | story_therex_set_1_story_1 | 炙热冲击！ | Scorching-Hot Assault! | 灼熱のエネルギーショック！ |
 | story_thorns_set_1_story_1 | 纪念日 | Anniversary | 記念日 |
 | story_tiger_set_1_story_1 | 干员间切磋指南 | The Guide to Mutual Learning | 手合わせマニュアル |
+| story_tinman_set_1_story_1 | 最后一案 | - | - |
 | story_tknogi_set_1_story_1 | 寻常夕阳 | An Ordinary Sunset | いつもの夕日 |
 | story_toddi_set_1_story_1 | 装甲与重弩 | Armor and Crossbow | 装甲と重弩 |
 | story_tomimi_set_1_story_1 | 崭新生活 | Brand New Life | 新たな生活 |

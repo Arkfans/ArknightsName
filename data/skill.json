@@ -1925,6 +1925,15 @@
     "ja_JP": "プルガトリオ",
     "zh_CN": "狱火之环"
   },
+  "skchr_leizi2_1": {
+    "zh_CN": "浩气长存"
+  },
+  "skchr_leizi2_2": {
+    "zh_CN": "正霆摄威"
+  },
+  "skchr_leizi2_3": {
+    "zh_CN": "天地通明"
+  },
   "skchr_leizi_2": {
     "en_US": "Thunderclap",
     "ja_JP": "初雷",
@@ -2751,6 +2760,12 @@
     "en_US": "Stim Pistol",
     "ja_JP": "スティムピストル",
     "zh_CN": "激素手枪"
+  },
+  "skchr_reckpr_1": {
+    "zh_CN": "触类旁通"
+  },
+  "skchr_reckpr_2": {
+    "zh_CN": "一点关窍"
   },
   "skchr_red_1": {
     "en_US": "Execution Mode",
