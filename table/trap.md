@@ -276,6 +276,11 @@ tip: 请善用浏览器的搜索功能
 | trap_219_fttreant | 盾与墙 | - | - |
 | trap_220_ftbone | 旧日之火 | - | - |
 | trap_221_ftshad | 空壳 | - | - |
+| trap_222_rgdysm | 雕伥 | - | - |
+| trap_223_dynbox | 宝葫芦 | - | - |
+| trap_224_dyrbox | 铁葫芦 | - | - |
+| trap_225_dysbox | 怪葫芦 | - | - |
+| trap_226_dychss | 瑕 | - | - |
 | trap_227_mpweak | 弱化节点 | - | - |
 | trap_228_mptxs | 特雷西斯 | - | - |
 | trap_229_mpcata | 冰镇饮料机 | - | - |
@@ -287,9 +292,14 @@ tip: 请善用浏览器的搜索功能
 | trap_235_hlnpcm | 圣徒像扮演者 | - | - |
 | trap_236_hlnpcs | 圣堂射手扮演者 | - | - |
 | trap_237_hlnpcb | 圣堂保育员扮演者 | - | - |
+| trap_238_dydfst | 明烛台 | - | - |
+| trap_239_dyffgd | 狭路相逢 | - | - |
+| trap_240_dyffdd | 狭路相逢 | - | - |
+| trap_241_dyldlz | 聚宝斋 | - | - |
 | trap_247_crfilm | 摄影机 | - | - |
 | trap_248_crprop | 打光道具 | - | - |
 | trap_250_hlctrl | 寻根圣事 | - | - |
+| trap_251_buftrp | 遗物中枢 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |
 | trap_401_xbfato | 木材采集站 | Sawing Harvester Hub | 木材採取基地 |
 | trap_403_wfactory | 蟹蟹抽水泵 | Crabbie Pumpie | カニカニポンプ |

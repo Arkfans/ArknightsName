@@ -1310,6 +1310,21 @@
   "trap_221_ftshad": {
     "zh_CN": "空壳"
   },
+  "trap_222_rgdysm": {
+    "zh_CN": "雕伥"
+  },
+  "trap_223_dynbox": {
+    "zh_CN": "宝葫芦"
+  },
+  "trap_224_dyrbox": {
+    "zh_CN": "铁葫芦"
+  },
+  "trap_225_dysbox": {
+    "zh_CN": "怪葫芦"
+  },
+  "trap_226_dychss": {
+    "zh_CN": "瑕"
+  },
   "trap_227_mpweak": {
     "zh_CN": "弱化节点"
   },
@@ -1343,6 +1358,18 @@
   "trap_237_hlnpcb": {
     "zh_CN": "圣堂保育员扮演者"
   },
+  "trap_238_dydfst": {
+    "zh_CN": "明烛台"
+  },
+  "trap_239_dyffgd": {
+    "zh_CN": "狭路相逢"
+  },
+  "trap_240_dyffdd": {
+    "zh_CN": "狭路相逢"
+  },
+  "trap_241_dyldlz": {
+    "zh_CN": "聚宝斋"
+  },
   "trap_247_crfilm": {
     "zh_CN": "摄影机"
   },
@@ -1351,6 +1378,9 @@
   },
   "trap_250_hlctrl": {
     "zh_CN": "寻根圣事"
+  },
+  "trap_251_buftrp": {
+    "zh_CN": "遗物中枢"
   },
   "trap_400_xbfarm": {
     "en_US": "Portable Planting Trough",

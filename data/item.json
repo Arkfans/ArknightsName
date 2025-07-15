@@ -4725,6 +4725,9 @@
   "p_char_4194_rmixer": {
     "zh_CN": "信仰搅拌机的信物"
   },
+  "p_char_4195_radian": {
+    "zh_CN": "电弧的信物"
+  },
   "p_char_4196_reckpr": {
     "zh_CN": "录武官的信物"
   },
@@ -5289,10 +5292,19 @@
     "ja_JP": "散逸した思案",
     "zh_CN": "散佚迷思"
   },
+  "rogue_5_token_bp": {
+    "zh_CN": "迷路幼伥"
+  },
+  "rogue_5_token_grow": {
+    "zh_CN": "失落智识"
+  },
   "sandbox_1_tokencoin": {
     "en_US": "Prosperity Point",
     "ja_JP": "繁栄ポイント",
     "zh_CN": "繁荣点数"
+  },
+  "so_char_exp_1": {
+    "zh_CN": "特勤作战记录"
   },
   "tier1_caster": {
     "en_US": "Replicated Caster Token",

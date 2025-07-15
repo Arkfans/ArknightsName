@@ -983,6 +983,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4191_tippi | 蒂比的信物 | - | - |
 | p_char_4193_lemuen | 蕾缪安的信物 | - | - |
 | p_char_4194_rmixer | 信仰搅拌机的信物 | - | - |
+| p_char_4195_radian | 电弧的信物 | - | - |
 | p_char_4196_reckpr | 录武官的信物 | - | - |
 | p_char_4198_christ | Miss.Christine的信物 | - | - |
 | p_char_420_flamtl | 焰尾的信物 | Flametail's Token | フレイムテイルの印 |
@@ -1099,7 +1100,10 @@ tip: 请善用浏览器的搜索功能
 | rogue_3_token_grow | 理性视阈 | Lucid Acuity | 理性的視野 |
 | rogue_4_token_bp | 魂灵书签 | Soul Bookmark | 魂のしおり |
 | rogue_4_token_grow | 散佚迷思 | Stray Myths | 散逸した思案 |
+| rogue_5_token_bp | 迷路幼伥 | - | - |
+| rogue_5_token_grow | 失落智识 | - | - |
 | sandbox_1_tokencoin | 繁荣点数 | Prosperity Point | 繁栄ポイント |
+| so_char_exp_1 | 特勤作战记录 | - | - |
 | tier1_caster | 术师信物复制品 | Replicated Caster Token | ★1術師の印 |
 | tier1_guard | 近卫信物复制品 | Replicated Guard Token | ★1前衛の印 |
 | tier1_medic | 医疗信物复制品 | Replicated Medic Token | ★1医療の印 |

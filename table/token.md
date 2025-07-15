@@ -57,6 +57,9 @@ tip: 请善用浏览器的搜索功能
 | token_10044_wulfen_mine | 矿石“杀手” | - | - |
 | token_10045_alanna_crane | 小螺帽 | - | - |
 | token_10050_monstr_prosts | 重构体 | - | - |
+| token_10051_radian_tower1 | 戴乌 | - | - |
+| token_10052_radian_tower2 | 赛柯 | - | - |
+| token_10053_radian_tower3 | 桑特拉 | - | - |
 | token_10054_phatm2_encdool | 本能的召唤 | - | - |
 | token_10055_phatm2_mndclv | 迷狂牢笼 | - | - |
 | token_10056_angel2_target | 投递坐标 | - | - |

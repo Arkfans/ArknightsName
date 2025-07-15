@@ -328,6 +328,7 @@ tip: 请善用浏览器的搜索功能
 | char_4191_tippi | 蒂比 | - | - |
 | char_4193_lemuen | 蕾缪安 | - | - |
 | char_4194_rmixer | 信仰搅拌机 | - | - |
+| char_4195_radian | 电弧 | - | - |
 | char_4196_reckpr | 录武官 | - | - |
 | char_4198_christ | Miss.Christine | - | - |
 | char_420_flamtl | 焰尾 | Flametail | フレイムテイル |

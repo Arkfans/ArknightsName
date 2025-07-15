@@ -1185,6 +1185,28 @@ tip: 请善用浏览器的搜索功能
 | enemy_2098_skzftx | 特雷西斯，黑冠尊主 | Theresis, Black Crowned Lord | 「黒き王冠の主」テレシス |
 | enemy_2099_skzfkl | 奎隆，摩诃萨埵权化 | Qui'lon, Avatar of the Mahasattva | 「摩訶薩の権化」クイロン |
 | enemy_2100_skzfmf | 曼弗雷德 | Manfred | Manfred |
+| enemy_2101_dyspll | 便符 | - | - |
+| enemy_2102_dytmbr | 皮书生 | - | - |
+| enemy_2103_dykens | 平剑客 | - | - |
+| enemy_2104_dycast | 靳天师 | - | - |
+| enemy_2105_dyrnge | 似兽 | - | - |
+| enemy_2106_dyremy | 怪葫芦 | - | - |
+| enemy_2107_dycant | 坎某人 | - | - |
+| enemy_2108_dypryg | 夕娥 | - | - |
+| enemy_2109_dypry2 | 双月共主 | - | - |
+| enemy_2110_dyyrzf | 炭长矛 | - | - |
+| enemy_2111_dyyrz2 | 桓君 | - | - |
+| enemy_2112_dyhlgy | 枣大刀 | - | - |
+| enemy_2113_dyhlg2 | 文衡君 | - | - |
+| enemy_2114_dylbgg | 玉双剑 | - | - |
+| enemy_2115_dylbg2 | 昭烈君 | - | - |
+| enemy_2116_dyyysg | 师祖 | - | - |
+| enemy_2117_dyyys2 | 太公 | - | - |
+| enemy_2118_dylbhm | 易 | - | - |
+| enemy_2119_dyshhj | “岁” | - | - |
+| enemy_2119_dyshhj_2 | “岁躯” | - | - |
+| enemy_2120_dywqgs | “望” | - | - |
+| enemy_2122_dybgzd | 梁 | - | - |
 | enemy_3001_upeopl | 乌萨斯平民 | Ursus Civilian | ウルサス民間人 |
 | enemy_3002_ftrtal | 斗士塔露拉 | Talulah, the Fighter | 闘士タルラ |
 | enemy_3003_alymot | 大奖赛运输艇 | Competition Transport Vessel | 大会輸送艇 |

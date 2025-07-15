@@ -2736,6 +2736,15 @@
     "ja_JP": "生命の木霊",
     "zh_CN": "生灵的回响"
   },
+  "skchr_radian_1": {
+    "zh_CN": "律动线"
+  },
+  "skchr_radian_2": {
+    "zh_CN": "环形鳞地"
+  },
+  "skchr_radian_3": {
+    "zh_CN": "手牵手"
+  },
   "skchr_ray_1": {
     "en_US": "Parting Shot",
     "ja_JP": "スラストショット",
@@ -5072,6 +5081,33 @@
     "ja_JP": "進路妨害",
     "zh_CN": "阻挡路线"
   },
+  "sktok_dydfst_1": {
+    "zh_CN": "谤天"
+  },
+  "sktok_dydfst_2": {
+    "zh_CN": "迎雷"
+  },
+  "sktok_dydfst_3": {
+    "zh_CN": "蔑震"
+  },
+  "sktok_dydfst_4": {
+    "zh_CN": "赴陨"
+  },
+  "sktok_dydfst_5": {
+    "zh_CN": "斥洪"
+  },
+  "sktok_dyldlz": {
+    "zh_CN": "聚宝斋"
+  },
+  "sktok_dynbox": {
+    "zh_CN": "诱人珍宝"
+  },
+  "sktok_dyrbox": {
+    "zh_CN": "刺人珍宝"
+  },
+  "sktok_dysbox": {
+    "zh_CN": "极诱人珍宝"
+  },
   "sktok_ebnhlz_token": {
     "en_US": "Flashback",
     "ja_JP": "フラッシュバック",
@@ -5677,6 +5713,15 @@
     "ja_JP": "ガス噴射",
     "zh_CN": "气体爆喷"
   },
+  "sktok_radian_1": {
+    "zh_CN": "律动线"
+  },
+  "sktok_radian_2": {
+    "zh_CN": "环形鳞地"
+  },
+  "sktok_radian_3": {
+    "zh_CN": "手牵手"
+  },
   "sktok_rarebox": {
     "en_US": "More Alluring Treasures",
     "ja_JP": "財宝の蠱惑",
@@ -5736,6 +5781,9 @@
     "en_US": "Incapacitated Prey",
     "ja_JP": "リーサルパシュート",
     "zh_CN": "击倒猎物"
+  },
+  "sktok_rgdysm_1": {
+    "zh_CN": "雕伥"
   },
   "sktok_rmtarmn_1": {
     "en_US": "Research Success",

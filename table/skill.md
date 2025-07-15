@@ -566,6 +566,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_quartz_2 | 全力相搏 | All-Out Clash | フルスイング |
 | skchr_quercu_1 | 大地的慈悲 | Earth's Benevolence | 大地の慈悲 |
 | skchr_quercu_2 | 生灵的回响 | Echo of Life | 生命の木霊 |
+| skchr_radian_1 | 律动线 | - | - |
+| skchr_radian_2 | 环形鳞地 | - | - |
+| skchr_radian_3 | 手牵手 | - | - |
 | skchr_ray_1 | 脱身矢 | Parting Shot | スラストショット |
 | skchr_ray_2 | 广域警觉 | Area Overwatch | 広域警戒 |
 | skchr_ray_3 | “得见光芒” | 'See the Light' | 「求めた光」 |
@@ -1044,6 +1047,15 @@ tip: 请善用浏览器的搜索功能
 | sktok_duelwal | 狭路相逢 | Face to Face | 隘路の衝突 |
 | sktok_dupilr | 支柱坍塌 | Collapsing Pillar | 倒壊 |
 | sktok_duruin | 阻挡路线 | Obstruct | 進路妨害 |
+| sktok_dydfst_1 | 谤天 | - | - |
+| sktok_dydfst_2 | 迎雷 | - | - |
+| sktok_dydfst_3 | 蔑震 | - | - |
+| sktok_dydfst_4 | 赴陨 | - | - |
+| sktok_dydfst_5 | 斥洪 | - | - |
+| sktok_dyldlz | 聚宝斋 | - | - |
+| sktok_dynbox | 诱人珍宝 | - | - |
+| sktok_dyrbox | 刺人珍宝 | - | - |
+| sktok_dysbox | 极诱人珍宝 | - | - |
 | sktok_ebnhlz_token | 闪回 | Flashback | フラッシュバック |
 | sktok_edd | 布雷 | Lay Mines | トラップ設置 |
 | sktok_ela_1 | 眩目阻滞 | Optical Interference | 視界遮断 |
@@ -1175,6 +1187,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_portlexi | 创生 | Creation | 創生 |
 | sktok_prison | 启动禁锢！ | Lock 'em Up! | 禁固機能起動！ |
 | sktok_pushtw | 气体爆喷 | Air Burst | ガス噴射 |
+| sktok_radian_1 | 律动线 | - | - |
+| sktok_radian_2 | 环形鳞地 | - | - |
+| sktok_radian_3 | 手牵手 | - | - |
 | sktok_rarebox | 更诱人珍宝 | More Alluring Treasures | 財宝の蠱惑 |
 | sktok_ray_2 | 广域警觉 | Area Overwatch | 広域警戒 |
 | sktok_rdblock | 阻拦 | Intercept | 障害物 |
@@ -1187,6 +1202,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_revivecard | 回召 | Recall | 召還 |
 | sktok_rfrost_1 | 陷阱部署 | Trap Deployment | トラップセット |
 | sktok_rfrost_2 | 击倒猎物 | Incapacitated Prey | リーサルパシュート |
+| sktok_rgdysm_1 | 雕伥 | - | - |
 | sktok_rmtarmn_1 | 研究成功 | Research Success | 研究成功 |
 | sktok_rmtarms_1 | 研究成功 | Research Success | 研究成功 |
 | sktok_rnfcar | 加固 | Reinforce | 補強 |

@@ -328,6 +328,7 @@ tip: 请善用浏览器的搜索功能
 | char_4191_tippi | 蒂比 | - | - |
 | char_4193_lemuen | 蕾缪安 | - | - |
 | char_4194_rmixer | 信仰搅拌机 | - | - |
+| char_4195_radian | 电弧 | - | - |
 | char_4196_reckpr | 录武官 | - | - |
 | char_4198_christ | Miss.Christine | - | - |
 | char_420_flamtl | 焰尾 | Flametail | フレイムテイル |
@@ -460,6 +461,9 @@ tip: 请善用浏览器的搜索功能
 | token_10044_wulfen_mine | 矿石“杀手” | - | - |
 | token_10045_alanna_crane | 小螺帽 | - | - |
 | token_10050_monstr_prosts | 重构体 | - | - |
+| token_10051_radian_tower1 | 戴乌 | - | - |
+| token_10052_radian_tower2 | 赛柯 | - | - |
+| token_10053_radian_tower3 | 桑特拉 | - | - |
 | token_10054_phatm2_encdool | 本能的召唤 | - | - |
 | token_10055_phatm2_mndclv | 迷狂牢笼 | - | - |
 | token_10056_angel2_target | 投递坐标 | - | - |
@@ -735,6 +739,11 @@ tip: 请善用浏览器的搜索功能
 | trap_219_fttreant | 盾与墙 | - | - |
 | trap_220_ftbone | 旧日之火 | - | - |
 | trap_221_ftshad | 空壳 | - | - |
+| trap_222_rgdysm | 雕伥 | - | - |
+| trap_223_dynbox | 宝葫芦 | - | - |
+| trap_224_dyrbox | 铁葫芦 | - | - |
+| trap_225_dysbox | 怪葫芦 | - | - |
+| trap_226_dychss | 瑕 | - | - |
 | trap_227_mpweak | 弱化节点 | - | - |
 | trap_228_mptxs | 特雷西斯 | - | - |
 | trap_229_mpcata | 冰镇饮料机 | - | - |
@@ -746,9 +755,14 @@ tip: 请善用浏览器的搜索功能
 | trap_235_hlnpcm | 圣徒像扮演者 | - | - |
 | trap_236_hlnpcs | 圣堂射手扮演者 | - | - |
 | trap_237_hlnpcb | 圣堂保育员扮演者 | - | - |
+| trap_238_dydfst | 明烛台 | - | - |
+| trap_239_dyffgd | 狭路相逢 | - | - |
+| trap_240_dyffdd | 狭路相逢 | - | - |
+| trap_241_dyldlz | 聚宝斋 | - | - |
 | trap_247_crfilm | 摄影机 | - | - |
 | trap_248_crprop | 打光道具 | - | - |
 | trap_250_hlctrl | 寻根圣事 | - | - |
+| trap_251_buftrp | 遗物中枢 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |
 | trap_401_xbfato | 木材采集站 | Sawing Harvester Hub | 木材採取基地 |
 | trap_403_wfactory | 蟹蟹抽水泵 | Crabbie Pumpie | カニカニポンプ |
@@ -2562,6 +2576,28 @@ tip: 请善用浏览器的搜索功能
 | enemy_2098_skzftx | 特雷西斯，黑冠尊主 | Theresis, Black Crowned Lord | 「黒き王冠の主」テレシス |
 | enemy_2099_skzfkl | 奎隆，摩诃萨埵权化 | Qui'lon, Avatar of the Mahasattva | 「摩訶薩の権化」クイロン |
 | enemy_2100_skzfmf | 曼弗雷德 | Manfred | Manfred |
+| enemy_2101_dyspll | 便符 | - | - |
+| enemy_2102_dytmbr | 皮书生 | - | - |
+| enemy_2103_dykens | 平剑客 | - | - |
+| enemy_2104_dycast | 靳天师 | - | - |
+| enemy_2105_dyrnge | 似兽 | - | - |
+| enemy_2106_dyremy | 怪葫芦 | - | - |
+| enemy_2107_dycant | 坎某人 | - | - |
+| enemy_2108_dypryg | 夕娥 | - | - |
+| enemy_2109_dypry2 | 双月共主 | - | - |
+| enemy_2110_dyyrzf | 炭长矛 | - | - |
+| enemy_2111_dyyrz2 | 桓君 | - | - |
+| enemy_2112_dyhlgy | 枣大刀 | - | - |
+| enemy_2113_dyhlg2 | 文衡君 | - | - |
+| enemy_2114_dylbgg | 玉双剑 | - | - |
+| enemy_2115_dylbg2 | 昭烈君 | - | - |
+| enemy_2116_dyyysg | 师祖 | - | - |
+| enemy_2117_dyyys2 | 太公 | - | - |
+| enemy_2118_dylbhm | 易 | - | - |
+| enemy_2119_dyshhj | “岁” | - | - |
+| enemy_2119_dyshhj_2 | “岁躯” | - | - |
+| enemy_2120_dywqgs | “望” | - | - |
+| enemy_2122_dybgzd | 梁 | - | - |
 | enemy_3001_upeopl | 乌萨斯平民 | Ursus Civilian | ウルサス民間人 |
 | enemy_3002_ftrtal | 斗士塔露拉 | Talulah, the Fighter | 闘士タルラ |
 | enemy_3003_alymot | 大奖赛运输艇 | Competition Transport Vessel | 大会輸送艇 |
@@ -4011,6 +4047,7 @@ Event | なないろのお茶会 |
 | p_char_4191_tippi | 蒂比的信物 | - | - |
 | p_char_4193_lemuen | 蕾缪安的信物 | - | - |
 | p_char_4194_rmixer | 信仰搅拌机的信物 | - | - |
+| p_char_4195_radian | 电弧的信物 | - | - |
 | p_char_4196_reckpr | 录武官的信物 | - | - |
 | p_char_4198_christ | Miss.Christine的信物 | - | - |
 | p_char_420_flamtl | 焰尾的信物 | Flametail's Token | フレイムテイルの印 |
@@ -4127,7 +4164,10 @@ Event | なないろのお茶会 |
 | rogue_3_token_grow | 理性视阈 | Lucid Acuity | 理性的視野 |
 | rogue_4_token_bp | 魂灵书签 | Soul Bookmark | 魂のしおり |
 | rogue_4_token_grow | 散佚迷思 | Stray Myths | 散逸した思案 |
+| rogue_5_token_bp | 迷路幼伥 | - | - |
+| rogue_5_token_grow | 失落智识 | - | - |
 | sandbox_1_tokencoin | 繁荣点数 | Prosperity Point | 繁栄ポイント |
+| so_char_exp_1 | 特勤作战记录 | - | - |
 | tier1_caster | 术师信物复制品 | Replicated Caster Token | ★1術師の印 |
 | tier1_guard | 近卫信物复制品 | Replicated Guard Token | ★1前衛の印 |
 | tier1_medic | 医疗信物复制品 | Replicated Medic Token | ★1医療の印 |
@@ -5121,6 +5161,9 @@ Event | なないろのお茶会 |
 | skchr_quartz_2 | 全力相搏 | All-Out Clash | フルスイング |
 | skchr_quercu_1 | 大地的慈悲 | Earth's Benevolence | 大地の慈悲 |
 | skchr_quercu_2 | 生灵的回响 | Echo of Life | 生命の木霊 |
+| skchr_radian_1 | 律动线 | - | - |
+| skchr_radian_2 | 环形鳞地 | - | - |
+| skchr_radian_3 | 手牵手 | - | - |
 | skchr_ray_1 | 脱身矢 | Parting Shot | スラストショット |
 | skchr_ray_2 | 广域警觉 | Area Overwatch | 広域警戒 |
 | skchr_ray_3 | “得见光芒” | 'See the Light' | 「求めた光」 |
@@ -5599,6 +5642,15 @@ Event | なないろのお茶会 |
 | sktok_duelwal | 狭路相逢 | Face to Face | 隘路の衝突 |
 | sktok_dupilr | 支柱坍塌 | Collapsing Pillar | 倒壊 |
 | sktok_duruin | 阻挡路线 | Obstruct | 進路妨害 |
+| sktok_dydfst_1 | 谤天 | - | - |
+| sktok_dydfst_2 | 迎雷 | - | - |
+| sktok_dydfst_3 | 蔑震 | - | - |
+| sktok_dydfst_4 | 赴陨 | - | - |
+| sktok_dydfst_5 | 斥洪 | - | - |
+| sktok_dyldlz | 聚宝斋 | - | - |
+| sktok_dynbox | 诱人珍宝 | - | - |
+| sktok_dyrbox | 刺人珍宝 | - | - |
+| sktok_dysbox | 极诱人珍宝 | - | - |
 | sktok_ebnhlz_token | 闪回 | Flashback | フラッシュバック |
 | sktok_edd | 布雷 | Lay Mines | トラップ設置 |
 | sktok_ela_1 | 眩目阻滞 | Optical Interference | 視界遮断 |
@@ -5730,6 +5782,9 @@ Event | なないろのお茶会 |
 | sktok_portlexi | 创生 | Creation | 創生 |
 | sktok_prison | 启动禁锢！ | Lock 'em Up! | 禁固機能起動！ |
 | sktok_pushtw | 气体爆喷 | Air Burst | ガス噴射 |
+| sktok_radian_1 | 律动线 | - | - |
+| sktok_radian_2 | 环形鳞地 | - | - |
+| sktok_radian_3 | 手牵手 | - | - |
 | sktok_rarebox | 更诱人珍宝 | More Alluring Treasures | 財宝の蠱惑 |
 | sktok_ray_2 | 广域警觉 | Area Overwatch | 広域警戒 |
 | sktok_rdblock | 阻拦 | Intercept | 障害物 |
@@ -5742,6 +5797,7 @@ Event | なないろのお茶会 |
 | sktok_revivecard | 回召 | Recall | 召還 |
 | sktok_rfrost_1 | 陷阱部署 | Trap Deployment | トラップセット |
 | sktok_rfrost_2 | 击倒猎物 | Incapacitated Prey | リーサルパシュート |
+| sktok_rgdysm_1 | 雕伥 | - | - |
 | sktok_rmtarmn_1 | 研究成功 | Research Success | 研究成功 |
 | sktok_rmtarms_1 | 研究成功 | Research Success | 研究成功 |
 | sktok_rnfcar | 加固 | Reinforce | 補強 |
@@ -8150,3 +8206,4 @@ Event | なないろのお茶会 |
 | rogue_2 | 水月与深蓝之树 | Mizuki & Caerula Arbor | ミヅキと紺碧の樹 |
 | rogue_3 | 探索者的银凇止境 | Expeditioner's Jǫklumarkar | 探索者と銀氷の果て |
 | rogue_4 | 萨卡兹的无终奇语 | Sarkaz's Furnaceside Fables | サルカズの炉辺奇談 |
+| rogue_5 | 岁的界园志异 | - | - |
