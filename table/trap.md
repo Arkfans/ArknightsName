@@ -266,8 +266,8 @@ tip: 请善用浏览器的搜索功能
 | trap_208_mufrst | 混凝土路障  | - | - |
 | trap_209_mufrbs | 便携健身架 | - | - |
 | trap_210_arcgrg | 两栖码头 | Amphibious Dock | 水陸両用埠頭 |
-| trap_211_cjgtow | 火灶 | - | 竈台 |
-| trap_212_cjbtow | 废弃火灶 | - | 破棄された竈台 |
+| trap_211_cjgtow | 火灶 | Stove | 竈台 |
+| trap_212_cjbtow | 废弃火灶 | Derelict Stove | 破棄された竈台 |
 | trap_213_dqore | 源石祭坛 | - | - |
 | trap_214_dqballis | 弩炮 | - | - |
 | trap_215_dqcrsbow | 解雇者清债程序 | - | - |

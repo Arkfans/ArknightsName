@@ -193,9 +193,9 @@ tip: 请善用浏览器的搜索功能
 | act39side_zone1 | 盐漠开航 | Across the Salt Flat | 塩海横断 |
 | act39side_zone2 | 穿越骸礁 | Through the Skeletal Reef | 骸礁突破 |
 | act3bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
-| act40side_zone1 | 识七味 | - | 識七味 |
-| act40side_zone2 | 阅世情 | - | 閲世情 |
-| act40side_zone3 | 怅别离 | - | 悵別離 |
+| act40side_zone1 | 识七味 | Flavor of Food | 識七味 |
+| act40side_zone2 | 阅世情 | Flavor of Life | 閲世情 |
+| act40side_zone3 | 怅别离 | Farewell, Loved Ones | 悵別離 |
 | act41side_zone1 | 摇曳的影 | - | - |
 | act41side_zone2 | 将熄的火 | - | - |
 | act42side_zone1 | 瞻望圣堂 | - | - |

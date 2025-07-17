@@ -324,6 +324,10 @@
     ]
   },
   "avg_1040_blaze2_1": {
+    "en_US": [
+      "Blaze",
+      "Victorian Tourist?"
+    ],
     "ja_JP": [
       "ホァン",
       "ヴィクトリアの観光客？"
@@ -921,6 +925,7 @@
       "Indistinct Woman",
       "Kind Woman",
       "Passing Nongye Tianshi",
+      "Passing Xian",
       "Shu"
     ],
     "ja_JP": [
@@ -941,6 +946,11 @@
     ]
   },
   "avg_2026_yu_1": {
+    "en_US": [
+      "Irritable Youth",
+      "Young Chef",
+      "Yu"
+    ],
     "ja_JP": [
       "ユー",
       "小さな料理長",
@@ -2467,6 +2477,7 @@
   },
   "avg_4122_grabds_1": {
     "en_US": [
+      "Girl Passing By",
       "Grain Buds",
       "Mischievous Girl"
     ],
@@ -2825,6 +2836,13 @@
     ]
   },
   "avg_4172_xingzh_1": {
+    "en_US": [
+      "Anxious Lady",
+      "Elegant Woman",
+      "Ning Yin",
+      "Patrolling Soldier",
+      "Xingzhu"
+    ],
     "ja_JP": [
       "シィンズゥ",
       "ニン・イン",
@@ -4712,6 +4730,7 @@
     "en_US": [
       "Cadeddu",
       "Calm Hitman",
+      "Fat Kwan",
       "Fierce-looking Char Siu Member",
       "Flippant Security Guard",
       "Gang Member",
@@ -4801,6 +4820,7 @@
       "Female Passerby",
       "Female Resident",
       "Female Tourist",
+      "Frightened Woman",
       "Girl",
       "Overfamiliar Woman",
       "Passerby Diner",
@@ -4910,6 +4930,7 @@
       "Excited Fan",
       "Excited Youth",
       "Flower Shop Owner",
+      "Gui",
       "Hapless Man",
       "Host",
       "Infected Slum Dweller",
@@ -5050,6 +5071,7 @@
       "'Sandstorm Rudes'",
       "Emperor",
       "Lin",
+      "Lin Kojui",
       "Master Lin",
       "Master Lin?",
       "Old Man",
@@ -5240,7 +5262,8 @@
       "Dora..",
       "Gianna",
       "Lara",
-      "Little Girl"
+      "Little Girl",
+      "Timid Child"
     ],
     "ja_JP": [
       "ジェンナ",
@@ -6556,6 +6579,7 @@
     "en_US": [
       "Alsu",
       "Devout Follower",
+      "Nervous Old Man",
       "Old Man",
       "Old Villager"
     ],
@@ -7828,6 +7852,7 @@
   },
   "avg_npc_1163_1": {
     "en_US": [
+      "Blocking Burdenbeast",
       "Burdenbeast",
       "Burdenbeast by the Fire",
       "Docile Burdenbeast",
@@ -8167,6 +8192,7 @@
       "Astute Merchant",
       "Caravan Leader",
       "Ji",
+      "Sharp Dressed Man",
       "Well-Dressed Man"
     ],
     "ja_JP": [
@@ -8305,13 +8331,16 @@
   },
   "avg_npc_1244_1": {
     "en_US": [
+      "Blocking Stockbeast",
       "Docile Stockbeast",
       "Eerie Fabric",
+      "Grain Buds",
       "Mianmian",
       "Passing Stockbeast",
       "Stockbeast's Voice",
       "Strange Fabric",
-      "Stray Stockbeast"
+      "Stray Stockbeast",
+      "Young Farmer"
     ],
     "ja_JP": [
       "おとなしい牧獣",
@@ -8391,7 +8420,8 @@
   },
   "avg_npc_1248_1": {
     "en_US": [
-      "Agitated Nongye Tianshi"
+      "Agitated Nongye Tianshi",
+      "Displeased Nongye Tianshi"
     ],
     "ja_JP": [
       "不機嫌な農業天師",
@@ -9618,6 +9648,7 @@
       "Farmer",
       "First Apprentice",
       "Frenetic Villager",
+      "Gui",
       "Humble Worker",
       "Innkeeper",
       "Nervous Villager",
@@ -11112,6 +11143,9 @@
     ]
   },
   "avg_npc_1612_1": {
+    "en_US": [
+      "Lin Qingyan"
+    ],
     "ja_JP": [
       "リン・チンイェン"
     ],
@@ -11120,6 +11154,9 @@
     ]
   },
   "avg_npc_1613_1": {
+    "en_US": [
+      "Chen Che"
+    ],
     "ja_JP": [
       "チェン・チョー"
     ],
@@ -11128,6 +11165,11 @@
     ]
   },
   "avg_npc_1614_1": {
+    "en_US": [
+      "Kind Old Man",
+      "Ning Shu",
+      "Silent Old Man"
+    ],
     "ja_JP": [
       "ニン・シュー",
       "寡黙な老人",
@@ -11140,6 +11182,10 @@
     ]
   },
   "avg_npc_1615_1": {
+    "en_US": [
+      "Imposing Woman",
+      "Junior Drillmaster"
+    ],
     "ja_JP": [
       "「禁軍の若き教官」",
       "凛々しい女性"
@@ -11150,6 +11196,11 @@
     ]
   },
   "avg_npc_1616_1": {
+    "en_US": [
+      "Agitated Man",
+      "Anxious Man",
+      "Gu Quan"
+    ],
     "ja_JP": [
       "うろたえる男",
       "グー・チュエン",
@@ -11162,6 +11213,9 @@
     ]
   },
   "avg_npc_1617_1": {
+    "en_US": [
+      "Yu Cheng"
+    ],
     "ja_JP": [
       "ユー・チェン"
     ],
@@ -11170,6 +11224,9 @@
     ]
   },
   "avg_npc_1618_1": {
+    "en_US": [
+      "Jie Zhen"
+    ],
     "ja_JP": [
       "シエ・ジェン"
     ],
@@ -11178,6 +11235,9 @@
     ]
   },
   "avg_npc_1619_1": {
+    "en_US": [
+      "Mo Bufu"
+    ],
     "ja_JP": [
       "モー・ブフー"
     ],
@@ -11186,6 +11246,10 @@
     ]
   },
   "avg_npc_1620_1": {
+    "en_US": [
+      "Professor Jing",
+      "Stern Professor"
+    ],
     "ja_JP": [
       "ジィン教授",
       "厳格な教授"
@@ -11196,6 +11260,9 @@
     ]
   },
   "avg_npc_1621_1": {
+    "en_US": [
+      "Jiang"
+    ],
     "ja_JP": [
       "ジャン"
     ],
@@ -11204,6 +11271,9 @@
     ]
   },
   "avg_npc_1622_1": {
+    "en_US": [
+      "Diligent Student"
+    ],
     "ja_JP": [
       "真面目な学生"
     ],
@@ -11224,6 +11294,9 @@
     ]
   },
   "avg_npc_1627_1": {
+    "en_US": [
+      "Freezing Scholar"
+    ],
     "ja_JP": [
       "寒さに震える書生"
     ],
@@ -11233,6 +11306,9 @@
     ]
   },
   "avg_npc_1628_1": {
+    "en_US": [
+      "Cautious Student"
+    ],
     "ja_JP": [
       "慎重な学生"
     ],
@@ -11274,6 +11350,12 @@
     ]
   },
   "avg_npc_1630_1": {
+    "en_US": [
+      "Brocade-Robed Mandarin",
+      "Exhausted Judicial Official",
+      "Judicial Jailer",
+      "Judicial Officer"
+    ],
     "ja_JP": [
       "大理寺司官吏",
       "大理寺司獄官",
@@ -11290,6 +11372,10 @@
     ]
   },
   "avg_npc_1631_1": {
+    "en_US": [
+      "Baizao Lecturer",
+      "Judicial Officer A"
+    ],
     "ja_JP": [
       "大理寺官吏A",
       "百灶学宮講師"
@@ -11300,6 +11386,11 @@
     ]
   },
   "avg_npc_1632_1": {
+    "en_US": [
+      "Judicial Officer B",
+      "Nervous Mandarin",
+      "Stern Judicial Official"
+    ],
     "ja_JP": [
       "大理寺官吏B",
       "慌てる官吏",
@@ -11313,6 +11404,9 @@
     ]
   },
   "avg_npc_1633_1": {
+    "en_US": [
+      "Calm Mandarin"
+    ],
     "ja_JP": [
       "落ち着いた官吏"
     ],
@@ -11321,6 +11415,9 @@
     ]
   },
   "avg_npc_1634_1": {
+    "en_US": [
+      "Imperial Guard"
+    ],
     "ja_JP": [
       "禁軍"
     ],
@@ -11329,6 +11426,12 @@
     ]
   },
   "avg_npc_1635_1": {
+    "en_US": [
+      "Flustered Chef",
+      "Laidback Chef",
+      "Lead Chef",
+      "Uptight Examiner"
+    ],
     "ja_JP": [
       "のんびりした料理人",
       "リーダーの料理人",
@@ -11343,6 +11446,12 @@
     ]
   },
   "avg_npc_1636_1": {
+    "en_US": [
+      "Bored Chef",
+      "Careless Chef",
+      "Ding Feng Lou Chef",
+      "Veteran Chef"
+    ],
     "ja_JP": [
       "ベテラン料理人",
       "不注意な料理人",
@@ -11357,6 +11466,14 @@
     ]
   },
   "avg_npc_1637_1": {
+    "en_US": [
+      "Guard A",
+      "Guard B",
+      "Guard Chief",
+      "Patrolling Guardsman",
+      "Patrolling Soldier",
+      "Soldier"
+    ],
     "ja_JP": [
       "巡回する守備軍",
       "巡回する衛兵",
@@ -11381,6 +11498,10 @@
     ]
   },
   "avg_npc_1639_1": {
+    "en_US": [
+      "Old Beggar",
+      "Regular Customer"
+    ],
     "ja_JP": [
       "料理屋の常連客",
       "老いた物乞い"
@@ -11450,6 +11571,9 @@
     ]
   },
   "avg_npc_1643_1": {
+    "en_US": [
+      "Girl in the Mountains"
+    ],
     "ja_JP": [
       "山中の童子"
     ],
@@ -11459,6 +11583,9 @@
     ]
   },
   "avg_npc_1644_1": {
+    "en_US": [
+      "Lin Qingyan"
+    ],
     "ja_JP": [
       "リン・チンイェン"
     ],
@@ -11467,6 +11594,9 @@
     ]
   },
   "avg_npc_1645_1": {
+    "en_US": [
+      "Fumizuki"
+    ],
     "ja_JP": [
       "フミヅキ"
     ],
@@ -11894,6 +12024,7 @@
       "Pompous Man",
       "Pompous Merchant",
       "Seasoned Investor",
+      "Skinny Cheung",
       "Slimy Noble",
       "Theater Manager",
       "Tipsy Businessman",
@@ -14247,6 +14378,7 @@
   },
   "avg_npc_271_1": {
     "en_US": [
+      "Commissioner Wong",
       "Receiving Attendant",
       "Scathing Nobleman",
       "Scholar"
@@ -14383,6 +14515,7 @@
       "Lively Local",
       "Meddlesome Villager",
       "Paleroche Commoner A",
+      "President Lee",
       "Station Staff",
       "Vintner?",
       "Youth"
@@ -14874,6 +15007,7 @@
       "Feeble Apprentice",
       "Half-Drunk Martial Artist",
       "Hawker",
+      "Lin Yühsia's Subordinate",
       "Odd Traveler",
       "Sober Martial Artist",
       "Street Youth",
@@ -14882,7 +15016,8 @@
       "Tavern Owner",
       "Teahouse Stopperby",
       "Traceless Fist Practitioner",
-      "Waiter"
+      "Waiter",
+      "Young Farmer"
     ],
     "ja_JP": [
       "ほろ酔いの武人",
@@ -17927,6 +18062,9 @@
     ]
   },
   "avg_npc_599_1": {
+    "en_US": [
+      "Stray Storm Cloudbeast"
+    ],
     "ja_JP": [
       "迷子の烏雲獣"
     ],
@@ -20496,6 +20634,9 @@
     ]
   },
   "avg_npc_976_1": {
+    "en_US": [
+      "Mischievous Child"
+    ],
     "ja_JP": [
       "腕白な子供"
     ],

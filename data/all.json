@@ -250,6 +250,7 @@
   "char_1040_blaze2": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Blaze the Igniting Spark",
       "ja_JP": "熾炎ブレイズ",
       "zh_CN": "烛煌"
     }
@@ -859,6 +860,7 @@
   "char_2026_yu": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Yu",
       "ja_JP": "ユー",
       "zh_CN": "余"
     }
@@ -1928,6 +1930,7 @@
   "char_4052_surfer": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Surfer",
       "ja_JP": "サーファー",
       "zh_CN": "寻澜"
     }
@@ -2493,6 +2496,7 @@
   "char_4172_xingzh": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Xingzhu",
       "ja_JP": "シィンズゥ",
       "zh_CN": "行箸"
     }
@@ -5708,6 +5712,7 @@
   "trap_211_cjgtow": {
     "type": "TRAP",
     "names": {
+      "en_US": "Stove",
       "ja_JP": "竈台",
       "zh_CN": "火灶"
     }
@@ -5715,6 +5720,7 @@
   "trap_212_cjbtow": {
     "type": "TRAP",
     "names": {
+      "en_US": "Derelict Stove",
       "ja_JP": "破棄された竈台",
       "zh_CN": "废弃火灶"
     }
@@ -8490,6 +8496,7 @@
   "char_2025_shu@nian#11": {
     "type": "SKIN",
     "names": {
+      "en_US": "Spring Feast",
       "ja_JP": "春日宴",
       "zh_CN": "春日宴"
     }
@@ -9489,6 +9496,7 @@
   "char_369_bena@epoque#38": {
     "type": "SKIN",
     "names": {
+      "en_US": "Prairie Pals",
       "ja_JP": "草原のお手伝いさん",
       "zh_CN": "草原小帮手"
     }
@@ -10074,6 +10082,7 @@
   "char_4105_almond@epoque#38": {
     "type": "SKIN",
     "names": {
+      "en_US": "Almond Platter",
       "ja_JP": "「アーモンド」ミックス",
       "zh_CN": "“杏仁”拼盘"
     }
@@ -10143,6 +10152,7 @@
   "char_4121_zuole@nian#11": {
     "type": "SKIN",
     "names": {
+      "en_US": "Youthful Journey",
       "ja_JP": "少年游",
       "zh_CN": "少年游"
     }
@@ -11642,6 +11652,7 @@
   "enemy_10050_cjmeat": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Breakfast",
       "ja_JP": "饔",
       "zh_CN": "饔"
     }
@@ -11649,6 +11660,7 @@
   "enemy_10050_cjmeat_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Dinner",
       "ja_JP": "飧",
       "zh_CN": "飧"
     }
@@ -11656,6 +11668,7 @@
   "enemy_10051_cjmag": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Diet'",
       "ja_JP": "「停箸」",
       "zh_CN": "“停箸”"
     }
@@ -11663,6 +11676,7 @@
   "enemy_10051_cjmag_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Fasting'",
       "ja_JP": "「廃食」",
       "zh_CN": "“废食”"
     }
@@ -11670,6 +11684,7 @@
   "enemy_10052_cjshld": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Sated'",
       "ja_JP": "「果腹」",
       "zh_CN": "“果腹”"
     }
@@ -11677,6 +11692,7 @@
   "enemy_10052_cjshld_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Bloated'",
       "ja_JP": "「飽食」",
       "zh_CN": "“饱食”"
     }
@@ -11684,6 +11700,7 @@
   "enemy_10053_cjman": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Expletive",
       "ja_JP": "醜言",
       "zh_CN": "丑言"
     }
@@ -11691,6 +11708,7 @@
   "enemy_10053_cjman_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Profanity",
       "ja_JP": "悪語",
       "zh_CN": "恶语"
     }
@@ -11698,6 +11716,7 @@
   "enemy_10054_cjhot": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Boiling Pot",
       "ja_JP": "鼎沸",
       "zh_CN": "鼎沸"
     }
@@ -11705,6 +11724,7 @@
   "enemy_10054_cjhot_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Drifting Aroma",
       "ja_JP": "漂香",
       "zh_CN": "飘香"
     }
@@ -11712,6 +11732,7 @@
   "enemy_10055_cjgost": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Forethought",
       "ja_JP": "綢繆",
       "zh_CN": "绸缪"
     }
@@ -11719,6 +11740,7 @@
   "enemy_10055_cjgost_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Sureness",
       "ja_JP": "無患",
       "zh_CN": "无患"
     }
@@ -11726,6 +11748,7 @@
   "enemy_10056_cjfish": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Vanity'",
       "ja_JP": "「面子」",
       "zh_CN": "“面子”"
     }
@@ -11733,6 +11756,7 @@
   "enemy_10056_cjfish_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Humility'",
       "ja_JP": "「本音」",
       "zh_CN": "“里子”"
     }
@@ -11740,6 +11764,7 @@
   "enemy_10057_cjstel": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Reminiscence",
       "ja_JP": "思旧",
       "zh_CN": "思旧"
     }
@@ -11747,6 +11772,7 @@
   "enemy_10057_cjstel_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Remembrance",
       "ja_JP": "念旧",
       "zh_CN": "念旧"
     }
@@ -11754,6 +11780,7 @@
   "enemy_10058_cjfrog": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Wealth",
       "ja_JP": "旺財",
       "zh_CN": "旺财"
     }
@@ -11761,6 +11788,7 @@
   "enemy_10058_cjfrog_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Prosperity",
       "ja_JP": "招財",
       "zh_CN": "招财"
     }
@@ -11768,6 +11796,7 @@
   "enemy_10059_cjgfod": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Sapidity",
       "ja_JP": "飲啄",
       "zh_CN": "饮啄"
     }
@@ -11799,6 +11828,7 @@
   "enemy_10060_cjbfod": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Vapidity",
       "ja_JP": "無謂",
       "zh_CN": "无谓"
     }
@@ -11806,6 +11836,7 @@
   "enemy_10061_cjglon": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Sapid Auspice'",
       "ja_JP": "「人間煙火」",
       "zh_CN": "“人间烟火”"
     }
@@ -11813,6 +11844,7 @@
   "enemy_10062_cjblon": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Vapid Blight'",
       "ja_JP": "「飲露餐風」",
       "zh_CN": "“饮露餐风”"
     }
@@ -11820,6 +11852,7 @@
   "enemy_10063_cjdoor": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Mouth of Annihilation",
       "ja_JP": "隠滅の口",
       "zh_CN": "湮没之口"
     }
@@ -11827,6 +11860,7 @@
   "enemy_10063_cjdoor_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Mouth of Creation",
       "ja_JP": "創造の口",
       "zh_CN": "造化之口"
     }
@@ -19328,6 +19362,7 @@
   "enemy_1562_cjtaot": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Gluttony",
       "ja_JP": "無饜",
       "zh_CN": "无餍"
     }
@@ -21645,6 +21680,7 @@
   "act10pray": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Lucky Strips Login Event",
       "ja_JP": "龍門開運\nおみくじ",
       "zh_CN": "幸运墙登录活动"
     }
@@ -22472,6 +22508,7 @@
   "act23login": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Sign-In Campaign",
       "ja_JP": "ログイン報酬",
       "zh_CN": "登录领取奖励"
     }
@@ -22645,6 +22682,7 @@
   "act2blessing": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "2025 Festival Sign-In",
       "ja_JP": "5.5周年スタンプラリー",
       "zh_CN": "2025罗德岛新春签到"
     }
@@ -23010,6 +23048,7 @@
   "act40side": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Such is the Joy of Our Reunion",
       "ja_JP": "相見歓",
       "zh_CN": "相见欢"
     }
@@ -23956,6 +23995,7 @@
   "2025recruitment10_1": {
     "type": "ITEM",
     "names": {
+      "en_US": "Type-α Headhunting Permit",
       "ja_JP": "5.5周年特別スカウト券α",
       "zh_CN": "α类新年寻访凭证"
     }
@@ -23963,6 +24003,7 @@
   "2025recruitment10_2": {
     "type": "ITEM",
     "names": {
+      "en_US": "Type-β Headhunting Permit",
       "ja_JP": "5.5周年特別スカウト券β",
       "zh_CN": "β类新年寻访凭证"
     }
@@ -23970,6 +24011,7 @@
   "2025recruitment10_3": {
     "type": "ITEM",
     "names": {
+      "en_US": "Type-γ Headhunting Permit",
       "ja_JP": "5.5周年特別スカウト券γ",
       "zh_CN": "γ类新年寻访凭证"
     }
@@ -25003,6 +25045,7 @@
   "LIMITED_TKT_GACHA_10_5801": {
     "type": "ITEM",
     "names": {
+      "en_US": "A Pleasant Banquet Headhunting Permit",
       "ja_JP": "5.5周年10回スカウト券",
       "zh_CN": "欢宴良宵寻访凭证"
     }
@@ -25200,6 +25243,7 @@
   "LMTGS_COIN_5801": {
     "type": "ITEM",
     "names": {
+      "en_US": "Headhunting Data Contract",
       "ja_JP": "限定契約証",
       "zh_CN": "寻访数据契约"
     }
@@ -26433,6 +26477,7 @@
   "act40side_token_yumyum": {
     "type": "ITEM",
     "names": {
+      "en_US": "'Yum-yum!'",
       "ja_JP": "「生香」",
       "zh_CN": "“生香”"
     }
@@ -26929,6 +26974,7 @@
   "ap_supply_lt_100_2025_1": {
     "type": "ITEM",
     "names": {
+      "en_US": "Furnace Fried Rice",
       "ja_JP": "溶炉チャーハン",
       "zh_CN": "熔炉炒饭"
     }
@@ -26936,6 +26982,7 @@
   "ap_supply_lt_100_2025_2": {
     "type": "ITEM",
     "names": {
+      "en_US": "Royal Lotus Biscuits",
       "ja_JP": "ロータスクッキー",
       "zh_CN": "皇家莲花饼"
     }
@@ -26943,6 +26990,7 @@
   "ap_supply_lt_100_2025_3": {
     "type": "ITEM",
     "names": {
+      "en_US": "Saluzzo Vintage",
       "ja_JP": "サルッツォワイン",
       "zh_CN": "萨卢佐醇酿"
     }
@@ -26950,6 +26998,7 @@
   "ap_supply_lt_100_2025_4": {
     "type": "ITEM",
     "names": {
+      "en_US": "House Special Misandao",
       "ja_JP": "特製蜜三刀",
       "zh_CN": "特制蜜三刀"
     }
@@ -26957,6 +27006,7 @@
   "ap_supply_lt_100_2025_5": {
     "type": "ITEM",
     "names": {
+      "en_US": "'Rhodes Island'",
       "ja_JP": "「ロドス・アイランド」",
       "zh_CN": "“罗德岛”"
     }
@@ -29190,6 +29240,7 @@
   "p_char_1040_blaze2": {
     "type": "ITEM",
     "names": {
+      "en_US": "Blaze the Igniting Spark's Token",
       "ja_JP": "熾炎ブレイズの印",
       "zh_CN": "烛煌的信物"
     }
@@ -29791,6 +29842,7 @@
   "p_char_2026_yu": {
     "type": "ITEM",
     "names": {
+      "en_US": "Yu's Token",
       "ja_JP": "ユーの印",
       "zh_CN": "余的信物"
     }
@@ -30852,6 +30904,7 @@
   "p_char_4052_surfer": {
     "type": "ITEM",
     "names": {
+      "en_US": "Surfer's Token",
       "ja_JP": "サーファーの印",
       "zh_CN": "寻澜的信物"
     }
@@ -31401,6 +31454,7 @@
   "p_char_4172_xingzh": {
     "type": "ITEM",
     "names": {
+      "en_US": "Xingzhu's Token",
       "ja_JP": "シィンズゥの印",
       "zh_CN": "行箸的信物"
     }
@@ -34791,6 +34845,7 @@
   "_LIMITED_34_0_7": {
     "type": "POOL",
     "names": {
+      "en_US": "An Eternity Aflame",
       "ja_JP": "熾吾生平"
     }
   },
@@ -36318,6 +36373,7 @@
   "skchr_blaze2_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Hand in Heated Hand",
       "ja_JP": "灼熱の救い手",
       "zh_CN": "炙手之援"
     }
@@ -36325,6 +36381,7 @@
   "skchr_blaze2_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Boiling Blood Ablaze",
       "ja_JP": "燎原の血潮",
       "zh_CN": "沸血燎原"
     }
@@ -36332,6 +36389,7 @@
   "skchr_blaze2_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Pyre of Perdition",
       "ja_JP": "衆悪の焚獄",
       "zh_CN": "众恶的焚场"
     }
@@ -40679,6 +40737,7 @@
   "skchr_surfer_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Search and Seek",
       "ja_JP": "トレッキング",
       "zh_CN": "探寻"
     }
@@ -40686,6 +40745,7 @@
   "skchr_surfer_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Quick Learner",
       "ja_JP": "オブザーブ",
       "zh_CN": "洞悉"
     }
@@ -41489,6 +41549,7 @@
   "skchr_xingzh_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Filled Tomes, Spilling Sheets",
       "ja_JP": "万巻の書",
       "zh_CN": "盈帙满笥"
     }
@@ -41496,6 +41557,7 @@
   "skchr_xingzh_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Fine Food, Soothed Souls",
       "ja_JP": "百味食珍",
       "zh_CN": "食不厌精"
     }
@@ -41543,6 +41605,7 @@
   "skchr_yu_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Today's Host",
       "ja_JP": "椀飯振舞",
       "zh_CN": "今日做东"
     }
@@ -41550,6 +41613,7 @@
   "skchr_yu_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "For Guests, Bounteous Gifts",
       "ja_JP": "客至如帰",
       "zh_CN": "厚礼上宾"
     }
@@ -41557,6 +41621,7 @@
   "skchr_yu_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Enter the Stove's Palm",
       "ja_JP": "竈中乾坤",
       "zh_CN": "灶里乾坤"
     }
@@ -43454,6 +43519,7 @@
   "sktok_cjbtow_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Extinguish Stove",
       "ja_JP": "火を落とす",
       "zh_CN": "灶火灭"
     }
@@ -43461,6 +43527,7 @@
   "sktok_cjgtow_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Light Stove",
       "ja_JP": "火を入れる",
       "zh_CN": "灶火起"
     }
@@ -52794,6 +52861,7 @@
   "act40side_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Scallion Tofu",
       "ja_JP": "一清二白",
       "zh_CN": "一清二白"
     }
@@ -52801,6 +52869,7 @@
   "act40side_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Malt Sugar Candy",
       "ja_JP": "糖瓜粘",
       "zh_CN": "糖瓜粘"
     }
@@ -52808,6 +52877,7 @@
   "act40side_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Oil-Splashed Hand-Pulled Noodles",
       "ja_JP": "油潑撦麺",
       "zh_CN": "油泼扯面"
     }
@@ -52815,6 +52885,7 @@
   "act40side_04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Pickled Potherb Mustard",
       "ja_JP": "雪裡蕻",
       "zh_CN": "雪里蕻"
     }
@@ -52822,6 +52893,7 @@
   "act40side_05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Honey Herbal Tea",
       "ja_JP": "醍醐湯",
       "zh_CN": "醍醐汤"
     }
@@ -52829,6 +52901,7 @@
   "act40side_06": {
     "type": "STAGE",
     "names": {
+      "en_US": "Braised Wax Gourd Cube",
       "ja_JP": "勝肉火方",
       "zh_CN": "胜肉火方"
     }
@@ -52836,6 +52909,7 @@
   "act40side_07": {
     "type": "STAGE",
     "names": {
+      "en_US": "Meaty Platter",
       "ja_JP": "五省盤",
       "zh_CN": "五省盘"
     }
@@ -52843,6 +52917,7 @@
   "act40side_08": {
     "type": "STAGE",
     "names": {
+      "en_US": "Golden Rice Crust",
       "ja_JP": "黄玉蔵心",
       "zh_CN": "金玉藏心"
     }
@@ -52850,6 +52925,7 @@
   "act40side_09": {
     "type": "STAGE",
     "names": {
+      "en_US": "Longevity Noodles",
       "ja_JP": "長寿麺",
       "zh_CN": "长寿面"
     }
@@ -52857,6 +52933,7 @@
   "act40side_mo01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Three Meals a Day",
       "ja_JP": "一日三食",
       "zh_CN": "一日三餐"
     }
@@ -52864,6 +52941,7 @@
   "act40side_s01": {
     "type": "STAGE",
     "names": {
+      "en_US": "One-Year Banquet",
       "ja_JP": "周歳宴",
       "zh_CN": "周岁宴"
     }
@@ -52871,6 +52949,7 @@
   "act40side_s02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Wedding Banquet",
       "ja_JP": "新婚宴",
       "zh_CN": "新婚宴"
     }
@@ -52878,6 +52957,7 @@
   "act40side_s03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Birthday Banquet",
       "ja_JP": "寿辰宴",
       "zh_CN": "寿辰宴"
     }
@@ -52885,6 +52965,7 @@
   "act40side_s04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Funeral Banquet",
       "ja_JP": "白事宴",
       "zh_CN": "白事宴"
     }
@@ -52892,6 +52973,7 @@
   "act40side_st01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Chrysanthemum Tea with Dried Tangerine Peels",
       "ja_JP": "陳皮菊花茶",
       "zh_CN": "陈皮菊花茶"
     }
@@ -52899,6 +52981,7 @@
   "act40side_st02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Roasted Chestnut",
       "ja_JP": "雷公栗",
       "zh_CN": "雷公栗"
     }
@@ -52906,6 +52989,7 @@
   "act40side_st03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Essence Herbal Soup",
       "ja_JP": "須問湯",
       "zh_CN": "须问汤"
     }
@@ -52913,6 +52997,7 @@
   "act40side_tr01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Bitter Gourd with Wood Ear",
       "ja_JP": "翡翠墨玉",
       "zh_CN": "翡翠墨玉"
     }
@@ -59894,6 +59979,7 @@
   "act40side_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Flavor of Food",
       "ja_JP": "識七味",
       "zh_CN": "识七味"
     }
@@ -59901,6 +59987,7 @@
   "act40side_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Flavor of Life",
       "ja_JP": "閲世情",
       "zh_CN": "阅世情"
     }
@@ -59908,6 +59995,7 @@
   "act40side_zone3": {
     "type": "ZONE",
     "names": {
+      "en_US": "Farewell, Loved Ones",
       "ja_JP": "悵別離",
       "zh_CN": "怅别离"
     }
@@ -62015,6 +62103,7 @@
   "story_grabds_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Reliving Old Dreams",
       "ja_JP": "懐かしき夢の追憶",
       "zh_CN": "旧梦重温"
     }
@@ -62394,6 +62483,7 @@
   "story_lin_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Out with the Old, In with the New",
       "ja_JP": "新旧交わる時",
       "zh_CN": "新潮旧浪"
     }
@@ -63533,6 +63623,7 @@
   "story_wanqin_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Seeking Secrets",
       "ja_JP": "道を問う",
       "zh_CN": "问道"
     }
@@ -63602,6 +63693,7 @@
   "story_yu_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "A Hundred Years in Daily Steps",
       "ja_JP": "百年一日",
       "zh_CN": "百年一日"
     }

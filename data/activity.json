@@ -30,6 +30,7 @@
     "zh_CN": "阴云火花"
   },
   "act10pray": {
+    "en_US": "Lucky Strips Login Event",
     "ja_JP": "龍門開運\nおみくじ",
     "zh_CN": "幸运墙登录活动"
   },
@@ -539,6 +540,7 @@
     "zh_CN": "照我以火·复刻"
   },
   "act23login": {
+    "en_US": "Sign-In Campaign",
     "ja_JP": "ログイン報酬",
     "zh_CN": "登录领取奖励"
   },
@@ -646,6 +648,7 @@
     "zh_CN": "活动推荐月卡"
   },
   "act2blessing": {
+    "en_US": "2025 Festival Sign-In",
     "ja_JP": "5.5周年スタンプラリー",
     "zh_CN": "2025罗德岛新春签到"
   },
@@ -870,6 +873,7 @@
     "zh_CN": "虹彩茶会合作活动"
   },
   "act40side": {
+    "en_US": "Such is the Joy of Our Reunion",
     "ja_JP": "相見歓",
     "zh_CN": "相见欢"
   },

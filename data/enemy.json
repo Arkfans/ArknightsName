@@ -490,78 +490,97 @@
     "zh_CN": "酸液源石虫·α"
   },
   "enemy_10050_cjmeat": {
+    "en_US": "Breakfast",
     "ja_JP": "饔",
     "zh_CN": "饔"
   },
   "enemy_10050_cjmeat_2": {
+    "en_US": "Dinner",
     "ja_JP": "飧",
     "zh_CN": "飧"
   },
   "enemy_10051_cjmag": {
+    "en_US": "'Diet'",
     "ja_JP": "「停箸」",
     "zh_CN": "“停箸”"
   },
   "enemy_10051_cjmag_2": {
+    "en_US": "'Fasting'",
     "ja_JP": "「廃食」",
     "zh_CN": "“废食”"
   },
   "enemy_10052_cjshld": {
+    "en_US": "'Sated'",
     "ja_JP": "「果腹」",
     "zh_CN": "“果腹”"
   },
   "enemy_10052_cjshld_2": {
+    "en_US": "'Bloated'",
     "ja_JP": "「飽食」",
     "zh_CN": "“饱食”"
   },
   "enemy_10053_cjman": {
+    "en_US": "Expletive",
     "ja_JP": "醜言",
     "zh_CN": "丑言"
   },
   "enemy_10053_cjman_2": {
+    "en_US": "Profanity",
     "ja_JP": "悪語",
     "zh_CN": "恶语"
   },
   "enemy_10054_cjhot": {
+    "en_US": "Boiling Pot",
     "ja_JP": "鼎沸",
     "zh_CN": "鼎沸"
   },
   "enemy_10054_cjhot_2": {
+    "en_US": "Drifting Aroma",
     "ja_JP": "漂香",
     "zh_CN": "飘香"
   },
   "enemy_10055_cjgost": {
+    "en_US": "Forethought",
     "ja_JP": "綢繆",
     "zh_CN": "绸缪"
   },
   "enemy_10055_cjgost_2": {
+    "en_US": "Sureness",
     "ja_JP": "無患",
     "zh_CN": "无患"
   },
   "enemy_10056_cjfish": {
+    "en_US": "'Vanity'",
     "ja_JP": "「面子」",
     "zh_CN": "“面子”"
   },
   "enemy_10056_cjfish_2": {
+    "en_US": "'Humility'",
     "ja_JP": "「本音」",
     "zh_CN": "“里子”"
   },
   "enemy_10057_cjstel": {
+    "en_US": "Reminiscence",
     "ja_JP": "思旧",
     "zh_CN": "思旧"
   },
   "enemy_10057_cjstel_2": {
+    "en_US": "Remembrance",
     "ja_JP": "念旧",
     "zh_CN": "念旧"
   },
   "enemy_10058_cjfrog": {
+    "en_US": "Wealth",
     "ja_JP": "旺財",
     "zh_CN": "旺财"
   },
   "enemy_10058_cjfrog_2": {
+    "en_US": "Prosperity",
     "ja_JP": "招財",
     "zh_CN": "招财"
   },
   "enemy_10059_cjgfod": {
+    "en_US": "Sapidity",
     "ja_JP": "飲啄",
     "zh_CN": "饮啄"
   },
@@ -581,22 +600,27 @@
     "zh_CN": "威龙"
   },
   "enemy_10060_cjbfod": {
+    "en_US": "Vapidity",
     "ja_JP": "無謂",
     "zh_CN": "无谓"
   },
   "enemy_10061_cjglon": {
+    "en_US": "'Sapid Auspice'",
     "ja_JP": "「人間煙火」",
     "zh_CN": "“人间烟火”"
   },
   "enemy_10062_cjblon": {
+    "en_US": "'Vapid Blight'",
     "ja_JP": "「飲露餐風」",
     "zh_CN": "“饮露餐风”"
   },
   "enemy_10063_cjdoor": {
+    "en_US": "Mouth of Annihilation",
     "ja_JP": "隠滅の口",
     "zh_CN": "湮没之口"
   },
   "enemy_10063_cjdoor_2": {
+    "en_US": "Mouth of Creation",
     "ja_JP": "創造の口",
     "zh_CN": "造化之口"
   },
@@ -5230,6 +5254,7 @@
     "zh_CN": "安纳斯塔西奥，赎罪者"
   },
   "enemy_1562_cjtaot": {
+    "en_US": "Gluttony",
     "ja_JP": "無饜",
     "zh_CN": "无餍"
   },

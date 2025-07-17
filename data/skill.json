@@ -510,14 +510,17 @@
     "zh_CN": "冲锋号令·防御"
   },
   "skchr_blaze2_1": {
+    "en_US": "Hand in Heated Hand",
     "ja_JP": "灼熱の救い手",
     "zh_CN": "炙手之援"
   },
   "skchr_blaze2_2": {
+    "en_US": "Boiling Blood Ablaze",
     "ja_JP": "燎原の血潮",
     "zh_CN": "沸血燎原"
   },
   "skchr_blaze2_3": {
+    "en_US": "Pyre of Perdition",
     "ja_JP": "衆悪の焚獄",
     "zh_CN": "众恶的焚场"
   },
@@ -3209,10 +3212,12 @@
     "zh_CN": "食粮烹制"
   },
   "skchr_surfer_1": {
+    "en_US": "Search and Seek",
     "ja_JP": "トレッキング",
     "zh_CN": "探寻"
   },
   "skchr_surfer_2": {
+    "en_US": "Quick Learner",
     "ja_JP": "オブザーブ",
     "zh_CN": "洞悉"
   },
@@ -3710,10 +3715,12 @@
     "zh_CN": "冲锋号令·援军"
   },
   "skchr_xingzh_1": {
+    "en_US": "Filled Tomes, Spilling Sheets",
     "ja_JP": "万巻の書",
     "zh_CN": "盈帙满笥"
   },
   "skchr_xingzh_2": {
+    "en_US": "Fine Food, Soothed Souls",
     "ja_JP": "百味食珍",
     "zh_CN": "食不厌精"
   },
@@ -3743,14 +3750,17 @@
     "zh_CN": "空中回旋乱舞"
   },
   "skchr_yu_1": {
+    "en_US": "Today's Host",
     "ja_JP": "椀飯振舞",
     "zh_CN": "今日做东"
   },
   "skchr_yu_2": {
+    "en_US": "For Guests, Bounteous Gifts",
     "ja_JP": "客至如帰",
     "zh_CN": "厚礼上宾"
   },
   "skchr_yu_3": {
+    "en_US": "Enter the Stove's Palm",
     "ja_JP": "竈中乾坤",
     "zh_CN": "灶里乾坤"
   },
@@ -4934,10 +4944,12 @@
     "zh_CN": "镀膜"
   },
   "sktok_cjbtow_1": {
+    "en_US": "Extinguish Stove",
     "ja_JP": "火を落とす",
     "zh_CN": "灶火灭"
   },
   "sktok_cjgtow_1": {
+    "en_US": "Light Stove",
     "ja_JP": "火を入れる",
     "zh_CN": "灶火起"
   },
