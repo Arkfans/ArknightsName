@@ -103,33 +103,33 @@ tip: 请善用浏览器的搜索功能
 | enemy_10049_pcaptn_2 | 美声水手长 | Bel Canto Boatswain | 美声水兵長 |
 | enemy_1004_mslime | 酸液源石虫 | Acid Originium Slug | アシッドムシ |
 | enemy_1004_mslime_2 | 酸液源石虫·α | Acid Originium Slug α | アシッドムシα |
-| enemy_10050_cjmeat | 饔 | - | - |
-| enemy_10050_cjmeat_2 | 飧 | - | - |
-| enemy_10051_cjmag | “停箸” | - | - |
-| enemy_10051_cjmag_2 | “废食” | - | - |
-| enemy_10052_cjshld | “果腹” | - | - |
-| enemy_10052_cjshld_2 | “饱食” | - | - |
-| enemy_10053_cjman | 丑言 | - | - |
-| enemy_10053_cjman_2 | 恶语 | - | - |
-| enemy_10054_cjhot | 鼎沸 | - | - |
-| enemy_10054_cjhot_2 | 飘香 | - | - |
-| enemy_10055_cjgost | 绸缪 | - | - |
-| enemy_10055_cjgost_2 | 无患 | - | - |
-| enemy_10056_cjfish | “面子” | - | - |
-| enemy_10056_cjfish_2 | “里子” | - | - |
-| enemy_10057_cjstel | 思旧 | - | - |
-| enemy_10057_cjstel_2 | 念旧 | - | - |
-| enemy_10058_cjfrog | 旺财 | - | - |
-| enemy_10058_cjfrog_2 | 招财 | - | - |
-| enemy_10059_cjgfod | 饮啄 | - | - |
+| enemy_10050_cjmeat | 饔 | - | 饔 |
+| enemy_10050_cjmeat_2 | 飧 | - | 飧 |
+| enemy_10051_cjmag | “停箸” | - | 「停箸」 |
+| enemy_10051_cjmag_2 | “废食” | - | 「廃食」 |
+| enemy_10052_cjshld | “果腹” | - | 「果腹」 |
+| enemy_10052_cjshld_2 | “饱食” | - | 「飽食」 |
+| enemy_10053_cjman | 丑言 | - | 醜言 |
+| enemy_10053_cjman_2 | 恶语 | - | 悪語 |
+| enemy_10054_cjhot | 鼎沸 | - | 鼎沸 |
+| enemy_10054_cjhot_2 | 飘香 | - | 漂香 |
+| enemy_10055_cjgost | 绸缪 | - | 綢繆 |
+| enemy_10055_cjgost_2 | 无患 | - | 無患 |
+| enemy_10056_cjfish | “面子” | - | 「面子」 |
+| enemy_10056_cjfish_2 | “里子” | - | 「本音」 |
+| enemy_10057_cjstel | 思旧 | - | 思旧 |
+| enemy_10057_cjstel_2 | 念旧 | - | 念旧 |
+| enemy_10058_cjfrog | 旺财 | - | 旺財 |
+| enemy_10058_cjfrog_2 | 招财 | - | 招財 |
+| enemy_10059_cjgfod | 饮啄 | - | 飲啄 |
 | enemy_1005_yokai | 妖怪 | Monster | 怪鳥 |
 | enemy_1005_yokai_2 | 妖怪MKII | Monster Mk II | 怪鳥Mk2 |
 | enemy_1005_yokai_3 | 威龙 | Raptor | 飛龍 |
-| enemy_10060_cjbfod | 无谓 | - | - |
-| enemy_10061_cjglon | “人间烟火” | - | - |
-| enemy_10062_cjblon | “饮露餐风” | - | - |
-| enemy_10063_cjdoor | 湮没之口 | - | - |
-| enemy_10063_cjdoor_2 | 造化之口 | - | - |
+| enemy_10060_cjbfod | 无谓 | - | 無謂 |
+| enemy_10061_cjglon | “人间烟火” | - | 「人間煙火」 |
+| enemy_10062_cjblon | “饮露餐风” | - | 「飲露餐風」 |
+| enemy_10063_cjdoor | 湮没之口 | - | 隠滅の口 |
+| enemy_10063_cjdoor_2 | 造化之口 | - | 創造の口 |
 | enemy_10064_ftyzss | 巡游草叶 | - | - |
 | enemy_10064_ftyzss_2 | 巡游枯木 | - | - |
 | enemy_10065_ftzlc | 卷心籽 | - | - |
@@ -1086,7 +1086,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1559_vtlionk | 阿利斯泰尔，帝国余晖 | Alistair, Final Flame of the Empire | 「帝国の残光」アリステア |
 | enemy_1560_cnvlap | “狂欢之主” | 'La Signora del Carnevale' | 「狂宴の主」 |
 | enemy_1561_crzjdg | 安纳斯塔西奥，赎罪者 | Anastasio, the Atoner | 「贖罪者」アナスタシオ |
-| enemy_1562_cjtaot | 无餍 | - | - |
+| enemy_1562_cjtaot | 无餍 | - | 無饜 |
 | enemy_1563_fthlgj | “万火归一” | - | - |
 | enemy_1564_mpprts | PRTS，“源代码” | - | - |
 | enemy_1565_mpprme | 拟态机械 | - | - |

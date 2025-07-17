@@ -11,7 +11,8 @@ tip: 请善用浏览器的搜索功能
 | act10d6 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act10login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
 | act10mini | 阴云火花 | A Light Spark in Darkness | 闇散らす火花 |
-| act10pray | 幸运墙登录活动 | - | - |
+| act10pray | 幸运墙登录活动 | - | 龍門開運
+おみくじ |
 | act10sre | 遗尘漫步·复刻 | A Walk in the Dust - Rerun | 遺塵の道を·復刻 |
 | act11d0 | 沃伦姆德的薄暮 | Twilight of Wolumonde | ウォルモンドの薄暮 |
 | act11d7 | 火蓝之心·复刻 | Heart of Surging Flame - Rerun | 青く燃ゆる心・復刻 |
@@ -119,7 +120,7 @@ tip: 请善用浏览器的搜索功能
 | act22side | 照我以火 | What the Firelight Casts | この炎が照らす先 |
 | act22sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act22sre | 照我以火·复刻 | What the Firelight Casts - Retrospection | この炎が照らす先・復刻 |
-| act23login | 登录领取奖励 | - | - |
+| act23login | 登录领取奖励 | - | ログイン報酬 |
 | act23side | 登临意 | Where Vernal Winds Will Never Blow | 登臨意 |
 | act23sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act23sre | 登临意·复刻 | Where Vernal Winds Will Never Blow - Rerun | 登臨意・復刻 |
@@ -141,7 +142,7 @@ tip: 请善用浏览器的搜索功能
 | act29sign | 桂时逢月——月饼烘焙小教程 | Encounter At The Osmanthus Blossom - Mooncake-Making Tutorial | 円満団楽-ロドス点心教室 |
 | act29sre | 崔林特尔梅之金·复刻 | Zwillingstürme im Herbst - Rerun | ツヴィリングトゥルムの黄金・復刻 |
 | act2access | 活动推荐月卡 | - | - |
-| act2blessing | 2025罗德岛新春签到 | - | - |
+| act2blessing | 2025罗德岛新春签到 | - | 5.5周年スタンプラリー |
 | act2bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act2collection | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
 | act2d5 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -191,7 +192,7 @@ tip: 请善用浏览器的搜索功能
 Overload
 Collaboration
 Event | なないろのお茶会 |
-| act40side | 相见欢 | - | - |
+| act40side | 相见欢 | - | 相見歓 |
 | act40sign | 无终奇语签到活动 | Furnaceside Fables Login Event | 炉辺奇談スタンプ |
 | act41side | 挽歌燃烧殆尽 | - | - |
 | act41sign | 沉沙赫日签到活动 | Brilliant Sun Rippling Sand Sign-In Event | 5周年

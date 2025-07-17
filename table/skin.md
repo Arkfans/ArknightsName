@@ -138,7 +138,7 @@ tip: 请善用浏览器的搜索功能
 | char_2023_ling@nian#9 | 濯缨 | It Does Wash the Strings | 濯冠纓 |
 | char_2024_chyue@cfa#1 | 全能演员 | All-Round Actor | 万能俳優 |
 | char_2024_chyue@nian#10 | 何处栖 | Alighting | 何処棲 |
-| char_2025_shu@nian#11 | 春日宴 | - | - |
+| char_2025_shu@nian#11 | 春日宴 | - | 春日宴 |
 | char_202_demkni@boc#1 | 坚城 | Stronghold | 堅城 |
 | char_202_demkni@test#1 | 铁律 | The Law | 鉄の掟 |
 | char_204_platnm@summer#3 | 灿阳朝露 SD05 | Shimmering Dew SD05 | 炎陽煌く露SD05 |
@@ -265,7 +265,7 @@ tip: 请善用浏览器的搜索功能
 | char_365_aprl@wild#3 | 远望 | Faraway Gaze | 遠望 |
 | char_366_acdrop@whirlwind#4 | “下午茶时光” | 'Afternoon Teatime' | 「アフタヌーンティー」 |
 | char_367_swllow@boc#1 | 归巢 | Homecoming | 帰巣 |
-| char_369_bena@epoque#38 | 草原小帮手 | - | - |
+| char_369_bena@epoque#38 | 草原小帮手 | - | 草原のお手伝いさん |
 | char_373_lionhd@snow#3 | 希望巡游 | Hope Cruise | 希望の運び手 |
 | char_373_lionhd@wild#3 | 宝藏行家 | Finder in the Rough | 秘宝の専門家 |
 | char_376_therex@marthe#7 | 双料四分卫 | Dual-threat Quarterback | スーパークォーターバック |
@@ -341,7 +341,7 @@ tip: 请善用浏览器的搜索功能
 | char_4100_caper@summer#18 | 夏卉 FA083 | Summer Flowers FA083 | 夏の花弁FA083 |
 | char_4102_threye@epoque#42 | 林间暖阳 | - | - |
 | char_4104_coldst@striker#3 | 破晓 | Dawnbreak | 破暁 |
-| char_4105_almond@epoque#38 | “杏仁”拼盘 | - | - |
+| char_4105_almond@epoque#38 | “杏仁”拼盘 | - | 「アーモンド」ミックス |
 | char_4106_bryota@epoque#34 | 动感 | Vibrant | 躍動 |
 | char_4107_vrdant@unveiling#3 | 玫瑰骑手 | - | - |
 | char_4109_baslin@witch#5 | 夜空星芒 | Starry Night Sky | 夜天に輝く星 |
@@ -350,7 +350,7 @@ tip: 请善用浏览器的搜索功能
 | char_4117_ray@shining#2 | 梦幻高空 | Dreaming High | 夢の高みへ |
 | char_4119_wanqin@epoque#41 | 万顷阳光 | Tons of Sunshine | 万頃に注ぐ陽光 |
 | char_411_tomimi@summer#5 | 静谧午夜 DN04 | Silent Night DN04 | 安息の午夜DN04 |
-| char_4121_zuole@nian#11 | 少年游 | - | - |
+| char_4121_zuole@nian#11 | 少年游 | - | 少年游 |
 | char_4122_grabds@yun#3 | 步芳兰 | Fragrant Pace | 歩芳蘭 |
 | char_4123_ela@rainbow6#2 | 密室 | Safehouse | セーフハウス |
 | char_4124_iana@rainbow6#2 | 镜廊 | Mirrormaze | ミラーメイズ |

@@ -490,60 +490,79 @@
     "zh_CN": "酸液源石虫·α"
   },
   "enemy_10050_cjmeat": {
+    "ja_JP": "饔",
     "zh_CN": "饔"
   },
   "enemy_10050_cjmeat_2": {
+    "ja_JP": "飧",
     "zh_CN": "飧"
   },
   "enemy_10051_cjmag": {
+    "ja_JP": "「停箸」",
     "zh_CN": "“停箸”"
   },
   "enemy_10051_cjmag_2": {
+    "ja_JP": "「廃食」",
     "zh_CN": "“废食”"
   },
   "enemy_10052_cjshld": {
+    "ja_JP": "「果腹」",
     "zh_CN": "“果腹”"
   },
   "enemy_10052_cjshld_2": {
+    "ja_JP": "「飽食」",
     "zh_CN": "“饱食”"
   },
   "enemy_10053_cjman": {
+    "ja_JP": "醜言",
     "zh_CN": "丑言"
   },
   "enemy_10053_cjman_2": {
+    "ja_JP": "悪語",
     "zh_CN": "恶语"
   },
   "enemy_10054_cjhot": {
+    "ja_JP": "鼎沸",
     "zh_CN": "鼎沸"
   },
   "enemy_10054_cjhot_2": {
+    "ja_JP": "漂香",
     "zh_CN": "飘香"
   },
   "enemy_10055_cjgost": {
+    "ja_JP": "綢繆",
     "zh_CN": "绸缪"
   },
   "enemy_10055_cjgost_2": {
+    "ja_JP": "無患",
     "zh_CN": "无患"
   },
   "enemy_10056_cjfish": {
+    "ja_JP": "「面子」",
     "zh_CN": "“面子”"
   },
   "enemy_10056_cjfish_2": {
+    "ja_JP": "「本音」",
     "zh_CN": "“里子”"
   },
   "enemy_10057_cjstel": {
+    "ja_JP": "思旧",
     "zh_CN": "思旧"
   },
   "enemy_10057_cjstel_2": {
+    "ja_JP": "念旧",
     "zh_CN": "念旧"
   },
   "enemy_10058_cjfrog": {
+    "ja_JP": "旺財",
     "zh_CN": "旺财"
   },
   "enemy_10058_cjfrog_2": {
+    "ja_JP": "招財",
     "zh_CN": "招财"
   },
   "enemy_10059_cjgfod": {
+    "ja_JP": "飲啄",
     "zh_CN": "饮啄"
   },
   "enemy_1005_yokai": {
@@ -562,18 +581,23 @@
     "zh_CN": "威龙"
   },
   "enemy_10060_cjbfod": {
+    "ja_JP": "無謂",
     "zh_CN": "无谓"
   },
   "enemy_10061_cjglon": {
+    "ja_JP": "「人間煙火」",
     "zh_CN": "“人间烟火”"
   },
   "enemy_10062_cjblon": {
+    "ja_JP": "「飲露餐風」",
     "zh_CN": "“饮露餐风”"
   },
   "enemy_10063_cjdoor": {
+    "ja_JP": "隠滅の口",
     "zh_CN": "湮没之口"
   },
   "enemy_10063_cjdoor_2": {
+    "ja_JP": "創造の口",
     "zh_CN": "造化之口"
   },
   "enemy_10064_ftyzss": {
@@ -5206,6 +5230,7 @@
     "zh_CN": "安纳斯塔西奥，赎罪者"
   },
   "enemy_1562_cjtaot": {
+    "ja_JP": "無饜",
     "zh_CN": "无餍"
   },
   "enemy_1563_fthlgj": {

@@ -1281,9 +1281,11 @@
     "zh_CN": "两栖码头"
   },
   "trap_211_cjgtow": {
+    "ja_JP": "竈台",
     "zh_CN": "火灶"
   },
   "trap_212_cjbtow": {
+    "ja_JP": "破棄された竈台",
     "zh_CN": "废弃火灶"
   },
   "trap_213_dqore": {

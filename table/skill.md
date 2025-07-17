@@ -109,9 +109,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_billro_3 | 食噬之印 | Mark of Gluttony | 喰殺ノ刻印 |
 | skchr_bison_2 | 深化阵线 | Intensified Defense | 戦線強化 |
 | skchr_blackd_2 | 冲锋号令·防御 | Command - Defense | 突撃指令・防御 |
-| skchr_blaze2_1 | 炙手之援 | - | - |
-| skchr_blaze2_2 | 沸血燎原 | - | - |
-| skchr_blaze2_3 | 众恶的焚场 | - | - |
+| skchr_blaze2_1 | 炙手之援 | - | 灼熱の救い手 |
+| skchr_blaze2_2 | 沸血燎原 | - | 燎原の血潮 |
+| skchr_blaze2_3 | 众恶的焚场 | - | 衆悪の焚獄 |
 | skchr_bldsk_1 | 紧急包扎 | Emergency Triage | 救急包帯法 |
 | skchr_bldsk_2 | 不稳定血浆 | Unstable Plasma | 不安定血漿 |
 | skchr_blemsh_1 | 光芒涌动 | Surging Brilliance | 光芒奔溢 |
@@ -663,8 +663,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_stward_1 | 强力击·α型 | Power Strike α | 強撃α |
 | skchr_sunbr_1 | 备用军粮 | Provisions | 非常食 |
 | skchr_sunbr_2 | 食粮烹制 | Cooking | 戦場のシェフ |
-| skchr_surfer_1 | 探寻 | - | - |
-| skchr_surfer_2 | 洞悉 | - | - |
+| skchr_surfer_1 | 探寻 | - | トレッキング |
+| skchr_surfer_2 | 洞悉 | - | オブザーブ |
 | skchr_surtr_1 | 烈焰魔剑 | Laevatain | レーヴァテイン |
 | skchr_surtr_2 | 熔核巨影 | Molten Giant | 災厄の巨焔 |
 | skchr_surtr_3 | 黄昏 | Twilight | ラグナロク |
@@ -766,16 +766,16 @@ tip: 请善用浏览器的搜索功能
 | skchr_wulfen_1 | “驱兽专用” | - | - |
 | skchr_wulfen_2 | “顽石专用” | - | - |
 | skchr_wyvern_1 | 冲锋号令·援军 | Command - Reinforcement | 突撃指令・援軍 |
-| skchr_xingzh_1 | 盈帙满笥 | - | - |
-| skchr_xingzh_2 | 食不厌精 | - | - |
+| skchr_xingzh_1 | 盈帙满笥 | - | 万巻の書 |
+| skchr_xingzh_2 | 食不厌精 | - | 百味食珍 |
 | skchr_yak_1 | 体能强化 | Stamina Enhancement | 肉体強化 |
 | skchr_yak_2 | 抗寒体质 | Cold Resistance | 寒冷順化 |
 | skchr_yato2_1 | 鬼人化 | Demon Mode | 鬼人化 |
 | skchr_yato2_2 | 乱舞 | Blade Dance | 乱舞 |
 | skchr_yato2_3 | 空中回旋乱舞 | Midair Spinning Blade Dance | 空中回転乱舞 |
-| skchr_yu_1 | 今日做东 | - | - |
-| skchr_yu_2 | 厚礼上宾 | - | - |
-| skchr_yu_3 | 灶里乾坤 | - | - |
+| skchr_yu_1 | 今日做东 | - | 椀飯振舞 |
+| skchr_yu_2 | 厚礼上宾 | - | 客至如帰 |
+| skchr_yu_3 | 灶里乾坤 | - | 竈中乾坤 |
 | skchr_yuki_1 | 敌飙 | Shuriken | ユキケムリ |
 | skchr_yuki_2 | 凝武 | Fatal Shuriken | カザグルマ |
 | skchr_zebra_1 | 应急迷彩 | Emergency Camouflage | 応急迷彩 |
@@ -1013,8 +1013,8 @@ tip: 请善用浏览器的搜索功能
 | sktok_cdshield | 镀膜 | Coating | コーティング |
 | sktok_cdshielda | 重整导能 | Redeployment Conduction | 再稼働 |
 | sktok_cdshieldb | 镀膜 | Coating | コーティング |
-| sktok_cjbtow_1 | 灶火灭 | - | - |
-| sktok_cjgtow_1 | 灶火起 | - | - |
+| sktok_cjbtow_1 | 灶火灭 | - | 火を落とす |
+| sktok_cjgtow_1 | 灶火起 | - | 火を入れる |
 | sktok_cnnon | 吃盐坨子吧！ | Eat Salt, Sucker! | 塩でも食ってろ！ |
 | sktok_cnvfwks | “狂欢时刻！” | 'Carnevale Time!' | 「狂宴の刻！」 |
 | sktok_condtr | 广域调谐 | Area Tuning | ﻿広域調律 |

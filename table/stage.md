@@ -841,24 +841,24 @@ tip: 请善用浏览器的搜索功能
 | act3bossrush_02 | 惊惧与血色 | Blood and Terror | 恐怖と血色 |
 | act3bossrush_03 | 不测之渊 | Deep in Danger | 不測の淵 |
 | act3bossrush_04 | 虔信者的前路 | Path of the Faithful | 信ずる者の行方 |
-| act40side_01 | 一清二白 | - | - |
-| act40side_02 | 糖瓜粘 | - | - |
-| act40side_03 | 油泼扯面 | - | - |
-| act40side_04 | 雪里蕻 | - | - |
-| act40side_05 | 醍醐汤 | - | - |
-| act40side_06 | 胜肉火方 | - | - |
-| act40side_07 | 五省盘 | - | - |
-| act40side_08 | 金玉藏心 | - | - |
-| act40side_09 | 长寿面 | - | - |
-| act40side_mo01 | 一日三餐 | - | - |
-| act40side_s01 | 周岁宴 | - | - |
-| act40side_s02 | 新婚宴 | - | - |
-| act40side_s03 | 寿辰宴 | - | - |
-| act40side_s04 | 白事宴 | - | - |
-| act40side_st01 | 陈皮菊花茶 | - | - |
-| act40side_st02 | 雷公栗 | - | - |
-| act40side_st03 | 须问汤 | - | - |
-| act40side_tr01 | 翡翠墨玉 | - | - |
+| act40side_01 | 一清二白 | - | 一清二白 |
+| act40side_02 | 糖瓜粘 | - | 糖瓜粘 |
+| act40side_03 | 油泼扯面 | - | 油潑撦麺 |
+| act40side_04 | 雪里蕻 | - | 雪裡蕻 |
+| act40side_05 | 醍醐汤 | - | 醍醐湯 |
+| act40side_06 | 胜肉火方 | - | 勝肉火方 |
+| act40side_07 | 五省盘 | - | 五省盤 |
+| act40side_08 | 金玉藏心 | - | 黄玉蔵心 |
+| act40side_09 | 长寿面 | - | 長寿麺 |
+| act40side_mo01 | 一日三餐 | - | 一日三食 |
+| act40side_s01 | 周岁宴 | - | 周歳宴 |
+| act40side_s02 | 新婚宴 | - | 新婚宴 |
+| act40side_s03 | 寿辰宴 | - | 寿辰宴 |
+| act40side_s04 | 白事宴 | - | 白事宴 |
+| act40side_st01 | 陈皮菊花茶 | - | 陳皮菊花茶 |
+| act40side_st02 | 雷公栗 | - | 雷公栗 |
+| act40side_st03 | 须问汤 | - | 須問湯 |
+| act40side_tr01 | 翡翠墨玉 | - | 翡翠墨玉 |
 | act41side_01 | 扉页所见 | - | - |
 | act41side_02 | 不过别离 | - | - |
 | act41side_03 | 惶惑与冲动 | - | - |
