@@ -362,6 +362,7 @@ tip: 请善用浏览器的搜索功能
 | act5bossrush_relic_03 | 冗量阵列 | - | - |
 | act5bossrush_relic_04 | 全面过载 | - | - |
 | act5bossrush_token_relic | 数据黑盒 | - | - |
+| act5collection_point_token | 特殊兑换点数 | - | - |
 | act5d0_point_medal | 终极企鹅勋章 | Top Tier Penguin Medal | ウルトラPG勲章 |
 | act5d0_point_medal_rep_1 | 终极企鹅勋章 | Top Tier Penguin Medal | ウルトラPG勲章 |
 | act5d1_point_conbounty | 合约赏金 | Contract Bounty | 契約賞金 |
@@ -1193,6 +1194,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_samiRoom_1 | 萨米印象家具收藏包一 | Sami Impressions Furniture Pack I | サーミ風家具パックvol.1 |
 | uni_set_samiRoom_2 | 萨米印象家具收藏包二 | Sami Impressions Furniture Pack II | サーミ風家具パックvol.2 |
 | uni_set_stage | 风雪过境家具收藏包 | Break the Ice Furniture Pack | 風雪一過家具パック |
+| uni_set_taiko | 祭典娱乐室收藏包 | - | - |
 | uni_set_teaHouse | 将进酒家具收藏包 | Invitation to Wine Furniture Pack | 将進酒家具パック |
 | uni_set_westCoast | 多索雷斯假日家具收藏包 | Dossoles Holiday Furniture Pack | ドッソレスホリデー家具パック |
 | voucher_5chipPackage | 自助芯片印刻仪 | Automatic Chip Etcher | SoCセルフプリンター |

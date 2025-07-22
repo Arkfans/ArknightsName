@@ -8117,6 +8117,12 @@
       "zh_CN": "夏卉 FA062"
     }
   },
+  "char_151_myrtle@taiko#1": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "繁闹祭典"
+    }
+  },
   "char_154_morgan@epoque#47": {
     "type": "SKIN",
     "names": {
@@ -23230,6 +23236,12 @@
       "zh_CN": "引航者试炼"
     }
   },
+  "act5collection": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "御鼓吉音限时任务"
+    }
+  },
   "act5d0": {
     "type": "ACTIVITY",
     "names": {
@@ -26611,6 +26623,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "数据黑盒"
+    }
+  },
+  "act5collection_point_token": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "特殊兑换点数"
     }
   },
   "act5d0_point_medal": {
@@ -33163,6 +33181,12 @@
       "en_US": "Break the Ice Furniture Pack",
       "ja_JP": "風雪一過家具パック",
       "zh_CN": "风雪过境家具收藏包"
+    }
+  },
+  "uni_set_taiko": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "祭典娱乐室收藏包"
     }
   },
   "uni_set_teaHouse": {
@@ -54044,6 +54068,12 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "大巴扎"
+    }
+  },
+  "camp_r_29": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "鳞骸盐漠 "
     }
   },
   "hard_05-01": {

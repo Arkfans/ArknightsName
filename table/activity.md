@@ -219,6 +219,7 @@ Event | なないろのお茶会 |
 イベント |
 | act4switch | 时光的赠礼  | - | - |
 | act5bossrush | 引航者试炼 | - | - |
+| act5collection | 御鼓吉音限时任务 | - | - |
 | act5d0 | 喧闹法则 | Code of Brawl | 喧騒の掟 |
 | act5d1 | 危机合约 | Contingency Contract | 危機契約 |
 | act5fun | 愚人节活动 | April Fools' Day Event | エイプリルフール |

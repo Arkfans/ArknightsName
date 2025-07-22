@@ -1044,6 +1044,7 @@ tip: 请善用浏览器的搜索功能
 | char_150_snakek@yun#7 | 与荷 | - | - |
 | char_151_myrtle@epoque#12 | 淡金庆典 | Light Gold Celebration | 金色のマーチ |
 | char_151_myrtle@summer#12 | 夏卉 FA062 | Summer Flowers FA062 | 夏の花弁FA062 |
+| char_151_myrtle@taiko#1 | 繁闹祭典 | - | - |
 | char_154_morgan@epoque#47 | 字里行间 | - | - |
 | char_155_tiger@striker#2 | 悍将 | Valiant General | 猛将 |
 | char_158_milu@snow#2 | 覆雪 | Snowywatch | 白い狩人 |
@@ -2992,6 +2993,7 @@ Event | なないろのお茶会 |
 イベント |
 | act4switch | 时光的赠礼  | - | - |
 | act5bossrush | 引航者试炼 | - | - |
+| act5collection | 御鼓吉音限时任务 | - | - |
 | act5d0 | 喧闹法则 | Code of Brawl | 喧騒の掟 |
 | act5d1 | 危机合约 | Contingency Contract | 危機契約 |
 | act5fun | 愚人节活动 | April Fools' Day Event | エイプリルフール |
@@ -3427,6 +3429,7 @@ Event | なないろのお茶会 |
 | act5bossrush_relic_03 | 冗量阵列 | - | - |
 | act5bossrush_relic_04 | 全面过载 | - | - |
 | act5bossrush_token_relic | 数据黑盒 | - | - |
+| act5collection_point_token | 特殊兑换点数 | - | - |
 | act5d0_point_medal | 终极企鹅勋章 | Top Tier Penguin Medal | ウルトラPG勲章 |
 | act5d0_point_medal_rep_1 | 终极企鹅勋章 | Top Tier Penguin Medal | ウルトラPG勲章 |
 | act5d1_point_conbounty | 合约赏金 | Contract Bounty | 契約賞金 |
@@ -4258,6 +4261,7 @@ Event | なないろのお茶会 |
 | uni_set_samiRoom_1 | 萨米印象家具收藏包一 | Sami Impressions Furniture Pack I | サーミ風家具パックvol.1 |
 | uni_set_samiRoom_2 | 萨米印象家具收藏包二 | Sami Impressions Furniture Pack II | サーミ風家具パックvol.2 |
 | uni_set_stage | 风雪过境家具收藏包 | Break the Ice Furniture Pack | 風雪一過家具パック |
+| uni_set_taiko | 祭典娱乐室收藏包 | - | - |
 | uni_set_teaHouse | 将进酒家具收藏包 | Invitation to Wine Furniture Pack | 将進酒家具パック |
 | uni_set_westCoast | 多索雷斯假日家具收藏包 | Dossoles Holiday Furniture Pack | ドッソレスホリデー家具パック |
 | voucher_5chipPackage | 自助芯片印刻仪 | Automatic Chip Etcher | SoCセルフプリンター |
@@ -6972,6 +6976,7 @@ Event | なないろのお茶会 |
 | camp_r_26 | 壬午号水稻田 | Paddy Field 9-7 | 壬午号水田 |
 | camp_r_27 | 选帝侯广场 | - | - |
 | camp_r_28 | 大巴扎 | - | - |
+| camp_r_29 | 鳞骸盐漠  | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |
 | hard_05-02 | 炼狱行动-2 | Operation Inferno-2 | 煉獄作戦-2 |
 | hard_05-03 | 炼狱行动-3 | Operation Inferno-3 | 煉獄作戦-3 |

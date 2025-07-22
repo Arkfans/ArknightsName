@@ -1718,6 +1718,9 @@
   "act5bossrush_token_relic": {
     "zh_CN": "数据黑盒"
   },
+  "act5collection_point_token": {
+    "zh_CN": "特殊兑换点数"
+  },
   "act5d0_point_medal": {
     "en_US": "Top Tier Penguin Medal",
     "ja_JP": "ウルトラPG勲章",
@@ -5776,6 +5779,9 @@
     "en_US": "Break the Ice Furniture Pack",
     "ja_JP": "風雪一過家具パック",
     "zh_CN": "风雪过境家具收藏包"
+  },
+  "uni_set_taiko": {
+    "zh_CN": "祭典娱乐室收藏包"
   },
   "uni_set_teaHouse": {
     "en_US": "Invitation to Wine Furniture Pack",

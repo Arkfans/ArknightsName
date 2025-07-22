@@ -90,6 +90,7 @@ tip: 请善用浏览器的搜索功能
 | char_150_snakek@yun#7 | 与荷 | - | - |
 | char_151_myrtle@epoque#12 | 淡金庆典 | Light Gold Celebration | 金色のマーチ |
 | char_151_myrtle@summer#12 | 夏卉 FA062 | Summer Flowers FA062 | 夏の花弁FA062 |
+| char_151_myrtle@taiko#1 | 繁闹祭典 | - | - |
 | char_154_morgan@epoque#47 | 字里行间 | - | - |
 | char_155_tiger@striker#2 | 悍将 | Valiant General | 猛将 |
 | char_158_milu@snow#2 | 覆雪 | Snowywatch | 白い狩人 |
