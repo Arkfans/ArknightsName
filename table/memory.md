@@ -66,6 +66,7 @@ tip: 请善用浏览器的搜索功能
 | story_cast3_set_1_story_1 | 不朽 | Immortal | 不朽 |
 | story_catap_set_1_story_1 | 挣脱 | Break Free | 脱出 |
 | story_catap_set_2_story_1 | 改变 | Change | 改変 |
+| story_cathy_set_1_story_1 | 日色温柔 | - | - |
 | story_ccheal_set_1_story_1 | 学医之路 | - | - |
 | story_cello_set_1_story_1 | 天空与流云 | Himmelszelt und Federwolke | 空と雲 |
 | story_cement_set_1_story_1 | 矿井里的太阳 | Sun in the Mine | 坑道の中の太陽 |
@@ -85,6 +86,7 @@ tip: 请善用浏览器的搜索功能
 | story_coldst_set_1_story_1 | 一路顺风 | Have A Safe Trip | いってらっしゃい |
 | story_crow_set_1_story_1 | 坚韧的羽毛 | Plumas de Tenacidad | 強靭な羽根 |
 | story_ctable_set_1_story_1 | 飞进窗的羽兽 | A Fowl Through the Window | 窓から飛び込んだ羽獣 |
+| story_ctrail_set_1_story_1 | 迁徙前日 | - | - |
 | story_cutter_set_1_story_1 | 速食食品 | Meals, Ready-to-Eat | 携行食 |
 | story_dagda_set_1_story_1 | 脚步不停 | How She Strode Onward | 止まらない歩み |
 | story_deepcl_set_1_story_1 | 幽蓝怀想 | Azure Memories | 深き青の追想 |
@@ -152,6 +154,7 @@ tip: 请善用浏览器的搜索功能
 | story_hmau_set_1_story_1 | 南墙 | South Wall | 壊れない壁 |
 | story_horn_set_1_story_1 | 独奏曲 | Solo | 独奏曲 |
 | story_hpsts_set_1_story_1 | 锻造 | Forging | 鍛造 |
+| story_hsguma_set_1_story_1 | 抉择过后 | - | - |
 | story_huang_set_1_story_1 | 你愿意吗 | Will You? | 意思を問う |
 | story_humus_set_1_story_1 | 荒地巧匠 | Wasteland Artisan | 荒野の匠 |
 | story_iana_set_1_story_1 | 探求明天 | Searching for Tomorrow | 明日への探求 |
@@ -170,6 +173,7 @@ tip: 请善用浏览器的搜索功能
 | story_kaitou_set_1_story_1 | 被折射的星光 | Refracted Starlight | 屈折した星光 |
 | story_kalts_set_1_story_1 | 长路至此 | - | - |
 | story_kazema_set_1_story_1 | 应为必为 | One Should, One Must | 為すべきこと |
+| story_kazema_set_2_story_1 | 在人群之中 | - | - |
 | story_kirara_set_1_story_1 | 隐藏结局 | Secret Ending | 隠しエンディング |
 | story_kirara_set_2_story_1 | 无伤通关 | No-Damage Clear | ノーダメージクリア |
 | story_kjera_set_1_story_1 | 祂所关心的 | All She Cares About | 気に掛けるもの |
@@ -318,6 +322,7 @@ tip: 请善用浏览器的搜索功能
 | story_totter_set_2_story_1 | 归乡 | Homecoming | 帰郷 |
 | story_tuye_set_1_story_1 | 沙漠之虹 | Desert Rainbow | 砂漠にかかる虹 |
 | story_utage_set_1_story_1 | 时髦把戏 | The Game of Chic | トレンディ・トリック |
+| story_utage_set_2_story_1 | 鵺切的故事 | - | - |
 | story_vigil_set_1_story_1 | 未来将至 | Future Coming | 訪れる未来 |
 | story_vigil_set_2_story_1 | 双刃剑 | Double-Edged Sword | 諸刃の剣 |
 | story_vigna_set_1_story_1 | 该做的事 | What You've Gotta Do | すべきこと |

@@ -18,6 +18,7 @@ tip: 请善用浏览器的搜索功能
 | char_1012_skadi2@boc#4 | 升华 | Sublimation | 昇華 |
 | char_1012_skadi2@iteration#2 | 红女爵 | Red Countess | レッドカウンテス |
 | char_1013_chen2@boc#6 | 万重山 | Ten Thousand Mountains | 万重山 |
+| char_1013_chen2@summer#20 | 悠然假日 HD79 | - | - |
 | char_1014_nearl2@epoque#17 | 复现荣光 | Relight | 栄光の再臨 |
 | char_1016_agoat2@epoque#34 | 远行前的野餐 | A Picnic Before A Long Trip | 遠き旅へのピクニック |
 | char_101_sora@epoque#17 | 如歌 | Melodiosa | メロディオーソ |
@@ -40,6 +41,7 @@ tip: 请善用浏览器的搜索功能
 | char_1034_jesca2@cfa#1 | 《上任达维镇》 | 'Ride to Davistown' | 『デイヴィスタウンへ赴く』 |
 | char_1035_wisdel@sale#14 | 超新星 | - | - |
 | char_1037_amiya3@sale#13 | 寰宇独奏 | Solo Around The World | 宙に響く独奏 |
+| char_1039_thorn2@marthe#9 | 无际之帆 | - | - |
 | char_103_angel@kfc#1 | 城市骑手 | City Rider | シティライダー |
 | char_103_angel@sale#8 | 午夜邮差 | Midnight Delivery | 真夜中の配達人 |
 | char_103_angel@wild#1 | 野地秘行 | Wild Operation | 荒野潜行 |
@@ -72,6 +74,7 @@ tip: 请善用浏览器的搜索功能
 | char_130_doberm@epoque#7 | 少尉 | Lieutenant | 少尉 |
 | char_131_flameb@summer#8 | 悠然假日 HDm04 | Casual Vacation HDm04 | ホリデーHDm04 |
 | char_131_flameb@whirlwind#6 | 单刀 | One Blade | 単刀 |
+| char_133_mm@summer#20 | 夏卉 FA054 | - | - |
 | char_134_ifrit@kfc#1 | 儿童派对 | Children's Party | キッズパーティー |
 | char_134_ifrit@summer#1 | 日晒 SS.SP | Sunburn SS.SP | サンライトSS.SP |
 | char_135_halo@epoque#25 | 所愿 | Her Aspiration | 冀望 |
@@ -313,6 +316,7 @@ tip: 请善用浏览器的搜索功能
 | char_4054_malist@summer#14 | 悠然假日 HDm74 | Holiday HDm74 | ホリデーHDm74 |
 | char_4055_bgsnow@wild#7 | 字句中的雪原 | Snowy Plains in Words | 行間にある雪原 |
 | char_4055_bgsnow@yun#7 | 行梦侧畔 | - | - |
+| char_4058_pepe@sightseer#2 | 星移 | - | - |
 | char_405_absin@epoque#28 | 正午余光 | Noon Twilight | 真昼の残照 |
 | char_4062_totter@summer#17 | 灿阳朝露 SDm09 | Shining Dew SDm09 | 炎陽煌く露SDm09 |
 | char_4063_quartz@epoque#39 | 封面佣兵 | - | - |
@@ -385,6 +389,7 @@ tip: 请善用浏览器的搜索功能
 | char_440_pinecn@shining#1 | 倾声歌唱 | Sing a Song | 歌声よ届け |
 | char_449_glider@epoque#17 | 荒野之后 | Wildness Behind | 荒野のあとに |
 | char_449_glider@nian#10 | 洇灵雨 | Saturated Within Rain | 霊雨朦朧 |
+| char_450_necras@summer#20 | 夏卉 FA161 | - | - |
 | char_451_robin@epoque#13 | 原野的馈赠 | Gift of Wild | 荒野の贈り物 |
 | char_452_bstalk@snow#4 | 未完成的礼物 | Gift Uncompleted | 未完成のギフト |
 | char_455_nothin@nian#7 | 冷山月 | Pale Rising Moon | 冷山月 |

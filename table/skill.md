@@ -316,6 +316,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_hamoni_1 | 轻巧舞步 | Lithe Steps | 舞は軽やかに |
 | skchr_hamoni_2 | 沉溺之灾 | A Disastrous Drowning | 耽溺の結末 |
 | skchr_harold_2 | 重症优先 | Triage | 重体優先 |
+| skchr_haruka_1 | 夜啼彩羽 | - | - |
+| skchr_haruka_2 | 幽隙栖萤 | - | - |
+| skchr_haruka_3 | 夏末游鳞 | - | - |
 | skchr_hbisc2_2 | 抚业之触 | Nurturing Touch | 業の救済 |
 | skchr_headbr_2 | 乌萨斯战吼 | Ursus's Roar | ウルサスの雄叫び |
 | skchr_heidi_1 | 虚构故事·怒士 | Tale of Fiction: A Warrior's Anger | 架空の物語・怒れる者 |
@@ -338,6 +341,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_horn_3 | 终极防线 | Ultimate Line of Defense | 死地戦線 |
 | skchr_hpsts_1 | 坚守模式 | Guardian Mode | 鉄壁の構え |
 | skchr_hpsts_2 | 武力模式 | Combat Mode | 猛攻の構え |
+| skchr_hsgma2_1 | 恶业苦果 | - | - |
+| skchr_hsgma2_2 | 无始无明 | - | - |
+| skchr_hsgma2_3 | 地狱变相 | - | - |
 | skchr_hsguma_1 | 战意 | Warpath | 戦意昂揚 |
 | skchr_hsguma_2 | 荆棘 | Thorns | 荊棘 |
 | skchr_hsguma_3 | 力之锯 | Saw of Strength | 般若 |
@@ -385,6 +391,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_kalts_3 | 指令：熔毁 | Command: Meltdown | 指令：メルトダウン |
 | skchr_kazema_1 | 纸艺·迅击 | Origami Art - Swift Strike | 紙織・速攻 |
 | skchr_kazema_2 | 纸艺·双影 | Origami Art - Twin Shadows | 紙織・双影 |
+| skchr_kichi_1 | 欢迎您来！ | - | - |
+| skchr_kichi_2 | 吉星高照！ | - | - |
 | skchr_kirara_1 | 锚击 | Anchor Strike | アンカークラッシュ |
 | skchr_kirara_2 | 锚点捕捉 | Anchor Point Snap | アンカーポイント |
 | skchr_kjera_2 | 心随意动 | Unrestrained Heart | 心意のままに |
@@ -435,6 +443,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_lunacu_2 | 伏击之影 | Umbral Ambush | 影に潜む狩人 |
 | skchr_luton_1 | 强力击·β型 | Power Strike β | 強撃β |
 | skchr_luton_2 | 强磁防卫 | Magnetic Defense | 強磁場シールド |
+| skchr_makiri_1 | 入场安排 | - | - |
+| skchr_makiri_2 | 万手成局 | - | - |
 | skchr_malist_2 | 神工意匠 | Prodigious Craftsmanship | マスターピース |
 | skchr_mantic_1 | 蝎毒 | Scorpion Venom | アジトキシン |
 | skchr_mantic_2 | 蓄力毒尾击 | Toxic Overload | スコーピオンテール |
@@ -959,6 +969,8 @@ tip: 请善用浏览器的搜索功能
 | sktok_bouncy_1 | 圣徒之手 | Hand of the Saint | 聖徒の御手 |
 | sktok_bouncy_2 | 圣徒之手·清理模式 | Hand of the Saint - Purification | 聖徒の御手・清掃モード |
 | sktok_bouncy_3 | 圣徒之手·巡回模式 | Hand of the Saint - Patrol | 聖徒の御手・巡回モード |
+| sktok_boxmac | 天命迸发 | - | - |
+| sktok_boxnma | 天命迸发 | - | - |
 | sktok_bqmlee | 步青云 | Skystep | 一躍昇天 |
 | sktok_bqmleea | 步青云 | Skystep | 一躍昇天 |
 | sktok_bqmleeb | 步青云 | Skystep | 一躍昇天 |
@@ -1174,6 +1186,8 @@ tip: 请善用浏览器的搜索功能
 | sktok_outset | 炸弹载荷点 | Bomb Loading Point | 爆弾積込み地点 |
 | sktok_oxygen | 防水蚀镀膜装置 | Erosion-Resistant Coating Application Device | 耐水蝕コーティング装置 |
 | sktok_paras | 繁衍 | Propagate | 繁殖 |
+| sktok_pckstp | 天命来袭 | - | - |
+| sktok_pckzhn | “斩” | - | - |
 | sktok_peacokfool | 断罪模式！ | Conviction Mode! | 断罪モード！ |
 | sktok_phatm2_encdool_2 | 本能的召唤 | - | - |
 | sktok_phatm2_mndclv_3 | 迷狂牢笼 | - | - |

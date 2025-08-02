@@ -1386,6 +1386,18 @@
   "trap_251_buftrp": {
     "zh_CN": "遗物中枢"
   },
+  "trap_252_pckstp": {
+    "zh_CN": "天命来袭"
+  },
+  "trap_253_boxnma": {
+    "zh_CN": "压力舒缓帮手"
+  },
+  "trap_254_boxmac": {
+    "zh_CN": "压力归零帮手"
+  },
+  "trap_255_pckzhn": {
+    "zh_CN": "“斩”"
+  },
   "trap_400_xbfarm": {
     "en_US": "Portable Planting Trough",
     "ja_JP": "栽培ポット",

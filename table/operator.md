@@ -40,6 +40,7 @@ tip: 请善用浏览器的搜索功能
 | char_1041_angel2 | 新约能天使 | - | - |
 | char_1042_phatm2 | 酒神 | - | - |
 | char_1043_leizi2 | 司霆惊蛰 | - | - |
+| char_1044_hsgma2 | 斩业星熊 | - | - |
 | char_106_franka | 芙兰卡 | Franka | フランカ |
 | char_107_liskam | 雷蛇 | Liskarm | リスカム |
 | char_108_silent | 赫默 | Silence | サイレンス |
@@ -331,6 +332,9 @@ tip: 请善用浏览器的搜索功能
 | char_4195_radian | 电弧 | - | - |
 | char_4196_reckpr | 录武官 | - | - |
 | char_4198_christ | Miss.Christine | - | - |
+| char_4199_makiri | 松桐 | - | - |
+| char_4202_haruka | 遥 | - | - |
+| char_4203_kichi | 吉星 | - | - |
 | char_420_flamtl | 焰尾 | Flametail | フレイムテイル |
 | char_421_crow | 羽毛笔 | La Pluma | ラ・プルマ |
 | char_422_aurora | 极光 | Aurora | オーロラ |

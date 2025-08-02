@@ -159,6 +159,7 @@ tip: 请善用浏览器的搜索功能
 | LIMITED_TKT_GACHA_10_5601 | 荒芜探戈寻访凭证 | Tango Decadenza Headhunting Permit | 大感謝祭10回スカウト券 |
 | LIMITED_TKT_GACHA_10_5801 | 欢宴良宵寻访凭证 | A Pleasant Banquet Headhunting Permit | 5.5周年10回スカウト券 |
 | LIMITED_TKT_GACHA_10_6101 | 信徒标兵寻访凭证 | - | - |
+| LIMITED_TKT_GACHA_10_6401 | 浪客行歌寻访凭证 | - | - |
 | LIMITED_TKT_GACHA_10_903 | 苏醒纪念寻访凭证 | Awakening Commemoration Permit | 1周年記念10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_1701 | 特勤专家寻访凭证 | Expert Headhunting Permit | 精鋭小隊10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_3601 | 指引明路寻访凭证 | Scouting the Light Headhunting Permit | ハンター凱旋10回スカウト券 |
@@ -185,6 +186,7 @@ tip: 请善用浏览器的搜索功能
 | LMTGS_COIN_5801 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_601 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_6101 | 寻访数据契约 | - | - |
+| LMTGS_COIN_6401 | 寻访数据契约 | - | - |
 | LMTGS_COIN_903 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | Logistics_Special_Permit | 后勤特别许可证 | Logistics Special Permit | 特別支援申請許可証 |
 | REP_COIN | 情报凭证 | Intelligence Certificate | 情報資格証 |
@@ -344,6 +346,9 @@ tip: 请善用浏览器的搜索功能
 | act42d0_token_evaluation | 试验数据集 | Experimental Dataset | テストデータ集 |
 | act42side_token_pacifier | 蒙恩的奶嘴 | - | - |
 | act43side_token_phantom | 神秘片场黑影 | - | - |
+| act44side_token_information | 闲言碎语 | - | - |
+| act44side_token_ticket | 艺人见面抽选券 | - | - |
+| act44side_token_treasure | "宝物袋" | - | - |
 | act4bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act4bossrush_relic_01 | 轻量化载荷 | Lightened Load | 積込み軽量化 |
 | act4bossrush_relic_02 | 核心预热 | Preheated Core | コア予熱 |
@@ -645,6 +650,7 @@ tip: 请善用浏览器的搜索功能
 | favor_add_ulika | 主播U的直播切片 | Streamer U's Stream Clips | ライバーUの配信切り抜き |
 | itempack_gacha_1 | 福运鼓鼓礼袋 | Bounteous Fortunes Gift Bag | 幸運満タンパック |
 | itempack_gold_1 | 特别版!超强!老板奖章 | - | - |
+| itempack_gold_2 | 精心准备的试饮套装 | - | - |
 | itempack_main_1 | 罗德岛补给箱 | - | - |
 | itempack_mod_10 | 狙击芯片组印刻仪 | Sniper Chip Pack Etcher | 中級狙撃SoCプリンター |
 | itempack_mod_11 | 术师芯片组印刻仪 | Caster Chip Pack Etcher | 中級術師SoCプリンター |
@@ -700,6 +706,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_1041_angel2 | 新约能天使的信物 | - | - |
 | p_char_1042_phatm2 | 酒神的信物 | - | - |
 | p_char_1043_leizi2 | 司霆惊蛰的信物 | - | - |
+| p_char_1044_hsgma2 | 斩业星熊的信物 | - | - |
 | p_char_106_franka | 芙兰卡的信物 | Franka's Token | フランカの印 |
 | p_char_107_liskam | 雷蛇的信物 | Liskarm's Token | リスカムの印 |
 | p_char_108_silent | 赫默的信物 | Silence's Token | サイレンスの印 |
@@ -987,6 +994,9 @@ tip: 请善用浏览器的搜索功能
 | p_char_4195_radian | 电弧的信物 | - | - |
 | p_char_4196_reckpr | 录武官的信物 | - | - |
 | p_char_4198_christ | Miss.Christine的信物 | - | - |
+| p_char_4199_makiri | 松桐的信物 | - | - |
+| p_char_4202_haruka | 遥的信物 | - | - |
+| p_char_4203_kichi | 吉星的信物 | - | - |
 | p_char_420_flamtl | 焰尾的信物 | Flametail's Token | フレイムテイルの印 |
 | p_char_421_crow | 羽毛笔的信物 | La Pluma's Token | ラ・プルマの印 |
 | p_char_422_aurora | 极光的信物 | Aurora's Token | オーロラの印 |
@@ -1263,6 +1273,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_recruitR5_pick5001 | 资深干员调用凭证 | Senior Operator Transfer Permit | ★5招聘指名券 |
 | voucher_recruitR5_pick6101 | 资深干员调用凭证 | - | - |
 | voucher_recruitR6_pick5301 | 高级干员调用凭证-新人 | Top Operator Transfer Permit - Starter | 初心者★6招聘指名券 |
+| voucher_recruitR6_pick6401 | 高级干员活动调用凭证 | - | - |
 | voucher_skill_specialLevelMax_4 | 专业干员技巧集 | Professional Operator Skill Training Pack | ★4スキル指南集 |
 | voucher_skill_specialLevelMax_5 | 资深干员技巧集 | Senior Operator Skill Training Pack | ★5スキル指南集 |
 | voucher_skill_specialLevelMax_6 | 高级资深干员技巧集 | Top Operator Skill Training Pack | ★6スキル指南集 |

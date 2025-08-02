@@ -761,6 +761,9 @@
   "LIMITED_TKT_GACHA_10_6101": {
     "zh_CN": "信徒标兵寻访凭证"
   },
+  "LIMITED_TKT_GACHA_10_6401": {
+    "zh_CN": "浪客行歌寻访凭证"
+  },
   "LIMITED_TKT_GACHA_10_903": {
     "en_US": "Awakening Commemoration Permit",
     "ja_JP": "1周年記念10回スカウト券",
@@ -887,6 +890,9 @@
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_6101": {
+    "zh_CN": "寻访数据契约"
+  },
+  "LMTGS_COIN_6401": {
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_903": {
@@ -1657,6 +1663,15 @@
   },
   "act43side_token_phantom": {
     "zh_CN": "神秘片场黑影"
+  },
+  "act44side_token_information": {
+    "zh_CN": "闲言碎语"
+  },
+  "act44side_token_ticket": {
+    "zh_CN": "艺人见面抽选券"
+  },
+  "act44side_token_treasure": {
+    "zh_CN": "\"宝物袋\""
   },
   "act4bossrush_milestone_point": {
     "en_US": "Trial EXP",
@@ -3093,6 +3108,9 @@
   "itempack_gold_1": {
     "zh_CN": "特别版!超强!老板奖章"
   },
+  "itempack_gold_2": {
+    "zh_CN": "精心准备的试饮套装"
+  },
   "itempack_main_1": {
     "zh_CN": "罗德岛补给箱"
   },
@@ -3359,6 +3377,9 @@
   },
   "p_char_1043_leizi2": {
     "zh_CN": "司霆惊蛰的信物"
+  },
+  "p_char_1044_hsgma2": {
+    "zh_CN": "斩业星熊的信物"
   },
   "p_char_106_franka": {
     "en_US": "Franka's Token",
@@ -4767,6 +4788,15 @@
   "p_char_4198_christ": {
     "zh_CN": "Miss.Christine的信物"
   },
+  "p_char_4199_makiri": {
+    "zh_CN": "松桐的信物"
+  },
+  "p_char_4202_haruka": {
+    "zh_CN": "遥的信物"
+  },
+  "p_char_4203_kichi": {
+    "zh_CN": "吉星的信物"
+  },
   "p_char_420_flamtl": {
     "en_US": "Flametail's Token",
     "ja_JP": "フレイムテイルの印",
@@ -6108,6 +6138,9 @@
     "en_US": "Top Operator Transfer Permit - Starter",
     "ja_JP": "初心者★6招聘指名券",
     "zh_CN": "高级干员调用凭证-新人"
+  },
+  "voucher_recruitR6_pick6401": {
+    "zh_CN": "高级干员活动调用凭证"
   },
   "voucher_skill_specialLevelMax_4": {
     "en_US": "Professional Operator Skill Training Pack",

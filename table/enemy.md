@@ -213,6 +213,23 @@ tip: 请善用浏览器的搜索功能
 | enemy_10102_crblt_2 | 彻底报废的胶卷 | - | - |
 | enemy_1010_demon | 萨卡兹大剑手 | Sarkaz Greatswordsman | サルカズ大剣士 |
 | enemy_1010_demon_2 | 萨卡兹大剑组长 | Sarkaz Greatswordsman Leader | サルカズ大剣隊長 |
+| enemy_10111_ymgpck | “某种天命” | - | - |
+| enemy_10111_ymgpck_2 | “某种天命” | - | - |
+| enemy_10112_ymgds | 冒失的小弟 | - | - |
+| enemy_10112_ymgds_2 | 资深的小弟 | - | - |
+| enemy_10113_ymgung | 雷遁忍者 | - | - |
+| enemy_10113_ymgung_2 | 雷遁宗师 | - | - |
+| enemy_10114_ymgsld | 悲观的大哥 | - | - |
+| enemy_10114_ymgsld_2 | 绝望的大哥 | - | - |
+| enemy_10115_ymghol | 土遁忍者 | - | - |
+| enemy_10115_ymghol_2 | 土遁宗师 | - | - |
+| enemy_10116_ymgtop | 水遁忍者 | - | - |
+| enemy_10116_ymgtop_2 | 水遁宗师 | - | - |
+| enemy_10117_ymggld | 风遁忍者 | - | - |
+| enemy_10117_ymggld_2 | 风遁宗师 | - | - |
+| enemy_10118_ymgprc | 澪 | - | - |
+| enemy_10119_ymgbxm | 压力舒缓帮手 | - | - |
+| enemy_10119_ymgbxm_2 | 压力归零帮手 | - | - |
 | enemy_1011_wizard | 术师 | Caster | 術師 |
 | enemy_1011_wizard_2 | 术师组长 | Caster Leader | 術師隊長 |
 | enemy_1012_dcross | 萨卡兹狙击手 | Sarkaz Crossbowman | サルカズ狙撃兵 |
@@ -1093,6 +1110,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1566_mpascl | “阿斯卡纶” | - | - |
 | enemy_1567_pope | “圣徒” | - | - |
 | enemy_1568_dirctr | “酒神” | - | - |
+| enemy_1570_ymgscm | 三船光平 | - | - |
 | enemy_2001_duckmi | 鸭爵 | Duck Lord | ダック卿 |
 | enemy_2002_bearmi | 高普尼克 | Gopnik | ゴプニク |
 | enemy_2003_rockman | 迷路的巨像 | Lost Colossus | 迷子の巨像 |

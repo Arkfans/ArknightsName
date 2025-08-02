@@ -903,6 +903,22 @@ tip: 请善用浏览器的搜索功能
 | act43side_st02 | 焦点 | - | - |
 | act43side_st03 | 致观众 | - | - |
 | act43side_tr01 | 幕间曲 | - | - |
+| act44side_01 | 极道作风 | - | - |
+| act44side_02 | 灵异特辑 | - | - |
+| act44side_03 | 夜逃通告 | - | - |
+| act44side_04 | 百物语 | - | - |
+| act44side_05 | 遗祸 | - | - |
+| act44side_06 | 漩涡 | - | - |
+| act44side_07 | 冷月 | - | - |
+| act44side_08 | 逝川 | - | - |
+| act44side_sp01 | 起点 | - | - |
+| act44side_sp02 | 回弹角 | - | - |
+| act44side_sp03 | 满弧闭环 | - | - |
+| act44side_st01 | 鬼之影 | - | - |
+| act44side_st02 | 对称 | - | - |
+| act44side_st03 | 过客 | - | - |
+| act44side_tr01 | 天命滚滚 | - | - |
+| act44side_tr02 | 雪花屏 | - | - |
 | act4bossrush_01 | 冰霜与战火 | Frost and Fire | 氷霜と戦火 |
 | act4bossrush_02 | 无关音律 | Out Of Tune | アウトオブチューン |
 | act4bossrush_03 | 延烧的深池 | Dublinn Burning | 延焼する葦沼 |

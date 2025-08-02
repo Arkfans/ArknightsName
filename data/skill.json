@@ -1526,6 +1526,15 @@
     "ja_JP": "重体優先",
     "zh_CN": "重症优先"
   },
+  "skchr_haruka_1": {
+    "zh_CN": "夜啼彩羽"
+  },
+  "skchr_haruka_2": {
+    "zh_CN": "幽隙栖萤"
+  },
+  "skchr_haruka_3": {
+    "zh_CN": "夏末游鳞"
+  },
   "skchr_hbisc2_2": {
     "en_US": "Nurturing Touch",
     "ja_JP": "業の救済",
@@ -1635,6 +1644,15 @@
     "en_US": "Combat Mode",
     "ja_JP": "猛攻の構え",
     "zh_CN": "武力模式"
+  },
+  "skchr_hsgma2_1": {
+    "zh_CN": "恶业苦果"
+  },
+  "skchr_hsgma2_2": {
+    "zh_CN": "无始无明"
+  },
+  "skchr_hsgma2_3": {
+    "zh_CN": "地狱变相"
   },
   "skchr_hsguma_1": {
     "en_US": "Warpath",
@@ -1870,6 +1888,12 @@
     "en_US": "Origami Art - Twin Shadows",
     "ja_JP": "紙織・双影",
     "zh_CN": "纸艺·双影"
+  },
+  "skchr_kichi_1": {
+    "zh_CN": "欢迎您来！"
+  },
+  "skchr_kichi_2": {
+    "zh_CN": "吉星高照！"
   },
   "skchr_kirara_1": {
     "en_US": "Anchor Strike",
@@ -2108,6 +2132,12 @@
     "en_US": "Magnetic Defense",
     "ja_JP": "強磁場シールド",
     "zh_CN": "强磁防卫"
+  },
+  "skchr_makiri_1": {
+    "zh_CN": "入场安排"
+  },
+  "skchr_makiri_2": {
+    "zh_CN": "万手成局"
   },
   "skchr_malist_2": {
     "en_US": "Prodigious Craftsmanship",
@@ -4673,6 +4703,12 @@
     "ja_JP": "聖徒の御手・巡回モード",
     "zh_CN": "圣徒之手·巡回模式"
   },
+  "sktok_boxmac": {
+    "zh_CN": "天命迸发"
+  },
+  "sktok_boxnma": {
+    "zh_CN": "天命迸发"
+  },
   "sktok_bqmlee": {
     "en_US": "Skystep",
     "ja_JP": "一躍昇天",
@@ -5675,6 +5711,12 @@
     "en_US": "Propagate",
     "ja_JP": "繁殖",
     "zh_CN": "繁衍"
+  },
+  "sktok_pckstp": {
+    "zh_CN": "天命来袭"
+  },
+  "sktok_pckzhn": {
+    "zh_CN": "“斩”"
   },
   "sktok_peacokfool": {
     "en_US": "Conviction Mode!",

@@ -85,6 +85,9 @@
     "ja_JP": "夕景に影ありて",
     "zh_CN": "日暮寻路"
   },
+  "act12pray": {
+    "zh_CN": "幸运墙登录活动"
+  },
   "act12side": {
     "en_US": "Dossoles Holiday",
     "ja_JP": "ドッソレスホリデー",
@@ -559,6 +562,9 @@
     "ja_JP": "登臨意・復刻",
     "zh_CN": "登临意·复刻"
   },
+  "act24login": {
+    "zh_CN": "登录领取奖励"
+  },
   "act24side": {
     "en_US": "A Flurry to the Flame",
     "ja_JP": "紅炎遣らう落葉",
@@ -699,6 +705,9 @@
     "en_US": "View From Above Collaboration Event",
     "ja_JP": "山河一望コラボ",
     "zh_CN": "登览锦绣合作活动"
+  },
+  "act2unique": {
+    "zh_CN": "夏日嘉年华特别活动"
   },
   "act2vmulti": {
     "en_US": "Rhodes Island Icebreaker Games",
@@ -911,6 +920,9 @@
     "ja_JP": "嘉辰令月スタンプ",
     "zh_CN": "良辰迎月签到活动"
   },
+  "act44side": {
+    "zh_CN": "墟"
+  },
   "act44sign": {
     "en_US": "Conceptual Crucible Login Event",
     "ja_JP": "仮想試練スタンプ",
@@ -978,6 +990,9 @@
   },
   "act4switch": {
     "zh_CN": "时光的赠礼 "
+  },
+  "act50sign": {
+    "zh_CN": "风物留痕签到活动"
   },
   "act5bossrush": {
     "zh_CN": "引航者试炼"

@@ -24,6 +24,7 @@ tip: 请善用浏览器的搜索功能
 | act12d6 | 刻俄柏的灰蕈迷境 | Ceobe's Fungimist | ケオベの茸狩迷界 |
 | act12login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
 | act12mini | 日暮寻路 | An Obscure Wanderer | 夕景に影ありて |
+| act12pray | 幸运墙登录活动 | - | - |
 | act12side | 多索雷斯假日 | Dossoles Holiday | ドッソレスホリデー |
 | act12sre | 多索雷斯假日·复刻 | Dossoles Holiday | ドッソレスホリデー |
 | act13d0 | 踏寻往昔之风 | Rewinding Breeze | 在りし日の風を求めて |
@@ -124,6 +125,7 @@ tip: 请善用浏览器的搜索功能
 | act23side | 登临意 | Where Vernal Winds Will Never Blow | 登臨意 |
 | act23sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act23sre | 登临意·复刻 | Where Vernal Winds Will Never Blow - Rerun | 登臨意・復刻 |
+| act24login | 登录领取奖励 | - | - |
 | act24side | 落叶逐火 | A Flurry to the Flame | 紅炎遣らう落葉 |
 | act24sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act25side | 孤星 | Lone Trail | 孤星 |
@@ -153,6 +155,7 @@ tip: 请善用浏览器的搜索功能
 | act2pray | 双日城惊奇墙 | Dossoles Amazing Wall | ドッソレススクラッチ |
 | act2signvs | 端阳正午签到活动 | May the Sunshine Still Sign-In Event | スタンプラリー |
 | act2switch | 登览锦绣合作活动 | View From Above Collaboration Event | 山河一望コラボ |
+| act2unique | 夏日嘉年华特别活动 | - | - |
 | act2vmulti | 罗德岛促融共竞 | Rhodes Island Icebreaker Games | ロドス協心競技 |
 | act30side | 银心湖列车 | The Rides to Lake Silberneherze | 銀心湖鉄道 |
 | act30sign | 秋风送爽限时登录活动 | Snow Upon Autumnal Winds Limited Login Event | 早春の風スタンプラリー |
@@ -202,6 +205,7 @@ Event | なないろのお茶会 |
 | act42sign | 品鉴泰拉魔物 | Have A Taste Of Terran Monsters | テラ魔物品評 |
 | act43side | 红丝绒 | - | - |
 | act43sign | 良辰迎月签到活动 | A Good Moony Time Login Event | 嘉辰令月スタンプ |
+| act44side | 墟 | - | - |
 | act44sign | 构想试炼签到活动 | Conceptual Crucible Login Event | 仮想試練スタンプ |
 | act45sign | 感谢庆典前瞻签到 | Thank-You Celebration Prospective Login | 大感謝祭開催直前スタンプラリー |
 | act46sign | 感谢庆典限时签到 | Thank-You Celebration Limited-Time Sign-In | 大感謝祭スタンプ |
@@ -218,6 +222,7 @@ Event | なないろのお茶会 |
 | act4pray | 际崖城惊奇墙登录活动 | Zeruertza Amazing Wall Login Event | 宝くじ
 イベント |
 | act4switch | 时光的赠礼  | - | - |
+| act50sign | 风物留痕签到活动 | - | - |
 | act5bossrush | 引航者试炼 | - | - |
 | act5collection | 御鼓吉音限时任务 | - | - |
 | act5d0 | 喧闹法则 | Code of Brawl | 喧騒の掟 |
