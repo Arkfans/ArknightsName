@@ -74,7 +74,7 @@ tip: 请善用浏览器的搜索功能
 | act18d3d2 | 兔子谷矿区登录活动 | 'Cautus Valley Mining Area' Login Event | コータスバレー採鉱区 |
 | act18d3d3 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act18login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
-| act18mini | 我们明日见 | - | また明日 |
+| act18mini | 我们明日见 | See You Soon | また明日 |
 | act18side | 尘影余音 | Lingering Echoes | 塵影に交わる残響 |
 | act18sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act18sre | 尘影余音·复刻 | Lingering Echoes - Rerun | 塵影に交わる残響・復刻 |
@@ -183,7 +183,7 @@ tip: 请善用浏览器的搜索功能
 | act39side | 出苍白海 | Exodus from the Pale Sea | 白き海の彼方へ |
 | act39sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act3bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
-| act3collection | 潮起潮又起 | - | 沸き返る潮騒 |
+| act3collection | 潮起潮又起 | Another Tides | 沸き返る潮騒 |
 | act3d0 | 火蓝之心 | Heart of Surging Flame | 青く燃ゆる心 |
 | act3d5 | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
 | act3d7 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |

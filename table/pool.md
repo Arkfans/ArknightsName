@@ -202,7 +202,7 @@ tip: 请善用浏览器的搜索功能
 | _NORM_30_0_7 | - | Joint Operation | 連合作戦 |
 | _NORM_32_0_3 | - | Joint Operation | 連合作戦 |
 | _NORM_33_0_5 | - | Joint Operation | 連合作戦 |
-| _NORM_34_0_11 | - | - | 連合作戦 |
+| _NORM_34_0_11 | - | Joint Operation | 連合作戦 |
 | _NORM_3_0_1 | - | Frozen Land | 果てなき氷原 |
 | _NORM_3_1_1 | - | First Snowfall | 雪降る暁 |
 | _NORM_3_2_1 | - | Lisa of the Valley | 峡谷に芽吹く君影草 |
@@ -247,6 +247,6 @@ tip: 请善用浏览器的搜索功能
 | _SINGLE_32_0_5 | - | Clank Liberty | 銃声 |
 | _SINGLE_33_0_1 | - | Never Gilded | 褪せざる栄光 |
 | _SINGLE_34_0_1 | - | Confirmation, Completion, Conduction | 実証、完成、先導 |
-| _SINGLE_34_0_10 | - | - | 河畔の渡し船 |
+| _SINGLE_34_0_10 | - | And The Canoe'll Carry Us To You | 河畔の渡し船 |
 | _SINGLE_34_0_4 | - | The Sojourner | さすらう者 |
 | _SPECIAL_32_0_8 | - | Orienteering Headhunting | セレクトスカウト |

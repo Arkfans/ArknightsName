@@ -1738,6 +1738,7 @@
   "char_4010_etlchi": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Entelechia",
       "ja_JP": "エンテレケイア",
       "zh_CN": "隐德来希"
     }
@@ -2511,6 +2512,7 @@
   "char_4173_nowell": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Nowell",
       "ja_JP": "ノウエル",
       "zh_CN": "诺威尔"
     }
@@ -7680,6 +7682,7 @@
   "char_1024_hbisc2@unveiling#2": {
     "type": "SKIN",
     "names": {
+      "en_US": "Romance Overflow",
       "ja_JP": "溢るる浪漫",
       "zh_CN": "浪漫满厢"
     }
@@ -8247,6 +8250,7 @@
   "char_164_nightm@unveiling#2": {
     "type": "SKIN",
     "names": {
+      "en_US": "The Ferry Girl",
       "ja_JP": "湖畔の少女",
       "zh_CN": "湖畔的少女"
     }
@@ -8738,6 +8742,7 @@
   "char_222_bpipe@epoque#40": {
     "type": "SKIN",
     "names": {
+      "en_US": "Echo of Bagpipes",
       "ja_JP": "こだます風笛",
       "zh_CN": "风笛声声"
     }
@@ -9133,6 +9138,7 @@
   "char_289_gyuki@epoque#40": {
     "type": "SKIN",
     "names": {
+      "en_US": "Frosted Steps",
       "ja_JP": "薄霜の参道",
       "zh_CN": "繁霜满阶"
     }
@@ -9968,6 +9974,7 @@
   "char_4063_quartz@epoque#39": {
     "type": "SKIN",
     "names": {
+      "en_US": "Cover Mercenary",
       "ja_JP": "カバーマーセナリー",
       "zh_CN": "封面佣兵"
     }
@@ -10139,6 +10146,7 @@
   "char_4098_vvana@epoque#40": {
     "type": "SKIN",
     "names": {
+      "en_US": "Sent from Ognisko",
       "ja_JP": "オグニスコより",
       "zh_CN": "寄自奥格尼斯科"
     }
@@ -10184,6 +10192,7 @@
   "char_4107_vrdant@unveiling#3": {
     "type": "SKIN",
     "names": {
+      "en_US": "Rose Rider",
       "ja_JP": "ローズライダー",
       "zh_CN": "玫瑰骑手"
     }
@@ -22369,6 +22378,7 @@
   "act18mini": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "See You Soon",
       "ja_JP": "また明日",
       "zh_CN": "我们明日见"
     }
@@ -23200,6 +23210,7 @@
   "act3collection": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Another Tides",
       "ja_JP": "沸き返る潮騒",
       "zh_CN": "潮起潮又起"
     }
@@ -26032,6 +26043,7 @@
   "act18mini_token_petals": {
     "type": "ITEM",
     "names": {
+      "en_US": "Broken Petals",
       "ja_JP": "砕けた花弁",
       "zh_CN": "碎花瓣"
     }
@@ -31002,6 +31014,7 @@
   "p_char_4010_etlchi": {
     "type": "ITEM",
     "names": {
+      "en_US": "Entelechia's Token",
       "ja_JP": "エンテレケイアの印",
       "zh_CN": "隐德来希的信物"
     }
@@ -31751,6 +31764,7 @@
   "p_char_4173_nowell": {
     "type": "ITEM",
     "names": {
+      "en_US": "Nowell's Token",
       "ja_JP": "ノウエルの印",
       "zh_CN": "诺威尔的信物"
     }
@@ -35555,6 +35569,7 @@
   "_NORM_34_0_11": {
     "type": "POOL",
     "names": {
+      "en_US": "Joint Operation",
       "ja_JP": "連合作戦"
     }
   },
@@ -35869,6 +35884,7 @@
   "_SINGLE_34_0_10": {
     "type": "POOL",
     "names": {
+      "en_US": "And The Canoe'll Carry Us To You",
       "ja_JP": "河畔の渡し船"
     }
   },
@@ -37679,6 +37695,7 @@
   "skchr_etlchi_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Chasing the Rose Shadow",
       "ja_JP": "薔薇の残影",
       "zh_CN": "玫影觅迹"
     }
@@ -37686,6 +37703,7 @@
   "skchr_etlchi_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Crimson Harvest",
       "ja_JP": "深紅の抱擁",
       "zh_CN": "绯红壁合"
     }
@@ -37693,6 +37711,7 @@
   "skchr_etlchi_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Clinging Desire, Longing Spirit",
       "ja_JP": "霊魂と欲望の惜別",
       "zh_CN": "灵与欲的惜别"
     }
@@ -39900,6 +39919,7 @@
   "skchr_nowell_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Ceaseless Steps",
       "ja_JP": "たゆまぬ歩み",
       "zh_CN": "步履不停"
     }
@@ -39907,6 +39927,7 @@
   "skchr_nowell_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Unending Life",
       "ja_JP": "ついえぬ命",
       "zh_CN": "生命不息"
     }
@@ -49340,6 +49361,7 @@
   "act18mini_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Scorching Wind",
       "ja_JP": "灼熱の風",
       "zh_CN": "灼热的风"
     }
@@ -49347,6 +49369,7 @@
   "act18mini_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Born as Firewood",
       "ja_JP": "薪に生まれた命",
       "zh_CN": "生为柴薪"
     }
@@ -49354,6 +49377,7 @@
   "act18mini_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Burning Weeds",
       "ja_JP": "燃え盛る枯れ草",
       "zh_CN": "荒草焚荡"
     }
@@ -49361,6 +49385,7 @@
   "act18mini_04": {
     "type": "STAGE",
     "names": {
+      "en_US": "The Wail of Evil",
       "ja_JP": "邪悪なる嘆き",
       "zh_CN": "孽物哀鸣"
     }
@@ -49368,6 +49393,7 @@
   "act18mini_05": {
     "type": "STAGE",
     "names": {
+      "en_US": "No Peaceful Slumber",
       "ja_JP": "訪れぬ安息",
       "zh_CN": "不得安眠"
     }
@@ -49375,6 +49401,7 @@
   "act18mini_06": {
     "type": "STAGE",
     "names": {
+      "en_US": "Painful March",
       "ja_JP": "苦難の行軍",
       "zh_CN": "苦痛行军"
     }
@@ -49382,6 +49409,7 @@
   "act18mini_07": {
     "type": "STAGE",
     "names": {
+      "en_US": "Reversed Bloodflow",
       "ja_JP": "逆流する鮮血",
       "zh_CN": "血流倒涌"
     }
@@ -49389,6 +49417,7 @@
   "act18mini_08": {
     "type": "STAGE",
     "names": {
+      "en_US": "Bloody Symphony",
       "ja_JP": "共鳴せし血河",
       "zh_CN": "血河交响"
     }
@@ -49396,6 +49425,7 @@
   "act18mini_s01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Disqualified Iron",
       "ja_JP": "軟弱なる金属",
       "zh_CN": "金铁失格"
     }
@@ -49403,6 +49433,7 @@
   "act18mini_s02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Out of Control Flesh",
       "ja_JP": "暴走する血肉",
       "zh_CN": "血肉失控"
     }
@@ -59684,6 +59715,7 @@
   "act18mini_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Enter City",
       "ja_JP": "かの都市へ",
       "zh_CN": "走入城市"
     }

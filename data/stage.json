@@ -1605,42 +1605,52 @@
     "zh_CN": "疼痛增幅"
   },
   "act18mini_01": {
+    "en_US": "Scorching Wind",
     "ja_JP": "灼熱の風",
     "zh_CN": "灼热的风"
   },
   "act18mini_02": {
+    "en_US": "Born as Firewood",
     "ja_JP": "薪に生まれた命",
     "zh_CN": "生为柴薪"
   },
   "act18mini_03": {
+    "en_US": "Burning Weeds",
     "ja_JP": "燃え盛る枯れ草",
     "zh_CN": "荒草焚荡"
   },
   "act18mini_04": {
+    "en_US": "The Wail of Evil",
     "ja_JP": "邪悪なる嘆き",
     "zh_CN": "孽物哀鸣"
   },
   "act18mini_05": {
+    "en_US": "No Peaceful Slumber",
     "ja_JP": "訪れぬ安息",
     "zh_CN": "不得安眠"
   },
   "act18mini_06": {
+    "en_US": "Painful March",
     "ja_JP": "苦難の行軍",
     "zh_CN": "苦痛行军"
   },
   "act18mini_07": {
+    "en_US": "Reversed Bloodflow",
     "ja_JP": "逆流する鮮血",
     "zh_CN": "血流倒涌"
   },
   "act18mini_08": {
+    "en_US": "Bloody Symphony",
     "ja_JP": "共鳴せし血河",
     "zh_CN": "血河交响"
   },
   "act18mini_s01": {
+    "en_US": "Disqualified Iron",
     "ja_JP": "軟弱なる金属",
     "zh_CN": "金铁失格"
   },
   "act18mini_s02": {
+    "en_US": "Out of Control Flesh",
     "ja_JP": "暴走する血肉",
     "zh_CN": "血肉失控"
   },

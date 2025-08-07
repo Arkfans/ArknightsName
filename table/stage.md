@@ -326,16 +326,16 @@ tip: 请善用浏览器的搜索功能
 | act18d3_st01 | 唤醒噩梦 | Waking Nightmare | 呼び起こされし悪夢 |
 | act18d3_st02 | 侥幸离去 | Lucky to Escape | 出国の許し |
 | act18d3_tr01 | 疼痛增幅 | Intensified Pain | 痛みの増幅 |
-| act18mini_01 | 灼热的风 | - | 灼熱の風 |
-| act18mini_02 | 生为柴薪 | - | 薪に生まれた命 |
-| act18mini_03 | 荒草焚荡 | - | 燃え盛る枯れ草 |
-| act18mini_04 | 孽物哀鸣 | - | 邪悪なる嘆き |
-| act18mini_05 | 不得安眠 | - | 訪れぬ安息 |
-| act18mini_06 | 苦痛行军 | - | 苦難の行軍 |
-| act18mini_07 | 血流倒涌 | - | 逆流する鮮血 |
-| act18mini_08 | 血河交响 | - | 共鳴せし血河 |
-| act18mini_s01 | 金铁失格 | - | 軟弱なる金属 |
-| act18mini_s02 | 血肉失控 | - | 暴走する血肉 |
+| act18mini_01 | 灼热的风 | Scorching Wind | 灼熱の風 |
+| act18mini_02 | 生为柴薪 | Born as Firewood | 薪に生まれた命 |
+| act18mini_03 | 荒草焚荡 | Burning Weeds | 燃え盛る枯れ草 |
+| act18mini_04 | 孽物哀鸣 | The Wail of Evil | 邪悪なる嘆き |
+| act18mini_05 | 不得安眠 | No Peaceful Slumber | 訪れぬ安息 |
+| act18mini_06 | 苦痛行军 | Painful March | 苦難の行軍 |
+| act18mini_07 | 血流倒涌 | Reversed Bloodflow | 逆流する鮮血 |
+| act18mini_08 | 血河交响 | Bloody Symphony | 共鳴せし血河 |
+| act18mini_s01 | 金铁失格 | Disqualified Iron | 軟弱なる金属 |
+| act18mini_s02 | 血肉失控 | Out of Control Flesh | 暴走する血肉 |
 | act18side_01 | 闲聊波尔卡 | Tritsch-Tratsch-Polka | トリッチ・トラッチ・ポルカ |
 | act18side_02 | 热情，或悲怆 | Appassionata, ou Pathétique | 熱情、あるいは悲愴 |
 | act18side_03 | 自由射手 | Der Freischütz | 魔弾の射手 |

@@ -231,9 +231,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_estell_2 | 舍身突击 | Sacrificial Strike | 捨て身の覚悟 |
 | skchr_ethan_1 | 花式回旋 | Fancy Maneuvers | ループザループ |
 | skchr_ethan_2 | 十字悬挂 | Suspended Cross | グラインドツイスター |
-| skchr_etlchi_1 | 玫影觅迹 | - | 薔薇の残影 |
-| skchr_etlchi_2 | 绯红壁合 | - | 深紅の抱擁 |
-| skchr_etlchi_3 | 灵与欲的惜别 | - | 霊魂と欲望の惜別 |
+| skchr_etlchi_1 | 玫影觅迹 | Chasing the Rose Shadow | 薔薇の残影 |
+| skchr_etlchi_2 | 绯红壁合 | Crimson Harvest | 深紅の抱擁 |
+| skchr_etlchi_3 | 灵与欲的惜别 | Clinging Desire, Longing Spirit | 霊魂と欲望の惜別 |
 | skchr_excu2_1 | 遗嘱执行 | Testament Exacted | 遺言の執行 |
 | skchr_excu2_2 | 近身铳斗 | Close Combat | 近接銃術 |
 | skchr_excu2_3 | 圣约决裁 | Damnatus Ex Foedere | 聖約の裁き |
@@ -515,8 +515,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_noirc2_2 | 气刃兜割 | Spirit Helm Breaker | 気刃兜割り |
 | skchr_nothin_1 | 知难而退 | Cautious Retreat | 引き際の心得 |
 | skchr_nothin_2 | 阴晴圆缺 | Wax and Wane | 諸行無常 |
-| skchr_nowell_1 | 步履不停 | - | たゆまぬ歩み |
-| skchr_nowell_2 | 生命不息 | - | ついえぬ命 |
+| skchr_nowell_1 | 步履不停 | Ceaseless Steps | たゆまぬ歩み |
+| skchr_nowell_2 | 生命不息 | Unending Life | ついえぬ命 |
 | skchr_nymph_1 | 笞心击 | Strike of the Djall | 心の笞刑 |
 | skchr_nymph_2 | 怵然震爆 | Fear Blast | 心の戦慄 |
 | skchr_nymph_3 | 心防溃决 | Crumbling Heart | 心の決壊 |
