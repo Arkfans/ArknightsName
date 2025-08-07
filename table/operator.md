@@ -223,7 +223,7 @@ tip: 请善用浏览器的搜索功能
 | char_4006_melnte | 玫拉 | Melanite | メラナイト |
 | char_4009_irene | 艾丽妮 | Irene | アイリーニ |
 | char_400_weedy | 温蒂 | Weedy | ウィーディ |
-| char_4010_etlchi | 隐德来希 | - | - |
+| char_4010_etlchi | 隐德来希 | - | エンテレケイア |
 | char_4011_lessng | 止颂 | Lessing | レッシング |
 | char_4013_kjera | 耶拉 | Kjera | イェラ |
 | char_4014_lunacu | 子月 | Lunacub | ルナカブ |
@@ -320,7 +320,7 @@ tip: 请善用浏览器的搜索功能
 | char_416_zumama | 森蚺 | Eunectes | ユーネクテス |
 | char_4171_wulfen | 钼铅 | - | - |
 | char_4172_xingzh | 行箸 | Xingzhu | シィンズゥ |
-| char_4173_nowell | 诺威尔 | - | - |
+| char_4173_nowell | 诺威尔 | - | ノウエル |
 | char_4177_brigid | 水灯心 | - | - |
 | char_4178_alanna | 阿兰娜 | - | - |
 | char_4179_monstr | Mon3tr | - | - |

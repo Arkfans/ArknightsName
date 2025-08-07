@@ -1738,6 +1738,7 @@
   "char_4010_etlchi": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "エンテレケイア",
       "zh_CN": "隐德来希"
     }
   },
@@ -2510,6 +2511,7 @@
   "char_4173_nowell": {
     "type": "OPERATOR",
     "names": {
+      "ja_JP": "ノウエル",
       "zh_CN": "诺威尔"
     }
   },
@@ -7678,6 +7680,7 @@
   "char_1024_hbisc2@unveiling#2": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "溢るる浪漫",
       "zh_CN": "浪漫满厢"
     }
   },
@@ -8244,6 +8247,7 @@
   "char_164_nightm@unveiling#2": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "湖畔の少女",
       "zh_CN": "湖畔的少女"
     }
   },
@@ -8734,6 +8738,7 @@
   "char_222_bpipe@epoque#40": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "こだます風笛",
       "zh_CN": "风笛声声"
     }
   },
@@ -9128,6 +9133,7 @@
   "char_289_gyuki@epoque#40": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "薄霜の参道",
       "zh_CN": "繁霜满阶"
     }
   },
@@ -9962,6 +9968,7 @@
   "char_4063_quartz@epoque#39": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "カバーマーセナリー",
       "zh_CN": "封面佣兵"
     }
   },
@@ -10132,6 +10139,7 @@
   "char_4098_vvana@epoque#40": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "オグニスコより",
       "zh_CN": "寄自奥格尼斯科"
     }
   },
@@ -10176,6 +10184,7 @@
   "char_4107_vrdant@unveiling#3": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "ローズライダー",
       "zh_CN": "玫瑰骑手"
     }
   },
@@ -22360,6 +22369,7 @@
   "act18mini": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "また明日",
       "zh_CN": "我们明日见"
     }
   },
@@ -23190,6 +23200,7 @@
   "act3collection": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "沸き返る潮騒",
       "zh_CN": "潮起潮又起"
     }
   },
@@ -26021,6 +26032,7 @@
   "act18mini_token_petals": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "砕けた花弁",
       "zh_CN": "碎花瓣"
     }
   },
@@ -30990,6 +31002,7 @@
   "p_char_4010_etlchi": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "エンテレケイアの印",
       "zh_CN": "隐德来希的信物"
     }
   },
@@ -31738,6 +31751,7 @@
   "p_char_4173_nowell": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "ノウエルの印",
       "zh_CN": "诺威尔的信物"
     }
   },
@@ -35538,6 +35552,12 @@
       "ja_JP": "連合作戦"
     }
   },
+  "_NORM_34_0_11": {
+    "type": "POOL",
+    "names": {
+      "ja_JP": "連合作戦"
+    }
+  },
   "_NORM_3_0_1": {
     "type": "POOL",
     "names": {
@@ -35844,6 +35864,12 @@
     "names": {
       "en_US": "Confirmation, Completion, Conduction",
       "ja_JP": "実証、完成、先導"
+    }
+  },
+  "_SINGLE_34_0_10": {
+    "type": "POOL",
+    "names": {
+      "ja_JP": "河畔の渡し船"
     }
   },
   "_SINGLE_34_0_4": {
@@ -37653,18 +37679,21 @@
   "skchr_etlchi_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "薔薇の残影",
       "zh_CN": "玫影觅迹"
     }
   },
   "skchr_etlchi_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "深紅の抱擁",
       "zh_CN": "绯红壁合"
     }
   },
   "skchr_etlchi_3": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "霊魂と欲望の惜別",
       "zh_CN": "灵与欲的惜别"
     }
   },
@@ -39871,12 +39900,14 @@
   "skchr_nowell_1": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "たゆまぬ歩み",
       "zh_CN": "步履不停"
     }
   },
   "skchr_nowell_2": {
     "type": "SKILL",
     "names": {
+      "ja_JP": "ついえぬ命",
       "zh_CN": "生命不息"
     }
   },
@@ -49309,60 +49340,70 @@
   "act18mini_01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "灼熱の風",
       "zh_CN": "灼热的风"
     }
   },
   "act18mini_02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "薪に生まれた命",
       "zh_CN": "生为柴薪"
     }
   },
   "act18mini_03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "燃え盛る枯れ草",
       "zh_CN": "荒草焚荡"
     }
   },
   "act18mini_04": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "邪悪なる嘆き",
       "zh_CN": "孽物哀鸣"
     }
   },
   "act18mini_05": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "訪れぬ安息",
       "zh_CN": "不得安眠"
     }
   },
   "act18mini_06": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "苦難の行軍",
       "zh_CN": "苦痛行军"
     }
   },
   "act18mini_07": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "逆流する鮮血",
       "zh_CN": "血流倒涌"
     }
   },
   "act18mini_08": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "共鳴せし血河",
       "zh_CN": "血河交响"
     }
   },
   "act18mini_s01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "軟弱なる金属",
       "zh_CN": "金铁失格"
     }
   },
   "act18mini_s02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "暴走する血肉",
       "zh_CN": "血肉失控"
     }
   },
@@ -59643,6 +59684,7 @@
   "act18mini_zone1": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "かの都市へ",
       "zh_CN": "走入城市"
     }
   },

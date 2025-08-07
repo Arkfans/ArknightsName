@@ -28,7 +28,7 @@ tip: 请善用浏览器的搜索功能
 | char_1021_kroos2@game#3 | 新手光环 | The Apprentice and Her Aura | ビギナーズラック |
 | char_1021_kroos2@nian#8 | 廊下游 | Along the Corridor | 長廊遊 |
 | char_1023_ghost2@boc#6 | 生而为一 | Born as One | 対なる一人 |
-| char_1024_hbisc2@unveiling#2 | 浪漫满厢 | - | - |
+| char_1024_hbisc2@unveiling#2 | 浪漫满厢 | - | 溢るる浪漫 |
 | char_1026_gvial2@summer#12 | 悠然假日 HD26 | Holiday HD26 | ホリデーHD26 |
 | char_1027_greyy2@snow#5 | 演出后的王子 | Aftershow | 終演後の王子様 |
 | char_1028_texas2@epoque#36 | 幽兰秘辛 | Il Segreto Della Notte | 夜に秘する幽蘭 |
@@ -101,7 +101,7 @@ tip: 请善用浏览器的搜索功能
 | char_159_peacok@game#1 | 超级断罪朋友 | Your Superconvicting Friend | スーパー断罪フレンズ |
 | char_163_hpsts@boc#10 | 火种 | - | - |
 | char_164_nightm@epoque#5 | 光影 | Light and Shadow | 光と影 |
-| char_164_nightm@unveiling#2 | 湖畔的少女 | - | - |
+| char_164_nightm@unveiling#2 | 湖畔的少女 | - | 湖畔の少女 |
 | char_166_skfire@summer#1 | 温差 RT.RX01 | Temperature Difference RT.RX01 | 温度差RT.RX01 |
 | char_171_bldsk@summer#7 | 悠然假日 HD31 | Casual Vacation HD31 | ホリデーHD31 |
 | char_171_bldsk@witch#1 | 盛宴 | the feast | 盛宴 |
@@ -163,7 +163,7 @@ tip: 请善用浏览器的搜索功能
 | char_219_meteo@sweep#1 | 石墨 | Graphite | 石墨 |
 | char_220_grani@epoque#6 | 美妙时光 | Miraculous Moment | 最高のひととき |
 | char_222_bpipe@epoque#28 | 皇家近卫 | Royal Guardswoman | ロイヤルガード |
-| char_222_bpipe@epoque#40 | 风笛声声 | - | - |
+| char_222_bpipe@epoque#40 | 风笛声声 | - | こだます風笛 |
 | char_222_bpipe@race#1 | 皇后一号 | Queen, No.1 | 栄光の導き手 |
 | char_225_haak@nian#4 | 百面郎中 | Doctor of Faces | 百面郎中 |
 | char_225_haak@nian#5 | 妙手玄心 | Healing Hand, Evil Heart | 妙手深謀 |
@@ -213,7 +213,7 @@ tip: 请善用浏览器的搜索功能
 | char_284_spot@boc#3 | 专业人士 | Professional | プロフェッショナル |
 | char_285_medic2@boc#4 | 海岸救援改装 | Shore Rescue Modification | 海難救助特化型 |
 | char_286_cast3@summer#1 | SUM019.ver | SUM019.ver | SUM019.ver |
-| char_289_gyuki@epoque#40 | 繁霜满阶 | - | - |
+| char_289_gyuki@epoque#40 | 繁霜满阶 | - | 薄霜の参道 |
 | char_290_vigna@as#1 | 漆黑热浪 | Black Wave | 漆黒の熱波 |
 | char_290_vigna@summer#1 | 悠然假日 HD01 | Casual Vacation HD01 | ホリデーHD01 |
 | char_291_aglina@boc#1 | 质素访客 | Distinguished Visitor | 要因たる訪問者 |
@@ -319,7 +319,7 @@ tip: 请善用浏览器的搜索功能
 | char_4058_pepe@sightseer#2 | 星移 | - | - |
 | char_405_absin@epoque#28 | 正午余光 | Noon Twilight | 真昼の残照 |
 | char_4062_totter@summer#17 | 灿阳朝露 SDm09 | Shining Dew SDm09 | 炎陽煌く露SDm09 |
-| char_4063_quartz@epoque#39 | 封面佣兵 | - | - |
+| char_4063_quartz@epoque#39 | 封面佣兵 | - | カバーマーセナリー |
 | char_4064_mlynar@epoque#28 | 远路 | W Dali | 遠き道のり |
 | char_4064_mlynar@iteration#3 | 苍茫怒号 | - | - |
 | char_4065_judge@epoque#33 | 记叙 | Scribing | 書き記す者 |
@@ -342,13 +342,13 @@ tip: 请善用浏览器的搜索功能
 | char_4087_ines@boc#8 | 燃烧天穹下 | Under the Flaming Dome | 燃ゆる蒼穹の下 |
 | char_4088_hodrer@sightseer#1 | 沉思之庭 | Courtyard of Neka | 思索の庭 |
 | char_4091_ulika@sanrio#1 | 云上直播间 | Stream Above The Clouds | 雲の上から配信中！ |
-| char_4098_vvana@epoque#40 | 寄自奥格尼斯科 | - | - |
+| char_4098_vvana@epoque#40 | 寄自奥格尼斯科 | - | オグニスコより |
 | char_4100_caper@summer#18 | 夏卉 FA083 | Summer Flowers FA083 | 夏の花弁FA083 |
 | char_4102_threye@epoque#42 | 林间暖阳 | - | - |
 | char_4104_coldst@striker#3 | 破晓 | Dawnbreak | 破暁 |
 | char_4105_almond@epoque#38 | “杏仁”拼盘 | Almond Platter | 「アーモンド」ミックス |
 | char_4106_bryota@epoque#34 | 动感 | Vibrant | 躍動 |
-| char_4107_vrdant@unveiling#3 | 玫瑰骑手 | - | - |
+| char_4107_vrdant@unveiling#3 | 玫瑰骑手 | - | ローズライダー |
 | char_4109_baslin@witch#5 | 夜空星芒 | Starry Night Sky | 夜天に輝く星 |
 | char_4114_harold@snow#7 | 邀雪 | Inviting Snow | 冬ごもり |
 | char_4116_blkkgt@witch#5 | 暗月的影子 | The Shadow of the Dark Moon | 暗月の影 |
