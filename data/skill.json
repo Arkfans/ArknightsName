@@ -5277,6 +5277,9 @@
   "sktok_fttree_1": {
     "zh_CN": "生长"
   },
+  "sktok_fxdtwr_1": {
+    "zh_CN": "发射炮弹"
+  },
   "sktok_garage_1": {
     "en_US": "Self-Driving Cart, Forward!",
     "ja_JP": "セルカー発進！",
@@ -6144,6 +6147,15 @@
     "en_US": "Deployment Forbidden",
     "ja_JP": "配置不可",
     "zh_CN": "不可部署"
+  },
+  "sktok_tnkspk": {
+    "zh_CN": "反制装甲"
+  },
+  "sktok_tnkspka": {
+    "zh_CN": "微型尖刺"
+  },
+  "sktok_tnkspkb": {
+    "zh_CN": "维生监测"
   },
   "sktok_toolgarage": {
     "en_US": "Self-Driving Cart, Forward!",

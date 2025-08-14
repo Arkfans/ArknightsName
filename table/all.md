@@ -967,6 +967,10 @@ tip: 请善用浏览器的搜索功能
 | trap_780_supspt | 天工夜行套装 | - | - |
 | trap_781_supspta | 夜行斗篷模块 | - | - |
 | trap_782_supsptb | 夜行钩爪模块 | - | - |
+| trap_783_tnkspk | 反制装甲套组 | - | - |
+| trap_784_tnkspka | 微型尖刺配件 | - | - |
+| trap_785_tnkspkb | 维生监测配件 | - | - |
+| trap_786_fxdtwr | “绝对助手” | - | - |
 | char_002_amiya@epoque#4 | 见习联结者 | Fresh Fastener | 見習い宅配人 |
 | char_002_amiya@test#1 | 播种者 | Seedsower | プランター |
 | char_002_amiya@winter#1 | 报童 | Newsgirl | 新聞配達員 |
@@ -1229,6 +1233,7 @@ tip: 请善用浏览器的搜索功能
 | char_358_lisa@wild#3 | 弃土花开 | Lostlands Flowering | 荒地に咲く花 |
 | char_362_saga@sale#9 | 彼有 | There They Be | 彼有 |
 | char_365_aprl@wild#3 | 远望 | Faraway Gaze | 遠望 |
+| char_366_acdrop@summer#21 | 悠然假日 HD75 | - | - |
 | char_366_acdrop@whirlwind#4 | “下午茶时光” | 'Afternoon Teatime' | 「アフタヌーンティー」 |
 | char_367_swllow@boc#1 | 归巢 | Homecoming | 帰巣 |
 | char_369_bena@epoque#38 | 草原小帮手 | Prairie Pals | 草原のお手伝いさん |
@@ -1328,6 +1333,7 @@ tip: 请善用浏览器的搜索功能
 | char_4133_logos@ambienceSynesthesia#6 | 辉煌的静谧 | - | - |
 | char_4136_phonor@boc#9 | 最初的颂歌 | - | - |
 | char_4137_udflow@epoque#46 | 层流 | - | - |
+| char_4140_lasher@sightseer#3 | 憩羽 | - | - |
 | char_4141_marcil@dungeon#1 | 泰拉冒险 | Terra & Traveller | テラの冒険者 |
 | char_4145_ulpia@epoque#48 | 注目深渊 | - | - |
 | char_4146_nymph@epoque#42 | 甜美配方 | - | - |
@@ -2737,6 +2743,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_6029_solzac | “晨音” | - | - |
 | enemy_6030_frgzac | “鸣啭” | - | - |
 | enemy_6031_visfrg | “木衣” | - | - |
+| enemy_6032_fxdjj | “绝对安保”试做型  | - | - |
 | enemy_7001_blwzad | 部族巫术师 | Tribal Shaman | 部族呪術師 |
 | enemy_7001_blwzad_2 | 王酋巫术师 | Lord Ameer Shaman | 首長呪術師 |
 | enemy_7002_veingd | 矿脉守卫 | Vein Guardian | 鉱脈の守護者 |
@@ -2978,6 +2985,7 @@ tip: 请善用浏览器的搜索功能
 | act34sre | 生路·复刻 | - | - |
 | act35side | 太阳甩在身后 | Adventure That Cannot Wait for the Sun | 太陽すらも追い越して |
 | act35sign | 清光邀月——月饼烘焙小教程 | Moonlight Invite - Mooncake-Making Tutorial | 清風明月-ロドス点心教室 |
+| act35sre | 太阳甩在身后·复刻 | - | - |
 | act36side | 泰拉饭 | Delicious On Terra | テラ飯 |
 | act36sign | 步上双塔之时签到活动 | Climbing the Twin Spires Sign-In Event | 双塔の高みを目指してスタンプラリー |
 | act37side | 追迹日落以西 | Ending a Grand Overture | 落日の向こうへ |
@@ -3432,6 +3440,7 @@ Event | なないろのお茶会 |
 | act34side_token_chip | “应急物资”蓝图芯片 | 'Emergency Supplies' Blueprint Chip | 「非常用物資」設計図チップ |
 | act34side_token_chip_rep_1 | “应急物资”蓝图芯片 | - | - |
 | act35side_token_dust | 流光之沙 | Flowing Glimmerdust | 流光の砂 |
+| act35side_token_dust_rep_1 | 流光之沙 | - | - |
 | act36side_token_recipe | 今日食谱 | Daily Recipe | 今日の献立 |
 | act37side_token_nay | “我反对！” | 'Nay!' | 「反対！」 |
 | act38d1_token_coin | 晶化源石 | Crystalized Originium | 結晶化源石 |
@@ -4284,6 +4293,7 @@ Event | なないろのお茶会 |
 | uni_set_bolivar | 密林悍将归来家具收藏包 | The Great Chief Returns Furniture Pack | 帰還！密林の長家具パック |
 | uni_set_castle_1 | 古堡印象家具收藏包一 | Castlesque Furniture Pack I | 古城風家具パックvol.1 |
 | uni_set_castle_2 | 古堡印象家具收藏包二 | Castlesque Furniture Pack II | 古城風家具パックvol.2 |
+| uni_set_coastCottage | 火山旅梦家具收藏包 | - | - |
 | uni_set_concertHall | 尘影余音家具收藏包 | Lingering Echoes Furniture Pack | 塵影に交わる残響家具パック |
 | uni_set_countryside | 照我以火家具收藏包 | What the Firelight Casts Furniture Pack | この炎が照らす先家具パック |
 | uni_set_court | 叙拉古人家具收藏包 | Il Siracusano Furniture Pack | シラクザーノ家具パック |
@@ -4323,6 +4333,7 @@ Event | なないろのお茶会 |
 | voucher_full_bdhkgt | 截云的私人信件 | Jieyun's Personal Letter | ジエユンの手紙 |
 | voucher_full_bena | 贝娜的私人信件 | Bena's Personal Letter | ベナの手紙 |
 | voucher_full_bison | 拜松的私人信件 | Bison's Personal Letter | バイソンの手紙 |
+| voucher_full_bryota | 苍苔的私人信件 | - | - |
 | voucher_full_ceylon | 锡兰的私人信件 | Ceylon's Personal Letter | セイロンの手紙 |
 | voucher_full_flameb | 炎客的私人信件 | Flamebringer's Personal Letter | エンカクの手紙 |
 | voucher_full_folnic | 亚叶的私人信件 | Folinic's Personal Letter | フォリニックの手紙 |
@@ -5740,6 +5751,7 @@ Event | なないろのお茶会 |
 | sktok_ftshad_1 | 复制 | - | - |
 | sktok_fttreant_1 | 生长 | - | - |
 | sktok_fttree_1 | 生长 | - | - |
+| sktok_fxdtwr_1 | 发射炮弹 | - | - |
 | sktok_garage_1 | 自走车出击！ | Self-Driving Cart, Forward! | セルカー発進！ |
 | sktok_garage_2 | 自走车出击！ | Self-Driving Cart, Forward! | セルカー発進！ |
 | sktok_gasbot | 速效制冷 | Quick Cooling | 即時冷却 |
@@ -5926,6 +5938,9 @@ Event | なないろのお茶会 |
 | sktok_tidectrl_2 | 大幅涨潮 | Large Rising Tide | 満ち潮 |
 | sktok_tidectrl_3 | 深水 | Deep Water | 「深水区域」 |
 | sktok_tileblock | 不可部署 | Deployment Forbidden | 配置不可 |
+| sktok_tnkspk | 反制装甲 | - | - |
+| sktok_tnkspka | 微型尖刺 | - | - |
+| sktok_tnkspkb | 维生监测 | - | - |
 | sktok_toolgarage | 自走车出击！ | Self-Driving Cart, Forward! | セルカー発進！ |
 | sktok_toolgun | 开火 | Open Fire | 発射 |
 | sktok_toolinvert | 撼动现实 | Warping Reality | 事象震動 |
@@ -6949,6 +6964,10 @@ Event | なないろのお茶会 |
 | act44side_06 | 漩涡 | - | - |
 | act44side_07 | 冷月 | - | - |
 | act44side_08 | 逝川 | - | - |
+| act44side_s01 | 神签 | - | - |
+| act44side_s02 | 祓雨 | - | - |
+| act44side_s03 | 逢魔 | - | - |
+| act44side_s04 | 罪业 | - | - |
 | act44side_sp01 | 起点 | - | - |
 | act44side_sp02 | 回弹角 | - | - |
 | act44side_sp03 | 满弧闭环 | - | - |
@@ -7218,6 +7237,12 @@ Event | なないろのお茶会 |
 | lt_18_04 | 舞台上 | - | - |
 | lt_18_05 | 城门下 | - | - |
 | lt_18_06 | 天地间 | - | - |
+| lt_19_01 | 子弹烈酒 | - | - |
+| lt_19_02 | 加工后厨 | - | - |
+| lt_19_03 | 控温锅炉 | - | - |
+| lt_19_04 | 冷鲜货柜 | - | - |
+| lt_19_05 | 滋滋烤架 | - | - |
+| lt_19_06 | 特别顾客 | - | - |
 | lt_tr_01 | 7号训练场 | Training Ground #7 | 7号訓練場 |
 | lt_tr_02 | 9号训练场 | Training Ground #9 | 9号訓練場 |
 | lt_tr_03 | 10号训练场 | Training Ground #10 | 10号訓練場 |
@@ -7803,6 +7828,9 @@ Event | なないろのお茶会 |
 | act35side_zone1 | 市民花园 | Citizen's Garden | 市民庭園 |
 | act35side_zone2 | 丰获集会 | Harvest Gathering | 豊穣祭 |
 | act35side_zone3 | 藏珍宝库 | Treasure House | 宝物庫 |
+| act35sre_zone1 | 市民花园 | - | - |
+| act35sre_zone2 | 丰获集会 | - | - |
+| act35sre_zone3 | 藏珍宝库 | - | - |
 | act36side_zone1 | 品尝魔物 | Monster Gourmand | 魔物食を味わう |
 | act36side_zone2 | 走遍泰拉 | Culinary Venture On Terra | テラを旅する |
 | act37side_zone1 | 无名之勋 | Die a Hero Or a Villain | 名もなき栄光 |
@@ -7907,6 +7935,9 @@ Event | なないろのお茶会 |
 | permanent_sidestory_25_zone3 | 大江北岸 | Far Side of the Great River | 大江北岸 |
 | permanent_sidestory_26_zone1 | 信标投放 | - | - |
 | permanent_sidestory_26_zone2 | 防线巩固 | - | - |
+| permanent_sidestory_27_zone1 | 市民花园 | - | - |
+| permanent_sidestory_27_zone2 | 丰获集会 | - | - |
+| permanent_sidestory_27_zone3 | 藏珍宝库 | - | - |
 | permanent_sidestory_2_zone1 | 主舞台 | Main Stage | メインステージ |
 | permanent_sidestory_2_zone2 | 嘉年华 | Carnival | フェスティバル |
 | permanent_sidestory_2_zone3 | 额外节目 | Extra Show | エクストラ |

@@ -267,6 +267,7 @@ tip: 请善用浏览器的搜索功能
 | char_358_lisa@wild#3 | 弃土花开 | Lostlands Flowering | 荒地に咲く花 |
 | char_362_saga@sale#9 | 彼有 | There They Be | 彼有 |
 | char_365_aprl@wild#3 | 远望 | Faraway Gaze | 遠望 |
+| char_366_acdrop@summer#21 | 悠然假日 HD75 | - | - |
 | char_366_acdrop@whirlwind#4 | “下午茶时光” | 'Afternoon Teatime' | 「アフタヌーンティー」 |
 | char_367_swllow@boc#1 | 归巢 | Homecoming | 帰巣 |
 | char_369_bena@epoque#38 | 草原小帮手 | Prairie Pals | 草原のお手伝いさん |
@@ -366,6 +367,7 @@ tip: 请善用浏览器的搜索功能
 | char_4133_logos@ambienceSynesthesia#6 | 辉煌的静谧 | - | - |
 | char_4136_phonor@boc#9 | 最初的颂歌 | - | - |
 | char_4137_udflow@epoque#46 | 层流 | - | - |
+| char_4140_lasher@sightseer#3 | 憩羽 | - | - |
 | char_4141_marcil@dungeon#1 | 泰拉冒险 | Terra & Traveller | テラの冒険者 |
 | char_4145_ulpia@epoque#48 | 注目深渊 | - | - |
 | char_4146_nymph@epoque#42 | 甜美配方 | - | - |

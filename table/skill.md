@@ -1089,6 +1089,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_ftshad_1 | 复制 | - | - |
 | sktok_fttreant_1 | 生长 | - | - |
 | sktok_fttree_1 | 生长 | - | - |
+| sktok_fxdtwr_1 | 发射炮弹 | - | - |
 | sktok_garage_1 | 自走车出击！ | Self-Driving Cart, Forward! | セルカー発進！ |
 | sktok_garage_2 | 自走车出击！ | Self-Driving Cart, Forward! | セルカー発進！ |
 | sktok_gasbot | 速效制冷 | Quick Cooling | 即時冷却 |
@@ -1275,6 +1276,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_tidectrl_2 | 大幅涨潮 | Large Rising Tide | 満ち潮 |
 | sktok_tidectrl_3 | 深水 | Deep Water | 「深水区域」 |
 | sktok_tileblock | 不可部署 | Deployment Forbidden | 配置不可 |
+| sktok_tnkspk | 反制装甲 | - | - |
+| sktok_tnkspka | 微型尖刺 | - | - |
+| sktok_tnkspkb | 维生监测 | - | - |
 | sktok_toolgarage | 自走车出击！ | Self-Driving Cart, Forward! | セルカー発進！ |
 | sktok_toolgun | 开火 | Open Fire | 発射 |
 | sktok_toolinvert | 撼动现实 | Warping Reality | 事象震動 |

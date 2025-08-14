@@ -7499,6 +7499,30 @@
       "zh_CN": "夜行钩爪模块"
     }
   },
+  "trap_783_tnkspk": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "反制装甲套组"
+    }
+  },
+  "trap_784_tnkspka": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "微型尖刺配件"
+    }
+  },
+  "trap_785_tnkspkb": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "维生监测配件"
+    }
+  },
+  "trap_786_fxdtwr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "“绝对助手”"
+    }
+  },
   "char_002_amiya@epoque#4": {
     "type": "SKIN",
     "names": {
@@ -9561,6 +9585,12 @@
       "zh_CN": "远望"
     }
   },
+  "char_366_acdrop@summer#21": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "悠然假日 HD75"
+    }
+  },
   "char_366_acdrop@whirlwind#4": {
     "type": "SKIN",
     "names": {
@@ -10319,6 +10349,12 @@
     "type": "SKIN",
     "names": {
       "zh_CN": "层流"
+    }
+  },
+  "char_4140_lasher@sightseer#3": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "憩羽"
     }
   },
   "char_4141_marcil@dungeon#1": {
@@ -21275,6 +21311,12 @@
       "zh_CN": "“木衣”"
     }
   },
+  "enemy_6032_fxdjj": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“绝对安保”试做型 "
+    }
+  },
   "enemy_7001_blwzad": {
     "type": "ENEMY",
     "names": {
@@ -23125,6 +23167,12 @@
       "en_US": "Moonlight Invite - Mooncake-Making Tutorial",
       "ja_JP": "清風明月-ロドス点心教室",
       "zh_CN": "清光邀月——月饼烘焙小教程"
+    }
+  },
+  "act35sre": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "太阳甩在身后·复刻"
     }
   },
   "act36side": {
@@ -26639,6 +26687,12 @@
     "names": {
       "en_US": "Flowing Glimmerdust",
       "ja_JP": "流光の砂",
+      "zh_CN": "流光之沙"
+    }
+  },
+  "act35side_token_dust_rep_1": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "流光之沙"
     }
   },
@@ -33305,6 +33359,12 @@
       "zh_CN": "古堡印象家具收藏包二"
     }
   },
+  "uni_set_coastCottage": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "火山旅梦家具收藏包"
+    }
+  },
   "uni_set_concertHall": {
     "type": "ITEM",
     "names": {
@@ -33609,6 +33669,12 @@
       "en_US": "Bison's Personal Letter",
       "ja_JP": "バイソンの手紙",
       "zh_CN": "拜松的私人信件"
+    }
+  },
+  "voucher_full_bryota": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "苍苔的私人信件"
     }
   },
   "voucher_full_ceylon": {
@@ -44432,6 +44498,12 @@
       "zh_CN": "生长"
     }
   },
+  "sktok_fxdtwr_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "发射炮弹"
+    }
+  },
   "sktok_garage_1": {
     "type": "SKILL",
     "names": {
@@ -45856,6 +45928,24 @@
       "en_US": "Deployment Forbidden",
       "ja_JP": "配置不可",
       "zh_CN": "不可部署"
+    }
+  },
+  "sktok_tnkspk": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "反制装甲"
+    }
+  },
+  "sktok_tnkspka": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "微型尖刺"
+    }
+  },
+  "sktok_tnkspkb": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "维生监测"
     }
   },
   "sktok_toolgarage": {
@@ -53782,6 +53872,30 @@
       "zh_CN": "逝川"
     }
   },
+  "act44side_s01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "神签"
+    }
+  },
+  "act44side_s02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "祓雨"
+    }
+  },
+  "act44side_s03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "逢魔"
+    }
+  },
+  "act44side_s04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "罪业"
+    }
+  },
   "act44side_sp01": {
     "type": "STAGE",
     "names": {
@@ -55882,6 +55996,42 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "天地间"
+    }
+  },
+  "lt_19_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "子弹烈酒"
+    }
+  },
+  "lt_19_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "加工后厨"
+    }
+  },
+  "lt_19_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "控温锅炉"
+    }
+  },
+  "lt_19_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "冷鲜货柜"
+    }
+  },
+  "lt_19_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "滋滋烤架"
+    }
+  },
+  "lt_19_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "特别顾客"
     }
   },
   "lt_tr_01": {
@@ -60468,6 +60618,24 @@
       "zh_CN": "藏珍宝库"
     }
   },
+  "act35sre_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "市民花园"
+    }
+  },
+  "act35sre_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "丰获集会"
+    }
+  },
+  "act35sre_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "藏珍宝库"
+    }
+  },
   "act36side_zone1": {
     "type": "ZONE",
     "names": {
@@ -61270,6 +61438,24 @@
     "type": "ZONE",
     "names": {
       "zh_CN": "防线巩固"
+    }
+  },
+  "permanent_sidestory_27_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "市民花园"
+    }
+  },
+  "permanent_sidestory_27_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "丰获集会"
+    }
+  },
+  "permanent_sidestory_27_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "藏珍宝库"
     }
   },
   "permanent_sidestory_2_zone1": {

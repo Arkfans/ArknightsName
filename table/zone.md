@@ -183,6 +183,9 @@ tip: 请善用浏览器的搜索功能
 | act35side_zone1 | 市民花园 | Citizen's Garden | 市民庭園 |
 | act35side_zone2 | 丰获集会 | Harvest Gathering | 豊穣祭 |
 | act35side_zone3 | 藏珍宝库 | Treasure House | 宝物庫 |
+| act35sre_zone1 | 市民花园 | - | - |
+| act35sre_zone2 | 丰获集会 | - | - |
+| act35sre_zone3 | 藏珍宝库 | - | - |
 | act36side_zone1 | 品尝魔物 | Monster Gourmand | 魔物食を味わう |
 | act36side_zone2 | 走遍泰拉 | Culinary Venture On Terra | テラを旅する |
 | act37side_zone1 | 无名之勋 | Die a Hero Or a Villain | 名もなき栄光 |
@@ -287,6 +290,9 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_25_zone3 | 大江北岸 | Far Side of the Great River | 大江北岸 |
 | permanent_sidestory_26_zone1 | 信标投放 | - | - |
 | permanent_sidestory_26_zone2 | 防线巩固 | - | - |
+| permanent_sidestory_27_zone1 | 市民花园 | - | - |
+| permanent_sidestory_27_zone2 | 丰获集会 | - | - |
+| permanent_sidestory_27_zone3 | 藏珍宝库 | - | - |
 | permanent_sidestory_2_zone1 | 主舞台 | Main Stage | メインステージ |
 | permanent_sidestory_2_zone2 | 嘉年华 | Carnival | フェスティバル |
 | permanent_sidestory_2_zone3 | 额外节目 | Extra Show | エクストラ |

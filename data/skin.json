@@ -1275,6 +1275,9 @@
     "ja_JP": "遠望",
     "zh_CN": "远望"
   },
+  "char_366_acdrop@summer#21": {
+    "zh_CN": "悠然假日 HD75"
+  },
   "char_366_acdrop@whirlwind#4": {
     "en_US": "'Afternoon Teatime'",
     "ja_JP": "「アフタヌーンティー」",
@@ -1737,6 +1740,9 @@
   },
   "char_4137_udflow@epoque#46": {
     "zh_CN": "层流"
+  },
+  "char_4140_lasher@sightseer#3": {
+    "zh_CN": "憩羽"
   },
   "char_4141_marcil@dungeon#1": {
     "en_US": "Terra & Traveller",

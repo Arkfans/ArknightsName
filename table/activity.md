@@ -173,6 +173,7 @@ tip: 请善用浏览器的搜索功能
 | act34sre | 生路·复刻 | - | - |
 | act35side | 太阳甩在身后 | Adventure That Cannot Wait for the Sun | 太陽すらも追い越して |
 | act35sign | 清光邀月——月饼烘焙小教程 | Moonlight Invite - Mooncake-Making Tutorial | 清風明月-ロドス点心教室 |
+| act35sre | 太阳甩在身后·复刻 | - | - |
 | act36side | 泰拉饭 | Delicious On Terra | テラ飯 |
 | act36sign | 步上双塔之时签到活动 | Climbing the Twin Spires Sign-In Event | 双塔の高みを目指してスタンプラリー |
 | act37side | 追迹日落以西 | Ending a Grand Overture | 落日の向こうへ |

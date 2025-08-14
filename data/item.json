@@ -1587,6 +1587,9 @@
     "ja_JP": "流光の砂",
     "zh_CN": "流光之沙"
   },
+  "act35side_token_dust_rep_1": {
+    "zh_CN": "流光之沙"
+  },
   "act36side_token_recipe": {
     "en_US": "Daily Recipe",
     "ja_JP": "今日の献立",
@@ -5703,6 +5706,9 @@
     "ja_JP": "古城風家具パックvol.2",
     "zh_CN": "古堡印象家具收藏包二"
   },
+  "uni_set_coastCottage": {
+    "zh_CN": "火山旅梦家具收藏包"
+  },
   "uni_set_concertHall": {
     "en_US": "Lingering Echoes Furniture Pack",
     "ja_JP": "塵影に交わる残響家具パック",
@@ -5891,6 +5897,9 @@
     "en_US": "Bison's Personal Letter",
     "ja_JP": "バイソンの手紙",
     "zh_CN": "拜松的私人信件"
+  },
+  "voucher_full_bryota": {
+    "zh_CN": "苍苔的私人信件"
   },
   "voucher_full_ceylon": {
     "en_US": "Ceylon's Personal Letter",
