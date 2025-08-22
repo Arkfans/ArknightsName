@@ -4361,10 +4361,8 @@ tip: 请善用浏览器的搜索功能
 | avgnew_469_indigo_1 | 深靛 | Indigo | インディゴ |
 | avgnew_npc_140_1 | 客栈伙计 | Inn Assistant | 客桟の店員 |
 |   | 茶馆伙计 | Teahouse Assistant | 茶館の店員 |
-| char_002_amiya_1 | 华法琳 | Amiya | アーミヤ |
-|   | 闪灵 | Amiya? | アーミヤ？ |
-|   | 阿米娅 | Shining | シャイニング |
-|   | 阿米娅？ | Warfarin | ワルファリン |
+| char_002_amiya_1 | 阿米娅 | Amiya | アーミヤ |
+|   | 阿米娅？ | Amiya? | アーミヤ？ |
 | char_002_amiya_summer_2 | 阿米娅 | Amiya | アーミヤ |
 | char_003_kalts_1 | 凯尔希 | Kal'tsit | ケルシー |
 |   | 沉默的过路人 | Taciturn Passerby | 無口な通行人 |
