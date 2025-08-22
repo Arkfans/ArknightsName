@@ -4525,8 +4525,7 @@ tip: 请善用浏览器的搜索功能
 |   |   | Vulcan |   |
 |   |   | Vulcan. |   |
 | char_166_skfire_3 | 天火 | Skyfire | スカイフレア |
-| char_171_bldsk_1 | 勇敢的孩子 | Brave Child | ワルファリン |
-|   | 华法琳 | Warfarin | 勇敢な子供 |
+| char_171_bldsk_1 | 华法琳 | Warfarin | ワルファリン |
 | char_172_svrash_1 | 银灰 | SilverAsh | シルバーアッシュ |
 | char_179_cgbird_1 | 夜莺 | Nightingale | シャイニング |
 |   | 闪灵 | Shining | ナイチンゲール |
