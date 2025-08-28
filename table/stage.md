@@ -673,6 +673,7 @@ tip: 请善用浏览器的搜索功能
 | act2bossrush_02 | 大块头和小不点 | Big and Small | デカとチビ |
 | act2bossrush_03 | 裂地重击 | Fissure Strike | 大地割れる一撃 |
 | act2bossrush_04 | 骄阳之影 | Proud Sun's Shadow | 燦陽の影 |
+| act2enemyduel_01a | 争锋对决！ | - | - |
 | act2vmulti-01 | 嘟嘟喇叭 | Blaring Horns | 響けチアホーン |
 | act2vmulti-02 | 军事化训练 | Drills | 軍事訓練 |
 | act2vmulti-03 | 单行赛道 | One-Way Course | 独占コース |

@@ -149,6 +149,7 @@ tip: 请善用浏览器的搜索功能
 | act2collection | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
 | act2d5 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act2d8 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
+| act2enemyduel | 争锋频道：蜜果城 | - | - |
 | act2float | 铁腕城产业合作洽谈会 | Iron Fist City Industry Cooperation Forum | アイアンリストシティ産業懇談会 |
 | act2mainss | 离解复合 | - | - |
 | act2mine | 波平谷矿区登录活动 | Popping Valley Mining Area Login Event | ポッピングバレー採鉱区 |

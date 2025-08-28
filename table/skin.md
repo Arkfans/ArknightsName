@@ -190,6 +190,7 @@ tip: 请善用浏览器的搜索功能
 | char_252_bibeak@winter#2 | 软绒 | Soft Wool | 雪綿 |
 | char_253_greyy@epoque#8 | 八音蛋匠人 | Eggcellent Craftsman | オルゴールマイスター |
 | char_254_vodfox@witch#2 | 魔城回响 | Echo of the Horrorlair | 魔城の呼び声 |
+| char_254_vodfox@yun#8 | 绣云鹤 | - | - |
 | char_258_podego@epoque#9 | 小憩初醒 | Wake Up From a Nap | おひるね |
 | char_260_durnar@epoque#42 | 绒布蛋糕 | - | - |
 | char_261_sddrag@ambienceSynesthesia#2 | 翡翠假日 | Emerald Holiday | エメラルドホリデー |

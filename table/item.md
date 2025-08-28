@@ -317,6 +317,7 @@ tip: 请善用浏览器的搜索功能
 | act2bossrush_relic_04 | 调优重载 | Optimize Load | 積載調節 |
 | act2bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
 | act2collection_point_token | “战略家”点数 | 'Strategist' Point | 「戦略家」ポイント |
+| act2enemyduel_milestone_point | 争锋大礼花 | - | - |
 | act2mainss_token | “勇气”胸章 | - | - |
 | act2vmulti_token_cap | 参赛纪念 | Memento | 参加記念 |
 | act30side_token_box | 驮兽盲盒 | Burdenbeast Blind Box | 駄獣ミニフィギュア |
@@ -1188,6 +1189,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_court | 叙拉古人家具收藏包 | Il Siracusano Furniture Pack | シラクザーノ家具パック |
 | uni_set_cultureroom | 孤星家具收藏包 | - | - |
 | uni_set_fNearl | 玛莉娅·临光家具收藏包 | Maria Nearl Furniture Pack | マリア・ニアール家具パック |
+| uni_set_gardenFantasy_1 | 界园印象家具收藏包一 | - | - |
 | uni_set_goldBoat | 愚人号家具收藏包 | Stultifera Navis Furniture Pack | 狂人号家具パック |
 | uni_set_guitar | 火蓝之心家具收藏包 | Heart of Surging Flame Furniture Pack | 青く燃ゆる心家具パック |
 | uni_set_icu | 遗尘漫步家具收藏包 | A Walk in the Dust Furniture Pack | 遺塵の道を家具パック |

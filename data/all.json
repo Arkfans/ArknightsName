@@ -8977,6 +8977,12 @@
       "zh_CN": "魔城回响"
     }
   },
+  "char_254_vodfox@yun#8": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "绣云鹤"
+    }
+  },
   "char_258_podego@epoque#9": {
     "type": "SKIN",
     "names": {
@@ -22985,6 +22991,12 @@
       "zh_CN": "限时累计签到"
     }
   },
+  "act2enemyduel": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "争锋频道：蜜果城"
+    }
+  },
   "act2float": {
     "type": "ACTIVITY",
     "names": {
@@ -26598,6 +26610,12 @@
       "en_US": "'Strategist' Point",
       "ja_JP": "「戦略家」ポイント",
       "zh_CN": "“战略家”点数"
+    }
+  },
+  "act2enemyduel_milestone_point": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "争锋大礼花"
     }
   },
   "act2mainss_token": {
@@ -33401,6 +33419,12 @@
       "en_US": "Maria Nearl Furniture Pack",
       "ja_JP": "マリア・ニアール家具パック",
       "zh_CN": "玛莉娅·临光家具收藏包"
+    }
+  },
+  "uni_set_gardenFantasy_1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "界园印象家具收藏包一"
     }
   },
   "uni_set_goldBoat": {
@@ -52070,6 +52094,12 @@
       "en_US": "Proud Sun's Shadow",
       "ja_JP": "燦陽の影",
       "zh_CN": "骄阳之影"
+    }
+  },
+  "act2enemyduel_01a": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "争锋对决！"
     }
   },
   "act2vmulti-01": {
