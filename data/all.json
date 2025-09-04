@@ -22993,6 +22993,12 @@
       "zh_CN": "限时累计签到"
     }
   },
+  "act25login": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "焰烬曙明完结庆祝"
+    }
+  },
   "act25side": {
     "type": "ACTIVITY",
     "names": {
@@ -23585,6 +23591,12 @@
       "zh_CN": "构想试炼签到活动"
     }
   },
+  "act45side": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "无忧梦呓"
+    }
+  },
   "act45sign": {
     "type": "ACTIVITY",
     "names": {
@@ -23696,6 +23708,12 @@
       "zh_CN": "风物留痕签到活动"
     }
   },
+  "act51sign": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "提线人偶的迎宾礼签到活动"
+    }
+  },
   "act5bossrush": {
     "type": "ACTIVITY",
     "names": {
@@ -23754,6 +23772,12 @@
       "en_US": "Twilight of Wolumonde - Rerun",
       "ja_JP": "ウォルモンドの薄暮・復刻",
       "zh_CN": "沃伦姆德的薄暮·复刻"
+    }
+  },
+  "act6collection": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "梦城堡模拟训练"
     }
   },
   "act6d0": {

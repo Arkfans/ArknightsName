@@ -2969,6 +2969,7 @@ tip: 请善用浏览器的搜索功能
 | act24login | 登录领取奖励 | - | - |
 | act24side | 落叶逐火 | A Flurry to the Flame | 紅炎遣らう落葉 |
 | act24sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
+| act25login | 焰烬曙明完结庆祝 | - | - |
 | act25side | 孤星 | Lone Trail | 孤星 |
 | act25sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act25sre | 孤星·复刻 | Lone Trail - Rerun | 孤星・復刻 |
@@ -3050,6 +3051,7 @@ Event | なないろのお茶会 |
 | act43sign | 良辰迎月签到活动 | A Good Moony Time Login Event | 嘉辰令月スタンプ |
 | act44side | 墟 | - | - |
 | act44sign | 构想试炼签到活动 | Conceptual Crucible Login Event | 仮想試練スタンプ |
+| act45side | 无忧梦呓 | - | - |
 | act45sign | 感谢庆典前瞻签到 | Thank-You Celebration Prospective Login | 大感謝祭開催直前スタンプラリー |
 | act46sign | 感谢庆典限时签到 | Thank-You Celebration Limited-Time Sign-In | 大感謝祭スタンプ |
 | act47sign | 感谢庆典补给签到 | Thank-You Celebration Sign-In Resupplies | 大感謝祭補給スタンプ |
@@ -3066,6 +3068,7 @@ Event | なないろのお茶会 |
 イベント |
 | act4switch | 时光的赠礼  | - | - |
 | act50sign | 风物留痕签到活动 | - | - |
+| act51sign | 提线人偶的迎宾礼签到活动 | - | - |
 | act5bossrush | 引航者试炼 | - | - |
 | act5collection | 御鼓吉音限时任务 | - | - |
 | act5d0 | 喧闹法则 | Code of Brawl | 喧騒の掟 |
@@ -3074,6 +3077,7 @@ Event | なないろのお茶会 |
 | act5mine | 卡钳谷矿区限时开采许可 | Callipers Valley Mining Area Provisional Mining Permit | カリパスバレー採鉱区 |
 | act5pray | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |
 | act5sre | 沃伦姆德的薄暮·复刻 | Twilight of Wolumonde - Rerun | ウォルモンドの薄暮・復刻 |
+| act6collection | 梦城堡模拟训练 | - | - |
 | act6d0 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act6d5 | 洪炉示岁 | Ancient Forge | 洪炉示歳 |
 | act6d7 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
