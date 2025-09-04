@@ -674,6 +674,7 @@ tip: 请善用浏览器的搜索功能
 | act2bossrush_03 | 裂地重击 | Fissure Strike | 大地割れる一撃 |
 | act2bossrush_04 | 骄阳之影 | Proud Sun's Shadow | 燦陽の影 |
 | act2enemyduel_01a | 争锋对决！ | - | - |
+| act2enemyduel_01b | 争锋对决！ | - | - |
 | act2vmulti-01 | 嘟嘟喇叭 | Blaring Horns | 響けチアホーン |
 | act2vmulti-02 | 军事化训练 | Drills | 軍事訓練 |
 | act2vmulti-03 | 单行赛道 | One-Way Course | 独占コース |
@@ -924,6 +925,16 @@ tip: 请善用浏览器的搜索功能
 | act44side_st03 | 过客 | - | - |
 | act44side_tr01 | 天命滚滚 | - | - |
 | act44side_tr02 | 雪花屏 | - | - |
+| act45side_01 | 花格窗边的梦想 | - | - |
+| act45side_02 | 寂静长廊的两端 | - | - |
+| act45side_03 | 音乐室内的光芒 | - | - |
+| act45side_04 | 名为客房区的迷宫 | - | - |
+| act45side_05 | 通往舞会的邀请函 | - | - |
+| act45side_06 | 回声飘荡的大厅 | - | - |
+| act45side_07 | 永恒绚烂的藏品 | - | - |
+| act45side_08 | 童话的开场 | - | - |
+| act45side_st01 | 路口的红绿灯 | - | - |
+| act45side_tr01 | 吊桥外的月光 | - | - |
 | act4bossrush_01 | 冰霜与战火 | Frost and Fire | 氷霜と戦火 |
 | act4bossrush_02 | 无关音律 | Out Of Tune | アウトオブチューン |
 | act4bossrush_03 | 延烧的深池 | Dublinn Burning | 延焼する葦沼 |

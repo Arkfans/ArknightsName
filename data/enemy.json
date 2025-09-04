@@ -883,6 +883,48 @@
   "enemy_10102_crblt_2": {
     "zh_CN": "彻底报废的胶卷"
   },
+  "enemy_10103_mjcppp": {
+    "zh_CN": "浅睡的臼齿"
+  },
+  "enemy_10103_mjcppp_2": {
+    "zh_CN": "沉睡的臼齿"
+  },
+  "enemy_10104_mjcbln": {
+    "zh_CN": "布景小丑"
+  },
+  "enemy_10104_mjcbln_2": {
+    "zh_CN": "布景大师"
+  },
+  "enemy_10105_mjcdol": {
+    "zh_CN": "发条仆从"
+  },
+  "enemy_10105_mjcdol_2": {
+    "zh_CN": "暗黑发条仆从"
+  },
+  "enemy_10106_mjcbat": {
+    "zh_CN": "玩耍的卡尔顿"
+  },
+  "enemy_10106_mjcbat_2": {
+    "zh_CN": "欢快的卡尔顿"
+  },
+  "enemy_10107_mjcdog": {
+    "zh_CN": "安眠伴随兽"
+  },
+  "enemy_10107_mjcdog_2": {
+    "zh_CN": "沉眠伴随兽"
+  },
+  "enemy_10108_mjclun": {
+    "zh_CN": "梦游管家"
+  },
+  "enemy_10108_mjclun_2": {
+    "zh_CN": "梦游大总管"
+  },
+  "enemy_10109_mjcgst": {
+    "zh_CN": "沃尔夫之影"
+  },
+  "enemy_10109_mjcgst_2": {
+    "zh_CN": "沃尔夫幽影"
+  },
   "enemy_1010_demon": {
     "en_US": "Sarkaz Greatswordsman",
     "ja_JP": "サルカズ大剣士",
@@ -892,6 +934,12 @@
     "en_US": "Sarkaz Greatswordsman Leader",
     "ja_JP": "サルカズ大剣隊長",
     "zh_CN": "萨卡兹大剑组长"
+  },
+  "enemy_10110_mjcsdw": {
+    "zh_CN": "“破茧之梦”"
+  },
+  "enemy_10110_mjcsdw_2": {
+    "zh_CN": "“羽化之梦”"
   },
   "enemy_10111_ymgpck": {
     "zh_CN": "“某种天命”"
@@ -5326,6 +5374,9 @@
   },
   "enemy_1568_dirctr": {
     "zh_CN": "“酒神”"
+  },
+  "enemy_1569_ldevil": {
+    "zh_CN": "莫菲丝"
   },
   "enemy_1570_ymgscm": {
     "zh_CN": "三船光平"

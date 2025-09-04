@@ -115,6 +115,9 @@
     "ja_JP": "旅仲間",
     "zh_CN": "旅伴"
   },
+  "story_ashlok_set_1_story_1": {
+    "zh_CN": "决斗"
+  },
   "story_astesi_set_1_story_1": {
     "en_US": "Revelation",
     "ja_JP": "照らし出す光",
@@ -1067,6 +1070,9 @@
   "story_nowell_set_1_story_1": {
     "zh_CN": "当我们人生开始时"
   },
+  "story_nymph_set_1_story_1": {
+    "zh_CN": "跃动的微光"
+  },
   "story_orchid_set_1_story_1": {
     "en_US": "Incomplete",
     "ja_JP": "未完成",
@@ -1599,6 +1605,9 @@
     "ja_JP": "雨降る前に",
     "zh_CN": "雨落之前"
   },
+  "story_whitw2_set_1_story_1": {
+    "zh_CN": "气味游戏"
+  },
   "story_wildmn_set_1_story_1": {
     "en_US": "Aspiration",
     "ja_JP": "憧憬",
@@ -1608,6 +1617,9 @@
     "en_US": "Lone Dance at the Old Factory",
     "ja_JP": "古工場のダンス",
     "zh_CN": "老工厂里的一支舞"
+  },
+  "story_wscoot_set_1_story_1": {
+    "zh_CN": "只待天明"
   },
   "story_wyvern_set_1_story_1": {
     "en_US": "Originium Slugs and Hops",

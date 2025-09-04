@@ -29,6 +29,7 @@ tip: 请善用浏览器的搜索功能
 | story_asbest_set_1_story_1 | 奇景 | Strange Sights | 奇景 |
 | story_ascln_set_1_story_1 | 同行人 | The Ones Who Walk With You | 同行者 |
 | story_ash_set_1_story_1 | 旅伴 | Traveling Companions | 旅仲間 |
+| story_ashlok_set_1_story_1 | 决斗 | - | - |
 | story_astesi_set_1_story_1 | 启明 | Revelation | 照らし出す光 |
 | story_astesi_set_2_story_1 | 复耀 | Return to Radiance | 再び輝くために |
 | story_aurora_set_1_story_1 | 她所见 | What She Saw | 彼女の見たいもの |
@@ -225,6 +226,7 @@ tip: 请善用浏览器的搜索功能
 | story_noirc_set_1_story_1 | 甲板另一侧 | The Other Side of the Deck | デッキの向こう側 |
 | story_nothin_set_1_story_1 | 落水人 | Drowning | 落水者 |
 | story_nowell_set_1_story_1 | 当我们人生开始时 | - | - |
+| story_nymph_set_1_story_1 | 跃动的微光 | - | - |
 | story_orchid_set_1_story_1 | 未完成 | Incomplete | 未完成 |
 | story_otter_set_1_story_1 | 满满的日程表 | One Packed Daily Schedule | 仕事三昧 |
 | story_otter_set_2_story_1 | 造物之心 | Heart of Creation | 創り出す心 |
@@ -335,8 +337,10 @@ tip: 请善用浏览器的搜索功能
 | story_weedy_set_1_story_1 | 同舟 | Together Aboard | 同舟 |
 | story_weedy_set_2_story_1 | 盐漠上的海风 | - | - |
 | story_whispr_set_1_story_1 | 雨落之前 | Before the Rain | 雨降る前に |
+| story_whitw2_set_1_story_1 | 气味游戏 | - | - |
 | story_wildmn_set_1_story_1 | 憧憬 | Aspiration | 憧憬 |
 | story_windft_set_1_story_1 | 老工厂里的一支舞 | Lone Dance at the Old Factory | 古工場のダンス |
+| story_wscoot_set_1_story_1 | 只待天明 | - | - |
 | story_wyvern_set_1_story_1 | 源石虫与啤酒花 | Originium Slugs and Hops | オリジムシとホップ |
 | story_yak_set_1_story_1 | 一天 | One Day | 一日 |
 | story_yu_set_1_story_1 | 百年一日 | A Hundred Years in Daily Steps | 百年一日 |

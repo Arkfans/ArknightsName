@@ -375,6 +375,11 @@ tip: 请善用浏览器的搜索功能
 | char_4151_tinman@sale#11 | 相位面容 | Phase Face | フェーズフェイス |
 | char_415_flint@boc#3 | 绚烂夏花 | Gorgeous Flower | 紫藤繚乱 |
 | char_416_zumama@boc#3 | 熔锻铸匠 | Forgemaster | 熔冶工匠 |
+| char_4182_oblvns@avemujica#1 | 旋律的主人 | - | - |
+| char_4183_mortis@avemujica#1 | 提线的本我 | - | - |
+| char_4184_dolris@avemujica#1 | 笼中歌者 | - | - |
+| char_4185_amoris@avemujica#1 | 情热魔术师 | - | - |
+| char_4186_tmoris@avemujica#1 | 月下执行者 | - | - |
 | char_420_flamtl@game#2 | 小健将 | Sport For All | サイバー闘技者 |
 | char_421_crow@summer#9 | 夏卉 FA210 | Summer Flowers FA210 | 夏の花弁FA210 |
 | char_422_aurora@boc#4 | 极昼捕手 | Polar Catcher | 白夜踏破 |

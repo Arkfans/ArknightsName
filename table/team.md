@@ -29,6 +29,7 @@ tip: 请善用浏览器的搜索功能
 | lgd | 龙门近卫局 | Lungmen Guard Department | 龍門近衛局 |
 | lungmen | 炎-龙门 | Yan-Lungmen | 炎−龍門 |
 | minos | 米诺斯 | Minos | ミノス |
+| mujica | Ave Mujica | - | - |
 | none | 无团队 | No team | 所属なし |
 | penguin | 企鹅物流 | Penguin Logistics | ペンギン急便 |
 | pinus | 红松骑士团 | Pinus Sylvestris | レッドパイン騎士団 |

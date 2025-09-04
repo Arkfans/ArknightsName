@@ -794,6 +794,9 @@
     "ja_JP": "食欲満開10回スカウト券",
     "zh_CN": "好好吃饭寻访凭证"
   },
+  "LINKAGE_TKT_GACHA_10_6501": {
+    "zh_CN": "坠梦歌谣寻访凭证"
+  },
   "LMTGS_COIN_1401": {
     "en_US": "Headhunting Data Contract",
     "ja_JP": "限定契約証",
@@ -1681,6 +1684,9 @@
   "act44side_token_treasure": {
     "zh_CN": "\"宝物袋\""
   },
+  "act45side_token_puzzlepieces": {
+    "zh_CN": "梦境拼图"
+  },
   "act4bossrush_milestone_point": {
     "en_US": "Trial EXP",
     "ja_JP": "試練経験値",
@@ -1763,6 +1769,9 @@
     "en_US": "Operation Agreement",
     "ja_JP": "協約の証",
     "zh_CN": "行动协议"
+  },
+  "act6collection_point_token": {
+    "zh_CN": "特殊兑换点数"
   },
   "act6d5_point_firecracker": {
     "en_US": "Quantum Firecracker",
@@ -4775,6 +4784,21 @@
   },
   "p_char_4179_monstr": {
     "zh_CN": "Mon3tr的信物"
+  },
+  "p_char_4182_oblvns": {
+    "zh_CN": "丰川祥子的信物"
+  },
+  "p_char_4183_mortis": {
+    "zh_CN": "若叶睦的信物"
+  },
+  "p_char_4184_dolris": {
+    "zh_CN": "三角初华的信物"
+  },
+  "p_char_4185_amoris": {
+    "zh_CN": "祐天寺若麦的信物"
+  },
+  "p_char_4186_tmoris": {
+    "zh_CN": "八幡海铃的信物"
   },
   "p_char_4187_graceb": {
     "zh_CN": "聆音的信物"

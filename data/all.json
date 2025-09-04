@@ -2535,6 +2535,36 @@
       "zh_CN": "Mon3tr"
     }
   },
+  "char_4182_oblvns": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "丰川祥子"
+    }
+  },
+  "char_4183_mortis": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "若叶睦"
+    }
+  },
+  "char_4184_dolris": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "三角初华"
+    }
+  },
+  "char_4185_amoris": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "祐天寺若麦"
+    }
+  },
+  "char_4186_tmoris": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "八幡海铃"
+    }
+  },
   "char_4187_graceb": {
     "type": "OPERATOR",
     "names": {
@@ -5931,6 +5961,12 @@
     "type": "TRAP",
     "names": {
       "zh_CN": "打光道具"
+    }
+  },
+  "trap_249_mjcsdw": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "“月影之茧”"
     }
   },
   "trap_250_hlctrl": {
@@ -10407,6 +10443,36 @@
       "zh_CN": "熔锻铸匠"
     }
   },
+  "char_4182_oblvns@avemujica#1": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "旋律的主人"
+    }
+  },
+  "char_4183_mortis@avemujica#1": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "提线的本我"
+    }
+  },
+  "char_4184_dolris@avemujica#1": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "笼中歌者"
+    }
+  },
+  "char_4185_amoris@avemujica#1": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "情热魔术师"
+    }
+  },
+  "char_4186_tmoris@avemujica#1": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "月下执行者"
+    }
+  },
   "char_420_flamtl@game#2": {
     "type": "SKIN",
     "names": {
@@ -12511,6 +12577,90 @@
       "zh_CN": "彻底报废的胶卷"
     }
   },
+  "enemy_10103_mjcppp": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "浅睡的臼齿"
+    }
+  },
+  "enemy_10103_mjcppp_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "沉睡的臼齿"
+    }
+  },
+  "enemy_10104_mjcbln": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "布景小丑"
+    }
+  },
+  "enemy_10104_mjcbln_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "布景大师"
+    }
+  },
+  "enemy_10105_mjcdol": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "发条仆从"
+    }
+  },
+  "enemy_10105_mjcdol_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "暗黑发条仆从"
+    }
+  },
+  "enemy_10106_mjcbat": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "玩耍的卡尔顿"
+    }
+  },
+  "enemy_10106_mjcbat_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "欢快的卡尔顿"
+    }
+  },
+  "enemy_10107_mjcdog": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "安眠伴随兽"
+    }
+  },
+  "enemy_10107_mjcdog_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "沉眠伴随兽"
+    }
+  },
+  "enemy_10108_mjclun": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "梦游管家"
+    }
+  },
+  "enemy_10108_mjclun_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "梦游大总管"
+    }
+  },
+  "enemy_10109_mjcgst": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "沃尔夫之影"
+    }
+  },
+  "enemy_10109_mjcgst_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "沃尔夫幽影"
+    }
+  },
   "enemy_1010_demon": {
     "type": "ENEMY",
     "names": {
@@ -12525,6 +12675,18 @@
       "en_US": "Sarkaz Greatswordsman Leader",
       "ja_JP": "サルカズ大剣隊長",
       "zh_CN": "萨卡兹大剑组长"
+    }
+  },
+  "enemy_10110_mjcsdw": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“破茧之梦”"
+    }
+  },
+  "enemy_10110_mjcsdw_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“羽化之梦”"
     }
   },
   "enemy_10111_ymgpck": {
@@ -19649,6 +19811,12 @@
       "zh_CN": "“酒神”"
     }
   },
+  "enemy_1569_ldevil": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "莫菲丝"
+    }
+  },
   "enemy_1570_ymgscm": {
     "type": "ENEMY",
     "names": {
@@ -23992,6 +24160,12 @@
       "zh_CN": "米诺斯"
     }
   },
+  "mujica": {
+    "type": "TEAM",
+    "names": {
+      "zh_CN": "Ave Mujica"
+    }
+  },
   "none": {
     "type": "TEAM",
     "names": {
@@ -25418,6 +25592,12 @@
       "en_US": "Have A Good Meal Headhunting Permit",
       "ja_JP": "食欲満開10回スカウト券",
       "zh_CN": "好好吃饭寻访凭证"
+    }
+  },
+  "LINKAGE_TKT_GACHA_10_6501": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "坠梦歌谣寻访凭证"
     }
   },
   "LMTGS_COIN_1401": {
@@ -26862,6 +27042,12 @@
       "zh_CN": "\"宝物袋\""
     }
   },
+  "act45side_token_puzzlepieces": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "梦境拼图"
+    }
+  },
   "act4bossrush_milestone_point": {
     "type": "ITEM",
     "names": {
@@ -27003,6 +27189,12 @@
       "en_US": "Operation Agreement",
       "ja_JP": "協約の証",
       "zh_CN": "行动协议"
+    }
+  },
+  "act6collection_point_token": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "特殊兑换点数"
     }
   },
   "act6d5_point_firecracker": {
@@ -31859,6 +32051,36 @@
       "zh_CN": "Mon3tr的信物"
     }
   },
+  "p_char_4182_oblvns": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "丰川祥子的信物"
+    }
+  },
+  "p_char_4183_mortis": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "若叶睦的信物"
+    }
+  },
+  "p_char_4184_dolris": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "三角初华的信物"
+    }
+  },
+  "p_char_4185_amoris": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "祐天寺若麦的信物"
+    }
+  },
+  "p_char_4186_tmoris": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "八幡海铃的信物"
+    }
+  },
   "p_char_4187_graceb": {
     "type": "ITEM",
     "names": {
@@ -34609,6 +34831,12 @@
       "zh_CN": "泰拉饭，呜呼，泰拉饭"
     }
   },
+  "LINKAGE_65_0_1": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "人偶的歌谣"
+    }
+  },
   "NORM_0_1_3": {
     "type": "POOL",
     "names": {
@@ -36404,6 +36632,18 @@
       "zh_CN": "奇美拉"
     }
   },
+  "skchr_amoris_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "如焰般热烈"
+    }
+  },
+  "skchr_amoris_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "如麦般生长"
+    }
+  },
   "skchr_angel2_1": {
     "type": "SKILL",
     "names": {
@@ -37628,6 +37868,18 @@
       "en_US": "Spur",
       "ja_JP": "鞭撻",
       "zh_CN": "鞭策"
+    }
+  },
+  "skchr_dolris_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "我思念的"
+    }
+  },
+  "skchr_dolris_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "我悲悯的"
     }
   },
   "skchr_doroth_1": {
@@ -39772,6 +40024,18 @@
       "zh_CN": "无畏招架"
     }
   },
+  "skchr_mortis_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "多首野兽"
+    }
+  },
+  "skchr_mortis_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "破坏与滋养"
+    }
+  },
   "skchr_mostma_2": {
     "type": "SKILL",
     "names": {
@@ -40044,6 +40308,24 @@
       "en_US": "Crumbling Heart",
       "ja_JP": "心の決壊",
       "zh_CN": "心防溃决"
+    }
+  },
+  "skchr_oblvns_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "新月的苏醒"
+    }
+  },
+  "skchr_oblvns_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "满月的舞会"
+    }
+  },
+  "skchr_oblvns_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "残月的余响"
     }
   },
   "skchr_odda_1": {
@@ -41586,6 +41868,18 @@
       "en_US": "Forest's Embrace",
       "ja_JP": "森廻",
       "zh_CN": "森廻"
+    }
+  },
+  "skchr_tmoris_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "颤栗之弦"
+    }
+  },
+  "skchr_tmoris_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "无存之所"
     }
   },
   "skchr_toddi_1": {
@@ -44964,6 +45258,12 @@
       "en_US": "Scrapheap Buggies",
       "ja_JP": "ガラクタの戦車",
       "zh_CN": "废品战车"
+    }
+  },
+  "sktok_mjcsdw": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "破茧倒计时"
     }
   },
   "sktok_mlyss_wtrman_1": {
@@ -52102,6 +52402,12 @@
       "zh_CN": "争锋对决！"
     }
   },
+  "act2enemyduel_01b": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "争锋对决！"
+    }
+  },
   "act2vmulti-01": {
     "type": "STAGE",
     "names": {
@@ -53972,6 +54278,66 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "雪花屏"
+    }
+  },
+  "act45side_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "花格窗边的梦想"
+    }
+  },
+  "act45side_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "寂静长廊的两端"
+    }
+  },
+  "act45side_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "音乐室内的光芒"
+    }
+  },
+  "act45side_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "名为客房区的迷宫"
+    }
+  },
+  "act45side_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "通往舞会的邀请函"
+    }
+  },
+  "act45side_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "回声飘荡的大厅"
+    }
+  },
+  "act45side_07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "永恒绚烂的藏品"
+    }
+  },
+  "act45side_08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "童话的开场"
+    }
+  },
+  "act45side_st01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "路口的红绿灯"
+    }
+  },
+  "act45side_tr01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "吊桥外的月光"
     }
   },
   "act4bossrush_01": {
@@ -60830,6 +61196,18 @@
       "zh_CN": "绝缘石阶"
     }
   },
+  "act45side_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "万般皆梦"
+    }
+  },
+  "act45side_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "拥抱命运"
+    }
+  },
   "act4bossrush_zone1": {
     "type": "ZONE",
     "names": {
@@ -62090,6 +62468,12 @@
       "en_US": "Traveling Companions",
       "ja_JP": "旅仲間",
       "zh_CN": "旅伴"
+    }
+  },
+  "story_ashlok_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "决斗"
     }
   },
   "story_astesi_set_1_story_1": {
@@ -63632,6 +64016,12 @@
       "zh_CN": "当我们人生开始时"
     }
   },
+  "story_nymph_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "跃动的微光"
+    }
+  },
   "story_orchid_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -64494,6 +64884,12 @@
       "zh_CN": "雨落之前"
     }
   },
+  "story_whitw2_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "气味游戏"
+    }
+  },
   "story_wildmn_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -64508,6 +64904,12 @@
       "en_US": "Lone Dance at the Old Factory",
       "ja_JP": "古工場のダンス",
       "zh_CN": "老工厂里的一支舞"
+    }
+  },
+  "story_wscoot_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "只待天明"
     }
   },
   "story_wyvern_set_1_story_1": {

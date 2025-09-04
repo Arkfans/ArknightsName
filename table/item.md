@@ -166,6 +166,7 @@ tip: 请善用浏览器的搜索功能
 | LINKAGE_TKT_GACHA_10_3602 | 合作限定十连寻访凭证 | Collaboration Limited Ten-roll Headhunting Permit | ハンター凱旋10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_4801 | 特勤专家寻访凭证 | Expert Headhunting Permit | 精鋭小隊10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_5401 | 好好吃饭寻访凭证 | Have A Good Meal Headhunting Permit | 食欲満開10回スカウト券 |
+| LINKAGE_TKT_GACHA_10_6501 | 坠梦歌谣寻访凭证 | - | - |
 | LMTGS_COIN_1401 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_1601 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_1803 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
@@ -351,6 +352,7 @@ tip: 请善用浏览器的搜索功能
 | act44side_token_information | 闲言碎语 | - | - |
 | act44side_token_ticket | 艺人见面抽选券 | - | - |
 | act44side_token_treasure | "宝物袋" | - | - |
+| act45side_token_puzzlepieces | 梦境拼图 | - | - |
 | act4bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act4bossrush_relic_01 | 轻量化载荷 | Lightened Load | 積込み軽量化 |
 | act4bossrush_relic_02 | 核心预热 | Preheated Core | コア予熱 |
@@ -374,6 +376,7 @@ tip: 请善用浏览器的搜索功能
 | act5d0_point_medal_rep_1 | 终极企鹅勋章 | Top Tier Penguin Medal | ウルトラPG勲章 |
 | act5d1_point_conbounty | 合约赏金 | Contract Bounty | 契約賞金 |
 | act5d1_point_opagrt | 行动协议 | Operation Agreement | 協約の証 |
+| act6collection_point_token | 特殊兑换点数 | - | - |
 | act6d5_point_firecracker | 量子二踢脚 | Quantum Firecracker | 量子爆竹 |
 | act6d8_point_token | 元宵通宝 | Lantern Festival Treasure | 元宵通宝 |
 | act7d5_point_coupon | 食堂汤点券 | Canteen Soup Ticket | お食事クーポン券 |
@@ -988,6 +991,11 @@ tip: 请善用浏览器的搜索功能
 | p_char_4177_brigid | 水灯心的信物 | - | - |
 | p_char_4178_alanna | 阿兰娜的信物 | - | - |
 | p_char_4179_monstr | Mon3tr的信物 | - | - |
+| p_char_4182_oblvns | 丰川祥子的信物 | - | - |
+| p_char_4183_mortis | 若叶睦的信物 | - | - |
+| p_char_4184_dolris | 三角初华的信物 | - | - |
+| p_char_4185_amoris | 祐天寺若麦的信物 | - | - |
+| p_char_4186_tmoris | 八幡海铃的信物 | - | - |
 | p_char_4187_graceb | 聆音的信物 | - | - |
 | p_char_4188_confes | CONFESS-47的信物 | - | - |
 | p_char_4191_tippi | 蒂比的信物 | - | - |

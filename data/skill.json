@@ -255,6 +255,12 @@
     "ja_JP": "キメラ",
     "zh_CN": "奇美拉"
   },
+  "skchr_amoris_1": {
+    "zh_CN": "如焰般热烈"
+  },
+  "skchr_amoris_2": {
+    "zh_CN": "如麦般生长"
+  },
   "skchr_angel2_1": {
     "zh_CN": "天空大扫除"
   },
@@ -1015,6 +1021,12 @@
     "en_US": "Spur",
     "ja_JP": "鞭撻",
     "zh_CN": "鞭策"
+  },
+  "skchr_dolris_1": {
+    "zh_CN": "我思念的"
+  },
+  "skchr_dolris_2": {
+    "zh_CN": "我悲悯的"
   },
   "skchr_doroth_1": {
     "en_US": "Dangerous Entity Removal",
@@ -2339,6 +2351,12 @@
     "ja_JP": "大胆不敵",
     "zh_CN": "无畏招架"
   },
+  "skchr_mortis_1": {
+    "zh_CN": "多首野兽"
+  },
+  "skchr_mortis_2": {
+    "zh_CN": "破坏与滋养"
+  },
   "skchr_mostma_2": {
     "en_US": "Lock of Shattered Time",
     "ja_JP": "時荒びの黒き錠",
@@ -2507,6 +2525,15 @@
     "en_US": "Crumbling Heart",
     "ja_JP": "心の決壊",
     "zh_CN": "心防溃决"
+  },
+  "skchr_oblvns_1": {
+    "zh_CN": "新月的苏醒"
+  },
+  "skchr_oblvns_2": {
+    "zh_CN": "满月的舞会"
+  },
+  "skchr_oblvns_3": {
+    "zh_CN": "残月的余响"
   },
   "skchr_odda_1": {
     "en_US": "Sputterspark",
@@ -3461,6 +3488,12 @@
     "en_US": "Forest's Embrace",
     "ja_JP": "森廻",
     "zh_CN": "森廻"
+  },
+  "skchr_tmoris_1": {
+    "zh_CN": "颤栗之弦"
+  },
+  "skchr_tmoris_2": {
+    "zh_CN": "无存之所"
   },
   "skchr_toddi_1": {
     "en_US": "Signal Arrow",
@@ -5552,6 +5585,9 @@
     "en_US": "Scrapheap Buggies",
     "ja_JP": "ガラクタの戦車",
     "zh_CN": "废品战车"
+  },
+  "sktok_mjcsdw": {
+    "zh_CN": "破茧倒计时"
   },
   "sktok_mlyss_wtrman_1": {
     "en_US": "Flowing Shape",

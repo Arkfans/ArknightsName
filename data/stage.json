@@ -3190,6 +3190,9 @@
   "act2enemyduel_01a": {
     "zh_CN": "争锋对决！"
   },
+  "act2enemyduel_01b": {
+    "zh_CN": "争锋对决！"
+  },
   "act2vmulti-01": {
     "en_US": "Blaring Horns",
     "ja_JP": "響けチアホーン",
@@ -4311,6 +4314,36 @@
   },
   "act44side_tr02": {
     "zh_CN": "雪花屏"
+  },
+  "act45side_01": {
+    "zh_CN": "花格窗边的梦想"
+  },
+  "act45side_02": {
+    "zh_CN": "寂静长廊的两端"
+  },
+  "act45side_03": {
+    "zh_CN": "音乐室内的光芒"
+  },
+  "act45side_04": {
+    "zh_CN": "名为客房区的迷宫"
+  },
+  "act45side_05": {
+    "zh_CN": "通往舞会的邀请函"
+  },
+  "act45side_06": {
+    "zh_CN": "回声飘荡的大厅"
+  },
+  "act45side_07": {
+    "zh_CN": "永恒绚烂的藏品"
+  },
+  "act45side_08": {
+    "zh_CN": "童话的开场"
+  },
+  "act45side_st01": {
+    "zh_CN": "路口的红绿灯"
+  },
+  "act45side_tr01": {
+    "zh_CN": "吊桥外的月光"
   },
   "act4bossrush_01": {
     "en_US": "Frost and Fire",

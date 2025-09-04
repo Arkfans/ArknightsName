@@ -57,6 +57,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_amiya3_2 | 慈悲愿景 | Vision of Mercy | 慈悲先途 |
 | skchr_amiya_2 | 精神爆发 | Spirit Burst | ソウルブースト |
 | skchr_amiya_3 | 奇美拉 | Chimera | キメラ |
+| skchr_amoris_1 | 如焰般热烈 | - | - |
+| skchr_amoris_2 | 如麦般生长 | - | - |
 | skchr_angel2_1 | 天空大扫除 | - | - |
 | skchr_angel2_2 | 开火成瘾症 | - | - |
 | skchr_angel2_3 | 使命必达！ | - | - |
@@ -212,6 +214,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_demkni_3 | 钙质化 | Calcification | 硬質化 |
 | skchr_doberm_1 | 强力击·β型 | Power Strike β | 強撃β |
 | skchr_doberm_2 | 鞭策 | Spur | 鞭撻 |
+| skchr_dolris_1 | 我思念的 | - | - |
+| skchr_dolris_2 | 我悲悯的 | - | - |
 | skchr_doroth_1 | 危险目标清除 | Dangerous Entity Removal | 脅威排除 |
 | skchr_doroth_2 | 流沙区域生成 | Quicksand Generation | 流砂生成 |
 | skchr_doroth_3 | 高速共振排障 | High-speed Resonating Troubleshooter | 高周波共振 |
@@ -485,6 +489,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_monstr_3 | 策略：熔毁 | - | - |
 | skchr_morgan_1 | 街头好手 | Professional Street Fighter | ストリートパンク |
 | skchr_morgan_2 | 无畏招架 | Dauntless Resistance | 大胆不敵 |
+| skchr_mortis_1 | 多首野兽 | - | - |
+| skchr_mortis_2 | 破坏与滋养 | - | - |
 | skchr_mostma_2 | 荒时之锁 | Lock of Shattered Time | 時荒びの黒き錠 |
 | skchr_mostma_3 | 序时之匙 | Key of Chronology | 時闢きの白き鍵 |
 | skchr_mudrok_2 | 岩崩锤 | Crag Splitter | 岩崩し |
@@ -520,6 +526,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_nymph_1 | 笞心击 | Strike of the Djall | 心の笞刑 |
 | skchr_nymph_2 | 怵然震爆 | Fear Blast | 心の戦慄 |
 | skchr_nymph_3 | 心防溃决 | Crumbling Heart | 心の決壊 |
+| skchr_oblvns_1 | 新月的苏醒 | - | - |
+| skchr_oblvns_2 | 满月的舞会 | - | - |
+| skchr_oblvns_3 | 残月的余响 | - | - |
 | skchr_odda_1 | 火花溅射 | Sputterspark | 散火槌 |
 | skchr_odda_2 | 锻锤之力 | Hammerforce | 炎撃槌 |
 | skchr_otter_1 | 迷惑装置 | Bionic Device | 攪乱装置 |
@@ -716,6 +725,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_tippi_2 | 紧急赶场通知 | - | - |
 | skchr_tknogi_1 | 迹无 | Without a Trace | 跡無 |
 | skchr_tknogi_2 | 森廻 | Forest's Embrace | 森廻 |
+| skchr_tmoris_1 | 颤栗之弦 | - | - |
+| skchr_tmoris_2 | 无存之所 | - | - |
 | skchr_toddi_1 | 信号矢 | Signal Arrow | 信号矢 |
 | skchr_toddi_2 | 便携破城矢 | Portable Fortcracker Arrows | 携帯破城矢 |
 | skchr_tomimi_1 | 部族技艺 | Tribal Techniques | 部族の教え |
@@ -1145,6 +1156,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_mire | 沼泽控制 | Mire Control | 沼地制御 |
 | sktok_mitm_trshrb_1 | 废品战车 | Scrapheap Buggies | ガラクタの戦車 |
 | sktok_mitm_trshrb_2 | 废品战车 | Scrapheap Buggies | ガラクタの戦車 |
+| sktok_mjcsdw | 破茧倒计时 | - | - |
 | sktok_mlyss_wtrman_1 | 流形 | Flowing Shape | うつろう水影 |
 | sktok_mlyss_wtrman_2 | 流形 | Flowing Shape | うつろう水影 |
 | sktok_mlyss_wtrman_3 | 流形 | Flowing Shape | うつろう水影 |

@@ -298,6 +298,7 @@ tip: 请善用浏览器的搜索功能
 | trap_241_dyldlz | 聚宝斋 | - | - |
 | trap_247_crfilm | 摄影机 | - | - |
 | trap_248_crprop | 打光道具 | - | - |
+| trap_249_mjcsdw | “月影之茧” | - | - |
 | trap_250_hlctrl | 寻根圣事 | - | - |
 | trap_251_buftrp | 遗物中枢 | - | - |
 | trap_252_pckstp | 天命来袭 | - | - |

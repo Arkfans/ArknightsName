@@ -324,6 +324,11 @@ tip: 请善用浏览器的搜索功能
 | char_4177_brigid | 水灯心 | - | - |
 | char_4178_alanna | 阿兰娜 | - | - |
 | char_4179_monstr | Mon3tr | - | - |
+| char_4182_oblvns | 丰川祥子 | - | - |
+| char_4183_mortis | 若叶睦 | - | - |
+| char_4184_dolris | 三角初华 | - | - |
+| char_4185_amoris | 祐天寺若麦 | - | - |
+| char_4186_tmoris | 八幡海铃 | - | - |
 | char_4187_graceb | 聆音 | - | - |
 | char_4188_confes | CONFESS-47 | - | - |
 | char_4191_tippi | 蒂比 | - | - |

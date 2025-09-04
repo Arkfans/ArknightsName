@@ -211,8 +211,24 @@ tip: 请善用浏览器的搜索功能
 | enemy_10101_crgun_2 | 宣泄暴力的摄影师 | - | - |
 | enemy_10102_crblt | 报废的胶卷 | - | - |
 | enemy_10102_crblt_2 | 彻底报废的胶卷 | - | - |
+| enemy_10103_mjcppp | 浅睡的臼齿 | - | - |
+| enemy_10103_mjcppp_2 | 沉睡的臼齿 | - | - |
+| enemy_10104_mjcbln | 布景小丑 | - | - |
+| enemy_10104_mjcbln_2 | 布景大师 | - | - |
+| enemy_10105_mjcdol | 发条仆从 | - | - |
+| enemy_10105_mjcdol_2 | 暗黑发条仆从 | - | - |
+| enemy_10106_mjcbat | 玩耍的卡尔顿 | - | - |
+| enemy_10106_mjcbat_2 | 欢快的卡尔顿 | - | - |
+| enemy_10107_mjcdog | 安眠伴随兽 | - | - |
+| enemy_10107_mjcdog_2 | 沉眠伴随兽 | - | - |
+| enemy_10108_mjclun | 梦游管家 | - | - |
+| enemy_10108_mjclun_2 | 梦游大总管 | - | - |
+| enemy_10109_mjcgst | 沃尔夫之影 | - | - |
+| enemy_10109_mjcgst_2 | 沃尔夫幽影 | - | - |
 | enemy_1010_demon | 萨卡兹大剑手 | Sarkaz Greatswordsman | サルカズ大剣士 |
 | enemy_1010_demon_2 | 萨卡兹大剑组长 | Sarkaz Greatswordsman Leader | サルカズ大剣隊長 |
+| enemy_10110_mjcsdw | “破茧之梦” | - | - |
+| enemy_10110_mjcsdw_2 | “羽化之梦” | - | - |
 | enemy_10111_ymgpck | “某种天命” | - | - |
 | enemy_10111_ymgpck_2 | “某种天命” | - | - |
 | enemy_10112_ymgds | 冒失的小弟 | - | - |
@@ -1110,6 +1126,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1566_mpascl | “阿斯卡纶” | - | - |
 | enemy_1567_pope | “圣徒” | - | - |
 | enemy_1568_dirctr | “酒神” | - | - |
+| enemy_1569_ldevil | 莫菲丝 | - | - |
 | enemy_1570_ymgscm | 三船光平 | - | - |
 | enemy_2001_duckmi | 鸭爵 | Duck Lord | ダック卿 |
 | enemy_2002_bearmi | 高普尼克 | Gopnik | ゴプニク |
