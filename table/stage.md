@@ -433,36 +433,36 @@ tip: 请善用浏览器的搜索功能
 | act1lock_b-03 | 白昼之地-沉思 | Daytime Ground - Meditation | 白昼の地-深慮 |
 | act1lock_b-04 | 白昼之地-坚守 | Daytime Ground - Perseverance | 白昼の地-堅守 |
 | act1lock_c-01 | 黄昏秘境 | Twilight Frontier | 黄昏の秘境 |
-| act1multi_01 | 逃离火线 | - | 戦場からの逃避 |
-| act1multi_02 | 密探有专车接送 | - | スパイ専用送迎車 |
-| act1multi_03 | 黑吃黑 | - | 潰し合い |
-| act1multi_04 | 移动靶射击练习 | - | 移動標的射撃練習 |
-| act1multi_05 | 填陆造海 | - | 陸上の海 |
-| act1multi_06 | 匪帮集会 | - | 盗賊の集会 |
-| act1multi_07 | 当意外来敲门 | - | 門外のハプニング |
-| act1multi_ex-football | 大力出奇迹 | - | 全力全開の奇跡 |
-| act1multi_football | 大力出奇迹 | - | 全力全開の奇跡 |
-| act1multi_fortress-01 | 湿地跨栏 | - | 湿地ハードル走 |
-| act1multi_fortress-02 | 机械质检通道 | - | 機械品質検査通路 |
-| act1multi_fortress-ex-01 | 湿地跨栏 | - | 湿地ハードル走 |
-| act1multi_fortress-ex-02 | 机械质检通道 | - | 機械品質検査通路 |
-| act1multi_fortress-ex-rm01 | 团体战竞技场 | - | 団体戦競技場 |
-| act1multi_fortress-hard-01 | 请买纪念品 | - | 記念品をご購入あれ |
-| act1multi_fortress-rm01 | 团体战竞技场 | - | 団体戦競技場 |
-| act1multi_hard-01 | 别有洞天 | - | 別天地 |
-| act1multi_hard-02 | 爬高上低 | - | 城壁の走者 |
-| act1multi_hard-03 | 鼷流滚滚 | - | 鼷獣ごろごろ |
-| act1multi_hard-football | 大力出奇迹 | - | 全力全開の奇跡 |
-| act1multi_rm01 | 糖果派送 | - | キャンディ大サービス |
-| act1multi_rm02 | 腐坏森林 | - | 腐敗の森 |
-| act1multi_rm03 | 火山泳池 | - | 火山プール |
-| act1multi_rm04 | 拒宾大道 | - | お断り大通り |
-| act1multi_rm05 | 战场留声 | - | 戦場に残る音楽 |
-| act1multi_rm06 | 黑夜留形 | - | 闇夜に残る人影 |
-| act1multi_rm07 | 创造与繁殖 | - | 創造と繁殖 |
-| act1multi_tr01 | 规则教学-常规项目 | - | TUT-通常種目 |
-| act1multi_tr02 | 规则教学-阵地足球 | - | TUT-ポジションサッカー |
-| act1multi_tr03 | 规则教学-堡垒守御 | - | TUT-要塞ディフェンス |
+| act1multi_01 | 逃离火线 | Firing Line Escape | 戦場からの逃避 |
+| act1multi_02 | 密探有专车接送 | Intercept Special Spy | スパイ専用送迎車 |
+| act1multi_03 | 黑吃黑 | Sinister Consumption | 潰し合い |
+| act1multi_04 | 移动靶射击练习 | Mobile Target Practice | 移動標的射撃練習 |
+| act1multi_05 | 填陆造海 | Make Sea With Land | 陸上の海 |
+| act1multi_06 | 匪帮集会 | Gang Gathering | 盗賊の集会 |
+| act1multi_07 | 当意外来敲门 | When Surprise Knocks | 門外のハプニング |
+| act1multi_ex-football | 大力出奇迹 | Power Shot | 全力全開の奇跡 |
+| act1multi_football | 大力出奇迹 | Power Shot | 全力全開の奇跡 |
+| act1multi_fortress-01 | 湿地跨栏 | Wetland Hurdle | 湿地ハードル走 |
+| act1multi_fortress-02 | 机械质检通道 | Machine Inspection Passage | 機械品質検査通路 |
+| act1multi_fortress-ex-01 | 湿地跨栏 | Wetland Hurdle | 湿地ハードル走 |
+| act1multi_fortress-ex-02 | 机械质检通道 | Machine Inspection Passage | 機械品質検査通路 |
+| act1multi_fortress-ex-rm01 | 团体战竞技场 | Teamfight Arena | 団体戦競技場 |
+| act1multi_fortress-hard-01 | 请买纪念品 | Please Buy Souvenirs | 記念品をご購入あれ |
+| act1multi_fortress-rm01 | 团体战竞技场 | Teamfight Arena | 団体戦競技場 |
+| act1multi_hard-01 | 别有洞天 | Exceptional Place | 別天地 |
+| act1multi_hard-02 | 爬高上低 | Vertical Climbing | 城壁の走者 |
+| act1multi_hard-03 | 鼷流滚滚 | Musbeast Surge | 鼷獣ごろごろ |
+| act1multi_hard-football | 大力出奇迹 | Power Shot | 全力全開の奇跡 |
+| act1multi_rm01 | 糖果派送 | Candy Delivery | キャンディ大サービス |
+| act1multi_rm02 | 腐坏森林 | Rotten Forest | 腐敗の森 |
+| act1multi_rm03 | 火山泳池 | Volcanic Pool | 火山プール |
+| act1multi_rm04 | 拒宾大道 | Repel Avenue | お断り大通り |
+| act1multi_rm05 | 战场留声 | Combat Clamor | 戦場に残る音楽 |
+| act1multi_rm06 | 黑夜留形 | Remnants in the Night | 闇夜に残る人影 |
+| act1multi_rm07 | 创造与繁殖 | Creation and Reproduction | 創造と繁殖 |
+| act1multi_tr01 | 规则教学-常规项目 | Tutorial - Regular Events | TUT-通常種目 |
+| act1multi_tr02 | 规则教学-阵地足球 | Tutorial - Positional Football | TUT-ポジションサッカー |
+| act1multi_tr03 | 规则教学-堡垒守御 | Tutorial - Bastion Defense | TUT-要塞ディフェンス |
 | act1vautochess_m01 | AC-TR-1 | AC-TR-1 | AC-TR-1 |
 | act1vautochess_m02 | AC-1 | AC-1 | AC-1 |
 | act1vautochess_m03 | AC-2 | AC-2 | AC-2 |
@@ -861,18 +861,18 @@ tip: 请善用浏览器的搜索功能
 | act40side_st02 | 雷公栗 | Roasted Chestnut | 雷公栗 |
 | act40side_st03 | 须问汤 | Essence Herbal Soup | 須問湯 |
 | act40side_tr01 | 翡翠墨玉 | Bitter Gourd with Wood Ear | 翡翠墨玉 |
-| act41side_01 | 扉页所见 | - | 巻頭の序文 |
-| act41side_02 | 不过别离 | - | 単なる別れ |
-| act41side_03 | 惶惑与冲动 | - | 不安と衝動 |
-| act41side_04 | 旧舞步 | - | 在りし日のステップ |
-| act41side_05 | 溺火 | - | 炎に溺れる |
-| act41side_06 | 失路人 | - | 迷い人 |
-| act41side_07 | 烧灯者 | - | 灯火を燃やす者 |
-| act41side_08 | 夜尽之时 | - | 夜明けの時 |
-| act41side_st01 | 涉过寒夜 | - | 凍える夜を越えて |
-| act41side_st02 | 罗曼史已死 | - | ロマンスは死んだ |
-| act41side_st03 | 封底纪事 | - | 巻末の端書 |
-| act41side_tr01 | 拨雾声 | - | 霧払う音 |
+| act41side_01 | 扉页所见 | Title Page | 巻頭の序文 |
+| act41side_02 | 不过别离 | But Only Farewell | 単なる別れ |
+| act41side_03 | 惶惑与冲动 | Suspicion and Impulse | 不安と衝動 |
+| act41side_04 | 旧舞步 | That Old Dance | 在りし日のステップ |
+| act41side_05 | 溺火 | Drowned in Fire | 炎に溺れる |
+| act41side_06 | 失路人 | The Lost | 迷い人 |
+| act41side_07 | 烧灯者 | One Who Burns the Lamp | 灯火を燃やす者 |
+| act41side_08 | 夜尽之时 | At the End of the Night | 夜明けの時 |
+| act41side_st01 | 涉过寒夜 | Walk Through the Cold Night | 凍える夜を越えて |
+| act41side_st02 | 罗曼史已死 | Death of a Romance | ロマンスは死んだ |
+| act41side_st03 | 封底纪事 | Back Cover | 巻末の端書 |
+| act41side_tr01 | 拨雾声 | Fog-Parting Call | 霧払う音 |
 | act42side_01 | 圣秩 | - | - |
 | act42side_02 | 祈祷 | - | - |
 | act42side_03 | 礼拜 | - | - |
@@ -1032,7 +1032,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_24 | 冰封雪谷 | Icebound Valley | 閉ざされし雪渓 |
 | camp_r_25 | 66号航道 | Cityway 66 | 66号航路 |
 | camp_r_26 | 壬午号水稻田 | Paddy Field 9-7 | 壬午号水田 |
-| camp_r_27 | 选帝侯广场 | - | 選帝侯広場 |
+| camp_r_27 | 选帝侯广场 | Kurfürstenplatz | 選帝侯広場 |
 | camp_r_28 | 大巴扎 | - | - |
 | camp_r_29 | 鳞骸盐漠  | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |

@@ -342,7 +342,7 @@
     "zh_CN": "清道夫"
   },
   "char_1502_crosly": {
-    "en_US": "CrownSlayer",
+    "en_US": "Crownslayer",
     "ja_JP": "クラウンスレイヤー",
     "zh_CN": "弑君者"
   },
@@ -1557,6 +1557,7 @@
     "zh_CN": "森蚺"
   },
   "char_4171_wulfen": {
+    "en_US": "Wulfenite",
     "ja_JP": "ウルフェナイト",
     "zh_CN": "钼铅"
   },
@@ -1571,6 +1572,7 @@
     "zh_CN": "诺威尔"
   },
   "char_4177_brigid": {
+    "en_US": "Brigid",
     "ja_JP": "ブリギッド",
     "zh_CN": "水灯心"
   },
@@ -1702,6 +1704,7 @@
     "zh_CN": "蜜莓"
   },
   "char_450_necras": {
+    "en_US": "Necrass",
     "ja_JP": "ネクラス",
     "zh_CN": "死芒"
   },

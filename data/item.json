@@ -1314,6 +1314,7 @@
     "zh_CN": "急性感染抑制剂"
   },
   "act1multi_token_cap": {
+    "en_US": "Participation Certificate - S1",
     "ja_JP": "参加認定証-S1",
     "zh_CN": "参赛认证-S1"
   },
@@ -1663,6 +1664,7 @@
     "zh_CN": "“生香”"
   },
   "act41side_token_light": {
+    "en_US": "Broken Originium Lamp",
     "ja_JP": "壊れたランプ",
     "zh_CN": "损坏的源石灯"
   },
@@ -3096,10 +3098,12 @@
     "zh_CN": "说唱动态5"
   },
   "emoticon_basic": {
+    "en_US": "Emote Set",
     "ja_JP": "スタンプ",
     "zh_CN": "表情套组"
   },
   "emoticon_originium_slug": {
+    "en_US": "Emote Set: Slug Style",
     "ja_JP": "スタンプ「オリジムシ」",
     "zh_CN": "表情套组：虫动"
   },
@@ -3573,7 +3577,7 @@
     "zh_CN": "清道夫的信物"
   },
   "p_char_1502_crosly": {
-    "en_US": "CrownSlayer's Token",
+    "en_US": "Crownslayer's Token",
     "ja_JP": "クラウンスレイヤーの印",
     "zh_CN": "弑君者的信物"
   },
@@ -4768,6 +4772,7 @@
     "zh_CN": "森蚺的信物"
   },
   "p_char_4171_wulfen": {
+    "en_US": "Wulfenite's Token",
     "ja_JP": "ウルフェナイトの印",
     "zh_CN": "钼铅的信物"
   },
@@ -4782,6 +4787,7 @@
     "zh_CN": "诺威尔的信物"
   },
   "p_char_4177_brigid": {
+    "en_US": "Brigid's Token",
     "ja_JP": "ブリギッドの印",
     "zh_CN": "水灯心的信物"
   },
@@ -4908,6 +4914,7 @@
     "zh_CN": "蜜莓的信物"
   },
   "p_char_450_necras": {
+    "en_US": "Necrass's Token",
     "ja_JP": "ネクラスの印",
     "zh_CN": "死芒的信物"
   },

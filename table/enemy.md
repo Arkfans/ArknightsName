@@ -130,25 +130,25 @@ tip: 请善用浏览器的搜索功能
 | enemy_10062_cjblon | “饮露餐风” | 'Vapid Blight' | 「飲露餐風」 |
 | enemy_10063_cjdoor | 湮没之口 | Mouth of Annihilation | 隠滅の口 |
 | enemy_10063_cjdoor_2 | 造化之口 | Mouth of Creation | 創造の口 |
-| enemy_10064_ftyzss | 巡游草叶 | - | ミマワリグサ |
-| enemy_10064_ftyzss_2 | 巡游枯木 | - | ミマワリカブ |
-| enemy_10065_ftzlc | 卷心籽 | - | バクダンダネ |
-| enemy_10065_ftzlc_2 | 卷心草 | - | バクダンソウ |
-| enemy_10066_ftxjl | “巢穴” | - | 「巣」 |
-| enemy_10066_ftxjl_2 | “襁褓” | - | 「おくるみ」 |
-| enemy_10067_ftsjc | 灼藤 | - | ホテリツル |
-| enemy_10067_ftsjc_2 | 灼芯 | - | ホテリエダ |
-| enemy_10068_ftxsr | 指路芽 | - | ミチビキワカバ |
-| enemy_10068_ftxsr_2 | 指路草 | - | ミチビキソウ |
-| enemy_10069_ftlsj | 树盾 | - | ツリーシールド |
-| enemy_10069_ftlsj_2 | 树墙 | - | ツリーウォール |
+| enemy_10064_ftyzss | 巡游草叶 | Patrolling Foliage | ミマワリグサ |
+| enemy_10064_ftyzss_2 | 巡游枯木 | Patrolling Witherbush | ミマワリカブ |
+| enemy_10065_ftzlc | 卷心籽 | Cabbage Seedling | バクダンダネ |
+| enemy_10065_ftzlc_2 | 卷心草 | Cabbage Weed | バクダンソウ |
+| enemy_10066_ftxjl | “巢穴” | 'Nest' | 「巣」 |
+| enemy_10066_ftxjl_2 | “襁褓” | 'Cradle' | 「おくるみ」 |
+| enemy_10067_ftsjc | 灼藤 | Burning Vine | ホテリツル |
+| enemy_10067_ftsjc_2 | 灼芯 | Burning Wick | ホテリエダ |
+| enemy_10068_ftxsr | 指路芽 | Guiding Sprout | ミチビキワカバ |
+| enemy_10068_ftxsr_2 | 指路草 | Guiding Shrub | ミチビキソウ |
+| enemy_10069_ftlsj | 树盾 | Tree Shield | ツリーシールド |
+| enemy_10069_ftlsj_2 | 树墙 | Tree Wall | ツリーウォール |
 | enemy_1006_shield | 重装防御者 | Heavy Defender | 重装兵 |
 | enemy_1006_shield_2 | 重装防御组长 | Heavy Defender Leader | 重装隊長 |
 | enemy_1006_shield_3 | 重装五十夫长 | Heavy Defender Lieutenant | 重装連隊長 |
-| enemy_10070_ftkbtt | 灰烬造物 | - | 灰燼の創造物 |
-| enemy_10070_ftkbtt_2 | 灰烬艺术品 | - | 灰燼の芸術品 |
-| enemy_10071_ftprg | “终点” | - | 「終着点」 |
-| enemy_10071_ftprg_2 | “中点” | - | 「中間点」 |
+| enemy_10070_ftkbtt | 灰烬造物 | Ash Creation | 灰燼の創造物 |
+| enemy_10070_ftkbtt_2 | 灰烬艺术品 | Ash Artwork | 灰燼の芸術品 |
+| enemy_10071_ftprg | “终点” | 'End Point' | 「終着点」 |
+| enemy_10071_ftprg_2 | “中点” | 'Middle Point' | 「中間点」 |
 | enemy_10072_mpprhd | 侵入式调用 | - | - |
 | enemy_10073_mpcar | 迷茫的修理小助手 | - | - |
 | enemy_10073_mpcar_2 | 失控的修理小助手 | - | - |
@@ -426,8 +426,8 @@ tip: 请善用浏览器的搜索功能
 | enemy_1103_wdkght | 沸血骑士团学徒 | Bloodboil Knightclub Trainee | ブラッドボイル見習い騎士 |
 | enemy_1103_wdkght_2 | 沸血骑士团精锐 | Bloodboil Knightclub Elite | ブラッドボイル精鋭騎士 |
 | enemy_1103_wdkght_3 | “锈铜”奥尔默·英格拉 | 'Brassrust' Olmer Ingra | 「錆銅」オルマー・イングラ |
-| enemy_1104_lfkght | 锋盔骑士团学徒 | Bladehelm Knightclub Trainee | ブレードヘルム見習い騎士 |
-| enemy_1104_lfkght_2 | 锋盔骑士团精锐 | Bladehelm Knightclub Elite | ブレードヘルム精鋭騎士 |
+| enemy_1104_lfkght | 锋盔骑士团学徒 | Blade Helmet Knightclub Trainee | ブレードヘルム見習い騎士 |
+| enemy_1104_lfkght_2 | 锋盔骑士团精锐 | Blade Helmet Knightclub Elite | ブレードヘルム精鋭騎士 |
 | enemy_1104_lfkght_3 | “左手”泰特斯·白杨 | 'Left-hand' Tytus Topola | 「左腕」タイタス・トポラ |
 | enemy_1105_tyokai | 赞助无人机 | Sponsor Drone | 協賛ドローン |
 | enemy_1105_tyokai_2 | 豪华赞助无人机 | Luxury Sponsor Drone | 豪華協賛ドローン |
@@ -1120,8 +1120,8 @@ tip: 请善用浏览器的搜索功能
 | enemy_1560_cnvlap | “狂欢之主” | 'La Signora del Carnevale' | 「狂宴の主」 |
 | enemy_1561_crzjdg | 安纳斯塔西奥，赎罪者 | Anastasio, the Atoner | 「贖罪者」アナスタシオ |
 | enemy_1562_cjtaot | 无餍 | Gluttony | 無饜 |
-| enemy_1563_fthlgj | “万火归一” | - | 「灯火の帰すところ」 |
-| enemy_1564_mpprts | PRTS，“源代码” | - | PRTS、「ソースコード」 |
+| enemy_1563_fthlgj | “万火归一” | 'All Flames Returned' | 「灯火の帰すところ」 |
+| enemy_1564_mpprts | PRTS，“源代码” | PRTS, Source Code | PRTS、「ソースコード」 |
 | enemy_1565_mpprme | 拟态机械 | - | - |
 | enemy_1566_mpascl | “阿斯卡纶” | - | - |
 | enemy_1567_pope | “圣徒” | - | - |
@@ -1281,33 +1281,33 @@ tip: 请善用浏览器的搜索功能
 | enemy_4018_muboom | 高能源石球 | Infused Originium Ball | バクダンムシボール |
 | enemy_4019_mugold | 至纯源石球 | Originite Prime Ball | 純正源石ボール |
 | enemy_4020_muboun | 无垠回荡球 | Perpetual Rebounder | 天地に揺蕩うボール |
-| enemy_4022_mushtm | 战术队击球手 | - | 戦術組ストライカー |
-| enemy_4022_mushtm_2 | 战术队精英击球手 | - | 戦術組精鋭ストライカー |
-| enemy_4023_mushtb | 战术队守门员 | - | 戦術組キーパー |
-| enemy_4023_mushtb_2 | 战术队精英守门员 | - | 戦術組精鋭キーパー |
-| enemy_4024_mushtg | 战术队击人手 | - | 戦術組エースキラー |
-| enemy_4024_mushtg_2 | 战术队精英击人手 | - | 戦術組精鋭エースキラー |
-| enemy_4025_muhrym | 爱球会击球手 | - | 愛球会ストライカー |
-| enemy_4025_muhrym_2 | 爱球会荣誉击球手 | - | 愛球会名誉ストライカー |
-| enemy_4026_muhryb | 爱球会守门员 | - | 愛球会キーパー |
-| enemy_4026_muhryb_2 | 爱球会荣誉守门员 | - | 愛球会名誉キーパー |
-| enemy_4027_muhryg | 爱球会击人手 | - | 愛球会エースキラー |
-| enemy_4027_muhryg_2 | 爱球会荣誉击人手 | - | 愛球会名誉エースキラー |
-| enemy_4028_mukfum | 球德联击球手 | - | 公正連ストライカー |
-| enemy_4028_mukfum_2 | 球德联老牌击球手 | - | 公正連古参ストライカー |
-| enemy_4029_mukfub | 球德联守门员 | - | 公正連キーパー |
-| enemy_4029_mukfub_2 | 球德联老牌守门员 | - | 公正連古参キーパー |
-| enemy_4030_mukfug | 球德联击人手 | - | 公正連エースキラー |
-| enemy_4030_mukfug_2 | 球德联老牌击人手 | - | 公正連古参エースキラー |
-| enemy_4031_muftsn | 漏气甲虫球 | - | 空気漏れ甲虫ボール |
-| enemy_4032_muftmg | 膨胀甲虫球 | - | 膨張甲虫ボール |
-| enemy_4033_muftic | 北境意志球 | - | 北境の意志ボール |
-| enemy_4034_muftgl | 底海滑动球 | - | 淵海のスライドボール |
-| enemy_4035_mufbsa | 巨力丰碑 | - | 怪力記念碑 |
-| enemy_4036_mufbsb | 坚韧丰碑 | - | 強靭記念碑 |
-| enemy_4037_mufbsc | 神射丰碑 | - | 百発百中記念碑 |
-| enemy_4038_mufbsd | 热情丰碑 | - | 情熱記念碑 |
-| enemy_4039_mufbse | 狂奔丰碑 | - | 狂走記念碑 |
+| enemy_4022_mushtm | 战术队击球手 | Tactical Team Shooter | 戦術組ストライカー |
+| enemy_4022_mushtm_2 | 战术队精英击球手 | Elite Tactical Team Shooter | 戦術組精鋭ストライカー |
+| enemy_4023_mushtb | 战术队守门员 | Tactical Team Goalie | 戦術組キーパー |
+| enemy_4023_mushtb_2 | 战术队精英守门员 | Elite Tactical Team Goalie | 戦術組精鋭キーパー |
+| enemy_4024_mushtg | 战术队击人手 | Tactical Team Hitter | 戦術組エースキラー |
+| enemy_4024_mushtg_2 | 战术队精英击人手 | Elite Tactical Team Hitter | 戦術組精鋭エースキラー |
+| enemy_4025_muhrym | 爱球会击球手 | Ball Mania Club Shooter | 愛球会ストライカー |
+| enemy_4025_muhrym_2 | 爱球会荣誉击球手 | Ball Mania Club Honorary Shooter | 愛球会名誉ストライカー |
+| enemy_4026_muhryb | 爱球会守门员 | Ball Mania Club Goalie | 愛球会キーパー |
+| enemy_4026_muhryb_2 | 爱球会荣誉守门员 | Ball Mania Club Honorary Goalie | 愛球会名誉キーパー |
+| enemy_4027_muhryg | 爱球会击人手 | Ball Mania Club Hitter | 愛球会エースキラー |
+| enemy_4027_muhryg_2 | 爱球会荣誉击人手 | Ball Mania Club Honorary Hitter | 愛球会名誉エースキラー |
+| enemy_4028_mukfum | 球德联击球手 | Sportsmen United Shooter | 公正連ストライカー |
+| enemy_4028_mukfum_2 | 球德联老牌击球手 | Sportsmen United Veteran Shooter | 公正連古参ストライカー |
+| enemy_4029_mukfub | 球德联守门员 | Sportsmen United Goalie | 公正連キーパー |
+| enemy_4029_mukfub_2 | 球德联老牌守门员 | Sportsmen United Veteran Goalie | 公正連古参キーパー |
+| enemy_4030_mukfug | 球德联击人手 | Sportsmen United Hitter | 公正連エースキラー |
+| enemy_4030_mukfug_2 | 球德联老牌击人手 | Sportsmen United Veteran Hitter | 公正連古参エースキラー |
+| enemy_4031_muftsn | 漏气甲虫球 | Leaking Beetleball | 空気漏れ甲虫ボール |
+| enemy_4032_muftmg | 膨胀甲虫球 | Bloated Beetleball | 膨張甲虫ボール |
+| enemy_4033_muftic | 北境意志球 | Will of the North Ball | 北境の意志ボール |
+| enemy_4034_muftgl | 底海滑动球 | Deep Sea Slider Ball | 淵海のスライドボール |
+| enemy_4035_mufbsa | 巨力丰碑 | Monument to Force | 怪力記念碑 |
+| enemy_4036_mufbsb | 坚韧丰碑 | Monument to Toughness | 強靭記念碑 |
+| enemy_4037_mufbsc | 神射丰碑 | Monument to Accuracy | 百発百中記念碑 |
+| enemy_4038_mufbsd | 热情丰碑 | Monument to Passion | 情熱記念碑 |
+| enemy_4039_mufbse | 狂奔丰碑 | Monument to Swiftness | 狂走記念碑 |
 | enemy_5008_cstrwd | 艺术的慈悲! | The Boons of Art! | 芸術の慈悲！ |
 | enemy_5009_shtrwd | 艺术的绝杀! | The Clutchness of Art! | 芸術の必殺技！ |
 | enemy_5010_catrdg | 弱弹 | Weaksauce | 弱い弾 |

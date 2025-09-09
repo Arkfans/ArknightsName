@@ -99,6 +99,8 @@
   },
   "avg_1020_reed2_1": {
     "en_US": [
+      "Loughshinny",
+      "Noble Red Dragon",
       "Reed"
     ],
     "ja_JP": [
@@ -1111,6 +1113,7 @@
     "en_US": [
       "'The Leader'",
       "Loughshinny",
+      "Noble Red Dragon",
       "Reed"
     ],
     "ja_JP": [
@@ -2896,6 +2899,9 @@
     ]
   },
   "avg_4177_brigid_1": {
+    "en_US": [
+      "Brigid"
+    ],
     "ja_JP": [
       "ブリギッド"
     ],
@@ -3152,6 +3158,11 @@
     ]
   },
   "avg_450_necras_1": {
+    "en_US": [
+      "Eblana",
+      "Greedy Red Dragon",
+      "The Red Dragon"
+    ],
     "ja_JP": [
       "エブラナ",
       "貪欲な赤き龍",
@@ -8659,6 +8670,9 @@
     ]
   },
   "avg_npc_1254_1": {
+    "en_US": [
+      "Decrepit Old Man"
+    ],
     "ja_JP": [
       "衰弱した老人"
     ],
@@ -11847,6 +11861,10 @@
     ]
   },
   "avg_npc_1684_1": {
+    "en_US": [
+      "Loughshinny",
+      "Warm Young Dragon"
+    ],
     "ja_JP": [
       "ラフシニー",
       "温かみのある幼龍"
@@ -11857,6 +11875,10 @@
     ]
   },
   "avg_npc_1685_1": {
+    "en_US": [
+      "Cold Young Dragon",
+      "Eblana"
+    ],
     "ja_JP": [
       "エブラナ",
       "冷ややかな幼龍"
@@ -11867,6 +11889,9 @@
     ]
   },
   "avg_npc_1686_1": {
+    "en_US": [
+      "Brooding Resident"
+    ],
     "ja_JP": [
       "不機嫌な住民"
     ],
@@ -11875,6 +11900,11 @@
     ]
   },
   "avg_npc_1687_1": {
+    "en_US": [
+      "Impatient Resident",
+      "Sensitive Resident",
+      "Silent Resident"
+    ],
     "ja_JP": [
       "敏感な住民",
       "焦る住民",
@@ -11887,6 +11917,9 @@
     ]
   },
   "avg_npc_1688_1": {
+    "en_US": [
+      "Friendly Resident"
+    ],
     "ja_JP": [
       "友好的な住民"
     ],
@@ -11895,6 +11928,10 @@
     ]
   },
   "avg_npc_1689_1": {
+    "en_US": [
+      "Angry Resident",
+      "Quiet Resident"
+    ],
     "ja_JP": [
       "寡黙な住民",
       "怒る住民"
@@ -11916,6 +11953,9 @@
     ]
   },
   "avg_npc_1690_1": {
+    "en_US": [
+      "The Exiled King"
+    ],
     "ja_JP": [
       "「放逐王」"
     ],
@@ -11924,6 +11964,9 @@
     ]
   },
   "avg_npc_1691_1": {
+    "en_US": [
+      "Solemn Wakewoman"
+    ],
     "ja_JP": [
       "生真面目な霊の守人"
     ],
@@ -11932,6 +11975,10 @@
     ]
   },
   "avg_npc_1692_1": {
+    "en_US": [
+      "Nemos",
+      "The Wakewoman"
+    ],
     "ja_JP": [
       "「霊の守人」",
       "ネモス"
@@ -11942,6 +11989,9 @@
     ]
   },
   "avg_npc_1693_1": {
+    "en_US": [
+      "Jittery Guard"
+    ],
     "ja_JP": [
       "苛立つ衛兵"
     ],
@@ -11950,6 +12000,9 @@
     ]
   },
   "avg_npc_1694_1": {
+    "en_US": [
+      "Loughshinny"
+    ],
     "ja_JP": [
       "ラフシニー"
     ],
@@ -11958,6 +12011,9 @@
     ]
   },
   "avg_npc_1695_1": {
+    "en_US": [
+      "Fervent Resident"
+    ],
     "ja_JP": [
       "狂気的な住民"
     ],
@@ -11966,6 +12022,11 @@
     ]
   },
   "avg_npc_1696_1": {
+    "en_US": [
+      "Dying Resident",
+      "Indifferent Resident",
+      "Worried Resident"
+    ],
     "ja_JP": [
       "冷淡な住民",
       "憂いげな住民",
@@ -11978,6 +12039,9 @@
     ]
   },
   "avg_npc_1697_1": {
+    "en_US": [
+      "Culann"
+    ],
     "ja_JP": [
       "クラン"
     ],
@@ -11986,6 +12050,10 @@
     ]
   },
   "avg_npc_1698_1": {
+    "en_US": [
+      "'The Singer'",
+      "Writer"
+    ],
     "ja_JP": [
       "「吟遊家」",
       "作家"
@@ -12140,6 +12208,9 @@
     ]
   },
   "avg_npc_1749_1": {
+    "en_US": [
+      "'The Torturer'"
+    ],
     "ja_JP": [
       "「拷問者」"
     ],
@@ -12226,6 +12297,9 @@
     ]
   },
   "avg_npc_1752_1": {
+    "en_US": [
+      "Anxious Resident"
+    ],
     "ja_JP": [
       "落ち着かない様子の住民"
     ],
@@ -14120,6 +14194,8 @@
       "'The Accountant'",
       "'The Bandit'",
       "'The Convict'",
+      "'The Cruel Officer'",
+      "'The Ombudsman'",
       "'The Toxicologist'"
     ],
     "ja_JP": [
@@ -14193,6 +14269,7 @@
       "Nervous Child",
       "Small Child",
       "Taran Child",
+      "Theo",
       "Victorian Boy"
     ],
     "ja_JP": [
@@ -14564,6 +14641,7 @@
   },
   "avg_npc_246": {
     "en_US": [
+      "'The Bureaucrat'",
       "'The Elocutionist'"
     ],
     "ja_JP": [
@@ -14577,7 +14655,8 @@
   },
   "avg_npc_247": {
     "en_US": [
-      "'The Immolator'"
+      "'The Immolator'",
+      "'The Singer'"
     ],
     "ja_JP": [
       "「吟遊家」",
@@ -16382,7 +16461,8 @@
       "Dublinn Officer",
       "Dublinn Soldier",
       "Dublinn Soldier A",
-      "Dublinn Soldier B"
+      "Dublinn Soldier B",
+      "Frantic Soldier"
     ],
     "ja_JP": [
       "ダブリン兵士",
@@ -19478,7 +19558,8 @@
   },
   "avg_npc_723_1": {
     "en_US": [
-      "'The Brigadier'"
+      "'The Brigadier'",
+      "The Brigadier"
     ],
     "ja_JP": [
       "「将校」",

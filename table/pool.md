@@ -250,6 +250,6 @@ tip: 请善用浏览器的搜索功能
 | _SINGLE_34_0_1 | - | Confirmation, Completion, Conduction | 実証、完成、先導 |
 | _SINGLE_34_0_10 | - | And The Canoe'll Carry Us To You | 河畔の渡し船 |
 | _SINGLE_34_0_4 | - | The Sojourner | さすらう者 |
-| _SINGLE_35_0_1 | - | - | 死火より出づ |
+| _SINGLE_35_0_1 | - | Returned From A Pyre | 死火より出づ |
 | _SPECIAL_32_0_8 | - | Orienteering Headhunting | セレクトスカウト |
-| _SPECIAL_35_0_3 | - | - | セレクトスカウト |
+| _SPECIAL_35_0_3 | - | Orienteering Headhunting | セレクトスカウト |

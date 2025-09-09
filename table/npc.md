@@ -17,9 +17,9 @@ tip: 请善用浏览器的搜索功能
 |   | 耀骑士 | The Radiant Knight |   |
 | avg_1016_agoat2_1 | 阿黛尔 | Adele | アデル |
 | avg_1019_siege2_1 | 维娜 | Vina | ヴィーナ |
-| avg_1020_reed2_1 | 拉芙希妮 | Reed | ラフシニー |
-|   | 苇草 |   | リード |
-|   | 高尚的红龙 |   | 気高い赤き龍 |
+| avg_1020_reed2_1 | 拉芙希妮 | Loughshinny | ラフシニー |
+|   | 苇草 | Noble Red Dragon | リード |
+|   | 高尚的红龙 | Reed | 気高い赤き龍 |
 | avg_1021_kroos2_1 | 克洛丝 | Kroos | クルース |
 | avg_1023_ghost2_1 | 幽灵鲨 | Specter | スペクター |
 |   | 幽灵鲨&斯卡蒂 | Specter & Skadi | スペクター/スカジ |
@@ -145,8 +145,8 @@ tip: 请善用浏览器的搜索功能
 | avg_226_hmau_1 | 吽 | Hung | ウン |
 | avg_226_weed_1 | “领袖” | 'The Leader' | 「リーダー」 |
 |   | 拉芙希妮 | Loughshinny | ラフシニー |
-|   | 苇草 | Reed | リード |
-|   | 高尚的红龙 |   | 気高い赤き龍 |
+|   | 苇草 | Noble Red Dragon | リード |
+|   | 高尚的红龙 | Reed | 気高い赤き龍 |
 | avg_230_savage_1 | 暴行 | No-Nonsense Woman | サベージ |
 |   | 雷厉风行的女性 | Savage | ハキハキした女性 |
 | avg_237_gravel_1 | 塞诺蜜 | Gravel | グラベル |
@@ -389,7 +389,7 @@ tip: 请善用浏览器的搜索功能
 |   | 着急的女子 | Patrolling Soldier | 巡回する衛兵 |
 |   | 行箸 | Xingzhu | 焦る女性 |
 | avg_4173_nowell_1 | 诺威尔 | - | - |
-| avg_4177_brigid_1 | 布莉吉 | - | ブリギッド |
+| avg_4177_brigid_1 | 布莉吉 | Brigid | ブリギッド |
 | avg_4178_alanna_1 | 阿兰娜 | - | - |
 | avg_4179_monstr_1 | Mon3tr | - | - |
 | avg_4182_oblvns_1 | 丰川祥子 | - | - |
@@ -433,9 +433,9 @@ tip: 请善用浏览器的搜索功能
 | avg_445_wscoot_1 | 骋风 | - | - |
 | avg_446_aroma_1 | 阿罗玛 | Aroma | アロマ |
 | avg_449_glider_1 | 蜜莓 | Honeyberry | ハニーベリー |
-| avg_450_necras_1 | 爱布拉娜 | - | エブラナ |
-|   | 红龙 |   | 貪欲な赤き龍 |
-|   | 贪婪的红龙 |   | 赤き龍 |
+| avg_450_necras_1 | 爱布拉娜 | Eblana | エブラナ |
+|   | 红龙 | Greedy Red Dragon | 貪欲な赤き龍 |
+|   | 贪婪的红龙 | The Red Dragon | 赤き龍 |
 | avg_451_robin_1 | 罗宾 | - | - |
 | avg_452_bstalk_1 | 豆苗 | Beanstalk | ビーンストーク |
 | avg_464_cement_1 | 夏娜 | Shana | シャナ |
@@ -1682,7 +1682,7 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_1252_1 | 窘迫的老人 | Embarrassed Old Man | 元気な老人 |
 |   | 精神的老人 | Spirited Old Man | 困り果てた老人 |
 | avg_npc_1253_1 | 铳械维修师 | Gunsmith | 銃の修理技師 |
-| avg_npc_1254_1 | 伊安 | - | 衰弱した老人 |
+| avg_npc_1254_1 | 伊安 | Decrepit Old Man | 衰弱した老人 |
 |   | 卡利托 |   |   |
 |   | 沉默的老人 |   |   |
 |   | 焦急的老人 |   |   |
@@ -2268,31 +2268,31 @@ tip: 请善用浏览器的搜索功能
 |   | 弥尔顿 | Young Sarkaz | 若いサルカズ |
 | avg_npc_167 | Stormeye | Stormeye | Stormeye |
 |   | stormeye |   |   |
-| avg_npc_1684_1 | 拉芙希妮 | - | ラフシニー |
-|   | 温热的幼龙 |   | 温かみのある幼龍 |
-| avg_npc_1685_1 | 冰冷的幼龙 | - | エブラナ |
-|   | 爱布拉娜 |   | 冷ややかな幼龍 |
-| avg_npc_1686_1 | 阴沉的居民 | - | 不機嫌な住民 |
-| avg_npc_1687_1 | 急切的居民 | - | 敏感な住民 |
-|   | 敏感的居民 |   | 焦る住民 |
-|   | 沉默的居民 |   | 黙り込む住民 |
-| avg_npc_1688_1 | 友善的居民 | - | 友好的な住民 |
-| avg_npc_1689_1 | 寡言的居民 | - | 寡黙な住民 |
-|   | 愤怒的居民 |   | 怒る住民 |
+| avg_npc_1684_1 | 拉芙希妮 | Loughshinny | ラフシニー |
+|   | 温热的幼龙 | Warm Young Dragon | 温かみのある幼龍 |
+| avg_npc_1685_1 | 冰冷的幼龙 | Cold Young Dragon | エブラナ |
+|   | 爱布拉娜 | Eblana | 冷ややかな幼龍 |
+| avg_npc_1686_1 | 阴沉的居民 | Brooding Resident | 不機嫌な住民 |
+| avg_npc_1687_1 | 急切的居民 | Impatient Resident | 敏感な住民 |
+|   | 敏感的居民 | Sensitive Resident | 焦る住民 |
+|   | 沉默的居民 | Silent Resident | 黙り込む住民 |
+| avg_npc_1688_1 | 友善的居民 | Friendly Resident | 友好的な住民 |
+| avg_npc_1689_1 | 寡言的居民 | Angry Resident | 寡黙な住民 |
+|   | 愤怒的居民 | Quiet Resident | 怒る住民 |
 | avg_npc_168_1 | 莉莉娅 | Lillia | リリア |
-| avg_npc_1690_1 | “放逐王” | - | 「放逐王」 |
-| avg_npc_1691_1 | 严肃的守灵人 | - | 生真面目な霊の守人 |
-| avg_npc_1692_1 | “守灵人” | - | 「霊の守人」 |
-|   | 涅梅丝 |   | ネモス |
-| avg_npc_1693_1 | 烦躁的守卫 | - | 苛立つ衛兵 |
-| avg_npc_1694_1 | 拉芙希妮 | - | ラフシニー |
-| avg_npc_1695_1 | 狂热的居民 | - | 狂気的な住民 |
-| avg_npc_1696_1 | 冷漠的居民 | - | 冷淡な住民 |
-|   | 担忧的居民 |   | 憂いげな住民 |
-|   | 濒死的居民 |   | 瀕死の住民 |
-| avg_npc_1697_1 | 库林 | - | クラン |
-| avg_npc_1698_1 | “歌唱家” | - | 「吟遊家」 |
-|   | 作家 |   | 作家 |
+| avg_npc_1690_1 | “放逐王” | The Exiled King | 「放逐王」 |
+| avg_npc_1691_1 | 严肃的守灵人 | Solemn Wakewoman | 生真面目な霊の守人 |
+| avg_npc_1692_1 | “守灵人” | Nemos | 「霊の守人」 |
+|   | 涅梅丝 | The Wakewoman | ネモス |
+| avg_npc_1693_1 | 烦躁的守卫 | Jittery Guard | 苛立つ衛兵 |
+| avg_npc_1694_1 | 拉芙希妮 | Loughshinny | ラフシニー |
+| avg_npc_1695_1 | 狂热的居民 | Fervent Resident | 狂気的な住民 |
+| avg_npc_1696_1 | 冷漠的居民 | Dying Resident | 冷淡な住民 |
+|   | 担忧的居民 | Indifferent Resident | 憂いげな住民 |
+|   | 濒死的居民 | Worried Resident | 瀕死の住民 |
+| avg_npc_1697_1 | 库林 | Culann | クラン |
+| avg_npc_1698_1 | “歌唱家” | 'The Singer' | 「吟遊家」 |
+|   | 作家 | Writer | 作家 |
 | avg_npc_169_1 | 海蒂 | Heidi | ハイディ |
 | avg_npc_170_1 | 文森特伯爵 | Count Vincent | ヴィンセント伯爵 |
 | avg_npc_1718_1 | 普瑞赛斯 | - | - |
@@ -2321,7 +2321,7 @@ tip: 请善用浏览器的搜索功能
 |   | 通讯中的声音 |   |   |
 | avg_npc_1731_1 | 急性感染的工人 | - | - |
 | avg_npc_174 | 万尼亚大公 | Grand Duke Vanya | ワーニャ公爵 |
-| avg_npc_1749_1 | “拷问者” | - | 「拷問者」 |
+| avg_npc_1749_1 | “拷问者” | 'The Torturer' | 「拷問者」 |
 | avg_npc_175 | 刻薄的莱塔尼亚人 | Actress | ためらう使節 |
 |   | 商队首领 | Beautiful Noble | キャラバンのリーダー |
 |   | 女性设计师 | Calm Councilor | ユーモラスな貴族 |
@@ -2346,7 +2346,7 @@ tip: 请善用浏览器的搜索功能
 |   | 雍容的议员 | Witty Noble | 風流人ぶった女性貴族 |
 |   | 面色和善的贵族 | Woman of High Status | 高貴な身分の女性 |
 |   | 风趣的贵族 |   |   |
-| avg_npc_1752_1 | 焦急的居民 | - | 落ち着かない様子の住民 |
+| avg_npc_1752_1 | 焦急的居民 | Anxious Resident | 落ち着かない様子の住民 |
 | avg_npc_176 | 主持人 | A Leithanian Nobleman | おしゃべりな商人 |
 |   | 刻薄的男爵 | Adulating Collector | ほろ酔いな商人 |
 |   | 剧场经理 | Announcer | イラつく商人 |
@@ -2840,9 +2840,9 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_234 | “会计” | 'The Accountant' | 「会計官」 |
 |   | “囚犯” | 'The Bandit' | 「劇薬学者」 |
 |   | “强盗” | 'The Convict' | 「囚人」 |
-|   | “毒药学者” | 'The Toxicologist' | 「暴政者」 |
-|   | “监察官” |   | 「略奪者」 |
-|   | “酷吏” |   | 「監察官」 |
+|   | “毒药学者” | 'The Cruel Officer' | 「暴政者」 |
+|   | “监察官” | 'The Ombudsman' | 「略奪者」 |
+|   | “酷吏” | 'The Toxicologist' | 「監察官」 |
 | avg_npc_235 | Misery | Misery | Misery |
 | avg_npc_238 | 凯利上尉 | Captain Kelly | ケリー大尉 |
 | avg_npc_239 | 衣着朴素的诗人 | Bard Williams | 詩人ウィリアムズ |
@@ -2863,8 +2863,8 @@ tip: 请善用浏览器的搜索功能
 |   | 淘气的孩子 | Nervous Child | 無邪気な子供 |
 |   | 焦急的孩子 | Small Child | 焦る子供 |
 |   | 狡猾的男孩 | Taran Child | 狡猾な少年 |
-|   | 玻利瓦尔小孩 | Victorian Boy | 痩せ細った子供 |
-|   | 瘦弱的孩子 |   | 緊張した子供 |
+|   | 玻利瓦尔小孩 | Theo | 痩せ細った子供 |
+|   | 瘦弱的孩子 | Victorian Boy | 緊張した子供 |
 |   | 稚嫩的孩子 |   | 興味津々な子供 |
 |   | 米伦 |   | 騎士 |
 |   | 紧张的孩子 |   |   |
@@ -2970,10 +2970,10 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_244 | 深池士兵 | Dublinn Soldier | ダブリン兵士 |
 |   | 深池士兵？ | Dublinn Soldier? | ダブリン兵士？ |
 | avg_npc_245_1 | Outcast | Outcast | Outcast |
-| avg_npc_246 | “官僚” | 'The Elocutionist' | 「官僚」 |
-|   | “雄辩家” |   | 「雄弁家」 |
+| avg_npc_246 | “官僚” | 'The Bureaucrat' | 「官僚」 |
+|   | “雄辩家” | 'The Elocutionist' | 「雄弁家」 |
 | avg_npc_247 | “歌唱家” | 'The Immolator' | 「吟遊家」 |
-|   | “纵火家” |   | 「放火魔」 |
+|   | “纵火家” | 'The Singer' | 「放火魔」 |
 | avg_npc_248 | “副官希尔” | 'Adjutant Hill' | 「副官ヒル」 |
 |   | 严厉的军官 | Adjutant Hill | ヴィクトリア兵 |
 |   | 兴奋的士兵 | Biting Officer | ヴィクトリア兵A |
@@ -3349,7 +3349,7 @@ tip: 请善用浏览器的搜索功能
 |   | 深池军官 | Dublinn Soldier | ダブリン兵士A |
 |   | 深池士兵 | Dublinn Soldier A | ダブリン兵士B |
 |   | 深池士兵A | Dublinn Soldier B | ダブリン士官 |
-|   | 深池士兵B |   | 慌ただしい兵士 |
+|   | 深池士兵B | Frantic Soldier | 慌ただしい兵士 |
 | avg_npc_407_1 | 推进之王 | Siege | シージ |
 |   | 维娜 | Vina | ヴィーナ |
 | avg_npc_408_1 | 严肃的士兵 | Alliance Soldier | ずる賢い兵士 |
@@ -4031,7 +4031,7 @@ tip: 请善用浏览器的搜索功能
 |   | 胆小的服务员 | Undercover Officer B | 裁判官補佐 |
 | avg_npc_722_1 | 爱布拉娜 | Eblana | エブラナ |
 | avg_npc_723_1 | “校官” | 'The Brigadier' | 「将校」 |
-|   | 校官 |   | 将校 |
+|   | 校官 | The Brigadier | 将校 |
 | avg_npc_724_1 | 塞尔蒙 | Dublinn Soldier? | セルモン |
 |   | 深池士兵？ | Selmon | ダブリン兵士？ |
 | avg_npc_725_1 | 维恩 | Fionn | ヴェン |

@@ -554,7 +554,7 @@
   "char_1502_crosly": {
     "type": "OPERATOR",
     "names": {
-      "en_US": "CrownSlayer",
+      "en_US": "Crownslayer",
       "ja_JP": "クラウンスレイヤー",
       "zh_CN": "弑君者"
     }
@@ -2498,6 +2498,7 @@
   "char_4171_wulfen": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Wulfenite",
       "ja_JP": "ウルフェナイト",
       "zh_CN": "钼铅"
     }
@@ -2521,6 +2522,7 @@
   "char_4177_brigid": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Brigid",
       "ja_JP": "ブリギッド",
       "zh_CN": "水灯心"
     }
@@ -2754,6 +2756,7 @@
   "char_450_necras": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Necrass",
       "ja_JP": "ネクラス",
       "zh_CN": "死芒"
     }
@@ -3641,6 +3644,7 @@
   "token_10043_necras_skeltn": {
     "type": "TOKEN",
     "names": {
+      "en_US": "Servant of Lamentation",
       "ja_JP": "悲嘆する下僕",
       "zh_CN": "悲叹的仆役"
     }
@@ -3648,6 +3652,7 @@
   "token_10044_wulfen_mine": {
     "type": "TOKEN",
     "names": {
+      "en_US": "Ore 'Killer'",
       "ja_JP": "鉱石「キラー」",
       "zh_CN": "矿石“杀手”"
     }
@@ -5463,7 +5468,7 @@
   "trap_166_muwork": {
     "type": "TRAP",
     "names": {
-      "en_US": "Foldable Facility Maintainer",
+      "en_US": "Facility Builder",
       "ja_JP": "施設建設作業員",
       "zh_CN": "设施建筑工"
     }
@@ -5695,6 +5700,7 @@
   "trap_197_muulwr": {
     "type": "TRAP",
     "names": {
+      "en_US": "Protective Gear Giver",
       "ja_JP": "防具支給員",
       "zh_CN": "护具分发员"
     }
@@ -5702,6 +5708,7 @@
   "trap_198_muulas": {
     "type": "TRAP",
     "names": {
+      "en_US": "Chaotic Fireworks",
       "ja_JP": "花火セット",
       "zh_CN": "混乱烟花箱"
     }
@@ -5709,6 +5716,7 @@
   "trap_199_muulrg": {
     "type": "TRAP",
     "names": {
+      "en_US": "Beastmode Energy Drink",
       "ja_JP": "ニャンスターエナジー",
       "zh_CN": "猛兽能量饮料"
     }
@@ -5716,6 +5724,7 @@
   "trap_200_muulcl": {
     "type": "TRAP",
     "names": {
+      "en_US": "Soda Dispenser",
       "ja_JP": "サイダー噴射機",
       "zh_CN": "喷射汽水机"
     }
@@ -5723,6 +5732,7 @@
   "trap_201_muulco": {
     "type": "TRAP",
     "names": {
+      "en_US": "Cheerleader",
       "ja_JP": "競技応援団",
       "zh_CN": "赛场啦啦队"
     }
@@ -5730,6 +5740,7 @@
   "trap_202_muworkg": {
     "type": "TRAP",
     "names": {
+      "en_US": "Expert Facility Builder",
       "ja_JP": "上級施設建設作業員",
       "zh_CN": "高级设施建筑工"
     }
@@ -5737,6 +5748,7 @@
   "trap_203_mufrprn": {
     "type": "TRAP",
     "names": {
+      "en_US": "Collapsed Junk Pile",
       "ja_JP": "ガラクタのなだれ",
       "zh_CN": "坍塌的杂物堆"
     }
@@ -5744,6 +5756,7 @@
   "trap_205_mufrfm": {
     "type": "TRAP",
     "names": {
+      "en_US": "Construction Workshop",
       "ja_JP": "作業員倉庫",
       "zh_CN": "建筑工具间"
     }
@@ -5751,6 +5764,7 @@
   "trap_206_mufrbk": {
     "type": "TRAP",
     "names": {
+      "en_US": "Recuperation Pod",
       "ja_JP": "仮設休憩室",
       "zh_CN": "临时休息舱"
     }
@@ -5758,6 +5772,7 @@
   "trap_207_mufrwl": {
     "type": "TRAP",
     "names": {
+      "en_US": "Hydraulic Platform",
       "ja_JP": "油圧式高台",
       "zh_CN": "液压式高台 "
     }
@@ -5765,6 +5780,7 @@
   "trap_208_mufrst": {
     "type": "TRAP",
     "names": {
+      "en_US": "Concrete Roadblock",
       "ja_JP": "コンクリ防壁",
       "zh_CN": "混凝土路障 "
     }
@@ -5772,6 +5788,7 @@
   "trap_209_mufrbs": {
     "type": "TRAP",
     "names": {
+      "en_US": "Portable Exercise Rack",
       "ja_JP": "携帯式健康器",
       "zh_CN": "便携健身架"
     }
@@ -5827,6 +5844,7 @@
   "trap_218_fttree": {
     "type": "TRAP",
     "names": {
+      "en_US": "Thicket",
       "ja_JP": "茂み",
       "zh_CN": "树丛"
     }
@@ -5834,6 +5852,7 @@
   "trap_219_fttreant": {
     "type": "TRAP",
     "names": {
+      "en_US": "Shield and Wall",
       "ja_JP": "盾と壁",
       "zh_CN": "盾与墙"
     }
@@ -5841,6 +5860,7 @@
   "trap_220_ftbone": {
     "type": "TRAP",
     "names": {
+      "en_US": "Fires of Days Past",
       "ja_JP": "昔日の火",
       "zh_CN": "旧日之火"
     }
@@ -5848,6 +5868,7 @@
   "trap_221_ftshad": {
     "type": "TRAP",
     "names": {
+      "en_US": "Empty Shell",
       "ja_JP": "抜け殻",
       "zh_CN": "空壳"
     }
@@ -8483,6 +8504,7 @@
   "char_190_clour@epoque#43": {
     "type": "SKIN",
     "names": {
+      "en_US": "Playfellows",
       "ja_JP": "遊び相手",
       "zh_CN": "玩伴"
     }
@@ -9052,6 +9074,7 @@
   "char_260_durnar@epoque#42": {
     "type": "SKIN",
     "names": {
+      "en_US": "Plush Cake",
       "ja_JP": "ふかふかのケーキ",
       "zh_CN": "绒布蛋糕"
     }
@@ -9739,6 +9762,7 @@
   "char_379_sesa@game#5": {
     "type": "SKIN",
     "names": {
+      "en_US": "To Evoke the Anima",
       "ja_JP": "万物に魂有り",
       "zh_CN": "万物有灵"
     }
@@ -10258,6 +10282,7 @@
   "char_4102_threye@epoque#42": {
     "type": "SKIN",
     "names": {
+      "en_US": "Midskog Fika",
       "ja_JP": "木漏れ日の中で",
       "zh_CN": "林间暖阳"
     }
@@ -10441,6 +10466,7 @@
   "char_4146_nymph@epoque#42": {
     "type": "SKIN",
     "names": {
+      "en_US": "Sweetness to the Heart",
       "ja_JP": "甘美な真心",
       "zh_CN": "甜美配方"
     }
@@ -12104,6 +12130,7 @@
   "enemy_10064_ftyzss": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Patrolling Foliage",
       "ja_JP": "ミマワリグサ",
       "zh_CN": "巡游草叶"
     }
@@ -12111,6 +12138,7 @@
   "enemy_10064_ftyzss_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Patrolling Witherbush",
       "ja_JP": "ミマワリカブ",
       "zh_CN": "巡游枯木"
     }
@@ -12118,6 +12146,7 @@
   "enemy_10065_ftzlc": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Cabbage Seedling",
       "ja_JP": "バクダンダネ",
       "zh_CN": "卷心籽"
     }
@@ -12125,6 +12154,7 @@
   "enemy_10065_ftzlc_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Cabbage Weed",
       "ja_JP": "バクダンソウ",
       "zh_CN": "卷心草"
     }
@@ -12132,6 +12162,7 @@
   "enemy_10066_ftxjl": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Nest'",
       "ja_JP": "「巣」",
       "zh_CN": "“巢穴”"
     }
@@ -12139,6 +12170,7 @@
   "enemy_10066_ftxjl_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Cradle'",
       "ja_JP": "「おくるみ」",
       "zh_CN": "“襁褓”"
     }
@@ -12146,6 +12178,7 @@
   "enemy_10067_ftsjc": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Burning Vine",
       "ja_JP": "ホテリツル",
       "zh_CN": "灼藤"
     }
@@ -12153,6 +12186,7 @@
   "enemy_10067_ftsjc_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Burning Wick",
       "ja_JP": "ホテリエダ",
       "zh_CN": "灼芯"
     }
@@ -12160,6 +12194,7 @@
   "enemy_10068_ftxsr": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Guiding Sprout",
       "ja_JP": "ミチビキワカバ",
       "zh_CN": "指路芽"
     }
@@ -12167,6 +12202,7 @@
   "enemy_10068_ftxsr_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Guiding Shrub",
       "ja_JP": "ミチビキソウ",
       "zh_CN": "指路草"
     }
@@ -12174,6 +12210,7 @@
   "enemy_10069_ftlsj": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Tree Shield",
       "ja_JP": "ツリーシールド",
       "zh_CN": "树盾"
     }
@@ -12181,6 +12218,7 @@
   "enemy_10069_ftlsj_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Tree Wall",
       "ja_JP": "ツリーウォール",
       "zh_CN": "树墙"
     }
@@ -12212,6 +12250,7 @@
   "enemy_10070_ftkbtt": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Ash Creation",
       "ja_JP": "灰燼の創造物",
       "zh_CN": "灰烬造物"
     }
@@ -12219,6 +12258,7 @@
   "enemy_10070_ftkbtt_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Ash Artwork",
       "ja_JP": "灰燼の芸術品",
       "zh_CN": "灰烬艺术品"
     }
@@ -12226,6 +12266,7 @@
   "enemy_10071_ftprg": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'End Point'",
       "ja_JP": "「終着点」",
       "zh_CN": "“终点”"
     }
@@ -12233,6 +12274,7 @@
   "enemy_10071_ftprg_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Middle Point'",
       "ja_JP": "「中間点」",
       "zh_CN": "“中点”"
     }
@@ -14276,7 +14318,7 @@
   "enemy_1104_lfkght": {
     "type": "ENEMY",
     "names": {
-      "en_US": "Bladehelm Knightclub Trainee",
+      "en_US": "Blade Helmet Knightclub Trainee",
       "ja_JP": "ブレードヘルム見習い騎士",
       "zh_CN": "锋盔骑士团学徒"
     }
@@ -14284,7 +14326,7 @@
   "enemy_1104_lfkght_2": {
     "type": "ENEMY",
     "names": {
-      "en_US": "Bladehelm Knightclub Elite",
+      "en_US": "Blade Helmet Knightclub Elite",
       "ja_JP": "ブレードヘルム精鋭騎士",
       "zh_CN": "锋盔骑士团精锐"
     }
@@ -19820,6 +19862,7 @@
   "enemy_1563_fthlgj": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'All Flames Returned'",
       "ja_JP": "「灯火の帰すところ」",
       "zh_CN": "“万火归一”"
     }
@@ -19827,6 +19870,7 @@
   "enemy_1564_mpprts": {
     "type": "ENEMY",
     "names": {
+      "en_US": "PRTS, Source Code",
       "ja_JP": "PRTS、「ソースコード」",
       "zh_CN": "PRTS，“源代码”"
     }
@@ -21048,6 +21092,7 @@
   "enemy_4022_mushtm": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Tactical Team Shooter",
       "ja_JP": "戦術組ストライカー",
       "zh_CN": "战术队击球手"
     }
@@ -21055,6 +21100,7 @@
   "enemy_4022_mushtm_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Elite Tactical Team Shooter",
       "ja_JP": "戦術組精鋭ストライカー",
       "zh_CN": "战术队精英击球手"
     }
@@ -21062,6 +21108,7 @@
   "enemy_4023_mushtb": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Tactical Team Goalie",
       "ja_JP": "戦術組キーパー",
       "zh_CN": "战术队守门员"
     }
@@ -21069,6 +21116,7 @@
   "enemy_4023_mushtb_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Elite Tactical Team Goalie",
       "ja_JP": "戦術組精鋭キーパー",
       "zh_CN": "战术队精英守门员"
     }
@@ -21076,6 +21124,7 @@
   "enemy_4024_mushtg": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Tactical Team Hitter",
       "ja_JP": "戦術組エースキラー",
       "zh_CN": "战术队击人手"
     }
@@ -21083,6 +21132,7 @@
   "enemy_4024_mushtg_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Elite Tactical Team Hitter",
       "ja_JP": "戦術組精鋭エースキラー",
       "zh_CN": "战术队精英击人手"
     }
@@ -21090,6 +21140,7 @@
   "enemy_4025_muhrym": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Ball Mania Club Shooter",
       "ja_JP": "愛球会ストライカー",
       "zh_CN": "爱球会击球手"
     }
@@ -21097,6 +21148,7 @@
   "enemy_4025_muhrym_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Ball Mania Club Honorary Shooter",
       "ja_JP": "愛球会名誉ストライカー",
       "zh_CN": "爱球会荣誉击球手"
     }
@@ -21104,6 +21156,7 @@
   "enemy_4026_muhryb": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Ball Mania Club Goalie",
       "ja_JP": "愛球会キーパー",
       "zh_CN": "爱球会守门员"
     }
@@ -21111,6 +21164,7 @@
   "enemy_4026_muhryb_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Ball Mania Club Honorary Goalie",
       "ja_JP": "愛球会名誉キーパー",
       "zh_CN": "爱球会荣誉守门员"
     }
@@ -21118,6 +21172,7 @@
   "enemy_4027_muhryg": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Ball Mania Club Hitter",
       "ja_JP": "愛球会エースキラー",
       "zh_CN": "爱球会击人手"
     }
@@ -21125,6 +21180,7 @@
   "enemy_4027_muhryg_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Ball Mania Club Honorary Hitter",
       "ja_JP": "愛球会名誉エースキラー",
       "zh_CN": "爱球会荣誉击人手"
     }
@@ -21132,6 +21188,7 @@
   "enemy_4028_mukfum": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Sportsmen United Shooter",
       "ja_JP": "公正連ストライカー",
       "zh_CN": "球德联击球手"
     }
@@ -21139,6 +21196,7 @@
   "enemy_4028_mukfum_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Sportsmen United Veteran Shooter",
       "ja_JP": "公正連古参ストライカー",
       "zh_CN": "球德联老牌击球手"
     }
@@ -21146,6 +21204,7 @@
   "enemy_4029_mukfub": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Sportsmen United Goalie",
       "ja_JP": "公正連キーパー",
       "zh_CN": "球德联守门员"
     }
@@ -21153,6 +21212,7 @@
   "enemy_4029_mukfub_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Sportsmen United Veteran Goalie",
       "ja_JP": "公正連古参キーパー",
       "zh_CN": "球德联老牌守门员"
     }
@@ -21160,6 +21220,7 @@
   "enemy_4030_mukfug": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Sportsmen United Hitter",
       "ja_JP": "公正連エースキラー",
       "zh_CN": "球德联击人手"
     }
@@ -21167,6 +21228,7 @@
   "enemy_4030_mukfug_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Sportsmen United Veteran Hitter",
       "ja_JP": "公正連古参エースキラー",
       "zh_CN": "球德联老牌击人手"
     }
@@ -21174,6 +21236,7 @@
   "enemy_4031_muftsn": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Leaking Beetleball",
       "ja_JP": "空気漏れ甲虫ボール",
       "zh_CN": "漏气甲虫球"
     }
@@ -21181,6 +21244,7 @@
   "enemy_4032_muftmg": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Bloated Beetleball",
       "ja_JP": "膨張甲虫ボール",
       "zh_CN": "膨胀甲虫球"
     }
@@ -21188,6 +21252,7 @@
   "enemy_4033_muftic": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Will of the North Ball",
       "ja_JP": "北境の意志ボール",
       "zh_CN": "北境意志球"
     }
@@ -21195,6 +21260,7 @@
   "enemy_4034_muftgl": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Deep Sea Slider Ball",
       "ja_JP": "淵海のスライドボール",
       "zh_CN": "底海滑动球"
     }
@@ -21202,6 +21268,7 @@
   "enemy_4035_mufbsa": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Monument to Force",
       "ja_JP": "怪力記念碑",
       "zh_CN": "巨力丰碑"
     }
@@ -21209,6 +21276,7 @@
   "enemy_4036_mufbsb": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Monument to Toughness",
       "ja_JP": "強靭記念碑",
       "zh_CN": "坚韧丰碑"
     }
@@ -21216,6 +21284,7 @@
   "enemy_4037_mufbsc": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Monument to Accuracy",
       "ja_JP": "百発百中記念碑",
       "zh_CN": "神射丰碑"
     }
@@ -21223,6 +21292,7 @@
   "enemy_4038_mufbsd": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Monument to Passion",
       "ja_JP": "情熱記念碑",
       "zh_CN": "热情丰碑"
     }
@@ -21230,6 +21300,7 @@
   "enemy_4039_mufbse": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Monument to Swiftness",
       "ja_JP": "狂走記念碑",
       "zh_CN": "狂奔丰碑"
     }
@@ -22851,6 +22922,7 @@
   "act1multi": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Icebreaker Games #1",
       "ja_JP": "協心競技#1",
       "zh_CN": "促融共竞#1"
     }
@@ -23602,6 +23674,7 @@
   "act41side": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "When Elegies Are Ashes",
       "ja_JP": "挽歌が灰に還る時",
       "zh_CN": "挽歌燃烧殆尽"
     }
@@ -26535,6 +26608,7 @@
   "act1multi_token_cap": {
     "type": "ITEM",
     "names": {
+      "en_US": "Participation Certificate - S1",
       "ja_JP": "参加認定証-S1",
       "zh_CN": "参赛认证-S1"
     }
@@ -27100,6 +27174,7 @@
   "act41side_token_light": {
     "type": "ITEM",
     "names": {
+      "en_US": "Broken Originium Lamp",
       "ja_JP": "壊れたランプ",
       "zh_CN": "损坏的源石灯"
     }
@@ -29430,6 +29505,7 @@
   "emoticon_basic": {
     "type": "ITEM",
     "names": {
+      "en_US": "Emote Set",
       "ja_JP": "スタンプ",
       "zh_CN": "表情套组"
     }
@@ -29437,6 +29513,7 @@
   "emoticon_originium_slug": {
     "type": "ITEM",
     "names": {
+      "en_US": "Emote Set: Slug Style",
       "ja_JP": "スタンプ「オリジムシ」",
       "zh_CN": "表情套组：虫动"
     }
@@ -30204,7 +30281,7 @@
   "p_char_1502_crosly": {
     "type": "ITEM",
     "names": {
-      "en_US": "CrownSlayer's Token",
+      "en_US": "Crownslayer's Token",
       "ja_JP": "クラウンスレイヤーの印",
       "zh_CN": "弑君者的信物"
     }
@@ -32116,6 +32193,7 @@
   "p_char_4171_wulfen": {
     "type": "ITEM",
     "names": {
+      "en_US": "Wulfenite's Token",
       "ja_JP": "ウルフェナイトの印",
       "zh_CN": "钼铅的信物"
     }
@@ -32139,6 +32217,7 @@
   "p_char_4177_brigid": {
     "type": "ITEM",
     "names": {
+      "en_US": "Brigid's Token",
       "ja_JP": "ブリギッドの印",
       "zh_CN": "水灯心的信物"
     }
@@ -32364,6 +32443,7 @@
   "p_char_450_necras": {
     "type": "ITEM",
     "names": {
+      "en_US": "Necrass's Token",
       "ja_JP": "ネクラスの印",
       "zh_CN": "死芒的信物"
     }
@@ -36321,6 +36401,7 @@
   "_SINGLE_35_0_1": {
     "type": "POOL",
     "names": {
+      "en_US": "Returned From A Pyre",
       "ja_JP": "死火より出づ"
     }
   },
@@ -36334,6 +36415,7 @@
   "_SPECIAL_35_0_3": {
     "type": "POOL",
     "names": {
+      "en_US": "Orienteering Headhunting",
       "ja_JP": "セレクトスカウト"
     }
   },
@@ -37358,6 +37440,7 @@
   "skchr_brigid_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Familiarity",
       "ja_JP": "ノマドの心得",
       "zh_CN": "所熟知的"
     }
@@ -37365,6 +37448,7 @@
   "skchr_brigid_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Bring to Heel",
       "ja_JP": "遊牧の知恵",
       "zh_CN": "可驯服的"
     }
@@ -40294,6 +40378,7 @@
   "skchr_necras_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Dread Desire",
       "ja_JP": "禍呼ぶ願い",
       "zh_CN": "噩愿"
     }
@@ -40301,6 +40386,7 @@
   "skchr_necras_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Snap the Withered",
       "ja_JP": "枯れゆく命",
       "zh_CN": "折朽"
     }
@@ -40308,6 +40394,7 @@
   "skchr_necras_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Crown the Dead",
       "ja_JP": "死に授く冠",
       "zh_CN": "冠死以冕"
     }
@@ -42459,6 +42546,7 @@
   "skchr_wulfen_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "'For Scaring Beasts'",
       "ja_JP": "「害獣専用」",
       "zh_CN": "“驱兽专用”"
     }
@@ -42466,6 +42554,7 @@
   "skchr_wulfen_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "'For Stubborn Rocks'",
       "ja_JP": "「硬石専用」",
       "zh_CN": "“顽石专用”"
     }
@@ -44925,6 +45014,7 @@
   "sktok_ftshad_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Replication",
       "ja_JP": "コピー",
       "zh_CN": "复制"
     }
@@ -44932,6 +45022,7 @@
   "sktok_fttreant_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Growth",
       "ja_JP": "生長",
       "zh_CN": "生长"
     }
@@ -44939,6 +45030,7 @@
   "sktok_fttree_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Growth",
       "ja_JP": "生長",
       "zh_CN": "生长"
     }
@@ -45482,6 +45574,7 @@
   "sktok_mufrbk": {
     "type": "SKILL",
     "names": {
+      "en_US": "Recuperation Pod",
       "ja_JP": "仮設休憩室",
       "zh_CN": "临时休息舱"
     }
@@ -45489,6 +45582,7 @@
   "sktok_mufrbs": {
     "type": "SKILL",
     "names": {
+      "en_US": "Portable Exercise Rack",
       "ja_JP": "携帯式健康器",
       "zh_CN": "便携健身架"
     }
@@ -45496,6 +45590,7 @@
   "sktok_mufrfm": {
     "type": "SKILL",
     "names": {
+      "en_US": "Construction Workshop",
       "ja_JP": "作業員倉庫",
       "zh_CN": "建筑工具间"
     }
@@ -45503,6 +45598,7 @@
   "sktok_mufrprn_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Help Me!",
       "ja_JP": "ヘルプ！",
       "zh_CN": "救命啊！"
     }
@@ -45510,6 +45606,7 @@
   "sktok_mufrst": {
     "type": "SKILL",
     "names": {
+      "en_US": "Concrete Roadblock",
       "ja_JP": "コンクリ防壁",
       "zh_CN": "混凝土路障"
     }
@@ -45517,6 +45614,7 @@
   "sktok_mufrwl": {
     "type": "SKILL",
     "names": {
+      "en_US": "Hydraulic Platform",
       "ja_JP": "油圧式高台",
       "zh_CN": "液压式高台"
     }
@@ -45564,6 +45662,7 @@
   "sktok_muulas_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Look! Fireworks!",
       "ja_JP": "たーまやー！",
       "zh_CN": "看！烟花！"
     }
@@ -45571,6 +45670,7 @@
   "sktok_muulcl_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Chug 'Em All!",
       "ja_JP": "たらふく飲んでけ！",
       "zh_CN": "都给我喝！"
     }
@@ -45578,6 +45678,7 @@
   "sktok_muulco_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Go Team Go!",
       "ja_JP": "ファイト！",
       "zh_CN": "加油哦！"
     }
@@ -45585,6 +45686,7 @@
   "sktok_muulrg_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "MEEEEOW!",
       "ja_JP": "ニャアアアア！",
       "zh_CN": "咪嗷嗷嗷嗷！"
     }
@@ -45592,6 +45694,7 @@
   "sktok_muulwr_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Armor Up!",
       "ja_JP": "防具を付けなさい！",
       "zh_CN": "请穿上护具！"
     }
@@ -45607,6 +45710,7 @@
   "sktok_necras_skeltn_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Flames of Hatred",
       "ja_JP": "纏わりつく紫炎",
       "zh_CN": "怨火缠身"
     }
@@ -45614,6 +45718,7 @@
   "sktok_necras_skeltn_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Flames of Hatred",
       "ja_JP": "纏わりつく紫炎",
       "zh_CN": "怨火缠身"
     }
@@ -45621,6 +45726,7 @@
   "sktok_necras_skeltn_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Flames of Hatred",
       "ja_JP": "纏わりつく紫炎",
       "zh_CN": "怨火缠身"
     }
@@ -46712,6 +46818,7 @@
   "sktok_wulfen_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "'For Scaring Beasts'",
       "ja_JP": "「害獣専用」",
       "zh_CN": "“驱兽专用”"
     }
@@ -46719,6 +46826,7 @@
   "sktok_wulfen_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "'For Stubborn Rocks'",
       "ja_JP": "「硬石専用」",
       "zh_CN": "“顽石专用”"
     }
@@ -50682,6 +50790,7 @@
   "act1multi_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Firing Line Escape",
       "ja_JP": "戦場からの逃避",
       "zh_CN": "逃离火线"
     }
@@ -50689,6 +50798,7 @@
   "act1multi_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Intercept Special Spy",
       "ja_JP": "スパイ専用送迎車",
       "zh_CN": "密探有专车接送"
     }
@@ -50696,6 +50806,7 @@
   "act1multi_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Sinister Consumption",
       "ja_JP": "潰し合い",
       "zh_CN": "黑吃黑"
     }
@@ -50703,6 +50814,7 @@
   "act1multi_04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Mobile Target Practice",
       "ja_JP": "移動標的射撃練習",
       "zh_CN": "移动靶射击练习"
     }
@@ -50710,6 +50822,7 @@
   "act1multi_05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Make Sea With Land",
       "ja_JP": "陸上の海",
       "zh_CN": "填陆造海"
     }
@@ -50717,6 +50830,7 @@
   "act1multi_06": {
     "type": "STAGE",
     "names": {
+      "en_US": "Gang Gathering",
       "ja_JP": "盗賊の集会",
       "zh_CN": "匪帮集会"
     }
@@ -50724,6 +50838,7 @@
   "act1multi_07": {
     "type": "STAGE",
     "names": {
+      "en_US": "When Surprise Knocks",
       "ja_JP": "門外のハプニング",
       "zh_CN": "当意外来敲门"
     }
@@ -50731,6 +50846,7 @@
   "act1multi_ex-football": {
     "type": "STAGE",
     "names": {
+      "en_US": "Power Shot",
       "ja_JP": "全力全開の奇跡",
       "zh_CN": "大力出奇迹"
     }
@@ -50738,6 +50854,7 @@
   "act1multi_football": {
     "type": "STAGE",
     "names": {
+      "en_US": "Power Shot",
       "ja_JP": "全力全開の奇跡",
       "zh_CN": "大力出奇迹"
     }
@@ -50745,6 +50862,7 @@
   "act1multi_fortress-01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Wetland Hurdle",
       "ja_JP": "湿地ハードル走",
       "zh_CN": "湿地跨栏"
     }
@@ -50752,6 +50870,7 @@
   "act1multi_fortress-02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Machine Inspection Passage",
       "ja_JP": "機械品質検査通路",
       "zh_CN": "机械质检通道"
     }
@@ -50759,6 +50878,7 @@
   "act1multi_fortress-ex-01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Wetland Hurdle",
       "ja_JP": "湿地ハードル走",
       "zh_CN": "湿地跨栏"
     }
@@ -50766,6 +50886,7 @@
   "act1multi_fortress-ex-02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Machine Inspection Passage",
       "ja_JP": "機械品質検査通路",
       "zh_CN": "机械质检通道"
     }
@@ -50773,6 +50894,7 @@
   "act1multi_fortress-ex-rm01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Teamfight Arena",
       "ja_JP": "団体戦競技場",
       "zh_CN": "团体战竞技场"
     }
@@ -50780,6 +50902,7 @@
   "act1multi_fortress-hard-01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Please Buy Souvenirs",
       "ja_JP": "記念品をご購入あれ",
       "zh_CN": "请买纪念品"
     }
@@ -50787,6 +50910,7 @@
   "act1multi_fortress-rm01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Teamfight Arena",
       "ja_JP": "団体戦競技場",
       "zh_CN": "团体战竞技场"
     }
@@ -50794,6 +50918,7 @@
   "act1multi_hard-01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Exceptional Place",
       "ja_JP": "別天地",
       "zh_CN": "别有洞天"
     }
@@ -50801,6 +50926,7 @@
   "act1multi_hard-02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Vertical Climbing",
       "ja_JP": "城壁の走者",
       "zh_CN": "爬高上低"
     }
@@ -50808,6 +50934,7 @@
   "act1multi_hard-03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Musbeast Surge",
       "ja_JP": "鼷獣ごろごろ",
       "zh_CN": "鼷流滚滚"
     }
@@ -50815,6 +50942,7 @@
   "act1multi_hard-football": {
     "type": "STAGE",
     "names": {
+      "en_US": "Power Shot",
       "ja_JP": "全力全開の奇跡",
       "zh_CN": "大力出奇迹"
     }
@@ -50822,6 +50950,7 @@
   "act1multi_rm01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Candy Delivery",
       "ja_JP": "キャンディ大サービス",
       "zh_CN": "糖果派送"
     }
@@ -50829,6 +50958,7 @@
   "act1multi_rm02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Rotten Forest",
       "ja_JP": "腐敗の森",
       "zh_CN": "腐坏森林"
     }
@@ -50836,6 +50966,7 @@
   "act1multi_rm03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Volcanic Pool",
       "ja_JP": "火山プール",
       "zh_CN": "火山泳池"
     }
@@ -50843,6 +50974,7 @@
   "act1multi_rm04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Repel Avenue",
       "ja_JP": "お断り大通り",
       "zh_CN": "拒宾大道"
     }
@@ -50850,6 +50982,7 @@
   "act1multi_rm05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Combat Clamor",
       "ja_JP": "戦場に残る音楽",
       "zh_CN": "战场留声"
     }
@@ -50857,6 +50990,7 @@
   "act1multi_rm06": {
     "type": "STAGE",
     "names": {
+      "en_US": "Remnants in the Night",
       "ja_JP": "闇夜に残る人影",
       "zh_CN": "黑夜留形"
     }
@@ -50864,6 +50998,7 @@
   "act1multi_rm07": {
     "type": "STAGE",
     "names": {
+      "en_US": "Creation and Reproduction",
       "ja_JP": "創造と繁殖",
       "zh_CN": "创造与繁殖"
     }
@@ -50871,6 +51006,7 @@
   "act1multi_tr01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Tutorial - Regular Events",
       "ja_JP": "TUT-通常種目",
       "zh_CN": "规则教学-常规项目"
     }
@@ -50878,6 +51014,7 @@
   "act1multi_tr02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Tutorial - Positional Football",
       "ja_JP": "TUT-ポジションサッカー",
       "zh_CN": "规则教学-阵地足球"
     }
@@ -50885,6 +51022,7 @@
   "act1multi_tr03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Tutorial - Bastion Defense",
       "ja_JP": "TUT-要塞ディフェンス",
       "zh_CN": "规则教学-堡垒守御"
     }
@@ -54072,6 +54210,7 @@
   "act41side_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Title Page",
       "ja_JP": "巻頭の序文",
       "zh_CN": "扉页所见"
     }
@@ -54079,6 +54218,7 @@
   "act41side_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "But Only Farewell",
       "ja_JP": "単なる別れ",
       "zh_CN": "不过别离"
     }
@@ -54086,6 +54226,7 @@
   "act41side_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Suspicion and Impulse",
       "ja_JP": "不安と衝動",
       "zh_CN": "惶惑与冲动"
     }
@@ -54093,6 +54234,7 @@
   "act41side_04": {
     "type": "STAGE",
     "names": {
+      "en_US": "That Old Dance",
       "ja_JP": "在りし日のステップ",
       "zh_CN": "旧舞步"
     }
@@ -54100,6 +54242,7 @@
   "act41side_05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Drowned in Fire",
       "ja_JP": "炎に溺れる",
       "zh_CN": "溺火"
     }
@@ -54107,6 +54250,7 @@
   "act41side_06": {
     "type": "STAGE",
     "names": {
+      "en_US": "The Lost",
       "ja_JP": "迷い人",
       "zh_CN": "失路人"
     }
@@ -54114,6 +54258,7 @@
   "act41side_07": {
     "type": "STAGE",
     "names": {
+      "en_US": "One Who Burns the Lamp",
       "ja_JP": "灯火を燃やす者",
       "zh_CN": "烧灯者"
     }
@@ -54121,6 +54266,7 @@
   "act41side_08": {
     "type": "STAGE",
     "names": {
+      "en_US": "At the End of the Night",
       "ja_JP": "夜明けの時",
       "zh_CN": "夜尽之时"
     }
@@ -54128,6 +54274,7 @@
   "act41side_st01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Walk Through the Cold Night",
       "ja_JP": "凍える夜を越えて",
       "zh_CN": "涉过寒夜"
     }
@@ -54135,6 +54282,7 @@
   "act41side_st02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Death of a Romance",
       "ja_JP": "ロマンスは死んだ",
       "zh_CN": "罗曼史已死"
     }
@@ -54142,6 +54290,7 @@
   "act41side_st03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Back Cover",
       "ja_JP": "巻末の端書",
       "zh_CN": "封底纪事"
     }
@@ -54149,6 +54298,7 @@
   "act41side_tr01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Fog-Parting Call",
       "ja_JP": "霧払う音",
       "zh_CN": "拨雾声"
     }
@@ -55296,6 +55446,7 @@
   "camp_r_27": {
     "type": "STAGE",
     "names": {
+      "en_US": "Kurfürstenplatz",
       "ja_JP": "選帝侯広場",
       "zh_CN": "选帝侯广场"
     }
@@ -61325,6 +61476,7 @@
   "act41side_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Flickering Shadows",
       "ja_JP": "揺らめく影",
       "zh_CN": "摇曳的影"
     }
@@ -61332,6 +61484,7 @@
   "act41side_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Dying Flames",
       "ja_JP": "消えゆく炎",
       "zh_CN": "将熄的火"
     }

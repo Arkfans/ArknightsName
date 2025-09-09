@@ -2048,122 +2048,152 @@
     "zh_CN": "黄昏秘境"
   },
   "act1multi_01": {
+    "en_US": "Firing Line Escape",
     "ja_JP": "戦場からの逃避",
     "zh_CN": "逃离火线"
   },
   "act1multi_02": {
+    "en_US": "Intercept Special Spy",
     "ja_JP": "スパイ専用送迎車",
     "zh_CN": "密探有专车接送"
   },
   "act1multi_03": {
+    "en_US": "Sinister Consumption",
     "ja_JP": "潰し合い",
     "zh_CN": "黑吃黑"
   },
   "act1multi_04": {
+    "en_US": "Mobile Target Practice",
     "ja_JP": "移動標的射撃練習",
     "zh_CN": "移动靶射击练习"
   },
   "act1multi_05": {
+    "en_US": "Make Sea With Land",
     "ja_JP": "陸上の海",
     "zh_CN": "填陆造海"
   },
   "act1multi_06": {
+    "en_US": "Gang Gathering",
     "ja_JP": "盗賊の集会",
     "zh_CN": "匪帮集会"
   },
   "act1multi_07": {
+    "en_US": "When Surprise Knocks",
     "ja_JP": "門外のハプニング",
     "zh_CN": "当意外来敲门"
   },
   "act1multi_ex-football": {
+    "en_US": "Power Shot",
     "ja_JP": "全力全開の奇跡",
     "zh_CN": "大力出奇迹"
   },
   "act1multi_football": {
+    "en_US": "Power Shot",
     "ja_JP": "全力全開の奇跡",
     "zh_CN": "大力出奇迹"
   },
   "act1multi_fortress-01": {
+    "en_US": "Wetland Hurdle",
     "ja_JP": "湿地ハードル走",
     "zh_CN": "湿地跨栏"
   },
   "act1multi_fortress-02": {
+    "en_US": "Machine Inspection Passage",
     "ja_JP": "機械品質検査通路",
     "zh_CN": "机械质检通道"
   },
   "act1multi_fortress-ex-01": {
+    "en_US": "Wetland Hurdle",
     "ja_JP": "湿地ハードル走",
     "zh_CN": "湿地跨栏"
   },
   "act1multi_fortress-ex-02": {
+    "en_US": "Machine Inspection Passage",
     "ja_JP": "機械品質検査通路",
     "zh_CN": "机械质检通道"
   },
   "act1multi_fortress-ex-rm01": {
+    "en_US": "Teamfight Arena",
     "ja_JP": "団体戦競技場",
     "zh_CN": "团体战竞技场"
   },
   "act1multi_fortress-hard-01": {
+    "en_US": "Please Buy Souvenirs",
     "ja_JP": "記念品をご購入あれ",
     "zh_CN": "请买纪念品"
   },
   "act1multi_fortress-rm01": {
+    "en_US": "Teamfight Arena",
     "ja_JP": "団体戦競技場",
     "zh_CN": "团体战竞技场"
   },
   "act1multi_hard-01": {
+    "en_US": "Exceptional Place",
     "ja_JP": "別天地",
     "zh_CN": "别有洞天"
   },
   "act1multi_hard-02": {
+    "en_US": "Vertical Climbing",
     "ja_JP": "城壁の走者",
     "zh_CN": "爬高上低"
   },
   "act1multi_hard-03": {
+    "en_US": "Musbeast Surge",
     "ja_JP": "鼷獣ごろごろ",
     "zh_CN": "鼷流滚滚"
   },
   "act1multi_hard-football": {
+    "en_US": "Power Shot",
     "ja_JP": "全力全開の奇跡",
     "zh_CN": "大力出奇迹"
   },
   "act1multi_rm01": {
+    "en_US": "Candy Delivery",
     "ja_JP": "キャンディ大サービス",
     "zh_CN": "糖果派送"
   },
   "act1multi_rm02": {
+    "en_US": "Rotten Forest",
     "ja_JP": "腐敗の森",
     "zh_CN": "腐坏森林"
   },
   "act1multi_rm03": {
+    "en_US": "Volcanic Pool",
     "ja_JP": "火山プール",
     "zh_CN": "火山泳池"
   },
   "act1multi_rm04": {
+    "en_US": "Repel Avenue",
     "ja_JP": "お断り大通り",
     "zh_CN": "拒宾大道"
   },
   "act1multi_rm05": {
+    "en_US": "Combat Clamor",
     "ja_JP": "戦場に残る音楽",
     "zh_CN": "战场留声"
   },
   "act1multi_rm06": {
+    "en_US": "Remnants in the Night",
     "ja_JP": "闇夜に残る人影",
     "zh_CN": "黑夜留形"
   },
   "act1multi_rm07": {
+    "en_US": "Creation and Reproduction",
     "ja_JP": "創造と繁殖",
     "zh_CN": "创造与繁殖"
   },
   "act1multi_tr01": {
+    "en_US": "Tutorial - Regular Events",
     "ja_JP": "TUT-通常種目",
     "zh_CN": "规则教学-常规项目"
   },
   "act1multi_tr02": {
+    "en_US": "Tutorial - Positional Football",
     "ja_JP": "TUT-ポジションサッカー",
     "zh_CN": "规则教学-阵地足球"
   },
   "act1multi_tr03": {
+    "en_US": "Tutorial - Bastion Defense",
     "ja_JP": "TUT-要塞ディフェンス",
     "zh_CN": "规则教学-堡垒守御"
   },
@@ -4154,50 +4184,62 @@
     "zh_CN": "翡翠墨玉"
   },
   "act41side_01": {
+    "en_US": "Title Page",
     "ja_JP": "巻頭の序文",
     "zh_CN": "扉页所见"
   },
   "act41side_02": {
+    "en_US": "But Only Farewell",
     "ja_JP": "単なる別れ",
     "zh_CN": "不过别离"
   },
   "act41side_03": {
+    "en_US": "Suspicion and Impulse",
     "ja_JP": "不安と衝動",
     "zh_CN": "惶惑与冲动"
   },
   "act41side_04": {
+    "en_US": "That Old Dance",
     "ja_JP": "在りし日のステップ",
     "zh_CN": "旧舞步"
   },
   "act41side_05": {
+    "en_US": "Drowned in Fire",
     "ja_JP": "炎に溺れる",
     "zh_CN": "溺火"
   },
   "act41side_06": {
+    "en_US": "The Lost",
     "ja_JP": "迷い人",
     "zh_CN": "失路人"
   },
   "act41side_07": {
+    "en_US": "One Who Burns the Lamp",
     "ja_JP": "灯火を燃やす者",
     "zh_CN": "烧灯者"
   },
   "act41side_08": {
+    "en_US": "At the End of the Night",
     "ja_JP": "夜明けの時",
     "zh_CN": "夜尽之时"
   },
   "act41side_st01": {
+    "en_US": "Walk Through the Cold Night",
     "ja_JP": "凍える夜を越えて",
     "zh_CN": "涉过寒夜"
   },
   "act41side_st02": {
+    "en_US": "Death of a Romance",
     "ja_JP": "ロマンスは死んだ",
     "zh_CN": "罗曼史已死"
   },
   "act41side_st03": {
+    "en_US": "Back Cover",
     "ja_JP": "巻末の端書",
     "zh_CN": "封底纪事"
   },
   "act41side_tr01": {
+    "en_US": "Fog-Parting Call",
     "ja_JP": "霧払う音",
     "zh_CN": "拨雾声"
   },
@@ -4865,6 +4907,7 @@
     "zh_CN": "壬午号水稻田"
   },
   "camp_r_27": {
+    "en_US": "Kurfürstenplatz",
     "ja_JP": "選帝侯広場",
     "zh_CN": "选帝侯广场"
   },

@@ -273,7 +273,7 @@ tip: 请善用浏览器的搜索功能
 | act1lock_point_reward | 赛事奖章 | Competition Medals | 競技メダル |
 | act1mainlinebp_token_star | 里程碑碎片 | Milestone Fragment | マイルストーンの欠片 |
 | act1mainss_token_medi | 急性感染抑制剂 | Emergency Inhibitor | 急性感染抑制剤 |
-| act1multi_token_cap | 参赛认证-S1 | - | 参加認定証-S1 |
+| act1multi_token_cap | 参赛认证-S1 | Participation Certificate - S1 | 参加認定証-S1 |
 | act1sandbox_milestone_point | 繁荣证章 | Badge of Prosperity | 繁栄の証 |
 | act1vautochess_token_chess | 卫戍认证 | Stronghold Credits | 堅守認証 |
 | act1vecb_milestone_point | 胜绩积分 | Attainment Point | 勝利記念品 |
@@ -345,7 +345,7 @@ tip: 请善用浏览器的搜索功能
 | act3bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
 | act3collection_point_token | “战略家”点数 | 'Strategist' Point | 「戦略家」ポイント |
 | act40side_token_yumyum | “生香” | 'Yum-yum!' | 「生香」 |
-| act41side_token_light | 损坏的源石灯 | - | 壊れたランプ |
+| act41side_token_light | 损坏的源石灯 | Broken Originium Lamp | 壊れたランプ |
 | act42d0_token_evaluation | 试验数据集 | Experimental Dataset | テストデータ集 |
 | act42side_token_pacifier | 蒙恩的奶嘴 | - | - |
 | act43side_token_phantom | 神秘片场黑影 | - | - |
@@ -647,8 +647,8 @@ tip: 请善用浏览器的搜索功能
 | clue_Rap_4_rep_1 | 说唱动态4 | Rap Trend 4 | ラップサイド4 |
 | clue_Rap_5 | 说唱动态5 | Rap Trend 5 | ラップサイド5 |
 | clue_Rap_5_rep_1 | 说唱动态5 | Rap Trend 5 | ラップサイド5 |
-| emoticon_basic | 表情套组 | - | スタンプ |
-| emoticon_originium_slug | 表情套组：虫动 | - | スタンプ「オリジムシ」 |
+| emoticon_basic | 表情套组 | Emote Set | スタンプ |
+| emoticon_originium_slug | 表情套组：虫动 | Emote Set: Slug Style | スタンプ「オリジムシ」 |
 | emticon_duel_basic | 表情套组 | - | - |
 | et_ObsidianPass | 黑曜石节门票 | Obsidian Festival Ticket | フェスチケット |
 | et_ObsidianPass_rep_1 | 黑曜石节门票 | Obsidian Festival Ticket | フェスチケット |
@@ -746,7 +746,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_147_shining | 闪灵的信物 | Shining's Token | シャイニングの印 |
 | p_char_148_nearl | 临光的信物 | Nearl's Token | ニアールの印 |
 | p_char_149_scave | 清道夫的信物 | Scavenger's Token | スカベンジャーの印 |
-| p_char_1502_crosly | 弑君者的信物 | CrownSlayer's Token | クラウンスレイヤーの印 |
+| p_char_1502_crosly | 弑君者的信物 | Crownslayer's Token | クラウンスレイヤーの印 |
 | p_char_150_snakek | 蛇屠箱的信物 | Cuora's Token | クオーラの印 |
 | p_char_151_myrtle | 桃金娘的信物 | Myrtle's Token | テンニンカの印 |
 | p_char_154_morgan | 摩根的信物 | Morgan's Token | モーガンの印 |
@@ -985,10 +985,10 @@ tip: 请善用浏览器的搜索功能
 | p_char_4164_tecno | 特克诺的信物 | Tecno's Token | テクノの印 |
 | p_char_4165_ctrail | 云迹的信物 | Contrail's Token | コントレイルの印 |
 | p_char_416_zumama | 森蚺的信物 | Eunectes' Token | ユーネクテスの印 |
-| p_char_4171_wulfen | 钼铅的信物 | - | ウルフェナイトの印 |
+| p_char_4171_wulfen | 钼铅的信物 | Wulfenite's Token | ウルフェナイトの印 |
 | p_char_4172_xingzh | 行箸的信物 | Xingzhu's Token | シィンズゥの印 |
 | p_char_4173_nowell | 诺威尔的信物 | Nowell's Token | ノウエルの印 |
-| p_char_4177_brigid | 水灯心的信物 | - | ブリギッドの印 |
+| p_char_4177_brigid | 水灯心的信物 | Brigid's Token | ブリギッドの印 |
 | p_char_4178_alanna | 阿兰娜的信物 | - | - |
 | p_char_4179_monstr | Mon3tr的信物 | - | - |
 | p_char_4182_oblvns | 丰川祥子的信物 | - | - |
@@ -1021,7 +1021,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_445_wscoot | 骋风的信物 | - | - |
 | p_char_446_aroma | 阿罗玛的信物 | Aroma's Token | アロマの印 |
 | p_char_449_glider | 蜜莓的信物 | Honeyberry's Token | ハニーベリーの印 |
-| p_char_450_necras | 死芒的信物 | - | ネクラスの印 |
+| p_char_450_necras | 死芒的信物 | Necrass's Token | ネクラスの印 |
 | p_char_451_robin | 罗宾的信物 | Robin's Token | ロビンの印 |
 | p_char_452_bstalk | 豆苗的信物 | Beanstalk's Token | ビーンストークの印 |
 | p_char_455_nothin | 乌有的信物 | Mr. Nothing's Token | ウユウの印 |
