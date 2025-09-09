@@ -236,7 +236,7 @@ tip: 请善用浏览器的搜索功能
 |   | 记录员凯特 | Kite the Recorder | 記録係ケイト |
 |   | 风丸 |   |   |
 | avg_4017_puzzle_1 | 菲舍尔 | Fischer | パズル |
-|   | 谜图 |   | フィッシャー |
+|   | 谜图 | Puzzle | フィッシャー |
 | avg_4019_ncdeer_1 | 九色鹿 | Nine-Colored Deer | 九色鹿 |
 | avg_4025_aprot2_1 | ■■ | Abyss | ■■■ |
 |   | 暮落 | Shalem | アビス |
@@ -425,7 +425,7 @@ tip: 请善用浏览器的搜索功能
 |   | 查丝汀娜 | A Hoarse Knight | シェブチック |
 |   | 沙哑的骑士 | Justyna | ゾラ |
 |   | 瑟奇亚克 | Szewczyk | ユスティナ |
-|   | 表情冰冷的骑士 |   | 無表情な戦士 |
+|   | 表情冰冷的骑士 | Zola | 無表情な戦士 |
 | avg_433_windft_1 | 小甘特 | Gantt Jr. | ガント |
 | avg_437_mizuki_1 | 水月 | Mizuki | ミヅキ |
 | avg_437_mizukisummer_1 | 水月 | Mizuki | ミヅキ |
@@ -520,27 +520,27 @@ tip: 请善用浏览器的搜索功能
 |   | 善谈的信使 | Angry Villager | タフな開拓者 |
 |   | 地痞 | Auctioning Sailor | チャーリー |
 |   | 小查理 | Charlie the Sproglet | チンピラ |
-|   | 开朗的感染者 | Community Electrician | ルカ |
-|   | 强壮的拓荒者 | Diner B | ロドスオペレーター |
-|   | 快餐店店主 | Excited Infected | ロドストランスポーター |
-|   | 感染者员工 | Fast Food Joint Owner | 坑夫たち？ |
-|   | 感染者工人 | Gangster Messenger | 報告に来る構成員 |
-|   | 感染者阿石 | Infected Employee | 客B |
-|   | 愠怒的工人 | Infected Worker | 店主 |
-|   | 愤怒的感染者 | Kazimierz Ruffian | 店長 |
-|   | 愤怒的村民 | Lazy Community Resident | 怒る感染者 |
-|   | 懒散的社区住户 | Local Ruffian | 怒る村人 |
-|   | 报信的帮派分子 | Luca | 怒れる労働者 |
-|   | 报摊小贩 | Miners? | 感染労働者 |
-|   | 拍卖的船员 | Neighbor B | 感染者ストーン |
-|   | 搜查队成员 | Rhodes Island Messenger | 感染者従業員 |
-|   | 村民B | Search Team Member | 明るい感染者 |
-|   | 激动的感染者 | Shopkeeper | 村人 |
-|   | 矿工们？ | Sinister Refugee | 村人B |
-|   | 社区电工 | Stone the Infected | 競売する店員 |
-|   | 罗德岛信使 | Strong Pioneer | 興奮する感染者 |
-|   | 老板 | Villager B | 調査隊隊員 |
-|   | 邻居B |   | 陰険な難民 |
+|   | 开朗的感染者 | Cheerful Infected | ルカ |
+|   | 强壮的拓荒者 | Community Electrician | ロドスオペレーター |
+|   | 快餐店店主 | Diner B | ロドストランスポーター |
+|   | 感染者员工 | Excited Infected | 坑夫たち？ |
+|   | 感染者工人 | Fast Food Joint Owner | 報告に来る構成員 |
+|   | 感染者阿石 | Gangster Messenger | 客B |
+|   | 愠怒的工人 | Infected Employee | 店主 |
+|   | 愤怒的感染者 | Infected Worker | 店長 |
+|   | 愤怒的村民 | Kazimierz Ruffian | 怒る感染者 |
+|   | 懒散的社区住户 | Lazy Community Resident | 怒る村人 |
+|   | 报信的帮派分子 | Local Ruffian | 怒れる労働者 |
+|   | 报摊小贩 | Luca | 感染労働者 |
+|   | 拍卖的船员 | Miners? | 感染者ストーン |
+|   | 搜查队成员 | Neighbor B | 感染者従業員 |
+|   | 村民B | Rhodes Island Messenger | 明るい感染者 |
+|   | 激动的感染者 | Search Team Member | 村人 |
+|   | 矿工们？ | Shopkeeper | 村人B |
+|   | 社区电工 | Sinister Refugee | 競売する店員 |
+|   | 罗德岛信使 | Stone the Infected | 興奮する感染者 |
+|   | 老板 | Strong Pioneer | 調査隊隊員 |
+|   | 邻居B | Villager B | 陰険な難民 |
 |   | 阴沉的难民 |   | 隣人B |
 |   | 食客B |   |   |
 | avg_npc_003 | “格莱特” | A Haggard Girl | やつれた少女 |
@@ -763,9 +763,9 @@ tip: 请善用浏览器的搜索功能
 |   | 达里奥 | Rhodes Island Operator | 支援オペレーターA |
 |   | 近卫干员 | Rhodes Island Operator B | 疲弊したオペレーター |
 |   | 近卫干员A | Sandwheel | 穏やかなオペレーター |
-|   | 迪伦 | Tired Rhodes Island Operator | 覆面のオペレーター |
-|   | 霍克 | Vanguard Operator A | 運転手 |
-|   | 领航员B |   |   |
+|   | 迪伦 | Shy Operator | 覆面のオペレーター |
+|   | 霍克 | Tired Rhodes Island Operator | 運転手 |
+|   | 领航员B | Vanguard Operator A |   |
 |   | 飞行员 |   |   |
 |   | 驾驶员 |   |   |
 | avg_npc_013 | 线人 | Informant | スラム住民 |
@@ -1264,24 +1264,24 @@ tip: 请善用浏览器的搜索功能
 |   | 兴奋的干员 | Celica | ジーラ |
 |   | 助理干员 | Celine | スーザン |
 |   | 医疗干员 | Engineering Operator | セリカ |
-|   | 后勤干员 | Field Operator | セリーヌ |
-|   | 外勤干员 | Field Operator A | テンションの高いオペレーター |
-|   | 外勤干员A | HR Operator | ナビゲーターA |
-|   | 工程干员 | Hawking Operator | ロドスオペレーター |
-|   | 工程部新任干员 | Human Resources Operator | ロドスオペレーターA |
-|   | 席琳 | Idle Operator | ロドストランスポーター |
-|   | 干员苏珊 | Logistics Operator | 人事オペレーター |
-|   | 摆摊的干员 | Medic Operator | 人事部オペレーター |
-|   | 术师干员 | Navigator A | 冷静なオペレーター |
-|   | 沉稳的罗德岛干员 | Operator Susan | 医療オペレーター |
-|   | 着急的小干员 | Rhodes Island Field Operator | 外勤オペレーター |
-|   | 罗德岛信使 | Rhodes Island Messenger | 外勤オペレーターA |
-|   | 罗德岛外勤干员 | Rhodes Island Operator | 子供オペレーター |
-|   | 罗德岛干员 | Rhodes Island Operator A | 慌てるオペレーター |
-|   | 罗德岛干员A | Rookie Engineering Operator | 支援オペレーター |
-|   | 谢莉卡 | Steady Rhodes Island Operator | 秘密の雑貨屋さん |
-|   | 闲聊的干员 | Young Studying Operator | 術師オペレーター |
-|   | 领航员A |   | 話好きなオペレーター |
+|   | 后勤干员 | Excited Operator | セリーヌ |
+|   | 外勤干员 | Field Operator | テンションの高いオペレーター |
+|   | 外勤干员A | Field Operator A | ナビゲーターA |
+|   | 工程干员 | HR Operator | ロドスオペレーター |
+|   | 工程部新任干员 | Hawking Operator | ロドスオペレーターA |
+|   | 席琳 | Human Resources Operator | ロドストランスポーター |
+|   | 干员苏珊 | Idle Operator | 人事オペレーター |
+|   | 摆摊的干员 | Logistics Operator | 人事部オペレーター |
+|   | 术师干员 | Medic Operator | 冷静なオペレーター |
+|   | 沉稳的罗德岛干员 | Navigator A | 医療オペレーター |
+|   | 着急的小干员 | Operator Susan | 外勤オペレーター |
+|   | 罗德岛信使 | Rhodes Island Field Operator | 外勤オペレーターA |
+|   | 罗德岛外勤干员 | Rhodes Island Messenger | 子供オペレーター |
+|   | 罗德岛干员 | Rhodes Island Operator | 慌てるオペレーター |
+|   | 罗德岛干员A | Rhodes Island Operator A | 支援オペレーター |
+|   | 谢莉卡 | Rookie Engineering Operator | 秘密の雑貨屋さん |
+|   | 闲聊的干员 | Steady Rhodes Island Operator | 術師オペレーター |
+|   | 领航员A | Young Studying Operator | 話好きなオペレーター |
 | avg_npc_089 | 侦察干员 | Field Operator | シュレッダー |
 |   | 办事处干员B | Hank | チャード |
 |   | 外勤干员 | Intern Operator B | ハンク |
@@ -1740,7 +1740,7 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_1297_1 | 特雷西斯 | Theresis | テレシス |
 | avg_npc_1299_1 | 刺杀者 | Assassin | ジュリー |
 |   | 尤莉叶 | Julie | 暗殺者 |
-| avg_npc_130 | Miss.Christine | Ms. Christine | ミス・クリスティーン |
+| avg_npc_130 | Miss.Christine | Miss.Christine | ミス・クリスティーン |
 | avg_npc_1300_1 | Mantra | Mantra | Mantra |
 | avg_npc_1301_1 | 阿斯卡纶 | Ascalon | アスカロン |
 | avg_npc_1302_1 | 勇敢的孩子 | Brave Boy | マンフレッド |
@@ -2725,12 +2725,12 @@ tip: 请善用浏览器的搜索功能
 |   | 无胄盟杀手 | An Armorless Union Member | 無冑盟の刺客B |
 |   | 无胄盟杀手A | An Armorless Union Member B | 無冑盟チームリーダー |
 |   | 无胄盟杀手B | Armorless Union Assassin | 無冑盟メンバー |
-|   | 无胄盟领队 | Armorless Union Captain | 無冑盟構成員 |
-|   | 第三小队成员 | Armorless Union Member | 無冑盟構成員B |
-|   | 第三小队队员 | Team 3 Member A | 第三小隊構成員 |
-|   | 第三小队队员A | Team 3 Member B | 第三小隊隊員 |
-|   | 第三小队队员B |   | 第三小隊隊員A |
-|   | 老练的无胄盟成员 |   | 第三小隊隊員B |
+|   | 无胄盟领队 | Armorless Union Assassin A | 無冑盟構成員 |
+|   | 第三小队成员 | Armorless Union Assassin B | 無冑盟構成員B |
+|   | 第三小队队员 | Armorless Union Captain | 第三小隊構成員 |
+|   | 第三小队队员A | Armorless Union Member | 第三小隊隊員 |
+|   | 第三小队队员B | Team 3 Member A | 第三小隊隊員A |
+|   | 老练的无胄盟成员 | Team 3 Member B | 第三小隊隊員B |
 |   |   |   | 警備員 |
 | avg_npc_217 | 巡逻骑士 | A Protesting Knight | 巡回騎士 |
 |   | 抗议的骑士 | A Spectating Knight | 悩む観光客 |
@@ -2755,8 +2755,8 @@ tip: 请善用浏览器的搜索功能
 |   | 穿铠甲的骑士 | Zorn | 鎧を着た騎士 |
 |   | 贵族骑士 |   |   |
 | avg_npc_220 | 受伤的感染者骑士 | An Infected Knight | 怪我した感染者騎士 |
-|   | 感染者骑士 | Injured Infected Knight | 感染者騎士 |
-|   | 罗伯特 |   |   |
+|   | 感染者骑士 | Infected Knight | 感染者騎士 |
+|   | 罗伯特 | Injured Infected Knight |   |
 | avg_npc_221 | 乔伊 | A Hoarse Knight | かすれ声の騎士 |
 |   | 感染者工程师骑士 | An Infected Knight | 感染者エンジニア騎士 |
 |   | 感染者骑士 | An Infected Knight A | 感染者騎士 |
@@ -2849,24 +2849,24 @@ tip: 请善用浏览器的搜索功能
 |   | 诗人威廉姆斯 | Plain-Dressed Bard | 質素な服装の詩人 |
 | avg_npc_240 | 乔 | Anxious Child | ひもじい屋台の店主 |
 |   | 于里安 | Billy | やんちゃな子供 |
-|   | 克雷格 | Child | エリック |
-|   | 埃里克 | Craig | クレイグ |
-|   | 塔拉孩童 | Cunning Boy | ジョー |
-|   | 天真的孩子 | Curious Child | ターラーの子供 |
-|   | 好奇的孩子 | Dirt-Poor Peddler | テオ |
-|   | 孩子 | Emaciated Child | ビリー |
-|   | 寒酸的小贩 | Eric | ミレン |
-|   | 小孩子 | Joe | ユリアン |
-|   | 提奥 | Jurian | ヴィクトリア少年 |
-|   | 比利 | Knight | 子供 |
-|   | 沉默的孩子 | Naughty Child | 幼い子供 |
-|   | 淘气的孩子 | Nervous Child | 無邪気な子供 |
-|   | 焦急的孩子 | Small Child | 焦る子供 |
-|   | 狡猾的男孩 | Taran Child | 狡猾な少年 |
-|   | 玻利瓦尔小孩 | Theo | 痩せ細った子供 |
-|   | 瘦弱的孩子 | Victorian Boy | 緊張した子供 |
-|   | 稚嫩的孩子 |   | 興味津々な子供 |
-|   | 米伦 |   | 騎士 |
+|   | 克雷格 | Carefree Boy | エリック |
+|   | 埃里克 | Child | クレイグ |
+|   | 塔拉孩童 | Craig | ジョー |
+|   | 天真的孩子 | Cunning Boy | ターラーの子供 |
+|   | 好奇的孩子 | Curious Child | テオ |
+|   | 孩子 | Dirt-Poor Peddler | ビリー |
+|   | 寒酸的小贩 | Emaciated Child | ミレン |
+|   | 小孩子 | Eric | ユリアン |
+|   | 提奥 | Joe | ヴィクトリア少年 |
+|   | 比利 | Jurian | 子供 |
+|   | 沉默的孩子 | Knight | 幼い子供 |
+|   | 淘气的孩子 | Millen | 無邪気な子供 |
+|   | 焦急的孩子 | Naughty Child | 焦る子供 |
+|   | 狡猾的男孩 | Nervous Child | 狡猾な少年 |
+|   | 玻利瓦尔小孩 | Small Child | 痩せ細った子供 |
+|   | 瘦弱的孩子 | Taran Child | 緊張した子供 |
+|   | 稚嫩的孩子 | Theo | 興味津々な子供 |
+|   | 米伦 | Victorian Boy | 騎士 |
 |   | 紧张的孩子 |   |   |
 |   | 维多利亚少年 |   |   |
 |   | 顽皮的孩子 |   |   |
@@ -2944,24 +2944,24 @@ tip: 请善用浏览器的搜索功能
 |   | 镇民A |   |   |
 |   | 陌生的男子 |   |   |
 | avg_npc_243 | 丹卡婶婶 | Apathetic Passerby | ターラーの流民 |
-|   | 克洛伊 | Calm Lady | ダンカおばさん |
-|   | 和善的村民 | Cautious Servant | パサード |
-|   | 和善的镇民 | Feeble Woman | メイド |
-|   | 塔拉流民 | Frightened Woman | 優しい村人 |
-|   | 女仆 | Infected Citizen | 元気な女性患者 |
-|   | 帕萨多 | Information Broker | 恐れる女性 |
-|   | 平静的感染者 | Lively Female Patient | 悲しげな女性 |
-|   | 忧心的女仆 | Maid | 情報仲介人 |
-|   | 恐惧的女性 | Noble Sister | 感染者市民 |
-|   | 悲伤的女性 | Overwrought Taran Refugee | 慌てる商人 |
-|   | 情报中间人 | Pained Refugee | 慌てる女性 |
-|   | 惊慌的商人 | Panicked Merchant | 無関心な通行人 |
-|   | 感染者市民 | Pasado | 町人B |
-|   | 慌张的女士 | Sorrowful Woman | 痩せた女性 |
-|   | 漠然的路人 | Taran Refugee | 緊張したターラーの流民 |
-|   | 痛苦的难民 | Townsfolk B | 臆病な使用人 |
-|   | 瘦弱的女人 |   | 苦しむ難民 |
-|   | 精神的女病人 |   | 落ち着いた女性 |
+|   | 克洛伊 | Aunt Danka | ダンカおばさん |
+|   | 和善的村民 | Calm Lady | パサード |
+|   | 和善的镇民 | Cautious Servant | メイド |
+|   | 塔拉流民 | Feeble Woman | 優しい村人 |
+|   | 女仆 | Frightened Woman | 元気な女性患者 |
+|   | 帕萨多 | Infected Citizen | 恐れる女性 |
+|   | 平静的感染者 | Information Broker | 悲しげな女性 |
+|   | 忧心的女仆 | Kind Villager | 情報仲介人 |
+|   | 恐惧的女性 | Lively Female Patient | 感染者市民 |
+|   | 悲伤的女性 | Maid | 慌てる商人 |
+|   | 情报中间人 | Noble Sister | 慌てる女性 |
+|   | 惊慌的商人 | Overwrought Taran Refugee | 無関心な通行人 |
+|   | 感染者市民 | Pained Refugee | 町人B |
+|   | 慌张的女士 | Panicked Merchant | 痩せた女性 |
+|   | 漠然的路人 | Pasado | 緊張したターラーの流民 |
+|   | 痛苦的难民 | Sorrowful Woman | 臆病な使用人 |
+|   | 瘦弱的女人 | Taran Refugee | 苦しむ難民 |
+|   | 精神的女病人 | Townsfolk B | 落ち着いた女性 |
 |   | 紧张的塔拉流民 |   | 貴族の妹 |
 |   | 谨小慎微的佣人 |   |   |
 |   | 贵族妹妹 |   |   |
@@ -3868,13 +3868,13 @@ tip: 请善用浏览器的搜索功能
 |   | 征战骑士B | Campaign Knight B | 征戦騎士A |
 |   | 马索夫 | Marsov | 征戦騎士B |
 | avg_npc_625_1 | 托兰 | Toland | トーランド |
-| avg_npc_626_1 | 凶恶的感染者 | Enthusiastic Infected | ガシー |
-|   | 加斯 | Fierce Infected | ゼノ |
-|   | 急切的男人 | Gus | ファロン |
-|   | 染病的流民 | Ill Refugee | 凶悪な感染者 |
-|   | 欢呼的感染者工人 | Zeno | 感染した流民 |
-|   | 法洛恩 |   | 焦る男性 |
-|   | 泽诺 |   | 親切な感染者 |
+| avg_npc_626_1 | 凶恶的感染者 | Anxious Man | ガシー |
+|   | 加斯 | Enthusiastic Infected | ゼノ |
+|   | 急切的男人 | Farone | ファロン |
+|   | 染病的流民 | Fierce Infected | 凶悪な感染者 |
+|   | 欢呼的感染者工人 | Gus | 感染した流民 |
+|   | 法洛恩 | Ill Refugee | 焦る男性 |
+|   | 泽诺 | Zeno | 親切な感染者 |
 |   | 热情的感染者 |   |   |
 | avg_npc_627_1 | 切斯柏 | Czcibor | シチボル |
 | avg_npc_647_1 | 戈尔丁 | Golding | ゴールディング |
@@ -4016,7 +4016,7 @@ tip: 请善用浏览器的搜索功能
 |   | 害羞的孩子 | Selene | ルビオの娘 |
 |   | 瑟琳 | Shy Child | 小柄な女の子 |
 |   | 瘦小的女孩 | Thin Girl | 恥ずかしがる子供 |
-|   | 调皮的学生 |   | 隠れてメモを回す生徒 |
+|   | 调皮的学生 | Zola | 隠れてメモを回す生徒 |
 | avg_npc_701_1 | “调度员” | 'Dispatcher' | 「管理人」 |
 |   | 伪装的警察A | Dispatcher | きれい好きの男 |
 |   | 悲伤的男性 | Energetic Technician | 変装した警察官A |

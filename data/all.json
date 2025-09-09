@@ -24467,6 +24467,7 @@
   "tara": {
     "type": "TEAM",
     "names": {
+      "en_US": "Tara",
       "ja_JP": "ターラー",
       "zh_CN": "塔拉"
     }
@@ -63012,6 +63013,7 @@
   "story_brigid_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Day of Departure",
       "ja_JP": "出発の日",
       "zh_CN": "临行日"
     }
@@ -63449,6 +63451,7 @@
   "story_fartth_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Where She Belongs",
       "ja_JP": "居場所",
       "zh_CN": "容身之所"
     }
@@ -63910,6 +63913,7 @@
   "story_jnight_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Justice Knight is Here For You!",
       "ja_JP": "あなたのお役に立つわ！",
       "zh_CN": "正义号竭诚为您服务！"
     }

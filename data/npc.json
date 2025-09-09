@@ -1837,7 +1837,8 @@
   },
   "avg_4017_puzzle_1": {
     "en_US": [
-      "Fischer"
+      "Fischer",
+      "Puzzle"
     ],
     "ja_JP": [
       "パズル",
@@ -3069,7 +3070,8 @@
       "A Cold-Looking Knight",
       "A Hoarse Knight",
       "Justyna",
-      "Szewczyk"
+      "Szewczyk",
+      "Zola"
     ],
     "ja_JP": [
       "かすれ声の騎士",
@@ -3676,6 +3678,7 @@
       "Angry Villager",
       "Auctioning Sailor",
       "Charlie the Sproglet",
+      "Cheerful Infected",
       "Community Electrician",
       "Diner B",
       "Excited Infected",
@@ -4386,6 +4389,7 @@
       "Rhodes Island Operator",
       "Rhodes Island Operator B",
       "Sandwheel",
+      "Shy Operator",
       "Tired Rhodes Island Operator",
       "Vanguard Operator A"
     ],
@@ -6480,6 +6484,7 @@
       "Celica",
       "Celine",
       "Engineering Operator",
+      "Excited Operator",
       "Field Operator",
       "Field Operator A",
       "HR Operator",
@@ -8937,7 +8942,7 @@
   },
   "avg_npc_130": {
     "en_US": [
-      "Ms. Christine"
+      "Miss.Christine"
     ],
     "ja_JP": [
       "ミス・クリスティーン"
@@ -13737,6 +13742,8 @@
       "An Armorless Union Member",
       "An Armorless Union Member B",
       "Armorless Union Assassin",
+      "Armorless Union Assassin A",
+      "Armorless Union Assassin B",
       "Armorless Union Captain",
       "Armorless Union Member",
       "Team 3 Member A",
@@ -13861,6 +13868,7 @@
   "avg_npc_220": {
     "en_US": [
       "An Infected Knight",
+      "Infected Knight",
       "Injured Infected Knight"
     ],
     "ja_JP": [
@@ -14255,6 +14263,7 @@
     "en_US": [
       "Anxious Child",
       "Billy",
+      "Carefree Boy",
       "Child",
       "Craig",
       "Cunning Boy",
@@ -14265,6 +14274,7 @@
       "Joe",
       "Jurian",
       "Knight",
+      "Millen",
       "Naughty Child",
       "Nervous Child",
       "Small Child",
@@ -14548,12 +14558,14 @@
   "avg_npc_243": {
     "en_US": [
       "Apathetic Passerby",
+      "Aunt Danka",
       "Calm Lady",
       "Cautious Servant",
       "Feeble Woman",
       "Frightened Woman",
       "Infected Citizen",
       "Information Broker",
+      "Kind Villager",
       "Lively Female Patient",
       "Maid",
       "Noble Sister",
@@ -18790,7 +18802,9 @@
   },
   "avg_npc_626_1": {
     "en_US": [
+      "Anxious Man",
       "Enthusiastic Infected",
+      "Farone",
       "Fierce Infected",
       "Gus",
       "Ill Refugee",
@@ -19470,7 +19484,8 @@
       "Rubio's Daughter",
       "Selene",
       "Shy Child",
-      "Thin Girl"
+      "Thin Girl",
+      "Zola"
     ],
     "ja_JP": [
       "わんぱくな生徒",
