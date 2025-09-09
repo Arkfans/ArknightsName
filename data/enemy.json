@@ -625,39 +625,51 @@
     "zh_CN": "造化之口"
   },
   "enemy_10064_ftyzss": {
+    "ja_JP": "ミマワリグサ",
     "zh_CN": "巡游草叶"
   },
   "enemy_10064_ftyzss_2": {
+    "ja_JP": "ミマワリカブ",
     "zh_CN": "巡游枯木"
   },
   "enemy_10065_ftzlc": {
+    "ja_JP": "バクダンダネ",
     "zh_CN": "卷心籽"
   },
   "enemy_10065_ftzlc_2": {
+    "ja_JP": "バクダンソウ",
     "zh_CN": "卷心草"
   },
   "enemy_10066_ftxjl": {
+    "ja_JP": "「巣」",
     "zh_CN": "“巢穴”"
   },
   "enemy_10066_ftxjl_2": {
+    "ja_JP": "「おくるみ」",
     "zh_CN": "“襁褓”"
   },
   "enemy_10067_ftsjc": {
+    "ja_JP": "ホテリツル",
     "zh_CN": "灼藤"
   },
   "enemy_10067_ftsjc_2": {
+    "ja_JP": "ホテリエダ",
     "zh_CN": "灼芯"
   },
   "enemy_10068_ftxsr": {
+    "ja_JP": "ミチビキワカバ",
     "zh_CN": "指路芽"
   },
   "enemy_10068_ftxsr_2": {
+    "ja_JP": "ミチビキソウ",
     "zh_CN": "指路草"
   },
   "enemy_10069_ftlsj": {
+    "ja_JP": "ツリーシールド",
     "zh_CN": "树盾"
   },
   "enemy_10069_ftlsj_2": {
+    "ja_JP": "ツリーウォール",
     "zh_CN": "树墙"
   },
   "enemy_1006_shield": {
@@ -676,15 +688,19 @@
     "zh_CN": "重装五十夫长"
   },
   "enemy_10070_ftkbtt": {
+    "ja_JP": "灰燼の創造物",
     "zh_CN": "灰烬造物"
   },
   "enemy_10070_ftkbtt_2": {
+    "ja_JP": "灰燼の芸術品",
     "zh_CN": "灰烬艺术品"
   },
   "enemy_10071_ftprg": {
+    "ja_JP": "「終着点」",
     "zh_CN": "“终点”"
   },
   "enemy_10071_ftprg_2": {
+    "ja_JP": "「中間点」",
     "zh_CN": "“中点”"
   },
   "enemy_10072_mpprhd": {
@@ -5358,9 +5374,11 @@
     "zh_CN": "无餍"
   },
   "enemy_1563_fthlgj": {
+    "ja_JP": "「灯火の帰すところ」",
     "zh_CN": "“万火归一”"
   },
   "enemy_1564_mpprts": {
+    "ja_JP": "PRTS、「ソースコード」",
     "zh_CN": "PRTS，“源代码”"
   },
   "enemy_1565_mpprme": {
@@ -6101,84 +6119,111 @@
     "zh_CN": "无垠回荡球"
   },
   "enemy_4022_mushtm": {
+    "ja_JP": "戦術組ストライカー",
     "zh_CN": "战术队击球手"
   },
   "enemy_4022_mushtm_2": {
+    "ja_JP": "戦術組精鋭ストライカー",
     "zh_CN": "战术队精英击球手"
   },
   "enemy_4023_mushtb": {
+    "ja_JP": "戦術組キーパー",
     "zh_CN": "战术队守门员"
   },
   "enemy_4023_mushtb_2": {
+    "ja_JP": "戦術組精鋭キーパー",
     "zh_CN": "战术队精英守门员"
   },
   "enemy_4024_mushtg": {
+    "ja_JP": "戦術組エースキラー",
     "zh_CN": "战术队击人手"
   },
   "enemy_4024_mushtg_2": {
+    "ja_JP": "戦術組精鋭エースキラー",
     "zh_CN": "战术队精英击人手"
   },
   "enemy_4025_muhrym": {
+    "ja_JP": "愛球会ストライカー",
     "zh_CN": "爱球会击球手"
   },
   "enemy_4025_muhrym_2": {
+    "ja_JP": "愛球会名誉ストライカー",
     "zh_CN": "爱球会荣誉击球手"
   },
   "enemy_4026_muhryb": {
+    "ja_JP": "愛球会キーパー",
     "zh_CN": "爱球会守门员"
   },
   "enemy_4026_muhryb_2": {
+    "ja_JP": "愛球会名誉キーパー",
     "zh_CN": "爱球会荣誉守门员"
   },
   "enemy_4027_muhryg": {
+    "ja_JP": "愛球会エースキラー",
     "zh_CN": "爱球会击人手"
   },
   "enemy_4027_muhryg_2": {
+    "ja_JP": "愛球会名誉エースキラー",
     "zh_CN": "爱球会荣誉击人手"
   },
   "enemy_4028_mukfum": {
+    "ja_JP": "公正連ストライカー",
     "zh_CN": "球德联击球手"
   },
   "enemy_4028_mukfum_2": {
+    "ja_JP": "公正連古参ストライカー",
     "zh_CN": "球德联老牌击球手"
   },
   "enemy_4029_mukfub": {
+    "ja_JP": "公正連キーパー",
     "zh_CN": "球德联守门员"
   },
   "enemy_4029_mukfub_2": {
+    "ja_JP": "公正連古参キーパー",
     "zh_CN": "球德联老牌守门员"
   },
   "enemy_4030_mukfug": {
+    "ja_JP": "公正連エースキラー",
     "zh_CN": "球德联击人手"
   },
   "enemy_4030_mukfug_2": {
+    "ja_JP": "公正連古参エースキラー",
     "zh_CN": "球德联老牌击人手"
   },
   "enemy_4031_muftsn": {
+    "ja_JP": "空気漏れ甲虫ボール",
     "zh_CN": "漏气甲虫球"
   },
   "enemy_4032_muftmg": {
+    "ja_JP": "膨張甲虫ボール",
     "zh_CN": "膨胀甲虫球"
   },
   "enemy_4033_muftic": {
+    "ja_JP": "北境の意志ボール",
     "zh_CN": "北境意志球"
   },
   "enemy_4034_muftgl": {
+    "ja_JP": "淵海のスライドボール",
     "zh_CN": "底海滑动球"
   },
   "enemy_4035_mufbsa": {
+    "ja_JP": "怪力記念碑",
     "zh_CN": "巨力丰碑"
   },
   "enemy_4036_mufbsb": {
+    "ja_JP": "強靭記念碑",
     "zh_CN": "坚韧丰碑"
   },
   "enemy_4037_mufbsc": {
+    "ja_JP": "百発百中記念碑",
     "zh_CN": "神射丰碑"
   },
   "enemy_4038_mufbsd": {
+    "ja_JP": "情熱記念碑",
     "zh_CN": "热情丰碑"
   },
   "enemy_4039_mufbse": {
+    "ja_JP": "狂走記念碑",
     "zh_CN": "狂奔丰碑"
   },
   "enemy_5008_cstrwd": {

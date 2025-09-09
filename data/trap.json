@@ -1096,7 +1096,7 @@
   },
   "trap_166_muwork": {
     "en_US": "Foldable Facility Maintainer",
-    "ja_JP": "競技装置整備士",
+    "ja_JP": "施設建設作業員",
     "zh_CN": "设施建筑工"
   },
   "trap_167_muruinf": {
@@ -1240,39 +1240,51 @@
     "zh_CN": "盐坨子炮"
   },
   "trap_197_muulwr": {
+    "ja_JP": "防具支給員",
     "zh_CN": "护具分发员"
   },
   "trap_198_muulas": {
+    "ja_JP": "花火セット",
     "zh_CN": "混乱烟花箱"
   },
   "trap_199_muulrg": {
+    "ja_JP": "ニャンスターエナジー",
     "zh_CN": "猛兽能量饮料"
   },
   "trap_200_muulcl": {
+    "ja_JP": "サイダー噴射機",
     "zh_CN": "喷射汽水机"
   },
   "trap_201_muulco": {
+    "ja_JP": "競技応援団",
     "zh_CN": "赛场啦啦队"
   },
   "trap_202_muworkg": {
+    "ja_JP": "上級施設建設作業員",
     "zh_CN": "高级设施建筑工"
   },
   "trap_203_mufrprn": {
+    "ja_JP": "ガラクタのなだれ",
     "zh_CN": "坍塌的杂物堆"
   },
   "trap_205_mufrfm": {
+    "ja_JP": "作業員倉庫",
     "zh_CN": "建筑工具间"
   },
   "trap_206_mufrbk": {
+    "ja_JP": "仮設休憩室",
     "zh_CN": "临时休息舱"
   },
   "trap_207_mufrwl": {
+    "ja_JP": "油圧式高台",
     "zh_CN": "液压式高台 "
   },
   "trap_208_mufrst": {
+    "ja_JP": "コンクリ防壁",
     "zh_CN": "混凝土路障 "
   },
   "trap_209_mufrbs": {
+    "ja_JP": "携帯式健康器",
     "zh_CN": "便携健身架"
   },
   "trap_210_arcgrg": {
@@ -1303,15 +1315,19 @@
     "zh_CN": "梅什科线圈"
   },
   "trap_218_fttree": {
+    "ja_JP": "茂み",
     "zh_CN": "树丛"
   },
   "trap_219_fttreant": {
+    "ja_JP": "盾と壁",
     "zh_CN": "盾与墙"
   },
   "trap_220_ftbone": {
+    "ja_JP": "昔日の火",
     "zh_CN": "旧日之火"
   },
   "trap_221_ftshad": {
+    "ja_JP": "抜け殻",
     "zh_CN": "空壳"
   },
   "trap_222_rgdysm": {

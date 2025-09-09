@@ -120,7 +120,7 @@ tip: 请善用浏览器的搜索功能
 | char_185_frncat@wild#7 | 营地炊烟 | Campfire Cooking Smoke | キャンプのお楽しみ |
 | char_187_ccheal@epoque#2 | 战医 | Combat Medic | 戦医 |
 | char_188_helage@boc#2 | 歧路幻影 | Octopath Illusion | 岐路幻影 |
-| char_190_clour@epoque#43 | 玩伴 | - | - |
+| char_190_clour@epoque#43 | 玩伴 | - | 遊び相手 |
 | char_192_falco@marthe#6 | 从容时刻 | Easy Time | イージータイム |
 | char_193_frostl@boc#4 | 破冰 | Breaking the Ice | 砕氷 |
 | char_195_glassb@kitchen#1 | 书味 | Bibliosmia | 書の味わい |
@@ -192,7 +192,7 @@ tip: 请善用浏览器的搜索功能
 | char_254_vodfox@witch#2 | 魔城回响 | Echo of the Horrorlair | 魔城の呼び声 |
 | char_254_vodfox@yun#8 | 绣云鹤 | - | - |
 | char_258_podego@epoque#9 | 小憩初醒 | Wake Up From a Nap | おひるね |
-| char_260_durnar@epoque#42 | 绒布蛋糕 | - | - |
+| char_260_durnar@epoque#42 | 绒布蛋糕 | - | ふかふかのケーキ |
 | char_261_sddrag@ambienceSynesthesia#2 | 翡翠假日 | Emerald Holiday | エメラルドホリデー |
 | char_263_skadi@marthe#5 | 下一顿午茶 | The Next Afternoon Tea | 次のおやつは |
 | char_263_skadi@summer#3 | 驭浪 WR04 | Waverider WR04 | ウェーブライダーWR04 |
@@ -279,7 +279,7 @@ tip: 请善用浏览器的搜索功能
 | char_377_gdglow@snow#5 | 喜夜侍者 | Maiden for the Bright Night | しあわせの使い |
 | char_377_gdglow@summer#12 | 夏卉 FA394 | Summer Flowers FA394 | 夏の花弁FA394 |
 | char_378_asbest@whirlwind#3 | 幽谷奏鸣 | Glen Sonata | グレンソナタ |
-| char_379_sesa@game#5 | 万物有灵 | - | - |
+| char_379_sesa@game#5 | 万物有灵 | - | 万物に魂有り |
 | char_383_snsant@witch#2 | 天命勇者 | Fated Hero | 宿命の勇者 |
 | char_385_finlpp@nian#11 | 贺新禧 | Yearly Present | 祝福至 |
 | char_388_mint@epoque#22 | 月宵 | Tsukiyoi | 月宵 |
@@ -346,7 +346,7 @@ tip: 请善用浏览器的搜索功能
 | char_4091_ulika@sanrio#1 | 云上直播间 | Stream Above The Clouds | 雲の上から配信中！ |
 | char_4098_vvana@epoque#40 | 寄自奥格尼斯科 | Sent from Ognisko | オグニスコより |
 | char_4100_caper@summer#18 | 夏卉 FA083 | Summer Flowers FA083 | 夏の花弁FA083 |
-| char_4102_threye@epoque#42 | 林间暖阳 | - | - |
+| char_4102_threye@epoque#42 | 林间暖阳 | - | 木漏れ日の中で |
 | char_4104_coldst@striker#3 | 破晓 | Dawnbreak | 破暁 |
 | char_4105_almond@epoque#38 | “杏仁”拼盘 | Almond Platter | 「アーモンド」ミックス |
 | char_4106_bryota@epoque#34 | 动感 | Vibrant | 躍動 |
@@ -371,7 +371,7 @@ tip: 请善用浏览器的搜索功能
 | char_4140_lasher@sightseer#3 | 憩羽 | - | - |
 | char_4141_marcil@dungeon#1 | 泰拉冒险 | Terra & Traveller | テラの冒険者 |
 | char_4145_ulpia@epoque#48 | 注目深渊 | - | - |
-| char_4146_nymph@epoque#42 | 甜美配方 | - | - |
+| char_4146_nymph@epoque#42 | 甜美配方 | - | 甘美な真心 |
 | char_4151_tinman@sale#11 | 相位面容 | Phase Face | フェーズフェイス |
 | char_415_flint@boc#3 | 绚烂夏花 | Gorgeous Flower | 紫藤繚乱 |
 | char_416_zumama@boc#3 | 熔锻铸匠 | Forgemaster | 熔冶工匠 |

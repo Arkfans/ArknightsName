@@ -17,9 +17,9 @@ tip: 请善用浏览器的搜索功能
 |   | 耀骑士 | The Radiant Knight |   |
 | avg_1016_agoat2_1 | 阿黛尔 | Adele | アデル |
 | avg_1019_siege2_1 | 维娜 | Vina | ヴィーナ |
-| avg_1020_reed2_1 | 拉芙希妮 | Reed | リード |
-|   | 苇草 |   |   |
-|   | 高尚的红龙 |   |   |
+| avg_1020_reed2_1 | 拉芙希妮 | Reed | ラフシニー |
+|   | 苇草 |   | リード |
+|   | 高尚的红龙 |   | 気高い赤き龍 |
 | avg_1021_kroos2_1 | 克洛丝 | Kroos | クルース |
 | avg_1023_ghost2_1 | 幽灵鲨 | Specter | スペクター |
 |   | 幽灵鲨&斯卡蒂 | Specter & Skadi | スペクター/スカジ |
@@ -146,7 +146,7 @@ tip: 请善用浏览器的搜索功能
 | avg_226_weed_1 | “领袖” | 'The Leader' | 「リーダー」 |
 |   | 拉芙希妮 | Loughshinny | ラフシニー |
 |   | 苇草 | Reed | リード |
-|   | 高尚的红龙 |   |   |
+|   | 高尚的红龙 |   | 気高い赤き龍 |
 | avg_230_savage_1 | 暴行 | No-Nonsense Woman | サベージ |
 |   | 雷厉风行的女性 | Savage | ハキハキした女性 |
 | avg_237_gravel_1 | 塞诺蜜 | Gravel | グラベル |
@@ -235,8 +235,8 @@ tip: 请善用浏览器的搜索功能
 | avg_4016_kazema_1 | 活泼的学生 | Kazemaru | カゼマル |
 |   | 记录员凯特 | Kite the Recorder | 記録係ケイト |
 |   | 风丸 |   |   |
-| avg_4017_puzzle_1 | 菲舍尔 | Fischer | フィッシャー |
-|   | 谜图 |   |   |
+| avg_4017_puzzle_1 | 菲舍尔 | Fischer | パズル |
+|   | 谜图 |   | フィッシャー |
 | avg_4019_ncdeer_1 | 九色鹿 | Nine-Colored Deer | 九色鹿 |
 | avg_4025_aprot2_1 | ■■ | Abyss | ■■■ |
 |   | 暮落 | Shalem | アビス |
@@ -389,7 +389,7 @@ tip: 请善用浏览器的搜索功能
 |   | 着急的女子 | Patrolling Soldier | 巡回する衛兵 |
 |   | 行箸 | Xingzhu | 焦る女性 |
 | avg_4173_nowell_1 | 诺威尔 | - | - |
-| avg_4177_brigid_1 | 布莉吉 | - | - |
+| avg_4177_brigid_1 | 布莉吉 | - | ブリギッド |
 | avg_4178_alanna_1 | 阿兰娜 | - | - |
 | avg_4179_monstr_1 | Mon3tr | - | - |
 | avg_4182_oblvns_1 | 丰川祥子 | - | - |
@@ -423,9 +423,9 @@ tip: 请善用浏览器的搜索功能
 | avg_427_vigil_1 | 莱昂图索 | Leontuzzo | レオントゥッツォ |
 | avg_430_fartth_1 | 佐拉 | A Cold-Looking Knight | かすれ声の騎士 |
 |   | 查丝汀娜 | A Hoarse Knight | シェブチック |
-|   | 沙哑的骑士 | Justyna | ユスティナ |
-|   | 瑟奇亚克 | Szewczyk | 無表情な戦士 |
-|   | 表情冰冷的骑士 |   |   |
+|   | 沙哑的骑士 | Justyna | ゾラ |
+|   | 瑟奇亚克 | Szewczyk | ユスティナ |
+|   | 表情冰冷的骑士 |   | 無表情な戦士 |
 | avg_433_windft_1 | 小甘特 | Gantt Jr. | ガント |
 | avg_437_mizuki_1 | 水月 | Mizuki | ミヅキ |
 | avg_437_mizukisummer_1 | 水月 | Mizuki | ミヅキ |
@@ -433,9 +433,9 @@ tip: 请善用浏览器的搜索功能
 | avg_445_wscoot_1 | 骋风 | - | - |
 | avg_446_aroma_1 | 阿罗玛 | Aroma | アロマ |
 | avg_449_glider_1 | 蜜莓 | Honeyberry | ハニーベリー |
-| avg_450_necras_1 | 爱布拉娜 | - | - |
-|   | 红龙 |   |   |
-|   | 贪婪的红龙 |   |   |
+| avg_450_necras_1 | 爱布拉娜 | - | エブラナ |
+|   | 红龙 |   | 貪欲な赤き龍 |
+|   | 贪婪的红龙 |   | 赤き龍 |
 | avg_451_robin_1 | 罗宾 | - | - |
 | avg_452_bstalk_1 | 豆苗 | Beanstalk | ビーンストーク |
 | avg_464_cement_1 | 夏娜 | Shana | シャナ |
@@ -534,14 +534,14 @@ tip: 请善用浏览器的搜索功能
 |   | 报摊小贩 | Miners? | 感染労働者 |
 |   | 拍卖的船员 | Neighbor B | 感染者ストーン |
 |   | 搜查队成员 | Rhodes Island Messenger | 感染者従業員 |
-|   | 村民B | Search Team Member | 村人 |
-|   | 激动的感染者 | Shopkeeper | 村人B |
-|   | 矿工们？ | Sinister Refugee | 競売する店員 |
-|   | 社区电工 | Stone the Infected | 興奮する感染者 |
-|   | 罗德岛信使 | Strong Pioneer | 調査隊隊員 |
-|   | 老板 | Villager B | 陰険な難民 |
-|   | 邻居B |   | 隣人B |
-|   | 阴沉的难民 |   |   |
+|   | 村民B | Search Team Member | 明るい感染者 |
+|   | 激动的感染者 | Shopkeeper | 村人 |
+|   | 矿工们？ | Sinister Refugee | 村人B |
+|   | 社区电工 | Stone the Infected | 競売する店員 |
+|   | 罗德岛信使 | Strong Pioneer | 興奮する感染者 |
+|   | 老板 | Villager B | 調査隊隊員 |
+|   | 邻居B |   | 陰険な難民 |
+|   | 阴沉的难民 |   | 隣人B |
 |   | 食客B |   |   |
 | avg_npc_003 | “格莱特” | A Haggard Girl | やつれた少女 |
 |   | 可萝尔 | Carol | キャロル |
@@ -758,13 +758,13 @@ tip: 请善用浏览器的搜索功能
 |   | 罗德岛近卫干员 | Rhodes Island Engineer | 外勤オペレーターB |
 |   | 羞涩的干员 | Rhodes Island Field Operator | 実習オペレーターA |
 |   | 苦根 | Rhodes Island Field Operator B | 後方支援オペレーター |
-|   | 蒙着脸的罗德岛干员 | Rhodes Island Field Personnel | 支援オペレーター |
-|   | 蒙面怪人 | Rhodes Island Guard | 支援オペレーターA |
-|   | 达里奥 | Rhodes Island Operator | 疲弊したオペレーター |
-|   | 近卫干员 | Rhodes Island Operator B | 穏やかなオペレーター |
-|   | 近卫干员A | Sandwheel | 覆面のオペレーター |
-|   | 迪伦 | Tired Rhodes Island Operator | 運転手 |
-|   | 霍克 | Vanguard Operator A |   |
+|   | 蒙着脸的罗德岛干员 | Rhodes Island Field Personnel | 恥ずかしがるオペレーター |
+|   | 蒙面怪人 | Rhodes Island Guard | 支援オペレーター |
+|   | 达里奥 | Rhodes Island Operator | 支援オペレーターA |
+|   | 近卫干员 | Rhodes Island Operator B | 疲弊したオペレーター |
+|   | 近卫干员A | Sandwheel | 穏やかなオペレーター |
+|   | 迪伦 | Tired Rhodes Island Operator | 覆面のオペレーター |
+|   | 霍克 | Vanguard Operator A | 運転手 |
 |   | 领航员B |   |   |
 |   | 飞行员 |   |   |
 |   | 驾驶员 |   |   |
@@ -1265,23 +1265,23 @@ tip: 请善用浏览器的搜索功能
 |   | 助理干员 | Celine | スーザン |
 |   | 医疗干员 | Engineering Operator | セリカ |
 |   | 后勤干员 | Field Operator | セリーヌ |
-|   | 外勤干员 | Field Operator A | ナビゲーターA |
-|   | 外勤干员A | HR Operator | ロドスオペレーター |
-|   | 工程干员 | Hawking Operator | ロドスオペレーターA |
-|   | 工程部新任干员 | Human Resources Operator | ロドストランスポーター |
-|   | 席琳 | Idle Operator | 人事オペレーター |
-|   | 干员苏珊 | Logistics Operator | 人事部オペレーター |
-|   | 摆摊的干员 | Medic Operator | 冷静なオペレーター |
-|   | 术师干员 | Navigator A | 医療オペレーター |
-|   | 沉稳的罗德岛干员 | Operator Susan | 外勤オペレーター |
-|   | 着急的小干员 | Rhodes Island Field Operator | 外勤オペレーターA |
-|   | 罗德岛信使 | Rhodes Island Messenger | 子供オペレーター |
-|   | 罗德岛外勤干员 | Rhodes Island Operator | 慌てるオペレーター |
-|   | 罗德岛干员 | Rhodes Island Operator A | 支援オペレーター |
-|   | 罗德岛干员A | Rookie Engineering Operator | 秘密の雑貨屋さん |
-|   | 谢莉卡 | Steady Rhodes Island Operator | 術師オペレーター |
-|   | 闲聊的干员 | Young Studying Operator | 話好きなオペレーター |
-|   | 领航员A |   |   |
+|   | 外勤干员 | Field Operator A | テンションの高いオペレーター |
+|   | 外勤干员A | HR Operator | ナビゲーターA |
+|   | 工程干员 | Hawking Operator | ロドスオペレーター |
+|   | 工程部新任干员 | Human Resources Operator | ロドスオペレーターA |
+|   | 席琳 | Idle Operator | ロドストランスポーター |
+|   | 干员苏珊 | Logistics Operator | 人事オペレーター |
+|   | 摆摊的干员 | Medic Operator | 人事部オペレーター |
+|   | 术师干员 | Navigator A | 冷静なオペレーター |
+|   | 沉稳的罗德岛干员 | Operator Susan | 医療オペレーター |
+|   | 着急的小干员 | Rhodes Island Field Operator | 外勤オペレーター |
+|   | 罗德岛信使 | Rhodes Island Messenger | 外勤オペレーターA |
+|   | 罗德岛外勤干员 | Rhodes Island Operator | 子供オペレーター |
+|   | 罗德岛干员 | Rhodes Island Operator A | 慌てるオペレーター |
+|   | 罗德岛干员A | Rookie Engineering Operator | 支援オペレーター |
+|   | 谢莉卡 | Steady Rhodes Island Operator | 秘密の雑貨屋さん |
+|   | 闲聊的干员 | Young Studying Operator | 術師オペレーター |
+|   | 领航员A |   | 話好きなオペレーター |
 | avg_npc_089 | 侦察干员 | Field Operator | シュレッダー |
 |   | 办事处干员B | Hank | チャード |
 |   | 外勤干员 | Intern Operator B | ハンク |
@@ -1682,7 +1682,7 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_1252_1 | 窘迫的老人 | Embarrassed Old Man | 元気な老人 |
 |   | 精神的老人 | Spirited Old Man | 困り果てた老人 |
 | avg_npc_1253_1 | 铳械维修师 | Gunsmith | 銃の修理技師 |
-| avg_npc_1254_1 | 伊安 | - | - |
+| avg_npc_1254_1 | 伊安 | - | 衰弱した老人 |
 |   | 卡利托 |   |   |
 |   | 沉默的老人 |   |   |
 |   | 焦急的老人 |   |   |
@@ -2268,31 +2268,31 @@ tip: 请善用浏览器的搜索功能
 |   | 弥尔顿 | Young Sarkaz | 若いサルカズ |
 | avg_npc_167 | Stormeye | Stormeye | Stormeye |
 |   | stormeye |   |   |
-| avg_npc_1684_1 | 拉芙希妮 | - | - |
-|   | 温热的幼龙 |   |   |
-| avg_npc_1685_1 | 冰冷的幼龙 | - | - |
-|   | 爱布拉娜 |   |   |
-| avg_npc_1686_1 | 阴沉的居民 | - | - |
-| avg_npc_1687_1 | 急切的居民 | - | - |
-|   | 敏感的居民 |   |   |
-|   | 沉默的居民 |   |   |
-| avg_npc_1688_1 | 友善的居民 | - | - |
-| avg_npc_1689_1 | 寡言的居民 | - | - |
-|   | 愤怒的居民 |   |   |
+| avg_npc_1684_1 | 拉芙希妮 | - | ラフシニー |
+|   | 温热的幼龙 |   | 温かみのある幼龍 |
+| avg_npc_1685_1 | 冰冷的幼龙 | - | エブラナ |
+|   | 爱布拉娜 |   | 冷ややかな幼龍 |
+| avg_npc_1686_1 | 阴沉的居民 | - | 不機嫌な住民 |
+| avg_npc_1687_1 | 急切的居民 | - | 敏感な住民 |
+|   | 敏感的居民 |   | 焦る住民 |
+|   | 沉默的居民 |   | 黙り込む住民 |
+| avg_npc_1688_1 | 友善的居民 | - | 友好的な住民 |
+| avg_npc_1689_1 | 寡言的居民 | - | 寡黙な住民 |
+|   | 愤怒的居民 |   | 怒る住民 |
 | avg_npc_168_1 | 莉莉娅 | Lillia | リリア |
-| avg_npc_1690_1 | “放逐王” | - | - |
-| avg_npc_1691_1 | 严肃的守灵人 | - | - |
-| avg_npc_1692_1 | “守灵人” | - | - |
-|   | 涅梅丝 |   |   |
-| avg_npc_1693_1 | 烦躁的守卫 | - | - |
-| avg_npc_1694_1 | 拉芙希妮 | - | - |
-| avg_npc_1695_1 | 狂热的居民 | - | - |
-| avg_npc_1696_1 | 冷漠的居民 | - | - |
-|   | 担忧的居民 |   |   |
-|   | 濒死的居民 |   |   |
-| avg_npc_1697_1 | 库林 | - | - |
-| avg_npc_1698_1 | “歌唱家” | - | - |
-|   | 作家 |   |   |
+| avg_npc_1690_1 | “放逐王” | - | 「放逐王」 |
+| avg_npc_1691_1 | 严肃的守灵人 | - | 生真面目な霊の守人 |
+| avg_npc_1692_1 | “守灵人” | - | 「霊の守人」 |
+|   | 涅梅丝 |   | ネモス |
+| avg_npc_1693_1 | 烦躁的守卫 | - | 苛立つ衛兵 |
+| avg_npc_1694_1 | 拉芙希妮 | - | ラフシニー |
+| avg_npc_1695_1 | 狂热的居民 | - | 狂気的な住民 |
+| avg_npc_1696_1 | 冷漠的居民 | - | 冷淡な住民 |
+|   | 担忧的居民 |   | 憂いげな住民 |
+|   | 濒死的居民 |   | 瀕死の住民 |
+| avg_npc_1697_1 | 库林 | - | クラン |
+| avg_npc_1698_1 | “歌唱家” | - | 「吟遊家」 |
+|   | 作家 |   | 作家 |
 | avg_npc_169_1 | 海蒂 | Heidi | ハイディ |
 | avg_npc_170_1 | 文森特伯爵 | Count Vincent | ヴィンセント伯爵 |
 | avg_npc_1718_1 | 普瑞赛斯 | - | - |
@@ -2321,7 +2321,7 @@ tip: 请善用浏览器的搜索功能
 |   | 通讯中的声音 |   |   |
 | avg_npc_1731_1 | 急性感染的工人 | - | - |
 | avg_npc_174 | 万尼亚大公 | Grand Duke Vanya | ワーニャ公爵 |
-| avg_npc_1749_1 | “拷问者” | - | - |
+| avg_npc_1749_1 | “拷问者” | - | 「拷問者」 |
 | avg_npc_175 | 刻薄的莱塔尼亚人 | Actress | ためらう使節 |
 |   | 商队首领 | Beautiful Noble | キャラバンのリーダー |
 |   | 女性设计师 | Calm Councilor | ユーモラスな貴族 |
@@ -2346,7 +2346,7 @@ tip: 请善用浏览器的搜索功能
 |   | 雍容的议员 | Witty Noble | 風流人ぶった女性貴族 |
 |   | 面色和善的贵族 | Woman of High Status | 高貴な身分の女性 |
 |   | 风趣的贵族 |   |   |
-| avg_npc_1752_1 | 焦急的居民 | - | - |
+| avg_npc_1752_1 | 焦急的居民 | - | 落ち着かない様子の住民 |
 | avg_npc_176 | 主持人 | A Leithanian Nobleman | おしゃべりな商人 |
 |   | 刻薄的男爵 | Adulating Collector | ほろ酔いな商人 |
 |   | 剧场经理 | Announcer | イラつく商人 |
@@ -2721,16 +2721,17 @@ tip: 请善用浏览器的搜索功能
 |   |   | The Candle Knight |   |
 | avg_npc_216 | 安保人员 | A Seasoned Armorless Union Member | ベテランの無冑盟 |
 |   | 无胄盟成员 | A Security Officer | 無冑盟の刺客 |
-|   | 无胄盟成员B | A Team 3 Member | 無冑盟チームリーダー |
-|   | 无胄盟杀手 | An Armorless Union Member | 無冑盟メンバー |
-|   | 无胄盟杀手A | An Armorless Union Member B | 無冑盟構成員 |
-|   | 无胄盟杀手B | Armorless Union Assassin | 無冑盟構成員B |
-|   | 无胄盟领队 | Armorless Union Captain | 第三小隊構成員 |
-|   | 第三小队成员 | Armorless Union Member | 第三小隊隊員 |
-|   | 第三小队队员 | Team 3 Member A | 第三小隊隊員A |
-|   | 第三小队队员A | Team 3 Member B | 第三小隊隊員B |
-|   | 第三小队队员B |   | 警備員 |
-|   | 老练的无胄盟成员 |   |   |
+|   | 无胄盟成员B | A Team 3 Member | 無冑盟の刺客A |
+|   | 无胄盟杀手 | An Armorless Union Member | 無冑盟の刺客B |
+|   | 无胄盟杀手A | An Armorless Union Member B | 無冑盟チームリーダー |
+|   | 无胄盟杀手B | Armorless Union Assassin | 無冑盟メンバー |
+|   | 无胄盟领队 | Armorless Union Captain | 無冑盟構成員 |
+|   | 第三小队成员 | Armorless Union Member | 無冑盟構成員B |
+|   | 第三小队队员 | Team 3 Member A | 第三小隊構成員 |
+|   | 第三小队队员A | Team 3 Member B | 第三小隊隊員 |
+|   | 第三小队队员B |   | 第三小隊隊員A |
+|   | 老练的无胄盟成员 |   | 第三小隊隊員B |
+|   |   |   | 警備員 |
 | avg_npc_217 | 巡逻骑士 | A Protesting Knight | 巡回騎士 |
 |   | 抗议的骑士 | A Spectating Knight | 悩む観光客 |
 |   | 搜查队成员 | A Staid Knight | 抗議する騎士 |
@@ -2839,9 +2840,9 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_234 | “会计” | 'The Accountant' | 「会計官」 |
 |   | “囚犯” | 'The Bandit' | 「劇薬学者」 |
 |   | “强盗” | 'The Convict' | 「囚人」 |
-|   | “毒药学者” | 'The Toxicologist' | 「略奪者」 |
-|   | “监察官” |   |   |
-|   | “酷吏” |   |   |
+|   | “毒药学者” | 'The Toxicologist' | 「暴政者」 |
+|   | “监察官” |   | 「略奪者」 |
+|   | “酷吏” |   | 「監察官」 |
 | avg_npc_235 | Misery | Misery | Misery |
 | avg_npc_238 | 凯利上尉 | Captain Kelly | ケリー大尉 |
 | avg_npc_239 | 衣着朴素的诗人 | Bard Williams | 詩人ウィリアムズ |
@@ -2852,20 +2853,20 @@ tip: 请善用浏览器的搜索功能
 |   | 埃里克 | Craig | クレイグ |
 |   | 塔拉孩童 | Cunning Boy | ジョー |
 |   | 天真的孩子 | Curious Child | ターラーの子供 |
-|   | 好奇的孩子 | Dirt-Poor Peddler | ビリー |
-|   | 孩子 | Emaciated Child | ユリアン |
-|   | 寒酸的小贩 | Eric | ヴィクトリア少年 |
-|   | 小孩子 | Joe | 子供 |
-|   | 提奥 | Jurian | 幼い子供 |
-|   | 比利 | Knight | 焦る子供 |
-|   | 沉默的孩子 | Naughty Child | 狡猾な少年 |
-|   | 淘气的孩子 | Nervous Child | 痩せ細った子供 |
-|   | 焦急的孩子 | Small Child | 緊張した子供 |
-|   | 狡猾的男孩 | Taran Child | 興味津々な子供 |
-|   | 玻利瓦尔小孩 | Victorian Boy | 騎士 |
-|   | 瘦弱的孩子 |   |   |
-|   | 稚嫩的孩子 |   |   |
-|   | 米伦 |   |   |
+|   | 好奇的孩子 | Dirt-Poor Peddler | テオ |
+|   | 孩子 | Emaciated Child | ビリー |
+|   | 寒酸的小贩 | Eric | ミレン |
+|   | 小孩子 | Joe | ユリアン |
+|   | 提奥 | Jurian | ヴィクトリア少年 |
+|   | 比利 | Knight | 子供 |
+|   | 沉默的孩子 | Naughty Child | 幼い子供 |
+|   | 淘气的孩子 | Nervous Child | 無邪気な子供 |
+|   | 焦急的孩子 | Small Child | 焦る子供 |
+|   | 狡猾的男孩 | Taran Child | 狡猾な少年 |
+|   | 玻利瓦尔小孩 | Victorian Boy | 痩せ細った子供 |
+|   | 瘦弱的孩子 |   | 緊張した子供 |
+|   | 稚嫩的孩子 |   | 興味津々な子供 |
+|   | 米伦 |   | 騎士 |
 |   | 紧张的孩子 |   |   |
 |   | 维多利亚少年 |   |   |
 |   | 顽皮的孩子 |   |   |
@@ -2943,25 +2944,25 @@ tip: 请善用浏览器的搜索功能
 |   | 镇民A |   |   |
 |   | 陌生的男子 |   |   |
 | avg_npc_243 | 丹卡婶婶 | Apathetic Passerby | ターラーの流民 |
-|   | 克洛伊 | Calm Lady | パサード |
-|   | 和善的村民 | Cautious Servant | メイド |
-|   | 和善的镇民 | Feeble Woman | 元気な女性患者 |
-|   | 塔拉流民 | Frightened Woman | 恐れる女性 |
-|   | 女仆 | Infected Citizen | 悲しげな女性 |
-|   | 帕萨多 | Information Broker | 情報仲介人 |
-|   | 平静的感染者 | Lively Female Patient | 感染者市民 |
-|   | 忧心的女仆 | Maid | 慌てる商人 |
-|   | 恐惧的女性 | Noble Sister | 慌てる女性 |
-|   | 悲伤的女性 | Overwrought Taran Refugee | 無関心な通行人 |
-|   | 情报中间人 | Pained Refugee | 町人B |
-|   | 惊慌的商人 | Panicked Merchant | 痩せた女性 |
-|   | 感染者市民 | Pasado | 緊張したターラーの流民 |
-|   | 慌张的女士 | Sorrowful Woman | 臆病な使用人 |
-|   | 漠然的路人 | Taran Refugee | 苦しむ難民 |
-|   | 痛苦的难民 | Townsfolk B | 落ち着いた女性 |
-|   | 瘦弱的女人 |   | 貴族の妹 |
-|   | 精神的女病人 |   |   |
-|   | 紧张的塔拉流民 |   |   |
+|   | 克洛伊 | Calm Lady | ダンカおばさん |
+|   | 和善的村民 | Cautious Servant | パサード |
+|   | 和善的镇民 | Feeble Woman | メイド |
+|   | 塔拉流民 | Frightened Woman | 優しい村人 |
+|   | 女仆 | Infected Citizen | 元気な女性患者 |
+|   | 帕萨多 | Information Broker | 恐れる女性 |
+|   | 平静的感染者 | Lively Female Patient | 悲しげな女性 |
+|   | 忧心的女仆 | Maid | 情報仲介人 |
+|   | 恐惧的女性 | Noble Sister | 感染者市民 |
+|   | 悲伤的女性 | Overwrought Taran Refugee | 慌てる商人 |
+|   | 情报中间人 | Pained Refugee | 慌てる女性 |
+|   | 惊慌的商人 | Panicked Merchant | 無関心な通行人 |
+|   | 感染者市民 | Pasado | 町人B |
+|   | 慌张的女士 | Sorrowful Woman | 痩せた女性 |
+|   | 漠然的路人 | Taran Refugee | 緊張したターラーの流民 |
+|   | 痛苦的难民 | Townsfolk B | 臆病な使用人 |
+|   | 瘦弱的女人 |   | 苦しむ難民 |
+|   | 精神的女病人 |   | 落ち着いた女性 |
+|   | 紧张的塔拉流民 |   | 貴族の妹 |
 |   | 谨小慎微的佣人 |   |   |
 |   | 贵族妹妹 |   |   |
 |   | 镇定的女士 |   |   |
@@ -2969,10 +2970,10 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_244 | 深池士兵 | Dublinn Soldier | ダブリン兵士 |
 |   | 深池士兵？ | Dublinn Soldier? | ダブリン兵士？ |
 | avg_npc_245_1 | Outcast | Outcast | Outcast |
-| avg_npc_246 | “官僚” | 'The Elocutionist' | 「雄弁家」 |
-|   | “雄辩家” |   |   |
-| avg_npc_247 | “歌唱家” | 'The Immolator' | 「放火魔」 |
-|   | “纵火家” |   |   |
+| avg_npc_246 | “官僚” | 'The Elocutionist' | 「官僚」 |
+|   | “雄辩家” |   | 「雄弁家」 |
+| avg_npc_247 | “歌唱家” | 'The Immolator' | 「吟遊家」 |
+|   | “纵火家” |   | 「放火魔」 |
 | avg_npc_248 | “副官希尔” | 'Adjutant Hill' | 「副官ヒル」 |
 |   | 严厉的军官 | Adjutant Hill | ヴィクトリア兵 |
 |   | 兴奋的士兵 | Biting Officer | ヴィクトリア兵A |
@@ -3348,7 +3349,7 @@ tip: 请善用浏览器的搜索功能
 |   | 深池军官 | Dublinn Soldier | ダブリン兵士A |
 |   | 深池士兵 | Dublinn Soldier A | ダブリン兵士B |
 |   | 深池士兵A | Dublinn Soldier B | ダブリン士官 |
-|   | 深池士兵B |   |   |
+|   | 深池士兵B |   | 慌ただしい兵士 |
 | avg_npc_407_1 | 推进之王 | Siege | シージ |
 |   | 维娜 | Vina | ヴィーナ |
 | avg_npc_408_1 | 严肃的士兵 | Alliance Soldier | ずる賢い兵士 |
@@ -3869,11 +3870,11 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_625_1 | 托兰 | Toland | トーランド |
 | avg_npc_626_1 | 凶恶的感染者 | Enthusiastic Infected | ガシー |
 |   | 加斯 | Fierce Infected | ゼノ |
-|   | 急切的男人 | Gus | 凶悪な感染者 |
-|   | 染病的流民 | Ill Refugee | 感染した流民 |
-|   | 欢呼的感染者工人 | Zeno | 親切な感染者 |
-|   | 法洛恩 |   |   |
-|   | 泽诺 |   |   |
+|   | 急切的男人 | Gus | ファロン |
+|   | 染病的流民 | Ill Refugee | 凶悪な感染者 |
+|   | 欢呼的感染者工人 | Zeno | 感染した流民 |
+|   | 法洛恩 |   | 焦る男性 |
+|   | 泽诺 |   | 親切な感染者 |
 |   | 热情的感染者 |   |   |
 | avg_npc_627_1 | 切斯柏 | Czcibor | シチボル |
 | avg_npc_647_1 | 戈尔丁 | Golding | ゴールディング |
@@ -4010,12 +4011,12 @@ tip: 请善用浏览器的搜索功能
 |   | 谨慎的打手 |   |   |
 | avg_npc_700_1 | 佐拉 | Luna | わんぱくな生徒 |
 |   | 偷传纸条的学生 | Mischievous Student | セレーネ |
-|   | 卢娜 | Note-Passing Student | ルナ |
-|   | 卢比奥之女 | Rubio's Daughter | ルビオの娘 |
-|   | 害羞的孩子 | Selene | 小柄な女の子 |
-|   | 瑟琳 | Shy Child | 恥ずかしがる子供 |
-|   | 瘦小的女孩 | Thin Girl | 隠れてメモを回す生徒 |
-|   | 调皮的学生 |   |   |
+|   | 卢娜 | Note-Passing Student | ゾラ |
+|   | 卢比奥之女 | Rubio's Daughter | ルナ |
+|   | 害羞的孩子 | Selene | ルビオの娘 |
+|   | 瑟琳 | Shy Child | 小柄な女の子 |
+|   | 瘦小的女孩 | Thin Girl | 恥ずかしがる子供 |
+|   | 调皮的学生 |   | 隠れてメモを回す生徒 |
 | avg_npc_701_1 | “调度员” | 'Dispatcher' | 「管理人」 |
 |   | 伪装的警察A | Dispatcher | きれい好きの男 |
 |   | 悲伤的男性 | Energetic Technician | 変装した警察官A |
@@ -4030,7 +4031,7 @@ tip: 请善用浏览器的搜索功能
 |   | 胆小的服务员 | Undercover Officer B | 裁判官補佐 |
 | avg_npc_722_1 | 爱布拉娜 | Eblana | エブラナ |
 | avg_npc_723_1 | “校官” | 'The Brigadier' | 「将校」 |
-|   | 校官 |   |   |
+|   | 校官 |   | 将校 |
 | avg_npc_724_1 | 塞尔蒙 | Dublinn Soldier? | セルモン |
 |   | 深池士兵？ | Selmon | ダブリン兵士？ |
 | avg_npc_725_1 | 维恩 | Fionn | ヴェン |

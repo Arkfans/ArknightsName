@@ -53,8 +53,8 @@ tip: 请善用浏览器的搜索功能
 | token_10040_siege2_vlion | 黄金盟誓 | Golden Vows | 黄金の誓い |
 | token_10041_cathy_catsld | 爬行号·防护单元 | Crawler Protection Unit | クローラー・防護ユニット |
 | token_10042_tecno_puppet | 木偶舞者 | Puppet Dancer | パペットダンサー |
-| token_10043_necras_skeltn | 悲叹的仆役 | - | - |
-| token_10044_wulfen_mine | 矿石“杀手” | - | - |
+| token_10043_necras_skeltn | 悲叹的仆役 | - | 悲嘆する下僕 |
+| token_10044_wulfen_mine | 矿石“杀手” | - | 鉱石「キラー」 |
 | token_10045_alanna_crane | 小螺帽 | - | - |
 | token_10050_monstr_prosts | 重构体 | - | - |
 | token_10051_radian_tower1 | 戴乌 | - | - |

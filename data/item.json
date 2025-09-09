@@ -1314,6 +1314,7 @@
     "zh_CN": "急性感染抑制剂"
   },
   "act1multi_token_cap": {
+    "ja_JP": "参加認定証-S1",
     "zh_CN": "参赛认证-S1"
   },
   "act1sandbox_milestone_point": {
@@ -1662,6 +1663,7 @@
     "zh_CN": "“生香”"
   },
   "act41side_token_light": {
+    "ja_JP": "壊れたランプ",
     "zh_CN": "损坏的源石灯"
   },
   "act42d0_token_evaluation": {
@@ -3094,9 +3096,11 @@
     "zh_CN": "说唱动态5"
   },
   "emoticon_basic": {
+    "ja_JP": "スタンプ",
     "zh_CN": "表情套组"
   },
   "emoticon_originium_slug": {
+    "ja_JP": "スタンプ「オリジムシ」",
     "zh_CN": "表情套组：虫动"
   },
   "emticon_duel_basic": {
@@ -4764,6 +4768,7 @@
     "zh_CN": "森蚺的信物"
   },
   "p_char_4171_wulfen": {
+    "ja_JP": "ウルフェナイトの印",
     "zh_CN": "钼铅的信物"
   },
   "p_char_4172_xingzh": {
@@ -4777,6 +4782,7 @@
     "zh_CN": "诺威尔的信物"
   },
   "p_char_4177_brigid": {
+    "ja_JP": "ブリギッドの印",
     "zh_CN": "水灯心的信物"
   },
   "p_char_4178_alanna": {
@@ -4902,6 +4908,7 @@
     "zh_CN": "蜜莓的信物"
   },
   "p_char_450_necras": {
+    "ja_JP": "ネクラスの印",
     "zh_CN": "死芒的信物"
   },
   "p_char_451_robin": {

@@ -849,8 +849,14 @@
     "en_US": "The Sojourner",
     "ja_JP": "さすらう者"
   },
+  "_SINGLE_35_0_1": {
+    "ja_JP": "死火より出づ"
+  },
   "_SPECIAL_32_0_8": {
     "en_US": "Orienteering Headhunting",
+    "ja_JP": "セレクトスカウト"
+  },
+  "_SPECIAL_35_0_3": {
     "ja_JP": "セレクトスカウト"
   }
 }

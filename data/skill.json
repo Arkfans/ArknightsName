@@ -631,9 +631,11 @@
     "zh_CN": "扩散疗法"
   },
   "skchr_brigid_1": {
+    "ja_JP": "ノマドの心得",
     "zh_CN": "所熟知的"
   },
   "skchr_brigid_2": {
+    "ja_JP": "遊牧の知恵",
     "zh_CN": "可驯服的"
   },
   "skchr_broca_1": {
@@ -2443,12 +2445,15 @@
     "zh_CN": "急救模式"
   },
   "skchr_necras_1": {
+    "ja_JP": "禍呼ぶ願い",
     "zh_CN": "噩愿"
   },
   "skchr_necras_2": {
+    "ja_JP": "枯れゆく命",
     "zh_CN": "折朽"
   },
   "skchr_necras_3": {
+    "ja_JP": "死に授く冠",
     "zh_CN": "冠死以冕"
   },
   "skchr_nian_1": {
@@ -3777,9 +3782,11 @@
     "zh_CN": "招无虚发"
   },
   "skchr_wulfen_1": {
+    "ja_JP": "「害獣専用」",
     "zh_CN": "“驱兽专用”"
   },
   "skchr_wulfen_2": {
+    "ja_JP": "「硬石専用」",
     "zh_CN": "“顽石专用”"
   },
   "skchr_wyvern_1": {
@@ -5302,12 +5309,15 @@
     "zh_CN": "寒潮"
   },
   "sktok_ftshad_1": {
+    "ja_JP": "コピー",
     "zh_CN": "复制"
   },
   "sktok_fttreant_1": {
+    "ja_JP": "生長",
     "zh_CN": "生长"
   },
   "sktok_fttree_1": {
+    "ja_JP": "生長",
     "zh_CN": "生长"
   },
   "sktok_fxdtwr_1": {
@@ -5640,21 +5650,27 @@
     "zh_CN": "促融共竞控制"
   },
   "sktok_mufrbk": {
+    "ja_JP": "仮設休憩室",
     "zh_CN": "临时休息舱"
   },
   "sktok_mufrbs": {
+    "ja_JP": "携帯式健康器",
     "zh_CN": "便携健身架"
   },
   "sktok_mufrfm": {
+    "ja_JP": "作業員倉庫",
     "zh_CN": "建筑工具间"
   },
   "sktok_mufrprn_1": {
+    "ja_JP": "ヘルプ！",
     "zh_CN": "救命啊！"
   },
   "sktok_mufrst": {
+    "ja_JP": "コンクリ防壁",
     "zh_CN": "混凝土路障"
   },
   "sktok_mufrwl": {
+    "ja_JP": "油圧式高台",
     "zh_CN": "液压式高台"
   },
   "sktok_muftbl": {
@@ -5683,18 +5699,23 @@
     "zh_CN": "模块维护"
   },
   "sktok_muulas_1": {
+    "ja_JP": "たーまやー！",
     "zh_CN": "看！烟花！"
   },
   "sktok_muulcl_1": {
+    "ja_JP": "たらふく飲んでけ！",
     "zh_CN": "都给我喝！"
   },
   "sktok_muulco_1": {
+    "ja_JP": "ファイト！",
     "zh_CN": "加油哦！"
   },
   "sktok_muulrg_1": {
+    "ja_JP": "ニャアアアア！",
     "zh_CN": "咪嗷嗷嗷嗷！"
   },
   "sktok_muulwr_1": {
+    "ja_JP": "防具を付けなさい！",
     "zh_CN": "请穿上护具！"
   },
   "sktok_nearl2_3": {
@@ -5703,12 +5724,15 @@
     "zh_CN": "“耀阳”"
   },
   "sktok_necras_skeltn_1": {
+    "ja_JP": "纏わりつく紫炎",
     "zh_CN": "怨火缠身"
   },
   "sktok_necras_skeltn_2": {
+    "ja_JP": "纏わりつく紫炎",
     "zh_CN": "怨火缠身"
   },
   "sktok_necras_skeltn_3": {
+    "ja_JP": "纏わりつく紫炎",
     "zh_CN": "怨火缠身"
   },
   "sktok_neonlamp": {
@@ -6379,9 +6403,11 @@
     "zh_CN": "拉特兰式冰淇淋"
   },
   "sktok_wulfen_1": {
+    "ja_JP": "「害獣専用」",
     "zh_CN": "“驱兽专用”"
   },
   "sktok_wulfen_2": {
+    "ja_JP": "「硬石専用」",
     "zh_CN": "“顽石专用”"
   },
   "sktok_xbaarm": {

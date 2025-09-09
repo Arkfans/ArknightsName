@@ -318,10 +318,10 @@ tip: 请善用浏览器的搜索功能
 | char_4164_tecno | 特克诺 | Tecno | テクノ |
 | char_4165_ctrail | 云迹 | Contrail | コントレイル |
 | char_416_zumama | 森蚺 | Eunectes | ユーネクテス |
-| char_4171_wulfen | 钼铅 | - | - |
+| char_4171_wulfen | 钼铅 | - | ウルフェナイト |
 | char_4172_xingzh | 行箸 | Xingzhu | シィンズゥ |
 | char_4173_nowell | 诺威尔 | Nowell | ノウエル |
-| char_4177_brigid | 水灯心 | - | - |
+| char_4177_brigid | 水灯心 | - | ブリギッド |
 | char_4178_alanna | 阿兰娜 | - | - |
 | char_4179_monstr | Mon3tr | - | - |
 | char_4182_oblvns | 丰川祥子 | - | - |
@@ -355,7 +355,7 @@ tip: 请善用浏览器的搜索功能
 | char_445_wscoot | 骋风 | - | - |
 | char_446_aroma | 阿罗玛 | Aroma | アロマ |
 | char_449_glider | 蜜莓 | Honeyberry | ハニーベリー |
-| char_450_necras | 死芒 | - | - |
+| char_450_necras | 死芒 | - | ネクラス |
 | char_451_robin | 罗宾 | Robin | ロビン |
 | char_452_bstalk | 豆苗 | Beanstalk | ビーンストーク |
 | char_455_nothin | 乌有 | Mr. Nothing | ウユウ |

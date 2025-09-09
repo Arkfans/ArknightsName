@@ -224,7 +224,7 @@ tip: 请善用浏览器的搜索功能
 | trap_163_foolcrate | 障碍物 | Roadblock | 障害物 |
 | trap_164_lrsiege | 振奋荣光 | Light of Glory | 奮い立つ栄光 |
 | trap_165_muftbl | 足球 | Football | サッカーボール |
-| trap_166_muwork | 设施建筑工 | Foldable Facility Maintainer | 競技装置整備士 |
+| trap_166_muwork | 设施建筑工 | Foldable Facility Maintainer | 施設建設作業員 |
 | trap_167_muruinf | 折叠式维护车 | Foldable Maintenance Vehicle | 競技用格納式整備車 |
 | trap_169_muruinb | 折叠式后勤站 | Foldable Logistics Hub | 競技用格納式支援所 |
 | trap_171_trpot | 很大的锅 | Really Big Pot | 大鍋 |
@@ -253,18 +253,18 @@ tip: 请善用浏览器的搜索功能
 | trap_194_arcsoda | 口渴乐乐 | Quenchy Cola | コカ・ラーラ |
 | trap_195_arcpw | 大力拳套 | Power Gauntlet | 怪力グローブ |
 | trap_196_cnnon | 盐坨子炮 | Saltheap Cannon | ソルトキャノン |
-| trap_197_muulwr | 护具分发员 | - | - |
-| trap_198_muulas | 混乱烟花箱 | - | - |
-| trap_199_muulrg | 猛兽能量饮料 | - | - |
-| trap_200_muulcl | 喷射汽水机 | - | - |
-| trap_201_muulco | 赛场啦啦队 | - | - |
-| trap_202_muworkg | 高级设施建筑工 | - | - |
-| trap_203_mufrprn | 坍塌的杂物堆 | - | - |
-| trap_205_mufrfm | 建筑工具间 | - | - |
-| trap_206_mufrbk | 临时休息舱 | - | - |
-| trap_207_mufrwl | 液压式高台  | - | - |
-| trap_208_mufrst | 混凝土路障  | - | - |
-| trap_209_mufrbs | 便携健身架 | - | - |
+| trap_197_muulwr | 护具分发员 | - | 防具支給員 |
+| trap_198_muulas | 混乱烟花箱 | - | 花火セット |
+| trap_199_muulrg | 猛兽能量饮料 | - | ニャンスターエナジー |
+| trap_200_muulcl | 喷射汽水机 | - | サイダー噴射機 |
+| trap_201_muulco | 赛场啦啦队 | - | 競技応援団 |
+| trap_202_muworkg | 高级设施建筑工 | - | 上級施設建設作業員 |
+| trap_203_mufrprn | 坍塌的杂物堆 | - | ガラクタのなだれ |
+| trap_205_mufrfm | 建筑工具间 | - | 作業員倉庫 |
+| trap_206_mufrbk | 临时休息舱 | - | 仮設休憩室 |
+| trap_207_mufrwl | 液压式高台  | - | 油圧式高台 |
+| trap_208_mufrst | 混凝土路障  | - | コンクリ防壁 |
+| trap_209_mufrbs | 便携健身架 | - | 携帯式健康器 |
 | trap_210_arcgrg | 两栖码头 | Amphibious Dock | 水陸両用埠頭 |
 | trap_211_cjgtow | 火灶 | Stove | 竈台 |
 | trap_212_cjbtow | 废弃火灶 | Derelict Stove | 破棄された竈台 |
@@ -272,10 +272,10 @@ tip: 请善用浏览器的搜索功能
 | trap_214_dqballis | 弩炮 | - | - |
 | trap_215_dqcrsbow | 解雇者清债程序 | - | - |
 | trap_216_dqelec | 梅什科线圈 | - | - |
-| trap_218_fttree | 树丛 | - | - |
-| trap_219_fttreant | 盾与墙 | - | - |
-| trap_220_ftbone | 旧日之火 | - | - |
-| trap_221_ftshad | 空壳 | - | - |
+| trap_218_fttree | 树丛 | - | 茂み |
+| trap_219_fttreant | 盾与墙 | - | 盾と壁 |
+| trap_220_ftbone | 旧日之火 | - | 昔日の火 |
+| trap_221_ftshad | 空壳 | - | 抜け殻 |
 | trap_222_rgdysm | 雕伥 | - | - |
 | trap_223_dynbox | 宝葫芦 | - | - |
 | trap_224_dyrbox | 铁葫芦 | - | - |
