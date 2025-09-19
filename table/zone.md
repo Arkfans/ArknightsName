@@ -190,6 +190,8 @@ tip: 请善用浏览器的搜索功能
 | act36side_zone2 | 走遍泰拉 | Culinary Venture On Terra | テラを旅する |
 | act37side_zone1 | 无名之勋 | Die a Hero Or a Villain | 名もなき栄光 |
 | act37side_zone2 | 未了往昔 | Once upon a Time | 幕引かぬ過去 |
+| act37sre_zone1 | 无名之勋 | - | - |
+| act37sre_zone2 | 未了往昔 | - | - |
 | act38side_zone1 | 四幕汇演 | Quadriglia | カドリール |
 | act38side_zone2 | 彩车游行 | Splendida Cavalcata | 煌めく遊覧車 |
 | act38side_zone3 | 荒芜之舞 | Decadanza | 荒寥の舞 |

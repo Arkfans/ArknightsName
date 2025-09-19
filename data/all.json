@@ -10865,6 +10865,12 @@
       "zh_CN": "巅峰现场"
     }
   },
+  "char_487_bobb@kitchen#4": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "温情烘焙"
+    }
+  },
   "char_488_buildr@epoque#34": {
     "type": "SKIN",
     "names": {
@@ -23537,6 +23543,12 @@
       "zh_CN": "限时累计签到"
     }
   },
+  "act37sre": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "追迹日落以西·复刻"
+    }
+  },
   "act38d1": {
     "type": "ACTIVITY",
     "names": {
@@ -27081,6 +27093,12 @@
     "names": {
       "en_US": "'Nay!'",
       "ja_JP": "「反対！」",
+      "zh_CN": "“我反对！”"
+    }
+  },
+  "act37side_token_nay_rep_1": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "“我反对！”"
     }
   },
@@ -35507,6 +35525,12 @@
     "type": "POOL",
     "names": {
       "zh_CN": "青霆重明"
+    }
+  },
+  "SINGLE_65_0_3": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "未致蒙尘"
     }
   },
   "SPECIAL_54_0_5": {
@@ -61399,6 +61423,18 @@
     "names": {
       "en_US": "Once upon a Time",
       "ja_JP": "幕引かぬ過去",
+      "zh_CN": "未了往昔"
+    }
+  },
+  "act37sre_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "无名之勋"
+    }
+  },
+  "act37sre_zone2": {
+    "type": "ZONE",
+    "names": {
       "zh_CN": "未了往昔"
     }
   },

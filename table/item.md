@@ -334,6 +334,7 @@ tip: 请善用浏览器的搜索功能
 | act35side_token_dust_rep_1 | 流光之沙 | - | - |
 | act36side_token_recipe | 今日食谱 | Daily Recipe | 今日の献立 |
 | act37side_token_nay | “我反对！” | 'Nay!' | 「反対！」 |
+| act37side_token_nay_rep_1 | “我反对！” | - | - |
 | act38d1_token_coin | 晶化源石 | Crystalized Originium | 結晶化源石 |
 | act38side_token_ticket | 匿名邀请函 | Invito Mistico | 匿名招待状 |
 | act39side_token_garum | 盐鳞咸鳞汁 | Saltfin Garum | 塩鱗ガルム |

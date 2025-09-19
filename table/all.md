@@ -1395,6 +1395,7 @@ tip: 请善用浏览器的搜索功能
 | char_485_pallas@epoque#19 | 山川的酿造 | A Drip of Orea and Potamous | 山川の醸造 |
 | char_486_takila@ambienceSynesthesia#2 | 开牌制胜 | Cardwinner | ショーダウン |
 | char_486_takila@shining#2 | 巅峰现场 | Top Tier Live | 熱狂のステージ |
+| char_487_bobb@kitchen#4 | 温情烘焙 | - | - |
 | char_488_buildr@epoque#34 | 晚风休憩 | To Rest in Night Breezes | 夜風に憩いて |
 | char_489_serum@epoque#31 | 逸趣 | Leisure | 気ままな休日 |
 | char_492_quercu@epoque#17 | 遥乡之径 | Distant Home's Guide | 故郷は遠く |
@@ -3021,6 +3022,7 @@ tip: 请善用浏览器的搜索功能
 | act36sign | 步上双塔之时签到活动 | Climbing the Twin Spires Sign-In Event | 双塔の高みを目指してスタンプラリー |
 | act37side | 追迹日落以西 | Ending a Grand Overture | 落日の向こうへ |
 | act37sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
+| act37sre | 追迹日落以西·复刻 | - | - |
 | act38d1 | 尖灭测试作战 | Pinch-Out Experimental Operation | 尖滅試験作戦 |
 | act38side | 揭幕者们 | I Portatori dei Velluti | 幕開く者たち |
 | act38sign | 明日方舟X彩虹六号：围攻签到活动 | Arknights x Rainbow Six Siege Login Event | アークナイツ×R6Sスタンプラリー |
@@ -3480,6 +3482,7 @@ Event | なないろのお茶会 |
 | act35side_token_dust_rep_1 | 流光之沙 | - | - |
 | act36side_token_recipe | 今日食谱 | Daily Recipe | 今日の献立 |
 | act37side_token_nay | “我反对！” | 'Nay!' | 「反対！」 |
+| act37side_token_nay_rep_1 | “我反对！” | - | - |
 | act38d1_token_coin | 晶化源石 | Crystalized Originium | 結晶化源石 |
 | act38side_token_ticket | 匿名邀请函 | Invito Mistico | 匿名招待状 |
 | act39side_token_garum | 盐鳞咸鳞汁 | Saltfin Garum | 塩鱗ガルム |
@@ -4584,6 +4587,7 @@ Event | なないろのお茶会 |
 | SINGLE_62_0_1 | 永不落幕 | - | - |
 | SINGLE_62_0_3 | 沉向深渊的锚 | - | - |
 | SINGLE_63_0_1 | 青霆重明 | - | - |
+| SINGLE_65_0_3 | 未致蒙尘 | - | - |
 | SPECIAL_54_0_5 | 定向甄选 | - | - |
 | SPECIAL_59_0_3 | 定向甄选 | - | - |
 | SPECIAL_61_0_3 | 定向甄选 | - | - |
@@ -7907,6 +7911,8 @@ Event | なないろのお茶会 |
 | act36side_zone2 | 走遍泰拉 | Culinary Venture On Terra | テラを旅する |
 | act37side_zone1 | 无名之勋 | Die a Hero Or a Villain | 名もなき栄光 |
 | act37side_zone2 | 未了往昔 | Once upon a Time | 幕引かぬ過去 |
+| act37sre_zone1 | 无名之勋 | - | - |
+| act37sre_zone2 | 未了往昔 | - | - |
 | act38side_zone1 | 四幕汇演 | Quadriglia | カドリール |
 | act38side_zone2 | 彩车游行 | Splendida Cavalcata | 煌めく遊覧車 |
 | act38side_zone3 | 荒芜之舞 | Decadanza | 荒寥の舞 |

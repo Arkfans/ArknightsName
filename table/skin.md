@@ -423,6 +423,7 @@ tip: 请善用浏览器的搜索功能
 | char_485_pallas@epoque#19 | 山川的酿造 | A Drip of Orea and Potamous | 山川の醸造 |
 | char_486_takila@ambienceSynesthesia#2 | 开牌制胜 | Cardwinner | ショーダウン |
 | char_486_takila@shining#2 | 巅峰现场 | Top Tier Live | 熱狂のステージ |
+| char_487_bobb@kitchen#4 | 温情烘焙 | - | - |
 | char_488_buildr@epoque#34 | 晚风休憩 | To Rest in Night Breezes | 夜風に憩いて |
 | char_489_serum@epoque#31 | 逸趣 | Leisure | 気ままな休日 |
 | char_492_quercu@epoque#17 | 遥乡之径 | Distant Home's Guide | 故郷は遠く |
