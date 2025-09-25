@@ -682,8 +682,49 @@ tip: 请善用浏览器的搜索功能
 | trap_146_dhdcr | 天桩 | Sky Pole | 天杭 |
 | trap_147_spblls | 巫术弩炮 | Witchcraft Ballista | 巫術バリスタ |
 | trap_148_amblls | 幽影门扉 | Umbral Door | 幽影の扉 |
+| trap_1500_lhgras | 草丛 | - | - |
+| trap_1501_lhpark | 花丛 | - | - |
+| trap_1502_lhrock | 岩石 | - | - |
+| trap_1503_lhshan | 山脉 | - | - |
+| trap_1504_lhtree | 林地 | - | - |
+| trap_1505_lhfrst | 密林 | - | - |
+| trap_1506_lhhe | 河流 | - | - |
+| trap_1507_lhukmi | 富集矿区 | - | - |
+| trap_1508_lhmine | 源石矿场 | - | - |
+| trap_1509_lhbot | 勘探器 | - | - |
+| trap_1510_lhplt | 源石晶簇 | - | - |
+| trap_1511_lhfac | 晶簇稳定器 | - | - |
+| trap_1512_lhfarm | 源石回收炉 | - | - |
+| trap_1513_lhshop | 冶铸车 | - | - |
+| trap_1514_lhpad | 田地 | - | - |
+| trap_1515_lhfacp | 被污染的回收炉 | - | - |
+| trap_1516_lhnat | 供能基站 | - | - |
+| trap_1517_lhcol | 藏书馆 | - | - |
+| trap_1518_lhdoor | 改良巫术祭坛 | - | - |
+| trap_1519_lhrift | 巫术村落 | - | - |
 | trap_151_muruinw | 折叠式堡垒模块 | Foldable Bastion | 競技用格納式高台 |
+| trap_1520_lhcolb | 大图书馆 | - | - |
+| trap_1521_lhmagd | 术法岗哨 | - | - |
+| trap_1522_lhvlg | 先遣侦测器 | - | - |
+| trap_1523_lhtown | 侦测中心 | - | - |
+| trap_1524_lhport | 装卸机 | - | - |
+| trap_1525_lhswer | 水产村落 | - | - |
+| trap_1526_lharen | 冲突围栏 | - | - |
+| trap_1527_lhtwer | 警戒岗哨 | - | - |
+| trap_1528_lhruin | 废墟 | - | - |
+| trap_1529_lhsht | 岗哨 | - | - |
 | trap_152_muruino | 折叠式辅助器械 | Foldable Auxiliary Apparatus | 競技用格納式防壁 |
+| trap_1530_lhcamp | 荒野村落 | - | - |
+| trap_1531_lhcampa | 猎户村落 | - | - |
+| trap_1532_lhcampb | 山地村落 | - | - |
+| trap_1533_lhcampc | 牧场村落 | - | - |
+| trap_1534_lheqp | 插件补给点 | - | - |
+| trap_1535_lhupgd | 插件强化点 | - | - |
+| trap_1536_lhbat | 噬血诅地 | - | - |
+| trap_1537_lhside | 信号基站 | - | - |
+| trap_1538_lhblod | 血裔胞体 | - | - |
+| trap_1539_lhflwr | 精怪实验室 | - | - |
+| trap_1540_lhpad2 | 温室拱棚 | - | - |
 | trap_154_mugtps | 阵地屏障 | Positional Barrier | 陣地障壁 |
 | trap_155_aegiret | 航道信标 | Waterway Beacon | 航路ビーコン |
 | trap_156_dsshell | 赘生甲壳 | Excrescent Carapace | 増殖甲羅 |
@@ -981,12 +1022,14 @@ tip: 请善用浏览器的搜索功能
 | char_002_amiya@test#1 | 播种者 | Seedsower | プランター |
 | char_002_amiya@winter#1 | 报童 | Newsgirl | 新聞配達員 |
 | char_003_kalts@boc#6 | 残余 | Remnant | 名残 |
+| char_003_kalts@sale#14 | 时遗 | - | - |
 | char_010_chen@nian#2 | 岁红霞 | Ageless Afterglow | 歳紅霞 |
 | char_010_chen@sale#10 | 初晴 | After Storm | 雲往きて晴れ |
 | char_017_huang@as#1 | 爆裂菲林 | Burst Feline | 爆裂フェリーン |
 | char_017_huang@witch#5 | 易爆蓝焰 | Explosive Blue Flame | 爆ぜる蒼炎 |
 | char_1001_amiya2@casc#1 | 触及星辰 | - | - |
 | char_1011_lava2@nian#6 | 暮影藤萝 | Dusk Wisteria | 紫藤麗姿 |
+| char_1011_lava2@whirlwind#9 | 镇邪焱 | - | - |
 | char_1012_skadi2@boc#4 | 升华 | Sublimation | 昇華 |
 | char_1012_skadi2@iteration#2 | 红女爵 | Red Countess | レッドカウンテス |
 | char_1013_chen2@boc#6 | 万重山 | Ten Thousand Mountains | 万重山 |
@@ -1269,6 +1312,7 @@ tip: 请善用浏览器的搜索功能
 | char_4014_lunacu@yun#1 | 棠云巧梦 | Clouds Float Like Ideas of Art | 海棠の夢 |
 | char_4016_kazema@witch#3 | 幻影轻悄 | Like Illusion | 軽やかな幻影 |
 | char_4017_puzzle@epoque#29 | 碎片之间 | Amidst the Pieces | ピースの間 |
+| char_4017_puzzle@shining#3 | 冷色摇滚 | - | - |
 | char_4019_ncdeer@ncdeer#1 | 古往今来的月 | A Silvern Caress On the Flow of Time | 古往今来の月 |
 | char_401_elysm@snow#2 | 雪夜回音 | Snowy Echo | 雪夜の思い出 |
 | char_401_elysm@summer#9 | 灿阳朝露 SDm11 | Shimmering Dew SDm11 | 炎陽煌く露SDm11 |
@@ -1345,6 +1389,7 @@ tip: 请善用浏览器的搜索功能
 | char_4145_ulpia@epoque#48 | 注目深渊 | - | - |
 | char_4146_nymph@epoque#42 | 甜美配方 | Sweetness to the Heart | 甘美な真心 |
 | char_4151_tinman@sale#11 | 相位面容 | Phase Face | フェーズフェイス |
+| char_4155_talr@yun#9 | 桂影窗 | - | - |
 | char_415_flint@boc#3 | 绚烂夏花 | Gorgeous Flower | 紫藤繚乱 |
 | char_416_zumama@boc#3 | 熔锻铸匠 | Forgemaster | 熔冶工匠 |
 | char_4182_oblvns@avemujica#1 | 旋律的主人 | - | - |
@@ -2552,6 +2597,14 @@ tip: 请善用浏览器的搜索功能
 | enemy_1568_dirctr | “酒神” | - | - |
 | enemy_1569_ldevil | 莫菲丝 | - | - |
 | enemy_1570_ymgscm | 三船光平 | - | - |
+| enemy_18001_lhship | 运输汽艇 | - | - |
+| enemy_18002_lhbetl | 小颚虫 | - | - |
+| enemy_18003_lhkarb | 吸气乱动机 | - | - |
+| enemy_18004_lhbmom | 巨锹虫 | - | - |
+| enemy_18005_lhwand | “徘徊者” | - | - |
+| enemy_18006_lhprie | 恩慈祷者 | - | - |
+| enemy_18007_lhbque | 斑斓虫 | - | - |
+| enemy_18008_lhbbos | “老尖牙” | - | - |
 | enemy_2001_duckmi | 鸭爵 | Duck Lord | ダック卿 |
 | enemy_2002_bearmi | 高普尼克 | Gopnik | ゴプニク |
 | enemy_2003_rockman | 迷路的巨像 | Lost Colossus | 迷子の巨像 |
@@ -2948,6 +3001,7 @@ tip: 请善用浏览器的搜索功能
 | act1unique | 九色鹿签到复刻活动 | Nine-Colored Deer Onboarding Event Retrospective | 九色鹿復刻スタンプラリー |
 | act1vautochess | 卫戍协议 | Stronghold Protocol | 堅守協定 |
 | act1vecb | 矢量突破 | Vector Breakthrough | 鋒矢突破 |
+| act1vhalfidle | 次生预案 | - | - |
 | act1video | 留影烁今登录活动 | - | - |
 | act20login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
 | act20side | 理想城：长夏狂欢季 | Ideal City: Endless Carnival | 理想都市-エンドレスカーニバル- |
@@ -3071,6 +3125,8 @@ Event | なないろのお茶会 |
 | act4switch | 时光的赠礼  | - | - |
 | act50sign | 风物留痕签到活动 | - | - |
 | act51sign | 提线人偶的迎宾礼签到活动 | - | - |
+| act52sign | 新生支点签到活动 | - | - |
+| act53sign | 金樨迎月签到活动 | - | - |
 | act5bossrush | 引航者试炼 | - | - |
 | act5collection | 御鼓吉音限时任务 | - | - |
 | act5d0 | 喧闹法则 | Code of Brawl | 喧騒の掟 |
@@ -3425,6 +3481,21 @@ Event | なないろのお茶会 |
 | act1sandbox_milestone_point | 繁荣证章 | Badge of Prosperity | 繁栄の証 |
 | act1vautochess_token_chess | 卫戍认证 | Stronghold Credits | 堅守認証 |
 | act1vecb_milestone_point | 胜绩积分 | Attainment Point | 勝利記念品 |
+| act1vhalfidle_asc_cst | 术师进阶信物 | - | - |
+| act1vhalfidle_asc_grd | 近卫进阶信物 | - | - |
+| act1vhalfidle_asc_med | 医疗进阶信物 | - | - |
+| act1vhalfidle_asc_pio | 先锋进阶信物 | - | - |
+| act1vhalfidle_asc_snp | 狙击进阶信物 | - | - |
+| act1vhalfidle_asc_spc | 特种进阶信物 | - | - |
+| act1vhalfidle_asc_sup | 辅助进阶信物 | - | - |
+| act1vhalfidle_asc_tnk | 重装进阶信物 | - | - |
+| act1vhalfidle_gacha_newplayer | 精炼矿核 | - | - |
+| act1vhalfidle_gacha_normal | 封装矿核 | - | - |
+| act1vhalfidle_itempack_asc | 精英进阶信物 | - | - |
+| act1vhalfidle_level_exp | 培训手册 | - | - |
+| act1vhalfidle_skill_exp | 技巧手册 | - | - |
+| act1vhalfidle_strategy_point | 策略信标 | - | - |
+| act1vhalfidle_token_point | 资源点数 | - | - |
 | act20side_token_book | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
 | act20side_token_book_rep_1 | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
 | act21side_token_permesso | 进货通行证 | Permesso di Importazione | 買付許可証 |
@@ -3589,6 +3660,10 @@ Event | なないろのお茶会 |
 | ap_supply_lt_120_2024_6 | 阿米娅的生日蛋糕 | Amiya's Birthday Cake | アーミヤのバースデーケーキ |
 | ap_supply_lt_120_2025_1 | 1101生日糕点 | - | - |
 | ap_supply_lt_120_2025_2 | 量大管饱甜品拼盘 | - | - |
+| ap_supply_lt_120_2025_3 | “广寒乐” | - | - |
+| ap_supply_lt_120_2025_4 | “清秋玉” | - | - |
+| ap_supply_lt_120_2025_5 | “洒金韵” | - | - |
+| ap_supply_lt_120_2025_6 | “临秋意” | - | - |
 | ap_supply_lt_60 | 应急理智合剂 | Emergency Sanity Potion | 初級理性回復剤 |
 | ap_supply_lt_80 | 应急理智加强剂 | Emergency Sanity Booster | 初級理性回復剤+ |
 | ap_supply_lt_80_2025_1 | 清爽运动饮料 | - | - |
@@ -4327,6 +4402,7 @@ Event | なないろのお茶会 |
 | token_ObsidianCoin_rep_1 | 黑曜石节抽奖代币 | Obsidian Festival Token | ガチャコイン |
 | token_Obsidian_rep_1 | 汐斯塔的黑曜石 | Siesta Obsidian | シエスタの黒曜石 |
 | token_Wristband | 黑曜石节手环 | Obsidian Festival Bracelet | リストバンド |
+| uni_set_BSsafehouse | 不义之财家具收藏包 | - | - |
 | uni_set_LAbbey | 空想花庭家具收藏包 | - | - |
 | uni_set_MemoryCloister_1 | 魂灵印象家具收藏包一 | Memories of the Souls Furniture Pack I | 魂の形家具パックvol.1 |
 | uni_set_MemoryCloister_2 | 魂灵印象家具收藏包二 | Memories of the Souls Furniture Pack II | 魂の形家具パックvol.2 |
@@ -4383,6 +4459,7 @@ Event | なないろのお茶会 |
 | voucher_full_bison | 拜松的私人信件 | Bison's Personal Letter | バイソンの手紙 |
 | voucher_full_bryota | 苍苔的私人信件 | - | - |
 | voucher_full_ceylon | 锡兰的私人信件 | Ceylon's Personal Letter | セイロンの手紙 |
+| voucher_full_coldst | 冰酿的私人信件 | - | - |
 | voucher_full_flameb | 炎客的私人信件 | Flamebringer's Personal Letter | エンカクの手紙 |
 | voucher_full_folnic | 亚叶的私人信件 | Folinic's Personal Letter | フォリニックの手紙 |
 | voucher_full_forcer | 见行者的私人信件 | Enforcer's Personal Letter | エンフォーサーの手紙 |
@@ -4591,6 +4668,7 @@ Event | なないろのお茶会 |
 | SPECIAL_54_0_5 | 定向甄选 | - | - |
 | SPECIAL_59_0_3 | 定向甄选 | - | - |
 | SPECIAL_61_0_3 | 定向甄选 | - | - |
+| SPECIAL_65_0_5 | 定向甄选 | - | - |
 | _ATTAIN_15_2_1 | - | Celebrate & Recollect | ロドスの道のり　回顧 |
 | _ATTAIN_22_1_2 | - | Celebration & Link-Up | ロドスの道のり・邂逅 |
 | _ATTAIN_28_0_2 | - | Celebration & Vista | ロドスの道のり・展望 |
@@ -5842,6 +5920,34 @@ Event | なないろのお茶会 |
 | sktok_larva | 汲营枯枝 | Twigs That Crave | 渇欲の枯枝 |
 | sktok_lasher_mcbird_1 | 上紧发条 | Winding Up | ゼンマイ巻き |
 | sktok_lasher_mcbird_2 | 权知轻重 | Weighing the Scales | 天秤の持ち手 |
+| sktok_lharen | 开打！ | - | - |
+| sktok_lhbat | 血之遗赠 | - | - |
+| sktok_lhblod | 血溃 | - | - |
+| sktok_lhbot | 探矿 | - | - |
+| sktok_lhcamp | 来客 | - | - |
+| sktok_lhcampa | 来客 | - | - |
+| sktok_lhcampb | 来客 | - | - |
+| sktok_lhcampc | 来客 | - | - |
+| sktok_lhcol | 借阅登记 | - | - |
+| sktok_lhcolb | 读书会 | - | - |
+| sktok_lhdoor | 空间跳跃 | - | - |
+| sktok_lheqp | 补给签收 | - | - |
+| sktok_lhfac | 污染处理 | - | - |
+| sktok_lhfacp | 超负荷运转 | - | - |
+| sktok_lhfarm | 回收利用 | - | - |
+| sktok_lhflwr | 打人树 | - | - |
+| sktok_lhhe | 灌溉 | - | - |
+| sktok_lhpad | 采摘 | - | - |
+| sktok_lhpad2 | 丰收 | - | - |
+| sktok_lhplt | 污染传播 | - | - |
+| sktok_lhport | 长途运输 | - | - |
+| sktok_lhrift | 来客 | - | - |
+| sktok_lhshop | 铸造 | - | - |
+| sktok_lhside | 信号增幅 | - | - |
+| sktok_lhswer | 来客 | - | - |
+| sktok_lhtown | 安防巡逻 | - | - |
+| sktok_lhupgd | 强化验收 | - | - |
+| sktok_lhvlg | 作战规划 | - | - |
 | sktok_ling_soul1 | 重进酒 | Sips of Wine | 重ねて酒を進み |
 | sktok_ling_soul2 | 笑鸣瑟 | Amidst Pleasant Melodies | 笑いて瑟を鼓せ |
 | sktok_ling_soul3 | 宁作吾 | To Remain Oneself | 寧ろ吾をなさん |
@@ -6541,6 +6647,21 @@ Event | なないろのお茶会 |
 | act1enemyduel_01b | 争锋试炼！ | - | - |
 | act1enemyduel_02a | 争锋对决！ | - | - |
 | act1enemyduel_02b | 争锋对决！ | - | - |
+| act1halfidle_01 | 旧城遗址 | - | - |
+| act1halfidle_02 | 风号峡谷 | - | - |
+| act1halfidle_03 | 坍塌矿区 | - | - |
+| act1halfidle_04 | 沉积河床 | - | - |
+| act1halfidle_05 | 斑斓巢穴 | - | - |
+| act1halfidle_06 | 猎骨荒野 | - | - |
+| act1halfidle_h01 | 岩溶险地 | - | - |
+| act1halfidle_h02 | 裂壕险地 | - | - |
+| act1halfidle_h03 | 孤隘险地 | - | - |
+| act1halfidle_h04 | 断岭险地 | - | - |
+| act1halfidle_h05 | 迷窟险地 | - | - |
+| act1halfidle_h06 | 蚀林险地 | - | - |
+| act1halfidle_h07 | 雾城险地 | - | - |
+| act1halfidle_h08 | 湖骸险地 | - | - |
+| act1halfidle_tr01 | 荒地前哨 | - | - |
 | act1lock_a-01 | 拂晓之处-认识 | Daybreak Point - Awareness | 黎明の域-認識 |
 | act1lock_a-02 | 拂晓之处-理想 | Daybreak Point - Ideal | 黎明の域-理想 |
 | act1lock_a-03 | 拂晓之处-感官 | Daybreak Point - Sense | 黎明の域-感官 |

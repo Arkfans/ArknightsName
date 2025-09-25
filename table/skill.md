@@ -1128,6 +1128,34 @@ tip: 请善用浏览器的搜索功能
 | sktok_larva | 汲营枯枝 | Twigs That Crave | 渇欲の枯枝 |
 | sktok_lasher_mcbird_1 | 上紧发条 | Winding Up | ゼンマイ巻き |
 | sktok_lasher_mcbird_2 | 权知轻重 | Weighing the Scales | 天秤の持ち手 |
+| sktok_lharen | 开打！ | - | - |
+| sktok_lhbat | 血之遗赠 | - | - |
+| sktok_lhblod | 血溃 | - | - |
+| sktok_lhbot | 探矿 | - | - |
+| sktok_lhcamp | 来客 | - | - |
+| sktok_lhcampa | 来客 | - | - |
+| sktok_lhcampb | 来客 | - | - |
+| sktok_lhcampc | 来客 | - | - |
+| sktok_lhcol | 借阅登记 | - | - |
+| sktok_lhcolb | 读书会 | - | - |
+| sktok_lhdoor | 空间跳跃 | - | - |
+| sktok_lheqp | 补给签收 | - | - |
+| sktok_lhfac | 污染处理 | - | - |
+| sktok_lhfacp | 超负荷运转 | - | - |
+| sktok_lhfarm | 回收利用 | - | - |
+| sktok_lhflwr | 打人树 | - | - |
+| sktok_lhhe | 灌溉 | - | - |
+| sktok_lhpad | 采摘 | - | - |
+| sktok_lhpad2 | 丰收 | - | - |
+| sktok_lhplt | 污染传播 | - | - |
+| sktok_lhport | 长途运输 | - | - |
+| sktok_lhrift | 来客 | - | - |
+| sktok_lhshop | 铸造 | - | - |
+| sktok_lhside | 信号增幅 | - | - |
+| sktok_lhswer | 来客 | - | - |
+| sktok_lhtown | 安防巡逻 | - | - |
+| sktok_lhupgd | 强化验收 | - | - |
+| sktok_lhvlg | 作战规划 | - | - |
 | sktok_ling_soul1 | 重进酒 | Sips of Wine | 重ねて酒を進み |
 | sktok_ling_soul2 | 笑鸣瑟 | Amidst Pleasant Melodies | 笑いて瑟を鼓せ |
 | sktok_ling_soul3 | 宁作吾 | To Remain Oneself | 寧ろ吾をなさん |

@@ -1333,6 +1333,51 @@
     "ja_JP": "勝利記念品",
     "zh_CN": "胜绩积分"
   },
+  "act1vhalfidle_asc_cst": {
+    "zh_CN": "术师进阶信物"
+  },
+  "act1vhalfidle_asc_grd": {
+    "zh_CN": "近卫进阶信物"
+  },
+  "act1vhalfidle_asc_med": {
+    "zh_CN": "医疗进阶信物"
+  },
+  "act1vhalfidle_asc_pio": {
+    "zh_CN": "先锋进阶信物"
+  },
+  "act1vhalfidle_asc_snp": {
+    "zh_CN": "狙击进阶信物"
+  },
+  "act1vhalfidle_asc_spc": {
+    "zh_CN": "特种进阶信物"
+  },
+  "act1vhalfidle_asc_sup": {
+    "zh_CN": "辅助进阶信物"
+  },
+  "act1vhalfidle_asc_tnk": {
+    "zh_CN": "重装进阶信物"
+  },
+  "act1vhalfidle_gacha_newplayer": {
+    "zh_CN": "精炼矿核"
+  },
+  "act1vhalfidle_gacha_normal": {
+    "zh_CN": "封装矿核"
+  },
+  "act1vhalfidle_itempack_asc": {
+    "zh_CN": "精英进阶信物"
+  },
+  "act1vhalfidle_level_exp": {
+    "zh_CN": "培训手册"
+  },
+  "act1vhalfidle_skill_exp": {
+    "zh_CN": "技巧手册"
+  },
+  "act1vhalfidle_strategy_point": {
+    "zh_CN": "策略信标"
+  },
+  "act1vhalfidle_token_point": {
+    "zh_CN": "资源点数"
+  },
   "act20side_token_book": {
     "en_US": "Photocopies of 'Stranger Things'",
     "ja_JP": "『奇談怪論』複製本",
@@ -2086,6 +2131,18 @@
   },
   "ap_supply_lt_120_2025_2": {
     "zh_CN": "量大管饱甜品拼盘"
+  },
+  "ap_supply_lt_120_2025_3": {
+    "zh_CN": "“广寒乐”"
+  },
+  "ap_supply_lt_120_2025_4": {
+    "zh_CN": "“清秋玉”"
+  },
+  "ap_supply_lt_120_2025_5": {
+    "zh_CN": "“洒金韵”"
+  },
+  "ap_supply_lt_120_2025_6": {
+    "zh_CN": "“临秋意”"
   },
   "ap_supply_lt_60": {
     "en_US": "Emergency Sanity Potion",
@@ -5687,6 +5744,9 @@
     "ja_JP": "リストバンド",
     "zh_CN": "黑曜石节手环"
   },
+  "uni_set_BSsafehouse": {
+    "zh_CN": "不义之财家具收藏包"
+  },
   "uni_set_LAbbey": {
     "zh_CN": "空想花庭家具收藏包"
   },
@@ -5952,6 +6012,9 @@
     "en_US": "Ceylon's Personal Letter",
     "ja_JP": "セイロンの手紙",
     "zh_CN": "锡兰的私人信件"
+  },
+  "voucher_full_coldst": {
+    "zh_CN": "冰酿的私人信件"
   },
   "voucher_full_flameb": {
     "en_US": "Flamebringer's Personal Letter",

@@ -483,6 +483,9 @@
     "ja_JP": "鋒矢突破",
     "zh_CN": "矢量突破"
   },
+  "act1vhalfidle": {
+    "zh_CN": "次生预案"
+  },
   "act1video": {
     "zh_CN": "留影烁今登录活动"
   },
@@ -1019,6 +1022,12 @@
   },
   "act51sign": {
     "zh_CN": "提线人偶的迎宾礼签到活动"
+  },
+  "act52sign": {
+    "zh_CN": "新生支点签到活动"
+  },
+  "act53sign": {
+    "zh_CN": "金樨迎月签到活动"
   },
   "act5bossrush": {
     "zh_CN": "引航者试炼"

@@ -1128,6 +1128,14 @@ tip: 请善用浏览器的搜索功能
 | enemy_1568_dirctr | “酒神” | - | - |
 | enemy_1569_ldevil | 莫菲丝 | - | - |
 | enemy_1570_ymgscm | 三船光平 | - | - |
+| enemy_18001_lhship | 运输汽艇 | - | - |
+| enemy_18002_lhbetl | 小颚虫 | - | - |
+| enemy_18003_lhkarb | 吸气乱动机 | - | - |
+| enemy_18004_lhbmom | 巨锹虫 | - | - |
+| enemy_18005_lhwand | “徘徊者” | - | - |
+| enemy_18006_lhprie | 恩慈祷者 | - | - |
+| enemy_18007_lhbque | 斑斓虫 | - | - |
+| enemy_18008_lhbbos | “老尖牙” | - | - |
 | enemy_2001_duckmi | 鸭爵 | Duck Lord | ダック卿 |
 | enemy_2002_bearmi | 高普尼克 | Gopnik | ゴプニク |
 | enemy_2003_rockman | 迷路的巨像 | Lost Colossus | 迷子の巨像 |

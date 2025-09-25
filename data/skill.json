@@ -5466,6 +5466,90 @@
     "ja_JP": "天秤の持ち手",
     "zh_CN": "权知轻重"
   },
+  "sktok_lharen": {
+    "zh_CN": "开打！"
+  },
+  "sktok_lhbat": {
+    "zh_CN": "血之遗赠"
+  },
+  "sktok_lhblod": {
+    "zh_CN": "血溃"
+  },
+  "sktok_lhbot": {
+    "zh_CN": "探矿"
+  },
+  "sktok_lhcamp": {
+    "zh_CN": "来客"
+  },
+  "sktok_lhcampa": {
+    "zh_CN": "来客"
+  },
+  "sktok_lhcampb": {
+    "zh_CN": "来客"
+  },
+  "sktok_lhcampc": {
+    "zh_CN": "来客"
+  },
+  "sktok_lhcol": {
+    "zh_CN": "借阅登记"
+  },
+  "sktok_lhcolb": {
+    "zh_CN": "读书会"
+  },
+  "sktok_lhdoor": {
+    "zh_CN": "空间跳跃"
+  },
+  "sktok_lheqp": {
+    "zh_CN": "补给签收"
+  },
+  "sktok_lhfac": {
+    "zh_CN": "污染处理"
+  },
+  "sktok_lhfacp": {
+    "zh_CN": "超负荷运转"
+  },
+  "sktok_lhfarm": {
+    "zh_CN": "回收利用"
+  },
+  "sktok_lhflwr": {
+    "zh_CN": "打人树"
+  },
+  "sktok_lhhe": {
+    "zh_CN": "灌溉"
+  },
+  "sktok_lhpad": {
+    "zh_CN": "采摘"
+  },
+  "sktok_lhpad2": {
+    "zh_CN": "丰收"
+  },
+  "sktok_lhplt": {
+    "zh_CN": "污染传播"
+  },
+  "sktok_lhport": {
+    "zh_CN": "长途运输"
+  },
+  "sktok_lhrift": {
+    "zh_CN": "来客"
+  },
+  "sktok_lhshop": {
+    "zh_CN": "铸造"
+  },
+  "sktok_lhside": {
+    "zh_CN": "信号增幅"
+  },
+  "sktok_lhswer": {
+    "zh_CN": "来客"
+  },
+  "sktok_lhtown": {
+    "zh_CN": "安防巡逻"
+  },
+  "sktok_lhupgd": {
+    "zh_CN": "强化验收"
+  },
+  "sktok_lhvlg": {
+    "zh_CN": "作战规划"
+  },
   "sktok_ling_soul1": {
     "en_US": "Sips of Wine",
     "ja_JP": "重ねて酒を進み",

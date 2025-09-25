@@ -210,8 +210,49 @@ tip: 请善用浏览器的搜索功能
 | trap_146_dhdcr | 天桩 | Sky Pole | 天杭 |
 | trap_147_spblls | 巫术弩炮 | Witchcraft Ballista | 巫術バリスタ |
 | trap_148_amblls | 幽影门扉 | Umbral Door | 幽影の扉 |
+| trap_1500_lhgras | 草丛 | - | - |
+| trap_1501_lhpark | 花丛 | - | - |
+| trap_1502_lhrock | 岩石 | - | - |
+| trap_1503_lhshan | 山脉 | - | - |
+| trap_1504_lhtree | 林地 | - | - |
+| trap_1505_lhfrst | 密林 | - | - |
+| trap_1506_lhhe | 河流 | - | - |
+| trap_1507_lhukmi | 富集矿区 | - | - |
+| trap_1508_lhmine | 源石矿场 | - | - |
+| trap_1509_lhbot | 勘探器 | - | - |
+| trap_1510_lhplt | 源石晶簇 | - | - |
+| trap_1511_lhfac | 晶簇稳定器 | - | - |
+| trap_1512_lhfarm | 源石回收炉 | - | - |
+| trap_1513_lhshop | 冶铸车 | - | - |
+| trap_1514_lhpad | 田地 | - | - |
+| trap_1515_lhfacp | 被污染的回收炉 | - | - |
+| trap_1516_lhnat | 供能基站 | - | - |
+| trap_1517_lhcol | 藏书馆 | - | - |
+| trap_1518_lhdoor | 改良巫术祭坛 | - | - |
+| trap_1519_lhrift | 巫术村落 | - | - |
 | trap_151_muruinw | 折叠式堡垒模块 | Foldable Bastion | 競技用格納式高台 |
+| trap_1520_lhcolb | 大图书馆 | - | - |
+| trap_1521_lhmagd | 术法岗哨 | - | - |
+| trap_1522_lhvlg | 先遣侦测器 | - | - |
+| trap_1523_lhtown | 侦测中心 | - | - |
+| trap_1524_lhport | 装卸机 | - | - |
+| trap_1525_lhswer | 水产村落 | - | - |
+| trap_1526_lharen | 冲突围栏 | - | - |
+| trap_1527_lhtwer | 警戒岗哨 | - | - |
+| trap_1528_lhruin | 废墟 | - | - |
+| trap_1529_lhsht | 岗哨 | - | - |
 | trap_152_muruino | 折叠式辅助器械 | Foldable Auxiliary Apparatus | 競技用格納式防壁 |
+| trap_1530_lhcamp | 荒野村落 | - | - |
+| trap_1531_lhcampa | 猎户村落 | - | - |
+| trap_1532_lhcampb | 山地村落 | - | - |
+| trap_1533_lhcampc | 牧场村落 | - | - |
+| trap_1534_lheqp | 插件补给点 | - | - |
+| trap_1535_lhupgd | 插件强化点 | - | - |
+| trap_1536_lhbat | 噬血诅地 | - | - |
+| trap_1537_lhside | 信号基站 | - | - |
+| trap_1538_lhblod | 血裔胞体 | - | - |
+| trap_1539_lhflwr | 精怪实验室 | - | - |
+| trap_1540_lhpad2 | 温室拱棚 | - | - |
 | trap_154_mugtps | 阵地屏障 | Positional Barrier | 陣地障壁 |
 | trap_155_aegiret | 航道信标 | Waterway Beacon | 航路ビーコン |
 | trap_156_dsshell | 赘生甲壳 | Excrescent Carapace | 増殖甲羅 |

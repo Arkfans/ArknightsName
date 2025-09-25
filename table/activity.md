@@ -106,6 +106,7 @@ tip: 请善用浏览器的搜索功能
 | act1unique | 九色鹿签到复刻活动 | Nine-Colored Deer Onboarding Event Retrospective | 九色鹿復刻スタンプラリー |
 | act1vautochess | 卫戍协议 | Stronghold Protocol | 堅守協定 |
 | act1vecb | 矢量突破 | Vector Breakthrough | 鋒矢突破 |
+| act1vhalfidle | 次生预案 | - | - |
 | act1video | 留影烁今登录活动 | - | - |
 | act20login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
 | act20side | 理想城：长夏狂欢季 | Ideal City: Endless Carnival | 理想都市-エンドレスカーニバル- |
@@ -229,6 +230,8 @@ Event | なないろのお茶会 |
 | act4switch | 时光的赠礼  | - | - |
 | act50sign | 风物留痕签到活动 | - | - |
 | act51sign | 提线人偶的迎宾礼签到活动 | - | - |
+| act52sign | 新生支点签到活动 | - | - |
+| act53sign | 金樨迎月签到活动 | - | - |
 | act5bossrush | 引航者试炼 | - | - |
 | act5collection | 御鼓吉音限时任务 | - | - |
 | act5d0 | 喧闹法则 | Code of Brawl | 喧騒の掟 |

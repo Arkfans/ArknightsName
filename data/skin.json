@@ -19,6 +19,9 @@
     "ja_JP": "名残",
     "zh_CN": "残余"
   },
+  "char_003_kalts@sale#14": {
+    "zh_CN": "时遗"
+  },
   "char_010_chen@nian#2": {
     "en_US": "Ageless Afterglow",
     "ja_JP": "歳紅霞",
@@ -46,6 +49,9 @@
     "en_US": "Dusk Wisteria",
     "ja_JP": "紫藤麗姿",
     "zh_CN": "暮影藤萝"
+  },
+  "char_1011_lava2@whirlwind#9": {
+    "zh_CN": "镇邪焱"
   },
   "char_1012_skadi2@boc#4": {
     "en_US": "Sublimation",
@@ -1425,6 +1431,9 @@
     "ja_JP": "ピースの間",
     "zh_CN": "碎片之间"
   },
+  "char_4017_puzzle@shining#3": {
+    "zh_CN": "冷色摇滚"
+  },
   "char_4019_ncdeer@ncdeer#1": {
     "en_US": "A Silvern Caress On the Flow of Time",
     "ja_JP": "古往今来の月",
@@ -1772,6 +1781,9 @@
     "en_US": "Phase Face",
     "ja_JP": "フェーズフェイス",
     "zh_CN": "相位面容"
+  },
+  "char_4155_talr@yun#9": {
+    "zh_CN": "桂影窗"
   },
   "char_415_flint@boc#3": {
     "en_US": "Gorgeous Flower",

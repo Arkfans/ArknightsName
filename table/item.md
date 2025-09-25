@@ -277,6 +277,21 @@ tip: 请善用浏览器的搜索功能
 | act1sandbox_milestone_point | 繁荣证章 | Badge of Prosperity | 繁栄の証 |
 | act1vautochess_token_chess | 卫戍认证 | Stronghold Credits | 堅守認証 |
 | act1vecb_milestone_point | 胜绩积分 | Attainment Point | 勝利記念品 |
+| act1vhalfidle_asc_cst | 术师进阶信物 | - | - |
+| act1vhalfidle_asc_grd | 近卫进阶信物 | - | - |
+| act1vhalfidle_asc_med | 医疗进阶信物 | - | - |
+| act1vhalfidle_asc_pio | 先锋进阶信物 | - | - |
+| act1vhalfidle_asc_snp | 狙击进阶信物 | - | - |
+| act1vhalfidle_asc_spc | 特种进阶信物 | - | - |
+| act1vhalfidle_asc_sup | 辅助进阶信物 | - | - |
+| act1vhalfidle_asc_tnk | 重装进阶信物 | - | - |
+| act1vhalfidle_gacha_newplayer | 精炼矿核 | - | - |
+| act1vhalfidle_gacha_normal | 封装矿核 | - | - |
+| act1vhalfidle_itempack_asc | 精英进阶信物 | - | - |
+| act1vhalfidle_level_exp | 培训手册 | - | - |
+| act1vhalfidle_skill_exp | 技巧手册 | - | - |
+| act1vhalfidle_strategy_point | 策略信标 | - | - |
+| act1vhalfidle_token_point | 资源点数 | - | - |
 | act20side_token_book | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
 | act20side_token_book_rep_1 | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
 | act21side_token_permesso | 进货通行证 | Permesso di Importazione | 買付許可証 |
@@ -441,6 +456,10 @@ tip: 请善用浏览器的搜索功能
 | ap_supply_lt_120_2024_6 | 阿米娅的生日蛋糕 | Amiya's Birthday Cake | アーミヤのバースデーケーキ |
 | ap_supply_lt_120_2025_1 | 1101生日糕点 | - | - |
 | ap_supply_lt_120_2025_2 | 量大管饱甜品拼盘 | - | - |
+| ap_supply_lt_120_2025_3 | “广寒乐” | - | - |
+| ap_supply_lt_120_2025_4 | “清秋玉” | - | - |
+| ap_supply_lt_120_2025_5 | “洒金韵” | - | - |
+| ap_supply_lt_120_2025_6 | “临秋意” | - | - |
 | ap_supply_lt_60 | 应急理智合剂 | Emergency Sanity Potion | 初級理性回復剤 |
 | ap_supply_lt_80 | 应急理智加强剂 | Emergency Sanity Booster | 初級理性回復剤+ |
 | ap_supply_lt_80_2025_1 | 清爽运动饮料 | - | - |
@@ -1179,6 +1198,7 @@ tip: 请善用浏览器的搜索功能
 | token_ObsidianCoin_rep_1 | 黑曜石节抽奖代币 | Obsidian Festival Token | ガチャコイン |
 | token_Obsidian_rep_1 | 汐斯塔的黑曜石 | Siesta Obsidian | シエスタの黒曜石 |
 | token_Wristband | 黑曜石节手环 | Obsidian Festival Bracelet | リストバンド |
+| uni_set_BSsafehouse | 不义之财家具收藏包 | - | - |
 | uni_set_LAbbey | 空想花庭家具收藏包 | - | - |
 | uni_set_MemoryCloister_1 | 魂灵印象家具收藏包一 | Memories of the Souls Furniture Pack I | 魂の形家具パックvol.1 |
 | uni_set_MemoryCloister_2 | 魂灵印象家具收藏包二 | Memories of the Souls Furniture Pack II | 魂の形家具パックvol.2 |
@@ -1235,6 +1255,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_full_bison | 拜松的私人信件 | Bison's Personal Letter | バイソンの手紙 |
 | voucher_full_bryota | 苍苔的私人信件 | - | - |
 | voucher_full_ceylon | 锡兰的私人信件 | Ceylon's Personal Letter | セイロンの手紙 |
+| voucher_full_coldst | 冰酿的私人信件 | - | - |
 | voucher_full_flameb | 炎客的私人信件 | Flamebringer's Personal Letter | エンカクの手紙 |
 | voucher_full_folnic | 亚叶的私人信件 | Folinic's Personal Letter | フォリニックの手紙 |
 | voucher_full_forcer | 见行者的私人信件 | Enforcer's Personal Letter | エンフォーサーの手紙 |

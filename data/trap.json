@@ -1024,15 +1024,138 @@
     "ja_JP": "幽影の扉",
     "zh_CN": "幽影门扉"
   },
+  "trap_1500_lhgras": {
+    "zh_CN": "草丛"
+  },
+  "trap_1501_lhpark": {
+    "zh_CN": "花丛"
+  },
+  "trap_1502_lhrock": {
+    "zh_CN": "岩石"
+  },
+  "trap_1503_lhshan": {
+    "zh_CN": "山脉"
+  },
+  "trap_1504_lhtree": {
+    "zh_CN": "林地"
+  },
+  "trap_1505_lhfrst": {
+    "zh_CN": "密林"
+  },
+  "trap_1506_lhhe": {
+    "zh_CN": "河流"
+  },
+  "trap_1507_lhukmi": {
+    "zh_CN": "富集矿区"
+  },
+  "trap_1508_lhmine": {
+    "zh_CN": "源石矿场"
+  },
+  "trap_1509_lhbot": {
+    "zh_CN": "勘探器"
+  },
+  "trap_1510_lhplt": {
+    "zh_CN": "源石晶簇"
+  },
+  "trap_1511_lhfac": {
+    "zh_CN": "晶簇稳定器"
+  },
+  "trap_1512_lhfarm": {
+    "zh_CN": "源石回收炉"
+  },
+  "trap_1513_lhshop": {
+    "zh_CN": "冶铸车"
+  },
+  "trap_1514_lhpad": {
+    "zh_CN": "田地"
+  },
+  "trap_1515_lhfacp": {
+    "zh_CN": "被污染的回收炉"
+  },
+  "trap_1516_lhnat": {
+    "zh_CN": "供能基站"
+  },
+  "trap_1517_lhcol": {
+    "zh_CN": "藏书馆"
+  },
+  "trap_1518_lhdoor": {
+    "zh_CN": "改良巫术祭坛"
+  },
+  "trap_1519_lhrift": {
+    "zh_CN": "巫术村落"
+  },
   "trap_151_muruinw": {
     "en_US": "Foldable Bastion",
     "ja_JP": "競技用格納式高台",
     "zh_CN": "折叠式堡垒模块"
   },
+  "trap_1520_lhcolb": {
+    "zh_CN": "大图书馆"
+  },
+  "trap_1521_lhmagd": {
+    "zh_CN": "术法岗哨"
+  },
+  "trap_1522_lhvlg": {
+    "zh_CN": "先遣侦测器"
+  },
+  "trap_1523_lhtown": {
+    "zh_CN": "侦测中心"
+  },
+  "trap_1524_lhport": {
+    "zh_CN": "装卸机"
+  },
+  "trap_1525_lhswer": {
+    "zh_CN": "水产村落"
+  },
+  "trap_1526_lharen": {
+    "zh_CN": "冲突围栏"
+  },
+  "trap_1527_lhtwer": {
+    "zh_CN": "警戒岗哨"
+  },
+  "trap_1528_lhruin": {
+    "zh_CN": "废墟"
+  },
+  "trap_1529_lhsht": {
+    "zh_CN": "岗哨"
+  },
   "trap_152_muruino": {
     "en_US": "Foldable Auxiliary Apparatus",
     "ja_JP": "競技用格納式防壁",
     "zh_CN": "折叠式辅助器械"
+  },
+  "trap_1530_lhcamp": {
+    "zh_CN": "荒野村落"
+  },
+  "trap_1531_lhcampa": {
+    "zh_CN": "猎户村落"
+  },
+  "trap_1532_lhcampb": {
+    "zh_CN": "山地村落"
+  },
+  "trap_1533_lhcampc": {
+    "zh_CN": "牧场村落"
+  },
+  "trap_1534_lheqp": {
+    "zh_CN": "插件补给点"
+  },
+  "trap_1535_lhupgd": {
+    "zh_CN": "插件强化点"
+  },
+  "trap_1536_lhbat": {
+    "zh_CN": "噬血诅地"
+  },
+  "trap_1537_lhside": {
+    "zh_CN": "信号基站"
+  },
+  "trap_1538_lhblod": {
+    "zh_CN": "血裔胞体"
+  },
+  "trap_1539_lhflwr": {
+    "zh_CN": "精怪实验室"
+  },
+  "trap_1540_lhpad2": {
+    "zh_CN": "温室拱棚"
   },
   "trap_154_mugtps": {
     "en_US": "Positional Barrier",

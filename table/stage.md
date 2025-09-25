@@ -424,6 +424,21 @@ tip: 请善用浏览器的搜索功能
 | act1enemyduel_01b | 争锋试炼！ | - | - |
 | act1enemyduel_02a | 争锋对决！ | - | - |
 | act1enemyduel_02b | 争锋对决！ | - | - |
+| act1halfidle_01 | 旧城遗址 | - | - |
+| act1halfidle_02 | 风号峡谷 | - | - |
+| act1halfidle_03 | 坍塌矿区 | - | - |
+| act1halfidle_04 | 沉积河床 | - | - |
+| act1halfidle_05 | 斑斓巢穴 | - | - |
+| act1halfidle_06 | 猎骨荒野 | - | - |
+| act1halfidle_h01 | 岩溶险地 | - | - |
+| act1halfidle_h02 | 裂壕险地 | - | - |
+| act1halfidle_h03 | 孤隘险地 | - | - |
+| act1halfidle_h04 | 断岭险地 | - | - |
+| act1halfidle_h05 | 迷窟险地 | - | - |
+| act1halfidle_h06 | 蚀林险地 | - | - |
+| act1halfidle_h07 | 雾城险地 | - | - |
+| act1halfidle_h08 | 湖骸险地 | - | - |
+| act1halfidle_tr01 | 荒地前哨 | - | - |
 | act1lock_a-01 | 拂晓之处-认识 | Daybreak Point - Awareness | 黎明の域-認識 |
 | act1lock_a-02 | 拂晓之处-理想 | Daybreak Point - Ideal | 黎明の域-理想 |
 | act1lock_a-03 | 拂晓之处-感官 | Daybreak Point - Sense | 黎明の域-感官 |

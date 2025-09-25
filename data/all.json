@@ -5353,6 +5353,126 @@
       "zh_CN": "幽影门扉"
     }
   },
+  "trap_1500_lhgras": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "草丛"
+    }
+  },
+  "trap_1501_lhpark": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "花丛"
+    }
+  },
+  "trap_1502_lhrock": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "岩石"
+    }
+  },
+  "trap_1503_lhshan": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "山脉"
+    }
+  },
+  "trap_1504_lhtree": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "林地"
+    }
+  },
+  "trap_1505_lhfrst": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "密林"
+    }
+  },
+  "trap_1506_lhhe": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "河流"
+    }
+  },
+  "trap_1507_lhukmi": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "富集矿区"
+    }
+  },
+  "trap_1508_lhmine": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "源石矿场"
+    }
+  },
+  "trap_1509_lhbot": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "勘探器"
+    }
+  },
+  "trap_1510_lhplt": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "源石晶簇"
+    }
+  },
+  "trap_1511_lhfac": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "晶簇稳定器"
+    }
+  },
+  "trap_1512_lhfarm": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "源石回收炉"
+    }
+  },
+  "trap_1513_lhshop": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "冶铸车"
+    }
+  },
+  "trap_1514_lhpad": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "田地"
+    }
+  },
+  "trap_1515_lhfacp": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "被污染的回收炉"
+    }
+  },
+  "trap_1516_lhnat": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "供能基站"
+    }
+  },
+  "trap_1517_lhcol": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "藏书馆"
+    }
+  },
+  "trap_1518_lhdoor": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "改良巫术祭坛"
+    }
+  },
+  "trap_1519_lhrift": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "巫术村落"
+    }
+  },
   "trap_151_muruinw": {
     "type": "TRAP",
     "names": {
@@ -5361,12 +5481,138 @@
       "zh_CN": "折叠式堡垒模块"
     }
   },
+  "trap_1520_lhcolb": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "大图书馆"
+    }
+  },
+  "trap_1521_lhmagd": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "术法岗哨"
+    }
+  },
+  "trap_1522_lhvlg": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "先遣侦测器"
+    }
+  },
+  "trap_1523_lhtown": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "侦测中心"
+    }
+  },
+  "trap_1524_lhport": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "装卸机"
+    }
+  },
+  "trap_1525_lhswer": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "水产村落"
+    }
+  },
+  "trap_1526_lharen": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "冲突围栏"
+    }
+  },
+  "trap_1527_lhtwer": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "警戒岗哨"
+    }
+  },
+  "trap_1528_lhruin": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "废墟"
+    }
+  },
+  "trap_1529_lhsht": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "岗哨"
+    }
+  },
   "trap_152_muruino": {
     "type": "TRAP",
     "names": {
       "en_US": "Foldable Auxiliary Apparatus",
       "ja_JP": "競技用格納式防壁",
       "zh_CN": "折叠式辅助器械"
+    }
+  },
+  "trap_1530_lhcamp": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "荒野村落"
+    }
+  },
+  "trap_1531_lhcampa": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "猎户村落"
+    }
+  },
+  "trap_1532_lhcampb": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "山地村落"
+    }
+  },
+  "trap_1533_lhcampc": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "牧场村落"
+    }
+  },
+  "trap_1534_lheqp": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "插件补给点"
+    }
+  },
+  "trap_1535_lhupgd": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "插件强化点"
+    }
+  },
+  "trap_1536_lhbat": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "噬血诅地"
+    }
+  },
+  "trap_1537_lhside": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "信号基站"
+    }
+  },
+  "trap_1538_lhblod": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "血裔胞体"
+    }
+  },
+  "trap_1539_lhflwr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "精怪实验室"
+    }
+  },
+  "trap_1540_lhpad2": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "温室拱棚"
     }
   },
   "trap_154_mugtps": {
@@ -7633,6 +7879,12 @@
       "zh_CN": "残余"
     }
   },
+  "char_003_kalts@sale#14": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "时遗"
+    }
+  },
   "char_010_chen@nian#2": {
     "type": "SKIN",
     "names": {
@@ -7677,6 +7929,12 @@
       "en_US": "Dusk Wisteria",
       "ja_JP": "紫藤麗姿",
       "zh_CN": "暮影藤萝"
+    }
+  },
+  "char_1011_lava2@whirlwind#9": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "镇邪焱"
     }
   },
   "char_1012_skadi2@boc#4": {
@@ -9903,6 +10161,12 @@
       "zh_CN": "碎片之间"
     }
   },
+  "char_4017_puzzle@shining#3": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "冷色摇滚"
+    }
+  },
   "char_4019_ncdeer@ncdeer#1": {
     "type": "SKIN",
     "names": {
@@ -10477,6 +10741,12 @@
       "en_US": "Phase Face",
       "ja_JP": "フェーズフェイス",
       "zh_CN": "相位面容"
+    }
+  },
+  "char_4155_talr@yun#9": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "桂影窗"
     }
   },
   "char_415_flint@boc#3": {
@@ -19917,6 +20187,54 @@
       "zh_CN": "三船光平"
     }
   },
+  "enemy_18001_lhship": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "运输汽艇"
+    }
+  },
+  "enemy_18002_lhbetl": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "小颚虫"
+    }
+  },
+  "enemy_18003_lhkarb": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "吸气乱动机"
+    }
+  },
+  "enemy_18004_lhbmom": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "巨锹虫"
+    }
+  },
+  "enemy_18005_lhwand": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“徘徊者”"
+    }
+  },
+  "enemy_18006_lhprie": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "恩慈祷者"
+    }
+  },
+  "enemy_18007_lhbque": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "斑斓虫"
+    }
+  },
+  "enemy_18008_lhbbos": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“老尖牙”"
+    }
+  },
   "enemy_2001_duckmi": {
     "type": "ENEMY",
     "names": {
@@ -22987,6 +23305,12 @@
       "zh_CN": "矢量突破"
     }
   },
+  "act1vhalfidle": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "次生预案"
+    }
+  },
   "act1video": {
     "type": "ACTIVITY",
     "names": {
@@ -23870,6 +24194,18 @@
     "type": "ACTIVITY",
     "names": {
       "zh_CN": "提线人偶的迎宾礼签到活动"
+    }
+  },
+  "act52sign": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "新生支点签到活动"
+    }
+  },
+  "act53sign": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "金樨迎月签到活动"
     }
   },
   "act5bossrush": {
@@ -26650,6 +26986,96 @@
       "zh_CN": "胜绩积分"
     }
   },
+  "act1vhalfidle_asc_cst": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "术师进阶信物"
+    }
+  },
+  "act1vhalfidle_asc_grd": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "近卫进阶信物"
+    }
+  },
+  "act1vhalfidle_asc_med": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "医疗进阶信物"
+    }
+  },
+  "act1vhalfidle_asc_pio": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "先锋进阶信物"
+    }
+  },
+  "act1vhalfidle_asc_snp": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "狙击进阶信物"
+    }
+  },
+  "act1vhalfidle_asc_spc": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "特种进阶信物"
+    }
+  },
+  "act1vhalfidle_asc_sup": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "辅助进阶信物"
+    }
+  },
+  "act1vhalfidle_asc_tnk": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "重装进阶信物"
+    }
+  },
+  "act1vhalfidle_gacha_newplayer": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "精炼矿核"
+    }
+  },
+  "act1vhalfidle_gacha_normal": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "封装矿核"
+    }
+  },
+  "act1vhalfidle_itempack_asc": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "精英进阶信物"
+    }
+  },
+  "act1vhalfidle_level_exp": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "培训手册"
+    }
+  },
+  "act1vhalfidle_skill_exp": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "技巧手册"
+    }
+  },
+  "act1vhalfidle_strategy_point": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "策略信标"
+    }
+  },
+  "act1vhalfidle_token_point": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "资源点数"
+    }
+  },
   "act20side_token_book": {
     "type": "ITEM",
     "names": {
@@ -27885,6 +28311,30 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "量大管饱甜品拼盘"
+    }
+  },
+  "ap_supply_lt_120_2025_3": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "“广寒乐”"
+    }
+  },
+  "ap_supply_lt_120_2025_4": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "“清秋玉”"
+    }
+  },
+  "ap_supply_lt_120_2025_5": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "“洒金韵”"
+    }
+  },
+  "ap_supply_lt_120_2025_6": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "“临秋意”"
     }
   },
   "ap_supply_lt_60": {
@@ -33701,6 +34151,12 @@
       "zh_CN": "黑曜石节手环"
     }
   },
+  "uni_set_BSsafehouse": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "不义之财家具收藏包"
+    }
+  },
   "uni_set_LAbbey": {
     "type": "ITEM",
     "names": {
@@ -34133,6 +34589,12 @@
       "en_US": "Ceylon's Personal Letter",
       "ja_JP": "セイロンの手紙",
       "zh_CN": "锡兰的私人信件"
+    }
+  },
+  "voucher_full_coldst": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "冰酿的私人信件"
     }
   },
   "voucher_full_flameb": {
@@ -35546,6 +36008,12 @@
     }
   },
   "SPECIAL_61_0_3": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "定向甄选"
+    }
+  },
+  "SPECIAL_65_0_5": {
     "type": "POOL",
     "names": {
       "zh_CN": "定向甄选"
@@ -45280,6 +45748,174 @@
       "zh_CN": "权知轻重"
     }
   },
+  "sktok_lharen": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "开打！"
+    }
+  },
+  "sktok_lhbat": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "血之遗赠"
+    }
+  },
+  "sktok_lhblod": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "血溃"
+    }
+  },
+  "sktok_lhbot": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "探矿"
+    }
+  },
+  "sktok_lhcamp": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "来客"
+    }
+  },
+  "sktok_lhcampa": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "来客"
+    }
+  },
+  "sktok_lhcampb": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "来客"
+    }
+  },
+  "sktok_lhcampc": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "来客"
+    }
+  },
+  "sktok_lhcol": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "借阅登记"
+    }
+  },
+  "sktok_lhcolb": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "读书会"
+    }
+  },
+  "sktok_lhdoor": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "空间跳跃"
+    }
+  },
+  "sktok_lheqp": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "补给签收"
+    }
+  },
+  "sktok_lhfac": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "污染处理"
+    }
+  },
+  "sktok_lhfacp": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "超负荷运转"
+    }
+  },
+  "sktok_lhfarm": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "回收利用"
+    }
+  },
+  "sktok_lhflwr": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "打人树"
+    }
+  },
+  "sktok_lhhe": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "灌溉"
+    }
+  },
+  "sktok_lhpad": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "采摘"
+    }
+  },
+  "sktok_lhpad2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "丰收"
+    }
+  },
+  "sktok_lhplt": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "污染传播"
+    }
+  },
+  "sktok_lhport": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "长途运输"
+    }
+  },
+  "sktok_lhrift": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "来客"
+    }
+  },
+  "sktok_lhshop": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "铸造"
+    }
+  },
+  "sktok_lhside": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "信号增幅"
+    }
+  },
+  "sktok_lhswer": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "来客"
+    }
+  },
+  "sktok_lhtown": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "安防巡逻"
+    }
+  },
+  "sktok_lhupgd": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "强化验收"
+    }
+  },
+  "sktok_lhvlg": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "作战规划"
+    }
+  },
   "sktok_ling_soul1": {
     "type": "SKILL",
     "names": {
@@ -50738,6 +51374,96 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "争锋对决！"
+    }
+  },
+  "act1halfidle_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "旧城遗址"
+    }
+  },
+  "act1halfidle_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "风号峡谷"
+    }
+  },
+  "act1halfidle_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "坍塌矿区"
+    }
+  },
+  "act1halfidle_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "沉积河床"
+    }
+  },
+  "act1halfidle_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "斑斓巢穴"
+    }
+  },
+  "act1halfidle_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "猎骨荒野"
+    }
+  },
+  "act1halfidle_h01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "岩溶险地"
+    }
+  },
+  "act1halfidle_h02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "裂壕险地"
+    }
+  },
+  "act1halfidle_h03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "孤隘险地"
+    }
+  },
+  "act1halfidle_h04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "断岭险地"
+    }
+  },
+  "act1halfidle_h05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "迷窟险地"
+    }
+  },
+  "act1halfidle_h06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "蚀林险地"
+    }
+  },
+  "act1halfidle_h07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "雾城险地"
+    }
+  },
+  "act1halfidle_h08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "湖骸险地"
+    }
+  },
+  "act1halfidle_tr01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "荒地前哨"
     }
   },
   "act1lock_a-01": {

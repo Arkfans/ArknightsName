@@ -2002,6 +2002,51 @@
   "act1enemyduel_02b": {
     "zh_CN": "争锋对决！"
   },
+  "act1halfidle_01": {
+    "zh_CN": "旧城遗址"
+  },
+  "act1halfidle_02": {
+    "zh_CN": "风号峡谷"
+  },
+  "act1halfidle_03": {
+    "zh_CN": "坍塌矿区"
+  },
+  "act1halfidle_04": {
+    "zh_CN": "沉积河床"
+  },
+  "act1halfidle_05": {
+    "zh_CN": "斑斓巢穴"
+  },
+  "act1halfidle_06": {
+    "zh_CN": "猎骨荒野"
+  },
+  "act1halfidle_h01": {
+    "zh_CN": "岩溶险地"
+  },
+  "act1halfidle_h02": {
+    "zh_CN": "裂壕险地"
+  },
+  "act1halfidle_h03": {
+    "zh_CN": "孤隘险地"
+  },
+  "act1halfidle_h04": {
+    "zh_CN": "断岭险地"
+  },
+  "act1halfidle_h05": {
+    "zh_CN": "迷窟险地"
+  },
+  "act1halfidle_h06": {
+    "zh_CN": "蚀林险地"
+  },
+  "act1halfidle_h07": {
+    "zh_CN": "雾城险地"
+  },
+  "act1halfidle_h08": {
+    "zh_CN": "湖骸险地"
+  },
+  "act1halfidle_tr01": {
+    "zh_CN": "荒地前哨"
+  },
   "act1lock_a-01": {
     "en_US": "Daybreak Point - Awareness",
     "ja_JP": "黎明の域-認識",
