@@ -157,7 +157,7 @@ tip: 请善用浏览器的搜索功能
 | act29sre_zone2 | 恩典永恒 | Die Gnade ist ewig | 恩寵は永遠に |
 | act29sre_zone3 | 权威无情 | Die Macht ist grimm | 大権に情なく |
 | act2bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
-| act2mainss_zone1 | 离解复合 | - | - |
+| act2mainss_zone1 | 离解复合 | Dissociative Recombination | 解離結合 |
 | act30side_zone1 | 三号站台 | Platform No. 3 | 3番ホーム |
 | act30side_zone2 | 特快列车 | Express Train | 特急列車 |
 | act30sre_zone1 | 三号站台 | Platform No. 3 | 3番ホーム |
@@ -173,9 +173,9 @@ tip: 请善用浏览器的搜索功能
 | act33side_zone1 | 我赠予未来 | You the Future, Take My Gifts | 未来を贈らん |
 | act33side_zone2 | 我驻留往昔 | You the Past, Ward Me Firmly | 昔日に残れり |
 | act33side_zone3 | 我始终如一 | You the Constant, You Are Me | 我は我なり |
-| act33sre_zone1 | 我赠予未来 | - | - |
-| act33sre_zone2 | 我驻留往昔 | - | - |
-| act33sre_zone3 | 我始终如一 | - | - |
+| act33sre_zone1 | 我赠予未来 | You the Future, Take My Gifts | 未来を贈らん |
+| act33sre_zone2 | 我驻留往昔 | You the Past, Ward Me Firmly | 昔日に残れり |
+| act33sre_zone3 | 我始终如一 | You the Constant, You Are Me | 我は我なり |
 | act34side_zone1 | 信标投放 | Deploy Beacons | ビーコン設置 |
 | act34side_zone2 | 防线巩固 | Fortify Defense | 防衛線強化 |
 | act34sre_zone1 | 信标投放 | - | - |
@@ -249,7 +249,7 @@ tip: 请善用浏览器的搜索功能
 | main_7 | 苦难摇篮 | The Birth of Tragedy | 苦難揺籃 |
 | main_8 | 怒号光明 | Roaring Flare | 怒号光明 |
 | main_9 | 风暴瞭望 | Stormwatch | 暴風眺望 |
-| permanent_main_1_zone1 | 离解复合 | - | - |
+| permanent_main_1_zone1 | 离解复合 | Dissociative Recombination | 解離結合 |
 | permanent_sidestory_10_zone1 | 大骑士领 | Kawalerielki | 大騎士領 |
 | permanent_sidestory_10_zone2 | 零号地块 | Area 0 | 零号地 |
 | permanent_sidestory_10_zone3 | 城市霓虹 | City Neon | 都市のネオン |

@@ -190,9 +190,13 @@
     "zh_CN": "信影流·十文字胜"
   },
   "skchr_alanna_1": {
+    "en_US": "Pneumatic Power-Up",
+    "ja_JP": "エアブースター",
     "zh_CN": "气动增压"
   },
   "skchr_alanna_2": {
+    "en_US": "'Million-Pound Jack'",
+    "ja_JP": "ウルトラジャッキ",
     "zh_CN": "“万斤顶”"
   },
   "skchr_almond_1": {
@@ -2337,12 +2341,18 @@
     "zh_CN": "磁爆锤"
   },
   "skchr_monstr_1": {
+    "en_US": "Stratagem: Hyperpressurized Link",
+    "ja_JP": "戦術：過圧力連結",
     "zh_CN": "策略：超压链接"
   },
   "skchr_monstr_2": {
+    "en_US": "Stratagem: Overload",
+    "ja_JP": "戦術：超飽和治療",
     "zh_CN": "策略：超负荷"
   },
   "skchr_monstr_3": {
+    "en_US": "Stratagem: Meltdown",
+    "ja_JP": "戦術：メルトダウン",
     "zh_CN": "策略：熔毁"
   },
   "skchr_morgan_1": {
@@ -3781,9 +3791,13 @@
     "zh_CN": "爆裂黎明"
   },
   "skchr_wscoot_1": {
+    "en_US": "The Best Defense",
+    "ja_JP": "攻防一如",
     "zh_CN": "以攻为守"
   },
   "skchr_wscoot_2": {
+    "en_US": "Unerring Proficiency",
+    "ja_JP": "快刀連斬",
     "zh_CN": "招无虚发"
   },
   "skchr_wulfen_1": {
@@ -5709,12 +5723,18 @@
     "zh_CN": "流形"
   },
   "sktok_monstr_prosts1": {
+    "en_US": "Stratagem: Hyperpressurized Link",
+    "ja_JP": "戦術：過圧力連結",
     "zh_CN": "策略：超压链接"
   },
   "sktok_monstr_prosts2": {
+    "en_US": "Stratagem: Overload",
+    "ja_JP": "戦術：超飽和治療",
     "zh_CN": "策略：超负荷"
   },
   "sktok_monstr_prosts3": {
+    "en_US": "Stratagem: Meltdown",
+    "ja_JP": "戦術：メルトダウン",
     "zh_CN": "策略：熔毁"
   },
   "sktok_motter_1": {
@@ -5733,9 +5753,13 @@
     "zh_CN": "风沙掩体"
   },
   "sktok_mptxs_1": {
+    "en_US": "Brandish",
+    "ja_JP": "斬撃",
     "zh_CN": "挥砍"
   },
   "sktok_mpweak_1": {
+    "en_US": "Weakening",
+    "ja_JP": "弱体化",
     "zh_CN": "弱化"
   },
   "sktok_muctrl": {

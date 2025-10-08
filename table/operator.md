@@ -322,8 +322,8 @@ tip: 请善用浏览器的搜索功能
 | char_4172_xingzh | 行箸 | Xingzhu | シィンズゥ |
 | char_4173_nowell | 诺威尔 | Nowell | ノウエル |
 | char_4177_brigid | 水灯心 | Brigid | ブリギッド |
-| char_4178_alanna | 阿兰娜 | - | - |
-| char_4179_monstr | Mon3tr | - | - |
+| char_4178_alanna | 阿兰娜 | Alanna | アランナ |
+| char_4179_monstr | Mon3tr | Mon3tr | Mon3tr |
 | char_4182_oblvns | 丰川祥子 | - | - |
 | char_4183_mortis | 若叶睦 | - | - |
 | char_4184_dolris | 三角初华 | - | - |
@@ -352,7 +352,7 @@ tip: 请善用浏览器的搜索功能
 | char_436_whispr | 絮雨 | Whisperain | ウィスパーレイン |
 | char_437_mizuki | 水月 | Mizuki | ミヅキ |
 | char_440_pinecn | 松果 | Pinecone | パインコーン |
-| char_445_wscoot | 骋风 | - | - |
+| char_445_wscoot | 骋风 | Windscoot | ウィンドスクート |
 | char_446_aroma | 阿罗玛 | Aroma | アロマ |
 | char_449_glider | 蜜莓 | Honeyberry | ハニーベリー |
 | char_450_necras | 死芒 | Necrass | ネクラス |

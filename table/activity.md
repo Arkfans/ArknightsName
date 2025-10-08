@@ -145,7 +145,7 @@ tip: 请善用浏览器的搜索功能
 | act29side | 崔林特尔梅之金 | Zwillingstürme im Herbst | ツヴィリングトゥルムの黄金 |
 | act29sign | 桂时逢月——月饼烘焙小教程 | Encounter At The Osmanthus Blossom - Mooncake-Making Tutorial | 円満団楽-ロドス点心教室 |
 | act29sre | 崔林特尔梅之金·复刻 | Zwillingstürme im Herbst - Rerun | ツヴィリングトゥルムの黄金・復刻 |
-| act2access | 活动推荐月卡 | - | - |
+| act2access | 活动推荐月卡 | Recommended Monthly Card | 大感謝祭月パス |
 | act2blessing | 2025罗德岛新春签到 | 2025 Festival Sign-In | 5.5周年スタンプラリー |
 | act2bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act2collection | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
@@ -153,7 +153,7 @@ tip: 请善用浏览器的搜索功能
 | act2d8 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act2enemyduel | 争锋频道：蜜果城 | - | - |
 | act2float | 铁腕城产业合作洽谈会 | Iron Fist City Industry Cooperation Forum | アイアンリストシティ産業懇談会 |
-| act2mainss | 离解复合 | - | - |
+| act2mainss | 离解复合 | Dissociative Recombination | 解離結合 |
 | act2mine | 波平谷矿区登录活动 | Popping Valley Mining Area Login Event | ポッピングバレー採鉱区 |
 | act2pray | 双日城惊奇墙 | Dossoles Amazing Wall | ドッソレススクラッチ |
 | act2signvs | 端阳正午签到活动 | May the Sunshine Still Sign-In Event | スタンプラリー |
@@ -170,7 +170,7 @@ tip: 请善用浏览器的搜索功能
 | act32sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act33side | 巴别塔 | Babel | バベル |
 | act33sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
-| act33sre | 巴别塔·复刻 | - | - |
+| act33sre | 巴别塔·复刻 | Babel - Rerun | バベル・復刻 |
 | act34side | 生路 | Path of Life | 生存航路 |
 | act34sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act34sre | 生路·复刻 | - | - |

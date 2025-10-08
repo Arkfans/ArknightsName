@@ -322,14 +322,14 @@ tip: 请善用浏览器的搜索功能
 | trap_224_dyrbox | 铁葫芦 | - | - |
 | trap_225_dysbox | 怪葫芦 | - | - |
 | trap_226_dychss | 瑕 | - | - |
-| trap_227_mpweak | 弱化节点 | - | - |
-| trap_228_mptxs | 特雷西斯 | - | - |
-| trap_229_mpcata | 冰镇饮料机 | - | - |
-| trap_230_mpcatab | 加热饮料机 | - | - |
-| trap_231_mpgrou | “寒灾回响” | - | - |
-| trap_232_mpgroub | “风雪中的影子” | - | - |
-| trap_233_mpmage | 稳定态萨卡兹术师结晶 | - | - |
-| trap_234_mpmageb | 活性态萨卡兹术师结晶 | - | - |
+| trap_227_mpweak | 弱化节点 | Weakening Node | 弱体化ノード |
+| trap_228_mptxs | 特雷西斯 | Theresis | テレシス |
+| trap_229_mpcata | 冰镇饮料机 | Cold Drink Machine | アイスドリンクマシン |
+| trap_230_mpcatab | 加热饮料机 | Hot Drink Machine | ホットドリンクマシン |
+| trap_231_mpgrou | “寒灾回响” | 'Frozen Monstrosity's Echo' | 「寒災の残響」 |
+| trap_232_mpgroub | “风雪中的影子” | 'Shadow in the Snow' | 「風雪の中の影」 |
+| trap_233_mpmage | 稳定态萨卡兹术师结晶 | Stable Sarkaz Caster Crystal | 定常状態サルカズ術師結晶 |
+| trap_234_mpmageb | 活性态萨卡兹术师结晶 | Active Sarkaz Caster Crystal | 活性状態サルカズ術師結晶 |
 | trap_235_hlnpcm | 圣徒像扮演者 | - | - |
 | trap_236_hlnpcs | 圣堂射手扮演者 | - | - |
 | trap_237_hlnpcb | 圣堂保育员扮演者 | - | - |

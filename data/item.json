@@ -305,6 +305,8 @@
     "zh_CN": "烧结核凝晶"
   },
   "30165": {
+    "en_US": "Rephasic Enantiomer",
+    "ja_JP": "重相位鏡像体",
     "zh_CN": "重相位对映体"
   },
   "31013": {
@@ -393,9 +395,13 @@
     "zh_CN": "环烃预制体"
   },
   "31093": {
+    "en_US": "Coagulative Nodule",
+    "ja_JP": "凝固核",
     "zh_CN": "类凝结核"
   },
   "31094": {
+    "en_US": "Chiral Refractor",
+    "ja_JP": "カイラル屈光体",
     "zh_CN": "手性屈光体"
   },
   "3112": {
@@ -939,9 +945,13 @@
     "zh_CN": "未致蒙尘十连寻访凭证"
   },
   "SINGLE_60_0_1_GACHA": {
+    "en_US": "Command: Reconstruction Headhunting Permit",
+    "ja_JP": "イベントスカウト券",
     "zh_CN": "指令重构寻访凭证"
   },
   "SINGLE_60_0_1_GACHA_10": {
+    "en_US": "Command: Reconstruction Ten-roll Headhunting Permit",
+    "ja_JP": "イベント10回スカウト券",
     "zh_CN": "指令重构十连寻访凭证"
   },
   "SOCIAL_PT": {
@@ -1587,6 +1597,8 @@
     "zh_CN": "争锋大礼花"
   },
   "act2mainss_token": {
+    "en_US": "'Courage' Badge",
+    "ja_JP": "「勇気」のバッジ",
     "zh_CN": "“勇气”胸章"
   },
   "act2vmulti_token_cap": {
@@ -1625,6 +1637,8 @@
     "zh_CN": "粗制糖块"
   },
   "act33side_token_sugar_rep_1": {
+    "en_US": "Raw Sugar Lumps",
+    "ja_JP": "粗製角砂糖",
     "zh_CN": "粗制糖块"
   },
   "act34side_token_chip": {
@@ -2130,6 +2144,8 @@
     "zh_CN": "1101生日糕点"
   },
   "ap_supply_lt_120_2025_2": {
+    "en_US": "Extremely Filling Dessert Platter",
+    "ja_JP": "激甘まんぷくプレート",
     "zh_CN": "量大管饱甜品拼盘"
   },
   "ap_supply_lt_120_2025_3": {
@@ -3191,12 +3207,16 @@
     "zh_CN": "福运鼓鼓礼袋"
   },
   "itempack_gold_1": {
+    "en_US": "Super! Best! Boss Medal",
+    "ja_JP": "超絶！最強！リーダーメダル",
     "zh_CN": "特别版!超强!老板奖章"
   },
   "itempack_gold_2": {
     "zh_CN": "精心准备的试饮套装"
   },
   "itempack_main_1": {
+    "en_US": "Rhodes Island Supply Crate",
+    "ja_JP": "ロドス補給箱",
     "zh_CN": "罗德岛补给箱"
   },
   "itempack_mod_10": {
@@ -4852,9 +4872,13 @@
     "zh_CN": "水灯心的信物"
   },
   "p_char_4178_alanna": {
+    "en_US": "Alanna's Token",
+    "ja_JP": "アランナの印",
     "zh_CN": "阿兰娜的信物"
   },
   "p_char_4179_monstr": {
+    "en_US": "Mon3tr's Token",
+    "ja_JP": "Mon3trの印",
     "zh_CN": "Mon3tr的信物"
   },
   "p_char_4182_oblvns": {
@@ -4961,6 +4985,8 @@
     "zh_CN": "松果的信物"
   },
   "p_char_445_wscoot": {
+    "en_US": "Windscoot's Token",
+    "ja_JP": "ウィンドスクートの印",
     "zh_CN": "骋风的信物"
   },
   "p_char_446_aroma": {
@@ -5249,6 +5275,8 @@
     "zh_CN": "罗德岛物资补给VII"
   },
   "randomMaterial_11": {
+    "en_US": "Rhodes Island Supplies VIII",
+    "ja_JP": "補給物資・ロドスVIII",
     "zh_CN": "罗德岛物资补给VIII"
   },
   "randomMaterial_2": {

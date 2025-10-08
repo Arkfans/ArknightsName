@@ -2530,12 +2530,16 @@
   "char_4178_alanna": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Alanna",
+      "ja_JP": "アランナ",
       "zh_CN": "阿兰娜"
     }
   },
   "char_4179_monstr": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Mon3tr",
+      "ja_JP": "Mon3tr",
       "zh_CN": "Mon3tr"
     }
   },
@@ -2734,6 +2738,8 @@
   "char_445_wscoot": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Windscoot",
+      "ja_JP": "ウィンドスクート",
       "zh_CN": "骋风"
     }
   },
@@ -3660,12 +3666,16 @@
   "token_10045_alanna_crane": {
     "type": "TOKEN",
     "names": {
+      "en_US": "Nutty",
+      "ja_JP": "ナットちゃん",
       "zh_CN": "小螺帽"
     }
   },
   "token_10050_monstr_prosts": {
     "type": "TOKEN",
     "names": {
+      "en_US": "Reconstruction",
+      "ja_JP": "再構成核",
       "zh_CN": "重构体"
     }
   },
@@ -6152,48 +6162,64 @@
   "trap_227_mpweak": {
     "type": "TRAP",
     "names": {
+      "en_US": "Weakening Node",
+      "ja_JP": "弱体化ノード",
       "zh_CN": "弱化节点"
     }
   },
   "trap_228_mptxs": {
     "type": "TRAP",
     "names": {
+      "en_US": "Theresis",
+      "ja_JP": "テレシス",
       "zh_CN": "特雷西斯"
     }
   },
   "trap_229_mpcata": {
     "type": "TRAP",
     "names": {
+      "en_US": "Cold Drink Machine",
+      "ja_JP": "アイスドリンクマシン",
       "zh_CN": "冰镇饮料机"
     }
   },
   "trap_230_mpcatab": {
     "type": "TRAP",
     "names": {
+      "en_US": "Hot Drink Machine",
+      "ja_JP": "ホットドリンクマシン",
       "zh_CN": "加热饮料机"
     }
   },
   "trap_231_mpgrou": {
     "type": "TRAP",
     "names": {
+      "en_US": "'Frozen Monstrosity's Echo'",
+      "ja_JP": "「寒災の残響」",
       "zh_CN": "“寒灾回响”"
     }
   },
   "trap_232_mpgroub": {
     "type": "TRAP",
     "names": {
+      "en_US": "'Shadow in the Snow'",
+      "ja_JP": "「風雪の中の影」",
       "zh_CN": "“风雪中的影子”"
     }
   },
   "trap_233_mpmage": {
     "type": "TRAP",
     "names": {
+      "en_US": "Stable Sarkaz Caster Crystal",
+      "ja_JP": "定常状態サルカズ術師結晶",
       "zh_CN": "稳定态萨卡兹术师结晶"
     }
   },
   "trap_234_mpmageb": {
     "type": "TRAP",
     "names": {
+      "en_US": "Active Sarkaz Caster Crystal",
+      "ja_JP": "活性状態サルカズ術師結晶",
       "zh_CN": "活性态萨卡兹术师结晶"
     }
   },
@@ -9034,6 +9060,8 @@
   "char_213_mostma@ambienceSynesthesia#6": {
     "type": "SKIN",
     "names": {
+      "en_US": "Ethereal Harmony",
+      "ja_JP": "夢幻の調べ",
       "zh_CN": "幻语乐痕"
     }
   },
@@ -9264,6 +9292,8 @@
   "char_249_mlyss@ambienceSynesthesia#6": {
     "type": "SKIN",
     "names": {
+      "en_US": "Golden Reverie",
+      "ja_JP": "黄金色の夢郷",
       "zh_CN": "漫步于黄金之梦"
     }
   },
@@ -10418,6 +10448,8 @@
   "char_4072_ironmn@ambienceSynesthesia#5": {
     "type": "SKIN",
     "names": {
+      "en_US": "Empty Crown",
+      "ja_JP": "空っぽの王冠",
       "zh_CN": "空心王冠"
     }
   },
@@ -10500,6 +10532,8 @@
   "char_4087_ines@ambienceSynesthesia#5": {
     "type": "SKIN",
     "names": {
+      "en_US": "Melodic Flutter",
+      "ja_JP": "胡蝶の舞",
       "zh_CN": "蝶舞华章"
     }
   },
@@ -10680,6 +10714,8 @@
   "char_4131_odda@whirlwind#8": {
     "type": "SKIN",
     "names": {
+      "en_US": "Candy Strike",
+      "ja_JP": "キャンディーストライク",
       "zh_CN": "糖果暴击"
     }
   },
@@ -10692,6 +10728,8 @@
   "char_4133_logos@ambienceSynesthesia#6": {
     "type": "SKIN",
     "names": {
+      "en_US": "Radiant Serenity",
+      "ja_JP": "輝耀なる静謐",
       "zh_CN": "辉煌的静谧"
     }
   },
@@ -12558,90 +12596,120 @@
   "enemy_10072_mpprhd": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Intrusive Call",
+      "ja_JP": "侵入式コールコマンド",
       "zh_CN": "侵入式调用"
     }
   },
   "enemy_10073_mpcar": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Confused Maintenance Helper",
+      "ja_JP": "混乱する修理ロボット",
       "zh_CN": "迷茫的修理小助手"
     }
   },
   "enemy_10073_mpcar_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Rampaging Maintenance Helper",
+      "ja_JP": "暴走する修理ロボット",
       "zh_CN": "失控的修理小助手"
     }
   },
   "enemy_10074_mpcata": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Cold Drink Machine",
+      "ja_JP": "アイスドリンクマシン",
       "zh_CN": "冰镇饮料机"
     }
   },
   "enemy_10074_mpcata_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Hot Drink Machine",
+      "ja_JP": "ホットドリンクマシン",
       "zh_CN": "加热饮料机"
     }
   },
   "enemy_10075_mpwrj": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Worry-Free Cargo Helper",
+      "ja_JP": "安心輸送ヘルパー",
       "zh_CN": "无忧货运帮手"
     }
   },
   "enemy_10075_mpwrj_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Blast-Proof Cargo Helper",
+      "ja_JP": "防爆輸送ヘルパー",
       "zh_CN": "防爆货运帮手"
     }
   },
   "enemy_10076_mpgrou": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Frozen Monstrosity's Echo'",
+      "ja_JP": "「寒災の残響」",
       "zh_CN": "“寒灾回响”"
     }
   },
   "enemy_10076_mpgrou_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Shadow in the Snow'",
+      "ja_JP": "「風雪の中の影」",
       "zh_CN": "“风雪中的影子”"
     }
   },
   "enemy_10077_mpbarr": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Mockup Auto Meal Distributor",
+      "ja_JP": "セルフ配膳端末ベータ版",
       "zh_CN": "内测版自助出餐终端"
     }
   },
   "enemy_10077_mpbarr_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Prototype Auto Meal Distributor",
+      "ja_JP": "セルフ配膳端末プロトタイプ",
       "zh_CN": "自助出餐终端原型机"
     }
   },
   "enemy_10078_mprein": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Solidified Originium Colossus",
+      "ja_JP": "固体化源石巨像",
       "zh_CN": "固化源石巨像"
     }
   },
   "enemy_10078_mprein_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Active Originium Colossus",
+      "ja_JP": "活性源石巨像",
       "zh_CN": "活性源石巨像"
     }
   },
   "enemy_10079_mpmage": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Stable Sarkaz Caster Crystal",
+      "ja_JP": "定常状態サルカズ術師結晶",
       "zh_CN": "稳定态萨卡兹术师结晶"
     }
   },
   "enemy_10079_mpmage_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Active Sarkaz Caster Crystal",
+      "ja_JP": "活性状態サルカズ術師結晶",
       "zh_CN": "活性态萨卡兹术师结晶"
     }
   },
@@ -12672,30 +12740,40 @@
   "enemy_10080_mpiced": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Static Oneiros α",
+      "ja_JP": "テイシバチα",
       "zh_CN": "静滞虚幻·α"
     }
   },
   "enemy_10080_mpiced_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Static Oneiros β",
+      "ja_JP": "テイシバチβ",
       "zh_CN": "静滞虚幻·β"
     }
   },
   "enemy_10081_mpplai": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Decode Basis α",
+      "ja_JP": "変換基底α",
       "zh_CN": "转译基底·α"
     }
   },
   "enemy_10081_mpplai_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Decode Basis β",
+      "ja_JP": "変換基底β",
       "zh_CN": "转译基底·β"
     }
   },
   "enemy_10082_mpweak": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Weakening Node",
+      "ja_JP": "弱体化ノード",
       "zh_CN": "弱化节点"
     }
   },
@@ -20154,12 +20232,16 @@
   "enemy_1565_mpprme": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Mimic Machine",
+      "ja_JP": "擬態機械",
       "zh_CN": "拟态机械"
     }
   },
   "enemy_1566_mpascl": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Ascalon'",
+      "ja_JP": "「アスカロン」",
       "zh_CN": "“阿斯卡纶”"
     }
   },
@@ -21162,6 +21244,8 @@
   "enemy_3009_mpprss": {
     "type": "ENEMY",
     "names": {
+      "en_US": "EYESOFPRIESTESS",
+      "ja_JP": "EYESOFPRIESTESS",
       "zh_CN": "EYESOFPRIESTESS"
     }
   },
@@ -23596,6 +23680,8 @@
   "act2access": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Recommended Monthly Card",
+      "ja_JP": "大感謝祭月パス",
       "zh_CN": "活动推荐月卡"
     }
   },
@@ -23656,6 +23742,8 @@
   "act2mainss": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Dissociative Recombination",
+      "ja_JP": "解離結合",
       "zh_CN": "离解复合"
     }
   },
@@ -23788,6 +23876,8 @@
   "act33sre": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Babel - Rerun",
+      "ja_JP": "バベル・復刻",
       "zh_CN": "巴别塔·复刻"
     }
   },
@@ -25327,6 +25417,8 @@
   "30165": {
     "type": "ITEM",
     "names": {
+      "en_US": "Rephasic Enantiomer",
+      "ja_JP": "重相位鏡像体",
       "zh_CN": "重相位对映体"
     }
   },
@@ -25469,12 +25561,16 @@
   "31093": {
     "type": "ITEM",
     "names": {
+      "en_US": "Coagulative Nodule",
+      "ja_JP": "凝固核",
       "zh_CN": "类凝结核"
     }
   },
   "31094": {
     "type": "ITEM",
     "names": {
+      "en_US": "Chiral Refractor",
+      "ja_JP": "カイラル屈光体",
       "zh_CN": "手性屈光体"
     }
   },
@@ -26351,12 +26447,16 @@
   "SINGLE_60_0_1_GACHA": {
     "type": "ITEM",
     "names": {
+      "en_US": "Command: Reconstruction Headhunting Permit",
+      "ja_JP": "イベントスカウト券",
       "zh_CN": "指令重构寻访凭证"
     }
   },
   "SINGLE_60_0_1_GACHA_10": {
     "type": "ITEM",
     "names": {
+      "en_US": "Command: Reconstruction Ten-roll Headhunting Permit",
+      "ja_JP": "イベント10回スカウト券",
       "zh_CN": "指令重构十连寻访凭证"
     }
   },
@@ -27413,6 +27513,8 @@
   "act2mainss_token": {
     "type": "ITEM",
     "names": {
+      "en_US": "'Courage' Badge",
+      "ja_JP": "「勇気」のバッジ",
       "zh_CN": "“勇气”胸章"
     }
   },
@@ -27475,6 +27577,8 @@
   "act33side_token_sugar_rep_1": {
     "type": "ITEM",
     "names": {
+      "en_US": "Raw Sugar Lumps",
+      "ja_JP": "粗製角砂糖",
       "zh_CN": "粗制糖块"
     }
   },
@@ -28310,6 +28414,8 @@
   "ap_supply_lt_120_2025_2": {
     "type": "ITEM",
     "names": {
+      "en_US": "Extremely Filling Dessert Platter",
+      "ja_JP": "激甘まんぷくプレート",
       "zh_CN": "量大管饱甜品拼盘"
     }
   },
@@ -30028,6 +30134,8 @@
   "itempack_gold_1": {
     "type": "ITEM",
     "names": {
+      "en_US": "Super! Best! Boss Medal",
+      "ja_JP": "超絶！最強！リーダーメダル",
       "zh_CN": "特别版!超强!老板奖章"
     }
   },
@@ -30040,6 +30148,8 @@
   "itempack_main_1": {
     "type": "ITEM",
     "names": {
+      "en_US": "Rhodes Island Supply Crate",
+      "ja_JP": "ロドス補給箱",
       "zh_CN": "罗德岛补给箱"
     }
   },
@@ -32694,12 +32804,16 @@
   "p_char_4178_alanna": {
     "type": "ITEM",
     "names": {
+      "en_US": "Alanna's Token",
+      "ja_JP": "アランナの印",
       "zh_CN": "阿兰娜的信物"
     }
   },
   "p_char_4179_monstr": {
     "type": "ITEM",
     "names": {
+      "en_US": "Mon3tr's Token",
+      "ja_JP": "Mon3trの印",
       "zh_CN": "Mon3tr的信物"
     }
   },
@@ -32890,6 +33004,8 @@
   "p_char_445_wscoot": {
     "type": "ITEM",
     "names": {
+      "en_US": "Windscoot's Token",
+      "ja_JP": "ウィンドスクートの印",
       "zh_CN": "骋风的信物"
     }
   },
@@ -33352,6 +33468,8 @@
   "randomMaterial_11": {
     "type": "ITEM",
     "names": {
+      "en_US": "Rhodes Island Supplies VIII",
+      "ja_JP": "補給物資・ロドスVIII",
       "zh_CN": "罗德岛物资补给VIII"
     }
   },
@@ -36898,6 +37016,20 @@
       "ja_JP": "死火より出づ"
     }
   },
+  "_SINGLE_35_0_5": {
+    "type": "POOL",
+    "names": {
+      "en_US": "Command: Reconstruction",
+      "ja_JP": "指令：再構成"
+    }
+  },
+  "_SINGLE_35_0_7": {
+    "type": "POOL",
+    "names": {
+      "en_US": "LIKE ENDING LIKE DEATH",
+      "ja_JP": "死か/終わりか"
+    }
+  },
   "_SPECIAL_32_0_8": {
     "type": "POOL",
     "names": {
@@ -37219,12 +37351,16 @@
   "skchr_alanna_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Pneumatic Power-Up",
+      "ja_JP": "エアブースター",
       "zh_CN": "气动增压"
     }
   },
   "skchr_alanna_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "'Million-Pound Jack'",
+      "ja_JP": "ウルトラジャッキ",
       "zh_CN": "“万斤顶”"
     }
   },
@@ -40689,18 +40825,24 @@
   "skchr_monstr_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Stratagem: Hyperpressurized Link",
+      "ja_JP": "戦術：過圧力連結",
       "zh_CN": "策略：超压链接"
     }
   },
   "skchr_monstr_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Stratagem: Overload",
+      "ja_JP": "戦術：超飽和治療",
       "zh_CN": "策略：超负荷"
     }
   },
   "skchr_monstr_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Stratagem: Meltdown",
+      "ja_JP": "戦術：メルトダウン",
       "zh_CN": "策略：熔毁"
     }
   },
@@ -43027,12 +43169,16 @@
   "skchr_wscoot_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "The Best Defense",
+      "ja_JP": "攻防一如",
       "zh_CN": "以攻为守"
     }
   },
   "skchr_wscoot_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Unerring Proficiency",
+      "ja_JP": "快刀連斬",
       "zh_CN": "招无虚发"
     }
   },
@@ -46173,18 +46319,24 @@
   "sktok_monstr_prosts1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Stratagem: Hyperpressurized Link",
+      "ja_JP": "戦術：過圧力連結",
       "zh_CN": "策略：超压链接"
     }
   },
   "sktok_monstr_prosts2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Stratagem: Overload",
+      "ja_JP": "戦術：超飽和治療",
       "zh_CN": "策略：超负荷"
     }
   },
   "sktok_monstr_prosts3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Stratagem: Meltdown",
+      "ja_JP": "戦術：メルトダウン",
       "zh_CN": "策略：熔毁"
     }
   },
@@ -46215,12 +46367,16 @@
   "sktok_mptxs_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Brandish",
+      "ja_JP": "斬撃",
       "zh_CN": "挥砍"
     }
   },
   "sktok_mpweak_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Weakening",
+      "ja_JP": "弱体化",
       "zh_CN": "弱化"
     }
   },
@@ -56545,24 +56701,32 @@
   "hard_15-01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Confidential Contingency - 1",
+      "ja_JP": "機密計画-1",
       "zh_CN": "机密预案-1"
     }
   },
   "hard_15-02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Confidential Contingency - 2",
+      "ja_JP": "機密計画-2",
       "zh_CN": "机密预案-2"
     }
   },
   "hard_15-03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Confidential Contingency - 3",
+      "ja_JP": "機密計画-3",
       "zh_CN": "机密预案-3"
     }
   },
   "hard_15-04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Confidential Contingency - 4",
+      "ja_JP": "機密計画-4",
       "zh_CN": "机密预案-4"
     }
   },
@@ -59273,204 +59437,272 @@
   "main_15-01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Bearer of the Sword",
+      "ja_JP": "この剣を執る者",
       "zh_CN": "执此剑者"
     }
   },
   "main_15-02": {
     "type": "STAGE",
     "names": {
+      "en_US": "In the Name of a Miracle",
+      "ja_JP": "奇跡とは",
       "zh_CN": "所谓奇迹"
     }
   },
   "main_15-02#s": {
     "type": "STAGE",
     "names": {
+      "en_US": "In the Name of a Miracle",
+      "ja_JP": "奇跡とは",
       "zh_CN": "所谓奇迹"
     }
   },
   "main_15-03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Brink of the Abyss",
+      "ja_JP": "深淵のほとり",
       "zh_CN": "深渊之侧"
     }
   },
   "main_15-03#s": {
     "type": "STAGE",
     "names": {
+      "en_US": "Brink of the Abyss",
+      "ja_JP": "深淵のほとり",
       "zh_CN": "深渊之侧"
     }
   },
   "main_15-04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Origin of Conflict",
+      "ja_JP": "喧噪の中の争い",
       "zh_CN": "喧哗争端"
     }
   },
   "main_15-04#s": {
     "type": "STAGE",
     "names": {
+      "en_US": "Origin of Conflict",
+      "ja_JP": "喧噪の中の争い",
       "zh_CN": "喧哗争端"
     }
   },
   "main_15-05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Etched Bone-Deep",
+      "ja_JP": "骨の髄に刻んで",
       "zh_CN": "刻骨入髓"
     }
   },
   "main_15-05#s": {
     "type": "STAGE",
     "names": {
+      "en_US": "Etched Bone-Deep",
+      "ja_JP": "骨の髄に刻んで",
       "zh_CN": "刻骨入髓"
     }
   },
   "main_15-06": {
     "type": "STAGE",
     "names": {
+      "en_US": "Moment of Truth",
+      "ja_JP": "臨界の時",
       "zh_CN": "临界时刻"
     }
   },
   "main_15-06#s": {
     "type": "STAGE",
     "names": {
+      "en_US": "Moment of Truth",
+      "ja_JP": "臨界の時",
       "zh_CN": "临界时刻"
     }
   },
   "main_15-07": {
     "type": "STAGE",
     "names": {
+      "en_US": "Broken Echoes",
+      "ja_JP": "砕ける残響",
       "zh_CN": "破碎回响"
     }
   },
   "main_15-07#s": {
     "type": "STAGE",
     "names": {
+      "en_US": "Broken Echoes",
+      "ja_JP": "砕ける残響",
       "zh_CN": "破碎回响"
     }
   },
   "main_15-08": {
     "type": "STAGE",
     "names": {
+      "en_US": "Decompression Syndrome",
+      "ja_JP": "減圧症",
       "zh_CN": "减压症候"
     }
   },
   "main_15-08#s": {
     "type": "STAGE",
     "names": {
+      "en_US": "Decompression Syndrome",
+      "ja_JP": "減圧症",
       "zh_CN": "减压症候"
     }
   },
   "main_15-09": {
     "type": "STAGE",
     "names": {
+      "en_US": "Dissociated Space",
+      "ja_JP": "隔離掃討",
       "zh_CN": "隔离净空"
     }
   },
   "main_15-09#s": {
     "type": "STAGE",
     "names": {
+      "en_US": "Dissociated Space",
+      "ja_JP": "隔離掃討",
       "zh_CN": "隔离净空"
     }
   },
   "main_15-10": {
     "type": "STAGE",
     "names": {
+      "en_US": "Wake From a Long Dream",
+      "ja_JP": "長き夢からの目覚め",
       "zh_CN": "一段长梦将醒"
     }
   },
   "main_15-10#s": {
     "type": "STAGE",
     "names": {
+      "en_US": "Wake From a Long Dream",
+      "ja_JP": "長き夢からの目覚め",
       "zh_CN": "一段长梦将醒"
     }
   },
   "main_15-11": {
     "type": "STAGE",
     "names": {
+      "en_US": "Bear Witness, the Death of the Gods",
+      "ja_JP": "神々の死を見届けし荒野",
       "zh_CN": "目击众神死亡的荒原"
     }
   },
   "main_15-11#s": {
     "type": "STAGE",
     "names": {
+      "en_US": "Bear Witness, the Death of the Gods",
+      "ja_JP": "神々の死を見届けし荒野",
       "zh_CN": "目击众神死亡的荒原"
     }
   },
   "main_15-12": {
     "type": "STAGE",
     "names": {
+      "en_US": "I Shall Be Your Eyes",
+      "ja_JP": "あなたの目となって",
       "zh_CN": "成为你的眼睛"
     }
   },
   "main_15-12#s": {
     "type": "STAGE",
     "names": {
+      "en_US": "I Shall Be Your Eyes",
+      "ja_JP": "あなたの目となって",
       "zh_CN": "成为你的眼睛"
     }
   },
   "main_15-13": {
     "type": "STAGE",
     "names": {
+      "en_US": "In Dust or Blood",
+      "ja_JP": "塵、あるいは血の中で",
       "zh_CN": "在尘或血中"
     }
   },
   "main_15-13#s": {
     "type": "STAGE",
     "names": {
+      "en_US": "In Dust or Blood",
+      "ja_JP": "塵、あるいは血の中で",
       "zh_CN": "在尘或血中"
     }
   },
   "main_15-14": {
     "type": "STAGE",
     "names": {
+      "en_US": "Rejection of Mourning",
+      "ja_JP": "哀悼を拒んで",
       "zh_CN": "拒绝哀悼"
     }
   },
   "main_15-14#s": {
     "type": "STAGE",
     "names": {
+      "en_US": "Rejection of Mourning",
+      "ja_JP": "哀悼を拒んで",
       "zh_CN": "拒绝哀悼"
     }
   },
   "main_15-15": {
     "type": "STAGE",
     "names": {
+      "en_US": "'Her'",
+      "ja_JP": "「彼女」",
       "zh_CN": "“她”"
     }
   },
   "main_15-15#s": {
     "type": "STAGE",
     "names": {
+      "en_US": "'Her'",
+      "ja_JP": "「彼女」",
       "zh_CN": "“她”"
     }
   },
   "main_15-16": {
     "type": "STAGE",
     "names": {
+      "en_US": "Never Doubted, Never Far",
+      "ja_JP": "疑うことなく、離れることなく",
       "zh_CN": "从未怀疑，从未远离"
     }
   },
   "main_15-16#s": {
     "type": "STAGE",
     "names": {
+      "en_US": "Never Doubted, Never Far",
+      "ja_JP": "疑うことなく、離れることなく",
       "zh_CN": "从未怀疑，从未远离"
     }
   },
   "main_15-17": {
     "type": "STAGE",
     "names": {
+      "en_US": "Until, Now",
+      "ja_JP": "今、この時に至るまで",
       "zh_CN": "直至，此刻"
     }
   },
   "main_15-18": {
     "type": "STAGE",
     "names": {
+      "en_US": "Return to Beginnings",
+      "ja_JP": "果たされた再帰",
       "zh_CN": "得以重回"
     }
   },
   "main_15-18#s": {
     "type": "STAGE",
     "names": {
+      "en_US": "Return to Beginnings",
+      "ja_JP": "果たされた再帰",
       "zh_CN": "得以重回"
     }
   },
@@ -59861,18 +60093,24 @@
   "st_15-01": {
     "type": "STAGE",
     "names": {
+      "en_US": "The End of Past and Present",
+      "ja_JP": "過去と現在の終点",
       "zh_CN": "过去与现在的终点"
     }
   },
   "st_15-02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Margin of Eternity and Now",
+      "ja_JP": "永遠と今との誤差",
       "zh_CN": "永恒与此刻的误差"
     }
   },
   "st_15-03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Where the Land and a Fragment Belong",
+      "ja_JP": "大地と片隅の居場所",
       "zh_CN": "大地与一隅的归宿"
     }
   },
@@ -60463,6 +60701,8 @@
   "tr_26": {
     "type": "STAGE",
     "names": {
+      "en_US": "The Threat Within",
+      "ja_JP": "内在する脅威",
       "zh_CN": "内在威胁"
     }
   },
@@ -61909,6 +62149,8 @@
   "act2mainss_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Dissociative Recombination",
+      "ja_JP": "解離結合",
       "zh_CN": "离解复合"
     }
   },
@@ -62035,18 +62277,24 @@
   "act33sre_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "You the Future, Take My Gifts",
+      "ja_JP": "未来を贈らん",
       "zh_CN": "我赠予未来"
     }
   },
   "act33sre_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "You the Past, Ward Me Firmly",
+      "ja_JP": "昔日に残れり",
       "zh_CN": "我驻留往昔"
     }
   },
   "act33sre_zone3": {
     "type": "ZONE",
     "names": {
+      "en_US": "You the Constant, You Are Me",
+      "ja_JP": "我は我なり",
       "zh_CN": "我始终如一"
     }
   },
@@ -62601,6 +62849,8 @@
   "permanent_main_1_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Dissociative Recombination",
+      "ja_JP": "解離結合",
       "zh_CN": "离解复合"
     }
   },
@@ -63413,6 +63663,8 @@
   "story_adnach_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Reserve Prophet",
+      "ja_JP": "預言の準備",
       "zh_CN": "预备“先知”"
     }
   },
@@ -63883,6 +64135,8 @@
   "story_ccheal_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Path of Medicine",
+      "ja_JP": "医学の道",
       "zh_CN": "学医之路"
     }
   },
@@ -64707,6 +64961,8 @@
   "story_kalts_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "End of a Long Journey",
+      "ja_JP": "長き旅路の果てに",
       "zh_CN": "长路至此"
     }
   },
@@ -65371,6 +65627,8 @@
   "story_robin_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "To Live, To Feel",
+      "ja_JP": "触れるぬくもり",
       "zh_CN": "冷暖自知"
     }
   },

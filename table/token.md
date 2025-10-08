@@ -55,8 +55,8 @@ tip: 请善用浏览器的搜索功能
 | token_10042_tecno_puppet | 木偶舞者 | Puppet Dancer | パペットダンサー |
 | token_10043_necras_skeltn | 悲叹的仆役 | Servant of Lamentation | 悲嘆する下僕 |
 | token_10044_wulfen_mine | 矿石“杀手” | Ore 'Killer' | 鉱石「キラー」 |
-| token_10045_alanna_crane | 小螺帽 | - | - |
-| token_10050_monstr_prosts | 重构体 | - | - |
+| token_10045_alanna_crane | 小螺帽 | Nutty | ナットちゃん |
+| token_10050_monstr_prosts | 重构体 | Reconstruction | 再構成核 |
 | token_10051_radian_tower1 | 戴乌 | - | - |
 | token_10052_radian_tower2 | 赛柯 | - | - |
 | token_10053_radian_tower3 | 桑特拉 | - | - |

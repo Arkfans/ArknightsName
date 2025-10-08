@@ -1577,9 +1577,13 @@
     "zh_CN": "水灯心"
   },
   "char_4178_alanna": {
+    "en_US": "Alanna",
+    "ja_JP": "アランナ",
     "zh_CN": "阿兰娜"
   },
   "char_4179_monstr": {
+    "en_US": "Mon3tr",
+    "ja_JP": "Mon3tr",
     "zh_CN": "Mon3tr"
   },
   "char_4182_oblvns": {
@@ -1691,6 +1695,8 @@
     "zh_CN": "松果"
   },
   "char_445_wscoot": {
+    "en_US": "Windscoot",
+    "ja_JP": "ウィンドスクート",
     "zh_CN": "骋风"
   },
   "char_446_aroma": {

@@ -33,6 +33,12 @@
     ]
   },
   "avg_017_huang_1": {
+    "en_US": [
+      "Blaze"
+    ],
+    "ja_JP": [
+      "ブレイズ"
+    ],
     "zh_CN": [
       "煌"
     ]
@@ -690,10 +696,12 @@
   },
   "avg_171_bldsk_1": {
     "en_US": [
+      "Evil Vampire",
       "Warfarin"
     ],
     "ja_JP": [
-      "ワルファリン"
+      "ワルファリン",
+      "邪悪なブラッドブルード"
     ],
     "zh_CN": [
       "华法琳",
@@ -1358,6 +1366,12 @@
     ]
   },
   "avg_281_popka_1": {
+    "en_US": [
+      "Popukar"
+    ],
+    "ja_JP": [
+      "ポプカル"
+    ],
     "zh_CN": [
       "泡普卡"
     ]
@@ -1375,10 +1389,12 @@
   },
   "avg_286_cast3_1": {
     "en_US": [
+      "Abnormal Castle-3",
       "Castle-3"
     ],
     "ja_JP": [
-      "Castle-3"
+      "Castle-3",
+      "異常なCastle-3"
     ],
     "zh_CN": [
       "Castle-3",
@@ -1716,13 +1732,15 @@
   "avg_4000_jnight_1": {
     "en_US": [
       "'Justice Knight'",
+      "Abnormal Justice Knight",
       "Archbeast Mechanica",
       "Justice Knight"
     ],
     "ja_JP": [
       "「ジャスティスナイト」",
       "ジャスティスナイト",
-      "機械凶獣"
+      "機械凶獣",
+      "異常な「ジャスティスナイト」"
     ],
     "zh_CN": [
       "“正义骑士号”",
@@ -2313,6 +2331,12 @@
     ]
   },
   "avg_4093_frston_1": {
+    "en_US": [
+      "Friston-3"
+    ],
+    "ja_JP": [
+      "Friston-3"
+    ],
     "zh_CN": [
       "Friston-3"
     ]
@@ -2596,9 +2620,11 @@
   },
   "avg_4132_ascln_1": {
     "en_US": [
+      "'Ascalon'",
       "Ascalon"
     ],
     "ja_JP": [
+      "「アスカロン」",
       "アスカロン"
     ],
     "zh_CN": [
@@ -2619,9 +2645,11 @@
   },
   "avg_4134_cetsyr_1": {
     "en_US": [
+      "Civilight Eterna",
       "Theresa's Phantom"
     ],
     "ja_JP": [
+      "シヴィライト・エテルナ",
       "テレジアの幻影"
     ],
     "zh_CN": [
@@ -2911,11 +2939,23 @@
     ]
   },
   "avg_4178_alanna_1": {
+    "en_US": [
+      "Alanna"
+    ],
+    "ja_JP": [
+      "アランナ"
+    ],
     "zh_CN": [
       "阿兰娜"
     ]
   },
   "avg_4179_monstr_1": {
+    "en_US": [
+      "Mon3tr"
+    ],
+    "ja_JP": [
+      "Mon3tr"
+    ],
     "zh_CN": [
       "Mon3tr"
     ]
@@ -3177,6 +3217,12 @@
     ]
   },
   "avg_451_robin_1": {
+    "en_US": [
+      "Robin"
+    ],
+    "ja_JP": [
+      "ロビン"
+    ],
     "zh_CN": [
       "罗宾"
     ]
@@ -4164,6 +4210,7 @@
       "'Captain'",
       "Abi",
       "Arrogant Robber",
+      "Attacker",
       "Bandit",
       "Bandit Leader",
       "Black Market Brawler B",
@@ -4239,6 +4286,7 @@
       "短気な傭兵",
       "粗暴な賞金稼ぎ",
       "荒野の男",
+      "襲撃者",
       "見張りの賞金稼ぎ",
       "負傷した傭兵",
       "負傷した戦士",
@@ -4352,6 +4400,7 @@
   },
   "avg_npc_012": {
     "en_US": [
+      "Adamant",
       "Barty",
       "Bitter Root",
       "Calm Operator",
@@ -4394,6 +4443,7 @@
       "Vanguard Operator A"
     ],
     "ja_JP": [
+      "アダマント",
       "エンジニア",
       "エンジニアA",
       "エンジニアB",
@@ -4417,6 +4467,7 @@
       "ロドスのオペレーター",
       "ロドスオペレーター",
       "ロドスオペレーターB",
+      "ロドス前衛オペレーター",
       "ロドス外勤オペレーター",
       "事務所オペレーター",
       "事務所オペレーターA",
@@ -5038,6 +5089,7 @@
       "Community Resident",
       "Confused Community Resident",
       "Confused Fan",
+      "Curious Youth",
       "Customer",
       "Doctor",
       "Drunk",
@@ -5090,6 +5142,7 @@
       "司会者",
       "困り顔の男性",
       "困惑しているファン",
+      "好奇心旺盛な青年",
       "客",
       "寒がりな観光客",
       "市民B",
@@ -6571,6 +6624,7 @@
       "Rhodes Island Field Operator A",
       "Rhodes Island Logistics Operator",
       "Rhodes Island Operator",
+      "Rhodes Island Sniper",
       "Scout Operator",
       "Seanson",
       "Seasoned Rhodes Island Operator",
@@ -6584,6 +6638,7 @@
       "ホーガー",
       "ロドスオペレーター",
       "ロドス後方支援オペレーター",
+      "ロドス狙撃オペレーター",
       "ロールパイン",
       "事務所オペレーターB",
       "偵察オペレーター",
@@ -6620,6 +6675,7 @@
       "Engineering Operator",
       "Engineering Operator A",
       "Engineering Operator B",
+      "Guard Operator",
       "Intern Operator C",
       "Lucci",
       "Office Operator",
@@ -6654,6 +6710,7 @@
       "事務所オペレーター",
       "事務所オペレーターA",
       "先鋒オペレーター",
+      "前衛オペレーター",
       "外勤オペレーターA",
       "外勤オペレーターB",
       "実習オペレーターC",
@@ -8071,6 +8128,7 @@
   "avg_npc_1186_1": {
     "en_US": [
       "Company Representative",
+      "Miner",
       "Somewhat Familiar Woman",
       "Strange Lady",
       "Weary Miner",
@@ -8081,6 +8139,7 @@
       "「モーター」",
       "企業代表",
       "工員B",
+      "採掘労働者",
       "疲れた坑夫",
       "見知らぬ女性",
       "見覚えのある女性"
@@ -10146,6 +10205,12 @@
     ]
   },
   "avg_npc_1456_1": {
+    "en_US": [
+      "Frightened Child"
+    ],
+    "ja_JP": [
+      "怖がる子供"
+    ],
     "zh_CN": [
       "“小砖头”",
       "恐惧的孩子",
@@ -10501,6 +10566,7 @@
       "Curious Girl",
       "Girl by the Shore",
       "Happy Girl",
+      "Infected Girl",
       "Sad Girl",
       "Sobbing Girl",
       "Young Visitor"
@@ -10512,6 +10578,7 @@
       "岸辺の少女",
       "幼い客",
       "悲しむ少女",
+      "感染者の子供",
       "興味津々な女の子"
     ],
     "zh_CN": [
@@ -10875,6 +10942,12 @@
     ]
   },
   "avg_npc_1559_1": {
+    "en_US": [
+      "Reserve Guard Operator"
+    ],
+    "ja_JP": [
+      "予備前衛オペレーター"
+    ],
     "zh_CN": [
       "预备近卫干员"
     ]
@@ -12091,11 +12164,25 @@
     ]
   },
   "avg_npc_1718_1": {
+    "en_US": [
+      "Priestess"
+    ],
+    "ja_JP": [
+      "プリースティス"
+    ],
     "zh_CN": [
       "普瑞赛斯"
     ]
   },
   "avg_npc_1719_1": {
+    "en_US": [
+      "Confused Individual",
+      "Hierda"
+    ],
+    "ja_JP": [
+      "ヒアダ",
+      "困惑した人"
+    ],
     "zh_CN": [
       "困惑的人",
       "希尔达"
@@ -12113,6 +12200,14 @@
     ]
   },
   "avg_npc_1720_1": {
+    "en_US": [
+      "Mysterious Elf",
+      "The Presence"
+    ],
+    "ja_JP": [
+      "幽霊",
+      "謎の精霊"
+    ],
     "zh_CN": [
       "幽灵",
       "神秘的精灵"
@@ -12124,23 +12219,55 @@
     ]
   },
   "avg_npc_1723_1": {
+    "en_US": [
+      "Closure"
+    ],
+    "ja_JP": [
+      "クロージャ"
+    ],
     "zh_CN": [
       "可露希尔"
     ]
   },
   "avg_npc_1724_1": {
+    "en_US": [
+      "Theresis",
+      "Weak Voice"
+    ],
+    "ja_JP": [
+      "テレシス",
+      "弱々しい声"
+    ],
     "zh_CN": [
       "特雷西斯",
       "虚弱的声音"
     ]
   },
   "avg_npc_1725_1": {
+    "en_US": [
+      "Mechanical Lifeform",
+      "Raydistorter"
+    ],
+    "ja_JP": [
+      "レイディストーター",
+      "機械の生命"
+    ],
     "zh_CN": [
       "屈光者",
       "机械的生命"
     ]
   },
   "avg_npc_1726_1": {
+    "en_US": [
+      "'Beepy'",
+      "Originium-Infested Machine",
+      "Pained 'Beepy'"
+    ],
+    "ja_JP": [
+      "「ブーブーちゃん」",
+      "源石に侵食された機械",
+      "苦しむ「ブーブーちゃん」"
+    ],
     "zh_CN": [
       "“小嘟嘟”",
       "源石侵蚀的机械",
@@ -12148,16 +12275,34 @@
     ]
   },
   "avg_npc_1727_1": {
+    "en_US": [
+      "Originium Entity"
+    ],
+    "ja_JP": [
+      "源石結晶体"
+    ],
     "zh_CN": [
       "源石结晶体"
     ]
   },
   "avg_npc_1728_1": {
+    "en_US": [
+      "Originium Entity"
+    ],
+    "ja_JP": [
+      "源石結晶体"
+    ],
     "zh_CN": [
       "源石结晶体"
     ]
   },
   "avg_npc_1729_1": {
+    "en_US": [
+      "Tough Infected"
+    ],
+    "ja_JP": [
+      "気丈な感染者"
+    ],
     "zh_CN": [
       "坚强的感染者"
     ]
@@ -12191,12 +12336,26 @@
     ]
   },
   "avg_npc_1730_1": {
+    "en_US": [
+      "Communicator",
+      "Raidian"
+    ],
+    "ja_JP": [
+      "Raidian",
+      "通信の声"
+    ],
     "zh_CN": [
       "Raidian",
       "通讯中的声音"
     ]
   },
   "avg_npc_1731_1": {
+    "en_US": [
+      "Infected Worker"
+    ],
+    "ja_JP": [
+      "急性感染した労働者"
+    ],
     "zh_CN": [
       "急性感染的工人"
     ]
@@ -12243,6 +12402,7 @@
       "Opinionated Patient",
       "Pretentious Noblewoman",
       "Reserved MP",
+      "Reserved Viscount",
       "Scathing Leithanian",
       "Self-Satisfied Noble Alumna",
       "Wealthy Woman",
@@ -12257,6 +12417,7 @@
       "女性デザイナー",
       "女性貴族",
       "富裕層の女性",
+      "寡黙な子爵",
       "役者",
       "明るい女性貴族",
       "活発な役者",
@@ -12335,6 +12496,7 @@
       "Plump Merchant",
       "Pompous Man",
       "Pompous Merchant",
+      "Scathing Baron",
       "Seasoned Investor",
       "Skinny Cheung",
       "Slimy Noble",
@@ -12356,6 +12518,7 @@
       "ヴィクトリアの伯爵",
       "ヴィクトリアの豪商",
       "優雅な使節",
+      "冷酷な男爵",
       "劇場の支配人",
       "司会者",
       "大口を叩く男",
@@ -12423,6 +12586,7 @@
       "Factory Director",
       "High-status Magnate",
       "Hughes",
+      "Laid-Back Baron",
       "Local Judge B",
       "Londinium Merchant",
       "Mayor",
@@ -12458,6 +12622,7 @@
       "工場長",
       "市長",
       "派手に着飾った男",
+      "浮ついた男爵",
       "焦る病人",
       "物腰柔らかな投資家",
       "現地の裁判官B",
@@ -14277,6 +14442,7 @@
       "Millen",
       "Naughty Child",
       "Nervous Child",
+      "Silent Child",
       "Small Child",
       "Taran Child",
       "Theo",
@@ -14302,7 +14468,8 @@
       "痩せ細った子供",
       "緊張した子供",
       "興味津々な子供",
-      "騎士"
+      "騎士",
+      "黙る子供"
     ],
     "zh_CN": [
       "乔",
@@ -14413,6 +14580,7 @@
       "Gentleman",
       "Grieving Man",
       "Hostile Man",
+      "Hot-Blooded Youth",
       "Independent Reporter",
       "Infected",
       "Infected Citizen",
@@ -14487,6 +14655,7 @@
       "穏やかな撮影スタッフ",
       "興奮したターラーの流民",
       "興奮する市民",
+      "興奮する青年",
       "苛立つ村人",
       "苦しむ男性",
       "荒っぽいターラーの流民",
@@ -14559,8 +14728,10 @@
     "en_US": [
       "Apathetic Passerby",
       "Aunt Danka",
+      "Calm Infected",
       "Calm Lady",
       "Cautious Servant",
+      "Chloe",
       "Feeble Woman",
       "Frightened Woman",
       "Infected Citizen",
@@ -14578,6 +14749,7 @@
       "Townsfolk B"
     ],
     "ja_JP": [
+      "クロエ",
       "ターラーの流民",
       "ダンカおばさん",
       "パサード",
@@ -14597,6 +14769,7 @@
       "臆病な使用人",
       "苦しむ難民",
       "落ち着いた女性",
+      "落ち着いた感染者",
       "貴族の妹"
     ],
     "zh_CN": [
@@ -15983,12 +16156,14 @@
       "Devout Citizen",
       "Handcuffed Lateran",
       "Lateran Citizen?",
+      "Lateran Messenger",
       "Nervous Youth",
       "Nimble Lateran",
       "Panicked Underling of Patia",
       "Reserved Hospital Attendant"
     ],
     "ja_JP": [
+      "トランスポーター",
       "信心深い市民",
       "市民？",
       "拘束されたラテラーノ人",
@@ -16325,6 +16500,7 @@
       "Cautious Mercenary",
       "Columbian Mercenary",
       "Concerned Mercenary",
+      "County Police",
       "Disdainful Mercenary",
       "Former Defense Forces Soldier",
       "Impatient Mercenary",
@@ -16348,6 +16524,7 @@
       "元都市防衛軍の兵士",
       "冷静な傭兵",
       "商会警備員",
+      "地方警察",
       "心配する傭兵",
       "恐れる私兵",
       "慎重な傭兵",
@@ -16562,6 +16739,7 @@
   "avg_npc_409_1": {
     "en_US": [
       "Carefree Citizen",
+      "Excited Soldier",
       "Flag Officer",
       "Victorian Officer",
       "Victorian Soldier"
@@ -16570,7 +16748,8 @@
       "のんびりした市民",
       "ヴィクトリア兵士",
       "ヴィクトリア士官",
-      "上級士官"
+      "上級士官",
+      "興奮した軍人"
     ],
     "zh_CN": [
       "兴奋的军人",
@@ -16757,6 +16936,7 @@
   },
   "avg_npc_417_1": {
     "en_US": [
+      "Agitated Citizen",
       "Angry Thug",
       "Cafeteria Manager",
       "Calm Thug",
@@ -16782,6 +16962,7 @@
       "新聞露店オーナー",
       "歓喜する住民",
       "理髪師",
+      "興奮した住民",
       "興奮した暴徒",
       "落ち着かない市民",
       "訝しむ住民",
@@ -16818,6 +16999,7 @@
       "Fleeing Londinier",
       "Florist",
       "Haggard Woman",
+      "Hesitant Citizen",
       "Ivy",
       "Lanky Inventor",
       "Londinium Citizen",
@@ -16844,7 +17026,8 @@
       "新任教師",
       "模範軍看護師",
       "療養所患者",
-      "見知らぬ女性"
+      "見知らぬ女性",
+      "躊躇う住民"
     ],
     "zh_CN": [
       "不再愤怒的居民",
@@ -17008,6 +17191,7 @@
       "Panting Soldier",
       "Prisoner",
       "Rescued Soldier",
+      "Tired Wounded",
       "Walker",
       "Wounded Abandoned Soldier",
       "Wounded Victorian Soldier"
@@ -17019,6 +17203,7 @@
       "捕虜の兵士",
       "救出された兵士",
       "模範軍兵士",
+      "疲弊した負傷兵",
       "積極的な兵士",
       "見捨てられた負傷兵",
       "負傷した兵士",
@@ -17871,6 +18056,7 @@
   "avg_npc_501_1": {
     "en_US": [
       "Andante",
+      "Logistics Operator",
       "Medic Operator",
       "Medical Department Operator",
       "Rhodes Island Operator",
@@ -17881,7 +18067,8 @@
       "オペレーター姿の女性",
       "ロドスオペレーター",
       "医療オペレーター",
-      "医療部オペレーター"
+      "医療部オペレーター",
+      "支援オペレーター"
     ],
     "zh_CN": [
       "仔细的干员",
@@ -18657,10 +18844,12 @@
   },
   "avg_npc_599_1": {
     "en_US": [
+      "Cloudbeast",
       "Stray Storm Cloudbeast"
     ],
     "ja_JP": [
-      "迷子の烏雲獣"
+      "迷子の烏雲獣",
+      "雲獣"
     ],
     "zh_CN": [
       "乌云兽",
@@ -19066,6 +19255,7 @@
   "avg_npc_661_1": {
     "en_US": [
       "Curious Girl",
+      "Disgusted Child",
       "Enthusiastic Student",
       "Farmer",
       "Hollering Student",
@@ -19085,6 +19275,7 @@
       "マデリーン",
       "囃し立てる生徒",
       "嫌がる子供",
+      "嫌そうな表情の子供",
       "明るい生徒",
       "暴君",
       "村人の子ども",
@@ -19651,11 +19842,13 @@
       "Injured Refugee",
       "Injured Worker",
       "Maimed Citizen",
+      "Reunion Member",
       "Tear-Streaked Passerby",
       "Wounded Taran"
     ],
     "ja_JP": [
       "クルーズ",
+      "レユニオン構成員",
       "怪我した工員",
       "悲しむ兵士",
       "泣き顔の通行人",
@@ -21182,9 +21375,13 @@
   },
   "avg_npc_971_1": {
     "en_US": [
-      "Curious Operator C"
+      "Curious Operator C",
+      "Engineering Operator",
+      "Rhodes Island Engineering Operator"
     ],
     "ja_JP": [
+      "エンジニアオペレーター",
+      "エンジニア部オペレーター",
       "興味津々な人々C"
     ],
     "zh_CN": [
@@ -21263,20 +21460,34 @@
     ]
   },
   "avg_npc_974_1": {
+    "en_US": [
+      "Agitated Patient"
+    ],
+    "ja_JP": [
+      "激情する感染者"
+    ],
     "zh_CN": [
       "激动的病人"
     ]
   },
   "avg_npc_975_1": {
+    "en_US": [
+      "Level-Headed Patient"
+    ],
+    "ja_JP": [
+      "冷静を装う感染者"
+    ],
     "zh_CN": [
       "尝试克制的病人"
     ]
   },
   "avg_npc_976_1": {
     "en_US": [
+      "Boy",
       "Mischievous Child"
     ],
     "ja_JP": [
+      "男の子",
       "腕白な子供"
     ],
     "zh_CN": [
@@ -23084,10 +23295,12 @@
   },
   "char_210_stward_1": {
     "en_US": [
+      "Mild-Mannered Youth",
       "Steward"
     ],
     "ja_JP": [
-      "スチュワード"
+      "スチュワード",
+      "温和な住民"
     ],
     "zh_CN": [
       "史都华德",
@@ -23518,10 +23731,12 @@
   },
   "char_285_medic2_1": {
     "en_US": [
+      "Abnormal Lancet-2",
       "Lancet-2"
     ],
     "ja_JP": [
-      "Lancet-2"
+      "Lancet-2",
+      "異常なLancet-2"
     ],
     "zh_CN": [
       "Lancet-2",
@@ -23972,10 +24187,13 @@
   },
   "char_376_therex_1": {
     "en_US": [
+      "Abnormal THRM-EX",
       "THRM-EX"
     ],
     "ja_JP": [
-      "Thermal-EX"
+      "THRM-EX",
+      "Thermal-EX",
+      "異常なTHRM-EX"
     ],
     "zh_CN": [
       "THRM-EX",

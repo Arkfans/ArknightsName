@@ -1485,27 +1485,43 @@
     "zh_CN": "瑕"
   },
   "trap_227_mpweak": {
+    "en_US": "Weakening Node",
+    "ja_JP": "弱体化ノード",
     "zh_CN": "弱化节点"
   },
   "trap_228_mptxs": {
+    "en_US": "Theresis",
+    "ja_JP": "テレシス",
     "zh_CN": "特雷西斯"
   },
   "trap_229_mpcata": {
+    "en_US": "Cold Drink Machine",
+    "ja_JP": "アイスドリンクマシン",
     "zh_CN": "冰镇饮料机"
   },
   "trap_230_mpcatab": {
+    "en_US": "Hot Drink Machine",
+    "ja_JP": "ホットドリンクマシン",
     "zh_CN": "加热饮料机"
   },
   "trap_231_mpgrou": {
+    "en_US": "'Frozen Monstrosity's Echo'",
+    "ja_JP": "「寒災の残響」",
     "zh_CN": "“寒灾回响”"
   },
   "trap_232_mpgroub": {
+    "en_US": "'Shadow in the Snow'",
+    "ja_JP": "「風雪の中の影」",
     "zh_CN": "“风雪中的影子”"
   },
   "trap_233_mpmage": {
+    "en_US": "Stable Sarkaz Caster Crystal",
+    "ja_JP": "定常状態サルカズ術師結晶",
     "zh_CN": "稳定态萨卡兹术师结晶"
   },
   "trap_234_mpmageb": {
+    "en_US": "Active Sarkaz Caster Crystal",
+    "ja_JP": "活性状態サルカズ術師結晶",
     "zh_CN": "活性态萨卡兹术师结晶"
   },
   "trap_235_hlnpcm": {

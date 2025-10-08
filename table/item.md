@@ -66,7 +66,7 @@ tip: 请善用浏览器的搜索功能
 | 30135 | D32钢 | D32 Steel | D32鋼 |
 | 30145 | 晶体电子单元 | Crystalline Electronic Unit | 結晶制御装置 |
 | 30155 | 烧结核凝晶 | Nucleic Crystal Sinter | 焼結核凝晶 |
-| 30165 | 重相位对映体 | - | - |
+| 30165 | 重相位对映体 | Rephasic Enantiomer | 重相位鏡像体 |
 | 31013 | 凝胶 | Coagulating Gel | 人工ゲル |
 | 31014 | 聚合凝胶 | Polymerized Gel | 融合ゲル |
 | 31023 | 炽合金 | Incandescent Alloy | 熾合金 |
@@ -84,8 +84,8 @@ tip: 请善用浏览器的搜索功能
 | 31074 | 固化纤维板 | Solidified Fiber Board | 硬化ファイバー基板 |
 | 31083 | 环烃聚质 | Aggregate Cyclicene | 炭化水素ポリマー |
 | 31084 | 环烃预制体 | Cyclicene Prefab | プレハブ式炭化水素 |
-| 31093 | 类凝结核 | - | - |
-| 31094 | 手性屈光体 | - | - |
+| 31093 | 类凝结核 | Coagulative Nodule | 凝固核 |
+| 31094 | 手性屈光体 | Chiral Refractor | カイラル屈光体 |
 | 3112 | 碳 | Carbon Stick | 初級炭素材 |
 | 3113 | 碳素 | Carbon Brick | 中級炭素材 |
 | 3114 | 碳素组 | Carbon Pack | 上級炭素材 |
@@ -196,8 +196,8 @@ tip: 请善用浏览器的搜索功能
 | SINGLE_49_0_1_GACHA_10 | 如死亦终十连寻访凭证 | Like Ending Like Death Ten-roll Headhunting Permit | イベント10回スカウト券 |
 | SINGLE_55_0_1_GACHA | 未致蒙尘寻访凭证 | Never Gilded Headhunting Permit | 褪せざる栄光スカウト券 |
 | SINGLE_55_0_1_GACHA_10 | 未致蒙尘十连寻访凭证 | Exclusive Ten-roll Headhunting Permit | 褪せざる栄光10回スカウト券 |
-| SINGLE_60_0_1_GACHA | 指令重构寻访凭证 | - | - |
-| SINGLE_60_0_1_GACHA_10 | 指令重构十连寻访凭证 | - | - |
+| SINGLE_60_0_1_GACHA | 指令重构寻访凭证 | Command: Reconstruction Headhunting Permit | イベントスカウト券 |
+| SINGLE_60_0_1_GACHA_10 | 指令重构十连寻访凭证 | Command: Reconstruction Ten-roll Headhunting Permit | イベント10回スカウト券 |
 | SOCIAL_PT | 信用 | Credit | FP |
 | STORY_REVIEW_COIN | 事相碎片 | Information Fragments | 事象の欠片 |
 | act10d5_token_biscuit | 彼得海姆热销饼干 | Best-selling Peterheim Cookies | ぺテルヘイムクッキー |
@@ -334,7 +334,7 @@ tip: 请善用浏览器的搜索功能
 | act2bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
 | act2collection_point_token | “战略家”点数 | 'Strategist' Point | 「戦略家」ポイント |
 | act2enemyduel_milestone_point | 争锋大礼花 | - | - |
-| act2mainss_token | “勇气”胸章 | - | - |
+| act2mainss_token | “勇气”胸章 | 'Courage' Badge | 「勇気」のバッジ |
 | act2vmulti_token_cap | 参赛纪念 | Memento | 参加記念 |
 | act30side_token_box | 驮兽盲盒 | Burdenbeast Blind Box | 駄獣ミニフィギュア |
 | act30side_token_box_rep_1 | 驮兽盲盒 | Burdenbeast Blind Box | 駄獣ミニフィギュア |
@@ -342,7 +342,7 @@ tip: 请善用浏览器的搜索功能
 | act31side_token_box_rep_1 | 天桩 | Sky Pole | 天杭 |
 | act32side_token_stamp | 艺术馆集章卡 | Galería Stamp Card | スタンプカード |
 | act33side_token_sugar | 粗制糖块 | Raw Sugar Lumps | 粗製角砂糖 |
-| act33side_token_sugar_rep_1 | 粗制糖块 | - | - |
+| act33side_token_sugar_rep_1 | 粗制糖块 | Raw Sugar Lumps | 粗製角砂糖 |
 | act34side_token_chip | “应急物资”蓝图芯片 | 'Emergency Supplies' Blueprint Chip | 「非常用物資」設計図チップ |
 | act34side_token_chip_rep_1 | “应急物资”蓝图芯片 | - | - |
 | act35side_token_dust | 流光之沙 | Flowing Glimmerdust | 流光の砂 |
@@ -455,7 +455,7 @@ tip: 请善用浏览器的搜索功能
 | ap_supply_lt_120_2024_5 | “枕夜光” | 'Glimmering Dream' | 「夢誘夜光」 |
 | ap_supply_lt_120_2024_6 | 阿米娅的生日蛋糕 | Amiya's Birthday Cake | アーミヤのバースデーケーキ |
 | ap_supply_lt_120_2025_1 | 1101生日糕点 | - | - |
-| ap_supply_lt_120_2025_2 | 量大管饱甜品拼盘 | - | - |
+| ap_supply_lt_120_2025_2 | 量大管饱甜品拼盘 | Extremely Filling Dessert Platter | 激甘まんぷくプレート |
 | ap_supply_lt_120_2025_3 | “广寒乐” | - | - |
 | ap_supply_lt_120_2025_4 | “清秋玉” | - | - |
 | ap_supply_lt_120_2025_5 | “洒金韵” | - | - |
@@ -674,9 +674,9 @@ tip: 请善用浏览器的搜索功能
 | et_ObsidianPass_rep_1 | 黑曜石节门票 | Obsidian Festival Ticket | フェスチケット |
 | favor_add_ulika | 主播U的直播切片 | Streamer U's Stream Clips | ライバーUの配信切り抜き |
 | itempack_gacha_1 | 福运鼓鼓礼袋 | Bounteous Fortunes Gift Bag | 幸運満タンパック |
-| itempack_gold_1 | 特别版!超强!老板奖章 | - | - |
+| itempack_gold_1 | 特别版!超强!老板奖章 | Super! Best! Boss Medal | 超絶！最強！リーダーメダル |
 | itempack_gold_2 | 精心准备的试饮套装 | - | - |
-| itempack_main_1 | 罗德岛补给箱 | - | - |
+| itempack_main_1 | 罗德岛补给箱 | Rhodes Island Supply Crate | ロドス補給箱 |
 | itempack_mod_10 | 狙击芯片组印刻仪 | Sniper Chip Pack Etcher | 中級狙撃SoCプリンター |
 | itempack_mod_11 | 术师芯片组印刻仪 | Caster Chip Pack Etcher | 中級術師SoCプリンター |
 | itempack_mod_12 | 医疗芯片组印刻仪 | Medic Chip Pack Etcher | 中級医療SoCプリンター |
@@ -1009,8 +1009,8 @@ tip: 请善用浏览器的搜索功能
 | p_char_4172_xingzh | 行箸的信物 | Xingzhu's Token | シィンズゥの印 |
 | p_char_4173_nowell | 诺威尔的信物 | Nowell's Token | ノウエルの印 |
 | p_char_4177_brigid | 水灯心的信物 | Brigid's Token | ブリギッドの印 |
-| p_char_4178_alanna | 阿兰娜的信物 | - | - |
-| p_char_4179_monstr | Mon3tr的信物 | - | - |
+| p_char_4178_alanna | 阿兰娜的信物 | Alanna's Token | アランナの印 |
+| p_char_4179_monstr | Mon3tr的信物 | Mon3tr's Token | Mon3trの印 |
 | p_char_4182_oblvns | 丰川祥子的信物 | - | - |
 | p_char_4183_mortis | 若叶睦的信物 | - | - |
 | p_char_4184_dolris | 三角初华的信物 | - | - |
@@ -1038,7 +1038,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_436_whispr | 絮雨的信物 | Whisperain's Token | ウィスパーレインの印 |
 | p_char_437_mizuki | 水月的信物 | Mizuki's Token | ミヅキの印 |
 | p_char_440_pinecn | 松果的信物 | Pinecone's Token | パインコーンの印 |
-| p_char_445_wscoot | 骋风的信物 | - | - |
+| p_char_445_wscoot | 骋风的信物 | Windscoot's Token | ウィンドスクートの印 |
 | p_char_446_aroma | 阿罗玛的信物 | Aroma's Token | アロマの印 |
 | p_char_449_glider | 蜜莓的信物 | Honeyberry's Token | ハニーベリーの印 |
 | p_char_450_necras | 死芒的信物 | Necrass's Token | ネクラスの印 |
@@ -1096,7 +1096,7 @@ tip: 请善用浏览器的搜索功能
 | randomMaterialRune_9 | 渊默行动物资补给 | Operation Deepness Supplies | 補給物資・「淵黙」 |
 | randomMaterial_1 | 罗德岛物资补给 | Rhodes Island Supplies | 補給物資・ロドス |
 | randomMaterial_10 | 罗德岛物资补给VII | Rhodes Island Supplies VII | 補給物資・ロドスVII |
-| randomMaterial_11 | 罗德岛物资补给VIII | - | - |
+| randomMaterial_11 | 罗德岛物资补给VIII | Rhodes Island Supplies VIII | 補給物資・ロドスVIII |
 | randomMaterial_2 | 岁过华灯 | New Year's Lantern | 年関ランタン |
 | randomMaterial_3 | 32h战略配给 | 32-hour Strategic Ration | 32h戦略補給 |
 | randomMaterial_4 | 感谢庆典物资补给 | Thank-You Celebration Supplies | 補給物資・「感謝祭」 |

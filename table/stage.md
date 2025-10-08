@@ -1091,10 +1091,10 @@ tip: 请善用浏览器的搜索功能
 | hard_14-02 | 灯塔行动-2 | Operation Pharos-2 | 光塔作戦-2 |
 | hard_14-03 | 灯塔行动-3 | Operation Pharos-3 | 光塔作戦-3 |
 | hard_14-04 | 灯塔行动-4 | Operation Pharos-4 | 光塔作戦-4 |
-| hard_15-01 | 机密预案-1 | - | - |
-| hard_15-02 | 机密预案-2 | - | - |
-| hard_15-03 | 机密预案-3 | - | - |
-| hard_15-04 | 机密预案-4 | - | - |
+| hard_15-01 | 机密预案-1 | Confidential Contingency - 1 | 機密計画-1 |
+| hard_15-02 | 机密预案-2 | Confidential Contingency - 2 | 機密計画-2 |
+| hard_15-03 | 机密预案-3 | Confidential Contingency - 3 | 機密計画-3 |
+| hard_15-04 | 机密预案-4 | Confidential Contingency - 4 | 機密計画-4 |
 | lt_01_01 | 五号矿洞 | Mine #5 | 5号坑道 |
 | lt_01_02 | 唯利是图 | Mercenary | 私利私欲 |
 | lt_01_03 | 恶势力 | Evil Forces | テロリスト |
@@ -1436,40 +1436,40 @@ tip: 请善用浏览器的搜索功能
 | main_14-18 | 列王行迹 | Procession of Kings | 王たちの行方 |
 | main_14-19 | 万千愿景 | The Myriad Dreams | それぞれの願う明日 |
 | main_14-20 | 在哀愁绽放的时刻 | When Sorrow Blooms | 哀愁が綻びる時に |
-| main_15-01 | 执此剑者 | - | - |
-| main_15-02 | 所谓奇迹 | - | - |
-| main_15-02#s | 所谓奇迹 | - | - |
-| main_15-03 | 深渊之侧 | - | - |
-| main_15-03#s | 深渊之侧 | - | - |
-| main_15-04 | 喧哗争端 | - | - |
-| main_15-04#s | 喧哗争端 | - | - |
-| main_15-05 | 刻骨入髓 | - | - |
-| main_15-05#s | 刻骨入髓 | - | - |
-| main_15-06 | 临界时刻 | - | - |
-| main_15-06#s | 临界时刻 | - | - |
-| main_15-07 | 破碎回响 | - | - |
-| main_15-07#s | 破碎回响 | - | - |
-| main_15-08 | 减压症候 | - | - |
-| main_15-08#s | 减压症候 | - | - |
-| main_15-09 | 隔离净空 | - | - |
-| main_15-09#s | 隔离净空 | - | - |
-| main_15-10 | 一段长梦将醒 | - | - |
-| main_15-10#s | 一段长梦将醒 | - | - |
-| main_15-11 | 目击众神死亡的荒原 | - | - |
-| main_15-11#s | 目击众神死亡的荒原 | - | - |
-| main_15-12 | 成为你的眼睛 | - | - |
-| main_15-12#s | 成为你的眼睛 | - | - |
-| main_15-13 | 在尘或血中 | - | - |
-| main_15-13#s | 在尘或血中 | - | - |
-| main_15-14 | 拒绝哀悼 | - | - |
-| main_15-14#s | 拒绝哀悼 | - | - |
-| main_15-15 | “她” | - | - |
-| main_15-15#s | “她” | - | - |
-| main_15-16 | 从未怀疑，从未远离 | - | - |
-| main_15-16#s | 从未怀疑，从未远离 | - | - |
-| main_15-17 | 直至，此刻 | - | - |
-| main_15-18 | 得以重回 | - | - |
-| main_15-18#s | 得以重回 | - | - |
+| main_15-01 | 执此剑者 | Bearer of the Sword | この剣を執る者 |
+| main_15-02 | 所谓奇迹 | In the Name of a Miracle | 奇跡とは |
+| main_15-02#s | 所谓奇迹 | In the Name of a Miracle | 奇跡とは |
+| main_15-03 | 深渊之侧 | Brink of the Abyss | 深淵のほとり |
+| main_15-03#s | 深渊之侧 | Brink of the Abyss | 深淵のほとり |
+| main_15-04 | 喧哗争端 | Origin of Conflict | 喧噪の中の争い |
+| main_15-04#s | 喧哗争端 | Origin of Conflict | 喧噪の中の争い |
+| main_15-05 | 刻骨入髓 | Etched Bone-Deep | 骨の髄に刻んで |
+| main_15-05#s | 刻骨入髓 | Etched Bone-Deep | 骨の髄に刻んで |
+| main_15-06 | 临界时刻 | Moment of Truth | 臨界の時 |
+| main_15-06#s | 临界时刻 | Moment of Truth | 臨界の時 |
+| main_15-07 | 破碎回响 | Broken Echoes | 砕ける残響 |
+| main_15-07#s | 破碎回响 | Broken Echoes | 砕ける残響 |
+| main_15-08 | 减压症候 | Decompression Syndrome | 減圧症 |
+| main_15-08#s | 减压症候 | Decompression Syndrome | 減圧症 |
+| main_15-09 | 隔离净空 | Dissociated Space | 隔離掃討 |
+| main_15-09#s | 隔离净空 | Dissociated Space | 隔離掃討 |
+| main_15-10 | 一段长梦将醒 | Wake From a Long Dream | 長き夢からの目覚め |
+| main_15-10#s | 一段长梦将醒 | Wake From a Long Dream | 長き夢からの目覚め |
+| main_15-11 | 目击众神死亡的荒原 | Bear Witness, the Death of the Gods | 神々の死を見届けし荒野 |
+| main_15-11#s | 目击众神死亡的荒原 | Bear Witness, the Death of the Gods | 神々の死を見届けし荒野 |
+| main_15-12 | 成为你的眼睛 | I Shall Be Your Eyes | あなたの目となって |
+| main_15-12#s | 成为你的眼睛 | I Shall Be Your Eyes | あなたの目となって |
+| main_15-13 | 在尘或血中 | In Dust or Blood | 塵、あるいは血の中で |
+| main_15-13#s | 在尘或血中 | In Dust or Blood | 塵、あるいは血の中で |
+| main_15-14 | 拒绝哀悼 | Rejection of Mourning | 哀悼を拒んで |
+| main_15-14#s | 拒绝哀悼 | Rejection of Mourning | 哀悼を拒んで |
+| main_15-15 | “她” | 'Her' | 「彼女」 |
+| main_15-15#s | “她” | 'Her' | 「彼女」 |
+| main_15-16 | 从未怀疑，从未远离 | Never Doubted, Never Far | 疑うことなく、離れることなく |
+| main_15-16#s | 从未怀疑，从未远离 | Never Doubted, Never Far | 疑うことなく、離れることなく |
+| main_15-17 | 直至，此刻 | Until, Now | 今、この時に至るまで |
+| main_15-18 | 得以重回 | Return to Beginnings | 果たされた再帰 |
+| main_15-18#s | 得以重回 | Return to Beginnings | 果たされた再帰 |
 | pro_a_1 | 防守 | Defense | 守備 |
 | pro_a_2 | 据守 | Guard | 防衛 |
 | pro_b_1 | 干涉 | Interference | 干渉 |
@@ -1518,9 +1518,9 @@ tip: 请善用浏览器的搜索功能
 | st_14-01 | 从回忆中坠落 | Fallen From Memory | 思い出からの墜落 |
 | st_14-02 | 自原点中降临 | Descent from the Origin | 原点からの降臨 |
 | st_14-03 | 良夜将死 | Night Goes Gentle | 終焉を迎える良き夜 |
-| st_15-01 | 过去与现在的终点 | - | - |
-| st_15-02 | 永恒与此刻的误差 | - | - |
-| st_15-03 | 大地与一隅的归宿 | - | - |
+| st_15-01 | 过去与现在的终点 | The End of Past and Present | 過去と現在の終点 |
+| st_15-02 | 永恒与此刻的误差 | Margin of Eternity and Now | 永遠と今との誤差 |
+| st_15-03 | 大地与一隅的归宿 | Where the Land and a Fragment Belong | 大地と片隅の居場所 |
 | sub_02-01 | 迟缓-1 | Slow-1 | 緩慢-1 |
 | sub_02-02 | 迟缓-2 | Slow-2 | 緩慢-2 |
 | sub_02-03 | 封锁-1 | Blockade-1 | 封鎖-1 |
@@ -1594,7 +1594,7 @@ tip: 请善用浏览器的搜索功能
 | tr_23 | 恶魔诱惑 | Devil's Temptation | 悪魔の誘惑 |
 | tr_24 | 寻迹而行 | Led to Pursue | 跡をたどって |
 | tr_25 | 特殊环境适应作战 | Special Environment Adaptive Ops | 特殊環境適応作戦 |
-| tr_26 | 内在威胁 | - | - |
+| tr_26 | 内在威胁 | The Threat Within | 内在する脅威 |
 | tr_s_1 | 综合作战训练1 | Comprehensive Combat Exercise 1 | 総合作戦訓練1 |
 | tr_s_2 | 综合作战训练2 | Comprehensive Combat Exercise 2 | 総合作戦訓練2 |
 | wk_armor_1 | 废墟清剿 | Ruins Siege | 廃墟殲滅 |
