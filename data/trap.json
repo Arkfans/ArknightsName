@@ -1572,6 +1572,15 @@
   "trap_255_pckzhn": {
     "zh_CN": "“斩”"
   },
+  "trap_270_spawnp": {
+    "zh_CN": "隐蔽矿道"
+  },
+  "trap_271_fowstn": {
+    "zh_CN": "严重污染设施"
+  },
+  "trap_272_nomstn": {
+    "zh_CN": "阻道岩壁"
+  },
   "trap_400_xbfarm": {
     "en_US": "Portable Planting Trough",
     "ja_JP": "栽培ポット",

@@ -193,6 +193,7 @@ tip: 请善用浏览器的搜索功能
 | act3d5 | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
 | act3d7 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act3fun | 愚人节活动 | April Fools' Day Event | エイプリルフール |
+| act3mainss | 反常光谱 | - | - |
 | act3mine | 葫芦谷矿区登录活动 | Gourd Valley Mining Area Login Event | ゴードバレー採鉱区 |
 | act3pray | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |
 | act3signvs | 端阳正午签到活动 | - | - |

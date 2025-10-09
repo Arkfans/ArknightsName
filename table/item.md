@@ -192,12 +192,15 @@ tip: 请善用浏览器的搜索功能
 | Logistics_Special_Permit | 后勤特别许可证 | Logistics Special Permit | 特別支援申請許可証 |
 | REP_COIN | 情报凭证 | Intelligence Certificate | 情報資格証 |
 | RETRO_COIN | 事相结晶 | Event Crystal | 事象の結晶 |
+| RandomSkinbox_1 | 时装回顾展 | - | - |
 | SINGLE_49_0_1_GACHA | 如死亦终寻访凭证 | Like Ending Like Death Headhunting Permit | イベントスカウト券 |
 | SINGLE_49_0_1_GACHA_10 | 如死亦终十连寻访凭证 | Like Ending Like Death Ten-roll Headhunting Permit | イベント10回スカウト券 |
 | SINGLE_55_0_1_GACHA | 未致蒙尘寻访凭证 | Never Gilded Headhunting Permit | 褪せざる栄光スカウト券 |
 | SINGLE_55_0_1_GACHA_10 | 未致蒙尘十连寻访凭证 | Exclusive Ten-roll Headhunting Permit | 褪せざる栄光10回スカウト券 |
 | SINGLE_60_0_1_GACHA | 指令重构寻访凭证 | Command: Reconstruction Headhunting Permit | イベントスカウト券 |
 | SINGLE_60_0_1_GACHA_10 | 指令重构十连寻访凭证 | Command: Reconstruction Ten-roll Headhunting Permit | イベント10回スカウト券 |
+| SINGLE_66_0_1_GACHA | 空白频段寻访凭证 | - | - |
+| SINGLE_66_0_1_GACHA_10 | 空白频段十连寻访凭证 | - | - |
 | SOCIAL_PT | 信用 | Credit | FP |
 | STORY_REVIEW_COIN | 事相碎片 | Information Fragments | 事象の欠片 |
 | act10d5_token_biscuit | 彼得海姆热销饼干 | Best-selling Peterheim Cookies | ぺテルヘイムクッキー |
@@ -360,6 +363,7 @@ tip: 请善用浏览器的搜索功能
 | act3bossrush_relic_04 | 过热运转 | Overcharge | オーバーヒート |
 | act3bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
 | act3collection_point_token | “战略家”点数 | 'Strategist' Point | 「戦略家」ポイント |
+| act3mainss_token | 打火石 | - | - |
 | act40side_token_yumyum | “生香” | 'Yum-yum!' | 「生香」 |
 | act41side_token_light | 损坏的源石灯 | Broken Originium Lamp | 壊れたランプ |
 | act42d0_token_evaluation | 试验数据集 | Experimental Dataset | テストデータ集 |
@@ -373,8 +377,7 @@ tip: 请善用浏览器的搜索功能
 | act4bossrush_relic_01 | 轻量化载荷 | Lightened Load | 積込み軽量化 |
 | act4bossrush_relic_02 | 核心预热 | Preheated Core | コア予熱 |
 | act4bossrush_relic_03 | 集群优势 | Strength In Numbers | クラスター戦法 |
-| act4bossrush_relic_04 | 渐进超频
- | Progressive Overclock
+| act4bossrush_relic_04 | 渐进超频 | Progressive Overclock
  | クロックアップ
  |
 | act4bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
@@ -673,10 +676,27 @@ tip: 请善用浏览器的搜索功能
 | et_ObsidianPass | 黑曜石节门票 | Obsidian Festival Ticket | フェスチケット |
 | et_ObsidianPass_rep_1 | 黑曜石节门票 | Obsidian Festival Ticket | フェスチケット |
 | favor_add_ulika | 主播U的直播切片 | Streamer U's Stream Clips | ライバーUの配信切り抜き |
+| giftPackageTicket_1_1 | 可露希尔补给券I | - | - |
+| giftPackageTicket_1_2 | 可露希尔补给券II | - | - |
+| giftPackageTicket_1_3 | 可露希尔补给券III | - | - |
+| giftPackageTicket_1_4 | 可露希尔补给券IV | - | - |
+| giftPackageTicket_1_5 | 可露希尔补给券V | - | - |
+| giftPackageTicket_2_1 | 可露希尔精选券I | - | - |
+| giftPackageTicket_2_2 | 可露希尔精选券II | - | - |
+| giftPackageTicket_2_3 | 可露希尔精选券III | - | - |
+| giftPackageTicket_2_4 | 可露希尔精选券IV | - | - |
+| giftPackageTicket_2_5 | 可露希尔精选券V | - | - |
+| giftPackageTicket_2_6 | 可露希尔精选券VI | - | - |
+| giftPackageTicket_3_1 | 可露希尔特需券I | - | - |
+| giftPackageTicket_3_2 | 可露希尔特需券II | - | - |
+| giftPackageTicket_3_3 | 可露希尔特需券III | - | - |
+| giftPackageTicket_3_4 | 可露希尔特需券IV | - | - |
+| giftPackageTicket_4_1 | 可露希尔珍藏券I | - | - |
 | itempack_gacha_1 | 福运鼓鼓礼袋 | Bounteous Fortunes Gift Bag | 幸運満タンパック |
 | itempack_gold_1 | 特别版!超强!老板奖章 | Super! Best! Boss Medal | 超絶！最強！リーダーメダル |
 | itempack_gold_2 | 精心准备的试饮套装 | - | - |
 | itempack_main_1 | 罗德岛补给箱 | Rhodes Island Supply Crate | ロドス補給箱 |
+| itempack_main_2 | 罗德岛补给箱 | - | - |
 | itempack_mod_10 | 狙击芯片组印刻仪 | Sniper Chip Pack Etcher | 中級狙撃SoCプリンター |
 | itempack_mod_11 | 术师芯片组印刻仪 | Caster Chip Pack Etcher | 中級術師SoCプリンター |
 | itempack_mod_12 | 医疗芯片组印刻仪 | Medic Chip Pack Etcher | 中級医療SoCプリンター |
@@ -687,6 +707,10 @@ tip: 请善用浏览器的搜索功能
 | itempack_mod_7 | 先锋芯片组印刻仪 | Vanguard Chip Pack Etcher | 中級先鋒SoCプリンター |
 | itempack_mod_8 | 近卫芯片组印刻仪 | Guard Chip Pack Etcher | 中級前衛SoCプリンター |
 | itempack_mod_9 | 重装芯片组印刻仪 | Defender Chip Pack Etcher | 中級重装SoCプリンター |
+| main16_spitem_1 | 暗淡的源石 | - | - |
+| main16_spitem_2 | 无主的矿灯 | - | - |
+| main16_spitem_3 | 涂改的旗帜 | - | - |
+| main16_spitem_4 | 未爆的哑弹 | - | - |
 | mcardVoucher | 月卡兑换凭证 | Monthly Card Exchange Permit | 月パス交換資格証 |
 | medal_activity_15side_01 | “诗酒乘兴” | 'The Joys of Poetry and Wine' | 「酔吟の興」 |
 | medal_activity_15side_03 | “寒芒新淬” | 'Refreshed in Cold Light' | 「寒芒新たに淬ぐ」 |
@@ -1027,6 +1051,9 @@ tip: 请善用浏览器的搜索功能
 | p_char_4199_makiri | 松桐的信物 | - | - |
 | p_char_4202_haruka | 遥的信物 | - | - |
 | p_char_4203_kichi | 吉星的信物 | - | - |
+| p_char_4204_mantra | 真言的信物 | - | - |
+| p_char_4207_branch | 折桠的信物 | - | - |
+| p_char_4208_wintim | 冬时的信物 | - | - |
 | p_char_420_flamtl | 焰尾的信物 | Flametail's Token | フレイムテイルの印 |
 | p_char_421_crow | 羽毛笔的信物 | La Pluma's Token | ラ・プルマの印 |
 | p_char_422_aurora | 极光的信物 | Aurora's Token | オーロラの印 |
@@ -1097,6 +1124,7 @@ tip: 请善用浏览器的搜索功能
 | randomMaterial_1 | 罗德岛物资补给 | Rhodes Island Supplies | 補給物資・ロドス |
 | randomMaterial_10 | 罗德岛物资补给VII | Rhodes Island Supplies VII | 補給物資・ロドスVII |
 | randomMaterial_11 | 罗德岛物资补给VIII | Rhodes Island Supplies VIII | 補給物資・ロドスVIII |
+| randomMaterial_12 | 罗德岛物资补给IX | - | - |
 | randomMaterial_2 | 岁过华灯 | New Year's Lantern | 年関ランタン |
 | randomMaterial_3 | 32h战略配给 | 32-hour Strategic Ration | 32h戦略補給 |
 | randomMaterial_4 | 感谢庆典物资补给 | Thank-You Celebration Supplies | 補給物資・「感謝祭」 |
@@ -1313,5 +1341,6 @@ tip: 请善用浏览器的搜索功能
 | voucher_skill_specialLevelMax_5 | 资深干员技巧集 | Senior Operator Skill Training Pack | ★5スキル指南集 |
 | voucher_skill_specialLevelMax_6 | 高级资深干员技巧集 | Top Operator Skill Training Pack | ★6スキル指南集 |
 | voucher_skin | 时装自选凭证 | Outfit Voucher | コーデ交換券 |
+| voucher_skin_2 | 回顾入场券 | - | - |
 | voucher_ulika | U-Official的文件夹 | U-Official's Folder | U-Officialの書類入れ |
 | voucher_vigil | 伺夜的文件夹 | Vigil's Folder | ヴィジェルの書類入れ |

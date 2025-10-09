@@ -924,6 +924,9 @@
     "ja_JP": "事象の結晶",
     "zh_CN": "事相结晶"
   },
+  "RandomSkinbox_1": {
+    "zh_CN": "时装回顾展"
+  },
   "SINGLE_49_0_1_GACHA": {
     "en_US": "Like Ending Like Death Headhunting Permit",
     "ja_JP": "イベントスカウト券",
@@ -953,6 +956,12 @@
     "en_US": "Command: Reconstruction Ten-roll Headhunting Permit",
     "ja_JP": "イベント10回スカウト券",
     "zh_CN": "指令重构十连寻访凭证"
+  },
+  "SINGLE_66_0_1_GACHA": {
+    "zh_CN": "空白频段寻访凭证"
+  },
+  "SINGLE_66_0_1_GACHA_10": {
+    "zh_CN": "空白频段十连寻访凭证"
   },
   "SOCIAL_PT": {
     "en_US": "Credit",
@@ -1720,6 +1729,9 @@
     "ja_JP": "「戦略家」ポイント",
     "zh_CN": "“战略家”点数"
   },
+  "act3mainss_token": {
+    "zh_CN": "打火石"
+  },
   "act40side_token_yumyum": {
     "en_US": "'Yum-yum!'",
     "ja_JP": "「生香」",
@@ -1776,7 +1788,7 @@
   "act4bossrush_relic_04": {
     "en_US": "Progressive Overclock\n",
     "ja_JP": "クロックアップ\n",
-    "zh_CN": "渐进超频\n"
+    "zh_CN": "渐进超频"
   },
   "act4bossrush_token_relic": {
     "en_US": "Data Blackbox",
@@ -3201,6 +3213,54 @@
     "ja_JP": "ライバーUの配信切り抜き",
     "zh_CN": "主播U的直播切片"
   },
+  "giftPackageTicket_1_1": {
+    "zh_CN": "可露希尔补给券I"
+  },
+  "giftPackageTicket_1_2": {
+    "zh_CN": "可露希尔补给券II"
+  },
+  "giftPackageTicket_1_3": {
+    "zh_CN": "可露希尔补给券III"
+  },
+  "giftPackageTicket_1_4": {
+    "zh_CN": "可露希尔补给券IV"
+  },
+  "giftPackageTicket_1_5": {
+    "zh_CN": "可露希尔补给券V"
+  },
+  "giftPackageTicket_2_1": {
+    "zh_CN": "可露希尔精选券I"
+  },
+  "giftPackageTicket_2_2": {
+    "zh_CN": "可露希尔精选券II"
+  },
+  "giftPackageTicket_2_3": {
+    "zh_CN": "可露希尔精选券III"
+  },
+  "giftPackageTicket_2_4": {
+    "zh_CN": "可露希尔精选券IV"
+  },
+  "giftPackageTicket_2_5": {
+    "zh_CN": "可露希尔精选券V"
+  },
+  "giftPackageTicket_2_6": {
+    "zh_CN": "可露希尔精选券VI"
+  },
+  "giftPackageTicket_3_1": {
+    "zh_CN": "可露希尔特需券I"
+  },
+  "giftPackageTicket_3_2": {
+    "zh_CN": "可露希尔特需券II"
+  },
+  "giftPackageTicket_3_3": {
+    "zh_CN": "可露希尔特需券III"
+  },
+  "giftPackageTicket_3_4": {
+    "zh_CN": "可露希尔特需券IV"
+  },
+  "giftPackageTicket_4_1": {
+    "zh_CN": "可露希尔珍藏券I"
+  },
   "itempack_gacha_1": {
     "en_US": "Bounteous Fortunes Gift Bag",
     "ja_JP": "幸運満タンパック",
@@ -3217,6 +3277,9 @@
   "itempack_main_1": {
     "en_US": "Rhodes Island Supply Crate",
     "ja_JP": "ロドス補給箱",
+    "zh_CN": "罗德岛补给箱"
+  },
+  "itempack_main_2": {
     "zh_CN": "罗德岛补给箱"
   },
   "itempack_mod_10": {
@@ -3268,6 +3331,18 @@
     "en_US": "Defender Chip Pack Etcher",
     "ja_JP": "中級重装SoCプリンター",
     "zh_CN": "重装芯片组印刻仪"
+  },
+  "main16_spitem_1": {
+    "zh_CN": "暗淡的源石"
+  },
+  "main16_spitem_2": {
+    "zh_CN": "无主的矿灯"
+  },
+  "main16_spitem_3": {
+    "zh_CN": "涂改的旗帜"
+  },
+  "main16_spitem_4": {
+    "zh_CN": "未爆的哑弹"
   },
   "mcardVoucher": {
     "en_US": "Monthly Card Exchange Permit",
@@ -4929,6 +5004,15 @@
   "p_char_4203_kichi": {
     "zh_CN": "吉星的信物"
   },
+  "p_char_4204_mantra": {
+    "zh_CN": "真言的信物"
+  },
+  "p_char_4207_branch": {
+    "zh_CN": "折桠的信物"
+  },
+  "p_char_4208_wintim": {
+    "zh_CN": "冬时的信物"
+  },
   "p_char_420_flamtl": {
     "en_US": "Flametail's Token",
     "ja_JP": "フレイムテイルの印",
@@ -5278,6 +5362,9 @@
     "en_US": "Rhodes Island Supplies VIII",
     "ja_JP": "補給物資・ロドスVIII",
     "zh_CN": "罗德岛物资补给VIII"
+  },
+  "randomMaterial_12": {
+    "zh_CN": "罗德岛物资补给IX"
   },
   "randomMaterial_2": {
     "en_US": "New Year's Lantern",
@@ -6314,6 +6401,9 @@
     "en_US": "Outfit Voucher",
     "ja_JP": "コーデ交換券",
     "zh_CN": "时装自选凭证"
+  },
+  "voucher_skin_2": {
+    "zh_CN": "回顾入场券"
   },
   "voucher_ulika": {
     "en_US": "U-Official's Folder",

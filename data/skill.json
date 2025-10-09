@@ -624,6 +624,12 @@
     "ja_JP": "クローズドボルト連射",
     "zh_CN": "闭膛连发"
   },
+  "skchr_branch_1": {
+    "zh_CN": "绝境抵抗"
+  },
+  "skchr_branch_2": {
+    "zh_CN": "生存决心"
+  },
   "skchr_breeze_1": {
     "en_US": "Cluster Therapy",
     "ja_JP": "集中療法",
@@ -2179,6 +2185,15 @@
     "en_US": "Toxic Overload",
     "ja_JP": "スコーピオンテール",
     "zh_CN": "蓄力毒尾击"
+  },
+  "skchr_mantra_1": {
+    "zh_CN": "共鸣溃缩"
+  },
+  "skchr_mantra_2": {
+    "zh_CN": "意识联协"
+  },
+  "skchr_mantra_3": {
+    "zh_CN": "无言为真"
   },
   "skchr_marcil_1": {
     "en_US": "A Top Student's Abilities",
@@ -3774,6 +3789,12 @@
     "en_US": "Energy Rapport",
     "ja_JP": "この身を源とす",
     "zh_CN": "此身为源"
+  },
+  "skchr_wintim_1": {
+    "zh_CN": "数据分析"
+  },
+  "skchr_wintim_2": {
+    "zh_CN": "循理归因"
   },
   "skchr_wisdel_1": {
     "en_US": "Localized Liquidation",
@@ -6245,6 +6266,9 @@
     "en_US": "Airspace Control",
     "ja_JP": "空域支配",
     "zh_CN": "空域控制"
+  },
+  "sktok_spawnp": {
+    "zh_CN": "协同指令"
   },
   "sktok_spblls": {
     "en_US": "Witchcraft Ballista",

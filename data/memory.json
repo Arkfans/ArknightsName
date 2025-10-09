@@ -225,6 +225,9 @@
     "ja_JP": "遥か遠く",
     "zh_CN": "触不可及"
   },
+  "story_bobb_set_1_story_1": {
+    "zh_CN": "谁与同行"
+  },
   "story_bpipe_set_1_story_1": {
     "en_US": "Dangerous Road",
     "ja_JP": "険しい道のり",
@@ -943,6 +946,9 @@
     "ja_JP": "黙して語らず",
     "zh_CN": "缄默"
   },
+  "story_mantra_set_1_story_1": {
+    "zh_CN": "无处不在"
+  },
   "story_mberry_set_1_story_1": {
     "en_US": "A Prayer for Peace",
     "ja_JP": "安全祈願",
@@ -1139,6 +1145,9 @@
     "en_US": "Yours Sincerely",
     "ja_JP": "拝啓",
     "zh_CN": "展信好"
+  },
+  "story_pinecn_set_2_story_1": {
+    "zh_CN": "从头来过"
   },
   "story_platnm_set_1_story_1": {
     "en_US": "Bubbles",
@@ -1524,6 +1533,9 @@
   },
   "story_tinman_set_1_story_1": {
     "zh_CN": "最后一案"
+  },
+  "story_tippi_set_1_story_1": {
+    "zh_CN": "获奖感言"
   },
   "story_tknogi_set_1_story_1": {
     "en_US": "An Ordinary Sunset",

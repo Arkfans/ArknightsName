@@ -51,6 +51,7 @@ tip: 请善用浏览器的搜索功能
 | story_blitz_set_1_story_1 | 团队坚盾 | The Team's Sturdy Shield | チームの盾 |
 | story_blkngt_set_1_story_1 | 荒地生灵 | Souls of the Wilderness | 荒野に生まれ |
 | story_bluep_set_1_story_1 | 触不可及 | Untouchable | 遥か遠く |
+| story_bobb_set_1_story_1 | 谁与同行 | - | - |
 | story_bpipe_set_1_story_1 | 难行长路 | Dangerous Road | 険しい道のり |
 | story_breeze_set_1_story_1 | 风暖寒林 | Breeze's Warmth, Chilled Forest | 林は寒く風は温か |
 | story_breeze_set_2_story_1 | 囚徒的幻梦 | Prisoner's Dream | 囚われ人のゆめ |
@@ -197,6 +198,7 @@ tip: 请善用浏览器的搜索功能
 | story_luton_set_1_story_1 | 阳光映照之下 | Under the Shining Sun | 日差しのもとで |
 | story_malist_set_1_story_1 | 长夏未尽 | In the Endless Summer | エンドレス・サマー |
 | story_mantic_set_1_story_1 | 缄默 | Dead Silence | 黙して語らず |
+| story_mantra_set_1_story_1 | 无处不在 | - | - |
 | story_mberry_set_1_story_1 | 平安祈愿 | A Prayer for Peace | 安全祈願 |
 | story_medic2_set_1_story_1 | 一个涂鸦 | A Piece of Graffiti | ある落書き |
 | story_melan_set_1_story_1 | 小队长 | Team Captain | 小隊長 |
@@ -238,6 +240,7 @@ tip: 请善用浏览器的搜索功能
 | story_pianst_set_1_story_1 | 夕阳与朝日 | Dämmerung und Anbruch | 夕日と朝日 |
 | story_pianst_set_2_story_1 | 阳光洒落之前 | Before the Spilling Sunlight | 陽光が降り注ぐ前に |
 | story_pinecn_set_1_story_1 | 展信好 | Yours Sincerely | 拝啓 |
+| story_pinecn_set_2_story_1 | 从头来过 | - | - |
 | story_platnm_set_1_story_1 | 泡沫 | Bubbles | 泡沫 |
 | story_plosis_set_1_story_1 | 深暗之梦 | Deep, Dark Dream | 真暗の夢 |
 | story_poca_set_1_story_1 | 昨天的明天 | Yesterday's Morrow | 昨日の明日 |
@@ -317,6 +320,7 @@ tip: 请善用浏览器的搜索功能
 | story_thorns_set_1_story_1 | 纪念日 | Anniversary | 記念日 |
 | story_tiger_set_1_story_1 | 干员间切磋指南 | The Guide to Mutual Learning | 手合わせマニュアル |
 | story_tinman_set_1_story_1 | 最后一案 | - | - |
+| story_tippi_set_1_story_1 | 获奖感言 | - | - |
 | story_tknogi_set_1_story_1 | 寻常夕阳 | An Ordinary Sunset | いつもの夕日 |
 | story_toddi_set_1_story_1 | 装甲与重弩 | Armor and Crossbow | 装甲と重弩 |
 | story_tomimi_set_1_story_1 | 崭新生活 | Brand New Life | 新たな生活 |

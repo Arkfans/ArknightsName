@@ -132,6 +132,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_bobb_2 | “此路不通” | 'You Shall Not Pass' | 「通行止め」 |
 | skchr_bpipe_2 | 高效冲击 | High-Impact Assault | ハイパーインパクト |
 | skchr_bpipe_3 | 闭膛连发 | Locked Breech Burst | クローズドボルト連射 |
+| skchr_branch_1 | 绝境抵抗 | - | - |
+| skchr_branch_2 | 生存决心 | - | - |
 | skchr_breeze_1 | 集束疗法 | Cluster Therapy | 集中療法 |
 | skchr_breeze_2 | 扩散疗法 | Widespread Therapy | 拡散療法 |
 | skchr_brigid_1 | 所熟知的 | Familiarity | ノマドの心得 |
@@ -452,6 +454,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_malist_2 | 神工意匠 | Prodigious Craftsmanship | マスターピース |
 | skchr_mantic_1 | 蝎毒 | Scorpion Venom | アジトキシン |
 | skchr_mantic_2 | 蓄力毒尾击 | Toxic Overload | スコーピオンテール |
+| skchr_mantra_1 | 共鸣溃缩 | - | - |
+| skchr_mantra_2 | 意识联协 | - | - |
+| skchr_mantra_3 | 无言为真 | - | - |
 | skchr_marcil_1 | 才女的实力 | A Top Student's Abilities | 才女の実力 |
 | skchr_marcil_2 | 召唤使魔 | Summon Familiar | 使い魔召喚 |
 | skchr_marcil_3 | 爆破魔法 | Explosion Magic | 爆破魔法 |
@@ -779,6 +784,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_wildmn_2 | 夹枪冲锋 | Lance Charge | ランスチャージ |
 | skchr_windft_1 | 此身为筑 | Machine Rapport | この身で築かす |
 | skchr_windft_2 | 此身为源 | Energy Rapport | この身を源とす |
+| skchr_wintim_1 | 数据分析 | - | - |
+| skchr_wintim_2 | 循理归因 | - | - |
 | skchr_wisdel_1 | 定点清算 | Localized Liquidation | クリアランス |
 | skchr_wisdel_2 | 饱和复仇 | Saturated Vengeance | オーバーレネゲード |
 | skchr_wisdel_3 | 爆裂黎明 | Explosive Dawn | デイブレイクバースト |
@@ -1296,6 +1303,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_sniper | 空域控制 | Airspace Control | 空域支配 |
 | sktok_snipera | 空域控制 | Airspace Control | 空域支配 |
 | sktok_sniperb | 空域控制 | Airspace Control | 空域支配 |
+| sktok_spawnp | 协同指令 | - | - |
 | sktok_spblls | 巫术弩炮 | Witchcraft Ballista | 巫術バリスタ |
 | sktok_stdurk_1 | “咔嚓！” | 'Snap!' | ｢カシャッ！｣ |
 | sktok_stmbot | 水汽汽水瓶 | Steam Soda Bottle | スチームサイダー |

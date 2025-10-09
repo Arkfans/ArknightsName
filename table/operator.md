@@ -340,6 +340,9 @@ tip: 请善用浏览器的搜索功能
 | char_4199_makiri | 松桐 | - | - |
 | char_4202_haruka | 遥 | - | - |
 | char_4203_kichi | 吉星 | - | - |
+| char_4204_mantra | 真言 | - | - |
+| char_4207_branch | 折桠 | - | - |
+| char_4208_wintim | 冬时 | - | - |
 | char_420_flamtl | 焰尾 | Flametail | フレイムテイル |
 | char_421_crow | 羽毛笔 | La Pluma | ラ・プルマ |
 | char_422_aurora | 极光 | Aurora | オーロラ |

@@ -126,6 +126,9 @@
     "ja_JP": "ホリデーHD26",
     "zh_CN": "悠然假日 HD26"
   },
+  "char_1027_greyy2@breaker#1": {
+    "zh_CN": "生化沉溺"
+  },
   "char_1027_greyy2@snow#5": {
     "en_US": "Aftershow",
     "ja_JP": "終演後の王子様",
@@ -377,6 +380,9 @@
     "en_US": "Refined Horrormare",
     "ja_JP": "典雅なる凶兆",
     "zh_CN": "典雅噩兆"
+  },
+  "char_141_nights@breaker#1": {
+    "zh_CN": "疗养地怪谈"
   },
   "char_143_ghost@winter#1": {
     "en_US": "Undercurrent",
@@ -1773,6 +1779,9 @@
   "char_4137_udflow@epoque#46": {
     "zh_CN": "层流"
   },
+  "char_4138_narant@breaker#1": {
+    "zh_CN": "链锯陪护者"
+  },
   "char_4140_lasher@sightseer#3": {
     "zh_CN": "憩羽"
   },
@@ -1788,6 +1797,9 @@
     "en_US": "Sweetness to the Heart",
     "ja_JP": "甘美な真心",
     "zh_CN": "甜美配方"
+  },
+  "char_4147_mitm@breaker#1": {
+    "zh_CN": "无影灯下"
   },
   "char_4151_tinman@sale#11": {
     "en_US": "Phase Face",
@@ -1894,6 +1906,9 @@
     "en_US": "Sing a Song",
     "ja_JP": "歌声よ届け",
     "zh_CN": "倾声歌唱"
+  },
+  "char_445_wscoot@epoque#49": {
+    "zh_CN": "异乡的云"
   },
   "char_449_glider@epoque#17": {
     "en_US": "Wildness Behind",

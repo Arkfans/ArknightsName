@@ -1470,6 +1470,38 @@ tip: 请善用浏览器的搜索功能
 | main_15-17 | 直至，此刻 | Until, Now | 今、この時に至るまで |
 | main_15-18 | 得以重回 | Return to Beginnings | 果たされた再帰 |
 | main_15-18#s | 得以重回 | Return to Beginnings | 果たされた再帰 |
+| main_16-01 | 晨曦遥远 | - | - |
+| main_16-01#s | 晨曦遥远 | - | - |
+| main_16-02 | 道路以目 | - | - |
+| main_16-02#s | 道路以目 | - | - |
+| main_16-03 | 友人成众 | - | - |
+| main_16-03#s | 友人成众 | - | - |
+| main_16-04 | 分水岭线 | - | - |
+| main_16-04#s | 分水岭线 | - | - |
+| main_16-05 | 痛觉明灭 | - | - |
+| main_16-05#s | 痛觉明灭 | - | - |
+| main_16-06 | 最后欢愉 | - | - |
+| main_16-06#s | 最后欢愉 | - | - |
+| main_16-07 | 无处可寻 | - | - |
+| main_16-07#s | 无处可寻 | - | - |
+| main_16-08 | 疯人的辩护 | - | - |
+| main_16-09 | 哭声渐息 | - | - |
+| main_16-09#s | 哭声渐息 | - | - |
+| main_16-10 | 来到坟茔 | - | - |
+| main_16-10#s | 来到坟茔 | - | - |
+| main_16-11 | 深埋地底 | - | - |
+| main_16-11#s | 深埋地底 | - | - |
+| main_16-12 | 不曾遗忘 | - | - |
+| main_16-12#s | 不曾遗忘 | - | - |
+| main_16-13 | 唯有坦途 | - | - |
+| main_16-13#s | 唯有坦途 | - | - |
+| main_16-14 | 旷野轰鸣 | - | - |
+| main_16-14#s | 旷野轰鸣 | - | - |
+| main_16-15 | 示我以真 | - | - |
+| main_16-15#s | 示我以真 | - | - |
+| main_16-16 | 力竭声嘶 | - | - |
+| main_16-16#s | 力竭声嘶 | - | - |
+| main_16-17 | 红日留驻 | - | - |
 | pro_a_1 | 防守 | Defense | 守備 |
 | pro_a_2 | 据守 | Guard | 防衛 |
 | pro_b_1 | 干涉 | Interference | 干渉 |
@@ -1484,6 +1516,10 @@ tip: 请善用浏览器的搜索功能
 | spst_08-04 | 燃烧的片段4 | Burnt Fragment 4 | 燃焼の断章4 |
 | spst_08-05 | 燃烧的片段5 | Burnt Fragment 5 | 燃焼の断章5 |
 | spst_14-01 | 慈悲遗愿 | Lingering Mercy | 慈悲深き悲願 |
+| spst_16-01 | 来信 | - | - |
+| spst_16-02 | 往事 | - | - |
+| spst_16-03 | 归乡 | - | - |
+| spst_16-04 | 无前 | - | - |
 | st_05-01 | 棋胜后着 | Decisive Counterattack | 後手の先手 |
 | st_06-01 | 别说过去的事 | Leave it Behind | 過去を語るな |
 | st_06-02 | 没有火,没有光 | No Light Without Fire | 火も、光もなく |
@@ -1521,6 +1557,8 @@ tip: 请善用浏览器的搜索功能
 | st_15-01 | 过去与现在的终点 | The End of Past and Present | 過去と現在の終点 |
 | st_15-02 | 永恒与此刻的误差 | Margin of Eternity and Now | 永遠と今との誤差 |
 | st_15-03 | 大地与一隅的归宿 | Where the Land and a Fragment Belong | 大地と片隅の居場所 |
+| st_16-01 | 庸人的救济 | - | - |
+| st_16-02 | 狂人的誓言 | - | - |
 | sub_02-01 | 迟缓-1 | Slow-1 | 緩慢-1 |
 | sub_02-02 | 迟缓-2 | Slow-2 | 緩慢-2 |
 | sub_02-03 | 封锁-1 | Blockade-1 | 封鎖-1 |
@@ -1595,6 +1633,7 @@ tip: 请善用浏览器的搜索功能
 | tr_24 | 寻迹而行 | Led to Pursue | 跡をたどって |
 | tr_25 | 特殊环境适应作战 | Special Environment Adaptive Ops | 特殊環境適応作戦 |
 | tr_26 | 内在威胁 | The Threat Within | 内在する脅威 |
+| tr_27 | 迷踪 | - | - |
 | tr_s_1 | 综合作战训练1 | Comprehensive Combat Exercise 1 | 総合作戦訓練1 |
 | tr_s_2 | 综合作战训练2 | Comprehensive Combat Exercise 2 | 総合作戦訓練2 |
 | wk_armor_1 | 废墟清剿 | Ruins Siege | 廃墟殲滅 |

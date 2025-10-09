@@ -2639,6 +2639,24 @@
       "zh_CN": "吉星"
     }
   },
+  "char_4204_mantra": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "真言"
+    }
+  },
+  "char_4207_branch": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "折桠"
+    }
+  },
+  "char_4208_wintim": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "冬时"
+    }
+  },
   "char_420_flamtl": {
     "type": "OPERATOR",
     "names": {
@@ -6319,6 +6337,24 @@
       "zh_CN": "“斩”"
     }
   },
+  "trap_270_spawnp": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "隐蔽矿道"
+    }
+  },
+  "trap_271_fowstn": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "严重污染设施"
+    }
+  },
+  "trap_272_nomstn": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "阻道岩壁"
+    }
+  },
   "trap_400_xbfarm": {
     "type": "TRAP",
     "names": {
@@ -8081,6 +8117,12 @@
       "zh_CN": "悠然假日 HD26"
     }
   },
+  "char_1027_greyy2@breaker#1": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "生化沉溺"
+    }
+  },
   "char_1027_greyy2@snow#5": {
     "type": "SKIN",
     "names": {
@@ -8487,6 +8529,12 @@
       "en_US": "Refined Horrormare",
       "ja_JP": "典雅なる凶兆",
       "zh_CN": "典雅噩兆"
+    }
+  },
+  "char_141_nights@breaker#1": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "疗养地怪谈"
     }
   },
   "char_143_ghost@winter#1": {
@@ -10745,6 +10793,12 @@
       "zh_CN": "层流"
     }
   },
+  "char_4138_narant@breaker#1": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "链锯陪护者"
+    }
+  },
   "char_4140_lasher@sightseer#3": {
     "type": "SKIN",
     "names": {
@@ -10771,6 +10825,12 @@
       "en_US": "Sweetness to the Heart",
       "ja_JP": "甘美な真心",
       "zh_CN": "甜美配方"
+    }
+  },
+  "char_4147_mitm@breaker#1": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "无影灯下"
     }
   },
   "char_4151_tinman@sale#11": {
@@ -10949,6 +11009,12 @@
       "en_US": "Sing a Song",
       "ja_JP": "歌声よ届け",
       "zh_CN": "倾声歌唱"
+    }
+  },
+  "char_445_wscoot@epoque#49": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "异乡的云"
     }
   },
   "char_449_glider@epoque#17": {
@@ -11263,6 +11329,12 @@
       "en_US": "Bloodline of Combat",
       "ja_JP": "闘争の血脈",
       "zh_CN": "斗争血脉"
+    }
+  },
+  "breaker": {
+    "type": "BRAND",
+    "names": {
+      "zh_CN": "破格视界"
     }
   },
   "crossover": {
@@ -13243,6 +13315,108 @@
       "en_US": "Caster Leader",
       "ja_JP": "術師隊長",
       "zh_CN": "术师组长"
+    }
+  },
+  "enemy_10120_uaghst": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "集团军潜行兵"
+    }
+  },
+  "enemy_10120_uaghst_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "集团军幽灵兵"
+    }
+  },
+  "enemy_10121_uasnip": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "集团军机动弩手"
+    }
+  },
+  "enemy_10121_uasnip_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "集团军精锐弩手"
+    }
+  },
+  "enemy_10122_uacann": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "集团军轻型火炮"
+    }
+  },
+  "enemy_10122_uacann_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "集团军重型火炮"
+    }
+  },
+  "enemy_10123_uareap": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "破城者"
+    }
+  },
+  "enemy_10123_uareap_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "破城者·Ⅱ型"
+    }
+  },
+  "enemy_10124_uashld": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "集团军盾卫"
+    }
+  },
+  "enemy_10124_uashld_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "集团军中坚盾卫"
+    }
+  },
+  "enemy_10125_uacomd": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "集团军前线指挥员"
+    }
+  },
+  "enemy_10125_uacomd_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "集团军核心指挥官"
+    }
+  },
+  "enemy_10126_rkbomb": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "异质源石虫"
+    }
+  },
+  "enemy_10126_rkbomb_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "异质源石虫·α"
+    }
+  },
+  "enemy_10127_rkmbst": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "异质裂兽"
+    }
+  },
+  "enemy_10127_rkmbst_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "异质裂兽·α"
+    }
+  },
+  "enemy_10128_fearpj": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“惘核”"
     }
   },
   "enemy_1012_dcross": {
@@ -20269,6 +20443,18 @@
       "zh_CN": "三船光平"
     }
   },
+  "enemy_1571_mirbst": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "狂躁异质裂兽"
+    }
+  },
+  "enemy_1572_folchr": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "圣愚"
+    }
+  },
   "enemy_18001_lhship": {
     "type": "ENEMY",
     "names": {
@@ -21247,6 +21433,18 @@
       "en_US": "EYESOFPRIESTESS",
       "ja_JP": "EYESOFPRIESTESS",
       "zh_CN": "EYESOFPRIESTESS"
+    }
+  },
+  "enemy_3010_mcreep": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "矿工游击队"
+    }
+  },
+  "enemy_3011_dyegrd": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“皇帝的利刃”，折戟者"
     }
   },
   "enemy_4001_toxcar": {
@@ -24051,6 +24249,12 @@
       "zh_CN": "愚人节活动"
     }
   },
+  "act3mainss": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "反常光谱"
+    }
+  },
   "act3mine": {
     "type": "ACTIVITY",
     "names": {
@@ -26412,6 +26616,12 @@
       "zh_CN": "事相结晶"
     }
   },
+  "RandomSkinbox_1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "时装回顾展"
+    }
+  },
   "SINGLE_49_0_1_GACHA": {
     "type": "ITEM",
     "names": {
@@ -26458,6 +26668,18 @@
       "en_US": "Command: Reconstruction Ten-roll Headhunting Permit",
       "ja_JP": "イベント10回スカウト券",
       "zh_CN": "指令重构十连寻访凭证"
+    }
+  },
+  "SINGLE_66_0_1_GACHA": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "空白频段寻访凭证"
+    }
+  },
+  "SINGLE_66_0_1_GACHA_10": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "空白频段十连寻访凭证"
     }
   },
   "SOCIAL_PT": {
@@ -27712,6 +27934,12 @@
       "zh_CN": "“战略家”点数"
     }
   },
+  "act3mainss_token": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "打火石"
+    }
+  },
   "act40side_token_yumyum": {
     "type": "ITEM",
     "names": {
@@ -27809,7 +28037,7 @@
     "names": {
       "en_US": "Progressive Overclock\n",
       "ja_JP": "クロックアップ\n",
-      "zh_CN": "渐进超频\n"
+      "zh_CN": "渐进超频"
     }
   },
   "act4bossrush_token_relic": {
@@ -30123,6 +30351,102 @@
       "zh_CN": "主播U的直播切片"
     }
   },
+  "giftPackageTicket_1_1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "可露希尔补给券I"
+    }
+  },
+  "giftPackageTicket_1_2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "可露希尔补给券II"
+    }
+  },
+  "giftPackageTicket_1_3": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "可露希尔补给券III"
+    }
+  },
+  "giftPackageTicket_1_4": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "可露希尔补给券IV"
+    }
+  },
+  "giftPackageTicket_1_5": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "可露希尔补给券V"
+    }
+  },
+  "giftPackageTicket_2_1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "可露希尔精选券I"
+    }
+  },
+  "giftPackageTicket_2_2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "可露希尔精选券II"
+    }
+  },
+  "giftPackageTicket_2_3": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "可露希尔精选券III"
+    }
+  },
+  "giftPackageTicket_2_4": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "可露希尔精选券IV"
+    }
+  },
+  "giftPackageTicket_2_5": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "可露希尔精选券V"
+    }
+  },
+  "giftPackageTicket_2_6": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "可露希尔精选券VI"
+    }
+  },
+  "giftPackageTicket_3_1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "可露希尔特需券I"
+    }
+  },
+  "giftPackageTicket_3_2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "可露希尔特需券II"
+    }
+  },
+  "giftPackageTicket_3_3": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "可露希尔特需券III"
+    }
+  },
+  "giftPackageTicket_3_4": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "可露希尔特需券IV"
+    }
+  },
+  "giftPackageTicket_4_1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "可露希尔珍藏券I"
+    }
+  },
   "itempack_gacha_1": {
     "type": "ITEM",
     "names": {
@@ -30150,6 +30474,12 @@
     "names": {
       "en_US": "Rhodes Island Supply Crate",
       "ja_JP": "ロドス補給箱",
+      "zh_CN": "罗德岛补给箱"
+    }
+  },
+  "itempack_main_2": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "罗德岛补给箱"
     }
   },
@@ -30231,6 +30561,30 @@
       "en_US": "Defender Chip Pack Etcher",
       "ja_JP": "中級重装SoCプリンター",
       "zh_CN": "重装芯片组印刻仪"
+    }
+  },
+  "main16_spitem_1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "暗淡的源石"
+    }
+  },
+  "main16_spitem_2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "无主的矿灯"
+    }
+  },
+  "main16_spitem_3": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "涂改的旗帜"
+    }
+  },
+  "main16_spitem_4": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "未爆的哑弹"
     }
   },
   "mcardVoucher": {
@@ -32913,6 +33267,24 @@
       "zh_CN": "吉星的信物"
     }
   },
+  "p_char_4204_mantra": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "真言的信物"
+    }
+  },
+  "p_char_4207_branch": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "折桠的信物"
+    }
+  },
+  "p_char_4208_wintim": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "冬时的信物"
+    }
+  },
   "p_char_420_flamtl": {
     "type": "ITEM",
     "names": {
@@ -33471,6 +33843,12 @@
       "en_US": "Rhodes Island Supplies VIII",
       "ja_JP": "補給物資・ロドスVIII",
       "zh_CN": "罗德岛物资补给VIII"
+    }
+  },
+  "randomMaterial_12": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "罗德岛物资补给IX"
     }
   },
   "randomMaterial_2": {
@@ -35157,6 +35535,12 @@
       "zh_CN": "时装自选凭证"
     }
   },
+  "voucher_skin_2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "回顾入场券"
+    }
+  },
   "voucher_ulika": {
     "type": "ITEM",
     "names": {
@@ -36111,6 +36495,12 @@
     "type": "POOL",
     "names": {
       "zh_CN": "未致蒙尘"
+    }
+  },
+  "SINGLE_66_0_1": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "空白频段 "
     }
   },
   "SPECIAL_54_0_5": {
@@ -38048,6 +38438,18 @@
       "en_US": "Locked Breech Burst",
       "ja_JP": "クローズドボルト連射",
       "zh_CN": "闭膛连发"
+    }
+  },
+  "skchr_branch_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "绝境抵抗"
+    }
+  },
+  "skchr_branch_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "生存决心"
     }
   },
   "skchr_breeze_1": {
@@ -40564,6 +40966,24 @@
       "en_US": "Toxic Overload",
       "ja_JP": "スコーピオンテール",
       "zh_CN": "蓄力毒尾击"
+    }
+  },
+  "skchr_mantra_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "共鸣溃缩"
+    }
+  },
+  "skchr_mantra_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "意识联协"
+    }
+  },
+  "skchr_mantra_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "无言为真"
     }
   },
   "skchr_marcil_1": {
@@ -43140,6 +43560,18 @@
       "en_US": "Energy Rapport",
       "ja_JP": "この身を源とす",
       "zh_CN": "此身为源"
+    }
+  },
+  "skchr_wintim_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "数据分析"
+    }
+  },
+  "skchr_wintim_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "循理归因"
     }
   },
   "skchr_wisdel_1": {
@@ -47162,6 +47594,12 @@
       "en_US": "Airspace Control",
       "ja_JP": "空域支配",
       "zh_CN": "空域控制"
+    }
+  },
+  "sktok_spawnp": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "协同指令"
     }
   },
   "sktok_spblls": {
@@ -59706,6 +60144,198 @@
       "zh_CN": "得以重回"
     }
   },
+  "main_16-01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "晨曦遥远"
+    }
+  },
+  "main_16-01#s": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "晨曦遥远"
+    }
+  },
+  "main_16-02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "道路以目"
+    }
+  },
+  "main_16-02#s": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "道路以目"
+    }
+  },
+  "main_16-03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "友人成众"
+    }
+  },
+  "main_16-03#s": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "友人成众"
+    }
+  },
+  "main_16-04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "分水岭线"
+    }
+  },
+  "main_16-04#s": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "分水岭线"
+    }
+  },
+  "main_16-05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "痛觉明灭"
+    }
+  },
+  "main_16-05#s": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "痛觉明灭"
+    }
+  },
+  "main_16-06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "最后欢愉"
+    }
+  },
+  "main_16-06#s": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "最后欢愉"
+    }
+  },
+  "main_16-07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "无处可寻"
+    }
+  },
+  "main_16-07#s": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "无处可寻"
+    }
+  },
+  "main_16-08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "疯人的辩护"
+    }
+  },
+  "main_16-09": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "哭声渐息"
+    }
+  },
+  "main_16-09#s": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "哭声渐息"
+    }
+  },
+  "main_16-10": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "来到坟茔"
+    }
+  },
+  "main_16-10#s": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "来到坟茔"
+    }
+  },
+  "main_16-11": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "深埋地底"
+    }
+  },
+  "main_16-11#s": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "深埋地底"
+    }
+  },
+  "main_16-12": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "不曾遗忘"
+    }
+  },
+  "main_16-12#s": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "不曾遗忘"
+    }
+  },
+  "main_16-13": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "唯有坦途"
+    }
+  },
+  "main_16-13#s": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "唯有坦途"
+    }
+  },
+  "main_16-14": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "旷野轰鸣"
+    }
+  },
+  "main_16-14#s": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "旷野轰鸣"
+    }
+  },
+  "main_16-15": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "示我以真"
+    }
+  },
+  "main_16-15#s": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "示我以真"
+    }
+  },
+  "main_16-16": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "力竭声嘶"
+    }
+  },
+  "main_16-16#s": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "力竭声嘶"
+    }
+  },
+  "main_16-17": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "红日留驻"
+    }
+  },
   "pro_a_1": {
     "type": "STAGE",
     "names": {
@@ -59816,6 +60446,30 @@
       "en_US": "Lingering Mercy",
       "ja_JP": "慈悲深き悲願",
       "zh_CN": "慈悲遗愿"
+    }
+  },
+  "spst_16-01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "来信"
+    }
+  },
+  "spst_16-02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "往事"
+    }
+  },
+  "spst_16-03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "归乡"
+    }
+  },
+  "spst_16-04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "无前"
     }
   },
   "st_05-01": {
@@ -60112,6 +60766,18 @@
       "en_US": "Where the Land and a Fragment Belong",
       "ja_JP": "大地と片隅の居場所",
       "zh_CN": "大地与一隅的归宿"
+    }
+  },
+  "st_16-01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "庸人的救济"
+    }
+  },
+  "st_16-02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "狂人的誓言"
     }
   },
   "sub_02-01": {
@@ -60704,6 +61370,12 @@
       "en_US": "The Threat Within",
       "ja_JP": "内在する脅威",
       "zh_CN": "内在威胁"
+    }
+  },
+  "tr_27": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "迷踪"
     }
   },
   "tr_s_1": {
@@ -62460,6 +63132,12 @@
       "zh_CN": "强敌当前"
     }
   },
+  "act3mainss_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "反常光谱"
+    }
+  },
   "act40side_zone1": {
     "type": "ZONE",
     "names": {
@@ -62852,6 +63530,12 @@
       "en_US": "Dissociative Recombination",
       "ja_JP": "解離結合",
       "zh_CN": "离解复合"
+    }
+  },
+  "permanent_main_2_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "反常光谱"
     }
   },
   "permanent_sidestory_10_zone1": {
@@ -63998,6 +64682,12 @@
       "en_US": "Untouchable",
       "ja_JP": "遥か遠く",
       "zh_CN": "触不可及"
+    }
+  },
+  "story_bobb_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "谁与同行"
     }
   },
   "story_bpipe_set_1_story_1": {
@@ -65156,6 +65846,12 @@
       "zh_CN": "缄默"
     }
   },
+  "story_mantra_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "无处不在"
+    }
+  },
   "story_mberry_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -65474,6 +66170,12 @@
       "en_US": "Yours Sincerely",
       "ja_JP": "拝啓",
       "zh_CN": "展信好"
+    }
+  },
+  "story_pinecn_set_2_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "从头来过"
     }
   },
   "story_platnm_set_1_story_1": {
@@ -66096,6 +66798,12 @@
     "type": "MEMORY",
     "names": {
       "zh_CN": "最后一案"
+    }
+  },
+  "story_tippi_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "获奖感言"
     }
   },
   "story_tknogi_set_1_story_1": {

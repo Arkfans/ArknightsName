@@ -32,6 +32,7 @@ tip: 请善用浏览器的搜索功能
 | char_1023_ghost2@boc#6 | 生而为一 | Born as One | 対なる一人 |
 | char_1024_hbisc2@unveiling#2 | 浪漫满厢 | Romance Overflow | 溢るる浪漫 |
 | char_1026_gvial2@summer#12 | 悠然假日 HD26 | Holiday HD26 | ホリデーHD26 |
+| char_1027_greyy2@breaker#1 | 生化沉溺 | - | - |
 | char_1027_greyy2@snow#5 | 演出后的王子 | Aftershow | 終演後の王子様 |
 | char_1028_texas2@epoque#36 | 幽兰秘辛 | Il Segreto Della Notte | 夜に秘する幽蘭 |
 | char_1028_texas2@iteration#1 | 破翼者 | Wingbreaker | ウィングブレイカー |
@@ -84,6 +85,7 @@ tip: 请善用浏览器的搜索功能
 | char_136_hsguma@summer#16 | 探寻者 SK97 | Seeker SK97 | シーカーSK97 |
 | char_137_brownb@kitchen#1 | 掠蜜能手 | Honey Pilferer | ハチミツハンター |
 | char_140_whitew@boc#1 | 典雅噩兆 | Refined Horrormare | 典雅なる凶兆 |
+| char_141_nights@breaker#1 | 疗养地怪谈 | - | - |
 | char_143_ghost@winter#1 | 暗流 | Undercurrent | 暗流 |
 | char_144_red@summer#6 | 轻风 LB01 | Light Breeze LB01 | そよ風LB01 |
 | char_145_prove@summer#3 | 悠然假日 HD08 | Casual Vacation HD08 | ホリデーHD08 |
@@ -371,10 +373,12 @@ tip: 请善用浏览器的搜索功能
 | char_4133_logos@ambienceSynesthesia#6 | 辉煌的静谧 | Radiant Serenity | 輝耀なる静謐 |
 | char_4136_phonor@boc#9 | 最初的颂歌 | - | - |
 | char_4137_udflow@epoque#46 | 层流 | - | - |
+| char_4138_narant@breaker#1 | 链锯陪护者 | - | - |
 | char_4140_lasher@sightseer#3 | 憩羽 | - | - |
 | char_4141_marcil@dungeon#1 | 泰拉冒险 | Terra & Traveller | テラの冒険者 |
 | char_4145_ulpia@epoque#48 | 注目深渊 | - | - |
 | char_4146_nymph@epoque#42 | 甜美配方 | Sweetness to the Heart | 甘美な真心 |
+| char_4147_mitm@breaker#1 | 无影灯下 | - | - |
 | char_4151_tinman@sale#11 | 相位面容 | Phase Face | フェーズフェイス |
 | char_4155_talr@yun#9 | 桂影窗 | - | - |
 | char_415_flint@boc#3 | 绚烂夏花 | Gorgeous Flower | 紫藤繚乱 |
@@ -399,6 +403,7 @@ tip: 请善用浏览器的搜索功能
 | char_437_mizuki@sale#7 | 夏日餮宴 | Summer Feast | 真夏の饗宴 |
 | char_440_pinecn@epoque#31 | 远行的季节 | Season of Travel | 遠出の季節 |
 | char_440_pinecn@shining#1 | 倾声歌唱 | Sing a Song | 歌声よ届け |
+| char_445_wscoot@epoque#49 | 异乡的云 | - | - |
 | char_449_glider@epoque#17 | 荒野之后 | Wildness Behind | 荒野のあとに |
 | char_449_glider@nian#10 | 洇灵雨 | Saturated Within Rain | 霊雨朦朧 |
 | char_450_necras@summer#20 | 夏卉 FA161 | - | - |

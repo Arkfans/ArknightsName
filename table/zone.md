@@ -198,6 +198,7 @@ tip: 请善用浏览器的搜索功能
 | act39side_zone1 | 盐漠开航 | Across the Salt Flat | 塩海横断 |
 | act39side_zone2 | 穿越骸礁 | Through the Skeletal Reef | 骸礁突破 |
 | act3bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
+| act3mainss_zone1 | 反常光谱 | - | - |
 | act40side_zone1 | 识七味 | Flavor of Food | 識七味 |
 | act40side_zone2 | 阅世情 | Flavor of Life | 閲世情 |
 | act40side_zone3 | 怅别离 | Farewell, Loved Ones | 悵別離 |
@@ -250,6 +251,7 @@ tip: 请善用浏览器的搜索功能
 | main_8 | 怒号光明 | Roaring Flare | 怒号光明 |
 | main_9 | 风暴瞭望 | Stormwatch | 暴風眺望 |
 | permanent_main_1_zone1 | 离解复合 | Dissociative Recombination | 解離結合 |
+| permanent_main_2_zone1 | 反常光谱 | - | - |
 | permanent_sidestory_10_zone1 | 大骑士领 | Kawalerielki | 大騎士領 |
 | permanent_sidestory_10_zone2 | 零号地块 | Area 0 | 零号地 |
 | permanent_sidestory_10_zone3 | 城市霓虹 | City Neon | 都市のネオン |

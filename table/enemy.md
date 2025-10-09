@@ -248,6 +248,23 @@ tip: 请善用浏览器的搜索功能
 | enemy_10119_ymgbxm_2 | 压力归零帮手 | - | - |
 | enemy_1011_wizard | 术师 | Caster | 術師 |
 | enemy_1011_wizard_2 | 术师组长 | Caster Leader | 術師隊長 |
+| enemy_10120_uaghst | 集团军潜行兵 | - | - |
+| enemy_10120_uaghst_2 | 集团军幽灵兵 | - | - |
+| enemy_10121_uasnip | 集团军机动弩手 | - | - |
+| enemy_10121_uasnip_2 | 集团军精锐弩手 | - | - |
+| enemy_10122_uacann | 集团军轻型火炮 | - | - |
+| enemy_10122_uacann_2 | 集团军重型火炮 | - | - |
+| enemy_10123_uareap | 破城者 | - | - |
+| enemy_10123_uareap_2 | 破城者·Ⅱ型 | - | - |
+| enemy_10124_uashld | 集团军盾卫 | - | - |
+| enemy_10124_uashld_2 | 集团军中坚盾卫 | - | - |
+| enemy_10125_uacomd | 集团军前线指挥员 | - | - |
+| enemy_10125_uacomd_2 | 集团军核心指挥官 | - | - |
+| enemy_10126_rkbomb | 异质源石虫 | - | - |
+| enemy_10126_rkbomb_2 | 异质源石虫·α | - | - |
+| enemy_10127_rkmbst | 异质裂兽 | - | - |
+| enemy_10127_rkmbst_2 | 异质裂兽·α | - | - |
+| enemy_10128_fearpj | “惘核” | - | - |
 | enemy_1012_dcross | 萨卡兹狙击手 | Sarkaz Crossbowman | サルカズ狙撃兵 |
 | enemy_1012_dcross_2 | 萨卡兹狙击组长 | Sarkaz Crossbowman Leader | サルカズ狙撃隊長 |
 | enemy_1013_airdrp | 空降兵 | Airborne Soldier | 空挺兵 |
@@ -1128,6 +1145,8 @@ tip: 请善用浏览器的搜索功能
 | enemy_1568_dirctr | “酒神” | - | - |
 | enemy_1569_ldevil | 莫菲丝 | - | - |
 | enemy_1570_ymgscm | 三船光平 | - | - |
+| enemy_1571_mirbst | 狂躁异质裂兽 | - | - |
+| enemy_1572_folchr | 圣愚 | - | - |
 | enemy_18001_lhship | 运输汽艇 | - | - |
 | enemy_18002_lhbetl | 小颚虫 | - | - |
 | enemy_18003_lhkarb | 吸气乱动机 | - | - |
@@ -1258,6 +1277,8 @@ tip: 请善用浏览器的搜索功能
 | enemy_3005_lpeopl_2 | 修道院居民 | Monastery Inhabitant | 修道院の住民 |
 | enemy_3006_tersia | 特蕾西娅，“魔王” | Theresa, King of Sarkaz | Theresa・「魔王」 |
 | enemy_3009_mpprss | EYESOFPRIESTESS | EYESOFPRIESTESS | EYESOFPRIESTESS |
+| enemy_3010_mcreep | 矿工游击队 | - | - |
+| enemy_3011_dyegrd | “皇帝的利刃”，折戟者 | - | - |
 | enemy_4001_toxcar | 改造瓦斯车 | Retrofitted Gastruck | 改造ガス車 |
 | enemy_4001_toxcar_2 | 高能瓦斯车 | Supercharged Gastruck | 拡容改造ガス車 |
 | enemy_4002_syokai | 二手廉价无人机 | Cheap Second-hand Drone | 中古低価ドローン |
