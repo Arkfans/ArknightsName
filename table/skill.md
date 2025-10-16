@@ -1264,6 +1264,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_revivecard | 回召 | Recall | 召還 |
 | sktok_rfrost_1 | 陷阱部署 | Trap Deployment | トラップセット |
 | sktok_rfrost_2 | 击倒猎物 | Incapacitated Prey | リーサルパシュート |
+| sktok_rgcssm | 古雕伥 | - | - |
 | sktok_rgdysm_1 | 雕伥 | - | - |
 | sktok_rmtarmn_1 | 研究成功 | Research Success | 研究成功 |
 | sktok_rmtarms_1 | 研究成功 | Research Success | 研究成功 |

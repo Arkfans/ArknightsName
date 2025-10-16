@@ -1269,6 +1269,9 @@ tip: 请善用浏览器的搜索功能
 | enemy_2119_dyshhj_2 | “岁躯” | - | - |
 | enemy_2120_dywqgs | “望” | - | - |
 | enemy_2122_dybgzd | 梁 | - | - |
+| enemy_2123_dyjsww | 后兽 | - | - |
+| enemy_2124_dyjsfg | 矩兽 | - | - |
+| enemy_2125_dylnpp | 小八界 | - | - |
 | enemy_3001_upeopl | 乌萨斯平民 | Ursus Civilian | ウルサス民間人 |
 | enemy_3002_ftrtal | 斗士塔露拉 | Talulah, the Fighter | 闘士タルラ |
 | enemy_3003_alymot | 大奖赛运输艇 | Competition Transport Vessel | 大会輸送艇 |

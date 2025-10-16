@@ -821,9 +821,11 @@ tip: 请善用浏览器的搜索功能
 | trap_253_boxnma | 压力舒缓帮手 | - | - |
 | trap_254_boxmac | 压力归零帮手 | - | - |
 | trap_255_pckzhn | “斩” | - | - |
+| trap_258_rgcssm | 古雕伥 | - | - |
 | trap_270_spawnp | 隐蔽矿道 | - | - |
 | trap_271_fowstn | 严重污染设施 | - | - |
 | trap_272_nomstn | 阻道岩壁 | - | - |
+| trap_278_dyfgdd | 狭路相逢 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |
 | trap_401_xbfato | 木材采集站 | Sawing Harvester Hub | 木材採取基地 |
 | trap_403_wfactory | 蟹蟹抽水泵 | Crabbie Pumpie | カニカニポンプ |
@@ -2750,6 +2752,9 @@ tip: 请善用浏览器的搜索功能
 | enemy_2119_dyshhj_2 | “岁躯” | - | - |
 | enemy_2120_dywqgs | “望” | - | - |
 | enemy_2122_dybgzd | 梁 | - | - |
+| enemy_2123_dyjsww | 后兽 | - | - |
+| enemy_2124_dyjsfg | 矩兽 | - | - |
+| enemy_2125_dylnpp | 小八界 | - | - |
 | enemy_3001_upeopl | 乌萨斯平民 | Ursus Civilian | ウルサス民間人 |
 | enemy_3002_ftrtal | 斗士塔露拉 | Talulah, the Fighter | 闘士タルラ |
 | enemy_3003_alymot | 大奖赛运输艇 | Competition Transport Vessel | 大会輸送艇 |
@@ -6122,6 +6127,7 @@ Event | なないろのお茶会 |
 | sktok_revivecard | 回召 | Recall | 召還 |
 | sktok_rfrost_1 | 陷阱部署 | Trap Deployment | トラップセット |
 | sktok_rfrost_2 | 击倒猎物 | Incapacitated Prey | リーサルパシュート |
+| sktok_rgcssm | 古雕伥 | - | - |
 | sktok_rgdysm_1 | 雕伥 | - | - |
 | sktok_rmtarmn_1 | 研究成功 | Research Success | 研究成功 |
 | sktok_rmtarms_1 | 研究成功 | Research Success | 研究成功 |
@@ -7392,6 +7398,10 @@ Event | なないろのお茶会 |
 | hard_15-02 | 机密预案-2 | Confidential Contingency - 2 | 機密計画-2 |
 | hard_15-03 | 机密预案-3 | Confidential Contingency - 3 | 機密計画-3 |
 | hard_15-04 | 机密预案-4 | Confidential Contingency - 4 | 機密計画-4 |
+| hard_16-01 | 异常预案-1 | - | - |
+| hard_16-02 | 异常预案-2 | - | - |
+| hard_16-03 | 异常预案-3 | - | - |
+| hard_16-04 | 异常预案-4 | - | - |
 | lt_01_01 | 五号矿洞 | Mine #5 | 5号坑道 |
 | lt_01_02 | 唯利是图 | Mercenary | 私利私欲 |
 | lt_01_03 | 恶势力 | Evil Forces | テロリスト |

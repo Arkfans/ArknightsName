@@ -1095,6 +1095,10 @@ tip: 请善用浏览器的搜索功能
 | hard_15-02 | 机密预案-2 | Confidential Contingency - 2 | 機密計画-2 |
 | hard_15-03 | 机密预案-3 | Confidential Contingency - 3 | 機密計画-3 |
 | hard_15-04 | 机密预案-4 | Confidential Contingency - 4 | 機密計画-4 |
+| hard_16-01 | 异常预案-1 | - | - |
+| hard_16-02 | 异常预案-2 | - | - |
+| hard_16-03 | 异常预案-3 | - | - |
+| hard_16-04 | 异常预案-4 | - | - |
 | lt_01_01 | 五号矿洞 | Mine #5 | 5号坑道 |
 | lt_01_02 | 唯利是图 | Mercenary | 私利私欲 |
 | lt_01_03 | 恶势力 | Evil Forces | テロリスト |
