@@ -468,6 +468,9 @@
   "act1switch": {
     "zh_CN": "宿于繁星合作活动"
   },
+  "act1teamquest": {
+    "zh_CN": "共竞目标"
+  },
   "act1unique": {
     "en_US": "Nine-Colored Deer Onboarding Event Retrospective",
     "ja_JP": "九色鹿復刻スタンプラリー",
@@ -707,6 +710,9 @@
     "en_US": "Popping Valley Mining Area Login Event",
     "ja_JP": "ポッピングバレー採鉱区",
     "zh_CN": "波平谷矿区登录活动"
+  },
+  "act2multi": {
+    "zh_CN": "促融共竞#2"
   },
   "act2pray": {
     "en_US": "Dossoles Amazing Wall",
@@ -1073,6 +1079,9 @@
     "en_US": "Twilight of Wolumonde - Rerun",
     "ja_JP": "ウォルモンドの薄暮・復刻",
     "zh_CN": "沃伦姆德的薄暮·复刻"
+  },
+  "act5switch": {
+    "zh_CN": "温情时光合作活动"
   },
   "act6collection": {
     "zh_CN": "梦城堡模拟训练"

@@ -5823,6 +5823,18 @@
     "ja_JP": "キックオフ！",
     "zh_CN": "重新发球！"
   },
+  "sktok_murbas": {
+    "zh_CN": "多向拼接"
+  },
+  "sktok_murjet": {
+    "zh_CN": "加力推进"
+  },
+  "sktok_murmag": {
+    "zh_CN": "磁吸信标"
+  },
+  "sktok_murtre": {
+    "zh_CN": "浮动搭载"
+  },
   "sktok_muruinb": {
     "en_US": "Logistical Maintenance",
     "ja_JP": "支援所展開",
@@ -5857,6 +5869,9 @@
     "en_US": "Go Team Go!",
     "ja_JP": "ファイト！",
     "zh_CN": "加油哦！"
+  },
+  "sktok_muulct": {
+    "zh_CN": "全都是虚像！"
   },
   "sktok_muulrg_1": {
     "en_US": "MEEEEOW!",

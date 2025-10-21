@@ -278,6 +278,7 @@ tip: 请善用浏览器的搜索功能
 | act1mainss_token_medi | 急性感染抑制剂 | Emergency Inhibitor | 急性感染抑制剤 |
 | act1multi_token_cap | 参赛认证-S1 | Participation Certificate - S1 | 参加認定証-S1 |
 | act1sandbox_milestone_point | 繁荣证章 | Badge of Prosperity | 繁栄の証 |
+| act1teamquest_point | 共竞积分 | - | - |
 | act1vautochess_token_chess | 卫戍认证 | Stronghold Credits | 堅守認証 |
 | act1vecb_milestone_point | 胜绩积分 | Attainment Point | 勝利記念品 |
 | act1vhalfidle_asc_cst | 术师进阶信物 | - | - |
@@ -338,6 +339,7 @@ tip: 请善用浏览器的搜索功能
 | act2collection_point_token | “战略家”点数 | 'Strategist' Point | 「戦略家」ポイント |
 | act2enemyduel_milestone_point | 争锋大礼花 | - | - |
 | act2mainss_token | “勇气”胸章 | 'Courage' Badge | 「勇気」のバッジ |
+| act2multi_token_cap | 参赛认证-S2 | - | - |
 | act2vmulti_token_cap | 参赛纪念 | Memento | 参加記念 |
 | act30side_token_box | 驮兽盲盒 | Burdenbeast Blind Box | 駄獣ミニフィギュア |
 | act30side_token_box_rep_1 | 驮兽盲盒 | Burdenbeast Blind Box | 駄獣ミニフィギュア |

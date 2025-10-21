@@ -1572,8 +1572,26 @@
   "trap_255_pckzhn": {
     "zh_CN": "“斩”"
   },
+  "trap_257_muulct": {
+    "zh_CN": "迷幻反射镜"
+  },
   "trap_258_rgcssm": {
     "zh_CN": "古雕伥"
+  },
+  "trap_259_murjet": {
+    "zh_CN": "全手动推进器"
+  },
+  "trap_260_murbas": {
+    "zh_CN": "基础浮板"
+  },
+  "trap_261_murmag": {
+    "zh_CN": "引力浮板"
+  },
+  "trap_262_murtre": {
+    "zh_CN": "物资浮板"
+  },
+  "trap_263_murbox": {
+    "zh_CN": "防水物资箱"
   },
   "trap_270_spawnp": {
     "zh_CN": "隐蔽矿道"

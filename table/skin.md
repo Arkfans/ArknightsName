@@ -40,6 +40,7 @@ tip: 请善用浏览器的搜索功能
 | char_102_texas@winter#1 | 寒冬信使 | Winter Messenger | 冬の使者 |
 | char_1031_slent2@epoque#32 | 栖息 | Habitat | 羽休め |
 | char_1032_excu2@sale#12 | 众志归一 | Allmind As One | 絶対の集合知 |
+| char_1032_excu2@sanrio#2 | 蒸汽寻踪者 | - | - |
 | char_1033_swire2@ambienceSynesthesia#4 | 律动方格 | Rhythmic Blocks | リズミックブロック |
 | char_1034_jesca2@cfa#1 | 《上任达维镇》 | 'Ride to Davistown' | 『デイヴィスタウンへ赴く』 |
 | char_1035_wisdel@sale#14 | 超新星 | - | - |
@@ -117,6 +118,7 @@ tip: 请善用浏览器的搜索功能
 | char_174_slbell@snow#1 | 开斯特之霜 | Caster's Frost | カスターの霜 |
 | char_179_cgbird@sightseer#1 | 流辉 | Iakhu of Flows | 流麗なる光 |
 | char_179_cgbird@witch#1 | 挽歌 | an elegy | 挽歌 |
+| char_180_amgoat@sanrio#2 | 绵绒小魔女 | - | - |
 | char_180_amgoat@summer#5 | 夏卉 FA018 | Summer Flower FA018 | 夏の花弁FA018 |
 | char_181_flower@daily#1 | 植物种志 | Species Plantarum | 植物紀年 |
 | char_181_flower@epoque#9 | 闲适午后 | Leisurely Afternoon | うららか |
@@ -263,6 +265,7 @@ tip: 请善用浏览器的搜索功能
 | char_346_aosta@game#2 | 光铳调试员 | Light Gun Adjuster | ライトガンテスター |
 | char_347_jaksel@whirlwind#2 | 纵身一跃 | Take a Leap | ひとっ飛び |
 | char_348_ceylon@summer#13 | 悠然假日 HD49 | Holiday HD49 | ホリデーHD49 |
+| char_349_chiave@race#2 | 一人车队 | - | - |
 | char_350_surtr@it#1 | 自由//失效 | Liberté//Échec | 自由//失效 |
 | char_350_surtr@summer#9 | 缤纷奇境 CW03 | Colorful Wonderland CW03 | 極彩の楽園CW03 |
 | char_355_ethan@epoque#7 | 渗透 | Infiltrator | 同化 |
@@ -315,6 +318,7 @@ tip: 请善用浏览器的搜索功能
 | char_4040_rockr@lxh#1 | 欢唱之前 | Before Singing | 歌の前に |
 | char_4041_chnut@summer#12 | 悠然假日 HDm57 | Holiday HDm57 | ホリデーHDm57 |
 | char_4042_lumen@ambienceSynesthesia#3 | 灿海浮梦 | Golden Dream | 輝ける夢の海 |
+| char_4042_lumen@sanrio#2 | 雨霓行游客 | - | - |
 | char_4043_erato@snow#5 | 未讲述的故事 | Untold Stories | 語られざる物語 |
 | char_4045_heidi@epoque#24 | 书信零落 | A Thousand Correspondences | 溢れ落ちる手紙 |
 | char_4046_ebnhlz@boc#6 | 变奏 | Eine Variation | 変奏 |

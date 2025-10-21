@@ -6413,6 +6413,60 @@
     "ja_JP": "狂走記念碑",
     "zh_CN": "狂奔丰碑"
   },
+  "enemy_4040_mugoal": {
+    "zh_CN": "终点信标塔"
+  },
+  "enemy_4041_mundr": {
+    "zh_CN": "红宝石飞翼"
+  },
+  "enemy_4042_murdr": {
+    "zh_CN": "蓝宝石飞翼"
+  },
+  "enemy_4043_muedr": {
+    "zh_CN": "钻石飞翼"
+  },
+  "enemy_4044_mutdek": {
+    "zh_CN": "物资浮板"
+  },
+  "enemy_4045_murtre": {
+    "zh_CN": "沉水物资箱"
+  },
+  "enemy_4046_muobst": {
+    "zh_CN": "定点浮标"
+  },
+  "enemy_4047_mustak": {
+    "zh_CN": "火盆浮标"
+  },
+  "enemy_4048_mubarn": {
+    "zh_CN": "盐水健身客"
+  },
+  "enemy_4048_mubarn_2": {
+    "zh_CN": "“超级钳”盐水健身客"
+  },
+  "enemy_4049_muston": {
+    "zh_CN": "引浪兽"
+  },
+  "enemy_4049_muston_2": {
+    "zh_CN": "“水上明珠”引浪兽"
+  },
+  "enemy_4050_mubbar": {
+    "zh_CN": "深水大力士"
+  },
+  "enemy_4050_mubbar_2": {
+    "zh_CN": "“举重王”深水大力士"
+  },
+  "enemy_4051_mublow": {
+    "zh_CN": "潮风操控者"
+  },
+  "enemy_4051_mublow_2": {
+    "zh_CN": "“风向标”潮风操控者"
+  },
+  "enemy_4052_mulaze": {
+    "zh_CN": "眩光记录员"
+  },
+  "enemy_4052_mulaze_2": {
+    "zh_CN": "“裁决者”眩光记录员"
+  },
   "enemy_5008_cstrwd": {
     "en_US": "The Boons of Art!",
     "ja_JP": "芸術の慈悲！",

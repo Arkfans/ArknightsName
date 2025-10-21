@@ -346,7 +346,13 @@ tip: 请善用浏览器的搜索功能
 | trap_253_boxnma | 压力舒缓帮手 | - | - |
 | trap_254_boxmac | 压力归零帮手 | - | - |
 | trap_255_pckzhn | “斩” | - | - |
+| trap_257_muulct | 迷幻反射镜 | - | - |
 | trap_258_rgcssm | 古雕伥 | - | - |
+| trap_259_murjet | 全手动推进器 | - | - |
+| trap_260_murbas | 基础浮板 | - | - |
+| trap_261_murmag | 引力浮板 | - | - |
+| trap_262_murtre | 物资浮板 | - | - |
+| trap_263_murbox | 防水物资箱 | - | - |
 | trap_270_spawnp | 隐蔽矿道 | - | - |
 | trap_271_fowstn | 严重污染设施 | - | - |
 | trap_272_nomstn | 阻道岩壁 | - | - |

@@ -690,6 +690,36 @@ tip: 请善用浏览器的搜索功能
 | act2bossrush_04 | 骄阳之影 | Proud Sun's Shadow | 燦陽の影 |
 | act2enemyduel_01a | 争锋对决！ | - | - |
 | act2enemyduel_01b | 争锋对决！ | - | - |
+| act2multi_01 | 无声的默契 | - | - |
+| act2multi_02 | 火热捉迷藏 | - | - |
+| act2multi_03 | 暗夜微光 | - | - |
+| act2multi_04 | 聚光灯下 | - | - |
+| act2multi_05 | 急速撤离 | - | - |
+| act2multi_06 | 助威团之争 | - | - |
+| act2multi_07 | 爆炸性新闻 | - | - |
+| act2multi_08 | 冰爽速递 | - | - |
+| act2multi_09 | 大巴扎巡礼 | - | - |
+| act2multi_10 | 踏浪匪盗 | - | - |
+| act2multi_ex-raft | 全动力航行 | - | - |
+| act2multi_fortress-01 | 小心踩踏 | - | - |
+| act2multi_fortress-02 | 风洞实验室 | - | - |
+| act2multi_fortress-ex-01 | 小心踩踏 | - | - |
+| act2multi_fortress-ex-02 | 风洞实验室 | - | - |
+| act2multi_fortress-ex-rm01 | 湿地跨栏 | - | - |
+| act2multi_fortress-hard-01 | 无限制越野 | - | - |
+| act2multi_fortress-rm01 | 湿地跨栏 | - | - |
+| act2multi_hard-01 | 甲板风云 | - | - |
+| act2multi_hard-02 | 黄沙急行 | - | - |
+| act2multi_hard-03 | 压轴大戏 | - | - |
+| act2multi_hard-raft | 全动力航行 | - | - |
+| act2multi_raft | 全动力航行 | - | - |
+| act2multi_rm01 | 逃离火线 | - | - |
+| act2multi_rm02 | 当意外来敲门 | - | - |
+| act2multi_rm03 | 密探有专车接送 | - | - |
+| act2multi_rm04 | 移动靶射击练习 | - | - |
+| act2multi_tr01 | 规则教学-常规项目 | - | - |
+| act2multi_tr02 | 规则教学-障碍漂航 | - | - |
+| act2multi_tr03 | 规则教学-堡垒守御 | - | - |
 | act2vmulti-01 | 嘟嘟喇叭 | Blaring Horns | 響けチアホーン |
 | act2vmulti-02 | 军事化训练 | Drills | 軍事訓練 |
 | act2vmulti-03 | 单行赛道 | One-Way Course | 独占コース |

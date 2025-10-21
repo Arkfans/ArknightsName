@@ -3298,6 +3298,96 @@
   "act2enemyduel_01b": {
     "zh_CN": "争锋对决！"
   },
+  "act2multi_01": {
+    "zh_CN": "无声的默契"
+  },
+  "act2multi_02": {
+    "zh_CN": "火热捉迷藏"
+  },
+  "act2multi_03": {
+    "zh_CN": "暗夜微光"
+  },
+  "act2multi_04": {
+    "zh_CN": "聚光灯下"
+  },
+  "act2multi_05": {
+    "zh_CN": "急速撤离"
+  },
+  "act2multi_06": {
+    "zh_CN": "助威团之争"
+  },
+  "act2multi_07": {
+    "zh_CN": "爆炸性新闻"
+  },
+  "act2multi_08": {
+    "zh_CN": "冰爽速递"
+  },
+  "act2multi_09": {
+    "zh_CN": "大巴扎巡礼"
+  },
+  "act2multi_10": {
+    "zh_CN": "踏浪匪盗"
+  },
+  "act2multi_ex-raft": {
+    "zh_CN": "全动力航行"
+  },
+  "act2multi_fortress-01": {
+    "zh_CN": "小心踩踏"
+  },
+  "act2multi_fortress-02": {
+    "zh_CN": "风洞实验室"
+  },
+  "act2multi_fortress-ex-01": {
+    "zh_CN": "小心踩踏"
+  },
+  "act2multi_fortress-ex-02": {
+    "zh_CN": "风洞实验室"
+  },
+  "act2multi_fortress-ex-rm01": {
+    "zh_CN": "湿地跨栏"
+  },
+  "act2multi_fortress-hard-01": {
+    "zh_CN": "无限制越野"
+  },
+  "act2multi_fortress-rm01": {
+    "zh_CN": "湿地跨栏"
+  },
+  "act2multi_hard-01": {
+    "zh_CN": "甲板风云"
+  },
+  "act2multi_hard-02": {
+    "zh_CN": "黄沙急行"
+  },
+  "act2multi_hard-03": {
+    "zh_CN": "压轴大戏"
+  },
+  "act2multi_hard-raft": {
+    "zh_CN": "全动力航行"
+  },
+  "act2multi_raft": {
+    "zh_CN": "全动力航行"
+  },
+  "act2multi_rm01": {
+    "zh_CN": "逃离火线"
+  },
+  "act2multi_rm02": {
+    "zh_CN": "当意外来敲门"
+  },
+  "act2multi_rm03": {
+    "zh_CN": "密探有专车接送"
+  },
+  "act2multi_rm04": {
+    "zh_CN": "移动靶射击练习"
+  },
+  "act2multi_tr01": {
+    "zh_CN": "规则教学-常规项目"
+  },
+  "act2multi_tr02": {
+    "zh_CN": "规则教学-障碍漂航"
+  },
+  "act2multi_tr03": {
+    "zh_CN": "规则教学-堡垒守御"
+  },
   "act2vmulti-01": {
     "en_US": "Blaring Horns",
     "ja_JP": "響けチアホーン",

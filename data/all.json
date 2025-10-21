@@ -6337,10 +6337,46 @@
       "zh_CN": "“斩”"
     }
   },
+  "trap_257_muulct": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "迷幻反射镜"
+    }
+  },
   "trap_258_rgcssm": {
     "type": "TRAP",
     "names": {
       "zh_CN": "古雕伥"
+    }
+  },
+  "trap_259_murjet": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "全手动推进器"
+    }
+  },
+  "trap_260_murbas": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "基础浮板"
+    }
+  },
+  "trap_261_murmag": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "引力浮板"
+    }
+  },
+  "trap_262_murtre": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "物资浮板"
+    }
+  },
+  "trap_263_murbox": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "防水物资箱"
     }
   },
   "trap_270_spawnp": {
@@ -8191,6 +8227,12 @@
       "zh_CN": "众志归一"
     }
   },
+  "char_1032_excu2@sanrio#2": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "蒸汽寻踪者"
+    }
+  },
   "char_1033_swire2@ambienceSynesthesia#4": {
     "type": "SKIN",
     "names": {
@@ -8787,6 +8829,12 @@
       "en_US": "an elegy",
       "ja_JP": "挽歌",
       "zh_CN": "挽歌"
+    }
+  },
+  "char_180_amgoat@sanrio#2": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "绵绒小魔女"
     }
   },
   "char_180_amgoat@summer#5": {
@@ -9949,6 +9997,12 @@
       "zh_CN": "悠然假日 HD49"
     }
   },
+  "char_349_chiave@race#2": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "一人车队"
+    }
+  },
   "char_350_surtr@it#1": {
     "type": "SKIN",
     "names": {
@@ -10359,6 +10413,12 @@
       "en_US": "Golden Dream",
       "ja_JP": "輝ける夢の海",
       "zh_CN": "灿海浮梦"
+    }
+  },
+  "char_4042_lumen@sanrio#2": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "雨霓行游客"
     }
   },
   "char_4043_erato@snow#5": {
@@ -21941,6 +22001,114 @@
       "zh_CN": "狂奔丰碑"
     }
   },
+  "enemy_4040_mugoal": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "终点信标塔"
+    }
+  },
+  "enemy_4041_mundr": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "红宝石飞翼"
+    }
+  },
+  "enemy_4042_murdr": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "蓝宝石飞翼"
+    }
+  },
+  "enemy_4043_muedr": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "钻石飞翼"
+    }
+  },
+  "enemy_4044_mutdek": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "物资浮板"
+    }
+  },
+  "enemy_4045_murtre": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "沉水物资箱"
+    }
+  },
+  "enemy_4046_muobst": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "定点浮标"
+    }
+  },
+  "enemy_4047_mustak": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "火盆浮标"
+    }
+  },
+  "enemy_4048_mubarn": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "盐水健身客"
+    }
+  },
+  "enemy_4048_mubarn_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“超级钳”盐水健身客"
+    }
+  },
+  "enemy_4049_muston": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "引浪兽"
+    }
+  },
+  "enemy_4049_muston_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“水上明珠”引浪兽"
+    }
+  },
+  "enemy_4050_mubbar": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "深水大力士"
+    }
+  },
+  "enemy_4050_mubbar_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“举重王”深水大力士"
+    }
+  },
+  "enemy_4051_mublow": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "潮风操控者"
+    }
+  },
+  "enemy_4051_mublow_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“风向标”潮风操控者"
+    }
+  },
+  "enemy_4052_mulaze": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "眩光记录员"
+    }
+  },
+  "enemy_4052_mulaze_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“裁决者”眩光记录员"
+    }
+  },
   "enemy_5008_cstrwd": {
     "type": "ENEMY",
     "names": {
@@ -23593,6 +23761,12 @@
       "zh_CN": "宿于繁星合作活动"
     }
   },
+  "act1teamquest": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "共竞目标"
+    }
+  },
   "act1unique": {
     "type": "ACTIVITY",
     "names": {
@@ -23981,6 +24155,12 @@
       "en_US": "Popping Valley Mining Area Login Event",
       "ja_JP": "ポッピングバレー採鉱区",
       "zh_CN": "波平谷矿区登录活动"
+    }
+  },
+  "act2multi": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "促融共竞#2"
     }
   },
   "act2pray": {
@@ -24590,6 +24770,12 @@
       "en_US": "Twilight of Wolumonde - Rerun",
       "ja_JP": "ウォルモンドの薄暮・復刻",
       "zh_CN": "沃伦姆德的薄暮·复刻"
+    }
+  },
+  "act5switch": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "温情时光合作活动"
     }
   },
   "act6collection": {
@@ -27322,6 +27508,12 @@
       "zh_CN": "繁荣证章"
     }
   },
+  "act1teamquest_point": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "共竞积分"
+    }
+  },
   "act1vautochess_token_chess": {
     "type": "ITEM",
     "names": {
@@ -27768,6 +27960,12 @@
       "en_US": "'Courage' Badge",
       "ja_JP": "「勇気」のバッジ",
       "zh_CN": "“勇气”胸章"
+    }
+  },
+  "act2multi_token_cap": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "参赛认证-S2"
     }
   },
   "act2vmulti_token_cap": {
@@ -46906,6 +47104,30 @@
       "zh_CN": "重新发球！"
     }
   },
+  "sktok_murbas": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "多向拼接"
+    }
+  },
+  "sktok_murjet": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "加力推进"
+    }
+  },
+  "sktok_murmag": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "磁吸信标"
+    }
+  },
+  "sktok_murtre": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "浮动搭载"
+    }
+  },
   "sktok_muruinb": {
     "type": "SKILL",
     "names": {
@@ -46960,6 +47182,12 @@
       "en_US": "Go Team Go!",
       "ja_JP": "ファイト！",
       "zh_CN": "加油哦！"
+    }
+  },
+  "sktok_muulct": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "全都是虚像！"
     }
   },
   "sktok_muulrg_1": {
@@ -54098,6 +54326,186 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "争锋对决！"
+    }
+  },
+  "act2multi_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "无声的默契"
+    }
+  },
+  "act2multi_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "火热捉迷藏"
+    }
+  },
+  "act2multi_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "暗夜微光"
+    }
+  },
+  "act2multi_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "聚光灯下"
+    }
+  },
+  "act2multi_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "急速撤离"
+    }
+  },
+  "act2multi_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "助威团之争"
+    }
+  },
+  "act2multi_07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "爆炸性新闻"
+    }
+  },
+  "act2multi_08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "冰爽速递"
+    }
+  },
+  "act2multi_09": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "大巴扎巡礼"
+    }
+  },
+  "act2multi_10": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "踏浪匪盗"
+    }
+  },
+  "act2multi_ex-raft": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "全动力航行"
+    }
+  },
+  "act2multi_fortress-01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "小心踩踏"
+    }
+  },
+  "act2multi_fortress-02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "风洞实验室"
+    }
+  },
+  "act2multi_fortress-ex-01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "小心踩踏"
+    }
+  },
+  "act2multi_fortress-ex-02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "风洞实验室"
+    }
+  },
+  "act2multi_fortress-ex-rm01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "湿地跨栏"
+    }
+  },
+  "act2multi_fortress-hard-01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "无限制越野"
+    }
+  },
+  "act2multi_fortress-rm01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "湿地跨栏"
+    }
+  },
+  "act2multi_hard-01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "甲板风云"
+    }
+  },
+  "act2multi_hard-02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "黄沙急行"
+    }
+  },
+  "act2multi_hard-03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "压轴大戏"
+    }
+  },
+  "act2multi_hard-raft": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "全动力航行"
+    }
+  },
+  "act2multi_raft": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "全动力航行"
+    }
+  },
+  "act2multi_rm01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "逃离火线"
+    }
+  },
+  "act2multi_rm02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "当意外来敲门"
+    }
+  },
+  "act2multi_rm03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "密探有专车接送"
+    }
+  },
+  "act2multi_rm04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "移动靶射击练习"
+    }
+  },
+  "act2multi_tr01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "规则教学-常规项目"
+    }
+  },
+  "act2multi_tr02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "规则教学-障碍漂航"
+    }
+  },
+  "act2multi_tr03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "规则教学-堡垒守御"
     }
   },
   "act2vmulti-01": {

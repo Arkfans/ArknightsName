@@ -1342,6 +1342,9 @@
     "ja_JP": "繁栄の証",
     "zh_CN": "繁荣证章"
   },
+  "act1teamquest_point": {
+    "zh_CN": "共竞积分"
+  },
   "act1vautochess_token_chess": {
     "en_US": "Stronghold Credits",
     "ja_JP": "堅守認証",
@@ -1609,6 +1612,9 @@
     "en_US": "'Courage' Badge",
     "ja_JP": "「勇気」のバッジ",
     "zh_CN": "“勇气”胸章"
+  },
+  "act2multi_token_cap": {
+    "zh_CN": "参赛认证-S2"
   },
   "act2vmulti_token_cap": {
     "en_US": "Memento",

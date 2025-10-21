@@ -1340,6 +1340,24 @@ tip: 请善用浏览器的搜索功能
 | enemy_4037_mufbsc | 神射丰碑 | Monument to Accuracy | 百発百中記念碑 |
 | enemy_4038_mufbsd | 热情丰碑 | Monument to Passion | 情熱記念碑 |
 | enemy_4039_mufbse | 狂奔丰碑 | Monument to Swiftness | 狂走記念碑 |
+| enemy_4040_mugoal | 终点信标塔 | - | - |
+| enemy_4041_mundr | 红宝石飞翼 | - | - |
+| enemy_4042_murdr | 蓝宝石飞翼 | - | - |
+| enemy_4043_muedr | 钻石飞翼 | - | - |
+| enemy_4044_mutdek | 物资浮板 | - | - |
+| enemy_4045_murtre | 沉水物资箱 | - | - |
+| enemy_4046_muobst | 定点浮标 | - | - |
+| enemy_4047_mustak | 火盆浮标 | - | - |
+| enemy_4048_mubarn | 盐水健身客 | - | - |
+| enemy_4048_mubarn_2 | “超级钳”盐水健身客 | - | - |
+| enemy_4049_muston | 引浪兽 | - | - |
+| enemy_4049_muston_2 | “水上明珠”引浪兽 | - | - |
+| enemy_4050_mubbar | 深水大力士 | - | - |
+| enemy_4050_mubbar_2 | “举重王”深水大力士 | - | - |
+| enemy_4051_mublow | 潮风操控者 | - | - |
+| enemy_4051_mublow_2 | “风向标”潮风操控者 | - | - |
+| enemy_4052_mulaze | 眩光记录员 | - | - |
+| enemy_4052_mulaze_2 | “裁决者”眩光记录员 | - | - |
 | enemy_5008_cstrwd | 艺术的慈悲! | The Boons of Art! | 芸術の慈悲！ |
 | enemy_5009_shtrwd | 艺术的绝杀! | The Clutchness of Art! | 芸術の必殺技！ |
 | enemy_5010_catrdg | 弱弹 | Weaksauce | 弱い弾 |

@@ -1211,6 +1211,10 @@ tip: 请善用浏览器的搜索功能
 | sktok_mufrst | 混凝土路障 | Concrete Roadblock | コンクリ防壁 |
 | sktok_mufrwl | 液压式高台 | Hydraulic Platform | 油圧式高台 |
 | sktok_muftbl | 重新发球！ | Kickoff! | キックオフ！ |
+| sktok_murbas | 多向拼接 | - | - |
+| sktok_murjet | 加力推进 | - | - |
+| sktok_murmag | 磁吸信标 | - | - |
+| sktok_murtre | 浮动搭载 | - | - |
 | sktok_muruinb | 后勤维护 | Logistical Maintenance | 支援所展開 |
 | sktok_muruinf | 维护员 | Maintainer | 整備士 |
 | sktok_muruino | 器械维护 | Equipment Maintenance | 防壁展開 |
@@ -1218,6 +1222,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_muulas_1 | 看！烟花！ | Look! Fireworks! | たーまやー！ |
 | sktok_muulcl_1 | 都给我喝！ | Chug 'Em All! | たらふく飲んでけ！ |
 | sktok_muulco_1 | 加油哦！ | Go Team Go! | ファイト！ |
+| sktok_muulct | 全都是虚像！ | - | - |
 | sktok_muulrg_1 | 咪嗷嗷嗷嗷！ | MEEEEOW! | ニャアアアア！ |
 | sktok_muulwr_1 | 请穿上护具！ | Armor Up! | 防具を付けなさい！ |
 | sktok_nearl2_3 | “耀阳” | 'Blazing Sun' | 「ブレイジング・サン」 |

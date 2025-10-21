@@ -821,7 +821,13 @@ tip: 请善用浏览器的搜索功能
 | trap_253_boxnma | 压力舒缓帮手 | - | - |
 | trap_254_boxmac | 压力归零帮手 | - | - |
 | trap_255_pckzhn | “斩” | - | - |
+| trap_257_muulct | 迷幻反射镜 | - | - |
 | trap_258_rgcssm | 古雕伥 | - | - |
+| trap_259_murjet | 全手动推进器 | - | - |
+| trap_260_murbas | 基础浮板 | - | - |
+| trap_261_murmag | 引力浮板 | - | - |
+| trap_262_murtre | 物资浮板 | - | - |
+| trap_263_murbox | 防水物资箱 | - | - |
 | trap_270_spawnp | 隐蔽矿道 | - | - |
 | trap_271_fowstn | 严重污染设施 | - | - |
 | trap_272_nomstn | 阻道岩壁 | - | - |
@@ -1061,6 +1067,7 @@ tip: 请善用浏览器的搜索功能
 | char_102_texas@winter#1 | 寒冬信使 | Winter Messenger | 冬の使者 |
 | char_1031_slent2@epoque#32 | 栖息 | Habitat | 羽休め |
 | char_1032_excu2@sale#12 | 众志归一 | Allmind As One | 絶対の集合知 |
+| char_1032_excu2@sanrio#2 | 蒸汽寻踪者 | - | - |
 | char_1033_swire2@ambienceSynesthesia#4 | 律动方格 | Rhythmic Blocks | リズミックブロック |
 | char_1034_jesca2@cfa#1 | 《上任达维镇》 | 'Ride to Davistown' | 『デイヴィスタウンへ赴く』 |
 | char_1035_wisdel@sale#14 | 超新星 | - | - |
@@ -1138,6 +1145,7 @@ tip: 请善用浏览器的搜索功能
 | char_174_slbell@snow#1 | 开斯特之霜 | Caster's Frost | カスターの霜 |
 | char_179_cgbird@sightseer#1 | 流辉 | Iakhu of Flows | 流麗なる光 |
 | char_179_cgbird@witch#1 | 挽歌 | an elegy | 挽歌 |
+| char_180_amgoat@sanrio#2 | 绵绒小魔女 | - | - |
 | char_180_amgoat@summer#5 | 夏卉 FA018 | Summer Flower FA018 | 夏の花弁FA018 |
 | char_181_flower@daily#1 | 植物种志 | Species Plantarum | 植物紀年 |
 | char_181_flower@epoque#9 | 闲适午后 | Leisurely Afternoon | うららか |
@@ -1284,6 +1292,7 @@ tip: 请善用浏览器的搜索功能
 | char_346_aosta@game#2 | 光铳调试员 | Light Gun Adjuster | ライトガンテスター |
 | char_347_jaksel@whirlwind#2 | 纵身一跃 | Take a Leap | ひとっ飛び |
 | char_348_ceylon@summer#13 | 悠然假日 HD49 | Holiday HD49 | ホリデーHD49 |
+| char_349_chiave@race#2 | 一人车队 | - | - |
 | char_350_surtr@it#1 | 自由//失效 | Liberté//Échec | 自由//失效 |
 | char_350_surtr@summer#9 | 缤纷奇境 CW03 | Colorful Wonderland CW03 | 極彩の楽園CW03 |
 | char_355_ethan@epoque#7 | 渗透 | Infiltrator | 同化 |
@@ -1336,6 +1345,7 @@ tip: 请善用浏览器的搜索功能
 | char_4040_rockr@lxh#1 | 欢唱之前 | Before Singing | 歌の前に |
 | char_4041_chnut@summer#12 | 悠然假日 HDm57 | Holiday HDm57 | ホリデーHDm57 |
 | char_4042_lumen@ambienceSynesthesia#3 | 灿海浮梦 | Golden Dream | 輝ける夢の海 |
+| char_4042_lumen@sanrio#2 | 雨霓行游客 | - | - |
 | char_4043_erato@snow#5 | 未讲述的故事 | Untold Stories | 語られざる物語 |
 | char_4045_heidi@epoque#24 | 书信零落 | A Thousand Correspondences | 溢れ落ちる手紙 |
 | char_4046_ebnhlz@boc#6 | 变奏 | Eine Variation | 変奏 |
@@ -2823,6 +2833,24 @@ tip: 请善用浏览器的搜索功能
 | enemy_4037_mufbsc | 神射丰碑 | Monument to Accuracy | 百発百中記念碑 |
 | enemy_4038_mufbsd | 热情丰碑 | Monument to Passion | 情熱記念碑 |
 | enemy_4039_mufbse | 狂奔丰碑 | Monument to Swiftness | 狂走記念碑 |
+| enemy_4040_mugoal | 终点信标塔 | - | - |
+| enemy_4041_mundr | 红宝石飞翼 | - | - |
+| enemy_4042_murdr | 蓝宝石飞翼 | - | - |
+| enemy_4043_muedr | 钻石飞翼 | - | - |
+| enemy_4044_mutdek | 物资浮板 | - | - |
+| enemy_4045_murtre | 沉水物资箱 | - | - |
+| enemy_4046_muobst | 定点浮标 | - | - |
+| enemy_4047_mustak | 火盆浮标 | - | - |
+| enemy_4048_mubarn | 盐水健身客 | - | - |
+| enemy_4048_mubarn_2 | “超级钳”盐水健身客 | - | - |
+| enemy_4049_muston | 引浪兽 | - | - |
+| enemy_4049_muston_2 | “水上明珠”引浪兽 | - | - |
+| enemy_4050_mubbar | 深水大力士 | - | - |
+| enemy_4050_mubbar_2 | “举重王”深水大力士 | - | - |
+| enemy_4051_mublow | 潮风操控者 | - | - |
+| enemy_4051_mublow_2 | “风向标”潮风操控者 | - | - |
+| enemy_4052_mulaze | 眩光记录员 | - | - |
+| enemy_4052_mulaze_2 | “裁决者”眩光记录员 | - | - |
 | enemy_5008_cstrwd | 艺术的慈悲! | The Boons of Art! | 芸術の慈悲！ |
 | enemy_5009_shtrwd | 艺术的绝杀! | The Clutchness of Art! | 芸術の必殺技！ |
 | enemy_5010_catrdg | 弱弹 | Weaksauce | 弱い弾 |
@@ -3036,6 +3064,7 @@ tip: 请善用浏览器的搜索功能
 | act1sandbox | 生息演算：沙中之火 | Reclamation Algorithm - Fire Within the Sand | 生息演算：砂中の火 |
 | act1signvs | 端阳正午签到活动 | May the Sunshine Still Sign-In Event | スタンプラリー |
 | act1switch | 宿于繁星合作活动 | - | - |
+| act1teamquest | 共竞目标 | - | - |
 | act1unique | 九色鹿签到复刻活动 | Nine-Colored Deer Onboarding Event Retrospective | 九色鹿復刻スタンプラリー |
 | act1vautochess | 卫戍协议 | Stronghold Protocol | 堅守協定 |
 | act1vecb | 矢量突破 | Vector Breakthrough | 鋒矢突破 |
@@ -3088,6 +3117,7 @@ tip: 请善用浏览器的搜索功能
 | act2float | 铁腕城产业合作洽谈会 | Iron Fist City Industry Cooperation Forum | アイアンリストシティ産業懇談会 |
 | act2mainss | 离解复合 | Dissociative Recombination | 解離結合 |
 | act2mine | 波平谷矿区登录活动 | Popping Valley Mining Area Login Event | ポッピングバレー採鉱区 |
+| act2multi | 促融共竞#2 | - | - |
 | act2pray | 双日城惊奇墙 | Dossoles Amazing Wall | ドッソレススクラッチ |
 | act2signvs | 端阳正午签到活动 | May the Sunshine Still Sign-In Event | スタンプラリー |
 | act2switch | 登览锦绣合作活动 | View From Above Collaboration Event | 山河一望コラボ |
@@ -3174,6 +3204,7 @@ Event | なないろのお茶会 |
 | act5mine | 卡钳谷矿区限时开采许可 | Callipers Valley Mining Area Provisional Mining Permit | カリパスバレー採鉱区 |
 | act5pray | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |
 | act5sre | 沃伦姆德的薄暮·复刻 | Twilight of Wolumonde - Rerun | ウォルモンドの薄暮・復刻 |
+| act5switch | 温情时光合作活动 | - | - |
 | act6collection | 梦城堡模拟训练 | - | - |
 | act6d0 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act6d5 | 洪炉示岁 | Ancient Forge | 洪炉示歳 |
@@ -3521,6 +3552,7 @@ Event | なないろのお茶会 |
 | act1mainss_token_medi | 急性感染抑制剂 | Emergency Inhibitor | 急性感染抑制剤 |
 | act1multi_token_cap | 参赛认证-S1 | Participation Certificate - S1 | 参加認定証-S1 |
 | act1sandbox_milestone_point | 繁荣证章 | Badge of Prosperity | 繁栄の証 |
+| act1teamquest_point | 共竞积分 | - | - |
 | act1vautochess_token_chess | 卫戍认证 | Stronghold Credits | 堅守認証 |
 | act1vecb_milestone_point | 胜绩积分 | Attainment Point | 勝利記念品 |
 | act1vhalfidle_asc_cst | 术师进阶信物 | - | - |
@@ -3581,6 +3613,7 @@ Event | なないろのお茶会 |
 | act2collection_point_token | “战略家”点数 | 'Strategist' Point | 「戦略家」ポイント |
 | act2enemyduel_milestone_point | 争锋大礼花 | - | - |
 | act2mainss_token | “勇气”胸章 | 'Courage' Badge | 「勇気」のバッジ |
+| act2multi_token_cap | 参赛认证-S2 | - | - |
 | act2vmulti_token_cap | 参赛纪念 | Memento | 参加記念 |
 | act30side_token_box | 驮兽盲盒 | Burdenbeast Blind Box | 駄獣ミニフィギュア |
 | act30side_token_box_rep_1 | 驮兽盲盒 | Burdenbeast Blind Box | 駄獣ミニフィギュア |
@@ -6074,6 +6107,10 @@ Event | なないろのお茶会 |
 | sktok_mufrst | 混凝土路障 | Concrete Roadblock | コンクリ防壁 |
 | sktok_mufrwl | 液压式高台 | Hydraulic Platform | 油圧式高台 |
 | sktok_muftbl | 重新发球！ | Kickoff! | キックオフ！ |
+| sktok_murbas | 多向拼接 | - | - |
+| sktok_murjet | 加力推进 | - | - |
+| sktok_murmag | 磁吸信标 | - | - |
+| sktok_murtre | 浮动搭载 | - | - |
 | sktok_muruinb | 后勤维护 | Logistical Maintenance | 支援所展開 |
 | sktok_muruinf | 维护员 | Maintainer | 整備士 |
 | sktok_muruino | 器械维护 | Equipment Maintenance | 防壁展開 |
@@ -6081,6 +6118,7 @@ Event | なないろのお茶会 |
 | sktok_muulas_1 | 看！烟花！ | Look! Fireworks! | たーまやー！ |
 | sktok_muulcl_1 | 都给我喝！ | Chug 'Em All! | たらふく飲んでけ！ |
 | sktok_muulco_1 | 加油哦！ | Go Team Go! | ファイト！ |
+| sktok_muulct | 全都是虚像！ | - | - |
 | sktok_muulrg_1 | 咪嗷嗷嗷嗷！ | MEEEEOW! | ニャアアアア！ |
 | sktok_muulwr_1 | 请穿上护具！ | Armor Up! | 防具を付けなさい！ |
 | sktok_nearl2_3 | “耀阳” | 'Blazing Sun' | 「ブレイジング・サン」 |
@@ -6993,6 +7031,36 @@ Event | なないろのお茶会 |
 | act2bossrush_04 | 骄阳之影 | Proud Sun's Shadow | 燦陽の影 |
 | act2enemyduel_01a | 争锋对决！ | - | - |
 | act2enemyduel_01b | 争锋对决！ | - | - |
+| act2multi_01 | 无声的默契 | - | - |
+| act2multi_02 | 火热捉迷藏 | - | - |
+| act2multi_03 | 暗夜微光 | - | - |
+| act2multi_04 | 聚光灯下 | - | - |
+| act2multi_05 | 急速撤离 | - | - |
+| act2multi_06 | 助威团之争 | - | - |
+| act2multi_07 | 爆炸性新闻 | - | - |
+| act2multi_08 | 冰爽速递 | - | - |
+| act2multi_09 | 大巴扎巡礼 | - | - |
+| act2multi_10 | 踏浪匪盗 | - | - |
+| act2multi_ex-raft | 全动力航行 | - | - |
+| act2multi_fortress-01 | 小心踩踏 | - | - |
+| act2multi_fortress-02 | 风洞实验室 | - | - |
+| act2multi_fortress-ex-01 | 小心踩踏 | - | - |
+| act2multi_fortress-ex-02 | 风洞实验室 | - | - |
+| act2multi_fortress-ex-rm01 | 湿地跨栏 | - | - |
+| act2multi_fortress-hard-01 | 无限制越野 | - | - |
+| act2multi_fortress-rm01 | 湿地跨栏 | - | - |
+| act2multi_hard-01 | 甲板风云 | - | - |
+| act2multi_hard-02 | 黄沙急行 | - | - |
+| act2multi_hard-03 | 压轴大戏 | - | - |
+| act2multi_hard-raft | 全动力航行 | - | - |
+| act2multi_raft | 全动力航行 | - | - |
+| act2multi_rm01 | 逃离火线 | - | - |
+| act2multi_rm02 | 当意外来敲门 | - | - |
+| act2multi_rm03 | 密探有专车接送 | - | - |
+| act2multi_rm04 | 移动靶射击练习 | - | - |
+| act2multi_tr01 | 规则教学-常规项目 | - | - |
+| act2multi_tr02 | 规则教学-障碍漂航 | - | - |
+| act2multi_tr03 | 规则教学-堡垒守御 | - | - |
 | act2vmulti-01 | 嘟嘟喇叭 | Blaring Horns | 響けチアホーン |
 | act2vmulti-02 | 军事化训练 | Drills | 軍事訓練 |
 | act2vmulti-03 | 单行赛道 | One-Way Course | 独占コース |
