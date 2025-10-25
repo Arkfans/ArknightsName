@@ -100,6 +100,7 @@ tip: 请善用浏览器的搜索功能
 | act1mainss | 慈悲灯塔 | Absolved Will Be the Seekers | 慈悲光塔 |
 | act1multi | 促融共竞#1 | Icebreaker Games #1 | 協心競技#1 |
 | act1r6sre | 源石尘行动·复刻 | Operation Originium Dust - Retrospection | OP:OD復刻 |
+| act1recruit | 特别公开招募 - 资深干员 | - | - |
 | act1sandbox | 生息演算：沙中之火 | Reclamation Algorithm - Fire Within the Sand | 生息演算：砂中の火 |
 | act1signvs | 端阳正午签到活动 | May the Sunshine Still Sign-In Event | スタンプラリー |
 | act1switch | 宿于繁星合作活动 | - | - |
@@ -235,6 +236,7 @@ Event | なないろのお茶会 |
 | act51sign | 提线人偶的迎宾礼签到活动 | - | - |
 | act52sign | 新生支点签到活动 | - | - |
 | act53sign | 金樨迎月签到活动 | - | - |
+| act54sign | 感谢庆典前瞻签到 | - | - |
 | act5bossrush | 引航者试炼 | - | - |
 | act5collection | 御鼓吉音限时任务 | - | - |
 | act5d0 | 喧闹法则 | Code of Brawl | 喧騒の掟 |

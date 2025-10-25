@@ -3061,6 +3061,7 @@ tip: 请善用浏览器的搜索功能
 | act1mainss | 慈悲灯塔 | Absolved Will Be the Seekers | 慈悲光塔 |
 | act1multi | 促融共竞#1 | Icebreaker Games #1 | 協心競技#1 |
 | act1r6sre | 源石尘行动·复刻 | Operation Originium Dust - Retrospection | OP:OD復刻 |
+| act1recruit | 特别公开招募 - 资深干员 | - | - |
 | act1sandbox | 生息演算：沙中之火 | Reclamation Algorithm - Fire Within the Sand | 生息演算：砂中の火 |
 | act1signvs | 端阳正午签到活动 | May the Sunshine Still Sign-In Event | スタンプラリー |
 | act1switch | 宿于繁星合作活动 | - | - |
@@ -3196,6 +3197,7 @@ Event | なないろのお茶会 |
 | act51sign | 提线人偶的迎宾礼签到活动 | - | - |
 | act52sign | 新生支点签到活动 | - | - |
 | act53sign | 金樨迎月签到活动 | - | - |
+| act54sign | 感谢庆典前瞻签到 | - | - |
 | act5bossrush | 引航者试炼 | - | - |
 | act5collection | 御鼓吉音限时任务 | - | - |
 | act5d0 | 喧闹法则 | Code of Brawl | 喧騒の掟 |
@@ -3739,6 +3741,7 @@ Event | なないろのお茶会 |
 | ap_supply_lt_120_2025_4 | “清秋玉” | - | - |
 | ap_supply_lt_120_2025_5 | “洒金韵” | - | - |
 | ap_supply_lt_120_2025_6 | “临秋意” | - | - |
+| ap_supply_lt_120_2025_7 | 海底捞面 | - | - |
 | ap_supply_lt_60 | 应急理智合剂 | Emergency Sanity Potion | 初級理性回復剤 |
 | ap_supply_lt_80 | 应急理智加强剂 | Emergency Sanity Booster | 初級理性回復剤+ |
 | ap_supply_lt_80_2025_1 | 清爽运动饮料 | - | - |
@@ -3983,6 +3986,7 @@ Event | なないろのお茶会 |
 | itempack_mod_7 | 先锋芯片组印刻仪 | Vanguard Chip Pack Etcher | 中級先鋒SoCプリンター |
 | itempack_mod_8 | 近卫芯片组印刻仪 | Guard Chip Pack Etcher | 中級前衛SoCプリンター |
 | itempack_mod_9 | 重装芯片组印刻仪 | Defender Chip Pack Etcher | 中級重装SoCプリンター |
+| itempack_recruit_1 | 2025感谢庆典招聘补给 | - | - |
 | main16_spitem_1 | 暗淡的源石 | - | - |
 | main16_spitem_2 | 无主的矿灯 | - | - |
 | main16_spitem_3 | 涂改的旗帜 | - | - |
@@ -4407,6 +4411,7 @@ Event | なないろのお茶会 |
 | randomMaterial_5 | 罗德岛物资补给II | Rhodes Island Supplies II | 補給物資・ロドスⅡ |
 | randomMaterial_5d5 | 2024感谢庆典物资补给 | Thank-You Celebration Supplies | 補給物資・感謝祭 |
 | randomMaterial_6 | 罗德岛物资补给III | Rhodes Island Supplies III | 補給物資・ロドスIII |
+| randomMaterial_6d5 | 2025感谢庆典物资补给 | - | - |
 | randomMaterial_7 | 罗德岛物资补给IV | Rhodes Island Supplies IV | 補給物資・ロドスIV |
 | randomMaterial_8 | 罗德岛物资补给V | Rhodes Island Supplies V | 補給物資・ロドスV |
 | randomMaterial_9 | 罗德岛物资补给VI | Rhodes Island Supplies VI | 補給物資・ロドスVI |
@@ -4523,6 +4528,7 @@ Event | なないろのお茶会 |
 | uni_set_cultureroom | 孤星家具收藏包 | - | - |
 | uni_set_fNearl | 玛莉娅·临光家具收藏包 | Maria Nearl Furniture Pack | マリア・ニアール家具パック |
 | uni_set_gardenFantasy_1 | 界园印象家具收藏包一 | - | - |
+| uni_set_gardenFantasy_2 | 界园印象家具收藏包二 | - | - |
 | uni_set_goldBoat | 愚人号家具收藏包 | Stultifera Navis Furniture Pack | 狂人号家具パック |
 | uni_set_guitar | 火蓝之心家具收藏包 | Heart of Surging Flame Furniture Pack | 青く燃ゆる心家具パック |
 | uni_set_icu | 遗尘漫步家具收藏包 | A Walk in the Dust Furniture Pack | 遺塵の道を家具パック |
@@ -7421,6 +7427,7 @@ Event | なないろのお茶会 |
 | camp_r_27 | 选帝侯广场 | Kurfürstenplatz | 選帝侯広場 |
 | camp_r_28 | 大巴扎 | - | - |
 | camp_r_29 | 鳞骸盐漠  | - | - |
+| camp_r_30 | 暗流巢窟  | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |
 | hard_05-02 | 炼狱行动-2 | Operation Inferno-2 | 煉獄作戦-2 |
 | hard_05-03 | 炼狱行动-3 | Operation Inferno-3 | 煉獄作戦-3 |

@@ -23739,6 +23739,12 @@
       "zh_CN": "源石尘行动·复刻"
     }
   },
+  "act1recruit": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "特别公开招募 - 资深干员"
+    }
+  },
   "act1sandbox": {
     "type": "ACTIVITY",
     "names": {
@@ -24710,6 +24716,12 @@
     "type": "ACTIVITY",
     "names": {
       "zh_CN": "金樨迎月签到活动"
+    }
+  },
+  "act54sign": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "感谢庆典前瞻签到"
     }
   },
   "act5bossrush": {
@@ -28899,6 +28911,12 @@
       "zh_CN": "“临秋意”"
     }
   },
+  "ap_supply_lt_120_2025_7": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "海底捞面"
+    }
+  },
   "ap_supply_lt_60": {
     "type": "ITEM",
     "names": {
@@ -30789,6 +30807,12 @@
       "en_US": "Defender Chip Pack Etcher",
       "ja_JP": "中級重装SoCプリンター",
       "zh_CN": "重装芯片组印刻仪"
+    }
+  },
+  "itempack_recruit_1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "2025感谢庆典招聘补给"
     }
   },
   "main16_spitem_1": {
@@ -34127,6 +34151,12 @@
       "zh_CN": "罗德岛物资补给III"
     }
   },
+  "randomMaterial_6d5": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "2025感谢庆典物资补给"
+    }
+  },
   "randomMaterial_7": {
     "type": "ITEM",
     "names": {
@@ -35031,6 +35061,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "界园印象家具收藏包一"
+    }
+  },
+  "uni_set_gardenFantasy_2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "界园印象家具收藏包二"
     }
   },
   "uni_set_goldBoat": {
@@ -57250,6 +57286,12 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "鳞骸盐漠 "
+    }
+  },
+  "camp_r_30": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "暗流巢窟 "
     }
   },
   "hard_05-01": {

@@ -455,6 +455,9 @@
     "ja_JP": "OP:OD復刻",
     "zh_CN": "源石尘行动·复刻"
   },
+  "act1recruit": {
+    "zh_CN": "特别公开招募 - 资深干员"
+  },
   "act1sandbox": {
     "en_US": "Reclamation Algorithm - Fire Within the Sand",
     "ja_JP": "生息演算：砂中の火",
@@ -1043,6 +1046,9 @@
   },
   "act53sign": {
     "zh_CN": "金樨迎月签到活动"
+  },
+  "act54sign": {
+    "zh_CN": "感谢庆典前瞻签到"
   },
   "act5bossrush": {
     "zh_CN": "引航者试炼"

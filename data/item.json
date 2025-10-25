@@ -2178,6 +2178,9 @@
   "ap_supply_lt_120_2025_6": {
     "zh_CN": "“临秋意”"
   },
+  "ap_supply_lt_120_2025_7": {
+    "zh_CN": "海底捞面"
+  },
   "ap_supply_lt_60": {
     "en_US": "Emergency Sanity Potion",
     "ja_JP": "初級理性回復剤",
@@ -3337,6 +3340,9 @@
     "en_US": "Defender Chip Pack Etcher",
     "ja_JP": "中級重装SoCプリンター",
     "zh_CN": "重装芯片组印刻仪"
+  },
+  "itempack_recruit_1": {
+    "zh_CN": "2025感谢庆典招聘补给"
   },
   "main16_spitem_1": {
     "zh_CN": "暗淡的源石"
@@ -5402,6 +5408,9 @@
     "ja_JP": "補給物資・ロドスIII",
     "zh_CN": "罗德岛物资补给III"
   },
+  "randomMaterial_6d5": {
+    "zh_CN": "2025感谢庆典物资补给"
+  },
   "randomMaterial_7": {
     "en_US": "Rhodes Island Supplies IV",
     "ja_JP": "補給物資・ロドスIV",
@@ -5959,6 +5968,9 @@
   },
   "uni_set_gardenFantasy_1": {
     "zh_CN": "界园印象家具收藏包一"
+  },
+  "uni_set_gardenFantasy_2": {
+    "zh_CN": "界园印象家具收藏包二"
   },
   "uni_set_goldBoat": {
     "en_US": "Stultifera Navis Furniture Pack",
