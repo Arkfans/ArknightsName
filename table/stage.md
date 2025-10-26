@@ -420,10 +420,10 @@ tip: 请善用浏览器的搜索功能
 | act1break_sp14 | 绝人之路 | - | - |
 | act1break_sp15 | 墙开一面 | - | - |
 | act1break_sp16 | 活路一条 | - | - |
-| act1enemyduel_01a | 争锋试炼！ | - | - |
-| act1enemyduel_01b | 争锋试炼！ | - | - |
-| act1enemyduel_02a | 争锋对决！ | - | - |
-| act1enemyduel_02b | 争锋对决！ | - | - |
+| act1enemyduel_01a | 争锋试炼！ | Duel Trial! | いざ勝負！ |
+| act1enemyduel_01b | 争锋试炼！ | Duel Trial! | いざ勝負！ |
+| act1enemyduel_02a | 争锋对决！ | Duel Showdown! | いざ対決！ |
+| act1enemyduel_02b | 争锋对决！ | Duel Showdown! | いざ対決！ |
 | act1halfidle_01 | 旧城遗址 | - | - |
 | act1halfidle_02 | 风号峡谷 | - | - |
 | act1halfidle_03 | 坍塌矿区 | - | - |
@@ -918,26 +918,26 @@ tip: 请善用浏览器的搜索功能
 | act41side_st02 | 罗曼史已死 | Death of a Romance | ロマンスは死んだ |
 | act41side_st03 | 封底纪事 | Back Cover | 巻末の端書 |
 | act41side_tr01 | 拨雾声 | Fog-Parting Call | 霧払う音 |
-| act42side_01 | 圣秩 | - | - |
-| act42side_02 | 祈祷 | - | - |
-| act42side_03 | 礼拜 | - | - |
-| act42side_04 | 求道 | - | - |
-| act42side_05 | 共融 | - | - |
-| act42side_06 | 告解 | - | - |
-| act42side_07 | 丧礼 | - | - |
-| act42side_08 | 朝圣 | - | - |
-| act42side_09 | 解经 | - | - |
-| act42side_10 | 降生 | - | - |
-| act42side_s01 | 甜品展会 | - | - |
-| act42side_s02 | 布道演习 | - | - |
-| act42side_s03 | 全民阅兵 | - | - |
-| act42side_s04 | 万国峰会 | - | - |
-| act42side_s05 | 授律圣事 | - | - |
-| act42side_st01 | “堕天” | - | - |
-| act42side_st02 | 启圣 | - | - |
-| act42side_st03 | 重逢 | - | - |
-| act42side_st04 | 远行 | - | - |
-| act42side_tr01 | 圣城的异常 | - | - |
+| act42side_01 | 圣秩 | Order | 叙階 |
+| act42side_02 | 祈祷 | Prayer | 祈り |
+| act42side_03 | 礼拜 | Worship | 礼拝 |
+| act42side_04 | 求道 | Wayfinder | 求道 |
+| act42side_05 | 共融 | Communion | 共融 |
+| act42side_06 | 告解 | Confess | 告解 |
+| act42side_07 | 丧礼 | Funeral | 葬儀 |
+| act42side_08 | 朝圣 | Pilgrimage | 巡礼 |
+| act42side_09 | 解经 | Interpretation | 釈義 |
+| act42side_10 | 降生 | Birth | 降誕 |
+| act42side_s01 | 甜品展会 | Dessert Expo | スイーツ博覧会 |
+| act42side_s02 | 布道演习 | Preaching Practice | 布教演習 |
+| act42side_s03 | 全民阅兵 | Nationwide Parade | 「軍事パレード」 |
+| act42side_s04 | 万国峰会 | Summit of Nations | 万国サミット |
+| act42side_s05 | 授律圣事 | Sacrament of the Law | 授律の秘跡 |
+| act42side_st01 | “堕天” | Fallen | 「堕天」 |
+| act42side_st02 | 启圣 | Enlightenment | 啓聖 |
+| act42side_st03 | 重逢 | Reunion | 再会 |
+| act42side_st04 | 远行 | Voyage | 遠出 |
+| act42side_tr01 | 圣城的异常 | Strange Days in the Holy City | 聖都の異常 |
 | act43side_01 | 彩排日 | - | - |
 | act43side_02 | 排演一出悲剧 | - | - |
 | act43side_03 | 戏剧性 | - | - |
@@ -1240,12 +1240,12 @@ tip: 请善用浏览器的搜索功能
 | lt_17_04 | 温顺者的摇篮曲 | Lullaby of the Tame | 従順なるララバイ |
 | lt_17_05 | 驮兽与石像的二重奏 | Duet of Beast and Statue | 駄獣と石像のデュエット |
 | lt_17_06 | “音乐之心” | 'Heart of Music' | 「音楽の心」 |
-| lt_18_01 | 巷道里 | - | - |
-| lt_18_02 | 楼台边 | - | - |
-| lt_18_03 | 墓地旁 | - | - |
-| lt_18_04 | 舞台上 | - | - |
-| lt_18_05 | 城门下 | - | - |
-| lt_18_06 | 天地间 | - | - |
+| lt_18_01 | 巷道里 | In the Alley | 路地裏 |
+| lt_18_02 | 楼台边 | By the Heights | 楼台 |
+| lt_18_03 | 墓地旁 | Graveside | 墓地周辺 |
+| lt_18_04 | 舞台上 | On Stage | 舞台上 |
+| lt_18_05 | 城门下 | Under the Gates | 城門下 |
+| lt_18_06 | 天地间 | Between Heaven and Earth | 天地の狭間 |
 | lt_19_01 | 子弹烈酒 | - | - |
 | lt_19_02 | 加工后厨 | - | - |
 | lt_19_03 | 控温锅炉 | - | - |

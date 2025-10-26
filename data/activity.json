@@ -58,6 +58,8 @@
     "zh_CN": "未尽篇章"
   },
   "act11pray": {
+    "en_US": "Lucky Strips Login Event",
+    "ja_JP": "龍門開運\nおみくじ",
     "zh_CN": "幸运墙登录活动"
   },
   "act11sre": {
@@ -413,6 +415,8 @@
     "zh_CN": "限时累计签到"
   },
   "act1enemyduel": {
+    "en_US": "Duel Channel: Green Grassville",
+    "ja_JP": "デュエルチャンネル：グリーングラスシティ",
     "zh_CN": "争锋频道：青草城"
   },
   "act1flip": {
@@ -946,6 +950,8 @@
     "zh_CN": "纷争演绎"
   },
   "act42side": {
+    "en_US": "The Masses' Travels",
+    "ja_JP": "命ある者の旅",
     "zh_CN": "众生行记"
   },
   "act42sign": {
@@ -993,6 +999,8 @@
     "zh_CN": "2025跨年纪念限时活动"
   },
   "act49sign": {
+    "en_US": "Celebration Login Event",
+    "ja_JP": "大感謝祭スタンプ",
     "zh_CN": "六周年庆典签到活动"
   },
   "act4bossrush": {
@@ -1001,6 +1009,8 @@
     "zh_CN": "引航者试炼"
   },
   "act4collection": {
+    "en_US": "Back to Castle",
+    "ja_JP": "再び古城へ",
     "zh_CN": "重返古堡"
   },
   "act4d0": {

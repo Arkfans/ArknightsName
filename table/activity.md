@@ -18,7 +18,8 @@ tip: 请善用浏览器的搜索功能
 | act11d7 | 火蓝之心·复刻 | Heart of Surging Flame - Rerun | 青く燃ゆる心・復刻 |
 | act11login | 《明日方舟：黎明前奏》开播纪念活动 | - | - |
 | act11mini | 未尽篇章 | To Be Continued | 未完の断章 |
-| act11pray | 幸运墙登录活动 | - | - |
+| act11pray | 幸运墙登录活动 | Lucky Strips Login Event | 龍門開運
+おみくじ |
 | act11sre | 覆潮之下·复刻 | Under Tides - Rerun | 潮汐の下・復刻 |
 | act12d0 | 密林悍将归来 | The Great Chief Returns | 帰還！密林の長 |
 | act12d6 | 刻俄柏的灰蕈迷境 | Ceobe's Fungimist | ケオベの茸狩迷界 |
@@ -91,7 +92,7 @@ tip: 请善用浏览器的搜索功能
 | act1checkin | 未来序曲签到活动 | Preludes to the Future Sign-in Event | 大感謝祭スタンプ |
 | act1collection | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
 | act1d5 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
-| act1enemyduel | 争锋频道：青草城 | - | - |
+| act1enemyduel | 争锋频道：青草城 | Duel Channel: Green Grassville | デュエルチャンネル：グリーングラスシティ |
 | act1flip | 哗啦啦祈愿牌 | Surpriseful Supplications | かんから祈り札 |
 | act1float | 纽莱堡市产业合作洽谈会 | Nulaiteburgh Industry Cooperation Forum | ニューライトバーグ市産業懇談会 |
 | act1lock | 荷谟伊智境 | Hymnoi Wisdom | ヒュムノイの叡智 |
@@ -210,7 +211,7 @@ Event | なないろのお茶会 |
 | act41sign | 沉沙赫日签到活动 | Brilliant Sun Rippling Sand Sign-In Event | 5周年
 スタンプ |
 | act42d0 | 纷争演绎 | Design of Strife | 紛争演繹 |
-| act42side | 众生行记 | - | - |
+| act42side | 众生行记 | The Masses' Travels | 命ある者の旅 |
 | act42sign | 品鉴泰拉魔物 | Have A Taste Of Terran Monsters | テラ魔物品評 |
 | act43side | 红丝绒 | - | - |
 | act43sign | 良辰迎月签到活动 | A Good Moony Time Login Event | 嘉辰令月スタンプ |
@@ -221,9 +222,9 @@ Event | なないろのお茶会 |
 | act46sign | 感谢庆典限时签到 | Thank-You Celebration Limited-Time Sign-In | 大感謝祭スタンプ |
 | act47sign | 感谢庆典补给签到 | Thank-You Celebration Sign-In Resupplies | 大感謝祭補給スタンプ |
 | act48sign | 2025跨年纪念限时活动 | 2025 Commemorative Limited-Time Event | スタンプラリー |
-| act49sign | 六周年庆典签到活动 | - | - |
+| act49sign | 六周年庆典签到活动 | Celebration Login Event | 大感謝祭スタンプ |
 | act4bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
-| act4collection | 重返古堡 | - | - |
+| act4collection | 重返古堡 | Back to Castle | 再び古城へ |
 | act4d0 | 战地秘闻 | Operational Intelligence | 戦地の逸話 |
 | act4d2 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act4d5 | 限时积分任务 | - | 期間限定Pt任務 |

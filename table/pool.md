@@ -152,6 +152,7 @@ tip: 请善用浏览器的搜索功能
 | _LIMITED_31_0_6 | - | Engraver of Quicksand | 流砂に刻印を |
 | _LIMITED_33_0_3 | - | We Mischievous Few | 悪華繚乱 |
 | _LIMITED_34_0_7 | - | An Eternity Aflame | 熾吾生平 |
+| _LIMITED_36_0_1 | - | Freedom of Preach | 自由なる伝道 |
 | _LIMITED_4_3_1 | - | Cremation Last Wish | 遺志に咲く火の華 |
 | _LIMITED_7_1_1 | - | Forget Me Not | 勿忘草 |
 | _LIMITED_8_3_1 | - | Earthborn Metals | 地生五金 |

@@ -309,10 +309,10 @@ tip: 请善用浏览器的搜索功能
 | trap_210_arcgrg | 两栖码头 | Amphibious Dock | 水陸両用埠頭 |
 | trap_211_cjgtow | 火灶 | Stove | 竈台 |
 | trap_212_cjbtow | 废弃火灶 | Derelict Stove | 破棄された竈台 |
-| trap_213_dqore | 源石祭坛 | - | - |
-| trap_214_dqballis | 弩炮 | - | - |
-| trap_215_dqcrsbow | 解雇者清债程序 | - | - |
-| trap_216_dqelec | 梅什科线圈 | - | - |
+| trap_213_dqore | 源石祭坛 | Originium Altar | 源石祭壇 |
+| trap_214_dqballis | 弩炮 | Turret | バリスタ |
+| trap_215_dqcrsbow | 解雇者清债程序 | Post-Firing Debt Relief Program | 解雇者清算プログラム |
+| trap_216_dqelec | 梅什科线圈 | Mieszko Coil | ミェシュココイル |
 | trap_218_fttree | 树丛 | Thicket | 茂み |
 | trap_219_fttreant | 盾与墙 | Shield and Wall | 盾と壁 |
 | trap_220_ftbone | 旧日之火 | Fires of Days Past | 昔日の火 |
@@ -330,9 +330,9 @@ tip: 请善用浏览器的搜索功能
 | trap_232_mpgroub | “风雪中的影子” | 'Shadow in the Snow' | 「風雪の中の影」 |
 | trap_233_mpmage | 稳定态萨卡兹术师结晶 | Stable Sarkaz Caster Crystal | 定常状態サルカズ術師結晶 |
 | trap_234_mpmageb | 活性态萨卡兹术师结晶 | Active Sarkaz Caster Crystal | 活性状態サルカズ術師結晶 |
-| trap_235_hlnpcm | 圣徒像扮演者 | - | - |
-| trap_236_hlnpcs | 圣堂射手扮演者 | - | - |
-| trap_237_hlnpcb | 圣堂保育员扮演者 | - | - |
+| trap_235_hlnpcm | 圣徒像扮演者 | Saint Statue Cosplayer | 聖徒像ごっこ |
+| trap_236_hlnpcs | 圣堂射手扮演者 | Shrine Marksman Cosplayer | 聖堂射手ごっこ |
+| trap_237_hlnpcb | 圣堂保育员扮演者 | Shrine Nurturer Cosplayer | 聖堂保育士ごっこ |
 | trap_238_dydfst | 明烛台 | - | - |
 | trap_239_dyffgd | 狭路相逢 | - | - |
 | trap_240_dyffdd | 狭路相逢 | - | - |
@@ -340,7 +340,7 @@ tip: 请善用浏览器的搜索功能
 | trap_247_crfilm | 摄影机 | - | - |
 | trap_248_crprop | 打光道具 | - | - |
 | trap_249_mjcsdw | “月影之茧” | - | - |
-| trap_250_hlctrl | 寻根圣事 | - | - |
+| trap_250_hlctrl | 寻根圣事 | Sacrament of Genesis | 根源を辿る儀式 |
 | trap_251_buftrp | 遗物中枢 | - | - |
 | trap_252_pckstp | 天命来袭 | - | - |
 | trap_253_boxnma | 压力舒缓帮手 | - | - |
@@ -550,9 +550,9 @@ tip: 请善用浏览器的搜索功能
 | trap_777_giacan | “留声机”底座 | Gramophone Pedestal | 「蓄音機」の台座 |
 | trap_778_giatow | L-44"留声机" | L-44 'Gramophone' | L-44「蓄音機」 |
 | trap_779_skzth | 尼卢火 | Aggini of Nila | ニーラのアグニ |
-| trap_780_supspt | 天工夜行套装 | - | - |
-| trap_781_supspta | 夜行斗篷模块 | - | - |
-| trap_782_supsptb | 夜行钩爪模块 | - | - |
+| trap_780_supspt | 天工夜行套装 | Master Who Walks the Night Gear | 天工夜行セット |
+| trap_781_supspta | 夜行斗篷模块 | Nightwalker's Cloak Module | 夜行笠モジュール |
+| trap_782_supsptb | 夜行钩爪模块 | Nightwalker's Hook Module | 夜行鉤爪モジュール |
 | trap_783_tnkspk | 反制装甲套组 | - | - |
 | trap_784_tnkspka | 微型尖刺配件 | - | - |
 | trap_785_tnkspkb | 维生监测配件 | - | - |

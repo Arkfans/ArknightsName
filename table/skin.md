@@ -9,7 +9,7 @@ tip: 请善用浏览器的搜索功能
 | char_002_amiya@test#1 | 播种者 | Seedsower | プランター |
 | char_002_amiya@winter#1 | 报童 | Newsgirl | 新聞配達員 |
 | char_003_kalts@boc#6 | 残余 | Remnant | 名残 |
-| char_003_kalts@sale#14 | 时遗 | - | - |
+| char_003_kalts@sale#14 | 时遗 | The Remains of Time | 時の足跡 |
 | char_010_chen@nian#2 | 岁红霞 | Ageless Afterglow | 歳紅霞 |
 | char_010_chen@sale#10 | 初晴 | After Storm | 雲往きて晴れ |
 | char_017_huang@as#1 | 爆裂菲林 | Burst Feline | 爆裂フェリーン |
@@ -43,7 +43,7 @@ tip: 请善用浏览器的搜索功能
 | char_1032_excu2@sanrio#2 | 蒸汽寻踪者 | - | - |
 | char_1033_swire2@ambienceSynesthesia#4 | 律动方格 | Rhythmic Blocks | リズミックブロック |
 | char_1034_jesca2@cfa#1 | 《上任达维镇》 | 'Ride to Davistown' | 『デイヴィスタウンへ赴く』 |
-| char_1035_wisdel@sale#14 | 超新星 | - | - |
+| char_1035_wisdel@sale#14 | 超新星 | Supernova | 超新星 |
 | char_1037_amiya3@sale#13 | 寰宇独奏 | Solo Around The World | 宙に響く独奏 |
 | char_1039_thorn2@marthe#9 | 无际之帆 | - | - |
 | char_103_angel@kfc#1 | 城市骑手 | City Rider | シティライダー |
@@ -67,7 +67,7 @@ tip: 请善用浏览器的搜索功能
 | char_121_lava@sale#9 | 一束阳光 | Bunch of Sunlight | 陽光を抱えて |
 | char_122_beagle@boc#1 | 无畏 | Dreadnaught | 恐れ知らず |
 | char_123_fang@winter#1 | 十字郡 | Cruciata | 交差点 |
-| char_124_kroos@sale#14 | 星月漂流记 | - | - |
+| char_124_kroos@sale#14 | 星月漂流记 | Moonlit Voyage | 星と月の漂流記 |
 | char_124_kroos@witch#1 | 魔术师 | the mag | マジシャン |
 | char_126_shotst@epoque#10 | 诗人的假日 | Bard's Holiday | 詩人の休日 |
 | char_126_shotst@epoque#28 | 星橼林 | Gwiazdcytrony | スタリシトロンの森にて |
@@ -232,7 +232,7 @@ tip: 请善用浏览器的搜索功能
 | char_297_hamoni@unveiling#1 | 装点 | Decoration | おめかし |
 | char_298_susuro@summer#6 | 夏卉 FA026 | Summer Flower FA026 | 夏の花弁FA026 |
 | char_298_susuro@winter#4 | 随意而行 | Travel Freely | 気ままな旅路 |
-| char_300_phenxi@boc#9 | 审判日 | - | - |
+| char_300_phenxi@boc#9 | 审判日 | Judgment Day | 裁きの日 |
 | char_300_phenxi@witch#4 | 至圣誓言 | Divine Oath | 至聖の誓言 |
 | char_301_cutter@marthe#8 | 拭刀 | Wiping Knife | 刃を拭って |
 | char_302_glaze@summer#11 | 悠然假日 HD29 | Holiday HD29 | ホリデーHD29 |
@@ -247,7 +247,7 @@ tip: 请善用浏览器的搜索功能
 | char_325_bison@yun#7 | 凌云意 | - | - |
 | char_326_glacus@ghost#1 | 广场扫荡客 | Exterminator in the Square | 広場の掃討者 |
 | char_328_cammou@witch#2 | 安息处的怪盗 | Grave Thief | 霊園の怪盗 |
-| char_332_archet@sale#14 | 至虔者荣光 | - | - |
+| char_332_archet@sale#14 | 至虔者荣光 | Glory of the Devout | 敬虔なる栄光 |
 | char_332_archet@shining#1 | 宣传策略 | Publicity Strategy | PR戦略 |
 | char_333_sidero@summer#6 | 轻风 LB03 | Light Breeze LB03 | そよ風LB03 |
 | char_336_folivo@epoque#22 | 别枝 | Betsushi | 別枝 |
@@ -332,7 +332,7 @@ tip: 请善用浏览器的搜索功能
 | char_4062_totter@summer#17 | 灿阳朝露 SDm09 | Shining Dew SDm09 | 炎陽煌く露SDm09 |
 | char_4063_quartz@epoque#39 | 封面佣兵 | Cover Mercenary | カバーマーセナリー |
 | char_4064_mlynar@epoque#28 | 远路 | W Dali | 遠き道のり |
-| char_4064_mlynar@iteration#3 | 苍茫怒号 | - | - |
+| char_4064_mlynar@iteration#3 | 苍茫怒号 | Roar Against the Wilds | 反逆の咆哮 |
 | char_4065_judge@epoque#33 | 记叙 | Scribing | 書き記す者 |
 | char_4065_judge@snow#6 | 偶尔醉陶 | Occasionally Flushed | たまの深酒 |
 | char_4066_highmo@epoque#45 | 搁浅 | - | - |
@@ -375,7 +375,7 @@ tip: 请善用浏览器的搜索功能
 | char_4131_odda@whirlwind#8 | 糖果暴击 | Candy Strike | キャンディーストライク |
 | char_4132_ascln@iteration#4 | 趋光之暗 | - | - |
 | char_4133_logos@ambienceSynesthesia#6 | 辉煌的静谧 | Radiant Serenity | 輝耀なる静謐 |
-| char_4136_phonor@boc#9 | 最初的颂歌 | - | - |
+| char_4136_phonor@boc#9 | 最初的颂歌 | Primordial Ode | 始まりの賛歌 |
 | char_4137_udflow@epoque#46 | 层流 | - | - |
 | char_4138_narant@breaker#1 | 链锯陪护者 | - | - |
 | char_4140_lasher@sightseer#3 | 憩羽 | - | - |
@@ -403,7 +403,7 @@ tip: 请善用浏览器的搜索功能
 | char_431_ashlok@epoque#28 | 卡利斯卡群枪 | Lances of Kaliskas | カリスカの槍先 |
 | char_436_whispr@nian#4 | 孤寒峭 | Tremble Cold | 孤料峭 |
 | char_436_whispr@witch#4 | 幽邃隐修 | Priory of Abyss | 幽遠のシスター |
-| char_437_mizuki@game#6 | 永恒玩家 | - | - |
+| char_437_mizuki@game#6 | 永恒玩家 | A Player Forever | 果てなき遊び心 |
 | char_437_mizuki@sale#7 | 夏日餮宴 | Summer Feast | 真夏の饗宴 |
 | char_440_pinecn@epoque#31 | 远行的季节 | Season of Travel | 遠出の季節 |
 | char_440_pinecn@shining#1 | 倾声歌唱 | Sing a Song | 歌声よ届け |
@@ -442,7 +442,7 @@ tip: 请善用浏览器的搜索功能
 | char_492_quercu@epoque#17 | 遥乡之径 | Distant Home's Guide | 故郷は遠く |
 | char_492_quercu@witch#4 | 树影吟游 | The Bard's Tale | 木陰の吟遊詩人 |
 | char_496_wildmn@epoque#16 | 正义缔造者 | Justice Maker | ジャスティスメーカー |
-| char_497_ctable@epoque#44 | 湖畔歌者 | - | - |
+| char_497_ctable@epoque#44 | 湖畔歌者 | Bard by the Lake | 湖畔に響く囀り |
 | char_497_ctable@nian#9 | 灯如昼 | Illumination That of Daylights | 灯如昼 |
 | char_498_inside@kitchen#2 | 甜品大奖 | Sweet Jackpot | スイーツ大賞 |
 | char_499_kaitou@epoque#37 | 斜照 | Sun Slant | 夕陽差す屋根裏 |

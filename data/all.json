@@ -258,6 +258,8 @@
   "char_1041_angel2": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Exusiai the New Covenant",
+      "ja_JP": "新約エクシア",
       "zh_CN": "新约能天使"
     }
   },
@@ -2576,12 +2578,16 @@
   "char_4187_graceb": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Gracebearer",
+      "ja_JP": "グレースベアラー",
       "zh_CN": "聆音"
     }
   },
   "char_4188_confes": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "CONFESS-47",
+      "ja_JP": "CONFESS-47",
       "zh_CN": "CONFESS-47"
     }
   },
@@ -2594,12 +2600,16 @@
   "char_4193_lemuen": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Lemuen",
+      "ja_JP": "レミュアン",
       "zh_CN": "蕾缪安"
     }
   },
   "char_4194_rmixer": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Sankta Miksaparato",
+      "ja_JP": "サンクタ・ミキサー",
       "zh_CN": "信仰搅拌机"
     }
   },
@@ -2618,6 +2628,8 @@
   "char_4198_christ": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Miss.Christine",
+      "ja_JP": "ミス・クリスティーン",
       "zh_CN": "Miss.Christine"
     }
   },
@@ -3730,6 +3742,8 @@
   "token_10056_angel2_target": {
     "type": "TOKEN",
     "names": {
+      "en_US": "Delivery Coordinates",
+      "ja_JP": "配達先座標",
       "zh_CN": "投递坐标"
     }
   },
@@ -6094,24 +6108,32 @@
   "trap_213_dqore": {
     "type": "TRAP",
     "names": {
+      "en_US": "Originium Altar",
+      "ja_JP": "源石祭壇",
       "zh_CN": "源石祭坛"
     }
   },
   "trap_214_dqballis": {
     "type": "TRAP",
     "names": {
+      "en_US": "Turret",
+      "ja_JP": "バリスタ",
       "zh_CN": "弩炮"
     }
   },
   "trap_215_dqcrsbow": {
     "type": "TRAP",
     "names": {
+      "en_US": "Post-Firing Debt Relief Program",
+      "ja_JP": "解雇者清算プログラム",
       "zh_CN": "解雇者清债程序"
     }
   },
   "trap_216_dqelec": {
     "type": "TRAP",
     "names": {
+      "en_US": "Mieszko Coil",
+      "ja_JP": "ミェシュココイル",
       "zh_CN": "梅什科线圈"
     }
   },
@@ -6244,18 +6266,24 @@
   "trap_235_hlnpcm": {
     "type": "TRAP",
     "names": {
+      "en_US": "Saint Statue Cosplayer",
+      "ja_JP": "聖徒像ごっこ",
       "zh_CN": "圣徒像扮演者"
     }
   },
   "trap_236_hlnpcs": {
     "type": "TRAP",
     "names": {
+      "en_US": "Shrine Marksman Cosplayer",
+      "ja_JP": "聖堂射手ごっこ",
       "zh_CN": "圣堂射手扮演者"
     }
   },
   "trap_237_hlnpcb": {
     "type": "TRAP",
     "names": {
+      "en_US": "Shrine Nurturer Cosplayer",
+      "ja_JP": "聖堂保育士ごっこ",
       "zh_CN": "圣堂保育员扮演者"
     }
   },
@@ -6304,6 +6332,8 @@
   "trap_250_hlctrl": {
     "type": "TRAP",
     "names": {
+      "en_US": "Sacrament of Genesis",
+      "ja_JP": "根源を辿る儀式",
       "zh_CN": "寻根圣事"
     }
   },
@@ -7918,18 +7948,24 @@
   "trap_780_supspt": {
     "type": "TRAP",
     "names": {
+      "en_US": "Master Who Walks the Night Gear",
+      "ja_JP": "天工夜行セット",
       "zh_CN": "天工夜行套装"
     }
   },
   "trap_781_supspta": {
     "type": "TRAP",
     "names": {
+      "en_US": "Nightwalker's Cloak Module",
+      "ja_JP": "夜行笠モジュール",
       "zh_CN": "夜行斗篷模块"
     }
   },
   "trap_782_supsptb": {
     "type": "TRAP",
     "names": {
+      "en_US": "Nightwalker's Hook Module",
+      "ja_JP": "夜行鉤爪モジュール",
       "zh_CN": "夜行钩爪模块"
     }
   },
@@ -7992,6 +8028,8 @@
   "char_003_kalts@sale#14": {
     "type": "SKIN",
     "names": {
+      "en_US": "The Remains of Time",
+      "ja_JP": "時の足跡",
       "zh_CN": "时遗"
     }
   },
@@ -8252,6 +8290,8 @@
   "char_1035_wisdel@sale#14": {
     "type": "SKIN",
     "names": {
+      "en_US": "Supernova",
+      "ja_JP": "超新星",
       "zh_CN": "超新星"
     }
   },
@@ -8440,6 +8480,8 @@
   "char_124_kroos@sale#14": {
     "type": "SKIN",
     "names": {
+      "en_US": "Moonlit Voyage",
+      "ja_JP": "星と月の漂流記",
       "zh_CN": "星月漂流记"
     }
   },
@@ -9742,6 +9784,8 @@
   "char_300_phenxi@boc#9": {
     "type": "SKIN",
     "names": {
+      "en_US": "Judgment Day",
+      "ja_JP": "裁きの日",
       "zh_CN": "审判日"
     }
   },
@@ -9858,6 +9902,8 @@
   "char_332_archet@sale#14": {
     "type": "SKIN",
     "names": {
+      "en_US": "Glory of the Devout",
+      "ja_JP": "敬虔なる栄光",
       "zh_CN": "至虔者荣光"
     }
   },
@@ -10524,6 +10570,8 @@
   "char_4064_mlynar@iteration#3": {
     "type": "SKIN",
     "names": {
+      "en_US": "Roar Against the Wilds",
+      "ja_JP": "反逆の咆哮",
       "zh_CN": "苍茫怒号"
     }
   },
@@ -10856,6 +10904,8 @@
   "char_4136_phonor@boc#9": {
     "type": "SKIN",
     "names": {
+      "en_US": "Primordial Ode",
+      "ja_JP": "始まりの賛歌",
       "zh_CN": "最初的颂歌"
     }
   },
@@ -11056,6 +11106,8 @@
   "char_437_mizuki@game#6": {
     "type": "SKIN",
     "names": {
+      "en_US": "A Player Forever",
+      "ja_JP": "果てなき遊び心",
       "zh_CN": "永恒玩家"
     }
   },
@@ -11360,6 +11412,8 @@
   "char_497_ctable@epoque#44": {
     "type": "SKIN",
     "names": {
+      "en_US": "Bard by the Lake",
+      "ja_JP": "湖畔に響く囀り",
       "zh_CN": "湖畔歌者"
     }
   },
@@ -12924,84 +12978,112 @@
   "enemy_10083_hlbird": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Wings of the Sankta'",
+      "ja_JP": "「サンクタの翼」",
       "zh_CN": "“萨科塔之翼”"
     }
   },
   "enemy_10083_hlbird_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Flight of the Sankta'",
+      "ja_JP": "「サンクタの羽ばたき」",
       "zh_CN": "“萨科塔展翅”"
     }
   },
   "enemy_10084_hlegle": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Eyes of the Sankta'",
+      "ja_JP": "「サンクタの眼」",
       "zh_CN": "“萨科塔之眼”"
     }
   },
   "enemy_10084_hlegle_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Witness of the Sankta'",
+      "ja_JP": "「サンクタの目配り」",
       "zh_CN": "“萨科塔见证”"
     }
   },
   "enemy_10085_hllevi": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Flippers of the Sankta'",
+      "ja_JP": "「サンクタのひれ」",
       "zh_CN": "“萨科塔之鳍”"
     }
   },
   "enemy_10085_hllevi_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Pride of the Sankta'",
+      "ja_JP": "「サンクタの仰け反り」",
       "zh_CN": "“萨科塔昂首”"
     }
   },
   "enemy_10086_hltigr": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Claws of the Sankta'",
+      "ja_JP": "「サンクタの爪」",
       "zh_CN": "“萨科塔之爪”"
     }
   },
   "enemy_10086_hltigr_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Crawl of the Sankta'",
+      "ja_JP": "「サンクタの這いずり」",
       "zh_CN": "“萨科塔匍匐”"
     }
   },
   "enemy_10087_hlchgr": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Shrine Swordsman",
+      "ja_JP": "聖堂剣士",
       "zh_CN": "圣堂剑士"
     }
   },
   "enemy_10087_hlchgr_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Elite Shrine Swordsman",
+      "ja_JP": "精鋭聖堂剣士",
       "zh_CN": "精锐圣堂剑士"
     }
   },
   "enemy_10088_hlsnip": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Shrine Marksman",
+      "ja_JP": "聖堂狙撃手",
       "zh_CN": "圣堂射手"
     }
   },
   "enemy_10088_hlsnip_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Elite Shrine Marksman",
+      "ja_JP": "精鋭聖堂狙撃手",
       "zh_CN": "精锐圣堂射手"
     }
   },
   "enemy_10089_hlsprt": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Shrine Nurturer",
+      "ja_JP": "聖堂保育士",
       "zh_CN": "圣堂保育员"
     }
   },
   "enemy_10089_hlsprt_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Veteran Shrine Nurturer",
+      "ja_JP": "ベテラン聖堂保育士",
       "zh_CN": "资深圣堂保育员"
     }
   },
@@ -13016,30 +13098,40 @@
   "enemy_10090_hlgrd": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Shrine Preacher",
+      "ja_JP": "聖堂宣教師",
       "zh_CN": "圣堂布道员"
     }
   },
   "enemy_10090_hlgrd_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Veteran Shrine Preacher",
+      "ja_JP": "ベテラン聖堂宣教師",
       "zh_CN": "资深圣堂布道员"
     }
   },
   "enemy_10091_hlsttu": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Saint Statue",
+      "ja_JP": "聖徒像",
       "zh_CN": "圣徒像"
     }
   },
   "enemy_10091_hlsttu_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Praying Saint Statue",
+      "ja_JP": "聖徒祈祷像",
       "zh_CN": "圣徒祈祷像"
     }
   },
   "enemy_10091_hlsttu_3": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Matriarch'",
+      "ja_JP": "「総主教」",
       "zh_CN": "“牧首”"
     }
   },
@@ -18886,7 +18978,7 @@
   "enemy_1365_spnwiz_2": {
     "type": "ENEMY",
     "names": {
-      "en_US": "Sarkaz Boneguard Fluxcaster Captain\n",
+      "en_US": "Sarkaz Boneguard Fluxcaster Captain",
       "ja_JP": "サルカズ骨骸流浪術師長",
       "zh_CN": "萨卡兹骸骨漂泊术师长"
     }
@@ -20494,6 +20586,8 @@
   "enemy_1567_pope": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Saint'",
+      "ja_JP": "「聖徒」",
       "zh_CN": "“圣徒”"
     }
   },
@@ -22416,18 +22510,24 @@
   "enemy_6029_solzac": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Aubade'",
+      "ja_JP": "「晨音」",
       "zh_CN": "“晨音”"
     }
   },
   "enemy_6030_frgzac": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Twitter'",
+      "ja_JP": "「鳴囀」",
       "zh_CN": "“鸣啭”"
     }
   },
   "enemy_6031_visfrg": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Woodthreads'",
+      "ja_JP": "「木衣」",
       "zh_CN": "“木衣”"
     }
   },
@@ -23098,6 +23198,8 @@
   "act11pray": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Lucky Strips Login Event",
+      "ja_JP": "龍門開運\nおみくじ",
       "zh_CN": "幸运墙登录活动"
     }
   },
@@ -23672,6 +23774,8 @@
   "act1enemyduel": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Duel Channel: Green Grassville",
+      "ja_JP": "デュエルチャンネル：グリーングラスシティ",
       "zh_CN": "争锋频道：青草城"
     }
   },
@@ -24544,6 +24648,8 @@
   "act42side": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "The Masses' Travels",
+      "ja_JP": "命ある者の旅",
       "zh_CN": "众生行记"
     }
   },
@@ -24624,6 +24730,8 @@
   "act49sign": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Celebration Login Event",
+      "ja_JP": "大感謝祭スタンプ",
       "zh_CN": "六周年庆典签到活动"
     }
   },
@@ -24638,6 +24746,8 @@
   "act4collection": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Back to Castle",
+      "ja_JP": "再び古城へ",
       "zh_CN": "重返古堡"
     }
   },
@@ -26585,6 +26695,8 @@
   "LIMITED_TKT_GACHA_10_6101": {
     "type": "ITEM",
     "names": {
+      "en_US": "Examplary Believer Headhunting Permit",
+      "ja_JP": "感謝祭記念10回スカウト券",
       "zh_CN": "信徒标兵寻访凭证"
     }
   },
@@ -26803,6 +26915,8 @@
   "LMTGS_COIN_6101": {
     "type": "ITEM",
     "names": {
+      "en_US": "Headhunting Data Contract",
+      "ja_JP": "限定契約証",
       "zh_CN": "寻访数据契约"
     }
   },
@@ -27477,6 +27591,8 @@
   "act1enemyduel_milestone_point": {
     "type": "ITEM",
     "names": {
+      "en_US": "Grand Duel Fireworks",
+      "ja_JP": "デュエルクラッカー",
       "zh_CN": "争锋大礼花"
     }
   },
@@ -28207,6 +28323,8 @@
   "act42side_token_pacifier": {
     "type": "ITEM",
     "names": {
+      "en_US": "Enlightened Pacifier",
+      "ja_JP": "祝福のおしゃぶり",
       "zh_CN": "蒙恩的奶嘴"
     }
   },
@@ -28291,6 +28409,8 @@
   "act4collection_point_token": {
     "type": "ITEM",
     "names": {
+      "en_US": "Strategy Point",
+      "ja_JP": "戦略ポイント",
       "zh_CN": "战略点数"
     }
   },
@@ -30570,6 +30690,8 @@
   "emticon_duel_basic": {
     "type": "ITEM",
     "names": {
+      "en_US": "Emote Set",
+      "ja_JP": "スタンプ",
       "zh_CN": "表情套组"
     }
   },
@@ -31170,6 +31292,8 @@
   "p_char_1041_angel2": {
     "type": "ITEM",
     "names": {
+      "en_US": "Exusiai the New Covenant's Token",
+      "ja_JP": "新約エクシアの印",
       "zh_CN": "新约能天使的信物"
     }
   },
@@ -33456,12 +33580,16 @@
   "p_char_4187_graceb": {
     "type": "ITEM",
     "names": {
+      "en_US": "Gracebearer's Token",
+      "ja_JP": "グレースベアラーの印",
       "zh_CN": "聆音的信物"
     }
   },
   "p_char_4188_confes": {
     "type": "ITEM",
     "names": {
+      "en_US": "CONFESS-47's Token",
+      "ja_JP": "CONFESS-47の印",
       "zh_CN": "CONFESS-47的信物"
     }
   },
@@ -33474,12 +33602,16 @@
   "p_char_4193_lemuen": {
     "type": "ITEM",
     "names": {
+      "en_US": "Lemuen's Token",
+      "ja_JP": "レミュアンの印",
       "zh_CN": "蕾缪安的信物"
     }
   },
   "p_char_4194_rmixer": {
     "type": "ITEM",
     "names": {
+      "en_US": "Sankta Miksaparato's Token",
+      "ja_JP": "サンクタ・ミキサーの印",
       "zh_CN": "信仰搅拌机的信物"
     }
   },
@@ -34192,6 +34324,8 @@
   "randomMaterial_act42side": {
     "type": "ITEM",
     "names": {
+      "en_US": "Firearms Workshop Giftbox",
+      "ja_JP": "銃工房からの贈呈品",
       "zh_CN": "铳械工坊赠品盒"
     }
   },
@@ -34294,6 +34428,8 @@
   "renamingCard_0_061": {
     "type": "ITEM",
     "names": {
+      "en_US": "ID Info Update Card",
+      "ja_JP": "ID情報更新カード",
       "zh_CN": "ID信息更新卡"
     }
   },
@@ -34364,6 +34500,8 @@
   "renamingCard_30_061": {
     "type": "ITEM",
     "names": {
+      "en_US": "ID Info Update Card",
+      "ja_JP": "ID情報更新カード",
       "zh_CN": "ID信息更新卡"
     }
   },
@@ -35278,6 +35416,8 @@
   "voucher_class_pick6101": {
     "type": "ITEM",
     "names": {
+      "en_US": "Top Operator Transfer Permit - Kernel",
+      "ja_JP": "中堅★6招聘指名券",
       "zh_CN": "中坚高级干员调用凭证"
     }
   },
@@ -35652,6 +35792,8 @@
   "voucher_item_pick6101": {
     "type": "ITEM",
     "names": {
+      "en_US": "Top Operator Transfer Permit",
+      "ja_JP": "感謝祭記念★6招聘指名券",
       "zh_CN": "周年庆典干员凭证"
     }
   },
@@ -35750,6 +35892,8 @@
   "voucher_recruitR5_pick6101": {
     "type": "ITEM",
     "names": {
+      "en_US": "Senior Operator Transfer Permit",
+      "ja_JP": "★5招聘指名券",
       "zh_CN": "资深干员调用凭证"
     }
   },
@@ -36957,6 +37101,13 @@
       "ja_JP": "熾吾生平"
     }
   },
+  "_LIMITED_36_0_1": {
+    "type": "POOL",
+    "names": {
+      "en_US": "Freedom of Preach",
+      "ja_JP": "自由なる伝道"
+    }
+  },
   "_LIMITED_4_3_1": {
     "type": "POOL",
     "names": {
@@ -38129,18 +38280,24 @@
   "skchr_angel2_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Sweeping the Skies",
+      "ja_JP": "スカイスイーパー",
       "zh_CN": "天空大扫除"
     }
   },
   "skchr_angel2_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Shootoholic",
+      "ja_JP": "トリガーハッピー",
       "zh_CN": "开火成瘾症"
     }
   },
   "skchr_angel2_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Guaranteed Success!",
+      "ja_JP": "絶対に、確実に！",
       "zh_CN": "使命必达！"
     }
   },
@@ -39111,12 +39268,16 @@
   "skchr_christ_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Mealtime Manners",
+      "ja_JP": "食事は気ままに",
       "zh_CN": "自由用餐礼仪"
     }
   },
   "skchr_christ_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Bacchanalia",
+      "ja_JP": "狂飲の宴",
       "zh_CN": "狂饮之宴"
     }
   },
@@ -40047,12 +40208,16 @@
   "skchr_graceb_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Skullcracking Elegy",
+      "ja_JP": "開頭の挽歌",
       "zh_CN": "开颅挽歌"
     }
   },
   "skchr_graceb_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Disemboweling Mass",
+      "ja_JP": "開胸の弥撒",
       "zh_CN": "破膛弥撒"
     }
   },
@@ -40933,18 +41098,24 @@
   "skchr_lemuen_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Salvē Etiam",
+      "ja_JP": "再会の挨拶",
       "zh_CN": "重逢问候"
     }
   },
   "skchr_lemuen_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Honesta Missio",
+      "ja_JP": "帰郷の誘い",
       "zh_CN": "归乡邀约"
     }
   },
   "skchr_lemuen_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Salutatio Sclopeti: Memento Mori",
+      "ja_JP": "礼砲・強制追悼",
       "zh_CN": "礼炮·强制追思"
     }
   },
@@ -42427,18 +42598,24 @@
   "skchr_rmixer_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Gun-Knight Examiner-in-Chief",
+      "ja_JP": "銃騎士主任試験官",
       "zh_CN": "铳骑主考官"
     }
   },
   "skchr_rmixer_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Eight-Armed Chainsaw Guy",
+      "ja_JP": "オクトパス・チェーンソー",
       "zh_CN": "八臂电锯侠"
     }
   },
   "skchr_rmixer_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Pre-Retirement Preaching",
+      "ja_JP": "引退前の布教",
       "zh_CN": "退休前布道"
     }
   },
@@ -45153,18 +45330,24 @@
   "sktok_angel2_target_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Sweeping the Skies",
+      "ja_JP": "スカイスイーパー",
       "zh_CN": "天空大扫除"
     }
   },
   "sktok_angel2_target_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Shootoholic",
+      "ja_JP": "トリガーハッピー",
       "zh_CN": "开火成瘾症"
     }
   },
   "sktok_angel2_target_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Guaranteed Success!",
+      "ja_JP": "絶対に、確実に！",
       "zh_CN": "使命必达！"
     }
   },
@@ -46055,24 +46238,32 @@
   "sktok_dqballis": {
     "type": "SKILL",
     "names": {
+      "en_US": "Bolt Launching",
+      "ja_JP": "射撃",
       "zh_CN": "发射弩箭"
     }
   },
   "sktok_dqcrsbow": {
     "type": "SKILL",
     "names": {
+      "en_US": "Debt Relief Program",
+      "ja_JP": "清算プログラム",
       "zh_CN": "清债程序"
     }
   },
   "sktok_dqelec": {
     "type": "SKILL",
     "names": {
+      "en_US": "Energized!",
+      "ja_JP": "通電！",
       "zh_CN": "通电！"
     }
   },
   "sktok_dqore": {
     "type": "SKILL",
     "names": {
+      "en_US": "Pulse Wave",
+      "ja_JP": "源石衝撃波",
       "zh_CN": "脉冲波"
     }
   },
@@ -46507,6 +46698,8 @@
   "sktok_hlnpcb_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Awaken",
+      "ja_JP": "目覚め",
       "zh_CN": "苏醒"
     }
   },
@@ -47969,18 +48162,24 @@
   "sktok_supspt": {
     "type": "SKILL",
     "names": {
+      "en_US": "Master Who Walks the Night",
+      "ja_JP": "天工夜行",
       "zh_CN": "天工夜行"
     }
   },
   "sktok_supspta": {
     "type": "SKILL",
     "names": {
+      "en_US": "Master Who Walks the Night",
+      "ja_JP": "天工夜行",
       "zh_CN": "天工夜行"
     }
   },
   "sktok_supsptb": {
     "type": "SKILL",
     "names": {
+      "en_US": "Master Who Walks the Night",
+      "ja_JP": "天工夜行",
       "zh_CN": "天工夜行"
     }
   },
@@ -52249,24 +52448,32 @@
   "act1enemyduel_01a": {
     "type": "STAGE",
     "names": {
+      "en_US": "Duel Trial!",
+      "ja_JP": "いざ勝負！",
       "zh_CN": "争锋试炼！"
     }
   },
   "act1enemyduel_01b": {
     "type": "STAGE",
     "names": {
+      "en_US": "Duel Trial!",
+      "ja_JP": "いざ勝負！",
       "zh_CN": "争锋试炼！"
     }
   },
   "act1enemyduel_02a": {
     "type": "STAGE",
     "names": {
+      "en_US": "Duel Showdown!",
+      "ja_JP": "いざ対決！",
       "zh_CN": "争锋对决！"
     }
   },
   "act1enemyduel_02b": {
     "type": "STAGE",
     "names": {
+      "en_US": "Duel Showdown!",
+      "ja_JP": "いざ対決！",
       "zh_CN": "争锋对决！"
     }
   },
@@ -56131,120 +56338,160 @@
   "act42side_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Order",
+      "ja_JP": "叙階",
       "zh_CN": "圣秩"
     }
   },
   "act42side_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Prayer",
+      "ja_JP": "祈り",
       "zh_CN": "祈祷"
     }
   },
   "act42side_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Worship",
+      "ja_JP": "礼拝",
       "zh_CN": "礼拜"
     }
   },
   "act42side_04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Wayfinder",
+      "ja_JP": "求道",
       "zh_CN": "求道"
     }
   },
   "act42side_05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Communion",
+      "ja_JP": "共融",
       "zh_CN": "共融"
     }
   },
   "act42side_06": {
     "type": "STAGE",
     "names": {
+      "en_US": "Confess",
+      "ja_JP": "告解",
       "zh_CN": "告解"
     }
   },
   "act42side_07": {
     "type": "STAGE",
     "names": {
+      "en_US": "Funeral",
+      "ja_JP": "葬儀",
       "zh_CN": "丧礼"
     }
   },
   "act42side_08": {
     "type": "STAGE",
     "names": {
+      "en_US": "Pilgrimage",
+      "ja_JP": "巡礼",
       "zh_CN": "朝圣"
     }
   },
   "act42side_09": {
     "type": "STAGE",
     "names": {
+      "en_US": "Interpretation",
+      "ja_JP": "釈義",
       "zh_CN": "解经"
     }
   },
   "act42side_10": {
     "type": "STAGE",
     "names": {
+      "en_US": "Birth",
+      "ja_JP": "降誕",
       "zh_CN": "降生"
     }
   },
   "act42side_s01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Dessert Expo",
+      "ja_JP": "スイーツ博覧会",
       "zh_CN": "甜品展会"
     }
   },
   "act42side_s02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Preaching Practice",
+      "ja_JP": "布教演習",
       "zh_CN": "布道演习"
     }
   },
   "act42side_s03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Nationwide Parade",
+      "ja_JP": "「軍事パレード」",
       "zh_CN": "全民阅兵"
     }
   },
   "act42side_s04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Summit of Nations",
+      "ja_JP": "万国サミット",
       "zh_CN": "万国峰会"
     }
   },
   "act42side_s05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Sacrament of the Law",
+      "ja_JP": "授律の秘跡",
       "zh_CN": "授律圣事"
     }
   },
   "act42side_st01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Fallen",
+      "ja_JP": "「堕天」",
       "zh_CN": "“堕天”"
     }
   },
   "act42side_st02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Enlightenment",
+      "ja_JP": "啓聖",
       "zh_CN": "启圣"
     }
   },
   "act42side_st03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Reunion",
+      "ja_JP": "再会",
       "zh_CN": "重逢"
     }
   },
   "act42side_st04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Voyage",
+      "ja_JP": "遠出",
       "zh_CN": "远行"
     }
   },
   "act42side_tr01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Strange Days in the Holy City",
+      "ja_JP": "聖都の異常",
       "zh_CN": "圣城的异常"
     }
   },
@@ -58561,36 +58808,48 @@
   "lt_18_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "In the Alley",
+      "ja_JP": "路地裏",
       "zh_CN": "巷道里"
     }
   },
   "lt_18_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "By the Heights",
+      "ja_JP": "楼台",
       "zh_CN": "楼台边"
     }
   },
   "lt_18_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Graveside",
+      "ja_JP": "墓地周辺",
       "zh_CN": "墓地旁"
     }
   },
   "lt_18_04": {
     "type": "STAGE",
     "names": {
+      "en_US": "On Stage",
+      "ja_JP": "舞台上",
       "zh_CN": "舞台上"
     }
   },
   "lt_18_05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Under the Gates",
+      "ja_JP": "城門下",
       "zh_CN": "城门下"
     }
   },
   "lt_18_06": {
     "type": "STAGE",
     "names": {
+      "en_US": "Between Heaven and Earth",
+      "ja_JP": "天地の狭間",
       "zh_CN": "天地间"
     }
   },
@@ -63691,18 +63950,24 @@
   "act42side_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "A Glance at the Shrine",
+      "ja_JP": "聖堂を望む",
       "zh_CN": "瞻望圣堂"
     }
   },
   "act42side_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "An Audience with God",
+      "ja_JP": "主への謁見",
       "zh_CN": "谒见神祇"
     }
   },
   "act42side_zone3": {
     "type": "ZONE",
     "names": {
+      "en_US": "Rest in Peace",
+      "ja_JP": "安息の地",
       "zh_CN": "息止安所"
     }
   },
@@ -64897,6 +65162,8 @@
   "story_alanna_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "One More Time",
+      "ja_JP": "再会",
       "zh_CN": "再见一面"
     }
   },
@@ -65243,6 +65510,8 @@
   "story_broca_set_2_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Broca's Anger",
+      "ja_JP": "怒れるブローカ",
       "zh_CN": "愤怒的布洛卡"
     }
   },
@@ -65375,7 +65644,7 @@
   "story_ceylon_set_2_story_1": {
     "type": "MEMORY",
     "names": {
-      "en_US": "The Ones Left behind",
+      "en_US": "The Ones Left Behind",
       "ja_JP": "残されたもの",
       "zh_CN": "留下的人"
     }
@@ -66493,6 +66762,8 @@
   "story_mostma_set_2_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Journey's Footnote",
+      "ja_JP": "旅の脚注",
       "zh_CN": "旅途的注脚"
     }
   },
@@ -66585,6 +66856,8 @@
   "story_nowell_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "When Our Lives Began",
+      "ja_JP": "我らの人生が始まる時",
       "zh_CN": "当我们人生开始时"
     }
   },
@@ -67141,6 +67414,8 @@
   "story_spikes_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Dear Randall",
+      "ja_JP": "愛するランドールへ",
       "zh_CN": "亲爱的兰道尔"
     }
   },

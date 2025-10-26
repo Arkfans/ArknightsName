@@ -266,12 +266,18 @@
     "zh_CN": "如麦般生长"
   },
   "skchr_angel2_1": {
+    "en_US": "Sweeping the Skies",
+    "ja_JP": "スカイスイーパー",
     "zh_CN": "天空大扫除"
   },
   "skchr_angel2_2": {
+    "en_US": "Shootoholic",
+    "ja_JP": "トリガーハッピー",
     "zh_CN": "开火成瘾症"
   },
   "skchr_angel2_3": {
+    "en_US": "Guaranteed Success!",
+    "ja_JP": "絶対に、確実に！",
     "zh_CN": "使命必达！"
   },
   "skchr_angel_1": {
@@ -876,9 +882,13 @@
     "zh_CN": "厚土迸发"
   },
   "skchr_christ_1": {
+    "en_US": "Mealtime Manners",
+    "ja_JP": "食事は気ままに",
     "zh_CN": "自由用餐礼仪"
   },
   "skchr_christ_2": {
+    "en_US": "Bacchanalia",
+    "ja_JP": "狂飲の宴",
     "zh_CN": "狂饮之宴"
   },
   "skchr_chyue_1": {
@@ -1458,9 +1468,13 @@
     "zh_CN": "乡音沉沉"
   },
   "skchr_graceb_1": {
+    "en_US": "Skullcracking Elegy",
+    "ja_JP": "開頭の挽歌",
     "zh_CN": "开颅挽歌"
   },
   "skchr_graceb_2": {
+    "en_US": "Disemboweling Mass",
+    "ja_JP": "開胸の弥撒",
     "zh_CN": "破膛弥撒"
   },
   "skchr_grani_2": {
@@ -2002,12 +2016,18 @@
     "zh_CN": "初雷"
   },
   "skchr_lemuen_1": {
+    "en_US": "Salvē Etiam",
+    "ja_JP": "再会の挨拶",
     "zh_CN": "重逢问候"
   },
   "skchr_lemuen_2": {
+    "en_US": "Honesta Missio",
+    "ja_JP": "帰郷の誘い",
     "zh_CN": "归乡邀约"
   },
   "skchr_lemuen_3": {
+    "en_US": "Salutatio Sclopeti: Memento Mori",
+    "ja_JP": "礼砲・強制追悼",
     "zh_CN": "礼炮·强制追思"
   },
   "skchr_lessng_1": {
@@ -2920,12 +2940,18 @@
     "zh_CN": "击倒猎物"
   },
   "skchr_rmixer_1": {
+    "en_US": "Gun-Knight Examiner-in-Chief",
+    "ja_JP": "銃騎士主任試験官",
     "zh_CN": "铳骑主考官"
   },
   "skchr_rmixer_2": {
+    "en_US": "Eight-Armed Chainsaw Guy",
+    "ja_JP": "オクトパス・チェーンソー",
     "zh_CN": "八臂电锯侠"
   },
   "skchr_rmixer_3": {
+    "en_US": "Pre-Retirement Preaching",
+    "ja_JP": "引退前の布教",
     "zh_CN": "退休前布道"
   },
   "skchr_robin_1": {
@@ -4617,12 +4643,18 @@
     "zh_CN": "幽影门扉"
   },
   "sktok_angel2_target_1": {
+    "en_US": "Sweeping the Skies",
+    "ja_JP": "スカイスイーパー",
     "zh_CN": "天空大扫除"
   },
   "sktok_angel2_target_2": {
+    "en_US": "Shootoholic",
+    "ja_JP": "トリガーハッピー",
     "zh_CN": "开火成瘾症"
   },
   "sktok_angel2_target_3": {
+    "en_US": "Guaranteed Success!",
+    "ja_JP": "絶対に、確実に！",
     "zh_CN": "使命必达！"
   },
   "sktok_antidr": {
@@ -5177,15 +5209,23 @@
     "zh_CN": "抑制生长"
   },
   "sktok_dqballis": {
+    "en_US": "Bolt Launching",
+    "ja_JP": "射撃",
     "zh_CN": "发射弩箭"
   },
   "sktok_dqcrsbow": {
+    "en_US": "Debt Relief Program",
+    "ja_JP": "清算プログラム",
     "zh_CN": "清债程序"
   },
   "sktok_dqelec": {
+    "en_US": "Energized!",
+    "ja_JP": "通電！",
     "zh_CN": "通电！"
   },
   "sktok_dqore": {
+    "en_US": "Pulse Wave",
+    "ja_JP": "源石衝撃波",
     "zh_CN": "脉冲波"
   },
   "sktok_dsbell": {
@@ -5449,6 +5489,8 @@
     "zh_CN": "可被击破"
   },
   "sktok_hlnpcb_1": {
+    "en_US": "Awaken",
+    "ja_JP": "目覚め",
     "zh_CN": "苏醒"
   },
   "sktok_inverter": {
@@ -6329,12 +6371,18 @@
     "zh_CN": "新遣"
   },
   "sktok_supspt": {
+    "en_US": "Master Who Walks the Night",
+    "ja_JP": "天工夜行",
     "zh_CN": "天工夜行"
   },
   "sktok_supspta": {
+    "en_US": "Master Who Walks the Night",
+    "ja_JP": "天工夜行",
     "zh_CN": "天工夜行"
   },
   "sktok_supsptb": {
+    "en_US": "Master Who Walks the Night",
+    "ja_JP": "天工夜行",
     "zh_CN": "天工夜行"
   },
   "sktok_swire2_gdtrap": {

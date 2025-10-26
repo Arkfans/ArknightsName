@@ -37,7 +37,7 @@ tip: 请善用浏览器的搜索功能
 | char_1039_thorn2 | 引星棘刺 | Thorns the Lodestar | 引星ソーンズ |
 | char_103_angel | 能天使 | Exusiai | エクシア |
 | char_1040_blaze2 | 烛煌 | Blaze the Igniting Spark | 熾炎ブレイズ |
-| char_1041_angel2 | 新约能天使 | - | - |
+| char_1041_angel2 | 新约能天使 | Exusiai the New Covenant | 新約エクシア |
 | char_1042_phatm2 | 酒神 | - | - |
 | char_1043_leizi2 | 司霆惊蛰 | - | - |
 | char_1044_hsgma2 | 斩业星熊 | - | - |
@@ -329,14 +329,14 @@ tip: 请善用浏览器的搜索功能
 | char_4184_dolris | 三角初华 | - | - |
 | char_4185_amoris | 祐天寺若麦 | - | - |
 | char_4186_tmoris | 八幡海铃 | - | - |
-| char_4187_graceb | 聆音 | - | - |
-| char_4188_confes | CONFESS-47 | - | - |
+| char_4187_graceb | 聆音 | Gracebearer | グレースベアラー |
+| char_4188_confes | CONFESS-47 | CONFESS-47 | CONFESS-47 |
 | char_4191_tippi | 蒂比 | - | - |
-| char_4193_lemuen | 蕾缪安 | - | - |
-| char_4194_rmixer | 信仰搅拌机 | - | - |
+| char_4193_lemuen | 蕾缪安 | Lemuen | レミュアン |
+| char_4194_rmixer | 信仰搅拌机 | Sankta Miksaparato | サンクタ・ミキサー |
 | char_4195_radian | 电弧 | - | - |
 | char_4196_reckpr | 录武官 | - | - |
-| char_4198_christ | Miss.Christine | - | - |
+| char_4198_christ | Miss.Christine | Miss.Christine | ミス・クリスティーン |
 | char_4199_makiri | 松桐 | - | - |
 | char_4202_haruka | 遥 | - | - |
 | char_4203_kichi | 吉星 | - | - |

@@ -1991,15 +1991,23 @@
     "zh_CN": "活路一条"
   },
   "act1enemyduel_01a": {
+    "en_US": "Duel Trial!",
+    "ja_JP": "いざ勝負！",
     "zh_CN": "争锋试炼！"
   },
   "act1enemyduel_01b": {
+    "en_US": "Duel Trial!",
+    "ja_JP": "いざ勝負！",
     "zh_CN": "争锋试炼！"
   },
   "act1enemyduel_02a": {
+    "en_US": "Duel Showdown!",
+    "ja_JP": "いざ対決！",
     "zh_CN": "争锋对决！"
   },
   "act1enemyduel_02b": {
+    "en_US": "Duel Showdown!",
+    "ja_JP": "いざ対決！",
     "zh_CN": "争锋对决！"
   },
   "act1halfidle_01": {
@@ -4379,63 +4387,103 @@
     "zh_CN": "拨雾声"
   },
   "act42side_01": {
+    "en_US": "Order",
+    "ja_JP": "叙階",
     "zh_CN": "圣秩"
   },
   "act42side_02": {
+    "en_US": "Prayer",
+    "ja_JP": "祈り",
     "zh_CN": "祈祷"
   },
   "act42side_03": {
+    "en_US": "Worship",
+    "ja_JP": "礼拝",
     "zh_CN": "礼拜"
   },
   "act42side_04": {
+    "en_US": "Wayfinder",
+    "ja_JP": "求道",
     "zh_CN": "求道"
   },
   "act42side_05": {
+    "en_US": "Communion",
+    "ja_JP": "共融",
     "zh_CN": "共融"
   },
   "act42side_06": {
+    "en_US": "Confess",
+    "ja_JP": "告解",
     "zh_CN": "告解"
   },
   "act42side_07": {
+    "en_US": "Funeral",
+    "ja_JP": "葬儀",
     "zh_CN": "丧礼"
   },
   "act42side_08": {
+    "en_US": "Pilgrimage",
+    "ja_JP": "巡礼",
     "zh_CN": "朝圣"
   },
   "act42side_09": {
+    "en_US": "Interpretation",
+    "ja_JP": "釈義",
     "zh_CN": "解经"
   },
   "act42side_10": {
+    "en_US": "Birth",
+    "ja_JP": "降誕",
     "zh_CN": "降生"
   },
   "act42side_s01": {
+    "en_US": "Dessert Expo",
+    "ja_JP": "スイーツ博覧会",
     "zh_CN": "甜品展会"
   },
   "act42side_s02": {
+    "en_US": "Preaching Practice",
+    "ja_JP": "布教演習",
     "zh_CN": "布道演习"
   },
   "act42side_s03": {
+    "en_US": "Nationwide Parade",
+    "ja_JP": "「軍事パレード」",
     "zh_CN": "全民阅兵"
   },
   "act42side_s04": {
+    "en_US": "Summit of Nations",
+    "ja_JP": "万国サミット",
     "zh_CN": "万国峰会"
   },
   "act42side_s05": {
+    "en_US": "Sacrament of the Law",
+    "ja_JP": "授律の秘跡",
     "zh_CN": "授律圣事"
   },
   "act42side_st01": {
+    "en_US": "Fallen",
+    "ja_JP": "「堕天」",
     "zh_CN": "“堕天”"
   },
   "act42side_st02": {
+    "en_US": "Enlightenment",
+    "ja_JP": "啓聖",
     "zh_CN": "启圣"
   },
   "act42side_st03": {
+    "en_US": "Reunion",
+    "ja_JP": "再会",
     "zh_CN": "重逢"
   },
   "act42side_st04": {
+    "en_US": "Voyage",
+    "ja_JP": "遠出",
     "zh_CN": "远行"
   },
   "act42side_tr01": {
+    "en_US": "Strange Days in the Holy City",
+    "ja_JP": "聖都の異常",
     "zh_CN": "圣城的异常"
   },
   "act43side_01": {
@@ -5843,21 +5891,33 @@
     "zh_CN": "“音乐之心”"
   },
   "lt_18_01": {
+    "en_US": "In the Alley",
+    "ja_JP": "路地裏",
     "zh_CN": "巷道里"
   },
   "lt_18_02": {
+    "en_US": "By the Heights",
+    "ja_JP": "楼台",
     "zh_CN": "楼台边"
   },
   "lt_18_03": {
+    "en_US": "Graveside",
+    "ja_JP": "墓地周辺",
     "zh_CN": "墓地旁"
   },
   "lt_18_04": {
+    "en_US": "On Stage",
+    "ja_JP": "舞台上",
     "zh_CN": "舞台上"
   },
   "lt_18_05": {
+    "en_US": "Under the Gates",
+    "ja_JP": "城門下",
     "zh_CN": "城门下"
   },
   "lt_18_06": {
+    "en_US": "Between Heaven and Earth",
+    "ja_JP": "天地の狭間",
     "zh_CN": "天地间"
   },
   "lt_19_01": {

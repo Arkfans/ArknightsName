@@ -59,9 +59,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_amiya_3 | 奇美拉 | Chimera | キメラ |
 | skchr_amoris_1 | 如焰般热烈 | - | - |
 | skchr_amoris_2 | 如麦般生长 | - | - |
-| skchr_angel2_1 | 天空大扫除 | - | - |
-| skchr_angel2_2 | 开火成瘾症 | - | - |
-| skchr_angel2_3 | 使命必达！ | - | - |
+| skchr_angel2_1 | 天空大扫除 | Sweeping the Skies | スカイスイーパー |
+| skchr_angel2_2 | 开火成瘾症 | Shootoholic | トリガーハッピー |
+| skchr_angel2_3 | 使命必达！ | Guaranteed Success! | 絶対に、確実に！ |
 | skchr_angel_1 | 冲锋模式 | Charging Mode | アサルトモード |
 | skchr_angel_2 | 扫射模式 | Shooting Mode | バーストモード |
 | skchr_angel_3 | 过载模式 | Overloading Mode | オーバーロード |
@@ -183,8 +183,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_chimes_2 | 乡心无改 | Longing for Home | 郷思の念 |
 | skchr_chnut_1 | 积微成著 | Little by Little | 積土成山 |
 | skchr_chnut_2 | 厚土迸发 | Rising Earth | 厚土の脈動 |
-| skchr_christ_1 | 自由用餐礼仪 | - | - |
-| skchr_christ_2 | 狂饮之宴 | - | - |
+| skchr_christ_1 | 自由用餐礼仪 | Mealtime Manners | 食事は気ままに |
+| skchr_christ_2 | 狂饮之宴 | Bacchanalia | 狂飲の宴 |
 | skchr_chyue_1 | 冲盈 | Abundant | 満盈 |
 | skchr_chyue_2 | 拂尘 | Whisk | 払塵 |
 | skchr_chyue_3 | 我无 | Anatta | 我無 |
@@ -301,8 +301,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_gnosis_3 | 失温症 | Hypothermia | ハイポサーミア |
 | skchr_grabds_1 | 竹笛飞声 | Flute Flutter | 吹笛遠鳴 |
 | skchr_grabds_2 | 乡音沉沉 | Hometown Lullaby | 郷愁を誘う子守歌 |
-| skchr_graceb_1 | 开颅挽歌 | - | - |
-| skchr_graceb_2 | 破膛弥撒 | - | - |
+| skchr_graceb_1 | 开颅挽歌 | Skullcracking Elegy | 開頭の挽歌 |
+| skchr_graceb_2 | 破膛弥撒 | Disemboweling Mass | 開胸の弥撒 |
 | skchr_grani_2 | 永不后退！ | Press the Attack! | 引かない！ |
 | skchr_gravel_1 | 影袭 | Shadow Assault | スニークガード |
 | skchr_gravel_2 | 鼠群 | Rat Swarm | 鼠の縄張り |
@@ -415,9 +415,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_leizi2_2 | 正霆摄威 | - | - |
 | skchr_leizi2_3 | 天地通明 | - | - |
 | skchr_leizi_2 | 初雷 | Thunderclap | 初雷 |
-| skchr_lemuen_1 | 重逢问候 | - | - |
-| skchr_lemuen_2 | 归乡邀约 | - | - |
-| skchr_lemuen_3 | 礼炮·强制追思 | - | - |
+| skchr_lemuen_1 | 重逢问候 | Salvē Etiam | 再会の挨拶 |
+| skchr_lemuen_2 | 归乡邀约 | Honesta Missio | 帰郷の誘い |
+| skchr_lemuen_3 | 礼炮·强制追思 | Salutatio Sclopeti: Memento Mori | 礼砲・強制追悼 |
 | skchr_lessng_1 | 强力击·γ型 | Power Strike γ | 強撃γ |
 | skchr_lessng_2 | 虔修对决 | Clash of the Faithful | 苦行の縛り |
 | skchr_lessng_3 | 苦修破誓 | Oathbreaker | 誓いの破棄 |
@@ -607,9 +607,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_rfalcn_2 | 醉刃乱舞 | Drunken Bladedance | 醉刃乱舞 |
 | skchr_rfrost_1 | 陷阱部署 | Trap Deployment | トラップセット |
 | skchr_rfrost_2 | 击倒猎物 | Incapacitated Prey | リーサルパシュート |
-| skchr_rmixer_1 | 铳骑主考官 | - | - |
-| skchr_rmixer_2 | 八臂电锯侠 | - | - |
-| skchr_rmixer_3 | 退休前布道 | - | - |
+| skchr_rmixer_1 | 铳骑主考官 | Gun-Knight Examiner-in-Chief | 銃騎士主任試験官 |
+| skchr_rmixer_2 | 八臂电锯侠 | Eight-Armed Chainsaw Guy | オクトパス・チェーンソー |
+| skchr_rmixer_3 | 退休前布道 | Pre-Retirement Preaching | 引退前の布教 |
 | skchr_robin_1 | 束缚“夹子” | Binding 'Clip' | バインド「クリップ」 |
 | skchr_robin_2 | 弹射“夹子” | Launching 'Clip' | バースト「クリップ」 |
 | skchr_robrta_1 | 叙拉古式上妆 | Siracusan-Style Makeup | シラクーザ式化粧術 |
@@ -950,9 +950,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_allady_2 | 阿勒黛的卫护 | Allerdale's Guard | アラデルの衛護 |
 | sktok_allydonq | 冲锋 | Charge | 突貫 |
 | sktok_amblls | 幽影门扉 | Umbral Door | 幽影の扉 |
-| sktok_angel2_target_1 | 天空大扫除 | - | - |
-| sktok_angel2_target_2 | 开火成瘾症 | - | - |
-| sktok_angel2_target_3 | 使命必达！ | - | - |
+| sktok_angel2_target_1 | 天空大扫除 | Sweeping the Skies | スカイスイーパー |
+| sktok_angel2_target_2 | 开火成瘾症 | Shootoholic | トリガーハッピー |
+| sktok_angel2_target_3 | 使命必达！ | Guaranteed Success! | 絶対に、確実に！ |
 | sktok_antidr | 无人机干扰 | Drone Interference | ドローン妨害 |
 | sktok_arcexpd | 帮个小忙 | One Small Favor | お助け |
 | sktok_arcgacha | 扭动机关 | Turn Lever | カプセルポン！ |
@@ -1064,10 +1064,10 @@ tip: 请善用浏览器的搜索功能
 | sktok_doroth_2 | 流沙区域生成 | Quicksand Generation | 流砂生成 |
 | sktok_doroth_3 | 高速共振排障 | High-speed Resonating Troubleshooter | 高周波共振 |
 | sktok_dplant | 抑制生长 | Suppress Growth | 成長抑制 |
-| sktok_dqballis | 发射弩箭 | - | - |
-| sktok_dqcrsbow | 清债程序 | - | - |
-| sktok_dqelec | 通电！ | - | - |
-| sktok_dqore | 脉冲波 | - | - |
+| sktok_dqballis | 发射弩箭 | Bolt Launching | 射撃 |
+| sktok_dqcrsbow | 清债程序 | Debt Relief Program | 清算プログラム |
+| sktok_dqelec | 通电！ | Energized! | 通電！ |
+| sktok_dqore | 脉冲波 | Pulse Wave | 源石衝撃波 |
 | sktok_dsbell | 应急治疗协议 | Emergency Medical Agreement | 応急治療プロトコル |
 | sktok_dsshell | 赘生甲壳 | Excrescent Carapace | 増殖甲羅 |
 | sktok_dstnta | 摄食 | Devour | 摂食 |
@@ -1124,7 +1124,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_gtreasure | 可被击破 | Destructible | 撃破可能 |
 | sktok_gunctrl | 开火 | Open Fire | 発射 |
 | sktok_hiddenstone | 可被击破 | Destructible | 撃破可能 |
-| sktok_hlnpcb_1 | 苏醒 | - | - |
+| sktok_hlnpcb_1 | 苏醒 | Awaken | 目覚め |
 | sktok_inverter | 撼动现实 | Warping Reality | 事象震動 |
 | sktok_ironmn_pile1 | 极致火力 | Extreme Firepower | ハイパーブースト |
 | sktok_ironmn_pile2 | 高效补给 | Efficient Resupply | 供給効率化システム |
@@ -1318,9 +1318,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_storm | 沙尘暴 | Sandstorm | 砂嵐 |
 | sktok_streasure | 宝刺伤人 | Dangerous Spike | 危険な棘 |
 | sktok_supplycard | 新遣 | Dispatch | 派遣 |
-| sktok_supspt | 天工夜行 | - | - |
-| sktok_supspta | 天工夜行 | - | - |
-| sktok_supsptb | 天工夜行 | - | - |
+| sktok_supspt | 天工夜行 | Master Who Walks the Night | 天工夜行 |
+| sktok_supspta | 天工夜行 | Master Who Walks the Night | 天工夜行 |
+| sktok_supsptb | 天工夜行 | Master Who Walks the Night | 天工夜行 |
 | sktok_swire2_gdtrap | “见面礼” | 'Courtesy Gift' | 「おもてなし」 |
 | sktok_tbattbc | 钳兽壳粉 | Gloompincer Shell Meal | 鉗獣殻パウダー |
 | sktok_tbpsnc | 高效泡打粉 | High-Efficiency Baking Powder | ベーキングパウダー |

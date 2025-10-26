@@ -765,6 +765,8 @@
     "zh_CN": "欢宴良宵寻访凭证"
   },
   "LIMITED_TKT_GACHA_10_6101": {
+    "en_US": "Examplary Believer Headhunting Permit",
+    "ja_JP": "感謝祭記念10回スカウト券",
     "zh_CN": "信徒标兵寻访凭证"
   },
   "LIMITED_TKT_GACHA_10_6401": {
@@ -899,6 +901,8 @@
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_6101": {
+    "en_US": "Headhunting Data Contract",
+    "ja_JP": "限定契約証",
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_6401": {
@@ -1315,6 +1319,8 @@
     "zh_CN": "赏金猎人金币"
   },
   "act1enemyduel_milestone_point": {
+    "en_US": "Grand Duel Fireworks",
+    "ja_JP": "デュエルクラッカー",
     "zh_CN": "争锋大礼花"
   },
   "act1lock_point_reward": {
@@ -1754,6 +1760,8 @@
     "zh_CN": "试验数据集"
   },
   "act42side_token_pacifier": {
+    "en_US": "Enlightened Pacifier",
+    "ja_JP": "祝福のおしゃぶり",
     "zh_CN": "蒙恩的奶嘴"
   },
   "act43side_token_phantom": {
@@ -1802,6 +1810,8 @@
     "zh_CN": "数据黑盒"
   },
   "act4collection_point_token": {
+    "en_US": "Strategy Point",
+    "ja_JP": "戦略ポイント",
     "zh_CN": "战略点数"
   },
   "act4d0_intelligencepoint": {
@@ -3205,6 +3215,8 @@
     "zh_CN": "表情套组：虫动"
   },
   "emticon_duel_basic": {
+    "en_US": "Emote Set",
+    "ja_JP": "スタンプ",
     "zh_CN": "表情套组"
   },
   "et_ObsidianPass": {
@@ -3562,6 +3574,8 @@
     "zh_CN": "烛煌的信物"
   },
   "p_char_1041_angel2": {
+    "en_US": "Exusiai the New Covenant's Token",
+    "ja_JP": "新約エクシアの印",
     "zh_CN": "新约能天使的信物"
   },
   "p_char_1042_phatm2": {
@@ -4984,18 +4998,26 @@
     "zh_CN": "八幡海铃的信物"
   },
   "p_char_4187_graceb": {
+    "en_US": "Gracebearer's Token",
+    "ja_JP": "グレースベアラーの印",
     "zh_CN": "聆音的信物"
   },
   "p_char_4188_confes": {
+    "en_US": "CONFESS-47's Token",
+    "ja_JP": "CONFESS-47の印",
     "zh_CN": "CONFESS-47的信物"
   },
   "p_char_4191_tippi": {
     "zh_CN": "蒂比的信物"
   },
   "p_char_4193_lemuen": {
+    "en_US": "Lemuen's Token",
+    "ja_JP": "レミュアンの印",
     "zh_CN": "蕾缪安的信物"
   },
   "p_char_4194_rmixer": {
+    "en_US": "Sankta Miksaparato's Token",
+    "ja_JP": "サンクタ・ミキサーの印",
     "zh_CN": "信仰搅拌机的信物"
   },
   "p_char_4195_radian": {
@@ -5432,6 +5454,8 @@
     "zh_CN": "狂欢烟花桶"
   },
   "randomMaterial_act42side": {
+    "en_US": "Firearms Workshop Giftbox",
+    "ja_JP": "銃工房からの贈呈品",
     "zh_CN": "铳械工坊赠品盒"
   },
   "randomMaterial_leith2": {
@@ -5495,6 +5519,8 @@
     "zh_CN": "ID信息更新卡"
   },
   "renamingCard_0_061": {
+    "en_US": "ID Info Update Card",
+    "ja_JP": "ID情報更新カード",
     "zh_CN": "ID信息更新卡"
   },
   "renamingCard_30_018": {
@@ -5538,6 +5564,8 @@
     "zh_CN": "ID信息更新卡"
   },
   "renamingCard_30_061": {
+    "en_US": "ID Info Update Card",
+    "ja_JP": "ID情報更新カード",
     "zh_CN": "ID信息更新卡"
   },
   "return_credit_token": {
@@ -6101,6 +6129,8 @@
     "zh_CN": "中坚高级干员调用凭证"
   },
   "voucher_class_pick6101": {
+    "en_US": "Top Operator Transfer Permit - Kernel",
+    "ja_JP": "中堅★6招聘指名券",
     "zh_CN": "中坚高级干员调用凭证"
   },
   "voucher_elite_II_4": {
@@ -6331,6 +6361,8 @@
     "zh_CN": "高级干员调用凭证"
   },
   "voucher_item_pick6101": {
+    "en_US": "Top Operator Transfer Permit",
+    "ja_JP": "感謝祭記念★6招聘指名券",
     "zh_CN": "周年庆典干员凭证"
   },
   "voucher_lessng": {
@@ -6390,6 +6422,8 @@
     "zh_CN": "资深干员调用凭证"
   },
   "voucher_recruitR5_pick6101": {
+    "en_US": "Senior Operator Transfer Permit",
+    "ja_JP": "★5招聘指名券",
     "zh_CN": "资深干员调用凭证"
   },
   "voucher_recruitR6_pick5301": {

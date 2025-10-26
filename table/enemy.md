@@ -172,26 +172,26 @@ tip: 请善用浏览器的搜索功能
 | enemy_10081_mpplai | 转译基底·α | Decode Basis α | 変換基底α |
 | enemy_10081_mpplai_2 | 转译基底·β | Decode Basis β | 変換基底β |
 | enemy_10082_mpweak | 弱化节点 | Weakening Node | 弱体化ノード |
-| enemy_10083_hlbird | “萨科塔之翼” | - | - |
-| enemy_10083_hlbird_2 | “萨科塔展翅” | - | - |
-| enemy_10084_hlegle | “萨科塔之眼” | - | - |
-| enemy_10084_hlegle_2 | “萨科塔见证” | - | - |
-| enemy_10085_hllevi | “萨科塔之鳍” | - | - |
-| enemy_10085_hllevi_2 | “萨科塔昂首” | - | - |
-| enemy_10086_hltigr | “萨科塔之爪” | - | - |
-| enemy_10086_hltigr_2 | “萨科塔匍匐” | - | - |
-| enemy_10087_hlchgr | 圣堂剑士 | - | - |
-| enemy_10087_hlchgr_2 | 精锐圣堂剑士 | - | - |
-| enemy_10088_hlsnip | 圣堂射手 | - | - |
-| enemy_10088_hlsnip_2 | 精锐圣堂射手 | - | - |
-| enemy_10089_hlsprt | 圣堂保育员 | - | - |
-| enemy_10089_hlsprt_2 | 资深圣堂保育员 | - | - |
+| enemy_10083_hlbird | “萨科塔之翼” | 'Wings of the Sankta' | 「サンクタの翼」 |
+| enemy_10083_hlbird_2 | “萨科塔展翅” | 'Flight of the Sankta' | 「サンクタの羽ばたき」 |
+| enemy_10084_hlegle | “萨科塔之眼” | 'Eyes of the Sankta' | 「サンクタの眼」 |
+| enemy_10084_hlegle_2 | “萨科塔见证” | 'Witness of the Sankta' | 「サンクタの目配り」 |
+| enemy_10085_hllevi | “萨科塔之鳍” | 'Flippers of the Sankta' | 「サンクタのひれ」 |
+| enemy_10085_hllevi_2 | “萨科塔昂首” | 'Pride of the Sankta' | 「サンクタの仰け反り」 |
+| enemy_10086_hltigr | “萨科塔之爪” | 'Claws of the Sankta' | 「サンクタの爪」 |
+| enemy_10086_hltigr_2 | “萨科塔匍匐” | 'Crawl of the Sankta' | 「サンクタの這いずり」 |
+| enemy_10087_hlchgr | 圣堂剑士 | Shrine Swordsman | 聖堂剣士 |
+| enemy_10087_hlchgr_2 | 精锐圣堂剑士 | Elite Shrine Swordsman | 精鋭聖堂剣士 |
+| enemy_10088_hlsnip | 圣堂射手 | Shrine Marksman | 聖堂狙撃手 |
+| enemy_10088_hlsnip_2 | 精锐圣堂射手 | Elite Shrine Marksman | 精鋭聖堂狙撃手 |
+| enemy_10089_hlsprt | 圣堂保育员 | Shrine Nurturer | 聖堂保育士 |
+| enemy_10089_hlsprt_2 | 资深圣堂保育员 | Veteran Shrine Nurturer | ベテラン聖堂保育士 |
 | enemy_1008_ghost | 幽灵 | Wraith | ゴースト兵 |
-| enemy_10090_hlgrd | 圣堂布道员 | - | - |
-| enemy_10090_hlgrd_2 | 资深圣堂布道员 | - | - |
-| enemy_10091_hlsttu | 圣徒像 | - | - |
-| enemy_10091_hlsttu_2 | 圣徒祈祷像 | - | - |
-| enemy_10091_hlsttu_3 | “牧首” | - | - |
+| enemy_10090_hlgrd | 圣堂布道员 | Shrine Preacher | 聖堂宣教師 |
+| enemy_10090_hlgrd_2 | 资深圣堂布道员 | Veteran Shrine Preacher | ベテラン聖堂宣教師 |
+| enemy_10091_hlsttu | 圣徒像 | Saint Statue | 聖徒像 |
+| enemy_10091_hlsttu_2 | 圣徒祈祷像 | Praying Saint Statue | 聖徒祈祷像 |
+| enemy_10091_hlsttu_3 | “牧首” | 'Matriarch' | 「総主教」 |
 | enemy_10094_crstf | 临时收音师 | - | - |
 | enemy_10094_crstf_2 | 执拗的收音师 | - | - |
 | enemy_10095_crgst | 加戏群演 | - | - |
@@ -939,8 +939,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1364_spnaxe | 萨卡兹骸骨鞭笞者 | Sarkaz Boneguard Flayer | サルカズ骨骸拷問者 |
 | enemy_1364_spnaxe_2 | 萨卡兹骸骨拷打者 | Sarkaz Boneguard Torturer | サルカズ骨骸拷問隊長 |
 | enemy_1365_spnwiz | 萨卡兹骸骨漂泊术师 | Sarkaz Boneguard Fluxcaster | サルカズ骨骸流浪術師 |
-| enemy_1365_spnwiz_2 | 萨卡兹骸骨漂泊术师长 | Sarkaz Boneguard Fluxcaster Captain
- | サルカズ骨骸流浪術師長 |
+| enemy_1365_spnwiz_2 | 萨卡兹骸骨漂泊术师长 | Sarkaz Boneguard Fluxcaster Captain | サルカズ骨骸流浪術師長 |
 | enemy_1366_dcolle | 萨卡兹敛血行者 | Sarkaz Bloodwalker | サルカズ血珀収集者 |
 | enemy_1366_dcolle_2 | 萨卡兹萃血行者 | Sarkaz Bloodnexus | サルカズ精鋭血珀収集者 |
 | enemy_1367_dseed | 血珀 | Blood Amber | 血珀 |
@@ -1141,7 +1140,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1564_mpprts | PRTS，“源代码” | PRTS, Source Code | PRTS、「ソースコード」 |
 | enemy_1565_mpprme | 拟态机械 | Mimic Machine | 擬態機械 |
 | enemy_1566_mpascl | “阿斯卡纶” | 'Ascalon' | 「アスカロン」 |
-| enemy_1567_pope | “圣徒” | - | - |
+| enemy_1567_pope | “圣徒” | 'Saint' | 「聖徒」 |
 | enemy_1568_dirctr | “酒神” | - | - |
 | enemy_1569_ldevil | 莫菲丝 | - | - |
 | enemy_1570_ymgscm | 三船光平 | - | - |
@@ -1396,9 +1395,9 @@ tip: 请善用浏览器的搜索功能
 | enemy_6026_techn | 巫术石球 | Witchcraft Orb | 巫術の石球 |
 | enemy_6027_bqthie | 飞檐客-叶无轻 | Ye Wuqing, Rooftop Runner | 「飛侠」葉無軽 |
 | enemy_6028_cosgia | “高亢群歌” | 'Song of the Pack' | 「高らかな合唱」 |
-| enemy_6029_solzac | “晨音” | - | - |
-| enemy_6030_frgzac | “鸣啭” | - | - |
-| enemy_6031_visfrg | “木衣” | - | - |
+| enemy_6029_solzac | “晨音” | 'Aubade' | 「晨音」 |
+| enemy_6030_frgzac | “鸣啭” | 'Twitter' | 「鳴囀」 |
+| enemy_6031_visfrg | “木衣” | 'Woodthreads' | 「木衣」 |
 | enemy_6032_fxdjj | “绝对安保”试做型  | - | - |
 | enemy_7001_blwzad | 部族巫术师 | Tribal Shaman | 部族呪術師 |
 | enemy_7001_blwzad_2 | 王酋巫术师 | Lord Ameer Shaman | 首長呪術師 |

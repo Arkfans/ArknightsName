@@ -835,45 +835,73 @@
     "zh_CN": "弱化节点"
   },
   "enemy_10083_hlbird": {
+    "en_US": "'Wings of the Sankta'",
+    "ja_JP": "「サンクタの翼」",
     "zh_CN": "“萨科塔之翼”"
   },
   "enemy_10083_hlbird_2": {
+    "en_US": "'Flight of the Sankta'",
+    "ja_JP": "「サンクタの羽ばたき」",
     "zh_CN": "“萨科塔展翅”"
   },
   "enemy_10084_hlegle": {
+    "en_US": "'Eyes of the Sankta'",
+    "ja_JP": "「サンクタの眼」",
     "zh_CN": "“萨科塔之眼”"
   },
   "enemy_10084_hlegle_2": {
+    "en_US": "'Witness of the Sankta'",
+    "ja_JP": "「サンクタの目配り」",
     "zh_CN": "“萨科塔见证”"
   },
   "enemy_10085_hllevi": {
+    "en_US": "'Flippers of the Sankta'",
+    "ja_JP": "「サンクタのひれ」",
     "zh_CN": "“萨科塔之鳍”"
   },
   "enemy_10085_hllevi_2": {
+    "en_US": "'Pride of the Sankta'",
+    "ja_JP": "「サンクタの仰け反り」",
     "zh_CN": "“萨科塔昂首”"
   },
   "enemy_10086_hltigr": {
+    "en_US": "'Claws of the Sankta'",
+    "ja_JP": "「サンクタの爪」",
     "zh_CN": "“萨科塔之爪”"
   },
   "enemy_10086_hltigr_2": {
+    "en_US": "'Crawl of the Sankta'",
+    "ja_JP": "「サンクタの這いずり」",
     "zh_CN": "“萨科塔匍匐”"
   },
   "enemy_10087_hlchgr": {
+    "en_US": "Shrine Swordsman",
+    "ja_JP": "聖堂剣士",
     "zh_CN": "圣堂剑士"
   },
   "enemy_10087_hlchgr_2": {
+    "en_US": "Elite Shrine Swordsman",
+    "ja_JP": "精鋭聖堂剣士",
     "zh_CN": "精锐圣堂剑士"
   },
   "enemy_10088_hlsnip": {
+    "en_US": "Shrine Marksman",
+    "ja_JP": "聖堂狙撃手",
     "zh_CN": "圣堂射手"
   },
   "enemy_10088_hlsnip_2": {
+    "en_US": "Elite Shrine Marksman",
+    "ja_JP": "精鋭聖堂狙撃手",
     "zh_CN": "精锐圣堂射手"
   },
   "enemy_10089_hlsprt": {
+    "en_US": "Shrine Nurturer",
+    "ja_JP": "聖堂保育士",
     "zh_CN": "圣堂保育员"
   },
   "enemy_10089_hlsprt_2": {
+    "en_US": "Veteran Shrine Nurturer",
+    "ja_JP": "ベテラン聖堂保育士",
     "zh_CN": "资深圣堂保育员"
   },
   "enemy_1008_ghost": {
@@ -882,18 +910,28 @@
     "zh_CN": "幽灵"
   },
   "enemy_10090_hlgrd": {
+    "en_US": "Shrine Preacher",
+    "ja_JP": "聖堂宣教師",
     "zh_CN": "圣堂布道员"
   },
   "enemy_10090_hlgrd_2": {
+    "en_US": "Veteran Shrine Preacher",
+    "ja_JP": "ベテラン聖堂宣教師",
     "zh_CN": "资深圣堂布道员"
   },
   "enemy_10091_hlsttu": {
+    "en_US": "Saint Statue",
+    "ja_JP": "聖徒像",
     "zh_CN": "圣徒像"
   },
   "enemy_10091_hlsttu_2": {
+    "en_US": "Praying Saint Statue",
+    "ja_JP": "聖徒祈祷像",
     "zh_CN": "圣徒祈祷像"
   },
   "enemy_10091_hlsttu_3": {
+    "en_US": "'Matriarch'",
+    "ja_JP": "「総主教」",
     "zh_CN": "“牧首”"
   },
   "enemy_10094_crstf": {
@@ -4496,7 +4534,7 @@
     "zh_CN": "萨卡兹骸骨漂泊术师"
   },
   "enemy_1365_spnwiz_2": {
-    "en_US": "Sarkaz Boneguard Fluxcaster Captain\n",
+    "en_US": "Sarkaz Boneguard Fluxcaster Captain",
     "ja_JP": "サルカズ骨骸流浪術師長",
     "zh_CN": "萨卡兹骸骨漂泊术师长"
   },
@@ -5501,6 +5539,8 @@
     "zh_CN": "“阿斯卡纶”"
   },
   "enemy_1567_pope": {
+    "en_US": "'Saint'",
+    "ja_JP": "「聖徒」",
     "zh_CN": "“圣徒”"
   },
   "enemy_1568_dirctr": {
@@ -6658,12 +6698,18 @@
     "zh_CN": "“高亢群歌”"
   },
   "enemy_6029_solzac": {
+    "en_US": "'Aubade'",
+    "ja_JP": "「晨音」",
     "zh_CN": "“晨音”"
   },
   "enemy_6030_frgzac": {
+    "en_US": "'Twitter'",
+    "ja_JP": "「鳴囀」",
     "zh_CN": "“鸣啭”"
   },
   "enemy_6031_visfrg": {
+    "en_US": "'Woodthreads'",
+    "ja_JP": "「木衣」",
     "zh_CN": "“木衣”"
   },
   "enemy_6032_fxdjj": {

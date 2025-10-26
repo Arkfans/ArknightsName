@@ -971,12 +971,18 @@
     "zh_CN": "将熄的火"
   },
   "act42side_zone1": {
+    "en_US": "A Glance at the Shrine",
+    "ja_JP": "聖堂を望む",
     "zh_CN": "瞻望圣堂"
   },
   "act42side_zone2": {
+    "en_US": "An Audience with God",
+    "ja_JP": "主への謁見",
     "zh_CN": "谒见神祇"
   },
   "act42side_zone3": {
+    "en_US": "Rest in Peace",
+    "ja_JP": "安息の地",
     "zh_CN": "息止安所"
   },
   "act43side_zone1": {

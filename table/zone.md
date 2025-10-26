@@ -204,9 +204,9 @@ tip: 请善用浏览器的搜索功能
 | act40side_zone3 | 怅别离 | Farewell, Loved Ones | 悵別離 |
 | act41side_zone1 | 摇曳的影 | Flickering Shadows | 揺らめく影 |
 | act41side_zone2 | 将熄的火 | Dying Flames | 消えゆく炎 |
-| act42side_zone1 | 瞻望圣堂 | - | - |
-| act42side_zone2 | 谒见神祇 | - | - |
-| act42side_zone3 | 息止安所 | - | - |
+| act42side_zone1 | 瞻望圣堂 | A Glance at the Shrine | 聖堂を望む |
+| act42side_zone2 | 谒见神祇 | An Audience with God | 主への謁見 |
+| act42side_zone3 | 息止安所 | Rest in Peace | 安息の地 |
 | act43side_zone1 | 演出开始 | - | - |
 | act43side_zone2 | 为戏剧，为永恒 | - | - |
 | act44side_zone1 | 不夜街区 | - | - |

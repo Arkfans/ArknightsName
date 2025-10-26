@@ -348,6 +348,12 @@
     ]
   },
   "avg_1041_angel2_1": {
+    "en_US": [
+      "Exusiai"
+    ],
+    "ja_JP": [
+      "エクシア"
+    ],
     "zh_CN": [
       "能天使"
     ]
@@ -1022,9 +1028,11 @@
   },
   "avg_213_mostma_1": {
     "en_US": [
+      "Fiammetta",
       "Mostima"
     ],
     "ja_JP": [
+      "フィアメッタ",
       "モスティマ"
     ],
     "zh_CN": [
@@ -1306,6 +1314,12 @@
     ]
   },
   "avg_271_arene_1": {
+    "en_US": [
+      "Randall"
+    ],
+    "ja_JP": [
+      "ランドール"
+    ],
     "zh_CN": [
       "兰道尔"
     ]
@@ -1587,6 +1601,14 @@
     ]
   },
   "avg_356_broca_1": {
+    "en_US": [
+      "Broca",
+      "Chiave & Broca"
+    ],
+    "ja_JP": [
+      "キアーベ/ブローカ",
+      "ブローカ"
+    ],
     "zh_CN": [
       "布洛卡",
       "贾维&布洛卡"
@@ -2924,6 +2946,12 @@
     ]
   },
   "avg_4173_nowell_1": {
+    "en_US": [
+      "Nowell"
+    ],
+    "ja_JP": [
+      "ノウエル"
+    ],
     "zh_CN": [
       "诺威尔"
     ]
@@ -2991,12 +3019,26 @@
     ]
   },
   "avg_4187_graceb_1": {
+    "en_US": [
+      "Alert Nun",
+      "Nueda"
+    ],
+    "ja_JP": [
+      "ヌエダ",
+      "警戒するシスター"
+    ],
     "zh_CN": [
       "努艾达",
       "警惕的修女"
     ]
   },
   "avg_4188_confes_1": {
+    "en_US": [
+      "Automated Confessional"
+    ],
+    "ja_JP": [
+      "自律式告解ロボット"
+    ],
     "zh_CN": [
       "自律告解车"
     ]
@@ -3009,11 +3051,23 @@
     ]
   },
   "avg_4193_lemuen_1": {
+    "en_US": [
+      "Lemuen"
+    ],
+    "ja_JP": [
+      "レミュアン"
+    ],
     "zh_CN": [
       "蕾缪安"
     ]
   },
   "avg_4194_rmixer_1": {
+    "en_US": [
+      "Patrizion"
+    ],
+    "ja_JP": [
+      "パトリツィオ"
+    ],
     "zh_CN": [
       "帕特里奇昂"
     ]
@@ -3661,6 +3715,7 @@
       "Infected Employee?",
       "Irritable Infected",
       "Joyful Worker",
+      "Kuranta",
       "Miner ???",
       "Neighbor A",
       "Operating Crew",
@@ -3680,6 +3735,7 @@
       "たくましい町民",
       "アベル",
       "エドガー",
+      "クランタ",
       "コミュニティの住民",
       "コミュニティの露店商",
       "フェロン",
@@ -3836,9 +3892,11 @@
       "A Haggard Girl",
       "Carol",
       "Diner C",
+      "Hesitant Woman",
       "Immature Reporter"
     ],
     "ja_JP": [
+      "ためらいがちな女性",
       "やつれた少女",
       "キャロル",
       "客C",
@@ -3907,6 +3965,7 @@
       "Elderly Worker",
       "Farm Owner",
       "Grumpy Old Man",
+      "Humble Mayor",
       "Hurrying Worker",
       "Infected Employee A",
       "James the Worker",
@@ -3921,6 +3980,7 @@
       "Porter",
       "Produce Vendor",
       "Shopkeeper",
+      "Sweating Worker",
       "Tense Infected",
       "Uncle Wong",
       "Village Head",
@@ -3952,9 +4012,11 @@
       "村人C",
       "村長",
       "民兵A",
+      "汗だくの労働者",
       "温厚な村人",
       "老いた住民",
       "老けている労働者",
+      "誠実な町長",
       "農場主",
       "運搬人",
       "道を急ぐ労働者",
@@ -4020,7 +4082,9 @@
       "Tired Miner",
       "Town Projectionist",
       "Village Headman",
-      "Wastelander B"
+      "Wastelander B",
+      "Worker Biting Toothpick",
+      "Workers"
     ],
     "ja_JP": [
       "くたびれた労働者",
@@ -4030,12 +4094,14 @@
       "バーのオーナー",
       "一般感染者A",
       "八百屋",
+      "労働者たち",
       "商人",
       "客B",
       "感染者従業員B",
       "憂鬱そうな労働者",
       "村長",
       "民兵B",
+      "爪楊枝をくわえた労働者",
       "町の映写技師",
       "老いた労働者",
       "苦労する坑夫",
@@ -6414,6 +6480,7 @@
   },
   "avg_npc_081": {
     "en_US": [
+      "Angry Youth",
       "Assistant",
       "Darrell",
       "Haggard Worker",
@@ -6442,6 +6509,7 @@
       "助手",
       "屈強な男",
       "村人",
+      "激怒する男",
       "疲弊した感染者",
       "見知らぬ人",
       "酷く呆けた老人",
@@ -6797,6 +6865,7 @@
   "avg_npc_092": {
     "en_US": [
       "Alsu",
+      "Calm Old Man",
       "Devout Follower",
       "Local Villager",
       "Nervous Old Man",
@@ -6807,6 +6876,7 @@
       "おじいさん",
       "アルスー",
       "信心深い信徒",
+      "冷静な老人",
       "村の老人",
       "現地の村人",
       "緊張する老人",
@@ -7303,10 +7373,12 @@
   },
   "avg_npc_1040_1": {
     "en_US": [
-      "Blacksteel Intelligence Squad Member"
+      "Blacksteel Intelligence Squad Member",
+      "Tila"
     ],
     "ja_JP": [
-      "BSW情報隊員"
+      "BSW情報隊員",
+      "ティラ"
     ],
     "zh_CN": [
       "蒂拉",
@@ -7329,10 +7401,12 @@
       "Anxious Man",
       "Community Resident",
       "Furious Resident",
+      "Perro",
       "Unhappy-looking Resident"
     ],
     "ja_JP": [
       "コミュニティの住民",
+      "ペッロー",
       "不機嫌な住民",
       "怒る住民",
       "慌てる男性",
@@ -7418,6 +7492,7 @@
   },
   "avg_npc_1045_1": {
     "en_US": [
+      "Blacksteel Administrator",
       "Blacksteel Engineering Team Member",
       "Blacksteel Mercenary",
       "Blacksteel Operator",
@@ -7434,6 +7509,7 @@
       "BSWオペレーター",
       "BSWベテラン隊員",
       "BSW傭兵",
+      "BSW幹部",
       "エンジニア部部長",
       "不本意な傭兵",
       "冷静な傭兵",
@@ -7883,10 +7959,14 @@
   },
   "avg_npc_1129_1": {
     "en_US": [
+      "Britney",
       "Motivated Student",
+      "Scornful Student",
       "Young Woman"
     ],
     "ja_JP": [
+      "ひねくれた学生",
+      "ブリトニー",
       "娘",
       "積極的な学生"
     ],
@@ -7911,12 +7991,16 @@
   "avg_npc_1131_1": {
     "en_US": [
       "'Stubborn Apprentice'",
+      "Arrogant Student",
       "Flustered Student",
       "Guy Next Door",
-      "Stubborn Apprentice"
+      "Stubborn Apprentice",
+      "Viktor"
     ],
     "ja_JP": [
       "「強情な学生」",
+      "ヴィクター",
+      "傲慢な学生",
       "同級生の青年",
       "強情な学生",
       "慌てる学生"
@@ -7934,9 +8018,11 @@
     "en_US": [
       "Anxious Student",
       "Bewildered Student",
-      "Passing Student"
+      "Passing Student",
+      "Payne"
     ],
     "ja_JP": [
+      "ペイン",
       "焦る学生",
       "腑に落ちない学生",
       "通りすがりの学生"
@@ -8142,6 +8228,7 @@
   },
   "avg_npc_1185_1": {
     "en_US": [
+      "Barrenlands Mechanic",
       "Hard-Working Miner",
       "Infected Worker",
       "Mine Captain",
@@ -8153,6 +8240,7 @@
       "工員A",
       "感染労働者",
       "採掘隊隊長",
+      "荒野の修理屋",
       "頑張る坑夫"
     ],
     "zh_CN": [
@@ -8168,6 +8256,7 @@
   },
   "avg_npc_1186_1": {
     "en_US": [
+      "Barrenlands Settler",
       "Company Representative",
       "Miner",
       "Somewhat Familiar Woman",
@@ -8182,6 +8271,7 @@
       "工員B",
       "採掘労働者",
       "疲れた坑夫",
+      "荒野の住民",
       "見知らぬ女性",
       "見覚えのある女性"
     ],
@@ -8792,10 +8882,12 @@
   },
   "avg_npc_1255_1": {
     "en_US": [
+      "Liberi",
       "Londinium Resident",
       "Rental Store Owner"
     ],
     "ja_JP": [
+      "リーベリ",
       "レンタルショップ店主",
       "ロンディニウム住民"
     ],
@@ -12264,6 +12356,12 @@
     ]
   },
   "avg_npc_1722_1": {
+    "en_US": [
+      "Infected"
+    ],
+    "ja_JP": [
+      "感染者"
+    ],
     "zh_CN": [
       "感染者"
     ]
@@ -12724,16 +12822,34 @@
     ]
   },
   "avg_npc_1777_1": {
+    "en_US": [
+      "Matriarch"
+    ],
+    "ja_JP": [
+      "総主教"
+    ],
     "zh_CN": [
       "牧首"
     ]
   },
   "avg_npc_1778_1": {
+    "en_US": [
+      "'Saint'"
+    ],
+    "ja_JP": [
+      "「聖徒」"
+    ],
     "zh_CN": [
       "“圣徒”"
     ]
   },
   "avg_npc_1779_1": {
+    "en_US": [
+      "Vannini"
+    ],
+    "ja_JP": [
+      "ヴァンニーニ"
+    ],
     "zh_CN": [
       "梵里妮"
     ]
@@ -12765,32 +12881,74 @@
     ]
   },
   "avg_npc_1780_1": {
+    "en_US": [
+      "Velliv"
+    ],
+    "ja_JP": [
+      "ヴェルリヴ"
+    ],
     "zh_CN": [
       "薇尔丽芙"
     ]
   },
   "avg_npc_1781_1": {
+    "en_US": [
+      "Massive Eyes",
+      "Paganini"
+    ],
+    "ja_JP": [
+      "パガニーニ",
+      "大きな目の持ち主"
+    ],
     "zh_CN": [
       "大眼睛",
       "潘格尼尼"
     ]
   },
   "avg_npc_1782_1": {
+    "en_US": [
+      "Aurela"
+    ],
+    "ja_JP": [
+      "アウレラ"
+    ],
     "zh_CN": [
       "奥罗拉"
     ]
   },
   "avg_npc_1783_1": {
+    "en_US": [
+      "Amos"
+    ],
+    "ja_JP": [
+      "アモス"
+    ],
     "zh_CN": [
       "阿摩斯"
     ]
   },
   "avg_npc_1784_1": {
+    "en_US": [
+      "Hildegard"
+    ],
+    "ja_JP": [
+      "ヒルデガルト"
+    ],
     "zh_CN": [
       "席德佳"
     ]
   },
   "avg_npc_1785_1": {
+    "en_US": [
+      "Guiding Nurturer",
+      "Nurturer",
+      "Nurturer A"
+    ],
+    "ja_JP": [
+      "保育士",
+      "保育士A",
+      "案内役の保育士"
+    ],
     "zh_CN": [
       "保育员",
       "保育员A",
@@ -12798,17 +12956,42 @@
     ]
   },
   "avg_npc_1786_1": {
+    "en_US": [
+      "Nurturer"
+    ],
+    "ja_JP": [
+      "保育士"
+    ],
     "zh_CN": [
       "保育员"
     ]
   },
   "avg_npc_1787_1": {
+    "en_US": [
+      "Nurturer",
+      "Nurturer B"
+    ],
+    "ja_JP": [
+      "保育士",
+      "保育士B"
+    ],
     "zh_CN": [
       "保育员",
       "保育员B"
     ]
   },
   "avg_npc_1788_1": {
+    "en_US": [
+      "Shrine Patrol",
+      "Shrine Patrol A",
+      "Shrine Patrol B"
+    ],
+    "ja_JP": [
+      "聖堂巡衛",
+      "聖堂巡衛A",
+      "聖堂巡衛B",
+      "聖堂巡衛隊"
+    ],
     "zh_CN": [
       "圣堂巡卫",
       "圣堂巡卫A",
@@ -12817,6 +13000,14 @@
     ]
   },
   "avg_npc_1789_1": {
+    "en_US": [
+      "Shrine Patrol",
+      "Shrine Patrol B"
+    ],
+    "ja_JP": [
+      "聖堂巡衛",
+      "聖堂巡衛B"
+    ],
     "zh_CN": [
       "圣堂巡卫",
       "圣堂巡卫B"
@@ -12837,16 +13028,38 @@
     ]
   },
   "avg_npc_1790_1": {
+    "en_US": [
+      "Arborbeast"
+    ],
+    "ja_JP": [
+      "木攀獣"
+    ],
     "zh_CN": [
       "木攀兽"
     ]
   },
   "avg_npc_1791_1": {
+    "en_US": [
+      "Enlightened Creature A"
+    ],
+    "ja_JP": [
+      "祝福を受けた生き物A"
+    ],
     "zh_CN": [
       "蒙恩的生物A"
     ]
   },
   "avg_npc_1792_1": {
+    "en_US": [
+      "Enlightened Creature",
+      "Enlightened Creature A",
+      "Enlightened Creature B"
+    ],
+    "ja_JP": [
+      "祝福を受けた生き物",
+      "祝福を受けた生き物A",
+      "祝福を受けた生き物B"
+    ],
     "zh_CN": [
       "蒙恩的生物",
       "蒙恩的生物A",
@@ -12854,12 +13067,30 @@
     ]
   },
   "avg_npc_1793_1": {
+    "en_US": [
+      "Gap-Toothed Girl",
+      "Idida"
+    ],
+    "ja_JP": [
+      "イディダ",
+      "歯の欠けた少女"
+    ],
     "zh_CN": [
       "伊蒂达",
       "缺牙的小女孩"
     ]
   },
   "avg_npc_1795_1": {
+    "en_US": [
+      "Sankta B",
+      "Sankta Errari",
+      "Walking Sankta B"
+    ],
+    "ja_JP": [
+      "はぐれ者のサンクタ",
+      "サンクタB",
+      "通行人のサンクタB"
+    ],
     "zh_CN": [
       "离群萨科塔",
       "萨科塔B",
@@ -12872,16 +13103,34 @@
     ]
   },
   "avg_npc_1797_1": {
+    "en_US": [
+      "Lemuen"
+    ],
+    "ja_JP": [
+      "レミュアン"
+    ],
     "zh_CN": [
       "蕾缪安"
     ]
   },
   "avg_npc_1798_1": {
+    "en_US": [
+      "Lemuel"
+    ],
+    "ja_JP": [
+      "レミュエル"
+    ],
     "zh_CN": [
       "蕾缪乐"
     ]
   },
   "avg_npc_1799_1": {
+    "en_US": [
+      "Velliv"
+    ],
+    "ja_JP": [
+      "ヴェルリヴ"
+    ],
     "zh_CN": [
       "薇尔丽芙"
     ]
@@ -12901,17 +13150,43 @@
     ]
   },
   "avg_npc_1800_1": {
+    "en_US": [
+      "Andoain"
+    ],
+    "ja_JP": [
+      "アンドアイン"
+    ],
     "zh_CN": [
       "安多恩"
     ]
   },
   "avg_npc_1801_1": {
+    "en_US": [
+      "Obstinate Child",
+      "Panicking Child"
+    ],
+    "ja_JP": [
+      "怯える子供",
+      "頑固な子"
+    ],
     "zh_CN": [
       "倔强的小孩",
       "恐慌的小孩"
     ]
   },
   "avg_npc_1802_1": {
+    "en_US": [
+      "Fearful Child",
+      "Proud Child",
+      "Sankta Child A",
+      "Sankta Child B"
+    ],
+    "ja_JP": [
+      "うぬぼれ屋の子",
+      "サンクタの子供A",
+      "サンクタの子供B",
+      "怖がる子供"
+    ],
     "zh_CN": [
       "惊惧的小孩",
       "萨科塔小孩A",
@@ -12920,38 +13195,84 @@
     ]
   },
   "avg_npc_1803_1": {
+    "en_US": [
+      "Woodrow"
+    ],
+    "ja_JP": [
+      "ウッドロウ"
+    ],
     "zh_CN": [
       "伍德洛"
     ]
   },
   "avg_npc_1804_1": {
+    "en_US": [
+      "'Clip' Cliff"
+    ],
+    "ja_JP": [
+      "「クリップ」クリフ"
+    ],
     "zh_CN": [
       "“桥夹”克里夫"
     ]
   },
   "avg_npc_1805_1": {
+    "en_US": [
+      "Fallen Angel",
+      "Fallen Angel A"
+    ],
+    "ja_JP": [
+      "堕天使",
+      "堕天使A"
+    ],
     "zh_CN": [
       "堕天使",
       "堕天使A"
     ]
   },
   "avg_npc_1806_1": {
+    "en_US": [
+      "Fallen Angel",
+      "Fallen Angel B"
+    ],
+    "ja_JP": [
+      "堕天使",
+      "堕天使B"
+    ],
     "zh_CN": [
       "堕天使",
       "堕天使B"
     ]
   },
   "avg_npc_1807_1": {
+    "en_US": [
+      "Extra"
+    ],
+    "ja_JP": [
+      "オマケ"
+    ],
     "zh_CN": [
       "添头"
     ]
   },
   "avg_npc_1808_1": {
+    "en_US": [
+      "Walking Sankta A"
+    ],
+    "ja_JP": [
+      "通行人のサンクタA"
+    ],
     "zh_CN": [
       "行走的萨科塔A"
     ]
   },
   "avg_npc_1809_1": {
+    "en_US": [
+      "Andoain"
+    ],
+    "ja_JP": [
+      "アンドアイン"
+    ],
     "zh_CN": [
       "安多恩"
     ]
@@ -12971,11 +13292,23 @@
     ]
   },
   "avg_npc_1810_1": {
+    "en_US": [
+      "Lemuel"
+    ],
+    "ja_JP": [
+      "レミュエル"
+    ],
     "zh_CN": [
       "蕾缪乐"
     ]
   },
   "avg_npc_1811_1": {
+    "en_US": [
+      "Lemuen"
+    ],
+    "ja_JP": [
+      "レミュアン"
+    ],
     "zh_CN": [
       "蕾缪安"
     ]
@@ -13186,6 +13519,7 @@
       "Anxious Townsperson",
       "Honest Townsperson",
       "Hungry Townsfolk",
+      "Injured Townsfolk",
       "Male Inhabitant B",
       "Male Monastery Inhabitant",
       "Male Resident",
@@ -13199,6 +13533,7 @@
       "まじめな町民",
       "住民A",
       "修道院の男性住民",
+      "傷ついた町民",
       "焦る町民",
       "男性住民",
       "男性住民B",
@@ -14645,6 +14980,7 @@
     "en_US": [
       "Anxious Child",
       "Billy",
+      "Bolívarian Child",
       "Carefree Boy",
       "Child",
       "Craig",
@@ -14674,6 +15010,7 @@
       "ターラーの子供",
       "テオ",
       "ビリー",
+      "ボリバルの子供",
       "ミレン",
       "ユリアン",
       "ヴィクトリア少年",
@@ -16284,11 +16621,13 @@
   "avg_npc_358_1": {
     "en_US": [
       "Apostolic Knight",
+      "Gun-Knight",
       "Patrizion"
     ],
     "ja_JP": [
       "パトリツィオ",
-      "教皇騎士"
+      "教皇騎士",
+      "銃騎士"
     ],
     "zh_CN": [
       "帕特里奇昂",
@@ -16323,10 +16662,12 @@
   },
   "avg_npc_362_1": {
     "en_US": [
+      "Intruder A",
       "Pathfinder Messenger",
       "Serene Peddler"
     ],
     "ja_JP": [
+      "侵入者A",
       "求道レガトゥス",
       "静かな物売り"
     ],
@@ -16339,13 +16680,15 @@
   "avg_npc_363_1": {
     "en_US": [
       "Merry Peddler",
+      "Midwife",
       "Rosella",
       "Sarkaz Woman"
     ],
     "ja_JP": [
       "ご機嫌な物売り",
       "サルカズ女性",
-      "ロゼラ"
+      "ロゼラ",
+      "助産士"
     ],
     "zh_CN": [
       "助产士",
@@ -16356,12 +16699,14 @@
   },
   "avg_npc_364_1": {
     "en_US": [
+      "Intruder B",
       "Merry Peddler",
       "Rosella"
     ],
     "ja_JP": [
       "ご機嫌な物売り",
-      "ロゼラ"
+      "ロゼラ",
+      "侵入者B"
     ],
     "zh_CN": [
       "愉快的小贩",
@@ -16375,6 +16720,9 @@
       "Handcuffed Lateran",
       "Lateran Citizen?",
       "Lateran Messenger",
+      "Liberi Citizen",
+      "Liberi Passerby",
+      "Milkman",
       "Nervous Youth",
       "Nimble Lateran",
       "Panicked Underling of Patia",
@@ -16382,13 +16730,16 @@
     ],
     "ja_JP": [
       "トランスポーター",
+      "リーベリの通行人",
+      "リーベリ公民",
       "信心深い市民",
       "市民？",
       "拘束されたラテラーノ人",
       "機敏なラテラーノ人",
       "生真面目な看護師",
       "緊張した青年",
-      "緊張するパティアの手下"
+      "緊張するパティアの手下",
+      "配達員"
     ],
     "zh_CN": [
       "拉特兰信使",
@@ -16418,6 +16769,7 @@
       "Not-So-Candid Stall Owner",
       "Sankta Passerby",
       "Sedate Lateran Citizen",
+      "Seventh Tribunal Investigator",
       "Spirited Lateran",
       "Still-Trying-to-be-Candid Stall Owner",
       "Trying-to-Smile-Anyway Stall Owner",
@@ -16439,6 +16791,7 @@
       "爽やかな店主",
       "真面目な医者",
       "穏やかな市民",
+      "第七庁調査員",
       "通りすがりのサンクタ"
     ],
     "zh_CN": [
@@ -16495,11 +16848,14 @@
       "Agitated Citizen",
       "Blabbermouth Hospital Attendant",
       "Intellectual Lateran Citizen",
+      "Notarial Hall Employee",
       "Notarial Hall Executor",
       "Notarial Hall Official",
       "Relaxed Lateran Citizen",
       "Reserved Lateran",
       "Sankta Customer",
+      "Sankta Neighbor",
+      "Staid Woman",
       "Troubled Lateran Citizen"
     ],
     "ja_JP": [
@@ -16507,10 +16863,12 @@
       "おとなしめのラテラーノ人",
       "のんびりした市民",
       "サンクタの客",
+      "サンクタの隣人",
       "公証人役場執行人",
       "公証人役場職員",
       "感動する市民",
       "知的な市民",
+      "落ち着いた女性",
       "親切な市民"
     ],
     "zh_CN": [
@@ -16530,18 +16888,24 @@
   },
   "avg_npc_369_1": {
     "en_US": [
+      "Busy Nun",
       "Cheerful Cleric",
       "Cleric",
       "Cleric?",
       "Friar",
+      "Nun",
       "Pious Cleric",
+      "Sankta A",
       "Silent Cleric",
       "Sister",
       "Warm Prioress"
     ],
     "ja_JP": [
+      "サンクタA",
+      "シスター",
       "信心深い修道士",
       "修道士",
+      "忙しそうなシスター",
       "明るい修道士",
       "沈黙する修道士",
       "温和な修道士",
@@ -16563,12 +16927,20 @@
   },
   "avg_npc_370_1": {
     "en_US": [
+      "Busy Nun",
       "Lateran Cleric",
+      "Liberi Nun",
+      "Nervous Nun",
+      "Panicked Nun",
       "Stoic Sister"
     ],
     "ja_JP": [
       "ラテラーノ修道士",
-      "冷静な修道士"
+      "リーベリのシスター",
+      "冷静な修道士",
+      "忙しそうなシスター",
+      "慌てるシスター",
+      "緊張気味のシスター"
     ],
     "zh_CN": [
       "冷静的修士",
@@ -16583,6 +16955,10 @@
     "en_US": [
       "Lateran Commando",
       "Pontifica Cohors Member",
+      "Pontifica Cohors Member A",
+      "Pontifica Cohors Member B",
+      "Pontifica Cohors Member C",
+      "Pontifica Cohors Member D",
       "Pontifica Cohors Member?",
       "Young Lateran Commando"
     ],
@@ -16590,6 +16966,10 @@
       "ラテラーノ特殊部隊員",
       "護衛隊メンバー",
       "護衛隊メンバー？",
+      "護衛隊隊員A",
+      "護衛隊隊員B",
+      "護衛隊隊員C",
+      "護衛隊隊員D",
       "駆け出し特殊部隊員"
     ],
     "zh_CN": [
@@ -17165,6 +17545,7 @@
       "Hairdresser",
       "Impatient Citizen",
       "Londinium Citizen",
+      "Messenger",
       "Newsagent",
       "Skeptical Citizen",
       "Tired Citizen",
@@ -17173,6 +17554,7 @@
     "ja_JP": [
       "くたびれた住民",
       "ギャリー",
+      "トランスポーター",
       "ロンディニウム市民",
       "冷静な暴徒",
       "怒った暴徒",
@@ -17214,6 +17596,7 @@
       "Catastrophe Messenger?",
       "Earl's Attendant",
       "Exemplar Nurse",
+      "Feline",
       "Fleeing Londinier",
       "Florist",
       "Haggard Woman",
@@ -17233,6 +17616,7 @@
       "やつれた女性",
       "アイビー",
       "タメカ",
+      "フェリーン",
       "ロンディニウム市民",
       "ロンディニウム市民B",
       "ロンディニウム避難民",
@@ -18090,6 +18474,7 @@
       "Attendant",
       "Babel Member",
       "Despondent Infected",
+      "Elafia",
       "Excited Leithanian Tourist",
       "Mannered Infected",
       "Meddlesome Infected",
@@ -18100,6 +18485,7 @@
     ],
     "ja_JP": [
       "おどおどする演奏家",
+      "エラフィア",
       "バベルメンバー",
       "従者",
       "悲しむ感染者",
@@ -18274,9 +18660,11 @@
   "avg_npc_501_1": {
     "en_US": [
       "Andante",
+      "Flustered Operator",
       "Logistics Operator",
       "Medic Operator",
       "Medical Department Operator",
+      "Meticulous Operator",
       "Rhodes Island Operator",
       "Woman in Operator Attire"
     ],
@@ -18284,8 +18672,10 @@
       "アンダンテ",
       "オペレーター姿の女性",
       "ロドスオペレーター",
+      "几帳面なオペレーター",
       "医療オペレーター",
       "医療部オペレーター",
+      "取り乱したオペレーター",
       "支援オペレーター"
     ],
     "zh_CN": [
@@ -18512,7 +18902,8 @@
       "Rhine Reception",
       "Rhine Researcher",
       "Rhine Staff",
-      "Rhine Staff A"
+      "Rhine Staff A",
+      "Rhine Staff B"
     ],
     "ja_JP": [
       "ライン生命受付",
@@ -18520,6 +18911,7 @@
       "ライン生命研究員A",
       "ライン生命職員",
       "ライン生命職員A",
+      "ライン生命職員B",
       "ルーリー",
       "商務課の事務員",
       "生態課研究員",
@@ -18554,6 +18946,7 @@
       "Researcher C",
       "Rhine Lab Tech",
       "Rhine Lab Tech B",
+      "Rhine Staff A",
       "Rhine Staff B",
       "Rhine Staff?",
       "Scientific Investigation Section Member"
@@ -18562,6 +18955,7 @@
       "エネルギー課研究員",
       "ライン生命研究員",
       "ライン生命研究員B",
+      "ライン生命職員A",
       "ライン生命職員B",
       "ライン生命職員？",
       "焦るライン生命実験員",
@@ -19711,6 +20105,7 @@
       "Clerk",
       "Driver",
       "Forlorn Merchant",
+      "Lupo",
       "Mauro, Infected Citizen",
       "Nervous Passerby",
       "Onsite Staff",
@@ -19723,6 +20118,7 @@
     "ja_JP": [
       "がっかりした商人",
       "ケーキ屋の店主",
+      "ループス",
       "事務員",
       "劇場スタッフ",
       "客引きするカメラマン",
@@ -21189,10 +21585,12 @@
       "Kazdelian Outskirter A",
       "Longshot",
       "Parker",
+      "Sarkaz",
       "Sarkaz Artificer",
       "Sarkaz Assassin",
       "Sarkaz Civilian",
-      "Sarkaz Mercenary"
+      "Sarkaz Mercenary",
+      "Sarkaz Worker A"
     ],
     "ja_JP": [
       "「資産家」",
@@ -21200,14 +21598,17 @@
       "イラつく平民",
       "カズデル周辺の住民A",
       "ギター弾きの歌い手",
+      "サルカズ",
       "サルカズの職人",
       "サルカズ傭兵",
+      "サルカズ労働者A",
       "サルカズ平民",
       "サルカズ犯人",
       "パーカー",
       "ロングショット",
       "ロングボウ",
       "冷淡な平民",
+      "奇妙な通行人",
       "怒ったサルカズ",
       "怒るサルカズ住民",
       "怯える青年",
@@ -21253,10 +21654,12 @@
       "Fernand",
       "Hot-Headed Sarkaz",
       "Sarkaz Drifter",
+      "Sarkaz Worker B",
       "Weary Sarkaz"
     ],
     "ja_JP": [
       "サルカズの流れ者",
+      "サルカズ労働者B",
       "フェルナンド",
       "慎重な平民",
       "暗いサルカズ",
@@ -21385,9 +21788,11 @@
   "avg_npc_939_1": {
     "en_US": [
       "Gaunt Monastery Inhabitant",
-      "Jori"
+      "Jori",
+      "Sankta"
     ],
     "ja_JP": [
+      "サンクタ",
       "ヨリー",
       "痩せこけた修道院住民",
       "瘦せこけた修道院住民"

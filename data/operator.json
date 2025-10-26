@@ -160,6 +160,8 @@
     "zh_CN": "烛煌"
   },
   "char_1041_angel2": {
+    "en_US": "Exusiai the New Covenant",
+    "ja_JP": "新約エクシア",
     "zh_CN": "新约能天使"
   },
   "char_1042_phatm2": {
@@ -1602,18 +1604,26 @@
     "zh_CN": "八幡海铃"
   },
   "char_4187_graceb": {
+    "en_US": "Gracebearer",
+    "ja_JP": "グレースベアラー",
     "zh_CN": "聆音"
   },
   "char_4188_confes": {
+    "en_US": "CONFESS-47",
+    "ja_JP": "CONFESS-47",
     "zh_CN": "CONFESS-47"
   },
   "char_4191_tippi": {
     "zh_CN": "蒂比"
   },
   "char_4193_lemuen": {
+    "en_US": "Lemuen",
+    "ja_JP": "レミュアン",
     "zh_CN": "蕾缪安"
   },
   "char_4194_rmixer": {
+    "en_US": "Sankta Miksaparato",
+    "ja_JP": "サンクタ・ミキサー",
     "zh_CN": "信仰搅拌机"
   },
   "char_4195_radian": {
@@ -1623,6 +1633,8 @@
     "zh_CN": "录武官"
   },
   "char_4198_christ": {
+    "en_US": "Miss.Christine",
+    "ja_JP": "ミス・クリスティーン",
     "zh_CN": "Miss.Christine"
   },
   "char_4199_makiri": {

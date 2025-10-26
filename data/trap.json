@@ -1438,15 +1438,23 @@
     "zh_CN": "废弃火灶"
   },
   "trap_213_dqore": {
+    "en_US": "Originium Altar",
+    "ja_JP": "源石祭壇",
     "zh_CN": "源石祭坛"
   },
   "trap_214_dqballis": {
+    "en_US": "Turret",
+    "ja_JP": "バリスタ",
     "zh_CN": "弩炮"
   },
   "trap_215_dqcrsbow": {
+    "en_US": "Post-Firing Debt Relief Program",
+    "ja_JP": "解雇者清算プログラム",
     "zh_CN": "解雇者清债程序"
   },
   "trap_216_dqelec": {
+    "en_US": "Mieszko Coil",
+    "ja_JP": "ミェシュココイル",
     "zh_CN": "梅什科线圈"
   },
   "trap_218_fttree": {
@@ -1525,12 +1533,18 @@
     "zh_CN": "活性态萨卡兹术师结晶"
   },
   "trap_235_hlnpcm": {
+    "en_US": "Saint Statue Cosplayer",
+    "ja_JP": "聖徒像ごっこ",
     "zh_CN": "圣徒像扮演者"
   },
   "trap_236_hlnpcs": {
+    "en_US": "Shrine Marksman Cosplayer",
+    "ja_JP": "聖堂射手ごっこ",
     "zh_CN": "圣堂射手扮演者"
   },
   "trap_237_hlnpcb": {
+    "en_US": "Shrine Nurturer Cosplayer",
+    "ja_JP": "聖堂保育士ごっこ",
     "zh_CN": "圣堂保育员扮演者"
   },
   "trap_238_dydfst": {
@@ -1555,6 +1569,8 @@
     "zh_CN": "“月影之茧”"
   },
   "trap_250_hlctrl": {
+    "en_US": "Sacrament of Genesis",
+    "ja_JP": "根源を辿る儀式",
     "zh_CN": "寻根圣事"
   },
   "trap_251_buftrp": {
@@ -2551,12 +2567,18 @@
     "zh_CN": "尼卢火"
   },
   "trap_780_supspt": {
+    "en_US": "Master Who Walks the Night Gear",
+    "ja_JP": "天工夜行セット",
     "zh_CN": "天工夜行套装"
   },
   "trap_781_supspta": {
+    "en_US": "Nightwalker's Cloak Module",
+    "ja_JP": "夜行笠モジュール",
     "zh_CN": "夜行斗篷模块"
   },
   "trap_782_supsptb": {
+    "en_US": "Nightwalker's Hook Module",
+    "ja_JP": "夜行鉤爪モジュール",
     "zh_CN": "夜行钩爪模块"
   },
   "trap_783_tnkspk": {
