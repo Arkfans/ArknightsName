@@ -269,7 +269,7 @@ tip: 请善用浏览器的搜索功能
 | act1bossrush_relic_03 | 超级闪存 | Super Cache | ハイパーストレージ |
 | act1bossrush_relic_04 | 推斥管控 | Repel Control | 相互作用強化 |
 | act1bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
-| act1break_milestone_point | “小心地滑” | - | 「スリップ注意」 |
+| act1break_milestone_point | “小心地滑” | 'Caution! Wet Floor!' | 「スリップ注意」 |
 | act1collection_point_token | “探索者”兑换点数 | 'Expeditioners' Redemption Point | 「探索者」交換ポイント |
 | act1d0_token_gold_rep_1 | 赏金猎人金币 | Bounty Coin | ラッキーコイン |
 | act1enemyduel_milestone_point | 争锋大礼花 | Grand Duel Fireworks | デュエルクラッカー |
@@ -1249,7 +1249,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_concertHall | 尘影余音家具收藏包 | Lingering Echoes Furniture Pack | 塵影に交わる残響家具パック |
 | uni_set_countryside | 照我以火家具收藏包 | What the Firelight Casts Furniture Pack | この炎が照らす先家具パック |
 | uni_set_court | 叙拉古人家具收藏包 | Il Siracusano Furniture Pack | シラクザーノ家具パック |
-| uni_set_cultureroom | 孤星家具收藏包 | - | 孤星家具パック |
+| uni_set_cultureroom | 孤星家具收藏包 | Lone Trail Furniture Pack | 孤星家具パック |
 | uni_set_fNearl | 玛莉娅·临光家具收藏包 | Maria Nearl Furniture Pack | マリア・ニアール家具パック |
 | uni_set_gardenFantasy_1 | 界园印象家具收藏包一 | - | - |
 | uni_set_gardenFantasy_2 | 界园印象家具收藏包二 | - | - |
@@ -1307,7 +1307,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_full_puzzle | 谜图的私人信件 | Puzzle's Personal Letter | パズルの手紙 |
 | voucher_full_robin | 罗宾的私人信件 | Robin's Personal Letter | ロビンの手紙 |
 | voucher_full_sidero | 铸铁的私人信件 | Sideroca's Personal Letter | シデロカの手紙 |
-| voucher_full_slent2 | 淬羽赫默的私人信件 | - | 淬羽サイレンスの手紙 |
+| voucher_full_slent2 | 淬羽赫默的私人信件 | Silence the Paradigmatic's Personal Letter | 淬羽サイレンスの手紙 |
 | voucher_full_snsant | 雪雉的私人信件 | Snowsant's Personal Letter | スノーズントの手紙 |
 | voucher_full_sophia | 鞭刃的私人信件 | Whislash's Personal Letter | ウィスラッシュの手紙 |
 | voucher_full_takila | 龙舌兰的私人信件 | Tequila's Personal Letter | テキーラの手紙 |

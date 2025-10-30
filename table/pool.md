@@ -259,4 +259,4 @@ tip: 请善用浏览器的搜索功能
 | _SINGLE_35_0_7 | - | LIKE ENDING LIKE DEATH | 死か/終わりか |
 | _SPECIAL_32_0_8 | - | Orienteering Headhunting | セレクトスカウト |
 | _SPECIAL_35_0_3 | - | Orienteering Headhunting | セレクトスカウト |
-| _SPECIAL_36_0_3 | - | - | セレクトスカウト |
+| _SPECIAL_36_0_3 | - | Orienteering Headhunting | セレクトスカウト |

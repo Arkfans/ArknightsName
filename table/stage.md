@@ -388,38 +388,38 @@ tip: 请善用浏览器的搜索功能
 | act1bossrush_02 | 卷土重来 | Comeback | 捲土重来 |
 | act1bossrush_03 | 风沙轰隆隆 | Rolling Sands | 塵旋風とどろく |
 | act1bossrush_04 | 理念之争 | Clash of Ideologies | 理念の戦 |
-| act1break_01 | 横冲直进 | - | まっしぐら |
-| act1break_02 | 交通拦截 | - | 交通検問 |
-| act1break_03 | 潮声轰鸣 | - | 轟く潮声 |
-| act1break_04 | 机械概括谬误 | - | 誤謬：軽率な一般化 |
-| act1break_05 | 止步即死 | - | 足を止めるな |
-| act1break_06 | 二次烧成 | - | 二度焼き |
-| act1break_07 | 果蔬乱炖 | - | 果物と野菜のごった煮 |
-| act1break_08 | 结构化思维 | - | 構造化思考 |
-| act1break_09 | 心碎沙堡 | - | 傷心の砂城 |
-| act1break_10 | 夹道欢迎 | - | 両脇を彩る |
-| act1break_11 | 寒暑不分 | - | 寒暑混同 |
-| act1break_12 | 存在性论证 | - | 存在性論証 |
-| act1break_h01 | 热情逼人 | - | 迫る情熱 |
-| act1break_h02 | 车轮滚滚 | - | 車輪ごろごろ |
-| act1break_h03 | 思绪倒影 | - | 感情倒影 |
-| act1break_h04 | 有限性原理 | - | 有限性原理 |
-| act1break_sp01 | 何必匆忙 | - | のんびり行こう |
-| act1break_sp02 | 无暇分心 | - | 気を逸らすな |
-| act1break_sp03 | 火力掩护 | - | 火力援護 |
-| act1break_sp04 | 啮齿出洞 | - | 飛び出すげっ歯類 |
-| act1break_sp05 | 啮齿狂潮 | - | 押し寄せるげっ歯類 |
-| act1break_sp06 | 择人而噬 | - | 迫る悪食 |
-| act1break_sp07 | 投资回报 | - | 投資収益 |
-| act1break_sp08 | 风险投资 | - | 博打投資 |
-| act1break_sp09 | 风尘仆仆 | - | てんてこまい |
-| act1break_sp10 | 行色匆匆 | - | てんやわんや |
-| act1break_sp11 | 爆炸现场 | - | 爆発現場 |
-| act1break_sp12 | 巫术排练 | - | 巫術リハーサル |
-| act1break_sp13 | 巫术汇演 | - | 巫術コンサート |
-| act1break_sp14 | 绝人之路 | - | 袋小路 |
-| act1break_sp15 | 墙开一面 | - | 障壁を破って |
-| act1break_sp16 | 活路一条 | - | 活路を開いて |
+| act1break_01 | 横冲直进 | Forward Charge | まっしぐら |
+| act1break_02 | 交通拦截 | Traffic Interception | 交通検問 |
+| act1break_03 | 潮声轰鸣 | Roaring Tides | 轟く潮声 |
+| act1break_04 | 机械概括谬误 | Mechanical Errors | 誤謬：軽率な一般化 |
+| act1break_05 | 止步即死 | Deathly Pause | 足を止めるな |
+| act1break_06 | 二次烧成 | Double Firing | 二度焼き |
+| act1break_07 | 果蔬乱炖 | Fruity Ragout | 果物と野菜のごった煮 |
+| act1break_08 | 结构化思维 | Structured Mentality | 構造化思考 |
+| act1break_09 | 心碎沙堡 | Sandcastle Sorrows | 傷心の砂城 |
+| act1break_10 | 夹道欢迎 | Welcome Contingent | 両脇を彩る |
+| act1break_11 | 寒暑不分 | Blurred Seasons | 寒暑混同 |
+| act1break_12 | 存在性论证 | Existential Argumentation | 存在性論証 |
+| act1break_h01 | 热情逼人 | Passionate Threat | 迫る情熱 |
+| act1break_h02 | 车轮滚滚 | Rumbling Wheels | 車輪ごろごろ |
+| act1break_h03 | 思绪倒影 | Inverted Thoughts | 感情倒影 |
+| act1break_h04 | 有限性原理 | Bounded Rationality | 有限性原理 |
+| act1break_sp01 | 何必匆忙 | Why Rush? | のんびり行こう |
+| act1break_sp02 | 无暇分心 | No Time For Distractions | 気を逸らすな |
+| act1break_sp03 | 火力掩护 | Covering Fire | 火力援護 |
+| act1break_sp04 | 啮齿出洞 | Gnawed-Out Holes | 飛び出すげっ歯類 |
+| act1break_sp05 | 啮齿狂潮 | Gnawbeast Tsunami | 押し寄せるげっ歯類 |
+| act1break_sp06 | 择人而噬 | Consumption Choice | 迫る悪食 |
+| act1break_sp07 | 投资回报 | Investment Returns | 投資収益 |
+| act1break_sp08 | 风险投资 | Venture Capital | 博打投資 |
+| act1break_sp09 | 风尘仆仆 | Long Journey | てんてこまい |
+| act1break_sp10 | 行色匆匆 | Hurry Everywhere | てんやわんや |
+| act1break_sp11 | 爆炸现场 | Explosion Scene | 爆発現場 |
+| act1break_sp12 | 巫术排练 | Witchcraft Rehearsal | 巫術リハーサル |
+| act1break_sp13 | 巫术汇演 | Witchcraft Performance | 巫術コンサート |
+| act1break_sp14 | 绝人之路 | No Escape | 袋小路 |
+| act1break_sp15 | 墙开一面 | Wall Opening | 障壁を破って |
+| act1break_sp16 | 活路一条 | One Way Out | 活路を開いて |
 | act1enemyduel_01a | 争锋试炼！ | Duel Trial! | いざ勝負！ |
 | act1enemyduel_01b | 争锋试炼！ | Duel Trial! | いざ勝負！ |
 | act1enemyduel_02a | 争锋对决！ | Duel Showdown! | いざ対決！ |
@@ -1078,7 +1078,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_25 | 66号航道 | Cityway 66 | 66号航路 |
 | camp_r_26 | 壬午号水稻田 | Paddy Field 9-7 | 壬午号水田 |
 | camp_r_27 | 选帝侯广场 | Kurfürstenplatz | 選帝侯広場 |
-| camp_r_28 | 大巴扎 | - | グランドバザール |
+| camp_r_28 | 大巴扎 | Grand Bazaar | グランドバザール |
 | camp_r_29 | 鳞骸盐漠  | - | - |
 | camp_r_30 | 暗流巢窟  | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |

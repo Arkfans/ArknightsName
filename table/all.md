@@ -1131,7 +1131,7 @@ tip: 请善用浏览器的搜索功能
 | char_158_milu@snow#2 | 覆雪 | Snowywatch | 白い狩人 |
 | char_158_milu@wild#2 | 枯柏 | Wilted Cypress | 枯れ柏 |
 | char_159_peacok@game#1 | 超级断罪朋友 | Your Superconvicting Friend | スーパー断罪フレンズ |
-| char_163_hpsts@boc#10 | 火种 | - | 火種 |
+| char_163_hpsts@boc#10 | 火种 | Ignis | 火種 |
 | char_164_nightm@epoque#5 | 光影 | Light and Shadow | 光と影 |
 | char_164_nightm@unveiling#2 | 湖畔的少女 | The Ferry Girl | 湖畔の少女 |
 | char_166_skfire@summer#1 | 温差 RT.RX01 | Temperature Difference RT.RX01 | 温度差RT.RX01 |
@@ -1398,7 +1398,7 @@ tip: 请善用浏览器的搜索功能
 | char_4123_ela@rainbow6#2 | 密室 | Safehouse | セーフハウス |
 | char_4124_iana@rainbow6#2 | 镜廊 | Mirrormaze | ミラーメイズ |
 | char_4125_rdoc@rainbow6#2 | 展览 | Exhibition | エキシビション |
-| char_4130_luton@yun#6 | 寄遥思 | - | 寄遥思 |
+| char_4130_luton@yun#6 | 寄遥思 | Whispered Longing | 寄遥思 |
 | char_4131_odda@whirlwind#8 | 糖果暴击 | Candy Strike | キャンディーストライク |
 | char_4132_ascln@iteration#4 | 趋光之暗 | - | - |
 | char_4133_logos@ambienceSynesthesia#6 | 辉煌的静谧 | Radiant Serenity | 輝耀なる静謐 |
@@ -2950,16 +2950,16 @@ tip: 请善用浏览器的搜索功能
 | enemy_8007_eltrsm_3 | “迷迭香”，虚实之握 | Rosmontis, Simulated Sentry | 「Rosmontis」・虚実の手 |
 | enemy_8008_eltswd | 矢量战术装备 | V.T.E. | ベクトル戦術装備 |
 | enemy_8009_eltufo | “迷迭香”的无人机 | Rosmontis's Drone | 「Rosmontis」のドローン |
-| enemy_8010_mcnist | “Mechanist”，机械之心 | - | 「Mechanist」・機械の心 |
-| enemy_8010_mcnist_2 | “Mechanist”，机械之心 | - | 「Mechanist」・機械の心 |
-| enemy_8010_mcnist_3 | “Mechanist”，机械之心 | - | 「Mechanist」・機械の心 |
-| enemy_8011_mcndog | 结构性原理 | - | 構造性原理 |
-| enemy_8011_mcndog_2 | 结构性原理 | - | 構造性原理 |
-| enemy_8011_mcndog_3 | 结构性原理 | - | 構造性原理 |
-| enemy_8012_mcnd | 文档 | - | ドキュメント |
-| enemy_8013_mcnrsh | 叶毯 | - | リーフカーペット |
-| enemy_8014_mcnelp | 秒表 | - | ストップウォッチ |
-| enemy_8015_mcnrhd | 巨声 | - | アップロアー |
+| enemy_8010_mcnist | “Mechanist”，机械之心 | Mechanist, Mechanical Mind | 「Mechanist」・機械の心 |
+| enemy_8010_mcnist_2 | “Mechanist”，机械之心 | Mechanist, Mechanical Mind | 「Mechanist」・機械の心 |
+| enemy_8010_mcnist_3 | “Mechanist”，机械之心 | Mechanist, Mechanical Mind | 「Mechanist」・機械の心 |
+| enemy_8011_mcndog | 结构性原理 | Structural Principle | 構造性原理 |
+| enemy_8011_mcndog_2 | 结构性原理 | Structural Principle | 構造性原理 |
+| enemy_8011_mcndog_3 | 结构性原理 | Structural Principle | 構造性原理 |
+| enemy_8012_mcnd | 文档 | Document | ドキュメント |
+| enemy_8013_mcnrsh | 叶毯 | Leafcarpet | リーフカーペット |
+| enemy_8014_mcnelp | 秒表 | Stopwatch | ストップウォッチ |
+| enemy_8015_mcnrhd | 巨声 | Uproar | アップロアー |
 | enemy_9001_ayokai | 惊喜赞助无人机 | Surprise Sponsor Drone | サプライズ協賛ドローン |
 | enemy_9002_adsham | 萨卡兹渴血术师 | Sarkaz Bloodthirst Caster | サルカズ渇血術師 |
 | enemy_9003_askate | 寻路者供弹手 | Pathfinder Armicustos | 求道供弾者 |
@@ -3048,7 +3048,7 @@ tip: 请善用浏览器的搜索功能
 | act1arcade | 视相博物馆 | Poly Vision Museum | 視像博物館 |
 | act1blessing | 2024罗德岛新春签到 | 2024 Festival Sign-In | 4.5周年スタンプラリー |
 | act1bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
-| act1break | 矢量突破：无机物 | - | 鋒矢突破：無機物 |
+| act1break | 矢量突破：无机物 | Vector Breakthrough - Inorganic Matters | 鋒矢突破：無機物 |
 | act1checkin | 未来序曲签到活动 | Preludes to the Future Sign-in Event | 大感謝祭スタンプ |
 | act1collection | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
 | act1d5 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -3160,7 +3160,7 @@ tip: 请善用浏览器的搜索功能
 | act3mainss | 反常光谱 | - | - |
 | act3mine | 葫芦谷矿区登录活动 | Gourd Valley Mining Area Login Event | ゴードバレー採鉱区 |
 | act3pray | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |
-| act3signvs | 端阳正午签到活动 | - | スタンプラリー |
+| act3signvs | 端阳正午签到活动 | May the Sunshine Still Sign-In Event | スタンプラリー |
 | act3switch | 虹彩茶会合作活动 | Sweetness
 Overload
 Collaboration
@@ -3545,7 +3545,7 @@ Event | なないろのお茶会 |
 | act1bossrush_relic_03 | 超级闪存 | Super Cache | ハイパーストレージ |
 | act1bossrush_relic_04 | 推斥管控 | Repel Control | 相互作用強化 |
 | act1bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
-| act1break_milestone_point | “小心地滑” | - | 「スリップ注意」 |
+| act1break_milestone_point | “小心地滑” | 'Caution! Wet Floor!' | 「スリップ注意」 |
 | act1collection_point_token | “探索者”兑换点数 | 'Expeditioners' Redemption Point | 「探索者」交換ポイント |
 | act1d0_token_gold_rep_1 | 赏金猎人金币 | Bounty Coin | ラッキーコイン |
 | act1enemyduel_milestone_point | 争锋大礼花 | Grand Duel Fireworks | デュエルクラッカー |
@@ -4525,7 +4525,7 @@ Event | なないろのお茶会 |
 | uni_set_concertHall | 尘影余音家具收藏包 | Lingering Echoes Furniture Pack | 塵影に交わる残響家具パック |
 | uni_set_countryside | 照我以火家具收藏包 | What the Firelight Casts Furniture Pack | この炎が照らす先家具パック |
 | uni_set_court | 叙拉古人家具收藏包 | Il Siracusano Furniture Pack | シラクザーノ家具パック |
-| uni_set_cultureroom | 孤星家具收藏包 | - | 孤星家具パック |
+| uni_set_cultureroom | 孤星家具收藏包 | Lone Trail Furniture Pack | 孤星家具パック |
 | uni_set_fNearl | 玛莉娅·临光家具收藏包 | Maria Nearl Furniture Pack | マリア・ニアール家具パック |
 | uni_set_gardenFantasy_1 | 界园印象家具收藏包一 | - | - |
 | uni_set_gardenFantasy_2 | 界园印象家具收藏包二 | - | - |
@@ -4583,7 +4583,7 @@ Event | なないろのお茶会 |
 | voucher_full_puzzle | 谜图的私人信件 | Puzzle's Personal Letter | パズルの手紙 |
 | voucher_full_robin | 罗宾的私人信件 | Robin's Personal Letter | ロビンの手紙 |
 | voucher_full_sidero | 铸铁的私人信件 | Sideroca's Personal Letter | シデロカの手紙 |
-| voucher_full_slent2 | 淬羽赫默的私人信件 | - | 淬羽サイレンスの手紙 |
+| voucher_full_slent2 | 淬羽赫默的私人信件 | Silence the Paradigmatic's Personal Letter | 淬羽サイレンスの手紙 |
 | voucher_full_snsant | 雪雉的私人信件 | Snowsant's Personal Letter | スノーズントの手紙 |
 | voucher_full_sophia | 鞭刃的私人信件 | Whislash's Personal Letter | ウィスラッシュの手紙 |
 | voucher_full_takila | 龙舌兰的私人信件 | Tequila's Personal Letter | テキーラの手紙 |
@@ -4908,7 +4908,7 @@ Event | なないろのお茶会 |
 | _SINGLE_35_0_7 | - | LIKE ENDING LIKE DEATH | 死か/終わりか |
 | _SPECIAL_32_0_8 | - | Orienteering Headhunting | セレクトスカウト |
 | _SPECIAL_35_0_3 | - | Orienteering Headhunting | セレクトスカウト |
-| _SPECIAL_36_0_3 | - | - | セレクトスカウト |
+| _SPECIAL_36_0_3 | - | Orienteering Headhunting | セレクトスカウト |
 | skchr_absin_1 | 执法模式 | Enforcement Mode | 執行態勢 |
 | skchr_absin_2 | 终结连射 | Ultimatum | 告死の弾雨 |
 | skchr_acast_1 | “为我所为” | 'All That I Do' | 「我が成すことを成せ」 |
@@ -6737,38 +6737,38 @@ Event | なないろのお茶会 |
 | act1bossrush_02 | 卷土重来 | Comeback | 捲土重来 |
 | act1bossrush_03 | 风沙轰隆隆 | Rolling Sands | 塵旋風とどろく |
 | act1bossrush_04 | 理念之争 | Clash of Ideologies | 理念の戦 |
-| act1break_01 | 横冲直进 | - | まっしぐら |
-| act1break_02 | 交通拦截 | - | 交通検問 |
-| act1break_03 | 潮声轰鸣 | - | 轟く潮声 |
-| act1break_04 | 机械概括谬误 | - | 誤謬：軽率な一般化 |
-| act1break_05 | 止步即死 | - | 足を止めるな |
-| act1break_06 | 二次烧成 | - | 二度焼き |
-| act1break_07 | 果蔬乱炖 | - | 果物と野菜のごった煮 |
-| act1break_08 | 结构化思维 | - | 構造化思考 |
-| act1break_09 | 心碎沙堡 | - | 傷心の砂城 |
-| act1break_10 | 夹道欢迎 | - | 両脇を彩る |
-| act1break_11 | 寒暑不分 | - | 寒暑混同 |
-| act1break_12 | 存在性论证 | - | 存在性論証 |
-| act1break_h01 | 热情逼人 | - | 迫る情熱 |
-| act1break_h02 | 车轮滚滚 | - | 車輪ごろごろ |
-| act1break_h03 | 思绪倒影 | - | 感情倒影 |
-| act1break_h04 | 有限性原理 | - | 有限性原理 |
-| act1break_sp01 | 何必匆忙 | - | のんびり行こう |
-| act1break_sp02 | 无暇分心 | - | 気を逸らすな |
-| act1break_sp03 | 火力掩护 | - | 火力援護 |
-| act1break_sp04 | 啮齿出洞 | - | 飛び出すげっ歯類 |
-| act1break_sp05 | 啮齿狂潮 | - | 押し寄せるげっ歯類 |
-| act1break_sp06 | 择人而噬 | - | 迫る悪食 |
-| act1break_sp07 | 投资回报 | - | 投資収益 |
-| act1break_sp08 | 风险投资 | - | 博打投資 |
-| act1break_sp09 | 风尘仆仆 | - | てんてこまい |
-| act1break_sp10 | 行色匆匆 | - | てんやわんや |
-| act1break_sp11 | 爆炸现场 | - | 爆発現場 |
-| act1break_sp12 | 巫术排练 | - | 巫術リハーサル |
-| act1break_sp13 | 巫术汇演 | - | 巫術コンサート |
-| act1break_sp14 | 绝人之路 | - | 袋小路 |
-| act1break_sp15 | 墙开一面 | - | 障壁を破って |
-| act1break_sp16 | 活路一条 | - | 活路を開いて |
+| act1break_01 | 横冲直进 | Forward Charge | まっしぐら |
+| act1break_02 | 交通拦截 | Traffic Interception | 交通検問 |
+| act1break_03 | 潮声轰鸣 | Roaring Tides | 轟く潮声 |
+| act1break_04 | 机械概括谬误 | Mechanical Errors | 誤謬：軽率な一般化 |
+| act1break_05 | 止步即死 | Deathly Pause | 足を止めるな |
+| act1break_06 | 二次烧成 | Double Firing | 二度焼き |
+| act1break_07 | 果蔬乱炖 | Fruity Ragout | 果物と野菜のごった煮 |
+| act1break_08 | 结构化思维 | Structured Mentality | 構造化思考 |
+| act1break_09 | 心碎沙堡 | Sandcastle Sorrows | 傷心の砂城 |
+| act1break_10 | 夹道欢迎 | Welcome Contingent | 両脇を彩る |
+| act1break_11 | 寒暑不分 | Blurred Seasons | 寒暑混同 |
+| act1break_12 | 存在性论证 | Existential Argumentation | 存在性論証 |
+| act1break_h01 | 热情逼人 | Passionate Threat | 迫る情熱 |
+| act1break_h02 | 车轮滚滚 | Rumbling Wheels | 車輪ごろごろ |
+| act1break_h03 | 思绪倒影 | Inverted Thoughts | 感情倒影 |
+| act1break_h04 | 有限性原理 | Bounded Rationality | 有限性原理 |
+| act1break_sp01 | 何必匆忙 | Why Rush? | のんびり行こう |
+| act1break_sp02 | 无暇分心 | No Time For Distractions | 気を逸らすな |
+| act1break_sp03 | 火力掩护 | Covering Fire | 火力援護 |
+| act1break_sp04 | 啮齿出洞 | Gnawed-Out Holes | 飛び出すげっ歯類 |
+| act1break_sp05 | 啮齿狂潮 | Gnawbeast Tsunami | 押し寄せるげっ歯類 |
+| act1break_sp06 | 择人而噬 | Consumption Choice | 迫る悪食 |
+| act1break_sp07 | 投资回报 | Investment Returns | 投資収益 |
+| act1break_sp08 | 风险投资 | Venture Capital | 博打投資 |
+| act1break_sp09 | 风尘仆仆 | Long Journey | てんてこまい |
+| act1break_sp10 | 行色匆匆 | Hurry Everywhere | てんやわんや |
+| act1break_sp11 | 爆炸现场 | Explosion Scene | 爆発現場 |
+| act1break_sp12 | 巫术排练 | Witchcraft Rehearsal | 巫術リハーサル |
+| act1break_sp13 | 巫术汇演 | Witchcraft Performance | 巫術コンサート |
+| act1break_sp14 | 绝人之路 | No Escape | 袋小路 |
+| act1break_sp15 | 墙开一面 | Wall Opening | 障壁を破って |
+| act1break_sp16 | 活路一条 | One Way Out | 活路を開いて |
 | act1enemyduel_01a | 争锋试炼！ | Duel Trial! | いざ勝負！ |
 | act1enemyduel_01b | 争锋试炼！ | Duel Trial! | いざ勝負！ |
 | act1enemyduel_02a | 争锋对决！ | Duel Showdown! | いざ対決！ |
@@ -7427,7 +7427,7 @@ Event | なないろのお茶会 |
 | camp_r_25 | 66号航道 | Cityway 66 | 66号航路 |
 | camp_r_26 | 壬午号水稻田 | Paddy Field 9-7 | 壬午号水田 |
 | camp_r_27 | 选帝侯广场 | Kurfürstenplatz | 選帝侯広場 |
-| camp_r_28 | 大巴扎 | - | グランドバザール |
+| camp_r_28 | 大巴扎 | Grand Bazaar | グランドバザール |
 | camp_r_29 | 鳞骸盐漠  | - | - |
 | camp_r_30 | 暗流巢窟  | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |
@@ -8139,9 +8139,9 @@ Event | なないろのお茶会 |
 | act19sre_zone1 | 实验基地 | Research Base | 実験基地 |
 | act19sre_zone2 | 莱茵总部 | Rhine Headquarters | ライン生命本社 |
 | act1bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
-| act1break_zone1 | 核心突破 | - | 中枢突破 |
-| act1break_zone2 | 全力以赴 | - | 総力戦 |
-| act1break_zone3 | 特别战线 | - | 特別戦線 |
+| act1break_zone1 | 核心突破 | Kernel Breakthrough | 中枢突破 |
+| act1break_zone2 | 全力以赴 | All-Out Effort | 総力戦 |
+| act1break_zone3 | 特别战线 | Special Front | 特別戦線 |
 | act1lock_zone1 | 始发营地 | Base Camp | 始発拠点 |
 | act1r6sre_zone1 | 行动记录 | Task Record | 作戦記録 |
 | act1r6sre_zone2 | 备战训练 | Para Bellum | 戦闘訓練 |
