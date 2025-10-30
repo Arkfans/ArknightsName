@@ -1895,99 +1895,131 @@
     "zh_CN": "理念之争"
   },
   "act1break_01": {
+    "ja_JP": "まっしぐら",
     "zh_CN": "横冲直进"
   },
   "act1break_02": {
+    "ja_JP": "交通検問",
     "zh_CN": "交通拦截"
   },
   "act1break_03": {
+    "ja_JP": "轟く潮声",
     "zh_CN": "潮声轰鸣"
   },
   "act1break_04": {
+    "ja_JP": "誤謬：軽率な一般化",
     "zh_CN": "机械概括谬误"
   },
   "act1break_05": {
+    "ja_JP": "足を止めるな",
     "zh_CN": "止步即死"
   },
   "act1break_06": {
+    "ja_JP": "二度焼き",
     "zh_CN": "二次烧成"
   },
   "act1break_07": {
+    "ja_JP": "果物と野菜のごった煮",
     "zh_CN": "果蔬乱炖"
   },
   "act1break_08": {
+    "ja_JP": "構造化思考",
     "zh_CN": "结构化思维"
   },
   "act1break_09": {
+    "ja_JP": "傷心の砂城",
     "zh_CN": "心碎沙堡"
   },
   "act1break_10": {
+    "ja_JP": "両脇を彩る",
     "zh_CN": "夹道欢迎"
   },
   "act1break_11": {
+    "ja_JP": "寒暑混同",
     "zh_CN": "寒暑不分"
   },
   "act1break_12": {
+    "ja_JP": "存在性論証",
     "zh_CN": "存在性论证"
   },
   "act1break_h01": {
+    "ja_JP": "迫る情熱",
     "zh_CN": "热情逼人"
   },
   "act1break_h02": {
+    "ja_JP": "車輪ごろごろ",
     "zh_CN": "车轮滚滚"
   },
   "act1break_h03": {
+    "ja_JP": "感情倒影",
     "zh_CN": "思绪倒影"
   },
   "act1break_h04": {
+    "ja_JP": "有限性原理",
     "zh_CN": "有限性原理"
   },
   "act1break_sp01": {
+    "ja_JP": "のんびり行こう",
     "zh_CN": "何必匆忙"
   },
   "act1break_sp02": {
+    "ja_JP": "気を逸らすな",
     "zh_CN": "无暇分心"
   },
   "act1break_sp03": {
+    "ja_JP": "火力援護",
     "zh_CN": "火力掩护"
   },
   "act1break_sp04": {
+    "ja_JP": "飛び出すげっ歯類",
     "zh_CN": "啮齿出洞"
   },
   "act1break_sp05": {
+    "ja_JP": "押し寄せるげっ歯類",
     "zh_CN": "啮齿狂潮"
   },
   "act1break_sp06": {
+    "ja_JP": "迫る悪食",
     "zh_CN": "择人而噬"
   },
   "act1break_sp07": {
+    "ja_JP": "投資収益",
     "zh_CN": "投资回报"
   },
   "act1break_sp08": {
+    "ja_JP": "博打投資",
     "zh_CN": "风险投资"
   },
   "act1break_sp09": {
+    "ja_JP": "てんてこまい",
     "zh_CN": "风尘仆仆"
   },
   "act1break_sp10": {
+    "ja_JP": "てんやわんや",
     "zh_CN": "行色匆匆"
   },
   "act1break_sp11": {
+    "ja_JP": "爆発現場",
     "zh_CN": "爆炸现场"
   },
   "act1break_sp12": {
+    "ja_JP": "巫術リハーサル",
     "zh_CN": "巫术排练"
   },
   "act1break_sp13": {
+    "ja_JP": "巫術コンサート",
     "zh_CN": "巫术汇演"
   },
   "act1break_sp14": {
+    "ja_JP": "袋小路",
     "zh_CN": "绝人之路"
   },
   "act1break_sp15": {
+    "ja_JP": "障壁を破って",
     "zh_CN": "墙开一面"
   },
   "act1break_sp16": {
+    "ja_JP": "活路を開いて",
     "zh_CN": "活路一条"
   },
   "act1enemyduel_01a": {
@@ -5095,6 +5127,7 @@
     "zh_CN": "选帝侯广场"
   },
   "camp_r_28": {
+    "ja_JP": "グランドバザール",
     "zh_CN": "大巴扎"
   },
   "camp_r_29": {

@@ -8766,6 +8766,7 @@
   "char_163_hpsts@boc#10": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "火種",
       "zh_CN": "火种"
     }
   },
@@ -10876,6 +10877,7 @@
   "char_4130_luton@yun#6": {
     "type": "SKIN",
     "names": {
+      "ja_JP": "寄遥思",
       "zh_CN": "寄遥思"
     }
   },
@@ -23004,60 +23006,70 @@
   "enemy_8010_mcnist": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「Mechanist」・機械の心",
       "zh_CN": "“Mechanist”，机械之心"
     }
   },
   "enemy_8010_mcnist_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「Mechanist」・機械の心",
       "zh_CN": "“Mechanist”，机械之心"
     }
   },
   "enemy_8010_mcnist_3": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "「Mechanist」・機械の心",
       "zh_CN": "“Mechanist”，机械之心"
     }
   },
   "enemy_8011_mcndog": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "構造性原理",
       "zh_CN": "结构性原理"
     }
   },
   "enemy_8011_mcndog_2": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "構造性原理",
       "zh_CN": "结构性原理"
     }
   },
   "enemy_8011_mcndog_3": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "構造性原理",
       "zh_CN": "结构性原理"
     }
   },
   "enemy_8012_mcnd": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "ドキュメント",
       "zh_CN": "文档"
     }
   },
   "enemy_8013_mcnrsh": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "リーフカーペット",
       "zh_CN": "叶毯"
     }
   },
   "enemy_8014_mcnelp": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "ストップウォッチ",
       "zh_CN": "秒表"
     }
   },
   "enemy_8015_mcnrhd": {
     "type": "ENEMY",
     "names": {
+      "ja_JP": "アップロアー",
       "zh_CN": "巨声"
     }
   },
@@ -23744,6 +23756,7 @@
   "act1break": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "鋒矢突破：無機物",
       "zh_CN": "矢量突破：无机物"
     }
   },
@@ -24594,6 +24607,7 @@
   "act3signvs": {
     "type": "ACTIVITY",
     "names": {
+      "ja_JP": "スタンプラリー",
       "zh_CN": "端阳正午签到活动"
     }
   },
@@ -27569,6 +27583,7 @@
   "act1break_milestone_point": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "「スリップ注意」",
       "zh_CN": "“小心地滑”"
     }
   },
@@ -35184,6 +35199,7 @@
   "uni_set_cultureroom": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "孤星家具パック",
       "zh_CN": "孤星家具收藏包"
     }
   },
@@ -35634,6 +35650,7 @@
   "voucher_full_slent2": {
     "type": "ITEM",
     "names": {
+      "ja_JP": "淬羽サイレンスの手紙",
       "zh_CN": "淬羽赫默的私人信件"
     }
   },
@@ -37846,6 +37863,12 @@
     "type": "POOL",
     "names": {
       "en_US": "Orienteering Headhunting",
+      "ja_JP": "セレクトスカウト"
+    }
+  },
+  "_SPECIAL_36_0_3": {
+    "type": "POOL",
+    "names": {
       "ja_JP": "セレクトスカウト"
     }
   },
@@ -52256,192 +52279,224 @@
   "act1break_01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "まっしぐら",
       "zh_CN": "横冲直进"
     }
   },
   "act1break_02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "交通検問",
       "zh_CN": "交通拦截"
     }
   },
   "act1break_03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "轟く潮声",
       "zh_CN": "潮声轰鸣"
     }
   },
   "act1break_04": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "誤謬：軽率な一般化",
       "zh_CN": "机械概括谬误"
     }
   },
   "act1break_05": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "足を止めるな",
       "zh_CN": "止步即死"
     }
   },
   "act1break_06": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "二度焼き",
       "zh_CN": "二次烧成"
     }
   },
   "act1break_07": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "果物と野菜のごった煮",
       "zh_CN": "果蔬乱炖"
     }
   },
   "act1break_08": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "構造化思考",
       "zh_CN": "结构化思维"
     }
   },
   "act1break_09": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "傷心の砂城",
       "zh_CN": "心碎沙堡"
     }
   },
   "act1break_10": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "両脇を彩る",
       "zh_CN": "夹道欢迎"
     }
   },
   "act1break_11": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "寒暑混同",
       "zh_CN": "寒暑不分"
     }
   },
   "act1break_12": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "存在性論証",
       "zh_CN": "存在性论证"
     }
   },
   "act1break_h01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "迫る情熱",
       "zh_CN": "热情逼人"
     }
   },
   "act1break_h02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "車輪ごろごろ",
       "zh_CN": "车轮滚滚"
     }
   },
   "act1break_h03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "感情倒影",
       "zh_CN": "思绪倒影"
     }
   },
   "act1break_h04": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "有限性原理",
       "zh_CN": "有限性原理"
     }
   },
   "act1break_sp01": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "のんびり行こう",
       "zh_CN": "何必匆忙"
     }
   },
   "act1break_sp02": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "気を逸らすな",
       "zh_CN": "无暇分心"
     }
   },
   "act1break_sp03": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "火力援護",
       "zh_CN": "火力掩护"
     }
   },
   "act1break_sp04": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "飛び出すげっ歯類",
       "zh_CN": "啮齿出洞"
     }
   },
   "act1break_sp05": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "押し寄せるげっ歯類",
       "zh_CN": "啮齿狂潮"
     }
   },
   "act1break_sp06": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "迫る悪食",
       "zh_CN": "择人而噬"
     }
   },
   "act1break_sp07": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "投資収益",
       "zh_CN": "投资回报"
     }
   },
   "act1break_sp08": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "博打投資",
       "zh_CN": "风险投资"
     }
   },
   "act1break_sp09": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "てんてこまい",
       "zh_CN": "风尘仆仆"
     }
   },
   "act1break_sp10": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "てんやわんや",
       "zh_CN": "行色匆匆"
     }
   },
   "act1break_sp11": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "爆発現場",
       "zh_CN": "爆炸现场"
     }
   },
   "act1break_sp12": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "巫術リハーサル",
       "zh_CN": "巫术排练"
     }
   },
   "act1break_sp13": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "巫術コンサート",
       "zh_CN": "巫术汇演"
     }
   },
   "act1break_sp14": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "袋小路",
       "zh_CN": "绝人之路"
     }
   },
   "act1break_sp15": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "障壁を破って",
       "zh_CN": "墙开一面"
     }
   },
   "act1break_sp16": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "活路を開いて",
       "zh_CN": "活路一条"
     }
   },
@@ -57526,6 +57581,7 @@
   "camp_r_28": {
     "type": "STAGE",
     "names": {
+      "ja_JP": "グランドバザール",
       "zh_CN": "大巴扎"
     }
   },
@@ -63116,18 +63172,21 @@
   "act1break_zone1": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "中枢突破",
       "zh_CN": "核心突破"
     }
   },
   "act1break_zone2": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "総力戦",
       "zh_CN": "全力以赴"
     }
   },
   "act1break_zone3": {
     "type": "ZONE",
     "names": {
+      "ja_JP": "特別戦線",
       "zh_CN": "特别战线"
     }
   },

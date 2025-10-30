@@ -104,7 +104,7 @@ tip: 请善用浏览器的搜索功能
 | char_158_milu@snow#2 | 覆雪 | Snowywatch | 白い狩人 |
 | char_158_milu@wild#2 | 枯柏 | Wilted Cypress | 枯れ柏 |
 | char_159_peacok@game#1 | 超级断罪朋友 | Your Superconvicting Friend | スーパー断罪フレンズ |
-| char_163_hpsts@boc#10 | 火种 | - | - |
+| char_163_hpsts@boc#10 | 火种 | - | 火種 |
 | char_164_nightm@epoque#5 | 光影 | Light and Shadow | 光と影 |
 | char_164_nightm@unveiling#2 | 湖畔的少女 | The Ferry Girl | 湖畔の少女 |
 | char_166_skfire@summer#1 | 温差 RT.RX01 | Temperature Difference RT.RX01 | 温度差RT.RX01 |
@@ -371,7 +371,7 @@ tip: 请善用浏览器的搜索功能
 | char_4123_ela@rainbow6#2 | 密室 | Safehouse | セーフハウス |
 | char_4124_iana@rainbow6#2 | 镜廊 | Mirrormaze | ミラーメイズ |
 | char_4125_rdoc@rainbow6#2 | 展览 | Exhibition | エキシビション |
-| char_4130_luton@yun#6 | 寄遥思 | - | - |
+| char_4130_luton@yun#6 | 寄遥思 | - | 寄遥思 |
 | char_4131_odda@whirlwind#8 | 糖果暴击 | Candy Strike | キャンディーストライク |
 | char_4132_ascln@iteration#4 | 趋光之暗 | - | - |
 | char_4133_logos@ambienceSynesthesia#6 | 辉煌的静谧 | Radiant Serenity | 輝耀なる静謐 |

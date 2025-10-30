@@ -1457,16 +1457,16 @@ tip: 请善用浏览器的搜索功能
 | enemy_8007_eltrsm_3 | “迷迭香”，虚实之握 | Rosmontis, Simulated Sentry | 「Rosmontis」・虚実の手 |
 | enemy_8008_eltswd | 矢量战术装备 | V.T.E. | ベクトル戦術装備 |
 | enemy_8009_eltufo | “迷迭香”的无人机 | Rosmontis's Drone | 「Rosmontis」のドローン |
-| enemy_8010_mcnist | “Mechanist”，机械之心 | - | - |
-| enemy_8010_mcnist_2 | “Mechanist”，机械之心 | - | - |
-| enemy_8010_mcnist_3 | “Mechanist”，机械之心 | - | - |
-| enemy_8011_mcndog | 结构性原理 | - | - |
-| enemy_8011_mcndog_2 | 结构性原理 | - | - |
-| enemy_8011_mcndog_3 | 结构性原理 | - | - |
-| enemy_8012_mcnd | 文档 | - | - |
-| enemy_8013_mcnrsh | 叶毯 | - | - |
-| enemy_8014_mcnelp | 秒表 | - | - |
-| enemy_8015_mcnrhd | 巨声 | - | - |
+| enemy_8010_mcnist | “Mechanist”，机械之心 | - | 「Mechanist」・機械の心 |
+| enemy_8010_mcnist_2 | “Mechanist”，机械之心 | - | 「Mechanist」・機械の心 |
+| enemy_8010_mcnist_3 | “Mechanist”，机械之心 | - | 「Mechanist」・機械の心 |
+| enemy_8011_mcndog | 结构性原理 | - | 構造性原理 |
+| enemy_8011_mcndog_2 | 结构性原理 | - | 構造性原理 |
+| enemy_8011_mcndog_3 | 结构性原理 | - | 構造性原理 |
+| enemy_8012_mcnd | 文档 | - | ドキュメント |
+| enemy_8013_mcnrsh | 叶毯 | - | リーフカーペット |
+| enemy_8014_mcnelp | 秒表 | - | ストップウォッチ |
+| enemy_8015_mcnrhd | 巨声 | - | アップロアー |
 | enemy_9001_ayokai | 惊喜赞助无人机 | Surprise Sponsor Drone | サプライズ協賛ドローン |
 | enemy_9002_adsham | 萨卡兹渴血术师 | Sarkaz Bloodthirst Caster | サルカズ渇血術師 |
 | enemy_9003_askate | 寻路者供弹手 | Pathfinder Armicustos | 求道供弾者 |
