@@ -214,6 +214,9 @@ tip: 请善用浏览器的搜索功能
 | act44side_zone3 | 绝缘石阶 | - | - |
 | act45side_zone1 | 万般皆梦 | - | - |
 | act45side_zone2 | 拥抱命运 | - | - |
+| act46side_zone1 | 圣巡之旅 | - | - |
+| act46side_zone2 | 变革之路 | - | - |
+| act46side_zone3 | 喀兰之心 | - | - |
 | act4bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act5bossrush_zone1 | 强敌当前 | - | - |
 | act5d0_zone1 | 下城区 | Downtown | 繁華街 |

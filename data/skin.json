@@ -83,6 +83,9 @@
     "ja_JP": "遠き旅へのピクニック",
     "zh_CN": "远行前的野餐"
   },
+  "char_1019_siege2@epoque#50": {
+    "zh_CN": "光耀之途"
+  },
   "char_101_sora@epoque#17": {
     "en_US": "Melodiosa",
     "ja_JP": "メロディオーソ",
@@ -188,6 +191,9 @@
     "en_US": "Solo Around The World",
     "ja_JP": "宙に響く独奏",
     "zh_CN": "寰宇独奏"
+  },
+  "char_1038_whitw2@sale#15": {
+    "zh_CN": "无序的谦卑"
   },
   "char_1039_thorn2@marthe#9": {
     "zh_CN": "无际之帆"
@@ -316,6 +322,9 @@
     "en_US": "Gwiazdcytrony",
     "ja_JP": "スタリシトロンの森にて",
     "zh_CN": "星橼林"
+  },
+  "char_127_estell@epoque#50": {
+    "zh_CN": "花冕圆舞曲"
   },
   "char_128_plosis@epoque#3": {
     "en_US": "Serenity",
@@ -1490,6 +1499,9 @@
     "ja_JP": "悠久の風に吹かれ",
     "zh_CN": "历世流风"
   },
+  "char_4027_heyak@epoque#50": {
+    "zh_CN": "恒久祭礼"
+  },
   "char_402_tuye@epoque#14": {
     "en_US": "Cultivate Vegetation",
     "ja_JP": "緑化",
@@ -1800,6 +1812,9 @@
     "en_US": "Radiant Serenity",
     "ja_JP": "輝耀なる静謐",
     "zh_CN": "辉煌的静谧"
+  },
+  "char_4134_cetsyr@epoque#50": {
+    "zh_CN": "追悼"
   },
   "char_4136_phonor@boc#9": {
     "en_US": "Primordial Ode",

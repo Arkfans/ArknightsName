@@ -63,4 +63,8 @@ tip: 请善用浏览器的搜索功能
 | token_10054_phatm2_encdool | 本能的召唤 | - | - |
 | token_10055_phatm2_mndclv | 迷狂牢笼 | - | - |
 | token_10056_angel2_target | 投递坐标 | Delivery Coordinates | 配達先座標 |
+| token_10057_svash2_eagle1 | 风雪之眼 | - | - |
+| token_10057_svash2_eagle2 | 风雪之眼 | - | - |
+| token_10057_svash2_eagle3 | 风雪之眼 | - | - |
+| token_10058_sbell2_icetgt | 保护目标（冻结状态） | - | - |
 | trap_079_allydonq | 猎潮的骑士 | Tide-Hunt Knight | 猟潮の騎士 |

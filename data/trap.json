@@ -1609,6 +1609,21 @@
   "trap_263_murbox": {
     "zh_CN": "防水物资箱"
   },
+  "trap_264_xdplat": {
+    "zh_CN": "伊斯贝塔高台"
+  },
+  "trap_265_xdice1": {
+    "zh_CN": "圣女像"
+  },
+  "trap_267_xdmac1": {
+    "zh_CN": "雪崩触发装置"
+  },
+  "trap_268_xdmac2": {
+    "zh_CN": "积雪固定装置"
+  },
+  "trap_269_xdmac3": {
+    "zh_CN": "落雪防护装置"
+  },
   "trap_270_spawnp": {
     "zh_CN": "隐蔽矿道"
   },

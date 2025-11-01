@@ -35,6 +35,7 @@ tip: 请善用浏览器的搜索功能
 | act13d5 | 玛莉娅·临光 | Maria Nearl | マリア・ニアール |
 | act13login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
 | act13mini | 好久不见 | It's Been a While | また会えたね |
+| act13pray | 幸运墙登录活动 | - | - |
 | act13side | 长夜临光 | Near Light | ニアーライト |
 | act13sre | 长夜临光·复刻 | Near Light - Rerun | ニアーライト·復刻 |
 | act14d0d1 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -136,6 +137,7 @@ tip: 请善用浏览器的搜索功能
 | act25side | 孤星 | Lone Trail | 孤星 |
 | act25sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act25sre | 孤星·复刻 | Lone Trail - Rerun | 孤星・復刻 |
+| act26login | 登录领取奖励 | - | - |
 | act26side | 空想花庭 | Hortus de Escapismo | 空想の花庭 |
 | act26sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act26sre | 空想花庭·复刻 | Hortus de Escapismo - Retrospection | 空想の花庭・復刻 |
@@ -160,6 +162,7 @@ tip: 请善用浏览器的搜索功能
 | act2mine | 波平谷矿区登录活动 | Popping Valley Mining Area Login Event | ポッピングバレー採鉱区 |
 | act2multi | 促融共竞#2 | - | - |
 | act2pray | 双日城惊奇墙 | Dossoles Amazing Wall | ドッソレススクラッチ |
+| act2recruit | 特别公开招募 - 高级资深干员 | - | - |
 | act2signvs | 端阳正午签到活动 | May the Sunshine Still Sign-In Event | スタンプラリー |
 | act2switch | 登览锦绣合作活动 | View From Above Collaboration Event | 山河一望コラボ |
 | act2unique | 夏日嘉年华特别活动 | - | - |
@@ -219,6 +222,7 @@ Event | なないろのお茶会 |
 | act44sign | 构想试炼签到活动 | Conceptual Crucible Login Event | 仮想試練スタンプ |
 | act45side | 无忧梦呓 | - | - |
 | act45sign | 感谢庆典前瞻签到 | Thank-You Celebration Prospective Login | 大感謝祭開催直前スタンプラリー |
+| act46side | 雪山降临1101 | - | - |
 | act46sign | 感谢庆典限时签到 | Thank-You Celebration Limited-Time Sign-In | 大感謝祭スタンプ |
 | act47sign | 感谢庆典补给签到 | Thank-You Celebration Sign-In Resupplies | 大感謝祭補給スタンプ |
 | act48sign | 2025跨年纪念限时活动 | 2025 Commemorative Limited-Time Event | スタンプラリー |
@@ -238,6 +242,7 @@ Event | なないろのお茶会 |
 | act52sign | 新生支点签到活动 | - | - |
 | act53sign | 金樨迎月签到活动 | - | - |
 | act54sign | 感谢庆典前瞻签到 | - | - |
+| act55sign | 感谢庆典累计签到 | - | - |
 | act5bossrush | 引航者试炼 | - | - |
 | act5collection | 御鼓吉音限时任务 | - | - |
 | act5d0 | 喧闹法则 | Code of Brawl | 喧騒の掟 |

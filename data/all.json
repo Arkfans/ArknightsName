@@ -281,6 +281,24 @@
       "zh_CN": "斩业星熊"
     }
   },
+  "char_1045_svash2": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "凛御银灰"
+    }
+  },
+  "char_1046_sbell2": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "圣聆初雪"
+    }
+  },
+  "char_1047_halo2": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "溯光星源"
+    }
+  },
   "char_106_franka": {
     "type": "OPERATOR",
     "names": {
@@ -1697,6 +1715,12 @@
       "zh_CN": "迷迭香"
     }
   },
+  "char_394_hadiya": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "哈蒂娅"
+    }
+  },
   "char_4000_jnight": {
     "type": "OPERATOR",
     "names": {
@@ -1935,6 +1959,12 @@
       "en_US": "Dorothy",
       "ja_JP": "ドロシー",
       "zh_CN": "多萝西"
+    }
+  },
+  "char_4051_akkord": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "协律"
     }
   },
   "char_4052_surfer": {
@@ -2675,6 +2705,12 @@
       "en_US": "Flametail",
       "ja_JP": "フレイムテイル",
       "zh_CN": "焰尾"
+    }
+  },
+  "char_4211_snhunt": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "雪猎"
     }
   },
   "char_421_crow": {
@@ -3745,6 +3781,30 @@
       "en_US": "Delivery Coordinates",
       "ja_JP": "配達先座標",
       "zh_CN": "投递坐标"
+    }
+  },
+  "token_10057_svash2_eagle1": {
+    "type": "TOKEN",
+    "names": {
+      "zh_CN": "风雪之眼"
+    }
+  },
+  "token_10057_svash2_eagle2": {
+    "type": "TOKEN",
+    "names": {
+      "zh_CN": "风雪之眼"
+    }
+  },
+  "token_10057_svash2_eagle3": {
+    "type": "TOKEN",
+    "names": {
+      "zh_CN": "风雪之眼"
+    }
+  },
+  "token_10058_sbell2_icetgt": {
+    "type": "TOKEN",
+    "names": {
+      "zh_CN": "保护目标（冻结状态）"
     }
   },
   "trap_079_allydonq": {
@@ -6409,6 +6469,36 @@
       "zh_CN": "防水物资箱"
     }
   },
+  "trap_264_xdplat": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "伊斯贝塔高台"
+    }
+  },
+  "trap_265_xdice1": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "圣女像"
+    }
+  },
+  "trap_267_xdmac1": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "雪崩触发装置"
+    }
+  },
+  "trap_268_xdmac2": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "积雪固定装置"
+    }
+  },
+  "trap_269_xdmac3": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "落雪防护装置"
+    }
+  },
   "trap_270_spawnp": {
     "type": "TRAP",
     "names": {
@@ -8131,6 +8221,12 @@
       "zh_CN": "远行前的野餐"
     }
   },
+  "char_1019_siege2@epoque#50": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "光耀之途"
+    }
+  },
   "char_101_sora@epoque#17": {
     "type": "SKIN",
     "names": {
@@ -8301,6 +8397,12 @@
       "en_US": "Solo Around The World",
       "ja_JP": "宙に響く独奏",
       "zh_CN": "寰宇独奏"
+    }
+  },
+  "char_1038_whitw2@sale#15": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "无序的谦卑"
     }
   },
   "char_1039_thorn2@marthe#9": {
@@ -8507,6 +8609,12 @@
       "en_US": "Gwiazdcytrony",
       "ja_JP": "スタリシトロンの森にて",
       "zh_CN": "星橼林"
+    }
+  },
+  "char_127_estell@epoque#50": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "花冕圆舞曲"
     }
   },
   "char_128_plosis@epoque#3": {
@@ -10399,6 +10507,12 @@
       "zh_CN": "历世流风"
     }
   },
+  "char_4027_heyak@epoque#50": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "恒久祭礼"
+    }
+  },
   "char_402_tuye@epoque#14": {
     "type": "SKIN",
     "names": {
@@ -10903,6 +11017,12 @@
       "en_US": "Radiant Serenity",
       "ja_JP": "輝耀なる静謐",
       "zh_CN": "辉煌的静谧"
+    }
+  },
+  "char_4134_cetsyr@epoque#50": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "追悼"
     }
   },
   "char_4136_phonor@boc#9": {
@@ -13603,6 +13723,30 @@
       "zh_CN": "萨卡兹狙击组长"
     }
   },
+  "enemy_10138_xdsnow": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "雪孩子"
+    }
+  },
+  "enemy_10138_xdsnow_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "雪顽童"
+    }
+  },
+  "enemy_10139_xdseal": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "蓬松雪球"
+    }
+  },
+  "enemy_10139_xdseal_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "夜色雪球"
+    }
+  },
   "enemy_1013_airdrp": {
     "type": "ENEMY",
     "names": {
@@ -13617,6 +13761,78 @@
       "en_US": "Airborne Soldier Leader",
       "ja_JP": "空挺隊長",
       "zh_CN": "空降组长"
+    }
+  },
+  "enemy_10140_xdbird": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "洞栖雪灵"
+    }
+  },
+  "enemy_10140_xdbird_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "山谷雪灵"
+    }
+  },
+  "enemy_10141_xdpeng": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "抱蛋羽兽"
+    }
+  },
+  "enemy_10141_xdpeng_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "拥霜羽兽\n"
+    }
+  },
+  "enemy_10142_xdturt": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "翻身甲"
+    }
+  },
+  "enemy_10142_xdturt_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "坚冰翻身甲"
+    }
+  },
+  "enemy_10143_xdmush": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "小雪伞"
+    }
+  },
+  "enemy_10143_xdmush_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "焕生雪伞"
+    }
+  },
+  "enemy_10144_xdelk": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "巨角卢鲁"
+    }
+  },
+  "enemy_10144_xdelk_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "乌顶巨角卢鲁"
+    }
+  },
+  "enemy_10145_xdrock": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "伊斯贝塔"
+    }
+  },
+  "enemy_10145_xdrock_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "斯托斯贝塔"
     }
   },
   "enemy_1014_rogue": {
@@ -20625,6 +20841,36 @@
       "zh_CN": "圣愚"
     }
   },
+  "enemy_1574_xdagt": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "披挂冰雪的少女"
+    }
+  },
+  "enemy_1575_xdmon": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "耶拉冈德"
+    }
+  },
+  "enemy_1576_spbell": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "喀兰圣女"
+    }
+  },
+  "enemy_1577_iceball": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“寒意”"
+    }
+  },
+  "enemy_1578_icecage": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "圣女雪衣"
+    }
+  },
   "enemy_18001_lhship": {
     "type": "ENEMY",
     "names": {
@@ -23125,6 +23371,12 @@
       "zh_CN": "冰晶射手"
     }
   },
+  "enemy_9016_acstmr": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "刺胄之弹"
+    }
+  },
   "0D5act": {
     "type": "ACTIVITY",
     "names": {
@@ -23343,6 +23595,12 @@
       "en_US": "It's Been a While",
       "ja_JP": "また会えたね",
       "zh_CN": "好久不见"
+    }
+  },
+  "act13pray": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "幸运墙登录活动"
     }
   },
   "act13side": {
@@ -24119,6 +24377,12 @@
       "zh_CN": "孤星·复刻"
     }
   },
+  "act26login": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "登录领取奖励"
+    }
+  },
   "act26side": {
     "type": "ACTIVITY",
     "names": {
@@ -24305,6 +24569,12 @@
       "en_US": "Dossoles Amazing Wall",
       "ja_JP": "ドッソレススクラッチ",
       "zh_CN": "双日城惊奇墙"
+    }
+  },
+  "act2recruit": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "特别公开招募 - 高级资深干员"
     }
   },
   "act2signvs": {
@@ -24731,6 +25001,12 @@
       "zh_CN": "感谢庆典前瞻签到"
     }
   },
+  "act46side": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "雪山降临1101"
+    }
+  },
   "act46sign": {
     "type": "ACTIVITY",
     "names": {
@@ -24860,6 +25136,12 @@
     "type": "ACTIVITY",
     "names": {
       "zh_CN": "感谢庆典前瞻签到"
+    }
+  },
+  "act55sign": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "感谢庆典累计签到"
     }
   },
   "act5bossrush": {
@@ -26734,6 +27016,12 @@
       "zh_CN": "浪客行歌寻访凭证"
     }
   },
+  "LIMITED_TKT_GACHA_10_6701": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "融雪流痕寻访凭证"
+    }
+  },
   "LIMITED_TKT_GACHA_10_903": {
     "type": "ITEM",
     "names": {
@@ -26949,6 +27237,12 @@
     }
   },
   "LMTGS_COIN_6401": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "寻访数据契约"
+    }
+  },
+  "LMTGS_COIN_6701": {
     "type": "ITEM",
     "names": {
       "zh_CN": "寻访数据契约"
@@ -28386,6 +28680,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "梦境拼图"
+    }
+  },
+  "act46side_token_detector": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "雪地用多功能探测器"
     }
   },
   "act4bossrush_milestone_point": {
@@ -31345,6 +31645,24 @@
       "zh_CN": "斩业星熊的信物"
     }
   },
+  "p_char_1045_svash2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "凛御银灰的信物"
+    }
+  },
+  "p_char_1046_sbell2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "圣聆初雪的信物"
+    }
+  },
+  "p_char_1047_halo2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "溯光星源的信物"
+    }
+  },
   "p_char_106_franka": {
     "type": "ITEM",
     "names": {
@@ -32753,6 +33071,12 @@
       "zh_CN": "迷迭香的信物"
     }
   },
+  "p_char_394_hadiya": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "哈蒂娅的信物"
+    }
+  },
   "p_char_4000_jnight": {
     "type": "ITEM",
     "names": {
@@ -32983,6 +33307,12 @@
       "en_US": "Dorothy's Token",
       "ja_JP": "ドロシーの印",
       "zh_CN": "多萝西的信物"
+    }
+  },
+  "p_char_4051_akkord": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "协律的信物"
     }
   },
   "p_char_4052_surfer": {
@@ -33707,6 +34037,12 @@
       "zh_CN": "焰尾的信物"
     }
   },
+  "p_char_4211_snhunt": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "雪猎的信物"
+    }
+  },
   "p_char_421_crow": {
     "type": "ITEM",
     "names": {
@@ -34099,6 +34435,12 @@
       "zh_CN": "巡林者的信物"
     }
   },
+  "precious_material_voucher_perm": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "稀有材料提货券"
+    }
+  },
   "premium_material_issue_voucher": {
     "type": "ITEM",
     "names": {
@@ -34359,12 +34701,24 @@
       "zh_CN": "铳械工坊赠品盒"
     }
   },
+  "randomMaterial_act46side": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "应急救援包"
+    }
+  },
   "randomMaterial_leith2": {
     "type": "ITEM",
     "names": {
       "en_US": "Investigation Resupply",
       "ja_JP": "調査補給",
       "zh_CN": "查访补给"
+    }
+  },
+  "randomMaterial_message1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "一号项目决定版"
     }
   },
   "randomMaterial_rhine2": {
@@ -34463,6 +34817,12 @@
       "zh_CN": "ID信息更新卡"
     }
   },
+  "renamingCard_0_067": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "ID信息更新卡"
+    }
+  },
   "renamingCard_30_018": {
     "type": "ITEM",
     "names": {
@@ -34532,6 +34892,12 @@
     "names": {
       "en_US": "ID Info Update Card",
       "ja_JP": "ID情報更新カード",
+      "zh_CN": "ID信息更新卡"
+    }
+  },
+  "renamingCard_30_067": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "ID信息更新卡"
     }
   },
@@ -35453,6 +35819,12 @@
       "zh_CN": "中坚高级干员调用凭证"
     }
   },
+  "voucher_class_pick6701": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "中坚高级干员调用凭证"
+    }
+  },
   "voucher_elite_II_4": {
     "type": "ITEM",
     "names": {
@@ -35829,6 +36201,12 @@
       "en_US": "Top Operator Transfer Permit",
       "ja_JP": "感謝祭記念★6招聘指名券",
       "zh_CN": "周年庆典干员凭证"
+    }
+  },
+  "voucher_item_pick6701": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "感谢庆典干员凭证"
     }
   },
   "voucher_lessng": {
@@ -36403,6 +36781,12 @@
     "type": "POOL",
     "names": {
       "zh_CN": "不归花火"
+    }
+  },
+  "LIMITED_67_0_1": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "以风雪为誓"
     }
   },
   "LIMITED_9_0_3": {
@@ -38192,6 +38576,18 @@
       "en_US": "Nobukage-ryu - Juumonji Masaru",
       "ja_JP": "信影流・十文字勝",
       "zh_CN": "信影流·十文字胜"
+    }
+  },
+  "skchr_akkord_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "反拍重音"
+    }
+  },
+  "skchr_akkord_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "震爆调谐"
     }
   },
   "skchr_alanna_1": {
@@ -40358,6 +40754,18 @@
       "zh_CN": "爆发剂·榴莲味"
     }
   },
+  "skchr_hadiya_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "沙地战术改良"
+    }
+  },
+  "skchr_hadiya_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "剑角之锋"
+    }
+  },
   "skchr_haini_1": {
     "type": "SKILL",
     "names": {
@@ -40372,6 +40780,24 @@
       "en_US": "Release-retarding Chromogen",
       "ja_JP": "遮断性発色剤",
       "zh_CN": "阻滞性显色剂"
+    }
+  },
+  "skchr_halo2_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "星图闪烁"
+    }
+  },
+  "skchr_halo2_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "星束引力"
+    }
+  },
+  "skchr_halo2_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "并流连锁"
     }
   },
   "skchr_halo_1": {
@@ -42788,6 +43214,24 @@
       "zh_CN": "微差爆破"
     }
   },
+  "skchr_sbell2_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "铃音吹雪"
+    }
+  },
+  "skchr_sbell2_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "霜涛覆岭"
+    }
+  },
+  "skchr_sbell2_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "群山俯首"
+    }
+  },
   "skchr_scave_2": {
     "type": "SKILL",
     "names": {
@@ -43124,6 +43568,18 @@
       "zh_CN": "壳状防御"
     }
   },
+  "skchr_snhunt_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "强力击·β型"
+    }
+  },
+  "skchr_snhunt_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "风雪连弩"
+    }
+  },
   "skchr_snsant_1": {
     "type": "SKILL",
     "names": {
@@ -43322,6 +43778,24 @@
       "en_US": "Deep Healing",
       "ja_JP": "ディープヒーリング",
       "zh_CN": "深度治疗"
+    }
+  },
+  "skchr_svash2_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "周旋的谋略"
+    }
+  },
+  "skchr_svash2_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "御敌的锋锐"
+    }
+  },
+  "skchr_svash2_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "变革已至"
     }
   },
   "skchr_svrash_1": {
@@ -48224,6 +48698,24 @@
       "zh_CN": "天工夜行"
     }
   },
+  "sktok_svash2_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "开放性开局"
+    }
+  },
+  "sktok_svash2_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "开放性开局"
+    }
+  },
+  "sktok_svash2_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "变革已至"
+    }
+  },
   "sktok_swire2_gdtrap": {
     "type": "SKILL",
     "names": {
@@ -49248,6 +49740,36 @@
       "en_US": "Harvestable",
       "ja_JP": "採掘可能",
       "zh_CN": "可供开采"
+    }
+  },
+  "sktok_xdice1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "雪崩"
+    }
+  },
+  "sktok_xdmac1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "雪崩触发"
+    }
+  },
+  "sktok_xdmac2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "积雪固定"
+    }
+  },
+  "sktok_xdmac3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "落雪防护"
+    }
+  },
+  "sktok_xdplat": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "伊斯贝塔高台"
     }
   },
   "a001_01": {
@@ -56852,6 +57374,96 @@
       "zh_CN": "吊桥外的月光"
     }
   },
+  "act46side_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "呼号声中"
+    }
+  },
+  "act46side_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "甜蜜的邻人"
+    }
+  },
+  "act46side_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "雪灌木中"
+    }
+  },
+  "act46side_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "并蒂生"
+    }
+  },
+  "act46side_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "雪夜独行"
+    }
+  },
+  "act46side_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "绿翡翠"
+    }
+  },
+  "act46side_07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "焚心灼影"
+    }
+  },
+  "act46side_08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "宣告在途"
+    }
+  },
+  "act46side_09": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "凛刃出匣"
+    }
+  },
+  "act46side_10": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "耶拉冈德在上"
+    }
+  },
+  "act46side_st01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "崩落"
+    }
+  },
+  "act46side_st02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "圣巡与丧钟"
+    }
+  },
+  "act46side_st03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "寻心道途"
+    }
+  },
+  "act46side_st04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "“降临”"
+    }
+  },
+  "act46side_tr01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "第一片雪"
+    }
+  },
   "act4bossrush_01": {
     "type": "STAGE",
     "names": {
@@ -64126,6 +64738,24 @@
       "zh_CN": "拥抱命运"
     }
   },
+  "act46side_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "圣巡之旅"
+    }
+  },
+  "act46side_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "变革之路"
+    }
+  },
+  "act46side_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "喀兰之心"
+    }
+  },
   "act4bossrush_zone1": {
     "type": "ZONE",
     "names": {
@@ -65558,6 +66188,12 @@
       "zh_CN": "团队坚盾"
     }
   },
+  "story_blkkgt_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "骑士的旅程"
+    }
+  },
   "story_blkngt_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -65744,6 +66380,12 @@
       "en_US": "XXL Honey Biscuit",
       "ja_JP": "特大クッキー",
       "zh_CN": "特大号烤饼"
+    }
+  },
+  "story_cetsyr_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "你与时间同长"
     }
   },
   "story_ceylon_set_1_story_1": {
@@ -66310,6 +66952,12 @@
       "zh_CN": "怀有希望之人"
     }
   },
+  "story_halo2_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "谢拉格假期"
+    }
+  },
   "story_halo_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -66562,6 +67210,12 @@
       "zh_CN": "在人群之中"
     }
   },
+  "story_kichi_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "好运相伴"
+    }
+  },
   "story_kirara_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -66600,6 +67254,12 @@
       "en_US": "Things Left Behind",
       "ja_JP": "失くし物",
       "zh_CN": "遗失之物"
+    }
+  },
+  "story_lava2_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "我们都一样"
     }
   },
   "story_lava_set_1_story_1": {
@@ -67482,6 +68142,12 @@
       "en_US": "The Great Bagnapping Adventure",
       "ja_JP": "リュック争奪戦",
       "zh_CN": "夺包奇遇"
+    }
+  },
+  "story_snhunt_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "射向群山的最后一箭"
     }
   },
   "story_snsant_set_1_story_1": {

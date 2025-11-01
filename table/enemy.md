@@ -267,8 +267,25 @@ tip: 请善用浏览器的搜索功能
 | enemy_10128_fearpj | “惘核” | - | - |
 | enemy_1012_dcross | 萨卡兹狙击手 | Sarkaz Crossbowman | サルカズ狙撃兵 |
 | enemy_1012_dcross_2 | 萨卡兹狙击组长 | Sarkaz Crossbowman Leader | サルカズ狙撃隊長 |
+| enemy_10138_xdsnow | 雪孩子 | - | - |
+| enemy_10138_xdsnow_2 | 雪顽童 | - | - |
+| enemy_10139_xdseal | 蓬松雪球 | - | - |
+| enemy_10139_xdseal_2 | 夜色雪球 | - | - |
 | enemy_1013_airdrp | 空降兵 | Airborne Soldier | 空挺兵 |
 | enemy_1013_airdrp_2 | 空降组长 | Airborne Soldier Leader | 空挺隊長 |
+| enemy_10140_xdbird | 洞栖雪灵 | - | - |
+| enemy_10140_xdbird_2 | 山谷雪灵 | - | - |
+| enemy_10141_xdpeng | 抱蛋羽兽 | - | - |
+| enemy_10141_xdpeng_2 | 拥霜羽兽
+ | - | - |
+| enemy_10142_xdturt | 翻身甲 | - | - |
+| enemy_10142_xdturt_2 | 坚冰翻身甲 | - | - |
+| enemy_10143_xdmush | 小雪伞 | - | - |
+| enemy_10143_xdmush_2 | 焕生雪伞 | - | - |
+| enemy_10144_xdelk | 巨角卢鲁 | - | - |
+| enemy_10144_xdelk_2 | 乌顶巨角卢鲁 | - | - |
+| enemy_10145_xdrock | 伊斯贝塔 | - | - |
+| enemy_10145_xdrock_2 | 斯托斯贝塔 | - | - |
 | enemy_1014_rogue | 双持剑士 | Dual Swordsman | 双剣士 |
 | enemy_1014_rogue_2 | 双持剑士组长 | Dual Swordsman Leader | 双剣隊長 |
 | enemy_1015_litamr | 轻甲卫兵 | Light-Armored Soldier | 軽装兵 |
@@ -1146,6 +1163,11 @@ tip: 请善用浏览器的搜索功能
 | enemy_1570_ymgscm | 三船光平 | - | - |
 | enemy_1571_mirbst | 狂躁异质裂兽 | - | - |
 | enemy_1572_folchr | 圣愚 | - | - |
+| enemy_1574_xdagt | 披挂冰雪的少女 | - | - |
+| enemy_1575_xdmon | 耶拉冈德 | - | - |
+| enemy_1576_spbell | 喀兰圣女 | - | - |
+| enemy_1577_iceball | “寒意” | - | - |
+| enemy_1578_icecage | 圣女雪衣 | - | - |
 | enemy_18001_lhship | 运输汽艇 | - | - |
 | enemy_18002_lhbetl | 小颚虫 | - | - |
 | enemy_18003_lhkarb | 吸气乱动机 | - | - |
@@ -1472,3 +1494,4 @@ tip: 请善用浏览器的搜索功能
 | enemy_9003_askate | 寻路者供弹手 | Pathfinder Armicustos | 求道供弾者 |
 | enemy_9004_anlock | 技师囚犯 | Technician Prisoner | 囚人技師 |
 | enemy_9005_aicemn | 冰晶射手 | Glacial Archer | 氷晶の射手 |
+| enemy_9016_acstmr | 刺胄之弹 | - | - |

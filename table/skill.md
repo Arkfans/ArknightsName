@@ -43,6 +43,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_aguard_1 | 亮剑 | Drawing Sword | 鋭刃 |
 | skchr_akafyu_1 | 信影流·雷刀之势 | Nobukage-ryu - Kaminari Gatana no Zei | 信影流・雷刀之勢 |
 | skchr_akafyu_2 | 信影流·十文字胜 | Nobukage-ryu - Juumonji Masaru | 信影流・十文字勝 |
+| skchr_akkord_1 | 反拍重音 | - | - |
+| skchr_akkord_2 | 震爆调谐 | - | - |
 | skchr_alanna_1 | 气动增压 | Pneumatic Power-Up | エアブースター |
 | skchr_alanna_2 | “万斤顶” | 'Million-Pound Jack' | ウルトラジャッキ |
 | skchr_almond_1 | 磁力抓取 | Magnetic Grab | マグネットキャッチャー |
@@ -315,8 +317,13 @@ tip: 请善用浏览器的搜索功能
 | skchr_haak_1 | 快速射击 | Rapid Fire | 高速射撃 |
 | skchr_haak_2 | 爆发剂·γ型 | Type-γ Stimpack | 劇性増強剤・γ |
 | skchr_haak_3 | 爆发剂·榴莲味 | Durian-Flavored Stimpack | 劇性増強剤・ドリアン |
+| skchr_hadiya_1 | 沙地战术改良 | - | - |
+| skchr_hadiya_2 | 剑角之锋 | - | - |
 | skchr_haini_1 | 迷惑性洋流图 | Camouflaging Current Chart | 惑わす海流図 |
 | skchr_haini_2 | 阻滞性显色剂 | Release-retarding Chromogen | 遮断性発色剤 |
+| skchr_halo2_1 | 星图闪烁 | - | - |
+| skchr_halo2_2 | 星束引力 | - | - |
+| skchr_halo2_3 | 并流连锁 | - | - |
 | skchr_halo_1 | 双端导流 | Double Diversion | ボルテージダブラー |
 | skchr_halo_2 | 星束交汇 | Starlight Intersection | アストラルバースト |
 | skchr_hamoni_1 | 轻巧舞步 | Lithe Steps | 舞は軽やかに |
@@ -626,6 +633,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_saga_3 | 怒目 | Fierce Glare | 怒目 |
 | skchr_savage_1 | 强力击·β型 | Power Strike β | 強撃β |
 | skchr_savage_2 | 微差爆破 | Precise Blast | 精密起爆 |
+| skchr_sbell2_1 | 铃音吹雪 | - | - |
+| skchr_sbell2_2 | 霜涛覆岭 | - | - |
+| skchr_sbell2_3 | 群山俯首 | - | - |
 | skchr_scave_2 | 冲锋号令·攻击 | Command - Attack | 突撃指令・攻撃 |
 | skchr_sddrag_2 | 生灵火花 | Soul Spark | マナスパーク |
 | skchr_sensi_1 | 单人份料理 | A Meal For One | 一人分の料理 |
@@ -668,6 +678,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_slent2_2 | 俯瞰视界 | Overlooking Vision | 俯瞰する視点 |
 | skchr_slent2_3 | 无畏者协议 | Dreadnought Protocol | 先駆者たちの翼 |
 | skchr_snakek_2 | 壳状防御 | Shell Defense | シェルガード |
+| skchr_snhunt_1 | 强力击·β型 | - | - |
+| skchr_snhunt_2 | 风雪连弩 | - | - |
 | skchr_snsant_1 | 倒刺钩爪 | Barbed Clawhook | フックキャッチ |
 | skchr_snsant_2 | 伸缩式电捕网 | Telescoping Electric Net | ネットキャプチャー |
 | skchr_sntlla_2 | “女巫之泪” | 'Witch's Tears' | 「魔女の涙」 |
@@ -693,6 +705,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_surtr_2 | 熔核巨影 | Molten Giant | 災厄の巨焔 |
 | skchr_surtr_3 | 黄昏 | Twilight | ラグナロク |
 | skchr_susuro_2 | 深度治疗 | Deep Healing | ディープヒーリング |
+| skchr_svash2_1 | 周旋的谋略 | - | - |
+| skchr_svash2_2 | 御敌的锋锐 | - | - |
+| skchr_svash2_3 | 变革已至 | - | - |
 | skchr_svrash_1 | 强力击·γ型 | Power Strike γ | 強撃γ |
 | skchr_svrash_2 | 雪境生存法则 | Rules of Survival | 雪境生存戦略 |
 | skchr_svrash_3 | 真银斩 | Truesilver Slash | 真銀斬 |
@@ -1321,6 +1336,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_supspt | 天工夜行 | Master Who Walks the Night | 天工夜行 |
 | sktok_supspta | 天工夜行 | Master Who Walks the Night | 天工夜行 |
 | sktok_supsptb | 天工夜行 | Master Who Walks the Night | 天工夜行 |
+| sktok_svash2_1 | 开放性开局 | - | - |
+| sktok_svash2_2 | 开放性开局 | - | - |
+| sktok_svash2_3 | 变革已至 | - | - |
 | sktok_swire2_gdtrap | “见面礼” | 'Courtesy Gift' | 「おもてなし」 |
 | sktok_tbattbc | 钳兽壳粉 | Gloompincer Shell Meal | 鉗獣殻パウダー |
 | sktok_tbpsnc | 高效泡打粉 | High-Efficiency Baking Powder | ベーキングパウダー |
@@ -1450,3 +1468,8 @@ tip: 请善用浏览器的搜索功能
 | sktok_xbwall | 防御支撑 | Defensive Support | 防衛の要 |
 | sktok_xbwfg | 抽水 | Pump Water | 水汲み |
 | sktok_xbwood | 可供开采 | Harvestable | 採掘可能 |
+| sktok_xdice1 | 雪崩 | - | - |
+| sktok_xdmac1 | 雪崩触发 | - | - |
+| sktok_xdmac2 | 积雪固定 | - | - |
+| sktok_xdmac3 | 落雪防护 | - | - |
+| sktok_xdplat | 伊斯贝塔高台 | - | - |

@@ -353,6 +353,11 @@ tip: 请善用浏览器的搜索功能
 | trap_261_murmag | 引力浮板 | - | - |
 | trap_262_murtre | 物资浮板 | - | - |
 | trap_263_murbox | 防水物资箱 | - | - |
+| trap_264_xdplat | 伊斯贝塔高台 | - | - |
+| trap_265_xdice1 | 圣女像 | - | - |
+| trap_267_xdmac1 | 雪崩触发装置 | - | - |
+| trap_268_xdmac2 | 积雪固定装置 | - | - |
+| trap_269_xdmac3 | 落雪防护装置 | - | - |
 | trap_270_spawnp | 隐蔽矿道 | - | - |
 | trap_271_fowstn | 严重污染设施 | - | - |
 | trap_272_nomstn | 阻道岩壁 | - | - |

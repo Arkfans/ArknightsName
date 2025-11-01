@@ -173,6 +173,15 @@
   "char_1044_hsgma2": {
     "zh_CN": "斩业星熊"
   },
+  "char_1045_svash2": {
+    "zh_CN": "凛御银灰"
+  },
+  "char_1046_sbell2": {
+    "zh_CN": "圣聆初雪"
+  },
+  "char_1047_halo2": {
+    "zh_CN": "溯光星源"
+  },
   "char_106_franka": {
     "en_US": "Franka",
     "ja_JP": "フランカ",
@@ -1058,6 +1067,9 @@
     "ja_JP": "ロスモンティス",
     "zh_CN": "迷迭香"
   },
+  "char_394_hadiya": {
+    "zh_CN": "哈蒂娅"
+  },
   "char_4000_jnight": {
     "en_US": "'Justice Knight'",
     "ja_JP": "ジャスティスナイト",
@@ -1207,6 +1219,9 @@
     "en_US": "Dorothy",
     "ja_JP": "ドロシー",
     "zh_CN": "多萝西"
+  },
+  "char_4051_akkord": {
+    "zh_CN": "协律"
   },
   "char_4052_surfer": {
     "en_US": "Surfer",
@@ -1659,6 +1674,9 @@
     "en_US": "Flametail",
     "ja_JP": "フレイムテイル",
     "zh_CN": "焰尾"
+  },
+  "char_4211_snhunt": {
+    "zh_CN": "雪猎"
   },
   "char_421_crow": {
     "en_US": "La Pluma",

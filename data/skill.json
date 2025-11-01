@@ -189,6 +189,12 @@
     "ja_JP": "信影流・十文字勝",
     "zh_CN": "信影流·十文字胜"
   },
+  "skchr_akkord_1": {
+    "zh_CN": "反拍重音"
+  },
+  "skchr_akkord_2": {
+    "zh_CN": "震爆调谐"
+  },
   "skchr_alanna_1": {
     "en_US": "Pneumatic Power-Up",
     "ja_JP": "エアブースター",
@@ -1537,6 +1543,12 @@
     "ja_JP": "劇性増強剤・ドリアン",
     "zh_CN": "爆发剂·榴莲味"
   },
+  "skchr_hadiya_1": {
+    "zh_CN": "沙地战术改良"
+  },
+  "skchr_hadiya_2": {
+    "zh_CN": "剑角之锋"
+  },
   "skchr_haini_1": {
     "en_US": "Camouflaging Current Chart",
     "ja_JP": "惑わす海流図",
@@ -1546,6 +1558,15 @@
     "en_US": "Release-retarding Chromogen",
     "ja_JP": "遮断性発色剤",
     "zh_CN": "阻滞性显色剂"
+  },
+  "skchr_halo2_1": {
+    "zh_CN": "星图闪烁"
+  },
+  "skchr_halo2_2": {
+    "zh_CN": "星束引力"
+  },
+  "skchr_halo2_3": {
+    "zh_CN": "并流连锁"
   },
   "skchr_halo_1": {
     "en_US": "Double Diversion",
@@ -3034,6 +3055,15 @@
     "ja_JP": "精密起爆",
     "zh_CN": "微差爆破"
   },
+  "skchr_sbell2_1": {
+    "zh_CN": "铃音吹雪"
+  },
+  "skchr_sbell2_2": {
+    "zh_CN": "霜涛覆岭"
+  },
+  "skchr_sbell2_3": {
+    "zh_CN": "群山俯首"
+  },
   "skchr_scave_2": {
     "en_US": "Command - Attack",
     "ja_JP": "突撃指令・攻撃",
@@ -3244,6 +3274,12 @@
     "ja_JP": "シェルガード",
     "zh_CN": "壳状防御"
   },
+  "skchr_snhunt_1": {
+    "zh_CN": "强力击·β型"
+  },
+  "skchr_snhunt_2": {
+    "zh_CN": "风雪连弩"
+  },
   "skchr_snsant_1": {
     "en_US": "Barbed Clawhook",
     "ja_JP": "フックキャッチ",
@@ -3368,6 +3404,15 @@
     "en_US": "Deep Healing",
     "ja_JP": "ディープヒーリング",
     "zh_CN": "深度治疗"
+  },
+  "skchr_svash2_1": {
+    "zh_CN": "周旋的谋略"
+  },
+  "skchr_svash2_2": {
+    "zh_CN": "御敌的锋锐"
+  },
+  "skchr_svash2_3": {
+    "zh_CN": "变革已至"
   },
   "skchr_svrash_1": {
     "en_US": "Power Strike γ",
@@ -6385,6 +6430,15 @@
     "ja_JP": "天工夜行",
     "zh_CN": "天工夜行"
   },
+  "sktok_svash2_1": {
+    "zh_CN": "开放性开局"
+  },
+  "sktok_svash2_2": {
+    "zh_CN": "开放性开局"
+  },
+  "sktok_svash2_3": {
+    "zh_CN": "变革已至"
+  },
   "sktok_swire2_gdtrap": {
     "en_US": "'Courtesy Gift'",
     "ja_JP": "「おもてなし」",
@@ -7023,5 +7077,20 @@
     "en_US": "Harvestable",
     "ja_JP": "採掘可能",
     "zh_CN": "可供开采"
+  },
+  "sktok_xdice1": {
+    "zh_CN": "雪崩"
+  },
+  "sktok_xdmac1": {
+    "zh_CN": "雪崩触发"
+  },
+  "sktok_xdmac2": {
+    "zh_CN": "积雪固定"
+  },
+  "sktok_xdmac3": {
+    "zh_CN": "落雪防护"
+  },
+  "sktok_xdplat": {
+    "zh_CN": "伊斯贝塔高台"
   }
 }

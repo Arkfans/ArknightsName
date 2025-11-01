@@ -217,6 +217,9 @@
     "ja_JP": "チームの盾",
     "zh_CN": "团队坚盾"
   },
+  "story_blkkgt_set_1_story_1": {
+    "zh_CN": "骑士的旅程"
+  },
   "story_blkngt_set_1_story_1": {
     "en_US": "Souls of the Wilderness",
     "ja_JP": "荒野に生まれ",
@@ -332,6 +335,9 @@
     "en_US": "XXL Honey Biscuit",
     "ja_JP": "特大クッキー",
     "zh_CN": "特大号烤饼"
+  },
+  "story_cetsyr_set_1_story_1": {
+    "zh_CN": "你与时间同长"
   },
   "story_ceylon_set_1_story_1": {
     "en_US": "Heartfelt Present",
@@ -684,6 +690,9 @@
     "ja_JP": "希望を抱く人",
     "zh_CN": "怀有希望之人"
   },
+  "story_halo2_set_1_story_1": {
+    "zh_CN": "谢拉格假期"
+  },
   "story_halo_set_1_story_1": {
     "en_US": "Now Experimenting...",
     "ja_JP": "実験進行中",
@@ -840,6 +849,9 @@
   "story_kazema_set_2_story_1": {
     "zh_CN": "在人群之中"
   },
+  "story_kichi_set_1_story_1": {
+    "zh_CN": "好运相伴"
+  },
   "story_kirara_set_1_story_1": {
     "en_US": "Secret Ending",
     "ja_JP": "隠しエンディング",
@@ -864,6 +876,9 @@
     "en_US": "Things Left Behind",
     "ja_JP": "失くし物",
     "zh_CN": "遗失之物"
+  },
+  "story_lava2_set_1_story_1": {
+    "zh_CN": "我们都一样"
   },
   "story_lava_set_1_story_1": {
     "en_US": "'Sisters'",
@@ -1410,6 +1425,9 @@
     "en_US": "The Great Bagnapping Adventure",
     "ja_JP": "リュック争奪戦",
     "zh_CN": "夺包奇遇"
+  },
+  "story_snhunt_set_1_story_1": {
+    "zh_CN": "射向群山的最后一箭"
   },
   "story_snsant_set_1_story_1": {
     "en_US": "A Dilemma of Values",

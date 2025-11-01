@@ -1173,6 +1173,18 @@
     "ja_JP": "サルカズ狙撃隊長",
     "zh_CN": "萨卡兹狙击组长"
   },
+  "enemy_10138_xdsnow": {
+    "zh_CN": "雪孩子"
+  },
+  "enemy_10138_xdsnow_2": {
+    "zh_CN": "雪顽童"
+  },
+  "enemy_10139_xdseal": {
+    "zh_CN": "蓬松雪球"
+  },
+  "enemy_10139_xdseal_2": {
+    "zh_CN": "夜色雪球"
+  },
   "enemy_1013_airdrp": {
     "en_US": "Airborne Soldier",
     "ja_JP": "空挺兵",
@@ -1182,6 +1194,42 @@
     "en_US": "Airborne Soldier Leader",
     "ja_JP": "空挺隊長",
     "zh_CN": "空降组长"
+  },
+  "enemy_10140_xdbird": {
+    "zh_CN": "洞栖雪灵"
+  },
+  "enemy_10140_xdbird_2": {
+    "zh_CN": "山谷雪灵"
+  },
+  "enemy_10141_xdpeng": {
+    "zh_CN": "抱蛋羽兽"
+  },
+  "enemy_10141_xdpeng_2": {
+    "zh_CN": "拥霜羽兽\n"
+  },
+  "enemy_10142_xdturt": {
+    "zh_CN": "翻身甲"
+  },
+  "enemy_10142_xdturt_2": {
+    "zh_CN": "坚冰翻身甲"
+  },
+  "enemy_10143_xdmush": {
+    "zh_CN": "小雪伞"
+  },
+  "enemy_10143_xdmush_2": {
+    "zh_CN": "焕生雪伞"
+  },
+  "enemy_10144_xdelk": {
+    "zh_CN": "巨角卢鲁"
+  },
+  "enemy_10144_xdelk_2": {
+    "zh_CN": "乌顶巨角卢鲁"
+  },
+  "enemy_10145_xdrock": {
+    "zh_CN": "伊斯贝塔"
+  },
+  "enemy_10145_xdrock_2": {
+    "zh_CN": "斯托斯贝塔"
   },
   "enemy_1014_rogue": {
     "en_US": "Dual Swordsman",
@@ -5558,6 +5606,21 @@
   "enemy_1572_folchr": {
     "zh_CN": "圣愚"
   },
+  "enemy_1574_xdagt": {
+    "zh_CN": "披挂冰雪的少女"
+  },
+  "enemy_1575_xdmon": {
+    "zh_CN": "耶拉冈德"
+  },
+  "enemy_1576_spbell": {
+    "zh_CN": "喀兰圣女"
+  },
+  "enemy_1577_iceball": {
+    "zh_CN": "“寒意”"
+  },
+  "enemy_1578_icecage": {
+    "zh_CN": "圣女雪衣"
+  },
   "enemy_18001_lhship": {
     "zh_CN": "运输汽艇"
   },
@@ -7079,5 +7142,8 @@
     "en_US": "Glacial Archer",
     "ja_JP": "氷晶の射手",
     "zh_CN": "冰晶射手"
+  },
+  "enemy_9016_acstmr": {
+    "zh_CN": "刺胄之弹"
   }
 }

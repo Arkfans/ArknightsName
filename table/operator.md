@@ -41,6 +41,9 @@ tip: 请善用浏览器的搜索功能
 | char_1042_phatm2 | 酒神 | - | - |
 | char_1043_leizi2 | 司霆惊蛰 | - | - |
 | char_1044_hsgma2 | 斩业星熊 | - | - |
+| char_1045_svash2 | 凛御银灰 | - | - |
+| char_1046_sbell2 | 圣聆初雪 | - | - |
+| char_1047_halo2 | 溯光星源 | - | - |
 | char_106_franka | 芙兰卡 | Franka | フランカ |
 | char_107_liskam | 雷蛇 | Liskarm | リスカム |
 | char_108_silent | 赫默 | Silence | サイレンス |
@@ -218,6 +221,7 @@ tip: 请善用浏览器的搜索功能
 | char_385_finlpp | 清流 | Purestream | セイリュウ |
 | char_388_mint | 薄绿 | Mint | ミント |
 | char_391_rosmon | 迷迭香 | Rosmontis | ロスモンティス |
+| char_394_hadiya | 哈蒂娅 | - | - |
 | char_4000_jnight | 正义骑士号 | 'Justice Knight' | ジャスティスナイト |
 | char_4004_pudd | 布丁 | Pudding | プリン |
 | char_4006_melnte | 玫拉 | Melanite | メラナイト |
@@ -248,6 +252,7 @@ tip: 请善用浏览器的搜索功能
 | char_4046_ebnhlz | 黑键 | Ebenholz | エーベンホルツ |
 | char_4047_pianst | 车尔尼 | Czerny | ツェルニー |
 | char_4048_doroth | 多萝西 | Dorothy | ドロシー |
+| char_4051_akkord | 协律 | - | - |
 | char_4052_surfer | 寻澜 | Surfer | サーファー |
 | char_4054_malist | 至简 | Minimalist | ミニマリスト |
 | char_4055_bgsnow | 鸿雪 | Pozëmka | パゼオンカ |
@@ -344,6 +349,7 @@ tip: 请善用浏览器的搜索功能
 | char_4207_branch | 折桠 | - | - |
 | char_4208_wintim | 冬时 | - | - |
 | char_420_flamtl | 焰尾 | Flametail | フレイムテイル |
+| char_4211_snhunt | 雪猎 | - | - |
 | char_421_crow | 羽毛笔 | La Pluma | ラ・プルマ |
 | char_422_aurora | 极光 | Aurora | オーロラ |
 | char_423_blemsh | 瑕光 | Blemishine | ブレミシャイン |

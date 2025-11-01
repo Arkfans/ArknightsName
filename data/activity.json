@@ -135,6 +135,9 @@
     "ja_JP": "また会えたね",
     "zh_CN": "好久不见"
   },
+  "act13pray": {
+    "zh_CN": "幸运墙登录活动"
+  },
   "act13side": {
     "en_US": "Near Light",
     "ja_JP": "ニアーライト",
@@ -612,6 +615,9 @@
     "ja_JP": "孤星・復刻",
     "zh_CN": "孤星·复刻"
   },
+  "act26login": {
+    "zh_CN": "登录领取奖励"
+  },
   "act26side": {
     "en_US": "Hortus de Escapismo",
     "ja_JP": "空想の花庭",
@@ -727,6 +733,9 @@
     "en_US": "Dossoles Amazing Wall",
     "ja_JP": "ドッソレススクラッチ",
     "zh_CN": "双日城惊奇墙"
+  },
+  "act2recruit": {
+    "zh_CN": "特别公开招募 - 高级资深干员"
   },
   "act2signvs": {
     "en_US": "May the Sunshine Still Sign-In Event",
@@ -987,6 +996,9 @@
     "ja_JP": "大感謝祭開催直前スタンプラリー",
     "zh_CN": "感谢庆典前瞻签到"
   },
+  "act46side": {
+    "zh_CN": "雪山降临1101"
+  },
   "act46sign": {
     "en_US": "Thank-You Celebration Limited-Time Sign-In",
     "ja_JP": "大感謝祭スタンプ",
@@ -1063,6 +1075,9 @@
   },
   "act54sign": {
     "zh_CN": "感谢庆典前瞻签到"
+  },
+  "act55sign": {
+    "zh_CN": "感谢庆典累计签到"
   },
   "act5bossrush": {
     "zh_CN": "引航者试炼"

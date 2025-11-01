@@ -980,6 +980,21 @@ tip: 请善用浏览器的搜索功能
 | act45side_08 | 童话的开场 | - | - |
 | act45side_st01 | 路口的红绿灯 | - | - |
 | act45side_tr01 | 吊桥外的月光 | - | - |
+| act46side_01 | 呼号声中 | - | - |
+| act46side_02 | 甜蜜的邻人 | - | - |
+| act46side_03 | 雪灌木中 | - | - |
+| act46side_04 | 并蒂生 | - | - |
+| act46side_05 | 雪夜独行 | - | - |
+| act46side_06 | 绿翡翠 | - | - |
+| act46side_07 | 焚心灼影 | - | - |
+| act46side_08 | 宣告在途 | - | - |
+| act46side_09 | 凛刃出匣 | - | - |
+| act46side_10 | 耶拉冈德在上 | - | - |
+| act46side_st01 | 崩落 | - | - |
+| act46side_st02 | 圣巡与丧钟 | - | - |
+| act46side_st03 | 寻心道途 | - | - |
+| act46side_st04 | “降临” | - | - |
+| act46side_tr01 | 第一片雪 | - | - |
 | act4bossrush_01 | 冰霜与战火 | Frost and Fire | 氷霜と戦火 |
 | act4bossrush_02 | 无关音律 | Out Of Tune | アウトオブチューン |
 | act4bossrush_03 | 延烧的深池 | Dublinn Burning | 延焼する葦沼 |
