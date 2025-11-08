@@ -243,6 +243,7 @@ Event | なないろのお茶会 |
 | act53sign | 金樨迎月签到活动 | - | - |
 | act54sign | 感谢庆典前瞻签到 | - | - |
 | act55sign | 感谢庆典累计签到 | - | - |
+| act56sign | 感谢庆典累计签到 | - | - |
 | act5bossrush | 引航者试炼 | - | - |
 | act5collection | 御鼓吉音限时任务 | - | - |
 | act5d0 | 喧闹法则 | Code of Brawl | 喧騒の掟 |

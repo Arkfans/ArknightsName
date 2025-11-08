@@ -25144,6 +25144,12 @@
       "zh_CN": "感谢庆典累计签到"
     }
   },
+  "act56sign": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "感谢庆典累计签到"
+    }
+  },
   "act5bossrush": {
     "type": "ACTIVITY",
     "names": {
