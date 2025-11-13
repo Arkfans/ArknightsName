@@ -359,6 +359,9 @@
     ]
   },
   "avg_1042_phatm2_1": {
+    "en_US": [
+      "Lucian"
+    ],
     "ja_JP": [
       "ルシアン"
     ],
@@ -3063,6 +3066,9 @@
     ]
   },
   "avg_4191_tippi_1": {
+    "en_US": [
+      "Tippi"
+    ],
     "ja_JP": [
       "ティッピ"
     ],
@@ -3100,6 +3106,11 @@
     ]
   },
   "avg_4198_christ_1": {
+    "en_US": [
+      "Miss.Christine",
+      "Mysterious and Beautiful Creature",
+      "Mysterious and Elegant Creature"
+    ],
     "ja_JP": [
       "ミス・クリスティーン",
       "謎めいた優雅な生き物",
@@ -3743,6 +3754,7 @@
       "Discouraged Worker",
       "Drunkard",
       "Edgar",
+      "Excited Blacksmith",
       "Filon",
       "Honest Villager",
       "Infected Employee?",
@@ -4021,7 +4033,8 @@
       "Village Headman",
       "Villager",
       "Villager C",
-      "Wallen"
+      "Wallen",
+      "Worried Smith"
     ],
     "ja_JP": [
       "BBQハウスのマスター",
@@ -5578,6 +5591,7 @@
   "avg_npc_045_nn_1": {
     "en_US": [
       "Infected Girl",
+      "Innocent Child",
       "Innocent Girl",
       "Little 'Witch' Minnie",
       "Little Girl"
@@ -8911,7 +8925,10 @@
   },
   "avg_npc_1254_1": {
     "en_US": [
-      "Decrepit Old Man"
+      "Anxious Old Man",
+      "Callisto",
+      "Decrepit Old Man",
+      "Old Clerk"
     ],
     "ja_JP": [
       "カリスト",
@@ -8932,6 +8949,7 @@
     "en_US": [
       "Liberi",
       "Londinium Resident",
+      "Obina",
       "Rental Store Owner"
     ],
     "ja_JP": [
@@ -8976,6 +8994,7 @@
   "avg_npc_1257_1": {
     "en_US": [
       "Adulating Noble",
+      "Auctioneer",
       "Foreign Merchant"
     ],
     "ja_JP": [
@@ -9004,6 +9023,7 @@
   },
   "avg_npc_1259_1": {
     "en_US": [
+      "Glorious Shield Spokesman",
       "Unperturbed Official"
     ],
     "ja_JP": [
@@ -10600,8 +10620,10 @@
       "Extremely Idle Citizen",
       "Gathering Staff",
       "Kindly Servant",
+      "King's Brother",
       "Museum Receptionist",
       "Museum Staff",
+      "New King",
       "Waiter"
     ],
     "ja_JP": [
@@ -10671,9 +10693,12 @@
   "avg_npc_1492_1": {
     "en_US": [
       "Anxious Passerby",
+      "Caravan Leader",
       "Gem Collector",
+      "King",
       "Lamplighter",
-      "Noble Scholar"
+      "Noble Scholar",
+      "Strange Ghost"
     ],
     "ja_JP": [
       "キャラバンのリーダー",
@@ -10696,7 +10721,9 @@
   },
   "avg_npc_1493_1": {
     "en_US": [
-      "Happy Lady"
+      "Former Queen",
+      "Happy Lady",
+      "Queen"
     ],
     "ja_JP": [
       "ご機嫌な婦人",
@@ -10748,7 +10775,8 @@
   },
   "avg_npc_1496_1": {
     "en_US": [
-      "Curious Child"
+      "Curious Child",
+      "Prince"
     ],
     "ja_JP": [
       "王子",
@@ -11344,6 +11372,7 @@
   "avg_npc_1587_1": {
     "en_US": [
       "Inquisition Cleric",
+      "Inquisition Official",
       "Merciless Warrior Priest",
       "Pascuala",
       "Pursuing Warrior Priest",
@@ -11774,7 +11803,8 @@
       "Emilia",
       "Grimed Woman",
       "Passerby Sargon Townsfolk",
-      "Roaming Doctor"
+      "Roaming Doctor",
+      "Worried Villager"
     ],
     "ja_JP": [
       "アイマラ",
@@ -12064,12 +12094,14 @@
     "en_US": [
       "Basil",
       "Doubtful Former Desert Bandit",
+      "Fake Liquor Seller",
       "Impatient Ambassador",
       "Infected Townsfolk",
       "Mayor",
       "Sargon Townsfolk?",
       "Sargonian Janissary",
-      "Townsfolk"
+      "Townsfolk",
+      "Wary Villager"
     ],
     "ja_JP": [
       "ためらう元砂漠の盗賊",
@@ -13397,6 +13429,9 @@
     ]
   },
   "avg_npc_1828_1": {
+    "en_US": [
+      "Lucian"
+    ],
     "ja_JP": [
       "ルシアン"
     ],
@@ -13405,6 +13440,10 @@
     ]
   },
   "avg_npc_1829_1": {
+    "en_US": [
+      "Tragodia",
+      "Troupe Leader"
+    ],
     "ja_JP": [
       "トラゴーディア",
       "劇団長"
@@ -13435,6 +13474,9 @@
     ]
   },
   "avg_npc_1830_1": {
+    "en_US": [
+      "Melanie"
+    ],
     "ja_JP": [
       "メラニー"
     ],
@@ -13443,6 +13485,10 @@
     ]
   },
   "avg_npc_1831_1": {
+    "en_US": [
+      "Moira",
+      "Tippi & Moira"
+    ],
     "ja_JP": [
       "ティッピ&モイラ",
       "モイラ"
@@ -13453,6 +13499,9 @@
     ]
   },
   "avg_npc_1832_1": {
+    "en_US": [
+      "Lucian"
+    ],
     "ja_JP": [
       "ルシアン"
     ],
@@ -13461,6 +13510,9 @@
     ]
   },
   "avg_npc_1833_1": {
+    "en_US": [
+      "Abyss"
+    ],
     "ja_JP": [
       "アビス"
     ],
@@ -13469,6 +13521,9 @@
     ]
   },
   "avg_npc_1834_1": {
+    "en_US": [
+      "Greta"
+    ],
     "ja_JP": [
       "グレータ"
     ],
@@ -13477,6 +13532,9 @@
     ]
   },
   "avg_npc_1835_1": {
+    "en_US": [
+      "Steven"
+    ],
     "ja_JP": [
       "スティーヴン"
     ],
@@ -13485,6 +13543,9 @@
     ]
   },
   "avg_npc_1836_1": {
+    "en_US": [
+      "Shelly"
+    ],
     "ja_JP": [
       "シェリー"
     ],
@@ -13493,6 +13554,10 @@
     ]
   },
   "avg_npc_1837_1": {
+    "en_US": [
+      "Dalton",
+      "Dalton?"
+    ],
     "ja_JP": [
       "ダルトン",
       "ダルトン？"
@@ -13503,6 +13568,9 @@
     ]
   },
   "avg_npc_1838_1": {
+    "en_US": [
+      "Michael"
+    ],
     "ja_JP": [
       "マイケル"
     ],
@@ -13511,6 +13579,9 @@
     ]
   },
   "avg_npc_1839_1": {
+    "en_US": [
+      "Marion"
+    ],
     "ja_JP": [
       "マリオン"
     ],
@@ -13533,6 +13604,9 @@
     ]
   },
   "avg_npc_1840_1": {
+    "en_US": [
+      "Marianne"
+    ],
     "ja_JP": [
       "マリアンナ"
     ],
@@ -13541,6 +13615,9 @@
     ]
   },
   "avg_npc_1841_1": {
+    "en_US": [
+      "Young Lucian"
+    ],
     "ja_JP": [
       "少年ルシアン"
     ],
@@ -13549,6 +13626,9 @@
     ]
   },
   "avg_npc_1843_1": {
+    "en_US": [
+      "Abner"
+    ],
     "ja_JP": [
       "アブナー"
     ],
@@ -13557,6 +13637,9 @@
     ]
   },
   "avg_npc_1844_1": {
+    "en_US": [
+      "Camera Assistant"
+    ],
     "ja_JP": [
       "撮影アシスタント"
     ],
@@ -13567,6 +13650,14 @@
     ]
   },
   "avg_npc_1845_1": {
+    "en_US": [
+      "Angry Staff",
+      "Panicking Staff",
+      "Scared Staff",
+      "Staff",
+      "Staff A",
+      "Staff C"
+    ],
     "ja_JP": [
       "スタッフ",
       "スタッフC",
@@ -13585,6 +13676,9 @@
     ]
   },
   "avg_npc_1846_1": {
+    "en_US": [
+      "Unlucky Stagehand"
+    ],
     "ja_JP": [
       "不運なスタッフ"
     ],
@@ -13595,6 +13689,13 @@
     ]
   },
   "avg_npc_1847_1": {
+    "en_US": [
+      "Confused Staff B",
+      "Scared Staff",
+      "Skeptical Staff",
+      "Staff",
+      "Staff B"
+    ],
     "ja_JP": [
       "スタッフ",
       "スタッフＢ",
@@ -13611,6 +13712,9 @@
     ]
   },
   "avg_npc_1848_1": {
+    "en_US": [
+      "Laura"
+    ],
     "ja_JP": [
       "ローラ"
     ],
@@ -14620,6 +14724,7 @@
   },
   "avg_npc_212_1": {
     "en_US": [
+      "McKee",
       "Spokesman McKee"
     ],
     "ja_JP": [
@@ -14876,6 +14981,7 @@
       "Manager",
       "Mayor's Secretary",
       "National Council Representative",
+      "Navigator",
       "Office Clerk",
       "Prosecutor",
       "Raythean Industries Representative",
@@ -14978,6 +15084,7 @@
       "Retained Lawyer",
       "Snobby Official",
       "Staff Worker",
+      "Technician",
       "Tired Corporate Employee",
       "Uniformed Worker",
       "Witness"
@@ -15541,7 +15648,8 @@
       "Pasado",
       "Sorrowful Woman",
       "Taran Refugee",
-      "Townsfolk B"
+      "Townsfolk B",
+      "Worried Maid"
     ],
     "ja_JP": [
       "クロエ",
@@ -17840,6 +17948,7 @@
       "Farmer",
       "Frantic Man",
       "Gali",
+      "Gossipy Manservant",
       "Hairdresser",
       "Impatient Citizen",
       "Londinium Citizen",
@@ -18912,6 +19021,7 @@
       "Babel Doctor",
       "Community Musician",
       "Dejected Babel Member",
+      "Enthusiastic Citizen",
       "Excited Afterglow Resident",
       "Frau Perry",
       "Happy Leithanian Tourist",
@@ -24470,6 +24580,7 @@
   },
   "char_250_phantom_1": {
     "en_US": [
+      "Lucian",
       "Phantom"
     ],
     "ja_JP": [

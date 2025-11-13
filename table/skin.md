@@ -102,7 +102,7 @@ tip: 请善用浏览器的搜索功能
 | char_151_myrtle@epoque#12 | 淡金庆典 | Light Gold Celebration | 金色のマーチ |
 | char_151_myrtle@summer#12 | 夏卉 FA062 | Summer Flowers FA062 | 夏の花弁FA062 |
 | char_151_myrtle@taiko#1 | 繁闹祭典 | - | - |
-| char_154_morgan@epoque#47 | 字里行间 | - | 綴った裏に |
+| char_154_morgan@epoque#47 | 字里行间 | Behind the Words | 綴った裏に |
 | char_155_tiger@striker#2 | 悍将 | Valiant General | 猛将 |
 | char_158_milu@snow#2 | 覆雪 | Snowywatch | 白い狩人 |
 | char_158_milu@wild#2 | 枯柏 | Wilted Cypress | 枯れ柏 |
@@ -339,14 +339,14 @@ tip: 请善用浏览器的搜索功能
 | char_4064_mlynar@iteration#3 | 苍茫怒号 | Roar Against the Wilds | 反逆の咆哮 |
 | char_4065_judge@epoque#33 | 记叙 | Scribing | 書き記す者 |
 | char_4065_judge@snow#6 | 偶尔醉陶 | Occasionally Flushed | たまの深酒 |
-| char_4066_highmo@epoque#45 | 搁浅 | - | 座礁 |
+| char_4066_highmo@epoque#45 | 搁浅 | Stranded | 座礁 |
 | char_4066_highmo@nian#10 | 及山海 | The Land With Me | 隣山海 |
 | char_4071_peper@whirlwind#5 | 来路 | The Road to Here | 来た道 |
 | char_4072_ironmn@ambienceSynesthesia#5 | 空心王冠 | Empty Crown | 空っぽの王冠 |
 | char_4072_ironmn@summer#11 | 沙滩护卫 GT003 | Beach Guard GT003 | 砂浜の番人GT003 |
 | char_4077_palico@mh#1 | 跃上街头 | Fly Into the Street | 街へ飛び出せ |
 | char_4078_bdhkgt@yun#2 | 伴青莲 | Away From Dust | 青蓮の友 |
-| char_4079_haini@epoque#45 | 翻涌 | - | 潮波 |
+| char_4079_haini@epoque#45 | 翻涌 | Tidal Bore | 潮波 |
 | char_4080_lin@nian#10 | 列瑶台 | Heavenly Mirage | 列瑶台 |
 | char_4080_lin@summer#19 | 夏卉 FA137 | - | - |
 | char_4081_warmy@winter#4 | 街角暖绒 | Warm Velvet At the Corner | 街角の温もり |
@@ -377,11 +377,11 @@ tip: 请善用浏览器的搜索功能
 | char_4125_rdoc@rainbow6#2 | 展览 | Exhibition | エキシビション |
 | char_4130_luton@yun#6 | 寄遥思 | Whispered Longing | 寄遥思 |
 | char_4131_odda@whirlwind#8 | 糖果暴击 | Candy Strike | キャンディーストライク |
-| char_4132_ascln@iteration#4 | 趋光之暗 | - | 光を払う闇 |
+| char_4132_ascln@iteration#4 | 趋光之暗 | Phototaxis | 光を払う闇 |
 | char_4133_logos@ambienceSynesthesia#6 | 辉煌的静谧 | Radiant Serenity | 輝耀なる静謐 |
 | char_4134_cetsyr@epoque#50 | 追悼 | - | - |
 | char_4136_phonor@boc#9 | 最初的颂歌 | Primordial Ode | 始まりの賛歌 |
-| char_4137_udflow@epoque#46 | 层流 | - | 層流 |
+| char_4137_udflow@epoque#46 | 层流 | Laminar Flow | 層流 |
 | char_4138_narant@breaker#1 | 链锯陪护者 | - | - |
 | char_4140_lasher@sightseer#3 | 憩羽 | - | - |
 | char_4141_marcil@dungeon#1 | 泰拉冒险 | Terra & Traveller | テラの冒険者 |

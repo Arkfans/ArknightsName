@@ -46,7 +46,7 @@ tip: 请善用浏览器的搜索功能
 | avg_1040_blaze2_1 | 煌 | Blaze | ホァン |
 |   | 维多利亚游客？ | Victorian Tourist? | ヴィクトリアの観光客？ |
 | avg_1041_angel2_1 | 能天使 | Exusiai | エクシア |
-| avg_1042_phatm2_1 | 卢西恩 | - | ルシアン |
+| avg_1042_phatm2_1 | 卢西恩 | Lucian | ルシアン |
 | avg_1043_leizi2_1 | 麟青砚 | - | - |
 | avg_1044_hsgma2_1 | 星熊 | - | - |
 | avg_1045_svash2_1 | 恩希欧迪斯 | - | - |
@@ -409,15 +409,15 @@ tip: 请善用浏览器的搜索功能
 | avg_4187_graceb_1 | 努艾达 | Alert Nun | ヌエダ |
 |   | 警惕的修女 | Nueda | 警戒するシスター |
 | avg_4188_confes_1 | 自律告解车 | Automated Confessional | 自律式告解ロボット |
-| avg_4191_tippi_1 | 场记&蒂比 | - | ティッピ |
+| avg_4191_tippi_1 | 场记&蒂比 | Tippi | ティッピ |
 |   | 蒂比 |   |   |
 |   | 马修&蒂比 |   |   |
 | avg_4193_lemuen_1 | 蕾缪安 | Lemuen | レミュアン |
 | avg_4194_rmixer_1 | 帕特里奇昂 | Patrizion | パトリツィオ |
 | avg_4196_reckpr_1 | 云青萍 | - | - |
-| avg_4198_christ_1 | Miss.Christine | - | ミス・クリスティーン |
-|   | 神秘优雅的生物 |   | 謎めいた優雅な生き物 |
-|   | 神秘美丽的生物 |   | 謎めいた美しい生き物 |
+| avg_4198_christ_1 | Miss.Christine | Miss.Christine | ミス・クリスティーン |
+|   | 神秘优雅的生物 | Mysterious and Beautiful Creature | 謎めいた優雅な生き物 |
+|   | 神秘美丽的生物 | Mysterious and Elegant Creature | 謎めいた美しい生き物 |
 | avg_4199_makiri_1 | 摊位老板 | - | - |
 |   | 森内 |   |   |
 | avg_4202_haruka_1 | 刚入行的忍者 | - | - |
@@ -511,26 +511,26 @@ tip: 请善用浏览器的搜索功能
 |   | 店主 | Discouraged Worker | フェロン |
 |   | 强壮的镇民 | Drunkard | 住民 |
 |   | 思索的信徒 | Edgar | 作業員 |
-|   | 急躁的感染者 | Filon | 元気になった労働者 |
-|   | 愉快的工人 | Honest Villager | 労働者 |
-|   | 感染者员工？ | Infected Employee? | 坑夫？ |
-|   | 村民A | Irritable Infected | 嬉しそうな労働者 |
-|   | 灰心丧气的工人 | Joyful Worker | 客D |
-|   | 猎人弟弟 | Kuranta | 店主 |
-|   | 疲惫的工人 | Miner ??? | 彫の深い墓掘り人 |
-|   | 矿工？ | Neighbor A | 怪しい通行人？ |
-|   | 社区小贩 | Operating Crew | 息巻く感染者 |
-|   | 社区居民 | Pondering Follower | 感染者従業員？ |
-|   | 精神的工人 | Spirited Worker | 村人 |
-|   | 老实的村民 | Strong Townsfolk | 村人A |
-|   | 胆怯的工人 | Timid Miner | 狩人の弟 |
-|   | 艾德格 | Tired Worker | 疲れ切った労働者 |
-|   | 菲隆 | Townsfolk | 考える信徒 |
-|   | 邻居A | Villager A | 臆病な労働者 |
-|   | 醉汉 | Weary-eyed Gravedigger | 興奮している鍛冶職人 |
-|   | 镇民 | Worker | 落胆した労働者 |
-|   | 阿贝尔 | Young Hunter | 誠実な村人 |
-|   | 食客D |   | 酔っ払い |
+|   | 急躁的感染者 | Excited Blacksmith | 元気になった労働者 |
+|   | 愉快的工人 | Filon | 労働者 |
+|   | 感染者员工？ | Honest Villager | 坑夫？ |
+|   | 村民A | Infected Employee? | 嬉しそうな労働者 |
+|   | 灰心丧气的工人 | Irritable Infected | 客D |
+|   | 猎人弟弟 | Joyful Worker | 店主 |
+|   | 疲惫的工人 | Kuranta | 彫の深い墓掘り人 |
+|   | 矿工？ | Miner ??? | 怪しい通行人？ |
+|   | 社区小贩 | Neighbor A | 息巻く感染者 |
+|   | 社区居民 | Operating Crew | 感染者従業員？ |
+|   | 精神的工人 | Pondering Follower | 村人 |
+|   | 老实的村民 | Spirited Worker | 村人A |
+|   | 胆怯的工人 | Strong Townsfolk | 狩人の弟 |
+|   | 艾德格 | Timid Miner | 疲れ切った労働者 |
+|   | 菲隆 | Tired Worker | 考える信徒 |
+|   | 邻居A | Townsfolk | 臆病な労働者 |
+|   | 醉汉 | Villager A | 興奮している鍛冶職人 |
+|   | 镇民 | Weary-eyed Gravedigger | 落胆した労働者 |
+|   | 阿贝尔 | Worker | 誠実な村人 |
+|   | 食客D | Young Hunter | 酔っ払い |
 |   |   |   | 隣人A |
 | avg_npc_002 | 卡西米尔村民 | A Kazimierz Villager | だるそうなコミュニティ住民 |
 |   | 卡西米尔流氓 | Angry Infected | カジミエーシュのごろつき |
@@ -612,6 +612,7 @@ tip: 请善用浏览器的搜索功能
 |   | 落魄的店主 | Villager | 道を急ぐ労働者 |
 |   | 赶路的工人 | Villager C | 高齢の工員 |
 |   | 面包摊主 | Wallen |   |
+|   |   | Worried Smith |   |
 | avg_npc_006 | 叼牙签的工人 | A Spectating Infected | くたびれた労働者 |
 |   | 商人 | Bar Owner | アル |
 |   | 小镇放映员 | Caravan Trader | エンジニアアンドレイ |
@@ -1028,10 +1029,10 @@ tip: 请善用浏览器的搜索功能
 |   | 胆小的孩子 | Little Girl | 臆病な子供 |
 |   |   | Timid Child |   |
 | avg_npc_045_nn_1 | “女巫”小敏 | Infected Girl | 「魔女」ミン |
-|   | 天真的小女孩 | Innocent Girl | ピュアな女の子 |
-|   | 小女孩 | Little 'Witch' Minnie | 何も知らない子供 |
-|   | 小沅 | Little Girl | 女の子 |
-|   | 感染者女孩 |   | 小さな女の子 |
+|   | 天真的小女孩 | Innocent Child | ピュアな女の子 |
+|   | 小女孩 | Innocent Girl | 何も知らない子供 |
+|   | 小沅 | Little 'Witch' Minnie | 女の子 |
+|   | 感染者女孩 | Little Girl | 小さな女の子 |
 |   | 感染者小女孩 |   | 感染者の女の子 |
 |   | 感染者少女 |   | 感染者少女 |
 |   | 懵懂的孩童 |   |   |
@@ -1723,16 +1724,16 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_1252_1 | 窘迫的老人 | Embarrassed Old Man | 元気な老人 |
 |   | 精神的老人 | Spirited Old Man | 困り果てた老人 |
 | avg_npc_1253_1 | 铳械维修师 | Gunsmith | 銃の修理技師 |
-| avg_npc_1254_1 | 伊安 | Decrepit Old Man | カリスト |
-|   | 卡利托 |   | ベテラン事務官 |
-|   | 沉默的老人 |   | 焦っている老人 |
-|   | 焦急的老人 |   | 衰弱した老人 |
+| avg_npc_1254_1 | 伊安 | Anxious Old Man | カリスト |
+|   | 卡利托 | Callisto | ベテラン事務官 |
+|   | 沉默的老人 | Decrepit Old Man | 焦っている老人 |
+|   | 焦急的老人 | Old Clerk | 衰弱した老人 |
 |   | 老文书官 |   |   |
 |   | 衰朽的老人 |   |   |
 | avg_npc_1255_1 | 伦蒂尼姆居民 | Liberi | オビーナ |
 |   | 克拉拉 | Londinium Resident | リーベリ |
-|   | 卖花的妇人 | Rental Store Owner | レンタルショップ店主 |
-|   | 奥比娜 |   | ロンディニウム住民 |
+|   | 卖花的妇人 | Obina | レンタルショップ店主 |
+|   | 奥比娜 | Rental Store Owner | ロンディニウム住民 |
 |   | 忙碌的老人 |   |   |
 |   | 租赁店老板 |   |   |
 |   | 黎博利 |   |   |
@@ -1742,13 +1743,13 @@ tip: 请善用浏览器的搜索功能
 |   | 慌张的文员 | Flustered Clerk | 派手に着飾る男性 |
 |   | 珠光宝气的男性 | Merchant | 興奮する商人 |
 | avg_npc_1257_1 | 事务所所长 | Adulating Noble | こびへつらう貴族 |
-|   | 外国富商 | Foreign Merchant | オークショニア |
-|   | 工厂老板 |   | 外国の豪商 |
+|   | 外国富商 | Auctioneer | オークショニア |
+|   | 工厂老板 | Foreign Merchant | 外国の豪商 |
 |   | 拍卖师 |   |   |
 |   | 谄媚的贵族 |   |   |
 | avg_npc_1258_1 | 风姿绰约的女人 | Elegant Woman | 優美な女性 |
-| avg_npc_1259_1 | 平静的文官 | Unperturbed Official | グローリーシールドの代弁者 |
-|   | 疲惫的工作人员 |   | 冷静な文官 |
+| avg_npc_1259_1 | 平静的文官 | Glorious Shield Spokesman | グローリーシールドの代弁者 |
+|   | 疲惫的工作人员 | Unperturbed Official | 冷静な文官 |
 |   | 辉煌盾发言人 |   |   |
 | avg_npc_1260_1 | 助理 | - | - |
 |   | 赤心医疗人事专员 |   |   |
@@ -2032,11 +2033,11 @@ tip: 请善用浏览器的搜索功能
 |   | 侍者 | Extremely Idle Citizen | ホテルの受付係 |
 |   | 博物馆员工 | Gathering Staff | 優雅な男性 |
 |   | 国王的弟弟 | Kindly Servant | 博物館職員 |
-|   | 新国王 | Museum Receptionist | 国王の弟 |
-|   | 旅馆接待员 | Museum Staff | 新しい国王 |
-|   | 无所事事的市民 | Waiter | 暇な市民 |
-|   | 温柔的仆人 |   | 祭りスタッフ |
-|   | 集会工作人员 |   | 穏やかな使用人 |
+|   | 新国王 | King's Brother | 国王の弟 |
+|   | 旅馆接待员 | Museum Receptionist | 新しい国王 |
+|   | 无所事事的市民 | Museum Staff | 暇な市民 |
+|   | 温柔的仆人 | New King | 祭りスタッフ |
+|   | 集会工作人员 | Waiter | 穏やかな使用人 |
 | avg_npc_1491_1 | 博物馆员工 | Ceremony Host | ラサド |
 |   | 博物馆售票员 | Doting Servant | 優しい母親 |
 |   | 宠溺的仆人 | Eager Woman | 博物館チケット販売員 |
@@ -2049,15 +2050,15 @@ tip: 请善用浏览器的搜索功能
 |   | 躲在花丛中的仆人 | Rashad | 退屈な市民 |
 |   | 集会主持人 | Servant in Bushes | 過保護な使用人 |
 | avg_npc_1492_1 | 出身高贵的学者 | Anxious Passerby | キャラバンのリーダー |
-|   | 商队头领 | Gem Collector | ランプライター |
-|   | 国王 | Lamplighter | 国王 |
-|   | 奇异的鬼魂 | Noble Scholar | 奇妙な亡霊 |
-|   | 宝石收藏家 |   | 宝石収集家 |
-|   | 惊慌的路人 |   | 慌てる通行人 |
-|   | 点灯人 |   | 高貴な生まれの学者 |
-| avg_npc_1493_1 | 前王后 | Happy Lady | ご機嫌な婦人 |
-|   | 欢乐的妇人 |   | 前王妃 |
-|   | 王后 |   | 王妃 |
+|   | 商队头领 | Caravan Leader | ランプライター |
+|   | 国王 | Gem Collector | 国王 |
+|   | 奇异的鬼魂 | King | 奇妙な亡霊 |
+|   | 宝石收藏家 | Lamplighter | 宝石収集家 |
+|   | 惊慌的路人 | Noble Scholar | 慌てる通行人 |
+|   | 点灯人 | Strange Ghost | 高貴な生まれの学者 |
+| avg_npc_1493_1 | 前王后 | Former Queen | ご機嫌な婦人 |
+|   | 欢乐的妇人 | Happy Lady | 前王妃 |
+|   | 王后 | Queen | 王妃 |
 | avg_npc_1494_1 | 交易所男员工 | Male Trading Post Staff | 凝った服装の市民 |
 |   | 惊恐的集会裁判 | Nervous Ceremony Judge | 取引所の男性スタッフ |
 |   | 紧张的集会裁判 | Terrified Ceremony Judge | 恐怖に駆られる審査員 |
@@ -2066,7 +2067,7 @@ tip: 请善用浏览器的搜索功能
 |   | 交易所女员工 | Gem Merchant | 宝石商人 |
 |   | 宝石商人 | Meticulous Ceremony Judge | 真面目な審査員 |
 | avg_npc_1496_1 | 好奇的孩子 | Curious Child | 王子 |
-|   | 小王子 |   | 興味津々の子供 |
+|   | 小王子 | Prince | 興味津々の子供 |
 | avg_npc_1497_1 | 伤心的女孩 | Curious Girl | すすり泣く女の子 |
 |   | 啜泣的女孩 | Girl by the Shore | 傷付いた少女 |
 |   | 好奇的女孩 | Happy Girl | 喜ぶ女の子 |
@@ -2153,17 +2154,17 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_1586_1 | 古怪的生物 | Nene | ネネ |
 |   | 宝宝 | Strange Creature | 奇妙な生き物 |
 | avg_npc_1587_1 | 习武教士 | Inquisition Cleric | パスクアラ |
-|   | 习武教士A | Merciless Warrior Priest | 冷酷な武装修道士 |
-|   | 习武教士B | Pascuala | 大柄な武装修道士 |
-|   | 冷酷的习武教士 | Pursuing Warrior Priest | 悲しむ武装修道士 |
-|   | 审判庭官员 | Reliable Warrior Priest | 武装修道士 |
-|   | 审判庭教士 | Sad Warrior Priest | 武装修道士A |
-|   | 尽责的习武教士 | Serious Warrior Priest | 武装修道士B |
-|   | 帕斯卡拉 | Tall Warrior Priest | 真面目な武装修道士 |
-|   | 悲伤的习武教士 | Warrior Priest | 裁判所の修道士 |
-|   | 认真的习武教士 | Warrior Priest A | 裁判所の役人 |
-|   | 追击的习武教士 | Warrior Priest B | 責任感の強い武装修道士 |
-|   | 高大的习武教士 |   | 追撃する武装修道士 |
+|   | 习武教士A | Inquisition Official | 冷酷な武装修道士 |
+|   | 习武教士B | Merciless Warrior Priest | 大柄な武装修道士 |
+|   | 冷酷的习武教士 | Pascuala | 悲しむ武装修道士 |
+|   | 审判庭官员 | Pursuing Warrior Priest | 武装修道士 |
+|   | 审判庭教士 | Reliable Warrior Priest | 武装修道士A |
+|   | 尽责的习武教士 | Sad Warrior Priest | 武装修道士B |
+|   | 帕斯卡拉 | Serious Warrior Priest | 真面目な武装修道士 |
+|   | 悲伤的习武教士 | Tall Warrior Priest | 裁判所の修道士 |
+|   | 认真的习武教士 | Warrior Priest | 裁判所の役人 |
+|   | 追击的习武教士 | Warrior Priest A | 責任感の強い武装修道士 |
+|   | 高大的习武教士 | Warrior Priest B | 追撃する武装修道士 |
 | avg_npc_1588_1 | 兴奋的船员 | Angry Sailor | おののく船員 |
 |   | 坚定的船员 | Doubting Sailor | 切羽詰まった海賊 |
 |   | 急切的海盗 | Eager Pirate | 怒る船員 |
@@ -2241,7 +2242,7 @@ tip: 请善用浏览器的搜索功能
 |   | 担忧的村民 | Grimed Woman | 巡回医師 |
 |   | 灰头土脸的女人 | Passerby Sargon Townsfolk | 心配そうな村人 |
 |   | 爱麦拉 | Roaming Doctor | 意気消沈した女性 |
-|   | 路过的萨尔贡镇民 |   | 明るい元砂漠の盗賊 |
+|   | 路过的萨尔贡镇民 | Worried Villager | 明るい元砂漠の盗賊 |
 |   | 阿诺 |   |   |
 | avg_npc_1630_1 | 大理寺司狱官 | Brocade-Robed Mandarin | 大理寺司官吏 |
 |   | 大理寺官员 | Exhausted Judicial Official | 大理寺司獄官 |
@@ -2303,14 +2304,14 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_1645_1 | 文月 | Fumizuki | フミヅキ |
 | avg_npc_165 | 假酒贩子 | Basil | ためらう元砂漠の盗賊 |
 |   | 局促的使节 | Doubtful Former Desert Bandit | サルゴン町民？ |
-|   | 巴塞尔 | Impatient Ambassador | サルゴン近衛兵 |
-|   | 感染者镇民 | Infected Townsfolk | バーゼル |
-|   | 犹疑的前沙盗 | Mayor | 不安げな使節 |
-|   | 萨尔贡亲兵 | Sargon Townsfolk? | 偽酒商人 |
-|   | 萨尔贡镇民？ | Sargonian Janissary | 感染者の町民 |
-|   | 警惕的村民 | Townsfolk | 町民 |
-|   | 镇民 |   | 町長 |
-|   | 镇长 |   | 警戒している村人 |
+|   | 巴塞尔 | Fake Liquor Seller | サルゴン近衛兵 |
+|   | 感染者镇民 | Impatient Ambassador | バーゼル |
+|   | 犹疑的前沙盗 | Infected Townsfolk | 不安げな使節 |
+|   | 萨尔贡亲兵 | Mayor | 偽酒商人 |
+|   | 萨尔贡镇民？ | Sargon Townsfolk? | 感染者の町民 |
+|   | 警惕的村民 | Sargonian Janissary | 町民 |
+|   | 镇民 | Townsfolk | 町長 |
+|   | 镇长 | Wary Villager | 警戒している村人 |
 | avg_npc_166 | 黑 | Schwarz | シュヴァルツ |
 | avg_npc_1663_1 | 帕尤卡卡 | Mysterious Man | パリアカカ |
 |   | 神秘的男人 | Paryaqaqa | 謎の男 |
@@ -2531,48 +2532,48 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_1811_1 | 蕾缪安 | Lemuen | レミュアン |
 | avg_npc_182 | 审判官 | Inquisitor | 審問官 |
 |   | 审判官艾丽妮 | Inquisitor Irene | 審問官アイリーニ |
-| avg_npc_1828_1 | 卢西恩 | - | ルシアン |
-| avg_npc_1829_1 | 剧团长 | - | トラゴーディア |
-|   | 酒神 |   | 劇団長 |
+| avg_npc_1828_1 | 卢西恩 | Lucian | ルシアン |
+| avg_npc_1829_1 | 剧团长 | Tragodia | トラゴーディア |
+|   | 酒神 | Troupe Leader | 劇団長 |
 | avg_npc_183 | 大审判官 | Dario, Unspeaking | 大審問官 |
 |   | 大审判官达里奥 | High Inquisitor | 大審問官ダリオ |
 |   | 审判官艾丽妮 | High Inquisitor Dario | 審問官アイリーニ |
 |   | 无言的达里奥 | Inquisitor Irene | 言葉なきダリオ |
-| avg_npc_1830_1 | 米兰妮 | - | メラニー |
-| avg_npc_1831_1 | 莫伊拉 | - | ティッピ&モイラ |
-|   | 蒂比&莫伊拉 |   | モイラ |
-| avg_npc_1832_1 | 卢西恩 | - | ルシアン |
-| avg_npc_1833_1 | 沉渊 | - | アビス |
-| avg_npc_1834_1 | 格蕾塔 | - | グレータ |
-| avg_npc_1835_1 | 斯蒂芬 | - | スティーヴン |
-| avg_npc_1836_1 | 谢莉 | - | シェリー |
-| avg_npc_1837_1 | 道尔顿 | - | ダルトン |
-|   | 道尔顿？ |   | ダルトン？ |
-| avg_npc_1838_1 | 迈克尔 | - | マイケル |
-| avg_npc_1839_1 | 玛丽昂 | - | マリオン |
+| avg_npc_1830_1 | 米兰妮 | Melanie | メラニー |
+| avg_npc_1831_1 | 莫伊拉 | Moira | ティッピ&モイラ |
+|   | 蒂比&莫伊拉 | Tippi & Moira | モイラ |
+| avg_npc_1832_1 | 卢西恩 | Lucian | ルシアン |
+| avg_npc_1833_1 | 沉渊 | Abyss | アビス |
+| avg_npc_1834_1 | 格蕾塔 | Greta | グレータ |
+| avg_npc_1835_1 | 斯蒂芬 | Steven | スティーヴン |
+| avg_npc_1836_1 | 谢莉 | Shelly | シェリー |
+| avg_npc_1837_1 | 道尔顿 | Dalton | ダルトン |
+|   | 道尔顿？ | Dalton? | ダルトン？ |
+| avg_npc_1838_1 | 迈克尔 | Michael | マイケル |
+| avg_npc_1839_1 | 玛丽昂 | Marion | マリオン |
 | avg_npc_184 | 主教 | Bishop | 司教 |
 |   | 盐风主教 | Sal Viento Bishop | 潮風の司教 |
-| avg_npc_1840_1 | 玛丽安娜 | - | マリアンナ |
-| avg_npc_1841_1 | 小卢西恩 | - | 少年ルシアン |
-| avg_npc_1843_1 | 阿布纳 | - | アブナー |
-| avg_npc_1844_1 | 摄影助理 | - | 撮影アシスタント |
+| avg_npc_1840_1 | 玛丽安娜 | Marianne | マリアンナ |
+| avg_npc_1841_1 | 小卢西恩 | Young Lucian | 少年ルシアン |
+| avg_npc_1843_1 | 阿布纳 | Abner | アブナー |
+| avg_npc_1844_1 | 摄影助理 | Camera Assistant | 撮影アシスタント |
 |   | 摄影师 |   |   |
 |   | 马修 |   |   |
-| avg_npc_1845_1 | 害怕的工作人员 | - | スタッフ |
-|   | 工作人员 |   | スタッフC |
-|   | 工作人员A |   | スタッフＡ |
-|   | 工作人员C |   | 怒るスタッフ |
-|   | 愤怒的工作人员 |   | 恐れるスタッフ |
-|   | 慌乱的工作人员 |   | 慌てるスタッフ |
-| avg_npc_1846_1 | 倒霉的场工 | - | 不運なスタッフ |
+| avg_npc_1845_1 | 害怕的工作人员 | Angry Staff | スタッフ |
+|   | 工作人员 | Panicking Staff | スタッフC |
+|   | 工作人员A | Scared Staff | スタッフＡ |
+|   | 工作人员C | Staff | 怒るスタッフ |
+|   | 愤怒的工作人员 | Staff A | 恐れるスタッフ |
+|   | 慌乱的工作人员 | Staff C | 慌てるスタッフ |
+| avg_npc_1846_1 | 倒霉的场工 | Unlucky Stagehand | 不運なスタッフ |
 |   | 场记 |   |   |
 |   | 艾琳 |   |   |
-| avg_npc_1847_1 | 害怕的工作人员 | - | スタッフ |
-|   | 工作人员 |   | スタッフＢ |
-|   | 工作人员B |   | 呆然とするスタッフＢ |
-|   | 怀疑的工作人员 |   | 恐れるスタッフ |
-|   | 迷茫的工作人员B |   | 疑うスタッフ |
-| avg_npc_1848_1 | 劳拉 | - | ローラ |
+| avg_npc_1847_1 | 害怕的工作人员 | Confused Staff B | スタッフ |
+|   | 工作人员 | Scared Staff | スタッフＢ |
+|   | 工作人员B | Skeptical Staff | 呆然とするスタッフＢ |
+|   | 怀疑的工作人员 | Staff | 恐れるスタッフ |
+|   | 迷茫的工作人员B | Staff B | 疑うスタッフ |
+| avg_npc_1848_1 | 劳拉 | Laura | ローラ |
 | avg_npc_186 | 海嗣 | Seaborn | 「シーボーン」 |
 |   |   |   | シーボーン |
 | avg_npc_1866_1 | 冷酷的剑客 | - | - |
@@ -2868,8 +2869,8 @@ tip: 请善用浏览器的搜索功能
 |   | 罗素 | Russell |   |
 | avg_npc_211_1 | 发言人马克维茨 | Malkiewicz | マルキェヴィッチ |
 |   | 马克维茨 | Spokesman Malkiewicz | 代弁者マルキェヴィッチ |
-| avg_npc_212_1 | 发言人麦基 | Spokesman McKee | マッキー |
-|   | 麦基 |   | 代弁者マッキー |
+| avg_npc_212_1 | 发言人麦基 | McKee | マッキー |
+|   | 麦基 | Spokesman McKee | 代弁者マッキー |
 | avg_npc_213 | 瑟丽斯夫人 | Mrs. Selis | シアーシャ |
 |   | 西尔莎 | Saoirse | セリス夫人 |
 | avg_npc_213_1 | 托兰 | Toland | トーランド |
@@ -2940,17 +2941,17 @@ tip: 请善用浏览器的搜索功能
 |   | 愤慨的使节 | Manager | 企業職員 |
 |   | 神秘的访客 | Mayor's Secretary | 傲慢な役人 |
 |   | 秘书 | National Council Representative | 商業スパイ |
-|   | 竞技场员工 | Office Clerk | 国民議会代表 |
-|   | 红酒报资深编辑 | Prosecutor | 地味な男性 |
-|   | 经纪人 | Raythean Industries Representative | 怒った使節 |
-|   | 职员模样的男人 | Red Wine Senior Editor | 検察 |
-|   | 西装革履的男人 | Secretary | 町長秘書 |
-|   | 认真的企业员工 | Serious Corporate Employee | 真面目な企業職員 |
-|   | 议员助理 | Staff | 秘書 |
-|   | 记者 | Staff Worker | 競技場職員 |
-|   | 镇长秘书 | Travel-Stained Lawyer | 職員のような男 |
-|   | 雷神工业代表 | Unremarkable Man | 長旅で疲弊した弁護士 |
-|   | 领航员 |   |   |
+|   | 竞技场员工 | Navigator | 国民議会代表 |
+|   | 红酒报资深编辑 | Office Clerk | 地味な男性 |
+|   | 经纪人 | Prosecutor | 怒った使節 |
+|   | 职员模样的男人 | Raythean Industries Representative | 検察 |
+|   | 西装革履的男人 | Red Wine Senior Editor | 町長秘書 |
+|   | 认真的企业员工 | Secretary | 真面目な企業職員 |
+|   | 议员助理 | Serious Corporate Employee | 秘書 |
+|   | 记者 | Staff | 競技場職員 |
+|   | 镇长秘书 | Staff Worker | 職員のような男 |
+|   | 雷神工业代表 | Travel-Stained Lawyer | 長旅で疲弊した弁護士 |
+|   | 领航员 | Unremarkable Man |   |
 |   | 风尘仆仆的律师 |   |   |
 |   | 高傲的官员 |   |   |
 | avg_npc_223 | 下班的员工 | A Commuting Worker | エンジニア |
@@ -2980,10 +2981,10 @@ tip: 请善用浏览器的搜索功能
 |   | 研究员 | Retained Lawyer | 職員 |
 |   | 礼仪社员工 | Snobby Official | 若手投資家 |
 |   | 穿制服的工作人员 | Staff Worker | 見習い記者 |
-|   | 粗心的社工 | Tired Corporate Employee | 記者らしき男 |
-|   | 红酒报实习记者 | Uniformed Worker | 退屈そうな銀行員 |
-|   | 线人 | Witness | 通報者 |
-|   | 艺术馆工作人员 |   | 銀行員 |
+|   | 粗心的社工 | Technician | 記者らしき男 |
+|   | 红酒报实习记者 | Tired Corporate Employee | 退屈そうな銀行員 |
+|   | 线人 | Uniformed Worker | 通報者 |
+|   | 艺术馆工作人员 | Witness | 銀行員 |
 |   | 记者模样的人 |   | 雇われ弁護士 |
 |   | 银行员工 |   | 騎士スカウト |
 |   | 骑探 |   |   |
@@ -3128,7 +3129,7 @@ tip: 请善用浏览器的搜索功能
 |   | 瘦弱的女人 | Sorrowful Woman | 臆病な使用人 |
 |   | 精神的女病人 | Taran Refugee | 苦しむ難民 |
 |   | 紧张的塔拉流民 | Townsfolk B | 落ち着いた女性 |
-|   | 谨小慎微的佣人 |   | 落ち着いた感染者 |
+|   | 谨小慎微的佣人 | Worried Maid | 落ち着いた感染者 |
 |   | 贵族妹妹 |   | 貴族の妹 |
 |   | 邻居B |   |   |
 |   | 镇定的女士 |   |   |
@@ -3640,15 +3641,15 @@ tip: 请善用浏览器的搜索功能
 |   | 加利 | Farmer | 口さがない使用人 |
 |   | 匆忙的男性 | Frantic Man | 怒った暴徒 |
 |   | 局促的市民 | Gali | 急いでいる男性 |
-|   | 愤怒的暴徒 | Hairdresser | 新聞露店オーナー |
-|   | 报刊亭老板 | Impatient Citizen | 歓喜する住民 |
-|   | 欢呼的市民 | Londinium Citizen | 理髪師 |
-|   | 激动的居民 | Messenger | 興奮した住民 |
-|   | 激动的暴徒 | Newsagent | 興奮した暴徒 |
-|   | 理发师 | Skeptical Citizen | 落ち着かない市民 |
-|   | 疑惑的居民 | Tired Citizen | 訝しむ住民 |
-|   | 疑惑的市民 | Worked-Up Thug | 農夫 |
-|   | 疲惫的市民 |   | 食堂管理員 |
+|   | 愤怒的暴徒 | Gossipy Manservant | 新聞露店オーナー |
+|   | 报刊亭老板 | Hairdresser | 歓喜する住民 |
+|   | 欢呼的市民 | Impatient Citizen | 理髪師 |
+|   | 激动的居民 | Londinium Citizen | 興奮した住民 |
+|   | 激动的暴徒 | Messenger | 興奮した暴徒 |
+|   | 理发师 | Newsagent | 落ち着かない市民 |
+|   | 疑惑的居民 | Skeptical Citizen | 訝しむ住民 |
+|   | 疑惑的市民 | Tired Citizen | 農夫 |
+|   | 疲惫的市民 | Worked-Up Thug | 食堂管理員 |
 |   | 食堂管理员 |   |   |
 | avg_npc_418_1 | 不再愤怒的居民 | Catastrophe Messenger | すらっとした発明家 |
 |   | 伦蒂尼姆市民 | Catastrophe Messenger? | やつれた女性 |
@@ -3878,18 +3879,18 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_499_1 | 佩里太太 | Babel Doctor | コミュニティの音楽家 |
 |   | 兴奋的夕照区居民 | Community Musician | ティムおばさん |
 |   | 吉菲大叔&蒂姆阿姨 | Dejected Babel Member | バッハマンの娘 |
-|   | 失落的巴别塔成员 | Excited Afterglow Resident | バベル医者 |
-|   | 妈妈 | Frau Perry | ペリー夫人 |
-|   | 小店老板 | Happy Leithanian Tourist | ママ |
-|   | 巴别塔医生 | Jif & Thiem | リターニアの女性 |
-|   | 巴赫曼小姐 | Leithanian Woman | 二人 |
-|   | 热情的居民 | Miss Bachmann | 喜ぶリターニア人 |
-|   | 疲惫的感染者 | Mummy | 気さくな店主 |
-|   | 社区琴师 | Passerby Infected | 疲れ切った感染者 |
-|   | 莱塔尼亚女性 | Shopkeeper | 興奮するアフターグロー区住民 |
-|   | 蒂姆阿姨 | Thiem | 興奮する住民 |
-|   | 路过的感染者 | Worn-out Infected | 落ち込むバベルメンバー |
-|   | 高兴的莱塔尼亚旅客 |   | 親切な住民 |
+|   | 失落的巴别塔成员 | Enthusiastic Citizen | バベル医者 |
+|   | 妈妈 | Excited Afterglow Resident | ペリー夫人 |
+|   | 小店老板 | Frau Perry | ママ |
+|   | 巴别塔医生 | Happy Leithanian Tourist | リターニアの女性 |
+|   | 巴赫曼小姐 | Jif & Thiem | 二人 |
+|   | 热情的居民 | Leithanian Woman | 喜ぶリターニア人 |
+|   | 疲惫的感染者 | Miss Bachmann | 気さくな店主 |
+|   | 社区琴师 | Mummy | 疲れ切った感染者 |
+|   | 莱塔尼亚女性 | Passerby Infected | 興奮するアフターグロー区住民 |
+|   | 蒂姆阿姨 | Shopkeeper | 興奮する住民 |
+|   | 路过的感染者 | Thiem | 落ち込むバベルメンバー |
+|   | 高兴的莱塔尼亚旅客 | Worn-out Infected | 親切な住民 |
 |   |   |   | 通りすがりの感染者 |
 | avg_npc_501_1 | 仔细的干员 | Andante | アンダンテ |
 |   | 医疗干员 | Flustered Operator | オペレーター姿の女性 |
@@ -4908,8 +4909,8 @@ tip: 请善用浏览器的搜索功能
 | char_248_mgllan | 麦哲伦 | Magallan | マゼラン |
 | char_249_muesys_1 | 缪尔赛思 | Muelsyse | サイレンス |
 |   | 赫默 | Silence | ミュルジス |
-| char_250_phantom_1 | 傀影 | Phantom | ファントム |
-|   | 卢西恩 |   | ルシアン |
+| char_250_phantom_1 | 傀影 | Lucian | ファントム |
+|   | 卢西恩 | Phantom | ルシアン |
 | char_252_bibeak_1 | 柏喙 | Bibeak | バイビーク |
 | char_253_greyy | 格雷伊 | Greyy | グレイ |
 | char_254_Shamare_1 | 巫恋 | Shamare | シャマレ |

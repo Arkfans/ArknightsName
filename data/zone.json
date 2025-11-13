@@ -863,10 +863,12 @@
     "zh_CN": "防线巩固"
   },
   "act34sre_zone1": {
+    "en_US": "Deploy Beacons",
     "ja_JP": "ビーコン設置",
     "zh_CN": "信标投放"
   },
   "act34sre_zone2": {
+    "en_US": "Fortify Defense",
     "ja_JP": "防衛線強化",
     "zh_CN": "防线巩固"
   },
@@ -994,10 +996,12 @@
     "zh_CN": "息止安所"
   },
   "act43side_zone1": {
+    "en_US": "Performance Begins",
     "ja_JP": "幕を上げる",
     "zh_CN": "演出开始"
   },
   "act43side_zone2": {
+    "en_US": "For Drama, For Eternity",
     "ja_JP": "舞台へ、永遠へ",
     "zh_CN": "为戏剧，为永恒"
   },
@@ -1031,6 +1035,7 @@
     "zh_CN": "强敌当前"
   },
   "act5bossrush_zone1": {
+    "en_US": "Threat Incoming",
     "ja_JP": "強敵襲来",
     "zh_CN": "强敌当前"
   },
@@ -1423,10 +1428,12 @@
     "zh_CN": "大江北岸"
   },
   "permanent_sidestory_26_zone1": {
+    "en_US": "Deploy Beacons",
     "ja_JP": "ビーコン設置",
     "zh_CN": "信标投放"
   },
   "permanent_sidestory_26_zone2": {
+    "en_US": "Fortify Defense",
     "ja_JP": "防衛線強化",
     "zh_CN": "防线巩固"
   },

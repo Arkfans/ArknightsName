@@ -4551,50 +4551,62 @@
     "zh_CN": "圣城的异常"
   },
   "act43side_01": {
+    "en_US": "Rehearsal Day",
     "ja_JP": "リハーサルの日",
     "zh_CN": "彩排日"
   },
   "act43side_02": {
+    "en_US": "Rehearsing a Tragedy",
     "ja_JP": "悲劇のリハーサル",
     "zh_CN": "排演一出悲剧"
   },
   "act43side_03": {
+    "en_US": "Dramatique",
     "ja_JP": "ドラマチックに",
     "zh_CN": "戏剧性"
   },
   "act43side_04": {
+    "en_US": "An Absurd Morning",
     "ja_JP": "支離滅裂な早朝",
     "zh_CN": "一个荒唐的早晨"
   },
   "act43side_05": {
+    "en_US": "Promises of Reunion",
     "ja_JP": "いずれまた逢おう",
     "zh_CN": "终将重逢"
   },
   "act43side_06": {
+    "en_US": "Rewind the Monologue",
     "ja_JP": "巻き戻された独白",
     "zh_CN": "倒带独白"
   },
   "act43side_07": {
+    "en_US": "Blood Diamond's Song",
     "ja_JP": "「緋き貴石」の歌声",
     "zh_CN": "“血钻”的歌声"
   },
   "act43side_08": {
+    "en_US": "Take a Bow",
     "ja_JP": "舞台上の挨拶",
     "zh_CN": "登台致礼"
   },
   "act43side_st01": {
+    "en_US": "To Incite a Death",
     "ja_JP": "死への唆し",
     "zh_CN": "唆使一场死亡"
   },
   "act43side_st02": {
+    "en_US": "Focus",
     "ja_JP": "焦点",
     "zh_CN": "焦点"
   },
   "act43side_st03": {
+    "en_US": "A Word to the Audience",
     "ja_JP": "観客の皆様へ",
     "zh_CN": "致观众"
   },
   "act43side_tr01": {
+    "en_US": "Entr'acte",
     "ja_JP": "間奏曲",
     "zh_CN": "幕间曲"
   },
@@ -4779,18 +4791,22 @@
     "zh_CN": "延时毁灭"
   },
   "act5bossrush_01": {
+    "en_US": "Cold and Blood",
     "ja_JP": "極寒に舞う血しぶき",
     "zh_CN": "严寒骤血"
   },
   "act5bossrush_02": {
+    "en_US": "Silent Crack",
     "ja_JP": "声なき破滅",
     "zh_CN": "无声破裂"
   },
   "act5bossrush_03": {
+    "en_US": "Interlude of Shadows",
     "ja_JP": "幕間の多重像",
     "zh_CN": "幕间重影"
   },
   "act5bossrush_04": {
+    "en_US": "Ocean Rising",
     "ja_JP": "天覆う沸海",
     "zh_CN": "沸海遮日"
   },

@@ -180,7 +180,7 @@ tip: 请善用浏览器的搜索功能
 | act33sre | 巴别塔·复刻 | Babel - Rerun | バベル・復刻 |
 | act34side | 生路 | Path of Life | 生存航路 |
 | act34sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
-| act34sre | 生路·复刻 | - | 生存航路・復刻 |
+| act34sre | 生路·复刻 | Path of Life - Rerun | 生存航路・復刻 |
 | act35side | 太阳甩在身后 | Adventure That Cannot Wait for the Sun | 太陽すらも追い越して |
 | act35sign | 清光邀月——月饼烘焙小教程 | Moonlight Invite - Mooncake-Making Tutorial | 清風明月-ロドス点心教室 |
 | act35sre | 太阳甩在身后·复刻 | - | - |
@@ -216,7 +216,7 @@ Event | なないろのお茶会 |
 | act42d0 | 纷争演绎 | Design of Strife | 紛争演繹 |
 | act42side | 众生行记 | The Masses' Travels | 命ある者の旅 |
 | act42sign | 品鉴泰拉魔物 | Have A Taste Of Terran Monsters | テラ魔物品評 |
-| act43side | 红丝绒 | - | 緋染めのビロード |
+| act43side | 红丝绒 | Act or Die | 緋染めのビロード |
 | act43sign | 良辰迎月签到活动 | A Good Moony Time Login Event | 嘉辰令月スタンプ |
 | act44side | 墟 | - | - |
 | act44sign | 构想试炼签到活动 | Conceptual Crucible Login Event | 仮想試練スタンプ |
@@ -244,7 +244,7 @@ Event | なないろのお茶会 |
 | act54sign | 感谢庆典前瞻签到 | - | - |
 | act55sign | 感谢庆典累计签到 | - | - |
 | act56sign | 感谢庆典累计签到 | - | - |
-| act5bossrush | 引航者试炼 | - | 導灯の試練 |
+| act5bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act5collection | 御鼓吉音限时任务 | - | - |
 | act5d0 | 喧闹法则 | Code of Brawl | 喧騒の掟 |
 | act5d1 | 危机合约 | Contingency Contract | 危機契約 |

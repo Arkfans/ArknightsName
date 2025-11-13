@@ -38,7 +38,7 @@ tip: 请善用浏览器的搜索功能
 | char_103_angel | 能天使 | Exusiai | エクシア |
 | char_1040_blaze2 | 烛煌 | Blaze the Igniting Spark | 熾炎ブレイズ |
 | char_1041_angel2 | 新约能天使 | Exusiai the New Covenant | 新約エクシア |
-| char_1042_phatm2 | 酒神 | - | トラゴーディア |
+| char_1042_phatm2 | 酒神 | Tragodia | トラゴーディア |
 | char_1043_leizi2 | 司霆惊蛰 | - | - |
 | char_1044_hsgma2 | 斩业星熊 | - | - |
 | char_1045_svash2 | 凛御银灰 | - | - |
@@ -336,7 +336,7 @@ tip: 请善用浏览器的搜索功能
 | char_4186_tmoris | 八幡海铃 | - | - |
 | char_4187_graceb | 聆音 | Gracebearer | グレースベアラー |
 | char_4188_confes | CONFESS-47 | CONFESS-47 | CONFESS-47 |
-| char_4191_tippi | 蒂比 | - | ティッピ |
+| char_4191_tippi | 蒂比 | Tippi | ティッピ |
 | char_4193_lemuen | 蕾缪安 | Lemuen | レミュアン |
 | char_4194_rmixer | 信仰搅拌机 | Sankta Miksaparato | サンクタ・ミキサー |
 | char_4195_radian | 电弧 | - | - |

@@ -192,25 +192,25 @@ tip: 请善用浏览器的搜索功能
 | enemy_10091_hlsttu | 圣徒像 | Saint Statue | 聖徒像 |
 | enemy_10091_hlsttu_2 | 圣徒祈祷像 | Praying Saint Statue | 聖徒祈祷像 |
 | enemy_10091_hlsttu_3 | “牧首” | 'Matriarch' | 「総主教」 |
-| enemy_10094_crstf | 临时收音师 | - | 臨時録音技師 |
-| enemy_10094_crstf_2 | 执拗的收音师 | - | 執拗な録音技師 |
-| enemy_10095_crgst | 加戏群演 | - | 出しゃばりエキストラ |
-| enemy_10095_crgst_2 | 沉浸艺术的群演 | - | 芸術に浸るエキストラ |
-| enemy_10096_crprp | 疲倦道具师 | - | くたびれた機材係 |
-| enemy_10096_crprp_2 | 渴求瞩目的道具师 | - | 目立ちたがりの機材係 |
-| enemy_10097_crshd | 心虚设计师 | - | 後ろめたいデザイナー |
-| enemy_10097_crshd_2 | 顺从内心的设计师 | - | 本心に従うデザイナー |
-| enemy_10098_crhro | 主角阵营角色 | - | 主役側の脇役 |
-| enemy_10098_crhro_2 | 命定的主角 | - | 定められし主役 |
-| enemy_10099_crvln | 反派阵营角色 | - | 悪役側の脇役 |
-| enemy_10099_crvln_2 | 命定的反派 | - | 定められし悪役 |
+| enemy_10094_crstf | 临时收音师 | Audio Technician | 臨時録音技師 |
+| enemy_10094_crstf_2 | 执拗的收音师 | Audio Engineer | 執拗な録音技師 |
+| enemy_10095_crgst | 加戏群演 | Zealous Extra | 出しゃばりエキストラ |
+| enemy_10095_crgst_2 | 沉浸艺术的群演 | Artistic Extra | 芸術に浸るエキストラ |
+| enemy_10096_crprp | 疲倦道具师 | Tired Prop Technician | くたびれた機材係 |
+| enemy_10096_crprp_2 | 渴求瞩目的道具师 | Attention-Seeking Prop Technician | 目立ちたがりの機材係 |
+| enemy_10097_crshd | 心虚设计师 | Uneasy Designer | 後ろめたいデザイナー |
+| enemy_10097_crshd_2 | 顺从内心的设计师 | Anguished Designer | 本心に従うデザイナー |
+| enemy_10098_crhro | 主角阵营角色 | Hero's Sidekick | 主役側の脇役 |
+| enemy_10098_crhro_2 | 命定的主角 | Destined Hero | 定められし主役 |
+| enemy_10099_crvln | 反派阵营角色 | Villain's Minion | 悪役側の脇役 |
+| enemy_10099_crvln_2 | 命定的反派 | Destined Villain | 定められし悪役 |
 | enemy_1009_lurker | 潜伏者 | Lurker | 潜入者 |
-| enemy_10100_crrol | 灵活假人 | - | 素早いマネキン |
-| enemy_10100_crrol_2 | 意识自由的假人 | - | 自我を持つマネキン |
-| enemy_10101_crgun | 不满摄影师 | - | 不満げなカメラマン |
-| enemy_10101_crgun_2 | 宣泄暴力的摄影师 | - | 暴力的なカメラマン |
-| enemy_10102_crblt | 报废的胶卷 | - | お蔵入りのビデオテープ |
-| enemy_10102_crblt_2 | 彻底报废的胶卷 | - | 廃棄処分のビデオテープ |
+| enemy_10100_crrol | 灵活假人 | Nimble Mannequin | 素早いマネキン |
+| enemy_10100_crrol_2 | 意识自由的假人 | Sentient Mannequin | 自我を持つマネキン |
+| enemy_10101_crgun | 不满摄影师 | Unhappy Cameraman | 不満げなカメラマン |
+| enemy_10101_crgun_2 | 宣泄暴力的摄影师 | Violent Cameraman | 暴力的なカメラマン |
+| enemy_10102_crblt | 报废的胶卷 | Scrapped Film | お蔵入りのビデオテープ |
+| enemy_10102_crblt_2 | 彻底报废的胶卷 | Completely Scrapped Film | 廃棄処分のビデオテープ |
 | enemy_10103_mjcppp | 浅睡的臼齿 | - | - |
 | enemy_10103_mjcppp_2 | 沉睡的臼齿 | - | - |
 | enemy_10104_mjcbln | 布景小丑 | - | - |
@@ -1158,7 +1158,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1565_mpprme | 拟态机械 | Mimic Machine | 擬態機械 |
 | enemy_1566_mpascl | “阿斯卡纶” | 'Ascalon' | 「アスカロン」 |
 | enemy_1567_pope | “圣徒” | 'Saint' | 「聖徒」 |
-| enemy_1568_dirctr | “酒神” | - | 「Tragodia」 |
+| enemy_1568_dirctr | “酒神” | 'Tragodia' | 「Tragodia」 |
 | enemy_1569_ldevil | 莫菲丝 | - | - |
 | enemy_1570_ymgscm | 三船光平 | - | - |
 | enemy_1571_mirbst | 狂躁异质裂兽 | - | - |

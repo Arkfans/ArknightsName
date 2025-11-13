@@ -266,6 +266,7 @@
   "char_1042_phatm2": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Tragodia",
       "ja_JP": "トラゴーディア",
       "zh_CN": "酒神"
     }
@@ -2625,6 +2626,7 @@
   "char_4191_tippi": {
     "type": "OPERATOR",
     "names": {
+      "en_US": "Tippi",
       "ja_JP": "ティッピ",
       "zh_CN": "蒂比"
     }
@@ -3768,6 +3770,7 @@
   "token_10054_phatm2_encdool": {
     "type": "TOKEN",
     "names": {
+      "en_US": "Blood's Whisper",
       "ja_JP": "本能の召喚",
       "zh_CN": "本能的召唤"
     }
@@ -3775,6 +3778,7 @@
   "token_10055_phatm2_mndclv": {
     "type": "TOKEN",
     "names": {
+      "en_US": "Cage of Chaos",
       "ja_JP": "彷徨の檻",
       "zh_CN": "迷狂牢笼"
     }
@@ -6378,6 +6382,7 @@
   "trap_247_crfilm": {
     "type": "TRAP",
     "names": {
+      "en_US": "Camera",
       "ja_JP": "撮影カメラ",
       "zh_CN": "摄影机"
     }
@@ -6385,6 +6390,7 @@
   "trap_248_crprop": {
     "type": "TRAP",
     "names": {
+      "en_US": "Lighting Prop",
       "ja_JP": "照明機材",
       "zh_CN": "打光道具"
     }
@@ -8842,6 +8848,7 @@
   "char_154_morgan@epoque#47": {
     "type": "SKIN",
     "names": {
+      "en_US": "Behind the Words",
       "ja_JP": "綴った裏に",
       "zh_CN": "字里行间"
     }
@@ -10717,6 +10724,7 @@
   "char_4066_highmo@epoque#45": {
     "type": "SKIN",
     "names": {
+      "en_US": "Stranded",
       "ja_JP": "座礁",
       "zh_CN": "搁浅"
     }
@@ -10772,6 +10780,7 @@
   "char_4079_haini@epoque#45": {
     "type": "SKIN",
     "names": {
+      "en_US": "Tidal Bore",
       "ja_JP": "潮波",
       "zh_CN": "翻涌"
     }
@@ -11017,6 +11026,7 @@
   "char_4132_ascln@iteration#4": {
     "type": "SKIN",
     "names": {
+      "en_US": "Phototaxis",
       "ja_JP": "光を払う闇",
       "zh_CN": "趋光之暗"
     }
@@ -11046,6 +11056,7 @@
   "char_4137_udflow@epoque#46": {
     "type": "SKIN",
     "names": {
+      "en_US": "Laminar Flow",
       "ja_JP": "層流",
       "zh_CN": "层流"
     }
@@ -13273,6 +13284,7 @@
   "enemy_10094_crstf": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Audio Technician",
       "ja_JP": "臨時録音技師",
       "zh_CN": "临时收音师"
     }
@@ -13280,6 +13292,7 @@
   "enemy_10094_crstf_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Audio Engineer",
       "ja_JP": "執拗な録音技師",
       "zh_CN": "执拗的收音师"
     }
@@ -13287,6 +13300,7 @@
   "enemy_10095_crgst": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Zealous Extra",
       "ja_JP": "出しゃばりエキストラ",
       "zh_CN": "加戏群演"
     }
@@ -13294,6 +13308,7 @@
   "enemy_10095_crgst_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Artistic Extra",
       "ja_JP": "芸術に浸るエキストラ",
       "zh_CN": "沉浸艺术的群演"
     }
@@ -13301,6 +13316,7 @@
   "enemy_10096_crprp": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Tired Prop Technician",
       "ja_JP": "くたびれた機材係",
       "zh_CN": "疲倦道具师"
     }
@@ -13308,6 +13324,7 @@
   "enemy_10096_crprp_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Attention-Seeking Prop Technician",
       "ja_JP": "目立ちたがりの機材係",
       "zh_CN": "渴求瞩目的道具师"
     }
@@ -13315,6 +13332,7 @@
   "enemy_10097_crshd": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Uneasy Designer",
       "ja_JP": "後ろめたいデザイナー",
       "zh_CN": "心虚设计师"
     }
@@ -13322,6 +13340,7 @@
   "enemy_10097_crshd_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Anguished Designer",
       "ja_JP": "本心に従うデザイナー",
       "zh_CN": "顺从内心的设计师"
     }
@@ -13329,6 +13348,7 @@
   "enemy_10098_crhro": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Hero's Sidekick",
       "ja_JP": "主役側の脇役",
       "zh_CN": "主角阵营角色"
     }
@@ -13336,6 +13356,7 @@
   "enemy_10098_crhro_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Destined Hero",
       "ja_JP": "定められし主役",
       "zh_CN": "命定的主角"
     }
@@ -13343,6 +13364,7 @@
   "enemy_10099_crvln": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Villain's Minion",
       "ja_JP": "悪役側の脇役",
       "zh_CN": "反派阵营角色"
     }
@@ -13350,6 +13372,7 @@
   "enemy_10099_crvln_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Destined Villain",
       "ja_JP": "定められし悪役",
       "zh_CN": "命定的反派"
     }
@@ -13365,6 +13388,7 @@
   "enemy_10100_crrol": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Nimble Mannequin",
       "ja_JP": "素早いマネキン",
       "zh_CN": "灵活假人"
     }
@@ -13372,6 +13396,7 @@
   "enemy_10100_crrol_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Sentient Mannequin",
       "ja_JP": "自我を持つマネキン",
       "zh_CN": "意识自由的假人"
     }
@@ -13379,6 +13404,7 @@
   "enemy_10101_crgun": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Unhappy Cameraman",
       "ja_JP": "不満げなカメラマン",
       "zh_CN": "不满摄影师"
     }
@@ -13386,6 +13412,7 @@
   "enemy_10101_crgun_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Violent Cameraman",
       "ja_JP": "暴力的なカメラマン",
       "zh_CN": "宣泄暴力的摄影师"
     }
@@ -13393,6 +13420,7 @@
   "enemy_10102_crblt": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Scrapped Film",
       "ja_JP": "お蔵入りのビデオテープ",
       "zh_CN": "报废的胶卷"
     }
@@ -13400,6 +13428,7 @@
   "enemy_10102_crblt_2": {
     "type": "ENEMY",
     "names": {
+      "en_US": "Completely Scrapped Film",
       "ja_JP": "廃棄処分のビデオテープ",
       "zh_CN": "彻底报废的胶卷"
     }
@@ -20843,6 +20872,7 @@
   "enemy_1568_dirctr": {
     "type": "ENEMY",
     "names": {
+      "en_US": "'Tragodia'",
       "ja_JP": "「Tragodia」",
       "zh_CN": "“酒神”"
     }
@@ -24744,6 +24774,7 @@
   "act34sre": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Path of Life - Rerun",
       "ja_JP": "生存航路・復刻",
       "zh_CN": "生路·复刻"
     }
@@ -24993,6 +25024,7 @@
   "act43side": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Act or Die",
       "ja_JP": "緋染めのビロード",
       "zh_CN": "红丝绒"
     }
@@ -25185,6 +25217,7 @@
   "act5bossrush": {
     "type": "ACTIVITY",
     "names": {
+      "en_US": "Trials for Navigator",
       "ja_JP": "導灯の試練",
       "zh_CN": "引航者试炼"
     }
@@ -28534,6 +28567,7 @@
   "act34side_token_chip_rep_1": {
     "type": "ITEM",
     "names": {
+      "en_US": "'Emergency Supplies' Blueprint Chip",
       "ja_JP": "「非常用物資」設計図チップ",
       "zh_CN": "“应急物资”蓝图芯片"
     }
@@ -28695,6 +28729,7 @@
   "act43side_token_phantom": {
     "type": "ITEM",
     "names": {
+      "en_US": "Phantom of the Studio",
       "ja_JP": "謎の黒い影",
       "zh_CN": "神秘片场黑影"
     }
@@ -28803,6 +28838,7 @@
   "act5bossrush_milestone_point": {
     "type": "ITEM",
     "names": {
+      "en_US": "Trial EXP",
       "ja_JP": "試練経験値",
       "zh_CN": "试炼经验"
     }
@@ -28810,6 +28846,7 @@
   "act5bossrush_relic_01": {
     "type": "ITEM",
     "names": {
+      "en_US": "Unlimited Pressure",
       "ja_JP": "リミッター解除",
       "zh_CN": "限压解除"
     }
@@ -28817,6 +28854,7 @@
   "act5bossrush_relic_02": {
     "type": "ITEM",
     "names": {
+      "en_US": "Chain Activation",
       "ja_JP": "連鎖式起動",
       "zh_CN": "链式激活"
     }
@@ -28824,6 +28862,7 @@
   "act5bossrush_relic_03": {
     "type": "ITEM",
     "names": {
+      "en_US": "Redundant Array",
       "ja_JP": "冗長アレイ",
       "zh_CN": "冗量阵列"
     }
@@ -28831,6 +28870,7 @@
   "act5bossrush_relic_04": {
     "type": "ITEM",
     "names": {
+      "en_US": "Full Overload",
       "ja_JP": "全面的過負荷",
       "zh_CN": "全面过载"
     }
@@ -28838,6 +28878,7 @@
   "act5bossrush_token_relic": {
     "type": "ITEM",
     "names": {
+      "en_US": "Data Blackbox",
       "ja_JP": "ブラックボックス",
       "zh_CN": "数据黑盒"
     }
@@ -29951,6 +29992,7 @@
   "class_p_char_206_gnosis": {
     "type": "ITEM",
     "names": {
+      "en_US": "Gnosis's Kernel Token",
       "ja_JP": "ノーシスの印（中堅）",
       "zh_CN": "灵知的中坚信物"
     }
@@ -30582,6 +30624,7 @@
   "class_p_char_420_flamtl": {
     "type": "ITEM",
     "names": {
+      "en_US": "Flametail's Kernel Token",
       "ja_JP": "フレイムテイルの印（中堅）",
       "zh_CN": "焰尾的中坚信物"
     }
@@ -30589,6 +30632,7 @@
   "class_p_char_421_crow": {
     "type": "ITEM",
     "names": {
+      "en_US": "La Pluma's Kernel Token",
       "ja_JP": "ラ・プルマの印（中堅）",
       "zh_CN": "羽毛笔的中坚信物"
     }
@@ -30596,6 +30640,7 @@
   "class_p_char_422_aurora": {
     "type": "ITEM",
     "names": {
+      "en_US": "Aurora's Kernel Token",
       "ja_JP": "オーロラの印（中堅）",
       "zh_CN": "极光的中坚信物"
     }
@@ -30619,6 +30664,7 @@
   "class_p_char_430_fartth": {
     "type": "ITEM",
     "names": {
+      "en_US": "Fartooth's Kernel Token",
       "ja_JP": "ファートゥースの印（中堅）",
       "zh_CN": "远牙的中坚信物"
     }
@@ -30626,6 +30672,7 @@
   "class_p_char_431_ashlok": {
     "type": "ITEM",
     "names": {
+      "en_US": "Ashlock's Kernel Token",
       "ja_JP": "アッシュロックの印（中堅）",
       "zh_CN": "灰毫的中坚信物"
     }
@@ -30641,6 +30688,7 @@
   "class_p_char_437_mizuki": {
     "type": "ITEM",
     "names": {
+      "en_US": "Mizuki's Kernel Token",
       "ja_JP": "ミヅキの印（中堅）",
       "zh_CN": "水月的中坚信物"
     }
@@ -30688,6 +30736,7 @@
   "class_p_char_473_mberry": {
     "type": "ITEM",
     "names": {
+      "en_US": "Mulberry's Kernel Token",
       "ja_JP": "マルベリーの印（中堅）",
       "zh_CN": "桑葚的中坚信物"
     }
@@ -30711,6 +30760,7 @@
   "class_p_char_479_sleach": {
     "type": "ITEM",
     "names": {
+      "en_US": "Saileach's Kernel Token",
       "ja_JP": "サイラッハの印（中堅）",
       "zh_CN": "琴柳的中坚信物"
     }
@@ -30734,6 +30784,7 @@
   "class_p_char_489_serum": {
     "type": "ITEM",
     "names": {
+      "en_US": "Corroserum's Kernel Token",
       "ja_JP": "コロセラムの印（中堅）",
       "zh_CN": "蚀清的中坚信物"
     }
@@ -31687,6 +31738,7 @@
   "p_char_1042_phatm2": {
     "type": "ITEM",
     "names": {
+      "en_US": "Tragodia's Token",
       "ja_JP": "トラゴーディアの印",
       "zh_CN": "酒神的信物"
     }
@@ -34014,6 +34066,7 @@
   "p_char_4191_tippi": {
     "type": "ITEM",
     "names": {
+      "en_US": "Tippi's Token",
       "ja_JP": "ティッピの印",
       "zh_CN": "蒂比的信物"
     }
@@ -34049,6 +34102,7 @@
   "p_char_4198_christ": {
     "type": "ITEM",
     "names": {
+      "en_US": "Miss.Christine's Token",
       "ja_JP": "ミス・クリスティーンの印",
       "zh_CN": "Miss.Christine的信物"
     }
@@ -35508,6 +35562,7 @@
   "uni_set_LAbbey": {
     "type": "ITEM",
     "names": {
+      "en_US": "Hortus de Escapismo Furniture Pack",
       "ja_JP": "空想の花庭家具パック",
       "zh_CN": "空想花庭家具收藏包"
     }
@@ -36013,6 +36068,7 @@
   "voucher_full_inside": {
     "type": "ITEM",
     "names": {
+      "en_US": "Insider's Personal Letter",
       "ja_JP": "インサイダーの手紙",
       "zh_CN": "隐现的私人信件"
     }
@@ -36282,6 +36338,7 @@
   "voucher_levelmax_4": {
     "type": "ITEM",
     "names": {
+      "en_US": "Professional Operator Training Apparatus",
       "ja_JP": "★4特訓装置",
       "zh_CN": "专业干员特训装置"
     }
@@ -38319,12 +38376,14 @@
   "_SINGLE_36_0_5": {
     "type": "POOL",
     "names": {
+      "en_US": "Dithyramb Unending",
       "ja_JP": "訪れぬ幕切れ"
     }
   },
   "_SINGLE_36_0_7": {
     "type": "POOL",
     "names": {
+      "en_US": "Anchor In The Deep",
       "ja_JP": "海淵に沈む錨"
     }
   },
@@ -42732,6 +42791,7 @@
   "skchr_phatm2_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Night Echoes",
       "ja_JP": "闇夜の反響",
       "zh_CN": "暗夜回声"
     }
@@ -42739,6 +42799,7 @@
   "skchr_phatm2_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Folie à Plusieurs",
       "ja_JP": "群体性譫妄",
       "zh_CN": "群体性谵妄"
     }
@@ -42746,6 +42807,7 @@
   "skchr_phatm2_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Le Théâtre du Vide",
       "ja_JP": "無人の劇場",
       "zh_CN": "空剧场"
     }
@@ -44143,6 +44205,7 @@
   "skchr_tippi_1": {
     "type": "SKILL",
     "names": {
+      "en_US": "Specialist's Spraying Skills",
       "ja_JP": "スプレーアート",
       "zh_CN": "专业喷绘技巧"
     }
@@ -44150,6 +44213,7 @@
   "skchr_tippi_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Emergency Scene Change",
       "ja_JP": "撮影現場急行",
       "zh_CN": "紧急赶场通知"
     }
@@ -48165,6 +48229,7 @@
   "sktok_phatm2_encdool_2": {
     "type": "SKILL",
     "names": {
+      "en_US": "Blood's Whisper",
       "ja_JP": "本能の召喚",
       "zh_CN": "本能的召唤"
     }
@@ -48172,6 +48237,7 @@
   "sktok_phatm2_mndclv_3": {
     "type": "SKILL",
     "names": {
+      "en_US": "Cage of Chaos",
       "ja_JP": "彷徨の檻",
       "zh_CN": "迷狂牢笼"
     }
@@ -57207,6 +57273,7 @@
   "act43side_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Rehearsal Day",
       "ja_JP": "リハーサルの日",
       "zh_CN": "彩排日"
     }
@@ -57214,6 +57281,7 @@
   "act43side_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Rehearsing a Tragedy",
       "ja_JP": "悲劇のリハーサル",
       "zh_CN": "排演一出悲剧"
     }
@@ -57221,6 +57289,7 @@
   "act43side_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Dramatique",
       "ja_JP": "ドラマチックに",
       "zh_CN": "戏剧性"
     }
@@ -57228,6 +57297,7 @@
   "act43side_04": {
     "type": "STAGE",
     "names": {
+      "en_US": "An Absurd Morning",
       "ja_JP": "支離滅裂な早朝",
       "zh_CN": "一个荒唐的早晨"
     }
@@ -57235,6 +57305,7 @@
   "act43side_05": {
     "type": "STAGE",
     "names": {
+      "en_US": "Promises of Reunion",
       "ja_JP": "いずれまた逢おう",
       "zh_CN": "终将重逢"
     }
@@ -57242,6 +57313,7 @@
   "act43side_06": {
     "type": "STAGE",
     "names": {
+      "en_US": "Rewind the Monologue",
       "ja_JP": "巻き戻された独白",
       "zh_CN": "倒带独白"
     }
@@ -57249,6 +57321,7 @@
   "act43side_07": {
     "type": "STAGE",
     "names": {
+      "en_US": "Blood Diamond's Song",
       "ja_JP": "「緋き貴石」の歌声",
       "zh_CN": "“血钻”的歌声"
     }
@@ -57256,6 +57329,7 @@
   "act43side_08": {
     "type": "STAGE",
     "names": {
+      "en_US": "Take a Bow",
       "ja_JP": "舞台上の挨拶",
       "zh_CN": "登台致礼"
     }
@@ -57263,6 +57337,7 @@
   "act43side_st01": {
     "type": "STAGE",
     "names": {
+      "en_US": "To Incite a Death",
       "ja_JP": "死への唆し",
       "zh_CN": "唆使一场死亡"
     }
@@ -57270,6 +57345,7 @@
   "act43side_st02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Focus",
       "ja_JP": "焦点",
       "zh_CN": "焦点"
     }
@@ -57277,6 +57353,7 @@
   "act43side_st03": {
     "type": "STAGE",
     "names": {
+      "en_US": "A Word to the Audience",
       "ja_JP": "観客の皆様へ",
       "zh_CN": "致观众"
     }
@@ -57284,6 +57361,7 @@
   "act43side_tr01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Entr'acte",
       "ja_JP": "間奏曲",
       "zh_CN": "幕间曲"
     }
@@ -57633,6 +57711,7 @@
   "act5bossrush_01": {
     "type": "STAGE",
     "names": {
+      "en_US": "Cold and Blood",
       "ja_JP": "極寒に舞う血しぶき",
       "zh_CN": "严寒骤血"
     }
@@ -57640,6 +57719,7 @@
   "act5bossrush_02": {
     "type": "STAGE",
     "names": {
+      "en_US": "Silent Crack",
       "ja_JP": "声なき破滅",
       "zh_CN": "无声破裂"
     }
@@ -57647,6 +57727,7 @@
   "act5bossrush_03": {
     "type": "STAGE",
     "names": {
+      "en_US": "Interlude of Shadows",
       "ja_JP": "幕間の多重像",
       "zh_CN": "幕间重影"
     }
@@ -57654,6 +57735,7 @@
   "act5bossrush_04": {
     "type": "STAGE",
     "names": {
+      "en_US": "Ocean Rising",
       "ja_JP": "天覆う沸海",
       "zh_CN": "沸海遮日"
     }
@@ -64581,6 +64663,7 @@
   "act34sre_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Deploy Beacons",
       "ja_JP": "ビーコン設置",
       "zh_CN": "信标投放"
     }
@@ -64588,6 +64671,7 @@
   "act34sre_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Fortify Defense",
       "ja_JP": "防衛線強化",
       "zh_CN": "防线巩固"
     }
@@ -64799,6 +64883,7 @@
   "act43side_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Performance Begins",
       "ja_JP": "幕を上げる",
       "zh_CN": "演出开始"
     }
@@ -64806,6 +64891,7 @@
   "act43side_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "For Drama, For Eternity",
       "ja_JP": "舞台へ、永遠へ",
       "zh_CN": "为戏剧，为永恒"
     }
@@ -64869,6 +64955,7 @@
   "act5bossrush_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Threat Incoming",
       "ja_JP": "強敵襲来",
       "zh_CN": "强敌当前"
     }
@@ -65498,6 +65585,7 @@
   "permanent_sidestory_26_zone1": {
     "type": "ZONE",
     "names": {
+      "en_US": "Deploy Beacons",
       "ja_JP": "ビーコン設置",
       "zh_CN": "信标投放"
     }
@@ -65505,6 +65593,7 @@
   "permanent_sidestory_26_zone2": {
     "type": "ZONE",
     "names": {
+      "en_US": "Fortify Defense",
       "ja_JP": "防衛線強化",
       "zh_CN": "防线巩固"
     }
@@ -66568,6 +66657,7 @@
   "story_christ_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "A Long, Long Time Ago",
       "ja_JP": "遠い遠い昔のこと",
       "zh_CN": "很久很久以前"
     }
@@ -67673,6 +67763,7 @@
   "story_narant_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "Where Doth Treasure Lie",
       "ja_JP": "宝物のありか",
       "zh_CN": "何处寻宝藏"
     }
@@ -68582,6 +68673,7 @@
   "story_vvana_set_1_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "The Unpoetic Poet",
       "ja_JP": "詩を詠まぬ詩人",
       "zh_CN": "不写诗的诗人"
     }
@@ -68621,6 +68713,7 @@
   "story_weedy_set_2_story_1": {
     "type": "MEMORY",
     "names": {
+      "en_US": "The Sea Breeze on the Salt Flat",
       "ja_JP": "塩海に吹く風",
       "zh_CN": "盐漠上的海风"
     }
