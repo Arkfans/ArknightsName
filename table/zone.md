@@ -178,8 +178,8 @@ tip: 请善用浏览器的搜索功能
 | act33sre_zone3 | 我始终如一 | You the Constant, You Are Me | 我は我なり |
 | act34side_zone1 | 信标投放 | Deploy Beacons | ビーコン設置 |
 | act34side_zone2 | 防线巩固 | Fortify Defense | 防衛線強化 |
-| act34sre_zone1 | 信标投放 | - | - |
-| act34sre_zone2 | 防线巩固 | - | - |
+| act34sre_zone1 | 信标投放 | - | ビーコン設置 |
+| act34sre_zone2 | 防线巩固 | - | 防衛線強化 |
 | act35side_zone1 | 市民花园 | Citizen's Garden | 市民庭園 |
 | act35side_zone2 | 丰获集会 | Harvest Gathering | 豊穣祭 |
 | act35side_zone3 | 藏珍宝库 | Treasure House | 宝物庫 |
@@ -207,8 +207,8 @@ tip: 请善用浏览器的搜索功能
 | act42side_zone1 | 瞻望圣堂 | A Glance at the Shrine | 聖堂を望む |
 | act42side_zone2 | 谒见神祇 | An Audience with God | 主への謁見 |
 | act42side_zone3 | 息止安所 | Rest in Peace | 安息の地 |
-| act43side_zone1 | 演出开始 | - | - |
-| act43side_zone2 | 为戏剧，为永恒 | - | - |
+| act43side_zone1 | 演出开始 | - | 幕を上げる |
+| act43side_zone2 | 为戏剧，为永恒 | - | 舞台へ、永遠へ |
 | act44side_zone1 | 不夜街区 | - | - |
 | act44side_zone2 | 锻冶旧迹 | - | - |
 | act44side_zone3 | 绝缘石阶 | - | - |
@@ -218,7 +218,7 @@ tip: 请善用浏览器的搜索功能
 | act46side_zone2 | 变革之路 | - | - |
 | act46side_zone3 | 喀兰之心 | - | - |
 | act4bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
-| act5bossrush_zone1 | 强敌当前 | - | - |
+| act5bossrush_zone1 | 强敌当前 | - | 強敵襲来 |
 | act5d0_zone1 | 下城区 | Downtown | 繁華街 |
 | act5d0_zone2 | 东部郊区 | Eastern Suburbs | 東部郊外 |
 | act5sre_zone1 | 议事高塔 | Capitol Spire | 大議事塔 |
@@ -297,8 +297,8 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_25_zone1 | 种植地块 | Agricultural Plate | 栽培区画 |
 | permanent_sidestory_25_zone2 | 荒城核心 | City Core | 荒城中枢 |
 | permanent_sidestory_25_zone3 | 大江北岸 | Far Side of the Great River | 大江北岸 |
-| permanent_sidestory_26_zone1 | 信标投放 | - | - |
-| permanent_sidestory_26_zone2 | 防线巩固 | - | - |
+| permanent_sidestory_26_zone1 | 信标投放 | - | ビーコン設置 |
+| permanent_sidestory_26_zone2 | 防线巩固 | - | 防衛線強化 |
 | permanent_sidestory_27_zone1 | 市民花园 | - | - |
 | permanent_sidestory_27_zone2 | 丰获集会 | - | - |
 | permanent_sidestory_27_zone3 | 藏珍宝库 | - | - |

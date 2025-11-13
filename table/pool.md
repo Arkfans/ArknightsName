@@ -258,6 +258,8 @@ tip: 请善用浏览器的搜索功能
 | _SINGLE_35_0_1 | - | Returned From A Pyre | 死火より出づ |
 | _SINGLE_35_0_5 | - | Command: Reconstruction | 指令：再構成 |
 | _SINGLE_35_0_7 | - | LIKE ENDING LIKE DEATH | 死か/終わりか |
+| _SINGLE_36_0_5 | - | - | 訪れぬ幕切れ |
+| _SINGLE_36_0_7 | - | - | 海淵に沈む錨 |
 | _SPECIAL_32_0_8 | - | Orienteering Headhunting | セレクトスカウト |
 | _SPECIAL_35_0_3 | - | Orienteering Headhunting | セレクトスカウト |
 | _SPECIAL_36_0_3 | - | Orienteering Headhunting | セレクトスカウト |

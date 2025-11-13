@@ -863,9 +863,11 @@
     "zh_CN": "防线巩固"
   },
   "act34sre_zone1": {
+    "ja_JP": "ビーコン設置",
     "zh_CN": "信标投放"
   },
   "act34sre_zone2": {
+    "ja_JP": "防衛線強化",
     "zh_CN": "防线巩固"
   },
   "act35side_zone1": {
@@ -992,9 +994,11 @@
     "zh_CN": "息止安所"
   },
   "act43side_zone1": {
+    "ja_JP": "幕を上げる",
     "zh_CN": "演出开始"
   },
   "act43side_zone2": {
+    "ja_JP": "舞台へ、永遠へ",
     "zh_CN": "为戏剧，为永恒"
   },
   "act44side_zone1": {
@@ -1027,6 +1031,7 @@
     "zh_CN": "强敌当前"
   },
   "act5bossrush_zone1": {
+    "ja_JP": "強敵襲来",
     "zh_CN": "强敌当前"
   },
   "act5d0_zone1": {
@@ -1418,9 +1423,11 @@
     "zh_CN": "大江北岸"
   },
   "permanent_sidestory_26_zone1": {
+    "ja_JP": "ビーコン設置",
     "zh_CN": "信标投放"
   },
   "permanent_sidestory_26_zone2": {
+    "ja_JP": "防衛線強化",
     "zh_CN": "防线巩固"
   },
   "permanent_sidestory_27_zone1": {

@@ -1676,6 +1676,7 @@
     "zh_CN": "“应急物资”蓝图芯片"
   },
   "act34side_token_chip_rep_1": {
+    "ja_JP": "「非常用物資」設計図チップ",
     "zh_CN": "“应急物资”蓝图芯片"
   },
   "act35side_token_dust": {
@@ -1773,6 +1774,7 @@
     "zh_CN": "蒙恩的奶嘴"
   },
   "act43side_token_phantom": {
+    "ja_JP": "謎の黒い影",
     "zh_CN": "神秘片场黑影"
   },
   "act44side_token_information": {
@@ -1835,21 +1837,27 @@
     "zh_CN": "KFC积分"
   },
   "act5bossrush_milestone_point": {
+    "ja_JP": "試練経験値",
     "zh_CN": "试炼经验"
   },
   "act5bossrush_relic_01": {
+    "ja_JP": "リミッター解除",
     "zh_CN": "限压解除"
   },
   "act5bossrush_relic_02": {
+    "ja_JP": "連鎖式起動",
     "zh_CN": "链式激活"
   },
   "act5bossrush_relic_03": {
+    "ja_JP": "冗長アレイ",
     "zh_CN": "冗量阵列"
   },
   "act5bossrush_relic_04": {
+    "ja_JP": "全面的過負荷",
     "zh_CN": "全面过载"
   },
   "act5bossrush_token_relic": {
+    "ja_JP": "ブラックボックス",
     "zh_CN": "数据黑盒"
   },
   "act5collection_point_token": {
@@ -2536,6 +2544,7 @@
     "zh_CN": "白金的中坚信物"
   },
   "class_p_char_206_gnosis": {
+    "ja_JP": "ノーシスの印（中堅）",
     "zh_CN": "灵知的中坚信物"
   },
   "class_p_char_208_melan": {
@@ -2929,12 +2938,15 @@
     "zh_CN": "森蚺的中坚信物"
   },
   "class_p_char_420_flamtl": {
+    "ja_JP": "フレイムテイルの印（中堅）",
     "zh_CN": "焰尾的中坚信物"
   },
   "class_p_char_421_crow": {
+    "ja_JP": "ラ・プルマの印（中堅）",
     "zh_CN": "羽毛笔的中坚信物"
   },
   "class_p_char_422_aurora": {
+    "ja_JP": "オーロラの印（中堅）",
     "zh_CN": "极光的中坚信物"
   },
   "class_p_char_423_blemsh": {
@@ -2948,9 +2960,11 @@
     "zh_CN": "卡涅利安的中坚信物"
   },
   "class_p_char_430_fartth": {
+    "ja_JP": "ファートゥースの印（中堅）",
     "zh_CN": "远牙的中坚信物"
   },
   "class_p_char_431_ashlok": {
+    "ja_JP": "アッシュロックの印（中堅）",
     "zh_CN": "灰毫的中坚信物"
   },
   "class_p_char_436_whispr": {
@@ -2959,6 +2973,7 @@
     "zh_CN": "絮雨的中坚信物"
   },
   "class_p_char_437_mizuki": {
+    "ja_JP": "ミヅキの印（中堅）",
     "zh_CN": "水月的中坚信物"
   },
   "class_p_char_440_pinecn": {
@@ -2987,6 +3002,7 @@
     "zh_CN": "异客的中坚信物"
   },
   "class_p_char_473_mberry": {
+    "ja_JP": "マルベリーの印（中堅）",
     "zh_CN": "桑葚的中坚信物"
   },
   "class_p_char_475_akafyu": {
@@ -3000,6 +3016,7 @@
     "zh_CN": "绮良的中坚信物"
   },
   "class_p_char_479_sleach": {
+    "ja_JP": "サイラッハの印（中堅）",
     "zh_CN": "琴柳的中坚信物"
   },
   "class_p_char_484_robrta": {
@@ -3013,6 +3030,7 @@
     "zh_CN": "帕拉斯的中坚信物"
   },
   "class_p_char_489_serum": {
+    "ja_JP": "コロセラムの印（中堅）",
     "zh_CN": "蚀清的中坚信物"
   },
   "class_p_char_491_humus": {
@@ -3590,6 +3608,7 @@
     "zh_CN": "新约能天使的信物"
   },
   "p_char_1042_phatm2": {
+    "ja_JP": "トラゴーディアの印",
     "zh_CN": "酒神的信物"
   },
   "p_char_1043_leizi2": {
@@ -5034,6 +5053,7 @@
     "zh_CN": "CONFESS-47的信物"
   },
   "p_char_4191_tippi": {
+    "ja_JP": "ティッピの印",
     "zh_CN": "蒂比的信物"
   },
   "p_char_4193_lemuen": {
@@ -5053,6 +5073,7 @@
     "zh_CN": "录武官的信物"
   },
   "p_char_4198_christ": {
+    "ja_JP": "ミス・クリスティーンの印",
     "zh_CN": "Miss.Christine的信物"
   },
   "p_char_4199_makiri": {
@@ -5950,6 +5971,7 @@
     "zh_CN": "不义之财家具收藏包"
   },
   "uni_set_LAbbey": {
+    "ja_JP": "空想の花庭家具パック",
     "zh_CN": "空想花庭家具收藏包"
   },
   "uni_set_MemoryCloister_1": {
@@ -6259,6 +6281,7 @@
     "zh_CN": "星源的私人信件"
   },
   "voucher_full_inside": {
+    "ja_JP": "インサイダーの手紙",
     "zh_CN": "隐现的私人信件"
   },
   "voucher_full_kjera": {
@@ -6425,6 +6448,7 @@
     "zh_CN": "止颂的文件夹"
   },
   "voucher_levelmax_4": {
+    "ja_JP": "★4特訓装置",
     "zh_CN": "专业干员特训装置"
   },
   "voucher_levelmax_5": {

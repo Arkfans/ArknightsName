@@ -938,18 +938,18 @@ tip: 请善用浏览器的搜索功能
 | act42side_st03 | 重逢 | Reunion | 再会 |
 | act42side_st04 | 远行 | Voyage | 遠出 |
 | act42side_tr01 | 圣城的异常 | Strange Days in the Holy City | 聖都の異常 |
-| act43side_01 | 彩排日 | - | - |
-| act43side_02 | 排演一出悲剧 | - | - |
-| act43side_03 | 戏剧性 | - | - |
-| act43side_04 | 一个荒唐的早晨 | - | - |
-| act43side_05 | 终将重逢 | - | - |
-| act43side_06 | 倒带独白 | - | - |
-| act43side_07 | “血钻”的歌声 | - | - |
-| act43side_08 | 登台致礼 | - | - |
-| act43side_st01 | 唆使一场死亡 | - | - |
-| act43side_st02 | 焦点 | - | - |
-| act43side_st03 | 致观众 | - | - |
-| act43side_tr01 | 幕间曲 | - | - |
+| act43side_01 | 彩排日 | - | リハーサルの日 |
+| act43side_02 | 排演一出悲剧 | - | 悲劇のリハーサル |
+| act43side_03 | 戏剧性 | - | ドラマチックに |
+| act43side_04 | 一个荒唐的早晨 | - | 支離滅裂な早朝 |
+| act43side_05 | 终将重逢 | - | いずれまた逢おう |
+| act43side_06 | 倒带独白 | - | 巻き戻された独白 |
+| act43side_07 | “血钻”的歌声 | - | 「緋き貴石」の歌声 |
+| act43side_08 | 登台致礼 | - | 舞台上の挨拶 |
+| act43side_st01 | 唆使一场死亡 | - | 死への唆し |
+| act43side_st02 | 焦点 | - | 焦点 |
+| act43side_st03 | 致观众 | - | 観客の皆様へ |
+| act43side_tr01 | 幕间曲 | - | 間奏曲 |
 | act44side_01 | 极道作风 | - | - |
 | act44side_02 | 灵异特辑 | - | - |
 | act44side_03 | 夜逃通告 | - | - |
@@ -1004,10 +1004,10 @@ tip: 请善用浏览器的搜索功能
 | act4d0_03 | 斑驳 | Speckles | まだら模様 |
 | act4d0_04 | 狡诈戏法 | Sleight of Hand | 悪知恵 |
 | act4d0_05 | 延时毁灭 | Prolonged Destruction | 遅延作戦 |
-| act5bossrush_01 | 严寒骤血 | - | - |
-| act5bossrush_02 | 无声破裂 | - | - |
-| act5bossrush_03 | 幕间重影 | - | - |
-| act5bossrush_04 | 沸海遮日 | - | - |
+| act5bossrush_01 | 严寒骤血 | - | 極寒に舞う血しぶき |
+| act5bossrush_02 | 无声破裂 | - | 声なき破滅 |
+| act5bossrush_03 | 幕间重影 | - | 幕間の多重像 |
+| act5bossrush_04 | 沸海遮日 | - | 天覆う沸海 |
 | act5d0_01 | 6:44P.M. | 6:44P.M. | 6:44P.M. |
 | act5d0_02 | 7:15P.M. | 7:15P.M. | 7:15P.M. |
 | act5d0_03 | 7:22P.M. | 7:22P.M. | 7:22P.M. |
