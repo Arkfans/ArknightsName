@@ -427,3 +427,5 @@ tip: 请善用浏览器的搜索功能
 | char_613_acmedc | Touch | Touch | Touch |
 | char_614_acsupo | Raidian | Raidian | Raidian |
 | char_615_acspec | Misery | Misery | Misery |
+| char_616_pithst | 盟约·辅助干员 | - | - |
+| char_617_sharp2 | 领主·Sharp | - | - |

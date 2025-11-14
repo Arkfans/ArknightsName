@@ -384,6 +384,13 @@ tip: 请善用浏览器的搜索功能
 | act1arcade_m4_01 | 陆上行船 | Boat Out of Water | 陸上航行 |
 | act1arcade_m4_02 | 冲出激浪 | Brave the Waves | 荒波を越えろ |
 | act1arcade_m4_03 | 环绕大地 | Journey the Land | 大地を巡れ |
+| act1autochess_m01 | AC-3 | - | - |
+| act1autochess_m02 | AC-4 | - | - |
+| act1autochess_m03 | AC-5 | - | - |
+| act1autochess_m04 | AC-6 | - | - |
+| act1autochess_m05 | AC-7 | - | - |
+| act1autochess_m06 | AC-8 | - | - |
+| act1autochess_m07 | AC-9 | - | - |
 | act1bossrush_01 | 无尽灼烧与强力破坏 | Burn and Destroy | 無尽の炎と破壊の鋸 |
 | act1bossrush_02 | 卷土重来 | Comeback | 捲土重来 |
 | act1bossrush_03 | 风沙轰隆隆 | Rolling Sands | 塵旋風とどろく |
@@ -990,6 +997,11 @@ tip: 请善用浏览器的搜索功能
 | act46side_08 | 宣告在途 | - | - |
 | act46side_09 | 凛刃出匣 | - | - |
 | act46side_10 | 耶拉冈德在上 | - | - |
+| act46side_s01 | 打雪仗 | - | - |
+| act46side_s02 | 堆雪人 | - | - |
+| act46side_s03 | 雪孩子 | - | - |
+| act46side_s04 | 雪中歌谣 | - | - |
+| act46side_s05 | 雪与我与雪 | - | - |
 | act46side_st01 | 崩落 | - | - |
 | act46side_st02 | 圣巡与丧钟 | - | - |
 | act46side_st03 | 寻心道途 | - | - |

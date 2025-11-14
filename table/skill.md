@@ -576,6 +576,7 @@ tip: 请善用浏览器的搜索功能
 | skchr_pianst_2 | 曲惊四座 | Meisterwerk | 万雷の喝采 |
 | skchr_pinecn_1 | RMA长钉 | RMA Spikes | RMAスパイク |
 | skchr_pinecn_2 | 电能过载 | Electrical Overcharge | 過負荷駆動 |
+| skchr_pithst_1 | 战术咏唱·双型 | - | - |
 | skchr_platnm_2 | 天马视域 | Pegasian Sight | ペガサスアイ |
 | skchr_plosis_2 | 脑啡肽 | Enkephalin | エンケファリン |
 | skchr_poca_2 | 分裂射击 | Split Shot | スプリットショット |
@@ -643,6 +644,7 @@ tip: 请善用浏览器的搜索功能
 | skchr_serum_1 | 专注力超载 | Focus Overload | 過集中 |
 | skchr_serum_2 | 传导蚀滞弹 | Conductive Corrosive Blast | 神経蝕滞弾 |
 | skchr_sesa_2 | 延时震荡零件 | Delayed Concussive Parts | ディレイドボンバー |
+| skchr_sharp2_1 | 沉默的爆发 | - | - |
 | skchr_shining_1 | 信条 | Creed | 信条 |
 | skchr_shining_2 | 自动掩护 | Auto Protect | オートカバー |
 | skchr_shining_3 | 教条力场 | Creed Field | 教導の結界 |
@@ -937,6 +939,99 @@ tip: 请善用浏览器的搜索功能
 | sktok_acarm038_2 | 全能机械臂 | Multi-Purpose Robotic Arm | 万能ロボットアーム |
 | sktok_acarm039_1 | 博士投影 | Doctor Hologram | ドクターのホログラム |
 | sktok_acarm039_2 | 博士投影 | Doctor Hologram | ドクターのホログラム |
+| sktok_acarm040_1 | 炎国短刀 | - | - |
+| sktok_acarm040_2 | 炎国短刀 | - | - |
+| sktok_acarm041_1 | 维式重锤 | - | - |
+| sktok_acarm041_2 | 维式重锤 | - | - |
+| sktok_acarm042_1 | 灼燃维式重锤 | - | - |
+| sktok_acarm042_2 | 灼燃维式重锤 | - | - |
+| sktok_acarm043_1 | 坚固维式重锤 | - | - |
+| sktok_acarm043_2 | 坚固维式重锤 | - | - |
+| sktok_acarm044_1 | 加速维式重锤 | - | - |
+| sktok_acarm044_2 | 加速维式重锤 | - | - |
+| sktok_acarm045_1 | 战栗维式重锤 | - | - |
+| sktok_acarm045_2 | 战栗维式重锤 | - | - |
+| sktok_acarm046_1 | 阿戈尔重刃 | - | - |
+| sktok_acarm046_2 | 阿戈尔重刃 | - | - |
+| sktok_acarm047_1 | 坚守盾牌 | - | - |
+| sktok_acarm047_2 | 坚守盾牌 | - | - |
+| sktok_acarm048_1 | 口袋法阵 | - | - |
+| sktok_acarm048_2 | 口袋法阵 | - | - |
+| sktok_acarm049_1 | 歌利亚头盔 | - | - |
+| sktok_acarm049_2 | 歌利亚头盔 | - | - |
+| sktok_acarm050_1 | 萨尔贡浓茶 | - | - |
+| sktok_acarm050_2 | 萨尔贡浓茶 | - | - |
+| sktok_acarm051_1 | 迅捷作战粮 | - | - |
+| sktok_acarm051_2 | 迅捷作战粮 | - | - |
+| sktok_acarm052_1 | 有限加速器 | - | - |
+| sktok_acarm052_2 | 有限加速器 | - | - |
+| sktok_acarm053_1 | 激光发射器 | - | - |
+| sktok_acarm053_2 | 激光发射器 | - | - |
+| sktok_acarm054_1 | 蜂鸣器 | - | - |
+| sktok_acarm054_2 | 蜂鸣器 | - | - |
+| sktok_acarm055_1 | 伪装服 | - | - |
+| sktok_acarm055_2 | 伪装服 | - | - |
+| sktok_acarm056_1 | 不屈弹射器 | - | - |
+| sktok_acarm056_2 | 不屈弹射器 | - | - |
+| sktok_acarm057_1 | 拉特兰桥夹 | - | - |
+| sktok_acarm057_2 | 拉特兰桥夹 | - | - |
+| sktok_acarm058_1 | 催泪瓦斯 | - | - |
+| sktok_acarm058_2 | 催泪瓦斯 | - | - |
+| sktok_acarm059_1 | 浓缩嗅盐 | - | - |
+| sktok_acarm059_2 | 浓缩嗅盐 | - | - |
+| sktok_acarm060_1 | 防暴盾 | - | - |
+| sktok_acarm060_2 | 防暴盾 | - | - |
+| sktok_acarm061_1 | 护盾无人机 | - | - |
+| sktok_acarm061_2 | 护盾无人机 | - | - |
+| sktok_acarm062_1 | 谢拉格不融冰 | - | - |
+| sktok_acarm062_2 | 谢拉格不融冰 | - | - |
+| sktok_acarm063_1 | 精准狙击镜 | - | - |
+| sktok_acarm063_2 | 精准狙击镜 | - | - |
+| sktok_acarm064_1 | 突袭手雷 | - | - |
+| sktok_acarm064_2 | 突袭手雷 | - | - |
+| sktok_acarm065_1 | 休眠子裔 | - | - |
+| sktok_acarm065_2 | 休眠子裔 | - | - |
+| sktok_acarm066_1 | 幸运硬币 | - | - |
+| sktok_acarm066_2 | 幸运硬币 | - | - |
+| sktok_acarm067_1 | 双模机械臂 | - | - |
+| sktok_acarm067_2 | 双模机械臂 | - | - |
+| sktok_acarm068_1 | M3茧甲 | - | - |
+| sktok_acarm068_2 | M3茧甲 | - | - |
+| sktok_acarm069_1 | 拟态物质 | - | - |
+| sktok_acarm069_2 | 拟态物质 | - | - |
+| sktok_acarm070_1 | 人事部文档 | - | - |
+| sktok_acarm070_2 | 人事部文档 | - | - |
+| sktok_acarm071_1 | 博士投影 | - | - |
+| sktok_acarm071_2 | 博士投影 | - | - |
+| sktok_acarm072_1 | 突变细胞 | - | - |
+| sktok_acarm072_2 | 突变细胞 | - | - |
+| sktok_acarm073_1 | 变形同构体 | - | - |
+| sktok_acarm073_2 | 变形同构体 | - | - |
+| sktok_acarm074_1 | 商业包装方案 | - | - |
+| sktok_acarm074_2 | 商业包装方案 | - | - |
+| sktok_acarm075_1 | 寻呼模块 | - | - |
+| sktok_acarm075_2 | 寻呼模块 | - | - |
+| sktok_acarm076_1 | 铳骑之威 | - | - |
+| sktok_acarm076_2 | 铳骑之威 | - | - |
+| sktok_acarm077_1 | 天师古鼎 | - | - |
+| sktok_acarm077_2 | 天师古鼎 | - | - |
+| sktok_acarm078_1 | 海沟实验体 | - | - |
+| sktok_acarm078_2 | 海沟实验体 | - | - |
+| sktok_acarm079_1 | 蒸汽之心 | - | - |
+| sktok_acarm079_2 | 蒸汽之心 | - | - |
+| sktok_acarm102_1 | 耶拉冈德之泪 | - | - |
+| sktok_acarm102_2 | 耶拉冈德之泪 | - | - |
+| sktok_acarm103_1 | 黄沙罗盘 | - | - |
+| sktok_acarm103_2 | 黄沙罗盘 | - | - |
+| sktok_acarm109_1 | 信标 | - | - |
+| sktok_acarm109_2 | 信标 | - | - |
+| sktok_acblzd | 谢拉格寒风 | - | - |
+| sktok_acchal_1 | 教鞭 | - | - |
+| sktok_accopy_1 | 画卷 | - | - |
+| sktok_accrate | 阻隔工事 | - | - |
+| sktok_acdisney_1 | “神秘顾客” | - | - |
+| sktok_achplat | 射击台 | - | - |
+| sktok_aclasert | “双眼皮” | - | - |
 | sktok_acshopfr_1 | 补给留存 | Supply Retention | 補給凍結 |
 | sktok_acshopre_1 | 补给调配 | Supply Distribution | 補給調達 |
 | sktok_acshopup_1 | 补给升级 | Supply Upgrade | 補給強化 |

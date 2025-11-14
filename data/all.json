@@ -3333,6 +3333,18 @@
       "zh_CN": "Misery"
     }
   },
+  "char_616_pithst": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "盟约·辅助干员"
+    }
+  },
+  "char_617_sharp2": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "领主·Sharp"
+    }
+  },
   "token_10000_silent_healrb": {
     "type": "TOKEN",
     "names": {
@@ -4935,12 +4947,132 @@
       "zh_CN": "地形增伤控制"
     }
   },
+  "trap_1040_acarm040": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "炎国短刀"
+    }
+  },
+  "trap_1041_acarm041": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "维式重锤"
+    }
+  },
+  "trap_1042_acarm042": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "灼燃维式重锤"
+    }
+  },
+  "trap_1043_acarm043": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "坚定维式重锤"
+    }
+  },
+  "trap_1044_acarm044": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "加速维式重锤"
+    }
+  },
+  "trap_1045_acarm045": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "战栗维式重锤"
+    }
+  },
+  "trap_1046_acarm046": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "阿戈尔重刃"
+    }
+  },
+  "trap_1047_acarm047": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "坚守盾牌"
+    }
+  },
+  "trap_1048_acarm048": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "口袋法阵"
+    }
+  },
+  "trap_1049_acarm049": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "歌利亚头盔"
+    }
+  },
   "trap_104_dplant": {
     "type": "TRAP",
     "names": {
       "en_US": "Modified Phytohormone",
       "ja_JP": "改良型植物ホルモン",
       "zh_CN": "改性植物激素"
+    }
+  },
+  "trap_1050_acarm050": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "萨尔贡浓茶"
+    }
+  },
+  "trap_1051_acarm051": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "迅捷作战粮"
+    }
+  },
+  "trap_1052_acarm052": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "有限加速器"
+    }
+  },
+  "trap_1053_acarm053": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "激光发射器"
+    }
+  },
+  "trap_1054_acarm054": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "蜂鸣器"
+    }
+  },
+  "trap_1055_acarm055": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "伪装服"
+    }
+  },
+  "trap_1056_acarm056": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "不屈弹射器"
+    }
+  },
+  "trap_1057_acarm057": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "拉特兰桥夹"
+    }
+  },
+  "trap_1058_acarm058": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "催泪瓦斯"
+    }
+  },
+  "trap_1059_acarm059": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "浓缩嗅盐"
     }
   },
   "trap_105_mhwrct": {
@@ -4951,12 +5083,132 @@
       "zh_CN": "滞空牵引无人机"
     }
   },
+  "trap_1060_acarm060": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "防暴盾"
+    }
+  },
+  "trap_1061_acarm061": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "护盾无人机"
+    }
+  },
+  "trap_1062_acarm062": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "谢拉格不融冰"
+    }
+  },
+  "trap_1063_acarm063": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "精准狙击镜"
+    }
+  },
+  "trap_1064_acarm064": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "突袭手雷"
+    }
+  },
+  "trap_1065_acarm065": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "休眠子裔"
+    }
+  },
+  "trap_1066_acarm066": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "幸运硬币"
+    }
+  },
+  "trap_1067_acarm067": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "双模机械臂"
+    }
+  },
+  "trap_1068_acarm068": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "M3茧甲"
+    }
+  },
+  "trap_1069_acarm069": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "拟态物质"
+    }
+  },
   "trap_106_smtree": {
     "type": "TRAP",
     "names": {
       "en_US": "Silvernwhite Bulwark",
       "ja_JP": "積雪の銀樹",
       "zh_CN": "积雪银凇 "
+    }
+  },
+  "trap_1070_acarm070": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "人事部文档"
+    }
+  },
+  "trap_1071_acarm071": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "博士投影"
+    }
+  },
+  "trap_1072_acarm072": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "突变细胞"
+    }
+  },
+  "trap_1073_acarm073": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "变形同构体"
+    }
+  },
+  "trap_1074_acarm074": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "商业包装方案"
+    }
+  },
+  "trap_1075_acarm075": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "寻呼模块"
+    }
+  },
+  "trap_1076_acarm076": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "铳骑之威"
+    }
+  },
+  "trap_1077_acarm077": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "天师古鼎"
+    }
+  },
+  "trap_1078_acarm078": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "海沟实验体"
+    }
+  },
+  "trap_1079_acarm079": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "蒸汽之心"
     }
   },
   "trap_107_smpow": {
@@ -5151,12 +5403,78 @@
       "zh_CN": "补给驳船"
     }
   },
+  "trap_1102_acarm102": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "耶拉冈德之泪"
+    }
+  },
+  "trap_1103_acarm103": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "黄沙罗盘"
+    }
+  },
+  "trap_1104_aclasert": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "“双眼皮”"
+    }
+  },
+  "trap_1105_accrate": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "阻隔工事"
+    }
+  },
+  "trap_1106_achplat": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "射击台"
+    }
+  },
+  "trap_1107_acblock": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "封印的地面"
+    }
+  },
+  "trap_1108_acdisney": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "“神秘顾客”"
+    }
+  },
+  "trap_1109_acarm109": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "信标"
+    }
+  },
   "trap_110_smbbox": {
     "type": "TRAP",
     "names": {
       "en_US": "Testaceous Vinecreeps",
       "ja_JP": "巨殻のツル",
       "zh_CN": "巨壳藤蔓"
+    }
+  },
+  "trap_1110_accopy": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "画卷"
+    }
+  },
+  "trap_1111_acchal": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "教鞭"
+    }
+  },
+  "trap_1112_acblzd": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "盟约寒风"
     }
   },
   "trap_111_wdfarm": {
@@ -11529,6 +11847,12 @@
       "en_US": "Leisure",
       "ja_JP": "気ままな休日",
       "zh_CN": "逸趣"
+    }
+  },
+  "char_491_humus@marthe#10": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "烈阳街景"
     }
   },
   "char_492_quercu@epoque#17": {
@@ -20987,11 +21311,23 @@
       "zh_CN": "鸭爵"
     }
   },
+  "enemy_2001_duckmi_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "鸭爵"
+    }
+  },
   "enemy_2002_bearmi": {
     "type": "ENEMY",
     "names": {
       "en_US": "Gopnik",
       "ja_JP": "ゴプニク",
+      "zh_CN": "高普尼克"
+    }
+  },
+  "enemy_2002_bearmi_2": {
+    "type": "ENEMY",
+    "names": {
       "zh_CN": "高普尼克"
     }
   },
@@ -21248,6 +21584,12 @@
     "names": {
       "en_US": "Crying Thief",
       "ja_JP": "涙目の坊や",
+      "zh_CN": "流泪小子"
+    }
+  },
+  "enemy_2034_sythef_2": {
+    "type": "ENEMY",
+    "names": {
       "zh_CN": "流泪小子"
     }
   },
@@ -21640,6 +21982,12 @@
     "names": {
       "en_US": "Fatty",
       "ja_JP": "マルッコ",
+      "zh_CN": "圆仔"
+    }
+  },
+  "enemy_2085_skzjxd_2": {
+    "type": "ENEMY",
+    "names": {
       "zh_CN": "圆仔"
     }
   },
@@ -23431,10 +23779,142 @@
       "zh_CN": "冰晶射手"
     }
   },
+  "enemy_9006_actoxi": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "假想敌：蚀裂"
+    }
+  },
+  "enemy_9007_acelem": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "假想敌：淤困"
+    }
+  },
+  "enemy_9008_acbunn": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "假想敌：骨刺"
+    }
+  },
+  "enemy_9009_acfort": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "假想敌：黑云"
+    }
+  },
+  "enemy_9010_acpupp": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "假想敌：再生"
+    }
+  },
+  "enemy_9011_acrefr": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "假想敌：镜膜"
+    }
+  },
+  "enemy_9012_acloon": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“炎佑”"
+    }
+  },
+  "enemy_9013_acstmk": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "假想敌：胄"
+    }
+  },
+  "enemy_9013_acstmk_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "假想敌：胄"
+    }
+  },
+  "enemy_9014_acstma": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“斩胄之剑”"
+    }
+  },
+  "enemy_9015_acstmb": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“破胄之锤”"
+    }
+  },
   "enemy_9016_acstmr": {
     "type": "ENEMY",
     "names": {
       "zh_CN": "刺胄之弹"
+    }
+  },
+  "enemy_9017_achunt": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "假想敌：铳"
+    }
+  },
+  "enemy_9017_achunt_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "假想敌：铳"
+    }
+  },
+  "enemy_9018_actrpa": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“碎铳之簧”"
+    }
+  },
+  "enemy_9019_actrpb": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“碎铳之簧”"
+    }
+  },
+  "enemy_9020_actrpc": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“碎铳之簧”"
+    }
+  },
+  "enemy_9021_acduml": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "假想敌：管"
+    }
+  },
+  "enemy_9021_acduml_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "假想敌：管"
+    }
+  },
+  "enemy_9022_acdumm": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "假想敌：弦"
+    }
+  },
+  "enemy_9023_acdums": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“余音”"
+    }
+  },
+  "enemy_9032_aclionk": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "阿利斯泰尔，帝国余晖"
+    }
+  },
+  "enemy_9033_acdeer": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“萨米的意志”"
     }
   },
   "0D5act": {
@@ -24065,6 +24545,12 @@
       "en_US": "Poly Vision Museum",
       "ja_JP": "視像博物館",
       "zh_CN": "视相博物馆"
+    }
+  },
+  "act1autochess": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "卫戍协议:盟约"
     }
   },
   "act1blessing": {
@@ -27912,6 +28398,12 @@
       "zh_CN": "积点卡券"
     }
   },
+  "act1autochess_token_chess": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "卫戍认证"
+    }
+  },
   "act1bossrush_milestone_point": {
     "type": "ITEM",
     "names": {
@@ -31107,6 +31599,12 @@
       "en_US": "Rap Trend 5",
       "ja_JP": "ラップサイド5",
       "zh_CN": "说唱动态5"
+    }
+  },
+  "emoticon_autochess_basic": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "表情套组：卫戍协议"
     }
   },
   "emoticon_basic": {
@@ -35769,6 +36267,12 @@
       "zh_CN": "长夜临光家具收藏包"
     }
   },
+  "uni_set_magicAcademy": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "崔林特尔梅之金家具收藏包"
+    }
+  },
   "uni_set_martialClub": {
     "type": "ITEM",
     "names": {
@@ -36095,6 +36599,12 @@
       "en_US": "Lava the Purgatory's Personal Letter",
       "ja_JP": "炎獄ラヴァの手紙",
       "zh_CN": "炎狱炎熔的私人信件"
+    }
+  },
+  "voucher_full_lessng": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "止颂的私人信件"
     }
   },
   "voucher_full_lumen": {
@@ -37468,6 +37978,12 @@
     }
   },
   "SPECIAL_65_0_5": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "定向甄选"
+    }
+  },
+  "SPECIAL_67_0_3": {
     "type": "POOL",
     "names": {
       "zh_CN": "定向甄选"
@@ -42908,6 +43424,12 @@
       "zh_CN": "电能过载"
     }
   },
+  "skchr_pithst_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "战术咏唱·双型"
+    }
+  },
   "skchr_platnm_2": {
     "type": "SKILL",
     "names": {
@@ -43426,6 +43948,12 @@
       "en_US": "Delayed Concussive Parts",
       "ja_JP": "ディレイドボンバー",
       "zh_CN": "延时震荡零件"
+    }
+  },
+  "skchr_sharp2_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "沉默的爆发"
     }
   },
   "skchr_shining_1": {
@@ -45760,6 +46288,564 @@
       "en_US": "Doctor Hologram",
       "ja_JP": "ドクターのホログラム",
       "zh_CN": "博士投影"
+    }
+  },
+  "sktok_acarm040_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "炎国短刀"
+    }
+  },
+  "sktok_acarm040_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "炎国短刀"
+    }
+  },
+  "sktok_acarm041_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "维式重锤"
+    }
+  },
+  "sktok_acarm041_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "维式重锤"
+    }
+  },
+  "sktok_acarm042_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "灼燃维式重锤"
+    }
+  },
+  "sktok_acarm042_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "灼燃维式重锤"
+    }
+  },
+  "sktok_acarm043_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "坚固维式重锤"
+    }
+  },
+  "sktok_acarm043_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "坚固维式重锤"
+    }
+  },
+  "sktok_acarm044_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "加速维式重锤"
+    }
+  },
+  "sktok_acarm044_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "加速维式重锤"
+    }
+  },
+  "sktok_acarm045_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "战栗维式重锤"
+    }
+  },
+  "sktok_acarm045_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "战栗维式重锤"
+    }
+  },
+  "sktok_acarm046_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "阿戈尔重刃"
+    }
+  },
+  "sktok_acarm046_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "阿戈尔重刃"
+    }
+  },
+  "sktok_acarm047_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "坚守盾牌"
+    }
+  },
+  "sktok_acarm047_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "坚守盾牌"
+    }
+  },
+  "sktok_acarm048_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "口袋法阵"
+    }
+  },
+  "sktok_acarm048_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "口袋法阵"
+    }
+  },
+  "sktok_acarm049_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "歌利亚头盔"
+    }
+  },
+  "sktok_acarm049_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "歌利亚头盔"
+    }
+  },
+  "sktok_acarm050_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "萨尔贡浓茶"
+    }
+  },
+  "sktok_acarm050_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "萨尔贡浓茶"
+    }
+  },
+  "sktok_acarm051_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "迅捷作战粮"
+    }
+  },
+  "sktok_acarm051_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "迅捷作战粮"
+    }
+  },
+  "sktok_acarm052_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "有限加速器"
+    }
+  },
+  "sktok_acarm052_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "有限加速器"
+    }
+  },
+  "sktok_acarm053_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "激光发射器"
+    }
+  },
+  "sktok_acarm053_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "激光发射器"
+    }
+  },
+  "sktok_acarm054_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "蜂鸣器"
+    }
+  },
+  "sktok_acarm054_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "蜂鸣器"
+    }
+  },
+  "sktok_acarm055_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "伪装服"
+    }
+  },
+  "sktok_acarm055_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "伪装服"
+    }
+  },
+  "sktok_acarm056_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "不屈弹射器"
+    }
+  },
+  "sktok_acarm056_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "不屈弹射器"
+    }
+  },
+  "sktok_acarm057_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "拉特兰桥夹"
+    }
+  },
+  "sktok_acarm057_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "拉特兰桥夹"
+    }
+  },
+  "sktok_acarm058_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "催泪瓦斯"
+    }
+  },
+  "sktok_acarm058_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "催泪瓦斯"
+    }
+  },
+  "sktok_acarm059_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "浓缩嗅盐"
+    }
+  },
+  "sktok_acarm059_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "浓缩嗅盐"
+    }
+  },
+  "sktok_acarm060_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "防暴盾"
+    }
+  },
+  "sktok_acarm060_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "防暴盾"
+    }
+  },
+  "sktok_acarm061_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "护盾无人机"
+    }
+  },
+  "sktok_acarm061_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "护盾无人机"
+    }
+  },
+  "sktok_acarm062_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "谢拉格不融冰"
+    }
+  },
+  "sktok_acarm062_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "谢拉格不融冰"
+    }
+  },
+  "sktok_acarm063_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "精准狙击镜"
+    }
+  },
+  "sktok_acarm063_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "精准狙击镜"
+    }
+  },
+  "sktok_acarm064_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "突袭手雷"
+    }
+  },
+  "sktok_acarm064_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "突袭手雷"
+    }
+  },
+  "sktok_acarm065_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "休眠子裔"
+    }
+  },
+  "sktok_acarm065_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "休眠子裔"
+    }
+  },
+  "sktok_acarm066_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "幸运硬币"
+    }
+  },
+  "sktok_acarm066_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "幸运硬币"
+    }
+  },
+  "sktok_acarm067_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "双模机械臂"
+    }
+  },
+  "sktok_acarm067_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "双模机械臂"
+    }
+  },
+  "sktok_acarm068_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "M3茧甲"
+    }
+  },
+  "sktok_acarm068_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "M3茧甲"
+    }
+  },
+  "sktok_acarm069_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "拟态物质"
+    }
+  },
+  "sktok_acarm069_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "拟态物质"
+    }
+  },
+  "sktok_acarm070_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "人事部文档"
+    }
+  },
+  "sktok_acarm070_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "人事部文档"
+    }
+  },
+  "sktok_acarm071_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "博士投影"
+    }
+  },
+  "sktok_acarm071_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "博士投影"
+    }
+  },
+  "sktok_acarm072_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "突变细胞"
+    }
+  },
+  "sktok_acarm072_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "突变细胞"
+    }
+  },
+  "sktok_acarm073_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "变形同构体"
+    }
+  },
+  "sktok_acarm073_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "变形同构体"
+    }
+  },
+  "sktok_acarm074_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "商业包装方案"
+    }
+  },
+  "sktok_acarm074_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "商业包装方案"
+    }
+  },
+  "sktok_acarm075_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "寻呼模块"
+    }
+  },
+  "sktok_acarm075_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "寻呼模块"
+    }
+  },
+  "sktok_acarm076_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "铳骑之威"
+    }
+  },
+  "sktok_acarm076_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "铳骑之威"
+    }
+  },
+  "sktok_acarm077_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "天师古鼎"
+    }
+  },
+  "sktok_acarm077_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "天师古鼎"
+    }
+  },
+  "sktok_acarm078_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "海沟实验体"
+    }
+  },
+  "sktok_acarm078_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "海沟实验体"
+    }
+  },
+  "sktok_acarm079_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "蒸汽之心"
+    }
+  },
+  "sktok_acarm079_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "蒸汽之心"
+    }
+  },
+  "sktok_acarm102_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "耶拉冈德之泪"
+    }
+  },
+  "sktok_acarm102_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "耶拉冈德之泪"
+    }
+  },
+  "sktok_acarm103_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "黄沙罗盘"
+    }
+  },
+  "sktok_acarm103_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "黄沙罗盘"
+    }
+  },
+  "sktok_acarm109_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "信标"
+    }
+  },
+  "sktok_acarm109_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "信标"
+    }
+  },
+  "sktok_acblzd": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "谢拉格寒风"
+    }
+  },
+  "sktok_acchal_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "教鞭"
+    }
+  },
+  "sktok_accopy_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "画卷"
+    }
+  },
+  "sktok_accrate": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "阻隔工事"
+    }
+  },
+  "sktok_acdisney_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“神秘顾客”"
+    }
+  },
+  "sktok_achplat": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "射击台"
+    }
+  },
+  "sktok_aclasert": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“双眼皮”"
     }
   },
   "sktok_acshopfr_1": {
@@ -52932,6 +54018,48 @@
       "zh_CN": "环绕大地"
     }
   },
+  "act1autochess_m01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "AC-3"
+    }
+  },
+  "act1autochess_m02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "AC-4"
+    }
+  },
+  "act1autochess_m03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "AC-5"
+    }
+  },
+  "act1autochess_m04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "AC-6"
+    }
+  },
+  "act1autochess_m05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "AC-7"
+    }
+  },
+  "act1autochess_m06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "AC-8"
+    }
+  },
+  "act1autochess_m07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "AC-9"
+    }
+  },
   "act1bossrush_01": {
     "type": "STAGE",
     "names": {
@@ -57604,6 +58732,36 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "耶拉冈德在上"
+    }
+  },
+  "act46side_s01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "打雪仗"
+    }
+  },
+  "act46side_s02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "堆雪人"
+    }
+  },
+  "act46side_s03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "雪孩子"
+    }
+  },
+  "act46side_s04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "雪中歌谣"
+    }
+  },
+  "act46side_s05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "雪与我与雪"
     }
   },
   "act46side_st01": {

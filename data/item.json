@@ -1281,6 +1281,9 @@
     "ja_JP": "景品チケット",
     "zh_CN": "积点卡券"
   },
+  "act1autochess_token_chess": {
+    "zh_CN": "卫戍认证"
+  },
   "act1bossrush_milestone_point": {
     "en_US": "Trial EXP",
     "ja_JP": "試練経験値",
@@ -3250,6 +3253,9 @@
     "en_US": "Rap Trend 5",
     "ja_JP": "ラップサイド5",
     "zh_CN": "说唱动态5"
+  },
+  "emoticon_autochess_basic": {
+    "zh_CN": "表情套组：卫戍协议"
   },
   "emoticon_basic": {
     "en_US": "Emote Set",
@@ -6120,6 +6126,9 @@
     "ja_JP": "ニアーライト家具パック",
     "zh_CN": "长夜临光家具收藏包"
   },
+  "uni_set_magicAcademy": {
+    "zh_CN": "崔林特尔梅之金家具收藏包"
+  },
   "uni_set_martialClub": {
     "en_US": "Where Vernal Winds Will Never Blow Furniture Pack",
     "ja_JP": "登臨意家具パック",
@@ -6321,6 +6330,9 @@
     "en_US": "Lava the Purgatory's Personal Letter",
     "ja_JP": "炎獄ラヴァの手紙",
     "zh_CN": "炎狱炎熔的私人信件"
+  },
+  "voucher_full_lessng": {
+    "zh_CN": "止颂的私人信件"
   },
   "voucher_full_lumen": {
     "en_US": "Lumen's Personal Letter",

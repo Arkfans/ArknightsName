@@ -694,20 +694,140 @@
     "ja_JP": "地形ダメージ制御",
     "zh_CN": "地形增伤控制"
   },
+  "trap_1040_acarm040": {
+    "zh_CN": "炎国短刀"
+  },
+  "trap_1041_acarm041": {
+    "zh_CN": "维式重锤"
+  },
+  "trap_1042_acarm042": {
+    "zh_CN": "灼燃维式重锤"
+  },
+  "trap_1043_acarm043": {
+    "zh_CN": "坚定维式重锤"
+  },
+  "trap_1044_acarm044": {
+    "zh_CN": "加速维式重锤"
+  },
+  "trap_1045_acarm045": {
+    "zh_CN": "战栗维式重锤"
+  },
+  "trap_1046_acarm046": {
+    "zh_CN": "阿戈尔重刃"
+  },
+  "trap_1047_acarm047": {
+    "zh_CN": "坚守盾牌"
+  },
+  "trap_1048_acarm048": {
+    "zh_CN": "口袋法阵"
+  },
+  "trap_1049_acarm049": {
+    "zh_CN": "歌利亚头盔"
+  },
   "trap_104_dplant": {
     "en_US": "Modified Phytohormone",
     "ja_JP": "改良型植物ホルモン",
     "zh_CN": "改性植物激素"
+  },
+  "trap_1050_acarm050": {
+    "zh_CN": "萨尔贡浓茶"
+  },
+  "trap_1051_acarm051": {
+    "zh_CN": "迅捷作战粮"
+  },
+  "trap_1052_acarm052": {
+    "zh_CN": "有限加速器"
+  },
+  "trap_1053_acarm053": {
+    "zh_CN": "激光发射器"
+  },
+  "trap_1054_acarm054": {
+    "zh_CN": "蜂鸣器"
+  },
+  "trap_1055_acarm055": {
+    "zh_CN": "伪装服"
+  },
+  "trap_1056_acarm056": {
+    "zh_CN": "不屈弹射器"
+  },
+  "trap_1057_acarm057": {
+    "zh_CN": "拉特兰桥夹"
+  },
+  "trap_1058_acarm058": {
+    "zh_CN": "催泪瓦斯"
+  },
+  "trap_1059_acarm059": {
+    "zh_CN": "浓缩嗅盐"
   },
   "trap_105_mhwrct": {
     "en_US": "Wiredrone",
     "ja_JP": "滞空牽引ドローン",
     "zh_CN": "滞空牵引无人机"
   },
+  "trap_1060_acarm060": {
+    "zh_CN": "防暴盾"
+  },
+  "trap_1061_acarm061": {
+    "zh_CN": "护盾无人机"
+  },
+  "trap_1062_acarm062": {
+    "zh_CN": "谢拉格不融冰"
+  },
+  "trap_1063_acarm063": {
+    "zh_CN": "精准狙击镜"
+  },
+  "trap_1064_acarm064": {
+    "zh_CN": "突袭手雷"
+  },
+  "trap_1065_acarm065": {
+    "zh_CN": "休眠子裔"
+  },
+  "trap_1066_acarm066": {
+    "zh_CN": "幸运硬币"
+  },
+  "trap_1067_acarm067": {
+    "zh_CN": "双模机械臂"
+  },
+  "trap_1068_acarm068": {
+    "zh_CN": "M3茧甲"
+  },
+  "trap_1069_acarm069": {
+    "zh_CN": "拟态物质"
+  },
   "trap_106_smtree": {
     "en_US": "Silvernwhite Bulwark",
     "ja_JP": "積雪の銀樹",
     "zh_CN": "积雪银凇 "
+  },
+  "trap_1070_acarm070": {
+    "zh_CN": "人事部文档"
+  },
+  "trap_1071_acarm071": {
+    "zh_CN": "博士投影"
+  },
+  "trap_1072_acarm072": {
+    "zh_CN": "突变细胞"
+  },
+  "trap_1073_acarm073": {
+    "zh_CN": "变形同构体"
+  },
+  "trap_1074_acarm074": {
+    "zh_CN": "商业包装方案"
+  },
+  "trap_1075_acarm075": {
+    "zh_CN": "寻呼模块"
+  },
+  "trap_1076_acarm076": {
+    "zh_CN": "铳骑之威"
+  },
+  "trap_1077_acarm077": {
+    "zh_CN": "天师古鼎"
+  },
+  "trap_1078_acarm078": {
+    "zh_CN": "海沟实验体"
+  },
+  "trap_1079_acarm079": {
+    "zh_CN": "蒸汽之心"
   },
   "trap_107_smpow": {
     "en_US": "Dimensional Anchoring Pylon",
@@ -829,10 +949,43 @@
     "ja_JP": "補給船",
     "zh_CN": "补给驳船"
   },
+  "trap_1102_acarm102": {
+    "zh_CN": "耶拉冈德之泪"
+  },
+  "trap_1103_acarm103": {
+    "zh_CN": "黄沙罗盘"
+  },
+  "trap_1104_aclasert": {
+    "zh_CN": "“双眼皮”"
+  },
+  "trap_1105_accrate": {
+    "zh_CN": "阻隔工事"
+  },
+  "trap_1106_achplat": {
+    "zh_CN": "射击台"
+  },
+  "trap_1107_acblock": {
+    "zh_CN": "封印的地面"
+  },
+  "trap_1108_acdisney": {
+    "zh_CN": "“神秘顾客”"
+  },
+  "trap_1109_acarm109": {
+    "zh_CN": "信标"
+  },
   "trap_110_smbbox": {
     "en_US": "Testaceous Vinecreeps",
     "ja_JP": "巨殻のツル",
     "zh_CN": "巨壳藤蔓"
+  },
+  "trap_1110_accopy": {
+    "zh_CN": "画卷"
+  },
+  "trap_1111_acchal": {
+    "zh_CN": "教鞭"
+  },
+  "trap_1112_acblzd": {
+    "zh_CN": "盟约寒风"
   },
   "trap_111_wdfarm": {
     "en_US": "Roadside Emergency Reserves",

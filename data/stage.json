@@ -1874,6 +1874,27 @@
     "ja_JP": "大地を巡れ",
     "zh_CN": "环绕大地"
   },
+  "act1autochess_m01": {
+    "zh_CN": "AC-3"
+  },
+  "act1autochess_m02": {
+    "zh_CN": "AC-4"
+  },
+  "act1autochess_m03": {
+    "zh_CN": "AC-5"
+  },
+  "act1autochess_m04": {
+    "zh_CN": "AC-6"
+  },
+  "act1autochess_m05": {
+    "zh_CN": "AC-7"
+  },
+  "act1autochess_m06": {
+    "zh_CN": "AC-8"
+  },
+  "act1autochess_m07": {
+    "zh_CN": "AC-9"
+  },
   "act1bossrush_01": {
     "en_US": "Burn and Destroy",
     "ja_JP": "無尽の炎と破壊の鋸",
@@ -4729,6 +4750,21 @@
   },
   "act46side_10": {
     "zh_CN": "耶拉冈德在上"
+  },
+  "act46side_s01": {
+    "zh_CN": "打雪仗"
+  },
+  "act46side_s02": {
+    "zh_CN": "堆雪人"
+  },
+  "act46side_s03": {
+    "zh_CN": "雪孩子"
+  },
+  "act46side_s04": {
+    "zh_CN": "雪中歌谣"
+  },
+  "act46side_s05": {
+    "zh_CN": "雪与我与雪"
   },
   "act46side_st01": {
     "zh_CN": "崩落"

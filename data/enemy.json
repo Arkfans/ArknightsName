@@ -5688,9 +5688,15 @@
     "ja_JP": "ダック卿",
     "zh_CN": "鸭爵"
   },
+  "enemy_2001_duckmi_2": {
+    "zh_CN": "鸭爵"
+  },
   "enemy_2002_bearmi": {
     "en_US": "Gopnik",
     "ja_JP": "ゴプニク",
+    "zh_CN": "高普尼克"
+  },
+  "enemy_2002_bearmi_2": {
     "zh_CN": "高普尼克"
   },
   "enemy_2003_rockman": {
@@ -5851,6 +5857,9 @@
   "enemy_2034_sythef": {
     "en_US": "Crying Thief",
     "ja_JP": "涙目の坊や",
+    "zh_CN": "流泪小子"
+  },
+  "enemy_2034_sythef_2": {
     "zh_CN": "流泪小子"
   },
   "enemy_2035_sybox": {
@@ -6096,6 +6105,9 @@
   "enemy_2085_skzjxd": {
     "en_US": "Fatty",
     "ja_JP": "マルッコ",
+    "zh_CN": "圆仔"
+  },
+  "enemy_2085_skzjxd_2": {
     "zh_CN": "圆仔"
   },
   "enemy_2089_skzjkl": {
@@ -7181,7 +7193,73 @@
     "ja_JP": "氷晶の射手",
     "zh_CN": "冰晶射手"
   },
+  "enemy_9006_actoxi": {
+    "zh_CN": "假想敌：蚀裂"
+  },
+  "enemy_9007_acelem": {
+    "zh_CN": "假想敌：淤困"
+  },
+  "enemy_9008_acbunn": {
+    "zh_CN": "假想敌：骨刺"
+  },
+  "enemy_9009_acfort": {
+    "zh_CN": "假想敌：黑云"
+  },
+  "enemy_9010_acpupp": {
+    "zh_CN": "假想敌：再生"
+  },
+  "enemy_9011_acrefr": {
+    "zh_CN": "假想敌：镜膜"
+  },
+  "enemy_9012_acloon": {
+    "zh_CN": "“炎佑”"
+  },
+  "enemy_9013_acstmk": {
+    "zh_CN": "假想敌：胄"
+  },
+  "enemy_9013_acstmk_2": {
+    "zh_CN": "假想敌：胄"
+  },
+  "enemy_9014_acstma": {
+    "zh_CN": "“斩胄之剑”"
+  },
+  "enemy_9015_acstmb": {
+    "zh_CN": "“破胄之锤”"
+  },
   "enemy_9016_acstmr": {
     "zh_CN": "刺胄之弹"
+  },
+  "enemy_9017_achunt": {
+    "zh_CN": "假想敌：铳"
+  },
+  "enemy_9017_achunt_2": {
+    "zh_CN": "假想敌：铳"
+  },
+  "enemy_9018_actrpa": {
+    "zh_CN": "“碎铳之簧”"
+  },
+  "enemy_9019_actrpb": {
+    "zh_CN": "“碎铳之簧”"
+  },
+  "enemy_9020_actrpc": {
+    "zh_CN": "“碎铳之簧”"
+  },
+  "enemy_9021_acduml": {
+    "zh_CN": "假想敌：管"
+  },
+  "enemy_9021_acduml_2": {
+    "zh_CN": "假想敌：管"
+  },
+  "enemy_9022_acdumm": {
+    "zh_CN": "假想敌：弦"
+  },
+  "enemy_9023_acdums": {
+    "zh_CN": "“余音”"
+  },
+  "enemy_9032_aclionk": {
+    "zh_CN": "阿利斯泰尔，帝国余晖"
+  },
+  "enemy_9033_acdeer": {
+    "zh_CN": "“萨米的意志”"
   }
 }

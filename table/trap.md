@@ -144,9 +144,49 @@ tip: 请善用浏览器的搜索功能
 | trap_1038_acarm038 | 全能机械臂 | Multi-Purpose Robotic Arm | 万能ロボットアーム |
 | trap_1039_acarm039 | 博士投影 | Doctor Hologram | ドクターのホログラム |
 | trap_103_ymdgct | 地形增伤控制 | Mire Controller | 地形ダメージ制御 |
+| trap_1040_acarm040 | 炎国短刀 | - | - |
+| trap_1041_acarm041 | 维式重锤 | - | - |
+| trap_1042_acarm042 | 灼燃维式重锤 | - | - |
+| trap_1043_acarm043 | 坚定维式重锤 | - | - |
+| trap_1044_acarm044 | 加速维式重锤 | - | - |
+| trap_1045_acarm045 | 战栗维式重锤 | - | - |
+| trap_1046_acarm046 | 阿戈尔重刃 | - | - |
+| trap_1047_acarm047 | 坚守盾牌 | - | - |
+| trap_1048_acarm048 | 口袋法阵 | - | - |
+| trap_1049_acarm049 | 歌利亚头盔 | - | - |
 | trap_104_dplant | 改性植物激素 | Modified Phytohormone | 改良型植物ホルモン |
+| trap_1050_acarm050 | 萨尔贡浓茶 | - | - |
+| trap_1051_acarm051 | 迅捷作战粮 | - | - |
+| trap_1052_acarm052 | 有限加速器 | - | - |
+| trap_1053_acarm053 | 激光发射器 | - | - |
+| trap_1054_acarm054 | 蜂鸣器 | - | - |
+| trap_1055_acarm055 | 伪装服 | - | - |
+| trap_1056_acarm056 | 不屈弹射器 | - | - |
+| trap_1057_acarm057 | 拉特兰桥夹 | - | - |
+| trap_1058_acarm058 | 催泪瓦斯 | - | - |
+| trap_1059_acarm059 | 浓缩嗅盐 | - | - |
 | trap_105_mhwrct | 滞空牵引无人机 | Wiredrone | 滞空牽引ドローン |
+| trap_1060_acarm060 | 防暴盾 | - | - |
+| trap_1061_acarm061 | 护盾无人机 | - | - |
+| trap_1062_acarm062 | 谢拉格不融冰 | - | - |
+| trap_1063_acarm063 | 精准狙击镜 | - | - |
+| trap_1064_acarm064 | 突袭手雷 | - | - |
+| trap_1065_acarm065 | 休眠子裔 | - | - |
+| trap_1066_acarm066 | 幸运硬币 | - | - |
+| trap_1067_acarm067 | 双模机械臂 | - | - |
+| trap_1068_acarm068 | M3茧甲 | - | - |
+| trap_1069_acarm069 | 拟态物质 | - | - |
 | trap_106_smtree | 积雪银凇  | Silvernwhite Bulwark | 積雪の銀樹 |
+| trap_1070_acarm070 | 人事部文档 | - | - |
+| trap_1071_acarm071 | 博士投影 | - | - |
+| trap_1072_acarm072 | 突变细胞 | - | - |
+| trap_1073_acarm073 | 变形同构体 | - | - |
+| trap_1074_acarm074 | 商业包装方案 | - | - |
+| trap_1075_acarm075 | 寻呼模块 | - | - |
+| trap_1076_acarm076 | 铳骑之威 | - | - |
+| trap_1077_acarm077 | 天师古鼎 | - | - |
+| trap_1078_acarm078 | 海沟实验体 | - | - |
+| trap_1079_acarm079 | 蒸汽之心 | - | - |
 | trap_107_smpow | 空间稳定设施 | Dimensional Anchoring Pylon | 空間安定化設備 |
 | trap_1080_acspell001 | 法术：恢复 | Arts: Recovery | アーツ：治療 |
 | trap_1081_acspell002 | 法术：力量 | Arts: Strength | アーツ：剛力 |
@@ -171,7 +211,18 @@ tip: 请善用浏览器的搜索功能
 | trap_109_smrbox | 尖刺宝箱 | Spiked Treasure Chest | トゲトゲ宝箱 |
 | trap_1100_acreddoor | 敌人入口 | Enemy Entrance | 敵の入口 |
 | trap_1101_acplane | 补给驳船 | Supply Barge | 補給船 |
+| trap_1102_acarm102 | 耶拉冈德之泪 | - | - |
+| trap_1103_acarm103 | 黄沙罗盘 | - | - |
+| trap_1104_aclasert | “双眼皮” | - | - |
+| trap_1105_accrate | 阻隔工事 | - | - |
+| trap_1106_achplat | 射击台 | - | - |
+| trap_1107_acblock | 封印的地面 | - | - |
+| trap_1108_acdisney | “神秘顾客” | - | - |
+| trap_1109_acarm109 | 信标 | - | - |
 | trap_110_smbbox | 巨壳藤蔓 | Testaceous Vinecreeps | 巨殻のツル |
+| trap_1110_accopy | 画卷 | - | - |
+| trap_1111_acchal | 教鞭 | - | - |
+| trap_1112_acblzd | 盟约寒风 | - | - |
 | trap_111_wdfarm | 街头应急储备 | Roadside Emergency Reserves | 街の緊急用備蓄 |
 | trap_112_crsbow | 解雇者清债程序 | Post-Firing Debt Relief Program | 解雇者清算プログラム |
 | trap_113_snflwr | 全自动划账器 | Full-Auto Debit Machine | 全自動送金機 |

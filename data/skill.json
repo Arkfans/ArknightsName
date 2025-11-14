@@ -2786,6 +2786,9 @@
     "ja_JP": "過負荷駆動",
     "zh_CN": "电能过载"
   },
+  "skchr_pithst_1": {
+    "zh_CN": "战术咏唱·双型"
+  },
   "skchr_platnm_2": {
     "en_US": "Pegasian Sight",
     "ja_JP": "ペガサスアイ",
@@ -3104,6 +3107,9 @@
     "en_US": "Delayed Concussive Parts",
     "ja_JP": "ディレイドボンバー",
     "zh_CN": "延时震荡零件"
+  },
+  "skchr_sharp2_1": {
+    "zh_CN": "沉默的爆发"
   },
   "skchr_shining_1": {
     "en_US": "Creed",
@@ -4556,6 +4562,285 @@
     "en_US": "Doctor Hologram",
     "ja_JP": "ドクターのホログラム",
     "zh_CN": "博士投影"
+  },
+  "sktok_acarm040_1": {
+    "zh_CN": "炎国短刀"
+  },
+  "sktok_acarm040_2": {
+    "zh_CN": "炎国短刀"
+  },
+  "sktok_acarm041_1": {
+    "zh_CN": "维式重锤"
+  },
+  "sktok_acarm041_2": {
+    "zh_CN": "维式重锤"
+  },
+  "sktok_acarm042_1": {
+    "zh_CN": "灼燃维式重锤"
+  },
+  "sktok_acarm042_2": {
+    "zh_CN": "灼燃维式重锤"
+  },
+  "sktok_acarm043_1": {
+    "zh_CN": "坚固维式重锤"
+  },
+  "sktok_acarm043_2": {
+    "zh_CN": "坚固维式重锤"
+  },
+  "sktok_acarm044_1": {
+    "zh_CN": "加速维式重锤"
+  },
+  "sktok_acarm044_2": {
+    "zh_CN": "加速维式重锤"
+  },
+  "sktok_acarm045_1": {
+    "zh_CN": "战栗维式重锤"
+  },
+  "sktok_acarm045_2": {
+    "zh_CN": "战栗维式重锤"
+  },
+  "sktok_acarm046_1": {
+    "zh_CN": "阿戈尔重刃"
+  },
+  "sktok_acarm046_2": {
+    "zh_CN": "阿戈尔重刃"
+  },
+  "sktok_acarm047_1": {
+    "zh_CN": "坚守盾牌"
+  },
+  "sktok_acarm047_2": {
+    "zh_CN": "坚守盾牌"
+  },
+  "sktok_acarm048_1": {
+    "zh_CN": "口袋法阵"
+  },
+  "sktok_acarm048_2": {
+    "zh_CN": "口袋法阵"
+  },
+  "sktok_acarm049_1": {
+    "zh_CN": "歌利亚头盔"
+  },
+  "sktok_acarm049_2": {
+    "zh_CN": "歌利亚头盔"
+  },
+  "sktok_acarm050_1": {
+    "zh_CN": "萨尔贡浓茶"
+  },
+  "sktok_acarm050_2": {
+    "zh_CN": "萨尔贡浓茶"
+  },
+  "sktok_acarm051_1": {
+    "zh_CN": "迅捷作战粮"
+  },
+  "sktok_acarm051_2": {
+    "zh_CN": "迅捷作战粮"
+  },
+  "sktok_acarm052_1": {
+    "zh_CN": "有限加速器"
+  },
+  "sktok_acarm052_2": {
+    "zh_CN": "有限加速器"
+  },
+  "sktok_acarm053_1": {
+    "zh_CN": "激光发射器"
+  },
+  "sktok_acarm053_2": {
+    "zh_CN": "激光发射器"
+  },
+  "sktok_acarm054_1": {
+    "zh_CN": "蜂鸣器"
+  },
+  "sktok_acarm054_2": {
+    "zh_CN": "蜂鸣器"
+  },
+  "sktok_acarm055_1": {
+    "zh_CN": "伪装服"
+  },
+  "sktok_acarm055_2": {
+    "zh_CN": "伪装服"
+  },
+  "sktok_acarm056_1": {
+    "zh_CN": "不屈弹射器"
+  },
+  "sktok_acarm056_2": {
+    "zh_CN": "不屈弹射器"
+  },
+  "sktok_acarm057_1": {
+    "zh_CN": "拉特兰桥夹"
+  },
+  "sktok_acarm057_2": {
+    "zh_CN": "拉特兰桥夹"
+  },
+  "sktok_acarm058_1": {
+    "zh_CN": "催泪瓦斯"
+  },
+  "sktok_acarm058_2": {
+    "zh_CN": "催泪瓦斯"
+  },
+  "sktok_acarm059_1": {
+    "zh_CN": "浓缩嗅盐"
+  },
+  "sktok_acarm059_2": {
+    "zh_CN": "浓缩嗅盐"
+  },
+  "sktok_acarm060_1": {
+    "zh_CN": "防暴盾"
+  },
+  "sktok_acarm060_2": {
+    "zh_CN": "防暴盾"
+  },
+  "sktok_acarm061_1": {
+    "zh_CN": "护盾无人机"
+  },
+  "sktok_acarm061_2": {
+    "zh_CN": "护盾无人机"
+  },
+  "sktok_acarm062_1": {
+    "zh_CN": "谢拉格不融冰"
+  },
+  "sktok_acarm062_2": {
+    "zh_CN": "谢拉格不融冰"
+  },
+  "sktok_acarm063_1": {
+    "zh_CN": "精准狙击镜"
+  },
+  "sktok_acarm063_2": {
+    "zh_CN": "精准狙击镜"
+  },
+  "sktok_acarm064_1": {
+    "zh_CN": "突袭手雷"
+  },
+  "sktok_acarm064_2": {
+    "zh_CN": "突袭手雷"
+  },
+  "sktok_acarm065_1": {
+    "zh_CN": "休眠子裔"
+  },
+  "sktok_acarm065_2": {
+    "zh_CN": "休眠子裔"
+  },
+  "sktok_acarm066_1": {
+    "zh_CN": "幸运硬币"
+  },
+  "sktok_acarm066_2": {
+    "zh_CN": "幸运硬币"
+  },
+  "sktok_acarm067_1": {
+    "zh_CN": "双模机械臂"
+  },
+  "sktok_acarm067_2": {
+    "zh_CN": "双模机械臂"
+  },
+  "sktok_acarm068_1": {
+    "zh_CN": "M3茧甲"
+  },
+  "sktok_acarm068_2": {
+    "zh_CN": "M3茧甲"
+  },
+  "sktok_acarm069_1": {
+    "zh_CN": "拟态物质"
+  },
+  "sktok_acarm069_2": {
+    "zh_CN": "拟态物质"
+  },
+  "sktok_acarm070_1": {
+    "zh_CN": "人事部文档"
+  },
+  "sktok_acarm070_2": {
+    "zh_CN": "人事部文档"
+  },
+  "sktok_acarm071_1": {
+    "zh_CN": "博士投影"
+  },
+  "sktok_acarm071_2": {
+    "zh_CN": "博士投影"
+  },
+  "sktok_acarm072_1": {
+    "zh_CN": "突变细胞"
+  },
+  "sktok_acarm072_2": {
+    "zh_CN": "突变细胞"
+  },
+  "sktok_acarm073_1": {
+    "zh_CN": "变形同构体"
+  },
+  "sktok_acarm073_2": {
+    "zh_CN": "变形同构体"
+  },
+  "sktok_acarm074_1": {
+    "zh_CN": "商业包装方案"
+  },
+  "sktok_acarm074_2": {
+    "zh_CN": "商业包装方案"
+  },
+  "sktok_acarm075_1": {
+    "zh_CN": "寻呼模块"
+  },
+  "sktok_acarm075_2": {
+    "zh_CN": "寻呼模块"
+  },
+  "sktok_acarm076_1": {
+    "zh_CN": "铳骑之威"
+  },
+  "sktok_acarm076_2": {
+    "zh_CN": "铳骑之威"
+  },
+  "sktok_acarm077_1": {
+    "zh_CN": "天师古鼎"
+  },
+  "sktok_acarm077_2": {
+    "zh_CN": "天师古鼎"
+  },
+  "sktok_acarm078_1": {
+    "zh_CN": "海沟实验体"
+  },
+  "sktok_acarm078_2": {
+    "zh_CN": "海沟实验体"
+  },
+  "sktok_acarm079_1": {
+    "zh_CN": "蒸汽之心"
+  },
+  "sktok_acarm079_2": {
+    "zh_CN": "蒸汽之心"
+  },
+  "sktok_acarm102_1": {
+    "zh_CN": "耶拉冈德之泪"
+  },
+  "sktok_acarm102_2": {
+    "zh_CN": "耶拉冈德之泪"
+  },
+  "sktok_acarm103_1": {
+    "zh_CN": "黄沙罗盘"
+  },
+  "sktok_acarm103_2": {
+    "zh_CN": "黄沙罗盘"
+  },
+  "sktok_acarm109_1": {
+    "zh_CN": "信标"
+  },
+  "sktok_acarm109_2": {
+    "zh_CN": "信标"
+  },
+  "sktok_acblzd": {
+    "zh_CN": "谢拉格寒风"
+  },
+  "sktok_acchal_1": {
+    "zh_CN": "教鞭"
+  },
+  "sktok_accopy_1": {
+    "zh_CN": "画卷"
+  },
+  "sktok_accrate": {
+    "zh_CN": "阻隔工事"
+  },
+  "sktok_acdisney_1": {
+    "zh_CN": "“神秘顾客”"
+  },
+  "sktok_achplat": {
+    "zh_CN": "射击台"
+  },
+  "sktok_aclasert": {
+    "zh_CN": "“双眼皮”"
   },
   "sktok_acshopfr_1": {
     "en_US": "Supply Retention",

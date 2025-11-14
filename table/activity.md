@@ -87,6 +87,7 @@ tip: 请善用浏览器的搜索功能
 | act19sre | 绿野幻梦·复刻 | Dorothy's Vision - Retrospection | 翠玉の夢・復刻 |
 | act1access | 五周年专享活动 | Exclusive Event | 大感謝祭限定イベント |
 | act1arcade | 视相博物馆 | Poly Vision Museum | 視像博物館 |
+| act1autochess | 卫戍协议:盟约 | - | - |
 | act1blessing | 2024罗德岛新春签到 | 2024 Festival Sign-In | 4.5周年スタンプラリー |
 | act1bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act1break | 矢量突破：无机物 | Vector Breakthrough - Inorganic Matters | 鋒矢突破：無機物 |

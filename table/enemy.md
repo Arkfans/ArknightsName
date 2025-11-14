@@ -1177,7 +1177,9 @@ tip: 请善用浏览器的搜索功能
 | enemy_18007_lhbque | 斑斓虫 | - | - |
 | enemy_18008_lhbbos | “老尖牙” | - | - |
 | enemy_2001_duckmi | 鸭爵 | Duck Lord | ダック卿 |
+| enemy_2001_duckmi_2 | 鸭爵 | - | - |
 | enemy_2002_bearmi | 高普尼克 | Gopnik | ゴプニク |
+| enemy_2002_bearmi_2 | 高普尼克 | - | - |
 | enemy_2003_rockman | 迷路的巨像 | Lost Colossus | 迷子の巨像 |
 | enemy_2004_balloon | 喷气人 | Jetman | ジェットマン |
 | enemy_2005_axetro | “遗弃者” | 'Forsaken One' | 「見棄てし者」 |
@@ -1210,6 +1212,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_2032_syboy2 | 延命塑路者 | Lingering Pathshaper | 延命するパスファインダー |
 | enemy_2033_syboys | 塑路者分形 | Pathshaper Fractal | パスファインダーの影 |
 | enemy_2034_sythef | 流泪小子 | Crying Thief | 涙目の坊や |
+| enemy_2034_sythef_2 | 流泪小子 | - | - |
 | enemy_2035_sybox | 箱形恐鱼 | Chest Seaborn | 宝箱形恐魚 |
 | enemy_2036_syshop | 坎诺特 | Cannot | キャノット |
 | enemy_2037_sygirl | “偏执泡影” | 'Paranoia Illusion' | 「偏執の泡沫」 |
@@ -1259,6 +1262,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_2082_skzdd | 博卓卡斯替，圣卫铳骑 | Buldrokkas'tee, Holy Gun-Knight | 「聖衛の銃騎士」ボジョカスティ |
 | enemy_2084_skzcan | 古德因纳夫先生 | Mr. Goodenough | Mr.グッドイナフ |
 | enemy_2085_skzjxd | 圆仔 | Fatty | マルッコ |
+| enemy_2085_skzjxd_2 | 圆仔 | - | - |
 | enemy_2089_skzjkl | 奎隆，摩诃萨埵权化 | Qui'lon, Avatar of the Mahasattva | 「摩訶薩の権化」クイロン |
 | enemy_2090_skzjbc | 托生莲座 | Padmasana of Rebirth | 托生蓮座 |
 | enemy_2091_skzgds | “窗” | 'Window' | 「窓」 |
@@ -1494,4 +1498,26 @@ tip: 请善用浏览器的搜索功能
 | enemy_9003_askate | 寻路者供弹手 | Pathfinder Armicustos | 求道供弾者 |
 | enemy_9004_anlock | 技师囚犯 | Technician Prisoner | 囚人技師 |
 | enemy_9005_aicemn | 冰晶射手 | Glacial Archer | 氷晶の射手 |
+| enemy_9006_actoxi | 假想敌：蚀裂 | - | - |
+| enemy_9007_acelem | 假想敌：淤困 | - | - |
+| enemy_9008_acbunn | 假想敌：骨刺 | - | - |
+| enemy_9009_acfort | 假想敌：黑云 | - | - |
+| enemy_9010_acpupp | 假想敌：再生 | - | - |
+| enemy_9011_acrefr | 假想敌：镜膜 | - | - |
+| enemy_9012_acloon | “炎佑” | - | - |
+| enemy_9013_acstmk | 假想敌：胄 | - | - |
+| enemy_9013_acstmk_2 | 假想敌：胄 | - | - |
+| enemy_9014_acstma | “斩胄之剑” | - | - |
+| enemy_9015_acstmb | “破胄之锤” | - | - |
 | enemy_9016_acstmr | 刺胄之弹 | - | - |
+| enemy_9017_achunt | 假想敌：铳 | - | - |
+| enemy_9017_achunt_2 | 假想敌：铳 | - | - |
+| enemy_9018_actrpa | “碎铳之簧” | - | - |
+| enemy_9019_actrpb | “碎铳之簧” | - | - |
+| enemy_9020_actrpc | “碎铳之簧” | - | - |
+| enemy_9021_acduml | 假想敌：管 | - | - |
+| enemy_9021_acduml_2 | 假想敌：管 | - | - |
+| enemy_9022_acdumm | 假想敌：弦 | - | - |
+| enemy_9023_acdums | “余音” | - | - |
+| enemy_9032_aclionk | 阿利斯泰尔，帝国余晖 | - | - |
+| enemy_9033_acdeer | “萨米的意志” | - | - |

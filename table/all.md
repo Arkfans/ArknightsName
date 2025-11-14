@@ -427,6 +427,8 @@ tip: 请善用浏览器的搜索功能
 | char_613_acmedc | Touch | Touch | Touch |
 | char_614_acsupo | Raidian | Raidian | Raidian |
 | char_615_acspec | Misery | Misery | Misery |
+| char_616_pithst | 盟约·辅助干员 | - | - |
+| char_617_sharp2 | 领主·Sharp | - | - |
 | token_10000_silent_healrb | 医疗探机 | Medic Drone | 医療ドローン |
 | token_10001_deepcl_tentac | 触手 | Tentacle | 触手 |
 | token_10002_kalts_mon3tr | Mon3tr | Mon3tr | Mon3tr |
@@ -629,9 +631,49 @@ tip: 请善用浏览器的搜索功能
 | trap_1038_acarm038 | 全能机械臂 | Multi-Purpose Robotic Arm | 万能ロボットアーム |
 | trap_1039_acarm039 | 博士投影 | Doctor Hologram | ドクターのホログラム |
 | trap_103_ymdgct | 地形增伤控制 | Mire Controller | 地形ダメージ制御 |
+| trap_1040_acarm040 | 炎国短刀 | - | - |
+| trap_1041_acarm041 | 维式重锤 | - | - |
+| trap_1042_acarm042 | 灼燃维式重锤 | - | - |
+| trap_1043_acarm043 | 坚定维式重锤 | - | - |
+| trap_1044_acarm044 | 加速维式重锤 | - | - |
+| trap_1045_acarm045 | 战栗维式重锤 | - | - |
+| trap_1046_acarm046 | 阿戈尔重刃 | - | - |
+| trap_1047_acarm047 | 坚守盾牌 | - | - |
+| trap_1048_acarm048 | 口袋法阵 | - | - |
+| trap_1049_acarm049 | 歌利亚头盔 | - | - |
 | trap_104_dplant | 改性植物激素 | Modified Phytohormone | 改良型植物ホルモン |
+| trap_1050_acarm050 | 萨尔贡浓茶 | - | - |
+| trap_1051_acarm051 | 迅捷作战粮 | - | - |
+| trap_1052_acarm052 | 有限加速器 | - | - |
+| trap_1053_acarm053 | 激光发射器 | - | - |
+| trap_1054_acarm054 | 蜂鸣器 | - | - |
+| trap_1055_acarm055 | 伪装服 | - | - |
+| trap_1056_acarm056 | 不屈弹射器 | - | - |
+| trap_1057_acarm057 | 拉特兰桥夹 | - | - |
+| trap_1058_acarm058 | 催泪瓦斯 | - | - |
+| trap_1059_acarm059 | 浓缩嗅盐 | - | - |
 | trap_105_mhwrct | 滞空牵引无人机 | Wiredrone | 滞空牽引ドローン |
+| trap_1060_acarm060 | 防暴盾 | - | - |
+| trap_1061_acarm061 | 护盾无人机 | - | - |
+| trap_1062_acarm062 | 谢拉格不融冰 | - | - |
+| trap_1063_acarm063 | 精准狙击镜 | - | - |
+| trap_1064_acarm064 | 突袭手雷 | - | - |
+| trap_1065_acarm065 | 休眠子裔 | - | - |
+| trap_1066_acarm066 | 幸运硬币 | - | - |
+| trap_1067_acarm067 | 双模机械臂 | - | - |
+| trap_1068_acarm068 | M3茧甲 | - | - |
+| trap_1069_acarm069 | 拟态物质 | - | - |
 | trap_106_smtree | 积雪银凇  | Silvernwhite Bulwark | 積雪の銀樹 |
+| trap_1070_acarm070 | 人事部文档 | - | - |
+| trap_1071_acarm071 | 博士投影 | - | - |
+| trap_1072_acarm072 | 突变细胞 | - | - |
+| trap_1073_acarm073 | 变形同构体 | - | - |
+| trap_1074_acarm074 | 商业包装方案 | - | - |
+| trap_1075_acarm075 | 寻呼模块 | - | - |
+| trap_1076_acarm076 | 铳骑之威 | - | - |
+| trap_1077_acarm077 | 天师古鼎 | - | - |
+| trap_1078_acarm078 | 海沟实验体 | - | - |
+| trap_1079_acarm079 | 蒸汽之心 | - | - |
 | trap_107_smpow | 空间稳定设施 | Dimensional Anchoring Pylon | 空間安定化設備 |
 | trap_1080_acspell001 | 法术：恢复 | Arts: Recovery | アーツ：治療 |
 | trap_1081_acspell002 | 法术：力量 | Arts: Strength | アーツ：剛力 |
@@ -656,7 +698,18 @@ tip: 请善用浏览器的搜索功能
 | trap_109_smrbox | 尖刺宝箱 | Spiked Treasure Chest | トゲトゲ宝箱 |
 | trap_1100_acreddoor | 敌人入口 | Enemy Entrance | 敵の入口 |
 | trap_1101_acplane | 补给驳船 | Supply Barge | 補給船 |
+| trap_1102_acarm102 | 耶拉冈德之泪 | - | - |
+| trap_1103_acarm103 | 黄沙罗盘 | - | - |
+| trap_1104_aclasert | “双眼皮” | - | - |
+| trap_1105_accrate | 阻隔工事 | - | - |
+| trap_1106_achplat | 射击台 | - | - |
+| trap_1107_acblock | 封印的地面 | - | - |
+| trap_1108_acdisney | “神秘顾客” | - | - |
+| trap_1109_acarm109 | 信标 | - | - |
 | trap_110_smbbox | 巨壳藤蔓 | Testaceous Vinecreeps | 巨殻のツル |
+| trap_1110_accopy | 画卷 | - | - |
+| trap_1111_acchal | 教鞭 | - | - |
+| trap_1112_acblzd | 盟约寒风 | - | - |
 | trap_111_wdfarm | 街头应急储备 | Roadside Emergency Reserves | 街の緊急用備蓄 |
 | trap_112_crsbow | 解雇者清债程序 | Post-Firing Debt Relief Program | 解雇者清算プログラム |
 | trap_113_snflwr | 全自动划账器 | Full-Auto Debit Machine | 全自動送金機 |
@@ -1486,6 +1539,7 @@ tip: 请善用浏览器的搜索功能
 | char_487_bobb@kitchen#4 | 温情烘焙 | - | - |
 | char_488_buildr@epoque#34 | 晚风休憩 | To Rest in Night Breezes | 夜風に憩いて |
 | char_489_serum@epoque#31 | 逸趣 | Leisure | 気ままな休日 |
+| char_491_humus@marthe#10 | 烈阳街景 | - | - |
 | char_492_quercu@epoque#17 | 遥乡之径 | Distant Home's Guide | 故郷は遠く |
 | char_492_quercu@witch#4 | 树影吟游 | The Bard's Tale | 木陰の吟遊詩人 |
 | char_496_wildmn@epoque#16 | 正义缔造者 | Justice Maker | ジャスティスメーカー |
@@ -2690,7 +2744,9 @@ tip: 请善用浏览器的搜索功能
 | enemy_18007_lhbque | 斑斓虫 | - | - |
 | enemy_18008_lhbbos | “老尖牙” | - | - |
 | enemy_2001_duckmi | 鸭爵 | Duck Lord | ダック卿 |
+| enemy_2001_duckmi_2 | 鸭爵 | - | - |
 | enemy_2002_bearmi | 高普尼克 | Gopnik | ゴプニク |
+| enemy_2002_bearmi_2 | 高普尼克 | - | - |
 | enemy_2003_rockman | 迷路的巨像 | Lost Colossus | 迷子の巨像 |
 | enemy_2004_balloon | 喷气人 | Jetman | ジェットマン |
 | enemy_2005_axetro | “遗弃者” | 'Forsaken One' | 「見棄てし者」 |
@@ -2723,6 +2779,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_2032_syboy2 | 延命塑路者 | Lingering Pathshaper | 延命するパスファインダー |
 | enemy_2033_syboys | 塑路者分形 | Pathshaper Fractal | パスファインダーの影 |
 | enemy_2034_sythef | 流泪小子 | Crying Thief | 涙目の坊や |
+| enemy_2034_sythef_2 | 流泪小子 | - | - |
 | enemy_2035_sybox | 箱形恐鱼 | Chest Seaborn | 宝箱形恐魚 |
 | enemy_2036_syshop | 坎诺特 | Cannot | キャノット |
 | enemy_2037_sygirl | “偏执泡影” | 'Paranoia Illusion' | 「偏執の泡沫」 |
@@ -2772,6 +2829,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_2082_skzdd | 博卓卡斯替，圣卫铳骑 | Buldrokkas'tee, Holy Gun-Knight | 「聖衛の銃騎士」ボジョカスティ |
 | enemy_2084_skzcan | 古德因纳夫先生 | Mr. Goodenough | Mr.グッドイナフ |
 | enemy_2085_skzjxd | 圆仔 | Fatty | マルッコ |
+| enemy_2085_skzjxd_2 | 圆仔 | - | - |
 | enemy_2089_skzjkl | 奎隆，摩诃萨埵权化 | Qui'lon, Avatar of the Mahasattva | 「摩訶薩の権化」クイロン |
 | enemy_2090_skzjbc | 托生莲座 | Padmasana of Rebirth | 托生蓮座 |
 | enemy_2091_skzgds | “窗” | 'Window' | 「窓」 |
@@ -3007,7 +3065,29 @@ tip: 请善用浏览器的搜索功能
 | enemy_9003_askate | 寻路者供弹手 | Pathfinder Armicustos | 求道供弾者 |
 | enemy_9004_anlock | 技师囚犯 | Technician Prisoner | 囚人技師 |
 | enemy_9005_aicemn | 冰晶射手 | Glacial Archer | 氷晶の射手 |
+| enemy_9006_actoxi | 假想敌：蚀裂 | - | - |
+| enemy_9007_acelem | 假想敌：淤困 | - | - |
+| enemy_9008_acbunn | 假想敌：骨刺 | - | - |
+| enemy_9009_acfort | 假想敌：黑云 | - | - |
+| enemy_9010_acpupp | 假想敌：再生 | - | - |
+| enemy_9011_acrefr | 假想敌：镜膜 | - | - |
+| enemy_9012_acloon | “炎佑” | - | - |
+| enemy_9013_acstmk | 假想敌：胄 | - | - |
+| enemy_9013_acstmk_2 | 假想敌：胄 | - | - |
+| enemy_9014_acstma | “斩胄之剑” | - | - |
+| enemy_9015_acstmb | “破胄之锤” | - | - |
 | enemy_9016_acstmr | 刺胄之弹 | - | - |
+| enemy_9017_achunt | 假想敌：铳 | - | - |
+| enemy_9017_achunt_2 | 假想敌：铳 | - | - |
+| enemy_9018_actrpa | “碎铳之簧” | - | - |
+| enemy_9019_actrpb | “碎铳之簧” | - | - |
+| enemy_9020_actrpc | “碎铳之簧” | - | - |
+| enemy_9021_acduml | 假想敌：管 | - | - |
+| enemy_9021_acduml_2 | 假想敌：管 | - | - |
+| enemy_9022_acdumm | 假想敌：弦 | - | - |
+| enemy_9023_acdums | “余音” | - | - |
+| enemy_9032_aclionk | 阿利斯泰尔，帝国余晖 | - | - |
+| enemy_9033_acdeer | “萨米的意志” | - | - |
 | 0D5act | 限时任务 | Limited-time Mission | 期間限定任務 |
 | 1stact | 赏金猎人金币 | Bounty Coin | ラッキーコイン |
 | act10d5 | 乌萨斯的孩子们 | Children of Ursus | ウルサスの子供たち |
@@ -3090,6 +3170,7 @@ tip: 请善用浏览器的搜索功能
 | act19sre | 绿野幻梦·复刻 | Dorothy's Vision - Retrospection | 翠玉の夢・復刻 |
 | act1access | 五周年专享活动 | Exclusive Event | 大感謝祭限定イベント |
 | act1arcade | 视相博物馆 | Poly Vision Museum | 視像博物館 |
+| act1autochess | 卫戍协议:盟约 | - | - |
 | act1blessing | 2024罗德岛新春签到 | 2024 Festival Sign-In | 4.5周年スタンプラリー |
 | act1bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act1break | 矢量突破：无机物 | Vector Breakthrough - Inorganic Matters | 鋒矢突破：無機物 |
@@ -3590,6 +3671,7 @@ Event | なないろのお茶会 |
 | act19side_token_reagents | 神秘试剂 | Mysterious Reagent | 謎の試薬 |
 | act19side_token_reagents_rep_1 | 神秘试剂 | Mysterious Reagent | 謎の試薬 |
 | act1arcade_milestone_point | 积点卡券 | Point Card | 景品チケット |
+| act1autochess_token_chess | 卫戍认证 | - | - |
 | act1bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act1bossrush_relic_01 | 模块复用 | Reuse Module | マルチプレキシング |
 | act1bossrush_relic_02 | 迅捷处理 | Fast Processing | アクセラレーション |
@@ -4001,6 +4083,7 @@ Event | なないろのお茶会 |
 | clue_Rap_4_rep_1 | 说唱动态4 | Rap Trend 4 | ラップサイド4 |
 | clue_Rap_5 | 说唱动态5 | Rap Trend 5 | ラップサイド5 |
 | clue_Rap_5_rep_1 | 说唱动态5 | Rap Trend 5 | ラップサイド5 |
+| emoticon_autochess_basic | 表情套组：卫戍协议 | - | - |
 | emoticon_basic | 表情套组 | Emote Set | スタンプ |
 | emoticon_originium_slug | 表情套组：虫动 | Emote Set: Slug Style | スタンプ「オリジムシ」 |
 | emticon_duel_basic | 表情套组 | Emote Set | スタンプ |
@@ -4598,6 +4681,7 @@ Event | なないろのお茶会 |
 | uni_set_idealCity | 理想城家具收藏包 | Ideal City Furniture Pack | 理想都市家具パック |
 | uni_set_inkArt | 画中人家具收藏包 | Who is Real Furniture Pack | 画中人家具パック |
 | uni_set_kazimierz | 长夜临光家具收藏包 | Near Light Furniture Pack | ニアーライト家具パック |
+| uni_set_magicAcademy | 崔林特尔梅之金家具收藏包 | - | - |
 | uni_set_martialClub | 登临意家具收藏包 | Where Vernal Winds Will Never Blow Furniture Pack | 登臨意家具パック |
 | uni_set_nightView | 沃伦姆德的薄暮家具收藏包 | Twilight of Wolumonde Furniture Pack | ウォルモンドの薄暮家具パック |
 | uni_set_outdoor_1 | 海滨印象家具收藏包一 | Beachside Impressions Furniture Pack I | 海辺風家具パックvol.1 |
@@ -4640,6 +4724,7 @@ Event | なないろのお茶会 |
 | voucher_full_kjera | 耶拉的私人信件 | Kjera's Personal Letter | イェラの手紙 |
 | voucher_full_kroos2 | 寒芒克洛丝的私人信件 | Kroos the Keen Glint's Personal Letter | 寒芒クルースの手紙 |
 | voucher_full_lava2 | 炎狱炎熔的私人信件 | Lava the Purgatory's Personal Letter | 炎獄ラヴァの手紙 |
+| voucher_full_lessng | 止颂的私人信件 | - | - |
 | voucher_full_lumen | 流明的私人信件 | Lumen's Personal Letter | ルーメンの手紙 |
 | voucher_full_malist | 至简的私人信件 | Minimalist's Personal Letter | ミニマリストの手紙 |
 | voucher_full_mint | 薄绿的私人信件 | Mint's Personal Letter | ミントの手紙 |
@@ -4843,6 +4928,7 @@ Event | なないろのお茶会 |
 | SPECIAL_59_0_3 | 定向甄选 | - | - |
 | SPECIAL_61_0_3 | 定向甄选 | - | - |
 | SPECIAL_65_0_5 | 定向甄选 | - | - |
+| SPECIAL_67_0_3 | 定向甄选 | - | - |
 | _ATTAIN_15_2_1 | - | Celebrate & Recollect | ロドスの道のり　回顧 |
 | _ATTAIN_22_1_2 | - | Celebration & Link-Up | ロドスの道のり・邂逅 |
 | _ATTAIN_28_0_2 | - | Celebration & Vista | ロドスの道のり・展望 |
@@ -5548,6 +5634,7 @@ Event | なないろのお茶会 |
 | skchr_pianst_2 | 曲惊四座 | Meisterwerk | 万雷の喝采 |
 | skchr_pinecn_1 | RMA长钉 | RMA Spikes | RMAスパイク |
 | skchr_pinecn_2 | 电能过载 | Electrical Overcharge | 過負荷駆動 |
+| skchr_pithst_1 | 战术咏唱·双型 | - | - |
 | skchr_platnm_2 | 天马视域 | Pegasian Sight | ペガサスアイ |
 | skchr_plosis_2 | 脑啡肽 | Enkephalin | エンケファリン |
 | skchr_poca_2 | 分裂射击 | Split Shot | スプリットショット |
@@ -5615,6 +5702,7 @@ Event | なないろのお茶会 |
 | skchr_serum_1 | 专注力超载 | Focus Overload | 過集中 |
 | skchr_serum_2 | 传导蚀滞弹 | Conductive Corrosive Blast | 神経蝕滞弾 |
 | skchr_sesa_2 | 延时震荡零件 | Delayed Concussive Parts | ディレイドボンバー |
+| skchr_sharp2_1 | 沉默的爆发 | - | - |
 | skchr_shining_1 | 信条 | Creed | 信条 |
 | skchr_shining_2 | 自动掩护 | Auto Protect | オートカバー |
 | skchr_shining_3 | 教条力场 | Creed Field | 教導の結界 |
@@ -5909,6 +5997,99 @@ Event | なないろのお茶会 |
 | sktok_acarm038_2 | 全能机械臂 | Multi-Purpose Robotic Arm | 万能ロボットアーム |
 | sktok_acarm039_1 | 博士投影 | Doctor Hologram | ドクターのホログラム |
 | sktok_acarm039_2 | 博士投影 | Doctor Hologram | ドクターのホログラム |
+| sktok_acarm040_1 | 炎国短刀 | - | - |
+| sktok_acarm040_2 | 炎国短刀 | - | - |
+| sktok_acarm041_1 | 维式重锤 | - | - |
+| sktok_acarm041_2 | 维式重锤 | - | - |
+| sktok_acarm042_1 | 灼燃维式重锤 | - | - |
+| sktok_acarm042_2 | 灼燃维式重锤 | - | - |
+| sktok_acarm043_1 | 坚固维式重锤 | - | - |
+| sktok_acarm043_2 | 坚固维式重锤 | - | - |
+| sktok_acarm044_1 | 加速维式重锤 | - | - |
+| sktok_acarm044_2 | 加速维式重锤 | - | - |
+| sktok_acarm045_1 | 战栗维式重锤 | - | - |
+| sktok_acarm045_2 | 战栗维式重锤 | - | - |
+| sktok_acarm046_1 | 阿戈尔重刃 | - | - |
+| sktok_acarm046_2 | 阿戈尔重刃 | - | - |
+| sktok_acarm047_1 | 坚守盾牌 | - | - |
+| sktok_acarm047_2 | 坚守盾牌 | - | - |
+| sktok_acarm048_1 | 口袋法阵 | - | - |
+| sktok_acarm048_2 | 口袋法阵 | - | - |
+| sktok_acarm049_1 | 歌利亚头盔 | - | - |
+| sktok_acarm049_2 | 歌利亚头盔 | - | - |
+| sktok_acarm050_1 | 萨尔贡浓茶 | - | - |
+| sktok_acarm050_2 | 萨尔贡浓茶 | - | - |
+| sktok_acarm051_1 | 迅捷作战粮 | - | - |
+| sktok_acarm051_2 | 迅捷作战粮 | - | - |
+| sktok_acarm052_1 | 有限加速器 | - | - |
+| sktok_acarm052_2 | 有限加速器 | - | - |
+| sktok_acarm053_1 | 激光发射器 | - | - |
+| sktok_acarm053_2 | 激光发射器 | - | - |
+| sktok_acarm054_1 | 蜂鸣器 | - | - |
+| sktok_acarm054_2 | 蜂鸣器 | - | - |
+| sktok_acarm055_1 | 伪装服 | - | - |
+| sktok_acarm055_2 | 伪装服 | - | - |
+| sktok_acarm056_1 | 不屈弹射器 | - | - |
+| sktok_acarm056_2 | 不屈弹射器 | - | - |
+| sktok_acarm057_1 | 拉特兰桥夹 | - | - |
+| sktok_acarm057_2 | 拉特兰桥夹 | - | - |
+| sktok_acarm058_1 | 催泪瓦斯 | - | - |
+| sktok_acarm058_2 | 催泪瓦斯 | - | - |
+| sktok_acarm059_1 | 浓缩嗅盐 | - | - |
+| sktok_acarm059_2 | 浓缩嗅盐 | - | - |
+| sktok_acarm060_1 | 防暴盾 | - | - |
+| sktok_acarm060_2 | 防暴盾 | - | - |
+| sktok_acarm061_1 | 护盾无人机 | - | - |
+| sktok_acarm061_2 | 护盾无人机 | - | - |
+| sktok_acarm062_1 | 谢拉格不融冰 | - | - |
+| sktok_acarm062_2 | 谢拉格不融冰 | - | - |
+| sktok_acarm063_1 | 精准狙击镜 | - | - |
+| sktok_acarm063_2 | 精准狙击镜 | - | - |
+| sktok_acarm064_1 | 突袭手雷 | - | - |
+| sktok_acarm064_2 | 突袭手雷 | - | - |
+| sktok_acarm065_1 | 休眠子裔 | - | - |
+| sktok_acarm065_2 | 休眠子裔 | - | - |
+| sktok_acarm066_1 | 幸运硬币 | - | - |
+| sktok_acarm066_2 | 幸运硬币 | - | - |
+| sktok_acarm067_1 | 双模机械臂 | - | - |
+| sktok_acarm067_2 | 双模机械臂 | - | - |
+| sktok_acarm068_1 | M3茧甲 | - | - |
+| sktok_acarm068_2 | M3茧甲 | - | - |
+| sktok_acarm069_1 | 拟态物质 | - | - |
+| sktok_acarm069_2 | 拟态物质 | - | - |
+| sktok_acarm070_1 | 人事部文档 | - | - |
+| sktok_acarm070_2 | 人事部文档 | - | - |
+| sktok_acarm071_1 | 博士投影 | - | - |
+| sktok_acarm071_2 | 博士投影 | - | - |
+| sktok_acarm072_1 | 突变细胞 | - | - |
+| sktok_acarm072_2 | 突变细胞 | - | - |
+| sktok_acarm073_1 | 变形同构体 | - | - |
+| sktok_acarm073_2 | 变形同构体 | - | - |
+| sktok_acarm074_1 | 商业包装方案 | - | - |
+| sktok_acarm074_2 | 商业包装方案 | - | - |
+| sktok_acarm075_1 | 寻呼模块 | - | - |
+| sktok_acarm075_2 | 寻呼模块 | - | - |
+| sktok_acarm076_1 | 铳骑之威 | - | - |
+| sktok_acarm076_2 | 铳骑之威 | - | - |
+| sktok_acarm077_1 | 天师古鼎 | - | - |
+| sktok_acarm077_2 | 天师古鼎 | - | - |
+| sktok_acarm078_1 | 海沟实验体 | - | - |
+| sktok_acarm078_2 | 海沟实验体 | - | - |
+| sktok_acarm079_1 | 蒸汽之心 | - | - |
+| sktok_acarm079_2 | 蒸汽之心 | - | - |
+| sktok_acarm102_1 | 耶拉冈德之泪 | - | - |
+| sktok_acarm102_2 | 耶拉冈德之泪 | - | - |
+| sktok_acarm103_1 | 黄沙罗盘 | - | - |
+| sktok_acarm103_2 | 黄沙罗盘 | - | - |
+| sktok_acarm109_1 | 信标 | - | - |
+| sktok_acarm109_2 | 信标 | - | - |
+| sktok_acblzd | 谢拉格寒风 | - | - |
+| sktok_acchal_1 | 教鞭 | - | - |
+| sktok_accopy_1 | 画卷 | - | - |
+| sktok_accrate | 阻隔工事 | - | - |
+| sktok_acdisney_1 | “神秘顾客” | - | - |
+| sktok_achplat | 射击台 | - | - |
+| sktok_aclasert | “双眼皮” | - | - |
 | sktok_acshopfr_1 | 补给留存 | Supply Retention | 補給凍結 |
 | sktok_acshopre_1 | 补给调配 | Supply Distribution | 補給調達 |
 | sktok_acshopup_1 | 补给升级 | Supply Upgrade | 補給強化 |
@@ -6824,6 +7005,13 @@ Event | なないろのお茶会 |
 | act1arcade_m4_01 | 陆上行船 | Boat Out of Water | 陸上航行 |
 | act1arcade_m4_02 | 冲出激浪 | Brave the Waves | 荒波を越えろ |
 | act1arcade_m4_03 | 环绕大地 | Journey the Land | 大地を巡れ |
+| act1autochess_m01 | AC-3 | - | - |
+| act1autochess_m02 | AC-4 | - | - |
+| act1autochess_m03 | AC-5 | - | - |
+| act1autochess_m04 | AC-6 | - | - |
+| act1autochess_m05 | AC-7 | - | - |
+| act1autochess_m06 | AC-8 | - | - |
+| act1autochess_m07 | AC-9 | - | - |
 | act1bossrush_01 | 无尽灼烧与强力破坏 | Burn and Destroy | 無尽の炎と破壊の鋸 |
 | act1bossrush_02 | 卷土重来 | Comeback | 捲土重来 |
 | act1bossrush_03 | 风沙轰隆隆 | Rolling Sands | 塵旋風とどろく |
@@ -7430,6 +7618,11 @@ Event | なないろのお茶会 |
 | act46side_08 | 宣告在途 | - | - |
 | act46side_09 | 凛刃出匣 | - | - |
 | act46side_10 | 耶拉冈德在上 | - | - |
+| act46side_s01 | 打雪仗 | - | - |
+| act46side_s02 | 堆雪人 | - | - |
+| act46side_s03 | 雪孩子 | - | - |
+| act46side_s04 | 雪中歌谣 | - | - |
+| act46side_s05 | 雪与我与雪 | - | - |
 | act46side_st01 | 崩落 | - | - |
 | act46side_st02 | 圣巡与丧钟 | - | - |
 | act46side_st03 | 寻心道途 | - | - |
