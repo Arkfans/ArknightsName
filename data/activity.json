@@ -753,6 +753,9 @@
   "act2unique": {
     "zh_CN": "夏日嘉年华特别活动"
   },
+  "act2video": {
+    "zh_CN": "留影烁今登录活动"
+  },
   "act2vmulti": {
     "en_US": "Rhodes Island Icebreaker Games",
     "ja_JP": "ロドス協心競技",
@@ -878,6 +881,9 @@
     "en_US": "Arknights x Rainbow Six Siege Login Event",
     "ja_JP": "アークナイツ×R6Sスタンプラリー",
     "zh_CN": "明日方舟X彩虹六号：围攻签到活动"
+  },
+  "act38sre": {
+    "zh_CN": "揭幕者们·复刻"
   },
   "act39side": {
     "en_US": "Exodus from the Pale Sea",

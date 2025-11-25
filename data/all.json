@@ -9127,6 +9127,12 @@
       "zh_CN": "生存"
     }
   },
+  "char_1502_crosly@iteration#5": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "夜之终局"
+    }
+  },
   "char_150_snakek@wild#1": {
     "type": "SKIN",
     "names": {
@@ -10309,6 +10315,12 @@
       "en_US": "Remedy In A Cup Of Leung Cha",
       "ja_JP": "まちなか涼茶舗",
       "zh_CN": "坊间凉茶铺"
+    }
+  },
+  "char_322_lmlee@whirlwind#10": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "鉴浮生"
     }
   },
   "char_322_lmlee@witch#3": {
@@ -25145,6 +25157,12 @@
       "zh_CN": "夏日嘉年华特别活动"
     }
   },
+  "act2video": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "留影烁今登录活动"
+    }
+  },
   "act2vmulti": {
     "type": "ACTIVITY",
     "names": {
@@ -25347,6 +25365,12 @@
       "en_US": "Arknights x Rainbow Six Siege Login Event",
       "ja_JP": "アークナイツ×R6Sスタンプラリー",
       "zh_CN": "明日方舟X彩虹六号：围攻签到活动"
+    }
+  },
+  "act38sre": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "揭幕者们·复刻"
     }
   },
   "act39side": {
@@ -29113,6 +29137,12 @@
     "names": {
       "en_US": "Invito Mistico",
       "ja_JP": "匿名招待状",
+      "zh_CN": "匿名邀请函"
+    }
+  },
+  "act38side_token_ticket_rep_1": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "匿名邀请函"
     }
   },
@@ -65944,6 +65974,24 @@
       "zh_CN": "荒芜之舞"
     }
   },
+  "act38sre_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "四幕汇演"
+    }
+  },
+  "act38sre_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "彩车游行"
+    }
+  },
+  "act38sre_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "荒芜之舞"
+    }
+  },
   "act39side_zone1": {
     "type": "ZONE",
     "names": {
@@ -66772,6 +66820,24 @@
     "type": "ZONE",
     "names": {
       "zh_CN": "藏珍宝库"
+    }
+  },
+  "permanent_sidestory_28_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "四幕汇演"
+    }
+  },
+  "permanent_sidestory_28_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "彩车游行"
+    }
+  },
+  "permanent_sidestory_28_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "荒芜之舞"
     }
   },
   "permanent_sidestory_2_zone1": {

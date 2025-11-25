@@ -195,6 +195,9 @@ tip: 请善用浏览器的搜索功能
 | act38side_zone1 | 四幕汇演 | Quadriglia | カドリール |
 | act38side_zone2 | 彩车游行 | Splendida Cavalcata | 煌めく遊覧車 |
 | act38side_zone3 | 荒芜之舞 | Decadanza | 荒寥の舞 |
+| act38sre_zone1 | 四幕汇演 | - | - |
+| act38sre_zone2 | 彩车游行 | - | - |
+| act38sre_zone3 | 荒芜之舞 | - | - |
 | act39side_zone1 | 盐漠开航 | Across the Salt Flat | 塩海横断 |
 | act39side_zone2 | 穿越骸礁 | Through the Skeletal Reef | 骸礁突破 |
 | act3bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
@@ -302,6 +305,9 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_27_zone1 | 市民花园 | - | - |
 | permanent_sidestory_27_zone2 | 丰获集会 | - | - |
 | permanent_sidestory_27_zone3 | 藏珍宝库 | - | - |
+| permanent_sidestory_28_zone1 | 四幕汇演 | - | - |
+| permanent_sidestory_28_zone2 | 彩车游行 | - | - |
+| permanent_sidestory_28_zone3 | 荒芜之舞 | - | - |
 | permanent_sidestory_2_zone1 | 主舞台 | Main Stage | メインステージ |
 | permanent_sidestory_2_zone2 | 嘉年华 | Carnival | フェスティバル |
 | permanent_sidestory_2_zone3 | 额外节目 | Extra Show | エクストラ |

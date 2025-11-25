@@ -937,6 +937,15 @@
     "ja_JP": "荒寥の舞",
     "zh_CN": "荒芜之舞"
   },
+  "act38sre_zone1": {
+    "zh_CN": "四幕汇演"
+  },
+  "act38sre_zone2": {
+    "zh_CN": "彩车游行"
+  },
+  "act38sre_zone3": {
+    "zh_CN": "荒芜之舞"
+  },
   "act39side_zone1": {
     "en_US": "Across the Salt Flat",
     "ja_JP": "塩海横断",
@@ -1445,6 +1454,15 @@
   },
   "permanent_sidestory_27_zone3": {
     "zh_CN": "藏珍宝库"
+  },
+  "permanent_sidestory_28_zone1": {
+    "zh_CN": "四幕汇演"
+  },
+  "permanent_sidestory_28_zone2": {
+    "zh_CN": "彩车游行"
+  },
+  "permanent_sidestory_28_zone3": {
+    "zh_CN": "荒芜之舞"
   },
   "permanent_sidestory_2_zone1": {
     "en_US": "Main Stage",

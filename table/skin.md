@@ -97,6 +97,7 @@ tip: 请善用浏览器的搜索功能
 | char_147_shining@summer#1 | 静谧午夜 DN02 | Silent Night DN02 | 安息の午夜DN02 |
 | char_148_nearl@summer#2 | 灿阳朝露 SD01 | Shimmering Dew SD01 | 炎陽煌く露SD01 |
 | char_149_scave@striker#2 | 生存 | Survive | 生存 |
+| char_1502_crosly@iteration#5 | 夜之终局 | - | - |
 | char_150_snakek@wild#1 | 四边形 | Quadrangle | スクエア |
 | char_150_snakek@yun#7 | 与荷 | - | - |
 | char_151_myrtle@epoque#12 | 淡金庆典 | Light Gold Celebration | 金色のマーチ |
@@ -246,6 +247,7 @@ tip: 请善用浏览器的搜索功能
 | char_311_mudrok@summer#6 | 静谧午夜 DN06 | Silent Night DN06 | 安息の午夜DN06 |
 | char_311_mudrok@wild#10 | 砾瓦 | Rubble | 瓦礫 |
 | char_322_lmlee@sanrio#1 | 坊间凉茶铺 | Remedy In A Cup Of Leung Cha | まちなか涼茶舗 |
+| char_322_lmlee@whirlwind#10 | 鉴浮生 | - | - |
 | char_322_lmlee@witch#3 | 手到牌来 | Trust Your Eyes | お目を拝借 |
 | char_325_bison@yun#7 | 凌云意 | - | - |
 | char_326_glacus@ghost#1 | 广场扫荡客 | Exterminator in the Square | 広場の掃討者 |
