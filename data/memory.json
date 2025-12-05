@@ -437,6 +437,9 @@
     "ja_JP": "ブルース",
     "zh_CN": "蓝调"
   },
+  "story_demkni_set_1_story_1": {
+    "zh_CN": "沃土"
+  },
   "story_doroth_set_1_story_1": {
     "en_US": "Where is the Friend's House?",
     "ja_JP": "友の故郷はいずこ",
@@ -957,6 +960,9 @@
     "ja_JP": "日差しのもとで",
     "zh_CN": "阳光映照之下"
   },
+  "story_makiri_set_1_story_1": {
+    "zh_CN": "新茉莉酒馆"
+  },
   "story_malist_set_1_story_1": {
     "en_US": "In the Endless Summer",
     "ja_JP": "エンドレス・サマー",
@@ -1158,6 +1164,9 @@
     "ja_JP": "楽園",
     "zh_CN": "乐园"
   },
+  "story_philae_set_1_story_1": {
+    "zh_CN": "新生"
+  },
   "story_pianst_set_1_story_1": {
     "en_US": "Dämmerung und Anbruch",
     "ja_JP": "夕日と朝日",
@@ -1261,6 +1270,9 @@
   },
   "story_reckpr_set_1_story_1": {
     "zh_CN": "何须剑"
+  },
+  "story_rfalcn_set_1_story_1": {
+    "zh_CN": "未来的痕迹"
   },
   "story_rfrost_set_1_story_1": {
     "en_US": "Searching for Home",

@@ -380,6 +380,7 @@ tip: 请善用浏览器的搜索功能
 | act44side_token_treasure | "宝物袋" | - | - |
 | act45side_token_puzzlepieces | 梦境拼图 | - | - |
 | act46side_token_detector | 雪地用多功能探测器 | - | - |
+| act47side_token_bottle | 天空氧气瓶 | - | - |
 | act4bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act4bossrush_relic_01 | 轻量化载荷 | Lightened Load | 積込み軽量化 |
 | act4bossrush_relic_02 | 核心预热 | Preheated Core | コア予熱 |
@@ -1071,6 +1072,9 @@ tip: 请善用浏览器的搜索功能
 | p_char_4208_wintim | 冬时的信物 | - | - |
 | p_char_420_flamtl | 焰尾的信物 | Flametail's Token | フレイムテイルの印 |
 | p_char_4211_snhunt | 雪猎的信物 | - | - |
+| p_char_4212_nasti | 娜斯提的信物 | - | - |
+| p_char_4213_skybx | 天空盒的信物 | - | - |
+| p_char_4214_cairn | 响石的信物 | - | - |
 | p_char_421_crow | 羽毛笔的信物 | La Pluma's Token | ラ・プルマの印 |
 | p_char_422_aurora | 极光的信物 | Aurora's Token | オーロラの印 |
 | p_char_423_blemsh | 瑕光的信物 | Blemishine's Token | ブレミシャインの印 |

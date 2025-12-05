@@ -1267,6 +1267,30 @@
   "enemy_10145_xdrock_2": {
     "zh_CN": "斯托斯贝塔"
   },
+  "enemy_10146_nscola": {
+    "zh_CN": "开天汽水瓶"
+  },
+  "enemy_10146_nscola_2": {
+    "zh_CN": "开天汽水瓶·酸辣味"
+  },
+  "enemy_10147_nsbomb": {
+    "zh_CN": "遮天面包机"
+  },
+  "enemy_10147_nsbomb_2": {
+    "zh_CN": "遮天面包机·果酱款"
+  },
+  "enemy_10148_nsmos": {
+    "zh_CN": "啸天吸尘器"
+  },
+  "enemy_10148_nsmos_2": {
+    "zh_CN": "啸天吸尘器·大力版"
+  },
+  "enemy_10149_nscan": {
+    "zh_CN": "掀天汽水桶"
+  },
+  "enemy_10149_nscan_2": {
+    "zh_CN": "掀天汽水桶·家庭装"
+  },
   "enemy_1014_rogue": {
     "en_US": "Dual Swordsman",
     "ja_JP": "双剣士",
@@ -1276,6 +1300,30 @@
     "en_US": "Dual Swordsman Leader",
     "ja_JP": "双剣隊長",
     "zh_CN": "双持剑士组长"
+  },
+  "enemy_10150_nsheat": {
+    "zh_CN": "炙烤螺旋桨"
+  },
+  "enemy_10150_nsheat_2": {
+    "zh_CN": "焦香螺旋桨"
+  },
+  "enemy_10151_nspace": {
+    "zh_CN": "行天卫生间"
+  },
+  "enemy_10151_nspace_2": {
+    "zh_CN": "行天救护车"
+  },
+  "enemy_10152_nstree": {
+    "zh_CN": "“自由的树”"
+  },
+  "enemy_10152_nstree_2": {
+    "zh_CN": "“逐日的树”"
+  },
+  "enemy_10153_nsblon": {
+    "zh_CN": "热气球"
+  },
+  "enemy_10153_nsblon_2": {
+    "zh_CN": "强力热气球"
   },
   "enemy_1015_litamr": {
     "en_US": "Light-Armored Soldier",
@@ -5658,6 +5706,9 @@
   },
   "enemy_1578_icecage": {
     "zh_CN": "圣女雪衣"
+  },
+  "enemy_1579_nstmom": {
+    "zh_CN": "女妖河谷的拂哀菈"
   },
   "enemy_18001_lhship": {
     "zh_CN": "运输汽艇"

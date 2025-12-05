@@ -350,6 +350,9 @@ tip: 请善用浏览器的搜索功能
 | char_4208_wintim | 冬时 | - | - |
 | char_420_flamtl | 焰尾 | Flametail | フレイムテイル |
 | char_4211_snhunt | 雪猎 | - | - |
+| char_4212_nasti | 娜斯提 | - | - |
+| char_4213_skybx | 天空盒 | - | - |
+| char_4214_cairn | 响石 | - | - |
 | char_421_crow | 羽毛笔 | La Pluma | ラ・プルマ |
 | char_422_aurora | 极光 | Aurora | オーロラ |
 | char_423_blemsh | 瑕光 | Blemishine | ブレミシャイン |
@@ -491,6 +494,9 @@ tip: 请善用浏览器的搜索功能
 | token_10057_svash2_eagle2 | 风雪之眼 | - | - |
 | token_10057_svash2_eagle3 | 风雪之眼 | - | - |
 | token_10058_sbell2_icetgt | 保护目标（冻结状态） | - | - |
+| token_10059_nasti_nstdef | “质检专员” | - | - |
+| token_10060_nasti_nstchr | “监工专员” | - | - |
+| token_10061_nasti_nstbld | “应急承重小组” | - | - |
 | trap_079_allydonq | 猎潮的骑士 | Tide-Hunt Knight | 猟潮の騎士 |
 | trap_001_crate | 障碍物 | Roadblock | 障害物 |
 | trap_002_emp | 震撼装置 | Stun Generator | EMP発生装置 |
@@ -1122,6 +1128,7 @@ tip: 请善用浏览器的搜索功能
 | char_101_sora@epoque#17 | 如歌 | Melodiosa | メロディオーソ |
 | char_101_sora@summer#1 | 夏卉 FA361 | Summer Flowers FA361 | 夏の花弁FA361 |
 | char_1020_reed2@epoque#30 | 博物 | Curator | 歴史に囲まれて |
+| char_1020_reed2@snow#8 | 闪焰之夜 | - | - |
 | char_1020_reed2@summer#17 | 夏卉 FA075 | Summer Flowers FA075 | 夏の花弁FA075 |
 | char_1021_kroos2@game#3 | 新手光环 | The Apprentice and Her Aura | ビギナーズラック |
 | char_1021_kroos2@nian#8 | 廊下游 | Along the Corridor | 長廊遊 |
@@ -1140,6 +1147,7 @@ tip: 请善用浏览器的搜索功能
 | char_1033_swire2@ambienceSynesthesia#4 | 律动方格 | Rhythmic Blocks | リズミックブロック |
 | char_1034_jesca2@cfa#1 | 《上任达维镇》 | 'Ride to Davistown' | 『デイヴィスタウンへ赴く』 |
 | char_1035_wisdel@sale#14 | 超新星 | Supernova | 超新星 |
+| char_1036_fang2@snow#8 | 纯净乐段 | - | - |
 | char_1037_amiya3@sale#13 | 寰宇独奏 | Solo Around The World | 宙に響く独奏 |
 | char_1038_whitw2@sale#15 | 无序的谦卑 | - | - |
 | char_1039_thorn2@marthe#9 | 无际之帆 | - | - |
@@ -1855,8 +1863,24 @@ tip: 请善用浏览器的搜索功能
 | enemy_10144_xdelk_2 | 乌顶巨角卢鲁 | - | - |
 | enemy_10145_xdrock | 伊斯贝塔 | - | - |
 | enemy_10145_xdrock_2 | 斯托斯贝塔 | - | - |
+| enemy_10146_nscola | 开天汽水瓶 | - | - |
+| enemy_10146_nscola_2 | 开天汽水瓶·酸辣味 | - | - |
+| enemy_10147_nsbomb | 遮天面包机 | - | - |
+| enemy_10147_nsbomb_2 | 遮天面包机·果酱款 | - | - |
+| enemy_10148_nsmos | 啸天吸尘器 | - | - |
+| enemy_10148_nsmos_2 | 啸天吸尘器·大力版 | - | - |
+| enemy_10149_nscan | 掀天汽水桶 | - | - |
+| enemy_10149_nscan_2 | 掀天汽水桶·家庭装 | - | - |
 | enemy_1014_rogue | 双持剑士 | Dual Swordsman | 双剣士 |
 | enemy_1014_rogue_2 | 双持剑士组长 | Dual Swordsman Leader | 双剣隊長 |
+| enemy_10150_nsheat | 炙烤螺旋桨 | - | - |
+| enemy_10150_nsheat_2 | 焦香螺旋桨 | - | - |
+| enemy_10151_nspace | 行天卫生间 | - | - |
+| enemy_10151_nspace_2 | 行天救护车 | - | - |
+| enemy_10152_nstree | “自由的树” | - | - |
+| enemy_10152_nstree_2 | “逐日的树” | - | - |
+| enemy_10153_nsblon | 热气球 | - | - |
+| enemy_10153_nsblon_2 | 强力热气球 | - | - |
 | enemy_1015_litamr | 轻甲卫兵 | Light-Armored Soldier | 軽装兵 |
 | enemy_1015_litamr_2 | 轻甲卫兵组长 | Light-Armored Soldier Leader | 軽装隊長 |
 | enemy_1016_diaman | 磐蟹 | Metal Crab | ハガネガニ |
@@ -2737,6 +2761,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1576_spbell | 喀兰圣女 | - | - |
 | enemy_1577_iceball | “寒意” | - | - |
 | enemy_1578_icecage | 圣女雪衣 | - | - |
+| enemy_1579_nstmom | 女妖河谷的拂哀菈 | - | - |
 | enemy_18001_lhship | 运输汽艇 | - | - |
 | enemy_18002_lhbetl | 小颚虫 | - | - |
 | enemy_18003_lhkarb | 吸气乱动机 | - | - |
@@ -3312,6 +3337,7 @@ Event | なないろのお茶会 |
 | act45sign | 感谢庆典前瞻签到 | Thank-You Celebration Prospective Login | 大感謝祭開催直前スタンプラリー |
 | act46side | 雪山降临1101 | - | - |
 | act46sign | 感谢庆典限时签到 | Thank-You Celebration Limited-Time Sign-In | 大感謝祭スタンプ |
+| act47side | 未许之地 | - | - |
 | act47sign | 感谢庆典补给签到 | Thank-You Celebration Sign-In Resupplies | 大感謝祭補給スタンプ |
 | act48sign | 2025跨年纪念限时活动 | 2025 Commemorative Limited-Time Event | スタンプラリー |
 | act49sign | 六周年庆典签到活动 | Celebration Login Event | 大感謝祭スタンプ |
@@ -3790,6 +3816,7 @@ Event | なないろのお茶会 |
 | act44side_token_treasure | "宝物袋" | - | - |
 | act45side_token_puzzlepieces | 梦境拼图 | - | - |
 | act46side_token_detector | 雪地用多功能探测器 | - | - |
+| act47side_token_bottle | 天空氧气瓶 | - | - |
 | act4bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act4bossrush_relic_01 | 轻量化载荷 | Lightened Load | 積込み軽量化 |
 | act4bossrush_relic_02 | 核心预热 | Preheated Core | コア予熱 |
@@ -4481,6 +4508,9 @@ Event | なないろのお茶会 |
 | p_char_4208_wintim | 冬时的信物 | - | - |
 | p_char_420_flamtl | 焰尾的信物 | Flametail's Token | フレイムテイルの印 |
 | p_char_4211_snhunt | 雪猎的信物 | - | - |
+| p_char_4212_nasti | 娜斯提的信物 | - | - |
+| p_char_4213_skybx | 天空盒的信物 | - | - |
+| p_char_4214_cairn | 响石的信物 | - | - |
 | p_char_421_crow | 羽毛笔的信物 | La Pluma's Token | ラ・プルマの印 |
 | p_char_422_aurora | 极光的信物 | Aurora's Token | オーロラの印 |
 | p_char_423_blemsh | 瑕光的信物 | Blemishine's Token | ブレミシャインの印 |
@@ -4928,7 +4958,8 @@ Event | なないろのお茶会 |
 | SINGLE_62_0_3 | 沉向深渊的锚 | - | - |
 | SINGLE_63_0_1 | 青霆重明 | - | - |
 | SINGLE_65_0_3 | 未致蒙尘 | - | - |
-| SINGLE_66_0_1 | 空白频段  | - | - |
+| SINGLE_66_0_1 | 空白频段 | - | - |
+| SINGLE_68_0_1 | 现实之上六百米 | - | - |
 | SPECIAL_54_0_5 | 定向甄选 | - | - |
 | SPECIAL_59_0_3 | 定向甄选 | - | - |
 | SPECIAL_61_0_3 | 定向甄选 | - | - |
@@ -5213,6 +5244,8 @@ Event | なないろのお茶会 |
 | skchr_bstalk_2 | “大家一起上” | 'Everyone Together!' | 「全員集合！」 |
 | skchr_bubble_2 | “挨打” | 'Beaten Up' | 「かかってこい！」 |
 | skchr_buildr_2 | 工程者之愿 | Engineer's Wish | 建築家の願い |
+| skchr_cairn_1 | 覆盖式休整 | - | - |
+| skchr_cairn_2 | 震撼型指路 | - | - |
 | skchr_cammou_2 | 同步索敌攻击 | Synchronized Attack | 同調索敵攻撃 |
 | skchr_caper_1 | 强力击·β型 | Power Strike β | 強撃β |
 | skchr_caper_2 | 乐趣加倍 | Double the Fun | ハピネス200%！ |
@@ -5576,6 +5609,9 @@ Event | なないろのお茶会 |
 | skchr_narant_1 | 旋刃 | Whirling Blade | 旋刃 |
 | skchr_narant_2 | 恶魇 | Nightmare | 悪夢 |
 | skchr_narant_3 | 吞日 | Sunswallower | 日喰 |
+| skchr_nasti_1 | “拱卫” | - | - |
+| skchr_nasti_2 | “执行” | - | - |
+| skchr_nasti_3 | 栖脚地 | - | - |
 | skchr_ncdeer_1 | 人间降吉 | Fortune Bringer of the Mortal Realm | 人間降吉 |
 | skchr_ncdeer_2 | 仙山去远 | Return to the Immortal Mountain | 仙山去遠 |
 | skchr_nearl2_1 | 灿焰长刃 | Flaming Edge | 夜に灯る白焔 |
@@ -5733,6 +5769,8 @@ Event | なないろのお茶会 |
 | skchr_skadi_3 | 涌潮悲歌 | Tidal Elegy | 海嘯の悲歌 |
 | skchr_skfire_2 | 天坠之火 | Fire of Heaven | メテオフレイム |
 | skchr_skgoat_2 | 流沙化 | Quicksand Conversion | 流砂 |
+| skchr_skybx_1 | 源石火药驾临 | - | - |
+| skchr_skybx_2 | 电磁脉冲恩宠 | - | - |
 | skchr_slbell_1 | 传音回响 | Echolocation | 木霊せし聖音 |
 | skchr_slbell_2 | 自然震慑 | Natural Deterrent | カランドの威圧 |
 | skchr_slchan_1 | 锁链勾爪 | Chain Hook | ワイヤーシックル |
@@ -6398,6 +6436,9 @@ Event | なないろのお茶会 |
 | sktok_muulct | 全都是虚像！ | - | - |
 | sktok_muulrg_1 | 咪嗷嗷嗷嗷！ | MEEEEOW! | ニャアアアア！ |
 | sktok_muulwr_1 | 请穿上护具！ | Armor Up! | 防具を付けなさい！ |
+| sktok_nasti_nstbld | 栖脚地 | - | - |
+| sktok_nasti_nstchr | “执行” | - | - |
+| sktok_nasti_nstdef | “拱卫” | - | - |
 | sktok_nearl2_3 | “耀阳” | 'Blazing Sun' | 「ブレイジング・サン」 |
 | sktok_necras_skeltn_1 | 怨火缠身 | Flames of Hatred | 纏わりつく紫炎 |
 | sktok_necras_skeltn_2 | 怨火缠身 | Flames of Hatred | 纏わりつく紫炎 |
@@ -7633,6 +7674,18 @@ Event | なないろのお茶会 |
 | act46side_st03 | 寻心道途 | - | - |
 | act46side_st04 | “降临” | - | - |
 | act46side_tr01 | 第一片雪 | - | - |
+| act47side_01 | 嘈杂的天空 | - | - |
+| act47side_02 | 擅闯者 | - | - |
+| act47side_03 | 跌落保护 | - | - |
+| act47side_04 | 晴空湍流 | - | - |
+| act47side_05 | 注目礼 | - | - |
+| act47side_06 | 交叉航线 | - | - |
+| act47side_07 | 停机坪 | - | - |
+| act47side_08 | 栖脚地 | - | - |
+| act47side_st01 | 倒映河水之中 | - | - |
+| act47side_st02 | 试飞日 | - | - |
+| act47side_st03 | 复航 | - | - |
+| act47side_tr01 | 高空适应症 | - | - |
 | act4bossrush_01 | 冰霜与战火 | Frost and Fire | 氷霜と戦火 |
 | act4bossrush_02 | 无关音律 | Out Of Tune | アウトオブチューン |
 | act4bossrush_03 | 延烧的深池 | Dublinn Burning | 延焼する葦沼 |
@@ -8566,6 +8619,8 @@ Event | なないろのお茶会 |
 | act46side_zone1 | 圣巡之旅 | - | - |
 | act46side_zone2 | 变革之路 | - | - |
 | act46side_zone3 | 喀兰之心 | - | - |
+| act47side_zone1 | 天空生活展会 | - | - |
+| act47side_zone2 | 逃离哥伦比亚 | - | - |
 | act4bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act5bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act5d0_zone1 | 下城区 | Downtown | 繁華街 |
@@ -8796,6 +8851,7 @@ Event | なないろのお茶会 |
 | story_dagda_set_1_story_1 | 脚步不停 | How She Strode Onward | 止まらない歩み |
 | story_deepcl_set_1_story_1 | 幽蓝怀想 | Azure Memories | 深き青の追想 |
 | story_deepcl_set_2_story_1 | 蓝调 | Blue Notes | ブルース |
+| story_demkni_set_1_story_1 | 沃土 | - | - |
 | story_doroth_set_1_story_1 | 何处是我朋友的家 | Where is the Friend's House? | 友の故郷はいずこ |
 | story_durin_set_1_story_1 | 午休时间 | Lunchtime Nap | お昼休み |
 | story_durnar_set_1_story_1 | 额外训练 | Extra Training | 追加訓練 |
@@ -8902,6 +8958,7 @@ Event | なないろのお茶会 |
 | story_lumen_set_1_story_1 | 直到灯火明亮 | Till the Lights Shine Bright | 灯火が照らすまで |
 | story_lunacu_set_1_story_1 | 与人共舞 | To Dance With Somebody | 人と共に舞う |
 | story_luton_set_1_story_1 | 阳光映照之下 | Under the Shining Sun | 日差しのもとで |
+| story_makiri_set_1_story_1 | 新茉莉酒馆 | - | - |
 | story_malist_set_1_story_1 | 长夏未尽 | In the Endless Summer | エンドレス・サマー |
 | story_mantic_set_1_story_1 | 缄默 | Dead Silence | 黙して語らず |
 | story_mantra_set_1_story_1 | 无处不在 | - | - |
@@ -8943,6 +9000,7 @@ Event | なないろのお茶会 |
 | story_peper_set_1_story_1 | 少年雇佣兵 | Mercenary Youth | 傭兵の少女 |
 | story_phatom_set_1_story_1 | 合作 | Cooperation | 協力 |
 | story_phenxi_set_1_story_1 | 乐园 | Paradisus | 楽園 |
+| story_philae_set_1_story_1 | 新生 | - | - |
 | story_pianst_set_1_story_1 | 夕阳与朝日 | Dämmerung und Anbruch | 夕日と朝日 |
 | story_pianst_set_2_story_1 | 阳光洒落之前 | Before the Spilling Sunlight | 陽光が降り注ぐ前に |
 | story_pinecn_set_1_story_1 | 展信好 | Yours Sincerely | 拝啓 |
@@ -8965,6 +9023,7 @@ Event | なないろのお茶会 |
 | story_ray_set_1_story_1 | 夜晚荒漠上的鳞群 | - | - |
 | story_rdoc_set_1_story_1 | 模糊的面容 | Ambiguous Appearance | 朧げな面影 |
 | story_reckpr_set_1_story_1 | 何须剑 | - | - |
+| story_rfalcn_set_1_story_1 | 未来的痕迹 | - | - |
 | story_rfrost_set_1_story_1 | 寻乡 | Searching for Home | 故郷をたどって |
 | story_robin_set_1_story_1 | 冷暖自知 | To Live, To Feel | 触れるぬくもり |
 | story_robrta_set_1_story_1 | 挽歌 | Elegy | 亡き者に捧ぐ歌 |

@@ -1007,6 +1007,18 @@ tip: 请善用浏览器的搜索功能
 | act46side_st03 | 寻心道途 | - | - |
 | act46side_st04 | “降临” | - | - |
 | act46side_tr01 | 第一片雪 | - | - |
+| act47side_01 | 嘈杂的天空 | - | - |
+| act47side_02 | 擅闯者 | - | - |
+| act47side_03 | 跌落保护 | - | - |
+| act47side_04 | 晴空湍流 | - | - |
+| act47side_05 | 注目礼 | - | - |
+| act47side_06 | 交叉航线 | - | - |
+| act47side_07 | 停机坪 | - | - |
+| act47side_08 | 栖脚地 | - | - |
+| act47side_st01 | 倒映河水之中 | - | - |
+| act47side_st02 | 试飞日 | - | - |
+| act47side_st03 | 复航 | - | - |
+| act47side_tr01 | 高空适应症 | - | - |
 | act4bossrush_01 | 冰霜与战火 | Frost and Fire | 氷霜と戦火 |
 | act4bossrush_02 | 无关音律 | Out Of Tune | アウトオブチューン |
 | act4bossrush_03 | 延烧的深池 | Dublinn Burning | 延焼する葦沼 |

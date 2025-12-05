@@ -95,6 +95,7 @@ tip: 请善用浏览器的搜索功能
 | story_dagda_set_1_story_1 | 脚步不停 | How She Strode Onward | 止まらない歩み |
 | story_deepcl_set_1_story_1 | 幽蓝怀想 | Azure Memories | 深き青の追想 |
 | story_deepcl_set_2_story_1 | 蓝调 | Blue Notes | ブルース |
+| story_demkni_set_1_story_1 | 沃土 | - | - |
 | story_doroth_set_1_story_1 | 何处是我朋友的家 | Where is the Friend's House? | 友の故郷はいずこ |
 | story_durin_set_1_story_1 | 午休时间 | Lunchtime Nap | お昼休み |
 | story_durnar_set_1_story_1 | 额外训练 | Extra Training | 追加訓練 |
@@ -201,6 +202,7 @@ tip: 请善用浏览器的搜索功能
 | story_lumen_set_1_story_1 | 直到灯火明亮 | Till the Lights Shine Bright | 灯火が照らすまで |
 | story_lunacu_set_1_story_1 | 与人共舞 | To Dance With Somebody | 人と共に舞う |
 | story_luton_set_1_story_1 | 阳光映照之下 | Under the Shining Sun | 日差しのもとで |
+| story_makiri_set_1_story_1 | 新茉莉酒馆 | - | - |
 | story_malist_set_1_story_1 | 长夏未尽 | In the Endless Summer | エンドレス・サマー |
 | story_mantic_set_1_story_1 | 缄默 | Dead Silence | 黙して語らず |
 | story_mantra_set_1_story_1 | 无处不在 | - | - |
@@ -242,6 +244,7 @@ tip: 请善用浏览器的搜索功能
 | story_peper_set_1_story_1 | 少年雇佣兵 | Mercenary Youth | 傭兵の少女 |
 | story_phatom_set_1_story_1 | 合作 | Cooperation | 協力 |
 | story_phenxi_set_1_story_1 | 乐园 | Paradisus | 楽園 |
+| story_philae_set_1_story_1 | 新生 | - | - |
 | story_pianst_set_1_story_1 | 夕阳与朝日 | Dämmerung und Anbruch | 夕日と朝日 |
 | story_pianst_set_2_story_1 | 阳光洒落之前 | Before the Spilling Sunlight | 陽光が降り注ぐ前に |
 | story_pinecn_set_1_story_1 | 展信好 | Yours Sincerely | 拝啓 |
@@ -264,6 +267,7 @@ tip: 请善用浏览器的搜索功能
 | story_ray_set_1_story_1 | 夜晚荒漠上的鳞群 | - | - |
 | story_rdoc_set_1_story_1 | 模糊的面容 | Ambiguous Appearance | 朧げな面影 |
 | story_reckpr_set_1_story_1 | 何须剑 | - | - |
+| story_rfalcn_set_1_story_1 | 未来的痕迹 | - | - |
 | story_rfrost_set_1_story_1 | 寻乡 | Searching for Home | 故郷をたどって |
 | story_robin_set_1_story_1 | 冷暖自知 | To Live, To Feel | 触れるぬくもり |
 | story_robrta_set_1_story_1 | 挽歌 | Elegy | 亡き者に捧ぐ歌 |

@@ -1800,6 +1800,9 @@
   "act46side_token_detector": {
     "zh_CN": "雪地用多功能探测器"
   },
+  "act47side_token_bottle": {
+    "zh_CN": "天空氧气瓶"
+  },
   "act4bossrush_milestone_point": {
     "en_US": "Trial EXP",
     "ja_JP": "試練経験値",
@@ -5131,6 +5134,15 @@
   },
   "p_char_4211_snhunt": {
     "zh_CN": "雪猎的信物"
+  },
+  "p_char_4212_nasti": {
+    "zh_CN": "娜斯提的信物"
+  },
+  "p_char_4213_skybx": {
+    "zh_CN": "天空盒的信物"
+  },
+  "p_char_4214_cairn": {
+    "zh_CN": "响石的信物"
   },
   "p_char_421_crow": {
     "en_US": "La Pluma's Token",

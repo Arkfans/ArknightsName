@@ -712,6 +712,12 @@
     "ja_JP": "建築家の願い",
     "zh_CN": "工程者之愿"
   },
+  "skchr_cairn_1": {
+    "zh_CN": "覆盖式休整"
+  },
+  "skchr_cairn_2": {
+    "zh_CN": "震撼型指路"
+  },
   "skchr_cammou_2": {
     "en_US": "Synchronized Attack",
     "ja_JP": "同調索敵攻撃",
@@ -2477,6 +2483,15 @@
     "ja_JP": "日喰",
     "zh_CN": "吞日"
   },
+  "skchr_nasti_1": {
+    "zh_CN": "“拱卫”"
+  },
+  "skchr_nasti_2": {
+    "zh_CN": "“执行”"
+  },
+  "skchr_nasti_3": {
+    "zh_CN": "栖脚地"
+  },
   "skchr_ncdeer_1": {
     "en_US": "Fortune Bringer of the Mortal Realm",
     "ja_JP": "人間降吉",
@@ -3235,6 +3250,12 @@
     "en_US": "Quicksand Conversion",
     "ja_JP": "流砂",
     "zh_CN": "流沙化"
+  },
+  "skchr_skybx_1": {
+    "zh_CN": "源石火药驾临"
+  },
+  "skchr_skybx_2": {
+    "zh_CN": "电磁脉冲恩宠"
   },
   "skchr_slbell_1": {
     "en_US": "Echolocation",
@@ -6264,6 +6285,15 @@
     "en_US": "Armor Up!",
     "ja_JP": "防具を付けなさい！",
     "zh_CN": "请穿上护具！"
+  },
+  "sktok_nasti_nstbld": {
+    "zh_CN": "栖脚地"
+  },
+  "sktok_nasti_nstchr": {
+    "zh_CN": "“执行”"
+  },
+  "sktok_nasti_nstdef": {
+    "zh_CN": "“拱卫”"
   },
   "sktok_nearl2_3": {
     "en_US": "'Blazing Sun'",

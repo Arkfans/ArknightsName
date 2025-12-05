@@ -220,6 +220,8 @@ tip: 请善用浏览器的搜索功能
 | act46side_zone1 | 圣巡之旅 | - | - |
 | act46side_zone2 | 变革之路 | - | - |
 | act46side_zone3 | 喀兰之心 | - | - |
+| act47side_zone1 | 天空生活展会 | - | - |
+| act47side_zone2 | 逃离哥伦比亚 | - | - |
 | act4bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act5bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act5d0_zone1 | 下城区 | Downtown | 繁華街 |

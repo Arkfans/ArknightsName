@@ -286,8 +286,24 @@ tip: 请善用浏览器的搜索功能
 | enemy_10144_xdelk_2 | 乌顶巨角卢鲁 | - | - |
 | enemy_10145_xdrock | 伊斯贝塔 | - | - |
 | enemy_10145_xdrock_2 | 斯托斯贝塔 | - | - |
+| enemy_10146_nscola | 开天汽水瓶 | - | - |
+| enemy_10146_nscola_2 | 开天汽水瓶·酸辣味 | - | - |
+| enemy_10147_nsbomb | 遮天面包机 | - | - |
+| enemy_10147_nsbomb_2 | 遮天面包机·果酱款 | - | - |
+| enemy_10148_nsmos | 啸天吸尘器 | - | - |
+| enemy_10148_nsmos_2 | 啸天吸尘器·大力版 | - | - |
+| enemy_10149_nscan | 掀天汽水桶 | - | - |
+| enemy_10149_nscan_2 | 掀天汽水桶·家庭装 | - | - |
 | enemy_1014_rogue | 双持剑士 | Dual Swordsman | 双剣士 |
 | enemy_1014_rogue_2 | 双持剑士组长 | Dual Swordsman Leader | 双剣隊長 |
+| enemy_10150_nsheat | 炙烤螺旋桨 | - | - |
+| enemy_10150_nsheat_2 | 焦香螺旋桨 | - | - |
+| enemy_10151_nspace | 行天卫生间 | - | - |
+| enemy_10151_nspace_2 | 行天救护车 | - | - |
+| enemy_10152_nstree | “自由的树” | - | - |
+| enemy_10152_nstree_2 | “逐日的树” | - | - |
+| enemy_10153_nsblon | 热气球 | - | - |
+| enemy_10153_nsblon_2 | 强力热气球 | - | - |
 | enemy_1015_litamr | 轻甲卫兵 | Light-Armored Soldier | 軽装兵 |
 | enemy_1015_litamr_2 | 轻甲卫兵组长 | Light-Armored Soldier Leader | 軽装隊長 |
 | enemy_1016_diaman | 磐蟹 | Metal Crab | ハガネガニ |
@@ -1168,6 +1184,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1576_spbell | 喀兰圣女 | - | - |
 | enemy_1577_iceball | “寒意” | - | - |
 | enemy_1578_icecage | 圣女雪衣 | - | - |
+| enemy_1579_nstmom | 女妖河谷的拂哀菈 | - | - |
 | enemy_18001_lhship | 运输汽艇 | - | - |
 | enemy_18002_lhbetl | 小颚虫 | - | - |
 | enemy_18003_lhkarb | 吸气乱动机 | - | - |

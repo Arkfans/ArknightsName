@@ -150,6 +150,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_bstalk_2 | “大家一起上” | 'Everyone Together!' | 「全員集合！」 |
 | skchr_bubble_2 | “挨打” | 'Beaten Up' | 「かかってこい！」 |
 | skchr_buildr_2 | 工程者之愿 | Engineer's Wish | 建築家の願い |
+| skchr_cairn_1 | 覆盖式休整 | - | - |
+| skchr_cairn_2 | 震撼型指路 | - | - |
 | skchr_cammou_2 | 同步索敌攻击 | Synchronized Attack | 同調索敵攻撃 |
 | skchr_caper_1 | 强力击·β型 | Power Strike β | 強撃β |
 | skchr_caper_2 | 乐趣加倍 | Double the Fun | ハピネス200%！ |
@@ -513,6 +515,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_narant_1 | 旋刃 | Whirling Blade | 旋刃 |
 | skchr_narant_2 | 恶魇 | Nightmare | 悪夢 |
 | skchr_narant_3 | 吞日 | Sunswallower | 日喰 |
+| skchr_nasti_1 | “拱卫” | - | - |
+| skchr_nasti_2 | “执行” | - | - |
+| skchr_nasti_3 | 栖脚地 | - | - |
 | skchr_ncdeer_1 | 人间降吉 | Fortune Bringer of the Mortal Realm | 人間降吉 |
 | skchr_ncdeer_2 | 仙山去远 | Return to the Immortal Mountain | 仙山去遠 |
 | skchr_nearl2_1 | 灿焰长刃 | Flaming Edge | 夜に灯る白焔 |
@@ -670,6 +675,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_skadi_3 | 涌潮悲歌 | Tidal Elegy | 海嘯の悲歌 |
 | skchr_skfire_2 | 天坠之火 | Fire of Heaven | メテオフレイム |
 | skchr_skgoat_2 | 流沙化 | Quicksand Conversion | 流砂 |
+| skchr_skybx_1 | 源石火药驾临 | - | - |
+| skchr_skybx_2 | 电磁脉冲恩宠 | - | - |
 | skchr_slbell_1 | 传音回响 | Echolocation | 木霊せし聖音 |
 | skchr_slbell_2 | 自然震慑 | Natural Deterrent | カランドの威圧 |
 | skchr_slchan_1 | 锁链勾爪 | Chain Hook | ワイヤーシックル |
@@ -1335,6 +1342,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_muulct | 全都是虚像！ | - | - |
 | sktok_muulrg_1 | 咪嗷嗷嗷嗷！ | MEEEEOW! | ニャアアアア！ |
 | sktok_muulwr_1 | 请穿上护具！ | Armor Up! | 防具を付けなさい！ |
+| sktok_nasti_nstbld | 栖脚地 | - | - |
+| sktok_nasti_nstchr | “执行” | - | - |
+| sktok_nasti_nstdef | “拱卫” | - | - |
 | sktok_nearl2_3 | “耀阳” | 'Blazing Sun' | 「ブレイジング・サン」 |
 | sktok_necras_skeltn_1 | 怨火缠身 | Flames of Hatred | 纏わりつく紫炎 |
 | sktok_necras_skeltn_2 | 怨火缠身 | Flames of Hatred | 纏わりつく紫炎 |

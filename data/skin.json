@@ -101,6 +101,9 @@
     "ja_JP": "歴史に囲まれて",
     "zh_CN": "博物"
   },
+  "char_1020_reed2@snow#8": {
+    "zh_CN": "闪焰之夜"
+  },
   "char_1020_reed2@summer#17": {
     "en_US": "Summer Flowers FA075",
     "ja_JP": "夏の花弁FA075",
@@ -186,6 +189,9 @@
     "en_US": "Supernova",
     "ja_JP": "超新星",
     "zh_CN": "超新星"
+  },
+  "char_1036_fang2@snow#8": {
+    "zh_CN": "纯净乐段"
   },
   "char_1037_amiya3@sale#13": {
     "en_US": "Solo Around The World",

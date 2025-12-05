@@ -2717,6 +2717,24 @@
       "zh_CN": "雪猎"
     }
   },
+  "char_4212_nasti": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "娜斯提"
+    }
+  },
+  "char_4213_skybx": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "天空盒"
+    }
+  },
+  "char_4214_cairn": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "响石"
+    }
+  },
   "char_421_crow": {
     "type": "OPERATOR",
     "names": {
@@ -3825,6 +3843,24 @@
     "type": "TOKEN",
     "names": {
       "zh_CN": "保护目标（冻结状态）"
+    }
+  },
+  "token_10059_nasti_nstdef": {
+    "type": "TOKEN",
+    "names": {
+      "zh_CN": "“质检专员”"
+    }
+  },
+  "token_10060_nasti_nstchr": {
+    "type": "TOKEN",
+    "names": {
+      "zh_CN": "“监工专员”"
+    }
+  },
+  "token_10061_nasti_nstbld": {
+    "type": "TOKEN",
+    "names": {
+      "zh_CN": "“应急承重小组”"
     }
   },
   "trap_079_allydonq": {
@@ -8581,6 +8617,12 @@
       "zh_CN": "博物"
     }
   },
+  "char_1020_reed2@snow#8": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "闪焰之夜"
+    }
+  },
   "char_1020_reed2@summer#17": {
     "type": "SKIN",
     "names": {
@@ -8719,6 +8761,12 @@
       "en_US": "Supernova",
       "ja_JP": "超新星",
       "zh_CN": "超新星"
+    }
+  },
+  "char_1036_fang2@snow#8": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "纯净乐段"
     }
   },
   "char_1037_amiya3@sale#13": {
@@ -14229,6 +14277,54 @@
       "zh_CN": "斯托斯贝塔"
     }
   },
+  "enemy_10146_nscola": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "开天汽水瓶"
+    }
+  },
+  "enemy_10146_nscola_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "开天汽水瓶·酸辣味"
+    }
+  },
+  "enemy_10147_nsbomb": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "遮天面包机"
+    }
+  },
+  "enemy_10147_nsbomb_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "遮天面包机·果酱款"
+    }
+  },
+  "enemy_10148_nsmos": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "啸天吸尘器"
+    }
+  },
+  "enemy_10148_nsmos_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "啸天吸尘器·大力版"
+    }
+  },
+  "enemy_10149_nscan": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "掀天汽水桶"
+    }
+  },
+  "enemy_10149_nscan_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "掀天汽水桶·家庭装"
+    }
+  },
   "enemy_1014_rogue": {
     "type": "ENEMY",
     "names": {
@@ -14243,6 +14339,54 @@
       "en_US": "Dual Swordsman Leader",
       "ja_JP": "双剣隊長",
       "zh_CN": "双持剑士组长"
+    }
+  },
+  "enemy_10150_nsheat": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "炙烤螺旋桨"
+    }
+  },
+  "enemy_10150_nsheat_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "焦香螺旋桨"
+    }
+  },
+  "enemy_10151_nspace": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "行天卫生间"
+    }
+  },
+  "enemy_10151_nspace_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "行天救护车"
+    }
+  },
+  "enemy_10152_nstree": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“自由的树”"
+    }
+  },
+  "enemy_10152_nstree_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“逐日的树”"
+    }
+  },
+  "enemy_10153_nsblon": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "热气球"
+    }
+  },
+  "enemy_10153_nsblon_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "强力热气球"
     }
   },
   "enemy_1015_litamr": {
@@ -21267,6 +21411,12 @@
       "zh_CN": "圣女雪衣"
     }
   },
+  "enemy_1579_nstmom": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "女妖河谷的拂哀菈"
+    }
+  },
   "enemy_18001_lhship": {
     "type": "ENEMY",
     "names": {
@@ -25589,6 +25739,12 @@
       "zh_CN": "感谢庆典限时签到"
     }
   },
+  "act47side": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "未许之地"
+    }
+  },
   "act47sign": {
     "type": "ACTIVITY",
     "names": {
@@ -29284,6 +29440,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "雪地用多功能探测器"
+    }
+  },
+  "act47side_token_bottle": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "天空氧气瓶"
     }
   },
   "act4bossrush_milestone_point": {
@@ -34685,6 +34847,24 @@
       "zh_CN": "雪猎的信物"
     }
   },
+  "p_char_4212_nasti": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "娜斯提的信物"
+    }
+  },
+  "p_char_4213_skybx": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "天空盒的信物"
+    }
+  },
+  "p_char_4214_cairn": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "响石的信物"
+    }
+  },
   "p_char_421_crow": {
     "type": "ITEM",
     "names": {
@@ -37986,7 +38166,13 @@
   "SINGLE_66_0_1": {
     "type": "POOL",
     "names": {
-      "zh_CN": "空白频段 "
+      "zh_CN": "空白频段"
+    }
+  },
+  "SINGLE_68_0_1": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "现实之上六百米"
     }
   },
   "SPECIAL_54_0_5": {
@@ -40100,6 +40286,18 @@
       "en_US": "Engineer's Wish",
       "ja_JP": "建築家の願い",
       "zh_CN": "工程者之愿"
+    }
+  },
+  "skchr_cairn_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "覆盖式休整"
+    }
+  },
+  "skchr_cairn_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "震撼型指路"
     }
   },
   "skchr_cammou_2": {
@@ -42956,6 +43154,24 @@
       "zh_CN": "吞日"
     }
   },
+  "skchr_nasti_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“拱卫”"
+    }
+  },
+  "skchr_nasti_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“执行”"
+    }
+  },
+  "skchr_nasti_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "栖脚地"
+    }
+  },
   "skchr_ncdeer_1": {
     "type": "SKILL",
     "names": {
@@ -44184,6 +44400,18 @@
       "en_US": "Quicksand Conversion",
       "ja_JP": "流砂",
       "zh_CN": "流沙化"
+    }
+  },
+  "skchr_skybx_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "源石火药驾临"
+    }
+  },
+  "skchr_skybx_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "电磁脉冲恩宠"
     }
   },
   "skchr_slbell_1": {
@@ -49208,6 +49436,24 @@
       "en_US": "Armor Up!",
       "ja_JP": "防具を付けなさい！",
       "zh_CN": "请穿上护具！"
+    }
+  },
+  "sktok_nasti_nstbld": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "栖脚地"
+    }
+  },
+  "sktok_nasti_nstchr": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“执行”"
+    }
+  },
+  "sktok_nasti_nstdef": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“拱卫”"
     }
   },
   "sktok_nearl2_3": {
@@ -58824,6 +59070,78 @@
       "zh_CN": "第一片雪"
     }
   },
+  "act47side_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "嘈杂的天空"
+    }
+  },
+  "act47side_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "擅闯者"
+    }
+  },
+  "act47side_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "跌落保护"
+    }
+  },
+  "act47side_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "晴空湍流"
+    }
+  },
+  "act47side_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "注目礼"
+    }
+  },
+  "act47side_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "交叉航线"
+    }
+  },
+  "act47side_07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "停机坪"
+    }
+  },
+  "act47side_08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "栖脚地"
+    }
+  },
+  "act47side_st01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "倒映河水之中"
+    }
+  },
+  "act47side_st02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "试飞日"
+    }
+  },
+  "act47side_st03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "复航"
+    }
+  },
+  "act47side_tr01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "高空适应症"
+    }
+  },
   "act4bossrush_01": {
     "type": "STAGE",
     "names": {
@@ -66150,6 +66468,18 @@
       "zh_CN": "喀兰之心"
     }
   },
+  "act47side_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "天空生活展会"
+    }
+  },
+  "act47side_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "逃离哥伦比亚"
+    }
+  },
   "act4bossrush_zone1": {
     "type": "ZONE",
     "names": {
@@ -67964,6 +68294,12 @@
       "zh_CN": "蓝调"
     }
   },
+  "story_demkni_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "沃土"
+    }
+  },
   "story_doroth_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -68802,6 +69138,12 @@
       "zh_CN": "阳光映照之下"
     }
   },
+  "story_makiri_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "新茉莉酒馆"
+    }
+  },
   "story_malist_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -69126,6 +69468,12 @@
       "zh_CN": "乐园"
     }
   },
+  "story_philae_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "新生"
+    }
+  },
   "story_pianst_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -69294,6 +69642,12 @@
     "type": "MEMORY",
     "names": {
       "zh_CN": "何须剑"
+    }
+  },
+  "story_rfalcn_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "未来的痕迹"
     }
   },
   "story_rfrost_set_1_story_1": {

@@ -350,6 +350,9 @@ tip: 请善用浏览器的搜索功能
 | char_4208_wintim | 冬时 | - | - |
 | char_420_flamtl | 焰尾 | Flametail | フレイムテイル |
 | char_4211_snhunt | 雪猎 | - | - |
+| char_4212_nasti | 娜斯提 | - | - |
+| char_4213_skybx | 天空盒 | - | - |
+| char_4214_cairn | 响石 | - | - |
 | char_421_crow | 羽毛笔 | La Pluma | ラ・プルマ |
 | char_422_aurora | 极光 | Aurora | オーロラ |
 | char_423_blemsh | 瑕光 | Blemishine | ブレミシャイン |

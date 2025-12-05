@@ -67,4 +67,7 @@ tip: 请善用浏览器的搜索功能
 | token_10057_svash2_eagle2 | 风雪之眼 | - | - |
 | token_10057_svash2_eagle3 | 风雪之眼 | - | - |
 | token_10058_sbell2_icetgt | 保护目标（冻结状态） | - | - |
+| token_10059_nasti_nstdef | “质检专员” | - | - |
+| token_10060_nasti_nstchr | “监工专员” | - | - |
+| token_10061_nasti_nstbld | “应急承重小组” | - | - |
 | trap_079_allydonq | 猎潮的骑士 | Tide-Hunt Knight | 猟潮の騎士 |

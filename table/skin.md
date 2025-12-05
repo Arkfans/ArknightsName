@@ -27,6 +27,7 @@ tip: 请善用浏览器的搜索功能
 | char_101_sora@epoque#17 | 如歌 | Melodiosa | メロディオーソ |
 | char_101_sora@summer#1 | 夏卉 FA361 | Summer Flowers FA361 | 夏の花弁FA361 |
 | char_1020_reed2@epoque#30 | 博物 | Curator | 歴史に囲まれて |
+| char_1020_reed2@snow#8 | 闪焰之夜 | - | - |
 | char_1020_reed2@summer#17 | 夏卉 FA075 | Summer Flowers FA075 | 夏の花弁FA075 |
 | char_1021_kroos2@game#3 | 新手光环 | The Apprentice and Her Aura | ビギナーズラック |
 | char_1021_kroos2@nian#8 | 廊下游 | Along the Corridor | 長廊遊 |
@@ -45,6 +46,7 @@ tip: 请善用浏览器的搜索功能
 | char_1033_swire2@ambienceSynesthesia#4 | 律动方格 | Rhythmic Blocks | リズミックブロック |
 | char_1034_jesca2@cfa#1 | 《上任达维镇》 | 'Ride to Davistown' | 『デイヴィスタウンへ赴く』 |
 | char_1035_wisdel@sale#14 | 超新星 | Supernova | 超新星 |
+| char_1036_fang2@snow#8 | 纯净乐段 | - | - |
 | char_1037_amiya3@sale#13 | 寰宇独奏 | Solo Around The World | 宙に響く独奏 |
 | char_1038_whitw2@sale#15 | 无序的谦卑 | - | - |
 | char_1039_thorn2@marthe#9 | 无际之帆 | - | - |
