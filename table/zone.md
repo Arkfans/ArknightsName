@@ -200,6 +200,8 @@ tip: 请善用浏览器的搜索功能
 | act38sre_zone3 | 荒芜之舞 | - | - |
 | act39side_zone1 | 盐漠开航 | Across the Salt Flat | 塩海横断 |
 | act39side_zone2 | 穿越骸礁 | Through the Skeletal Reef | 骸礁突破 |
+| act39sre_zone1 | 盐漠开航 | - | - |
+| act39sre_zone2 | 穿越骸礁 | - | - |
 | act3bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act3mainss_zone1 | 反常光谱 | - | - |
 | act40side_zone1 | 识七味 | Flavor of Food | 識七味 |
@@ -310,6 +312,8 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_28_zone1 | 四幕汇演 | - | - |
 | permanent_sidestory_28_zone2 | 彩车游行 | - | - |
 | permanent_sidestory_28_zone3 | 荒芜之舞 | - | - |
+| permanent_sidestory_29_zone1 | 盐漠开航 | - | - |
+| permanent_sidestory_29_zone2 | 穿越骸礁 | - | - |
 | permanent_sidestory_2_zone1 | 主舞台 | Main Stage | メインステージ |
 | permanent_sidestory_2_zone2 | 嘉年华 | Carnival | フェスティバル |
 | permanent_sidestory_2_zone3 | 额外节目 | Extra Show | エクストラ |

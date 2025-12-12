@@ -362,6 +362,7 @@ tip: 请善用浏览器的搜索功能
 | act38side_token_ticket | 匿名邀请函 | Invito Mistico | 匿名招待状 |
 | act38side_token_ticket_rep_1 | 匿名邀请函 | - | - |
 | act39side_token_garum | 盐鳞咸鳞汁 | Saltfin Garum | 塩鱗ガルム |
+| act39side_token_garum_rep_1 | 盐鳞咸鳞汁 | - | - |
 | act3bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act3bossrush_relic_01 | 恢复增幅 | Recovery Boost | 癒しの増幅 |
 | act3bossrush_relic_02 | 扩大化战略 | Strategy Expansion | 拡大化戦略 |
@@ -1287,6 +1288,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_outdoor_2 | 海滨印象家具收藏包二 | Beachside Impressions Furniture Pack II | 海辺風家具パックvol.2 |
 | uni_set_penguin | 喧闹法则家具收藏包 | Code of Brawl Furniture Pack | 喧騒の掟家具パック |
 | uni_set_pizza | 骑兵与猎人家具收藏包 | Grani and the Knights' Treasure Furniture Pack | 騎兵と狩人家具パック |
+| uni_set_postOffice | 银心湖列车家具收藏包 | - | - |
 | uni_set_prison | 孤岛风云家具收藏包 | Mansfield Break Furniture Pack | 孤島激震家具パック |
 | uni_set_reception | 龙门风情茶室家具收藏包 | Lungmen Tearoom Furniture Collection Set | 龍門茶室家具パック |
 | uni_set_rhineLab | 绿野幻梦家具收藏包 | Dorothy's Vision Furniture Pack | 翠玉の夢家具パック |
@@ -1319,6 +1321,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_full_glady | 歌蕾蒂娅的私人信件 | Gladiia's Personal Letter | グレイディーアの手紙 |
 | voucher_full_grani | 格拉尼的私人信件 | Grani's Personal Letter | グラニの手紙 |
 | voucher_full_halo | 星源的私人信件 | Astgenne's Personal Letter | アステジーニの手紙 |
+| voucher_full_harold | 哈洛德的私人信件 | - | - |
 | voucher_full_inside | 隐现的私人信件 | Insider's Personal Letter | インサイダーの手紙 |
 | voucher_full_kjera | 耶拉的私人信件 | Kjera's Personal Letter | イェラの手紙 |
 | voucher_full_kroos2 | 寒芒克洛丝的私人信件 | Kroos the Keen Glint's Personal Letter | 寒芒クルースの手紙 |

@@ -1442,6 +1442,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_6030_frgzac | “鸣啭” | 'Twitter' | 「鳴囀」 |
 | enemy_6031_visfrg | “木衣” | 'Woodthreads' | 「木衣」 |
 | enemy_6032_fxdjj | “绝对安保”试做型  | - | - |
+| enemy_6033_skagod | 冰滚兽  | - | - |
 | enemy_7001_blwzad | 部族巫术师 | Tribal Shaman | 部族呪術師 |
 | enemy_7001_blwzad_2 | 王酋巫术师 | Lord Ameer Shaman | 首長呪術師 |
 | enemy_7002_veingd | 矿脉守卫 | Vein Guardian | 鉱脈の守護者 |

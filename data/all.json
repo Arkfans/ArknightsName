@@ -8449,6 +8449,24 @@
       "zh_CN": "“绝对助手”"
     }
   },
+  "trap_787_supctl": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "冷爆机"
+    }
+  },
+  "trap_788_supctla": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "低温传导模块"
+    }
+  },
+  "trap_789_supctlb": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "冰浪脉冲模块"
+    }
+  },
   "char_002_amiya@epoque#4": {
     "type": "SKIN",
     "names": {
@@ -11499,6 +11517,12 @@
       "en_US": "Gorgeous Flower",
       "ja_JP": "紫藤繚乱",
       "zh_CN": "绚烂夏花"
+    }
+  },
+  "char_4163_rosesa@game#7": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "冒险启程"
     }
   },
   "char_416_zumama@boc#3": {
@@ -23357,6 +23381,12 @@
       "zh_CN": "“绝对安保”试做型 "
     }
   },
+  "enemy_6033_skagod": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "冰滚兽 "
+    }
+  },
   "enemy_7001_blwzad": {
     "type": "ENEMY",
     "names": {
@@ -25537,6 +25567,12 @@
       "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
+    }
+  },
+  "act39sre": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "出苍白海·复刻"
     }
   },
   "act3bossrush": {
@@ -29307,6 +29343,12 @@
     "names": {
       "en_US": "Saltfin Garum",
       "ja_JP": "塩鱗ガルム",
+      "zh_CN": "盐鳞咸鳞汁"
+    }
+  },
+  "act39side_token_garum_rep_1": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "盐鳞咸鳞汁"
     }
   },
@@ -36531,6 +36573,12 @@
       "zh_CN": "骑兵与猎人家具收藏包"
     }
   },
+  "uni_set_postOffice": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "银心湖列车家具收藏包"
+    }
+  },
   "uni_set_prison": {
     "type": "ITEM",
     "names": {
@@ -36777,6 +36825,12 @@
       "en_US": "Astgenne's Personal Letter",
       "ja_JP": "アステジーニの手紙",
       "zh_CN": "星源的私人信件"
+    }
+  },
+  "voucher_full_harold": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "哈洛德的私人信件"
     }
   },
   "voucher_full_inside": {
@@ -38173,6 +38227,12 @@
     "type": "POOL",
     "names": {
       "zh_CN": "现实之上六百米"
+    }
+  },
+  "SINGLE_68_0_3": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "证实，完成，指引"
     }
   },
   "SPECIAL_54_0_5": {
@@ -50176,6 +50236,12 @@
       "zh_CN": "宝刺伤人"
     }
   },
+  "sktok_supctl_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "冷控处理"
+    }
+  },
   "sktok_supplycard": {
     "type": "SKILL",
     "names": {
@@ -61294,6 +61360,42 @@
       "zh_CN": "特别顾客"
     }
   },
+  "lt_20_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "运道抢险"
+    }
+  },
+  "lt_20_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "作业整备"
+    }
+  },
+  "lt_20_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "内部深入"
+    }
+  },
+  "lt_20_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "新穴聚居"
+    }
+  },
+  "lt_20_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "四方涌现"
+    }
+  },
+  "lt_20_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "幽邃尽头"
+    }
+  },
   "lt_tr_01": {
     "type": "STAGE",
     "names": {
@@ -66326,6 +66428,18 @@
       "zh_CN": "穿越骸礁"
     }
   },
+  "act39sre_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "盐漠开航"
+    }
+  },
+  "act39sre_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "穿越骸礁"
+    }
+  },
   "act3bossrush_zone1": {
     "type": "ZONE",
     "names": {
@@ -67168,6 +67282,18 @@
     "type": "ZONE",
     "names": {
       "zh_CN": "荒芜之舞"
+    }
+  },
+  "permanent_sidestory_29_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "盐漠开航"
+    }
+  },
+  "permanent_sidestory_29_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "穿越骸礁"
     }
   },
   "permanent_sidestory_2_zone1": {

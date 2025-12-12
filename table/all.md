@@ -1106,6 +1106,9 @@ tip: 请善用浏览器的搜索功能
 | trap_784_tnkspka | 微型尖刺配件 | - | - |
 | trap_785_tnkspkb | 维生监测配件 | - | - |
 | trap_786_fxdtwr | “绝对助手” | - | - |
+| trap_787_supctl | 冷爆机 | - | - |
+| trap_788_supctla | 低温传导模块 | - | - |
+| trap_789_supctlb | 冰浪脉冲模块 | - | - |
 | char_002_amiya@epoque#4 | 见习联结者 | Fresh Fastener | 見習い宅配人 |
 | char_002_amiya@test#1 | 播种者 | Seedsower | プランター |
 | char_002_amiya@winter#1 | 报童 | Newsgirl | 新聞配達員 |
@@ -1496,6 +1499,7 @@ tip: 请善用浏览器的搜索功能
 | char_4151_tinman@sale#11 | 相位面容 | Phase Face | フェーズフェイス |
 | char_4155_talr@yun#9 | 桂影窗 | - | - |
 | char_415_flint@boc#3 | 绚烂夏花 | Gorgeous Flower | 紫藤繚乱 |
+| char_4163_rosesa@game#7 | 冒险启程 | - | - |
 | char_416_zumama@boc#3 | 熔锻铸匠 | Forgemaster | 熔冶工匠 |
 | char_4182_oblvns@avemujica#1 | 旋律的主人 | - | - |
 | char_4183_mortis@avemujica#1 | 提线的本我 | - | - |
@@ -3019,6 +3023,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_6030_frgzac | “鸣啭” | 'Twitter' | 「鳴囀」 |
 | enemy_6031_visfrg | “木衣” | 'Woodthreads' | 「木衣」 |
 | enemy_6032_fxdjj | “绝对安保”试做型  | - | - |
+| enemy_6033_skagod | 冰滚兽  | - | - |
 | enemy_7001_blwzad | 部族巫术师 | Tribal Shaman | 部族呪術師 |
 | enemy_7001_blwzad_2 | 王酋巫术师 | Lord Ameer Shaman | 首長呪術師 |
 | enemy_7002_veingd | 矿脉守卫 | Vein Guardian | 鉱脈の守護者 |
@@ -3307,6 +3312,7 @@ tip: 请善用浏览器的搜索功能
 | act38sre | 揭幕者们·复刻 | - | - |
 | act39side | 出苍白海 | Exodus from the Pale Sea | 白き海の彼方へ |
 | act39sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
+| act39sre | 出苍白海·复刻 | - | - |
 | act3bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act3collection | 潮起潮又起 | Another Tides | 沸き返る潮騒 |
 | act3d0 | 火蓝之心 | Heart of Surging Flame | 青く燃ゆる心 |
@@ -3798,6 +3804,7 @@ Event | なないろのお茶会 |
 | act38side_token_ticket | 匿名邀请函 | Invito Mistico | 匿名招待状 |
 | act38side_token_ticket_rep_1 | 匿名邀请函 | - | - |
 | act39side_token_garum | 盐鳞咸鳞汁 | Saltfin Garum | 塩鱗ガルム |
+| act39side_token_garum_rep_1 | 盐鳞咸鳞汁 | - | - |
 | act3bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act3bossrush_relic_01 | 恢复增幅 | Recovery Boost | 癒しの増幅 |
 | act3bossrush_relic_02 | 扩大化战略 | Strategy Expansion | 拡大化戦略 |
@@ -4723,6 +4730,7 @@ Event | なないろのお茶会 |
 | uni_set_outdoor_2 | 海滨印象家具收藏包二 | Beachside Impressions Furniture Pack II | 海辺風家具パックvol.2 |
 | uni_set_penguin | 喧闹法则家具收藏包 | Code of Brawl Furniture Pack | 喧騒の掟家具パック |
 | uni_set_pizza | 骑兵与猎人家具收藏包 | Grani and the Knights' Treasure Furniture Pack | 騎兵と狩人家具パック |
+| uni_set_postOffice | 银心湖列车家具收藏包 | - | - |
 | uni_set_prison | 孤岛风云家具收藏包 | Mansfield Break Furniture Pack | 孤島激震家具パック |
 | uni_set_reception | 龙门风情茶室家具收藏包 | Lungmen Tearoom Furniture Collection Set | 龍門茶室家具パック |
 | uni_set_rhineLab | 绿野幻梦家具收藏包 | Dorothy's Vision Furniture Pack | 翠玉の夢家具パック |
@@ -4755,6 +4763,7 @@ Event | なないろのお茶会 |
 | voucher_full_glady | 歌蕾蒂娅的私人信件 | Gladiia's Personal Letter | グレイディーアの手紙 |
 | voucher_full_grani | 格拉尼的私人信件 | Grani's Personal Letter | グラニの手紙 |
 | voucher_full_halo | 星源的私人信件 | Astgenne's Personal Letter | アステジーニの手紙 |
+| voucher_full_harold | 哈洛德的私人信件 | - | - |
 | voucher_full_inside | 隐现的私人信件 | Insider's Personal Letter | インサイダーの手紙 |
 | voucher_full_kjera | 耶拉的私人信件 | Kjera's Personal Letter | イェラの手紙 |
 | voucher_full_kroos2 | 寒芒克洛丝的私人信件 | Kroos the Keen Glint's Personal Letter | 寒芒クルースの手紙 |
@@ -4960,6 +4969,7 @@ Event | なないろのお茶会 |
 | SINGLE_65_0_3 | 未致蒙尘 | - | - |
 | SINGLE_66_0_1 | 空白频段 | - | - |
 | SINGLE_68_0_1 | 现实之上六百米 | - | - |
+| SINGLE_68_0_3 | 证实，完成，指引 | - | - |
 | SPECIAL_54_0_5 | 定向甄选 | - | - |
 | SPECIAL_59_0_3 | 定向甄选 | - | - |
 | SPECIAL_61_0_3 | 定向甄选 | - | - |
@@ -6531,6 +6541,7 @@ Event | なないろのお茶会 |
 | sktok_stone | 阻挡路线 | Obstruct | 進路妨害 |
 | sktok_storm | 沙尘暴 | Sandstorm | 砂嵐 |
 | sktok_streasure | 宝刺伤人 | Dangerous Spike | 危険な棘 |
+| sktok_supctl_1 | 冷控处理 | - | - |
 | sktok_supplycard | 新遣 | Dispatch | 派遣 |
 | sktok_supspt | 天工夜行 | Master Who Walks the Night | 天工夜行 |
 | sktok_supspta | 天工夜行 | Master Who Walks the Night | 天工夜行 |
@@ -7958,6 +7969,12 @@ Event | なないろのお茶会 |
 | lt_19_04 | 冷鲜货柜 | - | - |
 | lt_19_05 | 滋滋烤架 | - | - |
 | lt_19_06 | 特别顾客 | - | - |
+| lt_20_01 | 运道抢险 | - | - |
+| lt_20_02 | 作业整备 | - | - |
+| lt_20_03 | 内部深入 | - | - |
+| lt_20_04 | 新穴聚居 | - | - |
+| lt_20_05 | 四方涌现 | - | - |
+| lt_20_06 | 幽邃尽头 | - | - |
 | lt_tr_01 | 7号训练场 | Training Ground #7 | 7号訓練場 |
 | lt_tr_02 | 9号训练场 | Training Ground #9 | 9号訓練場 |
 | lt_tr_03 | 10号训练场 | Training Ground #10 | 10号訓練場 |
@@ -8599,6 +8616,8 @@ Event | なないろのお茶会 |
 | act38sre_zone3 | 荒芜之舞 | - | - |
 | act39side_zone1 | 盐漠开航 | Across the Salt Flat | 塩海横断 |
 | act39side_zone2 | 穿越骸礁 | Through the Skeletal Reef | 骸礁突破 |
+| act39sre_zone1 | 盐漠开航 | - | - |
+| act39sre_zone2 | 穿越骸礁 | - | - |
 | act3bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act3mainss_zone1 | 反常光谱 | - | - |
 | act40side_zone1 | 识七味 | Flavor of Food | 識七味 |
@@ -8709,6 +8728,8 @@ Event | なないろのお茶会 |
 | permanent_sidestory_28_zone1 | 四幕汇演 | - | - |
 | permanent_sidestory_28_zone2 | 彩车游行 | - | - |
 | permanent_sidestory_28_zone3 | 荒芜之舞 | - | - |
+| permanent_sidestory_29_zone1 | 盐漠开航 | - | - |
+| permanent_sidestory_29_zone2 | 穿越骸礁 | - | - |
 | permanent_sidestory_2_zone1 | 主舞台 | Main Stage | メインステージ |
 | permanent_sidestory_2_zone2 | 嘉年华 | Carnival | フェスティバル |
 | permanent_sidestory_2_zone3 | 额外节目 | Extra Show | エクストラ |

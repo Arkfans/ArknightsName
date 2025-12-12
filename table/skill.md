@@ -1437,6 +1437,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_stone | 阻挡路线 | Obstruct | 進路妨害 |
 | sktok_storm | 沙尘暴 | Sandstorm | 砂嵐 |
 | sktok_streasure | 宝刺伤人 | Dangerous Spike | 危険な棘 |
+| sktok_supctl_1 | 冷控处理 | - | - |
 | sktok_supplycard | 新遣 | Dispatch | 派遣 |
 | sktok_supspt | 天工夜行 | Master Who Walks the Night | 天工夜行 |
 | sktok_supspta | 天工夜行 | Master Who Walks the Night | 天工夜行 |

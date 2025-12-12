@@ -1722,6 +1722,9 @@
     "ja_JP": "塩鱗ガルム",
     "zh_CN": "盐鳞咸鳞汁"
   },
+  "act39side_token_garum_rep_1": {
+    "zh_CN": "盐鳞咸鳞汁"
+  },
   "act3bossrush_milestone_point": {
     "en_US": "Trial EXP",
     "ja_JP": "試練経験値",
@@ -6174,6 +6177,9 @@
     "ja_JP": "騎兵と狩人家具パック",
     "zh_CN": "骑兵与猎人家具收藏包"
   },
+  "uni_set_postOffice": {
+    "zh_CN": "银心湖列车家具收藏包"
+  },
   "uni_set_prison": {
     "en_US": "Mansfield Break Furniture Pack",
     "ja_JP": "孤島激震家具パック",
@@ -6325,6 +6331,9 @@
     "en_US": "Astgenne's Personal Letter",
     "ja_JP": "アステジーニの手紙",
     "zh_CN": "星源的私人信件"
+  },
+  "voucher_full_harold": {
+    "zh_CN": "哈洛德的私人信件"
   },
   "voucher_full_inside": {
     "en_US": "Insider's Personal Letter",

@@ -956,6 +956,12 @@
     "ja_JP": "骸礁突破",
     "zh_CN": "穿越骸礁"
   },
+  "act39sre_zone1": {
+    "zh_CN": "盐漠开航"
+  },
+  "act39sre_zone2": {
+    "zh_CN": "穿越骸礁"
+  },
   "act3bossrush_zone1": {
     "en_US": "Threat Incoming",
     "ja_JP": "強敵襲来",
@@ -1469,6 +1475,12 @@
   },
   "permanent_sidestory_28_zone3": {
     "zh_CN": "荒芜之舞"
+  },
+  "permanent_sidestory_29_zone1": {
+    "zh_CN": "盐漠开航"
+  },
+  "permanent_sidestory_29_zone2": {
+    "zh_CN": "穿越骸礁"
   },
   "permanent_sidestory_2_zone1": {
     "en_US": "Main Stage",

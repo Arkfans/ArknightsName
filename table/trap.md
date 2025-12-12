@@ -613,3 +613,6 @@ tip: 请善用浏览器的搜索功能
 | trap_784_tnkspka | 微型尖刺配件 | - | - |
 | trap_785_tnkspkb | 维生监测配件 | - | - |
 | trap_786_fxdtwr | “绝对助手” | - | - |
+| trap_787_supctl | 冷爆机 | - | - |
+| trap_788_supctla | 低温传导模块 | - | - |
+| trap_789_supctlb | 冰浪脉冲模块 | - | - |

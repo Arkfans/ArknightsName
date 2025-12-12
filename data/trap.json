@@ -2764,5 +2764,14 @@
   },
   "trap_786_fxdtwr": {
     "zh_CN": "“绝对助手”"
+  },
+  "trap_787_supctl": {
+    "zh_CN": "冷爆机"
+  },
+  "trap_788_supctla": {
+    "zh_CN": "低温传导模块"
+  },
+  "trap_789_supctlb": {
+    "zh_CN": "冰浪脉冲模块"
   }
 }
