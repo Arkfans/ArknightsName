@@ -1045,6 +1045,10 @@ tip: 请善用浏览器的搜索功能
 | act5d0_st01 | 晚风轻拂 | Evening Breeze's Kiss | 風吹く夜 |
 | act5d0_st02 | 午夜龙门 | Midnight in Lungmen | 龍門深夜 |
 | act5d0_st03 | 破晓时分 | Crack of Dawn | 黎明の刻 |
+| act6bossrush_01 | 睥睨夜幕 | - | - |
+| act6bossrush_02 | 深度产业 | - | - |
+| act6bossrush_03 | 荒沙剑影 | - | - |
+| act6bossrush_04 | 凋零奏鸣 | - | - |
 | act6d5_01 | 喜从天降 | Sent From Above | 天の恵み |
 | act6d5_02 | 福禄临门 | Deities Overlooking the Doorway | 福来たる |
 | act6d5_03 | 新年扫除 | Spring Cleaning | 大掃除 |

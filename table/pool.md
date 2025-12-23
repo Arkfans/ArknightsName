@@ -12,6 +12,7 @@ tip: 请善用浏览器的搜索功能
 | ATTAIN_34_0_3 | 跨年欢庆·相逢 | - | - |
 | ATTAIN_45_0_5 | 跨年欢庆·展望 | - | - |
 | ATTAIN_57_0_4 | 跨年欢庆·愿景 | - | - |
+| ATTAIN_68_0_4 | 跨年欢庆·希冀 | - | - |
 | COMMON | 适合多种场合的强力干员 | Rare Operators useful in all kinds of stages | スカウト最初の10回以内に★5以上確定！ |
 | LIMITED_14_0_1 | 勿忘我 | - | - |
 | LIMITED_16_0_1 | 地生五金 | - | - |
@@ -140,6 +141,7 @@ tip: 请善用浏览器的搜索功能
 | _CLASSIC_34_0_2 | - |  Celebration - Kernel | ロドスの道のり・中堅 |
 | _CLASSIC_45_0_2 | 跨年欢庆·中坚 | - | - |
 | _CLASSIC_57_0_2 | 跨年欢庆·中坚 | - | - |
+| _CLASSIC_68_0_2 | 跨年欢庆·中坚 | - | - |
 | _LIMITED_10_2_1 | - | Deep Drown Lament | 深悼 |
 | _LIMITED_12_1_1 | - | Holiday Stars | ホリデースター |
 | _LIMITED_14_1_1 | - | Path of the Radiant | 光耀の騎士道 |

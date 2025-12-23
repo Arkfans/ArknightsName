@@ -1119,6 +1119,7 @@ tip: 请善用浏览器的搜索功能
 | char_017_huang@as#1 | 爆裂菲林 | Burst Feline | 爆裂フェリーン |
 | char_017_huang@witch#5 | 易爆蓝焰 | Explosive Blue Flame | 爆ぜる蒼炎 |
 | char_1001_amiya2@casc#1 | 触及星辰 | - | - |
+| char_1001_amiya2@sale#16 | 于万千宇宙之中 | - | - |
 | char_1011_lava2@nian#6 | 暮影藤萝 | Dusk Wisteria | 紫藤麗姿 |
 | char_1011_lava2@whirlwind#9 | 镇邪焱 | - | - |
 | char_1012_skadi2@boc#4 | 升华 | Sublimation | 昇華 |
@@ -1398,11 +1399,13 @@ tip: 请善用浏览器的搜索功能
 | char_377_gdglow@summer#12 | 夏卉 FA394 | Summer Flowers FA394 | 夏の花弁FA394 |
 | char_378_asbest@whirlwind#3 | 幽谷奏鸣 | Glen Sonata | グレンソナタ |
 | char_379_sesa@game#5 | 万物有灵 | To Evoke the Anima | 万物に魂有り |
+| char_381_bubble@marthe#11 | 迎风之轮 | - | - |
 | char_383_snsant@witch#2 | 天命勇者 | Fated Hero | 宿命の勇者 |
 | char_385_finlpp@nian#11 | 贺新禧 | Yearly Present | 祝福至 |
 | char_388_mint@epoque#22 | 月宵 | Tsukiyoi | 月宵 |
 | char_388_mint@epoque#30 | 私人书房 | Private Study | 本と過ごすひと時 |
 | char_391_rosmon@epoque#17 | 拥抱新生 | Become Anew | 始まりを抱く |
+| char_391_rosmon@sale#16 | 轻盈一梦 | - | - |
 | char_4000_jnight@boc#7 | 竞技之梦改装 | Tournament Fantasy Retrofit Kit | 改装「競技の夢」 |
 | char_4004_pudd@snow#5 | 火树灵 | Gleaming Fey | 煌めく精霊 |
 | char_4006_melnte@epoque#33 | 赴宴 | For the Banquet | 宴会に赴く |
@@ -1479,6 +1482,7 @@ tip: 请善用浏览器的搜索功能
 | char_4119_wanqin@epoque#41 | 万顷阳光 | Tons of Sunshine | 万頃に注ぐ陽光 |
 | char_411_tomimi@summer#5 | 静谧午夜 DN04 | Silent Night DN04 | 安息の午夜DN04 |
 | char_4121_zuole@nian#11 | 少年游 | Youthful Journey | 少年游 |
+| char_4121_zuole@sale#16 | 无息破局 | - | - |
 | char_4122_grabds@yun#3 | 步芳兰 | Fragrant Pace | 歩芳蘭 |
 | char_4123_ela@rainbow6#2 | 密室 | Safehouse | セーフハウス |
 | char_4124_iana@rainbow6#2 | 镜廊 | Mirrormaze | ミラーメイズ |
@@ -3364,6 +3368,7 @@ Event | なないろのお茶会 |
 | act54sign | 感谢庆典前瞻签到 | - | - |
 | act55sign | 感谢庆典累计签到 | - | - |
 | act56sign | 感谢庆典累计签到 | - | - |
+| act57sign | 跨年纪念签到活动 | - | - |
 | act5bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act5collection | 御鼓吉音限时任务 | - | - |
 | act5d0 | 喧闹法则 | Code of Brawl | 喧騒の掟 |
@@ -3373,6 +3378,7 @@ Event | なないろのお茶会 |
 | act5pray | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |
 | act5sre | 沃伦姆德的薄暮·复刻 | Twilight of Wolumonde - Rerun | ウォルモンドの薄暮・復刻 |
 | act5switch | 温情时光合作活动 | - | - |
+| act6bossrush | 引航者试炼 | - | - |
 | act6collection | 梦城堡模拟训练 | - | - |
 | act6d0 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act6d5 | 洪炉示岁 | Ancient Forge | 洪炉示歳 |
@@ -3388,6 +3394,7 @@ Event | なないろのお茶会 |
 | act7mini | 灯火序曲 | Preluding Lights | 灯火序曲 |
 | act7pray | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |
 | act7sre | 玛莉娅·临光·复刻 | Maria Nearl - Rerun | マリア·ニアール・復刻 |
+| act7switch | 星语共愿 | - | - |
 | act8d2 | 愚人节活动 | - | - |
 | act8login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
 | act8mini | 如我所见 | Vigilo | 我が眼に映るまま |
@@ -3470,6 +3477,9 @@ Event | なないろのお茶会 |
 | 2025recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 5.5周年特別スカウト券α |
 | 2025recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 5.5周年特別スカウト券β |
 | 2025recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 5.5周年特別スカウト券γ |
+| 2026recruitment10_1 | α类新年寻访凭证 | - | - |
+| 2026recruitment10_2 | β类新年寻访凭证 | - | - |
+| 2026recruitment10_3 | γ类新年寻访凭证 | - | - |
 | 30011 | 源岩 | Orirock | 源岩鉱 |
 | 30012 | 固源岩 | Orirock Cube | 初級源岩 |
 | 30013 | 固源岩组 | Orirock Cluster | 中級源岩 |
@@ -3846,6 +3856,12 @@ Event | なないろのお茶会 |
 | act5d0_point_medal_rep_1 | 终极企鹅勋章 | Top Tier Penguin Medal | ウルトラPG勲章 |
 | act5d1_point_conbounty | 合约赏金 | Contract Bounty | 契約賞金 |
 | act5d1_point_opagrt | 行动协议 | Operation Agreement | 協約の証 |
+| act6bossrush_milestone_point | 试炼经验 | - | - |
+| act6bossrush_relic_01 | 监护内核 | - | - |
+| act6bossrush_relic_02 | 精密聚焦 | - | - |
+| act6bossrush_relic_03 | 急速充能 | - | - |
+| act6bossrush_relic_04 | 粒子追踪 | - | - |
+| act6bossrush_token_relic | 数据黑盒 | - | - |
 | act6collection_point_token | 特殊兑换点数 | - | - |
 | act6d5_point_firecracker | 量子二踢脚 | Quantum Firecracker | 量子爆竹 |
 | act6d8_point_token | 元宵通宝 | Lantern Festival Treasure | 元宵通宝 |
@@ -3915,6 +3931,8 @@ Event | なないろのお茶会 |
 | ap_supply_lt_120_2025_5 | “洒金韵” | - | - |
 | ap_supply_lt_120_2025_6 | “临秋意” | - | - |
 | ap_supply_lt_120_2025_7 | 海底捞面 | - | - |
+| ap_supply_lt_120_2025_8 | 阿米娅的生日蛋糕 | - | - |
+| ap_supply_lt_120_2026_1 | 1102生日糕点 | - | - |
 | ap_supply_lt_60 | 应急理智合剂 | Emergency Sanity Potion | 初級理性回復剤 |
 | ap_supply_lt_80 | 应急理智加强剂 | Emergency Sanity Booster | 初級理性回復剤+ |
 | ap_supply_lt_80_2025_1 | 清爽运动饮料 | - | - |
@@ -4602,6 +4620,7 @@ Event | なないろのお茶会 |
 | randomMaterial_act38side | 狂欢烟花桶 | Carnival Canister | 狂宴花火セット |
 | randomMaterial_act42side | 铳械工坊赠品盒 | Firearms Workshop Giftbox | 銃工房からの贈呈品 |
 | randomMaterial_act46side | 应急救援包 | - | - |
+| randomMaterial_amiya | 兔兔礼品盒 | - | - |
 | randomMaterial_leith2 | 查访补给 | Investigation Resupply | 調査補給 |
 | randomMaterial_message1 | 一号项目决定版 | - | - |
 | randomMaterial_rhine2 | 技术调查补给 | Technological Investigation Supply | 技術調査補給 |
@@ -4705,6 +4724,7 @@ Event | なないろのお茶会 |
 | uni_set_abyssal | 覆潮之下家具收藏包 | Under Tides Furniture Pack | 潮汐の下家具パック |
 | uni_set_act10d5 | 乌萨斯的孩子们家具收藏包 | Children of Ursus Furniture Pack | ウルサスの子供たち家具パック |
 | uni_set_act7d5 | 午间逸话家具收藏包 | Stories of Afternoon Furniture Pack | 午後の逸話家具パック |
+| uni_set_amiya | 阿米娅的寰宇记忆 | - | - |
 | uni_set_beerhouse | 生于黑夜家具收藏包 | Darknights Memoir Furniture Pack | 闇夜に生きる家具パック |
 | uni_set_bolivar | 密林悍将归来家具收藏包 | The Great Chief Returns Furniture Pack | 帰還！密林の長家具パック |
 | uni_set_castle_1 | 古堡印象家具收藏包一 | Castlesque Furniture Pack I | 古城風家具パックvol.1 |
@@ -4855,6 +4875,7 @@ Event | なないろのお茶会 |
 | ATTAIN_34_0_3 | 跨年欢庆·相逢 | - | - |
 | ATTAIN_45_0_5 | 跨年欢庆·展望 | - | - |
 | ATTAIN_57_0_4 | 跨年欢庆·愿景 | - | - |
+| ATTAIN_68_0_4 | 跨年欢庆·希冀 | - | - |
 | COMMON | 适合多种场合的强力干员 | Rare Operators useful in all kinds of stages | スカウト最初の10回以内に★5以上確定！ |
 | LIMITED_14_0_1 | 勿忘我 | - | - |
 | LIMITED_16_0_1 | 地生五金 | - | - |
@@ -4983,6 +5004,7 @@ Event | なないろのお茶会 |
 | _CLASSIC_34_0_2 | - |  Celebration - Kernel | ロドスの道のり・中堅 |
 | _CLASSIC_45_0_2 | 跨年欢庆·中坚 | - | - |
 | _CLASSIC_57_0_2 | 跨年欢庆·中坚 | - | - |
+| _CLASSIC_68_0_2 | 跨年欢庆·中坚 | - | - |
 | _LIMITED_10_2_1 | - | Deep Drown Lament | 深悼 |
 | _LIMITED_12_1_1 | - | Holiday Stars | ホリデースター |
 | _LIMITED_14_1_1 | - | Path of the Radiant | 光耀の騎士道 |
@@ -7723,6 +7745,10 @@ Event | なないろのお茶会 |
 | act5d0_st01 | 晚风轻拂 | Evening Breeze's Kiss | 風吹く夜 |
 | act5d0_st02 | 午夜龙门 | Midnight in Lungmen | 龍門深夜 |
 | act5d0_st03 | 破晓时分 | Crack of Dawn | 黎明の刻 |
+| act6bossrush_01 | 睥睨夜幕 | - | - |
+| act6bossrush_02 | 深度产业 | - | - |
+| act6bossrush_03 | 荒沙剑影 | - | - |
+| act6bossrush_04 | 凋零奏鸣 | - | - |
 | act6d5_01 | 喜从天降 | Sent From Above | 天の恵み |
 | act6d5_02 | 福禄临门 | Deities Overlooking the Doorway | 福来たる |
 | act6d5_03 | 新年扫除 | Spring Cleaning | 大掃除 |
@@ -8647,6 +8673,7 @@ Event | なないろのお茶会 |
 | act5sre_zone1 | 议事高塔 | Capitol Spire | 大議事塔 |
 | act5sre_zone2 | 沉寂边陲 | Silent Frontier | 沈黙の辺陬 |
 | act5sre_zone3 | 冬灵栈道 | Winterwisp Way | 峻嶺の桟道 |
+| act6bossrush_zone1 | 强敌当前 | - | - |
 | act6sre_zone1 | 大酋长之路 | Great Chief's Path | 大族長への道 |
 | act6sre_zone2 | 嘉维尔足迹 | Gavial's Footprints | ガヴィルの軌跡 |
 | act7mini_zone1 | 路线安排 | Route Arrangement | 路線計画 |

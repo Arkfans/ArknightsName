@@ -47,6 +47,9 @@
   "char_1001_amiya2@casc#1": {
     "zh_CN": "触及星辰"
   },
+  "char_1001_amiya2@sale#16": {
+    "zh_CN": "于万千宇宙之中"
+  },
   "char_1011_lava2@nian#6": {
     "en_US": "Dusk Wisteria",
     "ja_JP": "紫藤麗姿",
@@ -1400,6 +1403,9 @@
     "ja_JP": "万物に魂有り",
     "zh_CN": "万物有灵"
   },
+  "char_381_bubble@marthe#11": {
+    "zh_CN": "迎风之轮"
+  },
   "char_383_snsant@witch#2": {
     "en_US": "Fated Hero",
     "ja_JP": "宿命の勇者",
@@ -1424,6 +1430,9 @@
     "en_US": "Become Anew",
     "ja_JP": "始まりを抱く",
     "zh_CN": "拥抱新生"
+  },
+  "char_391_rosmon@sale#16": {
+    "zh_CN": "轻盈一梦"
   },
   "char_4000_jnight@boc#7": {
     "en_US": "Tournament Fantasy Retrofit Kit",
@@ -1792,6 +1801,9 @@
     "en_US": "Youthful Journey",
     "ja_JP": "少年游",
     "zh_CN": "少年游"
+  },
+  "char_4121_zuole@sale#16": {
+    "zh_CN": "无息破局"
   },
   "char_4122_grabds@yun#3": {
     "en_US": "Fragrant Pace",

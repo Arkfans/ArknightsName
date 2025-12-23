@@ -231,6 +231,7 @@ tip: 请善用浏览器的搜索功能
 | act5sre_zone1 | 议事高塔 | Capitol Spire | 大議事塔 |
 | act5sre_zone2 | 沉寂边陲 | Silent Frontier | 沈黙の辺陬 |
 | act5sre_zone3 | 冬灵栈道 | Winterwisp Way | 峻嶺の桟道 |
+| act6bossrush_zone1 | 强敌当前 | - | - |
 | act6sre_zone1 | 大酋长之路 | Great Chief's Path | 大族長への道 |
 | act6sre_zone2 | 嘉维尔足迹 | Gavial's Footprints | ガヴィルの軌跡 |
 | act7mini_zone1 | 路线安排 | Route Arrangement | 路線計画 |

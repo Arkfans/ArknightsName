@@ -28,6 +28,9 @@ tip: 请善用浏览器的搜索功能
 | 2025recruitment10_1 | α类新年寻访凭证 | Type-α Headhunting Permit | 5.5周年特別スカウト券α |
 | 2025recruitment10_2 | β类新年寻访凭证 | Type-β Headhunting Permit | 5.5周年特別スカウト券β |
 | 2025recruitment10_3 | γ类新年寻访凭证 | Type-γ Headhunting Permit | 5.5周年特別スカウト券γ |
+| 2026recruitment10_1 | α类新年寻访凭证 | - | - |
+| 2026recruitment10_2 | β类新年寻访凭证 | - | - |
+| 2026recruitment10_3 | γ类新年寻访凭证 | - | - |
 | 30011 | 源岩 | Orirock | 源岩鉱 |
 | 30012 | 固源岩 | Orirock Cube | 初級源岩 |
 | 30013 | 固源岩组 | Orirock Cluster | 中級源岩 |
@@ -404,6 +407,12 @@ tip: 请善用浏览器的搜索功能
 | act5d0_point_medal_rep_1 | 终极企鹅勋章 | Top Tier Penguin Medal | ウルトラPG勲章 |
 | act5d1_point_conbounty | 合约赏金 | Contract Bounty | 契約賞金 |
 | act5d1_point_opagrt | 行动协议 | Operation Agreement | 協約の証 |
+| act6bossrush_milestone_point | 试炼经验 | - | - |
+| act6bossrush_relic_01 | 监护内核 | - | - |
+| act6bossrush_relic_02 | 精密聚焦 | - | - |
+| act6bossrush_relic_03 | 急速充能 | - | - |
+| act6bossrush_relic_04 | 粒子追踪 | - | - |
+| act6bossrush_token_relic | 数据黑盒 | - | - |
 | act6collection_point_token | 特殊兑换点数 | - | - |
 | act6d5_point_firecracker | 量子二踢脚 | Quantum Firecracker | 量子爆竹 |
 | act6d8_point_token | 元宵通宝 | Lantern Festival Treasure | 元宵通宝 |
@@ -473,6 +482,8 @@ tip: 请善用浏览器的搜索功能
 | ap_supply_lt_120_2025_5 | “洒金韵” | - | - |
 | ap_supply_lt_120_2025_6 | “临秋意” | - | - |
 | ap_supply_lt_120_2025_7 | 海底捞面 | - | - |
+| ap_supply_lt_120_2025_8 | 阿米娅的生日蛋糕 | - | - |
+| ap_supply_lt_120_2026_1 | 1102生日糕点 | - | - |
 | ap_supply_lt_60 | 应急理智合剂 | Emergency Sanity Potion | 初級理性回復剤 |
 | ap_supply_lt_80 | 应急理智加强剂 | Emergency Sanity Booster | 初級理性回復剤+ |
 | ap_supply_lt_80_2025_1 | 清爽运动饮料 | - | - |
@@ -1160,6 +1171,7 @@ tip: 请善用浏览器的搜索功能
 | randomMaterial_act38side | 狂欢烟花桶 | Carnival Canister | 狂宴花火セット |
 | randomMaterial_act42side | 铳械工坊赠品盒 | Firearms Workshop Giftbox | 銃工房からの贈呈品 |
 | randomMaterial_act46side | 应急救援包 | - | - |
+| randomMaterial_amiya | 兔兔礼品盒 | - | - |
 | randomMaterial_leith2 | 查访补给 | Investigation Resupply | 調査補給 |
 | randomMaterial_message1 | 一号项目决定版 | - | - |
 | randomMaterial_rhine2 | 技术调查补给 | Technological Investigation Supply | 技術調査補給 |
@@ -1263,6 +1275,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_abyssal | 覆潮之下家具收藏包 | Under Tides Furniture Pack | 潮汐の下家具パック |
 | uni_set_act10d5 | 乌萨斯的孩子们家具收藏包 | Children of Ursus Furniture Pack | ウルサスの子供たち家具パック |
 | uni_set_act7d5 | 午间逸话家具收藏包 | Stories of Afternoon Furniture Pack | 午後の逸話家具パック |
+| uni_set_amiya | 阿米娅的寰宇记忆 | - | - |
 | uni_set_beerhouse | 生于黑夜家具收藏包 | Darknights Memoir Furniture Pack | 闇夜に生きる家具パック |
 | uni_set_bolivar | 密林悍将归来家具收藏包 | The Great Chief Returns Furniture Pack | 帰還！密林の長家具パック |
 | uni_set_castle_1 | 古堡印象家具收藏包一 | Castlesque Furniture Pack I | 古城風家具パックvol.1 |

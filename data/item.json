@@ -114,6 +114,15 @@
     "ja_JP": "5.5周年特別スカウト券γ",
     "zh_CN": "γ类新年寻访凭证"
   },
+  "2026recruitment10_1": {
+    "zh_CN": "α类新年寻访凭证"
+  },
+  "2026recruitment10_2": {
+    "zh_CN": "β类新年寻访凭证"
+  },
+  "2026recruitment10_3": {
+    "zh_CN": "γ类新年寻访凭证"
+  },
   "30011": {
     "en_US": "Orirock",
     "ja_JP": "源岩鉱",
@@ -1903,6 +1912,24 @@
     "ja_JP": "協約の証",
     "zh_CN": "行动协议"
   },
+  "act6bossrush_milestone_point": {
+    "zh_CN": "试炼经验"
+  },
+  "act6bossrush_relic_01": {
+    "zh_CN": "监护内核"
+  },
+  "act6bossrush_relic_02": {
+    "zh_CN": "精密聚焦"
+  },
+  "act6bossrush_relic_03": {
+    "zh_CN": "急速充能"
+  },
+  "act6bossrush_relic_04": {
+    "zh_CN": "粒子追踪"
+  },
+  "act6bossrush_token_relic": {
+    "zh_CN": "数据黑盒"
+  },
   "act6collection_point_token": {
     "zh_CN": "特殊兑换点数"
   },
@@ -2229,6 +2256,12 @@
   },
   "ap_supply_lt_120_2025_7": {
     "zh_CN": "海底捞面"
+  },
+  "ap_supply_lt_120_2025_8": {
+    "zh_CN": "阿米娅的生日蛋糕"
+  },
+  "ap_supply_lt_120_2026_1": {
+    "zh_CN": "1102生日糕点"
   },
   "ap_supply_lt_60": {
     "en_US": "Emergency Sanity Potion",
@@ -5559,6 +5592,9 @@
   "randomMaterial_act46side": {
     "zh_CN": "应急救援包"
   },
+  "randomMaterial_amiya": {
+    "zh_CN": "兔兔礼品盒"
+  },
   "randomMaterial_leith2": {
     "en_US": "Investigation Resupply",
     "ja_JP": "調査補給",
@@ -6059,6 +6095,9 @@
     "en_US": "Stories of Afternoon Furniture Pack",
     "ja_JP": "午後の逸話家具パック",
     "zh_CN": "午间逸话家具收藏包"
+  },
+  "uni_set_amiya": {
+    "zh_CN": "阿米娅的寰宇记忆"
   },
   "uni_set_beerhouse": {
     "en_US": "Darknights Memoir Furniture Pack",

@@ -1101,6 +1101,9 @@
   "act56sign": {
     "zh_CN": "感谢庆典累计签到"
   },
+  "act57sign": {
+    "zh_CN": "跨年纪念签到活动"
+  },
   "act5bossrush": {
     "en_US": "Trials for Navigator",
     "ja_JP": "導灯の試練",
@@ -1141,6 +1144,9 @@
   },
   "act5switch": {
     "zh_CN": "温情时光合作活动"
+  },
+  "act6bossrush": {
+    "zh_CN": "引航者试炼"
   },
   "act6collection": {
     "zh_CN": "梦城堡模拟训练"
@@ -1212,6 +1218,9 @@
     "en_US": "Maria Nearl - Rerun",
     "ja_JP": "マリア·ニアール・復刻",
     "zh_CN": "玛莉娅·临光·复刻"
+  },
+  "act7switch": {
+    "zh_CN": "星语共愿"
   },
   "act8d2": {
     "zh_CN": "愚人节活动"

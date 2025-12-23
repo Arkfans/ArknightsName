@@ -15,6 +15,7 @@ tip: 请善用浏览器的搜索功能
 | char_017_huang@as#1 | 爆裂菲林 | Burst Feline | 爆裂フェリーン |
 | char_017_huang@witch#5 | 易爆蓝焰 | Explosive Blue Flame | 爆ぜる蒼炎 |
 | char_1001_amiya2@casc#1 | 触及星辰 | - | - |
+| char_1001_amiya2@sale#16 | 于万千宇宙之中 | - | - |
 | char_1011_lava2@nian#6 | 暮影藤萝 | Dusk Wisteria | 紫藤麗姿 |
 | char_1011_lava2@whirlwind#9 | 镇邪焱 | - | - |
 | char_1012_skadi2@boc#4 | 升华 | Sublimation | 昇華 |
@@ -294,11 +295,13 @@ tip: 请善用浏览器的搜索功能
 | char_377_gdglow@summer#12 | 夏卉 FA394 | Summer Flowers FA394 | 夏の花弁FA394 |
 | char_378_asbest@whirlwind#3 | 幽谷奏鸣 | Glen Sonata | グレンソナタ |
 | char_379_sesa@game#5 | 万物有灵 | To Evoke the Anima | 万物に魂有り |
+| char_381_bubble@marthe#11 | 迎风之轮 | - | - |
 | char_383_snsant@witch#2 | 天命勇者 | Fated Hero | 宿命の勇者 |
 | char_385_finlpp@nian#11 | 贺新禧 | Yearly Present | 祝福至 |
 | char_388_mint@epoque#22 | 月宵 | Tsukiyoi | 月宵 |
 | char_388_mint@epoque#30 | 私人书房 | Private Study | 本と過ごすひと時 |
 | char_391_rosmon@epoque#17 | 拥抱新生 | Become Anew | 始まりを抱く |
+| char_391_rosmon@sale#16 | 轻盈一梦 | - | - |
 | char_4000_jnight@boc#7 | 竞技之梦改装 | Tournament Fantasy Retrofit Kit | 改装「競技の夢」 |
 | char_4004_pudd@snow#5 | 火树灵 | Gleaming Fey | 煌めく精霊 |
 | char_4006_melnte@epoque#33 | 赴宴 | For the Banquet | 宴会に赴く |
@@ -375,6 +378,7 @@ tip: 请善用浏览器的搜索功能
 | char_4119_wanqin@epoque#41 | 万顷阳光 | Tons of Sunshine | 万頃に注ぐ陽光 |
 | char_411_tomimi@summer#5 | 静谧午夜 DN04 | Silent Night DN04 | 安息の午夜DN04 |
 | char_4121_zuole@nian#11 | 少年游 | Youthful Journey | 少年游 |
+| char_4121_zuole@sale#16 | 无息破局 | - | - |
 | char_4122_grabds@yun#3 | 步芳兰 | Fragrant Pace | 歩芳蘭 |
 | char_4123_ela@rainbow6#2 | 密室 | Safehouse | セーフハウス |
 | char_4124_iana@rainbow6#2 | 镜廊 | Mirrormaze | ミラーメイズ |

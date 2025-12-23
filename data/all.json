@@ -8545,6 +8545,12 @@
       "zh_CN": "触及星辰"
     }
   },
+  "char_1001_amiya2@sale#16": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "于万千宇宙之中"
+    }
+  },
   "char_1011_lava2@nian#6": {
     "type": "SKIN",
     "names": {
@@ -10735,6 +10741,12 @@
       "zh_CN": "万物有灵"
     }
   },
+  "char_381_bubble@marthe#11": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "迎风之轮"
+    }
+  },
   "char_383_snsant@witch#2": {
     "type": "SKIN",
     "names": {
@@ -10773,6 +10785,12 @@
       "en_US": "Become Anew",
       "ja_JP": "始まりを抱く",
       "zh_CN": "拥抱新生"
+    }
+  },
+  "char_391_rosmon@sale#16": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "轻盈一梦"
     }
   },
   "char_4000_jnight@boc#7": {
@@ -11369,6 +11387,12 @@
       "en_US": "Youthful Journey",
       "ja_JP": "少年游",
       "zh_CN": "少年游"
+    }
+  },
+  "char_4121_zuole@sale#16": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "无息破局"
     }
   },
   "char_4122_grabds@yun#3": {
@@ -25916,6 +25940,12 @@
       "zh_CN": "感谢庆典累计签到"
     }
   },
+  "act57sign": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "跨年纪念签到活动"
+    }
+  },
   "act5bossrush": {
     "type": "ACTIVITY",
     "names": {
@@ -25982,6 +26012,12 @@
     "type": "ACTIVITY",
     "names": {
       "zh_CN": "温情时光合作活动"
+    }
+  },
+  "act6bossrush": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "引航者试炼"
     }
   },
   "act6collection": {
@@ -26098,6 +26134,12 @@
       "en_US": "Maria Nearl - Rerun",
       "ja_JP": "マリア·ニアール・復刻",
       "zh_CN": "玛莉娅·临光·复刻"
+    }
+  },
+  "act7switch": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "星语共愿"
     }
   },
   "act8d2": {
@@ -26733,6 +26775,24 @@
     "names": {
       "en_US": "Type-γ Headhunting Permit",
       "ja_JP": "5.5周年特別スカウト券γ",
+      "zh_CN": "γ类新年寻访凭证"
+    }
+  },
+  "2026recruitment10_1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "α类新年寻访凭证"
+    }
+  },
+  "2026recruitment10_2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "β类新年寻访凭证"
+    }
+  },
+  "2026recruitment10_3": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "γ类新年寻访凭证"
     }
   },
@@ -29647,6 +29707,42 @@
       "zh_CN": "行动协议"
     }
   },
+  "act6bossrush_milestone_point": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "试炼经验"
+    }
+  },
+  "act6bossrush_relic_01": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "监护内核"
+    }
+  },
+  "act6bossrush_relic_02": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "精密聚焦"
+    }
+  },
+  "act6bossrush_relic_03": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "急速充能"
+    }
+  },
+  "act6bossrush_relic_04": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "粒子追踪"
+    }
+  },
+  "act6bossrush_token_relic": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "数据黑盒"
+    }
+  },
   "act6collection_point_token": {
     "type": "ITEM",
     "names": {
@@ -30179,6 +30275,18 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "海底捞面"
+    }
+  },
+  "ap_supply_lt_120_2025_8": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "阿米娅的生日蛋糕"
+    }
+  },
+  "ap_supply_lt_120_2026_1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "1102生日糕点"
     }
   },
   "ap_supply_lt_60": {
@@ -35571,6 +35679,12 @@
       "zh_CN": "应急救援包"
     }
   },
+  "randomMaterial_amiya": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "兔兔礼品盒"
+    }
+  },
   "randomMaterial_leith2": {
     "type": "ITEM",
     "names": {
@@ -36379,6 +36493,12 @@
       "en_US": "Stories of Afternoon Furniture Pack",
       "ja_JP": "午後の逸話家具パック",
       "zh_CN": "午间逸话家具收藏包"
+    }
+  },
+  "uni_set_amiya": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "阿米娅的寰宇记忆"
     }
   },
   "uni_set_beerhouse": {
@@ -37543,6 +37663,12 @@
       "zh_CN": "跨年欢庆·愿景"
     }
   },
+  "ATTAIN_68_0_4": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "跨年欢庆·希冀"
+    }
+  },
   "COMMON": {
     "type": "POOL",
     "names": {
@@ -38314,6 +38440,12 @@
     }
   },
   "_CLASSIC_57_0_2": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "跨年欢庆·中坚"
+    }
+  },
+  "_CLASSIC_68_0_2": {
     "type": "POOL",
     "names": {
       "zh_CN": "跨年欢庆·中坚"
@@ -59416,6 +59548,30 @@
       "zh_CN": "破晓时分"
     }
   },
+  "act6bossrush_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "睥睨夜幕"
+    }
+  },
+  "act6bossrush_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "深度产业"
+    }
+  },
+  "act6bossrush_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "荒沙剑影"
+    }
+  },
+  "act6bossrush_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "凋零奏鸣"
+    }
+  },
   "act6d5_01": {
     "type": "STAGE",
     "names": {
@@ -66648,6 +66804,12 @@
       "en_US": "Winterwisp Way",
       "ja_JP": "峻嶺の桟道",
       "zh_CN": "冬灵栈道"
+    }
+  },
+  "act6bossrush_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "强敌当前"
     }
   },
   "act6sre_zone1": {
