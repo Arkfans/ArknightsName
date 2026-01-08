@@ -19,6 +19,7 @@ tip: 请善用浏览器的搜索功能
 | char_101_sora | 空 | Sora | ソラ |
 | char_1020_reed2 | 焰影苇草 | Reed the Flame Shadow | 焔影リード |
 | char_1021_kroos2 | 寒芒克洛丝 | Kroos the Keen Glint | 寒芒クルース |
+| char_1022_flwr2 | 撷英调香师 | - | - |
 | char_1023_ghost2 | 归溟幽灵鲨 | Specter the Unchained | 帰溟スペクター |
 | char_1024_hbisc2 | 濯尘芙蓉 | Hibiscus the Purifier | 濯塵ハイビスカス |
 | char_1026_gvial2 | 百炼嘉维尔 | Gavial the Invincible | 百錬ガヴィル |
@@ -256,6 +257,7 @@ tip: 请善用浏览器的搜索功能
 | char_4052_surfer | 寻澜 | Surfer | サーファー |
 | char_4054_malist | 至简 | Minimalist | ミニマリスト |
 | char_4055_bgsnow | 鸿雪 | Pozëmka | パゼオンカ |
+| char_4056_titi | 缇缇 | - | - |
 | char_4058_pepe | 佩佩 | Pepe | ペペ |
 | char_405_absin | 苦艾 | Absinthe | アブサント |
 | char_4062_totter | 铅踝 | Totter | トター |
@@ -322,6 +324,7 @@ tip: 请善用浏览器的搜索功能
 | char_4163_rosesa | 瑰盐 | Rose Salt | ローズソルト |
 | char_4164_tecno | 特克诺 | Tecno | テクノ |
 | char_4165_ctrail | 云迹 | Contrail | コントレイル |
+| char_4166_varkis | 摆渡人 | - | - |
 | char_416_zumama | 森蚺 | Eunectes | ユーネクテス |
 | char_4171_wulfen | 钼铅 | Wulfenite | ウルフェナイト |
 | char_4172_xingzh | 行箸 | Xingzhu | シィンズゥ |

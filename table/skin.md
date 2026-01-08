@@ -54,6 +54,7 @@ tip: 请善用浏览器的搜索功能
 | char_103_angel@kfc#1 | 城市骑手 | City Rider | シティライダー |
 | char_103_angel@sale#8 | 午夜邮差 | Midnight Delivery | 真夜中の配達人 |
 | char_103_angel@wild#1 | 野地秘行 | Wild Operation | 荒野潜行 |
+| char_1040_blaze2@winter#5 | 夜归人 | - | - |
 | char_106_franka@ncg#1 | 林虹之间 | Rainforest, Me, Rainbow | 深緑にかかる虹 |
 | char_107_liskam@nian#2 | 春竜 | Spring Vouivre | 春竜 |
 | char_107_liskam@striker#1 | 超载 | Overload | オーバーロード |
@@ -309,6 +310,7 @@ tip: 请善用浏览器的搜索功能
 | char_4009_irene@game#3 | 至高判决 | The Adjudicatrix and Her Resolve | 至高の判決 |
 | char_400_weedy@sightseer#1 | 倾听 | Sedjem | 耳を傾けて |
 | char_400_weedy@snow#2 | 糖果仙子 | Candy Cape | キャンディフェアリー |
+| char_4010_etlchi@winter#5 | 耀目之蓝 | - | - |
 | char_4011_lessng@whirlwind#7 | 幻火 | Ignis Fatuus | 幻影の炎 |
 | char_4013_kjera@epoque#18 | 灵巧侍者 | Ingenious Servant | 腕利き侍女 |
 | char_4014_lunacu@yun#1 | 棠云巧梦 | Clouds Float Like Ideas of Art | 海棠の夢 |

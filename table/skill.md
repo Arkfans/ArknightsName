@@ -268,6 +268,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_flint_1 | 不息 | Relentless | ストマックブロー |
 | skchr_flint_2 | 锋芒毕露 | Display of Might | 鳥舞蜂刺 |
 | skchr_flower_2 | 精调 | Fine Blending | 調香 |
+| skchr_flwr2_1 | “山中的喜悦” | - | - |
+| skchr_flwr2_2 | “神殿的余烬” | - | - |
 | skchr_fmout_2 | 命运 | Destiny | 運命 |
 | skchr_folivo_1 | 保护色隐蔽 | Protective Camouflage | 擬態化機能 |
 | skchr_folivo_2 | 全景过载摄像 | Panoramic Overload | フルパノラマ撮影 |
@@ -752,6 +754,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_tinman_2 | “大拉里” | 'Big Larry' | 「ビッグラリー」 |
 | skchr_tippi_1 | 专业喷绘技巧 | Specialist's Spraying Skills | スプレーアート |
 | skchr_tippi_2 | 紧急赶场通知 | Emergency Scene Change | 撮影現場急行 |
+| skchr_titi_1 | 缓蚀 | - | - |
+| skchr_titi_2 | 封护 | - | - |
+| skchr_titi_3 | 旧日绽放 | - | - |
 | skchr_tknogi_1 | 迹无 | Without a Trace | 跡無 |
 | skchr_tknogi_2 | 森廻 | Forest's Embrace | 森廻 |
 | skchr_tmoris_1 | 颤栗之弦 | - | - |
@@ -773,6 +778,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_ulpia_3 | 必须开辟的通路 | Paths Must Be Opened | 拓くべき活路 |
 | skchr_utage_1 | 分神 | Space Out | サボり |
 | skchr_utage_2 | 落地斩·破门 | Descending Strike - Earth Splitter | 落地斬・突破 |
+| skchr_varkis_1 | 奔流 | - | - |
+| skchr_varkis_2 | 同胞的意志 | - | - |
 | skchr_vendla_2 | 荆藤庇荫 | Umbrage of Thorns | 茨の庇護 |
 | skchr_vigil_1 | 领袖的呼唤 | Packleader's Call | 統率者の一声 |
 | skchr_vigil_2 | 领袖的馈赠 | Packleader's Gift | 統率者の恩賞 |
@@ -1367,6 +1374,8 @@ tip: 请善用浏览器的搜索功能
 | sktok_phatom_1 | 暗夜魅影 | Phantom of the Night | 闇夜の影法師 |
 | sktok_phatom_2 | 血色乐章 | Bloody Opus | 血染めの楽章 |
 | sktok_phatom_3 | 夜幕突袭 | Night Raid | 襲来の悪夢 |
+| sktok_pirene_1 | 花香弥散 | - | - |
+| sktok_pirene_2 | 花香弥散 | - | - |
 | sktok_poachr | 盗猎食材 | Hunt for Food | 食材どろぼう |
 | sktok_poison_1 | 关闭阀门 | Close Valve | 放出停止 |
 | sktok_poison_2 | 开启阀门 | Open Valve | ガス放出 |

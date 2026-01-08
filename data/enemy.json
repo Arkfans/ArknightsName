@@ -1325,6 +1325,39 @@
   "enemy_10153_nsblon_2": {
     "zh_CN": "强力热气球"
   },
+  "enemy_10154_mnmblx": {
+    "zh_CN": "“英雄的呼唤”"
+  },
+  "enemy_10155_mntjsd": {
+    "zh_CN": "投矛的士兵"
+  },
+  "enemy_10155_mntjsd_2": {
+    "zh_CN": "投矛的勇士"
+  },
+  "enemy_10156_mncrer": {
+    "zh_CN": "新手祭司学徒"
+  },
+  "enemy_10156_mncrer_2": {
+    "zh_CN": "见习祭司学徒"
+  },
+  "enemy_10157_mnggyl": {
+    "zh_CN": "疑问的雕像"
+  },
+  "enemy_10157_mnggyl_2": {
+    "zh_CN": "失望的雕像"
+  },
+  "enemy_10158_mnzeno": {
+    "zh_CN": "小跑的斐迪庇第斯"
+  },
+  "enemy_10158_mnzeno_2": {
+    "zh_CN": "狂奔的斐迪庇第斯"
+  },
+  "enemy_10159_mntrjn": {
+    "zh_CN": "伊利昂的木驮兽"
+  },
+  "enemy_10159_mntrjn_2": {
+    "zh_CN": "伊利昂的铁驮兽"
+  },
   "enemy_1015_litamr": {
     "en_US": "Light-Armored Soldier",
     "ja_JP": "軽装兵",
@@ -1334,6 +1367,30 @@
     "en_US": "Light-Armored Soldier Leader",
     "ja_JP": "軽装隊長",
     "zh_CN": "轻甲卫兵组长"
+  },
+  "enemy_10160_mnlaur": {
+    "zh_CN": "传唱喜剧的诗人"
+  },
+  "enemy_10160_mnlaur_2": {
+    "zh_CN": "传唱悲剧的诗人"
+  },
+  "enemy_10161_mnserv": {
+    "zh_CN": "英雄的理想"
+  },
+  "enemy_10161_mnserv_2": {
+    "zh_CN": "英雄的气概"
+  },
+  "enemy_10162_mnctpt": {
+    "zh_CN": "自制投石机"
+  },
+  "enemy_10162_mnctpt_2": {
+    "zh_CN": "翻新投石机"
+  },
+  "enemy_10163_mnctur": {
+    "zh_CN": "帕拉杜利斯"
+  },
+  "enemy_10163_mnctur_2": {
+    "zh_CN": "神勇的帕拉杜利斯"
   },
   "enemy_1016_diaman": {
     "en_US": "Metal Crab",
@@ -5709,6 +5766,12 @@
   },
   "enemy_1579_nstmom": {
     "zh_CN": "女妖河谷的拂哀菈"
+  },
+  "enemy_1580_mnchrn": {
+    "zh_CN": "赞索斯，复仇者"
+  },
+  "enemy_1581_mnchrs": {
+    "zh_CN": "“无数的伊萨科斯”"
   },
   "enemy_18001_lhship": {
     "zh_CN": "运输汽艇"

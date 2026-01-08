@@ -413,6 +413,7 @@ tip: 请善用浏览器的搜索功能
 | trap_271_fowstn | 严重污染设施 | - | - |
 | trap_272_nomstn | 阻道岩壁 | - | - |
 | trap_278_dyfgdd | 狭路相逢 | - | - |
+| trap_279_pirene | 喷泉水池 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |
 | trap_401_xbfato | 木材采集站 | Sawing Harvester Hub | 木材採取基地 |
 | trap_403_wfactory | 蟹蟹抽水泵 | Crabbie Pumpie | カニカニポンプ |

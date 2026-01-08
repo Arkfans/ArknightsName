@@ -198,6 +198,7 @@ tip: 请善用浏览器的搜索功能
 | REP_COIN | 情报凭证 | Intelligence Certificate | 情報資格証 |
 | RETRO_COIN | 事相结晶 | Event Crystal | 事象の結晶 |
 | RandomSkinbox_1 | 时装回顾展 | - | - |
+| RandomSkinbox_2 | 时装回顾展·II | - | - |
 | SINGLE_49_0_1_GACHA | 如死亦终寻访凭证 | Like Ending Like Death Headhunting Permit | イベントスカウト券 |
 | SINGLE_49_0_1_GACHA_10 | 如死亦终十连寻访凭证 | Like Ending Like Death Ten-roll Headhunting Permit | イベント10回スカウト券 |
 | SINGLE_55_0_1_GACHA | 未致蒙尘寻访凭证 | Never Gilded Headhunting Permit | 褪せざる栄光スカウト券 |
@@ -385,6 +386,7 @@ tip: 请善用浏览器的搜索功能
 | act45side_token_puzzlepieces | 梦境拼图 | - | - |
 | act46side_token_detector | 雪地用多功能探测器 | - | - |
 | act47side_token_bottle | 天空氧气瓶 | - | - |
+| act48side_token_ostracon | 投票用的陶片 | - | - |
 | act4bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act4bossrush_relic_01 | 轻量化载荷 | Lightened Load | 積込み軽量化 |
 | act4bossrush_relic_02 | 核心预热 | Preheated Core | コア予熱 |
@@ -757,6 +759,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_101_sora | 空的信物 | Sora's Token | ソラの印 |
 | p_char_1020_reed2 | 焰影苇草的信物 | Reed the Flame Shadow's Token | 焔影リードの印 |
 | p_char_1021_kroos2 | 寒芒克洛丝的信物 | Kroos the Keen Glint’s Token | 寒芒クルースの印 |
+| p_char_1022_flwr2 | 撷英调香师的信物 | - | - |
 | p_char_1023_ghost2 | 归溟幽灵鲨的信物 | Specter the Unchained's Token | 帰溟スペクターの印 |
 | p_char_1024_hbisc2 | 濯尘芙蓉的信物 | Hibiscus the Purifier's Token | 濯塵ハイビスカスの印 |
 | p_char_1026_gvial2 | 百炼嘉维尔的信物 | Gavial the Invincible's Token | 百錬ガヴィルの印 |
@@ -992,6 +995,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4052_surfer | 寻澜的信物 | Surfer's Token | サーファーの印 |
 | p_char_4054_malist | 至简的信物 | Minimalist's Token | ミニマリストの印 |
 | p_char_4055_bgsnow | 鸿雪的信物 | Pozëmka's Token | パゼオンカの印 |
+| p_char_4056_titi | 缇缇的信物 | - | - |
 | p_char_4058_pepe | 佩佩的信物 | Pepe's Token | ペペの印 |
 | p_char_405_absin | 苦艾的信物 | Absinthe's Token | アブサントの印 |
 | p_char_4062_totter | 铅踝的信物 | Totter's Token | トターの印 |
@@ -1056,6 +1060,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4163_rosesa | 瑰盐的信物 | Rose Salt's Token | ローズソルトの印 |
 | p_char_4164_tecno | 特克诺的信物 | Tecno's Token | テクノの印 |
 | p_char_4165_ctrail | 云迹的信物 | Contrail's Token | コントレイルの印 |
+| p_char_4166_varkis | 摆渡人的信物 | - | - |
 | p_char_416_zumama | 森蚺的信物 | Eunectes' Token | ユーネクテスの印 |
 | p_char_4171_wulfen | 钼铅的信物 | Wulfenite's Token | ウルフェナイトの印 |
 | p_char_4172_xingzh | 行箸的信物 | Xingzhu's Token | シィンズゥの印 |

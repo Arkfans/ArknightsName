@@ -117,6 +117,7 @@ tip: 请善用浏览器的搜索功能
 | story_fartth_set_1_story_1 | 容身之所 | Where She Belongs | 居場所 |
 | story_finlpp_set_1_story_1 | 涓滴亦江流 | A Trickle, a Rapids | 川となる雫 |
 | story_firwhl_set_1_story_1 | 独行之人 | The Lone Goer | 独り行く者 |
+| story_flamtl_set_1_story_1 | 像火一样燃烧 | - | - |
 | story_flint_set_1_story_1 | 合格的战士 | Warrior's Due | 一人前の戦士 |
 | story_flower_set_1_story_1 | 改建计划 | 'Refurbishment Plans' | 改装計画 |
 | story_flower_set_2_story_1 | 树犹如此 | How Old Trees Grow | 木々でさえ |
@@ -265,6 +266,7 @@ tip: 请善用浏览器的搜索功能
 | story_quercu_set_1_story_1 | 终途 | Final Moments | 終の道 |
 | story_quercu_set_2_story_1 | 生命的萌芽 | The Sprouts of Life | 命の芽吹き |
 | story_ray_set_1_story_1 | 夜晚荒漠上的鳞群 | - | - |
+| story_ray_set_2_story_1 | 月下舞者 | - | - |
 | story_rdoc_set_1_story_1 | 模糊的面容 | Ambiguous Appearance | 朧げな面影 |
 | story_reckpr_set_1_story_1 | 何须剑 | - | - |
 | story_rfalcn_set_1_story_1 | 未来的痕迹 | - | - |
@@ -339,6 +341,7 @@ tip: 请善用浏览器的搜索功能
 | story_tuye_set_1_story_1 | 沙漠之虹 | Desert Rainbow | 砂漠にかかる虹 |
 | story_utage_set_1_story_1 | 时髦把戏 | The Game of Chic | トレンディ・トリック |
 | story_utage_set_2_story_1 | 鵺切的故事 | - | - |
+| story_vendla_set_1_story_1 | 新东西 | - | - |
 | story_vigil_set_1_story_1 | 未来将至 | Future Coming | 訪れる未来 |
 | story_vigil_set_2_story_1 | 双刃剑 | Double-Edged Sword | 諸刃の剣 |
 | story_vigna_set_1_story_1 | 该做的事 | What You've Gotta Do | すべきこと |
@@ -355,6 +358,7 @@ tip: 请善用浏览器的搜索功能
 | story_wildmn_set_1_story_1 | 憧憬 | Aspiration | 憧憬 |
 | story_windft_set_1_story_1 | 老工厂里的一支舞 | Lone Dance at the Old Factory | 古工場のダンス |
 | story_wscoot_set_1_story_1 | 只待天明 | - | - |
+| story_wulfen_set_1_story_1 | 最后一次探险 | - | - |
 | story_wyvern_set_1_story_1 | 源石虫与啤酒花 | Originium Slugs and Hops | オリジムシとホップ |
 | story_yak_set_1_story_1 | 一天 | One Day | 一日 |
 | story_yu_set_1_story_1 | 百年一日 | A Hundred Years in Daily Steps | 百年一日 |

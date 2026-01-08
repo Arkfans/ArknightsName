@@ -1019,6 +1019,18 @@ tip: 请善用浏览器的搜索功能
 | act47side_st02 | 试飞日 | - | - |
 | act47side_st03 | 复航 | - | - |
 | act47side_tr01 | 高空适应症 | - | - |
+| act48side_01 | 工作与时日 | - | - |
+| act48side_02 | 命定的终点 | - | - |
+| act48side_03 | 无解的谜题 | - | - |
+| act48side_04 | 失手 | - | - |
+| act48side_05 | 汇流 | - | - |
+| act48side_06 | 旧日诗篇 | - | - |
+| act48side_07 | 奔袭 | - | - |
+| act48side_08 | 神谕示显 | - | - |
+| act48side_st01 | 涉过流淌的河 | - | - |
+| act48side_st02 | 一个无声的夜晚 | - | - |
+| act48side_st03 | 无法再一次踏入的河 | - | - |
+| act48side_tr01 | 入境随俗 | - | - |
 | act4bossrush_01 | 冰霜与战火 | Frost and Fire | 氷霜と戦火 |
 | act4bossrush_02 | 无关音律 | Out Of Tune | アウトオブチューン |
 | act4bossrush_03 | 延烧的深池 | Dublinn Burning | 延焼する葦沼 |

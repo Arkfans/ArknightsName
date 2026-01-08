@@ -304,8 +304,27 @@ tip: 请善用浏览器的搜索功能
 | enemy_10152_nstree_2 | “逐日的树” | - | - |
 | enemy_10153_nsblon | 热气球 | - | - |
 | enemy_10153_nsblon_2 | 强力热气球 | - | - |
+| enemy_10154_mnmblx | “英雄的呼唤” | - | - |
+| enemy_10155_mntjsd | 投矛的士兵 | - | - |
+| enemy_10155_mntjsd_2 | 投矛的勇士 | - | - |
+| enemy_10156_mncrer | 新手祭司学徒 | - | - |
+| enemy_10156_mncrer_2 | 见习祭司学徒 | - | - |
+| enemy_10157_mnggyl | 疑问的雕像 | - | - |
+| enemy_10157_mnggyl_2 | 失望的雕像 | - | - |
+| enemy_10158_mnzeno | 小跑的斐迪庇第斯 | - | - |
+| enemy_10158_mnzeno_2 | 狂奔的斐迪庇第斯 | - | - |
+| enemy_10159_mntrjn | 伊利昂的木驮兽 | - | - |
+| enemy_10159_mntrjn_2 | 伊利昂的铁驮兽 | - | - |
 | enemy_1015_litamr | 轻甲卫兵 | Light-Armored Soldier | 軽装兵 |
 | enemy_1015_litamr_2 | 轻甲卫兵组长 | Light-Armored Soldier Leader | 軽装隊長 |
+| enemy_10160_mnlaur | 传唱喜剧的诗人 | - | - |
+| enemy_10160_mnlaur_2 | 传唱悲剧的诗人 | - | - |
+| enemy_10161_mnserv | 英雄的理想 | - | - |
+| enemy_10161_mnserv_2 | 英雄的气概 | - | - |
+| enemy_10162_mnctpt | 自制投石机 | - | - |
+| enemy_10162_mnctpt_2 | 翻新投石机 | - | - |
+| enemy_10163_mnctur | 帕拉杜利斯 | - | - |
+| enemy_10163_mnctur_2 | 神勇的帕拉杜利斯 | - | - |
 | enemy_1016_diaman | 磐蟹 | Metal Crab | ハガネガニ |
 | enemy_1017_defdrn | 御4 | Defender-4 | Mvc4 |
 | enemy_1018_aoemag | 高阶术师 | Senior Caster | 上級術師 |
@@ -1185,6 +1204,8 @@ tip: 请善用浏览器的搜索功能
 | enemy_1577_iceball | “寒意” | - | - |
 | enemy_1578_icecage | 圣女雪衣 | - | - |
 | enemy_1579_nstmom | 女妖河谷的拂哀菈 | - | - |
+| enemy_1580_mnchrn | 赞索斯，复仇者 | - | - |
+| enemy_1581_mnchrs | “无数的伊萨科斯” | - | - |
 | enemy_18001_lhship | 运输汽艇 | - | - |
 | enemy_18002_lhbetl | 小颚虫 | - | - |
 | enemy_18003_lhkarb | 吸气乱动机 | - | - |

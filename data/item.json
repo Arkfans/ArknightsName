@@ -946,6 +946,9 @@
   "RandomSkinbox_1": {
     "zh_CN": "时装回顾展"
   },
+  "RandomSkinbox_2": {
+    "zh_CN": "时装回顾展·II"
+  },
   "SINGLE_49_0_1_GACHA": {
     "en_US": "Like Ending Like Death Headhunting Permit",
     "ja_JP": "イベントスカウト券",
@@ -1814,6 +1817,9 @@
   },
   "act47side_token_bottle": {
     "zh_CN": "天空氧气瓶"
+  },
+  "act48side_token_ostracon": {
+    "zh_CN": "投票用的陶片"
   },
   "act4bossrush_milestone_point": {
     "en_US": "Trial EXP",
@@ -3578,6 +3584,9 @@
     "ja_JP": "寒芒クルースの印",
     "zh_CN": "寒芒克洛丝的信物"
   },
+  "p_char_1022_flwr2": {
+    "zh_CN": "撷英调香师的信物"
+  },
   "p_char_1023_ghost2": {
     "en_US": "Specter the Unchained's Token",
     "ja_JP": "帰溟スペクターの印",
@@ -4739,6 +4748,9 @@
     "ja_JP": "パゼオンカの印",
     "zh_CN": "鸿雪的信物"
   },
+  "p_char_4056_titi": {
+    "zh_CN": "缇缇的信物"
+  },
   "p_char_4058_pepe": {
     "en_US": "Pepe's Token",
     "ja_JP": "ペペの印",
@@ -5058,6 +5070,9 @@
     "en_US": "Contrail's Token",
     "ja_JP": "コントレイルの印",
     "zh_CN": "云迹的信物"
+  },
+  "p_char_4166_varkis": {
+    "zh_CN": "摆渡人的信物"
   },
   "p_char_416_zumama": {
     "en_US": "Eunectes' Token",

@@ -1294,6 +1294,12 @@
     "ja_JP": "調香",
     "zh_CN": "精调"
   },
+  "skchr_flwr2_1": {
+    "zh_CN": "“山中的喜悦”"
+  },
+  "skchr_flwr2_2": {
+    "zh_CN": "“神殿的余烬”"
+  },
   "skchr_fmout_2": {
     "en_US": "Destiny",
     "ja_JP": "運命",
@@ -3622,6 +3628,15 @@
     "ja_JP": "撮影現場急行",
     "zh_CN": "紧急赶场通知"
   },
+  "skchr_titi_1": {
+    "zh_CN": "缓蚀"
+  },
+  "skchr_titi_2": {
+    "zh_CN": "封护"
+  },
+  "skchr_titi_3": {
+    "zh_CN": "旧日绽放"
+  },
   "skchr_tknogi_1": {
     "en_US": "Without a Trace",
     "ja_JP": "跡無",
@@ -3722,6 +3737,12 @@
     "en_US": "Descending Strike - Earth Splitter",
     "ja_JP": "落地斬・突破",
     "zh_CN": "落地斩·破门"
+  },
+  "skchr_varkis_1": {
+    "zh_CN": "奔流"
+  },
+  "skchr_varkis_2": {
+    "zh_CN": "同胞的意志"
   },
   "skchr_vendla_2": {
     "en_US": "Umbrage of Thorns",
@@ -6400,6 +6421,12 @@
     "en_US": "Night Raid",
     "ja_JP": "襲来の悪夢",
     "zh_CN": "夜幕突袭"
+  },
+  "sktok_pirene_1": {
+    "zh_CN": "花香弥散"
+  },
+  "sktok_pirene_2": {
+    "zh_CN": "花香弥散"
   },
   "sktok_poachr": {
     "en_US": "Hunt for Food",

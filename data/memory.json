@@ -545,6 +545,9 @@
     "ja_JP": "独り行く者",
     "zh_CN": "独行之人"
   },
+  "story_flamtl_set_1_story_1": {
+    "zh_CN": "像火一样燃烧"
+  },
   "story_flint_set_1_story_1": {
     "en_US": "Warrior's Due",
     "ja_JP": "一人前の戦士",
@@ -1263,6 +1266,9 @@
   "story_ray_set_1_story_1": {
     "zh_CN": "夜晚荒漠上的鳞群"
   },
+  "story_ray_set_2_story_1": {
+    "zh_CN": "月下舞者"
+  },
   "story_rdoc_set_1_story_1": {
     "en_US": "Ambiguous Appearance",
     "ja_JP": "朧げな面影",
@@ -1619,6 +1625,9 @@
   "story_utage_set_2_story_1": {
     "zh_CN": "鵺切的故事"
   },
+  "story_vendla_set_1_story_1": {
+    "zh_CN": "新东西"
+  },
   "story_vigil_set_1_story_1": {
     "en_US": "Future Coming",
     "ja_JP": "訪れる未来",
@@ -1694,6 +1703,9 @@
   },
   "story_wscoot_set_1_story_1": {
     "zh_CN": "只待天明"
+  },
+  "story_wulfen_set_1_story_1": {
+    "zh_CN": "最后一次探险"
   },
   "story_wyvern_set_1_story_1": {
     "en_US": "Originium Slugs and Hops",

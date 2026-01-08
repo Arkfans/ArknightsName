@@ -230,6 +230,7 @@ Event | なないろのお茶会 |
 | act46sign | 感谢庆典限时签到 | Thank-You Celebration Limited-Time Sign-In | 大感謝祭スタンプ |
 | act47side | 未许之地 | - | - |
 | act47sign | 感谢庆典补给签到 | Thank-You Celebration Sign-In Resupplies | 大感謝祭補給スタンプ |
+| act48side | 雅赛努斯复仇记 | - | - |
 | act48sign | 2025跨年纪念限时活动 | 2025 Commemorative Limited-Time Event | スタンプラリー |
 | act49sign | 六周年庆典签到活动 | Celebration Login Event | 大感謝祭スタンプ |
 | act4bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |

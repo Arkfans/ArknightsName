@@ -222,6 +222,9 @@
     "ja_JP": "荒野潜行",
     "zh_CN": "野地秘行"
   },
+  "char_1040_blaze2@winter#5": {
+    "zh_CN": "夜归人"
+  },
   "char_106_franka@ncg#1": {
     "en_US": "Rainforest, Me, Rainbow",
     "ja_JP": "深緑にかかる虹",
@@ -1468,6 +1471,9 @@
     "en_US": "Candy Cape",
     "ja_JP": "キャンディフェアリー",
     "zh_CN": "糖果仙子"
+  },
+  "char_4010_etlchi@winter#5": {
+    "zh_CN": "耀目之蓝"
   },
   "char_4011_lessng@whirlwind#7": {
     "en_US": "Ignis Fatuus",
