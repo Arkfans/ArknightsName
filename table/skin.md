@@ -87,6 +87,7 @@ tip: 请善用浏览器的搜索功能
 | char_131_flameb@whirlwind#6 | 单刀 | One Blade | 単刀 |
 | char_133_mm@summer#20 | 夏卉 FA054 | - | - |
 | char_134_ifrit@kfc#1 | 儿童派对 | Children's Party | キッズパーティー |
+| char_134_ifrit@rilakkuma#1 | 轻松旅途 | - | - |
 | char_134_ifrit@summer#1 | 日晒 SS.SP | Sunburn SS.SP | サンライトSS.SP |
 | char_135_halo@epoque#25 | 所愿 | Her Aspiration | 冀望 |
 | char_136_hsguma@nian#3 | 狩标浪人 | Ronin Huntress | 流離いの旗印 |
@@ -140,6 +141,7 @@ tip: 请善用浏览器的搜索功能
 | char_195_glassb@kitchen#1 | 书味 | Bibliosmia | 書の味わい |
 | char_196_sunbr@summer#1 | 夏卉 FA011 | Summer Flowers FA011 | 夏の花弁FA011 |
 | char_197_poca@epoque#12 | 杰作 | Masterpiece | 傑作 |
+| char_197_poca@rilakkuma#1 | 常伴我身 | - | - |
 | char_198_blackd@as#1 | 无言狂响 | Speechless Sound | 無言の狂騒 |
 | char_198_blackd@winter#1 | 新航线 | New Routes | 新航路 |
 | char_199_yak@summer#1 | 沙滩护卫 GT.001 | Beach Guard GT.001 | 砂浜の番人GT001 |

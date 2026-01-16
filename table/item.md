@@ -1277,6 +1277,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_NHL | 吾导先路家具收藏包 | Guide Ahead Furniture Collection Set | 吾れ先導者たらん家具パック |
 | uni_set_SargonFair_1 | 阿尔萨兰家具收藏包一 | Arsalan Furniture Collection I | アルサラン家具パックvol.1 |
 | uni_set_SargonFair_2 | 阿尔萨兰家具收藏包二 | Arsalan Furniture Collection II | アルサラン家具パックvol.2 |
+| uni_set_TianshiMansion | 怀黍离家具收藏包 | - | - |
 | uni_set_abyssal | 覆潮之下家具收藏包 | Under Tides Furniture Pack | 潮汐の下家具パック |
 | uni_set_act10d5 | 乌萨斯的孩子们家具收藏包 | Children of Ursus Furniture Pack | ウルサスの子供たち家具パック |
 | uni_set_act7d5 | 午间逸话家具收藏包 | Stories of Afternoon Furniture Pack | 午後の逸話家具パック |
@@ -1357,6 +1358,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_full_sophia | 鞭刃的私人信件 | Whislash's Personal Letter | ウィスラッシュの手紙 |
 | voucher_full_takila | 龙舌兰的私人信件 | Tequila's Personal Letter | テキーラの手紙 |
 | voucher_full_tomimi | 特米米的私人信件 | Tomimi's Personal Letter | トミミの手紙 |
+| voucher_full_wanqin | 万顷的私人信件 | - | - |
 | voucher_full_wildmn | 野鬃的私人信件 | Wild Mane's Personal Letter | ワイルドメインの手紙 |
 | voucher_full_zebra | 暴雨的私人信件 | Heavyrain's Personal Letter | ヘビーレインの手紙 |
 | voucher_item_4pick1 | 干员兑换券 | Operator Voucher | オペレーター指名券 |

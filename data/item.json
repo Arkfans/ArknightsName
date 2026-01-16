@@ -6096,6 +6096,9 @@
     "ja_JP": "アルサラン家具パックvol.2",
     "zh_CN": "阿尔萨兰家具收藏包二"
   },
+  "uni_set_TianshiMansion": {
+    "zh_CN": "怀黍离家具收藏包"
+  },
   "uni_set_abyssal": {
     "en_US": "Under Tides Furniture Pack",
     "ja_JP": "潮汐の下家具パック",
@@ -6471,6 +6474,9 @@
     "en_US": "Tomimi's Personal Letter",
     "ja_JP": "トミミの手紙",
     "zh_CN": "特米米的私人信件"
+  },
+  "voucher_full_wanqin": {
+    "zh_CN": "万顷的私人信件"
   },
   "voucher_full_wildmn": {
     "en_US": "Wild Mane's Personal Letter",

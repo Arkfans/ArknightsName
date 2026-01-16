@@ -1195,6 +1195,7 @@ tip: 请善用浏览器的搜索功能
 | char_131_flameb@whirlwind#6 | 单刀 | One Blade | 単刀 |
 | char_133_mm@summer#20 | 夏卉 FA054 | - | - |
 | char_134_ifrit@kfc#1 | 儿童派对 | Children's Party | キッズパーティー |
+| char_134_ifrit@rilakkuma#1 | 轻松旅途 | - | - |
 | char_134_ifrit@summer#1 | 日晒 SS.SP | Sunburn SS.SP | サンライトSS.SP |
 | char_135_halo@epoque#25 | 所愿 | Her Aspiration | 冀望 |
 | char_136_hsguma@nian#3 | 狩标浪人 | Ronin Huntress | 流離いの旗印 |
@@ -1248,6 +1249,7 @@ tip: 请善用浏览器的搜索功能
 | char_195_glassb@kitchen#1 | 书味 | Bibliosmia | 書の味わい |
 | char_196_sunbr@summer#1 | 夏卉 FA011 | Summer Flowers FA011 | 夏の花弁FA011 |
 | char_197_poca@epoque#12 | 杰作 | Masterpiece | 傑作 |
+| char_197_poca@rilakkuma#1 | 常伴我身 | - | - |
 | char_198_blackd@as#1 | 无言狂响 | Speechless Sound | 無言の狂騒 |
 | char_198_blackd@winter#1 | 新航线 | New Routes | 新航路 |
 | char_199_yak@summer#1 | 沙滩护卫 GT.001 | Beach Guard GT.001 | 砂浜の番人GT001 |
@@ -3429,6 +3431,7 @@ Event | なないろのお茶会 |
 | act8pray | 幸运墙登录活动 | Lucky Strips Login Event | 龍門開運
 おみくじ |
 | act8sre | 孤岛风云·复刻 | Mansfield Break - Rerun | 孤島激震·復刻 |
+| act8switch | 慵懒心意合作活动 | - | - |
 | act9d0 | 生于黑夜 | Darknights Memoir | 闇夜に生きる |
 | act9d1d1 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act9d1d2 | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
@@ -4754,6 +4757,7 @@ Event | なないろのお茶会 |
 | uni_set_NHL | 吾导先路家具收藏包 | Guide Ahead Furniture Collection Set | 吾れ先導者たらん家具パック |
 | uni_set_SargonFair_1 | 阿尔萨兰家具收藏包一 | Arsalan Furniture Collection I | アルサラン家具パックvol.1 |
 | uni_set_SargonFair_2 | 阿尔萨兰家具收藏包二 | Arsalan Furniture Collection II | アルサラン家具パックvol.2 |
+| uni_set_TianshiMansion | 怀黍离家具收藏包 | - | - |
 | uni_set_abyssal | 覆潮之下家具收藏包 | Under Tides Furniture Pack | 潮汐の下家具パック |
 | uni_set_act10d5 | 乌萨斯的孩子们家具收藏包 | Children of Ursus Furniture Pack | ウルサスの子供たち家具パック |
 | uni_set_act7d5 | 午间逸话家具收藏包 | Stories of Afternoon Furniture Pack | 午後の逸話家具パック |
@@ -4834,6 +4838,7 @@ Event | なないろのお茶会 |
 | voucher_full_sophia | 鞭刃的私人信件 | Whislash's Personal Letter | ウィスラッシュの手紙 |
 | voucher_full_takila | 龙舌兰的私人信件 | Tequila's Personal Letter | テキーラの手紙 |
 | voucher_full_tomimi | 特米米的私人信件 | Tomimi's Personal Letter | トミミの手紙 |
+| voucher_full_wanqin | 万顷的私人信件 | - | - |
 | voucher_full_wildmn | 野鬃的私人信件 | Wild Mane's Personal Letter | ワイルドメインの手紙 |
 | voucher_full_zebra | 暴雨的私人信件 | Heavyrain's Personal Letter | ヘビーレインの手紙 |
 | voucher_item_4pick1 | 干员兑换券 | Operator Voucher | オペレーター指名券 |

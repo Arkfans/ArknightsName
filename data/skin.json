@@ -381,6 +381,9 @@
     "ja_JP": "キッズパーティー",
     "zh_CN": "儿童派对"
   },
+  "char_134_ifrit@rilakkuma#1": {
+    "zh_CN": "轻松旅途"
+  },
   "char_134_ifrit@summer#1": {
     "en_US": "Sunburn SS.SP",
     "ja_JP": "サンライトSS.SP",
@@ -635,6 +638,9 @@
     "en_US": "Masterpiece",
     "ja_JP": "傑作",
     "zh_CN": "杰作"
+  },
+  "char_197_poca@rilakkuma#1": {
+    "zh_CN": "常伴我身"
   },
   "char_198_blackd@as#1": {
     "en_US": "Speechless Sound",

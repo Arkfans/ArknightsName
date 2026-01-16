@@ -283,6 +283,7 @@ Event | なないろのお茶会 |
 | act8pray | 幸运墙登录活动 | Lucky Strips Login Event | 龍門開運
 おみくじ |
 | act8sre | 孤岛风云·复刻 | Mansfield Break - Rerun | 孤島激震·復刻 |
+| act8switch | 慵懒心意合作活动 | - | - |
 | act9d0 | 生于黑夜 | Darknights Memoir | 闇夜に生きる |
 | act9d1d1 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act9d1d2 | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |

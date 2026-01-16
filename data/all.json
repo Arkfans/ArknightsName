@@ -9119,6 +9119,12 @@
       "zh_CN": "儿童派对"
     }
   },
+  "char_134_ifrit@rilakkuma#1": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "轻松旅途"
+    }
+  },
   "char_134_ifrit@summer#1": {
     "type": "SKIN",
     "names": {
@@ -9531,6 +9537,12 @@
       "en_US": "Masterpiece",
       "ja_JP": "傑作",
       "zh_CN": "杰作"
+    }
+  },
+  "char_197_poca@rilakkuma#1": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "常伴我身"
     }
   },
   "char_198_blackd@as#1": {
@@ -26348,6 +26360,12 @@
       "zh_CN": "孤岛风云·复刻"
     }
   },
+  "act8switch": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "慵懒心意合作活动"
+    }
+  },
   "act9d0": {
     "type": "ACTIVITY",
     "names": {
@@ -36669,6 +36687,12 @@
       "zh_CN": "阿尔萨兰家具收藏包二"
     }
   },
+  "uni_set_TianshiMansion": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "怀黍离家具收藏包"
+    }
+  },
   "uni_set_abyssal": {
     "type": "ITEM",
     "names": {
@@ -37283,6 +37307,12 @@
       "en_US": "Tomimi's Personal Letter",
       "ja_JP": "トミミの手紙",
       "zh_CN": "特米米的私人信件"
+    }
+  },
+  "voucher_full_wanqin": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "万顷的私人信件"
     }
   },
   "voucher_full_wildmn": {
