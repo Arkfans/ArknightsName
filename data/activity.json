@@ -961,6 +961,9 @@
     "ja_JP": "炉辺奇談スタンプ",
     "zh_CN": "无终奇语签到活动"
   },
+  "act40sre": {
+    "zh_CN": "相见欢·复刻"
+  },
   "act41side": {
     "en_US": "When Elegies Are Ashes",
     "ja_JP": "挽歌が灰に還る時",
@@ -1191,6 +1194,9 @@
     "en_US": "The Great Chief Returns - Rerun",
     "ja_JP": "帰還！密林の長・復刻",
     "zh_CN": "密林悍将归来·复刻"
+  },
+  "act7collection": {
+    "zh_CN": "界园志异限时任务"
   },
   "act7d1": {
     "en_US": "Limited-time Cumulative Sign-In",

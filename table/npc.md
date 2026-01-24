@@ -50,7 +50,8 @@ tip: 请善用浏览器的搜索功能
 |   | 维多利亚游客？ | Victorian Tourist? | ヴィクトリアの観光客？ |
 | avg_1041_angel2_1 | 能天使 | Exusiai | エクシア |
 | avg_1042_phatm2_1 | 卢西恩 | Lucian | ルシアン |
-| avg_1043_leizi2_1 | 麟青砚 | - | - |
+| avg_1043_leizi2_1 | 惊蛰 | - | - |
+|   | 麟青砚 |   |   |
 | avg_1044_hsgma2_1 | 星熊 | - | - |
 | avg_1045_svash2_1 | 恩希欧迪斯 | - | - |
 | avg_1046_sbell2_1 | 恩雅 | - | - |

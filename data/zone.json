@@ -985,6 +985,15 @@
     "ja_JP": "悵別離",
     "zh_CN": "怅别离"
   },
+  "act40sre_zone1": {
+    "zh_CN": "识七味"
+  },
+  "act40sre_zone2": {
+    "zh_CN": "阅世情"
+  },
+  "act40sre_zone3": {
+    "zh_CN": "怅别离"
+  },
   "act41side_zone1": {
     "en_US": "Flickering Shadows",
     "ja_JP": "揺らめく影",
@@ -1505,6 +1514,15 @@
     "en_US": "Extra Show",
     "ja_JP": "エクストラ",
     "zh_CN": "额外节目"
+  },
+  "permanent_sidestory_30_zone1": {
+    "zh_CN": "识七味"
+  },
+  "permanent_sidestory_30_zone2": {
+    "zh_CN": "阅世情"
+  },
+  "permanent_sidestory_30_zone3": {
+    "zh_CN": "怅别离"
   },
   "permanent_sidestory_3_zone1": {
     "en_US": "Downtown",

@@ -376,6 +376,7 @@ tip: 请善用浏览器的搜索功能
 | act3collection_point_token | “战略家”点数 | 'Strategist' Point | 「戦略家」ポイント |
 | act3mainss_token | 打火石 | - | - |
 | act40side_token_yumyum | “生香” | 'Yum-yum!' | 「生香」 |
+| act40side_token_yumyum_rep_1 | “生香” | - | - |
 | act41side_token_light | 损坏的源石灯 | Broken Originium Lamp | 壊れたランプ |
 | act42d0_token_evaluation | 试验数据集 | Experimental Dataset | テストデータ集 |
 | act42side_token_pacifier | 蒙恩的奶嘴 | Enlightened Pacifier | 祝福のおしゃぶり |
@@ -418,6 +419,7 @@ tip: 请善用浏览器的搜索功能
 | act6collection_point_token | 特殊兑换点数 | - | - |
 | act6d5_point_firecracker | 量子二踢脚 | Quantum Firecracker | 量子爆竹 |
 | act6d8_point_token | 元宵通宝 | Lantern Festival Treasure | 元宵通宝 |
+| act7collection_point_token | “战略家”点数 | - | - |
 | act7d5_point_coupon | 食堂汤点券 | Canteen Soup Ticket | お食事クーポン券 |
 | act7mini_token_permit | 通关票券 | Clearance Permit | 国際旅券 |
 | act8mini_token_vigilo | “印象” | 'Imagini' | 「印象」 |

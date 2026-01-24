@@ -1780,6 +1780,9 @@
     "ja_JP": "「生香」",
     "zh_CN": "“生香”"
   },
+  "act40side_token_yumyum_rep_1": {
+    "zh_CN": "“生香”"
+  },
   "act41side_token_light": {
     "en_US": "Broken Originium Lamp",
     "ja_JP": "壊れたランプ",
@@ -1948,6 +1951,9 @@
     "en_US": "Lantern Festival Treasure",
     "ja_JP": "元宵通宝",
     "zh_CN": "元宵通宝"
+  },
+  "act7collection_point_token": {
+    "zh_CN": "“战略家”点数"
   },
   "act7d5_point_coupon": {
     "en_US": "Canteen Soup Ticket",

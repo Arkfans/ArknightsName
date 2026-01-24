@@ -214,6 +214,7 @@ Collaboration
 Event | なないろのお茶会 |
 | act40side | 相见欢 | Such is the Joy of Our Reunion | 相見歓 |
 | act40sign | 无终奇语签到活动 | Furnaceside Fables Login Event | 炉辺奇談スタンプ |
+| act40sre | 相见欢·复刻 | - | - |
 | act41side | 挽歌燃烧殆尽 | When Elegies Are Ashes | 挽歌が灰に還る時 |
 | act41sign | 沉沙赫日签到活动 | Brilliant Sun Rippling Sand Sign-In Event | 5周年
 スタンプ |
@@ -270,6 +271,7 @@ Event | なないろのお茶会 |
 | act6login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
 | act6pray | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |
 | act6sre | 密林悍将归来·复刻 | The Great Chief Returns - Rerun | 帰還！密林の長・復刻 |
+| act7collection | 界园志异限时任务 | - | - |
 | act7d1 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act7d5 | 午间逸话 | Stories of Afternoon | 午後の逸話 |
 | act7login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |

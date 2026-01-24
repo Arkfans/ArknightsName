@@ -8491,6 +8491,18 @@
       "zh_CN": "冰浪脉冲模块"
     }
   },
+  "trap_790_dytswd": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "宿傲"
+    }
+  },
+  "trap_791_dytfre": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "宿怒"
+    }
+  },
   "char_002_amiya@epoque#4": {
     "type": "SKIN",
     "names": {
@@ -11603,6 +11615,12 @@
       "en_US": "Forgemaster",
       "ja_JP": "熔冶工匠",
       "zh_CN": "熔锻铸匠"
+    }
+  },
+  "char_4172_xingzh@epoque#51": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "留影"
     }
   },
   "char_4182_oblvns@avemujica#1": {
@@ -22597,6 +22615,42 @@
       "zh_CN": "小八界"
     }
   },
+  "enemy_2126_dycyue": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "朔壳"
+    }
+  },
+  "enemy_2127_dysuih": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "妄躯"
+    }
+  },
+  "enemy_2128_dysuib": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "身形"
+    }
+  },
+  "enemy_2129_dylong": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "怨骸"
+    }
+  },
+  "enemy_2130_dyswrd": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "敛傲"
+    }
+  },
+  "enemy_2131_dyfire": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "愠怒"
+    }
+  },
   "enemy_3001_upeopl": {
     "type": "ENEMY",
     "names": {
@@ -25875,6 +25929,12 @@
       "zh_CN": "无终奇语签到活动"
     }
   },
+  "act40sre": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "相见欢·复刻"
+    }
+  },
   "act41side": {
     "type": "ACTIVITY",
     "names": {
@@ -26266,6 +26326,12 @@
       "en_US": "The Great Chief Returns - Rerun",
       "ja_JP": "帰還！密林の長・復刻",
       "zh_CN": "密林悍将归来·复刻"
+    }
+  },
+  "act7collection": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "界园志异限时任务"
     }
   },
   "act7d1": {
@@ -29674,6 +29740,12 @@
       "zh_CN": "“生香”"
     }
   },
+  "act40side_token_yumyum_rep_1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "“生香”"
+    }
+  },
   "act41side_token_light": {
     "type": "ITEM",
     "names": {
@@ -29961,6 +30033,12 @@
       "en_US": "Lantern Festival Treasure",
       "ja_JP": "元宵通宝",
       "zh_CN": "元宵通宝"
+    }
+  },
+  "act7collection_point_token": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "“战略家”点数"
     }
   },
   "act7d5_point_coupon": {
@@ -66994,6 +67072,24 @@
       "zh_CN": "怅别离"
     }
   },
+  "act40sre_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "识七味"
+    }
+  },
+  "act40sre_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "阅世情"
+    }
+  },
+  "act40sre_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "怅别离"
+    }
+  },
   "act41side_zone1": {
     "type": "ZONE",
     "names": {
@@ -67852,6 +67948,24 @@
       "en_US": "Extra Show",
       "ja_JP": "エクストラ",
       "zh_CN": "额外节目"
+    }
+  },
+  "permanent_sidestory_30_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "识七味"
+    }
+  },
+  "permanent_sidestory_30_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "阅世情"
+    }
+  },
+  "permanent_sidestory_30_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "怅别离"
     }
   },
   "permanent_sidestory_3_zone1": {

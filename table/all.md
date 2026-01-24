@@ -1113,6 +1113,8 @@ tip: 请善用浏览器的搜索功能
 | trap_787_supctl | 冷爆机 | - | - |
 | trap_788_supctla | 低温传导模块 | - | - |
 | trap_789_supctlb | 冰浪脉冲模块 | - | - |
+| trap_790_dytswd | 宿傲 | - | - |
+| trap_791_dytfre | 宿怒 | - | - |
 | char_002_amiya@epoque#4 | 见习联结者 | Fresh Fastener | 見習い宅配人 |
 | char_002_amiya@test#1 | 播种者 | Seedsower | プランター |
 | char_002_amiya@winter#1 | 报童 | Newsgirl | 新聞配達員 |
@@ -1513,6 +1515,7 @@ tip: 请善用浏览器的搜索功能
 | char_415_flint@boc#3 | 绚烂夏花 | Gorgeous Flower | 紫藤繚乱 |
 | char_4163_rosesa@game#7 | 冒险启程 | - | - |
 | char_416_zumama@boc#3 | 熔锻铸匠 | Forgemaster | 熔冶工匠 |
+| char_4172_xingzh@epoque#51 | 留影 | - | - |
 | char_4182_oblvns@avemujica#1 | 旋律的主人 | - | - |
 | char_4183_mortis@avemujica#1 | 提线的本我 | - | - |
 | char_4184_dolris@avemujica#1 | 笼中歌者 | - | - |
@@ -2928,6 +2931,12 @@ tip: 请善用浏览器的搜索功能
 | enemy_2123_dyjsww | 后兽 | - | - |
 | enemy_2124_dyjsfg | 矩兽 | - | - |
 | enemy_2125_dylnpp | 小八界 | - | - |
+| enemy_2126_dycyue | 朔壳 | - | - |
+| enemy_2127_dysuih | 妄躯 | - | - |
+| enemy_2128_dysuib | 身形 | - | - |
+| enemy_2129_dylong | 怨骸 | - | - |
+| enemy_2130_dyswrd | 敛傲 | - | - |
+| enemy_2131_dyfire | 愠怒 | - | - |
 | enemy_3001_upeopl | 乌萨斯平民 | Ursus Civilian | ウルサス民間人 |
 | enemy_3002_ftrtal | 斗士塔露拉 | Talulah, the Fighter | 闘士タルラ |
 | enemy_3003_alymot | 大奖赛运输艇 | Competition Transport Vessel | 大会輸送艇 |
@@ -3362,6 +3371,7 @@ Collaboration
 Event | なないろのお茶会 |
 | act40side | 相见欢 | Such is the Joy of Our Reunion | 相見歓 |
 | act40sign | 无终奇语签到活动 | Furnaceside Fables Login Event | 炉辺奇談スタンプ |
+| act40sre | 相见欢·复刻 | - | - |
 | act41side | 挽歌燃烧殆尽 | When Elegies Are Ashes | 挽歌が灰に還る時 |
 | act41sign | 沉沙赫日签到活动 | Brilliant Sun Rippling Sand Sign-In Event | 5周年
 スタンプ |
@@ -3418,6 +3428,7 @@ Event | なないろのお茶会 |
 | act6login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
 | act6pray | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |
 | act6sre | 密林悍将归来·复刻 | The Great Chief Returns - Rerun | 帰還！密林の長・復刻 |
+| act7collection | 界园志异限时任务 | - | - |
 | act7d1 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act7d5 | 午间逸话 | Stories of Afternoon | 午後の逸話 |
 | act7login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
@@ -3856,6 +3867,7 @@ Event | なないろのお茶会 |
 | act3collection_point_token | “战略家”点数 | 'Strategist' Point | 「戦略家」ポイント |
 | act3mainss_token | 打火石 | - | - |
 | act40side_token_yumyum | “生香” | 'Yum-yum!' | 「生香」 |
+| act40side_token_yumyum_rep_1 | “生香” | - | - |
 | act41side_token_light | 损坏的源石灯 | Broken Originium Lamp | 壊れたランプ |
 | act42d0_token_evaluation | 试验数据集 | Experimental Dataset | テストデータ集 |
 | act42side_token_pacifier | 蒙恩的奶嘴 | Enlightened Pacifier | 祝福のおしゃぶり |
@@ -3898,6 +3910,7 @@ Event | なないろのお茶会 |
 | act6collection_point_token | 特殊兑换点数 | - | - |
 | act6d5_point_firecracker | 量子二踢脚 | Quantum Firecracker | 量子爆竹 |
 | act6d8_point_token | 元宵通宝 | Lantern Festival Treasure | 元宵通宝 |
+| act7collection_point_token | “战略家”点数 | - | - |
 | act7d5_point_coupon | 食堂汤点券 | Canteen Soup Ticket | お食事クーポン券 |
 | act7mini_token_permit | 通关票券 | Clearance Permit | 国際旅券 |
 | act8mini_token_vigilo | “印象” | 'Imagini' | 「印象」 |
@@ -8709,6 +8722,9 @@ Event | なないろのお茶会 |
 | act40side_zone1 | 识七味 | Flavor of Food | 識七味 |
 | act40side_zone2 | 阅世情 | Flavor of Life | 閲世情 |
 | act40side_zone3 | 怅别离 | Farewell, Loved Ones | 悵別離 |
+| act40sre_zone1 | 识七味 | - | - |
+| act40sre_zone2 | 阅世情 | - | - |
+| act40sre_zone3 | 怅别离 | - | - |
 | act41side_zone1 | 摇曳的影 | Flickering Shadows | 揺らめく影 |
 | act41side_zone2 | 将熄的火 | Dying Flames | 消えゆく炎 |
 | act42side_zone1 | 瞻望圣堂 | A Glance at the Shrine | 聖堂を望む |
@@ -8822,6 +8838,9 @@ Event | なないろのお茶会 |
 | permanent_sidestory_2_zone1 | 主舞台 | Main Stage | メインステージ |
 | permanent_sidestory_2_zone2 | 嘉年华 | Carnival | フェスティバル |
 | permanent_sidestory_2_zone3 | 额外节目 | Extra Show | エクストラ |
+| permanent_sidestory_30_zone1 | 识七味 | - | - |
+| permanent_sidestory_30_zone2 | 阅世情 | - | - |
+| permanent_sidestory_30_zone3 | 怅别离 | - | - |
 | permanent_sidestory_3_zone1 | 下城区 | Downtown | 繁華街 |
 | permanent_sidestory_3_zone2 | 东部郊区 | Eastern Suburbs | 東部郊外 |
 | permanent_sidestory_4_zone1 | 议事高塔 | Capitol Spire | 大議事塔 |
