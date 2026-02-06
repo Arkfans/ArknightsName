@@ -3369,6 +3369,7 @@ tip: 请善用浏览器的搜索功能
 Overload
 Collaboration
 Event | なないろのお茶会 |
+| act3unique | 鸣羽颂新签到活动 | - | - |
 | act40side | 相见欢 | Such is the Joy of Our Reunion | 相見歓 |
 | act40sign | 无终奇语签到活动 | Furnaceside Fables Login Event | 炉辺奇談スタンプ |
 | act40sre | 相见欢·复刻 | - | - |
@@ -7897,6 +7898,7 @@ Event | なないろのお茶会 |
 | camp_r_28 | 大巴扎 | Grand Bazaar | グランドバザール |
 | camp_r_29 | 鳞骸盐漠  | - | - |
 | camp_r_30 | 暗流巢窟  | - | - |
+| camp_r_31 | 炽灼车间 | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |
 | hard_05-02 | 炼狱行动-2 | Operation Inferno-2 | 煉獄作戦-2 |
 | hard_05-03 | 炼狱行动-3 | Operation Inferno-3 | 煉獄作戦-3 |

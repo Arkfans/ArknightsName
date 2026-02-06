@@ -212,6 +212,7 @@ tip: 请善用浏览器的搜索功能
 Overload
 Collaboration
 Event | なないろのお茶会 |
+| act3unique | 鸣羽颂新签到活动 | - | - |
 | act40side | 相见欢 | Such is the Joy of Our Reunion | 相見歓 |
 | act40sign | 无终奇语签到活动 | Furnaceside Fables Login Event | 炉辺奇談スタンプ |
 | act40sre | 相见欢·复刻 | - | - |

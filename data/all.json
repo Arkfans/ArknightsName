@@ -25913,6 +25913,12 @@
       "zh_CN": "虹彩茶会合作活动"
     }
   },
+  "act3unique": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "鸣羽颂新签到活动"
+    }
+  },
   "act40side": {
     "type": "ACTIVITY",
     "names": {
@@ -60604,6 +60610,12 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "暗流巢窟 "
+    }
+  },
+  "camp_r_31": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "炽灼车间"
     }
   },
   "hard_05-01": {
