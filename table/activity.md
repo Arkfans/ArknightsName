@@ -43,6 +43,7 @@ tip: 请善用浏览器的搜索功能
 | act14d7 | 喧闹法则·复刻 | Code of Brawl - Rerun | 喧騒の掟・復刻 |
 | act14login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
 | act14mini | 春分 | A Death in Chunfen | 春分 |
+| act14pray | 龙门幸运墙登录活动 | - | - |
 | act14side | 风雪过境 | Break the Ice | 風雪一過 |
 | act14sre | 风雪过境·复刻 | Break the Ice - Rerun | 風雪一過・復刻 |
 | act15d0 | 孤岛风云 | Mansfield Break | 孤島激震 |
@@ -142,6 +143,7 @@ tip: 请善用浏览器的搜索功能
 | act26side | 空想花庭 | Hortus de Escapismo | 空想の花庭 |
 | act26sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act26sre | 空想花庭·复刻 | Hortus de Escapismo - Retrospection | 空想の花庭・復刻 |
+| act27login | 登录领取奖励 | - | - |
 | act27side | 火山旅梦 | So Long, Adele: Home Away From Home | 火山と雲と夢色の旅路 |
 | act27sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act27sre | 火山旅梦·复刻 | So Long, Adele: Home Away From Home - Retrospection | 火山と雲と夢色の旅路・復刻 |
@@ -198,6 +200,7 @@ tip: 请善用浏览器的搜索功能
 | act39side | 出苍白海 | Exodus from the Pale Sea | 白き海の彼方へ |
 | act39sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act39sre | 出苍白海·复刻 | - | - |
+| act3blessing | 2026罗德岛新春签到 | - | - |
 | act3bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act3collection | 潮起潮又起 | Another Tides | 沸き返る潮騒 |
 | act3d0 | 火蓝之心 | Heart of Surging Flame | 青く燃ゆる心 |
@@ -234,6 +237,7 @@ Event | なないろのお茶会 |
 | act47sign | 感谢庆典补给签到 | Thank-You Celebration Sign-In Resupplies | 大感謝祭補給スタンプ |
 | act48side | 雅赛努斯复仇记 | - | - |
 | act48sign | 2025跨年纪念限时活动 | 2025 Commemorative Limited-Time Event | スタンプラリー |
+| act49side | 辞岁行 | - | - |
 | act49sign | 六周年庆典签到活动 | Celebration Login Event | 大感謝祭スタンプ |
 | act4bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act4collection | 重返古堡 | Back to Castle | 再び古城へ |

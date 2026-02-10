@@ -178,6 +178,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_chen2_1 | 高压冲击 | High-Pressure Splash | 高圧ショット |
 | skchr_chen2_2 | “堇青之夜” | 'Night of Violet' | バイオレットナイト |
 | skchr_chen2_3 | “假日风暴” | 'Holiday Storm' | ホリデーストーム |
+| skchr_chen3_1 | 赤霄·奔夜 | - | - |
+| skchr_chen3_2 | 赤霄·绝影-驰 | - | - |
+| skchr_chen3_3 | 赤霄·天喟 | - | - |
 | skchr_chen_1 | 鞘击 | Sheathed Strike | 鞘打ち |
 | skchr_chen_2 | 赤霄·拔刀 | Chi Xiao - Unsheath | 赤霄・抜刀 |
 | skchr_chen_3 | 赤霄·绝影 | Chi Xiao - Shadowless | 赤霄・絶影 |
@@ -396,6 +399,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_jesca2_3 | 饱和迸射 | Saturation Burst | 飽和射撃 |
 | skchr_jesica_1 | 强力击·β型 | Power Strike β | 強撃β |
 | skchr_jesica_2 | 掩护烟幕 | Smokescreen | 煙幕 |
+| skchr_ju_1 | 良弓难张 | - | - |
+| skchr_ju_2 | 良翼难乘 | - | - |
 | skchr_judge_1 | 一锤定音 | Last Word | 裁決のガベル |
 | skchr_judge_2 | 坚心苦修 | Stoic Atonement | 確固たる決意 |
 | skchr_judge_3 | 披荆斩棘 | Trial of Thorns | 茨道を拓く |
@@ -735,6 +740,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_takila_2 | 剑走偏锋 | Esoteric Bladework | 極刃奇襲 |
 | skchr_talr_1 | 量衣尺 | Tailor's Measure | 採寸用メジャー |
 | skchr_talr_2 | 缝线缠身 | Lockstitch | 絡みつく縫い糸 |
+| skchr_taraxa_1 | 何处着 | - | - |
+| skchr_taraxa_2 | 扶风起 | - | - |
 | skchr_tecno_1 | 关节锁定 | Lockin' | 関節部補強 |
 | skchr_tecno_2 | 恣意挥洒 | Poppin' | 気ままなグラフィティ |
 | skchr_texas2_1 | 细雨无声 | Silent Drizzle | ピオヴィッジネ |
@@ -798,6 +805,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_vvana_3 | “明灭” | 'Flicker' | 「明滅」 |
 | skchr_waaifu_1 | 寸劲 | One-inch Punch | 寸勁 |
 | skchr_waaifu_2 | 七武掠阵踢 | Seven-styles Kick | 七武掠陣脚 |
+| skchr_wang_1 | 取势 | - | - |
+| skchr_wang_2 | 连星 | - | - |
+| skchr_wang_3 | 天下劫 | - | - |
 | skchr_wanqin_2 | 应东风 | Along the Easterlies | 応東風 |
 | skchr_warmy_1 | 炎炎火焰 | Burning Flames | ぱちぱち火花 |
 | skchr_warmy_2 | 滔滔热流 | Scorching Stream | めらめら焔 |
@@ -1446,6 +1456,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_stone | 阻挡路线 | Obstruct | 進路妨害 |
 | sktok_storm | 沙尘暴 | Sandstorm | 砂嵐 |
 | sktok_streasure | 宝刺伤人 | Dangerous Spike | 危険な棘 |
+| sktok_sunmao | 接 | - | - |
 | sktok_supctl_1 | 冷控处理 | - | - |
 | sktok_supplycard | 新遣 | Dispatch | 派遣 |
 | sktok_supspt | 天工夜行 | Master Who Walks the Night | 天工夜行 |
@@ -1463,6 +1474,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_tidectrl_2 | 大幅涨潮 | Large Rising Tide | 満ち潮 |
 | sktok_tidectrl_3 | 深水 | Deep Water | 「深水区域」 |
 | sktok_tileblock | 不可部署 | Deployment Forbidden | 配置不可 |
+| sktok_tjgsd | 取字 | - | - |
 | sktok_tnkspk | 反制装甲 | - | - |
 | sktok_tnkspka | 微型尖刺 | - | - |
 | sktok_tnkspkb | 维生监测 | - | - |
@@ -1492,6 +1504,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_vodfox_token | 诅咒娃娃 | Cursed Doll | 呪いの人形 |
 | sktok_vtarsn | 军工厂生产！ | Arms Factory Is A-Go! | 生産開始！ |
 | sktok_vultres | 诱人珍宝 | Alluring Treasures | 財宝のいざない |
+| sktok_wang_1 | 取势 | - | - |
+| sktok_wang_2 | 连星 | - | - |
+| sktok_wang_3 | 天下劫 | - | - |
 | sktok_wdescp | 建立通讯 | Establish Communication | 通信確立 |
 | sktok_wdfarm | 补给 | Resupply | 補給 |
 | sktok_weedy_token | 液氮大炮 | Liquid Nitrogen Cannon | LN2キャノン |

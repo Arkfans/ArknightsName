@@ -414,6 +414,18 @@ tip: 请善用浏览器的搜索功能
 | trap_272_nomstn | 阻道岩壁 | - | - |
 | trap_278_dyfgdd | 狭路相逢 | - | - |
 | trap_279_pirene | 喷泉水池 | - | - |
+| trap_285_tjggt | 山脊 | - | - |
+| trap_286_tjgsd | 书刀 | - | - |
+| trap_287_baizi | 断 | - | - |
+| trap_288_sunmao | 镇岁柱 | - | - |
+| trap_289_zicai | 财字 | - | - |
+| trap_290_zishi | 食字 | - | - |
+| trap_291_zibin | 兵字 | - | - |
+| trap_292_zishan | 山字 | - | - |
+| trap_293_suishan | 岁用山 | - | - |
+| trap_294_ziyou | 友字 | - | - |
+| trap_295_ziyin | 印字 | - | - |
+| trap_330_ycwang | 演出望 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |
 | trap_401_xbfato | 木材采集站 | Sawing Harvester Hub | 木材採取基地 |
 | trap_403_wfactory | 蟹蟹抽水泵 | Crabbie Pumpie | カニカニポンプ |

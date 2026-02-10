@@ -187,6 +187,9 @@
   "char_1047_halo2": {
     "zh_CN": "溯光星源"
   },
+  "char_1050_chen3": {
+    "zh_CN": "赤刃明霄陈"
+  },
   "char_106_franka": {
     "en_US": "Franka",
     "ja_JP": "フランカ",
@@ -556,6 +559,9 @@
     "en_US": "Yu",
     "ja_JP": "ユー",
     "zh_CN": "余"
+  },
+  "char_2027_wang": {
+    "zh_CN": "望"
   },
   "char_202_demkni": {
     "en_US": "Saria",
@@ -1704,6 +1710,12 @@
     "en_US": "La Pluma",
     "ja_JP": "ラ・プルマ",
     "zh_CN": "羽毛笔"
+  },
+  "char_4221_ju": {
+    "zh_CN": "矩"
+  },
+  "char_4222_taraxa": {
+    "zh_CN": "风絮"
   },
   "char_422_aurora": {
     "en_US": "Aurora",

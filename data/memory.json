@@ -751,6 +751,9 @@
     "ja_JP": "壊れない壁",
     "zh_CN": "南墙"
   },
+  "story_hmau_set_2_story_1": {
+    "zh_CN": "阴谋"
+  },
   "story_horn_set_1_story_1": {
     "en_US": "Solo",
     "ja_JP": "独奏曲",
@@ -828,6 +831,9 @@
     "en_US": "Justice Knight is Here For You!",
     "ja_JP": "あなたのお役に立つわ！",
     "zh_CN": "正义号竭诚为您服务！"
+  },
+  "story_ju_set_1_story_1": {
+    "zh_CN": "奇石"
   },
   "story_judge_set_1_story_1": {
     "en_US": "Under My Umbrella",
@@ -1663,6 +1669,9 @@
     "ja_JP": "武とは何ぞや",
     "zh_CN": "武为何物"
   },
+  "story_wang_set_1_story_1": {
+    "zh_CN": "终局"
+  },
   "story_wanqin_set_1_story_1": {
     "en_US": "Seeking Secrets",
     "ja_JP": "道を問う",
@@ -1711,6 +1720,9 @@
     "en_US": "Originium Slugs and Hops",
     "ja_JP": "オリジムシとホップ",
     "zh_CN": "源石虫与啤酒花"
+  },
+  "story_xingzh_set_1_story_1": {
+    "zh_CN": "回家"
   },
   "story_yak_set_1_story_1": {
     "en_US": "One Day",

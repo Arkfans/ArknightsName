@@ -687,6 +687,9 @@
     "ja_JP": "楽逍遥",
     "zh_CN": "乐逍遥"
   },
+  "char_2015_dusk@nian#12": {
+    "zh_CN": "青玉砚"
+  },
   "char_2015_dusk@nian#7": {
     "en_US": "Everything Is a Miracle",
     "ja_JP": "染塵煙",
@@ -707,6 +710,9 @@
     "ja_JP": "崖高く夢遠し",
     "zh_CN": "崖高梦远"
   },
+  "char_2023_ling@nian#12": {
+    "zh_CN": "方遒卷"
+  },
   "char_2023_ling@nian#9": {
     "en_US": "It Does Wash the Strings",
     "ja_JP": "濯冠纓",
@@ -726,6 +732,9 @@
     "en_US": "Spring Feast",
     "ja_JP": "春日宴",
     "zh_CN": "春日宴"
+  },
+  "char_2026_yu@nian#12": {
+    "zh_CN": "愿清晓"
   },
   "char_202_demkni@boc#1": {
     "en_US": "Stronghold",
@@ -1034,6 +1043,9 @@
     "en_US": "Frlibe on the Palace",
     "ja_JP": "翼広げしフレリーべ",
     "zh_CN": "殿堂上的游禽"
+  },
+  "char_275_breeze@unveiling#4": {
+    "zh_CN": "半甜草莓"
   },
   "char_277_sqrrel@ghost#1": {
     "en_US": "Cleansweeper in the Castle",
@@ -1605,6 +1617,9 @@
     "ja_JP": "運命の支配者",
     "zh_CN": "命运主宰"
   },
+  "char_4052_surfer@nian#12": {
+    "zh_CN": "共凭栏"
+  },
   "char_4054_malist@summer#14": {
     "en_US": "Holiday HDm74",
     "ja_JP": "ホリデーHDm74",
@@ -1892,6 +1907,9 @@
   "char_4147_mitm@breaker#1": {
     "zh_CN": "无影灯下"
   },
+  "char_4148_philae@nian#12": {
+    "zh_CN": "花绸曲"
+  },
   "char_4151_tinman@sale#11": {
     "en_US": "Phase Face",
     "ja_JP": "フェーズフェイス",
@@ -2031,6 +2049,9 @@
     "en_US": "Gift Uncompleted",
     "ja_JP": "未完成のギフト",
     "zh_CN": "未完成的礼物"
+  },
+  "char_452_bstalk@unveiling#4": {
+    "zh_CN": "红丝带之约"
   },
   "char_455_nothin@nian#7": {
     "en_US": "Pale Rising Moon",

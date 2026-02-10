@@ -784,6 +784,9 @@
   "LIMITED_TKT_GACHA_10_6701": {
     "zh_CN": "融雪流痕寻访凭证"
   },
+  "LIMITED_TKT_GACHA_10_7001": {
+    "zh_CN": "载月明归寻访凭证"
+  },
   "LIMITED_TKT_GACHA_10_903": {
     "en_US": "Awakening Commemoration Permit",
     "ja_JP": "1周年記念10回スカウト券",
@@ -921,6 +924,9 @@
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_6701": {
+    "zh_CN": "寻访数据契约"
+  },
+  "LMTGS_COIN_7001": {
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_903": {
@@ -1824,6 +1830,9 @@
   "act48side_token_ostracon": {
     "zh_CN": "投票用的陶片"
   },
+  "act49side_token_draft": {
+    "zh_CN": "未定稿"
+  },
   "act4bossrush_milestone_point": {
     "en_US": "Trial EXP",
     "ja_JP": "試練経験値",
@@ -2172,6 +2181,21 @@
     "en_US": "'Rhodes Island'",
     "ja_JP": "「ロドス・アイランド」",
     "zh_CN": "“罗德岛”"
+  },
+  "ap_supply_lt_100_2026_1": {
+    "zh_CN": "彩蛋糖豆捞"
+  },
+  "ap_supply_lt_100_2026_2": {
+    "zh_CN": "八味草花露"
+  },
+  "ap_supply_lt_100_2026_3": {
+    "zh_CN": "冷链雪鳞"
+  },
+  "ap_supply_lt_100_2026_4": {
+    "zh_CN": "黑白糯芋糕"
+  },
+  "ap_supply_lt_100_2026_5": {
+    "zh_CN": "手工宁神茶包"
   },
   "ap_supply_lt_120": {
     "en_US": "Emergency Sanity Concentrate",
@@ -3402,6 +3426,12 @@
   "itempack_gold_2": {
     "zh_CN": "精心准备的试饮套装"
   },
+  "itempack_leaf_def": {
+    "zh_CN": "特辑/罗德岛风尚"
+  },
+  "itempack_leaf_def2": {
+    "zh_CN": "特辑/流媒体"
+  },
   "itempack_main_1": {
     "en_US": "Rhodes Island Supply Crate",
     "ja_JP": "ロドス補給箱",
@@ -3462,6 +3492,24 @@
   },
   "itempack_recruit_1": {
     "zh_CN": "2025感谢庆典招聘补给"
+  },
+  "itempack_stickers_rog1": {
+    "zh_CN": "贴纸包/猩红孤钻"
+  },
+  "itempack_stickers_rog2": {
+    "zh_CN": "贴纸包/深蓝之树"
+  },
+  "itempack_stickers_rog3": {
+    "zh_CN": "贴纸包/银凇止境"
+  },
+  "itempack_stickers_rog4": {
+    "zh_CN": "贴纸包/无终奇语"
+  },
+  "itempack_stickers_rog5": {
+    "zh_CN": "贴纸包/界园志异"
+  },
+  "itempack_stickers_sand1": {
+    "zh_CN": "贴纸包/沙洲遗闻"
   },
   "main16_spitem_1": {
     "zh_CN": "暗淡的源石"
@@ -3707,6 +3755,9 @@
   },
   "p_char_1047_halo2": {
     "zh_CN": "溯光星源的信物"
+  },
+  "p_char_1050_chen3": {
+    "zh_CN": "赤刃明霄陈的信物"
   },
   "p_char_106_franka": {
     "en_US": "Franka's Token",
@@ -4072,6 +4123,9 @@
     "en_US": "Yu's Token",
     "ja_JP": "ユーの印",
     "zh_CN": "余的信物"
+  },
+  "p_char_2027_wang": {
+    "zh_CN": "望的信物"
   },
   "p_char_202_demkni": {
     "en_US": "Saria's Token",
@@ -5206,6 +5260,12 @@
     "ja_JP": "ラ・プルマの印",
     "zh_CN": "羽毛笔的信物"
   },
+  "p_char_4221_ju": {
+    "zh_CN": "矩的信物"
+  },
+  "p_char_4222_taraxa": {
+    "zh_CN": "风絮的信物"
+  },
   "p_char_422_aurora": {
     "en_US": "Aurora's Token",
     "ja_JP": "オーロラの印",
@@ -5623,6 +5683,9 @@
   },
   "randomMaterial_message1": {
     "zh_CN": "一号项目决定版"
+  },
+  "randomMaterial_message2": {
+    "zh_CN": "形制朴素的棋具"
   },
   "randomMaterial_rhine2": {
     "en_US": "Technological Investigation Supply",

@@ -159,6 +159,7 @@ tip: 请善用浏览器的搜索功能
 | story_helage_set_1_story_1 | 命途 | Fate | 命の行方 |
 | story_hibisc_set_1_story_1 | 良方 | The Best Cure | 良薬 |
 | story_hmau_set_1_story_1 | 南墙 | South Wall | 壊れない壁 |
+| story_hmau_set_2_story_1 | 阴谋 | - | - |
 | story_horn_set_1_story_1 | 独奏曲 | Solo | 独奏曲 |
 | story_hpsts_set_1_story_1 | 锻造 | Forging | 鍛造 |
 | story_hsguma_set_1_story_1 | 抉择过后 | - | - |
@@ -175,6 +176,7 @@ tip: 请善用浏览器的搜索功能
 | story_jesca2_set_1_story_1 | 徽章 | Insignia | 保安官バッジ |
 | story_jesica_set_1_story_1 | 缓步前行 | The Slow Walk Ahead | ゆっくり進む者 |
 | story_jnight_set_1_story_1 | 正义号竭诚为您服务！ | Justice Knight is Here For You! | あなたのお役に立つわ！ |
+| story_ju_set_1_story_1 | 奇石 | - | - |
 | story_judge_set_1_story_1 | 为你撑伞 | Under My Umbrella | あなたに傘を |
 | story_kafka_set_1_story_1 | 许以秘密 | Let's Keep That a Secret | 秘密を交わして |
 | story_kaitou_set_1_story_1 | 被折射的星光 | Refracted Starlight | 屈折した星光 |
@@ -349,6 +351,7 @@ tip: 请善用浏览器的搜索功能
 | story_vrdant_set_1_story_1 | 小草的呼喊 | Little Tuft, Where Art Thou? | 草木の叫び |
 | story_vvana_set_1_story_1 | 不写诗的诗人 | The Unpoetic Poet | 詩を詠まぬ詩人 |
 | story_waaifu_set_1_story_1 | 武为何物 | What Martial Arts Serve | 武とは何ぞや |
+| story_wang_set_1_story_1 | 终局 | - | - |
 | story_wanqin_set_1_story_1 | 问道 | Seeking Secrets | 道を問う |
 | story_warmy_set_1_story_1 | 未完的结局 | Unfinished Ending | 未完の結末 |
 | story_weedy_set_1_story_1 | 同舟 | Together Aboard | 同舟 |
@@ -360,6 +363,7 @@ tip: 请善用浏览器的搜索功能
 | story_wscoot_set_1_story_1 | 只待天明 | - | - |
 | story_wulfen_set_1_story_1 | 最后一次探险 | - | - |
 | story_wyvern_set_1_story_1 | 源石虫与啤酒花 | Originium Slugs and Hops | オリジムシとホップ |
+| story_xingzh_set_1_story_1 | 回家 | - | - |
 | story_yak_set_1_story_1 | 一天 | One Day | 一日 |
 | story_yu_set_1_story_1 | 百年一日 | A Hundred Years in Daily Steps | 百年一日 |
 | story_yuki_set_1_story_1 | 忍者之道 | The Way of Shinobi | 忍びの道 |

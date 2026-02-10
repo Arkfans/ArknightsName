@@ -1392,10 +1392,64 @@
   "enemy_10163_mnctur_2": {
     "zh_CN": "神勇的帕拉杜利斯"
   },
+  "enemy_10164_tjgxb": {
+    "zh_CN": "操戈"
+  },
+  "enemy_10164_tjgxb_2": {
+    "zh_CN": "操戈·凌"
+  },
+  "enemy_10165_tjggb": {
+    "zh_CN": "挽弓"
+  },
+  "enemy_10165_tjggb_2": {
+    "zh_CN": "挽弓·鸣"
+  },
+  "enemy_10166_tjgdlb": {
+    "zh_CN": "拔山"
+  },
+  "enemy_10166_tjgdlb_2": {
+    "zh_CN": "拔山·盖"
+  },
+  "enemy_10167_tjgsfj": {
+    "zh_CN": "挟潮"
+  },
+  "enemy_10167_tjgsfj_2": {
+    "zh_CN": "挟潮·来"
+  },
+  "enemy_10168_tjgly": {
+    "zh_CN": "浪里玄条"
+  },
+  "enemy_10168_tjgly_2": {
+    "zh_CN": "浪里玄条·锈"
+  },
+  "enemy_10169_tjgtsz": {
+    "zh_CN": "云中墨贼"
+  },
+  "enemy_10169_tjgtsz_2": {
+    "zh_CN": "云中墨贼·蚀"
+  },
   "enemy_1016_diaman": {
     "en_US": "Metal Crab",
     "ja_JP": "ハガネガニ",
     "zh_CN": "磐蟹"
+  },
+  "enemy_10170_wangz": {
+    "zh_CN": "霜劫"
+  },
+  "enemy_10170_wangz_2": {
+    "zh_CN": "霜劫·争"
+  },
+  "enemy_10171_ssttz": {
+    "zh_CN": "椿"
+  },
+  "enemy_10172_sheart": {
+    "zh_CN": "“未熄”"
+  },
+  "enemy_10173_tjgbsf": {
+    "zh_CN": "扶潮"
+  },
+  "enemy_10173_tjgbsf_2": {
+    "zh_CN": "扶潮·归"
   },
   "enemy_1017_defdrn": {
     "en_US": "Defender-4",
@@ -5773,6 +5827,18 @@
   "enemy_1581_mnchrs": {
     "zh_CN": "“无数的伊萨科斯”"
   },
+  "enemy_1582_suisho": {
+    "zh_CN": "岁"
+  },
+  "enemy_1583_suizzh": {
+    "zh_CN": "岁·左爪"
+  },
+  "enemy_1584_suiyzh": {
+    "zh_CN": "岁·右爪"
+  },
+  "enemy_1585_suiwei": {
+    "zh_CN": "岁·尾"
+  },
   "enemy_18001_lhship": {
     "zh_CN": "运输汽艇"
   },
@@ -6407,6 +6473,15 @@
   },
   "enemy_3011_dyegrd": {
     "zh_CN": "“皇帝的利刃”，折戟者"
+  },
+  "enemy_3012_tjgcb": {
+    "zh_CN": "饷事"
+  },
+  "enemy_3013_tjglb": {
+    "zh_CN": "炊事"
+  },
+  "enemy_3014_wangw": {
+    "zh_CN": "“执白者”"
   },
   "enemy_4001_toxcar": {
     "en_US": "Retrofitted Gastruck",

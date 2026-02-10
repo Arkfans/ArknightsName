@@ -56,6 +56,9 @@ tip: 请善用浏览器的搜索功能
 | avg_1045_svash2_1 | 恩希欧迪斯 | - | - |
 | avg_1046_sbell2_1 | 恩雅 | - | - |
 | avg_1047_halo2_1 | 埃琳娜 | - | - |
+| avg_1050_chen3_1 | 陈 | - | - |
+|   | 陈昭芊&陈 |   |   |
+|   | 陈晖洁 |   |   |
 | avg_106_franka_1 | 芙兰卡 | Franka | フランカ |
 | avg_107_liskam_1 | 雷蛇 | Liskarm | リスカム |
 | avg_108_silent_1 | 市民？ | Citizen? | サイレンス |
@@ -136,6 +139,8 @@ tip: 请善用浏览器的搜索功能
 |   | 小厨子 | Young Chef | 小さな料理長 |
 |   | 小大厨 | Yu | 短気な少年 |
 |   | 暴躁的少年 |   |   |
+|   | 老姜 |   |   |
+| avg_2027_wang_1 | 望 | - | - |
 | avg_202_demkni_1 | 塞雷娅 | Saria | サリア |
 | avg_206_gnosis_1 | 诺希斯 | Gnosis | ノーシス |
 | avg_212_ansel_1 | 安赛尔 | Ansel | アンセル |
@@ -340,6 +345,7 @@ tip: 请善用浏览器的搜索功能
 |   | 禾生 | Nongye Tianshi Apprentice | 素朴な少年 |
 |   | 质朴的少年 | Rustic Youth | 農業天師見習い |
 | avg_4121_zuole_1 | 左乐 | Zuo Le | ズオ・ラウ |
+|   | 陈&梁洵&左乐 |   |   |
 | avg_4122_grabds_1 | 小满 | Girl Passing By | やんちゃな少女 |
 |   | 路过的小姑娘 | Grain Buds | シャオマン |
 |   | 顽皮的少女 | Mischievous Girl | 通りすがりの少女 |
@@ -449,6 +455,8 @@ tip: 请善用浏览器的搜索功能
 |   | 费尔南 |   |   |
 | avg_421_crow_1 | 羽毛笔 | La Pluma | ラ・プルマ |
 | avg_421_laplum_1 | 拉菲艾拉 | Rafaela | ラファエラ |
+| avg_4221_ju_1 | 样貌奇特的工匠 | - | - |
+|   | 矩 |   |   |
 | avg_422_aurora_1 | 极光 | Aurora | オーロラ |
 | avg_426_billro_1 | 卡涅利安 | Carnelian | カーネリアン |
 | avg_426_carnli_1 | 卡涅利安 | Carnelian | カーネリアン |
@@ -1955,26 +1963,30 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_140 | 二师兄 | Agitated Villager | グイ |
 |   | 农人 | Angry Villager | 一番弟子 |
 |   | 受惊的农民 | Busy Farmer | 二番弟子 |
-|   | 大师兄 | Excavator | 山を掘る者 |
-|   | 忙碌的农民 | Farmer | 張り詰めた村人 |
-|   | 愤怒的帮众 | First Apprentice | 忙しい農家 |
-|   | 愤怒的村民 | Frenetic Villager | 慌てる村人 |
-|   | 慌乱的村民 | Gui | 村人 |
-|   | 挖山人 | Humble Worker | 激怒する村人 |
-|   | 掌柜 | Innkeeper | 町民 |
-|   | 朴实的工人 | Nervous Villager | 町民B |
-|   | 村民 | Passing Villager A | 畑を耕す村人 |
-|   | 村民乙 | Plowing Villager | 番頭 |
-|   | 激动的村民 | Proprietor | 石匠 |
-|   | 热情的农人 | Rough Villager | 粗暴な町民 |
-|   | 疲惫的农人 | Second Apprentice | 素朴な労働者 |
-|   | 石匠 | Stonemason | 興奮する村人 |
-|   | 粗犷的村民 | Street Stall Owner | 警戒した町民 |
-|   | 紧张的村民 | Terrified Farmer | 農民 |
-|   | 耕作的村民 | Townsfolk | 通りすがりの村人A |
-|   | 街边摊老板 | Vigilant Villager | 露店の店主 |
-|   | 警惕的村民 | Villager | 驚く農家 |
-|   | 路过的村民A | Villager B |   |
+|   | 困惑的山民 | Excavator | 山を掘る者 |
+|   | 大师兄 | Farmer | 張り詰めた村人 |
+|   | 忙碌的农民 | First Apprentice | 忙しい農家 |
+|   | 愤怒的帮众 | Frenetic Villager | 慌てる村人 |
+|   | 愤怒的村民 | Gui | 村人 |
+|   | 慌乱的村民 | Humble Worker | 激怒する村人 |
+|   | 挖山人 | Innkeeper | 町民 |
+|   | 掌柜 | Nervous Villager | 町民B |
+|   | 朴实的工人 | Passing Villager A | 畑を耕す村人 |
+|   | 朴实的樵夫 | Plowing Villager | 番頭 |
+|   | 朴实的樵夫？ | Proprietor | 石匠 |
+|   | 村民 | Rough Villager | 粗暴な町民 |
+|   | 村民乙 | Second Apprentice | 素朴な労働者 |
+|   | 激动的村民 | Stonemason | 興奮する村人 |
+|   | 热情的农人 | Street Stall Owner | 警戒した町民 |
+|   | 疲惫的农人 | Terrified Farmer | 農民 |
+|   | 石匠 | Townsfolk | 通りすがりの村人A |
+|   | 粗犷的村民 | Vigilant Villager | 露店の店主 |
+|   | 紧张的村民 | Villager | 驚く農家 |
+|   | 老木头 | Villager B |   |
+|   | 耕作的村民 |   |   |
+|   | 街边摊老板 |   |   |
+|   | 警惕的村民 |   |   |
+|   | 路过的村民A |   |   |
 |   | 镇民 |   |   |
 |   | 阿贵 |   |   |
 | avg_npc_1400_1 | 军团长官 | Legion Commander | 軍団長官 |
@@ -1995,7 +2007,9 @@ tip: 请善用浏览器的搜索功能
 |   | 震惊的村民 |   |   |
 | avg_npc_142 | 孩子 | Child | 女の子 |
 |   | 小女孩 | Little Girl | 子供 |
-|   | 生病小孩 | Sickly Child | 病気の子供 |
+|   | 小木头 | Sickly Child | 病気の子供 |
+|   | 懵懂的女孩 |   |   |
+|   | 生病小孩 |   |   |
 | avg_npc_1422_1 | 阿咬 | 'Bitey' | クヒツム |
 | avg_npc_1424_1 | 刻俄柏？ | Ceobe? | ケオベ？ |
 | avg_npc_1425_1 | 偷闲 | 'Lazy' | のんびりした墨魎 |
@@ -2264,11 +2278,14 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_1622_1 | 意气风发的青年 | Diligent Student | 真面目な学生 |
 |   | 认真的学生 |   |   |
 | avg_npc_1625_1 | 温雅的女子 | - | - |
+|   | 认真的学生 |   |   |
 | avg_npc_1626_1 | 天师学徒 | - | - |
+|   | 惊慌的学生 |   |   |
 |   | 陌生少年 |   |   |
 | avg_npc_1627_1 | 受冻的书生 | Freezing Scholar | 寒さに震える書生 |
 |   | 洛勤 |   |   |
 | avg_npc_1628_1 | 谨慎的学生 | Cautious Student | 慎重な学生 |
+| avg_npc_1629_1 | 兴奋的游客 | - | - |
 | avg_npc_163 | “访客05” | Anum | アイマラ |
 |   | 冷静的女性 | Calm Woman | アナム |
 |   | 商队头领 | Caravan Head | キャラバンのリーダー |
@@ -2282,19 +2299,33 @@ tip: 请善用浏览器的搜索功能
 |   | 路过的萨尔贡镇民 |   |   |
 |   | 阿依莎 |   |   |
 |   | 阿诺 |   |   |
-| avg_npc_1630_1 | 大理寺司狱官 | Brocade-Robed Mandarin | 大理寺司官吏 |
-|   | 大理寺官员 | Exhausted Judicial Official | 大理寺司獄官 |
-|   | 失落的中年人 | Judicial Jailer | 疲弊した大理寺官吏 |
-|   | 疲惫的大理寺官员 | Judicial Officer | 錦袍の男 |
+| avg_npc_1630_1 | 困惑的守卫 | Brocade-Robed Mandarin | 大理寺司官吏 |
+|   | 大理寺司狱官 | Exhausted Judicial Official | 大理寺司獄官 |
+|   | 大理寺官员 | Judicial Jailer | 疲弊した大理寺官吏 |
+|   | 失落的中年人 | Judicial Officer | 錦袍の男 |
+|   | 工部官员 |   |   |
+|   | 爱民如子的言官？ |   |   |
+|   | 疲惫的大理寺官员 |   |   |
 |   | 矜持的男人 |   |   |
 |   | 锦袍人 |   |   |
 | avg_npc_1631_1 | 大理寺官员A | Baizao Lecturer | 大理寺官吏A |
-|   | 百灶学宫讲师 | Judicial Officer A | 百灶学宮講師 |
+|   | 天镜阁研究馆员 | Judicial Officer A | 百灶学宮講師 |
+|   | 疲惫的吏员 |   |   |
+|   | 百灶学宫讲师 |   |   |
 | avg_npc_1632_1 | 严肃的大理寺官员 | Judicial Officer B | 大理寺官吏B |
-|   | 司岁台访客 | Nervous Mandarin | 慌てる官吏 |
-|   | 大理寺官员B | Stern Judicial Official | 真面目な大理寺官吏 |
+|   | 严肃的炎国官员 | Nervous Mandarin | 慌てる官吏 |
+|   | 严肃的炎国官员？ | Stern Judicial Official | 真面目な大理寺官吏 |
+|   | 司岁台访客 |   |   |
+|   | 大理寺官员B |   |   |
+|   | 工部官员 |   |   |
 |   | 慌乱的官员 |   |   |
-| avg_npc_1633_1 | 沉稳的官员 | Calm Mandarin | 落ち着いた官吏 |
+|   | 疑虑的工部官员 |   |   |
+|   | 监军御史 |   |   |
+|   | 礼部官员 |   |   |
+| avg_npc_1633_1 | 大理寺官员 | Calm Mandarin | 落ち着いた官吏 |
+|   | 沉稳的官员 |   |   |
+|   | 着急的工部官员 |   |   |
+|   | 耳目灵通的高官？ |   |   |
 | avg_npc_1634_1 | 禁军 | Imperial Guard | 禁軍 |
 | avg_npc_1635_1 | 严厉的考官 | Flustered Chef | のんびりした料理人 |
 |   | 悠闲的厨师 | Laidback Chef | リーダーの料理人 |
@@ -2304,18 +2335,32 @@ tip: 请善用浏览器的搜索功能
 |   | 粗心大意的厨师 | Careless Chef | 不注意な料理人 |
 |   | 资深厨师 | Ding Feng Lou Chef | 退屈そうな料理人 |
 |   | 鼎丰楼厨师 | Veteran Chef | 鼎豊楼料理人 |
-| avg_npc_1637_1 | 卫兵 | Guard A | 巡回する守備軍 |
-|   | 卫兵A | Guard B | 巡回する衛兵 |
-|   | 卫兵B | Guard Chief | 百人隊長 |
-|   | 巡逻的卫兵 | Patrolling Guardsman | 衛兵 |
-|   | 巡逻的守军 | Patrolling Soldier | 衛兵A |
-|   | 百夫长 | Soldier | 衛兵B |
+| avg_npc_1637_1 | 传令兵 | Guard A | 巡回する守備軍 |
+|   | 卫兵 | Guard B | 巡回する衛兵 |
+|   | 卫兵A | Guard Chief | 百人隊長 |
+|   | 卫兵B | Patrolling Guardsman | 衛兵 |
+|   | 巡逻的卫兵 | Patrolling Soldier | 衛兵A |
+|   | 巡逻的守军 | Soldier | 衛兵B |
+|   | 巡防营哨官 |   |   |
+|   | 巡防营守卫 |   |   |
+|   | 惶恐不安的守军 |   |   |
+|   | 焦虑的守军 |   |   |
+|   | 疲惫的守军 |   |   |
+|   | 百夫长 |   |   |
+|   | 百灶守军 |   |   |
+|   | 筋疲力尽的守军 |   |   |
+|   | 筋疲力竭的守军 |   |   |
+|   | 紧张的巡防营守卫 |   |   |
+|   | 警惕的巡防营守卫 |   |   |
 | avg_npc_1638_1 | 礼貌的先生 | - | - |
 |   | 笑盈盈的路人 |   |   |
 | avg_npc_1639_1 | 受伤的老人 | Old Beggar | 料理屋の常連客 |
-|   | 管家 | Regular Customer | 老いた物乞い |
+|   | 当铺老板 | Regular Customer | 老いた物乞い |
+|   | 怪异的男人 |   |   |
+|   | 管家 |   |   |
 |   | 老乞丐 |   |   |
 |   | 老洛 |   |   |
+|   | 邻镇的老汉 |   |   |
 |   | 陈锈清 |   |   |
 |   | 饭馆的熟客 |   |   |
 | avg_npc_164 | 傲慢的商人 | Arrogant Merchant | だらしない兵士 |
@@ -2333,9 +2378,11 @@ tip: 请善用浏览器的搜索功能
 |   | 黑市商人 |   |   |
 | avg_npc_1640_1 | 玉门军医 | - | - |
 | avg_npc_1641_1 | 文姨 | - | - |
+|   | 老镇长 |   |   |
 | avg_npc_1642_1 | 小洛 | - | - |
 |   | 张扬的孩童 |   |   |
 |   | 得意的小孩 |   |   |
+|   | 无助的少年 |   |   |
 |   | 顽皮的小孩 |   |   |
 |   | 顽童 |   |   |
 | avg_npc_1643_1 | 山中小童 | Girl in the Mountains | 山中の童子 |
@@ -2644,7 +2691,8 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_1872_1 | “白锦” | - | - |
 | avg_npc_1873_1 | 彷徨的姑娘 | - | - |
 |   | 白锦 |   |   |
-| avg_npc_1874_1 | 胡君 | - | - |
+| avg_npc_1874_1 | 慌乱的镇民 | - | - |
+|   | 胡君 |   |   |
 | avg_npc_188 | 焦急的居民 | Anxious Inhabitant | 苛立つ住民 |
 | avg_npc_189 | 修道院居民 | Distressed Townsperson | 住民B |
 |   | 居民B | Male Inhabitant D | 修道院住民 |
@@ -2993,10 +3041,33 @@ tip: 请善用浏览器的搜索功能
 |   | 罗素 | Russell |   |
 | avg_npc_211_1 | 发言人马克维茨 | Malkiewicz | マルキェヴィッチ |
 |   | 马克维茨 | Spokesman Malkiewicz | 代弁者マルキェヴィッチ |
+| avg_npc_2125_1 | 椿 | - | - |
+|   | 颉 |   |   |
+| avg_npc_2126_1 | 均 | - | - |
+|   | 气韵端庄的女子 |   |   |
+| avg_npc_2127_1 | 寡言的秉烛人 | - | - |
+|   | 椿 |   |   |
+| avg_npc_2128_1 | 冷漠的女性 | - | - |
+|   | 陈昭芊 |   |   |
+| avg_npc_2129_1 | 岁 | - | - |
+|   | 岁？ |   |   |
+|   | 望？ |   |   |
 | avg_npc_212_1 | 发言人麦基 | McKee | マッキー |
 |   | 麦基 | Spokesman McKee | 代弁者マッキー |
 | avg_npc_213 | 瑟丽斯夫人 | Mrs. Selis | シアーシャ |
 |   | 西尔莎 | Saoirse | セリス夫人 |
+| avg_npc_2130_1 | 风絮 | - | - |
+| avg_npc_2131_1 | 后 | - | - |
+|   | 衣着朴素的老者 |   |   |
+| avg_npc_2132_1 | 真龙 | - | - |
+|   | 阴影中的人 |   |   |
+| avg_npc_2133_1 | 受宠若惊的士兵 | - | - |
+|   | 大炎边军 |   |   |
+| avg_npc_2134_1 | 力竭的秉烛人 | - | - |
+|   | 巡视的秉烛人 |   |   |
+|   | 覆面的秉烛人 |   |   |
+| avg_npc_2136_1 | 炎国士兵 | - | - |
+|   | 边疆守军 |   |   |
 | avg_npc_213_1 | 托兰 | Toland | トーランド |
 | avg_npc_214_1 | 狄开俄波利斯 | Dikaiopolis | ディカイオポリス |
 |   | 血骑士 | The Blood Knight | 血騎士 |
@@ -3053,30 +3124,32 @@ tip: 请善用浏览器的搜索功能
 |   | 人事部员工 | An Arena Worker | カジミエーシュ新聞編集長 |
 |   | 企业员工 | Angry Ambassador | カランド貿易職員 |
 |   | 公诉人 | Chang | クライアント代表 |
-|   | 办公室职员 | Commercial Agent | シティホール職員 |
-|   | 卡西米尔代表 | Corporate Employee | ジャン |
-|   | 卡西米尔报业主编 | Customer Representative | スタッフ |
-|   | 哈姆 | HR Employee | スーツ姿の男 |
-|   | 商业间谍 | Hamm | ナビゲーター |
-|   | 喀兰贸易员工 | Haughty Official | ハム |
-|   | 国民院代表 | Karlan Trade Employee | ベテラン編集者 |
-|   | 客户方代表 | Kazimierz Representative | マネージャー |
-|   | 工作人员 | Kazimierzian Editor-in-Chief | レイジアン工業代表 |
-|   | 张先生 | Man in a Suit | 人事部職員 |
-|   | 愤慨的使节 | Manager | 企業職員 |
-|   | 投资人 | Mayor's Secretary | 傲慢な役人 |
-|   | 神秘的访客 | National Council Representative | 商業スパイ |
-|   | 秘书 | Navigator | 国民議会代表 |
-|   | 竞技场员工 | Office Clerk | 地味な男性 |
-|   | 红酒报资深编辑 | Prosecutor | 怒った使節 |
-|   | 经纪人 | Raythean Industries Representative | 検察 |
-|   | 职员模样的男人 | Red Wine Senior Editor | 町長秘書 |
-|   | 西装革履的男人 | Secretary | 真面目な企業職員 |
-|   | 认真的企业员工 | Serious Corporate Employee | 秘書 |
-|   | 议员助理 | Staff | 競技場職員 |
-|   | 记者 | Staff Worker | 職員のような男 |
-|   | 镇长秘书 | Travel-Stained Lawyer | 長旅で疲弊した弁護士 |
-|   | 雷神工业代表 | Unremarkable Man |   |
+|   | 刘先生 | Commercial Agent | シティホール職員 |
+|   | 办公室职员 | Corporate Employee | ジャン |
+|   | 卡西米尔代表 | Customer Representative | スタッフ |
+|   | 卡西米尔报业主编 | HR Employee | スーツ姿の男 |
+|   | 哈姆 | Hamm | ナビゲーター |
+|   | 商业间谍 | Haughty Official | ハム |
+|   | 喀兰贸易员工 | Karlan Trade Employee | ベテラン編集者 |
+|   | 国民院代表 | Kazimierz Representative | マネージャー |
+|   | 客户方代表 | Kazimierzian Editor-in-Chief | レイジアン工業代表 |
+|   | 工作人员 | Man in a Suit | 人事部職員 |
+|   | 张先生 | Manager | 企業職員 |
+|   | 愤慨的使节 | Mayor's Secretary | 傲慢な役人 |
+|   | 慌张的男人 | National Council Representative | 商業スパイ |
+|   | 投资人 | Navigator | 国民議会代表 |
+|   | 神秘的访客 | Office Clerk | 地味な男性 |
+|   | 秘书 | Prosecutor | 怒った使節 |
+|   | 竞技场员工 | Raythean Industries Representative | 検察 |
+|   | 红酒报资深编辑 | Red Wine Senior Editor | 町長秘書 |
+|   | 经纪人 | Secretary | 真面目な企業職員 |
+|   | 职员模样的男人 | Serious Corporate Employee | 秘書 |
+|   | 西装革履的男人 | Staff | 競技場職員 |
+|   | 认真的企业员工 | Staff Worker | 職員のような男 |
+|   | 议员助理 | Travel-Stained Lawyer | 長旅で疲弊した弁護士 |
+|   | 记者 | Unremarkable Man |   |
+|   | 镇长秘书 |   |   |
+|   | 雷神工业代表 |   |   |
 |   | 领航员 |   |   |
 |   | 风尘仆仆的律师 |   |   |
 |   | 高傲的官员 |   |   |
@@ -3103,16 +3176,17 @@ tip: 请善用浏览器的搜索功能
 |   | 政府官员 | Professor's Assistant | 現地の役人 |
 |   | 教授助理 | Rafał | 男性 |
 |   | 无聊的银行员工 | Red Wine Intern Journalist | 疲労した企業職員 |
-|   | 男生 | Researcher | 研究員 |
-|   | 疲倦的企业员工 | Retained Lawyer | 職員 |
-|   | 研究员 | Snobby Official | 若手投資家 |
-|   | 礼仪社员工 | Staff Worker | 見習い記者 |
-|   | 穿制服的工作人员 | Technician | 記者らしき男 |
-|   | 粗心的社工 | Tired Corporate Employee | 退屈そうな銀行員 |
-|   | 红酒报实习记者 | Uniformed Worker | 通報者 |
-|   | 线人 | Witness | 銀行員 |
-|   | 艺术馆工作人员 |   | 雇われ弁護士 |
-|   | 记者模样的人 |   | 騎士スカウト |
+|   | 王先生 | Researcher | 研究員 |
+|   | 男生 | Retained Lawyer | 職員 |
+|   | 疲倦的企业员工 | Snobby Official | 若手投資家 |
+|   | 研究员 | Staff Worker | 見習い記者 |
+|   | 礼仪社员工 | Technician | 記者らしき男 |
+|   | 穿制服的工作人员 | Tired Corporate Employee | 退屈そうな銀行員 |
+|   | 粗心的社工 | Uniformed Worker | 通報者 |
+|   | 红酒报实习记者 | Witness | 銀行員 |
+|   | 线人 |   | 雇われ弁護士 |
+|   | 艺术馆工作人员 |   | 騎士スカウト |
+|   | 记者模样的人 |   |   |
 |   | 银行员工 |   |   |
 |   | 骑探 |   |   |
 | avg_npc_224 | “银枪的天马” | 'A Silverlance Pegasus' | 「銀槍のペガサス」 |
@@ -3470,6 +3544,8 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_295_1 | 不苟言笑的男子 | Liang Xun | リャン・シュン |
 |   | 梁洵 | Liang Xun? | リャン・シュン？ |
 |   | 梁洵？ | Unfrivolous Man | 仏頂面の男 |
+|   | 陈昭芊&梁洵 |   |   |
+|   | 陈昭芊&陈&梁洵 |   |   |
 | avg_npc_296_1 | 杜小姐 | Du Yaoye | ドゥ |
 |   | 杜遥夜 | Miss Du |   |
 | avg_npc_297_1 | 左乐 | Zuo Le | ズオ・ラウ |
@@ -4468,29 +4544,33 @@ tip: 请善用浏览器的搜索功能
 |   | 录武官 |   |   |
 | avg_npc_792_1 | 萨尔贡打扮的游客 | Tourist in Sargon Garb | サルゴン風の服を着た人 |
 | avg_npc_793_1 | 山海众头目 | Shanhaizhong Ringleader | 山海衆頭目 |
-| avg_npc_794_1 | 冷酷的山海众成员 | Alert Shanhaizhong Member | 冷酷な山海衆メンバー |
-|   | 凶狠的山海众成员 | Anxious Shanhaizhong Member | 冷静な山海衆メンバー |
-|   | 山海众成员 | Calm Shanhaizhong Member | 凶悪な山海衆メンバー |
-|   | 惊慌的山海众成员 | Cold Shanhaizhong Member | 山海衆メンバー |
-|   | 慌张的山海众成员 | Greedy Shanhaizhong Member | 恐ろしい山海衆メンバー |
-|   | 机警的山海众成员 | Malicious Shanhaizhong Member | 慌てる山海衆メンバー |
-|   | 来历不明的凶徒 | Mysterious Criminal | 機敏な山海衆メンバー |
-|   | 着急的山海众成员 | Ominous Shanhaizhong Member | 正体不明の暴徒 |
-|   | 贪婪的山海众成员 | Panicked Shanhaizhong Member | 焦る山海衆メンバー |
-|   | 镇静的山海众成员 | Restless Shanhaizhong Member | 貪欲な山海衆メンバー |
-|   | 阴险的山海众成员 | Shanhaizhong Member | 陰険な山海衆メンバー |
-|   | 阴鸷的山海众成员 | Vicious Shanhaizhong Member |   |
+| avg_npc_794_1 | 决绝的山海众成员 | Alert Shanhaizhong Member | 冷酷な山海衆メンバー |
+|   | 冷酷的山海众成员 | Anxious Shanhaizhong Member | 冷静な山海衆メンバー |
+|   | 凶狠的山海众成员 | Calm Shanhaizhong Member | 凶悪な山海衆メンバー |
+|   | 山海众成员 | Cold Shanhaizhong Member | 山海衆メンバー |
+|   | 惊慌的山海众成员 | Greedy Shanhaizhong Member | 恐ろしい山海衆メンバー |
+|   | 慌张的山海众成员 | Malicious Shanhaizhong Member | 慌てる山海衆メンバー |
+|   | 机警的山海众成员 | Mysterious Criminal | 機敏な山海衆メンバー |
+|   | 来历不明的凶徒 | Ominous Shanhaizhong Member | 正体不明の暴徒 |
+|   | 着急的山海众成员 | Panicked Shanhaizhong Member | 焦る山海衆メンバー |
+|   | 贪婪的山海众成员 | Restless Shanhaizhong Member | 貪欲な山海衆メンバー |
+|   | 镇静的山海众成员 | Shanhaizhong Member | 陰険な山海衆メンバー |
+|   | 阴险的山海众成员 | Vicious Shanhaizhong Member |   |
+|   | 阴鸷的山海众成员 |   |   |
 | avg_npc_795_1 | 千夫长 | Millenion | 千人隊長 |
 |   | 巡防营守军 | Patrol Battalion Soldier | 巡防営守備軍 |
 |   | 巡防营守军A | Patrol Battalion Soldier A | 巡防営守備軍A |
-|   | 玉门守军 | Yumen Sentry A | 玉門守備軍A |
+|   | 左乐 | Yumen Sentry A | 玉門守備軍A |
+|   | 焦躁不安的士兵 |   |   |
+|   | 玉门守军 |   |   |
 |   | 玉门守军A |   |   |
 |   | 玉门尉官 |   |   |
-| avg_npc_796_1 | 巡防营守军 | Centurion | 巡防営守備軍 |
-|   | 巡防营守军B | Patrol Battalion Soldier | 巡防営守備軍B |
-|   | 玉门守军 | Patrol Battalion Soldier B | 玉門守備軍 |
-|   | 玉门守军B | Yumen Sentry | 玉門守備軍B |
-|   | 百夫长 | Yumen Sentry B | 百人隊長 |
+| avg_npc_796_1 | 传令兵 | Centurion | 巡防営守備軍 |
+|   | 巡防营守军 | Patrol Battalion Soldier | 巡防営守備軍B |
+|   | 巡防营守军B | Patrol Battalion Soldier B | 玉門守備軍 |
+|   | 玉门守军 | Yumen Sentry | 玉門守備軍B |
+|   | 玉门守军B | Yumen Sentry B | 百人隊長 |
+|   | 百夫长 |   |   |
 | avg_npc_797_1 | 仓库看守 | Aggressive Villager | 付近の遊侠 |
 |   | 伙计 | Angry Villager | 倉庫の見張り |
 |   | 愁苦的村民 | Anxious Villager | 宿屋の店員 |
@@ -4526,8 +4606,10 @@ tip: 请善用浏览器的搜索功能
 |   | 荆先生 | Mr. Ruan | 疲弊した男性 |
 |   | 近卫局成员 | Retired Soldier | 苛立たしげな村人 |
 |   | 返乡的路人 | Senior Villager | 落ち込んだ武人 |
-|   | 退役的军士 | Villager | 近衛局隊員 |
-|   | 阮先生 | Well-Traveled Man | 退役した兵士 |
+|   | 远游归来的货郎 | Villager | 近衛局隊員 |
+|   | 退役的军士 | Well-Traveled Man | 退役した兵士 |
+|   | 退役的士兵 |   |   |
+|   | 阮先生 |   |   |
 |   | 风尘仆仆的男性 |   |   |
 | avg_npc_800_1 | 谛兽 | Di Beast | 見た目の恐ろしい生物 |
 |   | 长相凶狠的生物 | Fierce Animal | 諦獣 |
@@ -4856,21 +4938,21 @@ tip: 请善用浏览器的搜索功能
 | char_014_riope | Ace | Ace | Ace |
 | char_015_lmg | 兵俑 | Exhausted L.G.D. Officer | ジン警官 |
 |   | 循兽训练员 | Frivolous L.G.D. Officer | ベテラン近衛局員 |
-|   | 疲惫的近卫局成员 | Guard | 幻影兵 |
-|   | 警员 | L. G. D. Officer | 疲弊した近衛局局員 |
-|   | 警员A | L. G. D. Operator | 真面目な近衛局隊員 |
-|   | 警员B | L.G.D. Agent | 警員A |
-|   | 认真的近卫局成员 | L.G.D. Officer | 警員B |
-|   | 资深近卫局成员 | L.G.D. Officer A | 警察官 |
-|   | 轻浮的近卫局成员 | L.G.D. Officer B | 軽薄な近衛局隊員 |
-|   | 近卫局成员 | L.G.D. Officer? | 近衛局の警官 |
-|   | 近卫局成员A | L.G.D. Supervisor | 近衛局員 |
-|   | 近卫局成员B | Officer Kam | 近衛局局員 |
-|   | 近卫局成员？ | Policeman A | 近衛局局員A |
-|   | 近卫局警官 | Policeman B | 近衛局局員B |
-|   | 近卫局队员 | Senior L.G.D. Officer | 近衛局隊員 |
-|   | 金警官 | Serious L.G.D. Officer | 近衛局隊員A |
-|   |   | Terracotta | 近衛局隊員？ |
+|   | 执勤的近卫局成员 | Guard | 幻影兵 |
+|   | 疲惫的近卫局成员 | L. G. D. Officer | 疲弊した近衛局局員 |
+|   | 警员 | L. G. D. Operator | 真面目な近衛局隊員 |
+|   | 警员A | L.G.D. Agent | 警員A |
+|   | 警员B | L.G.D. Officer | 警員B |
+|   | 认真的近卫局成员 | L.G.D. Officer A | 警察官 |
+|   | 资深近卫局成员 | L.G.D. Officer B | 軽薄な近衛局隊員 |
+|   | 轻浮的近卫局成员 | L.G.D. Officer? | 近衛局の警官 |
+|   | 近卫局成员 | L.G.D. Supervisor | 近衛局員 |
+|   | 近卫局成员A | Officer Kam | 近衛局局員 |
+|   | 近卫局成员B | Policeman A | 近衛局局員A |
+|   | 近卫局成员？ | Policeman B | 近衛局局員B |
+|   | 近卫局警官 | Senior L.G.D. Officer | 近衛局隊員 |
+|   | 近卫局队员 | Serious L.G.D. Officer | 近衛局隊員A |
+|   | 金警官 | Terracotta | 近衛局隊員？ |
 | char_016_medic | Medic | Frantic HR Operator | Medic |
 |   | 人事干员 | HR Operator | オペレーター |
 |   | 人事部干员 | Human Resources Operator | ミーナ |

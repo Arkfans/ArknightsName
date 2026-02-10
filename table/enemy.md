@@ -325,7 +325,25 @@ tip: 请善用浏览器的搜索功能
 | enemy_10162_mnctpt_2 | 翻新投石机 | - | - |
 | enemy_10163_mnctur | 帕拉杜利斯 | - | - |
 | enemy_10163_mnctur_2 | 神勇的帕拉杜利斯 | - | - |
+| enemy_10164_tjgxb | 操戈 | - | - |
+| enemy_10164_tjgxb_2 | 操戈·凌 | - | - |
+| enemy_10165_tjggb | 挽弓 | - | - |
+| enemy_10165_tjggb_2 | 挽弓·鸣 | - | - |
+| enemy_10166_tjgdlb | 拔山 | - | - |
+| enemy_10166_tjgdlb_2 | 拔山·盖 | - | - |
+| enemy_10167_tjgsfj | 挟潮 | - | - |
+| enemy_10167_tjgsfj_2 | 挟潮·来 | - | - |
+| enemy_10168_tjgly | 浪里玄条 | - | - |
+| enemy_10168_tjgly_2 | 浪里玄条·锈 | - | - |
+| enemy_10169_tjgtsz | 云中墨贼 | - | - |
+| enemy_10169_tjgtsz_2 | 云中墨贼·蚀 | - | - |
 | enemy_1016_diaman | 磐蟹 | Metal Crab | ハガネガニ |
+| enemy_10170_wangz | 霜劫 | - | - |
+| enemy_10170_wangz_2 | 霜劫·争 | - | - |
+| enemy_10171_ssttz | 椿 | - | - |
+| enemy_10172_sheart | “未熄” | - | - |
+| enemy_10173_tjgbsf | 扶潮 | - | - |
+| enemy_10173_tjgbsf_2 | 扶潮·归 | - | - |
 | enemy_1017_defdrn | 御4 | Defender-4 | Mvc4 |
 | enemy_1018_aoemag | 高阶术师 | Senior Caster | 上級術師 |
 | enemy_1018_aoemag_2 | 高阶术师组长 | Senior Caster Leader | 上級術師隊長 |
@@ -1206,6 +1224,10 @@ tip: 请善用浏览器的搜索功能
 | enemy_1579_nstmom | 女妖河谷的拂哀菈 | - | - |
 | enemy_1580_mnchrn | 赞索斯，复仇者 | - | - |
 | enemy_1581_mnchrs | “无数的伊萨科斯” | - | - |
+| enemy_1582_suisho | 岁 | - | - |
+| enemy_1583_suizzh | 岁·左爪 | - | - |
+| enemy_1584_suiyzh | 岁·右爪 | - | - |
+| enemy_1585_suiwei | 岁·尾 | - | - |
 | enemy_18001_lhship | 运输汽艇 | - | - |
 | enemy_18002_lhbetl | 小颚虫 | - | - |
 | enemy_18003_lhkarb | 吸气乱动机 | - | - |
@@ -1351,6 +1373,9 @@ tip: 请善用浏览器的搜索功能
 | enemy_3009_mpprss | EYESOFPRIESTESS | EYESOFPRIESTESS | EYESOFPRIESTESS |
 | enemy_3010_mcreep | 矿工游击队 | - | - |
 | enemy_3011_dyegrd | “皇帝的利刃”，折戟者 | - | - |
+| enemy_3012_tjgcb | 饷事 | - | - |
+| enemy_3013_tjglb | 炊事 | - | - |
+| enemy_3014_wangw | “执白者” | - | - |
 | enemy_4001_toxcar | 改造瓦斯车 | Retrofitted Gastruck | 改造ガス車 |
 | enemy_4001_toxcar_2 | 高能瓦斯车 | Supercharged Gastruck | 拡容改造ガス車 |
 | enemy_4002_syokai | 二手廉价无人机 | Cheap Second-hand Drone | 中古低価ドローン |

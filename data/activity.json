@@ -173,6 +173,9 @@
     "ja_JP": "春分",
     "zh_CN": "春分"
   },
+  "act14pray": {
+    "zh_CN": "龙门幸运墙登录活动"
+  },
   "act14side": {
     "en_US": "Break the Ice",
     "ja_JP": "風雪一過",
@@ -636,6 +639,9 @@
     "ja_JP": "空想の花庭・復刻",
     "zh_CN": "空想花庭·复刻"
   },
+  "act27login": {
+    "zh_CN": "登录领取奖励"
+  },
   "act27side": {
     "en_US": "So Long, Adele: Home Away From Home",
     "ja_JP": "火山と雲と夢色の旅路",
@@ -898,6 +904,9 @@
   "act39sre": {
     "zh_CN": "出苍白海·复刻"
   },
+  "act3blessing": {
+    "zh_CN": "2026罗德岛新春签到"
+  },
   "act3bossrush": {
     "en_US": "Trials for Navigator",
     "ja_JP": "導灯の試練",
@@ -1041,6 +1050,9 @@
     "en_US": "2025 Commemorative Limited-Time Event",
     "ja_JP": "スタンプラリー",
     "zh_CN": "2025跨年纪念限时活动"
+  },
+  "act49side": {
+    "zh_CN": "辞岁行"
   },
   "act49sign": {
     "en_US": "Celebration Login Event",

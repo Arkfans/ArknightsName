@@ -151,14 +151,17 @@ tip: 请善用浏览器的搜索功能
 | char_2013_cerber@whirlwind#2 | 无拘无束 | Unfettered | 自由奔放 |
 | char_2014_nian@cfa#1 | 霹雳导演 | Thunderbolt Director | 風雲の名監督 |
 | char_2014_nian@nian#4 | 乐逍遥 | Unfettered Freedom | 楽逍遥 |
+| char_2015_dusk@nian#12 | 青玉砚 | - | - |
 | char_2015_dusk@nian#7 | 染尘烟 | Everything Is a Miracle | 染塵煙 |
 | char_201_moeshd@kfc#1 | 清晨七点 | Seven in the Morning | 7:00 a.m. |
 | char_201_moeshd@summer#4 | 探寻者 SK03 | Seeker SK03 | シーカーSK03 |
 | char_2023_ling@ncg#1 | 崖高梦远 | Towering is Cliff of Nostalgia | 崖高く夢遠し |
+| char_2023_ling@nian#12 | 方遒卷 | - | - |
 | char_2023_ling@nian#9 | 濯缨 | It Does Wash the Strings | 濯冠纓 |
 | char_2024_chyue@cfa#1 | 全能演员 | All-Round Actor | 万能俳優 |
 | char_2024_chyue@nian#10 | 何处栖 | Alighting | 何処棲 |
 | char_2025_shu@nian#11 | 春日宴 | Spring Feast | 春日宴 |
+| char_2026_yu@nian#12 | 愿清晓 | - | - |
 | char_202_demkni@boc#1 | 坚城 | Stronghold | 堅城 |
 | char_202_demkni@test#1 | 铁律 | The Law | 鉄の掟 |
 | char_204_platnm@summer#3 | 灿阳朝露 SD05 | Shimmering Dew SD05 | 炎陽煌く露SD05 |
@@ -221,6 +224,7 @@ tip: 请善用浏览器的搜索功能
 | char_274_astesi@epoque#23 | 奇工妙想 | Fantastic Crafts | 奇装天外 |
 | char_274_astesi@epoque#5 | 寻耀 | Starseeker | 星尋ね |
 | char_274_astesi@shining#1 | 殿堂上的游禽 | Frlibe on the Palace | 翼広げしフレリーべ |
+| char_275_breeze@unveiling#4 | 半甜草莓 | - | - |
 | char_277_sqrrel@ghost#1 | 古堡清洁专家 | Cleansweeper in the Castle | 古城の掃除屋 |
 | char_278_orchid@boc#6 | 衣缕往昔 | Twines of Time | 在りし日を繕って |
 | char_279_excu@boc#1 | 无题密令 | Titleless Code | 無題の密命 |
@@ -339,6 +343,7 @@ tip: 请善用浏览器的搜索功能
 | char_4046_ebnhlz@boc#6 | 变奏 | Eine Variation | 変奏 |
 | char_4047_pianst@wild#8 | 荒野寻音 | Freeland Tuneseeker | 荒野に音尋ね |
 | char_4048_doroth@witch#4 | 命运主宰 | Hand of Destiny | 運命の支配者 |
+| char_4052_surfer@nian#12 | 共凭栏 | - | - |
 | char_4054_malist@summer#14 | 悠然假日 HDm74 | Holiday HDm74 | ホリデーHDm74 |
 | char_4055_bgsnow@wild#7 | 字句中的雪原 | Snowy Plains in Words | 行間にある雪原 |
 | char_4055_bgsnow@yun#7 | 行梦侧畔 | - | - |
@@ -400,6 +405,7 @@ tip: 请善用浏览器的搜索功能
 | char_4145_ulpia@epoque#48 | 注目深渊 | - | - |
 | char_4146_nymph@epoque#42 | 甜美配方 | Sweetness to the Heart | 甘美な真心 |
 | char_4147_mitm@breaker#1 | 无影灯下 | - | - |
+| char_4148_philae@nian#12 | 花绸曲 | - | - |
 | char_4151_tinman@sale#11 | 相位面容 | Phase Face | フェーズフェイス |
 | char_4155_talr@yun#9 | 桂影窗 | - | - |
 | char_415_flint@boc#3 | 绚烂夏花 | Gorgeous Flower | 紫藤繚乱 |
@@ -432,6 +438,7 @@ tip: 请善用浏览器的搜索功能
 | char_450_necras@summer#20 | 夏卉 FA161 | - | - |
 | char_451_robin@epoque#13 | 原野的馈赠 | Gift of Wild | 荒野の贈り物 |
 | char_452_bstalk@snow#4 | 未完成的礼物 | Gift Uncompleted | 未完成のギフト |
+| char_452_bstalk@unveiling#4 | 红丝带之约 | - | - |
 | char_455_nothin@nian#7 | 冷山月 | Pale Rising Moon | 冷山月 |
 | char_456_ash@rainbow6#1 | 游侠 | Ranger | レンジャー |
 | char_459_tachak@rainbow6#1 | 领主 | Lord | ロード |

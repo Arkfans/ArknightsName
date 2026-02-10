@@ -848,6 +848,15 @@
     "ja_JP": "ホリデーストーム",
     "zh_CN": "“假日风暴”"
   },
+  "skchr_chen3_1": {
+    "zh_CN": "赤霄·奔夜"
+  },
+  "skchr_chen3_2": {
+    "zh_CN": "赤霄·绝影-驰"
+  },
+  "skchr_chen3_3": {
+    "zh_CN": "赤霄·天喟"
+  },
   "skchr_chen_1": {
     "en_US": "Sheathed Strike",
     "ja_JP": "鞘打ち",
@@ -1907,6 +1916,12 @@
     "en_US": "Smokescreen",
     "ja_JP": "煙幕",
     "zh_CN": "掩护烟幕"
+  },
+  "skchr_ju_1": {
+    "zh_CN": "良弓难张"
+  },
+  "skchr_ju_2": {
+    "zh_CN": "良翼难乘"
   },
   "skchr_judge_1": {
     "en_US": "Last Word",
@@ -3533,6 +3548,12 @@
     "ja_JP": "絡みつく縫い糸",
     "zh_CN": "缝线缠身"
   },
+  "skchr_taraxa_1": {
+    "zh_CN": "何处着"
+  },
+  "skchr_taraxa_2": {
+    "zh_CN": "扶风起"
+  },
   "skchr_tecno_1": {
     "en_US": "Lockin'",
     "ja_JP": "関節部補強",
@@ -3833,6 +3854,15 @@
     "en_US": "Seven-styles Kick",
     "ja_JP": "七武掠陣脚",
     "zh_CN": "七武掠阵踢"
+  },
+  "skchr_wang_1": {
+    "zh_CN": "取势"
+  },
+  "skchr_wang_2": {
+    "zh_CN": "连星"
+  },
+  "skchr_wang_3": {
+    "zh_CN": "天下劫"
   },
   "skchr_wanqin_2": {
     "en_US": "Along the Easterlies",
@@ -6766,6 +6796,9 @@
     "ja_JP": "危険な棘",
     "zh_CN": "宝刺伤人"
   },
+  "sktok_sunmao": {
+    "zh_CN": "接"
+  },
   "sktok_supctl_1": {
     "zh_CN": "冷控处理"
   },
@@ -6842,6 +6875,9 @@
     "en_US": "Deployment Forbidden",
     "ja_JP": "配置不可",
     "zh_CN": "不可部署"
+  },
+  "sktok_tjgsd": {
+    "zh_CN": "取字"
   },
   "sktok_tnkspk": {
     "zh_CN": "反制装甲"
@@ -6981,6 +7017,15 @@
     "en_US": "Alluring Treasures",
     "ja_JP": "財宝のいざない",
     "zh_CN": "诱人珍宝"
+  },
+  "sktok_wang_1": {
+    "zh_CN": "取势"
+  },
+  "sktok_wang_2": {
+    "zh_CN": "连星"
+  },
+  "sktok_wang_3": {
+    "zh_CN": "天下劫"
   },
   "sktok_wdescp": {
     "en_US": "Establish Communication",

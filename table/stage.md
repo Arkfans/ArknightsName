@@ -1031,6 +1031,20 @@ tip: 请善用浏览器的搜索功能
 | act48side_st02 | 一个无声的夜晚 | - | - |
 | act48side_st03 | 无法再一次踏入的河 | - | - |
 | act48side_tr01 | 入境随俗 | - | - |
+| act49side_01 | 激石波 | - | - |
+| act49side_02 | 大头鬼 | - | - |
+| act49side_03 | 聚墨痕 | - | - |
+| act49side_04 | 小雪崩 | - | - |
+| act49side_05 | 双飞燕 | - | - |
+| act49side_06 | 裹锋 | - | - |
+| act49side_07 | 相思断 | - | - |
+| act49side_08 | 金错刀 | - | - |
+| act49side_09 | 气合 | - | - |
+| act49side_10 | 镇神头 | - | - |
+| act49side_11 | 长生劫 | - | - |
+| act49side_st01 | 蒙不失诵 | - | - |
+| act49side_st02 | 史不失书 | - | - |
+| act49side_tr01 | 乌金拓 | - | - |
 | act4bossrush_01 | 冰霜与战火 | Frost and Fire | 氷霜と戦火 |
 | act4bossrush_02 | 无关音律 | Out Of Tune | アウトオブチューン |
 | act4bossrush_03 | 延烧的深池 | Dublinn Burning | 延焼する葦沼 |

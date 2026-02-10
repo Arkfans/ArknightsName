@@ -164,6 +164,7 @@ tip: 请善用浏览器的搜索功能
 | LIMITED_TKT_GACHA_10_6101 | 信徒标兵寻访凭证 | Examplary Believer Headhunting Permit | 感謝祭記念10回スカウト券 |
 | LIMITED_TKT_GACHA_10_6401 | 浪客行歌寻访凭证 | - | - |
 | LIMITED_TKT_GACHA_10_6701 | 融雪流痕寻访凭证 | - | - |
+| LIMITED_TKT_GACHA_10_7001 | 载月明归寻访凭证 | - | - |
 | LIMITED_TKT_GACHA_10_903 | 苏醒纪念寻访凭证 | Awakening Commemoration Permit | 1周年記念10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_1701 | 特勤专家寻访凭证 | Expert Headhunting Permit | 精鋭小隊10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_3601 | 指引明路寻访凭证 | Scouting the Light Headhunting Permit | ハンター凱旋10回スカウト券 |
@@ -193,6 +194,7 @@ tip: 请善用浏览器的搜索功能
 | LMTGS_COIN_6101 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_6401 | 寻访数据契约 | - | - |
 | LMTGS_COIN_6701 | 寻访数据契约 | - | - |
+| LMTGS_COIN_7001 | 寻访数据契约 | - | - |
 | LMTGS_COIN_903 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | Logistics_Special_Permit | 后勤特别许可证 | Logistics Special Permit | 特別支援申請許可証 |
 | REP_COIN | 情报凭证 | Intelligence Certificate | 情報資格証 |
@@ -388,6 +390,7 @@ tip: 请善用浏览器的搜索功能
 | act46side_token_detector | 雪地用多功能探测器 | - | - |
 | act47side_token_bottle | 天空氧气瓶 | - | - |
 | act48side_token_ostracon | 投票用的陶片 | - | - |
+| act49side_token_draft | 未定稿 | - | - |
 | act4bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act4bossrush_relic_01 | 轻量化载荷 | Lightened Load | 積込み軽量化 |
 | act4bossrush_relic_02 | 核心预热 | Preheated Core | コア予熱 |
@@ -464,6 +467,11 @@ tip: 请善用浏览器的搜索功能
 | ap_supply_lt_100_2025_3 | 萨卢佐醇酿 | Saluzzo Vintage | サルッツォワイン |
 | ap_supply_lt_100_2025_4 | 特制蜜三刀 | House Special Misandao | 特製蜜三刀 |
 | ap_supply_lt_100_2025_5 | “罗德岛” | 'Rhodes Island' | 「ロドス・アイランド」 |
+| ap_supply_lt_100_2026_1 | 彩蛋糖豆捞 | - | - |
+| ap_supply_lt_100_2026_2 | 八味草花露 | - | - |
+| ap_supply_lt_100_2026_3 | 冷链雪鳞 | - | - |
+| ap_supply_lt_100_2026_4 | 黑白糯芋糕 | - | - |
+| ap_supply_lt_100_2026_5 | 手工宁神茶包 | - | - |
 | ap_supply_lt_120 | 应急理智浓缩液 | Emergency Sanity Concentrate | 上級理性回復剤+ |
 | ap_supply_lt_120_2022_1 | 满颜色 | Full Color | 一家団欒 |
 | ap_supply_lt_120_2022_2 | 正圆月 | Full Moon | 仲秋名月 |
@@ -721,6 +729,8 @@ tip: 请善用浏览器的搜索功能
 | itempack_gacha_1 | 福运鼓鼓礼袋 | Bounteous Fortunes Gift Bag | 幸運満タンパック |
 | itempack_gold_1 | 特别版!超强!老板奖章 | Super! Best! Boss Medal | 超絶！最強！リーダーメダル |
 | itempack_gold_2 | 精心准备的试饮套装 | - | - |
+| itempack_leaf_def | 特辑/罗德岛风尚 | - | - |
+| itempack_leaf_def2 | 特辑/流媒体 | - | - |
 | itempack_main_1 | 罗德岛补给箱 | Rhodes Island Supply Crate | ロドス補給箱 |
 | itempack_main_2 | 罗德岛补给箱 | - | - |
 | itempack_mod_10 | 狙击芯片组印刻仪 | Sniper Chip Pack Etcher | 中級狙撃SoCプリンター |
@@ -734,6 +744,12 @@ tip: 请善用浏览器的搜索功能
 | itempack_mod_8 | 近卫芯片组印刻仪 | Guard Chip Pack Etcher | 中級前衛SoCプリンター |
 | itempack_mod_9 | 重装芯片组印刻仪 | Defender Chip Pack Etcher | 中級重装SoCプリンター |
 | itempack_recruit_1 | 2025感谢庆典招聘补给 | - | - |
+| itempack_stickers_rog1 | 贴纸包/猩红孤钻 | - | - |
+| itempack_stickers_rog2 | 贴纸包/深蓝之树 | - | - |
+| itempack_stickers_rog3 | 贴纸包/银凇止境 | - | - |
+| itempack_stickers_rog4 | 贴纸包/无终奇语 | - | - |
+| itempack_stickers_rog5 | 贴纸包/界园志异 | - | - |
+| itempack_stickers_sand1 | 贴纸包/沙洲遗闻 | - | - |
 | main16_spitem_1 | 暗淡的源石 | - | - |
 | main16_spitem_2 | 无主的矿灯 | - | - |
 | main16_spitem_3 | 涂改的旗帜 | - | - |
@@ -787,6 +803,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_1045_svash2 | 凛御银灰的信物 | - | - |
 | p_char_1046_sbell2 | 圣聆初雪的信物 | - | - |
 | p_char_1047_halo2 | 溯光星源的信物 | - | - |
+| p_char_1050_chen3 | 赤刃明霄陈的信物 | - | - |
 | p_char_106_franka | 芙兰卡的信物 | Franka's Token | フランカの印 |
 | p_char_107_liskam | 雷蛇的信物 | Liskarm's Token | リスカムの印 |
 | p_char_108_silent | 赫默的信物 | Silence's Token | サイレンスの印 |
@@ -860,6 +877,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_2024_chyue | 重岳的信物 | Chongyue's Token | チョンユエの印 |
 | p_char_2025_shu | 黍的信物 | Shu's Token | シュウの印 |
 | p_char_2026_yu | 余的信物 | Yu's Token | ユーの印 |
+| p_char_2027_wang | 望的信物 | - | - |
 | p_char_202_demkni | 塞雷娅的信物 | Saria's Token | サリアの印 |
 | p_char_204_platnm | 白金的信物 | Platinum's Token | プラチナの印 |
 | p_char_206_gnosis | 灵知的信物 | Gnosis's Token | ノーシスの印 |
@@ -1095,6 +1113,8 @@ tip: 请善用浏览器的搜索功能
 | p_char_4213_skybx | 天空盒的信物 | - | - |
 | p_char_4214_cairn | 响石的信物 | - | - |
 | p_char_421_crow | 羽毛笔的信物 | La Pluma's Token | ラ・プルマの印 |
+| p_char_4221_ju | 矩的信物 | - | - |
+| p_char_4222_taraxa | 风絮的信物 | - | - |
 | p_char_422_aurora | 极光的信物 | Aurora's Token | オーロラの印 |
 | p_char_423_blemsh | 瑕光的信物 | Blemishine's Token | ブレミシャインの印 |
 | p_char_426_billro | 卡涅利安的信物 | Carnelian's Token | カーネリアンの印 |
@@ -1181,6 +1201,7 @@ tip: 请善用浏览器的搜索功能
 | randomMaterial_amiya | 兔兔礼品盒 | - | - |
 | randomMaterial_leith2 | 查访补给 | Investigation Resupply | 調査補給 |
 | randomMaterial_message1 | 一号项目决定版 | - | - |
+| randomMaterial_message2 | 形制朴素的棋具 | - | - |
 | randomMaterial_rhine2 | 技术调查补给 | Technological Investigation Supply | 技術調査補給 |
 | randomMaterial_siesta2 | 峯联贸易物流补给 | Mountaincomm Trade Supplies | フェンレン貿易物流補給 |
 | renamingCard | ID信息更新卡 | ID Info Update Card | ID情報更新カード |

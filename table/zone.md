@@ -229,6 +229,9 @@ tip: 请善用浏览器的搜索功能
 | act47side_zone2 | 逃离哥伦比亚 | - | - |
 | act48side_zone1 | 神殿仪式 | - | - |
 | act48side_zone2 | 街头戏剧 | - | - |
+| act49side_zone1 | 霜秋实录 | - | - |
+| act49side_zone2 | 望春遗事 | - | - |
+| act49side_zone3 | 待笔新篇 | - | - |
 | act4bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act5bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act5d0_zone1 | 下城区 | Downtown | 繁華街 |
