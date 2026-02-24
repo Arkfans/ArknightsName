@@ -1367,6 +1367,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_necras_skeltn_2 | 怨火缠身 | Flames of Hatred | 纏わりつく紫炎 |
 | sktok_necras_skeltn_3 | 怨火缠身 | Flames of Hatred | 纏わりつく紫炎 |
 | sktok_neonlamp | 文明的光芒 | The Light of Civilization | 「文明の灯火」 |
+| sktok_newlamp | 文明的光芒 | - | - |
 | sktok_normbox | 诱人珍宝 | Alluring Treasures | 財宝のいざない |
 | sktok_npccom | 触发对话 | Trigger Dialogue | 会話発生 |
 | sktok_npcsld | 列阵！ | Form Up! | 構え！ |

@@ -156,6 +156,7 @@ tip: 请善用浏览器的搜索功能
 | act2access | 活动推荐月卡 | Recommended Monthly Card | 大感謝祭月パス |
 | act2blessing | 2025罗德岛新春签到 | 2025 Festival Sign-In | 5.5周年スタンプラリー |
 | act2bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
+| act2break | 矢量突破#2 巫术之夜 | - | - |
 | act2collection | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
 | act2d5 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act2d8 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |

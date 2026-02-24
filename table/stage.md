@@ -695,6 +695,27 @@ tip: 请善用浏览器的搜索功能
 | act2bossrush_02 | 大块头和小不点 | Big and Small | デカとチビ |
 | act2bossrush_03 | 裂地重击 | Fissure Strike | 大地割れる一撃 |
 | act2bossrush_04 | 骄阳之影 | Proud Sun's Shadow | 燦陽の影 |
+| act2break_01 | 此面朝上 | - | - |
+| act2break_02 | 高心率追逐 | - | - |
+| act2break_03 | 蜿蜒单行道 | - | - |
+| act2break_04 | 空间盲点 | - | - |
+| act2break_05 | 一线胜机 | - | - |
+| act2break_06 | 灰烬游行团 | - | - |
+| act2break_07 | 真光层下 | - | - |
+| act2break_08 | 脉冲隔绝术 | - | - |
+| act2break_09 | 紧急逃生 | - | - |
+| act2break_10 | 涣散喧嚣 | - | - |
+| act2break_11 | 生人勿近 | - | - |
+| act2break_12 | 维度误导 | - | - |
+| act2break_sp01 | 自有方圆 | - | - |
+| act2break_sp02 | 物归原主 | - | - |
+| act2break_sp03 | 心中一泓 | - | - |
+| act2break_sp04 | 蜂鸣不绝 | - | - |
+| act2break_sp05 | 污染危机 | - | - |
+| act2break_sp06 | 躁动冲刺 | - | - |
+| act2break_sp07 | 慧眼如炬 | - | - |
+| act2break_sp08 | 南辕北辙 | - | - |
+| act2break_sp09 | 刺骨苦难 | - | - |
 | act2enemyduel_01a | 争锋对决！ | - | - |
 | act2enemyduel_01b | 争锋对决！ | - | - |
 | act2multi_01 | 无声的默契 | - | - |
@@ -1042,6 +1063,11 @@ tip: 请善用浏览器的搜索功能
 | act49side_09 | 气合 | - | - |
 | act49side_10 | 镇神头 | - | - |
 | act49side_11 | 长生劫 | - | - |
+| act49side_mo01 | 待启封的锦囊 | - | - |
+| act49side_s01 | 《幄机》 | - | - |
+| act49side_s02 | 《山河武略》 | - | - |
+| act49side_s03 | 《塞语》 | - | - |
+| act49side_s04 | 《经纬运筹》 | - | - |
 | act49side_st01 | 蒙不失诵 | - | - |
 | act49side_st02 | 史不失书 | - | - |
 | act49side_tr01 | 乌金拓 | - | - |

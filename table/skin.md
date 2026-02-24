@@ -207,6 +207,7 @@ tip: 请善用浏览器的搜索功能
 | char_250_phatom@ghost#1 | 梦魇之梦 | Dream Within a Dreammare | 終わらぬ悪夢 |
 | char_250_phatom@sale#4 | 焦点 | Focus | 主演 |
 | char_252_bibeak@winter#2 | 软绒 | Soft Wool | 雪綿 |
+| char_253_greyy@epoque#515 | 都会送报员 | - | - |
 | char_253_greyy@epoque#8 | 八音蛋匠人 | Eggcellent Craftsman | オルゴールマイスター |
 | char_254_vodfox@witch#2 | 魔城回响 | Echo of the Horrorlair | 魔城の呼び声 |
 | char_254_vodfox@yun#8 | 绣云鹤 | - | - |

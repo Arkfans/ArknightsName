@@ -345,6 +345,7 @@ tip: 请善用浏览器的搜索功能
 | act2bossrush_relic_03 | 减退模块 | Reduction Module | ダウンモジュール |
 | act2bossrush_relic_04 | 调优重载 | Optimize Load | 積載調節 |
 | act2bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
+| act2break_milestone_point | “小心地滑” | - | - |
 | act2collection_point_token | “战略家”点数 | 'Strategist' Point | 「戦略家」ポイント |
 | act2enemyduel_milestone_point | 争锋大礼花 | - | - |
 | act2mainss_token | “勇气”胸章 | 'Courage' Badge | 「勇気」のバッジ |

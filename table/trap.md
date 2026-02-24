@@ -425,6 +425,7 @@ tip: 请善用浏览器的搜索功能
 | trap_293_suishan | 岁用山 | - | - |
 | trap_294_ziyou | 友字 | - | - |
 | trap_295_ziyin | 印字 | - | - |
+| trap_328_newlamp | 城市霓虹 | - | - |
 | trap_330_ycwang | 演出望 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |
 | trap_401_xbfato | 木材采集站 | Sawing Harvester Hub | 木材採取基地 |

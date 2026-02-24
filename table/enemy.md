@@ -1563,6 +1563,11 @@ tip: 请善用浏览器的搜索功能
 | enemy_8013_mcnrsh | 叶毯 | Leafcarpet | リーフカーペット |
 | enemy_8014_mcnelp | 秒表 | Stopwatch | ストップウォッチ |
 | enemy_8015_mcnrhd | 巨声 | Uproar | アップロアー |
+| enemy_8016_misery | “Misery”，静默之刃 | - | - |
+| enemy_8016_misery_1 | “Misery”，静默之刃 | - | - |
+| enemy_8016_misery_2 | “Misery”，静默之刃 | - | - |
+| enemy_8016_misery_3 | “Misery”，静默之刃 | - | - |
+| enemy_8017_vcblva | 抗拒之火炎熔 | - | - |
 | enemy_9001_ayokai | 惊喜赞助无人机 | Surprise Sponsor Drone | サプライズ協賛ドローン |
 | enemy_9002_adsham | 萨卡兹渴血术师 | Sarkaz Bloodthirst Caster | サルカズ渇血術師 |
 | enemy_9003_askate | 寻路者供弹手 | Pathfinder Armicustos | 求道供弾者 |

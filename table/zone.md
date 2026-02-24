@@ -157,6 +157,9 @@ tip: 请善用浏览器的搜索功能
 | act29sre_zone2 | 恩典永恒 | Die Gnade ist ewig | 恩寵は永遠に |
 | act29sre_zone3 | 权威无情 | Die Macht ist grimm | 大権に情なく |
 | act2bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
+| act2break_zone1 | 核心突破 | - | - |
+| act2break_zone2 | 全力以赴 | - | - |
+| act2break_zone3 | 特别战线 | - | - |
 | act2mainss_zone1 | 离解复合 | Dissociative Recombination | 解離結合 |
 | act30side_zone1 | 三号站台 | Platform No. 3 | 3番ホーム |
 | act30side_zone2 | 特快列车 | Express Train | 特急列車 |

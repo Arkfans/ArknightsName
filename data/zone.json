@@ -757,6 +757,15 @@
     "ja_JP": "強敵襲来",
     "zh_CN": "强敌当前"
   },
+  "act2break_zone1": {
+    "zh_CN": "核心突破"
+  },
+  "act2break_zone2": {
+    "zh_CN": "全力以赴"
+  },
+  "act2break_zone3": {
+    "zh_CN": "特别战线"
+  },
   "act2mainss_zone1": {
     "en_US": "Dissociative Recombination",
     "ja_JP": "解離結合",

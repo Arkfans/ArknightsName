@@ -7009,6 +7009,12 @@
       "zh_CN": "印字"
     }
   },
+  "trap_328_newlamp": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "城市霓虹"
+    }
+  },
   "trap_330_ycwang": {
     "type": "TRAP",
     "names": {
@@ -10171,6 +10177,12 @@
       "en_US": "Soft Wool",
       "ja_JP": "雪綿",
       "zh_CN": "软绒"
+    }
+  },
+  "char_253_greyy@epoque#515": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "都会送报员"
     }
   },
   "char_253_greyy@epoque#8": {
@@ -24477,6 +24489,36 @@
       "zh_CN": "巨声"
     }
   },
+  "enemy_8016_misery": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“Misery”，静默之刃"
+    }
+  },
+  "enemy_8016_misery_1": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“Misery”，静默之刃"
+    }
+  },
+  "enemy_8016_misery_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“Misery”，静默之刃"
+    }
+  },
+  "enemy_8016_misery_3": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“Misery”，静默之刃"
+    }
+  },
+  "enemy_8017_vcblva": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "抗拒之火炎熔"
+    }
+  },
   "enemy_9001_ayokai": {
     "type": "ENEMY",
     "names": {
@@ -25797,6 +25839,12 @@
       "en_US": "Trials for Navigator",
       "ja_JP": "導灯の試練",
       "zh_CN": "引航者试炼"
+    }
+  },
+  "act2break": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "矢量突破#2 巫术之夜"
     }
   },
   "act2collection": {
@@ -29824,6 +29872,12 @@
       "en_US": "Data Blackbox",
       "ja_JP": "ブラックボックス",
       "zh_CN": "数据黑盒"
+    }
+  },
+  "act2break_milestone_point": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "“小心地滑”"
     }
   },
   "act2collection_point_token": {
@@ -39154,6 +39208,12 @@
     }
   },
   "SPECIAL_67_0_3": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "定向甄选"
+    }
+  },
+  "SPECIAL_70_0_3": {
     "type": "POOL",
     "names": {
       "zh_CN": "定向甄选"
@@ -50558,6 +50618,12 @@
       "zh_CN": "文明的光芒"
     }
   },
+  "sktok_newlamp": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "文明的光芒"
+    }
+  },
   "sktok_normbox": {
     "type": "SKILL",
     "names": {
@@ -57848,6 +57914,132 @@
       "zh_CN": "骄阳之影"
     }
   },
+  "act2break_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "此面朝上"
+    }
+  },
+  "act2break_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "高心率追逐"
+    }
+  },
+  "act2break_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "蜿蜒单行道"
+    }
+  },
+  "act2break_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "空间盲点"
+    }
+  },
+  "act2break_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "一线胜机"
+    }
+  },
+  "act2break_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "灰烬游行团"
+    }
+  },
+  "act2break_07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "真光层下"
+    }
+  },
+  "act2break_08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "脉冲隔绝术"
+    }
+  },
+  "act2break_09": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "紧急逃生"
+    }
+  },
+  "act2break_10": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "涣散喧嚣"
+    }
+  },
+  "act2break_11": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "生人勿近"
+    }
+  },
+  "act2break_12": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "维度误导"
+    }
+  },
+  "act2break_sp01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "自有方圆"
+    }
+  },
+  "act2break_sp02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "物归原主"
+    }
+  },
+  "act2break_sp03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "心中一泓"
+    }
+  },
+  "act2break_sp04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "蜂鸣不绝"
+    }
+  },
+  "act2break_sp05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "污染危机"
+    }
+  },
+  "act2break_sp06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "躁动冲刺"
+    }
+  },
+  "act2break_sp07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "慧眼如炬"
+    }
+  },
+  "act2break_sp08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "南辕北辙"
+    }
+  },
+  "act2break_sp09": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "刺骨苦难"
+    }
+  },
   "act2enemyduel_01a": {
     "type": "STAGE",
     "names": {
@@ -60388,6 +60580,36 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "长生劫"
+    }
+  },
+  "act49side_mo01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "待启封的锦囊"
+    }
+  },
+  "act49side_s01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "《幄机》"
+    }
+  },
+  "act49side_s02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "《山河武略》"
+    }
+  },
+  "act49side_s03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "《塞语》"
+    }
+  },
+  "act49side_s04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "《经纬运筹》"
     }
   },
   "act49side_st01": {
@@ -67328,6 +67550,24 @@
       "en_US": "Threat Incoming",
       "ja_JP": "強敵襲来",
       "zh_CN": "强敌当前"
+    }
+  },
+  "act2break_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "核心突破"
+    }
+  },
+  "act2break_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "全力以赴"
+    }
+  },
+  "act2break_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "特别战线"
     }
   },
   "act2mainss_zone1": {

@@ -926,6 +926,7 @@ tip: 请善用浏览器的搜索功能
 | trap_293_suishan | 岁用山 | - | - |
 | trap_294_ziyou | 友字 | - | - |
 | trap_295_ziyin | 印字 | - | - |
+| trap_328_newlamp | 城市霓虹 | - | - |
 | trap_330_ycwang | 演出望 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |
 | trap_401_xbfato | 木材采集站 | Sawing Harvester Hub | 木材採取基地 |
@@ -1334,6 +1335,7 @@ tip: 请善用浏览器的搜索功能
 | char_250_phatom@ghost#1 | 梦魇之梦 | Dream Within a Dreammare | 終わらぬ悪夢 |
 | char_250_phatom@sale#4 | 焦点 | Focus | 主演 |
 | char_252_bibeak@winter#2 | 软绒 | Soft Wool | 雪綿 |
+| char_253_greyy@epoque#515 | 都会送报员 | - | - |
 | char_253_greyy@epoque#8 | 八音蛋匠人 | Eggcellent Craftsman | オルゴールマイスター |
 | char_254_vodfox@witch#2 | 魔城回响 | Echo of the Horrorlair | 魔城の呼び声 |
 | char_254_vodfox@yun#8 | 绣云鹤 | - | - |
@@ -3183,6 +3185,11 @@ tip: 请善用浏览器的搜索功能
 | enemy_8013_mcnrsh | 叶毯 | Leafcarpet | リーフカーペット |
 | enemy_8014_mcnelp | 秒表 | Stopwatch | ストップウォッチ |
 | enemy_8015_mcnrhd | 巨声 | Uproar | アップロアー |
+| enemy_8016_misery | “Misery”，静默之刃 | - | - |
+| enemy_8016_misery_1 | “Misery”，静默之刃 | - | - |
+| enemy_8016_misery_2 | “Misery”，静默之刃 | - | - |
+| enemy_8016_misery_3 | “Misery”，静默之刃 | - | - |
+| enemy_8017_vcblva | 抗拒之火炎熔 | - | - |
 | enemy_9001_ayokai | 惊喜赞助无人机 | Surprise Sponsor Drone | サプライズ協賛ドローン |
 | enemy_9002_adsham | 萨卡兹渴血术师 | Sarkaz Bloodthirst Caster | サルカズ渇血術師 |
 | enemy_9003_askate | 寻路者供弹手 | Pathfinder Armicustos | 求道供弾者 |
@@ -3362,6 +3369,7 @@ tip: 请善用浏览器的搜索功能
 | act2access | 活动推荐月卡 | Recommended Monthly Card | 大感謝祭月パス |
 | act2blessing | 2025罗德岛新春签到 | 2025 Festival Sign-In | 5.5周年スタンプラリー |
 | act2bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
+| act2break | 矢量突破#2 巫术之夜 | - | - |
 | act2collection | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
 | act2d5 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act2d8 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -3890,6 +3898,7 @@ Event | なないろのお茶会 |
 | act2bossrush_relic_03 | 减退模块 | Reduction Module | ダウンモジュール |
 | act2bossrush_relic_04 | 调优重载 | Optimize Load | 積載調節 |
 | act2bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
+| act2break_milestone_point | “小心地滑” | - | - |
 | act2collection_point_token | “战略家”点数 | 'Strategist' Point | 「戦略家」ポイント |
 | act2enemyduel_milestone_point | 争锋大礼花 | - | - |
 | act2mainss_token | “勇气”胸章 | 'Courage' Badge | 「勇気」のバッジ |
@@ -5124,6 +5133,7 @@ Event | なないろのお茶会 |
 | SPECIAL_61_0_3 | 定向甄选 | - | - |
 | SPECIAL_65_0_5 | 定向甄选 | - | - |
 | SPECIAL_67_0_3 | 定向甄选 | - | - |
+| SPECIAL_70_0_3 | 定向甄选 | - | - |
 | _ATTAIN_15_2_1 | - | Celebrate & Recollect | ロドスの道のり　回顧 |
 | _ATTAIN_22_1_2 | - | Celebration & Link-Up | ロドスの道のり・邂逅 |
 | _ATTAIN_28_0_2 | - | Celebration & Vista | ロドスの道のり・展望 |
@@ -6621,6 +6631,7 @@ Event | なないろのお茶会 |
 | sktok_necras_skeltn_2 | 怨火缠身 | Flames of Hatred | 纏わりつく紫炎 |
 | sktok_necras_skeltn_3 | 怨火缠身 | Flames of Hatred | 纏わりつく紫炎 |
 | sktok_neonlamp | 文明的光芒 | The Light of Civilization | 「文明の灯火」 |
+| sktok_newlamp | 文明的光芒 | - | - |
 | sktok_normbox | 诱人珍宝 | Alluring Treasures | 財宝のいざない |
 | sktok_npccom | 触发对话 | Trigger Dialogue | 会話発生 |
 | sktok_npcsld | 列阵！ | Form Up! | 構え！ |
@@ -7547,6 +7558,27 @@ Event | なないろのお茶会 |
 | act2bossrush_02 | 大块头和小不点 | Big and Small | デカとチビ |
 | act2bossrush_03 | 裂地重击 | Fissure Strike | 大地割れる一撃 |
 | act2bossrush_04 | 骄阳之影 | Proud Sun's Shadow | 燦陽の影 |
+| act2break_01 | 此面朝上 | - | - |
+| act2break_02 | 高心率追逐 | - | - |
+| act2break_03 | 蜿蜒单行道 | - | - |
+| act2break_04 | 空间盲点 | - | - |
+| act2break_05 | 一线胜机 | - | - |
+| act2break_06 | 灰烬游行团 | - | - |
+| act2break_07 | 真光层下 | - | - |
+| act2break_08 | 脉冲隔绝术 | - | - |
+| act2break_09 | 紧急逃生 | - | - |
+| act2break_10 | 涣散喧嚣 | - | - |
+| act2break_11 | 生人勿近 | - | - |
+| act2break_12 | 维度误导 | - | - |
+| act2break_sp01 | 自有方圆 | - | - |
+| act2break_sp02 | 物归原主 | - | - |
+| act2break_sp03 | 心中一泓 | - | - |
+| act2break_sp04 | 蜂鸣不绝 | - | - |
+| act2break_sp05 | 污染危机 | - | - |
+| act2break_sp06 | 躁动冲刺 | - | - |
+| act2break_sp07 | 慧眼如炬 | - | - |
+| act2break_sp08 | 南辕北辙 | - | - |
+| act2break_sp09 | 刺骨苦难 | - | - |
 | act2enemyduel_01a | 争锋对决！ | - | - |
 | act2enemyduel_01b | 争锋对决！ | - | - |
 | act2multi_01 | 无声的默契 | - | - |
@@ -7894,6 +7926,11 @@ Event | なないろのお茶会 |
 | act49side_09 | 气合 | - | - |
 | act49side_10 | 镇神头 | - | - |
 | act49side_11 | 长生劫 | - | - |
+| act49side_mo01 | 待启封的锦囊 | - | - |
+| act49side_s01 | 《幄机》 | - | - |
+| act49side_s02 | 《山河武略》 | - | - |
+| act49side_s03 | 《塞语》 | - | - |
+| act49side_s04 | 《经纬运筹》 | - | - |
 | act49side_st01 | 蒙不失诵 | - | - |
 | act49side_st02 | 史不失书 | - | - |
 | act49side_tr01 | 乌金拓 | - | - |
@@ -8778,6 +8815,9 @@ Event | なないろのお茶会 |
 | act29sre_zone2 | 恩典永恒 | Die Gnade ist ewig | 恩寵は永遠に |
 | act29sre_zone3 | 权威无情 | Die Macht ist grimm | 大権に情なく |
 | act2bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
+| act2break_zone1 | 核心突破 | - | - |
+| act2break_zone2 | 全力以赴 | - | - |
+| act2break_zone3 | 特别战线 | - | - |
 | act2mainss_zone1 | 离解复合 | Dissociative Recombination | 解離結合 |
 | act30side_zone1 | 三号站台 | Platform No. 3 | 3番ホーム |
 | act30side_zone2 | 特快列车 | Express Train | 特急列車 |

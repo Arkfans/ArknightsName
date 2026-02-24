@@ -3385,6 +3385,69 @@
     "ja_JP": "燦陽の影",
     "zh_CN": "骄阳之影"
   },
+  "act2break_01": {
+    "zh_CN": "此面朝上"
+  },
+  "act2break_02": {
+    "zh_CN": "高心率追逐"
+  },
+  "act2break_03": {
+    "zh_CN": "蜿蜒单行道"
+  },
+  "act2break_04": {
+    "zh_CN": "空间盲点"
+  },
+  "act2break_05": {
+    "zh_CN": "一线胜机"
+  },
+  "act2break_06": {
+    "zh_CN": "灰烬游行团"
+  },
+  "act2break_07": {
+    "zh_CN": "真光层下"
+  },
+  "act2break_08": {
+    "zh_CN": "脉冲隔绝术"
+  },
+  "act2break_09": {
+    "zh_CN": "紧急逃生"
+  },
+  "act2break_10": {
+    "zh_CN": "涣散喧嚣"
+  },
+  "act2break_11": {
+    "zh_CN": "生人勿近"
+  },
+  "act2break_12": {
+    "zh_CN": "维度误导"
+  },
+  "act2break_sp01": {
+    "zh_CN": "自有方圆"
+  },
+  "act2break_sp02": {
+    "zh_CN": "物归原主"
+  },
+  "act2break_sp03": {
+    "zh_CN": "心中一泓"
+  },
+  "act2break_sp04": {
+    "zh_CN": "蜂鸣不绝"
+  },
+  "act2break_sp05": {
+    "zh_CN": "污染危机"
+  },
+  "act2break_sp06": {
+    "zh_CN": "躁动冲刺"
+  },
+  "act2break_sp07": {
+    "zh_CN": "慧眼如炬"
+  },
+  "act2break_sp08": {
+    "zh_CN": "南辕北辙"
+  },
+  "act2break_sp09": {
+    "zh_CN": "刺骨苦难"
+  },
   "act2enemyduel_01a": {
     "zh_CN": "争锋对决！"
   },
@@ -4885,6 +4948,21 @@
   },
   "act49side_11": {
     "zh_CN": "长生劫"
+  },
+  "act49side_mo01": {
+    "zh_CN": "待启封的锦囊"
+  },
+  "act49side_s01": {
+    "zh_CN": "《幄机》"
+  },
+  "act49side_s02": {
+    "zh_CN": "《山河武略》"
+  },
+  "act49side_s03": {
+    "zh_CN": "《塞语》"
+  },
+  "act49side_s04": {
+    "zh_CN": "《经纬运筹》"
   },
   "act49side_st01": {
     "zh_CN": "蒙不失诵"

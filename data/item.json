@@ -1635,6 +1635,9 @@
     "ja_JP": "ブラックボックス",
     "zh_CN": "数据黑盒"
   },
+  "act2break_milestone_point": {
+    "zh_CN": "“小心地滑”"
+  },
   "act2collection_point_token": {
     "en_US": "'Strategist' Point",
     "ja_JP": "「戦略家」ポイント",
