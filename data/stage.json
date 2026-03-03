@@ -3421,6 +3421,18 @@
   "act2break_12": {
     "zh_CN": "维度误导"
   },
+  "act2break_h01": {
+    "zh_CN": "可变性方程"
+  },
+  "act2break_h02": {
+    "zh_CN": "十九号车道"
+  },
+  "act2break_h03": {
+    "zh_CN": "自适应悖论"
+  },
+  "act2break_h04": {
+    "zh_CN": "认知剥离界域"
+  },
   "act2break_sp01": {
     "zh_CN": "自有方圆"
   },
@@ -3447,6 +3459,27 @@
   },
   "act2break_sp09": {
     "zh_CN": "刺骨苦难"
+  },
+  "act2break_sp10": {
+    "zh_CN": "速递怪谈"
+  },
+  "act2break_sp11": {
+    "zh_CN": "向死而生"
+  },
+  "act2break_sp12": {
+    "zh_CN": "狭岸相逢"
+  },
+  "act2break_sp13": {
+    "zh_CN": "过度狂热"
+  },
+  "act2break_sp14": {
+    "zh_CN": "水土不服"
+  },
+  "act2break_sp15": {
+    "zh_CN": "殊途同归"
+  },
+  "act2break_sp16": {
+    "zh_CN": "夺命光影"
   },
   "act2enemyduel_01a": {
     "zh_CN": "争锋对决！"

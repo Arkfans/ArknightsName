@@ -707,6 +707,10 @@ tip: 请善用浏览器的搜索功能
 | act2break_10 | 涣散喧嚣 | - | - |
 | act2break_11 | 生人勿近 | - | - |
 | act2break_12 | 维度误导 | - | - |
+| act2break_h01 | 可变性方程 | - | - |
+| act2break_h02 | 十九号车道 | - | - |
+| act2break_h03 | 自适应悖论 | - | - |
+| act2break_h04 | 认知剥离界域 | - | - |
 | act2break_sp01 | 自有方圆 | - | - |
 | act2break_sp02 | 物归原主 | - | - |
 | act2break_sp03 | 心中一泓 | - | - |
@@ -716,6 +720,13 @@ tip: 请善用浏览器的搜索功能
 | act2break_sp07 | 慧眼如炬 | - | - |
 | act2break_sp08 | 南辕北辙 | - | - |
 | act2break_sp09 | 刺骨苦难 | - | - |
+| act2break_sp10 | 速递怪谈 | - | - |
+| act2break_sp11 | 向死而生 | - | - |
+| act2break_sp12 | 狭岸相逢 | - | - |
+| act2break_sp13 | 过度狂热 | - | - |
+| act2break_sp14 | 水土不服 | - | - |
+| act2break_sp15 | 殊途同归 | - | - |
+| act2break_sp16 | 夺命光影 | - | - |
 | act2enemyduel_01a | 争锋对决！ | - | - |
 | act2enemyduel_01b | 争锋对决！ | - | - |
 | act2multi_01 | 无声的默契 | - | - |
