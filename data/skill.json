@@ -1042,6 +1042,15 @@
     "ja_JP": "「制圧」",
     "zh_CN": "“抢攻”"
   },
+  "skchr_demetr_1": {
+    "zh_CN": "家主的余裕"
+  },
+  "skchr_demetr_2": {
+    "zh_CN": "军师的手段"
+  },
+  "skchr_demetr_3": {
+    "zh_CN": "清算"
+  },
   "skchr_demkni_1": {
     "en_US": "First Aid",
     "ja_JP": "応急処置",
@@ -2097,6 +2106,12 @@
     "en_US": "Answer the Call",
     "ja_JP": "夏将軍の号令",
     "zh_CN": "一呼百应"
+  },
+  "skchr_liesel_1": {
+    "zh_CN": "合奏起拍"
+  },
+  "skchr_liesel_2": {
+    "zh_CN": "直到终曲"
   },
   "skchr_lin_1": {
     "en_US": "Elegance",
@@ -4684,10 +4699,10 @@
     "zh_CN": "坚守盾牌"
   },
   "sktok_acarm048_1": {
-    "zh_CN": "口袋法阵"
+    "zh_CN": "奥术法阵"
   },
   "sktok_acarm048_2": {
-    "zh_CN": "口袋法阵"
+    "zh_CN": "奥术法阵"
   },
   "sktok_acarm049_1": {
     "zh_CN": "歌利亚头盔"
@@ -4792,10 +4807,10 @@
     "zh_CN": "休眠子裔"
   },
   "sktok_acarm066_1": {
-    "zh_CN": "幸运硬币"
+    "zh_CN": "盟约之币"
   },
   "sktok_acarm066_2": {
-    "zh_CN": "幸运硬币"
+    "zh_CN": "盟约之币"
   },
   "sktok_acarm067_1": {
     "zh_CN": "双模机械臂"

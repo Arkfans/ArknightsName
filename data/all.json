@@ -1893,6 +1893,12 @@
       "zh_CN": "图耶"
     }
   },
+  "char_4031_liesel": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "复奏"
+    }
+  },
   "char_4032_provs": {
     "type": "OPERATOR",
     "names": {
@@ -1907,6 +1913,12 @@
       "en_US": "Enforcer",
       "ja_JP": "エンフォーサー",
       "zh_CN": "见行者"
+    }
+  },
+  "char_4037_demetr": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "贝洛内"
     }
   },
   "char_4039_horn": {
@@ -3911,6 +3923,12 @@
       "zh_CN": "棋子"
     }
   },
+  "token_10065_demetr_dmtpos": {
+    "type": "TOKEN",
+    "names": {
+      "zh_CN": "牵绊"
+    }
+  },
   "trap_079_allydonq": {
     "type": "TOKEN",
     "names": {
@@ -5052,7 +5070,7 @@
   "trap_1043_acarm043": {
     "type": "TRAP",
     "names": {
-      "zh_CN": "坚定维式重锤"
+      "zh_CN": "坚固维式重锤"
     }
   },
   "trap_1044_acarm044": {
@@ -5082,7 +5100,7 @@
   "trap_1048_acarm048": {
     "type": "TRAP",
     "names": {
-      "zh_CN": "口袋法阵"
+      "zh_CN": "奥术法阵"
     }
   },
   "trap_1049_acarm049": {
@@ -5206,7 +5224,7 @@
   "trap_1066_acarm066": {
     "type": "TRAP",
     "names": {
-      "zh_CN": "幸运硬币"
+      "zh_CN": "盟约之币"
     }
   },
   "trap_1067_acarm067": {
@@ -8987,6 +9005,12 @@
       "zh_CN": "夜归人"
     }
   },
+  "char_1043_leizi2@game#8": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "血翼蔷薇"
+    }
+  },
   "char_106_franka@ncg#1": {
     "type": "SKIN",
     "names": {
@@ -11117,6 +11141,12 @@
       "zh_CN": "灿阳朝露 SDm11"
     }
   },
+  "char_4023_rfalcn@epoque#52": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "三元风情"
+    }
+  },
   "char_4025_aprot2@whirlwind#5": {
     "type": "SKIN",
     "names": {
@@ -11691,6 +11721,12 @@
       "zh_CN": "链锯陪护者"
     }
   },
+  "char_4139_papyrs@game#8": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "下一个任务"
+    }
+  },
   "char_4140_lasher@sightseer#3": {
     "type": "SKIN",
     "names": {
@@ -11801,6 +11837,12 @@
     "type": "SKIN",
     "names": {
       "zh_CN": "月下执行者"
+    }
+  },
+  "char_4195_radian@game#8": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "乱数法则"
     }
   },
   "char_420_flamtl@game#2": {
@@ -25537,6 +25579,12 @@
       "zh_CN": "登录领取奖励"
     }
   },
+  "act20mini": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "十字路口"
+    }
+  },
   "act20side": {
     "type": "ACTIVITY",
     "names": {
@@ -29552,6 +29600,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "资源点数"
+    }
+  },
+  "act20mini_token_cork": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "软木瓶塞"
     }
   },
   "act20side_token_book": {
@@ -34939,6 +34993,12 @@
       "zh_CN": "图耶的信物"
     }
   },
+  "p_char_4031_liesel": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "复奏的信物"
+    }
+  },
   "p_char_4032_provs": {
     "type": "ITEM",
     "names": {
@@ -34953,6 +35013,12 @@
       "en_US": "Enforcer's Token",
       "ja_JP": "エンフォーサーの印",
       "zh_CN": "见行者的信物"
+    }
+  },
+  "p_char_4037_demetr": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "贝洛内的信物"
     }
   },
   "p_char_4039_horn": {
@@ -39003,6 +39069,12 @@
       "zh_CN": "往日幻象"
     }
   },
+  "RETURN_71_0_1": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "归航寻访"
+    }
+  },
   "SINGLE_37_0_1": {
     "type": "POOL",
     "names": {
@@ -39181,6 +39253,12 @@
     "type": "POOL",
     "names": {
       "zh_CN": "在凝固的时光中探寻"
+    }
+  },
+  "SINGLE_71_0_1": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "以我的方式"
     }
   },
   "SPECIAL_54_0_5": {
@@ -41842,6 +41920,24 @@
       "zh_CN": "“抢攻”"
     }
   },
+  "skchr_demetr_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "家主的余裕"
+    }
+  },
+  "skchr_demetr_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "军师的手段"
+    }
+  },
+  "skchr_demetr_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "清算"
+    }
+  },
   "skchr_demkni_1": {
     "type": "SKILL",
     "names": {
@@ -43556,6 +43652,18 @@
       "en_US": "Answer the Call",
       "ja_JP": "夏将軍の号令",
       "zh_CN": "一呼百应"
+    }
+  },
+  "skchr_liesel_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "合奏起拍"
+    }
+  },
+  "skchr_liesel_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "直到终曲"
     }
   },
   "skchr_lin_1": {
@@ -47769,13 +47877,13 @@
   "sktok_acarm048_1": {
     "type": "SKILL",
     "names": {
-      "zh_CN": "口袋法阵"
+      "zh_CN": "奥术法阵"
     }
   },
   "sktok_acarm048_2": {
     "type": "SKILL",
     "names": {
-      "zh_CN": "口袋法阵"
+      "zh_CN": "奥术法阵"
     }
   },
   "sktok_acarm049_1": {
@@ -47985,13 +48093,13 @@
   "sktok_acarm066_1": {
     "type": "SKILL",
     "names": {
-      "zh_CN": "幸运硬币"
+      "zh_CN": "盟约之币"
     }
   },
   "sktok_acarm066_2": {
     "type": "SKILL",
     "names": {
-      "zh_CN": "幸运硬币"
+      "zh_CN": "盟约之币"
     }
   },
   "sktok_acarm067_1": {
@@ -55470,48 +55578,6 @@
       "zh_CN": "环绕大地"
     }
   },
-  "act1autochess_m01": {
-    "type": "STAGE",
-    "names": {
-      "zh_CN": "AC-3"
-    }
-  },
-  "act1autochess_m02": {
-    "type": "STAGE",
-    "names": {
-      "zh_CN": "AC-4"
-    }
-  },
-  "act1autochess_m03": {
-    "type": "STAGE",
-    "names": {
-      "zh_CN": "AC-5"
-    }
-  },
-  "act1autochess_m04": {
-    "type": "STAGE",
-    "names": {
-      "zh_CN": "AC-6"
-    }
-  },
-  "act1autochess_m05": {
-    "type": "STAGE",
-    "names": {
-      "zh_CN": "AC-7"
-    }
-  },
-  "act1autochess_m06": {
-    "type": "STAGE",
-    "names": {
-      "zh_CN": "AC-8"
-    }
-  },
-  "act1autochess_m07": {
-    "type": "STAGE",
-    "names": {
-      "zh_CN": "AC-9"
-    }
-  },
   "act1bossrush_01": {
     "type": "STAGE",
     "names": {
@@ -56400,6 +56466,66 @@
       "en_US": "Suppressive Firepower",
       "ja_JP": "砲火の泥沼",
       "zh_CN": "炮火泥潭"
+    }
+  },
+  "act20mini_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "掌声之外"
+    }
+  },
+  "act20mini_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "高脚杯中的泡影"
+    }
+  },
+  "act20mini_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "立约的艺术"
+    }
+  },
+  "act20mini_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "醒酒之后"
+    }
+  },
+  "act20mini_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "种豆得豆"
+    }
+  },
+  "act20mini_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "定价"
+    }
+  },
+  "act20mini_07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "轻便的行李"
+    }
+  },
+  "act20mini_08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "准入许可"
+    }
+  },
+  "act20mini_s01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "新风向"
+    }
+  },
+  "act20mini_s02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "授信之人"
     }
   },
   "act20side_01": {
@@ -67194,6 +67320,12 @@
       "zh_CN": "第一阶段"
     }
   },
+  "act20mini_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "暗账"
+    }
+  },
   "act20side_zone1": {
     "type": "ZONE",
     "names": {
@@ -70432,6 +70564,12 @@
       "zh_CN": "以酒精之名！"
     }
   },
+  "story_gyuki_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "鬼的逮捕令"
+    }
+  },
   "story_haak_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -71164,6 +71302,12 @@
       "zh_CN": "未完成"
     }
   },
+  "story_orchid_set_2_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "A6成立的那一天"
+    }
+  },
   "story_otter_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -71294,6 +71438,12 @@
       "en_US": "Funtime",
       "ja_JP": "お遊びの中で",
       "zh_CN": "玩乐之间"
+    }
+  },
+  "story_popka_set_2_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "茧房"
     }
   },
   "story_prove_set_1_story_1": {

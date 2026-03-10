@@ -688,6 +688,9 @@
     "ja_JP": "アルコールの名のもとに！",
     "zh_CN": "以酒精之名！"
   },
+  "story_gyuki_set_1_story_1": {
+    "zh_CN": "鬼的逮捕令"
+  },
   "story_haak_set_1_story_1": {
     "en_US": "A Night of Terror",
     "ja_JP": "肝を冷やす夜",
@@ -1138,6 +1141,9 @@
     "ja_JP": "未完成",
     "zh_CN": "未完成"
   },
+  "story_orchid_set_2_story_1": {
+    "zh_CN": "A6成立的那一天"
+  },
   "story_otter_set_1_story_1": {
     "en_US": "One Packed Daily Schedule",
     "ja_JP": "仕事三昧",
@@ -1218,6 +1224,9 @@
     "en_US": "Funtime",
     "ja_JP": "お遊びの中で",
     "zh_CN": "玩乐之间"
+  },
+  "story_popka_set_2_story_1": {
+    "zh_CN": "茧房"
   },
   "story_prove_set_1_story_1": {
     "en_US": "Coworkers",

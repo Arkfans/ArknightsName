@@ -244,8 +244,10 @@ tip: 请善用浏览器的搜索功能
 | char_4026_vulpis | 忍冬 | Vulpisfoglia | ウルピスフォリア |
 | char_4027_heyak | 霍尔海雅 | Ho'olheyak | ホルハイヤ |
 | char_402_tuye | 图耶 | Tuye | トゥイエ |
+| char_4031_liesel | 复奏 | - | - |
 | char_4032_provs | 但书 | Proviso | プロヴァイゾ |
 | char_4036_forcer | 见行者 | Enforcer | エンフォーサー |
+| char_4037_demetr | 贝洛内 | - | - |
 | char_4039_horn | 号角 | Horn | ホルン |
 | char_4040_rockr | 洛洛 | Rockrock | ロックロック |
 | char_4041_chnut | 褐果 | Chestnut | チェストナット |

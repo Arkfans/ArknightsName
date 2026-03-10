@@ -218,6 +218,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_deepcl_2 | 视觉陷阱 | Visual Trap | トロンプイユ |
 | skchr_delphn_1 | “贯注” | 'Concentration' | 「集中」 |
 | skchr_delphn_2 | “抢攻” | 'Preemptive Strike' | 「制圧」 |
+| skchr_demetr_1 | 家主的余裕 | - | - |
+| skchr_demetr_2 | 军师的手段 | - | - |
+| skchr_demetr_3 | 清算 | - | - |
 | skchr_demkni_1 | 急救 | First Aid | 応急処置 |
 | skchr_demkni_2 | 药物配置 | Medicine Dispensing | 薬剤配置 |
 | skchr_demkni_3 | 钙质化 | Calcification | 硬質化 |
@@ -438,6 +441,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_lessng_2 | 虔修对决 | Clash of the Faithful | 苦行の縛り |
 | skchr_lessng_3 | 苦修破誓 | Oathbreaker | 誓いの破棄 |
 | skchr_leto_2 | 一呼百应 | Answer the Call | 夏将軍の号令 |
+| skchr_liesel_1 | 合奏起拍 | - | - |
+| skchr_liesel_2 | 直到终曲 | - | - |
 | skchr_lin_1 | 玲珑 | Elegance | 玲瓏 |
 | skchr_lin_2 | 荫庇 | Shelter | 木陰 |
 | skchr_lin_3 | 流光乍裂 | Riving Lighttails | 流光炸裂 |
@@ -979,8 +984,8 @@ tip: 请善用浏览器的搜索功能
 | sktok_acarm046_2 | 阿戈尔重刃 | - | - |
 | sktok_acarm047_1 | 坚守盾牌 | - | - |
 | sktok_acarm047_2 | 坚守盾牌 | - | - |
-| sktok_acarm048_1 | 口袋法阵 | - | - |
-| sktok_acarm048_2 | 口袋法阵 | - | - |
+| sktok_acarm048_1 | 奥术法阵 | - | - |
+| sktok_acarm048_2 | 奥术法阵 | - | - |
 | sktok_acarm049_1 | 歌利亚头盔 | - | - |
 | sktok_acarm049_2 | 歌利亚头盔 | - | - |
 | sktok_acarm050_1 | 萨尔贡浓茶 | - | - |
@@ -1015,8 +1020,8 @@ tip: 请善用浏览器的搜索功能
 | sktok_acarm064_2 | 突袭手雷 | - | - |
 | sktok_acarm065_1 | 休眠子裔 | - | - |
 | sktok_acarm065_2 | 休眠子裔 | - | - |
-| sktok_acarm066_1 | 幸运硬币 | - | - |
-| sktok_acarm066_2 | 幸运硬币 | - | - |
+| sktok_acarm066_1 | 盟约之币 | - | - |
+| sktok_acarm066_2 | 盟约之币 | - | - |
 | sktok_acarm067_1 | 双模机械臂 | - | - |
 | sktok_acarm067_2 | 双模机械臂 | - | - |
 | sktok_acarm068_1 | M3茧甲 | - | - |

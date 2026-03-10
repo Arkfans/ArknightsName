@@ -1874,27 +1874,6 @@
     "ja_JP": "大地を巡れ",
     "zh_CN": "环绕大地"
   },
-  "act1autochess_m01": {
-    "zh_CN": "AC-3"
-  },
-  "act1autochess_m02": {
-    "zh_CN": "AC-4"
-  },
-  "act1autochess_m03": {
-    "zh_CN": "AC-5"
-  },
-  "act1autochess_m04": {
-    "zh_CN": "AC-6"
-  },
-  "act1autochess_m05": {
-    "zh_CN": "AC-7"
-  },
-  "act1autochess_m06": {
-    "zh_CN": "AC-8"
-  },
-  "act1autochess_m07": {
-    "zh_CN": "AC-9"
-  },
   "act1bossrush_01": {
     "en_US": "Burn and Destroy",
     "ja_JP": "無尽の炎と破壊の鋸",
@@ -2439,6 +2418,36 @@
     "en_US": "Suppressive Firepower",
     "ja_JP": "砲火の泥沼",
     "zh_CN": "炮火泥潭"
+  },
+  "act20mini_01": {
+    "zh_CN": "掌声之外"
+  },
+  "act20mini_02": {
+    "zh_CN": "高脚杯中的泡影"
+  },
+  "act20mini_03": {
+    "zh_CN": "立约的艺术"
+  },
+  "act20mini_04": {
+    "zh_CN": "醒酒之后"
+  },
+  "act20mini_05": {
+    "zh_CN": "种豆得豆"
+  },
+  "act20mini_06": {
+    "zh_CN": "定价"
+  },
+  "act20mini_07": {
+    "zh_CN": "轻便的行李"
+  },
+  "act20mini_08": {
+    "zh_CN": "准入许可"
+  },
+  "act20mini_s01": {
+    "zh_CN": "新风向"
+  },
+  "act20mini_s02": {
+    "zh_CN": "授信之人"
   },
   "act20side_01": {
     "en_US": "Alternate Reality Tourism",

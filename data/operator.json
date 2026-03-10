@@ -1176,6 +1176,9 @@
     "ja_JP": "トゥイエ",
     "zh_CN": "图耶"
   },
+  "char_4031_liesel": {
+    "zh_CN": "复奏"
+  },
   "char_4032_provs": {
     "en_US": "Proviso",
     "ja_JP": "プロヴァイゾ",
@@ -1185,6 +1188,9 @@
     "en_US": "Enforcer",
     "ja_JP": "エンフォーサー",
     "zh_CN": "见行者"
+  },
+  "char_4037_demetr": {
+    "zh_CN": "贝洛内"
   },
   "char_4039_horn": {
     "en_US": "Horn",

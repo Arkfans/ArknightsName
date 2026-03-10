@@ -244,8 +244,10 @@ tip: 请善用浏览器的搜索功能
 | char_4026_vulpis | 忍冬 | Vulpisfoglia | ウルピスフォリア |
 | char_4027_heyak | 霍尔海雅 | Ho'olheyak | ホルハイヤ |
 | char_402_tuye | 图耶 | Tuye | トゥイエ |
+| char_4031_liesel | 复奏 | - | - |
 | char_4032_provs | 但书 | Proviso | プロヴァイゾ |
 | char_4036_forcer | 见行者 | Enforcer | エンフォーサー |
+| char_4037_demetr | 贝洛内 | - | - |
 | char_4039_horn | 号角 | Horn | ホルン |
 | char_4040_rockr | 洛洛 | Rockrock | ロックロック |
 | char_4041_chnut | 褐果 | Chestnut | チェストナット |
@@ -505,6 +507,7 @@ tip: 请善用浏览器的搜索功能
 | token_10060_nasti_nstchr | “监工专员” | - | - |
 | token_10061_nasti_nstbld | “应急承重小组” | - | - |
 | token_10064_wang_stone1 | 棋子 | - | - |
+| token_10065_demetr_dmtpos | 牵绊 | - | - |
 | trap_079_allydonq | 猎潮的骑士 | Tide-Hunt Knight | 猟潮の騎士 |
 | trap_001_crate | 障碍物 | Roadblock | 障害物 |
 | trap_002_emp | 震撼装置 | Stun Generator | EMP発生装置 |
@@ -648,12 +651,12 @@ tip: 请善用浏览器的搜索功能
 | trap_1040_acarm040 | 炎国短刀 | - | - |
 | trap_1041_acarm041 | 维式重锤 | - | - |
 | trap_1042_acarm042 | 灼燃维式重锤 | - | - |
-| trap_1043_acarm043 | 坚定维式重锤 | - | - |
+| trap_1043_acarm043 | 坚固维式重锤 | - | - |
 | trap_1044_acarm044 | 加速维式重锤 | - | - |
 | trap_1045_acarm045 | 战栗维式重锤 | - | - |
 | trap_1046_acarm046 | 阿戈尔重刃 | - | - |
 | trap_1047_acarm047 | 坚守盾牌 | - | - |
-| trap_1048_acarm048 | 口袋法阵 | - | - |
+| trap_1048_acarm048 | 奥术法阵 | - | - |
 | trap_1049_acarm049 | 歌利亚头盔 | - | - |
 | trap_104_dplant | 改性植物激素 | Modified Phytohormone | 改良型植物ホルモン |
 | trap_1050_acarm050 | 萨尔贡浓茶 | - | - |
@@ -673,7 +676,7 @@ tip: 请善用浏览器的搜索功能
 | trap_1063_acarm063 | 精准狙击镜 | - | - |
 | trap_1064_acarm064 | 突袭手雷 | - | - |
 | trap_1065_acarm065 | 休眠子裔 | - | - |
-| trap_1066_acarm066 | 幸运硬币 | - | - |
+| trap_1066_acarm066 | 盟约之币 | - | - |
 | trap_1067_acarm067 | 双模机械臂 | - | - |
 | trap_1068_acarm068 | M3茧甲 | - | - |
 | trap_1069_acarm069 | 拟态物质 | - | - |
@@ -1183,6 +1186,7 @@ tip: 请善用浏览器的搜索功能
 | char_103_angel@sale#8 | 午夜邮差 | Midnight Delivery | 真夜中の配達人 |
 | char_103_angel@wild#1 | 野地秘行 | Wild Operation | 荒野潜行 |
 | char_1040_blaze2@winter#5 | 夜归人 | - | - |
+| char_1043_leizi2@game#8 | 血翼蔷薇 | - | - |
 | char_106_franka@ncg#1 | 林虹之间 | Rainforest, Me, Rainbow | 深緑にかかる虹 |
 | char_107_liskam@nian#2 | 春竜 | Spring Vouivre | 春竜 |
 | char_107_liskam@striker#1 | 超载 | Overload | オーバーロード |
@@ -1455,6 +1459,7 @@ tip: 请善用浏览器的搜索功能
 | char_4019_ncdeer@ncdeer#1 | 古往今来的月 | A Silvern Caress On the Flow of Time | 古往今来の月 |
 | char_401_elysm@snow#2 | 雪夜回音 | Snowy Echo | 雪夜の思い出 |
 | char_401_elysm@summer#9 | 灿阳朝露 SDm11 | Shimmering Dew SDm11 | 炎陽煌く露SDm11 |
+| char_4023_rfalcn@epoque#52 | 三元风情 | - | - |
 | char_4025_aprot2@whirlwind#5 | 结果 | The Fruition | 結実 |
 | char_4027_heyak@ambienceSynesthesia#4 | 历世流风 | Carriage of the Winds of Time | 悠久の風に吹かれ |
 | char_4027_heyak@epoque#50 | 恒久祭礼 | - | - |
@@ -1529,6 +1534,7 @@ tip: 请善用浏览器的搜索功能
 | char_4136_phonor@boc#9 | 最初的颂歌 | Primordial Ode | 始まりの賛歌 |
 | char_4137_udflow@epoque#46 | 层流 | Laminar Flow | 層流 |
 | char_4138_narant@breaker#1 | 链锯陪护者 | - | - |
+| char_4139_papyrs@game#8 | 下一个任务 | - | - |
 | char_4140_lasher@sightseer#3 | 憩羽 | - | - |
 | char_4141_marcil@dungeon#1 | 泰拉冒险 | Terra & Traveller | テラの冒険者 |
 | char_4145_ulpia@epoque#48 | 注目深渊 | - | - |
@@ -1546,6 +1552,7 @@ tip: 请善用浏览器的搜索功能
 | char_4184_dolris@avemujica#1 | 笼中歌者 | - | - |
 | char_4185_amoris@avemujica#1 | 情热魔术师 | - | - |
 | char_4186_tmoris@avemujica#1 | 月下执行者 | - | - |
+| char_4195_radian@game#8 | 乱数法则 | - | - |
 | char_420_flamtl@game#2 | 小健将 | Sport For All | サイバー闘技者 |
 | char_421_crow@summer#9 | 夏卉 FA210 | Summer Flowers FA210 | 夏の花弁FA210 |
 | char_422_aurora@boc#4 | 极昼捕手 | Polar Catcher | 白夜踏破 |
@@ -3328,6 +3335,7 @@ tip: 请善用浏览器的搜索功能
 | act1vhalfidle | 次生预案 | - | - |
 | act1video | 留影烁今登录活动 | - | - |
 | act20login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
+| act20mini | 十字路口 | - | - |
 | act20side | 理想城：长夏狂欢季 | Ideal City: Endless Carnival | 理想都市-エンドレスカーニバル- |
 | act20sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act20sre | 理想城：长夏狂欢季·复刻 | Ideal City: Endless Carnival - Rerun | 理想都市-エンドレスカーニバル-・復刻 |
@@ -3858,6 +3866,7 @@ Event | なないろのお茶会 |
 | act1vhalfidle_skill_exp | 技巧手册 | - | - |
 | act1vhalfidle_strategy_point | 策略信标 | - | - |
 | act1vhalfidle_token_point | 资源点数 | - | - |
+| act20mini_token_cork | 软木瓶塞 | - | - |
 | act20side_token_book | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
 | act20side_token_book_rep_1 | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
 | act21side_token_permesso | 进货通行证 | Permesso di Importazione | 買付許可証 |
@@ -4554,8 +4563,10 @@ Event | なないろのお茶会 |
 | p_char_4026_vulpis | 忍冬的信物 | Vulpisfoglia's Token | ウルピスフォリアの印 |
 | p_char_4027_heyak | 霍尔海雅的信物 | Ho'olheyak's Token | ホルハイヤの印 |
 | p_char_402_tuye | 图耶的信物 | Tuye's Token | トゥイエの印 |
+| p_char_4031_liesel | 复奏的信物 | - | - |
 | p_char_4032_provs | 但书的信物 | Proviso's Token | プロヴァイゾの印 |
 | p_char_4036_forcer | 见行者的信物 | Enforcer's Token | エンフォーサーの印 |
+| p_char_4037_demetr | 贝洛内的信物 | - | - |
 | p_char_4039_horn | 号角的信物 | Horn's Token | ホルンの印 |
 | p_char_4040_rockr | 洛洛的信物 | Rockrock's Token | ロックロックの印 |
 | p_char_4041_chnut | 褐果的信物 | Chestnut's Token | チェストナットの印 |
@@ -5098,6 +5109,7 @@ Event | なないろのお茶会 |
 | NORM_7_0_1 | 百种兵器 | - | - |
 | NORM_8_0_1 | 草垛上的风笛声 | - | - |
 | NORM_9_0_1 | 往日幻象 | - | - |
+| RETURN_71_0_1 | 归航寻访 | - | - |
 | SINGLE_37_0_1 | 犹在影中 | - | - |
 | SINGLE_39_0_1 | 执裁者 | - | - |
 | SINGLE_39_0_2 | 不协和音程 | - | - |
@@ -5128,6 +5140,7 @@ Event | なないろのお茶会 |
 | SINGLE_68_0_1 | 现实之上六百米 | - | - |
 | SINGLE_68_0_3 | 证实，完成，指引 | - | - |
 | SINGLE_69_0_1 | 在凝固的时光中探寻 | - | - |
+| SINGLE_71_0_1 | 以我的方式 | - | - |
 | SPECIAL_54_0_5 | 定向甄选 | - | - |
 | SPECIAL_59_0_3 | 定向甄选 | - | - |
 | SPECIAL_61_0_3 | 定向甄选 | - | - |
@@ -5482,6 +5495,9 @@ Event | なないろのお茶会 |
 | skchr_deepcl_2 | 视觉陷阱 | Visual Trap | トロンプイユ |
 | skchr_delphn_1 | “贯注” | 'Concentration' | 「集中」 |
 | skchr_delphn_2 | “抢攻” | 'Preemptive Strike' | 「制圧」 |
+| skchr_demetr_1 | 家主的余裕 | - | - |
+| skchr_demetr_2 | 军师的手段 | - | - |
+| skchr_demetr_3 | 清算 | - | - |
 | skchr_demkni_1 | 急救 | First Aid | 応急処置 |
 | skchr_demkni_2 | 药物配置 | Medicine Dispensing | 薬剤配置 |
 | skchr_demkni_3 | 钙质化 | Calcification | 硬質化 |
@@ -5702,6 +5718,8 @@ Event | なないろのお茶会 |
 | skchr_lessng_2 | 虔修对决 | Clash of the Faithful | 苦行の縛り |
 | skchr_lessng_3 | 苦修破誓 | Oathbreaker | 誓いの破棄 |
 | skchr_leto_2 | 一呼百应 | Answer the Call | 夏将軍の号令 |
+| skchr_liesel_1 | 合奏起拍 | - | - |
+| skchr_liesel_2 | 直到终曲 | - | - |
 | skchr_lin_1 | 玲珑 | Elegance | 玲瓏 |
 | skchr_lin_2 | 荫庇 | Shelter | 木陰 |
 | skchr_lin_3 | 流光乍裂 | Riving Lighttails | 流光炸裂 |
@@ -6243,8 +6261,8 @@ Event | なないろのお茶会 |
 | sktok_acarm046_2 | 阿戈尔重刃 | - | - |
 | sktok_acarm047_1 | 坚守盾牌 | - | - |
 | sktok_acarm047_2 | 坚守盾牌 | - | - |
-| sktok_acarm048_1 | 口袋法阵 | - | - |
-| sktok_acarm048_2 | 口袋法阵 | - | - |
+| sktok_acarm048_1 | 奥术法阵 | - | - |
+| sktok_acarm048_2 | 奥术法阵 | - | - |
 | sktok_acarm049_1 | 歌利亚头盔 | - | - |
 | sktok_acarm049_2 | 歌利亚头盔 | - | - |
 | sktok_acarm050_1 | 萨尔贡浓茶 | - | - |
@@ -6279,8 +6297,8 @@ Event | なないろのお茶会 |
 | sktok_acarm064_2 | 突袭手雷 | - | - |
 | sktok_acarm065_1 | 休眠子裔 | - | - |
 | sktok_acarm065_2 | 休眠子裔 | - | - |
-| sktok_acarm066_1 | 幸运硬币 | - | - |
-| sktok_acarm066_2 | 幸运硬币 | - | - |
+| sktok_acarm066_1 | 盟约之币 | - | - |
+| sktok_acarm066_2 | 盟约之币 | - | - |
 | sktok_acarm067_1 | 双模机械臂 | - | - |
 | sktok_acarm067_2 | 双模机械臂 | - | - |
 | sktok_acarm068_1 | M3茧甲 | - | - |
@@ -7247,13 +7265,6 @@ Event | なないろのお茶会 |
 | act1arcade_m4_01 | 陆上行船 | Boat Out of Water | 陸上航行 |
 | act1arcade_m4_02 | 冲出激浪 | Brave the Waves | 荒波を越えろ |
 | act1arcade_m4_03 | 环绕大地 | Journey the Land | 大地を巡れ |
-| act1autochess_m01 | AC-3 | - | - |
-| act1autochess_m02 | AC-4 | - | - |
-| act1autochess_m03 | AC-5 | - | - |
-| act1autochess_m04 | AC-6 | - | - |
-| act1autochess_m05 | AC-7 | - | - |
-| act1autochess_m06 | AC-8 | - | - |
-| act1autochess_m07 | AC-9 | - | - |
 | act1bossrush_01 | 无尽灼烧与强力破坏 | Burn and Destroy | 無尽の炎と破壊の鋸 |
 | act1bossrush_02 | 卷土重来 | Comeback | 捲土重来 |
 | act1bossrush_03 | 风沙轰隆隆 | Rolling Sands | 塵旋風とどろく |
@@ -7369,6 +7380,16 @@ Event | なないろのお茶会 |
 | act1vecb_sp06 | 酒厂英豪 | Master Vintner | 醸造場の英傑 |
 | act1vecb_sp07 | 异质聚群 | Heterogeneous Clusters | 異質なるものの群れ |
 | act1vecb_sp08 | 炮火泥潭 | Suppressive Firepower | 砲火の泥沼 |
+| act20mini_01 | 掌声之外 | - | - |
+| act20mini_02 | 高脚杯中的泡影 | - | - |
+| act20mini_03 | 立约的艺术 | - | - |
+| act20mini_04 | 醒酒之后 | - | - |
+| act20mini_05 | 种豆得豆 | - | - |
+| act20mini_06 | 定价 | - | - |
+| act20mini_07 | 轻便的行李 | - | - |
+| act20mini_08 | 准入许可 | - | - |
+| act20mini_s01 | 新风向 | - | - |
+| act20mini_s02 | 授信之人 | - | - |
 | act20side_01 | 沉浸式游览 | Alternate Reality Tourism | 没入型ツアー |
 | act20side_02 | 下坠 | Freefall | 落下 |
 | act20side_03 | 奇谈怪论 | Stranger Things | 奇談怪論 |
@@ -8773,6 +8794,7 @@ Event | なないろのお茶会 |
 | act1r6sre_zone1 | 行动记录 | Task Record | 作戦記録 |
 | act1r6sre_zone2 | 备战训练 | Para Bellum | 戦闘訓練 |
 | act1vecb_zone1 | 第一阶段 | Phase 1 | 第一段階 |
+| act20mini_zone1 | 暗账 | - | - |
 | act20side_zone1 | 地底观光 | Underground Sightseeing | 地底観光 |
 | act20side_zone2 | 文化冲击 | Cultural Shock | 異文化交流 |
 | act20side_zone3 | 升降梯整备 | Elevator Maintenance | 昇降機整備 |
@@ -9191,6 +9213,7 @@ Event | なないろのお茶会 |
 | story_greyy2_set_1_story_1 | 撰写光明 | Light, He Wrote | 綴られる光 |
 | story_greyy_set_1_story_1 | 过滤星星 | Filter Stars | 濾される星屑 |
 | story_gvial2_set_1_story_1 | 以酒精之名！ | In the Name of Alcohol! | アルコールの名のもとに！ |
+| story_gyuki_set_1_story_1 | 鬼的逮捕令 | - | - |
 | story_haak_set_1_story_1 | 惊弓一夜 | A Night of Terror | 肝を冷やす夜 |
 | story_haini_set_1_story_1 | 怀有希望之人 | The Hopeful Ones | 希望を抱く人 |
 | story_halo2_set_1_story_1 | 谢拉格假期 | - | - |
@@ -9285,6 +9308,7 @@ Event | なないろのお茶会 |
 | story_nowell_set_1_story_1 | 当我们人生开始时 | When Our Lives Began | 我らの人生が始まる時 |
 | story_nymph_set_1_story_1 | 跃动的微光 | - | - |
 | story_orchid_set_1_story_1 | 未完成 | Incomplete | 未完成 |
+| story_orchid_set_2_story_1 | A6成立的那一天 | - | - |
 | story_otter_set_1_story_1 | 满满的日程表 | One Packed Daily Schedule | 仕事三昧 |
 | story_otter_set_2_story_1 | 造物之心 | Heart of Creation | 創り出す心 |
 | story_panda_set_1_story_1 | 一落千丈 | Nosedive | 一落千丈 |
@@ -9302,6 +9326,7 @@ Event | なないろのお茶会 |
 | story_poca_set_1_story_1 | 昨天的明天 | Yesterday's Morrow | 昨日の明日 |
 | story_podego_set_1_story_1 | 花期 | Bloom Season | 花開く時 |
 | story_popka_set_1_story_1 | 玩乐之间 | Funtime | お遊びの中で |
+| story_popka_set_2_story_1 | 茧房 | - | - |
 | story_prove_set_1_story_1 | 同事们 | Coworkers | カンパニー |
 | story_prove_set_2_story_1 | 崎路前行 | A Perilous Road | 険しき道を征く |
 | story_provs_set_1_story_1 | 假定公正 | Hypothetically Just | 法に基づく公正 |

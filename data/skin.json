@@ -225,6 +225,9 @@
   "char_1040_blaze2@winter#5": {
     "zh_CN": "夜归人"
   },
+  "char_1043_leizi2@game#8": {
+    "zh_CN": "血翼蔷薇"
+  },
   "char_106_franka@ncg#1": {
     "en_US": "Rainforest, Me, Rainbow",
     "ja_JP": "深緑にかかる虹",
@@ -1539,6 +1542,9 @@
     "ja_JP": "炎陽煌く露SDm11",
     "zh_CN": "灿阳朝露 SDm11"
   },
+  "char_4023_rfalcn@epoque#52": {
+    "zh_CN": "三元风情"
+  },
   "char_4025_aprot2@whirlwind#5": {
     "en_US": "The Fruition",
     "ja_JP": "結実",
@@ -1891,6 +1897,9 @@
   "char_4138_narant@breaker#1": {
     "zh_CN": "链锯陪护者"
   },
+  "char_4139_papyrs@game#8": {
+    "zh_CN": "下一个任务"
+  },
   "char_4140_lasher@sightseer#3": {
     "zh_CN": "憩羽"
   },
@@ -1951,6 +1960,9 @@
   },
   "char_4186_tmoris@avemujica#1": {
     "zh_CN": "月下执行者"
+  },
+  "char_4195_radian@game#8": {
+    "zh_CN": "乱数法则"
   },
   "char_420_flamtl@game#2": {
     "en_US": "Sport For All",

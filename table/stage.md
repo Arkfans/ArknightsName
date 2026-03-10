@@ -384,13 +384,6 @@ tip: 请善用浏览器的搜索功能
 | act1arcade_m4_01 | 陆上行船 | Boat Out of Water | 陸上航行 |
 | act1arcade_m4_02 | 冲出激浪 | Brave the Waves | 荒波を越えろ |
 | act1arcade_m4_03 | 环绕大地 | Journey the Land | 大地を巡れ |
-| act1autochess_m01 | AC-3 | - | - |
-| act1autochess_m02 | AC-4 | - | - |
-| act1autochess_m03 | AC-5 | - | - |
-| act1autochess_m04 | AC-6 | - | - |
-| act1autochess_m05 | AC-7 | - | - |
-| act1autochess_m06 | AC-8 | - | - |
-| act1autochess_m07 | AC-9 | - | - |
 | act1bossrush_01 | 无尽灼烧与强力破坏 | Burn and Destroy | 無尽の炎と破壊の鋸 |
 | act1bossrush_02 | 卷土重来 | Comeback | 捲土重来 |
 | act1bossrush_03 | 风沙轰隆隆 | Rolling Sands | 塵旋風とどろく |
@@ -506,6 +499,16 @@ tip: 请善用浏览器的搜索功能
 | act1vecb_sp06 | 酒厂英豪 | Master Vintner | 醸造場の英傑 |
 | act1vecb_sp07 | 异质聚群 | Heterogeneous Clusters | 異質なるものの群れ |
 | act1vecb_sp08 | 炮火泥潭 | Suppressive Firepower | 砲火の泥沼 |
+| act20mini_01 | 掌声之外 | - | - |
+| act20mini_02 | 高脚杯中的泡影 | - | - |
+| act20mini_03 | 立约的艺术 | - | - |
+| act20mini_04 | 醒酒之后 | - | - |
+| act20mini_05 | 种豆得豆 | - | - |
+| act20mini_06 | 定价 | - | - |
+| act20mini_07 | 轻便的行李 | - | - |
+| act20mini_08 | 准入许可 | - | - |
+| act20mini_s01 | 新风向 | - | - |
+| act20mini_s02 | 授信之人 | - | - |
 | act20side_01 | 沉浸式游览 | Alternate Reality Tourism | 没入型ツアー |
 | act20side_02 | 下坠 | Freefall | 落下 |
 | act20side_03 | 奇谈怪论 | Stranger Things | 奇談怪論 |

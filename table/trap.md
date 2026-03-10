@@ -147,12 +147,12 @@ tip: 请善用浏览器的搜索功能
 | trap_1040_acarm040 | 炎国短刀 | - | - |
 | trap_1041_acarm041 | 维式重锤 | - | - |
 | trap_1042_acarm042 | 灼燃维式重锤 | - | - |
-| trap_1043_acarm043 | 坚定维式重锤 | - | - |
+| trap_1043_acarm043 | 坚固维式重锤 | - | - |
 | trap_1044_acarm044 | 加速维式重锤 | - | - |
 | trap_1045_acarm045 | 战栗维式重锤 | - | - |
 | trap_1046_acarm046 | 阿戈尔重刃 | - | - |
 | trap_1047_acarm047 | 坚守盾牌 | - | - |
-| trap_1048_acarm048 | 口袋法阵 | - | - |
+| trap_1048_acarm048 | 奥术法阵 | - | - |
 | trap_1049_acarm049 | 歌利亚头盔 | - | - |
 | trap_104_dplant | 改性植物激素 | Modified Phytohormone | 改良型植物ホルモン |
 | trap_1050_acarm050 | 萨尔贡浓茶 | - | - |
@@ -172,7 +172,7 @@ tip: 请善用浏览器的搜索功能
 | trap_1063_acarm063 | 精准狙击镜 | - | - |
 | trap_1064_acarm064 | 突袭手雷 | - | - |
 | trap_1065_acarm065 | 休眠子裔 | - | - |
-| trap_1066_acarm066 | 幸运硬币 | - | - |
+| trap_1066_acarm066 | 盟约之币 | - | - |
 | trap_1067_acarm067 | 双模机械臂 | - | - |
 | trap_1068_acarm068 | M3茧甲 | - | - |
 | trap_1069_acarm069 | 拟态物质 | - | - |

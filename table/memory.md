@@ -146,6 +146,7 @@ tip: 请善用浏览器的搜索功能
 | story_greyy2_set_1_story_1 | 撰写光明 | Light, He Wrote | 綴られる光 |
 | story_greyy_set_1_story_1 | 过滤星星 | Filter Stars | 濾される星屑 |
 | story_gvial2_set_1_story_1 | 以酒精之名！ | In the Name of Alcohol! | アルコールの名のもとに！ |
+| story_gyuki_set_1_story_1 | 鬼的逮捕令 | - | - |
 | story_haak_set_1_story_1 | 惊弓一夜 | A Night of Terror | 肝を冷やす夜 |
 | story_haini_set_1_story_1 | 怀有希望之人 | The Hopeful Ones | 希望を抱く人 |
 | story_halo2_set_1_story_1 | 谢拉格假期 | - | - |
@@ -240,6 +241,7 @@ tip: 请善用浏览器的搜索功能
 | story_nowell_set_1_story_1 | 当我们人生开始时 | When Our Lives Began | 我らの人生が始まる時 |
 | story_nymph_set_1_story_1 | 跃动的微光 | - | - |
 | story_orchid_set_1_story_1 | 未完成 | Incomplete | 未完成 |
+| story_orchid_set_2_story_1 | A6成立的那一天 | - | - |
 | story_otter_set_1_story_1 | 满满的日程表 | One Packed Daily Schedule | 仕事三昧 |
 | story_otter_set_2_story_1 | 造物之心 | Heart of Creation | 創り出す心 |
 | story_panda_set_1_story_1 | 一落千丈 | Nosedive | 一落千丈 |
@@ -257,6 +259,7 @@ tip: 请善用浏览器的搜索功能
 | story_poca_set_1_story_1 | 昨天的明天 | Yesterday's Morrow | 昨日の明日 |
 | story_podego_set_1_story_1 | 花期 | Bloom Season | 花開く時 |
 | story_popka_set_1_story_1 | 玩乐之间 | Funtime | お遊びの中で |
+| story_popka_set_2_story_1 | 茧房 | - | - |
 | story_prove_set_1_story_1 | 同事们 | Coworkers | カンパニー |
 | story_prove_set_2_story_1 | 崎路前行 | A Perilous Road | 険しき道を征く |
 | story_provs_set_1_story_1 | 假定公正 | Hypothetically Just | 法に基づく公正 |

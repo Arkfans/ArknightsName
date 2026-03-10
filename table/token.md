@@ -71,4 +71,5 @@ tip: 请善用浏览器的搜索功能
 | token_10060_nasti_nstchr | “监工专员” | - | - |
 | token_10061_nasti_nstbld | “应急承重小组” | - | - |
 | token_10064_wang_stone1 | 棋子 | - | - |
+| token_10065_demetr_dmtpos | 牵绊 | - | - |
 | trap_079_allydonq | 猎潮的骑士 | Tide-Hunt Knight | 猟潮の騎士 |

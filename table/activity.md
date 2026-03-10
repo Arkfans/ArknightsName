@@ -115,6 +115,7 @@ tip: 请善用浏览器的搜索功能
 | act1vhalfidle | 次生预案 | - | - |
 | act1video | 留影烁今登录活动 | - | - |
 | act20login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
+| act20mini | 十字路口 | - | - |
 | act20side | 理想城：长夏狂欢季 | Ideal City: Endless Carnival | 理想都市-エンドレスカーニバル- |
 | act20sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act20sre | 理想城：长夏狂欢季·复刻 | Ideal City: Endless Carnival - Rerun | 理想都市-エンドレスカーニバル-・復刻 |

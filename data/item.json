@@ -1435,6 +1435,9 @@
   "act1vhalfidle_token_point": {
     "zh_CN": "资源点数"
   },
+  "act20mini_token_cork": {
+    "zh_CN": "软木瓶塞"
+  },
   "act20side_token_book": {
     "en_US": "Photocopies of 'Stranger Things'",
     "ja_JP": "『奇談怪論』複製本",
@@ -4738,6 +4741,9 @@
     "ja_JP": "トゥイエの印",
     "zh_CN": "图耶的信物"
   },
+  "p_char_4031_liesel": {
+    "zh_CN": "复奏的信物"
+  },
   "p_char_4032_provs": {
     "en_US": "Proviso's Token",
     "ja_JP": "プロヴァイゾの印",
@@ -4747,6 +4753,9 @@
     "en_US": "Enforcer's Token",
     "ja_JP": "エンフォーサーの印",
     "zh_CN": "见行者的信物"
+  },
+  "p_char_4037_demetr": {
+    "zh_CN": "贝洛内的信物"
   },
   "p_char_4039_horn": {
     "en_US": "Horn's Token",

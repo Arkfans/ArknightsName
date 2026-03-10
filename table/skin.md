@@ -55,6 +55,7 @@ tip: 请善用浏览器的搜索功能
 | char_103_angel@sale#8 | 午夜邮差 | Midnight Delivery | 真夜中の配達人 |
 | char_103_angel@wild#1 | 野地秘行 | Wild Operation | 荒野潜行 |
 | char_1040_blaze2@winter#5 | 夜归人 | - | - |
+| char_1043_leizi2@game#8 | 血翼蔷薇 | - | - |
 | char_106_franka@ncg#1 | 林虹之间 | Rainforest, Me, Rainbow | 深緑にかかる虹 |
 | char_107_liskam@nian#2 | 春竜 | Spring Vouivre | 春竜 |
 | char_107_liskam@striker#1 | 超载 | Overload | オーバーロード |
@@ -327,6 +328,7 @@ tip: 请善用浏览器的搜索功能
 | char_4019_ncdeer@ncdeer#1 | 古往今来的月 | A Silvern Caress On the Flow of Time | 古往今来の月 |
 | char_401_elysm@snow#2 | 雪夜回音 | Snowy Echo | 雪夜の思い出 |
 | char_401_elysm@summer#9 | 灿阳朝露 SDm11 | Shimmering Dew SDm11 | 炎陽煌く露SDm11 |
+| char_4023_rfalcn@epoque#52 | 三元风情 | - | - |
 | char_4025_aprot2@whirlwind#5 | 结果 | The Fruition | 結実 |
 | char_4027_heyak@ambienceSynesthesia#4 | 历世流风 | Carriage of the Winds of Time | 悠久の風に吹かれ |
 | char_4027_heyak@epoque#50 | 恒久祭礼 | - | - |
@@ -401,6 +403,7 @@ tip: 请善用浏览器的搜索功能
 | char_4136_phonor@boc#9 | 最初的颂歌 | Primordial Ode | 始まりの賛歌 |
 | char_4137_udflow@epoque#46 | 层流 | Laminar Flow | 層流 |
 | char_4138_narant@breaker#1 | 链锯陪护者 | - | - |
+| char_4139_papyrs@game#8 | 下一个任务 | - | - |
 | char_4140_lasher@sightseer#3 | 憩羽 | - | - |
 | char_4141_marcil@dungeon#1 | 泰拉冒险 | Terra & Traveller | テラの冒険者 |
 | char_4145_ulpia@epoque#48 | 注目深渊 | - | - |
@@ -418,6 +421,7 @@ tip: 请善用浏览器的搜索功能
 | char_4184_dolris@avemujica#1 | 笼中歌者 | - | - |
 | char_4185_amoris@avemujica#1 | 情热魔术师 | - | - |
 | char_4186_tmoris@avemujica#1 | 月下执行者 | - | - |
+| char_4195_radian@game#8 | 乱数法则 | - | - |
 | char_420_flamtl@game#2 | 小健将 | Sport For All | サイバー闘技者 |
 | char_421_crow@summer#9 | 夏卉 FA210 | Summer Flowers FA210 | 夏の花弁FA210 |
 | char_422_aurora@boc#4 | 极昼捕手 | Polar Catcher | 白夜踏破 |

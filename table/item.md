@@ -305,6 +305,7 @@ tip: 请善用浏览器的搜索功能
 | act1vhalfidle_skill_exp | 技巧手册 | - | - |
 | act1vhalfidle_strategy_point | 策略信标 | - | - |
 | act1vhalfidle_token_point | 资源点数 | - | - |
+| act20mini_token_cork | 软木瓶塞 | - | - |
 | act20side_token_book | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
 | act20side_token_book_rep_1 | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
 | act21side_token_permesso | 进货通行证 | Permesso di Importazione | 買付許可証 |
@@ -1001,8 +1002,10 @@ tip: 请善用浏览器的搜索功能
 | p_char_4026_vulpis | 忍冬的信物 | Vulpisfoglia's Token | ウルピスフォリアの印 |
 | p_char_4027_heyak | 霍尔海雅的信物 | Ho'olheyak's Token | ホルハイヤの印 |
 | p_char_402_tuye | 图耶的信物 | Tuye's Token | トゥイエの印 |
+| p_char_4031_liesel | 复奏的信物 | - | - |
 | p_char_4032_provs | 但书的信物 | Proviso's Token | プロヴァイゾの印 |
 | p_char_4036_forcer | 见行者的信物 | Enforcer's Token | エンフォーサーの印 |
+| p_char_4037_demetr | 贝洛内的信物 | - | - |
 | p_char_4039_horn | 号角的信物 | Horn's Token | ホルンの印 |
 | p_char_4040_rockr | 洛洛的信物 | Rockrock's Token | ロックロックの印 |
 | p_char_4041_chnut | 褐果的信物 | Chestnut's Token | チェストナットの印 |

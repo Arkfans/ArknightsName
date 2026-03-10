@@ -194,6 +194,7 @@ tip: 请善用浏览器的搜索功能
 | avg_282_catap_1 | 空爆 | Catapult | カタパルト |
 | avg_286_cast3_1 | Castle-3 | Abnormal Castle-3 | Castle-3 |
 |   | 异常的Castle-3 | Castle-3 | 異常なCastle-3 |
+| avg_289_gyuki_1 | 缠丸 | - | - |
 | avg_290_vigna_1 | 红豆 | - | - |
 | avg_293_thorns_1 | 伊西多 | Isidro | イシドロ |
 | avg_294_ayer_1 | 断崖 | Ayerscarpe | エアースカーペ |
@@ -259,10 +260,12 @@ tip: 请善用浏览器的搜索功能
 |   | 微醺的沃尔珀 | Smiling Signora | イングリッド |
 |   | 英格丽 | Tipsy Vulpo | 微笑む女性 |
 | avg_402_tuye_1 | 图耶 | Tuye | トゥイエ |
+| avg_4031_liesel_1 | 莉泽尔 | - | - |
 | avg_4032_provs_1 | 酒量很好的客人 | Big Drinker Customer | お酒に強い客 |
 |   | 黛丝特 | Deszcz | デーシュット |
 | avg_4036_forcer_1 | 艾泽尔 | Enforcer | エゼル |
 |   | 见行者 | Ezell | エンフォーサー |
+| avg_4037_demetr_1 | 德米特里 | - | - |
 | avg_4039_horn_1 | 号角 | Horn | ホルン |
 | avg_4040_rockr_1 | 洛洛 | Rochelle | ロシェル |
 |   | 罗谢尔 | Rockrock | ロックロック |
@@ -1780,6 +1783,7 @@ tip: 请善用浏览器的搜索功能
 |   | 商人 | Factory Director | 慌てる事務員 |
 |   | 慌张的文员 | Flustered Clerk | 派手に着飾る男性 |
 |   | 珠光宝气的男性 | Merchant | 興奮する商人 |
+|   | 茫然无措的商人 |   |   |
 | avg_npc_1257_1 | 事务所所长 | Adulating Noble | こびへつらう貴族 |
 |   | 外国富商 | Auctioneer | オークショニア |
 |   | 工厂老板 | Foreign Merchant | 外国の豪商 |
@@ -2153,6 +2157,7 @@ tip: 请善用浏览器的搜索功能
 |   | 卡车司机A | Truck Driver | トラックドライバーA |
 |   | 卡车司机A&B | Truck Driver A | ドライバーA&B |
 |   | 码头工人 | Truck Driver A&B | 埠頭の労働者 |
+|   | 鲁杰罗 |   |   |
 | avg_npc_1551_1 | 诺埃米 | Noemi | ノエミ |
 | avg_npc_1552_1 | 诺埃米 | Noemi | ノエミ |
 | avg_npc_1553_1 | 导演 | Anxious Officer | 多忙な警察官 |
@@ -2165,10 +2170,12 @@ tip: 请善用浏览器的搜索功能
 |   | 家族成员A&B | Mafioso A | マフィアA |
 |   | 家族成员B | Mafioso A & B | マフィアA&B |
 |   | 家族法务 | Mafioso B | マフィアB |
-| avg_npc_1555_1 | 家族公司法务 | Famiglia Lawyer | ファミリー傘下企業法務 |
-|   | 家族成员 | Mafioso | マフィア |
-|   | 惶恐的家族成员 | Nervous Mafioso | 恐れるマフィア |
-|   | 紧张的家族成员 | Terrified Mafioso | 緊張したマフィア |
+|   | 无奈的家族成员 |   |   |
+| avg_npc_1555_1 | 冷静的家族成员 | Famiglia Lawyer | ファミリー傘下企業法務 |
+|   | 家族公司法务 | Mafioso | マフィア |
+|   | 家族成员 | Nervous Mafioso | 恐れるマフィア |
+|   | 惶恐的家族成员 | Terrified Mafioso | 緊張したマフィア |
+|   | 紧张的家族成员 |   |   |
 | avg_npc_1556_1 | “狂欢节路人B” | 'Carnevale Participant B' | 「通行人B」 |
 |   | 家族成员 | Carnevale Participant A | マフィア |
 |   | 家族成员B | Carnevale Participant B | マフィアB |
@@ -2186,8 +2193,11 @@ tip: 请善用浏览器的搜索功能
 |   | 担忧的干员 |   |   |
 | avg_npc_1561_1 | 卡车司机 | Truck Driver | トラックドライバー |
 |   | 卡车司机B | Truck Driver B | トラックドライバーB |
+|   | 山姆 |   |   |
+|   | 山德罗 |   |   |
 | avg_npc_1562_1 | 恐慌的文员 | Panicking Clerk | パニックになる事務員 |
 | avg_npc_1563_1 | 啰嗦的护理师 | Chatty Grooming Specialist | おしゃべりな理髪師 |
+|   | 埃里奥 |   |   |
 | avg_npc_1564_1 | 拉普兰德 | Lappland | ラップランド |
 | avg_npc_156_1 | 雷蛇 | Liskarm | リスカム |
 | avg_npc_1577_1 | 伊西多 | Isidro | イシドロ |
@@ -2493,32 +2503,34 @@ tip: 请善用浏览器的搜索功能
 |   | 刻薄的男爵 | Adulating Collector | ほろ酔いな商人 |
 |   | 剧场经理 | Announcer | イラつく商人 |
 |   | 剧院经理 | Bank President | カジノのオーナー |
-|   | 夸夸其谈的商人 | Casino Boss | ゴマをする収集家 |
-|   | 夸夸其谈的男人 | Cheerful Noble | ベテラン投資家 |
-|   | 展会主持人 | Earl Morrill | モリル伯爵 |
-|   | 市侩的贵族 | Elegant Ambassador | リターニア男性貴族 |
-|   | 庆幸的富人 | Emotional Councilor | ヴィクトリアの伯爵 |
-|   | 微醺的商人 | Enthusiastic Merchant | ヴィクトリアの豪商 |
-|   | 情绪激动的议员 | Fretful Merchant | 優雅な使節 |
-|   | 投资界前辈 | Genial Noble | 冷酷な男爵 |
-|   | 报幕人 | Greedy Businessman | 劇場の支配人 |
-|   | 文雅的使节 | Host | 司会者 |
-|   | 本地法官A | Local Judge A | 大口を叩く男 |
-|   | 温和的贵族 | MC | 太った商人 |
-|   | 游客 | Mayor | 展覧会の司会者 |
-|   | 热情的商人 | Noble Gentleman | 情熱的な商人 |
-|   | 焦躁的商人 | Plump Merchant | 感情的な議員 |
-|   | 瘦子张 | Pompous Man | 浅ましい貴族 |
-|   | 维多利亚伯爵 | Pompous Merchant | 温和な貴族 |
-|   | 维多利亚富商 | Scathing Baron | 現地の裁判官A |
-|   | 肥胖的商人 | Seasoned Investor | 男性貴族 |
-|   | 莫里尔伯爵 | Skinny Cheung | 町長 |
-|   | 莱塔尼亚男贵族 | Slimy Noble | 痩せぎすジャン |
-|   | 谄媚的收藏家 | Theater Manager | 観光客 |
-|   | 谈笑风生的贵族 | Tipsy Businessman | 談笑する貴族 |
-|   | 贪婪的商人 | Tourist | 貪欲な商人 |
-|   | 贵族男士 | Victorian Count | 銀行頭取 |
-|   | 赌场老板 | Victorian Magnate |   |
+|   | 大腹便便的商人 | Casino Boss | ゴマをする収集家 |
+|   | 夸夸其谈的商人 | Cheerful Noble | ベテラン投資家 |
+|   | 夸夸其谈的男人 | Earl Morrill | モリル伯爵 |
+|   | 展会主持人 | Elegant Ambassador | リターニア男性貴族 |
+|   | 市侩的贵族 | Emotional Councilor | ヴィクトリアの伯爵 |
+|   | 庆幸的富人 | Enthusiastic Merchant | ヴィクトリアの豪商 |
+|   | 微醺的商人 | Fretful Merchant | 優雅な使節 |
+|   | 情绪激动的议员 | Genial Noble | 冷酷な男爵 |
+|   | 投资界前辈 | Greedy Businessman | 劇場の支配人 |
+|   | 报幕人 | Host | 司会者 |
+|   | 文雅的使节 | Local Judge A | 大口を叩く男 |
+|   | 本地法官A | MC | 太った商人 |
+|   | 沙雷 | Mayor | 展覧会の司会者 |
+|   | 温和的贵族 | Noble Gentleman | 情熱的な商人 |
+|   | 游客 | Plump Merchant | 感情的な議員 |
+|   | 热情的商人 | Pompous Man | 浅ましい貴族 |
+|   | 焦躁的商人 | Pompous Merchant | 温和な貴族 |
+|   | 瘦子张 | Scathing Baron | 現地の裁判官A |
+|   | 维多利亚伯爵 | Seasoned Investor | 男性貴族 |
+|   | 维多利亚富商 | Skinny Cheung | 町長 |
+|   | 肥胖的商人 | Slimy Noble | 痩せぎすジャン |
+|   | 莫里尔伯爵 | Theater Manager | 観光客 |
+|   | 莱塔尼亚男贵族 | Tipsy Businessman | 談笑する貴族 |
+|   | 谄媚的收藏家 | Tourist | 貪欲な商人 |
+|   | 谈笑风生的贵族 | Victorian Count | 銀行頭取 |
+|   | 贪婪的商人 | Victorian Magnate |   |
+|   | 贵族男士 |   |   |
+|   | 赌场老板 |   |   |
 |   | 银行行长 |   |   |
 |   | 镇长 |   |   |
 | avg_npc_177 | 企业负责人 | Adulating Noble | こびへつらう貴族 |
@@ -2743,6 +2755,7 @@ tip: 请善用浏览器的搜索功能
 |   | 疑惑的居民 |   |   |
 |   | 疑惑的居民&不解的居民 |   |   |
 |   | 眼尖的工作人员 |   |   |
+|   | 紧张的职员 |   |   |
 |   | 议员候选人 |   |   |
 | avg_npc_1909_1 | 凑热闹的路人 | - | - |
 |   | 可疑的男性 |   |   |
@@ -3114,6 +3127,9 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_220 | 受伤的感染者骑士 | An Infected Knight | 怪我した感染者騎士 |
 |   | 感染者骑士 | Infected Knight | 感染者騎士 |
 |   | 罗伯特 | Injured Infected Knight |   |
+| avg_npc_2201_1 | 露彼娜 | - | - |
+| avg_npc_2202_1 | 托希娅 | - | - |
+|   | 路过的少女 |   |   |
 | avg_npc_221 | 乔伊 | A Hoarse Knight | かすれ声の騎士 |
 |   | 感染者工程师骑士 | An Infected Knight | 感染者エンジニア騎士 |
 |   | 感染者骑士 | An Infected Knight A | 感染者騎士 |
@@ -3157,35 +3173,38 @@ tip: 请善用浏览器的搜索功能
 |   | 中层经理 | A Corporate Employee | オークションの司会 |
 |   | 企业员工 | A Corporate Employee A | カジミエーシュ職員 |
 |   | 企业员工A | Auction Host | ギャラリーのスタッフ |
-|   | 信使 | Bank Employee | シティホールの役人 |
-|   | 冷淡的银行员工 | Bored Bank Employee | シティホール職員 |
-|   | 分公司经理 | Boy | ジェリー |
-|   | 势利的官员 | Branch Office Manager | ラファル |
-|   | 卡西米尔职员 | City Council Administrator | 中間管理職 |
-|   | 受雇律师 | City Hall Staffer | 仕事帰りの職員 |
-|   | 工作人员 | Galería Staff Worker | 企業職員 |
-|   | 市政厅官员 | Government Official | 企業職員A |
-|   | 市政厅职员 | Indifferent Bank Employee | 会社員 |
-|   | 当地官员 | Informant | 冷淡な銀行員 |
-|   | 技术人员 | Kazimierzian Staff Member | 制服を着た職員 |
-|   | 投资界新人 | Knight Scout | 情報提供者 |
-|   | 报案人 | Local Official | 支店長 |
-|   | 拉法尔 | Man in Reporter Garb | 政府の役人 |
-|   | 拍卖会主持人 | Mid-level Manager | 教授の秘書 |
-|   | 接待专员 | Newbie Investor | 権力に媚びる役人 |
-|   | 政府官员 | Professor's Assistant | 現地の役人 |
-|   | 教授助理 | Rafał | 男性 |
-|   | 无聊的银行员工 | Red Wine Intern Journalist | 疲労した企業職員 |
-|   | 王先生 | Researcher | 研究員 |
-|   | 男生 | Retained Lawyer | 職員 |
-|   | 疲倦的企业员工 | Snobby Official | 若手投資家 |
-|   | 研究员 | Staff Worker | 見習い記者 |
-|   | 礼仪社员工 | Technician | 記者らしき男 |
-|   | 穿制服的工作人员 | Tired Corporate Employee | 退屈そうな銀行員 |
-|   | 粗心的社工 | Uniformed Worker | 通報者 |
-|   | 红酒报实习记者 | Witness | 銀行員 |
-|   | 线人 |   | 雇われ弁護士 |
-|   | 艺术馆工作人员 |   | 騎士スカウト |
+|   | 会计 | Bank Employee | シティホールの役人 |
+|   | 信使 | Bored Bank Employee | シティホール職員 |
+|   | 冷淡的银行员工 | Boy | ジェリー |
+|   | 分公司经理 | Branch Office Manager | ラファル |
+|   | 势利的官员 | City Council Administrator | 中間管理職 |
+|   | 卡西米尔代表 | City Hall Staffer | 仕事帰りの職員 |
+|   | 卡西米尔职员 | Galería Staff Worker | 企業職員 |
+|   | 受雇律师 | Government Official | 企業職員A |
+|   | 工作人员 | Indifferent Bank Employee | 会社員 |
+|   | 市政厅官员 | Informant | 冷淡な銀行員 |
+|   | 市政厅职员 | Kazimierzian Staff Member | 制服を着た職員 |
+|   | 当地官员 | Knight Scout | 情報提供者 |
+|   | 技术人员 | Local Official | 支店長 |
+|   | 投资界新人 | Man in Reporter Garb | 政府の役人 |
+|   | 报案人 | Mid-level Manager | 教授の秘書 |
+|   | 拉法尔 | Newbie Investor | 権力に媚びる役人 |
+|   | 拍卖会主持人 | Professor's Assistant | 現地の役人 |
+|   | 接待专员 | Rafał | 男性 |
+|   | 政府官员 | Red Wine Intern Journalist | 疲労した企業職員 |
+|   | 教授助理 | Researcher | 研究員 |
+|   | 无聊的银行员工 | Retained Lawyer | 職員 |
+|   | 王先生 | Snobby Official | 若手投資家 |
+|   | 男生 | Staff Worker | 見習い記者 |
+|   | 疲倦的企业员工 | Technician | 記者らしき男 |
+|   | 研究员 | Tired Corporate Employee | 退屈そうな銀行員 |
+|   | 礼仪社员工 | Uniformed Worker | 通報者 |
+|   | 秘书 | Witness | 銀行員 |
+|   | 穿制服的工作人员 |   | 雇われ弁護士 |
+|   | 粗心的社工 |   | 騎士スカウト |
+|   | 红酒报实习记者 |   |   |
+|   | 线人 |   |   |
+|   | 艺术馆工作人员 |   |   |
 |   | 记者模样的人 |   |   |
 |   | 银行员工 |   |   |
 |   | 骑探 |   |   |
@@ -3309,6 +3328,7 @@ tip: 请善用浏览器的搜索功能
 |   | 逃离城市的手艺人 | Wounded Youth | 負傷した青年 |
 |   | 镇民A | Young Volunteer | 驚く通行人 |
 |   | 陌生的男子 |   |   |
+|   | 餐馆店主 |   |   |
 | avg_npc_243 | 丹卡婶婶 | Apathetic Passerby | クロエ |
 |   | 伊尔莎的母亲 | Aunt Danka | ターラーの流民 |
 |   | 克洛伊 | Calm Infected | ダンカおばさん |
@@ -3394,6 +3414,7 @@ tip: 请善用浏览器的搜索功能
 |   | 学者 | Receiving Attendant | 冷酷な男性貴族 |
 |   | 王局长 | Scathing Nobleman | 出迎え役の従者 |
 |   | 负责接待的侍从 | Scholar | 学者 |
+|   | 风尘仆仆的男子 |   |   |
 | avg_npc_272_1 | 好客的老乡 | Hospitable Villager | もてなし好きの地元民 |
 |   | 布朗陶男贵族 | Kjerag Noble | イェラグ貴族 |
 |   | 年迈贵族 | Old Noble | 家庭教師 |
@@ -3646,17 +3667,18 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_364_1 | 愉快的小贩 | Intruder B | ご機嫌な物売り |
 |   | 罗塞菈 | Merry Peddler | ロゼラ |
 |   | 闯入者B | Rosella | 侵入者B |
-| avg_npc_365_1 | 拉特兰信使 | Devout Citizen | トランスポーター |
-|   | 拉特兰市民？ | Handcuffed Lateran | リーベリの通行人 |
-|   | 拘谨的医院护工 | Lateran Citizen? | リーベリ公民 |
-|   | 敏捷的拉特兰人 | Lateran Messenger | 信心深い市民 |
-|   | 紧张的帕蒂亚手下 | Liberi Citizen | 市民？ |
-|   | 紧张的青年 | Liberi Passerby | 拘束されたラテラーノ人 |
-|   | 虔诚的市民 | Milkman | 機敏なラテラーノ人 |
-|   | 被铐住的拉特兰人 | Nervous Youth | 生真面目な看護師 |
-|   | 送奶工 | Nimble Lateran | 緊張した青年 |
-|   | 黎博利公民 | Panicked Underling of Patia | 緊張するパティアの手下 |
-|   | 黎博利路人 | Reserved Hospital Attendant | 配達員 |
+| avg_npc_365_1 | 异国青年 | Devout Citizen | トランスポーター |
+|   | 拉特兰信使 | Handcuffed Lateran | リーベリの通行人 |
+|   | 拉特兰市民？ | Lateran Citizen? | リーベリ公民 |
+|   | 拘谨的医院护工 | Lateran Messenger | 信心深い市民 |
+|   | 敏捷的拉特兰人 | Liberi Citizen | 市民？ |
+|   | 紧张的帕蒂亚手下 | Liberi Passerby | 拘束されたラテラーノ人 |
+|   | 紧张的青年 | Milkman | 機敏なラテラーノ人 |
+|   | 虔诚的市民 | Nervous Youth | 生真面目な看護師 |
+|   | 被铐住的拉特兰人 | Nimble Lateran | 緊張した青年 |
+|   | 送奶工 | Panicked Underling of Patia | 緊張するパティアの手下 |
+|   | 黎博利公民 | Reserved Hospital Attendant | 配達員 |
+|   | 黎博利路人 |   |   |
 | avg_npc_366_1 | 七厅调查员 | Anxious Lateran | うれしそうな市民 |
 |   | 冷静的拉特兰市民 | Candid Stall Owner | にこやかな隣人 |
 |   | 努力保持爽朗的摊主 | Cheerful Neighbor | ぶらつく通行人 |
@@ -4043,17 +4065,18 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_494_1 | 小吃摊主 | Food Stall Owner | 露店の主人 |
 | avg_npc_495_1 | 爷爷 | Grandpa | おじいさん |
 |   |   | Old Man | お爺さん |
-| avg_npc_496_1 | 侍从 | Attendant | おどおどする演奏家 |
-|   | 兴奋的莱塔尼亚旅客 | Babel Member | エラフィア |
-|   | 围观的路人A | Despondent Infected | バベルメンバー |
-|   | 埃拉菲亚 | Elafia | 従者 |
-|   | 好事的感染者 | Excited Leithanian Tourist | 悲しむ感染者 |
-|   | 巴别塔成员 | Mannered Infected | 物好きな感染者 |
-|   | 悲伤的感染者 | Meddlesome Infected | 町民 |
-|   | 惴惴不安的乐手 | Nervous Musician | 礼儀正しい感染者 |
-|   | 礼貌的感染者 | Noble Attendant | 興奮気味なリターニア人 |
-|   | 贵族侍从 | Onlooking Passerby A | 見物人A |
-|   | 镇民 | Townsfolk | 貴族の侍従 |
+| avg_npc_496_1 | 低音管 | Attendant | おどおどする演奏家 |
+|   | 侍从 | Babel Member | エラフィア |
+|   | 兴奋的莱塔尼亚旅客 | Despondent Infected | バベルメンバー |
+|   | 围观的路人A | Elafia | 従者 |
+|   | 埃拉菲亚 | Excited Leithanian Tourist | 悲しむ感染者 |
+|   | 好事的感染者 | Mannered Infected | 物好きな感染者 |
+|   | 巴别塔成员 | Meddlesome Infected | 町民 |
+|   | 悲伤的感染者 | Nervous Musician | 礼儀正しい感染者 |
+|   | 惴惴不安的乐手 | Noble Attendant | 興奮気味なリターニア人 |
+|   | 礼貌的感染者 | Onlooking Passerby A | 見物人A |
+|   | 贵族侍从 | Townsfolk | 貴族の侍従 |
+|   | 镇民 |   |   |
 | avg_npc_497_1 | 丧气的感染者 | Cheerful Infected | うなだれる感染者 |
 |   | 和善的感染者 | Dispirited Infected | レオニー |
 |   | 围观的路人B | Expectant Audience Member | 優しい感染者 |
@@ -4061,25 +4084,27 @@ tip: 请善用浏览器的搜索功能
 |   | 开朗的感染者 | Leonie | 期待する観客 |
 |   | 村长 | Mayor | 村長 |
 |   | 满心期待的观众 | Onlooking Passerby B | 気丈な感染者 |
-|   | 雷奥妮 | Tough Infected | 見物人B |
+|   | 长号 | Tough Infected | 見物人B |
+|   | 雷奥妮 |   |   |
 | avg_npc_498_1 | 伯爵侍从 | Community Artist | ためらう感染者 |
 |   | 信使 | Daddy | コミュニティの画家 |
 |   | 吉菲大叔 | Dispirited Infected | シュナイダー |
 |   | 商店老板 | Drunken Infected | ジフおじさん |
 |   | 好奇的信使 | Emotional Infected | トランスポーター |
-|   | 帕特尔 | Enraged Passerby? | パパ |
-|   | 循规蹈矩的教师 | Graf's Attendant | 伯爵の御付き |
-|   | 恭敬的侍者 | Hardware Shop Owner | 几帳面な教師 |
-|   | 愤怒的路人？ | Jif | 商店の店主 |
-|   | 施耐德 | Messenger | 怒る通行人？ |
-|   | 激动的感染者 | Neurotic Infected | 情熱的な感染者 |
-|   | 热情的感染者 | Noble Attendant | 横暴な感染者 |
-|   | 爸爸 | Passionate Infected | 無気力な感染者 |
-|   | 社区画家 | Respectful Attendant | 礼儀正しい従者 |
-|   | 神经质的感染者 | Rude Infected | 神経質な感染者 |
-|   | 蛮横的感染者 | Rule-Abiding Instructor | 興奮する感染者 |
-|   | 贵族侍从 | Schneider | 貴族の侍従 |
-|   | 迟疑的感染者 | Skittish Infected | 酔っぱらった感染者 |
+|   | 定音鼓 | Enraged Passerby? | パパ |
+|   | 帕特尔 | Graf's Attendant | 伯爵の御付き |
+|   | 循规蹈矩的教师 | Hardware Shop Owner | 几帳面な教師 |
+|   | 恭敬的侍者 | Jif | 商店の店主 |
+|   | 愤怒的路人？ | Messenger | 怒る通行人？ |
+|   | 施耐德 | Neurotic Infected | 情熱的な感染者 |
+|   | 激动的感染者 | Noble Attendant | 横暴な感染者 |
+|   | 热情的感染者 | Passionate Infected | 無気力な感染者 |
+|   | 爸爸 | Respectful Attendant | 礼儀正しい従者 |
+|   | 社区画家 | Rude Infected | 神経質な感染者 |
+|   | 神经质的感染者 | Rule-Abiding Instructor | 興奮する感染者 |
+|   | 蛮横的感染者 | Schneider | 貴族の侍従 |
+|   | 贵族侍从 | Skittish Infected | 酔っぱらった感染者 |
+|   | 迟疑的感染者 |   |   |
 |   | 醉酒的感染者 |   |   |
 |   | 颓废的感染者 |   |   |
 |   | 鬼鬼祟祟的男子 |   |   |
@@ -4095,10 +4120,10 @@ tip: 请善用浏览器的搜索功能
 |   | 疲惫的感染者 | Miss Bachmann | 気さくな店主 |
 |   | 社区琴师 | Mummy | 疲れ切った感染者 |
 |   | 莱塔尼亚女性 | Passerby Infected | 興奮するアフターグロー区住民 |
-|   | 蒂姆阿姨 | Shopkeeper | 興奮する住民 |
-|   | 路过的感染者 | Thiem | 落ち込むバベルメンバー |
-|   | 高兴的莱塔尼亚旅客 | Worn-out Infected | 親切な住民 |
-|   |   |   | 通りすがりの感染者 |
+|   | 葆拉 | Shopkeeper | 興奮する住民 |
+|   | 蒂姆阿姨 | Thiem | 落ち込むバベルメンバー |
+|   | 路过的感染者 | Worn-out Infected | 親切な住民 |
+|   | 高兴的莱塔尼亚旅客 |   | 通りすがりの感染者 |
 | avg_npc_501_1 | 仔细的干员 | Andante | アンダンテ |
 |   | 医疗干员 | Flustered Operator | オペレーター姿の女性 |
 |   | 医疗部干员 | Logistics Operator | ロドスオペレーター |
@@ -4106,7 +4131,8 @@ tip: 请善用浏览器的搜索功能
 |   | 干员装束的女性 | Medical Department Operator | 医療オペレーター |
 |   | 慌乱的干员 | Meticulous Operator | 医療部オペレーター |
 |   | 慌张的干员 | Rhodes Island Operator | 取り乱したオペレーター |
-|   | 罗德岛医疗干员 | Woman in Operator Attire | 支援オペレーター |
+|   | 李医生 | Woman in Operator Attire | 支援オペレーター |
+|   | 罗德岛医疗干员 |   |   |
 |   | 罗德岛干员 |   |   |
 |   | 行板 |   |   |
 | avg_npc_521_1 | Mechanist | Mechanist | Mechanist |
@@ -4356,6 +4382,7 @@ tip: 请善用浏览器的搜索功能
 |   | 激动的工人 | Londinium Worker A | 熱意ある工員 |
 |   | 热情的工人 | Panicked Refugee | 絶望した難民 |
 |   | 绝望的难民 | Repair Shop Machinist | 興奮する工員 |
+|   | 达维德 |   |   |
 | avg_npc_661_1 | 伊尔莎 | Curious Girl | むっとする子供 |
 |   | 农民 | Disgusted Child | ホープ |
 |   | 天真的孩子 | Enthusiastic Student | マデリーン |
@@ -4397,15 +4424,16 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_696_1 | 司机 | Clerk | がっかりした商人 |
 |   | 场务人员 | Driver | ケーキ屋の店主 |
 |   | 小文员 | Forlorn Merchant | ループス |
-|   | 恐惧的服务员 | Lupo | 事務員 |
-|   | 悲哀的市民 | Mauro, Infected Citizen | 劇場スタッフ |
-|   | 惆怅的商人 | Nervous Passerby | 客引きするカメラマン |
-|   | 感染者毛罗 | Onsite Staff | 怖がる店員 |
-|   | 揽活的摄影师 | Pastry Shop Owner | 悲しむ市民 |
-|   | 港口工人 | Photographer | 感染者マウロ |
-|   | 糕点店店主 | Port Worker | 港の労働者 |
-|   | 紧张的路人 | Sad Citizen | 緊張した通行人 |
-|   | 鲁珀 | Terrified Waiter | 運転手 |
+|   | 尼科洛 | Lupo | 事務員 |
+|   | 恐惧的服务员 | Mauro, Infected Citizen | 劇場スタッフ |
+|   | 悲哀的市民 | Nervous Passerby | 客引きするカメラマン |
+|   | 惆怅的商人 | Onsite Staff | 怖がる店員 |
+|   | 感染者毛罗 | Pastry Shop Owner | 悲しむ市民 |
+|   | 揽活的摄影师 | Photographer | 感染者マウロ |
+|   | 港口工人 | Port Worker | 港の労働者 |
+|   | 糕点店店主 | Sad Citizen | 緊張した通行人 |
+|   | 紧张的路人 | Terrified Waiter | 運転手 |
+|   | 鲁珀 |   |   |
 | avg_npc_697_1 | 书记员 | Calm Technician | コミュニティの住民 |
 |   | 冷静的技术人员 | City Hall Staff | シティホール職員 |
 |   | 好心的邻居 | Clerk Teresa | ロッサティの構成員 |
@@ -4419,6 +4447,7 @@ tip: 请善用浏览器的搜索功能
 |   | 私人医生 | Town 'Judge' | 職員テレサ |
 |   | 罗塞蒂家族成员 | Town Judge | 裁判所の職員 |
 |   | 职员特丽莎 |   | 親切な隣人 |
+|   | 莱蒂齐亚 |   |   |
 | avg_npc_698_1 | 嚣张的家族成员 | Angry Mafioso | サルッツォの構成員 |
 |   | 多疑的家族成员 | Arrogant Mafioso | サルッツォの用心棒 |
 |   | 家族成员 | Bellone Bodyguard | ベッローネの構成員 |
@@ -4455,18 +4484,20 @@ tip: 请善用浏览器的搜索功能
 |   | 卢娜 | Rubio's Daughter | ルナ |
 |   | 卢比奥之女 | Selene | ルビオの娘 |
 |   | 害羞的孩子 | Shy Child | 小柄な女の子 |
-|   | 瑟琳 | Thin Girl | 恥ずかしがる子供 |
-|   | 瘦小的女孩 | Zola | 隠れてメモを回す生徒 |
+|   | 小贝蒂 | Thin Girl | 恥ずかしがる子供 |
+|   | 瑟琳 | Zola | 隠れてメモを回す生徒 |
+|   | 瘦小的女孩 |   |   |
 |   | 萝丝 |   |   |
 |   | 调皮的学生 |   |   |
 | avg_npc_701_1 | “调度员” | 'Dispatcher' | 「管理人」 |
 |   | 伪装的警察A | Dispatcher | きれい好きの男 |
 |   | 悲伤的男性 | Energetic Technician | 変装した警察官A |
-|   | 法官助理 | Judge's Assistant | 強情なパートナー |
-|   | 活泼的技术人员 | Meticulous Man | 快活なエンジニア |
-|   | 爱干净的男人 | Obstinate Partner | 悲し気な男 |
-|   | 犟嘴的合伙人 | Sad Man | 管理人 |
-|   | 调度员 | Undercover Officer A | 裁判官補佐 |
+|   | 托马索 | Judge's Assistant | 強情なパートナー |
+|   | 法官助理 | Meticulous Man | 快活なエンジニア |
+|   | 活泼的技术人员 | Obstinate Partner | 悲し気な男 |
+|   | 爱干净的男人 | Sad Man | 管理人 |
+|   | 犟嘴的合伙人 | Undercover Officer A | 裁判官補佐 |
+|   | 调度员 |   |   |
 | avg_npc_702_1 | 伪装的警察B | Fearful Waiter | 変装した警察官B |
 |   | 护士 | Judge's Assistant | 看護師 |
 |   | 法官助理 | Nurse | 臆病な店員 |
@@ -4504,6 +4535,7 @@ tip: 请善用浏览器的搜索功能
 |   | 猎人打扮的幼童 | Kazuya | 狩人ごっこする子供 |
 | avg_npc_757_1 | 严肃的村民 | Hiroshi Ritou | 利藤裕 |
 |   | 利藤裕 | Strict Villager | 厳かな村人 |
+|   | 缠丸的养父 |   |   |
 | avg_npc_758_1 | 不再愤怒的村民 | Angry Villager | おとなしい村人 |
 |   | 强壮的村民 | Despondent Villager | 怯える村人 |
 |   | 悲伤的村民 | Honest Villager | 悲しむ村人 |
@@ -4521,6 +4553,7 @@ tip: 请善用浏览器的搜索功能
 |   | 慌乱的村民 | Sad Villager | 焦燥する村人 |
 |   | 焦急的村民 |   |   |
 |   | 生气的母亲 |   |   |
+|   | 阿清 |   |   |
 |   | ？？ |   |   |
 | avg_npc_760_1 | 柏生明 | Akira Kashiwau | 柏生明 |
 | avg_npc_761_1 | 泷居未来 | Mirai Takii | 滝居未来 |
@@ -4817,6 +4850,7 @@ tip: 请善用浏览器的搜索功能
 |   | 法伦 | Procurement Operator | 落ち着かない人事オペレーター |
 |   | 热情的后勤干员 | Rhodes Island Landship Operator A | 購買部オペレーター |
 |   | 罗德岛信使 | Rhodes Island Messenger | 駐留オペレーターA |
+|   | 罗德岛干员 |   |   |
 |   | 罗德岛货物管理员 |   |   |
 |   | 罗德岛驻舰干员A |   |   |
 |   | 采购干员 |   |   |
@@ -4832,7 +4866,9 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_974_1 | 激动的病人 | Agitated Patient | 激情する感染者 |
 | avg_npc_975_1 | 尝试克制的病人 | Level-Headed Patient | 冷静を装う感染者 |
 | avg_npc_976_1 | 男孩 | Boy | 男の子 |
-|   | 调皮的孩子 | Mischievous Child | 腕白な子供 |
+|   | 穿病号服的男孩 | Mischievous Child | 腕白な子供 |
+|   | 艾文 |   |   |
+|   | 调皮的孩子 |   |   |
 | avg_npc_989_1 | 阿黛尔 | Adele | アデル |
 | avg_npc_990_1 | 拜松 | Bison | バイソン |
 | avg_npc_991_1 | 好奇的小男孩 | Boy | ルート |
@@ -5155,6 +5191,7 @@ tip: 请善用浏览器的搜索功能
 | char_281_popka_1 | 泡普卡 | Popukar | ポプカル |
 | char_282_catap_1 | 空爆 | Catapult | カタパルト |
 | char_283_midn_1 | 月见夜 | Midnight | ミッドナイト |
+|   | 空爆&斑点&月见夜 |   |   |
 | char_284_spot_1 | 斑点 | Fan? | スポット |
 |   | 歌迷？ | Spot | ファン？ |
 |   | 青年 | Youth | 青年 |
