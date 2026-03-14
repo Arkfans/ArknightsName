@@ -155,6 +155,7 @@ tip: 请善用浏览器的搜索功能
 | act29sign | 桂时逢月——月饼烘焙小教程 | Encounter At The Osmanthus Blossom - Mooncake-Making Tutorial | 円満団楽-ロドス点心教室 |
 | act29sre | 崔林特尔梅之金·复刻 | Zwillingstürme im Herbst - Rerun | ツヴィリングトゥルムの黄金・復刻 |
 | act2access | 活动推荐月卡 | Recommended Monthly Card | 大感謝祭月パス |
+| act2autochess | 卫戍协议:盟约 | - | - |
 | act2blessing | 2025罗德岛新春签到 | 2025 Festival Sign-In | 5.5周年スタンプラリー |
 | act2bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act2break | 矢量突破#2 巫术之夜 | - | - |

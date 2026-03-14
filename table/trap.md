@@ -223,7 +223,20 @@ tip: 请善用浏览器的搜索功能
 | trap_1110_accopy | 画卷 | - | - |
 | trap_1111_acchal | 教鞭 | - | - |
 | trap_1112_acblzd | 盟约寒风 | - | - |
+| trap_1113_acarm113 | 精打细算玩偶 | - | - |
+| trap_1114_acarm114 | 简易通讯机 | - | - |
+| trap_1115_acarm115 | 紧急调度券 | - | - |
+| trap_1116_acarm116 | 见钱眼开玩偶 | - | - |
+| trap_1117_acarm117 | 天马之枪 | - | - |
+| trap_1118_acarm118 | 天马之盔 | - | - |
+| trap_1119_acarm119 | 卡西米尔竞技旗 | - | - |
 | trap_111_wdfarm | 街头应急储备 | Roadside Emergency Reserves | 街の緊急用備蓄 |
+| trap_1120_acarm120 | 骑士戒律 | - | - |
+| trap_1121_acarm121 | 叙拉古正装 | - | - |
+| trap_1122_acarm122 | 家族徽章 | - | - |
+| trap_1123_acarm123 | 骑士储蓄罐 | - | - |
+| trap_1124_acarm124 | 随身身份牌 | - | - |
+| trap_1125_acarm125 | 源石溶剂 | - | - |
 | trap_112_crsbow | 解雇者清债程序 | Post-Firing Debt Relief Program | 解雇者清算プログラム |
 | trap_113_snflwr | 全自动划账器 | Full-Auto Debit Machine | 全自動送金機 |
 | trap_114_smkbmb | 爆裂毒气罐 | Rupturing Canister | 毒ガスタンク |

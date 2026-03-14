@@ -340,6 +340,7 @@ tip: 请善用浏览器的搜索功能
 | act29side_frag_4_rep_1 | 惧之节符 | Note of Fear | 恐の音符 |
 | act29side_token_erin | 调律追忆 | Die Klänge von den Erinnerungen | 調律の追憶 |
 | act29side_token_erin_rep_1 | 调律追忆 | Die Klänge von den Erinnerungen | 調律の追憶 |
+| act2autochess_token_chess | 卫戍认证 | - | - |
 | act2bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act2bossrush_relic_01 | 修复套件 | Repair Kit | リカバリーキット |
 | act2bossrush_relic_02 | 维续补丁 | Maintenance Patch | メインテインパッチ |
@@ -706,6 +707,7 @@ tip: 请善用浏览器的搜索功能
 | clue_Rap_5 | 说唱动态5 | Rap Trend 5 | ラップサイド5 |
 | clue_Rap_5_rep_1 | 说唱动态5 | Rap Trend 5 | ラップサイド5 |
 | emoticon_autochess_basic | 表情套组：卫戍协议 | - | - |
+| emoticon_autochess_basic_2 | 表情套组：卫戍协议 | - | - |
 | emoticon_basic | 表情套组 | Emote Set | スタンプ |
 | emoticon_originium_slug | 表情套组：虫动 | Emote Set: Slug Style | スタンプ「オリジムシ」 |
 | emticon_duel_basic | 表情套组 | Emote Set | スタンプ |

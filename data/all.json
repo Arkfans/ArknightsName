@@ -5579,12 +5579,90 @@
       "zh_CN": "盟约寒风"
     }
   },
+  "trap_1113_acarm113": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "精打细算玩偶"
+    }
+  },
+  "trap_1114_acarm114": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "简易通讯机"
+    }
+  },
+  "trap_1115_acarm115": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "紧急调度券"
+    }
+  },
+  "trap_1116_acarm116": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "见钱眼开玩偶"
+    }
+  },
+  "trap_1117_acarm117": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "天马之枪"
+    }
+  },
+  "trap_1118_acarm118": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "天马之盔"
+    }
+  },
+  "trap_1119_acarm119": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "卡西米尔竞技旗"
+    }
+  },
   "trap_111_wdfarm": {
     "type": "TRAP",
     "names": {
       "en_US": "Roadside Emergency Reserves",
       "ja_JP": "街の緊急用備蓄",
       "zh_CN": "街头应急储备"
+    }
+  },
+  "trap_1120_acarm120": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "骑士戒律"
+    }
+  },
+  "trap_1121_acarm121": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "叙拉古正装"
+    }
+  },
+  "trap_1122_acarm122": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "家族徽章"
+    }
+  },
+  "trap_1123_acarm123": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "骑士储蓄罐"
+    }
+  },
+  "trap_1124_acarm124": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "随身身份牌"
+    }
+  },
+  "trap_1125_acarm125": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "源石溶剂"
     }
   },
   "trap_112_crsbow": {
@@ -9609,6 +9687,12 @@
       "en_US": "Major Field",
       "ja_JP": "専門分野",
       "zh_CN": "主修领域"
+    }
+  },
+  "char_185_frncat@marthe#12": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "补水时间"
     }
   },
   "char_185_frncat@wild#7": {
@@ -25873,6 +25957,12 @@
       "zh_CN": "活动推荐月卡"
     }
   },
+  "act2autochess": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "卫戍协议:盟约"
+    }
+  },
   "act2blessing": {
     "type": "ACTIVITY",
     "names": {
@@ -29880,6 +29970,12 @@
       "zh_CN": "调律追忆"
     }
   },
+  "act2autochess_token_chess": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "卫戍认证"
+    }
+  },
   "act2bossrush_milestone_point": {
     "type": "ITEM",
     "names": {
@@ -32700,6 +32796,12 @@
     }
   },
   "emoticon_autochess_basic": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "表情套组：卫戍协议"
+    }
+  },
+  "emoticon_autochess_basic_2": {
     "type": "ITEM",
     "names": {
       "zh_CN": "表情套组：卫戍协议"
@@ -48292,6 +48394,162 @@
     "type": "SKILL",
     "names": {
       "zh_CN": "信标"
+    }
+  },
+  "sktok_acarm113_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "精打细算玩偶"
+    }
+  },
+  "sktok_acarm113_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "精打细算玩偶"
+    }
+  },
+  "sktok_acarm114_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "简易通讯机"
+    }
+  },
+  "sktok_acarm114_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "简易通讯机"
+    }
+  },
+  "sktok_acarm115_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "紧急调度券"
+    }
+  },
+  "sktok_acarm115_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "紧急调度券"
+    }
+  },
+  "sktok_acarm116_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "见钱眼开玩偶"
+    }
+  },
+  "sktok_acarm116_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "见钱眼开玩偶"
+    }
+  },
+  "sktok_acarm117_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "天马之枪"
+    }
+  },
+  "sktok_acarm117_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "天马之枪"
+    }
+  },
+  "sktok_acarm118_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "天马之盔"
+    }
+  },
+  "sktok_acarm118_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "天马之盔"
+    }
+  },
+  "sktok_acarm119_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "卡西米尔竞技旗"
+    }
+  },
+  "sktok_acarm119_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "卡西米尔竞技旗"
+    }
+  },
+  "sktok_acarm120_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "骑士戒律"
+    }
+  },
+  "sktok_acarm120_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "骑士戒律"
+    }
+  },
+  "sktok_acarm121_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "叙拉古正装"
+    }
+  },
+  "sktok_acarm121_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "叙拉古正装"
+    }
+  },
+  "sktok_acarm122_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "家族徽章"
+    }
+  },
+  "sktok_acarm122_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "家族徽章"
+    }
+  },
+  "sktok_acarm123_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "骑士储蓄罐"
+    }
+  },
+  "sktok_acarm123_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "骑士储蓄罐"
+    }
+  },
+  "sktok_acarm124_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "随身身份牌"
+    }
+  },
+  "sktok_acarm124_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "随身身份牌"
+    }
+  },
+  "sktok_acarm125_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "源石溶剂"
+    }
+  },
+  "sktok_acarm125_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "源石溶剂"
     }
   },
   "sktok_acblzd": {

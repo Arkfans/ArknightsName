@@ -727,7 +727,20 @@ tip: 请善用浏览器的搜索功能
 | trap_1110_accopy | 画卷 | - | - |
 | trap_1111_acchal | 教鞭 | - | - |
 | trap_1112_acblzd | 盟约寒风 | - | - |
+| trap_1113_acarm113 | 精打细算玩偶 | - | - |
+| trap_1114_acarm114 | 简易通讯机 | - | - |
+| trap_1115_acarm115 | 紧急调度券 | - | - |
+| trap_1116_acarm116 | 见钱眼开玩偶 | - | - |
+| trap_1117_acarm117 | 天马之枪 | - | - |
+| trap_1118_acarm118 | 天马之盔 | - | - |
+| trap_1119_acarm119 | 卡西米尔竞技旗 | - | - |
 | trap_111_wdfarm | 街头应急储备 | Roadside Emergency Reserves | 街の緊急用備蓄 |
+| trap_1120_acarm120 | 骑士戒律 | - | - |
+| trap_1121_acarm121 | 叙拉古正装 | - | - |
+| trap_1122_acarm122 | 家族徽章 | - | - |
+| trap_1123_acarm123 | 骑士储蓄罐 | - | - |
+| trap_1124_acarm124 | 随身身份牌 | - | - |
+| trap_1125_acarm125 | 源石溶剂 | - | - |
 | trap_112_crsbow | 解雇者清债程序 | Post-Firing Debt Relief Program | 解雇者清算プログラム |
 | trap_113_snflwr | 全自动划账器 | Full-Auto Debit Machine | 全自動送金機 |
 | trap_114_smkbmb | 爆裂毒气罐 | Rupturing Canister | 毒ガスタンク |
@@ -1264,6 +1277,7 @@ tip: 请善用浏览器的搜索功能
 | char_181_flower@daily#1 | 植物种志 | Species Plantarum | 植物紀年 |
 | char_181_flower@epoque#9 | 闲适午后 | Leisurely Afternoon | うららか |
 | char_183_skgoat@epoque#30 | 主修领域 | Major Field | 専門分野 |
+| char_185_frncat@marthe#12 | 补水时间 | - | - |
 | char_185_frncat@wild#7 | 营地炊烟 | Campfire Cooking Smoke | キャンプのお楽しみ |
 | char_187_ccheal@epoque#2 | 战医 | Combat Medic | 戦医 |
 | char_188_helage@boc#2 | 歧路幻影 | Octopath Illusion | 岐路幻影 |
@@ -3375,6 +3389,7 @@ tip: 请善用浏览器的搜索功能
 | act29sign | 桂时逢月——月饼烘焙小教程 | Encounter At The Osmanthus Blossom - Mooncake-Making Tutorial | 円満団楽-ロドス点心教室 |
 | act29sre | 崔林特尔梅之金·复刻 | Zwillingstürme im Herbst - Rerun | ツヴィリングトゥルムの黄金・復刻 |
 | act2access | 活动推荐月卡 | Recommended Monthly Card | 大感謝祭月パス |
+| act2autochess | 卫戍协议:盟约 | - | - |
 | act2blessing | 2025罗德岛新春签到 | 2025 Festival Sign-In | 5.5周年スタンプラリー |
 | act2bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act2break | 矢量突破#2 巫术之夜 | - | - |
@@ -3901,6 +3916,7 @@ Event | なないろのお茶会 |
 | act29side_frag_4_rep_1 | 惧之节符 | Note of Fear | 恐の音符 |
 | act29side_token_erin | 调律追忆 | Die Klänge von den Erinnerungen | 調律の追憶 |
 | act29side_token_erin_rep_1 | 调律追忆 | Die Klänge von den Erinnerungen | 調律の追憶 |
+| act2autochess_token_chess | 卫戍认证 | - | - |
 | act2bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act2bossrush_relic_01 | 修复套件 | Repair Kit | リカバリーキット |
 | act2bossrush_relic_02 | 维续补丁 | Maintenance Patch | メインテインパッチ |
@@ -4267,6 +4283,7 @@ Event | なないろのお茶会 |
 | clue_Rap_5 | 说唱动态5 | Rap Trend 5 | ラップサイド5 |
 | clue_Rap_5_rep_1 | 说唱动态5 | Rap Trend 5 | ラップサイド5 |
 | emoticon_autochess_basic | 表情套组：卫戍协议 | - | - |
+| emoticon_autochess_basic_2 | 表情套组：卫戍协议 | - | - |
 | emoticon_basic | 表情套组 | Emote Set | スタンプ |
 | emoticon_originium_slug | 表情套组：虫动 | Emote Set: Slug Style | スタンプ「オリジムシ」 |
 | emticon_duel_basic | 表情套组 | Emote Set | スタンプ |
@@ -6331,6 +6348,32 @@ Event | なないろのお茶会 |
 | sktok_acarm103_2 | 黄沙罗盘 | - | - |
 | sktok_acarm109_1 | 信标 | - | - |
 | sktok_acarm109_2 | 信标 | - | - |
+| sktok_acarm113_1 | 精打细算玩偶 | - | - |
+| sktok_acarm113_2 | 精打细算玩偶 | - | - |
+| sktok_acarm114_1 | 简易通讯机 | - | - |
+| sktok_acarm114_2 | 简易通讯机 | - | - |
+| sktok_acarm115_1 | 紧急调度券 | - | - |
+| sktok_acarm115_2 | 紧急调度券 | - | - |
+| sktok_acarm116_1 | 见钱眼开玩偶 | - | - |
+| sktok_acarm116_2 | 见钱眼开玩偶 | - | - |
+| sktok_acarm117_1 | 天马之枪 | - | - |
+| sktok_acarm117_2 | 天马之枪 | - | - |
+| sktok_acarm118_1 | 天马之盔 | - | - |
+| sktok_acarm118_2 | 天马之盔 | - | - |
+| sktok_acarm119_1 | 卡西米尔竞技旗 | - | - |
+| sktok_acarm119_2 | 卡西米尔竞技旗 | - | - |
+| sktok_acarm120_1 | 骑士戒律 | - | - |
+| sktok_acarm120_2 | 骑士戒律 | - | - |
+| sktok_acarm121_1 | 叙拉古正装 | - | - |
+| sktok_acarm121_2 | 叙拉古正装 | - | - |
+| sktok_acarm122_1 | 家族徽章 | - | - |
+| sktok_acarm122_2 | 家族徽章 | - | - |
+| sktok_acarm123_1 | 骑士储蓄罐 | - | - |
+| sktok_acarm123_2 | 骑士储蓄罐 | - | - |
+| sktok_acarm124_1 | 随身身份牌 | - | - |
+| sktok_acarm124_2 | 随身身份牌 | - | - |
+| sktok_acarm125_1 | 源石溶剂 | - | - |
+| sktok_acarm125_2 | 源石溶剂 | - | - |
 | sktok_acblzd | 谢拉格寒风 | - | - |
 | sktok_acchal_1 | 教鞭 | - | - |
 | sktok_accopy_1 | 画卷 | - | - |
