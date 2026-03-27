@@ -11893,6 +11893,12 @@
       "zh_CN": "留影"
     }
   },
+  "char_4177_brigid@epoque#53": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "轻语入梦"
+    }
+  },
   "char_4182_oblvns@avemujica#1": {
     "type": "SKIN",
     "names": {
@@ -26455,6 +26461,12 @@
       "zh_CN": "沉沙赫日签到活动"
     }
   },
+  "act41sre": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "挽歌燃烧殆尽·复刻"
+    }
+  },
   "act42d0": {
     "type": "ACTIVITY",
     "names": {
@@ -30291,6 +30303,12 @@
     "names": {
       "en_US": "Broken Originium Lamp",
       "ja_JP": "壊れたランプ",
+      "zh_CN": "损坏的源石灯"
+    }
+  },
+  "act41side_token_light_rep_1": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "损坏的源石灯"
     }
   },
@@ -39361,6 +39379,12 @@
     "type": "POOL",
     "names": {
       "zh_CN": "以我的方式"
+    }
+  },
+  "SINGLE_71_0_5": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "自火中归还"
     }
   },
   "SPECIAL_54_0_5": {
@@ -68438,6 +68462,18 @@
       "zh_CN": "将熄的火"
     }
   },
+  "act41sre_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "摇曳的影"
+    }
+  },
+  "act41sre_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "将熄的火"
+    }
+  },
   "act42side_zone1": {
     "type": "ZONE",
     "names": {
@@ -69316,6 +69352,18 @@
     "type": "ZONE",
     "names": {
       "zh_CN": "怅别离"
+    }
+  },
+  "permanent_sidestory_31_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "摇曳的影"
+    }
+  },
+  "permanent_sidestory_31_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "将熄的火"
     }
   },
   "permanent_sidestory_3_zone1": {

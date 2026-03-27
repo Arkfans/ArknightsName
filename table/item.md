@@ -383,6 +383,7 @@ tip: 请善用浏览器的搜索功能
 | act40side_token_yumyum | “生香” | 'Yum-yum!' | 「生香」 |
 | act40side_token_yumyum_rep_1 | “生香” | - | - |
 | act41side_token_light | 损坏的源石灯 | Broken Originium Lamp | 壊れたランプ |
+| act41side_token_light_rep_1 | 损坏的源石灯 | - | - |
 | act42d0_token_evaluation | 试验数据集 | Experimental Dataset | テストデータ集 |
 | act42side_token_pacifier | 蒙恩的奶嘴 | Enlightened Pacifier | 祝福のおしゃぶり |
 | act43side_token_phantom | 神秘片场黑影 | Phantom of the Studio | 謎の黒い影 |

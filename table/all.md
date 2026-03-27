@@ -1561,6 +1561,7 @@ tip: 请善用浏览器的搜索功能
 | char_4163_rosesa@game#7 | 冒险启程 | - | - |
 | char_416_zumama@boc#3 | 熔锻铸匠 | Forgemaster | 熔冶工匠 |
 | char_4172_xingzh@epoque#51 | 留影 | - | - |
+| char_4177_brigid@epoque#53 | 轻语入梦 | - | - |
 | char_4182_oblvns@avemujica#1 | 旋律的主人 | - | - |
 | char_4183_mortis@avemujica#1 | 提线的本我 | - | - |
 | char_4184_dolris@avemujica#1 | 笼中歌者 | - | - |
@@ -3459,6 +3460,7 @@ Event | なないろのお茶会 |
 | act41side | 挽歌燃烧殆尽 | When Elegies Are Ashes | 挽歌が灰に還る時 |
 | act41sign | 沉沙赫日签到活动 | Brilliant Sun Rippling Sand Sign-In Event | 5周年
 スタンプ |
+| act41sre | 挽歌燃烧殆尽·复刻 | - | - |
 | act42d0 | 纷争演绎 | Design of Strife | 紛争演繹 |
 | act42side | 众生行记 | The Masses' Travels | 命ある者の旅 |
 | act42sign | 品鉴泰拉魔物 | Have A Taste Of Terran Monsters | テラ魔物品評 |
@@ -3959,6 +3961,7 @@ Event | なないろのお茶会 |
 | act40side_token_yumyum | “生香” | 'Yum-yum!' | 「生香」 |
 | act40side_token_yumyum_rep_1 | “生香” | - | - |
 | act41side_token_light | 损坏的源石灯 | Broken Originium Lamp | 壊れたランプ |
+| act41side_token_light_rep_1 | 损坏的源石灯 | - | - |
 | act42d0_token_evaluation | 试验数据集 | Experimental Dataset | テストデータ集 |
 | act42side_token_pacifier | 蒙恩的奶嘴 | Enlightened Pacifier | 祝福のおしゃぶり |
 | act43side_token_phantom | 神秘片场黑影 | Phantom of the Studio | 謎の黒い影 |
@@ -5158,6 +5161,7 @@ Event | なないろのお茶会 |
 | SINGLE_68_0_3 | 证实，完成，指引 | - | - |
 | SINGLE_69_0_1 | 在凝固的时光中探寻 | - | - |
 | SINGLE_71_0_1 | 以我的方式 | - | - |
+| SINGLE_71_0_5 | 自火中归还 | - | - |
 | SPECIAL_54_0_5 | 定向甄选 | - | - |
 | SPECIAL_59_0_3 | 定向甄选 | - | - |
 | SPECIAL_61_0_3 | 定向甄选 | - | - |
@@ -8949,6 +8953,8 @@ Event | なないろのお茶会 |
 | act40sre_zone3 | 怅别离 | - | - |
 | act41side_zone1 | 摇曳的影 | Flickering Shadows | 揺らめく影 |
 | act41side_zone2 | 将熄的火 | Dying Flames | 消えゆく炎 |
+| act41sre_zone1 | 摇曳的影 | - | - |
+| act41sre_zone2 | 将熄的火 | - | - |
 | act42side_zone1 | 瞻望圣堂 | A Glance at the Shrine | 聖堂を望む |
 | act42side_zone2 | 谒见神祇 | An Audience with God | 主への謁見 |
 | act42side_zone3 | 息止安所 | Rest in Peace | 安息の地 |
@@ -9066,6 +9072,8 @@ Event | なないろのお茶会 |
 | permanent_sidestory_30_zone1 | 识七味 | - | - |
 | permanent_sidestory_30_zone2 | 阅世情 | - | - |
 | permanent_sidestory_30_zone3 | 怅别离 | - | - |
+| permanent_sidestory_31_zone1 | 摇曳的影 | - | - |
+| permanent_sidestory_31_zone2 | 将熄的火 | - | - |
 | permanent_sidestory_3_zone1 | 下城区 | Downtown | 繁華街 |
 | permanent_sidestory_3_zone2 | 东部郊区 | Eastern Suburbs | 東部郊外 |
 | permanent_sidestory_4_zone1 | 议事高塔 | Capitol Spire | 大議事塔 |

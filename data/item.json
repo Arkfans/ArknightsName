@@ -1803,6 +1803,9 @@
     "ja_JP": "壊れたランプ",
     "zh_CN": "损坏的源石灯"
   },
+  "act41side_token_light_rep_1": {
+    "zh_CN": "损坏的源石灯"
+  },
   "act42d0_token_evaluation": {
     "en_US": "Experimental Dataset",
     "ja_JP": "テストデータ集",

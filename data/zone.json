@@ -1016,6 +1016,12 @@
     "ja_JP": "消えゆく炎",
     "zh_CN": "将熄的火"
   },
+  "act41sre_zone1": {
+    "zh_CN": "摇曳的影"
+  },
+  "act41sre_zone2": {
+    "zh_CN": "将熄的火"
+  },
   "act42side_zone1": {
     "en_US": "A Glance at the Shrine",
     "ja_JP": "聖堂を望む",
@@ -1544,6 +1550,12 @@
   },
   "permanent_sidestory_30_zone3": {
     "zh_CN": "怅别离"
+  },
+  "permanent_sidestory_31_zone1": {
+    "zh_CN": "摇曳的影"
+  },
+  "permanent_sidestory_31_zone2": {
+    "zh_CN": "将熄的火"
   },
   "permanent_sidestory_3_zone1": {
     "en_US": "Downtown",

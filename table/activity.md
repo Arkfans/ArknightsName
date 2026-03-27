@@ -225,6 +225,7 @@ Event | なないろのお茶会 |
 | act41side | 挽歌燃烧殆尽 | When Elegies Are Ashes | 挽歌が灰に還る時 |
 | act41sign | 沉沙赫日签到活动 | Brilliant Sun Rippling Sand Sign-In Event | 5周年
 スタンプ |
+| act41sre | 挽歌燃烧殆尽·复刻 | - | - |
 | act42d0 | 纷争演绎 | Design of Strife | 紛争演繹 |
 | act42side | 众生行记 | The Masses' Travels | 命ある者の旅 |
 | act42sign | 品鉴泰拉魔物 | Have A Taste Of Terran Monsters | テラ魔物品評 |
