@@ -7105,6 +7105,84 @@
       "zh_CN": "印字"
     }
   },
+  "trap_296_iznsbr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "落魄士兵"
+    }
+  },
+  "trap_297_izsdkn": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "持盾战败骑士"
+    }
+  },
+  "trap_298_izuabn": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "乌萨斯弩手幸存者"
+    }
+  },
+  "trap_299_izduph": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "深池搅局战士"
+    }
+  },
+  "trap_300_izdmge": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "萨卡兹业余术师"
+    }
+  },
+  "trap_301_izbslm": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "稳定的高能源石虫"
+    }
+  },
+  "trap_302_iznhkd": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "萨卡兹枯朽胃胀者"
+    }
+  },
+  "trap_303_izbear": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "下班的高普尼克"
+    }
+  },
+  "trap_304_izdoc": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "变格博士"
+    }
+  },
+  "trap_305_izwsdl": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "变格维什戴尔"
+    }
+  },
+  "trap_306_izklst": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "变格凯尔希"
+    }
+  },
+  "trap_307_izsvas": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "变格银灰"
+    }
+  },
+  "trap_308_izcamp": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "原型之手"
+    }
+  },
   "trap_328_newlamp": {
     "type": "TRAP",
     "names": {
@@ -9017,6 +9095,12 @@
       "en_US": "'Ride to Davistown'",
       "ja_JP": "『デイヴィスタウンへ赴く』",
       "zh_CN": "《上任达维镇》"
+    }
+  },
+  "char_1035_wisdel@game#9": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "绝对主角"
     }
   },
   "char_1035_wisdel@sale#14": {
@@ -26872,6 +26956,12 @@
       "zh_CN": "午间逸话"
     }
   },
+  "act7fun": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "Rhodes Island Epic 黑色博士坠落"
+    }
+  },
   "act7login": {
     "type": "ACTIVITY",
     "names": {
@@ -32831,6 +32921,24 @@
       "en_US": "Emote Set",
       "ja_JP": "スタンプ",
       "zh_CN": "表情套组"
+    }
+  },
+  "emoticon_foolsday_amiya": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "表情套组：米米子"
+    }
+  },
+  "emoticon_foolsday_doctor": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "表情套组：博士士"
+    }
+  },
+  "emoticon_foolsday_wisdel": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "表情套组：维维美"
     }
   },
   "emoticon_originium_slug": {
@@ -50248,6 +50356,12 @@
       "en_US": "Prototype of Feist's Metal Crab",
       "ja_JP": "鉄鉗号･プロトタイプ",
       "zh_CN": "铁钳号·原型机"
+    }
+  },
+  "sktok_izwsdl": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "爆裂一大清早"
     }
   },
   "sktok_klmantc_1": {

@@ -3210,6 +3210,13 @@ tip: 请善用浏览器的搜索功能
 |   | 骑探 |   |   |
 | avg_npc_224 | “银枪的天马” | 'A Silverlance Pegasus' | 「銀槍のペガサス」 |
 | avg_npc_225 | 逐魇骑士 | Nightmare Knight | 追魔騎士 |
+| avg_npc_2250_1 | 博士？ | - | - |
+| avg_npc_2251_1 | 阿米娅？ | - | - |
+| avg_npc_2252_1 | 凯尔希？ | - | - |
+| avg_npc_2253_1 | 维什戴尔？ | - | - |
+| avg_npc_2254_1 | 银灰？ | - | - |
+| avg_npc_2255_1 | 能天使？ | - | - |
+| avg_npc_2256_1 | 德克萨斯？ | - | - |
 | avg_npc_227_1 | 汉密尔顿 | Colonel Hamilton | ハミルトン大佐 |
 |   | 汉密尔顿上校 | Hamilton |   |
 | avg_npc_228_1 | 洛西莉 | Harmonie | アルモニ |

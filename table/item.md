@@ -710,6 +710,9 @@ tip: 请善用浏览器的搜索功能
 | emoticon_autochess_basic | 表情套组：卫戍协议 | - | - |
 | emoticon_autochess_basic_2 | 表情套组：卫戍协议 | - | - |
 | emoticon_basic | 表情套组 | Emote Set | スタンプ |
+| emoticon_foolsday_amiya | 表情套组：米米子 | - | - |
+| emoticon_foolsday_doctor | 表情套组：博士士 | - | - |
+| emoticon_foolsday_wisdel | 表情套组：维维美 | - | - |
 | emoticon_originium_slug | 表情套组：虫动 | Emote Set: Slug Style | スタンプ「オリジムシ」 |
 | emticon_duel_basic | 表情套组 | Emote Set | スタンプ |
 | et_ObsidianPass | 黑曜石节门票 | Obsidian Festival Ticket | フェスチケット |

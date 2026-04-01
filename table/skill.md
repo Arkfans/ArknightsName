@@ -1294,6 +1294,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_ironmn_pile1 | 极致火力 | Extreme Firepower | ハイパーブースト |
 | sktok_ironmn_pile2 | 高效补给 | Efficient Resupply | 供給効率化システム |
 | sktok_ironmn_pile3 | 铁钳号·原型机 | Prototype of Feist's Metal Crab | 鉄鉗号･プロトタイプ |
+| sktok_izwsdl | 爆裂一大清早 | - | - |
 | sktok_klmantc_1 | 触发对话 | Trigger Dialogue | 会話発生 |
 | sktok_klmantc_2 | 触发对话 | Trigger Dialogue | 会話発生 |
 | sktok_klmantc_3 | 触发对话 | Trigger Dialogue | 会話発生 |

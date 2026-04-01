@@ -283,6 +283,7 @@ Event | なないろのお茶会 |
 | act7collection | 界园志异限时任务 | - | - |
 | act7d1 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act7d5 | 午间逸话 | Stories of Afternoon | 午後の逸話 |
+| act7fun | Rhodes Island Epic 黑色博士坠落 | - | - |
 | act7login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
 | act7mini | 灯火序曲 | Preluding Lights | 灯火序曲 |
 | act7pray | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |

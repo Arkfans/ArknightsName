@@ -46,6 +46,7 @@ tip: 请善用浏览器的搜索功能
 | char_1032_excu2@sanrio#2 | 蒸汽寻踪者 | - | - |
 | char_1033_swire2@ambienceSynesthesia#4 | 律动方格 | Rhythmic Blocks | リズミックブロック |
 | char_1034_jesca2@cfa#1 | 《上任达维镇》 | 'Ride to Davistown' | 『デイヴィスタウンへ赴く』 |
+| char_1035_wisdel@game#9 | 绝对主角 | - | - |
 | char_1035_wisdel@sale#14 | 超新星 | Supernova | 超新星 |
 | char_1036_fang2@snow#8 | 纯净乐段 | - | - |
 | char_1037_amiya3@sale#13 | 寰宇独奏 | Solo Around The World | 宙に響く独奏 |

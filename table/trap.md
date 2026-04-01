@@ -438,6 +438,19 @@ tip: 请善用浏览器的搜索功能
 | trap_293_suishan | 岁用山 | - | - |
 | trap_294_ziyou | 友字 | - | - |
 | trap_295_ziyin | 印字 | - | - |
+| trap_296_iznsbr | 落魄士兵 | - | - |
+| trap_297_izsdkn | 持盾战败骑士 | - | - |
+| trap_298_izuabn | 乌萨斯弩手幸存者 | - | - |
+| trap_299_izduph | 深池搅局战士 | - | - |
+| trap_300_izdmge | 萨卡兹业余术师 | - | - |
+| trap_301_izbslm | 稳定的高能源石虫 | - | - |
+| trap_302_iznhkd | 萨卡兹枯朽胃胀者 | - | - |
+| trap_303_izbear | 下班的高普尼克 | - | - |
+| trap_304_izdoc | 变格博士 | - | - |
+| trap_305_izwsdl | 变格维什戴尔 | - | - |
+| trap_306_izklst | 变格凯尔希 | - | - |
+| trap_307_izsvas | 变格银灰 | - | - |
+| trap_308_izcamp | 原型之手 | - | - |
 | trap_328_newlamp | 城市霓虹 | - | - |
 | trap_330_ycwang | 演出望 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |

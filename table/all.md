@@ -942,6 +942,19 @@ tip: 请善用浏览器的搜索功能
 | trap_293_suishan | 岁用山 | - | - |
 | trap_294_ziyou | 友字 | - | - |
 | trap_295_ziyin | 印字 | - | - |
+| trap_296_iznsbr | 落魄士兵 | - | - |
+| trap_297_izsdkn | 持盾战败骑士 | - | - |
+| trap_298_izuabn | 乌萨斯弩手幸存者 | - | - |
+| trap_299_izduph | 深池搅局战士 | - | - |
+| trap_300_izdmge | 萨卡兹业余术师 | - | - |
+| trap_301_izbslm | 稳定的高能源石虫 | - | - |
+| trap_302_iznhkd | 萨卡兹枯朽胃胀者 | - | - |
+| trap_303_izbear | 下班的高普尼克 | - | - |
+| trap_304_izdoc | 变格博士 | - | - |
+| trap_305_izwsdl | 变格维什戴尔 | - | - |
+| trap_306_izklst | 变格凯尔希 | - | - |
+| trap_307_izsvas | 变格银灰 | - | - |
+| trap_308_izcamp | 原型之手 | - | - |
 | trap_328_newlamp | 城市霓虹 | - | - |
 | trap_330_ycwang | 演出望 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |
@@ -1190,6 +1203,7 @@ tip: 请善用浏览器的搜索功能
 | char_1032_excu2@sanrio#2 | 蒸汽寻踪者 | - | - |
 | char_1033_swire2@ambienceSynesthesia#4 | 律动方格 | Rhythmic Blocks | リズミックブロック |
 | char_1034_jesca2@cfa#1 | 《上任达维镇》 | 'Ride to Davistown' | 『デイヴィスタウンへ赴く』 |
+| char_1035_wisdel@game#9 | 绝对主角 | - | - |
 | char_1035_wisdel@sale#14 | 超新星 | Supernova | 超新星 |
 | char_1036_fang2@snow#8 | 纯净乐段 | - | - |
 | char_1037_amiya3@sale#13 | 寰宇独奏 | Solo Around The World | 宙に響く独奏 |
@@ -3518,6 +3532,7 @@ Event | なないろのお茶会 |
 | act7collection | 界园志异限时任务 | - | - |
 | act7d1 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act7d5 | 午间逸话 | Stories of Afternoon | 午後の逸話 |
+| act7fun | Rhodes Island Epic 黑色博士坠落 | - | - |
 | act7login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
 | act7mini | 灯火序曲 | Preluding Lights | 灯火序曲 |
 | act7pray | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |
@@ -4288,6 +4303,9 @@ Event | なないろのお茶会 |
 | emoticon_autochess_basic | 表情套组：卫戍协议 | - | - |
 | emoticon_autochess_basic_2 | 表情套组：卫戍协议 | - | - |
 | emoticon_basic | 表情套组 | Emote Set | スタンプ |
+| emoticon_foolsday_amiya | 表情套组：米米子 | - | - |
+| emoticon_foolsday_doctor | 表情套组：博士士 | - | - |
+| emoticon_foolsday_wisdel | 表情套组：维维美 | - | - |
 | emoticon_originium_slug | 表情套组：虫动 | Emote Set: Slug Style | スタンプ「オリジムシ」 |
 | emticon_duel_basic | 表情套组 | Emote Set | スタンプ |
 | et_ObsidianPass | 黑曜石节门票 | Obsidian Festival Ticket | フェスチケット |
@@ -6592,6 +6610,7 @@ Event | なないろのお茶会 |
 | sktok_ironmn_pile1 | 极致火力 | Extreme Firepower | ハイパーブースト |
 | sktok_ironmn_pile2 | 高效补给 | Efficient Resupply | 供給効率化システム |
 | sktok_ironmn_pile3 | 铁钳号·原型机 | Prototype of Feist's Metal Crab | 鉄鉗号･プロトタイプ |
+| sktok_izwsdl | 爆裂一大清早 | - | - |
 | sktok_klmantc_1 | 触发对话 | Trigger Dialogue | 会話発生 |
 | sktok_klmantc_2 | 触发对话 | Trigger Dialogue | 会話発生 |
 | sktok_klmantc_3 | 触发对话 | Trigger Dialogue | 会話発生 |
