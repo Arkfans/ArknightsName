@@ -347,8 +347,25 @@ tip: 请善用浏览器的搜索功能
 | enemy_1017_defdrn | 御4 | Defender-4 | Mvc4 |
 | enemy_1018_aoemag | 高阶术师 | Senior Caster | 上級術師 |
 | enemy_1018_aoemag_2 | 高阶术师组长 | Senior Caster Leader | 上級術師隊長 |
+| enemy_10193_ubhh | 撬棍巡逻者 | - | - |
+| enemy_10193_ubhh_2 | 撬棍追捕者
+ | - | - |
+| enemy_10194_ubdg | 玻璃窗粉碎者 | - | - |
+| enemy_10194_ubdg_2 | 玻璃窗毁灭者 | - | - |
+| enemy_10195_ubsb | 强光恐吓者 | - | - |
+| enemy_10195_ubsb_2 | 强光监管者 | - | - |
+| enemy_10196_ubba | 搏命养家者 | - | - |
+| enemy_10196_ubba_2 | 搏命享受者 | - | - |
+| enemy_10197_ublyb | 酗酒滋事者
+ | - | - |
+| enemy_10197_ublyb_2 | 酗酒斗殴者 | - | - |
+| enemy_10198_ubjxs | 废金属破坏者 | - | - |
+| enemy_10198_ubjxs_2 | 废金属爆裂者 | - | - |
+| enemy_10199_ubhb | 硬核扰民者 | - | - |
+| enemy_10199_ubhb_2 | 硬核袭警者 | - | - |
 | enemy_1019_jshoot | 隐形弩手 | Invisible Crossbowman | 迷彩射撃兵 |
 | enemy_1019_jshoot_2 | 隐形弩手组长 | Invisible Crossbowman Leader | 迷彩射撃隊長 |
+| enemy_10200_ubglmf | 格罗莫夫 | - | - |
 | enemy_1020_obsv | 技术侦察兵 | Technical Scout | 技術偵察兵 |
 | enemy_1021_bslime | 高能源石虫 | Infused Originium Slug | バクダンムシ |
 | enemy_1021_bslime_2 | 高能源石虫·α | Infused Originium Slug α | バクダンムシα |
@@ -1228,6 +1245,8 @@ tip: 请善用浏览器的搜索功能
 | enemy_1583_suizzh | 岁·左爪 | - | - |
 | enemy_1584_suiyzh | 岁·右爪 | - | - |
 | enemy_1585_suiwei | 岁·尾 | - | - |
+| enemy_1587_ubbplwq | 巴普洛维奇，枢密官 | - | - |
+| enemy_1588_ubbphw | “私人安全顾问” | - | - |
 | enemy_18001_lhship | 运输汽艇 | - | - |
 | enemy_18002_lhbetl | 小颚虫 | - | - |
 | enemy_18003_lhkarb | 吸气乱动机 | - | - |
@@ -1376,6 +1395,8 @@ tip: 请善用浏览器的搜索功能
 | enemy_3012_tjgcb | 饷事 | - | - |
 | enemy_3013_tjglb | 炊事 | - | - |
 | enemy_3014_wangw | “执白者” | - | - |
+| enemy_3015_ubstb | 被关押的学生 | - | - |
+| enemy_3016_ubstg | 被关押的学生 | - | - |
 | enemy_4001_toxcar | 改造瓦斯车 | Retrofitted Gastruck | 改造ガス車 |
 | enemy_4001_toxcar_2 | 高能瓦斯车 | Supercharged Gastruck | 拡容改造ガス車 |
 | enemy_4002_syokai | 二手廉价无人机 | Cheap Second-hand Drone | 中古低価ドローン |

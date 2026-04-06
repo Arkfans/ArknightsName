@@ -5060,6 +5060,39 @@
     "ja_JP": "遅延作戦",
     "zh_CN": "延时毁灭"
   },
+  "act51side_01": {
+    "zh_CN": "“卡托加区欢迎你”"
+  },
+  "act51side_02": {
+    "zh_CN": "枷锁之中"
+  },
+  "act51side_03": {
+    "zh_CN": "阳光照耀圣骏堡"
+  },
+  "act51side_04": {
+    "zh_CN": "一墙之隔"
+  },
+  "act51side_05": {
+    "zh_CN": "高尚的背叛"
+  },
+  "act51side_06": {
+    "zh_CN": "各自流亡"
+  },
+  "act51side_07": {
+    "zh_CN": "死结两端"
+  },
+  "act51side_08": {
+    "zh_CN": "一千年后"
+  },
+  "act51side_st01": {
+    "zh_CN": "群氓"
+  },
+  "act51side_st02": {
+    "zh_CN": "完整的缺损"
+  },
+  "act51side_tr01": {
+    "zh_CN": "卑劣与繁荣"
+  },
   "act5bossrush_01": {
     "en_US": "Cold and Blood",
     "ja_JP": "極寒に舞う血しぶき",

@@ -46,6 +46,7 @@ tip: 请善用浏览器的搜索功能
 | char_1046_sbell2 | 圣聆初雪 | - | - |
 | char_1047_halo2 | 溯光星源 | - | - |
 | char_1050_chen3 | 赤刃明霄陈 | - | - |
+| char_1051_headb2 | 怒潮凛冬 | - | - |
 | char_106_franka | 芙兰卡 | Franka | フランカ |
 | char_107_liskam | 雷蛇 | Liskarm | リスカム |
 | char_108_silent | 赫默 | Silence | サイレンス |
@@ -363,6 +364,8 @@ tip: 请善用浏览器的搜索功能
 | char_421_crow | 羽毛笔 | La Pluma | ラ・プルマ |
 | char_4221_ju | 矩 | - | - |
 | char_4222_taraxa | 风絮 | - | - |
+| char_4223_botany | 伯塔尼 | - | - |
+| char_4224_turdus | 乌啾 | - | - |
 | char_422_aurora | 极光 | Aurora | オーロラ |
 | char_423_blemsh | 瑕光 | Blemishine | ブレミシャイン |
 | char_426_billro | 卡涅利安 | Carnelian | カーネリアン |

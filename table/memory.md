@@ -53,7 +53,9 @@ tip: 请善用浏览器的搜索功能
 | story_blkngt_set_1_story_1 | 荒地生灵 | Souls of the Wilderness | 荒野に生まれ |
 | story_bluep_set_1_story_1 | 触不可及 | Untouchable | 遥か遠く |
 | story_bobb_set_1_story_1 | 谁与同行 | - | - |
+| story_botany_set_1_story_1 | 发声 | - | - |
 | story_bpipe_set_1_story_1 | 难行长路 | Dangerous Road | 険しい道のり |
+| story_branch_set_1_story_1 | 止痛药 | - | - |
 | story_breeze_set_1_story_1 | 风暖寒林 | Breeze's Warmth, Chilled Forest | 林は寒く風は温か |
 | story_breeze_set_2_story_1 | 囚徒的幻梦 | Prisoner's Dream | 囚われ人のゆめ |
 | story_brigid_set_1_story_1 | 临行日 | Day of Departure | 出発の日 |
@@ -88,6 +90,7 @@ tip: 请善用浏览器的搜索功能
 | story_chyue_set_1_story_1 | 昔我往矣 | Once Upon a Time, I Wandered Afar | 昔我往きて、君と携行す |
 | story_clour_set_1_story_1 | 安身之处 | Somewhere to Make Home | 安らぎの場所 |
 | story_coldst_set_1_story_1 | 一路顺风 | Have A Safe Trip | いってらっしゃい |
+| story_crosly_set_1_story_1 | 欲摘其冠 | - | - |
 | story_crow_set_1_story_1 | 坚韧的羽毛 | Plumas de Tenacidad | 強靭な羽根 |
 | story_ctable_set_1_story_1 | 飞进窗的羽兽 | A Fowl Through the Window | 窓から飛び込んだ羽獣 |
 | story_ctrail_set_1_story_1 | 迁徙前日 | - | - |
@@ -363,6 +366,7 @@ tip: 请善用浏览器的搜索功能
 | story_whitw2_set_1_story_1 | 气味游戏 | - | - |
 | story_wildmn_set_1_story_1 | 憧憬 | Aspiration | 憧憬 |
 | story_windft_set_1_story_1 | 老工厂里的一支舞 | Lone Dance at the Old Factory | 古工場のダンス |
+| story_wintim_set_1_story_1 | 覆录 | - | - |
 | story_wscoot_set_1_story_1 | 只待天明 | - | - |
 | story_wulfen_set_1_story_1 | 最后一次探险 | - | - |
 | story_wyvern_set_1_story_1 | 源石虫与啤酒花 | Originium Slugs and Hops | オリジムシとホップ |

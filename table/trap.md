@@ -451,6 +451,9 @@ tip: 请善用浏览器的搜索功能
 | trap_306_izklst | 变格凯尔希 | - | - |
 | trap_307_izsvas | 变格银灰 | - | - |
 | trap_308_izcamp | 原型之手 | - | - |
+| trap_316_ubtower | 警戒塔 | - | - |
+| trap_317_ubprison | 禁闭所 | - | - |
+| trap_318_ubodst | 伪装工具 | - | - |
 | trap_328_newlamp | 城市霓虹 | - | - |
 | trap_330_ycwang | 演出望 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |

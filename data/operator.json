@@ -190,6 +190,9 @@
   "char_1050_chen3": {
     "zh_CN": "赤刃明霄陈"
   },
+  "char_1051_headb2": {
+    "zh_CN": "怒潮凛冬"
+  },
   "char_106_franka": {
     "en_US": "Franka",
     "ja_JP": "フランカ",
@@ -1722,6 +1725,12 @@
   },
   "char_4222_taraxa": {
     "zh_CN": "风絮"
+  },
+  "char_4223_botany": {
+    "zh_CN": "伯塔尼"
+  },
+  "char_4224_turdus": {
+    "zh_CN": "乌啾"
   },
   "char_422_aurora": {
     "en_US": "Aurora",

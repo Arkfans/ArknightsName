@@ -1094,6 +1094,17 @@ tip: 请善用浏览器的搜索功能
 | act4d0_03 | 斑驳 | Speckles | まだら模様 |
 | act4d0_04 | 狡诈戏法 | Sleight of Hand | 悪知恵 |
 | act4d0_05 | 延时毁灭 | Prolonged Destruction | 遅延作戦 |
+| act51side_01 | “卡托加区欢迎你” | - | - |
+| act51side_02 | 枷锁之中 | - | - |
+| act51side_03 | 阳光照耀圣骏堡 | - | - |
+| act51side_04 | 一墙之隔 | - | - |
+| act51side_05 | 高尚的背叛 | - | - |
+| act51side_06 | 各自流亡 | - | - |
+| act51side_07 | 死结两端 | - | - |
+| act51side_08 | 一千年后 | - | - |
+| act51side_st01 | 群氓 | - | - |
+| act51side_st02 | 完整的缺损 | - | - |
+| act51side_tr01 | 卑劣与繁荣 | - | - |
 | act5bossrush_01 | 严寒骤血 | Cold and Blood | 極寒に舞う血しぶき |
 | act5bossrush_02 | 无声破裂 | Silent Crack | 声なき破滅 |
 | act5bossrush_03 | 幕间重影 | Interlude of Shadows | 幕間の多重像 |

@@ -239,6 +239,8 @@ tip: 请善用浏览器的搜索功能
 | act49side_zone2 | 望春遗事 | - | - |
 | act49side_zone3 | 待笔新篇 | - | - |
 | act4bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
+| act51side_zone1 | 告别天真年代 | - | - |
+| act51side_zone2 | 踏入新生黎明 | - | - |
 | act5bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act5d0_zone1 | 下城区 | Downtown | 繁華街 |
 | act5d0_zone2 | 东部郊区 | Eastern Suburbs | 東部郊外 |

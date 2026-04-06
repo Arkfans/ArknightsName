@@ -233,10 +233,16 @@
   "story_bobb_set_1_story_1": {
     "zh_CN": "谁与同行"
   },
+  "story_botany_set_1_story_1": {
+    "zh_CN": "发声"
+  },
   "story_bpipe_set_1_story_1": {
     "en_US": "Dangerous Road",
     "ja_JP": "険しい道のり",
     "zh_CN": "难行长路"
+  },
+  "story_branch_set_1_story_1": {
+    "zh_CN": "止痛药"
   },
   "story_breeze_set_1_story_1": {
     "en_US": "Breeze's Warmth, Chilled Forest",
@@ -403,6 +409,9 @@
     "en_US": "Have A Safe Trip",
     "ja_JP": "いってらっしゃい",
     "zh_CN": "一路顺风"
+  },
+  "story_crosly_set_1_story_1": {
+    "zh_CN": "欲摘其冠"
   },
   "story_crow_set_1_story_1": {
     "en_US": "Plumas de Tenacidad",
@@ -1718,6 +1727,9 @@
     "en_US": "Lone Dance at the Old Factory",
     "ja_JP": "古工場のダンス",
     "zh_CN": "老工厂里的一支舞"
+  },
+  "story_wintim_set_1_story_1": {
+    "zh_CN": "覆录"
   },
   "story_wscoot_set_1_story_1": {
     "zh_CN": "只待天明"

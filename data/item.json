@@ -955,6 +955,9 @@
   "RandomSkinbox_2": {
     "zh_CN": "时装回顾展·II"
   },
+  "RandomSkinbox_3": {
+    "zh_CN": "时装回顾展·III"
+  },
   "SINGLE_49_0_1_GACHA": {
     "en_US": "Like Ending Like Death Headhunting Permit",
     "ja_JP": "イベントスカウト券",
@@ -990,6 +993,12 @@
   },
   "SINGLE_66_0_1_GACHA_10": {
     "zh_CN": "空白频段十连寻访凭证"
+  },
+  "SINGLE_72_0_1_GACHA": {
+    "zh_CN": "辟路之人寻访凭证"
+  },
+  "SINGLE_72_0_1_GACHA_10": {
+    "zh_CN": "辟路之人十连寻访凭证"
   },
   "SOCIAL_PT": {
     "en_US": "Credit",
@@ -1889,6 +1898,9 @@
     "ja_JP": "KFCポイント",
     "zh_CN": "KFC积分"
   },
+  "act51side_token_poem": {
+    "zh_CN": "破碎诗行"
+  },
   "act5bossrush_milestone_point": {
     "en_US": "Trial EXP",
     "ja_JP": "試練経験値",
@@ -2353,6 +2365,12 @@
     "en_US": "Sora's Kernel Token",
     "ja_JP": "ソラの印（中堅）",
     "zh_CN": "空的中坚信物"
+  },
+  "class_p_char_1024_hbisc2": {
+    "zh_CN": "濯尘芙蓉的中坚信物"
+  },
+  "class_p_char_1027_greyy2": {
+    "zh_CN": "承曦格雷伊的中坚信物"
   },
   "class_p_char_102_texas": {
     "en_US": "Texas's Kernel Token",
@@ -2864,6 +2882,9 @@
     "ja_JP": "ススーロの印（中堅）",
     "zh_CN": "苏苏洛的中坚信物"
   },
+  "class_p_char_300_phenxi": {
+    "zh_CN": "菲亚梅塔的中坚信物"
+  },
   "class_p_char_301_cutter": {
     "en_US": "Cutter's Kernel Token",
     "ja_JP": "カッターの印（中堅）",
@@ -2888,6 +2909,9 @@
     "en_US": "Mudrock's Kernel Token",
     "ja_JP": "マドロックの印（中堅）",
     "zh_CN": "泥岩的中坚信物"
+  },
+  "class_p_char_322_lmlee": {
+    "zh_CN": "老鲤的中坚信物"
   },
   "class_p_char_326_glacus": {
     "en_US": "Glaucus's Kernel Token",
@@ -2989,6 +3013,9 @@
     "ja_JP": "レオンハルトの印（中堅）",
     "zh_CN": "莱恩哈特的中坚信物"
   },
+  "class_p_char_377_gdglow": {
+    "zh_CN": "澄闪的中坚信物"
+  },
   "class_p_char_378_asbest": {
     "en_US": "Asbestos's Kernel Token",
     "ja_JP": "アスベストスの印（中堅）",
@@ -3004,20 +3031,38 @@
     "ja_JP": "バブルの印（中堅）",
     "zh_CN": "泡泡的中坚信物"
   },
+  "class_p_char_4009_irene": {
+    "zh_CN": "艾丽妮的中坚信物"
+  },
   "class_p_char_400_weedy": {
     "en_US": "Weedy's Kernel Token",
     "ja_JP": "ウィーディの印（中堅）",
     "zh_CN": "温蒂的中坚信物"
+  },
+  "class_p_char_4016_kazema": {
+    "zh_CN": "风丸的中坚信物"
   },
   "class_p_char_401_elysm": {
     "en_US": "Elysium's Kernel Token",
     "ja_JP": "エリジウムの印（中堅）",
     "zh_CN": "极境的中坚信物"
   },
+  "class_p_char_4039_horn": {
+    "zh_CN": "号角的中坚信物"
+  },
+  "class_p_char_4040_rockr": {
+    "zh_CN": "洛洛的中坚信物"
+  },
   "class_p_char_4041_chnut": {
     "en_US": "Chestnut's Kernel Token",
     "ja_JP": "チェストナットの印（中堅）",
     "zh_CN": "褐果的中坚信物"
+  },
+  "class_p_char_4046_ebnhlz": {
+    "zh_CN": "黑键的中坚信物"
+  },
+  "class_p_char_4048_doroth": {
+    "zh_CN": "多萝西的中坚信物"
   },
   "class_p_char_4062_totter": {
     "en_US": "Totter's Kernel Token",
@@ -3028,6 +3073,9 @@
     "en_US": "Verdant's Kernel Token",
     "ja_JP": "ヴァーダントの印（中堅）",
     "zh_CN": "维荻的中坚信物"
+  },
+  "class_p_char_4130_luton": {
+    "zh_CN": "露托的中坚信物"
   },
   "class_p_char_415_flint": {
     "en_US": "Flint's Kernel Token",
@@ -3074,6 +3122,9 @@
     "ja_JP": "アッシュロックの印（中堅）",
     "zh_CN": "灰毫的中坚信物"
   },
+  "class_p_char_433_windft": {
+    "zh_CN": "掠风的中坚信物"
+  },
   "class_p_char_436_whispr": {
     "en_US": "Whisperain's Kernel Token",
     "ja_JP": "ウィスパーレインの印（中堅）",
@@ -3119,6 +3170,9 @@
     "ja_JP": "アカフユの印（中堅）",
     "zh_CN": "赤冬的中坚信物"
   },
+  "class_p_char_476_blkngt": {
+    "zh_CN": "夜半的中坚信物"
+  },
   "class_p_char_478_kirara": {
     "en_US": "Kirara's Kernel Token",
     "ja_JP": "キララの印（中堅）",
@@ -3148,6 +3202,9 @@
     "en_US": "Humus's Kernel Token",
     "ja_JP": "ヒューマスの印（中堅）",
     "zh_CN": "休谟斯的中坚信物"
+  },
+  "class_p_char_492_quercu": {
+    "zh_CN": "夏栎的中坚信物"
   },
   "classic_fes_pick_tier_5_3801": {
     "en_US": "Kernel Locating 5* Operator",
@@ -3782,6 +3839,9 @@
   },
   "p_char_1050_chen3": {
     "zh_CN": "赤刃明霄陈的信物"
+  },
+  "p_char_1051_headb2": {
+    "zh_CN": "怒潮凛冬的信物"
   },
   "p_char_106_franka": {
     "en_US": "Franka's Token",
@@ -5295,6 +5355,12 @@
   },
   "p_char_4222_taraxa": {
     "zh_CN": "风絮的信物"
+  },
+  "p_char_4223_botany": {
+    "zh_CN": "伯塔尼的信物"
+  },
+  "p_char_4224_turdus": {
+    "zh_CN": "乌啾的信物"
   },
   "p_char_422_aurora": {
     "en_US": "Aurora's Token",

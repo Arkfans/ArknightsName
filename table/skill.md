@@ -132,6 +132,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_bluep_2 | 毒液散射 | Venom Spray | 毒液装填 |
 | skchr_bobb_1 | 非和平劝说 | Nonpeaceful Negotiation | 非友好的交渉 |
 | skchr_bobb_2 | “此路不通” | 'You Shall Not Pass' | 「通行止め」 |
+| skchr_botany_1 | 谐波破坏 | - | - |
+| skchr_botany_2 | 静域回声 | - | - |
 | skchr_bpipe_2 | 高效冲击 | High-Impact Assault | ハイパーインパクト |
 | skchr_bpipe_3 | 闭膛连发 | Locked Breech Burst | クローズドボルト連射 |
 | skchr_branch_1 | 绝境抵抗 | - | - |
@@ -343,6 +345,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_haruka_2 | 幽隙栖萤 | - | - |
 | skchr_haruka_3 | 夏末游鳞 | - | - |
 | skchr_hbisc2_2 | 抚业之触 | Nurturing Touch | 業の救済 |
+| skchr_headb2_1 | 誓不低头 | - | - |
+| skchr_headb2_2 | 绝不罢休 | - | - |
+| skchr_headb2_3 | 无可抵挡 | - | - |
 | skchr_headbr_2 | 乌萨斯战吼 | Ursus's Roar | ウルサスの雄叫び |
 | skchr_heidi_1 | 虚构故事·怒士 | Tale of Fiction: A Warrior's Anger | 架空の物語・怒れる者 |
 | skchr_heidi_2 | 虚构故事·锈城 | Tale of Fiction: Rust | 架空の物語・錆びた城 |
@@ -779,6 +784,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_tomimi_2 | 嘉维尔保护方案 | Gavial's Protection Plan | ガヴィル保護プラン |
 | skchr_totter_1 | 贯日 | Sunpiercer | 貫日の一射 |
 | skchr_totter_2 | 破虹 | Prism Break | 砕虹の勁弩 |
+| skchr_turdus_1 | 火钳秘咒 | - | - |
+| skchr_turdus_2 | “捉迷藏！” | - | - |
 | skchr_tuye_1 | 水流环 | Aqua Loop | アクアリング |
 | skchr_tuye_2 | 强心剂 | Cardiac Stimulant | カンフル剤 |
 | skchr_typhon_2 | 冰原秩序 | Order of the Icefield | 氷原の掟 |

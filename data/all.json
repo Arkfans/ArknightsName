@@ -313,6 +313,12 @@
       "zh_CN": "赤刃明霄陈"
     }
   },
+  "char_1051_headb2": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "怒潮凛冬"
+    }
+  },
   "char_106_franka": {
     "type": "OPERATOR",
     "names": {
@@ -2795,6 +2801,18 @@
     "type": "OPERATOR",
     "names": {
       "zh_CN": "风絮"
+    }
+  },
+  "char_4223_botany": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "伯塔尼"
+    }
+  },
+  "char_4224_turdus": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "乌啾"
     }
   },
   "char_422_aurora": {
@@ -7181,6 +7199,24 @@
     "type": "TRAP",
     "names": {
       "zh_CN": "原型之手"
+    }
+  },
+  "trap_316_ubtower": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "警戒塔"
+    }
+  },
+  "trap_317_ubprison": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "禁闭所"
+    }
+  },
+  "trap_318_ubodst": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "伪装工具"
     }
   },
   "trap_328_newlamp": {
@@ -15145,6 +15181,90 @@
       "zh_CN": "高阶术师组长"
     }
   },
+  "enemy_10193_ubhh": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "撬棍巡逻者"
+    }
+  },
+  "enemy_10193_ubhh_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "撬棍追捕者\n"
+    }
+  },
+  "enemy_10194_ubdg": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "玻璃窗粉碎者"
+    }
+  },
+  "enemy_10194_ubdg_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "玻璃窗毁灭者"
+    }
+  },
+  "enemy_10195_ubsb": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "强光恐吓者"
+    }
+  },
+  "enemy_10195_ubsb_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "强光监管者"
+    }
+  },
+  "enemy_10196_ubba": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "搏命养家者"
+    }
+  },
+  "enemy_10196_ubba_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "搏命享受者"
+    }
+  },
+  "enemy_10197_ublyb": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "酗酒滋事者\n"
+    }
+  },
+  "enemy_10197_ublyb_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "酗酒斗殴者"
+    }
+  },
+  "enemy_10198_ubjxs": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "废金属破坏者"
+    }
+  },
+  "enemy_10198_ubjxs_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "废金属爆裂者"
+    }
+  },
+  "enemy_10199_ubhb": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "硬核扰民者"
+    }
+  },
+  "enemy_10199_ubhb_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "硬核袭警者"
+    }
+  },
   "enemy_1019_jshoot": {
     "type": "ENEMY",
     "names": {
@@ -15159,6 +15279,12 @@
       "en_US": "Invisible Crossbowman Leader",
       "ja_JP": "迷彩射撃隊長",
       "zh_CN": "隐形弩手组长"
+    }
+  },
+  "enemy_10200_ubglmf": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "格罗莫夫"
     }
   },
   "enemy_1020_obsv": {
@@ -22161,6 +22287,18 @@
       "zh_CN": "岁·尾"
     }
   },
+  "enemy_1587_ubbplwq": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "巴普洛维奇，枢密官"
+    }
+  },
+  "enemy_1588_ubbphw": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“私人安全顾问”"
+    }
+  },
   "enemy_18001_lhship": {
     "type": "ENEMY",
     "names": {
@@ -23247,6 +23385,18 @@
     "type": "ENEMY",
     "names": {
       "zh_CN": "“执白者”"
+    }
+  },
+  "enemy_3015_ubstb": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "被关押的学生"
+    }
+  },
+  "enemy_3016_ubstg": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "被关押的学生"
     }
   },
   "enemy_4001_toxcar": {
@@ -29002,6 +29152,12 @@
       "zh_CN": "时装回顾展·II"
     }
   },
+  "RandomSkinbox_3": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "时装回顾展·III"
+    }
+  },
   "SINGLE_49_0_1_GACHA": {
     "type": "ITEM",
     "names": {
@@ -29060,6 +29216,18 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "空白频段十连寻访凭证"
+    }
+  },
+  "SINGLE_72_0_1_GACHA": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "辟路之人寻访凭证"
+    }
+  },
+  "SINGLE_72_0_1_GACHA_10": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "辟路之人十连寻访凭证"
     }
   },
   "SOCIAL_PT": {
@@ -30545,6 +30713,12 @@
       "zh_CN": "KFC积分"
     }
   },
+  "act51side_token_poem": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "破碎诗行"
+    }
+  },
   "act5bossrush_milestone_point": {
     "type": "ITEM",
     "names": {
@@ -31317,6 +31491,18 @@
       "en_US": "Sora's Kernel Token",
       "ja_JP": "ソラの印（中堅）",
       "zh_CN": "空的中坚信物"
+    }
+  },
+  "class_p_char_1024_hbisc2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "濯尘芙蓉的中坚信物"
+    }
+  },
+  "class_p_char_1027_greyy2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "承曦格雷伊的中坚信物"
     }
   },
   "class_p_char_102_texas": {
@@ -32135,6 +32321,12 @@
       "zh_CN": "苏苏洛的中坚信物"
     }
   },
+  "class_p_char_300_phenxi": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "菲亚梅塔的中坚信物"
+    }
+  },
   "class_p_char_301_cutter": {
     "type": "ITEM",
     "names": {
@@ -32173,6 +32365,12 @@
       "en_US": "Mudrock's Kernel Token",
       "ja_JP": "マドロックの印（中堅）",
       "zh_CN": "泥岩的中坚信物"
+    }
+  },
+  "class_p_char_322_lmlee": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "老鲤的中坚信物"
     }
   },
   "class_p_char_326_glacus": {
@@ -32335,6 +32533,12 @@
       "zh_CN": "莱恩哈特的中坚信物"
     }
   },
+  "class_p_char_377_gdglow": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "澄闪的中坚信物"
+    }
+  },
   "class_p_char_378_asbest": {
     "type": "ITEM",
     "names": {
@@ -32359,12 +32563,24 @@
       "zh_CN": "泡泡的中坚信物"
     }
   },
+  "class_p_char_4009_irene": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "艾丽妮的中坚信物"
+    }
+  },
   "class_p_char_400_weedy": {
     "type": "ITEM",
     "names": {
       "en_US": "Weedy's Kernel Token",
       "ja_JP": "ウィーディの印（中堅）",
       "zh_CN": "温蒂的中坚信物"
+    }
+  },
+  "class_p_char_4016_kazema": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "风丸的中坚信物"
     }
   },
   "class_p_char_401_elysm": {
@@ -32375,12 +32591,36 @@
       "zh_CN": "极境的中坚信物"
     }
   },
+  "class_p_char_4039_horn": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "号角的中坚信物"
+    }
+  },
+  "class_p_char_4040_rockr": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "洛洛的中坚信物"
+    }
+  },
   "class_p_char_4041_chnut": {
     "type": "ITEM",
     "names": {
       "en_US": "Chestnut's Kernel Token",
       "ja_JP": "チェストナットの印（中堅）",
       "zh_CN": "褐果的中坚信物"
+    }
+  },
+  "class_p_char_4046_ebnhlz": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "黑键的中坚信物"
+    }
+  },
+  "class_p_char_4048_doroth": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "多萝西的中坚信物"
     }
   },
   "class_p_char_4062_totter": {
@@ -32397,6 +32637,12 @@
       "en_US": "Verdant's Kernel Token",
       "ja_JP": "ヴァーダントの印（中堅）",
       "zh_CN": "维荻的中坚信物"
+    }
+  },
+  "class_p_char_4130_luton": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "露托的中坚信物"
     }
   },
   "class_p_char_415_flint": {
@@ -32471,6 +32717,12 @@
       "zh_CN": "灰毫的中坚信物"
     }
   },
+  "class_p_char_433_windft": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "掠风的中坚信物"
+    }
+  },
   "class_p_char_436_whispr": {
     "type": "ITEM",
     "names": {
@@ -32543,6 +32795,12 @@
       "zh_CN": "赤冬的中坚信物"
     }
   },
+  "class_p_char_476_blkngt": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "夜半的中坚信物"
+    }
+  },
   "class_p_char_478_kirara": {
     "type": "ITEM",
     "names": {
@@ -32589,6 +32847,12 @@
       "en_US": "Humus's Kernel Token",
       "ja_JP": "ヒューマスの印（中堅）",
       "zh_CN": "休谟斯的中坚信物"
+    }
+  },
+  "class_p_char_492_quercu": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "夏栎的中坚信物"
     }
   },
   "classic_fes_pick_tier_5_3801": {
@@ -33655,6 +33919,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "赤刃明霄陈的信物"
+    }
+  },
+  "p_char_1051_headb2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "怒潮凛冬的信物"
     }
   },
   "p_char_106_franka": {
@@ -36107,6 +36377,18 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "风絮的信物"
+    }
+  },
+  "p_char_4223_botany": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "伯塔尼的信物"
+    }
+  },
+  "p_char_4224_turdus": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "乌啾的信物"
     }
   },
   "p_char_422_aurora": {
@@ -39495,6 +39777,12 @@
       "zh_CN": "自火中归还"
     }
   },
+  "SINGLE_72_0_1": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "辟路之人"
+    }
+  },
   "SPECIAL_54_0_5": {
     "type": "POOL",
     "names": {
@@ -41480,6 +41768,18 @@
       "zh_CN": "“此路不通”"
     }
   },
+  "skchr_botany_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "谐波破坏"
+    }
+  },
+  "skchr_botany_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "静域回声"
+    }
+  },
   "skchr_bpipe_2": {
     "type": "SKILL",
     "names": {
@@ -43122,6 +43422,24 @@
       "en_US": "Nurturing Touch",
       "ja_JP": "業の救済",
       "zh_CN": "抚业之触"
+    }
+  },
+  "skchr_headb2_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "誓不低头"
+    }
+  },
+  "skchr_headb2_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "绝不罢休"
+    }
+  },
+  "skchr_headb2_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "无可抵挡"
     }
   },
   "skchr_headbr_2": {
@@ -46512,6 +46830,18 @@
       "en_US": "Prism Break",
       "ja_JP": "砕虹の勁弩",
       "zh_CN": "破虹"
+    }
+  },
+  "skchr_turdus_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "火钳秘咒"
+    }
+  },
+  "skchr_turdus_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“捉迷藏！”"
     }
   },
   "skchr_tuye_1": {
@@ -61290,6 +61620,72 @@
       "zh_CN": "延时毁灭"
     }
   },
+  "act51side_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "“卡托加区欢迎你”"
+    }
+  },
+  "act51side_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "枷锁之中"
+    }
+  },
+  "act51side_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "阳光照耀圣骏堡"
+    }
+  },
+  "act51side_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "一墙之隔"
+    }
+  },
+  "act51side_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "高尚的背叛"
+    }
+  },
+  "act51side_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "各自流亡"
+    }
+  },
+  "act51side_07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "死结两端"
+    }
+  },
+  "act51side_08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "一千年后"
+    }
+  },
+  "act51side_st01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "群氓"
+    }
+  },
+  "act51side_st02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "完整的缺损"
+    }
+  },
+  "act51side_tr01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "卑劣与繁荣"
+    }
+  },
   "act5bossrush_01": {
     "type": "STAGE",
     "names": {
@@ -68726,6 +69122,18 @@
       "zh_CN": "强敌当前"
     }
   },
+  "act51side_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "告别天真年代"
+    }
+  },
+  "act51side_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "踏入新生黎明"
+    }
+  },
   "act5bossrush_zone1": {
     "type": "ZONE",
     "names": {
@@ -70250,12 +70658,24 @@
       "zh_CN": "谁与同行"
     }
   },
+  "story_botany_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "发声"
+    }
+  },
   "story_bpipe_set_1_story_1": {
     "type": "MEMORY",
     "names": {
       "en_US": "Dangerous Road",
       "ja_JP": "険しい道のり",
       "zh_CN": "难行长路"
+    }
+  },
+  "story_branch_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "止痛药"
     }
   },
   "story_breeze_set_1_story_1": {
@@ -70524,6 +70944,12 @@
       "en_US": "Have A Safe Trip",
       "ja_JP": "いってらっしゃい",
       "zh_CN": "一路顺风"
+    }
+  },
+  "story_crosly_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "欲摘其冠"
     }
   },
   "story_crow_set_1_story_1": {
@@ -72664,6 +73090,12 @@
       "en_US": "Lone Dance at the Old Factory",
       "ja_JP": "古工場のダンス",
       "zh_CN": "老工厂里的一支舞"
+    }
+  },
+  "story_wintim_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "覆录"
     }
   },
   "story_wscoot_set_1_story_1": {

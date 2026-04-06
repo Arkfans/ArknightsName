@@ -626,6 +626,12 @@
     "ja_JP": "「通行止め」",
     "zh_CN": "“此路不通”"
   },
+  "skchr_botany_1": {
+    "zh_CN": "谐波破坏"
+  },
+  "skchr_botany_2": {
+    "zh_CN": "静域回声"
+  },
   "skchr_bpipe_2": {
     "en_US": "High-Impact Assault",
     "ja_JP": "ハイパーインパクト",
@@ -1636,6 +1642,15 @@
     "en_US": "Nurturing Touch",
     "ja_JP": "業の救済",
     "zh_CN": "抚业之触"
+  },
+  "skchr_headb2_1": {
+    "zh_CN": "誓不低头"
+  },
+  "skchr_headb2_2": {
+    "zh_CN": "绝不罢休"
+  },
+  "skchr_headb2_3": {
+    "zh_CN": "无可抵挡"
   },
   "skchr_headbr_2": {
     "en_US": "Ursus's Roar",
@@ -3718,6 +3733,12 @@
     "en_US": "Prism Break",
     "ja_JP": "砕虹の勁弩",
     "zh_CN": "破虹"
+  },
+  "skchr_turdus_1": {
+    "zh_CN": "火钳秘咒"
+  },
+  "skchr_turdus_2": {
+    "zh_CN": "“捉迷藏！”"
   },
   "skchr_tuye_1": {
     "en_US": "Aqua Loop",

@@ -201,6 +201,7 @@ tip: 请善用浏览器的搜索功能
 | RETRO_COIN | 事相结晶 | Event Crystal | 事象の結晶 |
 | RandomSkinbox_1 | 时装回顾展 | - | - |
 | RandomSkinbox_2 | 时装回顾展·II | - | - |
+| RandomSkinbox_3 | 时装回顾展·III | - | - |
 | SINGLE_49_0_1_GACHA | 如死亦终寻访凭证 | Like Ending Like Death Headhunting Permit | イベントスカウト券 |
 | SINGLE_49_0_1_GACHA_10 | 如死亦终十连寻访凭证 | Like Ending Like Death Ten-roll Headhunting Permit | イベント10回スカウト券 |
 | SINGLE_55_0_1_GACHA | 未致蒙尘寻访凭证 | Never Gilded Headhunting Permit | 褪せざる栄光スカウト券 |
@@ -209,6 +210,8 @@ tip: 请善用浏览器的搜索功能
 | SINGLE_60_0_1_GACHA_10 | 指令重构十连寻访凭证 | Command: Reconstruction Ten-roll Headhunting Permit | イベント10回スカウト券 |
 | SINGLE_66_0_1_GACHA | 空白频段寻访凭证 | - | - |
 | SINGLE_66_0_1_GACHA_10 | 空白频段十连寻访凭证 | - | - |
+| SINGLE_72_0_1_GACHA | 辟路之人寻访凭证 | - | - |
+| SINGLE_72_0_1_GACHA_10 | 辟路之人十连寻访凭证 | - | - |
 | SOCIAL_PT | 信用 | Credit | FP |
 | STORY_REVIEW_COIN | 事相碎片 | Information Fragments | 事象の欠片 |
 | act10d5_token_biscuit | 彼得海姆热销饼干 | Best-selling Peterheim Cookies | ぺテルヘイムクッキー |
@@ -406,6 +409,7 @@ tip: 请善用浏览器的搜索功能
 | act4collection_point_token | 战略点数 | Strategy Point | 戦略ポイント |
 | act4d0_intelligencepoint | 有效情报值 | Valid Intelligence Unit | 情報データ |
 | act4d5_point_kfc | KFC积分 | - | KFCポイント |
+| act51side_token_poem | 破碎诗行 | - | - |
 | act5bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act5bossrush_relic_01 | 限压解除 | Unlimited Pressure | リミッター解除 |
 | act5bossrush_relic_02 | 链式激活 | Chain Activation | 連鎖式起動 |
@@ -509,6 +513,8 @@ tip: 请善用浏览器的搜索功能
 | class_p_char_010_chen | 陈的中坚信物 | Ch'en's Kernel Token | チェンの印（中堅） |
 | class_p_char_017_huang | 煌的中坚信物 | Blaze's Kernel Token | ブレイズの印（中堅） |
 | class_p_char_101_sora | 空的中坚信物 | Sora's Kernel Token | ソラの印（中堅） |
+| class_p_char_1024_hbisc2 | 濯尘芙蓉的中坚信物 | - | - |
+| class_p_char_1027_greyy2 | 承曦格雷伊的中坚信物 | - | - |
 | class_p_char_102_texas | 德克萨斯的中坚信物 | Texas's Kernel Token | テキサスの印（中堅） |
 | class_p_char_103_angel | 能天使的中坚信物 | Exusiai's Kernel Token | エクシアの印（中堅） |
 | class_p_char_106_franka | 芙兰卡的中坚信物 | Franka's Kernel Token | フランカの印（中堅） |
@@ -611,11 +617,13 @@ tip: 请善用浏览器的搜索功能
 | class_p_char_293_thorns | 棘刺的中坚信物 | Thorns's Kernel Token | ソーンズの印（中堅） |
 | class_p_char_294_ayer | 断崖的中坚信物 | Ayerscarpe's Kernel Token | エアースカーペの印（中堅） |
 | class_p_char_298_susuro | 苏苏洛的中坚信物 | Sussurro's Kernel Token | ススーロの印（中堅） |
+| class_p_char_300_phenxi | 菲亚梅塔的中坚信物 | - | - |
 | class_p_char_301_cutter | 刻刀的中坚信物 | Cutter's Kernel Token | カッターの印（中堅） |
 | class_p_char_302_glaze | 安比尔的中坚信物 | Ambriel's Kernel Token | アンブリエルの印（中堅） |
 | class_p_char_306_leizi | 惊蛰的中坚信物 | Leizi's Kernel Token | レイズの印（中堅） |
 | class_p_char_308_swire | 诗怀雅的中坚信物 | Swire's Kernel Token | スワイヤーの印（中堅） |
 | class_p_char_311_mudrok | 泥岩的中坚信物 | Mudrock's Kernel Token | マドロックの印（中堅） |
+| class_p_char_322_lmlee | 老鲤的中坚信物 | - | - |
 | class_p_char_326_glacus | 格劳克斯的中坚信物 | Glaucus's Kernel Token | グラウコスの印（中堅） |
 | class_p_char_328_cammou | 卡达的中坚信物 | Click's Kernel Token | カシャの印（中堅） |
 | class_p_char_332_archet | 空弦的中坚信物 | Archetto's Kernel Token | アルケットの印（中堅） |
@@ -636,14 +644,22 @@ tip: 请善用浏览器的搜索功能
 | class_p_char_366_acdrop | 酸糖的中坚信物 | Aciddrop's Kernel Token | アシッドドロップの印（中堅） |
 | class_p_char_367_swllow | 灰喉的中坚信物 | GreyThroat's Kernel Token | グレースロートの印（中堅） |
 | class_p_char_373_lionhd | 莱恩哈特的中坚信物 | Leonhardt's Kernel Token | レオンハルトの印（中堅） |
+| class_p_char_377_gdglow | 澄闪的中坚信物 | - | - |
 | class_p_char_378_asbest | 石棉的中坚信物 | Asbestos's Kernel Token | アスベストスの印（中堅） |
 | class_p_char_379_sesa | 慑砂的中坚信物 | Sesa's Kernel Token | シェーシャの印（中堅） |
 | class_p_char_381_bubble | 泡泡的中坚信物 | Bubble's Kernel Token | バブルの印（中堅） |
+| class_p_char_4009_irene | 艾丽妮的中坚信物 | - | - |
 | class_p_char_400_weedy | 温蒂的中坚信物 | Weedy's Kernel Token | ウィーディの印（中堅） |
+| class_p_char_4016_kazema | 风丸的中坚信物 | - | - |
 | class_p_char_401_elysm | 极境的中坚信物 | Elysium's Kernel Token | エリジウムの印（中堅） |
+| class_p_char_4039_horn | 号角的中坚信物 | - | - |
+| class_p_char_4040_rockr | 洛洛的中坚信物 | - | - |
 | class_p_char_4041_chnut | 褐果的中坚信物 | Chestnut's Kernel Token | チェストナットの印（中堅） |
+| class_p_char_4046_ebnhlz | 黑键的中坚信物 | - | - |
+| class_p_char_4048_doroth | 多萝西的中坚信物 | - | - |
 | class_p_char_4062_totter | 铅踝的中坚信物 | Totter's Kernel Token | トターの印（中堅） |
 | class_p_char_4107_vrdant | 维荻的中坚信物 | Verdant's Kernel Token | ヴァーダントの印（中堅） |
+| class_p_char_4130_luton | 露托的中坚信物 | - | - |
 | class_p_char_415_flint | 燧石的中坚信物 | Flint's Kernel Token | フリントの印（中堅） |
 | class_p_char_416_zumama | 森蚺的中坚信物 | Eunectes's Kernel Token | ユーネクテスの印（中堅） |
 | class_p_char_420_flamtl | 焰尾的中坚信物 | Flametail's Kernel Token | フレイムテイルの印（中堅） |
@@ -653,6 +669,7 @@ tip: 请善用浏览器的搜索功能
 | class_p_char_426_billro | 卡涅利安的中坚信物 | Carnelian's Kernel Token | カーネリアンの印（中堅） |
 | class_p_char_430_fartth | 远牙的中坚信物 | Fartooth's Kernel Token | ファートゥースの印（中堅） |
 | class_p_char_431_ashlok | 灰毫的中坚信物 | Ashlock's Kernel Token | アッシュロックの印（中堅） |
+| class_p_char_433_windft | 掠风的中坚信物 | - | - |
 | class_p_char_436_whispr | 絮雨的中坚信物 | Whisperain's Kernel Token | ウィスパーレインの印（中堅） |
 | class_p_char_437_mizuki | 水月的中坚信物 | Mizuki's Kernel Token | ミヅキの印（中堅） |
 | class_p_char_440_pinecn | 松果的中坚信物 | Pinecone's Kernel Token | パインコーンの印（中堅） |
@@ -662,12 +679,14 @@ tip: 请善用浏览器的搜索功能
 | class_p_char_472_pasngr | 异客的中坚信物 | Passenger's Kernel Token | パッセンジャーの印（中堅） |
 | class_p_char_473_mberry | 桑葚的中坚信物 | Mulberry's Kernel Token | マルベリーの印（中堅） |
 | class_p_char_475_akafyu | 赤冬的中坚信物 | Akafuyu's Kernel Token | アカフユの印（中堅） |
+| class_p_char_476_blkngt | 夜半的中坚信物 | - | - |
 | class_p_char_478_kirara | 绮良的中坚信物 | Kirara's Kernel Token | キララの印（中堅） |
 | class_p_char_479_sleach | 琴柳的中坚信物 | Saileach's Kernel Token | サイラッハの印（中堅） |
 | class_p_char_484_robrta | 罗比菈塔的中坚信物 | Roberta's Kernel Token | ロベルタの印（中堅） |
 | class_p_char_485_pallas | 帕拉斯的中坚信物 | Pallas's Kernel Token | パラスの印（中堅） |
 | class_p_char_489_serum | 蚀清的中坚信物 | Corroserum's Kernel Token | コロセラムの印（中堅） |
 | class_p_char_491_humus | 休谟斯的中坚信物 | Humus's Kernel Token | ヒューマスの印（中堅） |
+| class_p_char_492_quercu | 夏栎的中坚信物 | - | - |
 | classic_fes_pick_tier_5_3801 | 中坚甄选5星干员 | Kernel Locating 5* Operator | 中堅セレクト★5オペレーター |
 | classic_fes_pick_tier_5_4101 | 中坚甄选5星干员 | Kernel Locating 5* Operator | 中堅セレクト★5オペレーター |
 | classic_fes_pick_tier_5_4401 | 中坚甄选5星干员 | Kernel Locating 5* Operator | 中堅セレクト★5オペレーター |
@@ -812,6 +831,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_1046_sbell2 | 圣聆初雪的信物 | - | - |
 | p_char_1047_halo2 | 溯光星源的信物 | - | - |
 | p_char_1050_chen3 | 赤刃明霄陈的信物 | - | - |
+| p_char_1051_headb2 | 怒潮凛冬的信物 | - | - |
 | p_char_106_franka | 芙兰卡的信物 | Franka's Token | フランカの印 |
 | p_char_107_liskam | 雷蛇的信物 | Liskarm's Token | リスカムの印 |
 | p_char_108_silent | 赫默的信物 | Silence's Token | サイレンスの印 |
@@ -1125,6 +1145,8 @@ tip: 请善用浏览器的搜索功能
 | p_char_421_crow | 羽毛笔的信物 | La Pluma's Token | ラ・プルマの印 |
 | p_char_4221_ju | 矩的信物 | - | - |
 | p_char_4222_taraxa | 风絮的信物 | - | - |
+| p_char_4223_botany | 伯塔尼的信物 | - | - |
+| p_char_4224_turdus | 乌啾的信物 | - | - |
 | p_char_422_aurora | 极光的信物 | Aurora's Token | オーロラの印 |
 | p_char_423_blemsh | 瑕光的信物 | Blemishine's Token | ブレミシャインの印 |
 | p_char_426_billro | 卡涅利安的信物 | Carnelian's Token | カーネリアンの印 |
