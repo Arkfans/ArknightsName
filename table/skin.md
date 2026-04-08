@@ -285,6 +285,7 @@ tip: 请善用浏览器的搜索功能
 | char_347_jaksel@whirlwind#2 | 纵身一跃 | Take a Leap | ひとっ飛び |
 | char_348_ceylon@summer#13 | 悠然假日 HD49 | Holiday HD49 | ホリデーHD49 |
 | char_349_chiave@race#2 | 一人车队 | - | - |
+| char_350_surtr@ambienceSynesthesia#6 | 超然序曲 | - | - |
 | char_350_surtr@it#1 | 自由//失效 | Liberté//Échec | 自由//失效 |
 | char_350_surtr@summer#9 | 缤纷奇境 CW03 | Colorful Wonderland CW03 | 極彩の楽園CW03 |
 | char_355_ethan@epoque#7 | 渗透 | Infiltrator | 同化 |
@@ -409,6 +410,7 @@ tip: 请善用浏览器的搜索功能
 | char_4140_lasher@sightseer#3 | 憩羽 | - | - |
 | char_4141_marcil@dungeon#1 | 泰拉冒险 | Terra & Traveller | テラの冒険者 |
 | char_4145_ulpia@epoque#48 | 注目深渊 | - | - |
+| char_4146_nymph@ambienceSynesthesia#6 | 繁花梦幻谈 | - | - |
 | char_4146_nymph@epoque#42 | 甜美配方 | Sweetness to the Heart | 甘美な真心 |
 | char_4147_mitm@breaker#1 | 无影灯下 | - | - |
 | char_4148_philae@nian#12 | 花绸曲 | - | - |
