@@ -37863,6 +37863,12 @@
       "zh_CN": "阿尔萨兰家具收藏包二"
     }
   },
+  "uni_set_ScarMarket": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "巴别塔家具收藏包"
+    }
+  },
   "uni_set_TianshiMansion": {
     "type": "ITEM",
     "names": {
@@ -38411,6 +38417,12 @@
       "en_US": "Mint's Personal Letter",
       "ja_JP": "ミントの手紙",
       "zh_CN": "薄绿的私人信件"
+    }
+  },
+  "voucher_full_odda": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "奥达的私人信件"
     }
   },
   "voucher_full_pianst": {

@@ -6261,6 +6261,9 @@
     "ja_JP": "アルサラン家具パックvol.2",
     "zh_CN": "阿尔萨兰家具收藏包二"
   },
+  "uni_set_ScarMarket": {
+    "zh_CN": "巴别塔家具收藏包"
+  },
   "uni_set_TianshiMansion": {
     "zh_CN": "怀黍离家具收藏包"
   },
@@ -6594,6 +6597,9 @@
     "en_US": "Mint's Personal Letter",
     "ja_JP": "ミントの手紙",
     "zh_CN": "薄绿的私人信件"
+  },
+  "voucher_full_odda": {
+    "zh_CN": "奥达的私人信件"
   },
   "voucher_full_pianst": {
     "en_US": "Czerny's Personal Letter",
