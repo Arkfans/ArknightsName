@@ -745,6 +745,9 @@
   "char_2026_yu@nian#12": {
     "zh_CN": "愿清晓"
   },
+  "char_202_demkni@ambienceSynesthesia#7": {
+    "zh_CN": "黑白冷峻"
+  },
   "char_202_demkni@boc#1": {
     "en_US": "Stronghold",
     "ja_JP": "堅城",
@@ -879,6 +882,9 @@
     "en_US": "Secret Family Recipe",
     "ja_JP": "秘伝レシピ",
     "zh_CN": "家传秘方"
+  },
+  "char_230_savage@sale#17": {
+    "zh_CN": "又一年秋季"
   },
   "char_235_jesica@nian#2": {
     "en_US": "Clivia",
@@ -1976,6 +1982,9 @@
   "char_4186_tmoris@avemujica#1": {
     "zh_CN": "月下执行者"
   },
+  "char_4193_lemuen@ambienceSynesthesia#7": {
+    "zh_CN": "暮星安魂曲"
+  },
   "char_4195_radian@game#8": {
     "zh_CN": "乱数法则"
   },
@@ -2066,6 +2075,9 @@
     "en_US": "Saturated Within Rain",
     "ja_JP": "霊雨朦朧",
     "zh_CN": "洇灵雨"
+  },
+  "char_450_necras@ambienceSynesthesia#7": {
+    "zh_CN": "晶化信念"
   },
   "char_450_necras@summer#20": {
     "zh_CN": "夏卉 FA161"

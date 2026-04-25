@@ -913,6 +913,9 @@
   "act39sre": {
     "zh_CN": "出苍白海·复刻"
   },
+  "act3access": {
+    "zh_CN": "七周年专享活动"
+  },
   "act3blessing": {
     "zh_CN": "2026罗德岛新春签到"
   },
@@ -940,6 +943,9 @@
     "en_US": "Limited-time Cumulative Sign-In",
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
+  },
+  "act3enemyduel": {
+    "zh_CN": "争锋频道：绿藤城"
   },
   "act3fun": {
     "en_US": "April Fools' Day Event",
@@ -971,6 +977,9 @@
   },
   "act3unique": {
     "zh_CN": "鸣羽颂新签到活动"
+  },
+  "act3video": {
+    "zh_CN": "回望泰拉限时登录活动"
   },
   "act40side": {
     "en_US": "Such is the Joy of Our Reunion",

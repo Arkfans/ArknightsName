@@ -4426,6 +4426,9 @@
     "ja_JP": "信ずる者の行方",
     "zh_CN": "虔信者的前路"
   },
+  "act3enemyduel_01a": {
+    "zh_CN": "争锋对决！"
+  },
   "act40side_01": {
     "en_US": "Scallion Tofu",
     "ja_JP": "一清二白",
@@ -5563,6 +5566,9 @@
   },
   "camp_r_31": {
     "zh_CN": "炽灼车间"
+  },
+  "camp_r_32": {
+    "zh_CN": "朱墙食府"
   },
   "hard_05-01": {
     "en_US": "Operation Inferno-1",

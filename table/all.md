@@ -1328,6 +1328,7 @@ tip: 请善用浏览器的搜索功能
 | char_2024_chyue@nian#10 | 何处栖 | Alighting | 何処棲 |
 | char_2025_shu@nian#11 | 春日宴 | Spring Feast | 春日宴 |
 | char_2026_yu@nian#12 | 愿清晓 | - | - |
+| char_202_demkni@ambienceSynesthesia#7 | 黑白冷峻 | - | - |
 | char_202_demkni@boc#1 | 坚城 | Stronghold | 堅城 |
 | char_202_demkni@test#1 | 铁律 | The Law | 鉄の掟 |
 | char_204_platnm@summer#3 | 灿阳朝露 SD05 | Shimmering Dew SD05 | 炎陽煌く露SD05 |
@@ -1355,6 +1356,7 @@ tip: 请善用浏览器的搜索功能
 | char_226_hmau@nian#4 | 一介车夫 | Just A Driver | 小粋車夫 |
 | char_230_savage@boc#8 | 地底三百米 | 300 Metres Underground | 地底三百メートル |
 | char_230_savage@kitchen#3 | 家传秘方 | Secret Family Recipe | 秘伝レシピ |
+| char_230_savage@sale#17 | 又一年秋季 | - | - |
 | char_235_jesica@nian#2 | 君子兰 | Clivia | 君子蘭 |
 | char_235_jesica@sweep#1 | 铁块 | Iron Block | 鉄塊 |
 | char_235_jesica@wild#2 | 燃灰 | Ash | 灰燼 |
@@ -1589,6 +1591,7 @@ tip: 请善用浏览器的搜索功能
 | char_4184_dolris@avemujica#1 | 笼中歌者 | - | - |
 | char_4185_amoris@avemujica#1 | 情热魔术师 | - | - |
 | char_4186_tmoris@avemujica#1 | 月下执行者 | - | - |
+| char_4193_lemuen@ambienceSynesthesia#7 | 暮星安魂曲 | - | - |
 | char_4195_radian@game#8 | 乱数法则 | - | - |
 | char_420_flamtl@game#2 | 小健将 | Sport For All | サイバー闘技者 |
 | char_421_crow@summer#9 | 夏卉 FA210 | Summer Flowers FA210 | 夏の花弁FA210 |
@@ -1608,6 +1611,7 @@ tip: 请善用浏览器的搜索功能
 | char_445_wscoot@epoque#49 | 异乡的云 | - | - |
 | char_449_glider@epoque#17 | 荒野之后 | Wildness Behind | 荒野のあとに |
 | char_449_glider@nian#10 | 洇灵雨 | Saturated Within Rain | 霊雨朦朧 |
+| char_450_necras@ambienceSynesthesia#7 | 晶化信念 | - | - |
 | char_450_necras@summer#20 | 夏卉 FA161 | - | - |
 | char_451_robin@epoque#13 | 原野的馈赠 | Gift of Wild | 荒野の贈り物 |
 | char_452_bstalk@snow#4 | 未完成的礼物 | Gift Uncompleted | 未完成のギフト |
@@ -3481,12 +3485,14 @@ tip: 请善用浏览器的搜索功能
 | act39side | 出苍白海 | Exodus from the Pale Sea | 白き海の彼方へ |
 | act39sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act39sre | 出苍白海·复刻 | - | - |
+| act3access | 七周年专享活动 | - | - |
 | act3blessing | 2026罗德岛新春签到 | - | - |
 | act3bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act3collection | 潮起潮又起 | Another Tides | 沸き返る潮騒 |
 | act3d0 | 火蓝之心 | Heart of Surging Flame | 青く燃ゆる心 |
 | act3d5 | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
 | act3d7 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
+| act3enemyduel | 争锋频道：绿藤城 | - | - |
 | act3fun | 愚人节活动 | April Fools' Day Event | エイプリルフール |
 | act3mainss | 反常光谱 | - | - |
 | act3mine | 葫芦谷矿区登录活动 | Gourd Valley Mining Area Login Event | ゴードバレー採鉱区 |
@@ -3497,6 +3503,7 @@ Overload
 Collaboration
 Event | なないろのお茶会 |
 | act3unique | 鸣羽颂新签到活动 | - | - |
+| act3video | 回望泰拉限时登录活动 | - | - |
 | act40side | 相见欢 | Such is the Joy of Our Reunion | 相見歓 |
 | act40sign | 无终奇语签到活动 | Furnaceside Fables Login Event | 炉辺奇談スタンプ |
 | act40sre | 相见欢·复刻 | - | - |
@@ -4005,6 +4012,7 @@ Event | なないろのお茶会 |
 | act3bossrush_relic_04 | 过热运转 | Overcharge | オーバーヒート |
 | act3bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
 | act3collection_point_token | “战略家”点数 | 'Strategist' Point | 「戦略家」ポイント |
+| act3enemyduel_milestone_point | 争锋大礼花 | - | - |
 | act3mainss_token | 打火石 | - | - |
 | act40side_token_yumyum | “生香” | 'Yum-yum!' | 「生香」 |
 | act40side_token_yumyum_rep_1 | “生香” | - | - |
@@ -5071,6 +5079,7 @@ Event | なないろのお茶会 |
 | voucher_recruitR5_pick6101 | 资深干员调用凭证 | Senior Operator Transfer Permit | ★5招聘指名券 |
 | voucher_recruitR6_pick5301 | 高级干员调用凭证-新人 | Top Operator Transfer Permit - Starter | 初心者★6招聘指名券 |
 | voucher_recruitR6_pick6401 | 高级干员活动调用凭证 | - | - |
+| voucher_recruitR6_pick7201 | 特殊活动调用凭证 | - | - |
 | voucher_skill_specialLevelMax_4 | 专业干员技巧集 | Professional Operator Skill Training Pack | ★4スキル指南集 |
 | voucher_skill_specialLevelMax_5 | 资深干员技巧集 | Senior Operator Skill Training Pack | ★5スキル指南集 |
 | voucher_skill_specialLevelMax_6 | 高级资深干员技巧集 | Top Operator Skill Training Pack | ★6スキル指南集 |
@@ -7939,6 +7948,7 @@ Event | なないろのお茶会 |
 | act3bossrush_02 | 惊惧与血色 | Blood and Terror | 恐怖と血色 |
 | act3bossrush_03 | 不测之渊 | Deep in Danger | 不測の淵 |
 | act3bossrush_04 | 虔信者的前路 | Path of the Faithful | 信ずる者の行方 |
+| act3enemyduel_01a | 争锋对决！ | - | - |
 | act40side_01 | 一清二白 | Scallion Tofu | 一清二白 |
 | act40side_02 | 糖瓜粘 | Malt Sugar Candy | 糖瓜粘 |
 | act40side_03 | 油泼扯面 | Oil-Splashed Hand-Pulled Noodles | 油潑撦麺 |
@@ -8211,6 +8221,7 @@ Event | なないろのお茶会 |
 | camp_r_29 | 鳞骸盐漠  | - | - |
 | camp_r_30 | 暗流巢窟  | - | - |
 | camp_r_31 | 炽灼车间 | - | - |
+| camp_r_32 | 朱墙食府 | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |
 | hard_05-02 | 炼狱行动-2 | Operation Inferno-2 | 煉獄作戦-2 |
 | hard_05-03 | 炼狱行动-3 | Operation Inferno-3 | 煉獄作戦-3 |

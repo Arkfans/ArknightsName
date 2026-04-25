@@ -203,12 +203,14 @@ tip: 请善用浏览器的搜索功能
 | act39side | 出苍白海 | Exodus from the Pale Sea | 白き海の彼方へ |
 | act39sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act39sre | 出苍白海·复刻 | - | - |
+| act3access | 七周年专享活动 | - | - |
 | act3blessing | 2026罗德岛新春签到 | - | - |
 | act3bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act3collection | 潮起潮又起 | Another Tides | 沸き返る潮騒 |
 | act3d0 | 火蓝之心 | Heart of Surging Flame | 青く燃ゆる心 |
 | act3d5 | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
 | act3d7 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
+| act3enemyduel | 争锋频道：绿藤城 | - | - |
 | act3fun | 愚人节活动 | April Fools' Day Event | エイプリルフール |
 | act3mainss | 反常光谱 | - | - |
 | act3mine | 葫芦谷矿区登录活动 | Gourd Valley Mining Area Login Event | ゴードバレー採鉱区 |
@@ -219,6 +221,7 @@ Overload
 Collaboration
 Event | なないろのお茶会 |
 | act3unique | 鸣羽颂新签到活动 | - | - |
+| act3video | 回望泰拉限时登录活动 | - | - |
 | act40side | 相见欢 | Such is the Joy of Our Reunion | 相見歓 |
 | act40sign | 无终奇语签到活动 | Furnaceside Fables Login Event | 炉辺奇談スタンプ |
 | act40sre | 相见欢·复刻 | - | - |

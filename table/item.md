@@ -382,6 +382,7 @@ tip: 请善用浏览器的搜索功能
 | act3bossrush_relic_04 | 过热运转 | Overcharge | オーバーヒート |
 | act3bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
 | act3collection_point_token | “战略家”点数 | 'Strategist' Point | 「戦略家」ポイント |
+| act3enemyduel_milestone_point | 争锋大礼花 | - | - |
 | act3mainss_token | 打火石 | - | - |
 | act40side_token_yumyum | “生香” | 'Yum-yum!' | 「生香」 |
 | act40side_token_yumyum_rep_1 | “生香” | - | - |
@@ -1448,6 +1449,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_recruitR5_pick6101 | 资深干员调用凭证 | Senior Operator Transfer Permit | ★5招聘指名券 |
 | voucher_recruitR6_pick5301 | 高级干员调用凭证-新人 | Top Operator Transfer Permit - Starter | 初心者★6招聘指名券 |
 | voucher_recruitR6_pick6401 | 高级干员活动调用凭证 | - | - |
+| voucher_recruitR6_pick7201 | 特殊活动调用凭证 | - | - |
 | voucher_skill_specialLevelMax_4 | 专业干员技巧集 | Professional Operator Skill Training Pack | ★4スキル指南集 |
 | voucher_skill_specialLevelMax_5 | 资深干员技巧集 | Senior Operator Skill Training Pack | ★5スキル指南集 |
 | voucher_skill_specialLevelMax_6 | 高级资深干员技巧集 | Top Operator Skill Training Pack | ★6スキル指南集 |

@@ -10047,6 +10047,12 @@
       "zh_CN": "愿清晓"
     }
   },
+  "char_202_demkni@ambienceSynesthesia#7": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "黑白冷峻"
+    }
+  },
   "char_202_demkni@boc#1": {
     "type": "SKIN",
     "names": {
@@ -10261,6 +10267,12 @@
       "en_US": "Secret Family Recipe",
       "ja_JP": "秘伝レシピ",
       "zh_CN": "家传秘方"
+    }
+  },
+  "char_230_savage@sale#17": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "又一年秋季"
     }
   },
   "char_235_jesica@nian#2": {
@@ -12061,6 +12073,12 @@
       "zh_CN": "月下执行者"
     }
   },
+  "char_4193_lemuen@ambienceSynesthesia#7": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "暮星安魂曲"
+    }
+  },
   "char_4195_radian@game#8": {
     "type": "SKIN",
     "names": {
@@ -12207,6 +12225,12 @@
       "en_US": "Saturated Within Rain",
       "ja_JP": "霊雨朦朧",
       "zh_CN": "洇灵雨"
+    }
+  },
+  "char_450_necras@ambienceSynesthesia#7": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "晶化信念"
     }
   },
   "char_450_necras@summer#20": {
@@ -26571,6 +26595,12 @@
       "zh_CN": "出苍白海·复刻"
     }
   },
+  "act3access": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "七周年专享活动"
+    }
+  },
   "act3blessing": {
     "type": "ACTIVITY",
     "names": {
@@ -26615,6 +26645,12 @@
       "en_US": "Limited-time Cumulative Sign-In",
       "ja_JP": "期間限定ログインボーナス",
       "zh_CN": "限时累计签到"
+    }
+  },
+  "act3enemyduel": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "争锋频道：绿藤城"
     }
   },
   "act3fun": {
@@ -26667,6 +26703,12 @@
     "type": "ACTIVITY",
     "names": {
       "zh_CN": "鸣羽颂新签到活动"
+    }
+  },
+  "act3video": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "回望泰拉限时登录活动"
     }
   },
   "act40side": {
@@ -30552,6 +30594,12 @@
       "en_US": "'Strategist' Point",
       "ja_JP": "「戦略家」ポイント",
       "zh_CN": "“战略家”点数"
+    }
+  },
+  "act3enemyduel_milestone_point": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "争锋大礼花"
     }
   },
   "act3mainss_token": {
@@ -38751,6 +38799,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "高级干员活动调用凭证"
+    }
+  },
+  "voucher_recruitR6_pick7201": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "特殊活动调用凭证"
     }
   },
   "voucher_skill_specialLevelMax_4": {
@@ -60524,6 +60578,12 @@
       "zh_CN": "虔信者的前路"
     }
   },
+  "act3enemyduel_01a": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "争锋对决！"
+    }
+  },
   "act40side_01": {
     "type": "STAGE",
     "names": {
@@ -62476,6 +62536,12 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "炽灼车间"
+    }
+  },
+  "camp_r_32": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "朱墙食府"
     }
   },
   "hard_05-01": {

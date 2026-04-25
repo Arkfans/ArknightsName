@@ -1796,6 +1796,9 @@
     "ja_JP": "「戦略家」ポイント",
     "zh_CN": "“战略家”点数"
   },
+  "act3enemyduel_milestone_point": {
+    "zh_CN": "争锋大礼花"
+  },
   "act3mainss_token": {
     "zh_CN": "打火石"
   },
@@ -6802,6 +6805,9 @@
   },
   "voucher_recruitR6_pick6401": {
     "zh_CN": "高级干员活动调用凭证"
+  },
+  "voucher_recruitR6_pick7201": {
+    "zh_CN": "特殊活动调用凭证"
   },
   "voucher_skill_specialLevelMax_4": {
     "en_US": "Professional Operator Skill Training Pack",

@@ -930,6 +930,7 @@ tip: 请善用浏览器的搜索功能
 | act3bossrush_02 | 惊惧与血色 | Blood and Terror | 恐怖と血色 |
 | act3bossrush_03 | 不测之渊 | Deep in Danger | 不測の淵 |
 | act3bossrush_04 | 虔信者的前路 | Path of the Faithful | 信ずる者の行方 |
+| act3enemyduel_01a | 争锋对决！ | - | - |
 | act40side_01 | 一清二白 | Scallion Tofu | 一清二白 |
 | act40side_02 | 糖瓜粘 | Malt Sugar Candy | 糖瓜粘 |
 | act40side_03 | 油泼扯面 | Oil-Splashed Hand-Pulled Noodles | 油潑撦麺 |
@@ -1202,6 +1203,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_29 | 鳞骸盐漠  | - | - |
 | camp_r_30 | 暗流巢窟  | - | - |
 | camp_r_31 | 炽灼车间 | - | - |
+| camp_r_32 | 朱墙食府 | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |
 | hard_05-02 | 炼狱行动-2 | Operation Inferno-2 | 煉獄作戦-2 |
 | hard_05-03 | 炼狱行动-3 | Operation Inferno-3 | 煉獄作戦-3 |
