@@ -88,6 +88,7 @@ tip: 请善用浏览器的搜索功能
 | story_chnut_set_1_story_1 | 黑色石头 | Black Rocks | 「黒い石」 |
 | story_christ_set_1_story_1 | 很久很久以前 | A Long, Long Time Ago | 遠い遠い昔のこと |
 | story_chyue_set_1_story_1 | 昔我往矣 | Once Upon a Time, I Wandered Afar | 昔我往きて、君と携行す |
+| story_closur_set_1_story_1 | 分身有术 | - | - |
 | story_clour_set_1_story_1 | 安身之处 | Somewhere to Make Home | 安らぎの場所 |
 | story_coldst_set_1_story_1 | 一路顺风 | Have A Safe Trip | いってらっしゃい |
 | story_crosly_set_1_story_1 | 欲摘其冠 | - | - |
@@ -126,6 +127,7 @@ tip: 请善用浏览器的搜索功能
 | story_flower_set_2_story_1 | 树犹如此 | How Old Trees Grow | 木々でさえ |
 | story_fmout_set_1_story_1 | 占卜 | 'Divination' | 占い |
 | story_folivo_set_1_story_1 | 记录者 | Recorder | 記録者 |
+| story_folnic_set_1_story_1 | 明日之前 | - | - |
 | story_forcer_set_1_story_1 | 出行计划 | Departure Plans | 出発の準備 |
 | story_franka_set_1_story_1 | 往日的象征 | Symbols of the Past | 在りし日の象徴 |
 | story_franka_set_2_story_1 | 驻足 | To a Standstill | 足休め |
@@ -151,12 +153,14 @@ tip: 请善用浏览器的搜索功能
 | story_gvial2_set_1_story_1 | 以酒精之名！ | In the Name of Alcohol! | アルコールの名のもとに！ |
 | story_gyuki_set_1_story_1 | 鬼的逮捕令 | - | - |
 | story_haak_set_1_story_1 | 惊弓一夜 | A Night of Terror | 肝を冷やす夜 |
+| story_hadiya_set_1_story_1 | 去荒野的路 | - | - |
 | story_haini_set_1_story_1 | 怀有希望之人 | The Hopeful Ones | 希望を抱く人 |
 | story_halo2_set_1_story_1 | 谢拉格假期 | - | - |
 | story_halo_set_1_story_1 | 实验进行中 | Now Experimenting... | 実験進行中 |
 | story_hamoni_set_1_story_1 | 孤独的舞者 | Solitary Dancer | 孤独なダンサー |
 | story_harold_set_1_story_1 | 老兵的义肢 | The Veteran's Prosthetic Limb | 老兵の義足 |
 | story_hbisc2_set_1_story_1 | 无名之花 | Nameless Flower | 名もなき花 |
+| story_headb2_set_1_story_1 | 循环 | - | - |
 | story_headbr_set_1_story_1 | 强中自有强中手 | Strong Meets Stronger | 強さに果てはなし |
 | story_headbr_set_2_story_1 | 在冬夜里燃烧 | Burning on a Winter Night | 冬の夜に燃える |
 | story_heidi_set_1_story_1 | 第一封信 | The First Letter | 最初の手紙 |

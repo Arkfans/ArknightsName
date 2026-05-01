@@ -1521,10 +1521,73 @@
   "enemy_10200_ubglmf": {
     "zh_CN": "格罗莫夫"
   },
+  "enemy_10201_muinf": {
+    "zh_CN": "实验样本F-009"
+  },
+  "enemy_10201_muinf_2": {
+    "zh_CN": "失控的F-009"
+  },
+  "enemy_10202_mubow": {
+    "zh_CN": "实验样本R-044"
+  },
+  "enemy_10202_mubow_2": {
+    "zh_CN": "失控的R-044"
+  },
+  "enemy_10203_mumag": {
+    "zh_CN": "异种菌"
+  },
+  "enemy_10203_mumag_2": {
+    "zh_CN": "血色异种菌"
+  },
+  "enemy_10204_mudia": {
+    "zh_CN": "破石草"
+  },
+  "enemy_10204_mudia_2": {
+    "zh_CN": "血色破石草"
+  },
+  "enemy_10205_mufly": {
+    "zh_CN": "实验样本A-000"
+  },
+  "enemy_10205_mufly_2": {
+    "zh_CN": "失控的A-000"
+  },
+  "enemy_10206_muveg": {
+    "zh_CN": "三生花"
+  },
+  "enemy_10206_muveg_2": {
+    "zh_CN": "血色三生花"
+  },
+  "enemy_10207_mubrut": {
+    "zh_CN": "“希希加”"
+  },
+  "enemy_10207_mubrut_2": {
+    "zh_CN": "愤怒的“希希加”"
+  },
+  "enemy_10208_mucow": {
+    "zh_CN": "“里霍”"
+  },
+  "enemy_10208_mucow_2": {
+    "zh_CN": "游荡的“里霍”"
+  },
+  "enemy_10209_mubag": {
+    "zh_CN": "“鲁塞尔卡”"
+  },
+  "enemy_10209_mubag_2": {
+    "zh_CN": "起舞的“鲁塞尔卡”"
+  },
   "enemy_1020_obsv": {
     "en_US": "Technical Scout",
     "ja_JP": "技術偵察兵",
     "zh_CN": "技术侦察兵"
+  },
+  "enemy_10210_muwiz": {
+    "zh_CN": "乌萨斯战争术师"
+  },
+  "enemy_10210_muwiz_2": {
+    "zh_CN": "乌萨斯战争术师"
+  },
+  "enemy_10211_murad": {
+    "zh_CN": "泄漏源"
   },
   "enemy_1021_bslime": {
     "en_US": "Infused Originium Slug",
@@ -5889,6 +5952,18 @@
   },
   "enemy_1588_ubbphw": {
     "zh_CN": "“私人安全顾问”"
+  },
+  "enemy_1590_muama": {
+    "zh_CN": "AMa-10"
+  },
+  "enemy_1591_mutwin": {
+    "zh_CN": "AMa-10异构体"
+  },
+  "enemy_1591_mutwin_2": {
+    "zh_CN": "AMa-10异构体"
+  },
+  "enemy_1593_musnake": {
+    "zh_CN": "“终始”"
   },
   "enemy_18001_lhship": {
     "zh_CN": "运输汽艇"

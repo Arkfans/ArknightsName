@@ -239,6 +239,7 @@ tip: 请善用浏览器的搜索功能
 | act49side_zone2 | 望春遗事 | - | - |
 | act49side_zone3 | 待笔新篇 | - | - |
 | act4bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
+| act4mainss_zone1 | 相变临界 | - | - |
 | act51side_zone1 | 告别天真年代 | - | - |
 | act51side_zone2 | 踏入新生黎明 | - | - |
 | act5bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
@@ -279,6 +280,7 @@ tip: 请善用浏览器的搜索功能
 | main_9 | 风暴瞭望 | Stormwatch | 暴風眺望 |
 | permanent_main_1_zone1 | 离解复合 | Dissociative Recombination | 解離結合 |
 | permanent_main_2_zone1 | 反常光谱 | - | - |
+| permanent_main_3_zone1 | 相变临界 | - | - |
 | permanent_sidestory_10_zone1 | 大骑士领 | Kawalerielki | 大騎士領 |
 | permanent_sidestory_10_zone2 | 零号地块 | Area 0 | 零号地 |
 | permanent_sidestory_10_zone3 | 城市霓虹 | City Neon | 都市のネオン |

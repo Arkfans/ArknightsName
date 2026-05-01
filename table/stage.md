@@ -122,7 +122,7 @@ tip: 请善用浏览器的搜索功能
 | act13d5_02 | 呼啸守卫 | Roar Guards Co. | ロアーガード |
 | act13d5_03 | 玫瑰报业 | Rose Paper Union | ローズ新聞 |
 | act13d5_04 | 辉煌盾工业 | Glorious Shield Industries | グローリーシールド |
-| act13d5_05 | 斯沃玛视频 | Słoma Food Co. | スウォマー食品 |
+| act13d5_05 | 斯沃玛食品 | Słoma Food Co. | スウォマー食品 |
 | act13d5_06 | 蓝耳酒窖 | Blue Ear Wine Cellar | ブルーイヤー酒造 |
 | act13d5_07 | 梅什科集团 | Mieszko Group | ミェシュコグループ |
 | act13d5_08 | 商业联合 | General Chamber of Commerce | 商業連合会 |
@@ -931,6 +931,7 @@ tip: 请善用浏览器的搜索功能
 | act3bossrush_03 | 不测之渊 | Deep in Danger | 不測の淵 |
 | act3bossrush_04 | 虔信者的前路 | Path of the Faithful | 信ずる者の行方 |
 | act3enemyduel_01a | 争锋对决！ | - | - |
+| act3enemyduel_01b | 争锋对决！ | - | - |
 | act40side_01 | 一清二白 | Scallion Tofu | 一清二白 |
 | act40side_02 | 糖瓜粘 | Malt Sugar Candy | 糖瓜粘 |
 | act40side_03 | 油泼扯面 | Oil-Splashed Hand-Pulled Noodles | 油潑撦麺 |
@@ -1666,6 +1667,37 @@ tip: 请善用浏览器的搜索功能
 | main_16-16 | 力竭声嘶 | - | - |
 | main_16-16#s | 力竭声嘶 | - | - |
 | main_16-17 | 红日留驻 | - | - |
+| main_17-01 | 救赎迟来 | - | - |
+| main_17-01#s | 救赎迟来 | - | - |
+| main_17-02 | 良心之刺 | - | - |
+| main_17-02#s | 良心之刺 | - | - |
+| main_17-03 | 沉默众生 | - | - |
+| main_17-03#s | 沉默众生 | - | - |
+| main_17-04 | 不过空壳 | - | - |
+| main_17-04#s | 不过空壳 | - | - |
+| main_17-05 | 风波暗涌 | - | - |
+| main_17-05#s | 风波暗涌 | - | - |
+| main_17-06 | 理性失衡 | - | - |
+| main_17-06#s | 理性失衡 | - | - |
+| main_17-07 | 历史洪流 | - | - |
+| main_17-07#s | 历史洪流 | - | - |
+| main_17-08 | 永不祈祷 | - | - |
+| main_17-08#s | 永不祈祷 | - | - |
+| main_17-09 | 爱的尺度 | - | - |
+| main_17-09#s | 爱的尺度 | - | - |
+| main_17-10 | 孤寂生地 | - | - |
+| main_17-10#s | 孤寂生地 | - | - |
+| main_17-11 | 初次握手 | - | - |
+| main_17-11#s | 初次握手 | - | - |
+| main_17-12 | 并非独行 | - | - |
+| main_17-12#s | 并非独行 | - | - |
+| main_17-13 | 难如雪覆 | - | - |
+| main_17-14 | 人的价值 | - | - |
+| main_17-14#s | 人的价值 | - | - |
+| main_17-15 | 唯有向前 | - | - |
+| main_17-16 | 不曾怀疑 | - | - |
+| main_17-16#s | 不曾怀疑 | - | - |
+| main_17-17 | 灵魂悄然 | - | - |
 | pro_a_1 | 防守 | Defense | 守備 |
 | pro_a_2 | 据守 | Guard | 防衛 |
 | pro_b_1 | 干涉 | Interference | 干渉 |
@@ -1684,6 +1716,7 @@ tip: 请善用浏览器的搜索功能
 | spst_16-02 | 往事 | - | - |
 | spst_16-03 | 归乡 | - | - |
 | spst_16-04 | 无前 | - | - |
+| spst_17-01 | 时间之后 | - | - |
 | st_05-01 | 棋胜后着 | Decisive Counterattack | 後手の先手 |
 | st_06-01 | 别说过去的事 | Leave it Behind | 過去を語るな |
 | st_06-02 | 没有火,没有光 | No Light Without Fire | 火も、光もなく |
@@ -1723,6 +1756,10 @@ tip: 请善用浏览器的搜索功能
 | st_15-03 | 大地与一隅的归宿 | Where the Land and a Fragment Belong | 大地と片隅の居場所 |
 | st_16-01 | 庸人的救济 | - | - |
 | st_16-02 | 狂人的誓言 | - | - |
+| st_17-01 | 大地的呼吸 | - | - |
+| st_17-02 | 面向旷野呼号 | - | - |
+| st_17-03 | 罪与罚的先声 | - | - |
+| st_17-04 | 在暗夜中燃烧 | - | - |
 | sub_02-01 | 迟缓-1 | Slow-1 | 緩慢-1 |
 | sub_02-02 | 迟缓-2 | Slow-2 | 緩慢-2 |
 | sub_02-03 | 封锁-1 | Blockade-1 | 封鎖-1 |
@@ -1798,6 +1835,7 @@ tip: 请善用浏览器的搜索功能
 | tr_25 | 特殊环境适应作战 | Special Environment Adaptive Ops | 特殊環境適応作戦 |
 | tr_26 | 内在威胁 | The Threat Within | 内在する脅威 |
 | tr_27 | 迷踪 | - | - |
+| tr_28 | 无权责问 | - | - |
 | tr_s_1 | 综合作战训练1 | Comprehensive Combat Exercise 1 | 総合作戦訓練1 |
 | tr_s_2 | 综合作战训练2 | Comprehensive Combat Exercise 2 | 総合作戦訓練2 |
 | wk_armor_1 | 废墟清剿 | Ruins Siege | 廃墟殲滅 |

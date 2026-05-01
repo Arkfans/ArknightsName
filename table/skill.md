@@ -197,6 +197,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_chyue_1 | 冲盈 | Abundant | 満盈 |
 | skchr_chyue_2 | 拂尘 | Whisk | 払塵 |
 | skchr_chyue_3 | 我无 | Anatta | 我無 |
+| skchr_closur_1 | 递归策略 | - | - |
+| skchr_closur_2 | 模型扩展 | - | - |
+| skchr_closur_3 | Q.E.D. | - | - |
 | skchr_clour_2 | 双弦开弓 | Double Shot | デュアルアロー |
 | skchr_coldst_2 | 酣醉之夜 | Party Night | 夜に酔いしれて |
 | skchr_cqbw_1 | 红桃K | King of Hearts | ハートのK |
@@ -416,6 +419,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_kafka_2 | 诡异剪刀 | Shears of Surrealism | カオスシザーズ |
 | skchr_kaitou_1 | 镭射穿凿 | Laser Cutter | レーザードリリング |
 | skchr_kaitou_2 | 热处理变色 | Heat Treatment Discoloration | ヒートエンハンスメント |
+| skchr_kalts2_1 | 应急肃正防线 | - | - |
+| skchr_kalts2_2 | 保护性拒止 | - | - |
+| skchr_kalts2_3 | 破梏重生 | - | - |
 | skchr_kalts_1 | 指令：结构加固 | Command: Structural Fortification | 指令：構造強化 |
 | skchr_kalts_2 | 指令：战术协同 | Command: Tactical Coordination | 指令：戦術連携 |
 | skchr_kalts_3 | 指令：熔毁 | Command: Meltdown | 指令：メルトダウン |
@@ -750,6 +756,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_takila_2 | 剑走偏锋 | Esoteric Bladework | 極刃奇襲 |
 | skchr_talr_1 | 量衣尺 | Tailor's Measure | 採寸用メジャー |
 | skchr_talr_2 | 缝线缠身 | Lockstitch | 絡みつく縫い糸 |
+| skchr_tanya_1 | 涤净 | - | - |
+| skchr_tanya_2 | 溃决 | - | - |
 | skchr_taraxa_1 | 何处着 | - | - |
 | skchr_taraxa_2 | 扶风起 | - | - |
 | skchr_tecno_1 | 关节锁定 | Lockin' | 関節部補強 |
@@ -799,6 +807,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_utage_2 | 落地斩·破门 | Descending Strike - Earth Splitter | 落地斬・突破 |
 | skchr_varkis_1 | 奔流 | - | - |
 | skchr_varkis_2 | 同胞的意志 | - | - |
+| skchr_veen_1 | “自呼号生发” | - | - |
+| skchr_veen_2 | “以鲜血洗去” | - | - |
+| skchr_veen_3 | “用赤铁铭记” | - | - |
 | skchr_vendla_2 | 荆藤庇荫 | Umbrage of Thorns | 茨の庇護 |
 | skchr_vigil_1 | 领袖的呼唤 | Packleader's Call | 統率者の一声 |
 | skchr_vigil_2 | 领袖的馈赠 | Packleader's Gift | 統率者の恩賞 |
@@ -1217,6 +1228,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_cdshieldb | 镀膜 | Coating | コーティング |
 | sktok_cjbtow_1 | 灶火灭 | Extinguish Stove | 火を落とす |
 | sktok_cjgtow_1 | 灶火起 | Light Stove | 火を入れる |
+| sktok_closur_ourbase1 | 支援范围 | - | - |
+| sktok_closur_ourbase2 | 支援范围 | - | - |
+| sktok_closur_ourbase3 | 支援范围 | - | - |
 | sktok_cnnon | 吃盐坨子吧！ | Eat Salt, Sucker! | 塩でも食ってろ！ |
 | sktok_cnvfwks | “狂欢时刻！” | 'Carnevale Time!' | 「狂宴の刻！」 |
 | sktok_condtr | 广域调谐 | Area Tuning | ﻿広域調律 |
@@ -1376,6 +1390,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_mound | 风沙掩体 | Sandstorm Protection | 防風壁 |
 | sktok_mptxs_1 | 挥砍 | Brandish | 斬撃 |
 | sktok_mpweak_1 | 弱化 | Weakening | 弱体化 |
+| sktok_mtship_1 | 应急肃正防线 | - | - |
+| sktok_mtship_2 | 保护性拒止 | - | - |
+| sktok_mtship_3 | 破梏重生 | - | - |
 | sktok_muctrl | 促融共竞控制 | Icebreaker Games Control | 協心競技制御装置 |
 | sktok_mufrbk | 临时休息舱 | Recuperation Pod | 仮設休憩室 |
 | sktok_mufrbs | 便携健身架 | Portable Exercise Rack | 携帯式健康器 |
@@ -1450,6 +1467,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_rfrost_2 | 击倒猎物 | Incapacitated Prey | リーサルパシュート |
 | sktok_rgcssm | 古雕伥 | - | - |
 | sktok_rgdysm_1 | 雕伥 | - | - |
+| sktok_rift | 泄漏 | - | - |
 | sktok_rmtarmn_1 | 研究成功 | Research Success | 研究成功 |
 | sktok_rmtarms_1 | 研究成功 | Research Success | 研究成功 |
 | sktok_rnfcar | 加固 | Reinforce | 補強 |

@@ -1097,6 +1097,9 @@
     "ja_JP": "強敵襲来",
     "zh_CN": "强敌当前"
   },
+  "act4mainss_zone1": {
+    "zh_CN": "相变临界"
+  },
   "act51side_zone1": {
     "zh_CN": "告别天真年代"
   },
@@ -1288,6 +1291,9 @@
   },
   "permanent_main_2_zone1": {
     "zh_CN": "反常光谱"
+  },
+  "permanent_main_3_zone1": {
+    "zh_CN": "相变临界"
   },
   "permanent_sidestory_10_zone1": {
     "en_US": "Kawalerielki",

@@ -51,6 +51,7 @@ tip: 请善用浏览器的搜索功能
 | act15d5 | 此地之外 | Beyond Here | 彼方を望む |
 | act15login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
 | act15mini | 眠于树影之中 | The Black Forest Wills A Dream | 樹影にて眠る |
+| act15pray | 幸运墙登录活动 | - | - |
 | act15side | 将进酒 | Invitation to Wine | 将進酒 |
 | act15sre | 将进酒·复刻 | Invitation to Wine - Rerun | 将進酒・復刻 |
 | act16d5 | 画中人 | Who Is Real | 画中人 |
@@ -252,6 +253,7 @@ Event | なないろのお茶会 |
 | act4d2 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act4d5 | 限时积分任务 | - | 期間限定Pt任務 |
 | act4fun | 愚人节活动 | April Fools' Day Event | エイプリルフール |
+| act4mainss | 相变临界 | - | - |
 | act4mine | 潘尼谷矿区登录活动 | Pony Valley Mining Area Login Event | ポニーバレー採鉱区 |
 | act4pray | 际崖城惊奇墙登录活动 | Zeruertza Amazing Wall Login Event | 宝くじ
 イベント |
@@ -265,6 +267,7 @@ Event | なないろのお茶会 |
 | act55sign | 感谢庆典累计签到 | - | - |
 | act56sign | 感谢庆典累计签到 | - | - |
 | act57sign | 跨年纪念签到活动 | - | - |
+| act59sign | 七周年庆典签到活动 | - | - |
 | act5bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act5collection | 御鼓吉音限时任务 | - | - |
 | act5d0 | 喧闹法则 | Code of Brawl | 喧騒の掟 |

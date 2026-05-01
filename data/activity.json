@@ -211,6 +211,9 @@
     "ja_JP": "樹影にて眠る",
     "zh_CN": "眠于树影之中"
   },
+  "act15pray": {
+    "zh_CN": "幸运墙登录活动"
+  },
   "act15side": {
     "en_US": "Invitation to Wine",
     "ja_JP": "将進酒",
@@ -1109,6 +1112,9 @@
     "ja_JP": "エイプリルフール",
     "zh_CN": "愚人节活动"
   },
+  "act4mainss": {
+    "zh_CN": "相变临界"
+  },
   "act4mine": {
     "en_US": "Pony Valley Mining Area Login Event",
     "ja_JP": "ポニーバレー採鉱区",
@@ -1148,6 +1154,9 @@
   },
   "act57sign": {
     "zh_CN": "跨年纪念签到活动"
+  },
+  "act59sign": {
+    "zh_CN": "七周年庆典签到活动"
   },
   "act5bossrush": {
     "en_US": "Trials for Navigator",

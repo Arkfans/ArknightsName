@@ -933,6 +933,15 @@
     "ja_JP": "我無",
     "zh_CN": "我无"
   },
+  "skchr_closur_1": {
+    "zh_CN": "递归策略"
+  },
+  "skchr_closur_2": {
+    "zh_CN": "模型扩展"
+  },
+  "skchr_closur_3": {
+    "zh_CN": "Q.E.D."
+  },
   "skchr_clour_2": {
     "en_US": "Double Shot",
     "ja_JP": "デュアルアロー",
@@ -1981,6 +1990,15 @@
     "en_US": "Heat Treatment Discoloration",
     "ja_JP": "ヒートエンハンスメント",
     "zh_CN": "热处理变色"
+  },
+  "skchr_kalts2_1": {
+    "zh_CN": "应急肃正防线"
+  },
+  "skchr_kalts2_2": {
+    "zh_CN": "保护性拒止"
+  },
+  "skchr_kalts2_3": {
+    "zh_CN": "破梏重生"
   },
   "skchr_kalts_1": {
     "en_US": "Command: Structural Fortification",
@@ -3578,6 +3596,12 @@
     "ja_JP": "絡みつく縫い糸",
     "zh_CN": "缝线缠身"
   },
+  "skchr_tanya_1": {
+    "zh_CN": "涤净"
+  },
+  "skchr_tanya_2": {
+    "zh_CN": "溃决"
+  },
   "skchr_taraxa_1": {
     "zh_CN": "何处着"
   },
@@ -3800,6 +3824,15 @@
   },
   "skchr_varkis_2": {
     "zh_CN": "同胞的意志"
+  },
+  "skchr_veen_1": {
+    "zh_CN": "“自呼号生发”"
+  },
+  "skchr_veen_2": {
+    "zh_CN": "“以鲜血洗去”"
+  },
+  "skchr_veen_3": {
+    "zh_CN": "“用赤铁铭记”"
   },
   "skchr_vendla_2": {
     "en_US": "Umbrage of Thorns",
@@ -5639,6 +5672,15 @@
     "ja_JP": "火を入れる",
     "zh_CN": "灶火起"
   },
+  "sktok_closur_ourbase1": {
+    "zh_CN": "支援范围"
+  },
+  "sktok_closur_ourbase2": {
+    "zh_CN": "支援范围"
+  },
+  "sktok_closur_ourbase3": {
+    "zh_CN": "支援范围"
+  },
   "sktok_cnnon": {
     "en_US": "Eat Salt, Sucker!",
     "ja_JP": "塩でも食ってろ！",
@@ -6354,6 +6396,15 @@
     "ja_JP": "弱体化",
     "zh_CN": "弱化"
   },
+  "sktok_mtship_1": {
+    "zh_CN": "应急肃正防线"
+  },
+  "sktok_mtship_2": {
+    "zh_CN": "保护性拒止"
+  },
+  "sktok_mtship_3": {
+    "zh_CN": "破梏重生"
+  },
   "sktok_muctrl": {
     "en_US": "Icebreaker Games Control",
     "ja_JP": "協心競技制御装置",
@@ -6687,6 +6738,9 @@
   },
   "sktok_rgdysm_1": {
     "zh_CN": "雕伥"
+  },
+  "sktok_rift": {
+    "zh_CN": "泄漏"
   },
   "sktok_rmtarmn_1": {
     "en_US": "Research Success",

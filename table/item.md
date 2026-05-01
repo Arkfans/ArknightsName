@@ -31,6 +31,12 @@ tip: 请善用浏览器的搜索功能
 | 2026recruitment10_1 | α类新年寻访凭证 | - | - |
 | 2026recruitment10_2 | β类新年寻访凭证 | - | - |
 | 2026recruitment10_3 | γ类新年寻访凭证 | - | - |
+| 2026recruitment10_new_1 | α类新人寻访凭证 | - | - |
+| 2026recruitment10_new_2 | β类新人寻访凭证 | - | - |
+| 2026recruitment10_new_3 | γ类新人寻访凭证 | - | - |
+| 2026recruitment10_register_1 | α类迎新寻访凭证 | - | - |
+| 2026recruitment10_register_2 | β类迎新寻访凭证 | - | - |
+| 2026recruitment10_register_3 | γ类迎新寻访凭证 | - | - |
 | 30011 | 源岩 | Orirock | 源岩鉱 |
 | 30012 | 固源岩 | Orirock Cube | 初級源岩 |
 | 30013 | 固源岩组 | Orirock Cluster | 中級源岩 |
@@ -89,6 +95,10 @@ tip: 请善用浏览器的搜索功能
 | 31084 | 环烃预制体 | Cyclicene Prefab | プレハブ式炭化水素 |
 | 31093 | 类凝结核 | Coagulative Nodule | 凝固核 |
 | 31094 | 手性屈光体 | Chiral Refractor | カイラル屈光体 |
+| 31103 | 液化高能气体 | - | - |
+| 31104 | 液化醚吸聚体 | - | - |
+| 31113 | 电极单元 | - | - |
+| 31114 | 聚能动力单元 | - | - |
 | 3112 | 碳 | Carbon Stick | 初級炭素材 |
 | 3113 | 碳素 | Carbon Brick | 中級炭素材 |
 | 3114 | 碳素组 | Carbon Pack | 上級炭素材 |
@@ -165,6 +175,7 @@ tip: 请善用浏览器的搜索功能
 | LIMITED_TKT_GACHA_10_6401 | 浪客行歌寻访凭证 | - | - |
 | LIMITED_TKT_GACHA_10_6701 | 融雪流痕寻访凭证 | - | - |
 | LIMITED_TKT_GACHA_10_7001 | 载月明归寻访凭证 | - | - |
+| LIMITED_TKT_GACHA_10_7301 | 封缄诺言寻访凭证 | - | - |
 | LIMITED_TKT_GACHA_10_903 | 苏醒纪念寻访凭证 | Awakening Commemoration Permit | 1周年記念10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_1701 | 特勤专家寻访凭证 | Expert Headhunting Permit | 精鋭小隊10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_3601 | 指引明路寻访凭证 | Scouting the Light Headhunting Permit | ハンター凱旋10回スカウト券 |
@@ -195,6 +206,7 @@ tip: 请善用浏览器的搜索功能
 | LMTGS_COIN_6401 | 寻访数据契约 | - | - |
 | LMTGS_COIN_6701 | 寻访数据契约 | - | - |
 | LMTGS_COIN_7001 | 寻访数据契约 | - | - |
+| LMTGS_COIN_7301 | 寻访数据契约 | - | - |
 | LMTGS_COIN_903 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | Logistics_Special_Permit | 后勤特别许可证 | Logistics Special Permit | 特別支援申請許可証 |
 | REP_COIN | 情报凭证 | Intelligence Certificate | 情報資格証 |
@@ -410,6 +422,7 @@ tip: 请善用浏览器的搜索功能
 | act4collection_point_token | 战略点数 | Strategy Point | 戦略ポイント |
 | act4d0_intelligencepoint | 有效情报值 | Valid Intelligence Unit | 情報データ |
 | act4d5_point_kfc | KFC积分 | - | KFCポイント |
+| act4mainss_token | “厂券” | - | - |
 | act51side_token_poem | 破碎诗行 | - | - |
 | act5bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act5bossrush_relic_01 | 限压解除 | Unlimited Pressure | リミッター解除 |
@@ -761,6 +774,7 @@ tip: 请善用浏览器的搜索功能
 | itempack_leaf_def2 | 特辑/流媒体 | - | - |
 | itempack_main_1 | 罗德岛补给箱 | Rhodes Island Supply Crate | ロドス補給箱 |
 | itempack_main_2 | 罗德岛补给箱 | - | - |
+| itempack_main_3 | 罗德岛补给箱 | - | - |
 | itempack_mod_10 | 狙击芯片组印刻仪 | Sniper Chip Pack Etcher | 中級狙撃SoCプリンター |
 | itempack_mod_11 | 术师芯片组印刻仪 | Caster Chip Pack Etcher | 中級術師SoCプリンター |
 | itempack_mod_12 | 医疗芯片组印刻仪 | Medic Chip Pack Etcher | 中級医療SoCプリンター |
@@ -782,6 +796,7 @@ tip: 请善用浏览器的搜索功能
 | main16_spitem_2 | 无主的矿灯 | - | - |
 | main16_spitem_3 | 涂改的旗帜 | - | - |
 | main16_spitem_4 | 未爆的哑弹 | - | - |
+| main17_spitem_1 | “AMa-10” | - | - |
 | mcardVoucher | 月卡兑换凭证 | Monthly Card Exchange Permit | 月パス交換資格証 |
 | medal_activity_15side_01 | “诗酒乘兴” | 'The Joys of Poetry and Wine' | 「酔吟の興」 |
 | medal_activity_15side_03 | “寒芒新淬” | 'Refreshed in Cold Light' | 「寒芒新たに淬ぐ」 |
@@ -833,6 +848,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_1047_halo2 | 溯光星源的信物 | - | - |
 | p_char_1050_chen3 | 赤刃明霄陈的信物 | - | - |
 | p_char_1051_headb2 | 怒潮凛冬的信物 | - | - |
+| p_char_1052_kalts2 | 凯尔希·思衡托的信物 | - | - |
 | p_char_106_franka | 芙兰卡的信物 | Franka's Token | フランカの印 |
 | p_char_107_liskam | 雷蛇的信物 | Liskarm's Token | リスカムの印 |
 | p_char_108_silent | 赫默的信物 | Silence's Token | サイレンスの印 |
@@ -1148,6 +1164,10 @@ tip: 请善用浏览器的搜索功能
 | p_char_4222_taraxa | 风絮的信物 | - | - |
 | p_char_4223_botany | 伯塔尼的信物 | - | - |
 | p_char_4224_turdus | 乌啾的信物 | - | - |
+| p_char_4225_tanya | 裂响的信物 | - | - |
+| p_char_4226_veen | 维伊的信物 | - | - |
+| p_char_4227_gallus | GALLUS²的信物 | - | - |
+| p_char_4228_closur | 可露希尔的信物 | - | - |
 | p_char_422_aurora | 极光的信物 | Aurora's Token | オーロラの印 |
 | p_char_423_blemsh | 瑕光的信物 | Blemishine's Token | ブレミシャインの印 |
 | p_char_426_billro | 卡涅利安的信物 | Carnelian's Token | カーネリアンの印 |
@@ -1218,6 +1238,7 @@ tip: 请善用浏览器的搜索功能
 | randomMaterial_10 | 罗德岛物资补给VII | Rhodes Island Supplies VII | 補給物資・ロドスVII |
 | randomMaterial_11 | 罗德岛物资补给VIII | Rhodes Island Supplies VIII | 補給物資・ロドスVIII |
 | randomMaterial_12 | 罗德岛物资补给IX | - | - |
+| randomMaterial_13 | 罗德岛物资补给X | - | - |
 | randomMaterial_2 | 岁过华灯 | New Year's Lantern | 年関ランタン |
 | randomMaterial_3 | 32h战略配给 | 32-hour Strategic Ration | 32h戦略補給 |
 | randomMaterial_4 | 感谢庆典物资补给 | Thank-You Celebration Supplies | 補給物資・「感謝祭」 |
@@ -1235,6 +1256,7 @@ tip: 请善用浏览器的搜索功能
 | randomMaterial_leith2 | 查访补给 | Investigation Resupply | 調査補給 |
 | randomMaterial_message1 | 一号项目决定版 | - | - |
 | randomMaterial_message2 | 形制朴素的棋具 | - | - |
+| randomMaterial_message3 | 生命标本 | - | - |
 | randomMaterial_rhine2 | 技术调查补给 | Technological Investigation Supply | 技術調査補給 |
 | randomMaterial_siesta2 | 峯联贸易物流补给 | Mountaincomm Trade Supplies | フェンレン貿易物流補給 |
 | renamingCard | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
@@ -1248,6 +1270,7 @@ tip: 请善用浏览器的搜索功能
 | renamingCard_0_056 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
 | renamingCard_0_061 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
 | renamingCard_0_067 | ID信息更新卡 | - | - |
+| renamingCard_0_073 | ID信息更新卡 | - | - |
 | renamingCard_30_018 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
 | renamingCard_30_023 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
 | renamingCard_30_027 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
@@ -1258,6 +1281,7 @@ tip: 请善用浏览器的搜索功能
 | renamingCard_30_056 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
 | renamingCard_30_061 | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
 | renamingCard_30_067 | ID信息更新卡 | - | - |
+| renamingCard_30_073 | ID信息更新卡 | - | - |
 | return_credit_token | 二次认证徽记 | Second Authentication Emblem | 二次認証徽章 |
 | return_credit_token2 | 二次认证徽记 | Second Authentication Emblem | 二次認証徽章 |
 | return_progress | 回流累登券 | Returnee Cumulative Login Ticket | リターン累計ログインチケット |
@@ -1381,6 +1405,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_class_pick5601 | 中坚高级干员调用凭证 | Top Operator Transfer Permit - Kernel | 中堅★6招聘指名券 |
 | voucher_class_pick6101 | 中坚高级干员调用凭证 | Top Operator Transfer Permit - Kernel | 中堅★6招聘指名券 |
 | voucher_class_pick6701 | 中坚高级干员调用凭证 | - | - |
+| voucher_class_pick7301 | 中坚高级干员调用凭证 | - | - |
 | voucher_elite_II_4 | 专业干员特训邀请函 | Professional Operator Training Invitation Letter | ★4特訓招待状 |
 | voucher_elite_II_5 | 资深干员特训邀请函 | Senior Operator Training Invitation Letter | ★5特訓招待状 |
 | voucher_elite_II_6 | 高级资深干员特训邀请函 | Top Operator Training Invitation Letter | ★6特訓招待状 |
@@ -1434,6 +1459,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_item_pick601 | 高级干员调用凭证 | Top Operator Transfer Permit | ★6招聘指名券 |
 | voucher_item_pick6101 | 周年庆典干员凭证 | Top Operator Transfer Permit | 感謝祭記念★6招聘指名券 |
 | voucher_item_pick6701 | 感谢庆典干员凭证 | - | - |
+| voucher_item_pick7301 | 周年庆典干员凭证 | - | - |
 | voucher_lessng | 止颂的文件夹 | Lessing's Folder | レッシングの書類入れ |
 | voucher_levelmax_4 | 专业干员特训装置 | Professional Operator Training Apparatus | ★4特訓装置 |
 | voucher_levelmax_5 | 资深干员特训装置 | Senior Operator Training Apparatus | ★5特訓装置 |
@@ -1447,6 +1473,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_recruitR5_pick3801 | 资深干员调用凭证 | Senior Operator Transfer Permit | ★5招聘指名券 |
 | voucher_recruitR5_pick5001 | 资深干员调用凭证 | Senior Operator Transfer Permit | ★5招聘指名券 |
 | voucher_recruitR5_pick6101 | 资深干员调用凭证 | Senior Operator Transfer Permit | ★5招聘指名券 |
+| voucher_recruitR5_pick7301 | 资深干员调用凭证 | - | - |
 | voucher_recruitR6_pick5301 | 高级干员调用凭证-新人 | Top Operator Transfer Permit - Starter | 初心者★6招聘指名券 |
 | voucher_recruitR6_pick6401 | 高级干员活动调用凭证 | - | - |
 | voucher_recruitR6_pick7201 | 特殊活动调用凭证 | - | - |

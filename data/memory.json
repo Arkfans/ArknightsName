@@ -400,6 +400,9 @@
     "ja_JP": "昔我往きて、君と携行す",
     "zh_CN": "昔我往矣"
   },
+  "story_closur_set_1_story_1": {
+    "zh_CN": "分身有术"
+  },
   "story_clour_set_1_story_1": {
     "en_US": "Somewhere to Make Home",
     "ja_JP": "安らぎの場所",
@@ -582,6 +585,9 @@
     "ja_JP": "記録者",
     "zh_CN": "记录者"
   },
+  "story_folnic_set_1_story_1": {
+    "zh_CN": "明日之前"
+  },
   "story_forcer_set_1_story_1": {
     "en_US": "Departure Plans",
     "ja_JP": "出発の準備",
@@ -705,6 +711,9 @@
     "ja_JP": "肝を冷やす夜",
     "zh_CN": "惊弓一夜"
   },
+  "story_hadiya_set_1_story_1": {
+    "zh_CN": "去荒野的路"
+  },
   "story_haini_set_1_story_1": {
     "en_US": "The Hopeful Ones",
     "ja_JP": "希望を抱く人",
@@ -732,6 +741,9 @@
     "en_US": "Nameless Flower",
     "ja_JP": "名もなき花",
     "zh_CN": "无名之花"
+  },
+  "story_headb2_set_1_story_1": {
+    "zh_CN": "循环"
   },
   "story_headbr_set_1_story_1": {
     "en_US": "Strong Meets Stronger",

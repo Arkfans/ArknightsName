@@ -228,6 +228,9 @@
   "char_1040_blaze2@winter#5": {
     "zh_CN": "夜归人"
   },
+  "char_1041_angel2@iteration#6": {
+    "zh_CN": "寻翼之歌"
+  },
   "char_1043_leizi2@game#8": {
     "zh_CN": "血翼蔷薇"
   },
@@ -1964,8 +1967,14 @@
   "char_4172_xingzh@epoque#51": {
     "zh_CN": "留影"
   },
+  "char_4173_nowell@iteration#6": {
+    "zh_CN": "幽蓝渡灵师"
+  },
   "char_4177_brigid@epoque#53": {
     "zh_CN": "轻语入梦"
+  },
+  "char_4179_monstr@boc#11": {
+    "zh_CN": "锋锐"
   },
   "char_4182_oblvns@avemujica#1": {
     "zh_CN": "旋律的主人"
@@ -1982,11 +1991,17 @@
   "char_4186_tmoris@avemujica#1": {
     "zh_CN": "月下执行者"
   },
+  "char_4187_graceb@boc#11": {
+    "zh_CN": "追想涤尘"
+  },
   "char_4193_lemuen@ambienceSynesthesia#7": {
     "zh_CN": "暮星安魂曲"
   },
   "char_4195_radian@game#8": {
     "zh_CN": "乱数法则"
+  },
+  "char_4202_haruka@iteration#6": {
+    "zh_CN": "常世之幻"
   },
   "char_420_flamtl@game#2": {
     "en_US": "Sport For All",
@@ -2065,6 +2080,9 @@
   },
   "char_445_wscoot@epoque#49": {
     "zh_CN": "异乡的云"
+  },
+  "char_446_aroma@epoque#54": {
+    "zh_CN": "舒心野趣"
   },
   "char_449_glider@epoque#17": {
     "en_US": "Wildness Behind",

@@ -366,7 +366,28 @@ tip: 请善用浏览器的搜索功能
 | enemy_1019_jshoot | 隐形弩手 | Invisible Crossbowman | 迷彩射撃兵 |
 | enemy_1019_jshoot_2 | 隐形弩手组长 | Invisible Crossbowman Leader | 迷彩射撃隊長 |
 | enemy_10200_ubglmf | 格罗莫夫 | - | - |
+| enemy_10201_muinf | 实验样本F-009 | - | - |
+| enemy_10201_muinf_2 | 失控的F-009 | - | - |
+| enemy_10202_mubow | 实验样本R-044 | - | - |
+| enemy_10202_mubow_2 | 失控的R-044 | - | - |
+| enemy_10203_mumag | 异种菌 | - | - |
+| enemy_10203_mumag_2 | 血色异种菌 | - | - |
+| enemy_10204_mudia | 破石草 | - | - |
+| enemy_10204_mudia_2 | 血色破石草 | - | - |
+| enemy_10205_mufly | 实验样本A-000 | - | - |
+| enemy_10205_mufly_2 | 失控的A-000 | - | - |
+| enemy_10206_muveg | 三生花 | - | - |
+| enemy_10206_muveg_2 | 血色三生花 | - | - |
+| enemy_10207_mubrut | “希希加” | - | - |
+| enemy_10207_mubrut_2 | 愤怒的“希希加” | - | - |
+| enemy_10208_mucow | “里霍” | - | - |
+| enemy_10208_mucow_2 | 游荡的“里霍” | - | - |
+| enemy_10209_mubag | “鲁塞尔卡” | - | - |
+| enemy_10209_mubag_2 | 起舞的“鲁塞尔卡” | - | - |
 | enemy_1020_obsv | 技术侦察兵 | Technical Scout | 技術偵察兵 |
+| enemy_10210_muwiz | 乌萨斯战争术师 | - | - |
+| enemy_10210_muwiz_2 | 乌萨斯战争术师 | - | - |
+| enemy_10211_murad | 泄漏源 | - | - |
 | enemy_1021_bslime | 高能源石虫 | Infused Originium Slug | バクダンムシ |
 | enemy_1021_bslime_2 | 高能源石虫·α | Infused Originium Slug α | バクダンムシα |
 | enemy_1022_dmage | 萨卡兹术师 | Sarkaz Caster | サルカズ術師 |
@@ -1247,6 +1268,10 @@ tip: 请善用浏览器的搜索功能
 | enemy_1585_suiwei | 岁·尾 | - | - |
 | enemy_1587_ubbplwq | 巴普洛维奇，枢密官 | - | - |
 | enemy_1588_ubbphw | “私人安全顾问” | - | - |
+| enemy_1590_muama | AMa-10 | - | - |
+| enemy_1591_mutwin | AMa-10异构体 | - | - |
+| enemy_1591_mutwin_2 | AMa-10异构体 | - | - |
+| enemy_1593_musnake | “终始” | - | - |
 | enemy_18001_lhship | 运输汽艇 | - | - |
 | enemy_18002_lhbetl | 小颚虫 | - | - |
 | enemy_18003_lhkarb | 吸气乱动机 | - | - |
