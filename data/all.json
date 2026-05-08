@@ -63462,6 +63462,30 @@
       "zh_CN": "异常预案-4"
     }
   },
+  "hard_17-01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "急变预案-1"
+    }
+  },
+  "hard_17-02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "急变预案-2"
+    }
+  },
+  "hard_17-03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "急变预案-3"
+    }
+  },
+  "hard_17-04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "急变预案-4"
+    }
+  },
   "lt_01_01": {
     "type": "STAGE",
     "names": {
