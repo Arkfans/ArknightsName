@@ -224,6 +224,7 @@ tip: 请善用浏览器的搜索功能
 | char_263_skadi@summer#3 | 驭浪 WR04 | Waverider WR04 | ウェーブライダーWR04 |
 | char_264_f12yin@boc#3 | 乌云 | Dark Cloud | 烏雲 |
 | char_264_f12yin@epoque#15 | 读者 | Book Reader | 読書家 |
+| char_264_f12yin@marthe#13 | 硬派速度 | - | - |
 | char_265_sophia@epoque#11 | 荣耀之紫 | Glory Purple | グローリーパープル |
 | char_271_spikes@unveiling#1 | 危险邀约 | Dangerous Invitation | 危険な誘い |
 | char_271_spikes@winter#2 | 随性 | Casual | 気儘 |

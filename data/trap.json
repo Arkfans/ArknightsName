@@ -2475,6 +2475,372 @@
     "ja_JP": "既製品のカニカニポンプ",
     "zh_CN": "蟹蟹抽水泵·采购"
   },
+  "trap_513_xb2bas": {
+    "zh_CN": "罗德岛采集基站"
+  },
+  "trap_514_xb2brh": {
+    "zh_CN": "临时采集基站"
+  },
+  "trap_515_xb2wdo": {
+    "zh_CN": "杂木林"
+  },
+  "trap_516_xb2wod": {
+    "zh_CN": "杂木林"
+  },
+  "trap_517_xb2stn": {
+    "zh_CN": "巨大岩石"
+  },
+  "trap_518_xb2irn": {
+    "zh_CN": "奇异矿脉"
+  },
+  "trap_519_xb2dmn": {
+    "zh_CN": "澄亮矿脉"
+  },
+  "trap_520_xb2cve": {
+    "zh_CN": "巢穴"
+  },
+  "trap_521_xb2cmp": {
+    "zh_CN": "废弃移动战塔"
+  },
+  "trap_522_xb2dor": {
+    "zh_CN": "待清理材料"
+  },
+  "trap_523_xb2brd": {
+    "zh_CN": "好奇的小羽兽"
+  },
+  "trap_524_xb2onf": {
+    "zh_CN": "损坏的资源前哨站"
+  },
+  "trap_525_xb2sta": {
+    "zh_CN": "补给车出发站台"
+  },
+  "trap_526_xb2sit": {
+    "zh_CN": "补给车中转站台"
+  },
+  "trap_527_xb2tml": {
+    "zh_CN": "补给车终点站台"
+  },
+  "trap_529_xb2crv": {
+    "zh_CN": "补给车转角轨道"
+  },
+  "trap_529_xb2trk": {
+    "zh_CN": "补给车直行轨道"
+  },
+  "trap_530_xb2gtr": {
+    "zh_CN": "埋没金属箱"
+  },
+  "trap_531_xb2str": {
+    "zh_CN": "宝刺金属箱"
+  },
+  "trap_532_xb2shb": {
+    "zh_CN": "灌木丛"
+  },
+  "trap_534_xb2cmu": {
+    "zh_CN": "通讯基站"
+  },
+  "trap_535_xb2fbw": {
+    "zh_CN": "建材加工台"
+  },
+  "trap_536_xb2fbw2": {
+    "zh_CN": "毛线加工台"
+  },
+  "trap_537_xb2fbs": {
+    "zh_CN": "干亚麻加工台"
+  },
+  "trap_538_xb2fbs2": {
+    "zh_CN": "稻谷加工台"
+  },
+  "trap_539_xb2fbi": {
+    "zh_CN": "羽兽蛋加工台"
+  },
+  "trap_540_xb2fbi2": {
+    "zh_CN": "皮毛加工台"
+  },
+  "trap_541_xb2rgw": {
+    "zh_CN": "杂木林再生站"
+  },
+  "trap_542_xb2rgs": {
+    "zh_CN": "巨大岩石再生站"
+  },
+  "trap_543_xb2rgi": {
+    "zh_CN": "奇异矿脉再生站"
+  },
+  "trap_544_xb2fmr": {
+    "zh_CN": "稻谷种植槽"
+  },
+  "trap_545_xb2fmf": {
+    "zh_CN": "亚麻种植槽"
+  },
+  "trap_546_xb2fmr2": {
+    "zh_CN": "稻谷幼苗"
+  },
+  "trap_547_xb2fmf2": {
+    "zh_CN": "亚麻幼苗"
+  },
+  "trap_548_xb2spk": {
+    "zh_CN": "营养液喷洒器"
+  },
+  "trap_549_xb2pwr": {
+    "zh_CN": "动力补给站"
+  },
+  "trap_550_xb2ltr": {
+    "zh_CN": "引雷针"
+  },
+  "trap_551_xb2fnc": {
+    "zh_CN": "小型兽栏"
+  },
+  "trap_552_xb2fnc2": {
+    "zh_CN": "大型兽栏"
+  },
+  "trap_553_xb2wfty": {
+    "zh_CN": "蟹蟹抽水泵"
+  },
+  "trap_555_xb2cbp": {
+    "zh_CN": "蟹笼"
+  },
+  "trap_556_xb2cbp2": {
+    "zh_CN": "野生动物引诱装置"
+  },
+  "trap_557_xb2fnt": {
+    "zh_CN": "澄澈清泉"
+  },
+  "trap_558_xb2ppt": {
+    "zh_CN": "清幽盆栽"
+  },
+  "trap_559_xb2bch": {
+    "zh_CN": "简约长椅"
+  },
+  "trap_560_xb2mil": {
+    "zh_CN": "蟹壳加工台"
+  },
+  "trap_562_xb2bbq": {
+    "zh_CN": "食品加工厂"
+  },
+  "trap_563_xb2bbq2": {
+    "zh_CN": "制备加工厂"
+  },
+  "trap_564_xb2txtl": {
+    "zh_CN": "金属加工厂"
+  },
+  "trap_566_xb2chm": {
+    "zh_CN": "石料加工厂"
+  },
+  "trap_567_xb2chm2": {
+    "zh_CN": "木料加工厂"
+  },
+  "trap_568_xb2wclr": {
+    "zh_CN": "器械加工厂"
+  },
+  "trap_569_xb2wclr2": {
+    "zh_CN": "后勤加工厂"
+  },
+  "trap_570_xb2kln": {
+    "zh_CN": "外勤加工厂"
+  },
+  "trap_573_xb2mdk2": {
+    "zh_CN": "纺织加工厂"
+  },
+  "trap_580_xb2dik": {
+    "zh_CN": "酿造加工厂"
+  },
+  "trap_582_xb2dstr": {
+    "zh_CN": "饮品供给站"
+  },
+  "trap_583_xb2fstr": {
+    "zh_CN": "食品供给站"
+  },
+  "trap_584_xb2mkstr": {
+    "zh_CN": "药品供给站"
+  },
+  "trap_585_xb2hwstr": {
+    "zh_CN": "工具供给站"
+  },
+  "trap_586_xb2eqstr": {
+    "zh_CN": "装备供给站"
+  },
+  "trap_587_xb2sqr": {
+    "zh_CN": "迎风招展"
+  },
+  "trap_588_xb2ord": {
+    "zh_CN": "道路"
+  },
+  "trap_589_xb2ocnl": {
+    "zh_CN": "渠道"
+  },
+  "trap_590_xb2oflr": {
+    "zh_CN": "观赏植物"
+  },
+  "trap_590_xb2oflr2": {
+    "zh_CN": "观赏植物"
+  },
+  "trap_590_xb2oflr3": {
+    "zh_CN": "观赏植物"
+  },
+  "trap_591_xb2orm": {
+    "zh_CN": "基地建筑"
+  },
+  "trap_592_xb2orm2": {
+    "zh_CN": "基地设施"
+  },
+  "trap_593_xb2obdg": {
+    "zh_CN": "基地通道"
+  },
+  "trap_594_xb2ostn": {
+    "zh_CN": "待清理地块"
+  },
+  "trap_595_xb2otph": {
+    "zh_CN": "“基建能手”"
+  },
+  "trap_595_xb2otph2": {
+    "zh_CN": "“矢力同心”"
+  },
+  "trap_595_xb2otph3": {
+    "zh_CN": "“再度起航”"
+  },
+  "trap_596_xb2obds": {
+    "zh_CN": "基地通道中转枢纽"
+  },
+  "trap_597_xb2cage": {
+    "zh_CN": "捕猎笼"
+  },
+  "trap_598_xb2ofmr2": {
+    "zh_CN": "亚麻种植槽"
+  },
+  "trap_599_xb2ofmf2": {
+    "zh_CN": "稻谷种植槽"
+  },
+  "trap_600_xb2ofmr": {
+    "zh_CN": "稻谷幼苗"
+  },
+  "trap_601_xb2ofmf": {
+    "zh_CN": "亚麻幼苗"
+  },
+  "trap_602_xb2ofnc": {
+    "zh_CN": "小型兽栏"
+  },
+  "trap_603_xb2ofnc2": {
+    "zh_CN": "大型兽栏"
+  },
+  "trap_604_xb2ofb2": {
+    "zh_CN": "木材能源转化装置"
+  },
+  "trap_604_xb2ofb3": {
+    "zh_CN": "石材能源转化装置"
+  },
+  "trap_604_xb2ofb4": {
+    "zh_CN": "铁矿石能源转化装置"
+  },
+  "trap_606_xb2org2": {
+    "zh_CN": "木石能源转化装置"
+  },
+  "trap_606_xb2org3": {
+    "zh_CN": "石铁能源转化装置"
+  },
+  "trap_607_xb2ospk": {
+    "zh_CN": "营养液喷洒器"
+  },
+  "trap_608_xb2ostr": {
+    "zh_CN": "饮品供给站"
+  },
+  "trap_609_xb2opwr": {
+    "zh_CN": "能源增幅装置"
+  },
+  "trap_609_xb2opwr2": {
+    "zh_CN": "高效能源增幅装置"
+  },
+  "trap_610_xb2ofnt": {
+    "zh_CN": "澄澈清泉"
+  },
+  "trap_611_xb2oppt": {
+    "zh_CN": "清幽盆栽"
+  },
+  "trap_612_xb2obch": {
+    "zh_CN": "简约长椅"
+  },
+  "trap_613_xb2osqr": {
+    "zh_CN": "迎风招展"
+  },
+  "trap_614_xb2oltr": {
+    "zh_CN": "引雷针"
+  },
+  "trap_615_xb2osta": {
+    "zh_CN": "补给车出发站台"
+  },
+  "trap_616_xb2osit": {
+    "zh_CN": "补给车中转站台"
+  },
+  "trap_617_xb2otml": {
+    "zh_CN": "补给车终点站台"
+  },
+  "trap_618_xb2fostr": {
+    "zh_CN": "食品供给站"
+  },
+  "trap_619_xb2omkstr": {
+    "zh_CN": "药品供给站"
+  },
+  "trap_620_xb2ohwstr": {
+    "zh_CN": "工具供给站"
+  },
+  "trap_621_xb2flr": {
+    "zh_CN": "荧光棒"
+  },
+  "trap_622_xb2clr": {
+    "zh_CN": "清杂机械羽兽"
+  },
+  "trap_623_xb2fke": {
+    "zh_CN": "埋没金属箱"
+  },
+  "trap_624_xb2mtr": {
+    "zh_CN": "Mon3tr"
+  },
+  "trap_625_xb2smy": {
+    "zh_CN": "Stormeye"
+  },
+  "trap_626_xb2tex": {
+    "zh_CN": "Thermal-EX"
+  },
+  "trap_627_xb2amy": {
+    "zh_CN": "阿米娅"
+  },
+  "trap_628_xb2cls": {
+    "zh_CN": "可露希尔"
+  },
+  "trap_629_xb2frt": {
+    "zh_CN": "高台工事"
+  },
+  "trap_630_xb2als": {
+    "zh_CN": "简易弩台"
+  },
+  "trap_631_xb2ach": {
+    "zh_CN": "持弓罗德岛男干员"
+  },
+  "trap_632_xb2oeqstr": {
+    "zh_CN": "装备供给站"
+  },
+  "trap_633_xb2otrk": {
+    "zh_CN": "补给车直行轨道"
+  },
+  "trap_634_xb2ocrv": {
+    "zh_CN": "补给车转角轨道"
+  },
+  "trap_635_xb2owdp": {
+    "zh_CN": "木材处理中心"
+  },
+  "trap_636_xb2ostnp": {
+    "zh_CN": "石材处理中心"
+  },
+  "trap_637_xb2oirnp": {
+    "zh_CN": "铁矿石处理中心"
+  },
+  "trap_638_xb2oafkp": {
+    "zh_CN": "核心能源基站"
+  },
+  "trap_639_xb2ohfct": {
+    "zh_CN": "高效能源转化装置"
+  },
+  "trap_640_xbcbag2": {
+    "zh_CN": "猎获笼"
+  },
   "trap_700_cdabyss": {
     "en_US": "Ægirian Oscilloscope",
     "ja_JP": "エーギル式振波計",

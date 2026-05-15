@@ -8159,6 +8159,738 @@
       "zh_CN": "蟹蟹抽水泵·采购"
     }
   },
+  "trap_513_xb2bas": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "罗德岛采集基站"
+    }
+  },
+  "trap_514_xb2brh": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "临时采集基站"
+    }
+  },
+  "trap_515_xb2wdo": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "杂木林"
+    }
+  },
+  "trap_516_xb2wod": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "杂木林"
+    }
+  },
+  "trap_517_xb2stn": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "巨大岩石"
+    }
+  },
+  "trap_518_xb2irn": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "奇异矿脉"
+    }
+  },
+  "trap_519_xb2dmn": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "澄亮矿脉"
+    }
+  },
+  "trap_520_xb2cve": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "巢穴"
+    }
+  },
+  "trap_521_xb2cmp": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "废弃移动战塔"
+    }
+  },
+  "trap_522_xb2dor": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "待清理材料"
+    }
+  },
+  "trap_523_xb2brd": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "好奇的小羽兽"
+    }
+  },
+  "trap_524_xb2onf": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "损坏的资源前哨站"
+    }
+  },
+  "trap_525_xb2sta": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "补给车出发站台"
+    }
+  },
+  "trap_526_xb2sit": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "补给车中转站台"
+    }
+  },
+  "trap_527_xb2tml": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "补给车终点站台"
+    }
+  },
+  "trap_529_xb2crv": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "补给车转角轨道"
+    }
+  },
+  "trap_529_xb2trk": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "补给车直行轨道"
+    }
+  },
+  "trap_530_xb2gtr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "埋没金属箱"
+    }
+  },
+  "trap_531_xb2str": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "宝刺金属箱"
+    }
+  },
+  "trap_532_xb2shb": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "灌木丛"
+    }
+  },
+  "trap_534_xb2cmu": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "通讯基站"
+    }
+  },
+  "trap_535_xb2fbw": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "建材加工台"
+    }
+  },
+  "trap_536_xb2fbw2": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "毛线加工台"
+    }
+  },
+  "trap_537_xb2fbs": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "干亚麻加工台"
+    }
+  },
+  "trap_538_xb2fbs2": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "稻谷加工台"
+    }
+  },
+  "trap_539_xb2fbi": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "羽兽蛋加工台"
+    }
+  },
+  "trap_540_xb2fbi2": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "皮毛加工台"
+    }
+  },
+  "trap_541_xb2rgw": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "杂木林再生站"
+    }
+  },
+  "trap_542_xb2rgs": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "巨大岩石再生站"
+    }
+  },
+  "trap_543_xb2rgi": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "奇异矿脉再生站"
+    }
+  },
+  "trap_544_xb2fmr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "稻谷种植槽"
+    }
+  },
+  "trap_545_xb2fmf": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "亚麻种植槽"
+    }
+  },
+  "trap_546_xb2fmr2": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "稻谷幼苗"
+    }
+  },
+  "trap_547_xb2fmf2": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "亚麻幼苗"
+    }
+  },
+  "trap_548_xb2spk": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "营养液喷洒器"
+    }
+  },
+  "trap_549_xb2pwr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "动力补给站"
+    }
+  },
+  "trap_550_xb2ltr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "引雷针"
+    }
+  },
+  "trap_551_xb2fnc": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "小型兽栏"
+    }
+  },
+  "trap_552_xb2fnc2": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "大型兽栏"
+    }
+  },
+  "trap_553_xb2wfty": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "蟹蟹抽水泵"
+    }
+  },
+  "trap_555_xb2cbp": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "蟹笼"
+    }
+  },
+  "trap_556_xb2cbp2": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "野生动物引诱装置"
+    }
+  },
+  "trap_557_xb2fnt": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "澄澈清泉"
+    }
+  },
+  "trap_558_xb2ppt": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "清幽盆栽"
+    }
+  },
+  "trap_559_xb2bch": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "简约长椅"
+    }
+  },
+  "trap_560_xb2mil": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "蟹壳加工台"
+    }
+  },
+  "trap_562_xb2bbq": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "食品加工厂"
+    }
+  },
+  "trap_563_xb2bbq2": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "制备加工厂"
+    }
+  },
+  "trap_564_xb2txtl": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "金属加工厂"
+    }
+  },
+  "trap_566_xb2chm": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "石料加工厂"
+    }
+  },
+  "trap_567_xb2chm2": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "木料加工厂"
+    }
+  },
+  "trap_568_xb2wclr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "器械加工厂"
+    }
+  },
+  "trap_569_xb2wclr2": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "后勤加工厂"
+    }
+  },
+  "trap_570_xb2kln": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "外勤加工厂"
+    }
+  },
+  "trap_573_xb2mdk2": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "纺织加工厂"
+    }
+  },
+  "trap_580_xb2dik": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "酿造加工厂"
+    }
+  },
+  "trap_582_xb2dstr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "饮品供给站"
+    }
+  },
+  "trap_583_xb2fstr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "食品供给站"
+    }
+  },
+  "trap_584_xb2mkstr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "药品供给站"
+    }
+  },
+  "trap_585_xb2hwstr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "工具供给站"
+    }
+  },
+  "trap_586_xb2eqstr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "装备供给站"
+    }
+  },
+  "trap_587_xb2sqr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "迎风招展"
+    }
+  },
+  "trap_588_xb2ord": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "道路"
+    }
+  },
+  "trap_589_xb2ocnl": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "渠道"
+    }
+  },
+  "trap_590_xb2oflr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "观赏植物"
+    }
+  },
+  "trap_590_xb2oflr2": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "观赏植物"
+    }
+  },
+  "trap_590_xb2oflr3": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "观赏植物"
+    }
+  },
+  "trap_591_xb2orm": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "基地建筑"
+    }
+  },
+  "trap_592_xb2orm2": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "基地设施"
+    }
+  },
+  "trap_593_xb2obdg": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "基地通道"
+    }
+  },
+  "trap_594_xb2ostn": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "待清理地块"
+    }
+  },
+  "trap_595_xb2otph": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "“基建能手”"
+    }
+  },
+  "trap_595_xb2otph2": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "“矢力同心”"
+    }
+  },
+  "trap_595_xb2otph3": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "“再度起航”"
+    }
+  },
+  "trap_596_xb2obds": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "基地通道中转枢纽"
+    }
+  },
+  "trap_597_xb2cage": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "捕猎笼"
+    }
+  },
+  "trap_598_xb2ofmr2": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "亚麻种植槽"
+    }
+  },
+  "trap_599_xb2ofmf2": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "稻谷种植槽"
+    }
+  },
+  "trap_600_xb2ofmr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "稻谷幼苗"
+    }
+  },
+  "trap_601_xb2ofmf": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "亚麻幼苗"
+    }
+  },
+  "trap_602_xb2ofnc": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "小型兽栏"
+    }
+  },
+  "trap_603_xb2ofnc2": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "大型兽栏"
+    }
+  },
+  "trap_604_xb2ofb2": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "木材能源转化装置"
+    }
+  },
+  "trap_604_xb2ofb3": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "石材能源转化装置"
+    }
+  },
+  "trap_604_xb2ofb4": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "铁矿石能源转化装置"
+    }
+  },
+  "trap_606_xb2org2": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "木石能源转化装置"
+    }
+  },
+  "trap_606_xb2org3": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "石铁能源转化装置"
+    }
+  },
+  "trap_607_xb2ospk": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "营养液喷洒器"
+    }
+  },
+  "trap_608_xb2ostr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "饮品供给站"
+    }
+  },
+  "trap_609_xb2opwr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "能源增幅装置"
+    }
+  },
+  "trap_609_xb2opwr2": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "高效能源增幅装置"
+    }
+  },
+  "trap_610_xb2ofnt": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "澄澈清泉"
+    }
+  },
+  "trap_611_xb2oppt": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "清幽盆栽"
+    }
+  },
+  "trap_612_xb2obch": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "简约长椅"
+    }
+  },
+  "trap_613_xb2osqr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "迎风招展"
+    }
+  },
+  "trap_614_xb2oltr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "引雷针"
+    }
+  },
+  "trap_615_xb2osta": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "补给车出发站台"
+    }
+  },
+  "trap_616_xb2osit": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "补给车中转站台"
+    }
+  },
+  "trap_617_xb2otml": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "补给车终点站台"
+    }
+  },
+  "trap_618_xb2fostr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "食品供给站"
+    }
+  },
+  "trap_619_xb2omkstr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "药品供给站"
+    }
+  },
+  "trap_620_xb2ohwstr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "工具供给站"
+    }
+  },
+  "trap_621_xb2flr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "荧光棒"
+    }
+  },
+  "trap_622_xb2clr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "清杂机械羽兽"
+    }
+  },
+  "trap_623_xb2fke": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "埋没金属箱"
+    }
+  },
+  "trap_624_xb2mtr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "Mon3tr"
+    }
+  },
+  "trap_625_xb2smy": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "Stormeye"
+    }
+  },
+  "trap_626_xb2tex": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "Thermal-EX"
+    }
+  },
+  "trap_627_xb2amy": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "阿米娅"
+    }
+  },
+  "trap_628_xb2cls": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "可露希尔"
+    }
+  },
+  "trap_629_xb2frt": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "高台工事"
+    }
+  },
+  "trap_630_xb2als": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "简易弩台"
+    }
+  },
+  "trap_631_xb2ach": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "持弓罗德岛男干员"
+    }
+  },
+  "trap_632_xb2oeqstr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "装备供给站"
+    }
+  },
+  "trap_633_xb2otrk": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "补给车直行轨道"
+    }
+  },
+  "trap_634_xb2ocrv": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "补给车转角轨道"
+    }
+  },
+  "trap_635_xb2owdp": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "木材处理中心"
+    }
+  },
+  "trap_636_xb2ostnp": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "石材处理中心"
+    }
+  },
+  "trap_637_xb2oirnp": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "铁矿石处理中心"
+    }
+  },
+  "trap_638_xb2oafkp": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "核心能源基站"
+    }
+  },
+  "trap_639_xb2ohfct": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "高效能源转化装置"
+    }
+  },
+  "trap_640_xbcbag2": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "猎获笼"
+    }
+  },
   "trap_700_cdabyss": {
     "type": "TRAP",
     "names": {
@@ -10555,6 +11287,12 @@
       "en_US": "Book Reader",
       "ja_JP": "読書家",
       "zh_CN": "读者"
+    }
+  },
+  "char_264_f12yin@marthe#13": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "硬派速度"
     }
   },
   "char_265_sophia@epoque#11": {
@@ -24973,6 +25711,96 @@
       "zh_CN": "游砂兽"
     }
   },
+  "enemy_7063_xbchpy": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "绒绒兽"
+    }
+  },
+  "enemy_7064_xbostrch": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "啄奔羽兽"
+    }
+  },
+  "enemy_7065_xbpnst": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "拟树虫"
+    }
+  },
+  "enemy_7066_xbpffr": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "噪鳞"
+    }
+  },
+  "enemy_7067_xbcrag": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "遗落的岩石像"
+    }
+  },
+  "enemy_7068_xbchst": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "宝箱寄居磐蟹"
+    }
+  },
+  "enemy_7069_xbtrkg": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "巨型拟树虫"
+    }
+  },
+  "enemy_7070_xbrckg": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "遗落的巨型岩石像"
+    }
+  },
+  "enemy_7071_xbfiry": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "灵绒兽"
+    }
+  },
+  "enemy_7072_xbfrog": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "狂噪鳞"
+    }
+  },
+  "enemy_7073_xblcst": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "震风虫"
+    }
+  },
+  "enemy_7074_xbtamr": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "流浪驯兽师"
+    }
+  },
+  "enemy_7075_xbthdr": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "被通缉的研究员"
+    }
+  },
+  "enemy_7076_xbthrd": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "怪异引雷装置"
+    }
+  },
+  "enemy_7077_xbicdg": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "冰翼兽"
+    }
+  },
   "enemy_8001_flmlod": {
     "type": "ENEMY",
     "names": {
@@ -33913,6 +34741,12 @@
       "zh_CN": "贴纸包/沙洲遗闻"
     }
   },
+  "itempack_stickers_sand2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "贴纸包/重启锚点"
+    }
+  },
   "main16_spitem_1": {
     "type": "ITEM",
     "names": {
@@ -37823,6 +38657,12 @@
       "zh_CN": "繁荣点数"
     }
   },
+  "sandbox_2_tokencoin": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "任务验收单"
+    }
+  },
   "so_char_exp_1": {
     "type": "ITEM",
     "names": {
@@ -40318,6 +41158,12 @@
     }
   },
   "SPECIAL_70_0_3": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "定向甄选"
+    }
+  },
+  "SPECIAL_73_0_3": {
     "type": "POOL",
     "names": {
       "zh_CN": "定向甄选"
@@ -53250,6 +54096,588 @@
       "zh_CN": "“顽石专用”"
     }
   },
+  "sktok_xb2als_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "射箭"
+    }
+  },
+  "sktok_xb2bas_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "采集"
+    }
+  },
+  "sktok_xb2bbq2_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "加工"
+    }
+  },
+  "sktok_xb2bbq_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "加工"
+    }
+  },
+  "sktok_xb2bch_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "矗立"
+    }
+  },
+  "sktok_xb2brd": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "供奉"
+    }
+  },
+  "sktok_xb2brh_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "采集"
+    }
+  },
+  "sktok_xb2cage_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "捕获"
+    }
+  },
+  "sktok_xb2cbp_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "产蟹"
+    }
+  },
+  "sktok_xb2chm2_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "加工"
+    }
+  },
+  "sktok_xb2chm_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "加工"
+    }
+  },
+  "sktok_xb2clr": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "清理"
+    }
+  },
+  "sktok_xb2cmp": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "触发对话"
+    }
+  },
+  "sktok_xb2cmp_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "触发对话"
+    }
+  },
+  "sktok_xb2cve": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "生成"
+    }
+  },
+  "sktok_xb2dik_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "加工"
+    }
+  },
+  "sktok_xb2dor_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "触发对话"
+    }
+  },
+  "sktok_xb2dstr_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "供给"
+    }
+  },
+  "sktok_xb2eqstr_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "供给"
+    }
+  },
+  "sktok_xb2fbi2_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "加工"
+    }
+  },
+  "sktok_xb2fbi_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "加工"
+    }
+  },
+  "sktok_xb2fbs2_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "加工"
+    }
+  },
+  "sktok_xb2fbs_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "加工"
+    }
+  },
+  "sktok_xb2fbw2_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "加工"
+    }
+  },
+  "sktok_xb2fbw_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "加工"
+    }
+  },
+  "sktok_xb2fke": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "偷袭"
+    }
+  },
+  "sktok_xb2fnt_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "喷涌"
+    }
+  },
+  "sktok_xb2fostr": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2fstr_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "供给"
+    }
+  },
+  "sktok_xb2hwstr_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "供给"
+    }
+  },
+  "sktok_xb2kln_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "加工"
+    }
+  },
+  "sktok_xb2mdk2_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "加工"
+    }
+  },
+  "sktok_xb2mil_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "加工"
+    }
+  },
+  "sktok_xb2mkstr_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "供给"
+    }
+  },
+  "sktok_xb2oafkp": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2obch": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2obdg": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2obds": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2ocnl": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2ocrv": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2oeqstr": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2ofb2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2ofb3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2ofb4": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2oflr": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2oflr2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2oflr3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2ofmf": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2ofmf2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2ofmr": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2ofmr2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2ofnc": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2ofnc2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2ofnt": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2ohfct": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2ohwstr": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2oirnp": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2oltr": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2omkstr": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2onf_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "触发对话"
+    }
+  },
+  "sktok_xb2onf_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "强化"
+    }
+  },
+  "sktok_xb2onf_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "强化"
+    }
+  },
+  "sktok_xb2onf_4": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "强化"
+    }
+  },
+  "sktok_xb2oppt": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2opwr": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2opwr2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2ord": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2org2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2org3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2orm": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2orm2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2osit": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2ospk": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2osqr": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2osta_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "发车"
+    }
+  },
+  "sktok_xb2ostnp": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2ostr": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2otml": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2otph": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2otph2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2otph3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2otrk": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2owdp": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "建设"
+    }
+  },
+  "sktok_xb2ppt_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "摇摆"
+    }
+  },
+  "sktok_xb2pwr_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "供能"
+    }
+  },
+  "sktok_xb2rgi_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "再生"
+    }
+  },
+  "sktok_xb2rgs_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "再生"
+    }
+  },
+  "sktok_xb2rgw_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "再生"
+    }
+  },
+  "sktok_xb2sit_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "路过"
+    }
+  },
+  "sktok_xb2sqr_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "飘扬"
+    }
+  },
+  "sktok_xb2sta_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "发车"
+    }
+  },
+  "sktok_xb2tml_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "路过"
+    }
+  },
+  "sktok_xb2txtl_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "加工"
+    }
+  },
+  "sktok_xb2wclr2_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "加工"
+    }
+  },
+  "sktok_xb2wclr_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "加工"
+    }
+  },
+  "sktok_xb2wdo": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "变化"
+    }
+  },
+  "sktok_xb2wfty_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "采水"
+    }
+  },
   "sktok_xbaarm": {
     "type": "SKILL",
     "names": {
@@ -53456,6 +54884,12 @@
       "en_US": "Release the Prey",
       "ja_JP": "獲物解放",
       "zh_CN": "释放猎获"
+    }
+  },
+  "sktok_xbcbag2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "小角跳兽"
     }
   },
   "sktok_xbcp": {

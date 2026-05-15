@@ -3637,6 +3637,9 @@
   "itempack_stickers_sand1": {
     "zh_CN": "贴纸包/沙洲遗闻"
   },
+  "itempack_stickers_sand2": {
+    "zh_CN": "贴纸包/重启锚点"
+  },
   "main16_spitem_1": {
     "zh_CN": "暗淡的源石"
   },
@@ -6034,6 +6037,9 @@
     "en_US": "Prosperity Point",
     "ja_JP": "繁栄ポイント",
     "zh_CN": "繁荣点数"
+  },
+  "sandbox_2_tokencoin": {
+    "zh_CN": "任务验收单"
   },
   "so_char_exp_1": {
     "zh_CN": "特勤作战记录"

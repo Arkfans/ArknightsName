@@ -792,6 +792,7 @@ tip: 请善用浏览器的搜索功能
 | itempack_stickers_rog4 | 贴纸包/无终奇语 | - | - |
 | itempack_stickers_rog5 | 贴纸包/界园志异 | - | - |
 | itempack_stickers_sand1 | 贴纸包/沙洲遗闻 | - | - |
+| itempack_stickers_sand2 | 贴纸包/重启锚点 | - | - |
 | main16_spitem_1 | 暗淡的源石 | - | - |
 | main16_spitem_2 | 无主的矿灯 | - | - |
 | main16_spitem_3 | 涂改的旗帜 | - | - |
@@ -1296,6 +1297,7 @@ tip: 请善用浏览器的搜索功能
 | rogue_5_token_bp | 迷路幼伥 | - | - |
 | rogue_5_token_grow | 失落智识 | - | - |
 | sandbox_1_tokencoin | 繁荣点数 | Prosperity Point | 繁栄ポイント |
+| sandbox_2_tokencoin | 任务验收单 | - | - |
 | so_char_exp_1 | 特勤作战记录 | - | - |
 | tier1_caster | 术师信物复制品 | Replicated Caster Token | ★1術師の印 |
 | tier1_guard | 近卫信物复制品 | Replicated Guard Token | ★1前衛の印 |

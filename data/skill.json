@@ -7266,6 +7266,297 @@
     "ja_JP": "「硬石専用」",
     "zh_CN": "“顽石专用”"
   },
+  "sktok_xb2als_1": {
+    "zh_CN": "射箭"
+  },
+  "sktok_xb2bas_1": {
+    "zh_CN": "采集"
+  },
+  "sktok_xb2bbq2_1": {
+    "zh_CN": "加工"
+  },
+  "sktok_xb2bbq_1": {
+    "zh_CN": "加工"
+  },
+  "sktok_xb2bch_1": {
+    "zh_CN": "矗立"
+  },
+  "sktok_xb2brd": {
+    "zh_CN": "供奉"
+  },
+  "sktok_xb2brh_1": {
+    "zh_CN": "采集"
+  },
+  "sktok_xb2cage_1": {
+    "zh_CN": "捕获"
+  },
+  "sktok_xb2cbp_1": {
+    "zh_CN": "产蟹"
+  },
+  "sktok_xb2chm2_1": {
+    "zh_CN": "加工"
+  },
+  "sktok_xb2chm_1": {
+    "zh_CN": "加工"
+  },
+  "sktok_xb2clr": {
+    "zh_CN": "清理"
+  },
+  "sktok_xb2cmp": {
+    "zh_CN": "触发对话"
+  },
+  "sktok_xb2cmp_2": {
+    "zh_CN": "触发对话"
+  },
+  "sktok_xb2cve": {
+    "zh_CN": "生成"
+  },
+  "sktok_xb2dik_1": {
+    "zh_CN": "加工"
+  },
+  "sktok_xb2dor_1": {
+    "zh_CN": "触发对话"
+  },
+  "sktok_xb2dstr_1": {
+    "zh_CN": "供给"
+  },
+  "sktok_xb2eqstr_1": {
+    "zh_CN": "供给"
+  },
+  "sktok_xb2fbi2_1": {
+    "zh_CN": "加工"
+  },
+  "sktok_xb2fbi_1": {
+    "zh_CN": "加工"
+  },
+  "sktok_xb2fbs2_1": {
+    "zh_CN": "加工"
+  },
+  "sktok_xb2fbs_1": {
+    "zh_CN": "加工"
+  },
+  "sktok_xb2fbw2_1": {
+    "zh_CN": "加工"
+  },
+  "sktok_xb2fbw_1": {
+    "zh_CN": "加工"
+  },
+  "sktok_xb2fke": {
+    "zh_CN": "偷袭"
+  },
+  "sktok_xb2fnt_1": {
+    "zh_CN": "喷涌"
+  },
+  "sktok_xb2fostr": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2fstr_1": {
+    "zh_CN": "供给"
+  },
+  "sktok_xb2hwstr_1": {
+    "zh_CN": "供给"
+  },
+  "sktok_xb2kln_1": {
+    "zh_CN": "加工"
+  },
+  "sktok_xb2mdk2_1": {
+    "zh_CN": "加工"
+  },
+  "sktok_xb2mil_1": {
+    "zh_CN": "加工"
+  },
+  "sktok_xb2mkstr_1": {
+    "zh_CN": "供给"
+  },
+  "sktok_xb2oafkp": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2obch": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2obdg": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2obds": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2ocnl": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2ocrv": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2oeqstr": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2ofb2": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2ofb3": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2ofb4": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2oflr": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2oflr2": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2oflr3": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2ofmf": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2ofmf2": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2ofmr": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2ofmr2": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2ofnc": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2ofnc2": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2ofnt": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2ohfct": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2ohwstr": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2oirnp": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2oltr": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2omkstr": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2onf_1": {
+    "zh_CN": "触发对话"
+  },
+  "sktok_xb2onf_2": {
+    "zh_CN": "强化"
+  },
+  "sktok_xb2onf_3": {
+    "zh_CN": "强化"
+  },
+  "sktok_xb2onf_4": {
+    "zh_CN": "强化"
+  },
+  "sktok_xb2oppt": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2opwr": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2opwr2": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2ord": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2org2": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2org3": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2orm": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2orm2": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2osit": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2ospk": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2osqr": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2osta_1": {
+    "zh_CN": "发车"
+  },
+  "sktok_xb2ostnp": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2ostr": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2otml": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2otph": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2otph2": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2otph3": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2otrk": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2owdp": {
+    "zh_CN": "建设"
+  },
+  "sktok_xb2ppt_1": {
+    "zh_CN": "摇摆"
+  },
+  "sktok_xb2pwr_1": {
+    "zh_CN": "供能"
+  },
+  "sktok_xb2rgi_1": {
+    "zh_CN": "再生"
+  },
+  "sktok_xb2rgs_1": {
+    "zh_CN": "再生"
+  },
+  "sktok_xb2rgw_1": {
+    "zh_CN": "再生"
+  },
+  "sktok_xb2sit_1": {
+    "zh_CN": "路过"
+  },
+  "sktok_xb2sqr_1": {
+    "zh_CN": "飘扬"
+  },
+  "sktok_xb2sta_1": {
+    "zh_CN": "发车"
+  },
+  "sktok_xb2tml_1": {
+    "zh_CN": "路过"
+  },
+  "sktok_xb2txtl_1": {
+    "zh_CN": "加工"
+  },
+  "sktok_xb2wclr2_1": {
+    "zh_CN": "加工"
+  },
+  "sktok_xb2wclr_1": {
+    "zh_CN": "加工"
+  },
+  "sktok_xb2wdo": {
+    "zh_CN": "变化"
+  },
+  "sktok_xb2wfty_1": {
+    "zh_CN": "采水"
+  },
   "sktok_xbaarm": {
     "en_US": "Support",
     "ja_JP": "支援",
@@ -7395,6 +7686,9 @@
     "en_US": "Release the Prey",
     "ja_JP": "獲物解放",
     "zh_CN": "释放猎获"
+  },
+  "sktok_xbcbag2": {
+    "zh_CN": "小角跳兽"
   },
   "sktok_xbcp": {
     "en_US": "Checkpoint",

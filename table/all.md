@@ -1085,6 +1085,128 @@ tip: 请善用浏览器的搜索功能
 | trap_510_xbf2g | 石材采集站·采购 | Deluxe Quarrying Harvester Hub | 既製品の石材採取基地 |
 | trap_511_xbf3g | 铁矿采集站·采购 | Deluxe Mining Harvester Hub | 既製品の鉄鉱石採取基地 |
 | trap_512_xbwfg | 蟹蟹抽水泵·采购 | Deluxe Crabbie Pumpie | 既製品のカニカニポンプ |
+| trap_513_xb2bas | 罗德岛采集基站 | - | - |
+| trap_514_xb2brh | 临时采集基站 | - | - |
+| trap_515_xb2wdo | 杂木林 | - | - |
+| trap_516_xb2wod | 杂木林 | - | - |
+| trap_517_xb2stn | 巨大岩石 | - | - |
+| trap_518_xb2irn | 奇异矿脉 | - | - |
+| trap_519_xb2dmn | 澄亮矿脉 | - | - |
+| trap_520_xb2cve | 巢穴 | - | - |
+| trap_521_xb2cmp | 废弃移动战塔 | - | - |
+| trap_522_xb2dor | 待清理材料 | - | - |
+| trap_523_xb2brd | 好奇的小羽兽 | - | - |
+| trap_524_xb2onf | 损坏的资源前哨站 | - | - |
+| trap_525_xb2sta | 补给车出发站台 | - | - |
+| trap_526_xb2sit | 补给车中转站台 | - | - |
+| trap_527_xb2tml | 补给车终点站台 | - | - |
+| trap_529_xb2crv | 补给车转角轨道 | - | - |
+| trap_529_xb2trk | 补给车直行轨道 | - | - |
+| trap_530_xb2gtr | 埋没金属箱 | - | - |
+| trap_531_xb2str | 宝刺金属箱 | - | - |
+| trap_532_xb2shb | 灌木丛 | - | - |
+| trap_534_xb2cmu | 通讯基站 | - | - |
+| trap_535_xb2fbw | 建材加工台 | - | - |
+| trap_536_xb2fbw2 | 毛线加工台 | - | - |
+| trap_537_xb2fbs | 干亚麻加工台 | - | - |
+| trap_538_xb2fbs2 | 稻谷加工台 | - | - |
+| trap_539_xb2fbi | 羽兽蛋加工台 | - | - |
+| trap_540_xb2fbi2 | 皮毛加工台 | - | - |
+| trap_541_xb2rgw | 杂木林再生站 | - | - |
+| trap_542_xb2rgs | 巨大岩石再生站 | - | - |
+| trap_543_xb2rgi | 奇异矿脉再生站 | - | - |
+| trap_544_xb2fmr | 稻谷种植槽 | - | - |
+| trap_545_xb2fmf | 亚麻种植槽 | - | - |
+| trap_546_xb2fmr2 | 稻谷幼苗 | - | - |
+| trap_547_xb2fmf2 | 亚麻幼苗 | - | - |
+| trap_548_xb2spk | 营养液喷洒器 | - | - |
+| trap_549_xb2pwr | 动力补给站 | - | - |
+| trap_550_xb2ltr | 引雷针 | - | - |
+| trap_551_xb2fnc | 小型兽栏 | - | - |
+| trap_552_xb2fnc2 | 大型兽栏 | - | - |
+| trap_553_xb2wfty | 蟹蟹抽水泵 | - | - |
+| trap_555_xb2cbp | 蟹笼 | - | - |
+| trap_556_xb2cbp2 | 野生动物引诱装置 | - | - |
+| trap_557_xb2fnt | 澄澈清泉 | - | - |
+| trap_558_xb2ppt | 清幽盆栽 | - | - |
+| trap_559_xb2bch | 简约长椅 | - | - |
+| trap_560_xb2mil | 蟹壳加工台 | - | - |
+| trap_562_xb2bbq | 食品加工厂 | - | - |
+| trap_563_xb2bbq2 | 制备加工厂 | - | - |
+| trap_564_xb2txtl | 金属加工厂 | - | - |
+| trap_566_xb2chm | 石料加工厂 | - | - |
+| trap_567_xb2chm2 | 木料加工厂 | - | - |
+| trap_568_xb2wclr | 器械加工厂 | - | - |
+| trap_569_xb2wclr2 | 后勤加工厂 | - | - |
+| trap_570_xb2kln | 外勤加工厂 | - | - |
+| trap_573_xb2mdk2 | 纺织加工厂 | - | - |
+| trap_580_xb2dik | 酿造加工厂 | - | - |
+| trap_582_xb2dstr | 饮品供给站 | - | - |
+| trap_583_xb2fstr | 食品供给站 | - | - |
+| trap_584_xb2mkstr | 药品供给站 | - | - |
+| trap_585_xb2hwstr | 工具供给站 | - | - |
+| trap_586_xb2eqstr | 装备供给站 | - | - |
+| trap_587_xb2sqr | 迎风招展 | - | - |
+| trap_588_xb2ord | 道路 | - | - |
+| trap_589_xb2ocnl | 渠道 | - | - |
+| trap_590_xb2oflr | 观赏植物 | - | - |
+| trap_590_xb2oflr2 | 观赏植物 | - | - |
+| trap_590_xb2oflr3 | 观赏植物 | - | - |
+| trap_591_xb2orm | 基地建筑 | - | - |
+| trap_592_xb2orm2 | 基地设施 | - | - |
+| trap_593_xb2obdg | 基地通道 | - | - |
+| trap_594_xb2ostn | 待清理地块 | - | - |
+| trap_595_xb2otph | “基建能手” | - | - |
+| trap_595_xb2otph2 | “矢力同心” | - | - |
+| trap_595_xb2otph3 | “再度起航” | - | - |
+| trap_596_xb2obds | 基地通道中转枢纽 | - | - |
+| trap_597_xb2cage | 捕猎笼 | - | - |
+| trap_598_xb2ofmr2 | 亚麻种植槽 | - | - |
+| trap_599_xb2ofmf2 | 稻谷种植槽 | - | - |
+| trap_600_xb2ofmr | 稻谷幼苗 | - | - |
+| trap_601_xb2ofmf | 亚麻幼苗 | - | - |
+| trap_602_xb2ofnc | 小型兽栏 | - | - |
+| trap_603_xb2ofnc2 | 大型兽栏 | - | - |
+| trap_604_xb2ofb2 | 木材能源转化装置 | - | - |
+| trap_604_xb2ofb3 | 石材能源转化装置 | - | - |
+| trap_604_xb2ofb4 | 铁矿石能源转化装置 | - | - |
+| trap_606_xb2org2 | 木石能源转化装置 | - | - |
+| trap_606_xb2org3 | 石铁能源转化装置 | - | - |
+| trap_607_xb2ospk | 营养液喷洒器 | - | - |
+| trap_608_xb2ostr | 饮品供给站 | - | - |
+| trap_609_xb2opwr | 能源增幅装置 | - | - |
+| trap_609_xb2opwr2 | 高效能源增幅装置 | - | - |
+| trap_610_xb2ofnt | 澄澈清泉 | - | - |
+| trap_611_xb2oppt | 清幽盆栽 | - | - |
+| trap_612_xb2obch | 简约长椅 | - | - |
+| trap_613_xb2osqr | 迎风招展 | - | - |
+| trap_614_xb2oltr | 引雷针 | - | - |
+| trap_615_xb2osta | 补给车出发站台 | - | - |
+| trap_616_xb2osit | 补给车中转站台 | - | - |
+| trap_617_xb2otml | 补给车终点站台 | - | - |
+| trap_618_xb2fostr | 食品供给站 | - | - |
+| trap_619_xb2omkstr | 药品供给站 | - | - |
+| trap_620_xb2ohwstr | 工具供给站 | - | - |
+| trap_621_xb2flr | 荧光棒 | - | - |
+| trap_622_xb2clr | 清杂机械羽兽 | - | - |
+| trap_623_xb2fke | 埋没金属箱 | - | - |
+| trap_624_xb2mtr | Mon3tr | - | - |
+| trap_625_xb2smy | Stormeye | - | - |
+| trap_626_xb2tex | Thermal-EX | - | - |
+| trap_627_xb2amy | 阿米娅 | - | - |
+| trap_628_xb2cls | 可露希尔 | - | - |
+| trap_629_xb2frt | 高台工事 | - | - |
+| trap_630_xb2als | 简易弩台 | - | - |
+| trap_631_xb2ach | 持弓罗德岛男干员 | - | - |
+| trap_632_xb2oeqstr | 装备供给站 | - | - |
+| trap_633_xb2otrk | 补给车直行轨道 | - | - |
+| trap_634_xb2ocrv | 补给车转角轨道 | - | - |
+| trap_635_xb2owdp | 木材处理中心 | - | - |
+| trap_636_xb2ostnp | 石材处理中心 | - | - |
+| trap_637_xb2oirnp | 铁矿石处理中心 | - | - |
+| trap_638_xb2oafkp | 核心能源基站 | - | - |
+| trap_639_xb2ohfct | 高效能源转化装置 | - | - |
+| trap_640_xbcbag2 | 猎获笼 | - | - |
 | trap_700_cdabyss | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |
 | trap_701_cdabyssa | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |
 | trap_702_cdabyssb | 阿戈尔示波器 | Ægirian Oscilloscope | エーギル式振波計 |
@@ -1395,6 +1517,7 @@ tip: 请善用浏览器的搜索功能
 | char_263_skadi@summer#3 | 驭浪 WR04 | Waverider WR04 | ウェーブライダーWR04 |
 | char_264_f12yin@boc#3 | 乌云 | Dark Cloud | 烏雲 |
 | char_264_f12yin@epoque#15 | 读者 | Book Reader | 読書家 |
+| char_264_f12yin@marthe#13 | 硬派速度 | - | - |
 | char_265_sophia@epoque#11 | 荣耀之紫 | Glory Purple | グローリーパープル |
 | char_271_spikes@unveiling#1 | 危险邀约 | Dangerous Invitation | 危険な誘い |
 | char_271_spikes@winter#2 | 随性 | Casual | 気儘 |
@@ -3274,6 +3397,21 @@ tip: 请善用浏览器的搜索功能
 | enemy_7056_xbsmiz | 香草翼兽 | Vanillawing | 香草翼獣 |
 | enemy_7057_xbrok | 游砂兽 | Quicksand Beast | 遊砂獣 |
 | enemy_7059_xbrokz | 游砂兽 | Quicksand Beast | 遊砂獣 |
+| enemy_7063_xbchpy | 绒绒兽 | - | - |
+| enemy_7064_xbostrch | 啄奔羽兽 | - | - |
+| enemy_7065_xbpnst | 拟树虫 | - | - |
+| enemy_7066_xbpffr | 噪鳞 | - | - |
+| enemy_7067_xbcrag | 遗落的岩石像 | - | - |
+| enemy_7068_xbchst | 宝箱寄居磐蟹 | - | - |
+| enemy_7069_xbtrkg | 巨型拟树虫 | - | - |
+| enemy_7070_xbrckg | 遗落的巨型岩石像 | - | - |
+| enemy_7071_xbfiry | 灵绒兽 | - | - |
+| enemy_7072_xbfrog | 狂噪鳞 | - | - |
+| enemy_7073_xblcst | 震风虫 | - | - |
+| enemy_7074_xbtamr | 流浪驯兽师 | - | - |
+| enemy_7075_xbthdr | 被通缉的研究员 | - | - |
+| enemy_7076_xbthrd | 怪异引雷装置 | - | - |
+| enemy_7077_xbicdg | 冰翼兽 | - | - |
 | enemy_8001_flmlod | 熔戈者，护王余火 | Sverdsmeltr, Guardian Ember of the King | スヴェルドメルター、王を守る余炎 |
 | enemy_8001_flmlod_2 | 熔戈者，护王余火 | Sverdsmeltr, Guardian Ember of the King | スヴェルドメルター、王を守る余炎 |
 | enemy_8001_flmlod_3 | 熔戈者，护王余火 | Sverdsmeltr, Guardian Ember of the King | スヴェルドメルター、王を守る余炎 |
@@ -4464,6 +4602,7 @@ Event | なないろのお茶会 |
 | itempack_stickers_rog4 | 贴纸包/无终奇语 | - | - |
 | itempack_stickers_rog5 | 贴纸包/界园志异 | - | - |
 | itempack_stickers_sand1 | 贴纸包/沙洲遗闻 | - | - |
+| itempack_stickers_sand2 | 贴纸包/重启锚点 | - | - |
 | main16_spitem_1 | 暗淡的源石 | - | - |
 | main16_spitem_2 | 无主的矿灯 | - | - |
 | main16_spitem_3 | 涂改的旗帜 | - | - |
@@ -4968,6 +5107,7 @@ Event | なないろのお茶会 |
 | rogue_5_token_bp | 迷路幼伥 | - | - |
 | rogue_5_token_grow | 失落智识 | - | - |
 | sandbox_1_tokencoin | 繁荣点数 | Prosperity Point | 繁栄ポイント |
+| sandbox_2_tokencoin | 任务验收单 | - | - |
 | so_char_exp_1 | 特勤作战记录 | - | - |
 | tier1_caster | 术师信物复制品 | Replicated Caster Token | ★1術師の印 |
 | tier1_guard | 近卫信物复制品 | Replicated Guard Token | ★1前衛の印 |
@@ -5320,6 +5460,7 @@ Event | なないろのお茶会 |
 | SPECIAL_65_0_5 | 定向甄选 | - | - |
 | SPECIAL_67_0_3 | 定向甄选 | - | - |
 | SPECIAL_70_0_3 | 定向甄选 | - | - |
+| SPECIAL_73_0_3 | 定向甄选 | - | - |
 | _ATTAIN_15_2_1 | - | Celebrate & Recollect | ロドスの道のり　回顧 |
 | _ATTAIN_22_1_2 | - | Celebration & Link-Up | ロドスの道のり・邂逅 |
 | _ATTAIN_28_0_2 | - | Celebration & Vista | ロドスの道のり・展望 |
@@ -7028,6 +7169,103 @@ Event | なないろのお茶会 |
 | sktok_wpnsts_2 | 拉特兰式冰淇淋 | Laterano-Style Gelato | ジェラート供給 |
 | sktok_wulfen_1 | “驱兽专用” | 'For Scaring Beasts' | 「害獣専用」 |
 | sktok_wulfen_2 | “顽石专用” | 'For Stubborn Rocks' | 「硬石専用」 |
+| sktok_xb2als_1 | 射箭 | - | - |
+| sktok_xb2bas_1 | 采集 | - | - |
+| sktok_xb2bbq2_1 | 加工 | - | - |
+| sktok_xb2bbq_1 | 加工 | - | - |
+| sktok_xb2bch_1 | 矗立 | - | - |
+| sktok_xb2brd | 供奉 | - | - |
+| sktok_xb2brh_1 | 采集 | - | - |
+| sktok_xb2cage_1 | 捕获 | - | - |
+| sktok_xb2cbp_1 | 产蟹 | - | - |
+| sktok_xb2chm2_1 | 加工 | - | - |
+| sktok_xb2chm_1 | 加工 | - | - |
+| sktok_xb2clr | 清理 | - | - |
+| sktok_xb2cmp | 触发对话 | - | - |
+| sktok_xb2cmp_2 | 触发对话 | - | - |
+| sktok_xb2cve | 生成 | - | - |
+| sktok_xb2dik_1 | 加工 | - | - |
+| sktok_xb2dor_1 | 触发对话 | - | - |
+| sktok_xb2dstr_1 | 供给 | - | - |
+| sktok_xb2eqstr_1 | 供给 | - | - |
+| sktok_xb2fbi2_1 | 加工 | - | - |
+| sktok_xb2fbi_1 | 加工 | - | - |
+| sktok_xb2fbs2_1 | 加工 | - | - |
+| sktok_xb2fbs_1 | 加工 | - | - |
+| sktok_xb2fbw2_1 | 加工 | - | - |
+| sktok_xb2fbw_1 | 加工 | - | - |
+| sktok_xb2fke | 偷袭 | - | - |
+| sktok_xb2fnt_1 | 喷涌 | - | - |
+| sktok_xb2fostr | 建设 | - | - |
+| sktok_xb2fstr_1 | 供给 | - | - |
+| sktok_xb2hwstr_1 | 供给 | - | - |
+| sktok_xb2kln_1 | 加工 | - | - |
+| sktok_xb2mdk2_1 | 加工 | - | - |
+| sktok_xb2mil_1 | 加工 | - | - |
+| sktok_xb2mkstr_1 | 供给 | - | - |
+| sktok_xb2oafkp | 建设 | - | - |
+| sktok_xb2obch | 建设 | - | - |
+| sktok_xb2obdg | 建设 | - | - |
+| sktok_xb2obds | 建设 | - | - |
+| sktok_xb2ocnl | 建设 | - | - |
+| sktok_xb2ocrv | 建设 | - | - |
+| sktok_xb2oeqstr | 建设 | - | - |
+| sktok_xb2ofb2 | 建设 | - | - |
+| sktok_xb2ofb3 | 建设 | - | - |
+| sktok_xb2ofb4 | 建设 | - | - |
+| sktok_xb2oflr | 建设 | - | - |
+| sktok_xb2oflr2 | 建设 | - | - |
+| sktok_xb2oflr3 | 建设 | - | - |
+| sktok_xb2ofmf | 建设 | - | - |
+| sktok_xb2ofmf2 | 建设 | - | - |
+| sktok_xb2ofmr | 建设 | - | - |
+| sktok_xb2ofmr2 | 建设 | - | - |
+| sktok_xb2ofnc | 建设 | - | - |
+| sktok_xb2ofnc2 | 建设 | - | - |
+| sktok_xb2ofnt | 建设 | - | - |
+| sktok_xb2ohfct | 建设 | - | - |
+| sktok_xb2ohwstr | 建设 | - | - |
+| sktok_xb2oirnp | 建设 | - | - |
+| sktok_xb2oltr | 建设 | - | - |
+| sktok_xb2omkstr | 建设 | - | - |
+| sktok_xb2onf_1 | 触发对话 | - | - |
+| sktok_xb2onf_2 | 强化 | - | - |
+| sktok_xb2onf_3 | 强化 | - | - |
+| sktok_xb2onf_4 | 强化 | - | - |
+| sktok_xb2oppt | 建设 | - | - |
+| sktok_xb2opwr | 建设 | - | - |
+| sktok_xb2opwr2 | 建设 | - | - |
+| sktok_xb2ord | 建设 | - | - |
+| sktok_xb2org2 | 建设 | - | - |
+| sktok_xb2org3 | 建设 | - | - |
+| sktok_xb2orm | 建设 | - | - |
+| sktok_xb2orm2 | 建设 | - | - |
+| sktok_xb2osit | 建设 | - | - |
+| sktok_xb2ospk | 建设 | - | - |
+| sktok_xb2osqr | 建设 | - | - |
+| sktok_xb2osta_1 | 发车 | - | - |
+| sktok_xb2ostnp | 建设 | - | - |
+| sktok_xb2ostr | 建设 | - | - |
+| sktok_xb2otml | 建设 | - | - |
+| sktok_xb2otph | 建设 | - | - |
+| sktok_xb2otph2 | 建设 | - | - |
+| sktok_xb2otph3 | 建设 | - | - |
+| sktok_xb2otrk | 建设 | - | - |
+| sktok_xb2owdp | 建设 | - | - |
+| sktok_xb2ppt_1 | 摇摆 | - | - |
+| sktok_xb2pwr_1 | 供能 | - | - |
+| sktok_xb2rgi_1 | 再生 | - | - |
+| sktok_xb2rgs_1 | 再生 | - | - |
+| sktok_xb2rgw_1 | 再生 | - | - |
+| sktok_xb2sit_1 | 路过 | - | - |
+| sktok_xb2sqr_1 | 飘扬 | - | - |
+| sktok_xb2sta_1 | 发车 | - | - |
+| sktok_xb2tml_1 | 路过 | - | - |
+| sktok_xb2txtl_1 | 加工 | - | - |
+| sktok_xb2wclr2_1 | 加工 | - | - |
+| sktok_xb2wclr_1 | 加工 | - | - |
+| sktok_xb2wdo | 变化 | - | - |
+| sktok_xb2wfty_1 | 采水 | - | - |
 | sktok_xbaarm | 支持 | Support | 支援 |
 | sktok_xbaaro | 岩锤 | Rock Hammer | ロックハンマー |
 | sktok_xbaask | 炫耀 | Dazzle | 自慢 |
@@ -7054,6 +7292,7 @@ Event | なないろのお茶会 |
 | sktok_xbcage | 捕获 | Capture | 捕獲 |
 | sktok_xbcanoe | 放置平台 | Deployment Platform | ボード設置 |
 | sktok_xbcbag | 释放猎获 | Release the Prey | 獲物解放 |
+| sktok_xbcbag2 | 小角跳兽 | - | - |
 | sktok_xbcp | 检查点 | Checkpoint | チェックポイント |
 | sktok_xbdiam | 可采集 | Gatherable | 採取可能 |
 | sktok_xbdrill | 采集 | Gather | 採取 |

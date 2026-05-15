@@ -492,6 +492,7 @@ tip: 请善用浏览器的搜索功能
 |   | 瑟奇亚克 | Szewczyk | ユスティナ |
 |   | 表情冰冷的骑士 | Zola | 無表情な戦士 |
 | avg_433_windft_1 | 小甘特 | Gantt Jr. | ガント |
+|   | 掠风 |   |   |
 | avg_437_mizuki_1 | 水月 | Mizuki | ミヅキ |
 | avg_437_mizukisummer_1 | 水月 | Mizuki | ミヅキ |
 | avg_440_pinecn_1 | 松果 | Pinecone | パインコーン |
@@ -816,26 +817,27 @@ tip: 请善用浏览器的搜索功能
 |   | 干员迪伦 | Masked Man | フレッド |
 |   | 平静的干员 | Masked Rhodes Island Operator | ホーク |
 |   | 格瑞斯 | Navigator B | マスク姿の変わり者 |
-|   | 疲惫的罗德岛干员 | Occphen | ロドスのオペレーター |
-|   | 砂轮 | Office Operator | ロドスオペレーター |
-|   | 精金 | Office Operator A | ロドスオペレーターB |
-|   | 罗德岛外勤干员 | Operator Barty | ロドス前衛オペレーター |
-|   | 罗德岛外勤干员B | Operator Dylan | ロドス外勤オペレーター |
-|   | 罗德岛工程干员 | Operator Fred | 事務所オペレーター |
-|   | 罗德岛干员 | Operator Saren | 事務所オペレーターA |
-|   | 罗德岛干员B | Operator Straightedge | 前衛オペレーター |
-|   | 罗德岛近卫干员 | Pilot | 前衛オペレーターA |
-|   | 羞涩的干员 | Rhodes Island Engineer | 外勤オペレーター |
-|   | 苦根 | Rhodes Island Field Operator | 外勤オペレーターB |
-|   | 蒙着脸的罗德岛干员 | Rhodes Island Field Operator B | 実習オペレーターA |
-|   | 蒙面怪人 | Rhodes Island Field Personnel | 後方支援オペレーター |
-|   | 达里奥 | Rhodes Island Guard | 恥ずかしがるオペレーター |
-|   | 近卫干员 | Rhodes Island Operator | 支援オペレーター |
-|   | 近卫干员A | Rhodes Island Operator B | 支援オペレーターA |
-|   | 迪伦 | Sandwheel | 疲弊したオペレーター |
-|   | 霍克 | Shy Operator | 穏やかなオペレーター |
-|   | 领航员B | Tired Rhodes Island Operator | 覆面のオペレーター |
-|   | 飞行员 | Vanguard Operator A | 運転手 |
+|   | 浇水的人事部干员 | Occphen | ロドスのオペレーター |
+|   | 疲惫的罗德岛干员 | Office Operator | ロドスオペレーター |
+|   | 砂轮 | Office Operator A | ロドスオペレーターB |
+|   | 精金 | Operator Barty | ロドス前衛オペレーター |
+|   | 罗德岛外勤干员 | Operator Dylan | ロドス外勤オペレーター |
+|   | 罗德岛外勤干员B | Operator Fred | 事務所オペレーター |
+|   | 罗德岛工程干员 | Operator Saren | 事務所オペレーターA |
+|   | 罗德岛干员 | Operator Straightedge | 前衛オペレーター |
+|   | 罗德岛干员B | Pilot | 前衛オペレーターA |
+|   | 罗德岛近卫干员 | Rhodes Island Engineer | 外勤オペレーター |
+|   | 羞涩的干员 | Rhodes Island Field Operator | 外勤オペレーターB |
+|   | 苦根 | Rhodes Island Field Operator B | 実習オペレーターA |
+|   | 蒙着脸的罗德岛干员 | Rhodes Island Field Personnel | 後方支援オペレーター |
+|   | 蒙面怪人 | Rhodes Island Guard | 恥ずかしがるオペレーター |
+|   | 达里奥 | Rhodes Island Operator | 支援オペレーター |
+|   | 近卫干员 | Rhodes Island Operator B | 支援オペレーターA |
+|   | 近卫干员A | Sandwheel | 疲弊したオペレーター |
+|   | 迪伦 | Shy Operator | 穏やかなオペレーター |
+|   | 霍克 | Tired Rhodes Island Operator | 覆面のオペレーター |
+|   | 领航员B | Vanguard Operator A | 運転手 |
+|   | 飞行员 |   |   |
 |   | 驾驶员 |   |   |
 | avg_npc_013 | 线人 | Informant | スラム住民 |
 |   | 贫民区居民 | Slum Dweller | ファー |
@@ -1075,10 +1077,10 @@ tip: 请善用浏览器的搜索功能
 |   |   | Lava.. |   |
 | avg_npc_045 | 吉安娜 | Dora | ジェンナ |
 |   | 小女孩 | Dora.. | ドーラ |
-|   | 朵拉 | Gianna | ローラ |
-|   | 洛拉 | Lara | 女の子 |
-|   | 胆小的孩子 | Little Girl | 臆病な子供 |
-|   |   | Timid Child |   |
+|   | 开心的病人 | Gianna | ローラ |
+|   | 朵拉 | Lara | 女の子 |
+|   | 洛拉 | Little Girl | 臆病な子供 |
+|   | 胆小的孩子 | Timid Child |   |
 | avg_npc_045_nn_1 | “女巫”小敏 | Infected Girl | 「魔女」ミン |
 |   | 天真的小女孩 | Innocent Child | ピュアな女の子 |
 |   | 小女孩 | Innocent Girl | 何も知らない子供 |
@@ -1362,17 +1364,18 @@ tip: 请善用浏览器的搜索功能
 |   | 工程部新任干员 | Hawking Operator | ロドスオペレーターA |
 |   | 席琳 | Human Resources Operator | ロドストランスポーター |
 |   | 干员苏珊 | Idle Operator | 人事オペレーター |
-|   | 担忧的医疗干员 | Logistics Operator | 人事部オペレーター |
-|   | 摆摊的干员 | Medic Operator | 冷静なオペレーター |
-|   | 术师干员 | Navigator A | 医療オペレーター |
-|   | 沉稳的罗德岛干员 | Operator Susan | 外勤オペレーター |
-|   | 着急的小干员 | Rhodes Island Field Operator | 外勤オペレーターA |
-|   | 罗德岛信使 | Rhodes Island Messenger | 子供オペレーター |
-|   | 罗德岛外勤干员 | Rhodes Island Operator | 慌てるオペレーター |
-|   | 罗德岛干员 | Rhodes Island Operator A | 支援オペレーター |
-|   | 罗德岛干员A | Rookie Engineering Operator | 秘密の雑貨屋さん |
-|   | 谢莉卡 | Steady Rhodes Island Operator | 術師オペレーター |
-|   | 闲聊的干员 | Young Studying Operator | 話好きなオペレーター |
+|   | 开心的后勤部干员 | Logistics Operator | 人事部オペレーター |
+|   | 担忧的医疗干员 | Medic Operator | 冷静なオペレーター |
+|   | 摆摊的干员 | Navigator A | 医療オペレーター |
+|   | 术师干员 | Operator Susan | 外勤オペレーター |
+|   | 沉稳的罗德岛干员 | Rhodes Island Field Operator | 外勤オペレーターA |
+|   | 着急的小干员 | Rhodes Island Messenger | 子供オペレーター |
+|   | 罗德岛信使 | Rhodes Island Operator | 慌てるオペレーター |
+|   | 罗德岛外勤干员 | Rhodes Island Operator A | 支援オペレーター |
+|   | 罗德岛干员 | Rookie Engineering Operator | 秘密の雑貨屋さん |
+|   | 罗德岛干员A | Steady Rhodes Island Operator | 術師オペレーター |
+|   | 谢莉卡 | Young Studying Operator | 話好きなオペレーター |
+|   | 闲聊的干员 |   |   |
 |   | 领航员A |   |   |
 | avg_npc_089 | 侦察干员 | Field Operator | シュレッダー |
 |   | 办事处干员B | Hank | チャード |
@@ -1438,8 +1441,9 @@ tip: 请善用浏览器的搜索功能
 |   | 年迈的谢拉格人 | Old Woman | ルーバ |
 |   | 担忧的老人 | Sani | 婦人 |
 |   | 畏缩的老人 | Ursus Civilian | 老人 |
-|   | 盲眼的老人 | Woman | 老婦人 |
-|   | 纽扣店裁缝 |   | 通りすがりの老婦 |
+|   | 病人 | Woman | 老婦人 |
+|   | 盲眼的老人 |   | 通りすがりの老婦 |
+|   | 纽扣店裁缝 |   |   |
 |   | 老奶奶 |   |   |
 |   | 老妇 |   |   |
 |   | 老妇人 |   |   |
@@ -3456,7 +3460,6 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_2230_1 | 纳斯塔霞 | - | - |
 |   | 纳斯塔霞？ |   |   |
 | avg_npc_2231_1 | 威严的军人 | - | - |
-|   | 斯维特兰纳 |   |   |
 |   | 斯韦特兰纳 |   |   |
 | avg_npc_2232_1 | 恭敬的卫兵 | - | - |
 |   | 抱怨的军人 |   |   |
@@ -3630,27 +3633,28 @@ tip: 请善用浏览器的搜索功能
 |   | 餐馆店主 |   |   |
 | avg_npc_243 | 丹卡婶婶 | Apathetic Passerby | クロエ |
 |   | 伊尔莎的母亲 | Aunt Danka | ターラーの流民 |
-|   | 克洛伊 | Calm Infected | ダンカおばさん |
-|   | 和善的村民 | Calm Lady | パサード |
-|   | 和善的镇民 | Cautious Servant | メイド |
-|   | 塔拉流民 | Chloe | 優しい村人 |
-|   | 女仆 | Feeble Woman | 元気な女性患者 |
-|   | 帕萨多 | Frightened Woman | 恐れる女性 |
-|   | 平静的感染者 | Infected Citizen | 悲しげな女性 |
-|   | 忧心的女仆 | Information Broker | 情報仲介人 |
-|   | 恐惧的女性 | Kind Villager | 感染者市民 |
-|   | 悲伤的女性 | Lively Female Patient | 慌てる商人 |
-|   | 情报中间人 | Maid | 慌てる女性 |
-|   | 惊慌的商人 | Noble Sister | 憂うメイド |
-|   | 感染者市民 | Overwrought Taran Refugee | 無関心な通行人 |
-|   | 慌张的女士 | Pained Refugee | 町人B |
-|   | 漠然的路人 | Panicked Merchant | 痩せた女性 |
-|   | 痛苦的难民 | Pasado | 緊張したターラーの流民 |
-|   | 瘦弱的女人 | Sorrowful Woman | 臆病な使用人 |
-|   | 精神的女病人 | Taran Refugee | 苦しむ難民 |
-|   | 紧张的塔拉流民 | Townsfolk B | 落ち着いた女性 |
-|   | 谨小慎微的佣人 | Worried Maid | 落ち着いた感染者 |
-|   | 贵族妹妹 |   | 貴族の妹 |
+|   | 休息的荒地人 | Calm Infected | ダンカおばさん |
+|   | 克洛伊 | Calm Lady | パサード |
+|   | 和善的村民 | Cautious Servant | メイド |
+|   | 和善的镇民 | Chloe | 優しい村人 |
+|   | 塔拉流民 | Feeble Woman | 元気な女性患者 |
+|   | 女仆 | Frightened Woman | 恐れる女性 |
+|   | 帕萨多 | Infected Citizen | 悲しげな女性 |
+|   | 平静的感染者 | Information Broker | 情報仲介人 |
+|   | 忧心的女仆 | Kind Villager | 感染者市民 |
+|   | 恐惧的女性 | Lively Female Patient | 慌てる商人 |
+|   | 悲伤的女性 | Maid | 慌てる女性 |
+|   | 情报中间人 | Noble Sister | 憂うメイド |
+|   | 惊慌的商人 | Overwrought Taran Refugee | 無関心な通行人 |
+|   | 感染者市民 | Pained Refugee | 町人B |
+|   | 慌张的女士 | Panicked Merchant | 痩せた女性 |
+|   | 漠然的路人 | Pasado | 緊張したターラーの流民 |
+|   | 痛苦的难民 | Sorrowful Woman | 臆病な使用人 |
+|   | 瘦弱的女人 | Taran Refugee | 苦しむ難民 |
+|   | 精神的女病人 | Townsfolk B | 落ち着いた女性 |
+|   | 紧张的塔拉流民 | Worried Maid | 落ち着いた感染者 |
+|   | 谨小慎微的佣人 |   | 貴族の妹 |
+|   | 贵族妹妹 |   |   |
 |   | 邻居B |   |   |
 |   | 镇定的女士 |   |   |
 |   | 镇民B |   |   |
@@ -4158,6 +4162,7 @@ tip: 请善用浏览器的搜索功能
 |   | 醉酒的男人 | Wary Smuggler | 驚く住民 |
 |   | 饥饿的暴徒 |   |   |
 |   | 高个子工友 |   |   |
+|   | 高兴的荒地人 |   |   |
 | avg_npc_417_1 | 伦蒂尼姆市民 | Agitated Citizen | くたびれた住民 |
 |   | 信使 | Angry Thug | ギャリー |
 |   | 八卦的男佣 | Cafeteria Manager | トランスポーター |
@@ -4177,23 +4182,24 @@ tip: 请善用浏览器的搜索功能
 |   | 疲惫的市民 | Worked-Up Thug | 食堂管理員 |
 |   | 食堂管理员 |   |   |
 | avg_npc_418_1 | 不再愤怒的居民 | Catastrophe Messenger | すらっとした発明家 |
-|   | 伦蒂尼姆市民 | Catastrophe Messenger? | やつれた女性 |
-|   | 伦蒂尼姆市民B | Earl's Attendant | アイビー |
-|   | 伯爵侍从 | Exemplar Nurse | タメカ |
-|   | 典范军护士 | Feline | フェリーン |
-|   | 出逃的伦蒂尼姆市民 | Fleeing Londinier | ロンディニウム市民 |
-|   | 园艺店老板 | Florist | ロンディニウム市民B |
-|   | 塔梅卡 | Haggard Woman | ロンディニウム避難民 |
-|   | 天灾信使 | Hesitant Citizen | 伯爵の従者 |
-|   | 天灾信使？ | Ivy | 園芸店の店主 |
-|   | 愤怒的居民 | Lanky Inventor | 天災トランスポーター |
-|   | 慌乱的女性 | Londinium Citizen | 天災トランスポーター？ |
-|   | 憔悴的女人 | Londinium Citizen B | 慌てる女性 |
-|   | 担忧的路人 | New Teacher | 新任教師 |
-|   | 新老师 | Panicked Woman | 模範軍看護師 |
-|   | 犹豫的居民 | Sanatorium Patient | 療養所患者 |
-|   | 疗养院患者 | Strange Woman | 見知らぬ女性 |
-|   | 瘦高的发明者 | Tamika | 躊躇う住民 |
+|   | 伤愈的荒地人 | Catastrophe Messenger? | やつれた女性 |
+|   | 伦蒂尼姆市民 | Earl's Attendant | アイビー |
+|   | 伦蒂尼姆市民B | Exemplar Nurse | タメカ |
+|   | 伯爵侍从 | Feline | フェリーン |
+|   | 典范军护士 | Fleeing Londinier | ロンディニウム市民 |
+|   | 出逃的伦蒂尼姆市民 | Florist | ロンディニウム市民B |
+|   | 园艺店老板 | Haggard Woman | ロンディニウム避難民 |
+|   | 塔梅卡 | Hesitant Citizen | 伯爵の従者 |
+|   | 天灾信使 | Ivy | 園芸店の店主 |
+|   | 天灾信使？ | Lanky Inventor | 天災トランスポーター |
+|   | 愤怒的居民 | Londinium Citizen | 天災トランスポーター？ |
+|   | 慌乱的女性 | Londinium Citizen B | 慌てる女性 |
+|   | 憔悴的女人 | New Teacher | 新任教師 |
+|   | 担忧的路人 | Panicked Woman | 模範軍看護師 |
+|   | 新老师 | Sanatorium Patient | 療養所患者 |
+|   | 犹豫的居民 | Strange Woman | 見知らぬ女性 |
+|   | 疗养院患者 | Tamika | 躊躇う住民 |
+|   | 瘦高的发明者 |   |   |
 |   | 艾维 |   |   |
 |   | 菲林 |   |   |
 |   | 贝琳 |   |   |
@@ -4822,7 +4828,8 @@ tip: 请善用浏览器的搜索功能
 |   | 小克鲁斯 | Maimed Citizen | 瀕死のターラー人 |
 |   | 悲伤的士兵 | Reunion Member | 負傷したターラー人 |
 |   | 整合运动成员 | Tear-Streaked Passerby | 負傷した流民 |
-|   | 重伤的市民 | Wounded Taran | 重傷の市民 |
+|   | 疗伤的荒地人 | Wounded Taran | 重傷の市民 |
+|   | 重伤的市民 |   |   |
 | avg_npc_750_1 | 随从艾露猫 | Palico | オトモアイルー |
 | avg_npc_751_1 | 工匠猫 | Felyne Artisan | 奇妙な生物（黄） |
 |   | 黄色的奇怪生物 | Strange Yellow Creature | 鍛冶屋アイルー |
@@ -5137,38 +5144,48 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_969_1 | 艾尔启 | Arges | アルゲス |
 | avg_npc_970_1 | 司机 | Engineering Department Intern Operator | エンジニアオペレーター |
 |   | 工程干员 | Engineering Operator | エンジニア部オペレーター |
-|   | 工程部实习干员 | Measuring Cup | エンジニア部実習オペレーター |
-|   | 工程部干员 |   | メジャーカップ |
+|   | 工程干员A | Measuring Cup | エンジニア部実習オペレーター |
+|   | 工程部实习干员 |   | メジャーカップ |
+|   | 工程部干员 |   |   |
 |   | 工程部干员A |   |   |
+|   | 忙碌的工程部干员 |   |   |
 |   | 量杯 |   |   |
 | avg_npc_971_1 | 好奇的干员C | Curious Operator C | エンジニアオペレーター |
 |   | 工程干员 | Engineering Operator | エンジニア部オペレーター |
-|   | 工程部干员B | Rhodes Island Engineering Operator | 興味津々な人々C |
+|   | 工程干员B | Rhodes Island Engineering Operator | 興味津々な人々C |
+|   | 工程部干员 |   |   |
+|   | 工程部干员B |   |   |
 |   | 罗德岛工程部干员 |   |   |
+|   | 辛苦的工程部干员 |   |   |
 | avg_npc_972_1 | 人事干员 | Curious Operator B | ファロン |
 |   | 人事部干员 | Fallon | ロドストランスポーター |
 |   | 后勤干员 | Flustered HR Operator | 人事オペレーター |
 |   | 好奇的干员B | HR Operator | 人事部オペレーター |
 |   | 工程部干员C | Human Resources Operator | 後方支援オペレーター |
 |   | 慌张的人事干员 | Logistics Operator | 興味津々な人々B |
-|   | 法伦 | Procurement Operator | 落ち着かない人事オペレーター |
-|   | 热情的后勤干员 | Rhodes Island Landship Operator A | 購買部オペレーター |
-|   | 罗德岛信使 | Rhodes Island Messenger | 駐留オペレーターA |
+|   | 搬花的人事部干员 | Procurement Operator | 落ち着かない人事オペレーター |
+|   | 法伦 | Rhodes Island Landship Operator A | 購買部オペレーター |
+|   | 热情的后勤干员 | Rhodes Island Messenger | 駐留オペレーターA |
+|   | 罗德岛信使 |   |   |
 |   | 罗德岛干员 |   |   |
 |   | 罗德岛货物管理员 |   |   |
 |   | 罗德岛驻舰干员A |   |   |
 |   | 采购干员 |   |   |
 | avg_npc_973_1 | 人事部干员 | Curious Operator A | イレイザー |
 |   | 后勤干员 | HR Operator | サンドグラス |
-|   | 好奇的干员A | Hourglass | 人事部オペレーター |
-|   | 实习干员 | Intern Operator | 実習オペレーター |
-|   | 档案室干员 | Logistics Operator | 後方支援オペレーター |
-|   | 橡皮 | Records Room Operator | 興味津々な人々A |
-|   | 沙漏 | Rhodes Island Landship Operator B | 資料担当のオペレーター |
-|   | 疑惑的干员 | Rubber | 駐留オペレーターB |
+|   | 好奇的干员 | Hourglass | 人事部オペレーター |
+|   | 好奇的干员A | Intern Operator | 実習オペレーター |
+|   | 实习干员 | Logistics Operator | 後方支援オペレーター |
+|   | 惊讶的后勤部干员 | Records Room Operator | 興味津々な人々A |
+|   | 档案室干员 | Rhodes Island Landship Operator B | 資料担当のオペレーター |
+|   | 橡皮 | Rubber | 駐留オペレーターB |
+|   | 沙漏 |   |   |
+|   | 疑惑的干员 |   |   |
 |   | 罗德岛驻舰干员B |   |   |
-| avg_npc_974_1 | 激动的病人 | Agitated Patient | 激情する感染者 |
-| avg_npc_975_1 | 尝试克制的病人 | Level-Headed Patient | 冷静を装う感染者 |
+| avg_npc_974_1 | 劳累的病人 | Agitated Patient | 激情する感染者 |
+|   | 激动的病人 |   |   |
+| avg_npc_975_1 | 安静的病人 | Level-Headed Patient | 冷静を装う感染者 |
+|   | 尝试克制的病人 |   |   |
 | avg_npc_976_1 | 男孩 | Boy | 男の子 |
 |   | 穿病号服的男孩 | Mischievous Child | 腕白な子供 |
 |   | 艾文 |   |   |
@@ -5301,10 +5318,10 @@ tip: 请善用浏览器的搜索功能
 |   | 医疗部干员 | Logistics Worker | ロドス医療オペレーター |
 |   | 后勤工作人员 | Medic | 人事オペレーター |
 |   | 后勤干员 | Medic Operator | 人事部オペレーター |
-|   | 急匆匆的人事干员 | Medical Department Operator | 医療オペレーター |
-|   | 罗德岛医疗干员 | Rhodes Island Medic Operator | 医療部オペレーター |
-|   | 罗德岛干员 | Rhodes Island Operator | 急いでいる人事オペレーター |
-|   |   |   | 支援オペレーター |
+|   | 后勤部干员 | Medical Department Operator | 医療オペレーター |
+|   | 急匆匆的人事干员 | Rhodes Island Medic Operator | 医療部オペレーター |
+|   | 罗德岛医疗干员 | Rhodes Island Operator | 急いでいる人事オペレーター |
+|   | 罗德岛干员 |   | 支援オペレーター |
 | char_017_homura_3 | 煌 | Blaze | ブレイズ |
 |   |   |   | ホァン |
 | char_017_homura_summer | 煌 | Blaze | ブレイズ |
