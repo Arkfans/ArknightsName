@@ -1037,6 +1037,15 @@
     "ja_JP": "安息の地",
     "zh_CN": "息止安所"
   },
+  "act42sre_zone1": {
+    "zh_CN": "瞻望圣堂"
+  },
+  "act42sre_zone2": {
+    "zh_CN": "谒见神祇"
+  },
+  "act42sre_zone3": {
+    "zh_CN": "息止安所"
+  },
   "act43side_zone1": {
     "en_US": "Performance Begins",
     "ja_JP": "幕を上げる",
@@ -1568,6 +1577,15 @@
   },
   "permanent_sidestory_31_zone2": {
     "zh_CN": "将熄的火"
+  },
+  "permanent_sidestory_32_zone1": {
+    "zh_CN": "瞻望圣堂"
+  },
+  "permanent_sidestory_32_zone2": {
+    "zh_CN": "谒见神祇"
+  },
+  "permanent_sidestory_32_zone3": {
+    "zh_CN": "息止安所"
   },
   "permanent_sidestory_3_zone1": {
     "en_US": "Downtown",

@@ -12889,6 +12889,12 @@
       "zh_CN": "暮星安魂曲"
     }
   },
+  "char_4194_rmixer@boc#12": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "天穹肇始"
+    }
+  },
   "char_4195_radian@game#8": {
     "type": "SKIN",
     "names": {
@@ -27847,6 +27853,12 @@
       "zh_CN": "品鉴泰拉魔物"
     }
   },
+  "act42sre": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "众生行记·复刻"
+    }
+  },
   "act43side": {
     "type": "ACTIVITY",
     "names": {
@@ -31801,6 +31813,12 @@
     "names": {
       "en_US": "Enlightened Pacifier",
       "ja_JP": "祝福のおしゃぶり",
+      "zh_CN": "蒙恩的奶嘴"
+    }
+  },
+  "act42side_token_pacifier_rep_1": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "蒙恩的奶嘴"
     }
   },
@@ -71318,6 +71336,24 @@
       "zh_CN": "息止安所"
     }
   },
+  "act42sre_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "瞻望圣堂"
+    }
+  },
+  "act42sre_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "谒见神祇"
+    }
+  },
+  "act42sre_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "息止安所"
+    }
+  },
   "act43side_zone1": {
     "type": "ZONE",
     "names": {
@@ -72208,6 +72244,24 @@
     "type": "ZONE",
     "names": {
       "zh_CN": "将熄的火"
+    }
+  },
+  "permanent_sidestory_32_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "瞻望圣堂"
+    }
+  },
+  "permanent_sidestory_32_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "谒见神祇"
+    }
+  },
+  "permanent_sidestory_32_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "息止安所"
     }
   },
   "permanent_sidestory_3_zone1": {

@@ -1727,6 +1727,7 @@ tip: 请善用浏览器的搜索功能
 | char_4186_tmoris@avemujica#1 | 月下执行者 | - | - |
 | char_4187_graceb@boc#11 | 追想涤尘 | - | - |
 | char_4193_lemuen@ambienceSynesthesia#7 | 暮星安魂曲 | - | - |
+| char_4194_rmixer@boc#12 | 天穹肇始 | - | - |
 | char_4195_radian@game#8 | 乱数法则 | - | - |
 | char_4202_haruka@iteration#6 | 常世之幻 | - | - |
 | char_420_flamtl@game#2 | 小健将 | Sport For All | サイバー闘技者 |
@@ -3692,6 +3693,7 @@ Event | なないろのお茶会 |
 | act42d0 | 纷争演绎 | Design of Strife | 紛争演繹 |
 | act42side | 众生行记 | The Masses' Travels | 命ある者の旅 |
 | act42sign | 品鉴泰拉魔物 | Have A Taste Of Terran Monsters | テラ魔物品評 |
+| act42sre | 众生行记·复刻 | - | - |
 | act43side | 红丝绒 | Act or Die | 緋染めのビロード |
 | act43sign | 良辰迎月签到活动 | A Good Moony Time Login Event | 嘉辰令月スタンプ |
 | act44side | 墟 | - | - |
@@ -4212,6 +4214,7 @@ Event | なないろのお茶会 |
 | act41side_token_light_rep_1 | 损坏的源石灯 | - | - |
 | act42d0_token_evaluation | 试验数据集 | Experimental Dataset | テストデータ集 |
 | act42side_token_pacifier | 蒙恩的奶嘴 | Enlightened Pacifier | 祝福のおしゃぶり |
+| act42side_token_pacifier_rep_1 | 蒙恩的奶嘴 | - | - |
 | act43side_token_phantom | 神秘片场黑影 | Phantom of the Studio | 謎の黒い影 |
 | act44side_token_information | 闲言碎语 | - | - |
 | act44side_token_ticket | 艺人见面抽选券 | - | - |
@@ -9430,6 +9433,9 @@ Event | なないろのお茶会 |
 | act42side_zone1 | 瞻望圣堂 | A Glance at the Shrine | 聖堂を望む |
 | act42side_zone2 | 谒见神祇 | An Audience with God | 主への謁見 |
 | act42side_zone3 | 息止安所 | Rest in Peace | 安息の地 |
+| act42sre_zone1 | 瞻望圣堂 | - | - |
+| act42sre_zone2 | 谒见神祇 | - | - |
+| act42sre_zone3 | 息止安所 | - | - |
 | act43side_zone1 | 演出开始 | Performance Begins | 幕を上げる |
 | act43side_zone2 | 为戏剧，为永恒 | For Drama, For Eternity | 舞台へ、永遠へ |
 | act44side_zone1 | 不夜街区 | - | - |
@@ -9550,6 +9556,9 @@ Event | なないろのお茶会 |
 | permanent_sidestory_30_zone3 | 怅别离 | - | - |
 | permanent_sidestory_31_zone1 | 摇曳的影 | - | - |
 | permanent_sidestory_31_zone2 | 将熄的火 | - | - |
+| permanent_sidestory_32_zone1 | 瞻望圣堂 | - | - |
+| permanent_sidestory_32_zone2 | 谒见神祇 | - | - |
+| permanent_sidestory_32_zone3 | 息止安所 | - | - |
 | permanent_sidestory_3_zone1 | 下城区 | Downtown | 繁華街 |
 | permanent_sidestory_3_zone2 | 东部郊区 | Eastern Suburbs | 東部郊外 |
 | permanent_sidestory_4_zone1 | 议事高塔 | Capitol Spire | 大議事塔 |
