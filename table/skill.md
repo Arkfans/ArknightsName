@@ -157,6 +157,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_cammou_2 | 同步索敌攻击 | Synchronized Attack | 同調索敵攻撃 |
 | skchr_caper_1 | 强力击·β型 | Power Strike β | 強撃β |
 | skchr_caper_2 | 乐趣加倍 | Double the Fun | ハピネス200%！ |
+| skchr_catap2_1 | 高压回填斩 | - | - |
+| skchr_catap2_2 | 超高输出属性解放斩 | - | - |
 | skchr_catap_1 | 爆破范围提升·α型 | Blast Range Up α | 爆破範囲拡大α |
 | skchr_cathy_1 | 岁月锻打 | Wrought by Age | 歳月による鍛造 |
 | skchr_cathy_2 | 战火淬炼 | Tempered by War | 戦火の焼き入れ |
@@ -571,6 +573,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_oblvns_3 | 残月的余响 | - | - |
 | skchr_odda_1 | 火花溅射 | Sputterspark | 散火槌 |
 | skchr_odda_2 | 锻锤之力 | Hammerforce | 炎撃槌 |
+| skchr_orchd2_1 | 刚射 | - | - |
+| skchr_orchd2_2 | 飞翔瞪射 | - | - |
+| skchr_orchd2_3 | 龙之箭 | - | - |
 | skchr_otter_1 | 迷惑装置 | Bionic Device | 攪乱装置 |
 | skchr_otter_2 | 爆破回收 | Detonate and Recycle | ミーボ起爆 |
 | skchr_pallas_1 | 胜利的连击 | Strikes of Victory | 勝敗分かつ連撃 |
@@ -1238,6 +1243,10 @@ tip: 请善用浏览器的搜索功能
 | sktok_crate | 阻挡路线 | Obstruct | 進路妨害 |
 | sktok_creep | 溟痕 | Nethersea Brand | 溟痕 |
 | sktok_crsbow | 清债程序 | Debt Relief Program | 清算プログラム |
+| sktok_ctlblk | 御龙：岩甲兽 | - | - |
+| sktok_ctlrol | 御龙：反壳龟 | - | - |
+| sktok_ctlspy | 御龙：影丝蛛 | - | - |
+| sktok_ctlzog | 御龙：雷狼龙 | - | - |
 | sktok_dancdol | 剧目宣告 | Repertoire Announcement | カーテンコール |
 | sktok_dhdcr | 生成 | Generate | 生成 |
 | sktok_dhsb | 泵水 | Pump | 汲み上げ |
@@ -1450,6 +1459,10 @@ tip: 请善用浏览器的搜索功能
 | sktok_portlexi | 创生 | Creation | 創生 |
 | sktok_prison | 启动禁锢！ | Lock 'em Up! | 禁固機能起動！ |
 | sktok_pushtw | 气体爆喷 | Air Burst | ガス噴射 |
+| sktok_pycfly | 翔虫闪击 | - | - |
+| sktok_pycgp | 不完全充能反击 | - | - |
+| sktok_pycstp | 束缚铁虫丝 | - | - |
+| sktok_pyctrn | 泡影流大冲击 | - | - |
 | sktok_radian_1 | 律动线 | - | - |
 | sktok_radian_2 | 环形鳞地 | - | - |
 | sktok_radian_3 | 手牵手 | - | - |

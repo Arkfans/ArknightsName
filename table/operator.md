@@ -45,6 +45,8 @@ tip: 请善用浏览器的搜索功能
 | char_1045_svash2 | 凛御银灰 | - | - |
 | char_1046_sbell2 | 圣聆初雪 | - | - |
 | char_1047_halo2 | 溯光星源 | - | - |
+| char_1048_orchd2 | 焰狐龙梓兰 | - | - |
+| char_1049_catap2 | 雷狼龙S空爆 | - | - |
 | char_1050_chen3 | 赤刃明霄陈 | - | - |
 | char_1051_headb2 | 怒潮凛冬 | - | - |
 | char_1052_kalts2 | 凯尔希·思衡托 | - | - |
@@ -362,6 +364,7 @@ tip: 请善用浏览器的搜索功能
 | char_4212_nasti | 娜斯提 | - | - |
 | char_4213_skybx | 天空盒 | - | - |
 | char_4214_cairn | 响石 | - | - |
+| char_4215_buddy | 罗德岛隐秘队 | - | - |
 | char_421_crow | 羽毛笔 | La Pluma | ラ・プルマ |
 | char_4221_ju | 矩 | - | - |
 | char_4222_taraxa | 风絮 | - | - |

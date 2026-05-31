@@ -1086,6 +1086,9 @@
     "ja_JP": "無題の密命",
     "zh_CN": "无题密令"
   },
+  "char_281_popka@sale#18": {
+    "zh_CN": "幽然灵竹"
+  },
   "char_281_popka@witch#5": {
     "en_US": "Witch's Swing",
     "ja_JP": "魔女のブランコ",
@@ -1571,6 +1574,9 @@
     "ja_JP": "結実",
     "zh_CN": "结果"
   },
+  "char_4026_vulpis@epoque#55": {
+    "zh_CN": "失焦"
+  },
   "char_4027_heyak@ambienceSynesthesia#4": {
     "en_US": "Carriage of the Winds of Time",
     "ja_JP": "悠久の風に吹かれ",
@@ -2014,6 +2020,9 @@
     "ja_JP": "サイバー闘技者",
     "zh_CN": "小健将"
   },
+  "char_4215_buddy@mh#2": {
+    "zh_CN": "露营时间喵！"
+  },
   "char_421_crow@summer#9": {
     "en_US": "Summer Flowers FA210",
     "ja_JP": "夏の花弁FA210",
@@ -2259,6 +2268,9 @@
     "en_US": "The Bard's Tale",
     "ja_JP": "木陰の吟遊詩人",
     "zh_CN": "树影吟游"
+  },
+  "char_494_vendla@game#10": {
+    "zh_CN": "蔷薇之谜"
   },
   "char_496_wildmn@epoque#16": {
     "en_US": "Justice Maker",

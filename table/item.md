@@ -183,6 +183,7 @@ tip: 请善用浏览器的搜索功能
 | LINKAGE_TKT_GACHA_10_4801 | 特勤专家寻访凭证 | Expert Headhunting Permit | 精鋭小隊10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_5401 | 好好吃饭寻访凭证 | Have A Good Meal Headhunting Permit | 食欲満開10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_6501 | 坠梦歌谣寻访凭证 | - | - |
+| LINKAGE_TKT_GACHA_10_7401 | 弓吟空跃寻访凭证 | - | - |
 | LMTGS_COIN_1401 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_1601 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_1803 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
@@ -424,6 +425,23 @@ tip: 请善用浏览器的搜索功能
 | act4d0_intelligencepoint | 有效情报值 | Valid Intelligence Unit | 情報データ |
 | act4d5_point_kfc | KFC积分 | - | KFCポイント |
 | act4mainss_token | “厂券” | - | - |
+| act50side_melding_1 | 破碎的骨片 | - | - |
+| act50side_melding_2 | 烈竹 | - | - |
+| act50side_melding_3 | 萤虫 | - | - |
+| act50side_melding_4 | 火竹炭 | - | - |
+| act50side_melding_5 | 熔火冰晶 | - | - |
+| act50side_melding_6 | 雷狼龙的碧玉 | - | - |
+| act50side_monster_clue_1 | 怪物线索1 | - | - |
+| act50side_monster_clue_10 | 怪物线索10 | - | - |
+| act50side_monster_clue_2 | 怪物线索2 | - | - |
+| act50side_monster_clue_3 | 怪物线索3 | - | - |
+| act50side_monster_clue_4 | 怪物线索4 | - | - |
+| act50side_monster_clue_5 | 怪物线索5 | - | - |
+| act50side_monster_clue_6 | 怪物线索6 | - | - |
+| act50side_monster_clue_7 | 怪物线索7 | - | - |
+| act50side_monster_clue_8 | 怪物线索8 | - | - |
+| act50side_monster_clue_9 | 怪物线索9 | - | - |
+| act50side_special_level_unlock | 群兽入侵 | - | - |
 | act51side_token_poem | 破碎诗行 | - | - |
 | act5bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act5bossrush_relic_01 | 限压解除 | Unlimited Pressure | リミッター解除 |
@@ -848,6 +866,8 @@ tip: 请善用浏览器的搜索功能
 | p_char_1045_svash2 | 凛御银灰的信物 | - | - |
 | p_char_1046_sbell2 | 圣聆初雪的信物 | - | - |
 | p_char_1047_halo2 | 溯光星源的信物 | - | - |
+| p_char_1048_orchd2 | 焰狐龙梓兰的信物 | - | - |
+| p_char_1049_catap2 | 雷狼龙S空爆的信物 | - | - |
 | p_char_1050_chen3 | 赤刃明霄陈的信物 | - | - |
 | p_char_1051_headb2 | 怒潮凛冬的信物 | - | - |
 | p_char_1052_kalts2 | 凯尔希·思衡托的信物 | - | - |
@@ -1161,6 +1181,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4212_nasti | 娜斯提的信物 | - | - |
 | p_char_4213_skybx | 天空盒的信物 | - | - |
 | p_char_4214_cairn | 响石的信物 | - | - |
+| p_char_4215_buddy | 罗德岛隐秘队的信物 | - | - |
 | p_char_421_crow | 羽毛笔的信物 | La Pluma's Token | ラ・プルマの印 |
 | p_char_4221_ju | 矩的信物 | - | - |
 | p_char_4222_taraxa | 风絮的信物 | - | - |

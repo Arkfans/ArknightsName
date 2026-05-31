@@ -739,6 +739,12 @@
     "ja_JP": "ハピネス200%！",
     "zh_CN": "乐趣加倍"
   },
+  "skchr_catap2_1": {
+    "zh_CN": "高压回填斩"
+  },
+  "skchr_catap2_2": {
+    "zh_CN": "超高输出属性解放斩"
+  },
   "skchr_catap_1": {
     "en_US": "Blast Range Up α",
     "ja_JP": "爆破範囲拡大α",
@@ -2704,6 +2710,15 @@
     "en_US": "Hammerforce",
     "ja_JP": "炎撃槌",
     "zh_CN": "锻锤之力"
+  },
+  "skchr_orchd2_1": {
+    "zh_CN": "刚射"
+  },
+  "skchr_orchd2_2": {
+    "zh_CN": "飞翔瞪射"
+  },
+  "skchr_orchd2_3": {
+    "zh_CN": "龙之箭"
   },
   "skchr_otter_1": {
     "en_US": "Bionic Device",
@@ -5716,6 +5731,18 @@
     "ja_JP": "清算プログラム",
     "zh_CN": "清债程序"
   },
+  "sktok_ctlblk": {
+    "zh_CN": "御龙：岩甲兽"
+  },
+  "sktok_ctlrol": {
+    "zh_CN": "御龙：反壳龟"
+  },
+  "sktok_ctlspy": {
+    "zh_CN": "御龙：影丝蛛"
+  },
+  "sktok_ctlzog": {
+    "zh_CN": "御龙：雷狼龙"
+  },
   "sktok_dancdol": {
     "en_US": "Repertoire Announcement",
     "ja_JP": "カーテンコール",
@@ -6663,6 +6690,18 @@
     "en_US": "Air Burst",
     "ja_JP": "ガス噴射",
     "zh_CN": "气体爆喷"
+  },
+  "sktok_pycfly": {
+    "zh_CN": "翔虫闪击"
+  },
+  "sktok_pycgp": {
+    "zh_CN": "不完全充能反击"
+  },
+  "sktok_pycstp": {
+    "zh_CN": "束缚铁虫丝"
+  },
+  "sktok_pyctrn": {
+    "zh_CN": "泡影流大冲击"
   },
   "sktok_radian_1": {
     "zh_CN": "律动线"

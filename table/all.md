@@ -45,6 +45,8 @@ tip: 请善用浏览器的搜索功能
 | char_1045_svash2 | 凛御银灰 | - | - |
 | char_1046_sbell2 | 圣聆初雪 | - | - |
 | char_1047_halo2 | 溯光星源 | - | - |
+| char_1048_orchd2 | 焰狐龙梓兰 | - | - |
+| char_1049_catap2 | 雷狼龙S空爆 | - | - |
 | char_1050_chen3 | 赤刃明霄陈 | - | - |
 | char_1051_headb2 | 怒潮凛冬 | - | - |
 | char_1052_kalts2 | 凯尔希·思衡托 | - | - |
@@ -362,6 +364,7 @@ tip: 请善用浏览器的搜索功能
 | char_4212_nasti | 娜斯提 | - | - |
 | char_4213_skybx | 天空盒 | - | - |
 | char_4214_cairn | 响石 | - | - |
+| char_4215_buddy | 罗德岛隐秘队 | - | - |
 | char_421_crow | 羽毛笔 | La Pluma | ラ・プルマ |
 | char_4221_ju | 矩 | - | - |
 | char_4222_taraxa | 风絮 | - | - |
@@ -514,6 +517,7 @@ tip: 请善用浏览器的搜索功能
 | token_10059_nasti_nstdef | “质检专员” | - | - |
 | token_10060_nasti_nstchr | “监工专员” | - | - |
 | token_10061_nasti_nstbld | “应急承重小组” | - | - |
+| token_10063_buddy_bddg | 牙猎犬 | - | - |
 | token_10064_wang_stone1 | 棋子 | - | - |
 | token_10065_demetr_dmtpos | 牵绊 | - | - |
 | token_10066_closur_ourbase | 指挥中心 | - | - |
@@ -939,8 +943,18 @@ tip: 请善用浏览器的搜索功能
 | trap_270_spawnp | 隐蔽矿道 | - | - |
 | trap_271_fowstn | 严重污染设施 | - | - |
 | trap_272_nomstn | 阻道岩壁 | - | - |
+| trap_273_pycgp | 不完全充能反击 | - | - |
+| trap_274_pyctrn | 泡影流大冲击 | - | - |
+| trap_275_pycfly | 翔虫闪击 | - | - |
+| trap_276_pycstp | 束缚铁虫丝 | - | - |
+| trap_277_pycblk | 盘踞岩峰 | - | - |
 | trap_278_dyfgdd | 狭路相逢 | - | - |
 | trap_279_pirene | 喷泉水池 | - | - |
+| trap_280_pycfbd | 风化的碎屑 | - | - |
+| trap_281_ctlrol | 御龙：反壳龟 | - | - |
+| trap_282_ctlspy | 御龙：影丝蛛 | - | - |
+| trap_283_ctlblk | 御龙：岩甲兽 | - | - |
+| trap_284_ctlzog | 御龙：雷狼龙 | - | - |
 | trap_285_tjggt | 山脊 | - | - |
 | trap_286_tjgsd | 书刀 | - | - |
 | trap_287_baizi | 断 | - | - |
@@ -1529,6 +1543,7 @@ tip: 请善用浏览器的搜索功能
 | char_277_sqrrel@ghost#1 | 古堡清洁专家 | Cleansweeper in the Castle | 古城の掃除屋 |
 | char_278_orchid@boc#6 | 衣缕往昔 | Twines of Time | 在りし日を繕って |
 | char_279_excu@boc#1 | 无题密令 | Titleless Code | 無題の密命 |
+| char_281_popka@sale#18 | 幽然灵竹 | - | - |
 | char_281_popka@witch#5 | 魔女的秋千 | Witch's Swing | 魔女のブランコ |
 | char_282_catap@summer#17 | 悠然假日 HD66 | Holiday HD66 | ホリデーHD66 |
 | char_283_midn@boc#1 | 第七夜苏醒魔君 | Seventh Night's Awakened | 第七夜に覚醒めし魔王 |
@@ -1630,6 +1645,7 @@ tip: 请善用浏览器的搜索功能
 | char_401_elysm@summer#9 | 灿阳朝露 SDm11 | Shimmering Dew SDm11 | 炎陽煌く露SDm11 |
 | char_4023_rfalcn@epoque#52 | 三元风情 | - | - |
 | char_4025_aprot2@whirlwind#5 | 结果 | The Fruition | 結実 |
+| char_4026_vulpis@epoque#55 | 失焦 | - | - |
 | char_4027_heyak@ambienceSynesthesia#4 | 历世流风 | Carriage of the Winds of Time | 悠久の風に吹かれ |
 | char_4027_heyak@epoque#50 | 恒久祭礼 | - | - |
 | char_402_tuye@epoque#14 | 培翠 | Cultivate Vegetation | 緑化 |
@@ -1731,6 +1747,7 @@ tip: 请善用浏览器的搜索功能
 | char_4195_radian@game#8 | 乱数法则 | - | - |
 | char_4202_haruka@iteration#6 | 常世之幻 | - | - |
 | char_420_flamtl@game#2 | 小健将 | Sport For All | サイバー闘技者 |
+| char_4215_buddy@mh#2 | 露营时间喵！ | - | - |
 | char_421_crow@summer#9 | 夏卉 FA210 | Summer Flowers FA210 | 夏の花弁FA210 |
 | char_422_aurora@boc#4 | 极昼捕手 | Polar Catcher | 白夜踏破 |
 | char_423_blemsh@witch#2 | 异月灾裔 | Moon Catastrborn | 異月の災裔 |
@@ -1783,6 +1800,7 @@ tip: 请善用浏览器的搜索功能
 | char_491_humus@marthe#10 | 烈阳街景 | - | - |
 | char_492_quercu@epoque#17 | 遥乡之径 | Distant Home's Guide | 故郷は遠く |
 | char_492_quercu@witch#4 | 树影吟游 | The Bard's Tale | 木陰の吟遊詩人 |
+| char_494_vendla@game#10 | 蔷薇之谜 | - | - |
 | char_496_wildmn@epoque#16 | 正义缔造者 | Justice Maker | ジャスティスメーカー |
 | char_497_ctable@epoque#44 | 湖畔歌者 | Bard by the Lake | 湖畔に響く囀り |
 | char_497_ctable@nian#9 | 灯如昼 | Illumination That of Daylights | 灯如昼 |
@@ -2073,8 +2091,26 @@ tip: 请善用浏览器的搜索功能
 | enemy_10127_rkmbst | 异质裂兽 | - | - |
 | enemy_10127_rkmbst_2 | 异质裂兽·α | - | - |
 | enemy_10128_fearpj | “惘核” | - | - |
+| enemy_10129_pycdog | 冠鸣龙 | - | - |
+| enemy_10129_pycdog_2 | 冠鸣龙王 | - | - |
 | enemy_1012_dcross | 萨卡兹狙击手 | Sarkaz Crossbowman | サルカズ狙撃兵 |
 | enemy_1012_dcross_2 | 萨卡兹狙击组长 | Sarkaz Crossbowman Leader | サルカズ狙撃隊長 |
+| enemy_10130_pycpok | 碎壳螈
+ | - | - |
+| enemy_10130_pycpok_2 | 大名碎壳螈 | - | - |
+| enemy_10131_pycshd | 盗壳虫 | - | - |
+| enemy_10131_pycshd_2 | 横纲盗壳虫 | - | - |
+| enemy_10132_pyceat | 大喰怪 | - | - |
+| enemy_10132_pyceat_2 | 荒神大喰怪 | - | - |
+| enemy_10133_pycrol | 反壳龟 | - | - |
+| enemy_10133_pycrol_2 | 反壳龟·缚 | - | - |
+| enemy_10134_pycspy | 影丝蛛 | - | - |
+| enemy_10134_pycspy_2 | 影丝蛛·怨 | - | - |
+| enemy_10135_pycjmp | 咒鬼 | - | - |
+| enemy_10135_pycjmp_2 | 咒鬼·真 | - | - |
+| enemy_10136_pycblk | 岩甲兽 | - | - |
+| enemy_10136_pycblk_2 | 岩甲兽·咒 | - | - |
+| enemy_10137_pycvol | “异兽”熔火蜗 | - | - |
 | enemy_10138_xdsnow | 雪孩子 | - | - |
 | enemy_10138_xdsnow_2 | 雪顽童 | - | - |
 | enemy_10139_xdseal | 蓬松雪球 | - | - |
@@ -3062,6 +3098,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1570_ymgscm | 三船光平 | - | - |
 | enemy_1571_mirbst | 狂躁异质裂兽 | - | - |
 | enemy_1572_folchr | 圣愚 | - | - |
+| enemy_1573_pyczog | “雷之主” | - | - |
 | enemy_1574_xdagt | 披挂冰雪的少女 | - | - |
 | enemy_1575_xdmon | 耶拉冈德 | - | - |
 | enemy_1576_spbell | 喀兰圣女 | - | - |
@@ -3719,6 +3756,7 @@ Event | なないろのお茶会 |
 | act4pray | 际崖城惊奇墙登录活动 | Zeruertza Amazing Wall Login Event | 宝くじ
 イベント |
 | act4switch | 时光的赠礼  | - | - |
+| act50side | 泡影苍霆 | - | - |
 | act50sign | 风物留痕签到活动 | - | - |
 | act51side | 人们，我们 | - | - |
 | act51sign | 提线人偶的迎宾礼签到活动 | - | - |
@@ -3728,6 +3766,7 @@ Event | なないろのお茶会 |
 | act55sign | 感谢庆典累计签到 | - | - |
 | act56sign | 感谢庆典累计签到 | - | - |
 | act57sign | 跨年纪念签到活动 | - | - |
+| act58sign | 狩猎时光 | - | - |
 | act59sign | 七周年庆典签到活动 | - | - |
 | act5bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act5collection | 御鼓吉音限时任务 | - | - |
@@ -3995,6 +4034,7 @@ Event | なないろのお茶会 |
 | LINKAGE_TKT_GACHA_10_4801 | 特勤专家寻访凭证 | Expert Headhunting Permit | 精鋭小隊10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_5401 | 好好吃饭寻访凭证 | Have A Good Meal Headhunting Permit | 食欲満開10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_6501 | 坠梦歌谣寻访凭证 | - | - |
+| LINKAGE_TKT_GACHA_10_7401 | 弓吟空跃寻访凭证 | - | - |
 | LMTGS_COIN_1401 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_1601 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_1803 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
@@ -4236,6 +4276,23 @@ Event | なないろのお茶会 |
 | act4d0_intelligencepoint | 有效情报值 | Valid Intelligence Unit | 情報データ |
 | act4d5_point_kfc | KFC积分 | - | KFCポイント |
 | act4mainss_token | “厂券” | - | - |
+| act50side_melding_1 | 破碎的骨片 | - | - |
+| act50side_melding_2 | 烈竹 | - | - |
+| act50side_melding_3 | 萤虫 | - | - |
+| act50side_melding_4 | 火竹炭 | - | - |
+| act50side_melding_5 | 熔火冰晶 | - | - |
+| act50side_melding_6 | 雷狼龙的碧玉 | - | - |
+| act50side_monster_clue_1 | 怪物线索1 | - | - |
+| act50side_monster_clue_10 | 怪物线索10 | - | - |
+| act50side_monster_clue_2 | 怪物线索2 | - | - |
+| act50side_monster_clue_3 | 怪物线索3 | - | - |
+| act50side_monster_clue_4 | 怪物线索4 | - | - |
+| act50side_monster_clue_5 | 怪物线索5 | - | - |
+| act50side_monster_clue_6 | 怪物线索6 | - | - |
+| act50side_monster_clue_7 | 怪物线索7 | - | - |
+| act50side_monster_clue_8 | 怪物线索8 | - | - |
+| act50side_monster_clue_9 | 怪物线索9 | - | - |
+| act50side_special_level_unlock | 群兽入侵 | - | - |
 | act51side_token_poem | 破碎诗行 | - | - |
 | act5bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act5bossrush_relic_01 | 限压解除 | Unlimited Pressure | リミッター解除 |
@@ -4660,6 +4717,8 @@ Event | なないろのお茶会 |
 | p_char_1045_svash2 | 凛御银灰的信物 | - | - |
 | p_char_1046_sbell2 | 圣聆初雪的信物 | - | - |
 | p_char_1047_halo2 | 溯光星源的信物 | - | - |
+| p_char_1048_orchd2 | 焰狐龙梓兰的信物 | - | - |
+| p_char_1049_catap2 | 雷狼龙S空爆的信物 | - | - |
 | p_char_1050_chen3 | 赤刃明霄陈的信物 | - | - |
 | p_char_1051_headb2 | 怒潮凛冬的信物 | - | - |
 | p_char_1052_kalts2 | 凯尔希·思衡托的信物 | - | - |
@@ -4973,6 +5032,7 @@ Event | なないろのお茶会 |
 | p_char_4212_nasti | 娜斯提的信物 | - | - |
 | p_char_4213_skybx | 天空盒的信物 | - | - |
 | p_char_4214_cairn | 响石的信物 | - | - |
+| p_char_4215_buddy | 罗德岛隐秘队的信物 | - | - |
 | p_char_421_crow | 羽毛笔的信物 | La Pluma's Token | ラ・プルマの印 |
 | p_char_4221_ju | 矩的信物 | - | - |
 | p_char_4222_taraxa | 风絮的信物 | - | - |
@@ -5367,6 +5427,7 @@ Event | なないろのお茶会 |
 | LINKAGE_48_0_3 | 进攻·防守·战术交汇 | - | - |
 | LINKAGE_54_0_1 | 泰拉饭，呜呼，泰拉饭 | - | - |
 | LINKAGE_65_0_1 | 人偶的歌谣 | - | - |
+| LINKAGE_74_0_1 | 幽境狩人 | - | - |
 | NORM_0_1_3 | 银灰色的荣耀 | - | - |
 | NORM_10_0_1 | 雾漫荒林 | - | - |
 | NORM_10_0_3 | 雪落晨心 | - | - |
@@ -5751,6 +5812,8 @@ Event | なないろのお茶会 |
 | skchr_cammou_2 | 同步索敌攻击 | Synchronized Attack | 同調索敵攻撃 |
 | skchr_caper_1 | 强力击·β型 | Power Strike β | 強撃β |
 | skchr_caper_2 | 乐趣加倍 | Double the Fun | ハピネス200%！ |
+| skchr_catap2_1 | 高压回填斩 | - | - |
+| skchr_catap2_2 | 超高输出属性解放斩 | - | - |
 | skchr_catap_1 | 爆破范围提升·α型 | Blast Range Up α | 爆破範囲拡大α |
 | skchr_cathy_1 | 岁月锻打 | Wrought by Age | 歳月による鍛造 |
 | skchr_cathy_2 | 战火淬炼 | Tempered by War | 戦火の焼き入れ |
@@ -6165,6 +6228,9 @@ Event | なないろのお茶会 |
 | skchr_oblvns_3 | 残月的余响 | - | - |
 | skchr_odda_1 | 火花溅射 | Sputterspark | 散火槌 |
 | skchr_odda_2 | 锻锤之力 | Hammerforce | 炎撃槌 |
+| skchr_orchd2_1 | 刚射 | - | - |
+| skchr_orchd2_2 | 飞翔瞪射 | - | - |
+| skchr_orchd2_3 | 龙之箭 | - | - |
 | skchr_otter_1 | 迷惑装置 | Bionic Device | 攪乱装置 |
 | skchr_otter_2 | 爆破回收 | Detonate and Recycle | ミーボ起爆 |
 | skchr_pallas_1 | 胜利的连击 | Strikes of Victory | 勝敗分かつ連撃 |
@@ -6832,6 +6898,10 @@ Event | なないろのお茶会 |
 | sktok_crate | 阻挡路线 | Obstruct | 進路妨害 |
 | sktok_creep | 溟痕 | Nethersea Brand | 溟痕 |
 | sktok_crsbow | 清债程序 | Debt Relief Program | 清算プログラム |
+| sktok_ctlblk | 御龙：岩甲兽 | - | - |
+| sktok_ctlrol | 御龙：反壳龟 | - | - |
+| sktok_ctlspy | 御龙：影丝蛛 | - | - |
+| sktok_ctlzog | 御龙：雷狼龙 | - | - |
 | sktok_dancdol | 剧目宣告 | Repertoire Announcement | カーテンコール |
 | sktok_dhdcr | 生成 | Generate | 生成 |
 | sktok_dhsb | 泵水 | Pump | 汲み上げ |
@@ -7044,6 +7114,10 @@ Event | なないろのお茶会 |
 | sktok_portlexi | 创生 | Creation | 創生 |
 | sktok_prison | 启动禁锢！ | Lock 'em Up! | 禁固機能起動！ |
 | sktok_pushtw | 气体爆喷 | Air Burst | ガス噴射 |
+| sktok_pycfly | 翔虫闪击 | - | - |
+| sktok_pycgp | 不完全充能反击 | - | - |
+| sktok_pycstp | 束缚铁虫丝 | - | - |
+| sktok_pyctrn | 泡影流大冲击 | - | - |
 | sktok_radian_1 | 律动线 | - | - |
 | sktok_radian_2 | 环形鳞地 | - | - |
 | sktok_radian_3 | 手牵手 | - | - |
@@ -8444,6 +8518,18 @@ Event | なないろのお茶会 |
 | act4d0_03 | 斑驳 | Speckles | まだら模様 |
 | act4d0_04 | 狡诈戏法 | Sleight of Hand | 悪知恵 |
 | act4d0_05 | 延时毁灭 | Prolonged Destruction | 遅延作戦 |
+| act50side_01 | 硬壳下的胆小鬼 | - | - |
+| act50side_02 | 还我锅来！ | - | - |
+| act50side_03 | 不能掉以轻心 | - | - |
+| act50side_04 | 赤雪之兆 | - | - |
+| act50side_05 | 只能成功，不能失败 | - | - |
+| act50side_06 | 来自过去的亡魂 | - | - |
+| act50side_07 | 为什么全是死脑筋？ | - | - |
+| act50side_08 | 宿命流转，苍霆激荡 | - | - |
+| act50side_p-1 | “百兽奔行” | - | - |
+| act50side_st01 | 风沙渐起 | - | - |
+| act50side_st02 | 幻梦终醒，猎魂不息 | - | - |
+| act50side_tr01 | 狩猎太棒啦！ | - | - |
 | act51side_01 | “卡托加区欢迎你” | - | - |
 | act51side_02 | 枷锁之中 | - | - |
 | act51side_03 | 阳光照耀圣骏堡 | - | - |
@@ -9455,6 +9541,8 @@ Event | なないろのお茶会 |
 | act49side_zone3 | 待笔新篇 | - | - |
 | act4bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act4mainss_zone1 | 相变临界 | - | - |
+| act50side_zone1 | 竞逐苍霆 | - | - |
+| act50side_zone2 | 踏破泡影 | - | - |
 | act51side_zone1 | 告别天真年代 | - | - |
 | act51side_zone2 | 踏入新生黎明 | - | - |
 | act5bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
@@ -9639,6 +9727,7 @@ Event | なないろのお茶会 |
 | story_ayer_set_1_story_1 | 黄沙觅迹 | Seeker in the Sands | 黄砂の追跡 |
 | story_baslin_set_1_story_1 | 晚霞下的演奏 | Aufführung im Abendrot | 夕焼けの演奏 |
 | story_bdhkgt_set_1_story_1 | 最后的比武 | Final Tournament | 最後の比武 |
+| story_beagle_set_1_story_1 | 小队的盾牌 | - | - |
 | story_beewax_set_1_story_1 | 黄沙归途 | Trail of Sands | 黄砂の帰路 |
 | story_bena_set_1_story_1 | 简单的愿望 | The Simple Wish | 些細な願いごと |
 | story_bgsnow_set_1_story_1 | 墨迹已落 | Fallen Inktrails | インクの染み |
@@ -9798,6 +9887,7 @@ Event | なないろのお茶会 |
 | story_kirara_set_1_story_1 | 隐藏结局 | Secret Ending | 隠しエンディング |
 | story_kirara_set_2_story_1 | 无伤通关 | No-Damage Clear | ノーダメージクリア |
 | story_kjera_set_1_story_1 | 祂所关心的 | All She Cares About | 気に掛けるもの |
+| story_kroos2_set_1_story_1 | 蒙眬 | - | - |
 | story_kroos_set_1_story_1 | 苹果 | Apples | 林檎 |
 | story_lasher_set_1_story_1 | 遗失之物 | Things Left Behind | 失くし物 |
 | story_lava2_set_1_story_1 | 我们都一样 | - | - |
@@ -9934,6 +10024,7 @@ Event | なないろのお茶会 |
 | story_strong_set_2_story_1 | 关键人物 | VIP | キーパーソン |
 | story_sunbr_set_1_story_1 | 缺失的陪伴 | Lost Companion | 側にいない時間 |
 | story_sunbr_set_2_story_1 | 成长 | Growing Up | 成長 |
+| story_surfer_set_1_story_1 | 顶峰之景 | - | - |
 | story_susuro_set_1_story_1 | 专业医师 | Professional Doctor | 精鋭医師 |
 | story_svrash_set_1_story_1 | 难猜的人 | Unpredictable | 測り難き者 |
 | story_svrash_set_2_story_1 | 坚固的冰 | Unbreakable Ice | 堅固な氷 |

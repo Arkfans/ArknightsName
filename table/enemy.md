@@ -265,8 +265,26 @@ tip: 请善用浏览器的搜索功能
 | enemy_10127_rkmbst | 异质裂兽 | - | - |
 | enemy_10127_rkmbst_2 | 异质裂兽·α | - | - |
 | enemy_10128_fearpj | “惘核” | - | - |
+| enemy_10129_pycdog | 冠鸣龙 | - | - |
+| enemy_10129_pycdog_2 | 冠鸣龙王 | - | - |
 | enemy_1012_dcross | 萨卡兹狙击手 | Sarkaz Crossbowman | サルカズ狙撃兵 |
 | enemy_1012_dcross_2 | 萨卡兹狙击组长 | Sarkaz Crossbowman Leader | サルカズ狙撃隊長 |
+| enemy_10130_pycpok | 碎壳螈
+ | - | - |
+| enemy_10130_pycpok_2 | 大名碎壳螈 | - | - |
+| enemy_10131_pycshd | 盗壳虫 | - | - |
+| enemy_10131_pycshd_2 | 横纲盗壳虫 | - | - |
+| enemy_10132_pyceat | 大喰怪 | - | - |
+| enemy_10132_pyceat_2 | 荒神大喰怪 | - | - |
+| enemy_10133_pycrol | 反壳龟 | - | - |
+| enemy_10133_pycrol_2 | 反壳龟·缚 | - | - |
+| enemy_10134_pycspy | 影丝蛛 | - | - |
+| enemy_10134_pycspy_2 | 影丝蛛·怨 | - | - |
+| enemy_10135_pycjmp | 咒鬼 | - | - |
+| enemy_10135_pycjmp_2 | 咒鬼·真 | - | - |
+| enemy_10136_pycblk | 岩甲兽 | - | - |
+| enemy_10136_pycblk_2 | 岩甲兽·咒 | - | - |
+| enemy_10137_pycvol | “异兽”熔火蜗 | - | - |
 | enemy_10138_xdsnow | 雪孩子 | - | - |
 | enemy_10138_xdsnow_2 | 雪顽童 | - | - |
 | enemy_10139_xdseal | 蓬松雪球 | - | - |
@@ -1254,6 +1272,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1570_ymgscm | 三船光平 | - | - |
 | enemy_1571_mirbst | 狂躁异质裂兽 | - | - |
 | enemy_1572_folchr | 圣愚 | - | - |
+| enemy_1573_pyczog | “雷之主” | - | - |
 | enemy_1574_xdagt | 披挂冰雪的少女 | - | - |
 | enemy_1575_xdmon | 耶拉冈德 | - | - |
 | enemy_1576_spbell | 喀兰圣女 | - | - |

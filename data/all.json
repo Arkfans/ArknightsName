@@ -307,6 +307,18 @@
       "zh_CN": "溯光星源"
     }
   },
+  "char_1048_orchd2": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "焰狐龙梓兰"
+    }
+  },
+  "char_1049_catap2": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "雷狼龙S空爆"
+    }
+  },
   "char_1050_chen3": {
     "type": "OPERATOR",
     "names": {
@@ -2789,6 +2801,12 @@
       "zh_CN": "响石"
     }
   },
+  "char_4215_buddy": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "罗德岛隐秘队"
+    }
+  },
   "char_421_crow": {
     "type": "OPERATOR",
     "names": {
@@ -3963,6 +3981,12 @@
     "type": "TOKEN",
     "names": {
       "zh_CN": "“应急承重小组”"
+    }
+  },
+  "token_10063_buddy_bddg": {
+    "type": "TOKEN",
+    "names": {
+      "zh_CN": "牙猎犬"
     }
   },
   "token_10064_wang_stone1": {
@@ -7087,6 +7111,36 @@
       "zh_CN": "阻道岩壁"
     }
   },
+  "trap_273_pycgp": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "不完全充能反击"
+    }
+  },
+  "trap_274_pyctrn": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "泡影流大冲击"
+    }
+  },
+  "trap_275_pycfly": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "翔虫闪击"
+    }
+  },
+  "trap_276_pycstp": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "束缚铁虫丝"
+    }
+  },
+  "trap_277_pycblk": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "盘踞岩峰"
+    }
+  },
   "trap_278_dyfgdd": {
     "type": "TRAP",
     "names": {
@@ -7097,6 +7151,36 @@
     "type": "TRAP",
     "names": {
       "zh_CN": "喷泉水池"
+    }
+  },
+  "trap_280_pycfbd": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "风化的碎屑"
+    }
+  },
+  "trap_281_ctlrol": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "御龙：反壳龟"
+    }
+  },
+  "trap_282_ctlspy": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "御龙：影丝蛛"
+    }
+  },
+  "trap_283_ctlblk": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "御龙：岩甲兽"
+    }
+  },
+  "trap_284_ctlzog": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "御龙：雷狼龙"
     }
   },
   "trap_285_tjggt": {
@@ -11381,6 +11465,12 @@
       "zh_CN": "无题密令"
     }
   },
+  "char_281_popka@sale#18": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "幽然灵竹"
+    }
+  },
   "char_281_popka@witch#5": {
     "type": "SKIN",
     "names": {
@@ -12169,6 +12259,12 @@
       "zh_CN": "结果"
     }
   },
+  "char_4026_vulpis@epoque#55": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "失焦"
+    }
+  },
   "char_4027_heyak@ambienceSynesthesia#4": {
     "type": "SKIN",
     "names": {
@@ -12915,6 +13011,12 @@
       "zh_CN": "小健将"
     }
   },
+  "char_4215_buddy@mh#2": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "露营时间喵！"
+    }
+  },
   "char_421_crow@summer#9": {
     "type": "SKIN",
     "names": {
@@ -13315,6 +13417,12 @@
       "en_US": "The Bard's Tale",
       "ja_JP": "木陰の吟遊詩人",
       "zh_CN": "树影吟游"
+    }
+  },
+  "char_494_vendla@game#10": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "蔷薇之谜"
     }
   },
   "char_496_wildmn@epoque#16": {
@@ -15535,6 +15643,18 @@
       "zh_CN": "“惘核”"
     }
   },
+  "enemy_10129_pycdog": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "冠鸣龙"
+    }
+  },
+  "enemy_10129_pycdog_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "冠鸣龙王"
+    }
+  },
   "enemy_1012_dcross": {
     "type": "ENEMY",
     "names": {
@@ -15549,6 +15669,96 @@
       "en_US": "Sarkaz Crossbowman Leader",
       "ja_JP": "サルカズ狙撃隊長",
       "zh_CN": "萨卡兹狙击组长"
+    }
+  },
+  "enemy_10130_pycpok": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "碎壳螈\n"
+    }
+  },
+  "enemy_10130_pycpok_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "大名碎壳螈"
+    }
+  },
+  "enemy_10131_pycshd": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "盗壳虫"
+    }
+  },
+  "enemy_10131_pycshd_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "横纲盗壳虫"
+    }
+  },
+  "enemy_10132_pyceat": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "大喰怪"
+    }
+  },
+  "enemy_10132_pyceat_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "荒神大喰怪"
+    }
+  },
+  "enemy_10133_pycrol": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "反壳龟"
+    }
+  },
+  "enemy_10133_pycrol_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "反壳龟·缚"
+    }
+  },
+  "enemy_10134_pycspy": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "影丝蛛"
+    }
+  },
+  "enemy_10134_pycspy_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "影丝蛛·怨"
+    }
+  },
+  "enemy_10135_pycjmp": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "咒鬼"
+    }
+  },
+  "enemy_10135_pycjmp_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "咒鬼·真"
+    }
+  },
+  "enemy_10136_pycblk": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "岩甲兽"
+    }
+  },
+  "enemy_10136_pycblk_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "岩甲兽·咒"
+    }
+  },
+  "enemy_10137_pycvol": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“异兽”熔火蜗"
     }
   },
   "enemy_10138_xdsnow": {
@@ -23205,6 +23415,12 @@
       "zh_CN": "圣愚"
     }
   },
+  "enemy_1573_pyczog": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“雷之主”"
+    }
+  },
   "enemy_1574_xdagt": {
     "type": "ENEMY",
     "names": {
@@ -28034,6 +28250,12 @@
       "zh_CN": "时光的赠礼 "
     }
   },
+  "act50side": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "泡影苍霆"
+    }
+  },
   "act50sign": {
     "type": "ACTIVITY",
     "names": {
@@ -28086,6 +28308,12 @@
     "type": "ACTIVITY",
     "names": {
       "zh_CN": "跨年纪念签到活动"
+    }
+  },
+  "act58sign": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "狩猎时光"
     }
   },
   "act59sign": {
@@ -30148,6 +30376,12 @@
       "zh_CN": "坠梦歌谣寻访凭证"
     }
   },
+  "LINKAGE_TKT_GACHA_10_7401": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "弓吟空跃寻访凭证"
+    }
+  },
   "LMTGS_COIN_1401": {
     "type": "ITEM",
     "names": {
@@ -31953,6 +32187,108 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "“厂券”"
+    }
+  },
+  "act50side_melding_1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "破碎的骨片"
+    }
+  },
+  "act50side_melding_2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "烈竹"
+    }
+  },
+  "act50side_melding_3": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "萤虫"
+    }
+  },
+  "act50side_melding_4": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "火竹炭"
+    }
+  },
+  "act50side_melding_5": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "熔火冰晶"
+    }
+  },
+  "act50side_melding_6": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "雷狼龙的碧玉"
+    }
+  },
+  "act50side_monster_clue_1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "怪物线索1"
+    }
+  },
+  "act50side_monster_clue_10": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "怪物线索10"
+    }
+  },
+  "act50side_monster_clue_2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "怪物线索2"
+    }
+  },
+  "act50side_monster_clue_3": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "怪物线索3"
+    }
+  },
+  "act50side_monster_clue_4": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "怪物线索4"
+    }
+  },
+  "act50side_monster_clue_5": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "怪物线索5"
+    }
+  },
+  "act50side_monster_clue_6": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "怪物线索6"
+    }
+  },
+  "act50side_monster_clue_7": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "怪物线索7"
+    }
+  },
+  "act50side_monster_clue_8": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "怪物线索8"
+    }
+  },
+  "act50side_monster_clue_9": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "怪物线索9"
+    }
+  },
+  "act50side_special_level_unlock": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "群兽入侵"
     }
   },
   "act51side_token_poem": {
@@ -35175,6 +35511,18 @@
       "zh_CN": "溯光星源的信物"
     }
   },
+  "p_char_1048_orchd2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "焰狐龙梓兰的信物"
+    }
+  },
+  "p_char_1049_catap2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "雷狼龙S空爆的信物"
+    }
+  },
   "p_char_1050_chen3": {
     "type": "ITEM",
     "names": {
@@ -37623,6 +37971,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "响石的信物"
+    }
+  },
+  "p_char_4215_buddy": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "罗德岛隐秘队的信物"
     }
   },
   "p_char_421_crow": {
@@ -40605,6 +40959,12 @@
       "zh_CN": "人偶的歌谣"
     }
   },
+  "LINKAGE_74_0_1": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "幽境狩人"
+    }
+  },
   "NORM_0_1_3": {
     "type": "POOL",
     "names": {
@@ -43322,6 +43682,18 @@
       "en_US": "Double the Fun",
       "ja_JP": "ハピネス200%！",
       "zh_CN": "乐趣加倍"
+    }
+  },
+  "skchr_catap2_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "高压回填斩"
+    }
+  },
+  "skchr_catap2_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "超高输出属性解放斩"
     }
   },
   "skchr_catap_1": {
@@ -46530,6 +46902,24 @@
       "en_US": "Hammerforce",
       "ja_JP": "炎撃槌",
       "zh_CN": "锻锤之力"
+    }
+  },
+  "skchr_orchd2_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "刚射"
+    }
+  },
+  "skchr_orchd2_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "飞翔瞪射"
+    }
+  },
+  "skchr_orchd2_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "龙之箭"
     }
   },
   "skchr_otter_1": {
@@ -51544,6 +51934,30 @@
       "zh_CN": "清债程序"
     }
   },
+  "sktok_ctlblk": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "御龙：岩甲兽"
+    }
+  },
+  "sktok_ctlrol": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "御龙：反壳龟"
+    }
+  },
+  "sktok_ctlspy": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "御龙：影丝蛛"
+    }
+  },
+  "sktok_ctlzog": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "御龙：雷狼龙"
+    }
+  },
   "sktok_dancdol": {
     "type": "SKILL",
     "names": {
@@ -53126,6 +53540,30 @@
       "en_US": "Air Burst",
       "ja_JP": "ガス噴射",
       "zh_CN": "气体爆喷"
+    }
+  },
+  "sktok_pycfly": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "翔虫闪击"
+    }
+  },
+  "sktok_pycgp": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "不完全充能反击"
+    }
+  },
+  "sktok_pycstp": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "束缚铁虫丝"
+    }
+  },
+  "sktok_pyctrn": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "泡影流大冲击"
     }
   },
   "sktok_radian_1": {
@@ -63696,6 +64134,78 @@
       "zh_CN": "延时毁灭"
     }
   },
+  "act50side_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "硬壳下的胆小鬼"
+    }
+  },
+  "act50side_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "还我锅来！"
+    }
+  },
+  "act50side_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "不能掉以轻心"
+    }
+  },
+  "act50side_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "赤雪之兆"
+    }
+  },
+  "act50side_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "只能成功，不能失败"
+    }
+  },
+  "act50side_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "来自过去的亡魂"
+    }
+  },
+  "act50side_07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "为什么全是死脑筋？"
+    }
+  },
+  "act50side_08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "宿命流转，苍霆激荡"
+    }
+  },
+  "act50side_p-1": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "“百兽奔行”"
+    }
+  },
+  "act50side_st01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "风沙渐起"
+    }
+  },
+  "act50side_st02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "幻梦终醒，猎魂不息"
+    }
+  },
+  "act50side_tr01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "狩猎太棒啦！"
+    }
+  },
   "act51side_01": {
     "type": "STAGE",
     "names": {
@@ -71474,6 +71984,18 @@
       "zh_CN": "相变临界"
     }
   },
+  "act50side_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "竞逐苍霆"
+    }
+  },
+  "act50side_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "踏破泡影"
+    }
+  },
   "act51side_zone1": {
     "type": "ZONE",
     "names": {
@@ -72902,6 +73424,12 @@
       "zh_CN": "最后的比武"
     }
   },
+  "story_beagle_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "小队的盾牌"
+    }
+  },
   "story_beewax_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -74132,6 +74660,12 @@
       "zh_CN": "祂所关心的"
     }
   },
+  "story_kroos2_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "蒙眬"
+    }
+  },
   "story_kroos_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -75190,6 +75724,12 @@
       "en_US": "Growing Up",
       "ja_JP": "成長",
       "zh_CN": "成长"
+    }
+  },
+  "story_surfer_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "顶峰之景"
     }
   },
   "story_susuro_set_1_story_1": {

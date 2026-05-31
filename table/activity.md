@@ -259,6 +259,7 @@ Event | なないろのお茶会 |
 | act4pray | 际崖城惊奇墙登录活动 | Zeruertza Amazing Wall Login Event | 宝くじ
 イベント |
 | act4switch | 时光的赠礼  | - | - |
+| act50side | 泡影苍霆 | - | - |
 | act50sign | 风物留痕签到活动 | - | - |
 | act51side | 人们，我们 | - | - |
 | act51sign | 提线人偶的迎宾礼签到活动 | - | - |
@@ -268,6 +269,7 @@ Event | なないろのお茶会 |
 | act55sign | 感谢庆典累计签到 | - | - |
 | act56sign | 感谢庆典累计签到 | - | - |
 | act57sign | 跨年纪念签到活动 | - | - |
+| act58sign | 狩猎时光 | - | - |
 | act59sign | 七周年庆典签到活动 | - | - |
 | act5bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act5collection | 御鼓吉音限时任务 | - | - |

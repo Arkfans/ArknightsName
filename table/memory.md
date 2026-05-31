@@ -36,6 +36,7 @@ tip: 请善用浏览器的搜索功能
 | story_ayer_set_1_story_1 | 黄沙觅迹 | Seeker in the Sands | 黄砂の追跡 |
 | story_baslin_set_1_story_1 | 晚霞下的演奏 | Aufführung im Abendrot | 夕焼けの演奏 |
 | story_bdhkgt_set_1_story_1 | 最后的比武 | Final Tournament | 最後の比武 |
+| story_beagle_set_1_story_1 | 小队的盾牌 | - | - |
 | story_beewax_set_1_story_1 | 黄沙归途 | Trail of Sands | 黄砂の帰路 |
 | story_bena_set_1_story_1 | 简单的愿望 | The Simple Wish | 些細な願いごと |
 | story_bgsnow_set_1_story_1 | 墨迹已落 | Fallen Inktrails | インクの染み |
@@ -195,6 +196,7 @@ tip: 请善用浏览器的搜索功能
 | story_kirara_set_1_story_1 | 隐藏结局 | Secret Ending | 隠しエンディング |
 | story_kirara_set_2_story_1 | 无伤通关 | No-Damage Clear | ノーダメージクリア |
 | story_kjera_set_1_story_1 | 祂所关心的 | All She Cares About | 気に掛けるもの |
+| story_kroos2_set_1_story_1 | 蒙眬 | - | - |
 | story_kroos_set_1_story_1 | 苹果 | Apples | 林檎 |
 | story_lasher_set_1_story_1 | 遗失之物 | Things Left Behind | 失くし物 |
 | story_lava2_set_1_story_1 | 我们都一样 | - | - |
@@ -331,6 +333,7 @@ tip: 请善用浏览器的搜索功能
 | story_strong_set_2_story_1 | 关键人物 | VIP | キーパーソン |
 | story_sunbr_set_1_story_1 | 缺失的陪伴 | Lost Companion | 側にいない時間 |
 | story_sunbr_set_2_story_1 | 成长 | Growing Up | 成長 |
+| story_surfer_set_1_story_1 | 顶峰之景 | - | - |
 | story_susuro_set_1_story_1 | 专业医师 | Professional Doctor | 精鋭医師 |
 | story_svrash_set_1_story_1 | 难猜的人 | Unpredictable | 測り難き者 |
 | story_svrash_set_2_story_1 | 坚固的冰 | Unbreakable Ice | 堅固な氷 |

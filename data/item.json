@@ -853,6 +853,9 @@
   "LINKAGE_TKT_GACHA_10_6501": {
     "zh_CN": "坠梦歌谣寻访凭证"
   },
+  "LINKAGE_TKT_GACHA_10_7401": {
+    "zh_CN": "弓吟空跃寻访凭证"
+  },
   "LMTGS_COIN_1401": {
     "en_US": "Headhunting Data Contract",
     "ja_JP": "限定契約証",
@@ -1942,6 +1945,57 @@
   },
   "act4mainss_token": {
     "zh_CN": "“厂券”"
+  },
+  "act50side_melding_1": {
+    "zh_CN": "破碎的骨片"
+  },
+  "act50side_melding_2": {
+    "zh_CN": "烈竹"
+  },
+  "act50side_melding_3": {
+    "zh_CN": "萤虫"
+  },
+  "act50side_melding_4": {
+    "zh_CN": "火竹炭"
+  },
+  "act50side_melding_5": {
+    "zh_CN": "熔火冰晶"
+  },
+  "act50side_melding_6": {
+    "zh_CN": "雷狼龙的碧玉"
+  },
+  "act50side_monster_clue_1": {
+    "zh_CN": "怪物线索1"
+  },
+  "act50side_monster_clue_10": {
+    "zh_CN": "怪物线索10"
+  },
+  "act50side_monster_clue_2": {
+    "zh_CN": "怪物线索2"
+  },
+  "act50side_monster_clue_3": {
+    "zh_CN": "怪物线索3"
+  },
+  "act50side_monster_clue_4": {
+    "zh_CN": "怪物线索4"
+  },
+  "act50side_monster_clue_5": {
+    "zh_CN": "怪物线索5"
+  },
+  "act50side_monster_clue_6": {
+    "zh_CN": "怪物线索6"
+  },
+  "act50side_monster_clue_7": {
+    "zh_CN": "怪物线索7"
+  },
+  "act50side_monster_clue_8": {
+    "zh_CN": "怪物线索8"
+  },
+  "act50side_monster_clue_9": {
+    "zh_CN": "怪物线索9"
+  },
+  "act50side_special_level_unlock": {
+    "zh_CN": "群兽入侵"
   },
   "act51side_token_poem": {
     "zh_CN": "破碎诗行"
@@ -3891,6 +3945,12 @@
   "p_char_1047_halo2": {
     "zh_CN": "溯光星源的信物"
   },
+  "p_char_1048_orchd2": {
+    "zh_CN": "焰狐龙梓兰的信物"
+  },
+  "p_char_1049_catap2": {
+    "zh_CN": "雷狼龙S空爆的信物"
+  },
   "p_char_1050_chen3": {
     "zh_CN": "赤刃明霄陈的信物"
   },
@@ -5401,6 +5461,9 @@
   },
   "p_char_4214_cairn": {
     "zh_CN": "响石的信物"
+  },
+  "p_char_4215_buddy": {
+    "zh_CN": "罗德岛隐秘队的信物"
   },
   "p_char_421_crow": {
     "en_US": "La Pluma's Token",

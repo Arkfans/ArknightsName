@@ -243,6 +243,8 @@ tip: 请善用浏览器的搜索功能
 | act49side_zone3 | 待笔新篇 | - | - |
 | act4bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act4mainss_zone1 | 相变临界 | - | - |
+| act50side_zone1 | 竞逐苍霆 | - | - |
+| act50side_zone2 | 踏破泡影 | - | - |
 | act51side_zone1 | 告别天真年代 | - | - |
 | act51side_zone2 | 踏入新生黎明 | - | - |
 | act5bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |

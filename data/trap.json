@@ -1829,11 +1829,41 @@
   "trap_272_nomstn": {
     "zh_CN": "阻道岩壁"
   },
+  "trap_273_pycgp": {
+    "zh_CN": "不完全充能反击"
+  },
+  "trap_274_pyctrn": {
+    "zh_CN": "泡影流大冲击"
+  },
+  "trap_275_pycfly": {
+    "zh_CN": "翔虫闪击"
+  },
+  "trap_276_pycstp": {
+    "zh_CN": "束缚铁虫丝"
+  },
+  "trap_277_pycblk": {
+    "zh_CN": "盘踞岩峰"
+  },
   "trap_278_dyfgdd": {
     "zh_CN": "狭路相逢"
   },
   "trap_279_pirene": {
     "zh_CN": "喷泉水池"
+  },
+  "trap_280_pycfbd": {
+    "zh_CN": "风化的碎屑"
+  },
+  "trap_281_ctlrol": {
+    "zh_CN": "御龙：反壳龟"
+  },
+  "trap_282_ctlspy": {
+    "zh_CN": "御龙：影丝蛛"
+  },
+  "trap_283_ctlblk": {
+    "zh_CN": "御龙：岩甲兽"
+  },
+  "trap_284_ctlzog": {
+    "zh_CN": "御龙：雷狼龙"
   },
   "trap_285_tjggt": {
     "zh_CN": "山脊"

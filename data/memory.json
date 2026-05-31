@@ -152,6 +152,9 @@
     "ja_JP": "最後の比武",
     "zh_CN": "最后的比武"
   },
+  "story_beagle_set_1_story_1": {
+    "zh_CN": "小队的盾牌"
+  },
   "story_beewax_set_1_story_1": {
     "en_US": "Trail of Sands",
     "ja_JP": "黄砂の帰路",
@@ -905,6 +908,9 @@
     "ja_JP": "気に掛けるもの",
     "zh_CN": "祂所关心的"
   },
+  "story_kroos2_set_1_story_1": {
+    "zh_CN": "蒙眬"
+  },
   "story_kroos_set_1_story_1": {
     "en_US": "Apples",
     "ja_JP": "林檎",
@@ -1556,6 +1562,9 @@
     "en_US": "Growing Up",
     "ja_JP": "成長",
     "zh_CN": "成长"
+  },
+  "story_surfer_set_1_story_1": {
+    "zh_CN": "顶峰之景"
   },
   "story_susuro_set_1_story_1": {
     "en_US": "Professional Doctor",

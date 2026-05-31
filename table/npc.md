@@ -57,6 +57,11 @@ tip: 请善用浏览器的搜索功能
 | avg_1045_svash2_1 | 恩希欧迪斯 | - | - |
 | avg_1046_sbell2_1 | 恩雅 | - | - |
 | avg_1047_halo2_1 | 埃琳娜 | - | - |
+| avg_1048_orchd2_1 | 冷静的猎人 | - | - |
+|   | 梓兰 |   |   |
+| avg_1049_catap2_1 | 急躁的猎人 | - | - |
+|   | 空爆 |   |   |
+| avg_1049_catap2a_1 | 空爆 | - | - |
 | avg_1050_chen3_1 | 陈 | - | - |
 |   | 陈昭芊&陈 |   |   |
 |   | 陈晖洁 |   |   |
@@ -74,6 +79,7 @@ tip: 请善用浏览器的搜索功能
 | avg_117_myrrh_1 | 末药 | Myrrh | ミルラ |
 | avg_120_hibisc_1 | 加利 | Gali | ギャリー |
 |   | 芙蓉 | Hibiscus | ハイビスカス |
+| avg_122_beagle_1 | 米格鲁 | - | - |
 | avg_123_fang_1 | 芬 | Fang | フェン |
 | avg_126_shotst_1 | 流星 | Meteor | メテオ |
 | avg_127_estell_1 | 艾丝黛尔 | Estelle | エステル |
@@ -470,6 +476,8 @@ tip: 请善用浏览器的搜索功能
 | avg_4214_cairn_1 | 奥克里 | - | - |
 |   | 奥克里？ |   |   |
 |   | 费尔南 |   |   |
+| avg_4215_buddyC_1 | 政宗 | - | - |
+| avg_4215_buddyD_1 | 义经 | - | - |
 | avg_421_crow_1 | 羽毛笔 | La Pluma | ラ・プルマ |
 | avg_421_laplum_1 | 拉菲艾拉 | Rafaela | ラファエラ |
 | avg_4221_ju_1 | 样貌奇特的工匠 | - | - |
@@ -1522,8 +1530,9 @@ tip: 请善用浏览器的搜索功能
 |   | 瑟奇亚克 | Szewczyk | 合成樹脂騎士 |
 | avg_npc_104 | 锈铜骑士 | Brassrust Knight | 錆銅騎士 |
 |   | 锈铜骑士粉丝 | Brassrust Knight Fan | 錆銅騎士のファン |
-| avg_npc_1040_1 | 蒂拉 | Blacksteel Intelligence Squad Member | BSW情報隊員 |
-|   | 黑钢情报小组成员 | Tila | ティラ |
+| avg_npc_1040_1 | 寻澜 | Blacksteel Intelligence Squad Member | BSW情報隊員 |
+|   | 蒂拉 | Tila | ティラ |
+|   | 黑钢情报小组成员 |   |   |
 | avg_npc_1041_1 | 工作人员 | Bank Manager | 銀行支店長 |
 |   | 银行经理 |   |   |
 | avg_npc_1042_1 | 佩洛 | Anxious Man | コミュニティの住民 |
@@ -1563,10 +1572,11 @@ tip: 请善用浏览器的搜索功能
 |   | 理智的黑钢佣兵 | Blacksteel Senior Operator | BSW幹部 |
 |   | 黑钢佣兵 | Blacksteel Squad Member | エンジニア部部長 |
 |   | 黑钢佣兵小队成员 | Calm Blacksteel Mercenary | 不本意な傭兵 |
-|   | 黑钢工程小队成员 | Engineering Supervisor | 冷静な傭兵 |
-|   | 黑钢干员 | Helpless Blacksteel Mercenary | 小隊メンバー |
-|   | 黑钢资深干员 | Rational Blacksteel Mercenary | 気が早い傭兵 |
-|   | 黑钢高层 | Twitchy Blacksteel Mercenary | 頭脳派の傭兵 |
+|   | 黑钢先遣队员 | Engineering Supervisor | 冷静な傭兵 |
+|   | 黑钢工程小队成员 | Helpless Blacksteel Mercenary | 小隊メンバー |
+|   | 黑钢干员 | Rational Blacksteel Mercenary | 気が早い傭兵 |
+|   | 黑钢资深干员 | Twitchy Blacksteel Mercenary | 頭脳派の傭兵 |
+|   | 黑钢高层 |   |   |
 | avg_npc_105 | 左手骑士 | Left-hand Knight | タイタス |
 |   | 泰特斯·白杨 | Tytus Topola | 左腕騎士 |
 | avg_npc_106 | 发言人恰尔内 | Czarny | チャルニー |
@@ -1831,9 +1841,11 @@ tip: 请善用浏览器的搜索功能
 |   | 工厂老板 | Foreign Merchant | 外国の豪商 |
 |   | 拍卖师 |   |   |
 |   | 谄媚的贵族 |   |   |
+|   | 高级管理人员 |   |   |
 | avg_npc_1258_1 | 风姿绰约的女人 | Elegant Woman | 優美な女性 |
 | avg_npc_1259_1 | 平静的文官 | Glorious Shield Spokesman | グローリーシールドの代弁者 |
 |   | 疲惫的工作人员 | Unperturbed Official | 冷静な文官 |
+|   | 管理人员 |   |   |
 |   | 辉煌盾发言人 |   |   |
 | avg_npc_1260_1 | 助理 | - | - |
 |   | 行政秘书 |   |   |
@@ -2012,24 +2024,25 @@ tip: 请善用浏览器的搜索功能
 |   | 受惊的农民 | Busy Farmer | 二番弟子 |
 |   | 困惑的山民 | Excavator | 山を掘る者 |
 |   | 大师兄 | Farmer | 張り詰めた村人 |
-|   | 忙碌的农民 | First Apprentice | 忙しい農家 |
-|   | 愤怒的帮众 | Frenetic Villager | 慌てる村人 |
-|   | 愤怒的村民 | Gui | 村人 |
-|   | 慌乱的村民 | Humble Worker | 激怒する村人 |
-|   | 挖山人 | Innkeeper | 町民 |
-|   | 掌柜 | Nervous Villager | 町民B |
-|   | 朴实的工人 | Passing Villager A | 畑を耕す村人 |
-|   | 朴实的樵夫 | Plowing Villager | 番頭 |
-|   | 朴实的樵夫？ | Proprietor | 石匠 |
-|   | 村民 | Rough Villager | 粗暴な町民 |
-|   | 村民乙 | Second Apprentice | 素朴な労働者 |
-|   | 激动的村民 | Stonemason | 興奮する村人 |
-|   | 热情的农人 | Street Stall Owner | 警戒した町民 |
-|   | 疲惫的农人 | Terrified Farmer | 農民 |
-|   | 石匠 | Townsfolk | 通りすがりの村人A |
-|   | 粗犷的村民 | Vigilant Villager | 露店の店主 |
-|   | 紧张的村民 | Villager | 驚く農家 |
-|   | 老木头 | Villager B |   |
+|   | 山农 | First Apprentice | 忙しい農家 |
+|   | 忙碌的农民 | Frenetic Villager | 慌てる村人 |
+|   | 愤怒的帮众 | Gui | 村人 |
+|   | 愤怒的村民 | Humble Worker | 激怒する村人 |
+|   | 慌乱的村民 | Innkeeper | 町民 |
+|   | 挖山人 | Nervous Villager | 町民B |
+|   | 掌柜 | Passing Villager A | 畑を耕す村人 |
+|   | 朴实的工人 | Plowing Villager | 番頭 |
+|   | 朴实的樵夫 | Proprietor | 石匠 |
+|   | 朴实的樵夫？ | Rough Villager | 粗暴な町民 |
+|   | 村民 | Second Apprentice | 素朴な労働者 |
+|   | 村民乙 | Stonemason | 興奮する村人 |
+|   | 激动的村民 | Street Stall Owner | 警戒した町民 |
+|   | 热情的农人 | Terrified Farmer | 農民 |
+|   | 疲惫的农人 | Townsfolk | 通りすがりの村人A |
+|   | 石匠 | Vigilant Villager | 露店の店主 |
+|   | 粗犷的村民 | Villager | 驚く農家 |
+|   | 紧张的村民 | Villager B |   |
+|   | 老木头 |   |   |
 |   | 耕作的村民 |   |   |
 |   | 街边摊老板 |   |   |
 |   | 警惕的村民 |   |   |
@@ -2232,6 +2245,7 @@ tip: 请善用浏览器的搜索功能
 |   | 狂欢节路人A | Mafioso A | 通行人A |
 |   | 狂欢节路人B | Mafioso A & B | 通行人B |
 | avg_npc_1559_1 | 救援队队长 | Reserve Guard Operator | 予備前衛オペレーター |
+|   | 预备干员 |   |   |
 |   | 预备近卫干员 |   |   |
 | avg_npc_155_1 | 芙兰卡 | Franka | フランカ |
 | avg_npc_1560_1 | 严谨的干员 | - | - |
@@ -3116,12 +3130,12 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_206_1 | 铸铁 | Sideroca | シデロカ |
 | avg_npc_207 | 不耐烦的多索雷斯警察 | Bodyguard | なまけ者ドッソレス警察官 |
 |   | 坎黛拉手下 | Candela's Subordinate | カジノのオーナー |
-|   | 市长保镖 | Casino Boss | カンデラの手下 |
-|   | 护卫 | Impatient Dossoles Police Officer | ゴマすりドッソレス警察官 |
-|   | 谄媚的多索雷斯 | Mayor's Bodyguard | 守衛 |
-|   | 谄媚的多索雷斯警察 | Toady Dossoles Police Officer | 市長のボディガード |
-|   | 赌场老板 |   | 市長のボディーガード |
-|   |   |   | 衛兵 |
+|   | 安保人员 | Casino Boss | カンデラの手下 |
+|   | 市长保镖 | Impatient Dossoles Police Officer | ゴマすりドッソレス警察官 |
+|   | 护卫 | Mayor's Bodyguard | 守衛 |
+|   | 谄媚的多索雷斯 | Toady Dossoles Police Officer | 市長のボディガード |
+|   | 谄媚的多索雷斯警察 |   | 市長のボディーガード |
+|   | 赌场老板 |   | 衛兵 |
 |   |   |   | 諂いドッソレス警察官 |
 | avg_npc_2070_1 | 赫卡德墨 | - | - |
 | avg_npc_2071_1 | 游击队员C | - | - |
@@ -3160,11 +3174,43 @@ tip: 请善用浏览器的搜索功能
 |   | 驮兽 |   |   |
 | avg_npc_209_1 | “青金” | 'Lazurite' | 「ラズライト」 |
 |   | 罗伊 | Roy | ロイ |
+| avg_npc_2100_1 | “宝巫迦” | - | - |
+|   | 宝巫迦 |   |   |
+| avg_npc_2101_1 | 宝巫迦&月见夜 | - | - |
+|   | 月见夜 |   |   |
+|   | 月见夜？ |   |   |
+| avg_npc_2102_1 | “雷之主” | - | - |
+| avg_npc_2103_1 | 扭打中的斑弥罗 | - | - |
+|   | 斑弥罗 |   |   |
+| avg_npc_2104_1 | “异兽”熔火蜗 | - | - |
+|   | 梓兰 |   |   |
+|   | 熔火蜗 |   |   |
+| avg_npc_2106_1 | 搬运的武士 | - | - |
+|   | 武士 |   |   |
+|   | 武士A |   |   |
+|   | 武士队长 |   |   |
+|   | 领头武士 |   |   |
+| avg_npc_2107_1 | 受伤的武士 | - | - |
+|   | 守卫 |   |   |
+|   | 武士 |   |   |
+|   | 武士B |   |   |
+|   | 武士们 |   |   |
+|   | 随从武士 |   |   |
+|   | 随从武士们 |   |   |
+| avg_npc_2108_1 | 泡影国百姓 | - | - |
+|   | 泡影国百姓A |   |   |
+|   | 泡影国百姓C |   |   |
+| avg_npc_2109_1 | 工坊学徒 | - | - |
+|   | 泡影国百姓B |   |   |
 | avg_npc_210_1 | 伊奥莱塔 | An Aged Knight | ラッセル |
 |   | 伊奥莱塔·罗素 | Grand Knight | 大騎士長 |
 |   | 大骑士长 | Ioleta | 老齢の騎士 |
 |   | 年长的骑士 | Ioleta Russell |   |
 |   | 罗素 | Russell |   |
+| avg_npc_2110_1 | 侍卫 | - | - |
+|   | 武士 |   |   |
+| avg_npc_2111_1 | 武士 | - | - |
+| avg_npc_2112_1 | 野兽们 | - | - |
 | avg_npc_211_1 | 发言人马克维茨 | Malkiewicz | マルキェヴィッチ |
 |   | 马克维茨 | Spokesman Malkiewicz | 代弁者マルキェヴィッチ |
 | avg_npc_2125_1 | 椿 | - | - |
@@ -3883,20 +3929,21 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_302_1 | 挑山人 | Pole-Carrier | 山の担夫 |
 | avg_npc_303_1 | 伙计 | Agitated Hawker | ほろ酔いの武人 |
 |   | 冷静观察的帮众 | Curious Passerby | リン・ユーシャの部下 |
-|   | 半酣的武人 | Feeble Apprentice | 奇妙な客 |
-|   | 可疑的镇民 | Half-Drunk Martial Artist | 店員 |
-|   | 奇怪的过客 | Hawker | 怪しい町民 |
-|   | 好奇的路人 | Lin Yühsia's Subordinate | 慌てる行商人 |
-|   | 小贩 | Odd Traveler | 無相門弟子 |
-|   | 年轻的农夫 | Sober Martial Artist | 素面の武人 |
-|   | 慌张的小贩 | Street Youth | 興味津々な市民 |
-|   | 无相拳门人 | Suspicious Townsfolk | 若い農夫 |
-|   | 林雨霞的手下 | Tavern Assistant | 茶館で休んでいる人 |
-|   | 清醒的武人 | Tavern Owner | 行商人 |
-|   | 胡君 | Teahouse Stopperby | 街の青年 |
-|   | 茶馆歇脚人 | Traceless Fist Practitioner | 軟弱な見習い |
-|   | 茶馆跑堂 | Waiter | 酒家の番頭 |
-|   | 街头青年 | Young Farmer | 酒館の店員 |
+|   | 劫匪 | Feeble Apprentice | 奇妙な客 |
+|   | 半酣的武人 | Half-Drunk Martial Artist | 店員 |
+|   | 可疑的镇民 | Hawker | 怪しい町民 |
+|   | 奇怪的过客 | Lin Yühsia's Subordinate | 慌てる行商人 |
+|   | 好奇的路人 | Odd Traveler | 無相門弟子 |
+|   | 小贩 | Sober Martial Artist | 素面の武人 |
+|   | 年轻的农夫 | Street Youth | 興味津々な市民 |
+|   | 慌张的小贩 | Suspicious Townsfolk | 若い農夫 |
+|   | 无相拳门人 | Tavern Assistant | 茶館で休んでいる人 |
+|   | 林雨霞的手下 | Tavern Owner | 行商人 |
+|   | 清醒的武人 | Teahouse Stopperby | 街の青年 |
+|   | 胡君 | Traceless Fist Practitioner | 軟弱な見習い |
+|   | 茶馆歇脚人 | Waiter | 酒家の番頭 |
+|   | 茶馆跑堂 | Young Farmer | 酒館の店員 |
+|   | 街头青年 |   |   |
 |   | 软弱的学徒 |   |   |
 |   | 酒家掌柜 |   |   |
 |   | 酒馆伙计 |   |   |
@@ -3909,6 +3956,8 @@ tip: 请善用浏览器的搜索功能
 |   | 被吓到的客人 | Teahouse Tourist | 茶館の観光客 |
 |   | 逛街的路人 | Townsfolk | 雪かきをする人 |
 |   | 镇民 |   |   |
+|   | 阿尹 |   |   |
+|   | 面色青灰的女子 |   |   |
 | avg_npc_305_1 | 凶恶的男子 | Hoodlum | チンピラ |
 |   | 可疑的路人 | Plated Fist Practitioner | ヤクザの手先 |
 |   | 奇怪的男人 | Street Loafer | 怪しい市民 |
@@ -5161,11 +5210,12 @@ tip: 请善用浏览器的搜索功能
 |   | 人事部干员 | Fallon | ロドストランスポーター |
 |   | 后勤干员 | Flustered HR Operator | 人事オペレーター |
 |   | 好奇的干员B | HR Operator | 人事部オペレーター |
-|   | 工程部干员C | Human Resources Operator | 後方支援オペレーター |
-|   | 慌张的人事干员 | Logistics Operator | 興味津々な人々B |
-|   | 搬花的人事部干员 | Procurement Operator | 落ち着かない人事オペレーター |
-|   | 法伦 | Rhodes Island Landship Operator A | 購買部オペレーター |
-|   | 热情的后勤干员 | Rhodes Island Messenger | 駐留オペレーターA |
+|   | 小卖部工作人员 | Human Resources Operator | 後方支援オペレーター |
+|   | 工程部干员C | Logistics Operator | 興味津々な人々B |
+|   | 慌张的人事干员 | Procurement Operator | 落ち着かない人事オペレーター |
+|   | 搬花的人事部干员 | Rhodes Island Landship Operator A | 購買部オペレーター |
+|   | 法伦 | Rhodes Island Messenger | 駐留オペレーターA |
+|   | 热情的后勤干员 |   |   |
 |   | 罗德岛信使 |   |   |
 |   | 罗德岛干员 |   |   |
 |   | 罗德岛货物管理员 |   |   |
@@ -5511,6 +5561,7 @@ tip: 请善用浏览器的搜索功能
 | char_271_arene_1 | 芳汀 | Arene | アレーン |
 | char_272_strong_1 | 孑 | Jaye | ジェイ |
 | char_278_orchid_1 | 梓兰 | Orchid | オーキッド |
+|   | 空爆 |   |   |
 | char_279_excu_4 | 费德里科 | Executor | イグゼキュター |
 |   | 送葬人 | Federico | フェデリコ |
 | char_281_popka_1 | 泡普卡 | Popukar | ポプカル |

@@ -1096,6 +1096,18 @@ tip: 请善用浏览器的搜索功能
 | act4d0_03 | 斑驳 | Speckles | まだら模様 |
 | act4d0_04 | 狡诈戏法 | Sleight of Hand | 悪知恵 |
 | act4d0_05 | 延时毁灭 | Prolonged Destruction | 遅延作戦 |
+| act50side_01 | 硬壳下的胆小鬼 | - | - |
+| act50side_02 | 还我锅来！ | - | - |
+| act50side_03 | 不能掉以轻心 | - | - |
+| act50side_04 | 赤雪之兆 | - | - |
+| act50side_05 | 只能成功，不能失败 | - | - |
+| act50side_06 | 来自过去的亡魂 | - | - |
+| act50side_07 | 为什么全是死脑筋？ | - | - |
+| act50side_08 | 宿命流转，苍霆激荡 | - | - |
+| act50side_p-1 | “百兽奔行” | - | - |
+| act50side_st01 | 风沙渐起 | - | - |
+| act50side_st02 | 幻梦终醒，猎魂不息 | - | - |
+| act50side_tr01 | 狩猎太棒啦！ | - | - |
 | act51side_01 | “卡托加区欢迎你” | - | - |
 | act51side_02 | 枷锁之中 | - | - |
 | act51side_03 | 阳光照耀圣骏堡 | - | - |

@@ -187,6 +187,12 @@
   "char_1047_halo2": {
     "zh_CN": "溯光星源"
   },
+  "char_1048_orchd2": {
+    "zh_CN": "焰狐龙梓兰"
+  },
+  "char_1049_catap2": {
+    "zh_CN": "雷狼龙S空爆"
+  },
   "char_1050_chen3": {
     "zh_CN": "赤刃明霄陈"
   },
@@ -1717,6 +1723,9 @@
   },
   "char_4214_cairn": {
     "zh_CN": "响石"
+  },
+  "char_4215_buddy": {
+    "zh_CN": "罗德岛隐秘队"
   },
   "char_421_crow": {
     "en_US": "La Pluma",
