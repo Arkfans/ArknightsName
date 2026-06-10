@@ -1400,6 +1400,9 @@
     "ja_JP": "デュエルクラッカー",
     "zh_CN": "争锋大礼花"
   },
+  "act1football_milestone_point": {
+    "zh_CN": "锦标积分券"
+  },
   "act1lock_point_reward": {
     "en_US": "Competition Medals",
     "ja_JP": "競技メダル",

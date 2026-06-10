@@ -7327,6 +7327,12 @@
       "zh_CN": "原型之手"
     }
   },
+  "trap_309_muctba": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "智能裁判官"
+    }
+  },
   "trap_316_ubtower": {
     "type": "TRAP",
     "names": {
@@ -12917,6 +12923,12 @@
       "en_US": "Forgemaster",
       "ja_JP": "熔冶工匠",
       "zh_CN": "熔锻铸匠"
+    }
+  },
+  "char_4171_wulfen@marthe#14": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "跃动节拍"
     }
   },
   "char_4172_xingzh@epoque#51": {
@@ -25201,6 +25213,54 @@
       "zh_CN": "“裁决者”眩光记录员"
     }
   },
+  "enemy_4060_mulinm": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "直球队击球手"
+    }
+  },
+  "enemy_4060_mulinm_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "直球队坚定击球手"
+    }
+  },
+  "enemy_4061_mulinb": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "直球队守门员"
+    }
+  },
+  "enemy_4061_mulinb_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "直球队坚定守门员"
+    }
+  },
+  "enemy_4062_muling": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "直球队击人手"
+    }
+  },
+  "enemy_4062_muling_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "直球队坚定击人手"
+    }
+  },
+  "enemy_4063_muflyb": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "充能飘浮球"
+    }
+  },
+  "enemy_4064_mupenb": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "决胜时刻球"
+    }
+  },
   "enemy_5008_cstrwd": {
     "type": "ENEMY",
     "names": {
@@ -27101,6 +27161,12 @@
       "en_US": "Nulaiteburgh Industry Cooperation Forum",
       "ja_JP": "ニューライトバーグ市産業懇談会",
       "zh_CN": "纽莱堡市产业合作洽谈会"
+    }
+  },
+  "act1football": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "阵地足球锦标"
     }
   },
   "act1lock": {
@@ -31266,6 +31332,12 @@
       "en_US": "Grand Duel Fireworks",
       "ja_JP": "デュエルクラッカー",
       "zh_CN": "争锋大礼花"
+    }
+  },
+  "act1football_milestone_point": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "锦标积分券"
     }
   },
   "act1lock_point_reward": {
@@ -59126,6 +59198,60 @@
       "zh_CN": "争锋对决！"
     }
   },
+  "act1football_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "揭幕之战"
+    }
+  },
+  "act1football_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "把握良机"
+    }
+  },
+  "act1football_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "渐入佳境"
+    }
+  },
+  "act1football_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "客场连战"
+    }
+  },
+  "act1football_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "争分夺球"
+    }
+  },
+  "act1football_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "胜负难分"
+    }
+  },
+  "act1football_07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "出线之争"
+    }
+  },
+  "act1football_s01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "耐力拉练"
+    }
+  },
+  "act1football_tr01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "首次训练"
+    }
+  },
   "act1halfidle_01": {
     "type": "STAGE",
     "names": {
@@ -64186,6 +64312,12 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "“百兽奔行”"
+    }
+  },
+  "act50side_s01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "群山震颤，百龙夜行"
     }
   },
   "act50side_st01": {
@@ -70916,6 +71048,24 @@
       "en_US": "Special Front",
       "ja_JP": "特別戦線",
       "zh_CN": "特别战线"
+    }
+  },
+  "act1football_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "晋级赛"
+    }
+  },
+  "act1football_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "淘汰赛"
+    }
+  },
+  "act1football_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "特训赛"
     }
   },
   "act1lock_zone1": {

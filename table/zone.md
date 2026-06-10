@@ -100,6 +100,9 @@ tip: 请善用浏览器的搜索功能
 | act1break_zone1 | 核心突破 | Kernel Breakthrough | 中枢突破 |
 | act1break_zone2 | 全力以赴 | All-Out Effort | 総力戦 |
 | act1break_zone3 | 特别战线 | Special Front | 特別戦線 |
+| act1football_zone1 | 晋级赛 | - | - |
+| act1football_zone2 | 淘汰赛 | - | - |
+| act1football_zone3 | 特训赛 | - | - |
 | act1lock_zone1 | 始发营地 | Base Camp | 始発拠点 |
 | act1r6sre_zone1 | 行动记录 | Task Record | 作戦記録 |
 | act1r6sre_zone2 | 备战训练 | Para Bellum | 戦闘訓練 |

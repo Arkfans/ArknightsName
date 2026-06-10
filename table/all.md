@@ -979,6 +979,7 @@ tip: 请善用浏览器的搜索功能
 | trap_306_izklst | 变格凯尔希 | - | - |
 | trap_307_izsvas | 变格银灰 | - | - |
 | trap_308_izcamp | 原型之手 | - | - |
+| trap_309_muctba | 智能裁判官 | - | - |
 | trap_316_ubtower | 警戒塔 | - | - |
 | trap_317_ubprison | 禁闭所 | - | - |
 | trap_318_ubodst | 伪装工具 | - | - |
@@ -1732,6 +1733,7 @@ tip: 请善用浏览器的搜索功能
 | char_415_flint@boc#3 | 绚烂夏花 | Gorgeous Flower | 紫藤繚乱 |
 | char_4163_rosesa@game#7 | 冒险启程 | - | - |
 | char_416_zumama@boc#3 | 熔锻铸匠 | Forgemaster | 熔冶工匠 |
+| char_4171_wulfen@marthe#14 | 跃动节拍 | - | - |
 | char_4172_xingzh@epoque#51 | 留影 | - | - |
 | char_4173_nowell@iteration#6 | 幽蓝渡灵师 | - | - |
 | char_4177_brigid@epoque#53 | 轻语入梦 | - | - |
@@ -3343,6 +3345,14 @@ tip: 请善用浏览器的搜索功能
 | enemy_4051_mublow_2 | “风向标”潮风操控者 | - | - |
 | enemy_4052_mulaze | 眩光记录员 | - | - |
 | enemy_4052_mulaze_2 | “裁决者”眩光记录员 | - | - |
+| enemy_4060_mulinm | 直球队击球手 | - | - |
+| enemy_4060_mulinm_2 | 直球队坚定击球手 | - | - |
+| enemy_4061_mulinb | 直球队守门员 | - | - |
+| enemy_4061_mulinb_2 | 直球队坚定守门员 | - | - |
+| enemy_4062_muling | 直球队击人手 | - | - |
+| enemy_4062_muling_2 | 直球队坚定击人手 | - | - |
+| enemy_4063_muflyb | 充能飘浮球 | - | - |
+| enemy_4064_mupenb | 决胜时刻球 | - | - |
 | enemy_5008_cstrwd | 艺术的慈悲! | The Boons of Art! | 芸術の慈悲！ |
 | enemy_5009_shtrwd | 艺术的绝杀! | The Clutchness of Art! | 芸術の必殺技！ |
 | enemy_5010_catrdg | 弱弹 | Weaksauce | 弱い弾 |
@@ -3596,6 +3606,7 @@ tip: 请善用浏览器的搜索功能
 | act1enemyduel | 争锋频道：青草城 | Duel Channel: Green Grassville | デュエルチャンネル：グリーングラスシティ |
 | act1flip | 哗啦啦祈愿牌 | Surpriseful Supplications | かんから祈り札 |
 | act1float | 纽莱堡市产业合作洽谈会 | Nulaiteburgh Industry Cooperation Forum | ニューライトバーグ市産業懇談会 |
+| act1football | 阵地足球锦标 | - | - |
 | act1lock | 荷谟伊智境 | Hymnoi Wisdom | ヒュムノイの叡智 |
 | act1mainbuff | 战备支援 | Tactical Support | 作戦支援 |
 | act1mainlinebp | 战备支援 | Tactical Support | 作戦支援 |
@@ -4149,6 +4160,7 @@ Event | なないろのお茶会 |
 | act1collection_point_token | “探索者”兑换点数 | 'Expeditioners' Redemption Point | 「探索者」交換ポイント |
 | act1d0_token_gold_rep_1 | 赏金猎人金币 | Bounty Coin | ラッキーコイン |
 | act1enemyduel_milestone_point | 争锋大礼花 | Grand Duel Fireworks | デュエルクラッカー |
+| act1football_milestone_point | 锦标积分券 | - | - |
 | act1lock_point_reward | 赛事奖章 | Competition Medals | 競技メダル |
 | act1mainlinebp_token_star | 里程碑碎片 | Milestone Fragment | マイルストーンの欠片 |
 | act1mainss_token_medi | 急性感染抑制剂 | Emergency Inhibitor | 急性感染抑制剤 |
@@ -7846,6 +7858,15 @@ Event | なないろのお茶会 |
 | act1enemyduel_01b | 争锋试炼！ | Duel Trial! | いざ勝負！ |
 | act1enemyduel_02a | 争锋对决！ | Duel Showdown! | いざ対決！ |
 | act1enemyduel_02b | 争锋对决！ | Duel Showdown! | いざ対決！ |
+| act1football_01 | 揭幕之战 | - | - |
+| act1football_02 | 把握良机 | - | - |
+| act1football_03 | 渐入佳境 | - | - |
+| act1football_04 | 客场连战 | - | - |
+| act1football_05 | 争分夺球 | - | - |
+| act1football_06 | 胜负难分 | - | - |
+| act1football_07 | 出线之争 | - | - |
+| act1football_s01 | 耐力拉练 | - | - |
+| act1football_tr01 | 首次训练 | - | - |
 | act1halfidle_01 | 旧城遗址 | - | - |
 | act1halfidle_02 | 风号峡谷 | - | - |
 | act1halfidle_03 | 坍塌矿区 | - | - |
@@ -8527,6 +8548,7 @@ Event | なないろのお茶会 |
 | act50side_07 | 为什么全是死脑筋？ | - | - |
 | act50side_08 | 宿命流转，苍霆激荡 | - | - |
 | act50side_p-1 | “百兽奔行” | - | - |
+| act50side_s01 | 群山震颤，百龙夜行 | - | - |
 | act50side_st01 | 风沙渐起 | - | - |
 | act50side_st02 | 幻梦终醒，猎魂不息 | - | - |
 | act50side_tr01 | 狩猎太棒啦！ | - | - |
@@ -9398,6 +9420,9 @@ Event | なないろのお茶会 |
 | act1break_zone1 | 核心突破 | Kernel Breakthrough | 中枢突破 |
 | act1break_zone2 | 全力以赴 | All-Out Effort | 総力戦 |
 | act1break_zone3 | 特别战线 | Special Front | 特別戦線 |
+| act1football_zone1 | 晋级赛 | - | - |
+| act1football_zone2 | 淘汰赛 | - | - |
+| act1football_zone3 | 特训赛 | - | - |
 | act1lock_zone1 | 始发营地 | Base Camp | 始発拠点 |
 | act1r6sre_zone1 | 行动记录 | Task Record | 作戦記録 |
 | act1r6sre_zone2 | 备战训练 | Para Bellum | 戦闘訓練 |

@@ -99,6 +99,7 @@ tip: 请善用浏览器的搜索功能
 | act1enemyduel | 争锋频道：青草城 | Duel Channel: Green Grassville | デュエルチャンネル：グリーングラスシティ |
 | act1flip | 哗啦啦祈愿牌 | Surpriseful Supplications | かんから祈り札 |
 | act1float | 纽莱堡市产业合作洽谈会 | Nulaiteburgh Industry Cooperation Forum | ニューライトバーグ市産業懇談会 |
+| act1football | 阵地足球锦标 | - | - |
 | act1lock | 荷谟伊智境 | Hymnoi Wisdom | ヒュムノイの叡智 |
 | act1mainbuff | 战备支援 | Tactical Support | 作戦支援 |
 | act1mainlinebp | 战备支援 | Tactical Support | 作戦支援 |

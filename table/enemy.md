@@ -1517,6 +1517,14 @@ tip: 请善用浏览器的搜索功能
 | enemy_4051_mublow_2 | “风向标”潮风操控者 | - | - |
 | enemy_4052_mulaze | 眩光记录员 | - | - |
 | enemy_4052_mulaze_2 | “裁决者”眩光记录员 | - | - |
+| enemy_4060_mulinm | 直球队击球手 | - | - |
+| enemy_4060_mulinm_2 | 直球队坚定击球手 | - | - |
+| enemy_4061_mulinb | 直球队守门员 | - | - |
+| enemy_4061_mulinb_2 | 直球队坚定守门员 | - | - |
+| enemy_4062_muling | 直球队击人手 | - | - |
+| enemy_4062_muling_2 | 直球队坚定击人手 | - | - |
+| enemy_4063_muflyb | 充能飘浮球 | - | - |
+| enemy_4064_mupenb | 决胜时刻球 | - | - |
 | enemy_5008_cstrwd | 艺术的慈悲! | The Boons of Art! | 芸術の慈悲！ |
 | enemy_5009_shtrwd | 艺术的绝杀! | The Clutchness of Art! | 芸術の必殺技！ |
 | enemy_5010_catrdg | 弱弹 | Weaksauce | 弱い弾 |

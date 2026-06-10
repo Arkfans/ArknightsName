@@ -2074,6 +2074,33 @@
     "ja_JP": "いざ対決！",
     "zh_CN": "争锋对决！"
   },
+  "act1football_01": {
+    "zh_CN": "揭幕之战"
+  },
+  "act1football_02": {
+    "zh_CN": "把握良机"
+  },
+  "act1football_03": {
+    "zh_CN": "渐入佳境"
+  },
+  "act1football_04": {
+    "zh_CN": "客场连战"
+  },
+  "act1football_05": {
+    "zh_CN": "争分夺球"
+  },
+  "act1football_06": {
+    "zh_CN": "胜负难分"
+  },
+  "act1football_07": {
+    "zh_CN": "出线之争"
+  },
+  "act1football_s01": {
+    "zh_CN": "耐力拉练"
+  },
+  "act1football_tr01": {
+    "zh_CN": "首次训练"
+  },
   "act1halfidle_01": {
     "zh_CN": "旧城遗址"
   },
@@ -5092,6 +5119,9 @@
   },
   "act50side_p-1": {
     "zh_CN": "“百兽奔行”"
+  },
+  "act50side_s01": {
+    "zh_CN": "群山震颤，百龙夜行"
   },
   "act50side_st01": {
     "zh_CN": "风沙渐起"

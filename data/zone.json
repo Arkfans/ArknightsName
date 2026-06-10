@@ -472,6 +472,15 @@
     "ja_JP": "特別戦線",
     "zh_CN": "特别战线"
   },
+  "act1football_zone1": {
+    "zh_CN": "晋级赛"
+  },
+  "act1football_zone2": {
+    "zh_CN": "淘汰赛"
+  },
+  "act1football_zone3": {
+    "zh_CN": "特训赛"
+  },
   "act1lock_zone1": {
     "en_US": "Base Camp",
     "ja_JP": "始発拠点",

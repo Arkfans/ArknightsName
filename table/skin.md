@@ -425,6 +425,7 @@ tip: 请善用浏览器的搜索功能
 | char_415_flint@boc#3 | 绚烂夏花 | Gorgeous Flower | 紫藤繚乱 |
 | char_4163_rosesa@game#7 | 冒险启程 | - | - |
 | char_416_zumama@boc#3 | 熔锻铸匠 | Forgemaster | 熔冶工匠 |
+| char_4171_wulfen@marthe#14 | 跃动节拍 | - | - |
 | char_4172_xingzh@epoque#51 | 留影 | - | - |
 | char_4173_nowell@iteration#6 | 幽蓝渡灵师 | - | - |
 | char_4177_brigid@epoque#53 | 轻语入梦 | - | - |

@@ -424,6 +424,15 @@ tip: 请善用浏览器的搜索功能
 | act1enemyduel_01b | 争锋试炼！ | Duel Trial! | いざ勝負！ |
 | act1enemyduel_02a | 争锋对决！ | Duel Showdown! | いざ対決！ |
 | act1enemyduel_02b | 争锋对决！ | Duel Showdown! | いざ対決！ |
+| act1football_01 | 揭幕之战 | - | - |
+| act1football_02 | 把握良机 | - | - |
+| act1football_03 | 渐入佳境 | - | - |
+| act1football_04 | 客场连战 | - | - |
+| act1football_05 | 争分夺球 | - | - |
+| act1football_06 | 胜负难分 | - | - |
+| act1football_07 | 出线之争 | - | - |
+| act1football_s01 | 耐力拉练 | - | - |
+| act1football_tr01 | 首次训练 | - | - |
 | act1halfidle_01 | 旧城遗址 | - | - |
 | act1halfidle_02 | 风号峡谷 | - | - |
 | act1halfidle_03 | 坍塌矿区 | - | - |
@@ -1105,6 +1114,7 @@ tip: 请善用浏览器的搜索功能
 | act50side_07 | 为什么全是死脑筋？ | - | - |
 | act50side_08 | 宿命流转，苍霆激荡 | - | - |
 | act50side_p-1 | “百兽奔行” | - | - |
+| act50side_s01 | 群山震颤，百龙夜行 | - | - |
 | act50side_st01 | 风沙渐起 | - | - |
 | act50side_st02 | 幻梦终醒，猎魂不息 | - | - |
 | act50side_tr01 | 狩猎太棒啦！ | - | - |
