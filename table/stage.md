@@ -432,6 +432,7 @@ tip: 请善用浏览器的搜索功能
 | act1football_06 | 胜负难分 | - | - |
 | act1football_07 | 出线之争 | - | - |
 | act1football_s01 | 耐力拉练 | - | - |
+| act1football_s02 | 盘带练习 | - | - |
 | act1football_tr01 | 首次训练 | - | - |
 | act1halfidle_01 | 旧城遗址 | - | - |
 | act1halfidle_02 | 风号峡谷 | - | - |

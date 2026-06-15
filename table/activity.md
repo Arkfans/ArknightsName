@@ -138,6 +138,7 @@ tip: 请善用浏览器的搜索功能
 | act24login | 登录领取奖励 | - | - |
 | act24side | 落叶逐火 | A Flurry to the Flame | 紅炎遣らう落葉 |
 | act24sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
+| act24sre | 落叶逐火·复刻 | - | - |
 | act25login | 焰烬曙明完结庆祝 | - | - |
 | act25side | 孤星 | Lone Trail | 孤星 |
 | act25sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -259,6 +260,7 @@ Event | なないろのお茶会 |
 | act4mine | 潘尼谷矿区登录活动 | Pony Valley Mining Area Login Event | ポニーバレー採鉱区 |
 | act4pray | 际崖城惊奇墙登录活动 | Zeruertza Amazing Wall Login Event | 宝くじ
 イベント |
+| act4signvs | 端阳正午签到活动 | - | - |
 | act4switch | 时光的赠礼  | - | - |
 | act50side | 泡影苍霆 | - | - |
 | act50sign | 风物留痕签到活动 | - | - |

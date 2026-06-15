@@ -332,11 +332,17 @@ tip: 请善用浏览器的搜索功能
 | act23side_token_spirit | 新酿烈刀子 | Freshly-Brewed Liedaozi | 烈刀子 |
 | act23side_token_spirit_rep_1 | 新酿烈刀子 | Freshly-Brewed Liedaozi | 烈刀子 |
 | act24side_melding_1 | 破碎的骨片 | Bone Fragments | 欠けた骨 |
+| act24side_melding_1_rep_1 | 破碎的骨片 | - | - |
 | act24side_melding_2 | 源石虫的硬壳 | Originium Slug Shell | オリジムシの甲殻 |
+| act24side_melding_2_rep_1 | 源石虫的硬壳 | - | - |
 | act24side_melding_3 | 鬣犄兽的尖锐齿 | Sharp Oxmane Fangs | 山顎獣の鋭牙 |
+| act24side_melding_3_rep_1 | 鬣犄兽的尖锐齿 | - | - |
 | act24side_melding_4 | 凶豕兽的厚实皮 | Thick Direswine Hide | 猪突獣の厚皮 |
+| act24side_melding_4_rep_1 | 凶豕兽的厚实皮 | - | - |
 | act24side_melding_5 | “兽之泪” | 'Monster Tears' | 獣のナミダ |
+| act24side_melding_5_rep_1 | “兽之泪” | - | - |
 | act24side_melding_6 | 火龙的红玉 | Rathalos Ruby | 火竜の紅玉 |
+| act24side_melding_6_rep_1 | 火龙的红玉 | - | - |
 | act25side_token_fdrchips | 飞行数据记录芯片 | Flight Data Recorder Chip | 飛行データチップ |
 | act25side_token_fdrchips_rep_1 | 飞行数据记录芯片 | Flight Data Recorder Chip | 飛行データチップ |
 | act25side_token_key01 | 特殊作战许可·α | Special Ops Permit α | 特殊作戦許可α |
@@ -1376,6 +1382,7 @@ tip: 请善用浏览器的搜索功能
 | token_Obsidian_rep_1 | 汐斯塔的黑曜石 | Siesta Obsidian | シエスタの黒曜石 |
 | token_Wristband | 黑曜石节手环 | Obsidian Festival Bracelet | リストバンド |
 | uni_set_BSsafehouse | 不义之财家具收藏包 | - | - |
+| uni_set_HunterInstitute | 生路家具收藏包 | - | - |
 | uni_set_LAbbey | 空想花庭家具收藏包 | Hortus de Escapismo Furniture Pack | 空想の花庭家具パック |
 | uni_set_MemoryCloister_1 | 魂灵印象家具收藏包一 | Memories of the Souls Furniture Pack I | 魂の形家具パックvol.1 |
 | uni_set_MemoryCloister_2 | 魂灵印象家具收藏包二 | Memories of the Souls Furniture Pack II | 魂の形家具パックvol.2 |
@@ -1466,6 +1473,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_full_sophia | 鞭刃的私人信件 | Whislash's Personal Letter | ウィスラッシュの手紙 |
 | voucher_full_takila | 龙舌兰的私人信件 | Tequila's Personal Letter | テキーラの手紙 |
 | voucher_full_tomimi | 特米米的私人信件 | Tomimi's Personal Letter | トミミの手紙 |
+| voucher_full_udflow | 深巡的私人信件 | - | - |
 | voucher_full_wanqin | 万顷的私人信件 | - | - |
 | voucher_full_wildmn | 野鬃的私人信件 | Wild Mane's Personal Letter | ワイルドメインの手紙 |
 | voucher_full_zebra | 暴雨的私人信件 | Heavyrain's Personal Letter | ヘビーレインの手紙 |

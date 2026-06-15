@@ -612,6 +612,9 @@
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
+  "act24sre": {
+    "zh_CN": "落叶逐火·复刻"
+  },
   "act25login": {
     "zh_CN": "焰烬曙明完结庆祝"
   },
@@ -1130,6 +1133,9 @@
     "en_US": "Zeruertza Amazing Wall Login Event",
     "ja_JP": "宝くじ\nイベント",
     "zh_CN": "际崖城惊奇墙登录活动"
+  },
+  "act4signvs": {
+    "zh_CN": "端阳正午签到活动"
   },
   "act4switch": {
     "zh_CN": "时光的赠礼 "

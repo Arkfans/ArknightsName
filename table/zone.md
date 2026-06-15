@@ -134,6 +134,8 @@ tip: 请善用浏览器的搜索功能
 | act23sre_zone2 | 关外追凶 | Criminal Pursuit, Offsite | 関外追跡 |
 | act24side_zone1 | 苍暮山地 | Soubo Mountains | 蒼暮山地 |
 | act24side_zone2 | 艾露猫的委托柜台 | Commeowssion Counter | アイルーの受付カウンター |
+| act24sre_zone1 | 苍暮山地 | - | - |
+| act24sre_zone2 | 艾露猫的委托柜台 | - | - |
 | act25side_zone1 | 未来将至 | The Coming of The Future | 来たる未来 |
 | act25side_zone2 | 过往未尽 | The Lingering of the Past | 過ぎぬ過去 |
 | act25side_zone3 | 紧握当下 | The Pursuing of the Present | 在るべき今 |

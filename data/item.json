@@ -1534,9 +1534,15 @@
     "ja_JP": "欠けた骨",
     "zh_CN": "破碎的骨片"
   },
+  "act24side_melding_1_rep_1": {
+    "zh_CN": "破碎的骨片"
+  },
   "act24side_melding_2": {
     "en_US": "Originium Slug Shell",
     "ja_JP": "オリジムシの甲殻",
+    "zh_CN": "源石虫的硬壳"
+  },
+  "act24side_melding_2_rep_1": {
     "zh_CN": "源石虫的硬壳"
   },
   "act24side_melding_3": {
@@ -1544,9 +1550,15 @@
     "ja_JP": "山顎獣の鋭牙",
     "zh_CN": "鬣犄兽的尖锐齿"
   },
+  "act24side_melding_3_rep_1": {
+    "zh_CN": "鬣犄兽的尖锐齿"
+  },
   "act24side_melding_4": {
     "en_US": "Thick Direswine Hide",
     "ja_JP": "猪突獣の厚皮",
+    "zh_CN": "凶豕兽的厚实皮"
+  },
+  "act24side_melding_4_rep_1": {
     "zh_CN": "凶豕兽的厚实皮"
   },
   "act24side_melding_5": {
@@ -1554,9 +1566,15 @@
     "ja_JP": "獣のナミダ",
     "zh_CN": "“兽之泪”"
   },
+  "act24side_melding_5_rep_1": {
+    "zh_CN": "“兽之泪”"
+  },
   "act24side_melding_6": {
     "en_US": "Rathalos Ruby",
     "ja_JP": "火竜の紅玉",
+    "zh_CN": "火龙的红玉"
+  },
+  "act24side_melding_6_rep_1": {
     "zh_CN": "火龙的红玉"
   },
   "act25side_token_fdrchips": {
@@ -6381,6 +6399,9 @@
   "uni_set_BSsafehouse": {
     "zh_CN": "不义之财家具收藏包"
   },
+  "uni_set_HunterInstitute": {
+    "zh_CN": "生路家具收藏包"
+  },
   "uni_set_LAbbey": {
     "en_US": "Hortus de Escapismo Furniture Pack",
     "ja_JP": "空想の花庭家具パック",
@@ -6798,6 +6819,9 @@
     "en_US": "Tomimi's Personal Letter",
     "ja_JP": "トミミの手紙",
     "zh_CN": "特米米的私人信件"
+  },
+  "voucher_full_udflow": {
+    "zh_CN": "深巡的私人信件"
   },
   "voucher_full_wanqin": {
     "zh_CN": "万顷的私人信件"
