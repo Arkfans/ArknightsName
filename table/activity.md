@@ -318,3 +318,4 @@ Event | なないろのお茶会 |
 | act9pray | 幸运墙登录活动 | Lucky Strips Login Event | 龍門開運
 おみくじ |
 | act9sre | 画中人·复刻 | Who Is Real - Rerun | 画中人·復刻 |
+| act9switch | 魔法与友谊合作活动 | - | - |

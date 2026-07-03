@@ -1684,6 +1684,7 @@ tip: 请善用浏览器的搜索功能
 | char_4077_palico@mh#1 | 跃上街头 | Fly Into the Street | 街へ飛び出せ |
 | char_4078_bdhkgt@yun#2 | 伴青莲 | Away From Dust | 青蓮の友 |
 | char_4079_haini@epoque#45 | 翻涌 | Tidal Bore | 潮波 |
+| char_4080_lin@littlePony#1 | 求知的魔法 | - | - |
 | char_4080_lin@nian#10 | 列瑶台 | Heavenly Mirage | 列瑶台 |
 | char_4080_lin@summer#19 | 夏卉 FA137 | - | - |
 | char_4081_warmy@winter#4 | 街角暖绒 | Warm Velvet At the Corner | 街角の温もり |
@@ -1721,6 +1722,7 @@ tip: 请善用浏览器的搜索功能
 | char_4136_phonor@boc#9 | 最初的颂歌 | Primordial Ode | 始まりの賛歌 |
 | char_4137_udflow@epoque#46 | 层流 | Laminar Flow | 層流 |
 | char_4138_narant@breaker#1 | 链锯陪护者 | - | - |
+| char_4138_narant@littlePony#1 | 率直诚实之人 | - | - |
 | char_4139_papyrs@game#8 | 下一个任务 | - | - |
 | char_4140_lasher@sightseer#3 | 憩羽 | - | - |
 | char_4141_marcil@dungeon#1 | 泰拉冒险 | Terra & Traveller | テラの冒険者 |
@@ -1754,6 +1756,7 @@ tip: 请善用浏览器的搜索功能
 | char_4215_buddy@mh#2 | 露营时间喵！ | - | - |
 | char_421_crow@summer#9 | 夏卉 FA210 | Summer Flowers FA210 | 夏の花弁FA210 |
 | char_422_aurora@boc#4 | 极昼捕手 | Polar Catcher | 白夜踏破 |
+| char_423_blemsh@littlePony#1 | 善良坚强之心 | - | - |
 | char_423_blemsh@witch#2 | 异月灾裔 | Moon Catastrborn | 異月の災裔 |
 | char_426_billro@snow#3 | 霍恩洛厄的寒沙 | Hohenlohe Chillysand | ホーエンローエの氷砂 |
 | char_426_billro@summer#8 | 灿阳朝露 SD08 | Shimmering Dew SD08 | 炎陽煌く露SD08 |
@@ -3839,6 +3842,7 @@ Event | なないろのお茶会 |
 | act9pray | 幸运墙登录活动 | Lucky Strips Login Event | 龍門開運
 おみくじ |
 | act9sre | 画中人·复刻 | Who Is Real - Rerun | 画中人·復刻 |
+| act9switch | 魔法与友谊合作活动 | - | - |
 | abyssal | 深海猎人 | Abyssal Hunters | アビサルハンター |
 | action4 | 行动组A4 | Op Team A4 | 行動隊A4 |
 | babel | 巴别塔 | Babel | バベル |

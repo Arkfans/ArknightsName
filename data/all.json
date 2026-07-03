@@ -12555,6 +12555,12 @@
       "zh_CN": "翻涌"
     }
   },
+  "char_4080_lin@littlePony#1": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "求知的魔法"
+    }
+  },
   "char_4080_lin@nian#10": {
     "type": "SKIN",
     "names": {
@@ -12843,6 +12849,12 @@
       "zh_CN": "链锯陪护者"
     }
   },
+  "char_4138_narant@littlePony#1": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "率直诚实之人"
+    }
+  },
   "char_4139_papyrs@game#8": {
     "type": "SKIN",
     "names": {
@@ -13055,6 +13067,12 @@
       "en_US": "Polar Catcher",
       "ja_JP": "白夜踏破",
       "zh_CN": "极昼捕手"
+    }
+  },
+  "char_423_blemsh@littlePony#1": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "善良坚强之心"
     }
   },
   "char_423_blemsh@witch#2": {
@@ -28798,6 +28816,12 @@
       "en_US": "Who Is Real - Rerun",
       "ja_JP": "画中人·復刻",
       "zh_CN": "画中人·复刻"
+    }
+  },
+  "act9switch": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "魔法与友谊合作活动"
     }
   },
   "abyssal": {
