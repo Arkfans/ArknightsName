@@ -123,6 +123,7 @@ tip: 请善用浏览器的搜索功能
 | act20sre | 理想城：长夏狂欢季·复刻 | Ideal City: Endless Carnival - Rerun | 理想都市-エンドレスカーニバル-・復刻 |
 | act21login | 限定池送10连 | Free 10-roll limited pull | 5周年
 ログイン |
+| act21mini | 丛林症结 | - | - |
 | act21side | 叙拉古人 | IL Siracusano | シラクザーノ |
 | act21sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act21sre | 叙拉古人·复刻 | Il Siracusano - Retrospection | シラクザーノ・復刻 |

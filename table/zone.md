@@ -118,6 +118,7 @@ tip: 请善用浏览器的搜索功能
 | act20sre_zone3 | 升降梯整备 | Elevator Maintenance | 昇降機整備 |
 | act20sre_zone4 | 表演赛道 | Exhibition Course | エキシビションコース |
 | act20sre_zone5 | 终极赛道 | Ultimate Course | アルティメットコース |
+| act21mini_zone1 | 生长痛 | - | - |
 | act21side_zone1 | 连阴雨季 | Stagione delle Piogge | 暗い長雨 |
 | act21side_zone2 | 铳与秩序 | Pistole e Ordine | 銃と秩序 |
 | act21side_zone3 | 自诩荒野 | Terra Desolata Autoproclamata | 荒野を名乗る者 |

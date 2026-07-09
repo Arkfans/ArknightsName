@@ -215,6 +215,7 @@ tip: 请善用浏览器的搜索功能
 | RandomSkinbox_1 | 时装回顾展 | - | - |
 | RandomSkinbox_2 | 时装回顾展·II | - | - |
 | RandomSkinbox_3 | 时装回顾展·III | - | - |
+| RandomSkinbox_4 | 时装回顾展·IV | - | - |
 | SINGLE_49_0_1_GACHA | 如死亦终寻访凭证 | Like Ending Like Death Headhunting Permit | イベントスカウト券 |
 | SINGLE_49_0_1_GACHA_10 | 如死亦终十连寻访凭证 | Like Ending Like Death Ten-roll Headhunting Permit | イベント10回スカウト券 |
 | SINGLE_55_0_1_GACHA | 未致蒙尘寻访凭证 | Never Gilded Headhunting Permit | 褪せざる栄光スカウト券 |
@@ -225,6 +226,8 @@ tip: 请善用浏览器的搜索功能
 | SINGLE_66_0_1_GACHA_10 | 空白频段十连寻访凭证 | - | - |
 | SINGLE_72_0_1_GACHA | 辟路之人寻访凭证 | - | - |
 | SINGLE_72_0_1_GACHA_10 | 辟路之人十连寻访凭证 | - | - |
+| SINGLE_75_0_1_GACHA | 确定性混沌寻访凭证 | - | - |
+| SINGLE_75_0_1_GACHA_10 | 确定性混沌十连寻访凭证 | - | - |
 | SOCIAL_PT | 信用 | Credit | FP |
 | STORY_REVIEW_COIN | 事相碎片 | Information Fragments | 事象の欠片 |
 | act10d5_token_biscuit | 彼得海姆热销饼干 | Best-selling Peterheim Cookies | ぺテルヘイムクッキー |
@@ -325,6 +328,7 @@ tip: 请善用浏览器的搜索功能
 | act20mini_token_cork | 软木瓶塞 | - | - |
 | act20side_token_book | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
 | act20side_token_book_rep_1 | 《奇谈怪论》复印本 | Photocopies of 'Stranger Things' | 『奇談怪論』複製本 |
+| act21mini_token_shred | 猎犬食糜 | - | - |
 | act21side_token_permesso | 进货通行证 | Permesso di Importazione | 買付許可証 |
 | act21side_token_permesso_rep_1 | 进货通行证 | Permesso di Importazione | 買付許可証 |
 | act22side_token_manuscript | 手抄歌谣集 | Manuscripts of Ballads | 民謡集の写本 |
@@ -769,6 +773,7 @@ tip: 请善用浏览器的搜索功能
 | emoticon_autochess_basic | 表情套组：卫戍协议 | - | - |
 | emoticon_autochess_basic_2 | 表情套组：卫戍协议 | - | - |
 | emoticon_basic | 表情套组 | Emote Set | スタンプ |
+| emoticon_building_basic | 表情套组 | - | - |
 | emoticon_foolsday_amiya | 表情套组：米米子 | - | - |
 | emoticon_foolsday_doctor | 表情套组：博士士 | - | - |
 | emoticon_foolsday_wisdel | 表情套组：维维美 | - | - |
@@ -1198,7 +1203,9 @@ tip: 请善用浏览器的搜索功能
 | p_char_4226_veen | 维伊的信物 | - | - |
 | p_char_4227_gallus | GALLUS²的信物 | - | - |
 | p_char_4228_closur | 可露希尔的信物 | - | - |
+| p_char_4229_aphris | 谬因的信物 | - | - |
 | p_char_422_aurora | 极光的信物 | Aurora's Token | オーロラの印 |
+| p_char_4234_pedro | 佩德洛的信物 | - | - |
 | p_char_423_blemsh | 瑕光的信物 | Blemishine's Token | ブレミシャインの印 |
 | p_char_426_billro | 卡涅利安的信物 | Carnelian's Token | カーネリアンの印 |
 | p_char_430_fartth | 远牙的信物 | Fartooth's Token | ファートゥースの印 |

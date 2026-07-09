@@ -234,6 +234,9 @@
   "char_1043_leizi2@game#8": {
     "zh_CN": "血翼蔷薇"
   },
+  "char_1046_sbell2@ambienceSynesthesia#8": {
+    "zh_CN": "曙光祝颂"
+  },
   "char_106_franka@ncg#1": {
     "en_US": "Rainforest, Me, Rainbow",
     "ja_JP": "深緑にかかる虹",
@@ -836,6 +839,9 @@
     "ja_JP": "暗矢",
     "zh_CN": "暗矢"
   },
+  "char_219_meteo@summer#22": {
+    "zh_CN": "夏卉 FA240"
+  },
   "char_219_meteo@sweep#1": {
     "en_US": "Graphite",
     "ja_JP": "石墨",
@@ -1249,6 +1255,9 @@
     "en_US": "Exterminator in the Square",
     "ja_JP": "広場の掃討者",
     "zh_CN": "广场扫荡客"
+  },
+  "char_328_cammou@summer#22": {
+    "zh_CN": "悠然假日 HD59"
   },
   "char_328_cammou@witch#2": {
     "en_US": "Grave Thief",
@@ -1856,6 +1865,9 @@
     "ja_JP": "夢の高みへ",
     "zh_CN": "梦幻高空"
   },
+  "char_4117_ray@summer#22": {
+    "zh_CN": "夏卉 FA098"
+  },
   "char_4119_wanqin@epoque#41": {
     "en_US": "Tons of Sunshine",
     "ja_JP": "万頃に注ぐ陽光",
@@ -2309,6 +2321,9 @@
     "en_US": "Sweet Jackpot",
     "ja_JP": "スイーツ大賞",
     "zh_CN": "甜品大奖"
+  },
+  "char_498_inside@summer#22": {
+    "zh_CN": "悠然假日 HDm25"
   },
   "char_499_kaitou@epoque#37": {
     "en_US": "Sun Slant",

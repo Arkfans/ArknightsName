@@ -997,6 +997,9 @@
   "RandomSkinbox_3": {
     "zh_CN": "时装回顾展·III"
   },
+  "RandomSkinbox_4": {
+    "zh_CN": "时装回顾展·IV"
+  },
   "SINGLE_49_0_1_GACHA": {
     "en_US": "Like Ending Like Death Headhunting Permit",
     "ja_JP": "イベントスカウト券",
@@ -1038,6 +1041,12 @@
   },
   "SINGLE_72_0_1_GACHA_10": {
     "zh_CN": "辟路之人十连寻访凭证"
+  },
+  "SINGLE_75_0_1_GACHA": {
+    "zh_CN": "确定性混沌寻访凭证"
+  },
+  "SINGLE_75_0_1_GACHA_10": {
+    "zh_CN": "确定性混沌十连寻访凭证"
   },
   "SOCIAL_PT": {
     "en_US": "Credit",
@@ -1498,6 +1507,9 @@
     "en_US": "Photocopies of 'Stranger Things'",
     "ja_JP": "『奇談怪論』複製本",
     "zh_CN": "《奇谈怪论》复印本"
+  },
+  "act21mini_token_shred": {
+    "zh_CN": "猎犬食糜"
   },
   "act21side_token_permesso": {
     "en_US": "Permesso di Importazione",
@@ -3532,6 +3544,9 @@
     "ja_JP": "スタンプ",
     "zh_CN": "表情套组"
   },
+  "emoticon_building_basic": {
+    "zh_CN": "表情套组"
+  },
   "emoticon_foolsday_amiya": {
     "zh_CN": "表情套组：米米子"
   },
@@ -5515,10 +5530,16 @@
   "p_char_4228_closur": {
     "zh_CN": "可露希尔的信物"
   },
+  "p_char_4229_aphris": {
+    "zh_CN": "谬因的信物"
+  },
   "p_char_422_aurora": {
     "en_US": "Aurora's Token",
     "ja_JP": "オーロラの印",
     "zh_CN": "极光的信物"
+  },
+  "p_char_4234_pedro": {
+    "zh_CN": "佩德洛的信物"
   },
   "p_char_423_blemsh": {
     "en_US": "Blemishine's Token",

@@ -58,6 +58,7 @@ tip: 请善用浏览器的搜索功能
 | char_1040_blaze2@winter#5 | 夜归人 | - | - |
 | char_1041_angel2@iteration#6 | 寻翼之歌 | - | - |
 | char_1043_leizi2@game#8 | 血翼蔷薇 | - | - |
+| char_1046_sbell2@ambienceSynesthesia#8 | 曙光祝颂 | - | - |
 | char_106_franka@ncg#1 | 林虹之间 | Rainforest, Me, Rainbow | 深緑にかかる虹 |
 | char_107_liskam@nian#2 | 春竜 | Spring Vouivre | 春竜 |
 | char_107_liskam@striker#1 | 超载 | Overload | オーバーロード |
@@ -184,6 +185,7 @@ tip: 请善用浏览器的搜索功能
 | char_215_mantic@epoque#19 | 面纱之下 | Under A Veil | ヴェールの下に |
 | char_215_mantic@epoque#4 | 无形悼挽 | Invisible Dirge | 無形の深悼 |
 | char_218_cuttle@epoque#12 | 暗矢 | Silent Arrow | 暗矢 |
+| char_219_meteo@summer#22 | 夏卉 FA240 | - | - |
 | char_219_meteo@sweep#1 | 石墨 | Graphite | 石墨 |
 | char_220_grani@epoque#6 | 美妙时光 | Miraculous Moment | 最高のひととき |
 | char_222_bpipe@epoque#28 | 皇家近卫 | Royal Guardswoman | ロイヤルガード |
@@ -270,6 +272,7 @@ tip: 请善用浏览器的搜索功能
 | char_322_lmlee@witch#3 | 手到牌来 | Trust Your Eyes | お目を拝借 |
 | char_325_bison@yun#7 | 凌云意 | - | - |
 | char_326_glacus@ghost#1 | 广场扫荡客 | Exterminator in the Square | 広場の掃討者 |
+| char_328_cammou@summer#22 | 悠然假日 HD59 | - | - |
 | char_328_cammou@witch#2 | 安息处的怪盗 | Grave Thief | 霊園の怪盗 |
 | char_332_archet@sale#14 | 至虔者荣光 | Glory of the Devout | 敬虔なる栄光 |
 | char_332_archet@shining#1 | 宣传策略 | Publicity Strategy | PR戦略 |
@@ -398,6 +401,7 @@ tip: 请善用浏览器的搜索功能
 | char_4114_harold@snow#7 | 邀雪 | Inviting Snow | 冬ごもり |
 | char_4116_blkkgt@witch#5 | 暗月的影子 | The Shadow of the Dark Moon | 暗月の影 |
 | char_4117_ray@shining#2 | 梦幻高空 | Dreaming High | 夢の高みへ |
+| char_4117_ray@summer#22 | 夏卉 FA098 | - | - |
 | char_4119_wanqin@epoque#41 | 万顷阳光 | Tons of Sunshine | 万頃に注ぐ陽光 |
 | char_411_tomimi@summer#5 | 静谧午夜 DN04 | Silent Night DN04 | 安息の午夜DN04 |
 | char_4121_zuole@nian#11 | 少年游 | Youthful Journey | 少年游 |
@@ -504,4 +508,5 @@ tip: 请善用浏览器的搜索功能
 | char_497_ctable@epoque#44 | 湖畔歌者 | Bard by the Lake | 湖畔に響く囀り |
 | char_497_ctable@nian#9 | 灯如昼 | Illumination That of Daylights | 灯如昼 |
 | char_498_inside@kitchen#2 | 甜品大奖 | Sweet Jackpot | スイーツ大賞 |
+| char_498_inside@summer#22 | 悠然假日 HDm25 | - | - |
 | char_499_kaitou@epoque#37 | 斜照 | Sun Slant | 夕陽差す屋根裏 |

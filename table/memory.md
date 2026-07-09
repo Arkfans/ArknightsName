@@ -101,6 +101,7 @@ tip: 请善用浏览器的搜索功能
 | story_deepcl_set_1_story_1 | 幽蓝怀想 | Azure Memories | 深き青の追想 |
 | story_deepcl_set_2_story_1 | 蓝调 | Blue Notes | ブルース |
 | story_demkni_set_1_story_1 | 沃土 | - | - |
+| story_doberm_set_1_story_1 | 在玻利瓦尔以外 | - | - |
 | story_doroth_set_1_story_1 | 何处是我朋友的家 | Where is the Friend's House? | 友の故郷はいずこ |
 | story_durin_set_1_story_1 | 午休时间 | Lunchtime Nap | お昼休み |
 | story_durnar_set_1_story_1 | 额外训练 | Extra Training | 追加訓練 |
@@ -284,6 +285,7 @@ tip: 请善用浏览器的搜索功能
 | story_rdoc_set_1_story_1 | 模糊的面容 | Ambiguous Appearance | 朧げな面影 |
 | story_reckpr_set_1_story_1 | 何须剑 | - | - |
 | story_rfalcn_set_1_story_1 | 未来的痕迹 | - | - |
+| story_rfalcn_set_2_story_1 | 第一道伤疤 | - | - |
 | story_rfrost_set_1_story_1 | 寻乡 | Searching for Home | 故郷をたどって |
 | story_robin_set_1_story_1 | 冷暖自知 | To Live, To Feel | 触れるぬくもり |
 | story_robrta_set_1_story_1 | 挽歌 | Elegy | 亡き者に捧ぐ歌 |
@@ -341,6 +343,7 @@ tip: 请善用浏览器的搜索功能
 | story_swllow_set_1_story_1 | 殊途 | All Roads... | 異なる道 |
 | story_tachak_set_1_story_1 | 一如既往 | The Same As Always | 相も変わらず |
 | story_takila_set_1_story_1 | 尖刺的滋味 | Taste of Thorns | 「尖り」の味わい |
+| story_tanya_set_1_story_1 | 昨日已死 | - | - |
 | story_tecno_set_1_story_1 | 共舞 | A Dance Together | 一緒に踊ろう |
 | story_texas_set_1_story_1 | 使命必达 | Guaranteed Success | 絶対に、確実に |
 | story_therex_set_1_story_1 | 炙热冲击！ | Scorching-Hot Assault! | 灼熱のエネルギーショック！ |
@@ -353,6 +356,7 @@ tip: 请善用浏览器的搜索功能
 | story_tomimi_set_1_story_1 | 崭新生活 | Brand New Life | 新たな生活 |
 | story_totter_set_1_story_1 | 计划 | A Plan | 計画 |
 | story_totter_set_2_story_1 | 归乡 | Homecoming | 帰郷 |
+| story_turdus_set_1_story_1 | 号外！号外！ | - | - |
 | story_tuye_set_1_story_1 | 沙漠之虹 | Desert Rainbow | 砂漠にかかる虹 |
 | story_utage_set_1_story_1 | 时髦把戏 | The Game of Chic | トレンディ・トリック |
 | story_utage_set_2_story_1 | 鵺切的故事 | - | - |

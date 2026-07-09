@@ -374,7 +374,9 @@ tip: 请善用浏览器的搜索功能
 | char_4226_veen | 维伊 | - | - |
 | char_4227_gallus | GALLUS² | - | - |
 | char_4228_closur | 可露希尔 | - | - |
+| char_4229_aphris | 谬因 | - | - |
 | char_422_aurora | 极光 | Aurora | オーロラ |
+| char_4234_pedro | 佩德洛 | - | - |
 | char_423_blemsh | 瑕光 | Blemishine | ブレミシャイン |
 | char_426_billro | 卡涅利安 | Carnelian | カーネリアン |
 | char_427_vigil | 伺夜 | Vigil | ヴィジェル |

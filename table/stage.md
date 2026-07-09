@@ -538,6 +538,16 @@ tip: 请善用浏览器的搜索功能
 | act20side_st01 | 旅行前夕 | Eve of Journey | 旅行前夜 |
 | act20side_st02 | 失乐园 | Paradise Lost | 失楽園 |
 | act20side_tr01 | 引领潮流 | Trend Setter | トレンドの先駆け |
+| act21mini_01 | 消耗品 | - | - |
+| act21mini_02 | 门后世界 | - | - |
+| act21mini_03 | “嘀嗒嘀嗒” | - | - |
+| act21mini_04 | 失控沙盒 | - | - |
+| act21mini_05 | 入职邀请 | - | - |
+| act21mini_06 | 实验守则 | - | - |
+| act21mini_07 | 不断电 | - | - |
+| act21mini_08 | 演算的终点 | - | - |
+| act21mini_s01 | “绝不后退” | - | - |
+| act21mini_s02 | “试启动” | - | - |
 | act21side_01 | 雨落无声 | Silent Raindrops | 静かなる雨 |
 | act21side_01_m | 沃尔西尼监狱 | Volsinii Prison | ウォルシーニ監獄 |
 | act21side_01_t | 新城区大街 | Cittanova Main Street | 新市街の大通り |

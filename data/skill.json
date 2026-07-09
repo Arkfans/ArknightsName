@@ -306,6 +306,15 @@
     "ja_JP": "影縫い釘",
     "zh_CN": "影钉"
   },
+  "skchr_aphris_1": {
+    "zh_CN": "连续映射"
+  },
+  "skchr_aphris_2": {
+    "zh_CN": "临界瞬爆"
+  },
+  "skchr_aphris_3": {
+    "zh_CN": "混沌的本质"
+  },
   "skchr_apionr_1": {
     "en_US": "Lingering Scent",
     "ja_JP": "残り香",
@@ -2789,6 +2798,12 @@
     "en_US": "Genesis",
     "ja_JP": "創世記",
     "zh_CN": "创世纪"
+  },
+  "skchr_pedro_1": {
+    "zh_CN": "标记射击"
+  },
+  "skchr_pedro_2": {
+    "zh_CN": "交替撤离"
   },
   "skchr_pepe_1": {
     "en_US": "Get Stamped!",

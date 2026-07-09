@@ -68,6 +68,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_angel_2 | 扫射模式 | Shooting Mode | バーストモード |
 | skchr_angel_3 | 过载模式 | Overloading Mode | オーバーロード |
 | skchr_aosta_2 | 影钉 | Shadow Nails | 影縫い釘 |
+| skchr_aphris_1 | 连续映射 | - | - |
+| skchr_aphris_2 | 临界瞬爆 | - | - |
+| skchr_aphris_3 | 混沌的本质 | - | - |
 | skchr_apionr_1 | 只余芬芳 | Lingering Scent | 残り香 |
 | skchr_aprl_1 | 精准射击 | Precise Shooting | 精密射撃 |
 | skchr_aprl_2 | 灵活伪装 | Flexible Camouflage | コンシールメント |
@@ -590,6 +593,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_pasngr_3 | 辉煌裂片 | Glorious Shards | ルミナスフラグメンツ |
 | skchr_peacok_1 | 断罪 | Judgment | 断罪 |
 | skchr_peacok_2 | 创世纪 | Genesis | 創世記 |
+| skchr_pedro_1 | 标记射击 | - | - |
+| skchr_pedro_2 | 交替撤离 | - | - |
 | skchr_pepe_1 | 盖戳！ | Get Stamped! | ぺったん！ |
 | skchr_pepe_2 | 阻遏混乱锤 | Whirling Hammer Defense | トラブル解決術 |
 | skchr_pepe_3 | 时光震荡 | Shock of Time | 時の激震 |

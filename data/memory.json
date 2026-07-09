@@ -455,6 +455,9 @@
   "story_demkni_set_1_story_1": {
     "zh_CN": "沃土"
   },
+  "story_doberm_set_1_story_1": {
+    "zh_CN": "在玻利瓦尔以外"
+  },
   "story_doroth_set_1_story_1": {
     "en_US": "Where is the Friend's House?",
     "ja_JP": "友の故郷はいずこ",
@@ -1322,6 +1325,9 @@
   "story_rfalcn_set_1_story_1": {
     "zh_CN": "未来的痕迹"
   },
+  "story_rfalcn_set_2_story_1": {
+    "zh_CN": "第一道伤疤"
+  },
   "story_rfrost_set_1_story_1": {
     "en_US": "Searching for Home",
     "ja_JP": "故郷をたどって",
@@ -1601,6 +1607,9 @@
     "ja_JP": "「尖り」の味わい",
     "zh_CN": "尖刺的滋味"
   },
+  "story_tanya_set_1_story_1": {
+    "zh_CN": "昨日已死"
+  },
   "story_tecno_set_1_story_1": {
     "en_US": "A Dance Together",
     "ja_JP": "一緒に踊ろう",
@@ -1656,6 +1665,9 @@
     "en_US": "Homecoming",
     "ja_JP": "帰郷",
     "zh_CN": "归乡"
+  },
+  "story_turdus_set_1_story_1": {
+    "zh_CN": "号外！号外！"
   },
   "story_tuye_set_1_story_1": {
     "en_US": "Desert Rainbow",

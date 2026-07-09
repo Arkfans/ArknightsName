@@ -2863,12 +2863,24 @@
       "zh_CN": "可露希尔"
     }
   },
+  "char_4229_aphris": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "谬因"
+    }
+  },
   "char_422_aurora": {
     "type": "OPERATOR",
     "names": {
       "en_US": "Aurora",
       "ja_JP": "オーロラ",
       "zh_CN": "极光"
+    }
+  },
+  "char_4234_pedro": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "佩德洛"
     }
   },
   "char_423_blemsh": {
@@ -4011,6 +4023,12 @@
     "type": "TOKEN",
     "names": {
       "zh_CN": "战术锚点"
+    }
+  },
+  "token_10070_aphris_pc": {
+    "type": "TOKEN",
+    "names": {
+      "zh_CN": "中继器"
     }
   },
   "trap_079_allydonq": {
@@ -10085,6 +10103,12 @@
       "zh_CN": "血翼蔷薇"
     }
   },
+  "char_1046_sbell2@ambienceSynesthesia#8": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "曙光祝颂"
+    }
+  },
   "char_106_franka@ncg#1": {
     "type": "SKIN",
     "names": {
@@ -11065,6 +11089,12 @@
       "zh_CN": "暗矢"
     }
   },
+  "char_219_meteo@summer#22": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "夏卉 FA240"
+    }
+  },
   "char_219_meteo@sweep#1": {
     "type": "SKIN",
     "names": {
@@ -11735,6 +11765,12 @@
       "en_US": "Exterminator in the Square",
       "ja_JP": "広場の掃討者",
       "zh_CN": "广场扫荡客"
+    }
+  },
+  "char_328_cammou@summer#22": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "悠然假日 HD59"
     }
   },
   "char_328_cammou@witch#2": {
@@ -12727,6 +12763,12 @@
       "zh_CN": "梦幻高空"
     }
   },
+  "char_4117_ray@summer#22": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "夏卉 FA098"
+    }
+  },
   "char_4119_wanqin@epoque#41": {
     "type": "SKIN",
     "names": {
@@ -13497,6 +13539,12 @@
       "en_US": "Sweet Jackpot",
       "ja_JP": "スイーツ大賞",
       "zh_CN": "甜品大奖"
+    }
+  },
+  "char_498_inside@summer#22": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "悠然假日 HDm25"
     }
   },
   "char_499_kaitou@epoque#37": {
@@ -27435,6 +27483,12 @@
       "zh_CN": "限定池送10连"
     }
   },
+  "act21mini": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "丛林症结"
+    }
+  },
   "act21side": {
     "type": "ACTIVITY",
     "names": {
@@ -30802,6 +30856,12 @@
       "zh_CN": "时装回顾展·III"
     }
   },
+  "RandomSkinbox_4": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "时装回顾展·IV"
+    }
+  },
   "SINGLE_49_0_1_GACHA": {
     "type": "ITEM",
     "names": {
@@ -30872,6 +30932,18 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "辟路之人十连寻访凭证"
+    }
+  },
+  "SINGLE_75_0_1_GACHA": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "确定性混沌寻访凭证"
+    }
+  },
+  "SINGLE_75_0_1_GACHA_10": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "确定性混沌十连寻访凭证"
     }
   },
   "SOCIAL_PT": {
@@ -31632,6 +31704,12 @@
       "en_US": "Photocopies of 'Stranger Things'",
       "ja_JP": "『奇談怪論』複製本",
       "zh_CN": "《奇谈怪论》复印本"
+    }
+  },
+  "act21mini_token_shred": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "猎犬食糜"
     }
   },
   "act21side_token_permesso": {
@@ -34993,6 +35071,12 @@
       "zh_CN": "表情套组"
     }
   },
+  "emoticon_building_basic": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "表情套组"
+    }
+  },
   "emoticon_foolsday_amiya": {
     "type": "ITEM",
     "names": {
@@ -38263,12 +38347,24 @@
       "zh_CN": "可露希尔的信物"
     }
   },
+  "p_char_4229_aphris": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "谬因的信物"
+    }
+  },
   "p_char_422_aurora": {
     "type": "ITEM",
     "names": {
       "en_US": "Aurora's Token",
       "ja_JP": "オーロラの印",
       "zh_CN": "极光的信物"
+    }
+  },
+  "p_char_4234_pedro": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "佩德洛的信物"
     }
   },
   "p_char_423_blemsh": {
@@ -41751,6 +41847,12 @@
       "zh_CN": "辟路之人"
     }
   },
+  "SINGLE_75_0_1": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "确定性混沌"
+    }
+  },
   "SPECIAL_54_0_5": {
     "type": "POOL",
     "names": {
@@ -43228,6 +43330,24 @@
       "en_US": "Shadow Nails",
       "ja_JP": "影縫い釘",
       "zh_CN": "影钉"
+    }
+  },
+  "skchr_aphris_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "连续映射"
+    }
+  },
+  "skchr_aphris_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "临界瞬爆"
+    }
+  },
+  "skchr_aphris_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "混沌的本质"
     }
   },
   "skchr_apionr_1": {
@@ -47278,6 +47398,18 @@
       "en_US": "Genesis",
       "ja_JP": "創世記",
       "zh_CN": "创世纪"
+    }
+  },
+  "skchr_pedro_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "标记射击"
+    }
+  },
+  "skchr_pedro_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "交替撤离"
     }
   },
   "skchr_pepe_1": {
@@ -60214,6 +60346,66 @@
       "zh_CN": "引领潮流"
     }
   },
+  "act21mini_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "消耗品"
+    }
+  },
+  "act21mini_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "门后世界"
+    }
+  },
+  "act21mini_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "“嘀嗒嘀嗒”"
+    }
+  },
+  "act21mini_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "失控沙盒"
+    }
+  },
+  "act21mini_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "入职邀请"
+    }
+  },
+  "act21mini_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "实验守则"
+    }
+  },
+  "act21mini_07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "不断电"
+    }
+  },
+  "act21mini_08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "演算的终点"
+    }
+  },
+  "act21mini_s01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "“绝不后退”"
+    }
+  },
+  "act21mini_s02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "“试启动”"
+    }
+  },
   "act21side_01": {
     "type": "STAGE",
     "names": {
@@ -71366,6 +71558,12 @@
       "zh_CN": "终极赛道"
     }
   },
+  "act21mini_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "生长痛"
+    }
+  },
   "act21side_zone1": {
     "type": "ZONE",
     "names": {
@@ -74264,6 +74462,12 @@
       "zh_CN": "沃土"
     }
   },
+  "story_doberm_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "在玻利瓦尔以外"
+    }
+  },
   "story_doroth_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -75680,6 +75884,12 @@
       "zh_CN": "未来的痕迹"
     }
   },
+  "story_rfalcn_set_2_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "第一道伤疤"
+    }
+  },
   "story_rfrost_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -76130,6 +76340,12 @@
       "zh_CN": "尖刺的滋味"
     }
   },
+  "story_tanya_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "昨日已死"
+    }
+  },
   "story_tecno_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -76220,6 +76436,12 @@
       "en_US": "Homecoming",
       "ja_JP": "帰郷",
       "zh_CN": "归乡"
+    }
+  },
+  "story_turdus_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "号外！号外！"
     }
   },
   "story_tuye_set_1_story_1": {
