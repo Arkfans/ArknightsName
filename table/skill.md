@@ -499,6 +499,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_marcil_3 | 爆破魔法 | Explosion Magic | 爆破魔法 |
 | skchr_mberry_1 | 治愈云雾 | Healing Haze | ヒーリングミスト |
 | skchr_mberry_2 | 安全区域 | Safe Zone | セーフティゾーン |
+| skchr_mcnist_1 | 聚类分析 | - | - |
+| skchr_mcnist_2 | 协防术式 | - | - |
+| skchr_mcnist_3 | 工程学十字星 | - | - |
 | skchr_melnte_1 | 饱和脉冲 | Saturated Pulse | 飽和パルス |
 | skchr_melnte_2 | 临界爆发 | Critical Burst | リミテッドバースト |
 | skchr_meteo_1 | 霰射弹头 | Buckshot | 散弾装填 |
@@ -1377,6 +1380,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_ltstat | 祈祷 | Prayer | 祈り |
 | sktok_machst | 强化加固 | Strengthen and Reinforce | 補強工事 |
 | sktok_magiccircle | 调谐 | Tuning | チューニング |
+| sktok_mcgraf_1 | 结构性原理 | - | - |
+| sktok_mcgraf_2 | 结构性原理 | - | - |
+| sktok_mcgraf_3 | 工程学十字星 | - | - |
 | sktok_mercha | 战地鼓舞 | Battlefield Inspiration | 戦地の激励 |
 | sktok_merchaa | 战地鼓舞 | Battlefield Inspiration | 戦地の激励 |
 | sktok_merchab | 战地鼓舞 | Battlefield Inspiration | 戦地の激励 |
@@ -1502,7 +1508,15 @@ tip: 请善用浏览器的搜索功能
 | sktok_sensor | 反隐 | Detection | アンチステルス |
 | sktok_sglink | 纯净结晶 | Pure Crystal | 純粋結晶 |
 | sktok_sgray | 结晶消除桩 | Decrystallizing Totem | 結晶除去杭 |
+| sktok_shchst | “我的了！” | - | - |
+| sktok_shfort | "危朽" | - | - |
 | sktok_shielder | 护盾提供 | Provide Shield | シールド付与 |
+| sktok_shmbmb | 全域信息失真 | - | - |
+| sktok_shnbox | 诱人珍宝 | - | - |
+| sktok_shrbox | 刺人植物 | - | - |
+| sktok_shruin | "崩解" | - | - |
+| sktok_shsbox | 极诱人珍宝 | - | - |
+| sktok_shtlbx | “款到出货” | - | - |
 | sktok_skadi2_1 | 共鸣 | Resonance | 共鳴 |
 | sktok_skadi2_2 | 共鸣 | Resonance | 共鳴 |
 | sktok_skadi2_3 | 共鸣 | Resonance | 共鳴 |

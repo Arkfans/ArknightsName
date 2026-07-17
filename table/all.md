@@ -376,6 +376,7 @@ tip: 请善用浏览器的搜索功能
 | char_4228_closur | 可露希尔 | - | - |
 | char_4229_aphris | 谬因 | - | - |
 | char_422_aurora | 极光 | Aurora | オーロラ |
+| char_4230_mcnist | 机械师 | - | - |
 | char_4234_pedro | 佩德洛 | - | - |
 | char_423_blemsh | 瑕光 | Blemishine | ブレミシャイン |
 | char_426_billro | 卡涅利安 | Carnelian | カーネリアン |
@@ -524,6 +525,7 @@ tip: 请善用浏览器的搜索功能
 | token_10065_demetr_dmtpos | 牵绊 | - | - |
 | token_10066_closur_ourbase | 指挥中心 | - | - |
 | token_10068_kalts2_mtship | 战术锚点 | - | - |
+| token_10069_mcnist_mcgraf | 结构性原理 | - | - |
 | token_10070_aphris_pc | 中继器 | - | - |
 | trap_079_allydonq | 猎潮的骑士 | Tide-Hunt Knight | 猟潮の騎士 |
 | trap_001_crate | 障碍物 | Roadblock | 障害物 |
@@ -986,6 +988,14 @@ tip: 请善用浏览器的搜索功能
 | trap_316_ubtower | 警戒塔 | - | - |
 | trap_317_ubprison | 禁闭所 | - | - |
 | trap_318_ubodst | 伪装工具 | - | - |
+| trap_320_shtlbx | 丰饶树冢 | - | - |
+| trap_321_shnbox | 恶笼草 | - | - |
+| trap_322_shrbox | 畸变恶笼草 | - | - |
+| trap_323_shsbox | 箱型恶笼草 | - | - |
+| trap_324_shmbmb | 源阶方模块 | - | - |
+| trap_325_shfort | “危朽” | - | - |
+| trap_326_shruin | “崩解” | - | - |
+| trap_327_shchst | 坎诺特保险柜 | - | - |
 | trap_328_newlamp | 城市霓虹 | - | - |
 | trap_329_rift | 泄漏标记 | - | - |
 | trap_330_ycwang | 演出望 | - | - |
@@ -1757,6 +1767,7 @@ tip: 请善用浏览器的搜索功能
 | char_4193_lemuen@ambienceSynesthesia#7 | 暮星安魂曲 | - | - |
 | char_4194_rmixer@boc#12 | 天穹肇始 | - | - |
 | char_4195_radian@game#8 | 乱数法则 | - | - |
+| char_4198_christ@epoque#56 | 底绒舞会 | - | - |
 | char_4202_haruka@iteration#6 | 常世之幻 | - | - |
 | char_4207_branch@yun#10 | 撷香霭 | - | - |
 | char_420_flamtl@game#2 | 小健将 | Sport For All | サイバー闘技者 |
@@ -3267,6 +3278,28 @@ tip: 请善用浏览器的搜索功能
 | enemy_2129_dylong | 怨骸 | - | - |
 | enemy_2130_dyswrd | 敛傲 | - | - |
 | enemy_2131_dyfire | 愠怒 | - | - |
+| enemy_2133_shdopl | 空值体 | - | - |
+| enemy_2134_shrshep | 颂水贤者 | - | - |
+| enemy_2135_shkrbt | 聆风猎手 | - | - |
+| enemy_2136_shcolo | 撼地遗众 | - | - |
+| enemy_2137_shsdgo | 猎犬proto | - | - |
+| enemy_2138_shdbjg | 汉科 | - | - |
+| enemy_2139_shdbj2 | “大总统”汉科 | - | - |
+| enemy_2140_shsgzd | 德莱昂 | - | - |
+| enemy_2141_shsgz2 | “征服者”德莱昂 | - | - |
+| enemy_2142_shsggd | 赤金条 | - | - |
+| enemy_2143_shwksc | 埃尔伯特 | - | - |
+| enemy_2144_shwks2 | “异端”埃尔伯特 | - | - |
+| enemy_2145_cadejo | 卡德霍，黑流之源 | - | - |
+| enemy_2146_cadesd | 痛楚化身 | - | - |
+| enemy_2147_shophm | 洛伦茨，扰动之谬 | - | - |
+| enemy_2148_shorbb | 源阶方 | - | - |
+| enemy_2149_shorsm | 源阶粒素 | - | - |
+| enemy_2150_shchmr | 玻利瓦尔，症结之核 | - | - |
+| enemy_2151_shwolf | 未名的荒原 | - | - |
+| enemy_2152_shezlc | 恶笼草 | - | - |
+| enemy_2153_shcan | 坎诺特 | - | - |
+| enemy_2154_shdfb | “火种” | - | - |
 | enemy_3001_upeopl | 乌萨斯平民 | Ursus Civilian | ウルサス民間人 |
 | enemy_3002_ftrtal | 斗士塔露拉 | Talulah, the Fighter | 闘士タルラ |
 | enemy_3003_alymot | 大奖赛运输艇 | Competition Transport Vessel | 大会輸送艇 |
@@ -3771,6 +3804,7 @@ Event | なないろのお茶会 |
 | act42sre | 众生行记·复刻 | - | - |
 | act43side | 红丝绒 | Act or Die | 緋染めのビロード |
 | act43sign | 良辰迎月签到活动 | A Good Moony Time Login Event | 嘉辰令月スタンプ |
+| act43sre | 红丝绒·复刻 | - | - |
 | act44side | 墟 | - | - |
 | act44sign | 构想试炼签到活动 | Conceptual Crucible Login Event | 仮想試練スタンプ |
 | act45side | 无忧梦呓 | - | - |
@@ -4307,6 +4341,7 @@ Event | なないろのお茶会 |
 | act42side_token_pacifier | 蒙恩的奶嘴 | Enlightened Pacifier | 祝福のおしゃぶり |
 | act42side_token_pacifier_rep_1 | 蒙恩的奶嘴 | - | - |
 | act43side_token_phantom | 神秘片场黑影 | Phantom of the Studio | 謎の黒い影 |
+| act43side_token_phantom_rep_1 | 神秘片场黑影 | - | - |
 | act44side_token_information | 闲言碎语 | - | - |
 | act44side_token_ticket | 艺人见面抽选券 | - | - |
 | act44side_token_treasure | "宝物袋" | - | - |
@@ -5096,6 +5131,7 @@ Event | なないろのお茶会 |
 | p_char_4228_closur | 可露希尔的信物 | - | - |
 | p_char_4229_aphris | 谬因的信物 | - | - |
 | p_char_422_aurora | 极光的信物 | Aurora's Token | オーロラの印 |
+| p_char_4230_mcnist | 机械师的信物 | - | - |
 | p_char_4234_pedro | 佩德洛的信物 | - | - |
 | p_char_423_blemsh | 瑕光的信物 | Blemishine's Token | ブレミシャインの印 |
 | p_char_426_billro | 卡涅利安的信物 | Carnelian's Token | カーネリアンの印 |
@@ -5223,6 +5259,8 @@ Event | なないろのお茶会 |
 | rogue_4_token_grow | 散佚迷思 | Stray Myths | 散逸した思案 |
 | rogue_5_token_bp | 迷路幼伥 | - | - |
 | rogue_5_token_grow | 失落智识 | - | - |
+| rogue_6_token_bp | 源流样本 | - | - |
+| rogue_6_token_grow | 演化算子 | - | - |
 | sandbox_1_tokencoin | 繁荣点数 | Prosperity Point | 繁栄ポイント |
 | sandbox_2_tokencoin | 任务验收单 | - | - |
 | so_char_exp_1 | 特勤作战记录 | - | - |
@@ -5576,6 +5614,7 @@ Event | なないろのお茶会 |
 | SINGLE_71_0_5 | 自火中归还 | - | - |
 | SINGLE_72_0_1 | 辟路之人 | - | - |
 | SINGLE_75_0_1 | 确定性混沌 | - | - |
+| SINGLE_75_0_3 | 永不落幕 | - | - |
 | SPECIAL_54_0_5 | 定向甄选 | - | - |
 | SPECIAL_59_0_3 | 定向甄选 | - | - |
 | SPECIAL_61_0_3 | 定向甄选 | - | - |
@@ -6212,6 +6251,9 @@ Event | なないろのお茶会 |
 | skchr_marcil_3 | 爆破魔法 | Explosion Magic | 爆破魔法 |
 | skchr_mberry_1 | 治愈云雾 | Healing Haze | ヒーリングミスト |
 | skchr_mberry_2 | 安全区域 | Safe Zone | セーフティゾーン |
+| skchr_mcnist_1 | 聚类分析 | - | - |
+| skchr_mcnist_2 | 协防术式 | - | - |
+| skchr_mcnist_3 | 工程学十字星 | - | - |
 | skchr_melnte_1 | 饱和脉冲 | Saturated Pulse | 飽和パルス |
 | skchr_melnte_2 | 临界爆发 | Critical Burst | リミテッドバースト |
 | skchr_meteo_1 | 霰射弹头 | Buckshot | 散弾装填 |
@@ -7090,6 +7132,9 @@ Event | なないろのお茶会 |
 | sktok_ltstat | 祈祷 | Prayer | 祈り |
 | sktok_machst | 强化加固 | Strengthen and Reinforce | 補強工事 |
 | sktok_magiccircle | 调谐 | Tuning | チューニング |
+| sktok_mcgraf_1 | 结构性原理 | - | - |
+| sktok_mcgraf_2 | 结构性原理 | - | - |
+| sktok_mcgraf_3 | 工程学十字星 | - | - |
 | sktok_mercha | 战地鼓舞 | Battlefield Inspiration | 戦地の激励 |
 | sktok_merchaa | 战地鼓舞 | Battlefield Inspiration | 戦地の激励 |
 | sktok_merchab | 战地鼓舞 | Battlefield Inspiration | 戦地の激励 |
@@ -7215,7 +7260,15 @@ Event | なないろのお茶会 |
 | sktok_sensor | 反隐 | Detection | アンチステルス |
 | sktok_sglink | 纯净结晶 | Pure Crystal | 純粋結晶 |
 | sktok_sgray | 结晶消除桩 | Decrystallizing Totem | 結晶除去杭 |
+| sktok_shchst | “我的了！” | - | - |
+| sktok_shfort | "危朽" | - | - |
 | sktok_shielder | 护盾提供 | Provide Shield | シールド付与 |
+| sktok_shmbmb | 全域信息失真 | - | - |
+| sktok_shnbox | 诱人珍宝 | - | - |
+| sktok_shrbox | 刺人植物 | - | - |
+| sktok_shruin | "崩解" | - | - |
+| sktok_shsbox | 极诱人珍宝 | - | - |
+| sktok_shtlbx | “款到出货” | - | - |
 | sktok_skadi2_1 | 共鸣 | Resonance | 共鳴 |
 | sktok_skadi2_2 | 共鸣 | Resonance | 共鳴 |
 | sktok_skadi2_3 | 共鸣 | Resonance | 共鳴 |
@@ -8723,6 +8776,7 @@ Event | なないろのお茶会 |
 | camp_r_30 | 暗流巢窟  | - | - |
 | camp_r_31 | 炽灼车间 | - | - |
 | camp_r_32 | 朱墙食府 | - | - |
+| camp_r_33 | 默祷圣祠 | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |
 | hard_05-02 | 炼狱行动-2 | Operation Inferno-2 | 煉獄作戦-2 |
 | hard_05-03 | 炼狱行动-3 | Operation Inferno-3 | 煉獄作戦-3 |
@@ -9614,6 +9668,8 @@ Event | なないろのお茶会 |
 | act42sre_zone3 | 息止安所 | - | - |
 | act43side_zone1 | 演出开始 | Performance Begins | 幕を上げる |
 | act43side_zone2 | 为戏剧，为永恒 | For Drama, For Eternity | 舞台へ、永遠へ |
+| act43sre_zone1 | 演出开始 | - | - |
+| act43sre_zone2 | 为戏剧，为永恒 | - | - |
 | act44side_zone1 | 不夜街区 | - | - |
 | act44side_zone2 | 锻冶旧迹 | - | - |
 | act44side_zone3 | 绝缘石阶 | - | - |
@@ -9737,6 +9793,8 @@ Event | なないろのお茶会 |
 | permanent_sidestory_32_zone1 | 瞻望圣堂 | - | - |
 | permanent_sidestory_32_zone2 | 谒见神祇 | - | - |
 | permanent_sidestory_32_zone3 | 息止安所 | - | - |
+| permanent_sidestory_33_zone1 | 演出开始 | - | - |
+| permanent_sidestory_33_zone2 | 为戏剧，为永恒 | - | - |
 | permanent_sidestory_3_zone1 | 下城区 | Downtown | 繁華街 |
 | permanent_sidestory_3_zone2 | 东部郊区 | Eastern Suburbs | 東部郊外 |
 | permanent_sidestory_4_zone1 | 议事高塔 | Capitol Spire | 大議事塔 |
@@ -10173,3 +10231,4 @@ Event | なないろのお茶会 |
 | rogue_3 | 探索者的银凇止境 | Expeditioner's Jǫklumarkar | 探索者と銀氷の果て |
 | rogue_4 | 萨卡兹的无终奇语 | Sarkaz's Furnaceside Fables | サルカズの炉辺奇談 |
 | rogue_5 | 岁的界园志异 | - | - |
+| rogue_6 | 沉沦者的黑流树海 | - | - |

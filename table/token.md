@@ -75,5 +75,6 @@ tip: 请善用浏览器的搜索功能
 | token_10065_demetr_dmtpos | 牵绊 | - | - |
 | token_10066_closur_ourbase | 指挥中心 | - | - |
 | token_10068_kalts2_mtship | 战术锚点 | - | - |
+| token_10069_mcnist_mcgraf | 结构性原理 | - | - |
 | token_10070_aphris_pc | 中继器 | - | - |
 | trap_079_allydonq | 猎潮的骑士 | Tide-Hunt Knight | 猟潮の騎士 |

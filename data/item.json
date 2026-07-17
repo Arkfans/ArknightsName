@@ -1908,6 +1908,9 @@
     "ja_JP": "謎の黒い影",
     "zh_CN": "神秘片场黑影"
   },
+  "act43side_token_phantom_rep_1": {
+    "zh_CN": "神秘片场黑影"
+  },
   "act44side_token_information": {
     "zh_CN": "闲言碎语"
   },
@@ -5538,6 +5541,9 @@
     "ja_JP": "オーロラの印",
     "zh_CN": "极光的信物"
   },
+  "p_char_4230_mcnist": {
+    "zh_CN": "机械师的信物"
+  },
   "p_char_4234_pedro": {
     "zh_CN": "佩德洛的信物"
   },
@@ -6140,6 +6146,12 @@
   },
   "rogue_5_token_grow": {
     "zh_CN": "失落智识"
+  },
+  "rogue_6_token_bp": {
+    "zh_CN": "源流样本"
+  },
+  "rogue_6_token_grow": {
+    "zh_CN": "演化算子"
   },
   "sandbox_1_tokencoin": {
     "en_US": "Prosperity Point",

@@ -239,6 +239,7 @@ Event | なないろのお茶会 |
 | act42sre | 众生行记·复刻 | - | - |
 | act43side | 红丝绒 | Act or Die | 緋染めのビロード |
 | act43sign | 良辰迎月签到活动 | A Good Moony Time Login Event | 嘉辰令月スタンプ |
+| act43sre | 红丝绒·复刻 | - | - |
 | act44side | 墟 | - | - |
 | act44sign | 构想试炼签到活动 | Conceptual Crucible Login Event | 仮想試練スタンプ |
 | act45side | 无忧梦呓 | - | - |

@@ -232,6 +232,8 @@ tip: 请善用浏览器的搜索功能
 | act42sre_zone3 | 息止安所 | - | - |
 | act43side_zone1 | 演出开始 | Performance Begins | 幕を上げる |
 | act43side_zone2 | 为戏剧，为永恒 | For Drama, For Eternity | 舞台へ、永遠へ |
+| act43sre_zone1 | 演出开始 | - | - |
+| act43sre_zone2 | 为戏剧，为永恒 | - | - |
 | act44side_zone1 | 不夜街区 | - | - |
 | act44side_zone2 | 锻冶旧迹 | - | - |
 | act44side_zone3 | 绝缘石阶 | - | - |
@@ -355,6 +357,8 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_32_zone1 | 瞻望圣堂 | - | - |
 | permanent_sidestory_32_zone2 | 谒见神祇 | - | - |
 | permanent_sidestory_32_zone3 | 息止安所 | - | - |
+| permanent_sidestory_33_zone1 | 演出开始 | - | - |
+| permanent_sidestory_33_zone2 | 为戏剧，为永恒 | - | - |
 | permanent_sidestory_3_zone1 | 下城区 | Downtown | 繁華街 |
 | permanent_sidestory_3_zone2 | 东部郊区 | Eastern Suburbs | 東部郊外 |
 | permanent_sidestory_4_zone1 | 议事高塔 | Capitol Spire | 大議事塔 |

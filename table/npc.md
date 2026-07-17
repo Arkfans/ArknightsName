@@ -4595,16 +4595,17 @@ tip: 请善用浏览器的搜索功能
 |   | 吃惊的游客 | Frivolous Columbian | 怪しいリーベリ |
 |   | 哥伦比亚商贩 | Humble Secretary | 死体安置所の従業員 |
 |   | 哥伦比亚旅人 | Millais | 無礼な記者 |
-|   | 尤里欧 | Morgue Worker | 観光客 |
-|   | 局促的病人 | Police Officer | 記者B |
-|   | 快递员 | Reporter B | 記者？ |
-|   | 愉快的哥伦比亚人 | Reporter? | 謙虚な秘書 |
-|   | 拿着硬币的游客 | Rude Reporter | 警官 |
-|   | 无礼的记者 | Street Hawker | 軽薄なクルビア人 |
-|   | 米莱斯 | Surprised Tourist | 運転手 |
-|   | 莫斯比警探 | Suspicious Liberi | 配達員 |
-|   | 街边摊贩 | Tourist With Coins | 酔っぱらった男 |
-|   | 警察 | Vice President's Secretary | 驚く観光客 |
+|   | 好事的市民 | Morgue Worker | 観光客 |
+|   | 尤里欧 | Police Officer | 記者B |
+|   | 局促的病人 | Reporter B | 記者？ |
+|   | 快递员 | Reporter? | 謙虚な秘書 |
+|   | 愉快的哥伦比亚人 | Rude Reporter | 警官 |
+|   | 拿着硬币的游客 | Street Hawker | 軽薄なクルビア人 |
+|   | 无礼的记者 | Surprised Tourist | 運転手 |
+|   | 米莱斯 | Suspicious Liberi | 配達員 |
+|   | 莫斯比警探 | Tourist With Coins | 酔っぱらった男 |
+|   | 街边摊贩 | Vice President's Secretary | 驚く観光客 |
+|   | 警察 |   |   |
 |   | 记者B |   |   |
 |   | 记者？ |   |   |
 |   | 谦恭的秘书 |   |   |
@@ -4618,16 +4619,17 @@ tip: 请善用浏览器的搜索功能
 |   | 母亲 | Excited Tourist | バーの客 |
 |   | 沙滩伞外派人员 | Finance | ビーチブレラ駐在員 |
 |   | 活泼的女性 | Impatient Reporter | リポーター |
-|   | 特里蒙市民 | Nervous Entrepreneur | レポーター |
-|   | 看导览手册的游客 | Reporter | 活発な女性 |
-|   | 紧张的创业者 | Reporter A | 痩せた長身の女性 |
-|   | 记者 | Staff Worker | 経理 |
-|   | 记者A | Tall Woman | 緊張気味の起業家 |
-|   | 财务 | Tourist Reading Guide | 興奮する観光客 |
-|   | 酒吧客人 | Trimountarian | 見知らぬ研究員 |
-|   | 陌生的研究员 | Unfamiliar Researcher | 観光客 |
-|   | 高瘦的女人 |   | 記者 |
-|   | 黑钢文员 |   | 記者A |
+|   | 焦虑的市民 | Nervous Entrepreneur | レポーター |
+|   | 特里蒙市民 | Reporter | 活発な女性 |
+|   | 看导览手册的游客 | Reporter A | 痩せた長身の女性 |
+|   | 紧张的创业者 | Staff Worker | 経理 |
+|   | 记者 | Tall Woman | 緊張気味の起業家 |
+|   | 记者A | Tourist Reading Guide | 興奮する観光客 |
+|   | 财务 | Trimountarian | 見知らぬ研究員 |
+|   | 酒吧客人 | Unfamiliar Researcher | 観光客 |
+|   | 陌生的研究员 |   | 記者 |
+|   | 高瘦的女人 |   | 記者A |
+|   | 黑钢文员 |   |   |
 | avg_npc_526_1 | 动力甲士兵 | Columbian Soldier | クルビア兵 |
 |   | 动力甲士兵？ | Power Armor Operator | パワードスーツ兵 |
 |   | 哥伦比亚士兵 | Power Armor Operator? | パワードスーツ兵？ |

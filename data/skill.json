@@ -2351,6 +2351,15 @@
     "ja_JP": "セーフティゾーン",
     "zh_CN": "安全区域"
   },
+  "skchr_mcnist_1": {
+    "zh_CN": "聚类分析"
+  },
+  "skchr_mcnist_2": {
+    "zh_CN": "协防术式"
+  },
+  "skchr_mcnist_3": {
+    "zh_CN": "工程学十字星"
+  },
   "skchr_melnte_1": {
     "en_US": "Saturated Pulse",
     "ja_JP": "飽和パルス",
@@ -6305,6 +6314,15 @@
     "ja_JP": "チューニング",
     "zh_CN": "调谐"
   },
+  "sktok_mcgraf_1": {
+    "zh_CN": "结构性原理"
+  },
+  "sktok_mcgraf_2": {
+    "zh_CN": "结构性原理"
+  },
+  "sktok_mcgraf_3": {
+    "zh_CN": "工程学十字星"
+  },
   "sktok_mercha": {
     "en_US": "Battlefield Inspiration",
     "ja_JP": "戦地の激励",
@@ -6876,10 +6894,34 @@
     "ja_JP": "結晶除去杭",
     "zh_CN": "结晶消除桩"
   },
+  "sktok_shchst": {
+    "zh_CN": "“我的了！”"
+  },
+  "sktok_shfort": {
+    "zh_CN": "\"危朽\""
+  },
   "sktok_shielder": {
     "en_US": "Provide Shield",
     "ja_JP": "シールド付与",
     "zh_CN": "护盾提供"
+  },
+  "sktok_shmbmb": {
+    "zh_CN": "全域信息失真"
+  },
+  "sktok_shnbox": {
+    "zh_CN": "诱人珍宝"
+  },
+  "sktok_shrbox": {
+    "zh_CN": "刺人植物"
+  },
+  "sktok_shruin": {
+    "zh_CN": "\"崩解\""
+  },
+  "sktok_shsbox": {
+    "zh_CN": "极诱人珍宝"
+  },
+  "sktok_shtlbx": {
+    "zh_CN": "“款到出货”"
   },
   "sktok_skadi2_1": {
     "en_US": "Resonance",

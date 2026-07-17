@@ -2877,6 +2877,12 @@
       "zh_CN": "极光"
     }
   },
+  "char_4230_mcnist": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "机械师"
+    }
+  },
   "char_4234_pedro": {
     "type": "OPERATOR",
     "names": {
@@ -4023,6 +4029,12 @@
     "type": "TOKEN",
     "names": {
       "zh_CN": "战术锚点"
+    }
+  },
+  "token_10069_mcnist_mcgraf": {
+    "type": "TOKEN",
+    "names": {
+      "zh_CN": "结构性原理"
     }
   },
   "token_10070_aphris_pc": {
@@ -7367,6 +7379,54 @@
     "type": "TRAP",
     "names": {
       "zh_CN": "伪装工具"
+    }
+  },
+  "trap_320_shtlbx": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "丰饶树冢"
+    }
+  },
+  "trap_321_shnbox": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "恶笼草"
+    }
+  },
+  "trap_322_shrbox": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "畸变恶笼草"
+    }
+  },
+  "trap_323_shsbox": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "箱型恶笼草"
+    }
+  },
+  "trap_324_shmbmb": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "源阶方模块"
+    }
+  },
+  "trap_325_shfort": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "“危朽”"
+    }
+  },
+  "trap_326_shruin": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "“崩解”"
+    }
+  },
+  "trap_327_shchst": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "坎诺特保险柜"
     }
   },
   "trap_328_newlamp": {
@@ -13067,6 +13127,12 @@
     "type": "SKIN",
     "names": {
       "zh_CN": "乱数法则"
+    }
+  },
+  "char_4198_christ@epoque#56": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "底绒舞会"
     }
   },
   "char_4202_haruka@iteration#6": {
@@ -24613,6 +24679,138 @@
       "zh_CN": "愠怒"
     }
   },
+  "enemy_2133_shdopl": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "空值体"
+    }
+  },
+  "enemy_2134_shrshep": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "颂水贤者"
+    }
+  },
+  "enemy_2135_shkrbt": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "聆风猎手"
+    }
+  },
+  "enemy_2136_shcolo": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "撼地遗众"
+    }
+  },
+  "enemy_2137_shsdgo": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "猎犬proto"
+    }
+  },
+  "enemy_2138_shdbjg": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "汉科"
+    }
+  },
+  "enemy_2139_shdbj2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“大总统”汉科"
+    }
+  },
+  "enemy_2140_shsgzd": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "德莱昂"
+    }
+  },
+  "enemy_2141_shsgz2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“征服者”德莱昂"
+    }
+  },
+  "enemy_2142_shsggd": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "赤金条"
+    }
+  },
+  "enemy_2143_shwksc": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "埃尔伯特"
+    }
+  },
+  "enemy_2144_shwks2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“异端”埃尔伯特"
+    }
+  },
+  "enemy_2145_cadejo": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "卡德霍，黑流之源"
+    }
+  },
+  "enemy_2146_cadesd": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "痛楚化身"
+    }
+  },
+  "enemy_2147_shophm": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "洛伦茨，扰动之谬"
+    }
+  },
+  "enemy_2148_shorbb": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "源阶方"
+    }
+  },
+  "enemy_2149_shorsm": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "源阶粒素"
+    }
+  },
+  "enemy_2150_shchmr": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "玻利瓦尔，症结之核"
+    }
+  },
+  "enemy_2151_shwolf": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "未名的荒原"
+    }
+  },
+  "enemy_2152_shezlc": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "恶笼草"
+    }
+  },
+  "enemy_2153_shcan": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "坎诺特"
+    }
+  },
+  "enemy_2154_shdfb": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“火种”"
+    }
+  },
   "enemy_3001_upeopl": {
     "type": "ENEMY",
     "names": {
@@ -28317,6 +28515,12 @@
       "en_US": "A Good Moony Time Login Event",
       "ja_JP": "嘉辰令月スタンプ",
       "zh_CN": "良辰迎月签到活动"
+    }
+  },
+  "act43sre": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "红丝绒·复刻"
     }
   },
   "act44side": {
@@ -32367,6 +32571,12 @@
     "names": {
       "en_US": "Phantom of the Studio",
       "ja_JP": "謎の黒い影",
+      "zh_CN": "神秘片场黑影"
+    }
+  },
+  "act43side_token_phantom_rep_1": {
+    "type": "ITEM",
+    "names": {
       "zh_CN": "神秘片场黑影"
     }
   },
@@ -38361,6 +38571,12 @@
       "zh_CN": "极光的信物"
     }
   },
+  "p_char_4230_mcnist": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "机械师的信物"
+    }
+  },
   "p_char_4234_pedro": {
     "type": "ITEM",
     "names": {
@@ -39343,6 +39559,18 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "失落智识"
+    }
+  },
+  "rogue_6_token_bp": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "源流样本"
+    }
+  },
+  "rogue_6_token_grow": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "演化算子"
     }
   },
   "sandbox_1_tokencoin": {
@@ -41851,6 +42079,12 @@
     "type": "POOL",
     "names": {
       "zh_CN": "确定性混沌"
+    }
+  },
+  "SINGLE_75_0_3": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "永不落幕"
     }
   },
   "SPECIAL_54_0_5": {
@@ -46668,6 +46902,24 @@
       "en_US": "Safe Zone",
       "ja_JP": "セーフティゾーン",
       "zh_CN": "安全区域"
+    }
+  },
+  "skchr_mcnist_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "聚类分析"
+    }
+  },
+  "skchr_mcnist_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "协防术式"
+    }
+  },
+  "skchr_mcnist_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "工程学十字星"
     }
   },
   "skchr_melnte_1": {
@@ -53258,6 +53510,24 @@
       "zh_CN": "调谐"
     }
   },
+  "sktok_mcgraf_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "结构性原理"
+    }
+  },
+  "sktok_mcgraf_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "结构性原理"
+    }
+  },
+  "sktok_mcgraf_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "工程学十字星"
+    }
+  },
   "sktok_mercha": {
     "type": "SKILL",
     "names": {
@@ -54204,12 +54474,60 @@
       "zh_CN": "结晶消除桩"
     }
   },
+  "sktok_shchst": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“我的了！”"
+    }
+  },
+  "sktok_shfort": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "\"危朽\""
+    }
+  },
   "sktok_shielder": {
     "type": "SKILL",
     "names": {
       "en_US": "Provide Shield",
       "ja_JP": "シールド付与",
       "zh_CN": "护盾提供"
+    }
+  },
+  "sktok_shmbmb": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "全域信息失真"
+    }
+  },
+  "sktok_shnbox": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "诱人珍宝"
+    }
+  },
+  "sktok_shrbox": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "刺人植物"
+    }
+  },
+  "sktok_shruin": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "\"崩解\""
+    }
+  },
+  "sktok_shsbox": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "极诱人珍宝"
+    }
+  },
+  "sktok_shtlbx": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“款到出货”"
     }
   },
   "sktok_skadi2_1": {
@@ -65544,6 +65862,12 @@
       "zh_CN": "朱墙食府"
     }
   },
+  "camp_r_33": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "默祷圣祠"
+    }
+  },
   "hard_05-01": {
     "type": "STAGE",
     "names": {
@@ -72420,6 +72744,18 @@
       "zh_CN": "为戏剧，为永恒"
     }
   },
+  "act43sre_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "演出开始"
+    }
+  },
+  "act43sre_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "为戏剧，为永恒"
+    }
+  },
   "act44side_zone1": {
     "type": "ZONE",
     "names": {
@@ -73324,6 +73660,18 @@
     "type": "ZONE",
     "names": {
       "zh_CN": "息止安所"
+    }
+  },
+  "permanent_sidestory_33_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "演出开始"
+    }
+  },
+  "permanent_sidestory_33_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "为戏剧，为永恒"
     }
   },
   "permanent_sidestory_3_zone1": {
@@ -76704,6 +77052,12 @@
     "type": "ROGUELIKE",
     "names": {
       "zh_CN": "岁的界园志异"
+    }
+  },
+  "rogue_6": {
+    "type": "ROGUELIKE",
+    "names": {
+      "zh_CN": "沉沦者的黑流树海"
     }
   }
 }

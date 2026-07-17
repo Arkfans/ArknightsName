@@ -1426,6 +1426,28 @@ tip: 请善用浏览器的搜索功能
 | enemy_2129_dylong | 怨骸 | - | - |
 | enemy_2130_dyswrd | 敛傲 | - | - |
 | enemy_2131_dyfire | 愠怒 | - | - |
+| enemy_2133_shdopl | 空值体 | - | - |
+| enemy_2134_shrshep | 颂水贤者 | - | - |
+| enemy_2135_shkrbt | 聆风猎手 | - | - |
+| enemy_2136_shcolo | 撼地遗众 | - | - |
+| enemy_2137_shsdgo | 猎犬proto | - | - |
+| enemy_2138_shdbjg | 汉科 | - | - |
+| enemy_2139_shdbj2 | “大总统”汉科 | - | - |
+| enemy_2140_shsgzd | 德莱昂 | - | - |
+| enemy_2141_shsgz2 | “征服者”德莱昂 | - | - |
+| enemy_2142_shsggd | 赤金条 | - | - |
+| enemy_2143_shwksc | 埃尔伯特 | - | - |
+| enemy_2144_shwks2 | “异端”埃尔伯特 | - | - |
+| enemy_2145_cadejo | 卡德霍，黑流之源 | - | - |
+| enemy_2146_cadesd | 痛楚化身 | - | - |
+| enemy_2147_shophm | 洛伦茨，扰动之谬 | - | - |
+| enemy_2148_shorbb | 源阶方 | - | - |
+| enemy_2149_shorsm | 源阶粒素 | - | - |
+| enemy_2150_shchmr | 玻利瓦尔，症结之核 | - | - |
+| enemy_2151_shwolf | 未名的荒原 | - | - |
+| enemy_2152_shezlc | 恶笼草 | - | - |
+| enemy_2153_shcan | 坎诺特 | - | - |
+| enemy_2154_shdfb | “火种” | - | - |
 | enemy_3001_upeopl | 乌萨斯平民 | Ursus Civilian | ウルサス民間人 |
 | enemy_3002_ftrtal | 斗士塔露拉 | Talulah, the Fighter | 闘士タルラ |
 | enemy_3003_alymot | 大奖赛运输艇 | Competition Transport Vessel | 大会輸送艇 |

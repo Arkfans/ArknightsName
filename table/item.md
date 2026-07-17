@@ -416,6 +416,7 @@ tip: 请善用浏览器的搜索功能
 | act42side_token_pacifier | 蒙恩的奶嘴 | Enlightened Pacifier | 祝福のおしゃぶり |
 | act42side_token_pacifier_rep_1 | 蒙恩的奶嘴 | - | - |
 | act43side_token_phantom | 神秘片场黑影 | Phantom of the Studio | 謎の黒い影 |
+| act43side_token_phantom_rep_1 | 神秘片场黑影 | - | - |
 | act44side_token_information | 闲言碎语 | - | - |
 | act44side_token_ticket | 艺人见面抽选券 | - | - |
 | act44side_token_treasure | "宝物袋" | - | - |
@@ -1205,6 +1206,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_4228_closur | 可露希尔的信物 | - | - |
 | p_char_4229_aphris | 谬因的信物 | - | - |
 | p_char_422_aurora | 极光的信物 | Aurora's Token | オーロラの印 |
+| p_char_4230_mcnist | 机械师的信物 | - | - |
 | p_char_4234_pedro | 佩德洛的信物 | - | - |
 | p_char_423_blemsh | 瑕光的信物 | Blemishine's Token | ブレミシャインの印 |
 | p_char_426_billro | 卡涅利安的信物 | Carnelian's Token | カーネリアンの印 |
@@ -1332,6 +1334,8 @@ tip: 请善用浏览器的搜索功能
 | rogue_4_token_grow | 散佚迷思 | Stray Myths | 散逸した思案 |
 | rogue_5_token_bp | 迷路幼伥 | - | - |
 | rogue_5_token_grow | 失落智识 | - | - |
+| rogue_6_token_bp | 源流样本 | - | - |
+| rogue_6_token_grow | 演化算子 | - | - |
 | sandbox_1_tokencoin | 繁荣点数 | Prosperity Point | 繁栄ポイント |
 | sandbox_2_tokencoin | 任务验收单 | - | - |
 | so_char_exp_1 | 特勤作战记录 | - | - |

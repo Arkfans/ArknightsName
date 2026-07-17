@@ -465,6 +465,14 @@ tip: 请善用浏览器的搜索功能
 | trap_316_ubtower | 警戒塔 | - | - |
 | trap_317_ubprison | 禁闭所 | - | - |
 | trap_318_ubodst | 伪装工具 | - | - |
+| trap_320_shtlbx | 丰饶树冢 | - | - |
+| trap_321_shnbox | 恶笼草 | - | - |
+| trap_322_shrbox | 畸变恶笼草 | - | - |
+| trap_323_shsbox | 箱型恶笼草 | - | - |
+| trap_324_shmbmb | 源阶方模块 | - | - |
+| trap_325_shfort | “危朽” | - | - |
+| trap_326_shruin | “崩解” | - | - |
+| trap_327_shchst | 坎诺特保险柜 | - | - |
 | trap_328_newlamp | 城市霓虹 | - | - |
 | trap_329_rift | 泄漏标记 | - | - |
 | trap_330_ycwang | 演出望 | - | - |

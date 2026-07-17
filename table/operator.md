@@ -376,6 +376,7 @@ tip: 请善用浏览器的搜索功能
 | char_4228_closur | 可露希尔 | - | - |
 | char_4229_aphris | 谬因 | - | - |
 | char_422_aurora | 极光 | Aurora | オーロラ |
+| char_4230_mcnist | 机械师 | - | - |
 | char_4234_pedro | 佩德洛 | - | - |
 | char_423_blemsh | 瑕光 | Blemishine | ブレミシャイン |
 | char_426_billro | 卡涅利安 | Carnelian | カーネリアン |

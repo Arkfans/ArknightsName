@@ -1074,6 +1074,12 @@
     "ja_JP": "舞台へ、永遠へ",
     "zh_CN": "为戏剧，为永恒"
   },
+  "act43sre_zone1": {
+    "zh_CN": "演出开始"
+  },
+  "act43sre_zone2": {
+    "zh_CN": "为戏剧，为永恒"
+  },
   "act44side_zone1": {
     "zh_CN": "不夜街区"
   },
@@ -1610,6 +1616,12 @@
   },
   "permanent_sidestory_32_zone3": {
     "zh_CN": "息止安所"
+  },
+  "permanent_sidestory_33_zone1": {
+    "zh_CN": "演出开始"
+  },
+  "permanent_sidestory_33_zone2": {
+    "zh_CN": "为戏剧，为永恒"
   },
   "permanent_sidestory_3_zone1": {
     "en_US": "Downtown",
