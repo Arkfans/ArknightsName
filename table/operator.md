@@ -14,6 +14,7 @@ tip: 请善用浏览器的搜索功能
 | char_1012_skadi2 | 浊心斯卡蒂 | Skadi the Corrupting Heart | 濁心スカジ |
 | char_1013_chen2 | 假日威龙陈 | Ch'en the Holungday | 遊龍チェン |
 | char_1014_nearl2 | 耀骑士临光 | Nearl the Radiant Knight | 耀騎士ニアール |
+| char_1015_aglna2 | 予愿安洁莉娜 | - | - |
 | char_1016_agoat2 | 纯烬艾雅法拉 | Eyjafjalla the Hvít Aska | 純燼エイヤフィヤトラ |
 | char_1019_siege2 | 维娜·维多利亚 | Vina Victoria | ヴィーナ・ヴィクトリア |
 | char_101_sora | 空 | Sora | ソラ |
@@ -378,6 +379,9 @@ tip: 请善用浏览器的搜索功能
 | char_422_aurora | 极光 | Aurora | オーロラ |
 | char_4230_mcnist | 机械师 | - | - |
 | char_4234_pedro | 佩德洛 | - | - |
+| char_4235_thumpy | 珊比 | - | - |
+| char_4236_tmslot | 时隙 | - | - |
+| char_4237_jcinta | 嘉辛塔 | - | - |
 | char_423_blemsh | 瑕光 | Blemishine | ブレミシャイン |
 | char_426_billro | 卡涅利安 | Carnelian | カーネリアン |
 | char_427_vigil | 伺夜 | Vigil | ヴィジェル |

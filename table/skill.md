@@ -37,6 +37,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_aglina_1 | 秘杖·速充模式 | Arcane Staff - Quick Charge Mode | 秘杖・急収束　 |
 | skchr_aglina_2 | 秘杖·微粒模式 | Arcane Staff - Particle Mode | 秘杖・微粒子 |
 | skchr_aglina_3 | 秘杖·反重力模式 | Arcane Staff - Anti-Gravity Mode | 秘杖・反重力 |
+| skchr_aglna2_1 | 极速送达 | - | - |
+| skchr_aglna2_2 | 重力自定义 | - | - |
+| skchr_aglna2_3 | 酸橙的心事 | - | - |
 | skchr_agoat2_1 | 无声润物 | Soundless Sustenance | 無垢なる恵み |
 | skchr_agoat2_2 | 云霭荫佑 | Cloudmist Shelter | 雲煙の庇護 |
 | skchr_agoat2_3 | 火山回响 | Volcanic Echoes | ヴォルケーノ・エコー |
@@ -410,6 +413,7 @@ tip: 请善用浏览器的搜索功能
 | skchr_ironmn_3 | 铁钳号·原型机 | Prototype of Feist's Metal Crab | 鉄鉗号･プロトタイプ |
 | skchr_jaksel_1 | 给你一拳！ | Grit Those Teeth! | 全力パンチ！ |
 | skchr_jaksel_2 | 全神贯注！ | Pay Close Attention! | 全神経集中！ |
+| skchr_jcinta_2 | 伞下乘荫 | - | - |
 | skchr_jesca2_1 | 坚守阵线 | Hold the Line | 戦線維持 |
 | skchr_jesca2_2 | 掩蔽护卫 | Covered Defense | 掩護弾幕 |
 | skchr_jesca2_3 | 饱和迸射 | Saturation Burst | 飽和射撃 |
@@ -786,6 +790,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_thorns_3 | 至高之术 | Destreza | デストレッツァ |
 | skchr_threye_1 | 我见崩毁之前 | Before All I See Collapses | 崩壊を視しとき |
 | skchr_threye_2 | 我见枯朽之后 | After All I See Has Withered | 枯朽を視たりて |
+| skchr_thumpy_1 | “还不走？” | - | - |
+| skchr_thumpy_2 | “慢慢走~” | - | - |
+| skchr_thumpy_3 | “不准走！” | - | - |
 | skchr_tiger_1 | 碎甲拳 | Armorcrusher | 砕甲拳 |
 | skchr_tiger_2 | 裂魂 | Sundered Soul | 裂魂 |
 | skchr_tinman_1 | “老科利” | 'Ol' Curly' | 「オールドカーリー」 |
@@ -799,6 +806,7 @@ tip: 请善用浏览器的搜索功能
 | skchr_tknogi_2 | 森廻 | Forest's Embrace | 森廻 |
 | skchr_tmoris_1 | 颤栗之弦 | - | - |
 | skchr_tmoris_2 | 无存之所 | - | - |
+| skchr_tmslot_2 | 科技与传统仪式 | - | - |
 | skchr_toddi_1 | 信号矢 | Signal Arrow | 信号矢 |
 | skchr_toddi_2 | 便携破城矢 | Portable Fortcracker Arrows | 携帯破城矢 |
 | skchr_tomimi_1 | 部族技艺 | Tribal Techniques | 部族の教え |
@@ -1139,6 +1147,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_acspell017_1 | 晋升调配特许 | Advanced Deployment Permit | 昇進配分許可証 |
 | sktok_ads | 掩护 | Cover | 援護 |
 | sktok_aegiret_1 | 信标激活 | Activate Beacon | ビーコン起動 |
+| sktok_agmbox_1 | 显示 | - | - |
 | sktok_aidkit | 急救 | First Aid | 応急処置 |
 | sktok_airbomb | 砰！ | Bang! | バン！ |
 | sktok_airsup | 派遣空援 | Dispatch Air Support | 空援派遣 |

@@ -408,8 +408,34 @@ tip: 请善用浏览器的搜索功能
 | enemy_10211_murad | 泄漏源 | - | - |
 | enemy_1021_bslime | 高能源石虫 | Infused Originium Slug | バクダンムシ |
 | enemy_1021_bslime_2 | 高能源石虫·α | Infused Originium Slug α | バクダンムシα |
+| enemy_10221_agporc | 戴面具的孩童 | - | - |
+| enemy_10221_agporc_2 | 入戏太深的孩童 | - | - |
+| enemy_10222_agtski | 凑热闹的矿工 | - | - |
+| enemy_10222_agtski_2 | 勇争第一的矿工
+ | - | - |
+| enemy_10223_agtrac | 手推小矿车 | - | - |
+| enemy_10223_agtrac_2 | 传奇矿车 | - | - |
+| enemy_10224_agmess | “小帽子” | - | - |
+| enemy_10224_agmess_2 | “大披风” | - | - |
+| enemy_10225_agpbus | 欢乐校车 | - | - |
+| enemy_10225_agpbus_2 | 庆典校车 | - | - |
+| enemy_10226_agprnk | 好外号热衷者 | - | - |
+| enemy_10226_agprnk_2 | 惊艳事热衷者
+ | - | - |
+| enemy_10227_agbomb | “惊喜信件”
+ | - | - |
+| enemy_10228_agball | “美食的诱惑” | - | - |
+| enemy_10228_agball_2 | “美食的奴隶” | - | - |
+| enemy_10229_agactr | 优雅刀技厨师 | - | - |
+| enemy_10229_agactr_2 | 炫目刀技厨师
+ | - | - |
 | enemy_1022_dmage | 萨卡兹术师 | Sarkaz Caster | サルカズ術師 |
 | enemy_1022_dmage_2 | 萨卡兹术师组长 | Sarkaz Caster Leader | サルカズ術師隊長 |
+| enemy_10230_agkiro | 好心肠老板 | - | - |
+| enemy_10230_agkiro_2 | 热心肠老板
+ | - | - |
+| enemy_10231_agpack | 浮空信件 | - | - |
+| enemy_10232_aglina | 信使安洁莉娜 | - | - |
 | enemy_1023_jmage | 隐形术师 | Invisible Caster | 迷彩術師 |
 | enemy_1023_jmage_2 | 隐形术师组长 | Invisible Caster Leader | 迷彩術師隊長 |
 | enemy_1024_mortar | 炮手 | Mortar Gunner | 砲兵 |
@@ -1291,6 +1317,8 @@ tip: 请善用浏览器的搜索功能
 | enemy_1591_mutwin | AMa-10异构体 | - | - |
 | enemy_1591_mutwin_2 | AMa-10异构体 | - | - |
 | enemy_1593_musnake | “终始” | - | - |
+| enemy_1595_agbmes | “酣睡飞行员” | - | - |
+| enemy_1596_agbmal | “超惊喜信件” | - | - |
 | enemy_18001_lhship | 运输汽艇 | - | - |
 | enemy_18002_lhbetl | 小颚虫 | - | - |
 | enemy_18003_lhkarb | 吸气乱动机 | - | - |

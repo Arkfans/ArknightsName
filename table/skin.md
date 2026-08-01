@@ -24,6 +24,7 @@ tip: 请善用浏览器的搜索功能
 | char_1013_chen2@summer#20 | 悠然假日 HD79 | - | - |
 | char_1014_nearl2@epoque#17 | 复现荣光 | Relight | 栄光の再臨 |
 | char_1016_agoat2@epoque#34 | 远行前的野餐 | A Picnic Before A Long Trip | 遠き旅へのピクニック |
+| char_1016_agoat2@epoque#57 | 后来的故事 | - | - |
 | char_1019_siege2@epoque#50 | 光耀之途 | - | - |
 | char_101_sora@epoque#17 | 如歌 | Melodiosa | メロディオーソ |
 | char_101_sora@summer#1 | 夏卉 FA361 | Summer Flowers FA361 | 夏の花弁FA361 |
@@ -58,6 +59,7 @@ tip: 请善用浏览器的搜索功能
 | char_1040_blaze2@winter#5 | 夜归人 | - | - |
 | char_1041_angel2@iteration#6 | 寻翼之歌 | - | - |
 | char_1043_leizi2@game#8 | 血翼蔷薇 | - | - |
+| char_1044_hsgma2@whirlwind#11 | 一闪极意 | - | - |
 | char_1046_sbell2@ambienceSynesthesia#8 | 曙光祝颂 | - | - |
 | char_106_franka@ncg#1 | 林虹之间 | Rainforest, Me, Rainbow | 深緑にかかる虹 |
 | char_107_liskam@nian#2 | 春竜 | Spring Vouivre | 春竜 |
@@ -443,6 +445,7 @@ tip: 请善用浏览器的搜索功能
 | char_4185_amoris@avemujica#1 | 情热魔术师 | - | - |
 | char_4186_tmoris@avemujica#1 | 月下执行者 | - | - |
 | char_4187_graceb@boc#11 | 追想涤尘 | - | - |
+| char_4191_tippi@epoque#57 | 清新布景 | - | - |
 | char_4193_lemuen@ambienceSynesthesia#7 | 暮星安魂曲 | - | - |
 | char_4194_rmixer@boc#12 | 天穹肇始 | - | - |
 | char_4195_radian@game#8 | 乱数法则 | - | - |
@@ -489,6 +492,7 @@ tip: 请善用浏览器的搜索功能
 | char_475_akafyu@epoque#15 | 心性 | Temperament | 心技 |
 | char_476_blkngt@nian#8 | 枝头馥 | Fragrance From the Branches | 薫風梢 |
 | char_476_blkngt@summer#8 | 夏卉 FA641 | Summer Flower FA641 | 夏の花弁FA641 |
+| char_478_kirara@epoque#57 | 轻闲快照 | - | - |
 | char_478_kirara@game#2 | 前沿玩家 | Trendsetting Player | トレンディゲーマー |
 | char_479_sleach@epoque#14 | 识芳 | Appreciate Fragrance | 満開 |
 | char_479_sleach@summer#11 | 夏卉 FA317 | Summer Flowers FA317 | 夏の花弁FA317 |

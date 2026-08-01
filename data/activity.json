@@ -254,6 +254,9 @@
     "ja_JP": "ニヤニヤ谷へ",
     "zh_CN": "去咧嘴谷"
   },
+  "act16pray": {
+    "zh_CN": "幸运墙登录活动"
+  },
   "act16side": {
     "en_US": "Guide Ahead",
     "ja_JP": "吾れ先導者たらん",
@@ -671,6 +674,9 @@
     "en_US": "So Long, Adele: Home Away From Home - Retrospection",
     "ja_JP": "火山と雲と夢色の旅路・復刻",
     "zh_CN": "火山旅梦·复刻"
+  },
+  "act28login": {
+    "zh_CN": "登录领取奖励"
   },
   "act28side": {
     "en_US": "Come Catastrophes or Wakes of Vultures",
@@ -1161,6 +1167,9 @@
   "act52sign": {
     "zh_CN": "新生支点签到活动"
   },
+  "act53side": {
+    "zh_CN": "直到大地变成一颗酸橙"
+  },
   "act53sign": {
     "zh_CN": "金樨迎月签到活动"
   },
@@ -1222,6 +1231,12 @@
   },
   "act5switch": {
     "zh_CN": "温情时光合作活动"
+  },
+  "act5unique": {
+    "zh_CN": "夏日嘉年华特别活动"
+  },
+  "act60sign": {
+    "zh_CN": "透明信笺签到活动"
   },
   "act6bossrush": {
     "zh_CN": "引航者试炼"

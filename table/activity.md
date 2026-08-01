@@ -60,6 +60,7 @@ tip: 请善用浏览器的搜索功能
 | act16d6 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act16login | 登录领取奖励 | Sign-In Campaign | ログイン報酬 |
 | act16mini | 去咧嘴谷 | To the Grinning Valley | ニヤニヤ谷へ |
+| act16pray | 幸运墙登录活动 | - | - |
 | act16side | 吾导先路 | Guide Ahead | 吾れ先導者たらん |
 | act16sre | 吾导先路·复刻 | Guide Ahead - Rerun | 吾れ先導者たらん・復刻 |
 | act17d0 | 源石尘行动 | Operation Originium Dust | OP:OD |
@@ -152,6 +153,7 @@ tip: 请善用浏览器的搜索功能
 | act27side | 火山旅梦 | So Long, Adele: Home Away From Home | 火山と雲と夢色の旅路 |
 | act27sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act27sre | 火山旅梦·复刻 | So Long, Adele: Home Away From Home - Retrospection | 火山と雲と夢色の旅路・復刻 |
+| act28login | 登录领取奖励 | - | - |
 | act28side | 不义之财 | Come Catastrophes or Wakes of Vultures | ダーティマネー |
 | act28sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act28sre | 不义之财 复刻 | Come Catastrophes or Wakes of Vultures - Rerun | ダーティマネー・復刻 |
@@ -269,6 +271,7 @@ Event | なないろのお茶会 |
 | act51side | 人们，我们 | - | - |
 | act51sign | 提线人偶的迎宾礼签到活动 | - | - |
 | act52sign | 新生支点签到活动 | - | - |
+| act53side | 直到大地变成一颗酸橙 | - | - |
 | act53sign | 金樨迎月签到活动 | - | - |
 | act54sign | 感谢庆典前瞻签到 | - | - |
 | act55sign | 感谢庆典累计签到 | - | - |
@@ -285,6 +288,8 @@ Event | なないろのお茶会 |
 | act5pray | 龙门幸运墙登录活动 | Lungmen Lucky Strips | 龍門おみくじ |
 | act5sre | 沃伦姆德的薄暮·复刻 | Twilight of Wolumonde - Rerun | ウォルモンドの薄暮・復刻 |
 | act5switch | 温情时光合作活动 | - | - |
+| act5unique | 夏日嘉年华特别活动 | - | - |
+| act60sign | 透明信笺签到活动 | - | - |
 | act6bossrush | 引航者试炼 | - | - |
 | act6collection | 梦城堡模拟训练 | - | - |
 | act6d0 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |

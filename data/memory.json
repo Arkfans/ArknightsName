@@ -416,6 +416,9 @@
     "ja_JP": "いってらっしゃい",
     "zh_CN": "一路顺风"
   },
+  "story_confes_set_1_story_1": {
+    "zh_CN": "不是盥洗室！"
+  },
   "story_crosly_set_1_story_1": {
     "zh_CN": "欲摘其冠"
   },
@@ -1068,6 +1071,9 @@
     "ja_JP": "書き記されたもの",
     "zh_CN": "白纸黑字"
   },
+  "story_mitm_set_2_story_1": {
+    "zh_CN": "有始有终"
+  },
   "story_mizuki_set_1_story_1": {
     "en_US": "The Fifth Contact",
     "ja_JP": "第五種接近遭遇",
@@ -1165,6 +1171,9 @@
   },
   "story_nymph_set_1_story_1": {
     "zh_CN": "跃动的微光"
+  },
+  "story_nymph_set_2_story_1": {
+    "zh_CN": "心火"
   },
   "story_orchid_set_1_story_1": {
     "en_US": "Incomplete",
@@ -1466,6 +1475,9 @@
     "ja_JP": "遠方の遺品",
     "zh_CN": "远方遗物"
   },
+  "story_skybx_set_1_story_1": {
+    "zh_CN": "红气球，蓝气球"
+  },
   "story_slbell_set_1_story_1": {
     "en_US": "Beyond the Snowy Mountain",
     "ja_JP": "雪山の外",
@@ -1645,6 +1657,9 @@
     "en_US": "An Ordinary Sunset",
     "ja_JP": "いつもの夕日",
     "zh_CN": "寻常夕阳"
+  },
+  "story_tmslot_set_1_story_1": {
+    "zh_CN": "嗝尽所能"
   },
   "story_toddi_set_1_story_1": {
     "en_US": "Armor and Crossbow",

@@ -1650,6 +1650,57 @@
     "ja_JP": "バクダンムシα",
     "zh_CN": "高能源石虫·α"
   },
+  "enemy_10221_agporc": {
+    "zh_CN": "戴面具的孩童"
+  },
+  "enemy_10221_agporc_2": {
+    "zh_CN": "入戏太深的孩童"
+  },
+  "enemy_10222_agtski": {
+    "zh_CN": "凑热闹的矿工"
+  },
+  "enemy_10222_agtski_2": {
+    "zh_CN": "勇争第一的矿工\n"
+  },
+  "enemy_10223_agtrac": {
+    "zh_CN": "手推小矿车"
+  },
+  "enemy_10223_agtrac_2": {
+    "zh_CN": "传奇矿车"
+  },
+  "enemy_10224_agmess": {
+    "zh_CN": "“小帽子”"
+  },
+  "enemy_10224_agmess_2": {
+    "zh_CN": "“大披风”"
+  },
+  "enemy_10225_agpbus": {
+    "zh_CN": "欢乐校车"
+  },
+  "enemy_10225_agpbus_2": {
+    "zh_CN": "庆典校车"
+  },
+  "enemy_10226_agprnk": {
+    "zh_CN": "好外号热衷者"
+  },
+  "enemy_10226_agprnk_2": {
+    "zh_CN": "惊艳事热衷者\n"
+  },
+  "enemy_10227_agbomb": {
+    "zh_CN": "“惊喜信件”\n"
+  },
+  "enemy_10228_agball": {
+    "zh_CN": "“美食的诱惑”"
+  },
+  "enemy_10228_agball_2": {
+    "zh_CN": "“美食的奴隶”"
+  },
+  "enemy_10229_agactr": {
+    "zh_CN": "优雅刀技厨师"
+  },
+  "enemy_10229_agactr_2": {
+    "zh_CN": "炫目刀技厨师\n"
+  },
   "enemy_1022_dmage": {
     "en_US": "Sarkaz Caster",
     "ja_JP": "サルカズ術師",
@@ -1659,6 +1710,18 @@
     "en_US": "Sarkaz Caster Leader",
     "ja_JP": "サルカズ術師隊長",
     "zh_CN": "萨卡兹术师组长"
+  },
+  "enemy_10230_agkiro": {
+    "zh_CN": "好心肠老板"
+  },
+  "enemy_10230_agkiro_2": {
+    "zh_CN": "热心肠老板\n"
+  },
+  "enemy_10231_agpack": {
+    "zh_CN": "浮空信件"
+  },
+  "enemy_10232_aglina": {
+    "zh_CN": "信使安洁莉娜"
   },
   "enemy_1023_jmage": {
     "en_US": "Invisible Caster",
@@ -6018,6 +6081,12 @@
   },
   "enemy_1593_musnake": {
     "zh_CN": "“终始”"
+  },
+  "enemy_1595_agbmes": {
+    "zh_CN": "“酣睡飞行员”"
+  },
+  "enemy_1596_agbmal": {
+    "zh_CN": "“超惊喜信件”"
   },
   "enemy_18001_lhship": {
     "zh_CN": "运输汽艇"

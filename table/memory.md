@@ -92,6 +92,7 @@ tip: 请善用浏览器的搜索功能
 | story_closur_set_1_story_1 | 分身有术 | - | - |
 | story_clour_set_1_story_1 | 安身之处 | Somewhere to Make Home | 安らぎの場所 |
 | story_coldst_set_1_story_1 | 一路顺风 | Have A Safe Trip | いってらっしゃい |
+| story_confes_set_1_story_1 | 不是盥洗室！ | - | - |
 | story_crosly_set_1_story_1 | 欲摘其冠 | - | - |
 | story_crow_set_1_story_1 | 坚韧的羽毛 | Plumas de Tenacidad | 強靭な羽根 |
 | story_ctable_set_1_story_1 | 飞进窗的羽兽 | A Fowl Through the Window | 窓から飛び込んだ羽獣 |
@@ -230,6 +231,7 @@ tip: 请善用浏览器的搜索功能
 | story_milu_set_1_story_1 | 在路上 | On My Way | 途上 |
 | story_mint_set_1_story_1 | 昔日重现 | Yesterday Once More | デジャヴ |
 | story_mitm_set_1_story_1 | 白纸黑字 | Written in Black and White | 書き記されたもの |
+| story_mitm_set_2_story_1 | 有始有终 | - | - |
 | story_mizuki_set_1_story_1 | 第五类接触 | The Fifth Contact | 第五種接近遭遇 |
 | story_mlyss_set_1_story_1 | 无根之雨 | April Showers | 根なしの雨 |
 | story_mm_set_1_story_1 | 大侦探探案集·卷一 | The Great Detective's Case Files - Volume I | 名探偵の事件簿・其の一 |
@@ -250,6 +252,7 @@ tip: 请善用浏览器的搜索功能
 | story_nothin_set_1_story_1 | 落水人 | Drowning | 落水者 |
 | story_nowell_set_1_story_1 | 当我们人生开始时 | When Our Lives Began | 我らの人生が始まる時 |
 | story_nymph_set_1_story_1 | 跃动的微光 | - | - |
+| story_nymph_set_2_story_1 | 心火 | - | - |
 | story_orchid_set_1_story_1 | 未完成 | Incomplete | 未完成 |
 | story_orchid_set_2_story_1 | A6成立的那一天 | - | - |
 | story_otter_set_1_story_1 | 满满的日程表 | One Packed Daily Schedule | 仕事三昧 |
@@ -314,6 +317,7 @@ tip: 请善用浏览器的搜索功能
 | story_skfire_set_1_story_1 | 老同学 | Old Classmate | 昔の学友 |
 | story_skgoat_set_1_story_1 | 额外的工作 | Extra Work | 追加の仕事 |
 | story_skgoat_set_2_story_1 | 远方遗物 | Distant Relic | 遠方の遺品 |
+| story_skybx_set_1_story_1 | 红气球，蓝气球 | - | - |
 | story_slbell_set_1_story_1 | 雪山外 | Beyond the Snowy Mountain | 雪山の外 |
 | story_slchan_set_1_story_1 | 崖上之心 | Heart of the Cliffs | 崖上の心 |
 | story_slchan_set_2_story_1 | 新的高峰 | New Peaks | 次なる頂へ |
@@ -352,6 +356,7 @@ tip: 请善用浏览器的搜索功能
 | story_tinman_set_1_story_1 | 最后一案 | - | - |
 | story_tippi_set_1_story_1 | 获奖感言 | - | - |
 | story_tknogi_set_1_story_1 | 寻常夕阳 | An Ordinary Sunset | いつもの夕日 |
+| story_tmslot_set_1_story_1 | 嗝尽所能 | - | - |
 | story_toddi_set_1_story_1 | 装甲与重弩 | Armor and Crossbow | 装甲と重弩 |
 | story_tomimi_set_1_story_1 | 崭新生活 | Brand New Life | 新たな生活 |
 | story_totter_set_1_story_1 | 计划 | A Plan | 計画 |

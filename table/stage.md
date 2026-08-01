@@ -1140,6 +1140,21 @@ tip: 请善用浏览器的搜索功能
 | act51side_st01 | 群氓 | - | - |
 | act51side_st02 | 完整的缺损 | - | - |
 | act51side_tr01 | 卑劣与繁荣 | - | - |
+| act53side_01 | 收信地：终点 | - | - |
+| act53side_02 | 记新友的混乱 | - | - |
+| act53side_03 | 露营奇“叽” | - | - |
+| act53side_04 | 谷里升起太阳 | - | - |
+| act53side_05 | 勇敢的短耳朵 | - | - |
+| act53side_06 | 最难坦诚 | - | - |
+| act53side_07 | 谎言的重量 | - | - |
+| act53side_08 | 以决心做邮戳 | - | - |
+| act53side_09 | 绘我们的黎明 | - | - |
+| act53side_sp01 | 冒昧的请求 | - | - |
+| act53side_sp02 | 信使的素养 | - | - |
+| act53side_st01 | 一封想写的信 | - | - |
+| act53side_st02 | 糖纸星星 | - | - |
+| act53side_st03 | 祝好 终途的我 | - | - |
+| act53side_tr01 | 写临行的迷惘 | - | - |
 | act5bossrush_01 | 严寒骤血 | Cold and Blood | 極寒に舞う血しぶき |
 | act5bossrush_02 | 无声破裂 | Silent Crack | 声なき破滅 |
 | act5bossrush_03 | 幕间重影 | Interlude of Shadows | 幕間の多重像 |

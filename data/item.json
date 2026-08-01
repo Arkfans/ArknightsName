@@ -820,6 +820,9 @@
   "LIMITED_TKT_GACHA_10_7301": {
     "zh_CN": "封缄诺言寻访凭证"
   },
+  "LIMITED_TKT_GACHA_10_7601": {
+    "zh_CN": "搭车漫游寻访凭证"
+  },
   "LIMITED_TKT_GACHA_10_903": {
     "en_US": "Awakening Commemoration Permit",
     "ja_JP": "1周年記念10回スカウト券",
@@ -966,6 +969,9 @@
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_7301": {
+    "zh_CN": "寻访数据契约"
+  },
+  "LMTGS_COIN_7601": {
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_903": {
@@ -2036,6 +2042,9 @@
   "act51side_token_poem": {
     "zh_CN": "破碎诗行"
   },
+  "act53side_token_photo": {
+    "zh_CN": "沿途的点滴"
+  },
   "act5bossrush_milestone_point": {
     "en_US": "Trial EXP",
     "ja_JP": "試練経験値",
@@ -2470,6 +2479,9 @@
   },
   "ap_supply_lt_80_2025_1": {
     "zh_CN": "清爽运动饮料"
+  },
+  "ark_odc_act53side_spitem_1": {
+    "zh_CN": "温泉度假村体验券"
   },
   "base_ap": {
     "en_US": "Drone",
@@ -3715,6 +3727,9 @@
   "itempack_recruit_1": {
     "zh_CN": "2025感谢庆典招聘补给"
   },
+  "itempack_stickers_act5unique": {
+    "zh_CN": "特辑/夏日音轨"
+  },
   "itempack_stickers_rog1": {
     "zh_CN": "贴纸包/猩红孤钻"
   },
@@ -3840,6 +3855,9 @@
     "en_US": "Nearl the Radiant Knight's Token",
     "ja_JP": "耀騎士ニアールの印",
     "zh_CN": "耀骑士临光的信物"
+  },
+  "p_char_1015_aglna2": {
+    "zh_CN": "予愿安洁莉娜的信物"
   },
   "p_char_1016_agoat2": {
     "en_US": "Eyjafjalla the Hvít Aska's Token",
@@ -5547,6 +5565,15 @@
   "p_char_4234_pedro": {
     "zh_CN": "佩德洛的信物"
   },
+  "p_char_4235_thumpy": {
+    "zh_CN": "珊比的信物"
+  },
+  "p_char_4236_tmslot": {
+    "zh_CN": "时隙的信物"
+  },
+  "p_char_4237_jcinta": {
+    "zh_CN": "嘉辛塔的信物"
+  },
   "p_char_423_blemsh": {
     "en_US": "Blemishine's Token",
     "ja_JP": "ブレミシャインの印",
@@ -5952,6 +5979,9 @@
   "randomMaterial_act46side": {
     "zh_CN": "应急救援包"
   },
+  "randomMaterial_act53side": {
+    "zh_CN": "“幸福在途”补给包"
+  },
   "randomMaterial_amiya": {
     "zh_CN": "兔兔礼品盒"
   },
@@ -5968,6 +5998,9 @@
   },
   "randomMaterial_message3": {
     "zh_CN": "生命标本"
+  },
+  "randomMaterial_message4": {
+    "zh_CN": "“神秘动物的口袋”"
   },
   "randomMaterial_rhine2": {
     "en_US": "Technological Investigation Supply",
@@ -7021,6 +7054,9 @@
   },
   "voucher_recruitR6_pick7201": {
     "zh_CN": "特殊活动调用凭证"
+  },
+  "voucher_recruitR6_pick7601": {
+    "zh_CN": "高级干员活动调用凭证"
   },
   "voucher_skill_specialLevelMax_4": {
     "en_US": "Professional Operator Skill Training Pack",

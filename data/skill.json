@@ -159,6 +159,15 @@
     "ja_JP": "秘杖・反重力",
     "zh_CN": "秘杖·反重力模式"
   },
+  "skchr_aglna2_1": {
+    "zh_CN": "极速送达"
+  },
+  "skchr_aglna2_2": {
+    "zh_CN": "重力自定义"
+  },
+  "skchr_aglna2_3": {
+    "zh_CN": "酸橙的心事"
+  },
   "skchr_agoat2_1": {
     "en_US": "Soundless Sustenance",
     "ja_JP": "無垢なる恵み",
@@ -1940,6 +1949,9 @@
     "ja_JP": "全神経集中！",
     "zh_CN": "全神贯注！"
   },
+  "skchr_jcinta_2": {
+    "zh_CN": "伞下乘荫"
+  },
   "skchr_jesca2_1": {
     "en_US": "Hold the Line",
     "ja_JP": "戦線維持",
@@ -3712,6 +3724,15 @@
     "ja_JP": "枯朽を視たりて",
     "zh_CN": "我见枯朽之后"
   },
+  "skchr_thumpy_1": {
+    "zh_CN": "“还不走？”"
+  },
+  "skchr_thumpy_2": {
+    "zh_CN": "“慢慢走~”"
+  },
+  "skchr_thumpy_3": {
+    "zh_CN": "“不准走！”"
+  },
   "skchr_tiger_1": {
     "en_US": "Armorcrusher",
     "ja_JP": "砕甲拳",
@@ -3766,6 +3787,9 @@
   },
   "skchr_tmoris_2": {
     "zh_CN": "无存之所"
+  },
+  "skchr_tmslot_2": {
+    "zh_CN": "科技与传统仪式"
   },
   "skchr_toddi_1": {
     "en_US": "Signal Arrow",
@@ -5204,6 +5228,9 @@
     "en_US": "Activate Beacon",
     "ja_JP": "ビーコン起動",
     "zh_CN": "信标激活"
+  },
+  "sktok_agmbox_1": {
+    "zh_CN": "显示"
   },
   "sktok_aidkit": {
     "en_US": "First Aid",

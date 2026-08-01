@@ -44,6 +44,9 @@
     "ja_JP": "耀騎士ニアール",
     "zh_CN": "耀骑士临光"
   },
+  "char_1015_aglna2": {
+    "zh_CN": "予愿安洁莉娜"
+  },
   "char_1016_agoat2": {
     "en_US": "Eyjafjalla the Hvít Aska",
     "ja_JP": "純燼エイヤフィヤトラ",
@@ -1769,6 +1772,15 @@
   },
   "char_4234_pedro": {
     "zh_CN": "佩德洛"
+  },
+  "char_4235_thumpy": {
+    "zh_CN": "珊比"
+  },
+  "char_4236_tmslot": {
+    "zh_CN": "时隙"
+  },
+  "char_4237_jcinta": {
+    "zh_CN": "嘉辛塔"
   },
   "char_423_blemsh": {
     "en_US": "Blemishine",

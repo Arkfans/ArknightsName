@@ -86,6 +86,9 @@
     "ja_JP": "遠き旅へのピクニック",
     "zh_CN": "远行前的野餐"
   },
+  "char_1016_agoat2@epoque#57": {
+    "zh_CN": "后来的故事"
+  },
   "char_1019_siege2@epoque#50": {
     "zh_CN": "光耀之途"
   },
@@ -233,6 +236,9 @@
   },
   "char_1043_leizi2@game#8": {
     "zh_CN": "血翼蔷薇"
+  },
+  "char_1044_hsgma2@whirlwind#11": {
+    "zh_CN": "一闪极意"
   },
   "char_1046_sbell2@ambienceSynesthesia#8": {
     "zh_CN": "曙光祝颂"
@@ -2027,6 +2033,9 @@
   "char_4187_graceb@boc#11": {
     "zh_CN": "追想涤尘"
   },
+  "char_4191_tippi@epoque#57": {
+    "zh_CN": "清新布景"
+  },
   "char_4193_lemuen@ambienceSynesthesia#7": {
     "zh_CN": "暮星安魂曲"
   },
@@ -2230,6 +2239,9 @@
     "en_US": "Summer Flower FA641",
     "ja_JP": "夏の花弁FA641",
     "zh_CN": "夏卉 FA641"
+  },
+  "char_478_kirara@epoque#57": {
+    "zh_CN": "轻闲快照"
   },
   "char_478_kirara@game#2": {
     "en_US": "Trendsetting Player",

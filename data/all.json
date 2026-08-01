@@ -71,6 +71,12 @@
       "zh_CN": "耀骑士临光"
     }
   },
+  "char_1015_aglna2": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "予愿安洁莉娜"
+    }
+  },
   "char_1016_agoat2": {
     "type": "OPERATOR",
     "names": {
@@ -2889,6 +2895,24 @@
       "zh_CN": "佩德洛"
     }
   },
+  "char_4235_thumpy": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "珊比"
+    }
+  },
+  "char_4236_tmslot": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "时隙"
+    }
+  },
+  "char_4237_jcinta": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "嘉辛塔"
+    }
+  },
   "char_423_blemsh": {
     "type": "OPERATOR",
     "names": {
@@ -4041,6 +4065,12 @@
     "type": "TOKEN",
     "names": {
       "zh_CN": "中继器"
+    }
+  },
+  "token_10071_aglna2_agairp": {
+    "type": "TOKEN",
+    "names": {
+      "zh_CN": "“一会儿见！”"
     }
   },
   "trap_079_allydonq": {
@@ -7447,6 +7477,12 @@
       "zh_CN": "演出望"
     }
   },
+  "trap_334_agmbox": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "邮箱"
+    }
+  },
   "trap_400_xbfarm": {
     "type": "TRAP",
     "names": {
@@ -9913,6 +9949,12 @@
       "zh_CN": "远行前的野餐"
     }
   },
+  "char_1016_agoat2@epoque#57": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "后来的故事"
+    }
+  },
   "char_1019_siege2@epoque#50": {
     "type": "SKIN",
     "names": {
@@ -10161,6 +10203,12 @@
     "type": "SKIN",
     "names": {
       "zh_CN": "血翼蔷薇"
+    }
+  },
+  "char_1044_hsgma2@whirlwind#11": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "一闪极意"
     }
   },
   "char_1046_sbell2@ambienceSynesthesia#8": {
@@ -13111,6 +13159,12 @@
       "zh_CN": "追想涤尘"
     }
   },
+  "char_4191_tippi@epoque#57": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "清新布景"
+    }
+  },
   "char_4193_lemuen@ambienceSynesthesia#7": {
     "type": "SKIN",
     "names": {
@@ -13451,6 +13505,12 @@
       "en_US": "Summer Flower FA641",
       "ja_JP": "夏の花弁FA641",
       "zh_CN": "夏卉 FA641"
+    }
+  },
+  "char_478_kirara@epoque#57": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "轻闲快照"
     }
   },
   "char_478_kirara@game#2": {
@@ -16667,6 +16727,108 @@
       "zh_CN": "高能源石虫·α"
     }
   },
+  "enemy_10221_agporc": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "戴面具的孩童"
+    }
+  },
+  "enemy_10221_agporc_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "入戏太深的孩童"
+    }
+  },
+  "enemy_10222_agtski": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "凑热闹的矿工"
+    }
+  },
+  "enemy_10222_agtski_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "勇争第一的矿工\n"
+    }
+  },
+  "enemy_10223_agtrac": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "手推小矿车"
+    }
+  },
+  "enemy_10223_agtrac_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "传奇矿车"
+    }
+  },
+  "enemy_10224_agmess": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“小帽子”"
+    }
+  },
+  "enemy_10224_agmess_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“大披风”"
+    }
+  },
+  "enemy_10225_agpbus": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "欢乐校车"
+    }
+  },
+  "enemy_10225_agpbus_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "庆典校车"
+    }
+  },
+  "enemy_10226_agprnk": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "好外号热衷者"
+    }
+  },
+  "enemy_10226_agprnk_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "惊艳事热衷者\n"
+    }
+  },
+  "enemy_10227_agbomb": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“惊喜信件”\n"
+    }
+  },
+  "enemy_10228_agball": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“美食的诱惑”"
+    }
+  },
+  "enemy_10228_agball_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“美食的奴隶”"
+    }
+  },
+  "enemy_10229_agactr": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "优雅刀技厨师"
+    }
+  },
+  "enemy_10229_agactr_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "炫目刀技厨师\n"
+    }
+  },
   "enemy_1022_dmage": {
     "type": "ENEMY",
     "names": {
@@ -16681,6 +16843,30 @@
       "en_US": "Sarkaz Caster Leader",
       "ja_JP": "サルカズ術師隊長",
       "zh_CN": "萨卡兹术师组长"
+    }
+  },
+  "enemy_10230_agkiro": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "好心肠老板"
+    }
+  },
+  "enemy_10230_agkiro_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "热心肠老板\n"
+    }
+  },
+  "enemy_10231_agpack": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "浮空信件"
+    }
+  },
+  "enemy_10232_aglina": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "信使安洁莉娜"
     }
   },
   "enemy_1023_jmage": {
@@ -23685,6 +23871,18 @@
       "zh_CN": "“终始”"
     }
   },
+  "enemy_1595_agbmes": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“酣睡飞行员”"
+    }
+  },
+  "enemy_1596_agbmal": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“超惊喜信件”"
+    }
+  },
   "enemy_18001_lhship": {
     "type": "ENEMY",
     "names": {
@@ -27205,6 +27403,12 @@
       "zh_CN": "去咧嘴谷"
     }
   },
+  "act16pray": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "幸运墙登录活动"
+    }
+  },
   "act16side": {
     "type": "ACTIVITY",
     "names": {
@@ -27891,6 +28095,12 @@
       "en_US": "So Long, Adele: Home Away From Home - Retrospection",
       "ja_JP": "火山と雲と夢色の旅路・復刻",
       "zh_CN": "火山旅梦·复刻"
+    }
+  },
+  "act28login": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "登录领取奖励"
     }
   },
   "act28side": {
@@ -28718,6 +28928,12 @@
       "zh_CN": "新生支点签到活动"
     }
   },
+  "act53side": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "直到大地变成一颗酸橙"
+    }
+  },
   "act53sign": {
     "type": "ACTIVITY",
     "names": {
@@ -28826,6 +29042,18 @@
     "type": "ACTIVITY",
     "names": {
       "zh_CN": "温情时光合作活动"
+    }
+  },
+  "act5unique": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "夏日嘉年华特别活动"
+    }
+  },
+  "act60sign": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "透明信笺签到活动"
     }
   },
   "act6bossrush": {
@@ -30766,6 +30994,12 @@
       "zh_CN": "封缄诺言寻访凭证"
     }
   },
+  "LIMITED_TKT_GACHA_10_7601": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "搭车漫游寻访凭证"
+    }
+  },
   "LIMITED_TKT_GACHA_10_903": {
     "type": "ITEM",
     "names": {
@@ -31005,6 +31239,12 @@
     }
   },
   "LMTGS_COIN_7301": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "寻访数据契约"
+    }
+  },
+  "LMTGS_COIN_7601": {
     "type": "ITEM",
     "names": {
       "zh_CN": "寻访数据契约"
@@ -32813,6 +33053,12 @@
       "zh_CN": "破碎诗行"
     }
   },
+  "act53side_token_photo": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "沿途的点滴"
+    }
+  },
   "act5bossrush_milestone_point": {
     "type": "ITEM",
     "names": {
@@ -33537,6 +33783,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "清爽运动饮料"
+    }
+  },
+  "ark_odc_act53side_spitem_1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "温泉度假村体验券"
     }
   },
   "base_ap": {
@@ -35581,6 +35833,12 @@
       "zh_CN": "2025感谢庆典招聘补给"
     }
   },
+  "itempack_stickers_act5unique": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "特辑/夏日音轨"
+    }
+  },
   "itempack_stickers_rog1": {
     "type": "ITEM",
     "names": {
@@ -35795,6 +36053,12 @@
       "en_US": "Nearl the Radiant Knight's Token",
       "ja_JP": "耀騎士ニアールの印",
       "zh_CN": "耀骑士临光的信物"
+    }
+  },
+  "p_char_1015_aglna2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "予愿安洁莉娜的信物"
     }
   },
   "p_char_1016_agoat2": {
@@ -38583,6 +38847,24 @@
       "zh_CN": "佩德洛的信物"
     }
   },
+  "p_char_4235_thumpy": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "珊比的信物"
+    }
+  },
+  "p_char_4236_tmslot": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "时隙的信物"
+    }
+  },
+  "p_char_4237_jcinta": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "嘉辛塔的信物"
+    }
+  },
   "p_char_423_blemsh": {
     "type": "ITEM",
     "names": {
@@ -39237,6 +39519,12 @@
       "zh_CN": "应急救援包"
     }
   },
+  "randomMaterial_act53side": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "“幸福在途”补给包"
+    }
+  },
   "randomMaterial_amiya": {
     "type": "ITEM",
     "names": {
@@ -39267,6 +39555,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "生命标本"
+    }
+  },
+  "randomMaterial_message4": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "“神秘动物的口袋”"
     }
   },
   "randomMaterial_rhine2": {
@@ -40997,6 +41291,12 @@
       "zh_CN": "特殊活动调用凭证"
     }
   },
+  "voucher_recruitR6_pick7601": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "高级干员活动调用凭证"
+    }
+  },
   "voucher_skill_specialLevelMax_4": {
     "type": "ITEM",
     "names": {
@@ -41479,6 +41779,12 @@
     "type": "POOL",
     "names": {
       "zh_CN": "承诺"
+    }
+  },
+  "LIMITED_76_0_1": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "车辙与风的归所"
     }
   },
   "LIMITED_9_0_3": {
@@ -43324,6 +43630,24 @@
       "en_US": "Arcane Staff - Anti-Gravity Mode",
       "ja_JP": "秘杖・反重力",
       "zh_CN": "秘杖·反重力模式"
+    }
+  },
+  "skchr_aglna2_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "极速送达"
+    }
+  },
+  "skchr_aglna2_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "重力自定义"
+    }
+  },
+  "skchr_aglna2_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "酸橙的心事"
     }
   },
   "skchr_agoat2_1": {
@@ -46226,6 +46550,12 @@
       "zh_CN": "全神贯注！"
     }
   },
+  "skchr_jcinta_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "伞下乘荫"
+    }
+  },
   "skchr_jesca2_1": {
     "type": "SKILL",
     "names": {
@@ -49126,6 +49456,24 @@
       "zh_CN": "我见枯朽之后"
     }
   },
+  "skchr_thumpy_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“还不走？”"
+    }
+  },
+  "skchr_thumpy_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“慢慢走~”"
+    }
+  },
+  "skchr_thumpy_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“不准走！”"
+    }
+  },
   "skchr_tiger_1": {
     "type": "SKILL",
     "names": {
@@ -49218,6 +49566,12 @@
     "type": "SKILL",
     "names": {
       "zh_CN": "无存之所"
+    }
+  },
+  "skchr_tmslot_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "科技与传统仪式"
     }
   },
   "skchr_toddi_1": {
@@ -51676,6 +52030,12 @@
       "en_US": "Activate Beacon",
       "ja_JP": "ビーコン起動",
       "zh_CN": "信标激活"
+    }
+  },
+  "sktok_agmbox_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "显示"
     }
   },
   "sktok_aidkit": {
@@ -65094,6 +65454,96 @@
       "zh_CN": "卑劣与繁荣"
     }
   },
+  "act53side_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "收信地：终点"
+    }
+  },
+  "act53side_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "记新友的混乱"
+    }
+  },
+  "act53side_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "露营奇“叽”"
+    }
+  },
+  "act53side_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "谷里升起太阳"
+    }
+  },
+  "act53side_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "勇敢的短耳朵"
+    }
+  },
+  "act53side_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "最难坦诚"
+    }
+  },
+  "act53side_07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "谎言的重量"
+    }
+  },
+  "act53side_08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "以决心做邮戳"
+    }
+  },
+  "act53side_09": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "绘我们的黎明"
+    }
+  },
+  "act53side_sp01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "冒昧的请求"
+    }
+  },
+  "act53side_sp02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "信使的素养"
+    }
+  },
+  "act53side_st01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "一封想写的信"
+    }
+  },
+  "act53side_st02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "糖纸星星"
+    }
+  },
+  "act53side_st03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "祝好 终途的我"
+    }
+  },
+  "act53side_tr01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "写临行的迷惘"
+    }
+  },
   "act5bossrush_01": {
     "type": "STAGE",
     "names": {
@@ -72884,6 +73334,30 @@
       "zh_CN": "踏入新生黎明"
     }
   },
+  "act53side_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "驶向大地尽头"
+    }
+  },
+  "act53side_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "踏上归家长途"
+    }
+  },
+  "act53side_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "眺望待行之路"
+    }
+  },
+  "act53side_zone4": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "RPG关卡（不展示）"
+    }
+  },
   "act5bossrush_zone1": {
     "type": "ZONE",
     "names": {
@@ -74744,6 +75218,12 @@
       "zh_CN": "一路顺风"
     }
   },
+  "story_confes_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "不是盥洗室！"
+    }
+  },
   "story_crosly_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -75810,6 +76290,12 @@
       "zh_CN": "白纸黑字"
     }
   },
+  "story_mitm_set_2_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "有始有终"
+    }
+  },
   "story_mizuki_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -75966,6 +76452,12 @@
     "type": "MEMORY",
     "names": {
       "zh_CN": "跃动的微光"
+    }
+  },
+  "story_nymph_set_2_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "心火"
     }
   },
   "story_orchid_set_1_story_1": {
@@ -76460,6 +76952,12 @@
       "zh_CN": "远方遗物"
     }
   },
+  "story_skybx_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "红气球，蓝气球"
+    }
+  },
   "story_slbell_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -76752,6 +77250,12 @@
       "en_US": "An Ordinary Sunset",
       "ja_JP": "いつもの夕日",
       "zh_CN": "寻常夕阳"
+    }
+  },
+  "story_tmslot_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "嗝尽所能"
     }
   },
   "story_toddi_set_1_story_1": {

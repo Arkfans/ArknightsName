@@ -176,6 +176,7 @@ tip: 请善用浏览器的搜索功能
 | LIMITED_TKT_GACHA_10_6701 | 融雪流痕寻访凭证 | - | - |
 | LIMITED_TKT_GACHA_10_7001 | 载月明归寻访凭证 | - | - |
 | LIMITED_TKT_GACHA_10_7301 | 封缄诺言寻访凭证 | - | - |
+| LIMITED_TKT_GACHA_10_7601 | 搭车漫游寻访凭证 | - | - |
 | LIMITED_TKT_GACHA_10_903 | 苏醒纪念寻访凭证 | Awakening Commemoration Permit | 1周年記念10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_1701 | 特勤专家寻访凭证 | Expert Headhunting Permit | 精鋭小隊10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_3601 | 指引明路寻访凭证 | Scouting the Light Headhunting Permit | ハンター凱旋10回スカウト券 |
@@ -208,6 +209,7 @@ tip: 请善用浏览器的搜索功能
 | LMTGS_COIN_6701 | 寻访数据契约 | - | - |
 | LMTGS_COIN_7001 | 寻访数据契约 | - | - |
 | LMTGS_COIN_7301 | 寻访数据契约 | - | - |
+| LMTGS_COIN_7601 | 寻访数据契约 | - | - |
 | LMTGS_COIN_903 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | Logistics_Special_Permit | 后勤特别许可证 | Logistics Special Permit | 特別支援申請許可証 |
 | REP_COIN | 情报凭证 | Intelligence Certificate | 情報資格証 |
@@ -455,6 +457,7 @@ tip: 请善用浏览器的搜索功能
 | act50side_monster_clue_9 | 怪物线索9 | - | - |
 | act50side_special_level_unlock | 群兽入侵 | - | - |
 | act51side_token_poem | 破碎诗行 | - | - |
+| act53side_token_photo | 沿途的点滴 | - | - |
 | act5bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act5bossrush_relic_01 | 限压解除 | Unlimited Pressure | リミッター解除 |
 | act5bossrush_relic_02 | 链式激活 | Chain Activation | 連鎖式起動 |
@@ -552,6 +555,7 @@ tip: 请善用浏览器的搜索功能
 | ap_supply_lt_60 | 应急理智合剂 | Emergency Sanity Potion | 初級理性回復剤 |
 | ap_supply_lt_80 | 应急理智加强剂 | Emergency Sanity Booster | 初級理性回復剤+ |
 | ap_supply_lt_80_2025_1 | 清爽运动饮料 | - | - |
+| ark_odc_act53side_spitem_1 | 温泉度假村体验券 | - | - |
 | base_ap | 无人机 | Drone | ドローン |
 | bilibili001 | 预约干员随机4选1 | Preregister to get 1 of 4 Operators randomly | オペレーター指定券 |
 | class_p_char_003_kalts | 凯尔希的中坚信物 | Kal'tsit's Kernel Token | ケルシーの印（中堅） |
@@ -818,6 +822,7 @@ tip: 请善用浏览器的搜索功能
 | itempack_mod_8 | 近卫芯片组印刻仪 | Guard Chip Pack Etcher | 中級前衛SoCプリンター |
 | itempack_mod_9 | 重装芯片组印刻仪 | Defender Chip Pack Etcher | 中級重装SoCプリンター |
 | itempack_recruit_1 | 2025感谢庆典招聘补给 | - | - |
+| itempack_stickers_act5unique | 特辑/夏日音轨 | - | - |
 | itempack_stickers_rog1 | 贴纸包/猩红孤钻 | - | - |
 | itempack_stickers_rog2 | 贴纸包/深蓝之树 | - | - |
 | itempack_stickers_rog3 | 贴纸包/银凇止境 | - | - |
@@ -848,6 +853,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_1012_skadi2 | 浊心斯卡蒂的信物 | Skadi the Corrupting Heart's Token | 濁心スカジの印 |
 | p_char_1013_chen2 | 假日威龙陈的信物 | Ch'en the Holungday's Token | 遊龍チェンの印 |
 | p_char_1014_nearl2 | 耀骑士临光的信物 | Nearl the Radiant Knight's Token | 耀騎士ニアールの印 |
+| p_char_1015_aglna2 | 予愿安洁莉娜的信物 | - | - |
 | p_char_1016_agoat2 | 纯烬艾雅法拉的信物 | Eyjafjalla the Hvít Aska's Token | 純燼エイヤフィヤトラの印 |
 | p_char_1019_siege2 | 维娜·维多利亚的信物 | Vina Victoria's Token | ヴィーナ・ヴィクトリアの印 |
 | p_char_101_sora | 空的信物 | Sora's Token | ソラの印 |
@@ -1208,6 +1214,9 @@ tip: 请善用浏览器的搜索功能
 | p_char_422_aurora | 极光的信物 | Aurora's Token | オーロラの印 |
 | p_char_4230_mcnist | 机械师的信物 | - | - |
 | p_char_4234_pedro | 佩德洛的信物 | - | - |
+| p_char_4235_thumpy | 珊比的信物 | - | - |
+| p_char_4236_tmslot | 时隙的信物 | - | - |
+| p_char_4237_jcinta | 嘉辛塔的信物 | - | - |
 | p_char_423_blemsh | 瑕光的信物 | Blemishine's Token | ブレミシャインの印 |
 | p_char_426_billro | 卡涅利安的信物 | Carnelian's Token | カーネリアンの印 |
 | p_char_430_fartth | 远牙的信物 | Fartooth's Token | ファートゥースの印 |
@@ -1291,11 +1300,13 @@ tip: 请善用浏览器的搜索功能
 | randomMaterial_act38side | 狂欢烟花桶 | Carnival Canister | 狂宴花火セット |
 | randomMaterial_act42side | 铳械工坊赠品盒 | Firearms Workshop Giftbox | 銃工房からの贈呈品 |
 | randomMaterial_act46side | 应急救援包 | - | - |
+| randomMaterial_act53side | “幸福在途”补给包 | - | - |
 | randomMaterial_amiya | 兔兔礼品盒 | - | - |
 | randomMaterial_leith2 | 查访补给 | Investigation Resupply | 調査補給 |
 | randomMaterial_message1 | 一号项目决定版 | - | - |
 | randomMaterial_message2 | 形制朴素的棋具 | - | - |
 | randomMaterial_message3 | 生命标本 | - | - |
+| randomMaterial_message4 | “神秘动物的口袋” | - | - |
 | randomMaterial_rhine2 | 技术调查补给 | Technological Investigation Supply | 技術調査補給 |
 | randomMaterial_siesta2 | 峯联贸易物流补给 | Mountaincomm Trade Supplies | フェンレン貿易物流補給 |
 | renamingCard | ID信息更新卡 | ID Info Update Card | ID情報更新カード |
@@ -1521,6 +1532,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_recruitR6_pick5301 | 高级干员调用凭证-新人 | Top Operator Transfer Permit - Starter | 初心者★6招聘指名券 |
 | voucher_recruitR6_pick6401 | 高级干员活动调用凭证 | - | - |
 | voucher_recruitR6_pick7201 | 特殊活动调用凭证 | - | - |
+| voucher_recruitR6_pick7601 | 高级干员活动调用凭证 | - | - |
 | voucher_skill_specialLevelMax_4 | 专业干员技巧集 | Professional Operator Skill Training Pack | ★4スキル指南集 |
 | voucher_skill_specialLevelMax_5 | 资深干员技巧集 | Senior Operator Skill Training Pack | ★5スキル指南集 |
 | voucher_skill_specialLevelMax_6 | 高级资深干员技巧集 | Top Operator Skill Training Pack | ★6スキル指南集 |

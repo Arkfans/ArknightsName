@@ -1145,6 +1145,18 @@
   "act51side_zone2": {
     "zh_CN": "踏入新生黎明"
   },
+  "act53side_zone1": {
+    "zh_CN": "驶向大地尽头"
+  },
+  "act53side_zone2": {
+    "zh_CN": "踏上归家长途"
+  },
+  "act53side_zone3": {
+    "zh_CN": "眺望待行之路"
+  },
+  "act53side_zone4": {
+    "zh_CN": "RPG关卡（不展示）"
+  },
   "act5bossrush_zone1": {
     "en_US": "Threat Incoming",
     "ja_JP": "強敵襲来",
