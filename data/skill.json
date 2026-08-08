@@ -5247,6 +5247,21 @@
     "ja_JP": "空援派遣",
     "zh_CN": "派遣空援"
   },
+  "sktok_akbowf": {
+    "zh_CN": "发射弩箭"
+  },
+  "sktok_akbtbd": {
+    "zh_CN": "寒潮"
+  },
+  "sktok_akbtel": {
+    "zh_CN": "通电！"
+  },
+  "sktok_akbtjt": {
+    "zh_CN": "脉冲波"
+  },
+  "sktok_akbtst": {
+    "zh_CN": "阻挡路线"
+  },
   "sktok_allady": {
     "en_US": "Allerdale's Guard",
     "ja_JP": "アラデルの衛護",
@@ -6128,6 +6143,15 @@
     "en_US": "Open Fire",
     "ja_JP": "発射",
     "zh_CN": "开火"
+  },
+  "sktok_healbf": {
+    "zh_CN": "汲能冲击"
+  },
+  "sktok_healbfa": {
+    "zh_CN": "抑制解除"
+  },
+  "sktok_healbfb": {
+    "zh_CN": "血浆活化"
   },
   "sktok_hiddenstone": {
     "en_US": "Destructible",

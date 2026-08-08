@@ -323,11 +323,53 @@ tip: 请善用浏览器的搜索功能
 | trap_157_bounc2 | 小帮手 | 'Little Handy' | リトル・ハンディ |
 | trap_158_lrsteam | 查尔斯·林奇 | Charles Lynch | チャールズ・リンチ |
 | trap_159_lrcore | 核心增幅器 | Core Amplifier | コア増幅器 |
+| trap_1601_akshept | 星术绒绒 | - | - |
+| trap_1602_akspspt | 奥术绒绒 | - | - |
+| trap_1603_akbudyt | 大个子绒绒 | - | - |
+| trap_1605_akplspt | 活泼绒绒 | - | - |
+| trap_1606_aksnilt | 固海凿石者 | - | - |
+| trap_1607_akplbtt | 阿咬 | - | - |
+| trap_1608_akplbrt | 高普尼克 | - | - |
+| trap_1609_akcrabt | 石背岩壳蟹 | - | - |
 | trap_160_lrlgun | 洪流束激发器 | Torrent Beam Activator | 奔流発生装置 |
+| trap_1610_akplsnt | 直立小雪怪 | - | - |
+| trap_1611_akdogt | 花冠园丁 | - | - |
+| trap_1612_akdgspt | 黑毛花冠园丁 | - | - |
+| trap_1613_akslmt | 果冻清道夫 | - | - |
+| trap_1615_akftrt | 大嘴捕食草 | - | - |
+| trap_1616_akmaget | 爬行鬼伞 | - | - |
+| trap_1617_akrangt | 红宝石投石虫 | - | - |
+| trap_1618_akshdt | 困困荪茸 | - | - |
+| trap_1619_akbowt | 石榴弩手 | - | - |
 | trap_161_lrcage | 枯朽祭坛 | Withered Altar | 枯朽の祭壇 |
+| trap_1620_akdeft | 椰壳蟹 | - | - |
+| trap_1624_akfiret | 灼热跳跳蜥 | - | - |
+| trap_1626_aktelet | 蓝冠羽镖客 | - | - |
+| trap_1627_aktespt | 橙冠羽镖客 | - | - |
 | trap_162_lrctrl | 十四章机制控制器 | EP14 Mechanics Controller | 第十四章ギミックコントローラー |
+| trap_1631_akraget | 密林锋脊裂兽 | - | - |
+| trap_1632_akrgspt | 枯焦锋脊裂兽 | - | - |
+| trap_1633_akrbt | 深林伪形兽 | - | - |
+| trap_1634_akrbsp | 赤黑伪形兽 | - | - |
+| trap_1635_akblcr | 浪花小壳蟹 | - | - |
+| trap_1636_akrdcr | 熔火小壳蟹 | - | - |
+| trap_1637_akickb | 寒山大角驮兽 | - | - |
+| trap_1638_akdrgn | 锐爪巨翼兽 | - | - |
+| trap_1639_akkabi | 温和驮兽 | - | - |
 | trap_163_foolcrate | 障碍物 | Roadblock | 障害物 |
+| trap_1640_akbtst | 障碍物 | - | - |
+| trap_1641_akbtel | 梅什科线圈 | - | - |
+| trap_1642_akbtjt | 源石祭坛 | - | - |
+| trap_1643_akbtbd | 源石冰晶 | - | - |
+| trap_1644_akbowf | 弩炮 | - | - |
+| trap_1645_akmndx | 未定义石兽 | - | - |
+| trap_1646_akqhc | 青花 | - | - |
+| trap_1647_akqhsp | 赤霞 | - | - |
+| trap_1648_akpeat | 不知足吞噬者 | - | - |
+| trap_1649_akflwr | 钵海收割者 | - | - |
 | trap_164_lrsiege | 振奋荣光 | Light of Glory | 奮い立つ栄光 |
+| trap_1650_aktstn | 孤独的巨像 | - | - |
+| trap_1651_akmdbf | “酩酊” | - | - |
 | trap_165_muftbl | 足球 | Football | サッカーボール |
 | trap_166_muwork | 设施建筑工 | Facility Builder | 施設建設作業員 |
 | trap_167_muruinf | 折叠式维护车 | Foldable Maintenance Vehicle | 競技用格納式整備車 |
@@ -804,3 +846,6 @@ tip: 请善用浏览器的搜索功能
 | trap_789_supctlb | 冰浪脉冲模块 | - | - |
 | trap_790_dytswd | 宿傲 | - | - |
 | trap_791_dytfre | 宿怒 | - | - |
+| trap_792_healbf | “主动脉”支援系统 | - | - |
+| trap_793_healbfa | 抑制解除模组 | - | - |
+| trap_794_healbfb | 血浆活化模组 | - | - |

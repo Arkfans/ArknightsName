@@ -361,6 +361,7 @@ tip: 请善用浏览器的搜索功能
 | char_4046_ebnhlz@boc#6 | 变奏 | Eine Variation | 変奏 |
 | char_4047_pianst@wild#8 | 荒野寻音 | Freeland Tuneseeker | 荒野に音尋ね |
 | char_4048_doroth@witch#4 | 命运主宰 | Hand of Destiny | 運命の支配者 |
+| char_4051_akkord@summer#23 | 悠然假日 HD91 | - | - |
 | char_4052_surfer@nian#12 | 共凭栏 | - | - |
 | char_4054_malist@summer#14 | 悠然假日 HDm74 | Holiday HDm74 | ホリデーHDm74 |
 | char_4055_bgsnow@wild#7 | 字句中的雪原 | Snowy Plains in Words | 行間にある雪原 |

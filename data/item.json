@@ -1006,6 +1006,9 @@
   "RandomSkinbox_4": {
     "zh_CN": "时装回顾展·IV"
   },
+  "RandomSkinbox_arkhub_1": {
+    "zh_CN": "奇象时装回顾展"
+  },
   "SINGLE_49_0_1_GACHA": {
     "en_US": "Like Ending Like Death Headhunting Permit",
     "ja_JP": "イベントスカウト券",
@@ -1361,6 +1364,9 @@
     "en_US": "Point Card",
     "ja_JP": "景品チケット",
     "zh_CN": "积点卡券"
+  },
+  "act1arkhub_token_seal": {
+    "zh_CN": "巡展纪念章"
   },
   "act1autochess_token_chess": {
     "zh_CN": "卫戍认证"
@@ -3547,6 +3553,9 @@
     "en_US": "Rap Trend 5",
     "ja_JP": "ラップサイド5",
     "zh_CN": "说唱动态5"
+  },
+  "emoticon_arkhub_basic": {
+    "zh_CN": "表情套组"
   },
   "emoticon_autochess_basic": {
     "zh_CN": "表情套组：卫戍协议"
@@ -6542,6 +6551,9 @@
     "ja_JP": "古城風家具パックvol.2",
     "zh_CN": "古堡印象家具收藏包二"
   },
+  "uni_set_citizengarden": {
+    "zh_CN": "太阳甩在身后家具收藏包"
+  },
   "uni_set_coastCottage": {
     "zh_CN": "火山旅梦家具收藏包"
   },
@@ -6840,6 +6852,9 @@
   },
   "voucher_full_odda": {
     "zh_CN": "奥达的私人信件"
+  },
+  "voucher_full_papyrs": {
+    "zh_CN": "莎草的私人信件"
   },
   "voucher_full_pianst": {
     "en_US": "Czerny's Personal Letter",

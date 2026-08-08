@@ -218,6 +218,7 @@ tip: 请善用浏览器的搜索功能
 | RandomSkinbox_2 | 时装回顾展·II | - | - |
 | RandomSkinbox_3 | 时装回顾展·III | - | - |
 | RandomSkinbox_4 | 时装回顾展·IV | - | - |
+| RandomSkinbox_arkhub_1 | 奇象时装回顾展 | - | - |
 | SINGLE_49_0_1_GACHA | 如死亦终寻访凭证 | Like Ending Like Death Headhunting Permit | イベントスカウト券 |
 | SINGLE_49_0_1_GACHA_10 | 如死亦终十连寻访凭证 | Like Ending Like Death Ten-roll Headhunting Permit | イベント10回スカウト券 |
 | SINGLE_55_0_1_GACHA | 未致蒙尘寻访凭证 | Never Gilded Headhunting Permit | 褪せざる栄光スカウト券 |
@@ -292,6 +293,7 @@ tip: 请善用浏览器的搜索功能
 | act19side_token_reagents | 神秘试剂 | Mysterious Reagent | 謎の試薬 |
 | act19side_token_reagents_rep_1 | 神秘试剂 | Mysterious Reagent | 謎の試薬 |
 | act1arcade_milestone_point | 积点卡券 | Point Card | 景品チケット |
+| act1arkhub_token_seal | 巡展纪念章 | - | - |
 | act1autochess_token_chess | 卫戍认证 | - | - |
 | act1bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act1bossrush_relic_01 | 模块复用 | Reuse Module | マルチプレキシング |
@@ -775,6 +777,7 @@ tip: 请善用浏览器的搜索功能
 | clue_Rap_4_rep_1 | 说唱动态4 | Rap Trend 4 | ラップサイド4 |
 | clue_Rap_5 | 说唱动态5 | Rap Trend 5 | ラップサイド5 |
 | clue_Rap_5_rep_1 | 说唱动态5 | Rap Trend 5 | ラップサイド5 |
+| emoticon_arkhub_basic | 表情套组 | - | - |
 | emoticon_autochess_basic | 表情套组：卫戍协议 | - | - |
 | emoticon_autochess_basic_2 | 表情套组：卫戍协议 | - | - |
 | emoticon_basic | 表情套组 | Emote Set | スタンプ |
@@ -1421,6 +1424,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_bolivar | 密林悍将归来家具收藏包 | The Great Chief Returns Furniture Pack | 帰還！密林の長家具パック |
 | uni_set_castle_1 | 古堡印象家具收藏包一 | Castlesque Furniture Pack I | 古城風家具パックvol.1 |
 | uni_set_castle_2 | 古堡印象家具收藏包二 | Castlesque Furniture Pack II | 古城風家具パックvol.2 |
+| uni_set_citizengarden | 太阳甩在身后家具收藏包 | - | - |
 | uni_set_coastCottage | 火山旅梦家具收藏包 | - | - |
 | uni_set_concertHall | 尘影余音家具收藏包 | Lingering Echoes Furniture Pack | 塵影に交わる残響家具パック |
 | uni_set_countryside | 照我以火家具收藏包 | What the Firelight Casts Furniture Pack | この炎が照らす先家具パック |
@@ -1486,6 +1490,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_full_malist | 至简的私人信件 | Minimalist's Personal Letter | ミニマリストの手紙 |
 | voucher_full_mint | 薄绿的私人信件 | Mint's Personal Letter | ミントの手紙 |
 | voucher_full_odda | 奥达的私人信件 | - | - |
+| voucher_full_papyrs | 莎草的私人信件 | - | - |
 | voucher_full_pianst | 车尔尼的私人信件 | Czerny's Personal Letter | ツェルニーの手紙 |
 | voucher_full_puzzle | 谜图的私人信件 | Puzzle's Personal Letter | パズルの手紙 |
 | voucher_full_robin | 罗宾的私人信件 | Robin's Personal Letter | ロビンの手紙 |

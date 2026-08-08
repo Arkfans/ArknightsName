@@ -1151,6 +1151,11 @@ tip: 请善用浏览器的搜索功能
 | sktok_aidkit | 急救 | First Aid | 応急処置 |
 | sktok_airbomb | 砰！ | Bang! | バン！ |
 | sktok_airsup | 派遣空援 | Dispatch Air Support | 空援派遣 |
+| sktok_akbowf | 发射弩箭 | - | - |
+| sktok_akbtbd | 寒潮 | - | - |
+| sktok_akbtel | 通电！ | - | - |
+| sktok_akbtjt | 脉冲波 | - | - |
+| sktok_akbtst | 阻挡路线 | - | - |
 | sktok_allady | 阿勒黛的卫护 | Allerdale's Guard | アラデルの衛護 |
 | sktok_allady_2 | 阿勒黛的卫护 | Allerdale's Guard | アラデルの衛護 |
 | sktok_allydonq | 冲锋 | Charge | 突貫 |
@@ -1335,6 +1340,9 @@ tip: 请善用浏览器的搜索功能
 | sktok_gractrl | 重力生成 | Gravity Generation | 重力生成 |
 | sktok_gtreasure | 可被击破 | Destructible | 撃破可能 |
 | sktok_gunctrl | 开火 | Open Fire | 発射 |
+| sktok_healbf | 汲能冲击 | - | - |
+| sktok_healbfa | 抑制解除 | - | - |
+| sktok_healbfb | 血浆活化 | - | - |
 | sktok_hiddenstone | 可被击破 | Destructible | 撃破可能 |
 | sktok_hlnpcb_1 | 苏醒 | Awaken | 目覚め |
 | sktok_inverter | 撼动现实 | Warping Reality | 事象震動 |

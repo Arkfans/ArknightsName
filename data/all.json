@@ -6415,12 +6415,114 @@
       "zh_CN": "核心增幅器"
     }
   },
+  "trap_1601_akshept": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "星术绒绒"
+    }
+  },
+  "trap_1602_akspspt": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "奥术绒绒"
+    }
+  },
+  "trap_1603_akbudyt": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "大个子绒绒"
+    }
+  },
+  "trap_1605_akplspt": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "活泼绒绒"
+    }
+  },
+  "trap_1606_aksnilt": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "固海凿石者"
+    }
+  },
+  "trap_1607_akplbtt": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "阿咬"
+    }
+  },
+  "trap_1608_akplbrt": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "高普尼克"
+    }
+  },
+  "trap_1609_akcrabt": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "石背岩壳蟹"
+    }
+  },
   "trap_160_lrlgun": {
     "type": "TRAP",
     "names": {
       "en_US": "Torrent Beam Activator",
       "ja_JP": "奔流発生装置",
       "zh_CN": "洪流束激发器"
+    }
+  },
+  "trap_1610_akplsnt": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "直立小雪怪"
+    }
+  },
+  "trap_1611_akdogt": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "花冠园丁"
+    }
+  },
+  "trap_1612_akdgspt": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "黑毛花冠园丁"
+    }
+  },
+  "trap_1613_akslmt": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "果冻清道夫"
+    }
+  },
+  "trap_1615_akftrt": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "大嘴捕食草"
+    }
+  },
+  "trap_1616_akmaget": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "爬行鬼伞"
+    }
+  },
+  "trap_1617_akrangt": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "红宝石投石虫"
+    }
+  },
+  "trap_1618_akshdt": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "困困荪茸"
+    }
+  },
+  "trap_1619_akbowt": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "石榴弩手"
     }
   },
   "trap_161_lrcage": {
@@ -6431,12 +6533,90 @@
       "zh_CN": "枯朽祭坛"
     }
   },
+  "trap_1620_akdeft": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "椰壳蟹"
+    }
+  },
+  "trap_1624_akfiret": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "灼热跳跳蜥"
+    }
+  },
+  "trap_1626_aktelet": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "蓝冠羽镖客"
+    }
+  },
+  "trap_1627_aktespt": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "橙冠羽镖客"
+    }
+  },
   "trap_162_lrctrl": {
     "type": "TRAP",
     "names": {
       "en_US": "EP14 Mechanics Controller",
       "ja_JP": "第十四章ギミックコントローラー",
       "zh_CN": "十四章机制控制器"
+    }
+  },
+  "trap_1631_akraget": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "密林锋脊裂兽"
+    }
+  },
+  "trap_1632_akrgspt": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "枯焦锋脊裂兽"
+    }
+  },
+  "trap_1633_akrbt": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "深林伪形兽"
+    }
+  },
+  "trap_1634_akrbsp": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "赤黑伪形兽"
+    }
+  },
+  "trap_1635_akblcr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "浪花小壳蟹"
+    }
+  },
+  "trap_1636_akrdcr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "熔火小壳蟹"
+    }
+  },
+  "trap_1637_akickb": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "寒山大角驮兽"
+    }
+  },
+  "trap_1638_akdrgn": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "锐爪巨翼兽"
+    }
+  },
+  "trap_1639_akkabi": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "温和驮兽"
     }
   },
   "trap_163_foolcrate": {
@@ -6447,12 +6627,84 @@
       "zh_CN": "障碍物"
     }
   },
+  "trap_1640_akbtst": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "障碍物"
+    }
+  },
+  "trap_1641_akbtel": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "梅什科线圈"
+    }
+  },
+  "trap_1642_akbtjt": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "源石祭坛"
+    }
+  },
+  "trap_1643_akbtbd": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "源石冰晶"
+    }
+  },
+  "trap_1644_akbowf": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "弩炮"
+    }
+  },
+  "trap_1645_akmndx": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "未定义石兽"
+    }
+  },
+  "trap_1646_akqhc": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "青花"
+    }
+  },
+  "trap_1647_akqhsp": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "赤霞"
+    }
+  },
+  "trap_1648_akpeat": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "不知足吞噬者"
+    }
+  },
+  "trap_1649_akflwr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "钵海收割者"
+    }
+  },
   "trap_164_lrsiege": {
     "type": "TRAP",
     "names": {
       "en_US": "Light of Glory",
       "ja_JP": "奮い立つ栄光",
       "zh_CN": "振奋荣光"
+    }
+  },
+  "trap_1650_aktstn": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "孤独的巨像"
+    }
+  },
+  "trap_1651_akmdbf": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "“酩酊”"
     }
   },
   "trap_165_muftbl": {
@@ -9805,6 +10057,24 @@
       "zh_CN": "宿怒"
     }
   },
+  "trap_792_healbf": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "“主动脉”支援系统"
+    }
+  },
+  "trap_793_healbfa": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "抑制解除模组"
+    }
+  },
+  "trap_794_healbfb": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "血浆活化模组"
+    }
+  },
   "char_002_amiya@epoque#4": {
     "type": "SKIN",
     "names": {
@@ -12543,6 +12813,12 @@
       "en_US": "Hand of Destiny",
       "ja_JP": "運命の支配者",
       "zh_CN": "命运主宰"
+    }
+  },
+  "char_4051_akkord@summer#23": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "悠然假日 HD91"
     }
   },
   "char_4052_surfer@nian#12": {
@@ -26147,6 +26423,12 @@
       "zh_CN": "冰滚兽 "
     }
   },
+  "enemy_6034_vampir": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“枯槁者”维奇科"
+    }
+  },
   "enemy_7001_blwzad": {
     "type": "ENEMY",
     "names": {
@@ -27635,6 +27917,12 @@
       "en_US": "Poly Vision Museum",
       "ja_JP": "視像博物館",
       "zh_CN": "视相博物馆"
+    }
+  },
+  "act1arkhub": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "奇象巡展"
     }
   },
   "act1autochess": {
@@ -31306,6 +31594,12 @@
       "zh_CN": "时装回顾展·IV"
     }
   },
+  "RandomSkinbox_arkhub_1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "奇象时装回顾展"
+    }
+  },
   "SINGLE_49_0_1_GACHA": {
     "type": "ITEM",
     "names": {
@@ -31882,6 +32176,12 @@
       "en_US": "Point Card",
       "ja_JP": "景品チケット",
       "zh_CN": "积点卡券"
+    }
+  },
+  "act1arkhub_token_seal": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "巡展纪念章"
     }
   },
   "act1autochess_token_chess": {
@@ -35511,6 +35811,12 @@
       "en_US": "Rap Trend 5",
       "ja_JP": "ラップサイド5",
       "zh_CN": "说唱动态5"
+    }
+  },
+  "emoticon_arkhub_basic": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "表情套组"
     }
   },
   "emoticon_autochess_basic": {
@@ -40445,6 +40751,12 @@
       "zh_CN": "古堡印象家具收藏包二"
     }
   },
+  "uni_set_citizengarden": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "太阳甩在身后家具收藏包"
+    }
+  },
   "uni_set_coastCottage": {
     "type": "ITEM",
     "names": {
@@ -40937,6 +41249,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "奥达的私人信件"
+    }
+  },
+  "voucher_full_papyrs": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "莎草的私人信件"
     }
   },
   "voucher_full_pianst": {
@@ -52062,6 +52380,36 @@
       "zh_CN": "派遣空援"
     }
   },
+  "sktok_akbowf": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "发射弩箭"
+    }
+  },
+  "sktok_akbtbd": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "寒潮"
+    }
+  },
+  "sktok_akbtel": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "通电！"
+    }
+  },
+  "sktok_akbtjt": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "脉冲波"
+    }
+  },
+  "sktok_akbtst": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "阻挡路线"
+    }
+  },
   "sktok_allady": {
     "type": "SKILL",
     "names": {
@@ -53494,6 +53842,24 @@
       "en_US": "Open Fire",
       "ja_JP": "発射",
       "zh_CN": "开火"
+    }
+  },
+  "sktok_healbf": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "汲能冲击"
+    }
+  },
+  "sktok_healbfa": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "抑制解除"
+    }
+  },
+  "sktok_healbfb": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "血浆活化"
     }
   },
   "sktok_hiddenstone": {
@@ -59862,6 +60228,114 @@
       "zh_CN": "环绕大地"
     }
   },
+  "act1arkhub_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "奇象收录时间！"
+    }
+  },
+  "act1arkhub_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "奇象收录时间！"
+    }
+  },
+  "act1arkhub_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "奇象拟合对战场"
+    }
+  },
+  "act1arkhub_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "奇象拟合对战场"
+    }
+  },
+  "act1arkhub_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "奇象拟合对战场"
+    }
+  },
+  "act1arkhub_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "奇象拟合对战场"
+    }
+  },
+  "act1arkhub_07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "奇象拟合对战场"
+    }
+  },
+  "act1arkhub_08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "奇象拟合对战场"
+    }
+  },
+  "act1arkhub_09": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "奇象拟合对战场"
+    }
+  },
+  "act1arkhub_10": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "奇象拟合对战场"
+    }
+  },
+  "act1arkhub_11": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "奇象拟合对战场"
+    }
+  },
+  "act1arkhub_12": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "奇象收录时间！"
+    }
+  },
+  "act1arkhub_13": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "奇象收录时间！"
+    }
+  },
+  "act1arkhub_14": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "奇象收录时间！"
+    }
+  },
+  "act1arkhub_15": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "奇象收录时间！"
+    }
+  },
+  "act1arkhub_16": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "奇象拟合对战场"
+    }
+  },
+  "act1arkhub_17": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "奇象拟合对战场"
+    }
+  },
+  "act1arkhub_18": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "奇象拟合对战场"
+    }
+  },
   "act1bossrush_01": {
     "type": "STAGE",
     "names": {
@@ -65508,6 +65982,36 @@
       "zh_CN": "绘我们的黎明"
     }
   },
+  "act53side_mo01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "大涌泉镇盛宴"
+    }
+  },
+  "act53side_s01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "邮箱保卫战"
+    }
+  },
+  "act53side_s02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "通行新选择"
+    }
+  },
+  "act53side_s03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "交通管理员"
+    }
+  },
+  "act53side_s04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "“家族聚会”"
+    }
+  },
   "act53side_sp01": {
     "type": "STAGE",
     "names": {
@@ -67724,6 +68228,42 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "幽邃尽头"
+    }
+  },
+  "lt_21_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "铁锈闸口"
+    }
+  },
+  "lt_21_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "崩塌通道"
+    }
+  },
+  "lt_21_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "躁动阶梯"
+    }
+  },
+  "lt_21_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "扭曲图腾"
+    }
+  },
+  "lt_21_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "刺耳供礼"
+    }
+  },
+  "lt_21_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "罪恶终局"
     }
   },
   "lt_tr_01": {

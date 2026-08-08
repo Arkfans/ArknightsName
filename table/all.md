@@ -851,11 +851,53 @@ tip: 请善用浏览器的搜索功能
 | trap_157_bounc2 | 小帮手 | 'Little Handy' | リトル・ハンディ |
 | trap_158_lrsteam | 查尔斯·林奇 | Charles Lynch | チャールズ・リンチ |
 | trap_159_lrcore | 核心增幅器 | Core Amplifier | コア増幅器 |
+| trap_1601_akshept | 星术绒绒 | - | - |
+| trap_1602_akspspt | 奥术绒绒 | - | - |
+| trap_1603_akbudyt | 大个子绒绒 | - | - |
+| trap_1605_akplspt | 活泼绒绒 | - | - |
+| trap_1606_aksnilt | 固海凿石者 | - | - |
+| trap_1607_akplbtt | 阿咬 | - | - |
+| trap_1608_akplbrt | 高普尼克 | - | - |
+| trap_1609_akcrabt | 石背岩壳蟹 | - | - |
 | trap_160_lrlgun | 洪流束激发器 | Torrent Beam Activator | 奔流発生装置 |
+| trap_1610_akplsnt | 直立小雪怪 | - | - |
+| trap_1611_akdogt | 花冠园丁 | - | - |
+| trap_1612_akdgspt | 黑毛花冠园丁 | - | - |
+| trap_1613_akslmt | 果冻清道夫 | - | - |
+| trap_1615_akftrt | 大嘴捕食草 | - | - |
+| trap_1616_akmaget | 爬行鬼伞 | - | - |
+| trap_1617_akrangt | 红宝石投石虫 | - | - |
+| trap_1618_akshdt | 困困荪茸 | - | - |
+| trap_1619_akbowt | 石榴弩手 | - | - |
 | trap_161_lrcage | 枯朽祭坛 | Withered Altar | 枯朽の祭壇 |
+| trap_1620_akdeft | 椰壳蟹 | - | - |
+| trap_1624_akfiret | 灼热跳跳蜥 | - | - |
+| trap_1626_aktelet | 蓝冠羽镖客 | - | - |
+| trap_1627_aktespt | 橙冠羽镖客 | - | - |
 | trap_162_lrctrl | 十四章机制控制器 | EP14 Mechanics Controller | 第十四章ギミックコントローラー |
+| trap_1631_akraget | 密林锋脊裂兽 | - | - |
+| trap_1632_akrgspt | 枯焦锋脊裂兽 | - | - |
+| trap_1633_akrbt | 深林伪形兽 | - | - |
+| trap_1634_akrbsp | 赤黑伪形兽 | - | - |
+| trap_1635_akblcr | 浪花小壳蟹 | - | - |
+| trap_1636_akrdcr | 熔火小壳蟹 | - | - |
+| trap_1637_akickb | 寒山大角驮兽 | - | - |
+| trap_1638_akdrgn | 锐爪巨翼兽 | - | - |
+| trap_1639_akkabi | 温和驮兽 | - | - |
 | trap_163_foolcrate | 障碍物 | Roadblock | 障害物 |
+| trap_1640_akbtst | 障碍物 | - | - |
+| trap_1641_akbtel | 梅什科线圈 | - | - |
+| trap_1642_akbtjt | 源石祭坛 | - | - |
+| trap_1643_akbtbd | 源石冰晶 | - | - |
+| trap_1644_akbowf | 弩炮 | - | - |
+| trap_1645_akmndx | 未定义石兽 | - | - |
+| trap_1646_akqhc | 青花 | - | - |
+| trap_1647_akqhsp | 赤霞 | - | - |
+| trap_1648_akpeat | 不知足吞噬者 | - | - |
+| trap_1649_akflwr | 钵海收割者 | - | - |
 | trap_164_lrsiege | 振奋荣光 | Light of Glory | 奮い立つ栄光 |
+| trap_1650_aktstn | 孤独的巨像 | - | - |
+| trap_1651_akmdbf | “酩酊” | - | - |
 | trap_165_muftbl | 足球 | Football | サッカーボール |
 | trap_166_muwork | 设施建筑工 | Facility Builder | 施設建設作業員 |
 | trap_167_muruinf | 折叠式维护车 | Foldable Maintenance Vehicle | 競技用格納式整備車 |
@@ -1332,6 +1374,9 @@ tip: 请善用浏览器的搜索功能
 | trap_789_supctlb | 冰浪脉冲模块 | - | - |
 | trap_790_dytswd | 宿傲 | - | - |
 | trap_791_dytfre | 宿怒 | - | - |
+| trap_792_healbf | “主动脉”支援系统 | - | - |
+| trap_793_healbfa | 抑制解除模组 | - | - |
+| trap_794_healbfb | 血浆活化模组 | - | - |
 | char_002_amiya@epoque#4 | 见习联结者 | Fresh Fastener | 見習い宅配人 |
 | char_002_amiya@test#1 | 播种者 | Seedsower | プランター |
 | char_002_amiya@winter#1 | 报童 | Newsgirl | 新聞配達員 |
@@ -1688,6 +1733,7 @@ tip: 请善用浏览器的搜索功能
 | char_4046_ebnhlz@boc#6 | 变奏 | Eine Variation | 変奏 |
 | char_4047_pianst@wild#8 | 荒野寻音 | Freeland Tuneseeker | 荒野に音尋ね |
 | char_4048_doroth@witch#4 | 命运主宰 | Hand of Destiny | 運命の支配者 |
+| char_4051_akkord@summer#23 | 悠然假日 HD91 | - | - |
 | char_4052_surfer@nian#12 | 共凭栏 | - | - |
 | char_4054_malist@summer#14 | 悠然假日 HDm74 | Holiday HDm74 | ホリデーHDm74 |
 | char_4055_bgsnow@wild#7 | 字句中的雪原 | Snowy Plains in Words | 行間にある雪原 |
@@ -3492,6 +3538,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_6031_visfrg | “木衣” | 'Woodthreads' | 「木衣」 |
 | enemy_6032_fxdjj | “绝对安保”试做型  | - | - |
 | enemy_6033_skagod | 冰滚兽  | - | - |
+| enemy_6034_vampir | “枯槁者”维奇科 | - | - |
 | enemy_7001_blwzad | 部族巫术师 | Tribal Shaman | 部族呪術師 |
 | enemy_7001_blwzad_2 | 王酋巫术师 | Lord Ameer Shaman | 首長呪術師 |
 | enemy_7002_veingd | 矿脉守卫 | Vein Guardian | 鉱脈の守護者 |
@@ -3693,6 +3740,7 @@ tip: 请善用浏览器的搜索功能
 | act19sre | 绿野幻梦·复刻 | Dorothy's Vision - Retrospection | 翠玉の夢・復刻 |
 | act1access | 五周年专享活动 | Exclusive Event | 大感謝祭限定イベント |
 | act1arcade | 视相博物馆 | Poly Vision Museum | 視像博物館 |
+| act1arkhub | 奇象巡展 | - | - |
 | act1autochess | 卫戍协议:盟约 | - | - |
 | act1blessing | 2024罗德岛新春签到 | 2024 Festival Sign-In | 4.5周年スタンプラリー |
 | act1bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
@@ -4186,6 +4234,7 @@ Event | なないろのお茶会 |
 | RandomSkinbox_2 | 时装回顾展·II | - | - |
 | RandomSkinbox_3 | 时装回顾展·III | - | - |
 | RandomSkinbox_4 | 时装回顾展·IV | - | - |
+| RandomSkinbox_arkhub_1 | 奇象时装回顾展 | - | - |
 | SINGLE_49_0_1_GACHA | 如死亦终寻访凭证 | Like Ending Like Death Headhunting Permit | イベントスカウト券 |
 | SINGLE_49_0_1_GACHA_10 | 如死亦终十连寻访凭证 | Like Ending Like Death Ten-roll Headhunting Permit | イベント10回スカウト券 |
 | SINGLE_55_0_1_GACHA | 未致蒙尘寻访凭证 | Never Gilded Headhunting Permit | 褪せざる栄光スカウト券 |
@@ -4260,6 +4309,7 @@ Event | なないろのお茶会 |
 | act19side_token_reagents | 神秘试剂 | Mysterious Reagent | 謎の試薬 |
 | act19side_token_reagents_rep_1 | 神秘试剂 | Mysterious Reagent | 謎の試薬 |
 | act1arcade_milestone_point | 积点卡券 | Point Card | 景品チケット |
+| act1arkhub_token_seal | 巡展纪念章 | - | - |
 | act1autochess_token_chess | 卫戍认证 | - | - |
 | act1bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act1bossrush_relic_01 | 模块复用 | Reuse Module | マルチプレキシング |
@@ -4743,6 +4793,7 @@ Event | なないろのお茶会 |
 | clue_Rap_4_rep_1 | 说唱动态4 | Rap Trend 4 | ラップサイド4 |
 | clue_Rap_5 | 说唱动态5 | Rap Trend 5 | ラップサイド5 |
 | clue_Rap_5_rep_1 | 说唱动态5 | Rap Trend 5 | ラップサイド5 |
+| emoticon_arkhub_basic | 表情套组 | - | - |
 | emoticon_autochess_basic | 表情套组：卫戍协议 | - | - |
 | emoticon_autochess_basic_2 | 表情套组：卫戍协议 | - | - |
 | emoticon_basic | 表情套组 | Emote Set | スタンプ |
@@ -5389,6 +5440,7 @@ Event | なないろのお茶会 |
 | uni_set_bolivar | 密林悍将归来家具收藏包 | The Great Chief Returns Furniture Pack | 帰還！密林の長家具パック |
 | uni_set_castle_1 | 古堡印象家具收藏包一 | Castlesque Furniture Pack I | 古城風家具パックvol.1 |
 | uni_set_castle_2 | 古堡印象家具收藏包二 | Castlesque Furniture Pack II | 古城風家具パックvol.2 |
+| uni_set_citizengarden | 太阳甩在身后家具收藏包 | - | - |
 | uni_set_coastCottage | 火山旅梦家具收藏包 | - | - |
 | uni_set_concertHall | 尘影余音家具收藏包 | Lingering Echoes Furniture Pack | 塵影に交わる残響家具パック |
 | uni_set_countryside | 照我以火家具收藏包 | What the Firelight Casts Furniture Pack | この炎が照らす先家具パック |
@@ -5454,6 +5506,7 @@ Event | なないろのお茶会 |
 | voucher_full_malist | 至简的私人信件 | Minimalist's Personal Letter | ミニマリストの手紙 |
 | voucher_full_mint | 薄绿的私人信件 | Mint's Personal Letter | ミントの手紙 |
 | voucher_full_odda | 奥达的私人信件 | - | - |
+| voucher_full_papyrs | 莎草的私人信件 | - | - |
 | voucher_full_pianst | 车尔尼的私人信件 | Czerny's Personal Letter | ツェルニーの手紙 |
 | voucher_full_puzzle | 谜图的私人信件 | Puzzle's Personal Letter | パズルの手紙 |
 | voucher_full_robin | 罗宾的私人信件 | Robin's Personal Letter | ロビンの手紙 |
@@ -6959,6 +7012,11 @@ Event | なないろのお茶会 |
 | sktok_aidkit | 急救 | First Aid | 応急処置 |
 | sktok_airbomb | 砰！ | Bang! | バン！ |
 | sktok_airsup | 派遣空援 | Dispatch Air Support | 空援派遣 |
+| sktok_akbowf | 发射弩箭 | - | - |
+| sktok_akbtbd | 寒潮 | - | - |
+| sktok_akbtel | 通电！ | - | - |
+| sktok_akbtjt | 脉冲波 | - | - |
+| sktok_akbtst | 阻挡路线 | - | - |
 | sktok_allady | 阿勒黛的卫护 | Allerdale's Guard | アラデルの衛護 |
 | sktok_allady_2 | 阿勒黛的卫护 | Allerdale's Guard | アラデルの衛護 |
 | sktok_allydonq | 冲锋 | Charge | 突貫 |
@@ -7143,6 +7201,9 @@ Event | なないろのお茶会 |
 | sktok_gractrl | 重力生成 | Gravity Generation | 重力生成 |
 | sktok_gtreasure | 可被击破 | Destructible | 撃破可能 |
 | sktok_gunctrl | 开火 | Open Fire | 発射 |
+| sktok_healbf | 汲能冲击 | - | - |
+| sktok_healbfa | 抑制解除 | - | - |
+| sktok_healbfb | 血浆活化 | - | - |
 | sktok_hiddenstone | 可被击破 | Destructible | 撃破可能 |
 | sktok_hlnpcb_1 | 苏醒 | Awaken | 目覚め |
 | sktok_inverter | 撼动现实 | Warping Reality | 事象震動 |
@@ -7987,6 +8048,24 @@ Event | なないろのお茶会 |
 | act1arcade_m4_01 | 陆上行船 | Boat Out of Water | 陸上航行 |
 | act1arcade_m4_02 | 冲出激浪 | Brave the Waves | 荒波を越えろ |
 | act1arcade_m4_03 | 环绕大地 | Journey the Land | 大地を巡れ |
+| act1arkhub_01 | 奇象收录时间！ | - | - |
+| act1arkhub_02 | 奇象收录时间！ | - | - |
+| act1arkhub_03 | 奇象拟合对战场 | - | - |
+| act1arkhub_04 | 奇象拟合对战场 | - | - |
+| act1arkhub_05 | 奇象拟合对战场 | - | - |
+| act1arkhub_06 | 奇象拟合对战场 | - | - |
+| act1arkhub_07 | 奇象拟合对战场 | - | - |
+| act1arkhub_08 | 奇象拟合对战场 | - | - |
+| act1arkhub_09 | 奇象拟合对战场 | - | - |
+| act1arkhub_10 | 奇象拟合对战场 | - | - |
+| act1arkhub_11 | 奇象拟合对战场 | - | - |
+| act1arkhub_12 | 奇象收录时间！ | - | - |
+| act1arkhub_13 | 奇象收录时间！ | - | - |
+| act1arkhub_14 | 奇象收录时间！ | - | - |
+| act1arkhub_15 | 奇象收录时间！ | - | - |
+| act1arkhub_16 | 奇象拟合对战场 | - | - |
+| act1arkhub_17 | 奇象拟合对战场 | - | - |
+| act1arkhub_18 | 奇象拟合对战场 | - | - |
 | act1bossrush_01 | 无尽灼烧与强力破坏 | Burn and Destroy | 無尽の炎と破壊の鋸 |
 | act1bossrush_02 | 卷土重来 | Comeback | 捲土重来 |
 | act1bossrush_03 | 风沙轰隆隆 | Rolling Sands | 塵旋風とどろく |
@@ -8752,6 +8831,11 @@ Event | なないろのお茶会 |
 | act53side_07 | 谎言的重量 | - | - |
 | act53side_08 | 以决心做邮戳 | - | - |
 | act53side_09 | 绘我们的黎明 | - | - |
+| act53side_mo01 | 大涌泉镇盛宴 | - | - |
+| act53side_s01 | 邮箱保卫战 | - | - |
+| act53side_s02 | 通行新选择 | - | - |
+| act53side_s03 | 交通管理员 | - | - |
+| act53side_s04 | “家族聚会” | - | - |
 | act53side_sp01 | 冒昧的请求 | - | - |
 | act53side_sp02 | 信使的素养 | - | - |
 | act53side_st01 | 一封想写的信 | - | - |
@@ -9038,6 +9122,12 @@ Event | なないろのお茶会 |
 | lt_20_04 | 新穴聚居 | - | - |
 | lt_20_05 | 四方涌现 | - | - |
 | lt_20_06 | 幽邃尽头 | - | - |
+| lt_21_01 | 铁锈闸口 | - | - |
+| lt_21_02 | 崩塌通道 | - | - |
+| lt_21_03 | 躁动阶梯 | - | - |
+| lt_21_04 | 扭曲图腾 | - | - |
+| lt_21_05 | 刺耳供礼 | - | - |
+| lt_21_06 | 罪恶终局 | - | - |
 | lt_tr_01 | 7号训练场 | Training Ground #7 | 7号訓練場 |
 | lt_tr_02 | 9号训练场 | Training Ground #9 | 9号訓練場 |
 | lt_tr_03 | 10号训练场 | Training Ground #10 | 10号訓練場 |

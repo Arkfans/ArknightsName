@@ -1379,30 +1379,156 @@
     "ja_JP": "コア増幅器",
     "zh_CN": "核心增幅器"
   },
+  "trap_1601_akshept": {
+    "zh_CN": "星术绒绒"
+  },
+  "trap_1602_akspspt": {
+    "zh_CN": "奥术绒绒"
+  },
+  "trap_1603_akbudyt": {
+    "zh_CN": "大个子绒绒"
+  },
+  "trap_1605_akplspt": {
+    "zh_CN": "活泼绒绒"
+  },
+  "trap_1606_aksnilt": {
+    "zh_CN": "固海凿石者"
+  },
+  "trap_1607_akplbtt": {
+    "zh_CN": "阿咬"
+  },
+  "trap_1608_akplbrt": {
+    "zh_CN": "高普尼克"
+  },
+  "trap_1609_akcrabt": {
+    "zh_CN": "石背岩壳蟹"
+  },
   "trap_160_lrlgun": {
     "en_US": "Torrent Beam Activator",
     "ja_JP": "奔流発生装置",
     "zh_CN": "洪流束激发器"
+  },
+  "trap_1610_akplsnt": {
+    "zh_CN": "直立小雪怪"
+  },
+  "trap_1611_akdogt": {
+    "zh_CN": "花冠园丁"
+  },
+  "trap_1612_akdgspt": {
+    "zh_CN": "黑毛花冠园丁"
+  },
+  "trap_1613_akslmt": {
+    "zh_CN": "果冻清道夫"
+  },
+  "trap_1615_akftrt": {
+    "zh_CN": "大嘴捕食草"
+  },
+  "trap_1616_akmaget": {
+    "zh_CN": "爬行鬼伞"
+  },
+  "trap_1617_akrangt": {
+    "zh_CN": "红宝石投石虫"
+  },
+  "trap_1618_akshdt": {
+    "zh_CN": "困困荪茸"
+  },
+  "trap_1619_akbowt": {
+    "zh_CN": "石榴弩手"
   },
   "trap_161_lrcage": {
     "en_US": "Withered Altar",
     "ja_JP": "枯朽の祭壇",
     "zh_CN": "枯朽祭坛"
   },
+  "trap_1620_akdeft": {
+    "zh_CN": "椰壳蟹"
+  },
+  "trap_1624_akfiret": {
+    "zh_CN": "灼热跳跳蜥"
+  },
+  "trap_1626_aktelet": {
+    "zh_CN": "蓝冠羽镖客"
+  },
+  "trap_1627_aktespt": {
+    "zh_CN": "橙冠羽镖客"
+  },
   "trap_162_lrctrl": {
     "en_US": "EP14 Mechanics Controller",
     "ja_JP": "第十四章ギミックコントローラー",
     "zh_CN": "十四章机制控制器"
+  },
+  "trap_1631_akraget": {
+    "zh_CN": "密林锋脊裂兽"
+  },
+  "trap_1632_akrgspt": {
+    "zh_CN": "枯焦锋脊裂兽"
+  },
+  "trap_1633_akrbt": {
+    "zh_CN": "深林伪形兽"
+  },
+  "trap_1634_akrbsp": {
+    "zh_CN": "赤黑伪形兽"
+  },
+  "trap_1635_akblcr": {
+    "zh_CN": "浪花小壳蟹"
+  },
+  "trap_1636_akrdcr": {
+    "zh_CN": "熔火小壳蟹"
+  },
+  "trap_1637_akickb": {
+    "zh_CN": "寒山大角驮兽"
+  },
+  "trap_1638_akdrgn": {
+    "zh_CN": "锐爪巨翼兽"
+  },
+  "trap_1639_akkabi": {
+    "zh_CN": "温和驮兽"
   },
   "trap_163_foolcrate": {
     "en_US": "Roadblock",
     "ja_JP": "障害物",
     "zh_CN": "障碍物"
   },
+  "trap_1640_akbtst": {
+    "zh_CN": "障碍物"
+  },
+  "trap_1641_akbtel": {
+    "zh_CN": "梅什科线圈"
+  },
+  "trap_1642_akbtjt": {
+    "zh_CN": "源石祭坛"
+  },
+  "trap_1643_akbtbd": {
+    "zh_CN": "源石冰晶"
+  },
+  "trap_1644_akbowf": {
+    "zh_CN": "弩炮"
+  },
+  "trap_1645_akmndx": {
+    "zh_CN": "未定义石兽"
+  },
+  "trap_1646_akqhc": {
+    "zh_CN": "青花"
+  },
+  "trap_1647_akqhsp": {
+    "zh_CN": "赤霞"
+  },
+  "trap_1648_akpeat": {
+    "zh_CN": "不知足吞噬者"
+  },
+  "trap_1649_akflwr": {
+    "zh_CN": "钵海收割者"
+  },
   "trap_164_lrsiege": {
     "en_US": "Light of Glory",
     "ja_JP": "奮い立つ栄光",
     "zh_CN": "振奋荣光"
+  },
+  "trap_1650_aktstn": {
+    "zh_CN": "孤独的巨像"
+  },
+  "trap_1651_akmdbf": {
+    "zh_CN": "“酩酊”"
   },
   "trap_165_muftbl": {
     "en_US": "Football",
@@ -3337,5 +3463,14 @@
   },
   "trap_791_dytfre": {
     "zh_CN": "宿怒"
+  },
+  "trap_792_healbf": {
+    "zh_CN": "“主动脉”支援系统"
+  },
+  "trap_793_healbfa": {
+    "zh_CN": "抑制解除模组"
+  },
+  "trap_794_healbfb": {
+    "zh_CN": "血浆活化模组"
   }
 }

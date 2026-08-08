@@ -1874,6 +1874,60 @@
     "ja_JP": "大地を巡れ",
     "zh_CN": "环绕大地"
   },
+  "act1arkhub_01": {
+    "zh_CN": "奇象收录时间！"
+  },
+  "act1arkhub_02": {
+    "zh_CN": "奇象收录时间！"
+  },
+  "act1arkhub_03": {
+    "zh_CN": "奇象拟合对战场"
+  },
+  "act1arkhub_04": {
+    "zh_CN": "奇象拟合对战场"
+  },
+  "act1arkhub_05": {
+    "zh_CN": "奇象拟合对战场"
+  },
+  "act1arkhub_06": {
+    "zh_CN": "奇象拟合对战场"
+  },
+  "act1arkhub_07": {
+    "zh_CN": "奇象拟合对战场"
+  },
+  "act1arkhub_08": {
+    "zh_CN": "奇象拟合对战场"
+  },
+  "act1arkhub_09": {
+    "zh_CN": "奇象拟合对战场"
+  },
+  "act1arkhub_10": {
+    "zh_CN": "奇象拟合对战场"
+  },
+  "act1arkhub_11": {
+    "zh_CN": "奇象拟合对战场"
+  },
+  "act1arkhub_12": {
+    "zh_CN": "奇象收录时间！"
+  },
+  "act1arkhub_13": {
+    "zh_CN": "奇象收录时间！"
+  },
+  "act1arkhub_14": {
+    "zh_CN": "奇象收录时间！"
+  },
+  "act1arkhub_15": {
+    "zh_CN": "奇象收录时间！"
+  },
+  "act1arkhub_16": {
+    "zh_CN": "奇象拟合对战场"
+  },
+  "act1arkhub_17": {
+    "zh_CN": "奇象拟合对战场"
+  },
+  "act1arkhub_18": {
+    "zh_CN": "奇象拟合对战场"
+  },
   "act1bossrush_01": {
     "en_US": "Burn and Destroy",
     "ja_JP": "無尽の炎と破壊の鋸",
@@ -5225,6 +5279,21 @@
   "act53side_09": {
     "zh_CN": "绘我们的黎明"
   },
+  "act53side_mo01": {
+    "zh_CN": "大涌泉镇盛宴"
+  },
+  "act53side_s01": {
+    "zh_CN": "邮箱保卫战"
+  },
+  "act53side_s02": {
+    "zh_CN": "通行新选择"
+  },
+  "act53side_s03": {
+    "zh_CN": "交通管理员"
+  },
+  "act53side_s04": {
+    "zh_CN": "“家族聚会”"
+  },
   "act53side_sp01": {
     "zh_CN": "冒昧的请求"
   },
@@ -6584,6 +6653,24 @@
   },
   "lt_20_06": {
     "zh_CN": "幽邃尽头"
+  },
+  "lt_21_01": {
+    "zh_CN": "铁锈闸口"
+  },
+  "lt_21_02": {
+    "zh_CN": "崩塌通道"
+  },
+  "lt_21_03": {
+    "zh_CN": "躁动阶梯"
+  },
+  "lt_21_04": {
+    "zh_CN": "扭曲图腾"
+  },
+  "lt_21_05": {
+    "zh_CN": "刺耳供礼"
+  },
+  "lt_21_06": {
+    "zh_CN": "罪恶终局"
   },
   "lt_tr_01": {
     "en_US": "Training Ground #7",
