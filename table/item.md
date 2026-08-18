@@ -422,8 +422,11 @@ tip: 请善用浏览器的搜索功能
 | act43side_token_phantom | 神秘片场黑影 | Phantom of the Studio | 謎の黒い影 |
 | act43side_token_phantom_rep_1 | 神秘片场黑影 | - | - |
 | act44side_token_information | 闲言碎语 | - | - |
+| act44side_token_information_rep_1 | 闲言碎语 | - | - |
 | act44side_token_ticket | 艺人见面抽选券 | - | - |
+| act44side_token_ticket_rep_1 | 艺人见面抽选券 | - | - |
 | act44side_token_treasure | "宝物袋" | - | - |
+| act44side_token_treasure_rep_1 | "宝物袋" | - | - |
 | act45side_token_puzzlepieces | 梦境拼图 | - | - |
 | act46side_token_detector | 雪地用多功能探测器 | - | - |
 | act47side_token_bottle | 天空氧气瓶 | - | - |
@@ -1430,6 +1433,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_countryside | 照我以火家具收藏包 | What the Firelight Casts Furniture Pack | この炎が照らす先家具パック |
 | uni_set_court | 叙拉古人家具收藏包 | Il Siracusano Furniture Pack | シラクザーノ家具パック |
 | uni_set_cultureroom | 孤星家具收藏包 | Lone Trail Furniture Pack | 孤星家具パック |
+| uni_set_darkForest_1 | 黑流印象家具收藏包一 | - | - |
 | uni_set_fNearl | 玛莉娅·临光家具收藏包 | Maria Nearl Furniture Pack | マリア・ニアール家具パック |
 | uni_set_gardenFantasy_1 | 界园印象家具收藏包一 | - | - |
 | uni_set_gardenFantasy_2 | 界园印象家具收藏包二 | - | - |

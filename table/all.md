@@ -1806,6 +1806,7 @@ tip: 请善用浏览器的搜索功能
 | char_4155_talr@yun#9 | 桂影窗 | - | - |
 | char_415_flint@boc#3 | 绚烂夏花 | Gorgeous Flower | 紫藤繚乱 |
 | char_4163_rosesa@game#7 | 冒险启程 | - | - |
+| char_4165_ctrail@yun#11 | 渡澄空 | - | - |
 | char_416_zumama@boc#3 | 熔锻铸匠 | Forgemaster | 熔冶工匠 |
 | char_4171_wulfen@marthe#14 | 跃动节拍 | - | - |
 | char_4172_xingzh@epoque#51 | 留影 | - | - |
@@ -1823,6 +1824,7 @@ tip: 请善用浏览器的搜索功能
 | char_4194_rmixer@boc#12 | 天穹肇始 | - | - |
 | char_4195_radian@game#8 | 乱数法则 | - | - |
 | char_4198_christ@epoque#56 | 底绒舞会 | - | - |
+| char_4199_makiri@sale#19 | 暮时宝光 | - | - |
 | char_4202_haruka@iteration#6 | 常世之幻 | - | - |
 | char_4207_branch@yun#10 | 撷香霭 | - | - |
 | char_420_flamtl@game#2 | 小健将 | Sport For All | サイバー闘技者 |
@@ -3895,6 +3897,7 @@ Event | なないろのお茶会 |
 | act43sre | 红丝绒·复刻 | - | - |
 | act44side | 墟 | - | - |
 | act44sign | 构想试炼签到活动 | Conceptual Crucible Login Event | 仮想試練スタンプ |
+| act44sre | 墟·复刻 | - | - |
 | act45side | 无忧梦呓 | - | - |
 | act45sign | 感谢庆典前瞻签到 | Thank-You Celebration Prospective Login | 大感謝祭開催直前スタンプラリー |
 | act46side | 雪山降临1101 | - | - |
@@ -4438,8 +4441,11 @@ Event | なないろのお茶会 |
 | act43side_token_phantom | 神秘片场黑影 | Phantom of the Studio | 謎の黒い影 |
 | act43side_token_phantom_rep_1 | 神秘片场黑影 | - | - |
 | act44side_token_information | 闲言碎语 | - | - |
+| act44side_token_information_rep_1 | 闲言碎语 | - | - |
 | act44side_token_ticket | 艺人见面抽选券 | - | - |
+| act44side_token_ticket_rep_1 | 艺人见面抽选券 | - | - |
 | act44side_token_treasure | "宝物袋" | - | - |
+| act44side_token_treasure_rep_1 | "宝物袋" | - | - |
 | act45side_token_puzzlepieces | 梦境拼图 | - | - |
 | act46side_token_detector | 雪地用多功能探测器 | - | - |
 | act47side_token_bottle | 天空氧气瓶 | - | - |
@@ -5446,6 +5452,7 @@ Event | なないろのお茶会 |
 | uni_set_countryside | 照我以火家具收藏包 | What the Firelight Casts Furniture Pack | この炎が照らす先家具パック |
 | uni_set_court | 叙拉古人家具收藏包 | Il Siracusano Furniture Pack | シラクザーノ家具パック |
 | uni_set_cultureroom | 孤星家具收藏包 | Lone Trail Furniture Pack | 孤星家具パック |
+| uni_set_darkForest_1 | 黑流印象家具收藏包一 | - | - |
 | uni_set_fNearl | 玛莉娅·临光家具收藏包 | Maria Nearl Furniture Pack | マリア・ニアール家具パック |
 | uni_set_gardenFantasy_1 | 界园印象家具收藏包一 | - | - |
 | uni_set_gardenFantasy_2 | 界园印象家具收藏包二 | - | - |
@@ -9843,6 +9850,9 @@ Event | なないろのお茶会 |
 | act44side_zone1 | 不夜街区 | - | - |
 | act44side_zone2 | 锻冶旧迹 | - | - |
 | act44side_zone3 | 绝缘石阶 | - | - |
+| act44sre_zone1 | 不夜街区 | - | - |
+| act44sre_zone2 | 锻冶旧迹 | - | - |
+| act44sre_zone3 | 绝缘石阶 | - | - |
 | act45side_zone1 | 万般皆梦 | - | - |
 | act45side_zone2 | 拥抱命运 | - | - |
 | act46side_zone1 | 圣巡之旅 | - | - |
@@ -9969,6 +9979,9 @@ Event | なないろのお茶会 |
 | permanent_sidestory_32_zone3 | 息止安所 | - | - |
 | permanent_sidestory_33_zone1 | 演出开始 | - | - |
 | permanent_sidestory_33_zone2 | 为戏剧，为永恒 | - | - |
+| permanent_sidestory_34_zone1 | 不夜街区 | - | - |
+| permanent_sidestory_34_zone2 | 锻冶旧迹 | - | - |
+| permanent_sidestory_34_zone3 | 绝缘石阶 | - | - |
 | permanent_sidestory_3_zone1 | 下城区 | Downtown | 繁華街 |
 | permanent_sidestory_3_zone2 | 东部郊区 | Eastern Suburbs | 東部郊外 |
 | permanent_sidestory_4_zone1 | 议事高塔 | Capitol Spire | 大議事塔 |

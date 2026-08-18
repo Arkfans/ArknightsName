@@ -434,6 +434,7 @@ tip: 请善用浏览器的搜索功能
 | char_4155_talr@yun#9 | 桂影窗 | - | - |
 | char_415_flint@boc#3 | 绚烂夏花 | Gorgeous Flower | 紫藤繚乱 |
 | char_4163_rosesa@game#7 | 冒险启程 | - | - |
+| char_4165_ctrail@yun#11 | 渡澄空 | - | - |
 | char_416_zumama@boc#3 | 熔锻铸匠 | Forgemaster | 熔冶工匠 |
 | char_4171_wulfen@marthe#14 | 跃动节拍 | - | - |
 | char_4172_xingzh@epoque#51 | 留影 | - | - |
@@ -451,6 +452,7 @@ tip: 请善用浏览器的搜索功能
 | char_4194_rmixer@boc#12 | 天穹肇始 | - | - |
 | char_4195_radian@game#8 | 乱数法则 | - | - |
 | char_4198_christ@epoque#56 | 底绒舞会 | - | - |
+| char_4199_makiri@sale#19 | 暮时宝光 | - | - |
 | char_4202_haruka@iteration#6 | 常世之幻 | - | - |
 | char_4207_branch@yun#10 | 撷香霭 | - | - |
 | char_420_flamtl@game#2 | 小健将 | Sport For All | サイバー闘技者 |

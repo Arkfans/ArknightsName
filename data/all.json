@@ -13361,6 +13361,12 @@
       "zh_CN": "冒险启程"
     }
   },
+  "char_4165_ctrail@yun#11": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "渡澄空"
+    }
+  },
   "char_416_zumama@boc#3": {
     "type": "SKIN",
     "names": {
@@ -13463,6 +13469,12 @@
     "type": "SKIN",
     "names": {
       "zh_CN": "底绒舞会"
+    }
+  },
+  "char_4199_makiri@sale#19": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "暮时宝光"
     }
   },
   "char_4202_haruka@iteration#6": {
@@ -29035,6 +29047,12 @@
       "zh_CN": "构想试炼签到活动"
     }
   },
+  "act44sre": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "墟·复刻"
+    }
+  },
   "act45side": {
     "type": "ACTIVITY",
     "names": {
@@ -33126,13 +33144,31 @@
       "zh_CN": "闲言碎语"
     }
   },
+  "act44side_token_information_rep_1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "闲言碎语"
+    }
+  },
   "act44side_token_ticket": {
     "type": "ITEM",
     "names": {
       "zh_CN": "艺人见面抽选券"
     }
   },
+  "act44side_token_ticket_rep_1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "艺人见面抽选券"
+    }
+  },
   "act44side_token_treasure": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "\"宝物袋\""
+    }
+  },
+  "act44side_token_treasure_rep_1": {
     "type": "ITEM",
     "names": {
       "zh_CN": "\"宝物袋\""
@@ -40793,6 +40829,12 @@
       "en_US": "Lone Trail Furniture Pack",
       "ja_JP": "孤星家具パック",
       "zh_CN": "孤星家具收藏包"
+    }
+  },
+  "uni_set_darkForest_1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "黑流印象家具收藏包一"
     }
   },
   "uni_set_fNearl": {
@@ -73764,6 +73806,24 @@
       "zh_CN": "绝缘石阶"
     }
   },
+  "act44sre_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "不夜街区"
+    }
+  },
+  "act44sre_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "锻冶旧迹"
+    }
+  },
+  "act44sre_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "绝缘石阶"
+    }
+  },
   "act45side_zone1": {
     "type": "ZONE",
     "names": {
@@ -74686,6 +74746,24 @@
     "type": "ZONE",
     "names": {
       "zh_CN": "为戏剧，为永恒"
+    }
+  },
+  "permanent_sidestory_34_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "不夜街区"
+    }
+  },
+  "permanent_sidestory_34_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "锻冶旧迹"
+    }
+  },
+  "permanent_sidestory_34_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "绝缘石阶"
     }
   },
   "permanent_sidestory_3_zone1": {

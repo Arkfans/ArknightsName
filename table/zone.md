@@ -237,6 +237,9 @@ tip: 请善用浏览器的搜索功能
 | act44side_zone1 | 不夜街区 | - | - |
 | act44side_zone2 | 锻冶旧迹 | - | - |
 | act44side_zone3 | 绝缘石阶 | - | - |
+| act44sre_zone1 | 不夜街区 | - | - |
+| act44sre_zone2 | 锻冶旧迹 | - | - |
+| act44sre_zone3 | 绝缘石阶 | - | - |
 | act45side_zone1 | 万般皆梦 | - | - |
 | act45side_zone2 | 拥抱命运 | - | - |
 | act46side_zone1 | 圣巡之旅 | - | - |
@@ -363,6 +366,9 @@ tip: 请善用浏览器的搜索功能
 | permanent_sidestory_32_zone3 | 息止安所 | - | - |
 | permanent_sidestory_33_zone1 | 演出开始 | - | - |
 | permanent_sidestory_33_zone2 | 为戏剧，为永恒 | - | - |
+| permanent_sidestory_34_zone1 | 不夜街区 | - | - |
+| permanent_sidestory_34_zone2 | 锻冶旧迹 | - | - |
+| permanent_sidestory_34_zone3 | 绝缘石阶 | - | - |
 | permanent_sidestory_3_zone1 | 下城区 | Downtown | 繁華街 |
 | permanent_sidestory_3_zone2 | 东部郊区 | Eastern Suburbs | 東部郊外 |
 | permanent_sidestory_4_zone1 | 议事高塔 | Capitol Spire | 大議事塔 |

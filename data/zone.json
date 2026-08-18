@@ -1089,6 +1089,15 @@
   "act44side_zone3": {
     "zh_CN": "绝缘石阶"
   },
+  "act44sre_zone1": {
+    "zh_CN": "不夜街区"
+  },
+  "act44sre_zone2": {
+    "zh_CN": "锻冶旧迹"
+  },
+  "act44sre_zone3": {
+    "zh_CN": "绝缘石阶"
+  },
   "act45side_zone1": {
     "zh_CN": "万般皆梦"
   },
@@ -1634,6 +1643,15 @@
   },
   "permanent_sidestory_33_zone2": {
     "zh_CN": "为戏剧，为永恒"
+  },
+  "permanent_sidestory_34_zone1": {
+    "zh_CN": "不夜街区"
+  },
+  "permanent_sidestory_34_zone2": {
+    "zh_CN": "锻冶旧迹"
+  },
+  "permanent_sidestory_34_zone3": {
+    "zh_CN": "绝缘石阶"
   },
   "permanent_sidestory_3_zone1": {
     "en_US": "Downtown",

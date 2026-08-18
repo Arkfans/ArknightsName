@@ -245,6 +245,7 @@ Event | なないろのお茶会 |
 | act43sre | 红丝绒·复刻 | - | - |
 | act44side | 墟 | - | - |
 | act44sign | 构想试炼签到活动 | Conceptual Crucible Login Event | 仮想試練スタンプ |
+| act44sre | 墟·复刻 | - | - |
 | act45side | 无忧梦呓 | - | - |
 | act45sign | 感谢庆典前瞻签到 | Thank-You Celebration Prospective Login | 大感謝祭開催直前スタンプラリー |
 | act46side | 雪山降临1101 | - | - |
