@@ -366,7 +366,11 @@ tip: 请善用浏览器的搜索功能
 | char_4213_skybx | 天空盒 | - | - |
 | char_4214_cairn | 响石 | - | - |
 | char_4215_buddy | 罗德岛隐秘队 | - | - |
+| char_4217_makoto | 结城理 | - | - |
+| char_4218_aigis | 埃癸斯 | - | - |
+| char_4219_yukari | 岳羽由加莉 | - | - |
 | char_421_crow | 羽毛笔 | La Pluma | ラ・プルマ |
+| char_4220_kormr | 虎狼丸 | - | - |
 | char_4221_ju | 矩 | - | - |
 | char_4222_taraxa | 风絮 | - | - |
 | char_4223_botany | 伯塔尼 | - | - |

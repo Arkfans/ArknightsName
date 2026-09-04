@@ -2813,12 +2813,36 @@
       "zh_CN": "罗德岛隐秘队"
     }
   },
+  "char_4217_makoto": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "结城理"
+    }
+  },
+  "char_4218_aigis": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "埃癸斯"
+    }
+  },
+  "char_4219_yukari": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "岳羽由加莉"
+    }
+  },
   "char_421_crow": {
     "type": "OPERATOR",
     "names": {
       "en_US": "La Pluma",
       "ja_JP": "ラ・プルマ",
       "zh_CN": "羽毛笔"
+    }
+  },
+  "char_4220_kormr": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "虎狼丸"
     }
   },
   "char_4221_ju": {
@@ -7733,6 +7757,12 @@
     "type": "TRAP",
     "names": {
       "zh_CN": "邮箱"
+    }
+  },
+  "trap_335_totalattack": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "全场总攻击"
     }
   },
   "trap_400_xbfarm": {
@@ -13503,12 +13533,36 @@
       "zh_CN": "露营时间喵！"
     }
   },
+  "char_4217_makoto@p3r#1": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "见证荣光"
+    }
+  },
+  "char_4218_aigis@p3r#1": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "静思真谛"
+    }
+  },
+  "char_4219_yukari@p3r#1": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "戍卫晨昏"
+    }
+  },
   "char_421_crow@summer#9": {
     "type": "SKIN",
     "names": {
       "en_US": "Summer Flowers FA210",
       "ja_JP": "夏の花弁FA210",
       "zh_CN": "夏卉 FA210"
+    }
+  },
+  "char_4220_kormr@p3r#1": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "飞越甜蜜之城"
     }
   },
   "char_422_aurora@boc#4": {
@@ -16743,6 +16797,78 @@
       "zh_CN": "御4"
     }
   },
+  "enemy_10184_pppsbr": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "滴答冰淇淋"
+    }
+  },
+  "enemy_10184_pppsbr_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "刺溜冰淇淋"
+    }
+  },
+  "enemy_10185_pppshd": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "吵闹收音机"
+    }
+  },
+  "enemy_10185_pppshd_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "沉默收音机"
+    }
+  },
+  "enemy_10186_ppparc": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "蹦跶羽兽"
+    }
+  },
+  "enemy_10186_ppparc_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "蹒跚羽兽"
+    }
+  },
+  "enemy_10187_pppwiz": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "失恋花束"
+    }
+  },
+  "enemy_10187_pppwiz_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "离婚花束"
+    }
+  },
+  "enemy_10188_pppdp": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "结巴铳"
+    }
+  },
+  "enemy_10188_pppdp_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "咆哮铳"
+    }
+  },
+  "enemy_10189_pppmag": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "伤眼路灯"
+    }
+  },
+  "enemy_10189_pppmag_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "吓人路灯"
+    }
+  },
   "enemy_1018_aoemag": {
     "type": "ENEMY",
     "names": {
@@ -16757,6 +16883,54 @@
       "en_US": "Senior Caster Leader",
       "ja_JP": "上級術師隊長",
       "zh_CN": "高阶术师组长"
+    }
+  },
+  "enemy_10190_pppham": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "几点了钟"
+    }
+  },
+  "enemy_10190_pppham_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "不知道钟"
+    }
+  },
+  "enemy_10191_pppgst": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "没办法车"
+    }
+  },
+  "enemy_10191_pppgst_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "生气车"
+    }
+  },
+  "enemy_10191_pppgst_3": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "困惑车"
+    }
+  },
+  "enemy_10191_pppgst_4": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "难过车"
+    }
+  },
+  "enemy_10191_pppgst_5": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "无聊车"
+    }
+  },
+  "enemy_10192_ppprpr": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "挥铳圣像"
     }
   },
   "enemy_10193_ubhh": {
@@ -24135,6 +24309,12 @@
       "zh_CN": "“私人安全顾问”"
     }
   },
+  "enemy_1589_pppdth": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“死志的凝结”"
+    }
+  },
   "enemy_1590_muama": {
     "type": "ENEMY",
     "names": {
@@ -29246,6 +29426,12 @@
       "zh_CN": "金樨迎月签到活动"
     }
   },
+  "act54side": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "月行水上"
+    }
+  },
   "act54sign": {
     "type": "ACTIVITY",
     "names": {
@@ -29360,6 +29546,12 @@
     "type": "ACTIVITY",
     "names": {
       "zh_CN": "透明信笺签到活动"
+    }
+  },
+  "act61sign": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "此夜同行签到活动"
     }
   },
   "act6bossrush": {
@@ -29908,6 +30100,12 @@
       "en_US": "Sargon",
       "ja_JP": "サルゴン",
       "zh_CN": "萨尔贡"
+    }
+  },
+  "sees": {
+    "type": "TEAM",
+    "names": {
+      "zh_CN": "S.E.E.S."
     }
   },
   "siesta": {
@@ -31364,6 +31562,18 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "弓吟空跃寻访凭证"
+    }
+  },
+  "LINKAGE_TKT_GACHA_10_7701": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "一逢满月十连寻访凭证"
+    }
+  },
+  "LINKAGE_TKT_GACHA_7701": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "一逢满月寻访凭证"
     }
   },
   "LMTGS_COIN_1401": {
@@ -33393,6 +33603,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "沿途的点滴"
+    }
+  },
+  "act54side_token_tape": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "旧磁带"
     }
   },
   "act5bossrush_milestone_point": {
@@ -39107,12 +39323,36 @@
       "zh_CN": "罗德岛隐秘队的信物"
     }
   },
+  "p_char_4217_makoto": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "结城理的信物"
+    }
+  },
+  "p_char_4218_aigis": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "埃癸斯的信物"
+    }
+  },
+  "p_char_4219_yukari": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "岳羽由加莉的信物"
+    }
+  },
   "p_char_421_crow": {
     "type": "ITEM",
     "names": {
       "en_US": "La Pluma's Token",
       "ja_JP": "ラ・プルマの印",
       "zh_CN": "羽毛笔的信物"
+    }
+  },
+  "p_char_4220_kormr": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "虎狼丸的信物"
     }
   },
   "p_char_4221_ju": {
@@ -40229,6 +40469,54 @@
       "zh_CN": "特勤作战记录"
     }
   },
+  "tarot_1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "节制"
+    }
+  },
+  "tarot_2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "倒吊人"
+    }
+  },
+  "tarot_3": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "隐者"
+    }
+  },
+  "tarot_4": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "星"
+    }
+  },
+  "tarot_5": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "教宗"
+    }
+  },
+  "tarot_6": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "力量"
+    }
+  },
+  "tarot_7": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "魔术师"
+    }
+  },
+  "tarot_8": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "战车"
+    }
+  },
   "tier1_caster": {
     "type": "ITEM",
     "names": {
@@ -41025,6 +41313,12 @@
       "en_US": "Invitation to Wine Furniture Pack",
       "ja_JP": "将進酒家具パック",
       "zh_CN": "将进酒家具收藏包"
+    }
+  },
+  "uni_set_velvet": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "月行水上家具收藏包"
     }
   },
   "uni_set_westCoast": {
@@ -42199,6 +42493,12 @@
     "type": "POOL",
     "names": {
       "zh_CN": "砺火成锋"
+    }
+  },
+  "LINKAGE_77_0_1": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "石白深蓝之夜"
     }
   },
   "NORM_0_1_3": {
@@ -44040,6 +44340,18 @@
       "en_US": "Drawing Sword",
       "ja_JP": "鋭刃",
       "zh_CN": "亮剑"
+    }
+  },
+  "skchr_aigis_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "启动狂宴模式"
+    }
+  },
+  "skchr_aigis_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "全弹发射"
     }
   },
   "skchr_akafyu_1": {
@@ -47512,6 +47824,24 @@
       "zh_CN": "万手成局"
     }
   },
+  "skchr_makoto_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "俄耳甫斯的竖琴"
+    }
+  },
+  "skchr_makoto_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "塔纳托斯的囚锁"
+    }
+  },
+  "skchr_makoto_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "开辟明日的剑刃"
+    }
+  },
   "skchr_malist_2": {
     "type": "SKILL",
     "names": {
@@ -50564,6 +50894,18 @@
       "en_US": "Enter the Stove's Palm",
       "ja_JP": "竈中乾坤",
       "zh_CN": "灶里乾坤"
+    }
+  },
+  "skchr_yukari_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "龙卷箭"
+    }
+  },
+  "skchr_yukari_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "明镜止水"
     }
   },
   "skchr_yuki_1": {
@@ -66090,6 +66432,72 @@
       "zh_CN": "写临行的迷惘"
     }
   },
+  "act54side_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "月出"
+    }
+  },
+  "act54side_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "月涌"
+    }
+  },
+  "act54side_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "月晕"
+    }
+  },
+  "act54side_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "月移"
+    }
+  },
+  "act54side_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "月斜"
+    }
+  },
+  "act54side_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "月蚀"
+    }
+  },
+  "act54side_07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "月悬"
+    }
+  },
+  "act54side_08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "月满"
+    }
+  },
+  "act54side_st01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "月落"
+    }
+  },
+  "act54side_st02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "满月一生"
+    }
+  },
+  "act54side_tr01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "月影"
+    }
+  },
   "act5bossrush_01": {
     "type": "STAGE",
     "names": {
@@ -73958,6 +74366,18 @@
       "zh_CN": "RPG关卡（不展示）"
     }
   },
+  "act54side_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "通学路"
+    }
+  },
+  "act54side_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "殡仪堂"
+    }
+  },
   "act5bossrush_zone1": {
     "type": "ZONE",
     "names": {
@@ -76278,6 +76698,12 @@
       "zh_CN": "旧梦重温"
     }
   },
+  "story_graceb_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "砸碎一抹微笑"
+    }
+  },
   "story_grani_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -76336,6 +76762,12 @@
     "type": "MEMORY",
     "names": {
       "zh_CN": "去荒野的路"
+    }
+  },
+  "story_hadiya_set_2_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "被抗拒者"
     }
   },
   "story_haini_set_1_story_1": {
@@ -77146,6 +77578,12 @@
       "en_US": "Paradisus",
       "ja_JP": "楽園",
       "zh_CN": "乐园"
+    }
+  },
+  "story_phenxi_set_2_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "在干净明亮的夜晚"
     }
   },
   "story_philae_set_1_story_1": {

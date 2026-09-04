@@ -44,6 +44,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_agoat2_2 | 云霭荫佑 | Cloudmist Shelter | 雲煙の庇護 |
 | skchr_agoat2_3 | 火山回响 | Volcanic Echoes | ヴォルケーノ・エコー |
 | skchr_aguard_1 | 亮剑 | Drawing Sword | 鋭刃 |
+| skchr_aigis_1 | 启动狂宴模式 | - | - |
+| skchr_aigis_2 | 全弹发射 | - | - |
 | skchr_akafyu_1 | 信影流·雷刀之势 | Nobukage-ryu - Kaminari Gatana no Zei | 信影流・雷刀之勢 |
 | skchr_akafyu_2 | 信影流·十文字胜 | Nobukage-ryu - Juumonji Masaru | 信影流・十文字勝 |
 | skchr_akkord_1 | 反拍重音 | - | - |
@@ -492,6 +494,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_luton_2 | 强磁防卫 | Magnetic Defense | 強磁場シールド |
 | skchr_makiri_1 | 入场安排 | - | - |
 | skchr_makiri_2 | 万手成局 | - | - |
+| skchr_makoto_1 | 俄耳甫斯的竖琴 | - | - |
+| skchr_makoto_2 | 塔纳托斯的囚锁 | - | - |
+| skchr_makoto_3 | 开辟明日的剑刃 | - | - |
 | skchr_malist_2 | 神工意匠 | Prodigious Craftsmanship | マスターピース |
 | skchr_mantic_1 | 蝎毒 | Scorpion Venom | アジトキシン |
 | skchr_mantic_2 | 蓄力毒尾击 | Toxic Overload | スコーピオンテール |
@@ -889,6 +894,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_yu_1 | 今日做东 | Today's Host | 椀飯振舞 |
 | skchr_yu_2 | 厚礼上宾 | For Guests, Bounteous Gifts | 客至如帰 |
 | skchr_yu_3 | 灶里乾坤 | Enter the Stove's Palm | 竈中乾坤 |
+| skchr_yukari_1 | 龙卷箭 | - | - |
+| skchr_yukari_2 | 明镜止水 | - | - |
 | skchr_yuki_1 | 敌飙 | Shuriken | ユキケムリ |
 | skchr_yuki_2 | 凝武 | Fatal Shuriken | カザグルマ |
 | skchr_zebra_1 | 应急迷彩 | Emergency Camouflage | 応急迷彩 |

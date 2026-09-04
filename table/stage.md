@@ -1178,6 +1178,17 @@ tip: 请善用浏览器的搜索功能
 | act53side_st02 | 糖纸星星 | - | - |
 | act53side_st03 | 祝好 终途的我 | - | - |
 | act53side_tr01 | 写临行的迷惘 | - | - |
+| act54side_01 | 月出 | - | - |
+| act54side_02 | 月涌 | - | - |
+| act54side_03 | 月晕 | - | - |
+| act54side_04 | 月移 | - | - |
+| act54side_05 | 月斜 | - | - |
+| act54side_06 | 月蚀 | - | - |
+| act54side_07 | 月悬 | - | - |
+| act54side_08 | 月满 | - | - |
+| act54side_st01 | 月落 | - | - |
+| act54side_st02 | 满月一生 | - | - |
+| act54side_tr01 | 月影 | - | - |
 | act5bossrush_01 | 严寒骤血 | Cold and Blood | 極寒に舞う血しぶき |
 | act5bossrush_02 | 无声破裂 | Silent Crack | 声なき破滅 |
 | act5bossrush_03 | 幕间重影 | Interlude of Shadows | 幕間の多重像 |

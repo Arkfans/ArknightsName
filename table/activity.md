@@ -275,6 +275,7 @@ Event | なないろのお茶会 |
 | act52sign | 新生支点签到活动 | - | - |
 | act53side | 直到大地变成一颗酸橙 | - | - |
 | act53sign | 金樨迎月签到活动 | - | - |
+| act54side | 月行水上 | - | - |
 | act54sign | 感谢庆典前瞻签到 | - | - |
 | act55sign | 感谢庆典累计签到 | - | - |
 | act56sign | 感谢庆典累计签到 | - | - |
@@ -292,6 +293,7 @@ Event | なないろのお茶会 |
 | act5switch | 温情时光合作活动 | - | - |
 | act5unique | 夏日嘉年华特别活动 | - | - |
 | act60sign | 透明信笺签到活动 | - | - |
+| act61sign | 此夜同行签到活动 | - | - |
 | act6bossrush | 引航者试炼 | - | - |
 | act6collection | 梦城堡模拟训练 | - | - |
 | act6d0 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |

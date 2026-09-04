@@ -457,7 +457,11 @@ tip: 请善用浏览器的搜索功能
 | char_4207_branch@yun#10 | 撷香霭 | - | - |
 | char_420_flamtl@game#2 | 小健将 | Sport For All | サイバー闘技者 |
 | char_4215_buddy@mh#2 | 露营时间喵！ | - | - |
+| char_4217_makoto@p3r#1 | 见证荣光 | - | - |
+| char_4218_aigis@p3r#1 | 静思真谛 | - | - |
+| char_4219_yukari@p3r#1 | 戍卫晨昏 | - | - |
 | char_421_crow@summer#9 | 夏卉 FA210 | Summer Flowers FA210 | 夏の花弁FA210 |
+| char_4220_kormr@p3r#1 | 飞越甜蜜之城 | - | - |
 | char_422_aurora@boc#4 | 极昼捕手 | Polar Catcher | 白夜踏破 |
 | char_423_blemsh@littlePony#1 | 善良坚强之心 | - | - |
 | char_423_blemsh@witch#2 | 异月灾裔 | Moon Catastrborn | 異月の災裔 |

@@ -1166,6 +1166,12 @@
   "act53side_zone4": {
     "zh_CN": "RPG关卡（不展示）"
   },
+  "act54side_zone1": {
+    "zh_CN": "通学路"
+  },
+  "act54side_zone2": {
+    "zh_CN": "殡仪堂"
+  },
   "act5bossrush_zone1": {
     "en_US": "Threat Incoming",
     "ja_JP": "強敵襲来",

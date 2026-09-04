@@ -5312,6 +5312,39 @@
   "act53side_tr01": {
     "zh_CN": "写临行的迷惘"
   },
+  "act54side_01": {
+    "zh_CN": "月出"
+  },
+  "act54side_02": {
+    "zh_CN": "月涌"
+  },
+  "act54side_03": {
+    "zh_CN": "月晕"
+  },
+  "act54side_04": {
+    "zh_CN": "月移"
+  },
+  "act54side_05": {
+    "zh_CN": "月斜"
+  },
+  "act54side_06": {
+    "zh_CN": "月蚀"
+  },
+  "act54side_07": {
+    "zh_CN": "月悬"
+  },
+  "act54side_08": {
+    "zh_CN": "月满"
+  },
+  "act54side_st01": {
+    "zh_CN": "月落"
+  },
+  "act54side_st02": {
+    "zh_CN": "满月一生"
+  },
+  "act54side_tr01": {
+    "zh_CN": "月影"
+  },
   "act5bossrush_01": {
     "en_US": "Cold and Blood",
     "ja_JP": "極寒に舞う血しぶき",

@@ -363,8 +363,28 @@ tip: 请善用浏览器的搜索功能
 | enemy_10173_tjgbsf | 扶潮 | - | - |
 | enemy_10173_tjgbsf_2 | 扶潮·归 | - | - |
 | enemy_1017_defdrn | 御4 | Defender-4 | Mvc4 |
+| enemy_10184_pppsbr | 滴答冰淇淋 | - | - |
+| enemy_10184_pppsbr_2 | 刺溜冰淇淋 | - | - |
+| enemy_10185_pppshd | 吵闹收音机 | - | - |
+| enemy_10185_pppshd_2 | 沉默收音机 | - | - |
+| enemy_10186_ppparc | 蹦跶羽兽 | - | - |
+| enemy_10186_ppparc_2 | 蹒跚羽兽 | - | - |
+| enemy_10187_pppwiz | 失恋花束 | - | - |
+| enemy_10187_pppwiz_2 | 离婚花束 | - | - |
+| enemy_10188_pppdp | 结巴铳 | - | - |
+| enemy_10188_pppdp_2 | 咆哮铳 | - | - |
+| enemy_10189_pppmag | 伤眼路灯 | - | - |
+| enemy_10189_pppmag_2 | 吓人路灯 | - | - |
 | enemy_1018_aoemag | 高阶术师 | Senior Caster | 上級術師 |
 | enemy_1018_aoemag_2 | 高阶术师组长 | Senior Caster Leader | 上級術師隊長 |
+| enemy_10190_pppham | 几点了钟 | - | - |
+| enemy_10190_pppham_2 | 不知道钟 | - | - |
+| enemy_10191_pppgst | 没办法车 | - | - |
+| enemy_10191_pppgst_2 | 生气车 | - | - |
+| enemy_10191_pppgst_3 | 困惑车 | - | - |
+| enemy_10191_pppgst_4 | 难过车 | - | - |
+| enemy_10191_pppgst_5 | 无聊车 | - | - |
+| enemy_10192_ppprpr | 挥铳圣像 | - | - |
 | enemy_10193_ubhh | 撬棍巡逻者 | - | - |
 | enemy_10193_ubhh_2 | 撬棍追捕者
  | - | - |
@@ -1313,6 +1333,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1585_suiwei | 岁·尾 | - | - |
 | enemy_1587_ubbplwq | 巴普洛维奇，枢密官 | - | - |
 | enemy_1588_ubbphw | “私人安全顾问” | - | - |
+| enemy_1589_pppdth | “死志的凝结” | - | - |
 | enemy_1590_muama | AMa-10 | - | - |
 | enemy_1591_mutwin | AMa-10异构体 | - | - |
 | enemy_1591_mutwin_2 | AMa-10异构体 | - | - |

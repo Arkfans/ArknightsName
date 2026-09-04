@@ -859,6 +859,12 @@
   "LINKAGE_TKT_GACHA_10_7401": {
     "zh_CN": "弓吟空跃寻访凭证"
   },
+  "LINKAGE_TKT_GACHA_10_7701": {
+    "zh_CN": "一逢满月十连寻访凭证"
+  },
+  "LINKAGE_TKT_GACHA_7701": {
+    "zh_CN": "一逢满月寻访凭证"
+  },
   "LMTGS_COIN_1401": {
     "en_US": "Headhunting Data Contract",
     "ja_JP": "限定契約証",
@@ -2059,6 +2065,9 @@
   },
   "act53side_token_photo": {
     "zh_CN": "沿途的点滴"
+  },
+  "act54side_token_tape": {
+    "zh_CN": "旧磁带"
   },
   "act5bossrush_milestone_point": {
     "en_US": "Trial EXP",
@@ -5540,10 +5549,22 @@
   "p_char_4215_buddy": {
     "zh_CN": "罗德岛隐秘队的信物"
   },
+  "p_char_4217_makoto": {
+    "zh_CN": "结城理的信物"
+  },
+  "p_char_4218_aigis": {
+    "zh_CN": "埃癸斯的信物"
+  },
+  "p_char_4219_yukari": {
+    "zh_CN": "岳羽由加莉的信物"
+  },
   "p_char_421_crow": {
     "en_US": "La Pluma's Token",
     "ja_JP": "ラ・プルマの印",
     "zh_CN": "羽毛笔的信物"
+  },
+  "p_char_4220_kormr": {
+    "zh_CN": "虎狼丸的信物"
   },
   "p_char_4221_ju": {
     "zh_CN": "矩的信物"
@@ -6215,6 +6236,30 @@
   "so_char_exp_1": {
     "zh_CN": "特勤作战记录"
   },
+  "tarot_1": {
+    "zh_CN": "节制"
+  },
+  "tarot_2": {
+    "zh_CN": "倒吊人"
+  },
+  "tarot_3": {
+    "zh_CN": "隐者"
+  },
+  "tarot_4": {
+    "zh_CN": "星"
+  },
+  "tarot_5": {
+    "zh_CN": "教宗"
+  },
+  "tarot_6": {
+    "zh_CN": "力量"
+  },
+  "tarot_7": {
+    "zh_CN": "魔术师"
+  },
+  "tarot_8": {
+    "zh_CN": "战车"
+  },
   "tier1_caster": {
     "en_US": "Replicated Caster Token",
     "ja_JP": "★1術師の印",
@@ -6703,6 +6748,9 @@
     "en_US": "Invitation to Wine Furniture Pack",
     "ja_JP": "将進酒家具パック",
     "zh_CN": "将进酒家具收藏包"
+  },
+  "uni_set_velvet": {
+    "zh_CN": "月行水上家具收藏包"
   },
   "uni_set_westCoast": {
     "en_US": "Dossoles Holiday Furniture Pack",

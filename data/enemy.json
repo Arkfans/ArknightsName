@@ -1507,6 +1507,42 @@
     "ja_JP": "Mvc4",
     "zh_CN": "御4"
   },
+  "enemy_10184_pppsbr": {
+    "zh_CN": "滴答冰淇淋"
+  },
+  "enemy_10184_pppsbr_2": {
+    "zh_CN": "刺溜冰淇淋"
+  },
+  "enemy_10185_pppshd": {
+    "zh_CN": "吵闹收音机"
+  },
+  "enemy_10185_pppshd_2": {
+    "zh_CN": "沉默收音机"
+  },
+  "enemy_10186_ppparc": {
+    "zh_CN": "蹦跶羽兽"
+  },
+  "enemy_10186_ppparc_2": {
+    "zh_CN": "蹒跚羽兽"
+  },
+  "enemy_10187_pppwiz": {
+    "zh_CN": "失恋花束"
+  },
+  "enemy_10187_pppwiz_2": {
+    "zh_CN": "离婚花束"
+  },
+  "enemy_10188_pppdp": {
+    "zh_CN": "结巴铳"
+  },
+  "enemy_10188_pppdp_2": {
+    "zh_CN": "咆哮铳"
+  },
+  "enemy_10189_pppmag": {
+    "zh_CN": "伤眼路灯"
+  },
+  "enemy_10189_pppmag_2": {
+    "zh_CN": "吓人路灯"
+  },
   "enemy_1018_aoemag": {
     "en_US": "Senior Caster",
     "ja_JP": "上級術師",
@@ -1516,6 +1552,30 @@
     "en_US": "Senior Caster Leader",
     "ja_JP": "上級術師隊長",
     "zh_CN": "高阶术师组长"
+  },
+  "enemy_10190_pppham": {
+    "zh_CN": "几点了钟"
+  },
+  "enemy_10190_pppham_2": {
+    "zh_CN": "不知道钟"
+  },
+  "enemy_10191_pppgst": {
+    "zh_CN": "没办法车"
+  },
+  "enemy_10191_pppgst_2": {
+    "zh_CN": "生气车"
+  },
+  "enemy_10191_pppgst_3": {
+    "zh_CN": "困惑车"
+  },
+  "enemy_10191_pppgst_4": {
+    "zh_CN": "难过车"
+  },
+  "enemy_10191_pppgst_5": {
+    "zh_CN": "无聊车"
+  },
+  "enemy_10192_ppprpr": {
+    "zh_CN": "挥铳圣像"
   },
   "enemy_10193_ubhh": {
     "zh_CN": "撬棍巡逻者"
@@ -6069,6 +6129,9 @@
   },
   "enemy_1588_ubbphw": {
     "zh_CN": "“私人安全顾问”"
+  },
+  "enemy_1589_pppdth": {
+    "zh_CN": "“死志的凝结”"
   },
   "enemy_1590_muama": {
     "zh_CN": "AMa-10"

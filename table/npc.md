@@ -129,8 +129,10 @@ tip: 请善用浏览器的搜索功能
 | avg_185_frncat_1 | 慕斯 | Mousse | ムース |
 | avg_188_helage_1 | 严肃的军人 | - | - |
 |   | 赫拉格 |   |   |
-| avg_190_clour_1 | 红云 | Vermeil | ヴァーミル |
-| avg_192_falco_1 | 翎羽 | Plume | プリュム |
+| avg_190_clour_1 | 生气的学生 | Vermeil | ヴァーミル |
+|   | 红云 |   |   |
+| avg_192_falco_1 | 修士 | Plume | プリュム |
+|   | 翎羽 |   |   |
 | avg_193_frostl_1 | 霜叶 | Frostleaf | フロストリーフ |
 | avg_194_leto_1 | 烈夏 | Leto | リェータ |
 | avg_196_sunbr_1 | 古米 | - | - |
@@ -300,7 +302,8 @@ tip: 请善用浏览器的搜索功能
 | avg_4054_malist_1 | 刻薄的杜林人 | Mature Durin | スディチ |
 |   | 成年的小杜林 | Minimalist | ミニマリスト |
 |   | 斯第奇·画布 | Scathing Durin | 冷淡なドゥリン人 |
-|   | 至简 | Stitch Canvas | 成人ドゥリン？ |
+|   | 无奈的学生 | Stitch Canvas | 成人ドゥリン？ |
+|   | 至简 |   |   |
 | avg_4055_bgsnow_1 | 思考的鲁珀 | Avdotya | アヴドーチャ |
 |   | 阿芙朵嘉 | Contemplative Lupo | アヴドーチヤ |
 |   | 鲁珀 | Lupo | パゼオンカ |
@@ -446,7 +449,8 @@ tip: 请善用浏览器的搜索功能
 |   | 迷途的少女 |   |   |
 | avg_4186_tmoris_1 | 八幡海铃 | - | - |
 | avg_4187_graceb_1 | 努艾达 | Alert Nun | ヌエダ |
-|   | 警惕的修女 | Nueda | 警戒するシスター |
+|   | 沉默的少女 | Nueda | 警戒するシスター |
+|   | 警惕的修女 |   |   |
 | avg_4188_confes_1 | CONFESS-47 | Automated Confessional | 自律式告解ロボット |
 |   | 自律告解车 |   |   |
 | avg_4191_tippi_1 | 场记&蒂比 | Tippi | ティッピ |
@@ -454,6 +458,7 @@ tip: 请善用浏览器的搜索功能
 |   | 马修&蒂比 |   |   |
 | avg_4193_lemuen_1 | 蕾缪安 | Lemuen | レミュアン |
 | avg_4194_rmixer_1 | 帕特里奇昂 | Patrizion | パトリツィオ |
+|   | 铳骑 |   |   |
 | avg_4196_reckpr_1 | 云青萍 | - | - |
 | avg_4198_christ_1 | Miss.Christine | Miss.Christine | ミス・クリスティーン |
 |   | 神秘优雅的生物 | Mysterious and Beautiful Creature | 謎めいた優雅な生き物 |
@@ -483,8 +488,13 @@ tip: 请善用浏览器的搜索功能
 |   | 费尔南 |   |   |
 | avg_4215_buddyC_1 | 政宗 | - | - |
 | avg_4215_buddyD_1 | 义经 | - | - |
+| avg_4217_makoto_1 | 结城理 | - | - |
+| avg_4218_aigis_1 | 埃癸斯 | - | - |
+| avg_4219_yukari_1 | 岳羽由加莉 | - | - |
 | avg_421_crow_1 | 羽毛笔 | La Pluma | ラ・プルマ |
 | avg_421_laplum_1 | 拉菲艾拉 | Rafaela | ラファエラ |
+| avg_4220_kormr_1 | 天田乾&虎狼丸 | - | - |
+|   | 虎狼丸 |   |   |
 | avg_4221_ju_1 | 样貌奇特的工匠 | - | - |
 |   | 矩 |   |   |
 | avg_4223_botany_1 | 伯塔尼 | - | - |
@@ -1871,7 +1881,8 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_1252_1 | 疑惑的路人 | Embarrassed Old Man | 元気な老人 |
 |   | 窘迫的老人 | Spirited Old Man | 困り果てた老人 |
 |   | 精神的老人 |   |   |
-| avg_npc_1253_1 | 铳械维修师 | Gunsmith | 銃の修理技師 |
+| avg_npc_1253_1 | 珀拉 | Gunsmith | 銃の修理技師 |
+|   | 铳械维修师 |   |   |
 | avg_npc_1254_1 | 伊安 | Anxious Old Man | カリスト |
 |   | 卡利托 | Callisto | ベテラン事務官 |
 |   | 守院人 | Decrepit Old Man | 焦っている老人 |
@@ -2505,17 +2516,18 @@ tip: 请善用浏览器的搜索功能
 |   | 邻镇的老汉 |   |   |
 |   | 陈锈清 |   |   |
 |   | 饭馆的熟客 |   |   |
-| avg_npc_164 | 傲慢的商人 | Arrogant Merchant | だらしない兵士 |
-|   | 奋战的部族人 | Belligerent Villager | ボロを纏った人 |
-|   | 感染者镇民 | Black Market Merchant | 傲慢な商人 |
-|   | 村民 | Disheveled Person | 奮戦した部族民 |
-|   | 村长 | Dispirited Straggler | 巻き込まれた行商人 |
-|   | 欣喜的居民 | Infected Townsfolk | 巻き込まれた行商人？ |
-|   | 焦急的居民 | Mayor's Secretary | 感染者の町民 |
-|   | 萨尔贡军官 | Swept-Up Trader | 村人 |
-|   | 落魄商人 | Swept-Up Trader? | 町長の秘書 |
-|   | 衣衫褴褛者 | Vengeful Merchant | 落ちぶれた商人 |
-|   | 被卷入的行商 | Villager | 闇市商人 |
+| avg_npc_164 | 亲兵 | Arrogant Merchant | だらしない兵士 |
+|   | 傲慢的商人 | Belligerent Villager | ボロを纏った人 |
+|   | 奋战的部族人 | Black Market Merchant | 傲慢な商人 |
+|   | 感染者镇民 | Disheveled Person | 奮戦した部族民 |
+|   | 村民 | Dispirited Straggler | 巻き込まれた行商人 |
+|   | 村长 | Infected Townsfolk | 巻き込まれた行商人？ |
+|   | 欣喜的居民 | Mayor's Secretary | 感染者の町民 |
+|   | 焦急的居民 | Swept-Up Trader | 村人 |
+|   | 萨尔贡军官 | Swept-Up Trader? | 町長の秘書 |
+|   | 落魄商人 | Vengeful Merchant | 落ちぶれた商人 |
+|   | 衣衫褴褛者 | Villager | 闇市商人 |
+|   | 被卷入的行商 |   |   |
 |   | 被卷入的行商？ |   |   |
 |   | 逃荒的流民 |   |   |
 |   | 镇长秘书 |   |   |
@@ -2745,9 +2757,10 @@ tip: 请善用浏览器的搜索功能
 |   | 蒙恩的生物B | Enlightened Creature B | 祝福を受けた生き物B |
 | avg_npc_1793_1 | 伊蒂达 | Gap-Toothed Girl | イディダ |
 |   | 缺牙的小女孩 | Idida | 歯の欠けた少女 |
-| avg_npc_1795_1 | 离群萨科塔 | Sankta B | はぐれ者のサンクタ |
-|   | 萨科塔B | Sankta Errari | サンクタB |
-|   | 行走的萨科塔B | Walking Sankta B | 通行人のサンクタB |
+| avg_npc_1795_1 | 摄影师 | Sankta B | はぐれ者のサンクタ |
+|   | 离群萨科塔 | Sankta Errari | サンクタB |
+|   | 萨科塔B | Walking Sankta B | 通行人のサンクタB |
+|   | 行走的萨科塔B |   |   |
 | avg_npc_1796_1 | 爱德森 | - | - |
 |   | 谨慎的拉特兰人 |   |   |
 | avg_npc_1797_1 | 蕾缪安 | Lemuen | レミュアン |
@@ -2757,7 +2770,8 @@ tip: 请善用浏览器的搜索功能
 |   | 安妮塔 | Female Inhabitant | 女性住民 |
 | avg_npc_1800_1 | 安多恩 | Andoain | アンドアイン |
 | avg_npc_1801_1 | 倔强的小孩 | Obstinate Child | 怯える子供 |
-|   | 恐慌的小孩 | Panicking Child | 頑固な子 |
+|   | 急切的孩子 | Panicking Child | 頑固な子 |
+|   | 恐慌的小孩 |   |   |
 | avg_npc_1802_1 | 惊惧的小孩 | Fearful Child | うぬぼれ屋の子 |
 |   | 萨科塔小孩A | Proud Child | サンクタの子供A |
 |   | 萨科塔小孩B | Sankta Child A | サンクタの子供B |
@@ -3684,6 +3698,7 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_2322_1 | 中尉 | - | - |
 |   | 冷酷的士官 |   |   |
 |   | 冷静的士兵 |   |   |
+|   | 惊恐的游击队员 |   |   |
 |   | 愤怒的士兵 |   |   |
 |   | 真正玻利瓦尔人士兵A |   |   |
 |   | 真正玻利瓦尔人游击队员A |   |   |
@@ -3695,6 +3710,7 @@ tip: 请善用浏览器的搜索功能
 |   | 焦躁的士兵 |   |   |
 |   | 真正玻利瓦尔人士兵B |   |   |
 |   | 真正玻利瓦尔人游击队员B |   |   |
+|   | 绝望的游击队员 |   |   |
 | avg_npc_2324_1 | 眼神迷离的病人 | - | - |
 |   | 种植园工人 |   |   |
 |   | 胡安 |   |   |
@@ -3745,7 +3761,16 @@ tip: 请善用浏览器的搜索功能
 |   | 塔妮 |   |   |
 |   | 太阳谷联络员 |   |   |
 |   | 安洁莉娜 |   |   |
+| avg_npc_2377_1 | 学生 | - | - |
+|   | 班长 |   |   |
+| avg_npc_2378_1 | 吉阿达 | - | - |
+| avg_npc_2379_1 | 裘里奥 | - | - |
 | avg_npc_238 | 凯利上尉 | Captain Kelly | ケリー大尉 |
+| avg_npc_2380_1 | 班主任 | - | - |
+| avg_npc_2381_1 | 菲利切 | - | - |
+| avg_npc_2382_1 | 卡拉 | - | - |
+| avg_npc_2387_1 | 山岸风花 | - | - |
+| avg_npc_2388_1 | 天田乾 | - | - |
 | avg_npc_239 | 衣着朴素的诗人 | Bard Williams | 詩人ウィリアムズ |
 |   | 诗人威廉姆斯 | Plain-Dressed Bard | 質素な服装の詩人 |
 | avg_npc_240 | 乔 | Anxious Child | ひもじい屋台の店主 |
@@ -4176,6 +4201,7 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_355_1 | 奥伦 | Oren | オレン |
 | avg_npc_356_1 | 伊万杰利斯塔十一世 | The Pope | イヴァンジェリスタⅪ世 |
 |   | 教宗 | Yvangelista XI | 教皇 |
+|   | 老人 |   |   |
 | avg_npc_357_1 | 帕蒂亚 | Patia | パティア |
 | avg_npc_358_1 | 帕特里奇昂 | Apostolic Knight | パトリツィオ |
 |   | 教宗骑士 | Gun-Knight | 教皇騎士 |
@@ -4237,13 +4263,14 @@ tip: 请善用浏览器的搜索功能
 |   | 公证所执行者 | Intellectual Lateran Citizen | のんびりした市民 |
 |   | 公证所职员 | Notarial Hall Employee | サンクタの客 |
 |   | 关切的拉特兰市民 | Notarial Hall Executor | サンクタの隣人 |
-|   | 快嘴的医院护工 | Notarial Hall Official | 公証人役場執行人 |
-|   | 悠哉的拉特兰市民 | Relaxed Lateran Citizen | 公証人役場職員 |
-|   | 激动的市民 | Reserved Lateran | 感動する市民 |
-|   | 矜持的拉特兰人 | Sankta Customer | 知的な市民 |
-|   | 知性的拉特兰市民 | Sankta Neighbor | 落ち着いた女性 |
-|   | 稳重的女性 | Staid Woman | 親切な市民 |
-|   | 萨科塔邻居 | Troubled Lateran Citizen |   |
+|   | 凯拉 | Notarial Hall Official | 公証人役場執行人 |
+|   | 快嘴的医院护工 | Relaxed Lateran Citizen | 公証人役場職員 |
+|   | 悠哉的拉特兰市民 | Reserved Lateran | 感動する市民 |
+|   | 激动的市民 | Sankta Customer | 知的な市民 |
+|   | 矜持的拉特兰人 | Sankta Neighbor | 落ち着いた女性 |
+|   | 知性的拉特兰市民 | Staid Woman | 親切な市民 |
+|   | 稳重的女性 | Troubled Lateran Citizen |   |
+|   | 萨科塔邻居 |   |   |
 |   | 萨科塔顾客 |   |   |
 | avg_npc_369_1 | 修士 | Busy Nun | サンクタA |
 |   | 修女 | Cheerful Cleric | シスター |
@@ -4253,15 +4280,16 @@ tip: 请善用浏览器的搜索功能
 |   | 温和的修士 | Nun | 明るい修道士 |
 |   | 萨科塔A | Pious Cleric | 沈黙する修道士 |
 |   | 虔诚的修士 | Sankta A | 温和な修道士 |
-|   | 路过的修士 | Silent Cleric | 通りすがりの修道士 |
-|   | 路过的修士？ | Sister | 通りすがりの修道士？ |
-|   |   | Warm Prioress |   |
+|   | 虚弱的修女 | Silent Cleric | 通りすがりの修道士 |
+|   | 路过的修士 | Sister | 通りすがりの修道士？ |
+|   | 路过的修士？ | Warm Prioress |   |
 | avg_npc_370_1 | 冷静的修士 | Busy Nun | ラテラーノ修道士 |
 |   | 忙碌的修女 | Lateran Cleric | リーベリのシスター |
 |   | 惊慌的修女 | Liberi Nun | 冷静な修道士 |
 |   | 拉特兰修士 | Nervous Nun | 忙しそうなシスター |
-|   | 紧张的修女 | Panicked Nun | 慌てるシスター |
-|   | 黎博利修女 | Stoic Sister | 緊張気味のシスター |
+|   | 殡仪堂员工 | Panicked Nun | 慌てるシスター |
+|   | 紧张的修女 | Stoic Sister | 緊張気味のシスター |
+|   | 黎博利修女 |   |   |
 | avg_npc_371_1 | 年轻的拉特兰特勤队成员 | Lateran Commando | ラテラーノ特殊部隊員 |
 |   | 戍卫队成员 | Pontifica Cohors Member | 護衛隊メンバー |
 |   | 戍卫队成员A | Pontifica Cohors Member A | 護衛隊メンバー？ |
@@ -4271,8 +4299,9 @@ tip: 请善用浏览器的搜索功能
 |   | 戍卫队成员？ | Pontifica Cohors Member? | 護衛隊隊員D |
 |   | 拉特兰特勤队成员 | Young Lateran Commando | 駆け出し特殊部隊員 |
 | avg_npc_372_1 | 公证所职员 | Forthright Executor | リケーレ |
-|   | 爽朗的执行者 | Notarial Hall Official | 公証人役場職員 |
-|   | 里凯莱 | Richele | 爽やかな執行人 |
+|   | 执行者 | Notarial Hall Official | 公証人役場職員 |
+|   | 爽朗的执行者 | Richele | 爽やかな執行人 |
+|   | 里凯莱 |   |   |
 | avg_npc_380_1 | 断罪者 | Conviction | コンビクション |
 | avg_npc_393_1 | 赫德雷 | Hoederer | ヘドリー |
 | avg_npc_394_1 | 阿米娅 | Amiya | アーミヤ |
@@ -5426,6 +5455,7 @@ tip: 请善用浏览器的搜索功能
 |   | 沙漏 |   |   |
 |   | 疑惑的干员 |   |   |
 |   | 罗德岛外勤干员 |   |   |
+|   | 罗德岛干员 |   |   |
 |   | 罗德岛驻舰干员B |   |   |
 | avg_npc_974_1 | 劳累的病人 | Agitated Patient | 激情する感染者 |
 |   | 激动的病人 |   |   |
@@ -5486,6 +5516,7 @@ tip: 请善用浏览器的搜索功能
 |   | 闪灵 | Shining | シャイニング |
 | avgnew_173_slchan_1 | 崖心 | Cliffheart | エンシア |
 |   | 恩希亚 | Ensia | クリフハート |
+|   | 顾客C |   |   |
 | avgnew_2014_nian_1 | 年 | Nian | ニェン |
 |   | 年晖寒 | Nian Huihan | 鍛冶屋 |
 |   | 铸剑师 | Swordsmith |   |

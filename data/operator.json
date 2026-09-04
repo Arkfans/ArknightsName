@@ -1730,10 +1730,22 @@
   "char_4215_buddy": {
     "zh_CN": "罗德岛隐秘队"
   },
+  "char_4217_makoto": {
+    "zh_CN": "结城理"
+  },
+  "char_4218_aigis": {
+    "zh_CN": "埃癸斯"
+  },
+  "char_4219_yukari": {
+    "zh_CN": "岳羽由加莉"
+  },
   "char_421_crow": {
     "en_US": "La Pluma",
     "ja_JP": "ラ・プルマ",
     "zh_CN": "羽毛笔"
+  },
+  "char_4220_kormr": {
+    "zh_CN": "虎狼丸"
   },
   "char_4221_ju": {
     "zh_CN": "矩"

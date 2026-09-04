@@ -188,6 +188,12 @@
     "ja_JP": "鋭刃",
     "zh_CN": "亮剑"
   },
+  "skchr_aigis_1": {
+    "zh_CN": "启动狂宴模式"
+  },
+  "skchr_aigis_2": {
+    "zh_CN": "全弹发射"
+  },
   "skchr_akafyu_1": {
     "en_US": "Nobukage-ryu - Kaminari Gatana no Zei",
     "ja_JP": "信影流・雷刀之勢",
@@ -2314,6 +2320,15 @@
   "skchr_makiri_2": {
     "zh_CN": "万手成局"
   },
+  "skchr_makoto_1": {
+    "zh_CN": "俄耳甫斯的竖琴"
+  },
+  "skchr_makoto_2": {
+    "zh_CN": "塔纳托斯的囚锁"
+  },
+  "skchr_makoto_3": {
+    "zh_CN": "开辟明日的剑刃"
+  },
   "skchr_malist_2": {
     "en_US": "Prodigious Craftsmanship",
     "ja_JP": "マスターピース",
@@ -4176,6 +4191,12 @@
     "en_US": "Enter the Stove's Palm",
     "ja_JP": "竈中乾坤",
     "zh_CN": "灶里乾坤"
+  },
+  "skchr_yukari_1": {
+    "zh_CN": "龙卷箭"
+  },
+  "skchr_yukari_2": {
+    "zh_CN": "明镜止水"
   },
   "skchr_yuki_1": {
     "en_US": "Shuriken",

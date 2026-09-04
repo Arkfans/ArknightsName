@@ -149,6 +149,7 @@ tip: 请善用浏览器的搜索功能
 | story_glider_set_1_story_1 | 苦涩的根茎 | A Bitterest Rhizome | 苦い根茎 |
 | story_gnosis_set_1_story_1 | 起点 | Starting Point | 起点 |
 | story_grabds_set_1_story_1 | 旧梦重温 | Reliving Old Dreams | 懐かしき夢の追憶 |
+| story_graceb_set_1_story_1 | 砸碎一抹微笑 | - | - |
 | story_grani_set_1_story_1 | 穷途不返 | Once Rock Bottom... | 決して振り返らず |
 | story_gravel_set_1_story_1 | 梦中过往 | Past in Dreams | 過ぎ去りし日の夢 |
 | story_greyy2_set_1_story_1 | 撰写光明 | Light, He Wrote | 綴られる光 |
@@ -157,6 +158,7 @@ tip: 请善用浏览器的搜索功能
 | story_gyuki_set_1_story_1 | 鬼的逮捕令 | - | - |
 | story_haak_set_1_story_1 | 惊弓一夜 | A Night of Terror | 肝を冷やす夜 |
 | story_hadiya_set_1_story_1 | 去荒野的路 | - | - |
+| story_hadiya_set_2_story_1 | 被抗拒者 | - | - |
 | story_haini_set_1_story_1 | 怀有希望之人 | The Hopeful Ones | 希望を抱く人 |
 | story_halo2_set_1_story_1 | 谢拉格假期 | - | - |
 | story_halo_set_1_story_1 | 实验进行中 | Now Experimenting... | 実験進行中 |
@@ -262,6 +264,7 @@ tip: 请善用浏览器的搜索功能
 | story_peper_set_1_story_1 | 少年雇佣兵 | Mercenary Youth | 傭兵の少女 |
 | story_phatom_set_1_story_1 | 合作 | Cooperation | 協力 |
 | story_phenxi_set_1_story_1 | 乐园 | Paradisus | 楽園 |
+| story_phenxi_set_2_story_1 | 在干净明亮的夜晚 | - | - |
 | story_philae_set_1_story_1 | 新生 | - | - |
 | story_pianst_set_1_story_1 | 夕阳与朝日 | Dämmerung und Anbruch | 夕日と朝日 |
 | story_pianst_set_2_story_1 | 阳光洒落之前 | Before the Spilling Sunlight | 陽光が降り注ぐ前に |

@@ -185,6 +185,8 @@ tip: 请善用浏览器的搜索功能
 | LINKAGE_TKT_GACHA_10_5401 | 好好吃饭寻访凭证 | Have A Good Meal Headhunting Permit | 食欲満開10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_6501 | 坠梦歌谣寻访凭证 | - | - |
 | LINKAGE_TKT_GACHA_10_7401 | 弓吟空跃寻访凭证 | - | - |
+| LINKAGE_TKT_GACHA_10_7701 | 一逢满月十连寻访凭证 | - | - |
+| LINKAGE_TKT_GACHA_7701 | 一逢满月寻访凭证 | - | - |
 | LMTGS_COIN_1401 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_1601 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_1803 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
@@ -463,6 +465,7 @@ tip: 请善用浏览器的搜索功能
 | act50side_special_level_unlock | 群兽入侵 | - | - |
 | act51side_token_poem | 破碎诗行 | - | - |
 | act53side_token_photo | 沿途的点滴 | - | - |
+| act54side_token_tape | 旧磁带 | - | - |
 | act5bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act5bossrush_relic_01 | 限压解除 | Unlimited Pressure | リミッター解除 |
 | act5bossrush_relic_02 | 链式激活 | Chain Activation | 連鎖式起動 |
@@ -1207,7 +1210,11 @@ tip: 请善用浏览器的搜索功能
 | p_char_4213_skybx | 天空盒的信物 | - | - |
 | p_char_4214_cairn | 响石的信物 | - | - |
 | p_char_4215_buddy | 罗德岛隐秘队的信物 | - | - |
+| p_char_4217_makoto | 结城理的信物 | - | - |
+| p_char_4218_aigis | 埃癸斯的信物 | - | - |
+| p_char_4219_yukari | 岳羽由加莉的信物 | - | - |
 | p_char_421_crow | 羽毛笔的信物 | La Pluma's Token | ラ・プルマの印 |
+| p_char_4220_kormr | 虎狼丸的信物 | - | - |
 | p_char_4221_ju | 矩的信物 | - | - |
 | p_char_4222_taraxa | 风絮的信物 | - | - |
 | p_char_4223_botany | 伯塔尼的信物 | - | - |
@@ -1356,6 +1363,14 @@ tip: 请善用浏览器的搜索功能
 | sandbox_1_tokencoin | 繁荣点数 | Prosperity Point | 繁栄ポイント |
 | sandbox_2_tokencoin | 任务验收单 | - | - |
 | so_char_exp_1 | 特勤作战记录 | - | - |
+| tarot_1 | 节制 | - | - |
+| tarot_2 | 倒吊人 | - | - |
+| tarot_3 | 隐者 | - | - |
+| tarot_4 | 星 | - | - |
+| tarot_5 | 教宗 | - | - |
+| tarot_6 | 力量 | - | - |
+| tarot_7 | 魔术师 | - | - |
+| tarot_8 | 战车 | - | - |
 | tier1_caster | 术师信物复制品 | Replicated Caster Token | ★1術師の印 |
 | tier1_guard | 近卫信物复制品 | Replicated Guard Token | ★1前衛の印 |
 | tier1_medic | 医疗信物复制品 | Replicated Medic Token | ★1医療の印 |
@@ -1459,6 +1474,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_stage | 风雪过境家具收藏包 | Break the Ice Furniture Pack | 風雪一過家具パック |
 | uni_set_taiko | 祭典娱乐室收藏包 | - | - |
 | uni_set_teaHouse | 将进酒家具收藏包 | Invitation to Wine Furniture Pack | 将進酒家具パック |
+| uni_set_velvet | 月行水上家具收藏包 | - | - |
 | uni_set_westCoast | 多索雷斯假日家具收藏包 | Dossoles Holiday Furniture Pack | ドッソレスホリデー家具パック |
 | voucher_5chipPackage | 自助芯片印刻仪 | Automatic Chip Etcher | SoCセルフプリンター |
 | voucher_chip | 芯片自助打印盒 | Automatic Chip Printer | 初級SoCセルフプリンター |

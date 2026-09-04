@@ -687,6 +687,9 @@
     "ja_JP": "懐かしき夢の追憶",
     "zh_CN": "旧梦重温"
   },
+  "story_graceb_set_1_story_1": {
+    "zh_CN": "砸碎一抹微笑"
+  },
   "story_grani_set_1_story_1": {
     "en_US": "Once Rock Bottom...",
     "ja_JP": "決して振り返らず",
@@ -722,6 +725,9 @@
   },
   "story_hadiya_set_1_story_1": {
     "zh_CN": "去荒野的路"
+  },
+  "story_hadiya_set_2_story_1": {
+    "zh_CN": "被抗拒者"
   },
   "story_haini_set_1_story_1": {
     "en_US": "The Hopeful Ones",
@@ -1217,6 +1223,9 @@
     "en_US": "Paradisus",
     "ja_JP": "楽園",
     "zh_CN": "乐园"
+  },
+  "story_phenxi_set_2_story_1": {
+    "zh_CN": "在干净明亮的夜晚"
   },
   "story_philae_set_1_story_1": {
     "zh_CN": "新生"

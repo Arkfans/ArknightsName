@@ -366,7 +366,11 @@ tip: 请善用浏览器的搜索功能
 | char_4213_skybx | 天空盒 | - | - |
 | char_4214_cairn | 响石 | - | - |
 | char_4215_buddy | 罗德岛隐秘队 | - | - |
+| char_4217_makoto | 结城理 | - | - |
+| char_4218_aigis | 埃癸斯 | - | - |
+| char_4219_yukari | 岳羽由加莉 | - | - |
 | char_421_crow | 羽毛笔 | La Pluma | ラ・プルマ |
+| char_4220_kormr | 虎狼丸 | - | - |
 | char_4221_ju | 矩 | - | - |
 | char_4222_taraxa | 风絮 | - | - |
 | char_4223_botany | 伯塔尼 | - | - |
@@ -1047,6 +1051,7 @@ tip: 请善用浏览器的搜索功能
 | trap_329_rift | 泄漏标记 | - | - |
 | trap_330_ycwang | 演出望 | - | - |
 | trap_334_agmbox | 邮箱 | - | - |
+| trap_335_totalattack | 全场总攻击 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |
 | trap_401_xbfato | 木材采集站 | Sawing Harvester Hub | 木材採取基地 |
 | trap_403_wfactory | 蟹蟹抽水泵 | Crabbie Pumpie | カニカニポンプ |
@@ -1829,7 +1834,11 @@ tip: 请善用浏览器的搜索功能
 | char_4207_branch@yun#10 | 撷香霭 | - | - |
 | char_420_flamtl@game#2 | 小健将 | Sport For All | サイバー闘技者 |
 | char_4215_buddy@mh#2 | 露营时间喵！ | - | - |
+| char_4217_makoto@p3r#1 | 见证荣光 | - | - |
+| char_4218_aigis@p3r#1 | 静思真谛 | - | - |
+| char_4219_yukari@p3r#1 | 戍卫晨昏 | - | - |
 | char_421_crow@summer#9 | 夏卉 FA210 | Summer Flowers FA210 | 夏の花弁FA210 |
+| char_4220_kormr@p3r#1 | 飞越甜蜜之城 | - | - |
 | char_422_aurora@boc#4 | 极昼捕手 | Polar Catcher | 白夜踏破 |
 | char_423_blemsh@littlePony#1 | 善良坚强之心 | - | - |
 | char_423_blemsh@witch#2 | 异月灾裔 | Moon Catastrborn | 異月の災裔 |
@@ -2273,8 +2282,28 @@ tip: 请善用浏览器的搜索功能
 | enemy_10173_tjgbsf | 扶潮 | - | - |
 | enemy_10173_tjgbsf_2 | 扶潮·归 | - | - |
 | enemy_1017_defdrn | 御4 | Defender-4 | Mvc4 |
+| enemy_10184_pppsbr | 滴答冰淇淋 | - | - |
+| enemy_10184_pppsbr_2 | 刺溜冰淇淋 | - | - |
+| enemy_10185_pppshd | 吵闹收音机 | - | - |
+| enemy_10185_pppshd_2 | 沉默收音机 | - | - |
+| enemy_10186_ppparc | 蹦跶羽兽 | - | - |
+| enemy_10186_ppparc_2 | 蹒跚羽兽 | - | - |
+| enemy_10187_pppwiz | 失恋花束 | - | - |
+| enemy_10187_pppwiz_2 | 离婚花束 | - | - |
+| enemy_10188_pppdp | 结巴铳 | - | - |
+| enemy_10188_pppdp_2 | 咆哮铳 | - | - |
+| enemy_10189_pppmag | 伤眼路灯 | - | - |
+| enemy_10189_pppmag_2 | 吓人路灯 | - | - |
 | enemy_1018_aoemag | 高阶术师 | Senior Caster | 上級術師 |
 | enemy_1018_aoemag_2 | 高阶术师组长 | Senior Caster Leader | 上級術師隊長 |
+| enemy_10190_pppham | 几点了钟 | - | - |
+| enemy_10190_pppham_2 | 不知道钟 | - | - |
+| enemy_10191_pppgst | 没办法车 | - | - |
+| enemy_10191_pppgst_2 | 生气车 | - | - |
+| enemy_10191_pppgst_3 | 困惑车 | - | - |
+| enemy_10191_pppgst_4 | 难过车 | - | - |
+| enemy_10191_pppgst_5 | 无聊车 | - | - |
+| enemy_10192_ppprpr | 挥铳圣像 | - | - |
 | enemy_10193_ubhh | 撬棍巡逻者 | - | - |
 | enemy_10193_ubhh_2 | 撬棍追捕者
  | - | - |
@@ -3223,6 +3252,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1585_suiwei | 岁·尾 | - | - |
 | enemy_1587_ubbplwq | 巴普洛维奇，枢密官 | - | - |
 | enemy_1588_ubbphw | “私人安全顾问” | - | - |
+| enemy_1589_pppdth | “死志的凝结” | - | - |
 | enemy_1590_muama | AMa-10 | - | - |
 | enemy_1591_mutwin | AMa-10异构体 | - | - |
 | enemy_1591_mutwin_2 | AMa-10异构体 | - | - |
@@ -3927,6 +3957,7 @@ Event | なないろのお茶会 |
 | act52sign | 新生支点签到活动 | - | - |
 | act53side | 直到大地变成一颗酸橙 | - | - |
 | act53sign | 金樨迎月签到活动 | - | - |
+| act54side | 月行水上 | - | - |
 | act54sign | 感谢庆典前瞻签到 | - | - |
 | act55sign | 感谢庆典累计签到 | - | - |
 | act56sign | 感谢庆典累计签到 | - | - |
@@ -3944,6 +3975,7 @@ Event | なないろのお茶会 |
 | act5switch | 温情时光合作活动 | - | - |
 | act5unique | 夏日嘉年华特别活动 | - | - |
 | act60sign | 透明信笺签到活动 | - | - |
+| act61sign | 此夜同行签到活动 | - | - |
 | act6bossrush | 引航者试炼 | - | - |
 | act6collection | 梦城堡模拟训练 | - | - |
 | act6d0 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -4017,6 +4049,7 @@ Event | なないろのお茶会 |
 | rim | 雷姆必拓 | Rim Billiton | レム・ビリトン |
 | sami | 萨米 | Sami | サーミ |
 | sargon | 萨尔贡 | Sargon | サルゴン |
+| sees | S.E.E.S. | - | - |
 | siesta | 汐斯塔 | Siesta | シエスタ |
 | siracusa | 叙拉古 | Siracusa | シラクーザ |
 | student | 乌萨斯学生自治团 | Ursus Student Self-Governing Group | ウルサス学生自治団 |
@@ -4204,6 +4237,8 @@ Event | なないろのお茶会 |
 | LINKAGE_TKT_GACHA_10_5401 | 好好吃饭寻访凭证 | Have A Good Meal Headhunting Permit | 食欲満開10回スカウト券 |
 | LINKAGE_TKT_GACHA_10_6501 | 坠梦歌谣寻访凭证 | - | - |
 | LINKAGE_TKT_GACHA_10_7401 | 弓吟空跃寻访凭证 | - | - |
+| LINKAGE_TKT_GACHA_10_7701 | 一逢满月十连寻访凭证 | - | - |
+| LINKAGE_TKT_GACHA_7701 | 一逢满月寻访凭证 | - | - |
 | LMTGS_COIN_1401 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_1601 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
 | LMTGS_COIN_1803 | 寻访数据契约 | Headhunting Data Contract | 限定契約証 |
@@ -4482,6 +4517,7 @@ Event | なないろのお茶会 |
 | act50side_special_level_unlock | 群兽入侵 | - | - |
 | act51side_token_poem | 破碎诗行 | - | - |
 | act53side_token_photo | 沿途的点滴 | - | - |
+| act54side_token_tape | 旧磁带 | - | - |
 | act5bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act5bossrush_relic_01 | 限压解除 | Unlimited Pressure | リミッター解除 |
 | act5bossrush_relic_02 | 链式激活 | Chain Activation | 連鎖式起動 |
@@ -5226,7 +5262,11 @@ Event | なないろのお茶会 |
 | p_char_4213_skybx | 天空盒的信物 | - | - |
 | p_char_4214_cairn | 响石的信物 | - | - |
 | p_char_4215_buddy | 罗德岛隐秘队的信物 | - | - |
+| p_char_4217_makoto | 结城理的信物 | - | - |
+| p_char_4218_aigis | 埃癸斯的信物 | - | - |
+| p_char_4219_yukari | 岳羽由加莉的信物 | - | - |
 | p_char_421_crow | 羽毛笔的信物 | La Pluma's Token | ラ・プルマの印 |
+| p_char_4220_kormr | 虎狼丸的信物 | - | - |
 | p_char_4221_ju | 矩的信物 | - | - |
 | p_char_4222_taraxa | 风絮的信物 | - | - |
 | p_char_4223_botany | 伯塔尼的信物 | - | - |
@@ -5375,6 +5415,14 @@ Event | なないろのお茶会 |
 | sandbox_1_tokencoin | 繁荣点数 | Prosperity Point | 繁栄ポイント |
 | sandbox_2_tokencoin | 任务验收单 | - | - |
 | so_char_exp_1 | 特勤作战记录 | - | - |
+| tarot_1 | 节制 | - | - |
+| tarot_2 | 倒吊人 | - | - |
+| tarot_3 | 隐者 | - | - |
+| tarot_4 | 星 | - | - |
+| tarot_5 | 教宗 | - | - |
+| tarot_6 | 力量 | - | - |
+| tarot_7 | 魔术师 | - | - |
+| tarot_8 | 战车 | - | - |
 | tier1_caster | 术师信物复制品 | Replicated Caster Token | ★1術師の印 |
 | tier1_guard | 近卫信物复制品 | Replicated Guard Token | ★1前衛の印 |
 | tier1_medic | 医疗信物复制品 | Replicated Medic Token | ★1医療の印 |
@@ -5478,6 +5526,7 @@ Event | なないろのお茶会 |
 | uni_set_stage | 风雪过境家具收藏包 | Break the Ice Furniture Pack | 風雪一過家具パック |
 | uni_set_taiko | 祭典娱乐室收藏包 | - | - |
 | uni_set_teaHouse | 将进酒家具收藏包 | Invitation to Wine Furniture Pack | 将進酒家具パック |
+| uni_set_velvet | 月行水上家具收藏包 | - | - |
 | uni_set_westCoast | 多索雷斯假日家具收藏包 | Dossoles Holiday Furniture Pack | ドッソレスホリデー家具パック |
 | voucher_5chipPackage | 自助芯片印刻仪 | Automatic Chip Etcher | SoCセルフプリンター |
 | voucher_chip | 芯片自助打印盒 | Automatic Chip Printer | 初級SoCセルフプリンター |
@@ -5639,6 +5688,7 @@ Event | なないろのお茶会 |
 | LINKAGE_65_0_1 | 人偶的歌谣 | - | - |
 | LINKAGE_74_0_1 | 幽境狩人 | - | - |
 | LINKAGE_74_0_3 | 砺火成锋 | - | - |
+| LINKAGE_77_0_1 | 石白深蓝之夜 | - | - |
 | NORM_0_1_3 | 银灰色的荣耀 | - | - |
 | NORM_10_0_1 | 雾漫荒林 | - | - |
 | NORM_10_0_3 | 雪落晨心 | - | - |
@@ -5912,6 +5962,8 @@ Event | なないろのお茶会 |
 | skchr_agoat2_2 | 云霭荫佑 | Cloudmist Shelter | 雲煙の庇護 |
 | skchr_agoat2_3 | 火山回响 | Volcanic Echoes | ヴォルケーノ・エコー |
 | skchr_aguard_1 | 亮剑 | Drawing Sword | 鋭刃 |
+| skchr_aigis_1 | 启动狂宴模式 | - | - |
+| skchr_aigis_2 | 全弹发射 | - | - |
 | skchr_akafyu_1 | 信影流·雷刀之势 | Nobukage-ryu - Kaminari Gatana no Zei | 信影流・雷刀之勢 |
 | skchr_akafyu_2 | 信影流·十文字胜 | Nobukage-ryu - Juumonji Masaru | 信影流・十文字勝 |
 | skchr_akkord_1 | 反拍重音 | - | - |
@@ -6360,6 +6412,9 @@ Event | なないろのお茶会 |
 | skchr_luton_2 | 强磁防卫 | Magnetic Defense | 強磁場シールド |
 | skchr_makiri_1 | 入场安排 | - | - |
 | skchr_makiri_2 | 万手成局 | - | - |
+| skchr_makoto_1 | 俄耳甫斯的竖琴 | - | - |
+| skchr_makoto_2 | 塔纳托斯的囚锁 | - | - |
+| skchr_makoto_3 | 开辟明日的剑刃 | - | - |
 | skchr_malist_2 | 神工意匠 | Prodigious Craftsmanship | マスターピース |
 | skchr_mantic_1 | 蝎毒 | Scorpion Venom | アジトキシン |
 | skchr_mantic_2 | 蓄力毒尾击 | Toxic Overload | スコーピオンテール |
@@ -6757,6 +6812,8 @@ Event | なないろのお茶会 |
 | skchr_yu_1 | 今日做东 | Today's Host | 椀飯振舞 |
 | skchr_yu_2 | 厚礼上宾 | For Guests, Bounteous Gifts | 客至如帰 |
 | skchr_yu_3 | 灶里乾坤 | Enter the Stove's Palm | 竈中乾坤 |
+| skchr_yukari_1 | 龙卷箭 | - | - |
+| skchr_yukari_2 | 明镜止水 | - | - |
 | skchr_yuki_1 | 敌飙 | Shuriken | ユキケムリ |
 | skchr_yuki_2 | 凝武 | Fatal Shuriken | カザグルマ |
 | skchr_zebra_1 | 应急迷彩 | Emergency Camouflage | 応急迷彩 |
@@ -8849,6 +8906,17 @@ Event | なないろのお茶会 |
 | act53side_st02 | 糖纸星星 | - | - |
 | act53side_st03 | 祝好 终途的我 | - | - |
 | act53side_tr01 | 写临行的迷惘 | - | - |
+| act54side_01 | 月出 | - | - |
+| act54side_02 | 月涌 | - | - |
+| act54side_03 | 月晕 | - | - |
+| act54side_04 | 月移 | - | - |
+| act54side_05 | 月斜 | - | - |
+| act54side_06 | 月蚀 | - | - |
+| act54side_07 | 月悬 | - | - |
+| act54side_08 | 月满 | - | - |
+| act54side_st01 | 月落 | - | - |
+| act54side_st02 | 满月一生 | - | - |
+| act54side_tr01 | 月影 | - | - |
 | act5bossrush_01 | 严寒骤血 | Cold and Blood | 極寒に舞う血しぶき |
 | act5bossrush_02 | 无声破裂 | Silent Crack | 声なき破滅 |
 | act5bossrush_03 | 幕间重影 | Interlude of Shadows | 幕間の多重像 |
@@ -9875,6 +9943,8 @@ Event | なないろのお茶会 |
 | act53side_zone2 | 踏上归家长途 | - | - |
 | act53side_zone3 | 眺望待行之路 | - | - |
 | act53side_zone4 | RPG关卡（不展示） | - | - |
+| act54side_zone1 | 通学路 | - | - |
+| act54side_zone2 | 殡仪堂 | - | - |
 | act5bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
 | act5d0_zone1 | 下城区 | Downtown | 繁華街 |
 | act5d0_zone2 | 东部郊区 | Eastern Suburbs | 東部郊外 |
@@ -10175,6 +10245,7 @@ Event | なないろのお茶会 |
 | story_glider_set_1_story_1 | 苦涩的根茎 | A Bitterest Rhizome | 苦い根茎 |
 | story_gnosis_set_1_story_1 | 起点 | Starting Point | 起点 |
 | story_grabds_set_1_story_1 | 旧梦重温 | Reliving Old Dreams | 懐かしき夢の追憶 |
+| story_graceb_set_1_story_1 | 砸碎一抹微笑 | - | - |
 | story_grani_set_1_story_1 | 穷途不返 | Once Rock Bottom... | 決して振り返らず |
 | story_gravel_set_1_story_1 | 梦中过往 | Past in Dreams | 過ぎ去りし日の夢 |
 | story_greyy2_set_1_story_1 | 撰写光明 | Light, He Wrote | 綴られる光 |
@@ -10183,6 +10254,7 @@ Event | なないろのお茶会 |
 | story_gyuki_set_1_story_1 | 鬼的逮捕令 | - | - |
 | story_haak_set_1_story_1 | 惊弓一夜 | A Night of Terror | 肝を冷やす夜 |
 | story_hadiya_set_1_story_1 | 去荒野的路 | - | - |
+| story_hadiya_set_2_story_1 | 被抗拒者 | - | - |
 | story_haini_set_1_story_1 | 怀有希望之人 | The Hopeful Ones | 希望を抱く人 |
 | story_halo2_set_1_story_1 | 谢拉格假期 | - | - |
 | story_halo_set_1_story_1 | 实验进行中 | Now Experimenting... | 実験進行中 |
@@ -10288,6 +10360,7 @@ Event | なないろのお茶会 |
 | story_peper_set_1_story_1 | 少年雇佣兵 | Mercenary Youth | 傭兵の少女 |
 | story_phatom_set_1_story_1 | 合作 | Cooperation | 協力 |
 | story_phenxi_set_1_story_1 | 乐园 | Paradisus | 楽園 |
+| story_phenxi_set_2_story_1 | 在干净明亮的夜晚 | - | - |
 | story_philae_set_1_story_1 | 新生 | - | - |
 | story_pianst_set_1_story_1 | 夕阳与朝日 | Dämmerung und Anbruch | 夕日と朝日 |
 | story_pianst_set_2_story_1 | 阳光洒落之前 | Before the Spilling Sunlight | 陽光が降り注ぐ前に |

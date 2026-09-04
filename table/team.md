@@ -42,6 +42,7 @@ tip: 请善用浏览器的搜索功能
 | rim | 雷姆必拓 | Rim Billiton | レム・ビリトン |
 | sami | 萨米 | Sami | サーミ |
 | sargon | 萨尔贡 | Sargon | サルゴン |
+| sees | S.E.E.S. | - | - |
 | siesta | 汐斯塔 | Siesta | シエスタ |
 | siracusa | 叙拉古 | Siracusa | シラクーザ |
 | student | 乌萨斯学生自治团 | Ursus Student Self-Governing Group | ウルサス学生自治団 |
