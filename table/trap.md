@@ -507,6 +507,7 @@ tip: 请善用浏览器的搜索功能
 | trap_316_ubtower | 警戒塔 | - | - |
 | trap_317_ubprison | 禁闭所 | - | - |
 | trap_318_ubodst | 伪装工具 | - | - |
+| trap_319_shpvas | 绒绒云团 | - | - |
 | trap_320_shtlbx | 丰饶树冢 | - | - |
 | trap_321_shnbox | 恶笼草 | - | - |
 | trap_322_shrbox | 畸变恶笼草 | - | - |

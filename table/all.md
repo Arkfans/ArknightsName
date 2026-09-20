@@ -1039,6 +1039,7 @@ tip: 请善用浏览器的搜索功能
 | trap_316_ubtower | 警戒塔 | - | - |
 | trap_317_ubprison | 禁闭所 | - | - |
 | trap_318_ubodst | 伪装工具 | - | - |
+| trap_319_shpvas | 绒绒云团 | - | - |
 | trap_320_shtlbx | 丰饶树冢 | - | - |
 | trap_321_shnbox | 恶笼草 | - | - |
 | trap_322_shrbox | 畸变恶笼草 | - | - |
@@ -1828,6 +1829,7 @@ tip: 请善用浏览器的搜索功能
 | char_4193_lemuen@ambienceSynesthesia#7 | 暮星安魂曲 | - | - |
 | char_4194_rmixer@boc#12 | 天穹肇始 | - | - |
 | char_4195_radian@game#8 | 乱数法则 | - | - |
+| char_4196_reckpr@yun#12 | 照寰瀛 | - | - |
 | char_4198_christ@epoque#56 | 底绒舞会 | - | - |
 | char_4199_makiri@sale#19 | 暮时宝光 | - | - |
 | char_4202_haruka@iteration#6 | 常世之幻 | - | - |
@@ -3259,6 +3261,9 @@ tip: 请善用浏览器的搜索功能
 | enemy_1593_musnake | “终始” | - | - |
 | enemy_1595_agbmes | “酣睡飞行员” | - | - |
 | enemy_1596_agbmal | “超惊喜信件” | - | - |
+| enemy_17001_wmshp | 风情街“飘游客” | - | - |
+| enemy_17002_flgshp | 风情街“热情导游” | - | - |
+| enemy_17003_sabshp | 云众演员 | - | - |
 | enemy_18001_lhship | 运输汽艇 | - | - |
 | enemy_18002_lhbetl | 小颚虫 | - | - |
 | enemy_18003_lhkarb | 吸气乱动机 | - | - |
@@ -3780,6 +3785,7 @@ tip: 请善用浏览器的搜索功能
 | act1checkin | 未来序曲签到活动 | Preludes to the Future Sign-in Event | 大感謝祭スタンプ |
 | act1collection | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
 | act1d5 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
+| act1dp | 逐影集趣 | - | - |
 | act1enemyduel | 争锋频道：青草城 | Duel Channel: Green Grassville | デュエルチャンネル：グリーングラスシティ |
 | act1flip | 哗啦啦祈愿牌 | Surpriseful Supplications | かんから祈り札 |
 | act1float | 纽莱堡市产业合作洽谈会 | Nulaiteburgh Industry Cooperation Forum | ニューライトバーグ市産業懇談会 |
@@ -3976,6 +3982,8 @@ Event | なないろのお茶会 |
 | act5unique | 夏日嘉年华特别活动 | - | - |
 | act60sign | 透明信笺签到活动 | - | - |
 | act61sign | 此夜同行签到活动 | - | - |
+| act62sign | 锦枫映月签到活动 | - | - |
+| act63sign | 稳态测定签到活动 | - | - |
 | act6bossrush | 引航者试炼 | - | - |
 | act6collection | 梦城堡模拟训练 | - | - |
 | act6d0 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -4358,6 +4366,7 @@ Event | なないろのお茶会 |
 | act1break_milestone_point | “小心地滑” | 'Caution! Wet Floor!' | 「スリップ注意」 |
 | act1collection_point_token | “探索者”兑换点数 | 'Expeditioners' Redemption Point | 「探索者」交換ポイント |
 | act1d0_token_gold_rep_1 | 赏金猎人金币 | Bounty Coin | ラッキーコイン |
+| act1dp_milestone_point | 绒绒欢乐像 | - | - |
 | act1enemyduel_milestone_point | 争锋大礼花 | Grand Duel Fireworks | デュエルクラッカー |
 | act1football_milestone_point | 锦标积分券 | - | - |
 | act1lock_point_reward | 赛事奖章 | Competition Medals | 競技メダル |
@@ -4612,6 +4621,10 @@ Event | なないろのお茶会 |
 | ap_supply_lt_120_2025_7 | 海底捞面 | - | - |
 | ap_supply_lt_120_2025_8 | 阿米娅的生日蛋糕 | - | - |
 | ap_supply_lt_120_2026_1 | 1102生日糕点 | - | - |
+| ap_supply_lt_120_2026_3 | “流金影” | - | - |
+| ap_supply_lt_120_2026_4 | “共光华” | - | - |
+| ap_supply_lt_120_2026_5 | “举清辉” | - | - |
+| ap_supply_lt_120_2026_6 | “拾秋实” | - | - |
 | ap_supply_lt_60 | 应急理智合剂 | Emergency Sanity Potion | 初級理性回復剤 |
 | ap_supply_lt_80 | 应急理智加强剂 | Emergency Sanity Booster | 初級理性回復剤+ |
 | ap_supply_lt_80_2025_1 | 清爽运动饮料 | - | - |
@@ -8166,6 +8179,15 @@ Event | なないろのお茶会 |
 | act1break_sp14 | 绝人之路 | No Escape | 袋小路 |
 | act1break_sp15 | 墙开一面 | Wall Opening | 障壁を破って |
 | act1break_sp16 | 活路一条 | One Way Out | 活路を開いて |
+| act1dp_01 | 入场吧绒绒！ | - | - |
+| act1dp_02 | 选择吧绒绒！ | - | - |
+| act1dp_03 | 等待吧绒绒！ | - | - |
+| act1dp_04 | 跟上吧绒绒！ | - | - |
+| act1dp_05 | 欢呼吧绒绒！ | - | - |
+| act1dp_06 | 返程吧绒绒！ | - | - |
+| act1dp_s01 | 午间休息！ | - | - |
+| act1dp_s02 | 傍晚小憩！ | - | - |
+| act1dp_tr01 | 集结吧绒绒！ | - | - |
 | act1enemyduel_01a | 争锋试炼！ | Duel Trial! | いざ勝負！ |
 | act1enemyduel_01b | 争锋试炼！ | Duel Trial! | いざ勝負！ |
 | act1enemyduel_02a | 争锋对决！ | Duel Showdown! | いざ対決！ |
@@ -9781,6 +9803,8 @@ Event | なないろのお茶会 |
 | act1break_zone1 | 核心突破 | Kernel Breakthrough | 中枢突破 |
 | act1break_zone2 | 全力以赴 | All-Out Effort | 総力戦 |
 | act1break_zone3 | 特别战线 | Special Front | 特別戦線 |
+| act1dp_zone1 | 轻游 | - | - |
+| act1dp_zone2 | 欢动 | - | - |
 | act1football_zone1 | 晋级赛 | - | - |
 | act1football_zone2 | 淘汰赛 | - | - |
 | act1football_zone3 | 特训赛 | - | - |

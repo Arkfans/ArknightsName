@@ -7687,6 +7687,12 @@
       "zh_CN": "伪装工具"
     }
   },
+  "trap_319_shpvas": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "绒绒云团"
+    }
+  },
   "trap_320_shtlbx": {
     "type": "TRAP",
     "names": {
@@ -13493,6 +13499,12 @@
     "type": "SKIN",
     "names": {
       "zh_CN": "乱数法则"
+    }
+  },
+  "char_4196_reckpr@yun#12": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "照寰瀛"
     }
   },
   "char_4198_christ@epoque#56": {
@@ -24351,6 +24363,24 @@
       "zh_CN": "“超惊喜信件”"
     }
   },
+  "enemy_17001_wmshp": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "风情街“飘游客”"
+    }
+  },
+  "enemy_17002_flgshp": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "风情街“热情导游”"
+    }
+  },
+  "enemy_17003_sabshp": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "云众演员"
+    }
+  },
   "enemy_18001_lhship": {
     "type": "ENEMY",
     "names": {
@@ -28171,6 +28201,12 @@
       "zh_CN": "限时累计签到"
     }
   },
+  "act1dp": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "逐影集趣"
+    }
+  },
   "act1enemyduel": {
     "type": "ACTIVITY",
     "names": {
@@ -29552,6 +29588,18 @@
     "type": "ACTIVITY",
     "names": {
       "zh_CN": "此夜同行签到活动"
+    }
+  },
+  "act62sign": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "锦枫映月签到活动"
+    }
+  },
+  "act63sign": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "稳态测定签到活动"
     }
   },
   "act6bossrush": {
@@ -32490,6 +32538,12 @@
       "zh_CN": "赏金猎人金币"
     }
   },
+  "act1dp_milestone_point": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "绒绒欢乐像"
+    }
+  },
   "act1enemyduel_milestone_point": {
     "type": "ITEM",
     "names": {
@@ -34313,6 +34367,30 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "1102生日糕点"
+    }
+  },
+  "ap_supply_lt_120_2026_3": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "“流金影”"
+    }
+  },
+  "ap_supply_lt_120_2026_4": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "“共光华”"
+    }
+  },
+  "ap_supply_lt_120_2026_5": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "“举清辉”"
+    }
+  },
+  "ap_supply_lt_120_2026_6": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "“拾秋实”"
     }
   },
   "ap_supply_lt_60": {
@@ -61008,6 +61086,60 @@
       "zh_CN": "活路一条"
     }
   },
+  "act1dp_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "入场吧绒绒！"
+    }
+  },
+  "act1dp_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "选择吧绒绒！"
+    }
+  },
+  "act1dp_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "等待吧绒绒！"
+    }
+  },
+  "act1dp_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "跟上吧绒绒！"
+    }
+  },
+  "act1dp_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "欢呼吧绒绒！"
+    }
+  },
+  "act1dp_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "返程吧绒绒！"
+    }
+  },
+  "act1dp_s01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "午间休息！"
+    }
+  },
+  "act1dp_s02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "傍晚小憩！"
+    }
+  },
+  "act1dp_tr01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "集结吧绒绒！"
+    }
+  },
   "act1enemyduel_01a": {
     "type": "STAGE",
     "names": {
@@ -73184,6 +73316,18 @@
       "en_US": "Special Front",
       "ja_JP": "特別戦線",
       "zh_CN": "特别战线"
+    }
+  },
+  "act1dp_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "轻游"
+    }
+  },
+  "act1dp_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "欢动"
     }
   },
   "act1football_zone1": {

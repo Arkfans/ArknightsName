@@ -306,6 +306,7 @@ tip: 请善用浏览器的搜索功能
 | act1break_milestone_point | “小心地滑” | 'Caution! Wet Floor!' | 「スリップ注意」 |
 | act1collection_point_token | “探索者”兑换点数 | 'Expeditioners' Redemption Point | 「探索者」交換ポイント |
 | act1d0_token_gold_rep_1 | 赏金猎人金币 | Bounty Coin | ラッキーコイン |
+| act1dp_milestone_point | 绒绒欢乐像 | - | - |
 | act1enemyduel_milestone_point | 争锋大礼花 | Grand Duel Fireworks | デュエルクラッカー |
 | act1football_milestone_point | 锦标积分券 | - | - |
 | act1lock_point_reward | 赛事奖章 | Competition Medals | 競技メダル |
@@ -560,6 +561,10 @@ tip: 请善用浏览器的搜索功能
 | ap_supply_lt_120_2025_7 | 海底捞面 | - | - |
 | ap_supply_lt_120_2025_8 | 阿米娅的生日蛋糕 | - | - |
 | ap_supply_lt_120_2026_1 | 1102生日糕点 | - | - |
+| ap_supply_lt_120_2026_3 | “流金影” | - | - |
+| ap_supply_lt_120_2026_4 | “共光华” | - | - |
+| ap_supply_lt_120_2026_5 | “举清辉” | - | - |
+| ap_supply_lt_120_2026_6 | “拾秋实” | - | - |
 | ap_supply_lt_60 | 应急理智合剂 | Emergency Sanity Potion | 初級理性回復剤 |
 | ap_supply_lt_80 | 应急理智加强剂 | Emergency Sanity Booster | 初級理性回復剤+ |
 | ap_supply_lt_80_2025_1 | 清爽运动饮料 | - | - |

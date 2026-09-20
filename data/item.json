@@ -1422,6 +1422,9 @@
     "ja_JP": "ラッキーコイン",
     "zh_CN": "赏金猎人金币"
   },
+  "act1dp_milestone_point": {
+    "zh_CN": "绒绒欢乐像"
+  },
   "act1enemyduel_milestone_point": {
     "en_US": "Grand Duel Fireworks",
     "ja_JP": "デュエルクラッカー",
@@ -2490,6 +2493,18 @@
   },
   "ap_supply_lt_120_2026_1": {
     "zh_CN": "1102生日糕点"
+  },
+  "ap_supply_lt_120_2026_3": {
+    "zh_CN": "“流金影”"
+  },
+  "ap_supply_lt_120_2026_4": {
+    "zh_CN": "“共光华”"
+  },
+  "ap_supply_lt_120_2026_5": {
+    "zh_CN": "“举清辉”"
+  },
+  "ap_supply_lt_120_2026_6": {
+    "zh_CN": "“拾秋实”"
   },
   "ap_supply_lt_60": {
     "en_US": "Emergency Sanity Potion",

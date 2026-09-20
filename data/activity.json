@@ -434,6 +434,9 @@
     "ja_JP": "期間限定ログインボーナス",
     "zh_CN": "限时累计签到"
   },
+  "act1dp": {
+    "zh_CN": "逐影集趣"
+  },
   "act1enemyduel": {
     "en_US": "Duel Channel: Green Grassville",
     "ja_JP": "デュエルチャンネル：グリーングラスシティ",
@@ -1249,6 +1252,12 @@
   },
   "act61sign": {
     "zh_CN": "此夜同行签到活动"
+  },
+  "act62sign": {
+    "zh_CN": "锦枫映月签到活动"
+  },
+  "act63sign": {
+    "zh_CN": "稳态测定签到活动"
   },
   "act6bossrush": {
     "zh_CN": "引航者试炼"

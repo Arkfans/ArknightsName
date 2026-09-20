@@ -98,6 +98,7 @@ tip: 请善用浏览器的搜索功能
 | act1checkin | 未来序曲签到活动 | Preludes to the Future Sign-in Event | 大感謝祭スタンプ |
 | act1collection | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
 | act1d5 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
+| act1dp | 逐影集趣 | - | - |
 | act1enemyduel | 争锋频道：青草城 | Duel Channel: Green Grassville | デュエルチャンネル：グリーングラスシティ |
 | act1flip | 哗啦啦祈愿牌 | Surpriseful Supplications | かんから祈り札 |
 | act1float | 纽莱堡市产业合作洽谈会 | Nulaiteburgh Industry Cooperation Forum | ニューライトバーグ市産業懇談会 |
@@ -294,6 +295,8 @@ Event | なないろのお茶会 |
 | act5unique | 夏日嘉年华特别活动 | - | - |
 | act60sign | 透明信笺签到活动 | - | - |
 | act61sign | 此夜同行签到活动 | - | - |
+| act62sign | 锦枫映月签到活动 | - | - |
+| act63sign | 稳态测定签到活动 | - | - |
 | act6bossrush | 引航者试炼 | - | - |
 | act6collection | 梦城堡模拟训练 | - | - |
 | act6d0 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |

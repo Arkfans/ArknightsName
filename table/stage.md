@@ -438,6 +438,15 @@ tip: 请善用浏览器的搜索功能
 | act1break_sp14 | 绝人之路 | No Escape | 袋小路 |
 | act1break_sp15 | 墙开一面 | Wall Opening | 障壁を破って |
 | act1break_sp16 | 活路一条 | One Way Out | 活路を開いて |
+| act1dp_01 | 入场吧绒绒！ | - | - |
+| act1dp_02 | 选择吧绒绒！ | - | - |
+| act1dp_03 | 等待吧绒绒！ | - | - |
+| act1dp_04 | 跟上吧绒绒！ | - | - |
+| act1dp_05 | 欢呼吧绒绒！ | - | - |
+| act1dp_06 | 返程吧绒绒！ | - | - |
+| act1dp_s01 | 午间休息！ | - | - |
+| act1dp_s02 | 傍晚小憩！ | - | - |
+| act1dp_tr01 | 集结吧绒绒！ | - | - |
 | act1enemyduel_01a | 争锋试炼！ | Duel Trial! | いざ勝負！ |
 | act1enemyduel_01b | 争锋试炼！ | Duel Trial! | いざ勝負！ |
 | act1enemyduel_02a | 争锋对决！ | Duel Showdown! | いざ対決！ |

@@ -1340,6 +1340,9 @@ tip: 请善用浏览器的搜索功能
 | enemy_1593_musnake | “终始” | - | - |
 | enemy_1595_agbmes | “酣睡飞行员” | - | - |
 | enemy_1596_agbmal | “超惊喜信件” | - | - |
+| enemy_17001_wmshp | 风情街“飘游客” | - | - |
+| enemy_17002_flgshp | 风情街“热情导游” | - | - |
+| enemy_17003_sabshp | 云众演员 | - | - |
 | enemy_18001_lhship | 运输汽艇 | - | - |
 | enemy_18002_lhbetl | 小颚虫 | - | - |
 | enemy_18003_lhkarb | 吸气乱动机 | - | - |

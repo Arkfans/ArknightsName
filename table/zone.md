@@ -100,6 +100,8 @@ tip: 请善用浏览器的搜索功能
 | act1break_zone1 | 核心突破 | Kernel Breakthrough | 中枢突破 |
 | act1break_zone2 | 全力以赴 | All-Out Effort | 総力戦 |
 | act1break_zone3 | 特别战线 | Special Front | 特別戦線 |
+| act1dp_zone1 | 轻游 | - | - |
+| act1dp_zone2 | 欢动 | - | - |
 | act1football_zone1 | 晋级赛 | - | - |
 | act1football_zone2 | 淘汰赛 | - | - |
 | act1football_zone3 | 特训赛 | - | - |
