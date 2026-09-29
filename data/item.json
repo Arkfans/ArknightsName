@@ -1884,6 +1884,9 @@
     "ja_JP": "ブラックボックス",
     "zh_CN": "数据黑盒"
   },
+  "act3break_milestone_point": {
+    "zh_CN": "“小心地滑”"
+  },
   "act3collection_point_token": {
     "en_US": "'Strategist' Point",
     "ja_JP": "「戦略家」ポイント",
@@ -6764,6 +6767,9 @@
     "ja_JP": "将進酒家具パック",
     "zh_CN": "将进酒家具收藏包"
   },
+  "uni_set_trainStation": {
+    "zh_CN": "追迹日落以西家具收藏包"
+  },
   "uni_set_velvet": {
     "zh_CN": "月行水上家具收藏包"
   },
@@ -6845,6 +6851,9 @@
   },
   "voucher_full_bryota": {
     "zh_CN": "苍苔的私人信件"
+  },
+  "voucher_full_cathy": {
+    "zh_CN": "凯瑟琳的私人信件"
   },
   "voucher_full_ceylon": {
     "en_US": "Ceylon's Personal Letter",

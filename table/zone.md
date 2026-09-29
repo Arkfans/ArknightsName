@@ -215,6 +215,9 @@ tip: 请善用浏览器的搜索功能
 | act39sre_zone1 | 盐漠开航 | - | - |
 | act39sre_zone2 | 穿越骸礁 | - | - |
 | act3bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
+| act3break_zone1 | 核心突破 | - | - |
+| act3break_zone2 | 全力以赴 | - | - |
+| act3break_zone3 | 特别战线 | - | - |
 | act3mainss_zone1 | 反常光谱 | - | - |
 | act40side_zone1 | 识七味 | Flavor of Food | 識七味 |
 | act40side_zone2 | 阅世情 | Flavor of Life | 閲世情 |

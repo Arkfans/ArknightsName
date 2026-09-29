@@ -148,6 +148,9 @@
     "ja_JP": "終演後の王子様",
     "zh_CN": "演出后的王子"
   },
+  "char_1027_greyy2@wild#12": {
+    "zh_CN": "千尺俯瞰"
+  },
   "char_1028_texas2@epoque#36": {
     "en_US": "Il Segreto Della Notte",
     "ja_JP": "夜に秘する幽蘭",
@@ -1555,6 +1558,9 @@
     "en_US": "Clouds Float Like Ideas of Art",
     "ja_JP": "海棠の夢",
     "zh_CN": "棠云巧梦"
+  },
+  "char_4015_spuria@epoque#58": {
+    "zh_CN": "慵怠哼唱"
   },
   "char_4016_kazema@witch#3": {
     "en_US": "Like Illusion",

@@ -412,6 +412,7 @@ tip: 请善用浏览器的搜索功能
 | act3bossrush_relic_03 | 经验习得 | Experience Acquisition | 経験習得 |
 | act3bossrush_relic_04 | 过热运转 | Overcharge | オーバーヒート |
 | act3bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
+| act3break_milestone_point | “小心地滑” | - | - |
 | act3collection_point_token | “战略家”点数 | 'Strategist' Point | 「戦略家」ポイント |
 | act3enemyduel_milestone_point | 争锋大礼花 | - | - |
 | act3mainss_token | 打火石 | - | - |
@@ -1479,6 +1480,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_stage | 风雪过境家具收藏包 | Break the Ice Furniture Pack | 風雪一過家具パック |
 | uni_set_taiko | 祭典娱乐室收藏包 | - | - |
 | uni_set_teaHouse | 将进酒家具收藏包 | Invitation to Wine Furniture Pack | 将進酒家具パック |
+| uni_set_trainStation | 追迹日落以西家具收藏包 | - | - |
 | uni_set_velvet | 月行水上家具收藏包 | - | - |
 | uni_set_westCoast | 多索雷斯假日家具收藏包 | Dossoles Holiday Furniture Pack | ドッソレスホリデー家具パック |
 | voucher_5chipPackage | 自助芯片印刻仪 | Automatic Chip Etcher | SoCセルフプリンター |
@@ -1497,6 +1499,7 @@ tip: 请善用浏览器的搜索功能
 | voucher_full_bena | 贝娜的私人信件 | Bena's Personal Letter | ベナの手紙 |
 | voucher_full_bison | 拜松的私人信件 | Bison's Personal Letter | バイソンの手紙 |
 | voucher_full_bryota | 苍苔的私人信件 | - | - |
+| voucher_full_cathy | 凯瑟琳的私人信件 | - | - |
 | voucher_full_ceylon | 锡兰的私人信件 | Ceylon's Personal Letter | セイロンの手紙 |
 | voucher_full_coldst | 冰酿的私人信件 | - | - |
 | voucher_full_flameb | 炎客的私人信件 | Flamebringer's Personal Letter | エンカクの手紙 |

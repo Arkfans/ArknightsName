@@ -7894,6 +7894,30 @@
   "enemy_8017_vcblva": {
     "zh_CN": "抗拒之火炎熔"
   },
+  "enemy_8018_etouch": {
+    "zh_CN": "“Touch”，再生之流"
+  },
+  "enemy_8018_etouch_1": {
+    "zh_CN": "“Touch”，再生之流"
+  },
+  "enemy_8018_etouch_2": {
+    "zh_CN": "“Touch”，再生之流"
+  },
+  "enemy_8018_etouch_3": {
+    "zh_CN": "“Touch”，再生之流"
+  },
+  "enemy_8019_pollut": {
+    "zh_CN": "“再灌注”"
+  },
+  "enemy_8019_pollut_2": {
+    "zh_CN": "“过灌注”"
+  },
+  "enemy_8020_tenaci": {
+    "zh_CN": "“新绿”"
+  },
+  "enemy_8021_tsilas": {
+    "zh_CN": "管钳"
+  },
   "enemy_9001_ayokai": {
     "en_US": "Surprise Sponsor Drone",
     "ja_JP": "サプライズ協賛ドローン",

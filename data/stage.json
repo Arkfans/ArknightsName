@@ -4567,6 +4567,102 @@
     "ja_JP": "信ずる者の行方",
     "zh_CN": "虔信者的前路"
   },
+  "act3break_01": {
+    "zh_CN": "寂静螺旋"
+  },
+  "act3break_02": {
+    "zh_CN": "波形扭曲"
+  },
+  "act3break_03": {
+    "zh_CN": "极速赛道"
+  },
+  "act3break_04": {
+    "zh_CN": "离子通道扰乱"
+  },
+  "act3break_05": {
+    "zh_CN": "液压颂歌"
+  },
+  "act3break_06": {
+    "zh_CN": "医源性感染"
+  },
+  "act3break_07": {
+    "zh_CN": "萌芽之时"
+  },
+  "act3break_08": {
+    "zh_CN": "磷脂层破坏"
+  },
+  "act3break_09": {
+    "zh_CN": "浸漫花圃"
+  },
+  "act3break_10": {
+    "zh_CN": "动捕影棚"
+  },
+  "act3break_11": {
+    "zh_CN": "漂白剂"
+  },
+  "act3break_12": {
+    "zh_CN": "实质组织萎缩"
+  },
+  "act3break_h01": {
+    "zh_CN": "卓绝之巅"
+  },
+  "act3break_h02": {
+    "zh_CN": "高优先通道"
+  },
+  "act3break_h03": {
+    "zh_CN": "惊吓幕后"
+  },
+  "act3break_h04": {
+    "zh_CN": "挽救治疗"
+  },
+  "act3break_sp01": {
+    "zh_CN": "重力危机"
+  },
+  "act3break_sp02": {
+    "zh_CN": "心中热火"
+  },
+  "act3break_sp03": {
+    "zh_CN": "馆藏珍品"
+  },
+  "act3break_sp04": {
+    "zh_CN": "人气巡演"
+  },
+  "act3break_sp05": {
+    "zh_CN": "后院死局"
+  },
+  "act3break_sp06": {
+    "zh_CN": "明星靶场"
+  },
+  "act3break_sp07": {
+    "zh_CN": "影院出口"
+  },
+  "act3break_sp08": {
+    "zh_CN": "四号站台"
+  },
+  "act3break_sp09": {
+    "zh_CN": "难以相交"
+  },
+  "act3break_sp10": {
+    "zh_CN": "林间小憩"
+  },
+  "act3break_sp11": {
+    "zh_CN": "荒废矿道"
+  },
+  "act3break_sp12": {
+    "zh_CN": "紧急夺还"
+  },
+  "act3break_sp13": {
+    "zh_CN": "乙醇暴动"
+  },
+  "act3break_sp14": {
+    "zh_CN": "一意孤行"
+  },
+  "act3break_sp15": {
+    "zh_CN": "刺耳机床"
+  },
+  "act3break_sp16": {
+    "zh_CN": "最终愿望"
+  },
   "act3enemyduel_01a": {
     "zh_CN": "争锋对决！"
   },

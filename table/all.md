@@ -1053,6 +1053,7 @@ tip: 请善用浏览器的搜索功能
 | trap_330_ycwang | 演出望 | - | - |
 | trap_334_agmbox | 邮箱 | - | - |
 | trap_335_totalattack | 全场总攻击 | - | - |
+| trap_339_tchray | “再度绽放” | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |
 | trap_401_xbfato | 木材采集站 | Sawing Harvester Hub | 木材採取基地 |
 | trap_403_wfactory | 蟹蟹抽水泵 | Crabbie Pumpie | カニカニポンプ |
@@ -1416,6 +1417,7 @@ tip: 请善用浏览器的搜索功能
 | char_1026_gvial2@summer#12 | 悠然假日 HD26 | Holiday HD26 | ホリデーHD26 |
 | char_1027_greyy2@breaker#1 | 生化沉溺 | - | - |
 | char_1027_greyy2@snow#5 | 演出后的王子 | Aftershow | 終演後の王子様 |
+| char_1027_greyy2@wild#12 | 千尺俯瞰 | - | - |
 | char_1028_texas2@epoque#36 | 幽兰秘辛 | Il Segreto Della Notte | 夜に秘する幽蘭 |
 | char_1028_texas2@iteration#1 | 破翼者 | Wingbreaker | ウィングブレイカー |
 | char_102_texas@epoque#7 | 意志 | Willpower | 意志 |
@@ -1714,6 +1716,7 @@ tip: 请善用浏览器的搜索功能
 | char_4011_lessng@whirlwind#7 | 幻火 | Ignis Fatuus | 幻影の炎 |
 | char_4013_kjera@epoque#18 | 灵巧侍者 | Ingenious Servant | 腕利き侍女 |
 | char_4014_lunacu@yun#1 | 棠云巧梦 | Clouds Float Like Ideas of Art | 海棠の夢 |
+| char_4015_spuria@epoque#58 | 慵怠哼唱 | - | - |
 | char_4016_kazema@witch#3 | 幻影轻悄 | Like Illusion | 軽やかな幻影 |
 | char_4017_puzzle@epoque#29 | 碎片之间 | Amidst the Pieces | ピースの間 |
 | char_4017_puzzle@shining#3 | 冷色摇滚 | - | - |
@@ -3664,6 +3667,14 @@ tip: 请善用浏览器的搜索功能
 | enemy_8016_misery_2 | “Misery”，静默之刃 | - | - |
 | enemy_8016_misery_3 | “Misery”，静默之刃 | - | - |
 | enemy_8017_vcblva | 抗拒之火炎熔 | - | - |
+| enemy_8018_etouch | “Touch”，再生之流 | - | - |
+| enemy_8018_etouch_1 | “Touch”，再生之流 | - | - |
+| enemy_8018_etouch_2 | “Touch”，再生之流 | - | - |
+| enemy_8018_etouch_3 | “Touch”，再生之流 | - | - |
+| enemy_8019_pollut | “再灌注” | - | - |
+| enemy_8019_pollut_2 | “过灌注” | - | - |
+| enemy_8020_tenaci | “新绿” | - | - |
+| enemy_8021_tsilas | 管钳 | - | - |
 | enemy_9001_ayokai | 惊喜赞助无人机 | Surprise Sponsor Drone | サプライズ協賛ドローン |
 | enemy_9002_adsham | 萨卡兹渴血术师 | Sarkaz Bloodthirst Caster | サルカズ渇血術師 |
 | enemy_9003_askate | 寻路者供弹手 | Pathfinder Armicustos | 求道供弾者 |
@@ -3901,6 +3912,7 @@ tip: 请善用浏览器的搜索功能
 | act3access | 七周年专享活动 | - | - |
 | act3blessing | 2026罗德岛新春签到 | - | - |
 | act3bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
+| act3break | 矢量突破#3 拟生态 | - | - |
 | act3collection | 潮起潮又起 | Another Tides | 沸き返る潮騒 |
 | act3d0 | 火蓝之心 | Heart of Surging Flame | 青く燃ゆる心 |
 | act3d5 | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
@@ -4472,6 +4484,7 @@ Event | なないろのお茶会 |
 | act3bossrush_relic_03 | 经验习得 | Experience Acquisition | 経験習得 |
 | act3bossrush_relic_04 | 过热运转 | Overcharge | オーバーヒート |
 | act3bossrush_token_relic | 数据黑盒 | Data Blackbox | ブラックボックス |
+| act3break_milestone_point | “小心地滑” | - | - |
 | act3collection_point_token | “战略家”点数 | 'Strategist' Point | 「戦略家」ポイント |
 | act3enemyduel_milestone_point | 争锋大礼花 | - | - |
 | act3mainss_token | 打火石 | - | - |
@@ -5539,6 +5552,7 @@ Event | なないろのお茶会 |
 | uni_set_stage | 风雪过境家具收藏包 | Break the Ice Furniture Pack | 風雪一過家具パック |
 | uni_set_taiko | 祭典娱乐室收藏包 | - | - |
 | uni_set_teaHouse | 将进酒家具收藏包 | Invitation to Wine Furniture Pack | 将進酒家具パック |
+| uni_set_trainStation | 追迹日落以西家具收藏包 | - | - |
 | uni_set_velvet | 月行水上家具收藏包 | - | - |
 | uni_set_westCoast | 多索雷斯假日家具收藏包 | Dossoles Holiday Furniture Pack | ドッソレスホリデー家具パック |
 | voucher_5chipPackage | 自助芯片印刻仪 | Automatic Chip Etcher | SoCセルフプリンター |
@@ -5557,6 +5571,7 @@ Event | なないろのお茶会 |
 | voucher_full_bena | 贝娜的私人信件 | Bena's Personal Letter | ベナの手紙 |
 | voucher_full_bison | 拜松的私人信件 | Bison's Personal Letter | バイソンの手紙 |
 | voucher_full_bryota | 苍苔的私人信件 | - | - |
+| voucher_full_cathy | 凯瑟琳的私人信件 | - | - |
 | voucher_full_ceylon | 锡兰的私人信件 | Ceylon's Personal Letter | セイロンの手紙 |
 | voucher_full_coldst | 冰酿的私人信件 | - | - |
 | voucher_full_flameb | 炎客的私人信件 | Flamebringer's Personal Letter | エンカクの手紙 |
@@ -5801,6 +5816,7 @@ Event | なないろのお茶会 |
 | SPECIAL_67_0_3 | 定向甄选 | - | - |
 | SPECIAL_70_0_3 | 定向甄选 | - | - |
 | SPECIAL_73_0_3 | 定向甄选 | - | - |
+| SPECIAL_77_0_4 | 定向甄选 | - | - |
 | _ATTAIN_15_2_1 | - | Celebrate & Recollect | ロドスの道のり　回顧 |
 | _ATTAIN_22_1_2 | - | Celebration & Link-Up | ロドスの道のり・邂逅 |
 | _ATTAIN_28_0_2 | - | Celebration & Vista | ロドスの道のり・展望 |
@@ -7514,6 +7530,7 @@ Event | なないろのお茶会 |
 | sktok_tbattbc | 钳兽壳粉 | Gloompincer Shell Meal | 鉗獣殻パウダー |
 | sktok_tbpsnc | 高效泡打粉 | High-Efficiency Baking Powder | ベーキングパウダー |
 | sktok_tbsmmc | 芳香精油 | Fragrant Essential Oil | エッセンシャルオイル |
+| sktok_tchray | 消杀程序 | - | - |
 | sktok_tfalco | 触发对话 | Trigger Dialogue | 会話発生 |
 | sktok_tidectrl_1 | 小幅涨潮 | Small Rising Tide | 引き潮 |
 | sktok_tidectrl_2 | 大幅涨潮 | Large Rising Tide | 満ち潮 |
@@ -8718,6 +8735,38 @@ Event | なないろのお茶会 |
 | act3bossrush_02 | 惊惧与血色 | Blood and Terror | 恐怖と血色 |
 | act3bossrush_03 | 不测之渊 | Deep in Danger | 不測の淵 |
 | act3bossrush_04 | 虔信者的前路 | Path of the Faithful | 信ずる者の行方 |
+| act3break_01 | 寂静螺旋 | - | - |
+| act3break_02 | 波形扭曲 | - | - |
+| act3break_03 | 极速赛道 | - | - |
+| act3break_04 | 离子通道扰乱 | - | - |
+| act3break_05 | 液压颂歌 | - | - |
+| act3break_06 | 医源性感染 | - | - |
+| act3break_07 | 萌芽之时 | - | - |
+| act3break_08 | 磷脂层破坏 | - | - |
+| act3break_09 | 浸漫花圃 | - | - |
+| act3break_10 | 动捕影棚 | - | - |
+| act3break_11 | 漂白剂 | - | - |
+| act3break_12 | 实质组织萎缩 | - | - |
+| act3break_h01 | 卓绝之巅 | - | - |
+| act3break_h02 | 高优先通道 | - | - |
+| act3break_h03 | 惊吓幕后 | - | - |
+| act3break_h04 | 挽救治疗 | - | - |
+| act3break_sp01 | 重力危机 | - | - |
+| act3break_sp02 | 心中热火 | - | - |
+| act3break_sp03 | 馆藏珍品 | - | - |
+| act3break_sp04 | 人气巡演 | - | - |
+| act3break_sp05 | 后院死局 | - | - |
+| act3break_sp06 | 明星靶场 | - | - |
+| act3break_sp07 | 影院出口 | - | - |
+| act3break_sp08 | 四号站台 | - | - |
+| act3break_sp09 | 难以相交 | - | - |
+| act3break_sp10 | 林间小憩 | - | - |
+| act3break_sp11 | 荒废矿道 | - | - |
+| act3break_sp12 | 紧急夺还 | - | - |
+| act3break_sp13 | 乙醇暴动 | - | - |
+| act3break_sp14 | 一意孤行 | - | - |
+| act3break_sp15 | 刺耳机床 | - | - |
+| act3break_sp16 | 最终愿望 | - | - |
 | act3enemyduel_01a | 争锋对决！ | - | - |
 | act3enemyduel_01b | 争锋对决！ | - | - |
 | act40side_01 | 一清二白 | Scallion Tofu | 一清二白 |
@@ -9918,6 +9967,9 @@ Event | なないろのお茶会 |
 | act39sre_zone1 | 盐漠开航 | - | - |
 | act39sre_zone2 | 穿越骸礁 | - | - |
 | act3bossrush_zone1 | 强敌当前 | Threat Incoming | 強敵襲来 |
+| act3break_zone1 | 核心突破 | - | - |
+| act3break_zone2 | 全力以赴 | - | - |
+| act3break_zone3 | 特别战线 | - | - |
 | act3mainss_zone1 | 反常光谱 | - | - |
 | act40side_zone1 | 识七味 | Flavor of Food | 識七味 |
 | act40side_zone2 | 阅世情 | Flavor of Life | 閲世情 |

@@ -977,6 +977,38 @@ tip: 请善用浏览器的搜索功能
 | act3bossrush_02 | 惊惧与血色 | Blood and Terror | 恐怖と血色 |
 | act3bossrush_03 | 不测之渊 | Deep in Danger | 不測の淵 |
 | act3bossrush_04 | 虔信者的前路 | Path of the Faithful | 信ずる者の行方 |
+| act3break_01 | 寂静螺旋 | - | - |
+| act3break_02 | 波形扭曲 | - | - |
+| act3break_03 | 极速赛道 | - | - |
+| act3break_04 | 离子通道扰乱 | - | - |
+| act3break_05 | 液压颂歌 | - | - |
+| act3break_06 | 医源性感染 | - | - |
+| act3break_07 | 萌芽之时 | - | - |
+| act3break_08 | 磷脂层破坏 | - | - |
+| act3break_09 | 浸漫花圃 | - | - |
+| act3break_10 | 动捕影棚 | - | - |
+| act3break_11 | 漂白剂 | - | - |
+| act3break_12 | 实质组织萎缩 | - | - |
+| act3break_h01 | 卓绝之巅 | - | - |
+| act3break_h02 | 高优先通道 | - | - |
+| act3break_h03 | 惊吓幕后 | - | - |
+| act3break_h04 | 挽救治疗 | - | - |
+| act3break_sp01 | 重力危机 | - | - |
+| act3break_sp02 | 心中热火 | - | - |
+| act3break_sp03 | 馆藏珍品 | - | - |
+| act3break_sp04 | 人气巡演 | - | - |
+| act3break_sp05 | 后院死局 | - | - |
+| act3break_sp06 | 明星靶场 | - | - |
+| act3break_sp07 | 影院出口 | - | - |
+| act3break_sp08 | 四号站台 | - | - |
+| act3break_sp09 | 难以相交 | - | - |
+| act3break_sp10 | 林间小憩 | - | - |
+| act3break_sp11 | 荒废矿道 | - | - |
+| act3break_sp12 | 紧急夺还 | - | - |
+| act3break_sp13 | 乙醇暴动 | - | - |
+| act3break_sp14 | 一意孤行 | - | - |
+| act3break_sp15 | 刺耳机床 | - | - |
+| act3break_sp16 | 最终愿望 | - | - |
 | act3enemyduel_01a | 争锋对决！ | - | - |
 | act3enemyduel_01b | 争锋对决！ | - | - |
 | act40side_01 | 一清二白 | Scallion Tofu | 一清二白 |

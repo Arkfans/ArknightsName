@@ -1743,6 +1743,14 @@ tip: 请善用浏览器的搜索功能
 | enemy_8016_misery_2 | “Misery”，静默之刃 | - | - |
 | enemy_8016_misery_3 | “Misery”，静默之刃 | - | - |
 | enemy_8017_vcblva | 抗拒之火炎熔 | - | - |
+| enemy_8018_etouch | “Touch”，再生之流 | - | - |
+| enemy_8018_etouch_1 | “Touch”，再生之流 | - | - |
+| enemy_8018_etouch_2 | “Touch”，再生之流 | - | - |
+| enemy_8018_etouch_3 | “Touch”，再生之流 | - | - |
+| enemy_8019_pollut | “再灌注” | - | - |
+| enemy_8019_pollut_2 | “过灌注” | - | - |
+| enemy_8020_tenaci | “新绿” | - | - |
+| enemy_8021_tsilas | 管钳 | - | - |
 | enemy_9001_ayokai | 惊喜赞助无人机 | Surprise Sponsor Drone | サプライズ協賛ドローン |
 | enemy_9002_adsham | 萨卡兹渴血术师 | Sarkaz Bloodthirst Caster | サルカズ渇血術師 |
 | enemy_9003_askate | 寻路者供弹手 | Pathfinder Armicustos | 求道供弾者 |

@@ -38,6 +38,7 @@ tip: 请善用浏览器的搜索功能
 | char_1026_gvial2@summer#12 | 悠然假日 HD26 | Holiday HD26 | ホリデーHD26 |
 | char_1027_greyy2@breaker#1 | 生化沉溺 | - | - |
 | char_1027_greyy2@snow#5 | 演出后的王子 | Aftershow | 終演後の王子様 |
+| char_1027_greyy2@wild#12 | 千尺俯瞰 | - | - |
 | char_1028_texas2@epoque#36 | 幽兰秘辛 | Il Segreto Della Notte | 夜に秘する幽蘭 |
 | char_1028_texas2@iteration#1 | 破翼者 | Wingbreaker | ウィングブレイカー |
 | char_102_texas@epoque#7 | 意志 | Willpower | 意志 |
@@ -336,6 +337,7 @@ tip: 请善用浏览器的搜索功能
 | char_4011_lessng@whirlwind#7 | 幻火 | Ignis Fatuus | 幻影の炎 |
 | char_4013_kjera@epoque#18 | 灵巧侍者 | Ingenious Servant | 腕利き侍女 |
 | char_4014_lunacu@yun#1 | 棠云巧梦 | Clouds Float Like Ideas of Art | 海棠の夢 |
+| char_4015_spuria@epoque#58 | 慵怠哼唱 | - | - |
 | char_4016_kazema@witch#3 | 幻影轻悄 | Like Illusion | 軽やかな幻影 |
 | char_4017_puzzle@epoque#29 | 碎片之间 | Amidst the Pieces | ピースの間 |
 | char_4017_puzzle@shining#3 | 冷色摇滚 | - | - |

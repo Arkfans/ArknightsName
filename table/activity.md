@@ -214,6 +214,7 @@ tip: 请善用浏览器的搜索功能
 | act3access | 七周年专享活动 | - | - |
 | act3blessing | 2026罗德岛新春签到 | - | - |
 | act3bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
+| act3break | 矢量突破#3 拟生态 | - | - |
 | act3collection | 潮起潮又起 | Another Tides | 沸き返る潮騒 |
 | act3d0 | 火蓝之心 | Heart of Surging Flame | 青く燃ゆる心 |
 | act3d5 | 限时积分任务 | Limited-time Score Mission | 期間限定Pt任務 |
