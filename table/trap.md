@@ -519,8 +519,11 @@ tip: 请善用浏览器的搜索功能
 | trap_328_newlamp | 城市霓虹 | - | - |
 | trap_329_rift | 泄漏标记 | - | - |
 | trap_330_ycwang | 演出望 | - | - |
+| trap_331_spksum | 基质合成台 | - | - |
+| trap_332_blkcan | 不甘的火 | - | - |
 | trap_334_agmbox | 邮箱 | - | - |
 | trap_335_totalattack | 全场总攻击 | - | - |
+| trap_338_almytw | 能量束发生台 | - | - |
 | trap_339_tchray | “再度绽放” | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |
 | trap_401_xbfato | 木材采集站 | Sawing Harvester Hub | 木材採取基地 |

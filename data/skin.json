@@ -237,6 +237,9 @@
   "char_1041_angel2@iteration#6": {
     "zh_CN": "寻翼之歌"
   },
+  "char_1042_phatm2@sightseer#4": {
+    "zh_CN": "真我自扼"
+  },
   "char_1043_leizi2@game#8": {
     "zh_CN": "血翼蔷薇"
   },
@@ -647,6 +650,9 @@
     "en_US": "Breaking the Ice",
     "ja_JP": "砕氷",
     "zh_CN": "破冰"
+  },
+  "char_194_leto@sightseer#4": {
+    "zh_CN": "来日欢歌"
   },
   "char_195_glassb@kitchen#1": {
     "en_US": "Bibliosmia",
@@ -2068,6 +2074,9 @@
   },
   "char_4202_haruka@iteration#6": {
     "zh_CN": "常世之幻"
+  },
+  "char_4204_mantra@sightseer#4": {
+    "zh_CN": "万籁俱寂"
   },
   "char_4207_branch@yun#10": {
     "zh_CN": "撷香霭"

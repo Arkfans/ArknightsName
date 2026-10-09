@@ -251,6 +251,9 @@ tip: 请善用浏览器的搜索功能
 | avg_385_finlpp_1 | 清流 | Purestream | セイリュウ |
 | avg_388_mint_1 | 薄绿 | Mint | ミント |
 | avg_391_rosmon_1 | 迷迭香 | Rosmontis | ロスモンティス |
+| avg_393_toledo_1 | 仇恨的岛民 | - | - |
+|   | 悦耳的女声 |   |   |
+|   | 特菲 |   |   |
 | avg_394_hadiya_1 | 哈蒂娅 | - | - |
 | avg_4000_jnight_1 | “正义骑士号” | 'Justice Knight' | 「ジャスティスナイト」 |
 |   | 异常的“正义骑士号” | Abnormal Justice Knight | ジャスティスナイト |
@@ -511,6 +514,9 @@ tip: 请善用浏览器的搜索功能
 |   | 洛伦茨 |   |   |
 |   | 洛伦茨？ |   |   |
 | avg_422_aurora_1 | 极光 | Aurora | オーロラ |
+| avg_4231_clemnt_1 | 克莱门莎 | - | - |
+| avg_4232_hbound_1 | 技术工 | - | - |
+|   | 纳乔 |   |   |
 | avg_4234_pedro_1 | 佩德洛 | - | - |
 |   | 执勤的士兵 |   |   |
 |   | 真正玻利瓦尔人游击队新兵 |   |   |
@@ -1913,6 +1919,7 @@ tip: 请善用浏览器的搜索功能
 |   | 外国富商 | Auctioneer | オークショニア |
 |   | 工厂老板 | Foreign Merchant | 外国の豪商 |
 |   | 拍卖师 |   |   |
+|   | 班杰明议员 |   |   |
 |   | 谄媚的贵族 |   |   |
 |   | 高级管理人员 |   |   |
 | avg_npc_1258_1 | 哥伦比亚商人B | Elegant Woman | 優美な女性 |
@@ -2073,14 +2080,17 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_1386_1 | 阿维图斯 | Avitus | アウィトゥス |
 | avg_npc_1387_1 | 卡西娅 | Cassia | エーギルの女性 |
 |   | 阿戈尔女性 | Ægir Woman | カシア |
-| avg_npc_1388_1 | 新生的海嗣 | Nascent Seaborn | シーボーン |
-|   | 海嗣 | Seaborn | 生まれたてのシーボーン |
+| avg_npc_1388_1 | 惩戒军新兵 | Nascent Seaborn | シーボーン |
+|   | 新生的海嗣 | Seaborn | 生まれたてのシーボーン |
+|   | 海嗣 |   |   |
 | avg_npc_1389_1 | 海嗣 | Gentle Seaborn | シーボーン |
 |   | 温柔的海嗣 | Seaborn | 優しいシーボーン |
 | avg_npc_139 | 掌柜 | Dawn | レイ |
 |   | 黎 | Shopkeeper | 女将 |
 | avg_npc_1390_1 | 海巡队队长 | Sea Patrol Captain | 海巡隊隊長 |
-| avg_npc_1391_1 | 海巡队队员 | Sea Patroller | 海巡隊隊員 |
+| avg_npc_1391_1 | 沉默的海巡队队员 | Sea Patroller | 海巡隊隊員 |
+|   | 海巡队队员 |   |   |
+|   | 激动的海巡队队员 |   |   |
 | avg_npc_1392_1 | “研究员B” | 'Researcher B' | 「研究員B」 |
 |   | 受伤的“研究员” | Tense Ægir | エーギルの医師 |
 |   | 紧张的阿戈尔人 | Wounded 'Researcher' | 緊迫したエーギル人 |
@@ -2088,7 +2098,8 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_1393_1 | 阿戈尔研究员A | Ægir Researcher A | エーギルの研究員A |
 | avg_npc_1394_1 | 神秘的阿戈尔人 | Mysterious Ægir | エーギルの学者 |
 |   | 阿戈尔学者 | Ægir Scholar | 怪しいエーギル人 |
-| avg_npc_1395_1 | 阿戈尔研究员B | Ægir Researcher B | エーギルの研究員B |
+| avg_npc_1395_1 | 艾达 | Ægir Researcher B | エーギルの研究員B |
+|   | 阿戈尔研究员B |   |   |
 | avg_npc_1396_1 | 信标塔技术员 | Academy of Technology Researcher | エーギルの技術者 |
 |   | 帕波斯 | Beacon Tower Technician | ターミナル港管理官 |
 |   | 技术院科研人员 | Pappus | パプス |
@@ -2132,9 +2143,9 @@ tip: 请善用浏览器的搜索功能
 |   | 阿贵 |   |   |
 | avg_npc_1400_1 | 军团长官 | Legion Commander | 軍団長官 |
 | avg_npc_1401_1 | “小帮手” | 'Little Handy' | 「リトル・ハンディ」 |
-|   | 街角的“小帮手” | 'Little Handy' at the Street Corner | 街角の「リトル・ハンディ」 |
-|   | 设施管理所的“小帮手” | 'Little Handy' from Institute of Facility Management |   |
-|   |   | 'Little Handy' from the Institute of Facility Management |   |
+|   | 小帮手 | 'Little Handy' at the Street Corner | 街角の「リトル・ハンディ」 |
+|   | 街角的“小帮手” | 'Little Handy' from Institute of Facility Management |   |
+|   | 设施管理所的“小帮手” | 'Little Handy' from the Institute of Facility Management |   |
 | avg_npc_141 | “小玉” | Astonished Villager | すくみ上がる村人 |
 |   | 女侠？ | Clinician | 報告した村人 |
 |   | 妻 | Heroine? | 女侠？ |
@@ -2304,18 +2315,22 @@ tip: 请善用浏览器的搜索功能
 |   | 忙碌的警察 | Busy Cop | 焦る警察官 |
 |   | 焦急的警察 | Director | 監督 |
 |   | 警察 | Police Officer | 警察官 |
-| avg_npc_1554_1 | 家族公司成员 | Famiglia Company Employee | ファミリーの法務 |
-|   | 家族成员 | Famiglia Lawyer | ファミリー傘下企業社員 |
-|   | 家族成员A | Mafioso | マフィア |
-|   | 家族成员A&B | Mafioso A | マフィアA |
-|   | 家族成员B | Mafioso A & B | マフィアA&B |
-|   | 家族法务 | Mafioso B | マフィアB |
+| avg_npc_1554_1 | 冷淡的家族干部 | Famiglia Company Employee | ファミリーの法務 |
+|   | 凶狠的男人 | Famiglia Lawyer | ファミリー傘下企業社員 |
+|   | 家族公司成员 | Mafioso | マフィア |
+|   | 家族成员 | Mafioso A | マフィアA |
+|   | 家族成员A | Mafioso A & B | マフィアA&B |
+|   | 家族成员A&B | Mafioso B | マフィアB |
+|   | 家族成员B |   |   |
+|   | 家族法务 |   |   |
 |   | 无奈的家族成员 |   |   |
 | avg_npc_1555_1 | 冷静的家族成员 | Famiglia Lawyer | ファミリー傘下企業法務 |
 |   | 家族公司法务 | Mafioso | マフィア |
 |   | 家族成员 | Nervous Mafioso | 恐れるマフィア |
 |   | 惶恐的家族成员 | Terrified Mafioso | 緊張したマフィア |
+|   | 洛卡家族干部 |   |   |
 |   | 紧张的家族成员 |   |   |
+|   | 蛮横的男人 |   |   |
 | avg_npc_1556_1 | “狂欢节路人B” | 'Carnevale Participant B' | 「通行人B」 |
 |   | 家族成员 | Carnevale Participant A | マフィア |
 |   | 家族成员B | Carnevale Participant B | マフィアB |
@@ -2340,6 +2355,7 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_1562_1 | 恐慌的文员 | Panicking Clerk | パニックになる事務員 |
 | avg_npc_1563_1 | 啰嗦的护理师 | Chatty Grooming Specialist | おしゃべりな理髪師 |
 |   | 埃里奥 |   |   |
+|   | 拘谨的泥瓦匠 |   |   |
 | avg_npc_1564_1 | 拉普兰德 | Lappland | ラップランド |
 | avg_npc_156_1 | 雷蛇 | Liskarm | リスカム |
 | avg_npc_1577_1 | 伊西多 | Isidro | イシドロ |
@@ -2727,9 +2743,10 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_178 | “伊比利亚人” | 'Iberian' | 「イベリア人」 |
 |   | 冷漠的路人 | Aloof Passerby | トランスポーター |
 |   | 地方信使 | Inhabitant | 住民 |
-|   | 居民 | Local Messenger | 冷たい通行人 |
-|   | 男性居民 | Male Inhabitant | 男性住民 |
-|   | 男性居民A | Male Inhabitant A | 男性住民A |
+|   | 城镇居民B | Local Messenger | 冷たい通行人 |
+|   | 居民 | Male Inhabitant | 男性住民 |
+|   | 男性居民 | Male Inhabitant A | 男性住民A |
+|   | 男性居民A |   |   |
 | avg_npc_1780_1 | 薇尔丽芙 | Velliv | ヴェルリヴ |
 | avg_npc_1781_1 | 大眼睛 | Massive Eyes | パガニーニ |
 |   | 潘格尼尼 | Paganini | 大きな目の持ち主 |
@@ -2750,6 +2767,7 @@ tip: 请善用浏览器的搜索功能
 |   | 圣堂巡卫B | Shrine Patrol B | 聖堂巡衛B |
 | avg_npc_179 | 亚诺阿 | Añora | アニョーラ |
 |   | 老年居民 | Old Inhabitant | 年老いた住民 |
+|   | 难民 |   |   |
 | avg_npc_1790_1 | 木攀兽 | Arborbeast | 木攀獣 |
 | avg_npc_1791_1 | 蒙恩的生物A | Enlightened Creature A | 祝福を受けた生き物A |
 | avg_npc_1792_1 | 蒙恩的生物 | Enlightened Creature | 祝福を受けた生き物 |
@@ -3677,8 +3695,57 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_2260_1 | 友善的流民 | - | - |
 |   | 巴尔斯 |   |   |
 |   | 慌忙的感染者 |   |   |
+| avg_npc_2266_1 | 瓦列里奥 | - | - |
+| avg_npc_2267_1 | 德鲁莎 | - | - |
+|   | 慵懒的惩戒军 |   |   |
+| avg_npc_2268_1 | 塔西塔 | - | - |
+| avg_npc_2269_1 | 南多 | - | - |
+|   | 年轻的惩戒军 |   |   |
+| avg_npc_2270_1 | 斐戴拉 | - | - |
+| avg_npc_2271_1 | 干练的技术工 | - | - |
+|   | 阿奎拉 |   |   |
+| avg_npc_2272_1 | “同胞” | - | - |
+|   | 不安的岛民 |   |   |
+|   | 岛民 |   |   |
+|   | 感激的岛民 |   |   |
+|   | 愤怒的岛民 |   |   |
+|   | 斐戴拉 |   |   |
+|   | 紧张的岛民 |   |   |
+|   | 警惕的岛民 |   |   |
+| avg_npc_2273_1 | 仇恨的岛民 | - | - |
+|   | 哀恸的岛民 |   |   |
+|   | 岛民 |   |   |
+|   | 急躁的岛民 |   |   |
+|   | 惊慌的岛民 |   |   |
+|   | 慌张的岛民 |   |   |
+|   | 欣慰的岛民 |   |   |
+|   | 焦急的岛民 |   |   |
+|   | 紧张的潜水员 |   |   |
+|   | 虚弱的岛民 |   |   |
+|   | 认同的岛民 |   |   |
+|   | 谨慎的岛民 |   |   |
+| avg_npc_2274_1 | 制帆匠 | - | - |
+|   | 叫卖的小贩 |   |   |
+|   | 城镇居民A |   |   |
+|   | 守塔人A |   |   |
+|   | 热情的船工 |   |   |
+|   | 萨尔瓦多 |   |   |
+|   | 阴沉的路人 |   |   |
+| avg_npc_2275_1 | 守塔人B | - | - |
+|   | 工头 |   |   |
+|   | 干练的船工 |   |   |
+|   | 洒脱的船工 |   |   |
+| avg_npc_2276_1 | 惩戒军士兵 | - | - |
+|   | 惩戒军新兵 |   |   |
+|   | 潜伏的惩戒军 |   |   |
+|   | 驻守的惩戒军 |   |   |
+| avg_npc_2277_1 | 惩戒军士官 | - | - |
+|   | 惩戒军老兵 |   |   |
+| avg_npc_2278_1 | 紧张的潜水员 | - | - |
+| avg_npc_2279_1 | 瓦列里奥 | - | - |
 | avg_npc_227_1 | 汉密尔顿 | Colonel Hamilton | ハミルトン大佐 |
 |   | 汉密尔顿上校 | Hamilton |   |
+| avg_npc_2280_1 | 瓦列里奥 | - | - |
 | avg_npc_228_1 | 洛西莉 | Harmonie | アルモニ |
 |   | 阿赫茉妮 | Rosalie | ロックスレイ |
 | avg_npc_229_1 | 丽塔 | Horn | ホルン |
@@ -4522,7 +4589,8 @@ tip: 请善用浏览器的搜索功能
 |   | 大审判官 | Ulpianus | 謎の狩人 |
 | avg_npc_446_1 | 海嗣？ | Captain Alfonso | アルフォンソ船長 |
 |   | 船长阿方索 | Seaborn? | シーボーン？ |
-| avg_npc_447_1 | 圣徒卡门 | Saint Carmen | 聖徒カルメン |
+| avg_npc_447_1 | 卡门 | Saint Carmen | 聖徒カルメン |
+|   | 圣徒卡门 |   |   |
 | avg_npc_448_1 | 最后的骑士 | The Last Knight | 最後の騎士 |
 | avg_npc_449_1 | 阿玛雅 | Amaia | アマイア |
 | avg_npc_450_1 | “小红毛” | 'Pelirrojito' | 「赤髪」 |
@@ -4530,13 +4598,14 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_451_1 | 蒂亚戈 | Thiago | ティアゴ |
 | avg_npc_452_1 | 大副 | Chief Mate | ガルシア副船長 |
 | avg_npc_453_1 | 古怪的教徒 | Agitated Cultist | しんがりの深海教徒 |
-|   | 悲伤的教徒 | Angry Assassin | 不気味な深海教徒 |
-|   | 愤怒的杀手 | Bizarre Cultist | 悲しげな深海教徒 |
-|   | 殿后的教徒 | Burnt Cultist | 拷問の任を負う深海教徒 |
-|   | 烧伤的教徒 | Mournful Adherent | 火傷を負った深海教徒 |
-|   | 紧张的教徒 | Rear Guard Cultist | 緊張気味の深海教徒 |
-|   | 诡异的教徒 | Strange Adherent | 逆上する殺し屋 |
-|   | 负责拷问的教徒 | Torturer Cultist |   |
+|   | 平和的教徒 | Angry Assassin | 不気味な深海教徒 |
+|   | 悲伤的教徒 | Bizarre Cultist | 悲しげな深海教徒 |
+|   | 愤怒的杀手 | Burnt Cultist | 拷問の任を負う深海教徒 |
+|   | 殿后的教徒 | Mournful Adherent | 火傷を負った深海教徒 |
+|   | 烧伤的教徒 | Rear Guard Cultist | 緊張気味の深海教徒 |
+|   | 紧张的教徒 | Strange Adherent | 逆上する殺し屋 |
+|   | 诡异的教徒 | Torturer Cultist |   |
+|   | 负责拷问的教徒 |   |   |
 | avg_npc_454_1 | “助祭” | 'Deacon' | 「助祭」 |
 |   | 受伤的教徒 | Church of the Deep Cultist B | 傷付いた深海教徒 |
 |   | 古怪的杀手 | Priest | 奇妙な殺し屋 |
@@ -4545,7 +4614,10 @@ tip: 请善用浏览器的搜索功能
 |   | 寡言的教徒 | Strange Outsider | 怪しげな訪問者 |
 |   | 教士 | Tight-Lipped Adherent | 深海教徒B |
 |   | 沉默的教徒 | Wounded Cultist | 物静かな深海教徒 |
+|   | 深海教徒 |   |   |
 |   | 深海教徒B |   |   |
+|   | 被捕的教徒 |   |   |
+|   | 躁动的教徒 |   |   |
 | avg_npc_455_1 | 海嗣 | Seaborn | シーボーン |
 | avg_npc_456_1 | 海嗣 | Seaborn | シーボーン |
 | avg_npc_457_1 | “助手” | 'Assistant' | 「アシさん」 |
@@ -4557,25 +4629,32 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_459_1 | 不屑的路人 | Alert Townsfolk | 勇敢な村人 |
 |   | 勇敢的村民 | Blockading Townsfolk | 困惑する町民 |
 |   | 堵着门的镇民 | Brave Villager | 扉を塞ぐ町民 |
-|   | 茫然的镇民 | Nihilistic Townsperson | 用心深い町民 |
-|   | 警惕的镇民 | Pursuing Townsfolk | 蔑む通行人 |
-|   | 追来的镇民 | Scoffing Passerby | 追ってきた町民 |
-| avg_npc_460_1 | 审判庭文员 | Inquisition Clerk | 忙しそうな町民 |
-|   | 年轻的教士 | Panicking Townsfolk | 慌てふためく町民 |
-|   | 惊疑不定的镇民 | Panicking Townsperson | 慌てる村人 |
-|   | 慌乱的镇民 | Panicky Villager | 慌てる町民 |
-|   | 慌张的村民 | Tense Townsperson | 戸惑う町民 |
-|   | 慌张的镇民 | Terrified Townsperson | 若い宣教師 |
-|   | 紧张的镇民 | Young Priest | 裁判所事務員 |
+|   | 瑟缩的平民 | Nihilistic Townsperson | 用心深い町民 |
+|   | 紧张的平民 | Pursuing Townsfolk | 蔑む通行人 |
+|   | 茫然的镇民 | Scoffing Passerby | 追ってきた町民 |
+|   | 警惕的镇民 |   |   |
+|   | 追来的镇民 |   |   |
+| avg_npc_460_1 | 城镇居民C | Inquisition Clerk | 忙しそうな町民 |
+|   | 审判庭文员 | Panicking Townsfolk | 慌てふためく町民 |
+|   | 年轻的教士 | Panicking Townsperson | 慌てる村人 |
+|   | 惊疑不定的镇民 | Panicky Villager | 慌てる町民 |
+|   | 慌乱的镇民 | Tense Townsperson | 戸惑う町民 |
+|   | 慌张的村民 | Terrified Townsperson | 若い宣教師 |
+|   | 慌张的镇民 | Young Priest | 裁判所事務員 |
+|   | 游行的男性 |   |   |
+|   | 紧张的镇民 |   |   |
 | avg_npc_461_1 | “平凡”的镇民 | 'Ordinary' Townsperson | 「平凡」な町民 |
-|   | 修复师 | Calm Townsperson | 修復師 |
-|   | 冷静的镇民 | Curious Passerby | 冷静な町民 |
-|   | 好奇的路人 | Restorationist | 恐れる村人 |
-|   | 恐惧的村民 | Terrified Villager | 興味津々な通行人 |
+|   | 不安的平民 | Calm Townsperson | 修復師 |
+|   | 修复师 | Curious Passerby | 冷静な町民 |
+|   | 冷静的镇民 | Restorationist | 恐れる村人 |
+|   | 好奇的路人 | Terrified Villager | 興味津々な通行人 |
+|   | 恐惧的村民 |   |   |
+|   | 洒脱的路人 |   |   |
 | avg_npc_462_1 | 友善的村民 | Excitable Townsfolk | 友好的な村人 |
-|   | 帮忙的镇民 | Friendly Villager | 手伝う町民 |
-|   | 松懈的镇民 | Helping Townsfolk | 積極的な町民 |
-|   | 积极的镇民 | Indiscreet Townsfolk | 警戒心の薄い町民 |
+|   | 城镇居民D | Friendly Villager | 手伝う町民 |
+|   | 帮忙的镇民 | Helping Townsfolk | 積極的な町民 |
+|   | 松懈的镇民 | Indiscreet Townsfolk | 警戒心の薄い町民 |
+|   | 积极的镇民 |   |   |
 | avg_npc_463_1 | 罗辛南特 | Rocinante | ロシナンテ |
 | avg_npc_482_1 | 白垩 | Kreide | クライデ |
 | avg_npc_483_1 | 白垩 | Kreide | クライデ |
@@ -4667,6 +4746,7 @@ tip: 请善用浏览器的搜索功能
 |   | 神经质的感染者 | Rule-Abiding Instructor | 興奮する感染者 |
 |   | 蛮横的感染者 | Schneider | 貴族の侍従 |
 |   | 贵族侍从 | Skittish Infected | 酔っぱらった感染者 |
+|   | 路过的乐团成员 |   |   |
 |   | 迟疑的感染者 |   |   |
 |   | 醉酒的感染者 |   |   |
 |   | 颓废的感染者 |   |   |
@@ -4880,12 +4960,15 @@ tip: 请善用浏览器的搜索功能
 |   | 六十七 |   |   |
 |   | 迷路的乌云兽 |   |   |
 | avg_npc_600_1 | 叙拉古家族成员 | Anguished Man | シラクーザマフィア |
-|   | 痛苦的男人 | Siracusan Mafioso | 苦しそうな男 |
+|   | 激动的洛卡家族成员 | Siracusan Mafioso | 苦しそうな男 |
+|   | 痛苦的男人 |   |   |
+|   | 粗暴的洛卡家族成员 |   |   |
 | avg_npc_601_1 | 可疑的叙拉古游客 | Burly Man | スラム街の青年 |
-|   | 强壮的男人 | Impoverished Young Man | リントンの腹心 |
-|   | 林顿的心腹 | Layton's Henchman | 大柄な男 |
-|   | 老板 | Muscular Man | 屈強な男 |
-|   | 贫民区青年 | Suspicious Siracusan Tourist | 怪しいシラクーザ人 |
+|   | 嚣张的洛卡家族成员 | Impoverished Young Man | リントンの腹心 |
+|   | 强壮的男人 | Layton's Henchman | 大柄な男 |
+|   | 林顿的心腹 | Muscular Man | 屈強な男 |
+|   | 老板 | Suspicious Siracusan Tourist | 怪しいシラクーザ人 |
+|   | 贫民区青年 |   |   |
 |   | 魁梧的男人 |   |   |
 | avg_npc_602_1 | 年迈的循兽 | - | - |
 |   | 扬尼 |   |   |
@@ -4959,18 +5042,20 @@ tip: 请善用浏览器的搜索功能
 |   | 达维德 |   |   |
 | avg_npc_661_1 | 伊尔莎 | Curious Girl | むっとする子供 |
 |   | 农民 | Disgusted Child | ホープ |
-|   | 天真的孩子 | Enthusiastic Student | マデリーン |
-|   | 好奇的孩子 | Farmer | 囃し立てる生徒 |
-|   | 安 | Hollering Student | 嫌がる子供 |
-|   | 小藿普 | Hope | 嫌そうな表情の子供 |
-|   | 排斥的孩童 | Innocent Child | 明るい生徒 |
-|   | 暴君 | Madeline | 暴君 |
-|   | 村民的孩子 | Old Man | 村人の子ども |
-|   | 沉着的孩子 | Repulsed Child | 無邪気な子供 |
-|   | 满脸厌恶的孩子 | Sulking Child | 老人 |
-|   | 热情的学生 | Timid Child | 臆病な子供 |
-|   | 玛德琳 | Tyrant | 興味津々の子供 |
-|   | 生闷气的孩子 | Villager's Child | 農民 |
+|   | 夜烟/小柏莎 | Enthusiastic Student | マデリーン |
+|   | 天真的孩子 | Farmer | 囃し立てる生徒 |
+|   | 好奇的孩子 | Hollering Student | 嫌がる子供 |
+|   | 安 | Hope | 嫌そうな表情の子供 |
+|   | 小柏莎 | Innocent Child | 明るい生徒 |
+|   | 小藿普 | Madeline | 暴君 |
+|   | 排斥的孩童 | Old Man | 村人の子ども |
+|   | 暴君 | Repulsed Child | 無邪気な子供 |
+|   | 村民的孩子 | Sulking Child | 老人 |
+|   | 沉着的孩子 | Timid Child | 臆病な子供 |
+|   | 满脸厌恶的孩子 | Tyrant | 興味津々の子供 |
+|   | 热情的学生 | Villager's Child | 農民 |
+|   | 玛德琳 |   |   |
+|   | 生闷气的孩子 |   |   |
 |   | 老人 |   |   |
 |   | 胆怯的孩子 |   |   |
 |   | 衣衫褴褛的少女 |   |   |
@@ -5006,7 +5091,8 @@ tip: 请善用浏览器的搜索功能
 |   | 揽活的摄影师 | Photographer | 感染者マウロ |
 |   | 港口工人 | Port Worker | 港の労働者 |
 |   | 糕点店店主 | Sad Citizen | 緊張した通行人 |
-|   | 紧张的路人 | Terrified Waiter | 運転手 |
+|   | 紧张的家族成员 | Terrified Waiter | 運転手 |
+|   | 紧张的路人 |   |   |
 |   | 鲁珀 |   |   |
 | avg_npc_697_1 | 书记员 | Calm Technician | コミュニティの住民 |
 |   | 冷静的技术人员 | City Hall Staff | シティホール職員 |
@@ -5014,14 +5100,18 @@ tip: 请善用浏览器的搜索功能
 |   | 小镇“法官” | Community Resident | 冷静なエンジニア |
 |   | 小镇法官 | Court Clerk | 医師 |
 |   | 市政厅职员 | Flustered Government Clerk | 慌てる政府職員 |
-|   | 慌张的政府职员 | Government Clerk | 政府職員 |
-|   | 政府职员 | Kindly Neighbor | 書記官 |
-|   | 法院职员 | Private Physician | 町の「裁判官」 |
-|   | 社区居民 | Rossati Mafioso | 町の裁判官 |
-|   | 私人医生 | Town 'Judge' | 職員テレサ |
-|   | 罗塞蒂家族成员 | Town Judge | 裁判所の職員 |
-|   | 职员特丽莎 |   | 親切な隣人 |
+|   | 惊惶的女主人 | Government Clerk | 政府職員 |
+|   | 惊慌的女主人 | Kindly Neighbor | 書記官 |
+|   | 慌张的政府职员 | Private Physician | 町の「裁判官」 |
+|   | 政府职员 | Rossati Mafioso | 町の裁判官 |
+|   | 法院职员 | Town 'Judge' | 職員テレサ |
+|   | 社区居民 | Town Judge | 裁判所の職員 |
+|   | 私人医生 |   | 親切な隣人 |
+|   | 罗塞蒂家族成员 |   |   |
+|   | 职员特丽莎 |   |   |
 |   | 莱蒂齐亚 |   |   |
+|   | 马塞尔 |   |   |
+|   | 马赛拉 |   |   |
 | avg_npc_698_1 | 嚣张的家族成员 | Angry Mafioso | サルッツォの構成員 |
 |   | 多疑的家族成员 | Arrogant Mafioso | サルッツォの用心棒 |
 |   | 家族成员 | Bellone Bodyguard | ベッローネの構成員 |
@@ -5070,8 +5160,9 @@ tip: 请善用浏览器的搜索功能
 |   | 托马索 | Judge's Assistant | 強情なパートナー |
 |   | 法官助理 | Meticulous Man | 快活なエンジニア |
 |   | 活泼的技术人员 | Obstinate Partner | 悲し気な男 |
-|   | 爱干净的男人 | Sad Man | 管理人 |
-|   | 犟嘴的合伙人 | Undercover Officer A | 裁判官補佐 |
+|   | 热情的店主 | Sad Man | 管理人 |
+|   | 爱干净的男人 | Undercover Officer A | 裁判官補佐 |
+|   | 犟嘴的合伙人 |   |   |
 |   | 调度员 |   |   |
 | avg_npc_702_1 | 伪装的警察B | Fearful Waiter | 変装した警察官B |
 |   | 护士 | Judge's Assistant | 看護師 |
@@ -5385,9 +5476,10 @@ tip: 请善用浏览器的搜索功能
 | avg_npc_940_1 | 修道院居民 | Julian | ジュリアン |
 |   | 受惊吓的居民 | Monastery Inhabitant | 修道院住民 |
 |   | 朱利安 | Startled Inhabitant | 驚く住民 |
-| avg_npc_941_1 | 奥卢斯 | Aulus | アウルス |
-|   | 好心的路人 | Gentle Priest | 穏やかな宣教師 |
-|   | 温和的教士 | Kind Passerby | 親切な通行人 |
+| avg_npc_941_1 | “导师” | Aulus | アウルス |
+|   | 奥卢斯 | Gentle Priest | 穏やかな宣教師 |
+|   | 好心的路人 | Kind Passerby | 親切な通行人 |
+|   | 温和的教士 |   |   |
 | avg_npc_942_1 | 泥岩 | Mudrock | マドロック |
 | avg_npc_962_1 | 亡寒战士 | Colddeath Warrior | サヤケヤキ |
 |   | 冰原居民A | Icefield Inhabitant A | サーミの戦士 |

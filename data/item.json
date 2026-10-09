@@ -1012,6 +1012,9 @@
   "RandomSkinbox_4": {
     "zh_CN": "时装回顾展·IV"
   },
+  "RandomSkinbox_5": {
+    "zh_CN": "时装回顾展·V"
+  },
   "RandomSkinbox_arkhub_1": {
     "zh_CN": "奇象时装回顾展"
   },
@@ -1062,6 +1065,12 @@
   },
   "SINGLE_75_0_1_GACHA_10": {
     "zh_CN": "确定性混沌十连寻访凭证"
+  },
+  "SINGLE_78_0_1_GACHA": {
+    "zh_CN": "海渊巡游寻访凭证"
+  },
+  "SINGLE_78_0_1_GACHA_10": {
+    "zh_CN": "海渊巡游十连寻访凭证"
   },
   "SOCIAL_PT": {
     "en_US": "Credit",
@@ -2068,6 +2077,9 @@
   },
   "act51side_token_poem": {
     "zh_CN": "破碎诗行"
+  },
+  "act52side_token_scope": {
+    "zh_CN": "“未来瞻望镜”"
   },
   "act53side_token_photo": {
     "zh_CN": "沿途的点滴"
@@ -4945,6 +4957,9 @@
     "ja_JP": "ロスモンティスの印",
     "zh_CN": "迷迭香的信物"
   },
+  "p_char_393_toledo": {
+    "zh_CN": "德·托莱多的信物"
+  },
   "p_char_394_hadiya": {
     "zh_CN": "哈蒂娅的信物"
   },
@@ -5618,6 +5633,12 @@
   },
   "p_char_4230_mcnist": {
     "zh_CN": "机械师的信物"
+  },
+  "p_char_4231_clemnt": {
+    "zh_CN": "克莱门莎的信物"
+  },
+  "p_char_4232_hbound": {
+    "zh_CN": "旅骨的信物"
   },
   "p_char_4234_pedro": {
     "zh_CN": "佩德洛的信物"

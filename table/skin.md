@@ -59,6 +59,7 @@ tip: 请善用浏览器的搜索功能
 | char_103_angel@wild#1 | 野地秘行 | Wild Operation | 荒野潜行 |
 | char_1040_blaze2@winter#5 | 夜归人 | - | - |
 | char_1041_angel2@iteration#6 | 寻翼之歌 | - | - |
+| char_1042_phatm2@sightseer#4 | 真我自扼 | - | - |
 | char_1043_leizi2@game#8 | 血翼蔷薇 | - | - |
 | char_1044_hsgma2@whirlwind#11 | 一闪极意 | - | - |
 | char_1046_sbell2@ambienceSynesthesia#8 | 曙光祝颂 | - | - |
@@ -146,6 +147,7 @@ tip: 请善用浏览器的搜索功能
 | char_190_clour@epoque#43 | 玩伴 | Playfellows | 遊び相手 |
 | char_192_falco@marthe#6 | 从容时刻 | Easy Time | イージータイム |
 | char_193_frostl@boc#4 | 破冰 | Breaking the Ice | 砕氷 |
+| char_194_leto@sightseer#4 | 来日欢歌 | - | - |
 | char_195_glassb@kitchen#1 | 书味 | Bibliosmia | 書の味わい |
 | char_196_sunbr@summer#1 | 夏卉 FA011 | Summer Flowers FA011 | 夏の花弁FA011 |
 | char_197_poca@epoque#12 | 杰作 | Masterpiece | 傑作 |
@@ -457,6 +459,7 @@ tip: 请善用浏览器的搜索功能
 | char_4198_christ@epoque#56 | 底绒舞会 | - | - |
 | char_4199_makiri@sale#19 | 暮时宝光 | - | - |
 | char_4202_haruka@iteration#6 | 常世之幻 | - | - |
+| char_4204_mantra@sightseer#4 | 万籁俱寂 | - | - |
 | char_4207_branch@yun#10 | 撷香霭 | - | - |
 | char_420_flamtl@game#2 | 小健将 | Sport For All | サイバー闘技者 |
 | char_4215_buddy@mh#2 | 露营时间喵！ | - | - |

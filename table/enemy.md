@@ -426,8 +426,25 @@ tip: 请善用浏览器的搜索功能
 | enemy_10210_muwiz | 乌萨斯战争术师 | - | - |
 | enemy_10210_muwiz_2 | 乌萨斯战争术师 | - | - |
 | enemy_10211_murad | 泄漏源 | - | - |
+| enemy_10212_klhz | 塑能基质 | - | - |
+| enemy_10213_klbm | 远航灯 | - | - |
+| enemy_10213_klbm_2 | “远海遗声”灯 | - | - |
+| enemy_10214_klgn | 训练用手弩 | - | - |
+| enemy_10214_klgn_2 | “驯服大海”弩 | - | - |
+| enemy_10215_klhjd | 三曲足仪仗盾 | - | - |
+| enemy_10215_klhjd_2 | “永恒奔跑”仪仗盾 | - | - |
+| enemy_10216_kltwhp | 迎宾花瓶 | - | - |
+| enemy_10216_kltwhp_2 | “千帆来朝”花瓶 | - | - |
+| enemy_10217_klljs | 禁术学徒 | - | - |
+| enemy_10217_klljs_2 | 老练禁术学徒 | - | - |
+| enemy_10218_klxl | 忏悔香炉 | - | - |
+| enemy_10218_klxl_2 | “心诚则灵”香炉 | - | - |
+| enemy_10219_klhjdd | 空盔甲 | - | - |
+| enemy_10219_klhjdd_2 | 戴罪空盔甲 | - | - |
 | enemy_1021_bslime | 高能源石虫 | Infused Originium Slug | バクダンムシ |
 | enemy_1021_bslime_2 | 高能源石虫·α | Infused Originium Slug α | バクダンムシα |
+| enemy_10220_kljbp | 炼金术师净手盆 | - | - |
+| enemy_10220_kljbp_2 | “至伟之术”净手盆 | - | - |
 | enemy_10221_agporc | 戴面具的孩童 | - | - |
 | enemy_10221_agporc_2 | 入戏太深的孩童 | - | - |
 | enemy_10222_agtski | 凑热闹的矿工 | - | - |
@@ -1338,6 +1355,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_1591_mutwin | AMa-10异构体 | - | - |
 | enemy_1591_mutwin_2 | AMa-10异构体 | - | - |
 | enemy_1593_musnake | “终始” | - | - |
+| enemy_1594_presaint | 圣徒瓦列里奥 | - | - |
 | enemy_1595_agbmes | “酣睡飞行员” | - | - |
 | enemy_1596_agbmal | “超惊喜信件” | - | - |
 | enemy_17001_wmshp | 风情街“飘游客” | - | - |

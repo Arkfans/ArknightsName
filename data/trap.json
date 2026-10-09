@@ -2111,11 +2111,20 @@
   "trap_330_ycwang": {
     "zh_CN": "演出望"
   },
+  "trap_331_spksum": {
+    "zh_CN": "基质合成台"
+  },
+  "trap_332_blkcan": {
+    "zh_CN": "不甘的火"
+  },
   "trap_334_agmbox": {
     "zh_CN": "邮箱"
   },
   "trap_335_totalattack": {
     "zh_CN": "全场总攻击"
+  },
+  "trap_338_almytw": {
+    "zh_CN": "能量束发生台"
   },
   "trap_339_tchray": {
     "zh_CN": "“再度绽放”"

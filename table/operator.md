@@ -229,6 +229,7 @@ tip: 请善用浏览器的搜索功能
 | char_385_finlpp | 清流 | Purestream | セイリュウ |
 | char_388_mint | 薄绿 | Mint | ミント |
 | char_391_rosmon | 迷迭香 | Rosmontis | ロスモンティス |
+| char_393_toledo | 德·托莱多 | - | - |
 | char_394_hadiya | 哈蒂娅 | - | - |
 | char_4000_jnight | 正义骑士号 | 'Justice Knight' | ジャスティスナイト |
 | char_4004_pudd | 布丁 | Pudding | プリン |
@@ -382,6 +383,8 @@ tip: 请善用浏览器的搜索功能
 | char_4229_aphris | 谬因 | - | - |
 | char_422_aurora | 极光 | Aurora | オーロラ |
 | char_4230_mcnist | 机械师 | - | - |
+| char_4231_clemnt | 克莱门莎 | - | - |
+| char_4232_hbound | 旅骨 | - | - |
 | char_4234_pedro | 佩德洛 | - | - |
 | char_4235_thumpy | 珊比 | - | - |
 | char_4236_tmslot | 时隙 | - | - |

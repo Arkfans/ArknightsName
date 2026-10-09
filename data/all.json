@@ -1765,6 +1765,12 @@
       "zh_CN": "迷迭香"
     }
   },
+  "char_393_toledo": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "德·托莱多"
+    }
+  },
   "char_394_hadiya": {
     "type": "OPERATOR",
     "names": {
@@ -2911,6 +2917,18 @@
     "type": "OPERATOR",
     "names": {
       "zh_CN": "机械师"
+    }
+  },
+  "char_4231_clemnt": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "克莱门莎"
+    }
+  },
+  "char_4232_hbound": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "旅骨"
     }
   },
   "char_4234_pedro": {
@@ -4071,6 +4089,12 @@
     "type": "TOKEN",
     "names": {
       "zh_CN": "指挥中心"
+    }
+  },
+  "token_10067_toledo_tldptm": {
+    "type": "TOKEN",
+    "names": {
+      "zh_CN": "征服者传说"
     }
   },
   "token_10068_kalts2_mtship": {
@@ -7759,6 +7783,18 @@
       "zh_CN": "演出望"
     }
   },
+  "trap_331_spksum": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "基质合成台"
+    }
+  },
+  "trap_332_blkcan": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "不甘的火"
+    }
+  },
   "trap_334_agmbox": {
     "type": "TRAP",
     "names": {
@@ -7769,6 +7805,12 @@
     "type": "TRAP",
     "names": {
       "zh_CN": "全场总攻击"
+    }
+  },
+  "trap_338_almytw": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "能量束发生台"
     }
   },
   "trap_339_tchray": {
@@ -10517,6 +10559,12 @@
       "zh_CN": "寻翼之歌"
     }
   },
+  "char_1042_phatm2@sightseer#4": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "真我自扼"
+    }
+  },
   "char_1043_leizi2@game#8": {
     "type": "SKIN",
     "names": {
@@ -11187,6 +11235,12 @@
       "en_US": "Breaking the Ice",
       "ja_JP": "砕氷",
       "zh_CN": "破冰"
+    }
+  },
+  "char_194_leto@sightseer#4": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "来日欢歌"
     }
   },
   "char_195_glassb@kitchen#1": {
@@ -13541,6 +13595,12 @@
     "type": "SKIN",
     "names": {
       "zh_CN": "常世之幻"
+    }
+  },
+  "char_4204_mantra@sightseer#4": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "万籁俱寂"
     }
   },
   "char_4207_branch@yun#10": {
@@ -17203,6 +17263,96 @@
       "zh_CN": "泄漏源"
     }
   },
+  "enemy_10212_klhz": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "塑能基质"
+    }
+  },
+  "enemy_10213_klbm": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "远航灯"
+    }
+  },
+  "enemy_10213_klbm_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“远海遗声”灯"
+    }
+  },
+  "enemy_10214_klgn": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "训练用手弩"
+    }
+  },
+  "enemy_10214_klgn_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“驯服大海”弩"
+    }
+  },
+  "enemy_10215_klhjd": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "三曲足仪仗盾"
+    }
+  },
+  "enemy_10215_klhjd_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“永恒奔跑”仪仗盾"
+    }
+  },
+  "enemy_10216_kltwhp": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "迎宾花瓶"
+    }
+  },
+  "enemy_10216_kltwhp_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“千帆来朝”花瓶"
+    }
+  },
+  "enemy_10217_klljs": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "禁术学徒"
+    }
+  },
+  "enemy_10217_klljs_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "老练禁术学徒"
+    }
+  },
+  "enemy_10218_klxl": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "忏悔香炉"
+    }
+  },
+  "enemy_10218_klxl_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“心诚则灵”香炉"
+    }
+  },
+  "enemy_10219_klhjdd": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "空盔甲"
+    }
+  },
+  "enemy_10219_klhjdd_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "戴罪空盔甲"
+    }
+  },
   "enemy_1021_bslime": {
     "type": "ENEMY",
     "names": {
@@ -17217,6 +17367,18 @@
       "en_US": "Infused Originium Slug α",
       "ja_JP": "バクダンムシα",
       "zh_CN": "高能源石虫·α"
+    }
+  },
+  "enemy_10220_kljbp": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "炼金术师净手盆"
+    }
+  },
+  "enemy_10220_kljbp_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“至伟之术”净手盆"
     }
   },
   "enemy_10221_agporc": {
@@ -24369,6 +24531,12 @@
       "zh_CN": "“终始”"
     }
   },
+  "enemy_1594_presaint": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "圣徒瓦列里奥"
+    }
+  },
   "enemy_1595_agbmes": {
     "type": "ENEMY",
     "names": {
@@ -29516,6 +29684,12 @@
       "zh_CN": "提线人偶的迎宾礼签到活动"
     }
   },
+  "act52side": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "昨日海"
+    }
+  },
   "act52sign": {
     "type": "ACTIVITY",
     "names": {
@@ -31942,6 +32116,12 @@
       "zh_CN": "时装回顾展·IV"
     }
   },
+  "RandomSkinbox_5": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "时装回顾展·V"
+    }
+  },
   "RandomSkinbox_arkhub_1": {
     "type": "ITEM",
     "names": {
@@ -32030,6 +32210,18 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "确定性混沌十连寻访凭证"
+    }
+  },
+  "SINGLE_78_0_1_GACHA": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "海渊巡游寻访凭证"
+    }
+  },
+  "SINGLE_78_0_1_GACHA_10": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "海渊巡游十连寻访凭证"
     }
   },
   "SOCIAL_PT": {
@@ -33729,6 +33921,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "破碎诗行"
+    }
+  },
+  "act52side_token_scope": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "“未来瞻望镜”"
     }
   },
   "act53side_token_photo": {
@@ -38455,6 +38653,12 @@
       "zh_CN": "迷迭香的信物"
     }
   },
+  "p_char_393_toledo": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "德·托莱多的信物"
+    }
+  },
   "p_char_394_hadiya": {
     "type": "ITEM",
     "names": {
@@ -39577,6 +39781,18 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "机械师的信物"
+    }
+  },
+  "p_char_4231_clemnt": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "克莱门莎的信物"
+    }
+  },
+  "p_char_4232_hbound": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "旅骨的信物"
     }
   },
   "p_char_4234_pedro": {
@@ -43221,6 +43437,12 @@
       "zh_CN": "永不落幕"
     }
   },
+  "SINGLE_78_0_1": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "海渊巡游"
+    }
+  },
   "SPECIAL_54_0_5": {
     "type": "POOL",
     "names": {
@@ -45780,6 +46002,24 @@
       "zh_CN": "我无"
     }
   },
+  "skchr_clemnt_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "冲蚀"
+    }
+  },
+  "skchr_clemnt_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "风暴潮"
+    }
+  },
+  "skchr_clemnt_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "与海为敌"
+    }
+  },
   "skchr_closur_1": {
     "type": "SKILL",
     "names": {
@@ -46950,6 +47190,18 @@
       "en_US": "Nurturing Touch",
       "ja_JP": "業の救済",
       "zh_CN": "抚业之触"
+    }
+  },
+  "skchr_hbound_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "触礁"
+    }
+  },
+  "skchr_hbound_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "座浅"
     }
   },
   "skchr_headb2_1": {
@@ -50452,6 +50704,18 @@
       "en_US": "Portable Fortcracker Arrows",
       "ja_JP": "携帯破城矢",
       "zh_CN": "便携破城矢"
+    }
+  },
+  "skchr_toledo_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "以假乱真"
+    }
+  },
+  "skchr_toledo_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "危言耸听"
     }
   },
   "skchr_tomimi_1": {
@@ -55996,6 +56260,12 @@
       "zh_CN": "巫术弩炮"
     }
   },
+  "sktok_spksum_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "基质合成台"
+    }
+  },
   "sktok_stdurk_1": {
     "type": "SKILL",
     "names": {
@@ -56206,6 +56476,12 @@
     "type": "SKILL",
     "names": {
       "zh_CN": "维生监测"
+    }
+  },
+  "sktok_toledo": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "征服者传说"
     }
   },
   "sktok_toolgarage": {
@@ -66738,6 +67014,78 @@
       "zh_CN": "卑劣与繁荣"
     }
   },
+  "act52side_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "互助会"
+    }
+  },
+  "act52side_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "浮浮沉沉"
+    }
+  },
+  "act52side_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "破手铐"
+    }
+  },
+  "act52side_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "走上街道"
+    }
+  },
+  "act52side_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "三岔路口"
+    }
+  },
+  "act52side_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "大人物"
+    }
+  },
+  "act52side_07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "殉葬品"
+    }
+  },
+  "act52side_08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "鳞的记忆"
+    }
+  },
+  "act52side_st01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "羽兽盘旋"
+    }
+  },
+  "act52side_st02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "海声嘈杂"
+    }
+  },
+  "act52side_st03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "留给明天"
+    }
+  },
+  "act52side_tr01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "炼金术遗产考察"
+    }
+  },
   "act53side_01": {
     "type": "STAGE",
     "names": {
@@ -74798,6 +75146,18 @@
       "zh_CN": "踏入新生黎明"
     }
   },
+  "act52side_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "雷亚-伊比利亚"
+    }
+  },
+  "act52side_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "“我们的伊比利亚”"
+    }
+  },
   "act53side_zone1": {
     "type": "ZONE",
     "names": {
@@ -76778,6 +77138,12 @@
       "zh_CN": "蓝调"
     }
   },
+  "story_demetr_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "一个没有家主的家族"
+    }
+  },
   "story_demkni_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -77608,6 +77974,12 @@
       "zh_CN": "捉迷藏"
     }
   },
+  "story_liesel_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "春日序曲"
+    }
+  },
   "story_lin_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -77928,6 +78300,12 @@
       "en_US": "'Kitties'",
       "ja_JP": "「ネコちゃん」",
       "zh_CN": "“猫猫”"
+    }
+  },
+  "story_nights_set_2_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "女巫夜话"
     }
   },
   "story_noirc_set_1_story_1": {
@@ -78814,6 +79192,12 @@
       "en_US": "Desert Rainbow",
       "ja_JP": "砂漠にかかる虹",
       "zh_CN": "沙漠之虹"
+    }
+  },
+  "story_udflow_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "X103号模块"
     }
   },
   "story_utage_set_1_story_1": {

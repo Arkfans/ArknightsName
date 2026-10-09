@@ -220,6 +220,7 @@ tip: 请善用浏览器的搜索功能
 | RandomSkinbox_2 | 时装回顾展·II | - | - |
 | RandomSkinbox_3 | 时装回顾展·III | - | - |
 | RandomSkinbox_4 | 时装回顾展·IV | - | - |
+| RandomSkinbox_5 | 时装回顾展·V | - | - |
 | RandomSkinbox_arkhub_1 | 奇象时装回顾展 | - | - |
 | SINGLE_49_0_1_GACHA | 如死亦终寻访凭证 | Like Ending Like Death Headhunting Permit | イベントスカウト券 |
 | SINGLE_49_0_1_GACHA_10 | 如死亦终十连寻访凭证 | Like Ending Like Death Ten-roll Headhunting Permit | イベント10回スカウト券 |
@@ -233,6 +234,8 @@ tip: 请善用浏览器的搜索功能
 | SINGLE_72_0_1_GACHA_10 | 辟路之人十连寻访凭证 | - | - |
 | SINGLE_75_0_1_GACHA | 确定性混沌寻访凭证 | - | - |
 | SINGLE_75_0_1_GACHA_10 | 确定性混沌十连寻访凭证 | - | - |
+| SINGLE_78_0_1_GACHA | 海渊巡游寻访凭证 | - | - |
+| SINGLE_78_0_1_GACHA_10 | 海渊巡游十连寻访凭证 | - | - |
 | SOCIAL_PT | 信用 | Credit | FP |
 | STORY_REVIEW_COIN | 事相碎片 | Information Fragments | 事象の欠片 |
 | act10d5_token_biscuit | 彼得海姆热销饼干 | Best-selling Peterheim Cookies | ぺテルヘイムクッキー |
@@ -466,6 +469,7 @@ tip: 请善用浏览器的搜索功能
 | act50side_monster_clue_9 | 怪物线索9 | - | - |
 | act50side_special_level_unlock | 群兽入侵 | - | - |
 | act51side_token_poem | 破碎诗行 | - | - |
+| act52side_token_scope | “未来瞻望镜” | - | - |
 | act53side_token_photo | 沿途的点滴 | - | - |
 | act54side_token_tape | 旧磁带 | - | - |
 | act5bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
@@ -1082,6 +1086,7 @@ tip: 请善用浏览器的搜索功能
 | p_char_385_finlpp | 清流的信物 | Purestream's Token | セイリュウの印 |
 | p_char_388_mint | 薄绿的信物 | Mint's Token | ミントの印 |
 | p_char_391_rosmon | 迷迭香的信物 | Rosmontis' Token | ロスモンティスの印 |
+| p_char_393_toledo | 德·托莱多的信物 | - | - |
 | p_char_394_hadiya | 哈蒂娅的信物 | - | - |
 | p_char_4000_jnight | 正义骑士号的信物 | Justice Knight's Token | ジャスティスナイトの印 |
 | p_char_4004_pudd | 布丁的信物 | Pudding's Token | プリンの印 |
@@ -1232,6 +1237,8 @@ tip: 请善用浏览器的搜索功能
 | p_char_4229_aphris | 谬因的信物 | - | - |
 | p_char_422_aurora | 极光的信物 | Aurora's Token | オーロラの印 |
 | p_char_4230_mcnist | 机械师的信物 | - | - |
+| p_char_4231_clemnt | 克莱门莎的信物 | - | - |
+| p_char_4232_hbound | 旅骨的信物 | - | - |
 | p_char_4234_pedro | 佩德洛的信物 | - | - |
 | p_char_4235_thumpy | 珊比的信物 | - | - |
 | p_char_4236_tmslot | 时隙的信物 | - | - |

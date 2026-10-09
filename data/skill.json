@@ -963,6 +963,15 @@
     "ja_JP": "我無",
     "zh_CN": "我无"
   },
+  "skchr_clemnt_1": {
+    "zh_CN": "冲蚀"
+  },
+  "skchr_clemnt_2": {
+    "zh_CN": "风暴潮"
+  },
+  "skchr_clemnt_3": {
+    "zh_CN": "与海为敌"
+  },
   "skchr_closur_1": {
     "zh_CN": "递归策略"
   },
@@ -1681,6 +1690,12 @@
     "en_US": "Nurturing Touch",
     "ja_JP": "業の救済",
     "zh_CN": "抚业之触"
+  },
+  "skchr_hbound_1": {
+    "zh_CN": "触礁"
+  },
+  "skchr_hbound_2": {
+    "zh_CN": "座浅"
   },
   "skchr_headb2_1": {
     "zh_CN": "誓不低头"
@@ -3815,6 +3830,12 @@
     "en_US": "Portable Fortcracker Arrows",
     "ja_JP": "携帯破城矢",
     "zh_CN": "便携破城矢"
+  },
+  "skchr_toledo_1": {
+    "zh_CN": "以假乱真"
+  },
+  "skchr_toledo_2": {
+    "zh_CN": "危言耸听"
   },
   "skchr_tomimi_1": {
     "en_US": "Tribal Techniques",
@@ -7108,6 +7129,9 @@
     "ja_JP": "巫術バリスタ",
     "zh_CN": "巫术弩炮"
   },
+  "sktok_spksum_1": {
+    "zh_CN": "基质合成台"
+  },
   "sktok_stdurk_1": {
     "en_US": "'Snap!'",
     "ja_JP": "｢カシャッ！｣",
@@ -7232,6 +7256,9 @@
   },
   "sktok_tnkspkb": {
     "zh_CN": "维生监测"
+  },
+  "sktok_toledo": {
+    "zh_CN": "征服者传说"
   },
   "sktok_toolgarage": {
     "en_US": "Self-Driving Cart, Forward!",

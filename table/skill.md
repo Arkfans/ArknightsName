@@ -207,6 +207,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_chyue_1 | 冲盈 | Abundant | 満盈 |
 | skchr_chyue_2 | 拂尘 | Whisk | 払塵 |
 | skchr_chyue_3 | 我无 | Anatta | 我無 |
+| skchr_clemnt_1 | 冲蚀 | - | - |
+| skchr_clemnt_2 | 风暴潮 | - | - |
+| skchr_clemnt_3 | 与海为敌 | - | - |
 | skchr_closur_1 | 递归策略 | - | - |
 | skchr_closur_2 | 模型扩展 | - | - |
 | skchr_closur_3 | Q.E.D. | - | - |
@@ -358,6 +361,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_haruka_2 | 幽隙栖萤 | - | - |
 | skchr_haruka_3 | 夏末游鳞 | - | - |
 | skchr_hbisc2_2 | 抚业之触 | Nurturing Touch | 業の救済 |
+| skchr_hbound_1 | 触礁 | - | - |
+| skchr_hbound_2 | 座浅 | - | - |
 | skchr_headb2_1 | 誓不低头 | - | - |
 | skchr_headb2_2 | 绝不罢休 | - | - |
 | skchr_headb2_3 | 无可抵挡 | - | - |
@@ -814,6 +819,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_tmslot_2 | 科技与传统仪式 | - | - |
 | skchr_toddi_1 | 信号矢 | Signal Arrow | 信号矢 |
 | skchr_toddi_2 | 便携破城矢 | Portable Fortcracker Arrows | 携帯破城矢 |
+| skchr_toledo_1 | 以假乱真 | - | - |
+| skchr_toledo_2 | 危言耸听 | - | - |
 | skchr_tomimi_1 | 部族技艺 | Tribal Techniques | 部族の教え |
 | skchr_tomimi_2 | 嘉维尔保护方案 | Gavial's Protection Plan | ガヴィル保護プラン |
 | skchr_totter_1 | 贯日 | Sunpiercer | 貫日の一射 |
@@ -1564,6 +1571,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_sniperb | 空域控制 | Airspace Control | 空域支配 |
 | sktok_spawnp | 协同指令 | - | - |
 | sktok_spblls | 巫术弩炮 | Witchcraft Ballista | 巫術バリスタ |
+| sktok_spksum_1 | 基质合成台 | - | - |
 | sktok_stdurk_1 | “咔嚓！” | 'Snap!' | ｢カシャッ！｣ |
 | sktok_stmbot | 水汽汽水瓶 | Steam Soda Bottle | スチームサイダー |
 | sktok_stmpq | 景观喷泉 | Decorative Geyser | 景観噴水 |
@@ -1593,6 +1601,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_tnkspk | 反制装甲 | - | - |
 | sktok_tnkspka | 微型尖刺 | - | - |
 | sktok_tnkspkb | 维生监测 | - | - |
+| sktok_toledo | 征服者传说 | - | - |
 | sktok_toolgarage | 自走车出击！ | Self-Driving Cart, Forward! | セルカー発進！ |
 | sktok_toolgun | 开火 | Open Fire | 発射 |
 | sktok_toolinvert | 撼动现实 | Warping Reality | 事象震動 |

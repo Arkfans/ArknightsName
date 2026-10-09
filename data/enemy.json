@@ -1700,6 +1700,51 @@
   "enemy_10211_murad": {
     "zh_CN": "泄漏源"
   },
+  "enemy_10212_klhz": {
+    "zh_CN": "塑能基质"
+  },
+  "enemy_10213_klbm": {
+    "zh_CN": "远航灯"
+  },
+  "enemy_10213_klbm_2": {
+    "zh_CN": "“远海遗声”灯"
+  },
+  "enemy_10214_klgn": {
+    "zh_CN": "训练用手弩"
+  },
+  "enemy_10214_klgn_2": {
+    "zh_CN": "“驯服大海”弩"
+  },
+  "enemy_10215_klhjd": {
+    "zh_CN": "三曲足仪仗盾"
+  },
+  "enemy_10215_klhjd_2": {
+    "zh_CN": "“永恒奔跑”仪仗盾"
+  },
+  "enemy_10216_kltwhp": {
+    "zh_CN": "迎宾花瓶"
+  },
+  "enemy_10216_kltwhp_2": {
+    "zh_CN": "“千帆来朝”花瓶"
+  },
+  "enemy_10217_klljs": {
+    "zh_CN": "禁术学徒"
+  },
+  "enemy_10217_klljs_2": {
+    "zh_CN": "老练禁术学徒"
+  },
+  "enemy_10218_klxl": {
+    "zh_CN": "忏悔香炉"
+  },
+  "enemy_10218_klxl_2": {
+    "zh_CN": "“心诚则灵”香炉"
+  },
+  "enemy_10219_klhjdd": {
+    "zh_CN": "空盔甲"
+  },
+  "enemy_10219_klhjdd_2": {
+    "zh_CN": "戴罪空盔甲"
+  },
   "enemy_1021_bslime": {
     "en_US": "Infused Originium Slug",
     "ja_JP": "バクダンムシ",
@@ -1709,6 +1754,12 @@
     "en_US": "Infused Originium Slug α",
     "ja_JP": "バクダンムシα",
     "zh_CN": "高能源石虫·α"
+  },
+  "enemy_10220_kljbp": {
+    "zh_CN": "炼金术师净手盆"
+  },
+  "enemy_10220_kljbp_2": {
+    "zh_CN": "“至伟之术”净手盆"
   },
   "enemy_10221_agporc": {
     "zh_CN": "戴面具的孩童"
@@ -6144,6 +6195,9 @@
   },
   "enemy_1593_musnake": {
     "zh_CN": "“终始”"
+  },
+  "enemy_1594_presaint": {
+    "zh_CN": "圣徒瓦列里奥"
   },
   "enemy_1595_agbmes": {
     "zh_CN": "“酣睡飞行员”"

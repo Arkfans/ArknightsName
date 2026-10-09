@@ -455,6 +455,9 @@
     "ja_JP": "ブルース",
     "zh_CN": "蓝调"
   },
+  "story_demetr_set_1_story_1": {
+    "zh_CN": "一个没有家主的家族"
+  },
   "story_demkni_set_1_story_1": {
     "zh_CN": "沃土"
   },
@@ -961,6 +964,9 @@
     "ja_JP": "かくれんぼ",
     "zh_CN": "捉迷藏"
   },
+  "story_liesel_set_1_story_1": {
+    "zh_CN": "春日序曲"
+  },
   "story_lin_set_1_story_1": {
     "en_US": "Out with the Old, In with the New",
     "ja_JP": "新旧交わる時",
@@ -1159,6 +1165,9 @@
     "en_US": "'Kitties'",
     "ja_JP": "「ネコちゃん」",
     "zh_CN": "“猫猫”"
+  },
+  "story_nights_set_2_story_1": {
+    "zh_CN": "女巫夜话"
   },
   "story_noirc_set_1_story_1": {
     "en_US": "The Other Side of the Deck",
@@ -1697,6 +1706,9 @@
     "en_US": "Desert Rainbow",
     "ja_JP": "砂漠にかかる虹",
     "zh_CN": "沙漠之虹"
+  },
+  "story_udflow_set_1_story_1": {
+    "zh_CN": "X103号模块"
   },
   "story_utage_set_1_story_1": {
     "en_US": "The Game of Chic",

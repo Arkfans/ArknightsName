@@ -101,6 +101,7 @@ tip: 请善用浏览器的搜索功能
 | story_dagda_set_1_story_1 | 脚步不停 | How She Strode Onward | 止まらない歩み |
 | story_deepcl_set_1_story_1 | 幽蓝怀想 | Azure Memories | 深き青の追想 |
 | story_deepcl_set_2_story_1 | 蓝调 | Blue Notes | ブルース |
+| story_demetr_set_1_story_1 | 一个没有家主的家族 | - | - |
 | story_demkni_set_1_story_1 | 沃土 | - | - |
 | story_doberm_set_1_story_1 | 在玻利瓦尔以外 | - | - |
 | story_doroth_set_1_story_1 | 何处是我朋友的家 | Where is the Friend's House? | 友の故郷はいずこ |
@@ -209,6 +210,7 @@ tip: 请善用浏览器的搜索功能
 | story_leizi_set_1_story_1 | 司雷霆者 | One Who Controls Lightning | 雷を司る者 |
 | story_lessng_set_1_story_1 | 共同建设乌提卡领 | Building Urtica Together | 共にウルティカ領のために |
 | story_leto_set_1_story_1 | 捉迷藏 | Hide-and-Seek | かくれんぼ |
+| story_liesel_set_1_story_1 | 春日序曲 | - | - |
 | story_lin_set_1_story_1 | 新潮旧浪 | Out with the Old, In with the New | 新旧交わる時 |
 | story_ling_set_1_story_1 | 醒时梦长 | From a Long Dream Woken | 白日の酔夢 |
 | story_lionhd_set_1_story_1 | 暗境求生 | Living in Darkness | 暗闇の生還 |
@@ -250,6 +252,7 @@ tip: 请善用浏览器的搜索功能
 | story_nearl2_set_1_story_1 | 起点 | Starting Point | 起点 |
 | story_nian_set_1_story_1 | 千年一叹 | A Thousand Years in a Sigh | 千年一嘆 |
 | story_nights_set_1_story_1 | “猫猫” | 'Kitties' | 「ネコちゃん」 |
+| story_nights_set_2_story_1 | 女巫夜话 | - | - |
 | story_noirc_set_1_story_1 | 甲板另一侧 | The Other Side of the Deck | デッキの向こう側 |
 | story_nothin_set_1_story_1 | 落水人 | Drowning | 落水者 |
 | story_nowell_set_1_story_1 | 当我们人生开始时 | When Our Lives Began | 我らの人生が始まる時 |
@@ -366,6 +369,7 @@ tip: 请善用浏览器的搜索功能
 | story_totter_set_2_story_1 | 归乡 | Homecoming | 帰郷 |
 | story_turdus_set_1_story_1 | 号外！号外！ | - | - |
 | story_tuye_set_1_story_1 | 沙漠之虹 | Desert Rainbow | 砂漠にかかる虹 |
+| story_udflow_set_1_story_1 | X103号模块 | - | - |
 | story_utage_set_1_story_1 | 时髦把戏 | The Game of Chic | トレンディ・トリック |
 | story_utage_set_2_story_1 | 鵺切的故事 | - | - |
 | story_vendla_set_1_story_1 | 新东西 | - | - |

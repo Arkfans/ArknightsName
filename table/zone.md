@@ -263,6 +263,8 @@ tip: 请善用浏览器的搜索功能
 | act50side_zone2 | 踏破泡影 | - | - |
 | act51side_zone1 | 告别天真年代 | - | - |
 | act51side_zone2 | 踏入新生黎明 | - | - |
+| act52side_zone1 | 雷亚-伊比利亚 | - | - |
+| act52side_zone2 | “我们的伊比利亚” | - | - |
 | act53side_zone1 | 驶向大地尽头 | - | - |
 | act53side_zone2 | 踏上归家长途 | - | - |
 | act53side_zone3 | 眺望待行之路 | - | - |

@@ -1093,6 +1093,9 @@
     "ja_JP": "ロスモンティス",
     "zh_CN": "迷迭香"
   },
+  "char_393_toledo": {
+    "zh_CN": "德·托莱多"
+  },
   "char_394_hadiya": {
     "zh_CN": "哈蒂娅"
   },
@@ -1781,6 +1784,12 @@
   },
   "char_4230_mcnist": {
     "zh_CN": "机械师"
+  },
+  "char_4231_clemnt": {
+    "zh_CN": "克莱门莎"
+  },
+  "char_4232_hbound": {
+    "zh_CN": "旅骨"
   },
   "char_4234_pedro": {
     "zh_CN": "佩德洛"
