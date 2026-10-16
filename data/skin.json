@@ -189,6 +189,9 @@
     "ja_JP": "リズミックブロック",
     "zh_CN": "律动方格"
   },
+  "char_1033_swire2@nlc#1": {
+    "zh_CN": "盛世之象"
+  },
   "char_1034_jesca2@cfa#1": {
     "en_US": "'Ride to Davistown'",
     "ja_JP": "『デイヴィスタウンへ赴く』",
@@ -230,6 +233,9 @@
     "en_US": "Wild Operation",
     "ja_JP": "荒野潜行",
     "zh_CN": "野地秘行"
+  },
+  "char_1040_blaze2@nlc#1": {
+    "zh_CN": "夜行烛火"
   },
   "char_1040_blaze2@winter#5": {
     "zh_CN": "夜归人"
@@ -762,6 +768,9 @@
     "en_US": "Spring Feast",
     "ja_JP": "春日宴",
     "zh_CN": "春日宴"
+  },
+  "char_2025_shu@nlc#1": {
+    "zh_CN": "源远流长"
   },
   "char_2026_yu@nian#12": {
     "zh_CN": "愿清晓"

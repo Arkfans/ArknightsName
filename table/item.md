@@ -847,6 +847,7 @@ tip: 请善用浏览器的搜索功能
 | itempack_stickers_rog3 | 贴纸包/银凇止境 | - | - |
 | itempack_stickers_rog4 | 贴纸包/无终奇语 | - | - |
 | itempack_stickers_rog5 | 贴纸包/界园志异 | - | - |
+| itempack_stickers_rog6 | 贴纸包/黑流树海 | - | - |
 | itempack_stickers_sand1 | 贴纸包/沙洲遗闻 | - | - |
 | itempack_stickers_sand2 | 贴纸包/重启锚点 | - | - |
 | main16_spitem_1 | 暗淡的源石 | - | - |
@@ -1462,6 +1463,7 @@ tip: 请善用浏览器的搜索功能
 | uni_set_court | 叙拉古人家具收藏包 | Il Siracusano Furniture Pack | シラクザーノ家具パック |
 | uni_set_cultureroom | 孤星家具收藏包 | Lone Trail Furniture Pack | 孤星家具パック |
 | uni_set_darkForest_1 | 黑流印象家具收藏包一 | - | - |
+| uni_set_darkForest_2 | 黑流印象家具收藏包二 | - | - |
 | uni_set_fNearl | 玛莉娅·临光家具收藏包 | Maria Nearl Furniture Pack | マリア・ニアール家具パック |
 | uni_set_gardenFantasy_1 | 界园印象家具收藏包一 | - | - |
 | uni_set_gardenFantasy_2 | 界园印象家具收藏包二 | - | - |

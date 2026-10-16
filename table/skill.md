@@ -1539,10 +1539,15 @@ tip: 请善用浏览器的搜索功能
 | sktok_sensor | 反隐 | Detection | アンチステルス |
 | sktok_sglink | 纯净结晶 | Pure Crystal | 純粋結晶 |
 | sktok_sgray | 结晶消除桩 | Decrystallizing Totem | 結晶除去杭 |
+| sktok_shadvr | 布方 | - | - |
+| sktok_shadvr2 | 布方 | - | - |
+| sktok_shadvt | 太阳渴望鲜血！ | - | - |
+| sktok_shadvt2 | 太阳渴望鲜血！ | - | - |
 | sktok_shchst | “我的了！” | - | - |
 | sktok_shfort | "危朽" | - | - |
 | sktok_shielder | 护盾提供 | Provide Shield | シールド付与 |
 | sktok_shmbmb | 全域信息失真 | - | - |
+| sktok_shmetr | 祭台 | - | - |
 | sktok_shnbox | 诱人珍宝 | - | - |
 | sktok_shrbox | 刺人植物 | - | - |
 | sktok_shruin | "崩解" | - | - |

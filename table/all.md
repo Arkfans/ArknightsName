@@ -1061,6 +1061,11 @@ tip: 请善用浏览器的搜索功能
 | trap_335_totalattack | 全场总攻击 | - | - |
 | trap_338_almytw | 能量束发生台 | - | - |
 | trap_339_tchray | “再度绽放” | - | - |
+| trap_343_shmetr | 祭台 | - | - |
+| trap_344_shadvr | 探险者 | - | - |
+| trap_345_shadvt | 沉沦的探险者 | - | - |
+| trap_348_shadvr2 | 探险者 | - | - |
+| trap_349_shadvt2 | 沉沦的探险者 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |
 | trap_401_xbfato | 木材采集站 | Sawing Harvester Hub | 木材採取基地 |
 | trap_403_wfactory | 蟹蟹抽水泵 | Crabbie Pumpie | カニカニポンプ |
@@ -1433,6 +1438,7 @@ tip: 请善用浏览器的搜索功能
 | char_1032_excu2@sale#12 | 众志归一 | Allmind As One | 絶対の集合知 |
 | char_1032_excu2@sanrio#2 | 蒸汽寻踪者 | - | - |
 | char_1033_swire2@ambienceSynesthesia#4 | 律动方格 | Rhythmic Blocks | リズミックブロック |
+| char_1033_swire2@nlc#1 | 盛世之象 | - | - |
 | char_1034_jesca2@cfa#1 | 《上任达维镇》 | 'Ride to Davistown' | 『デイヴィスタウンへ赴く』 |
 | char_1035_wisdel@game#9 | 绝对主角 | - | - |
 | char_1035_wisdel@sale#14 | 超新星 | Supernova | 超新星 |
@@ -1443,6 +1449,7 @@ tip: 请善用浏览器的搜索功能
 | char_103_angel@kfc#1 | 城市骑手 | City Rider | シティライダー |
 | char_103_angel@sale#8 | 午夜邮差 | Midnight Delivery | 真夜中の配達人 |
 | char_103_angel@wild#1 | 野地秘行 | Wild Operation | 荒野潜行 |
+| char_1040_blaze2@nlc#1 | 夜行烛火 | - | - |
 | char_1040_blaze2@winter#5 | 夜归人 | - | - |
 | char_1041_angel2@iteration#6 | 寻翼之歌 | - | - |
 | char_1042_phatm2@sightseer#4 | 真我自扼 | - | - |
@@ -1557,6 +1564,7 @@ tip: 请善用浏览器的搜索功能
 | char_2024_chyue@cfa#1 | 全能演员 | All-Round Actor | 万能俳優 |
 | char_2024_chyue@nian#10 | 何处栖 | Alighting | 何処棲 |
 | char_2025_shu@nian#11 | 春日宴 | Spring Feast | 春日宴 |
+| char_2025_shu@nlc#1 | 源远流长 | - | - |
 | char_2026_yu@nian#12 | 愿清晓 | - | - |
 | char_202_demkni@ambienceSynesthesia#7 | 黑白冷峻 | - | - |
 | char_202_demkni@boc#1 | 坚城 | Stronghold | 堅城 |
@@ -3452,6 +3460,11 @@ tip: 请善用浏览器的搜索功能
 | enemy_2152_shezlc | 恶笼草 | - | - |
 | enemy_2153_shcan | 坎诺特 | - | - |
 | enemy_2154_shdfb | “火种” | - | - |
+| enemy_2157_shadvr | 沉沦之人 | - | - |
+| enemy_2157_shadvr_1 | 艾穆拉伊，祝日降临 | - | - |
+| enemy_2157_shadvr_2 | 托斯卡特尔，末日敕令 | - | - |
+| enemy_2158_sheagl | 灼目神使 | - | - |
+| enemy_2159_shjagr | 黯锋助祭 | - | - |
 | enemy_3001_upeopl | 乌萨斯平民 | Ursus Civilian | ウルサス民間人 |
 | enemy_3002_ftrtal | 斗士塔露拉 | Talulah, the Fighter | 闘士タルラ |
 | enemy_3003_alymot | 大奖赛运输艇 | Competition Transport Vessel | 大会輸送艇 |
@@ -3996,6 +4009,7 @@ Event | なないろのお茶会 |
 イベント |
 | act4signvs | 端阳正午签到活动 | - | - |
 | act4switch | 时光的赠礼  | - | - |
+| act4video | 恒远津梁限时登录 | - | - |
 | act50side | 泡影苍霆 | - | - |
 | act50sign | 风物留痕签到活动 | - | - |
 | act51side | 人们，我们 | - | - |
@@ -4948,6 +4962,7 @@ Event | なないろのお茶会 |
 | itempack_stickers_rog3 | 贴纸包/银凇止境 | - | - |
 | itempack_stickers_rog4 | 贴纸包/无终奇语 | - | - |
 | itempack_stickers_rog5 | 贴纸包/界园志异 | - | - |
+| itempack_stickers_rog6 | 贴纸包/黑流树海 | - | - |
 | itempack_stickers_sand1 | 贴纸包/沙洲遗闻 | - | - |
 | itempack_stickers_sand2 | 贴纸包/重启锚点 | - | - |
 | main16_spitem_1 | 暗淡的源石 | - | - |
@@ -5563,6 +5578,7 @@ Event | なないろのお茶会 |
 | uni_set_court | 叙拉古人家具收藏包 | Il Siracusano Furniture Pack | シラクザーノ家具パック |
 | uni_set_cultureroom | 孤星家具收藏包 | Lone Trail Furniture Pack | 孤星家具パック |
 | uni_set_darkForest_1 | 黑流印象家具收藏包一 | - | - |
+| uni_set_darkForest_2 | 黑流印象家具收藏包二 | - | - |
 | uni_set_fNearl | 玛莉娅·临光家具收藏包 | Maria Nearl Furniture Pack | マリア・ニアール家具パック |
 | uni_set_gardenFantasy_1 | 界园印象家具收藏包一 | - | - |
 | uni_set_gardenFantasy_2 | 界园印象家具收藏包二 | - | - |
@@ -7523,10 +7539,15 @@ Event | なないろのお茶会 |
 | sktok_sensor | 反隐 | Detection | アンチステルス |
 | sktok_sglink | 纯净结晶 | Pure Crystal | 純粋結晶 |
 | sktok_sgray | 结晶消除桩 | Decrystallizing Totem | 結晶除去杭 |
+| sktok_shadvr | 布方 | - | - |
+| sktok_shadvr2 | 布方 | - | - |
+| sktok_shadvt | 太阳渴望鲜血！ | - | - |
+| sktok_shadvt2 | 太阳渴望鲜血！ | - | - |
 | sktok_shchst | “我的了！” | - | - |
 | sktok_shfort | "危朽" | - | - |
 | sktok_shielder | 护盾提供 | Provide Shield | シールド付与 |
 | sktok_shmbmb | 全域信息失真 | - | - |
+| sktok_shmetr | 祭台 | - | - |
 | sktok_shnbox | 诱人珍宝 | - | - |
 | sktok_shrbox | 刺人植物 | - | - |
 | sktok_shruin | "崩解" | - | - |

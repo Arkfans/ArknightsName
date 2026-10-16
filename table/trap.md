@@ -525,6 +525,11 @@ tip: 请善用浏览器的搜索功能
 | trap_335_totalattack | 全场总攻击 | - | - |
 | trap_338_almytw | 能量束发生台 | - | - |
 | trap_339_tchray | “再度绽放” | - | - |
+| trap_343_shmetr | 祭台 | - | - |
+| trap_344_shadvr | 探险者 | - | - |
+| trap_345_shadvt | 沉沦的探险者 | - | - |
+| trap_348_shadvr2 | 探险者 | - | - |
+| trap_349_shadvt2 | 沉沦的探险者 | - | - |
 | trap_400_xbfarm | 便携式种植槽 | Portable Planting Trough | 栽培ポット |
 | trap_401_xbfato | 木材采集站 | Sawing Harvester Hub | 木材採取基地 |
 | trap_403_wfactory | 蟹蟹抽水泵 | Crabbie Pumpie | カニカニポンプ |

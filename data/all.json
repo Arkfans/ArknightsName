@@ -7819,6 +7819,36 @@
       "zh_CN": "“再度绽放”"
     }
   },
+  "trap_343_shmetr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "祭台"
+    }
+  },
+  "trap_344_shadvr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "探险者"
+    }
+  },
+  "trap_345_shadvt": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "沉沦的探险者"
+    }
+  },
+  "trap_348_shadvr2": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "探险者"
+    }
+  },
+  "trap_349_shadvt2": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "沉沦的探险者"
+    }
+  },
   "trap_400_xbfarm": {
     "type": "TRAP",
     "names": {
@@ -10475,6 +10505,12 @@
       "zh_CN": "律动方格"
     }
   },
+  "char_1033_swire2@nlc#1": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "盛世之象"
+    }
+  },
   "char_1034_jesca2@cfa#1": {
     "type": "SKIN",
     "names": {
@@ -10545,6 +10581,12 @@
       "en_US": "Wild Operation",
       "ja_JP": "荒野潜行",
       "zh_CN": "野地秘行"
+    }
+  },
+  "char_1040_blaze2@nlc#1": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "夜行烛火"
     }
   },
   "char_1040_blaze2@winter#5": {
@@ -11419,6 +11461,12 @@
       "en_US": "Spring Feast",
       "ja_JP": "春日宴",
       "zh_CN": "春日宴"
+    }
+  },
+  "char_2025_shu@nlc#1": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "源远流长"
     }
   },
   "char_2026_yu@nian#12": {
@@ -25693,6 +25741,36 @@
       "zh_CN": "“火种”"
     }
   },
+  "enemy_2157_shadvr": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "沉沦之人"
+    }
+  },
+  "enemy_2157_shadvr_1": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "艾穆拉伊，祝日降临"
+    }
+  },
+  "enemy_2157_shadvr_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "托斯卡特尔，末日敕令"
+    }
+  },
+  "enemy_2158_sheagl": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "灼目神使"
+    }
+  },
+  "enemy_2159_shjagr": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "黯锋助祭"
+    }
+  },
   "enemy_3001_upeopl": {
     "type": "ENEMY",
     "names": {
@@ -29658,6 +29736,12 @@
     "type": "ACTIVITY",
     "names": {
       "zh_CN": "时光的赠礼 "
+    }
+  },
+  "act4video": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "恒远津梁限时登录"
     }
   },
   "act50side": {
@@ -36781,6 +36865,12 @@
       "zh_CN": "贴纸包/界园志异"
     }
   },
+  "itempack_stickers_rog6": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "贴纸包/黑流树海"
+    }
+  },
   "itempack_stickers_sand1": {
     "type": "ITEM",
     "names": {
@@ -41495,6 +41585,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "黑流印象家具收藏包一"
+    }
+  },
+  "uni_set_darkForest_2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "黑流印象家具收藏包二"
     }
   },
   "uni_set_fNearl": {
@@ -56022,6 +56118,30 @@
       "zh_CN": "结晶消除桩"
     }
   },
+  "sktok_shadvr": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "布方"
+    }
+  },
+  "sktok_shadvr2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "布方"
+    }
+  },
+  "sktok_shadvt": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "太阳渴望鲜血！"
+    }
+  },
+  "sktok_shadvt2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "太阳渴望鲜血！"
+    }
+  },
   "sktok_shchst": {
     "type": "SKILL",
     "names": {
@@ -56046,6 +56166,12 @@
     "type": "SKILL",
     "names": {
       "zh_CN": "全域信息失真"
+    }
+  },
+  "sktok_shmetr": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "祭台"
     }
   },
   "sktok_shnbox": {

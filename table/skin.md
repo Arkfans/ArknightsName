@@ -47,6 +47,7 @@ tip: 请善用浏览器的搜索功能
 | char_1032_excu2@sale#12 | 众志归一 | Allmind As One | 絶対の集合知 |
 | char_1032_excu2@sanrio#2 | 蒸汽寻踪者 | - | - |
 | char_1033_swire2@ambienceSynesthesia#4 | 律动方格 | Rhythmic Blocks | リズミックブロック |
+| char_1033_swire2@nlc#1 | 盛世之象 | - | - |
 | char_1034_jesca2@cfa#1 | 《上任达维镇》 | 'Ride to Davistown' | 『デイヴィスタウンへ赴く』 |
 | char_1035_wisdel@game#9 | 绝对主角 | - | - |
 | char_1035_wisdel@sale#14 | 超新星 | Supernova | 超新星 |
@@ -57,6 +58,7 @@ tip: 请善用浏览器的搜索功能
 | char_103_angel@kfc#1 | 城市骑手 | City Rider | シティライダー |
 | char_103_angel@sale#8 | 午夜邮差 | Midnight Delivery | 真夜中の配達人 |
 | char_103_angel@wild#1 | 野地秘行 | Wild Operation | 荒野潜行 |
+| char_1040_blaze2@nlc#1 | 夜行烛火 | - | - |
 | char_1040_blaze2@winter#5 | 夜归人 | - | - |
 | char_1041_angel2@iteration#6 | 寻翼之歌 | - | - |
 | char_1042_phatm2@sightseer#4 | 真我自扼 | - | - |
@@ -171,6 +173,7 @@ tip: 请善用浏览器的搜索功能
 | char_2024_chyue@cfa#1 | 全能演员 | All-Round Actor | 万能俳優 |
 | char_2024_chyue@nian#10 | 何处栖 | Alighting | 何処棲 |
 | char_2025_shu@nian#11 | 春日宴 | Spring Feast | 春日宴 |
+| char_2025_shu@nlc#1 | 源远流长 | - | - |
 | char_2026_yu@nian#12 | 愿清晓 | - | - |
 | char_202_demkni@ambienceSynesthesia#7 | 黑白冷峻 | - | - |
 | char_202_demkni@boc#1 | 坚城 | Stronghold | 堅城 |

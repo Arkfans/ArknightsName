@@ -3802,6 +3802,9 @@
   "itempack_stickers_rog5": {
     "zh_CN": "贴纸包/界园志异"
   },
+  "itempack_stickers_rog6": {
+    "zh_CN": "贴纸包/黑流树海"
+  },
   "itempack_stickers_sand1": {
     "zh_CN": "贴纸包/沙洲遗闻"
   },
@@ -6672,6 +6675,9 @@
   },
   "uni_set_darkForest_1": {
     "zh_CN": "黑流印象家具收藏包一"
+  },
+  "uni_set_darkForest_2": {
+    "zh_CN": "黑流印象家具收藏包二"
   },
   "uni_set_fNearl": {
     "en_US": "Maria Nearl Furniture Pack",

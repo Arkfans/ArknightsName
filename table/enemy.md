@@ -1518,6 +1518,11 @@ tip: 请善用浏览器的搜索功能
 | enemy_2152_shezlc | 恶笼草 | - | - |
 | enemy_2153_shcan | 坎诺特 | - | - |
 | enemy_2154_shdfb | “火种” | - | - |
+| enemy_2157_shadvr | 沉沦之人 | - | - |
+| enemy_2157_shadvr_1 | 艾穆拉伊，祝日降临 | - | - |
+| enemy_2157_shadvr_2 | 托斯卡特尔，末日敕令 | - | - |
+| enemy_2158_sheagl | 灼目神使 | - | - |
+| enemy_2159_shjagr | 黯锋助祭 | - | - |
 | enemy_3001_upeopl | 乌萨斯平民 | Ursus Civilian | ウルサス民間人 |
 | enemy_3002_ftrtal | 斗士塔露拉 | Talulah, the Fighter | 闘士タルラ |
 | enemy_3003_alymot | 大奖赛运输艇 | Competition Transport Vessel | 大会輸送艇 |

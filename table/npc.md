@@ -2779,7 +2779,8 @@ tip: 请善用浏览器的搜索功能
 |   | 离群萨科塔 | Sankta Errari | サンクタB |
 |   | 萨科塔B | Walking Sankta B | 通行人のサンクタB |
 |   | 行走的萨科塔B |   |   |
-| avg_npc_1796_1 | 爱德森 | - | - |
+| avg_npc_1796_1 | 探险队成员B | - | - |
+|   | 爱德森 |   |   |
 |   | 谨慎的拉特兰人 |   |   |
 | avg_npc_1797_1 | 蕾缪安 | Lemuen | レミュアン |
 | avg_npc_1798_1 | 蕾缪乐 | Lemuel | レミュエル |
@@ -3783,6 +3784,7 @@ tip: 请善用浏览器的搜索功能
 |   | 胡安 |   |   |
 |   | 虚弱的乘客 |   |   |
 | avg_npc_2325_1 | 表情平淡的病人 | - | - |
+| avg_npc_2327_1 | 卡萨斯 | - | - |
 | avg_npc_233_1 | 蔓德拉 | Mandragora | マンドラゴラ |
 | avg_npc_234 | “会计” | 'The Accountant' | 「会計官」 |
 |   | “囚犯” | 'The Bandit' | 「劇薬学者」 |
@@ -4881,12 +4883,12 @@ tip: 请善用浏览器的搜索功能
 |   | 拓荒者A | Homeless Resident | 慌てる開拓者 |
 |   | 拓荒者B | Ordinary citizens? | 疲弊した開拓者 |
 |   | 拓荒队成员 | Pioneer | 行く当てのない市民 |
-|   | 无家可归的居民 | Pioneer A | 開拓者A |
-|   | 普通市民？ | Pioneer B | 開拓者B |
-|   | 疲惫的拓荒者 | Pioneer Team Member | 開拓隊の隊員 |
-|   | 脸上带疤的拓荒者 | Rhine Lab Task Force Messenger | 顔に傷跡のある開拓者 |
-|   | 莱茵生命特遣信使 | Scarred Pioneer |   |
-|   |   | Weary Pioneer |   |
+|   | 探险队成员A | Pioneer A | 開拓者A |
+|   | 无家可归的居民 | Pioneer B | 開拓者B |
+|   | 普通市民？ | Pioneer Team Member | 開拓隊の隊員 |
+|   | 疲惫的拓荒者 | Rhine Lab Task Force Messenger | 顔に傷跡のある開拓者 |
+|   | 脸上带疤的拓荒者 | Scarred Pioneer |   |
+|   | 莱茵生命特遣信使 | Weary Pioneer |   |
 | avg_npc_535_1 | 桑尼 | Sonny | サニー |
 | avg_npc_536_1 | 霍尔海雅 | Ho'olheyak | ホルハイヤ |
 | avg_npc_537_1 | 克丽斯腾 | Kristen | クリステン |
