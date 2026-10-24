@@ -1197,6 +1197,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_bgsnow_1 | 抑扬格 | Iamb | イアンボス |
 | sktok_bgsnow_2 | 点题 | Précis | リフレイン |
 | sktok_bgsnow_3 | 锐笔速写 | Opprobrium | レザーシャープペン |
+| sktok_bigbtle_1 | 再来一杯！ | - | - |
 | sktok_bldore | 沥血王座 | Throne of Blood | 血誓の王座 |
 | sktok_blizzard | 暴风雪 | Blizzard | 猛吹雪 |
 | sktok_blizzard_2 | 暴风雪 | Blizzard | 猛吹雪 |
@@ -1207,6 +1208,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_bomb | 坏脾气 | Ill Temper | 大癇癪 |
 | sktok_bondtw | 发射缚网 | Fire Net | 捕縛網発射 |
 | sktok_bonore | 唤血祭坛 | Bloodcalling Altar | 血の祭壇 |
+| sktok_booster_1 | 横冲直撞！ | - | - |
 | sktok_bounc2_1 | 工程钻具 | Drilling Tool | 掘削ドリル |
 | sktok_bouncy_1 | 圣徒之手 | Hand of the Saint | 聖徒の御手 |
 | sktok_bouncy_2 | 圣徒之手·清理模式 | Hand of the Saint - Purification | 聖徒の御手・清掃モード |
@@ -1335,6 +1337,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_folivo_2 | 全景过载摄像 | Panoramic Overload | フルパノラマ撮影 |
 | sktok_frosts | 寒潮 | Frigid Tide | 氷結衝撃波 |
 | sktok_frosts_friend | 寒潮 | Frigid Tide | 氷結衝撃波 |
+| sktok_fshcave_1 | 梦想的第一步！ | - | - |
 | sktok_ftshad_1 | 复制 | Replication | コピー |
 | sktok_fttreant_1 | 生长 | Growth | 生長 |
 | sktok_fttree_1 | 生长 | Growth | 生長 |
@@ -1585,6 +1588,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_streasure | 宝刺伤人 | Dangerous Spike | 危険な棘 |
 | sktok_sunmao | 接 | - | - |
 | sktok_supctl_1 | 冷控处理 | - | - |
+| sktok_superstar_1 | 坚不可摧！ | - | - |
 | sktok_supplycard | 新遣 | Dispatch | 派遣 |
 | sktok_supspt | 天工夜行 | Master Who Walks the Night | 天工夜行 |
 | sktok_supspta | 天工夜行 | Master Who Walks the Night | 天工夜行 |

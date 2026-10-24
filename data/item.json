@@ -1462,6 +1462,9 @@
     "ja_JP": "参加認定証-S1",
     "zh_CN": "参赛认证-S1"
   },
+  "act1museum_milestone_point": {
+    "zh_CN": "积点卡券"
+  },
   "act1sandbox_milestone_point": {
     "en_US": "Badge of Prosperity",
     "ja_JP": "繁栄の証",
@@ -6036,6 +6039,9 @@
     "en_US": "Rhodes Island Supplies IV",
     "ja_JP": "補給物資・ロドスIV",
     "zh_CN": "罗德岛物资补给IV"
+  },
+  "randomMaterial_7d5": {
+    "zh_CN": "2026感谢庆典物资补给"
   },
   "randomMaterial_8": {
     "en_US": "Rhodes Island Supplies V",

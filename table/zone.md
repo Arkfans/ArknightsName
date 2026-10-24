@@ -106,6 +106,10 @@ tip: 请善用浏览器的搜索功能
 | act1football_zone2 | 淘汰赛 | - | - |
 | act1football_zone3 | 特训赛 | - | - |
 | act1lock_zone1 | 始发营地 | Base Camp | 始発拠点 |
+| act1museum_zone_1 | 饥饿虫虫 | - | - |
+| act1museum_zone_2 | 超级钩爪 | - | - |
+| act1museum_zone_3 | 心连心 | - | - |
+| act1museum_zone_4 | 喷泉大战 | - | - |
 | act1r6sre_zone1 | 行动记录 | Task Record | 作戦記録 |
 | act1r6sre_zone2 | 备战训练 | Para Bellum | 戦闘訓練 |
 | act1vecb_zone1 | 第一阶段 | Phase 1 | 第一段階 |

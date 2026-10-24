@@ -2425,6 +2425,42 @@
     "ja_JP": "TUT-要塞ディフェンス",
     "zh_CN": "规则教学-堡垒守御"
   },
+  "act1museum_m1_01": {
+    "zh_CN": "大快朵颐"
+  },
+  "act1museum_m1_02": {
+    "zh_CN": "一饱口福"
+  },
+  "act1museum_m1_03": {
+    "zh_CN": "饕餮盛宴"
+  },
+  "act1museum_m2_01": {
+    "zh_CN": "疾速红羽"
+  },
+  "act1museum_m2_02": {
+    "zh_CN": "水边狂欢"
+  },
+  "act1museum_m2_03": {
+    "zh_CN": "硬壳游行"
+  },
+  "act1museum_m3_01": {
+    "zh_CN": "条条大路"
+  },
+  "act1museum_m3_02": {
+    "zh_CN": "蜿蜒队列"
+  },
+  "act1museum_m3_03": {
+    "zh_CN": "幽深洞穴"
+  },
+  "act1museum_m4_01": {
+    "zh_CN": "甜蜜冲锋"
+  },
+  "act1museum_m4_02": {
+    "zh_CN": "汽水节庆"
+  },
+  "act1museum_m4_03": {
+    "zh_CN": "绒绒快跑"
+  },
   "act1vautochess_m01": {
     "en_US": "AC-TR-1",
     "ja_JP": "AC-TR-1",
@@ -5980,6 +6016,9 @@
   },
   "camp_r_33": {
     "zh_CN": "默祷圣祠"
+  },
+  "camp_r_34": {
+    "zh_CN": "灰石剧场"
   },
   "hard_05-01": {
     "en_US": "Operation Inferno-1",

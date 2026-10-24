@@ -515,6 +515,18 @@ tip: 请善用浏览器的搜索功能
 | act1multi_tr01 | 规则教学-常规项目 | Tutorial - Regular Events | TUT-通常種目 |
 | act1multi_tr02 | 规则教学-阵地足球 | Tutorial - Positional Football | TUT-ポジションサッカー |
 | act1multi_tr03 | 规则教学-堡垒守御 | Tutorial - Bastion Defense | TUT-要塞ディフェンス |
+| act1museum_m1_01 | 大快朵颐 | - | - |
+| act1museum_m1_02 | 一饱口福 | - | - |
+| act1museum_m1_03 | 饕餮盛宴 | - | - |
+| act1museum_m2_01 | 疾速红羽 | - | - |
+| act1museum_m2_02 | 水边狂欢 | - | - |
+| act1museum_m2_03 | 硬壳游行 | - | - |
+| act1museum_m3_01 | 条条大路 | - | - |
+| act1museum_m3_02 | 蜿蜒队列 | - | - |
+| act1museum_m3_03 | 幽深洞穴 | - | - |
+| act1museum_m4_01 | 甜蜜冲锋 | - | - |
+| act1museum_m4_02 | 汽水节庆 | - | - |
+| act1museum_m4_03 | 绒绒快跑 | - | - |
 | act1vautochess_m01 | AC-TR-1 | AC-TR-1 | AC-TR-1 |
 | act1vautochess_m02 | AC-1 | AC-1 | AC-1 |
 | act1vautochess_m03 | AC-2 | AC-2 | AC-2 |
@@ -1341,6 +1353,7 @@ tip: 请善用浏览器的搜索功能
 | camp_r_31 | 炽灼车间 | - | - |
 | camp_r_32 | 朱墙食府 | - | - |
 | camp_r_33 | 默祷圣祠 | - | - |
+| camp_r_34 | 灰石剧场 | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |
 | hard_05-02 | 炼狱行动-2 | Operation Inferno-2 | 煉獄作戦-2 |
 | hard_05-03 | 炼狱行动-3 | Operation Inferno-3 | 煉獄作戦-3 |

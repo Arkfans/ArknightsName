@@ -316,6 +316,7 @@ tip: 请善用浏览器的搜索功能
 | act1mainlinebp_token_star | 里程碑碎片 | Milestone Fragment | マイルストーンの欠片 |
 | act1mainss_token_medi | 急性感染抑制剂 | Emergency Inhibitor | 急性感染抑制剤 |
 | act1multi_token_cap | 参赛认证-S1 | Participation Certificate - S1 | 参加認定証-S1 |
+| act1museum_milestone_point | 积点卡券 | - | - |
 | act1sandbox_milestone_point | 繁荣证章 | Badge of Prosperity | 繁栄の証 |
 | act1teamquest_point | 共竞积分 | - | - |
 | act1vautochess_token_chess | 卫戍认证 | Stronghold Credits | 堅守認証 |
@@ -1322,6 +1323,7 @@ tip: 请善用浏览器的搜索功能
 | randomMaterial_6 | 罗德岛物资补给III | Rhodes Island Supplies III | 補給物資・ロドスIII |
 | randomMaterial_6d5 | 2025感谢庆典物资补给 | - | - |
 | randomMaterial_7 | 罗德岛物资补给IV | Rhodes Island Supplies IV | 補給物資・ロドスIV |
+| randomMaterial_7d5 | 2026感谢庆典物资补给 | - | - |
 | randomMaterial_8 | 罗德岛物资补给V | Rhodes Island Supplies V | 補給物資・ロドスV |
 | randomMaterial_9 | 罗德岛物资补给VI | Rhodes Island Supplies VI | 補給物資・ロドスVI |
 | randomMaterial_act38side | 狂欢烟花桶 | Carnival Canister | 狂宴花火セット |

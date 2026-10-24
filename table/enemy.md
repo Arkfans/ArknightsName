@@ -1644,6 +1644,12 @@ tip: 请善用浏览器的搜索功能
 | enemy_5505_arctxi | “两栖号”船车 | 'The Amphibian' Ship-Car | ボトルカー「水陸両用号」 |
 | enemy_5506_arcgo | “搁浅零件” | 'Washed-Up Parts' | 「ボトルパーツ」 |
 | enemy_5507_arctolm | 喷泉“汽水侠” | Fountain 'Soda Knight' | 噴水「サイダーマン」 |
+| enemy_5508_hrgyfsh | “再吃一口”源石虫 | - | - |
+| enemy_5509_revfish | 闪耀源石 | - | - |
+| enemy_5511_bigfish | “大吨位！”源石虫 | - | - |
+| enemy_5512_stkslm | 源石碎块 | - | - |
+| enemy_5513_porter | “抢零食！”鳞兽 | - | - |
+| enemy_5514_poslam | 喷泉“甜蜜气泡” | - | - |
 | enemy_6001_trsgst | 飞腿毛贼 | Fleet-footed Thief | コソ泥フライ |
 | enemy_6002_trswlf | 流眼泪侦探 | Teary Detective | 涙眼の探偵 |
 | enemy_6003_trsslm | “闪亮噗噜” | 'Shiny Pooloo' | 「キラプル」 |

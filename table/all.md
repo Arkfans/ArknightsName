@@ -979,6 +979,11 @@ tip: 请善用浏览器的搜索功能
 | trap_239_dyffgd | 狭路相逢 | - | - |
 | trap_240_dyffdd | 狭路相逢 | - | - |
 | trap_241_dyldlz | 聚宝斋 | - | - |
+| trap_242_fshcave | 温暖的巢穴 | - | - |
+| trap_243_tempturn | 路过的磐蟹 | - | - |
+| trap_244_superstar | 源石盔甲 | - | - |
+| trap_245_booster | 鲍勃之选 | - | - |
+| trap_246_bigbtle | 自助饮品机 | - | - |
 | trap_247_crfilm | 摄影机 | Camera | 撮影カメラ |
 | trap_248_crprop | 打光道具 | Lighting Prop | 照明機材 |
 | trap_249_mjcsdw | “月影之茧” | - | - |
@@ -3586,6 +3591,12 @@ tip: 请善用浏览器的搜索功能
 | enemy_5505_arctxi | “两栖号”船车 | 'The Amphibian' Ship-Car | ボトルカー「水陸両用号」 |
 | enemy_5506_arcgo | “搁浅零件” | 'Washed-Up Parts' | 「ボトルパーツ」 |
 | enemy_5507_arctolm | 喷泉“汽水侠” | Fountain 'Soda Knight' | 噴水「サイダーマン」 |
+| enemy_5508_hrgyfsh | “再吃一口”源石虫 | - | - |
+| enemy_5509_revfish | 闪耀源石 | - | - |
+| enemy_5511_bigfish | “大吨位！”源石虫 | - | - |
+| enemy_5512_stkslm | 源石碎块 | - | - |
+| enemy_5513_porter | “抢零食！”鳞兽 | - | - |
+| enemy_5514_poslam | 喷泉“甜蜜气泡” | - | - |
 | enemy_6001_trsgst | 飞腿毛贼 | Fleet-footed Thief | コソ泥フライ |
 | enemy_6002_trswlf | 流眼泪侦探 | Teary Detective | 涙眼の探偵 |
 | enemy_6003_trsslm | “闪亮噗噜” | 'Shiny Pooloo' | 「キラプル」 |
@@ -3847,8 +3858,10 @@ tip: 请善用浏览器的搜索功能
 | act1mainlinebp | 战备支援 | Tactical Support | 作戦支援 |
 | act1mainss | 慈悲灯塔 | Absolved Will Be the Seekers | 慈悲光塔 |
 | act1multi | 促融共竞#1 | Icebreaker Games #1 | 協心競技#1 |
+| act1museum | 视相博物馆：演化 | - | - |
 | act1r6sre | 源石尘行动·复刻 | Operation Originium Dust - Retrospection | OP:OD復刻 |
 | act1recruit | 特别公开招募 - 资深干员 | - | - |
+| act1reward | 感谢庆典特别招募 | - | - |
 | act1sandbox | 生息演算：沙中之火 | Reclamation Algorithm - Fire Within the Sand | 生息演算：砂中の火 |
 | act1signvs | 端阳正午签到活动 | May the Sunshine Still Sign-In Event | スタンプラリー |
 | act1switch | 宿于繁星合作活动 | - | - |
@@ -4039,6 +4052,7 @@ Event | なないろのお茶会 |
 | act61sign | 此夜同行签到活动 | - | - |
 | act62sign | 锦枫映月签到活动 | - | - |
 | act63sign | 稳态测定签到活动 | - | - |
+| act64sign | 感谢庆典前瞻签到 | - | - |
 | act6bossrush | 引航者试炼 | - | - |
 | act6collection | 梦城堡模拟训练 | - | - |
 | act6d0 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -4431,6 +4445,7 @@ Event | なないろのお茶会 |
 | act1mainlinebp_token_star | 里程碑碎片 | Milestone Fragment | マイルストーンの欠片 |
 | act1mainss_token_medi | 急性感染抑制剂 | Emergency Inhibitor | 急性感染抑制剤 |
 | act1multi_token_cap | 参赛认证-S1 | Participation Certificate - S1 | 参加認定証-S1 |
+| act1museum_milestone_point | 积点卡券 | - | - |
 | act1sandbox_milestone_point | 繁荣证章 | Badge of Prosperity | 繁栄の証 |
 | act1teamquest_point | 共竞积分 | - | - |
 | act1vautochess_token_chess | 卫戍认证 | Stronghold Credits | 堅守認証 |
@@ -5437,6 +5452,7 @@ Event | なないろのお茶会 |
 | randomMaterial_6 | 罗德岛物资补给III | Rhodes Island Supplies III | 補給物資・ロドスIII |
 | randomMaterial_6d5 | 2025感谢庆典物资补给 | - | - |
 | randomMaterial_7 | 罗德岛物资补给IV | Rhodes Island Supplies IV | 補給物資・ロドスIV |
+| randomMaterial_7d5 | 2026感谢庆典物资补给 | - | - |
 | randomMaterial_8 | 罗德岛物资补给V | Rhodes Island Supplies V | 補給物資・ロドスV |
 | randomMaterial_9 | 罗德岛物资补给VI | Rhodes Island Supplies VI | 補給物資・ロドスVI |
 | randomMaterial_act38side | 狂欢烟花桶 | Carnival Canister | 狂宴花火セット |
@@ -7197,6 +7213,7 @@ Event | なないろのお茶会 |
 | sktok_bgsnow_1 | 抑扬格 | Iamb | イアンボス |
 | sktok_bgsnow_2 | 点题 | Précis | リフレイン |
 | sktok_bgsnow_3 | 锐笔速写 | Opprobrium | レザーシャープペン |
+| sktok_bigbtle_1 | 再来一杯！ | - | - |
 | sktok_bldore | 沥血王座 | Throne of Blood | 血誓の王座 |
 | sktok_blizzard | 暴风雪 | Blizzard | 猛吹雪 |
 | sktok_blizzard_2 | 暴风雪 | Blizzard | 猛吹雪 |
@@ -7207,6 +7224,7 @@ Event | なないろのお茶会 |
 | sktok_bomb | 坏脾气 | Ill Temper | 大癇癪 |
 | sktok_bondtw | 发射缚网 | Fire Net | 捕縛網発射 |
 | sktok_bonore | 唤血祭坛 | Bloodcalling Altar | 血の祭壇 |
+| sktok_booster_1 | 横冲直撞！ | - | - |
 | sktok_bounc2_1 | 工程钻具 | Drilling Tool | 掘削ドリル |
 | sktok_bouncy_1 | 圣徒之手 | Hand of the Saint | 聖徒の御手 |
 | sktok_bouncy_2 | 圣徒之手·清理模式 | Hand of the Saint - Purification | 聖徒の御手・清掃モード |
@@ -7335,6 +7353,7 @@ Event | なないろのお茶会 |
 | sktok_folivo_2 | 全景过载摄像 | Panoramic Overload | フルパノラマ撮影 |
 | sktok_frosts | 寒潮 | Frigid Tide | 氷結衝撃波 |
 | sktok_frosts_friend | 寒潮 | Frigid Tide | 氷結衝撃波 |
+| sktok_fshcave_1 | 梦想的第一步！ | - | - |
 | sktok_ftshad_1 | 复制 | Replication | コピー |
 | sktok_fttreant_1 | 生长 | Growth | 生長 |
 | sktok_fttree_1 | 生长 | Growth | 生長 |
@@ -7585,6 +7604,7 @@ Event | なないろのお茶会 |
 | sktok_streasure | 宝刺伤人 | Dangerous Spike | 危険な棘 |
 | sktok_sunmao | 接 | - | - |
 | sktok_supctl_1 | 冷控处理 | - | - |
+| sktok_superstar_1 | 坚不可摧！ | - | - |
 | sktok_supplycard | 新遣 | Dispatch | 派遣 |
 | sktok_supspt | 天工夜行 | Master Who Walks the Night | 天工夜行 |
 | sktok_supspta | 天工夜行 | Master Who Walks the Night | 天工夜行 |
@@ -8340,6 +8360,18 @@ Event | なないろのお茶会 |
 | act1multi_tr01 | 规则教学-常规项目 | Tutorial - Regular Events | TUT-通常種目 |
 | act1multi_tr02 | 规则教学-阵地足球 | Tutorial - Positional Football | TUT-ポジションサッカー |
 | act1multi_tr03 | 规则教学-堡垒守御 | Tutorial - Bastion Defense | TUT-要塞ディフェンス |
+| act1museum_m1_01 | 大快朵颐 | - | - |
+| act1museum_m1_02 | 一饱口福 | - | - |
+| act1museum_m1_03 | 饕餮盛宴 | - | - |
+| act1museum_m2_01 | 疾速红羽 | - | - |
+| act1museum_m2_02 | 水边狂欢 | - | - |
+| act1museum_m2_03 | 硬壳游行 | - | - |
+| act1museum_m3_01 | 条条大路 | - | - |
+| act1museum_m3_02 | 蜿蜒队列 | - | - |
+| act1museum_m3_03 | 幽深洞穴 | - | - |
+| act1museum_m4_01 | 甜蜜冲锋 | - | - |
+| act1museum_m4_02 | 汽水节庆 | - | - |
+| act1museum_m4_03 | 绒绒快跑 | - | - |
 | act1vautochess_m01 | AC-TR-1 | AC-TR-1 | AC-TR-1 |
 | act1vautochess_m02 | AC-1 | AC-1 | AC-1 |
 | act1vautochess_m03 | AC-2 | AC-2 | AC-2 |
@@ -9166,6 +9198,7 @@ Event | なないろのお茶会 |
 | camp_r_31 | 炽灼车间 | - | - |
 | camp_r_32 | 朱墙食府 | - | - |
 | camp_r_33 | 默祷圣祠 | - | - |
+| camp_r_34 | 灰石剧场 | - | - |
 | hard_05-01 | 炼狱行动-1 | Operation Inferno-1 | 煉獄作戦-1 |
 | hard_05-02 | 炼狱行动-2 | Operation Inferno-2 | 煉獄作戦-2 |
 | hard_05-03 | 炼狱行动-3 | Operation Inferno-3 | 煉獄作戦-3 |
@@ -9937,6 +9970,10 @@ Event | なないろのお茶会 |
 | act1football_zone2 | 淘汰赛 | - | - |
 | act1football_zone3 | 特训赛 | - | - |
 | act1lock_zone1 | 始发营地 | Base Camp | 始発拠点 |
+| act1museum_zone_1 | 饥饿虫虫 | - | - |
+| act1museum_zone_2 | 超级钩爪 | - | - |
+| act1museum_zone_3 | 心连心 | - | - |
+| act1museum_zone_4 | 喷泉大战 | - | - |
 | act1r6sre_zone1 | 行动记录 | Task Record | 作戦記録 |
 | act1r6sre_zone2 | 备战训练 | Para Bellum | 戦闘訓練 |
 | act1vecb_zone1 | 第一阶段 | Phase 1 | 第一段階 |

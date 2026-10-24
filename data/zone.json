@@ -492,6 +492,18 @@
     "ja_JP": "始発拠点",
     "zh_CN": "始发营地"
   },
+  "act1museum_zone_1": {
+    "zh_CN": "饥饿虫虫"
+  },
+  "act1museum_zone_2": {
+    "zh_CN": "超级钩爪"
+  },
+  "act1museum_zone_3": {
+    "zh_CN": "心连心"
+  },
+  "act1museum_zone_4": {
+    "zh_CN": "喷泉大战"
+  },
   "act1r6sre_zone1": {
     "en_US": "Task Record",
     "ja_JP": "作戦記録",

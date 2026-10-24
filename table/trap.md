@@ -443,6 +443,11 @@ tip: 请善用浏览器的搜索功能
 | trap_239_dyffgd | 狭路相逢 | - | - |
 | trap_240_dyffdd | 狭路相逢 | - | - |
 | trap_241_dyldlz | 聚宝斋 | - | - |
+| trap_242_fshcave | 温暖的巢穴 | - | - |
+| trap_243_tempturn | 路过的磐蟹 | - | - |
+| trap_244_superstar | 源石盔甲 | - | - |
+| trap_245_booster | 鲍勃之选 | - | - |
+| trap_246_bigbtle | 自助饮品机 | - | - |
 | trap_247_crfilm | 摄影机 | Camera | 撮影カメラ |
 | trap_248_crprop | 打光道具 | Lighting Prop | 照明機材 |
 | trap_249_mjcsdw | “月影之茧” | - | - |

@@ -5439,6 +5439,9 @@
     "ja_JP": "レザーシャープペン",
     "zh_CN": "锐笔速写"
   },
+  "sktok_bigbtle_1": {
+    "zh_CN": "再来一杯！"
+  },
   "sktok_bldore": {
     "en_US": "Throne of Blood",
     "ja_JP": "血誓の王座",
@@ -5488,6 +5491,9 @@
     "en_US": "Bloodcalling Altar",
     "ja_JP": "血の祭壇",
     "zh_CN": "唤血祭坛"
+  },
+  "sktok_booster_1": {
+    "zh_CN": "横冲直撞！"
   },
   "sktok_bounc2_1": {
     "en_US": "Drilling Tool",
@@ -6092,6 +6098,9 @@
     "en_US": "Frigid Tide",
     "ja_JP": "氷結衝撃波",
     "zh_CN": "寒潮"
+  },
+  "sktok_fshcave_1": {
+    "zh_CN": "梦想的第一步！"
   },
   "sktok_ftshad_1": {
     "en_US": "Replication",
@@ -7182,6 +7191,9 @@
   },
   "sktok_supctl_1": {
     "zh_CN": "冷控处理"
+  },
+  "sktok_superstar_1": {
+    "zh_CN": "坚不可摧！"
   },
   "sktok_supplycard": {
     "en_US": "Dispatch",

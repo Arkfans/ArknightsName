@@ -7321,6 +7321,36 @@
       "zh_CN": "聚宝斋"
     }
   },
+  "trap_242_fshcave": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "温暖的巢穴"
+    }
+  },
+  "trap_243_tempturn": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "路过的磐蟹"
+    }
+  },
+  "trap_244_superstar": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "源石盔甲"
+    }
+  },
+  "trap_245_booster": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "鲍勃之选"
+    }
+  },
+  "trap_246_bigbtle": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "自助饮品机"
+    }
+  },
   "trap_247_crfilm": {
     "type": "TRAP",
     "names": {
@@ -26649,6 +26679,42 @@
       "zh_CN": "喷泉“汽水侠”"
     }
   },
+  "enemy_5508_hrgyfsh": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“再吃一口”源石虫"
+    }
+  },
+  "enemy_5509_revfish": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "闪耀源石"
+    }
+  },
+  "enemy_5511_bigfish": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“大吨位！”源石虫"
+    }
+  },
+  "enemy_5512_stkslm": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "源石碎块"
+    }
+  },
+  "enemy_5513_porter": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“抢零食！”鳞兽"
+    }
+  },
+  "enemy_5514_poslam": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "喷泉“甜蜜气泡”"
+    }
+  },
   "enemy_6001_trsgst": {
     "type": "ENEMY",
     "names": {
@@ -28589,6 +28655,12 @@
       "zh_CN": "促融共竞#1"
     }
   },
+  "act1museum": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "视相博物馆：演化"
+    }
+  },
   "act1r6sre": {
     "type": "ACTIVITY",
     "names": {
@@ -28601,6 +28673,12 @@
     "type": "ACTIVITY",
     "names": {
       "zh_CN": "特别公开招募 - 资深干员"
+    }
+  },
+  "act1reward": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "感谢庆典特别招募"
     }
   },
   "act1sandbox": {
@@ -29930,6 +30008,12 @@
     "type": "ACTIVITY",
     "names": {
       "zh_CN": "稳态测定签到活动"
+    }
+  },
+  "act64sign": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "感谢庆典前瞻签到"
     }
   },
   "act6bossrush": {
@@ -32936,6 +33020,12 @@
       "en_US": "Participation Certificate - S1",
       "ja_JP": "参加認定証-S1",
       "zh_CN": "参赛认证-S1"
+    }
+  },
+  "act1museum_milestone_point": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "积点卡券"
     }
   },
   "act1sandbox_milestone_point": {
@@ -40523,6 +40613,12 @@
       "en_US": "Rhodes Island Supplies IV",
       "ja_JP": "補給物資・ロドスIV",
       "zh_CN": "罗德岛物资补给IV"
+    }
+  },
+  "randomMaterial_7d5": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "2026感谢庆典物资补给"
     }
   },
   "randomMaterial_8": {
@@ -53544,6 +53640,12 @@
       "zh_CN": "锐笔速写"
     }
   },
+  "sktok_bigbtle_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "再来一杯！"
+    }
+  },
   "sktok_bldore": {
     "type": "SKILL",
     "names": {
@@ -53622,6 +53724,12 @@
       "en_US": "Bloodcalling Altar",
       "ja_JP": "血の祭壇",
       "zh_CN": "唤血祭坛"
+    }
+  },
+  "sktok_booster_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "横冲直撞！"
     }
   },
   "sktok_bounc2_1": {
@@ -54610,6 +54718,12 @@
       "en_US": "Frigid Tide",
       "ja_JP": "氷結衝撃波",
       "zh_CN": "寒潮"
+    }
+  },
+  "sktok_fshcave_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "梦想的第一步！"
     }
   },
   "sktok_ftshad_1": {
@@ -56450,6 +56564,12 @@
     "type": "SKILL",
     "names": {
       "zh_CN": "冷控处理"
+    }
+  },
+  "sktok_superstar_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "坚不可摧！"
     }
   },
   "sktok_supplycard": {
@@ -62136,6 +62256,78 @@
       "en_US": "Tutorial - Bastion Defense",
       "ja_JP": "TUT-要塞ディフェンス",
       "zh_CN": "规则教学-堡垒守御"
+    }
+  },
+  "act1museum_m1_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "大快朵颐"
+    }
+  },
+  "act1museum_m1_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "一饱口福"
+    }
+  },
+  "act1museum_m1_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "饕餮盛宴"
+    }
+  },
+  "act1museum_m2_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "疾速红羽"
+    }
+  },
+  "act1museum_m2_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "水边狂欢"
+    }
+  },
+  "act1museum_m2_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "硬壳游行"
+    }
+  },
+  "act1museum_m3_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "条条大路"
+    }
+  },
+  "act1museum_m3_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "蜿蜒队列"
+    }
+  },
+  "act1museum_m3_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "幽深洞穴"
+    }
+  },
+  "act1museum_m4_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "甜蜜冲锋"
+    }
+  },
+  "act1museum_m4_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "汽水节庆"
+    }
+  },
+  "act1museum_m4_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "绒绒快跑"
     }
   },
   "act1vautochess_m01": {
@@ -68172,6 +68364,12 @@
       "zh_CN": "默祷圣祠"
     }
   },
+  "camp_r_34": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "灰石剧场"
+    }
+  },
   "hard_05-01": {
     "type": "STAGE",
     "names": {
@@ -74122,6 +74320,30 @@
       "en_US": "Base Camp",
       "ja_JP": "始発拠点",
       "zh_CN": "始发营地"
+    }
+  },
+  "act1museum_zone_1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "饥饿虫虫"
+    }
+  },
+  "act1museum_zone_2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "超级钩爪"
+    }
+  },
+  "act1museum_zone_3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "心连心"
+    }
+  },
+  "act1museum_zone_4": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "喷泉大战"
     }
   },
   "act1r6sre_zone1": {

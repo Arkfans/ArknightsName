@@ -108,8 +108,10 @@ tip: 请善用浏览器的搜索功能
 | act1mainlinebp | 战备支援 | Tactical Support | 作戦支援 |
 | act1mainss | 慈悲灯塔 | Absolved Will Be the Seekers | 慈悲光塔 |
 | act1multi | 促融共竞#1 | Icebreaker Games #1 | 協心競技#1 |
+| act1museum | 视相博物馆：演化 | - | - |
 | act1r6sre | 源石尘行动·复刻 | Operation Originium Dust - Retrospection | OP:OD復刻 |
 | act1recruit | 特别公开招募 - 资深干员 | - | - |
+| act1reward | 感谢庆典特别招募 | - | - |
 | act1sandbox | 生息演算：沙中之火 | Reclamation Algorithm - Fire Within the Sand | 生息演算：砂中の火 |
 | act1signvs | 端阳正午签到活动 | May the Sunshine Still Sign-In Event | スタンプラリー |
 | act1switch | 宿于繁星合作活动 | - | - |
@@ -300,6 +302,7 @@ Event | なないろのお茶会 |
 | act61sign | 此夜同行签到活动 | - | - |
 | act62sign | 锦枫映月签到活动 | - | - |
 | act63sign | 稳态测定签到活动 | - | - |
+| act64sign | 感谢庆典前瞻签到 | - | - |
 | act6bossrush | 引航者试炼 | - | - |
 | act6collection | 梦城堡模拟训练 | - | - |
 | act6d0 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
