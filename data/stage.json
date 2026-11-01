@@ -5540,6 +5540,51 @@
   "act54side_tr01": {
     "zh_CN": "月影"
   },
+  "act55side_01": {
+    "zh_CN": "庸俗的实践"
+  },
+  "act55side_02": {
+    "zh_CN": "孑遗的道路"
+  },
+  "act55side_03": {
+    "zh_CN": "苦难的历程"
+  },
+  "act55side_04": {
+    "zh_CN": "刻板的争论"
+  },
+  "act55side_05": {
+    "zh_CN": "轰鸣的沉默"
+  },
+  "act55side_06": {
+    "zh_CN": "元音的长度"
+  },
+  "act55side_07": {
+    "zh_CN": "滚烫的双眸"
+  },
+  "act55side_08": {
+    "zh_CN": "潮湿的火焰"
+  },
+  "act55side_09": {
+    "zh_CN": "自由的黄昏"
+  },
+  "act55side_10": {
+    "zh_CN": "活着的重量"
+  },
+  "act55side_st01": {
+    "zh_CN": "复生的奇迹"
+  },
+  "act55side_st02": {
+    "zh_CN": "激越的灵魂"
+  },
+  "act55side_st03": {
+    "zh_CN": "孱弱的团结"
+  },
+  "act55side_st04": {
+    "zh_CN": "年轻的未来"
+  },
+  "act55side_tr01": {
+    "zh_CN": "战争的艺术"
+  },
   "act5bossrush_01": {
     "en_US": "Cold and Blood",
     "ja_JP": "極寒に舞う血しぶき",
@@ -7291,7 +7336,7 @@
   "main_06-14": {
     "en_US": "Black Rabbit, White Rabbit",
     "ja_JP": "黒うさぎ、白うさぎ",
-    "zh_CN": "黑兔子,白兔子"
+    "zh_CN": "黑兔子，白兔子"
   },
   "main_06-15": {
     "en_US": "Winter's End",
@@ -8455,7 +8500,7 @@
   "st_06-02": {
     "en_US": "No Light Without Fire",
     "ja_JP": "火も、光もなく",
-    "zh_CN": "没有火,没有光"
+    "zh_CN": "没有火，没有光"
   },
   "st_06-03": {
     "en_US": "Only You Know",

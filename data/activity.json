@@ -305,6 +305,9 @@
     "ja_JP": "溶炉「還魂」譚",
     "zh_CN": "熔炉“还魂”记"
   },
+  "act17pray": {
+    "zh_CN": "幸运墙登录活动"
+  },
   "act17side": {
     "en_US": "Stultifera Navis",
     "ja_JP": "狂人号",
@@ -704,6 +707,9 @@
     "en_US": "Come Catastrophes or Wakes of Vultures - Rerun",
     "ja_JP": "ダーティマネー・復刻",
     "zh_CN": "不义之财 复刻"
+  },
+  "act29login": {
+    "zh_CN": "登录领取奖励"
   },
   "act29side": {
     "en_US": "Zwillingstürme im Herbst",
@@ -1203,6 +1209,9 @@
   "act54sign": {
     "zh_CN": "感谢庆典前瞻签到"
   },
+  "act55side": {
+    "zh_CN": "时间啊，向前！"
+  },
   "act55sign": {
     "zh_CN": "感谢庆典累计签到"
   },
@@ -1276,6 +1285,9 @@
   },
   "act64sign": {
     "zh_CN": "感谢庆典前瞻签到"
+  },
+  "act65sign": {
+    "zh_CN": "感谢庆典限时签到"
   },
   "act6bossrush": {
     "zh_CN": "引航者试炼"

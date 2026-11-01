@@ -28609,6 +28609,12 @@
       "zh_CN": "熔炉“还魂”记"
     }
   },
+  "act17pray": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "幸运墙登录活动"
+    }
+  },
   "act17side": {
     "type": "ACTIVITY",
     "names": {
@@ -29271,6 +29277,12 @@
       "en_US": "Come Catastrophes or Wakes of Vultures - Rerun",
       "ja_JP": "ダーティマネー・復刻",
       "zh_CN": "不义之财 复刻"
+    }
+  },
+  "act29login": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "登录领取奖励"
     }
   },
   "act29side": {
@@ -30122,6 +30134,12 @@
       "zh_CN": "感谢庆典前瞻签到"
     }
   },
+  "act55side": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "时间啊，向前！"
+    }
+  },
   "act55sign": {
     "type": "ACTIVITY",
     "names": {
@@ -30254,6 +30272,12 @@
     "type": "ACTIVITY",
     "names": {
       "zh_CN": "感谢庆典前瞻签到"
+    }
+  },
+  "act65sign": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "感谢庆典限时签到"
     }
   },
   "act6bossrush": {
@@ -68046,6 +68070,96 @@
       "zh_CN": "月影"
     }
   },
+  "act55side_01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "庸俗的实践"
+    }
+  },
+  "act55side_02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "孑遗的道路"
+    }
+  },
+  "act55side_03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "苦难的历程"
+    }
+  },
+  "act55side_04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "刻板的争论"
+    }
+  },
+  "act55side_05": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "轰鸣的沉默"
+    }
+  },
+  "act55side_06": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "元音的长度"
+    }
+  },
+  "act55side_07": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "滚烫的双眸"
+    }
+  },
+  "act55side_08": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "潮湿的火焰"
+    }
+  },
+  "act55side_09": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "自由的黄昏"
+    }
+  },
+  "act55side_10": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "活着的重量"
+    }
+  },
+  "act55side_st01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "复生的奇迹"
+    }
+  },
+  "act55side_st02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "激越的灵魂"
+    }
+  },
+  "act55side_st03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "孱弱的团结"
+    }
+  },
+  "act55side_st04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "年轻的未来"
+    }
+  },
+  "act55side_tr01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "战争的艺术"
+    }
+  },
   "act5bossrush_01": {
     "type": "STAGE",
     "names": {
@@ -70891,7 +71005,7 @@
     "names": {
       "en_US": "Black Rabbit, White Rabbit",
       "ja_JP": "黒うさぎ、白うさぎ",
-      "zh_CN": "黑兔子,白兔子"
+      "zh_CN": "黑兔子，白兔子"
     }
   },
   "main_06-15": {
@@ -72835,7 +72949,7 @@
     "names": {
       "en_US": "No Light Without Fire",
       "ja_JP": "火も、光もなく",
-      "zh_CN": "没有火,没有光"
+      "zh_CN": "没有火，没有光"
     }
   },
   "st_06-03": {

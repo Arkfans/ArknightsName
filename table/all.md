@@ -3860,6 +3860,7 @@ tip: 请善用浏览器的搜索功能
 | act17d7 | 愚人节活动 | April Fools' Day Event | エイプリルフール |
 | act17login | 《明日方舟：冬隐归路》开播庆祝活动 | - | - |
 | act17mini | 熔炉“还魂”记 | A Kazdelian Rescue | 溶炉「還魂」譚 |
+| act17pray | 幸运墙登录活动 | - | - |
 | act17side | 愚人号 | Stultifera Navis | 狂人号 |
 | act17sre | 愚人号·复刻 | Stultifera Navis - Rerun | 狂人号・復刻 |
 | act18d0 | 遗尘漫步 | A Walk in the Dust | 遺塵の道を |
@@ -3950,6 +3951,7 @@ tip: 请善用浏览器的搜索功能
 | act28side | 不义之财 | Come Catastrophes or Wakes of Vultures | ダーティマネー |
 | act28sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act28sre | 不义之财 复刻 | Come Catastrophes or Wakes of Vultures - Rerun | ダーティマネー・復刻 |
+| act29login | 登录领取奖励 | - | - |
 | act29side | 崔林特尔梅之金 | Zwillingstürme im Herbst | ツヴィリングトゥルムの黄金 |
 | act29sign | 桂时逢月——月饼烘焙小教程 | Encounter At The Osmanthus Blossom - Mooncake-Making Tutorial | 円満団楽-ロドス点心教室 |
 | act29sre | 崔林特尔梅之金·复刻 | Zwillingstürme im Herbst - Rerun | ツヴィリングトゥルムの黄金・復刻 |
@@ -4072,6 +4074,7 @@ Event | なないろのお茶会 |
 | act53sign | 金樨迎月签到活动 | - | - |
 | act54side | 月行水上 | - | - |
 | act54sign | 感谢庆典前瞻签到 | - | - |
+| act55side | 时间啊，向前！ | - | - |
 | act55sign | 感谢庆典累计签到 | - | - |
 | act56sign | 感谢庆典累计签到 | - | - |
 | act57sign | 跨年纪念签到活动 | - | - |
@@ -4092,6 +4095,7 @@ Event | なないろのお茶会 |
 | act62sign | 锦枫映月签到活动 | - | - |
 | act63sign | 稳态测定签到活动 | - | - |
 | act64sign | 感谢庆典前瞻签到 | - | - |
+| act65sign | 感谢庆典限时签到 | - | - |
 | act6bossrush | 引航者试炼 | - | - |
 | act6collection | 梦城堡模拟训练 | - | - |
 | act6d0 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -9174,6 +9178,21 @@ Event | なないろのお茶会 |
 | act54side_st01 | 月落 | - | - |
 | act54side_st02 | 满月一生 | - | - |
 | act54side_tr01 | 月影 | - | - |
+| act55side_01 | 庸俗的实践 | - | - |
+| act55side_02 | 孑遗的道路 | - | - |
+| act55side_03 | 苦难的历程 | - | - |
+| act55side_04 | 刻板的争论 | - | - |
+| act55side_05 | 轰鸣的沉默 | - | - |
+| act55side_06 | 元音的长度 | - | - |
+| act55side_07 | 滚烫的双眸 | - | - |
+| act55side_08 | 潮湿的火焰 | - | - |
+| act55side_09 | 自由的黄昏 | - | - |
+| act55side_10 | 活着的重量 | - | - |
+| act55side_st01 | 复生的奇迹 | - | - |
+| act55side_st02 | 激越的灵魂 | - | - |
+| act55side_st03 | 孱弱的团结 | - | - |
+| act55side_st04 | 年轻的未来 | - | - |
+| act55side_tr01 | 战争的艺术 | - | - |
 | act5bossrush_01 | 严寒骤血 | Cold and Blood | 極寒に舞う血しぶき |
 | act5bossrush_02 | 无声破裂 | Silent Crack | 声なき破滅 |
 | act5bossrush_03 | 幕间重影 | Interlude of Shadows | 幕間の多重像 |
@@ -9538,7 +9557,7 @@ Event | なないろのお茶会 |
 | main_06-11 | 冰原之雪 | Snow Upon the Tundra | 氷原の雪 |
 | main_06-12 | 冰原之霜 | Frost Upon the Tundra | 氷原の霜 |
 | main_06-13 | 不错的回忆 | Nostalgia | 悪くない思い出 |
-| main_06-14 | 黑兔子,白兔子 | Black Rabbit, White Rabbit | 黒うさぎ、白うさぎ |
+| main_06-14 | 黑兔子，白兔子 | Black Rabbit, White Rabbit | 黒うさぎ、白うさぎ |
 | main_06-15 | 冬逝 | Winter's End | 冬逝 |
 | main_07-01 | 别离之夜 | Night of Farewells | 別れの夜 |
 | main_07-02 | 变节之刃 | Renegade Blade | 変節の刃 |
@@ -9798,7 +9817,7 @@ Event | なないろのお茶会 |
 | spst_17-01 | 时间之后 | - | - |
 | st_05-01 | 棋胜后着 | Decisive Counterattack | 後手の先手 |
 | st_06-01 | 别说过去的事 | Leave it Behind | 過去を語るな |
-| st_06-02 | 没有火,没有光 | No Light Without Fire | 火も、光もなく |
+| st_06-02 | 没有火，没有光 | No Light Without Fire | 火も、光もなく |
 | st_06-03 | 只有你知道 | Only You Know | お前だけが知っている |
 | st_07-01 | 32:00:00 | 32:00:00 | 32:00:00 |
 | st_07-02 | 26:37:14 | 26:37:14 | 26:37:14 |

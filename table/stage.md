@@ -1254,6 +1254,21 @@ tip: 请善用浏览器的搜索功能
 | act54side_st01 | 月落 | - | - |
 | act54side_st02 | 满月一生 | - | - |
 | act54side_tr01 | 月影 | - | - |
+| act55side_01 | 庸俗的实践 | - | - |
+| act55side_02 | 孑遗的道路 | - | - |
+| act55side_03 | 苦难的历程 | - | - |
+| act55side_04 | 刻板的争论 | - | - |
+| act55side_05 | 轰鸣的沉默 | - | - |
+| act55side_06 | 元音的长度 | - | - |
+| act55side_07 | 滚烫的双眸 | - | - |
+| act55side_08 | 潮湿的火焰 | - | - |
+| act55side_09 | 自由的黄昏 | - | - |
+| act55side_10 | 活着的重量 | - | - |
+| act55side_st01 | 复生的奇迹 | - | - |
+| act55side_st02 | 激越的灵魂 | - | - |
+| act55side_st03 | 孱弱的团结 | - | - |
+| act55side_st04 | 年轻的未来 | - | - |
+| act55side_tr01 | 战争的艺术 | - | - |
 | act5bossrush_01 | 严寒骤血 | Cold and Blood | 極寒に舞う血しぶき |
 | act5bossrush_02 | 无声破裂 | Silent Crack | 声なき破滅 |
 | act5bossrush_03 | 幕间重影 | Interlude of Shadows | 幕間の多重像 |
@@ -1618,7 +1633,7 @@ tip: 请善用浏览器的搜索功能
 | main_06-11 | 冰原之雪 | Snow Upon the Tundra | 氷原の雪 |
 | main_06-12 | 冰原之霜 | Frost Upon the Tundra | 氷原の霜 |
 | main_06-13 | 不错的回忆 | Nostalgia | 悪くない思い出 |
-| main_06-14 | 黑兔子,白兔子 | Black Rabbit, White Rabbit | 黒うさぎ、白うさぎ |
+| main_06-14 | 黑兔子，白兔子 | Black Rabbit, White Rabbit | 黒うさぎ、白うさぎ |
 | main_06-15 | 冬逝 | Winter's End | 冬逝 |
 | main_07-01 | 别离之夜 | Night of Farewells | 別れの夜 |
 | main_07-02 | 变节之刃 | Renegade Blade | 変節の刃 |
@@ -1878,7 +1893,7 @@ tip: 请善用浏览器的搜索功能
 | spst_17-01 | 时间之后 | - | - |
 | st_05-01 | 棋胜后着 | Decisive Counterattack | 後手の先手 |
 | st_06-01 | 别说过去的事 | Leave it Behind | 過去を語るな |
-| st_06-02 | 没有火,没有光 | No Light Without Fire | 火も、光もなく |
+| st_06-02 | 没有火，没有光 | No Light Without Fire | 火も、光もなく |
 | st_06-03 | 只有你知道 | Only You Know | お前だけが知っている |
 | st_07-01 | 32:00:00 | 32:00:00 | 32:00:00 |
 | st_07-02 | 26:37:14 | 26:37:14 | 26:37:14 |
