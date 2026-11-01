@@ -52,6 +52,7 @@ tip: 请善用浏览器的搜索功能
 | story_blitz_set_1_story_1 | 团队坚盾 | The Team's Sturdy Shield | チームの盾 |
 | story_blkkgt_set_1_story_1 | 骑士的旅程 | - | - |
 | story_blkngt_set_1_story_1 | 荒地生灵 | Souls of the Wilderness | 荒野に生まれ |
+| story_blkngt_set_2_story_1 | 赏金猎人转行后 | - | - |
 | story_bluep_set_1_story_1 | 触不可及 | Untouchable | 遥か遠く |
 | story_bobb_set_1_story_1 | 谁与同行 | - | - |
 | story_botany_set_1_story_1 | 发声 | - | - |
@@ -103,6 +104,7 @@ tip: 请善用浏览器的搜索功能
 | story_deepcl_set_2_story_1 | 蓝调 | Blue Notes | ブルース |
 | story_demetr_set_1_story_1 | 一个没有家主的家族 | - | - |
 | story_demkni_set_1_story_1 | 沃土 | - | - |
+| story_dminon_set_1_story_1 | 无名尸 | - | - |
 | story_doberm_set_1_story_1 | 在玻利瓦尔以外 | - | - |
 | story_doroth_set_1_story_1 | 何处是我朋友的家 | Where is the Friend's House? | 友の故郷はいずこ |
 | story_durin_set_1_story_1 | 午休时间 | Lunchtime Nap | お昼休み |
@@ -187,6 +189,7 @@ tip: 请善用浏览器的搜索功能
 | story_iris_set_1_story_1 | 糖果屋 | The Candy House | お菓子の家 |
 | story_ironmn_set_1_story_1 | 啮合不良 | Bad Mesh | 嚙み合わない歯車 |
 | story_jaksel_set_1_story_1 | 无价的勋章 | A Priceless Medal | 価値のない勲章 |
+| story_jcinta_set_1_story_1 | 破土而出 | - | - |
 | story_jesca2_set_1_story_1 | 徽章 | Insignia | 保安官バッジ |
 | story_jesica_set_1_story_1 | 缓步前行 | The Slow Walk Ahead | ゆっくり進む者 |
 | story_jnight_set_1_story_1 | 正义号竭诚为您服务！ | Justice Knight is Here For You! | あなたのお役に立つわ！ |
@@ -269,6 +272,7 @@ tip: 请善用浏览器的搜索功能
 | story_phenxi_set_1_story_1 | 乐园 | Paradisus | 楽園 |
 | story_phenxi_set_2_story_1 | 在干净明亮的夜晚 | - | - |
 | story_philae_set_1_story_1 | 新生 | - | - |
+| story_phonor_set_1_story_1 | 河水流向眼睛 | - | - |
 | story_pianst_set_1_story_1 | 夕阳与朝日 | Dämmerung und Anbruch | 夕日と朝日 |
 | story_pianst_set_2_story_1 | 阳光洒落之前 | Before the Spilling Sunlight | 陽光が降り注ぐ前に |
 | story_pinecn_set_1_story_1 | 展信好 | Yours Sincerely | 拝啓 |
@@ -353,6 +357,7 @@ tip: 请善用浏览器的搜索功能
 | story_swllow_set_1_story_1 | 殊途 | All Roads... | 異なる道 |
 | story_tachak_set_1_story_1 | 一如既往 | The Same As Always | 相も変わらず |
 | story_takila_set_1_story_1 | 尖刺的滋味 | Taste of Thorns | 「尖り」の味わい |
+| story_talr_set_1_story_1 | 体面的本分 | - | - |
 | story_tanya_set_1_story_1 | 昨日已死 | - | - |
 | story_tecno_set_1_story_1 | 共舞 | A Dance Together | 一緒に踊ろう |
 | story_texas_set_1_story_1 | 使命必达 | Guaranteed Success | 絶対に、確実に |

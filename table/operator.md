@@ -335,7 +335,9 @@ tip: 请善用浏览器的搜索功能
 | char_4164_tecno | 特克诺 | Tecno | テクノ |
 | char_4165_ctrail | 云迹 | Contrail | コントレイル |
 | char_4166_varkis | 摆渡人 | - | - |
+| char_4169_caledo | 镜匠 | - | - |
 | char_416_zumama | 森蚺 | Eunectes | ユーネクテス |
+| char_4170_hdbell | 行铃 | - | - |
 | char_4171_wulfen | 钼铅 | Wulfenite | ウルフェナイト |
 | char_4172_xingzh | 行箸 | Xingzhu | シィンズゥ |
 | char_4173_nowell | 诺威尔 | Nowell | ノウエル |
@@ -390,6 +392,10 @@ tip: 请善用浏览器的搜索功能
 | char_4236_tmslot | 时隙 | - | - |
 | char_4237_jcinta | 嘉辛塔 | - | - |
 | char_423_blemsh | 瑕光 | Blemishine | ブレミシャイン |
+| char_4244_tocka | 冻河 | - | - |
+| char_4245_alga | 奥尔佳 | - | - |
+| char_4246_dminon | 国度 | - | - |
+| char_4247_oxi | 塔露拉 | - | - |
 | char_426_billro | 卡涅利安 | Carnelian | カーネリアン |
 | char_427_vigil | 伺夜 | Vigil | ヴィジェル |
 | char_430_fartth | 远牙 | Fartooth | ファートゥース |

@@ -823,6 +823,9 @@
   "LIMITED_TKT_GACHA_10_7601": {
     "zh_CN": "搭车漫游寻访凭证"
   },
+  "LIMITED_TKT_GACHA_10_7901": {
+    "zh_CN": "故土新程寻访凭证"
+  },
   "LIMITED_TKT_GACHA_10_903": {
     "en_US": "Awakening Commemoration Permit",
     "ja_JP": "1周年記念10回スカウト券",
@@ -978,6 +981,9 @@
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_7601": {
+    "zh_CN": "寻访数据契约"
+  },
+  "LMTGS_COIN_7901": {
     "zh_CN": "寻访数据契约"
   },
   "LMTGS_COIN_903": {
@@ -2089,6 +2095,9 @@
   },
   "act54side_token_tape": {
     "zh_CN": "旧磁带"
+  },
+  "act55side_token_record": {
+    "zh_CN": "失效的记录"
   },
   "act5bossrush_milestone_point": {
     "en_US": "Trial EXP",
@@ -3734,6 +3743,12 @@
   "itempack_main_3": {
     "zh_CN": "罗德岛补给箱"
   },
+  "itempack_material_t1": {
+    "zh_CN": "罗德岛基础物资补给I"
+  },
+  "itempack_material_t2": {
+    "zh_CN": "罗德岛基础物资补给II"
+  },
   "itempack_mod_10": {
     "en_US": "Sniper Chip Pack Etcher",
     "ja_JP": "中級狙撃SoCプリンター",
@@ -3873,6 +3888,9 @@
     "en_US": "Startup Cumulative Login Ticket",
     "ja_JP": "リリース累計ログインチケット",
     "zh_CN": "开服累登券"
+  },
+  "openserver3_point_token": {
+    "zh_CN": "见习笔记"
   },
   "p_char_002_amiya": {
     "en_US": "Amiya's Token",
@@ -5464,10 +5482,16 @@
   "p_char_4166_varkis": {
     "zh_CN": "摆渡人的信物"
   },
+  "p_char_4169_caledo": {
+    "zh_CN": "镜匠的信物"
+  },
   "p_char_416_zumama": {
     "en_US": "Eunectes' Token",
     "ja_JP": "ユーネクテスの印",
     "zh_CN": "森蚺的信物"
+  },
+  "p_char_4170_hdbell": {
+    "zh_CN": "行铃的信物"
   },
   "p_char_4171_wulfen": {
     "en_US": "Wulfenite's Token",
@@ -5662,6 +5686,18 @@
     "en_US": "Blemishine's Token",
     "ja_JP": "ブレミシャインの印",
     "zh_CN": "瑕光的信物"
+  },
+  "p_char_4244_tocka": {
+    "zh_CN": "冻河的信物"
+  },
+  "p_char_4245_alga": {
+    "zh_CN": "奥尔佳的信物"
+  },
+  "p_char_4246_dminon": {
+    "zh_CN": "国度的信物"
+  },
+  "p_char_4247_oxi": {
+    "zh_CN": "塔露拉的信物"
   },
   "p_char_426_billro": {
     "en_US": "Carnelian's Token",
@@ -6069,6 +6105,9 @@
   "randomMaterial_act53side": {
     "zh_CN": "“幸福在途”补给包"
   },
+  "randomMaterial_act55side": {
+    "zh_CN": "乌萨斯汇编集"
+  },
   "randomMaterial_amiya": {
     "zh_CN": "兔兔礼品盒"
   },
@@ -6088,6 +6127,9 @@
   },
   "randomMaterial_message4": {
     "zh_CN": "“神秘动物的口袋”"
+  },
+  "randomMaterial_message5": {
+    "zh_CN": "“雪烬”"
   },
   "randomMaterial_rhine2": {
     "en_US": "Technological Investigation Supply",
@@ -6155,6 +6197,9 @@
   "renamingCard_0_073": {
     "zh_CN": "ID信息更新卡"
   },
+  "renamingCard_0_079": {
+    "zh_CN": "ID信息更新卡"
+  },
   "renamingCard_30_018": {
     "en_US": "ID Info Update Card",
     "ja_JP": "ID情報更新カード",
@@ -6204,6 +6249,9 @@
     "zh_CN": "ID信息更新卡"
   },
   "renamingCard_30_073": {
+    "zh_CN": "ID信息更新卡"
+  },
+  "renamingCard_30_079": {
     "zh_CN": "ID信息更新卡"
   },
   "return_credit_token": {
@@ -6847,6 +6895,9 @@
   "voucher_class_pick7301": {
     "zh_CN": "中坚高级干员调用凭证"
   },
+  "voucher_class_pick7901": {
+    "zh_CN": "中坚高级干员调用凭证"
+  },
   "voucher_elite_II_4": {
     "en_US": "Professional Operator Training Invitation Letter",
     "ja_JP": "★4特訓招待状",
@@ -7109,6 +7160,9 @@
   },
   "voucher_item_pick7301": {
     "zh_CN": "周年庆典干员凭证"
+  },
+  "voucher_item_pick7901": {
+    "zh_CN": "感谢庆典干员凭证"
   },
   "voucher_lessng": {
     "en_US": "Lessing's Folder",

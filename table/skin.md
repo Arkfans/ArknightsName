@@ -64,6 +64,7 @@ tip: 请善用浏览器的搜索功能
 | char_1042_phatm2@sightseer#4 | 真我自扼 | - | - |
 | char_1043_leizi2@game#8 | 血翼蔷薇 | - | - |
 | char_1044_hsgma2@whirlwind#11 | 一闪极意 | - | - |
+| char_1045_svash2@sale#20 | 雪覆伦城 | - | - |
 | char_1046_sbell2@ambienceSynesthesia#8 | 曙光祝颂 | - | - |
 | char_106_franka@ncg#1 | 林虹之间 | Rainforest, Me, Rainbow | 深緑にかかる虹 |
 | char_107_liskam@nian#2 | 春竜 | Spring Vouivre | 春竜 |
@@ -359,6 +360,7 @@ tip: 请善用浏览器的搜索功能
 | char_4032_provs@wild#7 | 秋高气爽 | High Autumn | 晴れ渡る秋空 |
 | char_4036_forcer@epoque#20 | 拾翼 | Paper Wing | 不確かな翼 |
 | char_4039_horn@epoque#24 | 化花 | To Effloresce Whitely | 花となりて |
+| char_4039_horn@epoque#59 | 锋光初现 | - | - |
 | char_4040_rockr@lxh#1 | 欢唱之前 | Before Singing | 歌の前に |
 | char_4041_chnut@summer#12 | 悠然假日 HDm57 | Holiday HDm57 | ホリデーHDm57 |
 | char_4042_lumen@ambienceSynesthesia#3 | 灿海浮梦 | Golden Dream | 輝ける夢の海 |
@@ -401,6 +403,7 @@ tip: 请善用浏览器的搜索功能
 | char_4088_hodrer@sightseer#1 | 沉思之庭 | Courtyard of Neka | 思索の庭 |
 | char_4091_ulika@sanrio#1 | 云上直播间 | Stream Above The Clouds | 雲の上から配信中！ |
 | char_4098_vvana@epoque#40 | 寄自奥格尼斯科 | Sent from Ognisko | オグニスコより |
+| char_4098_vvana@epoque#59 | 还愿礼 | - | - |
 | char_4100_caper@summer#18 | 夏卉 FA083 | Summer Flowers FA083 | 夏の花弁FA083 |
 | char_4102_threye@epoque#42 | 林间暖阳 | Midskog Fika | 木漏れ日の中で |
 | char_4104_coldst@striker#3 | 破晓 | Dawnbreak | 破暁 |
@@ -440,6 +443,7 @@ tip: 请善用浏览器的搜索功能
 | char_4151_tinman@sale#11 | 相位面容 | Phase Face | フェーズフェイス |
 | char_4155_talr@yun#9 | 桂影窗 | - | - |
 | char_415_flint@boc#3 | 绚烂夏花 | Gorgeous Flower | 紫藤繚乱 |
+| char_4162_cathy@kitchen#5 | 暖冬教室 | - | - |
 | char_4163_rosesa@game#7 | 冒险启程 | - | - |
 | char_4165_ctrail@yun#11 | 渡澄空 | - | - |
 | char_416_zumama@boc#3 | 熔锻铸匠 | Forgemaster | 熔冶工匠 |
@@ -447,6 +451,7 @@ tip: 请善用浏览器的搜索功能
 | char_4172_xingzh@epoque#51 | 留影 | - | - |
 | char_4173_nowell@iteration#6 | 幽蓝渡灵师 | - | - |
 | char_4177_brigid@epoque#53 | 轻语入梦 | - | - |
+| char_4178_alanna@race#3 | 赤土拉力 | - | - |
 | char_4179_monstr@boc#11 | 锋锐 | - | - |
 | char_4182_oblvns@avemujica#1 | 旋律的主人 | - | - |
 | char_4183_mortis@avemujica#1 | 提线的本我 | - | - |

@@ -2599,12 +2599,24 @@
       "zh_CN": "摆渡人"
     }
   },
+  "char_4169_caledo": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "镜匠"
+    }
+  },
   "char_416_zumama": {
     "type": "OPERATOR",
     "names": {
       "en_US": "Eunectes",
       "ja_JP": "ユーネクテス",
       "zh_CN": "森蚺"
+    }
+  },
+  "char_4170_hdbell": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "行铃"
     }
   },
   "char_4171_wulfen": {
@@ -2961,6 +2973,30 @@
       "en_US": "Blemishine",
       "ja_JP": "ブレミシャイン",
       "zh_CN": "瑕光"
+    }
+  },
+  "char_4244_tocka": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "冻河"
+    }
+  },
+  "char_4245_alga": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "奥尔佳"
+    }
+  },
+  "char_4246_dminon": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "国度"
+    }
+  },
+  "char_4247_oxi": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "塔露拉"
     }
   },
   "char_426_billro": {
@@ -7849,6 +7885,18 @@
       "zh_CN": "“再度绽放”"
     }
   },
+  "trap_341_dsjtzd": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "自爆榴弹"
+    }
+  },
+  "trap_342_dsjhye": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "翻板"
+    }
+  },
   "trap_343_shmetr": {
     "type": "TRAP",
     "names": {
@@ -7867,6 +7915,18 @@
       "zh_CN": "沉沦的探险者"
     }
   },
+  "trap_346_msos": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "紧急部署信标"
+    }
+  },
+  "trap_347_dsjfye": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "翻板"
+    }
+  },
   "trap_348_shadvr2": {
     "type": "TRAP",
     "names": {
@@ -7877,6 +7937,12 @@
     "type": "TRAP",
     "names": {
       "zh_CN": "沉沦的探险者"
+    }
+  },
+  "trap_355_dsjsye": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "翻板"
     }
   },
   "trap_400_xbfarm": {
@@ -10649,6 +10715,12 @@
       "zh_CN": "一闪极意"
     }
   },
+  "char_1045_svash2@sale#20": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "雪覆伦城"
+    }
+  },
   "char_1046_sbell2@ambienceSynesthesia#8": {
     "type": "SKIN",
     "names": {
@@ -12931,6 +13003,12 @@
       "zh_CN": "化花"
     }
   },
+  "char_4039_horn@epoque#59": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "锋光初现"
+    }
+  },
   "char_4040_rockr@lxh#1": {
     "type": "SKIN",
     "names": {
@@ -13253,6 +13331,12 @@
       "zh_CN": "寄自奥格尼斯科"
     }
   },
+  "char_4098_vvana@epoque#59": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "还愿礼"
+    }
+  },
   "char_4100_caper@summer#18": {
     "type": "SKIN",
     "names": {
@@ -13541,6 +13625,12 @@
       "zh_CN": "绚烂夏花"
     }
   },
+  "char_4162_cathy@kitchen#5": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "暖冬教室"
+    }
+  },
   "char_4163_rosesa@game#7": {
     "type": "SKIN",
     "names": {
@@ -13583,6 +13673,12 @@
     "type": "SKIN",
     "names": {
       "zh_CN": "轻语入梦"
+    }
+  },
+  "char_4178_alanna@race#3": {
+    "type": "SKIN",
+    "names": {
+      "zh_CN": "赤土拉力"
     }
   },
   "char_4179_monstr@boc#11": {
@@ -16548,7 +16644,7 @@
   "enemy_10141_xdpeng_2": {
     "type": "ENEMY",
     "names": {
-      "zh_CN": "拥霜羽兽\n"
+      "zh_CN": "拥霜羽兽"
     }
   },
   "enemy_10142_xdturt": {
@@ -17633,6 +17729,90 @@
       "zh_CN": "炮击组长"
     }
   },
+  "enemy_10253_dsjxb": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“蚯蚓”"
+    }
+  },
+  "enemy_10253_dsjxb_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“巨蚯蚓”"
+    }
+  },
+  "enemy_10254_dsjarc": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“蚊子”"
+    }
+  },
+  "enemy_10254_dsjarc_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“复翅蚊子”"
+    }
+  },
+  "enemy_10255_dsjmgc": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“苍蝇”"
+    }
+  },
+  "enemy_10255_dsjmgc_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“多眼苍蝇”"
+    }
+  },
+  "enemy_10256_dsjsld": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“甲虫”"
+    }
+  },
+  "enemy_10256_dsjsld_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“坚壳甲虫”"
+    }
+  },
+  "enemy_10257_dsjtsz": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "卸石苦力"
+    }
+  },
+  "enemy_10257_dsjtsz_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "卸石囚犯"
+    }
+  },
+  "enemy_10258_dsjccs": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“胡蜂”"
+    }
+  },
+  "enemy_10258_dsjccs_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“失巢胡蜂”"
+    }
+  },
+  "enemy_10259_dsjpgg": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“监控”"
+    }
+  },
+  "enemy_10259_dsjpgg_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“有爪监控”"
+    }
+  },
   "enemy_1025_reveng": {
     "type": "ENEMY",
     "names": {
@@ -17647,6 +17827,42 @@
       "en_US": "Hateful Avenger",
       "ja_JP": "ヴェンデッタ",
       "zh_CN": "复仇者"
+    }
+  },
+  "enemy_10260_dsjzds": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“地钻”"
+    }
+  },
+  "enemy_10260_dsjzds_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“装甲地钻”"
+    }
+  },
+  "enemy_10261_dsjcmd": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“蜘蛛”"
+    }
+  },
+  "enemy_10261_dsjcmd_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“烈毒蜘蛛”"
+    }
+  },
+  "enemy_10262_dsjred": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“惘核”"
+    }
+  },
+  "enemy_10263_dsjblk": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“殆因”"
     }
   },
   "enemy_1026_aghost": {
@@ -24625,6 +24841,30 @@
     "type": "ENEMY",
     "names": {
       "zh_CN": "“超惊喜信件”"
+    }
+  },
+  "enemy_1602_blksnk": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "不死的黑蛇"
+    }
+  },
+  "enemy_1602_blksnk2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "不死的黑蛇"
+    }
+  },
+  "enemy_1603_hlystp": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "最后的圣愚"
+    }
+  },
+  "enemy_1603_hlystp2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "最后的圣愚"
     }
   },
   "enemy_17001_wmshp": {
@@ -31966,6 +32206,12 @@
       "zh_CN": "搭车漫游寻访凭证"
     }
   },
+  "LIMITED_TKT_GACHA_10_7901": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "故土新程寻访凭证"
+    }
+  },
   "LIMITED_TKT_GACHA_10_903": {
     "type": "ITEM",
     "names": {
@@ -32223,6 +32469,12 @@
     }
   },
   "LMTGS_COIN_7601": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "寻访数据契约"
+    }
+  },
+  "LMTGS_COIN_7901": {
     "type": "ITEM",
     "names": {
       "zh_CN": "寻访数据契约"
@@ -34113,6 +34365,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "旧磁带"
+    }
+  },
+  "act55side_token_record": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "失效的记录"
     }
   },
   "act5bossrush_milestone_point": {
@@ -36833,6 +37091,18 @@
       "zh_CN": "罗德岛补给箱"
     }
   },
+  "itempack_material_t1": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "罗德岛基础物资补给I"
+    }
+  },
+  "itempack_material_t2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "罗德岛基础物资补给II"
+    }
+  },
   "itempack_mod_10": {
     "type": "ITEM",
     "names": {
@@ -37073,6 +37343,12 @@
       "en_US": "Startup Cumulative Login Ticket",
       "ja_JP": "リリース累計ログインチケット",
       "zh_CN": "开服累登券"
+    }
+  },
+  "openserver3_point_token": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "见习笔记"
     }
   },
   "p_char_002_amiya": {
@@ -39643,12 +39919,24 @@
       "zh_CN": "摆渡人的信物"
     }
   },
+  "p_char_4169_caledo": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "镜匠的信物"
+    }
+  },
   "p_char_416_zumama": {
     "type": "ITEM",
     "names": {
       "en_US": "Eunectes' Token",
       "ja_JP": "ユーネクテスの印",
       "zh_CN": "森蚺的信物"
+    }
+  },
+  "p_char_4170_hdbell": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "行铃的信物"
     }
   },
   "p_char_4171_wulfen": {
@@ -40005,6 +40293,30 @@
       "en_US": "Blemishine's Token",
       "ja_JP": "ブレミシャインの印",
       "zh_CN": "瑕光的信物"
+    }
+  },
+  "p_char_4244_tocka": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "冻河的信物"
+    }
+  },
+  "p_char_4245_alga": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "奥尔佳的信物"
+    }
+  },
+  "p_char_4246_dminon": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "国度的信物"
+    }
+  },
+  "p_char_4247_oxi": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "塔露拉的信物"
     }
   },
   "p_char_426_billro": {
@@ -40665,6 +40977,12 @@
       "zh_CN": "“幸福在途”补给包"
     }
   },
+  "randomMaterial_act55side": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "乌萨斯汇编集"
+    }
+  },
   "randomMaterial_amiya": {
     "type": "ITEM",
     "names": {
@@ -40701,6 +41019,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "“神秘动物的口袋”"
+    }
+  },
+  "randomMaterial_message5": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "“雪烬”"
     }
   },
   "randomMaterial_rhine2": {
@@ -40811,6 +41135,12 @@
       "zh_CN": "ID信息更新卡"
     }
   },
+  "renamingCard_0_079": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "ID信息更新卡"
+    }
+  },
   "renamingCard_30_018": {
     "type": "ITEM",
     "names": {
@@ -40890,6 +41220,12 @@
     }
   },
   "renamingCard_30_073": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "ID信息更新卡"
+    }
+  },
+  "renamingCard_30_079": {
     "type": "ITEM",
     "names": {
       "zh_CN": "ID信息更新卡"
@@ -41959,6 +42295,12 @@
       "zh_CN": "中坚高级干员调用凭证"
     }
   },
+  "voucher_class_pick7901": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "中坚高级干员调用凭证"
+    }
+  },
   "voucher_elite_II_4": {
     "type": "ITEM",
     "names": {
@@ -42391,6 +42733,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "周年庆典干员凭证"
+    }
+  },
+  "voucher_item_pick7901": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "感谢庆典干员凭证"
     }
   },
   "voucher_lessng": {
@@ -43015,6 +43363,12 @@
     "type": "POOL",
     "names": {
       "zh_CN": "车辙与风的归所"
+    }
+  },
+  "LIMITED_79_0_1": {
+    "type": "POOL",
+    "names": {
+      "zh_CN": "将雪投火"
     }
   },
   "LIMITED_9_0_3": {
@@ -44986,6 +45340,18 @@
       "zh_CN": "“万斤顶”"
     }
   },
+  "skchr_alga_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "交叉施压"
+    }
+  },
+  "skchr_alga_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "只为我的答案"
+    }
+  },
   "skchr_almond_1": {
     "type": "SKILL",
     "names": {
@@ -45844,6 +46210,18 @@
       "zh_CN": "震撼型指路"
     }
   },
+  "skchr_caledo_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "无公差切割"
+    }
+  },
+  "skchr_caledo_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "“多面镜”"
+    }
+  },
   "skchr_cammou_2": {
     "type": "SKILL",
     "names": {
@@ -46454,6 +46832,24 @@
       "en_US": "Calcification",
       "ja_JP": "硬質化",
       "zh_CN": "钙质化"
+    }
+  },
+  "skchr_dminon_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "停步"
+    }
+  },
+  "skchr_dminon_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "受戮"
+    }
+  },
+  "skchr_dminon_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "无人的国度"
     }
   },
   "skchr_doberm_1": {
@@ -47394,6 +47790,18 @@
     "type": "SKILL",
     "names": {
       "zh_CN": "座浅"
+    }
+  },
+  "skchr_hdbell_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "花椰菜冲击"
+    }
+  },
+  "skchr_hdbell_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "蔬菜大拼盘"
     }
   },
   "skchr_headb2_1": {
@@ -49194,6 +49602,24 @@
       "zh_CN": "爆破回收"
     }
   },
+  "skchr_oxi_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "照霎白夜"
+    }
+  },
+  "skchr_oxi_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "阂断骤雪"
+    }
+  },
+  "skchr_oxi_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "日冕重烈"
+    }
+  },
   "skchr_pallas_1": {
     "type": "SKILL",
     "names": {
@@ -50880,6 +51306,24 @@
     "type": "SKILL",
     "names": {
       "zh_CN": "科技与传统仪式"
+    }
+  },
+  "skchr_tocka_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "一无所有之人"
+    }
+  },
+  "skchr_tocka_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "意欲呼啸之心"
+    }
+  },
+  "skchr_tocka_3": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "踽踽独行之春"
     }
   },
   "skchr_toddi_1": {
@@ -55500,6 +55944,12 @@
       "zh_CN": "弱化"
     }
   },
+  "sktok_msos_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "紧急部署"
+    }
+  },
   "sktok_mtship_1": {
     "type": "SKILL",
     "names": {
@@ -56658,6 +57108,12 @@
     "type": "SKILL",
     "names": {
       "zh_CN": "消杀程序"
+    }
+  },
+  "sktok_tempturn": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "好痛！"
     }
   },
   "sktok_tfalco": {
@@ -75542,6 +75998,24 @@
       "zh_CN": "殡仪堂"
     }
   },
+  "act55side_zone1": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "残照终尽"
+    }
+  },
+  "act55side_zone2": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "长冬初青"
+    }
+  },
+  "act55side_zone3": {
+    "type": "ZONE",
+    "names": {
+      "zh_CN": "世纪之春"
+    }
+  },
   "act5bossrush_zone1": {
     "type": "ZONE",
     "names": {
@@ -77112,6 +77586,12 @@
       "zh_CN": "荒地生灵"
     }
   },
+  "story_blkngt_set_2_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "赏金猎人转行后"
+    }
+  },
   "story_bluep_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -77496,6 +77976,12 @@
     "type": "MEMORY",
     "names": {
       "zh_CN": "沃土"
+    }
+  },
+  "story_dminon_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "无名尸"
     }
   },
   "story_doberm_set_1_story_1": {
@@ -78148,6 +78634,12 @@
       "zh_CN": "无价的勋章"
     }
   },
+  "story_jcinta_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "破土而出"
+    }
+  },
   "story_jesca2_set_1_story_1": {
     "type": "MEMORY",
     "names": {
@@ -78772,6 +79264,12 @@
     "type": "MEMORY",
     "names": {
       "zh_CN": "新生"
+    }
+  },
+  "story_phonor_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "河水流向眼睛"
     }
   },
   "story_pianst_set_1_story_1": {
@@ -79422,6 +79920,12 @@
       "en_US": "Taste of Thorns",
       "ja_JP": "「尖り」の味わい",
       "zh_CN": "尖刺的滋味"
+    }
+  },
+  "story_talr_set_1_story_1": {
+    "type": "MEMORY",
+    "names": {
+      "zh_CN": "体面的本分"
     }
   },
   "story_tanya_set_1_story_1": {

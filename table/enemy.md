@@ -294,8 +294,7 @@ tip: 请善用浏览器的搜索功能
 | enemy_10140_xdbird | 洞栖雪灵 | - | - |
 | enemy_10140_xdbird_2 | 山谷雪灵 | - | - |
 | enemy_10141_xdpeng | 抱蛋羽兽 | - | - |
-| enemy_10141_xdpeng_2 | 拥霜羽兽
- | - | - |
+| enemy_10141_xdpeng_2 | 拥霜羽兽 | - | - |
 | enemy_10142_xdturt | 翻身甲 | - | - |
 | enemy_10142_xdturt_2 | 坚冰翻身甲 | - | - |
 | enemy_10143_xdmush | 小雪伞 | - | - |
@@ -477,8 +476,28 @@ tip: 请善用浏览器的搜索功能
 | enemy_1023_jmage_2 | 隐形术师组长 | Invisible Caster Leader | 迷彩術師隊長 |
 | enemy_1024_mortar | 炮手 | Mortar Gunner | 砲兵 |
 | enemy_1024_mortar_2 | 炮击组长 | Mortar Gunner Leader | 砲兵隊長 |
+| enemy_10253_dsjxb | “蚯蚓” | - | - |
+| enemy_10253_dsjxb_2 | “巨蚯蚓” | - | - |
+| enemy_10254_dsjarc | “蚊子” | - | - |
+| enemy_10254_dsjarc_2 | “复翅蚊子” | - | - |
+| enemy_10255_dsjmgc | “苍蝇” | - | - |
+| enemy_10255_dsjmgc_2 | “多眼苍蝇” | - | - |
+| enemy_10256_dsjsld | “甲虫” | - | - |
+| enemy_10256_dsjsld_2 | “坚壳甲虫” | - | - |
+| enemy_10257_dsjtsz | 卸石苦力 | - | - |
+| enemy_10257_dsjtsz_2 | 卸石囚犯 | - | - |
+| enemy_10258_dsjccs | “胡蜂” | - | - |
+| enemy_10258_dsjccs_2 | “失巢胡蜂” | - | - |
+| enemy_10259_dsjpgg | “监控” | - | - |
+| enemy_10259_dsjpgg_2 | “有爪监控” | - | - |
 | enemy_1025_reveng | 寻仇者 | Avenger | リベンジャー |
 | enemy_1025_reveng_2 | 复仇者 | Hateful Avenger | ヴェンデッタ |
+| enemy_10260_dsjzds | “地钻” | - | - |
+| enemy_10260_dsjzds_2 | “装甲地钻” | - | - |
+| enemy_10261_dsjcmd | “蜘蛛” | - | - |
+| enemy_10261_dsjcmd_2 | “烈毒蜘蛛” | - | - |
+| enemy_10262_dsjred | “惘核” | - | - |
+| enemy_10263_dsjblk | “殆因” | - | - |
 | enemy_1026_aghost | 幽灵组长 | Wraith Leader | ゴースト隊長 |
 | enemy_1027_mob | 暴徒 | Rioter | 暴徒 |
 | enemy_1027_mob_2 | 暴乱分子 | Rioter Leader | 凶悪暴徒 |
@@ -1358,6 +1377,10 @@ tip: 请善用浏览器的搜索功能
 | enemy_1594_presaint | 圣徒瓦列里奥 | - | - |
 | enemy_1595_agbmes | “酣睡飞行员” | - | - |
 | enemy_1596_agbmal | “超惊喜信件” | - | - |
+| enemy_1602_blksnk | 不死的黑蛇 | - | - |
+| enemy_1602_blksnk2 | 不死的黑蛇 | - | - |
+| enemy_1603_hlystp | 最后的圣愚 | - | - |
+| enemy_1603_hlystp2 | 最后的圣愚 | - | - |
 | enemy_17001_wmshp | 风情街“飘游客” | - | - |
 | enemy_17002_flgshp | 风情街“热情导游” | - | - |
 | enemy_17003_sabshp | 云众演员 | - | - |

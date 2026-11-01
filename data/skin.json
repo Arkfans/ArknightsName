@@ -252,6 +252,9 @@
   "char_1044_hsgma2@whirlwind#11": {
     "zh_CN": "一闪极意"
   },
+  "char_1045_svash2@sale#20": {
+    "zh_CN": "雪覆伦城"
+  },
   "char_1046_sbell2@ambienceSynesthesia#8": {
     "zh_CN": "曙光祝颂"
   },
@@ -1649,6 +1652,9 @@
     "ja_JP": "花となりて",
     "zh_CN": "化花"
   },
+  "char_4039_horn@epoque#59": {
+    "zh_CN": "锋光初现"
+  },
   "char_4040_rockr@lxh#1": {
     "en_US": "Before Singing",
     "ja_JP": "歌の前に",
@@ -1845,6 +1851,9 @@
     "ja_JP": "オグニスコより",
     "zh_CN": "寄自奥格尼斯科"
   },
+  "char_4098_vvana@epoque#59": {
+    "zh_CN": "还愿礼"
+  },
   "char_4100_caper@summer#18": {
     "en_US": "Summer Flowers FA083",
     "ja_JP": "夏の花弁FA083",
@@ -2016,6 +2025,9 @@
     "ja_JP": "紫藤繚乱",
     "zh_CN": "绚烂夏花"
   },
+  "char_4162_cathy@kitchen#5": {
+    "zh_CN": "暖冬教室"
+  },
   "char_4163_rosesa@game#7": {
     "zh_CN": "冒险启程"
   },
@@ -2038,6 +2050,9 @@
   },
   "char_4177_brigid@epoque#53": {
     "zh_CN": "轻语入梦"
+  },
+  "char_4178_alanna@race#3": {
+    "zh_CN": "赤土拉力"
   },
   "char_4179_monstr@boc#11": {
     "zh_CN": "锋锐"

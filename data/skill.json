@@ -220,6 +220,12 @@
     "ja_JP": "ウルトラジャッキ",
     "zh_CN": "“万斤顶”"
   },
+  "skchr_alga_1": {
+    "zh_CN": "交叉施压"
+  },
+  "skchr_alga_2": {
+    "zh_CN": "只为我的答案"
+  },
   "skchr_almond_1": {
     "en_US": "Magnetic Grab",
     "ja_JP": "マグネットキャッチャー",
@@ -748,6 +754,12 @@
   "skchr_cairn_2": {
     "zh_CN": "震撼型指路"
   },
+  "skchr_caledo_1": {
+    "zh_CN": "无公差切割"
+  },
+  "skchr_caledo_2": {
+    "zh_CN": "“多面镜”"
+  },
   "skchr_cammou_2": {
     "en_US": "Synchronized Attack",
     "ja_JP": "同調索敵攻撃",
@@ -1119,6 +1131,15 @@
     "en_US": "Calcification",
     "ja_JP": "硬質化",
     "zh_CN": "钙质化"
+  },
+  "skchr_dminon_1": {
+    "zh_CN": "停步"
+  },
+  "skchr_dminon_2": {
+    "zh_CN": "受戮"
+  },
+  "skchr_dminon_3": {
+    "zh_CN": "无人的国度"
   },
   "skchr_doberm_1": {
     "en_US": "Power Strike β",
@@ -1696,6 +1717,12 @@
   },
   "skchr_hbound_2": {
     "zh_CN": "座浅"
+  },
+  "skchr_hdbell_1": {
+    "zh_CN": "花椰菜冲击"
+  },
+  "skchr_hdbell_2": {
+    "zh_CN": "蔬菜大拼盘"
   },
   "skchr_headb2_1": {
     "zh_CN": "誓不低头"
@@ -2790,6 +2817,15 @@
     "ja_JP": "ミーボ起爆",
     "zh_CN": "爆破回收"
   },
+  "skchr_oxi_1": {
+    "zh_CN": "照霎白夜"
+  },
+  "skchr_oxi_2": {
+    "zh_CN": "阂断骤雪"
+  },
+  "skchr_oxi_3": {
+    "zh_CN": "日冕重烈"
+  },
   "skchr_pallas_1": {
     "en_US": "Strikes of Victory",
     "ja_JP": "勝敗分かつ連撃",
@@ -3820,6 +3856,15 @@
   },
   "skchr_tmslot_2": {
     "zh_CN": "科技与传统仪式"
+  },
+  "skchr_tocka_1": {
+    "zh_CN": "一无所有之人"
+  },
+  "skchr_tocka_2": {
+    "zh_CN": "意欲呼啸之心"
+  },
+  "skchr_tocka_3": {
+    "zh_CN": "踽踽独行之春"
   },
   "skchr_toddi_1": {
     "en_US": "Signal Arrow",
@@ -6558,6 +6603,9 @@
     "ja_JP": "弱体化",
     "zh_CN": "弱化"
   },
+  "sktok_msos_1": {
+    "zh_CN": "紧急部署"
+  },
   "sktok_mtship_1": {
     "zh_CN": "应急肃正防线"
   },
@@ -7246,6 +7294,9 @@
   },
   "sktok_tchray": {
     "zh_CN": "消杀程序"
+  },
+  "sktok_tempturn": {
+    "zh_CN": "好痛！"
   },
   "sktok_tfalco": {
     "en_US": "Trigger Dialogue",

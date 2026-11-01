@@ -1609,10 +1609,16 @@
   "char_4166_varkis": {
     "zh_CN": "摆渡人"
   },
+  "char_4169_caledo": {
+    "zh_CN": "镜匠"
+  },
   "char_416_zumama": {
     "en_US": "Eunectes",
     "ja_JP": "ユーネクテス",
     "zh_CN": "森蚺"
+  },
+  "char_4170_hdbell": {
+    "zh_CN": "行铃"
   },
   "char_4171_wulfen": {
     "en_US": "Wulfenite",
@@ -1807,6 +1813,18 @@
     "en_US": "Blemishine",
     "ja_JP": "ブレミシャイン",
     "zh_CN": "瑕光"
+  },
+  "char_4244_tocka": {
+    "zh_CN": "冻河"
+  },
+  "char_4245_alga": {
+    "zh_CN": "奥尔佳"
+  },
+  "char_4246_dminon": {
+    "zh_CN": "国度"
+  },
+  "char_4247_oxi": {
+    "zh_CN": "塔露拉"
   },
   "char_426_billro": {
     "en_US": "Carnelian",

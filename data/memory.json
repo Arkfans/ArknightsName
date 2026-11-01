@@ -228,6 +228,9 @@
     "ja_JP": "荒野に生まれ",
     "zh_CN": "荒地生灵"
   },
+  "story_blkngt_set_2_story_1": {
+    "zh_CN": "赏金猎人转行后"
+  },
   "story_bluep_set_1_story_1": {
     "en_US": "Untouchable",
     "ja_JP": "遥か遠く",
@@ -460,6 +463,9 @@
   },
   "story_demkni_set_1_story_1": {
     "zh_CN": "沃土"
+  },
+  "story_dminon_set_1_story_1": {
+    "zh_CN": "无名尸"
   },
   "story_doberm_set_1_story_1": {
     "zh_CN": "在玻利瓦尔以外"
@@ -859,6 +865,9 @@
     "ja_JP": "価値のない勲章",
     "zh_CN": "无价的勋章"
   },
+  "story_jcinta_set_1_story_1": {
+    "zh_CN": "破土而出"
+  },
   "story_jesca2_set_1_story_1": {
     "en_US": "Insignia",
     "ja_JP": "保安官バッジ",
@@ -1238,6 +1247,9 @@
   },
   "story_philae_set_1_story_1": {
     "zh_CN": "新生"
+  },
+  "story_phonor_set_1_story_1": {
+    "zh_CN": "河水流向眼睛"
   },
   "story_pianst_set_1_story_1": {
     "en_US": "Dämmerung und Anbruch",
@@ -1636,6 +1648,9 @@
     "en_US": "Taste of Thorns",
     "ja_JP": "「尖り」の味わい",
     "zh_CN": "尖刺的滋味"
+  },
+  "story_talr_set_1_story_1": {
+    "zh_CN": "体面的本分"
   },
   "story_tanya_set_1_story_1": {
     "zh_CN": "昨日已死"

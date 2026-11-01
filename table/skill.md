@@ -52,6 +52,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_akkord_2 | 震爆调谐 | - | - |
 | skchr_alanna_1 | 气动增压 | Pneumatic Power-Up | エアブースター |
 | skchr_alanna_2 | “万斤顶” | 'Million-Pound Jack' | ウルトラジャッキ |
+| skchr_alga_1 | 交叉施压 | - | - |
+| skchr_alga_2 | 只为我的答案 | - | - |
 | skchr_almond_1 | 磁力抓取 | Magnetic Grab | マグネットキャッチャー |
 | skchr_almond_2 | 强力牵引 | Power Traction | ハイパートラクション |
 | skchr_amedic_1 | 宛如天启 | Apocalyptic Scene | 天啓の光 |
@@ -162,6 +164,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_buildr_2 | 工程者之愿 | Engineer's Wish | 建築家の願い |
 | skchr_cairn_1 | 覆盖式休整 | - | - |
 | skchr_cairn_2 | 震撼型指路 | - | - |
+| skchr_caledo_1 | 无公差切割 | - | - |
+| skchr_caledo_2 | “多面镜” | - | - |
 | skchr_cammou_2 | 同步索敌攻击 | Synchronized Attack | 同調索敵攻撃 |
 | skchr_caper_1 | 强力击·β型 | Power Strike β | 強撃β |
 | skchr_caper_2 | 乐趣加倍 | Double the Fun | ハピネス200%！ |
@@ -242,6 +246,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_demkni_1 | 急救 | First Aid | 応急処置 |
 | skchr_demkni_2 | 药物配置 | Medicine Dispensing | 薬剤配置 |
 | skchr_demkni_3 | 钙质化 | Calcification | 硬質化 |
+| skchr_dminon_1 | 停步 | - | - |
+| skchr_dminon_2 | 受戮 | - | - |
+| skchr_dminon_3 | 无人的国度 | - | - |
 | skchr_doberm_1 | 强力击·β型 | Power Strike β | 強撃β |
 | skchr_doberm_2 | 鞭策 | Spur | 鞭撻 |
 | skchr_dolris_1 | 我思念的 | - | - |
@@ -363,6 +370,8 @@ tip: 请善用浏览器的搜索功能
 | skchr_hbisc2_2 | 抚业之触 | Nurturing Touch | 業の救済 |
 | skchr_hbound_1 | 触礁 | - | - |
 | skchr_hbound_2 | 座浅 | - | - |
+| skchr_hdbell_1 | 花椰菜冲击 | - | - |
+| skchr_hdbell_2 | 蔬菜大拼盘 | - | - |
 | skchr_headb2_1 | 誓不低头 | - | - |
 | skchr_headb2_2 | 绝不罢休 | - | - |
 | skchr_headb2_3 | 无可抵挡 | - | - |
@@ -598,6 +607,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_orchd2_3 | 龙之箭 | - | - |
 | skchr_otter_1 | 迷惑装置 | Bionic Device | 攪乱装置 |
 | skchr_otter_2 | 爆破回收 | Detonate and Recycle | ミーボ起爆 |
+| skchr_oxi_1 | 照霎白夜 | - | - |
+| skchr_oxi_2 | 阂断骤雪 | - | - |
+| skchr_oxi_3 | 日冕重烈 | - | - |
 | skchr_pallas_1 | 胜利的连击 | Strikes of Victory | 勝敗分かつ連撃 |
 | skchr_pallas_2 | 信念的长鞭 | Whip of Conviction | 信念宿りし長鞭 |
 | skchr_pallas_3 | 英勇的祝福 | Blessing of Heroism | 勇士に捧ぐ祝福 |
@@ -817,6 +829,9 @@ tip: 请善用浏览器的搜索功能
 | skchr_tmoris_1 | 颤栗之弦 | - | - |
 | skchr_tmoris_2 | 无存之所 | - | - |
 | skchr_tmslot_2 | 科技与传统仪式 | - | - |
+| skchr_tocka_1 | 一无所有之人 | - | - |
+| skchr_tocka_2 | 意欲呼啸之心 | - | - |
+| skchr_tocka_3 | 踽踽独行之春 | - | - |
 | skchr_toddi_1 | 信号矢 | Signal Arrow | 信号矢 |
 | skchr_toddi_2 | 便携破城矢 | Portable Fortcracker Arrows | 携帯破城矢 |
 | skchr_toledo_1 | 以假乱真 | - | - |
@@ -1444,6 +1459,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_mound | 风沙掩体 | Sandstorm Protection | 防風壁 |
 | sktok_mptxs_1 | 挥砍 | Brandish | 斬撃 |
 | sktok_mpweak_1 | 弱化 | Weakening | 弱体化 |
+| sktok_msos_1 | 紧急部署 | - | - |
 | sktok_mtship_1 | 应急肃正防线 | - | - |
 | sktok_mtship_2 | 保护性拒止 | - | - |
 | sktok_mtship_3 | 破梏重生 | - | - |
@@ -1601,6 +1617,7 @@ tip: 请善用浏览器的搜索功能
 | sktok_tbpsnc | 高效泡打粉 | High-Efficiency Baking Powder | ベーキングパウダー |
 | sktok_tbsmmc | 芳香精油 | Fragrant Essential Oil | エッセンシャルオイル |
 | sktok_tchray | 消杀程序 | - | - |
+| sktok_tempturn | 好痛！ | - | - |
 | sktok_tfalco | 触发对话 | Trigger Dialogue | 会話発生 |
 | sktok_tidectrl_1 | 小幅涨潮 | Small Rising Tide | 引き潮 |
 | sktok_tidectrl_2 | 大幅涨潮 | Large Rising Tide | 満ち潮 |

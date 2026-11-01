@@ -1292,7 +1292,7 @@
     "zh_CN": "抱蛋羽兽"
   },
   "enemy_10141_xdpeng_2": {
-    "zh_CN": "拥霜羽兽\n"
+    "zh_CN": "拥霜羽兽"
   },
   "enemy_10142_xdturt": {
     "zh_CN": "翻身甲"
@@ -1854,6 +1854,48 @@
     "ja_JP": "砲兵隊長",
     "zh_CN": "炮击组长"
   },
+  "enemy_10253_dsjxb": {
+    "zh_CN": "“蚯蚓”"
+  },
+  "enemy_10253_dsjxb_2": {
+    "zh_CN": "“巨蚯蚓”"
+  },
+  "enemy_10254_dsjarc": {
+    "zh_CN": "“蚊子”"
+  },
+  "enemy_10254_dsjarc_2": {
+    "zh_CN": "“复翅蚊子”"
+  },
+  "enemy_10255_dsjmgc": {
+    "zh_CN": "“苍蝇”"
+  },
+  "enemy_10255_dsjmgc_2": {
+    "zh_CN": "“多眼苍蝇”"
+  },
+  "enemy_10256_dsjsld": {
+    "zh_CN": "“甲虫”"
+  },
+  "enemy_10256_dsjsld_2": {
+    "zh_CN": "“坚壳甲虫”"
+  },
+  "enemy_10257_dsjtsz": {
+    "zh_CN": "卸石苦力"
+  },
+  "enemy_10257_dsjtsz_2": {
+    "zh_CN": "卸石囚犯"
+  },
+  "enemy_10258_dsjccs": {
+    "zh_CN": "“胡蜂”"
+  },
+  "enemy_10258_dsjccs_2": {
+    "zh_CN": "“失巢胡蜂”"
+  },
+  "enemy_10259_dsjpgg": {
+    "zh_CN": "“监控”"
+  },
+  "enemy_10259_dsjpgg_2": {
+    "zh_CN": "“有爪监控”"
+  },
   "enemy_1025_reveng": {
     "en_US": "Avenger",
     "ja_JP": "リベンジャー",
@@ -1863,6 +1905,24 @@
     "en_US": "Hateful Avenger",
     "ja_JP": "ヴェンデッタ",
     "zh_CN": "复仇者"
+  },
+  "enemy_10260_dsjzds": {
+    "zh_CN": "“地钻”"
+  },
+  "enemy_10260_dsjzds_2": {
+    "zh_CN": "“装甲地钻”"
+  },
+  "enemy_10261_dsjcmd": {
+    "zh_CN": "“蜘蛛”"
+  },
+  "enemy_10261_dsjcmd_2": {
+    "zh_CN": "“烈毒蜘蛛”"
+  },
+  "enemy_10262_dsjred": {
+    "zh_CN": "“惘核”"
+  },
+  "enemy_10263_dsjblk": {
+    "zh_CN": "“殆因”"
   },
   "enemy_1026_aghost": {
     "en_US": "Wraith Leader",
@@ -6204,6 +6264,18 @@
   },
   "enemy_1596_agbmal": {
     "zh_CN": "“超惊喜信件”"
+  },
+  "enemy_1602_blksnk": {
+    "zh_CN": "不死的黑蛇"
+  },
+  "enemy_1602_blksnk2": {
+    "zh_CN": "不死的黑蛇"
+  },
+  "enemy_1603_hlystp": {
+    "zh_CN": "最后的圣愚"
+  },
+  "enemy_1603_hlystp2": {
+    "zh_CN": "最后的圣愚"
   },
   "enemy_17001_wmshp": {
     "zh_CN": "风情街“飘游客”"
