@@ -472,6 +472,7 @@ tip: 请善用浏览器的搜索功能
 | char_615_acspec | Misery | Misery | Misery |
 | char_616_pithst | 盟约·辅助干员 | - | - |
 | char_617_sharp2 | 领主·Sharp | - | - |
+| char_618_acrbot | “暴躁铁皮” | - | - |
 | token_10000_silent_healrb | 医疗探机 | Medic Drone | 医療ドローン |
 | token_10001_deepcl_tentac | 触手 | Tentacle | 触手 |
 | token_10002_kalts_mon3tr | Mon3tr | Mon3tr | Mon3tr |
@@ -779,9 +780,41 @@ tip: 请善用浏览器的搜索功能
 | trap_1123_acarm123 | 骑士储蓄罐 | - | - |
 | trap_1124_acarm124 | 随身身份牌 | - | - |
 | trap_1125_acarm125 | 源石溶剂 | - | - |
+| trap_1126_acarm126 | 虹彩活血饮料 | - | - |
+| trap_1127_acarm127 | 雪祀之衣 | - | - |
+| trap_1128_acarm128 | 卫戍推荐信 | - | - |
+| trap_1129_acarm129 | 定期存折 | - | - |
 | trap_112_crsbow | 解雇者清债程序 | Post-Firing Debt Relief Program | 解雇者清算プログラム |
+| trap_1130_acarm130 | 一次性促销券 | - | - |
+| trap_1131_acarm131 | 多功能补剂 | - | - |
+| trap_1132_acarm132 | 灵巧涡轮手套 | - | - |
+| trap_1133_acarm133 | 伊比利亚骨刺刀 | - | - |
+| trap_1134_acarm134 | 莱塔尼亚小鼓 | - | - |
+| trap_1136_acarm136 | 聚合急救箱 | - | - |
+| trap_1137_acarm137 | 可靠怀表 | - | - |
+| trap_1138_acarm138 | 乌萨斯呼吸器 | - | - |
+| trap_1139_acarm139 | 投机骰子 | - | - |
 | trap_113_snflwr | 全自动划账器 | Full-Auto Debit Machine | 全自動送金機 |
+| trap_1140_acarm140 | 电流维式重锤 | - | - |
+| trap_1141_acarm141 | 佣兵名牌 | - | - |
+| trap_1142_acarm142 | 人事部记录 | - | - |
+| trap_1143_acarm143 | 驱逐者瓦斯 | - | - |
+| trap_1144_acarm144 | 驱逐者警棍 | - | - |
+| trap_1145_acarm145 | 驱逐者防暴装备 | - | - |
+| trap_1146_acarm146 | 不退者之盾 | - | - |
+| trap_1147_acarm147 | 不退者力场 | - | - |
+| trap_1148_acarm148 | 不退者卫护系统 | - | - |
+| trap_1149_acarm149 | 动能加速器 | - | - |
 | trap_114_smkbmb | 爆裂毒气罐 | Rupturing Canister | 毒ガスタンク |
+| trap_1150_acarm150 | 动能单手弩 | - | - |
+| trap_1151_acarm151 | 动能轰击弩 | - | - |
+| trap_1152_acarm152 | 汲取者之喙 | - | - |
+| trap_1153_acarm153 | 汲取者之心 | - | - |
+| trap_1154_acarm154 | 汲取者之镰 | - | - |
+| trap_1155_acarm155 | 终极维式重锤 | - | - |
+| trap_1156_acarm156 | 天马之耀 | - | - |
+| trap_1157_acarm157 | 驮兽储蓄罐 | - | - |
+| trap_1158_acarm158 | 瓶装烈性反应 | - | - |
 | trap_115_gasctrl | 毒雾塔控制 | Gas Controller | 毒霧タワー制御装置 |
 | trap_116_stdurk | “过去的我” | 'My Past Self' | 「過去の自分」 |
 | trap_117_ltstat | 圣像 | Holy Statue | 聖像 |
@@ -945,6 +978,7 @@ tip: 请善用浏览器的搜索功能
 | trap_197_muulwr | 护具分发员 | Protective Gear Giver | 防具支給員 |
 | trap_198_muulas | 混乱烟花箱 | Chaotic Fireworks | 花火セット |
 | trap_199_muulrg | 猛兽能量饮料 | Beastmode Energy Drink | ニャンスターエナジー |
+| trap_2000_acclsr | 可露希尔商店trap | - | - |
 | trap_200_muulcl | 喷射汽水机 | Soda Dispenser | サイダー噴射機 |
 | trap_201_muulco | 赛场啦啦队 | Cheerleader | 競技応援団 |
 | trap_202_muworkg | 高级设施建筑工 | Expert Facility Builder | 上級施設建設作業員 |
@@ -3792,8 +3826,26 @@ tip: 请善用浏览器的搜索功能
 | enemy_9021_acduml_2 | 假想敌：管 | - | - |
 | enemy_9022_acdumm | 假想敌：弦 | - | - |
 | enemy_9023_acdums | “余音” | - | - |
+| enemy_9024_acsgnt | “不眠雪山” | - | - |
+| enemy_9025_aclts | “一个小节” | - | - |
+| enemy_9026_acltm | “一个乐部” | - | - |
+| enemy_9027_acfnca | 冲击之械 | - | - |
+| enemy_9028_acfncb | 量变之械 | - | - |
+| enemy_9029_acfnc | 假想敌：械 | - | - |
+| enemy_9029_acfnc_2 | 假想敌：械 | - | - |
+| enemy_9030_acpara | 萨卡兹子裔寄生者 | - | - |
+| enemy_9031_acrefd | 假想敌：镜波 | - | - |
 | enemy_9032_aclionk | 阿利斯泰尔，帝国余晖 | - | - |
 | enemy_9033_acdeer | “萨米的意志” | - | - |
+| enemy_9034_acblk | 假想敌：影役 | - | - |
+| enemy_9035_acspider | 假想敌：茧 | - | - |
+| enemy_9035_acspider_2 | 假想敌：茧 | - | - |
+| enemy_9036_acweb | 淤困之茧 | - | - |
+| enemy_9037_aceel | 假想敌：鳍 | - | - |
+| enemy_9037_aceel_2 | 假想敌：鳍 | - | - |
+| enemy_9038_achest | “模拟宝藏” | - | - |
+| enemy_9039_acrefm | 假想敌：镜眼 | - | - |
+| enemy_9040_accrit | 假想敌：丛生 | - | - |
 | 0D5act | 限时任务 | Limited-time Mission | 期間限定任務 |
 | 1stact | 赏金猎人金币 | Bounty Coin | ラッキーコイン |
 | act10d5 | 乌萨斯的孩子们 | Children of Ursus | ウルサスの子供たち |
@@ -4005,6 +4057,7 @@ tip: 请善用浏览器的搜索功能
 | act39sign | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
 | act39sre | 出苍白海·复刻 | - | - |
 | act3access | 七周年专享活动 | - | - |
+| act3autochess | 卫戍协议:规程 | - | - |
 | act3blessing | 2026罗德岛新春签到 | - | - |
 | act3bossrush | 引航者试炼 | Trials for Navigator | 導灯の試練 |
 | act3break | 矢量突破#3 拟生态 | - | - |
@@ -4096,6 +4149,7 @@ Event | なないろのお茶会 |
 | act63sign | 稳态测定签到活动 | - | - |
 | act64sign | 感谢庆典前瞻签到 | - | - |
 | act65sign | 感谢庆典限时签到 | - | - |
+| act66sign | 感谢庆典补给签到 | - | - |
 | act6bossrush | 引航者试炼 | - | - |
 | act6collection | 梦城堡模拟训练 | - | - |
 | act6d0 | 限时累计签到 | Limited-time Cumulative Sign-In | 期間限定ログインボーナス |
@@ -4396,6 +4450,7 @@ Event | なないろのお茶会 |
 | RandomSkinbox_4 | 时装回顾展·IV | - | - |
 | RandomSkinbox_5 | 时装回顾展·V | - | - |
 | RandomSkinbox_arkhub_1 | 奇象时装回顾展 | - | - |
+| RandomSkinbox_arkhub_2 | 卫戍时装回顾展 | - | - |
 | SINGLE_49_0_1_GACHA | 如死亦终寻访凭证 | Like Ending Like Death Headhunting Permit | イベントスカウト券 |
 | SINGLE_49_0_1_GACHA_10 | 如死亦终十连寻访凭证 | Like Ending Like Death Ten-roll Headhunting Permit | イベント10回スカウト券 |
 | SINGLE_55_0_1_GACHA | 未致蒙尘寻访凭证 | Never Gilded Headhunting Permit | 褪せざる栄光スカウト券 |
@@ -4584,6 +4639,7 @@ Event | なないろのお茶会 |
 | act38side_token_ticket_rep_1 | 匿名邀请函 | - | - |
 | act39side_token_garum | 盐鳞咸鳞汁 | Saltfin Garum | 塩鱗ガルム |
 | act39side_token_garum_rep_1 | 盐鳞咸鳞汁 | - | - |
+| act3autochess_token_chess | 卫戍认证 | - | - |
 | act3bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act3bossrush_relic_01 | 恢复增幅 | Recovery Boost | 癒しの増幅 |
 | act3bossrush_relic_02 | 扩大化战略 | Strategy Expansion | 拡大化戦略 |
@@ -4750,6 +4806,7 @@ Event | なないろのお茶会 |
 | ap_supply_lt_80 | 应急理智加强剂 | Emergency Sanity Booster | 初級理性回復剤+ |
 | ap_supply_lt_80_2025_1 | 清爽运动饮料 | - | - |
 | ark_odc_act53side_spitem_1 | 温泉度假村体验券 | - | - |
+| autochess_mission_point | 任务点数 | - | - |
 | base_ap | 无人机 | Drone | ドローン |
 | bilibili001 | 预约干员随机4选1 | Preregister to get 1 of 4 Operators randomly | オペレーター指定券 |
 | class_p_char_003_kalts | 凯尔希的中坚信物 | Kal'tsit's Kernel Token | ケルシーの印（中堅） |
@@ -6106,6 +6163,7 @@ Event | なないろのお茶会 |
 | skchr_acpion_1 | 钻心 | Estocada | 貫心 |
 | skchr_acpion_2 | 迅瞬 | Ráfaga | 瞬迅 |
 | skchr_acpion_3 | 只余芬芳 | Lingering Scent | 残り香 |
+| skchr_acrbot_1 | 大丑的愤怒 | - | - |
 | skchr_acspec_1 | 物理的服从 | When Physics Obeys | 服従せし法則 |
 | skchr_acspec_2 | 战争的恭顺 | When War Complies | 恭順せし戦争 |
 | skchr_acspec_3 | 空间的归依 | When Space Surrenders | 帰依せし空間 |
@@ -7226,6 +7284,70 @@ Event | なないろのお茶会 |
 | sktok_acarm124_2 | 随身身份牌 | - | - |
 | sktok_acarm125_1 | 源石溶剂 | - | - |
 | sktok_acarm125_2 | 源石溶剂 | - | - |
+| sktok_acarm126_1 | 虹彩活血饮料 | - | - |
+| sktok_acarm126_2 | 虹彩活血饮料 | - | - |
+| sktok_acarm127_1 | 雪祀之衣 | - | - |
+| sktok_acarm127_2 | 雪祀之衣 | - | - |
+| sktok_acarm128_1 | 卫戍推荐信 | - | - |
+| sktok_acarm128_2 | 卫戍推荐信 | - | - |
+| sktok_acarm129_1 | 定期存折 | - | - |
+| sktok_acarm129_2 | 定期存折 | - | - |
+| sktok_acarm130_1 | 一次性促销券 | - | - |
+| sktok_acarm130_2 | 一次性促销券 | - | - |
+| sktok_acarm131_1 | 多功能补剂 | - | - |
+| sktok_acarm131_2 | 多功能补剂 | - | - |
+| sktok_acarm132_1 | 灵巧涡轮手套 | - | - |
+| sktok_acarm132_2 | 灵巧涡轮手套 | - | - |
+| sktok_acarm133_1 | 伊比利亚骨刺刀 | - | - |
+| sktok_acarm133_2 | 伊比利亚骨刺刀 | - | - |
+| sktok_acarm134_1 | 莱塔尼亚小鼓 | - | - |
+| sktok_acarm134_2 | 莱塔尼亚小鼓 | - | - |
+| sktok_acarm136_1 | 聚合急救箱 | - | - |
+| sktok_acarm136_2 | 聚合急救箱 | - | - |
+| sktok_acarm137_1 | 可靠怀表 | - | - |
+| sktok_acarm137_2 | 可靠怀表 | - | - |
+| sktok_acarm138_1 | 乌萨斯呼吸器 | - | - |
+| sktok_acarm138_2 | 乌萨斯呼吸器 | - | - |
+| sktok_acarm139_1 | 投机骰子 | - | - |
+| sktok_acarm139_2 | 投机骰子 | - | - |
+| sktok_acarm140_1 | 电流维式重锤 | - | - |
+| sktok_acarm140_2 | 电流维式重锤 | - | - |
+| sktok_acarm141_1 | 佣兵名牌 | - | - |
+| sktok_acarm141_2 | 佣兵名牌 | - | - |
+| sktok_acarm142_1 | 人事部记录 | - | - |
+| sktok_acarm142_2 | 人事部记录 | - | - |
+| sktok_acarm143_1 | 驱逐者瓦斯 | - | - |
+| sktok_acarm143_2 | 驱逐者瓦斯 | - | - |
+| sktok_acarm144_1 | 驱逐者警棍 | - | - |
+| sktok_acarm144_2 | 驱逐者警棍 | - | - |
+| sktok_acarm145_1 | 驱逐者防暴装备 | - | - |
+| sktok_acarm145_2 | 驱逐者防暴装备 | - | - |
+| sktok_acarm146_1 | 不退者之盾 | - | - |
+| sktok_acarm146_2 | 不退者之盾 | - | - |
+| sktok_acarm147_1 | 不退者力场 | - | - |
+| sktok_acarm147_2 | 不退者力场 | - | - |
+| sktok_acarm148_1 | 不退者卫护系统 | - | - |
+| sktok_acarm148_2 | 不退者卫护系统 | - | - |
+| sktok_acarm149_1 | 动能加速器 | - | - |
+| sktok_acarm149_2 | 动能加速器 | - | - |
+| sktok_acarm150_1 | 动能单手弩 | - | - |
+| sktok_acarm150_2 | 动能单手弩 | - | - |
+| sktok_acarm151_1 | 动能轰击弩 | - | - |
+| sktok_acarm151_2 | 动能轰击弩 | - | - |
+| sktok_acarm152_1 | 汲取者之喙 | - | - |
+| sktok_acarm152_2 | 汲取者之喙 | - | - |
+| sktok_acarm153_1 | 汲取者之心 | - | - |
+| sktok_acarm153_2 | 汲取者之心 | - | - |
+| sktok_acarm154_1 | 汲取者之镰 | - | - |
+| sktok_acarm154_2 | 汲取者之镰 | - | - |
+| sktok_acarm155_1 | 终极维式重锤 | - | - |
+| sktok_acarm155_2 | 终极维式重锤 | - | - |
+| sktok_acarm156_1 | 天马之耀 | - | - |
+| sktok_acarm156_2 | 天马之耀 | - | - |
+| sktok_acarm157_1 | 驮兽储蓄罐 | - | - |
+| sktok_acarm157_2 | 驮兽储蓄罐 | - | - |
+| sktok_acarm158_1 | 瓶装烈性反应 | - | - |
+| sktok_acarm158_2 | 瓶装烈性反应 | - | - |
 | sktok_acblzd | 谢拉格寒风 | - | - |
 | sktok_acchal_1 | 教鞭 | - | - |
 | sktok_accopy_1 | 画卷 | - | - |
@@ -9188,6 +9310,10 @@ Event | なないろのお茶会 |
 | act55side_08 | 潮湿的火焰 | - | - |
 | act55side_09 | 自由的黄昏 | - | - |
 | act55side_10 | 活着的重量 | - | - |
+| act55side_s01 | 雪辙 | - | - |
+| act55side_s02 | 霜解 | - | - |
+| act55side_s03 | 日暖 | - | - |
+| act55side_s04 | 汛潮 | - | - |
 | act55side_st01 | 复生的奇迹 | - | - |
 | act55side_st02 | 激越的灵魂 | - | - |
 | act55side_st03 | 孱弱的团结 | - | - |

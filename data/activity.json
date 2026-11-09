@@ -952,6 +952,9 @@
   "act3access": {
     "zh_CN": "七周年专享活动"
   },
+  "act3autochess": {
+    "zh_CN": "卫戍协议:规程"
+  },
   "act3blessing": {
     "zh_CN": "2026罗德岛新春签到"
   },
@@ -1288,6 +1291,9 @@
   },
   "act65sign": {
     "zh_CN": "感谢庆典限时签到"
+  },
+  "act66sign": {
+    "zh_CN": "感谢庆典补给签到"
   },
   "act6bossrush": {
     "zh_CN": "引航者试炼"

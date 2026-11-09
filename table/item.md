@@ -224,6 +224,7 @@ tip: 请善用浏览器的搜索功能
 | RandomSkinbox_4 | 时装回顾展·IV | - | - |
 | RandomSkinbox_5 | 时装回顾展·V | - | - |
 | RandomSkinbox_arkhub_1 | 奇象时装回顾展 | - | - |
+| RandomSkinbox_arkhub_2 | 卫戍时装回顾展 | - | - |
 | SINGLE_49_0_1_GACHA | 如死亦终寻访凭证 | Like Ending Like Death Headhunting Permit | イベントスカウト券 |
 | SINGLE_49_0_1_GACHA_10 | 如死亦终十连寻访凭证 | Like Ending Like Death Ten-roll Headhunting Permit | イベント10回スカウト券 |
 | SINGLE_55_0_1_GACHA | 未致蒙尘寻访凭证 | Never Gilded Headhunting Permit | 褪せざる栄光スカウト券 |
@@ -412,6 +413,7 @@ tip: 请善用浏览器的搜索功能
 | act38side_token_ticket_rep_1 | 匿名邀请函 | - | - |
 | act39side_token_garum | 盐鳞咸鳞汁 | Saltfin Garum | 塩鱗ガルム |
 | act39side_token_garum_rep_1 | 盐鳞咸鳞汁 | - | - |
+| act3autochess_token_chess | 卫戍认证 | - | - |
 | act3bossrush_milestone_point | 试炼经验 | Trial EXP | 試練経験値 |
 | act3bossrush_relic_01 | 恢复增幅 | Recovery Boost | 癒しの増幅 |
 | act3bossrush_relic_02 | 扩大化战略 | Strategy Expansion | 拡大化戦略 |
@@ -578,6 +580,7 @@ tip: 请善用浏览器的搜索功能
 | ap_supply_lt_80 | 应急理智加强剂 | Emergency Sanity Booster | 初級理性回復剤+ |
 | ap_supply_lt_80_2025_1 | 清爽运动饮料 | - | - |
 | ark_odc_act53side_spitem_1 | 温泉度假村体验券 | - | - |
+| autochess_mission_point | 任务点数 | - | - |
 | base_ap | 无人机 | Drone | ドローン |
 | bilibili001 | 预约干员随机4选1 | Preregister to get 1 of 4 Operators randomly | オペレーター指定券 |
 | class_p_char_003_kalts | 凯尔希的中坚信物 | Kal'tsit's Kernel Token | ケルシーの印（中堅） |

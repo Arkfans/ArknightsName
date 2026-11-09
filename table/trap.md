@@ -237,9 +237,41 @@ tip: 请善用浏览器的搜索功能
 | trap_1123_acarm123 | 骑士储蓄罐 | - | - |
 | trap_1124_acarm124 | 随身身份牌 | - | - |
 | trap_1125_acarm125 | 源石溶剂 | - | - |
+| trap_1126_acarm126 | 虹彩活血饮料 | - | - |
+| trap_1127_acarm127 | 雪祀之衣 | - | - |
+| trap_1128_acarm128 | 卫戍推荐信 | - | - |
+| trap_1129_acarm129 | 定期存折 | - | - |
 | trap_112_crsbow | 解雇者清债程序 | Post-Firing Debt Relief Program | 解雇者清算プログラム |
+| trap_1130_acarm130 | 一次性促销券 | - | - |
+| trap_1131_acarm131 | 多功能补剂 | - | - |
+| trap_1132_acarm132 | 灵巧涡轮手套 | - | - |
+| trap_1133_acarm133 | 伊比利亚骨刺刀 | - | - |
+| trap_1134_acarm134 | 莱塔尼亚小鼓 | - | - |
+| trap_1136_acarm136 | 聚合急救箱 | - | - |
+| trap_1137_acarm137 | 可靠怀表 | - | - |
+| trap_1138_acarm138 | 乌萨斯呼吸器 | - | - |
+| trap_1139_acarm139 | 投机骰子 | - | - |
 | trap_113_snflwr | 全自动划账器 | Full-Auto Debit Machine | 全自動送金機 |
+| trap_1140_acarm140 | 电流维式重锤 | - | - |
+| trap_1141_acarm141 | 佣兵名牌 | - | - |
+| trap_1142_acarm142 | 人事部记录 | - | - |
+| trap_1143_acarm143 | 驱逐者瓦斯 | - | - |
+| trap_1144_acarm144 | 驱逐者警棍 | - | - |
+| trap_1145_acarm145 | 驱逐者防暴装备 | - | - |
+| trap_1146_acarm146 | 不退者之盾 | - | - |
+| trap_1147_acarm147 | 不退者力场 | - | - |
+| trap_1148_acarm148 | 不退者卫护系统 | - | - |
+| trap_1149_acarm149 | 动能加速器 | - | - |
 | trap_114_smkbmb | 爆裂毒气罐 | Rupturing Canister | 毒ガスタンク |
+| trap_1150_acarm150 | 动能单手弩 | - | - |
+| trap_1151_acarm151 | 动能轰击弩 | - | - |
+| trap_1152_acarm152 | 汲取者之喙 | - | - |
+| trap_1153_acarm153 | 汲取者之心 | - | - |
+| trap_1154_acarm154 | 汲取者之镰 | - | - |
+| trap_1155_acarm155 | 终极维式重锤 | - | - |
+| trap_1156_acarm156 | 天马之耀 | - | - |
+| trap_1157_acarm157 | 驮兽储蓄罐 | - | - |
+| trap_1158_acarm158 | 瓶装烈性反应 | - | - |
 | trap_115_gasctrl | 毒雾塔控制 | Gas Controller | 毒霧タワー制御装置 |
 | trap_116_stdurk | “过去的我” | 'My Past Self' | 「過去の自分」 |
 | trap_117_ltstat | 圣像 | Holy Statue | 聖像 |
@@ -403,6 +435,7 @@ tip: 请善用浏览器的搜索功能
 | trap_197_muulwr | 护具分发员 | Protective Gear Giver | 防具支給員 |
 | trap_198_muulas | 混乱烟花箱 | Chaotic Fireworks | 花火セット |
 | trap_199_muulrg | 猛兽能量饮料 | Beastmode Energy Drink | ニャンスターエナジー |
+| trap_2000_acclsr | 可露希尔商店trap | - | - |
 | trap_200_muulcl | 喷射汽水机 | Soda Dispenser | サイダー噴射機 |
 | trap_201_muulco | 赛场啦啦队 | Cheerleader | 競技応援団 |
 | trap_202_muworkg | 高级设施建筑工 | Expert Facility Builder | 上級施設建設作業員 |

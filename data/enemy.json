@@ -8165,10 +8165,64 @@
   "enemy_9023_acdums": {
     "zh_CN": "“余音”"
   },
+  "enemy_9024_acsgnt": {
+    "zh_CN": "“不眠雪山”"
+  },
+  "enemy_9025_aclts": {
+    "zh_CN": "“一个小节”"
+  },
+  "enemy_9026_acltm": {
+    "zh_CN": "“一个乐部”"
+  },
+  "enemy_9027_acfnca": {
+    "zh_CN": "冲击之械"
+  },
+  "enemy_9028_acfncb": {
+    "zh_CN": "量变之械"
+  },
+  "enemy_9029_acfnc": {
+    "zh_CN": "假想敌：械"
+  },
+  "enemy_9029_acfnc_2": {
+    "zh_CN": "假想敌：械"
+  },
+  "enemy_9030_acpara": {
+    "zh_CN": "萨卡兹子裔寄生者"
+  },
+  "enemy_9031_acrefd": {
+    "zh_CN": "假想敌：镜波"
+  },
   "enemy_9032_aclionk": {
     "zh_CN": "阿利斯泰尔，帝国余晖"
   },
   "enemy_9033_acdeer": {
     "zh_CN": "“萨米的意志”"
+  },
+  "enemy_9034_acblk": {
+    "zh_CN": "假想敌：影役"
+  },
+  "enemy_9035_acspider": {
+    "zh_CN": "假想敌：茧"
+  },
+  "enemy_9035_acspider_2": {
+    "zh_CN": "假想敌：茧"
+  },
+  "enemy_9036_acweb": {
+    "zh_CN": "淤困之茧"
+  },
+  "enemy_9037_aceel": {
+    "zh_CN": "假想敌：鳍"
+  },
+  "enemy_9037_aceel_2": {
+    "zh_CN": "假想敌：鳍"
+  },
+  "enemy_9038_achest": {
+    "zh_CN": "“模拟宝藏”"
+  },
+  "enemy_9039_acrefm": {
+    "zh_CN": "假想敌：镜眼"
+  },
+  "enemy_9040_accrit": {
+    "zh_CN": "假想敌：丛生"
   }
 }

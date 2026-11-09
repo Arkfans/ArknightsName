@@ -3603,6 +3603,12 @@
       "zh_CN": "领主·Sharp"
     }
   },
+  "char_618_acrbot": {
+    "type": "OPERATOR",
+    "names": {
+      "zh_CN": "“暴躁铁皮”"
+    }
+  },
   "token_10000_silent_healrb": {
     "type": "TOKEN",
     "names": {
@@ -5893,12 +5899,90 @@
       "zh_CN": "源石溶剂"
     }
   },
+  "trap_1126_acarm126": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "虹彩活血饮料"
+    }
+  },
+  "trap_1127_acarm127": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "雪祀之衣"
+    }
+  },
+  "trap_1128_acarm128": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "卫戍推荐信"
+    }
+  },
+  "trap_1129_acarm129": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "定期存折"
+    }
+  },
   "trap_112_crsbow": {
     "type": "TRAP",
     "names": {
       "en_US": "Post-Firing Debt Relief Program",
       "ja_JP": "解雇者清算プログラム",
       "zh_CN": "解雇者清债程序"
+    }
+  },
+  "trap_1130_acarm130": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "一次性促销券"
+    }
+  },
+  "trap_1131_acarm131": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "多功能补剂"
+    }
+  },
+  "trap_1132_acarm132": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "灵巧涡轮手套"
+    }
+  },
+  "trap_1133_acarm133": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "伊比利亚骨刺刀"
+    }
+  },
+  "trap_1134_acarm134": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "莱塔尼亚小鼓"
+    }
+  },
+  "trap_1136_acarm136": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "聚合急救箱"
+    }
+  },
+  "trap_1137_acarm137": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "可靠怀表"
+    }
+  },
+  "trap_1138_acarm138": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "乌萨斯呼吸器"
+    }
+  },
+  "trap_1139_acarm139": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "投机骰子"
     }
   },
   "trap_113_snflwr": {
@@ -5909,12 +5993,126 @@
       "zh_CN": "全自动划账器"
     }
   },
+  "trap_1140_acarm140": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "电流维式重锤"
+    }
+  },
+  "trap_1141_acarm141": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "佣兵名牌"
+    }
+  },
+  "trap_1142_acarm142": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "人事部记录"
+    }
+  },
+  "trap_1143_acarm143": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "驱逐者瓦斯"
+    }
+  },
+  "trap_1144_acarm144": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "驱逐者警棍"
+    }
+  },
+  "trap_1145_acarm145": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "驱逐者防暴装备"
+    }
+  },
+  "trap_1146_acarm146": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "不退者之盾"
+    }
+  },
+  "trap_1147_acarm147": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "不退者力场"
+    }
+  },
+  "trap_1148_acarm148": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "不退者卫护系统"
+    }
+  },
+  "trap_1149_acarm149": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "动能加速器"
+    }
+  },
   "trap_114_smkbmb": {
     "type": "TRAP",
     "names": {
       "en_US": "Rupturing Canister",
       "ja_JP": "毒ガスタンク",
       "zh_CN": "爆裂毒气罐"
+    }
+  },
+  "trap_1150_acarm150": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "动能单手弩"
+    }
+  },
+  "trap_1151_acarm151": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "动能轰击弩"
+    }
+  },
+  "trap_1152_acarm152": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "汲取者之喙"
+    }
+  },
+  "trap_1153_acarm153": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "汲取者之心"
+    }
+  },
+  "trap_1154_acarm154": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "汲取者之镰"
+    }
+  },
+  "trap_1155_acarm155": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "终极维式重锤"
+    }
+  },
+  "trap_1156_acarm156": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "天马之耀"
+    }
+  },
+  "trap_1157_acarm157": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "驮兽储蓄罐"
+    }
+  },
+  "trap_1158_acarm158": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "瓶装烈性反应"
     }
   },
   "trap_115_gasctrl": {
@@ -7053,6 +7251,12 @@
       "en_US": "Beastmode Energy Drink",
       "ja_JP": "ニャンスターエナジー",
       "zh_CN": "猛兽能量饮料"
+    }
+  },
+  "trap_2000_acclsr": {
+    "type": "TRAP",
+    "names": {
+      "zh_CN": "可露希尔商店trap"
     }
   },
   "trap_200_muulcl": {
@@ -28099,6 +28303,60 @@
       "zh_CN": "“余音”"
     }
   },
+  "enemy_9024_acsgnt": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“不眠雪山”"
+    }
+  },
+  "enemy_9025_aclts": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“一个小节”"
+    }
+  },
+  "enemy_9026_acltm": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“一个乐部”"
+    }
+  },
+  "enemy_9027_acfnca": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "冲击之械"
+    }
+  },
+  "enemy_9028_acfncb": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "量变之械"
+    }
+  },
+  "enemy_9029_acfnc": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "假想敌：械"
+    }
+  },
+  "enemy_9029_acfnc_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "假想敌：械"
+    }
+  },
+  "enemy_9030_acpara": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "萨卡兹子裔寄生者"
+    }
+  },
+  "enemy_9031_acrefd": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "假想敌：镜波"
+    }
+  },
   "enemy_9032_aclionk": {
     "type": "ENEMY",
     "names": {
@@ -28109,6 +28367,60 @@
     "type": "ENEMY",
     "names": {
       "zh_CN": "“萨米的意志”"
+    }
+  },
+  "enemy_9034_acblk": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "假想敌：影役"
+    }
+  },
+  "enemy_9035_acspider": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "假想敌：茧"
+    }
+  },
+  "enemy_9035_acspider_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "假想敌：茧"
+    }
+  },
+  "enemy_9036_acweb": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "淤困之茧"
+    }
+  },
+  "enemy_9037_aceel": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "假想敌：鳍"
+    }
+  },
+  "enemy_9037_aceel_2": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "假想敌：鳍"
+    }
+  },
+  "enemy_9038_achest": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "“模拟宝藏”"
+    }
+  },
+  "enemy_9039_acrefm": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "假想敌：镜眼"
+    }
+  },
+  "enemy_9040_accrit": {
+    "type": "ENEMY",
+    "names": {
+      "zh_CN": "假想敌：丛生"
     }
   },
   "0D5act": {
@@ -29685,6 +29997,12 @@
       "zh_CN": "七周年专享活动"
     }
   },
+  "act3autochess": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "卫戍协议:规程"
+    }
+  },
   "act3blessing": {
     "type": "ACTIVITY",
     "names": {
@@ -30278,6 +30596,12 @@
     "type": "ACTIVITY",
     "names": {
       "zh_CN": "感谢庆典限时签到"
+    }
+  },
+  "act66sign": {
+    "type": "ACTIVITY",
+    "names": {
+      "zh_CN": "感谢庆典补给签到"
     }
   },
   "act6bossrush": {
@@ -32572,6 +32896,12 @@
       "zh_CN": "奇象时装回顾展"
     }
   },
+  "RandomSkinbox_arkhub_2": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "卫戍时装回顾展"
+    }
+  },
   "SINGLE_49_0_1_GACHA": {
     "type": "ITEM",
     "names": {
@@ -33984,6 +34314,12 @@
       "zh_CN": "盐鳞咸鳞汁"
     }
   },
+  "act3autochess_token_chess": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "卫戍认证"
+    }
+  },
   "act3bossrush_milestone_point": {
     "type": "ITEM",
     "names": {
@@ -35151,6 +35487,12 @@
     "type": "ITEM",
     "names": {
       "zh_CN": "温泉度假村体验券"
+    }
+  },
+  "autochess_mission_point": {
+    "type": "ITEM",
+    "names": {
+      "zh_CN": "任务点数"
     }
   },
   "base_ap": {
@@ -45186,6 +45528,12 @@
       "zh_CN": "只余芬芳"
     }
   },
+  "skchr_acrbot_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "大丑的愤怒"
+    }
+  },
   "skchr_acspec_1": {
     "type": "SKILL",
     "names": {
@@ -53620,6 +53968,390 @@
     "type": "SKILL",
     "names": {
       "zh_CN": "源石溶剂"
+    }
+  },
+  "sktok_acarm126_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "虹彩活血饮料"
+    }
+  },
+  "sktok_acarm126_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "虹彩活血饮料"
+    }
+  },
+  "sktok_acarm127_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "雪祀之衣"
+    }
+  },
+  "sktok_acarm127_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "雪祀之衣"
+    }
+  },
+  "sktok_acarm128_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "卫戍推荐信"
+    }
+  },
+  "sktok_acarm128_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "卫戍推荐信"
+    }
+  },
+  "sktok_acarm129_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "定期存折"
+    }
+  },
+  "sktok_acarm129_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "定期存折"
+    }
+  },
+  "sktok_acarm130_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "一次性促销券"
+    }
+  },
+  "sktok_acarm130_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "一次性促销券"
+    }
+  },
+  "sktok_acarm131_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "多功能补剂"
+    }
+  },
+  "sktok_acarm131_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "多功能补剂"
+    }
+  },
+  "sktok_acarm132_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "灵巧涡轮手套"
+    }
+  },
+  "sktok_acarm132_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "灵巧涡轮手套"
+    }
+  },
+  "sktok_acarm133_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "伊比利亚骨刺刀"
+    }
+  },
+  "sktok_acarm133_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "伊比利亚骨刺刀"
+    }
+  },
+  "sktok_acarm134_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "莱塔尼亚小鼓"
+    }
+  },
+  "sktok_acarm134_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "莱塔尼亚小鼓"
+    }
+  },
+  "sktok_acarm136_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "聚合急救箱"
+    }
+  },
+  "sktok_acarm136_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "聚合急救箱"
+    }
+  },
+  "sktok_acarm137_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "可靠怀表"
+    }
+  },
+  "sktok_acarm137_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "可靠怀表"
+    }
+  },
+  "sktok_acarm138_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "乌萨斯呼吸器"
+    }
+  },
+  "sktok_acarm138_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "乌萨斯呼吸器"
+    }
+  },
+  "sktok_acarm139_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "投机骰子"
+    }
+  },
+  "sktok_acarm139_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "投机骰子"
+    }
+  },
+  "sktok_acarm140_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "电流维式重锤"
+    }
+  },
+  "sktok_acarm140_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "电流维式重锤"
+    }
+  },
+  "sktok_acarm141_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "佣兵名牌"
+    }
+  },
+  "sktok_acarm141_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "佣兵名牌"
+    }
+  },
+  "sktok_acarm142_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "人事部记录"
+    }
+  },
+  "sktok_acarm142_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "人事部记录"
+    }
+  },
+  "sktok_acarm143_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "驱逐者瓦斯"
+    }
+  },
+  "sktok_acarm143_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "驱逐者瓦斯"
+    }
+  },
+  "sktok_acarm144_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "驱逐者警棍"
+    }
+  },
+  "sktok_acarm144_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "驱逐者警棍"
+    }
+  },
+  "sktok_acarm145_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "驱逐者防暴装备"
+    }
+  },
+  "sktok_acarm145_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "驱逐者防暴装备"
+    }
+  },
+  "sktok_acarm146_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "不退者之盾"
+    }
+  },
+  "sktok_acarm146_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "不退者之盾"
+    }
+  },
+  "sktok_acarm147_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "不退者力场"
+    }
+  },
+  "sktok_acarm147_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "不退者力场"
+    }
+  },
+  "sktok_acarm148_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "不退者卫护系统"
+    }
+  },
+  "sktok_acarm148_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "不退者卫护系统"
+    }
+  },
+  "sktok_acarm149_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "动能加速器"
+    }
+  },
+  "sktok_acarm149_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "动能加速器"
+    }
+  },
+  "sktok_acarm150_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "动能单手弩"
+    }
+  },
+  "sktok_acarm150_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "动能单手弩"
+    }
+  },
+  "sktok_acarm151_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "动能轰击弩"
+    }
+  },
+  "sktok_acarm151_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "动能轰击弩"
+    }
+  },
+  "sktok_acarm152_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "汲取者之喙"
+    }
+  },
+  "sktok_acarm152_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "汲取者之喙"
+    }
+  },
+  "sktok_acarm153_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "汲取者之心"
+    }
+  },
+  "sktok_acarm153_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "汲取者之心"
+    }
+  },
+  "sktok_acarm154_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "汲取者之镰"
+    }
+  },
+  "sktok_acarm154_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "汲取者之镰"
+    }
+  },
+  "sktok_acarm155_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "终极维式重锤"
+    }
+  },
+  "sktok_acarm155_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "终极维式重锤"
+    }
+  },
+  "sktok_acarm156_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "天马之耀"
+    }
+  },
+  "sktok_acarm156_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "天马之耀"
+    }
+  },
+  "sktok_acarm157_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "驮兽储蓄罐"
+    }
+  },
+  "sktok_acarm157_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "驮兽储蓄罐"
+    }
+  },
+  "sktok_acarm158_1": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "瓶装烈性反应"
+    }
+  },
+  "sktok_acarm158_2": {
+    "type": "SKILL",
+    "names": {
+      "zh_CN": "瓶装烈性反应"
     }
   },
   "sktok_acblzd": {
@@ -68128,6 +68860,30 @@
     "type": "STAGE",
     "names": {
       "zh_CN": "活着的重量"
+    }
+  },
+  "act55side_s01": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "雪辙"
+    }
+  },
+  "act55side_s02": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "霜解"
+    }
+  },
+  "act55side_s03": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "日暖"
+    }
+  },
+  "act55side_s04": {
+    "type": "STAGE",
+    "names": {
+      "zh_CN": "汛潮"
     }
   },
   "act55side_st01": {

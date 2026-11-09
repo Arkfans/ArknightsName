@@ -1024,6 +1024,9 @@
   "RandomSkinbox_arkhub_1": {
     "zh_CN": "奇象时装回顾展"
   },
+  "RandomSkinbox_arkhub_2": {
+    "zh_CN": "卫戍时装回顾展"
+  },
   "SINGLE_49_0_1_GACHA": {
     "en_US": "Like Ending Like Death Headhunting Permit",
     "ja_JP": "イベントスカウト券",
@@ -1872,6 +1875,9 @@
   "act39side_token_garum_rep_1": {
     "zh_CN": "盐鳞咸鳞汁"
   },
+  "act3autochess_token_chess": {
+    "zh_CN": "卫戍认证"
+  },
   "act3bossrush_milestone_point": {
     "en_US": "Trial EXP",
     "ja_JP": "試練経験値",
@@ -2548,6 +2554,9 @@
   },
   "ark_odc_act53side_spitem_1": {
     "zh_CN": "温泉度假村体验券"
+  },
+  "autochess_mission_point": {
+    "zh_CN": "任务点数"
   },
   "base_ap": {
     "en_US": "Drone",
